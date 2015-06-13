@@ -85,7 +85,7 @@ class RestAPI {
 		$entity = new $class_name;
 		
         if (method_exists($entity, $this->method)) {
-            return $this->_response($entity->{$this->method}($this->args, $this->verb));
+            return $this->_response($entity->{$this->method}($this->verb, $this->args));
         }
 		
         return $this->_response("No Endpoint: $this->endpoint", 404);

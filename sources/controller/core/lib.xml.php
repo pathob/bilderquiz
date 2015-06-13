@@ -1,3 +1,4 @@
+<?php
 
 function xml_encode($mixed, $domElement=null, $DOMDocument=null) {
     if (is_null($DOMDocument)) {
@@ -37,3 +38,5 @@ function xml_encode($mixed, $domElement=null, $DOMDocument=null) {
         }
     }
 }
+
+?>
