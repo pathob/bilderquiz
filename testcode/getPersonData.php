@@ -84,7 +84,7 @@
 	echo "Occurance of person attributes:<br>";
 	
 	foreach($keyCount as $key => $values){
-		echo $key."$key:$values<br>";
+		echo "$key:$values<br>";
 	}
 	
 	echo "<br><br> Collected professions:<br><br>";
