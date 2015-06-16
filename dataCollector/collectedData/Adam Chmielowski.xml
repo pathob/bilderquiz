@@ -1,0 +1,28 @@
+<Person>
+<name>Adam Chmielowski</name>
+<variantName>
+<XML_Serializer_Tag>Albert, Brat</XML_Serializer_Tag>
+<XML_Serializer_Tag>Albert Chmielowski</XML_Serializer_Tag>
+<XML_Serializer_Tag>Adam Hilary Bernard Chmielowski</XML_Serializer_Tag>
+</variantName>
+<thumbnail>https://de.wikipedia.org/wiki/Special:FilePath/Albert_Chmielowski.jpg?width=270</thumbnail>
+<birthEN>1846</birthEN>
+<birthDE>1846</birthDE>
+<deathEN>1916</deathEN>
+<deathDE>1916</deathDE>
+<birthPlace>
+<XML_Serializer_Tag>Igołomia</XML_Serializer_Tag>
+</birthPlace>
+<deathPlace>
+<XML_Serializer_Tag>Krakau</XML_Serializer_Tag>
+</deathPlace>
+<professionOrOccupation>
+<XML_Serializer_Tag>Maler</XML_Serializer_Tag>
+<XML_Serializer_Tag>Franziskaner</XML_Serializer_Tag>
+<XML_Serializer_Tag>Jesuit</XML_Serializer_Tag>
+</professionOrOccupation>
+<artworks />
+<dbpResource>http://dbpedia.org/resource/Albert_Chmielowski</dbpResource>
+<abstract>Albert Chmielowski (Geburtsname: Adam Chmielowski, * 20. August 1845 in Igołomia, Polen; † 25. Dezember 1916 in Krakau) war ein Maler und polnischer Ordensgründer. Er ist ein Heiliger der katholischen Kirche.</abstract>
+<wikilink>http://en.wikipedia.org/wiki/Albert_Chmielowski?oldid=588063689</wikilink>
+</Person>

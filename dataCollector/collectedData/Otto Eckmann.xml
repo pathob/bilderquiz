@@ -1,0 +1,26 @@
+<Person>
+<name>Otto Eckmann</name>
+<variantName>
+<XML_Serializer_Tag>Otto Theodor Heinrich Eckmann</XML_Serializer_Tag>
+</variantName>
+<thumbnail>https://commons.wikimedia.org/wiki/Special:FilePath/Otto_eckmann.jpg?width=270</thumbnail>
+<birthEN>November 19, 1865</birthEN>
+<birthDE>19. November 1865</birthDE>
+<deathEN>June 11, 1902</deathEN>
+<deathDE>11. Juni 1902</deathDE>
+<birthPlace>
+<XML_Serializer_Tag>Hamburg</XML_Serializer_Tag>
+</birthPlace>
+<deathPlace>
+<XML_Serializer_Tag>Badenweiler</XML_Serializer_Tag>
+</deathPlace>
+<professionOrOccupation>
+<XML_Serializer_Tag>Maler</XML_Serializer_Tag>
+<XML_Serializer_Tag>Graphiker</XML_Serializer_Tag>
+<XML_Serializer_Tag>Kunstgewerbler</XML_Serializer_Tag>
+</professionOrOccupation>
+<artworks />
+<dbpResource>http://dbpedia.org/resource/Otto_Eckmann</dbpResource>
+<abstract>Otto Eckmann (* 19. November 1865 in Hamburg; † 11. Juni 1902 in Badenweiler) war ein deutscher Maler, Grafiker und Typograf.</abstract>
+<wikilink>http://en.wikipedia.org/wiki/Otto_Eckmann?oldid=601628413</wikilink>
+</Person>

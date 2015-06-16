@@ -1,0 +1,21 @@
+<Person>
+<name>Eugen Jettel</name>
+<variantName>
+<XML_Serializer_Tag>Eugène Jettel</XML_Serializer_Tag>
+</variantName>
+<thumbnail>https://commons.wikimedia.org/wiki/Special:FilePath/Eugene_Jettel_1902_Wichera.jpg?width=270</thumbnail>
+<birthEN>1845</birthEN>
+<birthDE>1845</birthDE>
+<deathEN>1901</deathEN>
+<deathDE>1901</deathDE>
+<birthPlace />
+<deathPlace />
+<professionOrOccupation>
+<XML_Serializer_Tag>Künstler</XML_Serializer_Tag>
+<XML_Serializer_Tag>Maler</XML_Serializer_Tag>
+</professionOrOccupation>
+<artworks />
+<dbpResource>http://dbpedia.org/resource/Eugen_Jettel</dbpResource>
+<abstract>Richard Alfred Eugen Jettel oder auch Eugène Jettel (* 20. März 1845 in Johnsdorf, Mähren; † 27. August 1901 in Lussingrande, Kroatien) war ein österreichischer Maler.</abstract>
+<wikilink>http://en.wikipedia.org/wiki/Eugen_Jettel?oldid=604842867</wikilink>
+</Person>

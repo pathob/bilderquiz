@@ -1,0 +1,25 @@
+<Person>
+<name>Otto Piene</name>
+<variantName />
+<thumbnail>https://commons.wikimedia.org/wiki/Special:FilePath/Otto_Piene.jpg?width=270</thumbnail>
+<birthEN>April 18, 1928</birthEN>
+<birthDE>18. April 1928</birthDE>
+<deathEN>July 17, 2014</deathEN>
+<deathDE>17. Juli 2014</deathDE>
+<birthPlace>
+<XML_Serializer_Tag>Bad Laasphe</XML_Serializer_Tag>
+</birthPlace>
+<deathPlace>
+<XML_Serializer_Tag>Berlin</XML_Serializer_Tag>
+</deathPlace>
+<professionOrOccupation>
+<XML_Serializer_Tag>Künstler</XML_Serializer_Tag>
+<XML_Serializer_Tag>Maler</XML_Serializer_Tag>
+<XML_Serializer_Tag>Graphiker</XML_Serializer_Tag>
+<XML_Serializer_Tag>Lichtkünstler</XML_Serializer_Tag>
+</professionOrOccupation>
+<artworks />
+<dbpResource>http://dbpedia.org/resource/Otto_Piene</dbpResource>
+<abstract>Otto Piene (* 18. April 1928 in Laasphe) ist ein deutscher Künstler und Mitbegründer der Künstlergruppe ZERO. Er gilt als ein Wegbereiter der Licht- und Feuerkunst sowie der Sky-Art-Aktionen.</abstract>
+<wikilink>http://en.wikipedia.org/wiki/Otto_Piene?oldid=604910126</wikilink>
+</Person>

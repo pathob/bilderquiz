@@ -1,0 +1,21 @@
+<Person>
+<name>Frank Buchser</name>
+<variantName>
+<XML_Serializer_Tag>Franz Buchser</XML_Serializer_Tag>
+</variantName>
+<thumbnail>https://commons.wikimedia.org/wiki/Special:FilePath/Buchser.jpg?width=270</thumbnail>
+<birthEN>August 15, 1828</birthEN>
+<birthDE>15. August 1828</birthDE>
+<deathEN>November 22, 1890</deathEN>
+<deathDE>22. November 1890</deathDE>
+<birthPlace />
+<deathPlace />
+<professionOrOccupation>
+<XML_Serializer_Tag>Künstler</XML_Serializer_Tag>
+<XML_Serializer_Tag>Maler</XML_Serializer_Tag>
+</professionOrOccupation>
+<artworks />
+<dbpResource>http://dbpedia.org/resource/Frank_Buchser</dbpResource>
+<abstract>Frank (eigentlich: Franz) Buchser (* 15. August 1828 in Feldbrunnen-St. Niklaus, Kanton Solothurn; † 22. November 1890 ebenda) war ein Schweizer Maler und Abenteurer.</abstract>
+<wikilink>http://en.wikipedia.org/wiki/Frank_Buchser?oldid=582292663</wikilink>
+</Person>

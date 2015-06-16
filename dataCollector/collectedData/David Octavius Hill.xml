@@ -1,0 +1,22 @@
+<Person>
+<name>David Octavius Hill</name>
+<variantName>
+<XML_Serializer_Tag>David O. Hill</XML_Serializer_Tag>
+<XML_Serializer_Tag>D. O. Hill</XML_Serializer_Tag>
+</variantName>
+<thumbnail>https://commons.wikimedia.org/wiki/Special:FilePath/David_Octavius_Hill.jpg?width=270</thumbnail>
+<birthEN>1802</birthEN>
+<birthDE>1802</birthDE>
+<deathEN>1870</deathEN>
+<deathDE>1870</deathDE>
+<birthPlace />
+<deathPlace />
+<professionOrOccupation>
+<XML_Serializer_Tag>Maler</XML_Serializer_Tag>
+<XML_Serializer_Tag>Photograph</XML_Serializer_Tag>
+</professionOrOccupation>
+<artworks />
+<dbpResource>http://dbpedia.org/resource/David_Octavius_Hill</dbpResource>
+<abstract>David Octavius Hill (* 20. Mai 1802 in Perth, Schottland; † 17. Mai 1870 in Edinburgh) war ein schottischer Maler, Lithograf und Fotograf. Gemeinsam mit seinem Partner Robert Adamson gehört er zu den Pionieren der Fotografie.</abstract>
+<wikilink>http://en.wikipedia.org/wiki/David_Octavius_Hill?oldid=584563764</wikilink>
+</Person>

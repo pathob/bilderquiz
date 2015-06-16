@@ -1,0 +1,25 @@
+<Person>
+<name>Hans Bol</name>
+<variantName>
+<XML_Serializer_Tag>Johannes Bol</XML_Serializer_Tag>
+<XML_Serializer_Tag>Jan Bol</XML_Serializer_Tag>
+<XML_Serializer_Tag>Jean Bol</XML_Serializer_Tag>
+<XML_Serializer_Tag>Hans Boel</XML_Serializer_Tag>
+</variantName>
+<thumbnail>https://commons.wikimedia.org/wiki/Special:FilePath/Hans_Bol_by_Hendrick_Goltzius_cropped.jpg?width=270</thumbnail>
+<birthEN>1534</birthEN>
+<birthDE>1534</birthDE>
+<deathEN>1593</deathEN>
+<deathDE>1593</deathDE>
+<birthPlace />
+<deathPlace>
+<XML_Serializer_Tag>Amsterdam</XML_Serializer_Tag>
+</deathPlace>
+<professionOrOccupation>
+<XML_Serializer_Tag>Maler</XML_Serializer_Tag>
+</professionOrOccupation>
+<artworks />
+<dbpResource>http://dbpedia.org/resource/Hans_Bol</dbpResource>
+<abstract>Hans Bol (* 16. Dezember 1534 in Mechelen; † 20. November 1593 in Amsterdam) war ein Zeichner und Maler der niederländischen Hochrenaissance flämischer Herkunft. Seine Werke zeigen häufig frei arrangierte Landschaften seiner Heimat, biblische Themen und Stadtansichten. Viele seiner Motive wurden kopiert oder als Kupferstiche verbreitet.</abstract>
+<wikilink>http://en.wikipedia.org/wiki/Hans_Bol?oldid=601751845</wikilink>
+</Person>

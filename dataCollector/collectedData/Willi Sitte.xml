@@ -1,0 +1,23 @@
+<Person>
+<name>Willi Sitte</name>
+<variantName />
+<thumbnail>https://commons.wikimedia.org/wiki/Special:FilePath/Bundesarchiv_Bild_183-1987-1003-024,_Dresden,_X._DDR-Kunstausstellung,_Sitte,_Honecker.jpg?width=270</thumbnail>
+<birthEN>February 28, 1928</birthEN>
+<birthDE>28. Februar 1928</birthDE>
+<deathEN>June 8, 2013</deathEN>
+<deathDE>8. Juni 2013</deathDE>
+<birthPlace>
+<XML_Serializer_Tag>Chrastava (Reichenberg)</XML_Serializer_Tag>
+</birthPlace>
+<deathPlace>
+<XML_Serializer_Tag>Halle (Saale)</XML_Serializer_Tag>
+</deathPlace>
+<professionOrOccupation>
+<XML_Serializer_Tag>Maler</XML_Serializer_Tag>
+<XML_Serializer_Tag>Künstler</XML_Serializer_Tag>
+</professionOrOccupation>
+<artworks />
+<dbpResource>http://dbpedia.org/resource/Willi_Sitte</dbpResource>
+<abstract>Willi Sitte (* 28. Februar 1921 in Kratzau, Tschechoslowakei, heute Tschechien; † 8. Juni 2013 in Halle (Saale)) war ein deutscher Maler und Grafiker. Er war lange Zeit Präsident des Verbandes Bildender Künstler (VBK) der DDR.</abstract>
+<wikilink>http://en.wikipedia.org/wiki/Willi_Sitte?oldid=585420564</wikilink>
+</Person>

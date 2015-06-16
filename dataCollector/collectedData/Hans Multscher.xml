@@ -1,0 +1,22 @@
+<Person>
+<name>Hans Multscher</name>
+<variantName>
+<XML_Serializer_Tag>Hans, Multscher</XML_Serializer_Tag>
+<XML_Serializer_Tag>Hans Multscher von Reichenhofen</XML_Serializer_Tag>
+</variantName>
+<thumbnail>https://commons.wikimedia.org/wiki/Special:FilePath/Hans_Multscher_005.jpg?width=270</thumbnail>
+<birthEN>1400</birthEN>
+<birthDE>1400</birthDE>
+<deathEN>1467</deathEN>
+<deathDE>1467</deathDE>
+<birthPlace />
+<deathPlace />
+<professionOrOccupation>
+<XML_Serializer_Tag>Bildhauer</XML_Serializer_Tag>
+<XML_Serializer_Tag>Maler</XML_Serializer_Tag>
+</professionOrOccupation>
+<artworks />
+<dbpResource>http://dbpedia.org/resource/Hans_Multscher</dbpResource>
+<abstract>Hans Multscher (* um 1400 in Reichenhofen, heute zu Leutkirch im Allgäu; † 1467 in Ulm) war ein deutscher Bildhauer und Maler.</abstract>
+<wikilink>http://en.wikipedia.org/wiki/Hans_Multscher?oldid=589145144</wikilink>
+</Person>

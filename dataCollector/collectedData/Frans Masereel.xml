@@ -1,0 +1,28 @@
+<Person>
+<name>Frans Masereel</name>
+<variantName>
+<XML_Serializer_Tag>Franz Masereel</XML_Serializer_Tag>
+<XML_Serializer_Tag>Frans Masareel</XML_Serializer_Tag>
+</variantName>
+<thumbnail>https://commons.wikimedia.org/wiki/Special:FilePath/MettlachMosaikFuellhornres.jpg?width=270</thumbnail>
+<birthEN>July 30, 1889</birthEN>
+<birthDE>30. Juli 1889</birthDE>
+<deathEN>January 3, 1972</deathEN>
+<deathDE>3. Januar 1972</deathDE>
+<birthPlace>
+<XML_Serializer_Tag>Blankenberge</XML_Serializer_Tag>
+</birthPlace>
+<deathPlace>
+<XML_Serializer_Tag>Avignon</XML_Serializer_Tag>
+</deathPlace>
+<professionOrOccupation>
+<XML_Serializer_Tag>Graphiker</XML_Serializer_Tag>
+<XML_Serializer_Tag>Maler</XML_Serializer_Tag>
+<XML_Serializer_Tag>Illustrator</XML_Serializer_Tag>
+<XML_Serializer_Tag>Künstler</XML_Serializer_Tag>
+</professionOrOccupation>
+<artworks />
+<dbpResource>http://dbpedia.org/resource/Frans_Masereel</dbpResource>
+<abstract>Frans Masereel (* 30. Juli 1889 in Blankenberge; † 3. Januar 1972 in Avignon) war ein bedeutender belgischer Grafiker, Zeichner und Maler, der vor allem für seine beeindruckenden, von starken Emotionen geprägten Holzschnitte bekannt ist.</abstract>
+<wikilink>http://en.wikipedia.org/wiki/Frans_Masereel?oldid=606082669</wikilink>
+</Person>

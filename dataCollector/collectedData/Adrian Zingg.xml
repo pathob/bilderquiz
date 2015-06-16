@@ -1,0 +1,26 @@
+<Person>
+<name>Adrian Zingg</name>
+<variantName>
+<XML_Serializer_Tag>A. Zingg</XML_Serializer_Tag>
+<XML_Serializer_Tag>A. Zinngg</XML_Serializer_Tag>
+<XML_Serializer_Tag>Adrian Zinngg</XML_Serializer_Tag>
+</variantName>
+<thumbnail>https://commons.wikimedia.org/wiki/Special:FilePath/Adrian_Zingg.jpg?width=270</thumbnail>
+<birthEN>1734</birthEN>
+<birthDE>1734</birthDE>
+<deathEN>1816</deathEN>
+<deathDE>1816</deathDE>
+<birthPlace />
+<deathPlace>
+<XML_Serializer_Tag>Leipzig</XML_Serializer_Tag>
+</deathPlace>
+<professionOrOccupation>
+<XML_Serializer_Tag>Künstler</XML_Serializer_Tag>
+<XML_Serializer_Tag>Kupferstecher</XML_Serializer_Tag>
+<XML_Serializer_Tag>Maler</XML_Serializer_Tag>
+</professionOrOccupation>
+<artworks />
+<dbpResource>http://dbpedia.org/resource/Adrian_Zingg</dbpResource>
+<abstract>Adrian Zingg (* 15. April 1734 in St. Gallen; † 26. Mai 1816 in Leipzig) war ein schweizerischer Maler, Zeichner, Radierer und Kupferstecher. Er war ein Wegbereiter der neueren Dresdner Landschaftsmalerei.</abstract>
+<wikilink>http://en.wikipedia.org/wiki/Adrian_Zingg?oldid=583491637</wikilink>
+</Person>

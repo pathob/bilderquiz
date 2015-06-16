@@ -1,0 +1,23 @@
+<Person>
+<name>Giovanni Baglione</name>
+<variantName>
+<XML_Serializer_Tag>Giovanni Baglioni</XML_Serializer_Tag>
+<XML_Serializer_Tag>Giov. Baglione</XML_Serializer_Tag>
+<XML_Serializer_Tag>Giovanni Baglione Romano</XML_Serializer_Tag>
+</variantName>
+<thumbnail>https://commons.wikimedia.org/wiki/Special:FilePath/Baglione.jpg?width=270</thumbnail>
+<birthEN>1571</birthEN>
+<birthDE>1571</birthDE>
+<deathEN>1644</deathEN>
+<deathDE>1644</deathDE>
+<birthPlace />
+<deathPlace />
+<professionOrOccupation>
+<XML_Serializer_Tag>Künstler</XML_Serializer_Tag>
+<XML_Serializer_Tag>Maler</XML_Serializer_Tag>
+</professionOrOccupation>
+<artworks />
+<dbpResource>http://dbpedia.org/resource/Giovanni_Baglione</dbpResource>
+<abstract>Giovanni Baglione (spr. baljone) (* 1571 in Rom; † 30. Dezember 1643 daselbst) war ein italienischer Maler des Manierismus und Kunstschriftsteller.</abstract>
+<wikilink>http://en.wikipedia.org/wiki/Giovanni_Baglione?oldid=602497815</wikilink>
+</Person>

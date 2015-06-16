@@ -1,0 +1,24 @@
+<Person>
+<name>Friedrich Sustris</name>
+<variantName>
+<XML_Serializer_Tag>Federicho di Lamberto Sustris</XML_Serializer_Tag>
+<XML_Serializer_Tag>Frederick Sustris</XML_Serializer_Tag>
+<XML_Serializer_Tag>Frederik Sustris</XML_Serializer_Tag>
+<XML_Serializer_Tag>Fridericus Sustris</XML_Serializer_Tag>
+</variantName>
+<thumbnail>https://commons.wikimedia.org/wiki/Special:FilePath/Munchen-Residenz.jpg?width=270</thumbnail>
+<birthEN>1540</birthEN>
+<birthDE>1540</birthDE>
+<deathEN>1599</deathEN>
+<deathDE>1599</deathDE>
+<birthPlace />
+<deathPlace />
+<professionOrOccupation>
+<XML_Serializer_Tag>Künstler</XML_Serializer_Tag>
+<XML_Serializer_Tag>Maler</XML_Serializer_Tag>
+</professionOrOccupation>
+<artworks />
+<dbpResource>http://dbpedia.org/resource/Friedrich_Sustris</dbpResource>
+<abstract>Friedrich Sustris (* um 1540 in Italien; † 1599 in München) war ein deutsch-niederländischer Maler, Dekorateur und Architekt. Er war der Sohn des niederländischen, in Italien tätigen Künstlers Lambert Sustris.</abstract>
+<wikilink>http://en.wikipedia.org/wiki/Friedrich_Sustris?oldid=563837841</wikilink>
+</Person>

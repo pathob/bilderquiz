@@ -1,0 +1,23 @@
+<Person>
+<name>Franz Ludwig Catel</name>
+<variantName>
+<XML_Serializer_Tag>Franz Catel</XML_Serializer_Tag>
+<XML_Serializer_Tag>F. Catel</XML_Serializer_Tag>
+</variantName>
+<thumbnail>https://commons.wikimedia.org/wiki/Special:FilePath/Carl_Christian_Vogel_von_Vogelstein_-_Der_Maler_Franz_Ludwig_Catel.jpg?width=270</thumbnail>
+<birthEN>February 22, 1778</birthEN>
+<birthDE>22. Februar 1778</birthDE>
+<deathEN>December 19, 1856</deathEN>
+<deathDE>19. Dezember 1856</deathDE>
+<birthPlace />
+<deathPlace />
+<professionOrOccupation>
+<XML_Serializer_Tag>Künstler</XML_Serializer_Tag>
+<XML_Serializer_Tag>Maler</XML_Serializer_Tag>
+<XML_Serializer_Tag>Kupferstecher</XML_Serializer_Tag>
+</professionOrOccupation>
+<artworks />
+<dbpResource>http://dbpedia.org/resource/Franz_Ludwig_Catel</dbpResource>
+<abstract>Franz Ludwig Catel (* 22. Februar 1778 in Berlin; † 19. Dezember 1856 in Rom) war ein deutscher Holzbildhauer und Maler.</abstract>
+<wikilink>http://en.wikipedia.org/wiki/Franz_Ludwig_Catel?oldid=600279988</wikilink>
+</Person>

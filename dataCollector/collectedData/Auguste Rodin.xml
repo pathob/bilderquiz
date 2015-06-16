@@ -1,0 +1,153 @@
+<Person>
+<name>Auguste Rodin</name>
+<variantName>
+<XML_Serializer_Tag>François Auguste René Rodin</XML_Serializer_Tag>
+<XML_Serializer_Tag>François-Auguste-René Rodin</XML_Serializer_Tag>
+<XML_Serializer_Tag>August Rodin</XML_Serializer_Tag>
+<XML_Serializer_Tag>Augusto Rodin</XML_Serializer_Tag>
+<XML_Serializer_Tag>Ogusṭ Rōden</XML_Serializer_Tag>
+<XML_Serializer_Tag>Rodin</XML_Serializer_Tag>
+</variantName>
+<thumbnail>https://commons.wikimedia.org/wiki/Special:FilePath/Auguste_Rodin_1893_Nadar.jpg?width=270</thumbnail>
+<birthEN>November 12, 1840</birthEN>
+<birthDE>12. November 1840</birthDE>
+<deathEN>November 17, 1917</deathEN>
+<deathDE>17. November 1917</deathDE>
+<birthPlace />
+<deathPlace />
+<professionOrOccupation>
+<XML_Serializer_Tag>Künstler</XML_Serializer_Tag>
+<XML_Serializer_Tag>Bildhauer</XML_Serializer_Tag>
+<XML_Serializer_Tag>Maler</XML_Serializer_Tag>
+</professionOrOccupation>
+<artworks>
+<XML_Serializer_Tag>
+<painting>
+<type>uri</type>
+<value>http://dbpedia.org/resource/The_Burghers_of_Calais</value>
+</painting>
+<thumbnail>
+<type>uri</type>
+<value>http://commons.wikimedia.org/wiki/Special:FilePath/Auguste_Rodin-Burghers_of_Calais_(photo).jpg?width=300</value>
+</thumbnail>
+<name>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>The Burghers of Calais</value>
+</name>
+<year>
+<type>typed-literal</type>
+<datatype>http://www.w3.org/2001/XMLSchema#integer</datatype>
+<value>1889</value>
+</year>
+<abstract>
+<type>literal</type>
+<xml:lang>de</xml:lang>
+<value>Die Bürger von Calais sind ein künstlerisches Motiv, das den mittelalterlichen Chroniques de France, d’Angleterre, d&apos;Ecosse, de Bretagne, de Gascogne, de Flandre et lieux circonvoisins (Chroniken Frankreichs, Englands, Schottlands, der Bretagne, der Gascogne, Flanderns und der benachbarten Örtlichkeiten) des Jean Froissart entstammt, und das seit der zweiten Hälfte des 18. Jahrhunderts (Aufklärung) bis zu Beginn des 20. Jahrhunderts (Expressionismus) verschiedentlich aufgegriffen worden ist; dies geschah erstmals im Drama Le siège de Calais (Die Belagerung von Calais) von Pierre-Laurent Buirette de Belloy aus dem Jahr 1765. In der Folge beschäftigten sich besonders französische und englische Künstler aufgrund des wachsenden Interesses an nationaler Geschichte mit den Bürgern von Calais. Die bekanntesten und kunsthistorisch sehr bedeutsamen Werke dieses Titels sind die Plastik von Auguste Rodin (1889), das Drama von Georg Kaiser (1914) und die Oper von Rudolf Wagner-Régeny (1939, mit Libretto von Caspar Neher).</value>
+</abstract>
+<wikilink>
+<type>uri</type>
+<value>http://en.wikipedia.org/wiki/The_Burghers_of_Calais?oldid=605876489</value>
+</wikilink>
+</XML_Serializer_Tag>
+<XML_Serializer_Tag>
+<painting>
+<type>uri</type>
+<value>http://dbpedia.org/resource/The_Age_of_Bronze</value>
+</painting>
+<thumbnail>
+<type>uri</type>
+<value>http://commons.wikimedia.org/wiki/Special:FilePath/Rodin_The_bronze_age-2.jpg?width=300</value>
+</thumbnail>
+<name>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>The Age of Bronze</value>
+</name>
+<year>
+<type>typed-literal</type>
+<datatype>http://www.w3.org/2001/XMLSchema#integer</datatype>
+<value>1877</value>
+</year>
+<abstract>
+<type>literal</type>
+<xml:lang>de</xml:lang>
+<value>Die Skulptur Das Eherne Zeitalter (französisch L&apos;Âge d&apos;airain = Bronzezeit) von 1875/1876 war die erste lebensgroße Figur, mit der Auguste Rodin an die Öffentlichkeit trat. Der Bildhauer verzichtete auf bedeutungsstiftende Attribute und schuf eine Figur, die über ihre Haltung und ihren Gesichtsausdruck mehrere subjektive Interpretationen ermöglichte. Sie gilt oft als Anfang der modernen Skulptur. Einerseits verbarg sich in der Plastik ein verwundeter Krieger, der auf einem (imaginären) Speer ruht, und die rechte Hand an eine Wunde auf seinem Kopf legt, andererseits versuchte Rodin, angeregt durch die Theorien von Jean-Jacques Rousseau, das Erwachen der Menschheit darzustellen. Weder das eine noch das andere Motiv dominieren, so dass die endgültige Deutung dem Betrachter überlassen bleibt. Alternative deutsche Titel der Skulptur waren „Der Mensch, der in der Natur erwacht“, oder „Der Mensch der ersten Zeiten“.</value>
+</abstract>
+<wikilink>
+<type>uri</type>
+<value>http://en.wikipedia.org/wiki/The_Age_of_Bronze?oldid=604296269</value>
+</wikilink>
+</XML_Serializer_Tag>
+<XML_Serializer_Tag>
+<painting>
+<type>uri</type>
+<value>http://dbpedia.org/resource/The_Kiss_(Rodin_sculpture)</value>
+</painting>
+<thumbnail>
+<type>uri</type>
+<value>http://commons.wikimedia.org/wiki/Special:FilePath/The_Kiss.JPG?width=300</value>
+</thumbnail>
+<name>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>The Kiss</value>
+</name>
+<year>
+<type>typed-literal</type>
+<datatype>http://www.w3.org/2001/XMLSchema#integer</datatype>
+<value>1882</value>
+</year>
+<wikilink>
+<type>uri</type>
+<value>http://en.wikipedia.org/wiki/The_Kiss_(Rodin_sculpture)?oldid=595590879</value>
+</wikilink>
+</XML_Serializer_Tag>
+<XML_Serializer_Tag>
+<painting>
+<type>uri</type>
+<value>http://dbpedia.org/resource/Crouching_Woman</value>
+</painting>
+<thumbnail>
+<type>uri</type>
+<value>http://commons.wikimedia.org/wiki/Special:FilePath/Auguste_Rodin_001.jpg?width=300</value>
+</thumbnail>
+<name>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>Crouching Woman</value>
+</name>
+<year>
+<type>typed-literal</type>
+<datatype>http://www.w3.org/2001/XMLSchema#integer</datatype>
+<value>1880</value>
+</year>
+<wikilink>
+<type>uri</type>
+<value>http://en.wikipedia.org/wiki/Crouching_Woman?oldid=600734029</value>
+</wikilink>
+</XML_Serializer_Tag>
+<XML_Serializer_Tag>
+<painting>
+<type>uri</type>
+<value>http://dbpedia.org/resource/Monument_to_Balzac</value>
+</painting>
+<thumbnail>
+<type>uri</type>
+<value>http://commons.wikimedia.org/wiki/Special:FilePath/Monument_to_Balzac.jpg?width=300</value>
+</thumbnail>
+<name>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>Monument to Balzac</value>
+</name>
+<wikilink>
+<type>uri</type>
+<value>http://en.wikipedia.org/wiki/Monument_to_Balzac?oldid=590942097</value>
+</wikilink>
+</XML_Serializer_Tag>
+</artworks>
+<dbpResource>http://dbpedia.org/resource/Auguste_Rodin</dbpResource>
+<abstract>François-Auguste-René Rodin [fʁɑ̃ˈswa oˈgyst ʁəˈne ʁɔˈdɛ̃] (* 12. November 1840 in Paris; † 17. November 1917 in Meudon) war ein französischer Bildhauer und Zeichner. Mit ihm begann das Zeitalter der modernen Plastik und Skulptur.</abstract>
+<wikilink>http://en.wikipedia.org/wiki/Auguste_Rodin?oldid=605625435</wikilink>
+</Person>

@@ -1,0 +1,29 @@
+<Person>
+<name>Ludwig Knaus</name>
+<variantName>
+<XML_Serializer_Tag>Louis Knaus</XML_Serializer_Tag>
+</variantName>
+<thumbnail>https://commons.wikimedia.org/wiki/Special:FilePath/Ludwig_Knaus_photo.jpg?width=270</thumbnail>
+<birthEN>October 5, 1829</birthEN>
+<birthDE>5. Oktober 1829</birthDE>
+<deathEN>December 7, 1910</deathEN>
+<deathDE>7. Dezember 1910</deathDE>
+<birthPlace>
+<XML_Serializer_Tag>Wiesbaden</XML_Serializer_Tag>
+</birthPlace>
+<deathPlace>
+<XML_Serializer_Tag>Berlin</XML_Serializer_Tag>
+</deathPlace>
+<professionOrOccupation>
+<XML_Serializer_Tag>Humorzeichner</XML_Serializer_Tag>
+<XML_Serializer_Tag>Genremaler</XML_Serializer_Tag>
+<XML_Serializer_Tag>Künstler</XML_Serializer_Tag>
+<XML_Serializer_Tag>Maler</XML_Serializer_Tag>
+<XML_Serializer_Tag>Zeichner</XML_Serializer_Tag>
+<XML_Serializer_Tag>Bildnismaler</XML_Serializer_Tag>
+</professionOrOccupation>
+<artworks />
+<dbpResource>http://dbpedia.org/resource/Ludwig_Knaus</dbpResource>
+<abstract>Ludwig Knaus (* 5. Oktober 1829 in Wiesbaden; † 7. Dezember 1910 in Berlin) war der erfolgreichste Wiesbadener Maler im 19. Jahrhundert.Frühe Berühmtheit erlangte er als Genremaler, ebenso als Porträtist. Darüber hinaus war sein Können auch in der Werbebranche gefragt.Um 1900 hatte er als Maler einen so hohen Stellenwert erreicht, dass ihm das Große Konversations-Lexikon Meyers eineinhalb Spalten widmete und resümierte: „Die echt deutsche Richtung seiner Kunstanschauung gipfelt in der Schilderung des Kinderlebens [...] Seine Bilder haben durch Stich und Photographie eine große Popularität erreicht. Er ist Professor, Mitglied der Akademie, Ritter des Ordens pour le mérite und seit 1861 im Besitz der großen Medaille der Berliner Kunstausstellung.“Zu seinem 100. Todestag im Jahr 2010 gedachte man seiner in seiner Geburtsstadt: „Den bedeutendsten Wiesbadener Künstler hat die Kunstgeschichte nicht bewältigt. Auch er zählt hier zu den großen Toten.“</abstract>
+<wikilink>http://en.wikipedia.org/wiki/Ludwig_Knaus?oldid=565004516</wikilink>
+</Person>

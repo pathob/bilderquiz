@@ -1,0 +1,23 @@
+<Person>
+<name>Erich Buchholz</name>
+<variantName>
+<XML_Serializer_Tag>AKKA</XML_Serializer_Tag>
+</variantName>
+<thumbnail>https://commons.wikimedia.org/wiki/Special:FilePath/DBP_1991_1493-R.JPG?width=270</thumbnail>
+<birthEN>January 31, 1891</birthEN>
+<birthDE>31. Januar 1891</birthDE>
+<deathEN>December 29, 1972</deathEN>
+<deathDE>29. Dezember 1972</deathDE>
+<birthPlace />
+<deathPlace />
+<professionOrOccupation>
+<XML_Serializer_Tag>Künstler</XML_Serializer_Tag>
+<XML_Serializer_Tag>Maler</XML_Serializer_Tag>
+<XML_Serializer_Tag>Bildhauer</XML_Serializer_Tag>
+<XML_Serializer_Tag>Architekt</XML_Serializer_Tag>
+</professionOrOccupation>
+<artworks />
+<dbpResource>http://dbpedia.org/resource/Erich_Buchholz</dbpResource>
+<abstract>Erich Buchholz (* 31. Januar 1891 in Bromberg; † 29. Dezember 1972 in Berlin) war ein deutscher Maler, Architekt und Grafiker.</abstract>
+<wikilink>http://en.wikipedia.org/wiki/Erich_Buchholz?oldid=581939979</wikilink>
+</Person>

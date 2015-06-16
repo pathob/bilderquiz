@@ -1,0 +1,84 @@
+<Person>
+<name>Damien Hirst</name>
+<variantName>
+<XML_Serializer_Tag>Damien Steven Hirst</XML_Serializer_Tag>
+</variantName>
+<thumbnail>https://commons.wikimedia.org/wiki/Special:FilePath/Damien-Hirst-1.jpg?width=270</thumbnail>
+<birthEN>1965</birthEN>
+<birthDE>1965</birthDE>
+<deathEN />
+<deathDE />
+<birthPlace>
+<XML_Serializer_Tag>Leeds</XML_Serializer_Tag>
+</birthPlace>
+<deathPlace />
+<professionOrOccupation>
+<XML_Serializer_Tag>Künstler</XML_Serializer_Tag>
+<XML_Serializer_Tag>Bildhauer</XML_Serializer_Tag>
+<XML_Serializer_Tag>Maler</XML_Serializer_Tag>
+<XML_Serializer_Tag>Installationskünstler</XML_Serializer_Tag>
+</professionOrOccupation>
+<artworks>
+<XML_Serializer_Tag>
+<painting>
+<type>uri</type>
+<value>http://dbpedia.org/resource/The_Physical_Impossibility_of_Death_in_the_Mind_of_Someone_Living</value>
+</painting>
+<thumbnail>
+<type>uri</type>
+<value>http://commons.wikimedia.org/wiki/Special:FilePath/Shark84.JPG?width=300</value>
+</thumbnail>
+<name>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>The Physical Impossibility of Death</value>
+</name>
+<year>
+<type>typed-literal</type>
+<datatype>http://www.w3.org/2001/XMLSchema#integer</datatype>
+<value>1991</value>
+</year>
+<abstract>
+<type>literal</type>
+<xml:lang>de</xml:lang>
+<value>The Physical Impossibility of Death in the Mind of Someone Living (deutsch Die physische Unmöglichkeit des Todes in der Vorstellung eines Lebenden) ist ein Kunstwerk des britischen Künstlers Damien Hirst aus dem Jahr 1991: In einer Vitrine befindet sich ein in Formaldehyd konservierter Tigerhai mit weit aufgerissenem Maul. Das Werk entstand im Auftrag des Kunsthändlers Charles Saatchi, der es 2004 für 6,5 Millionen Pfund (9,3 Millionen Euro) an Steven A. Cohen verkaufte. 2006 musste der Hai ausgetauscht werden, nachdem sein Körper begonnen hatte, sich aufzulösen. The Physical Impossibility of Death in the Mind of Someone Living gilt als eine Ikone der Kunst der 1990er-Jahre und ist eines der Werke, die Damien Hirsts Ruhm begründeten. Infolge des Austauschs des Hai-Präparats entbrannte eine Diskussion um den Wert dieses Kunstwerks und dessen Dauer. Von 2007 bis 2010 wurde das Kunstwerk im Metropolitan Museum of Art in New York City ausgestellt.</value>
+</abstract>
+<wikilink>
+<type>uri</type>
+<value>http://en.wikipedia.org/wiki/The_Physical_Impossibility_of_Death_in_the_Mind_of_Someone_Living?oldid=598389220</value>
+</wikilink>
+</XML_Serializer_Tag>
+<XML_Serializer_Tag>
+<painting>
+<type>uri</type>
+<value>http://dbpedia.org/resource/The_Physical_Impossibility_of_Death_in_the_Mind_of_Someone_Living</value>
+</painting>
+<thumbnail>
+<type>uri</type>
+<value>http://commons.wikimedia.org/wiki/Special:FilePath/Shark84.JPG?width=300</value>
+</thumbnail>
+<name>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>in the Mind of Someone Living</value>
+</name>
+<year>
+<type>typed-literal</type>
+<datatype>http://www.w3.org/2001/XMLSchema#integer</datatype>
+<value>1991</value>
+</year>
+<abstract>
+<type>literal</type>
+<xml:lang>de</xml:lang>
+<value>The Physical Impossibility of Death in the Mind of Someone Living (deutsch Die physische Unmöglichkeit des Todes in der Vorstellung eines Lebenden) ist ein Kunstwerk des britischen Künstlers Damien Hirst aus dem Jahr 1991: In einer Vitrine befindet sich ein in Formaldehyd konservierter Tigerhai mit weit aufgerissenem Maul. Das Werk entstand im Auftrag des Kunsthändlers Charles Saatchi, der es 2004 für 6,5 Millionen Pfund (9,3 Millionen Euro) an Steven A. Cohen verkaufte. 2006 musste der Hai ausgetauscht werden, nachdem sein Körper begonnen hatte, sich aufzulösen. The Physical Impossibility of Death in the Mind of Someone Living gilt als eine Ikone der Kunst der 1990er-Jahre und ist eines der Werke, die Damien Hirsts Ruhm begründeten. Infolge des Austauschs des Hai-Präparats entbrannte eine Diskussion um den Wert dieses Kunstwerks und dessen Dauer. Von 2007 bis 2010 wurde das Kunstwerk im Metropolitan Museum of Art in New York City ausgestellt.</value>
+</abstract>
+<wikilink>
+<type>uri</type>
+<value>http://en.wikipedia.org/wiki/The_Physical_Impossibility_of_Death_in_the_Mind_of_Someone_Living?oldid=598389220</value>
+</wikilink>
+</XML_Serializer_Tag>
+</artworks>
+<dbpResource>http://dbpedia.org/resource/Damien_Hirst</dbpResource>
+<abstract>Damien Hirst (* 7. Juni 1965 in Bristol) ist ein britischer Bildhauer, Maler und Konzeptkünstler und Kurator einzelner Ausstellungen. Im Jahr 1988 organisierte er die Ausstellung Freeze im Londoner Hafenviertel, die als Geburtsstunde des Phänomens Young British Artists gilt, und wurde in den 1990er Jahren der bekannteste Vertreter der Gruppe. Er wurde vor allem durch provozierende Plastiken bekannt, die sich mit Themen Tod, Religion, Leben oder Konsumkultur befassen. Zu seinen bekanntesten Werken gehören mehrere in Formaldehyd eingelegte Tierkörper sowie ein mit Diamanten besetzter menschlicher Schädel mit dem Titel For the Love of God.</abstract>
+<wikilink>http://en.wikipedia.org/wiki/Damien_Hirst?oldid=605317556</wikilink>
+</Person>

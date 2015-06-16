@@ -1,0 +1,32 @@
+<Person>
+<name>Adriaen de Vries</name>
+<variantName>
+<XML_Serializer_Tag>Adriaen de Fries</XML_Serializer_Tag>
+<XML_Serializer_Tag>Adrian de Vries</XML_Serializer_Tag>
+<XML_Serializer_Tag>Adrianus Fries</XML_Serializer_Tag>
+<XML_Serializer_Tag>Adriaen de Frys</XML_Serializer_Tag>
+<XML_Serializer_Tag>Adrian de Fries</XML_Serializer_Tag>
+</variantName>
+<thumbnail>https://commons.wikimedia.org/wiki/Special:FilePath/Adriaen_de_Vries.png?width=270</thumbnail>
+<birthEN>1545/46</birthEN>
+<birthDE>1545/46</birthDE>
+<deathEN>1626</deathEN>
+<deathDE>1626</deathDE>
+<birthPlace>
+<XML_Serializer_Tag>Den Haag</XML_Serializer_Tag>
+</birthPlace>
+<deathPlace>
+<XML_Serializer_Tag>Prag</XML_Serializer_Tag>
+</deathPlace>
+<professionOrOccupation>
+<XML_Serializer_Tag>Künstler</XML_Serializer_Tag>
+<XML_Serializer_Tag>Bildhauer</XML_Serializer_Tag>
+<XML_Serializer_Tag>Graveur</XML_Serializer_Tag>
+<XML_Serializer_Tag>Maler</XML_Serializer_Tag>
+<XML_Serializer_Tag>Ziseleur</XML_Serializer_Tag>
+</professionOrOccupation>
+<artworks />
+<dbpResource>http://dbpedia.org/resource/Adriaen_de_Vries</dbpResource>
+<abstract>Adriaen de Vries (* geb. um 1545 oder 1556 in Den Haag; † vor 15. Dezember 1626 in Prag) war ein niederländischer Bildhauer des Manierismus, der auf Bronzeskulpturen spezialisiert war.</abstract>
+<wikilink>http://en.wikipedia.org/wiki/Adriaen_de_Vries?oldid=567454418</wikilink>
+</Person>

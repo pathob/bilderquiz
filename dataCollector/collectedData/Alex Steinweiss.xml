@@ -1,0 +1,24 @@
+<Person>
+<name>Alex Steinweiss</name>
+<variantName />
+<thumbnail>https://commons.wikimedia.org/wiki/Special:FilePath/Alex_Steinweiss,_New_York_ca._Apr._1947_crop.jpg?width=270</thumbnail>
+<birthEN>March 24, 1917</birthEN>
+<birthDE>24. März 1917</birthDE>
+<deathEN>July 17, 2011</deathEN>
+<deathDE>17. Juli 2011</deathDE>
+<birthPlace>
+<XML_Serializer_Tag>New York- Brooklyn</XML_Serializer_Tag>
+</birthPlace>
+<deathPlace>
+<XML_Serializer_Tag>Sarasota, Fla.</XML_Serializer_Tag>
+</deathPlace>
+<professionOrOccupation>
+<XML_Serializer_Tag>Künstler</XML_Serializer_Tag>
+<XML_Serializer_Tag>Maler</XML_Serializer_Tag>
+<XML_Serializer_Tag>Graphiker</XML_Serializer_Tag>
+</professionOrOccupation>
+<artworks />
+<dbpResource>http://dbpedia.org/resource/Alex_Steinweiss</dbpResource>
+<abstract>Alex Steinweiss (* 24. März 1917 in Brooklyn, New York City, New York; † 17. Juli 2011 in Sarasota, Florida) war ein US-amerikanischer Grafikdesigner. Er gilt als Erfinder des Schallplattencovers.</abstract>
+<wikilink>http://en.wikipedia.org/wiki/Alex_Steinweiss?oldid=592736440</wikilink>
+</Person>

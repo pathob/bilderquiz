@@ -1,0 +1,64 @@
+<Person>
+<name>George Grosz</name>
+<variantName>
+<XML_Serializer_Tag>Georg Ehrenfried Groß</XML_Serializer_Tag>
+<XML_Serializer_Tag>Georg Grosz</XML_Serializer_Tag>
+<XML_Serializer_Tag>Georg E. Grosz</XML_Serializer_Tag>
+<XML_Serializer_Tag>Georges Grosz</XML_Serializer_Tag>
+<XML_Serializer_Tag>George Gross</XML_Serializer_Tag>
+<XML_Serializer_Tag>Georg Gross</XML_Serializer_Tag>
+<XML_Serializer_Tag>G. Gros</XML_Serializer_Tag>
+<XML_Serializer_Tag>... Grosz</XML_Serializer_Tag>
+</variantName>
+<thumbnail>https://commons.wikimedia.org/wiki/Special:FilePath/George_Grosz_1930.jpg?width=270</thumbnail>
+<birthEN>July 26, 1893</birthEN>
+<birthDE>26. Juli 1893</birthDE>
+<deathEN>July 6, 1959</deathEN>
+<deathDE>6. Juli 1959</deathDE>
+<birthPlace>
+<XML_Serializer_Tag>Berlin</XML_Serializer_Tag>
+</birthPlace>
+<deathPlace>
+<XML_Serializer_Tag>Berlin</XML_Serializer_Tag>
+</deathPlace>
+<professionOrOccupation>
+<XML_Serializer_Tag>Maler</XML_Serializer_Tag>
+<XML_Serializer_Tag>Graphiker</XML_Serializer_Tag>
+<XML_Serializer_Tag>Zeichner</XML_Serializer_Tag>
+<XML_Serializer_Tag>Schriftsteller</XML_Serializer_Tag>
+<XML_Serializer_Tag>Illustrator</XML_Serializer_Tag>
+<XML_Serializer_Tag>Pazifist</XML_Serializer_Tag>
+<XML_Serializer_Tag>Maskenbildner</XML_Serializer_Tag>
+<XML_Serializer_Tag>Künstler</XML_Serializer_Tag>
+<XML_Serializer_Tag>Kameramann</XML_Serializer_Tag>
+</professionOrOccupation>
+<artworks>
+<XML_Serializer_Tag>
+<painting>
+<type>uri</type>
+<value>http://dbpedia.org/resource/The_Funeral_(Grosz)</value>
+</painting>
+<thumbnail>
+<type>uri</type>
+<value>http://commons.wikimedia.org/wiki/Special:FilePath/Danse_macabre_by_Michael_Wolgemut.png?width=300</value>
+</thumbnail>
+<name>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>The Funeral (Dedicated to Oskar Panizza)</value>
+</name>
+<year>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>c. 1917–18</value>
+</year>
+<wikilink>
+<type>uri</type>
+<value>http://en.wikipedia.org/wiki/The_Funeral_(Grosz)?oldid=601491146</value>
+</wikilink>
+</XML_Serializer_Tag>
+</artworks>
+<dbpResource>http://dbpedia.org/resource/George_Grosz</dbpResource>
+<abstract>George Grosz (* 26. Juli 1893 als Georg Ehrenfried Groß in Berlin; † 6. Juli 1959 ebenda) war ein deutsch-amerikanischer Maler, Grafiker und Karikaturist.Mit George Grosz werden vor allem seine der Neuen Sachlichkeit zugerechneten, sozial- und gesellschaftskritischen Gemälde und Zeichnungen in Verbindung gebracht, die überwiegend in den 1920er-Jahren entstanden sind und sich durch zum Teil äußerst drastische und provokative Darstellungen und häufig durch politische Aussagen auszeichnen. Typische Sujets sind die Großstadt, ihre Abseitigkeiten (Mord, Perversion, Gewalt) sowie die Klassengegensätze, die sich in ihr zeigen. Im Vergleich zu ähnlichen Bildern von Otto Dix aus dieser Zeit ist Grosz meist der aggressivere und politischere. In seinen Werken, oft Karikaturen, verspottet er die herrschenden Kreise der Weimarer Republik, greift soziale Gegensätze auf und kritisiert insbesondere Wirtschaft, Politik, Militär und Klerus.</abstract>
+<wikilink>http://en.wikipedia.org/wiki/George_Grosz?oldid=606141625</wikilink>
+</Person>

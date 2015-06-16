@@ -1,0 +1,25 @@
+<Person>
+<name>Otto Freundlich</name>
+<variantName />
+<thumbnail>https://commons.wikimedia.org/wiki/Special:FilePath/Muenster_5902.jpg?width=270</thumbnail>
+<birthEN>July 10, 1878</birthEN>
+<birthDE>10. Juli 1878</birthDE>
+<deathEN>March 9, 1943</deathEN>
+<deathDE>9. März 1943</deathDE>
+<birthPlace>
+<XML_Serializer_Tag>Stolp</XML_Serializer_Tag>
+</birthPlace>
+<deathPlace>
+<XML_Serializer_Tag>Lublin-Majdanek</XML_Serializer_Tag>
+</deathPlace>
+<professionOrOccupation>
+<XML_Serializer_Tag>Künstler</XML_Serializer_Tag>
+<XML_Serializer_Tag>Maler</XML_Serializer_Tag>
+<XML_Serializer_Tag>Graphiker</XML_Serializer_Tag>
+<XML_Serializer_Tag>Bildhauer</XML_Serializer_Tag>
+</professionOrOccupation>
+<artworks />
+<dbpResource>http://dbpedia.org/resource/Otto_Freundlich</dbpResource>
+<abstract>Otto Freundlich (* 10. Juli 1878 in Stolp, Pommern; † 9. März 1943 im KZ Lublin-Majdanek oder Sobibor) war ein deutscher Maler und Bildhauer sowie Verfasser kunsttheoretisch-philosophischer Schriften. Freundlich war einer der ersten Vertreter der abstrakten Kunst.</abstract>
+<wikilink>http://en.wikipedia.org/wiki/Otto_Freundlich?oldid=603554552</wikilink>
+</Person>

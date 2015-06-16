@@ -1,0 +1,26 @@
+<Person>
+<name>Cuno Amiet</name>
+<variantName>
+<XML_Serializer_Tag>A. Cuno Amiet</XML_Serializer_Tag>
+<XML_Serializer_Tag>Kuno Amiet</XML_Serializer_Tag>
+</variantName>
+<thumbnail>https://commons.wikimedia.org/wiki/Special:FilePath/Bern_Kunstmuseum_3.jpg?width=270</thumbnail>
+<birthEN>March 28, 1868</birthEN>
+<birthDE>28. März 1868</birthDE>
+<deathEN>July 6, 1961</deathEN>
+<deathDE>6. Juli 1961</deathDE>
+<birthPlace>
+<XML_Serializer_Tag>Solothurn</XML_Serializer_Tag>
+</birthPlace>
+<deathPlace>
+<XML_Serializer_Tag>Oschwand (Ochlenberg)</XML_Serializer_Tag>
+</deathPlace>
+<professionOrOccupation>
+<XML_Serializer_Tag>Maler</XML_Serializer_Tag>
+<XML_Serializer_Tag>Graphiker</XML_Serializer_Tag>
+</professionOrOccupation>
+<artworks />
+<dbpResource>http://dbpedia.org/resource/Cuno_Amiet</dbpResource>
+<abstract>Cuno Peter Amiet (* 28. März 1868 in Solothurn; † 6. Juli 1961 in Oschwand, Gemeinde Seeberg BE) war ein Schweizer Maler, Zeichner, Graphiker und Bildhauer, der sich der Dresdner Künstlergruppe Brücke anschloss.Er wird oft als „Bonnard der Schweizer“ bezeichnet. Beeinflusst wurde er von den Malern des Post-Impressionismus, unter anderem Paul Gauguin, Émile Bernard und Paul Sérusier.</abstract>
+<wikilink>http://en.wikipedia.org/wiki/Cuno_Amiet?oldid=582285798</wikilink>
+</Person>

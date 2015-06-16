@@ -1,0 +1,80 @@
+<Person>
+<name>Giuseppe Arcimboldo</name>
+<variantName>
+<XML_Serializer_Tag>Giuseppe Arcimboldi</XML_Serializer_Tag>
+<XML_Serializer_Tag>Joseph Arcimboldo</XML_Serializer_Tag>
+<XML_Serializer_Tag>Joseph Arzimboldo</XML_Serializer_Tag>
+</variantName>
+<thumbnail>https://commons.wikimedia.org/wiki/Special:FilePath/Giuseppe_Arcimboldo.jpg?width=270</thumbnail>
+<birthEN>XX.XX.1527</birthEN>
+<birthDE>XX.XX.1527</birthDE>
+<deathEN>July 11, 1593</deathEN>
+<deathDE>11. Juli 1593</deathDE>
+<birthPlace>
+<XML_Serializer_Tag>Mailand</XML_Serializer_Tag>
+</birthPlace>
+<deathPlace>
+<XML_Serializer_Tag>Mailand</XML_Serializer_Tag>
+</deathPlace>
+<professionOrOccupation>
+<XML_Serializer_Tag>Maler</XML_Serializer_Tag>
+</professionOrOccupation>
+<artworks>
+<XML_Serializer_Tag>
+<painting>
+<type>uri</type>
+<value>http://dbpedia.org/resource/The_Jurist_(painting)</value>
+</painting>
+<thumbnail>
+<type>uri</type>
+<value>http://en.wikipedia.org/wiki/Special:FilePath/Jurist-arcimboldo.png?width=300</value>
+</thumbnail>
+<name>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>The Jurist</value>
+</name>
+<year>
+<type>typed-literal</type>
+<datatype>http://www.w3.org/2001/XMLSchema#integer</datatype>
+<value>1566</value>
+</year>
+<abstract>
+<type>literal</type>
+<xml:lang>de</xml:lang>
+<value>Der Jurist ist ein 1566 entstandenes Gemälde von Giuseppe Arcimboldo. Zu dieser Zeit war er Hofmaler am Hof von Kaiser Maximilian II.</value>
+</abstract>
+<wikilink>
+<type>uri</type>
+<value>http://en.wikipedia.org/wiki/The_Jurist_(painting)?oldid=586390919</value>
+</wikilink>
+</XML_Serializer_Tag>
+<XML_Serializer_Tag>
+<painting>
+<type>uri</type>
+<value>http://dbpedia.org/resource/The_Librarian_(painting)</value>
+</painting>
+<thumbnail>
+<type>uri</type>
+<value>http://en.wikipedia.org/wiki/Special:FilePath/Arcimboldo_Librarian_Stokholm.jpg?width=300</value>
+</thumbnail>
+<name>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>The Librarian</value>
+</name>
+<year>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>circa</value>
+</year>
+<wikilink>
+<type>uri</type>
+<value>http://en.wikipedia.org/wiki/The_Librarian_(painting)?oldid=596891642</value>
+</wikilink>
+</XML_Serializer_Tag>
+</artworks>
+<dbpResource>http://dbpedia.org/resource/Giuseppe_Arcimboldo</dbpResource>
+<abstract>Giuseppe Arcimboldo (* um 1526 in Mailand; † 11. Juli 1593 ebenda) war ein Maler der Spätrenaissance, speziell des Manierismus. Berühmt sind seine Tafelbilder, auf denen er Blumen, Früchte oder Gemüse, aber auch anorganische Objekte wie Bücher darstellte und daraus überraschende Porträts oder Stillleben komponierte. Neben seiner Tätigkeit als Maler war er am Prager Hof auch als Ingenieur, als Kostümzeichner sowie als Musiker tätig. Von seinen Werken ist nur ein Teil erhalten geblieben. Seltener gebrauchte Formen seines Familiennamens lauten Archimboldi und Arcimbaldo.</abstract>
+<wikilink>http://en.wikipedia.org/wiki/Giuseppe_Arcimboldo?oldid=605306693</wikilink>
+</Person>

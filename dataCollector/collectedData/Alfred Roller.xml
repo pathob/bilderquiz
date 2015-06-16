@@ -1,0 +1,26 @@
+<Person>
+<name>Alfred Roller</name>
+<variantName />
+<thumbnail>https://commons.wikimedia.org/wiki/Special:FilePath/Alfred_Roller_Brünn_1907.jpg?width=270</thumbnail>
+<birthEN>October 2, 1864</birthEN>
+<birthDE>2. Oktober 1864</birthDE>
+<deathEN>June 21, 1935</deathEN>
+<deathDE>21. Juni 1935</deathDE>
+<birthPlace>
+<XML_Serializer_Tag>Brünn</XML_Serializer_Tag>
+</birthPlace>
+<deathPlace>
+<XML_Serializer_Tag>Wien</XML_Serializer_Tag>
+</deathPlace>
+<professionOrOccupation>
+<XML_Serializer_Tag>Maler</XML_Serializer_Tag>
+<XML_Serializer_Tag>Graphiker</XML_Serializer_Tag>
+<XML_Serializer_Tag>Bühnenbildner</XML_Serializer_Tag>
+<XML_Serializer_Tag>Filmarchitekt</XML_Serializer_Tag>
+<XML_Serializer_Tag>Kostümbildner</XML_Serializer_Tag>
+</professionOrOccupation>
+<artworks />
+<dbpResource>http://dbpedia.org/resource/Alfred_Roller</dbpResource>
+<abstract>Alfred Roller (* 2. Oktober 1864 in Brünn; Mähren; † 21. Juni 1935 in Wien) war ein österreichischer Bühnenbildner, Maler und Grafiker.</abstract>
+<wikilink>http://en.wikipedia.org/wiki/Alfred_Roller?oldid=580772079</wikilink>
+</Person>

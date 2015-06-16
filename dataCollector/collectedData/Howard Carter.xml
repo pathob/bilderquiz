@@ -1,0 +1,19 @@
+<Person>
+<name>Howard Carter</name>
+<variantName />
+<thumbnail>https://commons.wikimedia.org/wiki/Special:FilePath/Howard_carter.jpg?width=270</thumbnail>
+<birthEN>1874</birthEN>
+<birthDE>1874</birthDE>
+<deathEN>1939</deathEN>
+<deathDE>1939</deathDE>
+<birthPlace />
+<deathPlace />
+<professionOrOccupation>
+<XML_Serializer_Tag>Maler</XML_Serializer_Tag>
+<XML_Serializer_Tag>Archäologe</XML_Serializer_Tag>
+</professionOrOccupation>
+<artworks />
+<dbpResource>http://dbpedia.org/resource/Howard_Carter</dbpResource>
+<abstract>Howard Carter (* 9. Mai 1874 in Kensington; † 2. März 1939 in London) war ein britischer Ägyptologe. Bekannt wurde Howard Carter durch die Entdeckung des nahezu unversehrten Grabes des Tutanchamun (KV62) im Tal der Könige in West-Theben.</abstract>
+<wikilink>http://en.wikipedia.org/wiki/Howard_Carter?oldid=606036676</wikilink>
+</Person>

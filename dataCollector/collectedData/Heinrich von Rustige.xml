@@ -1,0 +1,28 @@
+<Person>
+<name>Heinrich von Rustige</name>
+<variantName>
+<XML_Serializer_Tag>Heinrich Franz Gaudenz von Rustige</XML_Serializer_Tag>
+<XML_Serializer_Tag>Heinrich Werl</XML_Serializer_Tag>
+<XML_Serializer_Tag>Heinrich Franz Gaudens von Rustige</XML_Serializer_Tag>
+</variantName>
+<thumbnail>https://de.wikipedia.org/wiki/Special:FilePath/Heinrich_Rustige_1889.jpg?width=270</thumbnail>
+<birthEN>April 11, 1810</birthEN>
+<birthDE>11. April 1810</birthDE>
+<deathEN>January 16, 1900</deathEN>
+<deathDE>16. Januar 1900</deathDE>
+<birthPlace>
+<XML_Serializer_Tag>Werl</XML_Serializer_Tag>
+</birthPlace>
+<deathPlace>
+<XML_Serializer_Tag>Stuttgart</XML_Serializer_Tag>
+</deathPlace>
+<professionOrOccupation>
+<XML_Serializer_Tag>Maler</XML_Serializer_Tag>
+<XML_Serializer_Tag>Schriftsteller</XML_Serializer_Tag>
+<XML_Serializer_Tag>Galeriedirektor</XML_Serializer_Tag>
+</professionOrOccupation>
+<artworks />
+<dbpResource>http://dbpedia.org/resource/Heinrich_von_Rustige</dbpResource>
+<abstract>Heinrich Franz Gaudenz von Rustige (* 12. April 1810 in Werl; † 15. Januar 1900 in Stuttgart) war ein deutscher Maler.</abstract>
+<wikilink>http://en.wikipedia.org/wiki/Heinrich_von_Rustige?oldid=595295908</wikilink>
+</Person>

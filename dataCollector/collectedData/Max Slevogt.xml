@@ -1,0 +1,26 @@
+<Person>
+<name>Max Slevogt</name>
+<variantName>
+<XML_Serializer_Tag>M. Slevogt</XML_Serializer_Tag>
+</variantName>
+<thumbnail>https://commons.wikimedia.org/wiki/Special:FilePath/Max_Slevogt.jpg?width=270</thumbnail>
+<birthEN>November 8, 1868</birthEN>
+<birthDE>8. November 1868</birthDE>
+<deathEN>September 20, 1932</deathEN>
+<deathDE>20. September 1932</deathDE>
+<birthPlace>
+<XML_Serializer_Tag>Landshut</XML_Serializer_Tag>
+</birthPlace>
+<deathPlace>
+<XML_Serializer_Tag>Neukastel</XML_Serializer_Tag>
+</deathPlace>
+<professionOrOccupation>
+<XML_Serializer_Tag>Maler</XML_Serializer_Tag>
+<XML_Serializer_Tag>Radierer</XML_Serializer_Tag>
+<XML_Serializer_Tag>Illustrator</XML_Serializer_Tag>
+</professionOrOccupation>
+<artworks />
+<dbpResource>http://dbpedia.org/resource/Max_Slevogt</dbpResource>
+<abstract>Franz Theodor Max Slevogt (* 8. Oktober 1868 in Landshut; † 20. September 1932 in Leinsweiler-Neukastel/Pfalz) war ein deutscher Maler, Grafiker, Illustrator und Bühnenbildner des Impressionismus.Slevogt nimmt eine besondere Stellung in der Landschaftsmalerei ein. Zusammen mit Lovis Corinth und Max Liebermann gehörte er zu den Vertretern der Freilichtmalerei, die im Gegensatz zur Ateliermalerei direkt vor dem Motiv in der freien Natur arbeiten. Slevogt war Gründungsmitglied der Arbeitsgemeinschaft Pfälzer Künstler.</abstract>
+<wikilink>http://en.wikipedia.org/wiki/Max_Slevogt?oldid=585916790</wikilink>
+</Person>

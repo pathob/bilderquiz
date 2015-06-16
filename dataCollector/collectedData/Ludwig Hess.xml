@@ -1,0 +1,24 @@
+<Person>
+<name>Ludwig Hess</name>
+<variantName />
+<thumbnail>https://de.wikipedia.org/wiki/Special:FilePath/Ludwig_Hess_Maler.jpg?width=270</thumbnail>
+<birthEN>October 16, 1760</birthEN>
+<birthDE>16. Oktober 1760</birthDE>
+<deathEN>April 13, 1800</deathEN>
+<deathDE>13. April 1800</deathDE>
+<birthPlace>
+<XML_Serializer_Tag>Zürich</XML_Serializer_Tag>
+</birthPlace>
+<deathPlace>
+<XML_Serializer_Tag>Zürich</XML_Serializer_Tag>
+</deathPlace>
+<professionOrOccupation>
+<XML_Serializer_Tag>Künstler</XML_Serializer_Tag>
+<XML_Serializer_Tag>Maler</XML_Serializer_Tag>
+<XML_Serializer_Tag>Landschaftsmaler</XML_Serializer_Tag>
+</professionOrOccupation>
+<artworks />
+<dbpResource>http://dbpedia.org/resource/Ludwig_Hess</dbpResource>
+<abstract>Ludwig Hess (* 18. Oktober 1760 in Zürich; † 13. April 1800 oder 16. April 1800 ebenda) war ein Schweizer Landschaftsmaler und Kupferstecher.</abstract>
+<wikilink>http://en.wikipedia.org/wiki/Ludwig_Hess?oldid=599875039</wikilink>
+</Person>

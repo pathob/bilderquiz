@@ -1,0 +1,22 @@
+<Person>
+<name>Ferdinand Kobell</name>
+<variantName>
+<XML_Serializer_Tag>Ferdinand Koebell</XML_Serializer_Tag>
+</variantName>
+<thumbnail>https://commons.wikimedia.org/wiki/Special:FilePath/Ferdinand_Kobell2.jpg?width=270</thumbnail>
+<birthEN>June 7, 1740</birthEN>
+<birthDE>7. Juni 1740</birthDE>
+<deathEN>February 1, 1799</deathEN>
+<deathDE>1. Februar 1799</deathDE>
+<birthPlace />
+<deathPlace />
+<professionOrOccupation>
+<XML_Serializer_Tag>Künstler</XML_Serializer_Tag>
+<XML_Serializer_Tag>Maler</XML_Serializer_Tag>
+<XML_Serializer_Tag>Kupferstecher</XML_Serializer_Tag>
+</professionOrOccupation>
+<artworks />
+<dbpResource>http://dbpedia.org/resource/Ferdinand_Kobell</dbpResource>
+<abstract>Ferdinand Kobell (* 7. Juni 1740 in Mannheim; † 1. Februar 1799 in München) war ein deutscher Maler, Kupferstecher und Radierer.</abstract>
+<wikilink>http://en.wikipedia.org/wiki/Ferdinand_Kobell?oldid=600903395</wikilink>
+</Person>

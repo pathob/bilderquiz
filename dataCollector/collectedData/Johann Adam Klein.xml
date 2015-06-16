@@ -1,0 +1,23 @@
+<Person>
+<name>Johann Adam Klein</name>
+<variantName>
+<XML_Serializer_Tag>Johann A. Klein</XML_Serializer_Tag>
+<XML_Serializer_Tag>J. A. Klein</XML_Serializer_Tag>
+</variantName>
+<thumbnail>https://commons.wikimedia.org/wiki/Special:FilePath/Johann_Adam_Klein_-_Maler_und_Kupferstecher.jpg?width=270</thumbnail>
+<birthEN>November 24, 1792</birthEN>
+<birthDE>24. November 1792</birthDE>
+<deathEN>May 21, 1875</deathEN>
+<deathDE>21. Mai 1875</deathDE>
+<birthPlace />
+<deathPlace />
+<professionOrOccupation>
+<XML_Serializer_Tag>Maler</XML_Serializer_Tag>
+<XML_Serializer_Tag>Radierer</XML_Serializer_Tag>
+<XML_Serializer_Tag>Graphiker</XML_Serializer_Tag>
+</professionOrOccupation>
+<artworks />
+<dbpResource>http://dbpedia.org/resource/Johann_Adam_Klein</dbpResource>
+<abstract>Johann Adam Klein (* 24. November 1792 in Nürnberg; † 21. Mai 1875 in München) war ein deutscher Maler und Kupferstecher des Biedermeiers.</abstract>
+<wikilink>http://en.wikipedia.org/wiki/Johann_Adam_Klein?oldid=563772260</wikilink>
+</Person>

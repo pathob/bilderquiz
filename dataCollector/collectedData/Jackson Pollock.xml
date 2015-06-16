@@ -1,0 +1,27 @@
+<Person>
+<name>Jackson Pollock</name>
+<variantName>
+<XML_Serializer_Tag>Paul Jackson Pollock</XML_Serializer_Tag>
+</variantName>
+<thumbnail>https://commons.wikimedia.org/wiki/Special:FilePath/Pollock-house.jpg?width=270</thumbnail>
+<birthEN>January 28, 1912</birthEN>
+<birthDE>28. Januar 1912</birthDE>
+<deathEN>August 11, 1956</deathEN>
+<deathDE>11. August 1956</deathDE>
+<birthPlace>
+<XML_Serializer_Tag>Cody, Wyo.</XML_Serializer_Tag>
+</birthPlace>
+<deathPlace>
+<XML_Serializer_Tag>East Hampton, NY</XML_Serializer_Tag>
+</deathPlace>
+<professionOrOccupation>
+<XML_Serializer_Tag>Künstler</XML_Serializer_Tag>
+<XML_Serializer_Tag>Maler</XML_Serializer_Tag>
+<XML_Serializer_Tag>Graphiker</XML_Serializer_Tag>
+<XML_Serializer_Tag>Aktionskünstler</XML_Serializer_Tag>
+</professionOrOccupation>
+<artworks />
+<dbpResource>http://dbpedia.org/resource/Jackson_Pollock</dbpResource>
+<abstract>Paul Jackson Pollock (* 28. Januar 1912 in Cody, Wyoming; † 11. August 1956 in Springs-East Hampton, New York) war ein US-amerikanischer Maler des abstrakten Expressionismus der New York School. Pollock wurde bekannt mit der von ihm begründeten Stilrichtung des Action Painting. Seine im Drip-Painting-Verfahren angefertigten großformatigen Werke brachten ihm bereits zu Lebzeiten den Spitznamen „Jack the Dripper“ ein.Pollock war mit der Malerin Lee Krasner verheiratet, mit der er eine Ateliergemeinschaft hatte.</abstract>
+<wikilink>http://en.wikipedia.org/wiki/Jackson_Pollock?oldid=606554349</wikilink>
+</Person>

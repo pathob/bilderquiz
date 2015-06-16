@@ -1,0 +1,31 @@
+<Person>
+<name>Andrew Wyeth</name>
+<variantName>
+<XML_Serializer_Tag>Andrew Newell Wyeth</XML_Serializer_Tag>
+<XML_Serializer_Tag>Andrew Newell Wyeth</XML_Serializer_Tag>
+<XML_Serializer_Tag>Wei-ssu</XML_Serializer_Tag>
+<XML_Serializer_Tag>Ssu Wei</XML_Serializer_Tag>
+<XML_Serializer_Tag>Weisi</XML_Serializer_Tag>
+<XML_Serializer_Tag>Endriu Uaiet</XML_Serializer_Tag>
+<XML_Serializer_Tag>Andoryu Waiesu</XML_Serializer_Tag>
+</variantName>
+<thumbnail>https://commons.wikimedia.org/wiki/Special:FilePath/Andrew_Wyeth_Nov07.JPG?width=270</thumbnail>
+<birthEN>July 12, 1917</birthEN>
+<birthDE>12. Juli 1917</birthDE>
+<deathEN>January 16, 2009</deathEN>
+<deathDE>16. Januar 2009</deathDE>
+<birthPlace>
+<XML_Serializer_Tag>Chadds Ford &lt;Pa.&gt;</XML_Serializer_Tag>
+</birthPlace>
+<deathPlace>
+<XML_Serializer_Tag>Chadds Ford &lt;Pa.&gt;</XML_Serializer_Tag>
+</deathPlace>
+<professionOrOccupation>
+<XML_Serializer_Tag>Künstler</XML_Serializer_Tag>
+<XML_Serializer_Tag>Maler</XML_Serializer_Tag>
+</professionOrOccupation>
+<artworks />
+<dbpResource>http://dbpedia.org/resource/Andrew_Wyeth</dbpResource>
+<abstract>Andrew Newell Wyeth (* 12. Juli 1917 in Chadds Ford, Pennsylvania; † 16. Januar 2009 ebenda) war ein US-amerikanischer realistischer Maler, einer der bekanntesten des 20. Jahrhunderts. Manchmal wird er als der „Volksmaler“ bezeichnet, weil er in den USA so populär ist. Seine Lieblingsmotive waren das Land und die Einwohner rund um seine Heimatstadt Chadds Ford in Pennsylvania und um seinen Sommerwohnsitz bei Cushing in Maine. Sein bekanntestes Werk, und eines der bekanntesten der US-amerikanischen Kunst des Zwanzigsten Jahrhunderts, ist „Christinas Welt“, das im Museum of Modern Art in New York City hängt.</abstract>
+<wikilink>http://en.wikipedia.org/wiki/Andrew_Wyeth?oldid=606111663</wikilink>
+</Person>

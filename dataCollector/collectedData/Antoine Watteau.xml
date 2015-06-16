@@ -1,0 +1,88 @@
+<Person>
+<name>Antoine Watteau</name>
+<variantName>
+<XML_Serializer_Tag>Antuan Vatto</XML_Serializer_Tag>
+<XML_Serializer_Tag>Antoine de Watteau</XML_Serializer_Tag>
+<XML_Serializer_Tag>Jean A. Watteau</XML_Serializer_Tag>
+<XML_Serializer_Tag>Jean Antoine Watteau</XML_Serializer_Tag>
+<XML_Serializer_Tag>Jean-Antoine Watteau</XML_Serializer_Tag>
+<XML_Serializer_Tag>Jean Antoine Wateau</XML_Serializer_Tag>
+<XML_Serializer_Tag>Antone Watteau</XML_Serializer_Tag>
+<XML_Serializer_Tag>Antonius Wateau</XML_Serializer_Tag>
+<XML_Serializer_Tag>... Wateau</XML_Serializer_Tag>
+</variantName>
+<thumbnail>https://commons.wikimedia.org/wiki/Special:FilePath/Rosalba_Carriera_Portrait_Antoine_Watteau.jpg?width=270</thumbnail>
+<birthEN>October 10, 1684</birthEN>
+<birthDE>10. Oktober 1684</birthDE>
+<deathEN>July 18, 1721</deathEN>
+<deathDE>18. Juli 1721</deathDE>
+<birthPlace>
+<XML_Serializer_Tag>Valenciennes</XML_Serializer_Tag>
+</birthPlace>
+<deathPlace>
+<XML_Serializer_Tag>Nogent-sur-Marne</XML_Serializer_Tag>
+</deathPlace>
+<professionOrOccupation>
+<XML_Serializer_Tag>Künstler</XML_Serializer_Tag>
+<XML_Serializer_Tag>Maler</XML_Serializer_Tag>
+<XML_Serializer_Tag>Zeichner</XML_Serializer_Tag>
+</professionOrOccupation>
+<artworks>
+<XML_Serializer_Tag>
+<painting>
+<type>uri</type>
+<value>http://dbpedia.org/resource/L&apos;Enseigne_de_Gersaint</value>
+</painting>
+<thumbnail>
+<type>uri</type>
+<value>http://commons.wikimedia.org/wiki/Special:FilePath/Gersaint.jpg?width=300</value>
+</thumbnail>
+<name>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>L&apos;Enseigne de Gersaint</value>
+</name>
+<year>
+<type>typed-literal</type>
+<datatype>http://www.w3.org/2001/XMLSchema#integer</datatype>
+<value>1720</value>
+</year>
+<abstract>
+<type>literal</type>
+<xml:lang>de</xml:lang>
+<value>Das Ladenschild des Kunsthändlers Gersaint (französisch L’Enseigne de Gersaint) ist ein Gemälde des französischen Malers Antoine Watteau. Das 163 x 308 cm große Bild entstand 1720/21. Es ist heute im Schloss Charlottenburg in Berlin zu besichtigen.</value>
+</abstract>
+<wikilink>
+<type>uri</type>
+<value>http://en.wikipedia.org/wiki/L&apos;Enseigne_de_Gersaint?oldid=602732394</value>
+</wikilink>
+</XML_Serializer_Tag>
+<XML_Serializer_Tag>
+<painting>
+<type>uri</type>
+<value>http://dbpedia.org/resource/The_Country_Dance</value>
+</painting>
+<thumbnail>
+<type>uri</type>
+<value>http://commons.wikimedia.org/wiki/Special:FilePath/Jean-Antoine_Watteau_-_The_Country_Dance_-_Google_Art_Project.jpg?width=300</value>
+</thumbnail>
+<name>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>The Country Dance</value>
+</name>
+<year>
+<type>typed-literal</type>
+<datatype>http://www.w3.org/2001/XMLSchema#integer</datatype>
+<value>1706</value>
+</year>
+<wikilink>
+<type>uri</type>
+<value>http://en.wikipedia.org/wiki/The_Country_Dance?oldid=536116249</value>
+</wikilink>
+</XML_Serializer_Tag>
+</artworks>
+<dbpResource>http://dbpedia.org/resource/Jean-Antoine_Watteau</dbpResource>
+<abstract>Jean-Antoine Watteau (* 10. Oktober 1684 in Valenciennes; † 18. Juli 1721 in Nogent-sur-Marne) war Maler des französischen Rokoko. Mit seinen fêtes galantes schuf er zu Beginn des 18. Jahrhunderts eine neue Bildgattung.</abstract>
+<wikilink>http://en.wikipedia.org/wiki/Jean-Antoine_Watteau?oldid=606019786</wikilink>
+</Person>

@@ -1,0 +1,23 @@
+<Person>
+<name>Carl Moll</name>
+<variantName />
+<thumbnail>https://commons.wikimedia.org/wiki/Special:FilePath/Ludwig_Michalek_(attr)_Bildnis_Carl_Moll.jpg?width=270</thumbnail>
+<birthEN>April 23, 1861</birthEN>
+<birthDE>23. April 1861</birthDE>
+<deathEN>April 13, 1945</deathEN>
+<deathDE>13. April 1945</deathDE>
+<birthPlace>
+<XML_Serializer_Tag>Wien</XML_Serializer_Tag>
+</birthPlace>
+<deathPlace>
+<XML_Serializer_Tag>Wien</XML_Serializer_Tag>
+</deathPlace>
+<professionOrOccupation>
+<XML_Serializer_Tag>Künstler</XML_Serializer_Tag>
+<XML_Serializer_Tag>Maler</XML_Serializer_Tag>
+</professionOrOccupation>
+<artworks />
+<dbpResource>http://dbpedia.org/resource/Carl_Moll</dbpResource>
+<abstract>Carl Moll (* 23. April 1861 in Wien; † 13. April 1945 ebenda) war ein österreichischer Maler des Jugendstils.</abstract>
+<wikilink>http://en.wikipedia.org/wiki/Carl_Moll?oldid=599592257</wikilink>
+</Person>

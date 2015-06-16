@@ -1,0 +1,26 @@
+<Person>
+<name>Otto Mueller</name>
+<variantName>
+<XML_Serializer_Tag>Otto Müller</XML_Serializer_Tag>
+</variantName>
+<thumbnail>https://de.wikipedia.org/wiki/Special:FilePath/Otto_Mueller.jpg?width=270</thumbnail>
+<birthEN>October 16, 1874</birthEN>
+<birthDE>16. Oktober 1874</birthDE>
+<deathEN>September 24, 1930</deathEN>
+<deathDE>24. September 1930</deathDE>
+<birthPlace>
+<XML_Serializer_Tag>Lubawka</XML_Serializer_Tag>
+</birthPlace>
+<deathPlace>
+<XML_Serializer_Tag>Obernigk</XML_Serializer_Tag>
+</deathPlace>
+<professionOrOccupation>
+<XML_Serializer_Tag>Künstler</XML_Serializer_Tag>
+<XML_Serializer_Tag>Maler</XML_Serializer_Tag>
+<XML_Serializer_Tag>Lithograph</XML_Serializer_Tag>
+</professionOrOccupation>
+<artworks />
+<dbpResource>http://dbpedia.org/resource/Otto_Mueller</dbpResource>
+<abstract>Otto Mueller (* 16. Oktober 1874 in Liebau, Schlesien; † 24. September 1930 in Obernigk bei Breslau) war ein deutscher Maler und Lithograf des Expressionismus. Er gilt heute als einer der bedeutendsten Expressionisten.</abstract>
+<wikilink>http://en.wikipedia.org/wiki/Otto_Mueller?oldid=591556546</wikilink>
+</Person>

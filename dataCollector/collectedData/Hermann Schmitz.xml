@@ -1,0 +1,23 @@
+<Person>
+<name>Hermann Schmitz</name>
+<variantName>
+<XML_Serializer_Tag>Schmitz-Süchteln</XML_Serializer_Tag>
+</variantName>
+<thumbnail>https://de.wikipedia.org/wiki/Special:FilePath/Selbstportrait_im_prater.jpg?width=270</thumbnail>
+<birthEN>May 24, 1904</birthEN>
+<birthDE>24. Mai 1904</birthDE>
+<deathEN>November 4, 1931</deathEN>
+<deathDE>4. November 1931</deathDE>
+<birthPlace>
+<XML_Serializer_Tag>Süchteln</XML_Serializer_Tag>
+</birthPlace>
+<deathPlace />
+<professionOrOccupation>
+<XML_Serializer_Tag>Maler</XML_Serializer_Tag>
+<XML_Serializer_Tag>Künstler</XML_Serializer_Tag>
+</professionOrOccupation>
+<artworks />
+<dbpResource>http://dbpedia.org/resource/Hermann_Schmitz</dbpResource>
+<abstract>Hermann Schmitz (* 1. Januar 1881 in Essen; † 8. Oktober 1960 in Heidelberg) war ein deutscher Industrieller, von 1935 bis 1945 Vorstandsvorsitzender der I.G. Farben.</abstract>
+<wikilink>http://en.wikipedia.org/wiki/Hermann_Schmitz?oldid=602998898</wikilink>
+</Person>

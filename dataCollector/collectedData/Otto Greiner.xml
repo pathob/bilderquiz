@@ -1,0 +1,25 @@
+<Person>
+<name>Otto Greiner</name>
+<variantName>
+<XML_Serializer_Tag>Ernst Otto Greiner</XML_Serializer_Tag>
+</variantName>
+<thumbnail>https://commons.wikimedia.org/wiki/Special:FilePath/Otto_greiner_painter_1900.jpg?width=270</thumbnail>
+<birthEN>December 16, 1869</birthEN>
+<birthDE>16. Dezember 1869</birthDE>
+<deathEN>September 24, 1916</deathEN>
+<deathDE>24. September 1916</deathDE>
+<birthPlace>
+<XML_Serializer_Tag>Leipzig</XML_Serializer_Tag>
+</birthPlace>
+<deathPlace>
+<XML_Serializer_Tag>München</XML_Serializer_Tag>
+</deathPlace>
+<professionOrOccupation>
+<XML_Serializer_Tag>Graphiker</XML_Serializer_Tag>
+<XML_Serializer_Tag>Maler</XML_Serializer_Tag>
+</professionOrOccupation>
+<artworks />
+<dbpResource>http://dbpedia.org/resource/Otto_Greiner</dbpResource>
+<abstract>Otto Greiner (* 16. Dezember 1869 in Leipzig; † 24. September 1916 in München; auch Ernst Otto Greiner) war ein deutscher Maler und Grafiker.</abstract>
+<wikilink>http://en.wikipedia.org/wiki/Otto_Greiner?oldid=605021336</wikilink>
+</Person>

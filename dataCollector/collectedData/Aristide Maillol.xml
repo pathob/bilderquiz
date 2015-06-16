@@ -1,0 +1,98 @@
+<Person>
+<name>Aristide Maillol</name>
+<variantName>
+<XML_Serializer_Tag>Aristide Bonaventure Jean Maillol</XML_Serializer_Tag>
+<XML_Serializer_Tag>Aristeidēs Magiol</XML_Serializer_Tag>
+<XML_Serializer_Tag>Aristid Majol&apos;</XML_Serializer_Tag>
+<XML_Serializer_Tag>Aristide Joseph Bonaventure Maillol</XML_Serializer_Tag>
+</variantName>
+<thumbnail>https://commons.wikimedia.org/wiki/Special:FilePath/Maillol1925.jpg?width=270</thumbnail>
+<birthEN>December 8, 1861</birthEN>
+<birthDE>8. Dezember 1861</birthDE>
+<deathEN>September 27, 1944</deathEN>
+<deathDE>27. September 1944</deathDE>
+<birthPlace>
+<XML_Serializer_Tag>Banyuls-sur-Mer</XML_Serializer_Tag>
+</birthPlace>
+<deathPlace>
+<XML_Serializer_Tag>Banyuls-sur-Mer</XML_Serializer_Tag>
+</deathPlace>
+<professionOrOccupation>
+<XML_Serializer_Tag>Künstler</XML_Serializer_Tag>
+<XML_Serializer_Tag>Bildhauer</XML_Serializer_Tag>
+<XML_Serializer_Tag>Maler</XML_Serializer_Tag>
+<XML_Serializer_Tag>Graphiker</XML_Serializer_Tag>
+</professionOrOccupation>
+<artworks>
+<XML_Serializer_Tag>
+<painting>
+<type>uri</type>
+<value>http://dbpedia.org/resource/Air_(Maillol)</value>
+</painting>
+<thumbnail>
+<type>uri</type>
+<value>http://commons.wikimedia.org/wiki/Special:FilePath/KMM_Maillol.JPG?width=300</value>
+</thumbnail>
+<name>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>Air</value>
+</name>
+<year>
+<type>typed-literal</type>
+<datatype>http://www.w3.org/2001/XMLSchema#integer</datatype>
+<value>1938</value>
+</year>
+<wikilink>
+<type>uri</type>
+<value>http://en.wikipedia.org/wiki/Air_(Maillol)?oldid=591034197</value>
+</wikilink>
+</XML_Serializer_Tag>
+<XML_Serializer_Tag>
+<painting>
+<type>uri</type>
+<value>http://dbpedia.org/resource/La_Rivi%C3%A8re_(Maillol)</value>
+</painting>
+<thumbnail>
+<type>uri</type>
+<value>http://commons.wikimedia.org/wiki/Special:FilePath/La_riviere-maillol.jpg?width=300</value>
+</thumbnail>
+<name>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>La Rivière</value>
+</name>
+<year>
+<type>typed-literal</type>
+<datatype>http://www.w3.org/2001/XMLSchema#integer</datatype>
+<value>1938</value>
+</year>
+<wikilink>
+<type>uri</type>
+<value>http://en.wikipedia.org/wiki/La_Rivière_(Maillol)?oldid=605994425</value>
+</wikilink>
+</XML_Serializer_Tag>
+<XML_Serializer_Tag>
+<painting>
+<type>uri</type>
+<value>http://dbpedia.org/resource/Nymph_(Central_Figure_for_%22The_Three_Graces%22)</value>
+</painting>
+<thumbnail>
+<type>uri</type>
+<value>http://commons.wikimedia.org/wiki/Special:FilePath/Nymph_Central_Figure_forThe_Three_Nymphs.jpg?width=300</value>
+</thumbnail>
+<name>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>Nymph (Central Figure for &quot;The Three Graces&quot;)</value>
+</name>
+<wikilink>
+<type>uri</type>
+<value>http://en.wikipedia.org/wiki/Nymph_(Central_Figure_for_%22The_Three_Graces%22)?oldid=596557722</value>
+</wikilink>
+</XML_Serializer_Tag>
+</artworks>
+<dbpResource>http://dbpedia.org/resource/Aristide_Maillol</dbpResource>
+<abstract>Aristide Joseph Bonaventure Jean Maillol (* 8. Dezember 1861 in Banyuls-sur-Mer, Pyrénées-Orientales; † 27. September 1944 ebenda) war ein französischer Bildhauer, Maler und Grafiker. Er galt in Frankreich als der wichtigste Antipode Auguste Rodins und beeinflusste die europäische Plastik in der ersten Hälfte des 20. Jahrhunderts nachhaltig.</abstract>
+<wikilink>http://en.wikipedia.org/wiki/Aristide_Maillol?oldid=586733738</wikilink>
+</Person>

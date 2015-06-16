@@ -1,0 +1,32 @@
+<Person>
+<name>Alfred Kubin</name>
+<variantName>
+<XML_Serializer_Tag>... Kubin-Herzmanovsky</XML_Serializer_Tag>
+<XML_Serializer_Tag>Alfred Leopold Isidor Kubin</XML_Serializer_Tag>
+<XML_Serializer_Tag>Alfred L. I. Kubin</XML_Serializer_Tag>
+<XML_Serializer_Tag>A. Kubin</XML_Serializer_Tag>
+</variantName>
+<thumbnail>https://commons.wikimedia.org/wiki/Special:FilePath/Nicola_Perscheid_-_Alfred_Kubin_1904b.jpg?width=270</thumbnail>
+<birthEN>April 10, 1877</birthEN>
+<birthDE>10. April 1877</birthDE>
+<deathEN>August 20, 1959</deathEN>
+<deathDE>20. August 1959</deathDE>
+<birthPlace>
+<XML_Serializer_Tag>Leitmeritz</XML_Serializer_Tag>
+</birthPlace>
+<deathPlace>
+<XML_Serializer_Tag>Wernstein-Zwickledt</XML_Serializer_Tag>
+</deathPlace>
+<professionOrOccupation>
+<XML_Serializer_Tag>Künstler</XML_Serializer_Tag>
+<XML_Serializer_Tag>Graphiker</XML_Serializer_Tag>
+<XML_Serializer_Tag>Zeichner</XML_Serializer_Tag>
+<XML_Serializer_Tag>Illustrator</XML_Serializer_Tag>
+<XML_Serializer_Tag>Maler</XML_Serializer_Tag>
+<XML_Serializer_Tag>Schriftsteller</XML_Serializer_Tag>
+</professionOrOccupation>
+<artworks />
+<dbpResource>http://dbpedia.org/resource/Alfred_Kubin</dbpResource>
+<abstract>Alfred Leopold Isidor Kubin (* 10. April 1877 in Leitmeritz (Litoměřice), Böhmen; † 20. August 1959 in Zwickledt, Gemeinde Wernstein am Inn) war ein österreichischer Grafiker, Schriftsteller und Buchillustrator.</abstract>
+<wikilink>http://en.wikipedia.org/wiki/Alfred_Kubin?oldid=606176617</wikilink>
+</Person>

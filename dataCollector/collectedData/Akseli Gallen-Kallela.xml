@@ -1,0 +1,79 @@
+<Person>
+<name>Akseli Gallen-Kallela</name>
+<variantName>
+<XML_Serializer_Tag>Akseli Gallen-Kallela</XML_Serializer_Tag>
+<XML_Serializer_Tag>Axel Gallén-Kallela</XML_Serializer_Tag>
+<XML_Serializer_Tag>Axel Gallén-Kallela</XML_Serializer_Tag>
+<XML_Serializer_Tag>Axel Valdemar Gallen-Kallela</XML_Serializer_Tag>
+<XML_Serializer_Tag>Axel Valdemar Gallen-Kallela</XML_Serializer_Tag>
+<XML_Serializer_Tag>Akseli Valdemar Gallén-Kallela</XML_Serializer_Tag>
+<XML_Serializer_Tag>Akseli Valdemar Gallén-Kallela</XML_Serializer_Tag>
+<XML_Serializer_Tag>Axel Gallén</XML_Serializer_Tag>
+<XML_Serializer_Tag>Axel Waldemar Gallén</XML_Serializer_Tag>
+<XML_Serializer_Tag>Aksel&apos; Gallén</XML_Serializer_Tag>
+</variantName>
+<thumbnail>https://commons.wikimedia.org/wiki/Special:FilePath/Gallen-Kallela_by_Repin.jpg?width=270</thumbnail>
+<birthEN>1865</birthEN>
+<birthDE>1865</birthDE>
+<deathEN>1931</deathEN>
+<deathDE>1931</deathDE>
+<birthPlace />
+<deathPlace />
+<professionOrOccupation>
+<XML_Serializer_Tag>Maler</XML_Serializer_Tag>
+<XML_Serializer_Tag>Graphiker</XML_Serializer_Tag>
+</professionOrOccupation>
+<artworks>
+<XML_Serializer_Tag>
+<painting>
+<type>uri</type>
+<value>http://dbpedia.org/resource/Lemmink%C3%A4inen&apos;s_Mother</value>
+</painting>
+<thumbnail>
+<type>uri</type>
+<value>http://commons.wikimedia.org/wiki/Special:FilePath/Gallen_Kallela_Lemminkainens_Mother.jpg?width=300</value>
+</thumbnail>
+<name>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>Lemminkäinen&apos;s Mother</value>
+</name>
+<year>
+<type>typed-literal</type>
+<datatype>http://www.w3.org/2001/XMLSchema#integer</datatype>
+<value>1897</value>
+</year>
+<wikilink>
+<type>uri</type>
+<value>http://en.wikipedia.org/wiki/Lemminkäinen&apos;s_Mother?oldid=590787715</value>
+</wikilink>
+</XML_Serializer_Tag>
+<XML_Serializer_Tag>
+<painting>
+<type>uri</type>
+<value>http://dbpedia.org/resource/The_Defense_of_the_Sampo</value>
+</painting>
+<thumbnail>
+<type>uri</type>
+<value>http://commons.wikimedia.org/wiki/Special:FilePath/Sammon_puolustus.jpg?width=300</value>
+</thumbnail>
+<name>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>The Defense of the Sampo</value>
+</name>
+<year>
+<type>typed-literal</type>
+<datatype>http://www.w3.org/2001/XMLSchema#integer</datatype>
+<value>1896</value>
+</year>
+<wikilink>
+<type>uri</type>
+<value>http://en.wikipedia.org/wiki/The_Defense_of_the_Sampo?oldid=591021882</value>
+</wikilink>
+</XML_Serializer_Tag>
+</artworks>
+<dbpResource>http://dbpedia.org/resource/Akseli_Gallen-Kallela</dbpResource>
+<abstract>Akseli Gallen-Kallela (* 26. April 1865 in Pori als Axél Waldemar Gallén; † 7. März 1931 in Stockholm) war ein finnischer Maler, Architekt und Designer. Er ist besonders für seine Illustrationen zum finnischen Nationalepos Kalevala bekannt und ist der wohl bedeutendste Vertreter der finnischen Nationalromantik in der bildenden Kunst.</abstract>
+<wikilink>http://en.wikipedia.org/wiki/Akseli_Gallen-Kallela?oldid=594589478</wikilink>
+</Person>

@@ -1,0 +1,106 @@
+<Person>
+<name>Pietro da Cortona</name>
+<variantName>
+<XML_Serializer_Tag>Pietro Da Cortona</XML_Serializer_Tag>
+<XML_Serializer_Tag>Pietro Berrettini da Cortona</XML_Serializer_Tag>
+<XML_Serializer_Tag>Pietro Berettino da Cortona</XML_Serializer_Tag>
+<XML_Serializer_Tag>Pietro Berrettino da Cortona</XML_Serializer_Tag>
+<XML_Serializer_Tag>Pietro, da Cortona</XML_Serializer_Tag>
+<XML_Serializer_Tag>Petrus Berettinus</XML_Serializer_Tag>
+<XML_Serializer_Tag>Petrus Berrettinus</XML_Serializer_Tag>
+<XML_Serializer_Tag>Pietro Berrettini</XML_Serializer_Tag>
+<XML_Serializer_Tag>Pietro Berretini</XML_Serializer_Tag>
+<XML_Serializer_Tag>Pietro Berettini</XML_Serializer_Tag>
+<XML_Serializer_Tag>Petrus Berretinus</XML_Serializer_Tag>
+<XML_Serializer_Tag>Pietro DaCortona</XML_Serializer_Tag>
+</variantName>
+<thumbnail>https://commons.wikimedia.org/wiki/Special:FilePath/Pietro_da_Cortona_Frontespizio_Flora_di_Ferrari.JPG?width=270</thumbnail>
+<birthEN>1596</birthEN>
+<birthDE>1596</birthDE>
+<deathEN>1669</deathEN>
+<deathDE>1669</deathDE>
+<birthPlace />
+<deathPlace />
+<professionOrOccupation>
+<XML_Serializer_Tag>Maler</XML_Serializer_Tag>
+<XML_Serializer_Tag>Bildhauer</XML_Serializer_Tag>
+<XML_Serializer_Tag>Architekt</XML_Serializer_Tag>
+</professionOrOccupation>
+<artworks>
+<XML_Serializer_Tag>
+<painting>
+<type>uri</type>
+<value>http://dbpedia.org/resource/The_History_of_Constantine</value>
+</painting>
+<thumbnail>
+<type>uri</type>
+<value>http://commons.wikimedia.org/wiki/Special:FilePath/Tapestry_showing_Constantine&apos;s_Triumphal_Entry_into_Rome.jpg?width=300</value>
+</thumbnail>
+<name>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>The History of Constantine</value>
+</name>
+<year>
+<type>typed-literal</type>
+<datatype>http://www.w3.org/2001/XMLSchema#integer</datatype>
+<value>1622</value>
+</year>
+<wikilink>
+<type>uri</type>
+<value>http://en.wikipedia.org/wiki/The_History_of_Constantine?oldid=574185769</value>
+</wikilink>
+</XML_Serializer_Tag>
+<XML_Serializer_Tag>
+<painting>
+<type>uri</type>
+<value>http://dbpedia.org/resource/Allegory_of_Divine_Providence_and_Barberini_Power_(Cortona)</value>
+</painting>
+<thumbnail>
+<type>uri</type>
+<value>http://commons.wikimedia.org/wiki/Special:FilePath/Cortona_Triumph_of_Divine_Providence_01.jpg?width=300</value>
+</thumbnail>
+<name>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>Allegory of Divine Providence</value>
+</name>
+<year>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>c. 1633-1639</value>
+</year>
+<wikilink>
+<type>uri</type>
+<value>http://en.wikipedia.org/wiki/Allegory_of_Divine_Providence_and_Barberini_Power_(Cortona)?oldid=594177241</value>
+</wikilink>
+</XML_Serializer_Tag>
+<XML_Serializer_Tag>
+<painting>
+<type>uri</type>
+<value>http://dbpedia.org/resource/Allegory_of_Divine_Providence_and_Barberini_Power_(Cortona)</value>
+</painting>
+<thumbnail>
+<type>uri</type>
+<value>http://commons.wikimedia.org/wiki/Special:FilePath/Cortona_Triumph_of_Divine_Providence_01.jpg?width=300</value>
+</thumbnail>
+<name>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>and Barberini Power</value>
+</name>
+<year>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>c. 1633-1639</value>
+</year>
+<wikilink>
+<type>uri</type>
+<value>http://en.wikipedia.org/wiki/Allegory_of_Divine_Providence_and_Barberini_Power_(Cortona)?oldid=594177241</value>
+</wikilink>
+</XML_Serializer_Tag>
+</artworks>
+<dbpResource>http://dbpedia.org/resource/Pietro_da_Cortona</dbpResource>
+<abstract>Pietro da Cortona (* 1. November 1596 in Cortona; † 16. Mai 1669 in Rom) war ein bedeutender Baumeister und Maler des römischen Hochbarock.</abstract>
+<wikilink>http://en.wikipedia.org/wiki/Pietro_da_Cortona?oldid=602494679</wikilink>
+</Person>

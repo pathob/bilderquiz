@@ -1,0 +1,25 @@
+<Person>
+<name>Paul Weber</name>
+<variantName>
+<XML_Serializer_Tag>Gottlieb Daniel Paul Weber</XML_Serializer_Tag>
+<XML_Serializer_Tag>P. Weber</XML_Serializer_Tag>
+</variantName>
+<thumbnail>https://commons.wikimedia.org/wiki/Special:FilePath/Paul_Weber_Wartenberg.jpg?width=270</thumbnail>
+<birthEN>January 19, 1823</birthEN>
+<birthDE>19. Januar 1823</birthDE>
+<deathEN>October 12, 1916</deathEN>
+<deathDE>12. Oktober 1916</deathDE>
+<birthPlace>
+<XML_Serializer_Tag>Darmstadt</XML_Serializer_Tag>
+</birthPlace>
+<deathPlace>
+<XML_Serializer_Tag>München</XML_Serializer_Tag>
+</deathPlace>
+<professionOrOccupation>
+<XML_Serializer_Tag>Maler</XML_Serializer_Tag>
+</professionOrOccupation>
+<artworks />
+<dbpResource>http://dbpedia.org/resource/Paul_Weber_(artist)</dbpResource>
+<abstract>Gottlieb Daniel Paul Weber (* 19. Januar 1823 in Darmstadt; † 12. Oktober 1916 in München) war ein deutscher Landschafts- und Porträtmaler, der zeitweise in Philadelphia (USA) lebte und arbeitete.</abstract>
+<wikilink>http://en.wikipedia.org/wiki/Paul_Weber_(artist)?oldid=567607582</wikilink>
+</Person>

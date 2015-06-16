@@ -1,0 +1,29 @@
+<Person>
+<name>Joseph Sattler</name>
+<variantName>
+<XML_Serializer_Tag>Josef Sattler</XML_Serializer_Tag>
+<XML_Serializer_Tag>Joseph Kaspar Sattler</XML_Serializer_Tag>
+<XML_Serializer_Tag>Jos. Sattler</XML_Serializer_Tag>
+</variantName>
+<thumbnail>https://commons.wikimedia.org/wiki/Special:FilePath/Josef_Kaspar_Sattler.jpg?width=270</thumbnail>
+<birthEN>July 26, 1867</birthEN>
+<birthDE>26. Juli 1867</birthDE>
+<deathEN>May 12, 1931</deathEN>
+<deathDE>12. Mai 1931</deathDE>
+<birthPlace>
+<XML_Serializer_Tag>Schrobenhausen</XML_Serializer_Tag>
+</birthPlace>
+<deathPlace>
+<XML_Serializer_Tag>München</XML_Serializer_Tag>
+</deathPlace>
+<professionOrOccupation>
+<XML_Serializer_Tag>Maler</XML_Serializer_Tag>
+<XML_Serializer_Tag>Zeichner</XML_Serializer_Tag>
+<XML_Serializer_Tag>Graphiker</XML_Serializer_Tag>
+<XML_Serializer_Tag>Kupferstecher</XML_Serializer_Tag>
+</professionOrOccupation>
+<artworks />
+<dbpResource>http://dbpedia.org/resource/Joseph_Sattler</dbpResource>
+<abstract>Joseph Kaspar Sattler (* 20. Juli 1867 in Schrobenhausen; † 12. Mai 1931 in München) war ein Maler, Exlibriskünstler und Illustrator im Jugendstil.</abstract>
+<wikilink>http://en.wikipedia.org/wiki/Joseph_Sattler?oldid=604784115</wikilink>
+</Person>

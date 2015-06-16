@@ -1,0 +1,28 @@
+<Person>
+<name>Louis Oppenheim</name>
+<variantName>
+<XML_Serializer_Tag>LO</XML_Serializer_Tag>
+</variantName>
+<thumbnail>https://commons.wikimedia.org/wiki/Special:FilePath/Louis_Oppenheim_1925.jpg?width=270</thumbnail>
+<birthEN>May 4, 1879</birthEN>
+<birthDE>4. Mai 1879</birthDE>
+<deathEN>XX.02.1936</deathEN>
+<deathDE>XX.02.1936</deathDE>
+<birthPlace>
+<XML_Serializer_Tag>Coburg</XML_Serializer_Tag>
+</birthPlace>
+<deathPlace>
+<XML_Serializer_Tag>Berlin</XML_Serializer_Tag>
+</deathPlace>
+<professionOrOccupation>
+<XML_Serializer_Tag>Künstler</XML_Serializer_Tag>
+<XML_Serializer_Tag>Graphiker</XML_Serializer_Tag>
+<XML_Serializer_Tag>Graphikdesigner</XML_Serializer_Tag>
+<XML_Serializer_Tag>Zeichner</XML_Serializer_Tag>
+<XML_Serializer_Tag>Maler</XML_Serializer_Tag>
+</professionOrOccupation>
+<artworks />
+<dbpResource>http://dbpedia.org/resource/Louis_Oppenheim</dbpResource>
+<abstract>Louis Oppenheim (* 4. Mai 1879 in Coburg; † 1936 in Berlin) war ein deutscher Gebrauchsgraphiker und Künstler.Geboren in Coburg, studierte in London von 1899 bis 1906. Er zog nach Berlin und begann 1910 seine Karriere als Gebrauchsgraphiker. 1917 Auszeichnung für seine Arbeiten an den Kriegsanleihekampagnen.Er signierte seine WErke mit „LO“. Seine Arbeitgeber waren: AES, Reichsbahn, Persil und Adrema. Er prägte den „Berliner Poster Stil“.Oppenheim entwarf auch zahlreiche Schriftzüge wie zum Beispiel die &apos;Lo-Schrift&apos; (1914) für die Schriftgießerei Berthold und die &apos;Fanfare&apos; (1927).</abstract>
+<wikilink>http://en.wikipedia.org/wiki/Louis_Oppenheim?oldid=592215581</wikilink>
+</Person>

@@ -1,0 +1,29 @@
+<Person>
+<name>Adolph Tidemand</name>
+<variantName>
+<XML_Serializer_Tag>Adolf Tidemand</XML_Serializer_Tag>
+<XML_Serializer_Tag>Adolf Tideman</XML_Serializer_Tag>
+</variantName>
+<thumbnail>https://commons.wikimedia.org/wiki/Special:FilePath/Adolph_Tidemand_Selvportrett.jpg?width=270</thumbnail>
+<birthEN>August 14, 1814</birthEN>
+<birthDE>14. August 1814</birthDE>
+<deathEN>August 25, 1876</deathEN>
+<deathDE>25. August 1876</deathDE>
+<birthPlace>
+<XML_Serializer_Tag>Mandal (Norwegen)</XML_Serializer_Tag>
+</birthPlace>
+<deathPlace>
+<XML_Serializer_Tag>Oslo</XML_Serializer_Tag>
+</deathPlace>
+<professionOrOccupation>
+<XML_Serializer_Tag>Künstler</XML_Serializer_Tag>
+<XML_Serializer_Tag>Maler</XML_Serializer_Tag>
+<XML_Serializer_Tag>Zeichner</XML_Serializer_Tag>
+<XML_Serializer_Tag>Graphiker</XML_Serializer_Tag>
+<XML_Serializer_Tag>Illustrator</XML_Serializer_Tag>
+</professionOrOccupation>
+<artworks />
+<dbpResource>http://dbpedia.org/resource/Adolph_Tidemand</dbpResource>
+<abstract>Adolph Tidemand (* 14. August 1814 in Mandal; † 25. August 1876 in Christiania) war ein norwegischer Maler der Düsseldorfer Schule und der führende Genremaler der Norwegischen Nationalromantik.</abstract>
+<wikilink>http://en.wikipedia.org/wiki/Adolph_Tidemand?oldid=588514186</wikilink>
+</Person>

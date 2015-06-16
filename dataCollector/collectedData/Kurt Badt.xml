@@ -1,0 +1,23 @@
+<Person>
+<name>Kurt Badt</name>
+<variantName />
+<thumbnail>https://commons.wikimedia.org/wiki/Special:FilePath/Kurt_Badt.jpg?width=270</thumbnail>
+<birthEN>March 3, 1890</birthEN>
+<birthDE>3. März 1890</birthDE>
+<deathEN>November 22, 1973</deathEN>
+<deathDE>22. November 1973</deathDE>
+<birthPlace>
+<XML_Serializer_Tag>Berlin</XML_Serializer_Tag>
+</birthPlace>
+<deathPlace>
+<XML_Serializer_Tag>Überlingen</XML_Serializer_Tag>
+</deathPlace>
+<professionOrOccupation>
+<XML_Serializer_Tag>Kunsthistoriker</XML_Serializer_Tag>
+<XML_Serializer_Tag>Maler</XML_Serializer_Tag>
+</professionOrOccupation>
+<artworks />
+<dbpResource>http://dbpedia.org/resource/Kurt_Badt</dbpResource>
+<abstract>Kurt Badt (* 3. März 1890 in Berlin; † 22. November 1973 in Überlingen) war ein deutscher Kunsthistoriker. Er löste einen lebhaften Disput über Grundprobleme des Kunstverständnisses und der Methodik kunsthistorischer Forschung aus, obwohl er ein Außenseiter der kunstgeschichtlichen akademischen Zunft war.</abstract>
+<wikilink>http://en.wikipedia.org/wiki/Kurt_Badt?oldid=578462897</wikilink>
+</Person>

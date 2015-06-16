@@ -1,0 +1,26 @@
+<Person>
+<name>Wilhelm Heine</name>
+<variantName>
+<XML_Serializer_Tag>William Heine</XML_Serializer_Tag>
+</variantName>
+<thumbnail>https://de.wikipedia.org/wiki/Special:FilePath/WilhelmHeine_1853Yokohama.jpg?width=270</thumbnail>
+<birthEN>January 30, 1827</birthEN>
+<birthDE>30. Januar 1827</birthDE>
+<deathEN>October 5, 1885</deathEN>
+<deathDE>5. Oktober 1885</deathDE>
+<birthPlace>
+<XML_Serializer_Tag>Dresden</XML_Serializer_Tag>
+</birthPlace>
+<deathPlace>
+<XML_Serializer_Tag>Kötzschenbroda</XML_Serializer_Tag>
+</deathPlace>
+<professionOrOccupation>
+<XML_Serializer_Tag>Künstler</XML_Serializer_Tag>
+<XML_Serializer_Tag>Maler</XML_Serializer_Tag>
+<XML_Serializer_Tag>Reiseschriftsteller</XML_Serializer_Tag>
+</professionOrOccupation>
+<artworks />
+<dbpResource>http://dbpedia.org/resource/Wilhelm_Heine</dbpResource>
+<abstract>Peter Bernhard Wilhelm Heine (* 30. Januar 1827 in Dresden; † 5. Oktober 1885 in Kötzschenbroda, heute Radebeul; auch William Heine) war ein deutscher Maler, Schriftsteller und Reisender.</abstract>
+<wikilink>http://en.wikipedia.org/wiki/Wilhelm_Heine?oldid=555918265</wikilink>
+</Person>

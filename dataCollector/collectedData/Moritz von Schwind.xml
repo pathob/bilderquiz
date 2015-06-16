@@ -1,0 +1,32 @@
+<Person>
+<name>Moritz von Schwind</name>
+<variantName>
+<XML_Serializer_Tag>Moritz Ludwig von Schwind</XML_Serializer_Tag>
+<XML_Serializer_Tag>Moric fon Švind</XML_Serializer_Tag>
+<XML_Serializer_Tag>M. v. Schwind</XML_Serializer_Tag>
+<XML_Serializer_Tag>Moriz von Schwind</XML_Serializer_Tag>
+<XML_Serializer_Tag>, Maler</XML_Serializer_Tag>
+</variantName>
+<thumbnail>https://de.wikipedia.org/wiki/Special:FilePath/Moritz_von_Schwind.jpg?width=270</thumbnail>
+<birthEN>January 21, 1804</birthEN>
+<birthDE>21. Januar 1804</birthDE>
+<deathEN>February 8, 1871</deathEN>
+<deathDE>8. Februar 1871</deathDE>
+<birthPlace>
+<XML_Serializer_Tag>Wien</XML_Serializer_Tag>
+</birthPlace>
+<deathPlace>
+<XML_Serializer_Tag>Pöcking-Niederpöcking</XML_Serializer_Tag>
+</deathPlace>
+<professionOrOccupation>
+<XML_Serializer_Tag>Künstler</XML_Serializer_Tag>
+<XML_Serializer_Tag>Maler</XML_Serializer_Tag>
+<XML_Serializer_Tag>Zeichner</XML_Serializer_Tag>
+<XML_Serializer_Tag>Graphiker</XML_Serializer_Tag>
+<XML_Serializer_Tag>Illustrator</XML_Serializer_Tag>
+</professionOrOccupation>
+<artworks />
+<dbpResource>http://dbpedia.org/resource/Moritz_von_Schwind</dbpResource>
+<abstract>Moritz Ludwig von Schwind (* 21. Januar 1804 in Wien; † 8. Februar 1871 in Niederpöcking, Oberbayern) war ein österreichischer Maler und Zeichner.</abstract>
+<wikilink>http://en.wikipedia.org/wiki/Moritz_von_Schwind?oldid=583881473</wikilink>
+</Person>

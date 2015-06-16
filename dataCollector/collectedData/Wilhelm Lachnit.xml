@@ -1,0 +1,23 @@
+<Person>
+<name>Wilhelm Lachnit</name>
+<variantName />
+<thumbnail>https://commons.wikimedia.org/wiki/Special:FilePath/Stamps_of_Germany_(DDR)_1974,_MiNr_2002.jpg?width=270</thumbnail>
+<birthEN>November 12, 1899</birthEN>
+<birthDE>12. November 1899</birthDE>
+<deathEN>November 14, 1962</deathEN>
+<deathDE>14. November 1962</deathDE>
+<birthPlace>
+<XML_Serializer_Tag>Dresden-Gittersee</XML_Serializer_Tag>
+</birthPlace>
+<deathPlace>
+<XML_Serializer_Tag>Dresden</XML_Serializer_Tag>
+</deathPlace>
+<professionOrOccupation>
+<XML_Serializer_Tag>Maler</XML_Serializer_Tag>
+<XML_Serializer_Tag>Graphiker</XML_Serializer_Tag>
+</professionOrOccupation>
+<artworks />
+<dbpResource>http://dbpedia.org/resource/Wilhelm_Lachnit</dbpResource>
+<abstract>Wilhelm Lachnit (* 12. November 1899 in Gittersee bei Dresden; † 14. November 1962 in Dresden) war ein deutscher Maler, der sein Werk zum größten Teil in Dresden schuf. In den 1920er Jahren entstanden vor allem Radierungen und Gemälde, die u.a. von den Moskauer Sammlungen und der Gemäldegalerie Dresden gekauft wurden. Neben Gemälden und Grafiken schuf er auch Wandbilder (z.T. aus Emaille) und großformatige Holzschnitte. Kurz vor seinem Tod fertigte er zudem kleinformatige Monotypien an.</abstract>
+<wikilink>http://en.wikipedia.org/wiki/Wilhelm_Lachnit?oldid=582054531</wikilink>
+</Person>

@@ -1,0 +1,195 @@
+<Person>
+<name>Domenico Ghirlandaio</name>
+<variantName>
+<XML_Serializer_Tag>Domenico Bigordi</XML_Serializer_Tag>
+<XML_Serializer_Tag>Domenico, Bigordi</XML_Serializer_Tag>
+<XML_Serializer_Tag>Domenico, Ghirlandaio</XML_Serializer_Tag>
+<XML_Serializer_Tag>Domenico Ghirlandajo</XML_Serializer_Tag>
+<XML_Serializer_Tag>Domenico Grillandajo</XML_Serializer_Tag>
+<XML_Serializer_Tag>Domenico di Tommaso Ghirlandaio</XML_Serializer_Tag>
+<XML_Serializer_Tag>Domenico di Tommaso Bigordi</XML_Serializer_Tag>
+</variantName>
+<thumbnail>https://commons.wikimedia.org/wiki/Special:FilePath/Ghirlandaio-Giovanna_Tornabuoni.jpg?width=270</thumbnail>
+<birthEN />
+<birthDE />
+<deathEN />
+<deathDE />
+<birthPlace />
+<deathPlace />
+<professionOrOccupation>
+<XML_Serializer_Tag>Maler</XML_Serializer_Tag>
+</professionOrOccupation>
+<artworks>
+<XML_Serializer_Tag>
+<painting>
+<type>uri</type>
+<value>http://dbpedia.org/resource/Adoration_of_the_Magi_(Ospedale_degli_Innocenti)</value>
+</painting>
+<thumbnail>
+<type>uri</type>
+<value>http://commons.wikimedia.org/wiki/Special:FilePath/Adoration_of_the_Magi_Spedale_degli_Innocenti.jpg?width=300</value>
+</thumbnail>
+<name>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>Adoration of the Magi</value>
+</name>
+<year>
+<type>typed-literal</type>
+<datatype>http://www.w3.org/2001/XMLSchema#integer</datatype>
+<value>1485</value>
+</year>
+<wikilink>
+<type>uri</type>
+<value>http://en.wikipedia.org/wiki/Adoration_of_the_Magi_(Ospedale_degli_Innocenti)?oldid=600020087</value>
+</wikilink>
+</XML_Serializer_Tag>
+<XML_Serializer_Tag>
+<painting>
+<type>uri</type>
+<value>http://dbpedia.org/resource/Last_Supper_(Ghirlandaio)</value>
+</painting>
+<thumbnail>
+<type>uri</type>
+<value>http://commons.wikimedia.org/wiki/Special:FilePath/Domenico_ghirlandaio,_cenacolo_di_ognissanti_01.jpg?width=300</value>
+</thumbnail>
+<name>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>Last Supper</value>
+</name>
+<year>
+<type>typed-literal</type>
+<datatype>http://www.w3.org/2001/XMLSchema#integer</datatype>
+<value>1480</value>
+</year>
+<wikilink>
+<type>uri</type>
+<value>http://en.wikipedia.org/wiki/Last_Supper_(Ghirlandaio)?oldid=585980913</value>
+</wikilink>
+</XML_Serializer_Tag>
+<XML_Serializer_Tag>
+<painting>
+<type>uri</type>
+<value>http://dbpedia.org/resource/Portrait_of_Giovanna_Tornabuoni</value>
+</painting>
+<thumbnail>
+<type>uri</type>
+<value>http://commons.wikimedia.org/wiki/Special:FilePath/Ghirlandaio-Giovanna_Tornabuoni_cropped.jpg?width=300</value>
+</thumbnail>
+<name>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>Portrait of Giovanna Tornabuoni</value>
+</name>
+<year>
+<type>typed-literal</type>
+<datatype>http://www.w3.org/2001/XMLSchema#integer</datatype>
+<value>1488</value>
+</year>
+<wikilink>
+<type>uri</type>
+<value>http://en.wikipedia.org/wiki/Portrait_of_Giovanna_Tornabuoni?oldid=590373063</value>
+</wikilink>
+</XML_Serializer_Tag>
+<XML_Serializer_Tag>
+<painting>
+<type>uri</type>
+<value>http://dbpedia.org/resource/Vocation_of_the_Apostles</value>
+</painting>
+<thumbnail>
+<type>uri</type>
+<value>http://commons.wikimedia.org/wiki/Special:FilePath/Ghirlandaio,_Domenico_-_Calling_of_the_Apostles_-_1481.jpg?width=300</value>
+</thumbnail>
+<name>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>Vocation of the Apostles</value>
+</name>
+<year>
+<type>typed-literal</type>
+<datatype>http://www.w3.org/2001/XMLSchema#integer</datatype>
+<value>1481</value>
+</year>
+<wikilink>
+<type>uri</type>
+<value>http://en.wikipedia.org/wiki/Vocation_of_the_Apostles?oldid=601292601</value>
+</wikilink>
+</XML_Serializer_Tag>
+<XML_Serializer_Tag>
+<painting>
+<type>uri</type>
+<value>http://dbpedia.org/resource/Visitation_(Ghirlandaio)</value>
+</painting>
+<thumbnail>
+<type>uri</type>
+<value>http://commons.wikimedia.org/wiki/Special:FilePath/Domenico_ghirlandaio,_visitazione,_louvre_01.jpg?width=300</value>
+</thumbnail>
+<name>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>Visitation</value>
+</name>
+<year>
+<type>typed-literal</type>
+<datatype>http://www.w3.org/2001/XMLSchema#integer</datatype>
+<value>1491</value>
+</year>
+<wikilink>
+<type>uri</type>
+<value>http://en.wikipedia.org/wiki/Visitation_(Ghirlandaio)?oldid=588331855</value>
+</wikilink>
+</XML_Serializer_Tag>
+<XML_Serializer_Tag>
+<painting>
+<type>uri</type>
+<value>http://dbpedia.org/resource/The_Crossing_of_the_Red_Sea_(Sistine_Chapel)</value>
+</painting>
+<thumbnail>
+<type>uri</type>
+<value>http://commons.wikimedia.org/wiki/Special:FilePath/Cosimo_Rosselli_Attraversamento_del_Mar_Rosso.jpg?width=300</value>
+</thumbnail>
+<name>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>The Crossing of the Red Sea</value>
+</name>
+<year>
+<type>typed-literal</type>
+<datatype>http://www.w3.org/2001/XMLSchema#integer</datatype>
+<value>1481</value>
+</year>
+<wikilink>
+<type>uri</type>
+<value>http://en.wikipedia.org/wiki/The_Crossing_of_the_Red_Sea_(Sistine_Chapel)?oldid=603421408</value>
+</wikilink>
+</XML_Serializer_Tag>
+<XML_Serializer_Tag>
+<painting>
+<type>uri</type>
+<value>http://dbpedia.org/resource/Saint_Jerome_in_His_Study_(Ghirlandaio)</value>
+</painting>
+<thumbnail>
+<type>uri</type>
+<value>http://commons.wikimedia.org/wiki/Special:FilePath/Domenico_Ghirlandaio_-_St_Jerome_in_his_study.jpg?width=300</value>
+</thumbnail>
+<name>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>Saint Jerome in His Study</value>
+</name>
+<year>
+<type>typed-literal</type>
+<datatype>http://www.w3.org/2001/XMLSchema#integer</datatype>
+<value>1480</value>
+</year>
+<wikilink>
+<type>uri</type>
+<value>http://en.wikipedia.org/wiki/Saint_Jerome_in_His_Study_(Ghirlandaio)?oldid=590565882</value>
+</wikilink>
+</XML_Serializer_Tag>
+</artworks>
+<dbpResource>http://dbpedia.org/resource/Domenico_Ghirlandaio</dbpResource>
+<abstract>Domenico Ghirlandaio (* 1449 in Florenz; † 11. Januar 1494 ebenda; eigentlich Domenico di Tommaso Curradi di Doffo Bigordi) war ein florentinischer Maler der Renaissance.</abstract>
+<wikilink>http://en.wikipedia.org/wiki/Domenico_Ghirlandaio?oldid=603163336</wikilink>
+</Person>

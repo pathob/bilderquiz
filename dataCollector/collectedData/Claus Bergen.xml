@@ -1,0 +1,24 @@
+<Person>
+<name>Claus Bergen</name>
+<variantName>
+<XML_Serializer_Tag>Claus Friedrich Bergen</XML_Serializer_Tag>
+</variantName>
+<thumbnail>https://en.wikipedia.org/wiki/Special:FilePath/The_Harbor_of_Polperro,_Cornwall,_C._Bergen.jpg?width=270</thumbnail>
+<birthEN>April 18, 1885</birthEN>
+<birthDE>18. April 1885</birthDE>
+<deathEN>October 4, 1964</deathEN>
+<deathDE>4. Oktober 1964</deathDE>
+<birthPlace>
+<XML_Serializer_Tag>Stuttgart</XML_Serializer_Tag>
+</birthPlace>
+<deathPlace>
+<XML_Serializer_Tag>Lenggries</XML_Serializer_Tag>
+</deathPlace>
+<professionOrOccupation>
+<XML_Serializer_Tag>Maler</XML_Serializer_Tag>
+</professionOrOccupation>
+<artworks />
+<dbpResource>http://dbpedia.org/resource/Claus_Bergen</dbpResource>
+<abstract>Claus Friedrich Bergen (* 18. April 1885 in Stuttgart; † 4. Oktober 1964 in Lenggries, Oberbayern) war ein deutscher Marinemaler und Karl May-Illustrator.</abstract>
+<wikilink>http://en.wikipedia.org/wiki/Claus_Bergen?oldid=599452822</wikilink>
+</Person>

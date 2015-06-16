@@ -1,0 +1,23 @@
+<Person>
+<name>Michael Wolgemut</name>
+<variantName>
+<XML_Serializer_Tag>Michael Wohlgemuth</XML_Serializer_Tag>
+<XML_Serializer_Tag>Michael Wolgemuth</XML_Serializer_Tag>
+<XML_Serializer_Tag>Michael Wolgemut</XML_Serializer_Tag>
+</variantName>
+<thumbnail>https://commons.wikimedia.org/wiki/Special:FilePath/Albrecht_Dürer_085.jpg?width=270</thumbnail>
+<birthEN>1434</birthEN>
+<birthDE>1434</birthDE>
+<deathEN>1519</deathEN>
+<deathDE>1519</deathDE>
+<birthPlace />
+<deathPlace />
+<professionOrOccupation>
+<XML_Serializer_Tag>Künstler</XML_Serializer_Tag>
+<XML_Serializer_Tag>Maler</XML_Serializer_Tag>
+</professionOrOccupation>
+<artworks />
+<dbpResource>http://dbpedia.org/resource/Michael_Wolgemut</dbpResource>
+<abstract>Michael Wolgemut (* 1434 in Nürnberg; † 30. November1519 ebenda; auch Michael Wohlgemut oder Michael Wohlgemuth) war ein Maler und ein Meister des Holzschnitts. Er war Schüler von Hans Pleydenwurff und der wichtigste Vertreter der älteren fränkischen Schule.Auch arbeitete er im Auftrage des sächsischen Kurfürsten Friedrichs des Weisen bei der Ausgestaltung seines Schlosses in Wittenberg mit. Durch Kriegseinwirkungen ist sein Schaffenswerk in Wittenberg verlorengegangen. So auch ein Bildnis seines Auftraggebers, des Kurfürsten Friedrich des Weisen.</abstract>
+<wikilink>http://en.wikipedia.org/wiki/Michael_Wolgemut?oldid=601491122</wikilink>
+</Person>

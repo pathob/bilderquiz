@@ -1,0 +1,20 @@
+<Person>
+<name>Sam Szafran</name>
+<variantName />
+<thumbnail>https://commons.wikimedia.org/wiki/Special:FilePath/Pastellkästen_im_Atelier_des_Künstlers.jpg?width=270</thumbnail>
+<birthEN>1934</birthEN>
+<birthDE>1934</birthDE>
+<deathEN />
+<deathDE />
+<birthPlace>
+<XML_Serializer_Tag>Paris</XML_Serializer_Tag>
+</birthPlace>
+<deathPlace />
+<professionOrOccupation>
+<XML_Serializer_Tag>Maler</XML_Serializer_Tag>
+</professionOrOccupation>
+<artworks />
+<dbpResource>http://dbpedia.org/resource/Sam_Szafran</dbpResource>
+<abstract>Sam Szafran (* 19. November 1934 in Paris) ist ein französischer Künstler.</abstract>
+<wikilink>http://en.wikipedia.org/wiki/Sam_Szafran?oldid=599526709</wikilink>
+</Person>

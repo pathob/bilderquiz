@@ -1,0 +1,23 @@
+<Person>
+<name>Hermann Wislicenus</name>
+<variantName />
+<thumbnail>https://commons.wikimedia.org/wiki/Special:FilePath/Hermann_Wislicenus.jpg?width=270</thumbnail>
+<birthEN>September 20, 1824</birthEN>
+<birthDE>20. September 1824</birthDE>
+<deathEN>April 25, 1899</deathEN>
+<deathDE>25. April 1899</deathDE>
+<birthPlace>
+<XML_Serializer_Tag>Eisenach</XML_Serializer_Tag>
+</birthPlace>
+<deathPlace>
+<XML_Serializer_Tag>Goslar</XML_Serializer_Tag>
+</deathPlace>
+<professionOrOccupation>
+<XML_Serializer_Tag>Maler</XML_Serializer_Tag>
+<XML_Serializer_Tag>Künstler</XML_Serializer_Tag>
+</professionOrOccupation>
+<artworks />
+<dbpResource>http://dbpedia.org/resource/Hermann_Wislicenus</dbpResource>
+<abstract>Hermann Wislicenus (* 20. September 1825 in Eisenach; † 25. April 1899 in Goslar) war ein deutscher Maler.</abstract>
+<wikilink>http://en.wikipedia.org/wiki/Hermann_Wislicenus?oldid=567722412</wikilink>
+</Person>

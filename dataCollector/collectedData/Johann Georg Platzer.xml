@@ -1,0 +1,23 @@
+<Person>
+<name>Johann Georg Platzer</name>
+<variantName>
+<XML_Serializer_Tag>Georg Platzer</XML_Serializer_Tag>
+<XML_Serializer_Tag>Johann Georg Plazer</XML_Serializer_Tag>
+<XML_Serializer_Tag>Georg Plazer</XML_Serializer_Tag>
+</variantName>
+<thumbnail>https://commons.wikimedia.org/wiki/Special:FilePath/Platzer_Atelier_des_Malers.jpg?width=270</thumbnail>
+<birthEN>1704</birthEN>
+<birthDE>1704</birthDE>
+<deathEN>1761</deathEN>
+<deathDE>1761</deathDE>
+<birthPlace />
+<deathPlace />
+<professionOrOccupation>
+<XML_Serializer_Tag>Künstler</XML_Serializer_Tag>
+<XML_Serializer_Tag>Maler</XML_Serializer_Tag>
+</professionOrOccupation>
+<artworks />
+<dbpResource>http://dbpedia.org/resource/Johann_Georg_Platzer</dbpResource>
+<abstract>Johann Georg Platzer (* 24. Juni 1704 in Eppan, Südtirol; † 10. Dezember 1761 ebenda) war ein Maler des Barock.</abstract>
+<wikilink>http://en.wikipedia.org/wiki/Johann_Georg_Platzer?oldid=601006585</wikilink>
+</Person>

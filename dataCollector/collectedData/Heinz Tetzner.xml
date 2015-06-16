@@ -1,0 +1,23 @@
+<Person>
+<name>Heinz Tetzner</name>
+<variantName />
+<thumbnail>https://de.wikipedia.org/wiki/Special:FilePath/Heinztetzner.jpg?width=270</thumbnail>
+<birthEN>March 8, 1920</birthEN>
+<birthDE>8. März 1920</birthDE>
+<deathEN>August 20, 2007</deathEN>
+<deathDE>20. August 2007</deathDE>
+<birthPlace>
+<XML_Serializer_Tag>Gersdorf</XML_Serializer_Tag>
+</birthPlace>
+<deathPlace>
+<XML_Serializer_Tag>Gersdorf</XML_Serializer_Tag>
+</deathPlace>
+<professionOrOccupation>
+<XML_Serializer_Tag>Maler</XML_Serializer_Tag>
+<XML_Serializer_Tag>Graphiker</XML_Serializer_Tag>
+</professionOrOccupation>
+<artworks />
+<dbpResource>http://dbpedia.org/resource/Heinz_Tetzner</dbpResource>
+<abstract>Heinz Tetzner (* 8. März 1920 in Gersdorf; † 20. August 2007 ebenda) war ein deutscher Maler und Grafiker des Expressionismus.</abstract>
+<wikilink>http://en.wikipedia.org/wiki/Heinz_Tetzner?oldid=601833835</wikilink>
+</Person>

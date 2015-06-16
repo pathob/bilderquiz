@@ -1,0 +1,30 @@
+<Person>
+<name>Karl Begas</name>
+<variantName>
+<XML_Serializer_Tag>Carl Joseph Begas</XML_Serializer_Tag>
+<XML_Serializer_Tag>, Vater</XML_Serializer_Tag>
+<XML_Serializer_Tag>Carl Begas</XML_Serializer_Tag>
+<XML_Serializer_Tag>Karl Joseph Begas</XML_Serializer_Tag>
+<XML_Serializer_Tag>Karl der Ältere Begas</XML_Serializer_Tag>
+<XML_Serializer_Tag>Karl Joseph der Ältere Begas</XML_Serializer_Tag>
+</variantName>
+<thumbnail>https://commons.wikimedia.org/wiki/Special:FilePath/Ritratto_della_famiglia_Begas.jpg?width=270</thumbnail>
+<birthEN>September 30, 1794</birthEN>
+<birthDE>30. September 1794</birthDE>
+<deathEN>November 23, 1854</deathEN>
+<deathDE>23. November 1854</deathDE>
+<birthPlace>
+<XML_Serializer_Tag>Heinsberg</XML_Serializer_Tag>
+</birthPlace>
+<deathPlace>
+<XML_Serializer_Tag>Berlin</XML_Serializer_Tag>
+</deathPlace>
+<professionOrOccupation>
+<XML_Serializer_Tag>Künstler</XML_Serializer_Tag>
+<XML_Serializer_Tag>Maler</XML_Serializer_Tag>
+</professionOrOccupation>
+<artworks />
+<dbpResource>http://dbpedia.org/resource/Karl_Begas</dbpResource>
+<abstract>Karl Begas der Jüngere (signierte meist mit Carl Begas; * 23. November 1845 in Berlin; † 21. Februar 1916 Köthen (Anhalt)) war ein deutscher Bildhauer.</abstract>
+<wikilink>http://en.wikipedia.org/wiki/Karl_Begas?oldid=604292625</wikilink>
+</Person>

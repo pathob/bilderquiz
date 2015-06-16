@@ -1,0 +1,27 @@
+<Person>
+<name>Ferdinand Rothbart</name>
+<variantName>
+<XML_Serializer_Tag>Ferd. Rothbart</XML_Serializer_Tag>
+<XML_Serializer_Tag>Ferdinand Rothbarth</XML_Serializer_Tag>
+</variantName>
+<thumbnail>https://commons.wikimedia.org/wiki/Special:FilePath/Ferdinand_Rothbart_-_Maler.jpg?width=270</thumbnail>
+<birthEN>October 3, 1823</birthEN>
+<birthDE>3. Oktober 1823</birthDE>
+<deathEN>January 31, 1899</deathEN>
+<deathDE>31. Januar 1899</deathDE>
+<birthPlace>
+<XML_Serializer_Tag>Roth am Sand</XML_Serializer_Tag>
+</birthPlace>
+<deathPlace>
+<XML_Serializer_Tag>München</XML_Serializer_Tag>
+</deathPlace>
+<professionOrOccupation>
+<XML_Serializer_Tag>Maler</XML_Serializer_Tag>
+<XML_Serializer_Tag>Konservator</XML_Serializer_Tag>
+<XML_Serializer_Tag>Graphiker</XML_Serializer_Tag>
+</professionOrOccupation>
+<artworks />
+<dbpResource>http://dbpedia.org/resource/Ferdinand_Rothbart</dbpResource>
+<abstract>Ferdinand Rothbart (* 3. Oktober 1823 in Roth; † 31. Januar 1899 München) war ein deutscher Radierer, Illustrator und Historienmaler sowie Konservator am königlichen Kupferstich- und Handzeichnung-Kabinett München.</abstract>
+<wikilink>http://en.wikipedia.org/wiki/Ferdinand_Rothbart?oldid=604661303</wikilink>
+</Person>

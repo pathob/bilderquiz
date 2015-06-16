@@ -1,0 +1,22 @@
+<Person>
+<name>Adriaen van de Velde</name>
+<variantName>
+<XML_Serializer_Tag>Adriaen Van de Velde</XML_Serializer_Tag>
+</variantName>
+<thumbnail>https://commons.wikimedia.org/wiki/Special:FilePath/Het_Strand_van_Scheveningen,_Adriaen_van_de_Velde_(1658).jpg?width=270</thumbnail>
+<birthEN>1636</birthEN>
+<birthDE>1636</birthDE>
+<deathEN>1672</deathEN>
+<deathDE>1672</deathDE>
+<birthPlace />
+<deathPlace />
+<professionOrOccupation>
+<XML_Serializer_Tag>Künstler</XML_Serializer_Tag>
+<XML_Serializer_Tag>Maler</XML_Serializer_Tag>
+<XML_Serializer_Tag>Kupferstecher</XML_Serializer_Tag>
+</professionOrOccupation>
+<artworks />
+<dbpResource>http://dbpedia.org/resource/Adriaen_van_de_Velde</dbpResource>
+<abstract>Adriaan van de Velde (* 1636 in Amsterdam; † 1672 ebenda) war ein holländischer Maler und Radierer.</abstract>
+<wikilink>http://en.wikipedia.org/wiki/Adriaen_van_de_Velde?oldid=606678814</wikilink>
+</Person>

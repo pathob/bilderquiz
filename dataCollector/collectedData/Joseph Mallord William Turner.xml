@@ -1,0 +1,200 @@
+<Person>
+<name>Joseph Mallord William Turner</name>
+<variantName>
+<XML_Serializer_Tag>William Turner</XML_Serializer_Tag>
+<XML_Serializer_Tag>J. M. W. Turner</XML_Serializer_Tag>
+<XML_Serializer_Tag>Joseph M. W. Turner</XML_Serializer_Tag>
+<XML_Serializer_Tag>Joseph Mallard William Turner</XML_Serializer_Tag>
+<XML_Serializer_Tag>James Mallord William Turner</XML_Serializer_Tag>
+<XML_Serializer_Tag>Joseph Turner</XML_Serializer_Tag>
+<XML_Serializer_Tag>Joseph M. Turner</XML_Serializer_Tag>
+<XML_Serializer_Tag>Joseph Mallard William Turner</XML_Serializer_Tag>
+<XML_Serializer_Tag>Josef Mallord William Turner</XML_Serializer_Tag>
+<XML_Serializer_Tag>Joseph Mallord Turner</XML_Serializer_Tag>
+<XML_Serializer_Tag>James Mallord Turner</XML_Serializer_Tag>
+</variantName>
+<thumbnail>https://commons.wikimedia.org/wiki/Special:FilePath/Turner_selfportrait.jpg?width=270</thumbnail>
+<birthEN>April 23, 1775</birthEN>
+<birthDE>23. April 1775</birthDE>
+<deathEN>December 19, 1851</deathEN>
+<deathDE>19. Dezember 1851</deathDE>
+<birthPlace>
+<XML_Serializer_Tag>London</XML_Serializer_Tag>
+</birthPlace>
+<deathPlace>
+<XML_Serializer_Tag>Chelsea</XML_Serializer_Tag>
+</deathPlace>
+<professionOrOccupation>
+<XML_Serializer_Tag>Künstler</XML_Serializer_Tag>
+<XML_Serializer_Tag>Maler</XML_Serializer_Tag>
+<XML_Serializer_Tag>Radierer</XML_Serializer_Tag>
+</professionOrOccupation>
+<artworks>
+<XML_Serializer_Tag>
+<painting>
+<type>uri</type>
+<value>http://dbpedia.org/resource/The_Fighting_Temeraire</value>
+</painting>
+<thumbnail>
+<type>uri</type>
+<value>http://en.wikipedia.org/wiki/Special:FilePath/Turner,_J._M._W._-_The_Fighting_Téméraire_tugged_to_her_last_Berth_to_be_broken.jpg?width=300</value>
+</thumbnail>
+<name>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>The Fighting Temeraire tugged to her last Berth to be broken up, 1838</value>
+</name>
+<year>
+<type>typed-literal</type>
+<datatype>http://www.w3.org/2001/XMLSchema#integer</datatype>
+<value>1839</value>
+</year>
+<abstract>
+<type>literal</type>
+<xml:lang>de</xml:lang>
+<value>The Fighting Temeraire (vollständiger Titel: The Fighting Temeraire tugged to her last Berth to be broken up, 1838.) ist ein Ölgemälde des englischen Malers J. M. William Turner aus dem Jahr 1839.Es zeigt, wie das seinerzeit 40 Jahre alte Linienschiff zweiter Klasse HMS Temeraire von einem schon mit Dampf betriebenen kleinen Schlepper zu seinem letzten Liegeplatz in London gebracht wird, um abgewrackt zu werden. 33 Jahre zuvor hatte das Schiff eine wichtige Rolle in der Schlacht von Trafalgar gespielt, indem es der bedrängten HMS Victory unter dem Kommando von Horatio Nelson zu Hilfe kam und somit zum Sieg der britischen Flotte beitrug.Das Gemälde hängt heute in der National Gallery in London. Turner vermachte es 1851 Großbritannien. 2005 wurde es in einer BBC-Umfrage zum Greatest Painting in Britain gewählt.</value>
+</abstract>
+<wikilink>
+<type>uri</type>
+<value>http://en.wikipedia.org/wiki/The_Fighting_Temeraire?oldid=592787227</value>
+</wikilink>
+</XML_Serializer_Tag>
+<XML_Serializer_Tag>
+<painting>
+<type>uri</type>
+<value>http://dbpedia.org/resource/Sunrise_with_Sea_Monsters</value>
+</painting>
+<thumbnail>
+<type>uri</type>
+<value>http://en.wikipedia.org/wiki/Special:FilePath/JMWTurner_Sunrise_with_Sea_Monsters.jpg?width=300</value>
+</thumbnail>
+<name>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>Sunrise with Sea Monsters</value>
+</name>
+<year>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>ca. 1845</value>
+</year>
+<abstract>
+<type>literal</type>
+<xml:lang>de</xml:lang>
+<value>Sunrise with Sea Monsters (Sonnenaufgang mit Seeungeheuern) ist ein 1845 gemaltes Ölgemälde des englischen Malers William Turner. Das Bild entstand in der Spätphase Turners, und erzielt seine Wirkung durch die Farben, während sich die Motive fast vollkommen in Abstraktion auflösen. Turner greift mit diesem Bild wieder eines der phantastischen Sujets auf, die ihn unregelmäßig durch seine gesamte Karriere begleiteten. Das 45x38 cm große Gemälde befindet sich heute im Besitz der Tate Gallery in London, und hängt derzeit im Tate Britain-Museum.Der untere Teil des Bildes zeigt morastiges, dunkles, vermutlich kaltes Meer. Im oberen Teil befindet sich ein gelb-goldener Himmel vor einem Sonnenaufgang. In der Mitte lauern die titelgebenden Seeungeheuer. Die Ungeheuer sind dabei kaum mehr als Körper zu erkennen, sondern als sich auflösende Partikel, mehr Bewegung als Körper. Durch die Farbgebung erweckt das ganze Bild den Eindruck des Fließens und der Bewegung, der durch Titel und Motivwahl bereits etabliert wurde.Der Bildtitel lenkt bereits die Betrachtung des Bildes. Auf der Suche nach den Seeungeheuern erkennt der Betrachter zwei Augen. Andere Motive in diesem Bereich könnten zwei Mäuler zeigen, oder einen Fischkopf im Halbprofil. Es ist aber auch möglich das in Auflösung begriffene Motiv als zwei Augen zu einem Maul zu interpretieren, ebenso wie es auch eine reine Wellenformation sein kann.Das Bild entstand im englischen Küstenort Margate.</value>
+</abstract>
+<wikilink>
+<type>uri</type>
+<value>http://en.wikipedia.org/wiki/Sunrise_with_Sea_Monsters?oldid=599683792</value>
+</wikilink>
+</XML_Serializer_Tag>
+<XML_Serializer_Tag>
+<painting>
+<type>uri</type>
+<value>http://dbpedia.org/resource/Modern_Rome_%E2%80%93_Campo_Vaccino</value>
+</painting>
+<thumbnail>
+<type>uri</type>
+<value>http://commons.wikimedia.org/wiki/Special:FilePath/JMW_Turner_-_Modern_Rome_-_Campo_Vacino.jpg?width=300</value>
+</thumbnail>
+<name>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>Modern Rome – Campo Vaccino</value>
+</name>
+<year>
+<type>typed-literal</type>
+<datatype>http://www.w3.org/2001/XMLSchema#integer</datatype>
+<value>1839</value>
+</year>
+<wikilink>
+<type>uri</type>
+<value>http://en.wikipedia.org/wiki/Modern_Rome_–_Campo_Vaccino?oldid=590150851</value>
+</wikilink>
+</XML_Serializer_Tag>
+<XML_Serializer_Tag>
+<painting>
+<type>uri</type>
+<value>http://dbpedia.org/resource/The_Fountain_of_Indolence</value>
+</painting>
+<thumbnail>
+<type>uri</type>
+<value>http://commons.wikimedia.org/wiki/Special:FilePath/Fountain_of_Indolence_by_J._M._W._Turner.jpg?width=300</value>
+</thumbnail>
+<name>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>The Fountain of Indolence</value>
+</name>
+<year>
+<type>typed-literal</type>
+<datatype>http://www.w3.org/2001/XMLSchema#integer</datatype>
+<value>1834</value>
+</year>
+<wikilink>
+<type>uri</type>
+<value>http://en.wikipedia.org/wiki/The_Fountain_of_Indolence?oldid=594475443</value>
+</wikilink>
+</XML_Serializer_Tag>
+<XML_Serializer_Tag>
+<painting>
+<type>uri</type>
+<value>http://dbpedia.org/resource/The_Beacon_Light</value>
+</painting>
+<thumbnail>
+<type>uri</type>
+<value>http://commons.wikimedia.org/wiki/Special:FilePath/J.M.W._Turner_-_The_Beacon_Light.jpg?width=300</value>
+</thumbnail>
+<name>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>The Beacon Light</value>
+</name>
+<wikilink>
+<type>uri</type>
+<value>http://en.wikipedia.org/wiki/The_Beacon_Light?oldid=594875067</value>
+</wikilink>
+</XML_Serializer_Tag>
+<XML_Serializer_Tag>
+<painting>
+<type>uri</type>
+<value>http://dbpedia.org/resource/Chichester_Canal_(painting)</value>
+</painting>
+<thumbnail>
+<type>uri</type>
+<value>http://commons.wikimedia.org/wiki/Special:FilePath/Chichester_Canal_(1828).jpg?width=300</value>
+</thumbnail>
+<name>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>Chichester Canal</value>
+</name>
+<wikilink>
+<type>uri</type>
+<value>http://en.wikipedia.org/wiki/Chichester_Canal_(painting)?oldid=581479553</value>
+</wikilink>
+</XML_Serializer_Tag>
+<XML_Serializer_Tag>
+<painting>
+<type>uri</type>
+<value>http://dbpedia.org/resource/The_Fifth_Plague_of_Egypt</value>
+</painting>
+<thumbnail>
+<type>uri</type>
+<value>http://commons.wikimedia.org/wiki/Special:FilePath/Joseph_Mallord_William_Turner_-_The_Fifth_Plague_of_Egypt_-_Google_Art_Project.jpg?width=300</value>
+</thumbnail>
+<name>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>The Fifth Plague of Egypt</value>
+</name>
+<wikilink>
+<type>uri</type>
+<value>http://en.wikipedia.org/wiki/The_Fifth_Plague_of_Egypt?oldid=542160933</value>
+</wikilink>
+</XML_Serializer_Tag>
+</artworks>
+<dbpResource>http://dbpedia.org/resource/J._M._W._Turner</dbpResource>
+<abstract>Joseph Mallord William Turner RA (* 23. April 1775 in London; † 19. Dezember 1851 in Chelsea, London) war ein britischer Maler und führender Vertreter der Romantik; er gehört zu den größten englischen Künstlern.Trotz seiner schnellen Arbeitsweise schuf er unverwechselbare Werke. Hauptquelle seiner Inspiration waren Schiffe und Wasser, aber auch dramatische Naturszenen. Als er mit 76 Jahren starb, hinterließ er dem englischen Staat mehr als 20.000 Werke. Turner gilt als Vorläufer des Impressionismus, denn seine Werke regten verschiedene Künstler dieser Stilrichtung an.</abstract>
+<wikilink>http://en.wikipedia.org/wiki/J._M._W._Turner?oldid=606306199</wikilink>
+</Person>

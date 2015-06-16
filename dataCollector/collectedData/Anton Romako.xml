@@ -1,0 +1,23 @@
+<Person>
+<name>Anton Romako</name>
+<variantName />
+<thumbnail>https://de.wikipedia.org/wiki/Special:FilePath/Anton_Romako_r775086b.jpg?width=270</thumbnail>
+<birthEN>October 20, 1834</birthEN>
+<birthDE>20. Oktober 1834</birthDE>
+<deathEN>March 8, 1889</deathEN>
+<deathDE>8. März 1889</deathDE>
+<birthPlace>
+<XML_Serializer_Tag>Atzgersdorf</XML_Serializer_Tag>
+</birthPlace>
+<deathPlace>
+<XML_Serializer_Tag>Döbling</XML_Serializer_Tag>
+</deathPlace>
+<professionOrOccupation>
+<XML_Serializer_Tag>Künstler</XML_Serializer_Tag>
+<XML_Serializer_Tag>Maler</XML_Serializer_Tag>
+</professionOrOccupation>
+<artworks />
+<dbpResource>http://dbpedia.org/resource/Anton_Romako</dbpResource>
+<abstract>Anton Romako (* 20. Oktober 1832 in Atzgersdorf; † 8. März 1889 in Wien) war ein österreichischer Maler.</abstract>
+<wikilink>http://en.wikipedia.org/wiki/Anton_Romako?oldid=567305332</wikilink>
+</Person>

@@ -1,0 +1,21 @@
+<Person>
+<name>Johann Friedrich Dryander</name>
+<variantName />
+<thumbnail>https://commons.wikimedia.org/wiki/Special:FilePath/Dominique_Joseph_Garat.JPG?width=270</thumbnail>
+<birthEN>April 26, 1756</birthEN>
+<birthDE>26. April 1756</birthDE>
+<deathEN>March 29, 1812</deathEN>
+<deathDE>29. März 1812</deathDE>
+<birthPlace>
+<XML_Serializer_Tag>St. Johann</XML_Serializer_Tag>
+</birthPlace>
+<deathPlace />
+<professionOrOccupation>
+<XML_Serializer_Tag>Künstler</XML_Serializer_Tag>
+<XML_Serializer_Tag>Maler</XML_Serializer_Tag>
+</professionOrOccupation>
+<artworks />
+<dbpResource>http://dbpedia.org/resource/Johann_Friedrich_Dryander</dbpResource>
+<abstract>Johann Friedrich Dryander (* 23. April 1756 in St. Johann, jetzt Saarbrücken; † 12. März 1812 ebenda) war ein deutscher Maler.</abstract>
+<wikilink>http://en.wikipedia.org/wiki/Johann_Friedrich_Dryander?oldid=599813035</wikilink>
+</Person>

@@ -1,0 +1,21 @@
+<Person>
+<name>Adolf Schreyer</name>
+<variantName>
+<XML_Serializer_Tag>Adolph Schrey</XML_Serializer_Tag>
+<XML_Serializer_Tag>Christian Adolf Schreyer</XML_Serializer_Tag>
+</variantName>
+<thumbnail>https://commons.wikimedia.org/wiki/Special:FilePath/Adolf_Schreyer_-_Arab_Horsemen_.jpg?width=270</thumbnail>
+<birthEN>May 9, 1828</birthEN>
+<birthDE>9. Mai 1828</birthDE>
+<deathEN>July 29, 1899</deathEN>
+<deathDE>29. Juli 1899</deathDE>
+<birthPlace />
+<deathPlace />
+<professionOrOccupation>
+<XML_Serializer_Tag>Maler</XML_Serializer_Tag>
+</professionOrOccupation>
+<artworks />
+<dbpResource>http://dbpedia.org/resource/Adolf_Schreyer</dbpResource>
+<abstract>Christian Adolf Schreyer (* 9. Juli 1828 in Frankfurt am Main; † 29. Juli 1899 in Kronberg im Taunus) war ein deutscher Maler.</abstract>
+<wikilink>http://en.wikipedia.org/wiki/Adolf_Schreyer?oldid=589586529</wikilink>
+</Person>

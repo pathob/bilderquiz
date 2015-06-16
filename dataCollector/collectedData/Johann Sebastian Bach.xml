@@ -1,0 +1,27 @@
+<Person>
+<name>Johann Sebastian Bach</name>
+<variantName>
+<XML_Serializer_Tag>Johann Samuel Bach</XML_Serializer_Tag>
+<XML_Serializer_Tag>, der Jüngere</XML_Serializer_Tag>
+</variantName>
+<thumbnail>https://commons.wikimedia.org/wiki/Special:FilePath/Johann_Sebastian_Bach_-_Badende_Hirten.jpg?width=270</thumbnail>
+<birthEN>September 26, 1748</birthEN>
+<birthDE>26. September 1748</birthDE>
+<deathEN>September 11, 1778</deathEN>
+<deathDE>11. September 1778</deathDE>
+<birthPlace>
+<XML_Serializer_Tag>Berlin</XML_Serializer_Tag>
+</birthPlace>
+<deathPlace>
+<XML_Serializer_Tag>Rom</XML_Serializer_Tag>
+</deathPlace>
+<professionOrOccupation>
+<XML_Serializer_Tag>Künstler</XML_Serializer_Tag>
+<XML_Serializer_Tag>Zeichner</XML_Serializer_Tag>
+<XML_Serializer_Tag>Maler</XML_Serializer_Tag>
+</professionOrOccupation>
+<artworks />
+<dbpResource>http://dbpedia.org/resource/Johann_Sebastian_Bach</dbpResource>
+<abstract>Johann Sebastian Bach (* 21. Märzjul./ 31. März 1685greg. in Eisenach; † 28. Juli 1750 in Leipzig) war ein deutscher Komponist sowie Orgel- und Klaviervirtuose des Barock. Er gilt heute als einer der bekanntesten und bedeutendsten Musiker, vor allem für Berufsmusiker ist er oft der größte Komponist der Geschichte. Seine Werke beeinflussten nachfolgende Komponistengenerationen und inspirierten Musikschaffende zu zahllosen Bearbeitungen.Zu Lebzeiten wurde Bach als Virtuose, Organist und Orgelinspektor hoch geschätzt, allerdings waren seine Kompositionen nur einem relativ kleinen Kreis von Musikkennern bekannt. Nach Bachs Tod gerieten seine Werke jahrzehntelang in Vergessenheit und wurden kaum noch öffentlich aufgeführt. Nachdem die Komponisten der Wiener Klassik sich mit Teilen von Bachs Werk auseinandergesetzt hatten, begann mit der Wiederaufführung der Matthäus-Passion unter Leitung von Felix Mendelssohn Bartholdy im Jahre 1829 die Bach-Renaissance in der breiten Öffentlichkeit. Seit der Mitte des 19. Jahrhunderts gehören seine Werke weltweit zum festen Repertoire der klassischen Musik.</abstract>
+<wikilink>http://en.wikipedia.org/wiki/Johann_Sebastian_Bach?oldid=606781600</wikilink>
+</Person>

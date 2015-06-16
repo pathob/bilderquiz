@@ -1,0 +1,67 @@
+<Person>
+<name>Diego Rivera</name>
+<variantName />
+<thumbnail>https://commons.wikimedia.org/wiki/Special:FilePath/Diego_Rivera_1932.jpg?width=270</thumbnail>
+<birthEN>December 8, 1886</birthEN>
+<birthDE>8. Dezember 1886</birthDE>
+<deathEN>November 24, 1957</deathEN>
+<deathDE>24. November 1957</deathDE>
+<birthPlace>
+<XML_Serializer_Tag>Guanajuato</XML_Serializer_Tag>
+</birthPlace>
+<deathPlace>
+<XML_Serializer_Tag>Mexiko (Stadt)</XML_Serializer_Tag>
+</deathPlace>
+<professionOrOccupation>
+<XML_Serializer_Tag>Künstler</XML_Serializer_Tag>
+<XML_Serializer_Tag>Maler</XML_Serializer_Tag>
+</professionOrOccupation>
+<artworks>
+<XML_Serializer_Tag>
+<painting>
+<type>uri</type>
+<value>http://dbpedia.org/resource/Man_at_the_Crossroads</value>
+</painting>
+<thumbnail>
+<type>uri</type>
+<value>http://commons.wikimedia.org/wiki/Special:FilePath/Libro_Los_Viejos_Abuelos_Foto_68.png?width=300</value>
+</thumbnail>
+<name>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>Man at the Crossroads</value>
+</name>
+<year>
+<type>typed-literal</type>
+<datatype>http://www.w3.org/2001/XMLSchema#integer</datatype>
+<value>1934</value>
+</year>
+<wikilink>
+<type>uri</type>
+<value>http://en.wikipedia.org/wiki/Man_at_the_Crossroads?oldid=594195499</value>
+</wikilink>
+</XML_Serializer_Tag>
+<XML_Serializer_Tag>
+<painting>
+<type>uri</type>
+<value>http://dbpedia.org/resource/Sue%C3%B1o_de_una_Tarde_Dominical_en_la_Alameda_Central</value>
+</painting>
+<thumbnail>
+<type>uri</type>
+<value>http://commons.wikimedia.org/wiki/Special:FilePath/The_Kid_-_Diego_Rivera.jpg?width=300</value>
+</thumbnail>
+<name>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>Sueño de una tarde dominical en la Alameda Central (Dream of a Sunday Afternoon in the Alameda Central)</value>
+</name>
+<wikilink>
+<type>uri</type>
+<value>http://en.wikipedia.org/wiki/Sueño_de_una_Tarde_Dominical_en_la_Alameda_Central?oldid=578754267</value>
+</wikilink>
+</XML_Serializer_Tag>
+</artworks>
+<dbpResource>http://dbpedia.org/resource/Diego_Rivera</dbpResource>
+<abstract>Diego María de la Concepción Juan Nepomuceno Estanislao de la Rivera y Barrientos Acosta y Rodríguez (* 8. Dezember oder 13. Dezember 1886 in Guanajuato; † 24. November 1957 in Mexiko-Stadt) war ein mexikanischer Maler. Er gilt neben David Alfaro Siqueiros und José Clemente Orozco als bedeutendster Maler der Moderne in Mexiko. Gemeinsam wurden sie als Los Tres Grandes (Die großen Drei) bezeichnet.Von 1907 bis 1921 arbeitete Diego Rivera in Europa, zu Beginn und Ende der 1930er-Jahre in den Vereinigten Staaten. In seinen Tafelbildern adaptierte Rivera in schneller Folge viele verschiedene Stilrichtungen und beschäftigte sich längere Zeit mit dem Kubismus. Während seiner Zeit in Europa stand er in Kontakt mit führenden Vertretern der Modernen Kunst wie Picasso, Braque und Gris. Nach seiner Rückkehr nach Mexiko arbeitete Diego Rivera vor allem an seinen großen Wandbildprojekten, die er etwa im Palacio Nacional, dem Palacio de Bellas Artes, dem Secretaría de Educación Pública und in verschiedenen Institutionen in den Vereinigten Staaten malte. Diese von ihm als Beitrag zur Volksbildung verstandenen Murales trugen einen Großteil zur Bekanntheit und zum Erfolg Riveras bei. Hinter ihnen traten die weiteren Facetten seines Gesamtwerkes zurück. Die genaue Zahl seiner Tafelbilder ist nicht bekannt, es werden immer noch bisher nicht bekannte Ölgemälde Riveras gefunden. Viele von ihnen waren Porträts und Selbstporträts, eine große Zahl zeigte auch mexikanische Motive. Besonders letztere sowie Variationen seiner Muralesmotive waren bei amerikanischen Touristen beliebt. Darüber hinaus fertigte Rivera aber auch Zeichnungen und Illustrationen an und entwarf für eine Theaterproduktion Kostüme und Bühnenbild. Diese Aspekte seines Gesamtwerkes wurden in der Literatur zu Rivera bisher noch nicht ausführlich behandelt.Rivera trat 1922 der Kommunistischen Partei Mexikos bei und gehörte eine Zeit lang deren Exekutivkomitee an. Er reiste 1927 anlässlich des Jubiläums der Oktoberrevolution in die Sowjetunion und wollte dort zur künstlerischen Entwicklung beitragen; wegen seiner Kritik an der stalinistischen Politik wurde ihm jedoch die Rückkehr nach Mexiko nahegelegt. Aufgrund seiner kritischen Position zu Josef Stalin und den von Rivera angenommenen Regierungsaufträgen schloss ihn die Kommunistische Partei Mexikos 1929 aus, akzeptierte aber 1954 eines seiner Gesuche um Wiederaufnahme. In den 1930er Jahren wandte sich Rivera den Ideen des Trotzkismus zu. Er setzte sich dafür ein, dass Leo Trotzki in Mexiko Exil erhielt, und beherbergte ihn kurzzeitig in seinem Haus. Nach politischen und persönlichen Auseinandersetzungen mit Trotzki brach der mexikanische Künstler 1939 die Verbindung ab. Die politischen Überzeugungen Diego Riveras spiegelten sich auch in seinen Werken wider, in denen er kommunistische Ideen propagierte und immer wieder führende Persönlichkeiten des Sozialismus und Kommunismus verewigte. In Zusammenhang mit seinen politischen Aktivitäten publizierte Rivera auch Artikel und war an der Herausgabe linker Zeitschriften beteiligt. Rivera heiratete 1929 die Künstlerin Frida Kahlo, die seine politischen Überzeugungen teilte.</abstract>
+<wikilink>http://en.wikipedia.org/wiki/Diego_Rivera?oldid=606557684</wikilink>
+</Person>

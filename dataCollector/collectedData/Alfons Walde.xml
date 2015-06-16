@@ -1,0 +1,23 @@
+<Person>
+<name>Alfons Walde</name>
+<variantName />
+<thumbnail>https://commons.wikimedia.org/wiki/Special:FilePath/Kitzbuehel-Walde-Gedenkstaette.JPG?width=270</thumbnail>
+<birthEN>February 8, 1891</birthEN>
+<birthDE>8. Februar 1891</birthDE>
+<deathEN>December 11, 1958</deathEN>
+<deathDE>11. Dezember 1958</deathDE>
+<birthPlace>
+<XML_Serializer_Tag>Oberndorf in Tirol</XML_Serializer_Tag>
+</birthPlace>
+<deathPlace>
+<XML_Serializer_Tag>Kitzbühel</XML_Serializer_Tag>
+</deathPlace>
+<professionOrOccupation>
+<XML_Serializer_Tag>Künstler</XML_Serializer_Tag>
+<XML_Serializer_Tag>Maler</XML_Serializer_Tag>
+</professionOrOccupation>
+<artworks />
+<dbpResource>http://dbpedia.org/resource/Alfons_Walde</dbpResource>
+<abstract>Alfons Walde (* 8. Februar 1891 in Oberndorf (damals St. Johann in Tirol); † 11. Dezember 1958 in Kitzbühel) war ein österreichischer Maler und Architekt.Beeinflusst vom Secessionismus, schuf er Stillleben, Landschaftsbilder und Szenen aus dem bäuerlichen Leben. Alfons Walde wurde vor allem durch die 1920 bis 1938 entstandenen Plakate mit Winterlandschaften und Wintersportmotiven international bekannt. Seine Bilder prägten Tirol als Wintersportland.</abstract>
+<wikilink>http://en.wikipedia.org/wiki/Alfons_Walde?oldid=567116655</wikilink>
+</Person>

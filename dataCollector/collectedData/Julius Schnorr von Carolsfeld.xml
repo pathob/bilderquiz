@@ -1,0 +1,37 @@
+<Person>
+<name>Julius Schnorr von Carolsfeld</name>
+<variantName>
+<XML_Serializer_Tag>Julius Schnorr von Carolsfeld</XML_Serializer_Tag>
+<XML_Serializer_Tag>Julius Veit Hans Schnorr von Carolsfeld</XML_Serializer_Tag>
+<XML_Serializer_Tag>Julius von Schnorr</XML_Serializer_Tag>
+<XML_Serializer_Tag>Julius Schnorr</XML_Serializer_Tag>
+<XML_Serializer_Tag>Julius Šnorr fon Karol&apos;sfeld</XML_Serializer_Tag>
+<XML_Serializer_Tag>Julius Šnorr fon Karol&apos;sfel&apos;d</XML_Serializer_Tag>
+<XML_Serializer_Tag>Julius V. Schnorr von Carolsfeld</XML_Serializer_Tag>
+<XML_Serializer_Tag>Julius Schnorr von Karolsfeld</XML_Serializer_Tag>
+<XML_Serializer_Tag>Yūlīyūs Šnūr fūn Kārūlzfīld</XML_Serializer_Tag>
+</variantName>
+<thumbnail>https://commons.wikimedia.org/wiki/Special:FilePath/Schnorr_Buerkner.jpg?width=270</thumbnail>
+<birthEN>March 26, 1794</birthEN>
+<birthDE>26. März 1794</birthDE>
+<deathEN>May 24, 1872</deathEN>
+<deathDE>24. Mai 1872</deathDE>
+<birthPlace>
+<XML_Serializer_Tag>Leipzig</XML_Serializer_Tag>
+</birthPlace>
+<deathPlace>
+<XML_Serializer_Tag>Dresden</XML_Serializer_Tag>
+</deathPlace>
+<professionOrOccupation>
+<XML_Serializer_Tag>Künstler</XML_Serializer_Tag>
+<XML_Serializer_Tag>Maler</XML_Serializer_Tag>
+<XML_Serializer_Tag>Zeichner</XML_Serializer_Tag>
+<XML_Serializer_Tag>Museumsdirektor</XML_Serializer_Tag>
+<XML_Serializer_Tag>Direktor</XML_Serializer_Tag>
+<XML_Serializer_Tag>Bibelillustrator</XML_Serializer_Tag>
+</professionOrOccupation>
+<artworks />
+<dbpResource>http://dbpedia.org/resource/Julius_Schnorr_von_Carolsfeld</dbpResource>
+<abstract>Julius Veit Hans Schnorr von Carolsfeld (* 26. März 1794 in Leipzig; † 24. Mai 1872 in Dresden) war ein Maler der deutschen Romantik. Neben Friedrich Overbeck ist er der bekannteste Maler der Nazarenischen Kunst.</abstract>
+<wikilink>http://en.wikipedia.org/wiki/Julius_Schnorr_von_Carolsfeld?oldid=600520885</wikilink>
+</Person>

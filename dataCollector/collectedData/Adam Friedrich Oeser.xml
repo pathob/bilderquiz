@@ -1,0 +1,31 @@
+<Person>
+<name>Adam Friedrich Oeser</name>
+<variantName>
+<XML_Serializer_Tag>Adam F. Oeser</XML_Serializer_Tag>
+<XML_Serializer_Tag>A. F. Oeser</XML_Serializer_Tag>
+<XML_Serializer_Tag>Adam Friedrich Öser</XML_Serializer_Tag>
+<XML_Serializer_Tag>... Oeser</XML_Serializer_Tag>
+</variantName>
+<thumbnail>https://commons.wikimedia.org/wiki/Special:FilePath/Adam_Friedrich_Oeser_(Lauer).jpg?width=270</thumbnail>
+<birthEN>February 17, 1717</birthEN>
+<birthDE>17. Februar 1717</birthDE>
+<deathEN>March 18, 1799</deathEN>
+<deathDE>18. März 1799</deathDE>
+<birthPlace>
+<XML_Serializer_Tag>Preßburg</XML_Serializer_Tag>
+</birthPlace>
+<deathPlace>
+<XML_Serializer_Tag>Leipzig</XML_Serializer_Tag>
+</deathPlace>
+<professionOrOccupation>
+<XML_Serializer_Tag>Maler</XML_Serializer_Tag>
+<XML_Serializer_Tag>Bildhauer</XML_Serializer_Tag>
+<XML_Serializer_Tag>Radierer</XML_Serializer_Tag>
+<XML_Serializer_Tag>Illustrator</XML_Serializer_Tag>
+<XML_Serializer_Tag>Dekorateur</XML_Serializer_Tag>
+</professionOrOccupation>
+<artworks />
+<dbpResource>http://dbpedia.org/resource/Adam_Friedrich_Oeser</dbpResource>
+<abstract>Adam Friedrich Oeser (* 17. Februar 1717 in Pressburg; † 18. März 1799 in Leipzig) war ein deutscher Maler, Bildhauer und Buchillustrator, der vor allem in Dresden und Leipzig wirkte.</abstract>
+<wikilink>http://en.wikipedia.org/wiki/Adam_Friedrich_Oeser?oldid=577752063</wikilink>
+</Person>

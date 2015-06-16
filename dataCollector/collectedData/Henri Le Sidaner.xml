@@ -1,0 +1,25 @@
+<Person>
+<name>Henri Le Sidaner</name>
+<variantName>
+<XML_Serializer_Tag>Henri le Sidaner</XML_Serializer_Tag>
+<XML_Serializer_Tag>Henri Eugène Augustin Marie Le Sidaner</XML_Serializer_Tag>
+<XML_Serializer_Tag>Henri LeSidaner</XML_Serializer_Tag>
+</variantName>
+<thumbnail>https://commons.wikimedia.org/wiki/Special:FilePath/Le_jardin_blanc_au_crépuscule.jpg?width=270</thumbnail>
+<birthEN>August 7, 1862</birthEN>
+<birthDE>7. August 1862</birthDE>
+<deathEN>July 16, 1939</deathEN>
+<deathDE>16. Juli 1939</deathDE>
+<birthPlace>
+<XML_Serializer_Tag>Mauritius</XML_Serializer_Tag>
+</birthPlace>
+<deathPlace />
+<professionOrOccupation>
+<XML_Serializer_Tag>Künstler</XML_Serializer_Tag>
+<XML_Serializer_Tag>Maler</XML_Serializer_Tag>
+</professionOrOccupation>
+<artworks />
+<dbpResource>http://dbpedia.org/resource/Henri_Le_Sidaner</dbpResource>
+<abstract>Henri Le Sidaner (* 7. August 1862 in Port Louis, Mauritius; † 16. Juli 1939 in Paris) war ein französischer Maler.</abstract>
+<wikilink>http://en.wikipedia.org/wiki/Henri_Le_Sidaner?oldid=586017803</wikilink>
+</Person>

@@ -1,0 +1,91 @@
+<Person>
+<name>Paolo Uccello</name>
+<variantName>
+<XML_Serializer_Tag>Uccello</XML_Serializer_Tag>
+<XML_Serializer_Tag>Paolo, Uccello</XML_Serializer_Tag>
+<XML_Serializer_Tag>Paolo, di Dono</XML_Serializer_Tag>
+<XML_Serializer_Tag>Paolo di Dono</XML_Serializer_Tag>
+</variantName>
+<thumbnail>https://commons.wikimedia.org/wiki/Special:FilePath/Paolo_Uccello_047b.jpg?width=270</thumbnail>
+<birthEN>1397</birthEN>
+<birthDE>1397</birthDE>
+<deathEN>1475</deathEN>
+<deathDE>1475</deathDE>
+<birthPlace />
+<deathPlace />
+<professionOrOccupation>
+<XML_Serializer_Tag>Maler</XML_Serializer_Tag>
+</professionOrOccupation>
+<artworks>
+<XML_Serializer_Tag>
+<painting>
+<type>uri</type>
+<value>http://dbpedia.org/resource/The_Hunt_in_the_Forest</value>
+</painting>
+<thumbnail>
+<type>uri</type>
+<value>http://commons.wikimedia.org/wiki/Special:FilePath/Hunt_in_the_forest_by_paolo_uccello.jpg?width=300</value>
+</thumbnail>
+<name>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>The Hunt in the Forest</value>
+</name>
+<year>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>c. 1470</value>
+</year>
+<wikilink>
+<type>uri</type>
+<value>http://en.wikipedia.org/wiki/The_Hunt_in_the_Forest?oldid=586695325</value>
+</wikilink>
+</XML_Serializer_Tag>
+<XML_Serializer_Tag>
+<painting>
+<type>uri</type>
+<value>http://dbpedia.org/resource/Saint_George_and_the_Dragon_(Uccello)</value>
+</painting>
+<thumbnail>
+<type>uri</type>
+<value>http://commons.wikimedia.org/wiki/Special:FilePath/Paolo_Uccello_047.jpg?width=300</value>
+</thumbnail>
+<name>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>Saint George and the Dragon</value>
+</name>
+<year>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>c. 1470</value>
+</year>
+<wikilink>
+<type>uri</type>
+<value>http://en.wikipedia.org/wiki/Saint_George_and_the_Dragon_(Uccello)?oldid=590565564</value>
+</wikilink>
+</XML_Serializer_Tag>
+<XML_Serializer_Tag>
+<painting>
+<type>uri</type>
+<value>http://dbpedia.org/resource/The_Battle_of_San_Romano</value>
+</painting>
+<thumbnail>
+<type>uri</type>
+<value>http://commons.wikimedia.org/wiki/Special:FilePath/Paolo_Uccello_035.jpg?width=300</value>
+</thumbnail>
+<name>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>The Battle of San Romano</value>
+</name>
+<wikilink>
+<type>uri</type>
+<value>http://en.wikipedia.org/wiki/The_Battle_of_San_Romano?oldid=604181041</value>
+</wikilink>
+</XML_Serializer_Tag>
+</artworks>
+<dbpResource>http://dbpedia.org/resource/Paolo_Uccello</dbpResource>
+<abstract>Paolo di Dono, besser bekannt als Paolo Uccello, (* 1397 in Florenz; † 10. Dezember 1475 in Florenz) war ein italienischer Maler und Mosaikkünstler. Er hatte in der mächtigen Florentiner Familie der Medici seine Gönner. Uccello gilt als Vater der perspektivischen Malerei.In Werken wie Der Kampf bei San Romano (um 1456) schafft seine Verwendung der Perspektive und des Fluchtpunkts neue Wege der räumlichen Darstellung.Ähnlich bei Die Jagd (um 1460), wo er sich bemüht, die Hunde dreidimensional wirken zu lassen, genau wissend, dass der räumliche Anblick entscheidend für den Eindruck auf den Betrachter ist.</abstract>
+<wikilink>http://en.wikipedia.org/wiki/Paolo_Uccello?oldid=602503296</wikilink>
+</Person>

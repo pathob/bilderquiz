@@ -1,0 +1,40 @@
+<Person>
+<name>Ary Scheffer</name>
+<variantName>
+<XML_Serializer_Tag>August Scheffer</XML_Serializer_Tag>
+</variantName>
+<thumbnail>https://de.wikipedia.org/wiki/Special:FilePath/Ary_Scheffer_(Freya_02-1862_S_12_GKühn_FAde).jpg?width=270</thumbnail>
+<birthEN>February 12, 1795</birthEN>
+<birthDE>12. Februar 1795</birthDE>
+<deathEN>July 17, 1858</deathEN>
+<deathDE>17. Juli 1858</deathDE>
+<birthPlace />
+<deathPlace />
+<professionOrOccupation>
+<XML_Serializer_Tag>Maler</XML_Serializer_Tag>
+</professionOrOccupation>
+<artworks>
+<XML_Serializer_Tag>
+<painting>
+<type>uri</type>
+<value>http://dbpedia.org/resource/Francesca_da_Rimini_and_Paolo_Malatesta_appraised_by_Dante_and_Virgil</value>
+</painting>
+<thumbnail>
+<type>uri</type>
+<value>http://commons.wikimedia.org/wiki/Special:FilePath/1835_Ary_Scheffer_-_The_Ghosts_of_Paolo_and_Francesca_Appear_to_Dante_and_Virgil.jpg?width=300</value>
+</thumbnail>
+<name>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>Francesca da Rimini and Paolo Malatesta appraised by Dante and Virgil</value>
+</name>
+<wikilink>
+<type>uri</type>
+<value>http://en.wikipedia.org/wiki/Francesca_da_Rimini_and_Paolo_Malatesta_appraised_by_Dante_and_Virgil?oldid=599865226</value>
+</wikilink>
+</XML_Serializer_Tag>
+</artworks>
+<dbpResource>http://dbpedia.org/resource/Ary_Scheffer</dbpResource>
+<abstract>Ary Scheffer (* 10. Februar 1795 in Dordrecht, Niederlande; † 15. Juni 1858 in Argenteuil, Dept. Val-d&apos;Oise) war ein französischer Maler niederländischer Herkunft.</abstract>
+<wikilink>http://en.wikipedia.org/wiki/Ary_Scheffer?oldid=606549662</wikilink>
+</Person>

@@ -1,0 +1,22 @@
+<Person>
+<name>Charles Robert Leslie</name>
+<variantName>
+<XML_Serializer_Tag>C. R. Leslie</XML_Serializer_Tag>
+</variantName>
+<thumbnail>https://commons.wikimedia.org/wiki/Special:FilePath/Charles_Robert_Leslie_by_Charles_Robert_Leslie.jpg?width=270</thumbnail>
+<birthEN>1794</birthEN>
+<birthDE>1794</birthDE>
+<deathEN>1859</deathEN>
+<deathDE>1859</deathDE>
+<birthPlace>
+<XML_Serializer_Tag>London</XML_Serializer_Tag>
+</birthPlace>
+<deathPlace />
+<professionOrOccupation>
+<XML_Serializer_Tag>Maler</XML_Serializer_Tag>
+</professionOrOccupation>
+<artworks />
+<dbpResource>http://dbpedia.org/resource/Charles_Robert_Leslie</dbpResource>
+<abstract>Charles Robert Leslie (* 19. Oktober 1794 in London; † 5. Mai 1859) war ein englisch-US-amerikanischer Genremaler.</abstract>
+<wikilink>http://en.wikipedia.org/wiki/Charles_Robert_Leslie?oldid=604457977</wikilink>
+</Person>

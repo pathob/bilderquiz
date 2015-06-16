@@ -1,0 +1,50 @@
+<Person>
+<name>Adam Elsheimer</name>
+<variantName>
+<XML_Serializer_Tag>Adamo Elsheimer</XML_Serializer_Tag>
+</variantName>
+<thumbnail>https://commons.wikimedia.org/wiki/Special:FilePath/Adam_Elsheimer_self_portrait_01.jpg?width=270</thumbnail>
+<birthEN>March 18, 1578</birthEN>
+<birthDE>18. März 1578</birthDE>
+<deathEN>December 11, 1610</deathEN>
+<deathDE>11. Dezember 1610</deathDE>
+<birthPlace>
+<XML_Serializer_Tag>Frankfurt am Main</XML_Serializer_Tag>
+</birthPlace>
+<deathPlace>
+<XML_Serializer_Tag>Rom</XML_Serializer_Tag>
+</deathPlace>
+<professionOrOccupation>
+<XML_Serializer_Tag>Künstler</XML_Serializer_Tag>
+<XML_Serializer_Tag>Maler</XML_Serializer_Tag>
+</professionOrOccupation>
+<artworks>
+<XML_Serializer_Tag>
+<painting>
+<type>uri</type>
+<value>http://dbpedia.org/resource/The_Flight_into_Egypt_(Elsheimer)</value>
+</painting>
+<thumbnail>
+<type>uri</type>
+<value>http://commons.wikimedia.org/wiki/Special:FilePath/Adam_Elsheimer_002.jpg?width=300</value>
+</thumbnail>
+<name>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>The Flight into Egypt</value>
+</name>
+<year>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>c. 1609</value>
+</year>
+<wikilink>
+<type>uri</type>
+<value>http://en.wikipedia.org/wiki/The_Flight_into_Egypt_(Elsheimer)?oldid=586450125</value>
+</wikilink>
+</XML_Serializer_Tag>
+</artworks>
+<dbpResource>http://dbpedia.org/resource/Adam_Elsheimer</dbpResource>
+<abstract>Adam Elsheimer (getauft am 18. März 1578 in Frankfurt am Main; † 11. Dezember 1610 in Rom) war ein bedeutender deutscher Maler des 17. Jahrhunderts.</abstract>
+<wikilink>http://en.wikipedia.org/wiki/Adam_Elsheimer?oldid=602955915</wikilink>
+</Person>

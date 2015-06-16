@@ -1,0 +1,34 @@
+<Person>
+<name>William S. Burroughs</name>
+<variantName>
+<XML_Serializer_Tag>William Lee</XML_Serializer_Tag>
+<XML_Serializer_Tag>William Burroughs</XML_Serializer_Tag>
+<XML_Serializer_Tag>William Seward Burroughs</XML_Serializer_Tag>
+<XML_Serializer_Tag>Willy Lee</XML_Serializer_Tag>
+<XML_Serializer_Tag>Ouiliam Baroouz</XML_Serializer_Tag>
+<XML_Serializer_Tag>W. S. Burroughs</XML_Serializer_Tag>
+<XML_Serializer_Tag>William Seward Burroughs</XML_Serializer_Tag>
+</variantName>
+<thumbnail>https://commons.wikimedia.org/wiki/Special:FilePath/William_S._Burroughs_at_the_Gotham_Book_Mart.jpg?width=270</thumbnail>
+<birthEN>February 5, 1914</birthEN>
+<birthDE>5. Februar 1914</birthDE>
+<deathEN>August 2, 1997</deathEN>
+<deathDE>2. August 1997</deathDE>
+<birthPlace>
+<XML_Serializer_Tag>Saint Louis, Mo.</XML_Serializer_Tag>
+</birthPlace>
+<deathPlace>
+<XML_Serializer_Tag>Lawrence, Kansas, USA</XML_Serializer_Tag>
+</deathPlace>
+<professionOrOccupation>
+<XML_Serializer_Tag>Musiker</XML_Serializer_Tag>
+<XML_Serializer_Tag>Sänger</XML_Serializer_Tag>
+<XML_Serializer_Tag>Maler</XML_Serializer_Tag>
+<XML_Serializer_Tag>Künstler</XML_Serializer_Tag>
+<XML_Serializer_Tag>Schriftsteller</XML_Serializer_Tag>
+</professionOrOccupation>
+<artworks />
+<dbpResource>http://dbpedia.org/resource/William_S._Burroughs</dbpResource>
+<abstract>William Seward Burroughs (* 5. Februar 1914 in St. Louis, Missouri; † 2. August 1997 in Lawrence, Kansas) war ein amerikanischer Schriftsteller, der der Beat Generation zugerechnet wird.</abstract>
+<wikilink>http://en.wikipedia.org/wiki/William_S._Burroughs?oldid=606640858</wikilink>
+</Person>

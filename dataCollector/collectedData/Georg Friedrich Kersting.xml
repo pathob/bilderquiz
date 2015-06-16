@@ -1,0 +1,56 @@
+<Person>
+<name>Georg Friedrich Kersting</name>
+<variantName>
+<XML_Serializer_Tag>Georg F. Kersting</XML_Serializer_Tag>
+<XML_Serializer_Tag>Georg Kersting</XML_Serializer_Tag>
+<XML_Serializer_Tag>Friedrich Georg Kersting</XML_Serializer_Tag>
+</variantName>
+<thumbnail>https://commons.wikimedia.org/wiki/Special:FilePath/Kersting_-_Selbstbildnis.jpg?width=270</thumbnail>
+<birthEN>1785</birthEN>
+<birthDE>1785</birthDE>
+<deathEN>1847</deathEN>
+<deathDE>1847</deathDE>
+<birthPlace>
+<XML_Serializer_Tag>Güstrow</XML_Serializer_Tag>
+</birthPlace>
+<deathPlace>
+<XML_Serializer_Tag>Meißen</XML_Serializer_Tag>
+</deathPlace>
+<professionOrOccupation>
+<XML_Serializer_Tag>Maler</XML_Serializer_Tag>
+</professionOrOccupation>
+<artworks>
+<XML_Serializer_Tag>
+<painting>
+<type>uri</type>
+<value>http://dbpedia.org/resource/Caspar_David_Friedrich_in_his_Studio</value>
+</painting>
+<thumbnail>
+<type>uri</type>
+<value>http://commons.wikimedia.org/wiki/Special:FilePath/Georg_Friedrich_Kersting_002.jpg?width=300</value>
+</thumbnail>
+<name>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>Caspar David Friedrich in his Studio</value>
+</name>
+<year>
+<type>typed-literal</type>
+<datatype>http://www.w3.org/2001/XMLSchema#integer</datatype>
+<value>1819</value>
+</year>
+<abstract>
+<type>literal</type>
+<xml:lang>de</xml:lang>
+<value>Mit Caspar David Friedrich in seinem Atelier betitelte der Maler Georg Friedrich Kersting drei Varianten eines Bildes, die zwischen 1811 und 1819 entstanden sind. Alle zeigen den Romantiker Caspar David Friedrich in seinem Atelier.</value>
+</abstract>
+<wikilink>
+<type>uri</type>
+<value>http://en.wikipedia.org/wiki/Caspar_David_Friedrich_in_his_Studio?oldid=589473092</value>
+</wikilink>
+</XML_Serializer_Tag>
+</artworks>
+<dbpResource>http://dbpedia.org/resource/Georg_Friedrich_Kersting</dbpResource>
+<abstract>Georg Friedrich Kersting (* 31. Oktober 1785 in Güstrow; † 1. Juli 1847 in Meißen) war ein deutscher Maler.Kersting war unter anderem mit Caspar David Friedrich befreundet und von diesem beeinflusst.Er gehörte zu dem Kreis der Romantiker und entwickelte sich zu einem der bedeutendsten Vertreter der Interieurmalerei des Biedermeier.</abstract>
+<wikilink>http://en.wikipedia.org/wiki/Georg_Friedrich_Kersting?oldid=579979674</wikilink>
+</Person>

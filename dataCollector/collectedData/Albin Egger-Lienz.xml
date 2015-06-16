@@ -1,0 +1,27 @@
+<Person>
+<name>Albin Egger-Lienz</name>
+<variantName>
+<XML_Serializer_Tag>Albin Egger-Lienz</XML_Serializer_Tag>
+<XML_Serializer_Tag>Albin Egger Lienz</XML_Serializer_Tag>
+<XML_Serializer_Tag>Albino Egger-Lienz</XML_Serializer_Tag>
+</variantName>
+<thumbnail>https://commons.wikimedia.org/wiki/Special:FilePath/Albin_Egger-Lienz_1906.jpg?width=270</thumbnail>
+<birthEN>January 29, 1868</birthEN>
+<birthDE>29. Januar 1868</birthDE>
+<deathEN>November 4, 1926</deathEN>
+<deathDE>4. November 1926</deathDE>
+<birthPlace>
+<XML_Serializer_Tag>Striebach</XML_Serializer_Tag>
+</birthPlace>
+<deathPlace>
+<XML_Serializer_Tag>St. Justina, Bozen</XML_Serializer_Tag>
+</deathPlace>
+<professionOrOccupation>
+<XML_Serializer_Tag>Künstler</XML_Serializer_Tag>
+<XML_Serializer_Tag>Maler</XML_Serializer_Tag>
+</professionOrOccupation>
+<artworks />
+<dbpResource>http://dbpedia.org/resource/Albin_Egger-Lienz</dbpResource>
+<abstract>Albin Egger-Lienz (* 29. Jänner 1868 in Stribach, Gemeinde Dölsach bei Lienz (Osttirol); † 4. November 1926 in St. Justina bei Bozen (Südtirol)) war ein österreichischer Maler.</abstract>
+<wikilink>http://en.wikipedia.org/wiki/Albin_Egger-Lienz?oldid=572740934</wikilink>
+</Person>

@@ -1,0 +1,26 @@
+<Person>
+<name>Serge Poliakoff</name>
+<variantName>
+<XML_Serializer_Tag>Sergej Poljakov</XML_Serializer_Tag>
+<XML_Serializer_Tag>Sergei Poljakow</XML_Serializer_Tag>
+<XML_Serializer_Tag>Serzʹ Polyakof</XML_Serializer_Tag>
+</variantName>
+<thumbnail>https://en.wikipedia.org/wiki/Special:FilePath/Serge_Poliakoff_Composition_grise_et_rouge_1964.jpg?width=270</thumbnail>
+<birthEN>January 8, 1900</birthEN>
+<birthDE>8. Januar 1900</birthDE>
+<deathEN>October 12, 1969</deathEN>
+<deathDE>12. Oktober 1969</deathDE>
+<birthPlace>
+<XML_Serializer_Tag>Moskau</XML_Serializer_Tag>
+</birthPlace>
+<deathPlace>
+<XML_Serializer_Tag>Paris</XML_Serializer_Tag>
+</deathPlace>
+<professionOrOccupation>
+<XML_Serializer_Tag>Maler</XML_Serializer_Tag>
+</professionOrOccupation>
+<artworks />
+<dbpResource>http://dbpedia.org/resource/Serge_Poliakoff</dbpResource>
+<abstract>Serge Poliakoff (russisch Серж Поляко́в) (* 27. Dezember 1899jul./ 8. Januar 1900greg. in Moskau; † 12. Oktober 1969 in Paris) war ein russischer Maler. Er gilt als wichtiger Vertreter der École de Paris.</abstract>
+<wikilink>http://en.wikipedia.org/wiki/Serge_Poliakoff?oldid=584461706</wikilink>
+</Person>

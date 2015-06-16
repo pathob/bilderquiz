@@ -1,0 +1,26 @@
+<Person>
+<name>Hans Leistikow</name>
+<variantName>
+<XML_Serializer_Tag>H. Leistikow</XML_Serializer_Tag>
+</variantName>
+<thumbnail>https://commons.wikimedia.org/wiki/Special:FilePath/Coat_of_arms_of_Frankfurt_(temporarily_in_Weimar_Republic).svg?width=270</thumbnail>
+<birthEN>May 4, 1892</birthEN>
+<birthDE>4. Mai 1892</birthDE>
+<deathEN>March 22, 1962</deathEN>
+<deathDE>22. März 1962</deathDE>
+<birthPlace>
+<XML_Serializer_Tag>Elbing</XML_Serializer_Tag>
+</birthPlace>
+<deathPlace>
+<XML_Serializer_Tag>Frankfurt am Main</XML_Serializer_Tag>
+</deathPlace>
+<professionOrOccupation>
+<XML_Serializer_Tag>Künstler</XML_Serializer_Tag>
+<XML_Serializer_Tag>Maler</XML_Serializer_Tag>
+<XML_Serializer_Tag>Graphiker</XML_Serializer_Tag>
+</professionOrOccupation>
+<artworks />
+<dbpResource>http://dbpedia.org/resource/Hans_Leistikow</dbpResource>
+<abstract>Hans Leistikow (* 29. August 1895 in Metz; † 29. März 1967 in Krautheim (Jagst)) war ein deutscher Offizier, zuletzt Generalmajor im Zweiten Weltkrieg.</abstract>
+<wikilink>http://en.wikipedia.org/wiki/Hans_Leistikow?oldid=579721054</wikilink>
+</Person>

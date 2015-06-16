@@ -1,0 +1,26 @@
+<Person>
+<name>Christian Rohlfs</name>
+<variantName>
+<XML_Serializer_Tag>Christian Friedrich Rohlfs</XML_Serializer_Tag>
+</variantName>
+<thumbnail>https://commons.wikimedia.org/wiki/Special:FilePath/Christian_Rohlfs_Selbstbildnis_mit_Frau.jpg?width=270</thumbnail>
+<birthEN>December 22, 1849</birthEN>
+<birthDE>22. Dezember 1849</birthDE>
+<deathEN>January 8, 1938</deathEN>
+<deathDE>8. Januar 1938</deathDE>
+<birthPlace />
+<deathPlace>
+<XML_Serializer_Tag>Hagen</XML_Serializer_Tag>
+</deathPlace>
+<professionOrOccupation>
+<XML_Serializer_Tag>Künstler</XML_Serializer_Tag>
+<XML_Serializer_Tag>Maler</XML_Serializer_Tag>
+<XML_Serializer_Tag>Graphiker</XML_Serializer_Tag>
+<XML_Serializer_Tag>Holzschneider</XML_Serializer_Tag>
+<XML_Serializer_Tag>Zeichner</XML_Serializer_Tag>
+</professionOrOccupation>
+<artworks />
+<dbpResource>http://dbpedia.org/resource/Christian_Rohlfs</dbpResource>
+<abstract>Christian Rohlfs (* 22. November 1849 in Groß Niendorf, Kreis Segeberg; † 8. Januar 1938 in Hagen) war ein deutscher Maler der Moderne.</abstract>
+<wikilink>http://en.wikipedia.org/wiki/Christian_Rohlfs?oldid=599169519</wikilink>
+</Person>

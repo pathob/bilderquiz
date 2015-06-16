@@ -1,0 +1,24 @@
+<Person>
+<name>Giovanni Battista Casanova</name>
+<variantName>
+<XML_Serializer_Tag>Giovanni Casanova</XML_Serializer_Tag>
+<XML_Serializer_Tag>Johann Casanova</XML_Serializer_Tag>
+<XML_Serializer_Tag>Johannes Casanova</XML_Serializer_Tag>
+<XML_Serializer_Tag>Ioh. Casanova</XML_Serializer_Tag>
+<XML_Serializer_Tag>Giovanni B. Casanova</XML_Serializer_Tag>
+</variantName>
+<thumbnail>https://commons.wikimedia.org/wiki/Special:FilePath/Giovanni_casanova.jpg?width=270</thumbnail>
+<birthEN>November 4, 1730</birthEN>
+<birthDE>4. November 1730</birthDE>
+<deathEN>December 8, 1795</deathEN>
+<deathDE>8. Dezember 1795</deathDE>
+<birthPlace />
+<deathPlace />
+<professionOrOccupation>
+<XML_Serializer_Tag>Maler</XML_Serializer_Tag>
+</professionOrOccupation>
+<artworks />
+<dbpResource>http://dbpedia.org/resource/Giovanni_Battista_Casanova</dbpResource>
+<abstract>Giovanni Battista Casanova (* 2. November 1730 in Venedig; † 8. Dezember 1795 in Dresden) war ein italienischer Maler und Zeichner, der überwiegend in Dresden und Rom lebte und arbeitete.</abstract>
+<wikilink>http://en.wikipedia.org/wiki/Giovanni_Battista_Casanova?oldid=602505413</wikilink>
+</Person>

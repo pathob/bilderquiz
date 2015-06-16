@@ -1,0 +1,49 @@
+<Person>
+<name>Ambrogio Lorenzetti</name>
+<variantName>
+<XML_Serializer_Tag>Ambrogio, Lorenzetti</XML_Serializer_Tag>
+<XML_Serializer_Tag>Ambroise Lorenzetti</XML_Serializer_Tag>
+<XML_Serializer_Tag>Ambroise, Lorenzetti</XML_Serializer_Tag>
+</variantName>
+<thumbnail>https://commons.wikimedia.org/wiki/Special:FilePath/Ambrogio_Lorenzetti_022.jpg?width=270</thumbnail>
+<birthEN>1285</birthEN>
+<birthDE>1285</birthDE>
+<deathEN>1348</deathEN>
+<deathDE>1348</deathDE>
+<birthPlace>
+<XML_Serializer_Tag>Siena</XML_Serializer_Tag>
+</birthPlace>
+<deathPlace />
+<professionOrOccupation>
+<XML_Serializer_Tag>Maler</XML_Serializer_Tag>
+</professionOrOccupation>
+<artworks>
+<XML_Serializer_Tag>
+<painting>
+<type>uri</type>
+<value>http://dbpedia.org/resource/Annunciation_(Ambrogio_Lorenzetti)</value>
+</painting>
+<thumbnail>
+<type>uri</type>
+<value>http://commons.wikimedia.org/wiki/Special:FilePath/Lorenzetti_Ambrogio_annunciation-_1344..jpg?width=300</value>
+</thumbnail>
+<name>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>Annunciation</value>
+</name>
+<year>
+<type>typed-literal</type>
+<datatype>http://www.w3.org/2001/XMLSchema#integer</datatype>
+<value>1344</value>
+</year>
+<wikilink>
+<type>uri</type>
+<value>http://en.wikipedia.org/wiki/Annunciation_(Ambrogio_Lorenzetti)?oldid=586560778</value>
+</wikilink>
+</XML_Serializer_Tag>
+</artworks>
+<dbpResource>http://dbpedia.org/resource/Ambrogio_Lorenzetti</dbpResource>
+<abstract>Ambrogio Lorenzetti (* um 1290 in Siena; † um 1348 ebenda; teils auch Ambruogio Laurati) war ein italienischer Maler. Ambrogio und sein Bruder Pietro Lorenzetti waren wichtige Vertreter der Schule von Siena.Ambrogio malte hauptsächlich in der Zeit von 1317 bis zu seinem Tod Altargemälde und Fresken. Berühmt wurde er für seine allegorische Darstellung der Guten und schlechten Regierung im Palazzo Pubblico, im Rathaus von Siena.Für die europäische Malerei ist Lorenzettis Freskenzyklus Gute und schlechte Regierung ein Schlüsselwerk. Neuer Bildanalyse zufolge ist darauf zu erkennen, dass Homers und Hesiods Werke in Westeuropa bereits vor Petrarca im westlichen Europa bekannt gewesen sein müssen, da Lorenzetti offensichtlich in diesem Werke von bereits existierendem Bildmaterial ausging, wie man das in Homers Schildbeschreibung (Homer: Ilias, 18. Gesang) wie auch in Hesiods Schild des Herakles überprüfen kann. Aber auch aus Werken anderer Autoren wurden bei der Konzeption von Lorenzettis Bildzyklus Gute und schlechte Regierung Bildzitate übernommen, wie beispielsweise von Cicero, Augustinus, Seuse u. a.Sein Fresko&quot;Allegorie der Guten Regierung&quot; im Palazzo Pubblico (Siena) gilt als erste Darstellung einer Sanduhr.</abstract>
+<wikilink>http://en.wikipedia.org/wiki/Ambrogio_Lorenzetti?oldid=602963646</wikilink>
+</Person>

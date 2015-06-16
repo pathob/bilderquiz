@@ -1,0 +1,22 @@
+<Person>
+<name>Markus Raetz</name>
+<variantName>
+<XML_Serializer_Tag>Marcus Raetz</XML_Serializer_Tag>
+</variantName>
+<thumbnail>https://commons.wikimedia.org/wiki/Special:FilePath/Markus_Raetz_Geneve_Oui.jpg?width=270</thumbnail>
+<birthEN>1941</birthEN>
+<birthDE>1941</birthDE>
+<deathEN />
+<deathDE />
+<birthPlace />
+<deathPlace />
+<professionOrOccupation>
+<XML_Serializer_Tag>Künstler</XML_Serializer_Tag>
+<XML_Serializer_Tag>Maler</XML_Serializer_Tag>
+<XML_Serializer_Tag>Photograph</XML_Serializer_Tag>
+</professionOrOccupation>
+<artworks />
+<dbpResource>http://dbpedia.org/resource/Markus_Raetz</dbpResource>
+<abstract>Markus Raetz (* 6. Juni 1941 in Büren an der Aare) ist ein Schweizer Maler, Bildhauer und Fotograf.</abstract>
+<wikilink>http://en.wikipedia.org/wiki/Markus_Raetz?oldid=592284548</wikilink>
+</Person>

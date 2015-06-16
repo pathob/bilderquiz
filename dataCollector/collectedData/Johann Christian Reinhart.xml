@@ -1,0 +1,31 @@
+<Person>
+<name>Johann Christian Reinhart</name>
+<variantName>
+<XML_Serializer_Tag>Johann Christian Reinhardt</XML_Serializer_Tag>
+<XML_Serializer_Tag>Johann C. Reinhardt</XML_Serializer_Tag>
+<XML_Serializer_Tag>Christian Reinhart</XML_Serializer_Tag>
+<XML_Serializer_Tag>Johann C. Reinhart</XML_Serializer_Tag>
+<XML_Serializer_Tag>Charles Reinhart</XML_Serializer_Tag>
+<XML_Serializer_Tag>C. Reinhardt</XML_Serializer_Tag>
+<XML_Serializer_Tag>C. Reinhart</XML_Serializer_Tag>
+</variantName>
+<thumbnail>https://commons.wikimedia.org/wiki/Special:FilePath/José_de_Madrazo_-_JCReinhart_1812.jpg?width=270</thumbnail>
+<birthEN>1761</birthEN>
+<birthDE>1761</birthDE>
+<deathEN>1847</deathEN>
+<deathDE>1847</deathDE>
+<birthPlace>
+<XML_Serializer_Tag>Hof (Saale)</XML_Serializer_Tag>
+</birthPlace>
+<deathPlace>
+<XML_Serializer_Tag>Rom</XML_Serializer_Tag>
+</deathPlace>
+<professionOrOccupation>
+<XML_Serializer_Tag>Maler</XML_Serializer_Tag>
+<XML_Serializer_Tag>Radierer</XML_Serializer_Tag>
+</professionOrOccupation>
+<artworks />
+<dbpResource>http://dbpedia.org/resource/Johann_Christian_Reinhart</dbpResource>
+<abstract>Johann Christian Reinhart (* 24. Januar 1761 in Hof; † 9. Juni 1847 in Rom, ± Cimitero acattolico) war ein deutscher Maler, Zeichner und Radierer. Er galt als Mittelpunkt der deutschen Künstlerkolonie in seiner Wahlheimat Rom und wurde vor allem durch seine heroischen Ideallandschaften bekannt. Er befindet sich mit seinem Werk an der Schwelle zwischen Klassizismus und Romantik und wird für die Zeit um 1800 zu den am höchsten geschätzten Künstlern seiner Art gerechnet.</abstract>
+<wikilink>http://en.wikipedia.org/wiki/Johann_Christian_Reinhart?oldid=601067586</wikilink>
+</Person>

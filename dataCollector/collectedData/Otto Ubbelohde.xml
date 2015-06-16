@@ -1,0 +1,26 @@
+<Person>
+<name>Otto Ubbelohde</name>
+<variantName>
+<XML_Serializer_Tag>Ottō Uberōde</XML_Serializer_Tag>
+</variantName>
+<thumbnail>https://commons.wikimedia.org/wiki/Special:FilePath/Likeness_of_Otto_Ubbelohde,_est._1910,_from_Richard_Winkel_(1870-1941).jpg?width=270</thumbnail>
+<birthEN>January 5, 1867</birthEN>
+<birthDE>5. Januar 1867</birthDE>
+<deathEN>May 8, 1922</deathEN>
+<deathDE>8. Mai 1922</deathDE>
+<birthPlace>
+<XML_Serializer_Tag>Marburg</XML_Serializer_Tag>
+</birthPlace>
+<deathPlace>
+<XML_Serializer_Tag>Goßfelden</XML_Serializer_Tag>
+</deathPlace>
+<professionOrOccupation>
+<XML_Serializer_Tag>Graphiker</XML_Serializer_Tag>
+<XML_Serializer_Tag>Illustrator</XML_Serializer_Tag>
+<XML_Serializer_Tag>Maler</XML_Serializer_Tag>
+</professionOrOccupation>
+<artworks />
+<dbpResource>http://dbpedia.org/resource/Otto_Ubbelohde</dbpResource>
+<abstract>Otto Ubbelohde (* 5. Januar 1867 in Marburg an der Lahn; † 8. Mai 1922 in Goßfelden) war Maler, Radierer und Illustrator. Teile seines Werkes werden dem Jugendstil zugeordnet.</abstract>
+<wikilink>http://en.wikipedia.org/wiki/Otto_Ubbelohde?oldid=578834251</wikilink>
+</Person>

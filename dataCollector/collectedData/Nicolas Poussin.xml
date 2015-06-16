@@ -1,0 +1,245 @@
+<Person>
+<name>Nicolas Poussin</name>
+<variantName>
+<XML_Serializer_Tag>N. Poussin</XML_Serializer_Tag>
+<XML_Serializer_Tag>Niccolo Possino</XML_Serializer_Tag>
+<XML_Serializer_Tag>Nikola Pussen</XML_Serializer_Tag>
+<XML_Serializer_Tag>Nicolo Pussino</XML_Serializer_Tag>
+<XML_Serializer_Tag>Nicolo Poussin</XML_Serializer_Tag>
+<XML_Serializer_Tag>Niccolò Poussin</XML_Serializer_Tag>
+<XML_Serializer_Tag>Nicolo Pussin</XML_Serializer_Tag>
+<XML_Serializer_Tag>Nicolaus Poussinus</XML_Serializer_Tag>
+</variantName>
+<thumbnail>https://commons.wikimedia.org/wiki/Special:FilePath/Nicolas_Poussin_078.jpg?width=270</thumbnail>
+<birthEN>1594</birthEN>
+<birthDE>1594</birthDE>
+<deathEN>1665</deathEN>
+<deathDE>1665</deathDE>
+<birthPlace />
+<deathPlace />
+<professionOrOccupation>
+<XML_Serializer_Tag>Künstler</XML_Serializer_Tag>
+<XML_Serializer_Tag>Maler</XML_Serializer_Tag>
+</professionOrOccupation>
+<artworks>
+<XML_Serializer_Tag>
+<painting>
+<type>uri</type>
+<value>http://dbpedia.org/resource/Et_in_Arcadia_ego</value>
+</painting>
+<thumbnail>
+<type>uri</type>
+<value>http://commons.wikimedia.org/wiki/Special:FilePath/Nicolas_Poussin_052.jpg?width=300</value>
+</thumbnail>
+<name>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>Et in Arcadia ego</value>
+</name>
+<year>
+<type>typed-literal</type>
+<datatype>http://www.w3.org/2001/XMLSchema#integer</datatype>
+<value>1637</value>
+</year>
+<abstract>
+<type>literal</type>
+<xml:lang>de</xml:lang>
+<value>Et in Arcadia ego ist eine lateinische Phrase. Ihre Bedeutung ist umstritten. Die sprachlich näherliegende Übersetzung „Auch in Arkadien (bin) ich“ wurde im Verlauf der Rezeptionsgeschichte mehr und mehr verdrängt durch die Fassung „Auch ich (war) in Arkadien“. Die Phrase findet sich zum ersten Mal in dem gleichnamigen Gemälde des italienischen Barockmalers Giovanni Francesco Barbieri, gen. Guercino. Dort steht sie auf einem Mauerstück geschrieben, auf dem ein Totenkopf liegt. Die Komposition ist gleichsam ein Stillleben mit den Hirten als Betrachtern im Bild. Durch die zugrunde liegende ikonographische Tradition ist der Totenkopf als symbolische Repräsentation des Todes definiert. Die Worte sind somit ein Ausspruch des Todes („mich gibt es auch in Arkadien“) und von der Art des Memento Mori („Bedenke, dass du sterben musst“): sie mahnen die beiden Hirtenjungen inmitten dieses Idylls an den Tod, der eben auch Arkadien nicht verschont.In zwei Gemälden mit dem Namen Die Hirten von Arkadien hat der französische Barockmaler Nicolas Poussin das Thema aufgegriffen, aber durch Eingriffe in die Komposition wesentlich weiter entwickelt. Die auffälligste Veränderung Poussins ist, dass das Mauerstück durch einen Sarkophag ersetzt ist. Die Deutung beider Gemälde, besonders des zweiten, ist umstritten. Manche Interpreten nehmen an, dass bei Poussin nunmehr nicht der Tod, sondern der Tote als Sprecher der Phrase zu denken sei und damit ein Bezugswechsel des et (auf ego statt auf Arcadia) einhergehe.</value>
+</abstract>
+<wikilink>
+<type>uri</type>
+<value>http://en.wikipedia.org/wiki/Et_in_Arcadia_ego?oldid=601775596</value>
+</wikilink>
+</XML_Serializer_Tag>
+<XML_Serializer_Tag>
+<painting>
+<type>uri</type>
+<value>http://dbpedia.org/resource/The_Inspiration_of_the_Poet</value>
+</painting>
+<thumbnail>
+<type>uri</type>
+<value>http://commons.wikimedia.org/wiki/Special:FilePath/Nicolas_Poussin_055.jpg?width=300</value>
+</thumbnail>
+<name>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>The Inspiration of the Poet</value>
+</name>
+<year>
+<type>typed-literal</type>
+<datatype>http://www.w3.org/2001/XMLSchema#integer</datatype>
+<value>1629</value>
+</year>
+<wikilink>
+<type>uri</type>
+<value>http://en.wikipedia.org/wiki/The_Inspiration_of_the_Poet?oldid=593737081</value>
+</wikilink>
+</XML_Serializer_Tag>
+<XML_Serializer_Tag>
+<painting>
+<type>uri</type>
+<value>http://dbpedia.org/resource/A_Dance_to_the_Music_of_Time_(painting)</value>
+</painting>
+<thumbnail>
+<type>uri</type>
+<value>http://commons.wikimedia.org/wiki/Special:FilePath/The_dance_to_the_music_of_time_c._1640.jpg?width=300</value>
+</thumbnail>
+<name>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>A Dance to the Music of Time</value>
+</name>
+<year>
+<type>typed-literal</type>
+<datatype>http://www.w3.org/2001/XMLSchema#integer</datatype>
+<value>1634</value>
+</year>
+<wikilink>
+<type>uri</type>
+<value>http://en.wikipedia.org/wiki/A_Dance_to_the_Music_of_Time_(painting)?oldid=599865154</value>
+</wikilink>
+</XML_Serializer_Tag>
+<XML_Serializer_Tag>
+<painting>
+<type>uri</type>
+<value>http://dbpedia.org/resource/Landscape_with_the_Ashes_of_Phocion</value>
+</painting>
+<thumbnail>
+<type>uri</type>
+<value>http://commons.wikimedia.org/wiki/Special:FilePath/The_ashes_of_phocion_collected_by_his_widow_1648.jpg?width=300</value>
+</thumbnail>
+<name>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>Landscape with the Ashes of Phocion</value>
+</name>
+<year>
+<type>typed-literal</type>
+<datatype>http://www.w3.org/2001/XMLSchema#integer</datatype>
+<value>1648</value>
+</year>
+<wikilink>
+<type>uri</type>
+<value>http://en.wikipedia.org/wiki/Landscape_with_the_Ashes_of_Phocion?oldid=589180001</value>
+</wikilink>
+</XML_Serializer_Tag>
+<XML_Serializer_Tag>
+<painting>
+<type>uri</type>
+<value>http://dbpedia.org/resource/Landscape_with_Orpheus_and_Eurydice</value>
+</painting>
+<thumbnail>
+<type>uri</type>
+<value>http://commons.wikimedia.org/wiki/Special:FilePath/Landscape_with_orpheus_and_eurydice_1650-51.jpg?width=300</value>
+</thumbnail>
+<name>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>Landscape with Orpheus and Eurydice</value>
+</name>
+<year>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>c. 1650</value>
+</year>
+<wikilink>
+<type>uri</type>
+<value>http://en.wikipedia.org/wiki/Landscape_with_Orpheus_and_Eurydice?oldid=585982050</value>
+</wikilink>
+</XML_Serializer_Tag>
+<XML_Serializer_Tag>
+<painting>
+<type>uri</type>
+<value>http://dbpedia.org/resource/The_Adoration_of_the_Golden_Calf</value>
+</painting>
+<thumbnail>
+<type>uri</type>
+<value>http://commons.wikimedia.org/wiki/Special:FilePath/GoldCalf.jpg?width=300</value>
+</thumbnail>
+<name>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>The Adoration of the Golden Calf</value>
+</name>
+<year>
+<type>typed-literal</type>
+<datatype>http://www.w3.org/2001/XMLSchema#integer</datatype>
+<value>1633</value>
+</year>
+<wikilink>
+<type>uri</type>
+<value>http://en.wikipedia.org/wiki/The_Adoration_of_the_Golden_Calf?oldid=601291359</value>
+</wikilink>
+</XML_Serializer_Tag>
+<XML_Serializer_Tag>
+<painting>
+<type>uri</type>
+<value>http://dbpedia.org/resource/The_Flight_into_Egypt_(Poussin_painting)</value>
+</painting>
+<thumbnail>
+<type>uri</type>
+<value>http://commons.wikimedia.org/wiki/Special:FilePath/Poussin-Fuite_en_Egypte-MBA-Lyon.jpg?width=300</value>
+</thumbnail>
+<name>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>The Flight into Egypt</value>
+</name>
+<year>
+<type>typed-literal</type>
+<datatype>http://www.w3.org/2001/XMLSchema#integer</datatype>
+<value>1657</value>
+</year>
+<wikilink>
+<type>uri</type>
+<value>http://en.wikipedia.org/wiki/The_Flight_into_Egypt_(Poussin_painting)?oldid=586450185</value>
+</wikilink>
+</XML_Serializer_Tag>
+<XML_Serializer_Tag>
+<painting>
+<type>uri</type>
+<value>http://dbpedia.org/resource/The_Crossing_of_the_Red_Sea_(Poussin)</value>
+</painting>
+<thumbnail>
+<type>uri</type>
+<value>http://commons.wikimedia.org/wiki/Special:FilePath/The_Crossing_fo_The_Red_Sea.jpg?width=300</value>
+</thumbnail>
+<name>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>The Crossing of the Red Sea</value>
+</name>
+<year>
+<type>typed-literal</type>
+<datatype>http://www.w3.org/2001/XMLSchema#integer</datatype>
+<value>1633</value>
+</year>
+<wikilink>
+<type>uri</type>
+<value>http://en.wikipedia.org/wiki/The_Crossing_of_the_Red_Sea_(Poussin)?oldid=601291421</value>
+</wikilink>
+</XML_Serializer_Tag>
+<XML_Serializer_Tag>
+<painting>
+<type>uri</type>
+<value>http://dbpedia.org/resource/The_Funeral_of_Phocion</value>
+</painting>
+<thumbnail>
+<type>uri</type>
+<value>http://commons.wikimedia.org/wiki/Special:FilePath/Burial_of_Phocion.jpg?width=300</value>
+</thumbnail>
+<name>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>The Funeral of Phocion</value>
+</name>
+<wikilink>
+<type>uri</type>
+<value>http://en.wikipedia.org/wiki/The_Funeral_of_Phocion?oldid=522385557</value>
+</wikilink>
+</XML_Serializer_Tag>
+</artworks>
+<dbpResource>http://dbpedia.org/resource/Nicolas_Poussin</dbpResource>
+<abstract>Nicolas Poussin [pu&apos;sɛ̃] (* 15. Juni 1594 in Les Andelys (Normandie); † 19. November 1665 in Rom) war ein französischer Maler des klassizistischen Barock.</abstract>
+<wikilink>http://en.wikipedia.org/wiki/Nicolas_Poussin?oldid=602045767</wikilink>
+</Person>

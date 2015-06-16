@@ -1,0 +1,24 @@
+<Person>
+<name>Hans-Peter Feldmann</name>
+<variantName />
+<thumbnail>https://commons.wikimedia.org/wiki/Special:FilePath/Hans-peter_feldman.jpg?width=270</thumbnail>
+<birthEN>1941</birthEN>
+<birthDE>1941</birthDE>
+<deathEN />
+<deathDE />
+<birthPlace>
+<XML_Serializer_Tag>Düsseldorf</XML_Serializer_Tag>
+</birthPlace>
+<deathPlace />
+<professionOrOccupation>
+<XML_Serializer_Tag>Künstler</XML_Serializer_Tag>
+<XML_Serializer_Tag>Maler</XML_Serializer_Tag>
+<XML_Serializer_Tag>Bildhauer</XML_Serializer_Tag>
+<XML_Serializer_Tag>Photograph</XML_Serializer_Tag>
+<XML_Serializer_Tag>Installationskünstler</XML_Serializer_Tag>
+</professionOrOccupation>
+<artworks />
+<dbpResource>http://dbpedia.org/resource/Hans-Peter_Feldmann</dbpResource>
+<abstract>Hans-Peter Feldmann (* 1941 in Düsseldorf) ist ein deutscher Künstler.</abstract>
+<wikilink>http://en.wikipedia.org/wiki/Hans-Peter_Feldmann?oldid=587717196</wikilink>
+</Person>

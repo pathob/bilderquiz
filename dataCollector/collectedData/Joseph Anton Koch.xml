@@ -1,0 +1,34 @@
+<Person>
+<name>Joseph Anton Koch</name>
+<variantName>
+<XML_Serializer_Tag>Josef Anton Koch</XML_Serializer_Tag>
+<XML_Serializer_Tag>Joseph A. Koch</XML_Serializer_Tag>
+<XML_Serializer_Tag>Josef A. Koch</XML_Serializer_Tag>
+<XML_Serializer_Tag>Josef Koch</XML_Serializer_Tag>
+<XML_Serializer_Tag>Joseph Koch</XML_Serializer_Tag>
+<XML_Serializer_Tag>J. A. Koch</XML_Serializer_Tag>
+<XML_Serializer_Tag>J. Anton Koch</XML_Serializer_Tag>
+<XML_Serializer_Tag>... Koch</XML_Serializer_Tag>
+</variantName>
+<thumbnail>https://commons.wikimedia.org/wiki/Special:FilePath/Joseph-Anton-Koch.jpg?width=270</thumbnail>
+<birthEN>July 27, 1768</birthEN>
+<birthDE>27. Juli 1768</birthDE>
+<deathEN>January 12, 1839</deathEN>
+<deathDE>12. Januar 1839</deathDE>
+<birthPlace>
+<XML_Serializer_Tag>Obergiblen b. Elbigenalp (Tirol)</XML_Serializer_Tag>
+</birthPlace>
+<deathPlace>
+<XML_Serializer_Tag>Rom</XML_Serializer_Tag>
+</deathPlace>
+<professionOrOccupation>
+<XML_Serializer_Tag>Maler</XML_Serializer_Tag>
+<XML_Serializer_Tag>Zeichner</XML_Serializer_Tag>
+<XML_Serializer_Tag>Radierer</XML_Serializer_Tag>
+<XML_Serializer_Tag>Lithograph</XML_Serializer_Tag>
+</professionOrOccupation>
+<artworks />
+<dbpResource>http://dbpedia.org/resource/Joseph_Anton_Koch</dbpResource>
+<abstract>Joseph Anton Koch (* 27. Juli 1768 in Obergiblen bei Elbigenalp im Lechtal, Tirol; † 12. Januar 1839 in Rom, ± Campo Santo Teutonico) war ein österreichischer Maler der Biedermeierzeit.</abstract>
+<wikilink>http://en.wikipedia.org/wiki/Joseph_Anton_Koch?oldid=600026974</wikilink>
+</Person>

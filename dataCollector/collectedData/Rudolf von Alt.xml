@@ -1,0 +1,28 @@
+<Person>
+<name>Rudolf von Alt</name>
+<variantName>
+<XML_Serializer_Tag>R. von Alt</XML_Serializer_Tag>
+<XML_Serializer_Tag>R. Alt</XML_Serializer_Tag>
+</variantName>
+<thumbnail>https://commons.wikimedia.org/wiki/Special:FilePath/Rudolf-von-Alt-1890.jpg?width=270</thumbnail>
+<birthEN>August 28, 1812</birthEN>
+<birthDE>28. August 1812</birthDE>
+<deathEN>March 12, 1905</deathEN>
+<deathDE>12. März 1905</deathDE>
+<birthPlace>
+<XML_Serializer_Tag>Wien</XML_Serializer_Tag>
+</birthPlace>
+<deathPlace>
+<XML_Serializer_Tag>Wien</XML_Serializer_Tag>
+</deathPlace>
+<professionOrOccupation>
+<XML_Serializer_Tag>Architekt</XML_Serializer_Tag>
+<XML_Serializer_Tag>Landschaftsmaler</XML_Serializer_Tag>
+<XML_Serializer_Tag>Maler</XML_Serializer_Tag>
+<XML_Serializer_Tag>Zeichner</XML_Serializer_Tag>
+</professionOrOccupation>
+<artworks />
+<dbpResource>http://dbpedia.org/resource/Rudolf_von_Alt</dbpResource>
+<abstract>Rudolf Ritter von Alt (* 28. August 1812 in der Alservorstadt, heute Wien; † 12. März 1905 in Wien) war ein österreichischer Maler und Aquarellist.</abstract>
+<wikilink>http://en.wikipedia.org/wiki/Rudolf_von_Alt?oldid=601423383</wikilink>
+</Person>

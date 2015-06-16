@@ -1,0 +1,35 @@
+<Person>
+<name>Wilhelm Raabe</name>
+<variantName>
+<XML_Serializer_Tag>Jakob Corvinus</XML_Serializer_Tag>
+<XML_Serializer_Tag>Jacob Corvinus</XML_Serializer_Tag>
+<XML_Serializer_Tag>W. Raabe</XML_Serializer_Tag>
+<XML_Serializer_Tag>H. F. Raabe</XML_Serializer_Tag>
+<XML_Serializer_Tag>Wilhelm Karl Raabe</XML_Serializer_Tag>
+<XML_Serializer_Tag>Vilʹhelʹm Raabe</XML_Serializer_Tag>
+<XML_Serializer_Tag>Wilhelm K. Raabe</XML_Serializer_Tag>
+<XML_Serializer_Tag>Viruherumu Rābe</XML_Serializer_Tag>
+<XML_Serializer_Tag>Wilhelm Carl Raabe</XML_Serializer_Tag>
+<XML_Serializer_Tag>Jakob Corbinus</XML_Serializer_Tag>
+<XML_Serializer_Tag>ヴィルヘルム・ラーベ</XML_Serializer_Tag>
+</variantName>
+<thumbnail>https://commons.wikimedia.org/wiki/Special:FilePath/Die_Gartenlaube_(1888)_b_469.jpg?width=270</thumbnail>
+<birthEN>September 8, 1831</birthEN>
+<birthDE>8. September 1831</birthDE>
+<deathEN>September 15, 1910</deathEN>
+<deathDE>15. September 1910</deathDE>
+<birthPlace>
+<XML_Serializer_Tag>Eschershausen</XML_Serializer_Tag>
+</birthPlace>
+<deathPlace>
+<XML_Serializer_Tag>Braunschweig</XML_Serializer_Tag>
+</deathPlace>
+<professionOrOccupation>
+<XML_Serializer_Tag>Maler</XML_Serializer_Tag>
+<XML_Serializer_Tag>Schriftsteller</XML_Serializer_Tag>
+</professionOrOccupation>
+<artworks />
+<dbpResource>http://dbpedia.org/resource/Wilhelm_Raabe</dbpResource>
+<abstract>Wilhelm Karl Raabe (Pseudonym: Jakob Corvinus; * 8. September 1831 in Eschershausen; † 15. November 1910 in Braunschweig) war ein deutscher Schriftsteller (Erzähler). Er war ein Vertreter des poetischen Realismus, bekannt für seine gesellschaftskritischen Erzählungen, Novellen und Romane.</abstract>
+<wikilink>http://en.wikipedia.org/wiki/Wilhelm_Raabe?oldid=594648543</wikilink>
+</Person>

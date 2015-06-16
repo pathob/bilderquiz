@@ -1,0 +1,23 @@
+<Person>
+<name>Karl Sterrer</name>
+<variantName />
+<thumbnail>https://commons.wikimedia.org/wiki/Special:FilePath/HGM_Karl_Sterrer_Porträt_Gottfried_von_Bandfield.jpg?width=270</thumbnail>
+<birthEN>December 4, 1885</birthEN>
+<birthDE>4. Dezember 1885</birthDE>
+<deathEN>June 10, 1972</deathEN>
+<deathDE>10. Juni 1972</deathDE>
+<birthPlace>
+<XML_Serializer_Tag>Wien</XML_Serializer_Tag>
+</birthPlace>
+<deathPlace>
+<XML_Serializer_Tag>Wien</XML_Serializer_Tag>
+</deathPlace>
+<professionOrOccupation>
+<XML_Serializer_Tag>Künstler</XML_Serializer_Tag>
+<XML_Serializer_Tag>Maler</XML_Serializer_Tag>
+</professionOrOccupation>
+<artworks />
+<dbpResource>http://dbpedia.org/resource/Karl_Sterrer</dbpResource>
+<abstract>Karl Sterrer (* 4. Dezember 1885 in Wien; † 10. Juni 1972 ebenda) war ein österreichischer Maler und Grafiker.</abstract>
+<wikilink>http://en.wikipedia.org/wiki/Karl_Sterrer?oldid=606489239</wikilink>
+</Person>

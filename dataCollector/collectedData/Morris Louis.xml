@@ -1,0 +1,21 @@
+<Person>
+<name>Morris Louis</name>
+<variantName>
+<XML_Serializer_Tag>Louis Morris Bernstein</XML_Serializer_Tag>
+<XML_Serializer_Tag>Maurice Bernstein</XML_Serializer_Tag>
+</variantName>
+<thumbnail>https://en.wikipedia.org/wiki/Special:FilePath/&apos;Where&apos;,_252_x_362_cm._magna_on_canvas_painting_by_Morris_Louis,_Hirshhorn_Museum_and_Sculpture_Garden,_1960.jpg?width=270</thumbnail>
+<birthEN>1912</birthEN>
+<birthDE>1912</birthDE>
+<deathEN>1962</deathEN>
+<deathDE>1962</deathDE>
+<birthPlace />
+<deathPlace />
+<professionOrOccupation>
+<XML_Serializer_Tag>Maler</XML_Serializer_Tag>
+</professionOrOccupation>
+<artworks />
+<dbpResource>http://dbpedia.org/resource/Morris_Louis</dbpResource>
+<abstract>Morris Louis (* 28. November 1912 in Baltimore, Maryland; † 7. September 1962 in Washington, D.C.; eigentlich Morris Louis Bernstein) war ein US-amerikanischer Maler. Seine Werke sind ein wichtiges Beispiel der Farbfeldmalerei.</abstract>
+<wikilink>http://en.wikipedia.org/wiki/Morris_Louis?oldid=596096981</wikilink>
+</Person>

@@ -1,0 +1,30 @@
+<Person>
+<name>Otto Magnus von Stackelberg</name>
+<variantName>
+<XML_Serializer_Tag>Otto M. von Stackelberg</XML_Serializer_Tag>
+<XML_Serializer_Tag>O. M. von Stackelberg</XML_Serializer_Tag>
+<XML_Serializer_Tag>Otto M. de Stackelberg</XML_Serializer_Tag>
+<XML_Serializer_Tag>Otto von Stackelberg</XML_Serializer_Tag>
+</variantName>
+<thumbnail>https://commons.wikimedia.org/wiki/Special:FilePath/Otto_Magnus_von_Stackelberg_by_Carl_Christian_Vogel_von_Vogelstein.jpg?width=270</thumbnail>
+<birthEN>July 25, 1786</birthEN>
+<birthDE>25. Juli 1786</birthDE>
+<deathEN>March 27, 1837</deathEN>
+<deathDE>27. März 1837</deathDE>
+<birthPlace>
+<XML_Serializer_Tag>Reval</XML_Serializer_Tag>
+</birthPlace>
+<deathPlace>
+<XML_Serializer_Tag>Sankt Petersburg</XML_Serializer_Tag>
+</deathPlace>
+<professionOrOccupation>
+<XML_Serializer_Tag>Schriftsteller</XML_Serializer_Tag>
+<XML_Serializer_Tag>Kunsthistoriker</XML_Serializer_Tag>
+<XML_Serializer_Tag>Maler</XML_Serializer_Tag>
+<XML_Serializer_Tag>Archäologe</XML_Serializer_Tag>
+</professionOrOccupation>
+<artworks />
+<dbpResource>http://dbpedia.org/resource/Otto_Magnus_von_Stackelberg_(archaeologist)</dbpResource>
+<abstract>Otto Magnus Baron von Stackelberg (* 3. Julijul./ 14. Juli 1786greg. in Reval; † 20. Märzjul./ 1. April 1837greg. in Sankt Petersburg) war ein schwedischstämmiger, estländischer Archäologe, Maler und Schriftsteller.</abstract>
+<wikilink>http://en.wikipedia.org/wiki/Otto_Magnus_von_Stackelberg_(archaeologist)?oldid=600465762</wikilink>
+</Person>

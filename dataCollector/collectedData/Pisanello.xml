@@ -1,0 +1,152 @@
+<Person>
+<name>Pisanello</name>
+<variantName>
+<XML_Serializer_Tag>Antonio Pisano</XML_Serializer_Tag>
+<XML_Serializer_Tag>Vittore Pisano</XML_Serializer_Tag>
+<XML_Serializer_Tag>Antonio, Pisano</XML_Serializer_Tag>
+<XML_Serializer_Tag>Antonio di Puccio Pisano Pisanello</XML_Serializer_Tag>
+<XML_Serializer_Tag>Antonio Pisanello</XML_Serializer_Tag>
+<XML_Serializer_Tag>Antonio, di Puccio Pisano Pisanello</XML_Serializer_Tag>
+<XML_Serializer_Tag>Vittore, Pisano</XML_Serializer_Tag>
+<XML_Serializer_Tag>Antonio, Pisanello</XML_Serializer_Tag>
+<XML_Serializer_Tag>Victor Pisano</XML_Serializer_Tag>
+<XML_Serializer_Tag>Victor, Pisano</XML_Serializer_Tag>
+<XML_Serializer_Tag>Antonio di Puccio Pisano</XML_Serializer_Tag>
+</variantName>
+<thumbnail>https://commons.wikimedia.org/wiki/Special:FilePath/Pisanello.Medaille_Einhorn.jpg?width=270</thumbnail>
+<birthEN>1395</birthEN>
+<birthDE>1395</birthDE>
+<deathEN>1455</deathEN>
+<deathDE>1455</deathDE>
+<birthPlace />
+<deathPlace />
+<professionOrOccupation>
+<XML_Serializer_Tag>Maler</XML_Serializer_Tag>
+<XML_Serializer_Tag>Medailleur</XML_Serializer_Tag>
+</professionOrOccupation>
+<artworks>
+<XML_Serializer_Tag>
+<painting>
+<type>uri</type>
+<value>http://dbpedia.org/resource/The_Vision_of_Saint_Eustace</value>
+</painting>
+<thumbnail>
+<type>uri</type>
+<value>http://commons.wikimedia.org/wiki/Special:FilePath/Pisanello_018.jpg?width=300</value>
+</thumbnail>
+<name>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>The Vision of Saint Eustace</value>
+</name>
+<year>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>Unknown</value>
+</year>
+<wikilink>
+<type>uri</type>
+<value>http://en.wikipedia.org/wiki/The_Vision_of_Saint_Eustace?oldid=571855990</value>
+</wikilink>
+</XML_Serializer_Tag>
+<XML_Serializer_Tag>
+<painting>
+<type>uri</type>
+<value>http://dbpedia.org/resource/Portrait_of_Sigismund_of_Luxemburg</value>
+</painting>
+<thumbnail>
+<type>uri</type>
+<value>http://commons.wikimedia.org/wiki/Special:FilePath/Pisanello_024b.jpg?width=300</value>
+</thumbnail>
+<name>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>Portrait of Sigismund of Luxemburg</value>
+</name>
+<year>
+<type>typed-literal</type>
+<datatype>http://www.w3.org/2001/XMLSchema#integer</datatype>
+<value>1432</value>
+</year>
+<wikilink>
+<type>uri</type>
+<value>http://en.wikipedia.org/wiki/Portrait_of_Sigismund_of_Luxemburg?oldid=590545678</value>
+</wikilink>
+</XML_Serializer_Tag>
+<XML_Serializer_Tag>
+<painting>
+<type>uri</type>
+<value>http://dbpedia.org/resource/Portrait_of_a_princess_(Pisanello)</value>
+</painting>
+<thumbnail>
+<type>uri</type>
+<value>http://commons.wikimedia.org/wiki/Special:FilePath/Pisanello_016.jpg?width=300</value>
+</thumbnail>
+<name>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>Portrait of Princess</value>
+</name>
+<year>
+<type>typed-literal</type>
+<datatype>http://www.w3.org/2001/XMLSchema#integer</datatype>
+<value>1435</value>
+</year>
+<wikilink>
+<type>uri</type>
+<value>http://en.wikipedia.org/wiki/Portrait_of_a_princess_(Pisanello)?oldid=590545673</value>
+</wikilink>
+</XML_Serializer_Tag>
+<XML_Serializer_Tag>
+<painting>
+<type>uri</type>
+<value>http://dbpedia.org/resource/Medal_of_John_VIII_Palaeologus</value>
+</painting>
+<thumbnail>
+<type>uri</type>
+<value>http://en.wikipedia.org/wiki/Special:FilePath/Pisanello,_Medaglia_di_Palaiologos,_1439.JPG?width=300</value>
+</thumbnail>
+<name>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>Medal of John VIII Palaeologus</value>
+</name>
+<year>
+<type>typed-literal</type>
+<datatype>http://www.w3.org/2001/XMLSchema#integer</datatype>
+<value>1438</value>
+</year>
+<wikilink>
+<type>uri</type>
+<value>http://en.wikipedia.org/wiki/Medal_of_John_VIII_Palaeologus?oldid=603518694</value>
+</wikilink>
+</XML_Serializer_Tag>
+<XML_Serializer_Tag>
+<painting>
+<type>uri</type>
+<value>http://dbpedia.org/resource/Madonna_of_the_Quail</value>
+</painting>
+<thumbnail>
+<type>uri</type>
+<value>http://commons.wikimedia.org/wiki/Special:FilePath/Museo_di_castelvecchio,_pisanello,_madonna_della_quaglia.JPG?width=300</value>
+</thumbnail>
+<name>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>Madonna of the Quail</value>
+</name>
+<year>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>c. 1420</value>
+</year>
+<wikilink>
+<type>uri</type>
+<value>http://en.wikipedia.org/wiki/Madonna_of_the_Quail?oldid=587325392</value>
+</wikilink>
+</XML_Serializer_Tag>
+</artworks>
+<dbpResource>http://dbpedia.org/resource/Pisanello</dbpResource>
+<abstract>Antonio Pisanello (* 1395 in Pisa; † 1455 in Rom), eigentlich Antonio di Puccio Pisano und manchmal auch als Vittore Pisano benannt, war ein italienischer Maler und Medailleur. Insbesondere mit seinen Bildnismedaillen wurde er zum Wegbereiter der Renaissance in Oberitalien.Pisano war in Verona, Venedig, Pavia, Rom, Ferrara, Rimini, Mailand, Mantua und Neapel tätig.</abstract>
+<wikilink>http://en.wikipedia.org/wiki/Pisanello?oldid=602503941</wikilink>
+</Person>

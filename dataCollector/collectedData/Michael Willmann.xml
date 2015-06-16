@@ -1,0 +1,20 @@
+<Person>
+<name>Michael Willmann</name>
+<variantName>
+<XML_Serializer_Tag>Michael Lukas Leopold Willmann</XML_Serializer_Tag>
+</variantName>
+<thumbnail>https://commons.wikimedia.org/wiki/Special:FilePath/Michael_Willmann.jpg?width=270</thumbnail>
+<birthEN>1630</birthEN>
+<birthDE>1630</birthDE>
+<deathEN>August 26, 1706</deathEN>
+<deathDE>26. August 1706</deathDE>
+<birthPlace />
+<deathPlace />
+<professionOrOccupation>
+<XML_Serializer_Tag>Maler</XML_Serializer_Tag>
+</professionOrOccupation>
+<artworks />
+<dbpResource>http://dbpedia.org/resource/Michael_Willmann</dbpResource>
+<abstract>Michael Leopold Lukas Willmann (* 27. September 1630 in Königsberg; † 26. August 1706 in Leubus in Schlesien) gehört zu den erfolgreichsten deutschen Malern der Barockzeit.</abstract>
+<wikilink>http://en.wikipedia.org/wiki/Michael_Willmann?oldid=570917387</wikilink>
+</Person>

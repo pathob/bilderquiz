@@ -1,0 +1,28 @@
+<Person>
+<name>Johann Jakob Zeiller</name>
+<variantName>
+<XML_Serializer_Tag>Jakob Zeiller</XML_Serializer_Tag>
+<XML_Serializer_Tag>Jacob Zeiller</XML_Serializer_Tag>
+<XML_Serializer_Tag>Johann J. Zeiller</XML_Serializer_Tag>
+<XML_Serializer_Tag>Johann Jakob Zeiler</XML_Serializer_Tag>
+</variantName>
+<thumbnail>https://commons.wikimedia.org/wiki/Special:FilePath/Ettal9.JPG?width=270</thumbnail>
+<birthEN>July 8, 1708</birthEN>
+<birthDE>8. Juli 1708</birthDE>
+<deathEN>July 8, 1783</deathEN>
+<deathDE>8. Juli 1783</deathDE>
+<birthPlace>
+<XML_Serializer_Tag>Reutte</XML_Serializer_Tag>
+</birthPlace>
+<deathPlace>
+<XML_Serializer_Tag>Reutte</XML_Serializer_Tag>
+</deathPlace>
+<professionOrOccupation>
+<XML_Serializer_Tag>Künstler</XML_Serializer_Tag>
+<XML_Serializer_Tag>Maler</XML_Serializer_Tag>
+</professionOrOccupation>
+<artworks />
+<dbpResource>http://dbpedia.org/resource/Johann_Jakob_Zeiller</dbpResource>
+<abstract>Johann Jakob Zeiller oder Zeiler (* 8. Juli 1708 in Reutte, Tirol; † 8. Juli 1783 ebenda) war ein österreichischer Maler.</abstract>
+<wikilink>http://en.wikipedia.org/wiki/Johann_Jakob_Zeiller?oldid=600701607</wikilink>
+</Person>

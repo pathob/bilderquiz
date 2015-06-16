@@ -1,0 +1,27 @@
+<Person>
+<name>Francis Picabia</name>
+<variantName>
+<XML_Serializer_Tag>Francis-Marie Martinez Picabia de la Torre</XML_Serializer_Tag>
+<XML_Serializer_Tag>Francis Marie Martinez Picabia</XML_Serializer_Tag>
+</variantName>
+<thumbnail>https://commons.wikimedia.org/wiki/Special:FilePath/Francis_Picabia.jpg?width=270</thumbnail>
+<birthEN>January 22, 1879</birthEN>
+<birthDE>22. Januar 1879</birthDE>
+<deathEN>November 30, 1953</deathEN>
+<deathDE>30. November 1953</deathDE>
+<birthPlace>
+<XML_Serializer_Tag>Paris</XML_Serializer_Tag>
+</birthPlace>
+<deathPlace>
+<XML_Serializer_Tag>Paris</XML_Serializer_Tag>
+</deathPlace>
+<professionOrOccupation>
+<XML_Serializer_Tag>Maler</XML_Serializer_Tag>
+<XML_Serializer_Tag>Graphiker</XML_Serializer_Tag>
+<XML_Serializer_Tag>Schriftsteller</XML_Serializer_Tag>
+</professionOrOccupation>
+<artworks />
+<dbpResource>http://dbpedia.org/resource/Francis_Picabia</dbpResource>
+<abstract>Francis-Marie Martinez Picabia (* 22. Januar 1879 in Paris, Frankreich; † 30. November 1953 ebenda) war ein französischer Schriftsteller, Maler und Grafiker.</abstract>
+<wikilink>http://en.wikipedia.org/wiki/Francis_Picabia?oldid=599184446</wikilink>
+</Person>

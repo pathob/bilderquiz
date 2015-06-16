@@ -1,0 +1,26 @@
+<Person>
+<name>Ignacio Zuloaga</name>
+<variantName>
+<XML_Serializer_Tag>Ignacio Zuloaga y Zabaleta</XML_Serializer_Tag>
+<XML_Serializer_Tag>Ignazio Zuloaga</XML_Serializer_Tag>
+<XML_Serializer_Tag>Ignacio Zuloaga y Zabaleta</XML_Serializer_Tag>
+</variantName>
+<thumbnail>https://commons.wikimedia.org/wiki/Special:FilePath/Ignacio_Zuluaga.JPG?width=270</thumbnail>
+<birthEN>July 26, 1870</birthEN>
+<birthDE>26. Juli 1870</birthDE>
+<deathEN>October 31, 1945</deathEN>
+<deathDE>31. Oktober 1945</deathDE>
+<birthPlace>
+<XML_Serializer_Tag>Eibar</XML_Serializer_Tag>
+</birthPlace>
+<deathPlace>
+<XML_Serializer_Tag>Madrid</XML_Serializer_Tag>
+</deathPlace>
+<professionOrOccupation>
+<XML_Serializer_Tag>Maler</XML_Serializer_Tag>
+</professionOrOccupation>
+<artworks />
+<dbpResource>http://dbpedia.org/resource/Ignacio_Zuloaga</dbpResource>
+<abstract>Ignacio Zuloaga y Zabaleta (* 26. Juli 1870 in Éibar; † 31. Oktober 1945 in Madrid) war ein spanischer Maler des Impressionismus.</abstract>
+<wikilink>http://en.wikipedia.org/wiki/Ignacio_Zuloaga?oldid=583959874</wikilink>
+</Person>

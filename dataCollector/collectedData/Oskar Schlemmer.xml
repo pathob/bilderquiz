@@ -1,0 +1,25 @@
+<Person>
+<name>Oskar Schlemmer</name>
+<variantName />
+<thumbnail>https://commons.wikimedia.org/wiki/Special:FilePath/DBP_1975_840_Europa_Gemälde.jpg?width=270</thumbnail>
+<birthEN>September 4, 1888</birthEN>
+<birthDE>4. September 1888</birthDE>
+<deathEN>April 13, 1943</deathEN>
+<deathDE>13. April 1943</deathDE>
+<birthPlace>
+<XML_Serializer_Tag>Stuttgart</XML_Serializer_Tag>
+</birthPlace>
+<deathPlace>
+<XML_Serializer_Tag>Baden-Baden</XML_Serializer_Tag>
+</deathPlace>
+<professionOrOccupation>
+<XML_Serializer_Tag>Maler</XML_Serializer_Tag>
+<XML_Serializer_Tag>Graphiker</XML_Serializer_Tag>
+<XML_Serializer_Tag>Bildhauer</XML_Serializer_Tag>
+<XML_Serializer_Tag>Bühnenbildner</XML_Serializer_Tag>
+</professionOrOccupation>
+<artworks />
+<dbpResource>http://dbpedia.org/resource/Oskar_Schlemmer</dbpResource>
+<abstract>Oskar Schlemmer (* 4. September 1888 in Stuttgart; † 13. April 1943 in Baden-Baden) war ein deutscher Maler, Bildhauer und Bühnenbildner.Schlemmer thematisierte in seinen Werken vornehmlich die Stellung der menschlichen Figur im Raum. In seiner Hauptschaffensperiode (1920–1932) entstanden zahlreiche Gemälde stereometrischer Figuren sowie ineinander greifender Figurengruppen, in deren geometrisch-choreographischer Ausgestaltung universelle Harmonisierungsbestrebungen anklingen.</abstract>
+<wikilink>http://en.wikipedia.org/wiki/Oskar_Schlemmer?oldid=606605649</wikilink>
+</Person>

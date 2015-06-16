@@ -1,0 +1,24 @@
+<Person>
+<name>Wilhelm Stumpf</name>
+<variantName />
+<thumbnail>https://de.wikipedia.org/wiki/Special:FilePath/Wilhelm_Stumpf.jpg?width=270</thumbnail>
+<birthEN>March 30, 1873</birthEN>
+<birthDE>30. März 1873</birthDE>
+<deathEN>August 27, 1928</deathEN>
+<deathDE>27. August 1928</deathDE>
+<birthPlace>
+<XML_Serializer_Tag>Weimar</XML_Serializer_Tag>
+</birthPlace>
+<deathPlace>
+<XML_Serializer_Tag>Oberstaufen</XML_Serializer_Tag>
+</deathPlace>
+<professionOrOccupation>
+<XML_Serializer_Tag>Künstler</XML_Serializer_Tag>
+<XML_Serializer_Tag>Maler</XML_Serializer_Tag>
+<XML_Serializer_Tag>Zeichner</XML_Serializer_Tag>
+</professionOrOccupation>
+<artworks />
+<dbpResource>http://dbpedia.org/resource/Wilhelm_Stumpf</dbpResource>
+<abstract>Wilhelm Ludwig Ferdinand Stumpf (* 30. März 1873 in Weimar; † 27. August 1926 in Oberstaufen) war ein deutscher Illustrator, Landschafts- und Porträtmaler.</abstract>
+<wikilink>http://en.wikipedia.org/wiki/Wilhelm_Stumpf?oldid=596691737</wikilink>
+</Person>

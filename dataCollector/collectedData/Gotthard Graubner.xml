@@ -1,0 +1,23 @@
+<Person>
+<name>Gotthard Graubner</name>
+<variantName />
+<thumbnail>https://commons.wikimedia.org/wiki/Special:FilePath/Gotthard_Graubner_by_Lothar_Wolleh.jpg?width=270</thumbnail>
+<birthEN>June 13, 1930</birthEN>
+<birthDE>13. Juni 1930</birthDE>
+<deathEN>May 24, 2013</deathEN>
+<deathDE>24. Mai 2013</deathDE>
+<birthPlace>
+<XML_Serializer_Tag>Erlbach (Vogtlandkreis)</XML_Serializer_Tag>
+</birthPlace>
+<deathPlace>
+<XML_Serializer_Tag>Neuss</XML_Serializer_Tag>
+</deathPlace>
+<professionOrOccupation>
+<XML_Serializer_Tag>Künstler</XML_Serializer_Tag>
+<XML_Serializer_Tag>Maler</XML_Serializer_Tag>
+</professionOrOccupation>
+<artworks />
+<dbpResource>http://dbpedia.org/resource/Gotthard_Graubner</dbpResource>
+<abstract>Gotthard Graubner (* 13. Juni 1930 in Erlbach, Vogtland, Sachsen; † 24. Mai 2013 in Neuss, Nordrhein-Westfalen) war ein deutscher Maler.</abstract>
+<wikilink>http://en.wikipedia.org/wiki/Gotthard_Graubner?oldid=587717131</wikilink>
+</Person>

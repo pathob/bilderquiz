@@ -1,0 +1,28 @@
+<Person>
+<name>Stefano Torelli</name>
+<variantName>
+<XML_Serializer_Tag>Stephano Torelli</XML_Serializer_Tag>
+<XML_Serializer_Tag>Step. Torelli</XML_Serializer_Tag>
+<XML_Serializer_Tag>Steph. Torelli</XML_Serializer_Tag>
+</variantName>
+<thumbnail>https://de.wikipedia.org/wiki/Special:FilePath/WP_Isaak_Franz_Egmont_von_Chasot_2.jpg?width=270</thumbnail>
+<birthEN>1712</birthEN>
+<birthDE>1712</birthDE>
+<deathEN>1784</deathEN>
+<deathDE>1784</deathDE>
+<birthPlace>
+<XML_Serializer_Tag>Bologna</XML_Serializer_Tag>
+</birthPlace>
+<deathPlace>
+<XML_Serializer_Tag>Sankt Petersburg</XML_Serializer_Tag>
+</deathPlace>
+<professionOrOccupation>
+<XML_Serializer_Tag>Künstler</XML_Serializer_Tag>
+<XML_Serializer_Tag>Maler</XML_Serializer_Tag>
+<XML_Serializer_Tag>Radierer</XML_Serializer_Tag>
+</professionOrOccupation>
+<artworks />
+<dbpResource>http://dbpedia.org/resource/Stefano_Torelli</dbpResource>
+<abstract>Stefano Torelli (* 1712 in Bologna; † 1784 in Sankt Petersburg) war ein aus der italienischen Künstlerfamilie Torelli stammender Kunstmaler, der in Deutschland und vor allem in Russland wirkte.</abstract>
+<wikilink>http://en.wikipedia.org/wiki/Stefano_Torelli?oldid=602507667</wikilink>
+</Person>

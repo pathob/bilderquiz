@@ -1,0 +1,27 @@
+<Person>
+<name>Peter Behrens</name>
+<variantName />
+<thumbnail>https://commons.wikimedia.org/wiki/Special:FilePath/Peter_Behrens,_um_1913.jpg?width=270</thumbnail>
+<birthEN>April 14, 1868</birthEN>
+<birthDE>14. April 1868</birthDE>
+<deathEN>February 27, 1940</deathEN>
+<deathDE>27. Februar 1940</deathDE>
+<birthPlace>
+<XML_Serializer_Tag>Hamburg</XML_Serializer_Tag>
+</birthPlace>
+<deathPlace>
+<XML_Serializer_Tag>Berlin</XML_Serializer_Tag>
+</deathPlace>
+<professionOrOccupation>
+<XML_Serializer_Tag>Architekt</XML_Serializer_Tag>
+<XML_Serializer_Tag>Maler</XML_Serializer_Tag>
+<XML_Serializer_Tag>Designer</XML_Serializer_Tag>
+<XML_Serializer_Tag>Schriftsetzer</XML_Serializer_Tag>
+<XML_Serializer_Tag>Kunsterzieher</XML_Serializer_Tag>
+<XML_Serializer_Tag>Hochschullehrer</XML_Serializer_Tag>
+</professionOrOccupation>
+<artworks />
+<dbpResource>http://dbpedia.org/resource/Peter_Behrens</dbpResource>
+<abstract>Peter Behrens (* 14. April 1868 in Hamburg; † 27. Februar 1940 in Berlin) war ein deutscher Architekt, Maler, Designer und Typograf und gilt als ein führender Vertreter des modernen Industriedesigns.Er war ursprünglich Maler, wurde dann als Architekt vor dem Ersten Weltkrieg zum Vorreiter der sachlichen Architektur und des modernen Industrie-Designs. Er ist insbesondere bekannt als Mitbegründer des Deutschen Werkbundes und durch seine umfassende gestalterische Tätigkeit für die AEG vor dem Ersten Weltkrieg. Er gilt als Prototyp des Industriedesigners und zugleich als Erfinder des Corporate Design, indem er bei der AEG vom Briefbogen über die Produkte, wie etwa elektrische Teekessel bis hin zu deren Fabrikbauten, alles in einem einheitlichen Sinne gestaltete. Besondere Bedeutung erlangte auch das von ihm geführte Architekturbüro, weil in ihm einige später berühmt gewordene Architekten gearbeitet haben, unter anderem Walter Gropius, Ludwig Mies van der Rohe und Le Corbusier. Er war auch für die Schriftgießerei der Gebrüder Klingspor als Schriftgestalter tätig. Hier entwarf er 1901 auch die „Behrens Antiqua“ und die „Behrens-Schrift“.</abstract>
+<wikilink>http://en.wikipedia.org/wiki/Peter_Behrens?oldid=605901290</wikilink>
+</Person>

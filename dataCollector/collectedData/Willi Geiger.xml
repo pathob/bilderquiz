@@ -1,0 +1,29 @@
+<Person>
+<name>Willi Geiger</name>
+<variantName>
+<XML_Serializer_Tag>Willy Geiger</XML_Serializer_Tag>
+<XML_Serializer_Tag>Willibald Geiger</XML_Serializer_Tag>
+</variantName>
+<thumbnail>https://commons.wikimedia.org/wiki/Special:FilePath/Geiger_Willi.JPG?width=270</thumbnail>
+<birthEN>August 27, 1878</birthEN>
+<birthDE>27. August 1878</birthDE>
+<deathEN>February 1, 1971</deathEN>
+<deathDE>1. Februar 1971</deathDE>
+<birthPlace>
+<XML_Serializer_Tag>Landshut</XML_Serializer_Tag>
+</birthPlace>
+<deathPlace>
+<XML_Serializer_Tag>München</XML_Serializer_Tag>
+</deathPlace>
+<professionOrOccupation>
+<XML_Serializer_Tag>Künstler</XML_Serializer_Tag>
+<XML_Serializer_Tag>Maler</XML_Serializer_Tag>
+<XML_Serializer_Tag>Graphiker</XML_Serializer_Tag>
+<XML_Serializer_Tag>Lithograph</XML_Serializer_Tag>
+<XML_Serializer_Tag>Radierer</XML_Serializer_Tag>
+</professionOrOccupation>
+<artworks />
+<dbpResource>http://dbpedia.org/resource/Willi_Geiger_(judge)</dbpResource>
+<abstract>Willi Geiger (* 22. Mai 1909 in Neustadt an der Weinstraße; † 19. Januar 1994 in Karlsruhe) war ein deutscher Jurist, Richter am Bundesgerichtshof und Richter des Bundesverfassungsgerichts.</abstract>
+<wikilink>http://en.wikipedia.org/wiki/Willi_Geiger_(judge)?oldid=587282300</wikilink>
+</Person>

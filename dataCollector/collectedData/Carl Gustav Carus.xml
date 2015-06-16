@@ -1,0 +1,40 @@
+<Person>
+<name>Carl Gustav Carus</name>
+<variantName>
+<XML_Serializer_Tag>C. G. Carus</XML_Serializer_Tag>
+<XML_Serializer_Tag>Carl G. Carus</XML_Serializer_Tag>
+<XML_Serializer_Tag>Karl G. Carus</XML_Serializer_Tag>
+<XML_Serializer_Tag>Karl Gustav Carus</XML_Serializer_Tag>
+<XML_Serializer_Tag>... Carus-Lessing</XML_Serializer_Tag>
+<XML_Serializer_Tag>Carolus G. Carus</XML_Serializer_Tag>
+<XML_Serializer_Tag>Carl-Gustav Carus</XML_Serializer_Tag>
+<XML_Serializer_Tag>Carolus Gustav Carus</XML_Serializer_Tag>
+<XML_Serializer_Tag>Carolus Gustavus Carus</XML_Serializer_Tag>
+<XML_Serializer_Tag>Carl Gustav Corus</XML_Serializer_Tag>
+<XML_Serializer_Tag>L. G. Carus</XML_Serializer_Tag>
+<XML_Serializer_Tag>E. G. Carus</XML_Serializer_Tag>
+</variantName>
+<thumbnail>https://commons.wikimedia.org/wiki/Special:FilePath/Carl_Gustav_Carus_Portrait.JPG?width=270</thumbnail>
+<birthEN>January 3, 1789</birthEN>
+<birthDE>3. Januar 1789</birthDE>
+<deathEN>July 28, 1869</deathEN>
+<deathDE>28. Juli 1869</deathDE>
+<birthPlace>
+<XML_Serializer_Tag>Leipzig</XML_Serializer_Tag>
+</birthPlace>
+<deathPlace>
+<XML_Serializer_Tag>Dresden</XML_Serializer_Tag>
+</deathPlace>
+<professionOrOccupation>
+<XML_Serializer_Tag>Arzt</XML_Serializer_Tag>
+<XML_Serializer_Tag>Naturwissenschaftler</XML_Serializer_Tag>
+<XML_Serializer_Tag>Maler</XML_Serializer_Tag>
+<XML_Serializer_Tag>Philosoph</XML_Serializer_Tag>
+<XML_Serializer_Tag>Psychologe</XML_Serializer_Tag>
+<XML_Serializer_Tag>Schriftsteller</XML_Serializer_Tag>
+</professionOrOccupation>
+<artworks />
+<dbpResource>http://dbpedia.org/resource/Carl_Gustav_Carus</dbpResource>
+<abstract>Carl Gustav Carus (* 3. Januar 1789 in Leipzig; † 28. Juli 1869 in Dresden; auch Karl Gustav Carus) war ein deutscher Arzt (Gynäkologe, Anatom, Pathologe, Psychologe), Maler und Naturphilosoph. In seiner Philosophie fasste er den Kosmos als von Leben durchsetztes Ganzes auf, seine Malerei verband das im Traum zugängliche Seelenleben mit der Landschaftskunst nach dem Ideal von Goethe. Er gilt als einer der vielseitigsten Universalgelehrten des 19. Jahrhunderts in Deutschland.Sein Gesamtwerk wurde 2009/2010 in zwei von wissenschaftlichen Publikationen begleiteten Ausstellungen in Dresden (Staatliche Kunstsammlungen, Galerie Neue Meister) und Berlin (Staatliche Museen zu Berlin, Alte Nationalgalerie) umfassend gewürdigt.</abstract>
+<wikilink>http://en.wikipedia.org/wiki/Carl_Gustav_Carus?oldid=588908635</wikilink>
+</Person>

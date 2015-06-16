@@ -1,0 +1,21 @@
+<Person>
+<name>Maurice Sand</name>
+<variantName>
+<XML_Serializer_Tag>Maurice Dudevant</XML_Serializer_Tag>
+</variantName>
+<thumbnail>https://commons.wikimedia.org/wiki/Special:FilePath/Maurice_Sand.jpeg?width=270</thumbnail>
+<birthEN>1823</birthEN>
+<birthDE>1823</birthDE>
+<deathEN>1889</deathEN>
+<deathDE>1889</deathDE>
+<birthPlace />
+<deathPlace />
+<professionOrOccupation>
+<XML_Serializer_Tag>Maler</XML_Serializer_Tag>
+<XML_Serializer_Tag>Schriftsteller</XML_Serializer_Tag>
+</professionOrOccupation>
+<artworks />
+<dbpResource>http://dbpedia.org/resource/Maurice_Sand</dbpResource>
+<abstract>Jean-François-Maurice-Arnauld, Baron Dudevant, bekannt als Maurice Sand (* 30. Juni 1823 in Paris; † 4. September 1889 in Nohant-Vic), war ein französischer Schriftsteller und Illustrator.</abstract>
+<wikilink>http://en.wikipedia.org/wiki/Maurice_Sand?oldid=606771401</wikilink>
+</Person>

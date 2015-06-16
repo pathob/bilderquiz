@@ -1,0 +1,25 @@
+<Person>
+<name>Aleksander Kobzdej</name>
+<variantName />
+<thumbnail>https://commons.wikimedia.org/wiki/Special:FilePath/Aleksander_Kobzdej_monument.JPG?width=270</thumbnail>
+<birthEN>September 12, 1920</birthEN>
+<birthDE>12. September 1920</birthDE>
+<deathEN>September 25, 1972</deathEN>
+<deathDE>25. September 1972</deathDE>
+<birthPlace>
+<XML_Serializer_Tag>Olesʹko</XML_Serializer_Tag>
+</birthPlace>
+<deathPlace>
+<XML_Serializer_Tag>Warschau</XML_Serializer_Tag>
+</deathPlace>
+<professionOrOccupation>
+<XML_Serializer_Tag>Maler</XML_Serializer_Tag>
+<XML_Serializer_Tag>Bühnenbildner</XML_Serializer_Tag>
+<XML_Serializer_Tag>Architekt</XML_Serializer_Tag>
+<XML_Serializer_Tag>Bildhauer</XML_Serializer_Tag>
+</professionOrOccupation>
+<artworks />
+<dbpResource>http://dbpedia.org/resource/Aleksander_Kobzdej</dbpResource>
+<abstract>Aleksander Kobzdej (* 12. September 1920 in Olesko, Ukraine; † 25. September 1972 in Warschau) war ein polnischer Maler, Bühnenbildner und Architekt.</abstract>
+<wikilink>http://en.wikipedia.org/wiki/Aleksander_Kobzdej?oldid=582774499</wikilink>
+</Person>

@@ -1,0 +1,22 @@
+<Person>
+<name>Cesare da Sesto</name>
+<variantName>
+<XML_Serializer_Tag>Cesare, da Sesto</XML_Serializer_Tag>
+<XML_Serializer_Tag>Cesare Da Sesto</XML_Serializer_Tag>
+<XML_Serializer_Tag>Cesare DaSesto</XML_Serializer_Tag>
+</variantName>
+<thumbnail>https://commons.wikimedia.org/wiki/Special:FilePath/Cesare-da-Sesto.jpg?width=270</thumbnail>
+<birthEN>1477</birthEN>
+<birthDE>1477</birthDE>
+<deathEN>1523</deathEN>
+<deathDE>1523</deathDE>
+<birthPlace />
+<deathPlace />
+<professionOrOccupation>
+<XML_Serializer_Tag>Maler</XML_Serializer_Tag>
+</professionOrOccupation>
+<artworks />
+<dbpResource>http://dbpedia.org/resource/Cesare_da_Sesto</dbpResource>
+<abstract>Cesare da Sesto (* 1477 in Sesto Calende; † 1523 in Mailand) war ein italienischer Maler der Hochrenaissance aus der Schule des Leonardo da Vinci (1452−1519).</abstract>
+<wikilink>http://en.wikipedia.org/wiki/Cesare_da_Sesto?oldid=602503184</wikilink>
+</Person>

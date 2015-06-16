@@ -1,0 +1,24 @@
+<Person>
+<name>Ferdinand Schmutzer</name>
+<variantName />
+<thumbnail>https://commons.wikimedia.org/wiki/Special:FilePath/Ferdinand_Schmutzer_selfportrait_photography.jpg?width=270</thumbnail>
+<birthEN>May 21, 1870</birthEN>
+<birthDE>21. Mai 1870</birthDE>
+<deathEN>October 26, 1928</deathEN>
+<deathDE>26. Oktober 1928</deathDE>
+<birthPlace>
+<XML_Serializer_Tag>Wien</XML_Serializer_Tag>
+</birthPlace>
+<deathPlace>
+<XML_Serializer_Tag>Wien</XML_Serializer_Tag>
+</deathPlace>
+<professionOrOccupation>
+<XML_Serializer_Tag>Künstler</XML_Serializer_Tag>
+<XML_Serializer_Tag>Maler</XML_Serializer_Tag>
+<XML_Serializer_Tag>Radierer</XML_Serializer_Tag>
+</professionOrOccupation>
+<artworks />
+<dbpResource>http://dbpedia.org/resource/Ferdinand_Schmutzer</dbpResource>
+<abstract>Ferdinand Schmutzer (* 21. Mai 1870 in Wien; † 26. Oktober 1928 ebenda) war ein österreichischer Druckgrafiker, Fotograf und Porträtmaler.</abstract>
+<wikilink>http://en.wikipedia.org/wiki/Ferdinand_Schmutzer?oldid=591064271</wikilink>
+</Person>

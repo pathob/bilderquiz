@@ -1,0 +1,24 @@
+<Person>
+<name>Otto Baumberger</name>
+<variantName />
+<thumbnail>https://en.wikipedia.org/wiki/Special:FilePath/Otto_Baumberger02.jpg?width=270</thumbnail>
+<birthEN>May 21, 1889</birthEN>
+<birthDE>21. Mai 1889</birthDE>
+<deathEN>December 26, 1961</deathEN>
+<deathDE>26. Dezember 1961</deathDE>
+<birthPlace>
+<XML_Serializer_Tag>Altstetten</XML_Serializer_Tag>
+</birthPlace>
+<deathPlace>
+<XML_Serializer_Tag>Weiningen (Zürich)</XML_Serializer_Tag>
+</deathPlace>
+<professionOrOccupation>
+<XML_Serializer_Tag>Künstler</XML_Serializer_Tag>
+<XML_Serializer_Tag>Maler</XML_Serializer_Tag>
+<XML_Serializer_Tag>Graphiker</XML_Serializer_Tag>
+</professionOrOccupation>
+<artworks />
+<dbpResource>http://dbpedia.org/resource/Otto_Baumberger</dbpResource>
+<abstract>Otto Baumberger (* 21. Mai 1889 in Altstetten; † 26. Dezember 1961 in Weiningen) war ein Zürcher Plakatkünstler, Maler und Bühnenbildner. Er gilt als Erneuerer der Schweizer Plakatkunst und wichtiger Vertreter des schweizerischen Expressionismus. Ab 1931 war er Professor an der ETH Zürich.</abstract>
+<wikilink>http://en.wikipedia.org/wiki/Otto_Baumberger?oldid=582323298</wikilink>
+</Person>

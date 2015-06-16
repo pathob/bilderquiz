@@ -1,0 +1,24 @@
+<Person>
+<name>Gotthardt Kuehl</name>
+<variantName>
+<XML_Serializer_Tag>Gotthard Kühl</XML_Serializer_Tag>
+</variantName>
+<thumbnail>https://commons.wikimedia.org/wiki/Special:FilePath/WP_Gotthardt_Kuehl.jpg?width=270</thumbnail>
+<birthEN>November 28, 1850</birthEN>
+<birthDE>28. November 1850</birthDE>
+<deathEN>January 10, 1915</deathEN>
+<deathDE>10. Januar 1915</deathDE>
+<birthPlace>
+<XML_Serializer_Tag>Lübeck</XML_Serializer_Tag>
+</birthPlace>
+<deathPlace>
+<XML_Serializer_Tag>Dresden</XML_Serializer_Tag>
+</deathPlace>
+<professionOrOccupation>
+<XML_Serializer_Tag>Maler</XML_Serializer_Tag>
+</professionOrOccupation>
+<artworks />
+<dbpResource>http://dbpedia.org/resource/Gotthardt_Kuehl</dbpResource>
+<abstract>Gotthardt Kuehl (* 28. November 1850 in Lübeck; † 9. Januar 1915 in Dresden) war ein deutscher Maler und Vertreter des frühen deutschen Impressionismus, der bereits zu Lebzeiten hohes internationales Ansehen genoss.</abstract>
+<wikilink>http://en.wikipedia.org/wiki/Gotthardt_Kuehl?oldid=606802974</wikilink>
+</Person>

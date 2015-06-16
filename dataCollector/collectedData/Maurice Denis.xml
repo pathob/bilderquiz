@@ -1,0 +1,31 @@
+<Person>
+<name>Maurice Denis</name>
+<variantName>
+<XML_Serializer_Tag>Maurice Amédée Eugène Denis</XML_Serializer_Tag>
+<XML_Serializer_Tag>Moris Deni</XML_Serializer_Tag>
+<XML_Serializer_Tag>Pierre Louis</XML_Serializer_Tag>
+</variantName>
+<thumbnail>https://commons.wikimedia.org/wiki/Special:FilePath/Maurice_Denis_par_Odlilon_Redon.jpg?width=270</thumbnail>
+<birthEN>November 25, 1870</birthEN>
+<birthDE>25. November 1870</birthDE>
+<deathEN>November 13, 1943</deathEN>
+<deathDE>13. November 1943</deathDE>
+<birthPlace>
+<XML_Serializer_Tag>Granville (Manche)</XML_Serializer_Tag>
+</birthPlace>
+<deathPlace>
+<XML_Serializer_Tag>Saint-Germain-en-Laye</XML_Serializer_Tag>
+</deathPlace>
+<professionOrOccupation>
+<XML_Serializer_Tag>Künstler</XML_Serializer_Tag>
+<XML_Serializer_Tag>Maler</XML_Serializer_Tag>
+<XML_Serializer_Tag>Graphiker</XML_Serializer_Tag>
+<XML_Serializer_Tag>Lithograph</XML_Serializer_Tag>
+<XML_Serializer_Tag>Illustrator</XML_Serializer_Tag>
+<XML_Serializer_Tag>Designer</XML_Serializer_Tag>
+</professionOrOccupation>
+<artworks />
+<dbpResource>http://dbpedia.org/resource/Maurice_Denis</dbpResource>
+<abstract>Maurice Denis (* 25. November 1870 in Granville (Manche); † 13. November 1943 in Saint-Germain-en-Laye) war ein französischer Maler des Symbolismus und Mitbegründer der Künstlergruppe Les Nabis.</abstract>
+<wikilink>http://en.wikipedia.org/wiki/Maurice_Denis?oldid=597508142</wikilink>
+</Person>

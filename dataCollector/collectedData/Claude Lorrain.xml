@@ -1,0 +1,99 @@
+<Person>
+<name>Claude Lorrain</name>
+<variantName>
+<XML_Serializer_Tag>Claude, Lorrain</XML_Serializer_Tag>
+<XML_Serializer_Tag>Claude, le Lorrain</XML_Serializer_Tag>
+<XML_Serializer_Tag>Claude Le Lorrain</XML_Serializer_Tag>
+<XML_Serializer_Tag>Claude Gellée</XML_Serializer_Tag>
+<XML_Serializer_Tag>Claude Gelée</XML_Serializer_Tag>
+<XML_Serializer_Tag>Claude de Lorrain</XML_Serializer_Tag>
+<XML_Serializer_Tag>Claude, de Lorrain</XML_Serializer_Tag>
+<XML_Serializer_Tag>Claudio, de Lorena</XML_Serializer_Tag>
+<XML_Serializer_Tag>Claudio de Lorena</XML_Serializer_Tag>
+<XML_Serializer_Tag>Claudio Lorenese</XML_Serializer_Tag>
+<XML_Serializer_Tag>Claudio, Lorenese</XML_Serializer_Tag>
+<XML_Serializer_Tag>Claude, Lorraine</XML_Serializer_Tag>
+</variantName>
+<thumbnail>https://commons.wikimedia.org/wiki/Special:FilePath/Claude_Lorrain.jpg?width=270</thumbnail>
+<birthEN>1600</birthEN>
+<birthDE>1600</birthDE>
+<deathEN>1682</deathEN>
+<deathDE>1682</deathDE>
+<birthPlace />
+<deathPlace />
+<professionOrOccupation>
+<XML_Serializer_Tag>Maler</XML_Serializer_Tag>
+</professionOrOccupation>
+<artworks>
+<XML_Serializer_Tag>
+<painting>
+<type>uri</type>
+<value>http://dbpedia.org/resource/Village_F%C3%AAte</value>
+</painting>
+<thumbnail>
+<type>uri</type>
+<value>http://commons.wikimedia.org/wiki/Special:FilePath/Claude_Lorrain_012.jpg?width=300</value>
+</thumbnail>
+<name>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>Village Fête (La Fête villageoise)</value>
+</name>
+<year>
+<type>typed-literal</type>
+<datatype>http://www.w3.org/2001/XMLSchema#integer</datatype>
+<value>1639</value>
+</year>
+<wikilink>
+<type>uri</type>
+<value>http://en.wikipedia.org/wiki/Village_Fête?oldid=588094878</value>
+</wikilink>
+</XML_Serializer_Tag>
+<XML_Serializer_Tag>
+<painting>
+<type>uri</type>
+<value>http://dbpedia.org/resource/The_Flight_into_Egypt_(Lorrain)</value>
+</painting>
+<thumbnail>
+<type>uri</type>
+<value>http://commons.wikimedia.org/wiki/Special:FilePath/The_Flight_into_Egypt_by_Claude_Lorrain.jpg?width=300</value>
+</thumbnail>
+<name>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>The Flight into Egypt</value>
+</name>
+<year>
+<type>typed-literal</type>
+<datatype>http://www.w3.org/2001/XMLSchema#integer</datatype>
+<value>1635</value>
+</year>
+<wikilink>
+<type>uri</type>
+<value>http://en.wikipedia.org/wiki/The_Flight_into_Egypt_(Lorrain)?oldid=537419126</value>
+</wikilink>
+</XML_Serializer_Tag>
+<XML_Serializer_Tag>
+<painting>
+<type>uri</type>
+<value>http://dbpedia.org/resource/The_Embarkation_of_the_Queen_of_Sheba</value>
+</painting>
+<thumbnail>
+<type>uri</type>
+<value>http://commons.wikimedia.org/wiki/Special:FilePath/Claude_Lorrain_008.jpg?width=300</value>
+</thumbnail>
+<name>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>Seaport with the Embarkation of the Queen of Sheba</value>
+</name>
+<wikilink>
+<type>uri</type>
+<value>http://en.wikipedia.org/wiki/The_Embarkation_of_the_Queen_of_Sheba?oldid=546180926</value>
+</wikilink>
+</XML_Serializer_Tag>
+</artworks>
+<dbpResource>http://dbpedia.org/resource/Claude_Lorrain</dbpResource>
+<abstract>Claude Lorrain, auch bekannt als Claude Gellée oder Claude Le Lorrain, (* 1600 in Chamagne, Lothringen; † 23. November 1682 in Rom) war ein französischer Maler des Barock, der einen eigenen lyrisch-romantischen Stil klassizistisch barocker Landschaftsmalerei entwickelte.</abstract>
+<wikilink>http://en.wikipedia.org/wiki/Claude_Lorrain?oldid=604264640</wikilink>
+</Person>

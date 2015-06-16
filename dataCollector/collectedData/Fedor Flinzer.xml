@@ -1,0 +1,31 @@
+<Person>
+<name>Fedor Flinzer</name>
+<variantName>
+<XML_Serializer_Tag>Fedor Alexis Flinzer</XML_Serializer_Tag>
+<XML_Serializer_Tag>Feodor Flinzer</XML_Serializer_Tag>
+<XML_Serializer_Tag>Theodor Flinzer</XML_Serializer_Tag>
+<XML_Serializer_Tag>Alexis Zerflin</XML_Serializer_Tag>
+<XML_Serializer_Tag>Ferd. Flinzer</XML_Serializer_Tag>
+<XML_Serializer_Tag>Ferdinand Flinzer</XML_Serializer_Tag>
+<XML_Serializer_Tag>F. Flinzer</XML_Serializer_Tag>
+</variantName>
+<thumbnail>https://de.wikipedia.org/wiki/Special:FilePath/Fedor_Flinzer_2.jpg?width=270</thumbnail>
+<birthEN>April 4, 1832</birthEN>
+<birthDE>4. April 1832</birthDE>
+<deathEN>June 14, 1911</deathEN>
+<deathDE>14. Juni 1911</deathDE>
+<birthPlace>
+<XML_Serializer_Tag>Reichenbach</XML_Serializer_Tag>
+</birthPlace>
+<deathPlace>
+<XML_Serializer_Tag>Leipzig</XML_Serializer_Tag>
+</deathPlace>
+<professionOrOccupation>
+<XML_Serializer_Tag>Maler</XML_Serializer_Tag>
+<XML_Serializer_Tag>Illustrator</XML_Serializer_Tag>
+</professionOrOccupation>
+<artworks />
+<dbpResource>http://dbpedia.org/resource/Fedor_Flinzer</dbpResource>
+<abstract>Fedor Alexis Flinzer (* 4. April 1832 in Reichenbach im Vogtland; † 14. Juni 1911 in Leipzig) war ein deutscher Autor, Pädagoge und einer der bedeutendsten Illustratoren der Gründerjahre, der als „Sächsischer Katzen-Raffael“ bezeichnet wurde.</abstract>
+<wikilink>http://en.wikipedia.org/wiki/Fedor_Flinzer?oldid=606364062</wikilink>
+</Person>

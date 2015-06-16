@@ -1,0 +1,39 @@
+<Person>
+<name>Bob Dylan</name>
+<variantName>
+<XML_Serializer_Tag>Robert Allen Zimmerman</XML_Serializer_Tag>
+<XML_Serializer_Tag>Robert Zimmerman</XML_Serializer_Tag>
+<XML_Serializer_Tag>B. Dylan</XML_Serializer_Tag>
+<XML_Serializer_Tag>Sergei Petrov</XML_Serializer_Tag>
+<XML_Serializer_Tag>Elston Gunnn</XML_Serializer_Tag>
+<XML_Serializer_Tag>Bob Landy</XML_Serializer_Tag>
+<XML_Serializer_Tag>Robert Milkwood Thomas</XML_Serializer_Tag>
+<XML_Serializer_Tag>Tedham Porterhouse</XML_Serializer_Tag>
+<XML_Serializer_Tag>Jack Frost</XML_Serializer_Tag>
+<XML_Serializer_Tag>Blind Boy Grunt</XML_Serializer_Tag>
+</variantName>
+<thumbnail>https://commons.wikimedia.org/wiki/Special:FilePath/Bob_Dylan_-_Azkena_Rock_Festival_2010_2.jpg?width=270</thumbnail>
+<birthEN>1941</birthEN>
+<birthDE>1941</birthDE>
+<deathEN />
+<deathDE />
+<birthPlace>
+<XML_Serializer_Tag>Duluth, Minn.</XML_Serializer_Tag>
+</birthPlace>
+<deathPlace />
+<professionOrOccupation>
+<XML_Serializer_Tag>Musiker</XML_Serializer_Tag>
+<XML_Serializer_Tag>Sänger</XML_Serializer_Tag>
+<XML_Serializer_Tag>Komponist</XML_Serializer_Tag>
+<XML_Serializer_Tag>Songwriter</XML_Serializer_Tag>
+<XML_Serializer_Tag>Musikproduzent</XML_Serializer_Tag>
+<XML_Serializer_Tag>Künstler</XML_Serializer_Tag>
+<XML_Serializer_Tag>Maler</XML_Serializer_Tag>
+<XML_Serializer_Tag>Schauspieler</XML_Serializer_Tag>
+<XML_Serializer_Tag>Regisseur</XML_Serializer_Tag>
+</professionOrOccupation>
+<artworks />
+<dbpResource>http://dbpedia.org/resource/Bob_Dylan</dbpResource>
+<abstract>Bob Dylan [ˈdɪlən] (* 24. Mai 1941 als Robert Allen Zimmerman in Duluth, Minnesota) ist ein US-amerikanischer Folk- und Rockmusiker und Lyriker. Der Sänger spielt Gitarre, Mundharmonika, Orgel und Klavier. Er gilt als einer der einflussreichsten Musiker des 20. Jahrhunderts.Dylan begann Ende der 1950er Jahre nach Rock ’n’ Roll-Jahren in Schülerbands als Folkmusiker und wandte sich Mitte der 1960er Jahre der Rockmusik zu. Seine Texte waren zu Beginn seines Schaffens von der Folkbewegung und einem ihrer bekanntesten Vertreter, Woody Guthrie, später auch von symbolistischen Dichtern wie Arthur Rimbaud und Charles Baudelaire, aber auch von der Bibel beeinflusst.</abstract>
+<wikilink>http://en.wikipedia.org/wiki/Bob_Dylan?oldid=606731292</wikilink>
+</Person>

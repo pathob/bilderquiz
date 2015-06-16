@@ -1,0 +1,113 @@
+<Person>
+<name>Henri de Toulouse-Lautrec</name>
+<variantName>
+<XML_Serializer_Tag>Henri Toulouse-Lautrec</XML_Serializer_Tag>
+<XML_Serializer_Tag>Henri Toulouse Lautrec</XML_Serializer_Tag>
+<XML_Serializer_Tag>Henri Marie Raymond de Toulouse-Lautrec-Monfa</XML_Serializer_Tag>
+<XML_Serializer_Tag>Henri de Toulouse Lautrec</XML_Serializer_Tag>
+<XML_Serializer_Tag>Henri de Toulouse-Lautrec</XML_Serializer_Tag>
+<XML_Serializer_Tag>Henri de T.-Lautrec</XML_Serializer_Tag>
+<XML_Serializer_Tag>Henri T.-de Lautrec</XML_Serializer_Tag>
+<XML_Serializer_Tag>Henri de Lautrec</XML_Serializer_Tag>
+<XML_Serializer_Tag>Henry de Toulouse-Lautrec</XML_Serializer_Tag>
+<XML_Serializer_Tag>Henry de Toulouse Lautrec</XML_Serializer_Tag>
+<XML_Serializer_Tag>Henry Toulouse-Lautrec</XML_Serializer_Tag>
+<XML_Serializer_Tag>Henry Toulouse Lautrec</XML_Serializer_Tag>
+<XML_Serializer_Tag>Henry de Toulouse-Lautrec</XML_Serializer_Tag>
+<XML_Serializer_Tag>Henry de T.-Lautrec</XML_Serializer_Tag>
+<XML_Serializer_Tag>Henry T.-de Lautrec</XML_Serializer_Tag>
+<XML_Serializer_Tag>Henry de Lautrec</XML_Serializer_Tag>
+<XML_Serializer_Tag>Toulouse-Lautrec</XML_Serializer_Tag>
+<XML_Serializer_Tag>Henri Marie Raymond de Toulouse-Lautrec-Monfa</XML_Serializer_Tag>
+<XML_Serializer_Tag>Henri-Marie-Raymond de Toulouse-Lautrec-Monfa</XML_Serializer_Tag>
+<XML_Serializer_Tag>Henri Raymond de Toulouse-Lautrec-Monfa</XML_Serializer_Tag>
+<XML_Serializer_Tag>Henri M. de Toulouse-Lautrec-Monfa</XML_Serializer_Tag>
+<XML_Serializer_Tag>Henri Marie Raymond de Toulouse-Lautrec</XML_Serializer_Tag>
+<XML_Serializer_Tag>Henri Raymond de Toulouse-Lautrec</XML_Serializer_Tag>
+<XML_Serializer_Tag>Henri de Toulouse-Lautrec</XML_Serializer_Tag>
+<XML_Serializer_Tag>Henri Marie Raymond De Toulouse-Lautrec-Monfa</XML_Serializer_Tag>
+<XML_Serializer_Tag>Henri Marie Raymond de Lautrec-Monfa</XML_Serializer_Tag>
+<XML_Serializer_Tag>Henri M. de Lautrec-Monfa</XML_Serializer_Tag>
+<XML_Serializer_Tag>Henri Marie Raymond De Toulouse-Lautrec</XML_Serializer_Tag>
+<XML_Serializer_Tag>Henri Marie Raymond De Toulouse-Lautrec-Monfa</XML_Serializer_Tag>
+<XML_Serializer_Tag>Henri Marie Raymond de Monfa</XML_Serializer_Tag>
+<XML_Serializer_Tag>Henri M. de Monfa</XML_Serializer_Tag>
+<XML_Serializer_Tag>Anri Tuluz-Lotrek</XML_Serializer_Tag>
+<XML_Serializer_Tag>Treclau</XML_Serializer_Tag>
+<XML_Serializer_Tag>Анри де Тулуз-Лотрек</XML_Serializer_Tag>
+<XML_Serializer_Tag>Тулуз-Лотрек, Анри де</XML_Serializer_Tag>
+<XML_Serializer_Tag>Анрі Марі Раймон де Тулуз-Лотрек</XML_Serializer_Tag>
+<XML_Serializer_Tag>Анри Мари Реймон дьо Тулуз-Лотрек-Монфа</XML_Serializer_Tag>
+<XML_Serializer_Tag>Ανρί ντε Τουλούζ-Λωτρέκ</XML_Serializer_Tag>
+</variantName>
+<thumbnail>https://commons.wikimedia.org/wiki/Special:FilePath/Photolautrec.jpg?width=270</thumbnail>
+<birthEN>November 24, 1864</birthEN>
+<birthDE>24. November 1864</birthDE>
+<deathEN>September 9, 1901</deathEN>
+<deathDE>9. September 1901</deathDE>
+<birthPlace>
+<XML_Serializer_Tag>Albi</XML_Serializer_Tag>
+</birthPlace>
+<deathPlace>
+<XML_Serializer_Tag>Schloss Malromé (Gironde)</XML_Serializer_Tag>
+</deathPlace>
+<professionOrOccupation>
+<XML_Serializer_Tag>Maler</XML_Serializer_Tag>
+<XML_Serializer_Tag>Zeichner</XML_Serializer_Tag>
+<XML_Serializer_Tag>Graphiker</XML_Serializer_Tag>
+<XML_Serializer_Tag>Lithograph</XML_Serializer_Tag>
+</professionOrOccupation>
+<artworks>
+<XML_Serializer_Tag>
+<painting>
+<type>uri</type>
+<value>http://dbpedia.org/resource/At_the_Moulin_Rouge</value>
+</painting>
+<thumbnail>
+<type>uri</type>
+<value>http://commons.wikimedia.org/wiki/Special:FilePath/Henri_de_Toulouse-Lautrec_-_At_the_Moulin_Rouge_-_Google_Art_Project.jpg?width=300</value>
+</thumbnail>
+<name>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>At the Moulin Rouge</value>
+</name>
+<year>
+<type>typed-literal</type>
+<datatype>http://www.w3.org/2001/XMLSchema#integer</datatype>
+<value>1892</value>
+</year>
+<wikilink>
+<type>uri</type>
+<value>http://en.wikipedia.org/wiki/At_the_Moulin_Rouge?oldid=599144541</value>
+</wikilink>
+</XML_Serializer_Tag>
+<XML_Serializer_Tag>
+<painting>
+<type>uri</type>
+<value>http://dbpedia.org/resource/Moulin_Rouge:_La_Goulue</value>
+</painting>
+<thumbnail>
+<type>uri</type>
+<value>http://commons.wikimedia.org/wiki/Special:FilePath/Toulouse-Lautrec,_Henri_de_-_Moulin_Rouge-La_Goulue_-_Google_Art_Project.jpg?width=300</value>
+</thumbnail>
+<name>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>Moulin Rouge: La Goulue</value>
+</name>
+<year>
+<type>typed-literal</type>
+<datatype>http://www.w3.org/2001/XMLSchema#integer</datatype>
+<value>1891</value>
+</year>
+<wikilink>
+<type>uri</type>
+<value>http://en.wikipedia.org/wiki/Moulin_Rouge:_La_Goulue?oldid=599146217</value>
+</wikilink>
+</XML_Serializer_Tag>
+</artworks>
+<dbpResource>http://dbpedia.org/resource/Henri_de_Toulouse-Lautrec</dbpResource>
+<abstract>Henri Marie Raymond de Toulouse-Lautrec-Monfa (* 24. November 1864 in Albi; † 9. September 1901 auf Schloss Malromé, Gironde) war ein französischer Maler und Grafiker des Post-Impressionismus im ausgehenden 19. Jahrhundert. Berühmt geworden ist er für die Plakate, die er unter anderem für das Pariser Varieté Moulin Rouge am Montmartre anfertigte.</abstract>
+<wikilink>http://en.wikipedia.org/wiki/Henri_de_Toulouse-Lautrec?oldid=606707610</wikilink>
+</Person>

@@ -1,0 +1,22 @@
+<Person>
+<name>Koloman Moser</name>
+<variantName>
+<XML_Serializer_Tag>Kolo Moser</XML_Serializer_Tag>
+</variantName>
+<thumbnail>https://commons.wikimedia.org/wiki/Special:FilePath/Koloman_Moser.jpg?width=270</thumbnail>
+<birthEN>1868</birthEN>
+<birthDE>1868</birthDE>
+<deathEN>1918</deathEN>
+<deathDE>1918</deathDE>
+<birthPlace />
+<deathPlace />
+<professionOrOccupation>
+<XML_Serializer_Tag>Künstler</XML_Serializer_Tag>
+<XML_Serializer_Tag>Maler</XML_Serializer_Tag>
+<XML_Serializer_Tag>Graphiker</XML_Serializer_Tag>
+</professionOrOccupation>
+<artworks />
+<dbpResource>http://dbpedia.org/resource/Koloman_Moser</dbpResource>
+<abstract>Koloman Moser (* 30. März 1868 in Wien; † 18. Oktober 1918 ebenda; auch Kolo Moser) war ein österreichischer Maler, Grafiker und Kunsthandwerker.</abstract>
+<wikilink>http://en.wikipedia.org/wiki/Koloman_Moser?oldid=601650575</wikilink>
+</Person>

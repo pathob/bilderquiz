@@ -1,0 +1,23 @@
+<Person>
+<name>Alois Kolb</name>
+<variantName />
+<thumbnail>https://de.wikipedia.org/wiki/Special:FilePath/AloisKolb.jpg?width=270</thumbnail>
+<birthEN>February 12, 1875</birthEN>
+<birthDE>12. Februar 1875</birthDE>
+<deathEN>April 5, 1942</deathEN>
+<deathDE>5. April 1942</deathDE>
+<birthPlace>
+<XML_Serializer_Tag>Wien</XML_Serializer_Tag>
+</birthPlace>
+<deathPlace>
+<XML_Serializer_Tag>Leipzig</XML_Serializer_Tag>
+</deathPlace>
+<professionOrOccupation>
+<XML_Serializer_Tag>Maler</XML_Serializer_Tag>
+<XML_Serializer_Tag>Graphiker</XML_Serializer_Tag>
+</professionOrOccupation>
+<artworks />
+<dbpResource>http://dbpedia.org/resource/Alois_Kolb</dbpResource>
+<abstract>Alois Kolb (* 2. Februar 1875 in Wien; † 5. April 1942 in Leipzig) war ein deutsch-österreichischer Radierer und Maler.</abstract>
+<wikilink>http://en.wikipedia.org/wiki/Alois_Kolb?oldid=592614729</wikilink>
+</Person>

@@ -1,0 +1,36 @@
+<Person>
+<name>Man Ray</name>
+<variantName>
+<XML_Serializer_Tag>Man Ray</XML_Serializer_Tag>
+<XML_Serializer_Tag>Man Rey</XML_Serializer_Tag>
+<XML_Serializer_Tag>Emmanuel Rudnitszky</XML_Serializer_Tag>
+<XML_Serializer_Tag>Emmanuel Radnitzky</XML_Serializer_Tag>
+<XML_Serializer_Tag>Emmanuel Radnitsky</XML_Serializer_Tag>
+<XML_Serializer_Tag>Emmanuel Radenski</XML_Serializer_Tag>
+<XML_Serializer_Tag>Emmanuel Rudnitzky</XML_Serializer_Tag>
+</variantName>
+<thumbnail>https://commons.wikimedia.org/wiki/Special:FilePath/Man_Ray_1934.jpg?width=270</thumbnail>
+<birthEN>August 27, 1890</birthEN>
+<birthDE>27. August 1890</birthDE>
+<deathEN>November 18, 1976</deathEN>
+<deathDE>18. November 1976</deathDE>
+<birthPlace>
+<XML_Serializer_Tag>Philadelphia, Pa.</XML_Serializer_Tag>
+</birthPlace>
+<deathPlace>
+<XML_Serializer_Tag>Paris</XML_Serializer_Tag>
+</deathPlace>
+<professionOrOccupation>
+<XML_Serializer_Tag>Photograph</XML_Serializer_Tag>
+<XML_Serializer_Tag>Maler</XML_Serializer_Tag>
+<XML_Serializer_Tag>Graphiker</XML_Serializer_Tag>
+<XML_Serializer_Tag>Zeichner</XML_Serializer_Tag>
+<XML_Serializer_Tag>Objektkünstler</XML_Serializer_Tag>
+<XML_Serializer_Tag>Regisseur</XML_Serializer_Tag>
+<XML_Serializer_Tag>Kameramann</XML_Serializer_Tag>
+</professionOrOccupation>
+<artworks />
+<dbpResource>http://dbpedia.org/resource/Man_Ray</dbpResource>
+<abstract>Man Ray [mæn reɪ] (* 27. August 1890 in Philadelphia, Pennsylvania; USA; † 18. November 1976 in Paris; eigentlich Emmanuel Rudnitzky oder Emmanuel Radnitzky) war ein US-amerikanischer Fotograf, Filmregisseur, Maler und Objektkünstler. Man Ray zählt zu den bedeutenden Künstlern des Dadaismus und Surrealismus, wird aber aufgrund der Vielschichtigkeit seines Werkes allgemein der Moderne zugeordnet und gilt als wichtiger Impulsgeber für die moderne Fotografie und Filmgeschichte bis hin zum Experimentalfilm. Seine zahlreichen Porträtfotografien zeitgenössischer Künstler dokumentieren die Hochphase des kulturellen Lebens im Paris der 1920er Jahre.</abstract>
+<wikilink>http://en.wikipedia.org/wiki/Man_Ray?oldid=603346548</wikilink>
+</Person>

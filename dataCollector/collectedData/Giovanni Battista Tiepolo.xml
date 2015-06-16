@@ -1,0 +1,56 @@
+<Person>
+<name>Giovanni Battista Tiepolo</name>
+<variantName>
+<XML_Serializer_Tag>Giambattista Tiepolo</XML_Serializer_Tag>
+<XML_Serializer_Tag>Giovanni B. Tiepolo</XML_Serializer_Tag>
+<XML_Serializer_Tag>Giovanni Battista Tiepoletto</XML_Serializer_Tag>
+<XML_Serializer_Tag>Giovanni Battista Chiepoletto</XML_Serializer_Tag>
+<XML_Serializer_Tag>J.-B. Tiepolo</XML_Serializer_Tag>
+<XML_Serializer_Tag>Giovanni Batista Tiepolo</XML_Serializer_Tag>
+<XML_Serializer_Tag>... Tiepolo</XML_Serializer_Tag>
+<XML_Serializer_Tag>Giovan Battista Tiepolo</XML_Serializer_Tag>
+<XML_Serializer_Tag>Gian Battista Tiepolo</XML_Serializer_Tag>
+<XML_Serializer_Tag>Giovanni Battista Teupholus</XML_Serializer_Tag>
+<XML_Serializer_Tag>Juan Bautista Tiépolo</XML_Serializer_Tag>
+<XML_Serializer_Tag>G. B. Tiepolo</XML_Serializer_Tag>
+</variantName>
+<thumbnail>https://commons.wikimedia.org/wiki/Special:FilePath/Giovanni_Battista_Tiepolo_094.jpg?width=270</thumbnail>
+<birthEN>1696</birthEN>
+<birthDE>1696</birthDE>
+<deathEN>1770</deathEN>
+<deathDE>1770</deathDE>
+<birthPlace />
+<deathPlace />
+<professionOrOccupation>
+<XML_Serializer_Tag>Maler</XML_Serializer_Tag>
+</professionOrOccupation>
+<artworks>
+<XML_Serializer_Tag>
+<painting>
+<type>uri</type>
+<value>http://dbpedia.org/resource/Scipio_Africanus_Freeing_Massiva_(painting)</value>
+</painting>
+<thumbnail>
+<type>uri</type>
+<value>http://commons.wikimedia.org/wiki/Special:FilePath/Giovanni_Battista_Tiepolo_-_Scipio_Africanus_Freeing_Massiva_-_Walters_37657.jpg?width=300</value>
+</thumbnail>
+<name>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>Scipio Africanus Freeing Massiva</value>
+</name>
+<year>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>between 1719 and 1721</value>
+</year>
+<wikilink>
+<type>uri</type>
+<value>http://en.wikipedia.org/wiki/Scipio_Africanus_Freeing_Massiva_(painting)?oldid=596916481</value>
+</wikilink>
+</XML_Serializer_Tag>
+</artworks>
+<dbpResource>http://dbpedia.org/resource/Giovanni_Battista_Tiepolo</dbpResource>
+<abstract>Giovanni Battista Tiepolo (auch Giambattista Tiepolo; * 5. März 1696 in Venedig; † 27. März 1770 in Madrid) war einer der bedeutendsten venezianischen Maler des ausklingenden Barock und des Rokoko. Sein Werk umfasst Darstellungen von Heldenepen, Historien, Opernszenen, Götterfesten und auch Altäre, bei denen er eine Vielzahl dieser Gemälde mit Putten und Amoretten bereicherte.</abstract>
+<wikilink>http://en.wikipedia.org/wiki/Giovanni_Battista_Tiepolo?oldid=602737018</wikilink>
+</Person>

@@ -1,0 +1,28 @@
+<Person>
+<name>Tony Johannot</name>
+<variantName>
+<XML_Serializer_Tag>T. Johannot</XML_Serializer_Tag>
+</variantName>
+<thumbnail>https://commons.wikimedia.org/wiki/Special:FilePath/Heinrich_Heine_1837.jpg?width=270</thumbnail>
+<birthEN>November 9, 1803</birthEN>
+<birthDE>9. November 1803</birthDE>
+<deathEN>August 4, 1852</deathEN>
+<deathDE>4. August 1852</deathDE>
+<birthPlace>
+<XML_Serializer_Tag>Offenbach</XML_Serializer_Tag>
+</birthPlace>
+<deathPlace>
+<XML_Serializer_Tag>Paris</XML_Serializer_Tag>
+</deathPlace>
+<professionOrOccupation>
+<XML_Serializer_Tag>Radierer</XML_Serializer_Tag>
+<XML_Serializer_Tag>Zeichner</XML_Serializer_Tag>
+<XML_Serializer_Tag>Lithograph</XML_Serializer_Tag>
+<XML_Serializer_Tag>Maler</XML_Serializer_Tag>
+<XML_Serializer_Tag>Graphiker</XML_Serializer_Tag>
+</professionOrOccupation>
+<artworks />
+<dbpResource>http://dbpedia.org/resource/Tony_Johannot</dbpResource>
+<abstract>Tony Johannot (* 9. November 1803 in Offenbach am Main; † 4. August 1852 in Paris) war ein französischer Radierer, Holzschnittzeichner, Lithograf, Maler und Illustrator.</abstract>
+<wikilink>http://en.wikipedia.org/wiki/Tony_Johannot?oldid=593890596</wikilink>
+</Person>

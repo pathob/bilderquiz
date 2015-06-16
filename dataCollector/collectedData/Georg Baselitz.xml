@@ -1,0 +1,30 @@
+<Person>
+<name>Georg Baselitz</name>
+<variantName>
+<XML_Serializer_Tag>Hans Georg Baselitz</XML_Serializer_Tag>
+<XML_Serializer_Tag>Hans Georg Kern</XML_Serializer_Tag>
+<XML_Serializer_Tag>Hans G. Kern</XML_Serializer_Tag>
+<XML_Serializer_Tag>Georg Kern</XML_Serializer_Tag>
+<XML_Serializer_Tag>Gkéorgk Mpázelits</XML_Serializer_Tag>
+<XML_Serializer_Tag>Siegfried Kern</XML_Serializer_Tag>
+<XML_Serializer_Tag>Hans-Georg Kern</XML_Serializer_Tag>
+</variantName>
+<thumbnail>https://commons.wikimedia.org/wiki/Special:FilePath/Georg_Baselitz_by_Lothar_Wolleh.jpg?width=270</thumbnail>
+<birthEN>1938</birthEN>
+<birthDE>1938</birthDE>
+<deathEN />
+<deathDE />
+<birthPlace>
+<XML_Serializer_Tag>Deutschbaselitz</XML_Serializer_Tag>
+</birthPlace>
+<deathPlace />
+<professionOrOccupation>
+<XML_Serializer_Tag>Maler</XML_Serializer_Tag>
+<XML_Serializer_Tag>Bildhauer</XML_Serializer_Tag>
+<XML_Serializer_Tag>Künstler</XML_Serializer_Tag>
+</professionOrOccupation>
+<artworks />
+<dbpResource>http://dbpedia.org/resource/Georg_Baselitz</dbpResource>
+<abstract>Georg Baselitz (* 23. Januar 1938 in Großbaselitz, Amtshauptmannschaft Kamenz, Sachsen; eigentlicher Name Hans-Georg Kern) ist ein deutscher Maler und Bildhauer.</abstract>
+<wikilink>http://en.wikipedia.org/wiki/Georg_Baselitz?oldid=601240375</wikilink>
+</Person>

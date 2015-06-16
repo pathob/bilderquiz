@@ -1,0 +1,28 @@
+<Person>
+<name>Emil Schumacher</name>
+<variantName>
+<XML_Serializer_Tag>Emil August Schumacher</XML_Serializer_Tag>
+</variantName>
+<thumbnail>https://commons.wikimedia.org/wiki/Special:FilePath/Emil_Schumacher.jpg?width=270</thumbnail>
+<birthEN>August 29, 1912</birthEN>
+<birthDE>29. August 1912</birthDE>
+<deathEN>October 4, 1999</deathEN>
+<deathDE>4. Oktober 1999</deathDE>
+<birthPlace>
+<XML_Serializer_Tag>Hagen</XML_Serializer_Tag>
+</birthPlace>
+<deathPlace>
+<XML_Serializer_Tag>San José, Ibiza</XML_Serializer_Tag>
+</deathPlace>
+<professionOrOccupation>
+<XML_Serializer_Tag>Künstler</XML_Serializer_Tag>
+<XML_Serializer_Tag>Maler</XML_Serializer_Tag>
+<XML_Serializer_Tag>Graphiker</XML_Serializer_Tag>
+<XML_Serializer_Tag>Keramiker</XML_Serializer_Tag>
+<XML_Serializer_Tag>Zeichner</XML_Serializer_Tag>
+</professionOrOccupation>
+<artworks />
+<dbpResource>http://dbpedia.org/resource/Emil_Schumacher</dbpResource>
+<abstract>Emil Schumacher (* 29. August 1912 in Hagen, Westfalen; † 4. Oktober 1999 in San José, Ibiza) war ein deutscher Maler und Vertreter des Informel.</abstract>
+<wikilink>http://en.wikipedia.org/wiki/Emil_Schumacher?oldid=575172213</wikilink>
+</Person>

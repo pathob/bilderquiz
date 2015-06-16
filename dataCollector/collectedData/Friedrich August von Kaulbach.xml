@@ -1,0 +1,28 @@
+<Person>
+<name>Friedrich August von Kaulbach</name>
+<variantName>
+<XML_Serializer_Tag>Friedrich August Kaulbach</XML_Serializer_Tag>
+<XML_Serializer_Tag>Fritz von Kaulbach</XML_Serializer_Tag>
+<XML_Serializer_Tag>Fritz August Kaulbach</XML_Serializer_Tag>
+<XML_Serializer_Tag>F. A. Kaulbach</XML_Serializer_Tag>
+</variantName>
+<thumbnail>https://commons.wikimedia.org/wiki/Special:FilePath/Friedrich_August_von_Kaulbach_-_Maler.jpg?width=270</thumbnail>
+<birthEN>June 2, 1850</birthEN>
+<birthDE>2. Juni 1850</birthDE>
+<deathEN>January 26, 1920</deathEN>
+<deathDE>26. Januar 1920</deathDE>
+<birthPlace>
+<XML_Serializer_Tag>München</XML_Serializer_Tag>
+</birthPlace>
+<deathPlace>
+<XML_Serializer_Tag>Ohlstadt</XML_Serializer_Tag>
+</deathPlace>
+<professionOrOccupation>
+<XML_Serializer_Tag>Künstler</XML_Serializer_Tag>
+<XML_Serializer_Tag>Maler</XML_Serializer_Tag>
+</professionOrOccupation>
+<artworks />
+<dbpResource>http://dbpedia.org/resource/Friedrich_August_von_Kaulbach</dbpResource>
+<abstract>Friedrich August von Kaulbach, auch Fritz August von Kaulbach, (* 2. Juni 1850 in München; † 26. Juli 1920 in Ohlstadt bei Murnau am Staffelsee) war ein deutscher Maler. Er war der Sohn des Historienmalers Friedrich Kaulbach und ist berühmt für seine dekorativ schwärmerischen Porträts der vornehmlich weiblichen Gesellschaft im französischen Stil des 19. Jahrhunderts.</abstract>
+<wikilink>http://en.wikipedia.org/wiki/Friedrich_August_von_Kaulbach?oldid=583145167</wikilink>
+</Person>

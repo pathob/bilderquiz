@@ -1,0 +1,32 @@
+<Person>
+<name>John Cage</name>
+<variantName>
+<XML_Serializer_Tag>... Cage</XML_Serializer_Tag>
+<XML_Serializer_Tag>Džon Kejdž</XML_Serializer_Tag>
+<XML_Serializer_Tag>Dzhon Keĭdzh</XML_Serializer_Tag>
+<XML_Serializer_Tag>Jon Kēji</XML_Serializer_Tag>
+<XML_Serializer_Tag>J. C.</XML_Serializer_Tag>
+<XML_Serializer_Tag>J. C.</XML_Serializer_Tag>
+</variantName>
+<thumbnail>https://commons.wikimedia.org/wiki/Special:FilePath/Cagecunninghamdiba-300x233.jpg?width=270</thumbnail>
+<birthEN>September 5, 1912</birthEN>
+<birthDE>5. September 1912</birthDE>
+<deathEN>August 12, 1992</deathEN>
+<deathDE>12. August 1992</deathDE>
+<birthPlace>
+<XML_Serializer_Tag>Los Angeles, Calif.</XML_Serializer_Tag>
+</birthPlace>
+<deathPlace>
+<XML_Serializer_Tag>New York, NY</XML_Serializer_Tag>
+</deathPlace>
+<professionOrOccupation>
+<XML_Serializer_Tag>Pianist</XML_Serializer_Tag>
+<XML_Serializer_Tag>Maler</XML_Serializer_Tag>
+<XML_Serializer_Tag>Komponist</XML_Serializer_Tag>
+<XML_Serializer_Tag>Mitwirkung</XML_Serializer_Tag>
+</professionOrOccupation>
+<artworks />
+<dbpResource>http://dbpedia.org/resource/John_Cage</dbpResource>
+<abstract>John Milton Cage Jr. (* 5. September 1912 in Los Angeles; † 12. August 1992 in New York City) war ein US-amerikanischer Komponist und Künstler. Mit seinen mehr als 250 Kompositionen, die häufig als Schlüsselwerke der Neuen Musik angesehen werden, gilt er als einer der weltweit einflussreichsten Komponisten des 20. Jahrhunderts. Hinzu kommen musik- und kompositionstheoretische Arbeiten von grundsätzlicher Bedeutung. Außerdem gilt Cage als Schlüsselfigur für die Ende der 1950er Jahre entstehende Happeningbewegung und als wichtiger Anreger für die Fluxusbewegung und die Neue Improvisationsmusik. Neben seinem kompositorischen Schaffen betätigte er sich auch als Maler und befasste sich mit Mykologie, der Wissenschaft von den Pilzen.</abstract>
+<wikilink>http://en.wikipedia.org/wiki/John_Cage?oldid=606546589</wikilink>
+</Person>

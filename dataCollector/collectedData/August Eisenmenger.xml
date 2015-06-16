@@ -1,0 +1,23 @@
+<Person>
+<name>August Eisenmenger</name>
+<variantName />
+<thumbnail>https://de.wikipedia.org/wiki/Special:FilePath/August_Eisenmenger_geb_1830.JPG?width=270</thumbnail>
+<birthEN>February 11, 1830</birthEN>
+<birthDE>11. Februar 1830</birthDE>
+<deathEN>December 7, 1907</deathEN>
+<deathDE>7. Dezember 1907</deathDE>
+<birthPlace>
+<XML_Serializer_Tag>Göpfritz-Breitenfeld</XML_Serializer_Tag>
+</birthPlace>
+<deathPlace>
+<XML_Serializer_Tag>Wien</XML_Serializer_Tag>
+</deathPlace>
+<professionOrOccupation>
+<XML_Serializer_Tag>Maler</XML_Serializer_Tag>
+<XML_Serializer_Tag>Lehrer</XML_Serializer_Tag>
+</professionOrOccupation>
+<artworks />
+<dbpResource>http://dbpedia.org/resource/August_Eisenmenger</dbpResource>
+<abstract>August Eisenmenger (* 11. Februar 1830 in Wien; † 7. Dezember 1907 ebenda) war ein österreichischer Historien- und Porträtmaler in der Epoche der Ringstraßen- bzw. Gründerzeit.</abstract>
+<wikilink>http://en.wikipedia.org/wiki/August_Eisenmenger?oldid=598628262</wikilink>
+</Person>

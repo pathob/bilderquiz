@@ -1,0 +1,23 @@
+<Person>
+<name>Sol LeWitt</name>
+<variantName>
+<XML_Serializer_Tag>Sol le Witt</XML_Serializer_Tag>
+<XML_Serializer_Tag>Sol Le Witt</XML_Serializer_Tag>
+<XML_Serializer_Tag>Sol Lewitt</XML_Serializer_Tag>
+</variantName>
+<thumbnail>https://commons.wikimedia.org/wiki/Special:FilePath/Black_Form_White_House.jpg?width=270</thumbnail>
+<birthEN>September 9, 1928</birthEN>
+<birthDE>9. September 1928</birthDE>
+<deathEN>April 8, 2007</deathEN>
+<deathDE>8. April 2007</deathDE>
+<birthPlace />
+<deathPlace />
+<professionOrOccupation>
+<XML_Serializer_Tag>Künstler</XML_Serializer_Tag>
+<XML_Serializer_Tag>Maler</XML_Serializer_Tag>
+</professionOrOccupation>
+<artworks />
+<dbpResource>http://dbpedia.org/resource/Sol_LeWitt</dbpResource>
+<abstract>Sol LeWitt (* 9. September 1928 in Hartford, Connecticut; † 8. April 2007 in New York) war ein US-amerikanischer Künstler des Minimalismus. Er entwickelte den Begriff Konzeptkunst (engl. Conceptual Art).</abstract>
+<wikilink>http://en.wikipedia.org/wiki/Sol_LeWitt?oldid=606594464</wikilink>
+</Person>

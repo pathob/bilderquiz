@@ -1,0 +1,25 @@
+<Person>
+<name>Frans van Mieris</name>
+<variantName>
+<XML_Serializer_Tag>Francis van Mieris</XML_Serializer_Tag>
+<XML_Serializer_Tag>Franciscus van Mieris</XML_Serializer_Tag>
+<XML_Serializer_Tag>, der Jüngere</XML_Serializer_Tag>
+<XML_Serializer_Tag>, Junior</XML_Serializer_Tag>
+</variantName>
+<thumbnail>https://commons.wikimedia.org/wiki/Special:FilePath/Frans_van_Mieris_(II),_by_Jacob_Houbraken.jpg?width=270</thumbnail>
+<birthEN>1689</birthEN>
+<birthDE>1689</birthDE>
+<deathEN>1763</deathEN>
+<deathDE>1763</deathDE>
+<birthPlace />
+<deathPlace />
+<professionOrOccupation>
+<XML_Serializer_Tag>Künstler</XML_Serializer_Tag>
+<XML_Serializer_Tag>Maler</XML_Serializer_Tag>
+<XML_Serializer_Tag>Historiker</XML_Serializer_Tag>
+</professionOrOccupation>
+<artworks />
+<dbpResource>http://dbpedia.org/resource/Frans_van_Mieris_the_Elder</dbpResource>
+<abstract>Frans van Mieris der Ältere (* 16. April 1635 in Leiden; † 12. März 1681 in Leiden, begraben in der St. Pieterskerk) war ein niederländischer Porträt-, Historien- und Genremaler. Er war ein Sohn des Goldschmieds und Diamantsetzers Jan Bastiansz. van Mieris und dessen Frau Christine Willemsdr. van Garbartijn.</abstract>
+<wikilink>http://en.wikipedia.org/wiki/Frans_van_Mieris_the_Elder?oldid=605136762</wikilink>
+</Person>

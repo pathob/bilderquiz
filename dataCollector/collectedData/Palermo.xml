@@ -1,0 +1,33 @@
+<Person>
+<name>Palermo</name>
+<variantName>
+<XML_Serializer_Tag>Peter Heisterkamp</XML_Serializer_Tag>
+<XML_Serializer_Tag>Peter Schwarze</XML_Serializer_Tag>
+<XML_Serializer_Tag>Blinky Palermo</XML_Serializer_Tag>
+<XML_Serializer_Tag>Blinky Palermo</XML_Serializer_Tag>
+<XML_Serializer_Tag>Palermo, Künstler</XML_Serializer_Tag>
+</variantName>
+<thumbnail>https://commons.wikimedia.org/wiki/Special:FilePath/Blinki_Palermo.jpg?width=270</thumbnail>
+<birthEN>June 2, 1943</birthEN>
+<birthDE>2. Juni 1943</birthDE>
+<deathEN>February 17, 1977</deathEN>
+<deathDE>17. Februar 1977</deathDE>
+<birthPlace>
+<XML_Serializer_Tag>Leipzig</XML_Serializer_Tag>
+</birthPlace>
+<deathPlace>
+<XML_Serializer_Tag>Kurumba</XML_Serializer_Tag>
+</deathPlace>
+<professionOrOccupation>
+<XML_Serializer_Tag>Künstler</XML_Serializer_Tag>
+<XML_Serializer_Tag>Maler</XML_Serializer_Tag>
+<XML_Serializer_Tag>Objektkünstler</XML_Serializer_Tag>
+<XML_Serializer_Tag>Bildhauer</XML_Serializer_Tag>
+<XML_Serializer_Tag>Zeichner</XML_Serializer_Tag>
+<XML_Serializer_Tag>Graphiker</XML_Serializer_Tag>
+</professionOrOccupation>
+<artworks />
+<dbpResource>http://dbpedia.org/resource/Blinky_Palermo</dbpResource>
+<abstract>Blinky Palermo (* 2. Juni 1943 in Leipzig; † 17. Februar 1977 in Kurumba, Malediven, ursprünglich Peter Heisterkamp) war ein deutscher Maler, Environment- und Objektkünstler.</abstract>
+<wikilink>http://en.wikipedia.org/wiki/Blinky_Palermo?oldid=599806446</wikilink>
+</Person>

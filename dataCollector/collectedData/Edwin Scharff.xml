@@ -1,0 +1,24 @@
+<Person>
+<name>Edwin Scharff</name>
+<variantName />
+<thumbnail>https://commons.wikimedia.org/wiki/Special:FilePath/Edwin_Scharff.jpg?width=270</thumbnail>
+<birthEN>1887</birthEN>
+<birthDE>1887</birthDE>
+<deathEN>1955</deathEN>
+<deathDE>1955</deathDE>
+<birthPlace>
+<XML_Serializer_Tag>Neu-Ulm</XML_Serializer_Tag>
+</birthPlace>
+<deathPlace>
+<XML_Serializer_Tag>Hamburg</XML_Serializer_Tag>
+</deathPlace>
+<professionOrOccupation>
+<XML_Serializer_Tag>Bildhauer</XML_Serializer_Tag>
+<XML_Serializer_Tag>Maler</XML_Serializer_Tag>
+<XML_Serializer_Tag>Graphiker</XML_Serializer_Tag>
+</professionOrOccupation>
+<artworks />
+<dbpResource>http://dbpedia.org/resource/Edwin_Scharff</dbpResource>
+<abstract>Edwin Paul Scharff (* 21. März 1887 in Neu-Ulm; † 18. Mai 1955 in Hamburg) war ein deutscher Bildhauer, Medailleur und Grafiker der ersten Hälfte des 20. Jahrhunderts.</abstract>
+<wikilink>http://en.wikipedia.org/wiki/Edwin_Scharff?oldid=605900161</wikilink>
+</Person>

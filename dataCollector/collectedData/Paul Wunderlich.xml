@@ -1,0 +1,29 @@
+<Person>
+<name>Paul Wunderlich</name>
+<variantName>
+<XML_Serializer_Tag>Horst Paul Friedrich Wunderlich</XML_Serializer_Tag>
+</variantName>
+<thumbnail>https://commons.wikimedia.org/wiki/Special:FilePath/Paul-wunderlich-ebw-01.jpg?width=270</thumbnail>
+<birthEN>March 10, 1927</birthEN>
+<birthDE>10. März 1927</birthDE>
+<deathEN>June 6, 2010</deathEN>
+<deathDE>6. Juni 2010</deathDE>
+<birthPlace>
+<XML_Serializer_Tag>Eberswalde</XML_Serializer_Tag>
+</birthPlace>
+<deathPlace>
+<XML_Serializer_Tag>Saint-Pierre-de-Vassols</XML_Serializer_Tag>
+</deathPlace>
+<professionOrOccupation>
+<XML_Serializer_Tag>Künstler</XML_Serializer_Tag>
+<XML_Serializer_Tag>Designer</XML_Serializer_Tag>
+<XML_Serializer_Tag>Graphiker</XML_Serializer_Tag>
+<XML_Serializer_Tag>Maler</XML_Serializer_Tag>
+<XML_Serializer_Tag>Zeichner</XML_Serializer_Tag>
+<XML_Serializer_Tag>Bildhauer</XML_Serializer_Tag>
+</professionOrOccupation>
+<artworks />
+<dbpResource>http://dbpedia.org/resource/Paul_Wunderlich</dbpResource>
+<abstract>Paul Wunderlich (* 10. März 1927 in Eberswalde; † 6. Juni 2010 in Saint-Pierre-de-Vassols, Kanton Mormoiron, Provence) war ein deutscher Maler, Zeichner, Bildhauer und Grafiker. Er gestaltete in seinen neusurrealistischen Bildern und Skulpturen überwiegend erotische Themen. Dabei bezog er sich häufig auf mythologische Sagen.</abstract>
+<wikilink>http://en.wikipedia.org/wiki/Paul_Wunderlich?oldid=569172050</wikilink>
+</Person>

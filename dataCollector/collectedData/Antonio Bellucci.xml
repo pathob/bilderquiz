@@ -1,0 +1,27 @@
+<Person>
+<name>Antonio Bellucci</name>
+<variantName>
+<XML_Serializer_Tag>Antonio Belluzzi</XML_Serializer_Tag>
+<XML_Serializer_Tag>Antonio Belucci</XML_Serializer_Tag>
+<XML_Serializer_Tag>Antonio Beluci</XML_Serializer_Tag>
+<XML_Serializer_Tag>Antonio Beluzzi</XML_Serializer_Tag>
+</variantName>
+<thumbnail>https://commons.wikimedia.org/wiki/Special:FilePath/Witley_baroque_ceiling.jpg?width=270</thumbnail>
+<birthEN>1654</birthEN>
+<birthDE>1654</birthDE>
+<deathEN>1726</deathEN>
+<deathDE>1726</deathDE>
+<birthPlace>
+<XML_Serializer_Tag>Pieve di Soligo</XML_Serializer_Tag>
+</birthPlace>
+<deathPlace>
+<XML_Serializer_Tag>Pieve di Soligo</XML_Serializer_Tag>
+</deathPlace>
+<professionOrOccupation>
+<XML_Serializer_Tag>Maler</XML_Serializer_Tag>
+</professionOrOccupation>
+<artworks />
+<dbpResource>http://dbpedia.org/resource/Antonio_Bellucci</dbpResource>
+<abstract>Antonio Bellucci (* 1654 Pieve di Soligo/Treviso; † 1726 ebd.) war ein italienischer Maler des Rokoko. Bekannt war Bellucci für seine Arbeiten in England, Deutschland und Österreich. Bellucci malte in Dalmatien bei Domenico Difnico und studierte in Venedig, wo er durch Andrea Celesti, Pietro Liberi und Antonio Zanchi beeinflusst wurde. Zeitweise lebte er in Düsseldorf am Hof des Kurfürsten Johann Wilhelm von der Pfalz, für dessen Gemäldegalerie er die Bilder Danae im Goldregen, Venus und Amor schuf.</abstract>
+<wikilink>http://en.wikipedia.org/wiki/Antonio_Bellucci?oldid=602504848</wikilink>
+</Person>

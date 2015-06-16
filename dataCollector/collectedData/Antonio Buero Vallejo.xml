@@ -1,0 +1,22 @@
+<Person>
+<name>Antonio Buero Vallejo</name>
+<variantName>
+<XML_Serializer_Tag>Antonio Buero Vallejo</XML_Serializer_Tag>
+<XML_Serializer_Tag>Antonio Buero-Vallejo</XML_Serializer_Tag>
+</variantName>
+<thumbnail>https://commons.wikimedia.org/wiki/Special:FilePath/Antonio_Buero_Vallejo.jpg?width=270</thumbnail>
+<birthEN>1916</birthEN>
+<birthDE>1916</birthDE>
+<deathEN>2000</deathEN>
+<deathDE>2000</deathDE>
+<birthPlace />
+<deathPlace />
+<professionOrOccupation>
+<XML_Serializer_Tag>Schriftsteller</XML_Serializer_Tag>
+<XML_Serializer_Tag>Maler</XML_Serializer_Tag>
+</professionOrOccupation>
+<artworks />
+<dbpResource>http://dbpedia.org/resource/Antonio_Buero_Vallejo</dbpResource>
+<abstract>Antonio Buero Vallejo (* 29. September 1916 in Guadalajara (Spanien); † 29. April 2000 in Madrid) war ein spanischer Dramenautor und Maler.</abstract>
+<wikilink>http://en.wikipedia.org/wiki/Antonio_Buero_Vallejo?oldid=577677346</wikilink>
+</Person>

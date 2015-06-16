@@ -1,0 +1,30 @@
+<Person>
+<name>Sebastiano Serlio</name>
+<variantName>
+<XML_Serializer_Tag>Sebastiano Serlius</XML_Serializer_Tag>
+<XML_Serializer_Tag>Sebastian Serlio</XML_Serializer_Tag>
+<XML_Serializer_Tag>Sebastien Serlio</XML_Serializer_Tag>
+<XML_Serializer_Tag>Sabastiano Serlio</XML_Serializer_Tag>
+<XML_Serializer_Tag>Sebastiano Serglio</XML_Serializer_Tag>
+<XML_Serializer_Tag>Sebastianus Serlius</XML_Serializer_Tag>
+</variantName>
+<thumbnail>https://commons.wikimedia.org/wiki/Special:FilePath/Serlio_5_orders_peake.png?width=270</thumbnail>
+<birthEN>September 6, 1475</birthEN>
+<birthDE>6. September 1475</birthDE>
+<deathEN>XX.XX1554</deathEN>
+<deathDE>XX.XX1554</deathDE>
+<birthPlace>
+<XML_Serializer_Tag>Bologna</XML_Serializer_Tag>
+</birthPlace>
+<deathPlace>
+<XML_Serializer_Tag>Fontainebleau</XML_Serializer_Tag>
+</deathPlace>
+<professionOrOccupation>
+<XML_Serializer_Tag>Baumeister</XML_Serializer_Tag>
+<XML_Serializer_Tag>Maler</XML_Serializer_Tag>
+</professionOrOccupation>
+<artworks />
+<dbpResource>http://dbpedia.org/resource/Sebastiano_Serlio</dbpResource>
+<abstract>Sebastiano Serlio (* 6. September 1475 in Bologna; † ca. 1554 in Fontainebleau) war ein italienischer Architekt und Architekturtheoretiker. Durch seinen Traktat Sieben Bücher zur Architektur wurde er zu einem der einflussreichsten Architekturschriftsteller des 16. Jahrhunderts.</abstract>
+<wikilink>http://en.wikipedia.org/wiki/Sebastiano_Serlio?oldid=603077879</wikilink>
+</Person>

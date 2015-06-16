@@ -1,0 +1,23 @@
+<Person>
+<name>Peter von Hess</name>
+<variantName>
+<XML_Serializer_Tag>Peter Hess</XML_Serializer_Tag>
+</variantName>
+<thumbnail>https://commons.wikimedia.org/wiki/Special:FilePath/Peter_von_Hess_-_Maler.jpg?width=270</thumbnail>
+<birthEN>July 29, 1792</birthEN>
+<birthDE>29. Juli 1792</birthDE>
+<deathEN>April 4, 1871</deathEN>
+<deathDE>4. April 1871</deathDE>
+<birthPlace>
+<XML_Serializer_Tag>Düsseldorf</XML_Serializer_Tag>
+</birthPlace>
+<deathPlace />
+<professionOrOccupation>
+<XML_Serializer_Tag>Künstler</XML_Serializer_Tag>
+<XML_Serializer_Tag>Maler</XML_Serializer_Tag>
+</professionOrOccupation>
+<artworks />
+<dbpResource>http://dbpedia.org/resource/Peter_von_Hess</dbpResource>
+<abstract>Peter von Hess (* 29. Juli 1792 in Düsseldorf; † 4. April 1871 in München) war ein deutscher Maler.</abstract>
+<wikilink>http://en.wikipedia.org/wiki/Peter_von_Hess?oldid=606308201</wikilink>
+</Person>

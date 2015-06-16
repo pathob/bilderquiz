@@ -1,0 +1,247 @@
+<Person>
+<name>Tintoretto</name>
+<variantName>
+<XML_Serializer_Tag>Jacopo Tintoretto</XML_Serializer_Tag>
+<XML_Serializer_Tag>Jacopo Robusti</XML_Serializer_Tag>
+<XML_Serializer_Tag>Iacopo Robusti</XML_Serializer_Tag>
+<XML_Serializer_Tag>Jacopo R. Tintoretto</XML_Serializer_Tag>
+<XML_Serializer_Tag>Tintoret</XML_Serializer_Tag>
+<XML_Serializer_Tag>Le Tintoret</XML_Serializer_Tag>
+<XML_Serializer_Tag>Le Tintoret</XML_Serializer_Tag>
+<XML_Serializer_Tag>Jacopo Robusti Tintoretto</XML_Serializer_Tag>
+<XML_Serializer_Tag>Jacomo Tintoretto</XML_Serializer_Tag>
+<XML_Serializer_Tag>Jacopo Tintoret</XML_Serializer_Tag>
+<XML_Serializer_Tag>... il Tintoretto</XML_Serializer_Tag>
+<XML_Serializer_Tag>... Tintoretto</XML_Serializer_Tag>
+<XML_Serializer_Tag>Giacomo Tintoretto</XML_Serializer_Tag>
+<XML_Serializer_Tag>Giacopo Robusti</XML_Serializer_Tag>
+<XML_Serializer_Tag>Jacobo Tintoretto</XML_Serializer_Tag>
+<XML_Serializer_Tag>Jacomo Tentor</XML_Serializer_Tag>
+<XML_Serializer_Tag>Jacopo RobustiTintoretto</XML_Serializer_Tag>
+</variantName>
+<thumbnail>https://commons.wikimedia.org/wiki/Special:FilePath/Jacopo_Tintoretto_031-2.jpg?width=270</thumbnail>
+<birthEN>1518</birthEN>
+<birthDE>1518</birthDE>
+<deathEN>May 31, 1594</deathEN>
+<deathDE>31. Mai 1594</deathDE>
+<birthPlace>
+<XML_Serializer_Tag>Venedig</XML_Serializer_Tag>
+</birthPlace>
+<deathPlace>
+<XML_Serializer_Tag>Venedig</XML_Serializer_Tag>
+</deathPlace>
+<professionOrOccupation>
+<XML_Serializer_Tag>Maler</XML_Serializer_Tag>
+</professionOrOccupation>
+<artworks>
+<XML_Serializer_Tag>
+<painting>
+<type>uri</type>
+<value>http://dbpedia.org/resource/Miracle_of_the_Slave_(Tintoretto)</value>
+</painting>
+<thumbnail>
+<type>uri</type>
+<value>http://commons.wikimedia.org/wiki/Special:FilePath/Jacopo_Tintoretto_-_The_Miracle_of_St_Mark_Freeing_the_Slave_-_WGA22480.jpg?width=300</value>
+</thumbnail>
+<name>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>Miracle of the Slave</value>
+</name>
+<year>
+<type>typed-literal</type>
+<datatype>http://www.w3.org/2001/XMLSchema#integer</datatype>
+<value>1548</value>
+</year>
+<wikilink>
+<type>uri</type>
+<value>http://en.wikipedia.org/wiki/Miracle_of_the_Slave_(Tintoretto)?oldid=590149121</value>
+</wikilink>
+</XML_Serializer_Tag>
+<XML_Serializer_Tag>
+<painting>
+<type>uri</type>
+<value>http://dbpedia.org/resource/Last_Supper_(Tintoretto)</value>
+</painting>
+<thumbnail>
+<type>uri</type>
+<value>http://commons.wikimedia.org/wiki/Special:FilePath/Jacopo_Tintoretto_-_The_Last_Supper_-_WGA22649.jpg?width=300</value>
+</thumbnail>
+<name>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>Last Supper</value>
+</name>
+<year>
+<type>typed-literal</type>
+<datatype>http://www.w3.org/2001/XMLSchema#integer</datatype>
+<value>1592</value>
+</year>
+<wikilink>
+<type>uri</type>
+<value>http://en.wikipedia.org/wiki/Last_Supper_(Tintoretto)?oldid=599983206</value>
+</wikilink>
+</XML_Serializer_Tag>
+<XML_Serializer_Tag>
+<painting>
+<type>uri</type>
+<value>http://dbpedia.org/resource/Christ_Washing_the_Disciples&apos;_Feet_(Tintoretto)</value>
+</painting>
+<thumbnail>
+<type>uri</type>
+<value>http://commons.wikimedia.org/wiki/Special:FilePath/El_Lavatorio_(Tintoretto).jpg?width=300</value>
+</thumbnail>
+<name>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>Christ Washing the Disciples&apos; Feet</value>
+</name>
+<year>
+<type>typed-literal</type>
+<datatype>http://www.w3.org/2001/XMLSchema#integer</datatype>
+<value>1548</value>
+</year>
+<wikilink>
+<type>uri</type>
+<value>http://en.wikipedia.org/wiki/Christ_Washing_the_Disciples&apos;_Feet_(Tintoretto)?oldid=596718887</value>
+</wikilink>
+</XML_Serializer_Tag>
+<XML_Serializer_Tag>
+<painting>
+<type>uri</type>
+<value>http://dbpedia.org/resource/Christ_Washing_the_Disciples&apos;_Feet_(Tintoretto)</value>
+</painting>
+<thumbnail>
+<type>uri</type>
+<value>http://commons.wikimedia.org/wiki/Special:FilePath/El_Lavatorio_(Tintoretto).jpg?width=300</value>
+</thumbnail>
+<name>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>Christ Washing the Disciples&apos; Feet</value>
+</name>
+<year>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>c. 1575–1580</value>
+</year>
+<wikilink>
+<type>uri</type>
+<value>http://en.wikipedia.org/wiki/Christ_Washing_the_Disciples&apos;_Feet_(Tintoretto)?oldid=596718887</value>
+</wikilink>
+</XML_Serializer_Tag>
+<XML_Serializer_Tag>
+<painting>
+<type>uri</type>
+<value>http://dbpedia.org/resource/The_Origin_of_the_Milky_Way_(Tintoretto)</value>
+</painting>
+<thumbnail>
+<type>uri</type>
+<value>http://commons.wikimedia.org/wiki/Special:FilePath/Jacopo_Tintoretto_011.jpg?width=300</value>
+</thumbnail>
+<name>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>Origin of the Milky Way</value>
+</name>
+<year>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>ca. 1575–1580</value>
+</year>
+<wikilink>
+<type>uri</type>
+<value>http://en.wikipedia.org/wiki/The_Origin_of_the_Milky_Way_(Tintoretto)?oldid=603044468</value>
+</wikilink>
+</XML_Serializer_Tag>
+<XML_Serializer_Tag>
+<painting>
+<type>uri</type>
+<value>http://dbpedia.org/resource/The_Siege_of_Asola</value>
+</painting>
+<thumbnail>
+<type>uri</type>
+<value>http://en.wikipedia.org/wiki/Special:FilePath/Assedio_di_asola.jpg?width=300</value>
+</thumbnail>
+<name>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>The Siege of Asola</value>
+</name>
+<year>
+<type>typed-literal</type>
+<datatype>http://www.w3.org/2001/XMLSchema#integer</datatype>
+<value>1544</value>
+</year>
+<wikilink>
+<type>uri</type>
+<value>http://en.wikipedia.org/wiki/The_Siege_of_Asola?oldid=599274019</value>
+</wikilink>
+</XML_Serializer_Tag>
+<XML_Serializer_Tag>
+<painting>
+<type>uri</type>
+<value>http://dbpedia.org/resource/Saint_George_and_the_Dragon_(Tintoretto)</value>
+</painting>
+<thumbnail>
+<type>uri</type>
+<value>http://commons.wikimedia.org/wiki/Special:FilePath/Jacopo_Tintoretto_010.jpg?width=300</value>
+</thumbnail>
+<name>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>Saint George and the Dragon</value>
+</name>
+<year>
+<type>typed-literal</type>
+<datatype>http://www.w3.org/2001/XMLSchema#integer</datatype>
+<value>1558</value>
+</year>
+<wikilink>
+<type>uri</type>
+<value>http://en.wikipedia.org/wiki/Saint_George_and_the_Dragon_(Tintoretto)?oldid=551932164</value>
+</wikilink>
+</XML_Serializer_Tag>
+<XML_Serializer_Tag>
+<painting>
+<type>uri</type>
+<value>http://dbpedia.org/resource/Finding_of_the_body_of_St_Mark</value>
+</painting>
+<thumbnail>
+<type>uri</type>
+<value>http://commons.wikimedia.org/wiki/Special:FilePath/Jacopo_Tintoretto_001.jpg?width=300</value>
+</thumbnail>
+<name>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>Finding of the body of St Mark</value>
+</name>
+<wikilink>
+<type>uri</type>
+<value>http://en.wikipedia.org/wiki/Finding_of_the_body_of_St_Mark?oldid=546243655</value>
+</wikilink>
+</XML_Serializer_Tag>
+<XML_Serializer_Tag>
+<painting>
+<type>uri</type>
+<value>http://dbpedia.org/resource/St_Mark&apos;s_Body_Brought_to_Venice</value>
+</painting>
+<thumbnail>
+<type>uri</type>
+<value>http://commons.wikimedia.org/wiki/Special:FilePath/Jacopo_Tintoretto_004.jpg?width=300</value>
+</thumbnail>
+<name>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>St Mark&apos;s Body Brought to Venice</value>
+</name>
+<wikilink>
+<type>uri</type>
+<value>http://en.wikipedia.org/wiki/St_Mark&apos;s_Body_Brought_to_Venice?oldid=573987107</value>
+</wikilink>
+</XML_Serializer_Tag>
+</artworks>
+<dbpResource>http://dbpedia.org/resource/Tintoretto</dbpResource>
+<abstract>Jacopo Robusti, gen. Jacopo Tintoretto (* 29. September 1518 in Venedig; † 31. Mai 1594 ebenda), war ein italienischer Maler. Sein Name Il Tintoretto („das Färberlein“) ist vom Handwerk seines Vaters abgeleitet. Sein Vater hieß, wie erst jüngst entdeckt wurde, wahrscheinlich Giovan Batista Comin und erhielt wegen der heldenhaften Verteidigung eines Stadttors von Padua 1509 den Ehrennahmen Robusti.Jacopo Tintoretto war wiederum der Vater der Malerin Marietta Robusti, genannt „La Tintoretta“, und der Maler Domenico Tintoretto und Marco Tintoretto. Nachdem Marietta, Domenico und Marco Robusti gestorben waren, erbte deren Schwester Ottavia als Haupterbin die Werkstatt und heiratete auf Weisung ihrer Brüder den deutschstämmigen Maler Sebastian Casser, der in der Tintorettowerkstatt ausgebildet worden war.</abstract>
+<wikilink>http://en.wikipedia.org/wiki/Tintoretto?oldid=605355701</wikilink>
+</Person>

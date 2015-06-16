@@ -1,0 +1,26 @@
+<Person>
+<name>Ferdinand Piloty</name>
+<variantName>
+<XML_Serializer_Tag>, der Jüngere</XML_Serializer_Tag>
+</variantName>
+<thumbnail>https://commons.wikimedia.org/wiki/Special:FilePath/De_20_jarige_Ludwig_II_in_kroningsmantel_door_Ferdinand_von_Piloty_1865.jpg?width=270</thumbnail>
+<birthEN>October 9, 1828</birthEN>
+<birthDE>9. Oktober 1828</birthDE>
+<deathEN>December 21, 1895</deathEN>
+<deathDE>21. Dezember 1895</deathDE>
+<birthPlace>
+<XML_Serializer_Tag>München</XML_Serializer_Tag>
+</birthPlace>
+<deathPlace>
+<XML_Serializer_Tag>München</XML_Serializer_Tag>
+</deathPlace>
+<professionOrOccupation>
+<XML_Serializer_Tag>Künstler</XML_Serializer_Tag>
+<XML_Serializer_Tag>Maler</XML_Serializer_Tag>
+<XML_Serializer_Tag>Zeichner</XML_Serializer_Tag>
+</professionOrOccupation>
+<artworks />
+<dbpResource>http://dbpedia.org/resource/Ferdinand_Piloty</dbpResource>
+<abstract>Ferdinand Piloty (der Ältere) (* 28. August 1786 in Homburg; † 8. Januar 1844 in München) war ein deutscher Lithograf.</abstract>
+<wikilink>http://en.wikipedia.org/wiki/Ferdinand_Piloty?oldid=590951133</wikilink>
+</Person>

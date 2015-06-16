@@ -1,0 +1,24 @@
+<Person>
+<name>Reinhold Begas</name>
+<variantName />
+<thumbnail>https://commons.wikimedia.org/wiki/Special:FilePath/Jacob_Hilsdorf_-_Reinhold_Begas.jpg?width=270</thumbnail>
+<birthEN>July 15, 1831</birthEN>
+<birthDE>15. Juli 1831</birthDE>
+<deathEN>August 3, 1911</deathEN>
+<deathDE>3. August 1911</deathDE>
+<birthPlace>
+<XML_Serializer_Tag>Berlin</XML_Serializer_Tag>
+</birthPlace>
+<deathPlace>
+<XML_Serializer_Tag>Berlin</XML_Serializer_Tag>
+</deathPlace>
+<professionOrOccupation>
+<XML_Serializer_Tag>Künstler</XML_Serializer_Tag>
+<XML_Serializer_Tag>Maler</XML_Serializer_Tag>
+<XML_Serializer_Tag>Bildhauer</XML_Serializer_Tag>
+</professionOrOccupation>
+<artworks />
+<dbpResource>http://dbpedia.org/resource/Reinhold_Begas</dbpResource>
+<abstract>Reinhold Begas (* 15. Juli 1831 in Schöneberg; † 3. August 1911 ebenda) war ein deutscher Bildhauer. Er war der Sohn des Malers Carl Joseph Begas und gilt als Hauptvertreter der neobarocken Berliner Bildhauerschule.</abstract>
+<wikilink>http://en.wikipedia.org/wiki/Reinhold_Begas?oldid=605926733</wikilink>
+</Person>

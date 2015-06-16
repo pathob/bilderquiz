@@ -1,0 +1,21 @@
+<Person>
+<name>Josef Danhauser</name>
+<variantName>
+<XML_Serializer_Tag>Joseph Danhauser</XML_Serializer_Tag>
+<XML_Serializer_Tag>Jos. Danhauser</XML_Serializer_Tag>
+</variantName>
+<thumbnail>https://commons.wikimedia.org/wiki/Special:FilePath/Friedrich_von_Amerling,_Josef_Danhauser.jpg?width=270</thumbnail>
+<birthEN>1805</birthEN>
+<birthDE>1805</birthDE>
+<deathEN>1845</deathEN>
+<deathDE>1845</deathDE>
+<birthPlace />
+<deathPlace />
+<professionOrOccupation>
+<XML_Serializer_Tag>Maler</XML_Serializer_Tag>
+</professionOrOccupation>
+<artworks />
+<dbpResource>http://dbpedia.org/resource/Josef_Danhauser</dbpResource>
+<abstract>Josef Franz Danhauser (* 18. August 1805 in Wien; † 4. Mai 1845 ebenda) war ein österreichischer Maler und Grafiker der Biedermeierzeit.</abstract>
+<wikilink>http://en.wikipedia.org/wiki/Josef_Danhauser?oldid=570911594</wikilink>
+</Person>

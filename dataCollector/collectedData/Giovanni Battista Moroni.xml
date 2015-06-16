@@ -1,0 +1,23 @@
+<Person>
+<name>Giovanni Battista Moroni</name>
+<variantName>
+<XML_Serializer_Tag>Giovan Battista Moroni</XML_Serializer_Tag>
+<XML_Serializer_Tag>Gianbattista Moroni</XML_Serializer_Tag>
+<XML_Serializer_Tag>Giovanni B. Moroni</XML_Serializer_Tag>
+<XML_Serializer_Tag>Giovan B. Moroni</XML_Serializer_Tag>
+</variantName>
+<thumbnail>https://commons.wikimedia.org/wiki/Special:FilePath/Giovanni_Battista_Moroni_001.jpg?width=270</thumbnail>
+<birthEN>1523</birthEN>
+<birthDE>1523</birthDE>
+<deathEN>1578</deathEN>
+<deathDE>1578</deathDE>
+<birthPlace />
+<deathPlace />
+<professionOrOccupation>
+<XML_Serializer_Tag>Maler</XML_Serializer_Tag>
+</professionOrOccupation>
+<artworks />
+<dbpResource>http://dbpedia.org/resource/Giovanni_Battista_Moroni</dbpResource>
+<abstract>Giovanni Battista Moroni (* zwischen 1521 und 1524 in Albino; † um 1580) war ein italienischer Maler der Renaissance. Moroni malte hauptsächlich Portraits. Er erlangte bereits zu Lebzeiten Berühmtheit, wurde aber besonders im 19. Jahrhundert in England geschätzt, wo sich auch heute noch in der National Gallery die größte Sammlung seiner Werke außerhalb Italiens befindet.</abstract>
+<wikilink>http://en.wikipedia.org/wiki/Giovanni_Battista_Moroni?oldid=602500294</wikilink>
+</Person>

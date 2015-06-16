@@ -1,0 +1,23 @@
+<Person>
+<name>Caspar Netscher</name>
+<variantName>
+<XML_Serializer_Tag>Gaspar Netscher</XML_Serializer_Tag>
+<XML_Serializer_Tag>Gaspard Netscher</XML_Serializer_Tag>
+<XML_Serializer_Tag>Kaspar Netscher</XML_Serializer_Tag>
+</variantName>
+<thumbnail>https://commons.wikimedia.org/wiki/Special:FilePath/Caspar_Netscher_003.jpg?width=270</thumbnail>
+<birthEN>1635</birthEN>
+<birthDE>1635</birthDE>
+<deathEN>1684</deathEN>
+<deathDE>1684</deathDE>
+<birthPlace />
+<deathPlace />
+<professionOrOccupation>
+<XML_Serializer_Tag>Künstler</XML_Serializer_Tag>
+<XML_Serializer_Tag>Maler</XML_Serializer_Tag>
+</professionOrOccupation>
+<artworks />
+<dbpResource>http://dbpedia.org/resource/Caspar_Netscher</dbpResource>
+<abstract>Caspar Netscher (* 1639 in Heidelberg; † 15. Januar 1684 in Den Haag) war ein Porträt- und Genremaler.</abstract>
+<wikilink>http://en.wikipedia.org/wiki/Caspar_Netscher?oldid=592040113</wikilink>
+</Person>

@@ -1,0 +1,25 @@
+<Person>
+<name>Josef Block</name>
+<variantName>
+<XML_Serializer_Tag>Joseph Block</XML_Serializer_Tag>
+</variantName>
+<thumbnail>https://commons.wikimedia.org/wiki/Special:FilePath/Block_und_hauptmann.jpg?width=270</thumbnail>
+<birthEN>November 27, 1863</birthEN>
+<birthDE>27. November 1863</birthDE>
+<deathEN>December 20, 1943</deathEN>
+<deathDE>20. Dezember 1943</deathDE>
+<birthPlace>
+<XML_Serializer_Tag>Bernstadt (Niederschlesien)</XML_Serializer_Tag>
+</birthPlace>
+<deathPlace>
+<XML_Serializer_Tag>Berlin</XML_Serializer_Tag>
+</deathPlace>
+<professionOrOccupation>
+<XML_Serializer_Tag>Künstler</XML_Serializer_Tag>
+<XML_Serializer_Tag>Maler</XML_Serializer_Tag>
+</professionOrOccupation>
+<artworks />
+<dbpResource>http://dbpedia.org/resource/Josef_Block</dbpResource>
+<abstract>Joseph Block (auch Josef) (* 27. November 1863 in Bernstadt, Schlesien; † 20. Dezember 1943 in Berlin) war ein deutscher Maler.</abstract>
+<wikilink>http://en.wikipedia.org/wiki/Josef_Block?oldid=603637666</wikilink>
+</Person>

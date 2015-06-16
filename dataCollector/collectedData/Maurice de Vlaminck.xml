@@ -1,0 +1,31 @@
+<Person>
+<name>Maurice de Vlaminck</name>
+<variantName>
+<XML_Serializer_Tag>Maurice Devlaminck</XML_Serializer_Tag>
+<XML_Serializer_Tag>Maurice De Vlaminck</XML_Serializer_Tag>
+<XML_Serializer_Tag>Maurice Vlaminck</XML_Serializer_Tag>
+<XML_Serializer_Tag>M. de Vlaminck</XML_Serializer_Tag>
+<XML_Serializer_Tag>... Vlaminck</XML_Serializer_Tag>
+</variantName>
+<thumbnail>https://en.wikipedia.org/wiki/Special:FilePath/SeineChatou.JPG?width=270</thumbnail>
+<birthEN>April 4, 1876</birthEN>
+<birthDE>4. April 1876</birthDE>
+<deathEN>October 11, 1958</deathEN>
+<deathDE>11. Oktober 1958</deathDE>
+<birthPlace>
+<XML_Serializer_Tag>Paris</XML_Serializer_Tag>
+</birthPlace>
+<deathPlace>
+<XML_Serializer_Tag>Rueil-la-Gadelière</XML_Serializer_Tag>
+</deathPlace>
+<professionOrOccupation>
+<XML_Serializer_Tag>Künstler</XML_Serializer_Tag>
+<XML_Serializer_Tag>Maler</XML_Serializer_Tag>
+<XML_Serializer_Tag>Graphiker</XML_Serializer_Tag>
+<XML_Serializer_Tag>Schriftsteller</XML_Serializer_Tag>
+</professionOrOccupation>
+<artworks />
+<dbpResource>http://dbpedia.org/resource/Maurice_de_Vlaminck</dbpResource>
+<abstract>Maurice de Vlaminck (* 4. April 1876 in Paris; † 11. Oktober 1958 in Rueil-la-Gadelière, Département Eure-et-Loir) war ein französischer Maler, Grafiker und Autor. Maurice de Vlaminck war Mitglied der „Fauves“.</abstract>
+<wikilink>http://en.wikipedia.org/wiki/Maurice_de_Vlaminck?oldid=605415766</wikilink>
+</Person>

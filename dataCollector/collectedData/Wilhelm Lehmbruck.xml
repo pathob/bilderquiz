@@ -1,0 +1,23 @@
+<Person>
+<name>Wilhelm Lehmbruck</name>
+<variantName>
+<XML_Serializer_Tag>Vilʹgelʹm Lembruk</XML_Serializer_Tag>
+<XML_Serializer_Tag>Viruherumu Rēmuburukku</XML_Serializer_Tag>
+</variantName>
+<thumbnail>https://commons.wikimedia.org/wiki/Special:FilePath/Wilhelm_Lehmbruck,_Selbstbildnis,_1902.jpg?width=270</thumbnail>
+<birthEN>January 4, 1881</birthEN>
+<birthDE>4. Januar 1881</birthDE>
+<deathEN>March 25, 1919</deathEN>
+<deathDE>25. März 1919</deathDE>
+<birthPlace />
+<deathPlace />
+<professionOrOccupation>
+<XML_Serializer_Tag>Bildhauer</XML_Serializer_Tag>
+<XML_Serializer_Tag>Maler</XML_Serializer_Tag>
+<XML_Serializer_Tag>Graphiker</XML_Serializer_Tag>
+</professionOrOccupation>
+<artworks />
+<dbpResource>http://dbpedia.org/resource/Wilhelm_Lehmbruck</dbpResource>
+<abstract>Wilhelm Lehmbruck (* 4. Januar 1881 in Meiderich bei Duisburg; † 25. März 1919 in Berlin) war ein deutscher Bildhauer und Grafiker.</abstract>
+<wikilink>http://en.wikipedia.org/wiki/Wilhelm_Lehmbruck?oldid=605074465</wikilink>
+</Person>

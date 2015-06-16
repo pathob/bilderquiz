@@ -1,0 +1,153 @@
+<Person>
+<name>Thomas Gainsborough</name>
+<variantName />
+<thumbnail>https://commons.wikimedia.org/wiki/Special:FilePath/Thomas_Gainsborough_by_Thomas_Gainsborough.jpg?width=270</thumbnail>
+<birthEN>1727</birthEN>
+<birthDE>1727</birthDE>
+<deathEN>1788</deathEN>
+<deathDE>1788</deathDE>
+<birthPlace />
+<deathPlace>
+<XML_Serializer_Tag>London</XML_Serializer_Tag>
+</deathPlace>
+<professionOrOccupation>
+<XML_Serializer_Tag>Maler</XML_Serializer_Tag>
+<XML_Serializer_Tag>Graphiker</XML_Serializer_Tag>
+<XML_Serializer_Tag>Zeichner</XML_Serializer_Tag>
+</professionOrOccupation>
+<artworks>
+<XML_Serializer_Tag>
+<painting>
+<type>uri</type>
+<value>http://dbpedia.org/resource/The_Blue_Boy</value>
+</painting>
+<thumbnail>
+<type>uri</type>
+<value>http://commons.wikimedia.org/wiki/Special:FilePath/Thomas_Gainsborough_008.jpg?width=300</value>
+</thumbnail>
+<name>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>The Blue Boy</value>
+</name>
+<year>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>circa 1770</value>
+</year>
+<abstract>
+<type>literal</type>
+<xml:lang>de</xml:lang>
+<value>The Blue Boy (um 1770, dt. Knabe in Blau) ist ein Ölgemälde von Thomas Gainsborough, das sich im Besitz der Huntington Bibliothek in San Marino, Kalifornien, befindet. Das Porträt zeigt Jonathan Buttall, den Sohn eines reichen Eisenwarenhändlers, und ist heute weltweit Gainsboroughs bekanntestes Werk. Das Gemälde ist nicht nur Porträt, sondern auch eine historische Studie - die Kleidung entspricht dem frühen 17. Jahrhundert, nicht dem 18., in dem das Bild entstand. Der Maler huldigte damit dem Bildnis eines in Rot gekleideten Knaben seines berühmten barocken Kollegen Anthonis van Dyck, den er verehrte. Die Farbe Blau, so heißt es, sei ins Bild gekommen, da Gainsborough seinem Rivalen Joshua Reynolds habe beweisen wollen, dass sich diese Farbe auch zentral in einem Porträt verwenden lasse, was Reynolds bestritten haben soll.Seit etwa 1809 befand sich das Bild in der Sammlung des Earl of Grosvenor und seiner Erben, bis es Robert Grosvenor, Herzog von Westminster, im Jahre 1921 an den Kunsthändler Joseph Duveen verkaufte, der es wiederum an den amerikanischen Eisenbahn-Pionier Henry Edwards Huntington veräußerte. Gegen den Export gab es Proteste. Der Preis von £182.200 war zum damaligen Zeitpunkt der höchste je für ein Bild gezahlte. Bevor das Gemälde im Jahr 1922 in die USA verschifft wurde, war es für kurze Zeit in der National Gallery in London ausgestellt, wo es 90.000 Menschen sahen.Der hohe Wiedererkennungsfaktor des Bildes hat es – wie die Mona Lisa – zum oft zitierten Motiv der Populärkultur gemacht. So gibt es Versionen, in denen Micky Maus oder Kermit der Frosch (diese Version hing in Jim Hensons Bürogebäude) als Blue Boy dargestellt sind. Friedrich Wilhelm Murnau baute sein Erstlingswerk Der Knabe in Blau komplett auf diesem Bild auf. In „Die nackte Kanone“ zerstört Leslie Nielsen einen Blue Boy, auch James Bonds Gegenspieler, Gustav Graves, zerstört in dem Film Stirb an einem anderen Tag während einer Fechtszene einen Blue Boy. Auch in dem Laurel-und-Hardy-Kurzfilm „Der Gaul auf dem Klavier“ (Wrong Again) von 1929 taucht das Bild auf, allerdings wird hier das Gemälde mit einem Pferd gleichen Namens verwechselt. Eine weitere Version des Blue Boy ist in einem Porträt einer Maus wiederzuerkennen, die ebenso gekleidet ist .</value>
+</abstract>
+<wikilink>
+<type>uri</type>
+<value>http://en.wikipedia.org/wiki/The_Blue_Boy?oldid=606227789</value>
+</wikilink>
+</XML_Serializer_Tag>
+<XML_Serializer_Tag>
+<painting>
+<type>uri</type>
+<value>http://dbpedia.org/resource/Mr_and_Mrs_Andrews</value>
+</painting>
+<thumbnail>
+<type>uri</type>
+<value>http://commons.wikimedia.org/wiki/Special:FilePath/Thomas_Gainsborough_-_Mr_and_Mrs_Andrews.jpg?width=300</value>
+</thumbnail>
+<name>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>Mr and Mrs Andrews</value>
+</name>
+<year>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>about 1750</value>
+</year>
+<abstract>
+<type>literal</type>
+<xml:lang>de</xml:lang>
+<value>Mr. und Mrs. Andrews ist der Titel eines Ölgemäldes des englischen Malers Thomas Gainsborough. Gainsborough war wenig älter als 20 Jahre, als er das Doppelporträt des jung verheirateten Ehepaares malte. In dem Bild sind zwei Genres der Malerei, Porträt- und Landschaftsmalerei, vereinigt. Beide gehören zu den Spezialgebieten des Malers.</value>
+</abstract>
+<wikilink>
+<type>uri</type>
+<value>http://en.wikipedia.org/wiki/Mr_and_Mrs_Andrews?oldid=606739903</value>
+</wikilink>
+</XML_Serializer_Tag>
+<XML_Serializer_Tag>
+<painting>
+<type>uri</type>
+<value>http://dbpedia.org/resource/Mrs._Richard_Brinsley_Sheridan_(painting)</value>
+</painting>
+<thumbnail>
+<type>uri</type>
+<value>http://commons.wikimedia.org/wiki/Special:FilePath/Thomas_Gainsborough_014.jpg?width=300</value>
+</thumbnail>
+<name>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>Mrs. Richard Brinsley Sheridan</value>
+</name>
+<year>
+<type>typed-literal</type>
+<datatype>http://www.w3.org/2001/XMLSchema#integer</datatype>
+<value>1787</value>
+</year>
+<wikilink>
+<type>uri</type>
+<value>http://en.wikipedia.org/wiki/Mrs._Richard_Brinsley_Sheridan_(painting)?oldid=590862761</value>
+</wikilink>
+</XML_Serializer_Tag>
+<XML_Serializer_Tag>
+<painting>
+<type>uri</type>
+<value>http://dbpedia.org/resource/The_Harvest_Wagon</value>
+</painting>
+<thumbnail>
+<type>uri</type>
+<value>http://commons.wikimedia.org/wiki/Special:FilePath/Thomas_Gainsborough_001.jpg?width=300</value>
+</thumbnail>
+<name>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>The Harvest Wagon</value>
+</name>
+<year>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>c. 1784</value>
+</year>
+<wikilink>
+<type>uri</type>
+<value>http://en.wikipedia.org/wiki/The_Harvest_Wagon?oldid=593148099</value>
+</wikilink>
+</XML_Serializer_Tag>
+<XML_Serializer_Tag>
+<painting>
+<type>uri</type>
+<value>http://dbpedia.org/resource/The_Harvest_Wagon</value>
+</painting>
+<thumbnail>
+<type>uri</type>
+<value>http://commons.wikimedia.org/wiki/Special:FilePath/Thomas_Gainsborough_001.jpg?width=300</value>
+</thumbnail>
+<name>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>The Harvest Wagon</value>
+</name>
+<year>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>c. 1767</value>
+</year>
+<wikilink>
+<type>uri</type>
+<value>http://en.wikipedia.org/wiki/The_Harvest_Wagon?oldid=593148099</value>
+</wikilink>
+</XML_Serializer_Tag>
+</artworks>
+<dbpResource>http://dbpedia.org/resource/Thomas_Gainsborough</dbpResource>
+<abstract>Thomas Gainsborough, RA FRSA (* 14. Mai 1727 in Sudbury, Suffolk; † 2. August 1788 in London) war ein englischer Maler, der sich besonders der Porträt- und Landschaftsmalerei widmete. Er gilt neben William Hogarth und Joshua Reynolds als bedeutendster englischer Maler des 18. Jahrhunderts.</abstract>
+<wikilink>http://en.wikipedia.org/wiki/Thomas_Gainsborough?oldid=605306745</wikilink>
+</Person>

@@ -1,0 +1,30 @@
+<Person>
+<name>Roger Eliot Fry</name>
+<variantName>
+<XML_Serializer_Tag>Roger Fry</XML_Serializer_Tag>
+<XML_Serializer_Tag>Roger E. Fry</XML_Serializer_Tag>
+<XML_Serializer_Tag>Roger Fry</XML_Serializer_Tag>
+</variantName>
+<thumbnail>https://commons.wikimedia.org/wiki/Special:FilePath/Roger_Fry.jpg?width=270</thumbnail>
+<birthEN>December 14, 1866</birthEN>
+<birthDE>14. Dezember 1866</birthDE>
+<deathEN>September 9, 1934</deathEN>
+<deathDE>9. September 1934</deathDE>
+<birthPlace>
+<XML_Serializer_Tag>London</XML_Serializer_Tag>
+</birthPlace>
+<deathPlace>
+<XML_Serializer_Tag>London</XML_Serializer_Tag>
+</deathPlace>
+<professionOrOccupation>
+<XML_Serializer_Tag>Kunsthistoriker</XML_Serializer_Tag>
+<XML_Serializer_Tag>Kunstsammler</XML_Serializer_Tag>
+<XML_Serializer_Tag>Künstler</XML_Serializer_Tag>
+<XML_Serializer_Tag>Maler</XML_Serializer_Tag>
+<XML_Serializer_Tag>Kunstkritiker</XML_Serializer_Tag>
+</professionOrOccupation>
+<artworks />
+<dbpResource>http://dbpedia.org/resource/Roger_Fry</dbpResource>
+<abstract>Roger Eliot Fry (* 14. Dezember 1866 in London; † 9. September 1934 ebenda) war ein britischer Maler und Kunstkritiker. Er prägte mit der von ihm geplanten Kunstausstellung Manet and the Post-Impressionists im Jahr 1910 den Kunstbegriff des Post-Impressionismus und gilt als wichtiger Vorläufer des Vortizismus. Bedeutsam war sein Einfluss auf die Bloomsbury Group, der er sich 1910 angeschlossen hatte.</abstract>
+<wikilink>http://en.wikipedia.org/wiki/Roger_Fry?oldid=606188967</wikilink>
+</Person>

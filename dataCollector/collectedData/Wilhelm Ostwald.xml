@@ -1,0 +1,42 @@
+<Person>
+<name>Wilhelm Ostwald</name>
+<variantName>
+<XML_Serializer_Tag>Vilhelms Ostvalds</XML_Serializer_Tag>
+<XML_Serializer_Tag>Friedrich Wilhelm Ostwald</XML_Serializer_Tag>
+<XML_Serializer_Tag>Friedrich W. Ostwald</XML_Serializer_Tag>
+<XML_Serializer_Tag>W. Ostwald</XML_Serializer_Tag>
+<XML_Serializer_Tag>Wilh. Ostwald</XML_Serializer_Tag>
+<XML_Serializer_Tag>... Ostwald-Luther</XML_Serializer_Tag>
+<XML_Serializer_Tag>... Ostwald-Großlothen</XML_Serializer_Tag>
+<XML_Serializer_Tag>Wilhelm Friedrich Ostwald</XML_Serializer_Tag>
+<XML_Serializer_Tag>V. Ostvalʹd</XML_Serializer_Tag>
+<XML_Serializer_Tag>Guielmus Ostwald</XML_Serializer_Tag>
+<XML_Serializer_Tag>Guillermo Ostwald</XML_Serializer_Tag>
+<XML_Serializer_Tag>Guillermo. Ostval&apos;d</XML_Serializer_Tag>
+<XML_Serializer_Tag>..Ostwald-Luther</XML_Serializer_Tag>
+<XML_Serializer_Tag>Оствальд, Вильгельм Фридрих</XML_Serializer_Tag>
+<XML_Serializer_Tag>弗里德里希 奥斯特瓦尔德</XML_Serializer_Tag>
+</variantName>
+<thumbnail>https://commons.wikimedia.org/wiki/Special:FilePath/Wilhelm_Ostwald.jpg?width=270</thumbnail>
+<birthEN>September 2, 1853</birthEN>
+<birthDE>2. September 1853</birthDE>
+<deathEN>April 4, 1932</deathEN>
+<deathDE>4. April 1932</deathDE>
+<birthPlace>
+<XML_Serializer_Tag>Riga</XML_Serializer_Tag>
+</birthPlace>
+<deathPlace>
+<XML_Serializer_Tag>Leipzig</XML_Serializer_Tag>
+</deathPlace>
+<professionOrOccupation>
+<XML_Serializer_Tag>Chemiker</XML_Serializer_Tag>
+<XML_Serializer_Tag>Nobelpreisträger</XML_Serializer_Tag>
+<XML_Serializer_Tag>Naturwissenschaftler</XML_Serializer_Tag>
+<XML_Serializer_Tag>Philosoph</XML_Serializer_Tag>
+<XML_Serializer_Tag>Maler</XML_Serializer_Tag>
+</professionOrOccupation>
+<artworks />
+<dbpResource>http://dbpedia.org/resource/Wilhelm_Ostwald</dbpResource>
+<abstract>Wilhelm Ostwald (lettisch Vilhelms Ostvalds;* 21. Augustjul./ 2. September 1853greg. in Riga; † 4. April 1932 in Leipzig) war ein deutsch-baltischer Chemiker, Nobelpreisträger (1909) und Philosoph.</abstract>
+<wikilink>http://en.wikipedia.org/wiki/Wilhelm_Ostwald?oldid=606667378</wikilink>
+</Person>

@@ -1,0 +1,22 @@
+<Person>
+<name>Johannes Lingelbach</name>
+<variantName>
+<XML_Serializer_Tag>Jan Lingelbach</XML_Serializer_Tag>
+<XML_Serializer_Tag>Johann Lingelbach</XML_Serializer_Tag>
+</variantName>
+<thumbnail>https://commons.wikimedia.org/wiki/Special:FilePath/Schouburg_Plate_G-_Johan_Lingelbach_en_Samuel_en_Jan_van_Hoogstraten.jpg?width=270</thumbnail>
+<birthEN>1622</birthEN>
+<birthDE>1622</birthDE>
+<deathEN>1674</deathEN>
+<deathDE>1674</deathDE>
+<birthPlace />
+<deathPlace />
+<professionOrOccupation>
+<XML_Serializer_Tag>Künstler</XML_Serializer_Tag>
+<XML_Serializer_Tag>Maler</XML_Serializer_Tag>
+</professionOrOccupation>
+<artworks />
+<dbpResource>http://dbpedia.org/resource/Johannes_Lingelbach</dbpResource>
+<abstract>Johann(es) Lingelbach (getauft 10. Oktober 1622 in Frankfurt am Main; † 1674 in Amsterdam) war ein deutscher Maler.</abstract>
+<wikilink>http://en.wikipedia.org/wiki/Johannes_Lingelbach?oldid=567721369</wikilink>
+</Person>

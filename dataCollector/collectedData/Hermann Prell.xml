@@ -1,0 +1,26 @@
+<Person>
+<name>Hermann Prell</name>
+<variantName>
+<XML_Serializer_Tag>Heinrich Hermann Prell</XML_Serializer_Tag>
+</variantName>
+<thumbnail>https://commons.wikimedia.org/wiki/Special:FilePath/Hermann_Prell.jpg?width=270</thumbnail>
+<birthEN>April 29, 1854</birthEN>
+<birthDE>29. April 1854</birthDE>
+<deathEN>May 19, 1922</deathEN>
+<deathDE>19. Mai 1922</deathDE>
+<birthPlace>
+<XML_Serializer_Tag>Leipzig</XML_Serializer_Tag>
+</birthPlace>
+<deathPlace>
+<XML_Serializer_Tag>Dresden-Loschwitz</XML_Serializer_Tag>
+</deathPlace>
+<professionOrOccupation>
+<XML_Serializer_Tag>Maler</XML_Serializer_Tag>
+<XML_Serializer_Tag>Kunsthistoriker</XML_Serializer_Tag>
+<XML_Serializer_Tag>Bildhauer</XML_Serializer_Tag>
+</professionOrOccupation>
+<artworks />
+<dbpResource>http://dbpedia.org/resource/Hermann_Prell</dbpResource>
+<abstract>Hermann Prell (* 29. April 1854 in Leipzig; † 18. Mai 1922 in Loschwitz/seit 1922 Stadtteil von Dresden) war ein deutscher Bildhauer, Historien- und Monumentalmaler sowie Professor an der Akademie der Bildenden Künste in Dresden.</abstract>
+<wikilink>http://en.wikipedia.org/wiki/Hermann_Prell?oldid=602450293</wikilink>
+</Person>

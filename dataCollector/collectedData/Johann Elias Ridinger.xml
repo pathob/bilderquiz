@@ -1,0 +1,36 @@
+<Person>
+<name>Johann Elias Ridinger</name>
+<variantName>
+<XML_Serializer_Tag>Johann E. Ridinger</XML_Serializer_Tag>
+<XML_Serializer_Tag>Johann Elias Riedinger</XML_Serializer_Tag>
+<XML_Serializer_Tag>Elias Riedinger</XML_Serializer_Tag>
+<XML_Serializer_Tag>Joannes Elias Ridingerus</XML_Serializer_Tag>
+<XML_Serializer_Tag>Joh. Elias Ridinger</XML_Serializer_Tag>
+<XML_Serializer_Tag>Jean Elie Ridinger</XML_Serializer_Tag>
+<XML_Serializer_Tag>Johanne Elia Ridinger</XML_Serializer_Tag>
+<XML_Serializer_Tag>Joh. El. Ridinger</XML_Serializer_Tag>
+<XML_Serializer_Tag>J. El. Ridinger</XML_Serializer_Tag>
+<XML_Serializer_Tag>J. E. Ridinger</XML_Serializer_Tag>
+<XML_Serializer_Tag>I. El. Ridinger</XML_Serializer_Tag>
+<XML_Serializer_Tag>Riedinger</XML_Serializer_Tag>
+</variantName>
+<thumbnail>https://commons.wikimedia.org/wiki/Special:FilePath/Johann_Elias_Ridinger_-_Zeichner.jpg?width=270</thumbnail>
+<birthEN>1698</birthEN>
+<birthDE>1698</birthDE>
+<deathEN>1767</deathEN>
+<deathDE>1767</deathDE>
+<birthPlace>
+<XML_Serializer_Tag>Ulm</XML_Serializer_Tag>
+</birthPlace>
+<deathPlace />
+<professionOrOccupation>
+<XML_Serializer_Tag>Künstler</XML_Serializer_Tag>
+<XML_Serializer_Tag>Kupferstecher</XML_Serializer_Tag>
+<XML_Serializer_Tag>Maler</XML_Serializer_Tag>
+<XML_Serializer_Tag>Tiermaler</XML_Serializer_Tag>
+</professionOrOccupation>
+<artworks />
+<dbpResource>http://dbpedia.org/resource/Johann_Elias_Ridinger</dbpResource>
+<abstract>Johann Elias Ridinger (* 15. Februar 1698 in Ulm; † 10. April 1767 in Augsburg) war ein deutscher Tiermaler, Kupferstecher, Radierer und Verleger.</abstract>
+<wikilink>http://en.wikipedia.org/wiki/Johann_Elias_Ridinger?oldid=584617691</wikilink>
+</Person>

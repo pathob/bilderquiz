@@ -1,0 +1,48 @@
+<Person>
+<name>Gustave Moreau</name>
+<variantName />
+<thumbnail>https://commons.wikimedia.org/wiki/Special:FilePath/GustaveMoreau02.jpg?width=270</thumbnail>
+<birthEN>April 6, 1826</birthEN>
+<birthDE>6. April 1826</birthDE>
+<deathEN>April 18, 1898</deathEN>
+<deathDE>18. April 1898</deathDE>
+<birthPlace>
+<XML_Serializer_Tag>Paris</XML_Serializer_Tag>
+</birthPlace>
+<deathPlace>
+<XML_Serializer_Tag>Paris</XML_Serializer_Tag>
+</deathPlace>
+<professionOrOccupation>
+<XML_Serializer_Tag>Künstler</XML_Serializer_Tag>
+<XML_Serializer_Tag>Maler</XML_Serializer_Tag>
+</professionOrOccupation>
+<artworks>
+<XML_Serializer_Tag>
+<painting>
+<type>uri</type>
+<value>http://dbpedia.org/resource/Jupiter_and_Semele</value>
+</painting>
+<thumbnail>
+<type>uri</type>
+<value>http://commons.wikimedia.org/wiki/Special:FilePath/Gustave_Moreau_004.jpg?width=300</value>
+</thumbnail>
+<name>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>Jupiter et Semele</value>
+</name>
+<year>
+<type>typed-literal</type>
+<datatype>http://www.w3.org/2001/XMLSchema#integer</datatype>
+<value>1894</value>
+</year>
+<wikilink>
+<type>uri</type>
+<value>http://en.wikipedia.org/wiki/Jupiter_and_Semele?oldid=588362004</value>
+</wikilink>
+</XML_Serializer_Tag>
+</artworks>
+<dbpResource>http://dbpedia.org/resource/Gustave_Moreau</dbpResource>
+<abstract>Gustave Moreau (* 6. April 1826 in Paris; † 18. April 1898 ebenda) war ein französischer Maler und Zeichner des Symbolismus.</abstract>
+<wikilink>http://en.wikipedia.org/wiki/Gustave_Moreau?oldid=603209226</wikilink>
+</Person>

@@ -1,0 +1,30 @@
+<Person>
+<name>Victor Vasarely</name>
+<variantName>
+<XML_Serializer_Tag>Viktor Vásárhelyi</XML_Serializer_Tag>
+<XML_Serializer_Tag>Victor Vasarély</XML_Serializer_Tag>
+<XML_Serializer_Tag>Viktor Vasarely</XML_Serializer_Tag>
+<XML_Serializer_Tag>Viktor von Vasarely</XML_Serializer_Tag>
+</variantName>
+<thumbnail>https://commons.wikimedia.org/wiki/Special:FilePath/Bonn_Juridicum_Vasarely.jpg?width=270</thumbnail>
+<birthEN>April 9, 1906</birthEN>
+<birthDE>9. April 1906</birthDE>
+<deathEN>March 15, 1997</deathEN>
+<deathDE>15. März 1997</deathDE>
+<birthPlace>
+<XML_Serializer_Tag>Pécs</XML_Serializer_Tag>
+</birthPlace>
+<deathPlace>
+<XML_Serializer_Tag>Paris</XML_Serializer_Tag>
+</deathPlace>
+<professionOrOccupation>
+<XML_Serializer_Tag>Künstler</XML_Serializer_Tag>
+<XML_Serializer_Tag>Maler</XML_Serializer_Tag>
+<XML_Serializer_Tag>Graphiker</XML_Serializer_Tag>
+<XML_Serializer_Tag>Bildhauer</XML_Serializer_Tag>
+</professionOrOccupation>
+<artworks />
+<dbpResource>http://dbpedia.org/resource/Victor_Vasarely</dbpResource>
+<abstract>Victor Vasarely (ungarisch: Vásárhelyi Győző; * 9. April 1906 in Pécs; † 15. März 1997 in Paris) war ein französischer Maler und Grafiker ungarischer Abstammung. Er zählt zu den Mitbegründern der künstlerischen Richtung Op-Art.</abstract>
+<wikilink>http://en.wikipedia.org/wiki/Victor_Vasarely?oldid=605475472</wikilink>
+</Person>

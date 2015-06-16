@@ -1,0 +1,31 @@
+<Person>
+<name>Edward Lear</name>
+<variantName>
+<XML_Serializer_Tag>Edu&apos;ard Lir</XML_Serializer_Tag>
+<XML_Serializer_Tag>Eduard Liri</XML_Serializer_Tag>
+<XML_Serializer_Tag>Derry Down Derry</XML_Serializer_Tag>
+<XML_Serializer_Tag>... Lear-Guggenmos</XML_Serializer_Tag>
+<XML_Serializer_Tag>... Lear-Halbey-Oxenbury</XML_Serializer_Tag>
+</variantName>
+<thumbnail>https://commons.wikimedia.org/wiki/Special:FilePath/Edward_Lear.jpg?width=270</thumbnail>
+<birthEN>May 12, 1812</birthEN>
+<birthDE>12. Mai 1812</birthDE>
+<deathEN>January 29, 1888</deathEN>
+<deathDE>29. Januar 1888</deathDE>
+<birthPlace>
+<XML_Serializer_Tag>Holloway</XML_Serializer_Tag>
+</birthPlace>
+<deathPlace>
+<XML_Serializer_Tag>San Remo</XML_Serializer_Tag>
+</deathPlace>
+<professionOrOccupation>
+<XML_Serializer_Tag>Künstler</XML_Serializer_Tag>
+<XML_Serializer_Tag>Maler</XML_Serializer_Tag>
+<XML_Serializer_Tag>Schriftsteller</XML_Serializer_Tag>
+<XML_Serializer_Tag>Illustrator</XML_Serializer_Tag>
+</professionOrOccupation>
+<artworks />
+<dbpResource>http://dbpedia.org/resource/Edward_Lear</dbpResource>
+<abstract>Edward Lear (* 12. Mai 1812 in Highgate; † 29. Januar 1888 in Sanremo) war ein britischer Maler, Illustrator und Schriftsteller. Zusammen mit Lewis Carroll gilt er als einer der großen Meister der viktorianischen Nonsense-Literatur.</abstract>
+<wikilink>http://en.wikipedia.org/wiki/Edward_Lear?oldid=605151266</wikilink>
+</Person>

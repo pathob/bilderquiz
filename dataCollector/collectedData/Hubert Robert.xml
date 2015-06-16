@@ -1,0 +1,21 @@
+<Person>
+<name>Hubert Robert</name>
+<variantName>
+<XML_Serializer_Tag>Robert, des Ruines</XML_Serializer_Tag>
+<XML_Serializer_Tag>Rober Gjuber</XML_Serializer_Tag>
+</variantName>
+<thumbnail>https://commons.wikimedia.org/wiki/Special:FilePath/Élisabeth-Louise_Vigée-Le_Brun_-_Hubert_Robert_(1788).jpg?width=270</thumbnail>
+<birthEN>1733</birthEN>
+<birthDE>1733</birthDE>
+<deathEN>1808</deathEN>
+<deathDE>1808</deathDE>
+<birthPlace />
+<deathPlace />
+<professionOrOccupation>
+<XML_Serializer_Tag>Maler</XML_Serializer_Tag>
+</professionOrOccupation>
+<artworks />
+<dbpResource>http://dbpedia.org/resource/Hubert_Robert</dbpResource>
+<abstract>Hubert Robert (* 22. Mai 1733 in Paris; † 15. April 1808 ebenda) war ein französischer Maler.</abstract>
+<wikilink>http://en.wikipedia.org/wiki/Hubert_Robert?oldid=601733598</wikilink>
+</Person>

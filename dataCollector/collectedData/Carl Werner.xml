@@ -1,0 +1,29 @@
+<Person>
+<name>Carl Werner</name>
+<variantName>
+<XML_Serializer_Tag>Karl Werner</XML_Serializer_Tag>
+<XML_Serializer_Tag>Carl Friedrich Heinrich Werner</XML_Serializer_Tag>
+<XML_Serializer_Tag>Karl Friedrich Heinrich Werner</XML_Serializer_Tag>
+</variantName>
+<thumbnail>https://commons.wikimedia.org/wiki/Special:FilePath/Werner_Temple_of_Philae.jpg?width=270</thumbnail>
+<birthEN>October 4, 1808</birthEN>
+<birthDE>4. Oktober 1808</birthDE>
+<deathEN>January 10, 1894</deathEN>
+<deathDE>10. Januar 1894</deathDE>
+<birthPlace>
+<XML_Serializer_Tag>Weimar</XML_Serializer_Tag>
+</birthPlace>
+<deathPlace>
+<XML_Serializer_Tag>Leipzig</XML_Serializer_Tag>
+</deathPlace>
+<professionOrOccupation>
+<XML_Serializer_Tag>Künstler</XML_Serializer_Tag>
+<XML_Serializer_Tag>Maler</XML_Serializer_Tag>
+<XML_Serializer_Tag>Landschaftsmaler</XML_Serializer_Tag>
+<XML_Serializer_Tag>Schauspieler</XML_Serializer_Tag>
+</professionOrOccupation>
+<artworks />
+<dbpResource>http://dbpedia.org/resource/Carl_Werner</dbpResource>
+<abstract>Carl Friedrich Heinrich Werner (* 4. Oktober 1808 in Weimar; † 10. Januar 1894 in Leipzig) war ein deutscher Aquarell- und Architekturmaler.</abstract>
+<wikilink>http://en.wikipedia.org/wiki/Carl_Werner?oldid=567589182</wikilink>
+</Person>

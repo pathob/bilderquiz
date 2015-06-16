@@ -1,0 +1,22 @@
+<Person>
+<name>Thomas Struth</name>
+<variantName />
+<thumbnail>https://commons.wikimedia.org/wiki/Special:FilePath/Struth_thomas_skstiftungkoeln_090108.jpg?width=270</thumbnail>
+<birthEN>1954</birthEN>
+<birthDE>1954</birthDE>
+<deathEN />
+<deathDE />
+<birthPlace>
+<XML_Serializer_Tag>Geldern</XML_Serializer_Tag>
+</birthPlace>
+<deathPlace />
+<professionOrOccupation>
+<XML_Serializer_Tag>Photograph</XML_Serializer_Tag>
+<XML_Serializer_Tag>Künstler</XML_Serializer_Tag>
+<XML_Serializer_Tag>Maler</XML_Serializer_Tag>
+</professionOrOccupation>
+<artworks />
+<dbpResource>http://dbpedia.org/resource/Thomas_Struth</dbpResource>
+<abstract>Thomas Struth (* 1954 in Geldern, Niederrhein) ist ein deutscher Fotograf der Düsseldorfer Photoschule. Er gehört zu den bekanntesten Fotografen der Gegenwart.</abstract>
+<wikilink>http://en.wikipedia.org/wiki/Thomas_Struth?oldid=599767180</wikilink>
+</Person>

@@ -1,0 +1,26 @@
+<Person>
+<name>Woldemar Friedrich</name>
+<variantName>
+<XML_Serializer_Tag>W. Friedrich</XML_Serializer_Tag>
+<XML_Serializer_Tag>Waldemar Friedrich</XML_Serializer_Tag>
+</variantName>
+<thumbnail>https://commons.wikimedia.org/wiki/Special:FilePath/Brigitte_Augusti--Zwillings-Schwestern-1891-_Woldemar_Friedrich.jpg?width=270</thumbnail>
+<birthEN>August 20, 1846</birthEN>
+<birthDE>20. August 1846</birthDE>
+<deathEN>September 16, 1910</deathEN>
+<deathDE>16. September 1910</deathDE>
+<birthPlace>
+<XML_Serializer_Tag>Gnadau</XML_Serializer_Tag>
+</birthPlace>
+<deathPlace>
+<XML_Serializer_Tag>Berlin</XML_Serializer_Tag>
+</deathPlace>
+<professionOrOccupation>
+<XML_Serializer_Tag>Maler</XML_Serializer_Tag>
+<XML_Serializer_Tag>Illustrator</XML_Serializer_Tag>
+</professionOrOccupation>
+<artworks />
+<dbpResource>http://dbpedia.org/resource/Woldemar_Friedrich</dbpResource>
+<abstract>Woldemar Friedrich (* 20. August 1846 in Gnadau; † 16. September 1910 in Berlin) war ein deutscher Maler und Illustrator. Er war Mitglied der Willingshäuser Malerkolonie.</abstract>
+<wikilink>http://en.wikipedia.org/wiki/Woldemar_Friedrich?oldid=586220107</wikilink>
+</Person>

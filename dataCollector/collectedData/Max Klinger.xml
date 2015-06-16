@@ -1,0 +1,29 @@
+<Person>
+<name>Max Klinger</name>
+<variantName>
+<XML_Serializer_Tag>Makusu Kuringâ</XML_Serializer_Tag>
+<XML_Serializer_Tag>Makesi Kelingeer</XML_Serializer_Tag>
+</variantName>
+<thumbnail>https://commons.wikimedia.org/wiki/Special:FilePath/Nicola_Perscheid_-_Max_Klinger_1915.jpg?width=270</thumbnail>
+<birthEN>February 18, 1857</birthEN>
+<birthDE>18. Februar 1857</birthDE>
+<deathEN>July 4, 1920</deathEN>
+<deathDE>4. Juli 1920</deathDE>
+<birthPlace>
+<XML_Serializer_Tag>Leipzig</XML_Serializer_Tag>
+</birthPlace>
+<deathPlace>
+<XML_Serializer_Tag>Großjena</XML_Serializer_Tag>
+</deathPlace>
+<professionOrOccupation>
+<XML_Serializer_Tag>Künstler</XML_Serializer_Tag>
+<XML_Serializer_Tag>Maler</XML_Serializer_Tag>
+<XML_Serializer_Tag>Radierer</XML_Serializer_Tag>
+<XML_Serializer_Tag>Graphiker</XML_Serializer_Tag>
+<XML_Serializer_Tag>Bildhauer</XML_Serializer_Tag>
+</professionOrOccupation>
+<artworks />
+<dbpResource>http://dbpedia.org/resource/Max_Klinger</dbpResource>
+<abstract>Max Klinger (* 18. Februar 1857 in Leipzig; † 4. Juli 1920 in Großjena) war ein deutscher Bildhauer, Maler und Grafiker. Sein Werk ist vornehmlich dem Symbolismus zuzuordnen.</abstract>
+<wikilink>http://en.wikipedia.org/wiki/Max_Klinger?oldid=601571061</wikilink>
+</Person>

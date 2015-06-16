@@ -1,0 +1,26 @@
+<Person>
+<name>Fritz Erler</name>
+<variantName />
+<thumbnail>https://commons.wikimedia.org/wiki/Special:FilePath/Namenszug_Fritz_Erler_1907.JPG?width=270</thumbnail>
+<birthEN>December 15, 1868</birthEN>
+<birthDE>15. Dezember 1868</birthDE>
+<deathEN>July 11, 1940</deathEN>
+<deathDE>11. Juli 1940</deathDE>
+<birthPlace>
+<XML_Serializer_Tag>Frankenstein (Schlesien)</XML_Serializer_Tag>
+</birthPlace>
+<deathPlace>
+<XML_Serializer_Tag>München</XML_Serializer_Tag>
+</deathPlace>
+<professionOrOccupation>
+<XML_Serializer_Tag>Künstler</XML_Serializer_Tag>
+<XML_Serializer_Tag>Maler</XML_Serializer_Tag>
+<XML_Serializer_Tag>Zeichner</XML_Serializer_Tag>
+<XML_Serializer_Tag>Raumausstatter</XML_Serializer_Tag>
+<XML_Serializer_Tag>Bühnenbildner</XML_Serializer_Tag>
+</professionOrOccupation>
+<artworks />
+<dbpResource>http://dbpedia.org/resource/Fritz_Erler</dbpResource>
+<abstract>Fritz Erler (* 15. Dezember 1868 in Frankenstein (Schlesien); † 11. Dezember 1940 in München) war ein deutscher Maler, Grafiker und Bühnenbildner.</abstract>
+<wikilink>http://en.wikipedia.org/wiki/Fritz_Erler?oldid=590787422</wikilink>
+</Person>

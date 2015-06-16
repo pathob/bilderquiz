@@ -1,0 +1,24 @@
+<Person>
+<name>Sebastian Vrancx</name>
+<variantName>
+<XML_Serializer_Tag>Sebastiaen Franks</XML_Serializer_Tag>
+<XML_Serializer_Tag>Sebastiaen Franck</XML_Serializer_Tag>
+<XML_Serializer_Tag>Sebastiaen Francken</XML_Serializer_Tag>
+<XML_Serializer_Tag>Sebastian Franck</XML_Serializer_Tag>
+</variantName>
+<thumbnail>https://commons.wikimedia.org/wiki/Special:FilePath/Portrait_of_Sebastian_Vrancx.jpg?width=270</thumbnail>
+<birthEN>1573</birthEN>
+<birthDE>1573</birthDE>
+<deathEN>1647</deathEN>
+<deathDE>1647</deathDE>
+<birthPlace />
+<deathPlace />
+<professionOrOccupation>
+<XML_Serializer_Tag>Schriftsteller</XML_Serializer_Tag>
+<XML_Serializer_Tag>Maler</XML_Serializer_Tag>
+</professionOrOccupation>
+<artworks />
+<dbpResource>http://dbpedia.org/resource/Sebastian_Vrancx</dbpResource>
+<abstract>Sebastian Vrancx (getauft 22. Januar 1573 in Antwerpen; † 19. Mai 1647 ebenda; auch Franks oder Franck) war ein flämischer Schlachten- und Genremaler.</abstract>
+<wikilink>http://en.wikipedia.org/wiki/Sebastian_Vrancx?oldid=602042741</wikilink>
+</Person>

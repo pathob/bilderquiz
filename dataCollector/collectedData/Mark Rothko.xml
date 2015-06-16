@@ -1,0 +1,76 @@
+<Person>
+<name>Mark Rothko</name>
+<variantName>
+<XML_Serializer_Tag>Marc Rothko</XML_Serializer_Tag>
+<XML_Serializer_Tag>Mark Rotko</XML_Serializer_Tag>
+<XML_Serializer_Tag>Marcus Rothkowitz</XML_Serializer_Tag>
+</variantName>
+<thumbnail>https://de.wikipedia.org/wiki/Special:FilePath/WP_Mark_Rothko_2.jpg?width=270</thumbnail>
+<birthEN>September 25, 1903</birthEN>
+<birthDE>25. September 1903</birthDE>
+<deathEN>February 25, 1970</deathEN>
+<deathDE>25. Februar 1970</deathDE>
+<birthPlace>
+<XML_Serializer_Tag>Dvinsk</XML_Serializer_Tag>
+</birthPlace>
+<deathPlace>
+<XML_Serializer_Tag>New York, NY</XML_Serializer_Tag>
+</deathPlace>
+<professionOrOccupation>
+<XML_Serializer_Tag>Künstler</XML_Serializer_Tag>
+<XML_Serializer_Tag>Maler</XML_Serializer_Tag>
+</professionOrOccupation>
+<artworks>
+<XML_Serializer_Tag>
+<painting>
+<type>uri</type>
+<value>http://dbpedia.org/resource/Black_in_Deep_Red</value>
+</painting>
+<thumbnail>
+<type>uri</type>
+<value>http://commons.wikimedia.org/wiki/Special:FilePath/Black-in-deep-red-1957.jpg?width=300</value>
+</thumbnail>
+<name>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>Black in Deep Red</value>
+</name>
+<year>
+<type>typed-literal</type>
+<datatype>http://www.w3.org/2001/XMLSchema#integer</datatype>
+<value>1957</value>
+</year>
+<wikilink>
+<type>uri</type>
+<value>http://en.wikipedia.org/wiki/Black_in_Deep_Red?oldid=576189775</value>
+</wikilink>
+</XML_Serializer_Tag>
+<XML_Serializer_Tag>
+<painting>
+<type>uri</type>
+<value>http://dbpedia.org/resource/Black_on_Maroon</value>
+</painting>
+<thumbnail>
+<type>uri</type>
+<value>http://commons.wikimedia.org/wiki/Special:FilePath/Black_on_Maroon%2C_painting_by_Mark_Rothko%2C_1958.jpg?width=300</value>
+</thumbnail>
+<name>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>Black on Maroon</value>
+</name>
+<year>
+<type>typed-literal</type>
+<datatype>http://www.w3.org/2001/XMLSchema#integer</datatype>
+<value>1958</value>
+</year>
+<wikilink>
+<type>uri</type>
+<value>http://en.wikipedia.org/wiki/Black_on_Maroon?oldid=599478762</value>
+</wikilink>
+</XML_Serializer_Tag>
+</artworks>
+<dbpResource>http://dbpedia.org/resource/Mark_Rothko</dbpResource>
+<abstract>Mark Rothko (Lettisch: Marks Rotko; * 12. Septemberjul./ 25. September 1903greg. in Daugavpils/Dwinsk, deutsch Dünaburg, Lettland, als Marcus Rothkowitz; † 25. Februar 1970 in New York) war ein amerikanischer Maler des Abstrakten Expressionismus und Wegbereiter der Farbfeldmalerei.</abstract>
+<wikilink>http://en.wikipedia.org/wiki/Mark_Rothko?oldid=603979695</wikilink>
+</Person>

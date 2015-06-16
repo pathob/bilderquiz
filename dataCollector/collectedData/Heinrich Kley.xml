@@ -1,0 +1,23 @@
+<Person>
+<name>Heinrich Kley</name>
+<variantName>
+<XML_Serializer_Tag>H. Kley</XML_Serializer_Tag>
+</variantName>
+<thumbnail>https://de.wikipedia.org/wiki/Special:FilePath/Kley_h.jpg?width=270</thumbnail>
+<birthEN>April 15, 1863</birthEN>
+<birthDE>15. April 1863</birthDE>
+<deathEN>February 8, 1945</deathEN>
+<deathDE>8. Februar 1945</deathDE>
+<birthPlace />
+<deathPlace />
+<professionOrOccupation>
+<XML_Serializer_Tag>Künstler</XML_Serializer_Tag>
+<XML_Serializer_Tag>Maler</XML_Serializer_Tag>
+<XML_Serializer_Tag>Radierer</XML_Serializer_Tag>
+<XML_Serializer_Tag>Karikaturist</XML_Serializer_Tag>
+</professionOrOccupation>
+<artworks />
+<dbpResource>http://dbpedia.org/resource/Heinrich_Kley</dbpResource>
+<abstract>Heinrich Kley (* 15. April 1863 in Karlsruhe; † 8. Februar 1945 in München) war ein deutscher Zeichner und Maler.</abstract>
+<wikilink>http://en.wikipedia.org/wiki/Heinrich_Kley?oldid=605205218</wikilink>
+</Person>

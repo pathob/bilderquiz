@@ -1,0 +1,36 @@
+<Person>
+<name>John Heartfield</name>
+<variantName>
+<XML_Serializer_Tag>John Hartfield</XML_Serializer_Tag>
+<XML_Serializer_Tag>John Hearthfield</XML_Serializer_Tag>
+<XML_Serializer_Tag>G&apos;on Harṭfild</XML_Serializer_Tag>
+<XML_Serializer_Tag>Helmut Herzfelde</XML_Serializer_Tag>
+<XML_Serializer_Tag>Helmut Franz Josef Herzfelde</XML_Serializer_Tag>
+<XML_Serializer_Tag>Johannes Herzfeld</XML_Serializer_Tag>
+<XML_Serializer_Tag>J. H.</XML_Serializer_Tag>
+<XML_Serializer_Tag>J. H.</XML_Serializer_Tag>
+<XML_Serializer_Tag>John Bloomsbury</XML_Serializer_Tag>
+<XML_Serializer_Tag>Helmut Herzfeld</XML_Serializer_Tag>
+</variantName>
+<thumbnail>https://commons.wikimedia.org/wiki/Special:FilePath/Stamps_of_Germany_(DDR)_1971,_MiNr_1646.jpg?width=270</thumbnail>
+<birthEN>June 19, 1891</birthEN>
+<birthDE>19. Juni 1891</birthDE>
+<deathEN>April 26, 1968</deathEN>
+<deathDE>26. April 1968</deathDE>
+<birthPlace>
+<XML_Serializer_Tag>Berlin</XML_Serializer_Tag>
+</birthPlace>
+<deathPlace>
+<XML_Serializer_Tag>Berlin</XML_Serializer_Tag>
+</deathPlace>
+<professionOrOccupation>
+<XML_Serializer_Tag>Maler</XML_Serializer_Tag>
+<XML_Serializer_Tag>Graphiker</XML_Serializer_Tag>
+<XML_Serializer_Tag>Photograph</XML_Serializer_Tag>
+<XML_Serializer_Tag>Künstler</XML_Serializer_Tag>
+</professionOrOccupation>
+<artworks />
+<dbpResource>http://dbpedia.org/resource/John_Heartfield</dbpResource>
+<abstract>John Heartfield (* 19. Juni 1891 in Schmargendorf b. Berlin; † 26. April 1968 in Ost-Berlin; eigentlich Helmut Herzfeld, fälschlicherweise manchmal „Herzfelde“ geschrieben) war ein deutscher Maler, Graphiker, Fotomontagekünstler und Bühnenbildner. Er war ein Pionier an der Schnittstelle zwischen Kunst und Medien und gilt landläufig als der Erfinder der politischen Fotomontage. Er war der Bruder von Wieland Herzfelde.</abstract>
+<wikilink>http://en.wikipedia.org/wiki/John_Heartfield?oldid=606599247</wikilink>
+</Person>

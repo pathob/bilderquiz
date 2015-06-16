@@ -1,0 +1,23 @@
+<Person>
+<name>Georg Flegel</name>
+<variantName />
+<thumbnail>https://commons.wikimedia.org/wiki/Special:FilePath/Georg_Flegel_Selbstportrait.jpg?width=270</thumbnail>
+<birthEN>1566</birthEN>
+<birthDE>1566</birthDE>
+<deathEN>1638</deathEN>
+<deathDE>1638</deathDE>
+<birthPlace>
+<XML_Serializer_Tag>Olmütz</XML_Serializer_Tag>
+</birthPlace>
+<deathPlace>
+<XML_Serializer_Tag>Frankfurt am Main</XML_Serializer_Tag>
+</deathPlace>
+<professionOrOccupation>
+<XML_Serializer_Tag>Künstler</XML_Serializer_Tag>
+<XML_Serializer_Tag>Maler</XML_Serializer_Tag>
+</professionOrOccupation>
+<artworks />
+<dbpResource>http://dbpedia.org/resource/Georg_Flegel</dbpResource>
+<abstract>Georg Flegel (* 1566 in Olmütz; † 23. März 1638 in Frankfurt am Main) war ein bedeutender Stilllebenmaler des frühen 17. Jahrhunderts.</abstract>
+<wikilink>http://en.wikipedia.org/wiki/Georg_Flegel?oldid=592349055</wikilink>
+</Person>

@@ -1,0 +1,58 @@
+<Person>
+<name>Joseph Beuys</name>
+<variantName>
+<XML_Serializer_Tag>Joseph Heinrich Beuys</XML_Serializer_Tag>
+<XML_Serializer_Tag>Josef Beuys</XML_Serializer_Tag>
+<XML_Serializer_Tag>Jozef Bojs</XML_Serializer_Tag>
+<XML_Serializer_Tag>Jozef Bojz</XML_Serializer_Tag>
+<XML_Serializer_Tag>Yōzefu Boisu</XML_Serializer_Tag>
+</variantName>
+<thumbnail>https://commons.wikimedia.org/wiki/Special:FilePath/Beuys-Feldman-Gallery.jpg?width=270</thumbnail>
+<birthEN>May 12, 1921</birthEN>
+<birthDE>12. Mai 1921</birthDE>
+<deathEN>January 23, 1986</deathEN>
+<deathDE>23. Januar 1986</deathDE>
+<birthPlace>
+<XML_Serializer_Tag>Krefeld</XML_Serializer_Tag>
+</birthPlace>
+<deathPlace>
+<XML_Serializer_Tag>Düsseldorf</XML_Serializer_Tag>
+</deathPlace>
+<professionOrOccupation>
+<XML_Serializer_Tag>Künstler</XML_Serializer_Tag>
+<XML_Serializer_Tag>Maler</XML_Serializer_Tag>
+<XML_Serializer_Tag>Bildhauer</XML_Serializer_Tag>
+<XML_Serializer_Tag>Objektkünstler</XML_Serializer_Tag>
+<XML_Serializer_Tag>Aktionskünstler</XML_Serializer_Tag>
+<XML_Serializer_Tag>Musiker</XML_Serializer_Tag>
+</professionOrOccupation>
+<artworks>
+<XML_Serializer_Tag>
+<painting>
+<type>uri</type>
+<value>http://dbpedia.org/resource/7000_Oaks</value>
+</painting>
+<thumbnail>
+<type>uri</type>
+<value>http://commons.wikimedia.org/wiki/Special:FilePath/FridericianumBeuys_kasselgalerie_de.jpg?width=300</value>
+</thumbnail>
+<name>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>7000 Oaks</value>
+</name>
+<abstract>
+<type>literal</type>
+<xml:lang>de</xml:lang>
+<value>7000 Eichen – Stadtverwaldung statt Stadtverwaltung ist ein Landschaftskunstwerk des Künstlers Joseph Beuys, das 1982 auf der documenta 7 der Öffentlichkeit vorgestellt wurde.Beuys pflanzte mit der Hilfe von freiwilligen Helfern im Verlauf mehrerer Jahre 7000 Bäume zusammen mit jeweils einem begleitenden Basaltstein an unterschiedlichen Standorten in Kassel.Das Projekt war im Hinblick auf die allgemeine Verstädterung eine umfangreiche künstlerische und ökologische Intervention mit dem Ziel, den urbanen Lebensraum nachhaltig zu verändern. Das anfangs umstrittene Projekt hat sich zu einem stadtbildprägenden Bestandteil des öffentlichen Raums der Stadt Kassel entwickelt.Im Jahr 1987 konnte das umfangreiche Projekt zur documenta 8 abgeschlossen werden.</value>
+</abstract>
+<wikilink>
+<type>uri</type>
+<value>http://en.wikipedia.org/wiki/7000_Oaks?oldid=584427756</value>
+</wikilink>
+</XML_Serializer_Tag>
+</artworks>
+<dbpResource>http://dbpedia.org/resource/Joseph_Beuys</dbpResource>
+<abstract>Joseph Heinrich Beuys [ˈbɔe̯s] (* 12. Mai 1921 in Krefeld; † 23. Januar 1986 in Düsseldorf) war ein deutscher Aktionskünstler, Bildhauer, Zeichner, Kunsttheoretiker und Professor an der Kunstakademie Düsseldorf.Beuys setzte sich in seinem umfangreichen Werk mit Fragen des Humanismus, der Sozialphilosophie und Anthroposophie auseinander. Dies führte zu seiner spezifischen Definition eines „erweiterten Kunstbegriffs“ und zur Konzeption der Sozialen Plastik als Gesamtkunstwerk, in dem er Ende der 1970er Jahre ein kreatives Mitgestalten an der Gesellschaft und in der Politik forderte. Er gilt weltweit als einer der bedeutendsten Aktionskünstler des 20. Jahrhunderts und war ein „idealtypischer Gegenspieler“ zu Andy Warhol.</abstract>
+<wikilink>http://en.wikipedia.org/wiki/Joseph_Beuys?oldid=604079612</wikilink>
+</Person>

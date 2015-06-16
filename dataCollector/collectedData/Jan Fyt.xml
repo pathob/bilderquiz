@@ -1,0 +1,21 @@
+<Person>
+<name>Jan Fyt</name>
+<variantName>
+<XML_Serializer_Tag>Johann Fyt</XML_Serializer_Tag>
+</variantName>
+<thumbnail>https://commons.wikimedia.org/wiki/Special:FilePath/Jan_Fyt_002.jpg?width=270</thumbnail>
+<birthEN>1611</birthEN>
+<birthDE>1611</birthDE>
+<deathEN>1661</deathEN>
+<deathDE>1661</deathDE>
+<birthPlace />
+<deathPlace />
+<professionOrOccupation>
+<XML_Serializer_Tag>Künstler</XML_Serializer_Tag>
+<XML_Serializer_Tag>Maler</XML_Serializer_Tag>
+</professionOrOccupation>
+<artworks />
+<dbpResource>http://dbpedia.org/resource/Jan_Fyt</dbpResource>
+<abstract>Jan Fyt (* 15. März 1611 in Antwerpen; † 11. September 1661 ebenda) war ein flämischer Maler.Er war ein Schüler von Frans Snyders und bis 1631 in dessen Werkstatt tätig. 1629/30 wurde Fyt in die Lukasgilde aufgenommen. Von 1633 bis 1634 absolvierte er einen Paris-Aufenthalt und eine Reise nach Italien. Er wurde von den Zeitgenossen als besonders auf Jagdstillleben spezialisierter Maler geschätzt. Auch Tierbilder, Früchte- und Blumenstillleben gehören zu seinen bevorzugten Genres.</abstract>
+<wikilink>http://en.wikipedia.org/wiki/Jan_Fyt?oldid=605444118</wikilink>
+</Person>

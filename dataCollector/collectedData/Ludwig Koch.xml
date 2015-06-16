@@ -1,0 +1,26 @@
+<Person>
+<name>Ludwig Koch</name>
+<variantName>
+<XML_Serializer_Tag>L. Koch</XML_Serializer_Tag>
+</variantName>
+<thumbnail>https://commons.wikimedia.org/wiki/Special:FilePath/HGM_Koch_Oberst_Rodakowski_in_der_Schlacht_bei_Custozza_1866.jpg?width=270</thumbnail>
+<birthEN>December 13, 1866</birthEN>
+<birthDE>13. Dezember 1866</birthDE>
+<deathEN>November 26, 1934</deathEN>
+<deathDE>26. November 1934</deathDE>
+<birthPlace>
+<XML_Serializer_Tag>Wien</XML_Serializer_Tag>
+</birthPlace>
+<deathPlace>
+<XML_Serializer_Tag>Wien</XML_Serializer_Tag>
+</deathPlace>
+<professionOrOccupation>
+<XML_Serializer_Tag>Maler</XML_Serializer_Tag>
+<XML_Serializer_Tag>Bildhauer</XML_Serializer_Tag>
+<XML_Serializer_Tag>Illustrator</XML_Serializer_Tag>
+</professionOrOccupation>
+<artworks />
+<dbpResource>http://dbpedia.org/resource/Ludwig_Koch_(painter)</dbpResource>
+<abstract>Ludwig Koch (* 13. Dezember 1866 in Wien; † 26. November 1934 ebenda) war ein österreichischer Maler, Bildhauer und Illustrator.</abstract>
+<wikilink>http://en.wikipedia.org/wiki/Ludwig_Koch_(painter)?oldid=591766057</wikilink>
+</Person>

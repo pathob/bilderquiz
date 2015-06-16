@@ -1,0 +1,21 @@
+<Person>
+<name>Ferdinand Keller</name>
+<variantName>
+<XML_Serializer_Tag>Ferdinand von Keller</XML_Serializer_Tag>
+</variantName>
+<thumbnail>https://commons.wikimedia.org/wiki/Special:FilePath/Allers_Prof._Keller_korrigiert.jpg?width=270</thumbnail>
+<birthEN>August 5, 1842</birthEN>
+<birthDE>5. August 1842</birthDE>
+<deathEN>July 8, 1922</deathEN>
+<deathDE>8. Juli 1922</deathDE>
+<birthPlace />
+<deathPlace />
+<professionOrOccupation>
+<XML_Serializer_Tag>Künstler</XML_Serializer_Tag>
+<XML_Serializer_Tag>Maler</XML_Serializer_Tag>
+</professionOrOccupation>
+<artworks />
+<dbpResource>http://dbpedia.org/resource/Ferdinand_Keller_(antiquity_scholar)</dbpResource>
+<abstract>Ferdinand Keller (* 24. Dezember 1800 in Marthalen; † 21. Juli 1881 in Zürich) war ein Schweizer Archäologe und Altertumsforscher. Er begründete die urgeschichtliche Forschung in der Schweiz.</abstract>
+<wikilink>http://en.wikipedia.org/wiki/Ferdinand_Keller_(antiquity_scholar)?oldid=563937623</wikilink>
+</Person>

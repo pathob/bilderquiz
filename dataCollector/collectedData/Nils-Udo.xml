@@ -1,0 +1,26 @@
+<Person>
+<name>Nils-Udo</name>
+<variantName>
+<XML_Serializer_Tag>Nils-Udo Laas</XML_Serializer_Tag>
+<XML_Serializer_Tag>Nils Udo</XML_Serializer_Tag>
+</variantName>
+<thumbnail>https://commons.wikimedia.org/wiki/Special:FilePath/Nils-Udo_2011.jpg?width=270</thumbnail>
+<birthEN>1937</birthEN>
+<birthDE>1937</birthDE>
+<deathEN />
+<deathDE />
+<birthPlace>
+<XML_Serializer_Tag>Lauf a. d. Pegnitz</XML_Serializer_Tag>
+</birthPlace>
+<deathPlace />
+<professionOrOccupation>
+<XML_Serializer_Tag>Künstler</XML_Serializer_Tag>
+<XML_Serializer_Tag>Maler</XML_Serializer_Tag>
+<XML_Serializer_Tag>Photograph</XML_Serializer_Tag>
+<XML_Serializer_Tag>Installationskünstler</XML_Serializer_Tag>
+</professionOrOccupation>
+<artworks />
+<dbpResource>http://dbpedia.org/resource/Nils-Udo</dbpResource>
+<abstract>Nils-Udo (* 1937 in Lauf an der Pegnitz, Mittelfranken), ist ein deutscher bildender Künstler, der insbesondere für seine Beiträge zur Land Art bekannt ist.</abstract>
+<wikilink>http://en.wikipedia.org/wiki/Nils-Udo?oldid=588961255</wikilink>
+</Person>

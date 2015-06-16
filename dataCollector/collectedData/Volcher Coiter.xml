@@ -1,0 +1,27 @@
+<Person>
+<name>Volcher Coiter</name>
+<variantName>
+<XML_Serializer_Tag>Volcherius Coeiter</XML_Serializer_Tag>
+<XML_Serializer_Tag>Volcherus Coiter</XML_Serializer_Tag>
+<XML_Serializer_Tag>Volcher Coyter</XML_Serializer_Tag>
+<XML_Serializer_Tag>Volcher Koyter</XML_Serializer_Tag>
+<XML_Serializer_Tag>Volcher Koiter</XML_Serializer_Tag>
+</variantName>
+<thumbnail>https://commons.wikimedia.org/wiki/Special:FilePath/VolcherCoiter.jpg?width=270</thumbnail>
+<birthEN>1534</birthEN>
+<birthDE>1534</birthDE>
+<deathEN>1576</deathEN>
+<deathDE>1576</deathDE>
+<birthPlace />
+<deathPlace />
+<professionOrOccupation>
+<XML_Serializer_Tag>Künstler</XML_Serializer_Tag>
+<XML_Serializer_Tag>Maler</XML_Serializer_Tag>
+<XML_Serializer_Tag>Anatom</XML_Serializer_Tag>
+<XML_Serializer_Tag>anatom</XML_Serializer_Tag>
+</professionOrOccupation>
+<artworks />
+<dbpResource>http://dbpedia.org/resource/Volcher_Coiter</dbpResource>
+<abstract>Volcher Coiter (* 1534 in Groningen; † 5. Juli 1576 in Frankreich, auch Volcher Coyter, Koyter, Volcherus genannt) war ein niederländischer Arzt, Anatom und Vogelkundler.Sein Vormund war der italienische Arzt und Naturforscher Ulisse Aldrovandi, über das Leben Coiters ist nur wenig bekannt. Es ist möglich, dass Coiter, der sich vor allem mit Anatomie und Physiologie beschäftigte, beim deutschen Arzt Leonhart Fuchs in Tübingen studiert hat.</abstract>
+<wikilink>http://en.wikipedia.org/wiki/Volcher_Coiter?oldid=555426326</wikilink>
+</Person>

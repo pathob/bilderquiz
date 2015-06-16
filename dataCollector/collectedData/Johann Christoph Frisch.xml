@@ -1,0 +1,26 @@
+<Person>
+<name>Johann Christoph Frisch</name>
+<variantName>
+<XML_Serializer_Tag>Johann C. Frisch</XML_Serializer_Tag>
+<XML_Serializer_Tag>J. C. Frisch</XML_Serializer_Tag>
+<XML_Serializer_Tag>Johannes Christoph Frisch</XML_Serializer_Tag>
+</variantName>
+<thumbnail>https://commons.wikimedia.org/wiki/Special:FilePath/Johann_Christoph_Frisch_-_Death_of_Field_Marshal_Schwerin.jpg?width=270</thumbnail>
+<birthEN>February 9, 1738</birthEN>
+<birthDE>9. Februar 1738</birthDE>
+<deathEN>February 28, 1815</deathEN>
+<deathDE>28. Februar 1815</deathDE>
+<birthPlace>
+<XML_Serializer_Tag>Berlin</XML_Serializer_Tag>
+</birthPlace>
+<deathPlace>
+<XML_Serializer_Tag>Berlin</XML_Serializer_Tag>
+</deathPlace>
+<professionOrOccupation>
+<XML_Serializer_Tag>Maler</XML_Serializer_Tag>
+</professionOrOccupation>
+<artworks />
+<dbpResource>http://dbpedia.org/resource/Johann_Christoph_Frisch</dbpResource>
+<abstract>Johann Christoph Frisch (* 9. Februar 1738 in Berlin; † 28. Februar 1815 ebenda) war ein Berliner Hofmaler, Zeichner und Radierer unter Friedrich II..</abstract>
+<wikilink>http://en.wikipedia.org/wiki/Johann_Christoph_Frisch?oldid=586220305</wikilink>
+</Person>

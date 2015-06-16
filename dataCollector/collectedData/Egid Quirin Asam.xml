@@ -1,0 +1,32 @@
+<Person>
+<name>Egid Quirin Asam</name>
+<variantName>
+<XML_Serializer_Tag>Ägidius Asam</XML_Serializer_Tag>
+<XML_Serializer_Tag>Ägidius Quirinus Asam</XML_Serializer_Tag>
+<XML_Serializer_Tag>Egid Asam</XML_Serializer_Tag>
+<XML_Serializer_Tag>Egid Quirin Asum</XML_Serializer_Tag>
+<XML_Serializer_Tag>Egid Quirin Asamb</XML_Serializer_Tag>
+<XML_Serializer_Tag>Egidius Asam</XML_Serializer_Tag>
+</variantName>
+<thumbnail>https://commons.wikimedia.org/wiki/Special:FilePath/Egid_Q_Asam2.jpg?width=270</thumbnail>
+<birthEN>XX.09.1692</birthEN>
+<birthDE>XX.09.1692</birthDE>
+<deathEN>April 29, 1750</deathEN>
+<deathDE>29. April 1750</deathDE>
+<birthPlace>
+<XML_Serializer_Tag>Tegernsee (Stadt)</XML_Serializer_Tag>
+</birthPlace>
+<deathPlace>
+<XML_Serializer_Tag>Mannheim</XML_Serializer_Tag>
+</deathPlace>
+<professionOrOccupation>
+<XML_Serializer_Tag>Bildhauer</XML_Serializer_Tag>
+<XML_Serializer_Tag>Architekt</XML_Serializer_Tag>
+<XML_Serializer_Tag>Maler</XML_Serializer_Tag>
+<XML_Serializer_Tag>Stuckateur</XML_Serializer_Tag>
+</professionOrOccupation>
+<artworks />
+<dbpResource>http://dbpedia.org/resource/Egid_Quirin_Asam</dbpResource>
+<abstract>Egid Quirin Asam (getauft 1. September 1692 in Tegernsee; † 29. April 1750 in Mannheim) war ein deutscher Maler, Stuckateur und Bildhauer des Spätbarock.</abstract>
+<wikilink>http://en.wikipedia.org/wiki/Egid_Quirin_Asam?oldid=589160560</wikilink>
+</Person>

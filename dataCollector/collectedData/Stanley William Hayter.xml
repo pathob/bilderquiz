@@ -1,0 +1,24 @@
+<Person>
+<name>Stanley William Hayter</name>
+<variantName>
+<XML_Serializer_Tag>Stanley W. Hayter</XML_Serializer_Tag>
+<XML_Serializer_Tag>S. W. Hayter</XML_Serializer_Tag>
+</variantName>
+<thumbnail>https://en.wikipedia.org/wiki/Special:FilePath/Stanley_William_Hayter,_printmaking.jpg?width=270</thumbnail>
+<birthEN>1901</birthEN>
+<birthDE>1901</birthDE>
+<deathEN>1988</deathEN>
+<deathDE>1988</deathDE>
+<birthPlace />
+<deathPlace />
+<professionOrOccupation>
+<XML_Serializer_Tag>Künstler</XML_Serializer_Tag>
+<XML_Serializer_Tag>Graphiker</XML_Serializer_Tag>
+<XML_Serializer_Tag>Maler</XML_Serializer_Tag>
+<XML_Serializer_Tag>Schriftsteller</XML_Serializer_Tag>
+</professionOrOccupation>
+<artworks />
+<dbpResource>http://dbpedia.org/resource/Stanley_William_Hayter</dbpResource>
+<abstract>Stanley William Hayter (* 27. Dezember 1901 in London; † 4. Mai 1988 in Paris) war ein britischer Maler, Radierer und Grafiker. Er gründete das Atelier 17 in Paris.</abstract>
+<wikilink>http://en.wikipedia.org/wiki/Stanley_William_Hayter?oldid=604317789</wikilink>
+</Person>

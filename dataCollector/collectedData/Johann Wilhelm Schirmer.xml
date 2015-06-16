@@ -1,0 +1,30 @@
+<Person>
+<name>Johann Wilhelm Schirmer</name>
+<variantName>
+<XML_Serializer_Tag>Wilhelm Schirmer</XML_Serializer_Tag>
+<XML_Serializer_Tag>Johann Schirmer</XML_Serializer_Tag>
+<XML_Serializer_Tag>Johann W. Schirmer</XML_Serializer_Tag>
+</variantName>
+<thumbnail>https://commons.wikimedia.org/wiki/Special:FilePath/Johann_Wilhelm_Schirmer.jpg?width=270</thumbnail>
+<birthEN>September 5, 1807</birthEN>
+<birthDE>5. September 1807</birthDE>
+<deathEN>September 11, 1863</deathEN>
+<deathDE>11. September 1863</deathDE>
+<birthPlace>
+<XML_Serializer_Tag>Jülich</XML_Serializer_Tag>
+</birthPlace>
+<deathPlace>
+<XML_Serializer_Tag>Karlsruhe</XML_Serializer_Tag>
+</deathPlace>
+<professionOrOccupation>
+<XML_Serializer_Tag>Künstler</XML_Serializer_Tag>
+<XML_Serializer_Tag>Landschaftsmaler</XML_Serializer_Tag>
+<XML_Serializer_Tag>Maler</XML_Serializer_Tag>
+<XML_Serializer_Tag>Radierer</XML_Serializer_Tag>
+<XML_Serializer_Tag>Lithograph</XML_Serializer_Tag>
+</professionOrOccupation>
+<artworks />
+<dbpResource>http://dbpedia.org/resource/Johann_Wilhelm_Schirmer</dbpResource>
+<abstract>Johann Wilhelm Schirmer (* 7. September 1807 in Jülich; † 11. September 1863 in Karlsruhe) war ein deutscher Landschaftsmaler und Grafiker.</abstract>
+<wikilink>http://en.wikipedia.org/wiki/Johann_Wilhelm_Schirmer?oldid=565390674</wikilink>
+</Person>

@@ -1,0 +1,25 @@
+<Person>
+<name>Leopold Kupelwieser</name>
+<variantName>
+<XML_Serializer_Tag>L. Kupelwieser</XML_Serializer_Tag>
+</variantName>
+<thumbnail>https://commons.wikimedia.org/wiki/Special:FilePath/Professor_Leopold_Kupelwieser_1851.png?width=270</thumbnail>
+<birthEN>October 17, 1796</birthEN>
+<birthDE>17. Oktober 1796</birthDE>
+<deathEN>November 17, 1862</deathEN>
+<deathDE>17. November 1862</deathDE>
+<birthPlace>
+<XML_Serializer_Tag>Markt Piesting</XML_Serializer_Tag>
+</birthPlace>
+<deathPlace>
+<XML_Serializer_Tag>Wien</XML_Serializer_Tag>
+</deathPlace>
+<professionOrOccupation>
+<XML_Serializer_Tag>Künstler</XML_Serializer_Tag>
+<XML_Serializer_Tag>Maler</XML_Serializer_Tag>
+</professionOrOccupation>
+<artworks />
+<dbpResource>http://dbpedia.org/resource/Leopold_Kupelwieser</dbpResource>
+<abstract>Leopold Kupelwieser (* 17. Oktober 1796 in Markt Piesting; † 17. November 1862 in Wien) war ein österreichischer Maler.</abstract>
+<wikilink>http://en.wikipedia.org/wiki/Leopold_Kupelwieser?oldid=567010449</wikilink>
+</Person>

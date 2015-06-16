@@ -1,0 +1,35 @@
+<Person>
+<name>Jan Boeckhorst</name>
+<variantName>
+<XML_Serializer_Tag>Jan von Bockhorst</XML_Serializer_Tag>
+<XML_Serializer_Tag>Der lange Jan</XML_Serializer_Tag>
+<XML_Serializer_Tag>Johann Boeckhorst</XML_Serializer_Tag>
+<XML_Serializer_Tag>Johannes Boeckhorst</XML_Serializer_Tag>
+<XML_Serializer_Tag>Jan Bockhorst</XML_Serializer_Tag>
+<XML_Serializer_Tag>Johannes Bouchorst</XML_Serializer_Tag>
+<XML_Serializer_Tag>Jean van Bockhorst</XML_Serializer_Tag>
+<XML_Serializer_Tag>Jan Bouckorst</XML_Serializer_Tag>
+<XML_Serializer_Tag>Jan Bronchorst</XML_Serializer_Tag>
+<XML_Serializer_Tag>Langer Jan</XML_Serializer_Tag>
+<XML_Serializer_Tag>Lange Jan</XML_Serializer_Tag>
+<XML_Serializer_Tag>Johann Bockhorst</XML_Serializer_Tag>
+<XML_Serializer_Tag>Johan Boichorst</XML_Serializer_Tag>
+</variantName>
+<thumbnail>https://commons.wikimedia.org/wiki/Special:FilePath/Bockhorst_Achilles.jpg?width=270</thumbnail>
+<birthEN>XX.XX.1605</birthEN>
+<birthDE>XX.XX.1605</birthDE>
+<deathEN>April 21, 1668</deathEN>
+<deathDE>21. April 1668</deathDE>
+<birthPlace>
+<XML_Serializer_Tag>Münster (Westf)</XML_Serializer_Tag>
+</birthPlace>
+<deathPlace />
+<professionOrOccupation>
+<XML_Serializer_Tag>Künstler</XML_Serializer_Tag>
+<XML_Serializer_Tag>Maler</XML_Serializer_Tag>
+</professionOrOccupation>
+<artworks />
+<dbpResource>http://dbpedia.org/resource/Jan_Boeckhorst</dbpResource>
+<abstract>Johann Bockhorst (auch Jan Boeckhorst, genannt Langer Jan; * 1604 in Münster (Westfalen); † 21. April 1668 in Antwerpen) war ein deutscher Maler der Barockzeit.Er war ein enger Mitarbeiter von Peter Paul Rubens. Bockhorst pflegte seine Werke selten zu signieren oder datieren. Deswegen wurden manche seiner Arbeiten Rubens oder Anthon van Dyck, mit dem er eng befreundet war, zugewiesen. Die Kunstgeschichte schreibt ihm jedoch inzwischen viele seiner Werke durch Stilvergleich zu oder belegt seine Urheberschaft vereinzelt durch Archivalien. Mit seinen Heiligenbildern stellte er sich in den Dienst der Gegenreformation. Bockhorst wird den flämischen Malern zugerechnet.</abstract>
+<wikilink>http://en.wikipedia.org/wiki/Jan_Boeckhorst?oldid=601608123</wikilink>
+</Person>

@@ -1,0 +1,26 @@
+<Person>
+<name>Walter Sickert</name>
+<variantName>
+<XML_Serializer_Tag>Walter Richard Sickert</XML_Serializer_Tag>
+<XML_Serializer_Tag>W. R. Sickert</XML_Serializer_Tag>
+<XML_Serializer_Tag>Walter R. Sickert</XML_Serializer_Tag>
+</variantName>
+<thumbnail>https://commons.wikimedia.org/wiki/Special:FilePath/Walter_Sickert_photo_by_George_Charles_Beresford_1911.jpg?width=270</thumbnail>
+<birthEN>May 31, 1860</birthEN>
+<birthDE>31. Mai 1860</birthDE>
+<deathEN>January 22, 1942</deathEN>
+<deathDE>22. Januar 1942</deathDE>
+<birthPlace>
+<XML_Serializer_Tag>München</XML_Serializer_Tag>
+</birthPlace>
+<deathPlace>
+<XML_Serializer_Tag>Bath</XML_Serializer_Tag>
+</deathPlace>
+<professionOrOccupation>
+<XML_Serializer_Tag>Maler</XML_Serializer_Tag>
+</professionOrOccupation>
+<artworks />
+<dbpResource>http://dbpedia.org/resource/Walter_Sickert</dbpResource>
+<abstract>Walter Richard Sickert (* 31. Mai 1860 in München; † 22. Januar 1942 in Bath) war ein in Deutschland geborener englischer Maler. Er gilt als exzentrische, aber einflussreiche Figur des Überganges vom Impressionismus zur Moderne.</abstract>
+<wikilink>http://en.wikipedia.org/wiki/Walter_Sickert?oldid=602723403</wikilink>
+</Person>

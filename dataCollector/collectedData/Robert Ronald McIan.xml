@@ -1,0 +1,25 @@
+<Person>
+<name>Robert Ronald McIan</name>
+<variantName>
+<XML_Serializer_Tag>Ronald McIan</XML_Serializer_Tag>
+<XML_Serializer_Tag>Ronald MacIan</XML_Serializer_Tag>
+<XML_Serializer_Tag>Robert Ronald MacIan</XML_Serializer_Tag>
+<XML_Serializer_Tag>Robert Jones</XML_Serializer_Tag>
+<XML_Serializer_Tag>Robert R. MacIan</XML_Serializer_Tag>
+</variantName>
+<thumbnail>https://commons.wikimedia.org/wiki/Special:FilePath/Macdonald_of_Glenco_(R._R._McIan).jpg?width=270</thumbnail>
+<birthEN>1803</birthEN>
+<birthDE>1803</birthDE>
+<deathEN>1856</deathEN>
+<deathDE>1856</deathDE>
+<birthPlace />
+<deathPlace />
+<professionOrOccupation>
+<XML_Serializer_Tag>Schauspieler</XML_Serializer_Tag>
+<XML_Serializer_Tag>Maler</XML_Serializer_Tag>
+</professionOrOccupation>
+<artworks />
+<dbpResource>http://dbpedia.org/resource/R._R._McIan</dbpResource>
+<abstract>Robert Ronald McIan (* 1803 in Schottland; † 13. Dezember 1856 in Hampstead (London)) war ein schottischer Maler, der romantische und traditionelle Themen malte.</abstract>
+<wikilink>http://en.wikipedia.org/wiki/R._R._McIan?oldid=603195444</wikilink>
+</Person>

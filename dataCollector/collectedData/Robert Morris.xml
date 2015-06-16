@@ -1,0 +1,24 @@
+<Person>
+<name>Robert Morris</name>
+<variantName />
+<thumbnail>https://commons.wikimedia.org/wiki/Special:FilePath/Observatorium_Robert_Morris_1.JPG?width=270</thumbnail>
+<birthEN>1931</birthEN>
+<birthDE>1931</birthDE>
+<deathEN />
+<deathDE />
+<birthPlace>
+<XML_Serializer_Tag>Kansas City</XML_Serializer_Tag>
+</birthPlace>
+<deathPlace />
+<professionOrOccupation>
+<XML_Serializer_Tag>Künstler</XML_Serializer_Tag>
+<XML_Serializer_Tag>Bildhauer</XML_Serializer_Tag>
+<XML_Serializer_Tag>Tänzer</XML_Serializer_Tag>
+<XML_Serializer_Tag>Maler</XML_Serializer_Tag>
+<XML_Serializer_Tag>Videokünstler</XML_Serializer_Tag>
+</professionOrOccupation>
+<artworks />
+<dbpResource>http://dbpedia.org/resource/Robert_Morris_(artist)</dbpResource>
+<abstract>Robert Morris (* 9. Februar 1931 in Kansas City, Missouri) ist ein US-amerikanischer Bildhauer, Konzeptkünstler und Schriftsteller.Er gilt zusammen mit Donald Judd als einer der wichtigsten Vertreter des Minimalismus und lieferte wichtige Beiträge zur Entwicklung der Performance, der Land Art, der prozesshaften Kunst und der Installation.</abstract>
+<wikilink>http://en.wikipedia.org/wiki/Robert_Morris_(artist)?oldid=599300847</wikilink>
+</Person>

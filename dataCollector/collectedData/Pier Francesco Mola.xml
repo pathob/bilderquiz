@@ -1,0 +1,53 @@
+<Person>
+<name>Pier Francesco Mola</name>
+<variantName>
+<XML_Serializer_Tag>Pietro Francesco Mola</XML_Serializer_Tag>
+<XML_Serializer_Tag>Pier F. Mola</XML_Serializer_Tag>
+<XML_Serializer_Tag>F. Mola</XML_Serializer_Tag>
+<XML_Serializer_Tag>Pierre-François Mola</XML_Serializer_Tag>
+<XML_Serializer_Tag>P. F. Mola</XML_Serializer_Tag>
+</variantName>
+<thumbnail>https://commons.wikimedia.org/wiki/Special:FilePath/Mola_Autoritratto.jpg?width=270</thumbnail>
+<birthEN>February 9, 1612</birthEN>
+<birthDE>9. Februar 1612</birthDE>
+<deathEN>May 13, 1666</deathEN>
+<deathDE>13. Mai 1666</deathDE>
+<birthPlace>
+<XML_Serializer_Tag>Coldrerio</XML_Serializer_Tag>
+</birthPlace>
+<deathPlace>
+<XML_Serializer_Tag>Rom</XML_Serializer_Tag>
+</deathPlace>
+<professionOrOccupation>
+<XML_Serializer_Tag>Maler</XML_Serializer_Tag>
+</professionOrOccupation>
+<artworks>
+<XML_Serializer_Tag>
+<painting>
+<type>uri</type>
+<value>http://dbpedia.org/resource/The_Rest_on_the_Flight_into_Egypt_(Mola)</value>
+</painting>
+<thumbnail>
+<type>uri</type>
+<value>http://commons.wikimedia.org/wiki/Special:FilePath/Mola,_Pietro_Francesco_-_Rest_on_the_Flight_-_Google_Art_Project.jpg?width=300</value>
+</thumbnail>
+<name>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>The Rest on the Flight into Egypt</value>
+</name>
+<year>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>Late 17th century</value>
+</year>
+<wikilink>
+<type>uri</type>
+<value>http://en.wikipedia.org/wiki/The_Rest_on_the_Flight_into_Egypt_(Mola)?oldid=588015805</value>
+</wikilink>
+</XML_Serializer_Tag>
+</artworks>
+<dbpResource>http://dbpedia.org/resource/Pier_Francesco_Mola</dbpResource>
+<abstract>Pier Francesco Mola (getauft am 9. Februar 1612 in Coldrerio, Tessin; † 13. Mai 1666 in Rom) war ein römischer Barockmaler, der aus dem Tessin stammte.</abstract>
+<wikilink>http://en.wikipedia.org/wiki/Pier_Francesco_Mola?oldid=606039869</wikilink>
+</Person>

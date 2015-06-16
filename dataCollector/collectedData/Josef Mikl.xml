@@ -1,0 +1,24 @@
+<Person>
+<name>Josef Mikl</name>
+<variantName>
+<XML_Serializer_Tag>Mikl</XML_Serializer_Tag>
+</variantName>
+<thumbnail>https://commons.wikimedia.org/wiki/Special:FilePath/ParscherPfarrkircheZumKostbarenBlut.JosefMikl.I.JPG?width=270</thumbnail>
+<birthEN>August 8, 1929</birthEN>
+<birthDE>8. August 1929</birthDE>
+<deathEN>March 29, 2008</deathEN>
+<deathDE>29. März 2008</deathDE>
+<birthPlace>
+<XML_Serializer_Tag>Wien</XML_Serializer_Tag>
+</birthPlace>
+<deathPlace>
+<XML_Serializer_Tag>Wien</XML_Serializer_Tag>
+</deathPlace>
+<professionOrOccupation>
+<XML_Serializer_Tag>Maler</XML_Serializer_Tag>
+</professionOrOccupation>
+<artworks />
+<dbpResource>http://dbpedia.org/resource/Josef_Mikl</dbpResource>
+<abstract>Josef Mikl (* 8. August 1929 in Wien; † 29. März 2008 ebenda) war ein österreichischer Maler und Grafiker.</abstract>
+<wikilink>http://en.wikipedia.org/wiki/Josef_Mikl?oldid=599774531</wikilink>
+</Person>

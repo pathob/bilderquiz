@@ -1,0 +1,20 @@
+<Person>
+<name>Luis de Morales</name>
+<variantName />
+<thumbnail>https://commons.wikimedia.org/wiki/Special:FilePath/Luis_de_Morales_-_Pietà.jpg?width=270</thumbnail>
+<birthEN>1520</birthEN>
+<birthDE>1520</birthDE>
+<deathEN>1591</deathEN>
+<deathDE>1591</deathDE>
+<birthPlace>
+<XML_Serializer_Tag>Badajoz</XML_Serializer_Tag>
+</birthPlace>
+<deathPlace />
+<professionOrOccupation>
+<XML_Serializer_Tag>Maler</XML_Serializer_Tag>
+</professionOrOccupation>
+<artworks />
+<dbpResource>http://dbpedia.org/resource/Luis_de_Morales</dbpResource>
+<abstract>Luis de Morales, genannt El Divino (* um 1509 in Badajoz; † 9. Mai 1586 ebenda) war ein spanischer Maler.</abstract>
+<wikilink>http://en.wikipedia.org/wiki/Luis_de_Morales?oldid=565980765</wikilink>
+</Person>

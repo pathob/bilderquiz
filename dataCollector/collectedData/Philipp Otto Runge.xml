@@ -1,0 +1,28 @@
+<Person>
+<name>Philipp Otto Runge</name>
+<variantName>
+<XML_Serializer_Tag>Philipp O. Runge</XML_Serializer_Tag>
+<XML_Serializer_Tag>Otto Runge</XML_Serializer_Tag>
+<XML_Serializer_Tag>P. O. Runge</XML_Serializer_Tag>
+<XML_Serializer_Tag>Ph. O. Runge</XML_Serializer_Tag>
+</variantName>
+<thumbnail>https://commons.wikimedia.org/wiki/Special:FilePath/Philippottorunge.jpg?width=270</thumbnail>
+<birthEN>July 23, 1777</birthEN>
+<birthDE>23. Juli 1777</birthDE>
+<deathEN>December 2, 1810</deathEN>
+<deathDE>2. Dezember 1810</deathDE>
+<birthPlace>
+<XML_Serializer_Tag>Wolgast</XML_Serializer_Tag>
+</birthPlace>
+<deathPlace>
+<XML_Serializer_Tag>Hamburg</XML_Serializer_Tag>
+</deathPlace>
+<professionOrOccupation>
+<XML_Serializer_Tag>Maler</XML_Serializer_Tag>
+<XML_Serializer_Tag>Schriftsteller</XML_Serializer_Tag>
+</professionOrOccupation>
+<artworks />
+<dbpResource>http://dbpedia.org/resource/Philipp_Otto_Runge</dbpResource>
+<abstract>Philipp Otto Runge (* 23. Juli 1777 in Wolgast; † 2. Dezember 1810 in Hamburg) war neben Caspar David Friedrich der bedeutendste deutsche Maler der Frühromantik.</abstract>
+<wikilink>http://en.wikipedia.org/wiki/Philipp_Otto_Runge?oldid=600275021</wikilink>
+</Person>

@@ -1,0 +1,33 @@
+<Person>
+<name>Luigi Pirandello</name>
+<variantName>
+<XML_Serializer_Tag>L. Pirandello</XML_Serializer_Tag>
+<XML_Serializer_Tag>Luis Pirandello</XML_Serializer_Tag>
+<XML_Serializer_Tag>Luigi Pirantello</XML_Serializer_Tag>
+<XML_Serializer_Tag>L. Pirantello</XML_Serializer_Tag>
+<XML_Serializer_Tag>Luidži Pirandello</XML_Serializer_Tag>
+<XML_Serializer_Tag>Aloysius Pirandello</XML_Serializer_Tag>
+<XML_Serializer_Tag>Luwīǧī Bīrāndillū</XML_Serializer_Tag>
+</variantName>
+<thumbnail>https://commons.wikimedia.org/wiki/Special:FilePath/Luigi_Pirandello_1934b.jpg?width=270</thumbnail>
+<birthEN>June 18, 1867</birthEN>
+<birthDE>18. Juni 1867</birthDE>
+<deathEN>December 10, 1936</deathEN>
+<deathDE>10. Dezember 1936</deathDE>
+<birthPlace>
+<XML_Serializer_Tag>Agrigent</XML_Serializer_Tag>
+</birthPlace>
+<deathPlace>
+<XML_Serializer_Tag>Rom</XML_Serializer_Tag>
+</deathPlace>
+<professionOrOccupation>
+<XML_Serializer_Tag>Dramatiker</XML_Serializer_Tag>
+<XML_Serializer_Tag>Lyriker</XML_Serializer_Tag>
+<XML_Serializer_Tag>Maler</XML_Serializer_Tag>
+<XML_Serializer_Tag>Schriftsteller</XML_Serializer_Tag>
+</professionOrOccupation>
+<artworks />
+<dbpResource>http://dbpedia.org/resource/Luigi_Pirandello</dbpResource>
+<abstract>Luigi Pirandello (* 28. Juni 1867 in Girgenti, dem heutigen Agrigent, Sizilien; † 10. Dezember 1936 in Rom) war ein italienischer Schriftsteller. Er wird zu den bedeutendsten Dramatikern des 20. Jahrhunderts gezählt und erhielt 1934 den Nobelpreis für Literatur.</abstract>
+<wikilink>http://en.wikipedia.org/wiki/Luigi_Pirandello?oldid=605315003</wikilink>
+</Person>

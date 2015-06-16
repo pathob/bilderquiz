@@ -1,0 +1,24 @@
+<Person>
+<name>Albert Anker</name>
+<variantName>
+<XML_Serializer_Tag>A. Anker</XML_Serializer_Tag>
+<XML_Serializer_Tag>Samuel Albert Anker</XML_Serializer_Tag>
+<XML_Serializer_Tag>Samuel Albrecht Anker</XML_Serializer_Tag>
+<XML_Serializer_Tag>Albrecht Anker</XML_Serializer_Tag>
+<XML_Serializer_Tag>Samuel A. Anker</XML_Serializer_Tag>
+</variantName>
+<thumbnail>https://commons.wikimedia.org/wiki/Special:FilePath/Albert_Anker.jpg?width=270</thumbnail>
+<birthEN>April 1, 1831</birthEN>
+<birthDE>1. April 1831</birthDE>
+<deathEN>July 16, 1910</deathEN>
+<deathDE>16. Juli 1910</deathDE>
+<birthPlace />
+<deathPlace />
+<professionOrOccupation>
+<XML_Serializer_Tag>Maler</XML_Serializer_Tag>
+</professionOrOccupation>
+<artworks />
+<dbpResource>http://dbpedia.org/resource/Albert_Anker</dbpResource>
+<abstract>Albert Samuel Anker (* 1. April 1831 in Ins, Kanton Bern, Schweiz; † 16. Juli 1910 ebenda) war ein Schweizer Maler, Grafiker und Genremaler des schweizerischen Volkslebens.</abstract>
+<wikilink>http://en.wikipedia.org/wiki/Albert_Anker?oldid=591895676</wikilink>
+</Person>

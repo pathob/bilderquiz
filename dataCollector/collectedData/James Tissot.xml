@@ -1,0 +1,55 @@
+<Person>
+<name>James Tissot</name>
+<variantName>
+<XML_Serializer_Tag>James Jacques Joseph Tissot</XML_Serializer_Tag>
+<XML_Serializer_Tag>Jacques Joseph Tissot</XML_Serializer_Tag>
+<XML_Serializer_Tag>Jacques J. Tissot</XML_Serializer_Tag>
+<XML_Serializer_Tag>J. James Tissot</XML_Serializer_Tag>
+<XML_Serializer_Tag>J. J. Tissot</XML_Serializer_Tag>
+</variantName>
+<thumbnail>https://commons.wikimedia.org/wiki/Special:FilePath/Tissot_self_detail.jpg?width=270</thumbnail>
+<birthEN>October 15, 1836</birthEN>
+<birthDE>15. Oktober 1836</birthDE>
+<deathEN>August 8, 1902</deathEN>
+<deathDE>8. August 1902</deathDE>
+<birthPlace>
+<XML_Serializer_Tag>Nantes</XML_Serializer_Tag>
+</birthPlace>
+<deathPlace>
+<XML_Serializer_Tag>Buillon</XML_Serializer_Tag>
+</deathPlace>
+<professionOrOccupation>
+<XML_Serializer_Tag>Maler</XML_Serializer_Tag>
+<XML_Serializer_Tag>Radierer</XML_Serializer_Tag>
+<XML_Serializer_Tag>Graphiker</XML_Serializer_Tag>
+</professionOrOccupation>
+<artworks>
+<XML_Serializer_Tag>
+<painting>
+<type>uri</type>
+<value>http://dbpedia.org/resource/The_Shop_Girl_(Tissot)</value>
+</painting>
+<thumbnail>
+<type>uri</type>
+<value>http://commons.wikimedia.org/wiki/Special:FilePath/James_Tissot_-_The_Shop_Girl.jpg?width=300</value>
+</thumbnail>
+<name>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>The Shop Girl</value>
+</name>
+<year>
+<type>typed-literal</type>
+<datatype>http://www.w3.org/2001/XMLSchema#integer</datatype>
+<value>1883</value>
+</year>
+<wikilink>
+<type>uri</type>
+<value>http://en.wikipedia.org/wiki/The_Shop_Girl_(Tissot)?oldid=590862767</value>
+</wikilink>
+</XML_Serializer_Tag>
+</artworks>
+<dbpResource>http://dbpedia.org/resource/James_Tissot</dbpResource>
+<abstract>James Tissot (eigentlich Jacques Joseph Tissot; * 15. Oktober 1836 in Nantes; † 8. August 1902 in Buillon) war ein französischer Maler und Grafiker. Der vor allem für seine Porträts im viktorianischen England der 1870er Jahre bekannte Künstler widmete sich in seinem Spätwerk überwiegend religiösen Themen.</abstract>
+<wikilink>http://en.wikipedia.org/wiki/James_Tissot?oldid=603227331</wikilink>
+</Person>

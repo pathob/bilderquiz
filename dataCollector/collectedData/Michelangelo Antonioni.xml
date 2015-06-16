@@ -1,0 +1,28 @@
+<Person>
+<name>Michelangelo Antonioni</name>
+<variantName>
+<XML_Serializer_Tag>An-tung-ni-ao-ni</XML_Serializer_Tag>
+</variantName>
+<thumbnail>https://commons.wikimedia.org/wiki/Special:FilePath/MichelangeloAntonioniFoto-2.jpg?width=270</thumbnail>
+<birthEN>September 29, 1912</birthEN>
+<birthDE>29. September 1912</birthDE>
+<deathEN>July 30, 2007</deathEN>
+<deathDE>30. Juli 2007</deathDE>
+<birthPlace>
+<XML_Serializer_Tag>Ferrara</XML_Serializer_Tag>
+</birthPlace>
+<deathPlace>
+<XML_Serializer_Tag>Rom</XML_Serializer_Tag>
+</deathPlace>
+<professionOrOccupation>
+<XML_Serializer_Tag>Filmregisseur</XML_Serializer_Tag>
+<XML_Serializer_Tag>Autor</XML_Serializer_Tag>
+<XML_Serializer_Tag>Maler</XML_Serializer_Tag>
+<XML_Serializer_Tag>Regisseur</XML_Serializer_Tag>
+<XML_Serializer_Tag>Drehbuchautor</XML_Serializer_Tag>
+</professionOrOccupation>
+<artworks />
+<dbpResource>http://dbpedia.org/resource/Michelangelo_Antonioni</dbpResource>
+<abstract>Michelangelo Antonioni (* 29. September 1912 in Ferrara, Italien; † 30. Juli 2007 in Rom) war ein italienischer Filmregisseur, Autor und Maler.</abstract>
+<wikilink>http://en.wikipedia.org/wiki/Michelangelo_Antonioni?oldid=602938790</wikilink>
+</Person>

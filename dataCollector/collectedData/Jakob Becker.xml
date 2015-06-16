@@ -1,0 +1,28 @@
+<Person>
+<name>Jakob Becker</name>
+<variantName>
+<XML_Serializer_Tag>Jakob Becker von Worms</XML_Serializer_Tag>
+<XML_Serializer_Tag>Jakob Becker von Worms</XML_Serializer_Tag>
+</variantName>
+<thumbnail>https://commons.wikimedia.org/wiki/Special:FilePath/Becker_-_The_Shepherd_Struck_by_Lightning.JPG?width=270</thumbnail>
+<birthEN>March 15, 1810</birthEN>
+<birthDE>15. März 1810</birthDE>
+<deathEN>December 22, 1872</deathEN>
+<deathDE>22. Dezember 1872</deathDE>
+<birthPlace>
+<XML_Serializer_Tag>Dittelsheim</XML_Serializer_Tag>
+</birthPlace>
+<deathPlace>
+<XML_Serializer_Tag>Frankfurt am Main</XML_Serializer_Tag>
+</deathPlace>
+<professionOrOccupation>
+<XML_Serializer_Tag>Künstler</XML_Serializer_Tag>
+<XML_Serializer_Tag>Maler</XML_Serializer_Tag>
+<XML_Serializer_Tag>Lithograph</XML_Serializer_Tag>
+<XML_Serializer_Tag>Radierer</XML_Serializer_Tag>
+</professionOrOccupation>
+<artworks />
+<dbpResource>http://dbpedia.org/resource/Jakob_Becker</dbpResource>
+<abstract>Jakob Becker (* 15. März 1810 in Dittelsheim bei Worms; † 22. Dezember 1872 in Frankfurt am Main) war ein deutscher Maler, Radierer und Lithograf.</abstract>
+<wikilink>http://en.wikipedia.org/wiki/Jakob_Becker?oldid=581944900</wikilink>
+</Person>

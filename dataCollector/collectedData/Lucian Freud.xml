@@ -1,0 +1,22 @@
+<Person>
+<name>Lucian Freud</name>
+<variantName />
+<thumbnail>https://commons.wikimedia.org/wiki/Special:FilePath/LucienFreud.jpg?width=270</thumbnail>
+<birthEN>December 8, 1922</birthEN>
+<birthDE>8. Dezember 1922</birthDE>
+<deathEN>July 20, 2011</deathEN>
+<deathDE>20. Juli 2011</deathDE>
+<birthPlace>
+<XML_Serializer_Tag>Berlin</XML_Serializer_Tag>
+</birthPlace>
+<deathPlace />
+<professionOrOccupation>
+<XML_Serializer_Tag>Maler</XML_Serializer_Tag>
+<XML_Serializer_Tag>Graphiker</XML_Serializer_Tag>
+<XML_Serializer_Tag>Illustrator</XML_Serializer_Tag>
+</professionOrOccupation>
+<artworks />
+<dbpResource>http://dbpedia.org/resource/Lucian_Freud</dbpResource>
+<abstract>Lucian Freud, OM, CH, CBE (* 8. Dezember 1922 in Berlin; † 20. Juli 2011 in London) war ein britischer Maler. Er war ein Sohn des österreichischen Architekten Ernst Ludwig Freud und der Lucie Freud sowie der Enkel des Psychoanalytikers Sigmund Freud.</abstract>
+<wikilink>http://en.wikipedia.org/wiki/Lucian_Freud?oldid=605298155</wikilink>
+</Person>

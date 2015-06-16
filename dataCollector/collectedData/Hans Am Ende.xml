@@ -1,0 +1,24 @@
+<Person>
+<name>Hans Am Ende</name>
+<variantName>
+<XML_Serializer_Tag>Hans am Ende</XML_Serializer_Tag>
+<XML_Serializer_Tag>Hans AmEnde</XML_Serializer_Tag>
+<XML_Serializer_Tag>Hans Ludwig Ernst Johannes Am Ende</XML_Serializer_Tag>
+</variantName>
+<thumbnail>https://commons.wikimedia.org/wiki/Special:FilePath/HL_Damals_–_Hans_am_Ende.jpg?width=270</thumbnail>
+<birthEN>December 31, 1864</birthEN>
+<birthDE>31. Dezember 1864</birthDE>
+<deathEN>July 9, 1918</deathEN>
+<deathDE>9. Juli 1918</deathDE>
+<birthPlace />
+<deathPlace />
+<professionOrOccupation>
+<XML_Serializer_Tag>Maler</XML_Serializer_Tag>
+<XML_Serializer_Tag>Radierer</XML_Serializer_Tag>
+<XML_Serializer_Tag>Bildhauer</XML_Serializer_Tag>
+</professionOrOccupation>
+<artworks />
+<dbpResource>http://dbpedia.org/resource/Hans_am_Ende</dbpResource>
+<abstract>Hans am Ende (* 31. Dezember 1864 in Trier; † 9. Juli 1918 in Stettin) war ein deutscher Maler des Impressionismus und Mitbegründer der Künstlerkolonie Worpswede.</abstract>
+<wikilink>http://en.wikipedia.org/wiki/Hans_am_Ende?oldid=602482631</wikilink>
+</Person>

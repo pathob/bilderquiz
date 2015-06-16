@@ -1,0 +1,57 @@
+<Person>
+<name>Egon Schiele</name>
+<variantName>
+<XML_Serializer_Tag>Egon Leo Adolf Schiele</XML_Serializer_Tag>
+<XML_Serializer_Tag>... Schiele</XML_Serializer_Tag>
+<XML_Serializer_Tag>Ėgon Šile</XML_Serializer_Tag>
+</variantName>
+<thumbnail>https://commons.wikimedia.org/wiki/Special:FilePath/Egon_Schiele_074.jpg?width=270</thumbnail>
+<birthEN>June 12, 1890</birthEN>
+<birthDE>12. Juni 1890</birthDE>
+<deathEN>October 31, 1918</deathEN>
+<deathDE>31. Oktober 1918</deathDE>
+<birthPlace>
+<XML_Serializer_Tag>Tulln an der Donau</XML_Serializer_Tag>
+</birthPlace>
+<deathPlace>
+<XML_Serializer_Tag>Wien</XML_Serializer_Tag>
+</deathPlace>
+<professionOrOccupation>
+<XML_Serializer_Tag>Künstler</XML_Serializer_Tag>
+<XML_Serializer_Tag>Maler</XML_Serializer_Tag>
+</professionOrOccupation>
+<artworks>
+<XML_Serializer_Tag>
+<painting>
+<type>uri</type>
+<value>http://dbpedia.org/resource/Portrait_of_Wally</value>
+</painting>
+<thumbnail>
+<type>uri</type>
+<value>http://en.wikipedia.org/wiki/Special:FilePath/Egon_Schiele_069.jpg?width=300</value>
+</thumbnail>
+<name>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>Portrait of Wally</value>
+</name>
+<year>
+<type>typed-literal</type>
+<datatype>http://www.w3.org/2001/XMLSchema#integer</datatype>
+<value>1912</value>
+</year>
+<abstract>
+<type>literal</type>
+<xml:lang>de</xml:lang>
+<value>Bildnis Walburga Neuzil, meist kurz Wally genannt, ist der Titel eines 1912 vom österreichischen Maler Egon Schiele (1890–1918) im expressionistischen Stilgeschaffenen Porträts. Es ist in Öl auf Holz gemalt, hat die Maße 32,7 × 39,8 Zentimeter und stellt Schieles damalige Geliebte Walburga Neuzil dar. Das Gemälde wurde lange Jahre auch in der Fachliteratur fälschlich Bildnis Valerie Neuziel genannt. Es stand in der öffentlichen Aufmerksamkeit, nachdem es 1998 in New York, wo es als Leihgabe des Wiener Leopold Museums im Museum of Modern Art (MoMA) ausgestellt war, als Raubkunst sichergestellt wurde, was wiederum einen zwölf Jahre andauernden Rechtsstreit nach sich zog. Im Juli 2010 kam es zu einer außergerichtlichen Einigung, Wally kehrte nach einer Zahlung von 19 Millionen US-Dollar nach Wien zurück.</value>
+</abstract>
+<wikilink>
+<type>uri</type>
+<value>http://en.wikipedia.org/wiki/Portrait_of_Wally?oldid=598720051</value>
+</wikilink>
+</XML_Serializer_Tag>
+</artworks>
+<dbpResource>http://dbpedia.org/resource/Egon_Schiele</dbpResource>
+<abstract>Egon Leo Adolf Ludwig Schiele (* 12. Juni 1890 in Tulln an der Donau, Niederösterreich; † 31. Oktober 1918 in Wien) war ein österreichischer Maler des Expressionismus. Neben Gustav Klimt und Oskar Kokoschka zählt er zu den bedeutendsten bildenden Künstlern der Wiener Moderne.</abstract>
+<wikilink>http://en.wikipedia.org/wiki/Egon_Schiele?oldid=606693453</wikilink>
+</Person>

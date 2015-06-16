@@ -1,0 +1,29 @@
+<Person>
+<name>Juan Gris</name>
+<variantName>
+<XML_Serializer_Tag>José Victoriano Gonzáles</XML_Serializer_Tag>
+<XML_Serializer_Tag>José Vittoriano Gonzalés</XML_Serializer_Tag>
+<XML_Serializer_Tag>José Victoriano Carmelo Carlos Gonzales</XML_Serializer_Tag>
+</variantName>
+<thumbnail>https://commons.wikimedia.org/wiki/Special:FilePath/Portrait_of_Juan_Gris_1915_Modigliani.jpg?width=270</thumbnail>
+<birthEN>March 23, 1887</birthEN>
+<birthDE>23. März 1887</birthDE>
+<deathEN>January 22, 1927</deathEN>
+<deathDE>22. Januar 1927</deathDE>
+<birthPlace>
+<XML_Serializer_Tag>Madrid</XML_Serializer_Tag>
+</birthPlace>
+<deathPlace>
+<XML_Serializer_Tag>Paris</XML_Serializer_Tag>
+</deathPlace>
+<professionOrOccupation>
+<XML_Serializer_Tag>Maler</XML_Serializer_Tag>
+<XML_Serializer_Tag>Bühnenbildner</XML_Serializer_Tag>
+<XML_Serializer_Tag>Illustrator</XML_Serializer_Tag>
+<XML_Serializer_Tag>Bildhauer</XML_Serializer_Tag>
+</professionOrOccupation>
+<artworks />
+<dbpResource>http://dbpedia.org/resource/Juan_Gris</dbpResource>
+<abstract>Juan Gris (* 23. März 1887 in Madrid; † 11. Mai 1927 in Boulogne-sur-Seine, Frankreich; eigentlich José Victoriano Carmelo Carlos González-Pérez) war ein spanischer Maler. Neben Pablo Picasso und Georges Braque ist er der Hauptvertreter des synthetischen Kubismus. Gris malte vornehmlich Stillleben, in denen er Bildelemente als Collage neben- und übereinandersetzte. Gris fügte die neuen Gestaltungsprinzipien des Kubismus in ein rationales System ein und war zeit seines Schaffens bemüht, sein künstlerisches Vorgehen auch theoretisch zu vermitteln.</abstract>
+<wikilink>http://en.wikipedia.org/wiki/Juan_Gris?oldid=605601182</wikilink>
+</Person>

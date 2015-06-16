@@ -1,0 +1,28 @@
+<Person>
+<name>Ludwig Pietsch</name>
+<variantName>
+<XML_Serializer_Tag>Ljudvig Pič</XML_Serializer_Tag>
+<XML_Serializer_Tag>Ludwig Karl Adolf Pietsch</XML_Serializer_Tag>
+</variantName>
+<thumbnail>https://de.wikipedia.org/wiki/Special:FilePath/Pietsch.JPG?width=270</thumbnail>
+<birthEN>December 25, 1824</birthEN>
+<birthDE>25. Dezember 1824</birthDE>
+<deathEN>November 27, 1911</deathEN>
+<deathDE>27. November 1911</deathDE>
+<birthPlace>
+<XML_Serializer_Tag>Danzig</XML_Serializer_Tag>
+</birthPlace>
+<deathPlace>
+<XML_Serializer_Tag>Berlin</XML_Serializer_Tag>
+</deathPlace>
+<professionOrOccupation>
+<XML_Serializer_Tag>Schriftsteller</XML_Serializer_Tag>
+<XML_Serializer_Tag>Zeichner</XML_Serializer_Tag>
+<XML_Serializer_Tag>Maler</XML_Serializer_Tag>
+<XML_Serializer_Tag>Lithograph</XML_Serializer_Tag>
+</professionOrOccupation>
+<artworks />
+<dbpResource>http://dbpedia.org/resource/Ludwig_Pietsch</dbpResource>
+<abstract>Ludwig Pietsch (* 25. Dezember 1824 in Danzig; † 27. November 1911 in Berlin) war ein deutscher Maler, Kunstschriftsteller und Feuilletonist in Berlin.</abstract>
+<wikilink>http://en.wikipedia.org/wiki/Ludwig_Pietsch?oldid=563820859</wikilink>
+</Person>

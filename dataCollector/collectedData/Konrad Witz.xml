@@ -1,0 +1,21 @@
+<Person>
+<name>Konrad Witz</name>
+<variantName>
+<XML_Serializer_Tag>Conrad Witz</XML_Serializer_Tag>
+<XML_Serializer_Tag>Conradus Sapientis</XML_Serializer_Tag>
+</variantName>
+<thumbnail>https://commons.wikimedia.org/wiki/Special:FilePath/Konrad_Witz_008.jpg?width=270</thumbnail>
+<birthEN>1405</birthEN>
+<birthDE>1405</birthDE>
+<deathEN>1446</deathEN>
+<deathDE>1446</deathDE>
+<birthPlace />
+<deathPlace />
+<professionOrOccupation>
+<XML_Serializer_Tag>Maler</XML_Serializer_Tag>
+</professionOrOccupation>
+<artworks />
+<dbpResource>http://dbpedia.org/resource/Konrad_Witz</dbpResource>
+<abstract>Konrad Witz (* um 1400 wahrscheinlich in Rottweil; † um 1446 in Basel) war ein oberdeutscher Maler in der ersten Hälfte des 15. Jahrhunderts. Er zählt gemeinsam mit Hans Hirtz zu den bedeutendsten Vertretern der oberrheinischen Malerei der Spätgotik bzw. der von den Niederländern (Robert Campin, Jan van Eyck, Rogier van der Weyden) beeinflussten ars nova (neue Kunst, d. h. die frühe Renaissance nördlich der Alpen).</abstract>
+<wikilink>http://en.wikipedia.org/wiki/Konrad_Witz?oldid=582294304</wikilink>
+</Person>

@@ -1,0 +1,27 @@
+<Person>
+<name>Anton Stankowski</name>
+<variantName>
+<XML_Serializer_Tag>A. Stankowski</XML_Serializer_Tag>
+</variantName>
+<thumbnail>https://commons.wikimedia.org/wiki/Special:FilePath/W_BIO_1958.jpg?width=270</thumbnail>
+<birthEN>June 18, 1906</birthEN>
+<birthDE>18. Juni 1906</birthDE>
+<deathEN>December 11, 1998</deathEN>
+<deathDE>11. Dezember 1998</deathDE>
+<birthPlace>
+<XML_Serializer_Tag>Gelsenkirchen</XML_Serializer_Tag>
+</birthPlace>
+<deathPlace>
+<XML_Serializer_Tag>Esslingen am Neckar</XML_Serializer_Tag>
+</deathPlace>
+<professionOrOccupation>
+<XML_Serializer_Tag>Graphiker</XML_Serializer_Tag>
+<XML_Serializer_Tag>Photograph</XML_Serializer_Tag>
+<XML_Serializer_Tag>Maler</XML_Serializer_Tag>
+<XML_Serializer_Tag>Zeichner</XML_Serializer_Tag>
+</professionOrOccupation>
+<artworks />
+<dbpResource>http://dbpedia.org/resource/Anton_Stankowski</dbpResource>
+<abstract>Anton Stankowski (* 18. Juni 1906 in Gelsenkirchen; † 11. Dezember 1998 in Esslingen am Neckar) war ein deutscher Grafiker, Fotograf und Maler.</abstract>
+<wikilink>http://en.wikipedia.org/wiki/Anton_Stankowski?oldid=595858491</wikilink>
+</Person>

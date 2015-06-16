@@ -1,0 +1,45 @@
+<Person>
+<name>Barnett Newman</name>
+<variantName />
+<thumbnail>https://commons.wikimedia.org/wiki/Special:FilePath/Barnett_Newman_-_Broken_Obelisk.jpg?width=270</thumbnail>
+<birthEN>1905</birthEN>
+<birthDE>1905</birthDE>
+<deathEN>1970</deathEN>
+<deathDE>1970</deathDE>
+<birthPlace />
+<deathPlace />
+<professionOrOccupation>
+<XML_Serializer_Tag>Künstler</XML_Serializer_Tag>
+<XML_Serializer_Tag>Maler</XML_Serializer_Tag>
+<XML_Serializer_Tag>Graphiker</XML_Serializer_Tag>
+</professionOrOccupation>
+<artworks>
+<XML_Serializer_Tag>
+<painting>
+<type>uri</type>
+<value>http://dbpedia.org/resource/Voice_of_Fire</value>
+</painting>
+<thumbnail>
+<type>uri</type>
+<value>http://commons.wikimedia.org/wiki/Special:FilePath/Voice_of_Fire_photo.jpg?width=300</value>
+</thumbnail>
+<name>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>Voice of Fire</value>
+</name>
+<year>
+<type>typed-literal</type>
+<datatype>http://www.w3.org/2001/XMLSchema#integer</datatype>
+<value>1967</value>
+</year>
+<wikilink>
+<type>uri</type>
+<value>http://en.wikipedia.org/wiki/Voice_of_Fire?oldid=601671677</value>
+</wikilink>
+</XML_Serializer_Tag>
+</artworks>
+<dbpResource>http://dbpedia.org/resource/Barnett_Newman</dbpResource>
+<abstract>Barnett Newman (* 29. Januar 1905 in New York; † 4. Juli 1970 ebenda) war ein amerikanischer Maler und Bildhauer. Er war der Vertreter eines meditativen Expressionismus und prägte das Colour Field Painting (Farbfeldmalerei).</abstract>
+<wikilink>http://en.wikipedia.org/wiki/Barnett_Newman?oldid=606331279</wikilink>
+</Person>

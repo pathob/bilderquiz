@@ -1,0 +1,26 @@
+<Person>
+<name>Hans Olde</name>
+<variantName>
+<XML_Serializer_Tag>Johannes Wilhelm Olde</XML_Serializer_Tag>
+<XML_Serializer_Tag>Joh. Wilhelm Olde</XML_Serializer_Tag>
+<XML_Serializer_Tag>, der Ältere</XML_Serializer_Tag>
+<XML_Serializer_Tag>Hans Wilhelm Olde</XML_Serializer_Tag>
+</variantName>
+<thumbnail>https://commons.wikimedia.org/wiki/Special:FilePath/Lovis_Corinth_Poträt_des_Malers_Hans_Olde_1904.jpg?width=270</thumbnail>
+<birthEN>April 27, 1855</birthEN>
+<birthDE>27. April 1855</birthDE>
+<deathEN>October 25, 1917</deathEN>
+<deathDE>25. Oktober 1917</deathDE>
+<birthPlace />
+<deathPlace />
+<professionOrOccupation>
+<XML_Serializer_Tag>Künstler</XML_Serializer_Tag>
+<XML_Serializer_Tag>Maler</XML_Serializer_Tag>
+<XML_Serializer_Tag>Direktor</XML_Serializer_Tag>
+<XML_Serializer_Tag>Graphiker</XML_Serializer_Tag>
+</professionOrOccupation>
+<artworks />
+<dbpResource>http://dbpedia.org/resource/Hans_Olde</dbpResource>
+<abstract>Hans Olde (* 27. April 1855 in Süderau, Holstein; † 25. Oktober 1917 in Kassel), eigentlich Johannes Wilhelm Olde, war ein deutscher Maler.</abstract>
+<wikilink>http://en.wikipedia.org/wiki/Hans_Olde?oldid=606803031</wikilink>
+</Person>

@@ -1,0 +1,79 @@
+<Person>
+<name>Cimabue</name>
+<variantName>
+<XML_Serializer_Tag>Giovanni Cimabue</XML_Serializer_Tag>
+<XML_Serializer_Tag>Giovanni, Cimabue</XML_Serializer_Tag>
+<XML_Serializer_Tag>Cenni, di Pepo</XML_Serializer_Tag>
+<XML_Serializer_Tag>Cenni di Pepo</XML_Serializer_Tag>
+<XML_Serializer_Tag>Cenni di Pepo</XML_Serializer_Tag>
+</variantName>
+<thumbnail>https://commons.wikimedia.org/wiki/Special:FilePath/Cimabue_025.jpg?width=270</thumbnail>
+<birthEN>1240</birthEN>
+<birthDE>1240</birthDE>
+<deathEN>1302</deathEN>
+<deathDE>1302</deathDE>
+<birthPlace />
+<deathPlace />
+<professionOrOccupation>
+<XML_Serializer_Tag>Maler</XML_Serializer_Tag>
+<XML_Serializer_Tag>Mosaizist</XML_Serializer_Tag>
+</professionOrOccupation>
+<artworks>
+<XML_Serializer_Tag>
+<painting>
+<type>uri</type>
+<value>http://dbpedia.org/resource/Santa_Trinita_Maest%C3%A0</value>
+</painting>
+<thumbnail>
+<type>uri</type>
+<value>http://commons.wikimedia.org/wiki/Special:FilePath/Cimabue_Trinita_Madonna.jpg?width=300</value>
+</thumbnail>
+<name>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>Maestà</value>
+</name>
+<year>
+<type>typed-literal</type>
+<datatype>http://www.w3.org/2001/XMLSchema#integer</datatype>
+<value>1280</value>
+</year>
+<abstract>
+<type>literal</type>
+<xml:lang>de</xml:lang>
+<value>Die Thronende Madonna, auch Thronende Madonna mit Engeln oder Maestà di Santa Trinita genannt, ist ein Madonnenbild vom Typus der Maestà, das 1272 bis 1274 von dem italienischen Maler Cimabue für die Kirche Santa Trinita geschaffen wurde. Es befindet sich heute in den Uffizien in Florenz.</value>
+</abstract>
+<wikilink>
+<type>uri</type>
+<value>http://en.wikipedia.org/wiki/Santa_Trinita_Maestà?oldid=590854174</value>
+</wikilink>
+</XML_Serializer_Tag>
+<XML_Serializer_Tag>
+<painting>
+<type>uri</type>
+<value>http://dbpedia.org/resource/Maest%C3%A0_(Cimabue)</value>
+</painting>
+<thumbnail>
+<type>uri</type>
+<value>http://commons.wikimedia.org/wiki/Special:FilePath/Cimabue_-_Maestà_du_Louvre.jpg?width=300</value>
+</thumbnail>
+<name>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>Maestà</value>
+</name>
+<year>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>c. 1280</value>
+</year>
+<wikilink>
+<type>uri</type>
+<value>http://en.wikipedia.org/wiki/Maestà_(Cimabue)?oldid=589682644</value>
+</wikilink>
+</XML_Serializer_Tag>
+</artworks>
+<dbpResource>http://dbpedia.org/resource/Cimabue</dbpResource>
+<abstract>Cimabue (* ca. 1240; † ca. 1302; eigentlicher Name Cenni di Pepo) war ein Florentiner Maler und Mosaik-Künstler, der auch als Entdecker und Meister von Giotto in die Kunstgeschichte einging.Als einer der ersten der Frührenaissance mit dem Formalismus der byzantinischen Kunst brechend, versuchte er sich in einer lebendigeren Darstellung der Menschen und Objekte.Giorgio Vasari verfasste in seinen Le vite die erste Biographie des Malers.</abstract>
+<wikilink>http://en.wikipedia.org/wiki/Cimabue?oldid=602887583</wikilink>
+</Person>

@@ -1,0 +1,30 @@
+<Person>
+<name>Christian Wilhelm Allers</name>
+<variantName>
+<XML_Serializer_Tag>Christian W. Allers</XML_Serializer_Tag>
+<XML_Serializer_Tag>C. W. Allers</XML_Serializer_Tag>
+<XML_Serializer_Tag>Willy Allers</XML_Serializer_Tag>
+<XML_Serializer_Tag>A. V. Allers</XML_Serializer_Tag>
+<XML_Serializer_Tag>W. Andresen</XML_Serializer_Tag>
+</variantName>
+<thumbnail>https://commons.wikimedia.org/wiki/Special:FilePath/Allers_portrait_klein.jpg?width=270</thumbnail>
+<birthEN>August 6, 1857</birthEN>
+<birthDE>6. August 1857</birthDE>
+<deathEN>October 19, 1915</deathEN>
+<deathDE>19. Oktober 1915</deathDE>
+<birthPlace>
+<XML_Serializer_Tag>Hamburg</XML_Serializer_Tag>
+</birthPlace>
+<deathPlace>
+<XML_Serializer_Tag>Karlsruhe</XML_Serializer_Tag>
+</deathPlace>
+<professionOrOccupation>
+<XML_Serializer_Tag>Maler</XML_Serializer_Tag>
+<XML_Serializer_Tag>Zeichner</XML_Serializer_Tag>
+<XML_Serializer_Tag>Illustrator</XML_Serializer_Tag>
+</professionOrOccupation>
+<artworks />
+<dbpResource>http://dbpedia.org/resource/Christian_Wilhelm_Allers</dbpResource>
+<abstract>Christian Wilhelm Allers (* 6. August 1857 in Hamburg; † 19. Oktober 1915 in Karlsruhe) war ein deutscher Zeichner, Maler und Illustrator, der besonders durch naturalistische Porträts und Alltagsszenen sowie Darstellungen aus dem Leben der Marine-Soldaten und durch seine Bücher über Bismarck bekannt wurde.</abstract>
+<wikilink>http://en.wikipedia.org/wiki/Christian_Wilhelm_Allers?oldid=606122177</wikilink>
+</Person>

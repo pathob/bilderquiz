@@ -1,0 +1,33 @@
+<Person>
+<name>Pieter Jansz Saenredam</name>
+<variantName>
+<XML_Serializer_Tag>Pieter Jansz Zaenredam</XML_Serializer_Tag>
+<XML_Serializer_Tag>Pieter Saenredam</XML_Serializer_Tag>
+<XML_Serializer_Tag>Pieter Zaenredam</XML_Serializer_Tag>
+<XML_Serializer_Tag>Pieter Janszoon Saenredam</XML_Serializer_Tag>
+<XML_Serializer_Tag>Pieter J. Saenredam</XML_Serializer_Tag>
+<XML_Serializer_Tag>Pieter Janszoon Zaenredam</XML_Serializer_Tag>
+</variantName>
+<thumbnail>https://commons.wikimedia.org/wiki/Special:FilePath/Dom-Utrecht.png?width=270</thumbnail>
+<birthEN>1597</birthEN>
+<birthDE>1597</birthDE>
+<deathEN>1665</deathEN>
+<deathDE>1665</deathDE>
+<birthPlace>
+<XML_Serializer_Tag>Assendelft</XML_Serializer_Tag>
+</birthPlace>
+<deathPlace>
+<XML_Serializer_Tag>Haarlem</XML_Serializer_Tag>
+</deathPlace>
+<professionOrOccupation>
+<XML_Serializer_Tag>Künstler</XML_Serializer_Tag>
+<XML_Serializer_Tag>Maler</XML_Serializer_Tag>
+<XML_Serializer_Tag>Zeichner</XML_Serializer_Tag>
+<XML_Serializer_Tag>Radierer</XML_Serializer_Tag>
+<XML_Serializer_Tag>Aquarellmaler</XML_Serializer_Tag>
+</professionOrOccupation>
+<artworks />
+<dbpResource>http://dbpedia.org/resource/Pieter_Jansz._Saenredam</dbpResource>
+<abstract>Pieter Jansz. Saenredam (* 9. Juni 1597 in Assendelft; † 31. Mai 1665 in Haarlem) war ein niederländischer Maler. Sein künstlerischer Schwerpunkt lag auf der Architekturmalerei.</abstract>
+<wikilink>http://en.wikipedia.org/wiki/Pieter_Jansz._Saenredam?oldid=601915726</wikilink>
+</Person>

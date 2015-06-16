@@ -1,0 +1,95 @@
+<Person>
+<name>George Stubbs</name>
+<variantName />
+<thumbnail>https://commons.wikimedia.org/wiki/Special:FilePath/George_Stubbs_-_self_portrait.jpg?width=270</thumbnail>
+<birthEN>August 24, 1724</birthEN>
+<birthDE>24. August 1724</birthDE>
+<deathEN>July 10, 1806</deathEN>
+<deathDE>10. Juli 1806</deathDE>
+<birthPlace>
+<XML_Serializer_Tag>Liverpool</XML_Serializer_Tag>
+</birthPlace>
+<deathPlace>
+<XML_Serializer_Tag>London</XML_Serializer_Tag>
+</deathPlace>
+<professionOrOccupation>
+<XML_Serializer_Tag>Maler</XML_Serializer_Tag>
+</professionOrOccupation>
+<artworks>
+<XML_Serializer_Tag>
+<painting>
+<type>uri</type>
+<value>http://dbpedia.org/resource/Whistlejacket</value>
+</painting>
+<thumbnail>
+<type>uri</type>
+<value>http://en.wikipedia.org/wiki/Special:FilePath/Whistlejacket_by_George_Stubbs_edit.jpg?width=300</value>
+</thumbnail>
+<name>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>Whistlejacket</value>
+</name>
+<year>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>c. 1762</value>
+</year>
+<wikilink>
+<type>uri</type>
+<value>http://en.wikipedia.org/wiki/Whistlejacket?oldid=603909349</value>
+</wikilink>
+</XML_Serializer_Tag>
+<XML_Serializer_Tag>
+<painting>
+<type>uri</type>
+<value>http://dbpedia.org/resource/The_Kongouro_from_New_Holland</value>
+</painting>
+<thumbnail>
+<type>uri</type>
+<value>http://commons.wikimedia.org/wiki/Special:FilePath/George_Stubbs,_A_portrait_of_the_Kongouro_(Kangaroo)_from_New_Holland,_1772.jpg?width=300</value>
+</thumbnail>
+<name>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>The Kongouro from New Holland</value>
+</name>
+<year>
+<type>typed-literal</type>
+<datatype>http://www.w3.org/2001/XMLSchema#integer</datatype>
+<value>1772</value>
+</year>
+<wikilink>
+<type>uri</type>
+<value>http://en.wikipedia.org/wiki/The_Kongouro_from_New_Holland?oldid=597941317</value>
+</wikilink>
+</XML_Serializer_Tag>
+<XML_Serializer_Tag>
+<painting>
+<type>uri</type>
+<value>http://dbpedia.org/resource/Portrait_of_a_Large_Dog</value>
+</painting>
+<thumbnail>
+<type>uri</type>
+<value>http://commons.wikimedia.org/wiki/Special:FilePath/George_Stubbs,_A_portrait_of_a_large_Dog_from_New_Holland_(Dingo),_1772.jpg?width=300</value>
+</thumbnail>
+<name>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>Portrait of a Large Dog</value>
+</name>
+<year>
+<type>typed-literal</type>
+<datatype>http://www.w3.org/2001/XMLSchema#integer</datatype>
+<value>1772</value>
+</year>
+<wikilink>
+<type>uri</type>
+<value>http://en.wikipedia.org/wiki/Portrait_of_a_Large_Dog?oldid=590287144</value>
+</wikilink>
+</XML_Serializer_Tag>
+</artworks>
+<dbpResource>http://dbpedia.org/resource/George_Stubbs</dbpResource>
+<abstract>George Stubbs RA (* 25. August 1724 in Liverpool; † 10. Juli 1806 in London) war ein englischer Maler und Wissenschaftler.Stubbs gilt als einer der bedeutendsten europäischen Maler von Tieren. Darüber hinaus war er Dozent für Anatomie der Menschen und der Tiere am Krankenhaus von York und veröffentlichte mehrere wissenschaftliche Werke, darunter das Buch „Die Anatomie des Pferdes“. Typisch für Stubbs&apos; Gemälde ist der wissenschaftliche Ansatz bei der Wiedergabe seiner Tiermotive, was die Einzigartigkeit und die Bedeutung des Künstlers ausmacht.</abstract>
+<wikilink>http://en.wikipedia.org/wiki/George_Stubbs?oldid=606221672</wikilink>
+</Person>

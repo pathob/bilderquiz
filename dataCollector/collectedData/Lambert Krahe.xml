@@ -1,0 +1,29 @@
+<Person>
+<name>Lambert Krahe</name>
+<variantName>
+<XML_Serializer_Tag>Johann Lambert Krahe</XML_Serializer_Tag>
+<XML_Serializer_Tag>Wilhelm L. Krahe</XML_Serializer_Tag>
+<XML_Serializer_Tag>Johann L. Krahe</XML_Serializer_Tag>
+<XML_Serializer_Tag>L. Krahe</XML_Serializer_Tag>
+</variantName>
+<thumbnail>https://commons.wikimedia.org/wiki/Special:FilePath/Jesuitenkirche_Mannheim_26.jpg?width=270</thumbnail>
+<birthEN>March 15, 1712</birthEN>
+<birthDE>15. März 1712</birthDE>
+<deathEN>November 2, 1790</deathEN>
+<deathDE>2. November 1790</deathDE>
+<birthPlace>
+<XML_Serializer_Tag>Düsseldorf</XML_Serializer_Tag>
+</birthPlace>
+<deathPlace>
+<XML_Serializer_Tag>Düsseldorf</XML_Serializer_Tag>
+</deathPlace>
+<professionOrOccupation>
+<XML_Serializer_Tag>Kunstsammler</XML_Serializer_Tag>
+<XML_Serializer_Tag>Maler</XML_Serializer_Tag>
+<XML_Serializer_Tag>Hochschullehrer</XML_Serializer_Tag>
+</professionOrOccupation>
+<artworks />
+<dbpResource>http://dbpedia.org/resource/Lambert_Krahe</dbpResource>
+<abstract>Wilhelm Lambert Krahe (* 15. März 1712 in Düsseldorf; † 2. November 1790 ebenda) war ein deutscher Maler und Kunstsammler.</abstract>
+<wikilink>http://en.wikipedia.org/wiki/Lambert_Krahe?oldid=604295177</wikilink>
+</Person>

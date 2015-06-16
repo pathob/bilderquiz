@@ -1,0 +1,22 @@
+<Person>
+<name>Adolf Born</name>
+<variantName />
+<thumbnail>https://commons.wikimedia.org/wiki/Special:FilePath/Adolf_Born_-_Book_World_Fair_2010_Prague.jpg?width=270</thumbnail>
+<birthEN>1930</birthEN>
+<birthDE>1930</birthDE>
+<deathEN />
+<deathDE />
+<birthPlace>
+<XML_Serializer_Tag>České Velenice</XML_Serializer_Tag>
+</birthPlace>
+<deathPlace />
+<professionOrOccupation>
+<XML_Serializer_Tag>Illustrator</XML_Serializer_Tag>
+<XML_Serializer_Tag>Maler</XML_Serializer_Tag>
+<XML_Serializer_Tag>Graphiker</XML_Serializer_Tag>
+</professionOrOccupation>
+<artworks />
+<dbpResource>http://dbpedia.org/resource/Adolf_Born</dbpResource>
+<abstract>Adolf Born (* 12. Juni 1930 in České Velenice) ist ein tschechischer Karikaturist und Grafiker. Er hat etwa 230 Bücher illustriert, bei 22 Zeichentrickfilmen und an 50 Film- bzw. Serienproduktionen mitgewirkt.</abstract>
+<wikilink>http://en.wikipedia.org/wiki/Adolf_Born?oldid=600915920</wikilink>
+</Person>

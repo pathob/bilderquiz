@@ -1,0 +1,26 @@
+<Person>
+<name>Richard Long</name>
+<variantName>
+<XML_Serializer_Tag>Richard J. Long</XML_Serializer_Tag>
+<XML_Serializer_Tag>C. W. R. Long</XML_Serializer_Tag>
+</variantName>
+<thumbnail>https://commons.wikimedia.org/wiki/Special:FilePath/BerlinHamburgerBahnhof050728_P1030154.JPG?width=270</thumbnail>
+<birthEN>1945</birthEN>
+<birthDE>1945</birthDE>
+<deathEN />
+<deathDE />
+<birthPlace>
+<XML_Serializer_Tag>Bristol</XML_Serializer_Tag>
+</birthPlace>
+<deathPlace />
+<professionOrOccupation>
+<XML_Serializer_Tag>Künstler</XML_Serializer_Tag>
+<XML_Serializer_Tag>Bildhauer</XML_Serializer_Tag>
+<XML_Serializer_Tag>Maler</XML_Serializer_Tag>
+<XML_Serializer_Tag>Photograph</XML_Serializer_Tag>
+</professionOrOccupation>
+<artworks />
+<dbpResource>http://dbpedia.org/resource/Richard_Long_(actor)</dbpResource>
+<abstract>Richard Long (* 17. Dezember 1927 in Chicago, Illinois; † 21. Dezember 1974 in Los Angeles, Kalifornien) war ein US-amerikanischer Schauspieler.</abstract>
+<wikilink>http://en.wikipedia.org/wiki/Richard_Long_(actor)?oldid=599505542</wikilink>
+</Person>

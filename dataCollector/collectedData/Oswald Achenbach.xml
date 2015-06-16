@@ -1,0 +1,26 @@
+<Person>
+<name>Oswald Achenbach</name>
+<variantName />
+<thumbnail>https://commons.wikimedia.org/wiki/Special:FilePath/Ludwig_des_Coudres_001.jpg?width=270</thumbnail>
+<birthEN>February 2, 1827</birthEN>
+<birthDE>2. Februar 1827</birthDE>
+<deathEN>February 1, 1905</deathEN>
+<deathDE>1. Februar 1905</deathDE>
+<birthPlace>
+<XML_Serializer_Tag>Düsseldorf</XML_Serializer_Tag>
+</birthPlace>
+<deathPlace>
+<XML_Serializer_Tag>Düsseldorf</XML_Serializer_Tag>
+</deathPlace>
+<professionOrOccupation>
+<XML_Serializer_Tag>Landschaftsmaler</XML_Serializer_Tag>
+<XML_Serializer_Tag>Künstler</XML_Serializer_Tag>
+<XML_Serializer_Tag>Graphiker</XML_Serializer_Tag>
+<XML_Serializer_Tag>Zeichner</XML_Serializer_Tag>
+<XML_Serializer_Tag>Maler</XML_Serializer_Tag>
+</professionOrOccupation>
+<artworks />
+<dbpResource>http://dbpedia.org/resource/Oswald_Achenbach</dbpResource>
+<abstract>Oswald Achenbach (* 2. Februar 1827 in Düsseldorf; † 1. Februar 1905 in Düsseldorf) war ein deutscher Maler, welcher der Düsseldorfer Malerschule zugerechnet wird. Der heute weniger bekannte Künstler zählte zu seinen Lebzeiten zu den bedeutenden Landschaftsmalern Europas und prägte während seiner Lehrtätigkeit die Düsseldorfer Kunstakademie.Sein Bruder war der zwölf Jahre ältere Andreas Achenbach, der gleichfalls zu den bedeutenden deutschen Landschaftsmalern des 19. Jahrhunderts gehörte. Die beiden Brüder wurden ironisch auch das „A und O der Landschaft“ genannt.</abstract>
+<wikilink>http://en.wikipedia.org/wiki/Oswald_Achenbach?oldid=591869934</wikilink>
+</Person>

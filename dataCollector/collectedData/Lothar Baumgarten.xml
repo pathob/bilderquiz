@@ -1,0 +1,23 @@
+<Person>
+<name>Lothar Baumgarten</name>
+<variantName />
+<thumbnail>https://commons.wikimedia.org/wiki/Special:FilePath/Documenta_IX_Zwehrenturm_Lothar_Baumgarten_II.jpg?width=270</thumbnail>
+<birthEN>1944</birthEN>
+<birthDE>1944</birthDE>
+<deathEN />
+<deathDE />
+<birthPlace>
+<XML_Serializer_Tag>Rheinsberg</XML_Serializer_Tag>
+</birthPlace>
+<deathPlace />
+<professionOrOccupation>
+<XML_Serializer_Tag>Künstler</XML_Serializer_Tag>
+<XML_Serializer_Tag>Photograph</XML_Serializer_Tag>
+<XML_Serializer_Tag>Maler</XML_Serializer_Tag>
+<XML_Serializer_Tag>Graphiker</XML_Serializer_Tag>
+</professionOrOccupation>
+<artworks />
+<dbpResource>http://dbpedia.org/resource/Lothar_Baumgarten</dbpResource>
+<abstract>Lothar Baumgarten (* 1944 in Rheinsberg) ist ein deutscher Künstler.</abstract>
+<wikilink>http://en.wikipedia.org/wiki/Lothar_Baumgarten?oldid=587718380</wikilink>
+</Person>

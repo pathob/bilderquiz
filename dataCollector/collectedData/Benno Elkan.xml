@@ -1,0 +1,24 @@
+<Person>
+<name>Benno Elkan</name>
+<variantName />
+<thumbnail>https://commons.wikimedia.org/wiki/Special:FilePath/Benno_Elkan.jpg?width=270</thumbnail>
+<birthEN>December 2, 1877</birthEN>
+<birthDE>2. Dezember 1877</birthDE>
+<deathEN>January 10, 1960</deathEN>
+<deathDE>10. Januar 1960</deathDE>
+<birthPlace>
+<XML_Serializer_Tag>Dortmund</XML_Serializer_Tag>
+</birthPlace>
+<deathPlace>
+<XML_Serializer_Tag>London</XML_Serializer_Tag>
+</deathPlace>
+<professionOrOccupation>
+<XML_Serializer_Tag>Bildhauer</XML_Serializer_Tag>
+<XML_Serializer_Tag>Maler</XML_Serializer_Tag>
+<XML_Serializer_Tag>Schriftsteller</XML_Serializer_Tag>
+</professionOrOccupation>
+<artworks />
+<dbpResource>http://dbpedia.org/resource/Benno_Elkan</dbpResource>
+<abstract>Benno Elkan OBE (* 2. Dezember 1877 in Dortmund; † 10. Januar 1960 in London) war ein deutscher Bildhauer, der die Große Menora vor der Knesset in Jerusalem und zahlreiche Denkmale, Büsten und Medaillen in Deutschland und England geschaffen hat. Elkan begann sein Schaffen als Bildhauer in seiner Heimatstadt Dortmund mit Grabdenkmalen. Später porträtierte er Militärs, Staatsmänner, Wissenschaftler und Künstler, vor allem aus Deutschland, Frankreich und England in Büsten und Medaillen. Elkan erhielt als jüdischer Künstler 1935 Berufsverbot und emigrierte nach London. In Deutschland war er zunächst vergessen, bis seine Werke in den 1950er-Jahren erneut in Ausstellungen gezeigt wurden. Elkans Schaffen ist keiner festen Stilrichtung zuzuordnen.</abstract>
+<wikilink>http://en.wikipedia.org/wiki/Benno_Elkan?oldid=597981225</wikilink>
+</Person>

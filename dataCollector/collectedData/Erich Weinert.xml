@@ -1,0 +1,30 @@
+<Person>
+<name>Erich Weinert</name>
+<variantName>
+<XML_Serializer_Tag>Erich Bernhardt Gustav Weinert</XML_Serializer_Tag>
+<XML_Serializer_Tag>Ė. Vejnert</XML_Serializer_Tag>
+<XML_Serializer_Tag>Tom, der Reimer</XML_Serializer_Tag>
+</variantName>
+<thumbnail>https://commons.wikimedia.org/wiki/Special:FilePath/Stamps_of_Germany_(DDR)_1990,_MiNr_3301.jpg?width=270</thumbnail>
+<birthEN>August 4, 1890</birthEN>
+<birthDE>4. August 1890</birthDE>
+<deathEN>April 20, 1953</deathEN>
+<deathDE>20. April 1953</deathDE>
+<birthPlace>
+<XML_Serializer_Tag>Magdeburg</XML_Serializer_Tag>
+</birthPlace>
+<deathPlace>
+<XML_Serializer_Tag>Berlin</XML_Serializer_Tag>
+</deathPlace>
+<professionOrOccupation>
+<XML_Serializer_Tag>Maler</XML_Serializer_Tag>
+<XML_Serializer_Tag>Graphiker</XML_Serializer_Tag>
+<XML_Serializer_Tag>Schriftsteller</XML_Serializer_Tag>
+<XML_Serializer_Tag>Drehbuchautor</XML_Serializer_Tag>
+<XML_Serializer_Tag>Mitwirkung</XML_Serializer_Tag>
+</professionOrOccupation>
+<artworks />
+<dbpResource>http://dbpedia.org/resource/Erich_Weinert</dbpResource>
+<abstract>Erich Bernhard Gustav Weinert (* 4. August 1890 in Magdeburg; † 20. April 1953 in Berlin) war ein deutscher Schriftsteller und ab 1943 Präsident des Nationalkomitees Freies Deutschland.</abstract>
+<wikilink>http://en.wikipedia.org/wiki/Erich_Weinert?oldid=605996196</wikilink>
+</Person>

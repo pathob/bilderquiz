@@ -1,0 +1,123 @@
+<Person>
+<name>John Singleton Copley</name>
+<variantName>
+<XML_Serializer_Tag>John S. Copley</XML_Serializer_Tag>
+<XML_Serializer_Tag>, the elder</XML_Serializer_Tag>
+</variantName>
+<thumbnail>https://commons.wikimedia.org/wiki/Special:FilePath/J_S_Copley_-_Boy_with_Squirrel.jpg?width=270</thumbnail>
+<birthEN>1738</birthEN>
+<birthDE>1738</birthDE>
+<deathEN>1815</deathEN>
+<deathDE>1815</deathDE>
+<birthPlace />
+<deathPlace />
+<professionOrOccupation>
+<XML_Serializer_Tag>Maler</XML_Serializer_Tag>
+</professionOrOccupation>
+<artworks>
+<XML_Serializer_Tag>
+<painting>
+<type>uri</type>
+<value>http://dbpedia.org/resource/Watson_and_the_Shark</value>
+</painting>
+<thumbnail>
+<type>uri</type>
+<value>http://en.wikipedia.org/wiki/Special:FilePath/Watsonandtheshark-original.jpg?width=300</value>
+</thumbnail>
+<name>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>Watson and the Shark</value>
+</name>
+<year>
+<type>typed-literal</type>
+<datatype>http://www.w3.org/2001/XMLSchema#integer</datatype>
+<value>1778</value>
+</year>
+<abstract>
+<type>literal</type>
+<xml:lang>de</xml:lang>
+<value>Watson und der Hai (englischer Originaltitel: Watson and the shark) ist ein Gemälde des britisch-amerikanischen Malers John Singleton Copley. Es entstand in drei sehr ähnlichen Versionen zwischen 1778 und 1782, die heute in drei Museen der Vereinigten Staaten von Amerika ausgestellt werden.</value>
+</abstract>
+<wikilink>
+<type>uri</type>
+<value>http://en.wikipedia.org/wiki/Watson_and_the_Shark?oldid=602525951</value>
+</wikilink>
+</XML_Serializer_Tag>
+<XML_Serializer_Tag>
+<painting>
+<type>uri</type>
+<value>http://dbpedia.org/resource/The_Death_of_the_Earl_of_Chatham</value>
+</painting>
+<thumbnail>
+<type>uri</type>
+<value>http://commons.wikimedia.org/wiki/Special:FilePath/The_Death_of_the_Earl_of_Chatham_by_John_Singleton_Copley.jpg?width=300</value>
+</thumbnail>
+<name>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>The Death of the Earl of Chatham</value>
+</name>
+<year>
+<type>typed-literal</type>
+<datatype>http://www.w3.org/2001/XMLSchema#integer</datatype>
+<value>1781</value>
+</year>
+<wikilink>
+<type>uri</type>
+<value>http://en.wikipedia.org/wiki/The_Death_of_the_Earl_of_Chatham?oldid=595590272</value>
+</wikilink>
+</XML_Serializer_Tag>
+<XML_Serializer_Tag>
+<painting>
+<type>uri</type>
+<value>http://dbpedia.org/resource/The_Defeat_of_the_Floating_Batteries_at_Gibraltar,_September_1782</value>
+</painting>
+<thumbnail>
+<type>uri</type>
+<value>http://commons.wikimedia.org/wiki/Special:FilePath/The_Siege_and_Relief_of_Gibraltar_(2).jpg?width=300</value>
+</thumbnail>
+<name>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>The Defeat of the Floating Batteries at Gibraltar</value>
+</name>
+<year>
+<type>typed-literal</type>
+<datatype>http://www.w3.org/2001/XMLSchema#integer</datatype>
+<value>1783</value>
+</year>
+<wikilink>
+<type>uri</type>
+<value>http://en.wikipedia.org/wiki/The_Defeat_of_the_Floating_Batteries_at_Gibraltar,_September_1782?oldid=591219256</value>
+</wikilink>
+</XML_Serializer_Tag>
+<XML_Serializer_Tag>
+<painting>
+<type>uri</type>
+<value>http://dbpedia.org/resource/The_Death_of_Major_Peirson,_6_January_1781</value>
+</painting>
+<thumbnail>
+<type>uri</type>
+<value>http://commons.wikimedia.org/wiki/Special:FilePath/John_Singleton_Copley_001.jpg?width=300</value>
+</thumbnail>
+<name>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>The Death of Major Peirson</value>
+</name>
+<year>
+<type>typed-literal</type>
+<datatype>http://www.w3.org/2001/XMLSchema#integer</datatype>
+<value>1783</value>
+</year>
+<wikilink>
+<type>uri</type>
+<value>http://en.wikipedia.org/wiki/The_Death_of_Major_Peirson,_6_January_1781?oldid=590100687</value>
+</wikilink>
+</XML_Serializer_Tag>
+</artworks>
+<dbpResource>http://dbpedia.org/resource/John_Singleton_Copley</dbpResource>
+<abstract>John Singleton Copley (* 3. Juli 1738 in Boston; † 9. September 1815 in London) war ein amerikanisch-englischer Maler.</abstract>
+<wikilink>http://en.wikipedia.org/wiki/John_Singleton_Copley?oldid=605873049</wikilink>
+</Person>

@@ -1,0 +1,27 @@
+<Person>
+<name>Carl Rottmann</name>
+<variantName>
+<XML_Serializer_Tag>Carl Anton Joseph Rottmann</XML_Serializer_Tag>
+<XML_Serializer_Tag>Karl Rottmann</XML_Serializer_Tag>
+</variantName>
+<thumbnail>https://commons.wikimedia.org/wiki/Special:FilePath/Karl_Rottmann_-_Maler.jpg?width=270</thumbnail>
+<birthEN>January 11, 1797</birthEN>
+<birthDE>11. Januar 1797</birthDE>
+<deathEN>July 7, 1850</deathEN>
+<deathDE>7. Juli 1850</deathDE>
+<birthPlace>
+<XML_Serializer_Tag>Handschuhsheim</XML_Serializer_Tag>
+</birthPlace>
+<deathPlace>
+<XML_Serializer_Tag>München</XML_Serializer_Tag>
+</deathPlace>
+<professionOrOccupation>
+<XML_Serializer_Tag>Künstler</XML_Serializer_Tag>
+<XML_Serializer_Tag>Maler</XML_Serializer_Tag>
+<XML_Serializer_Tag>Landschaftsmaler</XML_Serializer_Tag>
+</professionOrOccupation>
+<artworks />
+<dbpResource>http://dbpedia.org/resource/Carl_Rottmann</dbpResource>
+<abstract>Carl Anton Joseph Rottmann (* 11. Januar 1797 in Handschuhsheim (heute zu Heidelberg); † 7. Juli 1850 in München) war ein deutscher Landschaftsmaler und berühmtester Vertreter der Malerfamilie Rottmann (etwa zwischen 1770 und 1880).Rottmann gehörte dem Künstlerkreis um den bayerischen König Ludwig I. an und wurde von ihm exklusiv mit der Erstellung großformatiger Landschaftsgemälde beauftragt. Er ist für mythisch-heroisierende Landschaftsmalerei bekannt. Der Griechenlandzyklus gilt als sein wichtigstes WerkZu seinen Schülern gehörten die Landschaftsmaler Karl Lindemann-Frommel und Karl Ludwig Seeger.</abstract>
+<wikilink>http://en.wikipedia.org/wiki/Carl_Rottmann?oldid=577751798</wikilink>
+</Person>

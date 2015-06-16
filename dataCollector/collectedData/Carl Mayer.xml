@@ -1,0 +1,29 @@
+<Person>
+<name>Carl Mayer</name>
+<variantName>
+<XML_Serializer_Tag>Karl Mayer</XML_Serializer_Tag>
+<XML_Serializer_Tag>Carl Ferdinand Mayer</XML_Serializer_Tag>
+</variantName>
+<thumbnail>https://commons.wikimedia.org/wiki/Special:FilePath/Peter_Carl_Geissler_Nürnberg,_Carl_Mayer&apos;s_Kunst-Anstalt_Heinrich_der_Vierte_Zweiter_Teil_Stahlstich_Blattausschnitt.jpg?width=270</thumbnail>
+<birthEN>May 21, 1798</birthEN>
+<birthDE>21. Mai 1798</birthDE>
+<deathEN>January 5, 1868</deathEN>
+<deathDE>5. Januar 1868</deathDE>
+<birthPlace>
+<XML_Serializer_Tag>Nürnberg</XML_Serializer_Tag>
+</birthPlace>
+<deathPlace>
+<XML_Serializer_Tag>Nürnberg</XML_Serializer_Tag>
+</deathPlace>
+<professionOrOccupation>
+<XML_Serializer_Tag>Künstler</XML_Serializer_Tag>
+<XML_Serializer_Tag>Maler</XML_Serializer_Tag>
+<XML_Serializer_Tag>Stahlstecher</XML_Serializer_Tag>
+<XML_Serializer_Tag>Graphiker</XML_Serializer_Tag>
+<XML_Serializer_Tag>Verleger</XML_Serializer_Tag>
+</professionOrOccupation>
+<artworks />
+<dbpResource>http://dbpedia.org/resource/Carl_Mayer</dbpResource>
+<abstract>Carl Mayer (* 20. November 1894 in Graz; † 1. Juli 1944 in London) war ein österreichischer Drehbuchautor.</abstract>
+<wikilink>http://en.wikipedia.org/wiki/Carl_Mayer?oldid=589171839</wikilink>
+</Person>

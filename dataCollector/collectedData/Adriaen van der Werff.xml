@@ -1,0 +1,24 @@
+<Person>
+<name>Adriaen van der Werff</name>
+<variantName>
+<XML_Serializer_Tag>Adrn. vander Werff</XML_Serializer_Tag>
+<XML_Serializer_Tag>Adriaen Van der Werff</XML_Serializer_Tag>
+<XML_Serializer_Tag>Adriaan van der Werff</XML_Serializer_Tag>
+<XML_Serializer_Tag>Adrian van der Werff</XML_Serializer_Tag>
+</variantName>
+<thumbnail>https://commons.wikimedia.org/wiki/Special:FilePath/John_Churchill_Marlborough_porträtterad_av_Adriaen_van_der_Werff_(1659-1722).jpg?width=270</thumbnail>
+<birthEN>1659</birthEN>
+<birthDE>1659</birthDE>
+<deathEN>1722</deathEN>
+<deathDE>1722</deathDE>
+<birthPlace />
+<deathPlace />
+<professionOrOccupation>
+<XML_Serializer_Tag>Künstler</XML_Serializer_Tag>
+<XML_Serializer_Tag>Maler</XML_Serializer_Tag>
+</professionOrOccupation>
+<artworks />
+<dbpResource>http://dbpedia.org/resource/Adriaen_van_der_Werff</dbpResource>
+<abstract>Adriaen van der Werff (* 21. Januar 1659 in Kralingen-Ambacht, heute Rotterdam; † 12. November 1722 in Rotterdam) war ein niederländischer Maler.</abstract>
+<wikilink>http://en.wikipedia.org/wiki/Adriaen_van_der_Werff?oldid=601049671</wikilink>
+</Person>

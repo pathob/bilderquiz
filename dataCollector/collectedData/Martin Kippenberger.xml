@@ -1,0 +1,32 @@
+<Person>
+<name>Martin Kippenberger</name>
+<variantName>
+<XML_Serializer_Tag>Mattin Kippenberger</XML_Serializer_Tag>
+<XML_Serializer_Tag>Kippy Kippenberger</XML_Serializer_Tag>
+<XML_Serializer_Tag>Kippy</XML_Serializer_Tag>
+</variantName>
+<thumbnail>https://commons.wikimedia.org/wiki/Special:FilePath/Martin_Kippenberger_U-Bahn_Entlüftung.jpg?width=270</thumbnail>
+<birthEN>February 25, 1953</birthEN>
+<birthDE>25. Februar 1953</birthDE>
+<deathEN>March 7, 1997</deathEN>
+<deathDE>7. März 1997</deathDE>
+<birthPlace>
+<XML_Serializer_Tag>Dortmund</XML_Serializer_Tag>
+</birthPlace>
+<deathPlace>
+<XML_Serializer_Tag>Wien</XML_Serializer_Tag>
+</deathPlace>
+<professionOrOccupation>
+<XML_Serializer_Tag>Künstler</XML_Serializer_Tag>
+<XML_Serializer_Tag>Maler</XML_Serializer_Tag>
+<XML_Serializer_Tag>Bildhauer</XML_Serializer_Tag>
+<XML_Serializer_Tag>Photograph</XML_Serializer_Tag>
+<XML_Serializer_Tag>Installationskünstler</XML_Serializer_Tag>
+<XML_Serializer_Tag>Performancekünstler</XML_Serializer_Tag>
+<XML_Serializer_Tag>Schauspieler</XML_Serializer_Tag>
+</professionOrOccupation>
+<artworks />
+<dbpResource>http://dbpedia.org/resource/Martin_Kippenberger</dbpResource>
+<abstract>Martin Kippenberger (* 25. Februar 1953 in Dortmund; † 7. März 1997 in Wien) war ein deutscher Maler, Installationskünstler, Performancekünstler, Bildhauer und Fotograf.</abstract>
+<wikilink>http://en.wikipedia.org/wiki/Martin_Kippenberger?oldid=603885375</wikilink>
+</Person>

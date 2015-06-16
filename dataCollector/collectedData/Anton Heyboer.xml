@@ -1,0 +1,22 @@
+<Person>
+<name>Anton Heyboer</name>
+<variantName>
+<XML_Serializer_Tag>Anton Heijboer</XML_Serializer_Tag>
+</variantName>
+<thumbnail>https://commons.wikimedia.org/wiki/Special:FilePath/Anton_Heyboer_08-07-1946.jpg?width=270</thumbnail>
+<birthEN>1924</birthEN>
+<birthDE>1924</birthDE>
+<deathEN>2005</deathEN>
+<deathDE>2005</deathDE>
+<birthPlace />
+<deathPlace />
+<professionOrOccupation>
+<XML_Serializer_Tag>Künstler</XML_Serializer_Tag>
+<XML_Serializer_Tag>Maler</XML_Serializer_Tag>
+<XML_Serializer_Tag>Graphiker</XML_Serializer_Tag>
+</professionOrOccupation>
+<artworks />
+<dbpResource>http://dbpedia.org/resource/Anton_Heyboer</dbpResource>
+<abstract>Anton Heyboer (* 9. Februar 1924 in Sabang (Provinz Aceh), Indonesien; † 9. April 2005 in Den Ilp, Gemeinde Landsmeer, Niederlande) war ein niederländischer Maler und Grafiker. Er gehört zu den bedeutenden Vertretern der Abstrakten Kunst und Druckgrafik nach dem Zweiten Weltkrieg.</abstract>
+<wikilink>http://en.wikipedia.org/wiki/Anton_Heyboer?oldid=565752544</wikilink>
+</Person>

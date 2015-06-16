@@ -1,0 +1,24 @@
+<Person>
+<name>Jan Wijnants</name>
+<variantName>
+<XML_Serializer_Tag>Jan Wynants</XML_Serializer_Tag>
+</variantName>
+<thumbnail>https://commons.wikimedia.org/wiki/Special:FilePath/Jan_Wijnants_-_Landscape_with_Dune.jpg?width=270</thumbnail>
+<birthEN>1635</birthEN>
+<birthDE>1635</birthDE>
+<deathEN>January 23, 1684</deathEN>
+<deathDE>23. Januar 1684</deathDE>
+<birthPlace>
+<XML_Serializer_Tag>Haarlem</XML_Serializer_Tag>
+</birthPlace>
+<deathPlace />
+<professionOrOccupation>
+<XML_Serializer_Tag>Künstler</XML_Serializer_Tag>
+<XML_Serializer_Tag>Maler</XML_Serializer_Tag>
+<XML_Serializer_Tag>Landschaftsmaler</XML_Serializer_Tag>
+</professionOrOccupation>
+<artworks />
+<dbpResource>http://dbpedia.org/resource/Jan_Wijnants</dbpResource>
+<abstract>Jan Wijnants (* um 1632 vermutlich in Haarlem; † 23. Januar 1684 in Amsterdam) war ein niederländischer Maler.</abstract>
+<wikilink>http://en.wikipedia.org/wiki/Jan_Wijnants?oldid=606411081</wikilink>
+</Person>

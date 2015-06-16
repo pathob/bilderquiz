@@ -1,0 +1,27 @@
+<Person>
+<name>Lovis Corinth</name>
+<variantName>
+<XML_Serializer_Tag>Louis Corinth</XML_Serializer_Tag>
+<XML_Serializer_Tag>Franz Heinrich Louis Corinth</XML_Serializer_Tag>
+</variantName>
+<thumbnail>https://commons.wikimedia.org/wiki/Special:FilePath/Lovis_Corinth_010.jpg?width=270</thumbnail>
+<birthEN>July 21, 1858</birthEN>
+<birthDE>21. Juli 1858</birthDE>
+<deathEN>July 17, 1925</deathEN>
+<deathDE>17. Juli 1925</deathDE>
+<birthPlace>
+<XML_Serializer_Tag>Tapiau</XML_Serializer_Tag>
+</birthPlace>
+<deathPlace>
+<XML_Serializer_Tag>Zandvoort</XML_Serializer_Tag>
+</deathPlace>
+<professionOrOccupation>
+<XML_Serializer_Tag>Maler</XML_Serializer_Tag>
+<XML_Serializer_Tag>Radierer</XML_Serializer_Tag>
+<XML_Serializer_Tag>Lithograph</XML_Serializer_Tag>
+</professionOrOccupation>
+<artworks />
+<dbpResource>http://dbpedia.org/resource/Lovis_Corinth</dbpResource>
+<abstract>Lovis Corinth (* 21. Juli 1858 in Tapiau, Ostpreußen; † 17. Juli 1925 in Zandvoort, Niederlande; eigentlich Franz Heinrich Louis Corinth) war ein deutscher Maler. Er zählt neben Max Liebermann, Lesser Ury und Max Slevogt zu den wichtigsten und einflussreichsten Vertretern des deutschen Impressionismus. Seine späten Werke werden häufig als eine Synthese aus impressionistischem und expressionistischem Schaffen angesehen.</abstract>
+<wikilink>http://en.wikipedia.org/wiki/Lovis_Corinth?oldid=603636467</wikilink>
+</Person>

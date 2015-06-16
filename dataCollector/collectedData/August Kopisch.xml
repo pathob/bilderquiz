@@ -1,0 +1,23 @@
+<Person>
+<name>August Kopisch</name>
+<variantName>
+<XML_Serializer_Tag>A. Kopisch</XML_Serializer_Tag>
+<XML_Serializer_Tag>... Kopisch</XML_Serializer_Tag>
+<XML_Serializer_Tag>August Kobisch</XML_Serializer_Tag>
+</variantName>
+<thumbnail>https://commons.wikimedia.org/wiki/Special:FilePath/Kopisch.jpg?width=270</thumbnail>
+<birthEN>May 26, 1799</birthEN>
+<birthDE>26. Mai 1799</birthDE>
+<deathEN>February 3, 1853</deathEN>
+<deathDE>3. Februar 1853</deathDE>
+<birthPlace />
+<deathPlace />
+<professionOrOccupation>
+<XML_Serializer_Tag>Schriftsteller</XML_Serializer_Tag>
+<XML_Serializer_Tag>Maler</XML_Serializer_Tag>
+</professionOrOccupation>
+<artworks />
+<dbpResource>http://dbpedia.org/resource/August_Kopisch</dbpResource>
+<abstract>August Kopisch (* 26. Mai 1799 in Breslau; † 6. Februar 1853 in Berlin) war ein deutscher Historienmaler und Schriftsteller.</abstract>
+<wikilink>http://en.wikipedia.org/wiki/August_Kopisch?oldid=594278519</wikilink>
+</Person>

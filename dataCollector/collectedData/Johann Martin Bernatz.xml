@@ -1,0 +1,28 @@
+<Person>
+<name>Johann Martin Bernatz</name>
+<variantName>
+<XML_Serializer_Tag>John M. Bernatz</XML_Serializer_Tag>
+<XML_Serializer_Tag>John Martin Bernatz</XML_Serializer_Tag>
+<XML_Serializer_Tag>Joseph Martin Bernatz</XML_Serializer_Tag>
+<XML_Serializer_Tag>Johann M. Bernatz</XML_Serializer_Tag>
+<XML_Serializer_Tag>Martin Bernatz</XML_Serializer_Tag>
+</variantName>
+<thumbnail>https://commons.wikimedia.org/wiki/Special:FilePath/Johann_Martin_Bernatz_Sultan-Ahmed-Moschee_Istanbul.jpg?width=270</thumbnail>
+<birthEN>March 23, 1802</birthEN>
+<birthDE>23. März 1802</birthDE>
+<deathEN>December 19, 1878</deathEN>
+<deathDE>19. Dezember 1878</deathDE>
+<birthPlace>
+<XML_Serializer_Tag>Speyer</XML_Serializer_Tag>
+</birthPlace>
+<deathPlace>
+<XML_Serializer_Tag>München</XML_Serializer_Tag>
+</deathPlace>
+<professionOrOccupation>
+<XML_Serializer_Tag>Maler</XML_Serializer_Tag>
+</professionOrOccupation>
+<artworks />
+<dbpResource>http://dbpedia.org/resource/Johann_Martin_Bernatz</dbpResource>
+<abstract>Johann Martin Bernatz (* 22. März 1802 in Speyer; † 19. Dezember 1878) war ein deutscher Landschaftsmaler.</abstract>
+<wikilink>http://en.wikipedia.org/wiki/Johann_Martin_Bernatz?oldid=581945211</wikilink>
+</Person>

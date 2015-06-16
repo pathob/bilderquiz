@@ -1,0 +1,28 @@
+<Person>
+<name>Wolfgang Paalen</name>
+<variantName>
+<XML_Serializer_Tag>Wolfgang R. Paalen</XML_Serializer_Tag>
+<XML_Serializer_Tag>Wofgang Paalen</XML_Serializer_Tag>
+<XML_Serializer_Tag>W. Paalen</XML_Serializer_Tag>
+</variantName>
+<thumbnail>https://commons.wikimedia.org/wiki/Special:FilePath/1936-003_Paalen.jpg?width=270</thumbnail>
+<birthEN>July 22, 1905</birthEN>
+<birthDE>22. Juli 1905</birthDE>
+<deathEN>September 24, 1959</deathEN>
+<deathDE>24. September 1959</deathDE>
+<birthPlace>
+<XML_Serializer_Tag>Baden (Aargau)</XML_Serializer_Tag>
+</birthPlace>
+<deathPlace>
+<XML_Serializer_Tag>Mexiko (Stadt)</XML_Serializer_Tag>
+</deathPlace>
+<professionOrOccupation>
+<XML_Serializer_Tag>Maler</XML_Serializer_Tag>
+<XML_Serializer_Tag>Schriftsteller</XML_Serializer_Tag>
+<XML_Serializer_Tag>Kunsthistoriker</XML_Serializer_Tag>
+</professionOrOccupation>
+<artworks />
+<dbpResource>http://dbpedia.org/resource/Wolfgang_Paalen</dbpResource>
+<abstract>Wolfgang Paalen (* 22. Juli 1905 in Wien; † 24. September 1959 in Taxco, Mexiko) war ein österreichisch-mexikanischer Maler und Kunsttheoretiker.</abstract>
+<wikilink>http://en.wikipedia.org/wiki/Wolfgang_Paalen?oldid=600652216</wikilink>
+</Person>

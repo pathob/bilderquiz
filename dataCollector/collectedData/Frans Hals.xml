@@ -1,0 +1,66 @@
+<Person>
+<name>Frans Hals</name>
+<variantName>
+<XML_Serializer_Tag>F. Hals</XML_Serializer_Tag>
+<XML_Serializer_Tag>Franz Hals</XML_Serializer_Tag>
+</variantName>
+<thumbnail>https://commons.wikimedia.org/wiki/Special:FilePath/Hals_-_Self-Portrait_copy.jpg?width=270</thumbnail>
+<birthEN>1581</birthEN>
+<birthDE>1581</birthDE>
+<deathEN>1666</deathEN>
+<deathDE>1666</deathDE>
+<birthPlace />
+<deathPlace />
+<professionOrOccupation>
+<XML_Serializer_Tag>Künstler</XML_Serializer_Tag>
+<XML_Serializer_Tag>Maler</XML_Serializer_Tag>
+</professionOrOccupation>
+<artworks>
+<XML_Serializer_Tag>
+<painting>
+<type>uri</type>
+<value>http://dbpedia.org/resource/Portrait_of_Isaak_Abrahamsz._Massa</value>
+</painting>
+<thumbnail>
+<type>uri</type>
+<value>http://commons.wikimedia.org/wiki/Special:FilePath/Portrait_of_Isaac_Abrahamsz._Massa_by_Frans_Hals.png?width=300</value>
+</thumbnail>
+<name>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>Portrait of Isaak Abrahamsz Massa</value>
+</name>
+<year>
+<type>typed-literal</type>
+<datatype>http://www.w3.org/2001/XMLSchema#integer</datatype>
+<value>1626</value>
+</year>
+<wikilink>
+<type>uri</type>
+<value>http://en.wikipedia.org/wiki/Portrait_of_Isaak_Abrahamsz._Massa?oldid=592264662</value>
+</wikilink>
+</XML_Serializer_Tag>
+<XML_Serializer_Tag>
+<painting>
+<type>uri</type>
+<value>http://dbpedia.org/resource/Portrait_of_Dorothea_Berck</value>
+</painting>
+<thumbnail>
+<type>uri</type>
+<value>http://commons.wikimedia.org/wiki/Special:FilePath/Frans_Hals_-_Dorothea_Berck_1644.jpg?width=300</value>
+</thumbnail>
+<name>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>Portrait of Dorothea Berck</value>
+</name>
+<wikilink>
+<type>uri</type>
+<value>http://en.wikipedia.org/wiki/Portrait_of_Dorothea_Berck?oldid=576741539</value>
+</wikilink>
+</XML_Serializer_Tag>
+</artworks>
+<dbpResource>http://dbpedia.org/resource/Frans_Hals</dbpResource>
+<abstract>Frans Hals (* zwischen 1580 und 1585 in Antwerpen; † 10. August 1666 in Haarlem) war ein holländischer Maler. Er wird zu den bedeutendsten Porträtmalern gezählt.</abstract>
+<wikilink>http://en.wikipedia.org/wiki/Frans_Hals?oldid=606590328</wikilink>
+</Person>

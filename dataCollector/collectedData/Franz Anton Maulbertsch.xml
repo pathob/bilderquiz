@@ -1,0 +1,29 @@
+<Person>
+<name>Franz Anton Maulbertsch</name>
+<variantName>
+<XML_Serializer_Tag>Franz A. Maulbertsch</XML_Serializer_Tag>
+<XML_Serializer_Tag>František Antonín Maulbertsch</XML_Serializer_Tag>
+<XML_Serializer_Tag>Franz Anton Maulpertsch</XML_Serializer_Tag>
+<XML_Serializer_Tag>Franz Anton Malberg</XML_Serializer_Tag>
+<XML_Serializer_Tag>Anton Maulbertsch</XML_Serializer_Tag>
+</variantName>
+<thumbnail>https://commons.wikimedia.org/wiki/Special:FilePath/Franz_Anton_Maulbertsch_Selbstbildnis_Belvedere.jpg?width=270</thumbnail>
+<birthEN>June 7, 1724</birthEN>
+<birthDE>7. Juni 1724</birthDE>
+<deathEN>August 8, 1796</deathEN>
+<deathDE>8. August 1796</deathDE>
+<birthPlace>
+<XML_Serializer_Tag>Langenargen</XML_Serializer_Tag>
+</birthPlace>
+<deathPlace>
+<XML_Serializer_Tag>Wien</XML_Serializer_Tag>
+</deathPlace>
+<professionOrOccupation>
+<XML_Serializer_Tag>Künstler</XML_Serializer_Tag>
+<XML_Serializer_Tag>Maler</XML_Serializer_Tag>
+</professionOrOccupation>
+<artworks />
+<dbpResource>http://dbpedia.org/resource/Franz_Anton_Maulbertsch</dbpResource>
+<abstract>Franz Anton Maulbertsch (getauft 7. Juni 1724 in Langenargen am Bodensee; † 8. August 1796 in Wien; auch Maulpertsch) war neben Martin Johann Schmidt der herausragendste Maler des österreichischen Spätbarock. Seine expressive Kunst brach zunächst mit der Tradition, mündete zuletzt in den Klassizismus und hat die Malerei des österreichischen Barocks auf eigenwillige und eigenständige Art vollendet.</abstract>
+<wikilink>http://en.wikipedia.org/wiki/Franz_Anton_Maulbertsch?oldid=600832909</wikilink>
+</Person>

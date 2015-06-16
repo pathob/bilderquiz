@@ -1,0 +1,44 @@
+<Person>
+<name>Michael Heizer</name>
+<variantName />
+<thumbnail>https://en.wikipedia.org/wiki/Special:FilePath/&apos;Charmstone&apos;,_sculpture_by_Michael_Heizer,_1991,_Menil_Collection.JPG?width=270</thumbnail>
+<birthEN>1944</birthEN>
+<birthDE>1944</birthDE>
+<deathEN />
+<deathDE />
+<birthPlace />
+<deathPlace />
+<professionOrOccupation>
+<XML_Serializer_Tag>Maler</XML_Serializer_Tag>
+<XML_Serializer_Tag>Bildhauer</XML_Serializer_Tag>
+</professionOrOccupation>
+<artworks>
+<XML_Serializer_Tag>
+<painting>
+<type>uri</type>
+<value>http://dbpedia.org/resource/Levitated_Mass</value>
+</painting>
+<thumbnail>
+<type>uri</type>
+<value>http://commons.wikimedia.org/wiki/Special:FilePath/The_Rock_at_LACMA_sharp.jpg?width=300</value>
+</thumbnail>
+<name>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>Levitated Mass</value>
+</name>
+<year>
+<type>typed-literal</type>
+<datatype>http://www.w3.org/2001/XMLSchema#integer</datatype>
+<value>2012</value>
+</year>
+<wikilink>
+<type>uri</type>
+<value>http://en.wikipedia.org/wiki/Levitated_Mass?oldid=602518115</value>
+</wikilink>
+</XML_Serializer_Tag>
+</artworks>
+<dbpResource>http://dbpedia.org/resource/Michael_Heizer</dbpResource>
+<abstract>Michael &quot;Mike&quot; Heizer (* 4. November 1944 in Berkeley, Kalifornien) ist ein international anerkannter Künstler und Gestalter von Kunstwerken, die der Land Art zugerechnet werden.</abstract>
+<wikilink>http://en.wikipedia.org/wiki/Michael_Heizer?oldid=605560404</wikilink>
+</Person>

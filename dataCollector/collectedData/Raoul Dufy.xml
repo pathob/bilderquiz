@@ -1,0 +1,25 @@
+<Person>
+<name>Raoul Dufy</name>
+<variantName>
+<XML_Serializer_Tag>Raoul Ernest Joseph Dufy</XML_Serializer_Tag>
+</variantName>
+<thumbnail>https://commons.wikimedia.org/wiki/Special:FilePath/Nice-Cimiez-DUFY_tombe1.jpg?width=270</thumbnail>
+<birthEN>June 3, 1877</birthEN>
+<birthDE>3. Juni 1877</birthDE>
+<deathEN>March 25, 1953</deathEN>
+<deathDE>25. März 1953</deathDE>
+<birthPlace>
+<XML_Serializer_Tag>Le Havre</XML_Serializer_Tag>
+</birthPlace>
+<deathPlace>
+<XML_Serializer_Tag>Forcalquier</XML_Serializer_Tag>
+</deathPlace>
+<professionOrOccupation>
+<XML_Serializer_Tag>Künstler</XML_Serializer_Tag>
+<XML_Serializer_Tag>Maler</XML_Serializer_Tag>
+</professionOrOccupation>
+<artworks />
+<dbpResource>http://dbpedia.org/resource/Raoul_Dufy</dbpResource>
+<abstract>Raoul Dufy (* 3. Juni 1877 in Le Havre (Normandie); † 23. März 1953 in Forcalquier) war ein französischer Maler des Fauvismus.</abstract>
+<wikilink>http://en.wikipedia.org/wiki/Raoul_Dufy?oldid=596984933</wikilink>
+</Person>

@@ -1,0 +1,28 @@
+<Person>
+<name>Georg Melchior Kraus</name>
+<variantName>
+<XML_Serializer_Tag>Georg M. Kraus</XML_Serializer_Tag>
+<XML_Serializer_Tag>Georg Melchior Krause</XML_Serializer_Tag>
+<XML_Serializer_Tag>Georg Melchior Krauss</XML_Serializer_Tag>
+<XML_Serializer_Tag>G. M. Kraus</XML_Serializer_Tag>
+</variantName>
+<thumbnail>https://commons.wikimedia.org/wiki/Special:FilePath/GeorgMelchiorKraus.jpg?width=270</thumbnail>
+<birthEN>1737</birthEN>
+<birthDE>1737</birthDE>
+<deathEN>1806</deathEN>
+<deathDE>1806</deathDE>
+<birthPlace>
+<XML_Serializer_Tag>Frankfurt am Main</XML_Serializer_Tag>
+</birthPlace>
+<deathPlace>
+<XML_Serializer_Tag>Weimar</XML_Serializer_Tag>
+</deathPlace>
+<professionOrOccupation>
+<XML_Serializer_Tag>Maler</XML_Serializer_Tag>
+<XML_Serializer_Tag>Radierer</XML_Serializer_Tag>
+</professionOrOccupation>
+<artworks />
+<dbpResource>http://dbpedia.org/resource/Georg_Melchior_Kraus</dbpResource>
+<abstract>Georg Melchior Kraus (* 26. Juli 1737 in Frankfurt am Main; † 5. November 1806 in Weimar) war ein deutscher Künstler. Er war Schüler Johann Heinrich Tischbeins des Älteren, Maler, Pädagoge und Unternehmer und war befreundet mit Johann Wolfgang von Goethe. Er zählt zu den gleichermaßen bekannten wie populären bildenden deutschen Künstlern des 18. Jahrhunderts.</abstract>
+<wikilink>http://en.wikipedia.org/wiki/Georg_Melchior_Kraus?oldid=586901875</wikilink>
+</Person>

@@ -1,0 +1,25 @@
+<Person>
+<name>Hans Bellmer</name>
+<variantName />
+<thumbnail>https://commons.wikimedia.org/wiki/Special:FilePath/Gedenktafel_Ehrenfelsstr_8a_(Karl)_Hans_Bellmer.jpg?width=270</thumbnail>
+<birthEN>1902</birthEN>
+<birthDE>1902</birthDE>
+<deathEN>1975</deathEN>
+<deathDE>1975</deathDE>
+<birthPlace>
+<XML_Serializer_Tag>Katowice</XML_Serializer_Tag>
+</birthPlace>
+<deathPlace>
+<XML_Serializer_Tag>Paris</XML_Serializer_Tag>
+</deathPlace>
+<professionOrOccupation>
+<XML_Serializer_Tag>Künstler</XML_Serializer_Tag>
+<XML_Serializer_Tag>Maler</XML_Serializer_Tag>
+<XML_Serializer_Tag>Bildhauer</XML_Serializer_Tag>
+<XML_Serializer_Tag>Photograph</XML_Serializer_Tag>
+</professionOrOccupation>
+<artworks />
+<dbpResource>http://dbpedia.org/resource/Hans_Bellmer</dbpResource>
+<abstract>Hans Bellmer (* 13. März 1902 in Kattowitz (heute Katowice, Polen); † 24. Februar 1975 in Paris) war ein deutscher Fotograf, Bildhauer, Maler und Autor.</abstract>
+<wikilink>http://en.wikipedia.org/wiki/Hans_Bellmer?oldid=606041115</wikilink>
+</Person>

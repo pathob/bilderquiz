@@ -1,0 +1,30 @@
+<Person>
+<name>Ferdinand Fellner</name>
+<variantName>
+<XML_Serializer_Tag>Ferdinand August Michael Fellner</XML_Serializer_Tag>
+<XML_Serializer_Tag>Ferdinand Michael August Fellner</XML_Serializer_Tag>
+<XML_Serializer_Tag>Friedrich Fellner</XML_Serializer_Tag>
+<XML_Serializer_Tag>Fr. Fellner</XML_Serializer_Tag>
+</variantName>
+<thumbnail>https://commons.wikimedia.org/wiki/Special:FilePath/Ferdinand_Fellner_-_Mittelalterlicher_Sänger.jpg?width=270</thumbnail>
+<birthEN>May 12, 1799</birthEN>
+<birthDE>12. Mai 1799</birthDE>
+<deathEN>September 4, 1859</deathEN>
+<deathDE>4. September 1859</deathDE>
+<birthPlace>
+<XML_Serializer_Tag>Frankfurt am Main</XML_Serializer_Tag>
+</birthPlace>
+<deathPlace>
+<XML_Serializer_Tag>Stuttgart</XML_Serializer_Tag>
+</deathPlace>
+<professionOrOccupation>
+<XML_Serializer_Tag>Zeichner</XML_Serializer_Tag>
+<XML_Serializer_Tag>Maler</XML_Serializer_Tag>
+<XML_Serializer_Tag>Historienmaler</XML_Serializer_Tag>
+<XML_Serializer_Tag>Jurist</XML_Serializer_Tag>
+</professionOrOccupation>
+<artworks />
+<dbpResource>http://dbpedia.org/resource/Ferdinand_Fellner_(painter)</dbpResource>
+<abstract>Ferdinand Fellner (* 12. Mai 1799 in Frankfurt am Main; † 4. September 1859 in Stuttgart) war ein deutscher Zeichner und Maler.</abstract>
+<wikilink>http://en.wikipedia.org/wiki/Ferdinand_Fellner_(painter)?oldid=586222791</wikilink>
+</Person>

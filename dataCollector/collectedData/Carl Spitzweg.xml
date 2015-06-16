@@ -1,0 +1,57 @@
+<Person>
+<name>Carl Spitzweg</name>
+<variantName>
+<XML_Serializer_Tag>Karl Spitzweg</XML_Serializer_Tag>
+</variantName>
+<thumbnail>https://commons.wikimedia.org/wiki/Special:FilePath/Carl_Spitzweg_Selbsportrait.jpg?width=270</thumbnail>
+<birthEN>February 5, 1808</birthEN>
+<birthDE>5. Februar 1808</birthDE>
+<deathEN>September 23, 1885</deathEN>
+<deathDE>23. September 1885</deathDE>
+<birthPlace>
+<XML_Serializer_Tag>Unterpfaffenhofen (Germering)</XML_Serializer_Tag>
+</birthPlace>
+<deathPlace>
+<XML_Serializer_Tag>München</XML_Serializer_Tag>
+</deathPlace>
+<professionOrOccupation>
+<XML_Serializer_Tag>Künstler</XML_Serializer_Tag>
+<XML_Serializer_Tag>Maler</XML_Serializer_Tag>
+<XML_Serializer_Tag>Lyriker</XML_Serializer_Tag>
+<XML_Serializer_Tag>Apotheker</XML_Serializer_Tag>
+</professionOrOccupation>
+<artworks>
+<XML_Serializer_Tag>
+<painting>
+<type>uri</type>
+<value>http://dbpedia.org/resource/The_Bookworm</value>
+</painting>
+<thumbnail>
+<type>uri</type>
+<value>http://en.wikipedia.org/wiki/Special:FilePath/Carl_Spitzweg_021.jpg?width=300</value>
+</thumbnail>
+<name>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>The Bookworm</value>
+</name>
+<year>
+<type>typed-literal</type>
+<datatype>http://www.w3.org/2001/XMLSchema#integer</datatype>
+<value>1850</value>
+</year>
+<abstract>
+<type>literal</type>
+<xml:lang>de</xml:lang>
+<value>Der Bücherwurm (Der Bibliothekar) ist eines der bekanntesten Motive des Münchner Malers Carl Spitzweg. Es existieren drei Gemälde mit diesem Titel.</value>
+</abstract>
+<wikilink>
+<type>uri</type>
+<value>http://en.wikipedia.org/wiki/The_Bookworm?oldid=597901833</value>
+</wikilink>
+</XML_Serializer_Tag>
+</artworks>
+<dbpResource>http://dbpedia.org/resource/Carl_Spitzweg</dbpResource>
+<abstract>Franz Carl Spitzweg (auch: Karl Spitzweg; * 5. Februar 1808 in Unterpfaffenhofen; † 23. September 1885 in München) war ein deutscher Maler. Im Kulturbetrieb des 19. Jahrhunderts nahm er eine Außenseiterposition ein.</abstract>
+<wikilink>http://en.wikipedia.org/wiki/Carl_Spitzweg?oldid=598943093</wikilink>
+</Person>

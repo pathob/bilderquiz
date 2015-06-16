@@ -1,0 +1,20 @@
+<Person>
+<name>Richard Bergh</name>
+<variantName>
+<XML_Serializer_Tag>Sven R. Bergh</XML_Serializer_Tag>
+</variantName>
+<thumbnail>https://commons.wikimedia.org/wiki/Special:FilePath/Swedish_painter_Richard_Bergh.jpg?width=270</thumbnail>
+<birthEN>1858</birthEN>
+<birthDE>1858</birthDE>
+<deathEN>1919</deathEN>
+<deathDE>1919</deathDE>
+<birthPlace />
+<deathPlace />
+<professionOrOccupation>
+<XML_Serializer_Tag>Maler</XML_Serializer_Tag>
+</professionOrOccupation>
+<artworks />
+<dbpResource>http://dbpedia.org/resource/Richard_Bergh</dbpResource>
+<abstract>Sven Richard Bergh (* 28. Dezember 1858 in Stockholm; † 29. Januar 1919 in Saltsjö-Storängen) war ein schwedischer Künstler. Zudem war er im Konstnärsförbundet aktiv und hatte von 1915 bis zu seinem Tod die Leitung des Schwedischen Nationalmuseums inne.Mit seinen Werken und Schriften gilt er als ein Hauptvertreter der Nationalromantik in Schweden.</abstract>
+<wikilink>http://en.wikipedia.org/wiki/Richard_Bergh?oldid=602405433</wikilink>
+</Person>

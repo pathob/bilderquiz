@@ -1,0 +1,20 @@
+<Person>
+<name>Gerard Seghers</name>
+<variantName>
+<XML_Serializer_Tag>Gerard Zegers</XML_Serializer_Tag>
+</variantName>
+<thumbnail>https://commons.wikimedia.org/wiki/Special:FilePath/Seghersjob.jpg?width=270</thumbnail>
+<birthEN>1591</birthEN>
+<birthDE>1591</birthDE>
+<deathEN>1651</deathEN>
+<deathDE>1651</deathDE>
+<birthPlace />
+<deathPlace />
+<professionOrOccupation>
+<XML_Serializer_Tag>Maler</XML_Serializer_Tag>
+</professionOrOccupation>
+<artworks />
+<dbpResource>http://dbpedia.org/resource/Gerard_Seghers</dbpResource>
+<abstract>Gerard Seghers (Schreibvariante: Geerard Seghers; * 17. März 1591 in Antwerpen; † 18. März 1651 in Antwerpen) war ein niederländischer Maler.</abstract>
+<wikilink>http://en.wikipedia.org/wiki/Gerard_Seghers?oldid=601600069</wikilink>
+</Person>

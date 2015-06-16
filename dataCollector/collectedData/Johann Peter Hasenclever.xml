@@ -1,0 +1,28 @@
+<Person>
+<name>Johann Peter Hasenclever</name>
+<variantName>
+<XML_Serializer_Tag>John Peter Hasenclever</XML_Serializer_Tag>
+<XML_Serializer_Tag>Johann P. Hasenclever</XML_Serializer_Tag>
+</variantName>
+<thumbnail>https://commons.wikimedia.org/wiki/Special:FilePath/Johann_Peter_Hasenclever_-_Selbstbildnis_(Ausschnitt).jpg?width=270</thumbnail>
+<birthEN>May 18, 1810</birthEN>
+<birthDE>18. Mai 1810</birthDE>
+<deathEN>December 16, 1853</deathEN>
+<deathDE>16. Dezember 1853</deathDE>
+<birthPlace>
+<XML_Serializer_Tag>Remscheid</XML_Serializer_Tag>
+</birthPlace>
+<deathPlace>
+<XML_Serializer_Tag>Düsseldorf</XML_Serializer_Tag>
+</deathPlace>
+<professionOrOccupation>
+<XML_Serializer_Tag>Humorzeichner</XML_Serializer_Tag>
+<XML_Serializer_Tag>Genremaler</XML_Serializer_Tag>
+<XML_Serializer_Tag>Maler</XML_Serializer_Tag>
+<XML_Serializer_Tag>Zeichner</XML_Serializer_Tag>
+</professionOrOccupation>
+<artworks />
+<dbpResource>http://dbpedia.org/resource/Johann_Peter_Hasenclever</dbpResource>
+<abstract>Johann Peter Hasenclever (* 18. Mai 1810 in Remscheid; † 16. Dezember 1853 in Düsseldorf) zählt zu den bedeutendsten deutschen Malern des 19. Jahrhunderts. Hasenclever war als Mitglied der Düsseldorfer Malerschule Begründer einer sozialkritischen und ironischen Genremalerei in Deutschland und Wegbereiter von Carl Spitzweg und Wilhelm Busch.</abstract>
+<wikilink>http://en.wikipedia.org/wiki/Johann_Peter_Hasenclever?oldid=563935617</wikilink>
+</Person>

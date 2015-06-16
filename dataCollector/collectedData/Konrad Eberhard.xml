@@ -1,0 +1,22 @@
+<Person>
+<name>Konrad Eberhard</name>
+<variantName>
+<XML_Serializer_Tag>Conrad Eberhard</XML_Serializer_Tag>
+</variantName>
+<thumbnail>https://commons.wikimedia.org/wiki/Special:FilePath/Ramboux_-_Brüder_Eberhard.jpg?width=270</thumbnail>
+<birthEN>1768</birthEN>
+<birthDE>1768</birthDE>
+<deathEN>1859</deathEN>
+<deathDE>1859</deathDE>
+<birthPlace />
+<deathPlace />
+<professionOrOccupation>
+<XML_Serializer_Tag>Bildhauer</XML_Serializer_Tag>
+<XML_Serializer_Tag>Maler</XML_Serializer_Tag>
+<XML_Serializer_Tag>Lithograph</XML_Serializer_Tag>
+</professionOrOccupation>
+<artworks />
+<dbpResource>http://dbpedia.org/resource/Konrad_Eberhard</dbpResource>
+<abstract>Konrad Eberhard (* 25. November 1768 in Hindelang; † 12. März 1859 in München) war ein deutscher Bildhauer und Maler.</abstract>
+<wikilink>http://en.wikipedia.org/wiki/Konrad_Eberhard?oldid=600027485</wikilink>
+</Person>

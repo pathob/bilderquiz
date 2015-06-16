@@ -1,0 +1,24 @@
+<Person>
+<name>Georges Rouault</name>
+<variantName>
+<XML_Serializer_Tag>Georges Henri Rouault</XML_Serializer_Tag>
+</variantName>
+<thumbnail>https://commons.wikimedia.org/wiki/Special:FilePath/Georges_Rouault_House_Beaumont_sur_Sarthe_France.jpg?width=270</thumbnail>
+<birthEN>May 27, 1871</birthEN>
+<birthDE>27. Mai 1871</birthDE>
+<deathEN>February 13, 1958</deathEN>
+<deathDE>13. Februar 1958</deathDE>
+<birthPlace>
+<XML_Serializer_Tag>Paris</XML_Serializer_Tag>
+</birthPlace>
+<deathPlace>
+<XML_Serializer_Tag>Paris</XML_Serializer_Tag>
+</deathPlace>
+<professionOrOccupation>
+<XML_Serializer_Tag>Maler</XML_Serializer_Tag>
+</professionOrOccupation>
+<artworks />
+<dbpResource>http://dbpedia.org/resource/Georges_Rouault</dbpResource>
+<abstract>Georges Rouault (* 27. Mai 1871 in Paris; † 13. Februar 1958 ebenda) war ein französischer Maler und Grafiker der Klassischen Moderne. Er lässt sich nur schwer einer bestimmten Schule oder einem Stil zuordnen, wird jedoch allgemein zu den Künstlern der École de Paris gerechnet. Als Mitbegründer des Salon d&apos;Automne (1903) gehörte er anfangs zum Kreis der Fauves, ging jedoch bald eigene Wege und wurde zu einem der wichtigsten Vertreter moderner religiöser Malerei.</abstract>
+<wikilink>http://en.wikipedia.org/wiki/Georges_Rouault?oldid=603408994</wikilink>
+</Person>

@@ -1,0 +1,57 @@
+<Person>
+<name>Andrea del Sarto</name>
+<variantName>
+<XML_Serializer_Tag>Andre del Sarto</XML_Serializer_Tag>
+<XML_Serializer_Tag>Andrea Del Sarto</XML_Serializer_Tag>
+<XML_Serializer_Tag>Andrea, d&apos;Agnolo</XML_Serializer_Tag>
+<XML_Serializer_Tag>Andrea D&apos;Agnolo</XML_Serializer_Tag>
+<XML_Serializer_Tag>Andrea d&apos; Agnolo</XML_Serializer_Tag>
+<XML_Serializer_Tag>Andrea DelSarto</XML_Serializer_Tag>
+<XML_Serializer_Tag>André del Sarto</XML_Serializer_Tag>
+<XML_Serializer_Tag>Andrea Vannucchi</XML_Serializer_Tag>
+</variantName>
+<thumbnail>https://commons.wikimedia.org/wiki/Special:FilePath/Andredelsartoselfportrait.jpeg?width=270</thumbnail>
+<birthEN>1486</birthEN>
+<birthDE>1486</birthDE>
+<deathEN>1530</deathEN>
+<deathDE>1530</deathDE>
+<birthPlace />
+<deathPlace />
+<professionOrOccupation>
+<XML_Serializer_Tag>Maler</XML_Serializer_Tag>
+</professionOrOccupation>
+<artworks>
+<XML_Serializer_Tag>
+<painting>
+<type>uri</type>
+<value>http://dbpedia.org/resource/Madonna_of_the_Harpies</value>
+</painting>
+<thumbnail>
+<type>uri</type>
+<value>http://commons.wikimedia.org/wiki/Special:FilePath/Andrea_del_Sarto_-_Madonna_of_the_Harpies_-_WGA00369.jpg?width=300</value>
+</thumbnail>
+<name>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>Madonna delle Arpie (Madonna of the Harpies)</value>
+</name>
+<year>
+<type>typed-literal</type>
+<datatype>http://www.w3.org/2001/XMLSchema#integer</datatype>
+<value>1517</value>
+</year>
+<abstract>
+<type>literal</type>
+<xml:lang>de</xml:lang>
+<value>Die Harpyienmadonna ist ein Altarbild des italienischen Malers Andrea del Sarto. Es gilt als sein Meisterwerk.</value>
+</abstract>
+<wikilink>
+<type>uri</type>
+<value>http://en.wikipedia.org/wiki/Madonna_of_the_Harpies?oldid=591466417</value>
+</wikilink>
+</XML_Serializer_Tag>
+</artworks>
+<dbpResource>http://dbpedia.org/resource/Andrea_del_Sarto</dbpResource>
+<abstract>Andrea del Sarto, eigentlich Andrea d’Agnolo di Francesco di Luca di Paolo del Migliore, (* 16. Juli 1486 in Gualfonda, Florenz; † 29. September 1530 in Florenz) war ein Maler der italienischen Renaissance.</abstract>
+<wikilink>http://en.wikipedia.org/wiki/Andrea_del_Sarto?oldid=602503163</wikilink>
+</Person>

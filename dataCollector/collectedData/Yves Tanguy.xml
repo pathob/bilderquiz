@@ -1,0 +1,21 @@
+<Person>
+<name>Yves Tanguy</name>
+<variantName>
+<XML_Serializer_Tag>Raymond Georges Yves Tanguy</XML_Serializer_Tag>
+</variantName>
+<thumbnail>https://en.wikipedia.org/wiki/Special:FilePath/Indefinite_Divisibility.jpg?width=270</thumbnail>
+<birthEN>January 5, 1900</birthEN>
+<birthDE>5. Januar 1900</birthDE>
+<deathEN>January 15, 1955</deathEN>
+<deathDE>15. Januar 1955</deathDE>
+<birthPlace />
+<deathPlace />
+<professionOrOccupation>
+<XML_Serializer_Tag>Maler</XML_Serializer_Tag>
+<XML_Serializer_Tag>Illustrator</XML_Serializer_Tag>
+</professionOrOccupation>
+<artworks />
+<dbpResource>http://dbpedia.org/resource/Yves_Tanguy</dbpResource>
+<abstract>Yves Tanguy (* 5. Januar 1900 in Paris, als Raymond Georges Yves Tanguy; † 15. Januar 1955 in Woodbury, USA) war ein französischer Maler des Surrealismus.Yves Tanguys Landschaften sind mal luftig leicht, ähneln Wolkenformationen, mal erinnern sie an die Tiefen des Meeresgrunds, mal an die Oberfläche fremder Planeten, nie aber sind sie eindeutig fassbar: Sie sind surreale Landschaften im wahren Sinne des Wortes. Seine verschlüsselten Bildwelten geben bis heute Rätsel der Deutung auf.</abstract>
+<wikilink>http://en.wikipedia.org/wiki/Yves_Tanguy?oldid=605745920</wikilink>
+</Person>

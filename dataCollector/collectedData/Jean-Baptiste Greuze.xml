@@ -1,0 +1,26 @@
+<Person>
+<name>Jean-Baptiste Greuze</name>
+<variantName>
+<XML_Serializer_Tag>Jean Baptiste Greuze</XML_Serializer_Tag>
+<XML_Serializer_Tag>Zhan-Batist Grëz</XML_Serializer_Tag>
+<XML_Serializer_Tag>J. B. Greuse</XML_Serializer_Tag>
+</variantName>
+<thumbnail>https://commons.wikimedia.org/wiki/Special:FilePath/Jean-Baptiste_Greuze_Self_Portrait.jpg?width=270</thumbnail>
+<birthEN>August 21, 1725</birthEN>
+<birthDE>21. August 1725</birthDE>
+<deathEN>March 21, 1805</deathEN>
+<deathDE>21. März 1805</deathDE>
+<birthPlace>
+<XML_Serializer_Tag>Tournus</XML_Serializer_Tag>
+</birthPlace>
+<deathPlace>
+<XML_Serializer_Tag>Paris</XML_Serializer_Tag>
+</deathPlace>
+<professionOrOccupation>
+<XML_Serializer_Tag>Maler</XML_Serializer_Tag>
+</professionOrOccupation>
+<artworks />
+<dbpResource>http://dbpedia.org/resource/Jean-Baptiste_Greuze</dbpResource>
+<abstract>Jean-Baptiste Greuze (* 21. August 1725 in Tournus (Saône-et-Seine); † 21. März 1805 in Paris) war ein französischer Maler.</abstract>
+<wikilink>http://en.wikipedia.org/wiki/Jean-Baptiste_Greuze?oldid=602631535</wikilink>
+</Person>

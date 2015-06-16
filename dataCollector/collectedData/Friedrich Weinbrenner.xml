@@ -1,0 +1,22 @@
+<Person>
+<name>Friedrich Weinbrenner</name>
+<variantName>
+<XML_Serializer_Tag>Johann Jakob Friedrich Weinbrenner</XML_Serializer_Tag>
+<XML_Serializer_Tag>Fr. Weinbrenner</XML_Serializer_Tag>
+</variantName>
+<thumbnail>https://commons.wikimedia.org/wiki/Special:FilePath/Friedrich_Weinbrenner2.jpg?width=270</thumbnail>
+<birthEN>1766</birthEN>
+<birthDE>1766</birthDE>
+<deathEN>1826</deathEN>
+<deathDE>1826</deathDE>
+<birthPlace />
+<deathPlace />
+<professionOrOccupation>
+<XML_Serializer_Tag>Architekt</XML_Serializer_Tag>
+<XML_Serializer_Tag>Maler</XML_Serializer_Tag>
+</professionOrOccupation>
+<artworks />
+<dbpResource>http://dbpedia.org/resource/Friedrich_Weinbrenner</dbpResource>
+<abstract>Johann Jakob Friedrich Weinbrenner (* 24. November 1766 in Karlsruhe; † 1. März 1826 ebenda) war ein deutscher Architekt, Stadtplaner und Baumeister des Klassizismus.</abstract>
+<wikilink>http://en.wikipedia.org/wiki/Friedrich_Weinbrenner?oldid=606473304</wikilink>
+</Person>

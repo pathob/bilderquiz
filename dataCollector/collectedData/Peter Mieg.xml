@@ -1,0 +1,23 @@
+<Person>
+<name>Peter Mieg</name>
+<variantName />
+<thumbnail>https://commons.wikimedia.org/wiki/Special:FilePath/PM_Nr.0000.jpg?width=270</thumbnail>
+<birthEN>September 5, 1906</birthEN>
+<birthDE>5. September 1906</birthDE>
+<deathEN>December 7, 1990</deathEN>
+<deathDE>7. Dezember 1990</deathDE>
+<birthPlace>
+<XML_Serializer_Tag>Lenzburg</XML_Serializer_Tag>
+</birthPlace>
+<deathPlace>
+<XML_Serializer_Tag>Aarau</XML_Serializer_Tag>
+</deathPlace>
+<professionOrOccupation>
+<XML_Serializer_Tag>Komponist</XML_Serializer_Tag>
+<XML_Serializer_Tag>Maler</XML_Serializer_Tag>
+</professionOrOccupation>
+<artworks />
+<dbpResource>http://dbpedia.org/resource/Peter_Mieg</dbpResource>
+<abstract>Peter Mieg (* 5. September 1906 in Lenzburg; † 7. Dezember 1990 in Aarau) war Komponist, Maler und Publizist, der das Schweizerische Kulturleben während Jahrzehnten in vielfältiger Weise geprägt und sich über die Landesgrenzen hinaus einen Namen geschaffen hat.</abstract>
+<wikilink>http://en.wikipedia.org/wiki/Peter_Mieg?oldid=582327162</wikilink>
+</Person>

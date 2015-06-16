@@ -1,0 +1,53 @@
+<Person>
+<name>Jan Styka</name>
+<variantName />
+<thumbnail>https://commons.wikimedia.org/wiki/Special:FilePath/Lviv_-_Jan_Styka_House.jpg?width=270</thumbnail>
+<birthEN>April 8, 1858</birthEN>
+<birthDE>8. April 1858</birthDE>
+<deathEN>April 11, 1925</deathEN>
+<deathDE>11. April 1925</deathDE>
+<birthPlace>
+<XML_Serializer_Tag>Lemberg</XML_Serializer_Tag>
+</birthPlace>
+<deathPlace>
+<XML_Serializer_Tag>Rom</XML_Serializer_Tag>
+</deathPlace>
+<professionOrOccupation>
+<XML_Serializer_Tag>Künstler</XML_Serializer_Tag>
+<XML_Serializer_Tag>Maler</XML_Serializer_Tag>
+</professionOrOccupation>
+<artworks>
+<XML_Serializer_Tag>
+<painting>
+<type>uri</type>
+<value>http://dbpedia.org/resource/Rac%C5%82awice_Panorama</value>
+</painting>
+<thumbnail>
+<type>uri</type>
+<value>http://commons.wikimedia.org/wiki/Special:FilePath/Lwow_Panorama_Raclawicka.jpg?width=300</value>
+</thumbnail>
+<name>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>Racławice Panorama</value>
+</name>
+<year>
+<type>typed-literal</type>
+<datatype>http://www.w3.org/2001/XMLSchema#integer</datatype>
+<value>1893</value>
+</year>
+<abstract>
+<type>literal</type>
+<xml:lang>de</xml:lang>
+<value>Das Panorama von Racławice (poln. Panorama Racławicka) befindet sich als einziges polnisches Kunstwerk seiner Art in Breslau und gehört zu den bekanntesten Sehenswürdigkeiten der Stadt. Es ist 15 m × 114 m = 1710 m² groß. Das Panoramabild zeigt den Sieg der polnischen Armee über die russische 1794 in der Schlacht bei Racławice unter Führung des polnischen Generals Tadeusz Kościuszko.Das Bild wurde anlässlich des 100. Jahrestages der Schlacht nach fast einjähriger Entstehungsgeschichte am 5. Juni 1894 anlässlich einer Nationalausstellung in Lwów (Lemberg) veröffentlicht. Der Ideengeber war der bekannte Lemberger Maler Jan Styka, der mit dem Schlachtenmaler Wojciech Kossak die Federführung innehatte. Weitere Mitwirkende waren: Teodor Axentowicz, Ludwig Boller, Tadeusz Popiel, Zygmunt Rozwadowski, Michał Sozański, Włodzimierz Tetmajer und Wincenty Wodzinowski.Das Bild war lange ein touristischer Höhepunkt der Stadt Lemberg. Nach dem Zweiten Weltkrieg wurde es im Jahr 1946 unter Geheimhaltung zerlegt nach Breslau verbracht, wo es viele Jahre in einem Versteck blieb. Da es eine Niederlage der russischen Armee zeigt, befürchteten die Behörden eine Verschlechterung der sowjetisch-polnischen Beziehungen. Erst nach der Lockerung der politischen Lage wurde es herausgeholt. Es wird in einem neuen Gebäude ausgestellt, welches seit 1968 nach den Plänen des Architekten Marek Dziekoński gebaut und erst in den 1980er Jahren fertiggestellt wurde. Die Bauarbeiten wurden aus finanziellen und politischen Gründen verzögert, die offizielle Eröffnung erfolgte am 14. Juni 1985, seitdem zählt das Panorama zu den meistbesuchten Ausstellungen in Polen. Die erste Million war im August 1987 erreicht und bis September 2004 stieg die Besucherzahl auf sechs Millionen, darunter Persönlichkeiten wie der polnische Papst Johannes Paul II., die Königin Beatrix und der Nobelpreisträger Czesław Miłosz.</value>
+</abstract>
+<wikilink>
+<type>uri</type>
+<value>http://en.wikipedia.org/wiki/Racławice_Panorama?oldid=586395425</value>
+</wikilink>
+</XML_Serializer_Tag>
+</artworks>
+<dbpResource>http://dbpedia.org/resource/Jan_Styka</dbpResource>
+<abstract>Jan Styka (* 8. April 1858 in Lemberg; † 11. April 1925 in Rom) war ein polnischer Maler.</abstract>
+<wikilink>http://en.wikipedia.org/wiki/Jan_Styka?oldid=588403794</wikilink>
+</Person>

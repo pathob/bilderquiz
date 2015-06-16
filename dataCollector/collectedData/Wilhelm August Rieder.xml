@@ -1,0 +1,20 @@
+<Person>
+<name>Wilhelm August Rieder</name>
+<variantName>
+<XML_Serializer_Tag>W. Rieder</XML_Serializer_Tag>
+</variantName>
+<thumbnail>https://commons.wikimedia.org/wiki/Special:FilePath/Franz_Schubert_by_Wilhelm_August_Rieder_1875.jpg?width=270</thumbnail>
+<birthEN>1796</birthEN>
+<birthDE>1796</birthDE>
+<deathEN>1880</deathEN>
+<deathDE>1880</deathDE>
+<birthPlace />
+<deathPlace />
+<professionOrOccupation>
+<XML_Serializer_Tag>Maler</XML_Serializer_Tag>
+</professionOrOccupation>
+<artworks />
+<dbpResource>http://dbpedia.org/resource/Wilhelm_August_Rieder</dbpResource>
+<abstract>Wilhelm August Rieder (* 30. Oktober 1796 in Oberdöbling; † 8. September 1880 in Wien) war ein österreichischer Porträt-, Genre-, und Historienmaler sowie Zeichner und Lithograf. Er ist der bekannteste Porträtist von Franz Schubert.</abstract>
+<wikilink>http://en.wikipedia.org/wiki/Wilhelm_August_Rieder?oldid=583550456</wikilink>
+</Person>

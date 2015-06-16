@@ -1,0 +1,182 @@
+<Person>
+<name>Jean-Baptiste-Camille Corot</name>
+<variantName>
+<XML_Serializer_Tag>Jean-Baptiste Camille Corot</XML_Serializer_Tag>
+<XML_Serializer_Tag>Jean Baptiste Camille Corot</XML_Serializer_Tag>
+<XML_Serializer_Tag>Jean-Baptiste C. Corot</XML_Serializer_Tag>
+<XML_Serializer_Tag>Jean Baptiste C. Corot</XML_Serializer_Tag>
+<XML_Serializer_Tag>Camille Corot</XML_Serializer_Tag>
+<XML_Serializer_Tag>Kamil&apos; Koro</XML_Serializer_Tag>
+</variantName>
+<thumbnail>https://commons.wikimedia.org/wiki/Special:FilePath/Camille_Corot-Nadar.jpg?width=270</thumbnail>
+<birthEN>July 16, 1796</birthEN>
+<birthDE>16. Juli 1796</birthDE>
+<deathEN>February 22, 1875</deathEN>
+<deathDE>22. Februar 1875</deathDE>
+<birthPlace>
+<XML_Serializer_Tag>Paris</XML_Serializer_Tag>
+</birthPlace>
+<deathPlace>
+<XML_Serializer_Tag>Paris</XML_Serializer_Tag>
+</deathPlace>
+<professionOrOccupation>
+<XML_Serializer_Tag>Künstler</XML_Serializer_Tag>
+<XML_Serializer_Tag>Maler</XML_Serializer_Tag>
+<XML_Serializer_Tag>Zeichner</XML_Serializer_Tag>
+<XML_Serializer_Tag>Radierer</XML_Serializer_Tag>
+</professionOrOccupation>
+<artworks>
+<XML_Serializer_Tag>
+<painting>
+<type>uri</type>
+<value>http://dbpedia.org/resource/Le_concert_champ%C3%AAtre</value>
+</painting>
+<thumbnail>
+<type>uri</type>
+<value>http://commons.wikimedia.org/wiki/Special:FilePath/Corot_concert_champêtre_Condé_Chantilly.jpg?width=300</value>
+</thumbnail>
+<name>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>Woodland music makers</value>
+</name>
+<year>
+<type>typed-literal</type>
+<datatype>http://www.w3.org/2001/XMLSchema#integer</datatype>
+<value>1857</value>
+</year>
+<abstract>
+<type>literal</type>
+<xml:lang>de</xml:lang>
+<value>Ländliches Konzert (französisch:Le Concert champêtre) ist ein Gemälde des französischen Malers Jean-Baptiste Camille Corot, das zwischen den Jahren 1844 und 1857 entstand. Heute ist das Gemälde im Musée Condé der nordfranzösischen Stadt Chantilly zu besichtigen.Es zeigt im Vordergrund drei Mädchen, die auf einer Wiese sitzen. Das erste davon spielt ein Violoncello, das zweite kniet im Gras und liest ein Buch und das dritte, das hellblau gekleidet ist und sich auf dem Gras ausgestreckt hat, stützt ihren Kopf auf ihre Hand und sieht die ersten beiden Mädchen an. Im Hintergrund sind drei weitere Mädchen dargestellt, die am Ufer eines Sees Früchte von den Bäumen pflücken. Corot begann die Arbeiten an dem Gemälde im Jahr 1843. Die Inspiration zu diesem Motiv hatte er auf einer Reise in die Schweiz erhalten, wo er eine Gruppe von jungen Hirtenmädchen bei der Pause neben einem Gebüsch beobachtete. Er bereicherte das Motiv um Blätter von Wäldern, wie er sie an einem See in Italien beobachtet hatte, und mit Bäumen aus dem Wald von Fontainebleau. Im Jahre 1844 stellte Corot das Werk aus. Im Jahre 1857 entschied er, es zu überarbeiten. Er ersetzte die Wiese im Hintergrund durch einen Teich in dunkleren Farben, und den jungen Hirten, der sich an einen Baum gelehnt hatte, durch einen Schwan, der auf dem Wasser des Teiches schwimmt. Er setzte den Horizont etwas tiefer, so dass sich die Landschaft insgesamt etwas verdunkelte und an Poesie gewann. Im Jahr 1857 stellte Corot das Gemälde im Salon aus und erklärte, es überarbeitet und korrigiert zu haben. Im Jahre 1872 führte er jedoch Änderungen am Blattwerk durch.Der Aufbau des Bildes, bei dem Blattwerk fast überall die Sicht begrenzt wie die Vorhänge eines Theaters, erinnert an den Aufbau der Bilder der Meister des 17. Jahrhunderts. Die Wasserfläche im Hintergrund trägt den Blick in die Ferne, wo sich die blaue Wasserfläche mit dem Blau des Himmels vereint. Die beiden Menschengruppen bilden zwei dreieckige Formen. Corot verwendete einen leichten Pinselstrich, der das Gemälde etwas verschwommen erscheinen lässt, wie die ersten Fotografien, die zur Zeit des Künstlers aufkamen und von denen er eine große Menge besaß. Der Künstler verwendete eine limitierte Farbpalette, wo die blauen Farbtöne des Himmels und des Sees mit den Braun- und Grüntönen der Pflanzen harmonieren. Auffallend ist das Unsymmetrische zwischen dem rechten Teil des Bildes, der dunkler ist, und dem linken Teil, der durch das Licht und die früchtepflückenden Frauen belebt wird.Das Bild ist der Schule von Barbizon zuzuordnen, deren Mitglieder sich in Opposition zu den klassischen, von der konservativen Akademie der Schönen Künste vertretenen Konventionen, sahen. Sie erhielten ihre Inspiration von der englischen Landschaftsmalerei, besonders von den Werken von John Constable und Richard Parkes Bonington und den holländischen Landschaftsmalern des 17. Jahrhunderts.</value>
+</abstract>
+<wikilink>
+<type>uri</type>
+<value>http://en.wikipedia.org/wiki/Le_concert_champêtre?oldid=589487383</value>
+</wikilink>
+</XML_Serializer_Tag>
+<XML_Serializer_Tag>
+<painting>
+<type>uri</type>
+<value>http://dbpedia.org/resource/The_Bridge_at_Narni</value>
+</painting>
+<thumbnail>
+<type>uri</type>
+<value>http://commons.wikimedia.org/wiki/Special:FilePath/Jean-Baptiste-Camille_Corot_006.jpg?width=300</value>
+</thumbnail>
+<name>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>The Bridge at Narni</value>
+</name>
+<year>
+<type>typed-literal</type>
+<datatype>http://www.w3.org/2001/XMLSchema#integer</datatype>
+<value>1826</value>
+</year>
+<wikilink>
+<type>uri</type>
+<value>http://en.wikipedia.org/wiki/The_Bridge_at_Narni?oldid=586574806</value>
+</wikilink>
+</XML_Serializer_Tag>
+<XML_Serializer_Tag>
+<painting>
+<type>uri</type>
+<value>http://dbpedia.org/resource/Venise,_La_Piazetta</value>
+</painting>
+<thumbnail>
+<type>uri</type>
+<value>http://commons.wikimedia.org/wiki/Special:FilePath/Venise,_La_Piazetta_(Camille_Corot).jpg?width=300</value>
+</thumbnail>
+<name>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>Venise, La Piazetta seen from the Riva degli Schiavoni</value>
+</name>
+<year>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>c. 1835-1845</value>
+</year>
+<wikilink>
+<type>uri</type>
+<value>http://en.wikipedia.org/wiki/Venise,_La_Piazetta?oldid=603233835</value>
+</wikilink>
+</XML_Serializer_Tag>
+<XML_Serializer_Tag>
+<painting>
+<type>uri</type>
+<value>http://dbpedia.org/resource/Souvenir_de_Mortefontaine</value>
+</painting>
+<thumbnail>
+<type>uri</type>
+<value>http://commons.wikimedia.org/wiki/Special:FilePath/Jean-Baptiste-Camille_Corot_012.jpg?width=300</value>
+</thumbnail>
+<name>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>Souvenir de Mortefontaine</value>
+</name>
+<year>
+<type>typed-literal</type>
+<datatype>http://www.w3.org/2001/XMLSchema#integer</datatype>
+<value>1864</value>
+</year>
+<wikilink>
+<type>uri</type>
+<value>http://en.wikipedia.org/wiki/Souvenir_de_Mortefontaine?oldid=590949793</value>
+</wikilink>
+</XML_Serializer_Tag>
+<XML_Serializer_Tag>
+<painting>
+<type>uri</type>
+<value>http://dbpedia.org/resource/Femme_Lisant</value>
+</painting>
+<thumbnail>
+<type>uri</type>
+<value>http://commons.wikimedia.org/wiki/Special:FilePath/Jean-Baptiste-Camille_Corot_031.jpg?width=300</value>
+</thumbnail>
+<name>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>Femme Lisant (Woman reading)</value>
+</name>
+<year>
+<type>typed-literal</type>
+<datatype>http://www.w3.org/2001/XMLSchema#integer</datatype>
+<value>1869</value>
+</year>
+<wikilink>
+<type>uri</type>
+<value>http://en.wikipedia.org/wiki/Femme_Lisant?oldid=586440577</value>
+</wikilink>
+</XML_Serializer_Tag>
+<XML_Serializer_Tag>
+<painting>
+<type>uri</type>
+<value>http://dbpedia.org/resource/Ville_d&apos;Avray_(painting)</value>
+</painting>
+<thumbnail>
+<type>uri</type>
+<value>http://commons.wikimedia.org/wiki/Special:FilePath/Corot.villedavray.750pix.jpg?width=300</value>
+</thumbnail>
+<name>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>Ville d’Avray</value>
+</name>
+<year>
+<type>typed-literal</type>
+<datatype>http://www.w3.org/2001/XMLSchema#integer</datatype>
+<value>1865</value>
+</year>
+<wikilink>
+<type>uri</type>
+<value>http://en.wikipedia.org/wiki/Ville_d&apos;Avray_(painting)?oldid=591096500</value>
+</wikilink>
+</XML_Serializer_Tag>
+</artworks>
+<dbpResource>http://dbpedia.org/resource/Jean-Baptiste-Camille_Corot</dbpResource>
+<abstract>Jean-Baptiste Camille Corot (* 16. Juli 1796 in Paris; † 22. Februar 1875 ebenda) war ein bedeutender französischer Landschaftsmaler. Er ist einer der Hauptvertreter der Schule von Barbizon.</abstract>
+<wikilink>http://en.wikipedia.org/wiki/Jean-Baptiste-Camille_Corot?oldid=597474442</wikilink>
+</Person>

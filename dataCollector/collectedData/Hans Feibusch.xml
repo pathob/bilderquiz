@@ -1,0 +1,22 @@
+<Person>
+<name>Hans Feibusch</name>
+<variantName />
+<thumbnail>https://commons.wikimedia.org/wiki/Special:FilePath/&quot;The_Baptism_of_Christ&quot;_by_Hans_Feibusch_within_Chichester_Cathedral_-_geograph.org.uk_-_1141190.jpg?width=270</thumbnail>
+<birthEN>August 15, 1898</birthEN>
+<birthDE>15. August 1898</birthDE>
+<deathEN>July 18, 1998</deathEN>
+<deathDE>18. Juli 1998</deathDE>
+<birthPlace>
+<XML_Serializer_Tag>Frankfurt am Main</XML_Serializer_Tag>
+</birthPlace>
+<deathPlace>
+<XML_Serializer_Tag>London</XML_Serializer_Tag>
+</deathPlace>
+<professionOrOccupation>
+<XML_Serializer_Tag>Maler</XML_Serializer_Tag>
+</professionOrOccupation>
+<artworks />
+<dbpResource>http://dbpedia.org/resource/Hans_Feibusch</dbpResource>
+<abstract>Hans Nathan Feibusch (* 15. August 1898 in Frankfurt am Main; † 18. Juli 1998 in London) war ein deutscher Maler, der seit 1933 im britischen Exil lebte.</abstract>
+<wikilink>http://en.wikipedia.org/wiki/Hans_Feibusch?oldid=597604229</wikilink>
+</Person>

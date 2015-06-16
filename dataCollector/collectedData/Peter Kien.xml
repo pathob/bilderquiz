@@ -1,0 +1,25 @@
+<Person>
+<name>Peter Kien</name>
+<variantName>
+<XML_Serializer_Tag>Franz Peter Kien</XML_Serializer_Tag>
+<XML_Serializer_Tag>Peter Kin</XML_Serializer_Tag>
+<XML_Serializer_Tag>Petr Kien</XML_Serializer_Tag>
+<XML_Serializer_Tag>Peṭer Qîn</XML_Serializer_Tag>
+</variantName>
+<thumbnail>https://commons.wikimedia.org/wiki/Special:FilePath/Pamětní_deska_na_rodném_domě_Petra_Kiena.JPG?width=270</thumbnail>
+<birthEN>1919</birthEN>
+<birthDE>1919</birthDE>
+<deathEN>1944</deathEN>
+<deathDE>1944</deathDE>
+<birthPlace />
+<deathPlace />
+<professionOrOccupation>
+<XML_Serializer_Tag>Künstler</XML_Serializer_Tag>
+<XML_Serializer_Tag>Maler</XML_Serializer_Tag>
+<XML_Serializer_Tag>Schriftsteller</XML_Serializer_Tag>
+</professionOrOccupation>
+<artworks />
+<dbpResource>http://dbpedia.org/resource/Peter_Kien</dbpResource>
+<abstract>Franz Peter Kien oder František Petr Kien (* 1. Januar 1919 in Varnsdorf, Tschechoslowakei; † Ende 1944 im KZ Auschwitz) war ein deutschsprachiger tschechisch-jüdischer Künstler und Dichter.</abstract>
+<wikilink>http://en.wikipedia.org/wiki/Peter_Kien?oldid=603553385</wikilink>
+</Person>

@@ -1,0 +1,30 @@
+<Person>
+<name>Godefroy Engelmann</name>
+<variantName>
+<XML_Serializer_Tag>Godefroi Engelmann</XML_Serializer_Tag>
+<XML_Serializer_Tag>G. Engelmann</XML_Serializer_Tag>
+<XML_Serializer_Tag>Gottfried Engelmann</XML_Serializer_Tag>
+</variantName>
+<thumbnail>https://commons.wikimedia.org/wiki/Special:FilePath/Chateau_Courcy_lithographie_1826.jpg?width=270</thumbnail>
+<birthEN>August 17, 1788</birthEN>
+<birthDE>17. August 1788</birthDE>
+<deathEN>April 25, 1839</deathEN>
+<deathDE>25. April 1839</deathDE>
+<birthPlace>
+<XML_Serializer_Tag>Mulhouse (Elsaß)</XML_Serializer_Tag>
+</birthPlace>
+<deathPlace>
+<XML_Serializer_Tag>Mulhouse (Elsaß)</XML_Serializer_Tag>
+</deathPlace>
+<professionOrOccupation>
+<XML_Serializer_Tag>Lithograph</XML_Serializer_Tag>
+<XML_Serializer_Tag>Drucker</XML_Serializer_Tag>
+<XML_Serializer_Tag>Zeichner</XML_Serializer_Tag>
+<XML_Serializer_Tag>Maler</XML_Serializer_Tag>
+<XML_Serializer_Tag>Erfinder</XML_Serializer_Tag>
+</professionOrOccupation>
+<artworks />
+<dbpResource>http://dbpedia.org/resource/Godefroy_Engelmann</dbpResource>
+<abstract>Godefroy Engelmann (oder Gottfried Engelmann; * 17. August 1788 in Mülhausen; † 25. April 1839 ebenda) war ein deutsch-französischer Lithograf.</abstract>
+<wikilink>http://en.wikipedia.org/wiki/Godefroy_Engelmann?oldid=600519332</wikilink>
+</Person>

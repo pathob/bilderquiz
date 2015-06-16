@@ -1,0 +1,398 @@
+<Person>
+<name>Parmigianino</name>
+<variantName>
+<XML_Serializer_Tag>Girolamo Francesco Mazzola</XML_Serializer_Tag>
+<XML_Serializer_Tag>Il Parmeggianino</XML_Serializer_Tag>
+<XML_Serializer_Tag>Francesco Mazzola</XML_Serializer_Tag>
+<XML_Serializer_Tag>Francesco Mazzolo</XML_Serializer_Tag>
+<XML_Serializer_Tag>Francisco Mazzola</XML_Serializer_Tag>
+<XML_Serializer_Tag>Francesco Mazzuola</XML_Serializer_Tag>
+<XML_Serializer_Tag>Francesco Mazzoli</XML_Serializer_Tag>
+<XML_Serializer_Tag>Francesco Mazzuoli</XML_Serializer_Tag>
+<XML_Serializer_Tag>François Mazzuoli</XML_Serializer_Tag>
+<XML_Serializer_Tag>Il Parmiggianino</XML_Serializer_Tag>
+<XML_Serializer_Tag>... e Parmesan</XML_Serializer_Tag>
+<XML_Serializer_Tag>Girolamo Francesco Maria Mazzola</XML_Serializer_Tag>
+<XML_Serializer_Tag>Parmigiano</XML_Serializer_Tag>
+<XML_Serializer_Tag>François Mazzuola</XML_Serializer_Tag>
+<XML_Serializer_Tag>Il Parmigianino</XML_Serializer_Tag>
+<XML_Serializer_Tag>F. Parm.</XML_Serializer_Tag>
+<XML_Serializer_Tag>Parmegiano</XML_Serializer_Tag>
+<XML_Serializer_Tag>Benché Francesco Mazzola</XML_Serializer_Tag>
+<XML_Serializer_Tag>Girolama Francesco Mazzola</XML_Serializer_Tag>
+<XML_Serializer_Tag>Il Parmigiano</XML_Serializer_Tag>
+<XML_Serializer_Tag>Le Parmesan</XML_Serializer_Tag>
+<XML_Serializer_Tag>Francisco Massolo</XML_Serializer_Tag>
+</variantName>
+<thumbnail>https://commons.wikimedia.org/wiki/Special:FilePath/Parmigianino_Selfportrait.jpg?width=270</thumbnail>
+<birthEN>January 11, 1503</birthEN>
+<birthDE>11. Januar 1503</birthDE>
+<deathEN>August 24, 1540</deathEN>
+<deathDE>24. August 1540</deathDE>
+<birthPlace>
+<XML_Serializer_Tag>Parma</XML_Serializer_Tag>
+</birthPlace>
+<deathPlace>
+<XML_Serializer_Tag>Casalmaggiore</XML_Serializer_Tag>
+</deathPlace>
+<professionOrOccupation>
+<XML_Serializer_Tag>Maler</XML_Serializer_Tag>
+<XML_Serializer_Tag>Radierer</XML_Serializer_Tag>
+</professionOrOccupation>
+<artworks>
+<XML_Serializer_Tag>
+<painting>
+<type>uri</type>
+<value>http://dbpedia.org/resource/Madonna_with_the_Long_Neck</value>
+</painting>
+<thumbnail>
+<type>uri</type>
+<value>http://commons.wikimedia.org/wiki/Special:FilePath/Parmigianino_-_Madonna_dal_collo_lungo_-_Google_Art_Project.jpg?width=300</value>
+</thumbnail>
+<name>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>or Madonna and Child with Angels and St. Jerome</value>
+</name>
+<year>
+<type>typed-literal</type>
+<datatype>http://www.w3.org/2001/XMLSchema#integer</datatype>
+<value>1535</value>
+</year>
+<abstract>
+<type>literal</type>
+<xml:lang>de</xml:lang>
+<value>Die Madonna mit dem langen Hals (ital.:Madonna dal collo lungo) ist ein Gemälde von Parmigianino. Es entstand in der ersten Hälfte des 16. Jahrhunderts in der Stilrichtung des Manierismus und gilt als eines der bedeutendsten Kunstwerke dieser Richtung. Darüber hinaus ist es das bekannteste oder vielmehr das „berüchtigtste“ Gemälde des Künstlers.</value>
+</abstract>
+<wikilink>
+<type>uri</type>
+<value>http://en.wikipedia.org/wiki/Madonna_with_the_Long_Neck?oldid=605730343</value>
+</wikilink>
+</XML_Serializer_Tag>
+<XML_Serializer_Tag>
+<painting>
+<type>uri</type>
+<value>http://dbpedia.org/resource/Madonna_with_the_Long_Neck</value>
+</painting>
+<thumbnail>
+<type>uri</type>
+<value>http://commons.wikimedia.org/wiki/Special:FilePath/Parmigianino_-_Madonna_dal_collo_lungo_-_Google_Art_Project.jpg?width=300</value>
+</thumbnail>
+<name>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>The Madonna with the Long Neck</value>
+</name>
+<year>
+<type>typed-literal</type>
+<datatype>http://www.w3.org/2001/XMLSchema#integer</datatype>
+<value>1535</value>
+</year>
+<abstract>
+<type>literal</type>
+<xml:lang>de</xml:lang>
+<value>Die Madonna mit dem langen Hals (ital.:Madonna dal collo lungo) ist ein Gemälde von Parmigianino. Es entstand in der ersten Hälfte des 16. Jahrhunderts in der Stilrichtung des Manierismus und gilt als eines der bedeutendsten Kunstwerke dieser Richtung. Darüber hinaus ist es das bekannteste oder vielmehr das „berüchtigtste“ Gemälde des Künstlers.</value>
+</abstract>
+<wikilink>
+<type>uri</type>
+<value>http://en.wikipedia.org/wiki/Madonna_with_the_Long_Neck?oldid=605730343</value>
+</wikilink>
+</XML_Serializer_Tag>
+<XML_Serializer_Tag>
+<painting>
+<type>uri</type>
+<value>http://dbpedia.org/resource/Self-portrait_in_a_Convex_Mirror</value>
+</painting>
+<thumbnail>
+<type>uri</type>
+<value>http://commons.wikimedia.org/wiki/Special:FilePath/Parmigianino_Selfportrait.jpg?width=300</value>
+</thumbnail>
+<name>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>Self-portrait in a Convex Mirror</value>
+</name>
+<year>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>c. 1524</value>
+</year>
+<abstract>
+<type>literal</type>
+<xml:lang>de</xml:lang>
+<value>Das Selbstporträt im konvexen Spiegel bzw. Selbstbildnis aus dem Konvexspiegel ist ein kreisförmiges Gemälde des italienischen Malers Francesco Mazzola, genannt Parmigianino aus dem Jahr 1523 oder 1524. Das auf gewölbtem Pappelholz gemalte Ölbild hat einen Durchmesser von 24,4 cm und hängt heute in der Gemäldegalerie des Kunsthistorischen Museums in Wien.</value>
+</abstract>
+<wikilink>
+<type>uri</type>
+<value>http://en.wikipedia.org/wiki/Self-portrait_in_a_Convex_Mirror?oldid=591963143</value>
+</wikilink>
+</XML_Serializer_Tag>
+<XML_Serializer_Tag>
+<painting>
+<type>uri</type>
+<value>http://dbpedia.org/resource/Portrait_of_Galeazzo_Sanvitale</value>
+</painting>
+<thumbnail>
+<type>uri</type>
+<value>http://en.wikipedia.org/wiki/Special:FilePath/Parmigianino_024.jpg?width=300</value>
+</thumbnail>
+<name>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>Portrait of Galeazzo Sanvitale</value>
+</name>
+<year>
+<type>typed-literal</type>
+<datatype>http://www.w3.org/2001/XMLSchema#integer</datatype>
+<value>1524</value>
+</year>
+<wikilink>
+<type>uri</type>
+<value>http://en.wikipedia.org/wiki/Portrait_of_Galeazzo_Sanvitale?oldid=590318332</value>
+</wikilink>
+</XML_Serializer_Tag>
+<XML_Serializer_Tag>
+<painting>
+<type>uri</type>
+<value>http://dbpedia.org/resource/Portrait_of_a_Collector</value>
+</painting>
+<thumbnail>
+<type>uri</type>
+<value>http://commons.wikimedia.org/wiki/Special:FilePath/Parmigianino_025.jpg?width=300</value>
+</thumbnail>
+<name>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>Portrait of a  Collector</value>
+</name>
+<year>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>c. 1524</value>
+</year>
+<wikilink>
+<type>uri</type>
+<value>http://en.wikipedia.org/wiki/Portrait_of_a_Collector?oldid=590285883</value>
+</wikilink>
+</XML_Serializer_Tag>
+<XML_Serializer_Tag>
+<painting>
+<type>uri</type>
+<value>http://dbpedia.org/resource/Portrait_of_Pier_Maria_Rossi_di_San_Secondo</value>
+</painting>
+<thumbnail>
+<type>uri</type>
+<value>http://commons.wikimedia.org/wiki/Special:FilePath/Parmigianino,_ritratto_di_pier_maria_rossi_di_sansecondo_01.jpg?width=300</value>
+</thumbnail>
+<name>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>Portrait of Pier Maria Rossi di San Secondo</value>
+</name>
+<year>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>c. 1535–1539</value>
+</year>
+<wikilink>
+<type>uri</type>
+<value>http://en.wikipedia.org/wiki/Portrait_of_Pier_Maria_Rossi_di_San_Secondo?oldid=590544303</value>
+</wikilink>
+</XML_Serializer_Tag>
+<XML_Serializer_Tag>
+<painting>
+<type>uri</type>
+<value>http://dbpedia.org/resource/Portrait_of_Lorenzo_Cybo</value>
+</painting>
+<thumbnail>
+<type>uri</type>
+<value>http://commons.wikimedia.org/wiki/Special:FilePath/Portræt_af_Lorenzo_Cybo.jpg?width=300</value>
+</thumbnail>
+<name>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>Portrait of Lorenzo Cybo</value>
+</name>
+<year>
+<type>typed-literal</type>
+<datatype>http://www.w3.org/2001/XMLSchema#integer</datatype>
+<value>1524</value>
+</year>
+<wikilink>
+<type>uri</type>
+<value>http://en.wikipedia.org/wiki/Portrait_of_Lorenzo_Cybo?oldid=590435781</value>
+</wikilink>
+</XML_Serializer_Tag>
+<XML_Serializer_Tag>
+<painting>
+<type>uri</type>
+<value>http://dbpedia.org/resource/Circumcision_of_Jesus_(Parmigianino)</value>
+</painting>
+<thumbnail>
+<type>uri</type>
+<value>http://commons.wikimedia.org/wiki/Special:FilePath/Parmigianino,_circoncisione.jpg?width=300</value>
+</thumbnail>
+<name>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>Circumcision of Jesus</value>
+</name>
+<year>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>c. 1523</value>
+</year>
+<wikilink>
+<type>uri</type>
+<value>http://en.wikipedia.org/wiki/Circumcision_of_Jesus_(Parmigianino)?oldid=590364526</value>
+</wikilink>
+</XML_Serializer_Tag>
+<XML_Serializer_Tag>
+<painting>
+<type>uri</type>
+<value>http://dbpedia.org/resource/Antea_(Parmigianino)</value>
+</painting>
+<thumbnail>
+<type>uri</type>
+<value>http://commons.wikimedia.org/wiki/Special:FilePath/Parmigianino_007.jpg?width=300</value>
+</thumbnail>
+<name>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>Antea (Portrait of a Young Woman)</value>
+</name>
+<year>
+<type>typed-literal</type>
+<datatype>http://www.w3.org/2001/XMLSchema#integer</datatype>
+<value>1524</value>
+</year>
+<wikilink>
+<type>uri</type>
+<value>http://en.wikipedia.org/wiki/Antea_(Parmigianino)?oldid=587996354</value>
+</wikilink>
+</XML_Serializer_Tag>
+<XML_Serializer_Tag>
+<painting>
+<type>uri</type>
+<value>http://dbpedia.org/resource/Bardi_Altarpiece</value>
+</painting>
+<thumbnail>
+<type>uri</type>
+<value>http://commons.wikimedia.org/wiki/Special:FilePath/Parmigianino,_pala_di_bardi.jpg?width=300</value>
+</thumbnail>
+<name>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>Bardi Altarpiece</value>
+</name>
+<year>
+<type>typed-literal</type>
+<datatype>http://www.w3.org/2001/XMLSchema#integer</datatype>
+<value>1521</value>
+</year>
+<wikilink>
+<type>uri</type>
+<value>http://en.wikipedia.org/wiki/Bardi_Altarpiece?oldid=586548587</value>
+</wikilink>
+</XML_Serializer_Tag>
+<XML_Serializer_Tag>
+<painting>
+<type>uri</type>
+<value>http://dbpedia.org/resource/Cupid_Making_His_Arch</value>
+</painting>
+<thumbnail>
+<type>uri</type>
+<value>http://commons.wikimedia.org/wiki/Special:FilePath/Parmigianino_-_Cupid_-_WGA17032.jpg?width=300</value>
+</thumbnail>
+<name>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>Cupid Making His Arch</value>
+</name>
+<year>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>c. 1533–1535</value>
+</year>
+<wikilink>
+<type>uri</type>
+<value>http://en.wikipedia.org/wiki/Cupid_Making_His_Arch?oldid=589647396</value>
+</wikilink>
+</XML_Serializer_Tag>
+<XML_Serializer_Tag>
+<painting>
+<type>uri</type>
+<value>http://dbpedia.org/resource/Vision_of_Saint_Jerome</value>
+</painting>
+<thumbnail>
+<type>uri</type>
+<value>http://commons.wikimedia.org/wiki/Special:FilePath/Parmigianino_-_The_Vision_of_St_Jerome_-_WGA17044.jpg?width=300</value>
+</thumbnail>
+<name>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>Vision of Saint Jerome</value>
+</name>
+<year>
+<type>typed-literal</type>
+<datatype>http://www.w3.org/2001/XMLSchema#integer</datatype>
+<value>1526</value>
+</year>
+<wikilink>
+<type>uri</type>
+<value>http://en.wikipedia.org/wiki/Vision_of_Saint_Jerome?oldid=588331851</value>
+</wikilink>
+</XML_Serializer_Tag>
+<XML_Serializer_Tag>
+<painting>
+<type>uri</type>
+<value>http://dbpedia.org/resource/Portrait_of_Camilla_Gonzaga_and_Her_Three_Sons</value>
+</painting>
+<thumbnail>
+<type>uri</type>
+<value>http://commons.wikimedia.org/wiki/Special:FilePath/Parmigianino,_ritratto_di_camilla_gonzaga_coi_figli.jpg?width=300</value>
+</thumbnail>
+<name>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>Portrait of Camilla Gonzaga and Her Three Sons</value>
+</name>
+<year>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>c. 1539–1540</value>
+</year>
+<wikilink>
+<type>uri</type>
+<value>http://en.wikipedia.org/wiki/Portrait_of_Camilla_Gonzaga_and_Her_Three_Sons?oldid=590313324</value>
+</wikilink>
+</XML_Serializer_Tag>
+<XML_Serializer_Tag>
+<painting>
+<type>uri</type>
+<value>http://dbpedia.org/resource/Turkish_Slave</value>
+</painting>
+<thumbnail>
+<type>uri</type>
+<value>http://commons.wikimedia.org/wiki/Special:FilePath/Parmigianino_-_La_schiava_turca.jpg?width=300</value>
+</thumbnail>
+<name>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>Turkish Slave</value>
+</name>
+<year>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>c. 1533</value>
+</year>
+<wikilink>
+<type>uri</type>
+<value>http://en.wikipedia.org/wiki/Turkish_Slave?oldid=590281267</value>
+</wikilink>
+</XML_Serializer_Tag>
+</artworks>
+<dbpResource>http://dbpedia.org/resource/Parmigianino</dbpResource>
+<abstract>Parmigianino (* 11. Januar 1503 in Parma; † 24. August 1540 in Casalmaggiore bei Parma; eigentlich Girolamo Francesco Maria Mazzola) war ein italienischer Maler und Radierer des Manierismus.</abstract>
+<wikilink>http://en.wikipedia.org/wiki/Parmigianino?oldid=602500429</wikilink>
+</Person>

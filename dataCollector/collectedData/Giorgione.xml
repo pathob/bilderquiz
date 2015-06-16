@@ -1,0 +1,389 @@
+<Person>
+<name>Giorgione</name>
+<variantName>
+<XML_Serializer_Tag>Giorgio, da Castelfranco</XML_Serializer_Tag>
+<XML_Serializer_Tag>Giorgio da Castelfranco</XML_Serializer_Tag>
+<XML_Serializer_Tag>Giorgio Barbarelli Giorgione</XML_Serializer_Tag>
+<XML_Serializer_Tag>Dzhordzhone</XML_Serializer_Tag>
+<XML_Serializer_Tag>Zorzo</XML_Serializer_Tag>
+<XML_Serializer_Tag>Giorgio Barbarelli</XML_Serializer_Tag>
+<XML_Serializer_Tag>Giorgione Castel Franco</XML_Serializer_Tag>
+<XML_Serializer_Tag>Georgius, da Castel Franco</XML_Serializer_Tag>
+<XML_Serializer_Tag>Georgius da Castel Franco</XML_Serializer_Tag>
+<XML_Serializer_Tag>Giorgione CastelFranco</XML_Serializer_Tag>
+<XML_Serializer_Tag>Giorgione, da Castelfranco</XML_Serializer_Tag>
+<XML_Serializer_Tag>Giorgio da Castelfranco</XML_Serializer_Tag>
+</variantName>
+<thumbnail>https://commons.wikimedia.org/wiki/Special:FilePath/Giorgione.jpg?width=270</thumbnail>
+<birthEN>1478</birthEN>
+<birthDE>1478</birthDE>
+<deathEN>1510</deathEN>
+<deathDE>1510</deathDE>
+<birthPlace />
+<deathPlace />
+<professionOrOccupation>
+<XML_Serializer_Tag>Künstler</XML_Serializer_Tag>
+<XML_Serializer_Tag>Maler</XML_Serializer_Tag>
+</professionOrOccupation>
+<artworks>
+<XML_Serializer_Tag>
+<painting>
+<type>uri</type>
+<value>http://dbpedia.org/resource/Sleeping_Venus_(Giorgione)</value>
+</painting>
+<thumbnail>
+<type>uri</type>
+<value>http://en.wikipedia.org/wiki/Special:FilePath/Giorgione_-_Sleeping_Venus_-_Google_Art_Project_2.jpg?width=300</value>
+</thumbnail>
+<name>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>Sleeping Venus</value>
+</name>
+<year>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>c. 1510</value>
+</year>
+<abstract>
+<type>literal</type>
+<xml:lang>de</xml:lang>
+<value>Das berühmte Bild Schlummernde Venus befindet sich in der Gemäldegalerie Alte Meister. Es gilt als Hauptwerk der italienischen Renaissance-Malers Giorgione und ist ohne Vorbild. Zum ersten Male wurde eine nackte Venus in dieser Bildgröße dargestellt und damit ein Vorbild für viele spätere Darstellungen liegender nackter Frauen geschaffen.</value>
+</abstract>
+<wikilink>
+<type>uri</type>
+<value>http://en.wikipedia.org/wiki/Sleeping_Venus_(Giorgione)?oldid=590866570</value>
+</wikilink>
+</XML_Serializer_Tag>
+<XML_Serializer_Tag>
+<painting>
+<type>uri</type>
+<value>http://dbpedia.org/resource/Castelfranco_Madonna</value>
+</painting>
+<thumbnail>
+<type>uri</type>
+<value>http://commons.wikimedia.org/wiki/Special:FilePath/Giorgione_001.jpg?width=300</value>
+</thumbnail>
+<name>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>Madonna and Child Between St. Francis and St. Nicasius</value>
+</name>
+<year>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>c. 1503/04</value>
+</year>
+<abstract>
+<type>literal</type>
+<xml:lang>de</xml:lang>
+<value>Die Madonna mit Kind zwischen hl. Franziskus und Nicasius, auch bekannt als Castelfranco Madonna, ist ein Gemälde der Italienischen Renaissance, eines der wenigen Werke des Giorgione aus dem Jahr 1503, der bereits mit 32 Jahren an den Folgen der Pest starb. Es befindet sich im Dom von Castelfranco, Giorgiones Geburtsstadt, in Venetien, Norditalien.</value>
+</abstract>
+<wikilink>
+<type>uri</type>
+<value>http://en.wikipedia.org/wiki/Castelfranco_Madonna?oldid=593531084</value>
+</wikilink>
+</XML_Serializer_Tag>
+<XML_Serializer_Tag>
+<painting>
+<type>uri</type>
+<value>http://dbpedia.org/resource/The_Three_Philosophers</value>
+</painting>
+<thumbnail>
+<type>uri</type>
+<value>http://commons.wikimedia.org/wiki/Special:FilePath/Giorgione_-_Three_Philosophers_-_Google_Art_Project.jpg?width=300</value>
+</thumbnail>
+<name>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>The Three Philosophers</value>
+</name>
+<year>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>c. 1505–1509</value>
+</year>
+<abstract>
+<type>literal</type>
+<xml:lang>de</xml:lang>
+<value>Die drei Philosophen ist ein um 1505 vollendetes Ölgemälde des italienischen Renaissancemalers Giorgione, das im Auftrag des venezianischen Adligen Taddeo Contarini ausgeführt wurde.Der gegenwärtige Name des Werkes rührt aus einer Schrift Marcantonio Michiels her, der es in einer venezianischen Villa sah. Die drei Figuren weisen deutliche allegorische Züge auf: einen bärtigen Alten, einen Araber sowie einen sitzenden jugendlichen Mann in einer Naturlandschaft. Im Hintergrund ist ein Dorf inmitten von Bergen zu sehen, ganz hinten ein blaues Objekt mit unbekannter Bedeutung. Der junge Mann betrachtet eine Höhle am linken Bildrand und vermisst diese offenbar mit einem Gerät.Die Gelehrtenwelt deutet das Werk unterschiedlich. Nach verbreiteter Interpretation repräsentieren die drei Männer nicht die Weisen aus dem Morgenland vor der Geburtsgrotte Jesu, sondern die drei Stadien des menschlichen Geisteslebens: der Renaissance (der junge Mann), Arabiens (der Mann mit Turban) sowie des Mittelalters (der Alte). Andere sehen statt einer Allegorie die drei Altersstufen des Menschen. Wieder andere vermuten in Bezug auf das gelehrte Engagement Contarinis astrologische und alchemistische Andeutungen.Eine andere Interpretation sieht, von rechts nach links, den alten Pythagoras, Averroes und auf der höchsten Stufe einen jungen Leonardo da Vinci.</value>
+</abstract>
+<wikilink>
+<type>uri</type>
+<value>http://en.wikipedia.org/wiki/The_Three_Philosophers?oldid=604072487</value>
+</wikilink>
+</XML_Serializer_Tag>
+<XML_Serializer_Tag>
+<painting>
+<type>uri</type>
+<value>http://dbpedia.org/resource/The_Tempest_(Giorgione)</value>
+</painting>
+<thumbnail>
+<type>uri</type>
+<value>http://commons.wikimedia.org/wiki/Special:FilePath/Giorgione_019.jpg?width=300</value>
+</thumbnail>
+<name>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>The Tempest</value>
+</name>
+<year>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>c. 1508</value>
+</year>
+<abstract>
+<type>literal</type>
+<xml:lang>de</xml:lang>
+<value>Das Gewitter (italienisch La tempesta) ist ein Gemälde des venezianischen Malers Giorgione. Es ist entstanden um 1508 und befindet sich in der Accademia in Venedig.Das Bild Giorgiones gilt als eines der ungelösten Rätsel der europäischen Kunstgeschichte. Es ist auf unterschiedliche Weise interpretiert worden, hat aber bisher keine gültige und in allen Aspekten befriedigende Deutung erfahren. Vielleicht hatte Giorgione auch niemals die Absicht, eine in sich geschlossene eindeutige Bildgeschichte zu erzählen. Die Rätselhaftigkeit des Bildes dürfte eine Ursache der ungebrochenen Faszination sein, die es seit Jahrhunderten immer wieder neu auf den Betrachter ausübt.</value>
+</abstract>
+<wikilink>
+<type>uri</type>
+<value>http://en.wikipedia.org/wiki/The_Tempest_(Giorgione)?oldid=600078564</value>
+</wikilink>
+</XML_Serializer_Tag>
+<XML_Serializer_Tag>
+<painting>
+<type>uri</type>
+<value>http://dbpedia.org/resource/Self-portrait_(Giorgione)</value>
+</painting>
+<thumbnail>
+<type>uri</type>
+<value>http://commons.wikimedia.org/wiki/Special:FilePath/Autoritratto_(Giorgione).jpg?width=300</value>
+</thumbnail>
+<name>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>Self-portrait</value>
+</name>
+<year>
+<type>typed-literal</type>
+<datatype>http://www.w3.org/2001/XMLSchema#integer</datatype>
+<value>1510</value>
+</year>
+<wikilink>
+<type>uri</type>
+<value>http://en.wikipedia.org/wiki/Self-portrait_(Giorgione)?oldid=590857856</value>
+</wikilink>
+</XML_Serializer_Tag>
+<XML_Serializer_Tag>
+<painting>
+<type>uri</type>
+<value>http://dbpedia.org/resource/Adoration_of_the_Shepherds_(Giorgione)</value>
+</painting>
+<thumbnail>
+<type>uri</type>
+<value>http://commons.wikimedia.org/wiki/Special:FilePath/Giorgione_014.jpg?width=300</value>
+</thumbnail>
+<name>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>Adoration of the Shepherds</value>
+</name>
+<year>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>ca. 1505 to 1510</value>
+</year>
+<wikilink>
+<type>uri</type>
+<value>http://en.wikipedia.org/wiki/Adoration_of_the_Shepherds_(Giorgione)?oldid=590498985</value>
+</wikilink>
+</XML_Serializer_Tag>
+<XML_Serializer_Tag>
+<painting>
+<type>uri</type>
+<value>http://dbpedia.org/resource/Christ_Carrying_the_Cross_(Titian)</value>
+</painting>
+<thumbnail>
+<type>uri</type>
+<value>http://commons.wikimedia.org/wiki/Special:FilePath/Tiziano_o_giorgione,_cristo_portacroce.jpg?width=300</value>
+</thumbnail>
+<name>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>Christ Carrying the Cross</value>
+</name>
+<year>
+<type>typed-literal</type>
+<datatype>http://www.w3.org/2001/XMLSchema#integer</datatype>
+<value>1505</value>
+</year>
+<wikilink>
+<type>uri</type>
+<value>http://en.wikipedia.org/wiki/Christ_Carrying_the_Cross_(Titian)?oldid=591196625</value>
+</wikilink>
+</XML_Serializer_Tag>
+<XML_Serializer_Tag>
+<painting>
+<type>uri</type>
+<value>http://dbpedia.org/resource/Shepherd_with_a_Flute</value>
+</painting>
+<thumbnail>
+<type>uri</type>
+<value>http://commons.wikimedia.org/wiki/Special:FilePath/Giorgione_-_Berger_à_la_flûte.jpg?width=300</value>
+</thumbnail>
+<name>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>Shepherd with a Flute</value>
+</name>
+<year>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>c 1508</value>
+</year>
+<wikilink>
+<type>uri</type>
+<value>http://en.wikipedia.org/wiki/Shepherd_with_a_Flute?oldid=546215816</value>
+</wikilink>
+</XML_Serializer_Tag>
+<XML_Serializer_Tag>
+<painting>
+<type>uri</type>
+<value>http://dbpedia.org/resource/Laura_(Giorgione)</value>
+</painting>
+<thumbnail>
+<type>uri</type>
+<value>http://commons.wikimedia.org/wiki/Special:FilePath/Giorgione_-_Young_Woman_(“Laura”)_-_Google_Art_Project.jpg?width=300</value>
+</thumbnail>
+<name>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>Portrait of a Young Bride (Laura)</value>
+</name>
+<year>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>c. 1506</value>
+</year>
+<wikilink>
+<type>uri</type>
+<value>http://en.wikipedia.org/wiki/Laura_(Giorgione)?oldid=588073098</value>
+</wikilink>
+</XML_Serializer_Tag>
+<XML_Serializer_Tag>
+<painting>
+<type>uri</type>
+<value>http://dbpedia.org/resource/Judith_(Giorgione)</value>
+</painting>
+<thumbnail>
+<type>uri</type>
+<value>http://commons.wikimedia.org/wiki/Special:FilePath/Giorgione_038.jpg?width=300</value>
+</thumbnail>
+<name>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>Judith</value>
+</name>
+<year>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>circa 1504</value>
+</year>
+<wikilink>
+<type>uri</type>
+<value>http://en.wikipedia.org/wiki/Judith_(Giorgione)?oldid=586387942</value>
+</wikilink>
+</XML_Serializer_Tag>
+<XML_Serializer_Tag>
+<painting>
+<type>uri</type>
+<value>http://dbpedia.org/resource/The_Judgement_of_Salomon_(Giorgione)</value>
+</painting>
+<thumbnail>
+<type>uri</type>
+<value>http://commons.wikimedia.org/wiki/Special:FilePath/Giorgione,_giudizio_di_salomone.jpg?width=300</value>
+</thumbnail>
+<name>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>The Judgment of Solomon</value>
+</name>
+<year>
+<type>typed-literal</type>
+<datatype>http://www.w3.org/2001/XMLSchema#integer</datatype>
+<value>1500</value>
+</year>
+<wikilink>
+<type>uri</type>
+<value>http://en.wikipedia.org/wiki/The_Judgement_of_Salomon_(Giorgione)?oldid=586387638</value>
+</wikilink>
+</XML_Serializer_Tag>
+<XML_Serializer_Tag>
+<painting>
+<type>uri</type>
+<value>http://dbpedia.org/resource/The_Three_Ages_of_Man_(Giorgione)</value>
+</painting>
+<thumbnail>
+<type>uri</type>
+<value>http://commons.wikimedia.org/wiki/Special:FilePath/Giorgione,_Three_Ages.jpg?width=300</value>
+</thumbnail>
+<name>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>The Three Ages of Man</value>
+</name>
+<year>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>c. 1500-1501</value>
+</year>
+<wikilink>
+<type>uri</type>
+<value>http://en.wikipedia.org/wiki/The_Three_Ages_of_Man_(Giorgione)?oldid=555043825</value>
+</wikilink>
+</XML_Serializer_Tag>
+<XML_Serializer_Tag>
+<painting>
+<type>uri</type>
+<value>http://dbpedia.org/resource/The_Test_of_Fire_of_Moses_(Giorgione)</value>
+</painting>
+<thumbnail>
+<type>uri</type>
+<value>http://commons.wikimedia.org/wiki/Special:FilePath/Giorgione_025.jpg?width=300</value>
+</thumbnail>
+<name>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>The Test of Fire of Moses</value>
+</name>
+<year>
+<type>typed-literal</type>
+<datatype>http://www.w3.org/2001/XMLSchema#integer</datatype>
+<value>1500</value>
+</year>
+<wikilink>
+<type>uri</type>
+<value>http://en.wikipedia.org/wiki/The_Test_of_Fire_of_Moses_(Giorgione)?oldid=588333702</value>
+</wikilink>
+</XML_Serializer_Tag>
+<XML_Serializer_Tag>
+<painting>
+<type>uri</type>
+<value>http://dbpedia.org/resource/Pastoral_Concert</value>
+</painting>
+<thumbnail>
+<type>uri</type>
+<value>http://commons.wikimedia.org/wiki/Special:FilePath/Fiesta_campestre.jpg?width=300</value>
+</thumbnail>
+<name>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>Pastoral Concert</value>
+</name>
+<year>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>c. 1509</value>
+</year>
+<wikilink>
+<type>uri</type>
+<value>http://en.wikipedia.org/wiki/Pastoral_Concert?oldid=572370079</value>
+</wikilink>
+</XML_Serializer_Tag>
+</artworks>
+<dbpResource>http://dbpedia.org/resource/Giorgione</dbpResource>
+<abstract>Giorgione (* 1478 in Castelfranco Veneto; † vor dem 25. Oktober 1510 in Venedig; vollständiger Name Giorgio da Castelfranco, auch Zorzo da Castelfranco) war ein italienischer Maler der Renaissance</abstract>
+<wikilink>http://en.wikipedia.org/wiki/Giorgione?oldid=606808170</wikilink>
+</Person>

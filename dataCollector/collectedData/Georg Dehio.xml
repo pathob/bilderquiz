@@ -1,0 +1,32 @@
+<Person>
+<name>Georg Dehio</name>
+<variantName>
+<XML_Serializer_Tag>Georg Gottfried Dehio</XML_Serializer_Tag>
+<XML_Serializer_Tag>Georg Gottfried Julius Dehio</XML_Serializer_Tag>
+<XML_Serializer_Tag>G. G. Dehio</XML_Serializer_Tag>
+<XML_Serializer_Tag>G. Dehio</XML_Serializer_Tag>
+<XML_Serializer_Tag>... Dehio</XML_Serializer_Tag>
+</variantName>
+<thumbnail>https://commons.wikimedia.org/wiki/Special:FilePath/Dehioplaque.JPG?width=270</thumbnail>
+<birthEN>November 22, 1850</birthEN>
+<birthDE>22. November 1850</birthDE>
+<deathEN>March 19, 1932</deathEN>
+<deathDE>19. März 1932</deathDE>
+<birthPlace>
+<XML_Serializer_Tag>Reval</XML_Serializer_Tag>
+</birthPlace>
+<deathPlace>
+<XML_Serializer_Tag>Tübingen</XML_Serializer_Tag>
+</deathPlace>
+<professionOrOccupation>
+<XML_Serializer_Tag>Kunsthistoriker</XML_Serializer_Tag>
+<XML_Serializer_Tag>Hochschullehrer</XML_Serializer_Tag>
+<XML_Serializer_Tag>Historiker</XML_Serializer_Tag>
+<XML_Serializer_Tag>Maler</XML_Serializer_Tag>
+<XML_Serializer_Tag>Zeichner</XML_Serializer_Tag>
+</professionOrOccupation>
+<artworks />
+<dbpResource>http://dbpedia.org/resource/Georg_Dehio</dbpResource>
+<abstract>Georg Dehio (* 10. Novemberjul./ 22. November 1850greg. in Reval; † 19. März 1932 in Tübingen) war ein deutscher Kunsthistoriker. Er gilt als prägend für die Wahrnehmung der Kunst und als höchst einflussreich auf die Konzeptionen der modernen Denkmalpflege.</abstract>
+<wikilink>http://en.wikipedia.org/wiki/Georg_Dehio?oldid=565236539</wikilink>
+</Person>

@@ -1,0 +1,25 @@
+<Person>
+<name>Alfred Manessier</name>
+<variantName />
+<thumbnail>https://commons.wikimedia.org/wiki/Special:FilePath/Alfred_Manessier.1971.jpg?width=270</thumbnail>
+<birthEN>December 5, 1911</birthEN>
+<birthDE>5. Dezember 1911</birthDE>
+<deathEN>August 1, 1993</deathEN>
+<deathDE>1. August 1993</deathDE>
+<birthPlace>
+<XML_Serializer_Tag>Saint-Ouen</XML_Serializer_Tag>
+</birthPlace>
+<deathPlace>
+<XML_Serializer_Tag>Orléans</XML_Serializer_Tag>
+</deathPlace>
+<professionOrOccupation>
+<XML_Serializer_Tag>Künstler</XML_Serializer_Tag>
+<XML_Serializer_Tag>Maler</XML_Serializer_Tag>
+<XML_Serializer_Tag>Glasmaler</XML_Serializer_Tag>
+<XML_Serializer_Tag>Zeichner</XML_Serializer_Tag>
+</professionOrOccupation>
+<artworks />
+<dbpResource>http://dbpedia.org/resource/Alfred_Manessier</dbpResource>
+<abstract>Alfred Manessier (* 5. Dezember 1911 in Saint-Ouen an der Somme; † 1. August 1993 in Orléans) war ein französischer Maler.</abstract>
+<wikilink>http://en.wikipedia.org/wiki/Alfred_Manessier?oldid=594186305</wikilink>
+</Person>

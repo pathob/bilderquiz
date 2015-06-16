@@ -1,0 +1,31 @@
+<Person>
+<name>Giovanni Battista Gaulli</name>
+<variantName>
+<XML_Serializer_Tag>Giovan Battista Gaulli</XML_Serializer_Tag>
+<XML_Serializer_Tag>Giovanni B. Gaulli</XML_Serializer_Tag>
+<XML_Serializer_Tag>Il Baciccio</XML_Serializer_Tag>
+<XML_Serializer_Tag>Il Baciccia</XML_Serializer_Tag>
+<XML_Serializer_Tag>Il Bacciccia</XML_Serializer_Tag>
+<XML_Serializer_Tag>Il Bacciccio</XML_Serializer_Tag>
+<XML_Serializer_Tag>Battista Gauli</XML_Serializer_Tag>
+<XML_Serializer_Tag>Baciccio</XML_Serializer_Tag>
+</variantName>
+<thumbnail>https://commons.wikimedia.org/wiki/Special:FilePath/IlGesu_Ceiling01.jpg?width=270</thumbnail>
+<birthEN>1639</birthEN>
+<birthDE>1639</birthDE>
+<deathEN>1709</deathEN>
+<deathDE>1709</deathDE>
+<birthPlace>
+<XML_Serializer_Tag>Genua</XML_Serializer_Tag>
+</birthPlace>
+<deathPlace>
+<XML_Serializer_Tag>Rom</XML_Serializer_Tag>
+</deathPlace>
+<professionOrOccupation>
+<XML_Serializer_Tag>Maler</XML_Serializer_Tag>
+</professionOrOccupation>
+<artworks />
+<dbpResource>http://dbpedia.org/resource/Giovanni_Battista_Gaulli</dbpResource>
+<abstract>Giovanni Battista Gaulli (* 8. Mai 1639 in Genua; † 2. April 1709 in Rom), auch genannt Baciccio, Il Baciccio oder Baciccia, war ein italienischer Maler des Barock. Er ist besonders als Freskant und Porträtmaler bekannt und wirkte vor allem in Rom.</abstract>
+<wikilink>http://en.wikipedia.org/wiki/Giovanni_Battista_Gaulli?oldid=606660713</wikilink>
+</Person>

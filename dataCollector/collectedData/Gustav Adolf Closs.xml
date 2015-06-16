@@ -1,0 +1,27 @@
+<Person>
+<name>Gustav Adolf Closs</name>
+<variantName>
+<XML_Serializer_Tag>Gustav Adolf Karl Closs</XML_Serializer_Tag>
+<XML_Serializer_Tag>Gustav Adolf Carl Closs</XML_Serializer_Tag>
+<XML_Serializer_Tag>G. Adolf Closs</XML_Serializer_Tag>
+<XML_Serializer_Tag>G. A. Closs</XML_Serializer_Tag>
+</variantName>
+<thumbnail>https://commons.wikimedia.org/wiki/Special:FilePath/Ausritt_zur_Falkenjagd.jpg?width=270</thumbnail>
+<birthEN>May 6, 1864</birthEN>
+<birthDE>6. Mai 1864</birthDE>
+<deathEN>September 3, 1938</deathEN>
+<deathDE>3. September 1938</deathDE>
+<birthPlace>
+<XML_Serializer_Tag>Stuttgart</XML_Serializer_Tag>
+</birthPlace>
+<deathPlace>
+<XML_Serializer_Tag>Berlin</XML_Serializer_Tag>
+</deathPlace>
+<professionOrOccupation>
+<XML_Serializer_Tag>Maler</XML_Serializer_Tag>
+</professionOrOccupation>
+<artworks />
+<dbpResource>http://dbpedia.org/resource/Gustav_Adolf_Closs</dbpResource>
+<abstract>Gustav Adolf Carl Closs (* 6. Mai 1864 in Stuttgart; † 3. September 1938 in Berlin-Wilmersdorf) war ein deutscher Maler, Illustrator und Heraldiker.</abstract>
+<wikilink>http://en.wikipedia.org/wiki/Gustav_Adolf_Closs?oldid=582036213</wikilink>
+</Person>

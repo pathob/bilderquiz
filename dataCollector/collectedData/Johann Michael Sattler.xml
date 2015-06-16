@@ -1,0 +1,22 @@
+<Person>
+<name>Johann Michael Sattler</name>
+<variantName>
+<XML_Serializer_Tag>Johann Michael Satler</XML_Serializer_Tag>
+<XML_Serializer_Tag>J. M. Sattler</XML_Serializer_Tag>
+</variantName>
+<thumbnail>https://commons.wikimedia.org/wiki/Special:FilePath/Sattler_panorama_stadt_gross.jpg?width=270</thumbnail>
+<birthEN>September 28, 1786</birthEN>
+<birthDE>28. September 1786</birthDE>
+<deathEN>September 28, 1847</deathEN>
+<deathDE>28. September 1847</deathDE>
+<birthPlace />
+<deathPlace />
+<professionOrOccupation>
+<XML_Serializer_Tag>Künstler</XML_Serializer_Tag>
+<XML_Serializer_Tag>Maler</XML_Serializer_Tag>
+</professionOrOccupation>
+<artworks />
+<dbpResource>http://dbpedia.org/resource/Johann_Michael_Sattler</dbpResource>
+<abstract>Johann Michael Sattler (* 28. September 1786 in Neuberg bei Herzogenburg, Niederösterreich; † 28. September 1847 in Mattsee, Land Salzburg) war ein österreichischer Porträt- und Landschaftsmaler des 19. Jahrhunderts und Schöpfer des weltbekannten Sattler-Panoramas.</abstract>
+<wikilink>http://en.wikipedia.org/wiki/Johann_Michael_Sattler?oldid=571321605</wikilink>
+</Person>

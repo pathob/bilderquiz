@@ -1,0 +1,36 @@
+<Person>
+<name>Heinrich Vogtherr</name>
+<variantName>
+<XML_Serializer_Tag>, der Ältere</XML_Serializer_Tag>
+<XML_Serializer_Tag>, l&apos;Ancien</XML_Serializer_Tag>
+<XML_Serializer_Tag>Heinrich Vogther</XML_Serializer_Tag>
+<XML_Serializer_Tag>Heinrich Vogtherren</XML_Serializer_Tag>
+<XML_Serializer_Tag>Heinrich Vogteherr</XML_Serializer_Tag>
+<XML_Serializer_Tag>Heinrich Vogter</XML_Serializer_Tag>
+<XML_Serializer_Tag>Heinrich Vocktherr</XML_Serializer_Tag>
+<XML_Serializer_Tag>Heinrich Vockter</XML_Serializer_Tag>
+<XML_Serializer_Tag>H. V. E.</XML_Serializer_Tag>
+<XML_Serializer_Tag>HVE</XML_Serializer_Tag>
+<XML_Serializer_Tag>Satrapitanus</XML_Serializer_Tag>
+<XML_Serializer_Tag>Haynricus Satrapitanus</XML_Serializer_Tag>
+<XML_Serializer_Tag>Henricus Satrapitanus</XML_Serializer_Tag>
+<XML_Serializer_Tag>Heinrich Satrapitanus</XML_Serializer_Tag>
+</variantName>
+<thumbnail>https://commons.wikimedia.org/wiki/Special:FilePath/Heinrich-Vogtherr-der-Aeltere.gif?width=270</thumbnail>
+<birthEN>1490</birthEN>
+<birthDE>1490</birthDE>
+<deathEN>1556</deathEN>
+<deathDE>1556</deathDE>
+<birthPlace />
+<deathPlace />
+<professionOrOccupation>
+<XML_Serializer_Tag>Maler</XML_Serializer_Tag>
+<XML_Serializer_Tag>Zeichner</XML_Serializer_Tag>
+<XML_Serializer_Tag>Schriftsteller</XML_Serializer_Tag>
+<XML_Serializer_Tag>Arzt</XML_Serializer_Tag>
+</professionOrOccupation>
+<artworks />
+<dbpResource>http://dbpedia.org/resource/Heinrich_Vogtherr</dbpResource>
+<abstract>Heinrich Vogtherr (der Ältere) (* 1490 in Dillingen an der Donau; † 1556 in Wien) war ein Künstler der Reformationszeit. Er war Maler, Zeichner, Holzschneider, Radierer, Buchdrucker, Verleger, Verfasser von Flugschriften, Dichter geistlicher Lieder, Autor medizinischer Schriften und Augenarzt.</abstract>
+<wikilink>http://en.wikipedia.org/wiki/Heinrich_Vogtherr?oldid=602031617</wikilink>
+</Person>

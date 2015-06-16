@@ -1,0 +1,28 @@
+<Person>
+<name>Gaspard Dughet</name>
+<variantName>
+<XML_Serializer_Tag>Gaspard Poussin</XML_Serializer_Tag>
+<XML_Serializer_Tag>G. Poussin</XML_Serializer_Tag>
+<XML_Serializer_Tag>Le Guaspre</XML_Serializer_Tag>
+<XML_Serializer_Tag>Gaspard Le Poussin</XML_Serializer_Tag>
+<XML_Serializer_Tag>Le Guaspre</XML_Serializer_Tag>
+<XML_Serializer_Tag>Le Guaspre</XML_Serializer_Tag>
+<XML_Serializer_Tag>Gaspare Possino</XML_Serializer_Tag>
+<XML_Serializer_Tag>LeGuaspre</XML_Serializer_Tag>
+<XML_Serializer_Tag>Gasparo Dughet</XML_Serializer_Tag>
+</variantName>
+<thumbnail>https://commons.wikimedia.org/wiki/Special:FilePath/Gaspard_Dughet_001.jpg?width=270</thumbnail>
+<birthEN>1615</birthEN>
+<birthDE>1615</birthDE>
+<deathEN>1675</deathEN>
+<deathDE>1675</deathDE>
+<birthPlace />
+<deathPlace />
+<professionOrOccupation>
+<XML_Serializer_Tag>Maler</XML_Serializer_Tag>
+</professionOrOccupation>
+<artworks />
+<dbpResource>http://dbpedia.org/resource/Gaspard_Dughet</dbpResource>
+<abstract>Gaspard Poussin [pu&apos;sɛ̃] (* 1613 in Rom; † 25. Mai 1675 ebenda; eigentlich Gaspard Dughet) war ein italienischer Landschaftsmaler.</abstract>
+<wikilink>http://en.wikipedia.org/wiki/Gaspard_Dughet?oldid=601484393</wikilink>
+</Person>

@@ -1,0 +1,24 @@
+<Person>
+<name>Christopher Rave</name>
+<variantName />
+<thumbnail>https://commons.wikimedia.org/wiki/Special:FilePath/SMSSeeadlerFront.PNG?width=270</thumbnail>
+<birthEN>February 20, 1881</birthEN>
+<birthDE>20. Februar 1881</birthDE>
+<deathEN>January 13, 1993</deathEN>
+<deathDE>13. Januar 1993</deathDE>
+<birthPlace>
+<XML_Serializer_Tag>Hamburg</XML_Serializer_Tag>
+</birthPlace>
+<deathPlace>
+<XML_Serializer_Tag>Hamburg</XML_Serializer_Tag>
+</deathPlace>
+<professionOrOccupation>
+<XML_Serializer_Tag>Maler</XML_Serializer_Tag>
+<XML_Serializer_Tag>Polarforscher</XML_Serializer_Tag>
+<XML_Serializer_Tag>Naturwissenschaftler</XML_Serializer_Tag>
+</professionOrOccupation>
+<artworks />
+<dbpResource>http://dbpedia.org/resource/Christopher_Rave</dbpResource>
+<abstract>Christopher Rave (* 20. Februar 1881 in Hamburg; † 13. Januar 1933 ebenda) war ein deutscher Maler und Polarforscher sowie Professor.</abstract>
+<wikilink>http://en.wikipedia.org/wiki/Christopher_Rave?oldid=590337940</wikilink>
+</Person>

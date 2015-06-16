@@ -1,0 +1,24 @@
+<Person>
+<name>Gottfried Helnwein</name>
+<variantName>
+<XML_Serializer_Tag>... Helnwein</XML_Serializer_Tag>
+</variantName>
+<thumbnail>https://commons.wikimedia.org/wiki/Special:FilePath/Atelier_gh.jpg?width=270</thumbnail>
+<birthEN>1948</birthEN>
+<birthDE>1948</birthDE>
+<deathEN />
+<deathDE />
+<birthPlace>
+<XML_Serializer_Tag>Wien</XML_Serializer_Tag>
+</birthPlace>
+<deathPlace />
+<professionOrOccupation>
+<XML_Serializer_Tag>Maler</XML_Serializer_Tag>
+<XML_Serializer_Tag>Photograph</XML_Serializer_Tag>
+<XML_Serializer_Tag>Künstler</XML_Serializer_Tag>
+</professionOrOccupation>
+<artworks />
+<dbpResource>http://dbpedia.org/resource/Gottfried_Helnwein</dbpResource>
+<abstract>Gottfried Helnwein (* 8. Oktober 1948 in Wien) ist ein österreichisch-irischer Künstler.Helnwein zählt zu den bekanntesten, aber auch umstrittensten deutschsprachigen Künstlern nach dem Zweiten Weltkrieg. Bekannt wurde er vor allem durch seine hyperrealistischen Bilder von verwundeten und bandagierten Kindern. In seinem gesamten Schaffen setzt er sich mit den Themen Schmerz, Verletzung und Gewalt auseinander, und berührt dabei auch Tabu- und Reizthemen der jüngeren Geschichte. So wird insbesondere auch das Thema Nationalsozialismus in seinen Werken verarbeitet; im Zentrum seiner Arbeit steht aber vor allem die Darstellung des Kindes.</abstract>
+<wikilink>http://en.wikipedia.org/wiki/Gottfried_Helnwein?oldid=602322464</wikilink>
+</Person>

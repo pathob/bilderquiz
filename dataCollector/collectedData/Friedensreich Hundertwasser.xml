@@ -1,0 +1,35 @@
+<Person>
+<name>Friedensreich Hundertwasser</name>
+<variantName>
+<XML_Serializer_Tag>Friedrich Hundertwasser</XML_Serializer_Tag>
+<XML_Serializer_Tag>Friedereich Hundertwasser</XML_Serializer_Tag>
+<XML_Serializer_Tag>... Hundertwasser</XML_Serializer_Tag>
+<XML_Serializer_Tag>Hundertwasser</XML_Serializer_Tag>
+<XML_Serializer_Tag>Fritz Hundertwasser</XML_Serializer_Tag>
+<XML_Serializer_Tag>Friedensreich Hundertwasser Regentag</XML_Serializer_Tag>
+<XML_Serializer_Tag>Regentag</XML_Serializer_Tag>
+<XML_Serializer_Tag>Dunkelbunt</XML_Serializer_Tag>
+<XML_Serializer_Tag>Friedrich Stowasser</XML_Serializer_Tag>
+</variantName>
+<thumbnail>https://commons.wikimedia.org/wiki/Special:FilePath/Hundertwasser_nz_1998_hg.jpg?width=270</thumbnail>
+<birthEN>December 15, 1928</birthEN>
+<birthDE>15. Dezember 1928</birthDE>
+<deathEN>February 19, 2000</deathEN>
+<deathDE>19. Februar 2000</deathDE>
+<birthPlace>
+<XML_Serializer_Tag>Wien</XML_Serializer_Tag>
+</birthPlace>
+<deathPlace>
+<XML_Serializer_Tag>Pazifischer Ozean</XML_Serializer_Tag>
+</deathPlace>
+<professionOrOccupation>
+<XML_Serializer_Tag>Maler</XML_Serializer_Tag>
+<XML_Serializer_Tag>Graphiker</XML_Serializer_Tag>
+<XML_Serializer_Tag>Künstler</XML_Serializer_Tag>
+<XML_Serializer_Tag>Architekt</XML_Serializer_Tag>
+</professionOrOccupation>
+<artworks />
+<dbpResource>http://dbpedia.org/resource/Friedensreich_Hundertwasser</dbpResource>
+<abstract>Friedensreich Hundertwasser (* 15. Dezember 1928 in Wien; † 19. Februar 2000 an Bord der Queen Elizabeth 2 bei Neuseeland), bürgerlich Friedrich Stowasser, auch Friedensreich Regentag Dunkelbunt Hundertwasser, war ein österreichischer Künstler, der vorrangig als Maler, aber auch in den Bereichen Architektur und Umweltschutz tätig war.</abstract>
+<wikilink>http://en.wikipedia.org/wiki/Friedensreich_Hundertwasser?oldid=606105396</wikilink>
+</Person>

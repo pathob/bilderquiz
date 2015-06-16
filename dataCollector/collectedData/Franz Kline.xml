@@ -1,0 +1,21 @@
+<Person>
+<name>Franz Kline</name>
+<variantName>
+<XML_Serializer_Tag>Franz Josef Kline</XML_Serializer_Tag>
+<XML_Serializer_Tag>Franz J. Kline</XML_Serializer_Tag>
+</variantName>
+<thumbnail>https://en.wikipedia.org/wiki/Special:FilePath/Kline_no2.jpg?width=270</thumbnail>
+<birthEN>1910</birthEN>
+<birthDE>1910</birthDE>
+<deathEN>1962</deathEN>
+<deathDE>1962</deathDE>
+<birthPlace />
+<deathPlace />
+<professionOrOccupation>
+<XML_Serializer_Tag>Maler</XML_Serializer_Tag>
+</professionOrOccupation>
+<artworks />
+<dbpResource>http://dbpedia.org/resource/Franz_Kline</dbpResource>
+<abstract>Franz Kline (* 23. Mai 1910 in Wilkes-Barre, Pennsylvania; † 13. Mai 1962 in New York) war ein US-amerikanischer Maler.</abstract>
+<wikilink>http://en.wikipedia.org/wiki/Franz_Kline?oldid=596737767</wikilink>
+</Person>

@@ -1,0 +1,23 @@
+<Person>
+<name>Bernard Buffet</name>
+<variantName />
+<thumbnail>https://commons.wikimedia.org/wiki/Special:FilePath/Bernard_buffetDCP_2415.JPG?width=270</thumbnail>
+<birthEN>1928</birthEN>
+<birthDE>1928</birthDE>
+<deathEN>1999</deathEN>
+<deathDE>1999</deathDE>
+<birthPlace>
+<XML_Serializer_Tag>Paris</XML_Serializer_Tag>
+</birthPlace>
+<deathPlace />
+<professionOrOccupation>
+<XML_Serializer_Tag>Künstler</XML_Serializer_Tag>
+<XML_Serializer_Tag>Maler</XML_Serializer_Tag>
+<XML_Serializer_Tag>Graphiker</XML_Serializer_Tag>
+<XML_Serializer_Tag>Bildhauer</XML_Serializer_Tag>
+</professionOrOccupation>
+<artworks />
+<dbpResource>http://dbpedia.org/resource/Bernard_Buffet</dbpResource>
+<abstract>Bernard Buffet (* 10. Juli 1928 in Paris; † 4. Oktober 1999 in Tourtour, Provence-Alpes-Côte d’Azur) war ein französischer Grafiker und Maler des Expressionismus. Darüber hinaus arbeitete er auch als Illustrator und Bühnenbildner.</abstract>
+<wikilink>http://en.wikipedia.org/wiki/Bernard_Buffet?oldid=555308292</wikilink>
+</Person>

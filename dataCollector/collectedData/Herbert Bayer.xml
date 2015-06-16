@@ -1,0 +1,25 @@
+<Person>
+<name>Herbert Bayer</name>
+<variantName>
+<XML_Serializer_Tag>Herbert Wilhelm Bayer</XML_Serializer_Tag>
+</variantName>
+<thumbnail>https://commons.wikimedia.org/wiki/Special:FilePath/Herbert_Bayer_Stadelwand_1936.jpg?width=270</thumbnail>
+<birthEN>April 5, 1900</birthEN>
+<birthDE>5. April 1900</birthDE>
+<deathEN>September 30, 1985</deathEN>
+<deathDE>30. September 1985</deathDE>
+<birthPlace />
+<deathPlace />
+<professionOrOccupation>
+<XML_Serializer_Tag>Künstler</XML_Serializer_Tag>
+<XML_Serializer_Tag>Graphiker</XML_Serializer_Tag>
+<XML_Serializer_Tag>Photograph</XML_Serializer_Tag>
+<XML_Serializer_Tag>Maler</XML_Serializer_Tag>
+<XML_Serializer_Tag>Designer</XML_Serializer_Tag>
+<XML_Serializer_Tag>Schriftkünstler</XML_Serializer_Tag>
+</professionOrOccupation>
+<artworks />
+<dbpResource>http://dbpedia.org/resource/Herbert_Bayer</dbpResource>
+<abstract>Herbert Bayer (* 5. April 1900 in Haag am Hausruck, Oberösterreich; † 30. September 1985 in Montecito, Kalifornien) war ein österreichischer Fotograf, Grafikdesigner, Typograf, Ausstellungsarchitekt, Maler und Lehrer am Bauhaus in Dessau.</abstract>
+<wikilink>http://en.wikipedia.org/wiki/Herbert_Bayer?oldid=606597386</wikilink>
+</Person>

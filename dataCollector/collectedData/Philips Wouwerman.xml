@@ -1,0 +1,28 @@
+<Person>
+<name>Philips Wouwerman</name>
+<variantName>
+<XML_Serializer_Tag>Philips Wouwermans</XML_Serializer_Tag>
+<XML_Serializer_Tag>Philips Wouverman</XML_Serializer_Tag>
+<XML_Serializer_Tag>Philipp Wouvermann</XML_Serializer_Tag>
+<XML_Serializer_Tag>Philippus Wouwermans</XML_Serializer_Tag>
+<XML_Serializer_Tag>Philips Wauvermans</XML_Serializer_Tag>
+<XML_Serializer_Tag>Philipp Wouwermann</XML_Serializer_Tag>
+<XML_Serializer_Tag>Philippe Wouwerman</XML_Serializer_Tag>
+</variantName>
+<thumbnail>https://commons.wikimedia.org/wiki/Special:FilePath/Philips_wouwerman_zelfportret-red-chalk.jpg?width=270</thumbnail>
+<birthEN>1619</birthEN>
+<birthDE>1619</birthDE>
+<deathEN>1668</deathEN>
+<deathDE>1668</deathDE>
+<birthPlace />
+<deathPlace />
+<professionOrOccupation>
+<XML_Serializer_Tag>Künstler</XML_Serializer_Tag>
+<XML_Serializer_Tag>Maler</XML_Serializer_Tag>
+<XML_Serializer_Tag>Zeichner</XML_Serializer_Tag>
+</professionOrOccupation>
+<artworks />
+<dbpResource>http://dbpedia.org/resource/Philips_Wouwerman</dbpResource>
+<abstract>Philips Wouwerman (getauft 24. Mai 1619 in Haarlem; begraben 23. Mai 1668 in Haarlem in der Nieuwe Kerk) war ein niederländischer Maler des Barock.</abstract>
+<wikilink>http://en.wikipedia.org/wiki/Philips_Wouwerman?oldid=606441631</wikilink>
+</Person>

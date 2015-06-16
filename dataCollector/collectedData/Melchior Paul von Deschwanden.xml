@@ -1,0 +1,25 @@
+<Person>
+<name>Melchior Paul von Deschwanden</name>
+<variantName>
+<XML_Serializer_Tag>Melchior Paul Deschwanden</XML_Serializer_Tag>
+</variantName>
+<thumbnail>https://commons.wikimedia.org/wiki/Special:FilePath/Ittendorf_Kirche_Seitenaltar_rechts_Sebastian.jpg?width=270</thumbnail>
+<birthEN>January 10, 1811</birthEN>
+<birthDE>10. Januar 1811</birthDE>
+<deathEN>February 25, 1881</deathEN>
+<deathDE>25. Februar 1881</deathDE>
+<birthPlace>
+<XML_Serializer_Tag>Stans (Nidwalden)</XML_Serializer_Tag>
+</birthPlace>
+<deathPlace>
+<XML_Serializer_Tag>Stans (Nidwalden)</XML_Serializer_Tag>
+</deathPlace>
+<professionOrOccupation>
+<XML_Serializer_Tag>Maler</XML_Serializer_Tag>
+<XML_Serializer_Tag>Restaurator</XML_Serializer_Tag>
+</professionOrOccupation>
+<artworks />
+<dbpResource>http://dbpedia.org/resource/Melchior_Paul_von_Deschwanden</dbpResource>
+<abstract>Melchior Paul von Deschwanden (* 10. Januar 1811 in Stans; † 25. Februar 1881 in Stans) war ein Schweizer Maler des Nazarenerstils.</abstract>
+<wikilink>http://en.wikipedia.org/wiki/Melchior_Paul_von_Deschwanden?oldid=582326799</wikilink>
+</Person>

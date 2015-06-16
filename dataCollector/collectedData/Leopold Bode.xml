@@ -1,0 +1,24 @@
+<Person>
+<name>Leopold Bode</name>
+<variantName>
+<XML_Serializer_Tag>Christian Leopold Bode</XML_Serializer_Tag>
+</variantName>
+<thumbnail>https://commons.wikimedia.org/wiki/Special:FilePath/Die_Frankenfurt.jpg?width=270</thumbnail>
+<birthEN>March 11, 1831</birthEN>
+<birthDE>11. März 1831</birthDE>
+<deathEN>July 26, 1906</deathEN>
+<deathDE>26. Juli 1906</deathDE>
+<birthPlace>
+<XML_Serializer_Tag>Offenbach am Main</XML_Serializer_Tag>
+</birthPlace>
+<deathPlace>
+<XML_Serializer_Tag>Frankfurt am Main</XML_Serializer_Tag>
+</deathPlace>
+<professionOrOccupation>
+<XML_Serializer_Tag>Maler</XML_Serializer_Tag>
+</professionOrOccupation>
+<artworks />
+<dbpResource>http://dbpedia.org/resource/Leopold_Bode</dbpResource>
+<abstract>Christian Leopold Bode (* 11. März 1831 in Offenbach am Main; † 26. Juli 1906 in Frankfurt am Main) war ein deutscher Historienmaler und Grafiker.</abstract>
+<wikilink>http://en.wikipedia.org/wiki/Leopold_Bode?oldid=581896838</wikilink>
+</Person>

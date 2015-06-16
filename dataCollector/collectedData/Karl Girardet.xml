@@ -1,0 +1,26 @@
+<Person>
+<name>Karl Girardet</name>
+<variantName>
+<XML_Serializer_Tag>K. Girardet</XML_Serializer_Tag>
+<XML_Serializer_Tag>Charles Girardet</XML_Serializer_Tag>
+</variantName>
+<thumbnail>https://commons.wikimedia.org/wiki/Special:FilePath/Visiting_the_poor,_illustration_from_&apos;Le_Magasin_Pittoresque&apos;,_Paris,_1844_by_Karl_Girardet.jpg?width=270</thumbnail>
+<birthEN>May 3, 1813</birthEN>
+<birthDE>3. Mai 1813</birthDE>
+<deathEN>April 24, 1871</deathEN>
+<deathDE>24. April 1871</deathDE>
+<birthPlace>
+<XML_Serializer_Tag>Le Locle</XML_Serializer_Tag>
+</birthPlace>
+<deathPlace>
+<XML_Serializer_Tag>Versailles</XML_Serializer_Tag>
+</deathPlace>
+<professionOrOccupation>
+<XML_Serializer_Tag>Künstler</XML_Serializer_Tag>
+<XML_Serializer_Tag>Maler</XML_Serializer_Tag>
+</professionOrOccupation>
+<artworks />
+<dbpResource>http://dbpedia.org/resource/Karl_Girardet</dbpResource>
+<abstract>Karl Girardet (* 3. Mai 1813 in Le Locle; † 24. April 1871 in Versailles) war ein Schweizer Maler.</abstract>
+<wikilink>http://en.wikipedia.org/wiki/Karl_Girardet?oldid=589481349</wikilink>
+</Person>

@@ -1,0 +1,23 @@
+<Person>
+<name>Claus Berg</name>
+<variantName />
+<thumbnail>https://commons.wikimedia.org/wiki/Special:FilePath/Guestrow_Dom_Kapelle_Figuren1.jpg?width=270</thumbnail>
+<birthEN>1475</birthEN>
+<birthDE>1475</birthDE>
+<deathEN>1535</deathEN>
+<deathDE>1535</deathDE>
+<birthPlace>
+<XML_Serializer_Tag>Lübeck</XML_Serializer_Tag>
+</birthPlace>
+<deathPlace>
+<XML_Serializer_Tag>Güstrow</XML_Serializer_Tag>
+</deathPlace>
+<professionOrOccupation>
+<XML_Serializer_Tag>Holzbildhauer</XML_Serializer_Tag>
+<XML_Serializer_Tag>Maler</XML_Serializer_Tag>
+</professionOrOccupation>
+<artworks />
+<dbpResource>http://dbpedia.org/resource/Claus_Berg</dbpResource>
+<abstract>Claus Berg (* 1475 in Lübeck; † um 1535 wohl in Güstrow) war ein am Anfang des 16. Jahrhunderts tätiger niederdeutscher Bildschnitzer der Spätgotik, der zunächst in Lübeck und später in Odense in Dänemark tätig war.</abstract>
+<wikilink>http://en.wikipedia.org/wiki/Claus_Berg?oldid=570185626</wikilink>
+</Person>

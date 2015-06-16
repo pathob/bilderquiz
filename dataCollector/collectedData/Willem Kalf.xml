@@ -1,0 +1,47 @@
+<Person>
+<name>Willem Kalf</name>
+<variantName>
+<XML_Serializer_Tag>Willem Kalff</XML_Serializer_Tag>
+<XML_Serializer_Tag>Guillaume Calf</XML_Serializer_Tag>
+</variantName>
+<thumbnail>https://commons.wikimedia.org/wiki/Special:FilePath/Willem_Kalf_Bauerninterieur_circa_1649-1645.jpg?width=270</thumbnail>
+<birthEN>1619</birthEN>
+<birthDE>1619</birthDE>
+<deathEN>1693</deathEN>
+<deathDE>1693</deathDE>
+<birthPlace />
+<deathPlace />
+<professionOrOccupation>
+<XML_Serializer_Tag>Künstler</XML_Serializer_Tag>
+<XML_Serializer_Tag>Maler</XML_Serializer_Tag>
+</professionOrOccupation>
+<artworks>
+<XML_Serializer_Tag>
+<painting>
+<type>uri</type>
+<value>http://dbpedia.org/resource/Still_Life_with_a_Chinese_Porcelain_Jar</value>
+</painting>
+<thumbnail>
+<type>uri</type>
+<value>http://commons.wikimedia.org/wiki/Special:FilePath/Willem_Kalf_-_Still-Life_with_a_Late_Ming_Ginger_Jar_-_WGA12080.jpg?width=300</value>
+</thumbnail>
+<name>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>Still Life with a Chinese Porcelain Jar</value>
+</name>
+<year>
+<type>typed-literal</type>
+<datatype>http://www.w3.org/2001/XMLSchema#integer</datatype>
+<value>1669</value>
+</year>
+<wikilink>
+<type>uri</type>
+<value>http://en.wikipedia.org/wiki/Still_Life_with_a_Chinese_Porcelain_Jar?oldid=537894523</value>
+</wikilink>
+</XML_Serializer_Tag>
+</artworks>
+<dbpResource>http://dbpedia.org/resource/Willem_Kalf</dbpResource>
+<abstract>Willem Kalf (getauft 3. November 1619 Rotterdam; † 31. Juli 1693 Amsterdam) war einer der bedeutendsten Stilllebenmaler der Niederlande im 17. Jahrhundert.</abstract>
+<wikilink>http://en.wikipedia.org/wiki/Willem_Kalf?oldid=606394561</wikilink>
+</Person>

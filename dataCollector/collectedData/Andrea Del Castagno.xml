@@ -1,0 +1,102 @@
+<Person>
+<name>Andrea Del Castagno</name>
+<variantName>
+<XML_Serializer_Tag>Andrea del Castagno</XML_Serializer_Tag>
+<XML_Serializer_Tag>Andrea, del Castagno</XML_Serializer_Tag>
+<XML_Serializer_Tag>Andrea, Del Castagno</XML_Serializer_Tag>
+<XML_Serializer_Tag>Andrea, di Bartolo, 1410-1457</XML_Serializer_Tag>
+<XML_Serializer_Tag>, 1410-1457</XML_Serializer_Tag>
+<XML_Serializer_Tag>André del Castagno</XML_Serializer_Tag>
+<XML_Serializer_Tag>Andrea, di Bartolommeo</XML_Serializer_Tag>
+<XML_Serializer_Tag>André, del Castagno</XML_Serializer_Tag>
+<XML_Serializer_Tag>Andrea DelCastagno</XML_Serializer_Tag>
+<XML_Serializer_Tag>Andrea, DelCastagno</XML_Serializer_Tag>
+</variantName>
+<thumbnail>https://commons.wikimedia.org/wiki/Special:FilePath/Andrea_del_castagno,_Christ_in_the_Sepulchre_with_Two_Angels_by_Andrea_del_Castagno_01.jpg?width=270</thumbnail>
+<birthEN>1410</birthEN>
+<birthDE>1410</birthDE>
+<deathEN>1457</deathEN>
+<deathDE>1457</deathDE>
+<birthPlace />
+<deathPlace />
+<professionOrOccupation>
+<XML_Serializer_Tag>Maler</XML_Serializer_Tag>
+</professionOrOccupation>
+<artworks>
+<XML_Serializer_Tag>
+<painting>
+<type>uri</type>
+<value>http://dbpedia.org/resource/Equestrian_Statue_of_Niccol%C3%B2_da_Tolentino</value>
+</painting>
+<thumbnail>
+<type>uri</type>
+<value>http://commons.wikimedia.org/wiki/Special:FilePath/Andrea_del_castagno,_momumento_a_niccolò_da_tolentino.jpg?width=300</value>
+</thumbnail>
+<name>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>Equestrian statue of Niccolò da Tolentino</value>
+</name>
+<year>
+<type>typed-literal</type>
+<datatype>http://www.w3.org/2001/XMLSchema#integer</datatype>
+<value>1456</value>
+</year>
+<wikilink>
+<type>uri</type>
+<value>http://en.wikipedia.org/wiki/Equestrian_Statue_of_Niccolò_da_Tolentino?oldid=586355061</value>
+</wikilink>
+</XML_Serializer_Tag>
+<XML_Serializer_Tag>
+<painting>
+<type>uri</type>
+<value>http://dbpedia.org/resource/Last_Supper_(del_Castagno)</value>
+</painting>
+<thumbnail>
+<type>uri</type>
+<value>http://commons.wikimedia.org/wiki/Special:FilePath/Andrea_del_Castagno_001.jpg?width=300</value>
+</thumbnail>
+<name>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>Last Supper</value>
+</name>
+<year>
+<type>typed-literal</type>
+<datatype>http://www.w3.org/2001/XMLSchema#integer</datatype>
+<value>1445</value>
+</year>
+<wikilink>
+<type>uri</type>
+<value>http://en.wikipedia.org/wiki/Last_Supper_(del_Castagno)?oldid=592171373</value>
+</wikilink>
+</XML_Serializer_Tag>
+<XML_Serializer_Tag>
+<painting>
+<type>uri</type>
+<value>http://dbpedia.org/resource/Assumption_of_the_Virgin_(Andrea_del_Castagno)</value>
+</painting>
+<thumbnail>
+<type>uri</type>
+<value>http://commons.wikimedia.org/wiki/Special:FilePath/Del_Castagno_Andrea_Our_Lady_of_the_Assumption_with_Sts_Miniato_and_Julian.jpg?width=300</value>
+</thumbnail>
+<name>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>Assumption of the Virgin</value>
+</name>
+<year>
+<type>typed-literal</type>
+<datatype>http://www.w3.org/2001/XMLSchema#integer</datatype>
+<value>1449</value>
+</year>
+<wikilink>
+<type>uri</type>
+<value>http://en.wikipedia.org/wiki/Assumption_of_the_Virgin_(Andrea_del_Castagno)?oldid=590070771</value>
+</wikilink>
+</XML_Serializer_Tag>
+</artworks>
+<dbpResource>http://dbpedia.org/resource/Andrea_del_Castagno</dbpResource>
+<abstract>Andrea del Castagno (Andrea di Bartolo di Bargilla, auch Andrea dal Castagno di Mugello; * um 1418 im Ortsteil Castagno von San Godenzo; † 19. August 1457 in Florenz) war ein italienischer Maler der Renaissance. Er wird zu den einflussreichsten Künstlern der Frührenaissance in Florenz gerechnet.</abstract>
+<wikilink>http://en.wikipedia.org/wiki/Andrea_del_Castagno?oldid=602502020</wikilink>
+</Person>

@@ -1,0 +1,28 @@
+<Person>
+<name>Richard Artschwager</name>
+<variantName>
+<XML_Serializer_Tag>Richard Ernst Artschwager</XML_Serializer_Tag>
+</variantName>
+<thumbnail>https://commons.wikimedia.org/wiki/Special:FilePath/Artschwager_01.JPG?width=270</thumbnail>
+<birthEN>December 26, 1923</birthEN>
+<birthDE>26. Dezember 1923</birthDE>
+<deathEN>February 9, 2013</deathEN>
+<deathDE>9. Februar 2013</deathDE>
+<birthPlace>
+<XML_Serializer_Tag>Washington, DC</XML_Serializer_Tag>
+</birthPlace>
+<deathPlace>
+<XML_Serializer_Tag>Albany, NY</XML_Serializer_Tag>
+</deathPlace>
+<professionOrOccupation>
+<XML_Serializer_Tag>Künstler</XML_Serializer_Tag>
+<XML_Serializer_Tag>Maler</XML_Serializer_Tag>
+<XML_Serializer_Tag>Objektkünstler</XML_Serializer_Tag>
+<XML_Serializer_Tag>Graphiker</XML_Serializer_Tag>
+<XML_Serializer_Tag>Bildhauer</XML_Serializer_Tag>
+</professionOrOccupation>
+<artworks />
+<dbpResource>http://dbpedia.org/resource/Richard_Artschwager</dbpResource>
+<abstract>Richard Artschwager (* 26. Dezember 1923 in Washington, D.C.; † 9. Februar 2013 in Albany, New York) war ein US-amerikanischer Objektkünstler, Maler, Grafiker und Bildhauer. Er gehörte zu den wichtigsten Vertretern der Minimal Art.</abstract>
+<wikilink>http://en.wikipedia.org/wiki/Richard_Artschwager?oldid=602492320</wikilink>
+</Person>

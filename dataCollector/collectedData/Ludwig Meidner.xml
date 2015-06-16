@@ -1,0 +1,27 @@
+<Person>
+<name>Ludwig Meidner</name>
+<variantName>
+<XML_Serializer_Tag>L. Meidner</XML_Serializer_Tag>
+</variantName>
+<thumbnail>https://en.wikipedia.org/wiki/Special:FilePath/Untitled_lithograph_by_Ludwig_Meidner_from_the_book_&apos;Septemberschrei&apos;,_1918,_--Fine_Arts_Museums_of_Sanfrancisco--.jpg?width=270</thumbnail>
+<birthEN>April 18, 1884</birthEN>
+<birthDE>18. April 1884</birthDE>
+<deathEN>May 14, 1966</deathEN>
+<deathDE>14. Mai 1966</deathDE>
+<birthPlace>
+<XML_Serializer_Tag>Bernstadt a. d. Eigen</XML_Serializer_Tag>
+</birthPlace>
+<deathPlace>
+<XML_Serializer_Tag>Darmstadt</XML_Serializer_Tag>
+</deathPlace>
+<professionOrOccupation>
+<XML_Serializer_Tag>Maler</XML_Serializer_Tag>
+<XML_Serializer_Tag>Graphiker</XML_Serializer_Tag>
+<XML_Serializer_Tag>Schriftsteller</XML_Serializer_Tag>
+<XML_Serializer_Tag>Filmarchitekt</XML_Serializer_Tag>
+</professionOrOccupation>
+<artworks />
+<dbpResource>http://dbpedia.org/resource/Ludwig_Meidner</dbpResource>
+<abstract>Ludwig Meidner (* 18. April 1884 in Bernstadt an der Weide (Schlesien); † 14. Mai 1966 in Darmstadt) war ein deutscher Maler des Expressionismus sowie Dichter und Grafiker.</abstract>
+<wikilink>http://en.wikipedia.org/wiki/Ludwig_Meidner?oldid=586345150</wikilink>
+</Person>

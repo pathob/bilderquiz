@@ -1,0 +1,50 @@
+<Person>
+<name>Franz Marc</name>
+<variantName>
+<XML_Serializer_Tag>Franz Moritz Wilhelm Marc</XML_Serializer_Tag>
+<XML_Serializer_Tag>Franc Mark</XML_Serializer_Tag>
+<XML_Serializer_Tag>Franc Marc</XML_Serializer_Tag>
+<XML_Serializer_Tag>フランツ・マルク</XML_Serializer_Tag>
+<XML_Serializer_Tag>フランツ マルク</XML_Serializer_Tag>
+</variantName>
+<thumbnail>https://commons.wikimedia.org/wiki/Special:FilePath/FranzMarc.jpg?width=270</thumbnail>
+<birthEN>1880</birthEN>
+<birthDE>1880</birthDE>
+<deathEN>1916</deathEN>
+<deathDE>1916</deathDE>
+<birthPlace />
+<deathPlace />
+<professionOrOccupation>
+<XML_Serializer_Tag>Künstler</XML_Serializer_Tag>
+<XML_Serializer_Tag>Maler</XML_Serializer_Tag>
+</professionOrOccupation>
+<artworks>
+<XML_Serializer_Tag>
+<painting>
+<type>uri</type>
+<value>http://dbpedia.org/resource/Blue_Horses</value>
+</painting>
+<thumbnail>
+<type>uri</type>
+<value>http://commons.wikimedia.org/wiki/Special:FilePath/Franz_Marc_005.jpg?width=300</value>
+</thumbnail>
+<name>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>Blue Horses</value>
+</name>
+<year>
+<type>typed-literal</type>
+<datatype>http://www.w3.org/2001/XMLSchema#integer</datatype>
+<value>1911</value>
+</year>
+<wikilink>
+<type>uri</type>
+<value>http://en.wikipedia.org/wiki/Blue_Horses?oldid=584665079</value>
+</wikilink>
+</XML_Serializer_Tag>
+</artworks>
+<dbpResource>http://dbpedia.org/resource/Franz_Marc</dbpResource>
+<abstract>Franz Moritz Wilhelm Marc (* 8. Februar 1880 in München; † 4. März 1916 in Braquis bei Verdun, Frankreich) war ein deutscher Maler, Zeichner und Grafiker. Er gilt als einer der bedeutendsten Maler des Expressionismus in Deutschland. Neben Wassily Kandinsky war er Mitbegründer der Redaktionsgemeinschaft Der Blaue Reiter, die am 18. Dezember 1911 ihre erste Ausstellung in München eröffnete. Der Blaue Reiter ging aus der Neuen Künstlervereinigung München hervor, in der Marc kurzzeitig Mitglied war. Für den Almanach Der Blaue Reiter und andere Veröffentlichungen verfasste er kunsttheoretische Schriften.Waren Marcs frühe Werke noch dem naturalistischen Stil des Akademismus verhaftet, widmete er sich nach einem Parisbesuch im Jahr 1907 dem Postimpressionismus unter dem Einfluss von Gauguin und van Gogh. Zwischen 1910 und 1914 verwendete er Stilelemente des Fauvismus, Kubismus, Futurismus und Orphismus, trennte sich in seinem Werk jedoch nicht vollständig vom Gegenstand. In dieser Zeit entstanden seine bekannten Gemälde, die hauptsächlich Tiermotive zum Inhalt haben wie Der Tiger, Blaues Pferd I, Die gelbe Kuh, Der Turm der blauen Pferde oder Tierschicksale. Marcs erste abstrakte Gemälde wie Kleine Komposition I und Kämpfende Formen entstanden 1913 und 1914. Anlässlich der Mobilmachung vor dem Ersten Weltkrieg meldete er sich freiwillig und fiel zwei Jahre später im Alter von 36 Jahren vor Verdun.</abstract>
+<wikilink>http://en.wikipedia.org/wiki/Franz_Marc?oldid=606615330</wikilink>
+</Person>

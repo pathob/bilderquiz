@@ -1,0 +1,27 @@
+<Person>
+<name>Willi Baumeister</name>
+<variantName>
+<XML_Serializer_Tag>Willy Baumeister</XML_Serializer_Tag>
+<XML_Serializer_Tag>Friedrich Wilhelm Baumeister</XML_Serializer_Tag>
+</variantName>
+<thumbnail>https://commons.wikimedia.org/wiki/Special:FilePath/WP_Willi_Baumeister.jpg?width=270</thumbnail>
+<birthEN>January 22, 1889</birthEN>
+<birthDE>22. Januar 1889</birthDE>
+<deathEN>August 31, 1955</deathEN>
+<deathDE>31. August 1955</deathDE>
+<birthPlace>
+<XML_Serializer_Tag>Stuttgart</XML_Serializer_Tag>
+</birthPlace>
+<deathPlace>
+<XML_Serializer_Tag>Stuttgart</XML_Serializer_Tag>
+</deathPlace>
+<professionOrOccupation>
+<XML_Serializer_Tag>Maler</XML_Serializer_Tag>
+<XML_Serializer_Tag>Graphiker</XML_Serializer_Tag>
+<XML_Serializer_Tag>Bühnenbildner</XML_Serializer_Tag>
+</professionOrOccupation>
+<artworks />
+<dbpResource>http://dbpedia.org/resource/Willi_Baumeister</dbpResource>
+<abstract>Friedrich Wilhelm Baumeister (* 22. Januar 1889 in Stuttgart; † 31. August 1955 ebenda) war ein deutscher Maler, Grafiker, Bühnenbildner, Typograf, Kunsttheoretiker, Autor und Hochschullehrer. Er gilt weltweit als einer der bedeutendsten Künstler der Moderne.</abstract>
+<wikilink>http://en.wikipedia.org/wiki/Willi_Baumeister?oldid=593124249</wikilink>
+</Person>

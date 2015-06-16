@@ -1,0 +1,25 @@
+<Person>
+<name>Gotthold Gloger</name>
+<variantName />
+<thumbnail>https://commons.wikimedia.org/wiki/Special:FilePath/Bundesarchiv_Bild_183-25686-0004,_Leipzig,_Autorenkonferenz,_Gloger,_Weiskopf,_Wedding.jpg?width=270</thumbnail>
+<birthEN>June 17, 1924</birthEN>
+<birthDE>17. Juni 1924</birthDE>
+<deathEN>October 16, 2001</deathEN>
+<deathDE>16. Oktober 2001</deathDE>
+<birthPlace>
+<XML_Serializer_Tag>Königsberg</XML_Serializer_Tag>
+</birthPlace>
+<deathPlace>
+<XML_Serializer_Tag>Kraatz, Gransee</XML_Serializer_Tag>
+</deathPlace>
+<professionOrOccupation>
+<XML_Serializer_Tag>Schriftsteller</XML_Serializer_Tag>
+<XML_Serializer_Tag>Maler</XML_Serializer_Tag>
+<XML_Serializer_Tag>Schauspieler</XML_Serializer_Tag>
+<XML_Serializer_Tag>Drehbuchautor</XML_Serializer_Tag>
+</professionOrOccupation>
+<artworks />
+<dbpResource>http://dbpedia.org/resource/Gotthold_Gloger</dbpResource>
+<abstract>Gotthold Gloger (* 17. Juni 1924 in Königsberg, Ostpreußen; † 16. Oktober 2001 in Kraatz bei Gransee), war ein deutscher Schriftsteller und Maler.</abstract>
+<wikilink>http://en.wikipedia.org/wiki/Gotthold_Gloger?oldid=605391532</wikilink>
+</Person>

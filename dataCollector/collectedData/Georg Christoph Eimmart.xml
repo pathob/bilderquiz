@@ -1,0 +1,39 @@
+<Person>
+<name>Georg Christoph Eimmart</name>
+<variantName>
+<XML_Serializer_Tag>Georg Christoph Einmart</XML_Serializer_Tag>
+<XML_Serializer_Tag>Georgius Christophorus Eimmardus</XML_Serializer_Tag>
+<XML_Serializer_Tag>Georg Christoph Eimmerto</XML_Serializer_Tag>
+<XML_Serializer_Tag>Georgius Christophorus Eimmartus</XML_Serializer_Tag>
+<XML_Serializer_Tag>G. C. Eimmart</XML_Serializer_Tag>
+<XML_Serializer_Tag>G. C. Eimmert</XML_Serializer_Tag>
+<XML_Serializer_Tag>G. C. Eimart</XML_Serializer_Tag>
+<XML_Serializer_Tag>G. C. Eimert</XML_Serializer_Tag>
+<XML_Serializer_Tag>G. C. E.</XML_Serializer_Tag>
+<XML_Serializer_Tag>Georgius C. Eimmardus</XML_Serializer_Tag>
+<XML_Serializer_Tag>Georg Christoph Eimart</XML_Serializer_Tag>
+<XML_Serializer_Tag>Georg Christoph Eimmert</XML_Serializer_Tag>
+<XML_Serializer_Tag>Georg Christoph Eimert</XML_Serializer_Tag>
+</variantName>
+<thumbnail>https://commons.wikimedia.org/wiki/Special:FilePath/Georg_Christoph_Eimmart_by_Georg_Christoph_Eimmart.jpg?width=270</thumbnail>
+<birthEN>August 22, 1638</birthEN>
+<birthDE>22. August 1638</birthDE>
+<deathEN>January 5, 1705</deathEN>
+<deathDE>5. Januar 1705</deathDE>
+<birthPlace>
+<XML_Serializer_Tag>Regensburg</XML_Serializer_Tag>
+</birthPlace>
+<deathPlace>
+<XML_Serializer_Tag>Nürnberg</XML_Serializer_Tag>
+</deathPlace>
+<professionOrOccupation>
+<XML_Serializer_Tag>Astronom</XML_Serializer_Tag>
+<XML_Serializer_Tag>Mathematiker</XML_Serializer_Tag>
+<XML_Serializer_Tag>Maler</XML_Serializer_Tag>
+<XML_Serializer_Tag>Kupferstecher</XML_Serializer_Tag>
+</professionOrOccupation>
+<artworks />
+<dbpResource>http://dbpedia.org/resource/Georg_Christoph_Eimmart</dbpResource>
+<abstract>Georg Christoph Eimmart (* 22. August 1638 in Regensburg; † 5. Januar 1705 in Nürnberg) war Gründer der ersten Nürnberger Sternwarte, Mathematiker und Kupferstecher.</abstract>
+<wikilink>http://en.wikipedia.org/wiki/Georg_Christoph_Eimmart?oldid=601205387</wikilink>
+</Person>

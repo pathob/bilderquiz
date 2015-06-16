@@ -1,0 +1,121 @@
+<Person>
+<name>Umberto Boccioni</name>
+<variantName />
+<thumbnail>https://commons.wikimedia.org/wiki/Special:FilePath/Umberto-Boccioni.jpg?width=270</thumbnail>
+<birthEN>1882</birthEN>
+<birthDE>1882</birthDE>
+<deathEN>1916</deathEN>
+<deathDE>1916</deathDE>
+<birthPlace />
+<deathPlace />
+<professionOrOccupation>
+<XML_Serializer_Tag>Maler</XML_Serializer_Tag>
+<XML_Serializer_Tag>Bildhauer</XML_Serializer_Tag>
+</professionOrOccupation>
+<artworks>
+<XML_Serializer_Tag>
+<painting>
+<type>uri</type>
+<value>http://dbpedia.org/resource/Unique_Forms_of_Continuity_in_Space</value>
+</painting>
+<thumbnail>
+<type>uri</type>
+<value>http://commons.wikimedia.org/wiki/Special:FilePath/&apos;Unique_Forms_of_Continuity_in_Space&apos;,_1913_bronze_by_Umberto_Boccioni.jpg?width=300</value>
+</thumbnail>
+<name>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>Unique Forms of Continuity in Space</value>
+</name>
+<year>
+<type>typed-literal</type>
+<datatype>http://www.w3.org/2001/XMLSchema#integer</datatype>
+<value>1913</value>
+</year>
+<abstract>
+<type>literal</type>
+<xml:lang>de</xml:lang>
+<value>Einzigartige Formen der Kontinuität im Raum (it.: Forme uniche della continuità nello spazio) ist eine Skulptur aus dem Jahr 1913 von Umberto Boccioni.Der Futurist Boccioni wollte mit der Skulptur eine Person in Bewegung darstellen.Die Skulptur war der vierte Entwurf einer Serie von schreitenden Personen und ist die einzige, die erhalten blieb. Das abgebildete Werk ist Bestandteil der Sammlung des Museum of Modern Art, New York.</value>
+</abstract>
+<wikilink>
+<type>uri</type>
+<value>http://en.wikipedia.org/wiki/Unique_Forms_of_Continuity_in_Space?oldid=603360634</value>
+</wikilink>
+</XML_Serializer_Tag>
+<XML_Serializer_Tag>
+<painting>
+<type>uri</type>
+<value>http://dbpedia.org/resource/The_Street_Enters_the_House</value>
+</painting>
+<thumbnail>
+<type>uri</type>
+<value>http://commons.wikimedia.org/wiki/Special:FilePath/Umberto_Boccioni_-_A_strada_entra_nella_casa.jpg?width=300</value>
+</thumbnail>
+<name>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>The Street Enters The House</value>
+</name>
+<year>
+<type>typed-literal</type>
+<datatype>http://www.w3.org/2001/XMLSchema#integer</datatype>
+<value>1911</value>
+</year>
+<abstract>
+<type>literal</type>
+<xml:lang>de</xml:lang>
+<value>La strada entra nella casa (Die Straße dringt in das Haus) ist ein Gemälde von Umberto Boccioni. Das Werk entstand nach seinem Parisaufenthalt im November des Jahres 1911, einer sehr intensiven Schaffensperiode Boccionis. Anfangs schlicht mit Balkon betitelt, wurde es bereits ein Jahr später erstmals und unter dem Titel La rue entre dans la maison gezeigt, und zwar anlässlich der ersten im Ausland organisierten Futuristen-Ausstellung in der Pariser Galerie Bernheim-Jeune vom 5. bis 24. Februar 1912. Von den 35 Exponaten wurden im März 34 in London in der Sackville Gallery gezeigt, im April in Berlin in Herwarth Waldens Sturm-Galerie führte der Katalog nur noch 24 nun als „unverkäuflich“ und im „Privatbesitz“ befindliche Gemälde auf. Die Ausstellung ging noch nach Brüssel, Hamburg, Den Haag und Amsterdam. In Berlin erwarb, neben anderen Gemälden, der Bankier und Sammler Albert Borchardt ebendieses Gemälde. Heute befindet es sich im Sprengel Museum in Hannover.</value>
+</abstract>
+<wikilink>
+<type>uri</type>
+<value>http://en.wikipedia.org/wiki/The_Street_Enters_the_House?oldid=591174154</value>
+</wikilink>
+</XML_Serializer_Tag>
+<XML_Serializer_Tag>
+<painting>
+<type>uri</type>
+<value>http://dbpedia.org/resource/Development_of_a_Bottle_in_Space</value>
+</painting>
+<thumbnail>
+<type>uri</type>
+<value>http://commons.wikimedia.org/wiki/Special:FilePath/&apos;Development_of_a_Bottle_in_Space&apos;,_bronze_sculpture_by_Umberto_Boccioni,_1913,_Metropolitan_Museum_of_Art.jpg?width=300</value>
+</thumbnail>
+<name>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>Development of a Bottle in Space</value>
+</name>
+<year>
+<type>typed-literal</type>
+<datatype>http://www.w3.org/2001/XMLSchema#integer</datatype>
+<value>1913</value>
+</year>
+<wikilink>
+<type>uri</type>
+<value>http://en.wikipedia.org/wiki/Development_of_a_Bottle_in_Space?oldid=599056338</value>
+</wikilink>
+</XML_Serializer_Tag>
+<XML_Serializer_Tag>
+<painting>
+<type>uri</type>
+<value>http://dbpedia.org/resource/The_City_Rises_(Boccioni)</value>
+</painting>
+<thumbnail>
+<type>uri</type>
+<value>http://commons.wikimedia.org/wiki/Special:FilePath/Immagine-Umberto_boccioni_la_città_che_sale.jpg?width=300</value>
+</thumbnail>
+<name>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>The City Rises</value>
+</name>
+<wikilink>
+<type>uri</type>
+<value>http://en.wikipedia.org/wiki/The_City_Rises_(Boccioni)?oldid=554942855</value>
+</wikilink>
+</XML_Serializer_Tag>
+</artworks>
+<dbpResource>http://dbpedia.org/resource/Umberto_Boccioni</dbpResource>
+<abstract>Umberto Boccioni (* 19. Oktober 1882 in Reggio Calabria (Italien); † 17. August 1916 bei Verona) war ein italienischer Maler und Bildhauer des Futurismus.</abstract>
+<wikilink>http://en.wikipedia.org/wiki/Umberto_Boccioni?oldid=605129159</wikilink>
+</Person>

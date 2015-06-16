@@ -1,0 +1,29 @@
+<Person>
+<name>Peter Johann Nepomuk Geiger</name>
+<variantName>
+<XML_Serializer_Tag>Peter Johann Nepomuk Geyger</XML_Serializer_Tag>
+<XML_Serializer_Tag>Peter Johann Nep. Geiger</XML_Serializer_Tag>
+<XML_Serializer_Tag>Joh. Geiger</XML_Serializer_Tag>
+<XML_Serializer_Tag>Johann Geiger</XML_Serializer_Tag>
+<XML_Serializer_Tag>Johann Nepomuk Geiger</XML_Serializer_Tag>
+<XML_Serializer_Tag>Peter J. Geiger</XML_Serializer_Tag>
+<XML_Serializer_Tag>Péter N. János Geiger</XML_Serializer_Tag>
+<XML_Serializer_Tag>P. I. N. Geiger</XML_Serializer_Tag>
+</variantName>
+<thumbnail>https://commons.wikimedia.org/wiki/Special:FilePath/Pieter_Johann_Nepomuk_Geiger00.jpg?width=270</thumbnail>
+<birthEN>1805</birthEN>
+<birthDE>1805</birthDE>
+<deathEN>1880</deathEN>
+<deathDE>1880</deathDE>
+<birthPlace />
+<deathPlace />
+<professionOrOccupation>
+<XML_Serializer_Tag>Maler</XML_Serializer_Tag>
+<XML_Serializer_Tag>Illustrator</XML_Serializer_Tag>
+<XML_Serializer_Tag>Radierer</XML_Serializer_Tag>
+</professionOrOccupation>
+<artworks />
+<dbpResource>http://dbpedia.org/resource/Peter_Johann_Nepomuk_Geiger</dbpResource>
+<abstract>Johann Nepomuk Geiger (* 11. Januar 1805 in Wien; † 29. Oktober 1880 ebenda) war ein österreichischer Maler und Zeichner.</abstract>
+<wikilink>http://en.wikipedia.org/wiki/Peter_Johann_Nepomuk_Geiger?oldid=574014294</wikilink>
+</Person>

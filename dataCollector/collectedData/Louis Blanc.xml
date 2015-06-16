@@ -1,0 +1,22 @@
+<Person>
+<name>Louis Blanc</name>
+<variantName>
+<XML_Serializer_Tag>Louis Ammy Blanc</XML_Serializer_Tag>
+<XML_Serializer_Tag>Ludwig Blank</XML_Serializer_Tag>
+</variantName>
+<thumbnail>https://commons.wikimedia.org/wiki/Special:FilePath/Louis_Ammy_Blanc_-_Le_Prétendant.jpg?width=270</thumbnail>
+<birthEN>August 29, 1810</birthEN>
+<birthDE>29. August 1810</birthDE>
+<deathEN>April 7, 1885</deathEN>
+<deathDE>7. April 1885</deathDE>
+<birthPlace />
+<deathPlace />
+<professionOrOccupation>
+<XML_Serializer_Tag>Künstler</XML_Serializer_Tag>
+<XML_Serializer_Tag>Maler</XML_Serializer_Tag>
+</professionOrOccupation>
+<artworks />
+<dbpResource>http://dbpedia.org/resource/Louis_Blanc</dbpResource>
+<abstract>Jean-Joseph-Charles-Louis Blanc (* 29. Oktober 1811 in Madrid; † 6. Dezember 1882 in Cannes) war ein französischer utopischer Sozialist und Begründer der Sozialdemokratie.Er suchte die Auswirkungen des Kapitalismus (wie etwa Arbeitslosigkeit) durch eine Reform der Wirtschaft zu mildern, welche sich auf die politische Vorherrschaft der Arbeiterklasse stützt. Sein 1839 veröffentlichtes Hauptwerk Organisation der Arbeit (L&apos;organisation du travail) ist noch heute von Bedeutung, als es erstmals ein Recht auf Arbeit als Bürger- bzw. Menschenrecht ausspricht.</abstract>
+<wikilink>http://en.wikipedia.org/wiki/Louis_Blanc?oldid=600367640</wikilink>
+</Person>

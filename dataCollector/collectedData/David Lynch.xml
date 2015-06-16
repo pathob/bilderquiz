@@ -1,0 +1,30 @@
+<Person>
+<name>David Lynch</name>
+<variantName>
+<XML_Serializer_Tag>David K. Lynch</XML_Serializer_Tag>
+<XML_Serializer_Tag>David Keith Lynch</XML_Serializer_Tag>
+<XML_Serializer_Tag>Judas Booth</XML_Serializer_Tag>
+</variantName>
+<thumbnail>https://commons.wikimedia.org/wiki/Special:FilePath/David_lynch.jpg?width=270</thumbnail>
+<birthEN>1946</birthEN>
+<birthDE>1946</birthDE>
+<deathEN />
+<deathDE />
+<birthPlace>
+<XML_Serializer_Tag>Missoula, Mont.</XML_Serializer_Tag>
+</birthPlace>
+<deathPlace />
+<professionOrOccupation>
+<XML_Serializer_Tag>Maler</XML_Serializer_Tag>
+<XML_Serializer_Tag>Photograph</XML_Serializer_Tag>
+<XML_Serializer_Tag>Sänger</XML_Serializer_Tag>
+<XML_Serializer_Tag>Musiker</XML_Serializer_Tag>
+<XML_Serializer_Tag>Komponist</XML_Serializer_Tag>
+<XML_Serializer_Tag>Regisseur</XML_Serializer_Tag>
+<XML_Serializer_Tag>Filmproduzent</XML_Serializer_Tag>
+</professionOrOccupation>
+<artworks />
+<dbpResource>http://dbpedia.org/resource/David_Lynch</dbpResource>
+<abstract>David Keith Lynch (* 20. Januar 1946 in Missoula, Montana) ist ein US-amerikanischer Künstler, der zugleich als Regisseur, Produzent, Drehbuchautor, Schauspieler, Maler, Fotograf und Komponist arbeitet.Bekanntheit erlangte Lynch vor allem durch seine Filme, die sich den Genres surrealistischer Film, Thriller, Horrorfilm und Film noir zuordnen lassen. Lynchs albtraumhafte, surrealistische Bilder und das bedrohliche, minutiöse Sounddesign sind die bestimmenden stilistischen Elemente. Albträume, fremde Welten, Metamorphosen, Voyeurismus und das Unterbewusstsein sind wiederkehrende Themen in filmischen Werken wie Eraserhead (1977), Blue Velvet (1986), Twin Peaks (1990–1991), Lost Highway (1997) oder auch Mulholland Drive (2001).Lynch bekam 1990 die Goldene Palme von Cannes für Wild at Heart – Die Geschichte von Sailor und Lula verliehen, 2006 einen Goldenen Löwen für sein Lebenswerk auf den internationalen Filmfestspielen von Venedig. Des Weiteren wurde er viermal für den Oscar nominiert. Er ist darüber hinaus Ritter und Offizier der französischen Ehrenlegion.</abstract>
+<wikilink>http://en.wikipedia.org/wiki/David_Lynch?oldid=606595518</wikilink>
+</Person>

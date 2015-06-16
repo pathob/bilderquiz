@@ -1,0 +1,78 @@
+<Person>
+<name>Hans Memling</name>
+<variantName>
+<XML_Serializer_Tag>Jan Memlinc</XML_Serializer_Tag>
+<XML_Serializer_Tag>Jan van Mimmelynghe</XML_Serializer_Tag>
+<XML_Serializer_Tag>Jan van Memmelynghe</XML_Serializer_Tag>
+<XML_Serializer_Tag>Jan, van Memmelynghe</XML_Serializer_Tag>
+<XML_Serializer_Tag>Hans, Memling</XML_Serializer_Tag>
+<XML_Serializer_Tag>Jan, Memlinc</XML_Serializer_Tag>
+<XML_Serializer_Tag>Jean Memling</XML_Serializer_Tag>
+<XML_Serializer_Tag>Jean, Memling</XML_Serializer_Tag>
+<XML_Serializer_Tag>Hans Memlinc</XML_Serializer_Tag>
+</variantName>
+<thumbnail>https://commons.wikimedia.org/wiki/Special:FilePath/Memling30.jpg?width=270</thumbnail>
+<birthEN>1430</birthEN>
+<birthDE>1430</birthDE>
+<deathEN>1494</deathEN>
+<deathDE>1494</deathDE>
+<birthPlace />
+<deathPlace />
+<professionOrOccupation>
+<XML_Serializer_Tag>Künstler</XML_Serializer_Tag>
+<XML_Serializer_Tag>Maler</XML_Serializer_Tag>
+</professionOrOccupation>
+<artworks>
+<XML_Serializer_Tag>
+<painting>
+<type>uri</type>
+<value>http://dbpedia.org/resource/Portrait_of_a_Man_with_a_Roman_Medal</value>
+</painting>
+<thumbnail>
+<type>uri</type>
+<value>http://commons.wikimedia.org/wiki/Special:FilePath/Hans_Memling_054_small.jpg?width=300</value>
+</thumbnail>
+<name>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>Portrait of a Man with a Roman Medal</value>
+</name>
+<year>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>c. 1480</value>
+</year>
+<wikilink>
+<type>uri</type>
+<value>http://en.wikipedia.org/wiki/Portrait_of_a_Man_with_a_Roman_Medal?oldid=590289286</value>
+</wikilink>
+</XML_Serializer_Tag>
+<XML_Serializer_Tag>
+<painting>
+<type>uri</type>
+<value>http://dbpedia.org/resource/Portrait_of_Folco_Portinari</value>
+</painting>
+<thumbnail>
+<type>uri</type>
+<value>http://commons.wikimedia.org/wiki/Special:FilePath/Memnling,_ritratto_di_folco_di_portinari.jpg?width=300</value>
+</thumbnail>
+<name>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>Portrait of Folco Portinari</value>
+</name>
+<year>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>c. 1490</value>
+</year>
+<wikilink>
+<type>uri</type>
+<value>http://en.wikipedia.org/wiki/Portrait_of_Folco_Portinari?oldid=590316463</value>
+</wikilink>
+</XML_Serializer_Tag>
+</artworks>
+<dbpResource>http://dbpedia.org/resource/Hans_Memling</dbpResource>
+<abstract>Hans Memling (* zwischen 1433 und 1440 in Seligenstadt; † 11. August 1494 in Brügge; auch Jan van Mimmelynghe, Johannes Memmelinc oder Memlinc, falsch auch Hemling) war ein deutscher Maler der niederländischen Schule.</abstract>
+<wikilink>http://en.wikipedia.org/wiki/Hans_Memling?oldid=604575236</wikilink>
+</Person>

@@ -1,0 +1,28 @@
+<Person>
+<name>Lucien Pissarro</name>
+<variantName>
+<XML_Serializer_Tag>L. Pissarro</XML_Serializer_Tag>
+</variantName>
+<thumbnail>https://commons.wikimedia.org/wiki/Special:FilePath/Lucien_Pissarro_dans_un_intérieur.jpg?width=270</thumbnail>
+<birthEN>February 20, 1863</birthEN>
+<birthDE>20. Februar 1863</birthDE>
+<deathEN>July 10, 1944</deathEN>
+<deathDE>10. Juli 1944</deathDE>
+<birthPlace>
+<XML_Serializer_Tag>Paris</XML_Serializer_Tag>
+</birthPlace>
+<deathPlace>
+<XML_Serializer_Tag>Epping</XML_Serializer_Tag>
+</deathPlace>
+<professionOrOccupation>
+<XML_Serializer_Tag>Maler</XML_Serializer_Tag>
+<XML_Serializer_Tag>Graphiker</XML_Serializer_Tag>
+<XML_Serializer_Tag>Lithograph</XML_Serializer_Tag>
+<XML_Serializer_Tag>Holzschneider</XML_Serializer_Tag>
+<XML_Serializer_Tag>Buchkünstler</XML_Serializer_Tag>
+</professionOrOccupation>
+<artworks />
+<dbpResource>http://dbpedia.org/resource/Lucien_Pissarro</dbpResource>
+<abstract>Lucien Pissarro (* 20. Februar 1863 in Paris; † 10. Juli 1944 in London) war ein französischer Maler, Grafiker und Holzstecher.</abstract>
+<wikilink>http://en.wikipedia.org/wiki/Lucien_Pissarro?oldid=590243306</wikilink>
+</Person>

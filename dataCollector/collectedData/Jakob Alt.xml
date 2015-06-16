@@ -1,0 +1,27 @@
+<Person>
+<name>Jakob Alt</name>
+<variantName>
+<XML_Serializer_Tag>Jacob Alt</XML_Serializer_Tag>
+<XML_Serializer_Tag>Jakob von Alt</XML_Serializer_Tag>
+</variantName>
+<thumbnail>https://commons.wikimedia.org/wiki/Special:FilePath/Jakob_Alt_-_Blick_aus_dem_Atelier_des_Künstlers_in_der_Alservorstadt_gegen_Dornbach_-_1836.jpeg?width=270</thumbnail>
+<birthEN>September 27, 1789</birthEN>
+<birthDE>27. September 1789</birthDE>
+<deathEN>September 30, 1872</deathEN>
+<deathDE>30. September 1872</deathDE>
+<birthPlace>
+<XML_Serializer_Tag>Frankfurt am Main</XML_Serializer_Tag>
+</birthPlace>
+<deathPlace>
+<XML_Serializer_Tag>Wien</XML_Serializer_Tag>
+</deathPlace>
+<professionOrOccupation>
+<XML_Serializer_Tag>Maler</XML_Serializer_Tag>
+<XML_Serializer_Tag>Landschaftsmaler</XML_Serializer_Tag>
+<XML_Serializer_Tag>Bildnismaler</XML_Serializer_Tag>
+</professionOrOccupation>
+<artworks />
+<dbpResource>http://dbpedia.org/resource/Jakob_Alt</dbpResource>
+<abstract>Jakob Alt (* 27. September 1789 in Frankfurt am Main; † 30. September 1872 in Wien) war ein deutsch-österreichischer Landschaftsmaler, Zeichner und Lithograf.</abstract>
+<wikilink>http://en.wikipedia.org/wiki/Jakob_Alt?oldid=595727034</wikilink>
+</Person>

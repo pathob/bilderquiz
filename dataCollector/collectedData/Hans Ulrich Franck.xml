@@ -1,0 +1,30 @@
+<Person>
+<name>Hans Ulrich Franck</name>
+<variantName>
+<XML_Serializer_Tag>Johann Ulrich Franck</XML_Serializer_Tag>
+<XML_Serializer_Tag>Hans Ulrich Frank</XML_Serializer_Tag>
+<XML_Serializer_Tag>Johann Ulrich Frank</XML_Serializer_Tag>
+<XML_Serializer_Tag>Hanns Ulrich Franckh</XML_Serializer_Tag>
+<XML_Serializer_Tag>Hans Ulrich Franckh</XML_Serializer_Tag>
+</variantName>
+<thumbnail>https://commons.wikimedia.org/wiki/Special:FilePath/Hans_Ulrich_Franck_Der_geharnischte_Reiter.jpg?width=270</thumbnail>
+<birthEN>1590</birthEN>
+<birthDE>1590</birthDE>
+<deathEN>1675</deathEN>
+<deathDE>1675</deathDE>
+<birthPlace>
+<XML_Serializer_Tag>Kaufbeuren</XML_Serializer_Tag>
+</birthPlace>
+<deathPlace>
+<XML_Serializer_Tag>Augsburg</XML_Serializer_Tag>
+</deathPlace>
+<professionOrOccupation>
+<XML_Serializer_Tag>Künstler</XML_Serializer_Tag>
+<XML_Serializer_Tag>Maler</XML_Serializer_Tag>
+<XML_Serializer_Tag>Radierer</XML_Serializer_Tag>
+</professionOrOccupation>
+<artworks />
+<dbpResource>http://dbpedia.org/resource/Hans_Ulrich_Franck</dbpResource>
+<abstract>Hans Ulrich Franck (* 1590/95 in Kaufbeuren; † Herbst 1675 in Augsburg) war ein deutscher Maler, Zeichner und Radierer.</abstract>
+<wikilink>http://en.wikipedia.org/wiki/Hans_Ulrich_Franck?oldid=567607307</wikilink>
+</Person>

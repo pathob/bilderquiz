@@ -1,0 +1,24 @@
+<Person>
+<name>William Morris</name>
+<variantName />
+<thumbnail>https://commons.wikimedia.org/wiki/Special:FilePath/Wmmorris3248.jpg?width=270</thumbnail>
+<birthEN>March 24, 1834</birthEN>
+<birthDE>24. März 1834</birthDE>
+<deathEN>October 3, 1896</deathEN>
+<deathDE>3. Oktober 1896</deathDE>
+<birthPlace>
+<XML_Serializer_Tag>Walthamstow</XML_Serializer_Tag>
+</birthPlace>
+<deathPlace />
+<professionOrOccupation>
+<XML_Serializer_Tag>Künstler</XML_Serializer_Tag>
+<XML_Serializer_Tag>Kunsthandwerker</XML_Serializer_Tag>
+<XML_Serializer_Tag>Sozialreformer</XML_Serializer_Tag>
+<XML_Serializer_Tag>Schriftsteller</XML_Serializer_Tag>
+<XML_Serializer_Tag>Maler</XML_Serializer_Tag>
+</professionOrOccupation>
+<artworks />
+<dbpResource>http://dbpedia.org/resource/William_Morris</dbpResource>
+<abstract>William Morris (* 24. März 1834 in Walthamstow; † 3. Oktober 1896 in London) war ein britischer Maler, Architekt, Dichter, Kunstgewerbler, Ingenieur und Drucker. Er war weiterhin einer der Gründer des Arts and Crafts Movement und früher Begründer der sozialistischen Bewegung in Großbritannien.</abstract>
+<wikilink>http://en.wikipedia.org/wiki/William_Morris?oldid=606782227</wikilink>
+</Person>

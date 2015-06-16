@@ -1,0 +1,26 @@
+<Person>
+<name>Carl Schuch</name>
+<variantName>
+<XML_Serializer_Tag>Carl Eduard Schuch</XML_Serializer_Tag>
+<XML_Serializer_Tag>Charles Schuch</XML_Serializer_Tag>
+</variantName>
+<thumbnail>https://commons.wikimedia.org/wiki/Special:FilePath/Carl_Schuch.jpg?width=270</thumbnail>
+<birthEN>September 30, 1846</birthEN>
+<birthDE>30. September 1846</birthDE>
+<deathEN>September 13, 1903</deathEN>
+<deathDE>13. September 1903</deathDE>
+<birthPlace>
+<XML_Serializer_Tag>Wien</XML_Serializer_Tag>
+</birthPlace>
+<deathPlace>
+<XML_Serializer_Tag>Wien</XML_Serializer_Tag>
+</deathPlace>
+<professionOrOccupation>
+<XML_Serializer_Tag>Künstler</XML_Serializer_Tag>
+<XML_Serializer_Tag>Maler</XML_Serializer_Tag>
+</professionOrOccupation>
+<artworks />
+<dbpResource>http://dbpedia.org/resource/Carl_Schuch</dbpResource>
+<abstract>Carl (Charles) Eduard Schuch (* 30. September 1846 in Wien; † 13. September 1903 ebenda), geboren im Kaiserreich Österreich, vom Selbstverständnis her eher Europäer, steht als Maler am Übergang zur Wiener Moderne. Sein Œuvre liegt als erratischer Block quer zu zeitgenössischen Trends und Moden, ist im historischen Rückblick und von der ästhetischen Tragweite her am ehesten vergleichbar mit Paul Cézanne (Gottfried Boehm, unter Verweis auf Arnold Gehlen).</abstract>
+<wikilink>http://en.wikipedia.org/wiki/Carl_Schuch?oldid=586350776</wikilink>
+</Person>

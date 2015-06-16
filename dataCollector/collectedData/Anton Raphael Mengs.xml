@@ -1,0 +1,33 @@
+<Person>
+<name>Anton Raphael Mengs</name>
+<variantName>
+<XML_Serializer_Tag>Antonio Raffaele Mengz</XML_Serializer_Tag>
+<XML_Serializer_Tag>R. Mengs</XML_Serializer_Tag>
+<XML_Serializer_Tag>Antoine R. Mengs</XML_Serializer_Tag>
+<XML_Serializer_Tag>Raphael Mengs</XML_Serializer_Tag>
+<XML_Serializer_Tag>Rafael Mengs</XML_Serializer_Tag>
+<XML_Serializer_Tag>Anthony R. Mengs</XML_Serializer_Tag>
+<XML_Serializer_Tag>Antonio R. Mengs</XML_Serializer_Tag>
+<XML_Serializer_Tag>Antonio R. Mengz</XML_Serializer_Tag>
+<XML_Serializer_Tag>Anton R. Mengs</XML_Serializer_Tag>
+<XML_Serializer_Tag>Antonio Raffaello Mengs</XML_Serializer_Tag>
+<XML_Serializer_Tag>Anton Raffael Mengs</XML_Serializer_Tag>
+<XML_Serializer_Tag>Antonius Raphael Mengs</XML_Serializer_Tag>
+<XML_Serializer_Tag>Raf. Mengs</XML_Serializer_Tag>
+</variantName>
+<thumbnail>https://commons.wikimedia.org/wiki/Special:FilePath/Mengs,_Selbstbildnis.jpg?width=270</thumbnail>
+<birthEN>1728</birthEN>
+<birthDE>1728</birthDE>
+<deathEN>1779</deathEN>
+<deathDE>1779</deathDE>
+<birthPlace />
+<deathPlace />
+<professionOrOccupation>
+<XML_Serializer_Tag>Künstler</XML_Serializer_Tag>
+<XML_Serializer_Tag>Maler</XML_Serializer_Tag>
+</professionOrOccupation>
+<artworks />
+<dbpResource>http://dbpedia.org/resource/Anton_Raphael_Mengs</dbpResource>
+<abstract>Anton Raphael Mengs (* 12. März 1728 in Aussig, Böhmen; † 29. Juni 1779 in Rom) war ein deutscher Maler.</abstract>
+<wikilink>http://en.wikipedia.org/wiki/Anton_Raphael_Mengs?oldid=605147081</wikilink>
+</Person>

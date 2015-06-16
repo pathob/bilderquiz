@@ -1,0 +1,28 @@
+<Person>
+<name>Emil Nolde</name>
+<variantName>
+<XML_Serializer_Tag>Emil Hansen</XML_Serializer_Tag>
+<XML_Serializer_Tag>Emiru Norude</XML_Serializer_Tag>
+<XML_Serializer_Tag>Hans Emil Hansen</XML_Serializer_Tag>
+</variantName>
+<thumbnail>https://commons.wikimedia.org/wiki/Special:FilePath/WP_Emil_Nolde.jpg?width=270</thumbnail>
+<birthEN>August 7, 1867</birthEN>
+<birthDE>7. August 1867</birthDE>
+<deathEN>April 13, 1956</deathEN>
+<deathDE>13. April 1956</deathDE>
+<birthPlace>
+<XML_Serializer_Tag>Nolde bei Tondern</XML_Serializer_Tag>
+</birthPlace>
+<deathPlace>
+<XML_Serializer_Tag>Seebüll</XML_Serializer_Tag>
+</deathPlace>
+<professionOrOccupation>
+<XML_Serializer_Tag>Künstler</XML_Serializer_Tag>
+<XML_Serializer_Tag>Maler</XML_Serializer_Tag>
+<XML_Serializer_Tag>Graphiker</XML_Serializer_Tag>
+</professionOrOccupation>
+<artworks />
+<dbpResource>http://dbpedia.org/resource/Emil_Nolde</dbpResource>
+<abstract>Emil Nolde (* 7. August 1867 als Hans Emil Hansen in Nolde bei Buhrkall, Provinz Schleswig-Holstein; † 13. April 1956 in Seebüll) war einer der führenden Maler des Expressionismus. Er ist einer der großen Aquarellisten in der Kunst des 20. Jahrhunderts. Nolde ist bekannt für seine ausdrucksstarke Farbwahl.</abstract>
+<wikilink>http://en.wikipedia.org/wiki/Emil_Nolde?oldid=588885139</wikilink>
+</Person>

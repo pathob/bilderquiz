@@ -1,0 +1,24 @@
+<Person>
+<name>Fritz Overbeck</name>
+<variantName>
+<XML_Serializer_Tag>August Friedrich Overbeck</XML_Serializer_Tag>
+</variantName>
+<thumbnail>https://commons.wikimedia.org/wiki/Special:FilePath/Overbeck_selbstbildnis.jpg?width=270</thumbnail>
+<birthEN>September 15, 1869</birthEN>
+<birthDE>15. September 1869</birthDE>
+<deathEN>June 7, 1909</deathEN>
+<deathDE>7. Juni 1909</deathDE>
+<birthPlace />
+<deathPlace />
+<professionOrOccupation>
+<XML_Serializer_Tag>Künstler</XML_Serializer_Tag>
+<XML_Serializer_Tag>Maler</XML_Serializer_Tag>
+<XML_Serializer_Tag>Graphiker</XML_Serializer_Tag>
+<XML_Serializer_Tag>Zeichner</XML_Serializer_Tag>
+<XML_Serializer_Tag>Radierer</XML_Serializer_Tag>
+</professionOrOccupation>
+<artworks />
+<dbpResource>http://dbpedia.org/resource/Fritz_Overbeck</dbpResource>
+<abstract>Fritz Overbeck (* 15. September 1869 in Bremen; † 8. Juni 1909 in Bröcken bei Vegesack) war ein deutscher Maler und Radierer.</abstract>
+<wikilink>http://en.wikipedia.org/wiki/Fritz_Overbeck?oldid=605890767</wikilink>
+</Person>

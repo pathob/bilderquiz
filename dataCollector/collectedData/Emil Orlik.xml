@@ -1,0 +1,27 @@
+<Person>
+<name>Emil Orlik</name>
+<variantName>
+<XML_Serializer_Tag>... Orlik</XML_Serializer_Tag>
+<XML_Serializer_Tag>Emīru Orurikku</XML_Serializer_Tag>
+</variantName>
+<thumbnail>https://commons.wikimedia.org/wiki/Special:FilePath/Emil_Orlik_1932.jpg?width=270</thumbnail>
+<birthEN>July 21, 1870</birthEN>
+<birthDE>21. Juli 1870</birthDE>
+<deathEN>September 28, 1932</deathEN>
+<deathDE>28. September 1932</deathDE>
+<birthPlace>
+<XML_Serializer_Tag>Prag</XML_Serializer_Tag>
+</birthPlace>
+<deathPlace>
+<XML_Serializer_Tag>Berlin</XML_Serializer_Tag>
+</deathPlace>
+<professionOrOccupation>
+<XML_Serializer_Tag>Maler</XML_Serializer_Tag>
+<XML_Serializer_Tag>Graphiker</XML_Serializer_Tag>
+<XML_Serializer_Tag>Bühnenbildner</XML_Serializer_Tag>
+</professionOrOccupation>
+<artworks />
+<dbpResource>http://dbpedia.org/resource/Emil_Orl%C3%ADk</dbpResource>
+<abstract>Emil Orlik, eigentlich Emil Orlík, (* 21. Juli 1870 in Prag; † 28. September 1932 in Berlin) war ein böhmischer Maler, Grafiker, Fotograf und Kunsthandwerker.</abstract>
+<wikilink>http://en.wikipedia.org/wiki/Emil_Orlík?oldid=593509715</wikilink>
+</Person>

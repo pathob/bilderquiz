@@ -1,0 +1,29 @@
+<Person>
+<name>Hermann Hirzel</name>
+<variantName>
+<XML_Serializer_Tag>Hermann Robert Catumby Hirzel</XML_Serializer_Tag>
+</variantName>
+<thumbnail>https://commons.wikimedia.org/wiki/Special:FilePath/Bundesarchiv_Bild_183-1986-0718-506,_Berlin,_Vorbereitung_Sezession-Ausstellung.jpg?width=270</thumbnail>
+<birthEN>July 6, 1864</birthEN>
+<birthDE>6. Juli 1864</birthDE>
+<deathEN>June 7, 1939</deathEN>
+<deathDE>7. Juni 1939</deathDE>
+<birthPlace>
+<XML_Serializer_Tag>Buenos Aires</XML_Serializer_Tag>
+</birthPlace>
+<deathPlace>
+<XML_Serializer_Tag>Berlin</XML_Serializer_Tag>
+</deathPlace>
+<professionOrOccupation>
+<XML_Serializer_Tag>Illustrator</XML_Serializer_Tag>
+<XML_Serializer_Tag>Apotheker</XML_Serializer_Tag>
+<XML_Serializer_Tag>Maler</XML_Serializer_Tag>
+<XML_Serializer_Tag>Radierer</XML_Serializer_Tag>
+<XML_Serializer_Tag>Graphiker</XML_Serializer_Tag>
+<XML_Serializer_Tag>Zeichner</XML_Serializer_Tag>
+</professionOrOccupation>
+<artworks />
+<dbpResource>http://dbpedia.org/resource/Hermann_Hirzel</dbpResource>
+<abstract>Hermann Robert Catumby Hirzel (* 6. Juli 1864 in Buenos Aires, Argentinien; † 7. Juni 1939 in Berlin) war ein Apotheker sowie Maler, Radierer, Grafiker und Zeichner Schweizer Herkunft.</abstract>
+<wikilink>http://en.wikipedia.org/wiki/Hermann_Hirzel?oldid=583581823</wikilink>
+</Person>

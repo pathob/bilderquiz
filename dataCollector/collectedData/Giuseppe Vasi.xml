@@ -1,0 +1,25 @@
+<Person>
+<name>Giuseppe Vasi</name>
+<variantName>
+<XML_Serializer_Tag>Giuseppe Agostino Vasi</XML_Serializer_Tag>
+<XML_Serializer_Tag>Giuseppe Agostino Pietro Vasi</XML_Serializer_Tag>
+<XML_Serializer_Tag>Giuseppe A. Vasi</XML_Serializer_Tag>
+<XML_Serializer_Tag>Ioseph Vasi</XML_Serializer_Tag>
+<XML_Serializer_Tag>Joseph Vasi</XML_Serializer_Tag>
+</variantName>
+<thumbnail>https://commons.wikimedia.org/wiki/Special:FilePath/Vasi-Porta-del-Popolo.jpg?width=270</thumbnail>
+<birthEN>1710</birthEN>
+<birthDE>1710</birthDE>
+<deathEN>1782</deathEN>
+<deathDE>1782</deathDE>
+<birthPlace />
+<deathPlace />
+<professionOrOccupation>
+<XML_Serializer_Tag>Maler</XML_Serializer_Tag>
+<XML_Serializer_Tag>Graphiker</XML_Serializer_Tag>
+</professionOrOccupation>
+<artworks />
+<dbpResource>http://dbpedia.org/resource/Giuseppe_Vasi</dbpResource>
+<abstract>Giuseppe Vasi (* 27. August 1710 in Corleone auf Sizilien; † 16. April 1782 in Rom) war ein italienischer Grafiker und Vedutenstecher.</abstract>
+<wikilink>http://en.wikipedia.org/wiki/Giuseppe_Vasi?oldid=597263037</wikilink>
+</Person>

@@ -1,0 +1,27 @@
+<Person>
+<name>Tom Wesselmann</name>
+<variantName>
+<XML_Serializer_Tag>Slim Stealingworth</XML_Serializer_Tag>
+<XML_Serializer_Tag>S. Stealingworth</XML_Serializer_Tag>
+<XML_Serializer_Tag>Stealingworth</XML_Serializer_Tag>
+</variantName>
+<thumbnail>https://en.wikipedia.org/wiki/Special:FilePath/Tom_Wesselmann.jpg?width=270</thumbnail>
+<birthEN>February 23, 1931</birthEN>
+<birthDE>23. Februar 1931</birthDE>
+<deathEN>December 17, 2004</deathEN>
+<deathDE>17. Dezember 2004</deathDE>
+<birthPlace>
+<XML_Serializer_Tag>Cincinnati, Ohio</XML_Serializer_Tag>
+</birthPlace>
+<deathPlace>
+<XML_Serializer_Tag>New York, NY</XML_Serializer_Tag>
+</deathPlace>
+<professionOrOccupation>
+<XML_Serializer_Tag>Künstler</XML_Serializer_Tag>
+<XML_Serializer_Tag>Maler</XML_Serializer_Tag>
+</professionOrOccupation>
+<artworks />
+<dbpResource>http://dbpedia.org/resource/Tom_Wesselmann</dbpResource>
+<abstract>Tom Wesselmann (* 23. Februar 1931 in Cincinnati, Ohio; † 17. Dezember 2004 in New York) war ein US-amerikanischer Maler, Grafiker und Objektkünstler.</abstract>
+<wikilink>http://en.wikipedia.org/wiki/Tom_Wesselmann?oldid=603308044</wikilink>
+</Person>

@@ -1,0 +1,23 @@
+<Person>
+<name>Frank Auerbach</name>
+<variantName>
+<XML_Serializer_Tag>Frank Helmut Auerbach</XML_Serializer_Tag>
+</variantName>
+<thumbnail>https://en.wikipedia.org/wiki/Special:FilePath/Auerbach,_Head_of_E.O.W._IV.jpg?width=270</thumbnail>
+<birthEN>1931</birthEN>
+<birthDE>1931</birthDE>
+<deathEN />
+<deathDE />
+<birthPlace>
+<XML_Serializer_Tag>Berlin</XML_Serializer_Tag>
+</birthPlace>
+<deathPlace />
+<professionOrOccupation>
+<XML_Serializer_Tag>Künstler</XML_Serializer_Tag>
+<XML_Serializer_Tag>Maler</XML_Serializer_Tag>
+</professionOrOccupation>
+<artworks />
+<dbpResource>http://dbpedia.org/resource/Frank_Auerbach</dbpResource>
+<abstract>Frank Auerbach (* 29. April 1931 in Berlin; eigentlich Frank Helmut Auerbach) ist ein britischer Maler deutscher Herkunft.</abstract>
+<wikilink>http://en.wikipedia.org/wiki/Frank_Auerbach?oldid=606304441</wikilink>
+</Person>

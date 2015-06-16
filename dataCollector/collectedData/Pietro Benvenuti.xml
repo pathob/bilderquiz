@@ -1,0 +1,20 @@
+<Person>
+<name>Pietro Benvenuti</name>
+<variantName>
+<XML_Serializer_Tag>Pierre Benvenuti</XML_Serializer_Tag>
+</variantName>
+<thumbnail>https://commons.wikimedia.org/wiki/Special:FilePath/Pietro_Benvenuti.jpg?width=270</thumbnail>
+<birthEN>January 22, 1769</birthEN>
+<birthDE>22. Januar 1769</birthDE>
+<deathEN>February 3, 1844</deathEN>
+<deathDE>3. Februar 1844</deathDE>
+<birthPlace />
+<deathPlace />
+<professionOrOccupation>
+<XML_Serializer_Tag>Maler</XML_Serializer_Tag>
+</professionOrOccupation>
+<artworks />
+<dbpResource>http://dbpedia.org/resource/Pietro_Benvenuti</dbpResource>
+<abstract>Pietro Benvenuti (* 8. Januar 1769 in Arezzo; † 3. Februar 1844 in Florenz); war ein italienischer Porträt- und Historienmaler des Klassizismus.</abstract>
+<wikilink>http://en.wikipedia.org/wiki/Pietro_Benvenuti?oldid=602504879</wikilink>
+</Person>

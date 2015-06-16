@@ -1,0 +1,23 @@
+<Person>
+<name>Bernhard Rode</name>
+<variantName>
+<XML_Serializer_Tag>Christian Bernhard Rode</XML_Serializer_Tag>
+<XML_Serializer_Tag>Christian Bernhardt Rode</XML_Serializer_Tag>
+<XML_Serializer_Tag>B. Rode</XML_Serializer_Tag>
+</variantName>
+<thumbnail>https://commons.wikimedia.org/wiki/Special:FilePath/RodeCB.jpg?width=270</thumbnail>
+<birthEN>1725</birthEN>
+<birthDE>1725</birthDE>
+<deathEN>1797</deathEN>
+<deathDE>1797</deathDE>
+<birthPlace />
+<deathPlace />
+<professionOrOccupation>
+<XML_Serializer_Tag>Maler</XML_Serializer_Tag>
+<XML_Serializer_Tag>Kupferstecher</XML_Serializer_Tag>
+</professionOrOccupation>
+<artworks />
+<dbpResource>http://dbpedia.org/resource/Bernhard_Rode</dbpResource>
+<abstract>Christian Bernhard Rode (* 25. Juli 1725 in Berlin; † 28. Juni 1797 in Berlin) war ein Berliner Historienmaler in der zweiten Hälfte des 18. Jahrhunderts. Er stand in enger Verbindung zu den bestimmenden Persönlichkeiten der Berliner Aufklärung und zu deren Gedankengut, das er durch seine Werke zu verbreiten suchte.</abstract>
+<wikilink>http://en.wikipedia.org/wiki/Bernhard_Rode?oldid=570894344</wikilink>
+</Person>

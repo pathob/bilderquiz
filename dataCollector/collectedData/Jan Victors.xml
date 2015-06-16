@@ -1,0 +1,30 @@
+<Person>
+<name>Jan Victors</name>
+<variantName>
+<XML_Serializer_Tag>Johan Victors</XML_Serializer_Tag>
+<XML_Serializer_Tag>Johannes Vichtors</XML_Serializer_Tag>
+<XML_Serializer_Tag>Hans Victors</XML_Serializer_Tag>
+<XML_Serializer_Tag>Johannes Victoors</XML_Serializer_Tag>
+<XML_Serializer_Tag>Johannes Fictor</XML_Serializer_Tag>
+<XML_Serializer_Tag>Jan Victor</XML_Serializer_Tag>
+<XML_Serializer_Tag>Jan Victoor</XML_Serializer_Tag>
+<XML_Serializer_Tag>Jan Fictoor</XML_Serializer_Tag>
+</variantName>
+<thumbnail>https://commons.wikimedia.org/wiki/Special:FilePath/Jan_Victors_-_engraving.PNG?width=270</thumbnail>
+<birthEN>June 13, 1619</birthEN>
+<birthDE>13. Juni 1619</birthDE>
+<deathEN>1676</deathEN>
+<deathDE>1676</deathDE>
+<birthPlace>
+<XML_Serializer_Tag>Amsterdam</XML_Serializer_Tag>
+</birthPlace>
+<deathPlace />
+<professionOrOccupation>
+<XML_Serializer_Tag>Künstler</XML_Serializer_Tag>
+<XML_Serializer_Tag>Maler</XML_Serializer_Tag>
+</professionOrOccupation>
+<artworks />
+<dbpResource>http://dbpedia.org/resource/Jan_Victors</dbpResource>
+<abstract>Jan Victors (* 13. Juni 1619 in Amsterdam; † Dezember 1679 in Niederländisch-Indien, heute: Indonesien) war ein niederländischer Maler und Zeichner, der sich vor allem mit Historien- und Porträtmalerei befasste.</abstract>
+<wikilink>http://en.wikipedia.org/wiki/Jan_Victors?oldid=584631413</wikilink>
+</Person>

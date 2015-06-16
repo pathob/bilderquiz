@@ -1,0 +1,25 @@
+<Person>
+<name>Konrad Klapheck</name>
+<variantName>
+<XML_Serializer_Tag>Konrad Peter Cornelius Klapheck</XML_Serializer_Tag>
+</variantName>
+<thumbnail>https://commons.wikimedia.org/wiki/Special:FilePath/Konrad_Klapheck_by_Lothar_Wolleh.jpg?width=270</thumbnail>
+<birthEN>1935</birthEN>
+<birthDE>1935</birthDE>
+<deathEN />
+<deathDE />
+<birthPlace>
+<XML_Serializer_Tag>Düsseldorf</XML_Serializer_Tag>
+</birthPlace>
+<deathPlace />
+<professionOrOccupation>
+<XML_Serializer_Tag>Künstler</XML_Serializer_Tag>
+<XML_Serializer_Tag>Maler</XML_Serializer_Tag>
+<XML_Serializer_Tag>Graphiker</XML_Serializer_Tag>
+<XML_Serializer_Tag>Hochschullehrer</XML_Serializer_Tag>
+</professionOrOccupation>
+<artworks />
+<dbpResource>http://dbpedia.org/resource/Konrad_Klapheck</dbpResource>
+<abstract>Konrad Klapheck (* 10. Februar 1935 in Düsseldorf) ist ein deutscher Grafiker, Maler, Künstler und (emeritierter) Kunstprofessor an der Kunstakademie Düsseldorf. Er gilt heute als Klassiker der Nachkriegs-Avantgarde.</abstract>
+<wikilink>http://en.wikipedia.org/wiki/Konrad_Klapheck?oldid=592133872</wikilink>
+</Person>

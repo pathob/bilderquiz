@@ -1,0 +1,28 @@
+<Person>
+<name>Francesco Villamena</name>
+<variantName>
+<XML_Serializer_Tag>Franciscus Villamena</XML_Serializer_Tag>
+<XML_Serializer_Tag>Franciscus Villamaena</XML_Serializer_Tag>
+<XML_Serializer_Tag>Franciscus Villamoena</XML_Serializer_Tag>
+<XML_Serializer_Tag>Antonio Roccio</XML_Serializer_Tag>
+</variantName>
+<thumbnail>https://commons.wikimedia.org/wiki/Special:FilePath/The_Brawl_of_Bruttobuono_by_Francesco_Villamena.jpg?width=270</thumbnail>
+<birthEN>1566</birthEN>
+<birthDE>1566</birthDE>
+<deathEN>1624</deathEN>
+<deathDE>1624</deathDE>
+<birthPlace>
+<XML_Serializer_Tag>Assisi</XML_Serializer_Tag>
+</birthPlace>
+<deathPlace>
+<XML_Serializer_Tag>Rom</XML_Serializer_Tag>
+</deathPlace>
+<professionOrOccupation>
+<XML_Serializer_Tag>Maler</XML_Serializer_Tag>
+<XML_Serializer_Tag>Kupferstecher</XML_Serializer_Tag>
+</professionOrOccupation>
+<artworks />
+<dbpResource>http://dbpedia.org/resource/Francesco_Villamena</dbpResource>
+<abstract>Francesco Villamena (* 1564 in Assisi; † 7. Juli 1624 in Rom) war ein italienischer Zeichner und Kupferstecher.</abstract>
+<wikilink>http://en.wikipedia.org/wiki/Francesco_Villamena?oldid=542654520</wikilink>
+</Person>

@@ -1,0 +1,24 @@
+<Person>
+<name>Giovanni Giacometti</name>
+<variantName>
+<XML_Serializer_Tag>G. Giacometti</XML_Serializer_Tag>
+</variantName>
+<thumbnail>https://commons.wikimedia.org/wiki/Special:FilePath/Giovanni_Giacometti_-_Autoritratto.jpeg?width=270</thumbnail>
+<birthEN>March 7, 1868</birthEN>
+<birthDE>7. März 1868</birthDE>
+<deathEN>June 25, 1933</deathEN>
+<deathDE>25. Juni 1933</deathDE>
+<birthPlace>
+<XML_Serializer_Tag>Stampa</XML_Serializer_Tag>
+</birthPlace>
+<deathPlace>
+<XML_Serializer_Tag>Glion</XML_Serializer_Tag>
+</deathPlace>
+<professionOrOccupation>
+<XML_Serializer_Tag>Maler</XML_Serializer_Tag>
+</professionOrOccupation>
+<artworks />
+<dbpResource>http://dbpedia.org/resource/Giovanni_Giacometti</dbpResource>
+<abstract>Giovanni Giacometti (* 7. März 1868 in Stampa; † 25. Juni 1933 in Glion) war ein Schweizer Maler und Grafiker. Er führte zusammen mit seinem Freund, dem Maler Cuno Amiet, den Malstil des Post-Impressionismus in die Schweizer Kunst ein.</abstract>
+<wikilink>http://en.wikipedia.org/wiki/Giovanni_Giacometti?oldid=603045714</wikilink>
+</Person>

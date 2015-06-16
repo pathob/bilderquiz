@@ -1,0 +1,23 @@
+<Person>
+<name>Louis Comfort Tiffany</name>
+<variantName>
+<XML_Serializer_Tag>Louis C. Tiffany</XML_Serializer_Tag>
+<XML_Serializer_Tag>Louis Comfort Tiffany</XML_Serializer_Tag>
+</variantName>
+<thumbnail>https://commons.wikimedia.org/wiki/Special:FilePath/Louis_Comfort_Tiffany_c._1908.jpg?width=270</thumbnail>
+<birthEN>1848</birthEN>
+<birthDE>1848</birthDE>
+<deathEN>1933</deathEN>
+<deathDE>1933</deathDE>
+<birthPlace />
+<deathPlace />
+<professionOrOccupation>
+<XML_Serializer_Tag>Künstler</XML_Serializer_Tag>
+<XML_Serializer_Tag>Kunsthandwerker</XML_Serializer_Tag>
+<XML_Serializer_Tag>Maler</XML_Serializer_Tag>
+</professionOrOccupation>
+<artworks />
+<dbpResource>http://dbpedia.org/resource/Louis_Comfort_Tiffany</dbpResource>
+<abstract>Louis Comfort Tiffany (* 18. Februar 1848 in New York; † 17. Januar 1933 ebenda) war ein US-amerikanischer Maler und Glaskünstler. Er gilt als einer der bedeutendsten amerikanischen Vertreter des Jugendstils.</abstract>
+<wikilink>http://en.wikipedia.org/wiki/Louis_Comfort_Tiffany?oldid=604209315</wikilink>
+</Person>

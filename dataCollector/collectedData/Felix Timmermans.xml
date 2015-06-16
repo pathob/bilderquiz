@@ -1,0 +1,31 @@
+<Person>
+<name>Felix Timmermans</name>
+<variantName>
+<XML_Serializer_Tag>Felix Timmermanns</XML_Serializer_Tag>
+<XML_Serializer_Tag>F. Timmermanns</XML_Serializer_Tag>
+<XML_Serializer_Tag>Maximiliaan Leopold Timmermans</XML_Serializer_Tag>
+<XML_Serializer_Tag>Polleke van Mher</XML_Serializer_Tag>
+</variantName>
+<thumbnail>https://commons.wikimedia.org/wiki/Special:FilePath/Bundesarchiv_Bild_102-12722,_Felix_Timmermanns.jpg?width=270</thumbnail>
+<birthEN>July 5, 1886</birthEN>
+<birthDE>5. Juli 1886</birthDE>
+<deathEN>January 24, 1947</deathEN>
+<deathDE>24. Januar 1947</deathDE>
+<birthPlace>
+<XML_Serializer_Tag>Lier (Belgien)</XML_Serializer_Tag>
+</birthPlace>
+<deathPlace>
+<XML_Serializer_Tag>Lier (Belgien)</XML_Serializer_Tag>
+</deathPlace>
+<professionOrOccupation>
+<XML_Serializer_Tag>Schriftsteller</XML_Serializer_Tag>
+<XML_Serializer_Tag>Maler</XML_Serializer_Tag>
+<XML_Serializer_Tag>Illustrator</XML_Serializer_Tag>
+<XML_Serializer_Tag>Künstler</XML_Serializer_Tag>
+<XML_Serializer_Tag>Kunstkritiker</XML_Serializer_Tag>
+</professionOrOccupation>
+<artworks />
+<dbpResource>http://dbpedia.org/resource/Felix_Timmermans</dbpResource>
+<abstract>Felix Timmermans (* 5. Juli 1886 in Lier bei Antwerpen; † 24. Januar 1947 in Lier) war ein flämischer Schriftsteller und Maler.</abstract>
+<wikilink>http://en.wikipedia.org/wiki/Felix_Timmermans?oldid=606003679</wikilink>
+</Person>

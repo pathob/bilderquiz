@@ -1,0 +1,32 @@
+<Person>
+<name>Johann Wilhelm Baur</name>
+<variantName>
+<XML_Serializer_Tag>Johannes Guilielmus Baur</XML_Serializer_Tag>
+<XML_Serializer_Tag>Wilhelm Baur</XML_Serializer_Tag>
+<XML_Serializer_Tag>W. Baur</XML_Serializer_Tag>
+<XML_Serializer_Tag>Wilhelm Bauer</XML_Serializer_Tag>
+<XML_Serializer_Tag>Johann Wilhelm Bauer</XML_Serializer_Tag>
+<XML_Serializer_Tag>Joannes Guilielmus Baur</XML_Serializer_Tag>
+<XML_Serializer_Tag>Johannes Wilhelm Baur</XML_Serializer_Tag>
+<XML_Serializer_Tag>Johannes Wilhelm Bauer</XML_Serializer_Tag>
+</variantName>
+<thumbnail>https://commons.wikimedia.org/wiki/Special:FilePath/Johann_Wilhelm_Baur_by_Jan_Meyssens.png?width=270</thumbnail>
+<birthEN>1607</birthEN>
+<birthDE>1607</birthDE>
+<deathEN>1642</deathEN>
+<deathDE>1642</deathDE>
+<birthPlace>
+<XML_Serializer_Tag>Straßburg</XML_Serializer_Tag>
+</birthPlace>
+<deathPlace>
+<XML_Serializer_Tag>Wien</XML_Serializer_Tag>
+</deathPlace>
+<professionOrOccupation>
+<XML_Serializer_Tag>Maler</XML_Serializer_Tag>
+<XML_Serializer_Tag>Radierer</XML_Serializer_Tag>
+</professionOrOccupation>
+<artworks />
+<dbpResource>http://dbpedia.org/resource/Johann_Wilhelm_Baur</dbpResource>
+<abstract>Johann Wilhelm Baur, auch Bauer (* 31. Mai 1607 in Straßburg, Elsass; † Januar 1640 in Wien) war ein deutscher Radierer, Miniaturmaler und Kupferstecher des Barock.Er illustrierte u.a. Ovids Metamorphosen.</abstract>
+<wikilink>http://en.wikipedia.org/wiki/Johann_Wilhelm_Baur?oldid=593079500</wikilink>
+</Person>

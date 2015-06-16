@@ -1,0 +1,31 @@
+<Person>
+<name>Hans von Aachen</name>
+<variantName>
+<XML_Serializer_Tag>Hans von Achen</XML_Serializer_Tag>
+<XML_Serializer_Tag>Johann von Aachen</XML_Serializer_Tag>
+<XML_Serializer_Tag>Johann von Achen</XML_Serializer_Tag>
+<XML_Serializer_Tag>Johann von Ach</XML_Serializer_Tag>
+<XML_Serializer_Tag>Hans Ach</XML_Serializer_Tag>
+<XML_Serializer_Tag>Joh. von Ach</XML_Serializer_Tag>
+<XML_Serializer_Tag>Joh. ab Ach</XML_Serializer_Tag>
+</variantName>
+<thumbnail>https://commons.wikimedia.org/wiki/Special:FilePath/Aachen_Selbstbildnis.jpg?width=270</thumbnail>
+<birthEN>XX.XX.1552</birthEN>
+<birthDE>XX.XX.1552</birthDE>
+<deathEN>March 4, 1615</deathEN>
+<deathDE>4. März 1615</deathDE>
+<birthPlace>
+<XML_Serializer_Tag>Köln</XML_Serializer_Tag>
+</birthPlace>
+<deathPlace />
+<professionOrOccupation>
+<XML_Serializer_Tag>Künstler</XML_Serializer_Tag>
+<XML_Serializer_Tag>Maler</XML_Serializer_Tag>
+<XML_Serializer_Tag>Bildnismaler</XML_Serializer_Tag>
+<XML_Serializer_Tag>Zeichner</XML_Serializer_Tag>
+</professionOrOccupation>
+<artworks />
+<dbpResource>http://dbpedia.org/resource/Hans_von_Aachen</dbpResource>
+<abstract>Hans von Aachen (* 1552 in Köln; † 4. März 1615 in Prag), auch Johann von Aachen (nach der Geburtsstadt seines Vaters) oder Jan van Achen, Aken oder Janachen genannt, war ein deutscher, aus dem Rheinland stammender Maler mit der internationalen Laufbahn eines erfolgreichen Wanderkünstlers und Hofmalers.Hans von Aachen lebte und arbeitete in Italien, Bayern und Prag. Zu seinen Werken gehören neben zahlreichen Porträts vor allem allegorische, mythologische und religiöse Gemälde sowie eine große Anzahl von Kupferstichen und Zeichnungen.</abstract>
+<wikilink>http://en.wikipedia.org/wiki/Hans_von_Aachen?oldid=588474392</wikilink>
+</Person>

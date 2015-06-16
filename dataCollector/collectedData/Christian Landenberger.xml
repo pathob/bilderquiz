@@ -1,0 +1,25 @@
+<Person>
+<name>Christian Landenberger</name>
+<variantName>
+<XML_Serializer_Tag>Christian Adam Landenberger</XML_Serializer_Tag>
+<XML_Serializer_Tag>C. A. Landenberger</XML_Serializer_Tag>
+</variantName>
+<thumbnail>https://commons.wikimedia.org/wiki/Special:FilePath/Christian_Landenberger_See-Ufer_1913.jpg?width=270</thumbnail>
+<birthEN>April 7, 1862</birthEN>
+<birthDE>7. April 1862</birthDE>
+<deathEN>February 13, 1927</deathEN>
+<deathDE>13. Februar 1927</deathDE>
+<birthPlace>
+<XML_Serializer_Tag>Ebingen</XML_Serializer_Tag>
+</birthPlace>
+<deathPlace>
+<XML_Serializer_Tag>Stuttgart</XML_Serializer_Tag>
+</deathPlace>
+<professionOrOccupation>
+<XML_Serializer_Tag>Maler</XML_Serializer_Tag>
+</professionOrOccupation>
+<artworks />
+<dbpResource>http://dbpedia.org/resource/Christian_Landenberger</dbpResource>
+<abstract>Christian Adam Landenberger (* 7. April 1862 in Ebingen; † 13. Februar 1927 in Stuttgart) war ein impressionistischer Maler und Professor an der Stuttgarter Kunstakademie. Landenberger ist besonders durch seine Landschaftsbilder bekannt geworden.</abstract>
+<wikilink>http://en.wikipedia.org/wiki/Christian_Landenberger?oldid=603523372</wikilink>
+</Person>

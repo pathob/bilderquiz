@@ -1,0 +1,24 @@
+<Person>
+<name>Otto Nagel</name>
+<variantName>
+<XML_Serializer_Tag>Otto Nagelʹ</XML_Serializer_Tag>
+</variantName>
+<thumbnail>https://commons.wikimedia.org/wiki/Special:FilePath/Bundesarchiv_Bild_183-19000-2954,_Otto_Nagel.jpg?width=270</thumbnail>
+<birthEN>September 27, 1894</birthEN>
+<birthDE>27. September 1894</birthDE>
+<deathEN>July 12, 1967</deathEN>
+<deathDE>12. Juli 1967</deathDE>
+<birthPlace>
+<XML_Serializer_Tag>Berlin-Wedding</XML_Serializer_Tag>
+</birthPlace>
+<deathPlace>
+<XML_Serializer_Tag>Berlin-Biesdorf</XML_Serializer_Tag>
+</deathPlace>
+<professionOrOccupation>
+<XML_Serializer_Tag>Maler</XML_Serializer_Tag>
+</professionOrOccupation>
+<artworks />
+<dbpResource>http://dbpedia.org/resource/Otto_Nagel</dbpResource>
+<abstract>Otto Nagel (* 27. September 1894 in Berlin-Wedding; † 12. Juli 1967 in Berlin-Biesdorf) war ein Berliner Maler. Er wurde 1970 posthum Ehrenbürger von Berlin.</abstract>
+<wikilink>http://en.wikipedia.org/wiki/Otto_Nagel?oldid=585421581</wikilink>
+</Person>

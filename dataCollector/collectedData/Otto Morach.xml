@@ -1,0 +1,23 @@
+<Person>
+<name>Otto Morach</name>
+<variantName />
+<thumbnail>https://commons.wikimedia.org/wiki/Special:FilePath/Fritz_Baumann_Porträt_Otto_Morach_1913.jpg?width=270</thumbnail>
+<birthEN>August 2, 1887</birthEN>
+<birthDE>2. August 1887</birthDE>
+<deathEN>December 25, 1973</deathEN>
+<deathDE>25. Dezember 1973</deathDE>
+<birthPlace>
+<XML_Serializer_Tag>Hubersdorf</XML_Serializer_Tag>
+</birthPlace>
+<deathPlace>
+<XML_Serializer_Tag>Zürich</XML_Serializer_Tag>
+</deathPlace>
+<professionOrOccupation>
+<XML_Serializer_Tag>Künstler</XML_Serializer_Tag>
+<XML_Serializer_Tag>Maler</XML_Serializer_Tag>
+</professionOrOccupation>
+<artworks />
+<dbpResource>http://dbpedia.org/resource/Otto_Morach</dbpResource>
+<abstract>Otto Morach (* 2. August 1887 in Hubersdorf, Kanton Solothurn; † 25. Dezember 1973 in Zürich) war ein Schweizer Maler.</abstract>
+<wikilink>http://en.wikipedia.org/wiki/Otto_Morach?oldid=582327104</wikilink>
+</Person>

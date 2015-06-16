@@ -1,0 +1,26 @@
+<Person>
+<name>Richard Hamilton</name>
+<variantName>
+<XML_Serializer_Tag>Richard William Hamilton</XML_Serializer_Tag>
+</variantName>
+<thumbnail>https://commons.wikimedia.org/wiki/Special:FilePath/Richard_Hamilton_interviewed_at_MACBA.png?width=270</thumbnail>
+<birthEN>February 24, 1922</birthEN>
+<birthDE>24. Februar 1922</birthDE>
+<deathEN>September 13, 2011</deathEN>
+<deathDE>13. September 2011</deathDE>
+<birthPlace>
+<XML_Serializer_Tag>London</XML_Serializer_Tag>
+</birthPlace>
+<deathPlace>
+<XML_Serializer_Tag>Henley-on-Thames</XML_Serializer_Tag>
+</deathPlace>
+<professionOrOccupation>
+<XML_Serializer_Tag>Künstler</XML_Serializer_Tag>
+<XML_Serializer_Tag>Maler</XML_Serializer_Tag>
+<XML_Serializer_Tag>Graphiker</XML_Serializer_Tag>
+</professionOrOccupation>
+<artworks />
+<dbpResource>http://dbpedia.org/resource/Richard_Hamilton_(actor)</dbpResource>
+<abstract>Richard Hamilton (* 31. Dezember 1920 in Chicago, Illinois; † 21. Dezember 2004 in New York) war ein US-amerikanischer Film- und Theaterschauspieler sowie Radiosprecher.</abstract>
+<wikilink>http://en.wikipedia.org/wiki/Richard_Hamilton_(actor)?oldid=606279396</wikilink>
+</Person>

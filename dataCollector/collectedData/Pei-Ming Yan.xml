@@ -1,0 +1,23 @@
+<Person>
+<name>Pei-Ming Yan</name>
+<variantName>
+<XML_Serializer_Tag>Peiming Yan</XML_Serializer_Tag>
+<XML_Serializer_Tag>Yan Pei-Ming</XML_Serializer_Tag>
+<XML_Serializer_Tag>Yan Pei Ming</XML_Serializer_Tag>
+<XML_Serializer_Tag>Yan Pei-Ming</XML_Serializer_Tag>
+</variantName>
+<thumbnail>https://en.wikipedia.org/wiki/Special:FilePath/‘Self-portrait_(Mars)’,_oil_on_canvas_painting_by_Yan_Pei-Ming,_2000,_National_Gallery_of_Australia.jpg?width=270</thumbnail>
+<birthEN>1960</birthEN>
+<birthDE>1960</birthDE>
+<deathEN />
+<deathDE />
+<birthPlace />
+<deathPlace />
+<professionOrOccupation>
+<XML_Serializer_Tag>Maler</XML_Serializer_Tag>
+</professionOrOccupation>
+<artworks />
+<dbpResource>http://dbpedia.org/resource/Yan_Pei-Ming</dbpResource>
+<abstract>Yan Pei-Ming (* 1. Dezember 1960 in Shanghai) ist ein chinesischer Maler.</abstract>
+<wikilink>http://en.wikipedia.org/wiki/Yan_Pei-Ming?oldid=592076294</wikilink>
+</Person>

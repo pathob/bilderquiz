@@ -1,0 +1,25 @@
+<Person>
+<name>Emil Adam</name>
+<variantName>
+<XML_Serializer_Tag>Emil Franz Adam</XML_Serializer_Tag>
+</variantName>
+<thumbnail>https://commons.wikimedia.org/wiki/Special:FilePath/Emil_Adam_-_Battle_of_Wagram.jpg?width=270</thumbnail>
+<birthEN>May 20, 1843</birthEN>
+<birthDE>20. Mai 1843</birthDE>
+<deathEN>November 19, 1924</deathEN>
+<deathDE>19. November 1924</deathDE>
+<birthPlace>
+<XML_Serializer_Tag>München</XML_Serializer_Tag>
+</birthPlace>
+<deathPlace>
+<XML_Serializer_Tag>München</XML_Serializer_Tag>
+</deathPlace>
+<professionOrOccupation>
+<XML_Serializer_Tag>Künstler</XML_Serializer_Tag>
+<XML_Serializer_Tag>Maler</XML_Serializer_Tag>
+</professionOrOccupation>
+<artworks />
+<dbpResource>http://dbpedia.org/resource/Emil_Adam</dbpResource>
+<abstract>Emil Franz Adam (* 20. Mai 1843 in München; † 19. Januar 1924 in München) war ein deutscher Maler.</abstract>
+<wikilink>http://en.wikipedia.org/wiki/Emil_Adam?oldid=581810271</wikilink>
+</Person>

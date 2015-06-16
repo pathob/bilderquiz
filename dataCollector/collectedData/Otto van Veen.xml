@@ -1,0 +1,44 @@
+<Person>
+<name>Otto van Veen</name>
+<variantName>
+<XML_Serializer_Tag>Otto von Veen</XML_Serializer_Tag>
+<XML_Serializer_Tag>Otto van Vaenius</XML_Serializer_Tag>
+<XML_Serializer_Tag>Otto van Venius</XML_Serializer_Tag>
+<XML_Serializer_Tag>Otho Vaenius</XML_Serializer_Tag>
+<XML_Serializer_Tag>Octavius Vaenius</XML_Serializer_Tag>
+<XML_Serializer_Tag>Otto Vennius</XML_Serializer_Tag>
+<XML_Serializer_Tag>Otto Vaenius</XML_Serializer_Tag>
+<XML_Serializer_Tag>... Vaenius</XML_Serializer_Tag>
+<XML_Serializer_Tag>Otho Venius</XML_Serializer_Tag>
+<XML_Serializer_Tag>Otho Vaenus</XML_Serializer_Tag>
+<XML_Serializer_Tag>Octavio van Veen</XML_Serializer_Tag>
+<XML_Serializer_Tag>Othon Vaenius</XML_Serializer_Tag>
+<XML_Serializer_Tag>Otto Cornelisz Veen</XML_Serializer_Tag>
+<XML_Serializer_Tag>Otto Vaenus</XML_Serializer_Tag>
+<XML_Serializer_Tag>Ottho Vaenius</XML_Serializer_Tag>
+<XML_Serializer_Tag>Ottone Vaenio</XML_Serializer_Tag>
+<XML_Serializer_Tag>Otto Veenius</XML_Serializer_Tag>
+<XML_Serializer_Tag>Otto Venio</XML_Serializer_Tag>
+<XML_Serializer_Tag>Otto Cornelisz van Veen</XML_Serializer_Tag>
+<XML_Serializer_Tag>Othon Venius</XML_Serializer_Tag>
+</variantName>
+<thumbnail>https://commons.wikimedia.org/wiki/Special:FilePath/Otto_van_Veen.jpg?width=270</thumbnail>
+<birthEN>1556</birthEN>
+<birthDE>1556</birthDE>
+<deathEN>1629</deathEN>
+<deathDE>1629</deathDE>
+<birthPlace>
+<XML_Serializer_Tag>Leiden</XML_Serializer_Tag>
+</birthPlace>
+<deathPlace>
+<XML_Serializer_Tag>Brüssel</XML_Serializer_Tag>
+</deathPlace>
+<professionOrOccupation>
+<XML_Serializer_Tag>Künstler</XML_Serializer_Tag>
+<XML_Serializer_Tag>Maler</XML_Serializer_Tag>
+</professionOrOccupation>
+<artworks />
+<dbpResource>http://dbpedia.org/resource/Otto_van_Veen</dbpResource>
+<abstract>Otto van Veen (* 1556 in Leiden; † 1629 in Brüssel), genannt Otto Vaenius oder Venius, war ein flämischer Maler und Zeichner.</abstract>
+<wikilink>http://en.wikipedia.org/wiki/Otto_van_Veen?oldid=596387954</wikilink>
+</Person>

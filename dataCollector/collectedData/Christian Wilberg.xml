@@ -1,0 +1,24 @@
+<Person>
+<name>Christian Wilberg</name>
+<variantName />
+<thumbnail>https://commons.wikimedia.org/wiki/Special:FilePath/Christian_Wilberg_Abendstimmung_im_Park_einer_italienischen_Villa.jpg?width=270</thumbnail>
+<birthEN>November 20, 1839</birthEN>
+<birthDE>20. November 1839</birthDE>
+<deathEN>March 6, 1882</deathEN>
+<deathDE>6. März 1882</deathDE>
+<birthPlace>
+<XML_Serializer_Tag>Havelberg</XML_Serializer_Tag>
+</birthPlace>
+<deathPlace>
+<XML_Serializer_Tag>Paris</XML_Serializer_Tag>
+</deathPlace>
+<professionOrOccupation>
+<XML_Serializer_Tag>Künstler</XML_Serializer_Tag>
+<XML_Serializer_Tag>Maler</XML_Serializer_Tag>
+<XML_Serializer_Tag>Radierer</XML_Serializer_Tag>
+</professionOrOccupation>
+<artworks />
+<dbpResource>http://dbpedia.org/resource/Christian_Wilberg</dbpResource>
+<abstract>Christian Wilberg (* 20. November 1839 in Havelberg; † 3. Juni 1882 in Paris) war ein deutscher Maler.</abstract>
+<wikilink>http://en.wikipedia.org/wiki/Christian_Wilberg?oldid=589310967</wikilink>
+</Person>

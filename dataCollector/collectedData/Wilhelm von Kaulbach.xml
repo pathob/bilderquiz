@@ -1,0 +1,35 @@
+<Person>
+<name>Wilhelm von Kaulbach</name>
+<variantName>
+<XML_Serializer_Tag>W. von Kaulbach</XML_Serializer_Tag>
+<XML_Serializer_Tag>Wilhelm de Kaulbach</XML_Serializer_Tag>
+<XML_Serializer_Tag>Wilhelm Kaulbach</XML_Serializer_Tag>
+<XML_Serializer_Tag>William Kaulbach</XML_Serializer_Tag>
+<XML_Serializer_Tag>W. Kaulbach</XML_Serializer_Tag>
+<XML_Serializer_Tag>Bernhard Wilhelm Eliodorus von Kaulbach</XML_Serializer_Tag>
+<XML_Serializer_Tag>Vil&apos;gelm Kaul&apos;bach</XML_Serializer_Tag>
+<XML_Serializer_Tag>Vil&apos;gel&apos;m von Kaul&apos;bach</XML_Serializer_Tag>
+<XML_Serializer_Tag>Vil&apos;gel&apos;m Kaul&apos;bach</XML_Serializer_Tag>
+</variantName>
+<thumbnail>https://commons.wikimedia.org/wiki/Special:FilePath/Porträt_Wilhelm_von_Kaulbach_1864.jpg?width=270</thumbnail>
+<birthEN>October 15, 1805</birthEN>
+<birthDE>15. Oktober 1805</birthDE>
+<deathEN>April 7, 1874</deathEN>
+<deathDE>7. April 1874</deathDE>
+<birthPlace>
+<XML_Serializer_Tag>Bad Arolsen</XML_Serializer_Tag>
+</birthPlace>
+<deathPlace>
+<XML_Serializer_Tag>München</XML_Serializer_Tag>
+</deathPlace>
+<professionOrOccupation>
+<XML_Serializer_Tag>Künstler</XML_Serializer_Tag>
+<XML_Serializer_Tag>Maler</XML_Serializer_Tag>
+<XML_Serializer_Tag>Bildnismaler</XML_Serializer_Tag>
+<XML_Serializer_Tag>Illustrator</XML_Serializer_Tag>
+</professionOrOccupation>
+<artworks />
+<dbpResource>http://dbpedia.org/resource/Wilhelm_von_Kaulbach</dbpResource>
+<abstract>Wilhelm von Kaulbach (* 15. Oktober 1805 in Arolsen; † 7. April 1874 in München) war ein deutscher Maler, der durch große Wand- und Deckengemälde mit geschichtlichem Inhalt und Literaturillustrationen bekannt wurde.</abstract>
+<wikilink>http://en.wikipedia.org/wiki/Wilhelm_von_Kaulbach?oldid=599751170</wikilink>
+</Person>

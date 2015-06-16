@@ -1,0 +1,56 @@
+<Person>
+<name>Max Beckmann</name>
+<variantName>
+<XML_Serializer_Tag>Max Carl Friedrich Beckmann</XML_Serializer_Tag>
+<XML_Serializer_Tag>Maks Bekman</XML_Serializer_Tag>
+<XML_Serializer_Tag>... Beckmann</XML_Serializer_Tag>
+</variantName>
+<thumbnail>https://en.wikipedia.org/wiki/Special:FilePath/Max_Beckmann&apos;s_&apos;Self-portrait_with_Horn&apos;,_1938-1940.jpg?width=270</thumbnail>
+<birthEN>February 12, 1884</birthEN>
+<birthDE>12. Februar 1884</birthDE>
+<deathEN>December 27, 1950</deathEN>
+<deathDE>27. Dezember 1950</deathDE>
+<birthPlace>
+<XML_Serializer_Tag>Leipzig</XML_Serializer_Tag>
+</birthPlace>
+<deathPlace>
+<XML_Serializer_Tag>New York, NY</XML_Serializer_Tag>
+</deathPlace>
+<professionOrOccupation>
+<XML_Serializer_Tag>Maler</XML_Serializer_Tag>
+<XML_Serializer_Tag>Graphiker</XML_Serializer_Tag>
+<XML_Serializer_Tag>Illustrator</XML_Serializer_Tag>
+<XML_Serializer_Tag>Hochschullehrer</XML_Serializer_Tag>
+<XML_Serializer_Tag>Dramatiker</XML_Serializer_Tag>
+<XML_Serializer_Tag>Pazifist</XML_Serializer_Tag>
+</professionOrOccupation>
+<artworks>
+<XML_Serializer_Tag>
+<painting>
+<type>uri</type>
+<value>http://dbpedia.org/resource/The_Night_(painting)</value>
+</painting>
+<thumbnail>
+<type>uri</type>
+<value>http://en.wikipedia.org/wiki/Special:FilePath/Max_Beckmann,_1918-19,_The_Night_(Die_Nacht),_oil_on_canvas,_133_x_154_cm,_Kunstsammlung_Nordrhein-Westfalen,_Düsseldorf.jpg?width=300</value>
+</thumbnail>
+<name>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>The Night (Die Nacht)</value>
+</name>
+<year>
+<type>typed-literal</type>
+<datatype>http://www.w3.org/2001/XMLSchema#integer</datatype>
+<value>1918</value>
+</year>
+<wikilink>
+<type>uri</type>
+<value>http://en.wikipedia.org/wiki/The_Night_(painting)?oldid=602526292</value>
+</wikilink>
+</XML_Serializer_Tag>
+</artworks>
+<dbpResource>http://dbpedia.org/resource/Max_Beckmann</dbpResource>
+<abstract>Max Carl Friedrich Beckmann (* 12. Februar 1884 in Leipzig; † 27. Dezember 1950 in New York City) war ein deutscher Maler, Graphiker, Bildhauer, Autor und Hochschullehrer. Beckmann griff die Malerei des ausgehenden 19. Jahrhunderts ebenso auf wie die kunsthistorische Tradition und formte einen figurenstarken Stil, den er ab 1911 der aufkommenden Gegenstandslosigkeit entgegensetzte.Beckmann war in seiner frühen Zeit Mitglied der Berliner Secession, stilisierte sich dann aber lieber als Einzelgänger. Der Moderne, insbesondere Pablo Picasso und dem Kubismus, setzte er eine eigenwillige Räumlichkeit entgegen. Zudem entwickelte er eine erzählende und mythenschaffende Malerei, insbesondere in zehn Triptychen. Besondere Bedeutung kommt Beckmann als prägnantem Zeichner, Porträtisten (auch zahlreicher Selbstporträts) und als subtilem Illustrator zu. Der Kunstsammler Heinz Berggruen nennt Max Beckmann den bedeutendsten deutschen Künstler des 20. Jahrhunderts neben Ernst Ludwig Kirchner.</abstract>
+<wikilink>http://en.wikipedia.org/wiki/Max_Beckmann?oldid=602846278</wikilink>
+</Person>

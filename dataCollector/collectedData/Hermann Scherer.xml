@@ -1,0 +1,25 @@
+<Person>
+<name>Hermann Scherer</name>
+<variantName>
+<XML_Serializer_Tag>August Hermann Scherer</XML_Serializer_Tag>
+</variantName>
+<thumbnail>https://commons.wikimedia.org/wiki/Special:FilePath/Hermann_Scherer_by_Hermann_Scherer_(1893-1927).jpg?width=270</thumbnail>
+<birthEN>1893</birthEN>
+<birthDE>1893</birthDE>
+<deathEN>1927</deathEN>
+<deathDE>1927</deathDE>
+<birthPlace>
+<XML_Serializer_Tag>Rümmingen</XML_Serializer_Tag>
+</birthPlace>
+<deathPlace />
+<professionOrOccupation>
+<XML_Serializer_Tag>Künstler</XML_Serializer_Tag>
+<XML_Serializer_Tag>Bildhauer</XML_Serializer_Tag>
+<XML_Serializer_Tag>Maler</XML_Serializer_Tag>
+<XML_Serializer_Tag>Holzschneider</XML_Serializer_Tag>
+</professionOrOccupation>
+<artworks />
+<dbpResource>http://dbpedia.org/resource/Hermann_Scherer</dbpResource>
+<abstract>Hermann Scherer (* 8. Februar 1893 in Rümmingen (Markgräflerland); † 13. Mai 1927 Basel) war ein deutsch-schweizerischer Maler des Expressionismus.</abstract>
+<wikilink>http://en.wikipedia.org/wiki/Hermann_Scherer?oldid=582320658</wikilink>
+</Person>

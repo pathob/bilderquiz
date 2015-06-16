@@ -1,0 +1,25 @@
+<Person>
+<name>Andrea Appiani</name>
+<variantName>
+<XML_Serializer_Tag>Andreas Appiani</XML_Serializer_Tag>
+</variantName>
+<thumbnail>https://commons.wikimedia.org/wiki/Special:FilePath/Andrea_Appiani_001.jpg?width=270</thumbnail>
+<birthEN>May 23, 1754</birthEN>
+<birthDE>23. Mai 1754</birthDE>
+<deathEN>November 8, 1817</deathEN>
+<deathDE>8. November 1817</deathDE>
+<birthPlace>
+<XML_Serializer_Tag>Mailand</XML_Serializer_Tag>
+</birthPlace>
+<deathPlace>
+<XML_Serializer_Tag>Mailand</XML_Serializer_Tag>
+</deathPlace>
+<professionOrOccupation>
+<XML_Serializer_Tag>Maler</XML_Serializer_Tag>
+<XML_Serializer_Tag>Bildnismaler</XML_Serializer_Tag>
+</professionOrOccupation>
+<artworks />
+<dbpResource>http://dbpedia.org/resource/Andrea_Appiani</dbpResource>
+<abstract>Andrea Appiani (* 23. Mai 1754 in Mailand; † 8. November 1817 ebenda) war ein italienischer Maler des Klassizismus, der von seinen Zeitgenossen der Maler der Grazien genannt wurde.</abstract>
+<wikilink>http://en.wikipedia.org/wiki/Andrea_Appiani?oldid=606007247</wikilink>
+</Person>

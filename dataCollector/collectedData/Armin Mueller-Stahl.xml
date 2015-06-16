@@ -1,0 +1,29 @@
+<Person>
+<name>Armin Mueller-Stahl</name>
+<variantName>
+<XML_Serializer_Tag>Armin Mueller-Stahl</XML_Serializer_Tag>
+<XML_Serializer_Tag>Armin Müller-Stahl</XML_Serializer_Tag>
+</variantName>
+<thumbnail>https://commons.wikimedia.org/wiki/Special:FilePath/Armin_mueller-stahl.jpg?width=270</thumbnail>
+<birthEN>1930</birthEN>
+<birthDE>1930</birthDE>
+<deathEN />
+<deathDE />
+<birthPlace>
+<XML_Serializer_Tag>Tilsit</XML_Serializer_Tag>
+</birthPlace>
+<deathPlace />
+<professionOrOccupation>
+<XML_Serializer_Tag>Musiker</XML_Serializer_Tag>
+<XML_Serializer_Tag>Maler</XML_Serializer_Tag>
+<XML_Serializer_Tag>Graphiker</XML_Serializer_Tag>
+<XML_Serializer_Tag>Schriftsteller</XML_Serializer_Tag>
+<XML_Serializer_Tag>Schauspieler</XML_Serializer_Tag>
+<XML_Serializer_Tag>Regisseur</XML_Serializer_Tag>
+<XML_Serializer_Tag>Drehbuchautor</XML_Serializer_Tag>
+</professionOrOccupation>
+<artworks />
+<dbpResource>http://dbpedia.org/resource/Armin_Mueller-Stahl</dbpResource>
+<abstract>Armin Mueller-Stahl (* 17. Dezember 1930 in Tilsit, Ostpreußen) ist ein deutscher Schauspieler, Musiker, Maler und Schriftsteller. Als einziger deutscher Filmschauspieler erhielt er in beiden deutschen Staaten und auch in Hollywoods Filmindustrie große Anerkennung.</abstract>
+<wikilink>http://en.wikipedia.org/wiki/Armin_Mueller-Stahl?oldid=604900526</wikilink>
+</Person>

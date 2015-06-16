@@ -1,0 +1,27 @@
+<Person>
+<name>Ferdinand Olivier</name>
+<variantName>
+<XML_Serializer_Tag>Ferdinand von Olivier</XML_Serializer_Tag>
+<XML_Serializer_Tag>Ferd. von Olivier</XML_Serializer_Tag>
+<XML_Serializer_Tag>Johann Heinrich Ferdinand Olivier</XML_Serializer_Tag>
+<XML_Serializer_Tag>Johann Heinrich Ferdinand von Olivier</XML_Serializer_Tag>
+</variantName>
+<thumbnail>https://commons.wikimedia.org/wiki/Special:FilePath/Julius_Schnorr_von_Carolsfeld_-_Ferdinand_Olivier_1817.jpg?width=270</thumbnail>
+<birthEN>April 1, 1785</birthEN>
+<birthDE>1. April 1785</birthDE>
+<deathEN>February 11, 1841</deathEN>
+<deathDE>11. Februar 1841</deathDE>
+<birthPlace />
+<deathPlace />
+<professionOrOccupation>
+<XML_Serializer_Tag>Künstler</XML_Serializer_Tag>
+<XML_Serializer_Tag>Maler</XML_Serializer_Tag>
+<XML_Serializer_Tag>Landschaftsmaler</XML_Serializer_Tag>
+<XML_Serializer_Tag>Lithograph</XML_Serializer_Tag>
+<XML_Serializer_Tag>Graphiker</XML_Serializer_Tag>
+</professionOrOccupation>
+<artworks />
+<dbpResource>http://dbpedia.org/resource/Ferdinand_Olivier</dbpResource>
+<abstract>Johann Heinrich Ferdinand Olivier, gen. der Jüngere (* 1. April 1785 in Dessau; † 11. Februar 1841 in München) war ein deutscher Maler und Grafiker. Künstlerisch stand er den Nazarenern nahe.</abstract>
+<wikilink>http://en.wikipedia.org/wiki/Ferdinand_Olivier?oldid=600222555</wikilink>
+</Person>

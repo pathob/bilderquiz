@@ -1,0 +1,28 @@
+<Person>
+<name>Ludwig Lindenschmit</name>
+<variantName>
+<XML_Serializer_Tag>, Senior</XML_Serializer_Tag>
+<XML_Serializer_Tag>, der Ältere</XML_Serializer_Tag>
+</variantName>
+<thumbnail>https://commons.wikimedia.org/wiki/Special:FilePath/Gutenberg_Thorvaldsen_1.JPG?width=270</thumbnail>
+<birthEN>September 4, 1809</birthEN>
+<birthDE>4. September 1809</birthDE>
+<deathEN>February 14, 1893</deathEN>
+<deathDE>14. Februar 1893</deathDE>
+<birthPlace>
+<XML_Serializer_Tag>Mainz</XML_Serializer_Tag>
+</birthPlace>
+<deathPlace>
+<XML_Serializer_Tag>Mainz</XML_Serializer_Tag>
+</deathPlace>
+<professionOrOccupation>
+<XML_Serializer_Tag>Archäologe</XML_Serializer_Tag>
+<XML_Serializer_Tag>Prähistoriker</XML_Serializer_Tag>
+<XML_Serializer_Tag>Maler</XML_Serializer_Tag>
+<XML_Serializer_Tag>Kunsterzieher</XML_Serializer_Tag>
+</professionOrOccupation>
+<artworks />
+<dbpResource>http://dbpedia.org/resource/Ludwig_Lindenschmit_the_Elder</dbpResource>
+<abstract>Ludwig Lindenschmit der Ältere (auch Lindenschmidt; * 4. September 1809 in Mainz; † 14. Februar 1893 ebenda) war ein deutscher Prähistoriker, Pionier der Urgeschichtsforschung, Historienmaler, Lithograf und Zeichenlehrer. Er ist Mitglied der Künstlerfamilie Lindenschmit, die sich über vier Generationen hinweg von Mainz nach Aschaffenburg, Frankfurt am Main und München verzweigte.</abstract>
+<wikilink>http://en.wikipedia.org/wiki/Ludwig_Lindenschmit_the_Elder?oldid=596604028</wikilink>
+</Person>

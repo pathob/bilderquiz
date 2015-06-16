@@ -1,0 +1,23 @@
+<Person>
+<name>Eduard Bitterlich</name>
+<variantName />
+<thumbnail>https://commons.wikimedia.org/wiki/Special:FilePath/Eduard_Bitterlich_-_Porträt_einer_Dame.jpg?width=270</thumbnail>
+<birthEN>August 17, 1833</birthEN>
+<birthDE>17. August 1833</birthDE>
+<deathEN>May 20, 1872</deathEN>
+<deathDE>20. Mai 1872</deathDE>
+<birthPlace>
+<XML_Serializer_Tag>Stupnicka &lt;Galizien&gt;</XML_Serializer_Tag>
+</birthPlace>
+<deathPlace>
+<XML_Serializer_Tag>Pfalzau bei Preßbaum &lt;NÖ&gt;</XML_Serializer_Tag>
+</deathPlace>
+<professionOrOccupation>
+<XML_Serializer_Tag>Maler</XML_Serializer_Tag>
+<XML_Serializer_Tag>Bildhauer</XML_Serializer_Tag>
+</professionOrOccupation>
+<artworks />
+<dbpResource>http://dbpedia.org/resource/Eduard_Bitterlich</dbpResource>
+<abstract>Eduard Bitterlich (* 17. August 1833 in Dubljany (Galizien heute Ukraine); † 20. Mai 1872 in der Pfalzau (Gemeinde Pressbaum), Niederösterreich) war ein österreichischer Maler und Bildhauer.</abstract>
+<wikilink>http://en.wikipedia.org/wiki/Eduard_Bitterlich?oldid=581612931</wikilink>
+</Person>

@@ -1,0 +1,350 @@
+<Person>
+<name>James McNeill Whistler</name>
+<variantName>
+<XML_Serializer_Tag>James Abbott MacNeill Whistler</XML_Serializer_Tag>
+<XML_Serializer_Tag>James MacNeill Whistler</XML_Serializer_Tag>
+<XML_Serializer_Tag>James Abbott McNeill Whistler</XML_Serializer_Tag>
+<XML_Serializer_Tag>James Abbott McNeill Whistler</XML_Serializer_Tag>
+<XML_Serializer_Tag>James Abbott McNeill Whistler</XML_Serializer_Tag>
+<XML_Serializer_Tag>James Whistler</XML_Serializer_Tag>
+<XML_Serializer_Tag>James McNeil Whistler</XML_Serializer_Tag>
+<XML_Serializer_Tag>James McNeill Whistler</XML_Serializer_Tag>
+<XML_Serializer_Tag>James Abbott MacNeill Whistler</XML_Serializer_Tag>
+<XML_Serializer_Tag>James Abbott MacNeill Whistler</XML_Serializer_Tag>
+<XML_Serializer_Tag>James Mac Neill Whistler</XML_Serializer_Tag>
+<XML_Serializer_Tag>Dzhems Mak Neil&apos; Uistler</XML_Serializer_Tag>
+<XML_Serializer_Tag>J. A. McN. Whistler</XML_Serializer_Tag>
+<XML_Serializer_Tag>J. McNeill Whistler</XML_Serializer_Tag>
+<XML_Serializer_Tag>J.  A. McNeill Whistler</XML_Serializer_Tag>
+<XML_Serializer_Tag>James MacNeill Whistler</XML_Serializer_Tag>
+<XML_Serializer_Tag>James M&apos;Neill Whistler</XML_Serializer_Tag>
+<XML_Serializer_Tag>J. M&apos;Neill Whistler</XML_Serializer_Tag>
+<XML_Serializer_Tag>J. M&apos;Neill Whistler</XML_Serializer_Tag>
+<XML_Serializer_Tag>James M&apos;Neill Whistler</XML_Serializer_Tag>
+</variantName>
+<thumbnail>https://de.wikipedia.org/wiki/Special:FilePath/Photo_James_McNeill_Whistler.jpg?width=270</thumbnail>
+<birthEN>1834</birthEN>
+<birthDE>1834</birthDE>
+<deathEN>1903</deathEN>
+<deathDE>1903</deathDE>
+<birthPlace />
+<deathPlace />
+<professionOrOccupation>
+<XML_Serializer_Tag>Künstler</XML_Serializer_Tag>
+<XML_Serializer_Tag>Maler</XML_Serializer_Tag>
+<XML_Serializer_Tag>Graphiker</XML_Serializer_Tag>
+</professionOrOccupation>
+<artworks>
+<XML_Serializer_Tag>
+<painting>
+<type>uri</type>
+<value>http://dbpedia.org/resource/Salon_des_Refus%C3%A9s</value>
+</painting>
+<thumbnail>
+<type>uri</type>
+<value>http://commons.wikimedia.org/wiki/Special:FilePath/Palais_de_l&apos;Industrie_-_Édouard_Baldus.jpg?width=300</value>
+</thumbnail>
+<name>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>Symphony in White, No. 1: The White Girl</value>
+</name>
+<year>
+<type>typed-literal</type>
+<datatype>http://www.w3.org/2001/XMLSchema#integer</datatype>
+<value>1861</value>
+</year>
+<abstract>
+<type>literal</type>
+<xml:lang>de</xml:lang>
+<value>Der Salon des Refusés, auch als Salon der Refüsierten oder als Salon der Zurückgewiesenen bekannt, war eine Parallelausstellung zur offiziellen französischen Kunstausstellung, in der diejenigen Gemälde und Plastiken gezeigt wurden, welche in den 1860er und 1870er Jahren von der Jury des Pariser Salons zurückgewiesen worden waren. Die kunstgeschichtlich bedeutsamste Ausstellung ist die von 1863, die auf Initiative von Napoléon III. zustande kam, nachdem die Jury aufgrund ihrer Auswahlmethoden in die Kritik geraten war.</value>
+</abstract>
+<wikilink>
+<type>uri</type>
+<value>http://en.wikipedia.org/wiki/Salon_des_Refusés?oldid=605892431</value>
+</wikilink>
+</XML_Serializer_Tag>
+<XML_Serializer_Tag>
+<painting>
+<type>uri</type>
+<value>http://dbpedia.org/resource/Salon_des_Refus%C3%A9s</value>
+</painting>
+<thumbnail>
+<type>uri</type>
+<value>http://commons.wikimedia.org/wiki/Special:FilePath/Palais_de_l&apos;Industrie_-_Édouard_Baldus.jpg?width=300</value>
+</thumbnail>
+<name>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>Symphony in White, No. 1: The White Girl</value>
+</name>
+<year>
+<type>typed-literal</type>
+<datatype>http://www.w3.org/2001/XMLSchema#integer</datatype>
+<value>1862</value>
+</year>
+<abstract>
+<type>literal</type>
+<xml:lang>de</xml:lang>
+<value>Der Salon des Refusés, auch als Salon der Refüsierten oder als Salon der Zurückgewiesenen bekannt, war eine Parallelausstellung zur offiziellen französischen Kunstausstellung, in der diejenigen Gemälde und Plastiken gezeigt wurden, welche in den 1860er und 1870er Jahren von der Jury des Pariser Salons zurückgewiesen worden waren. Die kunstgeschichtlich bedeutsamste Ausstellung ist die von 1863, die auf Initiative von Napoléon III. zustande kam, nachdem die Jury aufgrund ihrer Auswahlmethoden in die Kritik geraten war.</value>
+</abstract>
+<wikilink>
+<type>uri</type>
+<value>http://en.wikipedia.org/wiki/Salon_des_Refusés?oldid=605892431</value>
+</wikilink>
+</XML_Serializer_Tag>
+<XML_Serializer_Tag>
+<painting>
+<type>uri</type>
+<value>http://dbpedia.org/resource/Salon_des_Refus%C3%A9s</value>
+</painting>
+<thumbnail>
+<type>uri</type>
+<value>http://commons.wikimedia.org/wiki/Special:FilePath/Palais_de_l&apos;Industrie_-_Édouard_Baldus.jpg?width=300</value>
+</thumbnail>
+<name>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>The Luncheon on the Grass</value>
+</name>
+<year>
+<type>typed-literal</type>
+<datatype>http://www.w3.org/2001/XMLSchema#integer</datatype>
+<value>1861</value>
+</year>
+<abstract>
+<type>literal</type>
+<xml:lang>de</xml:lang>
+<value>Der Salon des Refusés, auch als Salon der Refüsierten oder als Salon der Zurückgewiesenen bekannt, war eine Parallelausstellung zur offiziellen französischen Kunstausstellung, in der diejenigen Gemälde und Plastiken gezeigt wurden, welche in den 1860er und 1870er Jahren von der Jury des Pariser Salons zurückgewiesen worden waren. Die kunstgeschichtlich bedeutsamste Ausstellung ist die von 1863, die auf Initiative von Napoléon III. zustande kam, nachdem die Jury aufgrund ihrer Auswahlmethoden in die Kritik geraten war.</value>
+</abstract>
+<wikilink>
+<type>uri</type>
+<value>http://en.wikipedia.org/wiki/Salon_des_Refusés?oldid=605892431</value>
+</wikilink>
+</XML_Serializer_Tag>
+<XML_Serializer_Tag>
+<painting>
+<type>uri</type>
+<value>http://dbpedia.org/resource/Salon_des_Refus%C3%A9s</value>
+</painting>
+<thumbnail>
+<type>uri</type>
+<value>http://commons.wikimedia.org/wiki/Special:FilePath/Palais_de_l&apos;Industrie_-_Édouard_Baldus.jpg?width=300</value>
+</thumbnail>
+<name>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>The Luncheon on the Grass</value>
+</name>
+<year>
+<type>typed-literal</type>
+<datatype>http://www.w3.org/2001/XMLSchema#integer</datatype>
+<value>1862</value>
+</year>
+<abstract>
+<type>literal</type>
+<xml:lang>de</xml:lang>
+<value>Der Salon des Refusés, auch als Salon der Refüsierten oder als Salon der Zurückgewiesenen bekannt, war eine Parallelausstellung zur offiziellen französischen Kunstausstellung, in der diejenigen Gemälde und Plastiken gezeigt wurden, welche in den 1860er und 1870er Jahren von der Jury des Pariser Salons zurückgewiesen worden waren. Die kunstgeschichtlich bedeutsamste Ausstellung ist die von 1863, die auf Initiative von Napoléon III. zustande kam, nachdem die Jury aufgrund ihrer Auswahlmethoden in die Kritik geraten war.</value>
+</abstract>
+<wikilink>
+<type>uri</type>
+<value>http://en.wikipedia.org/wiki/Salon_des_Refusés?oldid=605892431</value>
+</wikilink>
+</XML_Serializer_Tag>
+<XML_Serializer_Tag>
+<painting>
+<type>uri</type>
+<value>http://dbpedia.org/resource/Nocturne_in_Black_and_Gold_%E2%80%93_The_Falling_Rocket</value>
+</painting>
+<thumbnail>
+<type>uri</type>
+<value>http://en.wikipedia.org/wiki/Special:FilePath/Whistler-Nocturne_in_black_and_gold.jpg?width=300</value>
+</thumbnail>
+<name>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>Nocturne in Black and Gold – The Falling Rocket</value>
+</name>
+<year>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>circa 1872–77</value>
+</year>
+<abstract>
+<type>literal</type>
+<xml:lang>de</xml:lang>
+<value>Nocturne in Black and Gold: The Falling Rocket (deutsch: Nocturne in Schwarz und Gold: Die fallende Rakete) ist ein tonalistisches Öl-Gemälde des US-amerikanischen Malers James McNeill Whistler, das in die Geschichte der Kunstkritik eingegangen ist.</value>
+</abstract>
+<wikilink>
+<type>uri</type>
+<value>http://en.wikipedia.org/wiki/Nocturne_in_Black_and_Gold_–_The_Falling_Rocket?oldid=603410773</value>
+</wikilink>
+</XML_Serializer_Tag>
+<XML_Serializer_Tag>
+<painting>
+<type>uri</type>
+<value>http://dbpedia.org/resource/Whistler&apos;s_Mother</value>
+</painting>
+<thumbnail>
+<type>uri</type>
+<value>http://en.wikipedia.org/wiki/Special:FilePath/Whistlers_Mother_high_res.jpg?width=300</value>
+</thumbnail>
+<name>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>Arrangement in Grey and Black No.1</value>
+</name>
+<abstract>
+<type>literal</type>
+<xml:lang>de</xml:lang>
+<value>Arrangement in Grau und Schwarz: Porträt der Mutter des Künstlers (englisch: Arrangement in Grey and Black: The Artist&apos;s Mother) ist eines der bekanntesten Gemälde des amerikanischen Künstlers James Abbott McNeill Whistler. Der geläufige englische Titel des Bildes ist Whistler&apos;s Mother (deutsch: Whistlers Mutter).</value>
+</abstract>
+<wikilink>
+<type>uri</type>
+<value>http://en.wikipedia.org/wiki/Whistler&apos;s_Mother?oldid=605627564</value>
+</wikilink>
+</XML_Serializer_Tag>
+<XML_Serializer_Tag>
+<painting>
+<type>uri</type>
+<value>http://dbpedia.org/resource/Nocturne:_Blue_and_Gold_%E2%80%93_Old_Battersea_Bridge</value>
+</painting>
+<thumbnail>
+<type>uri</type>
+<value>http://commons.wikimedia.org/wiki/Special:FilePath/James_Abbot_McNeill_Whistler_006.jpg?width=300</value>
+</thumbnail>
+<name>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>Old Battersea Bridge</value>
+</name>
+<year>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>c. 1872–1875</value>
+</year>
+<wikilink>
+<type>uri</type>
+<value>http://en.wikipedia.org/wiki/Nocturne:_Blue_and_Gold_–_Old_Battersea_Bridge?oldid=592618974</value>
+</wikilink>
+</XML_Serializer_Tag>
+<XML_Serializer_Tag>
+<painting>
+<type>uri</type>
+<value>http://dbpedia.org/resource/Nocturne:_Blue_and_Gold_%E2%80%93_Old_Battersea_Bridge</value>
+</painting>
+<thumbnail>
+<type>uri</type>
+<value>http://commons.wikimedia.org/wiki/Special:FilePath/James_Abbot_McNeill_Whistler_006.jpg?width=300</value>
+</thumbnail>
+<name>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>Nocturne: Blue and Gold —</value>
+</name>
+<year>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>c. 1872–1875</value>
+</year>
+<wikilink>
+<type>uri</type>
+<value>http://en.wikipedia.org/wiki/Nocturne:_Blue_and_Gold_–_Old_Battersea_Bridge?oldid=592618974</value>
+</wikilink>
+</XML_Serializer_Tag>
+<XML_Serializer_Tag>
+<painting>
+<type>uri</type>
+<value>http://dbpedia.org/resource/Symphony_in_White,_No._1:_The_White_Girl</value>
+</painting>
+<thumbnail>
+<type>uri</type>
+<value>http://commons.wikimedia.org/wiki/Special:FilePath/Whistler_James_Symphony_in_White_no_1_(The_White_Girl)_1862.jpg?width=300</value>
+</thumbnail>
+<name>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>Symphony in White, No. 1: The White Girl</value>
+</name>
+<year>
+<type>typed-literal</type>
+<datatype>http://www.w3.org/2001/XMLSchema#integer</datatype>
+<value>1861</value>
+</year>
+<wikilink>
+<type>uri</type>
+<value>http://en.wikipedia.org/wiki/Symphony_in_White,_No._1:_The_White_Girl?oldid=604958813</value>
+</wikilink>
+</XML_Serializer_Tag>
+<XML_Serializer_Tag>
+<painting>
+<type>uri</type>
+<value>http://dbpedia.org/resource/Symphony_in_White,_No._2:_The_Little_White_Girl</value>
+</painting>
+<thumbnail>
+<type>uri</type>
+<value>http://commons.wikimedia.org/wiki/Special:FilePath/Whistler_James_Symphony_in_White_no_2_(The_Little_White_Girl)_1864.jpg?width=300</value>
+</thumbnail>
+<name>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>Symphony in White, No. 2: The Little White Girl</value>
+</name>
+<year>
+<type>typed-literal</type>
+<datatype>http://www.w3.org/2001/XMLSchema#integer</datatype>
+<value>1864</value>
+</year>
+<wikilink>
+<type>uri</type>
+<value>http://en.wikipedia.org/wiki/Symphony_in_White,_No._2:_The_Little_White_Girl?oldid=606314426</value>
+</wikilink>
+</XML_Serializer_Tag>
+<XML_Serializer_Tag>
+<painting>
+<type>uri</type>
+<value>http://dbpedia.org/resource/Symphony_in_White,_No._3</value>
+</painting>
+<thumbnail>
+<type>uri</type>
+<value>http://commons.wikimedia.org/wiki/Special:FilePath/Whistler_James_Symphony_in_White_No_3_1866.jpg?width=300</value>
+</thumbnail>
+<name>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>Symphony in White, No. 3</value>
+</name>
+<year>
+<type>typed-literal</type>
+<datatype>http://www.w3.org/2001/XMLSchema#integer</datatype>
+<value>1865</value>
+</year>
+<wikilink>
+<type>uri</type>
+<value>http://en.wikipedia.org/wiki/Symphony_in_White,_No._3?oldid=590921678</value>
+</wikilink>
+</XML_Serializer_Tag>
+<XML_Serializer_Tag>
+<painting>
+<type>uri</type>
+<value>http://dbpedia.org/resource/The_Princess_from_the_Land_of_Porcelain</value>
+</painting>
+<thumbnail>
+<type>uri</type>
+<value>http://en.wikipedia.org/wiki/Special:FilePath/James_McNeill_Whistler_-_La_Princesse_du_pays_de_la_porcelaine_-_brighter.jpg?width=300</value>
+</thumbnail>
+<name>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>Rose and Silver: The Princess from the Land of Porcelain</value>
+</name>
+<wikilink>
+<type>uri</type>
+<value>http://en.wikipedia.org/wiki/The_Princess_from_the_Land_of_Porcelain?oldid=606545219</value>
+</wikilink>
+</XML_Serializer_Tag>
+</artworks>
+<dbpResource>http://dbpedia.org/resource/James_Abbott_McNeill_Whistler</dbpResource>
+<abstract>James Abbott McNeill Whistler (* 11. Juli 1834 in Lowell, Massachusetts; † 17. Juli 1903 in Chelsea, London) war ein US-amerikanischer Maler.</abstract>
+<wikilink>http://en.wikipedia.org/wiki/James_Abbott_McNeill_Whistler?oldid=606285775</wikilink>
+</Person>

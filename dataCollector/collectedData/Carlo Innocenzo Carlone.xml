@@ -1,0 +1,28 @@
+<Person>
+<name>Carlo Innocenzo Carlone</name>
+<variantName>
+<XML_Serializer_Tag>Carlo Carlone</XML_Serializer_Tag>
+<XML_Serializer_Tag>Carlo Innocenzo Carloni</XML_Serializer_Tag>
+<XML_Serializer_Tag>Carlo Innozenz Carloni</XML_Serializer_Tag>
+<XML_Serializer_Tag>Carlo I. Carlone</XML_Serializer_Tag>
+</variantName>
+<thumbnail>https://commons.wikimedia.org/wiki/Special:FilePath/The_Glorification_of_St_Felix_and_St_Adauctus.jpg?width=270</thumbnail>
+<birthEN>1686</birthEN>
+<birthDE>1686</birthDE>
+<deathEN>1775</deathEN>
+<deathDE>1775</deathDE>
+<birthPlace>
+<XML_Serializer_Tag>Lanzo d&apos;Intelvi- Scaria</XML_Serializer_Tag>
+</birthPlace>
+<deathPlace>
+<XML_Serializer_Tag>Lanzo d&apos;Intelvi- Scaria</XML_Serializer_Tag>
+</deathPlace>
+<professionOrOccupation>
+<XML_Serializer_Tag>Maler</XML_Serializer_Tag>
+<XML_Serializer_Tag>Zeichner</XML_Serializer_Tag>
+</professionOrOccupation>
+<artworks />
+<dbpResource>http://dbpedia.org/resource/Carlo_Carlone</dbpResource>
+<abstract>Carlo Innocenzo Carlone, auch Carlo Innocenzo Carloni, meistens genannt als Carlo Carlone, (* November 1686 in Scaria; † 17. Mai 1775 ebenda) war ein lombardischer Maler und Freskant.</abstract>
+<wikilink>http://en.wikipedia.org/wiki/Carlo_Carlone?oldid=605284643</wikilink>
+</Person>

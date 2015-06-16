@@ -1,0 +1,22 @@
+<Person>
+<name>Walter Pach</name>
+<variantName>
+<XML_Serializer_Tag>Uorutā Patchi</XML_Serializer_Tag>
+</variantName>
+<thumbnail>https://commons.wikimedia.org/wiki/Special:FilePath/Walter_Pach_2a7c41796d_b.jpg?width=270</thumbnail>
+<birthEN>1883</birthEN>
+<birthDE>1883</birthDE>
+<deathEN>1958</deathEN>
+<deathDE>1958</deathDE>
+<birthPlace />
+<deathPlace />
+<professionOrOccupation>
+<XML_Serializer_Tag>Kunstkritiker</XML_Serializer_Tag>
+<XML_Serializer_Tag>Maler</XML_Serializer_Tag>
+<XML_Serializer_Tag>Graphiker</XML_Serializer_Tag>
+</professionOrOccupation>
+<artworks />
+<dbpResource>http://dbpedia.org/resource/Walter_Pach</dbpResource>
+<abstract>Walter Pach (* 11. Juli 1883 in New York; † 27. November 1958 ebenda) war ein US-amerikanischer Künstler, Ausstellungsmacher und Kunstkritiker. Er gehörte, neben Arthur B. Davies, Walt Kuhn und anderen, zu den Organisatoren der legendären Armory Show, die 1913 in New York eröffnet wurde.</abstract>
+<wikilink>http://en.wikipedia.org/wiki/Walter_Pach?oldid=603313694</wikilink>
+</Person>

@@ -1,0 +1,26 @@
+<Person>
+<name>Karl Raupp</name>
+<variantName>
+<XML_Serializer_Tag>K, Raupp</XML_Serializer_Tag>
+<XML_Serializer_Tag>Carl Raupp</XML_Serializer_Tag>
+<XML_Serializer_Tag>C. Raupp</XML_Serializer_Tag>
+</variantName>
+<thumbnail>https://commons.wikimedia.org/wiki/Special:FilePath/Karl_Raupp_-_The_nosy_Dachshound,_a_sunny_spot_in_the_woods.jpg?width=270</thumbnail>
+<birthEN>March 2, 1837</birthEN>
+<birthDE>2. März 1837</birthDE>
+<deathEN>June 14, 1918</deathEN>
+<deathDE>14. Juni 1918</deathDE>
+<birthPlace>
+<XML_Serializer_Tag>Darmstadt</XML_Serializer_Tag>
+</birthPlace>
+<deathPlace>
+<XML_Serializer_Tag>München</XML_Serializer_Tag>
+</deathPlace>
+<professionOrOccupation>
+<XML_Serializer_Tag>Maler</XML_Serializer_Tag>
+</professionOrOccupation>
+<artworks />
+<dbpResource>http://dbpedia.org/resource/Karl_Raupp</dbpResource>
+<abstract>Karl Raupp (* 2. März 1837 in Darmstadt; † 14. Juni 1918 in München) war ein deutscher Maler.</abstract>
+<wikilink>http://en.wikipedia.org/wiki/Karl_Raupp?oldid=565019481</wikilink>
+</Person>

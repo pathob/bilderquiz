@@ -1,0 +1,21 @@
+<Person>
+<name>Rolf Nesch</name>
+<variantName>
+<XML_Serializer_Tag>Emil Rudolf Nesch</XML_Serializer_Tag>
+</variantName>
+<thumbnail>https://commons.wikimedia.org/wiki/Special:FilePath/Rolf-Nesch-Bro-Over-Elben.jpg?width=270</thumbnail>
+<birthEN>1893</birthEN>
+<birthDE>1893</birthDE>
+<deathEN>1975</deathEN>
+<deathDE>1975</deathDE>
+<birthPlace />
+<deathPlace />
+<professionOrOccupation>
+<XML_Serializer_Tag>Maler</XML_Serializer_Tag>
+<XML_Serializer_Tag>Radierer</XML_Serializer_Tag>
+</professionOrOccupation>
+<artworks />
+<dbpResource>http://dbpedia.org/resource/Rolf_Nesch</dbpResource>
+<abstract>Rolf Nesch (* 7. Januar 1893 in Oberesslingen am Neckar; † 27. Oktober 1975 in Oslo; eigentlich: Emil Rudolf Nesch) war ein deutsch-norwegischer Maler und Grafiker.</abstract>
+<wikilink>http://en.wikipedia.org/wiki/Rolf_Nesch?oldid=588502781</wikilink>
+</Person>

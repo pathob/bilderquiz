@@ -1,0 +1,51 @@
+<Person>
+<name>Beihong Xu</name>
+<variantName>
+<XML_Serializer_Tag>Xu Beihong</XML_Serializer_Tag>
+<XML_Serializer_Tag>Pei-hung Hsü</XML_Serializer_Tag>
+<XML_Serializer_Tag>Hikō Jo</XML_Serializer_Tag>
+<XML_Serializer_Tag>Péon Ju</XML_Serializer_Tag>
+<XML_Serializer_Tag>悲鸿 徐</XML_Serializer_Tag>
+<XML_Serializer_Tag>徐悲鴻</XML_Serializer_Tag>
+<XML_Serializer_Tag>悲鴻 徐</XML_Serializer_Tag>
+</variantName>
+<thumbnail>https://commons.wikimedia.org/wiki/Special:FilePath/XuBeihong.jpg?width=270</thumbnail>
+<birthEN>1895</birthEN>
+<birthDE>1895</birthDE>
+<deathEN>1953</deathEN>
+<deathDE>1953</deathDE>
+<birthPlace />
+<deathPlace />
+<professionOrOccupation>
+<XML_Serializer_Tag>Maler</XML_Serializer_Tag>
+</professionOrOccupation>
+<artworks>
+<XML_Serializer_Tag>
+<painting>
+<type>uri</type>
+<value>http://dbpedia.org/resource/Put_Down_Your_Whip_(painting)</value>
+</painting>
+<thumbnail>
+<type>uri</type>
+<value>http://commons.wikimedia.org/wiki/Special:FilePath/Put_Down_Your_Whip_by_Xu_Beihong.jpg?width=300</value>
+</thumbnail>
+<name>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>Put Down Your Whip</value>
+</name>
+<year>
+<type>typed-literal</type>
+<datatype>http://www.w3.org/2001/XMLSchema#integer</datatype>
+<value>1939</value>
+</year>
+<wikilink>
+<type>uri</type>
+<value>http://en.wikipedia.org/wiki/Put_Down_Your_Whip_(painting)?oldid=590551387</value>
+</wikilink>
+</XML_Serializer_Tag>
+</artworks>
+<dbpResource>http://dbpedia.org/resource/Xu_Beihong</dbpResource>
+<abstract>Xú Bēihóng (chinesisch 徐悲鸿, W.-G. Hsü Pei-hung; * 19. Juli 1895 in Yixing, Provinz Jiangsu, Kaiserreich China; † 26. September 1953 in Peking, Volksrepublik China) war der erste chinesische Maler, der westliche Stilelemente in seinen Werken verwendete.</abstract>
+<wikilink>http://en.wikipedia.org/wiki/Xu_Beihong?oldid=601100874</wikilink>
+</Person>

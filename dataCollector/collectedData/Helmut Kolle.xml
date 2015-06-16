@@ -1,0 +1,28 @@
+<Person>
+<name>Helmut Kolle</name>
+<variantName>
+<XML_Serializer_Tag>Helmut vom Hügel</XML_Serializer_Tag>
+<XML_Serializer_Tag>Helmut Kolle von Hügel</XML_Serializer_Tag>
+<XML_Serializer_Tag>Helmut Kolle von Hügel</XML_Serializer_Tag>
+<XML_Serializer_Tag>Helmud Kolle</XML_Serializer_Tag>
+</variantName>
+<thumbnail>https://commons.wikimedia.org/wiki/Special:FilePath/Helmut_Kolle_-_Self_Portrait_in_Hunting_Attire.jpg?width=270</thumbnail>
+<birthEN>February 24, 1899</birthEN>
+<birthDE>24. Februar 1899</birthDE>
+<deathEN>November 17, 1931</deathEN>
+<deathDE>17. November 1931</deathDE>
+<birthPlace>
+<XML_Serializer_Tag>Charlottenburg (Berlin)</XML_Serializer_Tag>
+</birthPlace>
+<deathPlace>
+<XML_Serializer_Tag>Chantilly</XML_Serializer_Tag>
+</deathPlace>
+<professionOrOccupation>
+<XML_Serializer_Tag>Künstler</XML_Serializer_Tag>
+<XML_Serializer_Tag>Maler</XML_Serializer_Tag>
+</professionOrOccupation>
+<artworks />
+<dbpResource>http://dbpedia.org/resource/Helmut_Kolle</dbpResource>
+<abstract>Helmut Kolle (* 24. Februar 1899 in Charlottenburg; † 17. November 1931 in Chantilly bei Paris) war ein deutscher Maler (Pseudonym Helmut vom Hügel). Er konnte sich als einer von wenigen deutschen Malern in den 1920er Jahren auf dem französischen Kunstmarkt durchsetzen.</abstract>
+<wikilink>http://en.wikipedia.org/wiki/Helmut_Kolle?oldid=590072397</wikilink>
+</Person>

@@ -1,0 +1,152 @@
+<Person>
+<name>Henri Rousseau</name>
+<variantName>
+<XML_Serializer_Tag>Anri Ruso</XML_Serializer_Tag>
+<XML_Serializer_Tag>Douanier Rousseau</XML_Serializer_Tag>
+<XML_Serializer_Tag>, Douanier</XML_Serializer_Tag>
+<XML_Serializer_Tag>Henri Julien Félix Rousseau</XML_Serializer_Tag>
+<XML_Serializer_Tag>Le Douanier</XML_Serializer_Tag>
+<XML_Serializer_Tag>Le Douanier</XML_Serializer_Tag>
+<XML_Serializer_Tag>, le Douanier</XML_Serializer_Tag>
+</variantName>
+<thumbnail>https://commons.wikimedia.org/wiki/Special:FilePath/Rousseau09.jpg?width=270</thumbnail>
+<birthEN>1844</birthEN>
+<birthDE>1844</birthDE>
+<deathEN>1910</deathEN>
+<deathDE>1910</deathDE>
+<birthPlace />
+<deathPlace />
+<professionOrOccupation>
+<XML_Serializer_Tag>Maler</XML_Serializer_Tag>
+</professionOrOccupation>
+<artworks>
+<XML_Serializer_Tag>
+<painting>
+<type>uri</type>
+<value>http://dbpedia.org/resource/Post-Impressionism</value>
+</painting>
+<thumbnail>
+<type>uri</type>
+<value>http://commons.wikimedia.org/wiki/Special:FilePath/Henri_Rousseau_007.jpg?width=300</value>
+</thumbnail>
+<name>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>The Centenary of Independence</value>
+</name>
+<year>
+<type>typed-literal</type>
+<datatype>http://www.w3.org/2001/XMLSchema#integer</datatype>
+<value>1892</value>
+</year>
+<abstract>
+<type>literal</type>
+<xml:lang>de</xml:lang>
+<value>Post-Impressionismus ist eine Sammelbezeichnung für verschiedene Stile der Malerei, die zwischen 1880 und 1905 auf den Impressionismus folgten. Anstelle der Bezeichnungsweise Post-Impressionismus sind auch die Benennungen Nach- bzw. Spätimpressionismus gebräuchlich. Schwerpunkt der Entwicklung war Frankreich. Der Post-Impressionismus wurde innerhalb Frankreichs vom Fauvismus abgelöst.Zum Post-Impressionismus werden im Allgemeinen die Richtungen Pointillismus (auch als Divisionismus bzw. Neoimpressionismus bezeichnet), Cloisonismus, Synthetismus, die Künstlergruppe der Nabis, die Schule von Pont-Aven, sowie die Werke van Goghs, Gauguins, Toulouse-Lautrecs und Cézannes gezählt.</value>
+</abstract>
+<wikilink>
+<type>uri</type>
+<value>http://en.wikipedia.org/wiki/Post-Impressionism?oldid=603742876</value>
+</wikilink>
+</XML_Serializer_Tag>
+<XML_Serializer_Tag>
+<painting>
+<type>uri</type>
+<value>http://dbpedia.org/resource/The_Sleeping_Gypsy</value>
+</painting>
+<thumbnail>
+<type>uri</type>
+<value>http://commons.wikimedia.org/wiki/Special:FilePath/Henri_Rousseau_010.jpg?width=300</value>
+</thumbnail>
+<name>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>The Sleeping Gypsy</value>
+</name>
+<abstract>
+<type>literal</type>
+<xml:lang>de</xml:lang>
+<value>Die schlafende Zigeunerin (französisch La Bohémienne endormie) ist ein Gemälde des französischen Malers Henri Rousseau.</value>
+</abstract>
+<wikilink>
+<type>uri</type>
+<value>http://en.wikipedia.org/wiki/The_Sleeping_Gypsy?oldid=598735230</value>
+</wikilink>
+</XML_Serializer_Tag>
+<XML_Serializer_Tag>
+<painting>
+<type>uri</type>
+<value>http://dbpedia.org/resource/The_Hungry_Lion_Throws_Itself_on_the_Antelope</value>
+</painting>
+<thumbnail>
+<type>uri</type>
+<value>http://commons.wikimedia.org/wiki/Special:FilePath/Rousseau-Hungry-Lion.jpg?width=300</value>
+</thumbnail>
+<name>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>The Hungry Lion Throws Itself on the Antelope</value>
+</name>
+<year>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>Exhibited in 1905</value>
+</year>
+<wikilink>
+<type>uri</type>
+<value>http://en.wikipedia.org/wiki/The_Hungry_Lion_Throws_Itself_on_the_Antelope?oldid=605359182</value>
+</wikilink>
+</XML_Serializer_Tag>
+<XML_Serializer_Tag>
+<painting>
+<type>uri</type>
+<value>http://dbpedia.org/resource/The_Dream_(Rousseau_painting)</value>
+</painting>
+<thumbnail>
+<type>uri</type>
+<value>http://commons.wikimedia.org/wiki/Special:FilePath/Henri_Rousseau_-_Il_sogno.jpg?width=300</value>
+</thumbnail>
+<name>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>The Dream</value>
+</name>
+<year>
+<type>typed-literal</type>
+<datatype>http://www.w3.org/2001/XMLSchema#integer</datatype>
+<value>1910</value>
+</year>
+<wikilink>
+<type>uri</type>
+<value>http://en.wikipedia.org/wiki/The_Dream_(Rousseau_painting)?oldid=585967733</value>
+</wikilink>
+</XML_Serializer_Tag>
+<XML_Serializer_Tag>
+<painting>
+<type>uri</type>
+<value>http://dbpedia.org/resource/Tiger_in_a_Tropical_Storm</value>
+</painting>
+<thumbnail>
+<type>uri</type>
+<value>http://en.wikipedia.org/wiki/Special:FilePath/Surprised-Rousseau.jpg?width=300</value>
+</thumbnail>
+<name>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>Tiger in a Tropical Storm (Surprised)</value>
+</name>
+<year>
+<type>typed-literal</type>
+<datatype>http://www.w3.org/2001/XMLSchema#integer</datatype>
+<value>1891</value>
+</year>
+<wikilink>
+<type>uri</type>
+<value>http://en.wikipedia.org/wiki/Tiger_in_a_Tropical_Storm?oldid=605146599</value>
+</wikilink>
+</XML_Serializer_Tag>
+</artworks>
+<dbpResource>http://dbpedia.org/resource/Henri_Rousseau</dbpResource>
+<abstract>Henri Julien Félix Rousseau, genannt „Le Douanier“ (* 21. Mai 1844 in Laval (Mayenne); † 2. September 1910 in Paris) war ein autodidaktischer französischer Maler, dessen Stil dem Postimpressionismus und der Naiven Kunst zugeordnet wird. Er gilt als einer der Wegbereiter des Surrealismus.</abstract>
+<wikilink>http://en.wikipedia.org/wiki/Henri_Rousseau?oldid=606642982</wikilink>
+</Person>

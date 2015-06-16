@@ -1,0 +1,27 @@
+<Person>
+<name>Roelant Savery</name>
+<variantName>
+<XML_Serializer_Tag>Ruelandt Savery</XML_Serializer_Tag>
+<XML_Serializer_Tag>Roelandt Saverij</XML_Serializer_Tag>
+<XML_Serializer_Tag>Roelandt Savery</XML_Serializer_Tag>
+<XML_Serializer_Tag>Roelandt Savry</XML_Serializer_Tag>
+<XML_Serializer_Tag>Roland Savery</XML_Serializer_Tag>
+</variantName>
+<thumbnail>https://commons.wikimedia.org/wiki/Special:FilePath/Roelant_Savery_-_Landscape_with_Birds_-_WGA20885.jpg?width=270</thumbnail>
+<birthEN>1576</birthEN>
+<birthDE>1576</birthDE>
+<deathEN>1639</deathEN>
+<deathDE>1639</deathDE>
+<birthPlace />
+<deathPlace />
+<professionOrOccupation>
+<XML_Serializer_Tag>Künstler</XML_Serializer_Tag>
+<XML_Serializer_Tag>Maler</XML_Serializer_Tag>
+<XML_Serializer_Tag>Zeichner</XML_Serializer_Tag>
+<XML_Serializer_Tag>Radierer</XML_Serializer_Tag>
+</professionOrOccupation>
+<artworks />
+<dbpResource>http://dbpedia.org/resource/Roelant_Savery</dbpResource>
+<abstract>Roelant Savery (* 1576 oder 1578 in Kortrijk; † vor 25. Februar 1639 in Utrecht) war ein niederländischer Maler und Radierer.</abstract>
+<wikilink>http://en.wikipedia.org/wiki/Roelant_Savery?oldid=606681375</wikilink>
+</Person>

@@ -1,0 +1,303 @@
+<Person>
+<name>Angelico, Fra</name>
+<variantName>
+<XML_Serializer_Tag>Fra Angelico</XML_Serializer_Tag>
+<XML_Serializer_Tag>Angelico, Frate</XML_Serializer_Tag>
+<XML_Serializer_Tag>Frate Angelico</XML_Serializer_Tag>
+<XML_Serializer_Tag>Angelico, Beato</XML_Serializer_Tag>
+<XML_Serializer_Tag>Beato Angelico</XML_Serializer_Tag>
+<XML_Serializer_Tag>Giovanni, Angelico</XML_Serializer_Tag>
+<XML_Serializer_Tag>Giovanni, Fra</XML_Serializer_Tag>
+<XML_Serializer_Tag>Giovanni, da Firenze</XML_Serializer_Tag>
+<XML_Serializer_Tag>Angelico, da Fiesole</XML_Serializer_Tag>
+<XML_Serializer_Tag>Giovanni, Angelico da Fiesole</XML_Serializer_Tag>
+<XML_Serializer_Tag>Giovanni Angelico, da Fiesole</XML_Serializer_Tag>
+<XML_Serializer_Tag>Giovanni, da Fiesole</XML_Serializer_Tag>
+<XML_Serializer_Tag>Giovanni Angelico da Fiesole</XML_Serializer_Tag>
+<XML_Serializer_Tag>Giovanni A. da Fiesole</XML_Serializer_Tag>
+<XML_Serializer_Tag>Giovanni da Fiesole</XML_Serializer_Tag>
+<XML_Serializer_Tag>Giovanni Da Fiesole</XML_Serializer_Tag>
+<XML_Serializer_Tag>Giovanni A. Da Fiesole</XML_Serializer_Tag>
+<XML_Serializer_Tag>Giovanni DaFiesole</XML_Serializer_Tag>
+<XML_Serializer_Tag>Giovanni A. DaFiesole</XML_Serializer_Tag>
+<XML_Serializer_Tag>Johann, von Fiesole</XML_Serializer_Tag>
+<XML_Serializer_Tag>Johann von Fiesole</XML_Serializer_Tag>
+<XML_Serializer_Tag>Johannes, von Fiesole</XML_Serializer_Tag>
+<XML_Serializer_Tag>Johannes von Fiesole</XML_Serializer_Tag>
+<XML_Serializer_Tag>Giovanni, di Mugello</XML_Serializer_Tag>
+<XML_Serializer_Tag>Giovanni di Mugello</XML_Serializer_Tag>
+<XML_Serializer_Tag>Guido, da Mugello</XML_Serializer_Tag>
+<XML_Serializer_Tag>Guido da Mugello</XML_Serializer_Tag>
+<XML_Serializer_Tag>Guido Da Mugello</XML_Serializer_Tag>
+<XML_Serializer_Tag>Guido DaMugello</XML_Serializer_Tag>
+<XML_Serializer_Tag>Guido, di Pietro</XML_Serializer_Tag>
+<XML_Serializer_Tag>Guido DiPietro</XML_Serializer_Tag>
+<XML_Serializer_Tag>Guidolino, di Pietro</XML_Serializer_Tag>
+<XML_Serializer_Tag>Guidolino DiPietro</XML_Serializer_Tag>
+</variantName>
+<thumbnail>https://commons.wikimedia.org/wiki/Special:FilePath/All-Saints.jpg?width=270</thumbnail>
+<birthEN>1387</birthEN>
+<birthDE>1387</birthDE>
+<deathEN>1455</deathEN>
+<deathDE>1455</deathDE>
+<birthPlace>
+<XML_Serializer_Tag>Vicchio</XML_Serializer_Tag>
+</birthPlace>
+<deathPlace>
+<XML_Serializer_Tag>Rom</XML_Serializer_Tag>
+</deathPlace>
+<professionOrOccupation>
+<XML_Serializer_Tag>Künstler</XML_Serializer_Tag>
+<XML_Serializer_Tag>Maler</XML_Serializer_Tag>
+</professionOrOccupation>
+<artworks>
+<XML_Serializer_Tag>
+<painting>
+<type>uri</type>
+<value>http://dbpedia.org/resource/Niccoline_Chapel</value>
+</painting>
+<thumbnail>
+<type>uri</type>
+<value>http://commons.wikimedia.org/wiki/Special:FilePath/St._Peter_Niccoline_Chapel.jpg?width=300</value>
+</thumbnail>
+<name>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>St. Peter Consecrates St. Laurence as Deacon</value>
+</name>
+<year>
+<type>typed-literal</type>
+<datatype>http://www.w3.org/2001/XMLSchema#integer</datatype>
+<value>1447</value>
+</year>
+<abstract>
+<type>literal</type>
+<xml:lang>de</xml:lang>
+<value>Die Cappella Niccolina (Nikolauskapelle) ist eine Kapelle im Kern des Vatikanpalastes. Sie befindet sich dort zusammen mit den Stanzen des Raphael und gehört heute zu den Vatikanischen Museen.</value>
+</abstract>
+<wikilink>
+<type>uri</type>
+<value>http://en.wikipedia.org/wiki/Niccoline_Chapel?oldid=602425643</value>
+</wikilink>
+</XML_Serializer_Tag>
+<XML_Serializer_Tag>
+<painting>
+<type>uri</type>
+<value>http://dbpedia.org/resource/Coronation_of_the_Virgin_(Fra_Angelico,_Louvre)</value>
+</painting>
+<thumbnail>
+<type>uri</type>
+<value>http://commons.wikimedia.org/wiki/Special:FilePath/Fra_Angelico_078.jpg?width=300</value>
+</thumbnail>
+<name>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>Coronation of the Virgin</value>
+</name>
+<year>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>c. 1434–1345</value>
+</year>
+<wikilink>
+<type>uri</type>
+<value>http://en.wikipedia.org/wiki/Coronation_of_the_Virgin_(Fra_Angelico,_Louvre)?oldid=589490654</value>
+</wikilink>
+</XML_Serializer_Tag>
+<XML_Serializer_Tag>
+<painting>
+<type>uri</type>
+<value>http://dbpedia.org/resource/Deposition_of_Christ_(Fra_Angelico)</value>
+</painting>
+<thumbnail>
+<type>uri</type>
+<value>http://commons.wikimedia.org/wiki/Special:FilePath/Fra_Angelico_073.jpg?width=300</value>
+</thumbnail>
+<name>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>Deposition from the Cross</value>
+</name>
+<year>
+<type>typed-literal</type>
+<datatype>http://www.w3.org/2001/XMLSchema#integer</datatype>
+<value>1432</value>
+</year>
+<wikilink>
+<type>uri</type>
+<value>http://en.wikipedia.org/wiki/Deposition_of_Christ_(Fra_Angelico)?oldid=587103613</value>
+</wikilink>
+</XML_Serializer_Tag>
+<XML_Serializer_Tag>
+<painting>
+<type>uri</type>
+<value>http://dbpedia.org/resource/Madonna_of_Humility_(Fra_Angelico)</value>
+</painting>
+<thumbnail>
+<type>uri</type>
+<value>http://commons.wikimedia.org/wiki/Special:FilePath/Virgen_humildad-fra_angelico.jpg?width=300</value>
+</thumbnail>
+<name>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>Madonna of Humility</value>
+</name>
+<year>
+<type>typed-literal</type>
+<datatype>http://www.w3.org/2001/XMLSchema#integer</datatype>
+<value>1433</value>
+</year>
+<wikilink>
+<type>uri</type>
+<value>http://en.wikipedia.org/wiki/Madonna_of_Humility_(Fra_Angelico)?oldid=587323795</value>
+</wikilink>
+</XML_Serializer_Tag>
+<XML_Serializer_Tag>
+<painting>
+<type>uri</type>
+<value>http://dbpedia.org/resource/San_Pietro_Martire_Triptych</value>
+</painting>
+<thumbnail>
+<type>uri</type>
+<value>http://commons.wikimedia.org/wiki/Special:FilePath/Angelico,_pala_di_san_pier_maggiore,_1425_ca..jpg?width=300</value>
+</thumbnail>
+<name>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>St. Peter of Verona Triptych</value>
+</name>
+<year>
+<type>typed-literal</type>
+<datatype>http://www.w3.org/2001/XMLSchema#integer</datatype>
+<value>1428</value>
+</year>
+<wikilink>
+<type>uri</type>
+<value>http://en.wikipedia.org/wiki/San_Pietro_Martire_Triptych?oldid=590852755</value>
+</wikilink>
+</XML_Serializer_Tag>
+<XML_Serializer_Tag>
+<painting>
+<type>uri</type>
+<value>http://dbpedia.org/resource/Perugia_Altarpiece</value>
+</painting>
+<thumbnail>
+<type>uri</type>
+<value>http://commons.wikimedia.org/wiki/Special:FilePath/Perugia_altarpiece,_angelico.jpg?width=300</value>
+</thumbnail>
+<name>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>Perugia Altarpiece</value>
+</name>
+<year>
+<type>typed-literal</type>
+<datatype>http://www.w3.org/2001/XMLSchema#integer</datatype>
+<value>1437</value>
+</year>
+<wikilink>
+<type>uri</type>
+<value>http://en.wikipedia.org/wiki/Perugia_Altarpiece?oldid=591962724</value>
+</wikilink>
+</XML_Serializer_Tag>
+<XML_Serializer_Tag>
+<painting>
+<type>uri</type>
+<value>http://dbpedia.org/resource/San_Marco_Altarpiece</value>
+</painting>
+<thumbnail>
+<type>uri</type>
+<value>http://commons.wikimedia.org/wiki/Special:FilePath/Fra_Angelico_060.jpg?width=300</value>
+</thumbnail>
+<name>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>San Marco Altarpiece</value>
+</name>
+<year>
+<type>typed-literal</type>
+<datatype>http://www.w3.org/2001/XMLSchema#integer</datatype>
+<value>1438</value>
+</year>
+<wikilink>
+<type>uri</type>
+<value>http://en.wikipedia.org/wiki/San_Marco_Altarpiece?oldid=594286504</value>
+</wikilink>
+</XML_Serializer_Tag>
+<XML_Serializer_Tag>
+<painting>
+<type>uri</type>
+<value>http://dbpedia.org/resource/The_Last_Judgment_(Fra_Angelico,_Florence)</value>
+</painting>
+<thumbnail>
+<type>uri</type>
+<value>http://commons.wikimedia.org/wiki/Special:FilePath/Fra_Angelico_009.jpg?width=300</value>
+</thumbnail>
+<name>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>The Last Judgment</value>
+</name>
+<year>
+<type>typed-literal</type>
+<datatype>http://www.w3.org/2001/XMLSchema#integer</datatype>
+<value>1425</value>
+</year>
+<wikilink>
+<type>uri</type>
+<value>http://en.wikipedia.org/wiki/The_Last_Judgment_(Fra_Angelico,_Florence)?oldid=589173361</value>
+</wikilink>
+</XML_Serializer_Tag>
+<XML_Serializer_Tag>
+<painting>
+<type>uri</type>
+<value>http://dbpedia.org/resource/Fiesole_Altarpiece</value>
+</painting>
+<thumbnail>
+<type>uri</type>
+<value>http://commons.wikimedia.org/wiki/Special:FilePath/Angelico,_pala_di_fiesole,_full.jpg?width=300</value>
+</thumbnail>
+<name>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>&apos;&apos;Fiesole Altarpiece</value>
+</name>
+<year>
+<type>typed-literal</type>
+<datatype>http://www.w3.org/2001/XMLSchema#integer</datatype>
+<value>1424</value>
+</year>
+<wikilink>
+<type>uri</type>
+<value>http://en.wikipedia.org/wiki/Fiesole_Altarpiece?oldid=586440829</value>
+</wikilink>
+</XML_Serializer_Tag>
+<XML_Serializer_Tag>
+<painting>
+<type>uri</type>
+<value>http://dbpedia.org/resource/Coronation_of_the_Virgin_(Fra_Angelico,_Uffizi)</value>
+</painting>
+<thumbnail>
+<type>uri</type>
+<value>http://commons.wikimedia.org/wiki/Special:FilePath/Fra_Angelico_081.jpg?width=300</value>
+</thumbnail>
+<name>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>Coronation of the Virgin</value>
+</name>
+<year>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>c. 1432</value>
+</year>
+<wikilink>
+<type>uri</type>
+<value>http://en.wikipedia.org/wiki/Coronation_of_the_Virgin_(Fra_Angelico,_Uffizi)?oldid=589490658</value>
+</wikilink>
+</XML_Serializer_Tag>
+</artworks>
+<dbpResource>http://dbpedia.org/resource/Fra_Angelico</dbpResource>
+<abstract>Fra Angelico (* zwischen 1386 und 1400 in Vicchio bei Florenz; † 18. Februar 1455 in Rom) – geboren als Guido di Pietro – war ein Maler der italienischen Frührenaissance. Vasari sagte in Le Vite de&apos; più eccellenti pittori scultori ed architettori , Fra Angelico sei mit einem raren und ausgezeichneten Talent ausgestattet.Er ist auch als il Beato Angelico (etwa: der gesegnete Engelsgleiche), bekannt, seine Zeitgenossen kannten ihn als Fra Giovanni da Fiesole (Bruder Johannes aus Fiesole). In Vasaris Biographie (vor 1555) wird er schon als Fra Giovanni Angelico bezeichnet.Fiesole wird manchmal fälschlich als Teil seines richtigen Namens interpretiert. Es ist tatsächlich der Name der Stadt, in der er seine Profess ablegte. Dieser Zusatz wurde benutzt, um ihn von anderen Fra Giovannis unterscheiden zu können.Schon zu Lebzeiten oder kurz darauf wurde er außerdem Il Beato (Der Gesegnete/Der Selige) genannt, was sich auf sein Talent in der Darstellung christlicher Motive bezieht.Papst Johannes Paul II. sprach ihn 1982 selig. Fra Angelico ist der Schutzpatron der christlichen Künstler. Im Martyrologium Romanum wird er als Beatus Ioannes Faesulanus, cognomento Angelicus (Seliger Giovanni von Fiesole, genannt Angelico) bezeichnet.</abstract>
+<wikilink>http://en.wikipedia.org/wiki/Fra_Angelico?oldid=606600846</wikilink>
+</Person>

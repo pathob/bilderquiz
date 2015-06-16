@@ -1,0 +1,25 @@
+<Person>
+<name>Edgar Ende</name>
+<variantName>
+<XML_Serializer_Tag>Edgar Carl Alfons Ende</XML_Serializer_Tag>
+</variantName>
+<thumbnail>https://de.wikipedia.org/wiki/Special:FilePath/Quäkerberg_1894.jpg?width=270</thumbnail>
+<birthEN>February 23, 1901</birthEN>
+<birthDE>23. Februar 1901</birthDE>
+<deathEN>December 27, 1965</deathEN>
+<deathDE>27. Dezember 1965</deathDE>
+<birthPlace>
+<XML_Serializer_Tag>Altona</XML_Serializer_Tag>
+</birthPlace>
+<deathPlace>
+<XML_Serializer_Tag>Netterndorf</XML_Serializer_Tag>
+</deathPlace>
+<professionOrOccupation>
+<XML_Serializer_Tag>Künstler</XML_Serializer_Tag>
+<XML_Serializer_Tag>Maler</XML_Serializer_Tag>
+</professionOrOccupation>
+<artworks />
+<dbpResource>http://dbpedia.org/resource/Edgar_Ende</dbpResource>
+<abstract>Edgar Ende (* 23. Februar 1901 in Altona; † 27. Dezember 1965 in Netterndorf) war ein deutscher surrealistischer Maler und Vater des Schriftstellers Michael Ende.Sein Werk steht in der Tradition der phantastischen und visionären Kunst und gilt als einer der wichtigsten Beiträge der deutschen Malerei des 20. Jahrhunderts zu dieser Stilrichtung.</abstract>
+<wikilink>http://en.wikipedia.org/wiki/Edgar_Ende?oldid=605767556</wikilink>
+</Person>

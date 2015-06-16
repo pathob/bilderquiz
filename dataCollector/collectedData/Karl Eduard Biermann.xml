@@ -1,0 +1,22 @@
+<Person>
+<name>Karl Eduard Biermann</name>
+<variantName>
+<XML_Serializer_Tag>Eduard Biermann</XML_Serializer_Tag>
+<XML_Serializer_Tag>Carl Eduard Biermann</XML_Serializer_Tag>
+</variantName>
+<thumbnail>https://commons.wikimedia.org/wiki/Special:FilePath/Karl_Eduard_Biermann_Finstermünz_Pass.JPG?width=270</thumbnail>
+<birthEN>1803</birthEN>
+<birthDE>1803</birthDE>
+<deathEN>1892</deathEN>
+<deathDE>1892</deathDE>
+<birthPlace />
+<deathPlace />
+<professionOrOccupation>
+<XML_Serializer_Tag>Maler</XML_Serializer_Tag>
+<XML_Serializer_Tag>Künstler</XML_Serializer_Tag>
+</professionOrOccupation>
+<artworks />
+<dbpResource>http://dbpedia.org/resource/Karl_Eduard_Biermann</dbpResource>
+<abstract>Karl Eduard Biermann (* 26. Juli 1803 in Berlin; † 16. Juni 1892 in Berlin) war ein deutscher Maler.</abstract>
+<wikilink>http://en.wikipedia.org/wiki/Karl_Eduard_Biermann?oldid=581945245</wikilink>
+</Person>

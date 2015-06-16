@@ -1,0 +1,77 @@
+<Person>
+<name>William Blake</name>
+<variantName>
+<XML_Serializer_Tag>W. Blake</XML_Serializer_Tag>
+<XML_Serializer_Tag>Vilʹjam Blejk</XML_Serializer_Tag>
+<XML_Serializer_Tag>Uilʹjam Blejk</XML_Serializer_Tag>
+</variantName>
+<thumbnail>https://commons.wikimedia.org/wiki/Special:FilePath/William_Blake_by_Thomas_Phillips.jpg?width=270</thumbnail>
+<birthEN>November 28, 1757</birthEN>
+<birthDE>28. November 1757</birthDE>
+<deathEN>August 12, 1827</deathEN>
+<deathDE>12. August 1827</deathDE>
+<birthPlace>
+<XML_Serializer_Tag>London</XML_Serializer_Tag>
+</birthPlace>
+<deathPlace>
+<XML_Serializer_Tag>London</XML_Serializer_Tag>
+</deathPlace>
+<professionOrOccupation>
+<XML_Serializer_Tag>Kupferstecher</XML_Serializer_Tag>
+<XML_Serializer_Tag>Maler</XML_Serializer_Tag>
+<XML_Serializer_Tag>Schriftsteller</XML_Serializer_Tag>
+</professionOrOccupation>
+<artworks>
+<XML_Serializer_Tag>
+<painting>
+<type>uri</type>
+<value>http://dbpedia.org/resource/The_Night_of_Enitharmon&apos;s_Joy</value>
+</painting>
+<thumbnail>
+<type>uri</type>
+<value>http://commons.wikimedia.org/wiki/Special:FilePath/William_Blake_006.jpg?width=300</value>
+</thumbnail>
+<name>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>Hecate, or The Night of Enitharmon&apos;s Joy</value>
+</name>
+<year>
+<type>typed-literal</type>
+<datatype>http://www.w3.org/2001/XMLSchema#integer</datatype>
+<value>1795</value>
+</year>
+<wikilink>
+<type>uri</type>
+<value>http://en.wikipedia.org/wiki/The_Night_of_Enitharmon&apos;s_Joy?oldid=600390435</value>
+</wikilink>
+</XML_Serializer_Tag>
+<XML_Serializer_Tag>
+<painting>
+<type>uri</type>
+<value>http://dbpedia.org/resource/Pity_(William_Blake)</value>
+</painting>
+<thumbnail>
+<type>uri</type>
+<value>http://en.wikipedia.org/wiki/Special:FilePath/WilliamBlakePity.jpeg?width=300</value>
+</thumbnail>
+<name>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>Pity</value>
+</name>
+<year>
+<type>typed-literal</type>
+<datatype>http://www.w3.org/2001/XMLSchema#integer</datatype>
+<value>1795</value>
+</year>
+<wikilink>
+<type>uri</type>
+<value>http://en.wikipedia.org/wiki/Pity_(William_Blake)?oldid=600390376</value>
+</wikilink>
+</XML_Serializer_Tag>
+</artworks>
+<dbpResource>http://dbpedia.org/resource/William_Blake</dbpResource>
+<abstract>William Blake (* 28. November 1757 in London; † 12. August 1827 ebenda) war ein englischer Dichter, Naturmystiker, Maler und der Erfinder der Reliefradierung. Sowohl sein künstlerisches als auch sein literarisches Werk wurde von seinen Zeitgenossen weitgehend abgelehnt. Erst Mitte des 19. Jahrhunderts wurden seine sehr innovativen Arbeiten von den Präraffaeliten entdeckt, fanden allgemein Anerkennung und später auch in der Popkultur Verbreitung.</abstract>
+<wikilink>http://en.wikipedia.org/wiki/William_Blake?oldid=606804363</wikilink>
+</Person>

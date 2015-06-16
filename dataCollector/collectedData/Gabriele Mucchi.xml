@@ -1,0 +1,26 @@
+<Person>
+<name>Gabriele Mucchi</name>
+<variantName />
+<thumbnail>https://commons.wikimedia.org/wiki/Special:FilePath/Bundesarchiv_Bild_183-1983-0126-028,_Berlin,_Ausstellung_Gabriele_Mucchi.jpg?width=270</thumbnail>
+<birthEN>June 25, 1899</birthEN>
+<birthDE>25. Juni 1899</birthDE>
+<deathEN>May 10, 2002</deathEN>
+<deathDE>10. Mai 2002</deathDE>
+<birthPlace>
+<XML_Serializer_Tag>Turin</XML_Serializer_Tag>
+</birthPlace>
+<deathPlace>
+<XML_Serializer_Tag>Mailand</XML_Serializer_Tag>
+</deathPlace>
+<professionOrOccupation>
+<XML_Serializer_Tag>Architekt</XML_Serializer_Tag>
+<XML_Serializer_Tag>Maler</XML_Serializer_Tag>
+<XML_Serializer_Tag>Graphiker</XML_Serializer_Tag>
+<XML_Serializer_Tag>Designer</XML_Serializer_Tag>
+<XML_Serializer_Tag>Kunsthistoriker</XML_Serializer_Tag>
+</professionOrOccupation>
+<artworks />
+<dbpResource>http://dbpedia.org/resource/Gabriele_Mucchi</dbpResource>
+<abstract>Gabriele Mucchi (* 25. Juni 1899 in Turin; † 10. Mai 2002 in Mailand) war ein italienischer Maler, Grafiker und Architekt. Er gilt als Mitbegründer des „Neuen Realismus“ (Nuovo Realismo).</abstract>
+<wikilink>http://en.wikipedia.org/wiki/Gabriele_Mucchi?oldid=604031582</wikilink>
+</Person>

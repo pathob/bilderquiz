@@ -1,0 +1,22 @@
+<Person>
+<name>Giuseppe De Nittis</name>
+<variantName>
+<XML_Serializer_Tag>Giuseppe de Nittis</XML_Serializer_Tag>
+<XML_Serializer_Tag>Giuseppe DeNittis</XML_Serializer_Tag>
+<XML_Serializer_Tag>Joseph De Nittis</XML_Serializer_Tag>
+</variantName>
+<thumbnail>https://commons.wikimedia.org/wiki/Special:FilePath/De_Nittis.jpg?width=270</thumbnail>
+<birthEN>1846</birthEN>
+<birthDE>1846</birthDE>
+<deathEN>1884</deathEN>
+<deathDE>1884</deathDE>
+<birthPlace />
+<deathPlace />
+<professionOrOccupation>
+<XML_Serializer_Tag>Maler</XML_Serializer_Tag>
+</professionOrOccupation>
+<artworks />
+<dbpResource>http://dbpedia.org/resource/Giuseppe_De_Nittis</dbpResource>
+<abstract>Giuseppe Gaetano de Nittis (* 25. Februar 1846 in Barletta; † 22. August 1884 in St-Germain-en-Laye bei Paris) war ein italienischer Maler des Impressionismus.</abstract>
+<wikilink>http://en.wikipedia.org/wiki/Giuseppe_De_Nittis?oldid=602490174</wikilink>
+</Person>

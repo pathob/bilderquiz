@@ -1,0 +1,26 @@
+<Person>
+<name>Fritz Winter</name>
+<variantName />
+<thumbnail>https://commons.wikimedia.org/wiki/Special:FilePath/Fritz-Winter-Haus_Ahlen_Eingangsschild.jpg?width=270</thumbnail>
+<birthEN>1905</birthEN>
+<birthDE>1905</birthDE>
+<deathEN>1976</deathEN>
+<deathDE>1976</deathDE>
+<birthPlace>
+<XML_Serializer_Tag>Altenbögge bei Unna</XML_Serializer_Tag>
+</birthPlace>
+<deathPlace>
+<XML_Serializer_Tag>Herrsching a. Ammersee</XML_Serializer_Tag>
+</deathPlace>
+<professionOrOccupation>
+<XML_Serializer_Tag>Künstler</XML_Serializer_Tag>
+<XML_Serializer_Tag>Maler</XML_Serializer_Tag>
+<XML_Serializer_Tag>Hochschullehrer</XML_Serializer_Tag>
+<XML_Serializer_Tag>Elektriker</XML_Serializer_Tag>
+<XML_Serializer_Tag>Bergmann</XML_Serializer_Tag>
+</professionOrOccupation>
+<artworks />
+<dbpResource>http://dbpedia.org/resource/Fritz_Winter</dbpResource>
+<abstract>Fritz Winter (* 22. September 1905 in Altenbögge (heute Ortsteil von Bönen) /Westf.; † 1. Oktober 1976 in Herrsching am Ammersee) war ein deutscher Maler, der zu den wichtigsten abstrakten Künstlern der Nachkriegszeit zählt.</abstract>
+<wikilink>http://en.wikipedia.org/wiki/Fritz_Winter?oldid=575918980</wikilink>
+</Person>

@@ -1,0 +1,26 @@
+<Person>
+<name>Karl Hofer</name>
+<variantName>
+<XML_Serializer_Tag>K. Hofer</XML_Serializer_Tag>
+<XML_Serializer_Tag>Carl Hofer</XML_Serializer_Tag>
+</variantName>
+<thumbnail>https://commons.wikimedia.org/wiki/Special:FilePath/DBPB_1978_Karl_Hofer.jpg?width=270</thumbnail>
+<birthEN>October 11, 1878</birthEN>
+<birthDE>11. Oktober 1878</birthDE>
+<deathEN>April 3, 1955</deathEN>
+<deathDE>3. April 1955</deathDE>
+<birthPlace>
+<XML_Serializer_Tag>Karlsruhe</XML_Serializer_Tag>
+</birthPlace>
+<deathPlace>
+<XML_Serializer_Tag>Berlin</XML_Serializer_Tag>
+</deathPlace>
+<professionOrOccupation>
+<XML_Serializer_Tag>Maler</XML_Serializer_Tag>
+<XML_Serializer_Tag>Graphiker</XML_Serializer_Tag>
+</professionOrOccupation>
+<artworks />
+<dbpResource>http://dbpedia.org/resource/Karl_H%C3%B6fer</dbpResource>
+<abstract>Karl Hoefer (* 29. Dezember 1862 in Pleß, Provinz Schlesien; † 12. Mai 1939 in Würzburg) war ein deutscher Generalleutnant sowie Freikorpsführer und SS-Oberführer.</abstract>
+<wikilink>http://en.wikipedia.org/wiki/Karl_Höfer?oldid=543064472</wikilink>
+</Person>

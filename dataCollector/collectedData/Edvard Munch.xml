@@ -1,0 +1,52 @@
+<Person>
+<name>Edvard Munch</name>
+<variantName>
+<XML_Serializer_Tag>Edward Munch</XML_Serializer_Tag>
+<XML_Serializer_Tag>Edvard Munk</XML_Serializer_Tag>
+</variantName>
+<thumbnail>https://de.wikipedia.org/wiki/Special:FilePath/WP_Edvard_Munch_1906.jpg?width=270</thumbnail>
+<birthEN>1863</birthEN>
+<birthDE>1863</birthDE>
+<deathEN>1944</deathEN>
+<deathDE>1944</deathDE>
+<birthPlace />
+<deathPlace />
+<professionOrOccupation>
+<XML_Serializer_Tag>Maler</XML_Serializer_Tag>
+<XML_Serializer_Tag>Graphiker</XML_Serializer_Tag>
+</professionOrOccupation>
+<artworks>
+<XML_Serializer_Tag>
+<painting>
+<type>uri</type>
+<value>http://dbpedia.org/resource/The_Scream</value>
+</painting>
+<thumbnail>
+<type>uri</type>
+<value>http://en.wikipedia.org/wiki/Special:FilePath/The_Scream.jpg?width=300</value>
+</thumbnail>
+<name>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>The Scream</value>
+</name>
+<year>
+<type>typed-literal</type>
+<datatype>http://www.w3.org/2001/XMLSchema#integer</datatype>
+<value>1893</value>
+</year>
+<abstract>
+<type>literal</type>
+<xml:lang>de</xml:lang>
+<value>Der Schrei (norwegisch Skrik, deutsch zum Teil auch Geschrei) ist der jeweilige Titel von vier nahezu identischen Gemälden des norwegischen Malers Edvard Munch, die zwischen 1893 und 1910 entstanden. Der Schrei gilt neben Leonardo da Vincis Mona Lisa und Vincent van Goghs Variationen der Sonnenblumen als eines der bekanntesten Gemälde weltweit sowie als expressionistisches Meisterwerk.</value>
+</abstract>
+<wikilink>
+<type>uri</type>
+<value>http://en.wikipedia.org/wiki/The_Scream?oldid=606445705</value>
+</wikilink>
+</XML_Serializer_Tag>
+</artworks>
+<dbpResource>http://dbpedia.org/resource/Edvard_Munch</dbpResource>
+<abstract>Edvard Munch [ɛdvɒ:rt muŋk] (* 12. Dezember 1863 in Løten, Hedmark, Norwegen; † 23. Januar 1944 auf Ekely in Oslo) war ein norwegischer Maler und Grafiker des Symbolismus.Munch gilt als Bahnbrecher für die expressionistische Richtung in der Malerei der Moderne. In Deutschland und Mitteleuropa genoss er früh den Ruf eines Epoche machenden Neuschöpfers, und heute sind seine Eigenart und sein Status schon längst im übrigen Europa und in der Welt anerkannt. Am bekanntesten sind die Werke Munchs aus den 1890er Jahren.</abstract>
+<wikilink>http://en.wikipedia.org/wiki/Edvard_Munch?oldid=606745263</wikilink>
+</Person>

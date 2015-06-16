@@ -1,0 +1,28 @@
+<Person>
+<name>Heinrich Lefler</name>
+<variantName>
+<XML_Serializer_Tag>H. Lefler</XML_Serializer_Tag>
+<XML_Serializer_Tag>Лефлер, Генрих</XML_Serializer_Tag>
+</variantName>
+<thumbnail>https://commons.wikimedia.org/wiki/Special:FilePath/Heinrich_Lefler_around_1900.jpg?width=270</thumbnail>
+<birthEN>November 7, 1863</birthEN>
+<birthDE>7. November 1863</birthDE>
+<deathEN>March 17, 1919</deathEN>
+<deathDE>17. März 1919</deathDE>
+<birthPlace>
+<XML_Serializer_Tag>Wien</XML_Serializer_Tag>
+</birthPlace>
+<deathPlace>
+<XML_Serializer_Tag>Wien</XML_Serializer_Tag>
+</deathPlace>
+<professionOrOccupation>
+<XML_Serializer_Tag>Künstler</XML_Serializer_Tag>
+<XML_Serializer_Tag>Illustrator</XML_Serializer_Tag>
+<XML_Serializer_Tag>Maler</XML_Serializer_Tag>
+<XML_Serializer_Tag>Bühnenausstatter</XML_Serializer_Tag>
+</professionOrOccupation>
+<artworks />
+<dbpResource>http://dbpedia.org/resource/Heinrich_Lefler</dbpResource>
+<abstract>Heinrich Lefler (* 7. November 1863 in Wien; † 17. März 1919 ebenda) war ein österreichischer Maler, Graphiker und Bühnenbildner.</abstract>
+<wikilink>http://en.wikipedia.org/wiki/Heinrich_Lefler?oldid=599502630</wikilink>
+</Person>

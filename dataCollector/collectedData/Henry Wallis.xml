@@ -1,0 +1,44 @@
+<Person>
+<name>Henry Wallis</name>
+<variantName />
+<thumbnail>https://commons.wikimedia.org/wiki/Special:FilePath/Chatterton.jpg?width=270</thumbnail>
+<birthEN>February 23, 1830</birthEN>
+<birthDE>23. Februar 1830</birthDE>
+<deathEN>1916</deathEN>
+<deathDE>1916</deathDE>
+<birthPlace />
+<deathPlace />
+<professionOrOccupation>
+<XML_Serializer_Tag>Maler</XML_Serializer_Tag>
+<XML_Serializer_Tag>Archäologe</XML_Serializer_Tag>
+</professionOrOccupation>
+<artworks>
+<XML_Serializer_Tag>
+<painting>
+<type>uri</type>
+<value>http://dbpedia.org/resource/The_Stonebreaker</value>
+</painting>
+<thumbnail>
+<type>uri</type>
+<value>http://commons.wikimedia.org/wiki/Special:FilePath/Wallis_The_Stonebreaker.jpg?width=300</value>
+</thumbnail>
+<name>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>The Stonebreaker</value>
+</name>
+<year>
+<type>typed-literal</type>
+<datatype>http://www.w3.org/2001/XMLSchema#integer</datatype>
+<value>1857</value>
+</year>
+<wikilink>
+<type>uri</type>
+<value>http://en.wikipedia.org/wiki/The_Stonebreaker?oldid=544894851</value>
+</wikilink>
+</XML_Serializer_Tag>
+</artworks>
+<dbpResource>http://dbpedia.org/resource/Henry_Wallis</dbpResource>
+<abstract>Henry Wallis (* 21. Februar 1830 in London; † 20. Dezember 1916 in Croydon, Surrey) war ein britischer Maler im Stil der Präraffaeliten.</abstract>
+<wikilink>http://en.wikipedia.org/wiki/Henry_Wallis?oldid=588485002</wikilink>
+</Person>

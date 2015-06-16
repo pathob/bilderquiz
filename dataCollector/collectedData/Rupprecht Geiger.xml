@@ -1,0 +1,27 @@
+<Person>
+<name>Rupprecht Geiger</name>
+<variantName>
+<XML_Serializer_Tag>Rupprecht Gejger</XML_Serializer_Tag>
+<XML_Serializer_Tag>Ruprecht Geiger</XML_Serializer_Tag>
+</variantName>
+<thumbnail>https://commons.wikimedia.org/wiki/Special:FilePath/Gasteig_Muenchen-2.jpg?width=270</thumbnail>
+<birthEN>January 26, 1908</birthEN>
+<birthDE>26. Januar 1908</birthDE>
+<deathEN>December 6, 2009</deathEN>
+<deathDE>6. Dezember 2009</deathDE>
+<birthPlace>
+<XML_Serializer_Tag>München</XML_Serializer_Tag>
+</birthPlace>
+<deathPlace />
+<professionOrOccupation>
+<XML_Serializer_Tag>Architekt</XML_Serializer_Tag>
+<XML_Serializer_Tag>Maurer</XML_Serializer_Tag>
+<XML_Serializer_Tag>Maler</XML_Serializer_Tag>
+<XML_Serializer_Tag>Bildhauer</XML_Serializer_Tag>
+<XML_Serializer_Tag>Graphiker</XML_Serializer_Tag>
+</professionOrOccupation>
+<artworks />
+<dbpResource>http://dbpedia.org/resource/Rupprecht_Geiger</dbpResource>
+<abstract>Rupprecht Geiger (* 26. Januar 1908 in München; † 6. Dezember 2009 in München ) war ein abstrakter deutscher Maler und Bildhauer.</abstract>
+<wikilink>http://en.wikipedia.org/wiki/Rupprecht_Geiger?oldid=586385955</wikilink>
+</Person>

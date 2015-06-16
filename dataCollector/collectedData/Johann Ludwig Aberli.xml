@@ -1,0 +1,26 @@
+<Person>
+<name>Johann Ludwig Aberli</name>
+<variantName>
+<XML_Serializer_Tag>Jean-Louis Aberli</XML_Serializer_Tag>
+<XML_Serializer_Tag>Jean Louis Aberli</XML_Serializer_Tag>
+<XML_Serializer_Tag>J. L. Aberli</XML_Serializer_Tag>
+</variantName>
+<thumbnail>https://commons.wikimedia.org/wiki/Special:FilePath/Handmann_Johann_Ludwig_Aberli.jpg?width=270</thumbnail>
+<birthEN>1723</birthEN>
+<birthDE>1723</birthDE>
+<deathEN>1786</deathEN>
+<deathDE>1786</deathDE>
+<birthPlace />
+<deathPlace>
+<XML_Serializer_Tag>Bern</XML_Serializer_Tag>
+</deathPlace>
+<professionOrOccupation>
+<XML_Serializer_Tag>Maler</XML_Serializer_Tag>
+<XML_Serializer_Tag>Zeichner</XML_Serializer_Tag>
+<XML_Serializer_Tag>Radierer</XML_Serializer_Tag>
+</professionOrOccupation>
+<artworks />
+<dbpResource>http://dbpedia.org/resource/Johann_Ludwig_Aberli</dbpResource>
+<abstract>Johann Ludwig Aberli (* 14. November 1723 in Winterthur; † 17. Oktober 1786 in Bern) war ein Schweizer Maler.</abstract>
+<wikilink>http://en.wikipedia.org/wiki/Johann_Ludwig_Aberli?oldid=583495814</wikilink>
+</Person>

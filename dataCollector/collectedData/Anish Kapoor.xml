@@ -1,0 +1,52 @@
+<Person>
+<name>Anish Kapoor</name>
+<variantName />
+<thumbnail>https://commons.wikimedia.org/wiki/Special:FilePath/Anish_Kapoor_at_the_Deutsche_Guggenheim_-_Berlin.jpg?width=270</thumbnail>
+<birthEN>1954</birthEN>
+<birthDE>1954</birthDE>
+<deathEN />
+<deathDE />
+<birthPlace>
+<XML_Serializer_Tag>Bombay</XML_Serializer_Tag>
+</birthPlace>
+<deathPlace />
+<professionOrOccupation>
+<XML_Serializer_Tag>Künstler</XML_Serializer_Tag>
+<XML_Serializer_Tag>Maler</XML_Serializer_Tag>
+<XML_Serializer_Tag>Bildhauer</XML_Serializer_Tag>
+</professionOrOccupation>
+<artworks>
+<XML_Serializer_Tag>
+<painting>
+<type>uri</type>
+<value>http://dbpedia.org/resource/Cloud_Gate</value>
+</painting>
+<thumbnail>
+<type>uri</type>
+<value>http://commons.wikimedia.org/wiki/Special:FilePath/Kapoor_cropped.jpg?width=300</value>
+</thumbnail>
+<name>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>Cloud Gate</value>
+</name>
+<year>
+<type>typed-literal</type>
+<datatype>http://www.w3.org/2001/XMLSchema#integer</datatype>
+<value>2006</value>
+</year>
+<abstract>
+<type>literal</type>
+<xml:lang>de</xml:lang>
+<value>Das Cloud Gate, eine öffentliche Skulptur des britischen Künstlers Anish Kapoor, ist das zentrale Kunstwerk des AT&amp;T-Platzes im Millennium Park von Chicago, Illinois. Die Skulptur wurde zwischen 2004 und 2006 erstellt und wird aufgrund ihrer bohnenartigen Form auch The Bean genannt. Sie wurde aus 168 Edelstahlplatten zusammengeschweißt, ist hochglanzpoliert und hat keine sichtbaren Nähte. Sie misst 10 m × 20 m × 13 m (66 ft × 33 ft × 42 ft) und wiegt 99,8 Tonnen.</value>
+</abstract>
+<wikilink>
+<type>uri</type>
+<value>http://en.wikipedia.org/wiki/Cloud_Gate?oldid=604339215</value>
+</wikilink>
+</XML_Serializer_Tag>
+</artworks>
+<dbpResource>http://dbpedia.org/resource/Anish_Kapoor</dbpResource>
+<abstract>Sir Anish Kapoor (* 12. März 1954 in Mumbai, Indien) ist ein in Indien geborener, in London ansässiger britischer Bildhauer. Als Gewinner einiger der begehrtesten Kunstpreise und Träger hoher ziviler Auszeichnungen gehört er zu den weltweit angesehensten Künstlern seiner Zeit.</abstract>
+<wikilink>http://en.wikipedia.org/wiki/Anish_Kapoor?oldid=605848270</wikilink>
+</Person>

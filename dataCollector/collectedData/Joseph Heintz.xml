@@ -1,0 +1,35 @@
+<Person>
+<name>Joseph Heintz</name>
+<variantName>
+<XML_Serializer_Tag>Joseph Heintze</XML_Serializer_Tag>
+<XML_Serializer_Tag>Josephus Heintz</XML_Serializer_Tag>
+<XML_Serializer_Tag>Joseph Heinz</XML_Serializer_Tag>
+<XML_Serializer_Tag>Josephus Heinz</XML_Serializer_Tag>
+<XML_Serializer_Tag>Joseph Hainz</XML_Serializer_Tag>
+<XML_Serializer_Tag>Joseph von Heintz</XML_Serializer_Tag>
+<XML_Serializer_Tag>Joseph von Heinz</XML_Serializer_Tag>
+<XML_Serializer_Tag>Josephus Heintzius</XML_Serializer_Tag>
+</variantName>
+<thumbnail>https://commons.wikimedia.org/wiki/Special:FilePath/Aachen,_Hans_von_-_Joseph_Heintz_(1585).jpg?width=270</thumbnail>
+<birthEN>June 11, 1564</birthEN>
+<birthDE>11. Juni 1564</birthDE>
+<deathEN>October 15, 1609</deathEN>
+<deathDE>15. Oktober 1609</deathDE>
+<birthPlace>
+<XML_Serializer_Tag>Basel</XML_Serializer_Tag>
+</birthPlace>
+<deathPlace>
+<XML_Serializer_Tag>Prag</XML_Serializer_Tag>
+</deathPlace>
+<professionOrOccupation>
+<XML_Serializer_Tag>Maler</XML_Serializer_Tag>
+<XML_Serializer_Tag>Architekt</XML_Serializer_Tag>
+<XML_Serializer_Tag>Baumeister</XML_Serializer_Tag>
+<XML_Serializer_Tag>Zeichner</XML_Serializer_Tag>
+<XML_Serializer_Tag>Bildnismaler</XML_Serializer_Tag>
+</professionOrOccupation>
+<artworks />
+<dbpResource>http://dbpedia.org/resource/Joseph_Heintz_the_Elder</dbpResource>
+<abstract>Joseph Heintz (getauft am 11. Juni 1564 in Basel; † 15. Oktober 1609 in Prag) war ein Schweizer Maler und Architekt.</abstract>
+<wikilink>http://en.wikipedia.org/wiki/Joseph_Heintz_the_Elder?oldid=541048956</wikilink>
+</Person>

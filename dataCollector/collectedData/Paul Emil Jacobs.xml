@@ -1,0 +1,26 @@
+<Person>
+<name>Paul Emil Jacobs</name>
+<variantName>
+<XML_Serializer_Tag>Emil Jacobs</XML_Serializer_Tag>
+<XML_Serializer_Tag>Paul E. Jacobs</XML_Serializer_Tag>
+<XML_Serializer_Tag>E. Jacobs</XML_Serializer_Tag>
+</variantName>
+<thumbnail>https://commons.wikimedia.org/wiki/Special:FilePath/Jacobsdenkmal_Gotha.JPG?width=270</thumbnail>
+<birthEN>August 18, 1802</birthEN>
+<birthDE>18. August 1802</birthDE>
+<deathEN>January 6, 1866</deathEN>
+<deathDE>6. Januar 1866</deathDE>
+<birthPlace>
+<XML_Serializer_Tag>Gotha</XML_Serializer_Tag>
+</birthPlace>
+<deathPlace>
+<XML_Serializer_Tag>Gotha</XML_Serializer_Tag>
+</deathPlace>
+<professionOrOccupation>
+<XML_Serializer_Tag>Maler</XML_Serializer_Tag>
+</professionOrOccupation>
+<artworks />
+<dbpResource>http://dbpedia.org/resource/Paul_Emil_Jacobs</dbpResource>
+<abstract>Paul Emil Jacobs (* 20. August 1802 in Gotha; † 6. Januar 1866 ebenda) war ein deutscher Maler.</abstract>
+<wikilink>http://en.wikipedia.org/wiki/Paul_Emil_Jacobs?oldid=565015579</wikilink>
+</Person>

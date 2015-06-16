@@ -1,0 +1,33 @@
+<Person>
+<name>Petrus Camper</name>
+<variantName>
+<XML_Serializer_Tag>Pieter Camper</XML_Serializer_Tag>
+<XML_Serializer_Tag>Peter Camper</XML_Serializer_Tag>
+<XML_Serializer_Tag>Pierre Camper</XML_Serializer_Tag>
+<XML_Serializer_Tag>Petrus Camperus</XML_Serializer_Tag>
+<XML_Serializer_Tag>Pet. Camper</XML_Serializer_Tag>
+<XML_Serializer_Tag>Patrus Camper</XML_Serializer_Tag>
+</variantName>
+<thumbnail>https://commons.wikimedia.org/wiki/Special:FilePath/Petrus-Camper-(professor).jpg?width=270</thumbnail>
+<birthEN>May 11, 1722</birthEN>
+<birthDE>11. Mai 1722</birthDE>
+<deathEN>April 7, 1789</deathEN>
+<deathDE>7. April 1789</deathDE>
+<birthPlace>
+<XML_Serializer_Tag>Leiden</XML_Serializer_Tag>
+</birthPlace>
+<deathPlace>
+<XML_Serializer_Tag>Den Haag</XML_Serializer_Tag>
+</deathPlace>
+<professionOrOccupation>
+<XML_Serializer_Tag>Arzt</XML_Serializer_Tag>
+<XML_Serializer_Tag>Chirurg</XML_Serializer_Tag>
+<XML_Serializer_Tag>Anatom</XML_Serializer_Tag>
+<XML_Serializer_Tag>Maler</XML_Serializer_Tag>
+<XML_Serializer_Tag>Schriftsteller</XML_Serializer_Tag>
+</professionOrOccupation>
+<artworks />
+<dbpResource>http://dbpedia.org/resource/Petrus_Camper</dbpResource>
+<abstract>Peter Camper (* 11. Mai 1722 in Leiden; † 7. April 1789 in Den Haag) war ein niederländischer Mediziner. Camper studierte in Leiden Medizin und wurde 1750 Professor für Medizin in Franeker, 1755 Professor der Chirurgie in Amsterdam und 1763 Professor der Chirurgie und der Botanik in Groningen.1773 legte er sein Amt nieder, privatisierte in Franeker und ging auf Reisen. Nachdem er 1787 Mitglied des Staatsrats geworden war, siedelte er nach Den Haag über, wo er 1789 starb.Er schrieb: Demonstrationes anatomico-pathologicae (Den Haag 1760-62, 2 Teile, jeder mit 4 großen Kupfertafeln); De claudicatione (Groningen 1763); Dissertatio de callo ossium (Groningen 1765). Eine Sammlung seiner Schriften (3 Bände und ein Atlas) erschien 1803 in Paris. Seine Schriften bildeten unter Anderem die Grundlage eines neuen Zweigs der Anatomie - der Kraniometrie.Peter Camper versuchte, die Schönheit der menschlichen Gesichtsform auf bestimmte Prinzipien zurückzuführen. Von seinen physiognomischen Studien zeugt eine nach ihm benannte Bezugsebene am menschlichen Schädel (Campersche Ebene): Sie verläuft am knöchernen Schädel von der spina nasalis anterior zum Hiatus acusticus externus.Schon früh versuchte er sich auch im Zeichnen und Malen mit Ölfarben, ätzte viele kleine Blätter und schrieb über die Verbindung der Anatomie mit den zeichnenden Künsten. Ein Hauptverdienst erwarb er sich durch seine großformatigen anatomischen und osteologischen Zeichnungen, von denen noch viele vorhanden sind.Camper widmete sich auch sehr engagiert der theoretischen und praktischen Baukunst; für seine Zeit außergewöhnlich versuchte er sich noch im Alter von 50 Jahren in der Bildhauerei.</abstract>
+<wikilink>http://en.wikipedia.org/wiki/Petrus_Camper?oldid=580574157</wikilink>
+</Person>

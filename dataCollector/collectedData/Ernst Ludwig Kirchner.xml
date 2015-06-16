@@ -1,0 +1,47 @@
+<Person>
+<name>Ernst Ludwig Kirchner</name>
+<variantName>
+<XML_Serializer_Tag>Ernst-Ludwig Kirchner</XML_Serializer_Tag>
+<XML_Serializer_Tag>Ernst L. Kirchner</XML_Serializer_Tag>
+<XML_Serializer_Tag>E. L. Kirchner</XML_Serializer_Tag>
+<XML_Serializer_Tag>L. de Marsalle</XML_Serializer_Tag>
+<XML_Serializer_Tag>Louis de Marsalle</XML_Serializer_Tag>
+</variantName>
+<thumbnail>https://commons.wikimedia.org/wiki/Special:FilePath/Kirchner_1919_portrait.jpg?width=270</thumbnail>
+<birthEN>1880</birthEN>
+<birthDE>1880</birthDE>
+<deathEN>1938</deathEN>
+<deathDE>1938</deathDE>
+<birthPlace />
+<deathPlace />
+<professionOrOccupation>
+<XML_Serializer_Tag>Maler</XML_Serializer_Tag>
+<XML_Serializer_Tag>Graphiker</XML_Serializer_Tag>
+<XML_Serializer_Tag>Bildhauer</XML_Serializer_Tag>
+<XML_Serializer_Tag>Photograph</XML_Serializer_Tag>
+</professionOrOccupation>
+<artworks>
+<XML_Serializer_Tag>
+<painting>
+<type>uri</type>
+<value>http://dbpedia.org/resource/Five_Bathing_Women_at_a_Lake</value>
+</painting>
+<thumbnail>
+<type>uri</type>
+<value>http://commons.wikimedia.org/wiki/Special:FilePath/Kirchner_-_Fünf_badende_am_See.jpg?width=300</value>
+</thumbnail>
+<name>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>Five Bathing Women at a Lake</value>
+</name>
+<wikilink>
+<type>uri</type>
+<value>http://en.wikipedia.org/wiki/Five_Bathing_Women_at_a_Lake?oldid=563822394</value>
+</wikilink>
+</XML_Serializer_Tag>
+</artworks>
+<dbpResource>http://dbpedia.org/resource/Ernst_Ludwig_Kirchner</dbpResource>
+<abstract>Ernst Ludwig Kirchner (* 6. Mai 1880 in Aschaffenburg; † 15. Juni 1938 in Frauenkirch-Wildboden bei Davos (Schweiz)) war ein deutscher Maler und Grafiker des Expressionismus. Kirchner war ein Gründungsmitglied der Künstlergruppe Brücke. 1937 wurden seine Werke durch die Nazis als „entartet“ gebrandmarkt. Über 600 dieser Werke wurden daraufhin verkauft oder zerstört. Ein Jahr darauf nahm er sich mit einer Schusswaffe das Leben.</abstract>
+<wikilink>http://en.wikipedia.org/wiki/Ernst_Ludwig_Kirchner?oldid=604273463</wikilink>
+</Person>

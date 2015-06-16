@@ -1,0 +1,29 @@
+<Person>
+<name>Hans Baluschek</name>
+<variantName>
+<XML_Serializer_Tag>Jan Baluschek</XML_Serializer_Tag>
+<XML_Serializer_Tag>Hans Baluschek</XML_Serializer_Tag>
+</variantName>
+<thumbnail>https://commons.wikimedia.org/wiki/Special:FilePath/Bundesarchiv_Bild_183-R05358,_Hans_Baluschek.jpg?width=270</thumbnail>
+<birthEN>May 9, 1870</birthEN>
+<birthDE>9. Mai 1870</birthDE>
+<deathEN>September 28, 1935</deathEN>
+<deathDE>28. September 1935</deathDE>
+<birthPlace>
+<XML_Serializer_Tag>Breslau</XML_Serializer_Tag>
+</birthPlace>
+<deathPlace>
+<XML_Serializer_Tag>Berlin</XML_Serializer_Tag>
+</deathPlace>
+<professionOrOccupation>
+<XML_Serializer_Tag>Schriftsteller</XML_Serializer_Tag>
+<XML_Serializer_Tag>Maler</XML_Serializer_Tag>
+<XML_Serializer_Tag>Graphiker</XML_Serializer_Tag>
+<XML_Serializer_Tag>Filmarchitekt</XML_Serializer_Tag>
+<XML_Serializer_Tag>Kostümbildner</XML_Serializer_Tag>
+</professionOrOccupation>
+<artworks />
+<dbpResource>http://dbpedia.org/resource/Hans_Baluschek</dbpResource>
+<abstract>Hans Baluschek (* 9. Mai 1870 in Breslau; † 28. September 1935 in Berlin) war ein deutscher Maler, Grafiker und Schriftsteller. Er gehörte zur Berliner Secession und war nach 1920 aktives Mitglied der SPD.Baluschek war ein Hauptvertreter des deutschen kritischen Realismus, wobei Baluschek selbst jede Form des „-ismus“ für seine Kunst ablehnte, und stellte anklagend das Leben des Proletariats dar. Seine Bilder beschäftigten sich entsprechend vor allem mit den Menschen des Arbeiterstandes in Berlin.Bekannt wurde er vor allem durch seine Gemälde und Illustrationen von Büchern wie Peterchens Mondfahrt und verschiedenen Zeitschriften.</abstract>
+<wikilink>http://en.wikipedia.org/wiki/Hans_Baluschek?oldid=581942207</wikilink>
+</Person>

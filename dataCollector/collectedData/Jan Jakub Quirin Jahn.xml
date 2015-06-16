@@ -1,0 +1,29 @@
+<Person>
+<name>Jan Jakub Quirin Jahn</name>
+<variantName>
+<XML_Serializer_Tag>Johann Quirin Jahn</XML_Serializer_Tag>
+<XML_Serializer_Tag>Quirin Jahn</XML_Serializer_Tag>
+<XML_Serializer_Tag>J. Quirin Jahn</XML_Serializer_Tag>
+<XML_Serializer_Tag>Jan Quirin Jahn</XML_Serializer_Tag>
+</variantName>
+<thumbnail>https://commons.wikimedia.org/wiki/Special:FilePath/Portrait_of_a_Lady_with_a_Bonnet_(1785)_by_Jan_Jahn.jpg?width=270</thumbnail>
+<birthEN>June 4, 1739</birthEN>
+<birthDE>4. Juni 1739</birthDE>
+<deathEN>July 18, 1802</deathEN>
+<deathDE>18. Juli 1802</deathDE>
+<birthPlace>
+<XML_Serializer_Tag>Prag</XML_Serializer_Tag>
+</birthPlace>
+<deathPlace>
+<XML_Serializer_Tag>Prag</XML_Serializer_Tag>
+</deathPlace>
+<professionOrOccupation>
+<XML_Serializer_Tag>Künstler</XML_Serializer_Tag>
+<XML_Serializer_Tag>Kunsthistoriker</XML_Serializer_Tag>
+<XML_Serializer_Tag>Maler</XML_Serializer_Tag>
+</professionOrOccupation>
+<artworks />
+<dbpResource>http://dbpedia.org/resource/Jan_Jahn</dbpResource>
+<abstract>Jan Jakub Quirin Jahn (* 4. Juni 1739 in Prag; † 18. Juli 1802 ebenda), war tschechischer Zeichner, Maler und Theoretiker sowie Historiker der bildenden Künste.</abstract>
+<wikilink>http://en.wikipedia.org/wiki/Jan_Jahn?oldid=544038838</wikilink>
+</Person>

@@ -1,0 +1,28 @@
+<Person>
+<name>Karl Walser</name>
+<variantName>
+<XML_Serializer_Tag>Karl Edmund Walser</XML_Serializer_Tag>
+<XML_Serializer_Tag>Carl Edmund Walser</XML_Serializer_Tag>
+</variantName>
+<thumbnail>https://commons.wikimedia.org/wiki/Special:FilePath/Karl_walser1897.jpg?width=270</thumbnail>
+<birthEN>April 8, 1877</birthEN>
+<birthDE>8. April 1877</birthDE>
+<deathEN>September 28, 1943</deathEN>
+<deathDE>28. September 1943</deathDE>
+<birthPlace>
+<XML_Serializer_Tag>Biel</XML_Serializer_Tag>
+</birthPlace>
+<deathPlace>
+<XML_Serializer_Tag>Bern</XML_Serializer_Tag>
+</deathPlace>
+<professionOrOccupation>
+<XML_Serializer_Tag>Künstler</XML_Serializer_Tag>
+<XML_Serializer_Tag>Maler</XML_Serializer_Tag>
+<XML_Serializer_Tag>Graphiker</XML_Serializer_Tag>
+<XML_Serializer_Tag>Bühnenbildner</XML_Serializer_Tag>
+</professionOrOccupation>
+<artworks />
+<dbpResource>http://dbpedia.org/resource/Karl_Walser</dbpResource>
+<abstract>Karl Walser (* 8. April 1877 in Biel/Bienne; † 28. September 1943 in Bern) war ein Schweizer Maler, Bühnenbildner und Illustrator.</abstract>
+<wikilink>http://en.wikipedia.org/wiki/Karl_Walser?oldid=583492891</wikilink>
+</Person>

@@ -1,0 +1,24 @@
+<Person>
+<name>Eberhard Schlotter</name>
+<variantName />
+<thumbnail>https://de.wikipedia.org/wiki/Special:FilePath/Schlotter-wandbild1955.jpg?width=270</thumbnail>
+<birthEN>June 3, 1921</birthEN>
+<birthDE>3. Juni 1921</birthDE>
+<deathEN>September 8, 2014</deathEN>
+<deathDE>8. September 2014</deathDE>
+<birthPlace>
+<XML_Serializer_Tag>Hildesheim</XML_Serializer_Tag>
+</birthPlace>
+<deathPlace>
+<XML_Serializer_Tag>Altea</XML_Serializer_Tag>
+</deathPlace>
+<professionOrOccupation>
+<XML_Serializer_Tag>Künstler</XML_Serializer_Tag>
+<XML_Serializer_Tag>Maler</XML_Serializer_Tag>
+<XML_Serializer_Tag>Graphiker</XML_Serializer_Tag>
+</professionOrOccupation>
+<artworks />
+<dbpResource>http://dbpedia.org/resource/Eberhard_Schlotter</dbpResource>
+<abstract>Eberhard Schlotter (* 3. Juni 1921 in Hildesheim) ist ein deutscher Maler und Graphiker. Er lebt in Spanien und Deutschland.</abstract>
+<wikilink>http://en.wikipedia.org/wiki/Eberhard_Schlotter?oldid=564499922</wikilink>
+</Person>

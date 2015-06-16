@@ -1,0 +1,25 @@
+<Person>
+<name>Marino Marini</name>
+<variantName />
+<thumbnail>https://commons.wikimedia.org/wiki/Special:FilePath/Marino_Marini_-_Miracolo_1959-60-1.jpg?width=270</thumbnail>
+<birthEN>February 27, 1901</birthEN>
+<birthDE>27. Februar 1901</birthDE>
+<deathEN>August 6, 1980</deathEN>
+<deathDE>6. August 1980</deathDE>
+<birthPlace>
+<XML_Serializer_Tag>Pistoia</XML_Serializer_Tag>
+</birthPlace>
+<deathPlace>
+<XML_Serializer_Tag>Viareggio</XML_Serializer_Tag>
+</deathPlace>
+<professionOrOccupation>
+<XML_Serializer_Tag>Künstler</XML_Serializer_Tag>
+<XML_Serializer_Tag>Bildhauer</XML_Serializer_Tag>
+<XML_Serializer_Tag>Graphiker</XML_Serializer_Tag>
+<XML_Serializer_Tag>Maler</XML_Serializer_Tag>
+</professionOrOccupation>
+<artworks />
+<dbpResource>http://dbpedia.org/resource/Marino_Marini_(sculptor)</dbpResource>
+<abstract>Marino Marini (* 27. Februar 1901 in Pistoia; † 6. August 1980 in Viareggio) war ein italienischer Künstler, der sich zunächst überwiegend als Bildhauer, später auch als Grafiker betätigt hat.</abstract>
+<wikilink>http://en.wikipedia.org/wiki/Marino_Marini_(sculptor)?oldid=604526365</wikilink>
+</Person>

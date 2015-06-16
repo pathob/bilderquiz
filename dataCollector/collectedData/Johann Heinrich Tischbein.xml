@@ -1,0 +1,29 @@
+<Person>
+<name>Johann Heinrich Tischbein</name>
+<variantName>
+<XML_Serializer_Tag>, der Ältere</XML_Serializer_Tag>
+<XML_Serializer_Tag>, d. Ä.</XML_Serializer_Tag>
+<XML_Serializer_Tag>J. H. Tischbein</XML_Serializer_Tag>
+<XML_Serializer_Tag>, d.Ä.</XML_Serializer_Tag>
+<XML_Serializer_Tag>Johann H. Tischbein</XML_Serializer_Tag>
+</variantName>
+<thumbnail>https://commons.wikimedia.org/wiki/Special:FilePath/TischbeinJHÄ.jpg?width=270</thumbnail>
+<birthEN>October 14, 1722</birthEN>
+<birthDE>14. Oktober 1722</birthDE>
+<deathEN>August 22, 1789</deathEN>
+<deathDE>22. August 1789</deathDE>
+<birthPlace>
+<XML_Serializer_Tag>Haina (Kloster)</XML_Serializer_Tag>
+</birthPlace>
+<deathPlace>
+<XML_Serializer_Tag>Kassel</XML_Serializer_Tag>
+</deathPlace>
+<professionOrOccupation>
+<XML_Serializer_Tag>Maler</XML_Serializer_Tag>
+<XML_Serializer_Tag>Radierer</XML_Serializer_Tag>
+</professionOrOccupation>
+<artworks />
+<dbpResource>http://dbpedia.org/resource/Johann_Heinrich_Tischbein</dbpResource>
+<abstract>Johann Heinrich Tischbein der Ältere (* 3. Oktober 1722 in Haina; † 22. August 1789 in Kassel; genannt der Kasseler) war einer der anerkanntesten Maler und einer der größten Portraitisten des 18. Jahrhunderts.</abstract>
+<wikilink>http://en.wikipedia.org/wiki/Johann_Heinrich_Tischbein?oldid=564745165</wikilink>
+</Person>

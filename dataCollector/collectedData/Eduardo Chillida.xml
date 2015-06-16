@@ -1,0 +1,26 @@
+<Person>
+<name>Eduardo Chillida</name>
+<variantName>
+<XML_Serializer_Tag>Eduardo Chilida</XML_Serializer_Tag>
+</variantName>
+<thumbnail>https://commons.wikimedia.org/wiki/Special:FilePath/Eduardo_Txillida.jpg?width=270</thumbnail>
+<birthEN>January 10, 1924</birthEN>
+<birthDE>10. Januar 1924</birthDE>
+<deathEN>August 19, 2002</deathEN>
+<deathDE>19. August 2002</deathDE>
+<birthPlace>
+<XML_Serializer_Tag>San Sebastián</XML_Serializer_Tag>
+</birthPlace>
+<deathPlace>
+<XML_Serializer_Tag>San Sebastián</XML_Serializer_Tag>
+</deathPlace>
+<professionOrOccupation>
+<XML_Serializer_Tag>Künstler</XML_Serializer_Tag>
+<XML_Serializer_Tag>Maler</XML_Serializer_Tag>
+<XML_Serializer_Tag>Bildhauer</XML_Serializer_Tag>
+</professionOrOccupation>
+<artworks />
+<dbpResource>http://dbpedia.org/resource/Eduardo_Chillida</dbpResource>
+<abstract>Eduardo Chillida (* 10. Januar 1924 in San Sebastián; † 19. August 2002 ebenda) war ein spanisch baskischer Bildhauer und Zeichner. Er gehört zu den bedeutendsten Bildhauern des 20. Jahrhunderts. Seine bekanntesten Werke sind große Skulpturen mit raumgreifenden Strukturen.</abstract>
+<wikilink>http://en.wikipedia.org/wiki/Eduardo_Chillida?oldid=601535441</wikilink>
+</Person>

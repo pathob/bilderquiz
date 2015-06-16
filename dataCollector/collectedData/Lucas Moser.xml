@@ -1,0 +1,21 @@
+<Person>
+<name>Lucas Moser</name>
+<variantName>
+<XML_Serializer_Tag>Lucas, Moser</XML_Serializer_Tag>
+<XML_Serializer_Tag>Lukas Moser</XML_Serializer_Tag>
+</variantName>
+<thumbnail>https://commons.wikimedia.org/wiki/Special:FilePath/Lucas_Moser_-_Magdalene_Altar_-_WGA16288.jpg?width=270</thumbnail>
+<birthEN />
+<birthDE />
+<deathEN />
+<deathDE />
+<birthPlace />
+<deathPlace />
+<professionOrOccupation>
+<XML_Serializer_Tag>Maler</XML_Serializer_Tag>
+</professionOrOccupation>
+<artworks />
+<dbpResource>http://dbpedia.org/resource/Lucas_Moser</dbpResource>
+<abstract>Lukas Moser, auch Lucas Moser (* um 1390; † nach 1434) war ein deutscher Maler. Als sein Hauptwerk gilt der Schrein des Magdalenenaltars von 1432 in der Pfarrkirche St. Maria Magdalena in Tiefenbronn.</abstract>
+<wikilink>http://en.wikipedia.org/wiki/Lucas_Moser?oldid=579184339</wikilink>
+</Person>

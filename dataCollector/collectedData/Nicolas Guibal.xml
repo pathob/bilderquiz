@@ -1,0 +1,21 @@
+<Person>
+<name>Nicolas Guibal</name>
+<variantName>
+<XML_Serializer_Tag>Nikolaus Guibal</XML_Serializer_Tag>
+</variantName>
+<thumbnail>https://commons.wikimedia.org/wiki/Special:FilePath/GuibalKopfEinesJungenMannes.jpg?width=270</thumbnail>
+<birthEN>1725</birthEN>
+<birthDE>1725</birthDE>
+<deathEN>1784</deathEN>
+<deathDE>1784</deathDE>
+<birthPlace />
+<deathPlace />
+<professionOrOccupation>
+<XML_Serializer_Tag>Künstler</XML_Serializer_Tag>
+<XML_Serializer_Tag>Maler</XML_Serializer_Tag>
+</professionOrOccupation>
+<artworks />
+<dbpResource>http://dbpedia.org/resource/Nicolas_Guibal</dbpResource>
+<abstract>Nicolas Guibal (* 29. November 1725 in Lunéville; † 3. November 1784 in Stuttgart) war württembergischer Hofmaler französischer Herkunft. Seine noch erhaltenen Hauptwerke sind die Deckengemälde im Schloss Solitude, in der Hohen Karlsschule und im Seeschloss Monrepos.</abstract>
+<wikilink>http://en.wikipedia.org/wiki/Nicolas_Guibal?oldid=546278605</wikilink>
+</Person>

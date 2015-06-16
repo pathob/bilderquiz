@@ -1,0 +1,229 @@
+<Person>
+<name>Caspar David Friedrich</name>
+<variantName>
+<XML_Serializer_Tag>Caspar D. Friedrich</XML_Serializer_Tag>
+<XML_Serializer_Tag>C. D. Friedrich</XML_Serializer_Tag>
+<XML_Serializer_Tag>Kaspar David Friedrich</XML_Serializer_Tag>
+<XML_Serializer_Tag>Kasper David Friedrich</XML_Serializer_Tag>
+<XML_Serializer_Tag>Kaspar David Fridrich</XML_Serializer_Tag>
+<XML_Serializer_Tag>... Friedrich</XML_Serializer_Tag>
+</variantName>
+<thumbnail>https://commons.wikimedia.org/wiki/Special:FilePath/Caspardavidfriedrich_self1.jpg?width=270</thumbnail>
+<birthEN>September 5, 1774</birthEN>
+<birthDE>5. September 1774</birthDE>
+<deathEN>May 7, 1840</deathEN>
+<deathDE>7. Mai 1840</deathDE>
+<birthPlace>
+<XML_Serializer_Tag>Greifswald</XML_Serializer_Tag>
+</birthPlace>
+<deathPlace>
+<XML_Serializer_Tag>Dresden</XML_Serializer_Tag>
+</deathPlace>
+<professionOrOccupation>
+<XML_Serializer_Tag>Maler</XML_Serializer_Tag>
+<XML_Serializer_Tag>Künstler</XML_Serializer_Tag>
+</professionOrOccupation>
+<artworks>
+<XML_Serializer_Tag>
+<painting>
+<type>uri</type>
+<value>http://dbpedia.org/resource/Wanderer_above_the_Sea_of_Fog</value>
+</painting>
+<thumbnail>
+<type>uri</type>
+<value>http://en.wikipedia.org/wiki/Special:FilePath/Caspar_David_Friedrich_032_(The_wanderer_above_the_sea_of_fog).jpg?width=300</value>
+</thumbnail>
+<name>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>Wanderer above the Sea of Fog</value>
+</name>
+<year>
+<type>typed-literal</type>
+<datatype>http://www.w3.org/2001/XMLSchema#integer</datatype>
+<value>1818</value>
+</year>
+<abstract>
+<type>literal</type>
+<xml:lang>de</xml:lang>
+<value>Wanderer über dem Nebelmeer ist ein Gemälde von Caspar David Friedrich aus dem Jahr 1818.</value>
+</abstract>
+<wikilink>
+<type>uri</type>
+<value>http://en.wikipedia.org/wiki/Wanderer_above_the_Sea_of_Fog?oldid=593238069</value>
+</wikilink>
+</XML_Serializer_Tag>
+<XML_Serializer_Tag>
+<painting>
+<type>uri</type>
+<value>http://dbpedia.org/resource/The_Abbey_in_the_Oakwood</value>
+</painting>
+<thumbnail>
+<type>uri</type>
+<value>http://en.wikipedia.org/wiki/Special:FilePath/Caspar_David_Friedrich_002.jpg?width=300</value>
+</thumbnail>
+<name>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>The Abbey in the Oakwood</value>
+</name>
+<year>
+<type>typed-literal</type>
+<datatype>http://www.w3.org/2001/XMLSchema#integer</datatype>
+<value>1809</value>
+</year>
+<abstract>
+<type>literal</type>
+<xml:lang>de</xml:lang>
+<value>Abtei im Eichwald ist ein Gemälde von Caspar David Friedrich. Es entstand zwischen 1808 und 1810 in Dresden und wurde gemeinsam mit dem Bild Der Mönch am Meer auf der Berliner Akademieausstellung von 1810 ausgestellt. Auf Wunsch des Malers wurden die Bilder nicht nebeneinander, sondern übereinander aufgehängt. Der Mönch am Meer sollte über der Abtei im Eichwald hängen. Nach der Ausstellung wurden die beiden Bilder von König Friedrich Wilhelm III für seine Sammlung gekauft. Heute befinden sich die Gemälde nebeneinander in der Alten Nationalgalerie in Berlin.</value>
+</abstract>
+<wikilink>
+<type>uri</type>
+<value>http://en.wikipedia.org/wiki/The_Abbey_in_the_Oakwood?oldid=586521527</value>
+</wikilink>
+</XML_Serializer_Tag>
+<XML_Serializer_Tag>
+<painting>
+<type>uri</type>
+<value>http://dbpedia.org/resource/The_Stages_of_Life</value>
+</painting>
+<thumbnail>
+<type>uri</type>
+<value>http://en.wikipedia.org/wiki/Special:FilePath/Caspar_David_Friedrich_013.jpg?width=300</value>
+</thumbnail>
+<name>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>The Stages of Life</value>
+</name>
+<year>
+<type>typed-literal</type>
+<datatype>http://www.w3.org/2001/XMLSchema#integer</datatype>
+<value>1835</value>
+</year>
+<abstract>
+<type>literal</type>
+<xml:lang>de</xml:lang>
+<value>Die Lebensstufen ist ein allegorisches Gemälde des Malers Caspar David Friedrich.</value>
+</abstract>
+<wikilink>
+<type>uri</type>
+<value>http://en.wikipedia.org/wiki/The_Stages_of_Life?oldid=586256838</value>
+</wikilink>
+</XML_Serializer_Tag>
+<XML_Serializer_Tag>
+<painting>
+<type>uri</type>
+<value>http://dbpedia.org/resource/Mountain_Landscape_with_Rainbow</value>
+</painting>
+<thumbnail>
+<type>uri</type>
+<value>http://commons.wikimedia.org/wiki/Special:FilePath/Caspar_David_Friedrich_020.jpg?width=300</value>
+</thumbnail>
+<name>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>Mountain Landscape with Rainbow</value>
+</name>
+<year>
+<type>typed-literal</type>
+<datatype>http://www.w3.org/2001/XMLSchema#integer</datatype>
+<value>1809</value>
+</year>
+<abstract>
+<type>literal</type>
+<xml:lang>de</xml:lang>
+<value>Gebirgslandschaft mit Regenbogen ist ein 1810 entstandenes Gemälde des deutschen Malers Caspar David Friedrich. Es befindet sich heute im Museum Folkwang, Essen.</value>
+</abstract>
+<wikilink>
+<type>uri</type>
+<value>http://en.wikipedia.org/wiki/Mountain_Landscape_with_Rainbow?oldid=590158627</value>
+</wikilink>
+</XML_Serializer_Tag>
+<XML_Serializer_Tag>
+<painting>
+<type>uri</type>
+<value>http://dbpedia.org/resource/Chalk_Cliffs_on_R%C3%BCgen</value>
+</painting>
+<thumbnail>
+<type>uri</type>
+<value>http://commons.wikimedia.org/wiki/Special:FilePath/Caspar_David_Friedrich_023.jpg?width=300</value>
+</thumbnail>
+<name>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>Chalk Cliffs on Rügen</value>
+</name>
+<year>
+<type>typed-literal</type>
+<datatype>http://www.w3.org/2001/XMLSchema#integer</datatype>
+<value>1818</value>
+</year>
+<abstract>
+<type>literal</type>
+<xml:lang>de</xml:lang>
+<value>Kreidefelsen auf Rügen ist ein um 1818 entstandenes Gemälde von Caspar David Friedrich. Es zählt zu den wichtigsten Werken der Romantik und hat diese nachhaltig geprägt. Das 90,5 × 71 cm große Bild befindet sich heute im Museum Oskar Reinhart in Winterthur.</value>
+</abstract>
+<wikilink>
+<type>uri</type>
+<value>http://en.wikipedia.org/wiki/Chalk_Cliffs_on_Rügen?oldid=586288345</value>
+</wikilink>
+</XML_Serializer_Tag>
+<XML_Serializer_Tag>
+<painting>
+<type>uri</type>
+<value>http://dbpedia.org/resource/The_Monk_by_the_Sea</value>
+</painting>
+<thumbnail>
+<type>uri</type>
+<value>http://commons.wikimedia.org/wiki/Special:FilePath/Caspar_David_Friedrich_029.jpg?width=300</value>
+</thumbnail>
+<name>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>The Monk by the Sea</value>
+</name>
+<year>
+<type>typed-literal</type>
+<datatype>http://www.w3.org/2001/XMLSchema#integer</datatype>
+<value>1808</value>
+</year>
+<abstract>
+<type>literal</type>
+<xml:lang>de</xml:lang>
+<value>Der Mönch am Meer ist ein Gemälde von Caspar David Friedrich. Es entstand zwischen 1808 und 1810 in Dresden und wurde gemeinsam mit dem Bild Abtei im Eichwald auf der Berliner Akademieausstellung von 1810 ausgestellt. Auf Wunsch des Malers wurden die Bilder nicht nebeneinander, sondern übereinander aufgehängt Der Mönch am Meer sollte über der Abtei im Eichwald hängen. Nach der Ausstellung wurden die beiden Bilder von König Friedrich Wilhelm III. für seine Sammlung gekauft. Heute befinden sich die Gemälde nebeneinander in der Alten Nationalgalerie in Berlin.</value>
+</abstract>
+<wikilink>
+<type>uri</type>
+<value>http://en.wikipedia.org/wiki/The_Monk_by_the_Sea?oldid=606595063</value>
+</wikilink>
+</XML_Serializer_Tag>
+<XML_Serializer_Tag>
+<painting>
+<type>uri</type>
+<value>http://dbpedia.org/resource/The_Tree_of_Crows</value>
+</painting>
+<thumbnail>
+<type>uri</type>
+<value>http://commons.wikimedia.org/wiki/Special:FilePath/Caspar_David_Friedrich_The_Tree_of_Crows.jpg?width=300</value>
+</thumbnail>
+<name>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>The Tree of Crows</value>
+</name>
+<year>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>c. 1822</value>
+</year>
+<wikilink>
+<type>uri</type>
+<value>http://en.wikipedia.org/wiki/The_Tree_of_Crows?oldid=599692320</value>
+</wikilink>
+</XML_Serializer_Tag>
+</artworks>
+<dbpResource>http://dbpedia.org/resource/Caspar_David_Friedrich</dbpResource>
+<abstract>Caspar David Friedrich (* 5. September 1774 in Greifswald; † 7. Mai 1840 in Dresden) gilt als bedeutendster Maler und Zeichner der deutschen Früh-Romantik, die er zusammen mit Philipp Otto Runge wie kaum ein anderer Künstler beeinflusste. Seine Werke haben häufig Natur- und Landschaftsdarstellungen zum Gegenstand, die Natur besitzt darin oft einen metaphysisch-transzendenten Charakter.</abstract>
+<wikilink>http://en.wikipedia.org/wiki/Caspar_David_Friedrich?oldid=605946818</wikilink>
+</Person>

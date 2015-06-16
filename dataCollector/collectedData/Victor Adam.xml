@@ -1,0 +1,32 @@
+<Person>
+<name>Victor Adam</name>
+<variantName>
+<XML_Serializer_Tag>Viktor Adam</XML_Serializer_Tag>
+<XML_Serializer_Tag>Victor-Jean Vincent Adam</XML_Serializer_Tag>
+<XML_Serializer_Tag>Victor-Jean Adam</XML_Serializer_Tag>
+<XML_Serializer_Tag>Victor Vincent Adam</XML_Serializer_Tag>
+<XML_Serializer_Tag>Victor Jean Adam</XML_Serializer_Tag>
+<XML_Serializer_Tag>Jean Victor Vincent Adam</XML_Serializer_Tag>
+<XML_Serializer_Tag>V. Adam</XML_Serializer_Tag>
+</variantName>
+<thumbnail>https://commons.wikimedia.org/wiki/Special:FilePath/Premiere-legion-dhonneur.jpg?width=270</thumbnail>
+<birthEN>January 28, 1801</birthEN>
+<birthDE>28. Januar 1801</birthDE>
+<deathEN>December 30, 1866</deathEN>
+<deathDE>30. Dezember 1866</deathDE>
+<birthPlace>
+<XML_Serializer_Tag>Paris</XML_Serializer_Tag>
+</birthPlace>
+<deathPlace>
+<XML_Serializer_Tag>Viroflay</XML_Serializer_Tag>
+</deathPlace>
+<professionOrOccupation>
+<XML_Serializer_Tag>Maler</XML_Serializer_Tag>
+<XML_Serializer_Tag>Lithograph</XML_Serializer_Tag>
+<XML_Serializer_Tag>Illustrator</XML_Serializer_Tag>
+</professionOrOccupation>
+<artworks />
+<dbpResource>http://dbpedia.org/resource/Victor_Adam</dbpResource>
+<abstract>Jean Victor Vincent Adam (* 28. Januar 1801 in Paris; † 30. Dezember 1866 in Viroflay bei Paris) war ein französischer Historienmaler und Lithograf.</abstract>
+<wikilink>http://en.wikipedia.org/wiki/Victor_Adam?oldid=555087733</wikilink>
+</Person>

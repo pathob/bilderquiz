@@ -1,0 +1,21 @@
+<Person>
+<name>Derick Baegert</name>
+<variantName>
+<XML_Serializer_Tag>Derik Baegert</XML_Serializer_Tag>
+</variantName>
+<thumbnail>https://commons.wikimedia.org/wiki/Special:FilePath/Derick_Baegert_001.jpg?width=270</thumbnail>
+<birthEN>1440</birthEN>
+<birthDE>1440</birthDE>
+<deathEN>1520</deathEN>
+<deathDE>1520</deathDE>
+<birthPlace />
+<deathPlace />
+<professionOrOccupation>
+<XML_Serializer_Tag>Künstler</XML_Serializer_Tag>
+<XML_Serializer_Tag>Maler</XML_Serializer_Tag>
+</professionOrOccupation>
+<artworks />
+<dbpResource>http://dbpedia.org/resource/Derick_Baegert</dbpResource>
+<abstract>Derick Baegert [ˈbaːgərt] (* um 1440 in Wesel; † nach 1502 in Wesel) war ein bedeutender deutscher Maler der Spätgotik. Unter flämischem, westfälischem und rheinischem Einfluss entwickelte er seinen ganz eigenen Stil von außerordentlicher Qualität. Seine Werke zeichnen sich durch einen hohen Detailreichtum in der Malerei aus.</abstract>
+<wikilink>http://en.wikipedia.org/wiki/Derick_Baegert?oldid=592730032</wikilink>
+</Person>

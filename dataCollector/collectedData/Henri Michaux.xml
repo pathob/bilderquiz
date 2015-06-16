@@ -1,0 +1,25 @@
+<Person>
+<name>Henri Michaux</name>
+<variantName>
+<XML_Serializer_Tag>H. Michaux</XML_Serializer_Tag>
+<XML_Serializer_Tag>Henry Michaux</XML_Serializer_Tag>
+<XML_Serializer_Tag>H. M.</XML_Serializer_Tag>
+<XML_Serializer_Tag>Henrik Michaux</XML_Serializer_Tag>
+</variantName>
+<thumbnail>https://en.wikipedia.org/wiki/Special:FilePath/Henri_Michaux.jpg?width=270</thumbnail>
+<birthEN>May 24, 1899</birthEN>
+<birthDE>24. Mai 1899</birthDE>
+<deathEN>October 19, 1984</deathEN>
+<deathDE>19. Oktober 1984</deathDE>
+<birthPlace />
+<deathPlace />
+<professionOrOccupation>
+<XML_Serializer_Tag>Schriftsteller</XML_Serializer_Tag>
+<XML_Serializer_Tag>Zeichner</XML_Serializer_Tag>
+<XML_Serializer_Tag>Maler</XML_Serializer_Tag>
+</professionOrOccupation>
+<artworks />
+<dbpResource>http://dbpedia.org/resource/Henri_Michaux</dbpResource>
+<abstract>Henri Michaux (* 24. Mai 1899 in Namur (Belgien); † 19. Oktober 1984 in Paris) war ein französischsprachiger Dichter und Maler. Michaux gilt als einer der großen Einzelgänger in der Kunst des 20. Jahrhunderts.</abstract>
+<wikilink>http://en.wikipedia.org/wiki/Henri_Michaux?oldid=588948877</wikilink>
+</Person>

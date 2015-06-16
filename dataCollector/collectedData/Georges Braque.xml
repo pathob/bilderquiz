@@ -1,0 +1,27 @@
+<Person>
+<name>Georges Braque</name>
+<variantName>
+<XML_Serializer_Tag>George Braque</XML_Serializer_Tag>
+<XML_Serializer_Tag>G. Braque</XML_Serializer_Tag>
+</variantName>
+<thumbnail>https://commons.wikimedia.org/wiki/Special:FilePath/Paul_Cézanne_044.jpg?width=270</thumbnail>
+<birthEN>May 13, 1882</birthEN>
+<birthDE>13. Mai 1882</birthDE>
+<deathEN>August 31, 1963</deathEN>
+<deathDE>31. August 1963</deathDE>
+<birthPlace>
+<XML_Serializer_Tag>Argenteuil</XML_Serializer_Tag>
+</birthPlace>
+<deathPlace>
+<XML_Serializer_Tag>Paris</XML_Serializer_Tag>
+</deathPlace>
+<professionOrOccupation>
+<XML_Serializer_Tag>Maler</XML_Serializer_Tag>
+<XML_Serializer_Tag>Graphiker</XML_Serializer_Tag>
+<XML_Serializer_Tag>Bildhauer</XML_Serializer_Tag>
+</professionOrOccupation>
+<artworks />
+<dbpResource>http://dbpedia.org/resource/Georges_Braque</dbpResource>
+<abstract>Georges Braque (* 13. Mai 1882 in Argenteuil, Département; † 31. August 1963 in Paris) war ein französischer Maler, Grafiker und Bildhauer. Nach einer frühen fauvistischen Schaffensphase war Braque zusammen mit Pablo Picasso der Mitbegründer des Kubismus.</abstract>
+<wikilink>http://en.wikipedia.org/wiki/Georges_Braque?oldid=605867783</wikilink>
+</Person>

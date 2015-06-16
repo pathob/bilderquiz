@@ -1,0 +1,26 @@
+<Person>
+<name>Wilhelm Leibl</name>
+<variantName>
+<XML_Serializer_Tag>Wilhelm Maria Hubert Leibl</XML_Serializer_Tag>
+<XML_Serializer_Tag>Wilhelm Maria Hubertus Leibl</XML_Serializer_Tag>
+</variantName>
+<thumbnail>https://commons.wikimedia.org/wiki/Special:FilePath/Leibl_Selbstbildnis_d_Achtzehnjährigen.JPG?width=270</thumbnail>
+<birthEN>October 23, 1844</birthEN>
+<birthDE>23. Oktober 1844</birthDE>
+<deathEN>December 5, 1900</deathEN>
+<deathDE>5. Dezember 1900</deathDE>
+<birthPlace>
+<XML_Serializer_Tag>Köln</XML_Serializer_Tag>
+</birthPlace>
+<deathPlace>
+<XML_Serializer_Tag>Würzburg</XML_Serializer_Tag>
+</deathPlace>
+<professionOrOccupation>
+<XML_Serializer_Tag>Maler</XML_Serializer_Tag>
+<XML_Serializer_Tag>Radierer</XML_Serializer_Tag>
+</professionOrOccupation>
+<artworks />
+<dbpResource>http://dbpedia.org/resource/Wilhelm_Leibl</dbpResource>
+<abstract>Wilhelm Maria Hubertus Leibl (* 23. Oktober 1844 in Köln; † 4. Dezember 1900 in Würzburg) war als Maler ein bedeutender Vertreter des Realismus in Deutschland.</abstract>
+<wikilink>http://en.wikipedia.org/wiki/Wilhelm_Leibl?oldid=600093363</wikilink>
+</Person>

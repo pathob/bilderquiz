@@ -1,0 +1,27 @@
+<Person>
+<name>Albrecht Adam</name>
+<variantName>
+<XML_Serializer_Tag>Albert Adam</XML_Serializer_Tag>
+<XML_Serializer_Tag>Alb. Adam</XML_Serializer_Tag>
+<XML_Serializer_Tag>Albert Adam</XML_Serializer_Tag>
+</variantName>
+<thumbnail>https://commons.wikimedia.org/wiki/Special:FilePath/Albrecht_Adam.jpg?width=270</thumbnail>
+<birthEN>April 16, 1786</birthEN>
+<birthDE>16. April 1786</birthDE>
+<deathEN>August 28, 1862</deathEN>
+<deathDE>28. August 1862</deathDE>
+<birthPlace>
+<XML_Serializer_Tag>Nördlingen</XML_Serializer_Tag>
+</birthPlace>
+<deathPlace>
+<XML_Serializer_Tag>München</XML_Serializer_Tag>
+</deathPlace>
+<professionOrOccupation>
+<XML_Serializer_Tag>Künstler</XML_Serializer_Tag>
+<XML_Serializer_Tag>Maler</XML_Serializer_Tag>
+</professionOrOccupation>
+<artworks />
+<dbpResource>http://dbpedia.org/resource/Albrecht_Adam</dbpResource>
+<abstract>Albrecht Adam (* 16. April 1786 in Nördlingen; † 28. August 1862 in München) war ein deutscher Schlachten-, Porträt- und Genremaler.</abstract>
+<wikilink>http://en.wikipedia.org/wiki/Albrecht_Adam?oldid=591495957</wikilink>
+</Person>

@@ -1,0 +1,32 @@
+<Person>
+<name>Wols</name>
+<variantName>
+<XML_Serializer_Tag>Alfred Otto Wolfgang Schulze</XML_Serializer_Tag>
+<XML_Serializer_Tag>A. O. W. Schulze</XML_Serializer_Tag>
+<XML_Serializer_Tag>Otto Alfred Wolfgang Schulze</XML_Serializer_Tag>
+<XML_Serializer_Tag>Wolfgang Schulze</XML_Serializer_Tag>
+<XML_Serializer_Tag>Otto Wolfgang Schultze</XML_Serializer_Tag>
+</variantName>
+<thumbnail>https://en.wikipedia.org/wiki/Special:FilePath/Wols,_Alfred_Otto_Wolfgang_Schulze,_1940,_self-portraits.jpg?width=270</thumbnail>
+<birthEN>May 27, 1913</birthEN>
+<birthDE>27. Mai 1913</birthDE>
+<deathEN>September 1, 1951</deathEN>
+<deathDE>1. September 1951</deathDE>
+<birthPlace>
+<XML_Serializer_Tag>Berlin</XML_Serializer_Tag>
+</birthPlace>
+<deathPlace>
+<XML_Serializer_Tag>Champigny-sur-Marne</XML_Serializer_Tag>
+</deathPlace>
+<professionOrOccupation>
+<XML_Serializer_Tag>Künstler</XML_Serializer_Tag>
+<XML_Serializer_Tag>Maler</XML_Serializer_Tag>
+<XML_Serializer_Tag>Graphiker</XML_Serializer_Tag>
+<XML_Serializer_Tag>Illustrator</XML_Serializer_Tag>
+<XML_Serializer_Tag>Photograph</XML_Serializer_Tag>
+</professionOrOccupation>
+<artworks />
+<dbpResource>http://dbpedia.org/resource/Wols</dbpResource>
+<abstract>Wols (* 27. Mai 1913 in Berlin; † 1. September 1951 in Paris) eigentlich Alfred Otto Wolfgang Schulze, den Künstlernamen bildete er aus den Initialen Wolfgang Schulze, war ein deutscher Fotograf, Maler und Grafiker. Er gilt als wichtiger Wegbereiter und Vertreter des Tachismus und des Informel.</abstract>
+<wikilink>http://en.wikipedia.org/wiki/Wols?oldid=594619315</wikilink>
+</Person>

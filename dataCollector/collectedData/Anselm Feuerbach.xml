@@ -1,0 +1,25 @@
+<Person>
+<name>Anselm Feuerbach</name>
+<variantName>
+<XML_Serializer_Tag>... Feuerbach</XML_Serializer_Tag>
+</variantName>
+<thumbnail>https://commons.wikimedia.org/wiki/Special:FilePath/Anselm_Feuerbach_007.jpg?width=270</thumbnail>
+<birthEN>September 12, 1829</birthEN>
+<birthDE>12. September 1829</birthDE>
+<deathEN>January 4, 1880</deathEN>
+<deathDE>4. Januar 1880</deathDE>
+<birthPlace>
+<XML_Serializer_Tag>Speyer</XML_Serializer_Tag>
+</birthPlace>
+<deathPlace>
+<XML_Serializer_Tag>Venedig</XML_Serializer_Tag>
+</deathPlace>
+<professionOrOccupation>
+<XML_Serializer_Tag>Künstler</XML_Serializer_Tag>
+<XML_Serializer_Tag>Maler</XML_Serializer_Tag>
+</professionOrOccupation>
+<artworks />
+<dbpResource>http://dbpedia.org/resource/Anselm_Feuerbach</dbpResource>
+<abstract>Anselm Feuerbach (* 12. September 1829 in Speyer; † 4. Januar 1880 in Venedig) war ein deutscher Maler. Er gehört zu den bedeutendsten deutschen Malern der zweiten Hälfte des 19. Jahrhunderts.</abstract>
+<wikilink>http://en.wikipedia.org/wiki/Anselm_Feuerbach?oldid=603168207</wikilink>
+</Person>

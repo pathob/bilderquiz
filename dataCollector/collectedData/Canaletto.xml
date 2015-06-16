@@ -1,0 +1,83 @@
+<Person>
+<name>Canaletto</name>
+<variantName>
+<XML_Serializer_Tag>nawi</XML_Serializer_Tag>
+<XML_Serializer_Tag>Canaletto, Künstler, 1720-1780</XML_Serializer_Tag>
+<XML_Serializer_Tag>Bernardo B.-Canaletto</XML_Serializer_Tag>
+<XML_Serializer_Tag>Bernardo Belloto-Canaletto</XML_Serializer_Tag>
+<XML_Serializer_Tag>Bernardo Belotto</XML_Serializer_Tag>
+<XML_Serializer_Tag>Bernardo Belloto</XML_Serializer_Tag>
+<XML_Serializer_Tag>Bernardo Bellotto Canaletto</XML_Serializer_Tag>
+<XML_Serializer_Tag>Bernardo Francesco Paulo Ernesto Belloto</XML_Serializer_Tag>
+<XML_Serializer_Tag>Bernardo Canaletto</XML_Serializer_Tag>
+</variantName>
+<thumbnail>https://commons.wikimedia.org/wiki/Special:FilePath/Canaletto_Selbstbildnis.jpg?width=270</thumbnail>
+<birthEN>January 30, 1721</birthEN>
+<birthDE>30. Januar 1721</birthDE>
+<deathEN>November 17, 1780</deathEN>
+<deathDE>17. November 1780</deathDE>
+<birthPlace>
+<XML_Serializer_Tag>Venedig</XML_Serializer_Tag>
+</birthPlace>
+<deathPlace>
+<XML_Serializer_Tag>Warschau</XML_Serializer_Tag>
+</deathPlace>
+<professionOrOccupation>
+<XML_Serializer_Tag>Künstler</XML_Serializer_Tag>
+<XML_Serializer_Tag>Maler</XML_Serializer_Tag>
+<XML_Serializer_Tag>Radierer</XML_Serializer_Tag>
+</professionOrOccupation>
+<artworks>
+<XML_Serializer_Tag>
+<painting>
+<type>uri</type>
+<value>http://dbpedia.org/resource/The_Grand_Canal_in_Venice_from_Palazzo_Flangini_to_Campo_San_Marcuola</value>
+</painting>
+<thumbnail>
+<type>uri</type>
+<value>http://commons.wikimedia.org/wiki/Special:FilePath/Canaletto_Grand_Canal_from_Palazzo_Flangini_-_JPGM.jpg?width=300</value>
+</thumbnail>
+<name>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>The Grand Canal in Venice from Palazzo Flangini to Campo San Marcuola</value>
+</name>
+<year>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>about 1738</value>
+</year>
+<wikilink>
+<type>uri</type>
+<value>http://en.wikipedia.org/wiki/The_Grand_Canal_in_Venice_from_Palazzo_Flangini_to_Campo_San_Marcuola?oldid=598899441</value>
+</wikilink>
+</XML_Serializer_Tag>
+<XML_Serializer_Tag>
+<painting>
+<type>uri</type>
+<value>http://dbpedia.org/resource/The_Grand_Canal_and_the_Church_of_the_Salute</value>
+</painting>
+<thumbnail>
+<type>uri</type>
+<value>http://commons.wikimedia.org/wiki/Special:FilePath/Canaletto_-_The_Grand_Canal_and_the_Church_of_the_Salute.jpg?width=300</value>
+</thumbnail>
+<name>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>El Gran Canal en la Iglesia Salute</value>
+</name>
+<year>
+<type>typed-literal</type>
+<datatype>http://www.w3.org/2001/XMLSchema#integer</datatype>
+<value>1730</value>
+</year>
+<wikilink>
+<type>uri</type>
+<value>http://en.wikipedia.org/wiki/The_Grand_Canal_and_the_Church_of_the_Salute?oldid=590269615</value>
+</wikilink>
+</XML_Serializer_Tag>
+</artworks>
+<dbpResource>http://dbpedia.org/resource/Canaletto</dbpResource>
+<abstract>Giovanni Antonio Canal (* 7. Oktober 1697 in Venedig; † 19. April 1768 ebenda), genannt Canaletto, war ein italienischer Veduten- und Landschaftsmaler.</abstract>
+<wikilink>http://en.wikipedia.org/wiki/Canaletto?oldid=605346978</wikilink>
+</Person>

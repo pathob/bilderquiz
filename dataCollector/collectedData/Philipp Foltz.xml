@@ -1,0 +1,25 @@
+<Person>
+<name>Philipp Foltz</name>
+<variantName>
+<XML_Serializer_Tag>Philipp von Foltz</XML_Serializer_Tag>
+<XML_Serializer_Tag>Philipp Sohn Foltz</XML_Serializer_Tag>
+<XML_Serializer_Tag>Ph. Foltz</XML_Serializer_Tag>
+</variantName>
+<thumbnail>https://commons.wikimedia.org/wiki/Special:FilePath/Philipp_Foltz.jpg?width=270</thumbnail>
+<birthEN>May 11, 1805</birthEN>
+<birthDE>11. Mai 1805</birthDE>
+<deathEN>August 5, 1877</deathEN>
+<deathDE>5. August 1877</deathDE>
+<birthPlace />
+<deathPlace />
+<professionOrOccupation>
+<XML_Serializer_Tag>Maler</XML_Serializer_Tag>
+<XML_Serializer_Tag>Historienmaler</XML_Serializer_Tag>
+<XML_Serializer_Tag>Genremaler</XML_Serializer_Tag>
+<XML_Serializer_Tag>Direktor</XML_Serializer_Tag>
+</professionOrOccupation>
+<artworks />
+<dbpResource>http://dbpedia.org/resource/Philipp_Foltz</dbpResource>
+<abstract>Philipp von Foltz (* 11. Mai 1805 in Bingen; † 5. August 1877 in München) war ein deutscher Maler.</abstract>
+<wikilink>http://en.wikipedia.org/wiki/Philipp_Foltz?oldid=586223095</wikilink>
+</Person>

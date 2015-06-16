@@ -1,0 +1,30 @@
+<Person>
+<name>Charles Lock Eastlake</name>
+<variantName>
+<XML_Serializer_Tag>Charles Eastlake</XML_Serializer_Tag>
+<XML_Serializer_Tag>Charles L. Eastlake</XML_Serializer_Tag>
+<XML_Serializer_Tag>Charles Lock Eastlake</XML_Serializer_Tag>
+<XML_Serializer_Tag>C. Eastlake</XML_Serializer_Tag>
+<XML_Serializer_Tag>Charles Lock Eastlake</XML_Serializer_Tag>
+<XML_Serializer_Tag>C. L. Eastlake</XML_Serializer_Tag>
+</variantName>
+<thumbnail>https://commons.wikimedia.org/wiki/Special:FilePath/Charles_Lock_Eastlake_-_Christ_Blessing_Little_Children.jpg?width=270</thumbnail>
+<birthEN>November 17, 1793</birthEN>
+<birthDE>17. November 1793</birthDE>
+<deathEN>December 23, 1865</deathEN>
+<deathDE>23. Dezember 1865</deathDE>
+<birthPlace>
+<XML_Serializer_Tag>Plymouth</XML_Serializer_Tag>
+</birthPlace>
+<deathPlace>
+<XML_Serializer_Tag>Pisa</XML_Serializer_Tag>
+</deathPlace>
+<professionOrOccupation>
+<XML_Serializer_Tag>Maler</XML_Serializer_Tag>
+<XML_Serializer_Tag>Schriftsteller</XML_Serializer_Tag>
+</professionOrOccupation>
+<artworks />
+<dbpResource>http://dbpedia.org/resource/Charles_Lock_Eastlake</dbpResource>
+<abstract>Sir Charles Lock Eastlake PRA (* 17. November 1793 in Plymouth; † 24. Dezember 1865 in Pisa) war ein englischer Maler und Kunstgelehrter und Erster Direktor der National Gallery.</abstract>
+<wikilink>http://en.wikipedia.org/wiki/Charles_Lock_Eastlake?oldid=590527699</wikilink>
+</Person>

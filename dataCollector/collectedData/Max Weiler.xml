@@ -1,0 +1,21 @@
+<Person>
+<name>Max Weiler</name>
+<variantName />
+<thumbnail>https://commons.wikimedia.org/wiki/Special:FilePath/Innsbruck-theresienkirche-fresko.jpg?width=270</thumbnail>
+<birthEN>August 27, 1910</birthEN>
+<birthDE>27. August 1910</birthDE>
+<deathEN>January 29, 2001</deathEN>
+<deathDE>29. Januar 2001</deathDE>
+<birthPlace>
+<XML_Serializer_Tag>Hall in Tirol</XML_Serializer_Tag>
+</birthPlace>
+<deathPlace />
+<professionOrOccupation>
+<XML_Serializer_Tag>Künstler</XML_Serializer_Tag>
+<XML_Serializer_Tag>Maler</XML_Serializer_Tag>
+</professionOrOccupation>
+<artworks />
+<dbpResource>http://dbpedia.org/resource/Max_Weiler</dbpResource>
+<abstract>Max Weiler (* 25. September 1900 in Winterthur; † 1. September 1969) war ein Schweizer Fussballspieler und -trainer.</abstract>
+<wikilink>http://en.wikipedia.org/wiki/Max_Weiler?oldid=606595067</wikilink>
+</Person>

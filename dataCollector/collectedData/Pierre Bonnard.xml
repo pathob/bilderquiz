@@ -1,0 +1,29 @@
+<Person>
+<name>Pierre Bonnard</name>
+<variantName>
+<XML_Serializer_Tag>Bonnard</XML_Serializer_Tag>
+<XML_Serializer_Tag>A. Bonnard</XML_Serializer_Tag>
+</variantName>
+<thumbnail>https://commons.wikimedia.org/wiki/Special:FilePath/Pierre_Bonnard_by_Odilon_Redon.jpg?width=270</thumbnail>
+<birthEN>October 3, 1867</birthEN>
+<birthDE>3. Oktober 1867</birthDE>
+<deathEN>January 27, 1947</deathEN>
+<deathDE>27. Januar 1947</deathDE>
+<birthPlace>
+<XML_Serializer_Tag>Fontenay-aux-Roses</XML_Serializer_Tag>
+</birthPlace>
+<deathPlace>
+<XML_Serializer_Tag>Le Cannet</XML_Serializer_Tag>
+</deathPlace>
+<professionOrOccupation>
+<XML_Serializer_Tag>Künstler</XML_Serializer_Tag>
+<XML_Serializer_Tag>Maler</XML_Serializer_Tag>
+<XML_Serializer_Tag>Graphiker</XML_Serializer_Tag>
+<XML_Serializer_Tag>Photograph</XML_Serializer_Tag>
+<XML_Serializer_Tag>Bildhauer</XML_Serializer_Tag>
+</professionOrOccupation>
+<artworks />
+<dbpResource>http://dbpedia.org/resource/Pierre_Bonnard</dbpResource>
+<abstract>Pierre Bonnard (* 3. Oktober 1867 in Fontenay-aux-Roses bei Paris; † 23. Januar 1947 in Le Cannet bei Cannes) war ein französischer Maler des Post-Impressionismus. Er ist ein Vertreter des Intimismus und wird ebenfalls zu der Künstlergruppe der Nabis gezählt.</abstract>
+<wikilink>http://en.wikipedia.org/wiki/Pierre_Bonnard?oldid=602952247</wikilink>
+</Person>

@@ -1,0 +1,23 @@
+<Person>
+<name>Ludwig Lange</name>
+<variantName>
+<XML_Serializer_Tag>A. Lange</XML_Serializer_Tag>
+<XML_Serializer_Tag>L. Lange</XML_Serializer_Tag>
+</variantName>
+<thumbnail>https://commons.wikimedia.org/wiki/Special:FilePath/Portrait_of_Ludwig_Lange.jpg?width=270</thumbnail>
+<birthEN>March 22, 1808</birthEN>
+<birthDE>22. März 1808</birthDE>
+<deathEN>March 31, 1868</deathEN>
+<deathDE>31. März 1868</deathDE>
+<birthPlace />
+<deathPlace />
+<professionOrOccupation>
+<XML_Serializer_Tag>Architekt</XML_Serializer_Tag>
+<XML_Serializer_Tag>Maler</XML_Serializer_Tag>
+<XML_Serializer_Tag>Zeichner</XML_Serializer_Tag>
+</professionOrOccupation>
+<artworks />
+<dbpResource>http://dbpedia.org/resource/Ludwig_Lange_(architect)</dbpResource>
+<abstract>Ludwig Lange (* 22. März 1808 in Darmstadt; † 31. März 1868 in München) war ein deutscher Architekt, Architektur- und Landschaftszeichner.</abstract>
+<wikilink>http://en.wikipedia.org/wiki/Ludwig_Lange_(architect)?oldid=598155694</wikilink>
+</Person>

@@ -1,0 +1,37 @@
+<Person>
+<name>Lucas van Leyden</name>
+<variantName>
+<XML_Serializer_Tag>Luca di Leida</XML_Serializer_Tag>
+<XML_Serializer_Tag>Lucas Leidanus</XML_Serializer_Tag>
+<XML_Serializer_Tag>Lucas von Leiden</XML_Serializer_Tag>
+<XML_Serializer_Tag>Luka Lejdenskij</XML_Serializer_Tag>
+<XML_Serializer_Tag>L. de Leyda</XML_Serializer_Tag>
+<XML_Serializer_Tag>Lucas Leydanus</XML_Serializer_Tag>
+<XML_Serializer_Tag>Lucas de Leyde</XML_Serializer_Tag>
+<XML_Serializer_Tag>L. van Leyden</XML_Serializer_Tag>
+<XML_Serializer_Tag>Lucas van Leijden</XML_Serializer_Tag>
+<XML_Serializer_Tag>Lucas Hugenszoon van Leyden</XML_Serializer_Tag>
+<XML_Serializer_Tag>Luca, di Leida</XML_Serializer_Tag>
+<XML_Serializer_Tag>Lucas, de Leyde</XML_Serializer_Tag>
+<XML_Serializer_Tag>L. van Leyden Lucas</XML_Serializer_Tag>
+<XML_Serializer_Tag>van Leyden Lucas</XML_Serializer_Tag>
+<XML_Serializer_Tag>Lucas, van Leyden</XML_Serializer_Tag>
+<XML_Serializer_Tag>Luka, Lejdenskij</XML_Serializer_Tag>
+<XML_Serializer_Tag>Lucas Huygens</XML_Serializer_Tag>
+</variantName>
+<thumbnail>https://commons.wikimedia.org/wiki/Special:FilePath/Lucas_van_Leyden_006.jpg?width=270</thumbnail>
+<birthEN>1494</birthEN>
+<birthDE>1494</birthDE>
+<deathEN>1533</deathEN>
+<deathDE>1533</deathDE>
+<birthPlace />
+<deathPlace />
+<professionOrOccupation>
+<XML_Serializer_Tag>Kupferstecher</XML_Serializer_Tag>
+<XML_Serializer_Tag>Maler</XML_Serializer_Tag>
+</professionOrOccupation>
+<artworks />
+<dbpResource>http://dbpedia.org/resource/Lucas_van_Leyden</dbpResource>
+<abstract>Lucas Hugensz van Leyden (* Ende Mai/Anfang Juni 1494 in Leiden; † Ende Mai/Anfang August 1533; auch Lucas von Leyden, in Italien Luca d&apos;Olanda) war ein niederländischer Maler und Kupferstecher der Renaissance.</abstract>
+<wikilink>http://en.wikipedia.org/wiki/Lucas_van_Leyden?oldid=602032463</wikilink>
+</Person>

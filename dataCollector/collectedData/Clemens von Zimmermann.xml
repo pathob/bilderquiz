@@ -1,0 +1,29 @@
+<Person>
+<name>Clemens von Zimmermann</name>
+<variantName>
+<XML_Serializer_Tag>Klemens von Zimmermann</XML_Serializer_Tag>
+<XML_Serializer_Tag>Clemens Zimmermann</XML_Serializer_Tag>
+</variantName>
+<thumbnail>https://commons.wikimedia.org/wiki/Special:FilePath/Clemens_Zimmermann_-_Maler.jpg?width=270</thumbnail>
+<birthEN>November 8, 1788</birthEN>
+<birthDE>8. November 1788</birthDE>
+<deathEN>January 25, 1869</deathEN>
+<deathDE>25. Januar 1869</deathDE>
+<birthPlace>
+<XML_Serializer_Tag>Düsseldorf</XML_Serializer_Tag>
+</birthPlace>
+<deathPlace>
+<XML_Serializer_Tag>München</XML_Serializer_Tag>
+</deathPlace>
+<professionOrOccupation>
+<XML_Serializer_Tag>Künstler</XML_Serializer_Tag>
+<XML_Serializer_Tag>Maler</XML_Serializer_Tag>
+<XML_Serializer_Tag>Radierer</XML_Serializer_Tag>
+<XML_Serializer_Tag>Lithograph</XML_Serializer_Tag>
+<XML_Serializer_Tag>Museumsdirektor</XML_Serializer_Tag>
+</professionOrOccupation>
+<artworks />
+<dbpResource>http://dbpedia.org/resource/Clemens_von_Zimmermann</dbpResource>
+<abstract>Clemens von Zimmermann (* 8. November 1788 in Düsseldorf; † 25. Januar 1869 in München) war ein deutscher Maler.</abstract>
+<wikilink>http://en.wikipedia.org/wiki/Clemens_von_Zimmermann?oldid=567722423</wikilink>
+</Person>

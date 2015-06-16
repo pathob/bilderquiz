@@ -1,0 +1,78 @@
+<Person>
+<name>Edward Hopper</name>
+<variantName>
+<XML_Serializer_Tag>Entuarnt Choper</XML_Serializer_Tag>
+</variantName>
+<thumbnail>https://commons.wikimedia.org/wiki/Special:FilePath/Edward_Hopper`s_birthplace_Nyack.JPG?width=270</thumbnail>
+<birthEN>July 22, 1882</birthEN>
+<birthDE>22. Juli 1882</birthDE>
+<deathEN>May 15, 1967</deathEN>
+<deathDE>15. Mai 1967</deathDE>
+<birthPlace />
+<deathPlace>
+<XML_Serializer_Tag>New York, NY</XML_Serializer_Tag>
+</deathPlace>
+<professionOrOccupation>
+<XML_Serializer_Tag>Künstler</XML_Serializer_Tag>
+<XML_Serializer_Tag>Illustrator</XML_Serializer_Tag>
+<XML_Serializer_Tag>Maler</XML_Serializer_Tag>
+</professionOrOccupation>
+<artworks>
+<XML_Serializer_Tag>
+<painting>
+<type>uri</type>
+<value>http://dbpedia.org/resource/Nighthawks</value>
+</painting>
+<thumbnail>
+<type>uri</type>
+<value>http://commons.wikimedia.org/wiki/Special:FilePath/Nighthawks_by_Edward_Hopper_1942.jpg?width=300</value>
+</thumbnail>
+<name>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>Nighthawks</value>
+</name>
+<year>
+<type>typed-literal</type>
+<datatype>http://www.w3.org/2001/XMLSchema#integer</datatype>
+<value>1942</value>
+</year>
+<abstract>
+<type>literal</type>
+<xml:lang>de</xml:lang>
+<value>Nighthawks (engl., wörtlich: „Nachtfalken“, sinngemäß: „Nachtschwärmer“) ist ein 1942 entstandenes Ölgemälde des US-amerikanischen Malers Edward Hopper. Das Bild gilt als Hoppers bekanntestes Werk und wird als eines der herausragendsten Werke US-amerikanischer Malerei angesehen. Das 84,1 × 152,4 cm große Gemälde befindet sich heute zusammen mit weiteren Werken Hoppers im Art Institute of Chicago in Chicago.</value>
+</abstract>
+<wikilink>
+<type>uri</type>
+<value>http://en.wikipedia.org/wiki/Nighthawks?oldid=602054258</value>
+</wikilink>
+</XML_Serializer_Tag>
+<XML_Serializer_Tag>
+<painting>
+<type>uri</type>
+<value>http://dbpedia.org/resource/Girl_at_Sewing_Machine</value>
+</painting>
+<thumbnail>
+<type>uri</type>
+<value>http://commons.wikimedia.org/wiki/Special:FilePath/Girl_at_Sewing_Machine_by_Edward_Hopper.jpg?width=300</value>
+</thumbnail>
+<name>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>Girl at Sewing Machine</value>
+</name>
+<year>
+<type>typed-literal</type>
+<datatype>http://www.w3.org/2001/XMLSchema#integer</datatype>
+<value>1921</value>
+</year>
+<wikilink>
+<type>uri</type>
+<value>http://en.wikipedia.org/wiki/Girl_at_Sewing_Machine?oldid=588596622</value>
+</wikilink>
+</XML_Serializer_Tag>
+</artworks>
+<dbpResource>http://dbpedia.org/resource/Edward_Hopper</dbpResource>
+<abstract>Edward Hopper (* 22. Juli 1882 in Nyack, New York; † 15. Mai 1967 in New York City, New York) war ein amerikanischer Maler des Amerikanischen Realismus. Hoppers in kühler Farbgebung gehaltene realistische Bilder weisen auf die Einsamkeit des modernen Menschen hin. Er gilt als Chronist der amerikanischen Zivilisation.</abstract>
+<wikilink>http://en.wikipedia.org/wiki/Edward_Hopper?oldid=606783932</wikilink>
+</Person>

@@ -1,0 +1,32 @@
+<Person>
+<name>Peter von Cornelius</name>
+<variantName>
+<XML_Serializer_Tag>Raphael</XML_Serializer_Tag>
+<XML_Serializer_Tag>Peter Joseph v. Cornelius</XML_Serializer_Tag>
+<XML_Serializer_Tag>Peter Cornelius</XML_Serializer_Tag>
+<XML_Serializer_Tag>P. Cornelius</XML_Serializer_Tag>
+<XML_Serializer_Tag>Pierre de Cornelius</XML_Serializer_Tag>
+</variantName>
+<thumbnail>https://commons.wikimedia.org/wiki/Special:FilePath/Peter_von_Cornelius_2.jpg?width=270</thumbnail>
+<birthEN>September 23, 1783</birthEN>
+<birthDE>23. September 1783</birthDE>
+<deathEN>March 6, 1867</deathEN>
+<deathDE>6. März 1867</deathDE>
+<birthPlace>
+<XML_Serializer_Tag>Düsseldorf</XML_Serializer_Tag>
+</birthPlace>
+<deathPlace>
+<XML_Serializer_Tag>Berlin</XML_Serializer_Tag>
+</deathPlace>
+<professionOrOccupation>
+<XML_Serializer_Tag>Akademiedirektor</XML_Serializer_Tag>
+<XML_Serializer_Tag>Künstler</XML_Serializer_Tag>
+<XML_Serializer_Tag>Maler</XML_Serializer_Tag>
+<XML_Serializer_Tag>Zeichner</XML_Serializer_Tag>
+<XML_Serializer_Tag>Illustrator</XML_Serializer_Tag>
+</professionOrOccupation>
+<artworks />
+<dbpResource>http://dbpedia.org/resource/Peter_von_Cornelius</dbpResource>
+<abstract>Peter von Cornelius (* 23. September 1783 in Düsseldorf; † 6. März 1867 in Berlin) war ein deutscher Maler und einer der Hauptvertreter des Nazarener-Stils.</abstract>
+<wikilink>http://en.wikipedia.org/wiki/Peter_von_Cornelius?oldid=603426210</wikilink>
+</Person>

@@ -1,0 +1,23 @@
+<Person>
+<name>Johannes Riepenhausen</name>
+<variantName>
+<XML_Serializer_Tag>Christian Riepenhausen</XML_Serializer_Tag>
+<XML_Serializer_Tag>Johann Riepenhausen</XML_Serializer_Tag>
+<XML_Serializer_Tag>Giovanni Riepenhausen</XML_Serializer_Tag>
+</variantName>
+<thumbnail>https://commons.wikimedia.org/wiki/Special:FilePath/Carl_Christian_Vogel_von_Vogelstein_-_Franz_und_Johannes_Riepenhausen.jpg?width=270</thumbnail>
+<birthEN>1788</birthEN>
+<birthDE>1788</birthDE>
+<deathEN>1860</deathEN>
+<deathDE>1860</deathDE>
+<birthPlace />
+<deathPlace />
+<professionOrOccupation>
+<XML_Serializer_Tag>Kupferstecher</XML_Serializer_Tag>
+<XML_Serializer_Tag>Maler</XML_Serializer_Tag>
+</professionOrOccupation>
+<artworks />
+<dbpResource>http://dbpedia.org/resource/Johannes_Riepenhausen</dbpResource>
+<abstract>Johannes Christian Riepenhausen (* 1787 in Göttingen; † 11. September 1860 in Rom) war Maler und Kupferstecher.</abstract>
+<wikilink>http://en.wikipedia.org/wiki/Johannes_Riepenhausen?oldid=564726676</wikilink>
+</Person>

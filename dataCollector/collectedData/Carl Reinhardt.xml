@@ -1,0 +1,31 @@
+<Person>
+<name>Carl Reinhardt</name>
+<variantName>
+<XML_Serializer_Tag>Karl Reinhardt</XML_Serializer_Tag>
+<XML_Serializer_Tag>Karl August Reinhardt</XML_Serializer_Tag>
+<XML_Serializer_Tag>Carl August Reinhardt</XML_Serializer_Tag>
+<XML_Serializer_Tag>C. Reinhardt</XML_Serializer_Tag>
+<XML_Serializer_Tag>Karl August Reinhard</XML_Serializer_Tag>
+</variantName>
+<thumbnail>https://commons.wikimedia.org/wiki/Special:FilePath/Das_Schiff_(Reinhardt).jpg?width=270</thumbnail>
+<birthEN>April 25, 1818</birthEN>
+<birthDE>25. April 1818</birthDE>
+<deathEN>August 11, 1877</deathEN>
+<deathDE>11. August 1877</deathDE>
+<birthPlace>
+<XML_Serializer_Tag>Leipzig</XML_Serializer_Tag>
+</birthPlace>
+<deathPlace>
+<XML_Serializer_Tag>Kötzschenbroda</XML_Serializer_Tag>
+</deathPlace>
+<professionOrOccupation>
+<XML_Serializer_Tag>Schriftsteller</XML_Serializer_Tag>
+<XML_Serializer_Tag>Karikaturist</XML_Serializer_Tag>
+<XML_Serializer_Tag>Maler</XML_Serializer_Tag>
+<XML_Serializer_Tag>Zeichner</XML_Serializer_Tag>
+</professionOrOccupation>
+<artworks />
+<dbpResource>http://dbpedia.org/resource/Carl_Reinhardt</dbpResource>
+<abstract>Carl August Reinhardt (auch Karl Reinhardt; * 25. April 1818 in Leipzig; † 11. August 1877 in Kötzschenbroda) war ein deutscher Schriftsteller, Maler, Zeichner und Karikaturist.</abstract>
+<wikilink>http://en.wikipedia.org/wiki/Carl_Reinhardt?oldid=577872652</wikilink>
+</Person>

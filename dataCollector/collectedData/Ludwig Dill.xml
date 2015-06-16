@@ -1,0 +1,21 @@
+<Person>
+<name>Ludwig Dill</name>
+<variantName>
+<XML_Serializer_Tag>Ludwig Karl Franz Dill</XML_Serializer_Tag>
+</variantName>
+<thumbnail>https://commons.wikimedia.org/wiki/Special:FilePath/Ludwig_Dill.jpg?width=270</thumbnail>
+<birthEN>February 2, 1848</birthEN>
+<birthDE>2. Februar 1848</birthDE>
+<deathEN>March 31, 1940</deathEN>
+<deathDE>31. März 1940</deathDE>
+<birthPlace />
+<deathPlace />
+<professionOrOccupation>
+<XML_Serializer_Tag>Künstler</XML_Serializer_Tag>
+<XML_Serializer_Tag>Maler</XML_Serializer_Tag>
+</professionOrOccupation>
+<artworks />
+<dbpResource>http://dbpedia.org/resource/Ludwig_Dill</dbpResource>
+<abstract>Ludwig Dill (* 2. Februar 1848 in Gernsbach; † 24. Oktober 1940 in Karlsruhe) war ein deutscher Maler.</abstract>
+<wikilink>http://en.wikipedia.org/wiki/Ludwig_Dill?oldid=606803456</wikilink>
+</Person>

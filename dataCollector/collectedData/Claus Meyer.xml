@@ -1,0 +1,27 @@
+<Person>
+<name>Claus Meyer</name>
+<variantName>
+<XML_Serializer_Tag>Claus August Eduard Nikolaus Meyer</XML_Serializer_Tag>
+<XML_Serializer_Tag>, der Ältere</XML_Serializer_Tag>
+<XML_Serializer_Tag>Klaus Meyer</XML_Serializer_Tag>
+</variantName>
+<thumbnail>https://commons.wikimedia.org/wiki/Special:FilePath/ClausMeyer-Bild_2564.jpg?width=270</thumbnail>
+<birthEN>1856</birthEN>
+<birthDE>1856</birthDE>
+<deathEN>1919</deathEN>
+<deathDE>1919</deathDE>
+<birthPlace>
+<XML_Serializer_Tag>Linden (Hannover)</XML_Serializer_Tag>
+</birthPlace>
+<deathPlace>
+<XML_Serializer_Tag>Düsseldorf</XML_Serializer_Tag>
+</deathPlace>
+<professionOrOccupation>
+<XML_Serializer_Tag>Künstler</XML_Serializer_Tag>
+<XML_Serializer_Tag>Maler</XML_Serializer_Tag>
+</professionOrOccupation>
+<artworks />
+<dbpResource>http://dbpedia.org/resource/Claus_Meyer</dbpResource>
+<abstract>Claus Meyer Nielsen (* 27. Dezember 1963 in Nykøbing Falster) ist ein dänischer Fernsehkoch, Gastronom und Mitbegründer des Restaurants Noma.</abstract>
+<wikilink>http://en.wikipedia.org/wiki/Claus_Meyer?oldid=606261202</wikilink>
+</Person>

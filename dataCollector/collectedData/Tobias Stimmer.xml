@@ -1,0 +1,27 @@
+<Person>
+<name>Tobias Stimmer</name>
+<variantName>
+<XML_Serializer_Tag>Thobias Stimmer</XML_Serializer_Tag>
+<XML_Serializer_Tag>Tobias Stimmerus</XML_Serializer_Tag>
+<XML_Serializer_Tag>Tobias Stimmer</XML_Serializer_Tag>
+<XML_Serializer_Tag>T. Stimmer</XML_Serializer_Tag>
+</variantName>
+<thumbnail>https://commons.wikimedia.org/wiki/Special:FilePath/Tobias_Stimmer_von_JRF.jpg?width=270</thumbnail>
+<birthEN>April 17, 1539</birthEN>
+<birthDE>17. April 1539</birthDE>
+<deathEN>January 4, 1584</deathEN>
+<deathDE>4. Januar 1584</deathDE>
+<birthPlace>
+<XML_Serializer_Tag>Schaffhausen</XML_Serializer_Tag>
+</birthPlace>
+<deathPlace />
+<professionOrOccupation>
+<XML_Serializer_Tag>Schriftsteller</XML_Serializer_Tag>
+<XML_Serializer_Tag>Maler</XML_Serializer_Tag>
+<XML_Serializer_Tag>Zeichner</XML_Serializer_Tag>
+</professionOrOccupation>
+<artworks />
+<dbpResource>http://dbpedia.org/resource/Tobias_Stimmer</dbpResource>
+<abstract>Tobias Stimmer (* 7. April 1539 in Schaffhausen; † 4. Januar 1584 in Strassburg) war ein Schweizer Maler und Zeichner.</abstract>
+<wikilink>http://en.wikipedia.org/wiki/Tobias_Stimmer?oldid=602164761</wikilink>
+</Person>

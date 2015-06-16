@@ -1,0 +1,32 @@
+<Person>
+<name>Hans Rottenhammer</name>
+<variantName>
+<XML_Serializer_Tag>, der Ältere</XML_Serializer_Tag>
+<XML_Serializer_Tag>Hans Rättnhammer</XML_Serializer_Tag>
+<XML_Serializer_Tag>Hans Rotnhamer</XML_Serializer_Tag>
+<XML_Serializer_Tag>Hans Rottenhamer</XML_Serializer_Tag>
+<XML_Serializer_Tag>Hans Rothamer</XML_Serializer_Tag>
+<XML_Serializer_Tag>Hans Rätchamer</XML_Serializer_Tag>
+<XML_Serializer_Tag>Johann Rottenhammer</XML_Serializer_Tag>
+<XML_Serializer_Tag>Johann Rothenhamer</XML_Serializer_Tag>
+</variantName>
+<thumbnail>https://commons.wikimedia.org/wiki/Special:FilePath/Lucas_Kilian_Johannes_Rottenhammer.jpg?width=270</thumbnail>
+<birthEN>1564</birthEN>
+<birthDE>1564</birthDE>
+<deathEN>1625</deathEN>
+<deathDE>1625</deathDE>
+<birthPlace>
+<XML_Serializer_Tag>München</XML_Serializer_Tag>
+</birthPlace>
+<deathPlace>
+<XML_Serializer_Tag>Augsburg</XML_Serializer_Tag>
+</deathPlace>
+<professionOrOccupation>
+<XML_Serializer_Tag>Maler</XML_Serializer_Tag>
+<XML_Serializer_Tag>Künstler</XML_Serializer_Tag>
+</professionOrOccupation>
+<artworks />
+<dbpResource>http://dbpedia.org/resource/Hans_Rottenhammer</dbpResource>
+<abstract>Johannes Rottenhammer der Ältere (* 1564 in München; † 14. August 1625 in Augsburg) war ein deutscher Zeichner und Maler des Manierismus und des Frühbarock. Seine auf Kupfer gemalten Kabinettbilder hängen in vielen bedeutenden Galerien Europas.</abstract>
+<wikilink>http://en.wikipedia.org/wiki/Hans_Rottenhammer?oldid=604742513</wikilink>
+</Person>

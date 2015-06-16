@@ -1,0 +1,29 @@
+<Person>
+<name>Peter Janssen</name>
+<variantName>
+<XML_Serializer_Tag>Peter Johann Theodor Janssen</XML_Serializer_Tag>
+<XML_Serializer_Tag>Johann Peter Theodor Janssen</XML_Serializer_Tag>
+<XML_Serializer_Tag>P. Janssen</XML_Serializer_Tag>
+<XML_Serializer_Tag>P. Jansen</XML_Serializer_Tag>
+</variantName>
+<thumbnail>https://commons.wikimedia.org/wiki/Special:FilePath/Peter_Janssen_der_Ältere.gif?width=270</thumbnail>
+<birthEN>December 12, 1844</birthEN>
+<birthDE>12. Dezember 1844</birthDE>
+<deathEN>February 19, 1908</deathEN>
+<deathDE>19. Februar 1908</deathDE>
+<birthPlace>
+<XML_Serializer_Tag>Düsseldorf</XML_Serializer_Tag>
+</birthPlace>
+<deathPlace>
+<XML_Serializer_Tag>Düsseldorf</XML_Serializer_Tag>
+</deathPlace>
+<professionOrOccupation>
+<XML_Serializer_Tag>Künstler</XML_Serializer_Tag>
+<XML_Serializer_Tag>Maler</XML_Serializer_Tag>
+<XML_Serializer_Tag>Illustrator</XML_Serializer_Tag>
+</professionOrOccupation>
+<artworks />
+<dbpResource>http://dbpedia.org/resource/Peter_Janssen</dbpResource>
+<abstract>Johann Peter Theodor Janssen, genannt Peter Janssen der Ältere (* 12. Dezember 1844 in Düsseldorf; † 19. Februar 1908 ebenda) war ein deutscher Maler.</abstract>
+<wikilink>http://en.wikipedia.org/wiki/Peter_Janssen?oldid=605336092</wikilink>
+</Person>

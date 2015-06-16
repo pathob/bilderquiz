@@ -1,0 +1,28 @@
+<Person>
+<name>Otto Dix</name>
+<variantName>
+<XML_Serializer_Tag>Wilhelm Heinrich Otto Dix</XML_Serializer_Tag>
+<XML_Serializer_Tag>Wilhelm Heinrich Otto Dix</XML_Serializer_Tag>
+</variantName>
+<thumbnail>https://commons.wikimedia.org/wiki/Special:FilePath/OttoDIX.jpg?width=270</thumbnail>
+<birthEN>December 2, 1891</birthEN>
+<birthDE>2. Dezember 1891</birthDE>
+<deathEN>July 25, 1969</deathEN>
+<deathDE>25. Juli 1969</deathDE>
+<birthPlace>
+<XML_Serializer_Tag>Untermhaus bei Gera/Thüringen</XML_Serializer_Tag>
+</birthPlace>
+<deathPlace>
+<XML_Serializer_Tag>Singen (Hohentwiel)</XML_Serializer_Tag>
+</deathPlace>
+<professionOrOccupation>
+<XML_Serializer_Tag>Maler</XML_Serializer_Tag>
+<XML_Serializer_Tag>Graphiker</XML_Serializer_Tag>
+<XML_Serializer_Tag>Pazifist</XML_Serializer_Tag>
+<XML_Serializer_Tag>Künstler</XML_Serializer_Tag>
+</professionOrOccupation>
+<artworks />
+<dbpResource>http://dbpedia.org/resource/Otto_Dix</dbpResource>
+<abstract>Wilhelm Heinrich Otto Dix (* 2. Dezember 1891 in Untermhaus, heute Stadtteil von Gera; † 25. Juli 1969 in Singen am Hohentwiel) war ein bedeutender deutscher Maler und Grafiker des 20. Jahrhunderts.Otto Dix’ Werk ist von stilistischer Vielfalt geprägt, bleibt jedoch in seiner künstlerischen Grundhaltung dem Realismus verpflichtet. Am bekanntesten sind diejenigen seiner Gemälde, welche der Neuen Sachlichkeit (Verismus) zugerechnet werden.Dix gilt als exzellenter Zeichner und hinterließ mehr als 6.000 Zeichnungen und Skizzen. Die umfangreichsten Werksammlungen befinden sich im Kunstmuseum Stuttgart und im Museum Gunzenhauser in Chemnitz. Den weltweit größten Bestand an Arbeiten auf Papier besitzt die Galerie Albstadt.</abstract>
+<wikilink>http://en.wikipedia.org/wiki/Otto_Dix?oldid=606606369</wikilink>
+</Person>

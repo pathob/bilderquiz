@@ -1,0 +1,35 @@
+<Person>
+<name>Johann Georg Edlinger</name>
+<variantName>
+<XML_Serializer_Tag>Johannes Georg Edlinger</XML_Serializer_Tag>
+<XML_Serializer_Tag>Georg Edlinger</XML_Serializer_Tag>
+<XML_Serializer_Tag>Joseph Georg von Edlinger</XML_Serializer_Tag>
+<XML_Serializer_Tag>Josef Georg von Edlinger</XML_Serializer_Tag>
+<XML_Serializer_Tag>Josef Georg Ettlinger</XML_Serializer_Tag>
+<XML_Serializer_Tag>Josef Georg Etlinger</XML_Serializer_Tag>
+<XML_Serializer_Tag>Josef Georg Edlinger</XML_Serializer_Tag>
+<XML_Serializer_Tag>Joseph Georg Edlinger</XML_Serializer_Tag>
+<XML_Serializer_Tag>Johann Georg Etlinger</XML_Serializer_Tag>
+<XML_Serializer_Tag>Johann Georg Ettlinger</XML_Serializer_Tag>
+<XML_Serializer_Tag>Johann Ettlinger</XML_Serializer_Tag>
+<XML_Serializer_Tag>G. Edlinger</XML_Serializer_Tag>
+</variantName>
+<thumbnail>https://commons.wikimedia.org/wiki/Special:FilePath/Johann_Georg_Edlinger.jpg?width=270</thumbnail>
+<birthEN>1741</birthEN>
+<birthDE>1741</birthDE>
+<deathEN>1819</deathEN>
+<deathDE>1819</deathDE>
+<birthPlace>
+<XML_Serializer_Tag>Graz</XML_Serializer_Tag>
+</birthPlace>
+<deathPlace>
+<XML_Serializer_Tag>München</XML_Serializer_Tag>
+</deathPlace>
+<professionOrOccupation>
+<XML_Serializer_Tag>Maler</XML_Serializer_Tag>
+</professionOrOccupation>
+<artworks />
+<dbpResource>http://dbpedia.org/resource/Johann_Georg_Edlinger</dbpResource>
+<abstract>Johann Georg Edlinger (* 1. März 1741 in Graz; † 15. September 1819 in München) war ein österreichischer Maler. Laut Thieme-Becker lautet sein richtiger Name &quot;Josef Georg (von) Edlinger&quot;. Unbestritten ist allerdings seine Bedeutung als Porträtist seiner Zeit in der südlichen Hälfte des deutschen Sprachraums.</abstract>
+<wikilink>http://en.wikipedia.org/wiki/Johann_Georg_Edlinger?oldid=592044755</wikilink>
+</Person>

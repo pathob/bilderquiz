@@ -1,0 +1,27 @@
+<Person>
+<name>Arthur Kampf</name>
+<variantName>
+<XML_Serializer_Tag>Arthur von Kampf</XML_Serializer_Tag>
+<XML_Serializer_Tag>Artur Kampf</XML_Serializer_Tag>
+<XML_Serializer_Tag>A. Kampf</XML_Serializer_Tag>
+</variantName>
+<thumbnail>https://commons.wikimedia.org/wiki/Special:FilePath/Bundesarchiv_Bild_102-14231,_Berlin,_Reichsgründungsfeier_der_Universität.jpg?width=270</thumbnail>
+<birthEN>September 28, 1864</birthEN>
+<birthDE>28. September 1864</birthDE>
+<deathEN>February 8, 1950</deathEN>
+<deathDE>8. Februar 1950</deathDE>
+<birthPlace>
+<XML_Serializer_Tag>Aachen</XML_Serializer_Tag>
+</birthPlace>
+<deathPlace>
+<XML_Serializer_Tag>Castrop-Rauxel</XML_Serializer_Tag>
+</deathPlace>
+<professionOrOccupation>
+<XML_Serializer_Tag>Maler</XML_Serializer_Tag>
+<XML_Serializer_Tag>Radierer</XML_Serializer_Tag>
+</professionOrOccupation>
+<artworks />
+<dbpResource>http://dbpedia.org/resource/Arthur_Kampf</dbpResource>
+<abstract>Arthur Kampf (ab 1912 Arthur von Kampf; * 26. September 1864 in Aachen; † 8. Februar 1950 in Castrop-Rauxel) war ein deutscher Historienmaler und Hochschullehrer.</abstract>
+<wikilink>http://en.wikipedia.org/wiki/Arthur_Kampf?oldid=567782422</wikilink>
+</Person>

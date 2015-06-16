@@ -1,0 +1,34 @@
+<Person>
+<name>Balthus</name>
+<variantName>
+<XML_Serializer_Tag>Balthazar Klossowski de Rola</XML_Serializer_Tag>
+<XML_Serializer_Tag>Balthasar Klossowski de Rola</XML_Serializer_Tag>
+<XML_Serializer_Tag>Balthazar Klossowski de Rola</XML_Serializer_Tag>
+<XML_Serializer_Tag>Balthasar Klossowski de Rola</XML_Serializer_Tag>
+<XML_Serializer_Tag>Balthus Klossowski</XML_Serializer_Tag>
+<XML_Serializer_Tag>J. Klossowski</XML_Serializer_Tag>
+<XML_Serializer_Tag>Baltusz</XML_Serializer_Tag>
+<XML_Serializer_Tag>Balthazar Michel Klossowski de Rola</XML_Serializer_Tag>
+<XML_Serializer_Tag>Balthasar Balthus</XML_Serializer_Tag>
+<XML_Serializer_Tag>Balthasar Klossowski</XML_Serializer_Tag>
+<XML_Serializer_Tag>Baltus</XML_Serializer_Tag>
+</variantName>
+<thumbnail>https://commons.wikimedia.org/wiki/Special:FilePath/BalthusFace.jpg?width=270</thumbnail>
+<birthEN>February 29, 1908</birthEN>
+<birthDE>29. Februar 1908</birthDE>
+<deathEN>XX.02.2001</deathEN>
+<deathDE>XX.02.2001</deathDE>
+<birthPlace>
+<XML_Serializer_Tag>Paris</XML_Serializer_Tag>
+</birthPlace>
+<deathPlace>
+<XML_Serializer_Tag>La Rossinière &lt;CH&gt;</XML_Serializer_Tag>
+</deathPlace>
+<professionOrOccupation>
+<XML_Serializer_Tag>Maler</XML_Serializer_Tag>
+</professionOrOccupation>
+<artworks />
+<dbpResource>http://dbpedia.org/resource/Balthus</dbpResource>
+<abstract>Balthasar Kłossowski de Rola, genannt Balthus, Hon.RA (* 29. Februar 1908 in Paris, Frankreich; † 18. Februar 2001 in Rossinière, Schweiz) war ein polnisch-deutsch-französischer Maler. 1991 erhielt er für sein Lebenswerk den Praemium Imperiale.</abstract>
+<wikilink>http://en.wikipedia.org/wiki/Balthus?oldid=606125974</wikilink>
+</Person>

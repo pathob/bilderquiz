@@ -1,0 +1,24 @@
+<Person>
+<name>Otto Modersohn</name>
+<variantName />
+<thumbnail>https://de.wikipedia.org/wiki/Special:FilePath/Hermann_Allmers_mit_Worpsweder_Malern.jpg?width=270</thumbnail>
+<birthEN>February 22, 1865</birthEN>
+<birthDE>22. Februar 1865</birthDE>
+<deathEN>March 10, 1943</deathEN>
+<deathDE>10. März 1943</deathDE>
+<birthPlace>
+<XML_Serializer_Tag>Soest</XML_Serializer_Tag>
+</birthPlace>
+<deathPlace>
+<XML_Serializer_Tag>Rotenburg (Wümme)</XML_Serializer_Tag>
+</deathPlace>
+<professionOrOccupation>
+<XML_Serializer_Tag>Maler</XML_Serializer_Tag>
+<XML_Serializer_Tag>Graphiker</XML_Serializer_Tag>
+<XML_Serializer_Tag>Landschaftsmaler</XML_Serializer_Tag>
+</professionOrOccupation>
+<artworks />
+<dbpResource>http://dbpedia.org/resource/Otto_Modersohn</dbpResource>
+<abstract>Friedrich Wilhelm Otto Modersohn (* 22. Februar 1865 in Soest, Westfalen; † 10. März 1943 in Rotenburg, Wümme) war ein deutscher Landschaftsmaler.</abstract>
+<wikilink>http://en.wikipedia.org/wiki/Otto_Modersohn?oldid=606663141</wikilink>
+</Person>

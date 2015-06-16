@@ -1,0 +1,24 @@
+<Person>
+<name>Don Ed Hardy</name>
+<variantName>
+<XML_Serializer_Tag>Donald Edward Talbott Hardy</XML_Serializer_Tag>
+<XML_Serializer_Tag>Ed Hardy</XML_Serializer_Tag>
+</variantName>
+<thumbnail>https://commons.wikimedia.org/wiki/Special:FilePath/Edhardy.jpg?width=270</thumbnail>
+<birthEN>1945</birthEN>
+<birthDE>1945</birthDE>
+<deathEN />
+<deathDE />
+<birthPlace />
+<deathPlace />
+<professionOrOccupation>
+<XML_Serializer_Tag>Künstler</XML_Serializer_Tag>
+<XML_Serializer_Tag>Graphiker</XML_Serializer_Tag>
+<XML_Serializer_Tag>Maler</XML_Serializer_Tag>
+<XML_Serializer_Tag>Tätowierer</XML_Serializer_Tag>
+</professionOrOccupation>
+<artworks />
+<dbpResource>http://dbpedia.org/resource/Don_Ed_Hardy</dbpResource>
+<abstract>Donald Ed Hardy (* 1945 in Newport Beach) ist ein US-amerikanischer Tattookünstler und Designer.</abstract>
+<wikilink>http://en.wikipedia.org/wiki/Don_Ed_Hardy?oldid=605782288</wikilink>
+</Person>

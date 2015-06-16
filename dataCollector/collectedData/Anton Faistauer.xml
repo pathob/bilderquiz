@@ -1,0 +1,22 @@
+<Person>
+<name>Anton Faistauer</name>
+<variantName />
+<thumbnail>https://commons.wikimedia.org/wiki/Special:FilePath/Anton_Faistauer_001.jpg?width=270</thumbnail>
+<birthEN>February 14, 1887</birthEN>
+<birthDE>14. Februar 1887</birthDE>
+<deathEN>February 13, 1930</deathEN>
+<deathDE>13. Februar 1930</deathDE>
+<birthPlace>
+<XML_Serializer_Tag>Sankt Martin bei Lofer</XML_Serializer_Tag>
+</birthPlace>
+<deathPlace>
+<XML_Serializer_Tag>Wien</XML_Serializer_Tag>
+</deathPlace>
+<professionOrOccupation>
+<XML_Serializer_Tag>Maler</XML_Serializer_Tag>
+</professionOrOccupation>
+<artworks />
+<dbpResource>http://dbpedia.org/resource/Anton_Faistauer</dbpResource>
+<abstract>Anton Faistauer (* 14. Februar 1887 in Sankt Martin bei Lofer, (Salzburg); † 13. Februar 1930 in Wien) war ein österreichischer Maler.</abstract>
+<wikilink>http://en.wikipedia.org/wiki/Anton_Faistauer?oldid=567216973</wikilink>
+</Person>

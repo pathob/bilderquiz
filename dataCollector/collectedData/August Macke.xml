@@ -1,0 +1,51 @@
+<Person>
+<name>August Macke</name>
+<variantName>
+<XML_Serializer_Tag>August Robert Ludwig Macke</XML_Serializer_Tag>
+<XML_Serializer_Tag>アウグスト　 マッケ</XML_Serializer_Tag>
+<XML_Serializer_Tag>アウグスト・マッケ</XML_Serializer_Tag>
+</variantName>
+<thumbnail>https://commons.wikimedia.org/wiki/Special:FilePath/August_Macke_043.jpg?width=270</thumbnail>
+<birthEN>January 3, 1887</birthEN>
+<birthDE>3. Januar 1887</birthDE>
+<deathEN>September 26, 1914</deathEN>
+<deathDE>26. September 1914</deathDE>
+<birthPlace>
+<XML_Serializer_Tag>Meschede</XML_Serializer_Tag>
+</birthPlace>
+<deathPlace>
+<XML_Serializer_Tag>Perthes-les-Hurlus (Champagne)</XML_Serializer_Tag>
+</deathPlace>
+<professionOrOccupation>
+<XML_Serializer_Tag>Maler</XML_Serializer_Tag>
+</professionOrOccupation>
+<artworks>
+<XML_Serializer_Tag>
+<painting>
+<type>uri</type>
+<value>http://dbpedia.org/resource/Landscape_with_Cows_and_Camel</value>
+</painting>
+<thumbnail>
+<type>uri</type>
+<value>http://commons.wikimedia.org/wiki/Special:FilePath/August_Macke_025.jpg?width=300</value>
+</thumbnail>
+<name>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>Landscape with Cows and Camel</value>
+</name>
+<year>
+<type>typed-literal</type>
+<datatype>http://www.w3.org/2001/XMLSchema#integer</datatype>
+<value>1914</value>
+</year>
+<wikilink>
+<type>uri</type>
+<value>http://en.wikipedia.org/wiki/Landscape_with_Cows_and_Camel?oldid=589180000</value>
+</wikilink>
+</XML_Serializer_Tag>
+</artworks>
+<dbpResource>http://dbpedia.org/resource/August_Macke</dbpResource>
+<abstract>August Robert Ludwig Macke (* 3. Januar 1887 in Meschede, Hochsauerland; † 26. September 1914 bei Perthes-lès-Hurlus, Champagne) war einer der bekanntesten deutschen Maler des Expressionismus. Er beteiligte sich an den beiden Ausstellungen des Blauen Reiters.In rund zehn Jahren schuf Macke ein Werk, das sich unter dem Einfluss der vielfältigen Kunstströmungen der Zeit zunächst stilistisch rasch wandelte. Der persönliche Stil, zu dem er schließlich fand, und der heute als typisch für Macke empfunden wird, ist geprägt durch die Beschäftigung mit der Wirkung des Lichts und durch die Verwendung reiner, leuchtender, harmonierender Farben. Die Gemälde wirken heiter und leicht, alles Tragische ist ihnen fremd. „Seine Bilder befriedigen die Sehnsucht nach positiven Bildern einer intakten Welt, dem Gleichklang des Menschen mit den Dingen, die ihn umgeben.“</abstract>
+<wikilink>http://en.wikipedia.org/wiki/August_Macke?oldid=605681344</wikilink>
+</Person>

@@ -1,0 +1,30 @@
+<Person>
+<name>Alfred Hrdlicka</name>
+<variantName>
+<XML_Serializer_Tag>Alfred Hrdlička</XML_Serializer_Tag>
+</variantName>
+<thumbnail>https://commons.wikimedia.org/wiki/Special:FilePath/Alfred_Hrdlicka_(Austrian_sculptor)_2005_cropped.jpg?width=270</thumbnail>
+<birthEN>February 27, 1928</birthEN>
+<birthDE>27. Februar 1928</birthDE>
+<deathEN>December 5, 2009</deathEN>
+<deathDE>5. Dezember 2009</deathDE>
+<birthPlace>
+<XML_Serializer_Tag>Wien</XML_Serializer_Tag>
+</birthPlace>
+<deathPlace>
+<XML_Serializer_Tag>Wien</XML_Serializer_Tag>
+</deathPlace>
+<professionOrOccupation>
+<XML_Serializer_Tag>Bildhauer</XML_Serializer_Tag>
+<XML_Serializer_Tag>Zeichner</XML_Serializer_Tag>
+<XML_Serializer_Tag>Maler</XML_Serializer_Tag>
+<XML_Serializer_Tag>Graphiker</XML_Serializer_Tag>
+<XML_Serializer_Tag>Schriftsteller</XML_Serializer_Tag>
+<XML_Serializer_Tag>Künstler</XML_Serializer_Tag>
+<XML_Serializer_Tag>Schauspieler</XML_Serializer_Tag>
+</professionOrOccupation>
+<artworks />
+<dbpResource>http://dbpedia.org/resource/Alfred_Hrdlicka</dbpResource>
+<abstract>Alfred Hrdlicka [ˈalfʀeːt ˈɦr̩ɟlɪt͡ʃka] (* 27. Februar 1928 in Wien; † 5. Dezember 2009 ebenda) war ein österreichischer Bildhauer, Zeichner, Maler, Grafiker und Schriftsteller.</abstract>
+<wikilink>http://en.wikipedia.org/wiki/Alfred_Hrdlicka?oldid=594176963</wikilink>
+</Person>

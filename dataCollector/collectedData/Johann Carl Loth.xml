@@ -1,0 +1,27 @@
+<Person>
+<name>Johann Carl Loth</name>
+<variantName>
+<XML_Serializer_Tag>Giovanni Carlo Lott</XML_Serializer_Tag>
+<XML_Serializer_Tag>Giovanni Carlotto</XML_Serializer_Tag>
+<XML_Serializer_Tag>Carlotto</XML_Serializer_Tag>
+<XML_Serializer_Tag>Karl Loth</XML_Serializer_Tag>
+<XML_Serializer_Tag>Carlotto Loth</XML_Serializer_Tag>
+</variantName>
+<thumbnail>https://commons.wikimedia.org/wiki/Special:FilePath/Johann_Carl_Loth_001.jpg?width=270</thumbnail>
+<birthEN>1632</birthEN>
+<birthDE>1632</birthDE>
+<deathEN>1698</deathEN>
+<deathDE>1698</deathDE>
+<birthPlace />
+<deathPlace>
+<XML_Serializer_Tag>Venedig</XML_Serializer_Tag>
+</deathPlace>
+<professionOrOccupation>
+<XML_Serializer_Tag>Künstler</XML_Serializer_Tag>
+<XML_Serializer_Tag>Maler</XML_Serializer_Tag>
+</professionOrOccupation>
+<artworks />
+<dbpResource>http://dbpedia.org/resource/Johann_Carl_Loth</dbpResource>
+<abstract>Johann Carl Loth, genannt Carlotto, (getauft am 8. August 1632 in München; † 6. September 1698 in Venedig) war ein deutscher Maler des Barock.</abstract>
+<wikilink>http://en.wikipedia.org/wiki/Johann_Carl_Loth?oldid=602495731</wikilink>
+</Person>

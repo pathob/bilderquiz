@@ -1,0 +1,78 @@
+<Person>
+<name>Carl Larsson</name>
+<variantName>
+<XML_Serializer_Tag>Carl Olof Larsson</XML_Serializer_Tag>
+</variantName>
+<thumbnail>https://commons.wikimedia.org/wiki/Special:FilePath/Carl_Larsson_selfportrait_1891.png?width=270</thumbnail>
+<birthEN>May 28, 1853</birthEN>
+<birthDE>28. Mai 1853</birthDE>
+<deathEN>January 22, 1919</deathEN>
+<deathDE>22. Januar 1919</deathDE>
+<birthPlace>
+<XML_Serializer_Tag>Stockholm</XML_Serializer_Tag>
+</birthPlace>
+<deathPlace>
+<XML_Serializer_Tag>Sundborn</XML_Serializer_Tag>
+</deathPlace>
+<professionOrOccupation>
+<XML_Serializer_Tag>Maler</XML_Serializer_Tag>
+</professionOrOccupation>
+<artworks>
+<XML_Serializer_Tag>
+<painting>
+<type>uri</type>
+<value>http://dbpedia.org/resource/Midvinterblot</value>
+</painting>
+<thumbnail>
+<type>uri</type>
+<value>http://commons.wikimedia.org/wiki/Special:FilePath/Midvinterblot.jpeg?width=300</value>
+</thumbnail>
+<name>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>Midvinterblot</value>
+</name>
+<year>
+<type>typed-literal</type>
+<datatype>http://www.w3.org/2001/XMLSchema#integer</datatype>
+<value>1915</value>
+</year>
+<abstract>
+<type>literal</type>
+<xml:lang>de</xml:lang>
+<value>Midvinterblot (&quot;Mittwinteropfer&quot;) ist ein Gemälde des schwedischen Malers Carl Larsson, das seit 1997 im Nationalmuseum von Stockholm ausgestellt ist. Schon Larssons ursprüngliche Intention war die Aufhängung des Werkes im oberen Bereich der Treppenhalle des Museums, doch eine Reihe von unterschiedlichen Gründen führte zur mehrmaligen Ablehnung des Gemäldes.</value>
+</abstract>
+<wikilink>
+<type>uri</type>
+<value>http://en.wikipedia.org/wiki/Midvinterblot?oldid=590704319</value>
+</wikilink>
+</XML_Serializer_Tag>
+<XML_Serializer_Tag>
+<painting>
+<type>uri</type>
+<value>http://dbpedia.org/resource/Gustav_Vasas_int%C3%A5g_i_Stockholm_1523</value>
+</painting>
+<thumbnail>
+<type>uri</type>
+<value>http://commons.wikimedia.org/wiki/Special:FilePath/The_Entry_of_King_Gustav_Vasa_of_Sweden_into_Stockholm_-_color.jpg?width=300</value>
+</thumbnail>
+<name>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>Gustav Vasas intåg i Stockholm 1523</value>
+</name>
+<year>
+<type>typed-literal</type>
+<datatype>http://www.w3.org/2001/XMLSchema#integer</datatype>
+<value>1908</value>
+</year>
+<wikilink>
+<type>uri</type>
+<value>http://en.wikipedia.org/wiki/Gustav_Vasas_intåg_i_Stockholm_1523?oldid=587043230</value>
+</wikilink>
+</XML_Serializer_Tag>
+</artworks>
+<dbpResource>http://dbpedia.org/resource/Carl_Larsson</dbpResource>
+<abstract>Carl Larsson (* 28. Mai 1853 in Stockholm; † 22. Januar 1919 in Falun) war ein schwedischer Künstler.Seine Gemälde, Aquarelle und Zeichnungen zeigen überwiegend das Leben seiner Familie (gemeinsam mit Frau Karin hatte Larsson acht Kinder) in und um das Wohnhaus in Sundborn, Schweden. Carl und Karin gelten als Begründer des heute als typisch schwedisch geltenden Wohnstils, dessen wesentliche Elemente Helligkeit, Farbigkeit und lebendig-fröhliche Funktionalität sind. Das Haus ist heute ein Museum. In Deutschland wurde Larsson ab 1909 berühmt durch das Buch „Das Haus in der Sonne“.</abstract>
+<wikilink>http://en.wikipedia.org/wiki/Carl_Larsson?oldid=600226495</wikilink>
+</Person>

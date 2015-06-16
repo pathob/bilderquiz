@@ -1,0 +1,40 @@
+<Person>
+<name>Joachim Ringelnatz</name>
+<variantName>
+<XML_Serializer_Tag>J. Ringelnatz</XML_Serializer_Tag>
+<XML_Serializer_Tag>... Ringelnatz</XML_Serializer_Tag>
+<XML_Serializer_Tag>Hans Gustav Bötticher</XML_Serializer_Tag>
+<XML_Serializer_Tag>Hans Bötticher</XML_Serializer_Tag>
+<XML_Serializer_Tag>H. Bötticher</XML_Serializer_Tag>
+<XML_Serializer_Tag>Hans Boetticher</XML_Serializer_Tag>
+<XML_Serializer_Tag>Gustav Hester</XML_Serializer_Tag>
+<XML_Serializer_Tag>Pinko Meyer</XML_Serializer_Tag>
+<XML_Serializer_Tag>Fritz Dörry</XML_Serializer_Tag>
+<XML_Serializer_Tag>... Ringerunattsu</XML_Serializer_Tag>
+<XML_Serializer_Tag>ヨアヒム・リンゲルナッツ</XML_Serializer_Tag>
+</variantName>
+<thumbnail>https://commons.wikimedia.org/wiki/Special:FilePath/Ringelnatz-Porträt.jpg?width=270</thumbnail>
+<birthEN>August 7, 1883</birthEN>
+<birthDE>7. August 1883</birthDE>
+<deathEN>November 17, 1934</deathEN>
+<deathDE>17. November 1934</deathDE>
+<birthPlace>
+<XML_Serializer_Tag>Wurzen</XML_Serializer_Tag>
+</birthPlace>
+<deathPlace>
+<XML_Serializer_Tag>Berlin</XML_Serializer_Tag>
+</deathPlace>
+<professionOrOccupation>
+<XML_Serializer_Tag>Kabarettist</XML_Serializer_Tag>
+<XML_Serializer_Tag>Künstler</XML_Serializer_Tag>
+<XML_Serializer_Tag>Seemann</XML_Serializer_Tag>
+<XML_Serializer_Tag>Bibliothekar</XML_Serializer_Tag>
+<XML_Serializer_Tag>Maler</XML_Serializer_Tag>
+<XML_Serializer_Tag>Schriftsteller</XML_Serializer_Tag>
+<XML_Serializer_Tag>Schauspieler</XML_Serializer_Tag>
+</professionOrOccupation>
+<artworks />
+<dbpResource>http://dbpedia.org/resource/Joachim_Ringelnatz</dbpResource>
+<abstract>Joachim Ringelnatz (* 7. August 1883 in Wurzen; † 17. November 1934 in Berlin; eigentlich Hans Gustav Bötticher) war ein deutscher Schriftsteller, Kabarettist und Maler, der vor allem für humoristische Gedichte um die Kunstfigur Kuttel Daddeldu bekannt ist.</abstract>
+<wikilink>http://en.wikipedia.org/wiki/Joachim_Ringelnatz?oldid=580810165</wikilink>
+</Person>

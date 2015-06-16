@@ -1,0 +1,23 @@
+<Person>
+<name>John Gilbert</name>
+<variantName>
+<XML_Serializer_Tag>Gilbert</XML_Serializer_Tag>
+</variantName>
+<thumbnail>https://commons.wikimedia.org/wiki/Special:FilePath/John_Gilbert,_by_John_Gilbert.jpg?width=270</thumbnail>
+<birthEN>July 1, 1817</birthEN>
+<birthDE>1. Juli 1817</birthDE>
+<deathEN>January 5, 1897</deathEN>
+<deathDE>5. Januar 1897</deathDE>
+<birthPlace>
+<XML_Serializer_Tag>London</XML_Serializer_Tag>
+</birthPlace>
+<deathPlace />
+<professionOrOccupation>
+<XML_Serializer_Tag>Maler</XML_Serializer_Tag>
+<XML_Serializer_Tag>Illustrator</XML_Serializer_Tag>
+</professionOrOccupation>
+<artworks />
+<dbpResource>http://dbpedia.org/resource/John_Gilbert_(actor)</dbpResource>
+<abstract>John Gilbert (eigentlich John Cecil Pringle; * 10. Juli 1897 in Logan, Utah; † 9. Januar 1936 in Los Angeles, Kalifornien) war ein US-amerikanischer Filmschauspieler. Er war vor allem an der Seite von Greta Garbo einer der größten Stars der ausgehenden Stummfilmära Ende der 1920er Jahre.</abstract>
+<wikilink>http://en.wikipedia.org/wiki/John_Gilbert_(actor)?oldid=604317775</wikilink>
+</Person>

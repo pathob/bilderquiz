@@ -1,0 +1,32 @@
+<Person>
+<name>Karl Friedrich Schinkel</name>
+<variantName>
+<XML_Serializer_Tag>Carl Friedrich Schinkel</XML_Serializer_Tag>
+<XML_Serializer_Tag>Karl F. Schinkel</XML_Serializer_Tag>
+<XML_Serializer_Tag>Carl F. Schinkel</XML_Serializer_Tag>
+<XML_Serializer_Tag>K. F. Schinkel</XML_Serializer_Tag>
+<XML_Serializer_Tag>C. F. Schinkel</XML_Serializer_Tag>
+<XML_Serializer_Tag>Friedrich Schinkel</XML_Serializer_Tag>
+</variantName>
+<thumbnail>https://commons.wikimedia.org/wiki/Special:FilePath/Schinkel1.jpg?width=270</thumbnail>
+<birthEN>January 13, 1781</birthEN>
+<birthDE>13. Januar 1781</birthDE>
+<deathEN>October 9, 1841</deathEN>
+<deathDE>9. Oktober 1841</deathDE>
+<birthPlace>
+<XML_Serializer_Tag>Neuruppin</XML_Serializer_Tag>
+</birthPlace>
+<deathPlace>
+<XML_Serializer_Tag>Berlin</XML_Serializer_Tag>
+</deathPlace>
+<professionOrOccupation>
+<XML_Serializer_Tag>Architekt</XML_Serializer_Tag>
+<XML_Serializer_Tag>Maler</XML_Serializer_Tag>
+<XML_Serializer_Tag>Graphiker</XML_Serializer_Tag>
+<XML_Serializer_Tag>Bühnenbildner</XML_Serializer_Tag>
+</professionOrOccupation>
+<artworks />
+<dbpResource>http://dbpedia.org/resource/Karl_Friedrich_Schinkel</dbpResource>
+<abstract>Karl Friedrich Schinkel (* 13. März 1781 in Neuruppin; † 9. Oktober 1841 in Berlin) war ein preußischer Baumeister, Architekt, Stadtplaner, Maler, Grafiker und Bühnenbildner, der den Klassizismus in Preußen entscheidend mitgestaltete. Als Leiter der Oberbaudeputation unterstand ihm eine Revisionsabteilung, die fast alle staatlichen Bauvorhaben für das Königreich Preußen in ökonomischer, funktionaler und ästhetischer Hinsicht überprüfte. Schinkel war Oberlandesbaudirektor und Architekt des Königs. Seine Bauwerke prägen heute noch das Stadtbild der Mitte Berlins. Nach ihm wurde die Schinkelschule benannt, bei der es sich um mehrere Generationen von Architekten handelt, die unter seinem stilbildenden Einfluss standen.</abstract>
+<wikilink>http://en.wikipedia.org/wiki/Karl_Friedrich_Schinkel?oldid=592235630</wikilink>
+</Person>

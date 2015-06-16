@@ -1,0 +1,50 @@
+<Person>
+<name>Odilon Redon</name>
+<variantName>
+<XML_Serializer_Tag>Bertrand-Jean Redon</XML_Serializer_Tag>
+<XML_Serializer_Tag>Bertrand Jean Redon</XML_Serializer_Tag>
+<XML_Serializer_Tag>Bertrand-J. Redon</XML_Serializer_Tag>
+<XML_Serializer_Tag>Bertrand J. Redon</XML_Serializer_Tag>
+<XML_Serializer_Tag>O. Redon</XML_Serializer_Tag>
+<XML_Serializer_Tag>B.-J. Redon</XML_Serializer_Tag>
+<XML_Serializer_Tag>B. J. Redon</XML_Serializer_Tag>
+<XML_Serializer_Tag>Odilon Bertrand Redon</XML_Serializer_Tag>
+</variantName>
+<thumbnail>https://commons.wikimedia.org/wiki/Special:FilePath/Odilon_Redon.jpg?width=270</thumbnail>
+<birthEN>1840</birthEN>
+<birthDE>1840</birthDE>
+<deathEN>1916</deathEN>
+<deathDE>1916</deathDE>
+<birthPlace />
+<deathPlace />
+<professionOrOccupation>
+<XML_Serializer_Tag>Künstler</XML_Serializer_Tag>
+<XML_Serializer_Tag>Maler</XML_Serializer_Tag>
+<XML_Serializer_Tag>Radierer</XML_Serializer_Tag>
+<XML_Serializer_Tag>Lithograph</XML_Serializer_Tag>
+</professionOrOccupation>
+<artworks>
+<XML_Serializer_Tag>
+<painting>
+<type>uri</type>
+<value>http://dbpedia.org/resource/The_Cyclops_(Redon)</value>
+</painting>
+<thumbnail>
+<type>uri</type>
+<value>http://commons.wikimedia.org/wiki/Special:FilePath/1914_Redon_Zyklop_anagoria.JPG?width=300</value>
+</thumbnail>
+<name>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>The Cyclops</value>
+</name>
+<wikilink>
+<type>uri</type>
+<value>http://en.wikipedia.org/wiki/The_Cyclops_(Redon)?oldid=601052070</value>
+</wikilink>
+</XML_Serializer_Tag>
+</artworks>
+<dbpResource>http://dbpedia.org/resource/Odilon_Redon</dbpResource>
+<abstract>Odilon Redon, geboren als Bertrand-Jean Redon, (* 22. April 1840 in Bordeaux; † 6. Juli 1916 in Paris) war ein französischer Grafiker und Maler des Symbolismus und Mitbegründer der Société des Artistes Indépendants. Das Werk des Künstler gliedert sich in eine frühe schwarze und eine (späte) farbige Phase.</abstract>
+<wikilink>http://en.wikipedia.org/wiki/Odilon_Redon?oldid=603873182</wikilink>
+</Person>

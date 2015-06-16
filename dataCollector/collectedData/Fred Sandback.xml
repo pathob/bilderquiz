@@ -1,0 +1,23 @@
+<Person>
+<name>Fred Sandback</name>
+<variantName>
+<XML_Serializer_Tag>Frederick Lane Sandback</XML_Serializer_Tag>
+</variantName>
+<thumbnail>https://en.wikipedia.org/wiki/Special:FilePath/Sandback.jpg?width=270</thumbnail>
+<birthEN>1943</birthEN>
+<birthDE>1943</birthDE>
+<deathEN>2003</deathEN>
+<deathDE>2003</deathDE>
+<birthPlace />
+<deathPlace />
+<professionOrOccupation>
+<XML_Serializer_Tag>Künstler</XML_Serializer_Tag>
+<XML_Serializer_Tag>Maler</XML_Serializer_Tag>
+<XML_Serializer_Tag>Graphiker</XML_Serializer_Tag>
+<XML_Serializer_Tag>Installationskünstler</XML_Serializer_Tag>
+</professionOrOccupation>
+<artworks />
+<dbpResource>http://dbpedia.org/resource/Fred_Sandback</dbpResource>
+<abstract>Fred Sandback (* 29. August 1943 in Bronxville, New York; † 23. Juni 2003 in New York City) war ein US-amerikanischer Künstler, der dem Minimalismus zugeordnet werden kann.</abstract>
+<wikilink>http://en.wikipedia.org/wiki/Fred_Sandback?oldid=585120853</wikilink>
+</Person>

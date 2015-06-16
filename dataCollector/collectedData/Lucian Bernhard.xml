@@ -1,0 +1,28 @@
+<Person>
+<name>Lucian Bernhard</name>
+<variantName>
+<XML_Serializer_Tag>Lucien Bernhard</XML_Serializer_Tag>
+<XML_Serializer_Tag>Emil Kahn</XML_Serializer_Tag>
+</variantName>
+<thumbnail>https://commons.wikimedia.org/wiki/Special:FilePath/Plakat_Bernhard_08.jpg?width=270</thumbnail>
+<birthEN>March 15, 1883</birthEN>
+<birthDE>15. März 1883</birthDE>
+<deathEN>May 29, 1972</deathEN>
+<deathDE>29. Mai 1972</deathDE>
+<birthPlace>
+<XML_Serializer_Tag>Cannstatt</XML_Serializer_Tag>
+</birthPlace>
+<deathPlace>
+<XML_Serializer_Tag>New York, NY</XML_Serializer_Tag>
+</deathPlace>
+<professionOrOccupation>
+<XML_Serializer_Tag>Schriftsetzer</XML_Serializer_Tag>
+<XML_Serializer_Tag>Maler</XML_Serializer_Tag>
+<XML_Serializer_Tag>Graphiker</XML_Serializer_Tag>
+<XML_Serializer_Tag>Illustrator</XML_Serializer_Tag>
+</professionOrOccupation>
+<artworks />
+<dbpResource>http://dbpedia.org/resource/Lucian_Bernhard</dbpResource>
+<abstract>Lucian Bernhard, eigentlich Emil Kahn (* 15. März 1883 in Cannstatt bei Stuttgart; † 29. Mai 1972 in New York City), oft auch Lucien Bernhard, war ein deutscher Grafiker und Designer der Neuen Sachlichkeit, Typograf, Architekt und erster Professor für Plakatkunst überhaupt. Die Familie von Schriftstilen, die er entwickelte, wird als Bernhard bezeichnet. Kaffee Hag, Pelikan und die Bosch-Zündkerze sind noch heute stilistisch von Lucian Bernhard geprägt.</abstract>
+<wikilink>http://en.wikipedia.org/wiki/Lucian_Bernhard?oldid=587718395</wikilink>
+</Person>

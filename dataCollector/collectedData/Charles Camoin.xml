@@ -1,0 +1,20 @@
+<Person>
+<name>Charles Camoin</name>
+<variantName>
+<XML_Serializer_Tag>Ch. Camoin</XML_Serializer_Tag>
+</variantName>
+<thumbnail>https://de.wikipedia.org/wiki/Special:FilePath/CAMOIN.JPG?width=270</thumbnail>
+<birthEN>1879</birthEN>
+<birthDE>1879</birthDE>
+<deathEN>1965</deathEN>
+<deathDE>1965</deathDE>
+<birthPlace />
+<deathPlace />
+<professionOrOccupation>
+<XML_Serializer_Tag>Maler</XML_Serializer_Tag>
+</professionOrOccupation>
+<artworks />
+<dbpResource>http://dbpedia.org/resource/Charles_Camoin</dbpResource>
+<abstract>Charles Camoin (* 23. September 1879 in Marseille; † 20. Mai 1965 in Paris) war ein französischer Maler. Er wird dem Kreis der „Fauves“ zugeordnet.</abstract>
+<wikilink>http://en.wikipedia.org/wiki/Charles_Camoin?oldid=603409517</wikilink>
+</Person>

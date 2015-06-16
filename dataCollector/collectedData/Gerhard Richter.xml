@@ -1,0 +1,28 @@
+<Person>
+<name>Gerhard Richter</name>
+<variantName>
+<XML_Serializer_Tag>Gerd Richter</XML_Serializer_Tag>
+<XML_Serializer_Tag>Geruharuto Rihitā</XML_Serializer_Tag>
+<XML_Serializer_Tag>Gehede Lixite</XML_Serializer_Tag>
+<XML_Serializer_Tag>Gerhardus Richter</XML_Serializer_Tag>
+</variantName>
+<thumbnail>https://commons.wikimedia.org/wiki/Special:FilePath/Gerhard_richter_02_2005_düsseldorf.jpg?width=270</thumbnail>
+<birthEN>1932</birthEN>
+<birthDE>1932</birthDE>
+<deathEN />
+<deathDE />
+<birthPlace>
+<XML_Serializer_Tag>Dresden</XML_Serializer_Tag>
+</birthPlace>
+<deathPlace />
+<professionOrOccupation>
+<XML_Serializer_Tag>Künstler</XML_Serializer_Tag>
+<XML_Serializer_Tag>Maler</XML_Serializer_Tag>
+<XML_Serializer_Tag>Bildhauer</XML_Serializer_Tag>
+<XML_Serializer_Tag>Photograph</XML_Serializer_Tag>
+</professionOrOccupation>
+<artworks />
+<dbpResource>http://dbpedia.org/resource/Gerhard_Richter</dbpResource>
+<abstract>Gerhard Richter (* 9. Februar 1932 in Dresden) ist ein deutscher Maler, Bildhauer und Fotograf. Er war von 1971 bis 1993 Professor für Malerei an der Kunstakademie Düsseldorf.</abstract>
+<wikilink>http://en.wikipedia.org/wiki/Gerhard_Richter?oldid=605308202</wikilink>
+</Person>

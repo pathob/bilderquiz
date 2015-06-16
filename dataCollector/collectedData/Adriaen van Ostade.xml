@@ -1,0 +1,27 @@
+<Person>
+<name>Adriaen van Ostade</name>
+<variantName>
+<XML_Serializer_Tag>A. Ostade</XML_Serializer_Tag>
+<XML_Serializer_Tag>Adriaan van Ostade</XML_Serializer_Tag>
+<XML_Serializer_Tag>Adrian van Ostade</XML_Serializer_Tag>
+<XML_Serializer_Tag>Adrien van Ostade</XML_Serializer_Tag>
+<XML_Serializer_Tag>Adrian Van-Ostade</XML_Serializer_Tag>
+<XML_Serializer_Tag>Adriaen, van Ostade</XML_Serializer_Tag>
+</variantName>
+<thumbnail>https://commons.wikimedia.org/wiki/Special:FilePath/Frans_Hals,_Adriaen_van_Ostade,_c._1645_alt._1648.jpg?width=270</thumbnail>
+<birthEN>1610</birthEN>
+<birthDE>1610</birthDE>
+<deathEN>1685</deathEN>
+<deathDE>1685</deathDE>
+<birthPlace />
+<deathPlace />
+<professionOrOccupation>
+<XML_Serializer_Tag>Maler</XML_Serializer_Tag>
+<XML_Serializer_Tag>Radierer</XML_Serializer_Tag>
+<XML_Serializer_Tag>Zeichner</XML_Serializer_Tag>
+</professionOrOccupation>
+<artworks />
+<dbpResource>http://dbpedia.org/resource/Adriaen_van_Ostade</dbpResource>
+<abstract>Adriaen van Ostade (* 10. Dezember 1610 in Haarlem; † 1685 begraben am 2. Mai 1685 in Haarlem; Geburtsname Adriaen Hendricx) war ein niederländischer Maler und Radierer. Isaac van Ostade war sein Bruder und Schüler.</abstract>
+<wikilink>http://en.wikipedia.org/wiki/Adriaen_van_Ostade?oldid=606385399</wikilink>
+</Person>

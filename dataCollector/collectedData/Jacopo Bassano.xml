@@ -1,0 +1,31 @@
+<Person>
+<name>Jacopo Bassano</name>
+<variantName>
+<XML_Serializer_Tag>Giacomo Bassano</XML_Serializer_Tag>
+<XML_Serializer_Tag>Iacopo da Ponte</XML_Serializer_Tag>
+<XML_Serializer_Tag>Jacopo da Ponte</XML_Serializer_Tag>
+<XML_Serializer_Tag>Jacopo Dal Ponte</XML_Serializer_Tag>
+<XML_Serializer_Tag>Iacopo Bassano</XML_Serializer_Tag>
+<XML_Serializer_Tag>Jacopo DalPonte</XML_Serializer_Tag>
+<XML_Serializer_Tag>Jacopo da Ponte</XML_Serializer_Tag>
+<XML_Serializer_Tag>Jacques Bassan</XML_Serializer_Tag>
+</variantName>
+<thumbnail>https://commons.wikimedia.org/wiki/Special:FilePath/Jacopo_da_Ponte_012.jpg?width=270</thumbnail>
+<birthEN>1510</birthEN>
+<birthDE>1510</birthDE>
+<deathEN>February 13, 1592</deathEN>
+<deathDE>13. Februar 1592</deathDE>
+<birthPlace>
+<XML_Serializer_Tag>Bassano del Grappa</XML_Serializer_Tag>
+</birthPlace>
+<deathPlace>
+<XML_Serializer_Tag>Bassano del Grappa</XML_Serializer_Tag>
+</deathPlace>
+<professionOrOccupation>
+<XML_Serializer_Tag>Maler</XML_Serializer_Tag>
+</professionOrOccupation>
+<artworks />
+<dbpResource>http://dbpedia.org/resource/Jacopo_Bassano</dbpResource>
+<abstract>Jacopo da Ponte, genannt Bassano (* 1510 in Bassano del Grappa; † 13. Februar 1592 ebendort) war ein italienischer Maler der Renaissance. Er lebte und arbeitete in der Republik Venedig. Aufgrund seines Geburts- und Sterbeorts, der etwa 65 km von Venedig entfernt ist, wurde ihm der Name Jacopo Bassano zugewiesen.</abstract>
+<wikilink>http://en.wikipedia.org/wiki/Jacopo_Bassano?oldid=602497932</wikilink>
+</Person>

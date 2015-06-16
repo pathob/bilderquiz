@@ -1,0 +1,22 @@
+<Person>
+<name>George Hayter</name>
+<variantName />
+<thumbnail>https://commons.wikimedia.org/wiki/Special:FilePath/Self_portrait_by_Sir_George_Hayter_1843_v3.jpg?width=270</thumbnail>
+<birthEN>December 17, 1792</birthEN>
+<birthDE>17. Dezember 1792</birthDE>
+<deathEN>January 18, 1871</deathEN>
+<deathDE>18. Januar 1871</deathDE>
+<birthPlace>
+<XML_Serializer_Tag>London</XML_Serializer_Tag>
+</birthPlace>
+<deathPlace>
+<XML_Serializer_Tag>London- Saint Marylebone</XML_Serializer_Tag>
+</deathPlace>
+<professionOrOccupation>
+<XML_Serializer_Tag>Maler</XML_Serializer_Tag>
+</professionOrOccupation>
+<artworks />
+<dbpResource>http://dbpedia.org/resource/George_Hayter</dbpResource>
+<abstract>George Hayter (* 17. Dezember 1792 in London; † 18. Januar 1871 ebenda) war ein englischer Maler.</abstract>
+<wikilink>http://en.wikipedia.org/wiki/George_Hayter?oldid=603265682</wikilink>
+</Person>

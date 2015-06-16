@@ -1,0 +1,25 @@
+<Person>
+<name>Sebastian Bieniek</name>
+<variantName />
+<thumbnail>https://commons.wikimedia.org/wiki/Special:FilePath/Der_Riese_der_einem_Handtuch_beim_Trockenen_zusieht.jpg?width=270</thumbnail>
+<birthEN>1975</birthEN>
+<birthDE>1975</birthDE>
+<deathEN />
+<deathDE />
+<birthPlace>
+<XML_Serializer_Tag>Czarnowasy, Polen</XML_Serializer_Tag>
+</birthPlace>
+<deathPlace />
+<professionOrOccupation>
+<XML_Serializer_Tag>Maler</XML_Serializer_Tag>
+<XML_Serializer_Tag>Installationskünstler</XML_Serializer_Tag>
+<XML_Serializer_Tag>Autor</XML_Serializer_Tag>
+<XML_Serializer_Tag>Filmregisseur</XML_Serializer_Tag>
+<XML_Serializer_Tag>Regisseur</XML_Serializer_Tag>
+<XML_Serializer_Tag>Drehbuchautor</XML_Serializer_Tag>
+</professionOrOccupation>
+<artworks />
+<dbpResource>http://dbpedia.org/resource/Sebastian_Bieniek</dbpResource>
+<abstract>Sebastian Bieniek (* 24. April 1975 in Czarnowanz, Polen) ist ein deutscher Regisseur, Künstler, Fotograf und Autor.</abstract>
+<wikilink>http://en.wikipedia.org/wiki/Sebastian_Bieniek?oldid=601314393</wikilink>
+</Person>

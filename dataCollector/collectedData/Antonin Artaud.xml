@@ -1,0 +1,31 @@
+<Person>
+<name>Antonin Artaud</name>
+<variantName>
+<XML_Serializer_Tag>Antoine Marie Joseph Artaud</XML_Serializer_Tag>
+<XML_Serializer_Tag>Antonen Arto</XML_Serializer_Tag>
+<XML_Serializer_Tag>Antoine Marie Joseph Artaud</XML_Serializer_Tag>
+</variantName>
+<thumbnail>https://en.wikipedia.org/wiki/Special:FilePath/Artaud_manray.jpg?width=270</thumbnail>
+<birthEN>September 4, 1896</birthEN>
+<birthDE>4. September 1896</birthDE>
+<deathEN>March 4, 1948</deathEN>
+<deathDE>4. März 1948</deathDE>
+<birthPlace>
+<XML_Serializer_Tag>Marseille</XML_Serializer_Tag>
+</birthPlace>
+<deathPlace>
+<XML_Serializer_Tag>Ivry-sur-Seine</XML_Serializer_Tag>
+</deathPlace>
+<professionOrOccupation>
+<XML_Serializer_Tag>Maler</XML_Serializer_Tag>
+<XML_Serializer_Tag>Schriftsteller</XML_Serializer_Tag>
+<XML_Serializer_Tag>Schauspieler</XML_Serializer_Tag>
+<XML_Serializer_Tag>Theaterschaffender</XML_Serializer_Tag>
+<XML_Serializer_Tag>Dramatiker</XML_Serializer_Tag>
+<XML_Serializer_Tag>Zeichner</XML_Serializer_Tag>
+</professionOrOccupation>
+<artworks />
+<dbpResource>http://dbpedia.org/resource/Antonin_Artaud</dbpResource>
+<abstract>Antonin Artaud (* 4. September 1896 in Marseille; † 4. März 1948 in Ivry-sur-Seine) war ein französischer Schauspieler, Dramatiker, Regisseur, Zeichner, Dichter und Theater-Theoretiker.</abstract>
+<wikilink>http://en.wikipedia.org/wiki/Antonin_Artaud?oldid=606747200</wikilink>
+</Person>

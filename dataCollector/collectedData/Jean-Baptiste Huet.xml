@@ -1,0 +1,22 @@
+<Person>
+<name>Jean-Baptiste Huet</name>
+<variantName>
+<XML_Serializer_Tag>Jean B. Huet</XML_Serializer_Tag>
+</variantName>
+<thumbnail>https://commons.wikimedia.org/wiki/Special:FilePath/Musée_Nissim_de_Camondo_-_Salon_des_Huets.JPG?width=270</thumbnail>
+<birthEN>October 15, 1745</birthEN>
+<birthDE>15. Oktober 1745</birthDE>
+<deathEN>January 27, 1811</deathEN>
+<deathDE>27. Januar 1811</deathDE>
+<birthPlace />
+<deathPlace />
+<professionOrOccupation>
+<XML_Serializer_Tag>Künstler</XML_Serializer_Tag>
+<XML_Serializer_Tag>Radierer</XML_Serializer_Tag>
+<XML_Serializer_Tag>Maler</XML_Serializer_Tag>
+</professionOrOccupation>
+<artworks />
+<dbpResource>http://dbpedia.org/resource/Jean-Baptiste_Huet</dbpResource>
+<abstract>Jean-Baptiste Marie Huet, Schreibweise teilweise Huët, auch Jean-Baptiste Huet I. oder Jean-Baptiste Huet der Ältere, (* 15. Oktober 1745 in Paris; † 27. August 1811 in Paris) war ein französischer Maler, Zeichner und Radierer.</abstract>
+<wikilink>http://en.wikipedia.org/wiki/Jean-Baptiste_Huet?oldid=554502603</wikilink>
+</Person>

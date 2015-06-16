@@ -1,0 +1,26 @@
+<Person>
+<name>Louis Boulanger</name>
+<variantName>
+<XML_Serializer_Tag>L. Boulanger</XML_Serializer_Tag>
+</variantName>
+<thumbnail>https://commons.wikimedia.org/wiki/Special:FilePath/Louis_Boulanger-Six_characters_of_Victor_Hugo_mg_1753.jpg?width=270</thumbnail>
+<birthEN>1806</birthEN>
+<birthDE>1806</birthDE>
+<deathEN>1867</deathEN>
+<deathDE>1867</deathDE>
+<birthPlace>
+<XML_Serializer_Tag>Vercelli</XML_Serializer_Tag>
+</birthPlace>
+<deathPlace>
+<XML_Serializer_Tag>Dijon</XML_Serializer_Tag>
+</deathPlace>
+<professionOrOccupation>
+<XML_Serializer_Tag>Künstler</XML_Serializer_Tag>
+<XML_Serializer_Tag>Maler</XML_Serializer_Tag>
+<XML_Serializer_Tag>Lithograph</XML_Serializer_Tag>
+</professionOrOccupation>
+<artworks />
+<dbpResource>http://dbpedia.org/resource/Louis_Boulanger</dbpResource>
+<abstract>Louis Boulanger (* 11. März 1807 in Vercelli, Piemont; † 7. März 1867 in Dijon) war ein französischer Maler der Romantik. Boulanger, Sohn französischer Eltern, trat im Jahr 1821 in die École des Beaux-Arts ein und war Schüler Guillon-Lethières und Eugène Devérias. Von 1827 bis 1864 stellte er im Salon de Paris aus. Er unternahm in Begleitung von Alexadre Dumas dem Älteren eine Reise nach Tunesien. Im Jahr 1860 wurde er als Direktor an die École des Beaux-Arts in Dijon berufen. Louis Boulanger starb im Jahr 1867 im Alter von 59 Jahren in Dijon.</abstract>
+<wikilink>http://en.wikipedia.org/wiki/Louis_Boulanger?oldid=578385377</wikilink>
+</Person>

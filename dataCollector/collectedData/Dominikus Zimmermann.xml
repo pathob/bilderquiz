@@ -1,0 +1,26 @@
+<Person>
+<name>Dominikus Zimmermann</name>
+<variantName>
+<XML_Serializer_Tag>Dominikus Zimerman</XML_Serializer_Tag>
+</variantName>
+<thumbnail>https://commons.wikimedia.org/wiki/Special:FilePath/Wies_altar.jpg?width=270</thumbnail>
+<birthEN>June 30, 1685</birthEN>
+<birthDE>30. Juni 1685</birthDE>
+<deathEN>November 16, 1766</deathEN>
+<deathDE>16. November 1766</deathDE>
+<birthPlace>
+<XML_Serializer_Tag>Gaispoint</XML_Serializer_Tag>
+</birthPlace>
+<deathPlace>
+<XML_Serializer_Tag>Wies (Steingaden)</XML_Serializer_Tag>
+</deathPlace>
+<professionOrOccupation>
+<XML_Serializer_Tag>Stuckateur</XML_Serializer_Tag>
+<XML_Serializer_Tag>Architekt</XML_Serializer_Tag>
+<XML_Serializer_Tag>Maler</XML_Serializer_Tag>
+</professionOrOccupation>
+<artworks />
+<dbpResource>http://dbpedia.org/resource/Dominikus_Zimmermann</dbpResource>
+<abstract>Dominikus Zimmermann (* 30. Juni 1685 in Gaispoint, heute Wessobrunn; † 16. November 1766 in Wies bei Steingaden) war ein kurbayerischer Stuckateur und Baumeister des Rokoko. Er gilt als einer der bedeutendsten deutschen Rokokobaumeister. Wie sein älterer Bruder Johann Baptist Zimmermann, mit dem er häufig zusammenarbeitete, wird er der Wessobrunner Schule zugerechnet. Dominikus Zimmermanns Hauptwerk, die Wieskirche, zählt zum UNESCO-Welterbe.</abstract>
+<wikilink>http://en.wikipedia.org/wiki/Dominikus_Zimmermann?oldid=578781645</wikilink>
+</Person>

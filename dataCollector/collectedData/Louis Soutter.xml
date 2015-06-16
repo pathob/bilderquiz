@@ -1,0 +1,27 @@
+<Person>
+<name>Louis Soutter</name>
+<variantName>
+<XML_Serializer_Tag>Louis Adolphe Soutter</XML_Serializer_Tag>
+</variantName>
+<thumbnail>https://commons.wikimedia.org/wiki/Special:FilePath/Louis_Soutter_cimetiere_Ballaigues_plaque_commemorative.JPG?width=270</thumbnail>
+<birthEN>June 4, 1871</birthEN>
+<birthDE>4. Juni 1871</birthDE>
+<deathEN>February 20, 1942</deathEN>
+<deathDE>20. Februar 1942</deathDE>
+<birthPlace>
+<XML_Serializer_Tag>Morges</XML_Serializer_Tag>
+</birthPlace>
+<deathPlace>
+<XML_Serializer_Tag>Ballaigues</XML_Serializer_Tag>
+</deathPlace>
+<professionOrOccupation>
+<XML_Serializer_Tag>Maler</XML_Serializer_Tag>
+<XML_Serializer_Tag>Zeichner</XML_Serializer_Tag>
+<XML_Serializer_Tag>Musiker</XML_Serializer_Tag>
+<XML_Serializer_Tag>Geiger</XML_Serializer_Tag>
+</professionOrOccupation>
+<artworks />
+<dbpResource>http://dbpedia.org/resource/Louis_Soutter</dbpResource>
+<abstract>Louis Soutter (* 4. Juni 1871 in Morges; † 20. Februar 1942 in Ballaigues; eigentlich Louis-Adolphe Soutter) war ein Schweizer Maler, Cousin des Architekten Le Corbusier. Er zählt zu den wichtigen Vertretern der Art Brut.</abstract>
+<wikilink>http://en.wikipedia.org/wiki/Louis_Soutter?oldid=583491399</wikilink>
+</Person>

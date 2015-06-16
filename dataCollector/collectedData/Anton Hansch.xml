@@ -1,0 +1,24 @@
+<Person>
+<name>Anton Hansch</name>
+<variantName />
+<thumbnail>https://commons.wikimedia.org/wiki/Special:FilePath/Petersfriedhof_Anton_Hansch.JPG?width=270</thumbnail>
+<birthEN>March 24, 1813</birthEN>
+<birthDE>24. März 1813</birthDE>
+<deathEN>December 8, 1876</deathEN>
+<deathDE>8. Dezember 1876</deathDE>
+<birthPlace>
+<XML_Serializer_Tag>Wien</XML_Serializer_Tag>
+</birthPlace>
+<deathPlace>
+<XML_Serializer_Tag>Salzburg</XML_Serializer_Tag>
+</deathPlace>
+<professionOrOccupation>
+<XML_Serializer_Tag>Künstler</XML_Serializer_Tag>
+<XML_Serializer_Tag>Maler</XML_Serializer_Tag>
+<XML_Serializer_Tag>Landschaftsmaler</XML_Serializer_Tag>
+</professionOrOccupation>
+<artworks />
+<dbpResource>http://dbpedia.org/resource/Anton_Hansch</dbpResource>
+<abstract>Anton Hansch (* 24. März 1813 in Wien; † 8. Dezember 1876 in Salzburg) war ein österreichischer Landschaftsmaler.</abstract>
+<wikilink>http://en.wikipedia.org/wiki/Anton_Hansch?oldid=567075935</wikilink>
+</Person>

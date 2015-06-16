@@ -1,0 +1,32 @@
+<Person>
+<name>Wyndham Lewis</name>
+<variantName>
+<XML_Serializer_Tag>Percy Wyndham Lewis</XML_Serializer_Tag>
+</variantName>
+<thumbnail>https://commons.wikimedia.org/wiki/Special:FilePath/Wyndham_Lewis_photo_by_George_Charles_Beresford_1913.jpg?width=270</thumbnail>
+<birthEN>November 18, 1882</birthEN>
+<birthDE>18. November 1882</birthDE>
+<deathEN>March 7, 1957</deathEN>
+<deathDE>7. März 1957</deathDE>
+<birthPlace>
+<XML_Serializer_Tag>Amherst (Nova Scotia)</XML_Serializer_Tag>
+</birthPlace>
+<deathPlace>
+<XML_Serializer_Tag>London</XML_Serializer_Tag>
+</deathPlace>
+<professionOrOccupation>
+<XML_Serializer_Tag>Schriftsteller</XML_Serializer_Tag>
+<XML_Serializer_Tag>Kritiker</XML_Serializer_Tag>
+<XML_Serializer_Tag>Journalist</XML_Serializer_Tag>
+<XML_Serializer_Tag>Herausgeber</XML_Serializer_Tag>
+<XML_Serializer_Tag>Publizist</XML_Serializer_Tag>
+<XML_Serializer_Tag>Maler</XML_Serializer_Tag>
+<XML_Serializer_Tag>Illustrator</XML_Serializer_Tag>
+<XML_Serializer_Tag>Kunsthandwerker</XML_Serializer_Tag>
+<XML_Serializer_Tag>Zeichner</XML_Serializer_Tag>
+</professionOrOccupation>
+<artworks />
+<dbpResource>http://dbpedia.org/resource/Wyndham_Lewis</dbpResource>
+<abstract>Percy Wyndham Lewis (* 18. November 1882 auf See vor Neuschottland; † 7. März 1957 in London) war ein britischer Schriftsteller und Maler. Wyndham Lewis war Mitbegründer des Vortizismus und Herausgeber der Zeitschrift Blast.</abstract>
+<wikilink>http://en.wikipedia.org/wiki/Wyndham_Lewis?oldid=599859814</wikilink>
+</Person>

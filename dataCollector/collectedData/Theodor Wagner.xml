@@ -1,0 +1,24 @@
+<Person>
+<name>Theodor Wagner</name>
+<variantName>
+<XML_Serializer_Tag>Ludwig Theodor von Wagner</XML_Serializer_Tag>
+<XML_Serializer_Tag>Theodor von Wagner</XML_Serializer_Tag>
+<XML_Serializer_Tag>Theodor Ludwig von Wagner</XML_Serializer_Tag>
+</variantName>
+<thumbnail>https://commons.wikimedia.org/wiki/Special:FilePath/Theodor_Wagner,_Porträt.jpg?width=270</thumbnail>
+<birthEN>1800</birthEN>
+<birthDE>1800</birthDE>
+<deathEN>1880</deathEN>
+<deathDE>1880</deathDE>
+<birthPlace />
+<deathPlace />
+<professionOrOccupation>
+<XML_Serializer_Tag>Künstler</XML_Serializer_Tag>
+<XML_Serializer_Tag>Maler</XML_Serializer_Tag>
+<XML_Serializer_Tag>Bildhauer</XML_Serializer_Tag>
+</professionOrOccupation>
+<artworks />
+<dbpResource>http://dbpedia.org/resource/Theodor_Wagner</dbpResource>
+<abstract>Theodor „Turl“ Wagner (* 6. August 1927) ist ein ehemaliger österreichischer Fußballspieler. Der Stürmer konnte mit seinem Verein SC Wacker Wien 1947 Meisterschaft und Pokal gewinnen und mit der österreichischen Nationalmannschaft bei der Weltmeisterschaft 1954 den 3. Platz erreichen. Seinen großen Auftritt hatte er dort im Viertelfinale gegen den Gastgeber, in dem er drei Tore für Österreich erzielte.</abstract>
+<wikilink>http://en.wikipedia.org/wiki/Theodor_Wagner?oldid=595303242</wikilink>
+</Person>

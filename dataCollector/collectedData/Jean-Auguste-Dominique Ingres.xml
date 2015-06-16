@@ -1,0 +1,236 @@
+<Person>
+<name>Jean-Auguste-Dominique Ingres</name>
+<variantName>
+<XML_Serializer_Tag>Jean Auguste Dominique Ingres</XML_Serializer_Tag>
+<XML_Serializer_Tag>Jean-Auguste Dominique Ingres</XML_Serializer_Tag>
+<XML_Serializer_Tag>Jean August Dominique Ingres</XML_Serializer_Tag>
+<XML_Serializer_Tag>Jean-Auguste D. Ingres</XML_Serializer_Tag>
+<XML_Serializer_Tag>Jean Auguste D. Ingres</XML_Serializer_Tag>
+<XML_Serializer_Tag>J.-A.-D. Ingres</XML_Serializer_Tag>
+<XML_Serializer_Tag>J. A. D. Ingres</XML_Serializer_Tag>
+<XML_Serializer_Tag>I. A. D. Ingres</XML_Serializer_Tag>
+<XML_Serializer_Tag>... Ingres</XML_Serializer_Tag>
+<XML_Serializer_Tag>Jean-Dominique Ingres</XML_Serializer_Tag>
+<XML_Serializer_Tag>Jean Dominique Ingres</XML_Serializer_Tag>
+<XML_Serializer_Tag>J.-D. Ingres</XML_Serializer_Tag>
+<XML_Serializer_Tag>Jean A. Ingres</XML_Serializer_Tag>
+<XML_Serializer_Tag>Jean Ingres</XML_Serializer_Tag>
+<XML_Serializer_Tag>Dominique Ingres</XML_Serializer_Tag>
+<XML_Serializer_Tag>Žan-Ogjust-Dominik Ėngr</XML_Serializer_Tag>
+<XML_Serializer_Tag>Žan Ogjust Dominik Ėngr</XML_Serializer_Tag>
+</variantName>
+<thumbnail>https://commons.wikimedia.org/wiki/Special:FilePath/Ingres,_Self-portrait.jpg?width=270</thumbnail>
+<birthEN>August 29, 1780</birthEN>
+<birthDE>29. August 1780</birthDE>
+<deathEN>January 14, 1867</deathEN>
+<deathDE>14. Januar 1867</deathDE>
+<birthPlace>
+<XML_Serializer_Tag>Montauban</XML_Serializer_Tag>
+</birthPlace>
+<deathPlace>
+<XML_Serializer_Tag>Paris</XML_Serializer_Tag>
+</deathPlace>
+<professionOrOccupation>
+<XML_Serializer_Tag>Künstler</XML_Serializer_Tag>
+<XML_Serializer_Tag>Maler</XML_Serializer_Tag>
+<XML_Serializer_Tag>Zeichner</XML_Serializer_Tag>
+<XML_Serializer_Tag>Graphiker</XML_Serializer_Tag>
+</professionOrOccupation>
+<artworks>
+<XML_Serializer_Tag>
+<painting>
+<type>uri</type>
+<value>http://dbpedia.org/resource/The_Source_(Ingres)</value>
+</painting>
+<thumbnail>
+<type>uri</type>
+<value>http://commons.wikimedia.org/wiki/Special:FilePath/Jean_Auguste_Dominique_Ingres_-_The_Spring_-_Google_Art_Project_2.jpg?width=300</value>
+</thumbnail>
+<name>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>The Source</value>
+</name>
+<year>
+<type>typed-literal</type>
+<datatype>http://www.w3.org/2001/XMLSchema#integer</datatype>
+<value>1856</value>
+</year>
+<abstract>
+<type>literal</type>
+<xml:lang>de</xml:lang>
+<value>Die Quelle (Original frz.: La source) ist der Titel eines Gemäldes von Jean-Auguste-Dominique Ingres. Es gehört zum Bestand des Musée d’Orsay in Paris und befindet sich dort im Erdgeschoss an der rechten Wand des Mittelgangs.</value>
+</abstract>
+<wikilink>
+<type>uri</type>
+<value>http://en.wikipedia.org/wiki/The_Source_(Ingres)?oldid=590867550</value>
+</wikilink>
+</XML_Serializer_Tag>
+<XML_Serializer_Tag>
+<painting>
+<type>uri</type>
+<value>http://dbpedia.org/resource/Bonaparte,_First_Consul</value>
+</painting>
+<thumbnail>
+<type>uri</type>
+<value>http://commons.wikimedia.org/wiki/Special:FilePath/Jean_Auguste_Dominique_Ingres,_Portrait_de_Napoléon_Bonaparte_en_premier_consul.jpg?width=300</value>
+</thumbnail>
+<name>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>Bonaparte, First Consul</value>
+</name>
+<year>
+<type>typed-literal</type>
+<datatype>http://www.w3.org/2001/XMLSchema#integer</datatype>
+<value>1804</value>
+</year>
+<wikilink>
+<type>uri</type>
+<value>http://en.wikipedia.org/wiki/Bonaparte,_First_Consul?oldid=571846496</value>
+</wikilink>
+</XML_Serializer_Tag>
+<XML_Serializer_Tag>
+<painting>
+<type>uri</type>
+<value>http://dbpedia.org/resource/The_Valpin%C3%A7on_Bather</value>
+</painting>
+<thumbnail>
+<type>uri</type>
+<value>http://commons.wikimedia.org/wiki/Special:FilePath/Ingres_-_Die_Badende_von_Valpincon.jpeg?width=300</value>
+</thumbnail>
+<name>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>The Valpinçon Bather</value>
+</name>
+<year>
+<type>typed-literal</type>
+<datatype>http://www.w3.org/2001/XMLSchema#integer</datatype>
+<value>1808</value>
+</year>
+<wikilink>
+<type>uri</type>
+<value>http://en.wikipedia.org/wiki/The_Valpinçon_Bather?oldid=588084020</value>
+</wikilink>
+</XML_Serializer_Tag>
+<XML_Serializer_Tag>
+<painting>
+<type>uri</type>
+<value>http://dbpedia.org/resource/Grande_Odalisque</value>
+</painting>
+<thumbnail>
+<type>uri</type>
+<value>http://commons.wikimedia.org/wiki/Special:FilePath/Jean_Auguste_Dominique_Ingres,_La_Grande_Odalisque,_1814.jpg?width=300</value>
+</thumbnail>
+<name>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>Grande Odalisque</value>
+</name>
+<year>
+<type>typed-literal</type>
+<datatype>http://www.w3.org/2001/XMLSchema#integer</datatype>
+<value>1814</value>
+</year>
+<wikilink>
+<type>uri</type>
+<value>http://en.wikipedia.org/wiki/Grande_Odalisque?oldid=601800004</value>
+</wikilink>
+</XML_Serializer_Tag>
+<XML_Serializer_Tag>
+<painting>
+<type>uri</type>
+<value>http://dbpedia.org/resource/Madame_Moitessier</value>
+</painting>
+<thumbnail>
+<type>uri</type>
+<value>http://commons.wikimedia.org/wiki/Special:FilePath/Dominique_Ingres_-_Mme_Moitessier.jpg?width=300</value>
+</thumbnail>
+<name>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>Madame Moitessier</value>
+</name>
+<year>
+<type>typed-literal</type>
+<datatype>http://www.w3.org/2001/XMLSchema#integer</datatype>
+<value>1856</value>
+</year>
+<wikilink>
+<type>uri</type>
+<value>http://en.wikipedia.org/wiki/Madame_Moitessier?oldid=594140481</value>
+</wikilink>
+</XML_Serializer_Tag>
+<XML_Serializer_Tag>
+<painting>
+<type>uri</type>
+<value>http://dbpedia.org/resource/The_Apotheosis_of_Homer_(Ingres)</value>
+</painting>
+<thumbnail>
+<type>uri</type>
+<value>http://commons.wikimedia.org/wiki/Special:FilePath/Jean_Auguste_Dominique_Ingres,_Apotheosis_of_Homer,_1827.jpg?width=300</value>
+</thumbnail>
+<name>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>The Apotheosis of Homer</value>
+</name>
+<year>
+<type>typed-literal</type>
+<datatype>http://www.w3.org/2001/XMLSchema#integer</datatype>
+<value>1827</value>
+</year>
+<wikilink>
+<type>uri</type>
+<value>http://en.wikipedia.org/wiki/The_Apotheosis_of_Homer_(Ingres)?oldid=587997994</value>
+</wikilink>
+</XML_Serializer_Tag>
+<XML_Serializer_Tag>
+<painting>
+<type>uri</type>
+<value>http://dbpedia.org/resource/The_Turkish_Bath</value>
+</painting>
+<thumbnail>
+<type>uri</type>
+<value>http://commons.wikimedia.org/wiki/Special:FilePath/Le_Bain_Turc,_by_Jean_Auguste_Dominique_Ingres,_from_C2RMF_edit.jpg?width=300</value>
+</thumbnail>
+<name>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>The Turkish Bath</value>
+</name>
+<year>
+<type>typed-literal</type>
+<datatype>http://www.w3.org/2001/XMLSchema#integer</datatype>
+<value>1862</value>
+</year>
+<wikilink>
+<type>uri</type>
+<value>http://en.wikipedia.org/wiki/The_Turkish_Bath?oldid=595399114</value>
+</wikilink>
+</XML_Serializer_Tag>
+<XML_Serializer_Tag>
+<painting>
+<type>uri</type>
+<value>http://dbpedia.org/resource/Odalisque_with_Slave</value>
+</painting>
+<thumbnail>
+<type>uri</type>
+<value>http://commons.wikimedia.org/wiki/Special:FilePath/Jean-Paul_Flandrin_-_Odalisque_with_Slave_-_Walters_37887.jpg?width=300</value>
+</thumbnail>
+<name>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>Odalisque with a Slave</value>
+</name>
+<wikilink>
+<type>uri</type>
+<value>http://en.wikipedia.org/wiki/Odalisque_with_Slave?oldid=590824549</value>
+</wikilink>
+</XML_Serializer_Tag>
+</artworks>
+<dbpResource>http://dbpedia.org/resource/Jean-Auguste-Dominique_Ingres</dbpResource>
+<abstract>Jean-Auguste-Dominique Ingres [ɛ̃ːgʀ] (* 29. August 1780 in Montauban; † 14. Januar 1867 in Paris) war ein französischer Maler und einer der bedeutendsten Vertreter der offiziellen Kunst im Frankreich des 19. Jahrhunderts. Ingres lernte bei Jacques-Louis David und an der École des Beaux-Arts in Paris. Er gewann 1801 mit dem Gemälde Achill empfängt die Bittgesandschaft des Agamemnon den angesehenen Prix de Rome, konnte aber in der Folge nicht an diesen Erfolg anknüpfen. 1806 trat er das mit dem Preis verbundene Rom-Stipendium an und blieb auch nach dessen Ende in Italien. Seine Werke aus dieser Zeit stießen oftmals auf harte Kritik. Erst 1824 kehrte Ingres infolge seines Erfolges beim Salon de Paris nach Frankreich zurück und wurde zum anerkannten Künstler seiner Zeit. 1825 verlieh ihm der König das Kreuz der Ehrenlegion, 1829 wurde er zum Professor an der Ecole des Beaux-Arts berufen. Nach einem Misserfolg im Salon des Jahres 1834 beschloss Ingres, in Zukunft nicht mehr dort auszustellen, und kehrte 1835 als Direktor der Académie de France à Rome nach Rom zurück. Nach dem Ende seiner dortigen Amtszeit kehrte er 1841 zurück und setzte seine Lehrtätigkeit an der École des Beaux-Arts fort, zehn Jahre später erhielt er dort den Posten eines Direktors. In den letzten Jahren seines Lebens legte Ingres besonderen Wert auf sein künstlerisches Gesamtwerk und die Festigung seines Ruhmes. Er begann 1851 damit, in seiner Heimatstadt mit Schenkungen das ihm gewidmete Musée Ingres zu begründen, dem er auch im Nachlass viele Gemälde und Zeichnungen von sich und mit Verbindung zu ihm hinterließ.Ingres war ein Vertreter des Klassizismus und stand vor allem mit Eugène Delacroix als Maler der französischen Romantik in starker Konkurrenz. In der Gegenposition zu der von Delacroix vertretenen Malweise wurde Ingres als Bewahrer der Tradition gefeiert. Seine Werke wiesen jedoch auch Vorgriffe auf die Moderne auf. So ordnete er oftmals die Wirklichkeitsdarstellung seiner eigenen Vorstellung unter, was oftmals zu perspektivischen Ungenauigkeiten und anatomisch unmöglichen Darstellungen führte. Diese subjektiven Einflüsse in das Werk wurden Ingres von der Kritik als Unvermögen ausgelegt. Ingres fertigte Historiengemälde, Porträts und Akte an, für die er meist eine Vielzahl von Vorzeichnungen anfertigte. Darüber hinaus gibt es noch eigenständige Zeichnungen. Er selbst betrachtete seine Historien als wichtigste Gruppe in seinem Werk, der er sich vor allem in seinen Anfangsjahren aufgrund der Notwendigkeit, den Lebensunterhalt zu verdienen, nicht so stark widmen konnte, wie er wollte. Daneben war er ein gefragter Porträtmaler, der viele bedeutende Persönlichkeiten seiner Zeit malte. Zu seinen wichtigsten und bekanntesten Werken gehören Das türkische Bad, Die große Badende, Napoleon I. auf seinem kaiserlichen Thron, Die Apotheose Homers und Antiochus und Stratonike. Jean-Auguste-Dominique Ingres übte einen großen Einfluss auf die Künstler seiner Zeit und nachfolgende Künstlergenerationen aus. Seine Werke wurden unter anderem von Pablo Picasso, Pierre-Auguste Renoir und Cindy Sherman rezipiert.</abstract>
+<wikilink>http://en.wikipedia.org/wiki/Jean-Auguste-Dominique_Ingres?oldid=606096231</wikilink>
+</Person>

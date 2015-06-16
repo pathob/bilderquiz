@@ -1,0 +1,23 @@
+<Person>
+<name>Adolf Rettelbusch</name>
+<variantName />
+<thumbnail>https://commons.wikimedia.org/wiki/Special:FilePath/Rettelbusch_selbstbildnis.jpg?width=270</thumbnail>
+<birthEN>December 15, 1858</birthEN>
+<birthDE>15. Dezember 1858</birthDE>
+<deathEN>January 15, 1934</deathEN>
+<deathDE>15. Januar 1934</deathDE>
+<birthPlace>
+<XML_Serializer_Tag>Kammerforst (Unstrut-Hainich-Kreis)</XML_Serializer_Tag>
+</birthPlace>
+<deathPlace>
+<XML_Serializer_Tag>Magdeburg</XML_Serializer_Tag>
+</deathPlace>
+<professionOrOccupation>
+<XML_Serializer_Tag>Künstler</XML_Serializer_Tag>
+<XML_Serializer_Tag>Maler</XML_Serializer_Tag>
+</professionOrOccupation>
+<artworks />
+<dbpResource>http://dbpedia.org/resource/Adolf_Rettelbusch</dbpResource>
+<abstract>Johann Adolf Rettelbusch (* 15. Dezember 1858 in Kammerforst; † 8. Januar 1934 in Magdeburg) war Maler und trägt den Beinamen Brockenmaler.</abstract>
+<wikilink>http://en.wikipedia.org/wiki/Adolf_Rettelbusch?oldid=604294802</wikilink>
+</Person>

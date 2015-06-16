@@ -1,0 +1,27 @@
+<Person>
+<name>Jean Barbault</name>
+<variantName>
+<XML_Serializer_Tag>... Barbault</XML_Serializer_Tag>
+<XML_Serializer_Tag>Barbault, Peintre</XML_Serializer_Tag>
+</variantName>
+<thumbnail>https://commons.wikimedia.org/wiki/Special:FilePath/Barbault,_Jean_-_Prêtre_de_la_Loi_-_1748.jpg?width=270</thumbnail>
+<birthEN>August 8, 1718</birthEN>
+<birthDE>8. August 1718</birthDE>
+<deathEN>May 28, 1762</deathEN>
+<deathDE>28. Mai 1762</deathDE>
+<birthPlace>
+<XML_Serializer_Tag>Viarmes</XML_Serializer_Tag>
+</birthPlace>
+<deathPlace>
+<XML_Serializer_Tag>Rom</XML_Serializer_Tag>
+</deathPlace>
+<professionOrOccupation>
+<XML_Serializer_Tag>Künstler</XML_Serializer_Tag>
+<XML_Serializer_Tag>Maler</XML_Serializer_Tag>
+<XML_Serializer_Tag>Graphiker</XML_Serializer_Tag>
+</professionOrOccupation>
+<artworks />
+<dbpResource>http://dbpedia.org/resource/Jean_Barbault</dbpResource>
+<abstract>Jean Barbault (* 1. August 1718 in Viames; † 5. Mai 1762 in Rom) war ein französischer Maler und Graphiker.</abstract>
+<wikilink>http://en.wikipedia.org/wiki/Jean_Barbault?oldid=556339206</wikilink>
+</Person>

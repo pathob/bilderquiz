@@ -1,0 +1,32 @@
+<Person>
+<name>Franzobel</name>
+<variantName>
+<XML_Serializer_Tag>Franz Zobl</XML_Serializer_Tag>
+<XML_Serializer_Tag>Franz Zobel</XML_Serializer_Tag>
+<XML_Serializer_Tag>Franzobel Franzobel</XML_Serializer_Tag>
+<XML_Serializer_Tag>Narf le Boz</XML_Serializer_Tag>
+<XML_Serializer_Tag>Narf Le Boz</XML_Serializer_Tag>
+<XML_Serializer_Tag>Narv Le Boz</XML_Serializer_Tag>
+<XML_Serializer_Tag>Narv le Boz</XML_Serializer_Tag>
+<XML_Serializer_Tag>Stefan Griebl</XML_Serializer_Tag>
+<XML_Serializer_Tag>Franz Stefan Griebl</XML_Serializer_Tag>
+<XML_Serializer_Tag>Franz Obel</XML_Serializer_Tag>
+</variantName>
+<thumbnail>https://commons.wikimedia.org/wiki/Special:FilePath/Franzobel_auf_dem_Blauen_Sofa.jpg?width=270</thumbnail>
+<birthEN>1967</birthEN>
+<birthDE>1967</birthDE>
+<deathEN />
+<deathDE />
+<birthPlace>
+<XML_Serializer_Tag>Vöcklabruck, Oberösterreich</XML_Serializer_Tag>
+</birthPlace>
+<deathPlace />
+<professionOrOccupation>
+<XML_Serializer_Tag>Schriftsteller</XML_Serializer_Tag>
+<XML_Serializer_Tag>Maler</XML_Serializer_Tag>
+</professionOrOccupation>
+<artworks />
+<dbpResource>http://dbpedia.org/resource/Franzobel</dbpResource>
+<abstract>Franzobel (* 1. März 1967 in Vöcklabruck, Oberösterreich; eigentlich Franz Stefan Griebl) ist ein österreichischer Schriftsteller.</abstract>
+<wikilink>http://en.wikipedia.org/wiki/Franzobel?oldid=591331892</wikilink>
+</Person>

@@ -1,0 +1,27 @@
+<Person>
+<name>Hans Thoma</name>
+<variantName>
+<XML_Serializer_Tag>... Thoma</XML_Serializer_Tag>
+<XML_Serializer_Tag>H. Thoma</XML_Serializer_Tag>
+</variantName>
+<thumbnail>https://commons.wikimedia.org/wiki/Special:FilePath/Hans_Thoma_-_Selbstbildnis_vor_Birkenwald_%281899%29.jpg?width=270</thumbnail>
+<birthEN>October 2, 1839</birthEN>
+<birthDE>2. Oktober 1839</birthDE>
+<deathEN>November 7, 1924</deathEN>
+<deathDE>7. November 1924</deathDE>
+<birthPlace>
+<XML_Serializer_Tag>Bernau &lt;Baden&gt;</XML_Serializer_Tag>
+</birthPlace>
+<deathPlace>
+<XML_Serializer_Tag>Karlsruhe</XML_Serializer_Tag>
+</deathPlace>
+<professionOrOccupation>
+<XML_Serializer_Tag>Maler</XML_Serializer_Tag>
+<XML_Serializer_Tag>Schriftsteller</XML_Serializer_Tag>
+<XML_Serializer_Tag>Theologe</XML_Serializer_Tag>
+</professionOrOccupation>
+<artworks />
+<dbpResource>http://dbpedia.org/resource/Hans_Thoma</dbpResource>
+<abstract>Hans Thoma (* 2. Oktober 1839 in Oberlehen, Bernau im Schwarzwald, heute Landkreis Waldshut; † 7. November 1924 in Karlsruhe) war ein deutscher Maler und Graphiker.</abstract>
+<wikilink>http://en.wikipedia.org/wiki/Hans_Thoma?oldid=572196473</wikilink>
+</Person>

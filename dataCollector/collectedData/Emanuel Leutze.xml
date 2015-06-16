@@ -1,0 +1,101 @@
+<Person>
+<name>Emanuel Leutze</name>
+<variantName>
+<XML_Serializer_Tag>Emmanuel Leutze</XML_Serializer_Tag>
+<XML_Serializer_Tag>Emanuel Gottlieb Leutze</XML_Serializer_Tag>
+</variantName>
+<thumbnail>https://commons.wikimedia.org/wiki/Special:FilePath/Emanuel_Leutze.jpg?width=270</thumbnail>
+<birthEN>1816</birthEN>
+<birthDE>1816</birthDE>
+<deathEN>1868</deathEN>
+<deathDE>1868</deathDE>
+<birthPlace />
+<deathPlace />
+<professionOrOccupation>
+<XML_Serializer_Tag>Künstler</XML_Serializer_Tag>
+<XML_Serializer_Tag>Maler</XML_Serializer_Tag>
+<XML_Serializer_Tag>Historienmaler</XML_Serializer_Tag>
+</professionOrOccupation>
+<artworks>
+<XML_Serializer_Tag>
+<painting>
+<type>uri</type>
+<value>http://dbpedia.org/resource/Washington_Crossing_the_Delaware</value>
+</painting>
+<thumbnail>
+<type>uri</type>
+<value>http://commons.wikimedia.org/wiki/Special:FilePath/Washington_Crossing_the_Delaware_by_Emanuel_Leutze,_MMA-NYC,_1851.jpg?width=300</value>
+</thumbnail>
+<name>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>Washington Crossing the Delaware</value>
+</name>
+<year>
+<type>typed-literal</type>
+<datatype>http://www.w3.org/2001/XMLSchema#integer</datatype>
+<value>1851</value>
+</year>
+<abstract>
+<type>literal</type>
+<xml:lang>de</xml:lang>
+<value>Washington Crossing the Delaware (dt. Washington überquert den Delaware) ist ein Ölgemälde des deutsch-US-amerikanischen Historienmalers Emanuel Leutze aus dem Jahr 1851. Es zeigt General George Washingtons Überquerung des Flusses Delaware in der Nacht vom 25. auf den 26. Dezember 1776 während des Amerikanischen Unabhängigkeitskrieges. Dieses Ereignis war die erste Truppenbewegung in Form eines Überraschungsangriffs gegen die Hessischen Einheiten in der Schlacht von Trenton, New Jersey.Das Originalbild war Teil der Sammlung der Kunsthalle Bremen. Es wurde bei britischen Luftangriffen im Jahr 1942 zerstört. Schon zuvor war es am 5. November 1850 bei einem Brand in der Wohnung unter Leutzes Atelier angesengt worden; Leutze hatte das Bild jedoch versichert und konnte es restaurieren.Leutze hatte eine zweite Version des Gemäldes gemalt, die er im Sommer 1851 fertigstellte. Im September 1851 wird das Bild im Stuyvesant Institute in New York ausgestellt, wo es begeistert aufgenommen wird. Vorlage:&quot;, sagte der New Yorker Sammler und Präsident der American Art-Union, Abraham M. Cozzens, bei einem Bankett zu Ehren Leutzes. Zunächst erwarb der New Yorker Schiffsbaumagnat Marshall O. Roberts das Gemälde für 10.000 Dollar. Seit 1897 ist es im Metropolitan Museum of Art in New York City zu sehen. Vom Bild selbst existieren viele Kopien, von denen eine im Weißen Haus in Washington, D.C. ausgestellt ist.</value>
+</abstract>
+<wikilink>
+<type>uri</type>
+<value>http://en.wikipedia.org/wiki/Washington_Crossing_the_Delaware?oldid=605465989</value>
+</wikilink>
+</XML_Serializer_Tag>
+<XML_Serializer_Tag>
+<painting>
+<type>uri</type>
+<value>http://dbpedia.org/resource/Westward_the_Course_of_Empire_Takes_Its_Way</value>
+</painting>
+<thumbnail>
+<type>uri</type>
+<value>http://commons.wikimedia.org/wiki/Special:FilePath/Emanuel_Leutze_-_Westward_the_Course_of_Empire_Takes_Its_Way_-_Capitol.jpg?width=300</value>
+</thumbnail>
+<name>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>Westward the Course of Empire Takes Its Way</value>
+</name>
+<year>
+<type>typed-literal</type>
+<datatype>http://www.w3.org/2001/XMLSchema#integer</datatype>
+<value>1861</value>
+</year>
+<wikilink>
+<type>uri</type>
+<value>http://en.wikipedia.org/wiki/Westward_the_Course_of_Empire_Takes_Its_Way?oldid=591067462</value>
+</wikilink>
+</XML_Serializer_Tag>
+<XML_Serializer_Tag>
+<painting>
+<type>uri</type>
+<value>http://dbpedia.org/resource/Westward_the_Course_of_Empire_Takes_Its_Way</value>
+</painting>
+<thumbnail>
+<type>uri</type>
+<value>http://commons.wikimedia.org/wiki/Special:FilePath/Emanuel_Leutze_-_Westward_the_Course_of_Empire_Takes_Its_Way_-_Capitol.jpg?width=300</value>
+</thumbnail>
+<name>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>Westward the Course of Empire Takes Its Way (study)</value>
+</name>
+<year>
+<type>typed-literal</type>
+<datatype>http://www.w3.org/2001/XMLSchema#integer</datatype>
+<value>1861</value>
+</year>
+<wikilink>
+<type>uri</type>
+<value>http://en.wikipedia.org/wiki/Westward_the_Course_of_Empire_Takes_Its_Way?oldid=591067462</value>
+</wikilink>
+</XML_Serializer_Tag>
+</artworks>
+<dbpResource>http://dbpedia.org/resource/Emanuel_Leutze</dbpResource>
+<abstract>Emanuel Gottlieb Leutze (* 24. Mai 1816 in Gmünd (heute Schwäbisch Gmünd); † 18. Juli 1868 in Washington, D.C.) war ein in Deutschland geborener amerikanischer Historienmaler.</abstract>
+<wikilink>http://en.wikipedia.org/wiki/Emanuel_Leutze?oldid=603644331</wikilink>
+</Person>

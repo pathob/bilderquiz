@@ -1,0 +1,30 @@
+<Person>
+<name>Hans Canon</name>
+<variantName>
+<XML_Serializer_Tag>Johann von Strašiřipka</XML_Serializer_Tag>
+<XML_Serializer_Tag>Johann von Straschiripka</XML_Serializer_Tag>
+<XML_Serializer_Tag>Hans Purschka-Straschiripka</XML_Serializer_Tag>
+<XML_Serializer_Tag>Hans Purschka-Straschiripka</XML_Serializer_Tag>
+<XML_Serializer_Tag>Hans Purschka Straschiripka</XML_Serializer_Tag>
+<XML_Serializer_Tag>Hans Straširybka</XML_Serializer_Tag>
+<XML_Serializer_Tag>Hans von Straširybka</XML_Serializer_Tag>
+</variantName>
+<thumbnail>https://de.wikipedia.org/wiki/Special:FilePath/Hans_Canon.jpg?width=270</thumbnail>
+<birthEN>March 13, 1829</birthEN>
+<birthDE>13. März 1829</birthDE>
+<deathEN>September 12, 1885</deathEN>
+<deathDE>12. September 1885</deathDE>
+<birthPlace>
+<XML_Serializer_Tag>Wien</XML_Serializer_Tag>
+</birthPlace>
+<deathPlace>
+<XML_Serializer_Tag>Wien</XML_Serializer_Tag>
+</deathPlace>
+<professionOrOccupation>
+<XML_Serializer_Tag>Maler</XML_Serializer_Tag>
+</professionOrOccupation>
+<artworks />
+<dbpResource>http://dbpedia.org/resource/Hans_Canon</dbpResource>
+<abstract>Hans Canon (* 15. März 1829 in Wien; † 12. September 1885 ebenda; eigentlich Johann Strašiřipka) war ein österreichischer Maler.</abstract>
+<wikilink>http://en.wikipedia.org/wiki/Hans_Canon?oldid=567467293</wikilink>
+</Person>

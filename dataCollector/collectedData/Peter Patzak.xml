@@ -1,0 +1,26 @@
+<Person>
+<name>Peter Patzak</name>
+<variantName />
+<thumbnail>https://commons.wikimedia.org/wiki/Special:FilePath/Peter_Patzak_Wien_2012.jpg?width=270</thumbnail>
+<birthEN>1945</birthEN>
+<birthDE>1945</birthDE>
+<deathEN />
+<deathDE />
+<birthPlace>
+<XML_Serializer_Tag>Wien</XML_Serializer_Tag>
+</birthPlace>
+<deathPlace />
+<professionOrOccupation>
+<XML_Serializer_Tag>Künstler</XML_Serializer_Tag>
+<XML_Serializer_Tag>Maler</XML_Serializer_Tag>
+<XML_Serializer_Tag>Sprecher</XML_Serializer_Tag>
+<XML_Serializer_Tag>Regisseur</XML_Serializer_Tag>
+<XML_Serializer_Tag>Drehbuchautor</XML_Serializer_Tag>
+<XML_Serializer_Tag>Musiker</XML_Serializer_Tag>
+<XML_Serializer_Tag>Schauspieler</XML_Serializer_Tag>
+</professionOrOccupation>
+<artworks />
+<dbpResource>http://dbpedia.org/resource/Peter_Patzak</dbpResource>
+<abstract>Peter Patzak (* 2. Jänner 1945 in Wien) ist ein österreichischer Filmregisseur. Er studierte Kunstgeschichte, Psychologie und Malerei und wandte sich dann dem Film zu.Patzak ist der Sohn eines Polizisten im Rang eines Majors, wie er anlässlich der Präsentation des Kinofilms Kottan ermittelt: Rien ne va plus im Wiener Gartenbaukino gegenüber den Seitenblicken erzählt hat.</abstract>
+<wikilink>http://en.wikipedia.org/wiki/Peter_Patzak?oldid=578989420</wikilink>
+</Person>

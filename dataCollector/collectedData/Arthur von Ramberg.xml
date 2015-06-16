@@ -1,0 +1,28 @@
+<Person>
+<name>Arthur von Ramberg</name>
+<variantName>
+<XML_Serializer_Tag>A. von Ramberg</XML_Serializer_Tag>
+<XML_Serializer_Tag>Arthur Georg von Ramberg</XML_Serializer_Tag>
+</variantName>
+<thumbnail>https://commons.wikimedia.org/wiki/Special:FilePath/Arthur_von_Ramberg_-_Maler.jpg?width=270</thumbnail>
+<birthEN>September 4, 1819</birthEN>
+<birthDE>4. September 1819</birthDE>
+<deathEN>February 5, 1875</deathEN>
+<deathDE>5. Februar 1875</deathDE>
+<birthPlace>
+<XML_Serializer_Tag>Wien</XML_Serializer_Tag>
+</birthPlace>
+<deathPlace>
+<XML_Serializer_Tag>München</XML_Serializer_Tag>
+</deathPlace>
+<professionOrOccupation>
+<XML_Serializer_Tag>Künstler</XML_Serializer_Tag>
+<XML_Serializer_Tag>Maler</XML_Serializer_Tag>
+<XML_Serializer_Tag>Lithograph</XML_Serializer_Tag>
+<XML_Serializer_Tag>Zeichner</XML_Serializer_Tag>
+</professionOrOccupation>
+<artworks />
+<dbpResource>http://dbpedia.org/resource/Arthur_von_Ramberg</dbpResource>
+<abstract>Arthur Georg Ramberg (* 4. September 1819 in Wien; † 5. Februar 1875 in München), ab 1849 Freiherr von Ramberg, war ein österreichischer Maler und Zeichner.</abstract>
+<wikilink>http://en.wikipedia.org/wiki/Arthur_von_Ramberg?oldid=565304985</wikilink>
+</Person>

@@ -1,0 +1,35 @@
+<Person>
+<name>Hans Weigel</name>
+<variantName>
+<XML_Serializer_Tag>Johann Weigel</XML_Serializer_Tag>
+<XML_Serializer_Tag>Johann Weigelius</XML_Serializer_Tag>
+<XML_Serializer_Tag>Johannes Weigelius</XML_Serializer_Tag>
+<XML_Serializer_Tag>Hans Weygel</XML_Serializer_Tag>
+<XML_Serializer_Tag>Hans Weigel</XML_Serializer_Tag>
+<XML_Serializer_Tag>Hans der Ältere Weigel</XML_Serializer_Tag>
+<XML_Serializer_Tag>Hans d. Ä. Weigel</XML_Serializer_Tag>
+</variantName>
+<thumbnail>https://commons.wikimedia.org/wiki/Special:FilePath/Hans_Weigel-Das_Wundertier.jpg?width=270</thumbnail>
+<birthEN>1520</birthEN>
+<birthDE>1520</birthDE>
+<deathEN>1577</deathEN>
+<deathDE>1577</deathDE>
+<birthPlace>
+<XML_Serializer_Tag>Augsburg</XML_Serializer_Tag>
+</birthPlace>
+<deathPlace>
+<XML_Serializer_Tag>Nürnberg</XML_Serializer_Tag>
+</deathPlace>
+<professionOrOccupation>
+<XML_Serializer_Tag>Künstler</XML_Serializer_Tag>
+<XML_Serializer_Tag>Kunsthandwerker</XML_Serializer_Tag>
+<XML_Serializer_Tag>Maler</XML_Serializer_Tag>
+<XML_Serializer_Tag>Formschneider</XML_Serializer_Tag>
+<XML_Serializer_Tag>Drucker</XML_Serializer_Tag>
+<XML_Serializer_Tag>Verleger</XML_Serializer_Tag>
+</professionOrOccupation>
+<artworks />
+<dbpResource>http://dbpedia.org/resource/Hans_Weigel</dbpResource>
+<abstract>Julius Hans Weigel (* 29. Mai 1908 in Wien; † 12. August 1991 in Maria Enzersdorf) war ein freier Schriftsteller und bis 1962 auch Theaterkritiker. Er lebte in Wien, ausgenommen von 1938 bis 1945, als er im Exil in der Schweiz überlebte.</abstract>
+<wikilink>http://en.wikipedia.org/wiki/Hans_Weigel?oldid=542884709</wikilink>
+</Person>

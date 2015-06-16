@@ -1,0 +1,28 @@
+<Person>
+<name>K. R. H. Sonderborg</name>
+<variantName>
+<XML_Serializer_Tag>Kurt Rudolf Hoffmann Sonderborg</XML_Serializer_Tag>
+<XML_Serializer_Tag>Kurt R. H. Sonderborg</XML_Serializer_Tag>
+<XML_Serializer_Tag>Kurt Sonderborg</XML_Serializer_Tag>
+<XML_Serializer_Tag>Kurt Rudolf Hoffmann</XML_Serializer_Tag>
+</variantName>
+<thumbnail>https://commons.wikimedia.org/wiki/Special:FilePath/Sonderborg_1962_hg.jpg?width=270</thumbnail>
+<birthEN>April 5, 1923</birthEN>
+<birthDE>5. April 1923</birthDE>
+<deathEN>February 18, 2008</deathEN>
+<deathDE>18. Februar 2008</deathDE>
+<birthPlace>
+<XML_Serializer_Tag>Sønderborg, Dänemark</XML_Serializer_Tag>
+</birthPlace>
+<deathPlace>
+<XML_Serializer_Tag>Hamburg</XML_Serializer_Tag>
+</deathPlace>
+<professionOrOccupation>
+<XML_Serializer_Tag>Maler</XML_Serializer_Tag>
+<XML_Serializer_Tag>Künstler</XML_Serializer_Tag>
+</professionOrOccupation>
+<artworks />
+<dbpResource>http://dbpedia.org/resource/K.R.H._Sonderborg</dbpResource>
+<abstract>K. R. H. Sonderborg (* 5. April 1923 in Sønderborg (Dänemark) als Kurt Rudolf Hoffmann; † 18. Februar 2008 in Hamburg) war einer der wichtigsten Maler der Kunstrichtung Informel. Er nahm seinen Künstlernamen in Anlehnung an seinen Geburtsort an.</abstract>
+<wikilink>http://en.wikipedia.org/wiki/K.R.H._Sonderborg?oldid=579324777</wikilink>
+</Person>

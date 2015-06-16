@@ -1,0 +1,23 @@
+<Person>
+<name>Hans Sandreuter</name>
+<variantName />
+<thumbnail>https://commons.wikimedia.org/wiki/Special:FilePath/Sandreuter_Abend.jpg?width=270</thumbnail>
+<birthEN>May 11, 1850</birthEN>
+<birthDE>11. Mai 1850</birthDE>
+<deathEN>June 1, 1901</deathEN>
+<deathDE>1. Juni 1901</deathDE>
+<birthPlace>
+<XML_Serializer_Tag>Basel</XML_Serializer_Tag>
+</birthPlace>
+<deathPlace>
+<XML_Serializer_Tag>Riehen (Basel)</XML_Serializer_Tag>
+</deathPlace>
+<professionOrOccupation>
+<XML_Serializer_Tag>Künstler</XML_Serializer_Tag>
+<XML_Serializer_Tag>Maler</XML_Serializer_Tag>
+</professionOrOccupation>
+<artworks />
+<dbpResource>http://dbpedia.org/resource/Hans_Sandreuter</dbpResource>
+<abstract>Hans Sandreuter (* 11. Mai 1850 in Basel; † 1. Juni 1901 in Riehen) war ein Schweizer Künstler des Symbolismus und des Fin de siècle.</abstract>
+<wikilink>http://en.wikipedia.org/wiki/Hans_Sandreuter?oldid=582317868</wikilink>
+</Person>

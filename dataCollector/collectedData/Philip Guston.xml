@@ -1,0 +1,22 @@
+<Person>
+<name>Philip Guston</name>
+<variantName>
+<XML_Serializer_Tag>Phillip Goldstein</XML_Serializer_Tag>
+</variantName>
+<thumbnail>https://en.wikipedia.org/wiki/Special:FilePath/Gustonphilip.jpg?width=270</thumbnail>
+<birthEN>1913</birthEN>
+<birthDE>1913</birthDE>
+<deathEN>1980</deathEN>
+<deathDE>1980</deathDE>
+<birthPlace>
+<XML_Serializer_Tag>Montréal</XML_Serializer_Tag>
+</birthPlace>
+<deathPlace />
+<professionOrOccupation>
+<XML_Serializer_Tag>Maler</XML_Serializer_Tag>
+</professionOrOccupation>
+<artworks />
+<dbpResource>http://dbpedia.org/resource/Philip_Guston</dbpResource>
+<abstract>Philip Guston (* 27. Juni 1913 als Phillip Goldstein in Montreal, Kanada; † 7. Juni 1980 in Woodstock, New York) war ein US-amerikanischer Maler. Er gehörte zu den bedeutendsten Vertretern des Abstrakten Expressionismus. Er gilt als Vorläufer des New Image Painting.</abstract>
+<wikilink>http://en.wikipedia.org/wiki/Philip_Guston?oldid=604377849</wikilink>
+</Person>

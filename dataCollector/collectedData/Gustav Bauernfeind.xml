@@ -1,0 +1,22 @@
+<Person>
+<name>Gustav Bauernfeind</name>
+<variantName>
+<XML_Serializer_Tag>Gust. Bauernfeind</XML_Serializer_Tag>
+<XML_Serializer_Tag>G. Bauernfeind</XML_Serializer_Tag>
+</variantName>
+<thumbnail>https://commons.wikimedia.org/wiki/Special:FilePath/MarktJaffaGustavBauernfeind1887.jpg?width=270</thumbnail>
+<birthEN>1848</birthEN>
+<birthDE>1848</birthDE>
+<deathEN>1904</deathEN>
+<deathDE>1904</deathDE>
+<birthPlace />
+<deathPlace />
+<professionOrOccupation>
+<XML_Serializer_Tag>Architekt</XML_Serializer_Tag>
+<XML_Serializer_Tag>Maler</XML_Serializer_Tag>
+</professionOrOccupation>
+<artworks />
+<dbpResource>http://dbpedia.org/resource/Gustav_Bauernfeind</dbpResource>
+<abstract>Gustav Bauernfeind (* 4. September 1848 in Sulz am Neckar; † 24. Dezember 1904 in Jerusalem) war ein deutscher Maler, Illustrator und Architekt. Er gilt als der bekannteste Orientmaler Deutschlands.</abstract>
+<wikilink>http://en.wikipedia.org/wiki/Gustav_Bauernfeind?oldid=581812784</wikilink>
+</Person>

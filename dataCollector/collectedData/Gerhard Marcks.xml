@@ -1,0 +1,26 @@
+<Person>
+<name>Gerhard Marcks</name>
+<variantName />
+<thumbnail>https://commons.wikimedia.org/wiki/Special:FilePath/Bundesarchiv_B_145_Bild-F049825-0016,_Bonn,_Kunst_im_Bundeskanzleramt.jpg?width=270</thumbnail>
+<birthEN>February 18, 1889</birthEN>
+<birthDE>18. Februar 1889</birthDE>
+<deathEN>November 13, 1981</deathEN>
+<deathDE>13. November 1981</deathDE>
+<birthPlace>
+<XML_Serializer_Tag>Berlin</XML_Serializer_Tag>
+</birthPlace>
+<deathPlace>
+<XML_Serializer_Tag>Burgbrohl</XML_Serializer_Tag>
+</deathPlace>
+<professionOrOccupation>
+<XML_Serializer_Tag>Maler</XML_Serializer_Tag>
+<XML_Serializer_Tag>Zeichner</XML_Serializer_Tag>
+<XML_Serializer_Tag>Graphiker</XML_Serializer_Tag>
+<XML_Serializer_Tag>Bildhauer</XML_Serializer_Tag>
+<XML_Serializer_Tag>Holzschneider</XML_Serializer_Tag>
+</professionOrOccupation>
+<artworks />
+<dbpResource>http://dbpedia.org/resource/Gerhard_Marcks</dbpResource>
+<abstract>Gerhard Marcks (* 18. Februar 1889 in Berlin; † 13. November 1981 in Burgbrohl) war ein deutscher Bildhauer und Grafiker.</abstract>
+<wikilink>http://en.wikipedia.org/wiki/Gerhard_Marcks?oldid=606146600</wikilink>
+</Person>

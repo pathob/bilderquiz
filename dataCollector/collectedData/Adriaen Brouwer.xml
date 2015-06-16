@@ -1,0 +1,27 @@
+<Person>
+<name>Adriaen Brouwer</name>
+<variantName>
+<XML_Serializer_Tag>Adriaen Bouwer</XML_Serializer_Tag>
+<XML_Serializer_Tag>Adrianus Brouwer</XML_Serializer_Tag>
+<XML_Serializer_Tag>Abraham Brauwer</XML_Serializer_Tag>
+<XML_Serializer_Tag>Abraham Bravwer</XML_Serializer_Tag>
+</variantName>
+<thumbnail>https://commons.wikimedia.org/wiki/Special:FilePath/Adriaen_Brouwer_004.jpg?width=270</thumbnail>
+<birthEN>1605</birthEN>
+<birthDE>1605</birthDE>
+<deathEN>1638</deathEN>
+<deathDE>1638</deathDE>
+<birthPlace>
+<XML_Serializer_Tag>Oudenaarde</XML_Serializer_Tag>
+</birthPlace>
+<deathPlace>
+<XML_Serializer_Tag>Antwerpen</XML_Serializer_Tag>
+</deathPlace>
+<professionOrOccupation>
+<XML_Serializer_Tag>Maler</XML_Serializer_Tag>
+</professionOrOccupation>
+<artworks />
+<dbpResource>http://dbpedia.org/resource/Adriaen_Brouwer</dbpResource>
+<abstract>Adriaen Brouwer (* 1605 oder 1606 wahrscheinlich in Oudenaarde, Belgien; † vor 1. Februar 1638 in Antwerpen) war ein flämischer Maler.</abstract>
+<wikilink>http://en.wikipedia.org/wiki/Adriaen_Brouwer?oldid=577991686</wikilink>
+</Person>

@@ -1,0 +1,29 @@
+<Person>
+<name>Ernst Wilhelm Nay</name>
+<variantName>
+<XML_Serializer_Tag>Ernst-Wilhelm Nay</XML_Serializer_Tag>
+<XML_Serializer_Tag>Ernst W. Nay</XML_Serializer_Tag>
+<XML_Serializer_Tag>E. W. Nay</XML_Serializer_Tag>
+</variantName>
+<thumbnail>https://commons.wikimedia.org/wiki/Special:FilePath/Ernst_wilhelm_nay_1960.jpg?width=270</thumbnail>
+<birthEN>1902</birthEN>
+<birthDE>1902</birthDE>
+<deathEN>1968</deathEN>
+<deathDE>1968</deathDE>
+<birthPlace>
+<XML_Serializer_Tag>Berlin</XML_Serializer_Tag>
+</birthPlace>
+<deathPlace>
+<XML_Serializer_Tag>Köln</XML_Serializer_Tag>
+</deathPlace>
+<professionOrOccupation>
+<XML_Serializer_Tag>Künstler</XML_Serializer_Tag>
+<XML_Serializer_Tag>Maler</XML_Serializer_Tag>
+<XML_Serializer_Tag>Zeichner</XML_Serializer_Tag>
+<XML_Serializer_Tag>Graphiker</XML_Serializer_Tag>
+</professionOrOccupation>
+<artworks />
+<dbpResource>http://dbpedia.org/resource/Ernst_Wilhelm_Nay</dbpResource>
+<abstract>Ernst Wilhelm Nay (* 11. Juni 1902 in Berlin; † 8. April 1968 in Köln) war ein deutscher Maler und Grafiker der klassischen Moderne.</abstract>
+<wikilink>http://en.wikipedia.org/wiki/Ernst_Wilhelm_Nay?oldid=563764581</wikilink>
+</Person>

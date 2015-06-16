@@ -1,0 +1,21 @@
+<Person>
+<name>Hendrick Avercamp</name>
+<variantName>
+<XML_Serializer_Tag>Hendrik van Avercamp</XML_Serializer_Tag>
+</variantName>
+<thumbnail>https://commons.wikimedia.org/wiki/Special:FilePath/Hendrick_Avercamp.jpg?width=270</thumbnail>
+<birthEN>1585</birthEN>
+<birthDE>1585</birthDE>
+<deathEN>1634</deathEN>
+<deathDE>1634</deathDE>
+<birthPlace />
+<deathPlace />
+<professionOrOccupation>
+<XML_Serializer_Tag>Künstler</XML_Serializer_Tag>
+<XML_Serializer_Tag>Maler</XML_Serializer_Tag>
+</professionOrOccupation>
+<artworks />
+<dbpResource>http://dbpedia.org/resource/Hendrick_Avercamp</dbpResource>
+<abstract>Hendrick Avercamp (* 1585 in Amsterdam; † 15. Mai 1634 in Kampen) war ein niederländischer Maler.</abstract>
+<wikilink>http://en.wikipedia.org/wiki/Hendrick_Avercamp?oldid=591186527</wikilink>
+</Person>

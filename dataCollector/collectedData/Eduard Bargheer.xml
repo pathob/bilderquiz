@@ -1,0 +1,24 @@
+<Person>
+<name>Eduard Bargheer</name>
+<variantName>
+<XML_Serializer_Tag>Edoardo Bargheer</XML_Serializer_Tag>
+<XML_Serializer_Tag>Edward Bargheer</XML_Serializer_Tag>
+</variantName>
+<thumbnail>https://commons.wikimedia.org/wiki/Special:FilePath/Sport_by_Eduard_Bargheer_1962.jpg?width=270</thumbnail>
+<birthEN>December 25, 1901</birthEN>
+<birthDE>25. Dezember 1901</birthDE>
+<deathEN>July 1, 1979</deathEN>
+<deathDE>1. Juli 1979</deathDE>
+<birthPlace>
+<XML_Serializer_Tag>Hamburg</XML_Serializer_Tag>
+</birthPlace>
+<deathPlace />
+<professionOrOccupation>
+<XML_Serializer_Tag>Maler</XML_Serializer_Tag>
+<XML_Serializer_Tag>Graphiker</XML_Serializer_Tag>
+</professionOrOccupation>
+<artworks />
+<dbpResource>http://dbpedia.org/resource/Eduard_Bargheer</dbpResource>
+<abstract>Eduard Bargheer (* 25. Dezember 1901 in Finkenwerder, Hamburg; † 1. Juli 1979 in Blankenese, Hamburg) war ein deutscher Maler und Graphiker. In seiner frühen Phase stand er dem Expressionismus nahe.</abstract>
+<wikilink>http://en.wikipedia.org/wiki/Eduard_Bargheer?oldid=581812606</wikilink>
+</Person>

@@ -1,0 +1,31 @@
+<Person>
+<name>David Alfaro Siqueiros</name>
+<variantName>
+<XML_Serializer_Tag>David Alfaro Siqueiros</XML_Serializer_Tag>
+<XML_Serializer_Tag>José David Alfaro Siqueiros</XML_Serializer_Tag>
+<XML_Serializer_Tag>David Alfaro-Siqueiros</XML_Serializer_Tag>
+<XML_Serializer_Tag>José David Alfaro Siqueiros</XML_Serializer_Tag>
+<XML_Serializer_Tag>José David Alfaro Siqueiros</XML_Serializer_Tag>
+<XML_Serializer_Tag>David Alʹfaro Sikeĭros</XML_Serializer_Tag>
+<XML_Serializer_Tag>David Alʹfaro Sikeĭros</XML_Serializer_Tag>
+</variantName>
+<thumbnail>https://commons.wikimedia.org/wiki/Special:FilePath/Palacio_de_Bellas_Artes_-_Mural_La_Nueva_Democracia_Siqueiros_2.jpg?width=270</thumbnail>
+<birthEN>December 29, 1896</birthEN>
+<birthDE>29. Dezember 1896</birthDE>
+<deathEN>January 6, 1974</deathEN>
+<deathDE>6. Januar 1974</deathDE>
+<birthPlace>
+<XML_Serializer_Tag>Camargo, Chihuahua</XML_Serializer_Tag>
+</birthPlace>
+<deathPlace>
+<XML_Serializer_Tag>Cuernavaca</XML_Serializer_Tag>
+</deathPlace>
+<professionOrOccupation>
+<XML_Serializer_Tag>Maler</XML_Serializer_Tag>
+<XML_Serializer_Tag>Graphiker</XML_Serializer_Tag>
+</professionOrOccupation>
+<artworks />
+<dbpResource>http://dbpedia.org/resource/David_Alfaro_Siqueiros</dbpResource>
+<abstract>David Alfaro Siqueiros (* 29. Dezember 1896 in Chihuahua; † 6. Januar 1974 in Mexiko-Stadt) war ein mexikanischer Maler und Grafiker.</abstract>
+<wikilink>http://en.wikipedia.org/wiki/David_Alfaro_Siqueiros?oldid=605779398</wikilink>
+</Person>

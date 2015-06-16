@@ -1,0 +1,67 @@
+<Person>
+<name>Gentile Bellini</name>
+<variantName />
+<thumbnail>https://commons.wikimedia.org/wiki/Special:FilePath/Bellini_selfportrait.jpg?width=270</thumbnail>
+<birthEN>1430</birthEN>
+<birthDE>1430</birthDE>
+<deathEN>1507</deathEN>
+<deathDE>1507</deathDE>
+<birthPlace />
+<deathPlace />
+<professionOrOccupation>
+<XML_Serializer_Tag>Maler</XML_Serializer_Tag>
+</professionOrOccupation>
+<artworks>
+<XML_Serializer_Tag>
+<painting>
+<type>uri</type>
+<value>http://dbpedia.org/resource/Procession_in_St._Mark&apos;s_Square</value>
+</painting>
+<thumbnail>
+<type>uri</type>
+<value>http://commons.wikimedia.org/wiki/Special:FilePath/Gentile_bellini,_processione_in_piazza_san_marco_01.jpg?width=300</value>
+</thumbnail>
+<name>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>Procession in St. Mark&apos;s Square</value>
+</name>
+<year>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>c. 1496</value>
+</year>
+<wikilink>
+<type>uri</type>
+<value>http://en.wikipedia.org/wiki/Procession_in_St._Mark&apos;s_Square?oldid=590548874</value>
+</wikilink>
+</XML_Serializer_Tag>
+<XML_Serializer_Tag>
+<painting>
+<type>uri</type>
+<value>http://dbpedia.org/resource/Miracle_of_the_Cross_at_the_Bridge_of_S._Lorenzo</value>
+</painting>
+<thumbnail>
+<type>uri</type>
+<value>http://commons.wikimedia.org/wiki/Special:FilePath/1500_Gentile_Bellini,_Miracle_of_the_Cross_at_the_Bridge_of_S._Lorenzo_Galleria_dell&apos;Accademia,_Venice.jpg?width=300</value>
+</thumbnail>
+<name>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>Miracle of the Cross at the Bridge of S. Lorenzo</value>
+</name>
+<year>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>c. 1500</value>
+</year>
+<wikilink>
+<type>uri</type>
+<value>http://en.wikipedia.org/wiki/Miracle_of_the_Cross_at_the_Bridge_of_S._Lorenzo?oldid=590149296</value>
+</wikilink>
+</XML_Serializer_Tag>
+</artworks>
+<dbpResource>http://dbpedia.org/resource/Gentile_Bellini</dbpResource>
+<abstract>Gentile Bellini (* um 1429 in Venedig; † 23. Februar 1507 ebenda) war ein venezianischer Maler und Medailleur.</abstract>
+<wikilink>http://en.wikipedia.org/wiki/Gentile_Bellini?oldid=605465929</wikilink>
+</Person>

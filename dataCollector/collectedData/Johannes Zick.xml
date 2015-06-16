@@ -1,0 +1,21 @@
+<Person>
+<name>Johannes Zick</name>
+<variantName>
+<XML_Serializer_Tag>Johann Zick</XML_Serializer_Tag>
+<XML_Serializer_Tag>Johann Zickh</XML_Serializer_Tag>
+</variantName>
+<thumbnail>https://commons.wikimedia.org/wiki/Special:FilePath/Johann-zick-biberach.jpg?width=270</thumbnail>
+<birthEN>1702</birthEN>
+<birthDE>1702</birthDE>
+<deathEN>1762</deathEN>
+<deathDE>1762</deathDE>
+<birthPlace />
+<deathPlace />
+<professionOrOccupation>
+<XML_Serializer_Tag>Maler</XML_Serializer_Tag>
+</professionOrOccupation>
+<artworks />
+<dbpResource>http://dbpedia.org/resource/Johannes_Zick</dbpResource>
+<abstract>Johannes (Johann) Zick (* 10. Januar 1702 in Lachen; † 4. März 1762 in Würzburg) war ein süddeutscher Freskomaler und Vater des Malers Januarius Zick (1730-1797).</abstract>
+<wikilink>http://en.wikipedia.org/wiki/Johannes_Zick?oldid=592454718</wikilink>
+</Person>

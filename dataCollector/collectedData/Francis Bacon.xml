@@ -1,0 +1,20 @@
+<Person>
+<name>Francis Bacon</name>
+<variantName>
+<XML_Serializer_Tag>Frensis Bekon</XML_Serializer_Tag>
+</variantName>
+<thumbnail>https://commons.wikimedia.org/wiki/Special:FilePath/Bacon_by_Gray_257.jpg?width=270</thumbnail>
+<birthEN>October 28, 1909</birthEN>
+<birthDE>28. Oktober 1909</birthDE>
+<deathEN>April 28, 1992</deathEN>
+<deathDE>28. April 1992</deathDE>
+<birthPlace />
+<deathPlace />
+<professionOrOccupation>
+<XML_Serializer_Tag>Maler</XML_Serializer_Tag>
+</professionOrOccupation>
+<artworks />
+<dbpResource>http://dbpedia.org/resource/Francis_Bacon</dbpResource>
+<abstract>Francis Bacon, 1. Viscount of St. Albans, 1. Baron Verulam (Baron Baco von Verulam; lat.: Baco oder Baconus de Verulamio; * 22. Januar 1561 in London; † 9. April 1626 in Highgate) war ein englischer Philosoph, Staatsmann und als Wissenschaftler Wegbereiter des Empirismus.</abstract>
+<wikilink>http://en.wikipedia.org/wiki/Francis_Bacon?oldid=606726226</wikilink>
+</Person>

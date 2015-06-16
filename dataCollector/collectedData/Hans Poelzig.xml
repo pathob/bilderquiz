@@ -1,0 +1,26 @@
+<Person>
+<name>Hans Poelzig</name>
+<variantName />
+<thumbnail>https://commons.wikimedia.org/wiki/Special:FilePath/Hans_Poelzig,_1927.jpg?width=270</thumbnail>
+<birthEN>April 30, 1869</birthEN>
+<birthDE>30. April 1869</birthDE>
+<deathEN>June 14, 1936</deathEN>
+<deathDE>14. Juni 1936</deathDE>
+<birthPlace>
+<XML_Serializer_Tag>Berlin</XML_Serializer_Tag>
+</birthPlace>
+<deathPlace>
+<XML_Serializer_Tag>Berlin</XML_Serializer_Tag>
+</deathPlace>
+<professionOrOccupation>
+<XML_Serializer_Tag>Architekt</XML_Serializer_Tag>
+<XML_Serializer_Tag>Maler</XML_Serializer_Tag>
+<XML_Serializer_Tag>Bühnenbildner</XML_Serializer_Tag>
+<XML_Serializer_Tag>Hochschullehrer</XML_Serializer_Tag>
+<XML_Serializer_Tag>Filmarchitekt</XML_Serializer_Tag>
+</professionOrOccupation>
+<artworks />
+<dbpResource>http://dbpedia.org/resource/Hans_Poelzig</dbpResource>
+<abstract>Hans Poelzig (* 30. April 1869 in Berlin; † 14. Juni 1936 ebenda) war ein deutscher Architekt, Maler, Bühnenbildner, Filmarchitekt und Hochschullehrer. Vor allem seine Beiträge zur expressionistischen Architektur und zur Neuen Sachlichkeit machten ihn bekannt.Seine Kinder waren der Architekt Peter Poelzig, die Schauspielerin Ruth Poelzig sowie aus seiner zweiten Ehe mit Marlene Moeschke-Poelzig der Schauspieler und Darmstädter Schauspieldirektor Jochen Poelzig.</abstract>
+<wikilink>http://en.wikipedia.org/wiki/Hans_Poelzig?oldid=598777600</wikilink>
+</Person>

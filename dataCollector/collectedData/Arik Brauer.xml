@@ -1,0 +1,25 @@
+<Person>
+<name>Arik Brauer</name>
+<variantName>
+<XML_Serializer_Tag>Erich Brauer</XML_Serializer_Tag>
+</variantName>
+<thumbnail>https://commons.wikimedia.org/wiki/Special:FilePath/Arik_Brauer,_Vienna_2009_a.jpg?width=270</thumbnail>
+<birthEN>1929</birthEN>
+<birthDE>1929</birthDE>
+<deathEN />
+<deathDE />
+<birthPlace>
+<XML_Serializer_Tag>Wien</XML_Serializer_Tag>
+</birthPlace>
+<deathPlace />
+<professionOrOccupation>
+<XML_Serializer_Tag>Maler</XML_Serializer_Tag>
+<XML_Serializer_Tag>Graphiker</XML_Serializer_Tag>
+<XML_Serializer_Tag>Komponist</XML_Serializer_Tag>
+<XML_Serializer_Tag>Musiker</XML_Serializer_Tag>
+</professionOrOccupation>
+<artworks />
+<dbpResource>http://dbpedia.org/resource/Arik_Brauer</dbpResource>
+<abstract>Arik Brauer (* 4. Jänner 1929 in Wien; eigentlich Erich Brauer) ist ein österreichischer Maler, Grafiker, Bühnenbildner, Sänger und Dichter, und einer der Hauptvertreter der Wiener Schule des Phantastischen Realismus.</abstract>
+<wikilink>http://en.wikipedia.org/wiki/Arik_Brauer?oldid=604748521</wikilink>
+</Person>

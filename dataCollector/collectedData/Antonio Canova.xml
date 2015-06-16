@@ -1,0 +1,98 @@
+<Person>
+<name>Antonio Canova</name>
+<variantName>
+<XML_Serializer_Tag>Ant. Canova</XML_Serializer_Tag>
+</variantName>
+<thumbnail>https://commons.wikimedia.org/wiki/Special:FilePath/Antonio_Canova_Selfportrait_1792.jpg?width=270</thumbnail>
+<birthEN>November 1, 1757</birthEN>
+<birthDE>1. November 1757</birthDE>
+<deathEN>October 13, 1822</deathEN>
+<deathDE>13. Oktober 1822</deathDE>
+<birthPlace>
+<XML_Serializer_Tag>Possagno</XML_Serializer_Tag>
+</birthPlace>
+<deathPlace>
+<XML_Serializer_Tag>Venedig</XML_Serializer_Tag>
+</deathPlace>
+<professionOrOccupation>
+<XML_Serializer_Tag>Bildhauer</XML_Serializer_Tag>
+<XML_Serializer_Tag>Maler</XML_Serializer_Tag>
+</professionOrOccupation>
+<artworks>
+<XML_Serializer_Tag>
+<painting>
+<type>uri</type>
+<value>http://dbpedia.org/resource/Psyche_Revived_by_Cupid&apos;s_Kiss</value>
+</painting>
+<thumbnail>
+<type>uri</type>
+<value>http://commons.wikimedia.org/wiki/Special:FilePath/Psyché.jpg?width=300</value>
+</thumbnail>
+<name>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>Psyche Revived by Cupid&apos;s Kiss</value>
+</name>
+<year>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>first version 1787-1793</value>
+</year>
+<wikilink>
+<type>uri</type>
+<value>http://en.wikipedia.org/wiki/Psyche_Revived_by_Cupid&apos;s_Kiss?oldid=603282498</value>
+</wikilink>
+</XML_Serializer_Tag>
+<XML_Serializer_Tag>
+<painting>
+<type>uri</type>
+<value>http://dbpedia.org/resource/Venus_Victrix_(Canova)</value>
+</painting>
+<thumbnail>
+<type>uri</type>
+<value>http://commons.wikimedia.org/wiki/Special:FilePath/VenusVictrix.jpg?width=300</value>
+</thumbnail>
+<name>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>Pauline Bonaparte as Venus Victrix</value>
+</name>
+<year>
+<type>typed-literal</type>
+<datatype>http://www.w3.org/2001/XMLSchema#integer</datatype>
+<value>1805</value>
+</year>
+<wikilink>
+<type>uri</type>
+<value>http://en.wikipedia.org/wiki/Venus_Victrix_(Canova)?oldid=541717503</value>
+</wikilink>
+</XML_Serializer_Tag>
+<XML_Serializer_Tag>
+<painting>
+<type>uri</type>
+<value>http://dbpedia.org/resource/Napoleon_as_Mars_the_Peacemaker</value>
+</painting>
+<thumbnail>
+<type>uri</type>
+<value>http://commons.wikimedia.org/wiki/Special:FilePath/Apsley_House_-_Napoleon&apos;s_statue.JPG?width=300</value>
+</thumbnail>
+<name>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>Napoleon as Mars the Peacemaker</value>
+</name>
+<year>
+<type>typed-literal</type>
+<datatype>http://www.w3.org/2001/XMLSchema#integer</datatype>
+<value>1802</value>
+</year>
+<wikilink>
+<type>uri</type>
+<value>http://en.wikipedia.org/wiki/Napoleon_as_Mars_the_Peacemaker?oldid=591936059</value>
+</wikilink>
+</XML_Serializer_Tag>
+</artworks>
+<dbpResource>http://dbpedia.org/resource/Antonio_Canova</dbpResource>
+<abstract>Antonio Canova (* 1. November 1757 in Possagno bei Bassano del Grappa; † 13. Oktober 1822 in Venedig) war ein italienischer Bildhauer. Er gilt als einer der Hauptvertreter des italienischen Klassizismus.</abstract>
+<wikilink>http://en.wikipedia.org/wiki/Antonio_Canova?oldid=599830714</wikilink>
+</Person>

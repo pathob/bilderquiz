@@ -1,0 +1,20 @@
+<Person>
+<name>Moritz Daniel Oppenheim</name>
+<variantName>
+<XML_Serializer_Tag>Moritz Oppenheim</XML_Serializer_Tag>
+</variantName>
+<thumbnail>https://commons.wikimedia.org/wiki/Special:FilePath/WLA_jewishmuseum_Self-Portrait_by_Moritz_Daniel_Oppenheim.jpg?width=270</thumbnail>
+<birthEN>1800</birthEN>
+<birthDE>1800</birthDE>
+<deathEN>1882</deathEN>
+<deathDE>1882</deathDE>
+<birthPlace />
+<deathPlace />
+<professionOrOccupation>
+<XML_Serializer_Tag>Maler</XML_Serializer_Tag>
+</professionOrOccupation>
+<artworks />
+<dbpResource>http://dbpedia.org/resource/Moritz_Daniel_Oppenheim</dbpResource>
+<abstract>Moritz Daniel Oppenheim (* 7. Januar 1800 in Hanau; † 26. Februar 1882 in Frankfurt am Main) war ein deutscher Porträt- und Historienmaler.</abstract>
+<wikilink>http://en.wikipedia.org/wiki/Moritz_Daniel_Oppenheim?oldid=563388517</wikilink>
+</Person>

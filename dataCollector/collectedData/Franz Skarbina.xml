@@ -1,0 +1,24 @@
+<Person>
+<name>Franz Skarbina</name>
+<variantName>
+<XML_Serializer_Tag>F. Skarbina</XML_Serializer_Tag>
+</variantName>
+<thumbnail>https://commons.wikimedia.org/wiki/Special:FilePath/Franz_Skarbina.jpg?width=270</thumbnail>
+<birthEN>February 24, 1849</birthEN>
+<birthDE>24. Februar 1849</birthDE>
+<deathEN>May 18, 1910</deathEN>
+<deathDE>18. Mai 1910</deathDE>
+<birthPlace>
+<XML_Serializer_Tag>Berlin</XML_Serializer_Tag>
+</birthPlace>
+<deathPlace>
+<XML_Serializer_Tag>Berlin</XML_Serializer_Tag>
+</deathPlace>
+<professionOrOccupation>
+<XML_Serializer_Tag>Maler</XML_Serializer_Tag>
+</professionOrOccupation>
+<artworks />
+<dbpResource>http://dbpedia.org/resource/Franz_Skarbina</dbpResource>
+<abstract>Franz Skarbina (* 24. Februar 1849 in Berlin; † 18. Mai 1910 in Berlin) war ein deutscher Maler des Impressionismus, Zeichner, Radierer und Illustrator.</abstract>
+<wikilink>http://en.wikipedia.org/wiki/Franz_Skarbina?oldid=604643808</wikilink>
+</Person>

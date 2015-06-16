@@ -1,0 +1,26 @@
+<Person>
+<name>Thomas Theodor Heine</name>
+<variantName>
+<XML_Serializer_Tag>Thomas T. Heine</XML_Serializer_Tag>
+<XML_Serializer_Tag>Th. Th. Heine</XML_Serializer_Tag>
+</variantName>
+<thumbnail>https://commons.wikimedia.org/wiki/Special:FilePath/Nicola_Perscheid_-_Thomas_Theodor_Heine_1915.jpg?width=270</thumbnail>
+<birthEN>February 28, 1867</birthEN>
+<birthDE>28. Februar 1867</birthDE>
+<deathEN>January 26, 1948</deathEN>
+<deathDE>26. Januar 1948</deathDE>
+<birthPlace>
+<XML_Serializer_Tag>Leipzig</XML_Serializer_Tag>
+</birthPlace>
+<deathPlace>
+<XML_Serializer_Tag>Stockholm</XML_Serializer_Tag>
+</deathPlace>
+<professionOrOccupation>
+<XML_Serializer_Tag>Maler</XML_Serializer_Tag>
+<XML_Serializer_Tag>Zeichner</XML_Serializer_Tag>
+</professionOrOccupation>
+<artworks />
+<dbpResource>http://dbpedia.org/resource/Thomas_Theodor_Heine</dbpResource>
+<abstract>Thomas Theodor Heine (auch: Th. Th. Heine; * 28. Februar 1867 als David Theodor Heine in Leipzig; † 26. Januar 1948 in Stockholm) war ein deutsch-schwedischer Maler, Zeichner, Gebrauchsgraphiker und Schriftsteller.</abstract>
+<wikilink>http://en.wikipedia.org/wiki/Thomas_Theodor_Heine?oldid=601629811</wikilink>
+</Person>

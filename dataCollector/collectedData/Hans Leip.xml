@@ -1,0 +1,32 @@
+<Person>
+<name>Hans Leip</name>
+<variantName>
+<XML_Serializer_Tag>Chans Lajp</XML_Serializer_Tag>
+<XML_Serializer_Tag>Hans Karl Hermann Gottfried Leip</XML_Serializer_Tag>
+</variantName>
+<thumbnail>https://commons.wikimedia.org/wiki/Special:FilePath/Hans-Leip-Ufer.JPG?width=270</thumbnail>
+<birthEN>September 22, 1893</birthEN>
+<birthDE>22. September 1893</birthDE>
+<deathEN>June 6, 1983</deathEN>
+<deathDE>6. Juni 1983</deathDE>
+<birthPlace>
+<XML_Serializer_Tag>Hamburg</XML_Serializer_Tag>
+</birthPlace>
+<deathPlace>
+<XML_Serializer_Tag>Früthwilen, Schweiz</XML_Serializer_Tag>
+</deathPlace>
+<professionOrOccupation>
+<XML_Serializer_Tag>Musiker</XML_Serializer_Tag>
+<XML_Serializer_Tag>Schriftsteller</XML_Serializer_Tag>
+<XML_Serializer_Tag>Lyriker</XML_Serializer_Tag>
+<XML_Serializer_Tag>Dramatiker</XML_Serializer_Tag>
+<XML_Serializer_Tag>Maler</XML_Serializer_Tag>
+<XML_Serializer_Tag>Graphiker</XML_Serializer_Tag>
+<XML_Serializer_Tag>Drehbuchautor</XML_Serializer_Tag>
+<XML_Serializer_Tag>Liederdichter</XML_Serializer_Tag>
+</professionOrOccupation>
+<artworks />
+<dbpResource>http://dbpedia.org/resource/Hans_Leip</dbpResource>
+<abstract>Hans Leip (Pseudonym: Li-Shan Pe, * 22. September 1893 in Hamburg; † 6. Juni 1983 in Fruthwilen (Kanton Thurgau)) war ein deutscher Schriftsteller.</abstract>
+<wikilink>http://en.wikipedia.org/wiki/Hans_Leip?oldid=577817846</wikilink>
+</Person>

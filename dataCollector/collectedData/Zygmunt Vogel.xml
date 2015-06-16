@@ -1,0 +1,28 @@
+<Person>
+<name>Zygmunt Vogel</name>
+<variantName>
+<XML_Serializer_Tag>Ptaszek</XML_Serializer_Tag>
+</variantName>
+<thumbnail>https://commons.wikimedia.org/wiki/Special:FilePath/Wilno_Kosciol_Misjonarzy_Zygmunt_Vogel.jpg?width=270</thumbnail>
+<birthEN>June 15, 1764</birthEN>
+<birthDE>15. Juni 1764</birthDE>
+<deathEN>April 20, 1826</deathEN>
+<deathDE>20. April 1826</deathDE>
+<birthPlace>
+<XML_Serializer_Tag>Wołczyn</XML_Serializer_Tag>
+</birthPlace>
+<deathPlace>
+<XML_Serializer_Tag>Warschau</XML_Serializer_Tag>
+</deathPlace>
+<professionOrOccupation>
+<XML_Serializer_Tag>Künstler</XML_Serializer_Tag>
+<XML_Serializer_Tag>Maler</XML_Serializer_Tag>
+<XML_Serializer_Tag>Zeichner</XML_Serializer_Tag>
+<XML_Serializer_Tag>Architekt</XML_Serializer_Tag>
+<XML_Serializer_Tag>Hochschullehrer</XML_Serializer_Tag>
+</professionOrOccupation>
+<artworks />
+<dbpResource>http://dbpedia.org/resource/Zygmunt_Vogel</dbpResource>
+<abstract>Zygmunt Vogel (* 15. Juni 1764 in Wołczyn (Polesien); † 20. April 1826 in Warschau) war ein polnischer Maler, Zeichner und Pädagoge des Klassizismus.Vogel war Sohn des Hofküchenmeisters des Fürsten Michał Fryderyk Czartoryski. Schon im Kindesalter verlor er seinen Vater. Die Czartoryskis halfen dem Waisenkind und seiner Mutter, brachten beide nach Warschau. Im Alter von 16 Jahren ging Vogel als Lehrling zur königlichen Malschule, wo er die Vedutenbilder von Bernardo Bellotto (genannt Canaletto) kennen und bewundern lernte.Auf Bestellung des Kronmarschalls Michał Jerzy Mniszech kopierte er die Veduten Canalettos, später begann er eigene Veduten von Warschau in Aquarell zu malen.Im Auftrag des Königs Stanislaus II. August Poniatowski besuchte er die Schlösser in Krzeszowice, Tęczyn, Alwernia, Lipowiec, Olkusz, Rabsztyn und Pieskowa Skała. Von dieser Rundreise brachte Vogel 63 Aquarelle und Zeichnungen mit.Vom König wurde er oft zu den elitären „Donnerstagstafeln“ eingeladen. Seine Freunde nannten ihn &quot;Ptaszek&quot; (Vöglein).Nach der Abdankung des Königs, dessen Ausreise nach Sankt Petersburg und baldigem Tod verlor Vogel seinen Mäzen. Er wurde Zeichenlehrer im Warschauer Lyzeum, 1817 wurde er zum Professor für Perspektivzeichnung an der Kunstfakultät der soeben gegründeten Warschauer Universität berufen.Er wurde auf dem Evangelisch-Augsburgischen Friedhof in Warschau (26. Allee, 6. Grab) bestattet.</abstract>
+<wikilink>http://en.wikipedia.org/wiki/Zygmunt_Vogel?oldid=599973748</wikilink>
+</Person>

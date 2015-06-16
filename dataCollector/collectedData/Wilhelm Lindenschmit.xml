@@ -1,0 +1,26 @@
+<Person>
+<name>Wilhelm Lindenschmit</name>
+<variantName>
+<XML_Serializer_Tag>, der Ältere</XML_Serializer_Tag>
+<XML_Serializer_Tag>W. Lindenschmitt</XML_Serializer_Tag>
+</variantName>
+<thumbnail>https://commons.wikimedia.org/wiki/Special:FilePath/Wilhelm_Lindenschmit_dÄ_(1806_–_1848).gif?width=270</thumbnail>
+<birthEN>March 9, 1806</birthEN>
+<birthDE>9. März 1806</birthDE>
+<deathEN>March 12, 1848</deathEN>
+<deathDE>12. März 1848</deathDE>
+<birthPlace>
+<XML_Serializer_Tag>Mainz</XML_Serializer_Tag>
+</birthPlace>
+<deathPlace>
+<XML_Serializer_Tag>Mainz</XML_Serializer_Tag>
+</deathPlace>
+<professionOrOccupation>
+<XML_Serializer_Tag>Künstler</XML_Serializer_Tag>
+<XML_Serializer_Tag>Maler</XML_Serializer_Tag>
+</professionOrOccupation>
+<artworks />
+<dbpResource>http://dbpedia.org/resource/Wilhelm_Lindenschmit_the_Younger</dbpResource>
+<abstract>Wilhelm von Lindenschmit der Jüngere (* 20. Juni 1829 in München; † 8. Juni 1895 ebenda) war ein deutscher Maler.</abstract>
+<wikilink>http://en.wikipedia.org/wiki/Wilhelm_Lindenschmit_the_Younger?oldid=567606056</wikilink>
+</Person>

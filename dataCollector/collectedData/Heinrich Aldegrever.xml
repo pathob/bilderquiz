@@ -1,0 +1,36 @@
+<Person>
+<name>Heinrich Aldegrever</name>
+<variantName>
+<XML_Serializer_Tag>Heinrich Aldegraef</XML_Serializer_Tag>
+<XML_Serializer_Tag>Hinrik Trippemeker</XML_Serializer_Tag>
+<XML_Serializer_Tag>Hinrik Trippenmeker</XML_Serializer_Tag>
+<XML_Serializer_Tag>Heinrich Trippenmeker</XML_Serializer_Tag>
+<XML_Serializer_Tag>Hinrik Trippenmäker</XML_Serializer_Tag>
+<XML_Serializer_Tag>Heinrich Trippenmecker</XML_Serializer_Tag>
+<XML_Serializer_Tag>Henricus Aldegrever</XML_Serializer_Tag>
+<XML_Serializer_Tag>Albert Aldegrever</XML_Serializer_Tag>
+<XML_Serializer_Tag>Hinrich Aldegrever</XML_Serializer_Tag>
+</variantName>
+<thumbnail>https://commons.wikimedia.org/wiki/Special:FilePath/Heinrich_Aldegrever.jpeg?width=270</thumbnail>
+<birthEN>1502</birthEN>
+<birthDE>1502</birthDE>
+<deathEN>ca. 1555/61</deathEN>
+<deathDE>ca. 1555/61</deathDE>
+<birthPlace>
+<XML_Serializer_Tag>Paderborn</XML_Serializer_Tag>
+</birthPlace>
+<deathPlace>
+<XML_Serializer_Tag>Soest</XML_Serializer_Tag>
+</deathPlace>
+<professionOrOccupation>
+<XML_Serializer_Tag>Kupferstecher</XML_Serializer_Tag>
+<XML_Serializer_Tag>Graphiker</XML_Serializer_Tag>
+<XML_Serializer_Tag>Maler</XML_Serializer_Tag>
+<XML_Serializer_Tag>Zeichner</XML_Serializer_Tag>
+<XML_Serializer_Tag>Goldschmied</XML_Serializer_Tag>
+</professionOrOccupation>
+<artworks />
+<dbpResource>http://dbpedia.org/resource/Heinrich_Aldegrever</dbpResource>
+<abstract>Heinrich Aldegrever, in der niederdeutschen Sprache seiner Heimat eigentlich Hinrik Trippenmäker, (* 1502 in Paderborn; † zwischen 1555 und 1561 in Soest) war bedeutender deutscher Kupferstecher, Maler und Siegelschneider der Renaissance.</abstract>
+<wikilink>http://en.wikipedia.org/wiki/Heinrich_Aldegrever?oldid=601898416</wikilink>
+</Person>

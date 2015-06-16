@@ -1,0 +1,19 @@
+<Person>
+<name>Hans Asper</name>
+<variantName />
+<thumbnail>https://commons.wikimedia.org/wiki/Special:FilePath/Hans_Asper.jpg?width=270</thumbnail>
+<birthEN>1499</birthEN>
+<birthDE>1499</birthDE>
+<deathEN>1571</deathEN>
+<deathDE>1571</deathDE>
+<birthPlace />
+<deathPlace />
+<professionOrOccupation>
+<XML_Serializer_Tag>Künstler</XML_Serializer_Tag>
+<XML_Serializer_Tag>Maler</XML_Serializer_Tag>
+</professionOrOccupation>
+<artworks />
+<dbpResource>http://dbpedia.org/resource/Hans_Asper</dbpResource>
+<abstract>Hans Asper (* 1499 in Zürich; † 21. März 1571 ebd.) war ein Schweizer Maler, dessen Werke noch Züge der Spätgotik aufweisen.</abstract>
+<wikilink>http://en.wikipedia.org/wiki/Hans_Asper?oldid=603886066</wikilink>
+</Person>

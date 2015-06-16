@@ -1,0 +1,24 @@
+<Person>
+<name>Julius von Blaas</name>
+<variantName>
+<XML_Serializer_Tag>Julius Blaas</XML_Serializer_Tag>
+</variantName>
+<thumbnail>https://commons.wikimedia.org/wiki/Special:FilePath/Julius_von_Blaas_Flli_D&apos;Alessandri_BNF_Gallica.jpg?width=270</thumbnail>
+<birthEN>August 22, 1845</birthEN>
+<birthDE>22. August 1845</birthDE>
+<deathEN>August 2, 1922</deathEN>
+<deathDE>2. August 1922</deathDE>
+<birthPlace>
+<XML_Serializer_Tag>Albano</XML_Serializer_Tag>
+</birthPlace>
+<deathPlace>
+<XML_Serializer_Tag>Bad Hall</XML_Serializer_Tag>
+</deathPlace>
+<professionOrOccupation>
+<XML_Serializer_Tag>Maler</XML_Serializer_Tag>
+</professionOrOccupation>
+<artworks />
+<dbpResource>http://dbpedia.org/resource/Julius_von_Blaas</dbpResource>
+<abstract>Julius von Blaas (* 22. August 1845 in Albano Laziale bei Rom; † 1. August 1922 in Bad Hall) war ein italienisch-österreichischer Historien-, Tier-, Genre- und Schlachtenmaler.</abstract>
+<wikilink>http://en.wikipedia.org/wiki/Julius_von_Blaas?oldid=602489438</wikilink>
+</Person>

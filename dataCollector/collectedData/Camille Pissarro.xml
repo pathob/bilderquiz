@@ -1,0 +1,152 @@
+<Person>
+<name>Camille Pissarro</name>
+<variantName>
+<XML_Serializer_Tag>C. Pissarro</XML_Serializer_Tag>
+<XML_Serializer_Tag>... Pissarro</XML_Serializer_Tag>
+<XML_Serializer_Tag>Camille Jacob Pissarro</XML_Serializer_Tag>
+<XML_Serializer_Tag>Jacob-Abraham-Camille Pissarro</XML_Serializer_Tag>
+<XML_Serializer_Tag>Camille Pissaro</XML_Serializer_Tag>
+<XML_Serializer_Tag>Ḳami Pisaro</XML_Serializer_Tag>
+</variantName>
+<thumbnail>https://commons.wikimedia.org/wiki/Special:FilePath/Camille_Pissarro_040.jpg?width=270</thumbnail>
+<birthEN>July 10, 1830</birthEN>
+<birthDE>10. Juli 1830</birthDE>
+<deathEN>November 13, 1903</deathEN>
+<deathDE>13. November 1903</deathDE>
+<birthPlace>
+<XML_Serializer_Tag>Charlotte Amalie</XML_Serializer_Tag>
+</birthPlace>
+<deathPlace>
+<XML_Serializer_Tag>Paris</XML_Serializer_Tag>
+</deathPlace>
+<professionOrOccupation>
+<XML_Serializer_Tag>Künstler</XML_Serializer_Tag>
+<XML_Serializer_Tag>Maler</XML_Serializer_Tag>
+<XML_Serializer_Tag>Graphiker</XML_Serializer_Tag>
+</professionOrOccupation>
+<artworks>
+<XML_Serializer_Tag>
+<painting>
+<type>uri</type>
+<value>http://dbpedia.org/resource/The_House_of_the_Deaf_Woman_and_the_Belfry_at_Eragny</value>
+</painting>
+<thumbnail>
+<type>uri</type>
+<value>http://commons.wikimedia.org/wiki/Special:FilePath/The_House_of_the_Deaf_Woman_and_the_Belfry_at_Eragny,_Pissarro_-_Indianapolis_Museum_of_Art_-_DSC00657.JPG?width=300</value>
+</thumbnail>
+<name>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>The House of the Deaf Woman and the Belfry at Eragny</value>
+</name>
+<year>
+<type>typed-literal</type>
+<datatype>http://www.w3.org/2001/XMLSchema#integer</datatype>
+<value>1886</value>
+</year>
+<wikilink>
+<type>uri</type>
+<value>http://en.wikipedia.org/wiki/The_House_of_the_Deaf_Woman_and_the_Belfry_at_Eragny?oldid=535222232</value>
+</wikilink>
+</XML_Serializer_Tag>
+<XML_Serializer_Tag>
+<painting>
+<type>uri</type>
+<value>http://dbpedia.org/resource/Le_Boulevard_de_Montmartre,_Matin%C3%A9e_de_Printemps</value>
+</painting>
+<thumbnail>
+<type>uri</type>
+<value>http://commons.wikimedia.org/wiki/Special:FilePath/Camille_Pissarro_-_Boulevard_Montmartre,_Spring_-_Google_Art_Project.jpg?width=300</value>
+</thumbnail>
+<name>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>Le Boulevard de  Montmartre, Matinée de Printemps</value>
+</name>
+<year>
+<type>typed-literal</type>
+<datatype>http://www.w3.org/2001/XMLSchema#integer</datatype>
+<value>1897</value>
+</year>
+<wikilink>
+<type>uri</type>
+<value>http://en.wikipedia.org/wiki/Le_Boulevard_de_Montmartre,_Matinée_de_Printemps?oldid=604246962</value>
+</wikilink>
+</XML_Serializer_Tag>
+<XML_Serializer_Tag>
+<painting>
+<type>uri</type>
+<value>http://dbpedia.org/resource/Pont_Boieldieu_in_Rouen,_Rainy_Weather</value>
+</painting>
+<thumbnail>
+<type>uri</type>
+<value>http://commons.wikimedia.org/wiki/Special:FilePath/Pissarro_-_Pont_Boieldieu_in_Rouen,_Rainy_Weather.jpg?width=300</value>
+</thumbnail>
+<name>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>Pont Boieldieu in Rouen, Rainy Weather</value>
+</name>
+<year>
+<type>typed-literal</type>
+<datatype>http://www.w3.org/2001/XMLSchema#integer</datatype>
+<value>1896</value>
+</year>
+<wikilink>
+<type>uri</type>
+<value>http://en.wikipedia.org/wiki/Pont_Boieldieu_in_Rouen,_Rainy_Weather?oldid=590262321</value>
+</wikilink>
+</XML_Serializer_Tag>
+<XML_Serializer_Tag>
+<painting>
+<type>uri</type>
+<value>http://dbpedia.org/resource/The_Banks_of_the_Oise_near_Pontoise</value>
+</painting>
+<thumbnail>
+<type>uri</type>
+<value>http://commons.wikimedia.org/wiki/Special:FilePath/Banks_of_the_Oise_near_Pontoise_by_Camille_Pissarro.jpg?width=300</value>
+</thumbnail>
+<name>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>The Banks of the Oise near Pontoise</value>
+</name>
+<year>
+<type>typed-literal</type>
+<datatype>http://www.w3.org/2001/XMLSchema#integer</datatype>
+<value>1873</value>
+</year>
+<wikilink>
+<type>uri</type>
+<value>http://en.wikipedia.org/wiki/The_Banks_of_the_Oise_near_Pontoise?oldid=537898470</value>
+</wikilink>
+</XML_Serializer_Tag>
+<XML_Serializer_Tag>
+<painting>
+<type>uri</type>
+<value>http://dbpedia.org/resource/The_C%C3%B4te_des_B%C5%93ufs_at_L%E2%80%99Hermitage</value>
+</painting>
+<thumbnail>
+<type>uri</type>
+<value>http://commons.wikimedia.org/wiki/Special:FilePath/Camille_Pissarro_032.jpg?width=300</value>
+</thumbnail>
+<name>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>The Côte des Bœufs at L’Hermitage</value>
+</name>
+<year>
+<type>typed-literal</type>
+<datatype>http://www.w3.org/2001/XMLSchema#integer</datatype>
+<value>1877</value>
+</year>
+<wikilink>
+<type>uri</type>
+<value>http://en.wikipedia.org/wiki/The_Côte_des_Bœufs_at_L’Hermitage?oldid=589637326</value>
+</wikilink>
+</XML_Serializer_Tag>
+</artworks>
+<dbpResource>http://dbpedia.org/resource/Camille_Pissarro</dbpResource>
+<abstract>Jacob Abraham Camille Pissarro (* 10. Juli 1830 in Charlotte Amalie, Dänisch-Westindien heute: Amerikanische Jungferninseln; † 12. November 1903 in Paris) war einer der bedeutendsten und produktivsten Maler des Impressionismus.</abstract>
+<wikilink>http://en.wikipedia.org/wiki/Camille_Pissarro?oldid=606480383</wikilink>
+</Person>

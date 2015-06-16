@@ -1,0 +1,72 @@
+<Person>
+<name>Alexandre Cabanel</name>
+<variantName />
+<thumbnail>https://commons.wikimedia.org/wiki/Special:FilePath/Self_Portrait_(Alexandre_Cabanel).jpg?width=270</thumbnail>
+<birthEN>1823</birthEN>
+<birthDE>1823</birthDE>
+<deathEN>1889</deathEN>
+<deathDE>1889</deathDE>
+<birthPlace />
+<deathPlace />
+<professionOrOccupation>
+<XML_Serializer_Tag>Maler</XML_Serializer_Tag>
+</professionOrOccupation>
+<artworks>
+<XML_Serializer_Tag>
+<painting>
+<type>uri</type>
+<value>http://dbpedia.org/resource/The_Birth_of_Venus_(Cabanel)</value>
+</painting>
+<thumbnail>
+<type>uri</type>
+<value>http://commons.wikimedia.org/wiki/Special:FilePath/Alexandre_Cabanel_-_The_Birth_of_Venus_-_Google_Art_Project_2.jpg?width=300</value>
+</thumbnail>
+<name>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>The Birth of Venus</value>
+</name>
+<year>
+<type>typed-literal</type>
+<datatype>http://www.w3.org/2001/XMLSchema#integer</datatype>
+<value>1863</value>
+</year>
+<abstract>
+<type>literal</type>
+<xml:lang>de</xml:lang>
+<value>Die Geburt der Venus (Naissance de Vénus) ist der Name mehrerer Gemälde von Alexandre Cabanel, dessen Original im Jahr 1863 und die bekannteste Kopie vom Künstler selbst 1875 geschaffen wurde. Das Original war das Werk, das den Ruhm des Malers endgültig festigte. Das Bild zeigt die Geburt der Göttin Venus, die nach einer Variante in der griechischen Mythologie aus dem Schaum vor der Insel Zypern geboren wurde.Die Geburt der Venus zeigt einen weiblichen Akt. Die Frau liegt ausgestreckt mit dem Kopf nach rechts auf dem Wasser, der Oberkörper und der Kopf scheinen auf einem Schaumteppich zu ruhen. Entgegen aller Naturgesetze scheint der Körper über dem Wasser zu schweben und sinkt kein Stück ins Wasser. Das untere linke Bein ist leicht, das darüber liegende rechte Bein etwas stärker zum Körper hin angezogen und verdeckt in dieser Haltung ansatzweise den Schambereich. Während der Unterleib frontal zum Betrachter wiedergegeben ist, fällt der Oberkörper etwas stärker nach hinten, was die Brustpartie anhebt und in besonderer Weise betont. Das unterstützt zudem die Haltung der Arme; beide Arme sind noch über den Kopf hinaus ausgestreckt. Während der linke Arm wie schon das linke Bein auf dem Wasser gelagert und weiter ausgestreckt ist, ist der rechte Arm erhoben und so gebeugt, dass der Unterarm auf dem Kopf gelagert ist. Die Frau hat ihre Augen geschlossen und scheint zu schlafen. Sie liegt auf ihren Haaren, die bis zu den Knien reichen, aber auch über dem linken Arm liegen. Während der Frauenakt eine große Ruhe, gar Frieden ausstrahlt, fliegen darüber fünf ebenfalls unbekleidete, mit kleinen Flügeln versehene Putten. Die beiden Linken blasen in ihre Muscheln, die beiden Rechten schweben über der Frau. Der mittlere Putto hat sich von der Nackten abgewendet, dreht aber den Kopf in ihre Richtung.Cabanels Die Geburt der Venus wurde beim Pariser Salon des Jahres 1863 sensationell aufgenommen, er wurde nach dem Bild und weiteren Venus-Darstellungen auch Venus-Salon genannt. Napoleon III. erwarb das 130 cm × 225 cm große auf Leinwand gefertigte Ölbild für seine Privatsammlung. Cabanel schuf selbst mehrere Kopien davon. Die bekannteste wurde vom US-amerikanischen Bankier John Wolfe in Auftrag gegeben. Sie ist mit 106 cm × 182,6 cm Größe etwas kleinformatiger als das Original, entspricht sonst aber nahezu bis ins Detail dem Original. Das Original befindet sich heute im Pariser Musée d’Orsay, die Kopie seit 1893 als Geschenk Wolfes im Metropolitan Museum of Art in New York City (Inventarnummer 94.24.1; Signatur unten links: ALEX CABANEL). Das Bild traf den Geschmack, der im Frankreich des Zweiten Kaiserreichs vorherrschte: ein mythologisches Motiv, sorgfältig modelliert, mit glatt polierter Oberfläche. Dennoch blieb es von Kritik nicht verschont. Émile Zola bezeichnete die Venus als „eine reizende Puppe [... aus] weißer und rosafarbener Mandelpaste [... die] in einem Fluss von Milch [ertrinkt]“. Modernere Werke wurden trotz ähnlicher Bild-Sujets im selben Jahr von der Jury des Salons abgelehnt, was zur Ausstellung vieler der abgelehnten Werke im Salon des Refusés führte. Zwei Jahre später wurde ein motivisch ähnlicher Akt, die Olympia von Édouard Manet, die ohne mythologischem Korsett gezeigt wurde, während des Salons verlacht und ablehnend aufgenommen, während Cabanel während der nächsten beiden Jahrzehnte einer der bedeutendsten akademischen Künstler blieb. Der Erfolg mit Die Geburt der Venus brachte ihm auch eine Berufung als Professor an die Akademie. Letztlich inspirierte Cabanel mit Die Geburt der Venus weitere Künstler, Aktstudien zu malen, darunter etwa Gustave Courbet, der zwischen 1864 und 1868 mehrere realistische Aktstudien schuf und damit Cabanel nachfolgte, aber auch in einen Gegensatz zu ihm trat.</value>
+</abstract>
+<wikilink>
+<type>uri</type>
+<value>http://en.wikipedia.org/wiki/The_Birth_of_Venus_(Cabanel)?oldid=586550711</value>
+</wikilink>
+</XML_Serializer_Tag>
+<XML_Serializer_Tag>
+<painting>
+<type>uri</type>
+<value>http://dbpedia.org/resource/Cleopatra_Testing_Poisons_on_Condemned_Prisoners</value>
+</painting>
+<thumbnail>
+<type>uri</type>
+<value>http://commons.wikimedia.org/wiki/Special:FilePath/Alexandre_Cabanel_-_Cléopatre_essayant_des_poisons_sur_des_condamnés_à_mort.jpg?width=300</value>
+</thumbnail>
+<name>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>Cleopatra Testing Poisons on Condemned Prisoners</value>
+</name>
+<year>
+<type>typed-literal</type>
+<datatype>http://www.w3.org/2001/XMLSchema#integer</datatype>
+<value>1887</value>
+</year>
+<wikilink>
+<type>uri</type>
+<value>http://en.wikipedia.org/wiki/Cleopatra_Testing_Poisons_on_Condemned_Prisoners?oldid=563575671</value>
+</wikilink>
+</XML_Serializer_Tag>
+</artworks>
+<dbpResource>http://dbpedia.org/resource/Alexandre_Cabanel</dbpResource>
+<abstract>Alexandre Cabanel (* 28. September 1823 in Montpellier; † 23. Januar 1889 in Paris) war ein akademischer französischer Historienmaler, Mitglied der Académie des Beaux-Arts und Professor an der École des beaux-arts in Paris.</abstract>
+<wikilink>http://en.wikipedia.org/wiki/Alexandre_Cabanel?oldid=600626929</wikilink>
+</Person>

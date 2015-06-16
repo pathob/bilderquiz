@@ -1,0 +1,26 @@
+<Person>
+<name>Richard Paul Lohse</name>
+<variantName>
+<XML_Serializer_Tag>Richard Lohse</XML_Serializer_Tag>
+<XML_Serializer_Tag>Richard P. Lohse</XML_Serializer_Tag>
+</variantName>
+<thumbnail>https://commons.wikimedia.org/wiki/Special:FilePath/Grab_Lohse.JPG?width=270</thumbnail>
+<birthEN>September 13, 1902</birthEN>
+<birthDE>13. September 1902</birthDE>
+<deathEN>September 16, 1988</deathEN>
+<deathDE>16. September 1988</deathDE>
+<birthPlace>
+<XML_Serializer_Tag>Zürich</XML_Serializer_Tag>
+</birthPlace>
+<deathPlace>
+<XML_Serializer_Tag>Zürich</XML_Serializer_Tag>
+</deathPlace>
+<professionOrOccupation>
+<XML_Serializer_Tag>Maler</XML_Serializer_Tag>
+<XML_Serializer_Tag>Graphiker</XML_Serializer_Tag>
+</professionOrOccupation>
+<artworks />
+<dbpResource>http://dbpedia.org/resource/Richard_Paul_Lohse</dbpResource>
+<abstract>Richard Paul Lohse (* 13. September 1902 in Zürich; † 16. September 1988 in Zürich) war ein Schweizer Maler und Grafiker und einer der Hauptvertreter der konkreten und konstruktiven Kunst.</abstract>
+<wikilink>http://en.wikipedia.org/wiki/Richard_Paul_Lohse?oldid=602967921</wikilink>
+</Person>
