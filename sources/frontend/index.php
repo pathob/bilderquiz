@@ -97,7 +97,7 @@ if(isset($_POST['selection'])){
   </div>
   <section class="answers">
   	<div class="container">
-    	<form action="<?php echo htmlspecialchars($_SERVER["PHP_SELF"]); ?>" method="post">
+    	<form action="." method="post">
         <div class="row">
           <div class="col-sm-6">
           	<div class="answerChar">A</div>

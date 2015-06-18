@@ -1,11 +1,16 @@
 <IfModule mod_rewrite.c>
 
+DirectoryIndex index.html index.php
+
 RewriteEngine On
 RewriteBase /
 
+RewriteRule ^api/(.*)$ backend/api.php?request=$1 [QSA,NC,L]
+
 RewriteCond %{REQUEST_FILENAME} !-f
 RewriteCond %{REQUEST_FILENAME} !-d
+RewriteRule ^(.*)$ frontend/$1 [L]
 
-RewriteRule api/(.*)$ backend/api.php?request=$1 [QSA,NC,L]
+RewriteRule ^/?$ frontend/ [L]
 
 </IfModule>
