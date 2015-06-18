@@ -1,3 +1,11 @@
+# Frontend
+
+Das Basisverzeichnis wird (bis auf Anfragen auf das "`api`-Verzeichnis") auf den Ordner `frontend` weitergeleitet.
+
+Test-URL: http://bilderquiz.hobusch.net/
+
+Ich werde einen Raspi aufsetzen, der sich automatisch immer die neuesten Commits aus dem Repo ziehen wird. Folgt am Wochenende.
+
 # Backend
 
 ## REST API
