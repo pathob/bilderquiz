@@ -1,0 +1,28 @@
+<Person>
+<name>Ludwig Borchardt</name>
+<variantName>
+<XML_Serializer_Tag>Lodovico Borchardt</XML_Serializer_Tag>
+<XML_Serializer_Tag>Ludovicus Borchardt</XML_Serializer_Tag>
+</variantName>
+<thumbnail>https://commons.wikimedia.org/wiki/Special:FilePath/Abusir.jpg?width=270</thumbnail>
+<birthEN>October 5, 1863</birthEN>
+<birthDE>5. Oktober 1863</birthDE>
+<deathEN>August 12, 1938</deathEN>
+<deathDE>12. August 1938</deathDE>
+<birthPlace>
+<XML_Serializer_Tag>Berlin</XML_Serializer_Tag>
+</birthPlace>
+<deathPlace>
+<XML_Serializer_Tag>Paris</XML_Serializer_Tag>
+</deathPlace>
+<professionOrOccupation>
+<XML_Serializer_Tag>Ägyptologe</XML_Serializer_Tag>
+<XML_Serializer_Tag>Architekt</XML_Serializer_Tag>
+</professionOrOccupation>
+<dbpResource>http://dbpedia.org/resource/Ludwig_Borchardt</dbpResource>
+<abstract>Ludwig Borchardt (* 5. Oktober 1863 in Berlin; † 12. August 1938 in Paris) war ein deutscher Ägyptologe und Architekt.</abstract>
+<wikilink>http://en.wikipedia.org/wiki/Ludwig_Borchardt?oldid=599774276</wikilink>
+<artworks />
+<buildings />
+<books />
+</Person>

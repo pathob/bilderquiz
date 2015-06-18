@@ -22,12 +22,15 @@
 <XML_Serializer_Tag>Maler</XML_Serializer_Tag>
 <XML_Serializer_Tag>Bildhauer</XML_Serializer_Tag>
 </professionOrOccupation>
+<dbpResource>http://dbpedia.org/resource/Amedeo_Modigliani</dbpResource>
+<abstract>Amedeo Modigliani (* 12. Juli 1884 in Livorno; † 24. Januar 1920 in Paris) war ein italienischer Zeichner, Maler und Bildhauer. Die heutige Bekanntheit beruht vor allem auf seinen Aktgemälden, die zu seiner Zeit als skandalös empfunden wurden und erst später Akzeptanz fanden. Seine Jugend verbrachte Modigliani in Italien, wo er die Kunst der Antike und Renaissance studierte, bis er 1906 nach Paris zog. Dort kam er in Kontakt mit bedeutenden Künstlern wie Pablo Picasso und Constantin Brâncuși. Sein Leben war von Lungenkrankheiten geprägt. In einem Fiebertraum soll er seine Berufung zur Kunst erkannt haben, mit 35 Jahren starb er an Tuberkulose. Die Informationen über Modiglianis Leben beruhen auf nur wenigen verbürgten Dokumenten, so dass es vor allem nach seinem Tod zur Legendenbildung um ihn kam.Modiglianis Gesamtwerk umfasst vor allem Gemälde und Zeichnungen. Von 1909 bis 1914 widmete er sich jedoch hauptsächlich der Bildhauerei. Das Hauptmotiv ist der Mensch, sowohl in den Bildern als auch bei den Skulpturen. Daneben gibt es wenige Bilder mit Landschaftsmotiven. Interieurszenen und Stillleben von Modigliani sind nicht bekannt. Modigliani bezog sich in seinen Werken oft auf die Renaissance, griff aber auch andere Elemente wie die zu seiner Zeit populäre afrikanische Kunst auf. Hingegen lässt er sich keiner der zeitgenössischen Stilrichtungen zuordnen, wie etwa dem Kubismus oder dem Fauvismus. Während seines Lebens hatte Amedeo Modigliani nur wenig Erfolg mit seiner Kunst, erst nach seinem Tod erreichte er größere Popularität und seine Kunstwerke erzielten hohe Preise.</abstract>
+<wikilink>http://en.wikipedia.org/wiki/Amedeo_Modigliani?oldid=606262982</wikilink>
 <artworks>
 <XML_Serializer_Tag>
-<painting>
+<artwork>
 <type>uri</type>
 <value>http://dbpedia.org/resource/Nude_Sitting_on_a_Divan</value>
-</painting>
+</artwork>
 <thumbnail>
 <type>uri</type>
 <value>http://commons.wikimedia.org/wiki/Special:FilePath/Amedeo_Modigliani_063.jpg?width=300</value>
@@ -41,12 +44,16 @@
 <type>uri</type>
 <value>http://en.wikipedia.org/wiki/Nude_Sitting_on_a_Divan?oldid=558569275</value>
 </wikilink>
+<type>
+<type>uri</type>
+<value>http://dbpedia.org/resource/Oil_painting</value>
+</type>
 </XML_Serializer_Tag>
 <XML_Serializer_Tag>
-<painting>
+<artwork>
 <type>uri</type>
 <value>http://dbpedia.org/resource/The_Boy_(Modigliani)</value>
-</painting>
+</artwork>
 <thumbnail>
 <type>uri</type>
 <value>http://commons.wikimedia.org/wiki/Special:FilePath/Modigliani,_Amedeo_-_The_Boy_-_Google_Art_Project.jpg?width=300</value>
@@ -60,9 +67,12 @@
 <type>uri</type>
 <value>http://en.wikipedia.org/wiki/The_Boy_(Modigliani)?oldid=534264327</value>
 </wikilink>
+<type>
+<type>uri</type>
+<value>http://dbpedia.org/resource/Oil_painting</value>
+</type>
 </XML_Serializer_Tag>
 </artworks>
-<dbpResource>http://dbpedia.org/resource/Amedeo_Modigliani</dbpResource>
-<abstract>Amedeo Modigliani (* 12. Juli 1884 in Livorno; † 24. Januar 1920 in Paris) war ein italienischer Zeichner, Maler und Bildhauer. Die heutige Bekanntheit beruht vor allem auf seinen Aktgemälden, die zu seiner Zeit als skandalös empfunden wurden und erst später Akzeptanz fanden. Seine Jugend verbrachte Modigliani in Italien, wo er die Kunst der Antike und Renaissance studierte, bis er 1906 nach Paris zog. Dort kam er in Kontakt mit bedeutenden Künstlern wie Pablo Picasso und Constantin Brâncuși. Sein Leben war von Lungenkrankheiten geprägt. In einem Fiebertraum soll er seine Berufung zur Kunst erkannt haben, mit 35 Jahren starb er an Tuberkulose. Die Informationen über Modiglianis Leben beruhen auf nur wenigen verbürgten Dokumenten, so dass es vor allem nach seinem Tod zur Legendenbildung um ihn kam.Modiglianis Gesamtwerk umfasst vor allem Gemälde und Zeichnungen. Von 1909 bis 1914 widmete er sich jedoch hauptsächlich der Bildhauerei. Das Hauptmotiv ist der Mensch, sowohl in den Bildern als auch bei den Skulpturen. Daneben gibt es wenige Bilder mit Landschaftsmotiven. Interieurszenen und Stillleben von Modigliani sind nicht bekannt. Modigliani bezog sich in seinen Werken oft auf die Renaissance, griff aber auch andere Elemente wie die zu seiner Zeit populäre afrikanische Kunst auf. Hingegen lässt er sich keiner der zeitgenössischen Stilrichtungen zuordnen, wie etwa dem Kubismus oder dem Fauvismus. Während seines Lebens hatte Amedeo Modigliani nur wenig Erfolg mit seiner Kunst, erst nach seinem Tod erreichte er größere Popularität und seine Kunstwerke erzielten hohe Preise.</abstract>
-<wikilink>http://en.wikipedia.org/wiki/Amedeo_Modigliani?oldid=606262982</wikilink>
+<buildings />
+<books />
 </Person>

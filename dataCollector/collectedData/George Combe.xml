@@ -1,0 +1,26 @@
+<Person>
+<name>George Combe</name>
+<variantName>
+<XML_Serializer_Tag>Geo. Combe</XML_Serializer_Tag>
+<XML_Serializer_Tag>Georg Combe</XML_Serializer_Tag>
+</variantName>
+<thumbnail>https://commons.wikimedia.org/wiki/Special:FilePath/George_Combe01.jpg?width=270</thumbnail>
+<birthEN>1788</birthEN>
+<birthDE>1788</birthDE>
+<deathEN>1858</deathEN>
+<deathDE>1858</deathDE>
+<birthPlace />
+<deathPlace />
+<professionOrOccupation>
+<XML_Serializer_Tag>Jurist</XML_Serializer_Tag>
+<XML_Serializer_Tag>Arzt</XML_Serializer_Tag>
+<XML_Serializer_Tag>Schriftsteller</XML_Serializer_Tag>
+<XML_Serializer_Tag>Philosoph</XML_Serializer_Tag>
+</professionOrOccupation>
+<dbpResource>http://dbpedia.org/resource/George_Combe</dbpResource>
+<abstract>George Combe (* 21. Oktober 1788 in Edinburgh; † 14. August 1858 in Farnham, England) war ein schottischer Rechtsanwalt und Schriftsteller, der sich mit Phrenologie und Bildung beschäftigt hat.</abstract>
+<wikilink>http://en.wikipedia.org/wiki/George_Combe?oldid=593190828</wikilink>
+<artworks />
+<buildings />
+<books />
+</Person>

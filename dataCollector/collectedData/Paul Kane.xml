@@ -15,12 +15,15 @@
 <professionOrOccupation>
 <XML_Serializer_Tag>Maler</XML_Serializer_Tag>
 </professionOrOccupation>
+<dbpResource>http://dbpedia.org/resource/Paul_Kane</dbpResource>
+<abstract>Paul Kane (* 3. September 1810 in Mallow, Grafschaft Cork, Irland; † 20. Februar 1871 in Toronto, Kanada) war ein einflussreicher kanadischer Maler irischer Herkunft. Berühmt wurde Kane für seine Gemälde, die das Leben der nordamerikanischen Indianer darstellen. Bis heute sind seine Gemälde und insbesondere seine Zeichnungen eine wichtige Quelle für Ethnologen. Kane gilt als einer der ersten kanadischen Künstler, die von ihrer Kunst leben konnten.Der in Toronto aufgewachsene Kane erwarb seine malerischen Kenntnisse vor allem während einer Studienreise nach Europa, bei der er Gemälde europäischer Meister kopierte. Zwei Reisen führten ihn in das damals noch weitgehend unerschlossene Gebiet des kanadischen Westens. Die erste unternahm er 1845 und führte ihn von Toronto nach Sault Ste. Marie und zurück. Die zweite Reise, die er mit Unterstützung der Hudson’s Bay Company unternahm, währte von 1846 bis 1848. Sie führte ihn von Toronto über die Rocky Mountains nach Fort Vancouver und Fort Victoria in das Oregon-Territorium und wieder zurück nach Toronto. Auf beiden Reisen zeichnete und malte Kane nordamerikanische Indianer und dokumentierte auf diesem Weg ihren Lebensstil. Die 120 Ölgemälde, die er im Anschluss an seine Reisen nach seinen Zeichnungen und Skizzen malte, zählen heute zum kanadischen Kulturerbe.1859 veröffentlichte Kane ein Buch über die Indianer mit dem Titel Wanderungen eines Künstlers unter den Indianern Nordamerikas (Wanderings of an Artist among the Indians of North America), das er mit seinen Gemälden illustrierte. Dieses Werk war ein großer Erfolg und wurde auch in deutscher, französischer und dänischer Übersetzung veröffentlicht.</abstract>
+<wikilink>http://en.wikipedia.org/wiki/Paul_Kane?oldid=606607161</wikilink>
 <artworks>
 <XML_Serializer_Tag>
-<painting>
+<artwork>
 <type>uri</type>
 <value>http://dbpedia.org/resource/Scene_in_the_Northwest:_Portrait_of_John_Henry_Lefroy</value>
-</painting>
+</artwork>
 <thumbnail>
 <type>uri</type>
 <value>http://commons.wikimedia.org/wiki/Special:FilePath/Kane_The_Surveyor.jpg?width=300</value>
@@ -39,9 +42,12 @@
 <type>uri</type>
 <value>http://en.wikipedia.org/wiki/Scene_in_the_Northwest:_Portrait_of_John_Henry_Lefroy?oldid=590854751</value>
 </wikilink>
+<type>
+<type>uri</type>
+<value>http://dbpedia.org/resource/Oil_painting</value>
+</type>
 </XML_Serializer_Tag>
 </artworks>
-<dbpResource>http://dbpedia.org/resource/Paul_Kane</dbpResource>
-<abstract>Paul Kane (* 3. September 1810 in Mallow, Grafschaft Cork, Irland; † 20. Februar 1871 in Toronto, Kanada) war ein einflussreicher kanadischer Maler irischer Herkunft. Berühmt wurde Kane für seine Gemälde, die das Leben der nordamerikanischen Indianer darstellen. Bis heute sind seine Gemälde und insbesondere seine Zeichnungen eine wichtige Quelle für Ethnologen. Kane gilt als einer der ersten kanadischen Künstler, die von ihrer Kunst leben konnten.Der in Toronto aufgewachsene Kane erwarb seine malerischen Kenntnisse vor allem während einer Studienreise nach Europa, bei der er Gemälde europäischer Meister kopierte. Zwei Reisen führten ihn in das damals noch weitgehend unerschlossene Gebiet des kanadischen Westens. Die erste unternahm er 1845 und führte ihn von Toronto nach Sault Ste. Marie und zurück. Die zweite Reise, die er mit Unterstützung der Hudson’s Bay Company unternahm, währte von 1846 bis 1848. Sie führte ihn von Toronto über die Rocky Mountains nach Fort Vancouver und Fort Victoria in das Oregon-Territorium und wieder zurück nach Toronto. Auf beiden Reisen zeichnete und malte Kane nordamerikanische Indianer und dokumentierte auf diesem Weg ihren Lebensstil. Die 120 Ölgemälde, die er im Anschluss an seine Reisen nach seinen Zeichnungen und Skizzen malte, zählen heute zum kanadischen Kulturerbe.1859 veröffentlichte Kane ein Buch über die Indianer mit dem Titel Wanderungen eines Künstlers unter den Indianern Nordamerikas (Wanderings of an Artist among the Indians of North America), das er mit seinen Gemälden illustrierte. Dieses Werk war ein großer Erfolg und wurde auch in deutscher, französischer und dänischer Übersetzung veröffentlicht.</abstract>
-<wikilink>http://en.wikipedia.org/wiki/Paul_Kane?oldid=606607161</wikilink>
+<buildings />
+<books />
 </Person>

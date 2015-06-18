@@ -1,0 +1,34 @@
+<Person>
+<name>Georg Weerth</name>
+<variantName>
+<XML_Serializer_Tag>Geaoerge Weierte</XML_Serializer_Tag>
+<XML_Serializer_Tag>Georg Veert</XML_Serializer_Tag>
+<XML_Serializer_Tag>George Weerth</XML_Serializer_Tag>
+<XML_Serializer_Tag>Giʾūrg Wīrt</XML_Serializer_Tag>
+<XML_Serializer_Tag>Wei-erh-tè</XML_Serializer_Tag>
+<XML_Serializer_Tag>Georg Ludwig Weerth</XML_Serializer_Tag>
+</variantName>
+<thumbnail>https://commons.wikimedia.org/wiki/Special:FilePath/Georg_Weerth.jpg?width=270</thumbnail>
+<birthEN>February 17, 1822</birthEN>
+<birthDE>17. Februar 1822</birthDE>
+<deathEN>July 30, 1856</deathEN>
+<deathDE>30. Juli 1856</deathDE>
+<birthPlace>
+<XML_Serializer_Tag>Detmold</XML_Serializer_Tag>
+</birthPlace>
+<deathPlace>
+<XML_Serializer_Tag>Havanna</XML_Serializer_Tag>
+</deathPlace>
+<professionOrOccupation>
+<XML_Serializer_Tag>Schriftsteller</XML_Serializer_Tag>
+<XML_Serializer_Tag>Kaufmann</XML_Serializer_Tag>
+<XML_Serializer_Tag>Satiriker</XML_Serializer_Tag>
+<XML_Serializer_Tag>Journalist</XML_Serializer_Tag>
+</professionOrOccupation>
+<dbpResource>http://dbpedia.org/resource/Georg_Weerth</dbpResource>
+<abstract>Georg Ludwig Weerth (* 17. Februar 1822 in Detmold; † 30. Juli 1856 in Havanna, Kuba) war ein deutscher Schriftsteller, Satiriker, Journalist und Kaufmann.</abstract>
+<wikilink>http://en.wikipedia.org/wiki/Georg_Weerth?oldid=605953297</wikilink>
+<artworks />
+<buildings />
+<books />
+</Person>

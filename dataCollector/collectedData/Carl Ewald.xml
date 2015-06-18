@@ -1,0 +1,28 @@
+<Person>
+<name>Carl Ewald</name>
+<variantName>
+<XML_Serializer_Tag>Karl Ewald</XML_Serializer_Tag>
+<XML_Serializer_Tag>Ewald Ringsdorff</XML_Serializer_Tag>
+</variantName>
+<thumbnail>https://commons.wikimedia.org/wiki/Special:FilePath/Carl_Ewald_by_Frederik_Riise.jpg?width=270</thumbnail>
+<birthEN>October 15, 1856</birthEN>
+<birthDE>15. Oktober 1856</birthDE>
+<deathEN>February 23, 1908</deathEN>
+<deathDE>23. Februar 1908</deathDE>
+<birthPlace>
+<XML_Serializer_Tag>Bredelykke</XML_Serializer_Tag>
+</birthPlace>
+<deathPlace>
+<XML_Serializer_Tag>Kopenhagen</XML_Serializer_Tag>
+</deathPlace>
+<professionOrOccupation>
+<XML_Serializer_Tag>Schriftsteller</XML_Serializer_Tag>
+<XML_Serializer_Tag>Kinderbuchautor</XML_Serializer_Tag>
+</professionOrOccupation>
+<dbpResource>http://dbpedia.org/resource/Carl_Ewald</dbpResource>
+<abstract>Karl Ewald (dänisch Carl Ewald; * 15. Oktober 1856 auf Bredelykke bei Gramm in Südjütland; † 23. Februar 1908 in Charlottenburg bei Kopenhagen) war ein dänischer Schriftsteller.</abstract>
+<wikilink>http://en.wikipedia.org/wiki/Carl_Ewald?oldid=586919451</wikilink>
+<artworks />
+<buildings />
+<books />
+</Person>

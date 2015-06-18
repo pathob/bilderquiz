@@ -1,0 +1,73 @@
+<Person>
+<name>Dietrich Bonhoeffer</name>
+<variantName>
+<XML_Serializer_Tag>Ditrich Bonchëffer</XML_Serializer_Tag>
+<XML_Serializer_Tag>D. Bonchëffer</XML_Serializer_Tag>
+<XML_Serializer_Tag>Dītorihi Bonheffā</XML_Serializer_Tag>
+<XML_Serializer_Tag>... Bonheffā</XML_Serializer_Tag>
+<XML_Serializer_Tag>... Bonheffâ</XML_Serializer_Tag>
+<XML_Serializer_Tag>Pan huo hua</XML_Serializer_Tag>
+<XML_Serializer_Tag>Panhuohua</XML_Serializer_Tag>
+<XML_Serializer_Tag>Bon hoe peo</XML_Serializer_Tag>
+<XML_Serializer_Tag>Bonhoepeo</XML_Serializer_Tag>
+<XML_Serializer_Tag>Dītrihs Bonhēfers</XML_Serializer_Tag>
+<XML_Serializer_Tag>Ditrich Boncheffer</XML_Serializer_Tag>
+<XML_Serializer_Tag>Dītrīš Būnhūfir</XML_Serializer_Tag>
+<XML_Serializer_Tag>迪特里希 朋霍费尔</XML_Serializer_Tag>
+</variantName>
+<thumbnail>https://commons.wikimedia.org/wiki/Special:FilePath/Bundesarchiv_Bild_146-1987-074-16,_Dietrich_Bonhoeffer.jpg?width=270</thumbnail>
+<birthEN>February 4, 1906</birthEN>
+<birthDE>4. Februar 1906</birthDE>
+<deathEN>April 9, 1945</deathEN>
+<deathDE>9. April 1945</deathDE>
+<birthPlace>
+<XML_Serializer_Tag>Breslau</XML_Serializer_Tag>
+</birthPlace>
+<deathPlace>
+<XML_Serializer_Tag>Flossenbürg</XML_Serializer_Tag>
+</deathPlace>
+<professionOrOccupation>
+<XML_Serializer_Tag>Evangelischer Theologe</XML_Serializer_Tag>
+<XML_Serializer_Tag>Lyriker</XML_Serializer_Tag>
+</professionOrOccupation>
+<dbpResource>http://dbpedia.org/resource/Dietrich_Bonhoeffer</dbpResource>
+<abstract>Dietrich Bonhoeffer (* 4. Februar 1906 in Breslau; † 9. April 1945 im KZ Flossenbürg) war ein lutherischer Theologe, profilierter Vertreter der Bekennenden Kirche und am deutschen Widerstand gegen den Nationalsozialismus beteiligt.Mit 24 Jahren habilitiert, wurde Bonhoeffer nach Auslandsaufenthalten Privatdozent für Evangelische Theologie in Berlin sowie Jugendreferent in der Vorgängerorganisation des Ökumenischen Rates der Kirchen. Ab April 1933 nahm er öffentlich Stellung gegen die nationalsozialistische Judenverfolgung und engagierte sich im Kirchenkampf gegen die Deutschen Christen und den Arierparagraphen. Ab 1935 leitete er das Predigerseminar der Bekennenden Kirche in Finkenwalde, das, später illegal, bis 1940 bestand. Etwa ab 1938 schloss er sich dem Widerstand um Wilhelm Franz Canaris an. 1940 erhielt er Redeverbot und 1941 Schreibverbot. Am 5. April 1943 wurde er verhaftet und zwei Jahre später auf ausdrücklichen Befehl Adolf Hitlers als einer der letzten NS-Gegner, die mit dem Attentat vom 20. Juli 1944 in Verbindung gebracht wurden, hingerichtet.Als gegenüber seinen Lehrern eigenständiger Theologe betonte Bonhoeffer die Gegenwart Jesu Christi in der weltweiten Gemeinschaft der Christen, die Bedeutung der Bergpredigt und Nachfolge Jesu und die Übereinstimmung von Glauben und Handeln, die er persönlich vorlebte, insbesondere in der Zeit des Nationalsozialismus. In seinen Gefängnisbriefen entwickelte er einflussreiche, wenn auch fragmentarische Gedanken für eine künftige Ausrichtung der Kirche nach außen in Solidarität mit den Bedürftigen und zu einer nichtreligiösen Interpretation von Bibel, kirchlicher Tradition und Gottesdienst.</abstract>
+<wikilink>http://en.wikipedia.org/wiki/Dietrich_Bonhoeffer?oldid=604792999</wikilink>
+<artworks />
+<buildings />
+<books>
+<XML_Serializer_Tag>
+<book>
+<type>uri</type>
+<value>http://dbpedia.org/resource/The_Cost_of_Discipleship</value>
+</book>
+<author>
+<type>uri</type>
+<value>http://dbpedia.org/resource/Dietrich_Bonhoeffer</value>
+</author>
+<released>
+<type>typed-literal</type>
+<datatype>http://www.w3.org/2001/XMLSchema#integer</datatype>
+<value>1937</value>
+</released>
+<wikilink>
+<type>uri</type>
+<value>http://en.wikipedia.org/wiki/The_Cost_of_Discipleship?oldid=604235952</value>
+</wikilink>
+</XML_Serializer_Tag>
+<XML_Serializer_Tag>
+<book>
+<type>uri</type>
+<value>http://dbpedia.org/resource/Life_Together</value>
+</book>
+<author>
+<type>uri</type>
+<value>http://dbpedia.org/resource/Dietrich_Bonhoeffer</value>
+</author>
+<wikilink>
+<type>uri</type>
+<value>http://en.wikipedia.org/wiki/Life_Together?oldid=592982205</value>
+</wikilink>
+</XML_Serializer_Tag>
+</books>
+</Person>

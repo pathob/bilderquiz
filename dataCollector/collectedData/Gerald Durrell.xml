@@ -1,0 +1,123 @@
+<Person>
+<name>Gerald Durrell</name>
+<variantName>
+<XML_Serializer_Tag>Gerald Malcolm Durrell</XML_Serializer_Tag>
+<XML_Serializer_Tag>Gerald M. Durrell</XML_Serializer_Tag>
+<XML_Serializer_Tag>Džeral&apos;d Darrell</XML_Serializer_Tag>
+<XML_Serializer_Tag>G. Darel</XML_Serializer_Tag>
+<XML_Serializer_Tag>G. Darrell</XML_Serializer_Tag>
+</variantName>
+<thumbnail>https://commons.wikimedia.org/wiki/Special:FilePath/Gerald_Durrell_statue_2.jpg?width=270</thumbnail>
+<birthEN>January 7, 1925</birthEN>
+<birthDE>7. Januar 1925</birthDE>
+<deathEN>January 30, 1930</deathEN>
+<deathDE>30. Januar 1930</deathDE>
+<birthPlace>
+<XML_Serializer_Tag>Jamshedpur, Indien</XML_Serializer_Tag>
+</birthPlace>
+<deathPlace>
+<XML_Serializer_Tag>Jersey</XML_Serializer_Tag>
+</deathPlace>
+<professionOrOccupation>
+<XML_Serializer_Tag>Zoologe</XML_Serializer_Tag>
+<XML_Serializer_Tag>Schriftsteller</XML_Serializer_Tag>
+<XML_Serializer_Tag>Drehbuchautor</XML_Serializer_Tag>
+</professionOrOccupation>
+<dbpResource>http://dbpedia.org/resource/Gerald_Durrell</dbpResource>
+<abstract>Gerald (&apos;Gerry&apos;) Malcolm Durrell (* 7. Januar 1925 in Jamshadpur, Indien; † 30. Januar 1995 auf Jersey) war ein britischer autodidaktischer Zoologe und Autor. Er ist der jüngste Bruder des mehrfach für den Literaturnobelpreis vorgeschlagenen Schriftstellers und Diplomaten Lawrence Durrell.</abstract>
+<wikilink>http://en.wikipedia.org/wiki/Gerald_Durrell?oldid=605601398</wikilink>
+<artworks />
+<buildings />
+<books>
+<XML_Serializer_Tag>
+<book>
+<type>uri</type>
+<value>http://dbpedia.org/resource/The_Drunken_Forest</value>
+</book>
+<author>
+<type>uri</type>
+<value>http://dbpedia.org/resource/Gerald_Durrell</value>
+</author>
+<released>
+<type>typed-literal</type>
+<datatype>http://www.w3.org/2001/XMLSchema#integer</datatype>
+<value>1956</value>
+</released>
+<wikilink>
+<type>uri</type>
+<value>http://en.wikipedia.org/wiki/The_Drunken_Forest?oldid=543138085</value>
+</wikilink>
+</XML_Serializer_Tag>
+<XML_Serializer_Tag>
+<book>
+<type>uri</type>
+<value>http://dbpedia.org/resource/My_Family_and_Other_Animals</value>
+</book>
+<author>
+<type>uri</type>
+<value>http://dbpedia.org/resource/Gerald_Durrell</value>
+</author>
+<released>
+<type>typed-literal</type>
+<datatype>http://www.w3.org/2001/XMLSchema#integer</datatype>
+<value>1956</value>
+</released>
+<wikilink>
+<type>uri</type>
+<value>http://en.wikipedia.org/wiki/My_Family_and_Other_Animals?oldid=606061394</value>
+</wikilink>
+</XML_Serializer_Tag>
+<XML_Serializer_Tag>
+<book>
+<type>uri</type>
+<value>http://dbpedia.org/resource/Birds,_Beasts,_and_Relatives</value>
+</book>
+<author>
+<type>uri</type>
+<value>http://dbpedia.org/resource/Gerald_Durrell</value>
+</author>
+<released>
+<type>typed-literal</type>
+<datatype>http://www.w3.org/2001/XMLSchema#integer</datatype>
+<value>1969</value>
+</released>
+<wikilink>
+<type>uri</type>
+<value>http://en.wikipedia.org/wiki/Birds,_Beasts,_and_Relatives?oldid=598720226</value>
+</wikilink>
+</XML_Serializer_Tag>
+<XML_Serializer_Tag>
+<book>
+<type>uri</type>
+<value>http://dbpedia.org/resource/The_Garden_of_the_Gods</value>
+</book>
+<author>
+<type>uri</type>
+<value>http://dbpedia.org/resource/Gerald_Durrell</value>
+</author>
+<released>
+<type>typed-literal</type>
+<datatype>http://www.w3.org/2001/XMLSchema#integer</datatype>
+<value>1978</value>
+</released>
+<wikilink>
+<type>uri</type>
+<value>http://en.wikipedia.org/wiki/The_Garden_of_the_Gods?oldid=592853991</value>
+</wikilink>
+</XML_Serializer_Tag>
+<XML_Serializer_Tag>
+<book>
+<type>uri</type>
+<value>http://dbpedia.org/resource/The_Overloaded_Ark</value>
+</book>
+<author>
+<type>uri</type>
+<value>http://dbpedia.org/resource/Gerald_Durrell</value>
+</author>
+<wikilink>
+<type>uri</type>
+<value>http://en.wikipedia.org/wiki/The_Overloaded_Ark?oldid=545373632</value>
+</wikilink>
+</XML_Serializer_Tag>
+</books>
+</Person>

@@ -1,0 +1,40 @@
+<Person>
+<name>Giordano Bruno</name>
+<variantName>
+<XML_Serializer_Tag>Filippo Bruno</XML_Serializer_Tag>
+<XML_Serializer_Tag>Giordano Bruni</XML_Serializer_Tag>
+<XML_Serializer_Tag>Jordano Bruno</XML_Serializer_Tag>
+<XML_Serializer_Tag>Bruno, Nolano</XML_Serializer_Tag>
+<XML_Serializer_Tag>Philotheus J. Brunus</XML_Serializer_Tag>
+<XML_Serializer_Tag>Brunus, Nolanus</XML_Serializer_Tag>
+<XML_Serializer_Tag>Iordanus Bruno</XML_Serializer_Tag>
+<XML_Serializer_Tag>Iordanus Brunus</XML_Serializer_Tag>
+<XML_Serializer_Tag>Jordanus Brunus</XML_Serializer_Tag>
+<XML_Serializer_Tag>Giordano Bruno</XML_Serializer_Tag>
+<XML_Serializer_Tag>Giord. Bruno</XML_Serializer_Tag>
+<XML_Serializer_Tag>Giordano Bruno</XML_Serializer_Tag>
+<XML_Serializer_Tag>, Nolanus</XML_Serializer_Tag>
+<XML_Serializer_Tag>Bruno Nolano</XML_Serializer_Tag>
+<XML_Serializer_Tag>Džordano Bruno</XML_Serializer_Tag>
+<XML_Serializer_Tag>Jordanus Brunus Nolanus</XML_Serializer_Tag>
+</variantName>
+<thumbnail>https://commons.wikimedia.org/wiki/Special:FilePath/Giordano_Bruno_cropped.jpg?width=270</thumbnail>
+<birthEN>1548</birthEN>
+<birthDE>1548</birthDE>
+<deathEN>1600</deathEN>
+<deathDE>1600</deathDE>
+<birthPlace />
+<deathPlace>
+<XML_Serializer_Tag>Rom</XML_Serializer_Tag>
+</deathPlace>
+<professionOrOccupation>
+<XML_Serializer_Tag>Philosoph</XML_Serializer_Tag>
+<XML_Serializer_Tag>Hochschullehrer</XML_Serializer_Tag>
+</professionOrOccupation>
+<dbpResource>http://dbpedia.org/resource/Giordano_Bruno</dbpResource>
+<abstract>Giordano Bruno (* Januar 1548 in Nola; † 17. Februar 1600 in Rom; eigentlich Filippo Bruno) war ein italienischer Priester, Dichter, Philosoph und Astronom. Er wurde durch die Inquisition der Ketzerei und Magie für schuldig befunden und vom Gouverneur von Rom zum Tod auf dem Scheiterhaufen verurteilt. Am 12. März 2000 erklärte Papst Johannes Paul II. nach Beratung mit dem päpstlichen Kulturrat und einer theologischen Kommission, die Hinrichtung sei nunmehr auch aus kirchlicher Sicht als Unrecht zu betrachten.</abstract>
+<wikilink>http://en.wikipedia.org/wiki/Giordano_Bruno?oldid=606250305</wikilink>
+<artworks />
+<buildings />
+<books />
+</Person>

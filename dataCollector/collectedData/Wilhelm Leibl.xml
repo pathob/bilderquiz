@@ -19,8 +19,10 @@
 <XML_Serializer_Tag>Maler</XML_Serializer_Tag>
 <XML_Serializer_Tag>Radierer</XML_Serializer_Tag>
 </professionOrOccupation>
-<artworks />
 <dbpResource>http://dbpedia.org/resource/Wilhelm_Leibl</dbpResource>
 <abstract>Wilhelm Maria Hubertus Leibl (* 23. Oktober 1844 in Köln; † 4. Dezember 1900 in Würzburg) war als Maler ein bedeutender Vertreter des Realismus in Deutschland.</abstract>
 <wikilink>http://en.wikipedia.org/wiki/Wilhelm_Leibl?oldid=600093363</wikilink>
+<artworks />
+<buildings />
+<books />
 </Person>

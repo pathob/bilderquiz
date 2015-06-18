@@ -1,0 +1,40 @@
+<Person>
+<name>Elizabeth Barrett Browning</name>
+<variantName>
+<XML_Serializer_Tag>Elizabeth Barrett Browning</XML_Serializer_Tag>
+<XML_Serializer_Tag>Elizabeth Barret</XML_Serializer_Tag>
+<XML_Serializer_Tag>Elizabeth Barrett-Browning</XML_Serializer_Tag>
+<XML_Serializer_Tag>Elisabeth Barret-Browning</XML_Serializer_Tag>
+<XML_Serializer_Tag>Elisabeth Barrett Browning</XML_Serializer_Tag>
+<XML_Serializer_Tag>Elisabeth Barret Browning</XML_Serializer_Tag>
+<XML_Serializer_Tag>Elizabeth Barett</XML_Serializer_Tag>
+<XML_Serializer_Tag>Elizabeth Barrett</XML_Serializer_Tag>
+<XML_Serializer_Tag>Elizabeth Barrett Barrett</XML_Serializer_Tag>
+<XML_Serializer_Tag>Elizabeth Barrett Barrett</XML_Serializer_Tag>
+<XML_Serializer_Tag>Elisabetta Barrett Browning</XML_Serializer_Tag>
+<XML_Serializer_Tag>Elisabetta Barret Browning</XML_Serializer_Tag>
+<XML_Serializer_Tag>Elizabeth B. Browning</XML_Serializer_Tag>
+<XML_Serializer_Tag>Elizabeth Barrettová-Browningová</XML_Serializer_Tag>
+<XML_Serializer_Tag>Elizabeth B. Moulton-Barrett</XML_Serializer_Tag>
+</variantName>
+<thumbnail>https://commons.wikimedia.org/wiki/Special:FilePath/ElizabethBarrettBrowning.jpg?width=270</thumbnail>
+<birthEN>March 6, 1806</birthEN>
+<birthDE>6. März 1806</birthDE>
+<deathEN>June 29, 1861</deathEN>
+<deathDE>29. Juni 1861</deathDE>
+<birthPlace>
+<XML_Serializer_Tag>Coxhoe Hall</XML_Serializer_Tag>
+</birthPlace>
+<deathPlace>
+<XML_Serializer_Tag>Florenz</XML_Serializer_Tag>
+</deathPlace>
+<professionOrOccupation>
+<XML_Serializer_Tag>Schriftstellerin</XML_Serializer_Tag>
+</professionOrOccupation>
+<dbpResource>http://dbpedia.org/resource/Elizabeth_Barrett_Browning</dbpResource>
+<abstract>Elizabeth Barrett Browning (* 6. März 1806 in Durham, England als Elizabeth Barrett Moulton-Barrett; † 29. Juni 1861 in Florenz) war eine englische Dichterin.</abstract>
+<wikilink>http://en.wikipedia.org/wiki/Elizabeth_Barrett_Browning?oldid=606424611</wikilink>
+<artworks />
+<buildings />
+<books />
+</Person>

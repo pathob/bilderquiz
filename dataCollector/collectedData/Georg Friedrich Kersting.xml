@@ -19,12 +19,15 @@
 <professionOrOccupation>
 <XML_Serializer_Tag>Maler</XML_Serializer_Tag>
 </professionOrOccupation>
+<dbpResource>http://dbpedia.org/resource/Georg_Friedrich_Kersting</dbpResource>
+<abstract>Georg Friedrich Kersting (* 31. Oktober 1785 in Güstrow; † 1. Juli 1847 in Meißen) war ein deutscher Maler.Kersting war unter anderem mit Caspar David Friedrich befreundet und von diesem beeinflusst.Er gehörte zu dem Kreis der Romantiker und entwickelte sich zu einem der bedeutendsten Vertreter der Interieurmalerei des Biedermeier.</abstract>
+<wikilink>http://en.wikipedia.org/wiki/Georg_Friedrich_Kersting?oldid=579979674</wikilink>
 <artworks>
 <XML_Serializer_Tag>
-<painting>
+<artwork>
 <type>uri</type>
 <value>http://dbpedia.org/resource/Caspar_David_Friedrich_in_his_Studio</value>
-</painting>
+</artwork>
 <thumbnail>
 <type>uri</type>
 <value>http://commons.wikimedia.org/wiki/Special:FilePath/Georg_Friedrich_Kersting_002.jpg?width=300</value>
@@ -48,9 +51,12 @@
 <type>uri</type>
 <value>http://en.wikipedia.org/wiki/Caspar_David_Friedrich_in_his_Studio?oldid=589473092</value>
 </wikilink>
+<type>
+<type>uri</type>
+<value>http://dbpedia.org/resource/Oil_painting</value>
+</type>
 </XML_Serializer_Tag>
 </artworks>
-<dbpResource>http://dbpedia.org/resource/Georg_Friedrich_Kersting</dbpResource>
-<abstract>Georg Friedrich Kersting (* 31. Oktober 1785 in Güstrow; † 1. Juli 1847 in Meißen) war ein deutscher Maler.Kersting war unter anderem mit Caspar David Friedrich befreundet und von diesem beeinflusst.Er gehörte zu dem Kreis der Romantiker und entwickelte sich zu einem der bedeutendsten Vertreter der Interieurmalerei des Biedermeier.</abstract>
-<wikilink>http://en.wikipedia.org/wiki/Georg_Friedrich_Kersting?oldid=579979674</wikilink>
+<buildings />
+<books />
 </Person>

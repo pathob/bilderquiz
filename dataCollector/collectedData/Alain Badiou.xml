@@ -1,0 +1,48 @@
+<Person>
+<name>Alain Badiou</name>
+<variantName>
+<XML_Serializer_Tag>A. Badiou</XML_Serializer_Tag>
+<XML_Serializer_Tag>Alen Badiju</XML_Serializer_Tag>
+<XML_Serializer_Tag>バディウ、アラン</XML_Serializer_Tag>
+<XML_Serializer_Tag>Μπαντιού, Αλαίν</XML_Serializer_Tag>
+</variantName>
+<thumbnail>https://commons.wikimedia.org/wiki/Special:FilePath/Alain_Badiou_2010_a.jpg?width=270</thumbnail>
+<birthEN>1937</birthEN>
+<birthDE>1937</birthDE>
+<deathEN />
+<deathDE />
+<birthPlace />
+<deathPlace />
+<professionOrOccupation>
+<XML_Serializer_Tag>Philosoph</XML_Serializer_Tag>
+<XML_Serializer_Tag>Schriftsteller</XML_Serializer_Tag>
+<XML_Serializer_Tag>Mathematiker</XML_Serializer_Tag>
+<XML_Serializer_Tag>Hochschullehrer</XML_Serializer_Tag>
+</professionOrOccupation>
+<dbpResource>http://dbpedia.org/resource/Alain_Badiou</dbpResource>
+<abstract>Alain Badiou (* 17. Januar 1937 in Rabat) ist ein französischsprachiger, marxistisch bzw. kommunistisch orientierter Philosoph, Mathematiker und Autor von Dramen und Romanen.Alain Badiou war von 1969 bis 1999 Professor an der Universität Paris VIII, danach Direktor des Institutes für Philosophie an der École normale supérieure in Paris. Auch nach seiner Emeritierung arbeitet er am Collège international de philosophie. Er war zudem gelegentlich bei der European Graduate School, einer Sommerakademie in Saas-Fee (Schweiz) als Dozent tätig. Seine politischen Aktivitäten drücken sich in der von ihm 1985 mitbegründeten, aus Teilen der Union des communistes de France marxiste-léniniste (UCFML) hervorgegangenen Organisation politique aus, einer Bürgerrechtsorganisation, die sich insbesondere mit Themen wie Einwanderungspolitik, Asylrecht, Arbeit und Gewerkschaften beschäftigt. Alain Badiou war lange einer der führenden Köpfe des französischen Maoismus.</abstract>
+<wikilink>http://en.wikipedia.org/wiki/Alain_Badiou?oldid=603504188</wikilink>
+<artworks />
+<buildings />
+<books>
+<XML_Serializer_Tag>
+<book>
+<type>uri</type>
+<value>http://dbpedia.org/resource/The_Century_(book)</value>
+</book>
+<author>
+<type>uri</type>
+<value>http://dbpedia.org/resource/Alain_Badiou</value>
+</author>
+<released>
+<type>typed-literal</type>
+<datatype>http://www.w3.org/2001/XMLSchema#integer</datatype>
+<value>2005</value>
+</released>
+<wikilink>
+<type>uri</type>
+<value>http://en.wikipedia.org/wiki/The_Century_(book)?oldid=591395611</value>
+</wikilink>
+</XML_Serializer_Tag>
+</books>
+</Person>

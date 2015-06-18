@@ -1,0 +1,23 @@
+<Person>
+<name>Girolamo Campagna</name>
+<variantName>
+<XML_Serializer_Tag>Gerolamo Campagna</XML_Serializer_Tag>
+</variantName>
+<thumbnail>https://commons.wikimedia.org/wiki/Special:FilePath/San_Giorgio_Maggiore_(Venice)_01.jpg?width=270</thumbnail>
+<birthEN />
+<birthDE />
+<deathEN />
+<deathDE />
+<birthPlace />
+<deathPlace />
+<professionOrOccupation>
+<XML_Serializer_Tag>Bildhauer</XML_Serializer_Tag>
+<XML_Serializer_Tag>Architekt</XML_Serializer_Tag>
+</professionOrOccupation>
+<dbpResource>http://dbpedia.org/resource/Girolamo_Campagna</dbpResource>
+<abstract>Girolamo Campagna (* 1549 in Verona; † 1625 in Venedig) war ein Bildhauer aus Norditalien.Er war Sohn eines Kürschners und ging 1572 nach Venedig. Er war mit dem Dichter Pietro Aretino, Torquato Tasso, Tizian und Vasari freundschaftlich verbunden.</abstract>
+<wikilink>http://en.wikipedia.org/wiki/Girolamo_Campagna?oldid=601615491</wikilink>
+<artworks />
+<buildings />
+<books />
+</Person>

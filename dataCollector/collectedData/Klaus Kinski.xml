@@ -1,0 +1,48 @@
+<Person>
+<name>Klaus Kinski</name>
+<variantName>
+<XML_Serializer_Tag>Nikolaus Nazksynski</XML_Serializer_Tag>
+<XML_Serializer_Tag>Nikolaus Günter Karl Nakszynski</XML_Serializer_Tag>
+<XML_Serializer_Tag>Nikolausz G. Nakszynski</XML_Serializer_Tag>
+<XML_Serializer_Tag>Klaus Günter Nakszynsky</XML_Serializer_Tag>
+<XML_Serializer_Tag>Nikolaus Günther Karl Nakszynski</XML_Serializer_Tag>
+<XML_Serializer_Tag>Klaus-Günther Nakszynski</XML_Serializer_Tag>
+</variantName>
+<thumbnail>https://commons.wikimedia.org/wiki/Special:FilePath/Klaus_Kinski_Cannes-(retouched-cropped).jpg?width=270</thumbnail>
+<birthEN>October 18, 1926</birthEN>
+<birthDE>18. Oktober 1926</birthDE>
+<deathEN>November 21, 1991</deathEN>
+<deathDE>21. November 1991</deathDE>
+<birthPlace>
+<XML_Serializer_Tag>Zoppot</XML_Serializer_Tag>
+</birthPlace>
+<deathPlace>
+<XML_Serializer_Tag>Labunita, Kalifornien, USA</XML_Serializer_Tag>
+</deathPlace>
+<professionOrOccupation>
+<XML_Serializer_Tag>Autor</XML_Serializer_Tag>
+<XML_Serializer_Tag>Schauspieler</XML_Serializer_Tag>
+<XML_Serializer_Tag>Regisseur</XML_Serializer_Tag>
+</professionOrOccupation>
+<dbpResource>http://dbpedia.org/resource/Klaus_Kinski</dbpResource>
+<abstract>Klaus Kinski (* 18. Oktober 1926 in Zoppot, Freie Stadt Danzig als Klaus Günter Karl Nakszynski; † 23. November 1991 in Lagunitas, Kalifornien) war ein deutscher Schauspieler. Er ist der Vater von Pola, Nastassja und Nikolai Kinski.Er war auf die Darstellung psychopathischer und getriebener Charaktere spezialisiert und zählte in diesem Rollenfach auch international zu den gefragtesten Filmschauspielern. Als künstlerisch herausragend gilt seine jahrelange Zusammenarbeit mit dem deutschen Regisseur Werner Herzog, der ihn in Filmen wie Nosferatu – Phantom der Nacht, Aguirre, der Zorn Gottes und Fitzcarraldo engagierte. International bekannt wurde er durch Rollen in Edgar-Wallace-Filmen und Italowestern.Kinski galt als schwierige und zu extremen Gefühls- und Wutausbrüchen neigende Persönlichkeit.</abstract>
+<wikilink>http://en.wikipedia.org/wiki/Klaus_Kinski?oldid=606439075</wikilink>
+<artworks />
+<buildings />
+<books>
+<XML_Serializer_Tag>
+<book>
+<type>uri</type>
+<value>http://dbpedia.org/resource/All_I_Need_Is_Love</value>
+</book>
+<author>
+<type>uri</type>
+<value>http://dbpedia.org/resource/Klaus_Kinski</value>
+</author>
+<wikilink>
+<type>uri</type>
+<value>http://en.wikipedia.org/wiki/All_I_Need_Is_Love?oldid=604530506</value>
+</wikilink>
+</XML_Serializer_Tag>
+</books>
+</Person>

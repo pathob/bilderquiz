@@ -1,0 +1,28 @@
+<Person>
+<name>Agostino Ramelli</name>
+<variantName>
+<XML_Serializer_Tag>Augustin von Ramelli</XML_Serializer_Tag>
+<XML_Serializer_Tag>Augustinus de Ramelli</XML_Serializer_Tag>
+<XML_Serializer_Tag>Augustinus de Ramellis</XML_Serializer_Tag>
+<XML_Serializer_Tag>Augustinus de Ramellis de Masanzana</XML_Serializer_Tag>
+<XML_Serializer_Tag>Augustinus de Ramellis de Masanzana</XML_Serializer_Tag>
+</variantName>
+<thumbnail>https://commons.wikimedia.org/wiki/Special:FilePath/Ramelli_windlass_well.jpg?width=270</thumbnail>
+<birthEN>1531</birthEN>
+<birthDE>1531</birthDE>
+<deathEN>1600</deathEN>
+<deathDE>1600</deathDE>
+<birthPlace />
+<deathPlace />
+<professionOrOccupation>
+<XML_Serializer_Tag>Ingenieur</XML_Serializer_Tag>
+<XML_Serializer_Tag>Architekt</XML_Serializer_Tag>
+<XML_Serializer_Tag>Techniker</XML_Serializer_Tag>
+</professionOrOccupation>
+<dbpResource>http://dbpedia.org/resource/Agostino_Ramelli</dbpResource>
+<abstract>Agostino Ramelli (* 1531 in Ponte Tresa, Italien; † 1600) war ein Ingenieur, der das Bücherrad erfand. Dieses wird heute als ein Vorläufer des Hypertext verstanden.1588 veröffentlichte er in Paris das zweisprachige (italienisch und französisch) Buch Le diverse et artificiose machine. Darin beschrieb er verschiedene Maschinen, u. a. das Bücherrad und kreiskolbenartige Wasserpumpen, welche als Vorläufer des Wankelmotors angesehen werden. Ebenso zeigte er darin einen amphibischen Kampfwagen, der an Land von Pferden gezogen und im Wasser mit zwei Schaufelrädern durch Muskelkraft bewegt wurde.</abstract>
+<wikilink>http://en.wikipedia.org/wiki/Agostino_Ramelli?oldid=605641122</wikilink>
+<artworks />
+<buildings />
+<books />
+</Person>

@@ -1,0 +1,46 @@
+<Person>
+<name>John Henry Mackay</name>
+<variantName>
+<XML_Serializer_Tag>John-Henry Mackay</XML_Serializer_Tag>
+<XML_Serializer_Tag>John H. Mackay</XML_Serializer_Tag>
+<XML_Serializer_Tag>John Henri Mackay</XML_Serializer_Tag>
+<XML_Serializer_Tag>Dzhan Genri Makkai</XML_Serializer_Tag>
+<XML_Serializer_Tag>Sagitta</XML_Serializer_Tag>
+<XML_Serializer_Tag>Henry Mackoy</XML_Serializer_Tag>
+</variantName>
+<thumbnail>https://commons.wikimedia.org/wiki/Special:FilePath/John_Henry_Mackay.gif?width=270</thumbnail>
+<birthEN>February 6, 1864</birthEN>
+<birthDE>6. Februar 1864</birthDE>
+<deathEN>May 21, 1933</deathEN>
+<deathDE>21. Mai 1933</deathDE>
+<birthPlace />
+<deathPlace />
+<professionOrOccupation>
+<XML_Serializer_Tag>Schriftsteller</XML_Serializer_Tag>
+</professionOrOccupation>
+<dbpResource>http://dbpedia.org/resource/John_Henry_Mackay</dbpResource>
+<abstract>John Henry Mackay (* 6. Februar 1864 in Greenock bei Glasgow, Schottland; † 16. Mai 1933 in Berlin-Charlottenburg) war ein deutscher Schriftsteller.</abstract>
+<wikilink>http://en.wikipedia.org/wiki/John_Henry_Mackay?oldid=603467698</wikilink>
+<artworks />
+<buildings />
+<books>
+<XML_Serializer_Tag>
+<book>
+<type>uri</type>
+<value>http://dbpedia.org/resource/Die_Anarchisten</value>
+</book>
+<author>
+<type>uri</type>
+<value>http://dbpedia.org/resource/John_Henry_Mackay</value>
+</author>
+<thumbnail>
+<type>uri</type>
+<value>http://commons.wikimedia.org/wiki/Special:FilePath/Die_Anarchisten.jpg?width=300</value>
+</thumbnail>
+<wikilink>
+<type>uri</type>
+<value>http://en.wikipedia.org/wiki/Die_Anarchisten?oldid=590897472</value>
+</wikilink>
+</XML_Serializer_Tag>
+</books>
+</Person>

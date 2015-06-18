@@ -1,0 +1,41 @@
+<Person>
+<name>Julia Kristeva</name>
+<variantName>
+<XML_Serializer_Tag>Julia Joyaux</XML_Serializer_Tag>
+<XML_Serializer_Tag>Julia Kristeva-Joyaux</XML_Serializer_Tag>
+</variantName>
+<thumbnail>https://commons.wikimedia.org/wiki/Special:FilePath/Julia_Kristeva_%C3%A0_Paris_en_2008.jpg?width=270</thumbnail>
+<birthEN>1941</birthEN>
+<birthDE>1941</birthDE>
+<deathEN />
+<deathDE />
+<birthPlace />
+<deathPlace />
+<professionOrOccupation>
+<XML_Serializer_Tag>Philologin</XML_Serializer_Tag>
+<XML_Serializer_Tag>Literaturwissenschaftlerin</XML_Serializer_Tag>
+<XML_Serializer_Tag>Psychoanalytikerin</XML_Serializer_Tag>
+<XML_Serializer_Tag>Schriftstellerin</XML_Serializer_Tag>
+</professionOrOccupation>
+<dbpResource>http://dbpedia.org/resource/Julia_Kristeva</dbpResource>
+<abstract>Julia Kristeva (bulgarisch Юлия Кръстева; * 24. Juni 1941 in Sliwen, Bulgarien) ist Literaturtheoretikerin, Psychoanalytikerin, Schriftstellerin und Philosophin.</abstract>
+<wikilink>http://en.wikipedia.org/wiki/Julia_Kristeva?oldid=603808474</wikilink>
+<artworks />
+<buildings />
+<books>
+<XML_Serializer_Tag>
+<book>
+<type>uri</type>
+<value>http://dbpedia.org/resource/Powers_of_Horror</value>
+</book>
+<author>
+<type>uri</type>
+<value>http://dbpedia.org/resource/Julia_Kristeva</value>
+</author>
+<wikilink>
+<type>uri</type>
+<value>http://en.wikipedia.org/wiki/Powers_of_Horror?oldid=579330816</value>
+</wikilink>
+</XML_Serializer_Tag>
+</books>
+</Person>

@@ -1,0 +1,31 @@
+<Person>
+<name>Aristide Briand</name>
+<variantName>
+<XML_Serializer_Tag>... Briand</XML_Serializer_Tag>
+</variantName>
+<thumbnail>https://commons.wikimedia.org/wiki/Special:FilePath/Aristide_Briand_04-2008-12-06.jpg?width=270</thumbnail>
+<birthEN>March 28, 1862</birthEN>
+<birthDE>28. März 1862</birthDE>
+<deathEN>March 7, 1932</deathEN>
+<deathDE>7. März 1932</deathDE>
+<birthPlace>
+<XML_Serializer_Tag>Nantes</XML_Serializer_Tag>
+</birthPlace>
+<deathPlace>
+<XML_Serializer_Tag>Paris</XML_Serializer_Tag>
+</deathPlace>
+<professionOrOccupation>
+<XML_Serializer_Tag>Politiker</XML_Serializer_Tag>
+<XML_Serializer_Tag>Regierungschef</XML_Serializer_Tag>
+<XML_Serializer_Tag>Minister</XML_Serializer_Tag>
+<XML_Serializer_Tag>Sozialist</XML_Serializer_Tag>
+<XML_Serializer_Tag>Jurist</XML_Serializer_Tag>
+<XML_Serializer_Tag>Autor</XML_Serializer_Tag>
+</professionOrOccupation>
+<dbpResource>http://dbpedia.org/resource/Aristide_Briand</dbpResource>
+<abstract>Aristide Briand (* 28. März 1862 in Nantes; † 7. März 1932 in Paris) war ein französischer Politiker. Briand bekleidete zwischen 1909 und 1932 mit Unterbrechungen wechselnd die Ämter des französischen Ministerpräsidenten, des Unterrichts-, Justiz- und des Außenministers. Er war insgesamt elfmal Regierungschef und dreiundzwanzigmal Minister in den rasch wechselnden Kabinetten der Dritten Republik. 1926 erhielt er für seine Mitarbeit an den Verträgen von Locarno zusammen mit Gustav Stresemann den Friedensnobelpreis.</abstract>
+<wikilink>http://en.wikipedia.org/wiki/Aristide_Briand?oldid=604761750</wikilink>
+<artworks />
+<buildings />
+<books />
+</Person>

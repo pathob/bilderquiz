@@ -1,0 +1,27 @@
+<Person>
+<name>Charles Crodel</name>
+<variantName>
+<XML_Serializer_Tag>Carl Crodel</XML_Serializer_Tag>
+<XML_Serializer_Tag>Ch. Crodel</XML_Serializer_Tag>
+</variantName>
+<thumbnail>https://commons.wikimedia.org/wiki/Special:FilePath/St-Jacobi-Kirche_HH.jpg?width=270</thumbnail>
+<birthEN>September 16, 1894</birthEN>
+<birthDE>16. September 1894</birthDE>
+<deathEN>February 28, 1973</deathEN>
+<deathDE>28. Februar 1973</deathDE>
+<birthPlace>
+<XML_Serializer_Tag>Marseille</XML_Serializer_Tag>
+</birthPlace>
+<deathPlace>
+<XML_Serializer_Tag>München</XML_Serializer_Tag>
+</deathPlace>
+<professionOrOccupation>
+<XML_Serializer_Tag>Künstler</XML_Serializer_Tag>
+</professionOrOccupation>
+<dbpResource>http://dbpedia.org/resource/Charles_Crodel</dbpResource>
+<abstract>Charles Crodel (* 16. September 1894 in Marseille; † 28. November 1973 in München, begraben in Halle) war ein deutscher Maler und als solcher im bildnerischen Bereich in Deutschland tätig.</abstract>
+<wikilink>http://en.wikipedia.org/wiki/Charles_Crodel?oldid=604161900</wikilink>
+<artworks />
+<buildings />
+<books />
+</Person>

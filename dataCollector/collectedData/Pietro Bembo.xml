@@ -1,0 +1,50 @@
+<Person>
+<name>Pietro Bembo</name>
+<variantName>
+<XML_Serializer_Tag>Petrus Bembo</XML_Serializer_Tag>
+<XML_Serializer_Tag>Pietro, Bembo</XML_Serializer_Tag>
+<XML_Serializer_Tag>Petrus, Bembus</XML_Serializer_Tag>
+<XML_Serializer_Tag>Pierre Bembo</XML_Serializer_Tag>
+<XML_Serializer_Tag>Pierre, Bembo</XML_Serializer_Tag>
+<XML_Serializer_Tag>Petrus, Cardinalis Bembus</XML_Serializer_Tag>
+<XML_Serializer_Tag>Petrus Bembus</XML_Serializer_Tag>
+<XML_Serializer_Tag>Pietro Bembo</XML_Serializer_Tag>
+</variantName>
+<thumbnail>https://commons.wikimedia.org/wiki/Special:FilePath/Pietro_Bembo_-_Titian.jpg?width=270</thumbnail>
+<birthEN>1470</birthEN>
+<birthDE>1470</birthDE>
+<deathEN>1547</deathEN>
+<deathDE>1547</deathDE>
+<birthPlace>
+<XML_Serializer_Tag>Venedig</XML_Serializer_Tag>
+</birthPlace>
+<deathPlace>
+<XML_Serializer_Tag>Rom</XML_Serializer_Tag>
+</deathPlace>
+<professionOrOccupation>
+<XML_Serializer_Tag>Schriftsteller</XML_Serializer_Tag>
+<XML_Serializer_Tag>Gelehrter</XML_Serializer_Tag>
+<XML_Serializer_Tag>Kardinal</XML_Serializer_Tag>
+</professionOrOccupation>
+<dbpResource>http://dbpedia.org/resource/Pietro_Bembo</dbpResource>
+<abstract>Pietro Bembo (* 20. Mai 1470 in Venedig; † 18. Januar 1547 in Rom) war ein italienischer humanistischer Gelehrter und Kardinal. Er war für seine meisterhafte Beherrschung der lateinischen Sprache bekannt, seine Zeitgenossen betrachteten seinen Stil als vorbildlich. Wegweisend war seine Theorie der italienischen Literatursprache. Sie trug dazu bei, dass der „Sprachenstreit“ um die Frage, welche Variante des Italienischen sich am besten als Literatursprache eigne, zugunsten des Toskanischen entschieden wurde.</abstract>
+<wikilink>http://en.wikipedia.org/wiki/Pietro_Bembo?oldid=599120016</wikilink>
+<artworks />
+<buildings />
+<books>
+<XML_Serializer_Tag>
+<book>
+<type>uri</type>
+<value>http://dbpedia.org/resource/Gli_Asolani</value>
+</book>
+<author>
+<type>uri</type>
+<value>http://dbpedia.org/resource/Pietro_Bembo</value>
+</author>
+<wikilink>
+<type>uri</type>
+<value>http://en.wikipedia.org/wiki/Gli_Asolani?oldid=552310211</value>
+</wikilink>
+</XML_Serializer_Tag>
+</books>
+</Person>

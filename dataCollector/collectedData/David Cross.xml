@@ -1,0 +1,35 @@
+<Person>
+<name>David Cross</name>
+<variantName />
+<thumbnail>https://commons.wikimedia.org/wiki/Special:FilePath/DavidCross2007.jpg?width=270</thumbnail>
+<birthEN>1964</birthEN>
+<birthDE>1964</birthDE>
+<deathEN />
+<deathDE />
+<birthPlace />
+<deathPlace />
+<professionOrOccupation>
+<XML_Serializer_Tag>Künstler</XML_Serializer_Tag>
+</professionOrOccupation>
+<dbpResource>http://dbpedia.org/resource/David_Cross</dbpResource>
+<abstract>David Cross (* 4. April 1964 in Atlanta, Georgia) ist ein US-amerikanischer Stand-up-Comedian und Schauspieler.</abstract>
+<wikilink>http://en.wikipedia.org/wiki/David_Cross?oldid=606589518</wikilink>
+<artworks />
+<buildings />
+<books>
+<XML_Serializer_Tag>
+<book>
+<type>uri</type>
+<value>http://dbpedia.org/resource/I_Drink_for_a_Reason</value>
+</book>
+<author>
+<type>uri</type>
+<value>http://dbpedia.org/resource/David_Cross</value>
+</author>
+<wikilink>
+<type>uri</type>
+<value>http://en.wikipedia.org/wiki/I_Drink_for_a_Reason?oldid=535312591</value>
+</wikilink>
+</XML_Serializer_Tag>
+</books>
+</Person>

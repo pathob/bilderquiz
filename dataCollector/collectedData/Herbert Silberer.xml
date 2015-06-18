@@ -1,0 +1,26 @@
+<Person>
+<name>Herbert Silberer</name>
+<variantName />
+<thumbnail>https://de.wikipedia.org/wiki/Special:FilePath/WP_Herbert_Silberer.jpg?width=270</thumbnail>
+<birthEN>February 28, 1882</birthEN>
+<birthDE>28. Februar 1882</birthDE>
+<deathEN>January 12, 1923</deathEN>
+<deathDE>12. Januar 1923</deathDE>
+<birthPlace>
+<XML_Serializer_Tag>Wien</XML_Serializer_Tag>
+</birthPlace>
+<deathPlace>
+<XML_Serializer_Tag>Wien</XML_Serializer_Tag>
+</deathPlace>
+<professionOrOccupation>
+<XML_Serializer_Tag>Journalist</XML_Serializer_Tag>
+<XML_Serializer_Tag>Psychoanalytiker</XML_Serializer_Tag>
+<XML_Serializer_Tag>Schriftsteller</XML_Serializer_Tag>
+</professionOrOccupation>
+<dbpResource>http://dbpedia.org/resource/Herbert_Silberer</dbpResource>
+<abstract>Herbert Silberer (* 28. Februar 1882 in Wien; † 12. Januar 1923) war ein österreichischer Psychoanalytiker. Er gehörte dem Kreis um Sigmund Freud an und war Ideengeber Carl Gustav Jungs.</abstract>
+<wikilink>http://en.wikipedia.org/wiki/Herbert_Silberer?oldid=605686810</wikilink>
+<artworks />
+<buildings />
+<books />
+</Person>

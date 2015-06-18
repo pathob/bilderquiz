@@ -1,0 +1,83 @@
+<Person>
+<name>Paracelsus</name>
+<variantName>
+<XML_Serializer_Tag>Philippus Aureolus Theophrastus Bombastus Paracelsus-von Hohenheim</XML_Serializer_Tag>
+<XML_Serializer_Tag>Paracelsus, Theophrastus</XML_Serializer_Tag>
+<XML_Serializer_Tag>Paracelsus, Theophrast von Hohenheim</XML_Serializer_Tag>
+<XML_Serializer_Tag>Pseudo-Paracelsus</XML_Serializer_Tag>
+<XML_Serializer_Tag>Bombast, ab Hohenheim</XML_Serializer_Tag>
+<XML_Serializer_Tag>Parakelsos</XML_Serializer_Tag>
+<XML_Serializer_Tag>Theophrast, von Hohenheim</XML_Serializer_Tag>
+<XML_Serializer_Tag>Theophrast Bombast, von Hohenheim</XML_Serializer_Tag>
+<XML_Serializer_Tag>Theophrastus, Aureolus</XML_Serializer_Tag>
+<XML_Serializer_Tag>Theophrastus, von Hohenhaim</XML_Serializer_Tag>
+<XML_Serializer_Tag>Paracelso</XML_Serializer_Tag>
+<XML_Serializer_Tag>Theophrastus Bombastus, von Hohenheim</XML_Serializer_Tag>
+<XML_Serializer_Tag>Aureolus Philippus Theophrastus Bombast ab Hohenheim</XML_Serializer_Tag>
+<XML_Serializer_Tag>Theophrastus Bombast ab Hohenheim</XML_Serializer_Tag>
+<XML_Serializer_Tag>Aureolus Philippus Theophrastus Bombast von Hohenheim</XML_Serializer_Tag>
+<XML_Serializer_Tag>Aureolus Philippus Theophrastus Bombast von Hohenheim Paracelsus</XML_Serializer_Tag>
+<XML_Serializer_Tag>Philippus Aureolus Theophrastus Bombastus von Hohenheim Paracelsus</XML_Serializer_Tag>
+<XML_Serializer_Tag>Paracelse</XML_Serializer_Tag>
+<XML_Serializer_Tag>Philippe Teofrasto Paracelse</XML_Serializer_Tag>
+<XML_Serializer_Tag>Philipp Aureolus Theophrastus Bombast von Hohenheim</XML_Serializer_Tag>
+<XML_Serializer_Tag>Philipp Theophrastus Bombast von Hohenheim</XML_Serializer_Tag>
+<XML_Serializer_Tag>Theophrast Bombast von Hohenheim</XML_Serializer_Tag>
+<XML_Serializer_Tag>Theophrastus von Hohenhaim</XML_Serializer_Tag>
+<XML_Serializer_Tag>Bombast von Hohenheim</XML_Serializer_Tag>
+<XML_Serializer_Tag>Philipp Aureolus Teophrastus Bombast von Hohenheim</XML_Serializer_Tag>
+<XML_Serializer_Tag>Philippus Theophrastus Bombast von Hohenheim</XML_Serializer_Tag>
+<XML_Serializer_Tag>Theophrast von Hohenheim</XML_Serializer_Tag>
+<XML_Serializer_Tag>Theophrast Bombast von Hohenheim</XML_Serializer_Tag>
+<XML_Serializer_Tag>Theoprast Bombast von Hohenheim</XML_Serializer_Tag>
+<XML_Serializer_Tag>Theophrastus von Hohenheim</XML_Serializer_Tag>
+<XML_Serializer_Tag>Theophrastus Bombast von Hohenheim</XML_Serializer_Tag>
+<XML_Serializer_Tag>Theophrastus Bombast ab Hohenheim</XML_Serializer_Tag>
+<XML_Serializer_Tag>Theophrastus Paracelsus von Hohenheim</XML_Serializer_Tag>
+<XML_Serializer_Tag>Aureolus Philippus Theophrastus Bombastus von Hohenheim Paracelsus</XML_Serializer_Tag>
+<XML_Serializer_Tag>Aureolus Thephrastus Paracelsus</XML_Serializer_Tag>
+<XML_Serializer_Tag>Philippus Paracelsus</XML_Serializer_Tag>
+<XML_Serializer_Tag>Philippus Aureolus Theophrastus Bombastus Paracelsus</XML_Serializer_Tag>
+<XML_Serializer_Tag>Philippus Aureolus Theophrastus Bombastus von Hohenheim Paracelsus</XML_Serializer_Tag>
+<XML_Serializer_Tag>Philippus Teophrastus Bombastus Paracelsus</XML_Serializer_Tag>
+<XML_Serializer_Tag>Philippus Theophrastus Paracelsus</XML_Serializer_Tag>
+<XML_Serializer_Tag>Philippus Theophrastus Bombast Paracelsus</XML_Serializer_Tag>
+<XML_Serializer_Tag>Theofrastus B. Paracelsus</XML_Serializer_Tag>
+<XML_Serializer_Tag>Theophrasius Paracelsus</XML_Serializer_Tag>
+<XML_Serializer_Tag>Theophrastus Paracelsus</XML_Serializer_Tag>
+<XML_Serializer_Tag>Theophrast Paracelsus</XML_Serializer_Tag>
+<XML_Serializer_Tag>Theophrastos Parakelsos</XML_Serializer_Tag>
+<XML_Serializer_Tag>Theophrastus Paracelsus von Hohenheim</XML_Serializer_Tag>
+<XML_Serializer_Tag>Theophrastus Parazelsus</XML_Serializer_Tag>
+<XML_Serializer_Tag>Teofrasto Paracelso</XML_Serializer_Tag>
+<XML_Serializer_Tag>Philippe Teofrasto Paracelso</XML_Serializer_Tag>
+<XML_Serializer_Tag>Paracelsus, Bombast ab Hohenheim</XML_Serializer_Tag>
+<XML_Serializer_Tag>Paracelsus Theophrastus Bombast von Hohenheim</XML_Serializer_Tag>
+<XML_Serializer_Tag>Theophrastus, von Hohenheim</XML_Serializer_Tag>
+<XML_Serializer_Tag>Aureolus Theophrastus</XML_Serializer_Tag>
+<XML_Serializer_Tag>Theophrastus Paracelsus</XML_Serializer_Tag>
+<XML_Serializer_Tag>Theophrastus Bombastus von Hohenheim Paracelsus</XML_Serializer_Tag>
+<XML_Serializer_Tag>Philippus A. Paracelsus</XML_Serializer_Tag>
+</variantName>
+<thumbnail>https://commons.wikimedia.org/wiki/Special:FilePath/Paracelsus.jpg?width=270</thumbnail>
+<birthEN>1493</birthEN>
+<birthDE>1493</birthDE>
+<deathEN>1541</deathEN>
+<deathDE>1541</deathDE>
+<birthPlace>
+<XML_Serializer_Tag>Einsiedeln</XML_Serializer_Tag>
+</birthPlace>
+<deathPlace />
+<professionOrOccupation>
+<XML_Serializer_Tag>Arzt</XML_Serializer_Tag>
+<XML_Serializer_Tag>Naturwissenschaftler</XML_Serializer_Tag>
+<XML_Serializer_Tag>Chemiker</XML_Serializer_Tag>
+<XML_Serializer_Tag>Philosoph</XML_Serializer_Tag>
+</professionOrOccupation>
+<dbpResource>http://dbpedia.org/resource/Paracelsus</dbpResource>
+<abstract>Philippus Theophrastus Aureolus Bombastus von Hohenheim, getauft als Theophrastus Bombastus von Hohenheim, genannt Paracelsus, (* vermutlich 1493 in Egg, Kanton Schwyz; † 24. September 1541 in Salzburg) war ein Arzt, Alchemist, Astrologe, Mystiker, Laientheologe und Philosoph.Das Wissen und Wirken des Paracelsus gilt als überaus umfassend. Seine Heilungserfolge waren legendär, trugen ihm aber auch erbitterte Gegnerschaft durch etablierte Mediziner und Apotheker ein, zusätzlich verschärft durch die oft beißende Kritik seitens des Paracelsus an der vorherrschenden Lehrmeinung der Humoralpathologie nach Galen und der bloßen Bücherweisheit damaliger medizinischer Gelehrter. Paracelsus hinterließ zahlreiche deutschsprachige Aufzeichnungen und Bücher medizinischen, astrologischen, philosophischen und theologischen Inhalts, die größtenteils erst nach seinem Tod gedruckt wurden.</abstract>
+<wikilink>http://en.wikipedia.org/wiki/Paracelsus?oldid=606600021</wikilink>
+<artworks />
+<buildings />
+<books />
+</Person>

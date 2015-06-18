@@ -15,8 +15,10 @@
 <professionOrOccupation>
 <XML_Serializer_Tag>Maler</XML_Serializer_Tag>
 </professionOrOccupation>
-<artworks />
 <dbpResource>http://dbpedia.org/resource/Louis_Braun</dbpResource>
 <abstract>Louis Braun, Taufname Ludwig Braun, (* 23. September 1836 in Schwäbisch Hall; † 18. Februar 1916 in München), war ein Kunstprofessor an der Akademie der Bildenden Künste München sowie ein sehr bekannter und bedeutender Historienmaler. Er zählt zu den berühmtesten deutschen Militärmalern.</abstract>
 <wikilink>http://en.wikipedia.org/wiki/Louis_Braun?oldid=581939320</wikilink>
+<artworks />
+<buildings />
+<books />
 </Person>

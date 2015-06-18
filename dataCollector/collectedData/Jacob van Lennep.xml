@@ -1,0 +1,25 @@
+<Person>
+<name>Jacob van Lennep</name>
+<variantName>
+<XML_Serializer_Tag>Jakob van Lennep</XML_Serializer_Tag>
+<XML_Serializer_Tag>J. van Lennep</XML_Serializer_Tag>
+<XML_Serializer_Tag>Jakob Van Lennep</XML_Serializer_Tag>
+<XML_Serializer_Tag>Jacob Van Lennep</XML_Serializer_Tag>
+</variantName>
+<thumbnail>https://commons.wikimedia.org/wiki/Special:FilePath/VanLennep.png?width=270</thumbnail>
+<birthEN>1802</birthEN>
+<birthDE>1802</birthDE>
+<deathEN>1868</deathEN>
+<deathDE>1868</deathDE>
+<birthPlace />
+<deathPlace />
+<professionOrOccupation>
+<XML_Serializer_Tag>Schriftsteller</XML_Serializer_Tag>
+</professionOrOccupation>
+<dbpResource>http://dbpedia.org/resource/Jacob_van_Lennep</dbpResource>
+<abstract>Jacob van Lennep (* 24. März 1802 in Amsterdam; † 25. August 1868 in Oosterbeek bei Arnheim) war ein niederländischer Schriftsteller.</abstract>
+<wikilink>http://en.wikipedia.org/wiki/Jacob_van_Lennep?oldid=603222328</wikilink>
+<artworks />
+<buildings />
+<books />
+</Person>

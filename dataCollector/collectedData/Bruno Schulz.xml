@@ -1,0 +1,48 @@
+<Person>
+<name>Bruno Schulz</name>
+<variantName>
+<XML_Serializer_Tag>Bruno Shults</XML_Serializer_Tag>
+<XML_Serializer_Tag>Bruno Šulʹc</XML_Serializer_Tag>
+</variantName>
+<thumbnail>https://commons.wikimedia.org/wiki/Special:FilePath/Bruno_schulz_tablica_drohobycz_2008.jpg?width=270</thumbnail>
+<birthEN>July 12, 1892</birthEN>
+<birthDE>12. Juli 1892</birthDE>
+<deathEN>November 19, 1942</deathEN>
+<deathDE>19. November 1942</deathDE>
+<birthPlace>
+<XML_Serializer_Tag>Drohobycz (heute Ukraine)</XML_Serializer_Tag>
+</birthPlace>
+<deathPlace>
+<XML_Serializer_Tag>Drogobytsch</XML_Serializer_Tag>
+</deathPlace>
+<professionOrOccupation>
+<XML_Serializer_Tag>Schriftsteller</XML_Serializer_Tag>
+<XML_Serializer_Tag>Künstler</XML_Serializer_Tag>
+</professionOrOccupation>
+<dbpResource>http://dbpedia.org/resource/Bruno_Schulz</dbpResource>
+<abstract>Bruno Schulz (* 12. Juli 1892 in Drohobycz, damals Österreich-Ungarn, heute Ukraine; † 19. November 1942 ebenda) war ein polnischer Schriftsteller, Literaturkritiker, Graphiker, Zeichner und Opfer des Holocaust.</abstract>
+<wikilink>http://en.wikipedia.org/wiki/Bruno_Schulz?oldid=603230677</wikilink>
+<artworks />
+<buildings />
+<books>
+<XML_Serializer_Tag>
+<book>
+<type>uri</type>
+<value>http://dbpedia.org/resource/Sanatorium_Under_the_Sign_of_the_Hourglass</value>
+</book>
+<author>
+<type>uri</type>
+<value>http://dbpedia.org/resource/Bruno_Schulz</value>
+</author>
+<released>
+<type>typed-literal</type>
+<datatype>http://www.w3.org/2001/XMLSchema#integer</datatype>
+<value>1937</value>
+</released>
+<wikilink>
+<type>uri</type>
+<value>http://en.wikipedia.org/wiki/Sanatorium_Under_the_Sign_of_the_Hourglass?oldid=598529686</value>
+</wikilink>
+</XML_Serializer_Tag>
+</books>
+</Person>

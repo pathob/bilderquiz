@@ -18,8 +18,10 @@
 <XML_Serializer_Tag>Maler</XML_Serializer_Tag>
 <XML_Serializer_Tag>Restaurator</XML_Serializer_Tag>
 </professionOrOccupation>
-<artworks />
 <dbpResource>http://dbpedia.org/resource/Melchior_Paul_von_Deschwanden</dbpResource>
 <abstract>Melchior Paul von Deschwanden (* 10. Januar 1811 in Stans; † 25. Februar 1881 in Stans) war ein Schweizer Maler des Nazarenerstils.</abstract>
 <wikilink>http://en.wikipedia.org/wiki/Melchior_Paul_von_Deschwanden?oldid=582326799</wikilink>
+<artworks />
+<buildings />
+<books />
 </Person>

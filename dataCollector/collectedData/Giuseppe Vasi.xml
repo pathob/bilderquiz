@@ -18,8 +18,10 @@
 <XML_Serializer_Tag>Maler</XML_Serializer_Tag>
 <XML_Serializer_Tag>Graphiker</XML_Serializer_Tag>
 </professionOrOccupation>
-<artworks />
 <dbpResource>http://dbpedia.org/resource/Giuseppe_Vasi</dbpResource>
 <abstract>Giuseppe Vasi (* 27. August 1710 in Corleone auf Sizilien; † 16. April 1782 in Rom) war ein italienischer Grafiker und Vedutenstecher.</abstract>
 <wikilink>http://en.wikipedia.org/wiki/Giuseppe_Vasi?oldid=597263037</wikilink>
+<artworks />
+<buildings />
+<books />
 </Person>

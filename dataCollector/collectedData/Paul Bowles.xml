@@ -1,0 +1,93 @@
+<Person>
+<name>Paul Bowles</name>
+<variantName>
+<XML_Serializer_Tag>Paul Frederic Bowles</XML_Serializer_Tag>
+<XML_Serializer_Tag>Paul F. Bowles</XML_Serializer_Tag>
+</variantName>
+<thumbnail>https://en.wikipedia.org/wiki/Special:FilePath/Paul_Bowles.jpg?width=270</thumbnail>
+<birthEN>December 30, 1910</birthEN>
+<birthDE>30. Dezember 1910</birthDE>
+<deathEN>November 18, 1999</deathEN>
+<deathDE>18. November 1999</deathDE>
+<birthPlace>
+<XML_Serializer_Tag>New York, NY</XML_Serializer_Tag>
+</birthPlace>
+<deathPlace>
+<XML_Serializer_Tag>Tanger</XML_Serializer_Tag>
+</deathPlace>
+<professionOrOccupation>
+<XML_Serializer_Tag>Komponist</XML_Serializer_Tag>
+<XML_Serializer_Tag>Musiker</XML_Serializer_Tag>
+<XML_Serializer_Tag>Schriftsteller</XML_Serializer_Tag>
+<XML_Serializer_Tag>Schauspieler</XML_Serializer_Tag>
+</professionOrOccupation>
+<dbpResource>http://dbpedia.org/resource/Paul_Bowles</dbpResource>
+<abstract>Paul Bowles (* 30. Dezember 1910 in Queens, New York; † 18. November 1999 in Tanger) war ein US-amerikanischer Schriftsteller, Komponist und Übersetzer.</abstract>
+<wikilink>http://en.wikipedia.org/wiki/Paul_Bowles?oldid=605066642</wikilink>
+<artworks />
+<buildings />
+<books>
+<XML_Serializer_Tag>
+<book>
+<type>uri</type>
+<value>http://dbpedia.org/resource/The_Delicate_Prey_and_Other_Stories</value>
+</book>
+<author>
+<type>uri</type>
+<value>http://dbpedia.org/resource/Paul_Bowles</value>
+</author>
+<released>
+<type>typed-literal</type>
+<datatype>http://www.w3.org/2001/XMLSchema#integer</datatype>
+<value>1950</value>
+</released>
+<wikilink>
+<type>uri</type>
+<value>http://en.wikipedia.org/wiki/The_Delicate_Prey_and_Other_Stories?oldid=584918639</value>
+</wikilink>
+<abstract>
+<type>literal</type>
+<xml:lang>de</xml:lang>
+<value>The Delicate Prey and Other Stories ist eine 1950 erschienene Sammlung von Kurzgeschichten des amerikanischen Schriftstellers Paul Bowles (1910–1999).</value>
+</abstract>
+</XML_Serializer_Tag>
+<XML_Serializer_Tag>
+<book>
+<type>uri</type>
+<value>http://dbpedia.org/resource/Let_It_Come_Down_(novel)</value>
+</book>
+<author>
+<type>uri</type>
+<value>http://dbpedia.org/resource/Paul_Bowles</value>
+</author>
+<released>
+<type>typed-literal</type>
+<datatype>http://www.w3.org/2001/XMLSchema#integer</datatype>
+<value>1952</value>
+</released>
+<wikilink>
+<type>uri</type>
+<value>http://en.wikipedia.org/wiki/Let_It_Come_Down_(novel)?oldid=593905521</value>
+</wikilink>
+</XML_Serializer_Tag>
+<XML_Serializer_Tag>
+<book>
+<type>uri</type>
+<value>http://dbpedia.org/resource/The_Sheltering_Sky</value>
+</book>
+<author>
+<type>uri</type>
+<value>http://dbpedia.org/resource/Paul_Bowles</value>
+</author>
+<released>
+<type>typed-literal</type>
+<datatype>http://www.w3.org/2001/XMLSchema#integer</datatype>
+<value>1949</value>
+</released>
+<wikilink>
+<type>uri</type>
+<value>http://en.wikipedia.org/wiki/The_Sheltering_Sky?oldid=606312065</value>
+</wikilink>
+</XML_Serializer_Tag>
+</books>
+</Person>

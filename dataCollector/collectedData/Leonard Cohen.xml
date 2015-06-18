@@ -1,0 +1,95 @@
+<Person>
+<name>Leonard Cohen</name>
+<variantName>
+<XML_Serializer_Tag>Leonard Norman Cohen</XML_Serializer_Tag>
+<XML_Serializer_Tag>Leonhard Cohen</XML_Serializer_Tag>
+</variantName>
+<thumbnail>https://commons.wikimedia.org/wiki/Special:FilePath/Leonard_Cohen_2187-edited.jpg?width=270</thumbnail>
+<birthEN>1934</birthEN>
+<birthDE>1934</birthDE>
+<deathEN />
+<deathDE />
+<birthPlace>
+<XML_Serializer_Tag>Montréal</XML_Serializer_Tag>
+</birthPlace>
+<deathPlace />
+<professionOrOccupation>
+<XML_Serializer_Tag>Musiker</XML_Serializer_Tag>
+<XML_Serializer_Tag>Komponist</XML_Serializer_Tag>
+<XML_Serializer_Tag>Songwriter</XML_Serializer_Tag>
+<XML_Serializer_Tag>Schriftsteller</XML_Serializer_Tag>
+</professionOrOccupation>
+<dbpResource>http://dbpedia.org/resource/Leonard_Cohen</dbpResource>
+<abstract>Leonard Norman Cohen, CC, GOQ (* 21. September 1934 in Montreal) ist ein kanadischer Singer-Songwriter, Dichter und Schriftsteller.</abstract>
+<wikilink>http://en.wikipedia.org/wiki/Leonard_Cohen?oldid=606332594</wikilink>
+<artworks />
+<buildings />
+<books>
+<XML_Serializer_Tag>
+<book>
+<type>uri</type>
+<value>http://dbpedia.org/resource/The_Favourite_Game</value>
+</book>
+<author>
+<type>uri</type>
+<value>http://dbpedia.org/resource/Leonard_Cohen</value>
+</author>
+<released>
+<type>typed-literal</type>
+<datatype>http://www.w3.org/2001/XMLSchema#integer</datatype>
+<value>1963</value>
+</released>
+<wikilink>
+<type>uri</type>
+<value>http://en.wikipedia.org/wiki/The_Favourite_Game?oldid=586365678</value>
+</wikilink>
+</XML_Serializer_Tag>
+<XML_Serializer_Tag>
+<book>
+<type>uri</type>
+<value>http://dbpedia.org/resource/Beautiful_Losers</value>
+</book>
+<author>
+<type>uri</type>
+<value>http://dbpedia.org/resource/Leonard_Cohen</value>
+</author>
+<released>
+<type>typed-literal</type>
+<datatype>http://www.w3.org/2001/XMLSchema#integer</datatype>
+<value>1966</value>
+</released>
+<wikilink>
+<type>uri</type>
+<value>http://en.wikipedia.org/wiki/Beautiful_Losers?oldid=593975368</value>
+</wikilink>
+</XML_Serializer_Tag>
+<XML_Serializer_Tag>
+<book>
+<type>uri</type>
+<value>http://dbpedia.org/resource/Book_of_Longing</value>
+</book>
+<author>
+<type>uri</type>
+<value>http://dbpedia.org/resource/Leonard_Cohen</value>
+</author>
+<wikilink>
+<type>uri</type>
+<value>http://en.wikipedia.org/wiki/Book_of_Longing?oldid=575285375</value>
+</wikilink>
+</XML_Serializer_Tag>
+<XML_Serializer_Tag>
+<book>
+<type>uri</type>
+<value>http://dbpedia.org/resource/Stranger_Music</value>
+</book>
+<author>
+<type>uri</type>
+<value>http://dbpedia.org/resource/Leonard_Cohen</value>
+</author>
+<wikilink>
+<type>uri</type>
+<value>http://en.wikipedia.org/wiki/Stranger_Music?oldid=601490122</value>
+</wikilink>
+</XML_Serializer_Tag>
+</books>
+</Person>

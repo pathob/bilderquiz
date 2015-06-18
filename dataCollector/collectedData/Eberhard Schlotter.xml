@@ -17,8 +17,10 @@
 <XML_Serializer_Tag>Maler</XML_Serializer_Tag>
 <XML_Serializer_Tag>Graphiker</XML_Serializer_Tag>
 </professionOrOccupation>
-<artworks />
 <dbpResource>http://dbpedia.org/resource/Eberhard_Schlotter</dbpResource>
 <abstract>Eberhard Schlotter (* 3. Juni 1921 in Hildesheim) ist ein deutscher Maler und Graphiker. Er lebt in Spanien und Deutschland.</abstract>
 <wikilink>http://en.wikipedia.org/wiki/Eberhard_Schlotter?oldid=564499922</wikilink>
+<artworks />
+<buildings />
+<books />
 </Person>

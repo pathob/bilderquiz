@@ -1,0 +1,57 @@
+<Person>
+<name>Wolf Haas</name>
+<variantName>
+<XML_Serializer_Tag>Worufu Hāsu</XML_Serializer_Tag>
+<XML_Serializer_Tag>Volfs Hāss</XML_Serializer_Tag>
+<XML_Serializer_Tag>Vol&apos;f Chaas</XML_Serializer_Tag>
+<XML_Serializer_Tag>Wo er fu Ha si</XML_Serializer_Tag>
+<XML_Serializer_Tag>Woerfu-Hasi</XML_Serializer_Tag>
+<XML_Serializer_Tag>Woerfu Hasi</XML_Serializer_Tag>
+</variantName>
+<thumbnail>https://commons.wikimedia.org/wiki/Special:FilePath/Wolf_Haas_o-töne_2009_h.jpg?width=270</thumbnail>
+<birthEN>1960</birthEN>
+<birthDE>1960</birthDE>
+<deathEN />
+<deathDE />
+<birthPlace>
+<XML_Serializer_Tag>Maria Alm</XML_Serializer_Tag>
+</birthPlace>
+<deathPlace />
+<professionOrOccupation>
+<XML_Serializer_Tag>Kriminalschriftsteller</XML_Serializer_Tag>
+<XML_Serializer_Tag>Schriftsteller</XML_Serializer_Tag>
+<XML_Serializer_Tag>Drehbuchautor</XML_Serializer_Tag>
+<XML_Serializer_Tag>Werbetexter</XML_Serializer_Tag>
+</professionOrOccupation>
+<dbpResource>http://dbpedia.org/resource/Wolf_Haas</dbpResource>
+<abstract>Wolf Haas (* 14. Dezember 1960 in Maria Alm am Steinernen Meer, Land Salzburg, Österreich) ist ein österreichischer Schriftsteller, der in Wien lebt. Bekannt wurde er als Autor von Kriminalromanen, von denen drei den Deutschen Krimipreis gewannen.</abstract>
+<wikilink>http://en.wikipedia.org/wiki/Wolf_Haas?oldid=599162064</wikilink>
+<artworks />
+<buildings />
+<books>
+<XML_Serializer_Tag>
+<book>
+<type>uri</type>
+<value>http://dbpedia.org/resource/Komm,_s%C3%BC%C3%9Fer_Tod_(novel)</value>
+</book>
+<author>
+<type>uri</type>
+<value>http://dbpedia.org/resource/Wolf_Haas</value>
+</author>
+<released>
+<type>typed-literal</type>
+<datatype>http://www.w3.org/2001/XMLSchema#date</datatype>
+<value>1998-03-31+02:00</value>
+</released>
+<wikilink>
+<type>uri</type>
+<value>http://en.wikipedia.org/wiki/Komm,_süßer_Tod_(novel)?oldid=548797639</value>
+</wikilink>
+<abstract>
+<type>literal</type>
+<xml:lang>de</xml:lang>
+<value>Komm, süßer Tod (1998) ist der dritte von sieben Brenner-Krimis von Wolf Haas. Er gilt als der bekannteste Krimi dieser Reihe und zeichnet sich wie diese durch seinen lakonischen Sprachwitz aus. Komm, süßer Tod gewann den Deutschen Krimipreis 1999 und wurde 2000 mit Josef Hader in der Hauptrolle verfilmt, was zu seiner Popularität beigetragen haben dürfte.</value>
+</abstract>
+</XML_Serializer_Tag>
+</books>
+</Person>

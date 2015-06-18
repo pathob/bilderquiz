@@ -1,0 +1,32 @@
+<Person>
+<name>Bertha Pappenheim</name>
+<variantName>
+<XML_Serializer_Tag>B. Berthold</XML_Serializer_Tag>
+<XML_Serializer_Tag>P. Berthold</XML_Serializer_Tag>
+<XML_Serializer_Tag>Anna, O.</XML_Serializer_Tag>
+<XML_Serializer_Tag>Anna O.</XML_Serializer_Tag>
+<XML_Serializer_Tag>Berta Pappenheim</XML_Serializer_Tag>
+<XML_Serializer_Tag>Berthold Pappenheim</XML_Serializer_Tag>
+</variantName>
+<thumbnail>https://commons.wikimedia.org/wiki/Special:FilePath/Pappenheim_1882.jpg?width=270</thumbnail>
+<birthEN>1859</birthEN>
+<birthDE>1859</birthDE>
+<deathEN>1936</deathEN>
+<deathDE>1936</deathDE>
+<birthPlace>
+<XML_Serializer_Tag>Wien</XML_Serializer_Tag>
+</birthPlace>
+<deathPlace>
+<XML_Serializer_Tag>Neu-Isenburg</XML_Serializer_Tag>
+</deathPlace>
+<professionOrOccupation>
+<XML_Serializer_Tag>Schriftstellerin</XML_Serializer_Tag>
+<XML_Serializer_Tag>Feministin</XML_Serializer_Tag>
+</professionOrOccupation>
+<dbpResource>http://dbpedia.org/resource/Bertha_Pappenheim</dbpResource>
+<abstract>Bertha Pappenheim (* 27. Februar 1859 in Wien; † 28. Mai 1936 in Neu-Isenburg) war eine österreichische Frauenrechtlerin. Sie war Gründerin des Jüdischen Frauenbundes. Bekannt wurde sie darüber hinaus als Patientin Anna O. Die von Josef Breuer zusammen mit Sigmund Freud in den Studien über Hysterie veröffentlichte Fallgeschichte war für Freud Ausgangspunkt für die Entwicklung seiner Theorie der Hysterie und damit der Psychoanalyse.</abstract>
+<wikilink>http://en.wikipedia.org/wiki/Bertha_Pappenheim?oldid=603615324</wikilink>
+<artworks />
+<buildings />
+<books />
+</Person>

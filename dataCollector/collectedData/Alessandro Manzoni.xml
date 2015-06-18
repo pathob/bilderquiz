@@ -1,0 +1,58 @@
+<Person>
+<name>Alessandro Manzoni</name>
+<variantName>
+<XML_Serializer_Tag>Allessandro Manzoni</XML_Serializer_Tag>
+<XML_Serializer_Tag>Alejandro Manzoni</XML_Serializer_Tag>
+<XML_Serializer_Tag>Alexandre Manzoni</XML_Serializer_Tag>
+<XML_Serializer_Tag>Alexander Manzoni</XML_Serializer_Tag>
+<XML_Serializer_Tag>Aleksandr Manzoni</XML_Serializer_Tag>
+<XML_Serializer_Tag>A. Manzoni</XML_Serializer_Tag>
+<XML_Serializer_Tag>... Manzoni</XML_Serializer_Tag>
+<XML_Serializer_Tag>Alessandro Mandzoni</XML_Serializer_Tag>
+<XML_Serializer_Tag>Aġek&apos;sandr Manconi</XML_Serializer_Tag>
+</variantName>
+<thumbnail>https://commons.wikimedia.org/wiki/Special:FilePath/Francesco_Hayez_040.jpg?width=270</thumbnail>
+<birthEN>March 7, 1785</birthEN>
+<birthDE>7. März 1785</birthDE>
+<deathEN>May 22, 1873</deathEN>
+<deathDE>22. Mai 1873</deathDE>
+<birthPlace>
+<XML_Serializer_Tag>Mailand</XML_Serializer_Tag>
+</birthPlace>
+<deathPlace>
+<XML_Serializer_Tag>Mailand</XML_Serializer_Tag>
+</deathPlace>
+<professionOrOccupation>
+<XML_Serializer_Tag>Schriftsteller</XML_Serializer_Tag>
+</professionOrOccupation>
+<dbpResource>http://dbpedia.org/resource/Alessandro_Manzoni</dbpResource>
+<abstract>Alessandro Francesco Tommaso Manzoni (* 7. März 1785 in Mailand; † 22. Mai 1873 ebenda) war einer der bedeutendsten italienischen Dichter und Schriftsteller. Sein berühmtestes Werk ist der 1827 erschienene Roman I Promessi Sposi (deutsch Die Brautleute, früher Die Verlobten).</abstract>
+<wikilink>http://en.wikipedia.org/wiki/Alessandro_Manzoni?oldid=606674542</wikilink>
+<artworks />
+<buildings />
+<books>
+<XML_Serializer_Tag>
+<book>
+<type>uri</type>
+<value>http://dbpedia.org/resource/The_Betrothed_(Manzoni_novel)</value>
+</book>
+<author>
+<type>uri</type>
+<value>http://dbpedia.org/resource/Alessandro_Manzoni</value>
+</author>
+<thumbnail>
+<type>uri</type>
+<value>http://commons.wikimedia.org/wiki/Special:FilePath/I_promessi_sposi_-_2nd_edition_cover.jpg?width=300</value>
+</thumbnail>
+<wikilink>
+<type>uri</type>
+<value>http://en.wikipedia.org/wiki/The_Betrothed_(Manzoni_novel)?oldid=605826626</value>
+</wikilink>
+<abstract>
+<type>literal</type>
+<xml:lang>de</xml:lang>
+<value>I Promessi Sposi (deutsch: Die Brautleute, früher Die Verlobten) heißt ein historischer Roman des italienischen Autors Alessandro Manzoni, dessen erste Fassung 1827 und dessen endgültige Fassung 1840–1842 in Mailand erschienen ist. Der Untertitel Storia milanese del secolo XVII, scoperta e rifatta da Alessandro Manzoni („Mailändische Geschichte aus dem 17. Jahrhundert, entdeckt und neu eingerichtet von Alessandro Manzoni“) weist ihn als bloße Nacherzählung einer vorgefundenen Quelle aus. In Wahrheit ist er das erste Beispiel des modernen italienischen Romans und gilt nach Dantes Göttlicher Komödie als das bedeutendste Werk der klassischen italienischen Literatur.</value>
+</abstract>
+</XML_Serializer_Tag>
+</books>
+</Person>

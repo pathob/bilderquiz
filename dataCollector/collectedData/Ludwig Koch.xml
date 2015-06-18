@@ -19,8 +19,10 @@
 <XML_Serializer_Tag>Bildhauer</XML_Serializer_Tag>
 <XML_Serializer_Tag>Illustrator</XML_Serializer_Tag>
 </professionOrOccupation>
-<artworks />
 <dbpResource>http://dbpedia.org/resource/Ludwig_Koch_(painter)</dbpResource>
 <abstract>Ludwig Koch (* 13. Dezember 1866 in Wien; † 26. November 1934 ebenda) war ein österreichischer Maler, Bildhauer und Illustrator.</abstract>
 <wikilink>http://en.wikipedia.org/wiki/Ludwig_Koch_(painter)?oldid=591766057</wikilink>
+<artworks />
+<buildings />
+<books />
 </Person>

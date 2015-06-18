@@ -1,0 +1,22 @@
+<Person>
+<name>James Stirling</name>
+<variantName>
+<XML_Serializer_Tag>James Frazer Stirling</XML_Serializer_Tag>
+</variantName>
+<thumbnail>https://commons.wikimedia.org/wiki/Special:FilePath/Christian_von_Holst_mit_Peter_Beye_und_James_Stirling,_Foto_Staatsgalerie_Stuttgart.jpg?width=270</thumbnail>
+<birthEN>1926</birthEN>
+<birthDE>1926</birthDE>
+<deathEN>1992</deathEN>
+<deathDE>1992</deathDE>
+<birthPlace />
+<deathPlace />
+<professionOrOccupation>
+<XML_Serializer_Tag>Architekt</XML_Serializer_Tag>
+</professionOrOccupation>
+<dbpResource>http://dbpedia.org/resource/James_Stirling_(mathematician)</dbpResource>
+<abstract>James Stirling (* Mai 1692 in Garden bei Stirling; † 5. Dezember 1770 in Edinburgh) war ein schottischer Mathematiker.</abstract>
+<wikilink>http://en.wikipedia.org/wiki/James_Stirling_(mathematician)?oldid=596055198</wikilink>
+<artworks />
+<buildings />
+<books />
+</Person>

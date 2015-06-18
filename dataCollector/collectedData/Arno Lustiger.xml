@@ -1,0 +1,28 @@
+<Person>
+<name>Arno Lustiger</name>
+<variantName>
+<XML_Serializer_Tag>Arno Ljustiger</XML_Serializer_Tag>
+</variantName>
+<thumbnail>https://commons.wikimedia.org/wiki/Special:FilePath/Arno-Lustiger-2.JPG?width=270</thumbnail>
+<birthEN>May 7, 1924</birthEN>
+<birthDE>7. Mai 1924</birthDE>
+<deathEN>May 15, 2012</deathEN>
+<deathDE>15. Mai 2012</deathDE>
+<birthPlace>
+<XML_Serializer_Tag>Be̜dzin</XML_Serializer_Tag>
+</birthPlace>
+<deathPlace>
+<XML_Serializer_Tag>Frankfurt am Main</XML_Serializer_Tag>
+</deathPlace>
+<professionOrOccupation>
+<XML_Serializer_Tag>Historiker</XML_Serializer_Tag>
+<XML_Serializer_Tag>Schriftsteller</XML_Serializer_Tag>
+<XML_Serializer_Tag>Publizist</XML_Serializer_Tag>
+</professionOrOccupation>
+<dbpResource>http://dbpedia.org/resource/Arno_Lustiger</dbpResource>
+<abstract>Arno Lustiger (* 7. Mai 1924 in Będzin; † 15. Mai 2012 in Frankfurt am Main) war ein deutscher Historiker polnischer Herkunft. Lustiger hat wesentliche Beiträge zur Erforschung und Aufarbeitung der Geschichte des jüdischen Widerstands zur Zeit des Nationalsozialismus geleistet.</abstract>
+<wikilink>http://en.wikipedia.org/wiki/Arno_Lustiger?oldid=592913171</wikilink>
+<artworks />
+<buildings />
+<books />
+</Person>

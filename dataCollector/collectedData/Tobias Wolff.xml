@@ -1,0 +1,61 @@
+<Person>
+<name>Tobias Wolff</name>
+<variantName>
+<XML_Serializer_Tag>Tobias Jonathan Ansell Wolff</XML_Serializer_Tag>
+<XML_Serializer_Tag>Ṭobias Ṿolf</XML_Serializer_Tag>
+</variantName>
+<thumbnail>https://commons.wikimedia.org/wiki/Special:FilePath/TobiasWolff.jpg?width=270</thumbnail>
+<birthEN>1945</birthEN>
+<birthDE>1945</birthDE>
+<deathEN />
+<deathDE />
+<birthPlace>
+<XML_Serializer_Tag>Birmingham, Ala.</XML_Serializer_Tag>
+</birthPlace>
+<deathPlace />
+<professionOrOccupation>
+<XML_Serializer_Tag>Autor</XML_Serializer_Tag>
+<XML_Serializer_Tag>Dozent</XML_Serializer_Tag>
+<XML_Serializer_Tag>Schriftsteller</XML_Serializer_Tag>
+</professionOrOccupation>
+<dbpResource>http://dbpedia.org/resource/Tobias_Wolff</dbpResource>
+<abstract>Tobias Jonathan Ansell Wolff (* 19. Juni 1945 in Birmingham, Alabama) ist ein US-amerikanischer Schriftsteller, der insbesondere durch seine Kurzgeschichten und autobiografischen Erinnerungen bekannt wurde.</abstract>
+<wikilink>http://en.wikipedia.org/wiki/Tobias_Wolff?oldid=606754002</wikilink>
+<artworks />
+<buildings />
+<books>
+<XML_Serializer_Tag>
+<book>
+<type>uri</type>
+<value>http://dbpedia.org/resource/This_Boy&apos;s_Life</value>
+</book>
+<author>
+<type>uri</type>
+<value>http://dbpedia.org/resource/Tobias_Wolff</value>
+</author>
+<released>
+<type>typed-literal</type>
+<datatype>http://www.w3.org/2001/XMLSchema#date</datatype>
+<value>1989-01-26+02:00</value>
+</released>
+<wikilink>
+<type>uri</type>
+<value>http://en.wikipedia.org/wiki/This_Boy&apos;s_Life?oldid=606795364</value>
+</wikilink>
+</XML_Serializer_Tag>
+<XML_Serializer_Tag>
+<book>
+<type>uri</type>
+<value>http://dbpedia.org/resource/Old_School_(novel)</value>
+</book>
+<author>
+<type>uri</type>
+<value>http://dbpedia.org/resource/Tobias_Wolff</value>
+</author>
+<wikilink>
+<type>uri</type>
+<value>http://en.wikipedia.org/wiki/Old_School_(novel)?oldid=586408186</value>
+</wikilink>
+</XML_Serializer_Tag>
+</books>
+</Person>

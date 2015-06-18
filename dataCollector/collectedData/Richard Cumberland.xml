@@ -1,0 +1,28 @@
+<Person>
+<name>Richard Cumberland</name>
+<variantName>
+<XML_Serializer_Tag>Ricardus Cumberland</XML_Serializer_Tag>
+<XML_Serializer_Tag>R. Cumberland</XML_Serializer_Tag>
+<XML_Serializer_Tag>Richard Kumberland</XML_Serializer_Tag>
+</variantName>
+<thumbnail>https://commons.wikimedia.org/wiki/Special:FilePath/Richard_Cumberland,_dramatist.jpg?width=270</thumbnail>
+<birthEN>February 19, 1732</birthEN>
+<birthDE>19. Februar 1732</birthDE>
+<deathEN>May 7, 1811</deathEN>
+<deathDE>7. Mai 1811</deathDE>
+<birthPlace>
+<XML_Serializer_Tag>Cambridge</XML_Serializer_Tag>
+</birthPlace>
+<deathPlace>
+<XML_Serializer_Tag>London</XML_Serializer_Tag>
+</deathPlace>
+<professionOrOccupation>
+<XML_Serializer_Tag>Schriftsteller</XML_Serializer_Tag>
+</professionOrOccupation>
+<dbpResource>http://dbpedia.org/resource/Richard_Cumberland_(dramatist)</dbpResource>
+<abstract>Richard Cumberland (* 19. Februar 1732 in Cambridge; † 7. Mai 1811 in London) war ein englischer Dramatiker und Verwaltungsbeamter.</abstract>
+<wikilink>http://en.wikipedia.org/wiki/Richard_Cumberland_(dramatist)?oldid=602611210</wikilink>
+<artworks />
+<buildings />
+<books />
+</Person>

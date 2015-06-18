@@ -1,0 +1,30 @@
+<Person>
+<name>Fritz Leonhardt</name>
+<variantName>
+<XML_Serializer_Tag>F. Leongardt</XML_Serializer_Tag>
+<XML_Serializer_Tag>Fric Leonhart</XML_Serializer_Tag>
+<XML_Serializer_Tag>Friedrich Christof Leonhardt</XML_Serializer_Tag>
+</variantName>
+<thumbnail>https://commons.wikimedia.org/wiki/Special:FilePath/Schwedenbrücke_nachts.jpg?width=270</thumbnail>
+<birthEN>July 11, 1909</birthEN>
+<birthDE>11. Juli 1909</birthDE>
+<deathEN>December 30, 1999</deathEN>
+<deathDE>30. Dezember 1999</deathDE>
+<birthPlace>
+<XML_Serializer_Tag>Stuttgart</XML_Serializer_Tag>
+</birthPlace>
+<deathPlace>
+<XML_Serializer_Tag>Stuttgart</XML_Serializer_Tag>
+</deathPlace>
+<professionOrOccupation>
+<XML_Serializer_Tag>Ingenieur</XML_Serializer_Tag>
+<XML_Serializer_Tag>Bauingenieur</XML_Serializer_Tag>
+<XML_Serializer_Tag>Architekt</XML_Serializer_Tag>
+</professionOrOccupation>
+<dbpResource>http://dbpedia.org/resource/Fritz_Leonhardt</dbpResource>
+<abstract>Fritz Leonhardt (* 11. Juli 1909 in Stuttgart; † 30. Dezember 1999 ebenda) war einer der einflussreichsten deutschen Bauingenieure des 20. Jahrhunderts.</abstract>
+<wikilink>http://en.wikipedia.org/wiki/Fritz_Leonhardt?oldid=576763916</wikilink>
+<artworks />
+<buildings />
+<books />
+</Person>

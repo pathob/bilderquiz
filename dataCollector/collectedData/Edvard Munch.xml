@@ -15,12 +15,15 @@
 <XML_Serializer_Tag>Maler</XML_Serializer_Tag>
 <XML_Serializer_Tag>Graphiker</XML_Serializer_Tag>
 </professionOrOccupation>
+<dbpResource>http://dbpedia.org/resource/Edvard_Munch</dbpResource>
+<abstract>Edvard Munch [ɛdvɒ:rt muŋk] (* 12. Dezember 1863 in Løten, Hedmark, Norwegen; † 23. Januar 1944 auf Ekely in Oslo) war ein norwegischer Maler und Grafiker des Symbolismus.Munch gilt als Bahnbrecher für die expressionistische Richtung in der Malerei der Moderne. In Deutschland und Mitteleuropa genoss er früh den Ruf eines Epoche machenden Neuschöpfers, und heute sind seine Eigenart und sein Status schon längst im übrigen Europa und in der Welt anerkannt. Am bekanntesten sind die Werke Munchs aus den 1890er Jahren.</abstract>
+<wikilink>http://en.wikipedia.org/wiki/Edvard_Munch?oldid=606745263</wikilink>
 <artworks>
 <XML_Serializer_Tag>
-<painting>
+<artwork>
 <type>uri</type>
 <value>http://dbpedia.org/resource/The_Scream</value>
-</painting>
+</artwork>
 <thumbnail>
 <type>uri</type>
 <value>http://en.wikipedia.org/wiki/Special:FilePath/The_Scream.jpg?width=300</value>
@@ -44,9 +47,13 @@
 <type>uri</type>
 <value>http://en.wikipedia.org/wiki/The_Scream?oldid=606445705</value>
 </wikilink>
+<type>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>Oil, tempera, and pastel on cardboard</value>
+</type>
 </XML_Serializer_Tag>
 </artworks>
-<dbpResource>http://dbpedia.org/resource/Edvard_Munch</dbpResource>
-<abstract>Edvard Munch [ɛdvɒ:rt muŋk] (* 12. Dezember 1863 in Løten, Hedmark, Norwegen; † 23. Januar 1944 auf Ekely in Oslo) war ein norwegischer Maler und Grafiker des Symbolismus.Munch gilt als Bahnbrecher für die expressionistische Richtung in der Malerei der Moderne. In Deutschland und Mitteleuropa genoss er früh den Ruf eines Epoche machenden Neuschöpfers, und heute sind seine Eigenart und sein Status schon längst im übrigen Europa und in der Welt anerkannt. Am bekanntesten sind die Werke Munchs aus den 1890er Jahren.</abstract>
-<wikilink>http://en.wikipedia.org/wiki/Edvard_Munch?oldid=606745263</wikilink>
+<buildings />
+<books />
 </Person>

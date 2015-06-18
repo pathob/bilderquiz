@@ -1,0 +1,43 @@
+<Person>
+<name>William Carlos Williams</name>
+<variantName>
+<XML_Serializer_Tag>William C. Williams</XML_Serializer_Tag>
+<XML_Serializer_Tag>W. C. Williams</XML_Serializer_Tag>
+</variantName>
+<thumbnail>https://commons.wikimedia.org/wiki/Special:FilePath/William_Carlos_Williams_passport_photograph_1921.jpg?width=270</thumbnail>
+<birthEN>1883</birthEN>
+<birthDE>1883</birthDE>
+<deathEN>1963</deathEN>
+<deathDE>1963</deathDE>
+<birthPlace />
+<deathPlace />
+<professionOrOccupation>
+<XML_Serializer_Tag>Schriftsteller</XML_Serializer_Tag>
+</professionOrOccupation>
+<dbpResource>http://dbpedia.org/resource/William_Carlos_Williams</dbpResource>
+<abstract>William Carlos Williams (* 17. September 1883 in Rutherford, New Jersey; † 4. März 1963 ebenda) war ein amerikanischer Lyriker.</abstract>
+<wikilink>http://en.wikipedia.org/wiki/William_Carlos_Williams?oldid=606714085</wikilink>
+<artworks />
+<buildings />
+<books>
+<XML_Serializer_Tag>
+<book>
+<type>uri</type>
+<value>http://dbpedia.org/resource/The_Use_of_Force</value>
+</book>
+<author>
+<type>uri</type>
+<value>http://dbpedia.org/resource/William_Carlos_Williams</value>
+</author>
+<released>
+<type>typed-literal</type>
+<datatype>http://www.w3.org/2001/XMLSchema#integer</datatype>
+<value>1938</value>
+</released>
+<wikilink>
+<type>uri</type>
+<value>http://en.wikipedia.org/wiki/The_Use_of_Force?oldid=551554917</value>
+</wikilink>
+</XML_Serializer_Tag>
+</books>
+</Person>

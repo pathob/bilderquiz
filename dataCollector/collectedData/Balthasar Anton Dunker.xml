@@ -25,8 +25,10 @@
 <XML_Serializer_Tag>Illustrator</XML_Serializer_Tag>
 <XML_Serializer_Tag>Schriftsteller</XML_Serializer_Tag>
 </professionOrOccupation>
-<artworks />
 <dbpResource>http://dbpedia.org/resource/Balthasar_Anton_Dunker</dbpResource>
 <abstract>Balthasar Anton Dunker (auch: Duncker; * 15. Januar 1746 in Saal (Vorpommern); † 2. April 1807 in Bern) war ein deutscher Maler, Radierer und Schriftsteller, der überwiegend in Bern wirkte. Neben Landschaftsmalerei befasste er sich mit der Darstellung des politischen Geschehens seiner Zeit. Seine zum Teil satirischen Werke stellen einen frühen Höhepunkt der politischen Karikatur in der Schweiz dar.</abstract>
 <wikilink>http://en.wikipedia.org/wiki/Balthasar_Anton_Dunker?oldid=582080456</wikilink>
+<artworks />
+<buildings />
+<books />
 </Person>

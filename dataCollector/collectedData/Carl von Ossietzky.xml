@@ -1,0 +1,32 @@
+<Person>
+<name>Carl von Ossietzky</name>
+<variantName>
+<XML_Serializer_Tag>Karl von Ossietzky</XML_Serializer_Tag>
+<XML_Serializer_Tag>Carl Ossietzky</XML_Serializer_Tag>
+<XML_Serializer_Tag>Thomas Murner</XML_Serializer_Tag>
+<XML_Serializer_Tag>Lucius Schierling</XML_Serializer_Tag>
+<XML_Serializer_Tag>Felix Scherret</XML_Serializer_Tag>
+</variantName>
+<thumbnail>https://commons.wikimedia.org/wiki/Special:FilePath/Carl_von_Ossietzky.jpg?width=270</thumbnail>
+<birthEN>October 3, 1889</birthEN>
+<birthDE>3. Oktober 1889</birthDE>
+<deathEN>May 4, 1938</deathEN>
+<deathDE>4. Mai 1938</deathDE>
+<birthPlace>
+<XML_Serializer_Tag>Hamburg</XML_Serializer_Tag>
+</birthPlace>
+<deathPlace>
+<XML_Serializer_Tag>Berlin</XML_Serializer_Tag>
+</deathPlace>
+<professionOrOccupation>
+<XML_Serializer_Tag>Publizist</XML_Serializer_Tag>
+<XML_Serializer_Tag>Schriftsteller</XML_Serializer_Tag>
+<XML_Serializer_Tag>Zeitungsherausgeber</XML_Serializer_Tag>
+</professionOrOccupation>
+<dbpResource>http://dbpedia.org/resource/Carl_von_Ossietzky</dbpResource>
+<abstract>Carl von Ossietzky (* 3. Oktober 1889 in Hamburg; † 4. Mai 1938 in Berlin) war ein deutscher Journalist, Schriftsteller und Pazifist.Als Herausgeber der Zeitschrift Die Weltbühne wurde er im international aufsehenerregenden Weltbühne-Prozess 1931 wegen Spionage verurteilt, weil seine Zeitschrift auf die verbotene Aufrüstung der Reichswehr aufmerksam gemacht hatte. Ossietzky erhielt 1936 rückwirkend den Friedensnobelpreis für das Jahr 1935.</abstract>
+<wikilink>http://en.wikipedia.org/wiki/Carl_von_Ossietzky?oldid=602469569</wikilink>
+<artworks />
+<buildings />
+<books />
+</Person>

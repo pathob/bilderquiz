@@ -1,0 +1,32 @@
+<Person>
+<name>Alexander von Oettingen</name>
+<variantName>
+<XML_Serializer_Tag>Alexander Konstatin von Oettingen</XML_Serializer_Tag>
+<XML_Serializer_Tag>Alexander K. von Oettingen</XML_Serializer_Tag>
+<XML_Serializer_Tag>Alexander Oettingen</XML_Serializer_Tag>
+<XML_Serializer_Tag>Alexander von Öttingen</XML_Serializer_Tag>
+<XML_Serializer_Tag>Alexander von Oetting</XML_Serializer_Tag>
+</variantName>
+<thumbnail>https://commons.wikimedia.org/wiki/Special:FilePath/Alexander_von_Oettingen.jpg?width=270</thumbnail>
+<birthEN>December 24, 1827</birthEN>
+<birthDE>24. Dezember 1827</birthDE>
+<deathEN>August 20, 1906</deathEN>
+<deathDE>20. August 1906</deathDE>
+<birthPlace>
+<XML_Serializer_Tag>Rittergut Wissust (Kr. Dorpat)</XML_Serializer_Tag>
+</birthPlace>
+<deathPlace>
+<XML_Serializer_Tag>Dorpat</XML_Serializer_Tag>
+</deathPlace>
+<professionOrOccupation>
+<XML_Serializer_Tag>Evangelischer Theologe</XML_Serializer_Tag>
+<XML_Serializer_Tag>Statistiker</XML_Serializer_Tag>
+<XML_Serializer_Tag>Philosoph</XML_Serializer_Tag>
+</professionOrOccupation>
+<dbpResource>http://dbpedia.org/resource/Alexander_von_Oettingen</dbpResource>
+<abstract>Alexander Konstantin von Oettingen (* 12. Dezemberjul./ 24. Dezember 1827greg. auf Gut Wissust (estnisch: Visusti) bei Dorpat; † 8. Augustjul./ 21. August 1905greg. in Dorpat) war ein deutsch-baltischer lutherischer Theologe und Vordenker in der Sozialethik, Professor an der Universität Dorpat und kaiserlich russischer Wirklicher Staatsrat.</abstract>
+<wikilink>http://en.wikipedia.org/wiki/Alexander_von_Oettingen?oldid=583081549</wikilink>
+<artworks />
+<buildings />
+<books />
+</Person>

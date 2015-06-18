@@ -1,0 +1,32 @@
+<Person>
+<name>Franz Pfemfert</name>
+<variantName>
+<XML_Serializer_Tag>Franz Piemfert</XML_Serializer_Tag>
+<XML_Serializer_Tag>S. Pulvermacher</XML_Serializer_Tag>
+<XML_Serializer_Tag>U. Gaday</XML_Serializer_Tag>
+<XML_Serializer_Tag>U. Guday</XML_Serializer_Tag>
+<XML_Serializer_Tag>August Stech</XML_Serializer_Tag>
+</variantName>
+<thumbnail>https://commons.wikimedia.org/wiki/Special:FilePath/Aktion_1914.jpg?width=270</thumbnail>
+<birthEN>November 20, 1879</birthEN>
+<birthDE>20. November 1879</birthDE>
+<deathEN>May 26, 1954</deathEN>
+<deathDE>26. Mai 1954</deathDE>
+<birthPlace>
+<XML_Serializer_Tag>Lötzen</XML_Serializer_Tag>
+</birthPlace>
+<deathPlace>
+<XML_Serializer_Tag>Mexiko (Stadt)</XML_Serializer_Tag>
+</deathPlace>
+<professionOrOccupation>
+<XML_Serializer_Tag>Schriftsteller</XML_Serializer_Tag>
+<XML_Serializer_Tag>Verleger</XML_Serializer_Tag>
+<XML_Serializer_Tag>Publizist</XML_Serializer_Tag>
+</professionOrOccupation>
+<dbpResource>http://dbpedia.org/resource/Franz_Pfemfert</dbpResource>
+<abstract>Franz Pfemfert (* 20. November 1879 in Lötzen, Ostpreußen (heute: Giżycko, Polen); † 26. Mai 1954 in Mexiko-Stadt) war ein deutscher Publizist, Herausgeber der Zeitschrift Die Aktion, Literaturkritiker, Politiker und Porträtfotograf.Pfemfert schrieb gelegentlich unter dem Pseudonym U. Gaday (abgeleitet von russ. „ugadaj“, dt.: „rate mal“)</abstract>
+<wikilink>http://en.wikipedia.org/wiki/Franz_Pfemfert?oldid=580895184</wikilink>
+<artworks />
+<buildings />
+<books />
+</Person>

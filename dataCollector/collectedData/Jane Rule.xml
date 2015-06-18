@@ -1,0 +1,54 @@
+<Person>
+<name>Jane Rule</name>
+<variantName />
+<thumbnail>https://en.wikipedia.org/wiki/Special:FilePath/Jane_Rule_by_Alex_Waterhouse-Hayward.jpg?width=270</thumbnail>
+<birthEN>1931</birthEN>
+<birthDE>1931</birthDE>
+<deathEN>2007</deathEN>
+<deathDE>2007</deathDE>
+<birthPlace />
+<deathPlace />
+<professionOrOccupation>
+<XML_Serializer_Tag>Schriftstellerin</XML_Serializer_Tag>
+</professionOrOccupation>
+<dbpResource>http://dbpedia.org/resource/Jane_Rule</dbpResource>
+<abstract>Jane Vance Rule, CM, OBC (* 28. März 1931 in Plainfield, New Jersey; † 27. November 2007 auf Galiano Island, British Columbia) war eine kanadische Autorin und LGBT-Aktivistin.</abstract>
+<wikilink>http://en.wikipedia.org/wiki/Jane_Rule?oldid=586610876</wikilink>
+<artworks />
+<buildings />
+<books>
+<XML_Serializer_Tag>
+<book>
+<type>uri</type>
+<value>http://dbpedia.org/resource/Contract_with_the_World</value>
+</book>
+<author>
+<type>uri</type>
+<value>http://dbpedia.org/resource/Jane_Rule</value>
+</author>
+<released>
+<type>typed-literal</type>
+<datatype>http://www.w3.org/2001/XMLSchema#integer</datatype>
+<value>1980</value>
+</released>
+<wikilink>
+<type>uri</type>
+<value>http://en.wikipedia.org/wiki/Contract_with_the_World?oldid=603297787</value>
+</wikilink>
+</XML_Serializer_Tag>
+<XML_Serializer_Tag>
+<book>
+<type>uri</type>
+<value>http://dbpedia.org/resource/Desert_of_the_Heart</value>
+</book>
+<author>
+<type>uri</type>
+<value>http://dbpedia.org/resource/Jane_Rule</value>
+</author>
+<wikilink>
+<type>uri</type>
+<value>http://en.wikipedia.org/wiki/Desert_of_the_Heart?oldid=564728958</value>
+</wikilink>
+</XML_Serializer_Tag>
+</books>
+</Person>

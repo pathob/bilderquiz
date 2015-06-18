@@ -1,0 +1,23 @@
+<Person>
+<name>Frank Schulz</name>
+<variantName />
+<thumbnail>https://commons.wikimedia.org/wiki/Special:FilePath/Frank_Schulz_Leipziger_Buchmesse_2012_1.jpg?width=270</thumbnail>
+<birthEN>1957</birthEN>
+<birthDE>1957</birthDE>
+<deathEN />
+<deathDE />
+<birthPlace>
+<XML_Serializer_Tag>Stade</XML_Serializer_Tag>
+</birthPlace>
+<deathPlace />
+<professionOrOccupation>
+<XML_Serializer_Tag>Schriftsteller</XML_Serializer_Tag>
+<XML_Serializer_Tag>Kaufmann</XML_Serializer_Tag>
+</professionOrOccupation>
+<dbpResource>http://dbpedia.org/resource/Frank_Schulz_(footballer_born_1961)</dbpResource>
+<abstract>Frank Schulz (* 18. Februar 1961 in Remscheid) ist ein ehemaliger deutscher Fußballspieler und Trainer.</abstract>
+<wikilink>http://en.wikipedia.org/wiki/Frank_Schulz_(footballer_born_1961)?oldid=595753716</wikilink>
+<artworks />
+<buildings />
+<books />
+</Person>

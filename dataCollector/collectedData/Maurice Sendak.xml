@@ -1,0 +1,86 @@
+<Person>
+<name>Maurice Sendak</name>
+<variantName>
+<XML_Serializer_Tag>Maurice Bernard Sendak</XML_Serializer_Tag>
+<XML_Serializer_Tag>... Sendak-Manz-Udry</XML_Serializer_Tag>
+<XML_Serializer_Tag>Mōrisu Sendakku</XML_Serializer_Tag>
+<XML_Serializer_Tag>Moris Sendak</XML_Serializer_Tag>
+</variantName>
+<thumbnail>https://en.wikipedia.org/wiki/Special:FilePath/Maurice-Sendak_portrait2.jpg?width=270</thumbnail>
+<birthEN>June 10, 1928</birthEN>
+<birthDE>10. Juni 1928</birthDE>
+<deathEN>May 8, 2012</deathEN>
+<deathDE>8. Mai 2012</deathDE>
+<birthPlace>
+<XML_Serializer_Tag>New York, NY</XML_Serializer_Tag>
+</birthPlace>
+<deathPlace>
+<XML_Serializer_Tag>Danbury, Conn.</XML_Serializer_Tag>
+</deathPlace>
+<professionOrOccupation>
+<XML_Serializer_Tag>Künstler</XML_Serializer_Tag>
+<XML_Serializer_Tag>Illustrator</XML_Serializer_Tag>
+<XML_Serializer_Tag>Kinderbuchautor</XML_Serializer_Tag>
+<XML_Serializer_Tag>Graphiker</XML_Serializer_Tag>
+<XML_Serializer_Tag>Bühnenmaler und Bühnenplastiker</XML_Serializer_Tag>
+</professionOrOccupation>
+<dbpResource>http://dbpedia.org/resource/Maurice_Sendak</dbpResource>
+<abstract>Maurice Bernard Sendak (* 10. Juni 1928 in New York City, New York; † 8. Mai 2012 in Danbury, Connecticut) war ein US-amerikanischer Illustrator, Kinderbuchautor und Bühnenmaler. Er wurde mit einem neuen Realismus in der Kinderbuchliteratur bekannt, der zunächst auf großen Widerstand gestoßen war. Sein populärstes Werk ist Wo die wilden Kerle wohnen.</abstract>
+<wikilink>http://en.wikipedia.org/wiki/Maurice_Sendak?oldid=606239473</wikilink>
+<artworks />
+<buildings />
+<books>
+<XML_Serializer_Tag>
+<book>
+<type>uri</type>
+<value>http://dbpedia.org/resource/Where_the_Wild_Things_Are</value>
+</book>
+<author>
+<type>uri</type>
+<value>http://dbpedia.org/resource/Maurice_Sendak</value>
+</author>
+<wikilink>
+<type>uri</type>
+<value>http://en.wikipedia.org/wiki/Where_the_Wild_Things_Are?oldid=602701127</value>
+</wikilink>
+<abstract>
+<type>literal</type>
+<xml:lang>de</xml:lang>
+<value>Wo die wilden Kerle wohnen ist der deutsche Titel des Bilderbuchs Where the Wild Things Are des US-amerikanischen Illustrators und Autors Maurice Sendak, das 1963 bei Harper &amp; Row erschienen ist.Das Buch wurde vom Autor mit farbigen Federzeichnungen illustriert. Text wurde sehr sparsam verwendet, die deutsche Übersetzung etwa umfasst nur 333 Wörter. Während ein Teil der Kritiker die Geschichte schätzte, stieß Sendaks Buch auch auf Vorbehalte, weil es „zu grauslich“ sei. Sendak nannte den Jungen Max „meine tapferste und daher auch meine liebste Schöpfung“ und schätzte auch die „wilden Kerle“, „die nicht angelegt sind, es jedem recht zu machen – nur Kindern.“ Im englischen Sprachraum wurde das Bilderbuch überaus populär und gewann 1964 die Caldecott Medal, die höchste Auszeichnung für englischsprachige Bilderbücher.</value>
+</abstract>
+</XML_Serializer_Tag>
+<XML_Serializer_Tag>
+<book>
+<type>uri</type>
+<value>http://dbpedia.org/resource/In_the_Night_Kitchen</value>
+</book>
+<author>
+<type>uri</type>
+<value>http://dbpedia.org/resource/Maurice_Sendak</value>
+</author>
+<wikilink>
+<type>uri</type>
+<value>http://en.wikipedia.org/wiki/In_the_Night_Kitchen?oldid=591609724</value>
+</wikilink>
+<abstract>
+<type>literal</type>
+<xml:lang>de</xml:lang>
+<value>In der Nachtküche ist der deutsche Titel des Bilderbuchs In the Night Kitchen des amerikanischen Illustrators und Kinderbuchautors Maurice Sendak, das der Verlag Harper &amp; Row 1970 veröffentlichte. Held des Buches ist ein Junge namens Micky, der im Traum eine surreale Reise durch eine nächtliche Küche unternimmt und dort drei Bäckern beim Zubereiten eines Kuchens hilft. In der Nachtküche zählt nach Wo die wilden Kerle wohnen zu den populärsten Büchern Sendaks.</value>
+</abstract>
+</XML_Serializer_Tag>
+<XML_Serializer_Tag>
+<book>
+<type>uri</type>
+<value>http://dbpedia.org/resource/Outside_Over_There</value>
+</book>
+<author>
+<type>uri</type>
+<value>http://dbpedia.org/resource/Maurice_Sendak</value>
+</author>
+<wikilink>
+<type>uri</type>
+<value>http://en.wikipedia.org/wiki/Outside_Over_There?oldid=593172297</value>
+</wikilink>
+</XML_Serializer_Tag>
+</books>
+</Person>

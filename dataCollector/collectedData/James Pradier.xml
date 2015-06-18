@@ -1,0 +1,27 @@
+<Person>
+<name>James Pradier</name>
+<variantName>
+<XML_Serializer_Tag>Jean Jacques Pradier</XML_Serializer_Tag>
+</variantName>
+<thumbnail>https://de.wikipedia.org/wiki/Special:FilePath/Jean_Jacques_Pradier_(IW_03-1855_S_220).jpg?width=270</thumbnail>
+<birthEN>May 23, 1790</birthEN>
+<birthDE>23. Mai 1790</birthDE>
+<deathEN>June 4, 1852</deathEN>
+<deathDE>4. Juni 1852</deathDE>
+<birthPlace>
+<XML_Serializer_Tag>Genf</XML_Serializer_Tag>
+</birthPlace>
+<deathPlace>
+<XML_Serializer_Tag>Rueil/Paris</XML_Serializer_Tag>
+</deathPlace>
+<professionOrOccupation>
+<XML_Serializer_Tag>Bildhauer</XML_Serializer_Tag>
+<XML_Serializer_Tag>Künstler</XML_Serializer_Tag>
+</professionOrOccupation>
+<dbpResource>http://dbpedia.org/resource/James_Pradier</dbpResource>
+<abstract>James Pradier (* 23. Mai 1790 in Genf; † 4. Juni 1852 in Rueil bei Paris; eigentlich Jean Jacques Pradier) war ein französisch-schweizerischer Bildhauer.</abstract>
+<wikilink>http://en.wikipedia.org/wiki/James_Pradier?oldid=605045613</wikilink>
+<artworks />
+<buildings />
+<books />
+</Person>

@@ -1,0 +1,29 @@
+<Person>
+<name>Georg Kaiser</name>
+<variantName>
+<XML_Serializer_Tag>Friedrich Carl Georg Kaiser</XML_Serializer_Tag>
+<XML_Serializer_Tag>Gkeornk Kai͏̈zer</XML_Serializer_Tag>
+</variantName>
+<thumbnail>https://commons.wikimedia.org/wiki/Special:FilePath/Gedenktafel_Luisenplatz_3_(Charl)_Georg_Kaiser.JPG?width=270</thumbnail>
+<birthEN>November 25, 1878</birthEN>
+<birthDE>25. November 1878</birthDE>
+<deathEN>June 4, 1945</deathEN>
+<deathDE>4. Juni 1945</deathDE>
+<birthPlace>
+<XML_Serializer_Tag>Magdeburg</XML_Serializer_Tag>
+</birthPlace>
+<deathPlace>
+<XML_Serializer_Tag>Ascona</XML_Serializer_Tag>
+</deathPlace>
+<professionOrOccupation>
+<XML_Serializer_Tag>Schriftsteller</XML_Serializer_Tag>
+<XML_Serializer_Tag>Drehbuchautor</XML_Serializer_Tag>
+<XML_Serializer_Tag>Schauspieler</XML_Serializer_Tag>
+</professionOrOccupation>
+<dbpResource>http://dbpedia.org/resource/Georg_Kaiser</dbpResource>
+<abstract>Friedrich Carl Georg Kaiser (* 25. November 1878 in Magdeburg; † 4. Juni 1945 in Ascona) war ein deutscher Schriftsteller. Georg Kaiser war der erfolgreichste Dramatiker der expressionistischen Generation. Aus seinem Wirken als Autor gingen 60 Dramen hervor, von denen aber viele in Vergessenheit geraten sind.</abstract>
+<wikilink>http://en.wikipedia.org/wiki/Georg_Kaiser?oldid=589163876</wikilink>
+<artworks />
+<buildings />
+<books />
+</Person>

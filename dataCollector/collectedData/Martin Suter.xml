@@ -1,0 +1,35 @@
+<Person>
+<name>Martin Suter</name>
+<variantName>
+<XML_Serializer_Tag>Martin Zuter</XML_Serializer_Tag>
+<XML_Serializer_Tag>Martins Zuters</XML_Serializer_Tag>
+<XML_Serializer_Tag>Marutin Zūtā</XML_Serializer_Tag>
+<XML_Serializer_Tag>Martin Zuteri</XML_Serializer_Tag>
+<XML_Serializer_Tag>Ma ding Su te</XML_Serializer_Tag>
+<XML_Serializer_Tag>Mading-Sute</XML_Serializer_Tag>
+<XML_Serializer_Tag>Mading Sute</XML_Serializer_Tag>
+<XML_Serializer_Tag>마르틴 쥬터</XML_Serializer_Tag>
+<XML_Serializer_Tag>マルティン・ズーター</XML_Serializer_Tag>
+</variantName>
+<thumbnail>https://commons.wikimedia.org/wiki/Special:FilePath/Martin_Suter.jpg?width=270</thumbnail>
+<birthEN>1948</birthEN>
+<birthDE>1948</birthDE>
+<deathEN />
+<deathDE />
+<birthPlace>
+<XML_Serializer_Tag>Zürich</XML_Serializer_Tag>
+</birthPlace>
+<deathPlace />
+<professionOrOccupation>
+<XML_Serializer_Tag>Kolumnist</XML_Serializer_Tag>
+<XML_Serializer_Tag>Schriftsteller</XML_Serializer_Tag>
+<XML_Serializer_Tag>Drehbuchautor</XML_Serializer_Tag>
+<XML_Serializer_Tag>Werbetexter</XML_Serializer_Tag>
+</professionOrOccupation>
+<dbpResource>http://dbpedia.org/resource/Martin_Suter</dbpResource>
+<abstract>Martin Suter (* 29. Februar 1948 in Zürich) ist ein Schweizer Schriftsteller.</abstract>
+<wikilink>http://en.wikipedia.org/wiki/Martin_Suter?oldid=575583506</wikilink>
+<artworks />
+<buildings />
+<books />
+</Person>

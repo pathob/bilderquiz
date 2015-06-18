@@ -1,0 +1,96 @@
+<Person>
+<name>Isaiah Berlin</name>
+<variantName>
+<XML_Serializer_Tag>Isajja Berlin</XML_Serializer_Tag>
+<XML_Serializer_Tag>, Sir</XML_Serializer_Tag>
+<XML_Serializer_Tag>Isajja Berlin</XML_Serializer_Tag>
+<XML_Serializer_Tag>Yeshaʿyah Berlin</XML_Serializer_Tag>
+<XML_Serializer_Tag>Yĕs̆a&apos;yāhû Berlîn</XML_Serializer_Tag>
+<XML_Serializer_Tag>ישעיהו ברלין</XML_Serializer_Tag>
+</variantName>
+<thumbnail>https://commons.wikimedia.org/wiki/Special:FilePath/Riga_Theater_Promenade_1890-1900.jpg?width=270</thumbnail>
+<birthEN>June 6, 1909</birthEN>
+<birthDE>6. Juni 1909</birthDE>
+<deathEN>November 5, 1997</deathEN>
+<deathDE>5. November 1997</deathDE>
+<birthPlace>
+<XML_Serializer_Tag>Riga</XML_Serializer_Tag>
+</birthPlace>
+<deathPlace>
+<XML_Serializer_Tag>Oxford</XML_Serializer_Tag>
+</deathPlace>
+<professionOrOccupation>
+<XML_Serializer_Tag>Philosoph</XML_Serializer_Tag>
+<XML_Serializer_Tag>Soziologe</XML_Serializer_Tag>
+<XML_Serializer_Tag>Politologe</XML_Serializer_Tag>
+<XML_Serializer_Tag>Hochschullehrer</XML_Serializer_Tag>
+</professionOrOccupation>
+<dbpResource>http://dbpedia.org/resource/Isaiah_Berlin</dbpResource>
+<abstract>Sir Isaiah Berlin (* 6. Juni 1909 in Riga; † 5. November 1997 in Oxford) war ein britisch-jüdisch-russischer politischer Philosoph und Ideengeschichtler.Berlin war Mitte des 20. Jahrhunderts vor allem durch seine Unterscheidung zwischen negativer und positiver Freiheit bekannt. Seit den 1980er/1990er Jahren konzentriert sich das Interesse an ihm vor allem auf sein Konzept eines Wertpluralismus im Verhältnis zum Liberalismus. Zusammen mit dem US-amerikanischen Philosophen John Rawls war er der einflussreichste Denker des Liberalismus nach dem Zweiten Weltkrieg.Berlin wurde durch die russische Februarrevolution und die Oktoberrevolution geprägt, die er beide in Petrograd miterlebte: sie begründeten seinen tiefen Skeptizismus gegen Gewalt und dogmatischen Idealismus zur Erlangung politischer Ziele. Ein weiterer Besuch in Leningrad 1945 überzeugte ihn von der Unmenschlichkeit des sowjetischen Systems. Intellektuell prägte ihn der in Oxford in seiner Jugend vorherrschende vom Wiener Kreis beeinflusste logische Empirismus (Alfred Jules Ayer), von dem er sich aber bald abwandte. Denker, auf die er sich oft bezog, waren Alexander Herzen, John Stuart Mill und Immanuel Kant. Berlin beschäftigte sich eingehend mit den häufig romantisch beeinflussten Gegnern der Aufklärung, deren meist vorhandenen Monismus er ablehnte; jedoch schätzte er sie – sich selbst eher zu den Aufklärern zählend – als wichtige Kritiker von Schwachpunkten der Aufklärungsdoktrin.</abstract>
+<wikilink>http://en.wikipedia.org/wiki/Isaiah_Berlin?oldid=605134966</wikilink>
+<artworks />
+<buildings />
+<books>
+<XML_Serializer_Tag>
+<book>
+<type>uri</type>
+<value>http://dbpedia.org/resource/Karl_Marx:_His_Life_and_Environment</value>
+</book>
+<author>
+<type>uri</type>
+<value>http://dbpedia.org/resource/Isaiah_Berlin</value>
+</author>
+<published>
+<type>typed-literal</type>
+<datatype>http://www.w3.org/2001/XMLSchema#integer</datatype>
+<value>1939</value>
+</published>
+<wikilink>
+<type>uri</type>
+<value>http://en.wikipedia.org/wiki/Karl_Marx:_His_Life_and_Environment?oldid=601982770</value>
+</wikilink>
+</XML_Serializer_Tag>
+<XML_Serializer_Tag>
+<book>
+<type>uri</type>
+<value>http://dbpedia.org/resource/Against_the_Current:_Essays_in_the_History_of_Ideas</value>
+</book>
+<author>
+<type>uri</type>
+<value>http://dbpedia.org/resource/Isaiah_Berlin</value>
+</author>
+<wikilink>
+<type>uri</type>
+<value>http://en.wikipedia.org/wiki/Against_the_Current:_Essays_in_the_History_of_Ideas?oldid=590799230</value>
+</wikilink>
+</XML_Serializer_Tag>
+<XML_Serializer_Tag>
+<book>
+<type>uri</type>
+<value>http://dbpedia.org/resource/The_Hedgehog_and_the_Fox</value>
+</book>
+<author>
+<type>uri</type>
+<value>http://dbpedia.org/resource/Isaiah_Berlin</value>
+</author>
+<wikilink>
+<type>uri</type>
+<value>http://en.wikipedia.org/wiki/The_Hedgehog_and_the_Fox?oldid=606637767</value>
+</wikilink>
+</XML_Serializer_Tag>
+<XML_Serializer_Tag>
+<book>
+<type>uri</type>
+<value>http://dbpedia.org/resource/Three_Critics_of_the_Enlightenment</value>
+</book>
+<author>
+<type>uri</type>
+<value>http://dbpedia.org/resource/Isaiah_Berlin</value>
+</author>
+<wikilink>
+<type>uri</type>
+<value>http://en.wikipedia.org/wiki/Three_Critics_of_the_Enlightenment?oldid=544941435</value>
+</wikilink>
+</XML_Serializer_Tag>
+</books>
+</Person>

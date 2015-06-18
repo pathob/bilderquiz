@@ -1,0 +1,29 @@
+<Person>
+<name>Hugo Ball</name>
+<variantName>
+<XML_Serializer_Tag>Chugo Ball</XML_Serializer_Tag>
+</variantName>
+<thumbnail>https://commons.wikimedia.org/wiki/Special:FilePath/Stijl_vol_08_nr_85-86_p_097-098.jpg?width=270</thumbnail>
+<birthEN>February 22, 1886</birthEN>
+<birthDE>22. Februar 1886</birthDE>
+<deathEN>September 14, 1927</deathEN>
+<deathDE>14. September 1927</deathDE>
+<birthPlace>
+<XML_Serializer_Tag>Pirmasens</XML_Serializer_Tag>
+</birthPlace>
+<deathPlace />
+<professionOrOccupation>
+<XML_Serializer_Tag>Schriftsteller</XML_Serializer_Tag>
+<XML_Serializer_Tag>Dadaist</XML_Serializer_Tag>
+<XML_Serializer_Tag>Anarchist</XML_Serializer_Tag>
+<XML_Serializer_Tag>Lyriker</XML_Serializer_Tag>
+<XML_Serializer_Tag>Dramatiker</XML_Serializer_Tag>
+<XML_Serializer_Tag>Schauspieler</XML_Serializer_Tag>
+</professionOrOccupation>
+<dbpResource>http://dbpedia.org/resource/Hugo_Ball</dbpResource>
+<abstract>Hugo Ball (* 22. Februar 1886 in Pirmasens; † 14. September 1927 in Sant’Abbondio-Gentilino, Schweiz) war ein deutscher Autor und Biograf. Außerdem war er einer der Mitgründer der Dada-Bewegung und ein Pionier des Lautgedichts.</abstract>
+<wikilink>http://en.wikipedia.org/wiki/Hugo_Ball?oldid=606591627</wikilink>
+<artworks />
+<buildings />
+<books />
+</Person>

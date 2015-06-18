@@ -1,0 +1,29 @@
+<Person>
+<name>Cheiro</name>
+<variantName>
+<XML_Serializer_Tag>William John Warner</XML_Serializer_Tag>
+<XML_Serializer_Tag>Louis Hamon</XML_Serializer_Tag>
+<XML_Serializer_Tag>Count Louis Hamon</XML_Serializer_Tag>
+</variantName>
+<thumbnail>https://en.wikipedia.org/wiki/Special:FilePath/Cheiroy.jpg?width=270</thumbnail>
+<birthEN>November 1, 1866</birthEN>
+<birthDE>1. November 1866</birthDE>
+<deathEN>October 8, 1936</deathEN>
+<deathDE>8. Oktober 1936</deathDE>
+<birthPlace>
+<XML_Serializer_Tag>Dublin</XML_Serializer_Tag>
+</birthPlace>
+<deathPlace>
+<XML_Serializer_Tag>Hollywood</XML_Serializer_Tag>
+</deathPlace>
+<professionOrOccupation>
+<XML_Serializer_Tag>Okkultist</XML_Serializer_Tag>
+<XML_Serializer_Tag>Autor</XML_Serializer_Tag>
+</professionOrOccupation>
+<dbpResource>http://dbpedia.org/resource/Cheiro</dbpResource>
+<abstract>Cheiro (* 1. November 1866 in Dublin; † 8. Oktober 1936 in Hollywood) war ein irischer Okkultist, Chirologe, Numerologe und Autor zukunftsdeutender Werke.</abstract>
+<wikilink>http://en.wikipedia.org/wiki/Cheiro?oldid=600579816</wikilink>
+<artworks />
+<buildings />
+<books />
+</Person>

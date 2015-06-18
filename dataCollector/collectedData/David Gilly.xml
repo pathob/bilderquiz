@@ -1,0 +1,27 @@
+<Person>
+<name>David Gilly</name>
+<variantName>
+<XML_Serializer_Tag>David Friedrich Gilly</XML_Serializer_Tag>
+<XML_Serializer_Tag>D. Gilly</XML_Serializer_Tag>
+</variantName>
+<thumbnail>https://commons.wikimedia.org/wiki/Special:FilePath/David_Gilly.jpg?width=270</thumbnail>
+<birthEN>January 7, 1748</birthEN>
+<birthDE>7. Januar 1748</birthDE>
+<deathEN>May 5, 1808</deathEN>
+<deathDE>5. Mai 1808</deathDE>
+<birthPlace>
+<XML_Serializer_Tag>Schwedt/Oder</XML_Serializer_Tag>
+</birthPlace>
+<deathPlace>
+<XML_Serializer_Tag>Berlin</XML_Serializer_Tag>
+</deathPlace>
+<professionOrOccupation>
+<XML_Serializer_Tag>Architekt</XML_Serializer_Tag>
+</professionOrOccupation>
+<dbpResource>http://dbpedia.org/resource/David_Gilly</dbpResource>
+<abstract>David Gilly (* 7. Januar 1748 in Schwedt; † 5. Mai 1808 in Berlin) war ein deutscher Architekt, Stadt- und Regionalplaner und Baureformer zu Beginn der Epoche des Klassizismus.</abstract>
+<wikilink>http://en.wikipedia.org/wiki/David_Gilly?oldid=599674038</wikilink>
+<artworks />
+<buildings />
+<books />
+</Person>

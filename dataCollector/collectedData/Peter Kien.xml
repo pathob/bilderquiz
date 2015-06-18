@@ -18,8 +18,10 @@
 <XML_Serializer_Tag>Maler</XML_Serializer_Tag>
 <XML_Serializer_Tag>Schriftsteller</XML_Serializer_Tag>
 </professionOrOccupation>
-<artworks />
 <dbpResource>http://dbpedia.org/resource/Peter_Kien</dbpResource>
 <abstract>Franz Peter Kien oder František Petr Kien (* 1. Januar 1919 in Varnsdorf, Tschechoslowakei; † Ende 1944 im KZ Auschwitz) war ein deutschsprachiger tschechisch-jüdischer Künstler und Dichter.</abstract>
 <wikilink>http://en.wikipedia.org/wiki/Peter_Kien?oldid=603553385</wikilink>
+<artworks />
+<buildings />
+<books />
 </Person>

@@ -1,0 +1,76 @@
+<Person>
+<name>Mary Elizabeth Braddon</name>
+<variantName>
+<XML_Serializer_Tag>Mary Elisabeth Braddon</XML_Serializer_Tag>
+<XML_Serializer_Tag>Mary Maxwell</XML_Serializer_Tag>
+<XML_Serializer_Tag>Mary E. Maxwell</XML_Serializer_Tag>
+<XML_Serializer_Tag>Mary Elizabeth Braddon Maxwell</XML_Serializer_Tag>
+<XML_Serializer_Tag>Mary E. Braddon</XML_Serializer_Tag>
+<XML_Serializer_Tag>M. E. Braddon</XML_Serializer_Tag>
+</variantName>
+<thumbnail>https://commons.wikimedia.org/wiki/Special:FilePath/Mary_Elizabeth_Maxwell_(née_Braddon)_by_William_Powell_Frith.jpg?width=270</thumbnail>
+<birthEN>October 4, 1835</birthEN>
+<birthDE>4. Oktober 1835</birthDE>
+<deathEN>February 4, 1915</deathEN>
+<deathDE>4. Februar 1915</deathDE>
+<birthPlace>
+<XML_Serializer_Tag>London</XML_Serializer_Tag>
+</birthPlace>
+<deathPlace />
+<professionOrOccupation>
+<XML_Serializer_Tag>Schriftstellerin</XML_Serializer_Tag>
+</professionOrOccupation>
+<dbpResource>http://dbpedia.org/resource/Mary_Elizabeth_Braddon</dbpResource>
+<abstract>Mary Elizabeth Braddon (* 4. Oktober 1837 in London; † 4. Februar 1915 in Richmond upon Thames) war eine englische Schriftstellerin.</abstract>
+<wikilink>http://en.wikipedia.org/wiki/Mary_Elizabeth_Braddon?oldid=602624256</wikilink>
+<artworks />
+<buildings />
+<books>
+<XML_Serializer_Tag>
+<book>
+<type>uri</type>
+<value>http://dbpedia.org/resource/Aurora_Floyd</value>
+</book>
+<author>
+<type>uri</type>
+<value>http://dbpedia.org/resource/Mary_Elizabeth_Braddon</value>
+</author>
+<thumbnail>
+<type>uri</type>
+<value>http://commons.wikimedia.org/wiki/Special:FilePath/Aurora_Floyd_Novel_Cover.jpg?width=300</value>
+</thumbnail>
+<released>
+<type>typed-literal</type>
+<datatype>http://www.w3.org/2001/XMLSchema#integer</datatype>
+<value>1863</value>
+</released>
+<wikilink>
+<type>uri</type>
+<value>http://en.wikipedia.org/wiki/Aurora_Floyd?oldid=568300226</value>
+</wikilink>
+</XML_Serializer_Tag>
+<XML_Serializer_Tag>
+<book>
+<type>uri</type>
+<value>http://dbpedia.org/resource/Lady_Audley&apos;s_Secret</value>
+</book>
+<author>
+<type>uri</type>
+<value>http://dbpedia.org/resource/Mary_Elizabeth_Braddon</value>
+</author>
+<thumbnail>
+<type>uri</type>
+<value>http://commons.wikimedia.org/wiki/Special:FilePath/Lady_Audleys_Secret_Cover.jpg?width=300</value>
+</thumbnail>
+<published>
+<type>typed-literal</type>
+<datatype>http://www.w3.org/2001/XMLSchema#integer</datatype>
+<value>1862</value>
+</published>
+<wikilink>
+<type>uri</type>
+<value>http://en.wikipedia.org/wiki/Lady_Audley&apos;s_Secret?oldid=599096097</value>
+</wikilink>
+</XML_Serializer_Tag>
+</books>
+</Person>

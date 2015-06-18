@@ -20,8 +20,10 @@
 <XML_Serializer_Tag>Maler</XML_Serializer_Tag>
 <XML_Serializer_Tag>Zeichner</XML_Serializer_Tag>
 </professionOrOccupation>
-<artworks />
 <dbpResource>http://dbpedia.org/resource/Tobias_Stimmer</dbpResource>
 <abstract>Tobias Stimmer (* 7. April 1539 in Schaffhausen; † 4. Januar 1584 in Strassburg) war ein Schweizer Maler und Zeichner.</abstract>
 <wikilink>http://en.wikipedia.org/wiki/Tobias_Stimmer?oldid=602164761</wikilink>
+<artworks />
+<buildings />
+<books />
 </Person>

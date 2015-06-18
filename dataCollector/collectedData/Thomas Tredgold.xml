@@ -1,0 +1,27 @@
+<Person>
+<name>Thomas Tredgold</name>
+<variantName>
+<XML_Serializer_Tag>Thos. Tredgold</XML_Serializer_Tag>
+</variantName>
+<thumbnail>https://commons.wikimedia.org/wiki/Special:FilePath/Thomas_Tredgold.jpg?width=270</thumbnail>
+<birthEN>August 22, 1788</birthEN>
+<birthDE>22. August 1788</birthDE>
+<deathEN>January 28, 1829</deathEN>
+<deathDE>28. Januar 1829</deathDE>
+<birthPlace />
+<deathPlace>
+<XML_Serializer_Tag>London</XML_Serializer_Tag>
+</deathPlace>
+<professionOrOccupation>
+<XML_Serializer_Tag>Ingenieur</XML_Serializer_Tag>
+<XML_Serializer_Tag>Techniker</XML_Serializer_Tag>
+<XML_Serializer_Tag>Schriftsteller</XML_Serializer_Tag>
+<XML_Serializer_Tag>Zimmerer</XML_Serializer_Tag>
+</professionOrOccupation>
+<dbpResource>http://dbpedia.org/resource/Thomas_Tredgold</dbpResource>
+<abstract>Thomas Tredgold (* 22. August 1788 in Brandon, County Durham; † 28. Januar 1829) war ein englischer Ingenieur.</abstract>
+<wikilink>http://en.wikipedia.org/wiki/Thomas_Tredgold?oldid=548046941</wikilink>
+<artworks />
+<buildings />
+<books />
+</Person>

@@ -1,0 +1,31 @@
+<Person>
+<name>Christian Wagner</name>
+<variantName>
+<XML_Serializer_Tag>Christian Friedrich Wagner</XML_Serializer_Tag>
+<XML_Serializer_Tag>Ch. Wagner</XML_Serializer_Tag>
+<XML_Serializer_Tag>Wagner von Warmbronn</XML_Serializer_Tag>
+<XML_Serializer_Tag>Christian Wagner von Warmbronn</XML_Serializer_Tag>
+<XML_Serializer_Tag>Christian Wagner-Warmbronn</XML_Serializer_Tag>
+</variantName>
+<thumbnail>https://commons.wikimedia.org/wiki/Special:FilePath/Christian-Wagner1.jpg?width=270</thumbnail>
+<birthEN>August 5, 1835</birthEN>
+<birthDE>5. August 1835</birthDE>
+<deathEN>February 15, 1918</deathEN>
+<deathDE>15. Februar 1918</deathDE>
+<birthPlace>
+<XML_Serializer_Tag>Warmbronn</XML_Serializer_Tag>
+</birthPlace>
+<deathPlace>
+<XML_Serializer_Tag>Warmbronn</XML_Serializer_Tag>
+</deathPlace>
+<professionOrOccupation>
+<XML_Serializer_Tag>Schriftsteller</XML_Serializer_Tag>
+<XML_Serializer_Tag>Landwirt</XML_Serializer_Tag>
+</professionOrOccupation>
+<dbpResource>http://dbpedia.org/resource/Christian_Wagner_(director)</dbpResource>
+<abstract>Christian Wagner (* 26. September 1959 in Immenstadt im Allgäu) ist ein deutscher Filmregisseur und Drehbuchautor.</abstract>
+<wikilink>http://en.wikipedia.org/wiki/Christian_Wagner_(director)?oldid=546277624</wikilink>
+<artworks />
+<buildings />
+<books />
+</Person>

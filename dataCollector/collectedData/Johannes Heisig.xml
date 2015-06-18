@@ -17,8 +17,10 @@
 <XML_Serializer_Tag>Hochschullehrer</XML_Serializer_Tag>
 <XML_Serializer_Tag>Rektor</XML_Serializer_Tag>
 </professionOrOccupation>
-<artworks />
 <dbpResource>http://dbpedia.org/resource/Johannes_Heisig</dbpResource>
 <abstract>Johannes Heisig (* 23. April 1953 in Leipzig) ist ein deutscher Maler, Zeichner und Grafiker in der sozialkritischen Tradition des Realismus.</abstract>
 <wikilink>http://en.wikipedia.org/wiki/Johannes_Heisig?oldid=586916341</wikilink>
+<artworks />
+<buildings />
+<books />
 </Person>

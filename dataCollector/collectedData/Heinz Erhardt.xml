@@ -1,0 +1,30 @@
+<Person>
+<name>Heinz Erhardt</name>
+<variantName>
+<XML_Serializer_Tag>Heinz Erhard</XML_Serializer_Tag>
+</variantName>
+<thumbnail>https://commons.wikimedia.org/wiki/Special:FilePath/DPAG_2009_Heinz_Erhardt,_noch&apos;n_Gedicht.jpg?width=270</thumbnail>
+<birthEN>February 20, 1909</birthEN>
+<birthDE>20. Februar 1909</birthDE>
+<deathEN>June 5, 1979</deathEN>
+<deathDE>5. Juni 1979</deathDE>
+<birthPlace>
+<XML_Serializer_Tag>Riga</XML_Serializer_Tag>
+</birthPlace>
+<deathPlace>
+<XML_Serializer_Tag>Hamburg-Wellingsbüttel</XML_Serializer_Tag>
+</deathPlace>
+<professionOrOccupation>
+<XML_Serializer_Tag>Kabarettist</XML_Serializer_Tag>
+<XML_Serializer_Tag>Komponist</XML_Serializer_Tag>
+<XML_Serializer_Tag>Musiker</XML_Serializer_Tag>
+<XML_Serializer_Tag>Schriftsteller</XML_Serializer_Tag>
+<XML_Serializer_Tag>Schauspieler</XML_Serializer_Tag>
+</professionOrOccupation>
+<dbpResource>http://dbpedia.org/resource/Heinz_Erhardt</dbpResource>
+<abstract>Heinz Erhardt (* 20. Februar 1909 in Riga; † 5. Juni 1979 in Hamburg-Wellingsbüttel) war ein deutscher Komiker, Musiker, Entertainer, Schauspieler und Dichter.</abstract>
+<wikilink>http://en.wikipedia.org/wiki/Heinz_Erhardt?oldid=605278097</wikilink>
+<artworks />
+<buildings />
+<books />
+</Person>

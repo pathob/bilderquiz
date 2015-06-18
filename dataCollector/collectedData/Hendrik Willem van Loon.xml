@@ -1,0 +1,55 @@
+<Person>
+<name>Hendrik Willem van Loon</name>
+<variantName>
+<XML_Serializer_Tag>Hendrik Wm van Loon</XML_Serializer_Tag>
+<XML_Serializer_Tag>Hendrik W. van Loon</XML_Serializer_Tag>
+<XML_Serializer_Tag>Hendrik W. Van Loon</XML_Serializer_Tag>
+<XML_Serializer_Tag>Hendrik Van Loon</XML_Serializer_Tag>
+<XML_Serializer_Tag>Hendrik van Loon</XML_Serializer_Tag>
+<XML_Serializer_Tag>Hendrik Willem VanLoon</XML_Serializer_Tag>
+<XML_Serializer_Tag>Hendrik W. VanLoon</XML_Serializer_Tag>
+<XML_Serializer_Tag>Hendrik VanLoon</XML_Serializer_Tag>
+<XML_Serializer_Tag>Henrik Van Loon</XML_Serializer_Tag>
+<XML_Serializer_Tag>Hendrik Willem van Loon</XML_Serializer_Tag>
+</variantName>
+<thumbnail>https://commons.wikimedia.org/wiki/Special:FilePath/Hendrik_Willem_van_Loon_cph.3a02154.jpg?width=270</thumbnail>
+<birthEN>January 14, 1882</birthEN>
+<birthDE>14. Januar 1882</birthDE>
+<deathEN>March 11, 1944</deathEN>
+<deathDE>11. März 1944</deathDE>
+<birthPlace>
+<XML_Serializer_Tag>Rotterdam</XML_Serializer_Tag>
+</birthPlace>
+<deathPlace>
+<XML_Serializer_Tag>Old Greenwich, Connecticut, USA</XML_Serializer_Tag>
+</deathPlace>
+<professionOrOccupation>
+<XML_Serializer_Tag>Schriftsteller</XML_Serializer_Tag>
+</professionOrOccupation>
+<dbpResource>http://dbpedia.org/resource/Hendrik_Willem_van_Loon</dbpResource>
+<abstract>Hendrik Willem van Loon (Künstlername Hendrik Willem VanLoon) (* 14. Januar 1882 in Rotterdam (Südholland); † 11. März 1944 in Old Greenwich, Connecticut) war ein niederländisch-amerikanischer Autor, Historiker, Journalist, Zeichner und Buchillustrator.</abstract>
+<wikilink>http://en.wikipedia.org/wiki/Hendrik_Willem_van_Loon?oldid=602647999</wikilink>
+<artworks />
+<buildings />
+<books>
+<XML_Serializer_Tag>
+<book>
+<type>uri</type>
+<value>http://dbpedia.org/resource/The_Story_of_Mankind</value>
+</book>
+<author>
+<type>uri</type>
+<value>http://dbpedia.org/resource/Hendrik_Willem_van_Loon</value>
+</author>
+<released>
+<type>typed-literal</type>
+<datatype>http://www.w3.org/2001/XMLSchema#integer</datatype>
+<value>1921</value>
+</released>
+<wikilink>
+<type>uri</type>
+<value>http://en.wikipedia.org/wiki/The_Story_of_Mankind?oldid=602697095</value>
+</wikilink>
+</XML_Serializer_Tag>
+</books>
+</Person>

@@ -1,0 +1,47 @@
+<Person>
+<name>Nella Larsen</name>
+<variantName>
+<XML_Serializer_Tag>Nellye Larsen</XML_Serializer_Tag>
+<XML_Serializer_Tag>Nellie Larsen</XML_Serializer_Tag>
+<XML_Serializer_Tag>Nellie Walker</XML_Serializer_Tag>
+<XML_Serializer_Tag>Nella Imes</XML_Serializer_Tag>
+<XML_Serializer_Tag>Nella Larsen Imes</XML_Serializer_Tag>
+</variantName>
+<thumbnail>https://commons.wikimedia.org/wiki/Special:FilePath/NellaLarsen1928.jpg?width=270</thumbnail>
+<birthEN>April 14, 1891</birthEN>
+<birthDE>14. April 1891</birthDE>
+<deathEN>March 30, 1964</deathEN>
+<deathDE>30. März 1964</deathDE>
+<birthPlace>
+<XML_Serializer_Tag>Chicago, Ill.</XML_Serializer_Tag>
+</birthPlace>
+<deathPlace>
+<XML_Serializer_Tag>Brooklyn, NY</XML_Serializer_Tag>
+</deathPlace>
+<professionOrOccupation>
+<XML_Serializer_Tag>Schriftstellerin</XML_Serializer_Tag>
+<XML_Serializer_Tag>Krankenschwester</XML_Serializer_Tag>
+<XML_Serializer_Tag>Bibliothekarin</XML_Serializer_Tag>
+</professionOrOccupation>
+<dbpResource>http://dbpedia.org/resource/Nella_Larsen</dbpResource>
+<abstract>Nella Larsen (* 13. April 1891 in Chicago, Illinois; † 30. März 1964 in New York City, New York), Pseudonyme Nellie Walker, Nellye Larson, Nellie Larsen, war eine afroamerikanische Schriftstellerin, die der literarischen Bewegung der Harlem Renaissance angehörte.</abstract>
+<wikilink>http://en.wikipedia.org/wiki/Nella_Larsen?oldid=601042384</wikilink>
+<artworks />
+<buildings />
+<books>
+<XML_Serializer_Tag>
+<book>
+<type>uri</type>
+<value>http://dbpedia.org/resource/Passing_(novel)</value>
+</book>
+<author>
+<type>uri</type>
+<value>http://dbpedia.org/resource/Nella_Larsen</value>
+</author>
+<wikilink>
+<type>uri</type>
+<value>http://en.wikipedia.org/wiki/Passing_(novel)?oldid=606175710</value>
+</wikilink>
+</XML_Serializer_Tag>
+</books>
+</Person>

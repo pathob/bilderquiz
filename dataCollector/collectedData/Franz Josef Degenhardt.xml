@@ -1,0 +1,36 @@
+<Person>
+<name>Franz Josef Degenhardt</name>
+<variantName>
+<XML_Serializer_Tag>Fr. J. Degenhardt</XML_Serializer_Tag>
+<XML_Serializer_Tag>F. J. Degenhardt</XML_Serializer_Tag>
+<XML_Serializer_Tag>Franc Jozef Degenchart</XML_Serializer_Tag>
+<XML_Serializer_Tag>Franz-Josef Degenhardt</XML_Serializer_Tag>
+<XML_Serializer_Tag>Franz J. Degenhardt</XML_Serializer_Tag>
+<XML_Serializer_Tag>Franz Joseph Degenhardt</XML_Serializer_Tag>
+</variantName>
+<thumbnail>https://commons.wikimedia.org/wiki/Special:FilePath/Franz_Josef_Degenhardt_(1987)_by_Guenter_Prust.jpg?width=270</thumbnail>
+<birthEN>December 3, 1931</birthEN>
+<birthDE>3. Dezember 1931</birthDE>
+<deathEN>November 14, 2011</deathEN>
+<deathDE>14. November 2011</deathDE>
+<birthPlace>
+<XML_Serializer_Tag>Schwelm</XML_Serializer_Tag>
+</birthPlace>
+<deathPlace>
+<XML_Serializer_Tag>Quickborn (Pinneberg)</XML_Serializer_Tag>
+</deathPlace>
+<professionOrOccupation>
+<XML_Serializer_Tag>Liedermacher</XML_Serializer_Tag>
+<XML_Serializer_Tag>Komponist</XML_Serializer_Tag>
+<XML_Serializer_Tag>Rechtsanwalt</XML_Serializer_Tag>
+<XML_Serializer_Tag>Musiker</XML_Serializer_Tag>
+<XML_Serializer_Tag>Schriftsteller</XML_Serializer_Tag>
+<XML_Serializer_Tag>Schauspieler</XML_Serializer_Tag>
+</professionOrOccupation>
+<dbpResource>http://dbpedia.org/resource/Franz_Josef_Degenhardt</dbpResource>
+<abstract>Franz Josef Degenhardt (* 3. Dezember 1931 in Schwelm, Provinz Westfalen; † 14. November 2011 in Quickborn, Schleswig-Holstein) war ein deutscher Liedermacher, Schriftsteller sowie promovierter Jurist und Rechtsanwalt.</abstract>
+<wikilink>http://en.wikipedia.org/wiki/Franz_Josef_Degenhardt?oldid=581160990</wikilink>
+<artworks />
+<buildings />
+<books />
+</Person>

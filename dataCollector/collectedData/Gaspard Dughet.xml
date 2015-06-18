@@ -21,8 +21,10 @@
 <professionOrOccupation>
 <XML_Serializer_Tag>Maler</XML_Serializer_Tag>
 </professionOrOccupation>
-<artworks />
 <dbpResource>http://dbpedia.org/resource/Gaspard_Dughet</dbpResource>
 <abstract>Gaspard Poussin [pu&apos;sɛ̃] (* 1613 in Rom; † 25. Mai 1675 ebenda; eigentlich Gaspard Dughet) war ein italienischer Landschaftsmaler.</abstract>
 <wikilink>http://en.wikipedia.org/wiki/Gaspard_Dughet?oldid=601484393</wikilink>
+<artworks />
+<buildings />
+<books />
 </Person>

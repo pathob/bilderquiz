@@ -1,0 +1,198 @@
+<Person>
+<name>Herman Melville</name>
+<variantName>
+<XML_Serializer_Tag>Hermann Melville</XML_Serializer_Tag>
+<XML_Serializer_Tag>German Melvill</XML_Serializer_Tag>
+<XML_Serializer_Tag>Hermann Melvill</XML_Serializer_Tag>
+<XML_Serializer_Tag>Hermann Melwille</XML_Serializer_Tag>
+<XML_Serializer_Tag>Salvator R. Tarnmoor</XML_Serializer_Tag>
+</variantName>
+<thumbnail>https://commons.wikimedia.org/wiki/Special:FilePath/HermanMelville55.jpg?width=270</thumbnail>
+<birthEN>August 1, 1819</birthEN>
+<birthDE>1. August 1819</birthDE>
+<deathEN>September 28, 1891</deathEN>
+<deathDE>28. September 1891</deathDE>
+<birthPlace>
+<XML_Serializer_Tag>New York, NY</XML_Serializer_Tag>
+</birthPlace>
+<deathPlace>
+<XML_Serializer_Tag>New York, NY</XML_Serializer_Tag>
+</deathPlace>
+<professionOrOccupation>
+<XML_Serializer_Tag>Schriftsteller</XML_Serializer_Tag>
+</professionOrOccupation>
+<dbpResource>http://dbpedia.org/resource/Herman_Melville</dbpResource>
+<abstract>Herman Melville, geboren als Herman Melvill (* 1. August 1819 in New York City, New York; † 28. September 1891 ebenda) war ein amerikanischer Schriftsteller, Dichter und Essayist. Melvilles Moby Dick gilt als einer der bedeutendsten Romane der Weltliteratur.</abstract>
+<wikilink>http://en.wikipedia.org/wiki/Herman_Melville?oldid=605763365</wikilink>
+<artworks />
+<buildings />
+<books>
+<XML_Serializer_Tag>
+<book>
+<type>uri</type>
+<value>http://dbpedia.org/resource/Moby-Dick</value>
+</book>
+<author>
+<type>uri</type>
+<value>http://dbpedia.org/resource/Herman_Melville</value>
+</author>
+<thumbnail>
+<type>uri</type>
+<value>http://commons.wikimedia.org/wiki/Special:FilePath/Moby-Dick_FE_title_page.jpg?width=300</value>
+</thumbnail>
+<released>
+<type>typed-literal</type>
+<datatype>http://www.w3.org/2001/XMLSchema#date</datatype>
+<value>1851-11-14+02:00</value>
+</released>
+<wikilink>
+<type>uri</type>
+<value>http://en.wikipedia.org/wiki/Moby-Dick?oldid=606592047</value>
+</wikilink>
+<abstract>
+<type>literal</type>
+<xml:lang>de</xml:lang>
+<value>Moby-Dick; oder: Der Wal (englisch Moby-Dick; or, The Whale) ist ein 1851 in London und New York erschienener Roman von Herman Melville. Das erzählerische Rückgrat des Romans ist die schicksalhafte Fahrt des Walfangschiffes Pequod, dessen einbeiniger Kapitän Ahab mit blindem Hass den weißen Pottwal Moby Dick jagt, der ihm das Bein abgerissen hat.Entlang dieses erzählerischen Fadens, der knapp die Hälfte des Romans ausmacht, reiht Melville zahlreiche philosophische, wissenschaftliche, kunstgeschichtliche und mythologische Exkurse, zu denen noch viele subjektive, mal lyrische, mal auch ironische Betrachtungen des Autors kommen. In diesem Rahmen wird auch die Welt des Walfangs im 18. und 19. Jahrhundert detailreich dargestellt. Melville widmete seinen Roman Moby-Dick dem befreundeten Schriftsteller Nathaniel Hawthorne.</value>
+</abstract>
+</XML_Serializer_Tag>
+<XML_Serializer_Tag>
+<book>
+<type>uri</type>
+<value>http://dbpedia.org/resource/Typee</value>
+</book>
+<author>
+<type>uri</type>
+<value>http://dbpedia.org/resource/Herman_Melville</value>
+</author>
+<thumbnail>
+<type>uri</type>
+<value>http://commons.wikimedia.org/wiki/Special:FilePath/Typee_1st_edition.jpg?width=300</value>
+</thumbnail>
+<released>
+<type>typed-literal</type>
+<datatype>http://www.w3.org/2001/XMLSchema#date</datatype>
+<value>1846-02-26+02:00</value>
+</released>
+<wikilink>
+<type>uri</type>
+<value>http://en.wikipedia.org/wiki/Typee?oldid=600510003</value>
+</wikilink>
+<abstract>
+<type>literal</type>
+<xml:lang>de</xml:lang>
+<value>Typee (deutscher Verlagstitel &quot;Taipi&quot;) ist eine Erzählung von Herman Melville, die 1846 erschien.</value>
+</abstract>
+</XML_Serializer_Tag>
+<XML_Serializer_Tag>
+<book>
+<type>uri</type>
+<value>http://dbpedia.org/resource/Billy_Budd</value>
+</book>
+<author>
+<type>uri</type>
+<value>http://dbpedia.org/resource/Herman_Melville</value>
+</author>
+<thumbnail>
+<type>uri</type>
+<value>http://commons.wikimedia.org/wiki/Special:FilePath/Herman_Melville_1885.jpg?width=300</value>
+</thumbnail>
+<released>
+<type>typed-literal</type>
+<datatype>http://www.w3.org/2001/XMLSchema#integer</datatype>
+<value>1924</value>
+</released>
+<wikilink>
+<type>uri</type>
+<value>http://en.wikipedia.org/wiki/Billy_Budd?oldid=594594994</value>
+</wikilink>
+<abstract>
+<type>literal</type>
+<xml:lang>de</xml:lang>
+<value>Billy Budd ist der deutsche Titel des amerikanischen Kurzromans Billy Budd Sailor, in einer früheren Version auch Billy Budd Foretopman. Er wurde von Herman Melville in der Zeit zwischen 1886 und 1891 verfasst und ist sein letztes Werk. Der Roman war lange Zeit verschollen und wurde erst 1924 wiederentdeckt und veröffentlicht. Das Manuskript konnte offensichtlich von dem Autor vor seinem Tode nicht mehr vollendet werden und wirft eine Reihe von Problemen auf, die das Verständnis und auch die Deutung des Romans erschweren.</value>
+</abstract>
+</XML_Serializer_Tag>
+<XML_Serializer_Tag>
+<book>
+<type>uri</type>
+<value>http://dbpedia.org/resource/White-Jacket</value>
+</book>
+<author>
+<type>uri</type>
+<value>http://dbpedia.org/resource/Herman_Melville</value>
+</author>
+<thumbnail>
+<type>uri</type>
+<value>http://commons.wikimedia.org/wiki/Special:FilePath/White-Jacket_1st.jpg?width=300</value>
+</thumbnail>
+<released>
+<type>typed-literal</type>
+<datatype>http://www.w3.org/2001/XMLSchema#date</datatype>
+<value>1850-01-23+02:00</value>
+</released>
+<wikilink>
+<type>uri</type>
+<value>http://en.wikipedia.org/wiki/White-Jacket?oldid=584558507</value>
+</wikilink>
+<abstract>
+<type>literal</type>
+<xml:lang>de</xml:lang>
+<value>Weißjacke oder Die Welt auf einem Kriegsschiff (orig. White-Jacket or The World in a Man-of-War) ist ein 1850 erschienener Roman vom US-amerikanischen Autor Herman Melville. In dem Roman beschreibt er eine Reise auf einem Schiff der US-Marine. Hinsichtlich Thematik und Stilistik ist Weißjacke der Vorläufer von Melvilles bekanntestem Roman, Moby Dick.</value>
+</abstract>
+</XML_Serializer_Tag>
+<XML_Serializer_Tag>
+<book>
+<type>uri</type>
+<value>http://dbpedia.org/resource/The_Confidence-Man</value>
+</book>
+<author>
+<type>uri</type>
+<value>http://dbpedia.org/resource/Herman_Melville</value>
+</author>
+<thumbnail>
+<type>uri</type>
+<value>http://commons.wikimedia.org/wiki/Special:FilePath/Melville_manuscript.jpg?width=300</value>
+</thumbnail>
+<released>
+<type>typed-literal</type>
+<datatype>http://www.w3.org/2001/XMLSchema#date</datatype>
+<value>1857-04-01+02:00</value>
+</released>
+<wikilink>
+<type>uri</type>
+<value>http://en.wikipedia.org/wiki/The_Confidence-Man?oldid=587017799</value>
+</wikilink>
+</XML_Serializer_Tag>
+<XML_Serializer_Tag>
+<book>
+<type>uri</type>
+<value>http://dbpedia.org/resource/Omoo</value>
+</book>
+<author>
+<type>uri</type>
+<value>http://dbpedia.org/resource/Herman_Melville</value>
+</author>
+<thumbnail>
+<type>uri</type>
+<value>http://commons.wikimedia.org/wiki/Special:FilePath/Omoo_1st.jpg?width=300</value>
+</thumbnail>
+<wikilink>
+<type>uri</type>
+<value>http://en.wikipedia.org/wiki/Omoo?oldid=585796939</value>
+</wikilink>
+</XML_Serializer_Tag>
+<XML_Serializer_Tag>
+<book>
+<type>uri</type>
+<value>http://dbpedia.org/resource/Cock-A-Doodle-Doo!</value>
+</book>
+<author>
+<type>uri</type>
+<value>http://dbpedia.org/resource/Herman_Melville</value>
+</author>
+<wikilink>
+<type>uri</type>
+<value>http://en.wikipedia.org/wiki/Cock-A-Doodle-Doo!?oldid=527270026</value>
+</wikilink>
+</XML_Serializer_Tag>
+</books>
+</Person>

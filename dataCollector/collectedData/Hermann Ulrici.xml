@@ -1,0 +1,26 @@
+<Person>
+<name>Hermann Ulrici</name>
+<variantName>
+<XML_Serializer_Tag>Ulrich Reimann</XML_Serializer_Tag>
+</variantName>
+<thumbnail>https://de.wikipedia.org/wiki/Special:FilePath/Hermann_Ulrici.jpg?width=270</thumbnail>
+<birthEN>March 23, 1806</birthEN>
+<birthDE>23. März 1806</birthDE>
+<deathEN>January 11, 1884</deathEN>
+<deathDE>11. Januar 1884</deathDE>
+<birthPlace>
+<XML_Serializer_Tag>Pförten (Niederlausitz)</XML_Serializer_Tag>
+</birthPlace>
+<deathPlace>
+<XML_Serializer_Tag>Halle (Saale)</XML_Serializer_Tag>
+</deathPlace>
+<professionOrOccupation>
+<XML_Serializer_Tag>Philosoph</XML_Serializer_Tag>
+</professionOrOccupation>
+<dbpResource>http://dbpedia.org/resource/Hermann_Ulrici</dbpResource>
+<abstract>Hermann Ulrici (* 23. März 1806 in Pförten, Niederlausitz; † 11. Januar 1884 in Halle/Saale) war ein deutscher Philosoph und Shakespeare-Forscher.</abstract>
+<wikilink>http://en.wikipedia.org/wiki/Hermann_Ulrici?oldid=606188932</wikilink>
+<artworks />
+<buildings />
+<books />
+</Person>

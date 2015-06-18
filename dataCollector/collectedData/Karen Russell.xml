@@ -1,0 +1,37 @@
+<Person>
+<name>Karen Russell</name>
+<variantName />
+<thumbnail>https://commons.wikimedia.org/wiki/Special:FilePath/Karen_russell_2011.jpg?width=270</thumbnail>
+<birthEN>1981</birthEN>
+<birthDE>1981</birthDE>
+<deathEN />
+<deathDE />
+<birthPlace>
+<XML_Serializer_Tag>Miami</XML_Serializer_Tag>
+</birthPlace>
+<deathPlace />
+<professionOrOccupation>
+<XML_Serializer_Tag>Schriftstellerin</XML_Serializer_Tag>
+</professionOrOccupation>
+<dbpResource>http://dbpedia.org/resource/Karen_Russell</dbpResource>
+<abstract>Karen Russell (* 10. Juli 1981 in Miami, Florida) ist eine US-amerikanische Schriftstellerin.</abstract>
+<wikilink>http://en.wikipedia.org/wiki/Karen_Russell?oldid=596278073</wikilink>
+<artworks />
+<buildings />
+<books>
+<XML_Serializer_Tag>
+<book>
+<type>uri</type>
+<value>http://dbpedia.org/resource/Swamplandia!</value>
+</book>
+<author>
+<type>uri</type>
+<value>http://dbpedia.org/resource/Karen_Russell</value>
+</author>
+<wikilink>
+<type>uri</type>
+<value>http://en.wikipedia.org/wiki/Swamplandia!?oldid=602879145</value>
+</wikilink>
+</XML_Serializer_Tag>
+</books>
+</Person>

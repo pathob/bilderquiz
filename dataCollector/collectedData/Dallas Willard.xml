@@ -1,0 +1,45 @@
+<Person>
+<name>Dallas Willard</name>
+<variantName />
+<thumbnail>https://commons.wikimedia.org/wiki/Special:FilePath/Dallas_Willard.jpg?width=270</thumbnail>
+<birthEN>September 4, 1935</birthEN>
+<birthDE>4. September 1935</birthDE>
+<deathEN>May 8, 2013</deathEN>
+<deathDE>8. Mai 2013</deathDE>
+<birthPlace>
+<XML_Serializer_Tag>Buffalo &lt;Missouri&gt;</XML_Serializer_Tag>
+</birthPlace>
+<deathPlace />
+<professionOrOccupation>
+<XML_Serializer_Tag>Pfarrer</XML_Serializer_Tag>
+<XML_Serializer_Tag>Psychologe</XML_Serializer_Tag>
+<XML_Serializer_Tag>Philosoph</XML_Serializer_Tag>
+<XML_Serializer_Tag>Schriftsteller</XML_Serializer_Tag>
+</professionOrOccupation>
+<dbpResource>http://dbpedia.org/resource/Dallas_Willard</dbpResource>
+<abstract>Dallas Willard (* 4. September 1935 in Buffalo, Missouri; † 8. Mai 2013) war ein US-amerikanischer Philosoph und geistlicher Schriftsteller.</abstract>
+<wikilink>http://en.wikipedia.org/wiki/Dallas_Willard?oldid=606377710</wikilink>
+<artworks />
+<buildings />
+<books>
+<XML_Serializer_Tag>
+<book>
+<type>uri</type>
+<value>http://dbpedia.org/resource/Renovation_of_the_Heart</value>
+</book>
+<author>
+<type>uri</type>
+<value>http://dbpedia.org/resource/Dallas_Willard</value>
+</author>
+<released>
+<type>typed-literal</type>
+<datatype>http://www.w3.org/2001/XMLSchema#integer</datatype>
+<value>2002</value>
+</released>
+<wikilink>
+<type>uri</type>
+<value>http://en.wikipedia.org/wiki/Renovation_of_the_Heart?oldid=599352303</value>
+</wikilink>
+</XML_Serializer_Tag>
+</books>
+</Person>

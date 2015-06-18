@@ -27,12 +27,15 @@
 <XML_Serializer_Tag>Maler</XML_Serializer_Tag>
 <XML_Serializer_Tag>Zeichner</XML_Serializer_Tag>
 </professionOrOccupation>
+<dbpResource>http://dbpedia.org/resource/Jean-Antoine_Watteau</dbpResource>
+<abstract>Jean-Antoine Watteau (* 10. Oktober 1684 in Valenciennes; † 18. Juli 1721 in Nogent-sur-Marne) war Maler des französischen Rokoko. Mit seinen fêtes galantes schuf er zu Beginn des 18. Jahrhunderts eine neue Bildgattung.</abstract>
+<wikilink>http://en.wikipedia.org/wiki/Jean-Antoine_Watteau?oldid=606019786</wikilink>
 <artworks>
 <XML_Serializer_Tag>
-<painting>
+<artwork>
 <type>uri</type>
 <value>http://dbpedia.org/resource/L&apos;Enseigne_de_Gersaint</value>
-</painting>
+</artwork>
 <thumbnail>
 <type>uri</type>
 <value>http://commons.wikimedia.org/wiki/Special:FilePath/Gersaint.jpg?width=300</value>
@@ -56,12 +59,16 @@
 <type>uri</type>
 <value>http://en.wikipedia.org/wiki/L&apos;Enseigne_de_Gersaint?oldid=602732394</value>
 </wikilink>
+<type>
+<type>uri</type>
+<value>http://dbpedia.org/resource/Oil_painting</value>
+</type>
 </XML_Serializer_Tag>
 <XML_Serializer_Tag>
-<painting>
+<artwork>
 <type>uri</type>
 <value>http://dbpedia.org/resource/The_Country_Dance</value>
-</painting>
+</artwork>
 <thumbnail>
 <type>uri</type>
 <value>http://commons.wikimedia.org/wiki/Special:FilePath/Jean-Antoine_Watteau_-_The_Country_Dance_-_Google_Art_Project.jpg?width=300</value>
@@ -80,9 +87,13 @@
 <type>uri</type>
 <value>http://en.wikipedia.org/wiki/The_Country_Dance?oldid=536116249</value>
 </wikilink>
+<type>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>Oil painting on canvas</value>
+</type>
 </XML_Serializer_Tag>
 </artworks>
-<dbpResource>http://dbpedia.org/resource/Jean-Antoine_Watteau</dbpResource>
-<abstract>Jean-Antoine Watteau (* 10. Oktober 1684 in Valenciennes; † 18. Juli 1721 in Nogent-sur-Marne) war Maler des französischen Rokoko. Mit seinen fêtes galantes schuf er zu Beginn des 18. Jahrhunderts eine neue Bildgattung.</abstract>
-<wikilink>http://en.wikipedia.org/wiki/Jean-Antoine_Watteau?oldid=606019786</wikilink>
+<buildings />
+<books />
 </Person>

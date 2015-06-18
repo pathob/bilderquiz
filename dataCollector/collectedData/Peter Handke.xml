@@ -1,0 +1,138 @@
+<Person>
+<name>Peter Handke</name>
+<variantName>
+<XML_Serializer_Tag>Peter Handtke</XML_Serializer_Tag>
+<XML_Serializer_Tag>Peter Chandke</XML_Serializer_Tag>
+<XML_Serializer_Tag>Peter Chantke</XML_Serializer_Tag>
+<XML_Serializer_Tag>Pētā Hantoke</XML_Serializer_Tag>
+<XML_Serializer_Tag>Peṭer Handqe</XML_Serializer_Tag>
+<XML_Serializer_Tag>Peter Handqe</XML_Serializer_Tag>
+<XML_Serializer_Tag>P&apos;et&apos;ŏ Hant&apos;ŭk&apos;e</XML_Serializer_Tag>
+<XML_Serializer_Tag>Pitir Hāndka</XML_Serializer_Tag>
+<XML_Serializer_Tag>Bītir Hāndka</XML_Serializer_Tag>
+<XML_Serializer_Tag>Bide-Hanke</XML_Serializer_Tag>
+<XML_Serializer_Tag>Bi de Han ke</XML_Serializer_Tag>
+<XML_Serializer_Tag>Bide Hanke</XML_Serializer_Tag>
+<XML_Serializer_Tag>Bi de Han de ke</XML_Serializer_Tag>
+<XML_Serializer_Tag>Bide-Handeke</XML_Serializer_Tag>
+<XML_Serializer_Tag>Bide Handeke</XML_Serializer_Tag>
+<XML_Serializer_Tag>פטר הנדקה</XML_Serializer_Tag>
+<XML_Serializer_Tag>彼得‧韩德克</XML_Serializer_Tag>
+<XML_Serializer_Tag>彼得‧韓德克</XML_Serializer_Tag>
+<XML_Serializer_Tag>ペーター・ハントケ</XML_Serializer_Tag>
+<XML_Serializer_Tag>彼得 韩德克</XML_Serializer_Tag>
+<XML_Serializer_Tag>彼得 韓德克</XML_Serializer_Tag>
+<XML_Serializer_Tag>ペーター ハントケ</XML_Serializer_Tag>
+</variantName>
+<thumbnail>https://commons.wikimedia.org/wiki/Special:FilePath/Peter-handke.jpg?width=270</thumbnail>
+<birthEN>1942</birthEN>
+<birthDE>1942</birthDE>
+<deathEN />
+<deathDE />
+<birthPlace>
+<XML_Serializer_Tag>Griffen</XML_Serializer_Tag>
+</birthPlace>
+<deathPlace />
+<professionOrOccupation>
+<XML_Serializer_Tag>Schriftsteller</XML_Serializer_Tag>
+<XML_Serializer_Tag>Dramatiker</XML_Serializer_Tag>
+<XML_Serializer_Tag>Romancier</XML_Serializer_Tag>
+<XML_Serializer_Tag>Lyriker</XML_Serializer_Tag>
+<XML_Serializer_Tag>Essayist</XML_Serializer_Tag>
+<XML_Serializer_Tag>Übersetzer</XML_Serializer_Tag>
+<XML_Serializer_Tag>Drehbuchautor</XML_Serializer_Tag>
+<XML_Serializer_Tag>Regisseur</XML_Serializer_Tag>
+</professionOrOccupation>
+<dbpResource>http://dbpedia.org/resource/Peter_Handke</dbpResource>
+<abstract>Peter Handke (* 6. Dezember 1942 in Griffen, Kärnten) ist ein vielfach ausgezeichneter Schriftsteller und Übersetzer, mutmaßlich der im Ausland bekannteste zeitgenössische österreichische Autor. Nach seiner Kritik der Sprach- und Bewusstseinsschablonen befasste sich Handke vor allem mit der Entfremdung zwischen Subjekt und Umwelt. Frühwerke wie „Publikumsbeschimpfung“ und „Die Angst des Tormanns beim Elfmeter“ machten ihn in den späten 1960er Jahren schlagartig bekannt. In den Jugoslawienkriegen der 1990er Jahre vertrat er serbische Positionen gegenüber der antiserbischen Mehrheitsmeinung.</abstract>
+<wikilink>http://en.wikipedia.org/wiki/Peter_Handke?oldid=606593057</wikilink>
+<artworks />
+<buildings />
+<books>
+<XML_Serializer_Tag>
+<book>
+<type>uri</type>
+<value>http://dbpedia.org/resource/A_Sorrow_Beyond_Dreams</value>
+</book>
+<author>
+<type>uri</type>
+<value>http://dbpedia.org/resource/Peter_Handke</value>
+</author>
+<wikilink>
+<type>uri</type>
+<value>http://en.wikipedia.org/wiki/A_Sorrow_Beyond_Dreams?oldid=589694119</value>
+</wikilink>
+<abstract>
+<type>literal</type>
+<xml:lang>de</xml:lang>
+<value>Wunschloses Unglück ist eine Erzählung von Peter Handke aus dem Jahr 1972. In diesem halb-biographischen Buch beschreibt der Autor das Leben seiner Mutter Maria, die am 19. November 1971 Selbstmord beging.</value>
+</abstract>
+</XML_Serializer_Tag>
+<XML_Serializer_Tag>
+<book>
+<type>uri</type>
+<value>http://dbpedia.org/resource/Short_Letter,_Long_Farewell</value>
+</book>
+<author>
+<type>uri</type>
+<value>http://dbpedia.org/resource/Peter_Handke</value>
+</author>
+<wikilink>
+<type>uri</type>
+<value>http://en.wikipedia.org/wiki/Short_Letter,_Long_Farewell?oldid=572528428</value>
+</wikilink>
+<abstract>
+<type>literal</type>
+<xml:lang>de</xml:lang>
+<value>Der kurze Brief zum langen Abschied ist eine Erzählung von Peter Handke. Sie erschien 1972.</value>
+</abstract>
+</XML_Serializer_Tag>
+<XML_Serializer_Tag>
+<book>
+<type>uri</type>
+<value>http://dbpedia.org/resource/The_Goalie&apos;s_Anxiety_at_the_Penalty_Kick</value>
+</book>
+<author>
+<type>uri</type>
+<value>http://dbpedia.org/resource/Peter_Handke</value>
+</author>
+<wikilink>
+<type>uri</type>
+<value>http://en.wikipedia.org/wiki/The_Goalie&apos;s_Anxiety_at_the_Penalty_Kick?oldid=544755543</value>
+</wikilink>
+<abstract>
+<type>literal</type>
+<xml:lang>de</xml:lang>
+<value>Die Angst des Tormanns beim Elfmeter ist ein Krimi von Peter Handke aus dem Jahr 1970.</value>
+</abstract>
+</XML_Serializer_Tag>
+<XML_Serializer_Tag>
+<book>
+<type>uri</type>
+<value>http://dbpedia.org/resource/Kaspar</value>
+</book>
+<author>
+<type>uri</type>
+<value>http://dbpedia.org/resource/Peter_Handke</value>
+</author>
+<wikilink>
+<type>uri</type>
+<value>http://en.wikipedia.org/wiki/Kaspar?oldid=593040419</value>
+</wikilink>
+</XML_Serializer_Tag>
+<XML_Serializer_Tag>
+<book>
+<type>uri</type>
+<value>http://dbpedia.org/resource/Repetition_(novel)</value>
+</book>
+<author>
+<type>uri</type>
+<value>http://dbpedia.org/resource/Peter_Handke</value>
+</author>
+<wikilink>
+<type>uri</type>
+<value>http://en.wikipedia.org/wiki/Repetition_(novel)?oldid=520636388</value>
+</wikilink>
+</XML_Serializer_Tag>
+</books>
+</Person>

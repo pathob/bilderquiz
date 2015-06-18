@@ -1,0 +1,65 @@
+<Person>
+<name>Heinrich Clauren</name>
+<variantName>
+<XML_Serializer_Tag>H. Clauren</XML_Serializer_Tag>
+<XML_Serializer_Tag>Henri Clauren</XML_Serializer_Tag>
+<XML_Serializer_Tag>Carl Gottlieb Samuel Heun</XML_Serializer_Tag>
+<XML_Serializer_Tag>Karl Gottlieb Samuel Heun</XML_Serializer_Tag>
+<XML_Serializer_Tag>Karl Gottlieb Heun</XML_Serializer_Tag>
+<XML_Serializer_Tag>Carl Heun</XML_Serializer_Tag>
+<XML_Serializer_Tag>Karl Heun</XML_Serializer_Tag>
+<XML_Serializer_Tag>Gottlieb Samuel Carl Heun</XML_Serializer_Tag>
+<XML_Serializer_Tag>Johann Gottlieb Samuel Carl Heun</XML_Serializer_Tag>
+<XML_Serializer_Tag>Carl Gottlob Samuel Heun</XML_Serializer_Tag>
+<XML_Serializer_Tag>Karl Gottlob Heun</XML_Serializer_Tag>
+<XML_Serializer_Tag>Carolus Samuel Heun</XML_Serializer_Tag>
+<XML_Serializer_Tag>Carolus Theophilus Samuel Heun</XML_Serializer_Tag>
+<XML_Serializer_Tag>H. Clauren</XML_Serializer_Tag>
+<XML_Serializer_Tag>Carl Gottlieb Heun</XML_Serializer_Tag>
+<XML_Serializer_Tag>Karl G. Hayn</XML_Serializer_Tag>
+<XML_Serializer_Tag>Carl G. Hayn</XML_Serializer_Tag>
+<XML_Serializer_Tag>Clauren</XML_Serializer_Tag>
+</variantName>
+<thumbnail>https://commons.wikimedia.org/wiki/Special:FilePath/Heinrich_Clauren.jpg?width=270</thumbnail>
+<birthEN>March 20, 1771</birthEN>
+<birthDE>20. März 1771</birthDE>
+<deathEN>August 2, 1854</deathEN>
+<deathDE>2. August 1854</deathDE>
+<birthPlace>
+<XML_Serializer_Tag>Doberlug</XML_Serializer_Tag>
+</birthPlace>
+<deathPlace>
+<XML_Serializer_Tag>Berlin</XML_Serializer_Tag>
+</deathPlace>
+<professionOrOccupation>
+<XML_Serializer_Tag>Schriftsteller</XML_Serializer_Tag>
+<XML_Serializer_Tag>Beamter</XML_Serializer_Tag>
+<XML_Serializer_Tag>Redakteur</XML_Serializer_Tag>
+<XML_Serializer_Tag>Buchhändler</XML_Serializer_Tag>
+</professionOrOccupation>
+<dbpResource>http://dbpedia.org/resource/Heinrich_Clauren</dbpResource>
+<abstract>Heinrich Clauren (* 20. März 1771 in Dobrilugk (Lausitz); † 2. August 1854 in Berlin; eigentlich Carl Gottlieb Samuel Heun) war ein deutscher Schriftsteller.</abstract>
+<wikilink>http://en.wikipedia.org/wiki/Heinrich_Clauren?oldid=600121887</wikilink>
+<artworks />
+<buildings />
+<books>
+<XML_Serializer_Tag>
+<book>
+<type>uri</type>
+<value>http://dbpedia.org/resource/Fantasmagoriana</value>
+</book>
+<author>
+<type>uri</type>
+<value>http://dbpedia.org/resource/Heinrich_Clauren</value>
+</author>
+<thumbnail>
+<type>uri</type>
+<value>http://commons.wikimedia.org/wiki/Special:FilePath/Fantasmagoriana_title_page.jpg?width=300</value>
+</thumbnail>
+<wikilink>
+<type>uri</type>
+<value>http://en.wikipedia.org/wiki/Fantasmagoriana?oldid=603206227</value>
+</wikilink>
+</XML_Serializer_Tag>
+</books>
+</Person>

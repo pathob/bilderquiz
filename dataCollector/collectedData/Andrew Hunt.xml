@@ -1,0 +1,24 @@
+<Person>
+<name>Andrew Hunt</name>
+<variantName>
+<XML_Serializer_Tag>Andy Hunt</XML_Serializer_Tag>
+</variantName>
+<thumbnail>https://commons.wikimedia.org/wiki/Special:FilePath/Andy_Hunt_programmer.jpg?width=270</thumbnail>
+<birthEN>1964</birthEN>
+<birthDE>1964</birthDE>
+<deathEN />
+<deathDE />
+<birthPlace />
+<deathPlace />
+<professionOrOccupation>
+<XML_Serializer_Tag>Programmierer</XML_Serializer_Tag>
+<XML_Serializer_Tag>Autor</XML_Serializer_Tag>
+<XML_Serializer_Tag>Verleger</XML_Serializer_Tag>
+</professionOrOccupation>
+<dbpResource>http://dbpedia.org/resource/Andy_Hunt_(footballer)</dbpResource>
+<abstract>Andrew „Andy“ Hunt (* 9. Juni 1970 in Thurrock) ist ein ehemaliger englischer Fußballspieler, dessen Spielerkarriere durch das Chronische Erschöpfungssyndrom beendet wurde.</abstract>
+<wikilink>http://en.wikipedia.org/wiki/Andy_Hunt_(footballer)?oldid=579754899</wikilink>
+<artworks />
+<buildings />
+<books />
+</Person>

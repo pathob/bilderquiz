@@ -1,0 +1,32 @@
+<Person>
+<name>Petra Hammesfahr</name>
+<variantName>
+<XML_Serializer_Tag>Petra Hammesfahrová</XML_Serializer_Tag>
+<XML_Serializer_Tag>Petra Hammesfāra</XML_Serializer_Tag>
+<XML_Serializer_Tag>Petra Chammesfar</XML_Serializer_Tag>
+<XML_Serializer_Tag>P&apos;et&apos;ŭra Hammesŭp&apos;a</XML_Serializer_Tag>
+<XML_Serializer_Tag>페트라 함메스파</XML_Serializer_Tag>
+<XML_Serializer_Tag>פטרה המספאהר</XML_Serializer_Tag>
+<XML_Serializer_Tag>蓓特拉 哈姆斯法尔</XML_Serializer_Tag>
+</variantName>
+<thumbnail>https://commons.wikimedia.org/wiki/Special:FilePath/HammesfahrIMG1.jpg?width=270</thumbnail>
+<birthEN>1951</birthEN>
+<birthDE>1951</birthDE>
+<deathEN />
+<deathDE />
+<birthPlace>
+<XML_Serializer_Tag>Titz</XML_Serializer_Tag>
+</birthPlace>
+<deathPlace />
+<professionOrOccupation>
+<XML_Serializer_Tag>Drehbuchautorin</XML_Serializer_Tag>
+<XML_Serializer_Tag>Schriftstellerin</XML_Serializer_Tag>
+<XML_Serializer_Tag>Einzelhandelskauffrau</XML_Serializer_Tag>
+</professionOrOccupation>
+<dbpResource>http://dbpedia.org/resource/Petra_Hammesfahr</dbpResource>
+<abstract>Petra Hammesfahr (* 10. Mai 1951 in Titz) ist eine deutsche Schriftstellerin und Drehbuchautorin.</abstract>
+<wikilink>http://en.wikipedia.org/wiki/Petra_Hammesfahr?oldid=590267738</wikilink>
+<artworks />
+<buildings />
+<books />
+</Person>

@@ -25,8 +25,75 @@
 <XML_Serializer_Tag>Graphiker</XML_Serializer_Tag>
 <XML_Serializer_Tag>Bühnenbildner</XML_Serializer_Tag>
 </professionOrOccupation>
-<artworks />
 <dbpResource>http://dbpedia.org/resource/Karl_Friedrich_Schinkel</dbpResource>
 <abstract>Karl Friedrich Schinkel (* 13. März 1781 in Neuruppin; † 9. Oktober 1841 in Berlin) war ein preußischer Baumeister, Architekt, Stadtplaner, Maler, Grafiker und Bühnenbildner, der den Klassizismus in Preußen entscheidend mitgestaltete. Als Leiter der Oberbaudeputation unterstand ihm eine Revisionsabteilung, die fast alle staatlichen Bauvorhaben für das Königreich Preußen in ökonomischer, funktionaler und ästhetischer Hinsicht überprüfte. Schinkel war Oberlandesbaudirektor und Architekt des Königs. Seine Bauwerke prägen heute noch das Stadtbild der Mitte Berlins. Nach ihm wurde die Schinkelschule benannt, bei der es sich um mehrere Generationen von Architekten handelt, die unter seinem stilbildenden Einfluss standen.</abstract>
 <wikilink>http://en.wikipedia.org/wiki/Karl_Friedrich_Schinkel?oldid=592235630</wikilink>
+<artworks />
+<buildings>
+<XML_Serializer_Tag>
+<building>
+<type>uri</type>
+<value>http://dbpedia.org/resource/City_Palace,_Berlin</value>
+</building>
+<name>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>Stadtschloss</value>
+</name>
+<architect>
+<type>uri</type>
+<value>http://dbpedia.org/resource/Karl_Friedrich_Schinkel</value>
+</architect>
+<thumbnail>
+<type>uri</type>
+<value>http://commons.wikimedia.org/wiki/Special:FilePath/Berlin_Stadtschloss_1920er.jpg?width=300</value>
+</thumbnail>
+<wikilink>
+<type>uri</type>
+<value>http://en.wikipedia.org/wiki/City_Palace,_Berlin?oldid=606753490</value>
+</wikilink>
+<location>
+<type>uri</type>
+<value>http://dbpedia.org/resource/Berlin</value>
+</location>
+<abstract>
+<type>literal</type>
+<xml:lang>de</xml:lang>
+<value>Das Berliner Schloss, seit dem 19. Jahrhundert auch Berliner Stadtschloss genannt, war das zentrale Bauwerk in der Mitte Berlins. Als Residenzschloss 1442 im Auftrag der Markgrafen und Kurfürsten von Brandenburg auf der Spreeinsel in Alt-Cölln, im heutigen Ortsteil Mitte erbaut, wurde das Schloss nach Erweiterungen ab 1702 zur königlichen und letztlich kaiserlichen Residenz in Preußen bzw. Deutschland.Im Jahr 1950 beschloss der III. Parteitag der SED das im Zweiten Weltkrieg größtenteils ausgebrannte Gebäude zu beseitigen, um den Marx-Engels-Platz anzulegen. Nur Teile eines Portals wurden 1963 beim Bau des Staatsratsgebäudes der DDR verwendet. Erst 1973 begann eine Umgestaltung des Marx-Engels-Platzes mit der Errichtung des Palastes der Republik, der wiederum zwischen 2006 und 2009 abgerissen wurde.Unter Verwendung rekonstruierter wesentlicher Fassaden- und Gebäudeteile des ehemaligen Berliner Stadtschlosses, einschließlich seiner Kubatur wird seit der Grundsteinlegung am 12. Juni 2013 an ursprünglicher Stelle ein Neubau errichtet. Dieser soll das künftige Humboldt-ForumVorlage:Zukunft/In 4 Jahren beherbergen, dessen Eröffnung im Jahr 2019 geplant ist.</value>
+</abstract>
+</XML_Serializer_Tag>
+<XML_Serializer_Tag>
+<building>
+<type>uri</type>
+<value>http://dbpedia.org/resource/Jenisch_House</value>
+</building>
+<name>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>Jenisch-Haus</value>
+</name>
+<architect>
+<type>uri</type>
+<value>http://dbpedia.org/resource/Karl_Friedrich_Schinkel</value>
+</architect>
+<thumbnail>
+<type>uri</type>
+<value>http://commons.wikimedia.org/wiki/Special:FilePath/Hamburg.Jenischhaus.wmt.jpg?width=300</value>
+</thumbnail>
+<wikilink>
+<type>uri</type>
+<value>http://en.wikipedia.org/wiki/Jenisch_House?oldid=545710085</value>
+</wikilink>
+<location>
+<type>uri</type>
+<value>http://dbpedia.org/resource/Altona,_Hamburg</value>
+</location>
+<abstract>
+<type>literal</type>
+<xml:lang>de</xml:lang>
+<value>Das Jenisch-Haus ist ein klassizistisches Landhaus in Othmarschen, einem Stadtteil im westlichen Hamburg, das über einen Park hinweg einen weiten Blick über die Elbe bei Teufelsbrück zulässt.</value>
+</abstract>
+</XML_Serializer_Tag>
+</buildings>
+<books />
 </Person>

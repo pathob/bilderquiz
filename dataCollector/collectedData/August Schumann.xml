@@ -1,0 +1,34 @@
+<Person>
+<name>August Schumann</name>
+<variantName>
+<XML_Serializer_Tag>August Sch***</XML_Serializer_Tag>
+<XML_Serializer_Tag>Friedrich A. Schumann</XML_Serializer_Tag>
+<XML_Serializer_Tag>Friedrich August Gottlieb Schumann</XML_Serializer_Tag>
+<XML_Serializer_Tag>Gabriel Stein</XML_Serializer_Tag>
+<XML_Serializer_Tag>F. A. G. Langbein</XML_Serializer_Tag>
+<XML_Serializer_Tag>Friedrich August Gottlob Schumann</XML_Serializer_Tag>
+<XML_Serializer_Tag>F. A. Gottlieb</XML_Serializer_Tag>
+</variantName>
+<thumbnail>https://commons.wikimedia.org/wiki/Special:FilePath/August_Schumann.jpg?width=270</thumbnail>
+<birthEN>March 2, 1773</birthEN>
+<birthDE>2. März 1773</birthDE>
+<deathEN>August 10, 1826</deathEN>
+<deathDE>10. August 1826</deathDE>
+<birthPlace>
+<XML_Serializer_Tag>Endschütz</XML_Serializer_Tag>
+</birthPlace>
+<deathPlace>
+<XML_Serializer_Tag>Zwickau</XML_Serializer_Tag>
+</deathPlace>
+<professionOrOccupation>
+<XML_Serializer_Tag>Schriftsteller</XML_Serializer_Tag>
+<XML_Serializer_Tag>Verleger</XML_Serializer_Tag>
+<XML_Serializer_Tag>Buchhändler</XML_Serializer_Tag>
+</professionOrOccupation>
+<dbpResource>http://dbpedia.org/resource/August_Schumann</dbpResource>
+<abstract>Friedrich August Gottlob Schumann (* 2. März 1773 in Endschütz; † 10. August 1826 in Zwickau) war ein deutscher Buchhändler und Verleger und der Vater von Robert Schumann.</abstract>
+<wikilink>http://en.wikipedia.org/wiki/August_Schumann?oldid=600179810</wikilink>
+<artworks />
+<buildings />
+<books />
+</Person>

@@ -1,0 +1,29 @@
+<Person>
+<name>Robert Campin</name>
+<variantName>
+<XML_Serializer_Tag>Flemalle, Meister von</XML_Serializer_Tag>
+<XML_Serializer_Tag>Meister von Flemalle</XML_Serializer_Tag>
+<XML_Serializer_Tag>Flémalle, Meister von</XML_Serializer_Tag>
+<XML_Serializer_Tag>Flémalle, Maître de</XML_Serializer_Tag>
+<XML_Serializer_Tag>Meister, von Flémalle</XML_Serializer_Tag>
+<XML_Serializer_Tag>Maître, de Flémalle</XML_Serializer_Tag>
+<XML_Serializer_Tag>Robert Campain</XML_Serializer_Tag>
+<XML_Serializer_Tag>Robert, Campin</XML_Serializer_Tag>
+</variantName>
+<thumbnail>https://commons.wikimedia.org/wiki/Special:FilePath/Robert_Campin_005.jpg?width=270</thumbnail>
+<birthEN>1375</birthEN>
+<birthDE>1375</birthDE>
+<deathEN>1444</deathEN>
+<deathDE>1444</deathDE>
+<birthPlace />
+<deathPlace />
+<professionOrOccupation>
+<XML_Serializer_Tag>Künstler</XML_Serializer_Tag>
+</professionOrOccupation>
+<dbpResource>http://dbpedia.org/resource/Robert_Campin</dbpResource>
+<abstract>Robert Campin (* um 1375 in Tournai (?); † 26. April 1444 in Tournai) war ein flämischer Maler.In der Kunstwissenschaft hat sich weitgehend die Auffassung durchgesetzt, dass die früher mit dem Notnamen Meister von Flémalle und Meister von Mérode bezeichneten Künstler mit Robert Campin assoziiert und deren Werke dem Œuvre Campins inklusive seiner Werkstatt zugeordnet werden können. Robert Campin spielte neben Jan van Eyck eine zentrale Rolle bei der Entwicklung der Altniederländischen Malerei. Seine wichtigsten Schüler waren Rogier van der Weyden und Jacques Daret.</abstract>
+<wikilink>http://en.wikipedia.org/wiki/Robert_Campin?oldid=570100304</wikilink>
+<artworks />
+<buildings />
+<books />
+</Person>

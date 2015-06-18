@@ -13,8 +13,10 @@
 <professionOrOccupation>
 <XML_Serializer_Tag>Maler</XML_Serializer_Tag>
 </professionOrOccupation>
-<artworks />
 <dbpResource>http://dbpedia.org/resource/Moritz_Daniel_Oppenheim</dbpResource>
 <abstract>Moritz Daniel Oppenheim (* 7. Januar 1800 in Hanau; † 26. Februar 1882 in Frankfurt am Main) war ein deutscher Porträt- und Historienmaler.</abstract>
 <wikilink>http://en.wikipedia.org/wiki/Moritz_Daniel_Oppenheim?oldid=563388517</wikilink>
+<artworks />
+<buildings />
+<books />
 </Person>

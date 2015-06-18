@@ -1,0 +1,37 @@
+<Person>
+<name>Gregory Bateson</name>
+<variantName />
+<thumbnail>https://en.wikipedia.org/wiki/Special:FilePath/Arnhein_and_Bateson.jpg?width=270</thumbnail>
+<birthEN>May 9, 1904</birthEN>
+<birthDE>9. Mai 1904</birthDE>
+<deathEN>June 11, 1980</deathEN>
+<deathDE>11. Juni 1980</deathDE>
+<birthPlace />
+<deathPlace />
+<professionOrOccupation>
+<XML_Serializer_Tag>Anthropologe</XML_Serializer_Tag>
+<XML_Serializer_Tag>Philosoph</XML_Serializer_Tag>
+<XML_Serializer_Tag>Biologe</XML_Serializer_Tag>
+</professionOrOccupation>
+<dbpResource>http://dbpedia.org/resource/Gregory_Bateson</dbpResource>
+<abstract>Gregory Bateson (* 9. Mai 1904 in Grantchester, Cambridgeshire; † 4. Juli 1980 in San Francisco) war angloamerikanischer Anthropologe, Biologe, Sozialwissenschaftler, Kybernetiker und Philosoph. Seine Arbeitsgebiete umfassten anthropologische Studien, das Feld der Kommunikationstheorie und Lerntheorie, genauso wie Fragen der Erkenntnistheorie, Naturphilosophie, Ökologie oder der Linguistik. Bateson behandelte diese wissenschaftlichen Gebiete allerdings nicht als getrennte Disziplinen, sondern als verschiedene Aspekte und Facetten, in denen seine systemisch-kybernetische Denkweise zum Tragen kommt.Batesons Gedanken und Arbeiten waren vor allem geprägt von philosophischen Überlegungen Platons, psychologischen Überlegungen Sigmund Freuds und Carl Gustav Jungs, der Typentheorie Bertrand Russells sowie von Kybernetikern wie Norbert Wiener, Warren McCulloch, John von Neumann und Claude Shannon mit seiner Informationstheorie. Bateson seinerseits hatte großen Einfluss auf die System- und Familientherapie und beeinflusste verschiedene theoretische Strömungen in der Soziologie und Anthropologie.</abstract>
+<wikilink>http://en.wikipedia.org/wiki/Gregory_Bateson?oldid=606237780</wikilink>
+<artworks />
+<buildings />
+<books>
+<XML_Serializer_Tag>
+<book>
+<type>uri</type>
+<value>http://dbpedia.org/resource/Steps_to_an_Ecology_of_Mind</value>
+</book>
+<author>
+<type>uri</type>
+<value>http://dbpedia.org/resource/Gregory_Bateson</value>
+</author>
+<wikilink>
+<type>uri</type>
+<value>http://en.wikipedia.org/wiki/Steps_to_an_Ecology_of_Mind?oldid=560904691</value>
+</wikilink>
+</XML_Serializer_Tag>
+</books>
+</Person>

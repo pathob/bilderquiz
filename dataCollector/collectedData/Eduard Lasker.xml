@@ -1,0 +1,27 @@
+<Person>
+<name>Eduard Lasker</name>
+<variantName>
+<XML_Serializer_Tag>Edward Lasker</XML_Serializer_Tag>
+</variantName>
+<thumbnail>https://de.wikipedia.org/wiki/Special:FilePath/WP_Eduard_Lasker.jpg?width=270</thumbnail>
+<birthEN>October 14, 1829</birthEN>
+<birthDE>14. Oktober 1829</birthDE>
+<deathEN>January 5, 1884</deathEN>
+<deathDE>5. Januar 1884</deathDE>
+<birthPlace>
+<XML_Serializer_Tag>Jarotschin</XML_Serializer_Tag>
+</birthPlace>
+<deathPlace>
+<XML_Serializer_Tag>New York, NY</XML_Serializer_Tag>
+</deathPlace>
+<professionOrOccupation>
+<XML_Serializer_Tag>Politiker</XML_Serializer_Tag>
+<XML_Serializer_Tag>Autor</XML_Serializer_Tag>
+</professionOrOccupation>
+<dbpResource>http://dbpedia.org/resource/Eduard_Lasker</dbpResource>
+<abstract>Eduard Lasker (eigentlich: Jizchak Lasker; * 14. Oktober 1829 in Jarotschin, heute Jarocin, Provinz Posen, Polen; † 5. Januar 1884 in New York City) war ein preußischer Politiker und Jurist.</abstract>
+<wikilink>http://en.wikipedia.org/wiki/Eduard_Lasker?oldid=578520793</wikilink>
+<artworks />
+<buildings />
+<books />
+</Person>

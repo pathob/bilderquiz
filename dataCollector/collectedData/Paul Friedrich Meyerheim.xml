@@ -16,8 +16,10 @@
 <XML_Serializer_Tag>Graphiker</XML_Serializer_Tag>
 <XML_Serializer_Tag>Illustrator</XML_Serializer_Tag>
 </professionOrOccupation>
-<artworks />
 <dbpResource>http://dbpedia.org/resource/Paul_Friedrich_Meyerheim</dbpResource>
 <abstract>Paul Friedrich Meyerheim (* 13. Juli 1842 in Berlin; † 14. September 1915 ebenda) war ein deutscher Maler und Grafiker. Am Beginn seiner künstlerischen Laufbahn ging Paul Meyerheim mehrmals nach Paris und Barbizon um sich in der Landschaftsmalerei zu vervollkommnen. Seine besondere Begabung lag in der Tierdarstellung. Auch als Porträtist hat er sich einen Namen gemacht und war mit seinen Holzschnitten und Lithographien als Illustrator erfolgreich.</abstract>
 <wikilink>http://en.wikipedia.org/wiki/Paul_Friedrich_Meyerheim?oldid=606803609</wikilink>
+<artworks />
+<buildings />
+<books />
 </Person>

@@ -14,8 +14,10 @@
 <XML_Serializer_Tag>Künstler</XML_Serializer_Tag>
 <XML_Serializer_Tag>Maler</XML_Serializer_Tag>
 </professionOrOccupation>
-<artworks />
 <dbpResource>http://dbpedia.org/resource/William_Kentridge</dbpResource>
 <abstract>William Kentridge (* 28. April 1955 in Johannesburg) ist ein südafrikanischer Künstler</abstract>
 <wikilink>http://en.wikipedia.org/wiki/William_Kentridge?oldid=605179765</wikilink>
+<artworks />
+<buildings />
+<books />
 </Person>

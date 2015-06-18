@@ -1,0 +1,34 @@
+<Person>
+<name>Christian Heinrich Postel</name>
+<variantName>
+<XML_Serializer_Tag>Christian Henrich Postel</XML_Serializer_Tag>
+<XML_Serializer_Tag>Christianus Henricus Postel</XML_Serializer_Tag>
+<XML_Serializer_Tag>Christian Postel</XML_Serializer_Tag>
+<XML_Serializer_Tag>Christianus Henr. Postel</XML_Serializer_Tag>
+<XML_Serializer_Tag>Christian Hinrich Postel</XML_Serializer_Tag>
+<XML_Serializer_Tag>Christian H. Postel</XML_Serializer_Tag>
+<XML_Serializer_Tag>C. H. Postel</XML_Serializer_Tag>
+<XML_Serializer_Tag>Heinrich Christian Postel</XML_Serializer_Tag>
+</variantName>
+<thumbnail>https://commons.wikimedia.org/wiki/Special:FilePath/Hamburgs_Oper.jpg?width=270</thumbnail>
+<birthEN>October 11, 1658</birthEN>
+<birthDE>11. Oktober 1658</birthDE>
+<deathEN>March 22, 1705</deathEN>
+<deathDE>22. März 1705</deathDE>
+<birthPlace>
+<XML_Serializer_Tag>Freiburg, Elbe</XML_Serializer_Tag>
+</birthPlace>
+<deathPlace>
+<XML_Serializer_Tag>Hamburg</XML_Serializer_Tag>
+</deathPlace>
+<professionOrOccupation>
+<XML_Serializer_Tag>Jurist</XML_Serializer_Tag>
+<XML_Serializer_Tag>Schriftsteller</XML_Serializer_Tag>
+</professionOrOccupation>
+<dbpResource>http://dbpedia.org/resource/Christian_Heinrich_Postel</dbpResource>
+<abstract>Christian Heinrich Postel (* 11. Oktober 1658 in Freiburg/Elbe; † 22. März 1705 in Hamburg) war ein Jurist, epischer Dichter und Opernlibrettist.</abstract>
+<wikilink>http://en.wikipedia.org/wiki/Christian_Heinrich_Postel?oldid=603950864</wikilink>
+<artworks />
+<buildings />
+<books />
+</Person>

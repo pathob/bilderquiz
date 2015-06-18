@@ -18,8 +18,10 @@
 <professionOrOccupation>
 <XML_Serializer_Tag>Maler</XML_Serializer_Tag>
 </professionOrOccupation>
-<artworks />
 <dbpResource>http://dbpedia.org/resource/Franz_von_Lenbach</dbpResource>
 <abstract>Franz Seraph Lenbach (* 13. Dezember 1836 in Schrobenhausen; † 6. Mai 1904 in München), seit 1882 Ritter von Lenbach, war ein deutscher Maler.Bekannt wurde er durch seine Porträts. Unter den von ihm Dargestellten befinden sich Otto von Bismarck, die beiden deutschen Kaiser Wilhelm I. und Wilhelm II., der österreichische Kaiser Franz Joseph, Papst Leo XIII. sowie eine große Anzahl prominenter Persönlichkeiten aus Wirtschaft, Kunst und Gesellschaft des späten 19. Jahrhunderts. Er selbst war in Deutschland und Österreich zu Lebzeiten einer der bekanntesten Künstler.Wegen seiner herausragenden gesellschaftlichen Stellung und seines Lebensstils wird er in der Öffentlichkeit und auch von Kunsthistorikern als Münchner Malerfürst bezeichnet.</abstract>
 <wikilink>http://en.wikipedia.org/wiki/Franz_von_Lenbach?oldid=603520963</wikilink>
+<artworks />
+<buildings />
+<books />
 </Person>

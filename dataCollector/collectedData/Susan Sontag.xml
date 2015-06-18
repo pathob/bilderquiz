@@ -1,0 +1,120 @@
+<Person>
+<name>Susan Sontag</name>
+<variantName>
+<XML_Serializer_Tag>Susan Rosenblatt</XML_Serializer_Tag>
+<XML_Serializer_Tag>Sjuzan Zontag</XML_Serializer_Tag>
+<XML_Serializer_Tag>S. Zontag</XML_Serializer_Tag>
+<XML_Serializer_Tag>Susan Rosenblatt</XML_Serializer_Tag>
+</variantName>
+<thumbnail>https://commons.wikimedia.org/wiki/Special:FilePath/Tombe_de_Susan_Sontag_au_Cimetière_du_Montparnasse.jpg?width=270</thumbnail>
+<birthEN>January 16, 1933</birthEN>
+<birthDE>16. Januar 1933</birthDE>
+<deathEN>December 28, 2004</deathEN>
+<deathDE>28. Dezember 2004</deathDE>
+<birthPlace>
+<XML_Serializer_Tag>New York, NY</XML_Serializer_Tag>
+</birthPlace>
+<deathPlace>
+<XML_Serializer_Tag>New York, NY</XML_Serializer_Tag>
+</deathPlace>
+<professionOrOccupation>
+<XML_Serializer_Tag>Regisseurin</XML_Serializer_Tag>
+<XML_Serializer_Tag>Schriftstellerin</XML_Serializer_Tag>
+</professionOrOccupation>
+<dbpResource>http://dbpedia.org/resource/Susan_Sontag</dbpResource>
+<abstract>Susan Sontag, geborene Rosenblatt (* 16. Januar 1933 in New York City, New York; † 28. Dezember 2004 ebenda) war eine amerikanische Schriftstellerin, Essayistin, Publizistin und Regisseurin. Sie war bekannt für ihren Einsatz für Menschenrechte sowie als Kritikerin der gesellschaftlichen Verhältnisse und der Regierung der Vereinigten Staaten von Amerika.</abstract>
+<wikilink>http://en.wikipedia.org/wiki/Susan_Sontag?oldid=604865321</wikilink>
+<artworks />
+<buildings />
+<books>
+<XML_Serializer_Tag>
+<book>
+<type>uri</type>
+<value>http://dbpedia.org/resource/Illness_as_Metaphor</value>
+</book>
+<author>
+<type>uri</type>
+<value>http://dbpedia.org/resource/Susan_Sontag</value>
+</author>
+<wikilink>
+<type>uri</type>
+<value>http://en.wikipedia.org/wiki/Illness_as_Metaphor?oldid=592854301</value>
+</wikilink>
+<abstract>
+<type>literal</type>
+<xml:lang>de</xml:lang>
+<value>Krankheit als Metapher, engl. Illness as Metaphor, ist der Titel eines 1978 erschienenen Essays der US-amerikanischen Publizistin und Schriftstellerin Susan Sontag. Sie erlag im Jahre 2004 im Alter von 71 Jahren selbst einer Krebserkrankung.In den 1970er-Jahren wurde in der amerikanischen Öffentlichkeit stark die Vorstellung diskutiert, dass die Krankheit Krebs als ein Bild für etwas anderes und damit als eine Metapher verstanden werden könne. Im Fall von Krebs sollte die Erkrankung die Unfähigkeit des Kranken widerspiegeln, Gefühle auszudrücken und auszuleben, und in letzter Konsequenz diese „Unfähigkeit“ sogar Ursache für die Krankheit sein. In dieser Sicht wäre Krebs letztlich selbst verschuldet. Nach Sontag ist heute Aids an die Stelle von Krebs getreten. In ihrem Folgewerk AIDS and Its Metaphors (Verlag: Farrar, Straus and Giroux, New York NY, die 1. Auflage am 1. Januar 1989) setzte sie sich intensiv dafür ein, dass Krankheit nicht als Metapher verstanden wird.</value>
+</abstract>
+</XML_Serializer_Tag>
+<XML_Serializer_Tag>
+<book>
+<type>uri</type>
+<value>http://dbpedia.org/resource/AIDS_and_Its_Metaphors</value>
+</book>
+<author>
+<type>uri</type>
+<value>http://dbpedia.org/resource/Susan_Sontag</value>
+</author>
+<wikilink>
+<type>uri</type>
+<value>http://en.wikipedia.org/wiki/AIDS_and_Its_Metaphors?oldid=584228089</value>
+</wikilink>
+</XML_Serializer_Tag>
+<XML_Serializer_Tag>
+<book>
+<type>uri</type>
+<value>http://dbpedia.org/resource/In_America_(novel)</value>
+</book>
+<author>
+<type>uri</type>
+<value>http://dbpedia.org/resource/Susan_Sontag</value>
+</author>
+<wikilink>
+<type>uri</type>
+<value>http://en.wikipedia.org/wiki/In_America_(novel)?oldid=544764616</value>
+</wikilink>
+</XML_Serializer_Tag>
+<XML_Serializer_Tag>
+<book>
+<type>uri</type>
+<value>http://dbpedia.org/resource/Against_Interpretation</value>
+</book>
+<author>
+<type>uri</type>
+<value>http://dbpedia.org/resource/Susan_Sontag</value>
+</author>
+<wikilink>
+<type>uri</type>
+<value>http://en.wikipedia.org/wiki/Against_Interpretation?oldid=590713660</value>
+</wikilink>
+</XML_Serializer_Tag>
+<XML_Serializer_Tag>
+<book>
+<type>uri</type>
+<value>http://dbpedia.org/resource/The_Volcano_Lover</value>
+</book>
+<author>
+<type>uri</type>
+<value>http://dbpedia.org/resource/Susan_Sontag</value>
+</author>
+<wikilink>
+<type>uri</type>
+<value>http://en.wikipedia.org/wiki/The_Volcano_Lover?oldid=572047602</value>
+</wikilink>
+</XML_Serializer_Tag>
+<XML_Serializer_Tag>
+<book>
+<type>uri</type>
+<value>http://dbpedia.org/resource/Regarding_the_Pain_of_Others</value>
+</book>
+<author>
+<type>uri</type>
+<value>http://dbpedia.org/resource/Susan_Sontag</value>
+</author>
+<wikilink>
+<type>uri</type>
+<value>http://en.wikipedia.org/wiki/Regarding_the_Pain_of_Others?oldid=597462431</value>
+</wikilink>
+</XML_Serializer_Tag>
+</books>
+</Person>

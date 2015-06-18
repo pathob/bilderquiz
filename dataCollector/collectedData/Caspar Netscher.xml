@@ -16,8 +16,10 @@
 <XML_Serializer_Tag>Künstler</XML_Serializer_Tag>
 <XML_Serializer_Tag>Maler</XML_Serializer_Tag>
 </professionOrOccupation>
-<artworks />
 <dbpResource>http://dbpedia.org/resource/Caspar_Netscher</dbpResource>
 <abstract>Caspar Netscher (* 1639 in Heidelberg; † 15. Januar 1684 in Den Haag) war ein Porträt- und Genremaler.</abstract>
 <wikilink>http://en.wikipedia.org/wiki/Caspar_Netscher?oldid=592040113</wikilink>
+<artworks />
+<buildings />
+<books />
 </Person>

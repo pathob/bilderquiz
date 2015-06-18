@@ -1,0 +1,158 @@
+<Person>
+<name>Italo Calvino</name>
+<variantName>
+<XML_Serializer_Tag>Italo Kalʹvino</XML_Serializer_Tag>
+<XML_Serializer_Tag>Italo Kal&apos;vino</XML_Serializer_Tag>
+<XML_Serializer_Tag>Itaro Karuvīno</XML_Serializer_Tag>
+<XML_Serializer_Tag>Italo Giovanni Calvino Mameli</XML_Serializer_Tag>
+</variantName>
+<thumbnail>https://commons.wikimedia.org/wiki/Special:FilePath/Italo_Calvino_intervistato_da_Luigi_Silori_in_RAI_(1958).jpg?width=270</thumbnail>
+<birthEN>October 15, 1923</birthEN>
+<birthDE>15. Oktober 1923</birthDE>
+<deathEN>September 19, 1985</deathEN>
+<deathDE>19. September 1985</deathDE>
+<birthPlace />
+<deathPlace>
+<XML_Serializer_Tag>Siena</XML_Serializer_Tag>
+</deathPlace>
+<professionOrOccupation>
+<XML_Serializer_Tag>Kritiker</XML_Serializer_Tag>
+<XML_Serializer_Tag>Lektor (Verlag)</XML_Serializer_Tag>
+<XML_Serializer_Tag>Schriftsteller</XML_Serializer_Tag>
+</professionOrOccupation>
+<dbpResource>http://dbpedia.org/resource/Italo_Calvino</dbpResource>
+<abstract>Italo Calvino (* 15. Oktober 1923 in Santiago de las Vegas, Provinz Havanna, Kuba; † 19. September 1985 in Siena, Italien) war einer der bedeutendsten italienischen Schriftsteller der zweiten Hälfte des 20. Jahrhunderts. Viele seiner Bücher sind heute in Italien Volksgut und Schullektüre.</abstract>
+<wikilink>http://en.wikipedia.org/wiki/Italo_Calvino?oldid=602333981</wikilink>
+<artworks />
+<buildings />
+<books>
+<XML_Serializer_Tag>
+<book>
+<type>uri</type>
+<value>http://dbpedia.org/resource/Invisible_Cities</value>
+</book>
+<author>
+<type>uri</type>
+<value>http://dbpedia.org/resource/Italo_Calvino</value>
+</author>
+<released>
+<type>typed-literal</type>
+<datatype>http://www.w3.org/2001/XMLSchema#integer</datatype>
+<value>1972</value>
+</released>
+<wikilink>
+<type>uri</type>
+<value>http://en.wikipedia.org/wiki/Invisible_Cities?oldid=603019903</value>
+</wikilink>
+<abstract>
+<type>literal</type>
+<xml:lang>de</xml:lang>
+<value>Die unsichtbaren Städte (ital. Original: Le città invisibili) ist der Titel eines 1972 erschienenen Buches von Italo Calvino. Die deutsche Erstübersetzung von Heinz Riedt erschien 1977 im Carl Hanser Verlag, München, und zugleich im Verlag Volk und Welt, Berlin (DDR). Im Gegensatz zum Original trug sie die Gattungsbezeichnung „Roman“. Eine Neuübersetzung von Burkhart Kroeber ist 2007 bei Hanser erschienen.</value>
+</abstract>
+</XML_Serializer_Tag>
+<XML_Serializer_Tag>
+<book>
+<type>uri</type>
+<value>http://dbpedia.org/resource/The_Path_to_the_Nest_of_Spiders</value>
+</book>
+<author>
+<type>uri</type>
+<value>http://dbpedia.org/resource/Italo_Calvino</value>
+</author>
+<released>
+<type>typed-literal</type>
+<datatype>http://www.w3.org/2001/XMLSchema#integer</datatype>
+<value>1947</value>
+</released>
+<wikilink>
+<type>uri</type>
+<value>http://en.wikipedia.org/wiki/The_Path_to_the_Nest_of_Spiders?oldid=596898663</value>
+</wikilink>
+</XML_Serializer_Tag>
+<XML_Serializer_Tag>
+<book>
+<type>uri</type>
+<value>http://dbpedia.org/resource/T_zero</value>
+</book>
+<author>
+<type>uri</type>
+<value>http://dbpedia.org/resource/Italo_Calvino</value>
+</author>
+<released>
+<type>typed-literal</type>
+<datatype>http://www.w3.org/2001/XMLSchema#integer</datatype>
+<value>1967</value>
+</released>
+<wikilink>
+<type>uri</type>
+<value>http://en.wikipedia.org/wiki/T_zero?oldid=604074347</value>
+</wikilink>
+</XML_Serializer_Tag>
+<XML_Serializer_Tag>
+<book>
+<type>uri</type>
+<value>http://dbpedia.org/resource/The_Complete_Cosmicomics</value>
+</book>
+<author>
+<type>uri</type>
+<value>http://dbpedia.org/resource/Italo_Calvino</value>
+</author>
+<released>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>May 2009</value>
+</released>
+<wikilink>
+<type>uri</type>
+<value>http://en.wikipedia.org/wiki/The_Complete_Cosmicomics?oldid=584203575</value>
+</wikilink>
+</XML_Serializer_Tag>
+<XML_Serializer_Tag>
+<book>
+<type>uri</type>
+<value>http://dbpedia.org/resource/Difficult_Loves</value>
+</book>
+<author>
+<type>uri</type>
+<value>http://dbpedia.org/resource/Italo_Calvino</value>
+</author>
+<published>
+<type>typed-literal</type>
+<datatype>http://www.w3.org/2001/XMLSchema#integer</datatype>
+<value>1970</value>
+</published>
+<wikilink>
+<type>uri</type>
+<value>http://en.wikipedia.org/wiki/Difficult_Loves?oldid=603754681</value>
+</wikilink>
+</XML_Serializer_Tag>
+<XML_Serializer_Tag>
+<book>
+<type>uri</type>
+<value>http://dbpedia.org/resource/Cosmicomics</value>
+</book>
+<author>
+<type>uri</type>
+<value>http://dbpedia.org/resource/Italo_Calvino</value>
+</author>
+<wikilink>
+<type>uri</type>
+<value>http://en.wikipedia.org/wiki/Cosmicomics?oldid=584346094</value>
+</wikilink>
+</XML_Serializer_Tag>
+<XML_Serializer_Tag>
+<book>
+<type>uri</type>
+<value>http://dbpedia.org/resource/The_Nonexistent_Knight</value>
+</book>
+<author>
+<type>uri</type>
+<value>http://dbpedia.org/resource/Italo_Calvino</value>
+</author>
+<wikilink>
+<type>uri</type>
+<value>http://en.wikipedia.org/wiki/The_Nonexistent_Knight?oldid=596050148</value>
+</wikilink>
+</XML_Serializer_Tag>
+</books>
+</Person>

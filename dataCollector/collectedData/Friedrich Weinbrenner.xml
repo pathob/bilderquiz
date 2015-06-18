@@ -15,8 +15,10 @@
 <XML_Serializer_Tag>Architekt</XML_Serializer_Tag>
 <XML_Serializer_Tag>Maler</XML_Serializer_Tag>
 </professionOrOccupation>
-<artworks />
 <dbpResource>http://dbpedia.org/resource/Friedrich_Weinbrenner</dbpResource>
 <abstract>Johann Jakob Friedrich Weinbrenner (* 24. November 1766 in Karlsruhe; † 1. März 1826 ebenda) war ein deutscher Architekt, Stadtplaner und Baumeister des Klassizismus.</abstract>
 <wikilink>http://en.wikipedia.org/wiki/Friedrich_Weinbrenner?oldid=606473304</wikilink>
+<artworks />
+<buildings />
+<books />
 </Person>

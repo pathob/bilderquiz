@@ -1,0 +1,27 @@
+<Person>
+<name>Karl Krolow</name>
+<variantName>
+<XML_Serializer_Tag>Karol Kröpcke</XML_Serializer_Tag>
+</variantName>
+<thumbnail>https://commons.wikimedia.org/wiki/Special:FilePath/Thomas_Duttenhoefer_1982_Karl_Krolow_Plastik_Stadtbibliothek_Hannover.jpg?width=270</thumbnail>
+<birthEN>March 11, 1915</birthEN>
+<birthDE>11. März 1915</birthDE>
+<deathEN>1999</deathEN>
+<deathDE>1999</deathDE>
+<birthPlace>
+<XML_Serializer_Tag>Hannover</XML_Serializer_Tag>
+</birthPlace>
+<deathPlace />
+<professionOrOccupation>
+<XML_Serializer_Tag>Schriftsteller</XML_Serializer_Tag>
+<XML_Serializer_Tag>Kritiker</XML_Serializer_Tag>
+<XML_Serializer_Tag>Übersetzer</XML_Serializer_Tag>
+<XML_Serializer_Tag>Essayist</XML_Serializer_Tag>
+</professionOrOccupation>
+<dbpResource>http://dbpedia.org/resource/Karl_Krolow</dbpResource>
+<abstract>Karl Krolow (* 11. März 1915 in Hannover; † 21. Juni 1999 in Darmstadt; Pseudonym: Karol Kröpcke) war ein deutscher Schriftsteller.</abstract>
+<wikilink>http://en.wikipedia.org/wiki/Karl_Krolow?oldid=586508437</wikilink>
+<artworks />
+<buildings />
+<books />
+</Person>

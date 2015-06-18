@@ -18,8 +18,10 @@
 <XML_Serializer_Tag>Künstler</XML_Serializer_Tag>
 <XML_Serializer_Tag>Maler</XML_Serializer_Tag>
 </professionOrOccupation>
-<artworks />
 <dbpResource>http://dbpedia.org/resource/Raoul_Dufy</dbpResource>
 <abstract>Raoul Dufy (* 3. Juni 1877 in Le Havre (Normandie); † 23. März 1953 in Forcalquier) war ein französischer Maler des Fauvismus.</abstract>
 <wikilink>http://en.wikipedia.org/wiki/Raoul_Dufy?oldid=596984933</wikilink>
+<artworks />
+<buildings />
+<books />
 </Person>

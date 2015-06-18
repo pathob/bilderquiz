@@ -1,0 +1,25 @@
+<Person>
+<name>Wilhelm Uhde</name>
+<variantName>
+<XML_Serializer_Tag>W. Uhde</XML_Serializer_Tag>
+<XML_Serializer_Tag>Guilelmus Uhde</XML_Serializer_Tag>
+</variantName>
+<thumbnail>https://commons.wikimedia.org/wiki/Special:FilePath/Helmut_Kolle-Wilhelm_Uhde-portrait.jpg?width=270</thumbnail>
+<birthEN>October 28, 1874</birthEN>
+<birthDE>28. Oktober 1874</birthDE>
+<deathEN>August 17, 1947</deathEN>
+<deathDE>17. August 1947</deathDE>
+<birthPlace />
+<deathPlace />
+<professionOrOccupation>
+<XML_Serializer_Tag>Jurist</XML_Serializer_Tag>
+<XML_Serializer_Tag>Kunsthistoriker</XML_Serializer_Tag>
+<XML_Serializer_Tag>Schriftsteller</XML_Serializer_Tag>
+</professionOrOccupation>
+<dbpResource>http://dbpedia.org/resource/Wilhelm_Uhde</dbpResource>
+<abstract>Wilhelm Uhde (* 28. Oktober 1874 in Friedeberg, Neumark; † 17. August 1947 in Paris) war ein deutscher Kunsthändler, Kunstsachverständiger, Autor und Galerist.</abstract>
+<wikilink>http://en.wikipedia.org/wiki/Wilhelm_Uhde?oldid=580363544</wikilink>
+<artworks />
+<buildings />
+<books />
+</Person>

@@ -1,0 +1,24 @@
+<Person>
+<name>Robert Dale Owen</name>
+<variantName>
+<XML_Serializer_Tag>Robert D. Owen</XML_Serializer_Tag>
+<XML_Serializer_Tag>Robert Dale Owen</XML_Serializer_Tag>
+<XML_Serializer_Tag>R. D. Owen</XML_Serializer_Tag>
+</variantName>
+<thumbnail>https://commons.wikimedia.org/wiki/Special:FilePath/Robertdaleowenindiana.jpg?width=270</thumbnail>
+<birthEN>1801</birthEN>
+<birthDE>1801</birthDE>
+<deathEN>1877</deathEN>
+<deathDE>1877</deathDE>
+<birthPlace />
+<deathPlace />
+<professionOrOccupation>
+<XML_Serializer_Tag>Philosoph</XML_Serializer_Tag>
+</professionOrOccupation>
+<dbpResource>http://dbpedia.org/resource/Robert_Dale_Owen</dbpResource>
+<abstract>Robert Dale Owen (* 7. November 1801 in Glasgow, Schottland; † 24. Juni 1877 in Lake George, New York, Vereinigte Staaten) war ein US-amerikanischer Politiker, Diplomat und Sozialreformer.</abstract>
+<wikilink>http://en.wikipedia.org/wiki/Robert_Dale_Owen?oldid=597564707</wikilink>
+<artworks />
+<buildings />
+<books />
+</Person>

@@ -1,0 +1,43 @@
+<Person>
+<name>Tom Reiss</name>
+<variantName>
+<XML_Serializer_Tag>טום רייס</XML_Serializer_Tag>
+</variantName>
+<thumbnail>https://en.wikipedia.org/wiki/Special:FilePath/Tom_Reiss_portrait_Paris1.jpg?width=270</thumbnail>
+<birthEN>1964</birthEN>
+<birthDE>1964</birthDE>
+<deathEN />
+<deathDE />
+<birthPlace />
+<deathPlace />
+<professionOrOccupation>
+<XML_Serializer_Tag>Schriftsteller</XML_Serializer_Tag>
+<XML_Serializer_Tag>Journalist</XML_Serializer_Tag>
+</professionOrOccupation>
+<dbpResource>http://dbpedia.org/resource/Tom_Reiss</dbpResource>
+<abstract>Tom Reiss (* 5. Mai 1964 in New York City) ist ein US-amerikanischer Autor, Historiker und Journalist, der durch mehrere seiner Bücher international bekannt wurde.</abstract>
+<wikilink>http://en.wikipedia.org/wiki/Tom_Reiss?oldid=606227736</wikilink>
+<artworks />
+<buildings />
+<books>
+<XML_Serializer_Tag>
+<book>
+<type>uri</type>
+<value>http://dbpedia.org/resource/The_Black_Count:_Glory,_Revolution,_Betrayal,_and_the_Real_Count_of_Monte_Cristo</value>
+</book>
+<author>
+<type>uri</type>
+<value>http://dbpedia.org/resource/Tom_Reiss</value>
+</author>
+<released>
+<type>typed-literal</type>
+<datatype>http://www.w3.org/2001/XMLSchema#date</datatype>
+<value>2012-09-18+02:00</value>
+</released>
+<wikilink>
+<type>uri</type>
+<value>http://en.wikipedia.org/wiki/The_Black_Count:_Glory,_Revolution,_Betrayal,_and_the_Real_Count_of_Monte_Cristo?oldid=601939946</value>
+</wikilink>
+</XML_Serializer_Tag>
+</books>
+</Person>

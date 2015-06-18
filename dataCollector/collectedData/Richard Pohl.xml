@@ -1,0 +1,30 @@
+<Person>
+<name>Richard Pohl</name>
+<variantName>
+<XML_Serializer_Tag>Jean Richard</XML_Serializer_Tag>
+<XML_Serializer_Tag>... Hoplit</XML_Serializer_Tag>
+<XML_Serializer_Tag>Georg R. Pohl</XML_Serializer_Tag>
+</variantName>
+<thumbnail>https://commons.wikimedia.org/wiki/Special:FilePath/Richard_Pohl.jpg?width=270</thumbnail>
+<birthEN>September 12, 1826</birthEN>
+<birthDE>12. September 1826</birthDE>
+<deathEN>December 17, 1896</deathEN>
+<deathDE>17. Dezember 1896</deathDE>
+<birthPlace>
+<XML_Serializer_Tag>Leipzig</XML_Serializer_Tag>
+</birthPlace>
+<deathPlace>
+<XML_Serializer_Tag>Baden-Baden</XML_Serializer_Tag>
+</deathPlace>
+<professionOrOccupation>
+<XML_Serializer_Tag>Schriftsteller</XML_Serializer_Tag>
+<XML_Serializer_Tag>Musiker</XML_Serializer_Tag>
+<XML_Serializer_Tag>Journalist</XML_Serializer_Tag>
+</professionOrOccupation>
+<dbpResource>http://dbpedia.org/resource/Richard_Pohl</dbpResource>
+<abstract>Richard Pohl (* 12. September 1826 in Leipzig; † 17. Dezember 1896 in Baden-Baden) war ein Komponist und Musikschriftsteller.</abstract>
+<wikilink>http://en.wikipedia.org/wiki/Richard_Pohl?oldid=575993660</wikilink>
+<artworks />
+<buildings />
+<books />
+</Person>

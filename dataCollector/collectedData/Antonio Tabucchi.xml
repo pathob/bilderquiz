@@ -1,0 +1,121 @@
+<Person>
+<name>Antonio Tabucchi</name>
+<variantName>
+<XML_Serializer_Tag>Antonio Tabuki</XML_Serializer_Tag>
+<XML_Serializer_Tag>Antonio Tampuki</XML_Serializer_Tag>
+<XML_Serializer_Tag>Αντόνιο Ταμπούκι</XML_Serializer_Tag>
+</variantName>
+<thumbnail>https://commons.wikimedia.org/wiki/Special:FilePath/Antonio_Tabucchi.jpg?width=270</thumbnail>
+<birthEN>September 23, 1943</birthEN>
+<birthDE>23. September 1943</birthDE>
+<deathEN>March 25, 2012</deathEN>
+<deathDE>25. März 2012</deathDE>
+<birthPlace>
+<XML_Serializer_Tag>Pisa</XML_Serializer_Tag>
+</birthPlace>
+<deathPlace>
+<XML_Serializer_Tag>Lissabon</XML_Serializer_Tag>
+</deathPlace>
+<professionOrOccupation>
+<XML_Serializer_Tag>Schriftsteller</XML_Serializer_Tag>
+<XML_Serializer_Tag>Philologe</XML_Serializer_Tag>
+<XML_Serializer_Tag>Übersetzer</XML_Serializer_Tag>
+<XML_Serializer_Tag>Drehbuchautor</XML_Serializer_Tag>
+</professionOrOccupation>
+<dbpResource>http://dbpedia.org/resource/Antonio_Tabucchi</dbpResource>
+<abstract>Antonio Tabucchi (* 24. September 1943 in Vecchiano bei Pisa; † 25. März 2012 in Lissabon) war ein italienischer Schriftsteller, Literaturwissenschaftler und Übersetzer.</abstract>
+<wikilink>http://en.wikipedia.org/wiki/Antonio_Tabucchi?oldid=598442253</wikilink>
+<artworks />
+<buildings />
+<books>
+<XML_Serializer_Tag>
+<book>
+<type>uri</type>
+<value>http://dbpedia.org/resource/Pereira_Maintains</value>
+</book>
+<author>
+<type>uri</type>
+<value>http://dbpedia.org/resource/Antonio_Tabucchi</value>
+</author>
+<wikilink>
+<type>uri</type>
+<value>http://en.wikipedia.org/wiki/Pereira_Maintains?oldid=602940957</value>
+</wikilink>
+<abstract>
+<type>literal</type>
+<xml:lang>de</xml:lang>
+<value>Erklärt Pereira (ital. Originaltitel Sostiene Pereira) ist ein politisch engagierter historischer Roman des italienischen Literaturwissenschaftlers und Schriftstellers Antonio Tabucchi, der erstmals 1994 im Verlag Feltrinelli in Mailand erschienen ist. Die deutsche Übersetzung von Karin Fleischanderl erschien ein Jahr später im Carl Hanser Verlag.</value>
+</abstract>
+</XML_Serializer_Tag>
+<XML_Serializer_Tag>
+<book>
+<type>uri</type>
+<value>http://dbpedia.org/resource/Indian_Nocturne</value>
+</book>
+<author>
+<type>uri</type>
+<value>http://dbpedia.org/resource/Antonio_Tabucchi</value>
+</author>
+<wikilink>
+<type>uri</type>
+<value>http://en.wikipedia.org/wiki/Indian_Nocturne?oldid=564865459</value>
+</wikilink>
+</XML_Serializer_Tag>
+<XML_Serializer_Tag>
+<book>
+<type>uri</type>
+<value>http://dbpedia.org/resource/The_Missing_Head_of_Damasceno_Monteiro</value>
+</book>
+<author>
+<type>uri</type>
+<value>http://dbpedia.org/resource/Antonio_Tabucchi</value>
+</author>
+<wikilink>
+<type>uri</type>
+<value>http://en.wikipedia.org/wiki/The_Missing_Head_of_Damasceno_Monteiro?oldid=576844734</value>
+</wikilink>
+</XML_Serializer_Tag>
+<XML_Serializer_Tag>
+<book>
+<type>uri</type>
+<value>http://dbpedia.org/resource/Requiem:_A_Hallucination</value>
+</book>
+<author>
+<type>uri</type>
+<value>http://dbpedia.org/resource/Antonio_Tabucchi</value>
+</author>
+<wikilink>
+<type>uri</type>
+<value>http://en.wikipedia.org/wiki/Requiem:_A_Hallucination?oldid=564865559</value>
+</wikilink>
+</XML_Serializer_Tag>
+<XML_Serializer_Tag>
+<book>
+<type>uri</type>
+<value>http://dbpedia.org/resource/It&apos;s_Getting_Later_All_the_Time</value>
+</book>
+<author>
+<type>uri</type>
+<value>http://dbpedia.org/resource/Antonio_Tabucchi</value>
+</author>
+<wikilink>
+<type>uri</type>
+<value>http://en.wikipedia.org/wiki/It&apos;s_Getting_Later_All_the_Time?oldid=546309439</value>
+</wikilink>
+</XML_Serializer_Tag>
+<XML_Serializer_Tag>
+<book>
+<type>uri</type>
+<value>http://dbpedia.org/resource/Little_Misunderstandings_of_No_Importance</value>
+</book>
+<author>
+<type>uri</type>
+<value>http://dbpedia.org/resource/Antonio_Tabucchi</value>
+</author>
+<wikilink>
+<type>uri</type>
+<value>http://en.wikipedia.org/wiki/Little_Misunderstandings_of_No_Importance?oldid=546349510</value>
+</wikilink>
+</XML_Serializer_Tag>
+</books>
+</Person>

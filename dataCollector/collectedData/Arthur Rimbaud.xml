@@ -1,0 +1,36 @@
+<Person>
+<name>Arthur Rimbaud</name>
+<variantName>
+<XML_Serializer_Tag>Artur Rimbaud</XML_Serializer_Tag>
+<XML_Serializer_Tag>Jean Arthur Rimbaud</XML_Serializer_Tag>
+<XML_Serializer_Tag>Jean-Arthur Rimbaud</XML_Serializer_Tag>
+<XML_Serializer_Tag>Jean A. Rimbaud</XML_Serializer_Tag>
+<XML_Serializer_Tag>A. Rembo</XML_Serializer_Tag>
+<XML_Serializer_Tag>Artur Rembo</XML_Serializer_Tag>
+<XML_Serializer_Tag>Artjur Rembo</XML_Serializer_Tag>
+<XML_Serializer_Tag>Jean N. Rimbaud</XML_Serializer_Tag>
+<XML_Serializer_Tag>Rimbaud</XML_Serializer_Tag>
+<XML_Serializer_Tag>Jean Nicolas Arthur Rimbaud</XML_Serializer_Tag>
+<XML_Serializer_Tag>Jean-Nicolas-Arthur Rimbaud</XML_Serializer_Tag>
+</variantName>
+<thumbnail>https://de.wikipedia.org/wiki/Special:FilePath/Rimbaud.JPG?width=270</thumbnail>
+<birthEN>October 20, 1854</birthEN>
+<birthDE>20. Oktober 1854</birthDE>
+<deathEN>November 10, 1891</deathEN>
+<deathDE>10. November 1891</deathDE>
+<birthPlace>
+<XML_Serializer_Tag>Charleville, Ardennen</XML_Serializer_Tag>
+</birthPlace>
+<deathPlace>
+<XML_Serializer_Tag>Marseille</XML_Serializer_Tag>
+</deathPlace>
+<professionOrOccupation>
+<XML_Serializer_Tag>Schriftsteller</XML_Serializer_Tag>
+</professionOrOccupation>
+<dbpResource>http://dbpedia.org/resource/Arthur_Rimbaud</dbpResource>
+<abstract>Jean Nicolas Arthur Rimbaud (* 20. Oktober 1854 in Charleville; † 10. November 1891 in Marseille) war ein französischer Dichter, Abenteurer und Geschäftsmann. Heute gilt er als einer der Großen der französischen Lyrik.</abstract>
+<wikilink>http://en.wikipedia.org/wiki/Arthur_Rimbaud?oldid=606575947</wikilink>
+<artworks />
+<buildings />
+<books />
+</Person>

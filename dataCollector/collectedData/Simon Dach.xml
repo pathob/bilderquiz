@@ -1,0 +1,44 @@
+<Person>
+<name>Simon Dach</name>
+<variantName>
+<XML_Serializer_Tag>Simon Dachen</XML_Serializer_Tag>
+<XML_Serializer_Tag>Simon Dachius</XML_Serializer_Tag>
+<XML_Serializer_Tag>Simon Dachios</XML_Serializer_Tag>
+<XML_Serializer_Tag>Simonas Dakas</XML_Serializer_Tag>
+<XML_Serializer_Tag>Chasmindo</XML_Serializer_Tag>
+<XML_Serializer_Tag>Chasmindo, von Memel</XML_Serializer_Tag>
+<XML_Serializer_Tag>Chasmindo, von Weitemher</XML_Serializer_Tag>
+<XML_Serializer_Tag>Chasmindo, von Weitencher</XML_Serializer_Tag>
+<XML_Serializer_Tag>Chasmindus</XML_Serializer_Tag>
+<XML_Serializer_Tag>Sichamond</XML_Serializer_Tag>
+<XML_Serializer_Tag>Philison</XML_Serializer_Tag>
+<XML_Serializer_Tag>Johannes Petrus de Memel</XML_Serializer_Tag>
+<XML_Serializer_Tag>S. D.</XML_Serializer_Tag>
+<XML_Serializer_Tag>Sichamond Chasmindo</XML_Serializer_Tag>
+<XML_Serializer_Tag>Simonas Dachas</XML_Serializer_Tag>
+</variantName>
+<thumbnail>https://commons.wikimedia.org/wiki/Special:FilePath/Simon_Dach.jpg?width=270</thumbnail>
+<birthEN>July 29, 1605</birthEN>
+<birthDE>29. Juli 1605</birthDE>
+<deathEN>April 15, 1659</deathEN>
+<deathDE>15. April 1659</deathDE>
+<birthPlace>
+<XML_Serializer_Tag>Memel</XML_Serializer_Tag>
+</birthPlace>
+<deathPlace>
+<XML_Serializer_Tag>Königsberg</XML_Serializer_Tag>
+</deathPlace>
+<professionOrOccupation>
+<XML_Serializer_Tag>Schriftsteller</XML_Serializer_Tag>
+<XML_Serializer_Tag>Philosoph</XML_Serializer_Tag>
+<XML_Serializer_Tag>Theologe</XML_Serializer_Tag>
+<XML_Serializer_Tag>Hochschullehrer</XML_Serializer_Tag>
+<XML_Serializer_Tag>Komponist</XML_Serializer_Tag>
+</professionOrOccupation>
+<dbpResource>http://dbpedia.org/resource/Simon_Dach</dbpResource>
+<abstract>Simon Dach (* 29. Juli 1605 in Memel; † 15. April 1659 in Königsberg) war ein deutscher Dichter der Barockzeit.</abstract>
+<wikilink>http://en.wikipedia.org/wiki/Simon_Dach?oldid=606130838</wikilink>
+<artworks />
+<buildings />
+<books />
+</Person>

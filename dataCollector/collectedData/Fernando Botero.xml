@@ -1,0 +1,23 @@
+<Person>
+<name>Fernando Botero</name>
+<variantName>
+<XML_Serializer_Tag>Fernando Botero Angulo</XML_Serializer_Tag>
+<XML_Serializer_Tag>Fernando Botero Angulo</XML_Serializer_Tag>
+</variantName>
+<thumbnail>https://commons.wikimedia.org/wiki/Special:FilePath/Fernando_Botero.jpg?width=270</thumbnail>
+<birthEN>1932</birthEN>
+<birthDE>1932</birthDE>
+<deathEN />
+<deathDE />
+<birthPlace />
+<deathPlace />
+<professionOrOccupation>
+<XML_Serializer_Tag>Künstler</XML_Serializer_Tag>
+</professionOrOccupation>
+<dbpResource>http://dbpedia.org/resource/Fernando_Botero</dbpResource>
+<abstract>Fernando Botero (* 19. April 1932 in Medellín) ist ein kolumbianischer Maler und seit 1976 auch Bildhauer.</abstract>
+<wikilink>http://en.wikipedia.org/wiki/Fernando_Botero?oldid=606722191</wikilink>
+<artworks />
+<buildings />
+<books />
+</Person>

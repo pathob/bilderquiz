@@ -1,0 +1,135 @@
+<Person>
+<name>Howard Fast</name>
+<variantName>
+<XML_Serializer_Tag>Howard Melvin Fast</XML_Serializer_Tag>
+<XML_Serializer_Tag>Howard M. Fast</XML_Serializer_Tag>
+<XML_Serializer_Tag>E. V. Cunningham</XML_Serializer_Tag>
+<XML_Serializer_Tag>Walter Ericson</XML_Serializer_Tag>
+<XML_Serializer_Tag>E. V. Cunningham</XML_Serializer_Tag>
+</variantName>
+<thumbnail>https://en.wikipedia.org/wiki/Special:FilePath/Howard_Fast.jpg?width=270</thumbnail>
+<birthEN>November 11, 1914</birthEN>
+<birthDE>11. November 1914</birthDE>
+<deathEN>March 12, 2003</deathEN>
+<deathDE>12. März 2003</deathDE>
+<birthPlace>
+<XML_Serializer_Tag>New York, NY</XML_Serializer_Tag>
+</birthPlace>
+<deathPlace>
+<XML_Serializer_Tag>Old Greenwich, Conn.</XML_Serializer_Tag>
+</deathPlace>
+<professionOrOccupation>
+<XML_Serializer_Tag>Schriftsteller</XML_Serializer_Tag>
+</professionOrOccupation>
+<dbpResource>http://dbpedia.org/resource/Howard_Fast</dbpResource>
+<abstract>Howard Melvin Fast (* 11. November 1914 in New York; † 12. März 2003 in Old Greenwich, Connecticut) war ein US-amerikanischer Schriftsteller. Er verfasste vorwiegend historische Romane, Biographien und Dramen; etliche wurden Bestseller. Einige erschienen unter Pseudonymen, darunter E. V. Cunningham. Zunächst Verfechter und Erforscher des nordamerikanischen Freiheitsideals, dann Kämpfer gegen ökonomische und soziale Ungleichheit, hatte sich Fast um 1940 zum Kommunismus sowjetischer Prägung bekannt, sagte sich aber von diesem 1957 öffentlich wieder los.</abstract>
+<wikilink>http://en.wikipedia.org/wiki/Howard_Fast?oldid=606669702</wikilink>
+<artworks />
+<buildings />
+<books>
+<XML_Serializer_Tag>
+<book>
+<type>uri</type>
+<value>http://dbpedia.org/resource/Haym_Salomon,_Son_of_Liberty</value>
+</book>
+<author>
+<type>uri</type>
+<value>http://dbpedia.org/resource/Howard_Fast</value>
+</author>
+<released>
+<type>typed-literal</type>
+<datatype>http://www.w3.org/2001/XMLSchema#integer</datatype>
+<value>1941</value>
+</released>
+<wikilink>
+<type>uri</type>
+<value>http://en.wikipedia.org/wiki/Haym_Salomon,_Son_of_Liberty?oldid=469855751</value>
+</wikilink>
+</XML_Serializer_Tag>
+<XML_Serializer_Tag>
+<book>
+<type>uri</type>
+<value>http://dbpedia.org/resource/April_Morning</value>
+</book>
+<author>
+<type>uri</type>
+<value>http://dbpedia.org/resource/Howard_Fast</value>
+</author>
+<released>
+<type>typed-literal</type>
+<datatype>http://www.w3.org/2001/XMLSchema#integer</datatype>
+<value>1961</value>
+</released>
+<wikilink>
+<type>uri</type>
+<value>http://en.wikipedia.org/wiki/April_Morning?oldid=606350140</value>
+</wikilink>
+</XML_Serializer_Tag>
+<XML_Serializer_Tag>
+<book>
+<type>uri</type>
+<value>http://dbpedia.org/resource/Redemption_(1999_novel)</value>
+</book>
+<author>
+<type>uri</type>
+<value>http://dbpedia.org/resource/Howard_Fast</value>
+</author>
+<released>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>July 1999</value>
+</released>
+<wikilink>
+<type>uri</type>
+<value>http://en.wikipedia.org/wiki/Redemption_(1999_novel)?oldid=544884918</value>
+</wikilink>
+</XML_Serializer_Tag>
+<XML_Serializer_Tag>
+<book>
+<type>uri</type>
+<value>http://dbpedia.org/resource/The_General_Zapped_an_Angel</value>
+</book>
+<author>
+<type>uri</type>
+<value>http://dbpedia.org/resource/Howard_Fast</value>
+</author>
+<released>
+<type>typed-literal</type>
+<datatype>http://www.w3.org/2001/XMLSchema#integer</datatype>
+<value>1970</value>
+</released>
+<wikilink>
+<type>uri</type>
+<value>http://en.wikipedia.org/wiki/The_General_Zapped_an_Angel?oldid=598085615</value>
+</wikilink>
+</XML_Serializer_Tag>
+<XML_Serializer_Tag>
+<book>
+<type>uri</type>
+<value>http://dbpedia.org/resource/Spartacus_(Fast_novel)</value>
+</book>
+<author>
+<type>uri</type>
+<value>http://dbpedia.org/resource/Howard_Fast</value>
+</author>
+<wikilink>
+<type>uri</type>
+<value>http://en.wikipedia.org/wiki/Spartacus_(Fast_novel)?oldid=581193659</value>
+</wikilink>
+</XML_Serializer_Tag>
+<XML_Serializer_Tag>
+<book>
+<type>uri</type>
+<value>http://dbpedia.org/resource/The_Immigrants</value>
+</book>
+<author>
+<type>uri</type>
+<value>http://dbpedia.org/resource/Howard_Fast</value>
+</author>
+<wikilink>
+<type>uri</type>
+<value>http://en.wikipedia.org/wiki/The_Immigrants?oldid=545502834</value>
+</wikilink>
+</XML_Serializer_Tag>
+</books>
+</Person>

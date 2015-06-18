@@ -1,0 +1,42 @@
+<Person>
+<name>August Wilhelm Iffland</name>
+<variantName>
+<XML_Serializer_Tag>... Iffland</XML_Serializer_Tag>
+<XML_Serializer_Tag>Augustus Guilielmus Iffland</XML_Serializer_Tag>
+<XML_Serializer_Tag>Wilhelm August Iffland</XML_Serializer_Tag>
+<XML_Serializer_Tag>Wilhelm A. Iffland</XML_Serializer_Tag>
+<XML_Serializer_Tag>... Ifland</XML_Serializer_Tag>
+<XML_Serializer_Tag>August Wilhelm Ifland</XML_Serializer_Tag>
+<XML_Serializer_Tag>August G. Iffland</XML_Serializer_Tag>
+<XML_Serializer_Tag>August W. Iffland</XML_Serializer_Tag>
+<XML_Serializer_Tag>Augusto Guglielmo Iffland</XML_Serializer_Tag>
+<XML_Serializer_Tag>Aug. Wilh. Iffland</XML_Serializer_Tag>
+<XML_Serializer_Tag>August Ifflandt</XML_Serializer_Tag>
+<XML_Serializer_Tag>Augustus William Iffland</XML_Serializer_Tag>
+<XML_Serializer_Tag>A. W. Iffland</XML_Serializer_Tag>
+<XML_Serializer_Tag>W. A. Iffland</XML_Serializer_Tag>
+</variantName>
+<thumbnail>https://commons.wikimedia.org/wiki/Special:FilePath/August_Wilhelm_Iffland_Johann_Stephan_Decker.jpg?width=270</thumbnail>
+<birthEN>April 19, 1759</birthEN>
+<birthDE>19. April 1759</birthDE>
+<deathEN>September 22, 1814</deathEN>
+<deathDE>22. September 1814</deathDE>
+<birthPlace>
+<XML_Serializer_Tag>Hannover</XML_Serializer_Tag>
+</birthPlace>
+<deathPlace>
+<XML_Serializer_Tag>Berlin</XML_Serializer_Tag>
+</deathPlace>
+<professionOrOccupation>
+<XML_Serializer_Tag>Schauspieler</XML_Serializer_Tag>
+<XML_Serializer_Tag>Theaterleiter</XML_Serializer_Tag>
+<XML_Serializer_Tag>Schriftsteller</XML_Serializer_Tag>
+<XML_Serializer_Tag>Dramatiker</XML_Serializer_Tag>
+</professionOrOccupation>
+<dbpResource>http://dbpedia.org/resource/August_Wilhelm_Iffland</dbpResource>
+<abstract>August Wilhelm Iffland (* 19. April 1759 in Hannover; † 22. September 1814 in Berlin) war ein deutscher Schauspieler, Intendant und Dramatiker.</abstract>
+<wikilink>http://en.wikipedia.org/wiki/August_Wilhelm_Iffland?oldid=599859402</wikilink>
+<artworks />
+<buildings />
+<books />
+</Person>

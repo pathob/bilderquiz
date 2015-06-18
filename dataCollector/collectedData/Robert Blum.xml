@@ -1,0 +1,27 @@
+<Person>
+<name>Robert Blum</name>
+<variantName />
+<thumbnail>https://commons.wikimedia.org/wiki/Special:FilePath/Portrait_of_Robert_Blum_by_August_Hunger.jpg?width=270</thumbnail>
+<birthEN>November 10, 1807</birthEN>
+<birthDE>10. November 1807</birthDE>
+<deathEN>November 9, 1848</deathEN>
+<deathDE>9. November 1848</deathDE>
+<birthPlace>
+<XML_Serializer_Tag>Köln</XML_Serializer_Tag>
+</birthPlace>
+<deathPlace>
+<XML_Serializer_Tag>Wien-Brigittenau</XML_Serializer_Tag>
+</deathPlace>
+<professionOrOccupation>
+<XML_Serializer_Tag>Politiker</XML_Serializer_Tag>
+<XML_Serializer_Tag>Publizist</XML_Serializer_Tag>
+<XML_Serializer_Tag>Verleger</XML_Serializer_Tag>
+<XML_Serializer_Tag>Schriftsteller</XML_Serializer_Tag>
+</professionOrOccupation>
+<dbpResource>http://dbpedia.org/resource/Robert_Blum</dbpResource>
+<abstract>Robert Blum (* 10. November 1807 in Köln; † 9. November 1848 in der Brigittenau bei Wien) war ein deutscher Politiker, Publizist, Verleger und Dichter in den Jahren vor und während der Märzrevolution von 1848. Er stammte aus sozial unterprivilegierten Verhältnissen und hatte sich zum Teil autodidaktisch weitergebildet. Auch war er eine führende Persönlichkeit der liberalen und nationalkirchlichen Bewegung des Deutschkatholizismus.Er war Abgeordneter in dem als Folge der Revolution entstandenen ersten demokratisch gewählten gesamtdeutschen Parlament, der Frankfurter Nationalversammlung (auch Paulskirchenparlament genannt). Dort setzte er sich als einer der führenden Köpfe der Demokraten für eine republikanische Verfasstheit des geplanten deutschen Nationalstaats ein. Dabei war er auf Kompromisse mit dem linken Flügel der Liberalen ebenso bedacht wie auf einen strikt demokratischen Kurs. Allgemein war sein politisches Handeln eher von den situationsgegebenen Erfordernissen bestimmt als von einem programmatischen Kurs. Während der zweiten Revolutionsphase nahm Blum beim Oktoberaufstand 1848 auf der Seite der Revolutionäre an der Verteidigung Wiens gegen die kaiserlich-königlichen Truppen teil und wurde nach der Niederschlagung des Aufstands nach einem Standgerichtsurteil hingerichtet.</abstract>
+<wikilink>http://en.wikipedia.org/wiki/Robert_Blum?oldid=604634217</wikilink>
+<artworks />
+<buildings />
+<books />
+</Person>

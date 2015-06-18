@@ -1,0 +1,47 @@
+<Person>
+<name>Jacques Barzun</name>
+<variantName>
+<XML_Serializer_Tag>Jacques Martin Barzun</XML_Serializer_Tag>
+</variantName>
+<thumbnail>https://de.wikipedia.org/wiki/Special:FilePath/From_Dawn_to_Decadence.JPG?width=270</thumbnail>
+<birthEN>November 30, 1907</birthEN>
+<birthDE>30. November 1907</birthDE>
+<deathEN>October 25, 2012</deathEN>
+<deathDE>25. Oktober 2012</deathDE>
+<birthPlace>
+<XML_Serializer_Tag>Créteil</XML_Serializer_Tag>
+</birthPlace>
+<deathPlace>
+<XML_Serializer_Tag>San Antonio, Tex.</XML_Serializer_Tag>
+</deathPlace>
+<professionOrOccupation>
+<XML_Serializer_Tag>Historiker</XML_Serializer_Tag>
+<XML_Serializer_Tag>Autor</XML_Serializer_Tag>
+</professionOrOccupation>
+<dbpResource>http://dbpedia.org/resource/Jacques_Barzun</dbpResource>
+<abstract>Jacques Martin Barzun (* 30. November 1907 in Créteil bei Paris; † 25. Oktober 2012 in San Antonio) war ein US-amerikanischer Historiker und Hochschullehrer. Noch in hohem Alter galt er als ein führender Intellektueller in den Bereichen Literatur, Erziehungswissenschaft und Kulturgeschichte.</abstract>
+<wikilink>http://en.wikipedia.org/wiki/Jacques_Barzun?oldid=602603164</wikilink>
+<artworks />
+<buildings />
+<books>
+<XML_Serializer_Tag>
+<book>
+<type>uri</type>
+<value>http://dbpedia.org/resource/A_Catalogue_of_Crime</value>
+</book>
+<author>
+<type>uri</type>
+<value>http://dbpedia.org/resource/Jacques_Barzun</value>
+</author>
+<released>
+<type>typed-literal</type>
+<datatype>http://www.w3.org/2001/XMLSchema#integer</datatype>
+<value>1971</value>
+</released>
+<wikilink>
+<type>uri</type>
+<value>http://en.wikipedia.org/wiki/A_Catalogue_of_Crime?oldid=551500030</value>
+</wikilink>
+</XML_Serializer_Tag>
+</books>
+</Person>

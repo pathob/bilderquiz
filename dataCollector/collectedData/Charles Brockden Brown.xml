@@ -1,0 +1,91 @@
+<Person>
+<name>Charles Brockden Brown</name>
+<variantName>
+<XML_Serializer_Tag>Charles Brockden Brown</XML_Serializer_Tag>
+<XML_Serializer_Tag>Charles B. Brown</XML_Serializer_Tag>
+<XML_Serializer_Tag>Brockden Brown</XML_Serializer_Tag>
+<XML_Serializer_Tag>Charles Brockden Browne</XML_Serializer_Tag>
+</variantName>
+<thumbnail>https://commons.wikimedia.org/wiki/Special:FilePath/Charles_Brockden_Brown.jpg?width=270</thumbnail>
+<birthEN>1771</birthEN>
+<birthDE>1771</birthDE>
+<deathEN>1810</deathEN>
+<deathDE>1810</deathDE>
+<birthPlace />
+<deathPlace />
+<professionOrOccupation>
+<XML_Serializer_Tag>Schriftsteller</XML_Serializer_Tag>
+<XML_Serializer_Tag>Journalist</XML_Serializer_Tag>
+</professionOrOccupation>
+<dbpResource>http://dbpedia.org/resource/Charles_Brockden_Brown</dbpResource>
+<abstract>Charles Brockden Brown (* 17. Januar 1771 in Philadelphia, Pennsylvania; † 22. Februar 1810 ebenda) war ein amerikanischer Schriftsteller.</abstract>
+<wikilink>http://en.wikipedia.org/wiki/Charles_Brockden_Brown?oldid=602901179</wikilink>
+<artworks />
+<buildings />
+<books>
+<XML_Serializer_Tag>
+<book>
+<type>uri</type>
+<value>http://dbpedia.org/resource/Wieland_(novel)</value>
+</book>
+<author>
+<type>uri</type>
+<value>http://dbpedia.org/resource/Charles_Brockden_Brown</value>
+</author>
+<thumbnail>
+<type>uri</type>
+<value>http://commons.wikimedia.org/wiki/Special:FilePath/Wieland_1811_cover.jpg?width=300</value>
+</thumbnail>
+<released>
+<type>typed-literal</type>
+<datatype>http://www.w3.org/2001/XMLSchema#integer</datatype>
+<value>1798</value>
+</released>
+<wikilink>
+<type>uri</type>
+<value>http://en.wikipedia.org/wiki/Wieland_(novel)?oldid=600896064</value>
+</wikilink>
+</XML_Serializer_Tag>
+<XML_Serializer_Tag>
+<book>
+<type>uri</type>
+<value>http://dbpedia.org/resource/Arthur_Mervyn</value>
+</book>
+<author>
+<type>uri</type>
+<value>http://dbpedia.org/resource/Charles_Brockden_Brown</value>
+</author>
+<thumbnail>
+<type>uri</type>
+<value>http://commons.wikimedia.org/wiki/Special:FilePath/Arthur_Mervyn_1st_ed.jpg?width=300</value>
+</thumbnail>
+<released>
+<type>typed-literal</type>
+<datatype>http://www.w3.org/2001/XMLSchema#integer</datatype>
+<value>1799</value>
+</released>
+<wikilink>
+<type>uri</type>
+<value>http://en.wikipedia.org/wiki/Arthur_Mervyn?oldid=606100589</value>
+</wikilink>
+</XML_Serializer_Tag>
+<XML_Serializer_Tag>
+<book>
+<type>uri</type>
+<value>http://dbpedia.org/resource/Edgar_Huntly</value>
+</book>
+<author>
+<type>uri</type>
+<value>http://dbpedia.org/resource/Charles_Brockden_Brown</value>
+</author>
+<thumbnail>
+<type>uri</type>
+<value>http://commons.wikimedia.org/wiki/Special:FilePath/Edgar_Huntly_1st_ed.jpg?width=300</value>
+</thumbnail>
+<wikilink>
+<type>uri</type>
+<value>http://en.wikipedia.org/wiki/Edgar_Huntly?oldid=578387915</value>
+</wikilink>
+</XML_Serializer_Tag>
+</books>
+</Person>

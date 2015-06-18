@@ -1,0 +1,35 @@
+<Person>
+<name>Stephan Hermlin</name>
+<variantName>
+<XML_Serializer_Tag>Stephan Chermlin</XML_Serializer_Tag>
+<XML_Serializer_Tag>Stefan Hermlin</XML_Serializer_Tag>
+<XML_Serializer_Tag>Rudolf Lederer</XML_Serializer_Tag>
+<XML_Serializer_Tag>Stefan Chermlin</XML_Serializer_Tag>
+<XML_Serializer_Tag>Štefan Chermlin</XML_Serializer_Tag>
+<XML_Serializer_Tag>Rudolf Leder</XML_Serializer_Tag>
+<XML_Serializer_Tag>슈테판 헤름린</XML_Serializer_Tag>
+</variantName>
+<thumbnail>https://commons.wikimedia.org/wiki/Special:FilePath/Bundesarchiv_Bild_183-14811-0012,_Berlin,_3._Deutscher_Schriftsteller-Kongress.jpg?width=270</thumbnail>
+<birthEN>April 13, 1915</birthEN>
+<birthDE>13. April 1915</birthDE>
+<deathEN>April 6, 1997</deathEN>
+<deathDE>6. April 1997</deathDE>
+<birthPlace>
+<XML_Serializer_Tag>Chemnitz</XML_Serializer_Tag>
+</birthPlace>
+<deathPlace>
+<XML_Serializer_Tag>Berlin</XML_Serializer_Tag>
+</deathPlace>
+<professionOrOccupation>
+<XML_Serializer_Tag>Schriftsteller</XML_Serializer_Tag>
+<XML_Serializer_Tag>Drehbuchautor</XML_Serializer_Tag>
+<XML_Serializer_Tag>Regisseur</XML_Serializer_Tag>
+<XML_Serializer_Tag>Sprecher</XML_Serializer_Tag>
+</professionOrOccupation>
+<dbpResource>http://dbpedia.org/resource/Stephan_Hermlin</dbpResource>
+<abstract>Stephan Hermlin (* 13. April 1915 in Chemnitz; † 6. April 1997 in Berlin; eigentlich Rudolf Leder) war ein deutscher Schriftsteller und Übersetzer (aus dem Französischen). Hermlin stach durch seine Erzählungen, Essays und Lyrik hervor und war einer der bekanntesten Schriftsteller der DDR.</abstract>
+<wikilink>http://en.wikipedia.org/wiki/Stephan_Hermlin?oldid=580757613</wikilink>
+<artworks />
+<buildings />
+<books />
+</Person>

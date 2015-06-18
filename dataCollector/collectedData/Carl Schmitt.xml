@@ -1,0 +1,70 @@
+<Person>
+<name>Carl Schmitt</name>
+<variantName>
+<XML_Serializer_Tag>Karl Schmitt</XML_Serializer_Tag>
+<XML_Serializer_Tag>Carl Schmitt-Dorotić</XML_Serializer_Tag>
+<XML_Serializer_Tag>Carl Schmitt-Dorotić</XML_Serializer_Tag>
+<XML_Serializer_Tag>Carl Schmitt-Dorotié</XML_Serializer_Tag>
+<XML_Serializer_Tag>Johannes Negelinus</XML_Serializer_Tag>
+<XML_Serializer_Tag>Karl Šmit</XML_Serializer_Tag>
+<XML_Serializer_Tag>Karl Šmitt</XML_Serializer_Tag>
+<XML_Serializer_Tag>... Shumitto</XML_Serializer_Tag>
+<XML_Serializer_Tag>Shi mi te</XML_Serializer_Tag>
+<XML_Serializer_Tag>Shimite</XML_Serializer_Tag>
+<XML_Serializer_Tag>Kāru Shumitto</XML_Serializer_Tag>
+<XML_Serializer_Tag>Ḳarl Shmiṭ</XML_Serializer_Tag>
+<XML_Serializer_Tag>Ka&apos;er Shimite</XML_Serializer_Tag>
+<XML_Serializer_Tag>Carl S.-Dorotić</XML_Serializer_Tag>
+<XML_Serializer_Tag>Karl Schmitt-Dorotić</XML_Serializer_Tag>
+<XML_Serializer_Tag>Ka er Shi mi te</XML_Serializer_Tag>
+<XML_Serializer_Tag>Kaer-Shimite</XML_Serializer_Tag>
+<XML_Serializer_Tag>Kaer Shimite</XML_Serializer_Tag>
+<XML_Serializer_Tag>卡尔‧施米特</XML_Serializer_Tag>
+<XML_Serializer_Tag>卡尔 施米特</XML_Serializer_Tag>
+<XML_Serializer_Tag>קרל שמיט</XML_Serializer_Tag>
+</variantName>
+<thumbnail>https://de.wikipedia.org/wiki/Special:FilePath/Carl_Schmitt_als_Student_1912.jpg?width=270</thumbnail>
+<birthEN>July 11, 1888</birthEN>
+<birthDE>11. Juli 1888</birthDE>
+<deathEN>April 7, 1985</deathEN>
+<deathDE>7. April 1985</deathDE>
+<birthPlace>
+<XML_Serializer_Tag>Plettenberg</XML_Serializer_Tag>
+</birthPlace>
+<deathPlace>
+<XML_Serializer_Tag>Plettenberg</XML_Serializer_Tag>
+</deathPlace>
+<professionOrOccupation>
+<XML_Serializer_Tag>Jurist</XML_Serializer_Tag>
+<XML_Serializer_Tag>Staatsrat</XML_Serializer_Tag>
+<XML_Serializer_Tag>Staatsrechtslehrer</XML_Serializer_Tag>
+<XML_Serializer_Tag>Hochschullehrer</XML_Serializer_Tag>
+<XML_Serializer_Tag>Philosoph</XML_Serializer_Tag>
+</professionOrOccupation>
+<dbpResource>http://dbpedia.org/resource/Carl_Schmitt</dbpResource>
+<abstract>Carl Schmitt (zeitweise auch Carl Schmitt-Dorotic) (* 11. Juli 1888 in Plettenberg; † 7. April 1985 ebenda) war ein deutscher Staatsrechtler, der auch als politischer Philosoph rezipiert wird. Er ist einer der bekanntesten, wenn auch umstrittensten deutschen Staats- und Völkerrechtler des 20. Jahrhunderts. Als „Kronjurist des Dritten Reiches“ (Waldemar Gurian) galt Schmitt nach 1945 als kompromittiert.Sein im Katholizismus verwurzeltes Denken kreiste um Fragen der Macht, der Gewalt und der Rechtsverwirklichung. Neben dem Staats- und Verfassungsrecht streifen seine Veröffentlichungen zahlreiche weitere Disziplinen wie Politikwissenschaft, Soziologie, Theologie, Germanistik und Philosophie. Sein breitgespanntes Œuvre umfasst außer juristischen und politischen Arbeiten verschiedene weitere Textgattungen, etwa Satiren, Reisenotizen, ideengeschichtliche Untersuchungen oder germanistische Textinterpretationen. Als Jurist prägte er eine Reihe von Begriffen und Konzepten, die in den wissenschaftlichen, politischen und sogar allgemeinen Sprachgebrauch eingegangen sind, etwa „Verfassungswirklichkeit“, „Politische Theologie“, „Freund-Feind-Unterscheidung“ oder „dilatorischer Formelkompromiss“. Der umfangreiche Nachlass Schmitts wird im Landesarchiv Nordrhein-Westfalen Abteilung Rheinland verwahrt und ist derzeit Basis zahlreicher Quelleneditionen.Schmitt wird heute zwar – vor allem wegen seines staatsrechtlichen Einsatzes für den Nationalsozialismus – als „furchtbarer Jurist“, umstrittener Theoretiker und Gegner der liberalen Demokratie gescholten, zugleich aber auch als „Klassiker des politischen Denkens“ (Herfried Münkler) gewürdigt – nicht zuletzt aufgrund seiner Wirkung auf das Staatsrecht und die Rechtswissenschaft der frühen Bundesrepublik.Die prägenden Einflüsse für sein Denken bezog Schmitt von politischen Philosophen und Staatsdenkern wie Thomas Hobbes, Niccolò Machiavelli, Aristoteles, Jean-Jacques Rousseau, Juan Donoso Cortés oder Zeitgenossen wie Georges Sorel und Vilfredo Pareto.</abstract>
+<wikilink>http://en.wikipedia.org/wiki/Carl_Schmitt?oldid=598824679</wikilink>
+<artworks />
+<buildings />
+<books>
+<XML_Serializer_Tag>
+<book>
+<type>uri</type>
+<value>http://dbpedia.org/resource/The_Concept_of_the_Political</value>
+</book>
+<author>
+<type>uri</type>
+<value>http://dbpedia.org/resource/Carl_Schmitt</value>
+</author>
+<released>
+<type>typed-literal</type>
+<datatype>http://www.w3.org/2001/XMLSchema#integer</datatype>
+<value>1927</value>
+</released>
+<wikilink>
+<type>uri</type>
+<value>http://en.wikipedia.org/wiki/The_Concept_of_the_Political?oldid=596573634</value>
+</wikilink>
+</XML_Serializer_Tag>
+</books>
+</Person>

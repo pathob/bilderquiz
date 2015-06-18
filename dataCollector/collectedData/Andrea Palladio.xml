@@ -1,0 +1,199 @@
+<Person>
+<name>Andrea Palladio</name>
+<variantName>
+<XML_Serializer_Tag>Andrea di Pietro</XML_Serializer_Tag>
+<XML_Serializer_Tag>Andrea Di Pietro</XML_Serializer_Tag>
+<XML_Serializer_Tag>Andrea di Piero della Gondola</XML_Serializer_Tag>
+<XML_Serializer_Tag>Andrea Di Piero della Gondola</XML_Serializer_Tag>
+<XML_Serializer_Tag>Andrea di Pietro della Gondola</XML_Serializer_Tag>
+<XML_Serializer_Tag>Andrea Di Pietro della Gondola</XML_Serializer_Tag>
+<XML_Serializer_Tag>Andreas Paladius</XML_Serializer_Tag>
+<XML_Serializer_Tag>Andreas Palladius</XML_Serializer_Tag>
+<XML_Serializer_Tag>André Palladio</XML_Serializer_Tag>
+<XML_Serializer_Tag>André Paladio</XML_Serializer_Tag>
+<XML_Serializer_Tag>A. Palladio</XML_Serializer_Tag>
+<XML_Serializer_Tag>Palladio</XML_Serializer_Tag>
+<XML_Serializer_Tag>Andrea DiPietro</XML_Serializer_Tag>
+<XML_Serializer_Tag>Andrea Paladio</XML_Serializer_Tag>
+<XML_Serializer_Tag>Andres Paladio</XML_Serializer_Tag>
+<XML_Serializer_Tag>Andrés Palladio</XML_Serializer_Tag>
+</variantName>
+<thumbnail>https://commons.wikimedia.org/wiki/Special:FilePath/Palladio.jpg?width=270</thumbnail>
+<birthEN>November 30, 1508</birthEN>
+<birthDE>30. November 1508</birthDE>
+<deathEN>August 19, 1580</deathEN>
+<deathDE>19. August 1580</deathDE>
+<birthPlace>
+<XML_Serializer_Tag>Padua</XML_Serializer_Tag>
+</birthPlace>
+<deathPlace>
+<XML_Serializer_Tag>Vicenza</XML_Serializer_Tag>
+</deathPlace>
+<professionOrOccupation>
+<XML_Serializer_Tag>Baumeister</XML_Serializer_Tag>
+<XML_Serializer_Tag>Architekt</XML_Serializer_Tag>
+<XML_Serializer_Tag>Architekturtheoretiker</XML_Serializer_Tag>
+</professionOrOccupation>
+<dbpResource>http://dbpedia.org/resource/Andrea_Palladio</dbpResource>
+<abstract>Andrea di Piero della Gondola, genannt Palladio (* 30. November 1508 in Padua; † 19. August 1580 in Vicenza) war der bedeutendste Architekt der Renaissance in Oberitalien.Er war der „erste große Berufsarchitekt“, der nur als Architekt tätig war, ohne sich auf einem anderen Gebiet der Kunst hervorzutun.Seine Vorbilder waren die römische Antike und die großen Architekten der italienischen Renaissance, vor allem Bramante, Michelangelo, Sanmicheli und Sansovino. Die Vorbilder wurden von ihm jedoch niemals pedantisch imitiert, sondern immer schöpferisch und eigenwillig für die jeweilige Bauaufgabe fruchtbar gemacht. Sein Ziel war eine Architektur, bei der unter Beachtung ästhetischer Prinzipien von Proportion und Ausgewogenheit die Anforderungen an die Baufunktion, an die praktischen und ideellen Bedürfnisse des Auftraggebers ebenso berücksichtigt werden wie die Bedingungen, die sich aus den Gegebenheiten des Bauplatzes ergeben. Als Ergebnis wird die einzigartige Harmonie und Eleganz seiner Bauten hervorgehoben.Durch seine Bauten und seine theoretischen Schriften gewann er als Begründer des Palladianismus großen Einfluss auf die dem Klassizismus verpflichtete Architektur in West- und Nordeuropa, Großbritannien und den USA.</abstract>
+<wikilink>http://en.wikipedia.org/wiki/Andrea_Palladio?oldid=606782937</wikilink>
+<artworks />
+<buildings>
+<XML_Serializer_Tag>
+<building>
+<type>uri</type>
+<value>http://dbpedia.org/resource/Villa_Gazzotti_Grimani</value>
+</building>
+<name>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>Villa Gazzotti Grimani</value>
+</name>
+<architect>
+<type>uri</type>
+<value>http://dbpedia.org/resource/Andrea_Palladio</value>
+</architect>
+<thumbnail>
+<type>uri</type>
+<value>http://commons.wikimedia.org/wiki/Special:FilePath/VillaGazzotti_2007_07_18_3.jpg?width=300</value>
+</thumbnail>
+<wikilink>
+<type>uri</type>
+<value>http://en.wikipedia.org/wiki/Villa_Gazzotti_Grimani?oldid=604343701</value>
+</wikilink>
+<location>
+<type>uri</type>
+<value>http://dbpedia.org/resource/Vicenza</value>
+</location>
+<abstract>
+<type>literal</type>
+<xml:lang>de</xml:lang>
+<value>Die Villa Gazzotti in Bertesina in der Provinz Vicenza, Venetien wurde von Andrea Palladio zwischen 1542 und 1543 für Taddeo Gazzotti entworfen. Dieser musste die Villa 1550 aber wegen wirtschaftlicher Schwierigkeiten an Girolamo Grimani verkaufen, der sich um die Vollendung des Baus kümmerte.</value>
+</abstract>
+</XML_Serializer_Tag>
+<XML_Serializer_Tag>
+<building>
+<type>uri</type>
+<value>http://dbpedia.org/resource/Villa_Saraceno</value>
+</building>
+<name>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>Villa Saraceno</value>
+</name>
+<architect>
+<type>uri</type>
+<value>http://dbpedia.org/resource/Andrea_Palladio</value>
+</architect>
+<thumbnail>
+<type>uri</type>
+<value>http://commons.wikimedia.org/wiki/Special:FilePath/VillaSaraCeno2007_07_11_1.jpg?width=300</value>
+</thumbnail>
+<wikilink>
+<type>uri</type>
+<value>http://en.wikipedia.org/wiki/Villa_Saraceno?oldid=595980677</value>
+</wikilink>
+<location>
+<type>uri</type>
+<value>http://dbpedia.org/resource/Agugliaro</value>
+</location>
+<abstract>
+<type>literal</type>
+<xml:lang>de</xml:lang>
+<value>Die Villa Saraceno in Finale di Agugliaro in der Provinz Vicenza, Venetien wurde von Andrea Palladio um 1545 geplant. Sie gehört zu den ältesten und schlichtesten Villen Paladios und ist in seinem Werk Quattro libri dell´architettura enthalten (II, Kap. 15). Im Entwurf ist das Herrenhaus von zwei auffallenden Wirtschaftsflügeln mit offenen Säulenhallen flankiert, die im rechten Winkel auf zwei zylinderförmige Türme treffen, dann nach vorne auskragen und so einen ländlichen Hof ausbilden, den der Gutsherr überblicken konnte. Tatsächlich realisiert wurde jedoch nur das Herrenhaus.</value>
+</abstract>
+</XML_Serializer_Tag>
+<XML_Serializer_Tag>
+<building>
+<type>uri</type>
+<value>http://dbpedia.org/resource/Villa_Zeno</value>
+</building>
+<name>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>Villa Zeno</value>
+</name>
+<architect>
+<type>uri</type>
+<value>http://dbpedia.org/resource/Andrea_Palladio</value>
+</architect>
+<thumbnail>
+<type>uri</type>
+<value>http://commons.wikimedia.org/wiki/Special:FilePath/VillaZeno_2007_07_12_2.jpg?width=300</value>
+</thumbnail>
+<wikilink>
+<type>uri</type>
+<value>http://en.wikipedia.org/wiki/Villa_Zeno?oldid=595980792</value>
+</wikilink>
+<location>
+<type>uri</type>
+<value>http://dbpedia.org/resource/Cessalto</value>
+</location>
+<abstract>
+<type>literal</type>
+<xml:lang>de</xml:lang>
+<value>Die Villa Zeno in Donegal di Cessalto in der Provinz Treviso, Venetien wurde von Andrea Palladio für Marco Zeno entworfen. Das genaue Datum ist nicht dokumentiert. Trevisan hält ca. 1554 für wahrscheinlich. Bei Bellieni/Cappellaro ist ein späterer Zeitpunkt (ca. 1565) genannt. Im 17. und 18. Jahrhundert erfolgten Umbauten. Dabei wurde der ursprüngliche Entwurf gründlich abgeändert. Vor allem das ursprüngliche Thermenfenster ist verschwunden.Das Gebäude wurde 1996 von der Unesco mit anderen Villen von Palladio zum Weltkulturerbe erklärt. Heute ist es in stark renovierungsbedürftigem Zustand.</value>
+</abstract>
+</XML_Serializer_Tag>
+<XML_Serializer_Tag>
+<building>
+<type>uri</type>
+<value>http://dbpedia.org/resource/Villa_Barbaro</value>
+</building>
+<name>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>Villa Barbaro</value>
+</name>
+<architect>
+<type>uri</type>
+<value>http://dbpedia.org/resource/Andrea_Palladio</value>
+</architect>
+<thumbnail>
+<type>uri</type>
+<value>http://en.wikipedia.org/wiki/Special:FilePath/BarbaroVilla.jpg?width=300</value>
+</thumbnail>
+<wikilink>
+<type>uri</type>
+<value>http://en.wikipedia.org/wiki/Villa_Barbaro?oldid=596316773</value>
+</wikilink>
+<location>
+<type>uri</type>
+<value>http://dbpedia.org/resource/Maser,_Veneto</value>
+</location>
+<abstract>
+<type>literal</type>
+<xml:lang>de</xml:lang>
+<value>Die Villa Barbaro, auch genannt Villa Maser, in Maser, nahe Asolo in Venetien wurde zwischen 1554 und 1558 geplant und gebaut. Sie gilt als ein Musterbeispiel eines palladianischen Landhauses. Die Villa ist Teil des UNESCO-Welterbes (Villen Palladios). Sie ist in Privatbesitz und kann zu den Öffnungszeiten besichtigt werden.</value>
+</abstract>
+</XML_Serializer_Tag>
+<XML_Serializer_Tag>
+<building>
+<type>uri</type>
+<value>http://dbpedia.org/resource/Villa_Chiericati</value>
+</building>
+<name>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>Villa Chiericati</value>
+</name>
+<architect>
+<type>uri</type>
+<value>http://dbpedia.org/resource/Andrea_Palladio</value>
+</architect>
+<thumbnail>
+<type>uri</type>
+<value>http://commons.wikimedia.org/wiki/Special:FilePath/VillaChiericati_2007_07_18_2.jpg?width=300</value>
+</thumbnail>
+<wikilink>
+<type>uri</type>
+<value>http://en.wikipedia.org/wiki/Villa_Chiericati?oldid=595979926</value>
+</wikilink>
+<location>
+<type>uri</type>
+<value>http://dbpedia.org/resource/Vancimuglio</value>
+</location>
+</XML_Serializer_Tag>
+</buildings>
+<books />
+</Person>

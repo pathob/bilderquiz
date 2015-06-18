@@ -18,8 +18,10 @@
 <XML_Serializer_Tag>Architekt</XML_Serializer_Tag>
 <XML_Serializer_Tag>Bildhauer</XML_Serializer_Tag>
 </professionOrOccupation>
-<artworks />
 <dbpResource>http://dbpedia.org/resource/Aleksander_Kobzdej</dbpResource>
 <abstract>Aleksander Kobzdej (* 12. September 1920 in Olesko, Ukraine; † 25. September 1972 in Warschau) war ein polnischer Maler, Bühnenbildner und Architekt.</abstract>
 <wikilink>http://en.wikipedia.org/wiki/Aleksander_Kobzdej?oldid=582774499</wikilink>
+<artworks />
+<buildings />
+<books />
 </Person>

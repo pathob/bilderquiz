@@ -1,0 +1,28 @@
+<Person>
+<name>Christian August Crusius</name>
+<variantName>
+<XML_Serializer_Tag>Christian A. Crusius</XML_Serializer_Tag>
+<XML_Serializer_Tag>Chr. Aug. Crusius</XML_Serializer_Tag>
+<XML_Serializer_Tag>Christianus Augustus Crusius</XML_Serializer_Tag>
+<XML_Serializer_Tag>... Crusius</XML_Serializer_Tag>
+</variantName>
+<thumbnail>https://commons.wikimedia.org/wiki/Special:FilePath/Christian_August_Crusius.jpg?width=270</thumbnail>
+<birthEN>January 10, 1715</birthEN>
+<birthDE>10. Januar 1715</birthDE>
+<deathEN>October 18, 1775</deathEN>
+<deathDE>18. Oktober 1775</deathDE>
+<birthPlace>
+<XML_Serializer_Tag>Leuna</XML_Serializer_Tag>
+</birthPlace>
+<deathPlace />
+<professionOrOccupation>
+<XML_Serializer_Tag>Philosoph</XML_Serializer_Tag>
+<XML_Serializer_Tag>Theologe</XML_Serializer_Tag>
+</professionOrOccupation>
+<dbpResource>http://dbpedia.org/resource/Christian_August_Crusius</dbpResource>
+<abstract>Christian August Crusius (* 10. Juni 1715 in Leuna; † 18. Oktober 1775 in Leipzig) war ein deutscher Philosoph und evangelischer Theologe.</abstract>
+<wikilink>http://en.wikipedia.org/wiki/Christian_August_Crusius?oldid=598670700</wikilink>
+<artworks />
+<buildings />
+<books />
+</Person>

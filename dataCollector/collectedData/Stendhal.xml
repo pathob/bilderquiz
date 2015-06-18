@@ -1,0 +1,114 @@
+<Person>
+<name>Stendhal</name>
+<variantName>
+<XML_Serializer_Tag>Henri Beyle de Stendhal</XML_Serializer_Tag>
+<XML_Serializer_Tag>Friedrich Stendhal</XML_Serializer_Tag>
+<XML_Serializer_Tag>H. von Stendahl</XML_Serializer_Tag>
+<XML_Serializer_Tag>Henri Beyle</XML_Serializer_Tag>
+<XML_Serializer_Tag>Marie H. Beyle</XML_Serializer_Tag>
+<XML_Serializer_Tag>... de Stendhal</XML_Serializer_Tag>
+<XML_Serializer_Tag>... Stendhal</XML_Serializer_Tag>
+<XML_Serializer_Tag>Alexandre C. Bombet</XML_Serializer_Tag>
+<XML_Serializer_Tag>Marie Henri Beyle</XML_Serializer_Tag>
+<XML_Serializer_Tag>Marie Henry Beyle</XML_Serializer_Tag>
+<XML_Serializer_Tag>Henry Beyle</XML_Serializer_Tag>
+<XML_Serializer_Tag>Frédérik de Stendhal</XML_Serializer_Tag>
+<XML_Serializer_Tag>Friedrich von Stendhal</XML_Serializer_Tag>
+<XML_Serializer_Tag>Louis Alexandre César Bombet</XML_Serializer_Tag>
+<XML_Serializer_Tag>Frédéric de Stendhal</XML_Serializer_Tag>
+<XML_Serializer_Tag>Sŭt&apos;angdal</XML_Serializer_Tag>
+<XML_Serializer_Tag>Ssu-t&apos;ang-ta</XML_Serializer_Tag>
+<XML_Serializer_Tag>Sitangda</XML_Serializer_Tag>
+<XML_Serializer_Tag>Sidandaer</XML_Serializer_Tag>
+<XML_Serializer_Tag>Sutandāru</XML_Serializer_Tag>
+<XML_Serializer_Tag>Anri Beil&apos;</XML_Serializer_Tag>
+<XML_Serializer_Tag>Mari-Anri Beil&apos;</XML_Serializer_Tag>
+<XML_Serializer_Tag>Anri Bejl&apos;</XML_Serializer_Tag>
+<XML_Serializer_Tag>L. A. C. Bombet</XML_Serializer_Tag>
+<XML_Serializer_Tag>Stendal</XML_Serializer_Tag>
+<XML_Serializer_Tag>Stendal&apos;</XML_Serializer_Tag>
+<XML_Serializer_Tag>Stindāl</XML_Serializer_Tag>
+<XML_Serializer_Tag>Beyle</XML_Serializer_Tag>
+<XML_Serializer_Tag>Henri-Marie Beyle</XML_Serializer_Tag>
+<XML_Serializer_Tag>Henri Beyle-Sthendal</XML_Serializer_Tag>
+<XML_Serializer_Tag>Henri Beyle-Sthendal</XML_Serializer_Tag>
+<XML_Serializer_Tag>Marie-Henri Beyle</XML_Serializer_Tag>
+</variantName>
+<thumbnail>https://commons.wikimedia.org/wiki/Special:FilePath/Stendhal.jpg?width=270</thumbnail>
+<birthEN>January 23, 1783</birthEN>
+<birthDE>23. Januar 1783</birthDE>
+<deathEN>March 23, 1842</deathEN>
+<deathDE>23. März 1842</deathDE>
+<birthPlace>
+<XML_Serializer_Tag>Grenoble</XML_Serializer_Tag>
+</birthPlace>
+<deathPlace>
+<XML_Serializer_Tag>Paris</XML_Serializer_Tag>
+</deathPlace>
+<professionOrOccupation>
+<XML_Serializer_Tag>Schriftsteller</XML_Serializer_Tag>
+</professionOrOccupation>
+<dbpResource>http://dbpedia.org/resource/Stendhal</dbpResource>
+<abstract>Marie-Henri Beyle (* 23. Januar 1783 in Grenoble; † 23. März 1842 in Paris), besser bekannt unter seinem Pseudonym Stendhal, war ein französischer Schriftsteller, Militär und Politiker. In seiner Zeit eher als Journalist, Kritiker und Essayist bekannt, gilt er heute durch die analytischen Charakterbilder seiner Romane als einer der frühesten Vertreter des literarischen Realismus.</abstract>
+<wikilink>http://en.wikipedia.org/wiki/Stendhal?oldid=605274365</wikilink>
+<artworks />
+<buildings />
+<books>
+<XML_Serializer_Tag>
+<book>
+<type>uri</type>
+<value>http://dbpedia.org/resource/The_Red_and_the_Black</value>
+</book>
+<author>
+<type>uri</type>
+<value>http://dbpedia.org/resource/Stendhal</value>
+</author>
+<thumbnail>
+<type>uri</type>
+<value>http://commons.wikimedia.org/wiki/Special:FilePath/StendhalRedandBlack04.jpg?width=300</value>
+</thumbnail>
+<released>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>November 1830</value>
+</released>
+<wikilink>
+<type>uri</type>
+<value>http://en.wikipedia.org/wiki/The_Red_and_the_Black?oldid=584655088</value>
+</wikilink>
+<abstract>
+<type>literal</type>
+<xml:lang>de</xml:lang>
+<value>Rot und Schwarz (französischer Originaltitel: Le Rouge et le Noir) ist ein Roman des französischen Schriftstellers Stendhal. Held des Romans ist der intelligente, als Sohn eines Sägemühlenbesitzers in der Provinz geborene Julien Sorel, der in der Zeit der französischen Restauration seinen gesellschaftlichen Aufstieg erzwingen will.Der Roman wurde 1830 in Paris beim Verleger Levavasseur publiziert. Rot und Schwarz war nach Armance der zweite Roman Stendhals.</value>
+</abstract>
+</XML_Serializer_Tag>
+<XML_Serializer_Tag>
+<book>
+<type>uri</type>
+<value>http://dbpedia.org/resource/The_Charterhouse_of_Parma</value>
+</book>
+<author>
+<type>uri</type>
+<value>http://dbpedia.org/resource/Stendhal</value>
+</author>
+<thumbnail>
+<type>uri</type>
+<value>http://commons.wikimedia.org/wiki/Special:FilePath/StendhalCharterhouseParma01.jpg?width=300</value>
+</thumbnail>
+<released>
+<type>typed-literal</type>
+<datatype>http://www.w3.org/2001/XMLSchema#integer</datatype>
+<value>1839</value>
+</released>
+<wikilink>
+<type>uri</type>
+<value>http://en.wikipedia.org/wiki/The_Charterhouse_of_Parma?oldid=601612114</value>
+</wikilink>
+<abstract>
+<type>literal</type>
+<xml:lang>de</xml:lang>
+<value>Die Kartause von Parma ist ein Roman des französischen Schriftstellers Stendhal aus dem Jahr 1839.</value>
+</abstract>
+</XML_Serializer_Tag>
+</books>
+</Person>

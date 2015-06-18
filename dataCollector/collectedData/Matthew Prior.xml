@@ -1,0 +1,26 @@
+<Person>
+<name>Matthew Prior</name>
+<variantName>
+<XML_Serializer_Tag>Mr. Prior</XML_Serializer_Tag>
+<XML_Serializer_Tag>Mathew Prior</XML_Serializer_Tag>
+<XML_Serializer_Tag>Mathieu Prior</XML_Serializer_Tag>
+<XML_Serializer_Tag>... Prior</XML_Serializer_Tag>
+</variantName>
+<thumbnail>https://commons.wikimedia.org/wiki/Special:FilePath/Matthew_Prior_by_Thomas_Hudson.jpg?width=270</thumbnail>
+<birthEN>1664</birthEN>
+<birthDE>1664</birthDE>
+<deathEN>1721</deathEN>
+<deathDE>1721</deathDE>
+<birthPlace />
+<deathPlace />
+<professionOrOccupation>
+<XML_Serializer_Tag>Schriftsteller</XML_Serializer_Tag>
+<XML_Serializer_Tag>Lyriker</XML_Serializer_Tag>
+</professionOrOccupation>
+<dbpResource>http://dbpedia.org/resource/Matthew_Prior</dbpResource>
+<abstract>Matthew Prior (* 21. Juli 1664 in Dorset oder Middlesex; † 18. September 1721 in Wimpole) war ein englischer Schriftsteller und Diplomat.</abstract>
+<wikilink>http://en.wikipedia.org/wiki/Matthew_Prior?oldid=601154346</wikilink>
+<artworks />
+<buildings />
+<books />
+</Person>

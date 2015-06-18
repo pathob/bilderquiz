@@ -1,0 +1,34 @@
+<Person>
+<name>Egon Friedell</name>
+<variantName>
+<XML_Serializer_Tag>Egon Fridell</XML_Serializer_Tag>
+<XML_Serializer_Tag>Egon Friedmann</XML_Serializer_Tag>
+<XML_Serializer_Tag>Egon Friedländer</XML_Serializer_Tag>
+<XML_Serializer_Tag>Egon Friedmann</XML_Serializer_Tag>
+</variantName>
+<thumbnail>https://commons.wikimedia.org/wiki/Special:FilePath/EgonFriedell.Gentzgasse7.Vienna.08.01.2008.PICT0002.JPG?width=270</thumbnail>
+<birthEN>January 21, 1878</birthEN>
+<birthDE>21. Januar 1878</birthDE>
+<deathEN>March 16, 1938</deathEN>
+<deathDE>16. März 1938</deathDE>
+<birthPlace>
+<XML_Serializer_Tag>Wien</XML_Serializer_Tag>
+</birthPlace>
+<deathPlace>
+<XML_Serializer_Tag>Wien</XML_Serializer_Tag>
+</deathPlace>
+<professionOrOccupation>
+<XML_Serializer_Tag>Schriftsteller</XML_Serializer_Tag>
+<XML_Serializer_Tag>Historiker</XML_Serializer_Tag>
+<XML_Serializer_Tag>Philosoph</XML_Serializer_Tag>
+<XML_Serializer_Tag>Kritiker</XML_Serializer_Tag>
+<XML_Serializer_Tag>Schauspieler</XML_Serializer_Tag>
+<XML_Serializer_Tag>Kabarettleiter</XML_Serializer_Tag>
+</professionOrOccupation>
+<dbpResource>http://dbpedia.org/resource/Egon_Friedell</dbpResource>
+<abstract>Egon Friedell (* 21. Januar 1878 in Wien; † 16. März 1938 ebenda; rechtsgültig geänderter Geburtsname Egon Friedmann) war ein österreichischer Schriftsteller, Kulturphilosoph, Religionswissenschaftler, Historiker, Dramatiker, Theaterkritiker, Journalist, Schauspieler, Kabarettist und Conférencier.</abstract>
+<wikilink>http://en.wikipedia.org/wiki/Egon_Friedell?oldid=604877669</wikilink>
+<artworks />
+<buildings />
+<books />
+</Person>

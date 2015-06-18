@@ -1,0 +1,27 @@
+<Person>
+<name>Claude-Henri Watelet</name>
+<variantName>
+<XML_Serializer_Tag>Claude Henri Watelet</XML_Serializer_Tag>
+<XML_Serializer_Tag>Claude H. Watelet</XML_Serializer_Tag>
+<XML_Serializer_Tag>C.-H. Watelet</XML_Serializer_Tag>
+</variantName>
+<thumbnail>https://commons.wikimedia.org/wiki/Special:FilePath/Jean-Baptiste_Greuze_-_Claude_Watelet_(1765).jpg?width=270</thumbnail>
+<birthEN>August 28, 1718</birthEN>
+<birthDE>28. August 1718</birthDE>
+<deathEN>January 12, 1786</deathEN>
+<deathDE>12. Januar 1786</deathDE>
+<birthPlace>
+<XML_Serializer_Tag>Paris</XML_Serializer_Tag>
+</birthPlace>
+<deathPlace />
+<professionOrOccupation>
+<XML_Serializer_Tag>Schriftsteller</XML_Serializer_Tag>
+<XML_Serializer_Tag>Kunstsammler</XML_Serializer_Tag>
+</professionOrOccupation>
+<dbpResource>http://dbpedia.org/resource/Claude-Henri_Watelet</dbpResource>
+<abstract>Claude-Henri Watelet (* 28. August 1718 in Paris; † 12. Januar 1786 ebenda) war ein wohlhabender französischer Fermier Général, graphischer Künstler, Kunstsammler, Enzyklopädist, Autor und Gartenbauinteressierter.</abstract>
+<wikilink>http://en.wikipedia.org/wiki/Claude-Henri_Watelet?oldid=579368758</wikilink>
+<artworks />
+<buildings />
+<books />
+</Person>

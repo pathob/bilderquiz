@@ -18,8 +18,10 @@
 <XML_Serializer_Tag>Graphiker</XML_Serializer_Tag>
 <XML_Serializer_Tag>Maler</XML_Serializer_Tag>
 </professionOrOccupation>
-<artworks />
 <dbpResource>http://dbpedia.org/resource/Marino_Marini_(sculptor)</dbpResource>
 <abstract>Marino Marini (* 27. Februar 1901 in Pistoia; † 6. August 1980 in Viareggio) war ein italienischer Künstler, der sich zunächst überwiegend als Bildhauer, später auch als Grafiker betätigt hat.</abstract>
 <wikilink>http://en.wikipedia.org/wiki/Marino_Marini_(sculptor)?oldid=604526365</wikilink>
+<artworks />
+<buildings />
+<books />
 </Person>

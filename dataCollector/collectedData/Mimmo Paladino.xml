@@ -16,8 +16,10 @@
 <XML_Serializer_Tag>Maler</XML_Serializer_Tag>
 <XML_Serializer_Tag>Bildhauer</XML_Serializer_Tag>
 </professionOrOccupation>
-<artworks />
 <dbpResource>http://dbpedia.org/resource/Mimmo_Paladino</dbpResource>
 <abstract>Mimmo Paladino (* 18. Dezember 1948 in Paduli, Provinz Benevento; eigentlich Domenico Paladino) ist ein zeitgenössischer italienischer Maler und Objektkünstler. Paladino zählt neben Sandro Chia, Francesco Clemente und Enzo Cucchi zu den Vertretern der italienischen Transavantgarde (it.: Transavanguardia).</abstract>
 <wikilink>http://en.wikipedia.org/wiki/Mimmo_Paladino?oldid=602509394</wikilink>
+<artworks />
+<buildings />
+<books />
 </Person>

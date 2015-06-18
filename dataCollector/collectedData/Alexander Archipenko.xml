@@ -1,0 +1,60 @@
+<Person>
+<name>Alexander Archipenko</name>
+<variantName>
+<XML_Serializer_Tag>Aleksandr Arkhīpenko</XML_Serializer_Tag>
+<XML_Serializer_Tag>Oleksander Porfyrovych Arkhypenko</XML_Serializer_Tag>
+<XML_Serializer_Tag>Oleksandr P. Archypenko</XML_Serializer_Tag>
+<XML_Serializer_Tag>Oleksandr Archypenko</XML_Serializer_Tag>
+<XML_Serializer_Tag>Alexandre Archipenko</XML_Serializer_Tag>
+<XML_Serializer_Tag>Aleksander Archipenko</XML_Serializer_Tag>
+<XML_Serializer_Tag>Aleksandr Archipenko</XML_Serializer_Tag>
+</variantName>
+<thumbnail>https://commons.wikimedia.org/wiki/Special:FilePath/Archipenko-Gray_Frances.JPG?width=270</thumbnail>
+<birthEN>May 30, 1887</birthEN>
+<birthDE>30. Mai 1887</birthDE>
+<deathEN>February 25, 1964</deathEN>
+<deathDE>25. Februar 1964</deathDE>
+<birthPlace>
+<XML_Serializer_Tag>Kiew</XML_Serializer_Tag>
+</birthPlace>
+<deathPlace />
+<professionOrOccupation>
+<XML_Serializer_Tag>Künstler</XML_Serializer_Tag>
+<XML_Serializer_Tag>Bildhauer</XML_Serializer_Tag>
+</professionOrOccupation>
+<dbpResource>http://dbpedia.org/resource/Alexander_Archipenko</dbpResource>
+<abstract>Alexander Archipenko (* 30. Mai 1887 in Kiew, Ukraine; † 25. Februar 1964 in New York, N.Y.) war ein US-amerikanischer Bildhauer ukrainischer Herkunft. Er gehört zu den Wegbereitern der modernen Bildhauerei.</abstract>
+<wikilink>http://en.wikipedia.org/wiki/Alexander_Archipenko?oldid=603547685</wikilink>
+<artworks>
+<XML_Serializer_Tag>
+<artwork>
+<type>uri</type>
+<value>http://dbpedia.org/resource/Queen_of_Sheba_(sculpture)</value>
+</artwork>
+<thumbnail>
+<type>uri</type>
+<value>http://en.wikipedia.org/wiki/Special:FilePath/QueenofSheba1961.JPG?width=300</value>
+</thumbnail>
+<name>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>Queen of Sheba</value>
+</name>
+<year>
+<type>typed-literal</type>
+<datatype>http://www.w3.org/2001/XMLSchema#integer</datatype>
+<value>1961</value>
+</year>
+<wikilink>
+<type>uri</type>
+<value>http://en.wikipedia.org/wiki/Queen_of_Sheba_(sculpture)?oldid=596541247</value>
+</wikilink>
+<type>
+<type>uri</type>
+<value>http://dbpedia.org/resource/Bronze</value>
+</type>
+</XML_Serializer_Tag>
+</artworks>
+<buildings />
+<books />
+</Person>

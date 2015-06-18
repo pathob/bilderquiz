@@ -20,8 +20,10 @@
 <XML_Serializer_Tag>Graphiker</XML_Serializer_Tag>
 <XML_Serializer_Tag>Galeriedirektor</XML_Serializer_Tag>
 </professionOrOccupation>
-<artworks />
 <dbpResource>http://dbpedia.org/resource/Johann_Georg_von_Dillis</dbpResource>
 <abstract>Johann Georg von Dillis (* 26. Dezember 1759 in Gmain bei Schwindkirchen, heute Dorfen; † 28. September 1841 in München) war ein deutscher Maler, der heutzutage vor allem für seine Darstellungen des bäuerlichen Lebens und seine Reiseskizzen berühmt ist.</abstract>
 <wikilink>http://en.wikipedia.org/wiki/Johann_Georg_von_Dillis?oldid=599862193</wikilink>
+<artworks />
+<buildings />
+<books />
 </Person>

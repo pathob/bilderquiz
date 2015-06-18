@@ -1,0 +1,26 @@
+<Person>
+<name>Ludwig Baumann</name>
+<variantName>
+<XML_Serializer_Tag>L. Baumann</XML_Serializer_Tag>
+</variantName>
+<thumbnail>https://commons.wikimedia.org/wiki/Special:FilePath/Ludwig_Baumann,_architect,_bust_in_Berndorf2.jpg?width=270</thumbnail>
+<birthEN>May 11, 1853</birthEN>
+<birthDE>11. Mai 1853</birthDE>
+<deathEN>February 6, 1936</deathEN>
+<deathDE>6. Februar 1936</deathDE>
+<birthPlace>
+<XML_Serializer_Tag>Zebrzydowice</XML_Serializer_Tag>
+</birthPlace>
+<deathPlace>
+<XML_Serializer_Tag>Wien</XML_Serializer_Tag>
+</deathPlace>
+<professionOrOccupation>
+<XML_Serializer_Tag>Architekt</XML_Serializer_Tag>
+</professionOrOccupation>
+<dbpResource>http://dbpedia.org/resource/Ludwig_Baumann</dbpResource>
+<abstract>Ludwig Franz Xaver Baumann (* 1950 in Rosenheim) ist ein deutscher Opernsänger (Bass-Bariton) und seit 1997 Initiator und Intendant des „Opernfestivals Gut Immling Chiemgau“ auf Gut Immling in Halfing.</abstract>
+<wikilink>http://en.wikipedia.org/wiki/Ludwig_Baumann?oldid=544177255</wikilink>
+<artworks />
+<buildings />
+<books />
+</Person>

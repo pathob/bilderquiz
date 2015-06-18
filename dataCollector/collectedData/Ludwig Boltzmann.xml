@@ -1,0 +1,32 @@
+<Person>
+<name>Ludwig Boltzmann</name>
+<variantName>
+<XML_Serializer_Tag>L. Boltzmann</XML_Serializer_Tag>
+<XML_Serializer_Tag>Ludwig Eduard Boltzmann</XML_Serializer_Tag>
+<XML_Serializer_Tag>Ljudvig Bolʹcman</XML_Serializer_Tag>
+<XML_Serializer_Tag>Ljudvig Bolzman</XML_Serializer_Tag>
+<XML_Serializer_Tag>Li︠u︡dvig Bolʹt︠s︡man</XML_Serializer_Tag>
+<XML_Serializer_Tag>L. Boltzman</XML_Serializer_Tag>
+</variantName>
+<thumbnail>https://commons.wikimedia.org/wiki/Special:FilePath/Boltzmann_Ludwig_Dibner_coll_SIL14-B5-06a.jpg?width=270</thumbnail>
+<birthEN>February 20, 1844</birthEN>
+<birthDE>20. Februar 1844</birthDE>
+<deathEN>September 5, 1906</deathEN>
+<deathDE>5. September 1906</deathDE>
+<birthPlace>
+<XML_Serializer_Tag>Wien</XML_Serializer_Tag>
+</birthPlace>
+<deathPlace>
+<XML_Serializer_Tag>Duino</XML_Serializer_Tag>
+</deathPlace>
+<professionOrOccupation>
+<XML_Serializer_Tag>Physiker</XML_Serializer_Tag>
+<XML_Serializer_Tag>Philosoph</XML_Serializer_Tag>
+</professionOrOccupation>
+<dbpResource>http://dbpedia.org/resource/Ludwig_Boltzmann</dbpResource>
+<abstract>Ludwig Eduard Boltzmann (* 20. Februar 1844 in Wien; † 5. September 1906 in Duino bei Triest) war ein österreichischer Physiker und Philosoph.</abstract>
+<wikilink>http://en.wikipedia.org/wiki/Ludwig_Boltzmann?oldid=605997887</wikilink>
+<artworks />
+<buildings />
+<books />
+</Person>

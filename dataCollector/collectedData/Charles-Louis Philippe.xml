@@ -1,0 +1,24 @@
+<Person>
+<name>Charles-Louis Philippe</name>
+<variantName>
+<XML_Serializer_Tag>Charles Louis Philippe</XML_Serializer_Tag>
+<XML_Serializer_Tag>Ch.-L. Philippe</XML_Serializer_Tag>
+<XML_Serializer_Tag>Šarlʹ-Lui Filipp</XML_Serializer_Tag>
+</variantName>
+<thumbnail>https://commons.wikimedia.org/wiki/Special:FilePath/Charles-Louis_Philippe.jpg?width=270</thumbnail>
+<birthEN>1874</birthEN>
+<birthDE>1874</birthDE>
+<deathEN>1909</deathEN>
+<deathDE>1909</deathDE>
+<birthPlace />
+<deathPlace />
+<professionOrOccupation>
+<XML_Serializer_Tag>Schriftsteller</XML_Serializer_Tag>
+</professionOrOccupation>
+<dbpResource>http://dbpedia.org/resource/Charles-Louis_Philippe</dbpResource>
+<abstract>Charles-Louis Philippe (* 4. August 1874 in Cérilly (Allier); † 21. Dezember 1909 in Paris) war ein französischer Schriftsteller und Dichter.</abstract>
+<wikilink>http://en.wikipedia.org/wiki/Charles-Louis_Philippe?oldid=590207711</wikilink>
+<artworks />
+<buildings />
+<books />
+</Person>

@@ -21,8 +21,10 @@
 <XML_Serializer_Tag>Schriftsteller</XML_Serializer_Tag>
 <XML_Serializer_Tag>Kunsthistoriker</XML_Serializer_Tag>
 </professionOrOccupation>
-<artworks />
 <dbpResource>http://dbpedia.org/resource/Wolfgang_Paalen</dbpResource>
 <abstract>Wolfgang Paalen (* 22. Juli 1905 in Wien; † 24. September 1959 in Taxco, Mexiko) war ein österreichisch-mexikanischer Maler und Kunsttheoretiker.</abstract>
 <wikilink>http://en.wikipedia.org/wiki/Wolfgang_Paalen?oldid=600652216</wikilink>
+<artworks />
+<buildings />
+<books />
 </Person>

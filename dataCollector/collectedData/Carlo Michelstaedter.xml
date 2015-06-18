@@ -17,8 +17,10 @@
 <XML_Serializer_Tag>Schriftsteller</XML_Serializer_Tag>
 <XML_Serializer_Tag>Maler</XML_Serializer_Tag>
 </professionOrOccupation>
-<artworks />
 <dbpResource>http://dbpedia.org/resource/Carlo_Michelstaedter</dbpResource>
 <abstract>Carlo Raimondo Michelstaedter (* 3. Juni 1887 in Görz (Friaul-Julisch Venetien); † 17. Oktober 1910 ebenda) war ein italienischer Schriftsteller, Philosoph und Maler.</abstract>
 <wikilink>http://en.wikipedia.org/wiki/Carlo_Michelstaedter?oldid=603379535</wikilink>
+<artworks />
+<buildings />
+<books />
 </Person>

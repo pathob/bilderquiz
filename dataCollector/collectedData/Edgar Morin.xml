@@ -1,0 +1,30 @@
+<Person>
+<name>Edgar Morin</name>
+<variantName>
+<XML_Serializer_Tag>E. Morin</XML_Serializer_Tag>
+<XML_Serializer_Tag>Edgar Moren</XML_Serializer_Tag>
+<XML_Serializer_Tag>Edgar Nahoum</XML_Serializer_Tag>
+<XML_Serializer_Tag>Edgar Nahum</XML_Serializer_Tag>
+</variantName>
+<thumbnail>https://commons.wikimedia.org/wiki/Special:FilePath/Edgar_Morin_IMG_0558-b.jpg?width=270</thumbnail>
+<birthEN>1921</birthEN>
+<birthDE>1921</birthDE>
+<deathEN />
+<deathDE />
+<birthPlace>
+<XML_Serializer_Tag>Paris</XML_Serializer_Tag>
+</birthPlace>
+<deathPlace />
+<professionOrOccupation>
+<XML_Serializer_Tag>Philosoph</XML_Serializer_Tag>
+<XML_Serializer_Tag>Sozialwissenschaftler</XML_Serializer_Tag>
+<XML_Serializer_Tag>Publizist</XML_Serializer_Tag>
+<XML_Serializer_Tag>Regisseur</XML_Serializer_Tag>
+</professionOrOccupation>
+<dbpResource>http://dbpedia.org/resource/Edgar_Morin</dbpResource>
+<abstract>Edgar Morin (ursprünglicher Name Edgar Nahoum; * 8. Juli 1921 in Paris, Frankreich) ist ein französischer Philosoph. Er war Direktor des Forschungszentrums Centre national de la recherche scientifique (CNRS).</abstract>
+<wikilink>http://en.wikipedia.org/wiki/Edgar_Morin?oldid=598622151</wikilink>
+<artworks />
+<buildings />
+<books />
+</Person>

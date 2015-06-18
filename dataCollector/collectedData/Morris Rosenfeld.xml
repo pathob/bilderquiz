@@ -1,0 +1,29 @@
+<Person>
+<name>Morris Rosenfeld</name>
+<variantName>
+<XML_Serializer_Tag>Moris Rozenfeld</XML_Serializer_Tag>
+<XML_Serializer_Tag>Moše Y. Rozenfeld</XML_Serializer_Tag>
+<XML_Serializer_Tag>Moshe Jacob Alter</XML_Serializer_Tag>
+</variantName>
+<thumbnail>https://commons.wikimedia.org/wiki/Special:FilePath/Morris-rosenfeld.jpg?width=270</thumbnail>
+<birthEN>December 28, 1862</birthEN>
+<birthDE>28. Dezember 1862</birthDE>
+<deathEN>June 22, 1923</deathEN>
+<deathDE>22. Juni 1923</deathDE>
+<birthPlace>
+<XML_Serializer_Tag>Boksze bei Suwalki</XML_Serializer_Tag>
+</birthPlace>
+<deathPlace>
+<XML_Serializer_Tag>New York</XML_Serializer_Tag>
+</deathPlace>
+<professionOrOccupation>
+<XML_Serializer_Tag>Schriftsteller</XML_Serializer_Tag>
+<XML_Serializer_Tag>Lyriker</XML_Serializer_Tag>
+</professionOrOccupation>
+<dbpResource>http://dbpedia.org/resource/Morris_Rosenfeld</dbpResource>
+<abstract>Morris Rosenfeld (eigentlich Moshe Jacob Alter; * 28. Dezember 1862 in Boksze bei Suwałki; † 22. Juni 1923 in New York) war ein US-amerikanischer Lyriker jüdischer Herkunft. In seinen in jiddischer Sprache geschriebenen Werken schilderte er u. a. die Ausbeutung ostjüdischer Einwanderer in den Schneiderwerkstätten New Yorks.</abstract>
+<wikilink>http://en.wikipedia.org/wiki/Morris_Rosenfeld?oldid=604604788</wikilink>
+<artworks />
+<buildings />
+<books />
+</Person>

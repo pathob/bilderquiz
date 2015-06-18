@@ -1,0 +1,33 @@
+<Person>
+<name>Gordon Parks</name>
+<variantName>
+<XML_Serializer_Tag>Gordon Roger Alexander Buchanan Parks</XML_Serializer_Tag>
+<XML_Serializer_Tag>Gordon A. Parks</XML_Serializer_Tag>
+<XML_Serializer_Tag>Gordon Roger Alexander Buchanan Parks</XML_Serializer_Tag>
+</variantName>
+<thumbnail>https://commons.wikimedia.org/wiki/Special:FilePath/GordonParks3.jpg?width=270</thumbnail>
+<birthEN>November 30, 1912</birthEN>
+<birthDE>30. November 1912</birthDE>
+<deathEN>March 7, 2006</deathEN>
+<deathDE>7. März 2006</deathDE>
+<birthPlace>
+<XML_Serializer_Tag>Fort Scott, Kansas, USA</XML_Serializer_Tag>
+</birthPlace>
+<deathPlace>
+<XML_Serializer_Tag>New York, NY</XML_Serializer_Tag>
+</deathPlace>
+<professionOrOccupation>
+<XML_Serializer_Tag>Photograph</XML_Serializer_Tag>
+<XML_Serializer_Tag>Regisseur</XML_Serializer_Tag>
+<XML_Serializer_Tag>Lyriker</XML_Serializer_Tag>
+<XML_Serializer_Tag>Drehbuchautor</XML_Serializer_Tag>
+<XML_Serializer_Tag>Filmregisseur</XML_Serializer_Tag>
+<XML_Serializer_Tag>Komponist</XML_Serializer_Tag>
+</professionOrOccupation>
+<dbpResource>http://dbpedia.org/resource/Gordon_Parks</dbpResource>
+<abstract>Gordon Parks (* 30. November 1912 in Fort Scott, Kansas; † 7. März 2006 in New York; eigentlich Gordon Roger Alexander Buchanan Parks) war ein US-amerikanischer Filmregisseur, Fotograf, Schauspieler, Schriftsteller und Komponist von Filmmusik. Parks wurde als der erste schwarze Fotograf und Filmregisseur bekannt, der landesweite Beachtung erhielt.</abstract>
+<wikilink>http://en.wikipedia.org/wiki/Gordon_Parks?oldid=602111693</wikilink>
+<artworks />
+<buildings />
+<books />
+</Person>

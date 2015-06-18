@@ -18,8 +18,10 @@
 <XML_Serializer_Tag>Illustrator</XML_Serializer_Tag>
 <XML_Serializer_Tag>Kunstsammler</XML_Serializer_Tag>
 </professionOrOccupation>
-<artworks />
 <dbpResource>http://dbpedia.org/resource/Edmund_Harburger</dbpResource>
 <abstract>Edmund Harburger (* 4. April 1846 in Eichstätt; † 5. November 1906 in München) war ein deutscher Zeichner und Maler.</abstract>
 <wikilink>http://en.wikipedia.org/wiki/Edmund_Harburger?oldid=604600357</wikilink>
+<artworks />
+<buildings />
+<books />
 </Person>

@@ -1,0 +1,31 @@
+<Person>
+<name>Friedrich Ludwig Zacharias Werner</name>
+<variantName>
+<XML_Serializer_Tag>F. L. Z. Werner</XML_Serializer_Tag>
+<XML_Serializer_Tag>Zacharias Werner</XML_Serializer_Tag>
+<XML_Serializer_Tag>... Werner</XML_Serializer_Tag>
+<XML_Serializer_Tag>Fr. Ludw. Zacharias Werner</XML_Serializer_Tag>
+<XML_Serializer_Tag>Fried. Ludw. Zach. Werner</XML_Serializer_Tag>
+</variantName>
+<thumbnail>https://commons.wikimedia.org/wiki/Special:FilePath/Zacharias_werner.jpg?width=270</thumbnail>
+<birthEN>November 18, 1768</birthEN>
+<birthDE>18. November 1768</birthDE>
+<deathEN>January 17, 1823</deathEN>
+<deathDE>17. Januar 1823</deathDE>
+<birthPlace>
+<XML_Serializer_Tag>Königsberg</XML_Serializer_Tag>
+</birthPlace>
+<deathPlace>
+<XML_Serializer_Tag>Wien</XML_Serializer_Tag>
+</deathPlace>
+<professionOrOccupation>
+<XML_Serializer_Tag>Schriftsteller</XML_Serializer_Tag>
+<XML_Serializer_Tag>Geistlicher</XML_Serializer_Tag>
+</professionOrOccupation>
+<dbpResource>http://dbpedia.org/resource/Zacharias_Werner</dbpResource>
+<abstract>Friedrich Ludwig Zacharias Werner (* 18. November/19. November 1768 in Königsberg in Preußen; † 17. Januar 1823 in Wien) war ein deutscher Dichter und Dramatiker der Romantik. 1814 wurde er katholischer Priester und Prediger.</abstract>
+<wikilink>http://en.wikipedia.org/wiki/Zacharias_Werner?oldid=600048471</wikilink>
+<artworks />
+<buildings />
+<books />
+</Person>

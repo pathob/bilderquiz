@@ -1,0 +1,49 @@
+<Person>
+<name>Will Durant</name>
+<variantName>
+<XML_Serializer_Tag>William James Durant</XML_Serializer_Tag>
+<XML_Serializer_Tag>William J. Durant</XML_Serializer_Tag>
+<XML_Serializer_Tag>William Durant</XML_Serializer_Tag>
+</variantName>
+<thumbnail>https://commons.wikimedia.org/wiki/Special:FilePath/The_Modern_School_in_New_York_City,_circa_1911-12.jpg?width=270</thumbnail>
+<birthEN>1885</birthEN>
+<birthDE>1885</birthDE>
+<deathEN>1981</deathEN>
+<deathDE>1981</deathDE>
+<birthPlace />
+<deathPlace />
+<professionOrOccupation>
+<XML_Serializer_Tag>Historiker</XML_Serializer_Tag>
+<XML_Serializer_Tag>Philosoph</XML_Serializer_Tag>
+</professionOrOccupation>
+<dbpResource>http://dbpedia.org/resource/Will_Durant</dbpResource>
+<abstract>William James Durant (* 5. November 1885 in North Adams, Massachusetts; † 7. November 1981 in Los Angeles, Kalifornien) war ein US-amerikanischer Philosoph und Schriftsteller.</abstract>
+<wikilink>http://en.wikipedia.org/wiki/Will_Durant?oldid=605355583</wikilink>
+<artworks />
+<buildings />
+<books>
+<XML_Serializer_Tag>
+<book>
+<type>uri</type>
+<value>http://dbpedia.org/resource/The_Story_of_Civilization</value>
+</book>
+<author>
+<type>uri</type>
+<value>http://dbpedia.org/resource/Will_Durant</value>
+</author>
+<thumbnail>
+<type>uri</type>
+<value>http://commons.wikimedia.org/wiki/Special:FilePath/Egypt.Giza.Sphinx.02.jpg?width=300</value>
+</thumbnail>
+<published>
+<type>typed-literal</type>
+<datatype>http://www.w3.org/2001/XMLSchema#integer</datatype>
+<value>1935</value>
+</published>
+<wikilink>
+<type>uri</type>
+<value>http://en.wikipedia.org/wiki/The_Story_of_Civilization?oldid=605350727</value>
+</wikilink>
+</XML_Serializer_Tag>
+</books>
+</Person>

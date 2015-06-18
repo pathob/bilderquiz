@@ -1,0 +1,30 @@
+<Person>
+<name>Luis Cernuda</name>
+<variantName>
+<XML_Serializer_Tag>Luis Mateos Bernardo José Cernuda Bidón</XML_Serializer_Tag>
+<XML_Serializer_Tag>Luis Cernuda Bidón</XML_Serializer_Tag>
+<XML_Serializer_Tag>Luis Cernuda Bidón</XML_Serializer_Tag>
+</variantName>
+<thumbnail>https://commons.wikimedia.org/wiki/Special:FilePath/Casa_natal_de_Luis_Cernuda.jpg?width=270</thumbnail>
+<birthEN>September 21, 1902</birthEN>
+<birthDE>21. September 1902</birthDE>
+<deathEN>November 5, 1963</deathEN>
+<deathDE>5. November 1963</deathDE>
+<birthPlace>
+<XML_Serializer_Tag>Sevilla</XML_Serializer_Tag>
+</birthPlace>
+<deathPlace>
+<XML_Serializer_Tag>Mexiko (Stadt)</XML_Serializer_Tag>
+</deathPlace>
+<professionOrOccupation>
+<XML_Serializer_Tag>Schriftsteller</XML_Serializer_Tag>
+<XML_Serializer_Tag>Literaturwissenschaftler</XML_Serializer_Tag>
+<XML_Serializer_Tag>Übersetzer</XML_Serializer_Tag>
+</professionOrOccupation>
+<dbpResource>http://dbpedia.org/resource/Luis_Cernuda</dbpResource>
+<abstract>Luis Cernuda (* 21. September 1902 in Sevilla; † 5. November 1963 in Mexiko-Stadt) war ein spanischer Schriftsteller, Lyriker und Literaturkritiker.</abstract>
+<wikilink>http://en.wikipedia.org/wiki/Luis_Cernuda?oldid=606182438</wikilink>
+<artworks />
+<buildings />
+<books />
+</Person>

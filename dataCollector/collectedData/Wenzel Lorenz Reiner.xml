@@ -23,8 +23,10 @@
 <professionOrOccupation>
 <XML_Serializer_Tag>Maler</XML_Serializer_Tag>
 </professionOrOccupation>
-<artworks />
 <dbpResource>http://dbpedia.org/resource/Wenzel_Lorenz_Reiner</dbpResource>
 <abstract>Wenzel Lorenz Reiner (tschechisch: Václav Vavřinec Reiner) (* 8. August 1689 in Prag; † 9. Oktober 1743 ebenda) war ein bedeutender Maler und Freskant des Barock in Böhmen.</abstract>
 <wikilink>http://en.wikipedia.org/wiki/Wenzel_Lorenz_Reiner?oldid=564838460</wikilink>
+<artworks />
+<buildings />
+<books />
 </Person>

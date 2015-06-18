@@ -15,8 +15,10 @@
 <XML_Serializer_Tag>Architekt</XML_Serializer_Tag>
 <XML_Serializer_Tag>Maler</XML_Serializer_Tag>
 </professionOrOccupation>
-<artworks />
 <dbpResource>http://dbpedia.org/resource/Gustav_Bauernfeind</dbpResource>
 <abstract>Gustav Bauernfeind (* 4. September 1848 in Sulz am Neckar; † 24. Dezember 1904 in Jerusalem) war ein deutscher Maler, Illustrator und Architekt. Er gilt als der bekannteste Orientmaler Deutschlands.</abstract>
 <wikilink>http://en.wikipedia.org/wiki/Gustav_Bauernfeind?oldid=581812784</wikilink>
+<artworks />
+<buildings />
+<books />
 </Person>

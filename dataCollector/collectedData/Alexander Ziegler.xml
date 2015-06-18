@@ -1,0 +1,25 @@
+<Person>
+<name>Alexander Ziegler</name>
+<variantName />
+<thumbnail>https://commons.wikimedia.org/wiki/Special:FilePath/Litera2.jpg?width=270</thumbnail>
+<birthEN>1822</birthEN>
+<birthDE>1822</birthDE>
+<deathEN>1887</deathEN>
+<deathDE>1887</deathDE>
+<birthPlace>
+<XML_Serializer_Tag>Ruhla</XML_Serializer_Tag>
+</birthPlace>
+<deathPlace />
+<professionOrOccupation>
+<XML_Serializer_Tag>Geograph</XML_Serializer_Tag>
+<XML_Serializer_Tag>Schriftsteller</XML_Serializer_Tag>
+<XML_Serializer_Tag>Ethnologe</XML_Serializer_Tag>
+<XML_Serializer_Tag>Forschungsreisender</XML_Serializer_Tag>
+</professionOrOccupation>
+<dbpResource>http://dbpedia.org/resource/Alexander_Ziegler</dbpResource>
+<abstract>Alexander Ziegler (* 8. März 1944 in Zürich; † 11. August 1987 ebenda) war ein Schweizer Schauspieler, Publizist und Schriftsteller.</abstract>
+<wikilink>http://en.wikipedia.org/wiki/Alexander_Ziegler?oldid=603030044</wikilink>
+<artworks />
+<buildings />
+<books />
+</Person>

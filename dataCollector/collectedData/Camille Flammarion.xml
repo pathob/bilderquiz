@@ -1,0 +1,44 @@
+<Person>
+<name>Camille Flammarion</name>
+<variantName>
+<XML_Serializer_Tag>Nicolas C. Flammarion</XML_Serializer_Tag>
+<XML_Serializer_Tag>Kamil Filamaryon</XML_Serializer_Tag>
+<XML_Serializer_Tag>Kamill Flammarion</XML_Serializer_Tag>
+<XML_Serializer_Tag>Nicola Camille Flammarion</XML_Serializer_Tag>
+<XML_Serializer_Tag>Nicholas Camille Flammarion</XML_Serializer_Tag>
+</variantName>
+<thumbnail>https://commons.wikimedia.org/wiki/Special:FilePath/Camille_Flammarion.001.jpg?width=270</thumbnail>
+<birthEN>February 28, 1842</birthEN>
+<birthDE>28. Februar 1842</birthDE>
+<deathEN>June 7, 1925</deathEN>
+<deathDE>7. Juni 1925</deathDE>
+<birthPlace>
+<XML_Serializer_Tag>Montigny-le-Roi</XML_Serializer_Tag>
+</birthPlace>
+<deathPlace />
+<professionOrOccupation>
+<XML_Serializer_Tag>Astronom</XML_Serializer_Tag>
+<XML_Serializer_Tag>Schriftsteller</XML_Serializer_Tag>
+</professionOrOccupation>
+<dbpResource>http://dbpedia.org/resource/Camille_Flammarion</dbpResource>
+<abstract>Nicolas Camille Flammarion (* 26. Februar 1842 in Montigny-le-Roi (Haute-Marne, Frankreich); † 3. Juni 1925 in Juvisy-sur-Orge (Département Essonne)) war ein französischer Astronom und Autor populärwissenschaftlicher Schriften sowie erster Präsident der von ihm 1887 gegründeten Société Astronomique de France (SAF).</abstract>
+<wikilink>http://en.wikipedia.org/wiki/Camille_Flammarion?oldid=595992048</wikilink>
+<artworks />
+<buildings />
+<books>
+<XML_Serializer_Tag>
+<book>
+<type>uri</type>
+<value>http://dbpedia.org/resource/Omega:_The_Last_Days_of_the_World</value>
+</book>
+<author>
+<type>uri</type>
+<value>http://dbpedia.org/resource/Camille_Flammarion</value>
+</author>
+<wikilink>
+<type>uri</type>
+<value>http://en.wikipedia.org/wiki/Omega:_The_Last_Days_of_the_World?oldid=431496459</value>
+</wikilink>
+</XML_Serializer_Tag>
+</books>
+</Person>

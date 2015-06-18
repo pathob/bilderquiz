@@ -1,0 +1,25 @@
+<Person>
+<name>Jacob Abbott</name>
+<variantName />
+<thumbnail>https://commons.wikimedia.org/wiki/Special:FilePath/Jacob_Abbott.jpg?width=270</thumbnail>
+<birthEN>November 14, 1803</birthEN>
+<birthDE>14. November 1803</birthDE>
+<deathEN>October 31, 1879</deathEN>
+<deathDE>31. Oktober 1879</deathDE>
+<birthPlace>
+<XML_Serializer_Tag>Hallowell (Maine)</XML_Serializer_Tag>
+</birthPlace>
+<deathPlace>
+<XML_Serializer_Tag>Farmington (Maine)</XML_Serializer_Tag>
+</deathPlace>
+<professionOrOccupation>
+<XML_Serializer_Tag>Autor</XML_Serializer_Tag>
+<XML_Serializer_Tag>Pädagoge</XML_Serializer_Tag>
+</professionOrOccupation>
+<dbpResource>http://dbpedia.org/resource/Jacob_Abbott</dbpResource>
+<abstract>Jacob Abbott (* 14. November 1803 in Hallowell (Maine); † 31. Oktober 1879 in Farmington, Maine) war ein US-amerikanischer Jugendschriftsteller und Pädagoge.</abstract>
+<wikilink>http://en.wikipedia.org/wiki/Jacob_Abbott?oldid=606603797</wikilink>
+<artworks />
+<buildings />
+<books />
+</Person>

@@ -1,0 +1,30 @@
+<Person>
+<name>Otto Erich Hartleben</name>
+<variantName>
+<XML_Serializer_Tag>Henrik Ipse</XML_Serializer_Tag>
+<XML_Serializer_Tag>Otto Erich</XML_Serializer_Tag>
+<XML_Serializer_Tag>O. E. Hartleben</XML_Serializer_Tag>
+<XML_Serializer_Tag>Otto E. Hartleben</XML_Serializer_Tag>
+<XML_Serializer_Tag>Otto Hartleben</XML_Serializer_Tag>
+</variantName>
+<thumbnail>https://commons.wikimedia.org/wiki/Special:FilePath/Otto_Erich_Hartleben_Portraet.jpg?width=270</thumbnail>
+<birthEN>June 3, 1864</birthEN>
+<birthDE>3. Juni 1864</birthDE>
+<deathEN>February 11, 1905</deathEN>
+<deathDE>11. Februar 1905</deathDE>
+<birthPlace>
+<XML_Serializer_Tag>Clausthal</XML_Serializer_Tag>
+</birthPlace>
+<deathPlace>
+<XML_Serializer_Tag>Salò, Italien</XML_Serializer_Tag>
+</deathPlace>
+<professionOrOccupation>
+<XML_Serializer_Tag>Schriftsteller</XML_Serializer_Tag>
+</professionOrOccupation>
+<dbpResource>http://dbpedia.org/resource/Otto_Erich_Hartleben</dbpResource>
+<abstract>Otto Erich Hartleben (* 3. Juni 1864 in Clausthal; † 11. Februar 1905 in Salò am Gardasee) war ein deutscher Schriftsteller. Zu Lebzeiten besonders als Dramatiker ungeheuer populär, kursierten zahlreiche Anekdoten um seine Person. Sein zunächst dem Naturalismus verpflichtetes Oeuvre ist überschaubar; es wurde postum in drei Bänden veröffentlicht.</abstract>
+<wikilink>http://en.wikipedia.org/wiki/Otto_Erich_Hartleben?oldid=592986320</wikilink>
+<artworks />
+<buildings />
+<books />
+</Person>

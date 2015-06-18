@@ -1,0 +1,42 @@
+<Person>
+<name>Gottfried Semper</name>
+<variantName>
+<XML_Serializer_Tag>戈特弗里德‧森佩尔</XML_Serializer_Tag>
+<XML_Serializer_Tag>戈特弗里德 森佩尔</XML_Serializer_Tag>
+</variantName>
+<thumbnail>https://commons.wikimedia.org/wiki/Special:FilePath/Gottfried_Semper_1879.jpg?width=270</thumbnail>
+<birthEN>November 29, 1803</birthEN>
+<birthDE>29. November 1803</birthDE>
+<deathEN>May 15, 1879</deathEN>
+<deathDE>15. Mai 1879</deathDE>
+<birthPlace>
+<XML_Serializer_Tag>Hamburg</XML_Serializer_Tag>
+</birthPlace>
+<deathPlace>
+<XML_Serializer_Tag>Rom</XML_Serializer_Tag>
+</deathPlace>
+<professionOrOccupation>
+<XML_Serializer_Tag>Architekt</XML_Serializer_Tag>
+</professionOrOccupation>
+<dbpResource>http://dbpedia.org/resource/Gottfried_Semper</dbpResource>
+<abstract>Gottfried Semper (* 29. November 1803 in Hamburg; † 15. Mai 1879 in Rom) war deutscher Architekt und Kunsttheoretiker in der Mitte des 19. Jahrhunderts. Er gilt als Vertreter des Historismus, insbesondere der Neorenaissance, und Mitbegründer der modernen Theaterarchitektur.</abstract>
+<wikilink>http://en.wikipedia.org/wiki/Gottfried_Semper?oldid=606536058</wikilink>
+<artworks />
+<buildings />
+<books>
+<XML_Serializer_Tag>
+<book>
+<type>uri</type>
+<value>http://dbpedia.org/resource/The_Four_Elements_of_Architecture</value>
+</book>
+<author>
+<type>uri</type>
+<value>http://dbpedia.org/resource/Gottfried_Semper</value>
+</author>
+<wikilink>
+<type>uri</type>
+<value>http://en.wikipedia.org/wiki/The_Four_Elements_of_Architecture?oldid=587624579</value>
+</wikilink>
+</XML_Serializer_Tag>
+</books>
+</Person>

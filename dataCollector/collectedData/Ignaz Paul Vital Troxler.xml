@@ -1,0 +1,36 @@
+<Person>
+<name>Ignaz Paul Vital Troxler</name>
+<variantName>
+<XML_Serializer_Tag>Ignaz Paul Vitalis Troxler</XML_Serializer_Tag>
+<XML_Serializer_Tag>Ignaz Troxler</XML_Serializer_Tag>
+<XML_Serializer_Tag>Ignatius Paulus Vitalis Troxler</XML_Serializer_Tag>
+<XML_Serializer_Tag>Paul Ignaz Vital Troxler</XML_Serializer_Tag>
+<XML_Serializer_Tag>Paul Vital Ignaz Troxler</XML_Serializer_Tag>
+<XML_Serializer_Tag>Paul Vitalis Troxler</XML_Serializer_Tag>
+<XML_Serializer_Tag>I. P. V. Troxler</XML_Serializer_Tag>
+<XML_Serializer_Tag>... Troxler</XML_Serializer_Tag>
+<XML_Serializer_Tag>Ignaz Troxler von Münster</XML_Serializer_Tag>
+<XML_Serializer_Tag>Severus Pertinax</XML_Serializer_Tag>
+</variantName>
+<thumbnail>https://commons.wikimedia.org/wiki/Special:FilePath/Troxler_Portrait_1830.jpg?width=270</thumbnail>
+<birthEN>1780</birthEN>
+<birthDE>1780</birthDE>
+<deathEN>1866</deathEN>
+<deathDE>1866</deathDE>
+<birthPlace>
+<XML_Serializer_Tag>Münster (Wallis)</XML_Serializer_Tag>
+</birthPlace>
+<deathPlace />
+<professionOrOccupation>
+<XML_Serializer_Tag>Arzt</XML_Serializer_Tag>
+<XML_Serializer_Tag>Schriftsteller</XML_Serializer_Tag>
+<XML_Serializer_Tag>Pädagoge</XML_Serializer_Tag>
+<XML_Serializer_Tag>Philosoph</XML_Serializer_Tag>
+</professionOrOccupation>
+<dbpResource>http://dbpedia.org/resource/Ignaz_Paul_Vital_Troxler</dbpResource>
+<abstract>Ignaz Paul Vitalis Troxler (* 17. August 1780 in Beromünster; † 6. März 1866 in Aarau) war ein Schweizer Arzt, Politiker und Philosoph.</abstract>
+<wikilink>http://en.wikipedia.org/wiki/Ignaz_Paul_Vital_Troxler?oldid=544274295</wikilink>
+<artworks />
+<buildings />
+<books />
+</Person>

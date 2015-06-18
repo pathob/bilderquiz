@@ -1,0 +1,43 @@
+<Person>
+<name>Joseph Priestley</name>
+<variantName>
+<XML_Serializer_Tag>J. Priestley</XML_Serializer_Tag>
+</variantName>
+<thumbnail>https://commons.wikimedia.org/wiki/Special:FilePath/Joseph_Priestley.jpeg?width=270</thumbnail>
+<birthEN>1733</birthEN>
+<birthDE>1733</birthDE>
+<deathEN>1804</deathEN>
+<deathDE>1804</deathDE>
+<birthPlace />
+<deathPlace />
+<professionOrOccupation>
+<XML_Serializer_Tag>Naturwissenschaftler</XML_Serializer_Tag>
+<XML_Serializer_Tag>Chemiker</XML_Serializer_Tag>
+<XML_Serializer_Tag>Philosoph</XML_Serializer_Tag>
+</professionOrOccupation>
+<dbpResource>http://dbpedia.org/resource/Joseph_Priestley</dbpResource>
+<abstract>Joseph Priestley (* 13. März 1732jul./ 24. März 1733greg. in Birstall bei Leeds, England; † 6. Februar 1804 in Northumberland County (Pennsylvania), USA) war ein englisch-amerikanischer Theologe des Unitarismus, Philosoph, Chemiker und Physiker.Priestley beschrieb erstmals die Darstellung und Wirkung des Sauerstoffs. Er entdeckte Darstellungsmöglichkeiten für zahlreiche weitere Gase: Stickstoffdioxid, Kohlenstoffmonoxid, Chlorwasserstoff, Ammoniak, Schwefelwasserstoff, Schwefeldioxid, Siliziumtetrafluorid.</abstract>
+<wikilink>http://en.wikipedia.org/wiki/Joseph_Priestley?oldid=605515546</wikilink>
+<artworks />
+<buildings />
+<books>
+<XML_Serializer_Tag>
+<book>
+<type>uri</type>
+<value>http://dbpedia.org/resource/Institutes_of_Natural_and_Revealed_Religion</value>
+</book>
+<author>
+<type>uri</type>
+<value>http://dbpedia.org/resource/Joseph_Priestley</value>
+</author>
+<thumbnail>
+<type>uri</type>
+<value>http://commons.wikimedia.org/wiki/Special:FilePath/PriestleyInstitutes.png?width=300</value>
+</thumbnail>
+<wikilink>
+<type>uri</type>
+<value>http://en.wikipedia.org/wiki/Institutes_of_Natural_and_Revealed_Religion?oldid=586025978</value>
+</wikilink>
+</XML_Serializer_Tag>
+</books>
+</Person>

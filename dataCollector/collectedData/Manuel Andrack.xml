@@ -1,0 +1,27 @@
+<Person>
+<name>Manuel Andrack</name>
+<variantName>
+<XML_Serializer_Tag>Manuel Claus Achim Andrack</XML_Serializer_Tag>
+</variantName>
+<thumbnail>https://commons.wikimedia.org/wiki/Special:FilePath/Manuel_Andrack-186_8694.JPG?width=270</thumbnail>
+<birthEN>1965</birthEN>
+<birthDE>1965</birthDE>
+<deathEN />
+<deathDE />
+<birthPlace>
+<XML_Serializer_Tag>Köln</XML_Serializer_Tag>
+</birthPlace>
+<deathPlace />
+<professionOrOccupation>
+<XML_Serializer_Tag>Journalist</XML_Serializer_Tag>
+<XML_Serializer_Tag>Autor</XML_Serializer_Tag>
+<XML_Serializer_Tag>Moderator</XML_Serializer_Tag>
+<XML_Serializer_Tag>Schauspieler</XML_Serializer_Tag>
+</professionOrOccupation>
+<dbpResource>http://dbpedia.org/resource/Manuel_Andrack</dbpResource>
+<abstract>Manuel Claus Achim Andrack (* 23. Juni 1965 in Köln) ist ein deutscher Redakteur, Moderator und Autor. Dem Fernsehpublikum wurde er durch seine 13 Jahre lange Zusammenarbeit mit Harald Schmidt als dessen Redaktionsleiter bekannt.</abstract>
+<wikilink>http://en.wikipedia.org/wiki/Manuel_Andrack?oldid=600835444</wikilink>
+<artworks />
+<buildings />
+<books />
+</Person>

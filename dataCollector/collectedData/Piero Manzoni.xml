@@ -1,0 +1,24 @@
+<Person>
+<name>Piero Manzoni</name>
+<variantName />
+<thumbnail>https://en.wikipedia.org/wiki/Special:FilePath/Manzoni_portrait.jpg?width=270</thumbnail>
+<birthEN>1933</birthEN>
+<birthDE>1933</birthDE>
+<deathEN>1963</deathEN>
+<deathDE>1963</deathDE>
+<birthPlace>
+<XML_Serializer_Tag>Soncino</XML_Serializer_Tag>
+</birthPlace>
+<deathPlace>
+<XML_Serializer_Tag>Mailand</XML_Serializer_Tag>
+</deathPlace>
+<professionOrOccupation>
+<XML_Serializer_Tag>Künstler</XML_Serializer_Tag>
+</professionOrOccupation>
+<dbpResource>http://dbpedia.org/resource/Piero_Manzoni</dbpResource>
+<abstract>Piero Manzoni (* 13. Juli 1933 in Soncino, Cremona; † 6. Februar 1963 in Mailand) – mit vollem Namen Conte Meroni Manzoni di Chiosca e Poggiolo (dt.: Graf Meroni Manzoni von Chiosca und Poggiolo) – war ein italienischer Künstler, der als Wegbereiter der Konzeptkunst gilt. Seine Arbeiten wurden unter anderem auf der 4. documenta in Kassel und auf der Biennale von Venedig 1972 präsentiert.</abstract>
+<wikilink>http://en.wikipedia.org/wiki/Piero_Manzoni?oldid=597101687</wikilink>
+<artworks />
+<buildings />
+<books />
+</Person>

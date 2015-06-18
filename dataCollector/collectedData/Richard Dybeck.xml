@@ -1,0 +1,24 @@
+<Person>
+<name>Richard Dybeck</name>
+<variantName />
+<thumbnail>https://commons.wikimedia.org/wiki/Special:FilePath/Dybeck.jpg?width=270</thumbnail>
+<birthEN>1811</birthEN>
+<birthDE>1811</birthDE>
+<deathEN>1877</deathEN>
+<deathDE>1877</deathDE>
+<birthPlace />
+<deathPlace>
+<XML_Serializer_Tag>Södertälje</XML_Serializer_Tag>
+</deathPlace>
+<professionOrOccupation>
+<XML_Serializer_Tag>Schriftsteller</XML_Serializer_Tag>
+<XML_Serializer_Tag>Historiker</XML_Serializer_Tag>
+<XML_Serializer_Tag>Ethnologe</XML_Serializer_Tag>
+</professionOrOccupation>
+<dbpResource>http://dbpedia.org/resource/Richard_Dybeck</dbpResource>
+<abstract>Richard Dybeck (* 1. September 1811 in der Kirchengemeinde Odensvi, Gemeinde Köping; † 28. Juli 1877 in Södertälje) war ein schwedischer Altertumsforscher, Ethnologe und Dichter der ersten beiden Strophen der schwedischen Nationalhymne Du gamla, Du fria.</abstract>
+<wikilink>http://en.wikipedia.org/wiki/Richard_Dybeck?oldid=604992445</wikilink>
+<artworks />
+<buildings />
+<books />
+</Person>

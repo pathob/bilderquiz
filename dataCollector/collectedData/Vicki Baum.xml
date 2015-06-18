@@ -1,0 +1,67 @@
+<Person>
+<name>Vicki Baum</name>
+<variantName>
+<XML_Serializer_Tag>Wikkî Baum</XML_Serializer_Tag>
+<XML_Serializer_Tag>Wicki Baum</XML_Serializer_Tag>
+<XML_Serializer_Tag>Wiqi Baum</XML_Serializer_Tag>
+<XML_Serializer_Tag>Wiqij Bāʾūm</XML_Serializer_Tag>
+<XML_Serializer_Tag>Viki Baum</XML_Serializer_Tag>
+<XML_Serializer_Tag>Vikija Bauma</XML_Serializer_Tag>
+<XML_Serializer_Tag>Vicki Baumová</XML_Serializer_Tag>
+<XML_Serializer_Tag>Vicky Baum</XML_Serializer_Tag>
+<XML_Serializer_Tag>Vigki Baum</XML_Serializer_Tag>
+<XML_Serializer_Tag>Hedwig Baum</XML_Serializer_Tag>
+<XML_Serializer_Tag>Hedwig Lert</XML_Serializer_Tag>
+<XML_Serializer_Tag>Vicki Prels</XML_Serializer_Tag>
+<XML_Serializer_Tag>Vicki Prels-Baum</XML_Serializer_Tag>
+<XML_Serializer_Tag>Vikii Baumu</XML_Serializer_Tag>
+<XML_Serializer_Tag>Hedvig Baum</XML_Serializer_Tag>
+<XML_Serializer_Tag>Weiji Baomu</XML_Serializer_Tag>
+<XML_Serializer_Tag>Weiji Baomu</XML_Serializer_Tag>
+<XML_Serializer_Tag>维吉•鲍姆</XML_Serializer_Tag>
+<XML_Serializer_Tag>维吉 鲍姆</XML_Serializer_Tag>
+<XML_Serializer_Tag>維吉•鮑姆</XML_Serializer_Tag>
+<XML_Serializer_Tag>維吉 鮑姆</XML_Serializer_Tag>
+</variantName>
+<thumbnail>https://commons.wikimedia.org/wiki/Special:FilePath/WP_Vicki_Baum.jpg?width=270</thumbnail>
+<birthEN>January 24, 1888</birthEN>
+<birthDE>24. Januar 1888</birthDE>
+<deathEN>August 29, 1960</deathEN>
+<deathDE>29. August 1960</deathDE>
+<birthPlace>
+<XML_Serializer_Tag>Wien</XML_Serializer_Tag>
+</birthPlace>
+<deathPlace>
+<XML_Serializer_Tag>Los Angeles- Hollywood</XML_Serializer_Tag>
+</deathPlace>
+<professionOrOccupation>
+<XML_Serializer_Tag>Musikerin</XML_Serializer_Tag>
+<XML_Serializer_Tag>Schriftstellerin</XML_Serializer_Tag>
+</professionOrOccupation>
+<dbpResource>http://dbpedia.org/resource/Vicki_Baum</dbpResource>
+<abstract>Vicki Baum, auch Vicky Baum, eigentlich Hedwig Baum (* 24. Januar 1888 in Wien; † 29. August 1960 in Hollywood) war eine österreichische Musikerin (Harfenistin) und eine der erfolgreichsten Schriftstellerinnen der Weimarer Republik.</abstract>
+<wikilink>http://en.wikipedia.org/wiki/Vicki_Baum?oldid=605476181</wikilink>
+<artworks />
+<buildings />
+<books>
+<XML_Serializer_Tag>
+<book>
+<type>uri</type>
+<value>http://dbpedia.org/resource/Love_and_Death_in_Bali</value>
+</book>
+<author>
+<type>uri</type>
+<value>http://dbpedia.org/resource/Vicki_Baum</value>
+</author>
+<released>
+<type>typed-literal</type>
+<datatype>http://www.w3.org/2001/XMLSchema#integer</datatype>
+<value>1937</value>
+</released>
+<wikilink>
+<type>uri</type>
+<value>http://en.wikipedia.org/wiki/Love_and_Death_in_Bali?oldid=591406438</value>
+</wikilink>
+</XML_Serializer_Tag>
+</books>
+</Person>

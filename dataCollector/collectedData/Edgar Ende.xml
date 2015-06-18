@@ -18,8 +18,10 @@
 <XML_Serializer_Tag>Künstler</XML_Serializer_Tag>
 <XML_Serializer_Tag>Maler</XML_Serializer_Tag>
 </professionOrOccupation>
-<artworks />
 <dbpResource>http://dbpedia.org/resource/Edgar_Ende</dbpResource>
 <abstract>Edgar Ende (* 23. Februar 1901 in Altona; † 27. Dezember 1965 in Netterndorf) war ein deutscher surrealistischer Maler und Vater des Schriftstellers Michael Ende.Sein Werk steht in der Tradition der phantastischen und visionären Kunst und gilt als einer der wichtigsten Beiträge der deutschen Malerei des 20. Jahrhunderts zu dieser Stilrichtung.</abstract>
 <wikilink>http://en.wikipedia.org/wiki/Edgar_Ende?oldid=605767556</wikilink>
+<artworks />
+<buildings />
+<books />
 </Person>

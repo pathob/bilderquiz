@@ -17,8 +17,10 @@
 <XML_Serializer_Tag>Glaskünstler</XML_Serializer_Tag>
 <XML_Serializer_Tag>Dozent</XML_Serializer_Tag>
 </professionOrOccupation>
-<artworks />
 <dbpResource>http://dbpedia.org/resource/Wolfgang_Schmidt</dbpResource>
 <abstract>Wolfgang Schmidt (* 16. Januar 1954 in Berlin) ist ein ehemaliger deutscher Diskuswerfer, der - für die DDR startend - 1976 eine olympische Silbermedaille gewann. Ab 1982 machte er Schlagzeilen durch eine zunächst gescheiterte Flucht und die spätere Übersiedlung aus der DDR in den Westen Deutschlands. 1990 wurde er für die Bundesrepublik Deutschland Europameisterschafts-Dritter.</abstract>
 <wikilink>http://en.wikipedia.org/wiki/Wolfgang_Schmidt?oldid=601983253</wikilink>
+<artworks />
+<buildings />
+<books />
 </Person>

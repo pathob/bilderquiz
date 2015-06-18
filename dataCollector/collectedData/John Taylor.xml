@@ -1,0 +1,27 @@
+<Person>
+<name>John Taylor</name>
+<variantName>
+<XML_Serializer_Tag>John Tailor</XML_Serializer_Tag>
+<XML_Serializer_Tag>John Taylour</XML_Serializer_Tag>
+<XML_Serializer_Tag>Iohn Taylor</XML_Serializer_Tag>
+<XML_Serializer_Tag>Aminadab Blower</XML_Serializer_Tag>
+<XML_Serializer_Tag>Mary Make-peace</XML_Serializer_Tag>
+<XML_Serializer_Tag>Water poet</XML_Serializer_Tag>
+</variantName>
+<thumbnail>https://commons.wikimedia.org/wiki/Special:FilePath/John_Taylor_poet.jpg?width=270</thumbnail>
+<birthEN>1580</birthEN>
+<birthDE>1580</birthDE>
+<deathEN>1653</deathEN>
+<deathDE>1653</deathDE>
+<birthPlace />
+<deathPlace />
+<professionOrOccupation>
+<XML_Serializer_Tag>Schriftsteller</XML_Serializer_Tag>
+</professionOrOccupation>
+<dbpResource>http://dbpedia.org/resource/John_Taylor,_Baron_Taylor_of_Warwick</dbpResource>
+<abstract>John David Beckett Taylor, Baron Taylor of Warwick in the County of Warwickshire (* 21. September 1952 in Birmingham) ist ein britischer Jurist und Politiker der Conservative Party, der 1996 als erster Farbiger der konservativen Tories Mitglied des House of Lords. Im Januar 2011 wurde er während eines Verfahrens vor dem Crown Court des London Borough of Southwark für schuldig befunden, falsche Angaben bezüglich seiner parlamentarischen Ausgaben gemacht zu haben, und am 31. Mai 2011 zu einer Freiheitsstrafe von zwölf Monaten verurteilt, jedoch nach dreimonatiger Haft aus der Haft entlassen und unter Hausarrest gestellt. Während seiner Verurteilung war er von Mitgliedschaft im Oberhaus suspendiert.</abstract>
+<wikilink>http://en.wikipedia.org/wiki/John_Taylor,_Baron_Taylor_of_Warwick?oldid=604972703</wikilink>
+<artworks />
+<buildings />
+<books />
+</Person>

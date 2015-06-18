@@ -1,0 +1,34 @@
+<Person>
+<name>Johanna Kinkel</name>
+<variantName>
+<XML_Serializer_Tag>Johanna Mathieux</XML_Serializer_Tag>
+<XML_Serializer_Tag>Johanna Matthieux</XML_Serializer_Tag>
+<XML_Serializer_Tag>J. Mathieux</XML_Serializer_Tag>
+<XML_Serializer_Tag>Johanna Mockel</XML_Serializer_Tag>
+<XML_Serializer_Tag>Johann Kinkel</XML_Serializer_Tag>
+<XML_Serializer_Tag>Johanne Mathieux</XML_Serializer_Tag>
+</variantName>
+<thumbnail>https://commons.wikimedia.org/wiki/Special:FilePath/Bildnis_Johanna_Kinkel_1840.jpg?width=270</thumbnail>
+<birthEN>July 8, 1810</birthEN>
+<birthDE>8. Juli 1810</birthDE>
+<deathEN>November 15, 1858</deathEN>
+<deathDE>15. November 1858</deathDE>
+<birthPlace>
+<XML_Serializer_Tag>Bonn</XML_Serializer_Tag>
+</birthPlace>
+<deathPlace>
+<XML_Serializer_Tag>London</XML_Serializer_Tag>
+</deathPlace>
+<professionOrOccupation>
+<XML_Serializer_Tag>Schriftstellerin</XML_Serializer_Tag>
+<XML_Serializer_Tag>Komponistin</XML_Serializer_Tag>
+<XML_Serializer_Tag>Musikerin</XML_Serializer_Tag>
+<XML_Serializer_Tag>Pianistin</XML_Serializer_Tag>
+</professionOrOccupation>
+<dbpResource>http://dbpedia.org/resource/Johanna_Kinkel</dbpResource>
+<abstract>Johanna Kinkel, geborene Mockel (* 8. Juli 1810 in Bonn; † 15. November 1858 in London) war eine deutsche Komponistin, Musikpädagogin, Schriftstellerin und Salonière. In zweiter Ehe war sie mit dem evangelischen Theologen und politisch aktiven Republikaner Gottfried Kinkel verheiratet, mit dem sie den bekannten spätromantischen Dichterkreis Maikäferbund gründete. Sie galt als Mittelpunkt des kulturellen Lebens ihrer Heimatstadt Bonn, ist die einzige bedeutende Vertreterin der Bonner Mundartdichtung des 19. Jahrhunderts und war eine frühe Vorkämpferin der Frauenrechtsbewegung.</abstract>
+<wikilink>http://en.wikipedia.org/wiki/Johanna_Kinkel?oldid=540574042</wikilink>
+<artworks />
+<buildings />
+<books />
+</Person>

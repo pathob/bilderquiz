@@ -1,0 +1,158 @@
+<Person>
+<name>Karl Marx</name>
+<variantName>
+<XML_Serializer_Tag>Carl Marx</XML_Serializer_Tag>
+<XML_Serializer_Tag>Carlo Marx</XML_Serializer_Tag>
+<XML_Serializer_Tag>Carlos Marx</XML_Serializer_Tag>
+<XML_Serializer_Tag>Heinrich Karl Marx</XML_Serializer_Tag>
+<XML_Serializer_Tag>Karl H. Marx</XML_Serializer_Tag>
+<XML_Serializer_Tag>Karel Marx</XML_Serializer_Tag>
+<XML_Serializer_Tag>K. Marx</XML_Serializer_Tag>
+<XML_Serializer_Tag>Marx</XML_Serializer_Tag>
+<XML_Serializer_Tag>Kesi Ma</XML_Serializer_Tag>
+<XML_Serializer_Tag>Cảc Mảc</XML_Serializer_Tag>
+<XML_Serializer_Tag>Cac Mac</XML_Serializer_Tag>
+<XML_Serializer_Tag>C. Mảc</XML_Serializer_Tag>
+<XML_Serializer_Tag>Makesi</XML_Serializer_Tag>
+<XML_Serializer_Tag>Marḳs</XML_Serializer_Tag>
+<XML_Serializer_Tag>Ḳarl Marḳs</XML_Serializer_Tag>
+<XML_Serializer_Tag>Marks</XML_Serializer_Tag>
+<XML_Serializer_Tag>Malg-seu</XML_Serializer_Tag>
+<XML_Serializer_Tag>Malg</XML_Serializer_Tag>
+<XML_Serializer_Tag>Kal Malg-seu</XML_Serializer_Tag>
+<XML_Serializer_Tag>K&apos;al Maksŭ</XML_Serializer_Tag>
+<XML_Serializer_Tag>Ma-k&apos;o-ssu</XML_Serializer_Tag>
+<XML_Serializer_Tag>Ma-ko-szū</XML_Serializer_Tag>
+<XML_Serializer_Tag>Maksŭ</XML_Serializer_Tag>
+<XML_Serializer_Tag>Karl Markhsi</XML_Serializer_Tag>
+<XML_Serializer_Tag>Karl Marks</XML_Serializer_Tag>
+<XML_Serializer_Tag>Karol Marks</XML_Serializer_Tag>
+<XML_Serializer_Tag>Karolo Marks</XML_Serializer_Tag>
+<XML_Serializer_Tag>K. Marks</XML_Serializer_Tag>
+<XML_Serializer_Tag>Kārl Mārks</XML_Serializer_Tag>
+<XML_Serializer_Tag>Kāṟal Mārks</XML_Serializer_Tag>
+<XML_Serializer_Tag>Kārla Mārksa</XML_Serializer_Tag>
+<XML_Serializer_Tag>Karolis Marksas</XML_Serializer_Tag>
+<XML_Serializer_Tag>K. Marksas</XML_Serializer_Tag>
+<XML_Serializer_Tag>Karl Marksi</XML_Serializer_Tag>
+<XML_Serializer_Tag>Marks</XML_Serializer_Tag>
+<XML_Serializer_Tag>K&apos;al Marŭk&apos;ŭsŭ</XML_Serializer_Tag>
+<XML_Serializer_Tag>Marukusu</XML_Serializer_Tag>
+<XML_Serializer_Tag>... Marx-Engels</XML_Serializer_Tag>
+<XML_Serializer_Tag>Kārla Mārkacha</XML_Serializer_Tag>
+<XML_Serializer_Tag>Marukusu</XML_Serializer_Tag>
+<XML_Serializer_Tag>Kārlis Markss</XML_Serializer_Tag>
+<XML_Serializer_Tag>K. Markss</XML_Serializer_Tag>
+<XML_Serializer_Tag>Ka er Ma ke si</XML_Serializer_Tag>
+<XML_Serializer_Tag>Kaer-Makesi</XML_Serializer_Tag>
+<XML_Serializer_Tag>Kaer Makesi</XML_Serializer_Tag>
+<XML_Serializer_Tag>Karl Heinrich Marx</XML_Serializer_Tag>
+<XML_Serializer_Tag>カール マルクス</XML_Serializer_Tag>
+<XML_Serializer_Tag>Карл Маркс</XML_Serializer_Tag>
+<XML_Serializer_Tag>卡尔‧马克思</XML_Serializer_Tag>
+<XML_Serializer_Tag>卡尔 马克思</XML_Serializer_Tag>
+<XML_Serializer_Tag>馬克思</XML_Serializer_Tag>
+<XML_Serializer_Tag>Καρλ Μαρξ</XML_Serializer_Tag>
+<XML_Serializer_Tag>칼 맑스</XML_Serializer_Tag>
+</variantName>
+<thumbnail>https://commons.wikimedia.org/wiki/Special:FilePath/Karl_Marx_001.jpg?width=270</thumbnail>
+<birthEN>May 5, 1818</birthEN>
+<birthDE>5. Mai 1818</birthDE>
+<deathEN>March 14, 1883</deathEN>
+<deathDE>14. März 1883</deathDE>
+<birthPlace>
+<XML_Serializer_Tag>Trier</XML_Serializer_Tag>
+</birthPlace>
+<deathPlace>
+<XML_Serializer_Tag>London</XML_Serializer_Tag>
+</deathPlace>
+<professionOrOccupation>
+<XML_Serializer_Tag>Philosoph</XML_Serializer_Tag>
+<XML_Serializer_Tag>Autor</XML_Serializer_Tag>
+<XML_Serializer_Tag>Sozialwissenschaftler</XML_Serializer_Tag>
+<XML_Serializer_Tag>Wirtschaftswissenschaftler</XML_Serializer_Tag>
+<XML_Serializer_Tag>Sozialist</XML_Serializer_Tag>
+<XML_Serializer_Tag>Politiker</XML_Serializer_Tag>
+</professionOrOccupation>
+<dbpResource>http://dbpedia.org/resource/Karl_Marx</dbpResource>
+<abstract>Karl Marx (* 5. Mai 1818 in Trier; † 14. März 1883 in London) war ein deutscher Philosoph, Ökonom, Gesellschaftstheoretiker, politischer Journalist, Protagonist der Arbeiterbewegung sowie Kritiker der bürgerlichen Gesellschaft und der Religion. Zusammen mit Friedrich Engels wurde er zum einflussreichsten Theoretiker des Sozialismus und Kommunismus. Bis heute werden seine Theorien kontrovers diskutiert.</abstract>
+<wikilink>http://en.wikipedia.org/wiki/Karl_Marx?oldid=606522729</wikilink>
+<artworks />
+<buildings />
+<books>
+<XML_Serializer_Tag>
+<book>
+<type>uri</type>
+<value>http://dbpedia.org/resource/The_Communist_Manifesto</value>
+</book>
+<author>
+<type>uri</type>
+<value>http://dbpedia.org/resource/Karl_Marx</value>
+</author>
+<thumbnail>
+<type>uri</type>
+<value>http://commons.wikimedia.org/wiki/Special:FilePath/Communist-manifesto.png?width=300</value>
+</thumbnail>
+<released>
+<type>typed-literal</type>
+<datatype>http://www.w3.org/2001/XMLSchema#date</datatype>
+<value>1848-02-21+02:00</value>
+</released>
+<wikilink>
+<type>uri</type>
+<value>http://en.wikipedia.org/wiki/The_Communist_Manifesto?oldid=605579340</value>
+</wikilink>
+<abstract>
+<type>literal</type>
+<xml:lang>de</xml:lang>
+<value>Das Manifest der Kommunistischen Partei, auch Das Kommunistische Manifest genannt, wurde von Karl Marx und Friedrich Engels um die Jahreswende 1847/48 im Auftrag des Bundes der Kommunisten verfasst. Es ist am 21. Februar 1848 in London erschienen, kurz vor der Februarrevolution in Frankreich und vor der Märzrevolution im Deutschen Bund und in den größten Staaten dieses Bundes Österreich und Preußen. Das Manifest der Kommunistischen Partei wurde in mehr als 100 Sprachen übersetzt. Im Juni 2013 wurde es in das UNESCO-Dokumentenerbe aufgenommen.Das Programm, in dem Marx und Engels bereits große Teile der später als „Marxismus“ bezeichneten Weltanschauung entwickeln, beginnt mit dem heute geflügelten Wort: „Ein Gespenst geht um in Europa – das Gespenst des Kommunismus“ und endet mit dem bekannten Aufruf: „Proletarier aller Länder, vereinigt euch!“ Als Ziel, das der Bund der Kommunisten mit seiner Veröffentlichung verfolgte, kann die Absicht benannt werden, der Bevölkerung ihre Anschauungen offenzulegen. Das etwa 30 Seiten starke Werk beginnt mit einer Einleitung, gefolgt von vier Kapiteln.</value>
+</abstract>
+</XML_Serializer_Tag>
+<XML_Serializer_Tag>
+<book>
+<type>uri</type>
+<value>http://dbpedia.org/resource/Das_Kapital</value>
+</book>
+<author>
+<type>uri</type>
+<value>http://dbpedia.org/resource/Karl_Marx</value>
+</author>
+<thumbnail>
+<type>uri</type>
+<value>http://commons.wikimedia.org/wiki/Special:FilePath/Kapital_titel_bd1.png?width=300</value>
+</thumbnail>
+<released>
+<type>typed-literal</type>
+<datatype>http://www.w3.org/2001/XMLSchema#decimal</datatype>
+<value>186718851894</value>
+</released>
+<wikilink>
+<type>uri</type>
+<value>http://en.wikipedia.org/wiki/Das_Kapital?oldid=606124586</value>
+</wikilink>
+<abstract>
+<type>literal</type>
+<xml:lang>de</xml:lang>
+<value>Das Kapital. Kritik der politischen Ökonomie, eines der Hauptwerke von Karl Marx, ist eine Analyse und Kritik der kapitalistischen Gesellschaft mit weitreichenden Wirkungen in der Arbeiterbewegung und der Geschichte des 20. Jahrhunderts. Nach Jahrzehnten ökonomischer Studien und diversen Vorarbeiten (vor allem die Grundrisse der Kritik der politischen Ökonomie, Zur Kritik der politischen Ökonomie und die Theorien über den Mehrwert) erschien 1867 der erste Band: Der Produktionsprozess des Kapitals. Friedrich Engels stellte nach Marx’ Tod (1883) aus dessen Manuskripten zwei weitere Bände zusammen. 1885 veröffentlichte er Band 2: Der Zirkulationsprozess des Kapitals. 1894 folgte Band 3: Der Gesamtprozess der kapitalistischen Produktion.</value>
+</abstract>
+</XML_Serializer_Tag>
+<XML_Serializer_Tag>
+<book>
+<type>uri</type>
+<value>http://dbpedia.org/resource/Scorpion_and_Felix</value>
+</book>
+<author>
+<type>uri</type>
+<value>http://dbpedia.org/resource/Karl_Marx</value>
+</author>
+<thumbnail>
+<type>uri</type>
+<value>http://commons.wikimedia.org/wiki/Special:FilePath/Marx1.jpg?width=300</value>
+</thumbnail>
+<wikilink>
+<type>uri</type>
+<value>http://en.wikipedia.org/wiki/Scorpion_and_Felix?oldid=583236089</value>
+</wikilink>
+</XML_Serializer_Tag>
+</books>
+</Person>

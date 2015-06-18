@@ -12,8 +12,10 @@
 <XML_Serializer_Tag>Künstler</XML_Serializer_Tag>
 <XML_Serializer_Tag>Maler</XML_Serializer_Tag>
 </professionOrOccupation>
-<artworks />
 <dbpResource>http://dbpedia.org/resource/Jasper_Johns</dbpResource>
 <abstract>Jasper Johns, Jr. (* 15. Mai 1930 in Augusta, Georgia) ist ein vielseitiger US-amerikanischer Maler, Plastiker, Bühnen- und Kostümbildner. Er gilt als ein Wegbereiter der Pop Art, ohne dass sein bildnerisches Werk dieser Stilrichtung zuzurechnen ist.</abstract>
 <wikilink>http://en.wikipedia.org/wiki/Jasper_Johns?oldid=606354219</wikilink>
+<artworks />
+<buildings />
+<books />
 </Person>

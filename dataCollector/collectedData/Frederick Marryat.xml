@@ -1,0 +1,107 @@
+<Person>
+<name>Frederick Marryat</name>
+<variantName>
+<XML_Serializer_Tag>Frederick W. Marryat</XML_Serializer_Tag>
+<XML_Serializer_Tag>F. W. Marryat</XML_Serializer_Tag>
+<XML_Serializer_Tag>Frederik Marryat</XML_Serializer_Tag>
+<XML_Serializer_Tag>Marryat, Kapitän</XML_Serializer_Tag>
+<XML_Serializer_Tag>Frederic Marryat</XML_Serializer_Tag>
+<XML_Serializer_Tag>F... Marryat</XML_Serializer_Tag>
+<XML_Serializer_Tag>... Marryat</XML_Serializer_Tag>
+<XML_Serializer_Tag>Kapitän Marryat</XML_Serializer_Tag>
+<XML_Serializer_Tag>Kapitaen marryat</XML_Serializer_Tag>
+<XML_Serializer_Tag>Captain Marryat</XML_Serializer_Tag>
+<XML_Serializer_Tag>, Captain</XML_Serializer_Tag>
+</variantName>
+<thumbnail>https://commons.wikimedia.org/wiki/Special:FilePath/Frederick_Marryat_by_John_Simpson.jpg?width=270</thumbnail>
+<birthEN>July 10, 1792</birthEN>
+<birthDE>10. Juli 1792</birthDE>
+<deathEN>August 9, 1848</deathEN>
+<deathDE>9. August 1848</deathDE>
+<birthPlace />
+<deathPlace />
+<professionOrOccupation>
+<XML_Serializer_Tag>Schriftsteller</XML_Serializer_Tag>
+<XML_Serializer_Tag>Seefahrer</XML_Serializer_Tag>
+<XML_Serializer_Tag>Romancier</XML_Serializer_Tag>
+</professionOrOccupation>
+<dbpResource>http://dbpedia.org/resource/Frederick_Marryat</dbpResource>
+<abstract>Frederick Marryat (* 10. Juli 1792 in London; † 2. August 1848 in Langham, Norfolk) war ein englischer Marineoffizier und Schriftsteller.</abstract>
+<wikilink>http://en.wikipedia.org/wiki/Frederick_Marryat?oldid=594123546</wikilink>
+<artworks />
+<buildings />
+<books>
+<XML_Serializer_Tag>
+<book>
+<type>uri</type>
+<value>http://dbpedia.org/resource/The_Settlers_in_Canada</value>
+</book>
+<author>
+<type>uri</type>
+<value>http://dbpedia.org/resource/Frederick_Marryat</value>
+</author>
+<thumbnail>
+<type>uri</type>
+<value>http://commons.wikimedia.org/wiki/Special:FilePath/The_Settlers_in_Canada_-_1910_book_cover.jpg?width=300</value>
+</thumbnail>
+<wikilink>
+<type>uri</type>
+<value>http://en.wikipedia.org/wiki/The_Settlers_in_Canada?oldid=556708706</value>
+</wikilink>
+</XML_Serializer_Tag>
+<XML_Serializer_Tag>
+<book>
+<type>uri</type>
+<value>http://dbpedia.org/resource/The_Children_of_the_New_Forest</value>
+</book>
+<author>
+<type>uri</type>
+<value>http://dbpedia.org/resource/Frederick_Marryat</value>
+</author>
+<thumbnail>
+<type>uri</type>
+<value>http://commons.wikimedia.org/wiki/Special:FilePath/The_Children_of_the_New_Forest_-_1911_book_cover.jpg?width=300</value>
+</thumbnail>
+<wikilink>
+<type>uri</type>
+<value>http://en.wikipedia.org/wiki/The_Children_of_the_New_Forest?oldid=572309559</value>
+</wikilink>
+</XML_Serializer_Tag>
+<XML_Serializer_Tag>
+<book>
+<type>uri</type>
+<value>http://dbpedia.org/resource/Masterman_Ready,_or_the_Wreck_of_the_Pacific</value>
+</book>
+<author>
+<type>uri</type>
+<value>http://dbpedia.org/resource/Frederick_Marryat</value>
+</author>
+<thumbnail>
+<type>uri</type>
+<value>http://commons.wikimedia.org/wiki/Special:FilePath/Masterman_Ready_-_1886_book_cover.jpg?width=300</value>
+</thumbnail>
+<wikilink>
+<type>uri</type>
+<value>http://en.wikipedia.org/wiki/Masterman_Ready,_or_the_Wreck_of_the_Pacific?oldid=558977158</value>
+</wikilink>
+</XML_Serializer_Tag>
+<XML_Serializer_Tag>
+<book>
+<type>uri</type>
+<value>http://dbpedia.org/resource/The_Phantom_Ship</value>
+</book>
+<author>
+<type>uri</type>
+<value>http://dbpedia.org/resource/Frederick_Marryat</value>
+</author>
+<thumbnail>
+<type>uri</type>
+<value>http://commons.wikimedia.org/wiki/Special:FilePath/The_Phantom_Ship_-_1847_frontispiece.jpeg?width=300</value>
+</thumbnail>
+<wikilink>
+<type>uri</type>
+<value>http://en.wikipedia.org/wiki/The_Phantom_Ship?oldid=558977180</value>
+</wikilink>
+</XML_Serializer_Tag>
+</books>
+</Person>

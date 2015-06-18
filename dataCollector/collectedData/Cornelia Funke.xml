@@ -1,0 +1,188 @@
+<Person>
+<name>Cornelia Funke</name>
+<variantName>
+<XML_Serializer_Tag>Kornelija Funke</XML_Serializer_Tag>
+<XML_Serializer_Tag>Korunēria Funke</XML_Serializer_Tag>
+<XML_Serializer_Tag>Kornēlija Funke</XML_Serializer_Tag>
+<XML_Serializer_Tag>Cornelia Funkeová</XML_Serializer_Tag>
+<XML_Serializer_Tag>Kornelia Phunke</XML_Serializer_Tag>
+<XML_Serializer_Tag>Kornelia P&apos;unke</XML_Serializer_Tag>
+<XML_Serializer_Tag>K&apos;onellia P&apos;unk&apos;e</XML_Serializer_Tag>
+<XML_Serializer_Tag>Kūrnilīyā Fūnka</XML_Serializer_Tag>
+<XML_Serializer_Tag>Ke nai li ya Feng ke</XML_Serializer_Tag>
+<XML_Serializer_Tag>Kenailiya-Fengke</XML_Serializer_Tag>
+<XML_Serializer_Tag>Kenailiya Fengke</XML_Serializer_Tag>
+<XML_Serializer_Tag>코르넬리아 푼케</XML_Serializer_Tag>
+<XML_Serializer_Tag>קורנליה פונקה</XML_Serializer_Tag>
+<XML_Serializer_Tag>柯奈莉亚‧芳珂</XML_Serializer_Tag>
+<XML_Serializer_Tag>柯奈莉亚 芳珂</XML_Serializer_Tag>
+<XML_Serializer_Tag>コルネーリア フンケ</XML_Serializer_Tag>
+<XML_Serializer_Tag>Κορνέλια Φούνκε</XML_Serializer_Tag>
+</variantName>
+<thumbnail>https://commons.wikimedia.org/wiki/Special:FilePath/Cornelia_Funke.JPG?width=270</thumbnail>
+<birthEN>1958</birthEN>
+<birthDE>1958</birthDE>
+<deathEN />
+<deathDE />
+<birthPlace>
+<XML_Serializer_Tag>Dorsten</XML_Serializer_Tag>
+</birthPlace>
+<deathPlace />
+<professionOrOccupation>
+<XML_Serializer_Tag>Kinderbuchautorin</XML_Serializer_Tag>
+<XML_Serializer_Tag>Jugendbuchautorin</XML_Serializer_Tag>
+<XML_Serializer_Tag>Illustratorin</XML_Serializer_Tag>
+<XML_Serializer_Tag>Schriftstellerin</XML_Serializer_Tag>
+<XML_Serializer_Tag>Filmproduzentin</XML_Serializer_Tag>
+</professionOrOccupation>
+<dbpResource>http://dbpedia.org/resource/Cornelia_Funke</dbpResource>
+<abstract>Cornelia Funke (* 10. Dezember 1958 in Dorsten, Nordrhein-Westfalen) ist eine deutsche Kinder- und Jugendbuchautorin, deren phantastische Romane international erfolgreich sind und mit einer Gesamtauflage von 20 Millionen Bücher in 37 Sprachen übersetzt wurden.</abstract>
+<wikilink>http://en.wikipedia.org/wiki/Cornelia_Funke?oldid=604646789</wikilink>
+<artworks />
+<buildings />
+<books>
+<XML_Serializer_Tag>
+<book>
+<type>uri</type>
+<value>http://dbpedia.org/resource/Dragon_Rider_(novel)</value>
+</book>
+<author>
+<type>uri</type>
+<value>http://dbpedia.org/resource/Cornelia_Funke</value>
+</author>
+<released>
+<type>typed-literal</type>
+<datatype>http://www.w3.org/2001/XMLSchema#integer</datatype>
+<value>1997</value>
+</released>
+<wikilink>
+<type>uri</type>
+<value>http://en.wikipedia.org/wiki/Dragon_Rider_(novel)?oldid=597741915</value>
+</wikilink>
+<abstract>
+<type>literal</type>
+<xml:lang>de</xml:lang>
+<value>Drachenreiter ist der Titel eines Fantasy-Romanes der deutschen Autorin Cornelia Funke aus dem Jahr 1997. Das Buch errang unter dem Titel „Dragon Rider“ im September 2004 den ersten Platz der New York Times Bestsellerliste und ist damit schon der dritte Bestseller von Cornelia Funke in den USA.</value>
+</abstract>
+</XML_Serializer_Tag>
+<XML_Serializer_Tag>
+<book>
+<type>uri</type>
+<value>http://dbpedia.org/resource/Reckless_(Funke_novel)</value>
+</book>
+<author>
+<type>uri</type>
+<value>http://dbpedia.org/resource/Cornelia_Funke</value>
+</author>
+<released>
+<type>typed-literal</type>
+<datatype>http://www.w3.org/2001/XMLSchema#date</datatype>
+<value>2010-09-14+02:00</value>
+</released>
+<wikilink>
+<type>uri</type>
+<value>http://en.wikipedia.org/wiki/Reckless_(Funke_novel)?oldid=599935284</value>
+</wikilink>
+<abstract>
+<type>literal</type>
+<xml:lang>de</xml:lang>
+<value>Reckless. Steinernes Fleisch ist ein Fantasy-Roman von Cornelia Funke.Der Roman lehnt sich an die Märchen der Gebrüder Grimm an und wurde in Zusammenarbeit mit dem Filmemacher Lionel Wigram geschrieben. Das Buch erschien am 14. September 2010 in mehreren Ländern gleichzeitig sowohl als Buch als auch als Hörbuch (in der deutschen Fassung gelesen von Rainer Strecker). Es ist der erste Band eines mehrteiligen Werkes. Die folgenden Bände sollen jeweils die Märchentradition eines anderen Landes zum Vorbild haben. Als Nachfolger des Romans erschien „Reckless. Lebendige Schatten“ im Jahr 2012.</value>
+</abstract>
+</XML_Serializer_Tag>
+<XML_Serializer_Tag>
+<book>
+<type>uri</type>
+<value>http://dbpedia.org/resource/Igraine_the_Brave</value>
+</book>
+<author>
+<type>uri</type>
+<value>http://dbpedia.org/resource/Cornelia_Funke</value>
+</author>
+<released>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>January 2007</value>
+</released>
+<wikilink>
+<type>uri</type>
+<value>http://en.wikipedia.org/wiki/Igraine_the_Brave?oldid=603076901</value>
+</wikilink>
+<abstract>
+<type>literal</type>
+<xml:lang>de</xml:lang>
+<value>Igraine Ohnefurcht (erschienen 1998) ist ein Fantasyroman der Autorin Cornelia Funke, von ihr selbst illustriert.</value>
+</abstract>
+</XML_Serializer_Tag>
+<XML_Serializer_Tag>
+<book>
+<type>uri</type>
+<value>http://dbpedia.org/resource/Inkspell</value>
+</book>
+<author>
+<type>uri</type>
+<value>http://dbpedia.org/resource/Cornelia_Funke</value>
+</author>
+<released>
+<type>typed-literal</type>
+<datatype>http://www.w3.org/2001/XMLSchema#date</datatype>
+<value>2005-10-01+02:00</value>
+</released>
+<wikilink>
+<type>uri</type>
+<value>http://en.wikipedia.org/wiki/Inkspell?oldid=602154915</value>
+</wikilink>
+</XML_Serializer_Tag>
+<XML_Serializer_Tag>
+<book>
+<type>uri</type>
+<value>http://dbpedia.org/resource/Inkheart</value>
+</book>
+<author>
+<type>uri</type>
+<value>http://dbpedia.org/resource/Cornelia_Funke</value>
+</author>
+<wikilink>
+<type>uri</type>
+<value>http://en.wikipedia.org/wiki/Inkheart?oldid=604654377</value>
+</wikilink>
+<abstract>
+<type>literal</type>
+<xml:lang>de</xml:lang>
+<value>Tintenherz ist ein mehrfach ausgezeichnetes Fantasybuch von Cornelia Funke. Es ist der erste Band der Tintenwelt-Trilogie. Die Fortsetzungen heißen Tintenblut und Tintentod. In der deutschsprachigen Ausgabe ist das Buch im Jahr 2003 im Cecilie Dressler Verlag erschienen.</value>
+</abstract>
+</XML_Serializer_Tag>
+<XML_Serializer_Tag>
+<book>
+<type>uri</type>
+<value>http://dbpedia.org/resource/The_Thief_Lord</value>
+</book>
+<author>
+<type>uri</type>
+<value>http://dbpedia.org/resource/Cornelia_Funke</value>
+</author>
+<wikilink>
+<type>uri</type>
+<value>http://en.wikipedia.org/wiki/The_Thief_Lord?oldid=606803000</value>
+</wikilink>
+<abstract>
+<type>literal</type>
+<xml:lang>de</xml:lang>
+<value>Herr der Diebe ist ein Jugendroman der deutschen Autorin Cornelia Funke, der im Jahr 2000 erschien und vielfach ausgezeichnet wurde. 2005 wurde die Bühnenbearbeitung von Wolfgang Adenberg am Jungen Theater Bonn uraufgeführt.</value>
+</abstract>
+</XML_Serializer_Tag>
+<XML_Serializer_Tag>
+<book>
+<type>uri</type>
+<value>http://dbpedia.org/resource/Inkdeath</value>
+</book>
+<author>
+<type>uri</type>
+<value>http://dbpedia.org/resource/Cornelia_Funke</value>
+</author>
+<wikilink>
+<type>uri</type>
+<value>http://en.wikipedia.org/wiki/Inkdeath?oldid=602752128</value>
+</wikilink>
+</XML_Serializer_Tag>
+</books>
+</Person>

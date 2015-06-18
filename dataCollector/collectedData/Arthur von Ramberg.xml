@@ -21,8 +21,10 @@
 <XML_Serializer_Tag>Lithograph</XML_Serializer_Tag>
 <XML_Serializer_Tag>Zeichner</XML_Serializer_Tag>
 </professionOrOccupation>
-<artworks />
 <dbpResource>http://dbpedia.org/resource/Arthur_von_Ramberg</dbpResource>
 <abstract>Arthur Georg Ramberg (* 4. September 1819 in Wien; † 5. Februar 1875 in München), ab 1849 Freiherr von Ramberg, war ein österreichischer Maler und Zeichner.</abstract>
 <wikilink>http://en.wikipedia.org/wiki/Arthur_von_Ramberg?oldid=565304985</wikilink>
+<artworks />
+<buildings />
+<books />
 </Person>

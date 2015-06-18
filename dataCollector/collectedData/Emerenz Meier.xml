@@ -1,0 +1,24 @@
+<Person>
+<name>Emerenz Meier</name>
+<variantName>
+<XML_Serializer_Tag>Emerenz Lindgren-Meier</XML_Serializer_Tag>
+</variantName>
+<thumbnail>https://commons.wikimedia.org/wiki/Special:FilePath/Emerenz_Meier.jpg?width=270</thumbnail>
+<birthEN>October 3, 1874</birthEN>
+<birthDE>3. Oktober 1874</birthDE>
+<deathEN>February 28, 1928</deathEN>
+<deathDE>28. Februar 1928</deathDE>
+<birthPlace>
+<XML_Serializer_Tag>Schiefweg</XML_Serializer_Tag>
+</birthPlace>
+<deathPlace />
+<professionOrOccupation>
+<XML_Serializer_Tag>Schriftstellerin</XML_Serializer_Tag>
+</professionOrOccupation>
+<dbpResource>http://dbpedia.org/resource/Emerenz_Meier</dbpResource>
+<abstract>Emerenz Meier (* 3. Oktober 1874 in Schiefweg, heute Ortsteil von Waldkirchen/Niederbayern; † 28. Februar 1928 in Chicago) war eine deutsche Schriftstellerin. Neben Lena Christ gilt sie als die bedeutendste bayerische Volksdichterin.</abstract>
+<wikilink>http://en.wikipedia.org/wiki/Emerenz_Meier?oldid=594331146</wikilink>
+<artworks />
+<buildings />
+<books />
+</Person>

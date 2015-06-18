@@ -1,0 +1,44 @@
+<Person>
+<name>Friedrich Heinrich Jacobi</name>
+<variantName>
+<XML_Serializer_Tag>Friedrich Heinrich von Jacobi</XML_Serializer_Tag>
+<XML_Serializer_Tag>Friederich Heinrich Jacobi</XML_Serializer_Tag>
+<XML_Serializer_Tag>Friedrich Jacobi</XML_Serializer_Tag>
+<XML_Serializer_Tag>Friedrich H. Jacobi</XML_Serializer_Tag>
+<XML_Serializer_Tag>Friedrich H. von Jacobi</XML_Serializer_Tag>
+<XML_Serializer_Tag>Friedr. Heinr. Jacobi</XML_Serializer_Tag>
+<XML_Serializer_Tag>F. H. Jacobi</XML_Serializer_Tag>
+<XML_Serializer_Tag>... Jacobi</XML_Serializer_Tag>
+<XML_Serializer_Tag>Fritz Jacobi</XML_Serializer_Tag>
+<XML_Serializer_Tag>Frédéric H. Jacobi</XML_Serializer_Tag>
+<XML_Serializer_Tag>M. F. H. Jacobi</XML_Serializer_Tag>
+<XML_Serializer_Tag>... Jakobi</XML_Serializer_Tag>
+<XML_Serializer_Tag>Fridericus Iacobi</XML_Serializer_Tag>
+<XML_Serializer_Tag>Eduard Allwill</XML_Serializer_Tag>
+<XML_Serializer_Tag>Eduard Allwills</XML_Serializer_Tag>
+<XML_Serializer_Tag>F. G. Jakobi</XML_Serializer_Tag>
+</variantName>
+<thumbnail>https://commons.wikimedia.org/wiki/Special:FilePath/JacobiFH.jpg?width=270</thumbnail>
+<birthEN>January 25, 1743</birthEN>
+<birthDE>25. Januar 1743</birthDE>
+<deathEN>March 10, 1819</deathEN>
+<deathDE>10. März 1819</deathDE>
+<birthPlace>
+<XML_Serializer_Tag>Düsseldorf</XML_Serializer_Tag>
+</birthPlace>
+<deathPlace>
+<XML_Serializer_Tag>München</XML_Serializer_Tag>
+</deathPlace>
+<professionOrOccupation>
+<XML_Serializer_Tag>Philosoph</XML_Serializer_Tag>
+<XML_Serializer_Tag>Jurist</XML_Serializer_Tag>
+<XML_Serializer_Tag>Kaufmann</XML_Serializer_Tag>
+<XML_Serializer_Tag>Schriftsteller</XML_Serializer_Tag>
+</professionOrOccupation>
+<dbpResource>http://dbpedia.org/resource/Friedrich_Heinrich_Jacobi</dbpResource>
+<abstract>Friedrich Heinrich Jacobi (* 25. Januar 1743 in Düsseldorf; † 10. März 1819 in München) war ein deutscher Philosoph, Jurist, Kaufmann und Schriftsteller.</abstract>
+<wikilink>http://en.wikipedia.org/wiki/Friedrich_Heinrich_Jacobi?oldid=606226243</wikilink>
+<artworks />
+<buildings />
+<books />
+</Person>

@@ -1,0 +1,55 @@
+<Person>
+<name>Vitruvius</name>
+<variantName>
+<XML_Serializer_Tag>Vitruv</XML_Serializer_Tag>
+<XML_Serializer_Tag>Marcus Vitruvius Pollio</XML_Serializer_Tag>
+<XML_Serializer_Tag>Vitruvius, Architekt</XML_Serializer_Tag>
+<XML_Serializer_Tag>Vitruvius, Ingenieur</XML_Serializer_Tag>
+<XML_Serializer_Tag>Vitruvius, Pollio</XML_Serializer_Tag>
+<XML_Serializer_Tag>Marcus Vitruvius Pollio</XML_Serializer_Tag>
+<XML_Serializer_Tag>Vitruve</XML_Serializer_Tag>
+<XML_Serializer_Tag>Vitruvius, Writer on Architecture</XML_Serializer_Tag>
+<XML_Serializer_Tag>Vitruvius, Scriptor de Architectura</XML_Serializer_Tag>
+<XML_Serializer_Tag>Vitruvio</XML_Serializer_Tag>
+<XML_Serializer_Tag>Marcus Vitruvio Polion</XML_Serializer_Tag>
+<XML_Serializer_Tag>Lucio Vitruvio Pollione</XML_Serializer_Tag>
+<XML_Serializer_Tag>Marcus P. Vitruvius</XML_Serializer_Tag>
+<XML_Serializer_Tag>... Vitruve</XML_Serializer_Tag>
+<XML_Serializer_Tag>Marcus V. Pollio</XML_Serializer_Tag>
+<XML_Serializer_Tag>Pollio Vitruvius</XML_Serializer_Tag>
+<XML_Serializer_Tag>Marc Vitruve Pollion</XML_Serializer_Tag>
+<XML_Serializer_Tag>Marc V. Pollion</XML_Serializer_Tag>
+<XML_Serializer_Tag>Vitruvio, Pollione</XML_Serializer_Tag>
+<XML_Serializer_Tag>Vitruve, de Vérone</XML_Serializer_Tag>
+<XML_Serializer_Tag>Vitruve, de Formies</XML_Serializer_Tag>
+<XML_Serializer_Tag>Marcus Vitruvius</XML_Serializer_Tag>
+<XML_Serializer_Tag>Lucius Vitruvius Pollio</XML_Serializer_Tag>
+<XML_Serializer_Tag>Vitruvius Pollio</XML_Serializer_Tag>
+<XML_Serializer_Tag>Marco L. Vitruvio Pollione</XML_Serializer_Tag>
+<XML_Serializer_Tag>Marco Vitruvio Pollione</XML_Serializer_Tag>
+<XML_Serializer_Tag>Vitrue</XML_Serializer_Tag>
+<XML_Serializer_Tag>Marc Vitruv Pollion</XML_Serializer_Tag>
+<XML_Serializer_Tag>Marcus Vitruvius Pollio</XML_Serializer_Tag>
+<XML_Serializer_Tag>Marco Vitrubio</XML_Serializer_Tag>
+<XML_Serializer_Tag>M. Vitruvio</XML_Serializer_Tag>
+<XML_Serializer_Tag>Marco Vitruvio</XML_Serializer_Tag>
+<XML_Serializer_Tag>Marcus Vitruvius-Pollio</XML_Serializer_Tag>
+</variantName>
+<thumbnail>https://commons.wikimedia.org/wiki/Special:FilePath/Vitruv.jpg?width=270</thumbnail>
+<birthEN />
+<birthDE />
+<deathEN />
+<deathDE />
+<birthPlace />
+<deathPlace />
+<professionOrOccupation>
+<XML_Serializer_Tag>Ingenieur</XML_Serializer_Tag>
+<XML_Serializer_Tag>Architekt</XML_Serializer_Tag>
+</professionOrOccupation>
+<dbpResource>http://dbpedia.org/resource/Vitruvius</dbpResource>
+<abstract>Vitruv (auch: Vitruvius oder Marcus Vitruvius Pollio) war ein römischer Architekt, Ingenieur und Architekturtheoretiker des 1. Jahrhunderts v. Chr.</abstract>
+<wikilink>http://en.wikipedia.org/wiki/Vitruvius?oldid=601856537</wikilink>
+<artworks />
+<buildings />
+<books />
+</Person>

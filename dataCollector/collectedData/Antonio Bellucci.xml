@@ -20,8 +20,10 @@
 <professionOrOccupation>
 <XML_Serializer_Tag>Maler</XML_Serializer_Tag>
 </professionOrOccupation>
-<artworks />
 <dbpResource>http://dbpedia.org/resource/Antonio_Bellucci</dbpResource>
 <abstract>Antonio Bellucci (* 1654 Pieve di Soligo/Treviso; † 1726 ebd.) war ein italienischer Maler des Rokoko. Bekannt war Bellucci für seine Arbeiten in England, Deutschland und Österreich. Bellucci malte in Dalmatien bei Domenico Difnico und studierte in Venedig, wo er durch Andrea Celesti, Pietro Liberi und Antonio Zanchi beeinflusst wurde. Zeitweise lebte er in Düsseldorf am Hof des Kurfürsten Johann Wilhelm von der Pfalz, für dessen Gemäldegalerie er die Bilder Danae im Goldregen, Venus und Amor schuf.</abstract>
 <wikilink>http://en.wikipedia.org/wiki/Antonio_Bellucci?oldid=602504848</wikilink>
+<artworks />
+<buildings />
+<books />
 </Person>

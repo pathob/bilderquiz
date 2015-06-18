@@ -1,0 +1,177 @@
+<Person>
+<name>Jean-Jacques Rousseau</name>
+<variantName>
+<XML_Serializer_Tag>J.-J. Rousseau</XML_Serializer_Tag>
+<XML_Serializer_Tag>J. J. Rousseau</XML_Serializer_Tag>
+<XML_Serializer_Tag>I. I. Rousseau</XML_Serializer_Tag>
+<XML_Serializer_Tag>Johann Jacob Rousseau</XML_Serializer_Tag>
+<XML_Serializer_Tag>Johann Jakob Rousseau</XML_Serializer_Tag>
+<XML_Serializer_Tag>Johan Jakob Rousseau</XML_Serializer_Tag>
+<XML_Serializer_Tag>John James Rousseau</XML_Serializer_Tag>
+<XML_Serializer_Tag>Johann J. Rousseau</XML_Serializer_Tag>
+<XML_Serializer_Tag>... Rousseau</XML_Serializer_Tag>
+<XML_Serializer_Tag>... Rusō</XML_Serializer_Tag>
+<XML_Serializer_Tag>Ǧān Ǧāk Rūssū</XML_Serializer_Tag>
+<XML_Serializer_Tag>Jān Jāk Russo</XML_Serializer_Tag>
+<XML_Serializer_Tag>Žan-Žak Russo</XML_Serializer_Tag>
+<XML_Serializer_Tag>Jan Jak Rosso</XML_Serializer_Tag>
+<XML_Serializer_Tag>... Lusuo</XML_Serializer_Tag>
+<XML_Serializer_Tag>... Rūsū</XML_Serializer_Tag>
+<XML_Serializer_Tag>Suo Lu</XML_Serializer_Tag>
+<XML_Serializer_Tag>Lusuo</XML_Serializer_Tag>
+<XML_Serializer_Tag>Jean Jacques Rousseau</XML_Serializer_Tag>
+<XML_Serializer_Tag>Jean J. Rousseau</XML_Serializer_Tag>
+<XML_Serializer_Tag>G. Giacomo Rousseau</XML_Serializer_Tag>
+<XML_Serializer_Tag>Jean-Jacques Rosseau</XML_Serializer_Tag>
+<XML_Serializer_Tag>Jean Jacques Rousseu</XML_Serializer_Tag>
+<XML_Serializer_Tag>Jean Jaques Rousseau</XML_Serializer_Tag>
+<XML_Serializer_Tag>D. J. J. R. C. D. C. D. G.</XML_Serializer_Tag>
+<XML_Serializer_Tag>J. J. R.</XML_Serializer_Tag>
+<XML_Serializer_Tag>Giangiacomo Rousseau</XML_Serializer_Tag>
+<XML_Serializer_Tag>Gian Giacomo Rousseau</XML_Serializer_Tag>
+<XML_Serializer_Tag>Juan Jacobo Rousseau</XML_Serializer_Tag>
+<XML_Serializer_Tag>Jean Jacques Rosseau</XML_Serializer_Tag>
+</variantName>
+<thumbnail>https://commons.wikimedia.org/wiki/Special:FilePath/Jean-Jacques_Rousseau_(painted_portrait).jpg?width=270</thumbnail>
+<birthEN>June 28, 1712</birthEN>
+<birthDE>28. Juni 1712</birthDE>
+<deathEN>July 2, 1778</deathEN>
+<deathDE>2. Juli 1778</deathDE>
+<birthPlace>
+<XML_Serializer_Tag>Genf</XML_Serializer_Tag>
+</birthPlace>
+<deathPlace>
+<XML_Serializer_Tag>Ermenonville</XML_Serializer_Tag>
+</deathPlace>
+<professionOrOccupation>
+<XML_Serializer_Tag>Philosoph</XML_Serializer_Tag>
+<XML_Serializer_Tag>Schriftsteller</XML_Serializer_Tag>
+<XML_Serializer_Tag>Komponist</XML_Serializer_Tag>
+<XML_Serializer_Tag>Dramatiker</XML_Serializer_Tag>
+<XML_Serializer_Tag>Pädagoge</XML_Serializer_Tag>
+<XML_Serializer_Tag>Botaniker</XML_Serializer_Tag>
+<XML_Serializer_Tag>Musiktheoretiker</XML_Serializer_Tag>
+</professionOrOccupation>
+<dbpResource>http://dbpedia.org/resource/Jean-Jacques_Rousseau</dbpResource>
+<abstract>Jean-Jacques Rousseau [ʒɑ̃&apos;ʒak ʁu&apos;so] (* 28. Juni 1712 in Genf; † 2. Juli 1778 in Ermenonville bei Paris) war ein französischsprachiger Schriftsteller, Philosoph, Pädagoge, Naturforscher und Komponist der Aufklärung. Rousseau hatte großen Einfluss auf die Pädagogik und die politische Theorie des späten 18. sowie des 19. und 20. Jahrhunderts in ganz Europa. Er war ein wichtiger Wegbereiter der Französischen Revolution. Sein Werk ist unlösbarer Bestandteil der französischen und europäischen Literatur- und Geistesgeschichte.</abstract>
+<wikilink>http://en.wikipedia.org/wiki/Jean-Jacques_Rousseau?oldid=606677076</wikilink>
+<artworks />
+<buildings />
+<books>
+<XML_Serializer_Tag>
+<book>
+<type>uri</type>
+<value>http://dbpedia.org/resource/Emile,_or_On_Education</value>
+</book>
+<author>
+<type>uri</type>
+<value>http://dbpedia.org/resource/Jean-Jacques_Rousseau</value>
+</author>
+<thumbnail>
+<type>uri</type>
+<value>http://commons.wikimedia.org/wiki/Special:FilePath/EmileTitle.jpeg?width=300</value>
+</thumbnail>
+<released>
+<type>typed-literal</type>
+<datatype>http://www.w3.org/2001/XMLSchema#integer</datatype>
+<value>1762</value>
+</released>
+<wikilink>
+<type>uri</type>
+<value>http://en.wikipedia.org/wiki/Emile,_or_On_Education?oldid=602843703</value>
+</wikilink>
+<abstract>
+<type>literal</type>
+<xml:lang>de</xml:lang>
+<value>Emile oder über die Erziehung ist das pädagogische Hauptwerk Jean-Jacques Rousseaus aus dem Jahr 1762.</value>
+</abstract>
+</XML_Serializer_Tag>
+<XML_Serializer_Tag>
+<book>
+<type>uri</type>
+<value>http://dbpedia.org/resource/Julie,_or_the_New_Heloise</value>
+</book>
+<author>
+<type>uri</type>
+<value>http://dbpedia.org/resource/Jean-Jacques_Rousseau</value>
+</author>
+<thumbnail>
+<type>uri</type>
+<value>http://commons.wikimedia.org/wiki/Special:FilePath/RousseauJulie.jpg?width=300</value>
+</thumbnail>
+<released>
+<type>typed-literal</type>
+<datatype>http://www.w3.org/2001/XMLSchema#integer</datatype>
+<value>1761</value>
+</released>
+<wikilink>
+<type>uri</type>
+<value>http://en.wikipedia.org/wiki/Julie,_or_the_New_Heloise?oldid=570946294</value>
+</wikilink>
+<abstract>
+<type>literal</type>
+<xml:lang>de</xml:lang>
+<value>Julie oder Die neue Heloise (franz.: Julie ou la Nouvelle Héloïse) ist ein Briefroman von Jean-Jacques Rousseau, der erstmals 1761 im Verlag von Marc-Michel Rey in Amsterdam erschien. Der Roman war einer der größten belletristischen Bucherfolge des 18. Jahrhunderts und erlebte bis zu dessen Ende mindestens 70 Auflagen.</value>
+</abstract>
+</XML_Serializer_Tag>
+<XML_Serializer_Tag>
+<book>
+<type>uri</type>
+<value>http://dbpedia.org/resource/The_Social_Contract</value>
+</book>
+<author>
+<type>uri</type>
+<value>http://dbpedia.org/resource/Jean-Jacques_Rousseau</value>
+</author>
+<thumbnail>
+<type>uri</type>
+<value>http://commons.wikimedia.org/wiki/Special:FilePath/Social_contract_rousseau_page.jpg?width=300</value>
+</thumbnail>
+<wikilink>
+<type>uri</type>
+<value>http://en.wikipedia.org/wiki/The_Social_Contract?oldid=606608864</value>
+</wikilink>
+<abstract>
+<type>literal</type>
+<xml:lang>de</xml:lang>
+<value>Vom Gesellschaftsvertrag oder Prinzipien des politischen Rechtes (fr.: Du Contract Social ou Principes du Droit Politique) ist das politisch-theoretische Hauptwerk des französisch-schweizerischen Philosophen Jean-Jacques Rousseau. Es erschien erstmals 1762 in Amsterdam und wurde daraufhin in Frankreich, den Niederlanden, in Genf und Bern sofort verboten. Dieses Werk ist – neben Montesquieus Vom Geist der Gesetze – ein Schlüsselwerk der Aufklärungsphilosophie. Zusammen mit letztgenanntem kann der Gesellschaftsvertrag als ein Wegbereiter moderner Demokratie und Demokratietheorie gelten, obwohl er bis heute auch unzählige Anknüpfungspunkte für andere politische Ideen und Denkschulen bietet (vergleiche hierzu Identitätstheorie).Für Rousseau konnte die alleinige Grundlage legitimer politischer Macht nur der allgemeine Wille (volonté générale) sein (welcher immer auf das Gemeinwohl abzielt) und keinesfalls im Gottesgnadentum bestehen. Der Einfluss dieses Werkes auf die Französische Revolution kann kaum geleugnet werden, ist er später doch beispielsweise im radikalen Denken Maximilien de Robespierres deutlich erkennbar. Späterhin nahmen Soziologie, Rechts- und Politische Philosophie viele seiner Fragestellungen auf, so dass man Rousseau z.B. auch zu den Protosoziologen zählen darf.</value>
+</abstract>
+</XML_Serializer_Tag>
+<XML_Serializer_Tag>
+<book>
+<type>uri</type>
+<value>http://dbpedia.org/resource/Confessions_(Rousseau)</value>
+</book>
+<author>
+<type>uri</type>
+<value>http://dbpedia.org/resource/Jean-Jacques_Rousseau</value>
+</author>
+<thumbnail>
+<type>uri</type>
+<value>http://commons.wikimedia.org/wiki/Special:FilePath/Confessions_Rousseau_Aldus_P028.jpg?width=300</value>
+</thumbnail>
+<wikilink>
+<type>uri</type>
+<value>http://en.wikipedia.org/wiki/Confessions_(Rousseau)?oldid=606589254</value>
+</wikilink>
+</XML_Serializer_Tag>
+<XML_Serializer_Tag>
+<book>
+<type>uri</type>
+<value>http://dbpedia.org/resource/Discourse_on_the_Arts_and_Sciences</value>
+</book>
+<author>
+<type>uri</type>
+<value>http://dbpedia.org/resource/Jean-Jacques_Rousseau</value>
+</author>
+<thumbnail>
+<type>uri</type>
+<value>http://commons.wikimedia.org/wiki/Special:FilePath/RousseauDiscourseSciencesArt.jpg?width=300</value>
+</thumbnail>
+<wikilink>
+<type>uri</type>
+<value>http://en.wikipedia.org/wiki/Discourse_on_the_Arts_and_Sciences?oldid=605094848</value>
+</wikilink>
+</XML_Serializer_Tag>
+</books>
+</Person>

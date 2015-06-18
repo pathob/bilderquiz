@@ -1,0 +1,28 @@
+<Person>
+<name>Jan Myrdal</name>
+<variantName>
+<XML_Serializer_Tag>Jan Mjurdal&apos;</XML_Serializer_Tag>
+<XML_Serializer_Tag>Yang Mi&apos;erda</XML_Serializer_Tag>
+<XML_Serializer_Tag>Yang Mi&apos;erda</XML_Serializer_Tag>
+<XML_Serializer_Tag>楊 米爾達</XML_Serializer_Tag>
+</variantName>
+<thumbnail>https://commons.wikimedia.org/wiki/Special:FilePath/Author_jan_myrdal_27nov_2007_södermalmstorg_Stockholm_Sweden.jpg?width=270</thumbnail>
+<birthEN>1927</birthEN>
+<birthDE>1927</birthDE>
+<deathEN />
+<deathDE />
+<birthPlace>
+<XML_Serializer_Tag>Stockholm</XML_Serializer_Tag>
+</birthPlace>
+<deathPlace />
+<professionOrOccupation>
+<XML_Serializer_Tag>Journalist</XML_Serializer_Tag>
+<XML_Serializer_Tag>Schriftsteller</XML_Serializer_Tag>
+</professionOrOccupation>
+<dbpResource>http://dbpedia.org/resource/Jan_Myrdal</dbpResource>
+<abstract>Jan Myrdal (Aussprache: [ˌ ʝɑːn ˈmyːɖɑːl], * 19. Juli 1927 in Stockholm) ist ein schwedischer Schriftsteller..</abstract>
+<wikilink>http://en.wikipedia.org/wiki/Jan_Myrdal?oldid=604990973</wikilink>
+<artworks />
+<buildings />
+<books />
+</Person>

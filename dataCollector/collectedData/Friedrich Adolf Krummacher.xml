@@ -1,0 +1,34 @@
+<Person>
+<name>Friedrich Adolf Krummacher</name>
+<variantName>
+<XML_Serializer_Tag>Frederic Adolphus Krummacher</XML_Serializer_Tag>
+<XML_Serializer_Tag>Friedrich Adolph Krummacher</XML_Serializer_Tag>
+<XML_Serializer_Tag>Adolf Friedrich Krummacher</XML_Serializer_Tag>
+<XML_Serializer_Tag>Friedrich A. Krummacher</XML_Serializer_Tag>
+<XML_Serializer_Tag>Adolph Krummacher</XML_Serializer_Tag>
+<XML_Serializer_Tag>F. A. Krummacher</XML_Serializer_Tag>
+<XML_Serializer_Tag>Fridericus Adolphus Krummacher</XML_Serializer_Tag>
+<XML_Serializer_Tag>Frederic Adolphus Krummacher</XML_Serializer_Tag>
+</variantName>
+<thumbnail>https://commons.wikimedia.org/wiki/Special:FilePath/Friedrich_Adolf_Krummacher.JPG?width=270</thumbnail>
+<birthEN>XX.XX.1767</birthEN>
+<birthDE>XX.XX.1767</birthDE>
+<deathEN>April 5, 1845</deathEN>
+<deathDE>5. April 1845</deathDE>
+<birthPlace>
+<XML_Serializer_Tag>Kreis Tecklenburg</XML_Serializer_Tag>
+</birthPlace>
+<deathPlace>
+<XML_Serializer_Tag>Bremen</XML_Serializer_Tag>
+</deathPlace>
+<professionOrOccupation>
+<XML_Serializer_Tag>Pfarrer</XML_Serializer_Tag>
+<XML_Serializer_Tag>Schriftsteller</XML_Serializer_Tag>
+</professionOrOccupation>
+<dbpResource>http://dbpedia.org/resource/Friedrich_Adolf_Krummacher</dbpResource>
+<abstract>Friedrich Adolf Krummacher (* 13. Juli 1767 in Tecklenburg; † 4. April 1845 in Bremen) war ein deutscher evangelischer Theologe.</abstract>
+<wikilink>http://en.wikipedia.org/wiki/Friedrich_Adolf_Krummacher?oldid=594570164</wikilink>
+<artworks />
+<buildings />
+<books />
+</Person>

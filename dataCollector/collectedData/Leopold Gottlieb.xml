@@ -16,8 +16,10 @@
 <XML_Serializer_Tag>Graphiker</XML_Serializer_Tag>
 <XML_Serializer_Tag>Zeichner</XML_Serializer_Tag>
 </professionOrOccupation>
-<artworks />
 <dbpResource>http://dbpedia.org/resource/Leopold_Gottlieb</dbpResource>
 <abstract>Léopold Gottlieb (* 1883 in Drohobycz, Polen, jetzt Ukraine; † 24. April 1934 in Paris) war ein polnischer Maler der galizischen Juden aus dem westlichen Gebiet der Ukraine. Er war ein jüngerer Bruder des berühmten Malers Maurycy Gottlieb (1856–1879), geboren fünf Jahre nach dessen Selbstmord. Von 1896 bis 1902 studierte er an der Krakauer Kunstakademie bei Jacek Malczewski und Axentowicz.</abstract>
 <wikilink>http://en.wikipedia.org/wiki/Leopold_Gottlieb?oldid=600650370</wikilink>
+<artworks />
+<buildings />
+<books />
 </Person>

@@ -1,0 +1,28 @@
+<Person>
+<name>Magdalene Thoresen</name>
+<variantName>
+<XML_Serializer_Tag>Magdalena Thoresen</XML_Serializer_Tag>
+<XML_Serializer_Tag>Anna Magdalene Thoresen</XML_Serializer_Tag>
+<XML_Serializer_Tag>Anna Magdalene Kragh</XML_Serializer_Tag>
+</variantName>
+<thumbnail>https://commons.wikimedia.org/wiki/Special:FilePath/Magdalene_Thoresen_by_Grundtvig.jpg?width=270</thumbnail>
+<birthEN>March 6, 1819</birthEN>
+<birthDE>6. März 1819</birthDE>
+<deathEN>March 28, 1903</deathEN>
+<deathDE>28. März 1903</deathDE>
+<birthPlace>
+<XML_Serializer_Tag>Fredericia</XML_Serializer_Tag>
+</birthPlace>
+<deathPlace>
+<XML_Serializer_Tag>Kopenhagen</XML_Serializer_Tag>
+</deathPlace>
+<professionOrOccupation>
+<XML_Serializer_Tag>Schriftstellerin</XML_Serializer_Tag>
+</professionOrOccupation>
+<dbpResource>http://dbpedia.org/resource/Magdalene_Thoresen</dbpResource>
+<abstract>Anna Magdalene Thoresen (* 3. Juni 1819 in Fredericia / Dänemark; † 28. März 1903) war eine dänisch-norwegische Schriftstellerin und Schwiegermutter Henrik Ibsens.</abstract>
+<wikilink>http://en.wikipedia.org/wiki/Magdalene_Thoresen?oldid=545941212</wikilink>
+<artworks />
+<buildings />
+<books />
+</Person>

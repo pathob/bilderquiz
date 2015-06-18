@@ -1,0 +1,28 @@
+<Person>
+<name>Wilhelm Herzog</name>
+<variantName>
+<XML_Serializer_Tag>Julian Sorel</XML_Serializer_Tag>
+</variantName>
+<thumbnail>https://commons.wikimedia.org/wiki/Special:FilePath/Gedenktafel_für_die_deutschen_u._österreichischen_Flüchtline_am_Fremdenverkehrsbüro_in_Sanary-sur-Mer1.JPG?width=270</thumbnail>
+<birthEN>January 12, 1884</birthEN>
+<birthDE>12. Januar 1884</birthDE>
+<deathEN>April 18, 1960</deathEN>
+<deathDE>18. April 1960</deathDE>
+<birthPlace>
+<XML_Serializer_Tag>Berlin</XML_Serializer_Tag>
+</birthPlace>
+<deathPlace>
+<XML_Serializer_Tag>München</XML_Serializer_Tag>
+</deathPlace>
+<professionOrOccupation>
+<XML_Serializer_Tag>Schriftsteller</XML_Serializer_Tag>
+<XML_Serializer_Tag>Journalist</XML_Serializer_Tag>
+<XML_Serializer_Tag>Drehbuchautor</XML_Serializer_Tag>
+</professionOrOccupation>
+<dbpResource>http://dbpedia.org/resource/Wilhelm_Herzog</dbpResource>
+<abstract>Wilhelm Herzog (* 12. Januar 1884 in Berlin; † 18. April 1960 in München) war ein deutscher Literatur- und Kulturhistoriker, Dramatiker, Enzyklopädist; Pazifist, heute fast in Vergessenheit geraten, ebenso wie viele von ihm beschriebene Persönlichkeiten.</abstract>
+<wikilink>http://en.wikipedia.org/wiki/Wilhelm_Herzog?oldid=544166684</wikilink>
+<artworks />
+<buildings />
+<books />
+</Person>

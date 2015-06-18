@@ -1,0 +1,26 @@
+<Person>
+<name>Ferdinand Pettrich</name>
+<variantName>
+<XML_Serializer_Tag>Friedrich August Ferdinand Pettrich</XML_Serializer_Tag>
+</variantName>
+<thumbnail>https://commons.wikimedia.org/wiki/Special:FilePath/Ferdinand_Pettrich_-_Washington_Resigning_His_Commission_-_Smithsonian.jpg?width=270</thumbnail>
+<birthEN>December 5, 1798</birthEN>
+<birthDE>5. Dezember 1798</birthDE>
+<deathEN>February 14, 1872</deathEN>
+<deathDE>14. Februar 1872</deathDE>
+<birthPlace>
+<XML_Serializer_Tag>Dresden</XML_Serializer_Tag>
+</birthPlace>
+<deathPlace>
+<XML_Serializer_Tag>Rom</XML_Serializer_Tag>
+</deathPlace>
+<professionOrOccupation>
+<XML_Serializer_Tag>Bildhauer</XML_Serializer_Tag>
+</professionOrOccupation>
+<dbpResource>http://dbpedia.org/resource/Ferdinand_Pettrich</dbpResource>
+<abstract>Friedrich August Ferdinand Pettrich (* 3. Dezember 1798 in Dresden; † 14. Februar 1872 in Rom) war ein deutscher Zeichner und Bildhauer.</abstract>
+<wikilink>http://en.wikipedia.org/wiki/Ferdinand_Pettrich?oldid=606522118</wikilink>
+<artworks />
+<buildings />
+<books />
+</Person>

@@ -1,0 +1,47 @@
+<Person>
+<name>Maurice Blanchot</name>
+<variantName />
+<thumbnail>https://en.wikipedia.org/wiki/Special:FilePath/MauriceBlanchot.jpg?width=270</thumbnail>
+<birthEN>September 22, 1907</birthEN>
+<birthDE>22. September 1907</birthDE>
+<deathEN>February 20, 2003</deathEN>
+<deathDE>20. Februar 2003</deathDE>
+<birthPlace>
+<XML_Serializer_Tag>Quain</XML_Serializer_Tag>
+</birthPlace>
+<deathPlace>
+<XML_Serializer_Tag>Paris</XML_Serializer_Tag>
+</deathPlace>
+<professionOrOccupation>
+<XML_Serializer_Tag>Philosoph</XML_Serializer_Tag>
+<XML_Serializer_Tag>Schriftsteller</XML_Serializer_Tag>
+<XML_Serializer_Tag>Literaturkritiker</XML_Serializer_Tag>
+<XML_Serializer_Tag>Journalist</XML_Serializer_Tag>
+</professionOrOccupation>
+<dbpResource>http://dbpedia.org/resource/Maurice_Blanchot</dbpResource>
+<abstract>Maurice Blanchot (* 22. September 1907 im Weiler Quain, Gemeinde Devrouze im Département Saône-et-Loire, Burgund; † 20. Februar 2003 in Paris-Yvelines) war ein französischer Journalist, Literaturtheoretiker und Schriftsteller.</abstract>
+<wikilink>http://en.wikipedia.org/wiki/Maurice_Blanchot?oldid=602880348</wikilink>
+<artworks />
+<buildings />
+<books>
+<XML_Serializer_Tag>
+<book>
+<type>uri</type>
+<value>http://dbpedia.org/resource/L&apos;Arr%C3%AAt_de_mort</value>
+</book>
+<author>
+<type>uri</type>
+<value>http://dbpedia.org/resource/Maurice_Blanchot</value>
+</author>
+<released>
+<type>typed-literal</type>
+<datatype>http://www.w3.org/2001/XMLSchema#integer</datatype>
+<value>1948</value>
+</released>
+<wikilink>
+<type>uri</type>
+<value>http://en.wikipedia.org/wiki/L&apos;Arrêt_de_mort?oldid=545017538</value>
+</wikilink>
+</XML_Serializer_Tag>
+</books>
+</Person>

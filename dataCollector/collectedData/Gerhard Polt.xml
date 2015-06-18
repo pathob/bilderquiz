@@ -1,0 +1,28 @@
+<Person>
+<name>Gerhard Polt</name>
+<variantName />
+<thumbnail>https://commons.wikimedia.org/wiki/Special:FilePath/2011-03-28_Gerhard_Polt,_Pantheon,_Bonn_6592.jpg?width=270</thumbnail>
+<birthEN>1942</birthEN>
+<birthDE>1942</birthDE>
+<deathEN />
+<deathDE />
+<birthPlace>
+<XML_Serializer_Tag>München</XML_Serializer_Tag>
+</birthPlace>
+<deathPlace />
+<professionOrOccupation>
+<XML_Serializer_Tag>Kabarettist</XML_Serializer_Tag>
+<XML_Serializer_Tag>Schriftsteller</XML_Serializer_Tag>
+<XML_Serializer_Tag>Skandinavist</XML_Serializer_Tag>
+<XML_Serializer_Tag>Musiker</XML_Serializer_Tag>
+<XML_Serializer_Tag>Schauspieler</XML_Serializer_Tag>
+<XML_Serializer_Tag>Regisseur</XML_Serializer_Tag>
+<XML_Serializer_Tag>Drehbuchautor</XML_Serializer_Tag>
+</professionOrOccupation>
+<dbpResource>http://dbpedia.org/resource/Gerhard_Polt</dbpResource>
+<abstract>Gerhard Polt (* 7. Mai 1942 in München) ist ein deutscher Kabarettist, Autor, Fernseh- und Filmschauspieler.</abstract>
+<wikilink>http://en.wikipedia.org/wiki/Gerhard_Polt?oldid=587366651</wikilink>
+<artworks />
+<buildings />
+<books />
+</Person>

@@ -1,0 +1,24 @@
+<Person>
+<name>Hans Haacke</name>
+<variantName />
+<thumbnail>https://en.wikipedia.org/wiki/Special:FilePath/Condensation_Cube_of_Haacke.jpg?width=270</thumbnail>
+<birthEN>1936</birthEN>
+<birthDE>1936</birthDE>
+<deathEN />
+<deathDE />
+<birthPlace>
+<XML_Serializer_Tag>Köln</XML_Serializer_Tag>
+</birthPlace>
+<deathPlace />
+<professionOrOccupation>
+<XML_Serializer_Tag>Künstler</XML_Serializer_Tag>
+<XML_Serializer_Tag>Installationskünstler</XML_Serializer_Tag>
+<XML_Serializer_Tag>Photograph</XML_Serializer_Tag>
+</professionOrOccupation>
+<dbpResource>http://dbpedia.org/resource/Hans_Haacke</dbpResource>
+<abstract>Hans Haacke (* 12. August 1936 in Köln) ist ein international bekannter Konzeptkünstler. Er erregte Aufsehen vor allem durch die politischen Aspekte seiner Arbeiten.</abstract>
+<wikilink>http://en.wikipedia.org/wiki/Hans_Haacke?oldid=594977735</wikilink>
+<artworks />
+<buildings />
+<books />
+</Person>

@@ -1,0 +1,28 @@
+<Person>
+<name>Henri Bosco</name>
+<variantName>
+<XML_Serializer_Tag>Heinrich Bosco</XML_Serializer_Tag>
+</variantName>
+<thumbnail>https://commons.wikimedia.org/wiki/Special:FilePath/Lourmarin_by_JM_Rosier.JPG?width=270</thumbnail>
+<birthEN>November 16, 1888</birthEN>
+<birthDE>16. November 1888</birthDE>
+<deathEN>May 4, 1976</deathEN>
+<deathDE>4. Mai 1976</deathDE>
+<birthPlace>
+<XML_Serializer_Tag>Avignon</XML_Serializer_Tag>
+</birthPlace>
+<deathPlace>
+<XML_Serializer_Tag>Nizza</XML_Serializer_Tag>
+</deathPlace>
+<professionOrOccupation>
+<XML_Serializer_Tag>Schriftsteller</XML_Serializer_Tag>
+<XML_Serializer_Tag>Romancier</XML_Serializer_Tag>
+<XML_Serializer_Tag>Jugendbuchautor</XML_Serializer_Tag>
+</professionOrOccupation>
+<dbpResource>http://dbpedia.org/resource/Henri_Bosco</dbpResource>
+<abstract>Henri Bosco (* 16. November 1888 in Avignon; † 4. Mai 1976 in Nizza) war ein französischer Dichter, Roman- und Jugendbuchautor.</abstract>
+<wikilink>http://en.wikipedia.org/wiki/Henri_Bosco?oldid=590231019</wikilink>
+<artworks />
+<buildings />
+<books />
+</Person>

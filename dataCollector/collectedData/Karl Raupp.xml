@@ -19,8 +19,10 @@
 <professionOrOccupation>
 <XML_Serializer_Tag>Maler</XML_Serializer_Tag>
 </professionOrOccupation>
-<artworks />
 <dbpResource>http://dbpedia.org/resource/Karl_Raupp</dbpResource>
 <abstract>Karl Raupp (* 2. März 1837 in Darmstadt; † 14. Juni 1918 in München) war ein deutscher Maler.</abstract>
 <wikilink>http://en.wikipedia.org/wiki/Karl_Raupp?oldid=565019481</wikilink>
+<artworks />
+<buildings />
+<books />
 </Person>

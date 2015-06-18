@@ -1,0 +1,33 @@
+<Person>
+<name>Roger Willemsen</name>
+<variantName>
+<XML_Serializer_Tag>R. Willemsen</XML_Serializer_Tag>
+<XML_Serializer_Tag>로저 빌렘젠</XML_Serializer_Tag>
+</variantName>
+<thumbnail>https://commons.wikimedia.org/wiki/Special:FilePath/Roger_Willemsen_Siegburg.jpg?width=270</thumbnail>
+<birthEN>1955</birthEN>
+<birthDE>1955</birthDE>
+<deathEN />
+<deathDE />
+<birthPlace>
+<XML_Serializer_Tag>Bonn</XML_Serializer_Tag>
+</birthPlace>
+<deathPlace />
+<professionOrOccupation>
+<XML_Serializer_Tag>Moderator</XML_Serializer_Tag>
+<XML_Serializer_Tag>Literaturwissenschaftler</XML_Serializer_Tag>
+<XML_Serializer_Tag>Musiker</XML_Serializer_Tag>
+<XML_Serializer_Tag>Filmproduzent</XML_Serializer_Tag>
+<XML_Serializer_Tag>Regisseur</XML_Serializer_Tag>
+<XML_Serializer_Tag>Sprecher</XML_Serializer_Tag>
+<XML_Serializer_Tag>Herausgeber</XML_Serializer_Tag>
+<XML_Serializer_Tag>Schriftsteller</XML_Serializer_Tag>
+<XML_Serializer_Tag>Schauspieler</XML_Serializer_Tag>
+</professionOrOccupation>
+<dbpResource>http://dbpedia.org/resource/Roger_Willemsen</dbpResource>
+<abstract>Roger Willemsen (* 15. August 1955 in Bonn) ist ein deutscher Publizist und Fernsehmoderator.</abstract>
+<wikilink>http://en.wikipedia.org/wiki/Roger_Willemsen?oldid=578746012</wikilink>
+<artworks />
+<buildings />
+<books />
+</Person>

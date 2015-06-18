@@ -1,0 +1,46 @@
+<Person>
+<name>Alain Robbe-Grillet</name>
+<variantName>
+<XML_Serializer_Tag>Alain Robbe Grillet</XML_Serializer_Tag>
+<XML_Serializer_Tag>Alain Robbe-Grillet</XML_Serializer_Tag>
+<XML_Serializer_Tag>Alain R.-Grillet</XML_Serializer_Tag>
+</variantName>
+<thumbnail>https://commons.wikimedia.org/wiki/Special:FilePath/Alain_Robbe-Grillet.jpg?width=270</thumbnail>
+<birthEN>August 18, 1922</birthEN>
+<birthDE>18. August 1922</birthDE>
+<deathEN>February 18, 2008</deathEN>
+<deathDE>18. Februar 2008</deathDE>
+<birthPlace>
+<XML_Serializer_Tag>Brest (Frankreich)</XML_Serializer_Tag>
+</birthPlace>
+<deathPlace>
+<XML_Serializer_Tag>Caen</XML_Serializer_Tag>
+</deathPlace>
+<professionOrOccupation>
+<XML_Serializer_Tag>Schriftsteller</XML_Serializer_Tag>
+<XML_Serializer_Tag>Drehbuchautor</XML_Serializer_Tag>
+<XML_Serializer_Tag>Regisseur</XML_Serializer_Tag>
+<XML_Serializer_Tag>Filmemacher</XML_Serializer_Tag>
+</professionOrOccupation>
+<dbpResource>http://dbpedia.org/resource/Alain_Robbe-Grillet</dbpResource>
+<abstract>Alain Robbe-Grillet (* 18. August 1922 in Brest; † 18. Februar 2008 in Caen) war ein französischer Agraringenieur, Filmemacher, Schriftsteller und Mitglied der Académie française.</abstract>
+<wikilink>http://en.wikipedia.org/wiki/Alain_Robbe-Grillet?oldid=606615899</wikilink>
+<artworks />
+<buildings />
+<books>
+<XML_Serializer_Tag>
+<book>
+<type>uri</type>
+<value>http://dbpedia.org/resource/Djinn_(novel)</value>
+</book>
+<author>
+<type>uri</type>
+<value>http://dbpedia.org/resource/Alain_Robbe-Grillet</value>
+</author>
+<wikilink>
+<type>uri</type>
+<value>http://en.wikipedia.org/wiki/Djinn_(novel)?oldid=545014256</value>
+</wikilink>
+</XML_Serializer_Tag>
+</books>
+</Person>

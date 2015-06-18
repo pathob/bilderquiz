@@ -1,0 +1,29 @@
+<Person>
+<name>Paul Schuitema</name>
+<variantName>
+<XML_Serializer_Tag>Geert Paul Hendrik Schuitema</XML_Serializer_Tag>
+</variantName>
+<thumbnail>https://en.wikipedia.org/wiki/Special:FilePath/Schuitema_portrait.jpg?width=270</thumbnail>
+<birthEN>February 27, 1897</birthEN>
+<birthDE>27. Februar 1897</birthDE>
+<deathEN>October 25, 1973</deathEN>
+<deathDE>25. Oktober 1973</deathDE>
+<birthPlace>
+<XML_Serializer_Tag>Groningen</XML_Serializer_Tag>
+</birthPlace>
+<deathPlace>
+<XML_Serializer_Tag>Wassenaar</XML_Serializer_Tag>
+</deathPlace>
+<professionOrOccupation>
+<XML_Serializer_Tag>Künstler</XML_Serializer_Tag>
+<XML_Serializer_Tag>Designer</XML_Serializer_Tag>
+<XML_Serializer_Tag>Photograph</XML_Serializer_Tag>
+<XML_Serializer_Tag>Graphiker</XML_Serializer_Tag>
+</professionOrOccupation>
+<dbpResource>http://dbpedia.org/resource/Paul_Schuitema</dbpResource>
+<abstract>Geert Paul Hendrikus Schuitema (* 27. Februar 1897 in Groningen; † 25. Oktober 1973 in Wassenaar) war ein niederländischer Graphik-Designer. Er entwarf auch Möbel, plante Ausstellungen und arbeitete als Fotograf, Filmdirektor, Maler. Zwischen 1932 und 1962 war er Dozent für Reklame-Entwurf und Fotografie an der Königlichen Akademie für bildende Kunst in Den Haag.Schuitema gehörte in den 1920er und 1930er Jahren mit Piet Zwart und Gerard Kiljan in den Niederlanden zu den Pionieren der Neuen Typographie und Neuen Photographie und gilt als einer der niederländischen Vertreter der Moderne.Im Jahr 1964 wurden Arbeiten von ihm auf der documenta III in Kassel in der Abteilung Graphik gezeigt.</abstract>
+<wikilink>http://en.wikipedia.org/wiki/Paul_Schuitema?oldid=604041036</wikilink>
+<artworks />
+<buildings />
+<books />
+</Person>

@@ -15,12 +15,15 @@
 <professionOrOccupation>
 <XML_Serializer_Tag>Maler</XML_Serializer_Tag>
 </professionOrOccupation>
+<dbpResource>http://dbpedia.org/resource/Alfred_Sisley</dbpResource>
+<abstract>Alfred Arthur Sisley (* 30. Oktober 1839 in Paris; † 29. Januar 1899 in Moret-sur-Loing) war ein Maler des Impressionismus.</abstract>
+<wikilink>http://en.wikipedia.org/wiki/Alfred_Sisley?oldid=606023654</wikilink>
 <artworks>
 <XML_Serializer_Tag>
-<painting>
+<artwork>
 <type>uri</type>
 <value>http://dbpedia.org/resource/The_Terrace_at_Saint-Germain,_Spring_(painting)</value>
-</painting>
+</artwork>
 <thumbnail>
 <type>uri</type>
 <value>http://commons.wikimedia.org/wiki/Special:FilePath/Alfred_Sisley_-_The_Terrace_at_Saint-Germain,_Spring_-_Walters_37992.jpg?width=300</value>
@@ -39,9 +42,13 @@
 <type>uri</type>
 <value>http://en.wikipedia.org/wiki/The_Terrace_at_Saint-Germain,_Spring_(painting)?oldid=589961620</value>
 </wikilink>
+<type>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>Oil on canvas</value>
+</type>
 </XML_Serializer_Tag>
 </artworks>
-<dbpResource>http://dbpedia.org/resource/Alfred_Sisley</dbpResource>
-<abstract>Alfred Arthur Sisley (* 30. Oktober 1839 in Paris; † 29. Januar 1899 in Moret-sur-Loing) war ein Maler des Impressionismus.</abstract>
-<wikilink>http://en.wikipedia.org/wiki/Alfred_Sisley?oldid=606023654</wikilink>
+<buildings />
+<books />
 </Person>

@@ -1,0 +1,30 @@
+<Person>
+<name>Friedrich Naumann</name>
+<variantName>
+<XML_Serializer_Tag>Fr. Naumann</XML_Serializer_Tag>
+</variantName>
+<thumbnail>https://commons.wikimedia.org/wiki/Special:FilePath/Friedrich_Naumann_1886.jpg?width=270</thumbnail>
+<birthEN>March 25, 1860</birthEN>
+<birthDE>25. März 1860</birthDE>
+<deathEN>August 24, 1919</deathEN>
+<deathDE>24. August 1919</deathDE>
+<birthPlace>
+<XML_Serializer_Tag>Störmthal</XML_Serializer_Tag>
+</birthPlace>
+<deathPlace>
+<XML_Serializer_Tag>Travemünde</XML_Serializer_Tag>
+</deathPlace>
+<professionOrOccupation>
+<XML_Serializer_Tag>Politiker</XML_Serializer_Tag>
+<XML_Serializer_Tag>Evangelischer Theologe</XML_Serializer_Tag>
+<XML_Serializer_Tag>Pfarrer</XML_Serializer_Tag>
+<XML_Serializer_Tag>Schriftsteller</XML_Serializer_Tag>
+<XML_Serializer_Tag>Publizist</XML_Serializer_Tag>
+</professionOrOccupation>
+<dbpResource>http://dbpedia.org/resource/Friedrich_Naumann</dbpResource>
+<abstract>Friedrich Naumann (* 25. März 1860 im Pfarrhaus in Störmthal, heute Teil von Großpösna bei Leipzig; † 24. August 1919 in Travemünde) war evangelischer Theologe, liberaler Politiker zur Zeit des Deutschen Kaiserreichs und Mitbegründer des Deutschen Werkbunds. Nach ihm ist die FDP-nahe Friedrich-Naumann-Stiftung für die Freiheit benannt.</abstract>
+<wikilink>http://en.wikipedia.org/wiki/Friedrich_Naumann?oldid=592992786</wikilink>
+<artworks />
+<buildings />
+<books />
+</Person>

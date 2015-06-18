@@ -1,0 +1,35 @@
+<Person>
+<name>Giambattista Vico</name>
+<variantName>
+<XML_Serializer_Tag>Gian Battista Vico</XML_Serializer_Tag>
+<XML_Serializer_Tag>Gian B. Vico</XML_Serializer_Tag>
+<XML_Serializer_Tag>G. B. Vico</XML_Serializer_Tag>
+<XML_Serializer_Tag>Giovanni Battista Vico</XML_Serializer_Tag>
+<XML_Serializer_Tag>Giovan Battista Vico</XML_Serializer_Tag>
+<XML_Serializer_Tag>Giovanni Battista Vico</XML_Serializer_Tag>
+<XML_Serializer_Tag>Giambatista de Vico</XML_Serializer_Tag>
+<XML_Serializer_Tag>Giovanni B. Vico</XML_Serializer_Tag>
+<XML_Serializer_Tag>Juan B. Vico</XML_Serializer_Tag>
+<XML_Serializer_Tag>Juan Bautista Vico</XML_Serializer_Tag>
+<XML_Serializer_Tag>Jean-Baptiste Vico</XML_Serializer_Tag>
+<XML_Serializer_Tag>Jean B. Vico</XML_Serializer_Tag>
+<XML_Serializer_Tag>Johannes B. Vico</XML_Serializer_Tag>
+<XML_Serializer_Tag>Johannes B. Vicus</XML_Serializer_Tag>
+</variantName>
+<thumbnail>https://commons.wikimedia.org/wiki/Special:FilePath/Giovan_Battista_Vico.jpg?width=270</thumbnail>
+<birthEN>1668</birthEN>
+<birthDE>1668</birthDE>
+<deathEN>1744</deathEN>
+<deathDE>1744</deathDE>
+<birthPlace />
+<deathPlace />
+<professionOrOccupation>
+<XML_Serializer_Tag>Philosoph</XML_Serializer_Tag>
+</professionOrOccupation>
+<dbpResource>http://dbpedia.org/resource/Giambattista_Vico</dbpResource>
+<abstract>Giambattista (auch Giovan Battista) Vico (* 23. Juni 1668 in Neapel; † 23. Januar 1744 ebenda) war ein italienischer Geschichts- und Rechtsphilosoph, der sich mit dem Auf- und Niedergang von Zivilisationen auseinandersetzte.</abstract>
+<wikilink>http://en.wikipedia.org/wiki/Giambattista_Vico?oldid=598664549</wikilink>
+<artworks />
+<buildings />
+<books />
+</Person>

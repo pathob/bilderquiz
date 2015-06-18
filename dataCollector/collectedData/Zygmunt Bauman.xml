@@ -1,0 +1,27 @@
+<Person>
+<name>Zygmunt Bauman</name>
+<variantName>
+<XML_Serializer_Tag>Zigmunt Bauman</XML_Serializer_Tag>
+<XML_Serializer_Tag>Zygmunt Baumann</XML_Serializer_Tag>
+</variantName>
+<thumbnail>https://commons.wikimedia.org/wiki/Special:FilePath/Zygmunt_Bauman_by_Kubik.JPG?width=270</thumbnail>
+<birthEN>1925</birthEN>
+<birthDE>1925</birthDE>
+<deathEN />
+<deathDE />
+<birthPlace>
+<XML_Serializer_Tag>Posen</XML_Serializer_Tag>
+</birthPlace>
+<deathPlace />
+<professionOrOccupation>
+<XML_Serializer_Tag>Soziologe</XML_Serializer_Tag>
+<XML_Serializer_Tag>Philosoph</XML_Serializer_Tag>
+<XML_Serializer_Tag>Hochschullehrer</XML_Serializer_Tag>
+</professionOrOccupation>
+<dbpResource>http://dbpedia.org/resource/Zygmunt_Bauman</dbpResource>
+<abstract>Zygmunt Bauman (* 19. November 1925 in Posen, Polen) ist ein polnisch-britischer Soziologe und Philosoph.</abstract>
+<wikilink>http://en.wikipedia.org/wiki/Zygmunt_Bauman?oldid=606597060</wikilink>
+<artworks />
+<buildings />
+<books />
+</Person>

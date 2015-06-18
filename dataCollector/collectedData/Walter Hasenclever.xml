@@ -1,0 +1,31 @@
+<Person>
+<name>Walter Hasenclever</name>
+<variantName>
+<XML_Serializer_Tag>Walter Georg Alexander Hasenclever</XML_Serializer_Tag>
+<XML_Serializer_Tag>Axel Kjellstöm</XML_Serializer_Tag>
+</variantName>
+<thumbnail>https://commons.wikimedia.org/wiki/Special:FilePath/2007-03-06_Gedenktafel_Hasenclever.jpg?width=270</thumbnail>
+<birthEN>July 8, 1890</birthEN>
+<birthDE>8. Juli 1890</birthDE>
+<deathEN>June 23, 1940</deathEN>
+<deathDE>23. Juni 1940</deathDE>
+<birthPlace>
+<XML_Serializer_Tag>Aachen</XML_Serializer_Tag>
+</birthPlace>
+<deathPlace>
+<XML_Serializer_Tag>Les Milles</XML_Serializer_Tag>
+</deathPlace>
+<professionOrOccupation>
+<XML_Serializer_Tag>Lyriker</XML_Serializer_Tag>
+<XML_Serializer_Tag>Dramatiker</XML_Serializer_Tag>
+<XML_Serializer_Tag>Schriftsteller</XML_Serializer_Tag>
+<XML_Serializer_Tag>Drehbuchautor</XML_Serializer_Tag>
+<XML_Serializer_Tag>Schauspieler</XML_Serializer_Tag>
+</professionOrOccupation>
+<dbpResource>http://dbpedia.org/resource/Walter_Hasenclever</dbpResource>
+<abstract>Walter Hasenclever (* 8. Juli 1890 in Aachen; † 21. Juni 1940 in Les Milles bei Aix-en-Provence) war ein expressionistischer deutscher Schriftsteller.</abstract>
+<wikilink>http://en.wikipedia.org/wiki/Walter_Hasenclever?oldid=580751687</wikilink>
+<artworks />
+<buildings />
+<books />
+</Person>

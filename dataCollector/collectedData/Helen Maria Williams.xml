@@ -1,0 +1,48 @@
+<Person>
+<name>Helen Maria Williams</name>
+<variantName>
+<XML_Serializer_Tag>Helena Maria Williams</XML_Serializer_Tag>
+<XML_Serializer_Tag>Hélène-Maria Williams</XML_Serializer_Tag>
+<XML_Serializer_Tag>Hélène-Marie Williams</XML_Serializer_Tag>
+<XML_Serializer_Tag>Helen M. Williams</XML_Serializer_Tag>
+<XML_Serializer_Tag>Hélène Marie Williams</XML_Serializer_Tag>
+<XML_Serializer_Tag>Helen Williams</XML_Serializer_Tag>
+<XML_Serializer_Tag>... Williams</XML_Serializer_Tag>
+<XML_Serializer_Tag>Helene Marie Williams</XML_Serializer_Tag>
+</variantName>
+<thumbnail>https://commons.wikimedia.org/wiki/Special:FilePath/HelenMariaWilliams.jpg?width=270</thumbnail>
+<birthEN>1762</birthEN>
+<birthDE>1762</birthDE>
+<deathEN>1827</deathEN>
+<deathDE>1827</deathDE>
+<birthPlace />
+<deathPlace />
+<professionOrOccupation>
+<XML_Serializer_Tag>Schriftstellerin</XML_Serializer_Tag>
+</professionOrOccupation>
+<dbpResource>http://dbpedia.org/resource/Helen_Maria_Williams</dbpResource>
+<abstract>Helen Maria Williams (* 1762; † 1827) war eine britische Schriftstellerin, Dichterin und Übersetzerin französischsprachiger Werke.</abstract>
+<wikilink>http://en.wikipedia.org/wiki/Helen_Maria_Williams?oldid=599883499</wikilink>
+<artworks />
+<buildings />
+<books>
+<XML_Serializer_Tag>
+<book>
+<type>uri</type>
+<value>http://dbpedia.org/resource/Letters_Written_in_France</value>
+</book>
+<author>
+<type>uri</type>
+<value>http://dbpedia.org/resource/Helen_Maria_Williams</value>
+</author>
+<thumbnail>
+<type>uri</type>
+<value>http://commons.wikimedia.org/wiki/Special:FilePath/Fete_federation.jpg?width=300</value>
+</thumbnail>
+<wikilink>
+<type>uri</type>
+<value>http://en.wikipedia.org/wiki/Letters_Written_in_France?oldid=592241157</value>
+</wikilink>
+</XML_Serializer_Tag>
+</books>
+</Person>

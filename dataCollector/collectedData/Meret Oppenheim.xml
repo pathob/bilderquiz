@@ -1,0 +1,32 @@
+<Person>
+<name>Meret Oppenheim</name>
+<variantName>
+<XML_Serializer_Tag>Meret Elisabeth Oppenheim</XML_Serializer_Tag>
+<XML_Serializer_Tag>Meret La Roche-Oppenheim</XML_Serializer_Tag>
+<XML_Serializer_Tag>Meret LaRoche-Oppenheim</XML_Serializer_Tag>
+<XML_Serializer_Tag>Meret LaRoche-Oppenheim</XML_Serializer_Tag>
+</variantName>
+<thumbnail>https://commons.wikimedia.org/wiki/Special:FilePath/Kantopp.jpg?width=270</thumbnail>
+<birthEN>October 6, 1913</birthEN>
+<birthDE>6. Oktober 1913</birthDE>
+<deathEN>November 15, 1985</deathEN>
+<deathDE>15. November 1985</deathDE>
+<birthPlace>
+<XML_Serializer_Tag>Berlin</XML_Serializer_Tag>
+</birthPlace>
+<deathPlace>
+<XML_Serializer_Tag>Basel</XML_Serializer_Tag>
+</deathPlace>
+<professionOrOccupation>
+<XML_Serializer_Tag>Künstlerin</XML_Serializer_Tag>
+<XML_Serializer_Tag>Malerin</XML_Serializer_Tag>
+<XML_Serializer_Tag>Objektkünstlerin</XML_Serializer_Tag>
+<XML_Serializer_Tag>Schriftstellerin</XML_Serializer_Tag>
+</professionOrOccupation>
+<dbpResource>http://dbpedia.org/resource/M%C3%A9ret_Oppenheim</dbpResource>
+<abstract>Meret Elisabeth Oppenheim (* 6. Oktober 1913 in Charlottenburg, heute Berlin; † 15. November 1985 in Basel) war eine deutsch-schweizerische Künstlerin und Lyrikerin. Sie war eine der wichtigsten Vertreterinnen des magischen Surrealismus.</abstract>
+<wikilink>http://en.wikipedia.org/wiki/Méret_Oppenheim?oldid=580554847</wikilink>
+<artworks />
+<buildings />
+<books />
+</Person>

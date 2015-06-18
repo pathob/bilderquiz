@@ -1,0 +1,28 @@
+<Person>
+<name>Jan Wolkers</name>
+<variantName>
+<XML_Serializer_Tag>Jan Hendrik Wolkers</XML_Serializer_Tag>
+<XML_Serializer_Tag>Jan Volkers</XML_Serializer_Tag>
+</variantName>
+<thumbnail>https://commons.wikimedia.org/wiki/Special:FilePath/Jan_Wolkers-standing.jpg?width=270</thumbnail>
+<birthEN>October 26, 1925</birthEN>
+<birthDE>26. Oktober 1925</birthDE>
+<deathEN>October 19, 2007</deathEN>
+<deathDE>19. Oktober 2007</deathDE>
+<birthPlace>
+<XML_Serializer_Tag>Oegstgeest</XML_Serializer_Tag>
+</birthPlace>
+<deathPlace>
+<XML_Serializer_Tag>Westermient, Texel</XML_Serializer_Tag>
+</deathPlace>
+<professionOrOccupation>
+<XML_Serializer_Tag>Schriftsteller</XML_Serializer_Tag>
+<XML_Serializer_Tag>Künstler</XML_Serializer_Tag>
+</professionOrOccupation>
+<dbpResource>http://dbpedia.org/resource/Jan_Wolkers</dbpResource>
+<abstract>Jan Hendrik Wolkers (* 26. Oktober 1925 in Oegstgeest; † 19. Oktober 2007 in Westermient auf Texel) war ein niederländischer Schriftsteller und Künstler. Für die niederländische Nachkriegsliteratur wurde er als einer von De Grote Vier (Die großen Vier) bezeichnet. De Grote Vier bestehen aus Willem Frederik Hermans, Harry Mulisch, Gerard Reve und Jan Wolkers.</abstract>
+<wikilink>http://en.wikipedia.org/wiki/Jan_Wolkers?oldid=600502741</wikilink>
+<artworks />
+<buildings />
+<books />
+</Person>

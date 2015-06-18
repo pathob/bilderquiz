@@ -1,0 +1,77 @@
+<Person>
+<name>Andy Warhol</name>
+<variantName>
+<XML_Serializer_Tag>Andrew Warhola</XML_Serializer_Tag>
+<XML_Serializer_Tag>Andrew Warhola</XML_Serializer_Tag>
+</variantName>
+<thumbnail>https://commons.wikimedia.org/wiki/Special:FilePath/Andy_Warhol_1977.jpg?width=270</thumbnail>
+<birthEN>August 8, 1927</birthEN>
+<birthDE>8. August 1927</birthDE>
+<deathEN>February 22, 1987</deathEN>
+<deathDE>22. Februar 1987</deathDE>
+<birthPlace>
+<XML_Serializer_Tag>Pittsburgh, Pa.</XML_Serializer_Tag>
+</birthPlace>
+<deathPlace>
+<XML_Serializer_Tag>New York, NY</XML_Serializer_Tag>
+</deathPlace>
+<professionOrOccupation>
+<XML_Serializer_Tag>Künstler</XML_Serializer_Tag>
+<XML_Serializer_Tag>Photograph</XML_Serializer_Tag>
+<XML_Serializer_Tag>Filmregisseur</XML_Serializer_Tag>
+<XML_Serializer_Tag>Drehbuchautor</XML_Serializer_Tag>
+<XML_Serializer_Tag>Regisseur</XML_Serializer_Tag>
+<XML_Serializer_Tag>Mitwirkung</XML_Serializer_Tag>
+</professionOrOccupation>
+<dbpResource>http://dbpedia.org/resource/Andy_Warhol</dbpResource>
+<abstract>Andy Warhol [ˈændi ˈwɔːɹhɔl] (* 6. August 1928 in Pittsburgh, PA; † 22. Februar 1987 in New York City; eigentlich Andrej Warhola) war ein US-amerikanischer Grafiker, Künstler, Filmemacher und Verleger sowie Mitbegründer und bedeutendster Vertreter der US-amerikanischen Pop Art. Seine Karriere begann bereits in den 1950er Jahren als Illustrator für Mode-, Hochglanz- und Lifestylemagazine und entwickelte sich schnell. Er hinterließ ein umfangreiches Gesamtwerk, das von einfachen Werbegrafiken bis zu Gemälden, Objekten, Filmen und Büchern reicht. Zudem war er auch als Musikproduzent tätig.</abstract>
+<wikilink>http://en.wikipedia.org/wiki/Andy_Warhol?oldid=604230172</wikilink>
+<artworks>
+<XML_Serializer_Tag>
+<artwork>
+<type>uri</type>
+<value>http://dbpedia.org/resource/Portrait_of_Seymour_H._Knox</value>
+</artwork>
+<thumbnail>
+<type>uri</type>
+<value>http://commons.wikimedia.org/wiki/Special:FilePath/Seymour_Knox_III,_II,_and_IV.jpg?width=300</value>
+</thumbnail>
+<name>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>Portrait of Seymour H. Knox</value>
+</name>
+<year>
+<type>typed-literal</type>
+<datatype>http://www.w3.org/2001/XMLSchema#integer</datatype>
+<value>1985</value>
+</year>
+<wikilink>
+<type>uri</type>
+<value>http://en.wikipedia.org/wiki/Portrait_of_Seymour_H._Knox?oldid=586427112</value>
+</wikilink>
+<type>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>Acrylic on canvas</value>
+</type>
+</XML_Serializer_Tag>
+</artworks>
+<buildings />
+<books>
+<XML_Serializer_Tag>
+<book>
+<type>uri</type>
+<value>http://dbpedia.org/resource/A,_A_Novel</value>
+</book>
+<author>
+<type>uri</type>
+<value>http://dbpedia.org/resource/Andy_Warhol</value>
+</author>
+<wikilink>
+<type>uri</type>
+<value>http://en.wikipedia.org/wiki/A,_A_Novel?oldid=606462638</value>
+</wikilink>
+</XML_Serializer_Tag>
+</books>
+</Person>

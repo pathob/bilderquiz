@@ -1,0 +1,40 @@
+<Person>
+<name>Robert Gernhardt</name>
+<variantName>
+<XML_Serializer_Tag>Robert J. Gernhardt</XML_Serializer_Tag>
+<XML_Serializer_Tag>Robert Jeman Gernhardt</XML_Serializer_Tag>
+<XML_Serializer_Tag>... Gernhardt-Bernstein-Waechter</XML_Serializer_Tag>
+<XML_Serializer_Tag>Roberuto Gerunhāto</XML_Serializer_Tag>
+<XML_Serializer_Tag>Paul H. Burg</XML_Serializer_Tag>
+<XML_Serializer_Tag>A. Karch</XML_Serializer_Tag>
+<XML_Serializer_Tag>Alfred Karch</XML_Serializer_Tag>
+<XML_Serializer_Tag>Arthur Klett</XML_Serializer_Tag>
+<XML_Serializer_Tag>Lützel Jeman</XML_Serializer_Tag>
+</variantName>
+<thumbnail>https://commons.wikimedia.org/wiki/Special:FilePath/Robert_gernhardt.jpg?width=270</thumbnail>
+<birthEN>December 13, 1937</birthEN>
+<birthDE>13. Dezember 1937</birthDE>
+<deathEN>June 30, 2006</deathEN>
+<deathDE>30. Juni 2006</deathDE>
+<birthPlace>
+<XML_Serializer_Tag>Reval</XML_Serializer_Tag>
+</birthPlace>
+<deathPlace>
+<XML_Serializer_Tag>Frankfurt am Main</XML_Serializer_Tag>
+</deathPlace>
+<professionOrOccupation>
+<XML_Serializer_Tag>Künstler</XML_Serializer_Tag>
+<XML_Serializer_Tag>Lyriker</XML_Serializer_Tag>
+<XML_Serializer_Tag>Sprecher</XML_Serializer_Tag>
+<XML_Serializer_Tag>Herausgeber</XML_Serializer_Tag>
+<XML_Serializer_Tag>Schriftsteller</XML_Serializer_Tag>
+<XML_Serializer_Tag>Drehbuchautor</XML_Serializer_Tag>
+<XML_Serializer_Tag>Regisseur</XML_Serializer_Tag>
+</professionOrOccupation>
+<dbpResource>http://dbpedia.org/resource/Robert_Gernhardt</dbpResource>
+<abstract>Robert Gernhardt (* 13. Dezember 1937 in Tallinn (deutsch Reval), Estland; † 30. Juni 2006 in Frankfurt am Main) war ein deutscher Schriftsteller, Zeichner und Maler.</abstract>
+<wikilink>http://en.wikipedia.org/wiki/Robert_Gernhardt?oldid=586386486</wikilink>
+<artworks />
+<buildings />
+<books />
+</Person>

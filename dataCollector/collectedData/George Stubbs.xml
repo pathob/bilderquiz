@@ -15,12 +15,15 @@
 <professionOrOccupation>
 <XML_Serializer_Tag>Maler</XML_Serializer_Tag>
 </professionOrOccupation>
+<dbpResource>http://dbpedia.org/resource/George_Stubbs</dbpResource>
+<abstract>George Stubbs RA (* 25. August 1724 in Liverpool; † 10. Juli 1806 in London) war ein englischer Maler und Wissenschaftler.Stubbs gilt als einer der bedeutendsten europäischen Maler von Tieren. Darüber hinaus war er Dozent für Anatomie der Menschen und der Tiere am Krankenhaus von York und veröffentlichte mehrere wissenschaftliche Werke, darunter das Buch „Die Anatomie des Pferdes“. Typisch für Stubbs&apos; Gemälde ist der wissenschaftliche Ansatz bei der Wiedergabe seiner Tiermotive, was die Einzigartigkeit und die Bedeutung des Künstlers ausmacht.</abstract>
+<wikilink>http://en.wikipedia.org/wiki/George_Stubbs?oldid=606221672</wikilink>
 <artworks>
 <XML_Serializer_Tag>
-<painting>
+<artwork>
 <type>uri</type>
 <value>http://dbpedia.org/resource/Whistlejacket</value>
-</painting>
+</artwork>
 <thumbnail>
 <type>uri</type>
 <value>http://en.wikipedia.org/wiki/Special:FilePath/Whistlejacket_by_George_Stubbs_edit.jpg?width=300</value>
@@ -39,12 +42,17 @@
 <type>uri</type>
 <value>http://en.wikipedia.org/wiki/Whistlejacket?oldid=603909349</value>
 </wikilink>
+<type>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>Oil-on-canvas</value>
+</type>
 </XML_Serializer_Tag>
 <XML_Serializer_Tag>
-<painting>
+<artwork>
 <type>uri</type>
 <value>http://dbpedia.org/resource/The_Kongouro_from_New_Holland</value>
-</painting>
+</artwork>
 <thumbnail>
 <type>uri</type>
 <value>http://commons.wikimedia.org/wiki/Special:FilePath/George_Stubbs,_A_portrait_of_the_Kongouro_(Kangaroo)_from_New_Holland,_1772.jpg?width=300</value>
@@ -63,12 +71,17 @@
 <type>uri</type>
 <value>http://en.wikipedia.org/wiki/The_Kongouro_from_New_Holland?oldid=597941317</value>
 </wikilink>
+<type>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>Oil painting</value>
+</type>
 </XML_Serializer_Tag>
 <XML_Serializer_Tag>
-<painting>
+<artwork>
 <type>uri</type>
 <value>http://dbpedia.org/resource/Portrait_of_a_Large_Dog</value>
-</painting>
+</artwork>
 <thumbnail>
 <type>uri</type>
 <value>http://commons.wikimedia.org/wiki/Special:FilePath/George_Stubbs,_A_portrait_of_a_large_Dog_from_New_Holland_(Dingo),_1772.jpg?width=300</value>
@@ -87,9 +100,13 @@
 <type>uri</type>
 <value>http://en.wikipedia.org/wiki/Portrait_of_a_Large_Dog?oldid=590287144</value>
 </wikilink>
+<type>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>Oil painting</value>
+</type>
 </XML_Serializer_Tag>
 </artworks>
-<dbpResource>http://dbpedia.org/resource/George_Stubbs</dbpResource>
-<abstract>George Stubbs RA (* 25. August 1724 in Liverpool; † 10. Juli 1806 in London) war ein englischer Maler und Wissenschaftler.Stubbs gilt als einer der bedeutendsten europäischen Maler von Tieren. Darüber hinaus war er Dozent für Anatomie der Menschen und der Tiere am Krankenhaus von York und veröffentlichte mehrere wissenschaftliche Werke, darunter das Buch „Die Anatomie des Pferdes“. Typisch für Stubbs&apos; Gemälde ist der wissenschaftliche Ansatz bei der Wiedergabe seiner Tiermotive, was die Einzigartigkeit und die Bedeutung des Künstlers ausmacht.</abstract>
-<wikilink>http://en.wikipedia.org/wiki/George_Stubbs?oldid=606221672</wikilink>
+<buildings />
+<books />
 </Person>

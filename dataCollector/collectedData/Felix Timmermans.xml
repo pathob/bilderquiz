@@ -24,8 +24,10 @@
 <XML_Serializer_Tag>Künstler</XML_Serializer_Tag>
 <XML_Serializer_Tag>Kunstkritiker</XML_Serializer_Tag>
 </professionOrOccupation>
-<artworks />
 <dbpResource>http://dbpedia.org/resource/Felix_Timmermans</dbpResource>
 <abstract>Felix Timmermans (* 5. Juli 1886 in Lier bei Antwerpen; † 24. Januar 1947 in Lier) war ein flämischer Schriftsteller und Maler.</abstract>
 <wikilink>http://en.wikipedia.org/wiki/Felix_Timmermans?oldid=606003679</wikilink>
+<artworks />
+<buildings />
+<books />
 </Person>

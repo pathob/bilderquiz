@@ -1,0 +1,29 @@
+<Person>
+<name>Axel Munthe</name>
+<variantName>
+<XML_Serializer_Tag>Axel M. Munthe</XML_Serializer_Tag>
+<XML_Serializer_Tag>Axel Martin Fredrik Munthe</XML_Serializer_Tag>
+<XML_Serializer_Tag>Puck Munthe</XML_Serializer_Tag>
+</variantName>
+<thumbnail>https://commons.wikimedia.org/wiki/Special:FilePath/Axel_Munthe.jpg?width=270</thumbnail>
+<birthEN>October 31, 1857</birthEN>
+<birthDE>31. Oktober 1857</birthDE>
+<deathEN>February 11, 1949</deathEN>
+<deathDE>11. Februar 1949</deathDE>
+<birthPlace>
+<XML_Serializer_Tag>Oskarshamn</XML_Serializer_Tag>
+</birthPlace>
+<deathPlace>
+<XML_Serializer_Tag>Stockholm</XML_Serializer_Tag>
+</deathPlace>
+<professionOrOccupation>
+<XML_Serializer_Tag>Arzt</XML_Serializer_Tag>
+<XML_Serializer_Tag>Schriftsteller</XML_Serializer_Tag>
+</professionOrOccupation>
+<dbpResource>http://dbpedia.org/resource/Axel_Munthe</dbpResource>
+<abstract>Axel Martin Fredrik „Puck“ Munthe (Aussprache: [ˌakːsəl ˈmɵnːtə], * 31. Oktober 1857 in Oskarshamn; † 11. Februar 1949 in Stockholm) war ein schwedischer Arzt und Autor.</abstract>
+<wikilink>http://en.wikipedia.org/wiki/Axel_Munthe?oldid=605145741</wikilink>
+<artworks />
+<buildings />
+<books />
+</Person>

@@ -1,0 +1,22 @@
+<Person>
+<name>John Pawson</name>
+<variantName />
+<thumbnail>https://commons.wikimedia.org/wiki/Special:FilePath/John1-pawson3.jpg?width=270</thumbnail>
+<birthEN>1949</birthEN>
+<birthDE>1949</birthDE>
+<deathEN />
+<deathDE />
+<birthPlace>
+<XML_Serializer_Tag>Halifax (West Yorkshire)</XML_Serializer_Tag>
+</birthPlace>
+<deathPlace />
+<professionOrOccupation>
+<XML_Serializer_Tag>Architekt</XML_Serializer_Tag>
+</professionOrOccupation>
+<dbpResource>http://dbpedia.org/resource/John_Pawson</dbpResource>
+<abstract>John Pawson (* 6. Mai 1949 in Halifax, Yorkshire) ist ein britischer Architekt.</abstract>
+<wikilink>http://en.wikipedia.org/wiki/John_Pawson?oldid=582850880</wikilink>
+<artworks />
+<buildings />
+<books />
+</Person>

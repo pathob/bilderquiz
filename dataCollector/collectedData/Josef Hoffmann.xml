@@ -1,0 +1,93 @@
+<Person>
+<name>Josef Hoffmann</name>
+<variantName>
+<XML_Serializer_Tag>Josef Franz Maria Hoffmann</XML_Serializer_Tag>
+<XML_Serializer_Tag>Josef Hofmann</XML_Serializer_Tag>
+</variantName>
+<thumbnail>https://commons.wikimedia.org/wiki/Special:FilePath/Josef-Hoffmann.jpg?width=270</thumbnail>
+<birthEN>December 15, 1870</birthEN>
+<birthDE>15. Dezember 1870</birthDE>
+<deathEN>May 7, 1956</deathEN>
+<deathDE>7. Mai 1956</deathDE>
+<birthPlace>
+<XML_Serializer_Tag>Brtnice</XML_Serializer_Tag>
+</birthPlace>
+<deathPlace>
+<XML_Serializer_Tag>Wien</XML_Serializer_Tag>
+</deathPlace>
+<professionOrOccupation>
+<XML_Serializer_Tag>Architekt</XML_Serializer_Tag>
+<XML_Serializer_Tag>Designer</XML_Serializer_Tag>
+</professionOrOccupation>
+<dbpResource>http://dbpedia.org/resource/Josef_Hoffmann</dbpResource>
+<abstract>Josef Franz Maria Hoffmann (* 15. Dezember 1870 in Pirnitz, Österreich-Ungarn; † 7. Mai 1956 in Wien) war ein österreichischer Architekt und Designer. Mit Koloman Moser war er Gründungsmitglied und einer der Hauptvertreter der Wiener Werkstätte.</abstract>
+<wikilink>http://en.wikipedia.org/wiki/Josef_Hoffmann?oldid=599598085</wikilink>
+<artworks />
+<buildings>
+<XML_Serializer_Tag>
+<building>
+<type>uri</type>
+<value>http://dbpedia.org/resource/Stoclet_Palace</value>
+</building>
+<name>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>Stoclet Palace</value>
+</name>
+<architect>
+<type>uri</type>
+<value>http://dbpedia.org/resource/Josef_Hoffmann</value>
+</architect>
+<thumbnail>
+<type>uri</type>
+<value>http://en.wikipedia.org/wiki/Special:FilePath/Stoclet_Palace_Hoffmann_Brussels_1911.jpg?width=300</value>
+</thumbnail>
+<wikilink>
+<type>uri</type>
+<value>http://en.wikipedia.org/wiki/Stoclet_Palace?oldid=574768768</value>
+</wikilink>
+<location>
+<type>uri</type>
+<value>http://dbpedia.org/resource/Belgium</value>
+</location>
+<abstract>
+<type>literal</type>
+<xml:lang>de</xml:lang>
+<value>Das Palais Stoclet ist eine von 1905 bis 1911 im Stil der Wiener Secession erbaute Villa in Brüssel. Architekt war Josef Hoffmann; von Gustav Klimt stammt der Stoclet-Fries. Bauherr Adolphe Stoclet beauftragte Hoffmann, der anfangs auch noch mit dem Bau des Sanatoriums Purkersdorf bei Wien beschäftigt war, gemeinsam mit der für die künstlerische Ausgestaltung zuständigen Wiener Werkstätte ein Gesamtkunstwerk zu schaffen. Am sehr aufwändigen Gesamtkonzept waren dann neben Klimt zahlreiche weitere Wiener Künstler (u.a. Carl Otto Czeschka, Ludwig Heinrich Jungnickel, Emilie Schleiss-Simandl, Richard Luksch, Elena Luksch-Makowska und Franz Metzner) beteiligt. Gustav Klimt wurde in diesem Rahmen mit einem von der Mosaikwerkstätte Leopold Forstner gemeinsam mit Spezialisten auszuführenden Fries (dem in der Kunstgeschichte so genannten Stoclet-Fries) für den Speisesaal des Palais beauftragt. Klimt schuf die ersten Entwürfe bereits 1905, änderte aber sein Konzept später und zeichnete im Sommer 1908 in seiner Sommerresidenz am Attersee die Übertragungszeichnungen in Originalgröße (heute im Wiener Museum für angewandte Kunst). 1909 begannen Wiener Spezialisten, die Materialien für die Übertragung auszuprobieren. 1911 war Klimt bei der Übertragung seines Entwurfs auf die Wände des Speisesaals des Palais anwesend.Für die Ausführung des Palais Stoclet wurden überwiegend kostbare Materialien verwendet, wie etwa norwegischer Turili&lt;b /&gt;marmor für die Außenwände oder gelbbrauner italienischer Paonazzomarmor bei den Innenwänden. Vom belgischen Künstler George Minne stammen einzelne Skulpturen und Plastiken sowie von Fernand Khnopff farbige Zeichnungen für das Musikzimmer.Das Palais beeinflusste stilistisch unter anderem den Pariser Architekten Robert Mallet-Stevens, einen Neffen der Gattin von Adolphe Stoclet. Seit Ende Juni 2009 ist das Palais Stoclet Teil des UNESCO-Welterbes. Es ist nach wie vor in Privatbesitz und nicht öffentlich zugänglich.2012 publizierte Tobias G. Natter in dem von ihm herausgegebenen Klimt-Gemäldeverzeichnis erstmals und im Detail auf rund 80 Seiten Fotografien des Stocletfrieses in Farbe.</value>
+</abstract>
+</XML_Serializer_Tag>
+<XML_Serializer_Tag>
+<building>
+<type>uri</type>
+<value>http://dbpedia.org/resource/Sanatorium_Purkersdorf</value>
+</building>
+<name>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>Sanatorium Purkersdorf</value>
+</name>
+<architect>
+<type>uri</type>
+<value>http://dbpedia.org/resource/Josef_Hoffmann</value>
+</architect>
+<thumbnail>
+<type>uri</type>
+<value>http://commons.wikimedia.org/wiki/Special:FilePath/Sanatoriumpurkersdorf1-2.JPG?width=300</value>
+</thumbnail>
+<wikilink>
+<type>uri</type>
+<value>http://en.wikipedia.org/wiki/Sanatorium_Purkersdorf?oldid=600932187</value>
+</wikilink>
+<location>
+<type>uri</type>
+<value>http://dbpedia.org/resource/Purkersdorf</value>
+</location>
+<abstract>
+<type>literal</type>
+<xml:lang>de</xml:lang>
+<value>Das Sanatorium Purkersdorf ist ein als Sanatorium erbautes Gebäude in Purkersdorf. Es wurde 1904–05 vom Architekten Josef Hoffmann für den Generaldirektor der Schlesischen Eisenwerke Gleiwitz, Victor Zuckerkandl, erbaut und gilt als herausragendes Beispiel für Architektur im Stile der Wiener Secession.</value>
+</abstract>
+</XML_Serializer_Tag>
+</buildings>
+<books />
+</Person>

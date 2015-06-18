@@ -1,0 +1,114 @@
+<Person>
+<name>Harriet Beecher Stowe</name>
+<variantName>
+<XML_Serializer_Tag>Harriet Elizabeth Beecher-Stowe</XML_Serializer_Tag>
+<XML_Serializer_Tag>Harriet Elizabeth Beecher</XML_Serializer_Tag>
+<XML_Serializer_Tag>Henriette B. Stowe</XML_Serializer_Tag>
+<XML_Serializer_Tag>Harriet B. Stowe</XML_Serializer_Tag>
+<XML_Serializer_Tag>Harriet Elizabeth Beecher Stowe</XML_Serializer_Tag>
+<XML_Serializer_Tag>Harriet Stowe</XML_Serializer_Tag>
+<XML_Serializer_Tag>Harriet Beecher Stowe</XML_Serializer_Tag>
+<XML_Serializer_Tag>Harriet Beecher-Stowe</XML_Serializer_Tag>
+<XML_Serializer_Tag>H. Beecher-Stowe</XML_Serializer_Tag>
+<XML_Serializer_Tag>Harriet Beacher-Stowe</XML_Serializer_Tag>
+<XML_Serializer_Tag>H. Beecher Stowe</XML_Serializer_Tag>
+<XML_Serializer_Tag>H. Beecher Stowe</XML_Serializer_Tag>
+<XML_Serializer_Tag>Harriyet Bčer Sto</XML_Serializer_Tag>
+<XML_Serializer_Tag>... Situo</XML_Serializer_Tag>
+<XML_Serializer_Tag>Harriet Beecher</XML_Serializer_Tag>
+<XML_Serializer_Tag>Garriet Bičer-Stou</XML_Serializer_Tag>
+<XML_Serializer_Tag>Harriyet Bic̜er-Stou</XML_Serializer_Tag>
+<XML_Serializer_Tag>Бичер-Стоу, Гарриет</XML_Serializer_Tag>
+</variantName>
+<thumbnail>https://commons.wikimedia.org/wiki/Special:FilePath/Beecher-Stowe_3.jpg?width=270</thumbnail>
+<birthEN>June 14, 1811</birthEN>
+<birthDE>14. Juni 1811</birthDE>
+<deathEN>July 1, 1896</deathEN>
+<deathDE>1. Juli 1896</deathDE>
+<birthPlace>
+<XML_Serializer_Tag>Litchfield, Connecticut, USA</XML_Serializer_Tag>
+</birthPlace>
+<deathPlace>
+<XML_Serializer_Tag>Hartford, Conn.</XML_Serializer_Tag>
+</deathPlace>
+<professionOrOccupation>
+<XML_Serializer_Tag>Schriftstellerin</XML_Serializer_Tag>
+</professionOrOccupation>
+<dbpResource>http://dbpedia.org/resource/Harriet_Beecher_Stowe</dbpResource>
+<abstract>Harriet Beecher Stowe (geborene Harriet Elizabeth Beecher; * 14. Juni 1811 in Litchfield, Connecticut; † 1. Juli 1896 in Hartford, Connecticut) war eine US-amerikanische Schriftstellerin und erklärte Gegnerin der Sklaverei. Ihr Buch Onkel Toms Hütte aus dem Jahr 1852, ein Roman gegen die Sklaverei, und das gleichnamige Theaterstück erreichten ein Millionenpublikum.</abstract>
+<wikilink>http://en.wikipedia.org/wiki/Harriet_Beecher_Stowe?oldid=606536272</wikilink>
+<artworks />
+<buildings />
+<books>
+<XML_Serializer_Tag>
+<book>
+<type>uri</type>
+<value>http://dbpedia.org/resource/Dred:_A_Tale_of_the_Great_Dismal_Swamp</value>
+</book>
+<author>
+<type>uri</type>
+<value>http://dbpedia.org/resource/Harriet_Beecher_Stowe</value>
+</author>
+<thumbnail>
+<type>uri</type>
+<value>http://commons.wikimedia.org/wiki/Special:FilePath/Stowe_Dred_first_edition.jpg?width=300</value>
+</thumbnail>
+<released>
+<type>typed-literal</type>
+<datatype>http://www.w3.org/2001/XMLSchema#integer</datatype>
+<value>1856</value>
+</released>
+<wikilink>
+<type>uri</type>
+<value>http://en.wikipedia.org/wiki/Dred:_A_Tale_of_the_Great_Dismal_Swamp?oldid=581915059</value>
+</wikilink>
+</XML_Serializer_Tag>
+<XML_Serializer_Tag>
+<book>
+<type>uri</type>
+<value>http://dbpedia.org/resource/Uncle_Tom&apos;s_Cabin</value>
+</book>
+<author>
+<type>uri</type>
+<value>http://dbpedia.org/resource/Harriet_Beecher_Stowe</value>
+</author>
+<thumbnail>
+<type>uri</type>
+<value>http://commons.wikimedia.org/wiki/Special:FilePath/UncleTomsCabinCover.jpg?width=300</value>
+</thumbnail>
+<published>
+<type>typed-literal</type>
+<datatype>http://www.w3.org/2001/XMLSchema#date</datatype>
+<value>1852-03-20+02:00</value>
+</published>
+<wikilink>
+<type>uri</type>
+<value>http://en.wikipedia.org/wiki/Uncle_Tom&apos;s_Cabin?oldid=604742593</value>
+</wikilink>
+<abstract>
+<type>literal</type>
+<xml:lang>de</xml:lang>
+<value>Onkel Toms Hütte (engl. Uncle Tom’s Cabin) ist ein 1852 veröffentlichter Roman von Harriet Beecher Stowe, der das Schicksal einer Reihe afroamerikanischer Sklaven und ihrer Eigentümer in den vierziger Jahren des 19. Jahrhunderts in den Vereinigten Staaten von Amerika schildert.</value>
+</abstract>
+</XML_Serializer_Tag>
+<XML_Serializer_Tag>
+<book>
+<type>uri</type>
+<value>http://dbpedia.org/resource/The_Minister&apos;s_Wooing</value>
+</book>
+<author>
+<type>uri</type>
+<value>http://dbpedia.org/resource/Harriet_Beecher_Stowe</value>
+</author>
+<released>
+<type>typed-literal</type>
+<datatype>http://www.w3.org/2001/XMLSchema#integer</datatype>
+<value>1859</value>
+</released>
+<wikilink>
+<type>uri</type>
+<value>http://en.wikipedia.org/wiki/The_Minister&apos;s_Wooing?oldid=589344550</value>
+</wikilink>
+</XML_Serializer_Tag>
+</books>
+</Person>

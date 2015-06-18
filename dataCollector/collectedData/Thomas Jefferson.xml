@@ -1,0 +1,25 @@
+<Person>
+<name>Thomas Jefferson</name>
+<variantName />
+<thumbnail>https://commons.wikimedia.org/wiki/Special:FilePath/Thomas_Jefferson_by_Rembrandt_Peale,_1800.jpg?width=270</thumbnail>
+<birthEN>April 2, 1743</birthEN>
+<birthDE>2. April 1743</birthDE>
+<deathEN>July 4, 1826</deathEN>
+<deathDE>4. Juli 1826</deathDE>
+<birthPlace>
+<XML_Serializer_Tag>Shadwell Plantation, Va.</XML_Serializer_Tag>
+</birthPlace>
+<deathPlace>
+<XML_Serializer_Tag>Monticello, Va.</XML_Serializer_Tag>
+</deathPlace>
+<professionOrOccupation>
+<XML_Serializer_Tag>Politiker</XML_Serializer_Tag>
+<XML_Serializer_Tag>Architekt</XML_Serializer_Tag>
+</professionOrOccupation>
+<dbpResource>http://dbpedia.org/resource/Thomas_Jefferson_(athlete)</dbpResource>
+<abstract>Thomas Theodore Jefferson (* 8. Juni 1962) ist ein ehemaliger US-amerikanischer Leichtathlet und Olympiateilnehmer.Jefferson gewann bei den Olympischen Spielen 1984 in Los Angeles in persönlicher Bestzeit von 20,26 s die Bronzemedaille im 200-Meter-Lauf hinter den beiden anderen US-Amerikanern Carl Lewis (Gold) und Kirk Baptiste (Silber).Bei einer Körpergröße von 1,83 m betrug sein Wettkampfgewicht 75 kg.</abstract>
+<wikilink>http://en.wikipedia.org/wiki/Thomas_Jefferson_(athlete)?oldid=540857877</wikilink>
+<artworks />
+<buildings />
+<books />
+</Person>

@@ -1,0 +1,27 @@
+<Person>
+<name>Giacomo Leopardi</name>
+<variantName>
+<XML_Serializer_Tag>Džakomo Leopardi</XML_Serializer_Tag>
+<XML_Serializer_Tag>G. Leopardi</XML_Serializer_Tag>
+<XML_Serializer_Tag>Giac Leopardi</XML_Serializer_Tag>
+<XML_Serializer_Tag>Leopardi</XML_Serializer_Tag>
+<XML_Serializer_Tag>D&apos;akomo Leopardi</XML_Serializer_Tag>
+<XML_Serializer_Tag>Džiakomo Leopardi</XML_Serializer_Tag>
+</variantName>
+<thumbnail>https://commons.wikimedia.org/wiki/Special:FilePath/Giacomo_Leopardi.jpg?width=270</thumbnail>
+<birthEN>1798</birthEN>
+<birthDE>1798</birthDE>
+<deathEN>1837</deathEN>
+<deathDE>1837</deathDE>
+<birthPlace />
+<deathPlace />
+<professionOrOccupation>
+<XML_Serializer_Tag>Schriftsteller</XML_Serializer_Tag>
+</professionOrOccupation>
+<dbpResource>http://dbpedia.org/resource/Giacomo_Leopardi</dbpResource>
+<abstract>Giacomo Graf Leopardi (* 29. Juni 1798 in Recanati; † 14. Juni 1837 in Neapel) war ein italienischer Dichter, Essayist und Philologe, dem neben Alessandro Manzoni eine entscheidende Rolle bei der Erneuerung der italienischen Literatursprache im 19. Jahrhundert zukam.</abstract>
+<wikilink>http://en.wikipedia.org/wiki/Giacomo_Leopardi?oldid=606559735</wikilink>
+<artworks />
+<buildings />
+<books />
+</Person>

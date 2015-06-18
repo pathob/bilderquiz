@@ -1,0 +1,37 @@
+<Person>
+<name>Karl Postl</name>
+<variantName>
+<XML_Serializer_Tag>C. S., Schriftsteller</XML_Serializer_Tag>
+<XML_Serializer_Tag>Carl Anton Postl</XML_Serializer_Tag>
+<XML_Serializer_Tag>Carl Postel</XML_Serializer_Tag>
+<XML_Serializer_Tag>Karl Postel</XML_Serializer_Tag>
+<XML_Serializer_Tag>Carl Postl</XML_Serializer_Tag>
+<XML_Serializer_Tag>Karl Postl</XML_Serializer_Tag>
+<XML_Serializer_Tag>Karl A. Postl</XML_Serializer_Tag>
+<XML_Serializer_Tag>Karl Anton Postl</XML_Serializer_Tag>
+<XML_Serializer_Tag>Charles Sealsfeld</XML_Serializer_Tag>
+<XML_Serializer_Tag>Charles Sealsfield</XML_Serializer_Tag>
+<XML_Serializer_Tag>Charles Sealsfield-Postl</XML_Serializer_Tag>
+<XML_Serializer_Tag>C. Sidons</XML_Serializer_Tag>
+</variantName>
+<thumbnail>https://commons.wikimedia.org/wiki/Special:FilePath/Charles_Sealsfield.jpg?width=270</thumbnail>
+<birthEN>March 3, 1793</birthEN>
+<birthDE>3. März 1793</birthDE>
+<deathEN>May 26, 1864</deathEN>
+<deathDE>26. Mai 1864</deathDE>
+<birthPlace>
+<XML_Serializer_Tag>Poppitz</XML_Serializer_Tag>
+</birthPlace>
+<deathPlace>
+<XML_Serializer_Tag>Solothurn</XML_Serializer_Tag>
+</deathPlace>
+<professionOrOccupation>
+<XML_Serializer_Tag>Schriftsteller</XML_Serializer_Tag>
+</professionOrOccupation>
+<dbpResource>http://dbpedia.org/resource/Karl_Postl_(painter)</dbpResource>
+<abstract>Karel Postl (* 1769 vermutlich in Bechin; † 15. März 1818 in Prag; auch Postel geschrieben) war ein böhmischer Veduten- und Landschaftsmaler, sowie Zeichner und Grafiker des Klassizismus.</abstract>
+<wikilink>http://en.wikipedia.org/wiki/Karl_Postl_(painter)?oldid=602594846</wikilink>
+<artworks />
+<buildings />
+<books />
+</Person>

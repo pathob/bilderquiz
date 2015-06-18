@@ -1,0 +1,101 @@
+<Person>
+<name>Arthur Schopenhauer</name>
+<variantName>
+<XML_Serializer_Tag>Artur Schopenhauer</XML_Serializer_Tag>
+<XML_Serializer_Tag>Arturo Schopenhauer</XML_Serializer_Tag>
+<XML_Serializer_Tag>... Schopenhauer</XML_Serializer_Tag>
+<XML_Serializer_Tag>... Šopenchauer</XML_Serializer_Tag>
+<XML_Serializer_Tag>Artur Šopenchauer</XML_Serializer_Tag>
+<XML_Serializer_Tag>Arthuros Sopenchauer</XML_Serializer_Tag>
+<XML_Serializer_Tag>A. Šopengauėr</XML_Serializer_Tag>
+<XML_Serializer_Tag>Artur Šopengauėr</XML_Serializer_Tag>
+<XML_Serializer_Tag>Artur Šopenhauer</XML_Serializer_Tag>
+<XML_Serializer_Tag>A. Šopenhaueris</XML_Serializer_Tag>
+<XML_Serializer_Tag>Ātūr Šūpinhāwir</XML_Serializer_Tag>
+<XML_Serializer_Tag>Ārtūr Šūpinhāwir</XML_Serializer_Tag>
+<XML_Serializer_Tag>... Syop&apos;enhauŏ</XML_Serializer_Tag>
+<XML_Serializer_Tag>... Shōpenhauā</XML_Serializer_Tag>
+<XML_Serializer_Tag>Artûr Šôpenhauer</XML_Serializer_Tag>
+<XML_Serializer_Tag>Artur Shopenhaʾuʾer</XML_Serializer_Tag>
+<XML_Serializer_Tag>Felix Treumund</XML_Serializer_Tag>
+<XML_Serializer_Tag>Shu ben hua</XML_Serializer_Tag>
+<XML_Serializer_Tag>Shubenhua</XML_Serializer_Tag>
+<XML_Serializer_Tag>ארתור שופנהאואר</XML_Serializer_Tag>
+<XML_Serializer_Tag>アルトゥル・ショーペンハウアー</XML_Serializer_Tag>
+<XML_Serializer_Tag>アルトゥール ショーペンハウアー</XML_Serializer_Tag>
+<XML_Serializer_Tag>ショーペンハウアー アルトゥール</XML_Serializer_Tag>
+</variantName>
+<thumbnail>https://commons.wikimedia.org/wiki/Special:FilePath/Schopenhauer.jpg?width=270</thumbnail>
+<birthEN>February 11, 1788</birthEN>
+<birthDE>11. Februar 1788</birthDE>
+<deathEN>September 21, 1860</deathEN>
+<deathDE>21. September 1860</deathDE>
+<birthPlace>
+<XML_Serializer_Tag>Danzig</XML_Serializer_Tag>
+</birthPlace>
+<deathPlace>
+<XML_Serializer_Tag>Frankfurt am Main</XML_Serializer_Tag>
+</deathPlace>
+<professionOrOccupation>
+<XML_Serializer_Tag>Philosoph</XML_Serializer_Tag>
+</professionOrOccupation>
+<dbpResource>http://dbpedia.org/resource/Arthur_Schopenhauer</dbpResource>
+<abstract>Arthur Schopenhauer (* 22. Februar 1788 in Danzig; † 21. September 1860 in Frankfurt am Main) war ein deutscher Philosoph, Autor und Hochschullehrer.Schopenhauer entwarf eine Lehre, die gleichermaßen Erkenntnistheorie, Metaphysik, Ästhetik und Ethik umfasst. Er sah sich selbst als Schüler und Vollender Immanuel Kants, dessen Philosophie er als Vorbereitung seiner eigenen Lehre auffasste. Weitere Anregungen bezog er aus der Ideenlehre Platons und Vorstellungen östlicher Philosophien. Innerhalb der Philosophie des 19. Jahrhunderts entwickelte er eine eigene Position des Subjektiven Idealismus und vertrat als einer der ersten Philosophen im deutschsprachigen Raum die Überzeugung, dass der Welt ein irrationales Prinzip zugrunde liegt.</abstract>
+<wikilink>http://en.wikipedia.org/wiki/Arthur_Schopenhauer?oldid=606499404</wikilink>
+<artworks />
+<buildings />
+<books>
+<XML_Serializer_Tag>
+<book>
+<type>uri</type>
+<value>http://dbpedia.org/resource/The_World_as_Will_and_Representation</value>
+</book>
+<author>
+<type>uri</type>
+<value>http://dbpedia.org/resource/Arthur_Schopenhauer</value>
+</author>
+<thumbnail>
+<type>uri</type>
+<value>http://commons.wikimedia.org/wiki/Special:FilePath/Schop_welt_2ed.jpg?width=300</value>
+</thumbnail>
+<published>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>* 1818 
+* 1844</value>
+</published>
+<wikilink>
+<type>uri</type>
+<value>http://en.wikipedia.org/wiki/The_World_as_Will_and_Representation?oldid=606385052</value>
+</wikilink>
+<abstract>
+<type>literal</type>
+<xml:lang>de</xml:lang>
+<value>Die Welt als Wille und Vorstellung ist das 1819 erschienene Hauptwerk des deutschen Philosophen Arthur Schopenhauer (1788–1860).Die erste Auflage (1819) des Werkes erschien im Bibliographischen Institut F.A. Brockhaus in Leipzig.</value>
+</abstract>
+</XML_Serializer_Tag>
+<XML_Serializer_Tag>
+<book>
+<type>uri</type>
+<value>http://dbpedia.org/resource/The_Art_of_Being_Right</value>
+</book>
+<author>
+<type>uri</type>
+<value>http://dbpedia.org/resource/Arthur_Schopenhauer</value>
+</author>
+<thumbnail>
+<type>uri</type>
+<value>http://commons.wikimedia.org/wiki/Special:FilePath/Veronese,_Paolo_-_Arachne_or_Dialectics_-_1520.jpg?width=300</value>
+</thumbnail>
+<wikilink>
+<type>uri</type>
+<value>http://en.wikipedia.org/wiki/The_Art_of_Being_Right?oldid=583521815</value>
+</wikilink>
+<abstract>
+<type>literal</type>
+<xml:lang>de</xml:lang>
+<value>Eristische Dialektik (zu altgriechisch eristiké téchne) ist der Name eines um 1830 entstandenen Manuskripts von Arthur Schopenhauer, in dem er als Eristik oder Eristische Dialektik eine Kunstlehre beschreibt, um in einem Disput „per fas et nefas“ (lat.; mit erlaubten und unerlaubten Mitteln) als derjenige zu erscheinen, der sich im Recht befindet. Zu diesem Zweck gibt er 38 rhetorische Strategeme an, die also nicht der Wahrheitsfindung dienen, sondern dem Erfolg in einem Streitgespräch durch bestimmte argumentative Formen. Diesen Zweck haben auch klassische Sophismen. Einige davon werden von Schopenhauer ebenfalls aufgeführt. Er erwähnt das Manuskript 1851 in Parerga und Paralipomena. Dort distanziert er sich aber von diesem polemischen Ansatz.</value>
+</abstract>
+</XML_Serializer_Tag>
+</books>
+</Person>

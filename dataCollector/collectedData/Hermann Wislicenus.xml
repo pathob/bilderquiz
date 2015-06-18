@@ -16,8 +16,10 @@
 <XML_Serializer_Tag>Maler</XML_Serializer_Tag>
 <XML_Serializer_Tag>Künstler</XML_Serializer_Tag>
 </professionOrOccupation>
-<artworks />
 <dbpResource>http://dbpedia.org/resource/Hermann_Wislicenus</dbpResource>
 <abstract>Hermann Wislicenus (* 20. September 1825 in Eisenach; † 25. April 1899 in Goslar) war ein deutscher Maler.</abstract>
 <wikilink>http://en.wikipedia.org/wiki/Hermann_Wislicenus?oldid=567722412</wikilink>
+<artworks />
+<buildings />
+<books />
 </Person>

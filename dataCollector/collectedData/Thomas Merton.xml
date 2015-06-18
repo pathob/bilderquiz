@@ -1,0 +1,47 @@
+<Person>
+<name>Thomas Merton</name>
+<variantName>
+<XML_Serializer_Tag>Louis Merton</XML_Serializer_Tag>
+<XML_Serializer_Tag>Thomas Feverel Merton</XML_Serializer_Tag>
+<XML_Serializer_Tag>Tʻomasŭ Mŏtʻŭn</XML_Serializer_Tag>
+<XML_Serializer_Tag>Monk of Our Lady of Gethsemani</XML_Serializer_Tag>
+<XML_Serializer_Tag>Louis, Father</XML_Serializer_Tag>
+<XML_Serializer_Tag>Tʻomŏsŭ, Mŏtʻŏn</XML_Serializer_Tag>
+</variantName>
+<thumbnail>https://commons.wikimedia.org/wiki/Special:FilePath/Thomas_Merton_hermitage_interior_(Abbey_of_Gethsemani).jpg?width=270</thumbnail>
+<birthEN>January 31, 1915</birthEN>
+<birthDE>31. Januar 1915</birthDE>
+<deathEN>December 10, 1968</deathEN>
+<deathDE>10. Dezember 1968</deathDE>
+<birthPlace>
+<XML_Serializer_Tag>Prades</XML_Serializer_Tag>
+</birthPlace>
+<deathPlace>
+<XML_Serializer_Tag>Bangkok</XML_Serializer_Tag>
+</deathPlace>
+<professionOrOccupation>
+<XML_Serializer_Tag>Mönch</XML_Serializer_Tag>
+<XML_Serializer_Tag>Christlicher Schriftsteller</XML_Serializer_Tag>
+</professionOrOccupation>
+<dbpResource>http://dbpedia.org/resource/Thomas_Merton</dbpResource>
+<abstract>Thomas Feverel Merton (* 31. Januar 1915 in Prades, Pyrénées-Orientales; † 10. Dezember 1968 in Bangkok) war ein christlicher Mystiker.</abstract>
+<wikilink>http://en.wikipedia.org/wiki/Thomas_Merton?oldid=604834420</wikilink>
+<artworks />
+<buildings />
+<books>
+<XML_Serializer_Tag>
+<book>
+<type>uri</type>
+<value>http://dbpedia.org/resource/The_Seven_Storey_Mountain</value>
+</book>
+<author>
+<type>uri</type>
+<value>http://dbpedia.org/resource/Thomas_Merton</value>
+</author>
+<wikilink>
+<type>uri</type>
+<value>http://en.wikipedia.org/wiki/The_Seven_Storey_Mountain?oldid=599261817</value>
+</wikilink>
+</XML_Serializer_Tag>
+</books>
+</Person>

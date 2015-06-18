@@ -20,8 +20,10 @@
 <XML_Serializer_Tag>Künstler</XML_Serializer_Tag>
 <XML_Serializer_Tag>Maler</XML_Serializer_Tag>
 </professionOrOccupation>
-<artworks />
 <dbpResource>http://dbpedia.org/resource/Albrecht_Adam</dbpResource>
 <abstract>Albrecht Adam (* 16. April 1786 in Nördlingen; † 28. August 1862 in München) war ein deutscher Schlachten-, Porträt- und Genremaler.</abstract>
 <wikilink>http://en.wikipedia.org/wiki/Albrecht_Adam?oldid=591495957</wikilink>
+<artworks />
+<buildings />
+<books />
 </Person>

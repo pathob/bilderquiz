@@ -18,8 +18,10 @@
 <XML_Serializer_Tag>Künstler</XML_Serializer_Tag>
 <XML_Serializer_Tag>Maler</XML_Serializer_Tag>
 </professionOrOccupation>
-<artworks />
 <dbpResource>http://dbpedia.org/resource/August_Querfurt</dbpResource>
 <abstract>August Querfurt (* 1696 in Wolfenbüttel; † 1761 in Wien) war ein deutscher Genre-, Pferde-, Jagd- und Schlachtenmaler.</abstract>
 <wikilink>http://en.wikipedia.org/wiki/August_Querfurt?oldid=583550211</wikilink>
+<artworks />
+<buildings />
+<books />
 </Person>

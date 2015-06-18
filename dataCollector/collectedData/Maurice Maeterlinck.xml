@@ -1,0 +1,80 @@
+<Person>
+<name>Maurice Maeterlinck</name>
+<variantName>
+<XML_Serializer_Tag>... Maeterlinck</XML_Serializer_Tag>
+<XML_Serializer_Tag>Maurice Materlinck</XML_Serializer_Tag>
+<XML_Serializer_Tag>Maurice Maeterlink</XML_Serializer_Tag>
+<XML_Serializer_Tag>Maurizio Maeterlinck</XML_Serializer_Tag>
+<XML_Serializer_Tag>Mauricio Maeterlinck</XML_Serializer_Tag>
+<XML_Serializer_Tag>Maurice Polydore-Marie-Bernhard Maeterlinck</XML_Serializer_Tag>
+<XML_Serializer_Tag>Maaterurinku</XML_Serializer_Tag>
+<XML_Serializer_Tag>Mēterurinku</XML_Serializer_Tag>
+<XML_Serializer_Tag>Moris Meterlink</XML_Serializer_Tag>
+<XML_Serializer_Tag>M. Meterlinka</XML_Serializer_Tag>
+</variantName>
+<thumbnail>https://commons.wikimedia.org/wiki/Special:FilePath/Maeterlinck.jpg?width=270</thumbnail>
+<birthEN>August 29, 1862</birthEN>
+<birthDE>29. August 1862</birthDE>
+<deathEN>May 6, 1949</deathEN>
+<deathDE>6. Mai 1949</deathDE>
+<birthPlace />
+<deathPlace />
+<professionOrOccupation>
+<XML_Serializer_Tag>Schriftsteller</XML_Serializer_Tag>
+<XML_Serializer_Tag>Rechtsanwalt</XML_Serializer_Tag>
+<XML_Serializer_Tag>Philosoph</XML_Serializer_Tag>
+</professionOrOccupation>
+<dbpResource>http://dbpedia.org/resource/Maurice_Maeterlinck</dbpResource>
+<abstract>Graf Maurice Polydore Marie Bernard Maeterlinck (* 29. August 1862 in Gent; † 6. Mai 1949 in Nizza) war ein belgischer Schriftsteller und Dramatiker französischer Sprache. Die Aussprache des Nachnamens lautet [ma.tɛʁ.lɛ̃ːk] in Belgien, [mɛ.teʁ.lɛ̃ːk] in Frankreich.Maeterlinck gilt mit seinen lyrischen Werken und Bühnenstücken – darunter das Schauspiel Pelléas et Mélisande – als einer der wichtigsten Vertreter des Symbolismus. Im Mittelpunkt dieser Arbeiten steht oftmals der Mensch in seiner Hilflosigkeit gegenüber dem Tod. 1911 erhielt Maeterlinck den Nobelpreis für Literatur.</abstract>
+<wikilink>http://en.wikipedia.org/wiki/Maurice_Maeterlinck?oldid=603424476</wikilink>
+<artworks />
+<buildings />
+<books>
+<XML_Serializer_Tag>
+<book>
+<type>uri</type>
+<value>http://dbpedia.org/resource/The_Treasure_of_the_Humble</value>
+</book>
+<author>
+<type>uri</type>
+<value>http://dbpedia.org/resource/Maurice_Maeterlinck</value>
+</author>
+<thumbnail>
+<type>uri</type>
+<value>http://en.wikipedia.org/wiki/Special:FilePath/Treasure_humble_tp.jpg?width=300</value>
+</thumbnail>
+<released>
+<type>typed-literal</type>
+<datatype>http://www.w3.org/2001/XMLSchema#integer</datatype>
+<value>1896</value>
+</released>
+<wikilink>
+<type>uri</type>
+<value>http://en.wikipedia.org/wiki/The_Treasure_of_the_Humble?oldid=576881133</value>
+</wikilink>
+</XML_Serializer_Tag>
+<XML_Serializer_Tag>
+<book>
+<type>uri</type>
+<value>http://dbpedia.org/resource/Hothouses</value>
+</book>
+<author>
+<type>uri</type>
+<value>http://dbpedia.org/resource/Maurice_Maeterlinck</value>
+</author>
+<thumbnail>
+<type>uri</type>
+<value>http://commons.wikimedia.org/wiki/Special:FilePath/DSCN2652-brueghel-massacre_rot_crop_1400_1000.jpg?width=300</value>
+</thumbnail>
+<released>
+<type>typed-literal</type>
+<datatype>http://www.w3.org/2001/XMLSchema#integer</datatype>
+<value>1889</value>
+</released>
+<wikilink>
+<type>uri</type>
+<value>http://en.wikipedia.org/wiki/Hothouses?oldid=598729126</value>
+</wikilink>
+</XML_Serializer_Tag>
+</books>
+</Person>

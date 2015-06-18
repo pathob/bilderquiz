@@ -1,0 +1,300 @@
+<Person>
+<name>Masaccio</name>
+<variantName>
+<XML_Serializer_Tag>Tommaso, di Giovanni di Simone Guidi Cassai</XML_Serializer_Tag>
+<XML_Serializer_Tag>Tommaso Guidi</XML_Serializer_Tag>
+<XML_Serializer_Tag>Tommaso di G. Guidi</XML_Serializer_Tag>
+<XML_Serializer_Tag>Tommaso, di Giovanni di Simone Guidi</XML_Serializer_Tag>
+<XML_Serializer_Tag>Tommaso Guidi, Masaccio</XML_Serializer_Tag>
+<XML_Serializer_Tag>Tommaso Giovanni</XML_Serializer_Tag>
+<XML_Serializer_Tag>Tommaso dei Guidi</XML_Serializer_Tag>
+<XML_Serializer_Tag>Tommaso di Giovanni di Simone, Guidi</XML_Serializer_Tag>
+</variantName>
+<thumbnail>https://commons.wikimedia.org/wiki/Special:FilePath/Masaccio,_trinità.jpg?width=270</thumbnail>
+<birthEN>1401</birthEN>
+<birthDE>1401</birthDE>
+<deathEN>1428</deathEN>
+<deathDE>1428</deathDE>
+<birthPlace />
+<deathPlace />
+<professionOrOccupation>
+<XML_Serializer_Tag>Künstler</XML_Serializer_Tag>
+</professionOrOccupation>
+<dbpResource>http://dbpedia.org/resource/Masaccio</dbpResource>
+<abstract>Tommaso di Ser Cassai (genannt Masaccio [maˈzattʃo]; * 21. Dezember 1401 in San Giovanni Valdarno in der Provinz Arezzo; † 1428 in Rom) gilt als wichtigster italienischer Maler der Frührenaissance.Seit etwa 1417 lebte Masaccio in Florenz, ging dort bei Masolino in die Lehre und wurde 1422 Mitglied der Malergilde. Vom Architekten Brunelleschi übernahm er die mathematisch begründete Perspektivlehre und vom Bildhauer Donatello die plastisch realistische Darstellungsweise der menschlichen Figur.Besonders in seinen Fresken gelang ihm eine in Perspektive, Farb- und Lichtführung, sowie lebendiger Darstellungsweise der Figuren beispielhafte moderne Ausdrucksweise, und er übte mit seiner Formensprache, trotz seines frühen Todes, auf die Kunst der Renaissance einen nachhaltigen Einfluss aus.</abstract>
+<wikilink>http://en.wikipedia.org/wiki/Masaccio?oldid=602502779</wikilink>
+<artworks>
+<XML_Serializer_Tag>
+<artwork>
+<type>uri</type>
+<value>http://dbpedia.org/resource/Holy_Trinity_(Masaccio)</value>
+</artwork>
+<thumbnail>
+<type>uri</type>
+<value>http://commons.wikimedia.org/wiki/Special:FilePath/Masaccio,_trinità.jpg?width=300</value>
+</thumbnail>
+<name>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>The Holy Trinity</value>
+</name>
+<year>
+<type>typed-literal</type>
+<datatype>http://www.w3.org/2001/XMLSchema#integer</datatype>
+<value>1425</value>
+</year>
+<abstract>
+<type>literal</type>
+<xml:lang>de</xml:lang>
+<value>Die Dreifaltigkeit ist ein Fresko in der Kirche Santa Maria Novella in Florenz. Es wurde zwischen 1425 und 1428 von Masaccio geschaffen. Es gilt als bahnbrechend für die europäische Kunst, da erstmals in der Malerei ein Künstler die Gesetze der Perspektive korrekt angewandt hat.</value>
+</abstract>
+<wikilink>
+<type>uri</type>
+<value>http://en.wikipedia.org/wiki/Holy_Trinity_(Masaccio)?oldid=601769386</value>
+</wikilink>
+<type>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>fresco</value>
+</type>
+</XML_Serializer_Tag>
+<XML_Serializer_Tag>
+<artwork>
+<type>uri</type>
+<value>http://dbpedia.org/resource/The_Tribute_Money_(Masaccio)</value>
+</artwork>
+<thumbnail>
+<type>uri</type>
+<value>http://commons.wikimedia.org/wiki/Special:FilePath/Masaccio7.jpg?width=300</value>
+</thumbnail>
+<name>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>The Tribute Money</value>
+</name>
+<year>
+<type>typed-literal</type>
+<datatype>http://dbpedia.org/datatype/second</datatype>
+<value>1420.0</value>
+</year>
+<abstract>
+<type>literal</type>
+<xml:lang>de</xml:lang>
+<value>Der Zinsgroschen, in der Literatur auch „Das Wunder des Zinsgroschen“ ist ein Fresko in der Kirche Santa Maria del Carmine in Florenz. Es ist der bedeutendste Bestandteil des berühmten Freskenzyklus in der Brancacci-Kapelle, von verschiedenen Meistern ab 1424 bis 1485 geschaffen. Dieses Fresko wurde zwischen 1425 und 1428 von Masaccio gearbeitet und gilt als eines seiner Meisterwerke.</value>
+</abstract>
+<wikilink>
+<type>uri</type>
+<value>http://en.wikipedia.org/wiki/The_Tribute_Money_(Masaccio)?oldid=590177541</value>
+</wikilink>
+<type>
+<type>uri</type>
+<value>http://dbpedia.org/resource/Fresco</value>
+</type>
+</XML_Serializer_Tag>
+<XML_Serializer_Tag>
+<artwork>
+<type>uri</type>
+<value>http://dbpedia.org/resource/Madonna_and_Child_(Masaccio)</value>
+</artwork>
+<thumbnail>
+<type>uri</type>
+<value>http://commons.wikimedia.org/wiki/Special:FilePath/Masaccio._Madaonna_and_Child._1426._National_Gallery,_London.jpg?width=300</value>
+</thumbnail>
+<name>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>Madonna and Child with Angels</value>
+</name>
+<year>
+<type>typed-literal</type>
+<datatype>http://www.w3.org/2001/XMLSchema#integer</datatype>
+<value>1426</value>
+</year>
+<wikilink>
+<type>uri</type>
+<value>http://en.wikipedia.org/wiki/Madonna_and_Child_(Masaccio)?oldid=605592122</value>
+</wikilink>
+<type>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>Tempera on Panel</value>
+</type>
+</XML_Serializer_Tag>
+<XML_Serializer_Tag>
+<artwork>
+<type>uri</type>
+<value>http://dbpedia.org/resource/San_Giovenale_Triptych</value>
+</artwork>
+<thumbnail>
+<type>uri</type>
+<value>http://commons.wikimedia.org/wiki/Special:FilePath/San_Giovenale_Masaccio.jpg?width=300</value>
+</thumbnail>
+<name>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>San Giovenale Triptych</value>
+</name>
+<year>
+<type>typed-literal</type>
+<datatype>http://www.w3.org/2001/XMLSchema#integer</datatype>
+<value>1422</value>
+</year>
+<wikilink>
+<type>uri</type>
+<value>http://en.wikipedia.org/wiki/San_Giovenale_Triptych?oldid=597165964</value>
+</wikilink>
+<type>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>Panel</value>
+</type>
+</XML_Serializer_Tag>
+<XML_Serializer_Tag>
+<artwork>
+<type>uri</type>
+<value>http://dbpedia.org/resource/Virgin_and_Child_with_Saint_Anne_(Masaccio)</value>
+</artwork>
+<thumbnail>
+<type>uri</type>
+<value>http://commons.wikimedia.org/wiki/Special:FilePath/Masolino_008.jpg?width=300</value>
+</thumbnail>
+<name>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>Madonna and Child with St. Anne</value>
+</name>
+<year>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>c. 1424–1425</value>
+</year>
+<wikilink>
+<type>uri</type>
+<value>http://en.wikipedia.org/wiki/Virgin_and_Child_with_Saint_Anne_(Masaccio)?oldid=588025009</value>
+</wikilink>
+<type>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>Tempera on panel</value>
+</type>
+</XML_Serializer_Tag>
+<XML_Serializer_Tag>
+<artwork>
+<type>uri</type>
+<value>http://dbpedia.org/resource/Crucifixion_(Masaccio)</value>
+</artwork>
+<thumbnail>
+<type>uri</type>
+<value>http://commons.wikimedia.org/wiki/Special:FilePath/Crucifix_Masaccio.jpg?width=300</value>
+</thumbnail>
+<name>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>Crucifixion</value>
+</name>
+<year>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>circa 1426</value>
+</year>
+<wikilink>
+<type>uri</type>
+<value>http://en.wikipedia.org/wiki/Crucifixion_(Masaccio)?oldid=589643630</value>
+</wikilink>
+<type>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>panel</value>
+</type>
+</XML_Serializer_Tag>
+<XML_Serializer_Tag>
+<artwork>
+<type>uri</type>
+<value>http://dbpedia.org/resource/Desco_da_parto_(Masaccio)</value>
+</artwork>
+<thumbnail>
+<type>uri</type>
+<value>http://commons.wikimedia.org/wiki/Special:FilePath/Masaccio_002.jpg?width=300</value>
+</thumbnail>
+<name>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>Nativity</value>
+</name>
+<year>
+<type>typed-literal</type>
+<datatype>http://www.w3.org/2001/XMLSchema#integer</datatype>
+<value>1427</value>
+</year>
+<wikilink>
+<type>uri</type>
+<value>http://en.wikipedia.org/wiki/Desco_da_parto_(Masaccio)?oldid=592096180</value>
+</wikilink>
+<type>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>Tempera on wood</value>
+</type>
+</XML_Serializer_Tag>
+<XML_Serializer_Tag>
+<artwork>
+<type>uri</type>
+<value>http://dbpedia.org/resource/Portrait_of_a_Young_Man_(Masaccio)</value>
+</artwork>
+<thumbnail>
+<type>uri</type>
+<value>http://commons.wikimedia.org/wiki/Special:FilePath/Young_Man_Masaccio.jpg?width=300</value>
+</thumbnail>
+<name>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>Portrait of a Young Man</value>
+</name>
+<year>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>circa 1425</value>
+</year>
+<wikilink>
+<type>uri</type>
+<value>http://en.wikipedia.org/wiki/Portrait_of_a_Young_Man_(Masaccio)?oldid=590306231</value>
+</wikilink>
+<type>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>Wood</value>
+</type>
+</XML_Serializer_Tag>
+<XML_Serializer_Tag>
+<artwork>
+<type>uri</type>
+<value>http://dbpedia.org/resource/Saint_Paul_(Masaccio)</value>
+</artwork>
+<thumbnail>
+<type>uri</type>
+<value>http://commons.wikimedia.org/wiki/Special:FilePath/Masaccio,_san_paolo,_pisa.jpg?width=300</value>
+</thumbnail>
+<name>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>St. Paul</value>
+</name>
+<year>
+<type>typed-literal</type>
+<datatype>http://www.w3.org/2001/XMLSchema#integer</datatype>
+<value>1426</value>
+</year>
+<wikilink>
+<type>uri</type>
+<value>http://en.wikipedia.org/wiki/Saint_Paul_(Masaccio)?oldid=590566676</value>
+</wikilink>
+<type>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>Tempera on wood</value>
+</type>
+</XML_Serializer_Tag>
+</artworks>
+<buildings />
+<books />
+</Person>

@@ -19,12 +19,15 @@
 <professionOrOccupation>
 <XML_Serializer_Tag>Maler</XML_Serializer_Tag>
 </professionOrOccupation>
+<dbpResource>http://dbpedia.org/resource/August_Macke</dbpResource>
+<abstract>August Robert Ludwig Macke (* 3. Januar 1887 in Meschede, Hochsauerland; † 26. September 1914 bei Perthes-lès-Hurlus, Champagne) war einer der bekanntesten deutschen Maler des Expressionismus. Er beteiligte sich an den beiden Ausstellungen des Blauen Reiters.In rund zehn Jahren schuf Macke ein Werk, das sich unter dem Einfluss der vielfältigen Kunstströmungen der Zeit zunächst stilistisch rasch wandelte. Der persönliche Stil, zu dem er schließlich fand, und der heute als typisch für Macke empfunden wird, ist geprägt durch die Beschäftigung mit der Wirkung des Lichts und durch die Verwendung reiner, leuchtender, harmonierender Farben. Die Gemälde wirken heiter und leicht, alles Tragische ist ihnen fremd. „Seine Bilder befriedigen die Sehnsucht nach positiven Bildern einer intakten Welt, dem Gleichklang des Menschen mit den Dingen, die ihn umgeben.“</abstract>
+<wikilink>http://en.wikipedia.org/wiki/August_Macke?oldid=605681344</wikilink>
 <artworks>
 <XML_Serializer_Tag>
-<painting>
+<artwork>
 <type>uri</type>
 <value>http://dbpedia.org/resource/Landscape_with_Cows_and_Camel</value>
-</painting>
+</artwork>
 <thumbnail>
 <type>uri</type>
 <value>http://commons.wikimedia.org/wiki/Special:FilePath/August_Macke_025.jpg?width=300</value>
@@ -43,9 +46,13 @@
 <type>uri</type>
 <value>http://en.wikipedia.org/wiki/Landscape_with_Cows_and_Camel?oldid=589180000</value>
 </wikilink>
+<type>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>Oil on canvas</value>
+</type>
 </XML_Serializer_Tag>
 </artworks>
-<dbpResource>http://dbpedia.org/resource/August_Macke</dbpResource>
-<abstract>August Robert Ludwig Macke (* 3. Januar 1887 in Meschede, Hochsauerland; † 26. September 1914 bei Perthes-lès-Hurlus, Champagne) war einer der bekanntesten deutschen Maler des Expressionismus. Er beteiligte sich an den beiden Ausstellungen des Blauen Reiters.In rund zehn Jahren schuf Macke ein Werk, das sich unter dem Einfluss der vielfältigen Kunstströmungen der Zeit zunächst stilistisch rasch wandelte. Der persönliche Stil, zu dem er schließlich fand, und der heute als typisch für Macke empfunden wird, ist geprägt durch die Beschäftigung mit der Wirkung des Lichts und durch die Verwendung reiner, leuchtender, harmonierender Farben. Die Gemälde wirken heiter und leicht, alles Tragische ist ihnen fremd. „Seine Bilder befriedigen die Sehnsucht nach positiven Bildern einer intakten Welt, dem Gleichklang des Menschen mit den Dingen, die ihn umgeben.“</abstract>
-<wikilink>http://en.wikipedia.org/wiki/August_Macke?oldid=605681344</wikilink>
+<buildings />
+<books />
 </Person>

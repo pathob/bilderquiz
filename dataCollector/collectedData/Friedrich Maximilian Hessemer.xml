@@ -1,0 +1,26 @@
+<Person>
+<name>Friedrich Maximilian Hessemer</name>
+<variantName>
+<XML_Serializer_Tag>Fritz M. Hessemer</XML_Serializer_Tag>
+<XML_Serializer_Tag>Fritz Maximilian Hessemer</XML_Serializer_Tag>
+<XML_Serializer_Tag>Fritz Max Hessemer</XML_Serializer_Tag>
+<XML_Serializer_Tag>F... M... Hessemer</XML_Serializer_Tag>
+<XML_Serializer_Tag>Friedrich M. Hessemer</XML_Serializer_Tag>
+</variantName>
+<thumbnail>https://commons.wikimedia.org/wiki/Special:FilePath/Friedrich_Maximilian_Hessemer.jpg?width=270</thumbnail>
+<birthEN>February 24, 1800</birthEN>
+<birthDE>24. Februar 1800</birthDE>
+<deathEN>December 1, 1860</deathEN>
+<deathDE>1. Dezember 1860</deathDE>
+<birthPlace />
+<deathPlace />
+<professionOrOccupation>
+<XML_Serializer_Tag>Architekt</XML_Serializer_Tag>
+</professionOrOccupation>
+<dbpResource>http://dbpedia.org/resource/Friedrich_Maximilian_Hessemer</dbpResource>
+<abstract>Friedrich Maximilian Hessemer (* 24. Februar 1800 in Darmstadt; † 1. Dezember 1860 in Frankfurt am Main) war ein deutscher Architekt und Schriftsteller.</abstract>
+<wikilink>http://en.wikipedia.org/wiki/Friedrich_Maximilian_Hessemer?oldid=605407526</wikilink>
+<artworks />
+<buildings />
+<books />
+</Person>

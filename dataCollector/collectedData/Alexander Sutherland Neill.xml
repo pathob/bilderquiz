@@ -1,0 +1,53 @@
+<Person>
+<name>Alexander Sutherland Neill</name>
+<variantName>
+<XML_Serializer_Tag>Alexander Sutherland Neill</XML_Serializer_Tag>
+<XML_Serializer_Tag>Alexander S. Neill</XML_Serializer_Tag>
+<XML_Serializer_Tag>A. S. Neill</XML_Serializer_Tag>
+<XML_Serializer_Tag>Alexander Sutherland Neill</XML_Serializer_Tag>
+</variantName>
+<thumbnail>https://commons.wikimedia.org/wiki/Special:FilePath/Neill_birthday.jpg?width=270</thumbnail>
+<birthEN>October 17, 1883</birthEN>
+<birthDE>17. Oktober 1883</birthDE>
+<deathEN>September 23, 1973</deathEN>
+<deathDE>23. September 1973</deathDE>
+<birthPlace>
+<XML_Serializer_Tag>Fofar, Schottland, Großbritannien</XML_Serializer_Tag>
+</birthPlace>
+<deathPlace>
+<XML_Serializer_Tag>Aldeburgh, England, Großbritannien</XML_Serializer_Tag>
+</deathPlace>
+<professionOrOccupation>
+<XML_Serializer_Tag>Schriftsteller</XML_Serializer_Tag>
+</professionOrOccupation>
+<dbpResource>http://dbpedia.org/resource/A._S._Neill</dbpResource>
+<abstract>Alexander Sutherland Neill (meist abgekürzt A. S. Neill, * 17. Oktober 1883 in Forfar, Schottland; † 23. September 1973 in Aldeburgh, Suffolk) war ein Pädagoge und langjähriger Leiter der von ihm gegründeten Demokratischen Schule Summerhill in Leiston (Suffolk).</abstract>
+<wikilink>http://en.wikipedia.org/wiki/A._S._Neill?oldid=605353348</wikilink>
+<artworks />
+<buildings />
+<books>
+<XML_Serializer_Tag>
+<book>
+<type>uri</type>
+<value>http://dbpedia.org/resource/Summerhill_(book)</value>
+</book>
+<author>
+<type>uri</type>
+<value>http://dbpedia.org/resource/A._S._Neill</value>
+</author>
+<thumbnail>
+<type>uri</type>
+<value>http://commons.wikimedia.org/wiki/Special:FilePath/SummerhillSchool.jpg?width=300</value>
+</thumbnail>
+<published>
+<type>typed-literal</type>
+<datatype>http://www.w3.org/2001/XMLSchema#integer</datatype>
+<value>1960</value>
+</published>
+<wikilink>
+<type>uri</type>
+<value>http://en.wikipedia.org/wiki/Summerhill_(book)?oldid=601145190</value>
+</wikilink>
+</XML_Serializer_Tag>
+</books>
+</Person>

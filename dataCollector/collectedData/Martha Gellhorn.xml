@@ -1,0 +1,25 @@
+<Person>
+<name>Martha Gellhorn</name>
+<variantName />
+<thumbnail>https://commons.wikimedia.org/wiki/Special:FilePath/Gellhorn_Hemingway_1941.jpg?width=270</thumbnail>
+<birthEN>November 8, 1908</birthEN>
+<birthDE>8. November 1908</birthDE>
+<deathEN>February 15, 1998</deathEN>
+<deathDE>15. Februar 1998</deathDE>
+<birthPlace>
+<XML_Serializer_Tag>Saint Louis &lt;Mo.&gt;</XML_Serializer_Tag>
+</birthPlace>
+<deathPlace>
+<XML_Serializer_Tag>London</XML_Serializer_Tag>
+</deathPlace>
+<professionOrOccupation>
+<XML_Serializer_Tag>Schriftstellerin</XML_Serializer_Tag>
+<XML_Serializer_Tag>Journalistin</XML_Serializer_Tag>
+</professionOrOccupation>
+<dbpResource>http://dbpedia.org/resource/Martha_Gellhorn</dbpResource>
+<abstract>Martha Gellhorn (* 8. November 1908 in St. Louis; † 15. Februar 1998 in London) war eine US-amerikanische Journalistin und Schriftstellerin. Sie wurde insbesondere durch ihre im Laufe von mehr als 50 Jahren entstandenen Kriegsreportagen bekannt.</abstract>
+<wikilink>http://en.wikipedia.org/wiki/Martha_Gellhorn?oldid=605938858</wikilink>
+<artworks />
+<buildings />
+<books />
+</Person>

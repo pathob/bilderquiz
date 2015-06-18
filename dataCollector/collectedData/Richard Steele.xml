@@ -1,0 +1,30 @@
+<Person>
+<name>Richard Steele</name>
+<variantName>
+<XML_Serializer_Tag>Isaac Bickerstaffe</XML_Serializer_Tag>
+<XML_Serializer_Tag>... Steele</XML_Serializer_Tag>
+<XML_Serializer_Tag>Isaac Bickerstaff</XML_Serializer_Tag>
+<XML_Serializer_Tag>John Edgar</XML_Serializer_Tag>
+<XML_Serializer_Tag>Marmaduke Myrtle</XML_Serializer_Tag>
+<XML_Serializer_Tag>Steele Richard</XML_Serializer_Tag>
+</variantName>
+<thumbnail>https://commons.wikimedia.org/wiki/Special:FilePath/STEELE_Richard.jpg?width=270</thumbnail>
+<birthEN>1672</birthEN>
+<birthDE>1672</birthDE>
+<deathEN>1729</deathEN>
+<deathDE>1729</deathDE>
+<birthPlace>
+<XML_Serializer_Tag>Dublin</XML_Serializer_Tag>
+</birthPlace>
+<deathPlace />
+<professionOrOccupation>
+<XML_Serializer_Tag>Schriftsteller</XML_Serializer_Tag>
+<XML_Serializer_Tag>Journalist</XML_Serializer_Tag>
+</professionOrOccupation>
+<dbpResource>http://dbpedia.org/resource/Richard_Steele</dbpResource>
+<abstract>Sir Richard Steele (* März 1672 in Dublin; † 1. September 1729 in Carmarthen) war ein irischer Schriftsteller und Komödienautor. Er war Herausgeber der London Gazette und Gründer der Zeitschriften The Tatler und The Spectator. Für The Tatler schrieb er auch unter dem Pseudonym Isaac Bickerstaff, das zuvor Jonathan Swift in einer Kampagne gegen den Schuster und Astrologen John Partridge verwendet hatte.</abstract>
+<wikilink>http://en.wikipedia.org/wiki/Richard_Steele?oldid=602965839</wikilink>
+<artworks />
+<buildings />
+<books />
+</Person>

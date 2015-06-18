@@ -1,0 +1,24 @@
+<Person>
+<name>Max Seydewitz</name>
+<variantName>
+<XML_Serializer_Tag>Peter Michel</XML_Serializer_Tag>
+<XML_Serializer_Tag>Maks Zejdevic</XML_Serializer_Tag>
+</variantName>
+<thumbnail>https://commons.wikimedia.org/wiki/Special:FilePath/Fotothek_df_roe-neg_0006033_005_Porträt_Max_Seydewitz.jpg?width=270</thumbnail>
+<birthEN>December 19, 1892</birthEN>
+<birthDE>19. Dezember 1892</birthDE>
+<deathEN>February 8, 1987</deathEN>
+<deathDE>8. Februar 1987</deathDE>
+<birthPlace />
+<deathPlace />
+<professionOrOccupation>
+<XML_Serializer_Tag>Schriftsteller</XML_Serializer_Tag>
+<XML_Serializer_Tag>Politiker</XML_Serializer_Tag>
+</professionOrOccupation>
+<dbpResource>http://dbpedia.org/resource/Max_Seydewitz</dbpResource>
+<abstract>Max Seydewitz (* 19. Dezember 1892 in Forst (Lausitz); † 8. Februar 1987 in Dresden) war Politiker verschiedener linker Parteien (unter anderem SPD) und Ministerpräsident von Sachsen.</abstract>
+<wikilink>http://en.wikipedia.org/wiki/Max_Seydewitz?oldid=595447363</wikilink>
+<artworks />
+<buildings />
+<books />
+</Person>

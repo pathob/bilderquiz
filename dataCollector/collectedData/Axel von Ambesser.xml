@@ -1,0 +1,32 @@
+<Person>
+<name>Axel von Ambesser</name>
+<variantName>
+<XML_Serializer_Tag>Axel v. Ambesser</XML_Serializer_Tag>
+<XML_Serializer_Tag>Axel von Oesterreich</XML_Serializer_Tag>
+<XML_Serializer_Tag>Axel Eugen von Oesterreich</XML_Serializer_Tag>
+<XML_Serializer_Tag>Axel Eugen Alexander von Oesterreich</XML_Serializer_Tag>
+</variantName>
+<thumbnail>https://commons.wikimedia.org/wiki/Special:FilePath/Axel_v._Österreich-Ambesser.JPG?width=270</thumbnail>
+<birthEN>June 22, 1910</birthEN>
+<birthDE>22. Juni 1910</birthDE>
+<deathEN>September 6, 1988</deathEN>
+<deathDE>6. September 1988</deathDE>
+<birthPlace>
+<XML_Serializer_Tag>Hamburg</XML_Serializer_Tag>
+</birthPlace>
+<deathPlace>
+<XML_Serializer_Tag>München</XML_Serializer_Tag>
+</deathPlace>
+<professionOrOccupation>
+<XML_Serializer_Tag>Schriftsteller</XML_Serializer_Tag>
+<XML_Serializer_Tag>Regisseur</XML_Serializer_Tag>
+<XML_Serializer_Tag>Schauspieler</XML_Serializer_Tag>
+<XML_Serializer_Tag>Drehbuchautor</XML_Serializer_Tag>
+</professionOrOccupation>
+<dbpResource>http://dbpedia.org/resource/Axel_von_Ambesser</dbpResource>
+<abstract>Axel von Ambesser (* 22. Juni 1910 in Hamburg; † 6. September 1988 in München; eigentlich Axel Eugen Alexander von Oesterreich) war einer der bekanntesten deutschen Schauspieler, Filmregisseure und Autoren der Nachkriegszeit.</abstract>
+<wikilink>http://en.wikipedia.org/wiki/Axel_von_Ambesser?oldid=585573908</wikilink>
+<artworks />
+<buildings />
+<books />
+</Person>

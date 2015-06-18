@@ -18,8 +18,10 @@
 <XML_Serializer_Tag>Maler</XML_Serializer_Tag>
 <XML_Serializer_Tag>Holzschneider</XML_Serializer_Tag>
 </professionOrOccupation>
-<artworks />
 <dbpResource>http://dbpedia.org/resource/Hermann_Scherer</dbpResource>
 <abstract>Hermann Scherer (* 8. Februar 1893 in Rümmingen (Markgräflerland); † 13. Mai 1927 Basel) war ein deutsch-schweizerischer Maler des Expressionismus.</abstract>
 <wikilink>http://en.wikipedia.org/wiki/Hermann_Scherer?oldid=582320658</wikilink>
+<artworks />
+<buildings />
+<books />
 </Person>

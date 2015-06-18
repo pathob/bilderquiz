@@ -1,0 +1,77 @@
+<Person>
+<name>Sara Paretsky</name>
+<variantName>
+<XML_Serializer_Tag>Sara Paretzky</XML_Serializer_Tag>
+</variantName>
+<thumbnail>https://commons.wikimedia.org/wiki/Special:FilePath/SaraParetsky.jpg?width=270</thumbnail>
+<birthEN>1947</birthEN>
+<birthDE>1947</birthDE>
+<deathEN />
+<deathDE />
+<birthPlace>
+<XML_Serializer_Tag>Kansas</XML_Serializer_Tag>
+</birthPlace>
+<deathPlace />
+<professionOrOccupation>
+<XML_Serializer_Tag>Schriftstellerin</XML_Serializer_Tag>
+</professionOrOccupation>
+<dbpResource>http://dbpedia.org/resource/Sara_Paretsky</dbpResource>
+<abstract>Sara Paretsky (* 8. Juni 1947 in Ames, Iowa) ist eine US-amerikanische promovierte Historikerin und Autorin der Kriminalromane rund um die Privatdetektivin V. I. Warshawski.</abstract>
+<wikilink>http://en.wikipedia.org/wiki/Sara_Paretsky?oldid=588357795</wikilink>
+<artworks />
+<buildings />
+<books>
+<XML_Serializer_Tag>
+<book>
+<type>uri</type>
+<value>http://dbpedia.org/resource/Blacklist_(novel)</value>
+</book>
+<author>
+<type>uri</type>
+<value>http://dbpedia.org/resource/Sara_Paretsky</value>
+</author>
+<released>
+<type>typed-literal</type>
+<datatype>http://www.w3.org/2001/XMLSchema#date</datatype>
+<value>2003-09-29+02:00</value>
+</released>
+<wikilink>
+<type>uri</type>
+<value>http://en.wikipedia.org/wiki/Blacklist_(novel)?oldid=544721562</value>
+</wikilink>
+</XML_Serializer_Tag>
+<XML_Serializer_Tag>
+<book>
+<type>uri</type>
+<value>http://dbpedia.org/resource/Indemnity_Only</value>
+</book>
+<author>
+<type>uri</type>
+<value>http://dbpedia.org/resource/Sara_Paretsky</value>
+</author>
+<released>
+<type>typed-literal</type>
+<datatype>http://www.w3.org/2001/XMLSchema#integer</datatype>
+<value>1982</value>
+</released>
+<wikilink>
+<type>uri</type>
+<value>http://en.wikipedia.org/wiki/Indemnity_Only?oldid=581799001</value>
+</wikilink>
+</XML_Serializer_Tag>
+<XML_Serializer_Tag>
+<book>
+<type>uri</type>
+<value>http://dbpedia.org/resource/Blood_Shot_(novel)</value>
+</book>
+<author>
+<type>uri</type>
+<value>http://dbpedia.org/resource/Sara_Paretsky</value>
+</author>
+<wikilink>
+<type>uri</type>
+<value>http://en.wikipedia.org/wiki/Blood_Shot_(novel)?oldid=544723518</value>
+</wikilink>
+</XML_Serializer_Tag>
+</books>
+</Person>

@@ -1,0 +1,24 @@
+<Person>
+<name>Adolf Krischanitz</name>
+<variantName>
+<XML_Serializer_Tag>A. Krischanitz</XML_Serializer_Tag>
+</variantName>
+<thumbnail>https://commons.wikimedia.org/wiki/Special:FilePath/GuentherZ_2012-06-04_0021_Wien04_Karlsplatz_Adolf_Krischanitz.jpg?width=270</thumbnail>
+<birthEN>1946</birthEN>
+<birthDE>1946</birthDE>
+<deathEN />
+<deathDE />
+<birthPlace>
+<XML_Serializer_Tag>Schwarzach im Pongau</XML_Serializer_Tag>
+</birthPlace>
+<deathPlace />
+<professionOrOccupation>
+<XML_Serializer_Tag>Architekt</XML_Serializer_Tag>
+</professionOrOccupation>
+<dbpResource>http://dbpedia.org/resource/Adolf_Krischanitz</dbpResource>
+<abstract>Adolf Krischanitz (* 26. Mai 1946 Schwarzach im Pongau, Salzburg) ist österreichischer Architekt.</abstract>
+<wikilink>http://en.wikipedia.org/wiki/Adolf_Krischanitz?oldid=585540443</wikilink>
+<artworks />
+<buildings />
+<books />
+</Person>

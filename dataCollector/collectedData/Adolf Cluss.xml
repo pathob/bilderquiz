@@ -1,0 +1,140 @@
+<Person>
+<name>Adolf Cluss</name>
+<variantName />
+<thumbnail>https://commons.wikimedia.org/wiki/Special:FilePath/Cluss-adolf.jpg?width=270</thumbnail>
+<birthEN>July 14, 1825</birthEN>
+<birthDE>14. Juli 1825</birthDE>
+<deathEN>July 24, 1905</deathEN>
+<deathDE>24. Juli 1905</deathDE>
+<birthPlace />
+<deathPlace />
+<professionOrOccupation>
+<XML_Serializer_Tag>Architekt</XML_Serializer_Tag>
+</professionOrOccupation>
+<dbpResource>http://dbpedia.org/resource/Adolf_Cluss</dbpResource>
+<abstract>Adolf Cluss (* 14. Juli 1825 in Heilbronn; † 24. Juli 1905 in Washington, D.C., Vereinigte Staaten) war ein deutsch-amerikanischer Architekt. Er gehörte bis 1858 zum inneren Zirkel der Kommunisten um Karl Marx und Friedrich Engels und wurde nach 1864 zum bedeutendsten Architekten Washingtons.Cluss entstammte der Heilbronner Baumeister- und Industriellenfamilie Cluss. Er verließ seine Heimatstadt 1844 als Zimmermanns-Geselle in jungen Jahren. Von 1846 an arbeitete Cluss als Architekt in Mainz, wo er im April 1848 zu den Gründern des Arbeiterbildungsvereins zählt. Er kam in Brüssel mit Karl Marx in Kontakt und schloss sich dem Bund der Gerechten (seit 1847 Bund der Kommunisten) an.Im Sommer 1848 verließ er Deutschland und landete am 15. September 1848 mit dem Auswandererschiff Zürich in New York. In den USA arbeitete Adolf Cluss in Washington zunächst als Ingenieur, meist bei der Marine, ab Anfang der 1860er Jahre als Architekt. Seine Verbindungen zur kommunistischen Bewegung − als deren Anführer in den USA er einige Zeit galt − brach er 1858 ab.In den Jahrzehnten von 1860 bis 1890 arbeitete er als erfolgreicher Architekt in Washington. Er entwarf Dutzende öffentlicher Bauten, darunter mindestens elf Schulen, Markthallen, Regierungsgebäude, Museen sowie Privathäuser. 1872 war er offizieller City Engineer und Mitglied im Ausschuss für öffentliche Bauten. Er hatte damit die Aufsicht über zentrale Arbeiten, die das Gesicht Washingtons in den 1870ern veränderten: das Betonieren von Straßen, die Konstruktion eines Abwassersystems und die Anpflanzung tausender Bäume auf den Straßen.Als besonders einflussreich erwiesen sich seine Schulbauten, bis heute stehen zwei davon: Franklin School und Sumner School, beide in Washingtons Innenstadt. Er entwarf vier bedeutende Gebäude an der National Mall, darunter das Arts and Industries Building der Smithsonian Institution. Zwei Markthallen, Center Market und Eastern Market, beruhen auf seinen Entwürfen. Eastern Market dient noch heute als Markthalle auf dem Capitol Hill.Für die Elite Washingtons baute er Privathäuser. 1880 errichtete er Washingtons erstes Apartmenthaus, Portland Flats, ein sechsstöckiges Gebäude mit 39 Wohnungen. Von seinen Privathäusern ist wahrscheinlich keines erhalten; Portland Flats musste 1962 einem Bürogebäude weichen.Aufgrund seiner frühen politischen Neigungen und weil roter Backstein sein bevorzugtes Baumaterial war, war der spätere überzeugte Republikaner auch als „roter Architekt“ bekannt.</abstract>
+<wikilink>http://en.wikipedia.org/wiki/Adolf_Cluss?oldid=581637548</wikilink>
+<artworks />
+<buildings>
+<XML_Serializer_Tag>
+<building>
+<type>uri</type>
+<value>http://dbpedia.org/resource/Charles_Sumner_School</value>
+</building>
+<name>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>Charles Sumner School</value>
+</name>
+<architect>
+<type>uri</type>
+<value>http://dbpedia.org/resource/Adolf_Cluss</value>
+</architect>
+<thumbnail>
+<type>uri</type>
+<value>http://commons.wikimedia.org/wiki/Special:FilePath/Sumner_School.JPG?width=300</value>
+</thumbnail>
+<wikilink>
+<type>uri</type>
+<value>http://en.wikipedia.org/wiki/Charles_Sumner_School?oldid=587697830</value>
+</wikilink>
+<location>
+<type>uri</type>
+<value>http://dbpedia.org/resource/Northwest,_Washington,_D.C.</value>
+</location>
+<built>
+<type>typed-literal</type>
+<datatype>http://www.w3.org/2001/XMLSchema#integer</datatype>
+<value>1872</value>
+</built>
+</XML_Serializer_Tag>
+<XML_Serializer_Tag>
+<building>
+<type>uri</type>
+<value>http://dbpedia.org/resource/Army_Medical_Museum_and_Library</value>
+</building>
+<name>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>Army Medical Museum and Library</value>
+</name>
+<architect>
+<type>uri</type>
+<value>http://dbpedia.org/resource/Adolf_Cluss</value>
+</architect>
+<thumbnail>
+<type>uri</type>
+<value>http://commons.wikimedia.org/wiki/Special:FilePath/Army_Medical_Museum_and_Library.jpg?width=300</value>
+</thumbnail>
+<wikilink>
+<type>uri</type>
+<value>http://en.wikipedia.org/wiki/Army_Medical_Museum_and_Library?oldid=605156227</value>
+</wikilink>
+<location>
+<type>uri</type>
+<value>http://dbpedia.org/resource/Washington,_D.C.</value>
+</location>
+<built>
+<type>typed-literal</type>
+<datatype>http://www.w3.org/2001/XMLSchema#integer</datatype>
+<value>1887</value>
+</built>
+</XML_Serializer_Tag>
+<XML_Serializer_Tag>
+<building>
+<type>uri</type>
+<value>http://dbpedia.org/resource/Eastern_Market,_Washington,_D.C.</value>
+</building>
+<name>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>Eastern Market</value>
+</name>
+<architect>
+<type>uri</type>
+<value>http://dbpedia.org/resource/Adolf_Cluss</value>
+</architect>
+<thumbnail>
+<type>uri</type>
+<value>http://commons.wikimedia.org/wiki/Special:FilePath/Eastern_Market_-_southeast_corner.JPG?width=300</value>
+</thumbnail>
+<wikilink>
+<type>uri</type>
+<value>http://en.wikipedia.org/wiki/Eastern_Market,_Washington,_D.C.?oldid=575662260</value>
+</wikilink>
+<location>
+<type>uri</type>
+<value>http://dbpedia.org/resource/Southeast,_Washington,_D.C.</value>
+</location>
+<built>
+<type>typed-literal</type>
+<datatype>http://www.w3.org/2001/XMLSchema#integer</datatype>
+<value>1871</value>
+</built>
+</XML_Serializer_Tag>
+<XML_Serializer_Tag>
+<building>
+<type>uri</type>
+<value>http://dbpedia.org/resource/Calvary_Baptist_Church_(Washington,_D.C.)</value>
+</building>
+<name>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>Calvary Baptist Church</value>
+</name>
+<architect>
+<type>uri</type>
+<value>http://dbpedia.org/resource/Adolf_Cluss</value>
+</architect>
+<thumbnail>
+<type>uri</type>
+<value>http://commons.wikimedia.org/wiki/Special:FilePath/Calvary_Baptist_Church_DC.JPG?width=300</value>
+</thumbnail>
+<wikilink>
+<type>uri</type>
+<value>http://en.wikipedia.org/wiki/Calvary_Baptist_Church_(Washington,_D.C.)?oldid=590848161</value>
+</wikilink>
+</XML_Serializer_Tag>
+</buildings>
+<books />
+</Person>

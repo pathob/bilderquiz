@@ -21,8 +21,10 @@
 <XML_Serializer_Tag>Maler</XML_Serializer_Tag>
 <XML_Serializer_Tag>Graphiker</XML_Serializer_Tag>
 </professionOrOccupation>
-<artworks />
 <dbpResource>http://dbpedia.org/resource/Friedrich_Gauermann</dbpResource>
 <abstract>Friedrich August Matthias Gauermann (* 20. September 1807 in Scheuchenstein, Gemeinde Miesenbach, Niederösterreich; † 7. Juli 1862 in Wien) war ein österreichischer Maler und Grafiker.</abstract>
 <wikilink>http://en.wikipedia.org/wiki/Friedrich_Gauermann?oldid=605338803</wikilink>
+<artworks />
+<buildings />
+<books />
 </Person>

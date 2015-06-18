@@ -1,0 +1,29 @@
+<Person>
+<name>Alexander Pope</name>
+<variantName>
+<XML_Serializer_Tag>Alessandro Pope</XML_Serializer_Tag>
+<XML_Serializer_Tag>Al. Pope</XML_Serializer_Tag>
+<XML_Serializer_Tag>... Pope</XML_Serializer_Tag>
+<XML_Serializer_Tag>Pope</XML_Serializer_Tag>
+<XML_Serializer_Tag>Esdras Barnivelt</XML_Serializer_Tag>
+<XML_Serializer_Tag>Martinus Scriblerus</XML_Serializer_Tag>
+<XML_Serializer_Tag>Iscariot Hackney</XML_Serializer_Tag>
+<XML_Serializer_Tag>J. Baker</XML_Serializer_Tag>
+</variantName>
+<thumbnail>https://commons.wikimedia.org/wiki/Special:FilePath/Alexander_Pope_by_Michael_Dahl.jpg?width=270</thumbnail>
+<birthEN>1688</birthEN>
+<birthDE>1688</birthDE>
+<deathEN>1744</deathEN>
+<deathDE>1744</deathDE>
+<birthPlace />
+<deathPlace />
+<professionOrOccupation>
+<XML_Serializer_Tag>Schriftsteller</XML_Serializer_Tag>
+</professionOrOccupation>
+<dbpResource>http://dbpedia.org/resource/Alexander_Pope</dbpResource>
+<abstract>Alexander Pope (* 21. Mai 1688 in London; † 30. Mai 1744 in Twickenham, heute Teil Londons) war ein englischer Dichter, Übersetzer und Schriftsteller des Klassizismus in der Frühzeit der Aufklärung.</abstract>
+<wikilink>http://en.wikipedia.org/wiki/Alexander_Pope?oldid=606383431</wikilink>
+<artworks />
+<buildings />
+<books />
+</Person>

@@ -15,8 +15,10 @@
 <XML_Serializer_Tag>Maler</XML_Serializer_Tag>
 <XML_Serializer_Tag>Graphiker</XML_Serializer_Tag>
 </professionOrOccupation>
-<artworks />
 <dbpResource>http://dbpedia.org/resource/Walter_Pach</dbpResource>
 <abstract>Walter Pach (* 11. Juli 1883 in New York; † 27. November 1958 ebenda) war ein US-amerikanischer Künstler, Ausstellungsmacher und Kunstkritiker. Er gehörte, neben Arthur B. Davies, Walt Kuhn und anderen, zu den Organisatoren der legendären Armory Show, die 1913 in New York eröffnet wurde.</abstract>
 <wikilink>http://en.wikipedia.org/wiki/Walter_Pach?oldid=603313694</wikilink>
+<artworks />
+<buildings />
+<books />
 </Person>

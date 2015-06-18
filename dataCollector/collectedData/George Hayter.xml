@@ -15,8 +15,10 @@
 <professionOrOccupation>
 <XML_Serializer_Tag>Maler</XML_Serializer_Tag>
 </professionOrOccupation>
-<artworks />
 <dbpResource>http://dbpedia.org/resource/George_Hayter</dbpResource>
 <abstract>George Hayter (* 17. Dezember 1792 in London; † 18. Januar 1871 ebenda) war ein englischer Maler.</abstract>
 <wikilink>http://en.wikipedia.org/wiki/George_Hayter?oldid=603265682</wikilink>
+<artworks />
+<buildings />
+<books />
 </Person>

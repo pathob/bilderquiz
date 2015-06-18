@@ -1,0 +1,41 @@
+<Person>
+<name>Georg Neumark</name>
+<variantName>
+<XML_Serializer_Tag>Georg Neumarck</XML_Serializer_Tag>
+<XML_Serializer_Tag>Georgius Neomarcus</XML_Serializer_Tag>
+<XML_Serializer_Tag>Georg Neomarcus</XML_Serializer_Tag>
+<XML_Serializer_Tag>G. Neumarcus</XML_Serializer_Tag>
+<XML_Serializer_Tag>Georgius Neumarcus</XML_Serializer_Tag>
+<XML_Serializer_Tag>G. Neumark</XML_Serializer_Tag>
+<XML_Serializer_Tag>G. N.</XML_Serializer_Tag>
+<XML_Serializer_Tag>G. N. S.</XML_Serializer_Tag>
+<XML_Serializer_Tag>Der Sprossende</XML_Serializer_Tag>
+<XML_Serializer_Tag>Der Sprossende</XML_Serializer_Tag>
+<XML_Serializer_Tag>Thyrsis</XML_Serializer_Tag>
+<XML_Serializer_Tag>Erdman Neagoras</XML_Serializer_Tag>
+<XML_Serializer_Tag>Gehorsamen Diener</XML_Serializer_Tag>
+<XML_Serializer_Tag>Georg Neumarckius</XML_Serializer_Tag>
+</variantName>
+<thumbnail>https://commons.wikimedia.org/wiki/Special:FilePath/Georg_Neumark.jpg?width=270</thumbnail>
+<birthEN>March 16, 1621</birthEN>
+<birthDE>16. März 1621</birthDE>
+<deathEN>July 8, 1681</deathEN>
+<deathDE>8. Juli 1681</deathDE>
+<birthPlace>
+<XML_Serializer_Tag>Bad Langensalza</XML_Serializer_Tag>
+</birthPlace>
+<deathPlace>
+<XML_Serializer_Tag>Weimar</XML_Serializer_Tag>
+</deathPlace>
+<professionOrOccupation>
+<XML_Serializer_Tag>Komponist</XML_Serializer_Tag>
+<XML_Serializer_Tag>Bibliothekar</XML_Serializer_Tag>
+<XML_Serializer_Tag>Schriftsteller</XML_Serializer_Tag>
+</professionOrOccupation>
+<dbpResource>http://dbpedia.org/resource/Georg_Neumark</dbpResource>
+<abstract>Georg Neumark (* 16. März 1621 in Langensalza; † 8. Juli 1681 in Weimar) war ein deutscher Dichter und Komponist von protestantischen Kirchenliedern.</abstract>
+<wikilink>http://en.wikipedia.org/wiki/Georg_Neumark?oldid=558930030</wikilink>
+<artworks />
+<buildings />
+<books />
+</Person>

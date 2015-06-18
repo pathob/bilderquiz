@@ -1,0 +1,156 @@
+<Person>
+<name>Max Frisch</name>
+<variantName>
+<XML_Serializer_Tag>Mǎkj̮ F̱rij</XML_Serializer_Tag>
+<XML_Serializer_Tag>Maks Friš</XML_Serializer_Tag>
+<XML_Serializer_Tag>Māks Frīš</XML_Serializer_Tag>
+<XML_Serializer_Tag>Maksas Frišas</XML_Serializer_Tag>
+<XML_Serializer_Tag>Makss Frišs</XML_Serializer_Tag>
+<XML_Serializer_Tag>Max Fris</XML_Serializer_Tag>
+<XML_Serializer_Tag>Māksa Phriśa</XML_Serializer_Tag>
+<XML_Serializer_Tag>Max Phris</XML_Serializer_Tag>
+<XML_Serializer_Tag>Maksŭ P&apos;ŭriswi</XML_Serializer_Tag>
+<XML_Serializer_Tag>Maksŭ P&apos;ŭrisyu</XML_Serializer_Tag>
+<XML_Serializer_Tag>Magseu-Peulisyu</XML_Serializer_Tag>
+<XML_Serializer_Tag>Mag seu Peu li syu</XML_Serializer_Tag>
+<XML_Serializer_Tag>... Frisch-Hentig</XML_Serializer_Tag>
+<XML_Serializer_Tag>Mak̕s P̕riši</XML_Serializer_Tag>
+<XML_Serializer_Tag>Ma ke si Fu li shi</XML_Serializer_Tag>
+<XML_Serializer_Tag>Makesi-Fulishi</XML_Serializer_Tag>
+<XML_Serializer_Tag>Makesi Fulishi</XML_Serializer_Tag>
+<XML_Serializer_Tag>막스 프리쉬</XML_Serializer_Tag>
+<XML_Serializer_Tag>מאכס פריש</XML_Serializer_Tag>
+<XML_Serializer_Tag>马克斯·弗里施</XML_Serializer_Tag>
+<XML_Serializer_Tag>马克斯 弗里施</XML_Serializer_Tag>
+<XML_Serializer_Tag>マックス フリッシュ</XML_Serializer_Tag>
+</variantName>
+<thumbnail>https://commons.wikimedia.org/wiki/Special:FilePath/Swiss-Commemorative-Coin-2011a-CHF-20-obverse.png?width=270</thumbnail>
+<birthEN>May 15, 1911</birthEN>
+<birthDE>15. Mai 1911</birthDE>
+<deathEN>April 4, 1991</deathEN>
+<deathDE>4. April 1991</deathDE>
+<birthPlace>
+<XML_Serializer_Tag>Zürich</XML_Serializer_Tag>
+</birthPlace>
+<deathPlace>
+<XML_Serializer_Tag>Zürich</XML_Serializer_Tag>
+</deathPlace>
+<professionOrOccupation>
+<XML_Serializer_Tag>Journalist</XML_Serializer_Tag>
+<XML_Serializer_Tag>Architekt</XML_Serializer_Tag>
+<XML_Serializer_Tag>Sprecher</XML_Serializer_Tag>
+<XML_Serializer_Tag>Schriftsteller</XML_Serializer_Tag>
+<XML_Serializer_Tag>Drehbuchautor</XML_Serializer_Tag>
+</professionOrOccupation>
+<dbpResource>http://dbpedia.org/resource/Max_Frisch</dbpResource>
+<abstract>Max Rudolf Frisch (* 15. Mai 1911 in Zürich; † 4. April 1991 ebenda) war ein Schweizer Schriftsteller und Architekt. Mit Theaterstücken wie Biedermann und die Brandstifter oder Andorra sowie mit seinen drei großen Romanen Stiller, Homo faber und Mein Name sei Gantenbein erreichte Frisch ein breites Publikum und fand Eingang in den Schulkanon. Darüber hinaus veröffentlichte er Hörspiele, Erzählungen und Prosawerke sowie zwei, die Zeiträume von 1946 bis 1949 und 1966 bis 1971 umfassende, literarische Tagebücher.Der junge Max Frisch empfand bürgerliche und künstlerische Existenz als unvereinbar und war lange Zeit unsicher, welchen Lebensentwurf er wählen sollte. Infolgedessen absolvierte Frisch nach einem abgebrochenen Germanistik-Studium und ersten literarischen Arbeiten ein Studium der Architektur und arbeitete einige Jahre lang als Architekt. Erst nach dem Erfolg seines Romans Stiller entschied er sich endgültig für ein Dasein als Schriftsteller und verließ seine Familie, um sich ganz dem Schreiben widmen zu können.Im Zentrum von Frischs Schaffen steht häufig die Auseinandersetzung mit sich selbst, wobei viele der dabei aufgeworfenen Probleme als typisch für den postmodernen Menschen gelten: Finden und Behaupten einer eigenen Identität, insbesondere in der Begegnung mit den festgefügten Bildern anderer, Konstruktion der eigenen Biografie, Geschlechterrollen und ihre Auflösung sowie die Frage, was mit Sprache überhaupt sagbar sei. Im literarisch ausgestalteten Tagebuch, das Autobiografisches mit fiktionalen Elementen verbindet, findet Frisch eine literarische Form, die ihm in besonderem Maße entspricht und in der er auch seine ausgedehnten Reisen reflektiert. Nachdem er jahrelang im Ausland gelebt hatte, beschäftigte Frisch sich nach seiner Rückkehr zudem zunehmend kritisch mit seinem Heimatland, der Schweiz.</abstract>
+<wikilink>http://en.wikipedia.org/wiki/Max_Frisch?oldid=602838295</wikilink>
+<artworks />
+<buildings />
+<books>
+<XML_Serializer_Tag>
+<book>
+<type>uri</type>
+<value>http://dbpedia.org/resource/Bluebeard_(Frisch_novel)</value>
+</book>
+<author>
+<type>uri</type>
+<value>http://dbpedia.org/resource/Max_Frisch</value>
+</author>
+<thumbnail>
+<type>uri</type>
+<value>http://commons.wikimedia.org/wiki/Special:FilePath/Cv-blaubart.jpg?width=300</value>
+</thumbnail>
+<wikilink>
+<type>uri</type>
+<value>http://en.wikipedia.org/wiki/Bluebeard_(Frisch_novel)?oldid=559549929</value>
+</wikilink>
+<abstract>
+<type>literal</type>
+<xml:lang>de</xml:lang>
+<value>Blaubart ist eine Erzählung des Schweizer Schriftstellers Max Frisch aus dem Jahr 1982 und die letzte größere literarische Arbeit des Autors. Darin griff Frisch noch einmal wesentliche Motive aus seinem Werk auf: die Suche nach der personalen Identität, die Festlegung des Einzelnen durch das Bild, das sich die Umwelt von ihm macht, sowie Schuld und Schuldbewusstsein des Mannes in seiner Beziehung zur Frau.Felix Schaad, der Protagonist der Erzählung, ist ein des Mordes an seiner geschiedenen Ehefrau angeklagter Arzt. Zwar wird er im Gerichtsprozess freigesprochen, doch hat das Verfahren sein Bild in der Öffentlichkeit und in der Folge auch sein Selbstbild beschädigt. Schaad kann sich nicht von den Erinnerungen an die Verhöre lösen, die sich nach dem Prozess in seinen Gedanken und Träumen fortsetzen. Der Vorwurf der konkreten Schuld am Tod seiner Frau weckt in ihm die generelle Frage, wie sehr er in seinem Leben schuldig geworden ist. Am Ende legt Schaad ein Geständnis ab.Formal steht Blaubart unter dem Prinzip einer in Frischs Spätwerk immer weiter fortschreitenden Reduktion von Inhalt und Form. Die von vielen als „karg“ und „kahl“ empfundene Prosa führte zu einer geteilten Aufnahme in der Literaturkritik. Während manche Stimmen die Erzählung als meisterhaftes Alterswerk bewunderten, wirkte sie auf andere Rezensenten irritierend, ermüdend und leer. Nach Blaubart zog sich Frisch von der literarischen Produktion zurück und veröffentlichte nur noch einen umfangreicheren Text, das politische Dialogstück Schweiz ohne Armee? Ein Palaver.</value>
+</abstract>
+</XML_Serializer_Tag>
+<XML_Serializer_Tag>
+<book>
+<type>uri</type>
+<value>http://dbpedia.org/resource/Man_in_the_Holocene</value>
+</book>
+<author>
+<type>uri</type>
+<value>http://dbpedia.org/resource/Max_Frisch</value>
+</author>
+<released>
+<type>typed-literal</type>
+<datatype>http://www.w3.org/2001/XMLSchema#integer</datatype>
+<value>1979</value>
+</released>
+<wikilink>
+<type>uri</type>
+<value>http://en.wikipedia.org/wiki/Man_in_the_Holocene?oldid=553294609</value>
+</wikilink>
+<abstract>
+<type>literal</type>
+<xml:lang>de</xml:lang>
+<value>Der Mensch erscheint im Holozän ist eine Erzählung des Schweizer Schriftstellers Max Frisch, die erstmals im Jahr 1979 erschien. Für ihren isoliert lebenden Protagonisten wird ein tagelanges Unwetter in einem abgeschnittenen Schweizer Bergdorf zur Parabel des eigenen Verfalls und Sterbens. Gegen den fortschreitenden Gedächtnisverlust kämpft er durch das Sammeln von lexikalischen Informationen auf unzähligen Zetteln an, die er in seinem Haus aufhängt, ehe er nach einem abgebrochenen Fluchtversuch ins Tal erkennt, dass die Welt sein Gedächtnis nicht braucht.Im Gegensatz zu den Vereinigten Staaten, in denen Der Mensch erscheint im Holozän als „Meisterwerk“ gefeiert wurde, erfuhr die Erzählung bei ihrem Erscheinen im deutschen Sprachraum eine geringe Resonanz. Viele Kritiker werteten sie als „autobiografisch“, eine Zuschreibung, gegen die der Autor sich verwahrte. Inzwischen wird die Bedeutung von Der Mensch erscheint im Holozän im Spätwerk Max Frischs, für das die Erzählung mit ihrer Thematik von Alter und Tod, der formalen Reduktion und sprachlichen Knappheit als beispielhaft gilt, allgemein anerkannt.</value>
+</abstract>
+</XML_Serializer_Tag>
+<XML_Serializer_Tag>
+<book>
+<type>uri</type>
+<value>http://dbpedia.org/resource/An_Answer_from_the_Silence</value>
+</book>
+<author>
+<type>uri</type>
+<value>http://dbpedia.org/resource/Max_Frisch</value>
+</author>
+<wikilink>
+<type>uri</type>
+<value>http://en.wikipedia.org/wiki/An_Answer_from_the_Silence?oldid=593956310</value>
+</wikilink>
+<abstract>
+<type>literal</type>
+<xml:lang>de</xml:lang>
+<value>Antwort aus der Stille ist eine Erzählung des Schweizer Schriftstellers Max Frisch. Die zweite größere literarische Arbeit des Autors nach Jürg Reinhart erschien im Jahr 1937, als Frisch 26 Jahre alt war, bei der Deutschen Verlags-Anstalt mit dem Untertitel Eine Erzählung aus den Bergen. Später lehnte Frisch das Jugendwerk ab und nahm es nicht in seine Werkausgabe auf. Erst 2009 veröffentlichte der Suhrkamp Verlag eine Neuausgabe mit einem Nachwort von Peter von Matt. Während die Besprechungen der Erstausgabe überwiegend freundlich waren, schlossen sich 72 Jahre später die meisten Rezensenten Frischs skeptischer Haltung zum eigenen Werk an.Die Erzählung handelt von einem jungen Mann, der zwischen einer Künstlerexistenz und einer bürgerlichen Karriere zwiegespalten ist. Indem er sein Leben durch eine heroische Tat aufs Spiel setzt, die Erstbesteigung einer Bergroute, verschafft er sich Klarheit über seine Zukunft und gelangt zur Erkenntnis, dass auch das gewöhnlichste Leben wert sei, gelebt zu werden. Antwort aus der Stille ist sowohl durch Frischs eigene, im Text autobiografisch verarbeitete Lebenssituation als auch durch zeitgeschichtliche Einflüsse der 1930er Jahre geprägt. Der Stil ist noch deutlich lyrischer als in Frischs späterer Prosa. Dennoch lassen sich bereits in der frühen Erzählung Grundthemen des folgenden Werks ausmachen, so der Ausbruch aus der bürgerlichen Welt und die Sehnsucht nach einer zeitlich begrenzten Liebe ohne Konsequenzen.</value>
+</abstract>
+</XML_Serializer_Tag>
+<XML_Serializer_Tag>
+<book>
+<type>uri</type>
+<value>http://dbpedia.org/resource/Gantenbein</value>
+</book>
+<author>
+<type>uri</type>
+<value>http://dbpedia.org/resource/Max_Frisch</value>
+</author>
+<wikilink>
+<type>uri</type>
+<value>http://en.wikipedia.org/wiki/Gantenbein?oldid=595758501</value>
+</wikilink>
+<abstract>
+<type>literal</type>
+<xml:lang>de</xml:lang>
+<value>Mein Name sei Gantenbein ist ein Roman des Schweizer Schriftstellers Max Frisch. Er wurde im Herbst 1964 veröffentlicht und zählt gemeinsam mit Stiller und Homo faber zu Frischs Prosa-Hauptwerk.Frisch greift in Mein Name sei Gantenbein mit der Frage nach der Identität eines Menschen und seiner sozialen Rolle ein Hauptthema seines Werkes auf. Der Erzähler erfindet sich nach einer gescheiterten Beziehung wechselnde Identitäten, um der eigenen Erfahrung aus unterschiedlichen Blickwinkeln nachzuspüren. Der spielerische Umgang mit Biografien und Fiktionen folgt dem Motto „Ich probiere Geschichten an wie Kleider“ und findet in einer literarischen Montage kurzer Erzählabschnitte seine formale Umsetzung.</value>
+</abstract>
+</XML_Serializer_Tag>
+<XML_Serializer_Tag>
+<book>
+<type>uri</type>
+<value>http://dbpedia.org/resource/Homo_Faber_(novel)</value>
+</book>
+<author>
+<type>uri</type>
+<value>http://dbpedia.org/resource/Max_Frisch</value>
+</author>
+<wikilink>
+<type>uri</type>
+<value>http://en.wikipedia.org/wiki/Homo_Faber_(novel)?oldid=604339255</value>
+</wikilink>
+<abstract>
+<type>literal</type>
+<xml:lang>de</xml:lang>
+<value>Homo faber. Ein Bericht ist ein Roman des Schweizer Schriftstellers Max Frisch. Nach seiner Veröffentlichung im Oktober 1957 entwickelte er sich zum Bestseller und gilt als eines der bekanntesten Prosawerke Max Frischs. Der Roman wurde vielfach übersetzt und sowohl in literaturwissenschaftlichen Untersuchungen als auch im Schulunterricht häufig behandelt. Eine Verfilmung Volker Schlöndorffs kam 1991 als Homo Faber in die Kinos.Der Titel des Romans setzt die Hauptfigur namens Walter Faber in Bezug zum anthropologischen Begriff des homo faber, des schaffenden Menschen. Walter Faber ist ein Ingenieur mit streng rationaler, technisch orientierter Weltanschauung, in dessen geordnetes Leben der Zufall und die verdrängte Vergangenheit einbrechen. Durch eine Verkettung unwahrscheinlicher Ereignisse trifft er nacheinander auf seinen verstorbenen Jugendfreund, seine unvergessene Jugendliebe und seine Tochter, von deren Existenz er nichts ahnt. Unwissentlich geht Faber mit der jungen Frau eine inzestuöse Liebesbeziehung ein, die ein tragisches Ende nimmt. Erst am Ende erkennt er seine Verfehlungen und Versäumnisse; todkrank will er sein Leben wandeln.Neben autobiografischen Elementen verarbeitete Max Frisch in Homo faber zentrale Kernthemen seines Werks: den Konflikt zwischen persönlicher Identität und sozialer Rolle, die Bestimmung des Daseins durch Zufall oder Schicksal, den Gegensatz von Technik zu Natur und Mythos, die misslungene Beziehung zwischen den Geschlechtern und das verfehlte Leben.</value>
+</abstract>
+</XML_Serializer_Tag>
+</books>
+</Person>

@@ -25,8 +25,10 @@
 <XML_Serializer_Tag>Graphiker</XML_Serializer_Tag>
 <XML_Serializer_Tag>Illustrator</XML_Serializer_Tag>
 </professionOrOccupation>
-<artworks />
 <dbpResource>http://dbpedia.org/resource/Moritz_von_Schwind</dbpResource>
 <abstract>Moritz Ludwig von Schwind (* 21. Januar 1804 in Wien; † 8. Februar 1871 in Niederpöcking, Oberbayern) war ein österreichischer Maler und Zeichner.</abstract>
 <wikilink>http://en.wikipedia.org/wiki/Moritz_von_Schwind?oldid=583881473</wikilink>
+<artworks />
+<buildings />
+<books />
 </Person>

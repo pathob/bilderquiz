@@ -1,0 +1,26 @@
+<Person>
+<name>Maximilian Schmidt</name>
+<variantName>
+<XML_Serializer_Tag>Waldschmidt</XML_Serializer_Tag>
+<XML_Serializer_Tag>Maximilian Schmitt</XML_Serializer_Tag>
+<XML_Serializer_Tag>Maximilian Waldschmidt</XML_Serializer_Tag>
+<XML_Serializer_Tag>Max Schmidt</XML_Serializer_Tag>
+</variantName>
+<thumbnail>https://commons.wikimedia.org/wiki/Special:FilePath/Maximilian_Schmidt.jpg?width=270</thumbnail>
+<birthEN>February 25, 1832</birthEN>
+<birthDE>25. Februar 1832</birthDE>
+<deathEN>December 3, 1919</deathEN>
+<deathDE>3. Dezember 1919</deathDE>
+<birthPlace />
+<deathPlace />
+<professionOrOccupation>
+<XML_Serializer_Tag>Schriftsteller</XML_Serializer_Tag>
+<XML_Serializer_Tag>Hauptmann</XML_Serializer_Tag>
+</professionOrOccupation>
+<dbpResource>http://dbpedia.org/resource/Maximilian_Schmidt</dbpResource>
+<abstract>Maximilian Schmidt genannt Waldschmidt (* 25. Februar 1832 in Eschlkam (Künisches Gebirge) in der Oberpfalz; † 8. Dezember 1919 in München), war ein bayerischer Heimatschriftsteller.</abstract>
+<wikilink>http://en.wikipedia.org/wiki/Maximilian_Schmidt?oldid=545969755</wikilink>
+<artworks />
+<buildings />
+<books />
+</Person>

@@ -1,0 +1,34 @@
+<Person>
+<name>Heinrich Biltz</name>
+<variantName>
+<XML_Serializer_Tag>Johann Heinrich Biltz</XML_Serializer_Tag>
+<XML_Serializer_Tag>Johann H. Biltz</XML_Serializer_Tag>
+<XML_Serializer_Tag>J. H. Biltz</XML_Serializer_Tag>
+<XML_Serializer_Tag>J. Biltz</XML_Serializer_Tag>
+<XML_Serializer_Tag>H. Biltz</XML_Serializer_Tag>
+<XML_Serializer_Tag>Genrich Bil&apos;č</XML_Serializer_Tag>
+<XML_Serializer_Tag>... Biltz-Klemm-Fischer</XML_Serializer_Tag>
+</variantName>
+<thumbnail>https://commons.wikimedia.org/wiki/Special:FilePath/Biltz_Johann_Heinrich.jpg?width=270</thumbnail>
+<birthEN>May 26, 1865</birthEN>
+<birthDE>26. Mai 1865</birthDE>
+<deathEN>October 29, 1943</deathEN>
+<deathDE>29. Oktober 1943</deathDE>
+<birthPlace>
+<XML_Serializer_Tag>Berlin</XML_Serializer_Tag>
+</birthPlace>
+<deathPlace>
+<XML_Serializer_Tag>Breslau</XML_Serializer_Tag>
+</deathPlace>
+<professionOrOccupation>
+<XML_Serializer_Tag>Chemiker</XML_Serializer_Tag>
+<XML_Serializer_Tag>Schriftsteller</XML_Serializer_Tag>
+<XML_Serializer_Tag>Hochschullehrer</XML_Serializer_Tag>
+</professionOrOccupation>
+<dbpResource>http://dbpedia.org/resource/Heinrich_Biltz</dbpResource>
+<abstract>(Johann) Heinrich Biltz (* 26. Mai 1865 in Berlin; † 29. Oktober 1943 in Breslau) war ein deutscher Chemiker und Hochschullehrer.</abstract>
+<wikilink>http://en.wikipedia.org/wiki/Heinrich_Biltz?oldid=605829635</wikilink>
+<artworks />
+<buildings />
+<books />
+</Person>

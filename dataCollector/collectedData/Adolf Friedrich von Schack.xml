@@ -1,0 +1,41 @@
+<Person>
+<name>Adolf Friedrich von Schack</name>
+<variantName>
+<XML_Serializer_Tag>Adolph Friedrich von Schack</XML_Serializer_Tag>
+<XML_Serializer_Tag>Adolph F. von Schack</XML_Serializer_Tag>
+<XML_Serializer_Tag>Adolf von Schack</XML_Serializer_Tag>
+<XML_Serializer_Tag>Adolf Friedrich Schack</XML_Serializer_Tag>
+<XML_Serializer_Tag>Adolph Schack</XML_Serializer_Tag>
+<XML_Serializer_Tag>A. F. v. Schack</XML_Serializer_Tag>
+<XML_Serializer_Tag>Adolf F. von Schack</XML_Serializer_Tag>
+<XML_Serializer_Tag>A. Fr. v. Schack</XML_Serializer_Tag>
+<XML_Serializer_Tag>, Graf</XML_Serializer_Tag>
+<XML_Serializer_Tag>A. Fr. von Schack</XML_Serializer_Tag>
+<XML_Serializer_Tag>A. F. von Schack</XML_Serializer_Tag>
+<XML_Serializer_Tag>A. von Schack</XML_Serializer_Tag>
+<XML_Serializer_Tag>Fr. Ad. Schack</XML_Serializer_Tag>
+<XML_Serializer_Tag>Ad. Frdr. v. Schack</XML_Serializer_Tag>
+</variantName>
+<thumbnail>https://commons.wikimedia.org/wiki/Special:FilePath/Schack.jpg?width=270</thumbnail>
+<birthEN>August 2, 1815</birthEN>
+<birthDE>2. August 1815</birthDE>
+<deathEN>April 14, 1894</deathEN>
+<deathDE>14. April 1894</deathDE>
+<birthPlace>
+<XML_Serializer_Tag>Schwerin</XML_Serializer_Tag>
+</birthPlace>
+<deathPlace>
+<XML_Serializer_Tag>Rom</XML_Serializer_Tag>
+</deathPlace>
+<professionOrOccupation>
+<XML_Serializer_Tag>Schriftsteller</XML_Serializer_Tag>
+<XML_Serializer_Tag>Literarhistoriker</XML_Serializer_Tag>
+<XML_Serializer_Tag>Übersetzer</XML_Serializer_Tag>
+</professionOrOccupation>
+<dbpResource>http://dbpedia.org/resource/Adolf_Friedrich_von_Schack</dbpResource>
+<abstract>Adolf Friedrich Graf von Schack (* 2. August 1815 in Schwerin; † 14. April 1894 in Rom) war ein deutscher Dichter, Kunst- und Literaturhistoriker.</abstract>
+<wikilink>http://en.wikipedia.org/wiki/Adolf_Friedrich_von_Schack?oldid=594649708</wikilink>
+<artworks />
+<buildings />
+<books />
+</Person>

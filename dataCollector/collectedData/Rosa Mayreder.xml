@@ -1,0 +1,29 @@
+<Person>
+<name>Rosa Mayreder</name>
+<variantName>
+<XML_Serializer_Tag>Rosa M.-Obermayer</XML_Serializer_Tag>
+<XML_Serializer_Tag>Rosa Mayreder-Obermayer</XML_Serializer_Tag>
+<XML_Serializer_Tag>Rosa Obermayer</XML_Serializer_Tag>
+<XML_Serializer_Tag>Rosa Mayreder-Obermayer</XML_Serializer_Tag>
+</variantName>
+<thumbnail>https://de.wikipedia.org/wiki/Special:FilePath/Rosamayrederneunzehnhundertfuenf.jpg?width=270</thumbnail>
+<birthEN>November 30, 1858</birthEN>
+<birthDE>30. November 1858</birthDE>
+<deathEN>January 19, 1938</deathEN>
+<deathDE>19. Januar 1938</deathDE>
+<birthPlace>
+<XML_Serializer_Tag>Wien</XML_Serializer_Tag>
+</birthPlace>
+<deathPlace>
+<XML_Serializer_Tag>Wien</XML_Serializer_Tag>
+</deathPlace>
+<professionOrOccupation>
+<XML_Serializer_Tag>Schriftstellerin</XML_Serializer_Tag>
+</professionOrOccupation>
+<dbpResource>http://dbpedia.org/resource/Rosa_Mayreder</dbpResource>
+<abstract>Rosa Mayreder (geb. Obermayer, Pseud.: Franz Arnold) (* 30. November 1858 in Wien; † 19. Jänner 1938 ebenda) war eine österreichische Schriftstellerin, Frauenrechtlerin, Kulturphilosophin, Librettistin, Musikerin und Malerin.</abstract>
+<wikilink>http://en.wikipedia.org/wiki/Rosa_Mayreder?oldid=591723958</wikilink>
+<artworks />
+<buildings />
+<books />
+</Person>

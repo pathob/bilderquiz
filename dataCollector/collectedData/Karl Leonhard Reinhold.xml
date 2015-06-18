@@ -1,0 +1,35 @@
+<Person>
+<name>Karl Leonhard Reinhold</name>
+<variantName>
+<XML_Serializer_Tag>Carl Leonhard Reinhold</XML_Serializer_Tag>
+<XML_Serializer_Tag>C. L. Reinhold</XML_Serializer_Tag>
+<XML_Serializer_Tag>K. L. Reinhold</XML_Serializer_Tag>
+<XML_Serializer_Tag>Br. Decius</XML_Serializer_Tag>
+<XML_Serializer_Tag>Carl L. Reinhold</XML_Serializer_Tag>
+<XML_Serializer_Tag>Decius, Bruder</XML_Serializer_Tag>
+<XML_Serializer_Tag>Reinhold, Bruder</XML_Serializer_Tag>
+<XML_Serializer_Tag>Decius</XML_Serializer_Tag>
+<XML_Serializer_Tag>Karl L. Reinhold</XML_Serializer_Tag>
+</variantName>
+<thumbnail>https://commons.wikimedia.org/wiki/Special:FilePath/Carl_Leonhard_Reinhold.jpg?width=270</thumbnail>
+<birthEN>October 26, 1758</birthEN>
+<birthDE>26. Oktober 1758</birthDE>
+<deathEN>April 10, 1823</deathEN>
+<deathDE>10. April 1823</deathDE>
+<birthPlace>
+<XML_Serializer_Tag>Wien</XML_Serializer_Tag>
+</birthPlace>
+<deathPlace>
+<XML_Serializer_Tag>Kiel</XML_Serializer_Tag>
+</deathPlace>
+<professionOrOccupation>
+<XML_Serializer_Tag>Philosoph</XML_Serializer_Tag>
+<XML_Serializer_Tag>Schriftsteller</XML_Serializer_Tag>
+</professionOrOccupation>
+<dbpResource>http://dbpedia.org/resource/Karl_Leonhard_Reinhold</dbpResource>
+<abstract>Carl Leonhard Reinhold (* 26. Oktober 1757 in Wien; † 10. April 1823 in Kiel) war Philosoph und als Schriftsteller der wichtigste aus Österreich stammende Vertreter der deutschen Aufklärung.</abstract>
+<wikilink>http://en.wikipedia.org/wiki/Karl_Leonhard_Reinhold?oldid=599841390</wikilink>
+<artworks />
+<buildings />
+<books />
+</Person>

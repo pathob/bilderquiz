@@ -12,8 +12,10 @@
 <XML_Serializer_Tag>Künstler</XML_Serializer_Tag>
 <XML_Serializer_Tag>Maler</XML_Serializer_Tag>
 </professionOrOccupation>
-<artworks />
 <dbpResource>http://dbpedia.org/resource/Walton_Ford</dbpResource>
 <abstract>Walton Ford (* 1960 in Larchmont, N.Y.) ist ein US-amerikanischer Maler, dessen Motive vornehmlich Tiere sind.</abstract>
 <wikilink>http://en.wikipedia.org/wiki/Walton_Ford?oldid=577827019</wikilink>
+<artworks />
+<buildings />
+<books />
 </Person>

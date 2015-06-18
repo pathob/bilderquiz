@@ -1,0 +1,33 @@
+<Person>
+<name>Dietrich Barfurth</name>
+<variantName>
+<XML_Serializer_Tag>Karl Dietrich Gerhard Barfurth</XML_Serializer_Tag>
+<XML_Serializer_Tag>Dieter Barfurth</XML_Serializer_Tag>
+<XML_Serializer_Tag>D. Barfurth</XML_Serializer_Tag>
+</variantName>
+<thumbnail>https://commons.wikimedia.org/wiki/Special:FilePath/Dietrich_Barfurth,_1890s.jpg?width=270</thumbnail>
+<birthEN>January 25, 1849</birthEN>
+<birthDE>25. Januar 1849</birthDE>
+<deathEN>March 23, 1927</deathEN>
+<deathDE>23. März 1927</deathDE>
+<birthPlace>
+<XML_Serializer_Tag>Dinslaken</XML_Serializer_Tag>
+</birthPlace>
+<deathPlace>
+<XML_Serializer_Tag>Rostock</XML_Serializer_Tag>
+</deathPlace>
+<professionOrOccupation>
+<XML_Serializer_Tag>Arzt</XML_Serializer_Tag>
+<XML_Serializer_Tag>Anatom</XML_Serializer_Tag>
+<XML_Serializer_Tag>Hochschullehrer</XML_Serializer_Tag>
+<XML_Serializer_Tag>Philosoph</XML_Serializer_Tag>
+<XML_Serializer_Tag>Zoologe</XML_Serializer_Tag>
+<XML_Serializer_Tag>Rektor</XML_Serializer_Tag>
+</professionOrOccupation>
+<dbpResource>http://dbpedia.org/resource/Dietrich_Barfurth</dbpResource>
+<abstract>(Karl) Dietrich (Gerhard) Barfurth (* 25. Januar 1849 in Dinslaken; † 23. März 1927 in Rostock) war ein deutscher Mediziner, Anatom, Mathematiker und zweimalige Rektor der Universität Rostock.</abstract>
+<wikilink>http://en.wikipedia.org/wiki/Dietrich_Barfurth?oldid=542843589</wikilink>
+<artworks />
+<buildings />
+<books />
+</Person>

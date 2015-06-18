@@ -25,8 +25,10 @@
 <XML_Serializer_Tag>Performancekünstler</XML_Serializer_Tag>
 <XML_Serializer_Tag>Schauspieler</XML_Serializer_Tag>
 </professionOrOccupation>
-<artworks />
 <dbpResource>http://dbpedia.org/resource/Martin_Kippenberger</dbpResource>
 <abstract>Martin Kippenberger (* 25. Februar 1953 in Dortmund; † 7. März 1997 in Wien) war ein deutscher Maler, Installationskünstler, Performancekünstler, Bildhauer und Fotograf.</abstract>
 <wikilink>http://en.wikipedia.org/wiki/Martin_Kippenberger?oldid=603885375</wikilink>
+<artworks />
+<buildings />
+<books />
 </Person>

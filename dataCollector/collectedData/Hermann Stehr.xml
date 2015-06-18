@@ -1,0 +1,25 @@
+<Person>
+<name>Hermann Stehr</name>
+<variantName />
+<thumbnail>https://commons.wikimedia.org/wiki/Special:FilePath/Hermann_Stehr.png?width=270</thumbnail>
+<birthEN>February 16, 1864</birthEN>
+<birthDE>16. Februar 1864</birthDE>
+<deathEN>September 11, 1940</deathEN>
+<deathDE>11. September 1940</deathDE>
+<birthPlace>
+<XML_Serializer_Tag>Habelschwerdt</XML_Serializer_Tag>
+</birthPlace>
+<deathPlace>
+<XML_Serializer_Tag>Schreiberhau</XML_Serializer_Tag>
+</deathPlace>
+<professionOrOccupation>
+<XML_Serializer_Tag>Schriftsteller</XML_Serializer_Tag>
+<XML_Serializer_Tag>Volksschullehrer</XML_Serializer_Tag>
+</professionOrOccupation>
+<dbpResource>http://dbpedia.org/resource/Hermann_Stehr</dbpResource>
+<abstract>Hermann Stehr (* 16. Februar 1864 in Habelschwerdt; † 11. September 1940 in Schreiberhau) war ein deutscher Schriftsteller aus der Grafschaft Glatz.</abstract>
+<wikilink>http://en.wikipedia.org/wiki/Hermann_Stehr?oldid=605990795</wikilink>
+<artworks />
+<buildings />
+<books />
+</Person>

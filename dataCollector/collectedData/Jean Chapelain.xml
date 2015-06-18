@@ -1,0 +1,25 @@
+<Person>
+<name>Jean Chapelain</name>
+<variantName>
+<XML_Serializer_Tag>Joannes Cappellanus</XML_Serializer_Tag>
+<XML_Serializer_Tag>Johannes Cappellanus</XML_Serializer_Tag>
+</variantName>
+<thumbnail>https://commons.wikimedia.org/wiki/Special:FilePath/Jean_Chapelain.jpg?width=270</thumbnail>
+<birthEN>1595</birthEN>
+<birthDE>1595</birthDE>
+<deathEN>1674</deathEN>
+<deathDE>1674</deathDE>
+<birthPlace>
+<XML_Serializer_Tag>Paris</XML_Serializer_Tag>
+</birthPlace>
+<deathPlace />
+<professionOrOccupation>
+<XML_Serializer_Tag>Schriftsteller</XML_Serializer_Tag>
+</professionOrOccupation>
+<dbpResource>http://dbpedia.org/resource/Jean_Chapelain</dbpResource>
+<abstract>Jean Chapelain (* 4. Dezember 1595 in Paris; † 22. Februar 1674 in Paris) war ein französischer Schriftsteller.</abstract>
+<wikilink>http://en.wikipedia.org/wiki/Jean_Chapelain?oldid=601608942</wikilink>
+<artworks />
+<buildings />
+<books />
+</Person>

@@ -1,0 +1,36 @@
+<Person>
+<name>Antoine Arnauld</name>
+<variantName>
+<XML_Serializer_Tag>... Arnauld</XML_Serializer_Tag>
+<XML_Serializer_Tag>A. Arnauld</XML_Serializer_Tag>
+<XML_Serializer_Tag>, le Grand</XML_Serializer_Tag>
+<XML_Serializer_Tag>... Arnald</XML_Serializer_Tag>
+<XML_Serializer_Tag>Antoine Arnald</XML_Serializer_Tag>
+<XML_Serializer_Tag>Antonius Arnaldus</XML_Serializer_Tag>
+<XML_Serializer_Tag>Antoine Arnaud</XML_Serializer_Tag>
+<XML_Serializer_Tag>Antoine Arnaud D&apos;Andilly</XML_Serializer_Tag>
+<XML_Serializer_Tag>Antoine Arnould</XML_Serializer_Tag>
+<XML_Serializer_Tag>Antoine Arnaud d&apos; Andilly</XML_Serializer_Tag>
+</variantName>
+<thumbnail>https://commons.wikimedia.org/wiki/Special:FilePath/Antoine_Arnauld.jpg?width=270</thumbnail>
+<birthEN>1612</birthEN>
+<birthDE>1612</birthDE>
+<deathEN>1694</deathEN>
+<deathDE>1694</deathDE>
+<birthPlace>
+<XML_Serializer_Tag>Paris</XML_Serializer_Tag>
+</birthPlace>
+<deathPlace>
+<XML_Serializer_Tag>Brüssel</XML_Serializer_Tag>
+</deathPlace>
+<professionOrOccupation>
+<XML_Serializer_Tag>Theologe</XML_Serializer_Tag>
+<XML_Serializer_Tag>Philosoph</XML_Serializer_Tag>
+</professionOrOccupation>
+<dbpResource>http://dbpedia.org/resource/Antoine_Arnauld</dbpResource>
+<abstract>Antoine Arnauld (* 5. Februar 1612 in Paris; † 8. August 1694 in Brüssel) war ein französischer Philosoph, Linguist, Theologe, Logiker und Mathematiker.</abstract>
+<wikilink>http://en.wikipedia.org/wiki/Antoine_Arnauld?oldid=601376637</wikilink>
+<artworks />
+<buildings />
+<books />
+</Person>

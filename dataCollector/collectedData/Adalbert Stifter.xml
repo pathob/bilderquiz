@@ -1,0 +1,86 @@
+<Person>
+<name>Adalbert Stifter</name>
+<variantName>
+<XML_Serializer_Tag>Adal&apos;bert Štifter</XML_Serializer_Tag>
+<XML_Serializer_Tag>Adalberto Stifter</XML_Serializer_Tag>
+<XML_Serializer_Tag>Adelbert Stifter</XML_Serializer_Tag>
+<XML_Serializer_Tag>A. Stifter</XML_Serializer_Tag>
+<XML_Serializer_Tag>... Stifter</XML_Serializer_Tag>
+<XML_Serializer_Tag>Ādaruberuto Shutifutā</XML_Serializer_Tag>
+<XML_Serializer_Tag>... Shutifutâ</XML_Serializer_Tag>
+<XML_Serializer_Tag>... Shuteifutô</XML_Serializer_Tag>
+<XML_Serializer_Tag>Antalmpert Stiphter</XML_Serializer_Tag>
+<XML_Serializer_Tag>아달베르트 슈티프터</XML_Serializer_Tag>
+<XML_Serializer_Tag>アーダルベルト・シュティフター</XML_Serializer_Tag>
+</variantName>
+<thumbnail>https://commons.wikimedia.org/wiki/Special:FilePath/Adalbert_Stifter,_Stahlstich.jpg?width=270</thumbnail>
+<birthEN>October 23, 1805</birthEN>
+<birthDE>23. Oktober 1805</birthDE>
+<deathEN>January 28, 1868</deathEN>
+<deathDE>28. Januar 1868</deathDE>
+<birthPlace>
+<XML_Serializer_Tag>Horní Planá</XML_Serializer_Tag>
+</birthPlace>
+<deathPlace>
+<XML_Serializer_Tag>Linz</XML_Serializer_Tag>
+</deathPlace>
+<professionOrOccupation>
+<XML_Serializer_Tag>Künstler</XML_Serializer_Tag>
+<XML_Serializer_Tag>Schriftsteller</XML_Serializer_Tag>
+<XML_Serializer_Tag>Schulrat</XML_Serializer_Tag>
+</professionOrOccupation>
+<dbpResource>http://dbpedia.org/resource/Adalbert_Stifter</dbpResource>
+<abstract>Adalbert Stifter, Pseudonym Ostade, (* 23. Oktober 1805 in Oberplan, Böhmen, als Albert Stifter; † 28. Jänner 1868 in Linz) war ein österreichischer Schriftsteller, Maler und Pädagoge. Er zählt zu den bedeutendsten Autoren des Biedermeiers.</abstract>
+<wikilink>http://en.wikipedia.org/wiki/Adalbert_Stifter?oldid=606756347</wikilink>
+<artworks />
+<buildings />
+<books>
+<XML_Serializer_Tag>
+<book>
+<type>uri</type>
+<value>http://dbpedia.org/resource/Der_Nachsommer</value>
+</book>
+<author>
+<type>uri</type>
+<value>http://dbpedia.org/resource/Adalbert_Stifter</value>
+</author>
+<thumbnail>
+<type>uri</type>
+<value>http://commons.wikimedia.org/wiki/Special:FilePath/Der_Nachsommer_(Stifter).jpg?width=300</value>
+</thumbnail>
+<wikilink>
+<type>uri</type>
+<value>http://en.wikipedia.org/wiki/Der_Nachsommer?oldid=596966595</value>
+</wikilink>
+<abstract>
+<type>literal</type>
+<xml:lang>de</xml:lang>
+<value>Der Nachsommer mit dem Untertitel Eine Erzählung (1857) ist ein Roman in drei Bänden von Adalbert Stifter. Das Werk gehört zu den großen Bildungsromanen des 19. Jahrhunderts. Beschrieben wird ein idealisierter, vom Leben abgeschirmter, teilweise synthetischer Weg eines jungen Menschen in das Erwachsenwerden.</value>
+</abstract>
+</XML_Serializer_Tag>
+<XML_Serializer_Tag>
+<book>
+<type>uri</type>
+<value>http://dbpedia.org/resource/Witiko_(novel)</value>
+</book>
+<author>
+<type>uri</type>
+<value>http://dbpedia.org/resource/Adalbert_Stifter</value>
+</author>
+<released>
+<type>typed-literal</type>
+<datatype>http://www.w3.org/2001/XMLSchema#integer</datatype>
+<value>1865</value>
+</released>
+<wikilink>
+<type>uri</type>
+<value>http://en.wikipedia.org/wiki/Witiko_(novel)?oldid=585585259</value>
+</wikilink>
+<abstract>
+<type>literal</type>
+<xml:lang>de</xml:lang>
+<value>Witiko ist ein historischer Roman des österreichischen Schriftstellers Adalbert Stifter. Im Herbst 1867 ist der Roman vollständig erschienen.</value>
+</abstract>
+</XML_Serializer_Tag>
+</books>
+</Person>

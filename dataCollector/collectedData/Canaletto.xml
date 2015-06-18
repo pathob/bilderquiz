@@ -27,12 +27,15 @@
 <XML_Serializer_Tag>Maler</XML_Serializer_Tag>
 <XML_Serializer_Tag>Radierer</XML_Serializer_Tag>
 </professionOrOccupation>
+<dbpResource>http://dbpedia.org/resource/Canaletto</dbpResource>
+<abstract>Giovanni Antonio Canal (* 7. Oktober 1697 in Venedig; † 19. April 1768 ebenda), genannt Canaletto, war ein italienischer Veduten- und Landschaftsmaler.</abstract>
+<wikilink>http://en.wikipedia.org/wiki/Canaletto?oldid=605346978</wikilink>
 <artworks>
 <XML_Serializer_Tag>
-<painting>
+<artwork>
 <type>uri</type>
 <value>http://dbpedia.org/resource/The_Grand_Canal_in_Venice_from_Palazzo_Flangini_to_Campo_San_Marcuola</value>
-</painting>
+</artwork>
 <thumbnail>
 <type>uri</type>
 <value>http://commons.wikimedia.org/wiki/Special:FilePath/Canaletto_Grand_Canal_from_Palazzo_Flangini_-_JPGM.jpg?width=300</value>
@@ -51,12 +54,16 @@
 <type>uri</type>
 <value>http://en.wikipedia.org/wiki/The_Grand_Canal_in_Venice_from_Palazzo_Flangini_to_Campo_San_Marcuola?oldid=598899441</value>
 </wikilink>
+<type>
+<type>uri</type>
+<value>http://dbpedia.org/resource/Oil_painting</value>
+</type>
 </XML_Serializer_Tag>
 <XML_Serializer_Tag>
-<painting>
+<artwork>
 <type>uri</type>
 <value>http://dbpedia.org/resource/The_Grand_Canal_and_the_Church_of_the_Salute</value>
-</painting>
+</artwork>
 <thumbnail>
 <type>uri</type>
 <value>http://commons.wikimedia.org/wiki/Special:FilePath/Canaletto_-_The_Grand_Canal_and_the_Church_of_the_Salute.jpg?width=300</value>
@@ -75,9 +82,13 @@
 <type>uri</type>
 <value>http://en.wikipedia.org/wiki/The_Grand_Canal_and_the_Church_of_the_Salute?oldid=590269615</value>
 </wikilink>
+<type>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>Oil on canvas</value>
+</type>
 </XML_Serializer_Tag>
 </artworks>
-<dbpResource>http://dbpedia.org/resource/Canaletto</dbpResource>
-<abstract>Giovanni Antonio Canal (* 7. Oktober 1697 in Venedig; † 19. April 1768 ebenda), genannt Canaletto, war ein italienischer Veduten- und Landschaftsmaler.</abstract>
-<wikilink>http://en.wikipedia.org/wiki/Canaletto?oldid=605346978</wikilink>
+<buildings />
+<books />
 </Person>

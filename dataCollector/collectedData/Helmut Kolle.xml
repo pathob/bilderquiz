@@ -21,8 +21,10 @@
 <XML_Serializer_Tag>Künstler</XML_Serializer_Tag>
 <XML_Serializer_Tag>Maler</XML_Serializer_Tag>
 </professionOrOccupation>
-<artworks />
 <dbpResource>http://dbpedia.org/resource/Helmut_Kolle</dbpResource>
 <abstract>Helmut Kolle (* 24. Februar 1899 in Charlottenburg; † 17. November 1931 in Chantilly bei Paris) war ein deutscher Maler (Pseudonym Helmut vom Hügel). Er konnte sich als einer von wenigen deutschen Malern in den 1920er Jahren auf dem französischen Kunstmarkt durchsetzen.</abstract>
 <wikilink>http://en.wikipedia.org/wiki/Helmut_Kolle?oldid=590072397</wikilink>
+<artworks />
+<buildings />
+<books />
 </Person>

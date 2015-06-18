@@ -1,0 +1,29 @@
+<Person>
+<name>Wilhelm Weygandt</name>
+<variantName>
+<XML_Serializer_Tag>W. Weygandt</XML_Serializer_Tag>
+<XML_Serializer_Tag>Karl W. Weigand</XML_Serializer_Tag>
+</variantName>
+<thumbnail>https://commons.wikimedia.org/wiki/Special:FilePath/Wilhelm_Weygandt.JPG?width=270</thumbnail>
+<birthEN>September 30, 1870</birthEN>
+<birthDE>30. September 1870</birthDE>
+<deathEN>January 22, 1939</deathEN>
+<deathDE>22. Januar 1939</deathDE>
+<birthPlace>
+<XML_Serializer_Tag>Wiesbaden</XML_Serializer_Tag>
+</birthPlace>
+<deathPlace>
+<XML_Serializer_Tag>Wiesbaden</XML_Serializer_Tag>
+</deathPlace>
+<professionOrOccupation>
+<XML_Serializer_Tag>Psychiater</XML_Serializer_Tag>
+<XML_Serializer_Tag>Arzt</XML_Serializer_Tag>
+<XML_Serializer_Tag>Philosoph</XML_Serializer_Tag>
+</professionOrOccupation>
+<dbpResource>http://dbpedia.org/resource/Wilhelm_Weygandt</dbpResource>
+<abstract>Wilhelm Christian Jakob Karl Weygandt (* 30. September 1870 in Wiesbaden; † 22. Januar 1939 ebenda) war ein deutscher Psychiater und von 1908 bis 1934 Direktor der Hamburger Staatskrankenanstalt Friedrichsberg. Seit 1919 bis zu seiner Emeritierung im Frühjahr 1934 war er außerdem Ordinarius für Psychiatrie an der Universität Hamburg. Seine Arbeitsschwerpunkte lagen in der Kinder- und Jugendpsychiatrie, der experimentellen Psychologie, der Forensik sowie der Psycho- und Rassenhygiene. Er galt im ersten Drittel des 20. Jahrhunderts als wichtigste deutsche Autorität auf dem Gebiet der Forschung und Fürsorge des „jugendlichen Schwachsinns“.</abstract>
+<wikilink>http://en.wikipedia.org/wiki/Wilhelm_Weygandt?oldid=578263821</wikilink>
+<artworks />
+<buildings />
+<books />
+</Person>

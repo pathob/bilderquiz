@@ -27,8 +27,10 @@
 <professionOrOccupation>
 <XML_Serializer_Tag>Maler</XML_Serializer_Tag>
 </professionOrOccupation>
-<artworks />
 <dbpResource>http://dbpedia.org/resource/Balthus</dbpResource>
 <abstract>Balthasar Kłossowski de Rola, genannt Balthus, Hon.RA (* 29. Februar 1908 in Paris, Frankreich; † 18. Februar 2001 in Rossinière, Schweiz) war ein polnisch-deutsch-französischer Maler. 1991 erhielt er für sein Lebenswerk den Praemium Imperiale.</abstract>
 <wikilink>http://en.wikipedia.org/wiki/Balthus?oldid=606125974</wikilink>
+<artworks />
+<buildings />
+<books />
 </Person>

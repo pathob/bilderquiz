@@ -14,8 +14,10 @@
 <professionOrOccupation>
 <XML_Serializer_Tag>Maler</XML_Serializer_Tag>
 </professionOrOccupation>
-<artworks />
 <dbpResource>http://dbpedia.org/resource/Johannes_Zick</dbpResource>
 <abstract>Johannes (Johann) Zick (* 10. Januar 1702 in Lachen; † 4. März 1762 in Würzburg) war ein süddeutscher Freskomaler und Vater des Malers Januarius Zick (1730-1797).</abstract>
 <wikilink>http://en.wikipedia.org/wiki/Johannes_Zick?oldid=592454718</wikilink>
+<artworks />
+<buildings />
+<books />
 </Person>

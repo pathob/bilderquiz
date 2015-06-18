@@ -1,0 +1,86 @@
+<Person>
+<name>Joan Aiken</name>
+<variantName>
+<XML_Serializer_Tag>Joan Delano Brown</XML_Serializer_Tag>
+<XML_Serializer_Tag>Joan Delano Aiken</XML_Serializer_Tag>
+<XML_Serializer_Tag>Jōn Eikin</XML_Serializer_Tag>
+</variantName>
+<thumbnail>https://commons.wikimedia.org/wiki/Special:FilePath/JoanAiken.jpg?width=270</thumbnail>
+<birthEN>September 4, 1924</birthEN>
+<birthDE>4. September 1924</birthDE>
+<deathEN>January 4, 2004</deathEN>
+<deathDE>4. Januar 2004</deathDE>
+<birthPlace>
+<XML_Serializer_Tag>Rye (Sussex)</XML_Serializer_Tag>
+</birthPlace>
+<deathPlace>
+<XML_Serializer_Tag>Petworth</XML_Serializer_Tag>
+</deathPlace>
+<professionOrOccupation>
+<XML_Serializer_Tag>Schriftstellerin</XML_Serializer_Tag>
+</professionOrOccupation>
+<dbpResource>http://dbpedia.org/resource/Joan_Aiken</dbpResource>
+<abstract>Joan Delano Aiken (* 4. September 1924 in Rye, Sussex, England; † 4. Januar 2004 in Petworth, West Sussex) war eine britische Schriftstellerin. Sie schrieb Fantasy- und Mystery-Romane sowie Fantasy-Geschichten für Kinder.</abstract>
+<wikilink>http://en.wikipedia.org/wiki/Joan_Aiken?oldid=604867637</wikilink>
+<artworks />
+<buildings />
+<books>
+<XML_Serializer_Tag>
+<book>
+<type>uri</type>
+<value>http://dbpedia.org/resource/Black_Hearts_in_Battersea</value>
+</book>
+<author>
+<type>uri</type>
+<value>http://dbpedia.org/resource/Joan_Aiken</value>
+</author>
+<released>
+<type>typed-literal</type>
+<datatype>http://www.w3.org/2001/XMLSchema#integer</datatype>
+<value>1964</value>
+</released>
+<wikilink>
+<type>uri</type>
+<value>http://en.wikipedia.org/wiki/Black_Hearts_in_Battersea?oldid=596979311</value>
+</wikilink>
+</XML_Serializer_Tag>
+<XML_Serializer_Tag>
+<book>
+<type>uri</type>
+<value>http://dbpedia.org/resource/The_Wolves_of_Willoughby_Chase</value>
+</book>
+<author>
+<type>uri</type>
+<value>http://dbpedia.org/resource/Joan_Aiken</value>
+</author>
+<released>
+<type>typed-literal</type>
+<datatype>http://www.w3.org/2001/XMLSchema#integer</datatype>
+<value>1962</value>
+</released>
+<wikilink>
+<type>uri</type>
+<value>http://en.wikipedia.org/wiki/The_Wolves_of_Willoughby_Chase?oldid=600418795</value>
+</wikilink>
+</XML_Serializer_Tag>
+<XML_Serializer_Tag>
+<book>
+<type>uri</type>
+<value>http://dbpedia.org/resource/The_Stolen_Lake</value>
+</book>
+<author>
+<type>uri</type>
+<value>http://dbpedia.org/resource/Joan_Aiken</value>
+</author>
+<released>
+<type>typed-literal</type>
+<datatype>http://www.w3.org/2001/XMLSchema#integer</datatype>
+<value>1981</value>
+</released>
+<wikilink>
+<type>uri</type>
+<value>http://en.wikipedia.org/wiki/The_Stolen_Lake?oldid=601361744</value>
+</wikilink>
+</XML_Serializer_Tag>
+</books>
+</Person>

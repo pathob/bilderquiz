@@ -20,8 +20,10 @@
 <XML_Serializer_Tag>Graphiker</XML_Serializer_Tag>
 <XML_Serializer_Tag>Bühnenbildner</XML_Serializer_Tag>
 </professionOrOccupation>
-<artworks />
 <dbpResource>http://dbpedia.org/resource/Willi_Baumeister</dbpResource>
 <abstract>Friedrich Wilhelm Baumeister (* 22. Januar 1889 in Stuttgart; † 31. August 1955 ebenda) war ein deutscher Maler, Grafiker, Bühnenbildner, Typograf, Kunsttheoretiker, Autor und Hochschullehrer. Er gilt weltweit als einer der bedeutendsten Künstler der Moderne.</abstract>
 <wikilink>http://en.wikipedia.org/wiki/Willi_Baumeister?oldid=593124249</wikilink>
+<artworks />
+<buildings />
+<books />
 </Person>

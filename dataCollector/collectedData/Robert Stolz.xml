@@ -1,0 +1,32 @@
+<Person>
+<name>Robert Stolz</name>
+<variantName>
+<XML_Serializer_Tag>R. Stolz</XML_Serializer_Tag>
+<XML_Serializer_Tag>Robert Elisabeth Stolz</XML_Serializer_Tag>
+<XML_Serializer_Tag>Gino Bonelli</XML_Serializer_Tag>
+<XML_Serializer_Tag>Hans Ostwig</XML_Serializer_Tag>
+</variantName>
+<thumbnail>https://commons.wikimedia.org/wiki/Special:FilePath/Robert_Stolz_um_1915.jpg?width=270</thumbnail>
+<birthEN>August 25, 1880</birthEN>
+<birthDE>25. August 1880</birthDE>
+<deathEN>June 27, 1975</deathEN>
+<deathDE>27. Juni 1975</deathDE>
+<birthPlace>
+<XML_Serializer_Tag>Graz</XML_Serializer_Tag>
+</birthPlace>
+<deathPlace>
+<XML_Serializer_Tag>Berlin</XML_Serializer_Tag>
+</deathPlace>
+<professionOrOccupation>
+<XML_Serializer_Tag>Komponist</XML_Serializer_Tag>
+<XML_Serializer_Tag>Dirigent</XML_Serializer_Tag>
+<XML_Serializer_Tag>Musiker</XML_Serializer_Tag>
+<XML_Serializer_Tag>Schriftsteller</XML_Serializer_Tag>
+</professionOrOccupation>
+<dbpResource>http://dbpedia.org/resource/Robert_Stolz</dbpResource>
+<abstract>Robert Elisabeth Stolz (* 25. August 1880 in Graz; † 27. Juni 1975 in Berlin) war ein österreichischer Komponist und Dirigent.</abstract>
+<wikilink>http://en.wikipedia.org/wiki/Robert_Stolz?oldid=599901419</wikilink>
+<artworks />
+<buildings />
+<books />
+</Person>

@@ -22,8 +22,10 @@
 <XML_Serializer_Tag>Zeichner</XML_Serializer_Tag>
 <XML_Serializer_Tag>Graphiker</XML_Serializer_Tag>
 </professionOrOccupation>
-<artworks />
 <dbpResource>http://dbpedia.org/resource/Ernst_Wilhelm_Nay</dbpResource>
 <abstract>Ernst Wilhelm Nay (* 11. Juni 1902 in Berlin; † 8. April 1968 in Köln) war ein deutscher Maler und Grafiker der klassischen Moderne.</abstract>
 <wikilink>http://en.wikipedia.org/wiki/Ernst_Wilhelm_Nay?oldid=563764581</wikilink>
+<artworks />
+<buildings />
+<books />
 </Person>

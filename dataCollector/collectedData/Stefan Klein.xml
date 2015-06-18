@@ -1,0 +1,24 @@
+<Person>
+<name>Stefan Klein</name>
+<variantName />
+<thumbnail>https://commons.wikimedia.org/wiki/Special:FilePath/Stefan_Klein_Portrait.jpg?width=270</thumbnail>
+<birthEN>1965</birthEN>
+<birthDE>1965</birthDE>
+<deathEN />
+<deathDE />
+<birthPlace>
+<XML_Serializer_Tag>München</XML_Serializer_Tag>
+</birthPlace>
+<deathPlace />
+<professionOrOccupation>
+<XML_Serializer_Tag>Schriftsteller</XML_Serializer_Tag>
+<XML_Serializer_Tag>Wissenschaftsjournalist</XML_Serializer_Tag>
+<XML_Serializer_Tag>Biophysiker</XML_Serializer_Tag>
+</professionOrOccupation>
+<dbpResource>http://dbpedia.org/resource/Stefan_Klein</dbpResource>
+<abstract>Stefan Klein (* 1965 in München) ist ein deutscher Wissenschaftsautor.</abstract>
+<wikilink>http://en.wikipedia.org/wiki/Stefan_Klein?oldid=604755525</wikilink>
+<artworks />
+<buildings />
+<books />
+</Person>

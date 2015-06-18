@@ -1,0 +1,28 @@
+<Person>
+<name>Josef Paul Kleihues</name>
+<variantName>
+<XML_Serializer_Tag>J. P. Kleihues</XML_Serializer_Tag>
+<XML_Serializer_Tag>Josef P. Kleihues</XML_Serializer_Tag>
+<XML_Serializer_Tag>Josef-Paul Kleihues</XML_Serializer_Tag>
+</variantName>
+<thumbnail>https://commons.wikimedia.org/wiki/Special:FilePath/Stairwell_at_The_Museum_of_Contemporary_Art_in_Chicago.jpg?width=270</thumbnail>
+<birthEN>June 11, 1933</birthEN>
+<birthDE>11. Juni 1933</birthDE>
+<deathEN>August 13, 2004</deathEN>
+<deathDE>13. August 2004</deathDE>
+<birthPlace>
+<XML_Serializer_Tag>Rheine</XML_Serializer_Tag>
+</birthPlace>
+<deathPlace>
+<XML_Serializer_Tag>Berlin</XML_Serializer_Tag>
+</deathPlace>
+<professionOrOccupation>
+<XML_Serializer_Tag>Architekt</XML_Serializer_Tag>
+</professionOrOccupation>
+<dbpResource>http://dbpedia.org/resource/Josef_Paul_Kleihues</dbpResource>
+<abstract>Josef Paul Kleihues (* 11. Juni 1933 in Rheine; † 13. August 2004 in Berlin) war ein deutscher Architekt und Hochschullehrer.</abstract>
+<wikilink>http://en.wikipedia.org/wiki/Josef_Paul_Kleihues?oldid=557009047</wikilink>
+<artworks />
+<buildings />
+<books />
+</Person>

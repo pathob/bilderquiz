@@ -16,8 +16,10 @@
 <XML_Serializer_Tag>Künstler</XML_Serializer_Tag>
 <XML_Serializer_Tag>Maler</XML_Serializer_Tag>
 </professionOrOccupation>
-<artworks />
 <dbpResource>http://dbpedia.org/resource/Gotthard_Graubner</dbpResource>
 <abstract>Gotthard Graubner (* 13. Juni 1930 in Erlbach, Vogtland, Sachsen; † 24. Mai 2013 in Neuss, Nordrhein-Westfalen) war ein deutscher Maler.</abstract>
 <wikilink>http://en.wikipedia.org/wiki/Gotthard_Graubner?oldid=587717131</wikilink>
+<artworks />
+<buildings />
+<books />
 </Person>

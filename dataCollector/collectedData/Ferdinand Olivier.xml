@@ -20,8 +20,10 @@
 <XML_Serializer_Tag>Lithograph</XML_Serializer_Tag>
 <XML_Serializer_Tag>Graphiker</XML_Serializer_Tag>
 </professionOrOccupation>
-<artworks />
 <dbpResource>http://dbpedia.org/resource/Ferdinand_Olivier</dbpResource>
 <abstract>Johann Heinrich Ferdinand Olivier, gen. der Jüngere (* 1. April 1785 in Dessau; † 11. Februar 1841 in München) war ein deutscher Maler und Grafiker. Künstlerisch stand er den Nazarenern nahe.</abstract>
 <wikilink>http://en.wikipedia.org/wiki/Ferdinand_Olivier?oldid=600222555</wikilink>
+<artworks />
+<buildings />
+<books />
 </Person>

@@ -19,8 +19,10 @@
 <XML_Serializer_Tag>Elektriker</XML_Serializer_Tag>
 <XML_Serializer_Tag>Bergmann</XML_Serializer_Tag>
 </professionOrOccupation>
-<artworks />
 <dbpResource>http://dbpedia.org/resource/Fritz_Winter</dbpResource>
 <abstract>Fritz Winter (* 22. September 1905 in Altenbögge (heute Ortsteil von Bönen) /Westf.; † 1. Oktober 1976 in Herrsching am Ammersee) war ein deutscher Maler, der zu den wichtigsten abstrakten Künstlern der Nachkriegszeit zählt.</abstract>
 <wikilink>http://en.wikipedia.org/wiki/Fritz_Winter?oldid=575918980</wikilink>
+<artworks />
+<buildings />
+<books />
 </Person>

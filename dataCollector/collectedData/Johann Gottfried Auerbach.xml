@@ -22,8 +22,10 @@
 <XML_Serializer_Tag>Maler</XML_Serializer_Tag>
 <XML_Serializer_Tag>Radierer</XML_Serializer_Tag>
 </professionOrOccupation>
-<artworks />
 <dbpResource>http://dbpedia.org/resource/Johann_Gottfried_Auerbach</dbpResource>
 <abstract>Johann Gottfried Auerbach (* 28. Oktober 1697 in Mühlhausen/Thüringen; † 5. August 1753 in Wien; nach anderen Angaben fälschlich * 1679 oder 1687; † 1743) war ein deutscher Maler.</abstract>
 <wikilink>http://en.wikipedia.org/wiki/Johann_Gottfried_Auerbach?oldid=601007276</wikilink>
+<artworks />
+<buildings />
+<books />
 </Person>

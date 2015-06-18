@@ -1,0 +1,66 @@
+<Person>
+<name>Iolo Morganwg</name>
+<variantName>
+<XML_Serializer_Tag>Iolo, Morganwg</XML_Serializer_Tag>
+<XML_Serializer_Tag>Iolo, Morgannwg</XML_Serializer_Tag>
+<XML_Serializer_Tag>Iolo Morgannwg</XML_Serializer_Tag>
+<XML_Serializer_Tag>Iorwerth Gwilym</XML_Serializer_Tag>
+<XML_Serializer_Tag>Iolo Morganwg</XML_Serializer_Tag>
+<XML_Serializer_Tag>Plenydd</XML_Serializer_Tag>
+<XML_Serializer_Tag>Edward Williams</XML_Serializer_Tag>
+</variantName>
+<thumbnail>https://commons.wikimedia.org/wiki/Special:FilePath/Iolomorganwg.jpg?width=270</thumbnail>
+<birthEN>1747</birthEN>
+<birthDE>1747</birthDE>
+<deathEN>1826</deathEN>
+<deathDE>1826</deathDE>
+<birthPlace />
+<deathPlace />
+<professionOrOccupation>
+<XML_Serializer_Tag>Schriftsteller</XML_Serializer_Tag>
+<XML_Serializer_Tag>Lyriker</XML_Serializer_Tag>
+</professionOrOccupation>
+<dbpResource>http://dbpedia.org/resource/Iolo_Morganwg</dbpResource>
+<abstract>Edward Williams, auch Iolo Morganwg (Morgannwg in moderner Schreibweise) (* 1747 in Llancarfan; † 1826), war ein walisischer Altertumsforscher, Dichter, Autor und Handschriftensammler. Sein Name bedeutet auf walisisch „Edward von Glamorgan“ (Iolo ist die Koseform von Iorwerth/Edward).</abstract>
+<wikilink>http://en.wikipedia.org/wiki/Iolo_Morganwg?oldid=604338536</wikilink>
+<artworks />
+<buildings />
+<books>
+<XML_Serializer_Tag>
+<book>
+<type>uri</type>
+<value>http://dbpedia.org/resource/Iolo_Manuscripts</value>
+</book>
+<author>
+<type>uri</type>
+<value>http://dbpedia.org/resource/Iolo_Morganwg</value>
+</author>
+<thumbnail>
+<type>uri</type>
+<value>http://commons.wikimedia.org/wiki/Special:FilePath/Iolo_Manuscripts.jpg?width=300</value>
+</thumbnail>
+<wikilink>
+<type>uri</type>
+<value>http://en.wikipedia.org/wiki/Iolo_Manuscripts?oldid=602236351</value>
+</wikilink>
+</XML_Serializer_Tag>
+<XML_Serializer_Tag>
+<book>
+<type>uri</type>
+<value>http://dbpedia.org/resource/Barddas</value>
+</book>
+<author>
+<type>uri</type>
+<value>http://dbpedia.org/resource/Iolo_Morganwg</value>
+</author>
+<thumbnail>
+<type>uri</type>
+<value>http://commons.wikimedia.org/wiki/Special:FilePath/Barddastitle.jpg?width=300</value>
+</thumbnail>
+<wikilink>
+<type>uri</type>
+<value>http://en.wikipedia.org/wiki/Barddas?oldid=587631161</value>
+</wikilink>
+</XML_Serializer_Tag>
+</books>
+</Person>

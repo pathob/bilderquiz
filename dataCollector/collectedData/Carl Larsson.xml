@@ -17,12 +17,15 @@
 <professionOrOccupation>
 <XML_Serializer_Tag>Maler</XML_Serializer_Tag>
 </professionOrOccupation>
+<dbpResource>http://dbpedia.org/resource/Carl_Larsson</dbpResource>
+<abstract>Carl Larsson (* 28. Mai 1853 in Stockholm; † 22. Januar 1919 in Falun) war ein schwedischer Künstler.Seine Gemälde, Aquarelle und Zeichnungen zeigen überwiegend das Leben seiner Familie (gemeinsam mit Frau Karin hatte Larsson acht Kinder) in und um das Wohnhaus in Sundborn, Schweden. Carl und Karin gelten als Begründer des heute als typisch schwedisch geltenden Wohnstils, dessen wesentliche Elemente Helligkeit, Farbigkeit und lebendig-fröhliche Funktionalität sind. Das Haus ist heute ein Museum. In Deutschland wurde Larsson ab 1909 berühmt durch das Buch „Das Haus in der Sonne“.</abstract>
+<wikilink>http://en.wikipedia.org/wiki/Carl_Larsson?oldid=600226495</wikilink>
 <artworks>
 <XML_Serializer_Tag>
-<painting>
+<artwork>
 <type>uri</type>
 <value>http://dbpedia.org/resource/Midvinterblot</value>
-</painting>
+</artwork>
 <thumbnail>
 <type>uri</type>
 <value>http://commons.wikimedia.org/wiki/Special:FilePath/Midvinterblot.jpeg?width=300</value>
@@ -48,10 +51,10 @@
 </wikilink>
 </XML_Serializer_Tag>
 <XML_Serializer_Tag>
-<painting>
+<artwork>
 <type>uri</type>
 <value>http://dbpedia.org/resource/Gustav_Vasas_int%C3%A5g_i_Stockholm_1523</value>
-</painting>
+</artwork>
 <thumbnail>
 <type>uri</type>
 <value>http://commons.wikimedia.org/wiki/Special:FilePath/The_Entry_of_King_Gustav_Vasa_of_Sweden_into_Stockholm_-_color.jpg?width=300</value>
@@ -72,7 +75,6 @@
 </wikilink>
 </XML_Serializer_Tag>
 </artworks>
-<dbpResource>http://dbpedia.org/resource/Carl_Larsson</dbpResource>
-<abstract>Carl Larsson (* 28. Mai 1853 in Stockholm; † 22. Januar 1919 in Falun) war ein schwedischer Künstler.Seine Gemälde, Aquarelle und Zeichnungen zeigen überwiegend das Leben seiner Familie (gemeinsam mit Frau Karin hatte Larsson acht Kinder) in und um das Wohnhaus in Sundborn, Schweden. Carl und Karin gelten als Begründer des heute als typisch schwedisch geltenden Wohnstils, dessen wesentliche Elemente Helligkeit, Farbigkeit und lebendig-fröhliche Funktionalität sind. Das Haus ist heute ein Museum. In Deutschland wurde Larsson ab 1909 berühmt durch das Buch „Das Haus in der Sonne“.</abstract>
-<wikilink>http://en.wikipedia.org/wiki/Carl_Larsson?oldid=600226495</wikilink>
+<buildings />
+<books />
 </Person>

@@ -15,8 +15,10 @@
 <professionOrOccupation>
 <XML_Serializer_Tag>Maler</XML_Serializer_Tag>
 </professionOrOccupation>
-<artworks />
 <dbpResource>http://dbpedia.org/resource/Theodoros_Stamos</dbpResource>
 <abstract>Theodoros Stamos (* 31. Dezember 1922 in New York; † 2. Februar 1997 in Ioannina) war ein US-amerikanischer Maler griechischer Herkunft. Seine Werke werden dem abstrakten Expressionismus zugeordnet.Im Jahr 1959 war Theodoros Stamos Teilnehmer der documenta II in Kassel.</abstract>
 <wikilink>http://en.wikipedia.org/wiki/Theodoros_Stamos?oldid=571475987</wikilink>
+<artworks />
+<buildings />
+<books />
 </Person>

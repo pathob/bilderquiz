@@ -1,0 +1,41 @@
+<Person>
+<name>Johann Michael Sailer</name>
+<variantName>
+<XML_Serializer_Tag>Johann Michael von Sailer</XML_Serializer_Tag>
+<XML_Serializer_Tag>Joh. Michael Sailer</XML_Serializer_Tag>
+<XML_Serializer_Tag>Johannes Michael Sailer</XML_Serializer_Tag>
+<XML_Serializer_Tag>Michael Seiler</XML_Serializer_Tag>
+<XML_Serializer_Tag>Michael Sailer</XML_Serializer_Tag>
+<XML_Serializer_Tag>Johann Michael Seiler</XML_Serializer_Tag>
+<XML_Serializer_Tag>J. M. Sailer</XML_Serializer_Tag>
+<XML_Serializer_Tag>Michael Sailler</XML_Serializer_Tag>
+<XML_Serializer_Tag>Joannes Michael Sailer</XML_Serializer_Tag>
+<XML_Serializer_Tag>Joh. Mich. Sailer</XML_Serializer_Tag>
+<XML_Serializer_Tag>Johann Michael, Regensburg, Bischof</XML_Serializer_Tag>
+<XML_Serializer_Tag>Johann M. Sailer</XML_Serializer_Tag>
+<XML_Serializer_Tag>D. M. Sailer</XML_Serializer_Tag>
+<XML_Serializer_Tag>Johann Seiler</XML_Serializer_Tag>
+</variantName>
+<thumbnail>https://commons.wikimedia.org/wiki/Special:FilePath/J_M_Sailer.jpg?width=270</thumbnail>
+<birthEN>November 17, 1751</birthEN>
+<birthDE>17. November 1751</birthDE>
+<deathEN>May 20, 1832</deathEN>
+<deathDE>20. Mai 1832</deathDE>
+<birthPlace>
+<XML_Serializer_Tag>Aresing</XML_Serializer_Tag>
+</birthPlace>
+<deathPlace>
+<XML_Serializer_Tag>Regensburg</XML_Serializer_Tag>
+</deathPlace>
+<professionOrOccupation>
+<XML_Serializer_Tag>Schriftsteller</XML_Serializer_Tag>
+<XML_Serializer_Tag>Katholischer Theologe</XML_Serializer_Tag>
+<XML_Serializer_Tag>Bischof</XML_Serializer_Tag>
+</professionOrOccupation>
+<dbpResource>http://dbpedia.org/resource/Johann_Michael_Sailer</dbpResource>
+<abstract>Johann Michael Sailer, ab 1826 von Sailer (* 17. November 1751 in Aresing, Oberbayern; † 20. Mai 1832 in Regensburg) war ein katholischer Theologe (insbesondere Pastoraltheologe) und Bischof von Regensburg.</abstract>
+<wikilink>http://en.wikipedia.org/wiki/Johann_Michael_Sailer?oldid=599696489</wikilink>
+<artworks />
+<buildings />
+<books />
+</Person>

@@ -1,0 +1,31 @@
+<Person>
+<name>Heinrich Bulthaupt</name>
+<variantName>
+<XML_Serializer_Tag>Heinrich Alfred Bulthaupt</XML_Serializer_Tag>
+<XML_Serializer_Tag>H. A. B.</XML_Serializer_Tag>
+<XML_Serializer_Tag>Heinrich A. Bulthaupt</XML_Serializer_Tag>
+<XML_Serializer_Tag>Heinr. Alfr. Bulthaupt</XML_Serializer_Tag>
+<XML_Serializer_Tag>H. A. Bulthaupt</XML_Serializer_Tag>
+</variantName>
+<thumbnail>https://de.wikipedia.org/wiki/Special:FilePath/Heinrich_Bulthaupt.jpg?width=270</thumbnail>
+<birthEN>1849</birthEN>
+<birthDE>1849</birthDE>
+<deathEN>1905</deathEN>
+<deathDE>1905</deathDE>
+<birthPlace />
+<deathPlace />
+<professionOrOccupation>
+<XML_Serializer_Tag>Rechtsanwalt</XML_Serializer_Tag>
+<XML_Serializer_Tag>Bibliothekar</XML_Serializer_Tag>
+<XML_Serializer_Tag>Kritiker</XML_Serializer_Tag>
+<XML_Serializer_Tag>Schriftsteller</XML_Serializer_Tag>
+<XML_Serializer_Tag>Philologe</XML_Serializer_Tag>
+<XML_Serializer_Tag>Dramaturg</XML_Serializer_Tag>
+</professionOrOccupation>
+<dbpResource>http://dbpedia.org/resource/Heinrich_Bulthaupt</dbpResource>
+<abstract>Heinrich Alfred Bulthaupt (* 26. Oktober 1849 in Bremen; † 20. August 1905 in Bremen) war ein deutscher Autor.</abstract>
+<wikilink>http://en.wikipedia.org/wiki/Heinrich_Bulthaupt?oldid=592868655</wikilink>
+<artworks />
+<buildings />
+<books />
+</Person>

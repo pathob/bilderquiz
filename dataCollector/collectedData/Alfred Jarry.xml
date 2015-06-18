@@ -1,0 +1,24 @@
+<Person>
+<name>Alfred Jarry</name>
+<variantName>
+<XML_Serializer_Tag>Alfred Machard</XML_Serializer_Tag>
+<XML_Serializer_Tag>Alfred Henri Jarry</XML_Serializer_Tag>
+<XML_Serializer_Tag>Alfred Henry Jarry</XML_Serializer_Tag>
+</variantName>
+<thumbnail>https://commons.wikimedia.org/wiki/Special:FilePath/Alfred_Jarry.jpg?width=270</thumbnail>
+<birthEN>1873</birthEN>
+<birthDE>1873</birthDE>
+<deathEN>1907</deathEN>
+<deathDE>1907</deathDE>
+<birthPlace />
+<deathPlace />
+<professionOrOccupation>
+<XML_Serializer_Tag>Schriftsteller</XML_Serializer_Tag>
+</professionOrOccupation>
+<dbpResource>http://dbpedia.org/resource/Alfred_Jarry</dbpResource>
+<abstract>Alfred Jarry (* 8. September 1873 in Laval, Département Mayenne (Bretagne), Frankreich; † 1. November 1907 in Paris) war ein französischer Schriftsteller.</abstract>
+<wikilink>http://en.wikipedia.org/wiki/Alfred_Jarry?oldid=599528170</wikilink>
+<artworks />
+<buildings />
+<books />
+</Person>

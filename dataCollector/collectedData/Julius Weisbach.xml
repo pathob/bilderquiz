@@ -1,0 +1,35 @@
+<Person>
+<name>Julius Weisbach</name>
+<variantName>
+<XML_Serializer_Tag>Julius Ludwig Weisbach</XML_Serializer_Tag>
+<XML_Serializer_Tag>Ludwig Julius Albin Weisbach</XML_Serializer_Tag>
+<XML_Serializer_Tag>Ludwig Julius Weisbach</XML_Serializer_Tag>
+<XML_Serializer_Tag>Julius L. Weisbach</XML_Serializer_Tag>
+<XML_Serializer_Tag>Albin Julius Weisbach</XML_Serializer_Tag>
+</variantName>
+<thumbnail>https://commons.wikimedia.org/wiki/Special:FilePath/Weisbach.jpg?width=270</thumbnail>
+<birthEN>August 10, 1806</birthEN>
+<birthDE>10. August 1806</birthDE>
+<deathEN>February 24, 1871</deathEN>
+<deathDE>24. Februar 1871</deathDE>
+<birthPlace>
+<XML_Serializer_Tag>Mittelschmiedeberg</XML_Serializer_Tag>
+</birthPlace>
+<deathPlace>
+<XML_Serializer_Tag>Freiberg</XML_Serializer_Tag>
+</deathPlace>
+<professionOrOccupation>
+<XML_Serializer_Tag>Ingenieur</XML_Serializer_Tag>
+<XML_Serializer_Tag>Hochschullehrer</XML_Serializer_Tag>
+<XML_Serializer_Tag>Wissenschaftler</XML_Serializer_Tag>
+<XML_Serializer_Tag>Mathematiker</XML_Serializer_Tag>
+<XML_Serializer_Tag>Mineraloge</XML_Serializer_Tag>
+<XML_Serializer_Tag>Autor</XML_Serializer_Tag>
+</professionOrOccupation>
+<dbpResource>http://dbpedia.org/resource/Julius_Weisbach</dbpResource>
+<abstract>Julius Ludwig Weisbach (* 10. August 1806 in Mittelschmiedeberg; † 24. Februar 1871 in Freiberg) war ein deutscher Mathematiker und Ingenieur. Er gilt als Begründer der neuen Markscheidekunst.</abstract>
+<wikilink>http://en.wikipedia.org/wiki/Julius_Weisbach?oldid=546796560</wikilink>
+<artworks />
+<buildings />
+<books />
+</Person>

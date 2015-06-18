@@ -11,8 +11,10 @@
 <professionOrOccupation>
 <XML_Serializer_Tag>Maler</XML_Serializer_Tag>
 </professionOrOccupation>
-<artworks />
 <dbpResource>http://dbpedia.org/resource/Hermen_Rode</dbpResource>
 <abstract>Hermen Rode (* um 1430; † 1504) war ein deutscher Maler.</abstract>
 <wikilink>http://en.wikipedia.org/wiki/Hermen_Rode?oldid=577143329</wikilink>
+<artworks />
+<buildings />
+<books />
 </Person>

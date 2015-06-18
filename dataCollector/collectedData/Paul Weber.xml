@@ -18,8 +18,10 @@
 <professionOrOccupation>
 <XML_Serializer_Tag>Maler</XML_Serializer_Tag>
 </professionOrOccupation>
-<artworks />
 <dbpResource>http://dbpedia.org/resource/Paul_Weber_(artist)</dbpResource>
 <abstract>Gottlieb Daniel Paul Weber (* 19. Januar 1823 in Darmstadt; † 12. Oktober 1916 in München) war ein deutscher Landschafts- und Porträtmaler, der zeitweise in Philadelphia (USA) lebte und arbeitete.</abstract>
 <wikilink>http://en.wikipedia.org/wiki/Paul_Weber_(artist)?oldid=567607582</wikilink>
+<artworks />
+<buildings />
+<books />
 </Person>

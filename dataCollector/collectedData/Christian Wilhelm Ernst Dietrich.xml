@@ -29,8 +29,10 @@
 <XML_Serializer_Tag>Radierer</XML_Serializer_Tag>
 <XML_Serializer_Tag>Porzellanmaler</XML_Serializer_Tag>
 </professionOrOccupation>
-<artworks />
 <dbpResource>http://dbpedia.org/resource/Christian_Wilhelm_Ernst_Dietrich</dbpResource>
 <abstract>Christian Wilhelm Ernst Dietrich, auch Christian Guillaume Ernest Dietricy (* 30. Oktober 1712 in Weimar; † 23. April 1774 in Dresden), war ein deutscher Maler, Radierer und Kupferstecher.</abstract>
 <wikilink>http://en.wikipedia.org/wiki/Christian_Wilhelm_Ernst_Dietrich?oldid=605492596</wikilink>
+<artworks />
+<buildings />
+<books />
 </Person>

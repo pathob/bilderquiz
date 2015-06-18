@@ -15,12 +15,15 @@
 <XML_Serializer_Tag>Maler</XML_Serializer_Tag>
 <XML_Serializer_Tag>Künstler</XML_Serializer_Tag>
 </professionOrOccupation>
+<dbpResource>http://dbpedia.org/resource/Francesco_Guardi</dbpResource>
+<abstract>Francesco Guardi (* 5. Oktober 1712 in Venedig; † 1. Januar 1793 ebenda) war ein italienischer Veduten- und Landschaftsmaler des Rokoko.Francesco Guardi war ein Sohn des norditalienischen Barockmalers Domenico Guardi (1678-1716) aus dem Trentino und der Maria Claudia Pichler. Seine Brüder waren Giovanni Antonio Guardi (1699–1760) und Nicolò Guardi, seine Schwester Cecilia Guardi heiratete Giovanni Battista Tiepolo (1696–1770), der 1756 Vorsitzender der Akademie wurde. Francesco Guardi war dort seit 1747 Mitglied. Er bildete seinen Sohn Jacopo wiederum zum Maler aus.Bis zum Tod seines Bruders Antonio 1760 arbeitete Francesco in der Malerwerkstatt der Familie, in der auch der jüngere Bruder Nicolò tätig war. Er malte zu Beginn seiner Karriere zunächst Altarbilder, als Schüler und Nachfolger von Canaletto konzentrierte er sich aber, nachdem dieser die Stadt verlassen hatte, auf Veduten. Er wählte zunächst die gleichen Motive, vor allem Venezianische Ansichten, die Canaletto schon oft und mit großem Erfolg gemalt hatte. Allerdings unterscheiden sich seine Bilder von denen des späten Canaletto durch meist lebhafte Licht- und Schatteneffekte, eine dramatisch gesteigerte, freier und impulsiv erscheinende Malweise mit teils pastosem Farbauftrag, der impressionistische Malerei - auch im Gefühl für Licht und Farbigkeit – vorwegzunehmen scheint. Guardi hielt sich, anders als Canaletto, zu Gunsten einer malerischen Wirkung weniger genau an topographische Gegebenheiten. Einige seiner Bilder sind Capriccios, malerische Zusammenstellung von sowohl existierenden als auch erfundenen Architekturen und Landschaften.Guardi erhielt Aufträge von privaten Mäzenen und durch die Republik Venedig, so den Zyklus der zwölf Feste für den Dogen Alvise IV. Mocenigo. 1782 dokumentierte er in vier Gemälden den Besuch von Papst Pius VI. in Venedig. Anlässlich des Besuchs des russischen Großfürstenpaares in der Stadt malte er die Festlichkeiten, die zu deren Ehren veranstaltet wurden. Bilder wie diese sind heute wertvolle kunsthistorische Zeugnisse über Leben und Alltag aber auch Feste im Venedig des 18. Jahrhunderts.Von Guardi gibt es außer den Veduten und den Bildern venezianischer Feste eine große Zahl von Genreszenen, wie den Sprechsaal der Nonnen von San Zaccaria, die ein lebhaftes und farbiges Bild der Moden, Sitten und Gebräuche der venezianischen Aristokratie überliefern.Seine Bilder haben eine klare, gleichmäßige Beleuchtung und zeichnen sich durch ihre stimmungsvolle Atmosphäre aus. Sie sind in der Farbe kräftiger und reicher als die seines Lehrers, aber weniger detailliert in der Zeichnung. Trotz solcher Unterschiede wurden seine Bilder immer wieder seinem berühmteren Lehrer zugeschrieben.</abstract>
+<wikilink>http://en.wikipedia.org/wiki/Francesco_Guardi?oldid=602506305</wikilink>
 <artworks>
 <XML_Serializer_Tag>
-<painting>
+<artwork>
 <type>uri</type>
 <value>http://dbpedia.org/resource/The_Doge_on_the_Bucintoro_near_the_Riva_di_Sant&apos;Elena_(painting)</value>
-</painting>
+</artwork>
 <thumbnail>
 <type>uri</type>
 <value>http://commons.wikimedia.org/wiki/Special:FilePath/Francesco_Guardi_-_The_Doge_on_the_Bucintoro_near_the_Riva_di_Sant&apos;Elena_-_WGA10855.jpg?width=300</value>
@@ -39,9 +42,13 @@
 <type>uri</type>
 <value>http://en.wikipedia.org/wiki/The_Doge_on_the_Bucintoro_near_the_Riva_di_Sant&apos;Elena_(painting)?oldid=588021313</value>
 </wikilink>
+<type>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>Oil on canvas</value>
+</type>
 </XML_Serializer_Tag>
 </artworks>
-<dbpResource>http://dbpedia.org/resource/Francesco_Guardi</dbpResource>
-<abstract>Francesco Guardi (* 5. Oktober 1712 in Venedig; † 1. Januar 1793 ebenda) war ein italienischer Veduten- und Landschaftsmaler des Rokoko.Francesco Guardi war ein Sohn des norditalienischen Barockmalers Domenico Guardi (1678-1716) aus dem Trentino und der Maria Claudia Pichler. Seine Brüder waren Giovanni Antonio Guardi (1699–1760) und Nicolò Guardi, seine Schwester Cecilia Guardi heiratete Giovanni Battista Tiepolo (1696–1770), der 1756 Vorsitzender der Akademie wurde. Francesco Guardi war dort seit 1747 Mitglied. Er bildete seinen Sohn Jacopo wiederum zum Maler aus.Bis zum Tod seines Bruders Antonio 1760 arbeitete Francesco in der Malerwerkstatt der Familie, in der auch der jüngere Bruder Nicolò tätig war. Er malte zu Beginn seiner Karriere zunächst Altarbilder, als Schüler und Nachfolger von Canaletto konzentrierte er sich aber, nachdem dieser die Stadt verlassen hatte, auf Veduten. Er wählte zunächst die gleichen Motive, vor allem Venezianische Ansichten, die Canaletto schon oft und mit großem Erfolg gemalt hatte. Allerdings unterscheiden sich seine Bilder von denen des späten Canaletto durch meist lebhafte Licht- und Schatteneffekte, eine dramatisch gesteigerte, freier und impulsiv erscheinende Malweise mit teils pastosem Farbauftrag, der impressionistische Malerei - auch im Gefühl für Licht und Farbigkeit – vorwegzunehmen scheint. Guardi hielt sich, anders als Canaletto, zu Gunsten einer malerischen Wirkung weniger genau an topographische Gegebenheiten. Einige seiner Bilder sind Capriccios, malerische Zusammenstellung von sowohl existierenden als auch erfundenen Architekturen und Landschaften.Guardi erhielt Aufträge von privaten Mäzenen und durch die Republik Venedig, so den Zyklus der zwölf Feste für den Dogen Alvise IV. Mocenigo. 1782 dokumentierte er in vier Gemälden den Besuch von Papst Pius VI. in Venedig. Anlässlich des Besuchs des russischen Großfürstenpaares in der Stadt malte er die Festlichkeiten, die zu deren Ehren veranstaltet wurden. Bilder wie diese sind heute wertvolle kunsthistorische Zeugnisse über Leben und Alltag aber auch Feste im Venedig des 18. Jahrhunderts.Von Guardi gibt es außer den Veduten und den Bildern venezianischer Feste eine große Zahl von Genreszenen, wie den Sprechsaal der Nonnen von San Zaccaria, die ein lebhaftes und farbiges Bild der Moden, Sitten und Gebräuche der venezianischen Aristokratie überliefern.Seine Bilder haben eine klare, gleichmäßige Beleuchtung und zeichnen sich durch ihre stimmungsvolle Atmosphäre aus. Sie sind in der Farbe kräftiger und reicher als die seines Lehrers, aber weniger detailliert in der Zeichnung. Trotz solcher Unterschiede wurden seine Bilder immer wieder seinem berühmteren Lehrer zugeschrieben.</abstract>
-<wikilink>http://en.wikipedia.org/wiki/Francesco_Guardi?oldid=602506305</wikilink>
+<buildings />
+<books />
 </Person>

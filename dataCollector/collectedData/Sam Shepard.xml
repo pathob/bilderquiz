@@ -1,0 +1,29 @@
+<Person>
+<name>Sam Shepard</name>
+<variantName>
+<XML_Serializer_Tag>Steve Rogers</XML_Serializer_Tag>
+<XML_Serializer_Tag>Samuel Shepard Rogers</XML_Serializer_Tag>
+</variantName>
+<thumbnail>https://commons.wikimedia.org/wiki/Special:FilePath/Sam_Shepard_Stealth.jpg?width=270</thumbnail>
+<birthEN>1943</birthEN>
+<birthDE>1943</birthDE>
+<deathEN />
+<deathDE />
+<birthPlace>
+<XML_Serializer_Tag>Fort Sheridan, Illinois, USA</XML_Serializer_Tag>
+</birthPlace>
+<deathPlace />
+<professionOrOccupation>
+<XML_Serializer_Tag>Schriftsteller</XML_Serializer_Tag>
+<XML_Serializer_Tag>Dramatiker</XML_Serializer_Tag>
+<XML_Serializer_Tag>Regisseur</XML_Serializer_Tag>
+<XML_Serializer_Tag>Schauspieler</XML_Serializer_Tag>
+<XML_Serializer_Tag>Drehbuchautor</XML_Serializer_Tag>
+</professionOrOccupation>
+<dbpResource>http://dbpedia.org/resource/Sam_Shepard</dbpResource>
+<abstract>Sam Shepard (* 5. November 1943 in Fort Sheridan, Illinois als Samuel Shepard Rogers VII) ist ein US-amerikanischer Dramatiker und Schauspieler.</abstract>
+<wikilink>http://en.wikipedia.org/wiki/Sam_Shepard?oldid=604664112</wikilink>
+<artworks />
+<buildings />
+<books />
+</Person>

@@ -20,8 +20,10 @@
 <XML_Serializer_Tag>Schriftsteller</XML_Serializer_Tag>
 <XML_Serializer_Tag>Theologe</XML_Serializer_Tag>
 </professionOrOccupation>
-<artworks />
 <dbpResource>http://dbpedia.org/resource/Hans_Thoma</dbpResource>
 <abstract>Hans Thoma (* 2. Oktober 1839 in Oberlehen, Bernau im Schwarzwald, heute Landkreis Waldshut; † 7. November 1924 in Karlsruhe) war ein deutscher Maler und Graphiker.</abstract>
 <wikilink>http://en.wikipedia.org/wiki/Hans_Thoma?oldid=572196473</wikilink>
+<artworks />
+<buildings />
+<books />
 </Person>

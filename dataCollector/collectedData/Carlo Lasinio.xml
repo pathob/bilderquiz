@@ -1,0 +1,25 @@
+<Person>
+<name>Carlo Lasinio</name>
+<variantName />
+<thumbnail>https://commons.wikimedia.org/wiki/Special:FilePath/Scipione_de&apos;_ricci_by_carlo_lasinio,_1787.jpg?width=270</thumbnail>
+<birthEN>1759</birthEN>
+<birthDE>1759</birthDE>
+<deathEN>1838</deathEN>
+<deathDE>1838</deathDE>
+<birthPlace>
+<XML_Serializer_Tag>Treviso</XML_Serializer_Tag>
+</birthPlace>
+<deathPlace>
+<XML_Serializer_Tag>Pisa</XML_Serializer_Tag>
+</deathPlace>
+<professionOrOccupation>
+<XML_Serializer_Tag>Künstler</XML_Serializer_Tag>
+<XML_Serializer_Tag>Kupferstecher</XML_Serializer_Tag>
+</professionOrOccupation>
+<dbpResource>http://dbpedia.org/resource/Carlo_Lasinio</dbpResource>
+<abstract>Graf Carlo Lasinio (* 10. Februar 1759 in Treviso; † 26. März 1838 in Pisa) war ein italienischer Zeichner, Radierer und Kupferstecher.</abstract>
+<wikilink>http://en.wikipedia.org/wiki/Carlo_Lasinio?oldid=599859640</wikilink>
+<artworks />
+<buildings />
+<books />
+</Person>

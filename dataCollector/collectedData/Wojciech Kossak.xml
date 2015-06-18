@@ -21,12 +21,15 @@
 <XML_Serializer_Tag>Künstler</XML_Serializer_Tag>
 <XML_Serializer_Tag>Maler</XML_Serializer_Tag>
 </professionOrOccupation>
+<dbpResource>http://dbpedia.org/resource/Wojciech_Kossak</dbpResource>
+<abstract>Wojciech („Adalbert“) Kossak, auch Adalbert Ritter von Kossak (* 31. Dezember 1857 in Paris; † 29. Juli 1942 in Krakau) war einer der bedeutendsten Panorama-, Schlachten- und Porträtmaler des später 19. und beginnenden 20. Jahrhunderts.</abstract>
+<wikilink>http://en.wikipedia.org/wiki/Wojciech_Kossak?oldid=605792663</wikilink>
 <artworks>
 <XML_Serializer_Tag>
-<painting>
+<artwork>
 <type>uri</type>
 <value>http://dbpedia.org/resource/Rac%C5%82awice_Panorama</value>
-</painting>
+</artwork>
 <thumbnail>
 <type>uri</type>
 <value>http://commons.wikimedia.org/wiki/Special:FilePath/Lwow_Panorama_Raclawicka.jpg?width=300</value>
@@ -50,9 +53,12 @@
 <type>uri</type>
 <value>http://en.wikipedia.org/wiki/Racławice_Panorama?oldid=586395425</value>
 </wikilink>
+<type>
+<type>uri</type>
+<value>http://dbpedia.org/resource/Oil_painting</value>
+</type>
 </XML_Serializer_Tag>
 </artworks>
-<dbpResource>http://dbpedia.org/resource/Wojciech_Kossak</dbpResource>
-<abstract>Wojciech („Adalbert“) Kossak, auch Adalbert Ritter von Kossak (* 31. Dezember 1857 in Paris; † 29. Juli 1942 in Krakau) war einer der bedeutendsten Panorama-, Schlachten- und Porträtmaler des später 19. und beginnenden 20. Jahrhunderts.</abstract>
-<wikilink>http://en.wikipedia.org/wiki/Wojciech_Kossak?oldid=605792663</wikilink>
+<buildings />
+<books />
 </Person>

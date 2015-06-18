@@ -1,0 +1,73 @@
+<Person>
+<name>Martin Auer</name>
+<variantName>
+<XML_Serializer_Tag>M. Auer</XML_Serializer_Tag>
+<XML_Serializer_Tag>Marṭin Aʾuʾer</XML_Serializer_Tag>
+<XML_Serializer_Tag>Marŭt&apos;in Auŏ</XML_Serializer_Tag>
+<XML_Serializer_Tag>마르틴 아우어</XML_Serializer_Tag>
+<XML_Serializer_Tag>מרטין אאואר</XML_Serializer_Tag>
+</variantName>
+<thumbnail>https://commons.wikimedia.org/wiki/Special:FilePath/Martin_Auer_01.jpg?width=270</thumbnail>
+<birthEN>1951</birthEN>
+<birthDE>1951</birthDE>
+<deathEN />
+<deathDE />
+<birthPlace>
+<XML_Serializer_Tag>Wien</XML_Serializer_Tag>
+</birthPlace>
+<deathPlace />
+<professionOrOccupation>
+<XML_Serializer_Tag>Schriftsteller</XML_Serializer_Tag>
+<XML_Serializer_Tag>Kinderbuchautor</XML_Serializer_Tag>
+<XML_Serializer_Tag>Lyriker</XML_Serializer_Tag>
+<XML_Serializer_Tag>Liedermacher</XML_Serializer_Tag>
+<XML_Serializer_Tag>Zauberkünstler</XML_Serializer_Tag>
+<XML_Serializer_Tag>Schauspieler</XML_Serializer_Tag>
+<XML_Serializer_Tag>Kabarettist</XML_Serializer_Tag>
+</professionOrOccupation>
+<dbpResource>http://dbpedia.org/resource/Martin_Auer</dbpResource>
+<abstract>Martin Auer (* 14. Jänner 1951 in Wien) ist ein österreichischer Schriftsteller.Martin Auer ist ein Urenkel von Jakob Sokopp und Sohn von Gertrude (geb. Sokopp) und Georg Auer. Er war von 1971 bis 1977 Dramaturg, Schauspieler und Musiker am Theater im Künstlerhaus Wien. Danach wirkte er als freischaffender Künstler mit der Volksmusik-Gruppe Dreschflegel und als freier Liedermacher. Dann war er einige Jahre als Journalist und in Werbung und Public Relations tätig. Er legte die Magierprüfung ab und arbeitete eine Zeit lang als Zauberkünstler, machte auch wieder Musik mit der Folkgruppe Regenpfeifer.Seit 1986 ist Auer freier Schriftsteller und Geschichtenerzähler, außerdem Schauspieler, Kabarettist und Übersetzer (Flunkerfisch, 2007).</abstract>
+<wikilink>http://en.wikipedia.org/wiki/Martin_Auer?oldid=606591799</wikilink>
+<artworks />
+<buildings />
+<books>
+<XML_Serializer_Tag>
+<book>
+<type>uri</type>
+<value>http://dbpedia.org/resource/The_Blue_Boy_(novel)</value>
+</book>
+<author>
+<type>uri</type>
+<value>http://dbpedia.org/resource/Martin_Auer</value>
+</author>
+<released>
+<type>typed-literal</type>
+<datatype>http://www.w3.org/2001/XMLSchema#integer</datatype>
+<value>1991</value>
+</released>
+<wikilink>
+<type>uri</type>
+<value>http://en.wikipedia.org/wiki/The_Blue_Boy_(novel)?oldid=591339635</value>
+</wikilink>
+</XML_Serializer_Tag>
+<XML_Serializer_Tag>
+<book>
+<type>uri</type>
+<value>http://dbpedia.org/resource/Now,_Now,_Markus</value>
+</book>
+<author>
+<type>uri</type>
+<value>http://dbpedia.org/resource/Martin_Auer</value>
+</author>
+<released>
+<type>typed-literal</type>
+<datatype>http://www.w3.org/2001/XMLSchema#integer</datatype>
+<value>1988</value>
+</released>
+<wikilink>
+<type>uri</type>
+<value>http://en.wikipedia.org/wiki/Now,_Now,_Markus?oldid=535501091</value>
+</wikilink>
+</XML_Serializer_Tag>
+</books>
+</Person>

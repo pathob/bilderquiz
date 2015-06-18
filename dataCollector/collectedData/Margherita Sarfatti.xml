@@ -1,0 +1,32 @@
+<Person>
+<name>Margherita Sarfatti</name>
+<variantName>
+<XML_Serializer_Tag>Margherita Grassini Sarfatti</XML_Serializer_Tag>
+<XML_Serializer_Tag>Margherita Grassini Sarfatto</XML_Serializer_Tag>
+<XML_Serializer_Tag>Margherita G. Sarfatti</XML_Serializer_Tag>
+<XML_Serializer_Tag>Margherita Sarfatti-Grassini</XML_Serializer_Tag>
+</variantName>
+<thumbnail>https://commons.wikimedia.org/wiki/Special:FilePath/Margherita_Sarfatti.jpg?width=270</thumbnail>
+<birthEN>1883</birthEN>
+<birthDE>1883</birthDE>
+<deathEN>1961</deathEN>
+<deathDE>1961</deathDE>
+<birthPlace>
+<XML_Serializer_Tag>Venedig</XML_Serializer_Tag>
+</birthPlace>
+<deathPlace>
+<XML_Serializer_Tag>Cavallasco, Como</XML_Serializer_Tag>
+</deathPlace>
+<professionOrOccupation>
+<XML_Serializer_Tag>Künstlerin</XML_Serializer_Tag>
+<XML_Serializer_Tag>Journalistin</XML_Serializer_Tag>
+<XML_Serializer_Tag>Politikerin</XML_Serializer_Tag>
+<XML_Serializer_Tag>Schriftstellerin</XML_Serializer_Tag>
+</professionOrOccupation>
+<dbpResource>http://dbpedia.org/resource/Margherita_Sarfatti</dbpResource>
+<abstract>Margherita Sarfatti (* 8. April 1880 in Venedig; † 30. Oktober 1961 in Cavallasca) war eine italienische Schriftstellerin, Geliebte Mussolinis und Begründerin der Künstlergruppe Novecento.</abstract>
+<wikilink>http://en.wikipedia.org/wiki/Margherita_Sarfatti?oldid=604336884</wikilink>
+<artworks />
+<buildings />
+<books />
+</Person>

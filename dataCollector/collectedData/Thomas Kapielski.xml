@@ -1,0 +1,25 @@
+<Person>
+<name>Thomas Kapielski</name>
+<variantName>
+<XML_Serializer_Tag>T. Kapielski</XML_Serializer_Tag>
+</variantName>
+<thumbnail>https://commons.wikimedia.org/wiki/Special:FilePath/2006_03_04_Thomas_Kapielski_an_seiner_Vernissage_bei_Marlene_Frei_Zürich.jpg?width=270</thumbnail>
+<birthEN>1951</birthEN>
+<birthDE>1951</birthDE>
+<deathEN />
+<deathDE />
+<birthPlace />
+<deathPlace />
+<professionOrOccupation>
+<XML_Serializer_Tag>Aktionskünstler</XML_Serializer_Tag>
+<XML_Serializer_Tag>Musiker</XML_Serializer_Tag>
+<XML_Serializer_Tag>Photograph</XML_Serializer_Tag>
+<XML_Serializer_Tag>Schriftsteller</XML_Serializer_Tag>
+</professionOrOccupation>
+<dbpResource>http://dbpedia.org/resource/Thomas_Kapielski</dbpResource>
+<abstract>Thomas Alfred Franz Kapielski (* 16. September 1951 in Berlin-Charlottenburg) ist ein deutscher Autor, bildender Künstler und Musiker.</abstract>
+<wikilink>http://en.wikipedia.org/wiki/Thomas_Kapielski?oldid=575344372</wikilink>
+<artworks />
+<buildings />
+<books />
+</Person>

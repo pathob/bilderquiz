@@ -18,12 +18,15 @@
 <XML_Serializer_Tag>Maler</XML_Serializer_Tag>
 <XML_Serializer_Tag>Mosaizist</XML_Serializer_Tag>
 </professionOrOccupation>
+<dbpResource>http://dbpedia.org/resource/Cimabue</dbpResource>
+<abstract>Cimabue (* ca. 1240; † ca. 1302; eigentlicher Name Cenni di Pepo) war ein Florentiner Maler und Mosaik-Künstler, der auch als Entdecker und Meister von Giotto in die Kunstgeschichte einging.Als einer der ersten der Frührenaissance mit dem Formalismus der byzantinischen Kunst brechend, versuchte er sich in einer lebendigeren Darstellung der Menschen und Objekte.Giorgio Vasari verfasste in seinen Le vite die erste Biographie des Malers.</abstract>
+<wikilink>http://en.wikipedia.org/wiki/Cimabue?oldid=602887583</wikilink>
 <artworks>
 <XML_Serializer_Tag>
-<painting>
+<artwork>
 <type>uri</type>
 <value>http://dbpedia.org/resource/Santa_Trinita_Maest%C3%A0</value>
-</painting>
+</artwork>
 <thumbnail>
 <type>uri</type>
 <value>http://commons.wikimedia.org/wiki/Special:FilePath/Cimabue_Trinita_Madonna.jpg?width=300</value>
@@ -47,12 +50,17 @@
 <type>uri</type>
 <value>http://en.wikipedia.org/wiki/Santa_Trinita_Maestà?oldid=590854174</value>
 </wikilink>
+<type>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>Tempera on panel</value>
+</type>
 </XML_Serializer_Tag>
 <XML_Serializer_Tag>
-<painting>
+<artwork>
 <type>uri</type>
 <value>http://dbpedia.org/resource/Maest%C3%A0_(Cimabue)</value>
-</painting>
+</artwork>
 <thumbnail>
 <type>uri</type>
 <value>http://commons.wikimedia.org/wiki/Special:FilePath/Cimabue_-_Maestà_du_Louvre.jpg?width=300</value>
@@ -71,9 +79,13 @@
 <type>uri</type>
 <value>http://en.wikipedia.org/wiki/Maestà_(Cimabue)?oldid=589682644</value>
 </wikilink>
+<type>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>Tempera on panel</value>
+</type>
 </XML_Serializer_Tag>
 </artworks>
-<dbpResource>http://dbpedia.org/resource/Cimabue</dbpResource>
-<abstract>Cimabue (* ca. 1240; † ca. 1302; eigentlicher Name Cenni di Pepo) war ein Florentiner Maler und Mosaik-Künstler, der auch als Entdecker und Meister von Giotto in die Kunstgeschichte einging.Als einer der ersten der Frührenaissance mit dem Formalismus der byzantinischen Kunst brechend, versuchte er sich in einer lebendigeren Darstellung der Menschen und Objekte.Giorgio Vasari verfasste in seinen Le vite die erste Biographie des Malers.</abstract>
-<wikilink>http://en.wikipedia.org/wiki/Cimabue?oldid=602887583</wikilink>
+<buildings />
+<books />
 </Person>

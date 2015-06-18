@@ -1,0 +1,28 @@
+<Person>
+<name>Annemarie von Nathusius</name>
+<variantName>
+<XML_Serializer_Tag>Annemarie v. Nathusius</XML_Serializer_Tag>
+<XML_Serializer_Tag>Annemarie Nathusius</XML_Serializer_Tag>
+<XML_Serializer_Tag>Anna Maria Luise von Nathusius</XML_Serializer_Tag>
+</variantName>
+<thumbnail>https://commons.wikimedia.org/wiki/Special:FilePath/Annemarie_von_nathusius,_Foto_Sessel,_Unterschrift.JPG?width=270</thumbnail>
+<birthEN>August 28, 1874</birthEN>
+<birthDE>28. August 1874</birthDE>
+<deathEN>October 17, 1926</deathEN>
+<deathDE>17. Oktober 1926</deathDE>
+<birthPlace>
+<XML_Serializer_Tag>Provinz Posen</XML_Serializer_Tag>
+</birthPlace>
+<deathPlace>
+<XML_Serializer_Tag>Berlin</XML_Serializer_Tag>
+</deathPlace>
+<professionOrOccupation>
+<XML_Serializer_Tag>Schriftstellerin</XML_Serializer_Tag>
+</professionOrOccupation>
+<dbpResource>http://dbpedia.org/resource/Annemarie_von_Nathusius</dbpResource>
+<abstract>Annemarie von Nathusius, eigentlich Anna Maria Luise von Nathusius (* 28. August 1874 in Ludom bei Posen; † 17. Oktober 1926 in Berlin), war eine deutsche Schriftstellerin. Ihr historischer Roman Das törichte Herz der Julie von Voß (1918) wurde bis 1937 neu aufgelegt. Ihre Novelle Malmaison wurde von Paul Ludwig Stein 1922 verfilmt unter dem Titel Es leuchtet meine Liebe.</abstract>
+<wikilink>http://en.wikipedia.org/wiki/Annemarie_von_Nathusius?oldid=597703494</wikilink>
+<artworks />
+<buildings />
+<books />
+</Person>

@@ -14,8 +14,30 @@
 <XML_Serializer_Tag>Politiker</XML_Serializer_Tag>
 <XML_Serializer_Tag>Schriftsteller</XML_Serializer_Tag>
 </professionOrOccupation>
-<artworks />
 <dbpResource>http://dbpedia.org/resource/Carlo_Levi</dbpResource>
 <abstract>Graziadio Carlo Levi (* 29. November 1902 in Turin; † 4. Januar 1975 in Rom) war ein italienischer Schriftsteller, Maler und Politiker.</abstract>
 <wikilink>http://en.wikipedia.org/wiki/Carlo_Levi?oldid=606592124</wikilink>
+<artworks />
+<buildings />
+<books>
+<XML_Serializer_Tag>
+<book>
+<type>uri</type>
+<value>http://dbpedia.org/resource/Fleeting_Rome</value>
+</book>
+<author>
+<type>uri</type>
+<value>http://dbpedia.org/resource/Carlo_Levi</value>
+</author>
+<released>
+<type>typed-literal</type>
+<datatype>http://www.w3.org/2001/XMLSchema#integer</datatype>
+<value>2004</value>
+</released>
+<wikilink>
+<type>uri</type>
+<value>http://en.wikipedia.org/wiki/Fleeting_Rome?oldid=606009060</value>
+</wikilink>
+</XML_Serializer_Tag>
+</books>
 </Person>

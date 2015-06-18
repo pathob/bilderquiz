@@ -1,0 +1,35 @@
+<Person>
+<name>Pierre-Joseph Bernard</name>
+<variantName>
+<XML_Serializer_Tag>Pierre Joseph Gentil Bernard</XML_Serializer_Tag>
+<XML_Serializer_Tag>... Gentil-Bernard</XML_Serializer_Tag>
+<XML_Serializer_Tag>P.-J. Bernard</XML_Serializer_Tag>
+<XML_Serializer_Tag>P. J. Bernard</XML_Serializer_Tag>
+<XML_Serializer_Tag>Pierre Joseph Bernard</XML_Serializer_Tag>
+<XML_Serializer_Tag>Pierre Bernard</XML_Serializer_Tag>
+<XML_Serializer_Tag>Gentil Bernard</XML_Serializer_Tag>
+<XML_Serializer_Tag>Gentil-Bernard</XML_Serializer_Tag>
+<XML_Serializer_Tag>Gentil Bernard</XML_Serializer_Tag>
+<XML_Serializer_Tag>Pierre-Joseph-Justin Bernard</XML_Serializer_Tag>
+<XML_Serializer_Tag>Pierre Joseph Justin Bernard</XML_Serializer_Tag>
+<XML_Serializer_Tag>... Bernard</XML_Serializer_Tag>
+<XML_Serializer_Tag>Pierre Joseph Gentil Bernard</XML_Serializer_Tag>
+<XML_Serializer_Tag>Pierre J. Bernard</XML_Serializer_Tag>
+</variantName>
+<thumbnail>https://commons.wikimedia.org/wiki/Special:FilePath/Gentil_Bernard_Phrosine_et_Mélidore.jpg?width=270</thumbnail>
+<birthEN>1710</birthEN>
+<birthDE>1710</birthDE>
+<deathEN>1775</deathEN>
+<deathDE>1775</deathDE>
+<birthPlace />
+<deathPlace />
+<professionOrOccupation>
+<XML_Serializer_Tag>Schriftsteller</XML_Serializer_Tag>
+</professionOrOccupation>
+<dbpResource>http://dbpedia.org/resource/Pierre-Joseph_Bernard</dbpResource>
+<abstract>Pierre-Joseph Bernard (* 26. August 1708 (oder 1710) in Grenoble; † 1. November 1775 in Choisy-le-Roi, Département Val-de-Marne), auch Gentil-Bernard, war ein französischer Dichter, Dramatiker und Librettist.</abstract>
+<wikilink>http://en.wikipedia.org/wiki/Pierre-Joseph_Bernard?oldid=593922615</wikilink>
+<artworks />
+<buildings />
+<books />
+</Person>

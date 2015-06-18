@@ -1,0 +1,38 @@
+<Person>
+<name>Hedda Eulenberg</name>
+<variantName>
+<XML_Serializer_Tag>Hedda Maase</XML_Serializer_Tag>
+<XML_Serializer_Tag>Hedwig Maase</XML_Serializer_Tag>
+<XML_Serializer_Tag>Hedda Moeller van der Bruck</XML_Serializer_Tag>
+<XML_Serializer_Tag>Hedda Moeller van der Bruck</XML_Serializer_Tag>
+<XML_Serializer_Tag>Hedda Moeller van den Bruck</XML_Serializer_Tag>
+<XML_Serializer_Tag>Hedda Moeller van den Bruck</XML_Serializer_Tag>
+<XML_Serializer_Tag>Hedda Moeller-Bruck</XML_Serializer_Tag>
+<XML_Serializer_Tag>Hedwig Eulenberg</XML_Serializer_Tag>
+<XML_Serializer_Tag>Hedda Moeller van der Bruck</XML_Serializer_Tag>
+<XML_Serializer_Tag>H. Möller-Bruck</XML_Serializer_Tag>
+<XML_Serializer_Tag>Hedda Möller-Bruck</XML_Serializer_Tag>
+<XML_Serializer_Tag>Hedda Moeller-Bruck</XML_Serializer_Tag>
+</variantName>
+<thumbnail>https://commons.wikimedia.org/wiki/Special:FilePath/Hedda-Eulenberg.png?width=270</thumbnail>
+<birthEN>1876</birthEN>
+<birthDE>1876</birthDE>
+<deathEN>1960</deathEN>
+<deathDE>1960</deathDE>
+<birthPlace>
+<XML_Serializer_Tag>Duisburg</XML_Serializer_Tag>
+</birthPlace>
+<deathPlace>
+<XML_Serializer_Tag>Düsseldorf</XML_Serializer_Tag>
+</deathPlace>
+<professionOrOccupation>
+<XML_Serializer_Tag>Übersetzerin</XML_Serializer_Tag>
+<XML_Serializer_Tag>Schriftstellerin</XML_Serializer_Tag>
+</professionOrOccupation>
+<dbpResource>http://dbpedia.org/resource/Hedda_Eulenberg</dbpResource>
+<abstract>Hedda Eulenberg (* 6. März 1876 in Meiderich; † 13. September 1960 in Kaiserswerth) war eine deutsche Übersetzerin und Schriftstellerin.</abstract>
+<wikilink>http://en.wikipedia.org/wiki/Hedda_Eulenberg?oldid=592138707</wikilink>
+<artworks />
+<buildings />
+<books />
+</Person>

@@ -1,0 +1,33 @@
+<Person>
+<name>Eduard Gans</name>
+<variantName>
+<XML_Serializer_Tag>Eduardo Gans</XML_Serializer_Tag>
+<XML_Serializer_Tag>Edouard Gans</XML_Serializer_Tag>
+<XML_Serializer_Tag>E. Gans</XML_Serializer_Tag>
+<XML_Serializer_Tag>... Gans</XML_Serializer_Tag>
+<XML_Serializer_Tag>Edward Gans</XML_Serializer_Tag>
+<XML_Serializer_Tag>... Gansu</XML_Serializer_Tag>
+</variantName>
+<thumbnail>https://commons.wikimedia.org/wiki/Special:FilePath/Eduard_Gans.jpg?width=270</thumbnail>
+<birthEN>March 22, 1798</birthEN>
+<birthDE>22. März 1798</birthDE>
+<deathEN>May 5, 1839</deathEN>
+<deathDE>5. Mai 1839</deathDE>
+<birthPlace>
+<XML_Serializer_Tag>Berlin</XML_Serializer_Tag>
+</birthPlace>
+<deathPlace>
+<XML_Serializer_Tag>Berlin</XML_Serializer_Tag>
+</deathPlace>
+<professionOrOccupation>
+<XML_Serializer_Tag>Jurist</XML_Serializer_Tag>
+<XML_Serializer_Tag>Publizist</XML_Serializer_Tag>
+<XML_Serializer_Tag>Philosoph</XML_Serializer_Tag>
+</professionOrOccupation>
+<dbpResource>http://dbpedia.org/resource/Eduard_Gans</dbpResource>
+<abstract>Eduard Gans (* 22. März 1798, nach anderen Quellen 1797, in Berlin; † 5. Mai 1839 ebenda) war ein deutscher Jurist, Rechtsphilosoph und Historiker.</abstract>
+<wikilink>http://en.wikipedia.org/wiki/Eduard_Gans?oldid=541135827</wikilink>
+<artworks />
+<buildings />
+<books />
+</Person>

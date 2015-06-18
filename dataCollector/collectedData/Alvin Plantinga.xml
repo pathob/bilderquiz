@@ -1,0 +1,24 @@
+<Person>
+<name>Alvin Plantinga</name>
+<variantName>
+<XML_Serializer_Tag>Alvin C. Plantinga</XML_Serializer_Tag>
+</variantName>
+<thumbnail>https://commons.wikimedia.org/wiki/Special:FilePath/AlvinPlantinga.JPG?width=270</thumbnail>
+<birthEN>1932</birthEN>
+<birthDE>1932</birthDE>
+<deathEN />
+<deathDE />
+<birthPlace>
+<XML_Serializer_Tag>Ann Arbor, Mich.</XML_Serializer_Tag>
+</birthPlace>
+<deathPlace />
+<professionOrOccupation>
+<XML_Serializer_Tag>Philosoph</XML_Serializer_Tag>
+</professionOrOccupation>
+<dbpResource>http://dbpedia.org/resource/Alvin_Plantinga</dbpResource>
+<abstract>Alvin Carl Plantinga (* 15. November 1932 in Ann Arbor, Michigan) ist ein amerikanischer Philosoph mit Arbeitsschwerpunkten in der Modallogik, Erkenntnistheorie und Religionsphilosophie.</abstract>
+<wikilink>http://en.wikipedia.org/wiki/Alvin_Plantinga?oldid=600915088</wikilink>
+<artworks />
+<buildings />
+<books />
+</Person>

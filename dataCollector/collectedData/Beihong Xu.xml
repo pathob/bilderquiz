@@ -19,12 +19,15 @@
 <professionOrOccupation>
 <XML_Serializer_Tag>Maler</XML_Serializer_Tag>
 </professionOrOccupation>
+<dbpResource>http://dbpedia.org/resource/Xu_Beihong</dbpResource>
+<abstract>Xú Bēihóng (chinesisch 徐悲鸿, W.-G. Hsü Pei-hung; * 19. Juli 1895 in Yixing, Provinz Jiangsu, Kaiserreich China; † 26. September 1953 in Peking, Volksrepublik China) war der erste chinesische Maler, der westliche Stilelemente in seinen Werken verwendete.</abstract>
+<wikilink>http://en.wikipedia.org/wiki/Xu_Beihong?oldid=601100874</wikilink>
 <artworks>
 <XML_Serializer_Tag>
-<painting>
+<artwork>
 <type>uri</type>
 <value>http://dbpedia.org/resource/Put_Down_Your_Whip_(painting)</value>
-</painting>
+</artwork>
 <thumbnail>
 <type>uri</type>
 <value>http://commons.wikimedia.org/wiki/Special:FilePath/Put_Down_Your_Whip_by_Xu_Beihong.jpg?width=300</value>
@@ -43,9 +46,12 @@
 <type>uri</type>
 <value>http://en.wikipedia.org/wiki/Put_Down_Your_Whip_(painting)?oldid=590551387</value>
 </wikilink>
+<type>
+<type>uri</type>
+<value>http://dbpedia.org/resource/Oil_painting</value>
+</type>
 </XML_Serializer_Tag>
 </artworks>
-<dbpResource>http://dbpedia.org/resource/Xu_Beihong</dbpResource>
-<abstract>Xú Bēihóng (chinesisch 徐悲鸿, W.-G. Hsü Pei-hung; * 19. Juli 1895 in Yixing, Provinz Jiangsu, Kaiserreich China; † 26. September 1953 in Peking, Volksrepublik China) war der erste chinesische Maler, der westliche Stilelemente in seinen Werken verwendete.</abstract>
-<wikilink>http://en.wikipedia.org/wiki/Xu_Beihong?oldid=601100874</wikilink>
+<buildings />
+<books />
 </Person>

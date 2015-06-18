@@ -1,0 +1,26 @@
+<Person>
+<name>Karl Andree</name>
+<variantName>
+<XML_Serializer_Tag>Karl Theodor Andree</XML_Serializer_Tag>
+<XML_Serializer_Tag>Carl Andree</XML_Serializer_Tag>
+<XML_Serializer_Tag>Carl Theodor Andree</XML_Serializer_Tag>
+</variantName>
+<thumbnail>https://commons.wikimedia.org/wiki/Special:FilePath/Andree_Nordamerika.png?width=270</thumbnail>
+<birthEN>October 20, 1808</birthEN>
+<birthDE>20. Oktober 1808</birthDE>
+<deathEN>August 10, 1875</deathEN>
+<deathDE>10. August 1875</deathDE>
+<birthPlace />
+<deathPlace />
+<professionOrOccupation>
+<XML_Serializer_Tag>Schriftsteller</XML_Serializer_Tag>
+<XML_Serializer_Tag>Geograph</XML_Serializer_Tag>
+<XML_Serializer_Tag>Publizist</XML_Serializer_Tag>
+</professionOrOccupation>
+<dbpResource>http://dbpedia.org/resource/Karl_Andree</dbpResource>
+<abstract>Karl Theodor Andree (* 20. Oktober 1808 in Braunschweig; † 10. August 1875 in Bad Wildungen) war ein deutscher Geograph, Publizist und Konsul.</abstract>
+<wikilink>http://en.wikipedia.org/wiki/Karl_Andree?oldid=551660461</wikilink>
+<artworks />
+<buildings />
+<books />
+</Person>

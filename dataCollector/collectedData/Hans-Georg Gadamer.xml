@@ -1,0 +1,74 @@
+<Person>
+<name>Hans-Georg Gadamer</name>
+<variantName>
+<XML_Serializer_Tag>Hans Georg Gadamer</XML_Serializer_Tag>
+<XML_Serializer_Tag>Hans G. Gadamer</XML_Serializer_Tag>
+<XML_Serializer_Tag>Chans-Georg Gadamer</XML_Serializer_Tag>
+<XML_Serializer_Tag>G.-G. Gadamer</XML_Serializer_Tag>
+<XML_Serializer_Tag>H. G. Gadamer</XML_Serializer_Tag>
+<XML_Serializer_Tag>H.-G. Gadamer</XML_Serializer_Tag>
+<XML_Serializer_Tag>Gans-Georg Gadamer</XML_Serializer_Tag>
+<XML_Serializer_Tag>Georg Gadamer</XML_Serializer_Tag>
+<XML_Serializer_Tag>... Gadamer-Boehm</XML_Serializer_Tag>
+<XML_Serializer_Tag>Hansu-Georuku Gadamā</XML_Serializer_Tag>
+<XML_Serializer_Tag>Hans-Heorg Hadamer</XML_Serializer_Tag>
+<XML_Serializer_Tag>Chans-Gkeornk Gkantamer</XML_Serializer_Tag>
+<XML_Serializer_Tag>... Jiadamo&apos;er</XML_Serializer_Tag>
+<XML_Serializer_Tag>Hansŭ-Keorŭk&apos;ŭ Kadamŏ</XML_Serializer_Tag>
+<XML_Serializer_Tag>Hansu Georuku Gādamā</XML_Serializer_Tag>
+<XML_Serializer_Tag>Hānz Ǧūrǧ Ġādāmīr</XML_Serializer_Tag>
+<XML_Serializer_Tag>Han si-Ge ao er ge Jia da mo er</XML_Serializer_Tag>
+<XML_Serializer_Tag>Hansi-Geao&apos;erge Jiadamo&apos;er</XML_Serializer_Tag>
+<XML_Serializer_Tag>Hansi-Geaoerge-Jiadamoer</XML_Serializer_Tag>
+<XML_Serializer_Tag>Hansi-Geaoerge Jiadamoer</XML_Serializer_Tag>
+<XML_Serializer_Tag>Hansi Geaoerge Jiadamoer</XML_Serializer_Tag>
+<XML_Serializer_Tag>伽达默尔</XML_Serializer_Tag>
+<XML_Serializer_Tag>ハンス=ゲオルグ・ガダマー</XML_Serializer_Tag>
+<XML_Serializer_Tag>ハンス=ゲオルグ ガダマー</XML_Serializer_Tag>
+</variantName>
+<thumbnail>https://commons.wikimedia.org/wiki/Special:FilePath/DC260-mh15922.jpg?width=270</thumbnail>
+<birthEN>February 11, 1900</birthEN>
+<birthDE>11. Februar 1900</birthDE>
+<deathEN>March 14, 2002</deathEN>
+<deathDE>14. März 2002</deathDE>
+<birthPlace>
+<XML_Serializer_Tag>Marburg</XML_Serializer_Tag>
+</birthPlace>
+<deathPlace>
+<XML_Serializer_Tag>Heidelberg</XML_Serializer_Tag>
+</deathPlace>
+<professionOrOccupation>
+<XML_Serializer_Tag>Philosoph</XML_Serializer_Tag>
+</professionOrOccupation>
+<dbpResource>http://dbpedia.org/resource/Hans-Georg_Gadamer</dbpResource>
+<abstract>Hans-Georg Gadamer (* 11. Februar 1900 in Marburg; † 13. März 2002 in Heidelberg) war ein deutscher Philosoph. International bekannt wurde er durch sein für die philosophische Hermeneutik grundlegendes Werk Wahrheit und Methode (1960).</abstract>
+<wikilink>http://en.wikipedia.org/wiki/Hans-Georg_Gadamer?oldid=603101617</wikilink>
+<artworks />
+<buildings />
+<books>
+<XML_Serializer_Tag>
+<book>
+<type>uri</type>
+<value>http://dbpedia.org/resource/Truth_and_Method</value>
+</book>
+<author>
+<type>uri</type>
+<value>http://dbpedia.org/resource/Hans-Georg_Gadamer</value>
+</author>
+<published>
+<type>typed-literal</type>
+<datatype>http://www.w3.org/2001/XMLSchema#integer</datatype>
+<value>1960</value>
+</published>
+<wikilink>
+<type>uri</type>
+<value>http://en.wikipedia.org/wiki/Truth_and_Method?oldid=601089479</value>
+</wikilink>
+<abstract>
+<type>literal</type>
+<xml:lang>de</xml:lang>
+<value>Wahrheit und Methode (1960, Tübingen) ist das wohl bekannteste Werk des deutschen Philosophen Hans-Georg Gadamer, der darin seine Vorstellung einer universalen Hermeneutik formuliert.Gadamer versteht die Hermeneutik weder als Theorie noch als Methode oder Methodik. Vielmehr ist sie das Phänomen des Verstehens und der sachgerechten Auslegung des Verstandenen. Im Werk bemüht sich Gadamer um die Herausbildung der Begriffe Wahrheit, Sinn, Erkenntnis und Verstehen.Die Hermeneutik beschränkt sich nicht auf die wissenschaftliche Wahrheitsfindung. Denn auch durch Kunst und Geschichte kann Wahrheit offenbart werden. Diese Wahrheit erfährt man durch Verstehen in Form eines Dialoges, wobei es gleich ist, ob man sich mit einem Gesprächspartner, einem Text, einem Gemälde oder sonst einem Gegenstand auseinandersetzt. Die Hermeneutik soll diese Wahrheit, die die wissenschaftliche Methodik übersteigt, legitimieren.</value>
+</abstract>
+</XML_Serializer_Tag>
+</books>
+</Person>

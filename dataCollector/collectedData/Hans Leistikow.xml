@@ -19,8 +19,10 @@
 <XML_Serializer_Tag>Maler</XML_Serializer_Tag>
 <XML_Serializer_Tag>Graphiker</XML_Serializer_Tag>
 </professionOrOccupation>
-<artworks />
 <dbpResource>http://dbpedia.org/resource/Hans_Leistikow</dbpResource>
 <abstract>Hans Leistikow (* 29. August 1895 in Metz; † 29. März 1967 in Krautheim (Jagst)) war ein deutscher Offizier, zuletzt Generalmajor im Zweiten Weltkrieg.</abstract>
 <wikilink>http://en.wikipedia.org/wiki/Hans_Leistikow?oldid=579721054</wikilink>
+<artworks />
+<buildings />
+<books />
 </Person>

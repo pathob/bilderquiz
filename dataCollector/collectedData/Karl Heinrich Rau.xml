@@ -1,0 +1,35 @@
+<Person>
+<name>Karl Heinrich Rau</name>
+<variantName>
+<XML_Serializer_Tag>Carl Rau</XML_Serializer_Tag>
+<XML_Serializer_Tag>Carl Heinrich Rau</XML_Serializer_Tag>
+<XML_Serializer_Tag>Carolus Henricus Rau</XML_Serializer_Tag>
+<XML_Serializer_Tag>Carl David Heinrich Rav</XML_Serializer_Tag>
+<XML_Serializer_Tag>Karl David Heinrich Rau</XML_Serializer_Tag>
+<XML_Serializer_Tag>Károly Henrik Rau</XML_Serializer_Tag>
+<XML_Serializer_Tag>Karl H. Rau</XML_Serializer_Tag>
+<XML_Serializer_Tag>Karl D. Rau</XML_Serializer_Tag>
+<XML_Serializer_Tag>Carl D. Rau</XML_Serializer_Tag>
+<XML_Serializer_Tag>K. H. Rau</XML_Serializer_Tag>
+<XML_Serializer_Tag>Heinrich Rau</XML_Serializer_Tag>
+</variantName>
+<thumbnail>https://de.wikipedia.org/wiki/Special:FilePath/Karl_Daniel_Heinrich_Rau_1862_(IZ_38-244).jpg?width=270</thumbnail>
+<birthEN>November 23, 1792</birthEN>
+<birthDE>23. November 1792</birthDE>
+<deathEN>1870</deathEN>
+<deathDE>1870</deathDE>
+<birthPlace>
+<XML_Serializer_Tag>Erlangen</XML_Serializer_Tag>
+</birthPlace>
+<deathPlace />
+<professionOrOccupation>
+<XML_Serializer_Tag>Hochschullehrer</XML_Serializer_Tag>
+<XML_Serializer_Tag>Autor</XML_Serializer_Tag>
+</professionOrOccupation>
+<dbpResource>http://dbpedia.org/resource/Karl_Heinrich_Rau</dbpResource>
+<abstract>Karl Heinrich Rau (* 23. November 1792 in Erlangen; † 18. März 1870 in Heidelberg) war ein deutscher Nationalökonom, Freimaurer und Agrarwissenschaftler.</abstract>
+<wikilink>http://en.wikipedia.org/wiki/Karl_Heinrich_Rau?oldid=589450876</wikilink>
+<artworks />
+<buildings />
+<books />
+</Person>

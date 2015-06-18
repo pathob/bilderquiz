@@ -1,0 +1,27 @@
+<Person>
+<name>Richard Katz</name>
+<variantName>
+<XML_Serializer_Tag>Riccardo Katz</XML_Serializer_Tag>
+</variantName>
+<thumbnail>https://en.wikipedia.org/wiki/Special:FilePath/Katz.png?width=270</thumbnail>
+<birthEN>October 21, 1888</birthEN>
+<birthDE>21. Oktober 1888</birthDE>
+<deathEN>November 8, 1968</deathEN>
+<deathDE>8. November 1968</deathDE>
+<birthPlace>
+<XML_Serializer_Tag>Prag</XML_Serializer_Tag>
+</birthPlace>
+<deathPlace>
+<XML_Serializer_Tag>Muralto/Kanton Tessin</XML_Serializer_Tag>
+</deathPlace>
+<professionOrOccupation>
+<XML_Serializer_Tag>Schriftsteller</XML_Serializer_Tag>
+<XML_Serializer_Tag>Journalist</XML_Serializer_Tag>
+</professionOrOccupation>
+<dbpResource>http://dbpedia.org/resource/Richard_Katz</dbpResource>
+<abstract>Richard Katz (* 21. Oktober 1888 in Prag; † 8. November 1968 in Muralto, Tessin) war ein deutscher Journalist und Reiseschriftsteller böhmischer Herkunft.</abstract>
+<wikilink>http://en.wikipedia.org/wiki/Richard_Katz?oldid=588943253</wikilink>
+<artworks />
+<buildings />
+<books />
+</Person>

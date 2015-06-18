@@ -1,0 +1,27 @@
+<Person>
+<name>Rudolf Bahro</name>
+<variantName>
+<XML_Serializer_Tag>R. Bahro</XML_Serializer_Tag>
+</variantName>
+<thumbnail>https://commons.wikimedia.org/wiki/Special:FilePath/Bahro.jpg?width=270</thumbnail>
+<birthEN>November 18, 1935</birthEN>
+<birthDE>18. November 1935</birthDE>
+<deathEN>December 5, 1997</deathEN>
+<deathDE>5. Dezember 1997</deathDE>
+<birthPlace>
+<XML_Serializer_Tag>Bad Flinsberg</XML_Serializer_Tag>
+</birthPlace>
+<deathPlace>
+<XML_Serializer_Tag>Berlin</XML_Serializer_Tag>
+</deathPlace>
+<professionOrOccupation>
+<XML_Serializer_Tag>Politiker</XML_Serializer_Tag>
+<XML_Serializer_Tag>Philosoph</XML_Serializer_Tag>
+</professionOrOccupation>
+<dbpResource>http://dbpedia.org/resource/Rudolf_Bahro</dbpResource>
+<abstract>Rudolf Bahro (* 18. November 1935 in Bad Flinsberg, Kreis Löwenberg i. Schles.; † 5. Dezember 1997 in Berlin) war ein deutscher Philosoph, Politiker und Sozialökologe. Er gehörte zu den profiliertesten Dissidenten der DDR und wurde durch sein Buch Die Alternative (1977) bekannt.</abstract>
+<wikilink>http://en.wikipedia.org/wiki/Rudolf_Bahro?oldid=594813545</wikilink>
+<artworks />
+<buildings />
+<books />
+</Person>

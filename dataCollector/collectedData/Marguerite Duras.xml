@@ -1,0 +1,124 @@
+<Person>
+<name>Marguerite Duras</name>
+<variantName>
+<XML_Serializer_Tag>Marguerite Donnadieu</XML_Serializer_Tag>
+<XML_Serializer_Tag>Marguerite Donnadieu</XML_Serializer_Tag>
+</variantName>
+<thumbnail>https://commons.wikimedia.org/wiki/Special:FilePath/Marguerite_Duras_1993.jpg?width=270</thumbnail>
+<birthEN>April 4, 1914</birthEN>
+<birthDE>4. April 1914</birthDE>
+<deathEN>March 3, 1996</deathEN>
+<deathDE>3. März 1996</deathDE>
+<birthPlace>
+<XML_Serializer_Tag>Ho-Chi-Minh-Stadt</XML_Serializer_Tag>
+</birthPlace>
+<deathPlace>
+<XML_Serializer_Tag>Paris</XML_Serializer_Tag>
+</deathPlace>
+<professionOrOccupation>
+<XML_Serializer_Tag>Schriftstellerin</XML_Serializer_Tag>
+<XML_Serializer_Tag>Drehbuchautorin</XML_Serializer_Tag>
+<XML_Serializer_Tag>Regisseurin</XML_Serializer_Tag>
+</professionOrOccupation>
+<dbpResource>http://dbpedia.org/resource/Marguerite_Duras</dbpResource>
+<abstract>Marguerite Duras [maʀgə&apos;ʀit dy&apos;ʀas] (* 4. April 1914 in Gia Định bei Saigon, Vietnam (damals Französisch-Indochina) als Marguerite Donnadieu; † 3. März 1996 in Paris) war eine französische Schriftstellerin, Drehbuchautorin und Filmregisseurin.</abstract>
+<wikilink>http://en.wikipedia.org/wiki/Marguerite_Duras?oldid=606096448</wikilink>
+<artworks />
+<buildings />
+<books>
+<XML_Serializer_Tag>
+<book>
+<type>uri</type>
+<value>http://dbpedia.org/resource/Moderato_Cantabile</value>
+</book>
+<author>
+<type>uri</type>
+<value>http://dbpedia.org/resource/Marguerite_Duras</value>
+</author>
+<released>
+<type>typed-literal</type>
+<datatype>http://www.w3.org/2001/XMLSchema#integer</datatype>
+<value>1958</value>
+</released>
+<wikilink>
+<type>uri</type>
+<value>http://en.wikipedia.org/wiki/Moderato_Cantabile?oldid=603699987</value>
+</wikilink>
+</XML_Serializer_Tag>
+<XML_Serializer_Tag>
+<book>
+<type>uri</type>
+<value>http://dbpedia.org/resource/The_Lover_(1984_novel)</value>
+</book>
+<author>
+<type>uri</type>
+<value>http://dbpedia.org/resource/Marguerite_Duras</value>
+</author>
+<wikilink>
+<type>uri</type>
+<value>http://en.wikipedia.org/wiki/The_Lover_(1984_novel)?oldid=544884144</value>
+</wikilink>
+<abstract>
+<type>literal</type>
+<xml:lang>de</xml:lang>
+<value>Der Liebhaber (französischer Originaltitel: L’Amant) ist eine autobiografische Erzählung von Marguerite Duras aus dem Jahr 1984. Das Werk, das Bruno Nuytten gewidmet ist, wurde im gleichen Jahr mit dem Prix Goncourt ausgezeichnet.</value>
+</abstract>
+</XML_Serializer_Tag>
+<XML_Serializer_Tag>
+<book>
+<type>uri</type>
+<value>http://dbpedia.org/resource/The_Malady_of_Death</value>
+</book>
+<author>
+<type>uri</type>
+<value>http://dbpedia.org/resource/Marguerite_Duras</value>
+</author>
+<wikilink>
+<type>uri</type>
+<value>http://en.wikipedia.org/wiki/The_Malady_of_Death?oldid=583309508</value>
+</wikilink>
+</XML_Serializer_Tag>
+<XML_Serializer_Tag>
+<book>
+<type>uri</type>
+<value>http://dbpedia.org/resource/The_Sea_Wall_(novel)</value>
+</book>
+<author>
+<type>uri</type>
+<value>http://dbpedia.org/resource/Marguerite_Duras</value>
+</author>
+<wikilink>
+<type>uri</type>
+<value>http://en.wikipedia.org/wiki/The_Sea_Wall_(novel)?oldid=546331536</value>
+</wikilink>
+</XML_Serializer_Tag>
+<XML_Serializer_Tag>
+<book>
+<type>uri</type>
+<value>http://dbpedia.org/resource/Blue_Eyes,_Black_Hair</value>
+</book>
+<author>
+<type>uri</type>
+<value>http://dbpedia.org/resource/Marguerite_Duras</value>
+</author>
+<wikilink>
+<type>uri</type>
+<value>http://en.wikipedia.org/wiki/Blue_Eyes,_Black_Hair?oldid=605932142</value>
+</wikilink>
+</XML_Serializer_Tag>
+<XML_Serializer_Tag>
+<book>
+<type>uri</type>
+<value>http://dbpedia.org/resource/Ten-Thirty_on_a_Summer_Night</value>
+</book>
+<author>
+<type>uri</type>
+<value>http://dbpedia.org/resource/Marguerite_Duras</value>
+</author>
+<wikilink>
+<type>uri</type>
+<value>http://en.wikipedia.org/wiki/Ten-Thirty_on_a_Summer_Night?oldid=534608196</value>
+</wikilink>
+</XML_Serializer_Tag>
+</books>
+</Person>

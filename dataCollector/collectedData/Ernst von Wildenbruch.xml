@@ -1,0 +1,31 @@
+<Person>
+<name>Ernst von Wildenbruch</name>
+<variantName>
+<XML_Serializer_Tag>E. Wildenbruch</XML_Serializer_Tag>
+<XML_Serializer_Tag>Ernst Wildenbruch</XML_Serializer_Tag>
+</variantName>
+<thumbnail>https://de.wikipedia.org/wiki/Special:FilePath/ErnstvonWildenbruch.jpg?width=270</thumbnail>
+<birthEN>February 3, 1845</birthEN>
+<birthDE>3. Februar 1845</birthDE>
+<deathEN>January 15, 1909</deathEN>
+<deathDE>15. Januar 1909</deathDE>
+<birthPlace>
+<XML_Serializer_Tag>Beirut</XML_Serializer_Tag>
+</birthPlace>
+<deathPlace>
+<XML_Serializer_Tag>Berlin</XML_Serializer_Tag>
+</deathPlace>
+<professionOrOccupation>
+<XML_Serializer_Tag>Schriftsteller</XML_Serializer_Tag>
+<XML_Serializer_Tag>Diplomat</XML_Serializer_Tag>
+<XML_Serializer_Tag>Jurist</XML_Serializer_Tag>
+<XML_Serializer_Tag>Offizier</XML_Serializer_Tag>
+<XML_Serializer_Tag>Beamter</XML_Serializer_Tag>
+</professionOrOccupation>
+<dbpResource>http://dbpedia.org/resource/Ernst_von_Wildenbruch</dbpResource>
+<abstract>Ernst von Wildenbruch (* 3. Februar 1845 in Beirut, Libanon; † 15. Januar 1909 in Berlin) war ein deutscher Schriftsteller und Diplomat.</abstract>
+<wikilink>http://en.wikipedia.org/wiki/Ernst_von_Wildenbruch?oldid=596953178</wikilink>
+<artworks />
+<buildings />
+<books />
+</Person>

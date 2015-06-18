@@ -1,0 +1,27 @@
+<Person>
+<name>Johann August Unzer</name>
+<variantName>
+<XML_Serializer_Tag>Johannes August Unzer</XML_Serializer_Tag>
+<XML_Serializer_Tag>Johann August Untzer</XML_Serializer_Tag>
+<XML_Serializer_Tag>John A. Unzer</XML_Serializer_Tag>
+<XML_Serializer_Tag>Johannes August Untzer</XML_Serializer_Tag>
+</variantName>
+<thumbnail>https://commons.wikimedia.org/wiki/Special:FilePath/UnzerJA.JPG?width=270</thumbnail>
+<birthEN>April 29, 1727</birthEN>
+<birthDE>29. April 1727</birthDE>
+<deathEN>April 2, 1799</deathEN>
+<deathDE>2. April 1799</deathDE>
+<birthPlace />
+<deathPlace />
+<professionOrOccupation>
+<XML_Serializer_Tag>Arzt</XML_Serializer_Tag>
+<XML_Serializer_Tag>Psychologe</XML_Serializer_Tag>
+<XML_Serializer_Tag>Schriftsteller</XML_Serializer_Tag>
+</professionOrOccupation>
+<dbpResource>http://dbpedia.org/resource/Johann_August_Unzer</dbpResource>
+<abstract>Johann August Unzer (* 29. April 1727 in Halle; † 2. April 1799 in Altona) war ein deutscher Arzt, Herausgeber einer medizinischen Wochenschrift und früher Psychologe.</abstract>
+<wikilink>http://en.wikipedia.org/wiki/Johann_August_Unzer?oldid=606615360</wikilink>
+<artworks />
+<buildings />
+<books />
+</Person>

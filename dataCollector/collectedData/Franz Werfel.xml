@@ -1,0 +1,91 @@
+<Person>
+<name>Franz Werfel</name>
+<variantName>
+<XML_Serializer_Tag>Franc Werfel</XML_Serializer_Tag>
+<XML_Serializer_Tag>Franciszek Werfel</XML_Serializer_Tag>
+<XML_Serializer_Tag>Franṣ Werfel</XML_Serializer_Tag>
+<XML_Serializer_Tag>Frantz Werfel</XML_Serializer_Tag>
+<XML_Serializer_Tag>Franz V. Werfel</XML_Serializer_Tag>
+<XML_Serializer_Tag>Frants Berphel</XML_Serializer_Tag>
+<XML_Serializer_Tag>Franc&apos; Verfel</XML_Serializer_Tag>
+<XML_Serializer_Tag>Franc Verfel</XML_Serializer_Tag>
+<XML_Serializer_Tag>Franč Verfelʹ</XML_Serializer_Tag>
+<XML_Serializer_Tag>Franc Verfelʹ</XML_Serializer_Tag>
+<XML_Serializer_Tag>F. Verfel&apos;</XML_Serializer_Tag>
+<XML_Serializer_Tag>Francas Verfelis</XML_Serializer_Tag>
+<XML_Serializer_Tag>Francis Verfelis</XML_Serializer_Tag>
+<XML_Serializer_Tag>Furantsu Veruferu</XML_Serializer_Tag>
+<XML_Serializer_Tag>Firānz Wīrfil</XML_Serializer_Tag>
+</variantName>
+<thumbnail>https://commons.wikimedia.org/wiki/Special:FilePath/Werfel.jpg?width=270</thumbnail>
+<birthEN>September 10, 1890</birthEN>
+<birthDE>10. September 1890</birthDE>
+<deathEN>August 26, 1945</deathEN>
+<deathDE>26. August 1945</deathDE>
+<birthPlace>
+<XML_Serializer_Tag>Prag</XML_Serializer_Tag>
+</birthPlace>
+<deathPlace>
+<XML_Serializer_Tag>Beverly Hills, Calif.</XML_Serializer_Tag>
+</deathPlace>
+<professionOrOccupation>
+<XML_Serializer_Tag>Librettist</XML_Serializer_Tag>
+<XML_Serializer_Tag>Sprecher</XML_Serializer_Tag>
+<XML_Serializer_Tag>Schriftsteller</XML_Serializer_Tag>
+</professionOrOccupation>
+<dbpResource>http://dbpedia.org/resource/Franz_Werfel</dbpResource>
+<abstract>Franz Viktor Werfel (* 10. September 1890 in Prag, Österreich-Ungarn; † 26. August 1945 in Beverly Hills, Kalifornien, Vereinigte Staaten) war ein österreichischer Schriftsteller jüdischer Herkunft mit deutschböhmischen Wurzeln, der aufgrund der nationalsozialistischen Herrschaft ins Exil ging und 1941 US-amerikanischer Staatsbürger wurde. Er war ein Wortführer des lyrischen Expressionismus. In den 1920er und 1930er Jahren waren seine Bücher Bestseller. Seine Popularität beruht vor allem auf seinen erzählenden Werken und Theaterstücken, über die aber Werfel selbst seine Lyrik setzte. Mit seinem Roman Verdi. Roman der Oper (1924) wurde Werfel zu einem Protagonisten der Verdi-Renaissance in Deutschland. Besonders bekannt wurden sein zweibändiger historischer Roman Die vierzig Tage des Musa Dagh 1933/47 und das Das Lied von Bernadette aus dem Jahr 1941.</abstract>
+<wikilink>http://en.wikipedia.org/wiki/Franz_Werfel?oldid=606657426</wikilink>
+<artworks />
+<buildings />
+<books>
+<XML_Serializer_Tag>
+<book>
+<type>uri</type>
+<value>http://dbpedia.org/resource/Class_Reunion_(1928_novel)</value>
+</book>
+<author>
+<type>uri</type>
+<value>http://dbpedia.org/resource/Franz_Werfel</value>
+</author>
+<released>
+<type>typed-literal</type>
+<datatype>http://www.w3.org/2001/XMLSchema#integer</datatype>
+<value>1928</value>
+</released>
+<wikilink>
+<type>uri</type>
+<value>http://en.wikipedia.org/wiki/Class_Reunion_(1928_novel)?oldid=581864613</value>
+</wikilink>
+<abstract>
+<type>literal</type>
+<xml:lang>de</xml:lang>
+<value>Der Abituriententag ist ein 1928 erschienener Roman von Franz Werfel. Der Roman trägt den Untertitel: „Geschichte einer Jugendschuld“.</value>
+</abstract>
+</XML_Serializer_Tag>
+<XML_Serializer_Tag>
+<book>
+<type>uri</type>
+<value>http://dbpedia.org/resource/The_Forty_Days_of_Musa_Dagh</value>
+</book>
+<author>
+<type>uri</type>
+<value>http://dbpedia.org/resource/Franz_Werfel</value>
+</author>
+<released>
+<type>typed-literal</type>
+<datatype>http://www.w3.org/2001/XMLSchema#integer</datatype>
+<value>1933</value>
+</released>
+<wikilink>
+<type>uri</type>
+<value>http://en.wikipedia.org/wiki/The_Forty_Days_of_Musa_Dagh?oldid=605438132</value>
+</wikilink>
+<abstract>
+<type>literal</type>
+<xml:lang>de</xml:lang>
+<value>Die vierzig Tage des Musa Dagh ist der Titel eines im November 1933 erschienenen historischen Romanes des österreichischen Schriftstellers Franz Werfel, in dem der Völkermord an den Armeniern und der armenische Widerstand auf dem Musa Dağı unter der Führung Moses Der Kalousdian literarisch verarbeitet wird.</value>
+</abstract>
+</XML_Serializer_Tag>
+</books>
+</Person>

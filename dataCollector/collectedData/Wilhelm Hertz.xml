@@ -1,0 +1,34 @@
+<Person>
+<name>Wilhelm Hertz</name>
+<variantName>
+<XML_Serializer_Tag>Wilhelm Carl Heinrich Hertz</XML_Serializer_Tag>
+<XML_Serializer_Tag>Wilhelm Karl Heinrich Hertz</XML_Serializer_Tag>
+<XML_Serializer_Tag>Wilhelm K. Hertz</XML_Serializer_Tag>
+<XML_Serializer_Tag>Wilhelm C. Hertz</XML_Serializer_Tag>
+<XML_Serializer_Tag>Wilhelm Karl Hertz</XML_Serializer_Tag>
+<XML_Serializer_Tag>Wilhelm von Hertz</XML_Serializer_Tag>
+</variantName>
+<thumbnail>https://commons.wikimedia.org/wiki/Special:FilePath/Rudolf_Pfähler_u_Carl_Baumann_Porträt_Wilhelm_von_Hertz_Salzpapierabzug_1855.jpg?width=270</thumbnail>
+<birthEN>September 24, 1835</birthEN>
+<birthDE>24. September 1835</birthDE>
+<deathEN>January 7, 1902</deathEN>
+<deathDE>7. Januar 1902</deathDE>
+<birthPlace>
+<XML_Serializer_Tag>Stuttgart</XML_Serializer_Tag>
+</birthPlace>
+<deathPlace>
+<XML_Serializer_Tag>München</XML_Serializer_Tag>
+</deathPlace>
+<professionOrOccupation>
+<XML_Serializer_Tag>Schriftsteller</XML_Serializer_Tag>
+<XML_Serializer_Tag>Literarhistoriker</XML_Serializer_Tag>
+<XML_Serializer_Tag>Germanist</XML_Serializer_Tag>
+<XML_Serializer_Tag>Schriftsteller</XML_Serializer_Tag>
+</professionOrOccupation>
+<dbpResource>http://dbpedia.org/resource/Wilhelm_Hertz</dbpResource>
+<abstract>Wilhelm Ritter von Hertz (* 24. September 1835 in Stuttgart; † 7. Januar 1902 in München) war ein deutscher Dichter und Germanist. Wilhelm Hertz war insbesondere im 19. Jahrhundert populär und ist aufgrund des weitreichenden Verlusts vieler seiner Werke heute weitgehend in Vergessenheit geraten, jedoch werden zahlreiche der verschollenen Werke derzeit neu aufgelegt, rekonstruiert und wiederentdeckt.</abstract>
+<wikilink>http://en.wikipedia.org/wiki/Wilhelm_Hertz?oldid=596554920</wikilink>
+<artworks />
+<buildings />
+<books />
+</Person>

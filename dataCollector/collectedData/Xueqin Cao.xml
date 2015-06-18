@@ -1,0 +1,83 @@
+<Person>
+<name>Xueqin Cao</name>
+<variantName>
+<XML_Serializer_Tag>Xue Qin Cao</XML_Serializer_Tag>
+<XML_Serializer_Tag>Zhan Cao</XML_Serializer_Tag>
+<XML_Serializer_Tag>Cao Xue Qin</XML_Serializer_Tag>
+<XML_Serializer_Tag>Caoxue Qin</XML_Serializer_Tag>
+<XML_Serializer_Tag>Chan Ts&apos;ao</XML_Serializer_Tag>
+<XML_Serializer_Tag>Meng-yüan Ts&apos;ao</XML_Serializer_Tag>
+<XML_Serializer_Tag>Mengyuan Cao</XML_Serializer_Tag>
+<XML_Serializer_Tag>Hsüeh-ch&apos;in Ts&apos;ao</XML_Serializer_Tag>
+<XML_Serializer_Tag>Hsüe Kin Tsao</XML_Serializer_Tag>
+<XML_Serializer_Tag>Hsüe Kin Tsau</XML_Serializer_Tag>
+<XML_Serializer_Tag>Hsüe-kin Tsau</XML_Serializer_Tag>
+<XML_Serializer_Tag>Hsüe-kin Tsao</XML_Serializer_Tag>
+<XML_Serializer_Tag>Hsüeh-chin Ts&apos;ao</XML_Serializer_Tag>
+<XML_Serializer_Tag>Hsueh-chin Tsao</XML_Serializer_Tag>
+<XML_Serializer_Tag>Hsuee Kin Tsao</XML_Serializer_Tag>
+<XML_Serializer_Tag>Xue-jin Zao</XML_Serializer_Tag>
+<XML_Serializer_Tag>Sao Šö Čin</XML_Serializer_Tag>
+<XML_Serializer_Tag>Šöčin Saw</XML_Serializer_Tag>
+<XML_Serializer_Tag>Siuvai Čin Coo</XML_Serializer_Tag>
+<XML_Serializer_Tag>Siuvai Čin Cuu</XML_Serializer_Tag>
+<XML_Serializer_Tag>Suvei Čin Coo</XML_Serializer_Tag>
+<XML_Serializer_Tag>Suvei Čin Cuu</XML_Serializer_Tag>
+<XML_Serializer_Tag>Siuvei Čin Coo</XML_Serializer_Tag>
+<XML_Serializer_Tag>Siuvei Čin Cuu</XML_Serializer_Tag>
+<XML_Serializer_Tag>Hsüä-tjin Tsau</XML_Serializer_Tag>
+<XML_Serializer_Tag>Tsao Hsüe Rin</XML_Serializer_Tag>
+<XML_Serializer_Tag>Setsukin Sō</XML_Serializer_Tag>
+<XML_Serializer_Tag>Sekkin Sō</XML_Serializer_Tag>
+<XML_Serializer_Tag>霑 曹</XML_Serializer_Tag>
+<XML_Serializer_Tag>曹霑</XML_Serializer_Tag>
+<XML_Serializer_Tag>雪芹 曹</XML_Serializer_Tag>
+<XML_Serializer_Tag>雪芹 曹</XML_Serializer_Tag>
+<XML_Serializer_Tag>曹雪芹</XML_Serializer_Tag>
+</variantName>
+<thumbnail>https://commons.wikimedia.org/wiki/Special:FilePath/Statue_of_Cao_Xueqin.JPG?width=270</thumbnail>
+<birthEN>1719</birthEN>
+<birthDE>1719</birthDE>
+<deathEN>1763</deathEN>
+<deathDE>1763</deathDE>
+<birthPlace />
+<deathPlace />
+<professionOrOccupation>
+<XML_Serializer_Tag>Schriftsteller</XML_Serializer_Tag>
+</professionOrOccupation>
+<dbpResource>http://dbpedia.org/resource/Cao_Xueqin</dbpResource>
+<abstract>Cáo Xuěqín (chin. 曹雪芹, * zwischen 1715 und 1724 ; † 1763(?)) war ein chinesischer Schriftsteller und Autor des chinesischen Romans Der Traum der roten Kammer.</abstract>
+<wikilink>http://en.wikipedia.org/wiki/Cao_Xueqin?oldid=602880038</wikilink>
+<artworks />
+<buildings />
+<books>
+<XML_Serializer_Tag>
+<book>
+<type>uri</type>
+<value>http://dbpedia.org/resource/Dream_of_the_Red_Chamber</value>
+</book>
+<author>
+<type>uri</type>
+<value>http://dbpedia.org/resource/Cao_Xueqin</value>
+</author>
+<thumbnail>
+<type>uri</type>
+<value>http://commons.wikimedia.org/wiki/Special:FilePath/Hongloumeng2.jpg?width=300</value>
+</thumbnail>
+<released>
+<type>typed-literal</type>
+<datatype>http://www.w3.org/2001/XMLSchema#integer</datatype>
+<value>18</value>
+</released>
+<wikilink>
+<type>uri</type>
+<value>http://en.wikipedia.org/wiki/Dream_of_the_Red_Chamber?oldid=606170930</value>
+</wikilink>
+<abstract>
+<type>literal</type>
+<xml:lang>de</xml:lang>
+<value>Der Traum der Roten Kammer (chinesisch 紅樓夢 / 红楼梦, Pinyin Hóng Lóu Mèng, wörtl. &apos;Der Traum im/vom roten Anwesen/Gemach&apos;) ist einer der berühmtesten klassischen Romane der chinesischen Literatur aus dem Kaiserreich China. Er gehört zu den vier klassischen Romanen Chinas. Vor allem in Manuskript-Abschriften des 18. Jahrhunderts wird er auch „Die Geschichte des Steins/vom Stein“/„Aufzeichnungen auf einem Stein“ (chinesisch 石頭記 / 石头记, Pinyin Shítóu Jì) genannt.Der Autor Cáo Xuěqín (曹雪芹) (geboren zwischen 1715 und 1724, gestorben 1763 oder 1764) verarbeitete im Roman sein eigenes Leben, es ist sein einziges überliefertes Werk. Der vollständige Roman in der Fassung des Autors letzter Hand, ca. 1759 vollendet, kursierte nur in Manuskriptform, die letzten 40 der 120 Kapitel galten mehrere Jahrzehnte als verschollen. Erst 1791 erschien eine von Gāo È (高鶚 / 高鹗, Kao O) redigierte Fassung im Druck. Er behauptete, die Original-Kapitel wieder zusammengetragen und nur wenig selbst geglättet zu haben. Einige Sinologen und sogenannte &apos;Rot-Forscher&apos; vermuten, dass sein Anteil größer war. 1792 gab Gao E eine 2. überarbeitete Auflage heraus.Der Roman ist mit über 350 Figuren eine filigran verästelte Geschichte vom Aufstieg und Verfall einer chinesischen Aristokratenfamilie, in deren Zentrum die Geschichte des verwöhnten und weltentrückten Adelssohnes Jiǎ Bǎoyù (賈寶玉 / 贾宝玉) steht, der ein nach außen hin sorgenfreies dekadentes Leben führt, auch wenn er gelegentlich deprimiert ist, und der letztendlich der Welt entsagt und Mönch wird. Die Haupthandlung gruppiert sich um den Protagonisten und seine zwei Kusinen Lín Dàiyù (林黛玉 ‚Blaujuwel‘) und Xuē Bǎochāi (薛寶釵 / 薛宝钗).Einige Sinologen vermuten, dass Gāo È das Ende etwas angepasst habe, um der Zensur des Kaisers zu entgehen, damit sei ein Teil des sozialkritischen Hintergrundes verlorengegangen. In den überlieferten Original-Handschriften lassen sich aber bereits Eingriffe erkennen, weil schon Cao Xueqin tatsächlich existierende Personen schützen wollte.Als Standardausgabe gilt die heute erhältliche, in überarbeiteter 2. Auflage 1996 im Pekinger Volksliteraturverlag erschienene, maßgeblich von Feng Qiyong und dem Traum-der-Roten-Kammer-Forschungsinstitut erarbeitete Edition der 120 Kapitel (1. Auflage 1982, ISBN 7-02-000220-X, ixx/1606 S.).</value>
+</abstract>
+</XML_Serializer_Tag>
+</books>
+</Person>

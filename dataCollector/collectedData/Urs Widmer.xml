@@ -1,0 +1,38 @@
+<Person>
+<name>Urs Widmer</name>
+<variantName>
+<XML_Serializer_Tag>Urs Vidmer</XML_Serializer_Tag>
+<XML_Serializer_Tag>Ûrs Wîdmer</XML_Serializer_Tag>
+<XML_Serializer_Tag>U. Widmer</XML_Serializer_Tag>
+<XML_Serializer_Tag>Wu-Weidemo&apos;er</XML_Serializer_Tag>
+<XML_Serializer_Tag>Urs Vidmeri</XML_Serializer_Tag>
+<XML_Serializer_Tag>우어스 비드머</XML_Serializer_Tag>
+<XML_Serializer_Tag>אורס וידמר</XML_Serializer_Tag>
+<XML_Serializer_Tag>Урс Видмер</XML_Serializer_Tag>
+</variantName>
+<thumbnail>https://commons.wikimedia.org/wiki/Special:FilePath/Urs-widmer-2012-ffm-066.jpg?width=270</thumbnail>
+<birthEN>May 21, 1938</birthEN>
+<birthDE>21. Mai 1938</birthDE>
+<deathEN>April 2, 2014</deathEN>
+<deathDE>2. April 2014</deathDE>
+<birthPlace>
+<XML_Serializer_Tag>Basel</XML_Serializer_Tag>
+</birthPlace>
+<deathPlace>
+<XML_Serializer_Tag>Zürich</XML_Serializer_Tag>
+</deathPlace>
+<professionOrOccupation>
+<XML_Serializer_Tag>Schriftsteller</XML_Serializer_Tag>
+<XML_Serializer_Tag>Literaturkritiker</XML_Serializer_Tag>
+<XML_Serializer_Tag>Dramatiker</XML_Serializer_Tag>
+<XML_Serializer_Tag>Regisseur</XML_Serializer_Tag>
+<XML_Serializer_Tag>Literaturdozent</XML_Serializer_Tag>
+<XML_Serializer_Tag>Lektor (Verlag)</XML_Serializer_Tag>
+</professionOrOccupation>
+<dbpResource>http://dbpedia.org/resource/Urs_Widmer</dbpResource>
+<abstract>Urs Widmer (* 21. Mai 1938 in Basel; † 2. April 2014 in Zürich) war ein Schweizer Schriftsteller und Übersetzer.</abstract>
+<wikilink>http://en.wikipedia.org/wiki/Urs_Widmer?oldid=605657537</wikilink>
+<artworks />
+<buildings />
+<books />
+</Person>

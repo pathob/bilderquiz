@@ -1,0 +1,128 @@
+<Person>
+<name>Jiddu Krishnamurti</name>
+<variantName>
+<XML_Serializer_Tag>Alcyone</XML_Serializer_Tag>
+<XML_Serializer_Tag>Alcione</XML_Serializer_Tag>
+<XML_Serializer_Tag>J. Krishnamurti</XML_Serializer_Tag>
+<XML_Serializer_Tag>J. Krishnamurtis</XML_Serializer_Tag>
+<XML_Serializer_Tag>Jiddu Kṛṣṇamūrti</XML_Serializer_Tag>
+<XML_Serializer_Tag>K. G. Krishna Murthy</XML_Serializer_Tag>
+<XML_Serializer_Tag>K. G. Krishnamurthy</XML_Serializer_Tag>
+<XML_Serializer_Tag>Krishnamurti</XML_Serializer_Tag>
+<XML_Serializer_Tag>Krišnamurti</XML_Serializer_Tag>
+<XML_Serializer_Tag>J. Kirusṇạmūrtti</XML_Serializer_Tag>
+<XML_Serializer_Tag>Jiddu Krishnamurti</XML_Serializer_Tag>
+<XML_Serializer_Tag>Jē. Kirusṇạmūrtti</XML_Serializer_Tag>
+<XML_Serializer_Tag>지두 크리슈나무르티</XML_Serializer_Tag>
+</variantName>
+<thumbnail>https://commons.wikimedia.org/wiki/Special:FilePath/Jiddu_Krishnamurti_01.jpg?width=270</thumbnail>
+<birthEN>1895</birthEN>
+<birthDE>1895</birthDE>
+<deathEN>1986</deathEN>
+<deathDE>1986</deathDE>
+<birthPlace />
+<deathPlace />
+<professionOrOccupation>
+<XML_Serializer_Tag>Philosoph</XML_Serializer_Tag>
+</professionOrOccupation>
+<dbpResource>http://dbpedia.org/resource/Jiddu_Krishnamurti</dbpResource>
+<abstract>Jiddu Krishnamurti (* 12. Mai 1895 in Madanapalle, Indien ; † 17. Februar 1986 Ojai, Kalifornien) war ein indischer Philosoph, Autor, Theosoph und spiritueller Lehrer.In seinen wichtigsten Veröffentlichungen thematisiert Krishnamurti spirituelle Fragen wie die Erlangung vollständiger geistiger Freiheit durch Meditation, aber auch religiöse und philosophische Themen. Besondere Bekanntheit erlangte er durch führende Persönlichkeiten der Theosophischen Gesellschaft, speziell durch Annie Besant, die ihn 1910 zum kommenden „Weltlehrer“ erklärte und für ihn den theosophischen „Order of the Star in the East“ gründete. Ende der 1920er Jahre begann er, sich von der theosophischen Strömung loszusagen.</abstract>
+<wikilink>http://en.wikipedia.org/wiki/Jiddu_Krishnamurti?oldid=606476524</wikilink>
+<artworks />
+<buildings />
+<books>
+<XML_Serializer_Tag>
+<book>
+<type>uri</type>
+<value>http://dbpedia.org/resource/At_the_Feet_of_the_Master</value>
+</book>
+<author>
+<type>uri</type>
+<value>http://dbpedia.org/resource/Jiddu_Krishnamurti</value>
+</author>
+<thumbnail>
+<type>uri</type>
+<value>http://commons.wikimedia.org/wiki/Special:FilePath/At_the_feet_of_the_master_pg_2.jpg?width=300</value>
+</thumbnail>
+<wikilink>
+<type>uri</type>
+<value>http://en.wikipedia.org/wiki/At_the_Feet_of_the_Master?oldid=600589737</value>
+</wikilink>
+</XML_Serializer_Tag>
+<XML_Serializer_Tag>
+<book>
+<type>uri</type>
+<value>http://dbpedia.org/resource/Freedom_from_the_Known</value>
+</book>
+<author>
+<type>uri</type>
+<value>http://dbpedia.org/resource/Jiddu_Krishnamurti</value>
+</author>
+<published>
+<type>typed-literal</type>
+<datatype>http://www.w3.org/2001/XMLSchema#integer</datatype>
+<value>1969</value>
+</published>
+<wikilink>
+<type>uri</type>
+<value>http://en.wikipedia.org/wiki/Freedom_from_the_Known?oldid=591459068</value>
+</wikilink>
+</XML_Serializer_Tag>
+<XML_Serializer_Tag>
+<book>
+<type>uri</type>
+<value>http://dbpedia.org/resource/Krishnamurti_to_Himself</value>
+</book>
+<author>
+<type>uri</type>
+<value>http://dbpedia.org/resource/Jiddu_Krishnamurti</value>
+</author>
+<wikilink>
+<type>uri</type>
+<value>http://en.wikipedia.org/wiki/Krishnamurti_to_Himself?oldid=604416205</value>
+</wikilink>
+</XML_Serializer_Tag>
+<XML_Serializer_Tag>
+<book>
+<type>uri</type>
+<value>http://dbpedia.org/resource/Krishnamurti&apos;s_Journal</value>
+</book>
+<author>
+<type>uri</type>
+<value>http://dbpedia.org/resource/Jiddu_Krishnamurti</value>
+</author>
+<wikilink>
+<type>uri</type>
+<value>http://en.wikipedia.org/wiki/Krishnamurti&apos;s_Journal?oldid=603946763</value>
+</wikilink>
+</XML_Serializer_Tag>
+<XML_Serializer_Tag>
+<book>
+<type>uri</type>
+<value>http://dbpedia.org/resource/Krishnamurti&apos;s_Notebook</value>
+</book>
+<author>
+<type>uri</type>
+<value>http://dbpedia.org/resource/Jiddu_Krishnamurti</value>
+</author>
+<wikilink>
+<type>uri</type>
+<value>http://en.wikipedia.org/wiki/Krishnamurti&apos;s_Notebook?oldid=596252763</value>
+</wikilink>
+</XML_Serializer_Tag>
+<XML_Serializer_Tag>
+<book>
+<type>uri</type>
+<value>http://dbpedia.org/resource/The_First_and_Last_Freedom</value>
+</book>
+<author>
+<type>uri</type>
+<value>http://dbpedia.org/resource/Jiddu_Krishnamurti</value>
+</author>
+<wikilink>
+<type>uri</type>
+<value>http://en.wikipedia.org/wiki/The_First_and_Last_Freedom?oldid=606476928</value>
+</wikilink>
+</XML_Serializer_Tag>
+</books>
+</Person>

@@ -1,0 +1,29 @@
+<Person>
+<name>Emil Frommel</name>
+<variantName>
+<XML_Serializer_Tag>Emil Wilhelm Frommel</XML_Serializer_Tag>
+</variantName>
+<thumbnail>https://commons.wikimedia.org/wiki/Special:FilePath/Emil_Frommel.jpg?width=270</thumbnail>
+<birthEN>January 5, 1828</birthEN>
+<birthDE>5. Januar 1828</birthDE>
+<deathEN>November 9, 1896</deathEN>
+<deathDE>9. November 1896</deathDE>
+<birthPlace>
+<XML_Serializer_Tag>Karlsruhe</XML_Serializer_Tag>
+</birthPlace>
+<deathPlace>
+<XML_Serializer_Tag>Plön</XML_Serializer_Tag>
+</deathPlace>
+<professionOrOccupation>
+<XML_Serializer_Tag>Theologe</XML_Serializer_Tag>
+<XML_Serializer_Tag>Schriftsteller</XML_Serializer_Tag>
+<XML_Serializer_Tag>Konsistorialrat</XML_Serializer_Tag>
+<XML_Serializer_Tag>Hofprediger</XML_Serializer_Tag>
+</professionOrOccupation>
+<dbpResource>http://dbpedia.org/resource/Emil_Frommel</dbpResource>
+<abstract>Emil Wilhelm Frommel (* 5. Januar 1828 in Karlsruhe; † 9. November 1896 in Plön) war ein deutscher evangelischer Theologe und Volksschriftsteller.</abstract>
+<wikilink>http://en.wikipedia.org/wiki/Emil_Frommel?oldid=590266376</wikilink>
+<artworks />
+<buildings />
+<books />
+</Person>

@@ -33,8 +33,10 @@
 <XML_Serializer_Tag>Schriftsteller</XML_Serializer_Tag>
 <XML_Serializer_Tag>Schauspieler</XML_Serializer_Tag>
 </professionOrOccupation>
-<artworks />
 <dbpResource>http://dbpedia.org/resource/Joachim_Ringelnatz</dbpResource>
 <abstract>Joachim Ringelnatz (* 7. August 1883 in Wurzen; † 17. November 1934 in Berlin; eigentlich Hans Gustav Bötticher) war ein deutscher Schriftsteller, Kabarettist und Maler, der vor allem für humoristische Gedichte um die Kunstfigur Kuttel Daddeldu bekannt ist.</abstract>
 <wikilink>http://en.wikipedia.org/wiki/Joachim_Ringelnatz?oldid=580810165</wikilink>
+<artworks />
+<buildings />
+<books />
 </Person>

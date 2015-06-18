@@ -1,0 +1,24 @@
+<Person>
+<name>Willy Puchner</name>
+<variantName />
+<thumbnail>https://commons.wikimedia.org/wiki/Special:FilePath/Willy_Puchner.jpg?width=270</thumbnail>
+<birthEN>1952</birthEN>
+<birthDE>1952</birthDE>
+<deathEN />
+<deathDE />
+<birthPlace>
+<XML_Serializer_Tag>Mistelbach an der Zaya</XML_Serializer_Tag>
+</birthPlace>
+<deathPlace />
+<professionOrOccupation>
+<XML_Serializer_Tag>Photograph</XML_Serializer_Tag>
+<XML_Serializer_Tag>Künstler</XML_Serializer_Tag>
+<XML_Serializer_Tag>Schriftsteller</XML_Serializer_Tag>
+</professionOrOccupation>
+<dbpResource>http://dbpedia.org/resource/Willy_Puchner</dbpResource>
+<abstract>Willy Puchner (* 15. März 1952 in Mistelbach, Niederösterreich) ist ein österreichischer Fotograf, Künstler, Zeichner und Autor.</abstract>
+<wikilink>http://en.wikipedia.org/wiki/Willy_Puchner?oldid=593133739</wikilink>
+<artworks />
+<buildings />
+<books />
+</Person>

@@ -1,0 +1,32 @@
+<Person>
+<name>Johann Jakob Engel</name>
+<variantName>
+<XML_Serializer_Tag>Johann J. Engel</XML_Serializer_Tag>
+<XML_Serializer_Tag>... Engel</XML_Serializer_Tag>
+<XML_Serializer_Tag>Johann Jacob Engel</XML_Serializer_Tag>
+<XML_Serializer_Tag>J. J. Engel</XML_Serializer_Tag>
+<XML_Serializer_Tag>Johan Jakob Engel</XML_Serializer_Tag>
+<XML_Serializer_Tag>G. G. Engel</XML_Serializer_Tag>
+</variantName>
+<thumbnail>https://commons.wikimedia.org/wiki/Special:FilePath/Johann_Jacob_Engel.jpg?width=270</thumbnail>
+<birthEN>September 11, 1741</birthEN>
+<birthDE>11. September 1741</birthDE>
+<deathEN>June 28, 1802</deathEN>
+<deathDE>28. Juni 1802</deathDE>
+<birthPlace>
+<XML_Serializer_Tag>Parchim</XML_Serializer_Tag>
+</birthPlace>
+<deathPlace />
+<professionOrOccupation>
+<XML_Serializer_Tag>Schriftsteller</XML_Serializer_Tag>
+<XML_Serializer_Tag>Philosoph</XML_Serializer_Tag>
+<XML_Serializer_Tag>Ästhetiker</XML_Serializer_Tag>
+<XML_Serializer_Tag>Dramatiker</XML_Serializer_Tag>
+</professionOrOccupation>
+<dbpResource>http://dbpedia.org/resource/Johann_Jakob_Engel</dbpResource>
+<abstract>Johann Jacob Engel (* 11. September 1741 in Parchim; † 28. Juni 1802 ebenda) war ein deutscher Schriftsteller und Philosoph im Zeitalter der Aufklärung.</abstract>
+<wikilink>http://en.wikipedia.org/wiki/Johann_Jakob_Engel?oldid=603511183</wikilink>
+<artworks />
+<buildings />
+<books />
+</Person>

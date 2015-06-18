@@ -17,12 +17,15 @@
 <XML_Serializer_Tag>Maler</XML_Serializer_Tag>
 <XML_Serializer_Tag>Lithograph</XML_Serializer_Tag>
 </professionOrOccupation>
+<dbpResource>http://dbpedia.org/resource/Franz_Xaver_Winterhalter</dbpResource>
+<abstract>Franz Xaver Winterhalter (* 20. April 1805 in Menzenschwand im Schwarzwald; † 8. Juli 1873 in Frankfurt am Main) war ein deutscher Porträtmaler und Lithograf.</abstract>
+<wikilink>http://en.wikipedia.org/wiki/Franz_Xaver_Winterhalter?oldid=589111271</wikilink>
 <artworks>
 <XML_Serializer_Tag>
-<painting>
+<artwork>
 <type>uri</type>
 <value>http://dbpedia.org/resource/Florinda_(painting)</value>
-</painting>
+</artwork>
 <thumbnail>
 <type>uri</type>
 <value>http://commons.wikimedia.org/wiki/Special:FilePath/Franz_Xaver_Winterhalter_Florinda.jpg?width=300</value>
@@ -41,9 +44,13 @@
 <type>uri</type>
 <value>http://en.wikipedia.org/wiki/Florinda_(painting)?oldid=586449624</value>
 </wikilink>
+<type>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>Oil on canvas</value>
+</type>
 </XML_Serializer_Tag>
 </artworks>
-<dbpResource>http://dbpedia.org/resource/Franz_Xaver_Winterhalter</dbpResource>
-<abstract>Franz Xaver Winterhalter (* 20. April 1805 in Menzenschwand im Schwarzwald; † 8. Juli 1873 in Frankfurt am Main) war ein deutscher Porträtmaler und Lithograf.</abstract>
-<wikilink>http://en.wikipedia.org/wiki/Franz_Xaver_Winterhalter?oldid=589111271</wikilink>
+<buildings />
+<books />
 </Person>

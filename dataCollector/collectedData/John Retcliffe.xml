@@ -1,0 +1,53 @@
+<Person>
+<name>John Retcliffe</name>
+<variantName>
+<XML_Serializer_Tag>, Sir</XML_Serializer_Tag>
+<XML_Serializer_Tag>S. J. R.</XML_Serializer_Tag>
+<XML_Serializer_Tag>Retcliffe</XML_Serializer_Tag>
+<XML_Serializer_Tag>Džon Retklif</XML_Serializer_Tag>
+</variantName>
+<thumbnail>https://commons.wikimedia.org/wiki/Special:FilePath/Sir_John_Retcliffe.jpg?width=270</thumbnail>
+<birthEN>February 12, 1816</birthEN>
+<birthDE>12. Februar 1816</birthDE>
+<deathEN>November 8, 1878</deathEN>
+<deathDE>8. November 1878</deathDE>
+<birthPlace>
+<XML_Serializer_Tag>Żmigród</XML_Serializer_Tag>
+</birthPlace>
+<deathPlace>
+<XML_Serializer_Tag>Warmbrunn</XML_Serializer_Tag>
+</deathPlace>
+<professionOrOccupation>
+<XML_Serializer_Tag>Schriftsteller</XML_Serializer_Tag>
+</professionOrOccupation>
+<dbpResource>http://dbpedia.org/resource/Sir_John_Retcliffe</dbpResource>
+<abstract>Sir John Retcliffe, eigentlich Hermann Ottomar Friedrich Goedsche (* 12. Februar 1815 in Trachenberg, Schlesien; † 8. November 1878 in Warmbrunn), war ein deutscher Schriftsteller. Er benutzte auch das Pseudonym Theodor Armin.</abstract>
+<wikilink>http://en.wikipedia.org/wiki/Sir_John_Retcliffe?oldid=606608328</wikilink>
+<artworks />
+<buildings />
+<books>
+<XML_Serializer_Tag>
+<book>
+<type>uri</type>
+<value>http://dbpedia.org/resource/The_Protocols_of_the_Elders_of_Zion</value>
+</book>
+<author>
+<type>uri</type>
+<value>http://dbpedia.org/resource/Sir_John_Retcliffe</value>
+</author>
+<thumbnail>
+<type>uri</type>
+<value>http://commons.wikimedia.org/wiki/Special:FilePath/1905_2fnl_Velikoe_v_malom_i_antikhrist.jpg?width=300</value>
+</thumbnail>
+<wikilink>
+<type>uri</type>
+<value>http://en.wikipedia.org/wiki/The_Protocols_of_the_Elders_of_Zion?oldid=593167586</value>
+</wikilink>
+<abstract>
+<type>literal</type>
+<xml:lang>de</xml:lang>
+<value>Die Protokolle der Weisen von Zion sind ein auf Fälschungen beruhendes antisemitisches Pamphlet. Es wurde zu Beginn des 20. Jahrhunderts von unbekannten Redakteuren auf der Grundlage mehrerer fiktionaler Texte erstellt und gilt als einflussreiche Programmschrift antisemitischen Verschwörungsdenkens. Die Protokolle geben vor, geheime Dokumente eines Treffens von jüdischen Weltverschwörern zu sein.Eine erste Version erschien 1903 im Russischen Kaiserreich. Nach dem Ersten Weltkrieg wurde der Text zunehmend international verbreitet, obwohl die Protokolle bereits 1921 in der Londoner Times als Fälschung entlarvt worden waren. Bekannt wurden insbesondere die Ausgabe aus den 1920er Jahren von Henry Ford in den Vereinigten Staaten und die deutschen Ausgaben von Gottfried zur Beek und Theodor Fritsch. Trotz der Aufdeckung als Fälschung unter anderem im Berner Prozess glauben noch heute Antisemiten und Anhänger von Verschwörungstheorien in der ganzen Welt, besonders in islamischen Ländern und in Russland, an die Authentizität oder Wahrheit der Protokolle. Nach wie vor sind sie in vielen Ländern im Druck und in elektronischer Form auch im Internet zugänglich.</value>
+</abstract>
+</XML_Serializer_Tag>
+</books>
+</Person>

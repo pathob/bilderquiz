@@ -23,12 +23,15 @@
 <XML_Serializer_Tag>Graphiker</XML_Serializer_Tag>
 <XML_Serializer_Tag>Maler</XML_Serializer_Tag>
 </professionOrOccupation>
+<dbpResource>http://dbpedia.org/resource/Paul_Klee</dbpResource>
+<abstract>Ernst Paul Klee (* 18. Dezember 1879 in Münchenbuchsee, Kanton Bern; † 29. Juni 1940 in Muralto, Kanton Tessin) war ein deutscher Maler und Grafiker, dessen vielseitiges Werk dem Expressionismus, Konstruktivismus, Kubismus, Primitivismus und dem Surrealismus zugeordnet wird. Klee stand in engem Kontakt zur Redaktionsgemeinschaft Der Blaue Reiter und zeigte auf ihrer zweiten Ausstellung 1912 grafische Arbeiten. Dem bis zu dieser Zeit hauptsächlich als Grafiker tätigen Künstler verhalf eine 1914 gemeinsam mit August Macke und Louis Moilliet durchgeführte Reise nach Tunis zu seinem Durchbruch als Maler.Wie sein Freund, der russische Maler Wassily Kandinsky, lehrte Klee ab 1920 am Bauhaus in Weimar und später in Dessau. Ab 1931 war er Professor an der Kunstakademie Düsseldorf. Nach der Machtergreifung durch die Nationalsozialisten wurde er entlassen und ging ins Exil nach Bern, wo während der letzten Jahre ab dem Jahr 1934 trotz wachsender Belastung durch eine schwere Krankheit ein umfangreiches Spätwerk entstand. Neben seinem künstlerischen Werk verfasste er kunsttheoretische Schriften wie beispielsweise Schöpferische Konfession (1920) und Pädagogisches Skizzenbuch (1925). Paul Klee gehört zu den bedeutendsten bildenden Künstlern der Klassischen Moderne des 20. Jahrhunderts.</abstract>
+<wikilink>http://en.wikipedia.org/wiki/Paul_Klee?oldid=605439286</wikilink>
 <artworks>
 <XML_Serializer_Tag>
-<painting>
+<artwork>
 <type>uri</type>
 <value>http://dbpedia.org/resource/Twittering_Machine</value>
-</painting>
+</artwork>
 <thumbnail>
 <type>uri</type>
 <value>http://en.wikipedia.org/wiki/Special:FilePath/Die_Zwitscher-Maschine_(Twittering_Machine).jpg?width=300</value>
@@ -47,12 +50,17 @@
 <type>uri</type>
 <value>http://en.wikipedia.org/wiki/Twittering_Machine?oldid=590281272</value>
 </wikilink>
+<type>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>Watercolor and ink; oil transfer on paper with gouache and ink on border</value>
+</type>
 </XML_Serializer_Tag>
 <XML_Serializer_Tag>
-<painting>
+<artwork>
 <type>uri</type>
 <value>http://dbpedia.org/resource/Ab_ovo_(painting)</value>
-</painting>
+</artwork>
 <thumbnail>
 <type>uri</type>
 <value>http://commons.wikimedia.org/wiki/Special:FilePath/Paul_Klee_-_Ab_ovo.jpg?width=300</value>
@@ -71,9 +79,13 @@
 <type>uri</type>
 <value>http://en.wikipedia.org/wiki/Ab_ovo_(painting)?oldid=606246052</value>
 </wikilink>
+<type>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>watercolor on gauze and paper with a chalk ground</value>
+</type>
 </XML_Serializer_Tag>
 </artworks>
-<dbpResource>http://dbpedia.org/resource/Paul_Klee</dbpResource>
-<abstract>Ernst Paul Klee (* 18. Dezember 1879 in Münchenbuchsee, Kanton Bern; † 29. Juni 1940 in Muralto, Kanton Tessin) war ein deutscher Maler und Grafiker, dessen vielseitiges Werk dem Expressionismus, Konstruktivismus, Kubismus, Primitivismus und dem Surrealismus zugeordnet wird. Klee stand in engem Kontakt zur Redaktionsgemeinschaft Der Blaue Reiter und zeigte auf ihrer zweiten Ausstellung 1912 grafische Arbeiten. Dem bis zu dieser Zeit hauptsächlich als Grafiker tätigen Künstler verhalf eine 1914 gemeinsam mit August Macke und Louis Moilliet durchgeführte Reise nach Tunis zu seinem Durchbruch als Maler.Wie sein Freund, der russische Maler Wassily Kandinsky, lehrte Klee ab 1920 am Bauhaus in Weimar und später in Dessau. Ab 1931 war er Professor an der Kunstakademie Düsseldorf. Nach der Machtergreifung durch die Nationalsozialisten wurde er entlassen und ging ins Exil nach Bern, wo während der letzten Jahre ab dem Jahr 1934 trotz wachsender Belastung durch eine schwere Krankheit ein umfangreiches Spätwerk entstand. Neben seinem künstlerischen Werk verfasste er kunsttheoretische Schriften wie beispielsweise Schöpferische Konfession (1920) und Pädagogisches Skizzenbuch (1925). Paul Klee gehört zu den bedeutendsten bildenden Künstlern der Klassischen Moderne des 20. Jahrhunderts.</abstract>
-<wikilink>http://en.wikipedia.org/wiki/Paul_Klee?oldid=605439286</wikilink>
+<buildings />
+<books />
 </Person>

@@ -14,8 +14,10 @@
 <XML_Serializer_Tag>Künstler</XML_Serializer_Tag>
 <XML_Serializer_Tag>Maler</XML_Serializer_Tag>
 </professionOrOccupation>
-<artworks />
 <dbpResource>http://dbpedia.org/resource/Nicolas_Guibal</dbpResource>
 <abstract>Nicolas Guibal (* 29. November 1725 in Lunéville; † 3. November 1784 in Stuttgart) war württembergischer Hofmaler französischer Herkunft. Seine noch erhaltenen Hauptwerke sind die Deckengemälde im Schloss Solitude, in der Hohen Karlsschule und im Seeschloss Monrepos.</abstract>
 <wikilink>http://en.wikipedia.org/wiki/Nicolas_Guibal?oldid=546278605</wikilink>
+<artworks />
+<buildings />
+<books />
 </Person>

@@ -1,0 +1,27 @@
+<Person>
+<name>Max Laeuger</name>
+<variantName>
+<XML_Serializer_Tag>Maximilian Joseph Laeuger</XML_Serializer_Tag>
+</variantName>
+<thumbnail>https://commons.wikimedia.org/wiki/Special:FilePath/Wasserkunstanlage_Paradies_(1).jpg?width=270</thumbnail>
+<birthEN>September 30, 1864</birthEN>
+<birthDE>30. September 1864</birthDE>
+<deathEN>December 12, 1952</deathEN>
+<deathDE>12. Dezember 1952</deathDE>
+<birthPlace>
+<XML_Serializer_Tag>Lörrach/Baden</XML_Serializer_Tag>
+</birthPlace>
+<deathPlace>
+<XML_Serializer_Tag>Lörrach/Baden</XML_Serializer_Tag>
+</deathPlace>
+<professionOrOccupation>
+<XML_Serializer_Tag>Architekt</XML_Serializer_Tag>
+<XML_Serializer_Tag>Keramiker</XML_Serializer_Tag>
+</professionOrOccupation>
+<dbpResource>http://dbpedia.org/resource/Max_Laeuger</dbpResource>
+<abstract>Max Laeuger (* 30. September 1864 in Lörrach; † 12. Dezember 1952 ebenda) war ein deutscher Bildhauer und Architekt.</abstract>
+<wikilink>http://en.wikipedia.org/wiki/Max_Laeuger?oldid=542889767</wikilink>
+<artworks />
+<buildings />
+<books />
+</Person>

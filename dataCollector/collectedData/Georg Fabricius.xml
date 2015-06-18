@@ -1,0 +1,38 @@
+<Person>
+<name>Georg Fabricius</name>
+<variantName>
+<XML_Serializer_Tag>Georg Fabritius</XML_Serializer_Tag>
+<XML_Serializer_Tag>Georg Goldschmied</XML_Serializer_Tag>
+<XML_Serializer_Tag>Georgius Fabricius</XML_Serializer_Tag>
+<XML_Serializer_Tag>Georgius Fabritius</XML_Serializer_Tag>
+<XML_Serializer_Tag>Georgius Fabricius Chemnicensis</XML_Serializer_Tag>
+<XML_Serializer_Tag>Georgium Fabricium</XML_Serializer_Tag>
+<XML_Serializer_Tag>G.F.</XML_Serializer_Tag>
+<XML_Serializer_Tag>G. F.</XML_Serializer_Tag>
+<XML_Serializer_Tag>Gerardus Faustus Confluentinus</XML_Serializer_Tag>
+<XML_Serializer_Tag>Gerardus Faustus</XML_Serializer_Tag>
+<XML_Serializer_Tag>Gerhardus Faustus</XML_Serializer_Tag>
+</variantName>
+<thumbnail>https://de.wikipedia.org/wiki/Special:FilePath/RTEmagicC_georgus_fabricius.jpg.jpg?width=270</thumbnail>
+<birthEN>1516</birthEN>
+<birthDE>1516</birthDE>
+<deathEN>1571</deathEN>
+<deathDE>1571</deathDE>
+<birthPlace>
+<XML_Serializer_Tag>Chemnitz</XML_Serializer_Tag>
+</birthPlace>
+<deathPlace />
+<professionOrOccupation>
+<XML_Serializer_Tag>Klassischer Philologe</XML_Serializer_Tag>
+<XML_Serializer_Tag>Schriftsteller</XML_Serializer_Tag>
+<XML_Serializer_Tag>Gymnasiallehrer</XML_Serializer_Tag>
+<XML_Serializer_Tag>Rektor</XML_Serializer_Tag>
+<XML_Serializer_Tag>Historiker</XML_Serializer_Tag>
+</professionOrOccupation>
+<dbpResource>http://dbpedia.org/resource/Georg_Fabricius</dbpResource>
+<abstract>Georg Fabricius (eigentlich Goldschmidt; * 23. April 1516 in Chemnitz; † 17. Juli 1571 in Meißen) war protestantischer deutscher Dichter, Historiker, Epigraphiker und Antiquar. Er wurde in Leipzig erzogen und arbeitete bis 1538 als Lehrer in Chemnitz, Freiberg und Meißen.</abstract>
+<wikilink>http://en.wikipedia.org/wiki/Georg_Fabricius?oldid=605417335</wikilink>
+<artworks />
+<buildings />
+<books />
+</Person>

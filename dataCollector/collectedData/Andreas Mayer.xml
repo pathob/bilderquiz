@@ -1,0 +1,24 @@
+<Person>
+<name>Andreas Mayer</name>
+<variantName>
+<XML_Serializer_Tag>Andreas Mayerus</XML_Serializer_Tag>
+</variantName>
+<thumbnail>https://commons.wikimedia.org/wiki/Special:FilePath/Andreas_Mayer_1716_1782.jpg?width=270</thumbnail>
+<birthEN>June 8, 1716</birthEN>
+<birthDE>8. Juni 1716</birthDE>
+<deathEN>December 20, 1782</deathEN>
+<deathDE>20. Dezember 1782</deathDE>
+<birthPlace />
+<deathPlace />
+<professionOrOccupation>
+<XML_Serializer_Tag>Mathematiker</XML_Serializer_Tag>
+<XML_Serializer_Tag>Physiker</XML_Serializer_Tag>
+<XML_Serializer_Tag>Architekt</XML_Serializer_Tag>
+</professionOrOccupation>
+<dbpResource>http://dbpedia.org/resource/Andreas_Mayer</dbpResource>
+<abstract>Andreas Mayer (* 13. September 1972 in Burgau) ist ein deutscher Fußballspieler und gegenwärtiger Trainer.</abstract>
+<wikilink>http://en.wikipedia.org/wiki/Andreas_Mayer?oldid=606600473</wikilink>
+<artworks />
+<buildings />
+<books />
+</Person>

@@ -1,0 +1,30 @@
+<Person>
+<name>Joseph Dietzgen</name>
+<variantName>
+<XML_Serializer_Tag>Josef Dietzgen</XML_Serializer_Tag>
+<XML_Serializer_Tag>J. Dietzgen</XML_Serializer_Tag>
+<XML_Serializer_Tag>Peter Joseph Dietzgen</XML_Serializer_Tag>
+<XML_Serializer_Tag>Peter Josef Dietzgen</XML_Serializer_Tag>
+</variantName>
+<thumbnail>https://de.wikipedia.org/wiki/Special:FilePath/Josef_Dietzgen.jpg?width=270</thumbnail>
+<birthEN>1828</birthEN>
+<birthDE>1828</birthDE>
+<deathEN>1888</deathEN>
+<deathDE>1888</deathDE>
+<birthPlace>
+<XML_Serializer_Tag>Stadt Blankenberg</XML_Serializer_Tag>
+</birthPlace>
+<deathPlace>
+<XML_Serializer_Tag>Chicago, Ill.</XML_Serializer_Tag>
+</deathPlace>
+<professionOrOccupation>
+<XML_Serializer_Tag>Philosoph</XML_Serializer_Tag>
+<XML_Serializer_Tag>Sozialist</XML_Serializer_Tag>
+</professionOrOccupation>
+<dbpResource>http://dbpedia.org/resource/Joseph_Dietzgen</dbpResource>
+<abstract>Peter Josef Dietzgen, bekannt als Josef Dietzgen (* 9. Dezember 1828 in Stadt Blankenberg, heute Stadtteil von Hennef im Rhein-Sieg-Kreis; † 15. April 1888 in Chicago) war ein materialistischer Philosoph, sozialistischer Theoretiker und Journalist der deutschen Arbeiterbewegung bzw. der deutschsprachigen Arbeiterbewegung in New York und Chicago.</abstract>
+<wikilink>http://en.wikipedia.org/wiki/Joseph_Dietzgen?oldid=602935489</wikilink>
+<artworks />
+<buildings />
+<books />
+</Person>

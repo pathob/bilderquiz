@@ -1,0 +1,30 @@
+<Person>
+<name>A. R. Penck</name>
+<variantName>
+<XML_Serializer_Tag>Ralf Winkler</XML_Serializer_Tag>
+<XML_Serializer_Tag>Albrecht Ralf Penck</XML_Serializer_Tag>
+<XML_Serializer_Tag>Mike Hammer</XML_Serializer_Tag>
+<XML_Serializer_Tag>Tancred Mitchel</XML_Serializer_Tag>
+<XML_Serializer_Tag>Y</XML_Serializer_Tag>
+<XML_Serializer_Tag>Ar. Penck</XML_Serializer_Tag>
+<XML_Serializer_Tag>A. A. Penck</XML_Serializer_Tag>
+<XML_Serializer_Tag>Ralf Winckler</XML_Serializer_Tag>
+</variantName>
+<thumbnail>https://commons.wikimedia.org/wiki/Special:FilePath/PENCK.jpg?width=270</thumbnail>
+<birthEN>1939</birthEN>
+<birthDE>1939</birthDE>
+<deathEN />
+<deathDE />
+<birthPlace />
+<deathPlace />
+<professionOrOccupation>
+<XML_Serializer_Tag>Künstler</XML_Serializer_Tag>
+<XML_Serializer_Tag>Schauspieler</XML_Serializer_Tag>
+</professionOrOccupation>
+<dbpResource>http://dbpedia.org/resource/A._R._Penck</dbpResource>
+<abstract>A. R. Penck (* 5. Oktober 1939 in Dresden), eigentlich Ralf Winkler (Pseudonyme waren Mike Hammer, T.M., Mickey Spilane, a.Y. oder ganz schlicht Y), ist ein deutscher Maler, Grafiker und Bildhauer.</abstract>
+<wikilink>http://en.wikipedia.org/wiki/A._R._Penck?oldid=586995231</wikilink>
+<artworks />
+<buildings />
+<books />
+</Person>

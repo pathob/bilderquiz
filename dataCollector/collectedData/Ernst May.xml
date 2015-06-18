@@ -1,0 +1,24 @@
+<Person>
+<name>Ernst May</name>
+<variantName />
+<thumbnail>https://commons.wikimedia.org/wiki/Special:FilePath/Wrocław,_ul._Strączkowa.jpg?width=270</thumbnail>
+<birthEN>July 27, 1886</birthEN>
+<birthDE>27. Juli 1886</birthDE>
+<deathEN>September 11, 1970</deathEN>
+<deathDE>11. September 1970</deathDE>
+<birthPlace>
+<XML_Serializer_Tag>Frankfurt am Main</XML_Serializer_Tag>
+</birthPlace>
+<deathPlace>
+<XML_Serializer_Tag>Hamburg</XML_Serializer_Tag>
+</deathPlace>
+<professionOrOccupation>
+<XML_Serializer_Tag>Architekt</XML_Serializer_Tag>
+</professionOrOccupation>
+<dbpResource>http://dbpedia.org/resource/Ernst_May</dbpResource>
+<abstract>Ernst May (* 27. Juli 1886 in Frankfurt am Main; † 11. September 1970 in Hamburg) war ein deutscher Architekt und Stadtplaner. Zwischen 1925 und 1930 war er als Siedlungsdezernent der Stadt Frankfurt verantwortlich für die Planung und Realisierung des Projekts Neues Frankfurt.</abstract>
+<wikilink>http://en.wikipedia.org/wiki/Ernst_May?oldid=594321365</wikilink>
+<artworks />
+<buildings />
+<books />
+</Person>

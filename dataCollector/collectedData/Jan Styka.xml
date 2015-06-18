@@ -16,12 +16,15 @@
 <XML_Serializer_Tag>Künstler</XML_Serializer_Tag>
 <XML_Serializer_Tag>Maler</XML_Serializer_Tag>
 </professionOrOccupation>
+<dbpResource>http://dbpedia.org/resource/Jan_Styka</dbpResource>
+<abstract>Jan Styka (* 8. April 1858 in Lemberg; † 11. April 1925 in Rom) war ein polnischer Maler.</abstract>
+<wikilink>http://en.wikipedia.org/wiki/Jan_Styka?oldid=588403794</wikilink>
 <artworks>
 <XML_Serializer_Tag>
-<painting>
+<artwork>
 <type>uri</type>
 <value>http://dbpedia.org/resource/Rac%C5%82awice_Panorama</value>
-</painting>
+</artwork>
 <thumbnail>
 <type>uri</type>
 <value>http://commons.wikimedia.org/wiki/Special:FilePath/Lwow_Panorama_Raclawicka.jpg?width=300</value>
@@ -45,9 +48,12 @@
 <type>uri</type>
 <value>http://en.wikipedia.org/wiki/Racławice_Panorama?oldid=586395425</value>
 </wikilink>
+<type>
+<type>uri</type>
+<value>http://dbpedia.org/resource/Oil_painting</value>
+</type>
 </XML_Serializer_Tag>
 </artworks>
-<dbpResource>http://dbpedia.org/resource/Jan_Styka</dbpResource>
-<abstract>Jan Styka (* 8. April 1858 in Lemberg; † 11. April 1925 in Rom) war ein polnischer Maler.</abstract>
-<wikilink>http://en.wikipedia.org/wiki/Jan_Styka?oldid=588403794</wikilink>
+<buildings />
+<books />
 </Person>

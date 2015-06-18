@@ -1,0 +1,38 @@
+<Person>
+<name>Lujo Brentano</name>
+<variantName>
+<XML_Serializer_Tag>Ludwig Josef Brentano</XML_Serializer_Tag>
+<XML_Serializer_Tag>Ludwig Joseph Brentano</XML_Serializer_Tag>
+<XML_Serializer_Tag>Ludwig von Brentano</XML_Serializer_Tag>
+<XML_Serializer_Tag>Brentano</XML_Serializer_Tag>
+<XML_Serializer_Tag>Ludwig J. Brentano</XML_Serializer_Tag>
+<XML_Serializer_Tag>Ludw. Joseph Brentano</XML_Serializer_Tag>
+<XML_Serializer_Tag>L. Brentano</XML_Serializer_Tag>
+<XML_Serializer_Tag>Lujo Ludwig Joseph von Brentano</XML_Serializer_Tag>
+</variantName>
+<thumbnail>https://commons.wikimedia.org/wiki/Special:FilePath/Bundesarchiv_Bild_146-1986-107-28A,_Ludwig_Joseph_Brentano.jpg?width=270</thumbnail>
+<birthEN>December 18, 1844</birthEN>
+<birthDE>18. Dezember 1844</birthDE>
+<deathEN>September 9, 1931</deathEN>
+<deathDE>9. September 1931</deathDE>
+<birthPlace>
+<XML_Serializer_Tag>Aschaffenburg</XML_Serializer_Tag>
+</birthPlace>
+<deathPlace>
+<XML_Serializer_Tag>München</XML_Serializer_Tag>
+</deathPlace>
+<professionOrOccupation>
+<XML_Serializer_Tag>Nationalökonom</XML_Serializer_Tag>
+<XML_Serializer_Tag>Jurist</XML_Serializer_Tag>
+<XML_Serializer_Tag>Philologe</XML_Serializer_Tag>
+<XML_Serializer_Tag>Politiker</XML_Serializer_Tag>
+<XML_Serializer_Tag>Philosoph</XML_Serializer_Tag>
+<XML_Serializer_Tag>Hochschullehrer</XML_Serializer_Tag>
+</professionOrOccupation>
+<dbpResource>http://dbpedia.org/resource/Lujo_Brentano</dbpResource>
+<abstract>Lujo Brentano (Kurzform seiner Vornamen Ludwig Joseph; * 19. Dezember 1844 in Aschaffenburg; † 9. September 1931 in München) war ein deutscher Nationalökonom und Sozialreformer.</abstract>
+<wikilink>http://en.wikipedia.org/wiki/Lujo_Brentano?oldid=546194880</wikilink>
+<artworks />
+<buildings />
+<books />
+</Person>

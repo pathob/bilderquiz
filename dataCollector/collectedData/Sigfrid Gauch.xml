@@ -1,0 +1,29 @@
+<Person>
+<name>Sigfrid Gauch</name>
+<variantName>
+<XML_Serializer_Tag>Zîgfrîd Gauḵ</XML_Serializer_Tag>
+<XML_Serializer_Tag>S. Gauch</XML_Serializer_Tag>
+<XML_Serializer_Tag>S. Gau_k</XML_Serializer_Tag>
+<XML_Serializer_Tag>Z. Gau_k</XML_Serializer_Tag>
+</variantName>
+<thumbnail>https://commons.wikimedia.org/wiki/Special:FilePath/Sigfrid_Gauch.jpg?width=270</thumbnail>
+<birthEN>1945</birthEN>
+<birthDE>1945</birthDE>
+<deathEN />
+<deathDE />
+<birthPlace>
+<XML_Serializer_Tag>Offenbach am Glan</XML_Serializer_Tag>
+</birthPlace>
+<deathPlace />
+<professionOrOccupation>
+<XML_Serializer_Tag>Pädagoge</XML_Serializer_Tag>
+<XML_Serializer_Tag>Schriftsteller</XML_Serializer_Tag>
+<XML_Serializer_Tag>Herausgeber</XML_Serializer_Tag>
+</professionOrOccupation>
+<dbpResource>http://dbpedia.org/resource/Sigfrid_Gauch</dbpResource>
+<abstract>Sigfrid Gauch (* 9. März 1945 in Offenbach am Glan) ist ein deutscher Schriftsteller. Er lebt in Mainz.</abstract>
+<wikilink>http://en.wikipedia.org/wiki/Sigfrid_Gauch?oldid=579474723</wikilink>
+<artworks />
+<buildings />
+<books />
+</Person>

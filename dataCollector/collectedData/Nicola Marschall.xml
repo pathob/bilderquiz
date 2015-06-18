@@ -15,8 +15,10 @@
 <professionOrOccupation>
 <XML_Serializer_Tag>Maler</XML_Serializer_Tag>
 </professionOrOccupation>
-<artworks />
 <dbpResource>http://dbpedia.org/resource/Nicola_Marschall</dbpResource>
 <abstract>Nicola Marschall (* 16. März 1829 in St. Wendel; † 24. Februar 1917 in Louisville, Kentucky) war ein bekannter deutsch-amerikanischer Künstler.</abstract>
 <wikilink>http://en.wikipedia.org/wiki/Nicola_Marschall?oldid=544937230</wikilink>
+<artworks />
+<buildings />
+<books />
 </Person>

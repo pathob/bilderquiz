@@ -11,8 +11,10 @@
 <professionOrOccupation>
 <XML_Serializer_Tag>Maler</XML_Serializer_Tag>
 </professionOrOccupation>
-<artworks />
 <dbpResource>http://dbpedia.org/resource/Francesco_Podesti</dbpResource>
 <abstract>Francesco Podesti (* 21. März 1800 in Ancona; † 10. Februar 1895 in Rom) war ein italienischer Maler.</abstract>
 <wikilink>http://en.wikipedia.org/wiki/Francesco_Podesti?oldid=602491779</wikilink>
+<artworks />
+<buildings />
+<books />
 </Person>

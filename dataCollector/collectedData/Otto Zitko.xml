@@ -12,8 +12,10 @@
 <XML_Serializer_Tag>Künstler</XML_Serializer_Tag>
 <XML_Serializer_Tag>Maler</XML_Serializer_Tag>
 </professionOrOccupation>
-<artworks />
 <dbpResource>http://dbpedia.org/resource/Otto_Zitko</dbpResource>
 <abstract>Otto Zitko (* 14. Februar 1959 in Linz) ist ein österreichischer Künstler. Er lebt und arbeitet in Wien.</abstract>
 <wikilink>http://en.wikipedia.org/wiki/Otto_Zitko?oldid=545377050</wikilink>
+<artworks />
+<buildings />
+<books />
 </Person>

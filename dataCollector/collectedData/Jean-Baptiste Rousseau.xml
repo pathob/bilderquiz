@@ -1,0 +1,26 @@
+<Person>
+<name>Jean-Baptiste Rousseau</name>
+<variantName>
+<XML_Serializer_Tag>, I</XML_Serializer_Tag>
+<XML_Serializer_Tag>Johann Baptist Rousseau</XML_Serializer_Tag>
+<XML_Serializer_Tag>Jean Baptiste Rousseau</XML_Serializer_Tag>
+<XML_Serializer_Tag>Jean B. Rousseau</XML_Serializer_Tag>
+</variantName>
+<thumbnail>https://commons.wikimedia.org/wiki/Special:FilePath/Rousseau,_Jean-Baptiste.jpg?width=270</thumbnail>
+<birthEN>1670</birthEN>
+<birthDE>1670</birthDE>
+<deathEN>1741</deathEN>
+<deathDE>1741</deathDE>
+<birthPlace />
+<deathPlace />
+<professionOrOccupation>
+<XML_Serializer_Tag>Schriftsteller</XML_Serializer_Tag>
+<XML_Serializer_Tag>Dichter</XML_Serializer_Tag>
+</professionOrOccupation>
+<dbpResource>http://dbpedia.org/resource/Jean-Baptiste_Rousseau</dbpResource>
+<abstract>Jean-Baptiste Rousseau (* 6. April 1671 in Paris; † 16. März 1741 in La Genette bei Brüssel) war ein französischer Autor.</abstract>
+<wikilink>http://en.wikipedia.org/wiki/Jean-Baptiste_Rousseau?oldid=606141129</wikilink>
+<artworks />
+<buildings />
+<books />
+</Person>

@@ -1,0 +1,94 @@
+<Person>
+<name>Guy de Maupassant</name>
+<variantName>
+<XML_Serializer_Tag>G. de Maupassant</XML_Serializer_Tag>
+<XML_Serializer_Tag>Henry René Albert Guy de Maupassant</XML_Serializer_Tag>
+<XML_Serializer_Tag>Henri René Albert Guy de Maupassant</XML_Serializer_Tag>
+<XML_Serializer_Tag>Henry R. de Maupassant</XML_Serializer_Tag>
+<XML_Serializer_Tag>Henri R. de Maupassant</XML_Serializer_Tag>
+<XML_Serializer_Tag>Henry R. Maupassant</XML_Serializer_Tag>
+<XML_Serializer_Tag>Henri R. Maupassant</XML_Serializer_Tag>
+<XML_Serializer_Tag>Maupassant</XML_Serializer_Tag>
+<XML_Serializer_Tag>Maufrigneuse</XML_Serializer_Tag>
+<XML_Serializer_Tag>... Maupassan</XML_Serializer_Tag>
+<XML_Serializer_Tag>... Mopassan</XML_Serializer_Tag>
+<XML_Serializer_Tag>Gi de Mopassan</XML_Serializer_Tag>
+<XML_Serializer_Tag>Giui de Mopassan</XML_Serializer_Tag>
+<XML_Serializer_Tag>Gjui de Mopassan</XML_Serializer_Tag>
+<XML_Serializer_Tag>Gjui Mopassan</XML_Serializer_Tag>
+<XML_Serializer_Tag>Hi de Mopassan</XML_Serializer_Tag>
+<XML_Serializer_Tag>Gi de Mopasan</XML_Serializer_Tag>
+<XML_Serializer_Tag>Giui de Mopasan</XML_Serializer_Tag>
+<XML_Serializer_Tag>Gī de Mōpasan</XML_Serializer_Tag>
+<XML_Serializer_Tag>Gāya da Mopāsām</XML_Serializer_Tag>
+<XML_Serializer_Tag>Gī dya Mopācāṃ</XML_Serializer_Tag>
+<XML_Serializer_Tag>Gāy-da-Mōpāsā</XML_Serializer_Tag>
+<XML_Serializer_Tag>Kī dōe Mōpatsang</XML_Serializer_Tag>
+<XML_Serializer_Tag>Di. Ge. Mōppasānn</XML_Serializer_Tag>
+<XML_Serializer_Tag>Gijs de Moposans</XML_Serializer_Tag>
+<XML_Serializer_Tag>Mo-po-sang</XML_Serializer_Tag>
+<XML_Serializer_Tag>... Mobosang</XML_Serializer_Tag>
+<XML_Serializer_Tag>Guy De Maupassant</XML_Serializer_Tag>
+<XML_Serializer_Tag>Gi De Mopassan</XML_Serializer_Tag>
+<XML_Serializer_Tag>Giui De Mopassan</XML_Serializer_Tag>
+<XML_Serializer_Tag>Hi De Mopassan</XML_Serializer_Tag>
+<XML_Serializer_Tag>Gi De Mopasan</XML_Serializer_Tag>
+<XML_Serializer_Tag>Giu De Mopasan</XML_Serializer_Tag>
+<XML_Serializer_Tag>Gāy-Da-Mōpāsā</XML_Serializer_Tag>
+<XML_Serializer_Tag>Gky Nte Mōpasan</XML_Serializer_Tag>
+<XML_Serializer_Tag>Léna de Mauregard</XML_Serializer_Tag>
+<XML_Serializer_Tag>Lena de M.</XML_Serializer_Tag>
+<XML_Serializer_Tag>Léna de M.</XML_Serializer_Tag>
+<XML_Serializer_Tag>Joseph Prunier</XML_Serializer_Tag>
+</variantName>
+<thumbnail>https://commons.wikimedia.org/wiki/Special:FilePath/Maupassant_2.jpg?width=270</thumbnail>
+<birthEN>August 5, 1850</birthEN>
+<birthDE>5. August 1850</birthDE>
+<deathEN>July 6, 1893</deathEN>
+<deathDE>6. Juli 1893</deathDE>
+<birthPlace>
+<XML_Serializer_Tag>Dieppe</XML_Serializer_Tag>
+</birthPlace>
+<deathPlace>
+<XML_Serializer_Tag>Paris</XML_Serializer_Tag>
+</deathPlace>
+<professionOrOccupation>
+<XML_Serializer_Tag>Journalist</XML_Serializer_Tag>
+<XML_Serializer_Tag>Schriftsteller</XML_Serializer_Tag>
+</professionOrOccupation>
+<dbpResource>http://dbpedia.org/resource/Guy_de_Maupassant</dbpResource>
+<abstract>Henry René Albert Guy de Maupassant [gidəmopɑˈsã], (* 5. August 1850 in Tourville-sur-Arques auf Schloss Miromesnil (Normandie); † 6. Juli 1893 Passy, Paris) war ein französischer Schriftsteller und Journalist.</abstract>
+<wikilink>http://en.wikipedia.org/wiki/Guy_de_Maupassant?oldid=606267356</wikilink>
+<artworks />
+<buildings />
+<books>
+<XML_Serializer_Tag>
+<book>
+<type>uri</type>
+<value>http://dbpedia.org/resource/Bel_Ami</value>
+</book>
+<author>
+<type>uri</type>
+<value>http://dbpedia.org/resource/Guy_de_Maupassant</value>
+</author>
+<thumbnail>
+<type>uri</type>
+<value>http://commons.wikimedia.org/wiki/Special:FilePath/Bel-Ami1.jpg?width=300</value>
+</thumbnail>
+<released>
+<type>typed-literal</type>
+<datatype>http://www.w3.org/2001/XMLSchema#integer</datatype>
+<value>1885</value>
+</released>
+<wikilink>
+<type>uri</type>
+<value>http://en.wikipedia.org/wiki/Bel_Ami?oldid=603575303</value>
+</wikilink>
+<abstract>
+<type>literal</type>
+<xml:lang>de</xml:lang>
+<value>Bel-Ami ist ein Roman von Guy de Maupassant, der 1885 erschienen ist. Er beschreibt den beruflichen und gesellschaftlichen Aufstieg des ehemaligen Unteroffiziers Georges Duroy im Paris des ausgehenden 19. Jahrhunderts. Die verschiedenen deutschen Übersetzungen erschienen auch unter den Titel Der schöne Freund oder Der schöne Georg.</value>
+</abstract>
+</XML_Serializer_Tag>
+</books>
+</Person>

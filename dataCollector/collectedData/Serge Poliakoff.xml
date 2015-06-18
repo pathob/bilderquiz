@@ -19,8 +19,10 @@
 <professionOrOccupation>
 <XML_Serializer_Tag>Maler</XML_Serializer_Tag>
 </professionOrOccupation>
-<artworks />
 <dbpResource>http://dbpedia.org/resource/Serge_Poliakoff</dbpResource>
 <abstract>Serge Poliakoff (russisch Серж Поляко́в) (* 27. Dezember 1899jul./ 8. Januar 1900greg. in Moskau; † 12. Oktober 1969 in Paris) war ein russischer Maler. Er gilt als wichtiger Vertreter der École de Paris.</abstract>
 <wikilink>http://en.wikipedia.org/wiki/Serge_Poliakoff?oldid=584461706</wikilink>
+<artworks />
+<buildings />
+<books />
 </Person>

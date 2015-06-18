@@ -28,8 +28,43 @@
 <XML_Serializer_Tag>Architekt</XML_Serializer_Tag>
 <XML_Serializer_Tag>Maler</XML_Serializer_Tag>
 </professionOrOccupation>
-<artworks />
 <dbpResource>http://dbpedia.org/resource/Andrea_Pozzo</dbpResource>
 <abstract>Andrea Pozzo (auch: Puteus und Pozzi; * 30. November 1642 in Trient; † 31. August 1709 in Wien) war ein italienischer Maler und Architekt, der vor allem für seine Trompe-l’œil-Kuppelfresken bekannt ist.</abstract>
 <wikilink>http://en.wikipedia.org/wiki/Andrea_Pozzo?oldid=604494923</wikilink>
+<artworks />
+<buildings>
+<XML_Serializer_Tag>
+<building>
+<type>uri</type>
+<value>http://dbpedia.org/resource/Lichtental_Church</value>
+</building>
+<name>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>Lichtental Church</value>
+</name>
+<architect>
+<type>uri</type>
+<value>http://dbpedia.org/resource/Andrea_Pozzo</value>
+</architect>
+<thumbnail>
+<type>uri</type>
+<value>http://en.wikipedia.org/wiki/Special:FilePath/LichtentalerPfarrkirche060128.jpg?width=300</value>
+</thumbnail>
+<wikilink>
+<type>uri</type>
+<value>http://en.wikipedia.org/wiki/Lichtental_Church?oldid=550864541</value>
+</wikilink>
+<location>
+<type>uri</type>
+<value>http://dbpedia.org/resource/Lichtental</value>
+</location>
+<abstract>
+<type>literal</type>
+<xml:lang>de</xml:lang>
+<value>Die Lichtentaler Pfarrkirche zu den heiligen vierzehn Nothelfern, auch Schubertkirche genannt, ist eine römisch-katholische Pfarrkirche im Wiener Stadtteil Lichtental, Wiener Gemeindebezirk Alsergrund.</value>
+</abstract>
+</XML_Serializer_Tag>
+</buildings>
+<books />
 </Person>

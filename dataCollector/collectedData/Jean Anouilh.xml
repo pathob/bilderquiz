@@ -1,0 +1,27 @@
+<Person>
+<name>Jean Anouilh</name>
+<variantName>
+<XML_Serializer_Tag>J. Anouilh</XML_Serializer_Tag>
+</variantName>
+<thumbnail>https://en.wikipedia.org/wiki/Special:FilePath/Jean_Anouilh.jpg?width=270</thumbnail>
+<birthEN>June 23, 1910</birthEN>
+<birthDE>23. Juni 1910</birthDE>
+<deathEN>October 3, 1987</deathEN>
+<deathDE>3. Oktober 1987</deathDE>
+<birthPlace>
+<XML_Serializer_Tag>Bordeaux</XML_Serializer_Tag>
+</birthPlace>
+<deathPlace>
+<XML_Serializer_Tag>Lausanne</XML_Serializer_Tag>
+</deathPlace>
+<professionOrOccupation>
+<XML_Serializer_Tag>Dramatiker</XML_Serializer_Tag>
+<XML_Serializer_Tag>Schriftsteller</XML_Serializer_Tag>
+</professionOrOccupation>
+<dbpResource>http://dbpedia.org/resource/Jean_Anouilh</dbpResource>
+<abstract>Jean Marie Lucien Pierre Anouilh (* 23. Juni 1910 in Bordeaux; † 3. Oktober 1987 in Lausanne) war ein französischer Autor, der zwischen 1932 und ca. 1970 vor allem als Dramatiker erfolgreich war und dessen Stücke in den 1960er und 1970er Jahren auch in Deutschland häufig aufgeführt wurden.</abstract>
+<wikilink>http://en.wikipedia.org/wiki/Jean_Anouilh?oldid=604546535</wikilink>
+<artworks />
+<buildings />
+<books />
+</Person>

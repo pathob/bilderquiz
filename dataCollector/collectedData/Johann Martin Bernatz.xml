@@ -21,8 +21,10 @@
 <professionOrOccupation>
 <XML_Serializer_Tag>Maler</XML_Serializer_Tag>
 </professionOrOccupation>
-<artworks />
 <dbpResource>http://dbpedia.org/resource/Johann_Martin_Bernatz</dbpResource>
 <abstract>Johann Martin Bernatz (* 22. März 1802 in Speyer; † 19. Dezember 1878) war ein deutscher Landschaftsmaler.</abstract>
 <wikilink>http://en.wikipedia.org/wiki/Johann_Martin_Bernatz?oldid=581945211</wikilink>
+<artworks />
+<buildings />
+<books />
 </Person>

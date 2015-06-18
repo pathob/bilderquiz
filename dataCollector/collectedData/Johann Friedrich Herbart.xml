@@ -1,0 +1,65 @@
+<Person>
+<name>Johann Friedrich Herbart</name>
+<variantName>
+<XML_Serializer_Tag>Johannes Friderich Herbart</XML_Serializer_Tag>
+<XML_Serializer_Tag>... Herbart</XML_Serializer_Tag>
+<XML_Serializer_Tag>Herbart Ziller</XML_Serializer_Tag>
+<XML_Serializer_Tag>Jochan Fridrich Cherbart</XML_Serializer_Tag>
+<XML_Serializer_Tag>J. Fr. Herbart</XML_Serializer_Tag>
+<XML_Serializer_Tag>Joh. Friedr. Herbart</XML_Serializer_Tag>
+<XML_Serializer_Tag>Giovanni Federico Herbart</XML_Serializer_Tag>
+<XML_Serializer_Tag>Jan Fryderyk Herbart</XML_Serializer_Tag>
+<XML_Serializer_Tag>G. F. Herbart</XML_Serializer_Tag>
+<XML_Serializer_Tag>Joh. Fr. Herbart</XML_Serializer_Tag>
+<XML_Serializer_Tag>Johann F. Herbart</XML_Serializer_Tag>
+<XML_Serializer_Tag>Johann Friderich Herbart</XML_Serializer_Tag>
+<XML_Serializer_Tag>J. F. Herbart</XML_Serializer_Tag>
+<XML_Serializer_Tag>... Herbart-Ziller</XML_Serializer_Tag>
+<XML_Serializer_Tag>Ioannes Fridericus Herbart</XML_Serializer_Tag>
+<XML_Serializer_Tag>I. F. Herbart</XML_Serializer_Tag>
+<XML_Serializer_Tag>... Herubaruto</XML_Serializer_Tag>
+<XML_Serializer_Tag>I. Fr. Herbart</XML_Serializer_Tag>
+</variantName>
+<thumbnail>https://commons.wikimedia.org/wiki/Special:FilePath/Johann_F_Herbart.jpg?width=270</thumbnail>
+<birthEN>April 4, 1776</birthEN>
+<birthDE>4. April 1776</birthDE>
+<deathEN>August 14, 1841</deathEN>
+<deathDE>14. August 1841</deathDE>
+<birthPlace>
+<XML_Serializer_Tag>Oldenburg</XML_Serializer_Tag>
+</birthPlace>
+<deathPlace>
+<XML_Serializer_Tag>Göttingen</XML_Serializer_Tag>
+</deathPlace>
+<professionOrOccupation>
+<XML_Serializer_Tag>Philosoph</XML_Serializer_Tag>
+<XML_Serializer_Tag>Psychologe</XML_Serializer_Tag>
+<XML_Serializer_Tag>Pädagoge</XML_Serializer_Tag>
+</professionOrOccupation>
+<dbpResource>http://dbpedia.org/resource/Johann_Friedrich_Herbart</dbpResource>
+<abstract>Johann Friedrich Herbart (* 4. Mai 1776 in Oldenburg (Oldenburg); † 14. August 1841 in Göttingen) war ein deutscher Philosoph, Psychologe und Pädagoge, der über den deutschen Sprachraum hinaus als Klassiker der Pädagogik gilt. Er begründete den Herbartianismus.</abstract>
+<wikilink>http://en.wikipedia.org/wiki/Johann_Friedrich_Herbart?oldid=605923419</wikilink>
+<artworks />
+<buildings />
+<books>
+<XML_Serializer_Tag>
+<book>
+<type>uri</type>
+<value>http://dbpedia.org/resource/Science_of_Education:_Its_General_Principles_Deduced_from_its_Aim_and_the_Aesthetic_Revelation_of_the_World</value>
+</book>
+<author>
+<type>uri</type>
+<value>http://dbpedia.org/resource/Johann_Friedrich_Herbart</value>
+</author>
+<released>
+<type>typed-literal</type>
+<datatype>http://www.w3.org/2001/XMLSchema#integer</datatype>
+<value>1806</value>
+</released>
+<wikilink>
+<type>uri</type>
+<value>http://en.wikipedia.org/wiki/Science_of_Education:_Its_General_Principles_Deduced_from_its_Aim_and_the_Aesthetic_Revelation_of_the_World?oldid=606438875</value>
+</wikilink>
+</XML_Serializer_Tag>
+</books>
+</Person>

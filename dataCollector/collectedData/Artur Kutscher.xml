@@ -1,0 +1,24 @@
+<Person>
+<name>Artur Kutscher</name>
+<variantName>
+<XML_Serializer_Tag>Arthur Kutscher</XML_Serializer_Tag>
+<XML_Serializer_Tag>Artur Heinrich Theodor Christoph Kutscher</XML_Serializer_Tag>
+<XML_Serializer_Tag>A. Kutscher</XML_Serializer_Tag>
+</variantName>
+<thumbnail>https://commons.wikimedia.org/wiki/Special:FilePath/Arthur_Kutscher.jpg?width=270</thumbnail>
+<birthEN>July 17, 1878</birthEN>
+<birthDE>17. Juli 1878</birthDE>
+<deathEN>August 29, 1960</deathEN>
+<deathDE>29. August 1960</deathDE>
+<birthPlace />
+<deathPlace />
+<professionOrOccupation>
+<XML_Serializer_Tag>Schriftsteller</XML_Serializer_Tag>
+</professionOrOccupation>
+<dbpResource>http://dbpedia.org/resource/Arthur_Kutscher</dbpResource>
+<abstract>Artur Heinrich Theodor Christoph Kutscher (* 17. Juli 1878 in Hannover; † 29. August 1960 in München) war ein deutscher Literatur- und Theaterwissenschaftler.</abstract>
+<wikilink>http://en.wikipedia.org/wiki/Arthur_Kutscher?oldid=586504901</wikilink>
+<artworks />
+<buildings />
+<books />
+</Person>

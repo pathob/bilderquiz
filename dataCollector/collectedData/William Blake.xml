@@ -21,12 +21,15 @@
 <XML_Serializer_Tag>Maler</XML_Serializer_Tag>
 <XML_Serializer_Tag>Schriftsteller</XML_Serializer_Tag>
 </professionOrOccupation>
+<dbpResource>http://dbpedia.org/resource/William_Blake</dbpResource>
+<abstract>William Blake (* 28. November 1757 in London; † 12. August 1827 ebenda) war ein englischer Dichter, Naturmystiker, Maler und der Erfinder der Reliefradierung. Sowohl sein künstlerisches als auch sein literarisches Werk wurde von seinen Zeitgenossen weitgehend abgelehnt. Erst Mitte des 19. Jahrhunderts wurden seine sehr innovativen Arbeiten von den Präraffaeliten entdeckt, fanden allgemein Anerkennung und später auch in der Popkultur Verbreitung.</abstract>
+<wikilink>http://en.wikipedia.org/wiki/William_Blake?oldid=606804363</wikilink>
 <artworks>
 <XML_Serializer_Tag>
-<painting>
+<artwork>
 <type>uri</type>
 <value>http://dbpedia.org/resource/The_Night_of_Enitharmon&apos;s_Joy</value>
-</painting>
+</artwork>
 <thumbnail>
 <type>uri</type>
 <value>http://commons.wikimedia.org/wiki/Special:FilePath/William_Blake_006.jpg?width=300</value>
@@ -45,12 +48,17 @@
 <type>uri</type>
 <value>http://en.wikipedia.org/wiki/The_Night_of_Enitharmon&apos;s_Joy?oldid=600390435</value>
 </wikilink>
+<type>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>Pen and ink with watercolour on paper</value>
+</type>
 </XML_Serializer_Tag>
 <XML_Serializer_Tag>
-<painting>
+<artwork>
 <type>uri</type>
 <value>http://dbpedia.org/resource/Pity_(William_Blake)</value>
-</painting>
+</artwork>
 <thumbnail>
 <type>uri</type>
 <value>http://en.wikipedia.org/wiki/Special:FilePath/WilliamBlakePity.jpeg?width=300</value>
@@ -69,9 +77,13 @@
 <type>uri</type>
 <value>http://en.wikipedia.org/wiki/Pity_(William_Blake)?oldid=600390376</value>
 </wikilink>
+<type>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>Colour print, finished in ink and watercolour, on paper</value>
+</type>
 </XML_Serializer_Tag>
 </artworks>
-<dbpResource>http://dbpedia.org/resource/William_Blake</dbpResource>
-<abstract>William Blake (* 28. November 1757 in London; † 12. August 1827 ebenda) war ein englischer Dichter, Naturmystiker, Maler und der Erfinder der Reliefradierung. Sowohl sein künstlerisches als auch sein literarisches Werk wurde von seinen Zeitgenossen weitgehend abgelehnt. Erst Mitte des 19. Jahrhunderts wurden seine sehr innovativen Arbeiten von den Präraffaeliten entdeckt, fanden allgemein Anerkennung und später auch in der Popkultur Verbreitung.</abstract>
-<wikilink>http://en.wikipedia.org/wiki/William_Blake?oldid=606804363</wikilink>
+<buildings />
+<books />
 </Person>

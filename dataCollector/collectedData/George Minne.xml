@@ -14,8 +14,10 @@
 <XML_Serializer_Tag>Bildhauer</XML_Serializer_Tag>
 <XML_Serializer_Tag>Maler</XML_Serializer_Tag>
 </professionOrOccupation>
-<artworks />
 <dbpResource>http://dbpedia.org/resource/George_Minne</dbpResource>
 <abstract>Baron George Minne (* 30. August 1866 in Gent; † 20. Februar 1941 in Sint-Martens-Latem) war ein flämischer Kunstmaler, Zeichner und Bildhauer.</abstract>
 <wikilink>http://en.wikipedia.org/wiki/George_Minne?oldid=605120483</wikilink>
+<artworks />
+<buildings />
+<books />
 </Person>

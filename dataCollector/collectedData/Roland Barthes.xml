@@ -1,0 +1,125 @@
+<Person>
+<name>Roland Barthes</name>
+<variantName>
+<XML_Serializer_Tag>R. Barthes</XML_Serializer_Tag>
+<XML_Serializer_Tag>Rolan Bart</XML_Serializer_Tag>
+<XML_Serializer_Tag>Rūlān Bārt</XML_Serializer_Tag>
+</variantName>
+<thumbnail>https://en.wikipedia.org/wiki/Special:FilePath/RolandBarthes.jpg?width=270</thumbnail>
+<birthEN>November 12, 1915</birthEN>
+<birthDE>12. November 1915</birthDE>
+<deathEN>March 26, 1980</deathEN>
+<deathDE>26. März 1980</deathDE>
+<birthPlace>
+<XML_Serializer_Tag>Cherbourg</XML_Serializer_Tag>
+</birthPlace>
+<deathPlace>
+<XML_Serializer_Tag>Paris</XML_Serializer_Tag>
+</deathPlace>
+<professionOrOccupation>
+<XML_Serializer_Tag>Literaturkritiker</XML_Serializer_Tag>
+<XML_Serializer_Tag>Essayist</XML_Serializer_Tag>
+<XML_Serializer_Tag>Philosoph</XML_Serializer_Tag>
+</professionOrOccupation>
+<dbpResource>http://dbpedia.org/resource/Roland_Barthes</dbpResource>
+<abstract>Roland Barthes [ʁɔlɑ̃ baʁt] (* 12. November 1915 in Cherbourg; † 26. März 1980 in Paris) war ein französischer Philosoph, Schriftsteller und Literaturkritiker des 20. Jahrhunderts.Er gilt als einer der markantesten Wissenschaftler im Bereich der strukturalistischen Semiotik bzw. Semiologie. Barthes verwendete die Methoden des Strukturalismus und der Dekonstruktion, aber auch der Psychoanalyse, um moderne gesellschaftliche Phänomene wie Texte, Filme, Fotografie, Mode, Werbung oder die Liebe zu untersuchen. Indem er die Methoden des Strukturalismus radikalisierte, wurde er zu einem der Begründer des Poststrukturalismus. Als Kritiker zu aktuellen und im Wesentlichen literarischen Ereignissen (vgl. z. B. Racine) löste er oft scharfe Auseinandersetzungen aus.Obwohl seine Werke unter anderem stark durch die Lektüre Nietzsches geprägt sind und Barthes sich der abendländischen Philosophie verpflichtet fühlt, zog er sich laut Gabriele Röttger-Denker „in der deutschen Fachphilosophie das – nach Adorno – für einen Philosophen tödliche Urteil eines bemerkenswerten Schriftstellers zu. Da er nicht weiter beachtet wurde, fanden seine Werke nicht einmal in Fachbibliotheken einen Stammplatz.“</abstract>
+<wikilink>http://en.wikipedia.org/wiki/Roland_Barthes?oldid=606572296</wikilink>
+<artworks />
+<buildings />
+<books>
+<XML_Serializer_Tag>
+<book>
+<type>uri</type>
+<value>http://dbpedia.org/resource/The_Pleasure_of_the_Text</value>
+</book>
+<author>
+<type>uri</type>
+<value>http://dbpedia.org/resource/Roland_Barthes</value>
+</author>
+<thumbnail>
+<type>uri</type>
+<value>http://commons.wikimedia.org/wiki/Special:FilePath/The_Pleasure_of_the_Text_cover.jpg?width=300</value>
+</thumbnail>
+<released>
+<type>typed-literal</type>
+<datatype>http://www.w3.org/2001/XMLSchema#integer</datatype>
+<value>1975</value>
+</released>
+<wikilink>
+<type>uri</type>
+<value>http://en.wikipedia.org/wiki/The_Pleasure_of_the_Text?oldid=544904481</value>
+</wikilink>
+<abstract>
+<type>literal</type>
+<xml:lang>de</xml:lang>
+<value>Die Lust am Text (Le plaisir du texte) ist ein 1973 (dt. 1974) erschienener Essay von Roland Barthes. Er gilt als einer der paradigmatischen Texte des Poststrukturalismus und als Klassiker der neuen französischen Textkritik.Rückblickend hat Barthes selbst diesen Text als Beginn einer neuen Phase seines Denkens bezeichnet. Mit diesem Essay wendet er sich von seinem strengen, semiologisch orientierten Systemdenken des Strukturalismus ab. Zugleich werden Einflüsse durch die Psychoanalyse, Kristeva, Derrida und Nietzsche, den er mehrfach zitiert, deutlich.</value>
+</abstract>
+</XML_Serializer_Tag>
+<XML_Serializer_Tag>
+<book>
+<type>uri</type>
+<value>http://dbpedia.org/resource/Camera_Lucida_(book)</value>
+</book>
+<author>
+<type>uri</type>
+<value>http://dbpedia.org/resource/Roland_Barthes</value>
+</author>
+<wikilink>
+<type>uri</type>
+<value>http://en.wikipedia.org/wiki/Camera_Lucida_(book)?oldid=606458391</value>
+</wikilink>
+<abstract>
+<type>literal</type>
+<xml:lang>de</xml:lang>
+<value>Die helle Kammer (La chambre claire, Paris 1980) ist ein Essay des französischen Philosophen Roland Barthes. Seine letzte Veröffentlichung ist eines der Standardwerke über die Photographie. Schwankend zwischen systematischen Feststellungen und sehr intimen, unter anderem den Tod seiner Mutter betreffenden Teilen, gab Barthes seinem Essay den Untertitel „Bemerkung zur Photographie“ (Note sur la photographie).</value>
+</abstract>
+</XML_Serializer_Tag>
+<XML_Serializer_Tag>
+<book>
+<type>uri</type>
+<value>http://dbpedia.org/resource/Mythologies_(book)</value>
+</book>
+<author>
+<type>uri</type>
+<value>http://dbpedia.org/resource/Roland_Barthes</value>
+</author>
+<wikilink>
+<type>uri</type>
+<value>http://en.wikipedia.org/wiki/Mythologies_(book)?oldid=601052140</value>
+</wikilink>
+<abstract>
+<type>literal</type>
+<xml:lang>de</xml:lang>
+<value>Mythen des Alltags (Mythologies) ist ein kultursemiotisches Werk des französischen Poststrukturalisten und Semiotikers Roland Barthes aus dem Jahr 1957. Eine deutsche Übersetzung erschien erstmals 1964 im Suhrkamp Verlag.</value>
+</abstract>
+</XML_Serializer_Tag>
+<XML_Serializer_Tag>
+<book>
+<type>uri</type>
+<value>http://dbpedia.org/resource/Incidents</value>
+</book>
+<author>
+<type>uri</type>
+<value>http://dbpedia.org/resource/Roland_Barthes</value>
+</author>
+<wikilink>
+<type>uri</type>
+<value>http://en.wikipedia.org/wiki/Incidents?oldid=594109485</value>
+</wikilink>
+</XML_Serializer_Tag>
+<XML_Serializer_Tag>
+<book>
+<type>uri</type>
+<value>http://dbpedia.org/resource/The_Eiffel_Tower_and_Other_Mythologies</value>
+</book>
+<author>
+<type>uri</type>
+<value>http://dbpedia.org/resource/Roland_Barthes</value>
+</author>
+<wikilink>
+<type>uri</type>
+<value>http://en.wikipedia.org/wiki/The_Eiffel_Tower_and_Other_Mythologies?oldid=592856254</value>
+</wikilink>
+</XML_Serializer_Tag>
+</books>
+</Person>

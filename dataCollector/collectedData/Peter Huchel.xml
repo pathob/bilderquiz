@@ -1,0 +1,23 @@
+<Person>
+<name>Peter Huchel</name>
+<variantName>
+<XML_Serializer_Tag>Peter Chuchel</XML_Serializer_Tag>
+<XML_Serializer_Tag>ペーター フーヘル</XML_Serializer_Tag>
+</variantName>
+<thumbnail>https://commons.wikimedia.org/wiki/Special:FilePath/Gedenktafel_Hindenburgdamm_32_(Lifel)_Peter_Huchel.jpg?width=270</thumbnail>
+<birthEN>April 3, 1903</birthEN>
+<birthDE>3. April 1903</birthDE>
+<deathEN>April 30, 1981</deathEN>
+<deathDE>30. April 1981</deathDE>
+<birthPlace />
+<deathPlace />
+<professionOrOccupation>
+<XML_Serializer_Tag>Schriftsteller</XML_Serializer_Tag>
+</professionOrOccupation>
+<dbpResource>http://dbpedia.org/resource/Peter_Huchel</dbpResource>
+<abstract>Peter Huchel (* 3. April 1903 in Lichterfelde bei Berlin, heute Berlin-Lichterfelde; † 30. April 1981 in Staufen; eigentlich Helmut Huchel) war ein deutscher Lyriker und Redakteur.</abstract>
+<wikilink>http://en.wikipedia.org/wiki/Peter_Huchel?oldid=596369577</wikilink>
+<artworks />
+<buildings />
+<books />
+</Person>

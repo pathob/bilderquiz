@@ -24,8 +24,10 @@
 <XML_Serializer_Tag>Graphiker</XML_Serializer_Tag>
 <XML_Serializer_Tag>Schriftsteller</XML_Serializer_Tag>
 </professionOrOccupation>
-<artworks />
 <dbpResource>http://dbpedia.org/resource/Maurice_de_Vlaminck</dbpResource>
 <abstract>Maurice de Vlaminck (* 4. April 1876 in Paris; † 11. Oktober 1958 in Rueil-la-Gadelière, Département Eure-et-Loir) war ein französischer Maler, Grafiker und Autor. Maurice de Vlaminck war Mitglied der „Fauves“.</abstract>
 <wikilink>http://en.wikipedia.org/wiki/Maurice_de_Vlaminck?oldid=605415766</wikilink>
+<artworks />
+<buildings />
+<books />
 </Person>

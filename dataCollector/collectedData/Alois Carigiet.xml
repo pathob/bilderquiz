@@ -1,0 +1,30 @@
+<Person>
+<name>Alois Carigiet</name>
+<variantName>
+<XML_Serializer_Tag>Aloi͏̈s Carigiet</XML_Serializer_Tag>
+<XML_Serializer_Tag>A. Carigiet</XML_Serializer_Tag>
+</variantName>
+<thumbnail>https://commons.wikimedia.org/wiki/Special:FilePath/Kath._Kirche_Vella_vorne.jpg?width=270</thumbnail>
+<birthEN>August 30, 1920</birthEN>
+<birthDE>30. August 1920</birthDE>
+<deathEN>August 1, 1985</deathEN>
+<deathDE>1. August 1985</deathDE>
+<birthPlace>
+<XML_Serializer_Tag>Trun</XML_Serializer_Tag>
+</birthPlace>
+<deathPlace>
+<XML_Serializer_Tag>Trun</XML_Serializer_Tag>
+</deathPlace>
+<professionOrOccupation>
+<XML_Serializer_Tag>Künstler</XML_Serializer_Tag>
+<XML_Serializer_Tag>Illustrator</XML_Serializer_Tag>
+<XML_Serializer_Tag>Bühnenbildner</XML_Serializer_Tag>
+<XML_Serializer_Tag>Schriftsteller</XML_Serializer_Tag>
+</professionOrOccupation>
+<dbpResource>http://dbpedia.org/resource/Alois_Carigiet</dbpResource>
+<abstract>Alois Carigiet [kariˈdʑɛt] (* 30. August 1902 Trun, Graubünden; † 1. August 1985 Trun) war ein Schweizer Maler, Zeichner, Lithograf und Kinderbuchautor.</abstract>
+<wikilink>http://en.wikipedia.org/wiki/Alois_Carigiet?oldid=603310345</wikilink>
+<artworks />
+<buildings />
+<books />
+</Person>

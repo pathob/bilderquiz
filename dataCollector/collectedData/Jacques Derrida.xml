@@ -1,0 +1,158 @@
+<Person>
+<name>Jacques Derrida</name>
+<variantName>
+<XML_Serializer_Tag>Derida</XML_Serializer_Tag>
+<XML_Serializer_Tag>Žak Derida</XML_Serializer_Tag>
+<XML_Serializer_Tag>Z&apos;ak Deridah</XML_Serializer_Tag>
+<XML_Serializer_Tag>... Derrida</XML_Serializer_Tag>
+<XML_Serializer_Tag>J. Derrida</XML_Serializer_Tag>
+<XML_Serializer_Tag>Ǧāk Dīrīdā</XML_Serializer_Tag>
+<XML_Serializer_Tag>Jackes Derrida</XML_Serializer_Tag>
+<XML_Serializer_Tag>Jaques Derrida</XML_Serializer_Tag>
+<XML_Serializer_Tag>Žak Derrida</XML_Serializer_Tag>
+<XML_Serializer_Tag>Zhak Derrida</XML_Serializer_Tag>
+<XML_Serializer_Tag>Zak Nterinta</XML_Serializer_Tag>
+<XML_Serializer_Tag>Chak&apos;ŭ Terida</XML_Serializer_Tag>
+<XML_Serializer_Tag>J. Terida</XML_Serializer_Tag>
+</variantName>
+<thumbnail>https://commons.wikimedia.org/wiki/Special:FilePath/Derrida-by-Pablo-Secca.jpg?width=270</thumbnail>
+<birthEN>July 15, 1930</birthEN>
+<birthDE>15. Juli 1930</birthDE>
+<deathEN>October 9, 2004</deathEN>
+<deathDE>9. Oktober 2004</deathDE>
+<birthPlace>
+<XML_Serializer_Tag>El-Biar, Algeria</XML_Serializer_Tag>
+</birthPlace>
+<deathPlace>
+<XML_Serializer_Tag>Paris</XML_Serializer_Tag>
+</deathPlace>
+<professionOrOccupation>
+<XML_Serializer_Tag>Philosoph</XML_Serializer_Tag>
+<XML_Serializer_Tag>Schriftsteller</XML_Serializer_Tag>
+</professionOrOccupation>
+<dbpResource>http://dbpedia.org/resource/Jacques_Derrida</dbpResource>
+<abstract>Jacques Derrida [ʒak dɛʁida] (* 15. Juli 1930 als Jackie Derrida in El Biar; † 8. Oktober 2004 in Paris) war ein französischer Philosoph, der als Begründer und Hauptvertreter der Dekonstruktion gilt. Sein Werk beeinflusste maßgeblich die Philosophie und Literaturwissenschaft in Europa und den USA in der zweiten Hälfte des 20. Jahrhunderts. Zu seinen Hauptwerken zählen Die Stimme und das Phänomen 1967, Grammatologie 1967, Die Schrift und die Differenz 1967 und Randgänge der Philosophie 1972.</abstract>
+<wikilink>http://en.wikipedia.org/wiki/Jacques_Derrida?oldid=605303389</wikilink>
+<artworks />
+<buildings />
+<books>
+<XML_Serializer_Tag>
+<book>
+<type>uri</type>
+<value>http://dbpedia.org/resource/Speech_and_Phenomena</value>
+</book>
+<author>
+<type>uri</type>
+<value>http://dbpedia.org/resource/Jacques_Derrida</value>
+</author>
+<released>
+<type>typed-literal</type>
+<datatype>http://www.w3.org/2001/XMLSchema#integer</datatype>
+<value>1967</value>
+</released>
+<wikilink>
+<type>uri</type>
+<value>http://en.wikipedia.org/wiki/Speech_and_Phenomena?oldid=590988780</value>
+</wikilink>
+</XML_Serializer_Tag>
+<XML_Serializer_Tag>
+<book>
+<type>uri</type>
+<value>http://dbpedia.org/resource/Points...:_Interviews,_1974-1994</value>
+</book>
+<author>
+<type>uri</type>
+<value>http://dbpedia.org/resource/Jacques_Derrida</value>
+</author>
+<released>
+<type>typed-literal</type>
+<datatype>http://www.w3.org/2001/XMLSchema#integer</datatype>
+<value>1992</value>
+</released>
+<wikilink>
+<type>uri</type>
+<value>http://en.wikipedia.org/wiki/Points...:_Interviews,_1974-1994?oldid=606161201</value>
+</wikilink>
+</XML_Serializer_Tag>
+<XML_Serializer_Tag>
+<book>
+<type>uri</type>
+<value>http://dbpedia.org/resource/Of_Grammatology</value>
+</book>
+<author>
+<type>uri</type>
+<value>http://dbpedia.org/resource/Jacques_Derrida</value>
+</author>
+<released>
+<type>typed-literal</type>
+<datatype>http://www.w3.org/2001/XMLSchema#integer</datatype>
+<value>1967</value>
+</released>
+<wikilink>
+<type>uri</type>
+<value>http://en.wikipedia.org/wiki/Of_Grammatology?oldid=590988569</value>
+</wikilink>
+</XML_Serializer_Tag>
+<XML_Serializer_Tag>
+<book>
+<type>uri</type>
+<value>http://dbpedia.org/resource/Writing_and_Difference</value>
+</book>
+<author>
+<type>uri</type>
+<value>http://dbpedia.org/resource/Jacques_Derrida</value>
+</author>
+<released>
+<type>typed-literal</type>
+<datatype>http://www.w3.org/2001/XMLSchema#integer</datatype>
+<value>1967</value>
+</released>
+<wikilink>
+<type>uri</type>
+<value>http://en.wikipedia.org/wiki/Writing_and_Difference?oldid=606161245</value>
+</wikilink>
+</XML_Serializer_Tag>
+<XML_Serializer_Tag>
+<book>
+<type>uri</type>
+<value>http://dbpedia.org/resource/Glas_(book)</value>
+</book>
+<author>
+<type>uri</type>
+<value>http://dbpedia.org/resource/Jacques_Derrida</value>
+</author>
+<wikilink>
+<type>uri</type>
+<value>http://en.wikipedia.org/wiki/Glas_(book)?oldid=602688364</value>
+</wikilink>
+</XML_Serializer_Tag>
+<XML_Serializer_Tag>
+<book>
+<type>uri</type>
+<value>http://dbpedia.org/resource/Specters_of_Marx</value>
+</book>
+<author>
+<type>uri</type>
+<value>http://dbpedia.org/resource/Jacques_Derrida</value>
+</author>
+<wikilink>
+<type>uri</type>
+<value>http://en.wikipedia.org/wiki/Specters_of_Marx?oldid=595507858</value>
+</wikilink>
+</XML_Serializer_Tag>
+<XML_Serializer_Tag>
+<book>
+<type>uri</type>
+<value>http://dbpedia.org/resource/The_Post_Card:_From_Socrates_to_Freud_and_Beyond</value>
+</book>
+<author>
+<type>uri</type>
+<value>http://dbpedia.org/resource/Jacques_Derrida</value>
+</author>
+<wikilink>
+<type>uri</type>
+<value>http://en.wikipedia.org/wiki/The_Post_Card:_From_Socrates_to_Freud_and_Beyond?oldid=606684313</value>
+</wikilink>
+</XML_Serializer_Tag>
+</books>
+</Person>

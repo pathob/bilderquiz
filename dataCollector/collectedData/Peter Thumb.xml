@@ -1,0 +1,55 @@
+<Person>
+<name>Peter Thumb</name>
+<variantName>
+<XML_Serializer_Tag>Johann Peter Thumb</XML_Serializer_Tag>
+</variantName>
+<thumbnail>https://commons.wikimedia.org/wiki/Special:FilePath/Birnau_2004-02.jpg?width=270</thumbnail>
+<birthEN>December 18, 1681</birthEN>
+<birthDE>18. Dezember 1681</birthDE>
+<deathEN>March 4, 1766</deathEN>
+<deathDE>4. März 1766</deathDE>
+<birthPlace>
+<XML_Serializer_Tag>Bezau</XML_Serializer_Tag>
+</birthPlace>
+<deathPlace>
+<XML_Serializer_Tag>Konstanz</XML_Serializer_Tag>
+</deathPlace>
+<professionOrOccupation>
+<XML_Serializer_Tag>Architekt</XML_Serializer_Tag>
+</professionOrOccupation>
+<dbpResource>http://dbpedia.org/resource/Peter_Thumb</dbpResource>
+<abstract>Peter Thumb (* 18. Dezember 1681 in Bezau, Vorarlberg; † 4. März 1766 in Konstanz) war ein Baumeister des Rokoko, der in Südbaden, im Schwarzwald, im Elsass, in Oberschwaben, am Bodensee und in der Schweiz tätig war.</abstract>
+<wikilink>http://en.wikipedia.org/wiki/Peter_Thumb?oldid=601165166</wikilink>
+<artworks />
+<buildings>
+<XML_Serializer_Tag>
+<building>
+<type>uri</type>
+<value>http://dbpedia.org/resource/Church_of_Saint_Maurice_(Ebersmunster)</value>
+</building>
+<name>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>Abbatiale Saint-Maurice d&apos;EbersmunsterÉglise Saint-Maurice d&apos;Ebersmunster</value>
+</name>
+<architect>
+<type>uri</type>
+<value>http://dbpedia.org/resource/Peter_Thumb</value>
+</architect>
+<thumbnail>
+<type>uri</type>
+<value>http://commons.wikimedia.org/wiki/Special:FilePath/Ebersmunster_Abbatiale01.JPG?width=300</value>
+</thumbnail>
+<wikilink>
+<type>uri</type>
+<value>http://en.wikipedia.org/wiki/Church_of_Saint_Maurice_(Ebersmunster)?oldid=591147696</value>
+</wikilink>
+<abstract>
+<type>literal</type>
+<xml:lang>de</xml:lang>
+<value>Die dreitürmige ehemalige Abteikirche St. Mauritius (Französisch: Abbatiale Saint-Maurice) ist die Hauptsehenswürdigkeit des Dorfes Ebersmünster bei Schlettstadt.Das 1727 vollendete Gotteshaus, ein Werk des Vorarlberger Architekten Peter Thumb, gilt als eine der schönsten Barockkirchen im Osten Frankreichs.</value>
+</abstract>
+</XML_Serializer_Tag>
+</buildings>
+<books />
+</Person>

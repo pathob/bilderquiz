@@ -1,0 +1,29 @@
+<Person>
+<name>Eva Menasse</name>
+<variantName>
+<XML_Serializer_Tag>Eṿah Menaseh</XML_Serializer_Tag>
+<XML_Serializer_Tag>Ai wa Mei na se</XML_Serializer_Tag>
+<XML_Serializer_Tag>Aiwa-Meinase</XML_Serializer_Tag>
+<XML_Serializer_Tag>Aiwa Meinase</XML_Serializer_Tag>
+<XML_Serializer_Tag>אווה מנסה</XML_Serializer_Tag>
+</variantName>
+<thumbnail>https://commons.wikimedia.org/wiki/Special:FilePath/Leipziger_Buchmesse_2013_Eva_Menasse.JPG?width=270</thumbnail>
+<birthEN>1970</birthEN>
+<birthDE>1970</birthDE>
+<deathEN />
+<deathDE />
+<birthPlace>
+<XML_Serializer_Tag>Wien</XML_Serializer_Tag>
+</birthPlace>
+<deathPlace />
+<professionOrOccupation>
+<XML_Serializer_Tag>Schriftstellerin</XML_Serializer_Tag>
+<XML_Serializer_Tag>Journalistin</XML_Serializer_Tag>
+</professionOrOccupation>
+<dbpResource>http://dbpedia.org/resource/Eva_Menasse</dbpResource>
+<abstract>Eva Menasse (* 11. Mai 1970 in Wien) ist eine österreichische Journalistin und Schriftstellerin. Die Halbschwester von Robert Menasse und Tochter von Hans Menasse ist mit Michael Kumpfmüller verheiratet.</abstract>
+<wikilink>http://en.wikipedia.org/wiki/Eva_Menasse?oldid=605413726</wikilink>
+<artworks />
+<buildings />
+<books />
+</Person>

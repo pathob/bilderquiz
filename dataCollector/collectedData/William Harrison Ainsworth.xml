@@ -1,0 +1,116 @@
+<Person>
+<name>William Harrison Ainsworth</name>
+<variantName>
+<XML_Serializer_Tag>William Harrisson Ainsworth</XML_Serializer_Tag>
+<XML_Serializer_Tag>William H. Ainsworth</XML_Serializer_Tag>
+<XML_Serializer_Tag>William Harrison Ainsworth</XML_Serializer_Tag>
+<XML_Serializer_Tag>Harrison Ainsworth</XML_Serializer_Tag>
+<XML_Serializer_Tag>W. Harrison Ainsworth</XML_Serializer_Tag>
+<XML_Serializer_Tag>W. H. Ainsworth</XML_Serializer_Tag>
+<XML_Serializer_Tag>W. Harrison Ainworth</XML_Serializer_Tag>
+</variantName>
+<thumbnail>https://commons.wikimedia.org/wiki/Special:FilePath/William_Harrison_Ainsworth.jpg?width=270</thumbnail>
+<birthEN>February 4, 1805</birthEN>
+<birthDE>4. Februar 1805</birthDE>
+<deathEN>January 3, 1882</deathEN>
+<deathDE>3. Januar 1882</deathDE>
+<birthPlace />
+<deathPlace />
+<professionOrOccupation>
+<XML_Serializer_Tag>Schriftsteller</XML_Serializer_Tag>
+</professionOrOccupation>
+<dbpResource>http://dbpedia.org/resource/William_Harrison_Ainsworth</dbpResource>
+<abstract>James William Harrison Ainsworth (* 4. Februar 1805 in Manchester; † 3. Januar 1882 in Reigate) war ein britischer Schriftsteller historischer Romane.</abstract>
+<wikilink>http://en.wikipedia.org/wiki/William_Harrison_Ainsworth?oldid=594690857</wikilink>
+<artworks />
+<buildings />
+<books>
+<XML_Serializer_Tag>
+<book>
+<type>uri</type>
+<value>http://dbpedia.org/resource/Auriol_(novel)</value>
+</book>
+<author>
+<type>uri</type>
+<value>http://dbpedia.org/resource/William_Harrison_Ainsworth</value>
+</author>
+<thumbnail>
+<type>uri</type>
+<value>http://commons.wikimedia.org/wiki/Special:FilePath/Phiz_Auriol.jpg?width=300</value>
+</thumbnail>
+<released>
+<type>typed-literal</type>
+<datatype>http://www.w3.org/2001/XMLSchema#integer</datatype>
+<value>1844</value>
+</released>
+<wikilink>
+<type>uri</type>
+<value>http://en.wikipedia.org/wiki/Auriol_(novel)?oldid=571477870</value>
+</wikilink>
+</XML_Serializer_Tag>
+<XML_Serializer_Tag>
+<book>
+<type>uri</type>
+<value>http://dbpedia.org/resource/Rookwood_(novel)</value>
+</book>
+<author>
+<type>uri</type>
+<value>http://dbpedia.org/resource/William_Harrison_Ainsworth</value>
+</author>
+<thumbnail>
+<type>uri</type>
+<value>http://commons.wikimedia.org/wiki/Special:FilePath/Rookwood_1st_ed_1834.jpg?width=300</value>
+</thumbnail>
+<released>
+<type>typed-literal</type>
+<datatype>http://www.w3.org/2001/XMLSchema#integer</datatype>
+<value>1834</value>
+</released>
+<wikilink>
+<type>uri</type>
+<value>http://en.wikipedia.org/wiki/Rookwood_(novel)?oldid=576440208</value>
+</wikilink>
+</XML_Serializer_Tag>
+<XML_Serializer_Tag>
+<book>
+<type>uri</type>
+<value>http://dbpedia.org/resource/The_Tower_of_London_(novel)</value>
+</book>
+<author>
+<type>uri</type>
+<value>http://dbpedia.org/resource/William_Harrison_Ainsworth</value>
+</author>
+<thumbnail>
+<type>uri</type>
+<value>http://commons.wikimedia.org/wiki/Special:FilePath/The_Tower_of_London.jpg?width=300</value>
+</thumbnail>
+<wikilink>
+<type>uri</type>
+<value>http://en.wikipedia.org/wiki/The_Tower_of_London_(novel)?oldid=595013122</value>
+</wikilink>
+<abstract>
+<type>literal</type>
+<xml:lang>de</xml:lang>
+<value>The Tower of London, A Historical Romance ist ein 1840 erschienener Roman des englischen Schriftstellers William Harrison Ainsworth. Der in dreizehn monatlichen Teilen erschienene Roman schildert das Leben der englischen &quot;Neuntagekönigin&quot; Jane Grey, wobei er insbesondere auf ihre letzten Tage abstellt. Der Bestseller war prägend für das heute immer noch vorherrschende Bild des Tower of London als düstere und unheimlich Gefängnisfestung.The Tower ist ein für Ainsworth typischen Buch, in dem er Roman, Romanze, Geschichte, und die detaillierte Beschreibung einer Londoner Sehenswürdigkeit miteinander verbindet. The Tower begründete den Erfolg der Serie, blieb aber neben Old St. Paul das erfolgreichste Buch, und damit eines der beiden erfolgreichsten von Ainsworth. Neben den Büchern von Ainsworth erschienen in den 1840ern und 1850ern nach dem Sensationserfolg des Towers zahlreiche weitere Roman, die sich mit dem Tower of London oder anderen prägenden Gebäuden der Londoner Innenstadt beschäftigten. The Tower of London selbst erschien zeitweise in acht verschiedenen Inszenierungen gleichzeitig auf den Bühnen Londons.Die erste Ausgabe illustrierte George Cruikshank, der oft mit Ainsworth zusammenarbeitete.Ainsworths Buch weckte neues Interesse am Tower, und begann ihn in den Mittelpunkt des Interesses des Londoner Bildungsbürgertums zu stellen. War es 1840 bereits seit 200 Jahren möglich den Tower zu besichtigen, löste erste Ainsworths Roman einen Besucheransturm an. Bereits 1841 erschien ein vom Palast herausgegebener Führer, der die offizielle Geschichte des Gebäudes erzählen sollte. 1851 schließlich sah sich der Palast genötigt, einen Verkaufskiosk zu errichten, an dem Karten für den Tower gekauft werden konnten. Für die damalige Zeit eine große Novität.</value>
+</abstract>
+</XML_Serializer_Tag>
+<XML_Serializer_Tag>
+<book>
+<type>uri</type>
+<value>http://dbpedia.org/resource/Bentley&apos;s_Miscellany</value>
+</book>
+<author>
+<type>uri</type>
+<value>http://dbpedia.org/resource/William_Harrison_Ainsworth</value>
+</author>
+<thumbnail>
+<type>uri</type>
+<value>http://commons.wikimedia.org/wiki/Special:FilePath/Bentley&apos;smisc_cover.jpg?width=300</value>
+</thumbnail>
+<wikilink>
+<type>uri</type>
+<value>http://en.wikipedia.org/wiki/Bentley&apos;s_Miscellany?oldid=557205513</value>
+</wikilink>
+</XML_Serializer_Tag>
+</books>
+</Person>

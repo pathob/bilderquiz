@@ -1,0 +1,68 @@
+<Person>
+<name>George Dance</name>
+<variantName />
+<thumbnail>https://commons.wikimedia.org/wiki/Special:FilePath/British_Institution_at_52_Pall_Mall.jpg?width=270</thumbnail>
+<birthEN>1741</birthEN>
+<birthDE>1741</birthDE>
+<deathEN>1825</deathEN>
+<deathDE>1825</deathDE>
+<birthPlace />
+<deathPlace />
+<professionOrOccupation>
+<XML_Serializer_Tag>Architekt</XML_Serializer_Tag>
+<XML_Serializer_Tag>Zeichner</XML_Serializer_Tag>
+</professionOrOccupation>
+<dbpResource>http://dbpedia.org/resource/George_Dance_the_Younger</dbpResource>
+<abstract>George Dance der Jüngere RA (* 1. April 1741 in London, Großbritannien; † 14. Januar 1825 ebenda) war ein britischer Architekt, Vermesser und Maler.</abstract>
+<wikilink>http://en.wikipedia.org/wiki/George_Dance_the_Younger?oldid=600901975</wikilink>
+<artworks />
+<buildings>
+<XML_Serializer_Tag>
+<building>
+<type>uri</type>
+<value>http://dbpedia.org/resource/All_Hallows-on-the-Wall</value>
+</building>
+<name>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>All Hallows-on-the-Wall</value>
+</name>
+<architect>
+<type>uri</type>
+<value>http://dbpedia.org/resource/George_Dance_the_Younger</value>
+</architect>
+<thumbnail>
+<type>uri</type>
+<value>http://commons.wikimedia.org/wiki/Special:FilePath/AllHallowsOnTheWall.JPG?width=300</value>
+</thumbnail>
+<wikilink>
+<type>uri</type>
+<value>http://en.wikipedia.org/wiki/All_Hallows-on-the-Wall?oldid=585398935</value>
+</wikilink>
+</XML_Serializer_Tag>
+<XML_Serializer_Tag>
+<building>
+<type>uri</type>
+<value>http://dbpedia.org/resource/Wesley&apos;s_Chapel</value>
+</building>
+<name>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>Wesley&apos;s Chapel</value>
+</name>
+<architect>
+<type>uri</type>
+<value>http://dbpedia.org/resource/George_Dance_the_Younger</value>
+</architect>
+<thumbnail>
+<type>uri</type>
+<value>http://commons.wikimedia.org/wiki/Special:FilePath/Wesley&apos;s_Chapel_1.jpg?width=300</value>
+</thumbnail>
+<wikilink>
+<type>uri</type>
+<value>http://en.wikipedia.org/wiki/Wesley&apos;s_Chapel?oldid=591557995</value>
+</wikilink>
+</XML_Serializer_Tag>
+</buildings>
+<books />
+</Person>

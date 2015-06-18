@@ -12,8 +12,10 @@
 <XML_Serializer_Tag>Künstler</XML_Serializer_Tag>
 <XML_Serializer_Tag>Maler</XML_Serializer_Tag>
 </professionOrOccupation>
-<artworks />
 <dbpResource>http://dbpedia.org/resource/Hubert_Sattler</dbpResource>
 <abstract>Hubert Sattler (* 9. September 1844 in Salzburg; † 15. November 1928 in Leipzig) war ein österreichischer Augenarzt. Er wirkte als Professor für Augenheilkunde an verschiedenen Universitäten, darunter von 1891 bis 1920 an der Universität Leipzig, und beschäftigte sich insbesondere mit Krebserkrankungen des Auges sowie dessen Anatomie.</abstract>
 <wikilink>http://en.wikipedia.org/wiki/Hubert_Sattler?oldid=546245211</wikilink>
+<artworks />
+<buildings />
+<books />
 </Person>

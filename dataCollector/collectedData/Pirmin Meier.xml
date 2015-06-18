@@ -1,0 +1,28 @@
+<Person>
+<name>Pirmin Meier</name>
+<variantName>
+<XML_Serializer_Tag>Pirmin Majer</XML_Serializer_Tag>
+<XML_Serializer_Tag>Pirmin A. Meier</XML_Serializer_Tag>
+<XML_Serializer_Tag>Pirmin Adrian Meier</XML_Serializer_Tag>
+</variantName>
+<thumbnail>https://en.wikipedia.org/wiki/Special:FilePath/Meier_Pirmin;_signature.jpg?width=270</thumbnail>
+<birthEN>1947</birthEN>
+<birthDE>1947</birthDE>
+<deathEN />
+<deathDE />
+<birthPlace>
+<XML_Serializer_Tag>Würenlingen</XML_Serializer_Tag>
+</birthPlace>
+<deathPlace />
+<professionOrOccupation>
+<XML_Serializer_Tag>Lehrer</XML_Serializer_Tag>
+<XML_Serializer_Tag>Schriftsteller</XML_Serializer_Tag>
+<XML_Serializer_Tag>Germanist</XML_Serializer_Tag>
+</professionOrOccupation>
+<dbpResource>http://dbpedia.org/resource/Pirmin_Meier</dbpResource>
+<abstract>Pirmin Adrian Meier (* 21. Februar 1947 in Würenlingen, Kanton Aargau) ist ein Schweizer Autor, Erwachsenenbildner und früherer Gymnasiallehrer.</abstract>
+<wikilink>http://en.wikipedia.org/wiki/Pirmin_Meier?oldid=603223193</wikilink>
+<artworks />
+<buildings />
+<books />
+</Person>

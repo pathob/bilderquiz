@@ -16,8 +16,10 @@
 <XML_Serializer_Tag>Maler</XML_Serializer_Tag>
 <XML_Serializer_Tag>Radierer</XML_Serializer_Tag>
 </professionOrOccupation>
-<artworks />
 <dbpResource>http://dbpedia.org/resource/Giovanni_Benedetto_Castiglione</dbpResource>
 <abstract>Giovanni Benedetto Castiglione (* 1609 in Genua; † 1664 in Mantua), genannt il Grechetto, war ein italienischer Maler und Kupferätzer.</abstract>
 <wikilink>http://en.wikipedia.org/wiki/Giovanni_Benedetto_Castiglione?oldid=603125457</wikilink>
+<artworks />
+<buildings />
+<books />
 </Person>

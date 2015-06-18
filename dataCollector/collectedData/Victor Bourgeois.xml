@@ -1,0 +1,53 @@
+<Person>
+<name>Victor Bourgeois</name>
+<variantName />
+<thumbnail>https://commons.wikimedia.org/wiki/Special:FilePath/Weissenhof_photo_house_south_west_façade_Bourgeois_Stuttgart_Germany_2005-10-08.jpg?width=270</thumbnail>
+<birthEN>1897</birthEN>
+<birthDE>1897</birthDE>
+<deathEN>1962</deathEN>
+<deathDE>1962</deathDE>
+<birthPlace />
+<deathPlace />
+<professionOrOccupation>
+<XML_Serializer_Tag>Architekt</XML_Serializer_Tag>
+</professionOrOccupation>
+<dbpResource>http://dbpedia.org/resource/Victor_Bourgeois</dbpResource>
+<abstract>Victor Bourgeois (* 29. August 1897 in Charleroi (Belgien); † 22. Juli 1962 in Ixelles bei Brüssel), war ein belgischer Architekt und Stadtplaner. Er war der jüngere Bruder des Dichters Pierre Bourgeois.</abstract>
+<wikilink>http://en.wikipedia.org/wiki/Victor_Bourgeois?oldid=596187500</wikilink>
+<artworks />
+<buildings>
+<XML_Serializer_Tag>
+<building>
+<type>uri</type>
+<value>http://dbpedia.org/resource/Belgian_Building</value>
+</building>
+<name>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>Belgian Building</value>
+</name>
+<architect>
+<type>uri</type>
+<value>http://dbpedia.org/resource/Victor_Bourgeois</value>
+</architect>
+<thumbnail>
+<type>uri</type>
+<value>http://commons.wikimedia.org/wiki/Special:FilePath/Belgian_Building,_Lombardy_Street_&amp;_Brook_Road_(Richmond,_Independent_City,_Virginia).jpg?width=300</value>
+</thumbnail>
+<wikilink>
+<type>uri</type>
+<value>http://en.wikipedia.org/wiki/Belgian_Building?oldid=605918720</value>
+</wikilink>
+<location>
+<type>uri</type>
+<value>http://dbpedia.org/resource/Richmond,_Virginia</value>
+</location>
+<built>
+<type>typed-literal</type>
+<datatype>http://www.w3.org/2001/XMLSchema#integer</datatype>
+<value>1941</value>
+</built>
+</XML_Serializer_Tag>
+</buildings>
+<books />
+</Person>

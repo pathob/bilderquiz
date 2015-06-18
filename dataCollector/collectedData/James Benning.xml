@@ -1,0 +1,29 @@
+<Person>
+<name>James Benning</name>
+<variantName />
+<thumbnail>https://commons.wikimedia.org/wiki/Special:FilePath/James_Benning_Viennale_2012_a.jpg?width=270</thumbnail>
+<birthEN>1942</birthEN>
+<birthDE>1942</birthDE>
+<deathEN />
+<deathDE />
+<birthPlace>
+<XML_Serializer_Tag>Milwaukee, Wis.</XML_Serializer_Tag>
+</birthPlace>
+<deathPlace />
+<professionOrOccupation>
+<XML_Serializer_Tag>Künstler</XML_Serializer_Tag>
+<XML_Serializer_Tag>Videokünstler</XML_Serializer_Tag>
+<XML_Serializer_Tag>Filmregisseur</XML_Serializer_Tag>
+<XML_Serializer_Tag>Regisseur</XML_Serializer_Tag>
+<XML_Serializer_Tag>Drehbuchautor</XML_Serializer_Tag>
+<XML_Serializer_Tag>Kameramann</XML_Serializer_Tag>
+<XML_Serializer_Tag>Cutter</XML_Serializer_Tag>
+<XML_Serializer_Tag>Toningenieur</XML_Serializer_Tag>
+</professionOrOccupation>
+<dbpResource>http://dbpedia.org/resource/James_Benning_(film_director)</dbpResource>
+<abstract>James Benning (* 28. Dezember 1942 in Milwaukee, Wisconsin) ist ein US-amerikanischer Avantgarde-Filmemacher und Dokumentarfilmer. Er ist der Sohn von deutschen Immigranten und studierte an der Universität von Wisconsin und arbeitet seit 1987 am California Institute of the Arts.</abstract>
+<wikilink>http://en.wikipedia.org/wiki/James_Benning_(film_director)?oldid=604078084</wikilink>
+<artworks />
+<buildings />
+<books />
+</Person>

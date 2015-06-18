@@ -1,0 +1,29 @@
+<Person>
+<name>Rosa Chacel</name>
+<variantName>
+<XML_Serializer_Tag>Rosa Chacel Arimón</XML_Serializer_Tag>
+<XML_Serializer_Tag>Rosa Chacel-Arimón</XML_Serializer_Tag>
+<XML_Serializer_Tag>Rosa Chacel Arimón</XML_Serializer_Tag>
+</variantName>
+<thumbnail>https://commons.wikimedia.org/wiki/Special:FilePath/Busto_Rosa_Chacel_CG.JPG?width=270</thumbnail>
+<birthEN>June 3, 1898</birthEN>
+<birthDE>3. Juni 1898</birthDE>
+<deathEN>August 7, 1994</deathEN>
+<deathDE>7. August 1994</deathDE>
+<birthPlace>
+<XML_Serializer_Tag>Valladolid</XML_Serializer_Tag>
+</birthPlace>
+<deathPlace>
+<XML_Serializer_Tag>Madrid</XML_Serializer_Tag>
+</deathPlace>
+<professionOrOccupation>
+<XML_Serializer_Tag>Schriftstellerin</XML_Serializer_Tag>
+<XML_Serializer_Tag>Schriftstellerin</XML_Serializer_Tag>
+</professionOrOccupation>
+<dbpResource>http://dbpedia.org/resource/Rosa_Chacel</dbpResource>
+<abstract>Rosa Chacel (* 3. Juni 1898 in Valladolid; † 7. August 1994 in Madrid) war eine spanische Schriftstellerin.</abstract>
+<wikilink>http://en.wikipedia.org/wiki/Rosa_Chacel?oldid=590343407</wikilink>
+<artworks />
+<buildings />
+<books />
+</Person>

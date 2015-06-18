@@ -1,0 +1,25 @@
+<Person>
+<name>Hanna Krall</name>
+<variantName>
+<XML_Serializer_Tag>Hanah Kral</XML_Serializer_Tag>
+</variantName>
+<thumbnail>https://commons.wikimedia.org/wiki/Special:FilePath/2007.05.19._Hanna_Krall_by_Kubik_01.jpg?width=270</thumbnail>
+<birthEN>1937</birthEN>
+<birthDE>1937</birthDE>
+<deathEN />
+<deathDE />
+<birthPlace>
+<XML_Serializer_Tag>Warschau</XML_Serializer_Tag>
+</birthPlace>
+<deathPlace />
+<professionOrOccupation>
+<XML_Serializer_Tag>Journalistin</XML_Serializer_Tag>
+<XML_Serializer_Tag>Schriftstellerin</XML_Serializer_Tag>
+</professionOrOccupation>
+<dbpResource>http://dbpedia.org/resource/Hanna_Krall</dbpResource>
+<abstract>Hanna Krall (* 20. Mai 1935 in Warschau) ist eine polnische Schriftstellerin und Journalistin.</abstract>
+<wikilink>http://en.wikipedia.org/wiki/Hanna_Krall?oldid=597146299</wikilink>
+<artworks />
+<buildings />
+<books />
+</Person>

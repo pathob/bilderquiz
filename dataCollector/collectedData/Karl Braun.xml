@@ -1,0 +1,29 @@
+<Person>
+<name>Karl Braun</name>
+<variantName>
+<XML_Serializer_Tag>Carl Braun</XML_Serializer_Tag>
+<XML_Serializer_Tag>Karl Joseph Wilhelm Braun</XML_Serializer_Tag>
+<XML_Serializer_Tag>Karl J. Braun</XML_Serializer_Tag>
+<XML_Serializer_Tag>Carl Braun-Wiesbaden</XML_Serializer_Tag>
+<XML_Serializer_Tag>Karl Braun-Wiesbaden</XML_Serializer_Tag>
+</variantName>
+<thumbnail>https://commons.wikimedia.org/wiki/Special:FilePath/Führernationalliberale.jpg?width=270</thumbnail>
+<birthEN>March 20, 1822</birthEN>
+<birthDE>20. März 1822</birthDE>
+<deathEN>July 14, 1893</deathEN>
+<deathDE>14. Juli 1893</deathDE>
+<birthPlace />
+<deathPlace />
+<professionOrOccupation>
+<XML_Serializer_Tag>Politiker</XML_Serializer_Tag>
+<XML_Serializer_Tag>Schriftsteller</XML_Serializer_Tag>
+<XML_Serializer_Tag>Rechtsanwalt</XML_Serializer_Tag>
+<XML_Serializer_Tag>Nationalökonom</XML_Serializer_Tag>
+</professionOrOccupation>
+<dbpResource>http://dbpedia.org/resource/Karl_Braun_(politician)</dbpResource>
+<abstract>Karl Joseph Wilhelm Braun (genannt Braun-Wiesbaden; auch Carl) (* 20. März 1822 in Hadamar, Hessen; † 14. Juli 1893 in Freiburg im Breisgau) war ein deutscher Politiker, der sich für den Freihandel einsetzte.</abstract>
+<wikilink>http://en.wikipedia.org/wiki/Karl_Braun_(politician)?oldid=602269829</wikilink>
+<artworks />
+<buildings />
+<books />
+</Person>

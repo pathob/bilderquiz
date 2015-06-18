@@ -19,12 +19,15 @@
 <professionOrOccupation>
 <XML_Serializer_Tag>Maler</XML_Serializer_Tag>
 </professionOrOccupation>
+<dbpResource>http://dbpedia.org/resource/Giuseppe_Arcimboldo</dbpResource>
+<abstract>Giuseppe Arcimboldo (* um 1526 in Mailand; † 11. Juli 1593 ebenda) war ein Maler der Spätrenaissance, speziell des Manierismus. Berühmt sind seine Tafelbilder, auf denen er Blumen, Früchte oder Gemüse, aber auch anorganische Objekte wie Bücher darstellte und daraus überraschende Porträts oder Stillleben komponierte. Neben seiner Tätigkeit als Maler war er am Prager Hof auch als Ingenieur, als Kostümzeichner sowie als Musiker tätig. Von seinen Werken ist nur ein Teil erhalten geblieben. Seltener gebrauchte Formen seines Familiennamens lauten Archimboldi und Arcimbaldo.</abstract>
+<wikilink>http://en.wikipedia.org/wiki/Giuseppe_Arcimboldo?oldid=605306693</wikilink>
 <artworks>
 <XML_Serializer_Tag>
-<painting>
+<artwork>
 <type>uri</type>
 <value>http://dbpedia.org/resource/The_Jurist_(painting)</value>
-</painting>
+</artwork>
 <thumbnail>
 <type>uri</type>
 <value>http://en.wikipedia.org/wiki/Special:FilePath/Jurist-arcimboldo.png?width=300</value>
@@ -48,12 +51,17 @@
 <type>uri</type>
 <value>http://en.wikipedia.org/wiki/The_Jurist_(painting)?oldid=586390919</value>
 </wikilink>
+<type>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>Oil-on-canvas</value>
+</type>
 </XML_Serializer_Tag>
 <XML_Serializer_Tag>
-<painting>
+<artwork>
 <type>uri</type>
 <value>http://dbpedia.org/resource/The_Librarian_(painting)</value>
-</painting>
+</artwork>
 <thumbnail>
 <type>uri</type>
 <value>http://en.wikipedia.org/wiki/Special:FilePath/Arcimboldo_Librarian_Stokholm.jpg?width=300</value>
@@ -72,9 +80,12 @@
 <type>uri</type>
 <value>http://en.wikipedia.org/wiki/The_Librarian_(painting)?oldid=596891642</value>
 </wikilink>
+<type>
+<type>uri</type>
+<value>http://dbpedia.org/resource/Oil_painting</value>
+</type>
 </XML_Serializer_Tag>
 </artworks>
-<dbpResource>http://dbpedia.org/resource/Giuseppe_Arcimboldo</dbpResource>
-<abstract>Giuseppe Arcimboldo (* um 1526 in Mailand; † 11. Juli 1593 ebenda) war ein Maler der Spätrenaissance, speziell des Manierismus. Berühmt sind seine Tafelbilder, auf denen er Blumen, Früchte oder Gemüse, aber auch anorganische Objekte wie Bücher darstellte und daraus überraschende Porträts oder Stillleben komponierte. Neben seiner Tätigkeit als Maler war er am Prager Hof auch als Ingenieur, als Kostümzeichner sowie als Musiker tätig. Von seinen Werken ist nur ein Teil erhalten geblieben. Seltener gebrauchte Formen seines Familiennamens lauten Archimboldi und Arcimbaldo.</abstract>
-<wikilink>http://en.wikipedia.org/wiki/Giuseppe_Arcimboldo?oldid=605306693</wikilink>
+<buildings />
+<books />
 </Person>

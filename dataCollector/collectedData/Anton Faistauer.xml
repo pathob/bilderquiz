@@ -15,8 +15,10 @@
 <professionOrOccupation>
 <XML_Serializer_Tag>Maler</XML_Serializer_Tag>
 </professionOrOccupation>
-<artworks />
 <dbpResource>http://dbpedia.org/resource/Anton_Faistauer</dbpResource>
 <abstract>Anton Faistauer (* 14. Februar 1887 in Sankt Martin bei Lofer, (Salzburg); † 13. Februar 1930 in Wien) war ein österreichischer Maler.</abstract>
 <wikilink>http://en.wikipedia.org/wiki/Anton_Faistauer?oldid=567216973</wikilink>
+<artworks />
+<buildings />
+<books />
 </Person>

@@ -13,8 +13,10 @@
 <XML_Serializer_Tag>Illustrator</XML_Serializer_Tag>
 <XML_Serializer_Tag>Bildhauer</XML_Serializer_Tag>
 </professionOrOccupation>
-<artworks />
 <dbpResource>http://dbpedia.org/resource/Jean_Dubuffet</dbpResource>
 <abstract>Jean Philippe Arthur Dubuffet (* 31. Juli 1901 in Le Havre; † 12. Mai 1985 in Paris) war ein französischer Maler, Bildhauer, Collage- und Aktionskünstler. Dubuffet war ein Hauptvertreter der Art brut und zählt zu den prominentesten Vertretern der französischen Nachkriegskunst.</abstract>
 <wikilink>http://en.wikipedia.org/wiki/Jean_Dubuffet?oldid=597962439</wikilink>
+<artworks />
+<buildings />
+<books />
 </Person>

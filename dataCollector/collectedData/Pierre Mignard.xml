@@ -1,0 +1,26 @@
+<Person>
+<name>Pierre Mignard</name>
+<variantName>
+<XML_Serializer_Tag>Mignard, le Romain</XML_Serializer_Tag>
+<XML_Serializer_Tag>Mignard, Romanus</XML_Serializer_Tag>
+<XML_Serializer_Tag>P. Mignard</XML_Serializer_Tag>
+<XML_Serializer_Tag>... Mignard</XML_Serializer_Tag>
+<XML_Serializer_Tag>Petrus Mignard</XML_Serializer_Tag>
+</variantName>
+<thumbnail>https://commons.wikimedia.org/wiki/Special:FilePath/Mignard-autoportrait.jpg?width=270</thumbnail>
+<birthEN>1612</birthEN>
+<birthDE>1612</birthDE>
+<deathEN>1695</deathEN>
+<deathDE>1695</deathDE>
+<birthPlace />
+<deathPlace />
+<professionOrOccupation>
+<XML_Serializer_Tag>Künstler</XML_Serializer_Tag>
+</professionOrOccupation>
+<dbpResource>http://dbpedia.org/resource/Pierre_Mignard</dbpResource>
+<abstract>Pierre Mignard (* 17. November 1612 in Troyes; † 30. Mai 1695 in Paris) war einer der bedeutendsten französischen Porträt-Maler im Zeitalter des klassizistischen Barock.Mignard prägte zusammen mit Philippe de Champaigne und Hyacinthe Rigaud die Entwicklung des Genres im Laufe des 17. Jahrhunderts. Er schuf neben kirchlichen Gemälden (Kuppelbild in Val-de-Grace, Paris) vor allem Madonnenbilder, sogenannte „Mignardes“ wie zum Beispiel La Vierge à la grappe, sowie mythologische und allegorische Werke.</abstract>
+<wikilink>http://en.wikipedia.org/wiki/Pierre_Mignard?oldid=601629495</wikilink>
+<artworks />
+<buildings />
+<books />
+</Person>

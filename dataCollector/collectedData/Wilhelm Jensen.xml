@@ -1,0 +1,49 @@
+<Person>
+<name>Wilhelm Jensen</name>
+<variantName>
+<XML_Serializer_Tag>Wilhelm Hermann Jensen</XML_Serializer_Tag>
+<XML_Serializer_Tag>Vilchelm Jensen</XML_Serializer_Tag>
+<XML_Serializer_Tag>Vilhelm Jensen</XML_Serializer_Tag>
+</variantName>
+<thumbnail>https://commons.wikimedia.org/wiki/Special:FilePath/Wilhelm_Jensen_01.jpg?width=270</thumbnail>
+<birthEN>February 15, 1837</birthEN>
+<birthDE>15. Februar 1837</birthDE>
+<deathEN>November 24, 1911</deathEN>
+<deathDE>24. November 1911</deathDE>
+<birthPlace>
+<XML_Serializer_Tag>Heiligenhafen</XML_Serializer_Tag>
+</birthPlace>
+<deathPlace>
+<XML_Serializer_Tag>Thalkirchen (München)</XML_Serializer_Tag>
+</deathPlace>
+<professionOrOccupation>
+<XML_Serializer_Tag>Schriftsteller</XML_Serializer_Tag>
+<XML_Serializer_Tag>Redakteur</XML_Serializer_Tag>
+</professionOrOccupation>
+<dbpResource>http://dbpedia.org/resource/Wilhelm_Jensen</dbpResource>
+<abstract>Wilhelm Jensen (* 15. Februar 1837 in Heiligenhafen (Holstein); † 24. November 1911 in München-Thalkirchen) war ein deutscher Lyriker und Schriftsteller.</abstract>
+<wikilink>http://en.wikipedia.org/wiki/Wilhelm_Jensen?oldid=570579513</wikilink>
+<artworks />
+<buildings />
+<books>
+<XML_Serializer_Tag>
+<book>
+<type>uri</type>
+<value>http://dbpedia.org/resource/Gradiva_(novel)</value>
+</book>
+<author>
+<type>uri</type>
+<value>http://dbpedia.org/resource/Wilhelm_Jensen</value>
+</author>
+<released>
+<type>typed-literal</type>
+<datatype>http://www.w3.org/2001/XMLSchema#integer</datatype>
+<value>1903</value>
+</released>
+<wikilink>
+<type>uri</type>
+<value>http://en.wikipedia.org/wiki/Gradiva_(novel)?oldid=561680504</value>
+</wikilink>
+</XML_Serializer_Tag>
+</books>
+</Person>

@@ -22,8 +22,10 @@
 <XML_Serializer_Tag>Lithograph</XML_Serializer_Tag>
 <XML_Serializer_Tag>Radierer</XML_Serializer_Tag>
 </professionOrOccupation>
-<artworks />
 <dbpResource>http://dbpedia.org/resource/Willi_Geiger_(judge)</dbpResource>
 <abstract>Willi Geiger (* 22. Mai 1909 in Neustadt an der Weinstraße; † 19. Januar 1994 in Karlsruhe) war ein deutscher Jurist, Richter am Bundesgerichtshof und Richter des Bundesverfassungsgerichts.</abstract>
 <wikilink>http://en.wikipedia.org/wiki/Willi_Geiger_(judge)?oldid=587282300</wikilink>
+<artworks />
+<buildings />
+<books />
 </Person>

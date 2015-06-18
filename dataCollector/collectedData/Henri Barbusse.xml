@@ -1,0 +1,59 @@
+<Person>
+<name>Henri Barbusse</name>
+<variantName>
+<XML_Serializer_Tag>Adrien Gustave Henri Barbusse</XML_Serializer_Tag>
+<XML_Serializer_Tag>Henry Barbusse</XML_Serializer_Tag>
+<XML_Serializer_Tag>Anri Barbjus</XML_Serializer_Tag>
+<XML_Serializer_Tag>A. Barbjus</XML_Serializer_Tag>
+</variantName>
+<thumbnail>https://commons.wikimedia.org/wiki/Special:FilePath/Henri-Barbusse.jpg?width=270</thumbnail>
+<birthEN>May 17, 1873</birthEN>
+<birthDE>17. Mai 1873</birthDE>
+<deathEN>August 30, 1935</deathEN>
+<deathDE>30. August 1935</deathDE>
+<birthPlace>
+<XML_Serializer_Tag>Asnières</XML_Serializer_Tag>
+</birthPlace>
+<deathPlace>
+<XML_Serializer_Tag>Moskau</XML_Serializer_Tag>
+</deathPlace>
+<professionOrOccupation>
+<XML_Serializer_Tag>Schriftsteller</XML_Serializer_Tag>
+<XML_Serializer_Tag>Journalist</XML_Serializer_Tag>
+<XML_Serializer_Tag>Theaterkritiker</XML_Serializer_Tag>
+<XML_Serializer_Tag>Redakteur</XML_Serializer_Tag>
+<XML_Serializer_Tag>Politiker</XML_Serializer_Tag>
+<XML_Serializer_Tag>Pazifist</XML_Serializer_Tag>
+</professionOrOccupation>
+<dbpResource>http://dbpedia.org/resource/Henri_Barbusse</dbpResource>
+<abstract>Henri Barbusse (* 17. Mai 1873 in Asnières-sur-Seine bei Paris; † 30. August 1935 in Moskau) war ein französischer Politiker und Schriftsteller.</abstract>
+<wikilink>http://en.wikipedia.org/wiki/Henri_Barbusse?oldid=603031137</wikilink>
+<artworks />
+<buildings />
+<books>
+<XML_Serializer_Tag>
+<book>
+<type>uri</type>
+<value>http://dbpedia.org/resource/Under_Fire_(novel)</value>
+</book>
+<author>
+<type>uri</type>
+<value>http://dbpedia.org/resource/Henri_Barbusse</value>
+</author>
+<released>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>December 1916</value>
+</released>
+<wikilink>
+<type>uri</type>
+<value>http://en.wikipedia.org/wiki/Under_Fire_(novel)?oldid=594192130</value>
+</wikilink>
+<abstract>
+<type>literal</type>
+<xml:lang>de</xml:lang>
+<value>Das Feuer. Tagebuch einer Korporalschaft. (französischer Originaltitel: Le Feu. journal d&apos;une escouade.) ist ein Roman von Henri Barbusse, der darin seine eigenen Erfahrungen als Teilnehmer am Ersten Weltkrieg verarbeitete.</value>
+</abstract>
+</XML_Serializer_Tag>
+</books>
+</Person>

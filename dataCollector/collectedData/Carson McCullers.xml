@@ -1,0 +1,117 @@
+<Person>
+<name>Carson McCullers</name>
+<variantName>
+<XML_Serializer_Tag>Carson Mc Cullers</XML_Serializer_Tag>
+<XML_Serializer_Tag>Carson MacCullers</XML_Serializer_Tag>
+<XML_Serializer_Tag>Carson Mac Cullers</XML_Serializer_Tag>
+<XML_Serializer_Tag>Carson Mac-Cullers</XML_Serializer_Tag>
+<XML_Serializer_Tag>Carson Smith McCullers</XML_Serializer_Tag>
+<XML_Serializer_Tag>Lula Carson Smith</XML_Serializer_Tag>
+<XML_Serializer_Tag>Carson McCullersova</XML_Serializer_Tag>
+<XML_Serializer_Tag>Karson MakKalers</XML_Serializer_Tag>
+<XML_Serializer_Tag>Karson Makkallers</XML_Serializer_Tag>
+<XML_Serializer_Tag>Ḳarson Maḳ&apos;Ḳalers</XML_Serializer_Tag>
+</variantName>
+<thumbnail>https://commons.wikimedia.org/wiki/Special:FilePath/Carsonmccullers.jpg?width=270</thumbnail>
+<birthEN>February 19, 1917</birthEN>
+<birthDE>19. Februar 1917</birthDE>
+<deathEN>September 29, 1967</deathEN>
+<deathDE>29. September 1967</deathDE>
+<birthPlace>
+<XML_Serializer_Tag>Columbus, Ga.</XML_Serializer_Tag>
+</birthPlace>
+<deathPlace>
+<XML_Serializer_Tag>Nyack, NY</XML_Serializer_Tag>
+</deathPlace>
+<professionOrOccupation>
+<XML_Serializer_Tag>Schriftstellerin</XML_Serializer_Tag>
+</professionOrOccupation>
+<dbpResource>http://dbpedia.org/resource/Carson_McCullers</dbpResource>
+<abstract>Carson McCullers [ˈkɑːɹsn̩ məˈkʌlɚz] (* 19. Februar 1917 in Columbus, Georgia; † 29. September 1967 in Nyack, New York; eigentlich Lula Carson Smith) war eine US-amerikanische Schriftstellerin.</abstract>
+<wikilink>http://en.wikipedia.org/wiki/Carson_McCullers?oldid=605471938</wikilink>
+<artworks />
+<buildings />
+<books>
+<XML_Serializer_Tag>
+<book>
+<type>uri</type>
+<value>http://dbpedia.org/resource/The_Heart_Is_a_Lonely_Hunter</value>
+</book>
+<author>
+<type>uri</type>
+<value>http://dbpedia.org/resource/Carson_McCullers</value>
+</author>
+<released>
+<type>typed-literal</type>
+<datatype>http://www.w3.org/2001/XMLSchema#integer</datatype>
+<value>1940</value>
+</released>
+<wikilink>
+<type>uri</type>
+<value>http://en.wikipedia.org/wiki/The_Heart_Is_a_Lonely_Hunter?oldid=602796276</value>
+</wikilink>
+<abstract>
+<type>literal</type>
+<xml:lang>de</xml:lang>
+<value>Das Herz ist ein einsamer Jäger ist ein Roman der US-amerikanischen Schriftstellerin Carson McCullers. Das Buch erschien im Mai 1940 bei Houghton Mifflin in Boston unter dem Titel The Heart Is a Lonely Hunter. McCullers begann 1937 mit den Arbeiten an ihrem Debütroman und schloss ihn 1939 ab. Zunächst hieß das Buch The Mute (zu Deutsch: Der Stumme), bei der Veröffentlichung 1940 wurde es aber in The Heart Is a Lonely Hunter umbenannt. McCullers Werk genoss große Aufmerksamkeit und war lange Zeit auf den Bestsellerlisten des Jahres 1940 vertreten. Die erste deutsche Übersetzung von Karl Heinrich erschien 1950 bei Kantorowicz, Berlin. 1952 folgte eine weitere Übertragung von Susanna Rademacher, die im Verlag Scherz &amp; Goverts, Stuttgart und Hamburg, veröffentlicht wurde. Diese Übersetzung wurde seither für alle weiteren deutschsprachigen Auflagen verwendet.</value>
+</abstract>
+</XML_Serializer_Tag>
+<XML_Serializer_Tag>
+<book>
+<type>uri</type>
+<value>http://dbpedia.org/resource/Reflections_in_a_Golden_Eye_(novel)</value>
+</book>
+<author>
+<type>uri</type>
+<value>http://dbpedia.org/resource/Carson_McCullers</value>
+</author>
+<released>
+<type>typed-literal</type>
+<datatype>http://www.w3.org/2001/XMLSchema#integer</datatype>
+<value>1941</value>
+</released>
+<wikilink>
+<type>uri</type>
+<value>http://en.wikipedia.org/wiki/Reflections_in_a_Golden_Eye_(novel)?oldid=601737687</value>
+</wikilink>
+</XML_Serializer_Tag>
+<XML_Serializer_Tag>
+<book>
+<type>uri</type>
+<value>http://dbpedia.org/resource/The_Member_of_the_Wedding</value>
+</book>
+<author>
+<type>uri</type>
+<value>http://dbpedia.org/resource/Carson_McCullers</value>
+</author>
+<released>
+<type>typed-literal</type>
+<datatype>http://www.w3.org/2001/XMLSchema#integer</datatype>
+<value>1946</value>
+</released>
+<wikilink>
+<type>uri</type>
+<value>http://en.wikipedia.org/wiki/The_Member_of_the_Wedding?oldid=594813809</value>
+</wikilink>
+</XML_Serializer_Tag>
+<XML_Serializer_Tag>
+<book>
+<type>uri</type>
+<value>http://dbpedia.org/resource/The_Ballad_of_the_Sad_Caf%C3%A9</value>
+</book>
+<author>
+<type>uri</type>
+<value>http://dbpedia.org/resource/Carson_McCullers</value>
+</author>
+<published>
+<type>typed-literal</type>
+<datatype>http://www.w3.org/2001/XMLSchema#integer</datatype>
+<value>1951</value>
+</published>
+<wikilink>
+<type>uri</type>
+<value>http://en.wikipedia.org/wiki/The_Ballad_of_the_Sad_Café?oldid=599488960</value>
+</wikilink>
+</XML_Serializer_Tag>
+</books>
+</Person>

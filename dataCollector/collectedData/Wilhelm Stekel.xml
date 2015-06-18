@@ -1,0 +1,37 @@
+<Person>
+<name>Wilhelm Stekel</name>
+<variantName>
+<XML_Serializer_Tag>William Stekel</XML_Serializer_Tag>
+<XML_Serializer_Tag>W. Stekel</XML_Serializer_Tag>
+<XML_Serializer_Tag>Willie Bojan</XML_Serializer_Tag>
+<XML_Serializer_Tag>Doktor Serenus</XML_Serializer_Tag>
+<XML_Serializer_Tag>Dr. Serenus</XML_Serializer_Tag>
+<XML_Serializer_Tag>Serenus, Doktor</XML_Serializer_Tag>
+<XML_Serializer_Tag>Serenus, Dr.</XML_Serializer_Tag>
+<XML_Serializer_Tag>Shutêkeru</XML_Serializer_Tag>
+<XML_Serializer_Tag>Vilhelm Štekl</XML_Serializer_Tag>
+<XML_Serializer_Tag>V. Štekl</XML_Serializer_Tag>
+<XML_Serializer_Tag>Wiljam Štikl</XML_Serializer_Tag>
+</variantName>
+<thumbnail>https://en.wikipedia.org/wiki/Special:FilePath/Wilhelm_Stekel.jpg?width=270</thumbnail>
+<birthEN>March 18, 1868</birthEN>
+<birthDE>18. März 1868</birthDE>
+<deathEN>June 25, 1940</deathEN>
+<deathDE>25. Juni 1940</deathDE>
+<birthPlace>
+<XML_Serializer_Tag>Bojan &lt;Bukowina&gt;</XML_Serializer_Tag>
+</birthPlace>
+<deathPlace>
+<XML_Serializer_Tag>London</XML_Serializer_Tag>
+</deathPlace>
+<professionOrOccupation>
+<XML_Serializer_Tag>Psychoanalytiker</XML_Serializer_Tag>
+<XML_Serializer_Tag>Schriftsteller</XML_Serializer_Tag>
+</professionOrOccupation>
+<dbpResource>http://dbpedia.org/resource/Wilhelm_Stekel</dbpResource>
+<abstract>Wilhelm Stekel (* 18. März 1868 in Bojan, Bukowina, Österreich-Ungarn, heute Bojany/Бояни, Ukraine; † 25. Juli 1940 in London) war ein österreichischer jüdischer Arzt und Psychoanalytiker. Er spielte eine bedeutende Rolle in der frühen Geschichte der Psychoanalyse.</abstract>
+<wikilink>http://en.wikipedia.org/wiki/Wilhelm_Stekel?oldid=595682430</wikilink>
+<artworks />
+<buildings />
+<books />
+</Person>

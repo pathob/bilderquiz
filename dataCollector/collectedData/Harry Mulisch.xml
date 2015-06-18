@@ -1,0 +1,70 @@
+<Person>
+<name>Harry Mulisch</name>
+<variantName>
+<XML_Serializer_Tag>Harry Kurt Victor Mulisch</XML_Serializer_Tag>
+</variantName>
+<thumbnail>https://commons.wikimedia.org/wiki/Special:FilePath/Harry_Mulisch_2010.JPG?width=270</thumbnail>
+<birthEN>July 29, 1927</birthEN>
+<birthDE>29. Juli 1927</birthDE>
+<deathEN>October 30, 2010</deathEN>
+<deathDE>30. Oktober 2010</deathDE>
+<birthPlace>
+<XML_Serializer_Tag>Haarlem</XML_Serializer_Tag>
+</birthPlace>
+<deathPlace>
+<XML_Serializer_Tag>Amsterdam</XML_Serializer_Tag>
+</deathPlace>
+<professionOrOccupation>
+<XML_Serializer_Tag>Schriftsteller</XML_Serializer_Tag>
+</professionOrOccupation>
+<dbpResource>http://dbpedia.org/resource/Harry_Mulisch</dbpResource>
+<abstract>Harry Kurt Victor Mulisch (* 29. Juli 1927 in Haarlem; † 30. Oktober 2010 in Amsterdam) war ein niederländischer Schriftsteller. Beachtung fand er vor allem durch seine Romane Das Attentat (1982) und Die Entdeckung des Himmels (1992).</abstract>
+<wikilink>http://en.wikipedia.org/wiki/Harry_Mulisch?oldid=604656978</wikilink>
+<artworks />
+<buildings />
+<books>
+<XML_Serializer_Tag>
+<book>
+<type>uri</type>
+<value>http://dbpedia.org/resource/The_Discovery_of_Heaven</value>
+</book>
+<author>
+<type>uri</type>
+<value>http://dbpedia.org/resource/Harry_Mulisch</value>
+</author>
+<released>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>October 1992</value>
+</released>
+<wikilink>
+<type>uri</type>
+<value>http://en.wikipedia.org/wiki/The_Discovery_of_Heaven?oldid=567804582</value>
+</wikilink>
+<abstract>
+<type>literal</type>
+<xml:lang>de</xml:lang>
+<value>Die Entdeckung des Himmels (ndl. „De ontdekking van de hemel“) ist der Titel eines 1992 entstandenen Romans des niederländischen Schriftstellers Harry Mulisch. Er beschreibt die intensive Freundschaft zweier Männer, deren biographische Verzahnungen durch zwei Engel beeinflusst werden, um die beiden Tafeln der Zehn Gebote in den Himmel zurückzubringen und dadurch den biblischen Bund zwischen Gott und den Menschen aufzuheben. Mit dem für ihn typischen Humor zeigt Harry Mulisch sein enzyklopädisch anmutendes Wissen, seine Denk- und Sichtweisen und zeichnet gleichzeitig ein Gesellschaftsbild der Niederlande der 1960er bis 1980er Jahre.</value>
+</abstract>
+</XML_Serializer_Tag>
+<XML_Serializer_Tag>
+<book>
+<type>uri</type>
+<value>http://dbpedia.org/resource/The_Assault</value>
+</book>
+<author>
+<type>uri</type>
+<value>http://dbpedia.org/resource/Harry_Mulisch</value>
+</author>
+<wikilink>
+<type>uri</type>
+<value>http://en.wikipedia.org/wiki/The_Assault?oldid=600591186</value>
+</wikilink>
+<abstract>
+<type>literal</type>
+<xml:lang>de</xml:lang>
+<value>Das Attentat (niederländischer Originaltitel De Aanslag) ist ein Roman von Harry Mulisch aus dem Jahr 1982.Schuld und Verantwortung sind die zentralen Themen des Werkes. Vergangenheitsaufarbeitung ist der rote Faden, der die fünf Episoden der Geschichte durchzieht. Hauptperson ist der zu Beginn des Romans 12-jährige Anton Steenwijk, der, obwohl er es leugnet, den Rest seines Lebens mit der Untersuchung des Ausgangsgeschehens beschäftigt ist.</value>
+</abstract>
+</XML_Serializer_Tag>
+</books>
+</Person>

@@ -1,0 +1,36 @@
+<Person>
+<name>Masanobu Fukuoka</name>
+<variantName />
+<thumbnail>https://commons.wikimedia.org/wiki/Special:FilePath/Masanobu-Fukuoka.jpg?width=270</thumbnail>
+<birthEN>February 2, 1913</birthEN>
+<birthDE>2. Februar 1913</birthDE>
+<deathEN>August 16, 2008</deathEN>
+<deathDE>16. August 2008</deathDE>
+<birthPlace />
+<deathPlace />
+<professionOrOccupation>
+<XML_Serializer_Tag>Landwirt</XML_Serializer_Tag>
+<XML_Serializer_Tag>Philosoph</XML_Serializer_Tag>
+</professionOrOccupation>
+<dbpResource>http://dbpedia.org/resource/Masanobu_Fukuoka</dbpResource>
+<abstract>Fukuoka Masanobu (jap. 福岡正信; * 2. Februar 1913; † 16. August 2008) war zunächst Mikrobiologe und wurde dann Bauer. Seine Bücher sind Standardwerke in der Permakultur. Die Art seiner Landwirtschaftsmethode bezeichnet er selbst als „Nichts-Tun-Landwirtschaft“ nach dem Daoistischen Wu Wei Prinzip.Fukuoka gilt heute als Initiator der Verbreitung der Aussaattechnik der Samenbomben, die inzwischen weite Bekanntheit erlangte. Diese von ihm nach dem Zweiten Weltkrieg zunächst für seine Direktsaatmethode des pfluglosen Reisanbaus entwickelte Technik wird heute auch in der Guerillagärtnerei-Bewegung eingesetzt.1988 erhielt Fukuoka den Ramon-Magsaysay-Preis.Aufgrund des wieder gewachsenen Interesses an seinem Werk erfuhr sein Buchklassiker The One Straw Revolution (Titel der deutschen Ausgabe: Der große Weg hat kein Tor) im Jahr 2009 in den USA eine Neuauflage.</abstract>
+<wikilink>http://en.wikipedia.org/wiki/Masanobu_Fukuoka?oldid=601174126</wikilink>
+<artworks />
+<buildings />
+<books>
+<XML_Serializer_Tag>
+<book>
+<type>uri</type>
+<value>http://dbpedia.org/resource/The_One-Straw_Revolution</value>
+</book>
+<author>
+<type>uri</type>
+<value>http://dbpedia.org/resource/Masanobu_Fukuoka</value>
+</author>
+<wikilink>
+<type>uri</type>
+<value>http://en.wikipedia.org/wiki/The_One-Straw_Revolution?oldid=597462656</value>
+</wikilink>
+</XML_Serializer_Tag>
+</books>
+</Person>

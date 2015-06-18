@@ -23,8 +23,10 @@
 <XML_Serializer_Tag>Baumeister</XML_Serializer_Tag>
 <XML_Serializer_Tag>Maler</XML_Serializer_Tag>
 </professionOrOccupation>
-<artworks />
 <dbpResource>http://dbpedia.org/resource/Sebastiano_Serlio</dbpResource>
 <abstract>Sebastiano Serlio (* 6. September 1475 in Bologna; † ca. 1554 in Fontainebleau) war ein italienischer Architekt und Architekturtheoretiker. Durch seinen Traktat Sieben Bücher zur Architektur wurde er zu einem der einflussreichsten Architekturschriftsteller des 16. Jahrhunderts.</abstract>
 <wikilink>http://en.wikipedia.org/wiki/Sebastiano_Serlio?oldid=603077879</wikilink>
+<artworks />
+<buildings />
+<books />
 </Person>

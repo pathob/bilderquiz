@@ -1,0 +1,42 @@
+<Person>
+<name>Carlo Goldoni</name>
+<variantName>
+<XML_Serializer_Tag>... Goldoni-Schuster</XML_Serializer_Tag>
+<XML_Serializer_Tag>Fegejo Polisseno</XML_Serializer_Tag>
+<XML_Serializer_Tag>Poliseno Fegejo</XML_Serializer_Tag>
+<XML_Serializer_Tag>... Goldoni</XML_Serializer_Tag>
+<XML_Serializer_Tag>Polisseno Fegejo</XML_Serializer_Tag>
+<XML_Serializer_Tag>Fegejo Polisseno</XML_Serializer_Tag>
+<XML_Serializer_Tag>Poliseno Fegejo</XML_Serializer_Tag>
+<XML_Serializer_Tag>Poliseno Fegejo</XML_Serializer_Tag>
+<XML_Serializer_Tag>Karl Goldoni</XML_Serializer_Tag>
+<XML_Serializer_Tag>Carl Goldoni</XML_Serializer_Tag>
+<XML_Serializer_Tag>Karlo Golʹdoni</XML_Serializer_Tag>
+<XML_Serializer_Tag>K. Golʹdoni</XML_Serializer_Tag>
+<XML_Serializer_Tag>C. Goldoni</XML_Serializer_Tag>
+<XML_Serializer_Tag>Carlo Goldini</XML_Serializer_Tag>
+<XML_Serializer_Tag>Charles Goldoni</XML_Serializer_Tag>
+<XML_Serializer_Tag>Karlo Gkolntoni</XML_Serializer_Tag>
+</variantName>
+<thumbnail>https://commons.wikimedia.org/wiki/Special:FilePath/Carlo_Goldoni.jpg?width=270</thumbnail>
+<birthEN>February 25, 1707</birthEN>
+<birthDE>25. Februar 1707</birthDE>
+<deathEN>06./07.02.1793</deathEN>
+<deathDE>06./07.02.1793</deathDE>
+<birthPlace>
+<XML_Serializer_Tag>Venedig</XML_Serializer_Tag>
+</birthPlace>
+<deathPlace>
+<XML_Serializer_Tag>Paris</XML_Serializer_Tag>
+</deathPlace>
+<professionOrOccupation>
+<XML_Serializer_Tag>Schriftsteller</XML_Serializer_Tag>
+<XML_Serializer_Tag>Dramatiker</XML_Serializer_Tag>
+</professionOrOccupation>
+<dbpResource>http://dbpedia.org/resource/Carlo_Goldoni</dbpResource>
+<abstract>Carlo Goldoni (* 25. Februar 1707 in Venedig; † 6. Februar 1793 in Paris) war ein italienischer Komödiendichter und Librettist.</abstract>
+<wikilink>http://en.wikipedia.org/wiki/Carlo_Goldoni?oldid=592432897</wikilink>
+<artworks />
+<buildings />
+<books />
+</Person>

@@ -1,0 +1,29 @@
+<Person>
+<name>Heinrich Seidel</name>
+<variantName>
+<XML_Serializer_Tag>Heinz Seidel</XML_Serializer_Tag>
+<XML_Serializer_Tag>H. Seidel</XML_Serializer_Tag>
+<XML_Serializer_Tag>Heinrich Seidl</XML_Serializer_Tag>
+</variantName>
+<thumbnail>https://commons.wikimedia.org/wiki/Special:FilePath/Heinrich_seidel.jpg?width=270</thumbnail>
+<birthEN>June 25, 1842</birthEN>
+<birthDE>25. Juni 1842</birthDE>
+<deathEN>November 7, 1906</deathEN>
+<deathDE>7. November 1906</deathDE>
+<birthPlace>
+<XML_Serializer_Tag>Perlin</XML_Serializer_Tag>
+</birthPlace>
+<deathPlace>
+<XML_Serializer_Tag>Berlin</XML_Serializer_Tag>
+</deathPlace>
+<professionOrOccupation>
+<XML_Serializer_Tag>Schriftsteller</XML_Serializer_Tag>
+<XML_Serializer_Tag>Bauingenieur</XML_Serializer_Tag>
+</professionOrOccupation>
+<dbpResource>http://dbpedia.org/resource/Heinrich_Seidel</dbpResource>
+<abstract>Heinrich Friedrich Wilhelm Karl Philipp Georg Eduard Seidel (* 25. Juni 1842 in Perlin, Mecklenburg-Schwerin; † 7. November 1906 in Groß-Lichterfelde bei Berlin) war ein deutscher Ingenieur und Schriftsteller.</abstract>
+<wikilink>http://en.wikipedia.org/wiki/Heinrich_Seidel?oldid=579981268</wikilink>
+<artworks />
+<buildings />
+<books />
+</Person>

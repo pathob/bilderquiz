@@ -28,8 +28,10 @@
 <XML_Serializer_Tag>Künstler</XML_Serializer_Tag>
 <XML_Serializer_Tag>Maler</XML_Serializer_Tag>
 </professionOrOccupation>
-<artworks />
 <dbpResource>http://dbpedia.org/resource/Jan_Boeckhorst</dbpResource>
 <abstract>Johann Bockhorst (auch Jan Boeckhorst, genannt Langer Jan; * 1604 in Münster (Westfalen); † 21. April 1668 in Antwerpen) war ein deutscher Maler der Barockzeit.Er war ein enger Mitarbeiter von Peter Paul Rubens. Bockhorst pflegte seine Werke selten zu signieren oder datieren. Deswegen wurden manche seiner Arbeiten Rubens oder Anthon van Dyck, mit dem er eng befreundet war, zugewiesen. Die Kunstgeschichte schreibt ihm jedoch inzwischen viele seiner Werke durch Stilvergleich zu oder belegt seine Urheberschaft vereinzelt durch Archivalien. Mit seinen Heiligenbildern stellte er sich in den Dienst der Gegenreformation. Bockhorst wird den flämischen Malern zugerechnet.</abstract>
 <wikilink>http://en.wikipedia.org/wiki/Jan_Boeckhorst?oldid=601608123</wikilink>
+<artworks />
+<buildings />
+<books />
 </Person>

@@ -1,0 +1,301 @@
+<Person>
+<name>George Orwell</name>
+<variantName>
+<XML_Serializer_Tag>Eric A. Blair</XML_Serializer_Tag>
+<XML_Serializer_Tag>Eric Arthur Blair</XML_Serializer_Tag>
+<XML_Serializer_Tag>Džordž Orvell</XML_Serializer_Tag>
+<XML_Serializer_Tag>Georg Orvell</XML_Serializer_Tag>
+<XML_Serializer_Tag>Georg Orwell</XML_Serializer_Tag>
+<XML_Serializer_Tag>ǰorǰ Ôrwel</XML_Serializer_Tag>
+<XML_Serializer_Tag>Ǧarǧ Orwal</XML_Serializer_Tag>
+<XML_Serializer_Tag>ǰorǰ Ôrwêl</XML_Serializer_Tag>
+<XML_Serializer_Tag>Džordžs Orvels</XML_Serializer_Tag>
+<XML_Serializer_Tag>Jārg Ārvel</XML_Serializer_Tag>
+<XML_Serializer_Tag>Ǧurǧ Ūrwal</XML_Serializer_Tag>
+<XML_Serializer_Tag>Džordž Oruėll</XML_Serializer_Tag>
+<XML_Serializer_Tag>Eric Blair</XML_Serializer_Tag>
+</variantName>
+<thumbnail>https://commons.wikimedia.org/wiki/Special:FilePath/George_Orwell_press_photo.jpg?width=270</thumbnail>
+<birthEN>June 25, 1903</birthEN>
+<birthDE>25. Juni 1903</birthDE>
+<deathEN>January 21, 1950</deathEN>
+<deathDE>21. Januar 1950</deathDE>
+<birthPlace>
+<XML_Serializer_Tag>Motihari</XML_Serializer_Tag>
+</birthPlace>
+<deathPlace>
+<XML_Serializer_Tag>London</XML_Serializer_Tag>
+</deathPlace>
+<professionOrOccupation>
+<XML_Serializer_Tag>Schriftsteller</XML_Serializer_Tag>
+<XML_Serializer_Tag>Journalist</XML_Serializer_Tag>
+<XML_Serializer_Tag>Essayist</XML_Serializer_Tag>
+<XML_Serializer_Tag>Polizeibeamter</XML_Serializer_Tag>
+</professionOrOccupation>
+<dbpResource>http://dbpedia.org/resource/George_Orwell</dbpResource>
+<abstract>George Orwell (* 25. Juni 1903 in Motihari, Bihar, Britisch-Indien als Eric Arthur Blair; † 21. Januar 1950 in London) war ein englischer Schriftsteller, Essayist und Journalist. Durch seine Werke Farm der Tiere und 1984 wurde Orwell weltbekannt und zählt heute mit seinem Gesamtwerk zu den bedeutendsten Schriftstellern der englischen Literatur. Orwell benutzte zeitweise auch das weitere Pseudonym H. Lewis Always.</abstract>
+<wikilink>http://en.wikipedia.org/wiki/George_Orwell?oldid=606631951</wikilink>
+<artworks />
+<buildings />
+<books>
+<XML_Serializer_Tag>
+<book>
+<type>uri</type>
+<value>http://dbpedia.org/resource/Keep_the_Aspidistra_Flying</value>
+</book>
+<author>
+<type>uri</type>
+<value>http://dbpedia.org/resource/George_Orwell</value>
+</author>
+<thumbnail>
+<type>uri</type>
+<value>http://commons.wikimedia.org/wiki/Special:FilePath/Aspidistra_elatior_-_01.jpg?width=300</value>
+</thumbnail>
+<released>
+<type>typed-literal</type>
+<datatype>http://www.w3.org/2001/XMLSchema#date</datatype>
+<value>1936-04-20+02:00</value>
+</released>
+<wikilink>
+<type>uri</type>
+<value>http://en.wikipedia.org/wiki/Keep_the_Aspidistra_Flying?oldid=606006950</value>
+</wikilink>
+<abstract>
+<type>literal</type>
+<xml:lang>de</xml:lang>
+<value>Die Wonnen der Aspidistra (englisches Original: Keep the Aspidistra flying) ist ein Roman von George Orwell aus dem Jahr 1936. Der Held des Romans ist ein Dichter im London der 1930er Jahre, der sich der Erwerbsgesellschaft zu verweigern versucht und dabei radikal scheitert.</value>
+</abstract>
+</XML_Serializer_Tag>
+<XML_Serializer_Tag>
+<book>
+<type>uri</type>
+<value>http://dbpedia.org/resource/Homage_to_Catalonia</value>
+</book>
+<author>
+<type>uri</type>
+<value>http://dbpedia.org/resource/George_Orwell</value>
+</author>
+<thumbnail>
+<type>uri</type>
+<value>http://commons.wikimedia.org/wiki/Special:FilePath/Guerra_Civil_Española.svg?width=300</value>
+</thumbnail>
+<released>
+<type>typed-literal</type>
+<datatype>http://www.w3.org/2001/XMLSchema#date</datatype>
+<value>1938-04-25+02:00</value>
+</released>
+<wikilink>
+<type>uri</type>
+<value>http://en.wikipedia.org/wiki/Homage_to_Catalonia?oldid=604796431</value>
+</wikilink>
+<abstract>
+<type>literal</type>
+<xml:lang>de</xml:lang>
+<value>Mein Katalonien (engl.: Homage to Catalonia) ist ein 1938 in London herausgegebenes Buch von George Orwell über seine Erlebnisse im Spanischen Bürgerkrieg. Die deutsche Erstausgabe erschien 1964.</value>
+</abstract>
+</XML_Serializer_Tag>
+<XML_Serializer_Tag>
+<book>
+<type>uri</type>
+<value>http://dbpedia.org/resource/Animal_Farm</value>
+</book>
+<author>
+<type>uri</type>
+<value>http://dbpedia.org/resource/George_Orwell</value>
+</author>
+<thumbnail>
+<type>uri</type>
+<value>http://commons.wikimedia.org/wiki/Special:FilePath/AnimalFarm_1stEd.jpg?width=300</value>
+</thumbnail>
+<published>
+<type>typed-literal</type>
+<datatype>http://www.w3.org/2001/XMLSchema#date</datatype>
+<value>1945-08-17+02:00</value>
+</published>
+<wikilink>
+<type>uri</type>
+<value>http://en.wikipedia.org/wiki/Animal_Farm?oldid=606144671</value>
+</wikilink>
+<abstract>
+<type>literal</type>
+<xml:lang>de</xml:lang>
+<value>Farm der Tiere (Originaltitel: Animal Farm) ist ein Roman von George Orwell, erschienen im Jahr 1945. Inhalt ist die Erhebung der Tiere einer englischen Farm gegen die Herrschaft ihres menschlichen Besitzers, der sie vernachlässigt und ausbeutet. Nach anfänglichen Erfolgen und beginnendem Wohlstand übernehmen die Schweine immer mehr die Führung und errichten schließlich eine Gewaltherrschaft, die schlimmer ist als diejenige, welche die Tiere abschütteln wollten.Aufgrund seines Inhaltes wurde der Roman als Parabel auf die Geschichte der Sowjetunion interpretiert, bei der auf die vom Volk getragene Oktoberrevolution letztlich die diktatorische Herrschaft Stalins folgte.</value>
+</abstract>
+</XML_Serializer_Tag>
+<XML_Serializer_Tag>
+<book>
+<type>uri</type>
+<value>http://dbpedia.org/resource/Nineteen_Eighty-Four</value>
+</book>
+<author>
+<type>uri</type>
+<value>http://dbpedia.org/resource/George_Orwell</value>
+</author>
+<thumbnail>
+<type>uri</type>
+<value>http://en.wikipedia.org/wiki/Special:FilePath/1984first.jpg?width=300</value>
+</thumbnail>
+<published>
+<type>typed-literal</type>
+<datatype>http://www.w3.org/2001/XMLSchema#date</datatype>
+<value>1949-06-08+02:00</value>
+</published>
+<wikilink>
+<type>uri</type>
+<value>http://en.wikipedia.org/wiki/Nineteen_Eighty-Four?oldid=606367246</value>
+</wikilink>
+<abstract>
+<type>literal</type>
+<xml:lang>de</xml:lang>
+<value>1984 (Originaltitel: Nineteen Eighty-Four), geschrieben von 1946 bis 1948 und erschienen im Juni 1949, ist ein dystopischer Roman von George Orwell (eigentlich Eric Arthur Blair), in dem ein totalitärer Präventions- und Überwachungsstaat im Jahre 1984 dargestellt wird. Protagonist der Handlung ist Winston Smith, ein einfaches Mitglied der diktatorisch herrschenden Staatspartei, der sich der allgegenwärtigen Überwachung zum Trotz seine Privatsphäre sichern will und dadurch in Konflikt mit dem System gerät, das ihn einer Gehirnwäsche unterzieht.Orwell begann mit der Verfassung des Buches im Jahr 1946 während seines Aufenthaltes auf der Insel Jura vor der Küste Schottlands und stellte es Ende 1948 fertig. Der Titel enthält den Zahlendreher des Jahres 1948 zu 1984 als Anspielung auf eine zwar damals noch fern erscheinende, aber (ähnlich wie Orwells vorangegangener Roman Farm der Tiere) doch eng mit der damaligen Gegenwart verknüpfte Zukunft. Die Erstausgabe des Buches kam in London am 8. Juni 1949 in den Verkauf.Der Roman wird oft dann zitiert bzw. sein Titel oder der Name Orwell genannt, wenn es darum geht, staatliche Überwachungsmaßnahmen kritisch zu kommentieren oder auf Tendenzen zu einem Überwachungsstaat hinzuweisen.</value>
+</abstract>
+</XML_Serializer_Tag>
+<XML_Serializer_Tag>
+<book>
+<type>uri</type>
+<value>http://dbpedia.org/resource/Down_and_Out_in_Paris_and_London</value>
+</book>
+<author>
+<type>uri</type>
+<value>http://dbpedia.org/resource/George_Orwell</value>
+</author>
+<thumbnail>
+<type>uri</type>
+<value>http://commons.wikimedia.org/wiki/Special:FilePath/Rue_du_Pot-de-Fer.JPG?width=300</value>
+</thumbnail>
+<wikilink>
+<type>uri</type>
+<value>http://en.wikipedia.org/wiki/Down_and_Out_in_Paris_and_London?oldid=581756979</value>
+</wikilink>
+<abstract>
+<type>literal</type>
+<xml:lang>de</xml:lang>
+<value>Erledigt in Paris und London (im engl. Original Down and Out in Paris and London) ist ein früher Erlebnisbericht von George Orwell, erschienen im Jahr 1933.</value>
+</abstract>
+</XML_Serializer_Tag>
+<XML_Serializer_Tag>
+<book>
+<type>uri</type>
+<value>http://dbpedia.org/resource/Coming_Up_for_Air</value>
+</book>
+<author>
+<type>uri</type>
+<value>http://dbpedia.org/resource/George_Orwell</value>
+</author>
+<released>
+<type>typed-literal</type>
+<datatype>http://www.w3.org/2001/XMLSchema#date</datatype>
+<value>1939-06-12+02:00</value>
+</released>
+<wikilink>
+<type>uri</type>
+<value>http://en.wikipedia.org/wiki/Coming_Up_for_Air?oldid=605735328</value>
+</wikilink>
+<abstract>
+<type>literal</type>
+<xml:lang>de</xml:lang>
+<value>Auftauchen, um Luft zu holen (Originaltitel: Coming Up for Air) ist ein im Juni 1939 veröffentlichtes Buch von George Orwell.</value>
+</abstract>
+</XML_Serializer_Tag>
+<XML_Serializer_Tag>
+<book>
+<type>uri</type>
+<value>http://dbpedia.org/resource/The_Road_to_Wigan_Pier</value>
+</book>
+<author>
+<type>uri</type>
+<value>http://dbpedia.org/resource/George_Orwell</value>
+</author>
+<released>
+<type>typed-literal</type>
+<datatype>http://www.w3.org/2001/XMLSchema#gMonthDay</datatype>
+<value>0001-03-08+02:00</value>
+</released>
+<wikilink>
+<type>uri</type>
+<value>http://en.wikipedia.org/wiki/The_Road_to_Wigan_Pier?oldid=606314533</value>
+</wikilink>
+<abstract>
+<type>literal</type>
+<xml:lang>de</xml:lang>
+<value>Der Weg nach Wigan Pier (engl. The Road to Wigan Pier, veröffentlicht 1937 in London von Victor Gollancz Ltd.) ist eines der bedeutendsten Werke George Orwells.</value>
+</abstract>
+</XML_Serializer_Tag>
+<XML_Serializer_Tag>
+<book>
+<type>uri</type>
+<value>http://dbpedia.org/resource/Burmese_Days</value>
+</book>
+<author>
+<type>uri</type>
+<value>http://dbpedia.org/resource/George_Orwell</value>
+</author>
+<released>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>October 1934</value>
+</released>
+<wikilink>
+<type>uri</type>
+<value>http://en.wikipedia.org/wiki/Burmese_Days?oldid=600096401</value>
+</wikilink>
+<abstract>
+<type>literal</type>
+<xml:lang>de</xml:lang>
+<value>Tage in Burma (Burmese Days) ist ein Roman von George Orwell, der in den 1920er Jahren im vom zerfallenden British Empire kolonisierten Birma spielt.</value>
+</abstract>
+</XML_Serializer_Tag>
+<XML_Serializer_Tag>
+<book>
+<type>uri</type>
+<value>http://dbpedia.org/resource/Inside_the_Whale_and_Other_Essays</value>
+</book>
+<author>
+<type>uri</type>
+<value>http://dbpedia.org/resource/George_Orwell</value>
+</author>
+<released>
+<type>typed-literal</type>
+<datatype>http://www.w3.org/2001/XMLSchema#date</datatype>
+<value>1940-03-11+02:00</value>
+</released>
+<wikilink>
+<type>uri</type>
+<value>http://en.wikipedia.org/wiki/Inside_the_Whale_and_Other_Essays?oldid=603658221</value>
+</wikilink>
+</XML_Serializer_Tag>
+<XML_Serializer_Tag>
+<book>
+<type>uri</type>
+<value>http://dbpedia.org/resource/A_Clergyman&apos;s_Daughter</value>
+</book>
+<author>
+<type>uri</type>
+<value>http://dbpedia.org/resource/George_Orwell</value>
+</author>
+<published>
+<type>typed-literal</type>
+<datatype>http://www.w3.org/2001/XMLSchema#integer</datatype>
+<value>1935</value>
+</published>
+<wikilink>
+<type>uri</type>
+<value>http://en.wikipedia.org/wiki/A_Clergyman&apos;s_Daughter?oldid=606481168</value>
+</wikilink>
+</XML_Serializer_Tag>
+<XML_Serializer_Tag>
+<book>
+<type>uri</type>
+<value>http://dbpedia.org/resource/Decline_of_the_English_Murder</value>
+</book>
+<author>
+<type>uri</type>
+<value>http://dbpedia.org/resource/George_Orwell</value>
+</author>
+<wikilink>
+<type>uri</type>
+<value>http://en.wikipedia.org/wiki/Decline_of_the_English_Murder?oldid=602472436</value>
+</wikilink>
+</XML_Serializer_Tag>
+</books>
+</Person>

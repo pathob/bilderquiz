@@ -1,0 +1,33 @@
+<Person>
+<name>Heinrich Zille</name>
+<variantName>
+<XML_Serializer_Tag>Pinselheinrich</XML_Serializer_Tag>
+<XML_Serializer_Tag>W. Pfeifer</XML_Serializer_Tag>
+<XML_Serializer_Tag>H. Zille</XML_Serializer_Tag>
+<XML_Serializer_Tag>Rudolf Heinrich Zille</XML_Serializer_Tag>
+</variantName>
+<thumbnail>https://commons.wikimedia.org/wiki/Special:FilePath/WP_Zille_Selbstporträt.jpg?width=270</thumbnail>
+<birthEN>January 10, 1858</birthEN>
+<birthDE>10. Januar 1858</birthDE>
+<deathEN>August 9, 1929</deathEN>
+<deathDE>9. August 1929</deathDE>
+<birthPlace>
+<XML_Serializer_Tag>Radeburg</XML_Serializer_Tag>
+</birthPlace>
+<deathPlace>
+<XML_Serializer_Tag>Berlin</XML_Serializer_Tag>
+</deathPlace>
+<professionOrOccupation>
+<XML_Serializer_Tag>Zeichner</XML_Serializer_Tag>
+<XML_Serializer_Tag>Graphiker</XML_Serializer_Tag>
+<XML_Serializer_Tag>Photograph</XML_Serializer_Tag>
+<XML_Serializer_Tag>Künstler</XML_Serializer_Tag>
+<XML_Serializer_Tag>Schriftsteller</XML_Serializer_Tag>
+</professionOrOccupation>
+<dbpResource>http://dbpedia.org/resource/Heinrich_Zille</dbpResource>
+<abstract>Heinrich Rudolf Zille (* 10. Januar 1858 in Radeburg bei Dresden; † 9. August 1929 in Berlin) war ein deutscher Grafiker, Maler und Fotograf. In seiner Kunst bevorzugte der „Pinselheinrich“ genannte Zille Themen aus dem Berliner Volksleben, das er ebenso lokalpatriotisch wie sozialkritisch darstellte.</abstract>
+<wikilink>http://en.wikipedia.org/wiki/Heinrich_Zille?oldid=593134269</wikilink>
+<artworks />
+<buildings />
+<books />
+</Person>

@@ -1,0 +1,48 @@
+<Person>
+<name>Charlotte Mary Yonge</name>
+<variantName>
+<XML_Serializer_Tag>Charlotte M. Yonge</XML_Serializer_Tag>
+<XML_Serializer_Tag>C. M. Yonge</XML_Serializer_Tag>
+<XML_Serializer_Tag>... Yonge</XML_Serializer_Tag>
+</variantName>
+<thumbnail>https://commons.wikimedia.org/wiki/Special:FilePath/Charlotte_Mary_Yonge.jpg?width=270</thumbnail>
+<birthEN>August 11, 1823</birthEN>
+<birthDE>11. August 1823</birthDE>
+<deathEN>May 24, 1901</deathEN>
+<deathDE>24. Mai 1901</deathDE>
+<birthPlace>
+<XML_Serializer_Tag>Otterbourne</XML_Serializer_Tag>
+</birthPlace>
+<deathPlace>
+<XML_Serializer_Tag>Otterbourne</XML_Serializer_Tag>
+</deathPlace>
+<professionOrOccupation>
+<XML_Serializer_Tag>Schriftstellerin</XML_Serializer_Tag>
+</professionOrOccupation>
+<dbpResource>http://dbpedia.org/resource/Charlotte_Mary_Yonge</dbpResource>
+<abstract>Charlotte Mary Yonge (* 11. August 1823 in Otterbourne in Hampshire; † 24. Mai 1901 ebenda), war eine englische Schriftstellerin des Viktorianischen Zeitalters.Sie erhielt ihre Erziehung durch ihre Eltern und verbrachte ihr gesamtes Leben in ihrem Heimatort. 1841 begann sie mit der Veröffentlichung ihrer ersten Werke, die zumeist von einer christlichen Grundeinstellung geprägt sind und häufig erzieherischen Charakter aufweisen. Sie war eine ungemein produktive Schreiberin und verfasste über 200 Werke, die von einer großen Leserschaft aufgenommen wurden. Dazu war sie über 40 Jahre Herausgeberin eines Magazins für junge Mädchen.</abstract>
+<wikilink>http://en.wikipedia.org/wiki/Charlotte_Mary_Yonge?oldid=597634414</wikilink>
+<artworks />
+<buildings />
+<books>
+<XML_Serializer_Tag>
+<book>
+<type>uri</type>
+<value>http://dbpedia.org/resource/The_Heir_of_Redclyffe</value>
+</book>
+<author>
+<type>uri</type>
+<value>http://dbpedia.org/resource/Charlotte_Mary_Yonge</value>
+</author>
+<released>
+<type>typed-literal</type>
+<datatype>http://www.w3.org/2001/XMLSchema#integer</datatype>
+<value>1853</value>
+</released>
+<wikilink>
+<type>uri</type>
+<value>http://en.wikipedia.org/wiki/The_Heir_of_Redclyffe?oldid=557100549</value>
+</wikilink>
+</XML_Serializer_Tag>
+</books>
+</Person>

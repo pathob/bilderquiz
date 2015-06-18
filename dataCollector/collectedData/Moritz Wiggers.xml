@@ -1,0 +1,28 @@
+<Person>
+<name>Moritz Wiggers</name>
+<variantName>
+<XML_Serializer_Tag>Moritz Carl Georg Wiggers</XML_Serializer_Tag>
+</variantName>
+<thumbnail>https://commons.wikimedia.org/wiki/Special:FilePath/Moritz_Wiggers_(1816-1894).jpg?width=270</thumbnail>
+<birthEN>October 17, 1816</birthEN>
+<birthDE>17. Oktober 1816</birthDE>
+<deathEN>July 30, 1894</deathEN>
+<deathDE>30. Juli 1894</deathDE>
+<birthPlace>
+<XML_Serializer_Tag>Rostock</XML_Serializer_Tag>
+</birthPlace>
+<deathPlace>
+<XML_Serializer_Tag>Rostock</XML_Serializer_Tag>
+</deathPlace>
+<professionOrOccupation>
+<XML_Serializer_Tag>Jurist</XML_Serializer_Tag>
+<XML_Serializer_Tag>Politiker</XML_Serializer_Tag>
+<XML_Serializer_Tag>Schriftsteller</XML_Serializer_Tag>
+</professionOrOccupation>
+<dbpResource>http://dbpedia.org/resource/Moritz_Wiggers</dbpResource>
+<abstract>Moritz Wiggers (* 17. Oktober 1816 in Rostock; † 30. Juli 1894 ebenda; vollständiger Name: Moritz Carl Georg Wiggers) war ein deutscher Jurist und Politiker.</abstract>
+<wikilink>http://en.wikipedia.org/wiki/Moritz_Wiggers?oldid=543222397</wikilink>
+<artworks />
+<buildings />
+<books />
+</Person>

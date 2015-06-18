@@ -1,0 +1,22 @@
+<Person>
+<name>Lina Morgenstern</name>
+<variantName>
+<XML_Serializer_Tag>Lina Bauer</XML_Serializer_Tag>
+</variantName>
+<thumbnail>https://commons.wikimedia.org/wiki/Special:FilePath/Lina_Morgenstern_2.jpg?width=270</thumbnail>
+<birthEN>November 25, 1830</birthEN>
+<birthDE>25. November 1830</birthDE>
+<deathEN>December 16, 1909</deathEN>
+<deathDE>16. Dezember 1909</deathDE>
+<birthPlace />
+<deathPlace />
+<professionOrOccupation>
+<XML_Serializer_Tag>Schriftstellerin</XML_Serializer_Tag>
+</professionOrOccupation>
+<dbpResource>http://dbpedia.org/resource/Lina_Morgenstern</dbpResource>
+<abstract>Lina Morgenstern (geb. Bauer, * 25. November 1830 in Breslau; † 16. Dezember 1909 in Berlin) war eine deutsche Schriftstellerin, Frauenrechtlerin und Sozialaktivistin.</abstract>
+<wikilink>http://en.wikipedia.org/wiki/Lina_Morgenstern?oldid=572707498</wikilink>
+<artworks />
+<buildings />
+<books />
+</Person>

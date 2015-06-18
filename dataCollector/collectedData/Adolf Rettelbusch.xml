@@ -16,8 +16,10 @@
 <XML_Serializer_Tag>Künstler</XML_Serializer_Tag>
 <XML_Serializer_Tag>Maler</XML_Serializer_Tag>
 </professionOrOccupation>
-<artworks />
 <dbpResource>http://dbpedia.org/resource/Adolf_Rettelbusch</dbpResource>
 <abstract>Johann Adolf Rettelbusch (* 15. Dezember 1858 in Kammerforst; † 8. Januar 1934 in Magdeburg) war Maler und trägt den Beinamen Brockenmaler.</abstract>
 <wikilink>http://en.wikipedia.org/wiki/Adolf_Rettelbusch?oldid=604294802</wikilink>
+<artworks />
+<buildings />
+<books />
 </Person>

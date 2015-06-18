@@ -1,0 +1,26 @@
+<Person>
+<name>Ben Hecht</name>
+<variantName />
+<thumbnail>https://commons.wikimedia.org/wiki/Special:FilePath/Hecht_Earlyportrait.JPG?width=270</thumbnail>
+<birthEN>February 28, 1894</birthEN>
+<birthDE>28. Februar 1894</birthDE>
+<deathEN>April 18, 1964</deathEN>
+<deathDE>18. April 1964</deathDE>
+<birthPlace>
+<XML_Serializer_Tag>New York, NY</XML_Serializer_Tag>
+</birthPlace>
+<deathPlace>
+<XML_Serializer_Tag>New York, NY</XML_Serializer_Tag>
+</deathPlace>
+<professionOrOccupation>
+<XML_Serializer_Tag>Journalist</XML_Serializer_Tag>
+<XML_Serializer_Tag>Schriftsteller</XML_Serializer_Tag>
+<XML_Serializer_Tag>Drehbuchautor</XML_Serializer_Tag>
+</professionOrOccupation>
+<dbpResource>http://dbpedia.org/resource/Ben_Hecht</dbpResource>
+<abstract>Ben Hecht (* 28. Februar 1894 in New York; † 18. April 1964 ebenda) war ein US-amerikanischer Journalist, Schriftsteller, Drehbuchautor und Filmregisseur. Er war einer der begehrtesten Drehbuchautoren Hollywoods und arbeitete mit Regisseuren wie Alfred Hitchcock, Howard Hawks, Otto Preminger, John Ford und Ernst Lubitsch an einigen der bekanntesten Werke der Filmgeschichte mit, wobei er sich gleichermaßen auf das Schreiben von Dramen, Thrillern und Komödien verstand. Hecht wurde sechsmal für den Oscar nominiert und gewann ihn zweimal.</abstract>
+<wikilink>http://en.wikipedia.org/wiki/Ben_Hecht?oldid=603751896</wikilink>
+<artworks />
+<buildings />
+<books />
+</Person>

@@ -1,0 +1,34 @@
+<Person>
+<name>Adolf Paul</name>
+<variantName>
+<XML_Serializer_Tag>Adolf Georg Paul</XML_Serializer_Tag>
+<XML_Serializer_Tag>Georg Wiedersheim</XML_Serializer_Tag>
+<XML_Serializer_Tag>A. Paul</XML_Serializer_Tag>
+<XML_Serializer_Tag>Adolf G. Paul</XML_Serializer_Tag>
+<XML_Serializer_Tag>Adolf Paul</XML_Serializer_Tag>
+<XML_Serializer_Tag>Adolf Georg Paul</XML_Serializer_Tag>
+</variantName>
+<thumbnail>https://commons.wikimedia.org/wiki/Special:FilePath/Adolf_Paul_Helsingfors.jpg?width=270</thumbnail>
+<birthEN>January 6, 1863</birthEN>
+<birthDE>6. Januar 1863</birthDE>
+<deathEN>September 30, 1943</deathEN>
+<deathDE>30. September 1943</deathDE>
+<birthPlace>
+<XML_Serializer_Tag>Bromö (Schweden)</XML_Serializer_Tag>
+</birthPlace>
+<deathPlace>
+<XML_Serializer_Tag>Berlin</XML_Serializer_Tag>
+</deathPlace>
+<professionOrOccupation>
+<XML_Serializer_Tag>Schriftsteller</XML_Serializer_Tag>
+<XML_Serializer_Tag>Übersetzer</XML_Serializer_Tag>
+<XML_Serializer_Tag>Drehbuchautor</XML_Serializer_Tag>
+<XML_Serializer_Tag>Schauspieler</XML_Serializer_Tag>
+</professionOrOccupation>
+<dbpResource>http://dbpedia.org/resource/Adolf_Paul</dbpResource>
+<abstract>Adolf Paul (* 6. Januar 1863 auf der Insel Bromö im Vänersee; † 30. September 1943 in Berlin) war ein deutsch-schwedisch-finnischer Schriftsteller.</abstract>
+<wikilink>http://en.wikipedia.org/wiki/Adolf_Paul?oldid=604930192</wikilink>
+<artworks />
+<buildings />
+<books />
+</Person>

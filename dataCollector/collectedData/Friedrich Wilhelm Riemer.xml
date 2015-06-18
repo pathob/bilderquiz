@@ -1,0 +1,25 @@
+<Person>
+<name>Friedrich Wilhelm Riemer</name>
+<variantName>
+<XML_Serializer_Tag>Sylvio Romano</XML_Serializer_Tag>
+<XML_Serializer_Tag>Friedrich W. Riemer</XML_Serializer_Tag>
+</variantName>
+<thumbnail>https://commons.wikimedia.org/wiki/Special:FilePath/FriedrichWilhelmRiemer.jpg?width=270</thumbnail>
+<birthEN>1774</birthEN>
+<birthDE>1774</birthDE>
+<deathEN>1845</deathEN>
+<deathDE>1845</deathDE>
+<birthPlace />
+<deathPlace />
+<professionOrOccupation>
+<XML_Serializer_Tag>Philologe</XML_Serializer_Tag>
+<XML_Serializer_Tag>Lehrer</XML_Serializer_Tag>
+<XML_Serializer_Tag>Schriftsteller</XML_Serializer_Tag>
+</professionOrOccupation>
+<dbpResource>http://dbpedia.org/resource/Friedrich_Wilhelm_Riemer</dbpResource>
+<abstract>Friedrich Wilhelm Riemer (* 19. April 1774 in Glatz; † 19. Dezember 1845 in Weimar), Pseudonym Silvio Romano, war ein deutscher Philologe, Schriftsteller, Bibliothekar in Weimar, seit 1814 Goethes Sekretär und ab 1841 Geheimer Hofrat in Weimar.</abstract>
+<wikilink>http://en.wikipedia.org/wiki/Friedrich_Wilhelm_Riemer?oldid=603227348</wikilink>
+<artworks />
+<buildings />
+<books />
+</Person>

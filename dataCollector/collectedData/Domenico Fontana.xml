@@ -1,0 +1,55 @@
+<Person>
+<name>Domenico Fontana</name>
+<variantName>
+<XML_Serializer_Tag>Domenicus Fontana</XML_Serializer_Tag>
+</variantName>
+<thumbnail>https://commons.wikimedia.org/wiki/Special:FilePath/Domenico_Fontana.png?width=270</thumbnail>
+<birthEN>1543</birthEN>
+<birthDE>1543</birthDE>
+<deathEN>1607</deathEN>
+<deathDE>1607</deathDE>
+<birthPlace />
+<deathPlace />
+<professionOrOccupation>
+<XML_Serializer_Tag>Architekt</XML_Serializer_Tag>
+</professionOrOccupation>
+<dbpResource>http://dbpedia.org/resource/Domenico_Fontana</dbpResource>
+<abstract>Domenico Fontana (* 1543 in Melide; † 28. Juni 1607 in Neapel) war ein in Italien tätiger Architekt, Maler und Bildhauer des Manierismus in der späten Renaissance aus dem heutigen Kanton Tessin (Schweiz).</abstract>
+<wikilink>http://en.wikipedia.org/wiki/Domenico_Fontana?oldid=605840622</wikilink>
+<artworks />
+<buildings>
+<XML_Serializer_Tag>
+<building>
+<type>uri</type>
+<value>http://dbpedia.org/resource/Quirinal_Palace</value>
+</building>
+<name>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>Palazzo del Quirinale</value>
+</name>
+<architect>
+<type>uri</type>
+<value>http://dbpedia.org/resource/Domenico_Fontana</value>
+</architect>
+<thumbnail>
+<type>uri</type>
+<value>http://commons.wikimedia.org/wiki/Special:FilePath/RomaPalazzoQuirinale.JPG?width=300</value>
+</thumbnail>
+<wikilink>
+<type>uri</type>
+<value>http://en.wikipedia.org/wiki/Quirinal_Palace?oldid=601369955</value>
+</wikilink>
+<location>
+<type>uri</type>
+<value>http://dbpedia.org/resource/Rome</value>
+</location>
+<abstract>
+<type>literal</type>
+<xml:lang>de</xml:lang>
+<value>Der Quirinalspalast (ital. Palazzo del Quirinale oder kurz Quirinale) ist ein ab 1583 errichteter Palast auf dem Quirinal in Rom. Er ist Dienstsitz des Präsidenten der Republik Italien.</value>
+</abstract>
+</XML_Serializer_Tag>
+</buildings>
+<books />
+</Person>

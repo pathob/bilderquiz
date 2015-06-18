@@ -1,0 +1,27 @@
+<Person>
+<name>Beatrice Dovsky</name>
+<variantName>
+<XML_Serializer_Tag>Beatrice von Dovsky</XML_Serializer_Tag>
+<XML_Serializer_Tag>Beatriz Dovsky</XML_Serializer_Tag>
+</variantName>
+<thumbnail>https://commons.wikimedia.org/wiki/Special:FilePath/Beatrice_Dovsky_1893_Vilimek.jpg?width=270</thumbnail>
+<birthEN>July 14, 1866</birthEN>
+<birthDE>14. Juli 1866</birthDE>
+<deathEN>November 18, 1923</deathEN>
+<deathDE>18. November 1923</deathDE>
+<birthPlace />
+<deathPlace>
+<XML_Serializer_Tag>Wien</XML_Serializer_Tag>
+</deathPlace>
+<professionOrOccupation>
+<XML_Serializer_Tag>Librettistin</XML_Serializer_Tag>
+<XML_Serializer_Tag>Schauspielerin</XML_Serializer_Tag>
+<XML_Serializer_Tag>Schriftstellerin</XML_Serializer_Tag>
+</professionOrOccupation>
+<dbpResource>http://dbpedia.org/resource/Beatrice_von_Dovsky</dbpResource>
+<abstract>Beatrice (von) Dovsky (* 14. Juli 1866 in Wien; † 18. November 1923 in Wien) war eine österreichische Dichterin, Schriftstellerin und Schauspielerin.Zu Dovskys Werken zählen Gedichte, Kurzprosa und Märchen, z. B. „Der Wiener Fratz“, die „Die Gnä&apos; Frau“, die „Zwölf Märchen aus der Ostmark“ (1913) und die Reise-Erzählung „Von Penzing nach Peking“, Wien 1901. Sie wurde auf dem Friedhof Hietzing in Wien beigesetzt.1936 wurde die Dovskygasse in Wien-Hietzing nach ihr benannt.</abstract>
+<wikilink>http://en.wikipedia.org/wiki/Beatrice_von_Dovsky?oldid=606353486</wikilink>
+<artworks />
+<buildings />
+<books />
+</Person>

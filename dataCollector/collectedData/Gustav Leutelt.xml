@@ -1,0 +1,26 @@
+<Person>
+<name>Gustav Leutelt</name>
+<variantName />
+<thumbnail>https://commons.wikimedia.org/wiki/Special:FilePath/Gustav-leutelt.JPG?width=270</thumbnail>
+<birthEN>September 21, 1860</birthEN>
+<birthDE>21. September 1860</birthDE>
+<deathEN>February 17, 1947</deathEN>
+<deathDE>17. Februar 1947</deathDE>
+<birthPlace>
+<XML_Serializer_Tag>Josefsthal, Isergebirge</XML_Serializer_Tag>
+</birthPlace>
+<deathPlace>
+<XML_Serializer_Tag>Seebergen</XML_Serializer_Tag>
+</deathPlace>
+<professionOrOccupation>
+<XML_Serializer_Tag>Lyriker</XML_Serializer_Tag>
+<XML_Serializer_Tag>Heimatschriftsteller</XML_Serializer_Tag>
+<XML_Serializer_Tag>Schriftsteller</XML_Serializer_Tag>
+</professionOrOccupation>
+<dbpResource>http://dbpedia.org/resource/Gustav_Leutelt</dbpResource>
+<abstract>Gustav Leutelt (* 21. September 1860 in Josefsthal; † 17. Februar 1947 in Seebergen) war ein sudetendeutscher Dichter und Schriftsteller.</abstract>
+<wikilink>http://en.wikipedia.org/wiki/Gustav_Leutelt?oldid=593380288</wikilink>
+<artworks />
+<buildings />
+<books />
+</Person>

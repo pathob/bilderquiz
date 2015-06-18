@@ -1,0 +1,28 @@
+<Person>
+<name>Heinrich Scholz</name>
+<variantName>
+<XML_Serializer_Tag>Heinrich Scholtz</XML_Serializer_Tag>
+</variantName>
+<thumbnail>https://commons.wikimedia.org/wiki/Special:FilePath/HeinrichScholz.jpg?width=270</thumbnail>
+<birthEN>December 17, 1884</birthEN>
+<birthDE>17. Dezember 1884</birthDE>
+<deathEN>December 30, 1956</deathEN>
+<deathDE>30. Dezember 1956</deathDE>
+<birthPlace>
+<XML_Serializer_Tag>Berlin</XML_Serializer_Tag>
+</birthPlace>
+<deathPlace>
+<XML_Serializer_Tag>Münster (Westf)</XML_Serializer_Tag>
+</deathPlace>
+<professionOrOccupation>
+<XML_Serializer_Tag>Philosoph</XML_Serializer_Tag>
+<XML_Serializer_Tag>Mathematiker</XML_Serializer_Tag>
+<XML_Serializer_Tag>Evangelischer Theologe</XML_Serializer_Tag>
+</professionOrOccupation>
+<dbpResource>http://dbpedia.org/resource/Heinrich_Scholz</dbpResource>
+<abstract>Heinrich Scholz (* 17. Dezember 1884 in Berlin; † 30. Dezember 1956 in Münster, Westfalen) war ein deutscher Logiker, Philosoph und evangelischer Theologe.</abstract>
+<wikilink>http://en.wikipedia.org/wiki/Heinrich_Scholz?oldid=599900584</wikilink>
+<artworks />
+<buildings />
+<books />
+</Person>

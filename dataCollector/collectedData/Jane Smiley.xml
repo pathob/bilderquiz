@@ -1,0 +1,61 @@
+<Person>
+<name>Jane Smiley</name>
+<variantName />
+<thumbnail>https://commons.wikimedia.org/wiki/Special:FilePath/Jane_smiley_2009.jpg?width=270</thumbnail>
+<birthEN>1949</birthEN>
+<birthDE>1949</birthDE>
+<deathEN />
+<deathDE />
+<birthPlace>
+<XML_Serializer_Tag>Los Angeles</XML_Serializer_Tag>
+</birthPlace>
+<deathPlace />
+<professionOrOccupation>
+<XML_Serializer_Tag>Schriftstellerin</XML_Serializer_Tag>
+</professionOrOccupation>
+<dbpResource>http://dbpedia.org/resource/Jane_Smiley</dbpResource>
+<abstract>Jane Smiley (* 26. September 1949 in Los Angeles) ist eine US-amerikanische Autorin und Pulitzer-Preis-Trägerin. Smiley wurde in Los Angeles geboren und wuchs in einer Vorstadt von St. Louis, Missouri auf, wo sie bis zum Abschluss der High School lebte.1971 zog sie für ein Jahr nach Europa und arbeitete dort als Archäologin und Touristenführerin.Danach studierte sie am Vassar College und der Iowa State University u.a. skandinavische Sprachen und Volkskunde.Sie war dreimal verheiratet: mit John Whiston (1970–1975), William Silag (1978–1986) und Stephen M. Mortensen (1987–1997).Zwei Töchter, Phoebe Silag (* 1978) und Lucy Silag (* 1982), und ein Sohn, AJ Mortensen (* 1992).</abstract>
+<wikilink>http://en.wikipedia.org/wiki/Jane_Smiley?oldid=603740887</wikilink>
+<artworks />
+<buildings />
+<books>
+<XML_Serializer_Tag>
+<book>
+<type>uri</type>
+<value>http://dbpedia.org/resource/A_Thousand_Acres</value>
+</book>
+<author>
+<type>uri</type>
+<value>http://dbpedia.org/resource/Jane_Smiley</value>
+</author>
+<released>
+<type>typed-literal</type>
+<datatype>http://www.w3.org/2001/XMLSchema#date</datatype>
+<value>1991-10-23+02:00</value>
+</released>
+<wikilink>
+<type>uri</type>
+<value>http://en.wikipedia.org/wiki/A_Thousand_Acres?oldid=597770395</value>
+</wikilink>
+</XML_Serializer_Tag>
+<XML_Serializer_Tag>
+<book>
+<type>uri</type>
+<value>http://dbpedia.org/resource/Moo_(novel)</value>
+</book>
+<author>
+<type>uri</type>
+<value>http://dbpedia.org/resource/Jane_Smiley</value>
+</author>
+<released>
+<type>typed-literal</type>
+<datatype>http://www.w3.org/2001/XMLSchema#date</datatype>
+<value>1995-03-21+02:00</value>
+</released>
+<wikilink>
+<type>uri</type>
+<value>http://en.wikipedia.org/wiki/Moo_(novel)?oldid=589729818</value>
+</wikilink>
+</XML_Serializer_Tag>
+</books>
+</Person>

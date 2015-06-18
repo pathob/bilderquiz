@@ -1,0 +1,28 @@
+<Person>
+<name>Gerhard Roth</name>
+<variantName>
+<XML_Serializer_Tag>Gkercharnt Rot</XML_Serializer_Tag>
+<XML_Serializer_Tag>Gerchard Rot</XML_Serializer_Tag>
+<XML_Serializer_Tag>Gerhardt Roth</XML_Serializer_Tag>
+</variantName>
+<thumbnail>https://commons.wikimedia.org/wiki/Special:FilePath/Gerhard_Roth.jpg?width=270</thumbnail>
+<birthEN>1942</birthEN>
+<birthDE>1942</birthDE>
+<deathEN />
+<deathDE />
+<birthPlace>
+<XML_Serializer_Tag>Graz</XML_Serializer_Tag>
+</birthPlace>
+<deathPlace />
+<professionOrOccupation>
+<XML_Serializer_Tag>Photograph</XML_Serializer_Tag>
+<XML_Serializer_Tag>Schriftsteller</XML_Serializer_Tag>
+<XML_Serializer_Tag>Drehbuchautor</XML_Serializer_Tag>
+</professionOrOccupation>
+<dbpResource>http://dbpedia.org/resource/Gerhard_Roth</dbpResource>
+<abstract>Gerhard Roth (* 24. Juni 1942 in Graz) ist ein österreichischer Schriftsteller.</abstract>
+<wikilink>http://en.wikipedia.org/wiki/Gerhard_Roth?oldid=562795824</wikilink>
+<artworks />
+<buildings />
+<books />
+</Person>

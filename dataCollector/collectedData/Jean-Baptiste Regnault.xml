@@ -11,8 +11,10 @@
 <professionOrOccupation>
 <XML_Serializer_Tag>Maler</XML_Serializer_Tag>
 </professionOrOccupation>
-<artworks />
 <dbpResource>http://dbpedia.org/resource/Jean-Baptiste_Regnault</dbpResource>
 <abstract>Baron Jean-Baptiste Regnault (* 17. Oktober 1754 in Paris; † 12. Oktober 1829 ebenda) war ein französischer Maler des Klassizismus.</abstract>
 <wikilink>http://en.wikipedia.org/wiki/Jean-Baptiste_Regnault?oldid=599760969</wikilink>
+<artworks />
+<buildings />
+<books />
 </Person>

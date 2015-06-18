@@ -1,0 +1,25 @@
+<Person>
+<name>Manfred Rommel</name>
+<variantName />
+<thumbnail>https://commons.wikimedia.org/wiki/Special:FilePath/Manfred-rommel-2004.jpg?width=270</thumbnail>
+<birthEN>December 24, 1928</birthEN>
+<birthDE>24. Dezember 1928</birthDE>
+<deathEN>November 7, 2013</deathEN>
+<deathDE>7. November 2013</deathDE>
+<birthPlace>
+<XML_Serializer_Tag>Stuttgart</XML_Serializer_Tag>
+</birthPlace>
+<deathPlace>
+<XML_Serializer_Tag>Stuttgart</XML_Serializer_Tag>
+</deathPlace>
+<professionOrOccupation>
+<XML_Serializer_Tag>Autor</XML_Serializer_Tag>
+<XML_Serializer_Tag>Politiker</XML_Serializer_Tag>
+</professionOrOccupation>
+<dbpResource>http://dbpedia.org/resource/Manfred_Rommel</dbpResource>
+<abstract>Manfred Rommel (* 24. Dezember 1928 in Stuttgart; † 7. November 2013 ebenda) war ein deutscher Politiker (CDU). Er war von 1974 bis 1996 Oberbürgermeister von Stuttgart.</abstract>
+<wikilink>http://en.wikipedia.org/wiki/Manfred_Rommel?oldid=598615400</wikilink>
+<artworks />
+<buildings />
+<books />
+</Person>

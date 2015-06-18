@@ -1,0 +1,25 @@
+<Person>
+<name>Hugo Salus</name>
+<variantName />
+<thumbnail>https://commons.wikimedia.org/wiki/Special:FilePath/Hugo_Salus_cropped.jpg?width=270</thumbnail>
+<birthEN>August 3, 1866</birthEN>
+<birthDE>3. August 1866</birthDE>
+<deathEN>February 4, 1929</deathEN>
+<deathDE>4. Februar 1929</deathDE>
+<birthPlace>
+<XML_Serializer_Tag>Böhm-Leipa</XML_Serializer_Tag>
+</birthPlace>
+<deathPlace>
+<XML_Serializer_Tag>Prag</XML_Serializer_Tag>
+</deathPlace>
+<professionOrOccupation>
+<XML_Serializer_Tag>Schriftsteller</XML_Serializer_Tag>
+<XML_Serializer_Tag>Arzt</XML_Serializer_Tag>
+</professionOrOccupation>
+<dbpResource>http://dbpedia.org/resource/Hugo_Salus</dbpResource>
+<abstract>Hugo Salus (* 3. August 1866 in Böhmisch-Leipa; † 4. Februar 1929 in Prag) war ein böhmischer Arzt und deutschsprachiger Schriftsteller.</abstract>
+<wikilink>http://en.wikipedia.org/wiki/Hugo_Salus?oldid=602330657</wikilink>
+<artworks />
+<buildings />
+<books />
+</Person>

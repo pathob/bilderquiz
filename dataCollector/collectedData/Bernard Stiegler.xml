@@ -1,0 +1,40 @@
+<Person>
+<name>Bernard Stiegler</name>
+<variantName />
+<thumbnail>https://commons.wikimedia.org/wiki/Special:FilePath/Bernard-Stiegler.jpg?width=270</thumbnail>
+<birthEN>1952</birthEN>
+<birthDE>1952</birthDE>
+<deathEN />
+<deathDE />
+<birthPlace />
+<deathPlace />
+<professionOrOccupation>
+<XML_Serializer_Tag>Philosoph</XML_Serializer_Tag>
+</professionOrOccupation>
+<dbpResource>http://dbpedia.org/resource/Bernard_Stiegler</dbpResource>
+<abstract>Bernard Stiegler (* 1. April 1952) ist ein französischer Philosoph und Publizist.Er ist Leiter der Abteilung „kulturelle Entwicklung“ im Centre Georges Pompidou. Davor war er wissenschaftlicher Leiter am Collège international de philosophie (Internationales Kolleg für Philosophie), Professor und Leiter der von ihm 1993 gegründeten Forschungsgruppe „Wissen, Organisationen und technische Systeme“ (COSTECH) an der Technischen Universität von Compiègne (UTC), zweiter geschäftsführender Direktor des INA (Nationales Institut für Audiovisuelles) und war bis Ende 2005 Direktor des IRCAM (Institut für Akustik- und Musikforschung). Er hält am Théâtre National de la Colline regelmäßig die Ars Industrialis-Konferenzen ab, die sich mit dem Einfluss neuer Technologien und Medien auf Politik, Kultur und Gesellschaft beschäftigen. Bernard Stiegler hat 2003 in seinem Buch Passer à l’acte (deutsch: Zum Akt) bekanntgegeben, dass er von 1978-1983 wegen bewaffneten Raubüberfalls im Gefängnis Saint-Michel in Toulouse und in der Vollzugsanstalt Muret inhaftiert war.</abstract>
+<wikilink>http://en.wikipedia.org/wiki/Bernard_Stiegler?oldid=606772041</wikilink>
+<artworks />
+<buildings />
+<books>
+<XML_Serializer_Tag>
+<book>
+<type>uri</type>
+<value>http://dbpedia.org/resource/Technics_and_Time,_1</value>
+</book>
+<author>
+<type>uri</type>
+<value>http://dbpedia.org/resource/Bernard_Stiegler</value>
+</author>
+<published>
+<type>typed-literal</type>
+<datatype>http://www.w3.org/2001/XMLSchema#integer</datatype>
+<value>1994</value>
+</published>
+<wikilink>
+<type>uri</type>
+<value>http://en.wikipedia.org/wiki/Technics_and_Time,_1?oldid=603980265</value>
+</wikilink>
+</XML_Serializer_Tag>
+</books>
+</Person>

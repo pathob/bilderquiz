@@ -1,0 +1,22 @@
+<Person>
+<name>Georges Bernanos</name>
+<variantName>
+<XML_Serializer_Tag>Georg Bernanos</XML_Serializer_Tag>
+</variantName>
+<thumbnail>https://commons.wikimedia.org/wiki/Special:FilePath/Georges-Bernanos.jpg?width=270</thumbnail>
+<birthEN>1888</birthEN>
+<birthDE>1888</birthDE>
+<deathEN>1948</deathEN>
+<deathDE>1948</deathDE>
+<birthPlace />
+<deathPlace />
+<professionOrOccupation>
+<XML_Serializer_Tag>Schriftsteller</XML_Serializer_Tag>
+</professionOrOccupation>
+<dbpResource>http://dbpedia.org/resource/Georges_Bernanos</dbpResource>
+<abstract>Georges Bernanos (* 20. Februar 1888 in Paris; † 5. Juli 1948 in Neuilly-sur-Seine) war ein französischer Schriftsteller. In einzelnen deutschen Ausgaben lautet die Schreibweise des Vornamens auch „Georg“.</abstract>
+<wikilink>http://en.wikipedia.org/wiki/Georges_Bernanos?oldid=601252436</wikilink>
+<artworks />
+<buildings />
+<books />
+</Person>

@@ -1,0 +1,31 @@
+<Person>
+<name>Julius Sturm</name>
+<variantName>
+<XML_Serializer_Tag>Julius Stern</XML_Serializer_Tag>
+<XML_Serializer_Tag>C. R. Julius Stern</XML_Serializer_Tag>
+<XML_Serializer_Tag>Julius Karl Reinhold Sturm</XML_Serializer_Tag>
+<XML_Serializer_Tag>Julius C. Sturm</XML_Serializer_Tag>
+</variantName>
+<thumbnail>https://commons.wikimedia.org/wiki/Special:FilePath/Julius_Sturm.jpg?width=270</thumbnail>
+<birthEN>July 21, 1816</birthEN>
+<birthDE>21. Juli 1816</birthDE>
+<deathEN>May 2, 1896</deathEN>
+<deathDE>2. Mai 1896</deathDE>
+<birthPlace>
+<XML_Serializer_Tag>Bad Köstritz</XML_Serializer_Tag>
+</birthPlace>
+<deathPlace>
+<XML_Serializer_Tag>Leipzig</XML_Serializer_Tag>
+</deathPlace>
+<professionOrOccupation>
+<XML_Serializer_Tag>Schriftsteller</XML_Serializer_Tag>
+<XML_Serializer_Tag>Pfarrer</XML_Serializer_Tag>
+<XML_Serializer_Tag>Pädagoge</XML_Serializer_Tag>
+</professionOrOccupation>
+<dbpResource>http://dbpedia.org/resource/Julius_Sturm</dbpResource>
+<abstract>Julius Carl Reinhold Sturm (auch Julius Karl Reinhold Sturm; * 21. Juli 1816 in Köstritz; † 2. Mai 1896 in Leipzig) war (auch unter dem Pseudonym Julius Stern) einer der bedeutendsten Dichter der Spätromantik. Außerdem war er von 1856 bis 1885 Pfarrer von Köstritz. Er verfasste zahlreiche Gedichte und Prosa-Werke, die er in etwa 30 Büchern veröffentlichte.</abstract>
+<wikilink>http://en.wikipedia.org/wiki/Julius_Sturm?oldid=565451077</wikilink>
+<artworks />
+<buildings />
+<books />
+</Person>

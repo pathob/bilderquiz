@@ -1,0 +1,37 @@
+<Person>
+<name>Gottfried Benn</name>
+<variantName>
+<XML_Serializer_Tag>G. Benn</XML_Serializer_Tag>
+<XML_Serializer_Tag>Gotfried Benn</XML_Serializer_Tag>
+<XML_Serializer_Tag>Gotfrid Ben</XML_Serializer_Tag>
+<XML_Serializer_Tag>Goṭfrid Ben</XML_Serializer_Tag>
+<XML_Serializer_Tag>Gotfrid Benn</XML_Serializer_Tag>
+<XML_Serializer_Tag>Ġūtfarīd Binn</XML_Serializer_Tag>
+<XML_Serializer_Tag>Gottofuriito Ben</XML_Serializer_Tag>
+<XML_Serializer_Tag>Ge te fu li de Bei en</XML_Serializer_Tag>
+<XML_Serializer_Tag>Getefulide-Beien</XML_Serializer_Tag>
+<XML_Serializer_Tag>Getefulide Beien</XML_Serializer_Tag>
+<XML_Serializer_Tag>גוטכריד בן</XML_Serializer_Tag>
+</variantName>
+<thumbnail>https://commons.wikimedia.org/wiki/Special:FilePath/Gottfried_Benn_by_Tobias_Falberg_26-11-05.JPG?width=270</thumbnail>
+<birthEN>May 22, 1886</birthEN>
+<birthDE>22. Mai 1886</birthDE>
+<deathEN>July 7, 1956</deathEN>
+<deathDE>7. Juli 1956</deathDE>
+<birthPlace>
+<XML_Serializer_Tag>Mansfeld</XML_Serializer_Tag>
+</birthPlace>
+<deathPlace>
+<XML_Serializer_Tag>Berlin</XML_Serializer_Tag>
+</deathPlace>
+<professionOrOccupation>
+<XML_Serializer_Tag>Arzt</XML_Serializer_Tag>
+<XML_Serializer_Tag>Schriftsteller</XML_Serializer_Tag>
+</professionOrOccupation>
+<dbpResource>http://dbpedia.org/resource/Gottfried_Benn</dbpResource>
+<abstract>Gottfried Benn (* 2. Mai 1886 in Mansfeld, Brandenburg; † 7. Juli 1956 in Berlin) war ein deutscher Arzt, Dichter und Essayist.</abstract>
+<wikilink>http://en.wikipedia.org/wiki/Gottfried_Benn?oldid=581430922</wikilink>
+<artworks />
+<buildings />
+<books />
+</Person>

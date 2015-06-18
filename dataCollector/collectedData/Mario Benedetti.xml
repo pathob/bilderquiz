@@ -1,0 +1,32 @@
+<Person>
+<name>Mario Benedetti</name>
+<variantName>
+<XML_Serializer_Tag>M. Benedetti</XML_Serializer_Tag>
+<XML_Serializer_Tag>Damocles</XML_Serializer_Tag>
+<XML_Serializer_Tag>... Benedetti</XML_Serializer_Tag>
+<XML_Serializer_Tag>Maryô Benedeṭṭî</XML_Serializer_Tag>
+<XML_Serializer_Tag>Mario Benedetti Farugia</XML_Serializer_Tag>
+<XML_Serializer_Tag>Mario Benedetti Farugia</XML_Serializer_Tag>
+<XML_Serializer_Tag>Mario Orlando Hamlet Hardy Brenno Benedetti Farugia</XML_Serializer_Tag>
+</variantName>
+<thumbnail>https://commons.wikimedia.org/wiki/Special:FilePath/Mario_Benedetti.jpg?width=270</thumbnail>
+<birthEN>September 14, 1920</birthEN>
+<birthDE>14. September 1920</birthDE>
+<deathEN>May 17, 2009</deathEN>
+<deathDE>17. Mai 2009</deathDE>
+<birthPlace />
+<deathPlace>
+<XML_Serializer_Tag>Montevideo</XML_Serializer_Tag>
+</deathPlace>
+<professionOrOccupation>
+<XML_Serializer_Tag>Schriftsteller</XML_Serializer_Tag>
+<XML_Serializer_Tag>Journalist</XML_Serializer_Tag>
+<XML_Serializer_Tag>Lyriker</XML_Serializer_Tag>
+</professionOrOccupation>
+<dbpResource>http://dbpedia.org/resource/Mario_Benedetti</dbpResource>
+<abstract>Mario Benedetti (voller Name Mario Orlando Hamlet Hardy Brenno Benedetti Farugia; * 14. September 1920 in Paso de los Toros, Tacuarembó; † 17. Mai 2009 in Montevideo) war ein Journalist, Dichter und Schriftsteller aus Uruguay.</abstract>
+<wikilink>http://en.wikipedia.org/wiki/Mario_Benedetti?oldid=601481364</wikilink>
+<artworks />
+<buildings />
+<books />
+</Person>

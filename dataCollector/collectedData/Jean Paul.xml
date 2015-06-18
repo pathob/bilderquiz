@@ -1,0 +1,43 @@
+<Person>
+<name>Jean Paul</name>
+<variantName>
+<XML_Serializer_Tag>Jean Paul</XML_Serializer_Tag>
+<XML_Serializer_Tag>Johann Paul Friedrich Richter</XML_Serializer_Tag>
+<XML_Serializer_Tag>Johann P. Richter</XML_Serializer_Tag>
+<XML_Serializer_Tag>Jean Paul Frédéric Richter</XML_Serializer_Tag>
+<XML_Serializer_Tag>Jean Paul Friedrich Richter</XML_Serializer_Tag>
+<XML_Serializer_Tag>Jean Paul Friederich Richter</XML_Serializer_Tag>
+<XML_Serializer_Tag>Jean Paul Fr. Richter</XML_Serializer_Tag>
+<XML_Serializer_Tag>Jean Paul Richter</XML_Serializer_Tag>
+<XML_Serializer_Tag>Jean P. Richter</XML_Serializer_Tag>
+<XML_Serializer_Tag>Friedrich Richter</XML_Serializer_Tag>
+<XML_Serializer_Tag>Johann Friedrich Richter</XML_Serializer_Tag>
+<XML_Serializer_Tag>John Paul Friedrich Richter</XML_Serializer_Tag>
+<XML_Serializer_Tag>Žan-Polʹ</XML_Serializer_Tag>
+<XML_Serializer_Tag>J. P. F. Hasus</XML_Serializer_Tag>
+<XML_Serializer_Tag>J. P. Hasus</XML_Serializer_Tag>
+<XML_Serializer_Tag>ז&apos;אן פול</XML_Serializer_Tag>
+<XML_Serializer_Tag>ジャン パウル</XML_Serializer_Tag>
+</variantName>
+<thumbnail>https://commons.wikimedia.org/wiki/Special:FilePath/RichterJP.jpg?width=270</thumbnail>
+<birthEN>March 21, 1763</birthEN>
+<birthDE>21. März 1763</birthDE>
+<deathEN>November 14, 1825</deathEN>
+<deathDE>14. November 1825</deathDE>
+<birthPlace>
+<XML_Serializer_Tag>Wunsiedel</XML_Serializer_Tag>
+</birthPlace>
+<deathPlace>
+<XML_Serializer_Tag>Bayreuth</XML_Serializer_Tag>
+</deathPlace>
+<professionOrOccupation>
+<XML_Serializer_Tag>Schriftsteller</XML_Serializer_Tag>
+<XML_Serializer_Tag>Lyriker</XML_Serializer_Tag>
+</professionOrOccupation>
+<dbpResource>http://dbpedia.org/resource/Jean_Paul</dbpResource>
+<abstract>Jean Paul (* 21. März 1763 in Wunsiedel; † 14. November 1825 in Bayreuth; eigentlich Johann Paul Friedrich Richter) war ein deutscher Schriftsteller. Er steht literarisch gesehen zwischen Klassik und Romantik. Die Namensänderung geht auf Jean Pauls große Bewunderung für Jean-Jacques Rousseau zurück.</abstract>
+<wikilink>http://en.wikipedia.org/wiki/Jean_Paul?oldid=605577641</wikilink>
+<artworks />
+<buildings />
+<books />
+</Person>

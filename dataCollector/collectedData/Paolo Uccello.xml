@@ -16,12 +16,15 @@
 <professionOrOccupation>
 <XML_Serializer_Tag>Maler</XML_Serializer_Tag>
 </professionOrOccupation>
+<dbpResource>http://dbpedia.org/resource/Paolo_Uccello</dbpResource>
+<abstract>Paolo di Dono, besser bekannt als Paolo Uccello, (* 1397 in Florenz; † 10. Dezember 1475 in Florenz) war ein italienischer Maler und Mosaikkünstler. Er hatte in der mächtigen Florentiner Familie der Medici seine Gönner. Uccello gilt als Vater der perspektivischen Malerei.In Werken wie Der Kampf bei San Romano (um 1456) schafft seine Verwendung der Perspektive und des Fluchtpunkts neue Wege der räumlichen Darstellung.Ähnlich bei Die Jagd (um 1460), wo er sich bemüht, die Hunde dreidimensional wirken zu lassen, genau wissend, dass der räumliche Anblick entscheidend für den Eindruck auf den Betrachter ist.</abstract>
+<wikilink>http://en.wikipedia.org/wiki/Paolo_Uccello?oldid=602503296</wikilink>
 <artworks>
 <XML_Serializer_Tag>
-<painting>
+<artwork>
 <type>uri</type>
 <value>http://dbpedia.org/resource/The_Hunt_in_the_Forest</value>
-</painting>
+</artwork>
 <thumbnail>
 <type>uri</type>
 <value>http://commons.wikimedia.org/wiki/Special:FilePath/Hunt_in_the_forest_by_paolo_uccello.jpg?width=300</value>
@@ -40,12 +43,16 @@
 <type>uri</type>
 <value>http://en.wikipedia.org/wiki/The_Hunt_in_the_Forest?oldid=586695325</value>
 </wikilink>
+<type>
+<type>uri</type>
+<value>http://dbpedia.org/resource/Oil_painting</value>
+</type>
 </XML_Serializer_Tag>
 <XML_Serializer_Tag>
-<painting>
+<artwork>
 <type>uri</type>
 <value>http://dbpedia.org/resource/Saint_George_and_the_Dragon_(Uccello)</value>
-</painting>
+</artwork>
 <thumbnail>
 <type>uri</type>
 <value>http://commons.wikimedia.org/wiki/Special:FilePath/Paolo_Uccello_047.jpg?width=300</value>
@@ -64,12 +71,16 @@
 <type>uri</type>
 <value>http://en.wikipedia.org/wiki/Saint_George_and_the_Dragon_(Uccello)?oldid=590565564</value>
 </wikilink>
+<type>
+<type>uri</type>
+<value>http://dbpedia.org/resource/Oil_painting</value>
+</type>
 </XML_Serializer_Tag>
 <XML_Serializer_Tag>
-<painting>
+<artwork>
 <type>uri</type>
 <value>http://dbpedia.org/resource/The_Battle_of_San_Romano</value>
-</painting>
+</artwork>
 <thumbnail>
 <type>uri</type>
 <value>http://commons.wikimedia.org/wiki/Special:FilePath/Paolo_Uccello_035.jpg?width=300</value>
@@ -83,9 +94,13 @@
 <type>uri</type>
 <value>http://en.wikipedia.org/wiki/The_Battle_of_San_Romano?oldid=604181041</value>
 </wikilink>
+<type>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>egg tempera with walnut oil and linseed oil on poplar</value>
+</type>
 </XML_Serializer_Tag>
 </artworks>
-<dbpResource>http://dbpedia.org/resource/Paolo_Uccello</dbpResource>
-<abstract>Paolo di Dono, besser bekannt als Paolo Uccello, (* 1397 in Florenz; † 10. Dezember 1475 in Florenz) war ein italienischer Maler und Mosaikkünstler. Er hatte in der mächtigen Florentiner Familie der Medici seine Gönner. Uccello gilt als Vater der perspektivischen Malerei.In Werken wie Der Kampf bei San Romano (um 1456) schafft seine Verwendung der Perspektive und des Fluchtpunkts neue Wege der räumlichen Darstellung.Ähnlich bei Die Jagd (um 1460), wo er sich bemüht, die Hunde dreidimensional wirken zu lassen, genau wissend, dass der räumliche Anblick entscheidend für den Eindruck auf den Betrachter ist.</abstract>
-<wikilink>http://en.wikipedia.org/wiki/Paolo_Uccello?oldid=602503296</wikilink>
+<buildings />
+<books />
 </Person>

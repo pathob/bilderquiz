@@ -1,0 +1,29 @@
+<Person>
+<name>Frank Heller</name>
+<variantName>
+<XML_Serializer_Tag>Gunner Serner</XML_Serializer_Tag>
+<XML_Serializer_Tag>Martin G. Serner</XML_Serializer_Tag>
+<XML_Serializer_Tag>Gunnar Serner</XML_Serializer_Tag>
+<XML_Serializer_Tag>Martin Gunnar Serner</XML_Serializer_Tag>
+</variantName>
+<thumbnail>https://commons.wikimedia.org/wiki/Special:FilePath/Portrait_relief_of_swedish_author_Frank_Heller_lund_sweden.jpg?width=270</thumbnail>
+<birthEN>July 20, 1886</birthEN>
+<birthDE>20. Juli 1886</birthDE>
+<deathEN>October 14, 1947</deathEN>
+<deathDE>14. Oktober 1947</deathDE>
+<birthPlace>
+<XML_Serializer_Tag>Lösen, Schweden</XML_Serializer_Tag>
+</birthPlace>
+<deathPlace>
+<XML_Serializer_Tag>Malmö</XML_Serializer_Tag>
+</deathPlace>
+<professionOrOccupation>
+<XML_Serializer_Tag>Schriftsteller</XML_Serializer_Tag>
+</professionOrOccupation>
+<dbpResource>http://dbpedia.org/resource/Frank_Heller</dbpResource>
+<abstract>Frank Heller, eigentlich Martin Gunnar Serner, (* 20. Juli 1886 in Lösen Blekinge; † 14. Oktober 1947 in Malmö) war ein schwedischer Schriftsteller, der als erster erfolgreicher Krimiautor seines Landes gilt.</abstract>
+<wikilink>http://en.wikipedia.org/wiki/Frank_Heller?oldid=594650904</wikilink>
+<artworks />
+<buildings />
+<books />
+</Person>

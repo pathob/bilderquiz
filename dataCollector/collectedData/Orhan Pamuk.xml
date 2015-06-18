@@ -1,0 +1,177 @@
+<Person>
+<name>Orhan Pamuk</name>
+<variantName>
+<XML_Serializer_Tag>Aoerhan Pamuke</XML_Serializer_Tag>
+<XML_Serializer_Tag>Pamuke</XML_Serializer_Tag>
+<XML_Serializer_Tag>Orxan Pamuk</XML_Serializer_Tag>
+<XML_Serializer_Tag>Orchan Pamuk</XML_Serializer_Tag>
+<XML_Serializer_Tag>帕慕克</XML_Serializer_Tag>
+</variantName>
+<thumbnail>https://commons.wikimedia.org/wiki/Special:FilePath/Orhan_Pamuk_Shankbone_2009_NYC.jpg?width=270</thumbnail>
+<birthEN>1952</birthEN>
+<birthDE>1952</birthDE>
+<deathEN />
+<deathDE />
+<birthPlace>
+<XML_Serializer_Tag>İstanbul</XML_Serializer_Tag>
+</birthPlace>
+<deathPlace />
+<professionOrOccupation>
+<XML_Serializer_Tag>Schriftsteller</XML_Serializer_Tag>
+</professionOrOccupation>
+<dbpResource>http://dbpedia.org/resource/Orhan_Pamuk</dbpResource>
+<abstract>Orhan Pamuk (* 7. Juni 1952 in Istanbul, Türkei) ist ein türkischer Schriftsteller.Er gilt als einer der wichtigsten Schriftsteller seines Landes und ist Träger des Literatur-Nobelpreises 2006. In seiner Erzählkunst vermittelt er zwischen dem modernen europäischen Roman und der mystischen Tradition des Orients. Sein Werk ist mittlerweile in 35 Sprachen übersetzt und in über 100 Ländern veröffentlicht worden.Auch sein im Wesentlichen menschenrechtlich begründetes politisches Engagement, mit dem er einerseits die türkische Regierung unter anderem zu historischer Aufklärung und Verantwortungsbereitschaft anhält und andererseits politisch und religiös begründeten Widerständen gegen einen EU-Beitritt der Türkei entgegentritt, zeigt ihn in einer beide Seiten fordernden Mittlerposition.</abstract>
+<wikilink>http://en.wikipedia.org/wiki/Orhan_Pamuk?oldid=604917773</wikilink>
+<artworks />
+<buildings />
+<books>
+<XML_Serializer_Tag>
+<book>
+<type>uri</type>
+<value>http://dbpedia.org/resource/The_Museum_of_Innocence</value>
+</book>
+<author>
+<type>uri</type>
+<value>http://dbpedia.org/resource/Orhan_Pamuk</value>
+</author>
+<thumbnail>
+<type>uri</type>
+<value>http://commons.wikimedia.org/wiki/Special:FilePath/Masumiyet_Müzesi&apos;nin_binası.JPG?width=300</value>
+</thumbnail>
+<released>
+<type>typed-literal</type>
+<datatype>http://www.w3.org/2001/XMLSchema#integer</datatype>
+<value>2008</value>
+</released>
+<wikilink>
+<type>uri</type>
+<value>http://en.wikipedia.org/wiki/The_Museum_of_Innocence?oldid=602424284</value>
+</wikilink>
+<abstract>
+<type>literal</type>
+<xml:lang>de</xml:lang>
+<value>Das Museum der Unschuld (türkischer Originaltitel Masumiyet Müzesi) ist ein 2008 erschienener Roman des türkischen Schriftstellers Orhan Pamuk. Die deutsche Übersetzung von Gerhard Meier erschien 2008 im Carl Hanser Verlag. Der Roman beschreibt eine Liebesgeschichte, die zur Entstehung eines Museums führt. Im Jahr 2012 wurde in Istanbul ein Museum nach dem Roman eröffnet.</value>
+</abstract>
+</XML_Serializer_Tag>
+<XML_Serializer_Tag>
+<book>
+<type>uri</type>
+<value>http://dbpedia.org/resource/The_New_Life_(novel)</value>
+</book>
+<author>
+<type>uri</type>
+<value>http://dbpedia.org/resource/Orhan_Pamuk</value>
+</author>
+<released>
+<type>typed-literal</type>
+<datatype>http://www.w3.org/2001/XMLSchema#integer</datatype>
+<value>1994</value>
+</released>
+<wikilink>
+<type>uri</type>
+<value>http://en.wikipedia.org/wiki/The_New_Life_(novel)?oldid=595878901</value>
+</wikilink>
+<abstract>
+<type>literal</type>
+<xml:lang>de</xml:lang>
+<value>Das neue Leben (türkischer Originaltitel: Yeni Hayat) ist ein 1994 erschienener Roman des türkischen Schriftstellers Orhan Pamuk. Sein Titel spielt auf Dantes gleichnamiges Werk (ital. Vita Nova) an. Der 22 Jahre alte Osman, Bauingenieurstudent aus Istanbul, verspürt die lebensverändernde Kraft eines geheimnisvollen Buches und verliebt sich gleichzeitig in die schöne Canan. Auf der Suche nach der verschwundenen Geliebten und einem neuen Leben macht er sich auf zu einer abenteuerlichen Reise in den Osten der Türkei. Das neue Leben gilt als Pamuks literarisch bedeutendster Roman.</value>
+</abstract>
+</XML_Serializer_Tag>
+<XML_Serializer_Tag>
+<book>
+<type>uri</type>
+<value>http://dbpedia.org/resource/The_White_Castle</value>
+</book>
+<author>
+<type>uri</type>
+<value>http://dbpedia.org/resource/Orhan_Pamuk</value>
+</author>
+<released>
+<type>typed-literal</type>
+<datatype>http://www.w3.org/2001/XMLSchema#integer</datatype>
+<value>1985</value>
+</released>
+<wikilink>
+<type>uri</type>
+<value>http://en.wikipedia.org/wiki/The_White_Castle?oldid=605432031</value>
+</wikilink>
+<abstract>
+<type>literal</type>
+<xml:lang>de</xml:lang>
+<value>Die weiße Festung (türk. Originaltitel: Beyaz kale) ist der Titel eines 1985 veröffentlichten Romans des türkischen Schriftstellers Orhan Pamuk. Erzählt wird die Geschichte zweier Männer aus der christlich-westlichen und der moslemisch-östlichen Welt, die im osmanischen Istanbul des 17. Jhs. als Herr und Sklave miteinander konfrontiert werden und bei ihren wissenschaftlichen Forschungen zunehmend in teils freundschaftlicher, teils spannungsreicher Kooperation ihre personale und kulturelle Identität verlieren, bis sie schließlich ihre Biographien wechseln und den Lebenslauf des anderen fortsetzen.</value>
+</abstract>
+</XML_Serializer_Tag>
+<XML_Serializer_Tag>
+<book>
+<type>uri</type>
+<value>http://dbpedia.org/resource/My_Name_Is_Red</value>
+</book>
+<author>
+<type>uri</type>
+<value>http://dbpedia.org/resource/Orhan_Pamuk</value>
+</author>
+<released>
+<type>typed-literal</type>
+<datatype>http://www.w3.org/2001/XMLSchema#integer</datatype>
+<value>1998</value>
+</released>
+<wikilink>
+<type>uri</type>
+<value>http://en.wikipedia.org/wiki/My_Name_Is_Red?oldid=595460186</value>
+</wikilink>
+<abstract>
+<type>literal</type>
+<xml:lang>de</xml:lang>
+<value>Rot ist mein Name (türkische Originalausgabe: Benim Adım Kırmızı) ist ein 1998 veröffentlichter Roman von Orhan Pamuk. Die deutsche Übersetzung von Ingrid Iren erschien 2001 bei Hanser.</value>
+</abstract>
+</XML_Serializer_Tag>
+<XML_Serializer_Tag>
+<book>
+<type>uri</type>
+<value>http://dbpedia.org/resource/The_Black_Book_(Pamuk_novel)</value>
+</book>
+<author>
+<type>uri</type>
+<value>http://dbpedia.org/resource/Orhan_Pamuk</value>
+</author>
+<released>
+<type>typed-literal</type>
+<datatype>http://www.w3.org/2001/XMLSchema#integer</datatype>
+<value>1990</value>
+</released>
+<wikilink>
+<type>uri</type>
+<value>http://en.wikipedia.org/wiki/The_Black_Book_(Pamuk_novel)?oldid=596773659</value>
+</wikilink>
+<abstract>
+<type>literal</type>
+<xml:lang>de</xml:lang>
+<value>Der Roman Das schwarze Buch von Orhan Pamuk erschien 1990 unter dem Titel Kara Kitap in Istanbul. Die deutsche Übersetzung von Ingrid Iren folgte 1994 bei Hanser.</value>
+</abstract>
+</XML_Serializer_Tag>
+<XML_Serializer_Tag>
+<book>
+<type>uri</type>
+<value>http://dbpedia.org/resource/Snow_(Pamuk_novel)</value>
+</book>
+<author>
+<type>uri</type>
+<value>http://dbpedia.org/resource/Orhan_Pamuk</value>
+</author>
+<released>
+<type>typed-literal</type>
+<datatype>http://www.w3.org/2001/XMLSchema#integer</datatype>
+<value>2002</value>
+</released>
+<wikilink>
+<type>uri</type>
+<value>http://en.wikipedia.org/wiki/Snow_(Pamuk_novel)?oldid=600290310</value>
+</wikilink>
+<abstract>
+<type>literal</type>
+<xml:lang>de</xml:lang>
+<value>Schnee (türkischer Originaltitel: Kar) ist ein 2002 veröffentlichter Roman des türkischen Schriftstellers Orhan Pamuk. In der deutschen Übersetzung Christoph K. Neumanns erschien das Buch 2005. Geschildert wird die Reise des Dichters Ka in die Stadt Kars, in der am Tag nach seiner Ankunft ein lokaler Militärputsch stattfindet.</value>
+</abstract>
+</XML_Serializer_Tag>
+</books>
+</Person>

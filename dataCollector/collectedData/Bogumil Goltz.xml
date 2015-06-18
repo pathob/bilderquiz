@@ -1,0 +1,25 @@
+<Person>
+<name>Bogumil Goltz</name>
+<variantName />
+<thumbnail>https://commons.wikimedia.org/wiki/Special:FilePath/Die_Gartenlaube_(1861)_b_133.jpg?width=270</thumbnail>
+<birthEN>March 20, 1801</birthEN>
+<birthDE>20. März 1801</birthDE>
+<deathEN>November 12, 1870</deathEN>
+<deathDE>12. November 1870</deathDE>
+<birthPlace>
+<XML_Serializer_Tag>Warschau</XML_Serializer_Tag>
+</birthPlace>
+<deathPlace>
+<XML_Serializer_Tag>Toruń</XML_Serializer_Tag>
+</deathPlace>
+<professionOrOccupation>
+<XML_Serializer_Tag>Schriftsteller</XML_Serializer_Tag>
+<XML_Serializer_Tag>Pädagoge</XML_Serializer_Tag>
+</professionOrOccupation>
+<dbpResource>http://dbpedia.org/resource/Bogumil_Goltz</dbpResource>
+<abstract>Bogumil Goltz (* 20. März 1801 in Warschau; † 12. November 1870 in Thorn) war ein westpreußischer humoristisch-pädagogischer Schriftsteller.</abstract>
+<wikilink>http://en.wikipedia.org/wiki/Bogumil_Goltz?oldid=553787312</wikilink>
+<artworks />
+<buildings />
+<books />
+</Person>

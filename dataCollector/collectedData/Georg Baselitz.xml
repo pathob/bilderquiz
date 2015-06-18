@@ -23,8 +23,10 @@
 <XML_Serializer_Tag>Bildhauer</XML_Serializer_Tag>
 <XML_Serializer_Tag>Künstler</XML_Serializer_Tag>
 </professionOrOccupation>
-<artworks />
 <dbpResource>http://dbpedia.org/resource/Georg_Baselitz</dbpResource>
 <abstract>Georg Baselitz (* 23. Januar 1938 in Großbaselitz, Amtshauptmannschaft Kamenz, Sachsen; eigentlicher Name Hans-Georg Kern) ist ein deutscher Maler und Bildhauer.</abstract>
 <wikilink>http://en.wikipedia.org/wiki/Georg_Baselitz?oldid=601240375</wikilink>
+<artworks />
+<buildings />
+<books />
 </Person>

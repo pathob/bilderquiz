@@ -16,8 +16,10 @@
 <XML_Serializer_Tag>Künstler</XML_Serializer_Tag>
 <XML_Serializer_Tag>Maler</XML_Serializer_Tag>
 </professionOrOccupation>
-<artworks />
 <dbpResource>http://dbpedia.org/resource/Fritz_Stoltenberg</dbpResource>
 <abstract>Fritz Stoltenberg (* 7. April 1855 in Kiel; † 13. November 1921 in Schönberg (Holstein)) war ein Landschafts- und Marinemaler aus Schleswig-Holstein.</abstract>
 <wikilink>http://en.wikipedia.org/wiki/Fritz_Stoltenberg?oldid=592932800</wikilink>
+<artworks />
+<buildings />
+<books />
 </Person>

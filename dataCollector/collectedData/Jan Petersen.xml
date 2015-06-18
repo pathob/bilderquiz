@@ -1,0 +1,28 @@
+<Person>
+<name>Jan Petersen</name>
+<variantName>
+<XML_Serializer_Tag>Hans Schwalm</XML_Serializer_Tag>
+<XML_Serializer_Tag>Peter Jansen</XML_Serializer_Tag>
+</variantName>
+<thumbnail>https://commons.wikimedia.org/wiki/Special:FilePath/Bundesarchiv_Bild_183-09175-0009,_Berlin,_neue_Buchserie.jpg?width=270</thumbnail>
+<birthEN>1906</birthEN>
+<birthDE>1906</birthDE>
+<deathEN>1969</deathEN>
+<deathDE>1969</deathDE>
+<birthPlace>
+<XML_Serializer_Tag>Berlin</XML_Serializer_Tag>
+</birthPlace>
+<deathPlace>
+<XML_Serializer_Tag>Berlin</XML_Serializer_Tag>
+</deathPlace>
+<professionOrOccupation>
+<XML_Serializer_Tag>Journalist</XML_Serializer_Tag>
+<XML_Serializer_Tag>Schriftsteller</XML_Serializer_Tag>
+</professionOrOccupation>
+<dbpResource>http://dbpedia.org/resource/Jan_Petersen</dbpResource>
+<abstract>Jan Petersen (* 11. Juni 1946 in Oslo) ist ein norwegischer konservativer Politiker, Jurist und Diplomat.Petersen bestand sein juristisches Staatsexamen 1973. Von 1975 bis 1981 war er Bürgermeister der Kommune Oppegård. Ab 1981 gehörte er als Abgeordneter der Provinz Akershus dem norwegischen Parlament an, aus dem er 2009 ausschied. Als Vorsitzender der konservativen Partei Høyre wirkte er von 1994 bis 2004. Von 2001 und 2005 gehörte er als Außenminister der zweiten Regierung von Kjell Magne Bondevik an. Seit 2009 ist Petersen norwegischer Botschafter in Wien.</abstract>
+<wikilink>http://en.wikipedia.org/wiki/Jan_Petersen?oldid=579792703</wikilink>
+<artworks />
+<buildings />
+<books />
+</Person>

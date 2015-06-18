@@ -1,0 +1,37 @@
+<Person>
+<name>Willy Hellpach</name>
+<variantName>
+<XML_Serializer_Tag>W. Hellpach</XML_Serializer_Tag>
+<XML_Serializer_Tag>Wilhelm Hellpach</XML_Serializer_Tag>
+<XML_Serializer_Tag>Willy H. Hellpach</XML_Serializer_Tag>
+<XML_Serializer_Tag>Willy Hugo Hellpach</XML_Serializer_Tag>
+<XML_Serializer_Tag>Willi Hellpach</XML_Serializer_Tag>
+<XML_Serializer_Tag>Ernst Gystrow</XML_Serializer_Tag>
+<XML_Serializer_Tag>Ernst Gystron</XML_Serializer_Tag>
+</variantName>
+<thumbnail>https://commons.wikimedia.org/wiki/Special:FilePath/Bundesarchiv_Bild_102-11359,_Wilhelm_Hellpach.jpg?width=270</thumbnail>
+<birthEN>February 26, 1877</birthEN>
+<birthDE>26. Februar 1877</birthDE>
+<deathEN>July 6, 1955</deathEN>
+<deathDE>6. Juli 1955</deathDE>
+<birthPlace>
+<XML_Serializer_Tag>Oels (Niederschlesien)</XML_Serializer_Tag>
+</birthPlace>
+<deathPlace>
+<XML_Serializer_Tag>Heidelberg</XML_Serializer_Tag>
+</deathPlace>
+<professionOrOccupation>
+<XML_Serializer_Tag>Neurologe</XML_Serializer_Tag>
+<XML_Serializer_Tag>Psychologe</XML_Serializer_Tag>
+<XML_Serializer_Tag>Politiker</XML_Serializer_Tag>
+<XML_Serializer_Tag>Publizist</XML_Serializer_Tag>
+<XML_Serializer_Tag>Philosoph</XML_Serializer_Tag>
+<XML_Serializer_Tag>Sozialpsychologe</XML_Serializer_Tag>
+</professionOrOccupation>
+<dbpResource>http://dbpedia.org/resource/Willy_Hellpach</dbpResource>
+<abstract>Willy Hugo Hellpach (* 26. Februar 1877 in Oels, Provinz Schlesien, Deutsches Reich; † 6. Juli 1955 in Heidelberg; Pseudonym Ernst Gystrow) war ein deutscher Politiker, Psychologe und Arzt. 1925 kandidierte er für die Deutsche Demokratische Partei (DDP) bei der Wahl zum Reichspräsidenten.</abstract>
+<wikilink>http://en.wikipedia.org/wiki/Willy_Hellpach?oldid=590716701</wikilink>
+<artworks />
+<buildings />
+<books />
+</Person>

@@ -1,0 +1,184 @@
+<Person>
+<name>Daniel Defoe</name>
+<variantName>
+<XML_Serializer_Tag>Defō</XML_Serializer_Tag>
+<XML_Serializer_Tag>Daniel Defo</XML_Serializer_Tag>
+<XML_Serializer_Tag>Daniel&apos; Defo</XML_Serializer_Tag>
+<XML_Serializer_Tag>Danielius Defo</XML_Serializer_Tag>
+<XML_Serializer_Tag>Daniel De Foe</XML_Serializer_Tag>
+<XML_Serializer_Tag>Daniel&apos; De Fo</XML_Serializer_Tag>
+<XML_Serializer_Tag>Daniel de Foe</XML_Serializer_Tag>
+<XML_Serializer_Tag>Daniel von Foe͏̈</XML_Serializer_Tag>
+<XML_Serializer_Tag>Daniel Foe</XML_Serializer_Tag>
+<XML_Serializer_Tag>L. M.</XML_Serializer_Tag>
+<XML_Serializer_Tag>English gentleman</XML_Serializer_Tag>
+<XML_Serializer_Tag>Charles Johnson</XML_Serializer_Tag>
+<XML_Serializer_Tag>Karl Johnson</XML_Serializer_Tag>
+<XML_Serializer_Tag>Gabriel John</XML_Serializer_Tag>
+<XML_Serializer_Tag>Gabriel John</XML_Serializer_Tag>
+<XML_Serializer_Tag>Gentleman</XML_Serializer_Tag>
+<XML_Serializer_Tag>Lay-hand in the country</XML_Serializer_Tag>
+<XML_Serializer_Tag>Lover of old England</XML_Serializer_Tag>
+<XML_Serializer_Tag>Lover of truth</XML_Serializer_Tag>
+<XML_Serializer_Tag>Merchant</XML_Serializer_Tag>
+<XML_Serializer_Tag>Andrew Moreton</XML_Serializer_Tag>
+<XML_Serializer_Tag>Daniel Dofoe</XML_Serializer_Tag>
+<XML_Serializer_Tag>Daniel Depho</XML_Serializer_Tag>
+<XML_Serializer_Tag>Taiel Tipo</XML_Serializer_Tag>
+<XML_Serializer_Tag>Dānĕyal Dafo</XML_Serializer_Tag>
+<XML_Serializer_Tag>다니엘 데포</XML_Serializer_Tag>
+</variantName>
+<thumbnail>https://commons.wikimedia.org/wiki/Special:FilePath/Daniel_Defoe_Kneller_Style.jpg?width=270</thumbnail>
+<birthEN>XX.09.1660</birthEN>
+<birthDE>XX.09.1660</birthDE>
+<deathEN>April 24, 1731</deathEN>
+<deathDE>24. April 1731</deathDE>
+<birthPlace>
+<XML_Serializer_Tag>London</XML_Serializer_Tag>
+</birthPlace>
+<deathPlace>
+<XML_Serializer_Tag>London</XML_Serializer_Tag>
+</deathPlace>
+<professionOrOccupation>
+<XML_Serializer_Tag>Journalist</XML_Serializer_Tag>
+<XML_Serializer_Tag>Geheimagent</XML_Serializer_Tag>
+<XML_Serializer_Tag>Schriftsteller</XML_Serializer_Tag>
+</professionOrOccupation>
+<dbpResource>http://dbpedia.org/resource/Daniel_Defoe</dbpResource>
+<abstract>Daniel Defoe (* als Daniel Foe vermutlich Anfang 1660 in London; † 24. Apriljul./ 5. Mai 1731greg. in London) war ein englischer Schriftsteller in der Frühzeit der Aufklärung, der durch seinen Roman Robinson Crusoe weltberühmt wurde. Defoe gilt damit als einer der Begründer des englischen Romans.</abstract>
+<wikilink>http://en.wikipedia.org/wiki/Daniel_Defoe?oldid=605338148</wikilink>
+<artworks />
+<buildings />
+<books>
+<XML_Serializer_Tag>
+<book>
+<type>uri</type>
+<value>http://dbpedia.org/resource/Robinson_Crusoe</value>
+</book>
+<author>
+<type>uri</type>
+<value>http://dbpedia.org/resource/Daniel_Defoe</value>
+</author>
+<thumbnail>
+<type>uri</type>
+<value>http://commons.wikimedia.org/wiki/Special:FilePath/Robinson_Cruose_1719_1st_edition.jpg?width=300</value>
+</thumbnail>
+<released>
+<type>typed-literal</type>
+<datatype>http://www.w3.org/2001/XMLSchema#date</datatype>
+<value>1719-04-25+02:00</value>
+</released>
+<wikilink>
+<type>uri</type>
+<value>http://en.wikipedia.org/wiki/Robinson_Crusoe?oldid=606286456</value>
+</wikilink>
+<abstract>
+<type>literal</type>
+<xml:lang>de</xml:lang>
+<value>Robinson Crusoe [r&apos;ɔbɪnsn kr&apos;u:sou] ist ein Roman von Daniel Defoe, der die Geschichte eines Seemannes erzählt, der mehrere Jahre auf einer Insel als Schiffbrüchiger verbringt. Das Buch erschien 1719 und gilt als der erste englische Roman. Das literarische Motiv des Eingeschlossenseins auf einer Insel bezeichnet man nach ihm auch als Robinsonade.Der vollständige Titel des englischen Originals lautet: The Life and Strange Surprizing Adventures of Robinson Crusoe of York, Mariner: Who lived Eight and Twenty Years, all alone in an un-inhabited Island on the Coast of America, near the Mouth of the Great River of Oroonoque; Having been cast on Shore by Shipwreck, wherein all the Men perished but himself. With An Account how he was at last as strangely deliver&apos;d by Pirates. Written by Himself. („Das Leben und die seltsamen überraschenden Abenteuer des Robinson Crusoe aus York, Seemann, der 28 Jahre allein auf einer unbewohnten Insel an der Küste von Amerika lebte, in der Nähe der Mündung des großen Flusses Oroonoque; durch einen Schiffbruch an Land gespült, bei dem alle außer ihm ums Leben kamen. Mit einer Aufzeichnung, wie er endlich seltsam durch Piraten befreit wurde. Geschrieben von ihm selbst.“)Der große Erfolg des Buches – nach der Erstveröffentlichung am 25. April 1719 erschienen noch selbigen Jahres drei weitere Auflagen – führte zur Fortsetzung The Farther Adventures of Robinson Crusoe vom 20. August 1719 und einem eigentümlichen Nachklapp unter dem nunmehr eingeführten ‚Markennamen‘ Serious Reflections during the Life and Surprising Adventures of Robinson Crusoe, with his Vision of the Angelick World. Written by himself (6. August 1720).Zu den bekannten Illustratoren des Buches gehört Walter Paget.</value>
+</abstract>
+</XML_Serializer_Tag>
+<XML_Serializer_Tag>
+<book>
+<type>uri</type>
+<value>http://dbpedia.org/resource/A_Journal_of_the_Plague_Year</value>
+</book>
+<author>
+<type>uri</type>
+<value>http://dbpedia.org/resource/Daniel_Defoe</value>
+</author>
+<thumbnail>
+<type>uri</type>
+<value>http://commons.wikimedia.org/wiki/Special:FilePath/Defoe_Journal_of_the_Plague_Year.jpg?width=300</value>
+</thumbnail>
+<released>
+<type>typed-literal</type>
+<datatype>http://www.w3.org/2001/XMLSchema#integer</datatype>
+<value>1722</value>
+</released>
+<wikilink>
+<type>uri</type>
+<value>http://en.wikipedia.org/wiki/A_Journal_of_the_Plague_Year?oldid=588419235</value>
+</wikilink>
+<abstract>
+<type>literal</type>
+<xml:lang>de</xml:lang>
+<value>Die Pest zu London (Original: A journal of the plague year) ist ein Buch von Daniel Defoe, das 1722 in Form eines fiktiven Berichts erschien. Sie handelt von Ereignissen während der Großen Pest in London im Jahr 1665.</value>
+</abstract>
+</XML_Serializer_Tag>
+<XML_Serializer_Tag>
+<book>
+<type>uri</type>
+<value>http://dbpedia.org/resource/Moll_Flanders</value>
+</book>
+<author>
+<type>uri</type>
+<value>http://dbpedia.org/resource/Daniel_Defoe</value>
+</author>
+<thumbnail>
+<type>uri</type>
+<value>http://en.wikipedia.org/wiki/Special:FilePath/Mollflanders.jpg?width=300</value>
+</thumbnail>
+<released>
+<type>typed-literal</type>
+<datatype>http://www.w3.org/2001/XMLSchema#integer</datatype>
+<value>1722</value>
+</released>
+<wikilink>
+<type>uri</type>
+<value>http://en.wikipedia.org/wiki/Moll_Flanders?oldid=605197959</value>
+</wikilink>
+<abstract>
+<type>literal</type>
+<xml:lang>de</xml:lang>
+<value>Moll Flanders, im englischen Originaltitel (The Fortunes and Misfortunes of the Famous) Moll Flanders ist ein von Daniel Defoe verfasster und 1722 erschienener Roman. Er beschreibt in der Form einer Ich-Erzählung das Leben von Moll Flanders, einer fiktiven Figur, in der sich aber Teile von realen Persönlichkeiten (unter anderem der des Autors) wiederfinden.</value>
+</abstract>
+</XML_Serializer_Tag>
+<XML_Serializer_Tag>
+<book>
+<type>uri</type>
+<value>http://dbpedia.org/resource/The_Farther_Adventures_of_Robinson_Crusoe</value>
+</book>
+<author>
+<type>uri</type>
+<value>http://dbpedia.org/resource/Daniel_Defoe</value>
+</author>
+<thumbnail>
+<type>uri</type>
+<value>http://commons.wikimedia.org/wiki/Special:FilePath/FartherAdventuresCrusoe.png?width=300</value>
+</thumbnail>
+<released>
+<type>typed-literal</type>
+<datatype>http://www.w3.org/2001/XMLSchema#integer</datatype>
+<value>1719</value>
+</released>
+<wikilink>
+<type>uri</type>
+<value>http://en.wikipedia.org/wiki/The_Farther_Adventures_of_Robinson_Crusoe?oldid=593154373</value>
+</wikilink>
+</XML_Serializer_Tag>
+<XML_Serializer_Tag>
+<book>
+<type>uri</type>
+<value>http://dbpedia.org/resource/Roxana:_The_Fortunate_Mistress</value>
+</book>
+<author>
+<type>uri</type>
+<value>http://dbpedia.org/resource/Daniel_Defoe</value>
+</author>
+<thumbnail>
+<type>uri</type>
+<value>http://en.wikipedia.org/wiki/Special:FilePath/DefoeRoxana.png?width=300</value>
+</thumbnail>
+<released>
+<type>typed-literal</type>
+<datatype>http://www.w3.org/2001/XMLSchema#integer</datatype>
+<value>1724</value>
+</released>
+<wikilink>
+<type>uri</type>
+<value>http://en.wikipedia.org/wiki/Roxana:_The_Fortunate_Mistress?oldid=557155611</value>
+</wikilink>
+</XML_Serializer_Tag>
+</books>
+</Person>

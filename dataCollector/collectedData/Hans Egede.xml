@@ -1,0 +1,39 @@
+<Person>
+<name>Hans Egede</name>
+<variantName>
+<XML_Serializer_Tag>Hans Povelsen Egede</XML_Serializer_Tag>
+<XML_Serializer_Tag>Hans Poulsen Egede</XML_Serializer_Tag>
+<XML_Serializer_Tag>Hans Poulsen Egede</XML_Serializer_Tag>
+<XML_Serializer_Tag>Hans Eggede</XML_Serializer_Tag>
+<XML_Serializer_Tag>Hans Poulsen Eggede</XML_Serializer_Tag>
+<XML_Serializer_Tag>Hans P. Egede</XML_Serializer_Tag>
+<XML_Serializer_Tag>Johannes Egede</XML_Serializer_Tag>
+<XML_Serializer_Tag>Johannes Quercetanus Egede</XML_Serializer_Tag>
+<XML_Serializer_Tag>Johannes Quercetanus Egede</XML_Serializer_Tag>
+<XML_Serializer_Tag>Hans Pobeløn Egede</XML_Serializer_Tag>
+<XML_Serializer_Tag>Hans Povelsøn Egede</XML_Serializer_Tag>
+</variantName>
+<thumbnail>https://commons.wikimedia.org/wiki/Special:FilePath/Hans_Egede.jpg?width=270</thumbnail>
+<birthEN>1686</birthEN>
+<birthDE>1686</birthDE>
+<deathEN>1758</deathEN>
+<deathDE>1758</deathDE>
+<birthPlace>
+<XML_Serializer_Tag>Harstad</XML_Serializer_Tag>
+</birthPlace>
+<deathPlace>
+<XML_Serializer_Tag>Stubbekøbing, Falster</XML_Serializer_Tag>
+</deathPlace>
+<professionOrOccupation>
+<XML_Serializer_Tag>Pfarrer</XML_Serializer_Tag>
+<XML_Serializer_Tag>Missionar</XML_Serializer_Tag>
+<XML_Serializer_Tag>Autor</XML_Serializer_Tag>
+<XML_Serializer_Tag>Entdecker</XML_Serializer_Tag>
+</professionOrOccupation>
+<dbpResource>http://dbpedia.org/resource/Hans_Egede</dbpResource>
+<abstract>Hans Poulsen Egede (* 31. Januarjul./ 10. Februar 1686greg. in Harstad, Norwegen; † 5. November 1758 in Stubbekøbing auf Falster, Dänemark) war ein norwegischer Pfarrer dänischer Abstammung. Er ist auch als „Apostel der Grönländer“ bekannt.</abstract>
+<wikilink>http://en.wikipedia.org/wiki/Hans_Egede?oldid=600997366</wikilink>
+<artworks />
+<buildings />
+<books />
+</Person>

@@ -20,8 +20,10 @@
 <XML_Serializer_Tag>Maler</XML_Serializer_Tag>
 <XML_Serializer_Tag>Radierer</XML_Serializer_Tag>
 </professionOrOccupation>
-<artworks />
 <dbpResource>http://dbpedia.org/resource/Andrea_Schiavone</dbpResource>
 <abstract>Andrea Schiavone (kroatisch: Andrija Medulić, italienisch: Andrea Schiavone, eigentlich Andrea Meldolla (Medola); * um 1510 in Zara (heute Zadar) in Provinz Dalmatien (Kroatien); † 1563 in Venedig) war ein venezianischer Maler.</abstract>
 <wikilink>http://en.wikipedia.org/wiki/Andrea_Schiavone?oldid=606197338</wikilink>
+<artworks />
+<buildings />
+<books />
 </Person>

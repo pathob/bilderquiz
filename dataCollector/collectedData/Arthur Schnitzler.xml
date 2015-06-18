@@ -1,0 +1,94 @@
+<Person>
+<name>Arthur Schnitzler</name>
+<variantName>
+<XML_Serializer_Tag>Arturo Schnitzler</XML_Serializer_Tag>
+<XML_Serializer_Tag>Artur Schnitzler</XML_Serializer_Tag>
+<XML_Serializer_Tag>... Shinicile</XML_Serializer_Tag>
+<XML_Serializer_Tag>A&apos;ertu&apos;er Shinizile</XML_Serializer_Tag>
+<XML_Serializer_Tag>Artur Shnicler</XML_Serializer_Tag>
+<XML_Serializer_Tag>Artur Shnitsler</XML_Serializer_Tag>
+<XML_Serializer_Tag>Shunitsureru</XML_Serializer_Tag>
+<XML_Serializer_Tag>Shunittsurā</XML_Serializer_Tag>
+<XML_Serializer_Tag>Artur Šnicler</XML_Serializer_Tag>
+<XML_Serializer_Tag>Arturs Šniclers</XML_Serializer_Tag>
+<XML_Serializer_Tag>Artur Šnitcler</XML_Serializer_Tag>
+<XML_Serializer_Tag>Alfred Schnitzler</XML_Serializer_Tag>
+<XML_Serializer_Tag>아르투르 슈니츨러</XML_Serializer_Tag>
+<XML_Serializer_Tag>아르투어 슈니츨러</XML_Serializer_Tag>
+<XML_Serializer_Tag>ארתור שניצלר</XML_Serializer_Tag>
+<XML_Serializer_Tag>アルトゥル・シュニッツラー</XML_Serializer_Tag>
+<XML_Serializer_Tag>阿尔图尔·施尼茨勒</XML_Serializer_Tag>
+<XML_Serializer_Tag>阿尔图尔 施尼茨勒</XML_Serializer_Tag>
+</variantName>
+<thumbnail>https://commons.wikimedia.org/wiki/Special:FilePath/Arthur_Schnitzler_1912.jpg?width=270</thumbnail>
+<birthEN>May 15, 1862</birthEN>
+<birthDE>15. Mai 1862</birthDE>
+<deathEN>October 21, 1931</deathEN>
+<deathDE>21. Oktober 1931</deathDE>
+<birthPlace>
+<XML_Serializer_Tag>Wien</XML_Serializer_Tag>
+</birthPlace>
+<deathPlace>
+<XML_Serializer_Tag>Wien</XML_Serializer_Tag>
+</deathPlace>
+<professionOrOccupation>
+<XML_Serializer_Tag>Schriftsteller</XML_Serializer_Tag>
+<XML_Serializer_Tag>Dramatiker</XML_Serializer_Tag>
+<XML_Serializer_Tag>Arzt</XML_Serializer_Tag>
+</professionOrOccupation>
+<dbpResource>http://dbpedia.org/resource/Arthur_Schnitzler</dbpResource>
+<abstract>Arthur Schnitzler (* 15. Mai 1862 in Wien; † 21. Oktober 1931 ebenda) war ein österreichischer Erzähler und Dramatiker. Er gilt als einer der bedeutendsten Vertreter der Wiener Moderne.</abstract>
+<wikilink>http://en.wikipedia.org/wiki/Arthur_Schnitzler?oldid=597139676</wikilink>
+<artworks />
+<buildings />
+<books>
+<XML_Serializer_Tag>
+<book>
+<type>uri</type>
+<value>http://dbpedia.org/resource/Dream_Story</value>
+</book>
+<author>
+<type>uri</type>
+<value>http://dbpedia.org/resource/Arthur_Schnitzler</value>
+</author>
+<released>
+<type>typed-literal</type>
+<datatype>http://www.w3.org/2001/XMLSchema#integer</datatype>
+<value>1926</value>
+</released>
+<wikilink>
+<type>uri</type>
+<value>http://en.wikipedia.org/wiki/Dream_Story?oldid=605435810</value>
+</wikilink>
+<abstract>
+<type>literal</type>
+<xml:lang>de</xml:lang>
+<value>Die „Traumnovelle“ ist eine Novelle von Arthur Schnitzler. Sie erschien 1925 kapitelweise in der Berliner Modezeitschrift Die Dame. Die erste Buchausgabe kam 1926 im S.-Fischer-Verlag heraus.</value>
+</abstract>
+</XML_Serializer_Tag>
+<XML_Serializer_Tag>
+<book>
+<type>uri</type>
+<value>http://dbpedia.org/resource/Der_Weg_ins_Freie</value>
+</book>
+<author>
+<type>uri</type>
+<value>http://dbpedia.org/resource/Arthur_Schnitzler</value>
+</author>
+<released>
+<type>typed-literal</type>
+<datatype>http://www.w3.org/2001/XMLSchema#integer</datatype>
+<value>1908</value>
+</released>
+<wikilink>
+<type>uri</type>
+<value>http://en.wikipedia.org/wiki/Der_Weg_ins_Freie?oldid=587529544</value>
+</wikilink>
+<abstract>
+<type>literal</type>
+<xml:lang>de</xml:lang>
+<value>Der Weg ins Freie ist der Romanerstling von Arthur Schnitzler. Der Autor begann 1902 mit der Arbeit am Manuskript. Im Juni 1908 erschien das Buch bei S. Fischer in Berlin.</value>
+</abstract>
+</XML_Serializer_Tag>
+</books>
+</Person>

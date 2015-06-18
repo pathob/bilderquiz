@@ -1,0 +1,55 @@
+<Person>
+<name>Franz Brentano</name>
+<variantName>
+<XML_Serializer_Tag>Franz C. Brentano</XML_Serializer_Tag>
+<XML_Serializer_Tag>Franz Clemens Brentano</XML_Serializer_Tag>
+<XML_Serializer_Tag>Franz K. Brentano</XML_Serializer_Tag>
+<XML_Serializer_Tag>Franz Klemens Brentano</XML_Serializer_Tag>
+<XML_Serializer_Tag>Franc Brentano</XML_Serializer_Tag>
+<XML_Serializer_Tag>Francisco Brentano</XML_Serializer_Tag>
+</variantName>
+<thumbnail>https://commons.wikimedia.org/wiki/Special:FilePath/Franz_Brentano.jpeg?width=270</thumbnail>
+<birthEN>January 16, 1838</birthEN>
+<birthDE>16. Januar 1838</birthDE>
+<deathEN>March 17, 1917</deathEN>
+<deathDE>17. März 1917</deathDE>
+<birthPlace>
+<XML_Serializer_Tag>Marienberg bei Boppard am Rhein</XML_Serializer_Tag>
+</birthPlace>
+<deathPlace>
+<XML_Serializer_Tag>Zürich</XML_Serializer_Tag>
+</deathPlace>
+<professionOrOccupation>
+<XML_Serializer_Tag>Philosoph</XML_Serializer_Tag>
+<XML_Serializer_Tag>Psychologe</XML_Serializer_Tag>
+<XML_Serializer_Tag>Übersetzer</XML_Serializer_Tag>
+<XML_Serializer_Tag>Hochschullehrer</XML_Serializer_Tag>
+</professionOrOccupation>
+<dbpResource>http://dbpedia.org/resource/Franz_Brentano</dbpResource>
+<abstract>Franz Clemens Brentano (* 16. Januar 1838 im damals schon aufgelösten Kloster Marienberg bei Boppard am Rhein; † 17. März 1917 in Zürich) war ein deutscher Philosoph, Psychologe und Begründer der Aktpsychologie.</abstract>
+<wikilink>http://en.wikipedia.org/wiki/Franz_Brentano?oldid=604845854</wikilink>
+<artworks />
+<buildings />
+<books>
+<XML_Serializer_Tag>
+<book>
+<type>uri</type>
+<value>http://dbpedia.org/resource/Psychology_from_an_Empirical_Standpoint</value>
+</book>
+<author>
+<type>uri</type>
+<value>http://dbpedia.org/resource/Franz_Brentano</value>
+</author>
+<published>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>*1874 
+*1973</value>
+</published>
+<wikilink>
+<type>uri</type>
+<value>http://en.wikipedia.org/wiki/Psychology_from_an_Empirical_Standpoint?oldid=605551239</value>
+</wikilink>
+</XML_Serializer_Tag>
+</books>
+</Person>

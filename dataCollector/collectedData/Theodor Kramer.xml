@@ -1,0 +1,30 @@
+<Person>
+<name>Theodor Kramer</name>
+<variantName>
+<XML_Serializer_Tag>Teodor Kramer</XML_Serializer_Tag>
+<XML_Serializer_Tag>Theodor Cramer</XML_Serializer_Tag>
+<XML_Serializer_Tag>Teddy</XML_Serializer_Tag>
+</variantName>
+<thumbnail>https://commons.wikimedia.org/wiki/Special:FilePath/GuentherZ_2007-11-03_1320_Gedenktafel_Theodor_Kramer_Wien02.jpg?width=270</thumbnail>
+<birthEN>January 1, 1897</birthEN>
+<birthDE>1. Januar 1897</birthDE>
+<deathEN>April 3, 1958</deathEN>
+<deathDE>3. April 1958</deathDE>
+<birthPlace>
+<XML_Serializer_Tag>Niederhollabrunn</XML_Serializer_Tag>
+</birthPlace>
+<deathPlace>
+<XML_Serializer_Tag>Wien</XML_Serializer_Tag>
+</deathPlace>
+<professionOrOccupation>
+<XML_Serializer_Tag>Schriftsteller</XML_Serializer_Tag>
+<XML_Serializer_Tag>Buchhändler</XML_Serializer_Tag>
+<XML_Serializer_Tag>Lyriker</XML_Serializer_Tag>
+</professionOrOccupation>
+<dbpResource>http://dbpedia.org/resource/Theodor_Kramer</dbpResource>
+<abstract>Theodor Kramer (* 1. Jänner 1897 in Niederhollabrunn; † 3. April 1958 in Wien) war ein österreichischer Lyriker.</abstract>
+<wikilink>http://en.wikipedia.org/wiki/Theodor_Kramer?oldid=593639011</wikilink>
+<artworks />
+<buildings />
+<books />
+</Person>

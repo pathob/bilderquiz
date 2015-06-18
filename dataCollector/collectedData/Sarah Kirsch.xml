@@ -1,0 +1,34 @@
+<Person>
+<name>Sarah Kirsch</name>
+<variantName>
+<XML_Serializer_Tag>Zāra Kirushu</XML_Serializer_Tag>
+<XML_Serializer_Tag>Sara Kirš</XML_Serializer_Tag>
+<XML_Serializer_Tag>Ingrid Bernstein</XML_Serializer_Tag>
+<XML_Serializer_Tag>Ingrid Hella Irmelinde Bernstein</XML_Serializer_Tag>
+<XML_Serializer_Tag>Ingrid Hella Irmelinde Kirsch</XML_Serializer_Tag>
+<XML_Serializer_Tag>ザーラ キルシュ</XML_Serializer_Tag>
+</variantName>
+<thumbnail>https://commons.wikimedia.org/wiki/Special:FilePath/Sarah_Kirsch.jpg?width=270</thumbnail>
+<birthEN>April 16, 1935</birthEN>
+<birthDE>16. April 1935</birthDE>
+<deathEN>May 5, 2013</deathEN>
+<deathDE>5. Mai 2013</deathDE>
+<birthPlace>
+<XML_Serializer_Tag>Limlingerode</XML_Serializer_Tag>
+</birthPlace>
+<deathPlace>
+<XML_Serializer_Tag>Heide (Dithmarschen)</XML_Serializer_Tag>
+</deathPlace>
+<professionOrOccupation>
+<XML_Serializer_Tag>Lyrikerin</XML_Serializer_Tag>
+<XML_Serializer_Tag>Malerin</XML_Serializer_Tag>
+<XML_Serializer_Tag>Biologin</XML_Serializer_Tag>
+<XML_Serializer_Tag>Schriftstellerin</XML_Serializer_Tag>
+</professionOrOccupation>
+<dbpResource>http://dbpedia.org/resource/Sarah_Kirsch_(poet)</dbpResource>
+<abstract>Sarah Kirsch (* 16. April 1935 in Limlingerode, Kreis Nordhausen; † 5. Mai 2013 in Heide (Holstein); eigentlich: Ingrid Hella Irmelinde Kirsch, geb. Bernstein) war eine deutsche Schriftstellerin.</abstract>
+<wikilink>http://en.wikipedia.org/wiki/Sarah_Kirsch_(poet)?oldid=583157154</wikilink>
+<artworks />
+<buildings />
+<books />
+</Person>

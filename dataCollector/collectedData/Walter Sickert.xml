@@ -19,8 +19,10 @@
 <professionOrOccupation>
 <XML_Serializer_Tag>Maler</XML_Serializer_Tag>
 </professionOrOccupation>
-<artworks />
 <dbpResource>http://dbpedia.org/resource/Walter_Sickert</dbpResource>
 <abstract>Walter Richard Sickert (* 31. Mai 1860 in München; † 22. Januar 1942 in Bath) war ein in Deutschland geborener englischer Maler. Er gilt als exzentrische, aber einflussreiche Figur des Überganges vom Impressionismus zur Moderne.</abstract>
 <wikilink>http://en.wikipedia.org/wiki/Walter_Sickert?oldid=602723403</wikilink>
+<artworks />
+<buildings />
+<books />
 </Person>

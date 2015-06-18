@@ -15,8 +15,10 @@
 <XML_Serializer_Tag>Zeichner</XML_Serializer_Tag>
 <XML_Serializer_Tag>Aquarellmaler</XML_Serializer_Tag>
 </professionOrOccupation>
-<artworks />
 <dbpResource>http://dbpedia.org/resource/Robert_Batty_(artist)</dbpResource>
 <abstract>Robert Batty (* 1789 in London; † 20. November 1848 in London) war ein britischer Offizier, Maler, Zeichner, Aquarellist, Radierer und Illustrator.Mit seinen gezeichneten Ansichten machte sich Batty international einen bleibenden Namen. Die meisten seiner Zeichnungen wurden von anderen Künstlern in Kupfer- und Stahlstiche übertragen, vervielfältigt und verbreitet.</abstract>
 <wikilink>http://en.wikipedia.org/wiki/Robert_Batty_(artist)?oldid=599044705</wikilink>
+<artworks />
+<buildings />
+<books />
 </Person>

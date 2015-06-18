@@ -1,0 +1,27 @@
+<Person>
+<name>Donald Davidson</name>
+<variantName>
+<XML_Serializer_Tag>Donald H. Davidson</XML_Serializer_Tag>
+<XML_Serializer_Tag>Donald Herbert Davidson</XML_Serializer_Tag>
+</variantName>
+<thumbnail>https://en.wikipedia.org/wiki/Special:FilePath/Davidson_pyke.jpg?width=270</thumbnail>
+<birthEN>March 6, 1917</birthEN>
+<birthDE>6. März 1917</birthDE>
+<deathEN>August 31, 2003</deathEN>
+<deathDE>31. August 2003</deathDE>
+<birthPlace>
+<XML_Serializer_Tag>Springfield, Mass.</XML_Serializer_Tag>
+</birthPlace>
+<deathPlace>
+<XML_Serializer_Tag>Berkeley, Calif.</XML_Serializer_Tag>
+</deathPlace>
+<professionOrOccupation>
+<XML_Serializer_Tag>Philosoph</XML_Serializer_Tag>
+</professionOrOccupation>
+<dbpResource>http://dbpedia.org/resource/Donald_Davidson_(philosopher)</dbpResource>
+<abstract>Donald Herbert Davidson (* 6. März 1917 in Springfield, Massachusetts; † 30. August 2003 in Berkeley, Kalifornien) war ein US-amerikanischer analytischer Philosoph und ein Schüler von Willard Van Orman Quine.</abstract>
+<wikilink>http://en.wikipedia.org/wiki/Donald_Davidson_(philosopher)?oldid=604012327</wikilink>
+<artworks />
+<buildings />
+<books />
+</Person>

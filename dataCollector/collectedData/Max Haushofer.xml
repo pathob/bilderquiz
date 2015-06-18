@@ -1,0 +1,27 @@
+<Person>
+<name>Max Haushofer</name>
+<variantName>
+<XML_Serializer_Tag>M. Haushofer</XML_Serializer_Tag>
+</variantName>
+<thumbnail>https://commons.wikimedia.org/wiki/Special:FilePath/Max_Haushofer_by_Paul_Heyse.jpeg?width=270</thumbnail>
+<birthEN>April 23, 1840</birthEN>
+<birthDE>23. April 1840</birthDE>
+<deathEN>April 10, 1907</deathEN>
+<deathDE>10. April 1907</deathDE>
+<birthPlace>
+<XML_Serializer_Tag>München</XML_Serializer_Tag>
+</birthPlace>
+<deathPlace>
+<XML_Serializer_Tag>Gries</XML_Serializer_Tag>
+</deathPlace>
+<professionOrOccupation>
+<XML_Serializer_Tag>Wirtschaftswissenschaftler</XML_Serializer_Tag>
+<XML_Serializer_Tag>Schriftsteller</XML_Serializer_Tag>
+</professionOrOccupation>
+<dbpResource>http://dbpedia.org/resource/Max_Haushofer</dbpResource>
+<abstract>Maximilian Joseph Haushofer (* 12. September 1811 in Nymphenburg bei München; † 24. August 1866 in Starnberg) war ein deutscher Landschaftsmaler und Professor für Landschaftsmalerei an der Prager Kunstakademie.</abstract>
+<wikilink>http://en.wikipedia.org/wiki/Max_Haushofer?oldid=570916934</wikilink>
+<artworks />
+<buildings />
+<books />
+</Person>

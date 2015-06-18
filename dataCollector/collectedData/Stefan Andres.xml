@@ -1,0 +1,32 @@
+<Person>
+<name>Stefan Andres</name>
+<variantName>
+<XML_Serializer_Tag>Stefen Andres</XML_Serializer_Tag>
+<XML_Serializer_Tag>Stefan P. Andres</XML_Serializer_Tag>
+<XML_Serializer_Tag>Stefan Paul Andres</XML_Serializer_Tag>
+<XML_Serializer_Tag>Octavio Kant</XML_Serializer_Tag>
+<XML_Serializer_Tag>Octavio Scott</XML_Serializer_Tag>
+<XML_Serializer_Tag>Stephan Andres</XML_Serializer_Tag>
+</variantName>
+<thumbnail>https://commons.wikimedia.org/wiki/Special:FilePath/Geburtshaus-stefan-andres.jpg?width=270</thumbnail>
+<birthEN>June 26, 1906</birthEN>
+<birthDE>26. Juni 1906</birthDE>
+<deathEN>June 29, 1970</deathEN>
+<deathDE>29. Juni 1970</deathDE>
+<birthPlace>
+<XML_Serializer_Tag>Dhrönchen</XML_Serializer_Tag>
+</birthPlace>
+<deathPlace>
+<XML_Serializer_Tag>Rom</XML_Serializer_Tag>
+</deathPlace>
+<professionOrOccupation>
+<XML_Serializer_Tag>Schriftsteller</XML_Serializer_Tag>
+<XML_Serializer_Tag>Lyriker</XML_Serializer_Tag>
+</professionOrOccupation>
+<dbpResource>http://dbpedia.org/resource/Stefan_Andres</dbpResource>
+<abstract>Stefan Paul Andres (* 26. Juni 1906 in Trittenheim, Ortsteil Dhrönchen; † 29. Juni 1970 in Rom) war ein deutscher Schriftsteller. Andres, Mitglied im Bamberger Dichterkreis, war in den 1950er Jahren einer der meistgelesenen deutschen Autoren. Seine bekanntesten Werke sind die Novellen El Greco malt den Großinquisitor (1936) und Wir sind Utopia (1942).</abstract>
+<wikilink>http://en.wikipedia.org/wiki/Stefan_Andres?oldid=580861389</wikilink>
+<artworks />
+<buildings />
+<books />
+</Person>

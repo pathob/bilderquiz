@@ -17,8 +17,10 @@
 <XML_Serializer_Tag>Maler</XML_Serializer_Tag>
 <XML_Serializer_Tag>Kunstsammler</XML_Serializer_Tag>
 </professionOrOccupation>
-<artworks />
 <dbpResource>http://dbpedia.org/resource/Jacob_Pins</dbpResource>
 <abstract>Jacob Pins (hebräisch ‏יעקב פינס‎, Geburtsname: Otto Pins; * 17. Januar 1917 in Höxter; † 4. Dezember 2005 in Jerusalem, Israel) war ein deutsch-israelischer Maler. Er wurde vor allem als Holzschneider und Grafiker sowie als Sammler und Kenner ostasiatischer Kunst weltweit bekannt.</abstract>
 <wikilink>http://en.wikipedia.org/wiki/Jacob_Pins?oldid=600864085</wikilink>
+<artworks />
+<buildings />
+<books />
 </Person>

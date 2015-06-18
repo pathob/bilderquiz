@@ -18,8 +18,10 @@
 <XML_Serializer_Tag>Graphiker</XML_Serializer_Tag>
 <XML_Serializer_Tag>Bildhauer</XML_Serializer_Tag>
 </professionOrOccupation>
-<artworks />
 <dbpResource>http://dbpedia.org/resource/Otto_Freundlich</dbpResource>
 <abstract>Otto Freundlich (* 10. Juli 1878 in Stolp, Pommern; † 9. März 1943 im KZ Lublin-Majdanek oder Sobibor) war ein deutscher Maler und Bildhauer sowie Verfasser kunsttheoretisch-philosophischer Schriften. Freundlich war einer der ersten Vertreter der abstrakten Kunst.</abstract>
 <wikilink>http://en.wikipedia.org/wiki/Otto_Freundlich?oldid=603554552</wikilink>
+<artworks />
+<buildings />
+<books />
 </Person>

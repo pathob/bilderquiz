@@ -1,0 +1,27 @@
+<Person>
+<name>Siegfried Einstein</name>
+<variantName>
+<XML_Serializer_Tag>Siegfried Joseph Einstein</XML_Serializer_Tag>
+</variantName>
+<thumbnail>https://commons.wikimedia.org/wiki/Special:FilePath/Laupheim_former_department_store_Einstein.JPG?width=270</thumbnail>
+<birthEN>November 30, 1919</birthEN>
+<birthDE>30. November 1919</birthDE>
+<deathEN>April 25, 1983</deathEN>
+<deathDE>25. April 1983</deathDE>
+<birthPlace>
+<XML_Serializer_Tag>Laupheim</XML_Serializer_Tag>
+</birthPlace>
+<deathPlace>
+<XML_Serializer_Tag>Mannheim</XML_Serializer_Tag>
+</deathPlace>
+<professionOrOccupation>
+<XML_Serializer_Tag>Schriftsteller</XML_Serializer_Tag>
+<XML_Serializer_Tag>Lyriker</XML_Serializer_Tag>
+</professionOrOccupation>
+<dbpResource>http://dbpedia.org/resource/Siegfried_Einstein</dbpResource>
+<abstract>Siegfried Einstein (* 30. November 1919 in Laupheim; † 25. April 1983 in Mannheim) war ein deutscher Dichter, Lyriker, Schriftsteller und Essayist. Außerdem war Siegfried Einstein als Redner, Dokumentator und Journalist tätig.</abstract>
+<wikilink>http://en.wikipedia.org/wiki/Siegfried_Einstein?oldid=592011892</wikilink>
+<artworks />
+<buildings />
+<books />
+</Person>

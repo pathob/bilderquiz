@@ -1,0 +1,31 @@
+<Person>
+<name>Hedwig Lachmann</name>
+<variantName>
+<XML_Serializer_Tag>Hedwig Landauer</XML_Serializer_Tag>
+<XML_Serializer_Tag>Hedwig Landauer-Lachmann</XML_Serializer_Tag>
+<XML_Serializer_Tag>Hedwig Landauer Lachmann</XML_Serializer_Tag>
+<XML_Serializer_Tag>Hedwig Lachmann-Landauer</XML_Serializer_Tag>
+<XML_Serializer_Tag>Hedwig Lachmann-Landauer</XML_Serializer_Tag>
+</variantName>
+<thumbnail>https://commons.wikimedia.org/wiki/Special:FilePath/Hedwig_Lachmann_-_1865-1918.jpg?width=270</thumbnail>
+<birthEN>August 28, 1865</birthEN>
+<birthDE>28. August 1865</birthDE>
+<deathEN>September 21, 1918</deathEN>
+<deathDE>21. September 1918</deathDE>
+<birthPlace>
+<XML_Serializer_Tag>Stolp/Pommern</XML_Serializer_Tag>
+</birthPlace>
+<deathPlace>
+<XML_Serializer_Tag>Krumbach</XML_Serializer_Tag>
+</deathPlace>
+<professionOrOccupation>
+<XML_Serializer_Tag>Schriftstellerin</XML_Serializer_Tag>
+<XML_Serializer_Tag>Übersetzerin</XML_Serializer_Tag>
+</professionOrOccupation>
+<dbpResource>http://dbpedia.org/resource/Hedwig_Lachmann</dbpResource>
+<abstract>Hedwig Lachmann, verehelichte Landauer, (* 29. August 1865 in Stolp, Pommern, heute Słupsk, Polen; † 21. Februar 1918 in Krumbach) war eine deutsche Schriftstellerin, Übersetzerin und Dichterin.</abstract>
+<wikilink>http://en.wikipedia.org/wiki/Hedwig_Lachmann?oldid=541469731</wikilink>
+<artworks />
+<buildings />
+<books />
+</Person>

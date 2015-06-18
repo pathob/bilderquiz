@@ -23,8 +23,10 @@
 <XML_Serializer_Tag>Maler</XML_Serializer_Tag>
 <XML_Serializer_Tag>Radierer</XML_Serializer_Tag>
 </professionOrOccupation>
-<artworks />
 <dbpResource>http://dbpedia.org/resource/Hans_Ulrich_Franck</dbpResource>
 <abstract>Hans Ulrich Franck (* 1590/95 in Kaufbeuren; † Herbst 1675 in Augsburg) war ein deutscher Maler, Zeichner und Radierer.</abstract>
 <wikilink>http://en.wikipedia.org/wiki/Hans_Ulrich_Franck?oldid=567607307</wikilink>
+<artworks />
+<buildings />
+<books />
 </Person>

@@ -1,0 +1,74 @@
+<Person>
+<name>Gaston Leroux</name>
+<variantName />
+<thumbnail>https://commons.wikimedia.org/wiki/Special:FilePath/Gaston_Leroux.jpg?width=270</thumbnail>
+<birthEN>May 6, 1868</birthEN>
+<birthDE>6. Mai 1868</birthDE>
+<deathEN>April 15, 1927</deathEN>
+<deathDE>15. April 1927</deathDE>
+<birthPlace>
+<XML_Serializer_Tag>Paris</XML_Serializer_Tag>
+</birthPlace>
+<deathPlace />
+<professionOrOccupation>
+<XML_Serializer_Tag>Schriftsteller</XML_Serializer_Tag>
+</professionOrOccupation>
+<dbpResource>http://dbpedia.org/resource/Gaston_Leroux</dbpResource>
+<abstract>Gaston Louis Alfred Leroux (* 6. Mai 1868 in Paris; † 15. April 1927 in Nizza) war ein französischer Journalist und Schriftsteller. Weltbekannt ist er vor allem durch seinen Roman „Das Phantom der Oper“ (Le fantôme de l&apos;opéra, 1910).</abstract>
+<wikilink>http://en.wikipedia.org/wiki/Gaston_Leroux?oldid=606249207</wikilink>
+<artworks />
+<buildings />
+<books>
+<XML_Serializer_Tag>
+<book>
+<type>uri</type>
+<value>http://dbpedia.org/resource/The_Phantom_of_the_Opera</value>
+</book>
+<author>
+<type>uri</type>
+<value>http://dbpedia.org/resource/Gaston_Leroux</value>
+</author>
+<thumbnail>
+<type>uri</type>
+<value>http://en.wikipedia.org/wiki/Special:FilePath/Phantom_of_the_Opera_Cover.jpg?width=300</value>
+</thumbnail>
+<released>
+<type>typed-literal</type>
+<datatype>http://www.w3.org/2001/XMLSchema#gMonthDay</datatype>
+<value>0001-09-23+02:00</value>
+</released>
+<wikilink>
+<type>uri</type>
+<value>http://en.wikipedia.org/wiki/The_Phantom_of_the_Opera?oldid=605570048</value>
+</wikilink>
+<abstract>
+<type>literal</type>
+<xml:lang>de</xml:lang>
+<value>Das Phantom der Oper ist ein Roman des französischen Journalisten und Schriftstellers Gaston Leroux (französischer Originaltitel: Le Fantôme de l’Opéra), der in Fortsetzungen in der Zeitung Le Gaulois vom 23. September 1909 bis zum 8. Januar 1910 veröffentlicht wurde. Die Geschichte wurde mehrfach verfilmt, und es existieren auch vier Bühnenfassungen des Stücks. Die bekannteste Bearbeitung des Materials stellt das gleichnamige Musical von Andrew Lloyd Webber und Richard Stilgoe dar.</value>
+</abstract>
+</XML_Serializer_Tag>
+<XML_Serializer_Tag>
+<book>
+<type>uri</type>
+<value>http://dbpedia.org/resource/The_Mystery_of_the_Yellow_Room</value>
+</book>
+<author>
+<type>uri</type>
+<value>http://dbpedia.org/resource/Gaston_Leroux</value>
+</author>
+<thumbnail>
+<type>uri</type>
+<value>http://en.wikipedia.org/wiki/Special:FilePath/Leroux_Chambre_Jaune.jpg?width=300</value>
+</thumbnail>
+<released>
+<type>typed-literal</type>
+<datatype>http://www.w3.org/2001/XMLSchema#integer</datatype>
+<value>1907</value>
+</released>
+<wikilink>
+<type>uri</type>
+<value>http://en.wikipedia.org/wiki/The_Mystery_of_the_Yellow_Room?oldid=598083964</value>
+</wikilink>
+</XML_Serializer_Tag>
+</books>
+</Person>

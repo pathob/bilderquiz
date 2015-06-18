@@ -21,8 +21,10 @@
 <XML_Serializer_Tag>Schriftsteller</XML_Serializer_Tag>
 <XML_Serializer_Tag>Galeriedirektor</XML_Serializer_Tag>
 </professionOrOccupation>
-<artworks />
 <dbpResource>http://dbpedia.org/resource/Heinrich_von_Rustige</dbpResource>
 <abstract>Heinrich Franz Gaudenz von Rustige (* 12. April 1810 in Werl; † 15. Januar 1900 in Stuttgart) war ein deutscher Maler.</abstract>
 <wikilink>http://en.wikipedia.org/wiki/Heinrich_von_Rustige?oldid=595295908</wikilink>
+<artworks />
+<buildings />
+<books />
 </Person>

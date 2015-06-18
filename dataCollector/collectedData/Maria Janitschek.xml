@@ -1,0 +1,26 @@
+<Person>
+<name>Maria Janitschek</name>
+<variantName>
+<XML_Serializer_Tag>Marius Stein</XML_Serializer_Tag>
+<XML_Serializer_Tag>Marie Janitschek</XML_Serializer_Tag>
+<XML_Serializer_Tag>Maria Tölk</XML_Serializer_Tag>
+</variantName>
+<thumbnail>https://commons.wikimedia.org/wiki/Special:FilePath/Maria_Janitschek_1898.jpg?width=270</thumbnail>
+<birthEN>July 23, 1859</birthEN>
+<birthDE>23. Juli 1859</birthDE>
+<deathEN>April 28, 1927</deathEN>
+<deathDE>28. April 1927</deathDE>
+<birthPlace>
+<XML_Serializer_Tag>Mödling</XML_Serializer_Tag>
+</birthPlace>
+<deathPlace />
+<professionOrOccupation>
+<XML_Serializer_Tag>Schriftstellerin</XML_Serializer_Tag>
+</professionOrOccupation>
+<dbpResource>http://dbpedia.org/resource/Maria_Janitschek</dbpResource>
+<abstract>Maria Janitschek, geborene Tölk (* 22. Juli 1859 in Mödling bei Wien; † 28. April 1927 in München) war eine deutsche Schriftstellerin österreichischer Herkunft. Sie schrieb zunächst unter dem Pseudonym Marius Stein.</abstract>
+<wikilink>http://en.wikipedia.org/wiki/Maria_Janitschek?oldid=577430255</wikilink>
+<artworks />
+<buildings />
+<books />
+</Person>

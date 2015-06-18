@@ -1,0 +1,103 @@
+<Person>
+<name>Wolfgang Hohlbein</name>
+<variantName>
+<XML_Serializer_Tag>Wolfgang E. Hohlbein</XML_Serializer_Tag>
+<XML_Serializer_Tag>Wofgang Hohlbein</XML_Serializer_Tag>
+<XML_Serializer_Tag>W. Hohlbein</XML_Serializer_Tag>
+<XML_Serializer_Tag>Volfgang Cholbajn</XML_Serializer_Tag>
+<XML_Serializer_Tag>Vol&apos;fgang Chol&apos;bajn</XML_Serializer_Tag>
+<XML_Serializer_Tag>Bolphnkannk Cholmpai͏̈n</XML_Serializer_Tag>
+<XML_Serializer_Tag>Polp&apos;ŭgang Holbain</XML_Serializer_Tag>
+<XML_Serializer_Tag>... Holbeini</XML_Serializer_Tag>
+<XML_Serializer_Tag>Volfgangs Holbeins</XML_Serializer_Tag>
+<XML_Serializer_Tag>Wolfgang Holhbein</XML_Serializer_Tag>
+<XML_Serializer_Tag>Worufugangu Hōrubain</XML_Serializer_Tag>
+<XML_Serializer_Tag>Wofugang Huo&apos;erben</XML_Serializer_Tag>
+<XML_Serializer_Tag>Wofugang-Huo&apos;erben</XML_Serializer_Tag>
+<XML_Serializer_Tag>Angela Bonnella</XML_Serializer_Tag>
+<XML_Serializer_Tag>Robert Craven</XML_Serializer_Tag>
+<XML_Serializer_Tag>Wolfgang Eschenloh</XML_Serializer_Tag>
+<XML_Serializer_Tag>Martin Heidner</XML_Serializer_Tag>
+<XML_Serializer_Tag>Michael Marks</XML_Serializer_Tag>
+<XML_Serializer_Tag>Jason MacCloud</XML_Serializer_Tag>
+<XML_Serializer_Tag>Jason Mac Cloud</XML_Serializer_Tag>
+<XML_Serializer_Tag>Jason McCloud</XML_Serializer_Tag>
+<XML_Serializer_Tag>Jason Mc Cloud</XML_Serializer_Tag>
+<XML_Serializer_Tag>Angela Smith</XML_Serializer_Tag>
+<XML_Serializer_Tag>Jack Vernom</XML_Serializer_Tag>
+<XML_Serializer_Tag>Henry Wolf</XML_Serializer_Tag>
+<XML_Serializer_Tag>Wofgang Hohlbein</XML_Serializer_Tag>
+<XML_Serializer_Tag>Ṿolfgang Hohlbayn</XML_Serializer_Tag>
+<XML_Serializer_Tag>Wo er fu gang Huo er bai yin</XML_Serializer_Tag>
+<XML_Serializer_Tag>Woerfugang-Huoerbaiyin</XML_Serializer_Tag>
+<XML_Serializer_Tag>Woerfugang Huoerbaiyin</XML_Serializer_Tag>
+<XML_Serializer_Tag>Wo er fu gang Huo er bai en</XML_Serializer_Tag>
+<XML_Serializer_Tag>Woerfugang-Huoerbaien</XML_Serializer_Tag>
+<XML_Serializer_Tag>Woerfugang Huoerbaien</XML_Serializer_Tag>
+<XML_Serializer_Tag>沃尔夫冈‧霍尔拜恩</XML_Serializer_Tag>
+</variantName>
+<thumbnail>https://commons.wikimedia.org/wiki/Special:FilePath/Hohlbein_Wolfgang_Autor_floersheim_main_290607.jpg?width=270</thumbnail>
+<birthEN>1953</birthEN>
+<birthDE>1953</birthDE>
+<deathEN />
+<deathDE />
+<birthPlace>
+<XML_Serializer_Tag>Weimar</XML_Serializer_Tag>
+</birthPlace>
+<deathPlace />
+<professionOrOccupation>
+<XML_Serializer_Tag>Schriftsteller</XML_Serializer_Tag>
+<XML_Serializer_Tag>Industriekaufmann</XML_Serializer_Tag>
+<XML_Serializer_Tag>Sprecher</XML_Serializer_Tag>
+</professionOrOccupation>
+<dbpResource>http://dbpedia.org/resource/Wolfgang_Hohlbein</dbpResource>
+<abstract>Wolfgang Hohlbein (* 15. August 1953 in Weimar) ist ein deutscher Schriftsteller in den Genres Horror-, Science-Fiction- und Fantasyliteratur. Mit rund 43 Millionen verkauften Büchern zählt er zu den erfolgreichsten Autoren Deutschlands. Sein Durchbruch gelang ihm 1982 mit dem zusammen mit seiner Frau verfassten Roman Märchenmond. Wolfgang Hohlbein lebt in Neuss.</abstract>
+<wikilink>http://en.wikipedia.org/wiki/Wolfgang_Hohlbein?oldid=596793665</wikilink>
+<artworks />
+<buildings />
+<books>
+<XML_Serializer_Tag>
+<book>
+<type>uri</type>
+<value>http://dbpedia.org/resource/Magic_Moon</value>
+</book>
+<author>
+<type>uri</type>
+<value>http://dbpedia.org/resource/Wolfgang_Hohlbein</value>
+</author>
+<released>
+<type>typed-literal</type>
+<datatype>http://www.w3.org/2001/XMLSchema#integer</datatype>
+<value>1982</value>
+</released>
+<wikilink>
+<type>uri</type>
+<value>http://en.wikipedia.org/wiki/Magic_Moon?oldid=595425187</value>
+</wikilink>
+<abstract>
+<type>literal</type>
+<xml:lang>de</xml:lang>
+<value>Märchenmond ist der erste Roman des deutschen Autorenpaares Wolfgang und Heike Hohlbein aus dem Jahr 1982. Das vor allem an jüngere Leser gerichtete Fantasy-Werk zog bis heute mehrere Fortsetzungen nach sich und ist nach wie vor einer von Hohlbeins Bestsellern.</value>
+</abstract>
+</XML_Serializer_Tag>
+<XML_Serializer_Tag>
+<book>
+<type>uri</type>
+<value>http://dbpedia.org/resource/Children_of_Magic_Moon</value>
+</book>
+<author>
+<type>uri</type>
+<value>http://dbpedia.org/resource/Wolfgang_Hohlbein</value>
+</author>
+<released>
+<type>typed-literal</type>
+<datatype>http://www.w3.org/2001/XMLSchema#integer</datatype>
+<value>1990</value>
+</released>
+<wikilink>
+<type>uri</type>
+<value>http://en.wikipedia.org/wiki/Children_of_Magic_Moon?oldid=585450314</value>
+</wikilink>
+</XML_Serializer_Tag>
+</books>
+</Person>

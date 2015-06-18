@@ -15,8 +15,10 @@
 <XML_Serializer_Tag>Künstler</XML_Serializer_Tag>
 <XML_Serializer_Tag>Maler</XML_Serializer_Tag>
 </professionOrOccupation>
-<artworks />
 <dbpResource>http://dbpedia.org/resource/Hermann_Nitsch</dbpResource>
 <abstract>Hermann Nitsch (* 29. August 1938 in Wien) ist ein österreichischer Maler und Aktionskünstler. Er ist ein bedeutender Vertreter des Wiener Aktionismus.</abstract>
 <wikilink>http://en.wikipedia.org/wiki/Hermann_Nitsch?oldid=599503096</wikilink>
+<artworks />
+<buildings />
+<books />
 </Person>

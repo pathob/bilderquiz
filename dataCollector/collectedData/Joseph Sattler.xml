@@ -22,8 +22,10 @@
 <XML_Serializer_Tag>Graphiker</XML_Serializer_Tag>
 <XML_Serializer_Tag>Kupferstecher</XML_Serializer_Tag>
 </professionOrOccupation>
-<artworks />
 <dbpResource>http://dbpedia.org/resource/Joseph_Sattler</dbpResource>
 <abstract>Joseph Kaspar Sattler (* 20. Juli 1867 in Schrobenhausen; † 12. Mai 1931 in München) war ein Maler, Exlibriskünstler und Illustrator im Jugendstil.</abstract>
 <wikilink>http://en.wikipedia.org/wiki/Joseph_Sattler?oldid=604784115</wikilink>
+<artworks />
+<buildings />
+<books />
 </Person>

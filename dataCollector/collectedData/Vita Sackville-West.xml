@@ -1,0 +1,44 @@
+<Person>
+<name>Vita Sackville-West</name>
+<variantName>
+<XML_Serializer_Tag>V. Sackville-West</XML_Serializer_Tag>
+<XML_Serializer_Tag>Vita Sackville-West</XML_Serializer_Tag>
+<XML_Serializer_Tag>Victoria Sackville-West</XML_Serializer_Tag>
+<XML_Serializer_Tag>Victoria Mary Sackville-West</XML_Serializer_Tag>
+<XML_Serializer_Tag>Victoria Sackville-West</XML_Serializer_Tag>
+<XML_Serializer_Tag>Victoria Mary Sackville-West</XML_Serializer_Tag>
+<XML_Serializer_Tag>Victoria Mary Sackville West</XML_Serializer_Tag>
+<XML_Serializer_Tag>Victoria M. Nicolson</XML_Serializer_Tag>
+</variantName>
+<thumbnail>https://commons.wikimedia.org/wiki/Special:FilePath/Vita_sackville-west.jpg?width=270</thumbnail>
+<birthEN>1892</birthEN>
+<birthDE>1892</birthDE>
+<deathEN>1962</deathEN>
+<deathDE>1962</deathDE>
+<birthPlace />
+<deathPlace />
+<professionOrOccupation>
+<XML_Serializer_Tag>Schriftstellerin</XML_Serializer_Tag>
+</professionOrOccupation>
+<dbpResource>http://dbpedia.org/resource/Vita_Sackville-West</dbpResource>
+<abstract>Victoria Mary Sackville-West, Lady Nicolson (genannt Vita; * 9. März 1892 auf Knole House, Sevenoaks, Kent; † 2. Juni 1962 auf Sissinghurst Castle) war eine englische Schriftstellerin und Gartengestalterin. Sie ist auch durch ihre Beziehung mit der Schriftstellerin Virginia Woolf bekannt geworden, der sie als Vorbild für den Roman Orlando diente. Als Tochter eines Barons trug sie den Höflichkeitstitel The Honourable (kurz The Hon.), der ihrem Namen vorangestellt wird. Durch Heirat wurde sie später Lady Nicolson. Sie erhielt 1933 den Hawthornden-Preis.</abstract>
+<wikilink>http://en.wikipedia.org/wiki/Vita_Sackville-West?oldid=606635950</wikilink>
+<artworks />
+<buildings />
+<books>
+<XML_Serializer_Tag>
+<book>
+<type>uri</type>
+<value>http://dbpedia.org/resource/All_Passion_Spent</value>
+</book>
+<author>
+<type>uri</type>
+<value>http://dbpedia.org/resource/Vita_Sackville-West</value>
+</author>
+<wikilink>
+<type>uri</type>
+<value>http://en.wikipedia.org/wiki/All_Passion_Spent?oldid=582527878</value>
+</wikilink>
+</XML_Serializer_Tag>
+</books>
+</Person>

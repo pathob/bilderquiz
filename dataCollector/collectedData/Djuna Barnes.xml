@@ -1,0 +1,60 @@
+<Person>
+<name>Djuna Barnes</name>
+<variantName />
+<thumbnail>https://commons.wikimedia.org/wiki/Special:FilePath/Djunabarnes.jpg?width=270</thumbnail>
+<birthEN>1892</birthEN>
+<birthDE>1892</birthDE>
+<deathEN>1982</deathEN>
+<deathDE>1982</deathDE>
+<birthPlace>
+<XML_Serializer_Tag>Cornwall on Hudson</XML_Serializer_Tag>
+</birthPlace>
+<deathPlace>
+<XML_Serializer_Tag>New York</XML_Serializer_Tag>
+</deathPlace>
+<professionOrOccupation>
+<XML_Serializer_Tag>Journalistin</XML_Serializer_Tag>
+<XML_Serializer_Tag>Illustratorin</XML_Serializer_Tag>
+<XML_Serializer_Tag>Schriftstellerin</XML_Serializer_Tag>
+</professionOrOccupation>
+<dbpResource>http://dbpedia.org/resource/Djuna_Barnes</dbpResource>
+<abstract>Djuna Barnes (* 12. Juni 1892 in Cornwall on Hudson, New York; † 18. Juni 1982 in New York City) war eine US-amerikanische Schriftstellerin und Illustratorin. Sie zählt zu den wichtigen Autorinnen der literarischen Moderne.</abstract>
+<wikilink>http://en.wikipedia.org/wiki/Djuna_Barnes?oldid=602148487</wikilink>
+<artworks />
+<buildings />
+<books>
+<XML_Serializer_Tag>
+<book>
+<type>uri</type>
+<value>http://dbpedia.org/resource/Nightwood</value>
+</book>
+<author>
+<type>uri</type>
+<value>http://dbpedia.org/resource/Djuna_Barnes</value>
+</author>
+<released>
+<type>typed-literal</type>
+<datatype>http://www.w3.org/2001/XMLSchema#integer</datatype>
+<value>1936</value>
+</released>
+<wikilink>
+<type>uri</type>
+<value>http://en.wikipedia.org/wiki/Nightwood?oldid=603423808</value>
+</wikilink>
+</XML_Serializer_Tag>
+<XML_Serializer_Tag>
+<book>
+<type>uri</type>
+<value>http://dbpedia.org/resource/Ladies_Almanack</value>
+</book>
+<author>
+<type>uri</type>
+<value>http://dbpedia.org/resource/Djuna_Barnes</value>
+</author>
+<wikilink>
+<type>uri</type>
+<value>http://en.wikipedia.org/wiki/Ladies_Almanack?oldid=604379494</value>
+</wikilink>
+</XML_Serializer_Tag>
+</books>
+</Person>

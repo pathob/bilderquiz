@@ -1,0 +1,41 @@
+<Person>
+<name>John Keats</name>
+<variantName>
+<XML_Serializer_Tag>... Keats</XML_Serializer_Tag>
+</variantName>
+<thumbnail>https://commons.wikimedia.org/wiki/Special:FilePath/John_Keats_by_William_Hilton.jpg?width=270</thumbnail>
+<birthEN>1795</birthEN>
+<birthDE>1795</birthDE>
+<deathEN>1821</deathEN>
+<deathDE>1821</deathDE>
+<birthPlace />
+<deathPlace />
+<professionOrOccupation>
+<XML_Serializer_Tag>Schriftsteller</XML_Serializer_Tag>
+</professionOrOccupation>
+<dbpResource>http://dbpedia.org/resource/John_Keats</dbpResource>
+<abstract>John Keats (* 31. Oktober 1795 in London; † 23. Februar 1821 in Rom) war neben Lord Byron und Percy Bysshe Shelley einer der wichtigsten Dichter der englischen Romantik.</abstract>
+<wikilink>http://en.wikipedia.org/wiki/John_Keats?oldid=605681114</wikilink>
+<artworks />
+<buildings />
+<books>
+<XML_Serializer_Tag>
+<book>
+<type>uri</type>
+<value>http://dbpedia.org/resource/Ode_to_a_Nightingale</value>
+</book>
+<author>
+<type>uri</type>
+<value>http://dbpedia.org/resource/John_Keats</value>
+</author>
+<thumbnail>
+<type>uri</type>
+<value>http://commons.wikimedia.org/wiki/Special:FilePath/W._J._Neatby_-_Keats_-_Nightingale.jpg?width=300</value>
+</thumbnail>
+<wikilink>
+<type>uri</type>
+<value>http://en.wikipedia.org/wiki/Ode_to_a_Nightingale?oldid=588679228</value>
+</wikilink>
+</XML_Serializer_Tag>
+</books>
+</Person>

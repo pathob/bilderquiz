@@ -1,0 +1,32 @@
+<Person>
+<name>E. O. Plauen</name>
+<variantName>
+<XML_Serializer_Tag>Erich Ohser</XML_Serializer_Tag>
+<XML_Serializer_Tag>Kurt Erich Ohser</XML_Serializer_Tag>
+<XML_Serializer_Tag>e.o.plauen</XML_Serializer_Tag>
+<XML_Serializer_Tag>... Pu-Lao-ên</XML_Serializer_Tag>
+</variantName>
+<thumbnail>https://commons.wikimedia.org/wiki/Special:FilePath/Bundesarchiv_Bild_146-2003-0037,_E._O._Plauen.jpg?width=270</thumbnail>
+<birthEN>March 18, 1903</birthEN>
+<birthDE>18. März 1903</birthDE>
+<deathEN>April 6, 1944</deathEN>
+<deathDE>6. April 1944</deathDE>
+<birthPlace>
+<XML_Serializer_Tag>Plauen</XML_Serializer_Tag>
+</birthPlace>
+<deathPlace>
+<XML_Serializer_Tag>Berlin</XML_Serializer_Tag>
+</deathPlace>
+<professionOrOccupation>
+<XML_Serializer_Tag>Künstler</XML_Serializer_Tag>
+<XML_Serializer_Tag>Graphiker</XML_Serializer_Tag>
+<XML_Serializer_Tag>Zeichner</XML_Serializer_Tag>
+<XML_Serializer_Tag>Karikaturist</XML_Serializer_Tag>
+</professionOrOccupation>
+<dbpResource>http://dbpedia.org/resource/E._O._Plauen</dbpResource>
+<abstract>Erich Ohser (* 18. März 1903 in Untergettengrün, Amtshauptmannschaft Oelsnitz, Königreich Sachsen; † 6. April 1944 in Berlin), bekannt unter dem Pseudonym e.o.plauen, war ein deutscher Zeichner, der besonders durch seine Comicstrips um Vater-und-Sohn Bekanntheit erlangte.</abstract>
+<wikilink>http://en.wikipedia.org/wiki/E._O._Plauen?oldid=567606970</wikilink>
+<artworks />
+<buildings />
+<books />
+</Person>

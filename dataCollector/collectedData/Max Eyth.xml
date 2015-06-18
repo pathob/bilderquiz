@@ -1,0 +1,32 @@
+<Person>
+<name>Max Eyth</name>
+<variantName>
+<XML_Serializer_Tag>Max von Eyth</XML_Serializer_Tag>
+<XML_Serializer_Tag>M. Eyth</XML_Serializer_Tag>
+<XML_Serializer_Tag>Maximilian von Eyth</XML_Serializer_Tag>
+<XML_Serializer_Tag>Eduard F. von Eyth</XML_Serializer_Tag>
+<XML_Serializer_Tag>Eduard Friedrich Maximilian von Eyth</XML_Serializer_Tag>
+</variantName>
+<thumbnail>https://commons.wikimedia.org/wiki/Special:FilePath/MaxEyth.jpg?width=270</thumbnail>
+<birthEN>May 6, 1836</birthEN>
+<birthDE>6. Mai 1836</birthDE>
+<deathEN>August 25, 1906</deathEN>
+<deathDE>25. August 1906</deathDE>
+<birthPlace>
+<XML_Serializer_Tag>Kirchheim unter Teck</XML_Serializer_Tag>
+</birthPlace>
+<deathPlace>
+<XML_Serializer_Tag>Ulm</XML_Serializer_Tag>
+</deathPlace>
+<professionOrOccupation>
+<XML_Serializer_Tag>Ingenieur</XML_Serializer_Tag>
+<XML_Serializer_Tag>Schriftsteller</XML_Serializer_Tag>
+<XML_Serializer_Tag>Zeichner</XML_Serializer_Tag>
+</professionOrOccupation>
+<dbpResource>http://dbpedia.org/resource/Max_Eyth</dbpResource>
+<abstract>Eduard Friedrich Maximilian Eyth, seit 1896 Max von Eyth, (* 6. Mai 1836 in Kirchheim unter Teck; † 25. August 1906 in Ulm) war ein deutscher Ingenieur und Schriftsteller.</abstract>
+<wikilink>http://en.wikipedia.org/wiki/Max_Eyth?oldid=573619077</wikilink>
+<artworks />
+<buildings />
+<books />
+</Person>

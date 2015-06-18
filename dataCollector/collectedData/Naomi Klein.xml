@@ -1,0 +1,88 @@
+<Person>
+<name>Naomi Klein</name>
+<variantName />
+<thumbnail>https://commons.wikimedia.org/wiki/Special:FilePath/Naomi_Klein_Warsaw_Nov._19_2008_Fot_Mariusz_Kubik_05.jpg?width=270</thumbnail>
+<birthEN>1970</birthEN>
+<birthDE>1970</birthDE>
+<deathEN />
+<deathDE />
+<birthPlace />
+<deathPlace />
+<professionOrOccupation>
+<XML_Serializer_Tag>Journalistin</XML_Serializer_Tag>
+<XML_Serializer_Tag>Schriftstellerin</XML_Serializer_Tag>
+</professionOrOccupation>
+<dbpResource>http://dbpedia.org/resource/Naomi_Klein</dbpResource>
+<abstract>Naomi Klein (* 5. Mai 1970 in Montreal) ist eine kanadische Journalistin, Schriftstellerin, Globalisierungskritikerin und politische Aktivistin.</abstract>
+<wikilink>http://en.wikipedia.org/wiki/Naomi_Klein?oldid=604988065</wikilink>
+<artworks />
+<buildings />
+<books>
+<XML_Serializer_Tag>
+<book>
+<type>uri</type>
+<value>http://dbpedia.org/resource/No_Logo</value>
+</book>
+<author>
+<type>uri</type>
+<value>http://dbpedia.org/resource/Naomi_Klein</value>
+</author>
+<thumbnail>
+<type>uri</type>
+<value>http://commons.wikimedia.org/wiki/Special:FilePath/No_Logo_logo.svg?width=300</value>
+</thumbnail>
+<released>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>December 1999</value>
+</released>
+<wikilink>
+<type>uri</type>
+<value>http://en.wikipedia.org/wiki/No_Logo?oldid=605698505</value>
+</wikilink>
+<abstract>
+<type>literal</type>
+<xml:lang>de</xml:lang>
+<value>No Logo! – der Kampf der Global Players um Marktmacht – ein Spiel mit vielen Verlierern und wenigen Gewinnern ist der deutsche Titel eines Buches der kanadischen Journalistin Naomi Klein, in dem die Globalisierung von Marken und die Entwicklung von klassischen, produzierenden Herstellerfirmen hin zu Lifestyle-Vermarktungsunternehmen, also reinen Logofirmen, analysiert wird. Das im Jahr 2000 auf Englisch erschienene Buch gilt als eines der einflussreichsten Sachbücher der letzten Jahre und wird auch als „Bibel der Globalisierungskritiker“ bezeichnet.</value>
+</abstract>
+</XML_Serializer_Tag>
+<XML_Serializer_Tag>
+<book>
+<type>uri</type>
+<value>http://dbpedia.org/resource/The_Shock_Doctrine</value>
+</book>
+<author>
+<type>uri</type>
+<value>http://dbpedia.org/resource/Naomi_Klein</value>
+</author>
+<released>
+<type>typed-literal</type>
+<datatype>http://www.w3.org/2001/XMLSchema#integer</datatype>
+<value>2007</value>
+</released>
+<wikilink>
+<type>uri</type>
+<value>http://en.wikipedia.org/wiki/The_Shock_Doctrine?oldid=597139432</value>
+</wikilink>
+<abstract>
+<type>literal</type>
+<xml:lang>de</xml:lang>
+<value>Die Schock-Strategie: Der Aufstieg des Katastrophen-Kapitalismus ist ein im September 2007 in deutscher Übersetzung aus dem Englischen erschienenes kapitalismuskritisches Buch der kanadischen Journalistin Naomi Klein. Die Autorin führt anhand von zeitgeschichtlichen Beispielen aus, wie Schocks wirtschaftlicher oder militärischer Art und Naturkatastrophen dazu genutzt werden können, über politischen Einfluss Privatisierungen nach dem Modell der Chicagoer Schule und insbesondere Milton Friedmans in nationalen Volkswirtschaften gegen den politisch artikulierten Willen der Mehrheit der Bevölkerung durchzusetzen.</value>
+</abstract>
+</XML_Serializer_Tag>
+<XML_Serializer_Tag>
+<book>
+<type>uri</type>
+<value>http://dbpedia.org/resource/Fences_and_Windows</value>
+</book>
+<author>
+<type>uri</type>
+<value>http://dbpedia.org/resource/Naomi_Klein</value>
+</author>
+<wikilink>
+<type>uri</type>
+<value>http://en.wikipedia.org/wiki/Fences_and_Windows?oldid=604885418</value>
+</wikilink>
+</XML_Serializer_Tag>
+</books>
+</Person>

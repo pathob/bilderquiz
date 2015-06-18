@@ -17,8 +17,10 @@
 <XML_Serializer_Tag>Maler</XML_Serializer_Tag>
 <XML_Serializer_Tag>Bildhauer</XML_Serializer_Tag>
 </professionOrOccupation>
-<artworks />
 <dbpResource>http://dbpedia.org/resource/Theodor_Wagner</dbpResource>
 <abstract>Theodor „Turl“ Wagner (* 6. August 1927) ist ein ehemaliger österreichischer Fußballspieler. Der Stürmer konnte mit seinem Verein SC Wacker Wien 1947 Meisterschaft und Pokal gewinnen und mit der österreichischen Nationalmannschaft bei der Weltmeisterschaft 1954 den 3. Platz erreichen. Seinen großen Auftritt hatte er dort im Viertelfinale gegen den Gastgeber, in dem er drei Tore für Österreich erzielte.</abstract>
 <wikilink>http://en.wikipedia.org/wiki/Theodor_Wagner?oldid=595303242</wikilink>
+<artworks />
+<buildings />
+<books />
 </Person>

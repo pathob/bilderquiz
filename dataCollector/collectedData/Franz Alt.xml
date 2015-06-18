@@ -1,0 +1,33 @@
+<Person>
+<name>Franz Alt</name>
+<variantName>
+<XML_Serializer_Tag>Franc Alt</XML_Serializer_Tag>
+<XML_Serializer_Tag>Francesco Altini</XML_Serializer_Tag>
+<XML_Serializer_Tag>Fa lan zi A er te</XML_Serializer_Tag>
+<XML_Serializer_Tag>Falanzi-Aerte</XML_Serializer_Tag>
+<XML_Serializer_Tag>Falanzi Aerte</XML_Serializer_Tag>
+</variantName>
+<thumbnail>https://commons.wikimedia.org/wiki/Special:FilePath/Franz_Alt_Anti-Atom-Menschenkette_2011-03-12.jpg?width=270</thumbnail>
+<birthEN>1938</birthEN>
+<birthDE>1938</birthDE>
+<deathEN />
+<deathDE />
+<birthPlace>
+<XML_Serializer_Tag>Untergrombach bei Bruchsal</XML_Serializer_Tag>
+</birthPlace>
+<deathPlace />
+<professionOrOccupation>
+<XML_Serializer_Tag>Journalist</XML_Serializer_Tag>
+<XML_Serializer_Tag>Publizist</XML_Serializer_Tag>
+<XML_Serializer_Tag>Autor</XML_Serializer_Tag>
+<XML_Serializer_Tag>Magier</XML_Serializer_Tag>
+<XML_Serializer_Tag>Fernsehredakteur</XML_Serializer_Tag>
+<XML_Serializer_Tag>Redakteur</XML_Serializer_Tag>
+</professionOrOccupation>
+<dbpResource>http://dbpedia.org/resource/Franz_Alt</dbpResource>
+<abstract>Franz Leopold Alt (* 30. November 1910 in Wien; † 21. Juli 2011 in New York City) war ein US-amerikanischer Mathematiker österreichischer Herkunft. Er gilt als einer der Pioniere der Informatik.</abstract>
+<wikilink>http://en.wikipedia.org/wiki/Franz_Alt?oldid=579161240</wikilink>
+<artworks />
+<buildings />
+<books />
+</Person>

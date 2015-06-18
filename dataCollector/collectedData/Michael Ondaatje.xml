@@ -1,0 +1,128 @@
+<Person>
+<name>Michael Ondaatje</name>
+<variantName>
+<XML_Serializer_Tag>Maiḳl Ondaṭyeh</XML_Serializer_Tag>
+</variantName>
+<thumbnail>https://commons.wikimedia.org/wiki/Special:FilePath/Michael_Ondaatje_at_Tulane_2010.jpg?width=270</thumbnail>
+<birthEN>1943</birthEN>
+<birthDE>1943</birthDE>
+<deathEN />
+<deathDE />
+<birthPlace />
+<deathPlace />
+<professionOrOccupation>
+<XML_Serializer_Tag>Autor</XML_Serializer_Tag>
+<XML_Serializer_Tag>Lehrer</XML_Serializer_Tag>
+</professionOrOccupation>
+<dbpResource>http://dbpedia.org/resource/Michael_Ondaatje</dbpResource>
+<abstract>Michael Ondaatje (Aussprache [ɒnˈdɑːtʃiː], * 12. September 1943 in Colombo, Sri Lanka) ist ein kanadischer Schriftsteller und Dichter niederländisch-tamilisch-singhalesischer (Burgher) Herkunft. 1954 zog er mit seiner Mutter nach England und 1962 nach Kanada, wo er später die kanadische Staatsbürgerschaft annahm. Er ist der Bruder des Schriftstellers, Philanthropen, Abenteurers, ehemaligen Unternehmers und ehemaligen Teilnehmers an den Olympischen Spielen Christopher Ondaatje.Ondaatje erlangte den BA (Bachelor of Arts) an der Universität Toronto und den MA (Master of Arts) an der Queen’s University in Kingston (Ontario). Mitte der 1960er Jahre ließ er sich in Toronto nieder; von 1971 bis 1983 lehrte er an der York University und dann am Glendon College in Toronto. Am 8. November 1988 wurde ihm der Order of Canada, die höchste kanadische Auszeichnung, verliehen.Seine Romane bestehen aus „Schnappschüssen“ von miteinander verbundenen Szenen, die er sprachlich äußerst detailreich erforscht. Insbesondere Ondaatjes frühe nicht oder nicht ausschließlich poetischen Werke The Collected Works of Billy the Kid und Coming Through Slaughter zeigen eine bild- und metaphernreiche Sprache, die stark von seiner Herkunft als Dichter geprägt ist. Ständige Wechsel der Erzählperspektive und -zeit sowie der Handlungsstränge prägen diese Werke noch stärker als Ondaatjes spätere Romane.Der Amor-Asteroid (6569) Ondaatje wurde nach ihm benannt.</abstract>
+<wikilink>http://en.wikipedia.org/wiki/Michael_Ondaatje?oldid=598729249</wikilink>
+<artworks />
+<buildings />
+<books>
+<XML_Serializer_Tag>
+<book>
+<type>uri</type>
+<value>http://dbpedia.org/resource/The_English_Patient</value>
+</book>
+<author>
+<type>uri</type>
+<value>http://dbpedia.org/resource/Michael_Ondaatje</value>
+</author>
+<released>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>September 1992</value>
+</released>
+<wikilink>
+<type>uri</type>
+<value>http://en.wikipedia.org/wiki/The_English_Patient?oldid=604412740</value>
+</wikilink>
+<abstract>
+<type>literal</type>
+<xml:lang>de</xml:lang>
+<value>Der englische Patient ist die Übersetzung ins Deutsche (durch Adelheid Dormagen) des Romans The English Patient von Michael Ondaatje.</value>
+</abstract>
+</XML_Serializer_Tag>
+<XML_Serializer_Tag>
+<book>
+<type>uri</type>
+<value>http://dbpedia.org/resource/Coming_Through_Slaughter</value>
+</book>
+<author>
+<type>uri</type>
+<value>http://dbpedia.org/resource/Michael_Ondaatje</value>
+</author>
+<released>
+<type>typed-literal</type>
+<datatype>http://www.w3.org/2001/XMLSchema#integer</datatype>
+<value>1976</value>
+</released>
+<wikilink>
+<type>uri</type>
+<value>http://en.wikipedia.org/wiki/Coming_Through_Slaughter?oldid=585515546</value>
+</wikilink>
+</XML_Serializer_Tag>
+<XML_Serializer_Tag>
+<book>
+<type>uri</type>
+<value>http://dbpedia.org/resource/The_Cat&apos;s_Table</value>
+</book>
+<author>
+<type>uri</type>
+<value>http://dbpedia.org/resource/Michael_Ondaatje</value>
+</author>
+<wikilink>
+<type>uri</type>
+<value>http://en.wikipedia.org/wiki/The_Cat&apos;s_Table?oldid=598299650</value>
+</wikilink>
+<abstract>
+<type>literal</type>
+<xml:lang>de</xml:lang>
+<value>Katzentisch (Originaltital: The Cat’s Table) ist ein Roman von Michael Ondaatje aus dem Jahr 2011.</value>
+</abstract>
+</XML_Serializer_Tag>
+<XML_Serializer_Tag>
+<book>
+<type>uri</type>
+<value>http://dbpedia.org/resource/Anil&apos;s_Ghost</value>
+</book>
+<author>
+<type>uri</type>
+<value>http://dbpedia.org/resource/Michael_Ondaatje</value>
+</author>
+<wikilink>
+<type>uri</type>
+<value>http://en.wikipedia.org/wiki/Anil&apos;s_Ghost?oldid=601286653</value>
+</wikilink>
+</XML_Serializer_Tag>
+<XML_Serializer_Tag>
+<book>
+<type>uri</type>
+<value>http://dbpedia.org/resource/Divisadero_(novel)</value>
+</book>
+<author>
+<type>uri</type>
+<value>http://dbpedia.org/resource/Michael_Ondaatje</value>
+</author>
+<wikilink>
+<type>uri</type>
+<value>http://en.wikipedia.org/wiki/Divisadero_(novel)?oldid=587959217</value>
+</wikilink>
+</XML_Serializer_Tag>
+<XML_Serializer_Tag>
+<book>
+<type>uri</type>
+<value>http://dbpedia.org/resource/The_Collected_Works_of_Billy_the_Kid:_Left-Handed_Poems</value>
+</book>
+<author>
+<type>uri</type>
+<value>http://dbpedia.org/resource/Michael_Ondaatje</value>
+</author>
+<wikilink>
+<type>uri</type>
+<value>http://en.wikipedia.org/wiki/The_Collected_Works_of_Billy_the_Kid:_Left-Handed_Poems?oldid=593150110</value>
+</wikilink>
+</XML_Serializer_Tag>
+</books>
+</Person>

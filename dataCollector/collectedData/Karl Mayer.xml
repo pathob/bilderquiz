@@ -1,0 +1,30 @@
+<Person>
+<name>Karl Mayer</name>
+<variantName>
+<XML_Serializer_Tag>Karl F. Mayer</XML_Serializer_Tag>
+<XML_Serializer_Tag>Karl Friedrich Hartmann Mayer</XML_Serializer_Tag>
+<XML_Serializer_Tag>, der Ältere</XML_Serializer_Tag>
+<XML_Serializer_Tag>Pellegrin</XML_Serializer_Tag>
+<XML_Serializer_Tag>Karl Felder</XML_Serializer_Tag>
+<XML_Serializer_Tag>Carl Mayer</XML_Serializer_Tag>
+</variantName>
+<thumbnail>https://commons.wikimedia.org/wiki/Special:FilePath/Karl_Mayer_(Dichter),_Foto_von_Friedrich_Brandseph.jpg?width=270</thumbnail>
+<birthEN>March 22, 1786</birthEN>
+<birthDE>22. März 1786</birthDE>
+<deathEN>February 25, 1870</deathEN>
+<deathDE>25. Februar 1870</deathDE>
+<birthPlace />
+<deathPlace />
+<professionOrOccupation>
+<XML_Serializer_Tag>Schriftsteller</XML_Serializer_Tag>
+<XML_Serializer_Tag>Lyriker</XML_Serializer_Tag>
+<XML_Serializer_Tag>Jurist</XML_Serializer_Tag>
+<XML_Serializer_Tag>Oberjustizrat</XML_Serializer_Tag>
+</professionOrOccupation>
+<dbpResource>http://dbpedia.org/resource/Karl_Mayer_(poet)</dbpResource>
+<abstract>Karl Friedrich Hartmann Mayer (* 22. März 1786 in Bischofsheim; † 25. Februar 1870 in Tübingen) war Jurist und Dichter. Er gehörte zur Schwäbischen Dichterschule, zum Freundeskreis um Justinus Kerner sowie zum Seracher Dichterkreis um den Grafen Alexander von Württemberg. Sein jüngerer Bruder Louis Mayer war Landschaftsmaler.</abstract>
+<wikilink>http://en.wikipedia.org/wiki/Karl_Mayer_(poet)?oldid=592869509</wikilink>
+<artworks />
+<buildings />
+<books />
+</Person>

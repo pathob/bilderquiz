@@ -1,0 +1,322 @@
+<Person>
+<name>Joseph Conrad</name>
+<variantName>
+<XML_Serializer_Tag>Józef Teodor Konrad Nałe̜cz Korzeniowski</XML_Serializer_Tag>
+<XML_Serializer_Tag>Józef Konrad Teodor Korzeniowski</XML_Serializer_Tag>
+<XML_Serializer_Tag>Józef Teodor Konrad Korzeniowski</XML_Serializer_Tag>
+<XML_Serializer_Tag>Józef T. Korzeniowski</XML_Serializer_Tag>
+<XML_Serializer_Tag>Joseph Conrad Theodore Korzeniowski</XML_Serializer_Tag>
+<XML_Serializer_Tag>Teodor Józef Konrad Korzeniowski</XML_Serializer_Tag>
+<XML_Serializer_Tag>Theodor Josef Konrad Korzeniowski</XML_Serializer_Tag>
+<XML_Serializer_Tag>Joseph Conrad Korzeniowski</XML_Serializer_Tag>
+<XML_Serializer_Tag>... Korzeniowski</XML_Serializer_Tag>
+<XML_Serializer_Tag>Joseph Korzeniowski</XML_Serializer_Tag>
+<XML_Serializer_Tag>Josef Konrad Korzeniowski</XML_Serializer_Tag>
+<XML_Serializer_Tag>Józef Teodor Konrad Korzeniowsky</XML_Serializer_Tag>
+<XML_Serializer_Tag>Ǧôzef Qônrâd</XML_Serializer_Tag>
+<XML_Serializer_Tag>Têʾôdôr Yôsēf Qônrâd Qôženyôvsqî</XML_Serializer_Tag>
+<XML_Serializer_Tag>Josef T. Konrad</XML_Serializer_Tag>
+<XML_Serializer_Tag>Józef Teodor Konrad Nałecz Korzeniowski</XML_Serializer_Tag>
+</variantName>
+<thumbnail>https://commons.wikimedia.org/wiki/Special:FilePath/Joseph_Conrad,_Fotografie_von_George_Charles_Beresford,_1904.jpg?width=270</thumbnail>
+<birthEN>December 3, 1857</birthEN>
+<birthDE>3. Dezember 1857</birthDE>
+<deathEN>August 3, 1924</deathEN>
+<deathDE>3. August 1924</deathDE>
+<birthPlace>
+<XML_Serializer_Tag>Berditschew</XML_Serializer_Tag>
+</birthPlace>
+<deathPlace>
+<XML_Serializer_Tag>Bishopsbourne, England, Großbritannien</XML_Serializer_Tag>
+</deathPlace>
+<professionOrOccupation>
+<XML_Serializer_Tag>Schriftsteller</XML_Serializer_Tag>
+</professionOrOccupation>
+<dbpResource>http://dbpedia.org/resource/Joseph_Conrad</dbpResource>
+<abstract>Joseph Conrad (eigentlich Józef Teodor Nałęcz Konrad Korzeniowski; * 3. Dezember 1857 in Berdyczów in der heutigen Ukraine; † 3. August 1924 in Bishopsbourne) war ein Schriftsteller polnischer Herkunft, der seine Werke in englischer Sprache verfasste.</abstract>
+<wikilink>http://en.wikipedia.org/wiki/Joseph_Conrad?oldid=605807978</wikilink>
+<artworks />
+<buildings />
+<books>
+<XML_Serializer_Tag>
+<book>
+<type>uri</type>
+<value>http://dbpedia.org/resource/Heart_of_Darkness</value>
+</book>
+<author>
+<type>uri</type>
+<value>http://dbpedia.org/resource/Joseph_Conrad</value>
+</author>
+<thumbnail>
+<type>uri</type>
+<value>http://commons.wikimedia.org/wiki/Special:FilePath/Blackwood&apos;s_Magazine_-_1899_cover.jpg?width=300</value>
+</thumbnail>
+<released>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>February 1899</value>
+</released>
+<wikilink>
+<type>uri</type>
+<value>http://en.wikipedia.org/wiki/Heart_of_Darkness?oldid=604850322</value>
+</wikilink>
+<abstract>
+<type>literal</type>
+<xml:lang>de</xml:lang>
+<value>Herz der Finsternis (engl. Originaltitel Heart of Darkness) ist eine Erzählung aus dem Jahre 1899 von Joseph Conrad.</value>
+</abstract>
+</XML_Serializer_Tag>
+<XML_Serializer_Tag>
+<book>
+<type>uri</type>
+<value>http://dbpedia.org/resource/The_Shadow_Line</value>
+</book>
+<author>
+<type>uri</type>
+<value>http://dbpedia.org/resource/Joseph_Conrad</value>
+</author>
+<thumbnail>
+<type>uri</type>
+<value>http://en.wikipedia.org/wiki/Special:FilePath/Shadow_line.jpg?width=300</value>
+</thumbnail>
+<released>
+<type>typed-literal</type>
+<datatype>http://www.w3.org/2001/XMLSchema#integer</datatype>
+<value>1917</value>
+</released>
+<wikilink>
+<type>uri</type>
+<value>http://en.wikipedia.org/wiki/The_Shadow_Line?oldid=573704750</value>
+</wikilink>
+</XML_Serializer_Tag>
+<XML_Serializer_Tag>
+<book>
+<type>uri</type>
+<value>http://dbpedia.org/resource/The_Secret_Sharer</value>
+</book>
+<author>
+<type>uri</type>
+<value>http://dbpedia.org/resource/Joseph_Conrad</value>
+</author>
+<released>
+<type>typed-literal</type>
+<datatype>http://www.w3.org/2001/XMLSchema#integer</datatype>
+<value>1912</value>
+</released>
+<wikilink>
+<type>uri</type>
+<value>http://en.wikipedia.org/wiki/The_Secret_Sharer?oldid=606698746</value>
+</wikilink>
+<abstract>
+<type>literal</type>
+<xml:lang>de</xml:lang>
+<value>Der geheime Teilhaber (engl Originaltitel The Secret Sharer, Alternativtitel Der heimliche Teilhaber) ist eine Kurzerzählung, die im Jahre 1909 von Joseph Conrad geschrieben und im Jahre 1910 veröffentlicht wurde.Die Geschichte handelt von einem Kapitän, der einen Steuermann eines anderen Schiffs, der dort wegen Mordes unter Arrest gestellt wurde, vor seiner Mannschaft versteckt hält und ihm bei seiner Flucht hilft.</value>
+</abstract>
+</XML_Serializer_Tag>
+<XML_Serializer_Tag>
+<book>
+<type>uri</type>
+<value>http://dbpedia.org/resource/Typhoon_(novel)</value>
+</book>
+<author>
+<type>uri</type>
+<value>http://dbpedia.org/resource/Joseph_Conrad</value>
+</author>
+<released>
+<type>typed-literal</type>
+<datatype>http://www.w3.org/2001/XMLSchema#integer</datatype>
+<value>1902</value>
+</released>
+<wikilink>
+<type>uri</type>
+<value>http://en.wikipedia.org/wiki/Typhoon_(novel)?oldid=604074123</value>
+</wikilink>
+<abstract>
+<type>literal</type>
+<xml:lang>de</xml:lang>
+<value>Taifun, Originaltitel Typhoon, ist eine 1902 erstmals veröffentlichte Erzählung von Joseph Conrad.</value>
+</abstract>
+</XML_Serializer_Tag>
+<XML_Serializer_Tag>
+<book>
+<type>uri</type>
+<value>http://dbpedia.org/resource/Lord_Jim</value>
+</book>
+<author>
+<type>uri</type>
+<value>http://dbpedia.org/resource/Joseph_Conrad</value>
+</author>
+<released>
+<type>typed-literal</type>
+<datatype>http://www.w3.org/2001/XMLSchema#integer</datatype>
+<value>1900</value>
+</released>
+<wikilink>
+<type>uri</type>
+<value>http://en.wikipedia.org/wiki/Lord_Jim?oldid=606575614</value>
+</wikilink>
+<abstract>
+<type>literal</type>
+<xml:lang>de</xml:lang>
+<value>Lord Jim ist ein Roman von Joseph Conrad, zuerst publiziert in Blackwood&apos;s Magazine im Jahr 1900. Der Roman gliedert sich in zwei Teile, eine psychologische Erzählung über Jims moralischen Fehler an Bord des Pilgerschiffs „Patna” und in eine Abenteuer-Geschichte über Jims Aufstieg und Niedergang unter den Leuten von Patusan, einem Eingeborenenstaat irgendwo in Ostindien bzw. Südostasien.Einige Kritiker sagten, dass der zweite Teil schlechter als der erste sei, aber er ist notwendig, um das psychologische Drama auszuarbeiten, das im ersten Teil seinen Anfang nimmt.</value>
+</abstract>
+</XML_Serializer_Tag>
+<XML_Serializer_Tag>
+<book>
+<type>uri</type>
+<value>http://dbpedia.org/resource/The_Secret_Agent</value>
+</book>
+<author>
+<type>uri</type>
+<value>http://dbpedia.org/resource/Joseph_Conrad</value>
+</author>
+<released>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>September 1907</value>
+</released>
+<wikilink>
+<type>uri</type>
+<value>http://en.wikipedia.org/wiki/The_Secret_Agent?oldid=606658362</value>
+</wikilink>
+<abstract>
+<type>literal</type>
+<xml:lang>de</xml:lang>
+<value>Der Geheimagent: Eine einfache Geschichte (OT: The Secret Agent: A Simple Tale) ist ein Roman von Joseph Conrad aus dem Jahr 1907. Der Roman gehört mit Nostromo und Mit den Augen des Westens zu den politischen Romanen Conrads. Hinter der Ebene des Spionageromans verbirgt sich eine komplexe und ironische Auseinandersetzung mit dem kleinbürgerlichen Leben in der modernen Großstadt. Conrad selbst hielt ihn für einen seiner besten Romane.Die erste Übersetzung ins Deutsche von Ernst W. Freißler und einem Vorwort von Thomas Mann erschien 1926 im S. Fischer Verlag.</value>
+</abstract>
+</XML_Serializer_Tag>
+<XML_Serializer_Tag>
+<book>
+<type>uri</type>
+<value>http://dbpedia.org/resource/Nostromo</value>
+</book>
+<author>
+<type>uri</type>
+<value>http://dbpedia.org/resource/Joseph_Conrad</value>
+</author>
+<released>
+<type>typed-literal</type>
+<datatype>http://www.w3.org/2001/XMLSchema#integer</datatype>
+<value>1904</value>
+</released>
+<wikilink>
+<type>uri</type>
+<value>http://en.wikipedia.org/wiki/Nostromo?oldid=603334017</value>
+</wikilink>
+<abstract>
+<type>literal</type>
+<xml:lang>de</xml:lang>
+<value>Nostromo ist ein im Jahre 1904 erschienener komplexer politischer Roman des englischsprachigen Schriftstellers Joseph Conrad.</value>
+</abstract>
+</XML_Serializer_Tag>
+<XML_Serializer_Tag>
+<book>
+<type>uri</type>
+<value>http://dbpedia.org/resource/Tales_of_Unrest</value>
+</book>
+<author>
+<type>uri</type>
+<value>http://dbpedia.org/resource/Joseph_Conrad</value>
+</author>
+<released>
+<type>typed-literal</type>
+<datatype>http://www.w3.org/2001/XMLSchema#integer</datatype>
+<value>1898</value>
+</released>
+<wikilink>
+<type>uri</type>
+<value>http://en.wikipedia.org/wiki/Tales_of_Unrest?oldid=546081361</value>
+</wikilink>
+</XML_Serializer_Tag>
+<XML_Serializer_Tag>
+<book>
+<type>uri</type>
+<value>http://dbpedia.org/resource/Under_Western_Eyes</value>
+</book>
+<author>
+<type>uri</type>
+<value>http://dbpedia.org/resource/Joseph_Conrad</value>
+</author>
+<released>
+<type>typed-literal</type>
+<datatype>http://www.w3.org/2001/XMLSchema#integer</datatype>
+<value>1911</value>
+</released>
+<wikilink>
+<type>uri</type>
+<value>http://en.wikipedia.org/wiki/Under_Western_Eyes?oldid=594657096</value>
+</wikilink>
+</XML_Serializer_Tag>
+<XML_Serializer_Tag>
+<book>
+<type>uri</type>
+<value>http://dbpedia.org/resource/The_Inheritors_(Joseph_Conrad_and_Ford_Madox_Ford)</value>
+</book>
+<author>
+<type>uri</type>
+<value>http://dbpedia.org/resource/Joseph_Conrad</value>
+</author>
+<released>
+<type>typed-literal</type>
+<datatype>http://www.w3.org/2001/XMLSchema#integer</datatype>
+<value>1901</value>
+</released>
+<wikilink>
+<type>uri</type>
+<value>http://en.wikipedia.org/wiki/The_Inheritors_(Joseph_Conrad_and_Ford_Madox_Ford)?oldid=592666786</value>
+</wikilink>
+</XML_Serializer_Tag>
+<XML_Serializer_Tag>
+<book>
+<type>uri</type>
+<value>http://dbpedia.org/resource/Youth_(Conrad_short_story)</value>
+</book>
+<author>
+<type>uri</type>
+<value>http://dbpedia.org/resource/Joseph_Conrad</value>
+</author>
+<published>
+<type>typed-literal</type>
+<datatype>http://www.w3.org/2001/XMLSchema#integer</datatype>
+<value>1902</value>
+</published>
+<wikilink>
+<type>uri</type>
+<value>http://en.wikipedia.org/wiki/Youth_(Conrad_short_story)?oldid=593449093</value>
+</wikilink>
+<abstract>
+<type>literal</type>
+<xml:lang>de</xml:lang>
+<value>Jugend (engl Originaltitel Youth) ist eine von Joseph Conrad im Jahre 1898 verfasste, aber erst 1902 im Erzählband Youth, a Narrative, and Two Other Stories veröffentlichte, Kurzerzählung.Die Geschichte handelt von dem jungen Seemann Marlow, der als zweiter Offizier seine erste Reise nach Asien antritt. Da das Schiff aber vor Java in Brand gerät, sieht sich die Mannschaft gezwungen, in die Beiboote zu gehen und an Land zu rudern, weshalb sie das Vorhaben, nach Bangkok zu fahren, aufgeben muss.In der eigentlichen Rahmenhandlung erzählt Marlow 20 Jahre später einigen anderen Seemännern von diesen Ereignissen. Wie schon in anderen Erzählungen baut die Geschichte auf eigenen autobiografischen Erlebnissen Conrads auf.</value>
+</abstract>
+</XML_Serializer_Tag>
+<XML_Serializer_Tag>
+<book>
+<type>uri</type>
+<value>http://dbpedia.org/resource/Victory_(novel)</value>
+</book>
+<author>
+<type>uri</type>
+<value>http://dbpedia.org/resource/Joseph_Conrad</value>
+</author>
+<wikilink>
+<type>uri</type>
+<value>http://en.wikipedia.org/wiki/Victory_(novel)?oldid=604921383</value>
+</wikilink>
+</XML_Serializer_Tag>
+<XML_Serializer_Tag>
+<book>
+<type>uri</type>
+<value>http://dbpedia.org/resource/The_Rescue_(Conrad_novel)</value>
+</book>
+<author>
+<type>uri</type>
+<value>http://dbpedia.org/resource/Joseph_Conrad</value>
+</author>
+<wikilink>
+<type>uri</type>
+<value>http://en.wikipedia.org/wiki/The_Rescue_(Conrad_novel)?oldid=606590532</value>
+</wikilink>
+</XML_Serializer_Tag>
+</books>
+</Person>

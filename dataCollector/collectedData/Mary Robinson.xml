@@ -1,0 +1,33 @@
+<Person>
+<name>Mary Robinson</name>
+<variantName>
+<XML_Serializer_Tag>Perdita, Schriftstellerin</XML_Serializer_Tag>
+<XML_Serializer_Tag>Perdita Robinson</XML_Serializer_Tag>
+<XML_Serializer_Tag>Laura Maria, Schriftstellerin</XML_Serializer_Tag>
+<XML_Serializer_Tag>Horace Juvenal</XML_Serializer_Tag>
+<XML_Serializer_Tag>Anne Frances Randall</XML_Serializer_Tag>
+<XML_Serializer_Tag>Tabitha Bramble</XML_Serializer_Tag>
+<XML_Serializer_Tag>Marie Robinson</XML_Serializer_Tag>
+<XML_Serializer_Tag>Maria Robinson</XML_Serializer_Tag>
+<XML_Serializer_Tag>Mary Darby</XML_Serializer_Tag>
+<XML_Serializer_Tag>Mary-Robinson</XML_Serializer_Tag>
+<XML_Serializer_Tag>Mary Darby Robinson</XML_Serializer_Tag>
+</variantName>
+<thumbnail>https://commons.wikimedia.org/wiki/Special:FilePath/Gainsborough_Mary-Robinson.jpg?width=270</thumbnail>
+<birthEN>1758</birthEN>
+<birthDE>1758</birthDE>
+<deathEN>1800</deathEN>
+<deathDE>1800</deathDE>
+<birthPlace />
+<deathPlace />
+<professionOrOccupation>
+<XML_Serializer_Tag>Schriftstellerin</XML_Serializer_Tag>
+<XML_Serializer_Tag>Schauspielerin</XML_Serializer_Tag>
+</professionOrOccupation>
+<dbpResource>http://dbpedia.org/resource/Mary_Robinson</dbpResource>
+<abstract>Mary Robinson (irisch: Máire Mhic Róibín, * 21. Mai 1944 in Ballina, Irland) war Staatspräsidentin Irlands und UN-Hochkommissarin für Menschenrechte.</abstract>
+<wikilink>http://en.wikipedia.org/wiki/Mary_Robinson?oldid=605919080</wikilink>
+<artworks />
+<buildings />
+<books />
+</Person>

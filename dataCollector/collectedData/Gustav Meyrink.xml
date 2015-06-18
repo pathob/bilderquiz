@@ -1,0 +1,66 @@
+<Person>
+<name>Gustav Meyrink</name>
+<variantName>
+<XML_Serializer_Tag>Gustav Majrink</XML_Serializer_Tag>
+<XML_Serializer_Tag>Gustav Mejrink</XML_Serializer_Tag>
+<XML_Serializer_Tag>Gustav Meyer-Meyrink</XML_Serializer_Tag>
+<XML_Serializer_Tag>Gustav Meyer-Meyrink</XML_Serializer_Tag>
+<XML_Serializer_Tag>Gustav Meyer Meyrink</XML_Serializer_Tag>
+<XML_Serializer_Tag>Gustav Meyer</XML_Serializer_Tag>
+<XML_Serializer_Tag>Gûsṭav Mairînq</XML_Serializer_Tag>
+<XML_Serializer_Tag>Gustave Meyrink</XML_Serializer_Tag>
+<XML_Serializer_Tag>Kama</XML_Serializer_Tag>
+<XML_Serializer_Tag>Hustaŭ Majrynk</XML_Serializer_Tag>
+<XML_Serializer_Tag>Gustav Meyer</XML_Serializer_Tag>
+<XML_Serializer_Tag>גוסטב מיירינק</XML_Serializer_Tag>
+<XML_Serializer_Tag>グスタフ・マイリンク</XML_Serializer_Tag>
+<XML_Serializer_Tag>グスタフ マイリンク</XML_Serializer_Tag>
+</variantName>
+<thumbnail>https://commons.wikimedia.org/wiki/Special:FilePath/Gustav_Meyrink_3.png?width=270</thumbnail>
+<birthEN>January 19, 1868</birthEN>
+<birthDE>19. Januar 1868</birthDE>
+<deathEN>December 4, 1932</deathEN>
+<deathDE>4. Dezember 1932</deathDE>
+<birthPlace>
+<XML_Serializer_Tag>Wien</XML_Serializer_Tag>
+</birthPlace>
+<deathPlace>
+<XML_Serializer_Tag>Starnberg</XML_Serializer_Tag>
+</deathPlace>
+<professionOrOccupation>
+<XML_Serializer_Tag>Schriftsteller</XML_Serializer_Tag>
+<XML_Serializer_Tag>Bankier</XML_Serializer_Tag>
+<XML_Serializer_Tag>Drehbuchautor</XML_Serializer_Tag>
+</professionOrOccupation>
+<dbpResource>http://dbpedia.org/resource/Gustav_Meyrink</dbpResource>
+<abstract>Gustav Meyrink (eigentlich Gustav Meyer, manchmal fälschlich auch als G. Meyrinck aufgeführt, * 19. Jänner 1868 in Wien; † 4. Dezember 1932 in Starnberg), war ein österreichischer Schriftsteller.</abstract>
+<wikilink>http://en.wikipedia.org/wiki/Gustav_Meyrink?oldid=596973953</wikilink>
+<artworks />
+<buildings />
+<books>
+<XML_Serializer_Tag>
+<book>
+<type>uri</type>
+<value>http://dbpedia.org/resource/The_Golem_(novel)</value>
+</book>
+<author>
+<type>uri</type>
+<value>http://dbpedia.org/resource/Gustav_Meyrink</value>
+</author>
+<released>
+<type>typed-literal</type>
+<datatype>http://www.w3.org/2001/XMLSchema#integer</datatype>
+<value>1914</value>
+</released>
+<wikilink>
+<type>uri</type>
+<value>http://en.wikipedia.org/wiki/The_Golem_(novel)?oldid=598365056</value>
+</wikilink>
+<abstract>
+<type>literal</type>
+<xml:lang>de</xml:lang>
+<value>Der Golem ist der Titel eines Romans in zwanzig Kapiteln von Gustav Meyrink. Er erschien erstmals in den Jahren 1913 und 1914 als Fortsetzungsroman in der Zeitschrift Die Weißen Blätter; 1915 wurde er in Buchform veröffentlicht.</value>
+</abstract>
+</XML_Serializer_Tag>
+</books>
+</Person>

@@ -1,0 +1,43 @@
+<Person>
+<name>Paul Fussell</name>
+<variantName />
+<thumbnail>https://commons.wikimedia.org/wiki/Special:FilePath/Pfussell1945.jpg?width=270</thumbnail>
+<birthEN>1924</birthEN>
+<birthDE>1924</birthDE>
+<deathEN>2012</deathEN>
+<deathDE>2012</deathDE>
+<birthPlace>
+<XML_Serializer_Tag>Pasadena, Calif.</XML_Serializer_Tag>
+</birthPlace>
+<deathPlace>
+<XML_Serializer_Tag>Medford, Or.</XML_Serializer_Tag>
+</deathPlace>
+<professionOrOccupation>
+<XML_Serializer_Tag>Philologe</XML_Serializer_Tag>
+<XML_Serializer_Tag>Anglist</XML_Serializer_Tag>
+<XML_Serializer_Tag>Literaturwissenschaftler</XML_Serializer_Tag>
+<XML_Serializer_Tag>Autor</XML_Serializer_Tag>
+<XML_Serializer_Tag>Hochschullehrer</XML_Serializer_Tag>
+</professionOrOccupation>
+<dbpResource>http://dbpedia.org/resource/Paul_Fussell</dbpResource>
+<abstract>Paul Fussell (* 22. März 1924 in Pasadena, Kalifornien; † 23. Mai 2012 in Medford, Oregon) war ein amerikanischer Literatur- und Kulturwissenschaftler. Er begann als Spezialist für die Englische Literatur des 18. Jahrhunderts, ist aber insbesondere für sein 1975 erschienenes Werk The Great War and Modern Memory bekannt, eine heute klassische Studie über das Trauma, das der Erste Weltkrieg im kollektiven Bewusstsein einer ganzen Generation hinterließ. Zuletzt lehrte er Englische Literatur an der University of Pennsylvania.</abstract>
+<wikilink>http://en.wikipedia.org/wiki/Paul_Fussell?oldid=592645619</wikilink>
+<artworks />
+<buildings />
+<books>
+<XML_Serializer_Tag>
+<book>
+<type>uri</type>
+<value>http://dbpedia.org/resource/The_Great_War_and_Modern_Memory</value>
+</book>
+<author>
+<type>uri</type>
+<value>http://dbpedia.org/resource/Paul_Fussell</value>
+</author>
+<wikilink>
+<type>uri</type>
+<value>http://en.wikipedia.org/wiki/The_Great_War_and_Modern_Memory?oldid=592104263</value>
+</wikilink>
+</XML_Serializer_Tag>
+</books>
+</Person>

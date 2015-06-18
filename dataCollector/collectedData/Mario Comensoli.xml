@@ -1,0 +1,26 @@
+<Person>
+<name>Mario Comensoli</name>
+<variantName>
+<XML_Serializer_Tag>Mario Pasquale Comensoli</XML_Serializer_Tag>
+</variantName>
+<thumbnail>https://commons.wikimedia.org/wiki/Special:FilePath/Mario-sonya.jpg?width=270</thumbnail>
+<birthEN>April 15, 1922</birthEN>
+<birthDE>15. April 1922</birthDE>
+<deathEN>June 2, 1993</deathEN>
+<deathDE>2. Juni 1993</deathDE>
+<birthPlace>
+<XML_Serializer_Tag>Lugano</XML_Serializer_Tag>
+</birthPlace>
+<deathPlace>
+<XML_Serializer_Tag>Zürich</XML_Serializer_Tag>
+</deathPlace>
+<professionOrOccupation>
+<XML_Serializer_Tag>Künstler</XML_Serializer_Tag>
+</professionOrOccupation>
+<dbpResource>http://dbpedia.org/resource/Mario_Comensoli</dbpResource>
+<abstract>Mario Pasquale Comensoli (* 15. April 1922 in Lugano; † 2. Juni 1993 in Zürich) war ein Schweizer Maler des Realismus.</abstract>
+<wikilink>http://en.wikipedia.org/wiki/Mario_Comensoli?oldid=601719490</wikilink>
+<artworks />
+<buildings />
+<books />
+</Person>

@@ -1,0 +1,129 @@
+<Person>
+<name>Cees Nooteboom</name>
+<variantName>
+<XML_Serializer_Tag>Cornelis Johannes Jacobus Maria Nooteboom</XML_Serializer_Tag>
+</variantName>
+<thumbnail>https://commons.wikimedia.org/wiki/Special:FilePath/Nooteboom,-Cees_Koeln_170311.jpg?width=270</thumbnail>
+<birthEN>1933</birthEN>
+<birthDE>1933</birthDE>
+<deathEN />
+<deathDE />
+<birthPlace>
+<XML_Serializer_Tag>Den Haag</XML_Serializer_Tag>
+</birthPlace>
+<deathPlace />
+<professionOrOccupation>
+<XML_Serializer_Tag>Schriftsteller</XML_Serializer_Tag>
+</professionOrOccupation>
+<dbpResource>http://dbpedia.org/resource/Cees_Nooteboom</dbpResource>
+<abstract>Cornelis Johannes Jacobus Maria (Cees) Nooteboom (* 31. Juli 1933 in Den Haag) ist ein niederländischer Schriftsteller. Sein Werk umfasst Romane, Novellen, Reiseberichte und Gedichte; er war auch als Journalist und Literaturkritiker tätig. In den Niederlanden wurde bereits sein Debütroman Philip und die anderen von 1955 breit rezipiert und mit dem Anne-Frank-Preis ausgezeichnet; internationale Aufmerksamkeit erregte jedoch erst der Roman Rituale von 1980. In Deutschland erreicht der Autor seit der Veröffentlichung seiner Novelle Die folgende Geschichte 1991 ein breites Publikum.Nooteboom erhielt zahlreiche Preise und Auszeichnungen, darunter zwei Ehrendoktorate, sowie 2009 den Prijs der Nederlandse Letteren, den wichtigsten in niederländischer Sprache. Seine Bücher liegen in Übersetzungen in mehr als 15 Sprachen vor.</abstract>
+<wikilink>http://en.wikipedia.org/wiki/Cees_Nooteboom?oldid=600464792</wikilink>
+<artworks />
+<buildings />
+<books>
+<XML_Serializer_Tag>
+<book>
+<type>uri</type>
+<value>http://dbpedia.org/resource/Lost_Paradise_(novel)</value>
+</book>
+<author>
+<type>uri</type>
+<value>http://dbpedia.org/resource/Cees_Nooteboom</value>
+</author>
+<wikilink>
+<type>uri</type>
+<value>http://en.wikipedia.org/wiki/Lost_Paradise_(novel)?oldid=546323260</value>
+</wikilink>
+<abstract>
+<type>literal</type>
+<xml:lang>de</xml:lang>
+<value>Paradies verloren lautet der Titel von Cees Nootebooms Roman, dessen Originalausgabe 2004 unter dem niederländischen Titel Paradijs verloren erschien. Die deutsche Übersetzung von Helga von Beuningen wurde 2005 vom Suhrkamp Verlag herausgegeben.</value>
+</abstract>
+</XML_Serializer_Tag>
+<XML_Serializer_Tag>
+<book>
+<type>uri</type>
+<value>http://dbpedia.org/resource/Rituals_(novel)</value>
+</book>
+<author>
+<type>uri</type>
+<value>http://dbpedia.org/resource/Cees_Nooteboom</value>
+</author>
+<wikilink>
+<type>uri</type>
+<value>http://en.wikipedia.org/wiki/Rituals_(novel)?oldid=539191273</value>
+</wikilink>
+<abstract>
+<type>literal</type>
+<xml:lang>de</xml:lang>
+<value>Rituale (niederländisch Rituelen) ist der dritte Roman des niederländischen Schriftstellers Cees Nooteboom. Er erschien 1980 und verhalf seinem Autor zum internationalen Durchbruch als Erzähler. Die existenzialistische Erzählung berichtet von dem Versuch ihrer Hauptfiguren, ihrem als sinnlos empfundenen Leben durch strikte Einhaltung verschiedener Rituale eine Form zu geben. Letztlich führen diese Rituale jedoch den Tod herbei. Der Roman erhielt 1981 den Bordewijkprijs sowie 1982 den Mobil-Pegasuspreis, der eine englische Übersetzung finanzierte. Es folgten Übersetzungen in weitere Sprachen, so erschien 1984 im Verlag Volk und Welt sowie 1985 im Suhrkamp Verlag auch eine deutsche Fassung von Hans Herrfurth. 1989 verwendete Herbert Curiel den Roman als Vorlage für seinen Film Rituelen.</value>
+</abstract>
+</XML_Serializer_Tag>
+<XML_Serializer_Tag>
+<book>
+<type>uri</type>
+<value>http://dbpedia.org/resource/The_Following_Story</value>
+</book>
+<author>
+<type>uri</type>
+<value>http://dbpedia.org/resource/Cees_Nooteboom</value>
+</author>
+<wikilink>
+<type>uri</type>
+<value>http://en.wikipedia.org/wiki/The_Following_Story?oldid=564956715</value>
+</wikilink>
+<abstract>
+<type>literal</type>
+<xml:lang>de</xml:lang>
+<value>Die folgende Geschichte (niederländisch: Het volgende verhaal) ist eine Novelle des niederländischen Schriftstellers Cees Nooteboom, die 1991 als Boekenweekgeschenk veröffentlicht wurde. Die mysteriösen Umstände, unter denen der Protagonist der Geschichte eines Morgens erwacht, verdichten sich zu seinem Übergang vom Leben in den Tod. Auf einer Todesfahrt erinnert er sich seiner Vergangenheit und einer 20 Jahre zurückliegenden Liebe. Die Handlung ist eingebettet in zahlreiche Verweise auf antike Mythen und Motive über das Erzählen, das Reisen und den Tod. In Deutschland verhalf eine Besprechung in der Sendung Das Literarische Quartett dem Buch zu einem großen Verkaufserfolg und dem Autor zu nachhaltiger Popularität.</value>
+</abstract>
+</XML_Serializer_Tag>
+<XML_Serializer_Tag>
+<book>
+<type>uri</type>
+<value>http://dbpedia.org/resource/All_Souls&apos;_Day_(novel)</value>
+</book>
+<author>
+<type>uri</type>
+<value>http://dbpedia.org/resource/Cees_Nooteboom</value>
+</author>
+<wikilink>
+<type>uri</type>
+<value>http://en.wikipedia.org/wiki/All_Souls&apos;_Day_(novel)?oldid=546314916</value>
+</wikilink>
+<abstract>
+<type>literal</type>
+<xml:lang>de</xml:lang>
+<value>Allerseelen (niederländisch: Allerzielen) ist ein Roman des niederländischen Schriftstellers Cees Nooteboom, der 1998 veröffentlicht wurde. Der erste Roman nach Nootebooms Erfolgsnovelle Die folgende Geschichte wurde insbesondere in Deutschland mit besonderer Beachtung aufgenommen, da sein Handlungsort das wiedervereinigte Berlin war und er das Verhältnis von Niederländern und Deutschen und ihre unterschiedliche Mentalität thematisierte.</value>
+</abstract>
+</XML_Serializer_Tag>
+<XML_Serializer_Tag>
+<book>
+<type>uri</type>
+<value>http://dbpedia.org/resource/Philip_and_the_Others</value>
+</book>
+<author>
+<type>uri</type>
+<value>http://dbpedia.org/resource/Cees_Nooteboom</value>
+</author>
+<wikilink>
+<type>uri</type>
+<value>http://en.wikipedia.org/wiki/Philip_and_the_Others?oldid=594904959</value>
+</wikilink>
+</XML_Serializer_Tag>
+<XML_Serializer_Tag>
+<book>
+<type>uri</type>
+<value>http://dbpedia.org/resource/Roads_to_Santiago</value>
+</book>
+<author>
+<type>uri</type>
+<value>http://dbpedia.org/resource/Cees_Nooteboom</value>
+</author>
+<wikilink>
+<type>uri</type>
+<value>http://en.wikipedia.org/wiki/Roads_to_Santiago?oldid=572468623</value>
+</wikilink>
+</XML_Serializer_Tag>
+</books>
+</Person>

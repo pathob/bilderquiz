@@ -1,0 +1,25 @@
+<Person>
+<name>Herb Sutter</name>
+<variantName>
+<XML_Serializer_Tag>H. Sutter</XML_Serializer_Tag>
+</variantName>
+<thumbnail>https://commons.wikimedia.org/wiki/Special:FilePath/Professional_Developers_Conference_2009_Technical_Leaders_Panel_7.jpg?width=270</thumbnail>
+<birthEN />
+<birthDE />
+<deathEN />
+<deathDE />
+<birthPlace />
+<deathPlace />
+<professionOrOccupation>
+<XML_Serializer_Tag>C++-Experte</XML_Serializer_Tag>
+<XML_Serializer_Tag>Softwareentwickler</XML_Serializer_Tag>
+<XML_Serializer_Tag>Autor</XML_Serializer_Tag>
+<XML_Serializer_Tag>Berater</XML_Serializer_Tag>
+</professionOrOccupation>
+<dbpResource>http://dbpedia.org/resource/Herb_Sutter</dbpResource>
+<abstract>Herb Sutter ist ein international anerkannter Experte für die Programmiersprache C++. Er ist Vorsitzender des ISO-C++-Standardisierungskomitees und arbeitet als Software-Architekt für die Software-Firma Microsoft. Bekannt wurde er vor allem durch die &quot;Guru of the Week (GotW)&quot;-Serie, die mögliche Problemstellungen bei der Arbeit mit C++ behandelt. Die GotW-Serie wurde 1997 in der Newsgroup comp.lang.c++.moderated gestartet. Er ist außerdem Buchautor und Kolumnist.</abstract>
+<wikilink>http://en.wikipedia.org/wiki/Herb_Sutter?oldid=562625417</wikilink>
+<artworks />
+<buildings />
+<books />
+</Person>

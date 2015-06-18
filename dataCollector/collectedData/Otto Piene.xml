@@ -18,8 +18,10 @@
 <XML_Serializer_Tag>Graphiker</XML_Serializer_Tag>
 <XML_Serializer_Tag>Lichtkünstler</XML_Serializer_Tag>
 </professionOrOccupation>
-<artworks />
 <dbpResource>http://dbpedia.org/resource/Otto_Piene</dbpResource>
 <abstract>Otto Piene (* 18. April 1928 in Laasphe) ist ein deutscher Künstler und Mitbegründer der Künstlergruppe ZERO. Er gilt als ein Wegbereiter der Licht- und Feuerkunst sowie der Sky-Art-Aktionen.</abstract>
 <wikilink>http://en.wikipedia.org/wiki/Otto_Piene?oldid=604910126</wikilink>
+<artworks />
+<buildings />
+<books />
 </Person>

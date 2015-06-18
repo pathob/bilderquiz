@@ -1,0 +1,32 @@
+<Person>
+<name>Friedrich Christian Diez</name>
+<variantName>
+<XML_Serializer_Tag>Frédéric Diez</XML_Serializer_Tag>
+<XML_Serializer_Tag>Friedrich C. Diez</XML_Serializer_Tag>
+<XML_Serializer_Tag>Friederich Diez</XML_Serializer_Tag>
+<XML_Serializer_Tag>Christian Friedrich Diez</XML_Serializer_Tag>
+<XML_Serializer_Tag>Fridericus Diez</XML_Serializer_Tag>
+</variantName>
+<thumbnail>https://commons.wikimedia.org/wiki/Special:FilePath/Friedrich_Christian_Diez.jpg?width=270</thumbnail>
+<birthEN>March 15, 1794</birthEN>
+<birthDE>15. März 1794</birthDE>
+<deathEN>May 29, 1876</deathEN>
+<deathDE>29. Mai 1876</deathDE>
+<birthPlace>
+<XML_Serializer_Tag>Gießen</XML_Serializer_Tag>
+</birthPlace>
+<deathPlace>
+<XML_Serializer_Tag>Bonn</XML_Serializer_Tag>
+</deathPlace>
+<professionOrOccupation>
+<XML_Serializer_Tag>Romanist</XML_Serializer_Tag>
+<XML_Serializer_Tag>Schriftsteller</XML_Serializer_Tag>
+<XML_Serializer_Tag>Philologe</XML_Serializer_Tag>
+</professionOrOccupation>
+<dbpResource>http://dbpedia.org/resource/Friedrich_Christian_Diez</dbpResource>
+<abstract>Friedrich Christian Diez (* 15. März 1794 in Gießen; † 29. Mai 1876 in Bonn) war ein deutscher Romanist.</abstract>
+<wikilink>http://en.wikipedia.org/wiki/Friedrich_Christian_Diez?oldid=606535049</wikilink>
+<artworks />
+<buildings />
+<books />
+</Person>

@@ -1,0 +1,24 @@
+<Person>
+<name>Werner March</name>
+<variantName />
+<thumbnail>https://commons.wikimedia.org/wiki/Special:FilePath/Gedenktafel_Olympischer_Platz_4_(West)_Werner_March.jpg?width=270</thumbnail>
+<birthEN>17</birthEN>
+<birthDE>17</birthDE>
+<deathEN>01-1894-11.01.1976</deathEN>
+<deathDE>01-1894-11.01.1976</deathDE>
+<birthPlace>
+<XML_Serializer_Tag>Berlin</XML_Serializer_Tag>
+</birthPlace>
+<deathPlace>
+<XML_Serializer_Tag>Berlin</XML_Serializer_Tag>
+</deathPlace>
+<professionOrOccupation>
+<XML_Serializer_Tag>Architekt</XML_Serializer_Tag>
+</professionOrOccupation>
+<dbpResource>http://dbpedia.org/resource/Werner_March</dbpResource>
+<abstract>Werner Julius March (* 17. Januar 1894 in Charlottenburg; † 11. Januar 1976 in Berlin) war ein deutscher Architekt. Sein bekanntestes Bauwerk ist das Olympiastadion in Berlin.</abstract>
+<wikilink>http://en.wikipedia.org/wiki/Werner_March?oldid=568272405</wikilink>
+<artworks />
+<buildings />
+<books />
+</Person>

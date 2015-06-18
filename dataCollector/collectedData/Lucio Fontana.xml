@@ -17,8 +17,10 @@
 <XML_Serializer_Tag>Bildhauer</XML_Serializer_Tag>
 <XML_Serializer_Tag>Keramiker</XML_Serializer_Tag>
 </professionOrOccupation>
-<artworks />
 <dbpResource>http://dbpedia.org/resource/Lucio_Fontana</dbpResource>
 <abstract>Lucio Fontana (* 19. Februar 1899 in Rosario, Argentinien; † 7. September 1968 in Comabbio bei Varese) war ein italienischer Avantgardekünstler der ersten Nachkriegsgeneration, der durch seine Schnittbilder weltberühmt wurde.</abstract>
 <wikilink>http://en.wikipedia.org/wiki/Lucio_Fontana?oldid=604052913</wikilink>
+<artworks />
+<buildings />
+<books />
 </Person>

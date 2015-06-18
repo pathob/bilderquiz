@@ -15,8 +15,10 @@
 <XML_Serializer_Tag>Maler</XML_Serializer_Tag>
 <XML_Serializer_Tag>Kupferstecher</XML_Serializer_Tag>
 </professionOrOccupation>
-<artworks />
 <dbpResource>http://dbpedia.org/resource/Ferdinand_Kobell</dbpResource>
 <abstract>Ferdinand Kobell (* 7. Juni 1740 in Mannheim; † 1. Februar 1799 in München) war ein deutscher Maler, Kupferstecher und Radierer.</abstract>
 <wikilink>http://en.wikipedia.org/wiki/Ferdinand_Kobell?oldid=600903395</wikilink>
+<artworks />
+<buildings />
+<books />
 </Person>

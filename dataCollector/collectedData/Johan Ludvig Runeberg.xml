@@ -1,0 +1,35 @@
+<Person>
+<name>Johan Ludvig Runeberg</name>
+<variantName>
+<XML_Serializer_Tag>Johann L. Runeberg</XML_Serializer_Tag>
+<XML_Serializer_Tag>Johannes L. Runeberg</XML_Serializer_Tag>
+<XML_Serializer_Tag>Johan Ludwig Runeberg</XML_Serializer_Tag>
+<XML_Serializer_Tag>Johann Ludvig Runeberg</XML_Serializer_Tag>
+<XML_Serializer_Tag>Joh. Ludw. Runeberg</XML_Serializer_Tag>
+<XML_Serializer_Tag>Joh. Ludv. Runeberg</XML_Serializer_Tag>
+<XML_Serializer_Tag>J. L. Runeberg</XML_Serializer_Tag>
+<XML_Serializer_Tag>Johann Ludwig Runeberg</XML_Serializer_Tag>
+<XML_Serializer_Tag>F. L. Runebergiltä</XML_Serializer_Tag>
+</variantName>
+<thumbnail>https://commons.wikimedia.org/wiki/Special:FilePath/Johan_Ludwig_Runeberg_1837.jpg?width=270</thumbnail>
+<birthEN>February 5, 1804</birthEN>
+<birthDE>5. Februar 1804</birthDE>
+<deathEN>May 6, 1877</deathEN>
+<deathDE>6. Mai 1877</deathDE>
+<birthPlace>
+<XML_Serializer_Tag>Jakobstad</XML_Serializer_Tag>
+</birthPlace>
+<deathPlace>
+<XML_Serializer_Tag>Porvoo</XML_Serializer_Tag>
+</deathPlace>
+<professionOrOccupation>
+<XML_Serializer_Tag>Schriftsteller</XML_Serializer_Tag>
+<XML_Serializer_Tag>Lehrer</XML_Serializer_Tag>
+</professionOrOccupation>
+<dbpResource>http://dbpedia.org/resource/Johan_Ludvig_Runeberg</dbpResource>
+<abstract>Johan Ludvig Runeberg (* 5. Februar oder 7. Februar 1804 in Jakobstad; † 6. Mai 1877 in Porvoo) war ein finnlandschwedischer Schriftsteller. Er gilt als der Nationaldichter Finnlands.</abstract>
+<wikilink>http://en.wikipedia.org/wiki/Johan_Ludvig_Runeberg?oldid=606604647</wikilink>
+<artworks />
+<buildings />
+<books />
+</Person>

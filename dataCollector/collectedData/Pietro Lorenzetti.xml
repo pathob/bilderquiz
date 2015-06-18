@@ -1,0 +1,55 @@
+<Person>
+<name>Pietro Lorenzetti</name>
+<variantName>
+<XML_Serializer_Tag>Pietro, Lorenzetti</XML_Serializer_Tag>
+<XML_Serializer_Tag>Pierre Lorenzetti</XML_Serializer_Tag>
+<XML_Serializer_Tag>Pierre, Lorenzetti</XML_Serializer_Tag>
+<XML_Serializer_Tag>Pietro Laurati</XML_Serializer_Tag>
+</variantName>
+<thumbnail>https://commons.wikimedia.org/wiki/Special:FilePath/Pietro_Lorenzetti_002.jpg?width=270</thumbnail>
+<birthEN>1280</birthEN>
+<birthDE>1280</birthDE>
+<deathEN>1348</deathEN>
+<deathDE>1348</deathDE>
+<birthPlace />
+<deathPlace />
+<professionOrOccupation>
+<XML_Serializer_Tag>Künstler</XML_Serializer_Tag>
+</professionOrOccupation>
+<dbpResource>http://dbpedia.org/resource/Pietro_Lorenzetti</dbpResource>
+<abstract>Pietro Lorenzetti (* um 1280 in Siena; † wahrscheinlich 1348 ebenda) war ein italienischer Maler und der ältere Bruder von Ambrogio Lorenzetti.Er gilt als Nachfolger Giottos, da er den Freskenzyklus der Unterkirche der Basilika San Francesco in Assisi ab etwa 1325 fertigstellte. Im Palazzo Pubblico von Siena malte er mit seinem Bruder Ambrogio drei Wände der Sala dei Nove in einem Großauftrag aus. Die Fresken dort stellen in politisch schulmeisterlicher Manier allegorisch Die gute und die schlechte Regierung, mit ihren Auswirkungen auf die Bevölkerung in Stadt und Land dar (gemalt zwischen 1337 und 1339, im unteren Abschnitt heute schwer beschädigt).Vorbilder waren für ihn u. a. Duccio, Giotto und Giovanni Pisano. Von Duccio übernahm er die Figurendarstellung wie z. B. im Retabel der Pfarrkirche von Arezzo, von Giotto lernte er Raumdarstellung und Verkürzung und von Pisano die Leidenschaftlichkeit des Vortrags.Da nach 1348 jegliche Nachrichten über die Brüder Lorenzetti fehlen, wurden sie sehr wahrscheinlich Opfer der Pestepidemie von 1348.</abstract>
+<wikilink>http://en.wikipedia.org/wiki/Pietro_Lorenzetti?oldid=604324507</wikilink>
+<artworks>
+<XML_Serializer_Tag>
+<artwork>
+<type>uri</type>
+<value>http://dbpedia.org/resource/Nativity_of_the_Virgin_(Pietro_Lorenzetti)</value>
+</artwork>
+<thumbnail>
+<type>uri</type>
+<value>http://commons.wikimedia.org/wiki/Special:FilePath/Pietro_lorenzetti,_natività_della_vergine_del_duomo_di_siena,_1342,_tempera_su_tavola_187x182,_museo_dell&apos;opera_del_duomo_di_siena.jpg?width=300</value>
+</thumbnail>
+<name>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>Nativity of the Virgin</value>
+</name>
+<year>
+<type>typed-literal</type>
+<datatype>http://www.w3.org/2001/XMLSchema#integer</datatype>
+<value>1335</value>
+</year>
+<wikilink>
+<type>uri</type>
+<value>http://en.wikipedia.org/wiki/Nativity_of_the_Virgin_(Pietro_Lorenzetti)?oldid=585962501</value>
+</wikilink>
+<type>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>Tempera on panel</value>
+</type>
+</XML_Serializer_Tag>
+</artworks>
+<buildings />
+<books />
+</Person>

@@ -14,8 +14,10 @@
 <XML_Serializer_Tag>Künstler</XML_Serializer_Tag>
 <XML_Serializer_Tag>Maler</XML_Serializer_Tag>
 </professionOrOccupation>
-<artworks />
 <dbpResource>http://dbpedia.org/resource/Adolf_Seel</dbpResource>
 <abstract>Adolf Seel (* 1. März 1829 in Wiesbaden; † 14. Februar 1907 in Dillenburg) war ein Wiesbadener Maler des 19. Jahrhunderts. Er genoss eine Ausbildung an der Düsseldorfer Kunstakademie.</abstract>
 <wikilink>http://en.wikipedia.org/wiki/Adolf_Seel?oldid=564735414</wikilink>
+<artworks />
+<buildings />
+<books />
 </Person>

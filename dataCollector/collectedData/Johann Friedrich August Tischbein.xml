@@ -24,8 +24,10 @@
 <XML_Serializer_Tag>Künstler</XML_Serializer_Tag>
 <XML_Serializer_Tag>Maler</XML_Serializer_Tag>
 </professionOrOccupation>
-<artworks />
 <dbpResource>http://dbpedia.org/resource/Johann_Friedrich_August_Tischbein</dbpResource>
 <abstract>Johann Friedrich August Tischbein (* 9. März 1750 in Maastricht; † 21. Juni 1812 in Heidelberg), der sogenannte „Leipziger Tischbein“, war ein deutscher Maler. Er wurde vor allem durch Familienporträts bekannt und war einer der bedeutendsten Vertreter der zweiten Generation der Künstlerfamilie Tischbein.</abstract>
 <wikilink>http://en.wikipedia.org/wiki/Johann_Friedrich_August_Tischbein?oldid=592040306</wikilink>
+<artworks />
+<buildings />
+<books />
 </Person>

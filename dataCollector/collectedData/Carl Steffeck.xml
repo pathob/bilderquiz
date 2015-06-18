@@ -25,8 +25,10 @@
 <XML_Serializer_Tag>Radierer</XML_Serializer_Tag>
 <XML_Serializer_Tag>Lithograph</XML_Serializer_Tag>
 </professionOrOccupation>
-<artworks />
 <dbpResource>http://dbpedia.org/resource/Carl_Steffeck</dbpResource>
 <abstract>Carl Constantin Heinrich Steffeck (* 4. April 1818 in Berlin; † 11. Juli 1890 in Königsberg; auch Karl Steffeck) war ein deutscher Maler und Grafiker. Er wurde vor allem durch seine Bilder von Pferden und Hunden bekannt.</abstract>
 <wikilink>http://en.wikipedia.org/wiki/Carl_Steffeck?oldid=604771338</wikilink>
+<artworks />
+<buildings />
+<books />
 </Person>

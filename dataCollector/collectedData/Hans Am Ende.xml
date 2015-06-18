@@ -17,8 +17,10 @@
 <XML_Serializer_Tag>Radierer</XML_Serializer_Tag>
 <XML_Serializer_Tag>Bildhauer</XML_Serializer_Tag>
 </professionOrOccupation>
-<artworks />
 <dbpResource>http://dbpedia.org/resource/Hans_am_Ende</dbpResource>
 <abstract>Hans am Ende (* 31. Dezember 1864 in Trier; † 9. Juli 1918 in Stettin) war ein deutscher Maler des Impressionismus und Mitbegründer der Künstlerkolonie Worpswede.</abstract>
 <wikilink>http://en.wikipedia.org/wiki/Hans_am_Ende?oldid=602482631</wikilink>
+<artworks />
+<buildings />
+<books />
 </Person>

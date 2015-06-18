@@ -1,0 +1,28 @@
+<Person>
+<name>Cornelius Gurlitt</name>
+<variantName>
+<XML_Serializer_Tag>Cornelius Gustav Gurlitt</XML_Serializer_Tag>
+<XML_Serializer_Tag>Kornelius Gurlitt</XML_Serializer_Tag>
+</variantName>
+<thumbnail>https://commons.wikimedia.org/wiki/Special:FilePath/Cornelius_Gurlitt_1905.jpg?width=270</thumbnail>
+<birthEN>January 1, 1850</birthEN>
+<birthDE>1. Januar 1850</birthDE>
+<deathEN>March 25, 1938</deathEN>
+<deathDE>25. März 1938</deathDE>
+<birthPlace>
+<XML_Serializer_Tag>Nischwitz</XML_Serializer_Tag>
+</birthPlace>
+<deathPlace>
+<XML_Serializer_Tag>Dresden</XML_Serializer_Tag>
+</deathPlace>
+<professionOrOccupation>
+<XML_Serializer_Tag>Kunsthistoriker</XML_Serializer_Tag>
+<XML_Serializer_Tag>Architekt</XML_Serializer_Tag>
+</professionOrOccupation>
+<dbpResource>http://dbpedia.org/resource/Cornelius_Gurlitt_(art_historian)</dbpResource>
+<abstract>Cornelius Gustav Gurlitt (* 1. Januar 1850 in Nischwitz; † 25. März 1938 in Dresden) war ein deutscher Architekt und Kunsthistoriker.</abstract>
+<wikilink>http://en.wikipedia.org/wiki/Cornelius_Gurlitt_(art_historian)?oldid=586876841</wikilink>
+<artworks />
+<buildings />
+<books />
+</Person>

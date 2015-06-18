@@ -1,0 +1,27 @@
+<Person>
+<name>John Leech</name>
+<variantName>
+<XML_Serializer_Tag>J. Leech</XML_Serializer_Tag>
+</variantName>
+<thumbnail>https://commons.wikimedia.org/wiki/Special:FilePath/JohnLeechHimself.jpg?width=270</thumbnail>
+<birthEN>August 29, 1817</birthEN>
+<birthDE>29. August 1817</birthDE>
+<deathEN>October 29, 1864</deathEN>
+<deathDE>29. Oktober 1864</deathDE>
+<birthPlace>
+<XML_Serializer_Tag>London</XML_Serializer_Tag>
+</birthPlace>
+<deathPlace>
+<XML_Serializer_Tag>London</XML_Serializer_Tag>
+</deathPlace>
+<professionOrOccupation>
+<XML_Serializer_Tag>Künstler</XML_Serializer_Tag>
+<XML_Serializer_Tag>Publizist</XML_Serializer_Tag>
+</professionOrOccupation>
+<dbpResource>http://dbpedia.org/resource/John_Leech_(caricaturist)</dbpResource>
+<abstract>John Leech (* 29. August 1817 in London; † 29. Oktober 1864 ebda.) war ein britischer Zeichner und Karikaturist.John Leech machte sich zuerst durch Buchillustrationen bekannt und arbeitete seit 1847 für die berühmte englische Satirezeitschrift Punch.Ohne systematische Kunstbildung genossen zu haben, entwickelte er sich bald zu einem hervorragenden Karikaturenzeichner, welcher mit Vorliebe das Londoner Volksleben in humoristischen Darstellungen schilderte und die Ausschreitungen der Mode geißelte.Er hat auch zahlreiche Romane, Sportbücher und Almanache illustriert und über 50.000 Blatt Zeichnungen geliefert. Seine Karikaturen sind frei von Rohheit und von einem höheren künstlerischen Streben erfüllt. Eine Auswahl seiner Zeichnungen erschien unter dem Titel: Pictures of life and character (neue Ausg. 1881).</abstract>
+<wikilink>http://en.wikipedia.org/wiki/John_Leech_(caricaturist)?oldid=605481102</wikilink>
+<artworks />
+<buildings />
+<books />
+</Person>

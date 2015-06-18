@@ -1,0 +1,32 @@
+<Person>
+<name>Christian Schreiber</name>
+<variantName>
+<XML_Serializer_Tag>Chr. Schreiber</XML_Serializer_Tag>
+<XML_Serializer_Tag>Christianus Schreiberus</XML_Serializer_Tag>
+<XML_Serializer_Tag>Christian Johann Christoph Schreiber</XML_Serializer_Tag>
+</variantName>
+<thumbnail>https://commons.wikimedia.org/wiki/Special:FilePath/Juliane_Oettelt.jpg?width=270</thumbnail>
+<birthEN>April 15, 1781</birthEN>
+<birthDE>15. April 1781</birthDE>
+<deathEN>August 15, 1857</deathEN>
+<deathDE>15. August 1857</deathDE>
+<birthPlace>
+<XML_Serializer_Tag>Eisenach</XML_Serializer_Tag>
+</birthPlace>
+<deathPlace>
+<XML_Serializer_Tag>Ostheim v.d. Rhön</XML_Serializer_Tag>
+</deathPlace>
+<professionOrOccupation>
+<XML_Serializer_Tag>Schriftsteller</XML_Serializer_Tag>
+<XML_Serializer_Tag>Theologe</XML_Serializer_Tag>
+<XML_Serializer_Tag>Philologe</XML_Serializer_Tag>
+<XML_Serializer_Tag>Philosoph</XML_Serializer_Tag>
+<XML_Serializer_Tag>Superintendent</XML_Serializer_Tag>
+</professionOrOccupation>
+<dbpResource>http://dbpedia.org/resource/Christian_Schreiber</dbpResource>
+<abstract>Christian Schreiber (* 7. August 1980 in Langendorf, Weißenfels) ist ein deutscher Ruderer.Er ist mehrfacher Weltmeister im Doppelvierer: bei den Junioren (unter 19 Jahren), bei Senioren B (unter 23 Jahren) und bei Senioren A (offene Altersklasse). 2001 wurde er in der offenen Altersklasse Weltmeister im Doppelvierer.2005 belegte Christian Schreiber bei den Weltmeisterschaften in Japan den dritten Rang im Doppelzweier. Im Jahr 2007 konnte Christian Schreiber bei den Weltmeisterschaften in München in den Vorläufen hervorragende Leistungen zeigen, die dann an den Finaltagen nicht bestätigt wurden. Dennoch hat sich der deutsche Doppelzweier für die Olympischen Spiele in Peking qualifiziert. Bei den Olympischen Spielen rückte Schreiber dann aus Verletzungsgründen in den Doppelvierer auf und belegte mit diesem Boot den sechsten Platz.</abstract>
+<wikilink>http://en.wikipedia.org/wiki/Christian_Schreiber?oldid=546082090</wikilink>
+<artworks />
+<buildings />
+<books />
+</Person>

@@ -1,0 +1,22 @@
+<Person>
+<name>Colin Campbell</name>
+<variantName>
+<XML_Serializer_Tag>Colen Campbell</XML_Serializer_Tag>
+</variantName>
+<thumbnail>https://commons.wikimedia.org/wiki/Special:FilePath/Stourhead_2.gif?width=270</thumbnail>
+<birthEN>1675</birthEN>
+<birthDE>1675</birthDE>
+<deathEN>1729</deathEN>
+<deathDE>1729</deathDE>
+<birthPlace />
+<deathPlace />
+<professionOrOccupation>
+<XML_Serializer_Tag>Architekt</XML_Serializer_Tag>
+</professionOrOccupation>
+<dbpResource>http://dbpedia.org/resource/Colin_Campbell_(Canadian_bishop)</dbpResource>
+<abstract>Colin Campbell KHCS (* 12. Juli 1931 in Antigonish; † 17. Januar 2012 in Halifax) war ein kanadischer Geistlicher und römisch-katholischer Bischof von Antigonish.</abstract>
+<wikilink>http://en.wikipedia.org/wiki/Colin_Campbell_(Canadian_bishop)?oldid=562929182</wikilink>
+<artworks />
+<buildings />
+<books />
+</Person>

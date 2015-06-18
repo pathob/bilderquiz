@@ -1,0 +1,32 @@
+<Person>
+<name>Kaspar von Zumbusch</name>
+<variantName>
+<XML_Serializer_Tag>Caspar von Zumbusch</XML_Serializer_Tag>
+<XML_Serializer_Tag>Caspar Clemens von Zumbusch</XML_Serializer_Tag>
+<XML_Serializer_Tag>Kaspar Clemens von Zumbusch</XML_Serializer_Tag>
+<XML_Serializer_Tag>Kaspar Clemens Eduard von Zumbusch</XML_Serializer_Tag>
+<XML_Serializer_Tag>Caspar Clemens Eduard von Zumbusch</XML_Serializer_Tag>
+<XML_Serializer_Tag>Kaspar Clemens Ed. von Zumbusch</XML_Serializer_Tag>
+</variantName>
+<thumbnail>https://commons.wikimedia.org/wiki/Special:FilePath/Caspar_Clemens_Eduard_Zumbusch_-_Bildhauer.jpg?width=270</thumbnail>
+<birthEN>November 23, 1830</birthEN>
+<birthDE>23. November 1830</birthDE>
+<deathEN>September 27, 1915</deathEN>
+<deathDE>27. September 1915</deathDE>
+<birthPlace>
+<XML_Serializer_Tag>Herzebrock</XML_Serializer_Tag>
+</birthPlace>
+<deathPlace>
+<XML_Serializer_Tag>Rimsting</XML_Serializer_Tag>
+</deathPlace>
+<professionOrOccupation>
+<XML_Serializer_Tag>Künstler</XML_Serializer_Tag>
+<XML_Serializer_Tag>Bildhauer</XML_Serializer_Tag>
+</professionOrOccupation>
+<dbpResource>http://dbpedia.org/resource/Kaspar_von_Zumbusch</dbpResource>
+<abstract>Caspar Clemens Eduard Zumbusch, ab 1888 Ritter von Zumbusch (* 23. November 1830 in Herzebrock; † 26. September 1915 in Rimsting am Chiemsee) war ein deutscher Bildhauer. Er gilt als der wichtigste Monumentalplastiker der Gründerzeit in Österreich.</abstract>
+<wikilink>http://en.wikipedia.org/wiki/Kaspar_von_Zumbusch?oldid=596752981</wikilink>
+<artworks />
+<buildings />
+<books />
+</Person>

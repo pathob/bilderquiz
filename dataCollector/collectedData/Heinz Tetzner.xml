@@ -16,8 +16,10 @@
 <XML_Serializer_Tag>Maler</XML_Serializer_Tag>
 <XML_Serializer_Tag>Graphiker</XML_Serializer_Tag>
 </professionOrOccupation>
-<artworks />
 <dbpResource>http://dbpedia.org/resource/Heinz_Tetzner</dbpResource>
 <abstract>Heinz Tetzner (* 8. März 1920 in Gersdorf; † 20. August 2007 ebenda) war ein deutscher Maler und Grafiker des Expressionismus.</abstract>
 <wikilink>http://en.wikipedia.org/wiki/Heinz_Tetzner?oldid=601833835</wikilink>
+<artworks />
+<buildings />
+<books />
 </Person>

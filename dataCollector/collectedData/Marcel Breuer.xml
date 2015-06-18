@@ -1,0 +1,153 @@
+<Person>
+<name>Marcel Breuer</name>
+<variantName>
+<XML_Serializer_Tag>Marcel Lajos Breuer</XML_Serializer_Tag>
+<XML_Serializer_Tag>Lajkó Breuer</XML_Serializer_Tag>
+</variantName>
+<thumbnail>https://commons.wikimedia.org/wiki/Special:FilePath/Marcel_Breuer.png?width=270</thumbnail>
+<birthEN>May 22, 1902</birthEN>
+<birthDE>22. Mai 1902</birthDE>
+<deathEN>July 1, 1981</deathEN>
+<deathDE>1. Juli 1981</deathDE>
+<birthPlace />
+<deathPlace />
+<professionOrOccupation>
+<XML_Serializer_Tag>Architekt</XML_Serializer_Tag>
+<XML_Serializer_Tag>Designer</XML_Serializer_Tag>
+</professionOrOccupation>
+<dbpResource>http://dbpedia.org/resource/Marcel_Breuer</dbpResource>
+<abstract>Marcel Lajos („Lajkó“) Breuer (* 21. Mai 1902 in Pécs (deutsch: Fünfkirchen), Ungarn; † 1. Juli 1981 in New York City) war ein deutsch-amerikanischer Architekt und Designer mit ungarisch-jüdischer Herkunft.Nach einer Tischlerlehre am Bauhaus Weimar arbeitete Breuer mehrere Jahre im Büro von Walter Gropius und machte sich dann selbständig. 1933 wanderte er aufgrund seiner jüdischen Herkunft aus dem Dritten Reich aus und zog über Ungarn und London in die USA. Dort baute er unter anderem, gemeinsam mit Gropius, die Architekturfakultät der Harvard University auf.</abstract>
+<wikilink>http://en.wikipedia.org/wiki/Marcel_Breuer?oldid=593667507</wikilink>
+<artworks />
+<buildings>
+<XML_Serializer_Tag>
+<building>
+<type>uri</type>
+<value>http://dbpedia.org/resource/Josephine_M._Hagerty_House</value>
+</building>
+<name>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>Josephine M. Hagerty House</value>
+</name>
+<architect>
+<type>uri</type>
+<value>http://dbpedia.org/resource/Marcel_Breuer</value>
+</architect>
+<thumbnail>
+<type>uri</type>
+<value>http://commons.wikimedia.org/wiki/Special:FilePath/Hagerty_House;2009-09-03.JPG?width=300</value>
+</thumbnail>
+<wikilink>
+<type>uri</type>
+<value>http://en.wikipedia.org/wiki/Josephine_M._Hagerty_House?oldid=532111283</value>
+</wikilink>
+<location>
+<type>uri</type>
+<value>http://dbpedia.org/resource/Cohasset,_Massachusetts</value>
+</location>
+<built>
+<type>typed-literal</type>
+<datatype>http://www.w3.org/2001/XMLSchema#integer</datatype>
+<value>1938</value>
+</built>
+</XML_Serializer_Tag>
+<XML_Serializer_Tag>
+<building>
+<type>uri</type>
+<value>http://dbpedia.org/resource/Murray_D._Lincoln_Campus_Center</value>
+</building>
+<name>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>Murray D. Lincoln Campus Center</value>
+</name>
+<architect>
+<type>uri</type>
+<value>http://dbpedia.org/resource/Marcel_Breuer</value>
+</architect>
+<thumbnail>
+<type>uri</type>
+<value>http://commons.wikimedia.org/wiki/Special:FilePath/Murray_D._Lincoln_Campus_Center.jpg?width=300</value>
+</thumbnail>
+<wikilink>
+<type>uri</type>
+<value>http://en.wikipedia.org/wiki/Murray_D._Lincoln_Campus_Center?oldid=595546801</value>
+</wikilink>
+<location>
+<type>uri</type>
+<value>http://dbpedia.org/resource/Amherst,_Massachusetts</value>
+</location>
+</XML_Serializer_Tag>
+<XML_Serializer_Tag>
+<building>
+<type>uri</type>
+<value>http://dbpedia.org/resource/Stillman_House</value>
+</building>
+<name>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>Marcel Breuer Stillman House</value>
+</name>
+<architect>
+<type>uri</type>
+<value>http://dbpedia.org/resource/Marcel_Breuer</value>
+</architect>
+<thumbnail>
+<type>uri</type>
+<value>http://en.wikipedia.org/wiki/Special:FilePath/Stillman_Photo_2.jpeg?width=300</value>
+</thumbnail>
+<wikilink>
+<type>uri</type>
+<value>http://en.wikipedia.org/wiki/Stillman_House?oldid=605059624</value>
+</wikilink>
+</XML_Serializer_Tag>
+<XML_Serializer_Tag>
+<building>
+<type>uri</type>
+<value>http://dbpedia.org/resource/Robert_C._Weaver_Federal_Building</value>
+</building>
+<name>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>Robert C. Weaver Federal Building</value>
+</name>
+<architect>
+<type>uri</type>
+<value>http://dbpedia.org/resource/Marcel_Breuer</value>
+</architect>
+<thumbnail>
+<type>uri</type>
+<value>http://commons.wikimedia.org/wiki/Special:FilePath/Department_of_Housing_and_Urban_Development.JPG?width=300</value>
+</thumbnail>
+<wikilink>
+<type>uri</type>
+<value>http://en.wikipedia.org/wiki/Robert_C._Weaver_Federal_Building?oldid=590602331</value>
+</wikilink>
+</XML_Serializer_Tag>
+<XML_Serializer_Tag>
+<building>
+<type>uri</type>
+<value>http://dbpedia.org/resource/Hooper_House_(Baltimore_County,_Maryland)</value>
+</building>
+<name>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>Hooper House II</value>
+</name>
+<architect>
+<type>uri</type>
+<value>http://dbpedia.org/resource/Marcel_Breuer</value>
+</architect>
+<thumbnail>
+<type>uri</type>
+<value>http://commons.wikimedia.org/wiki/Special:FilePath/Livingroomwindow.jpg?width=300</value>
+</thumbnail>
+<wikilink>
+<type>uri</type>
+<value>http://en.wikipedia.org/wiki/Hooper_House_(Baltimore_County,_Maryland)?oldid=585938646</value>
+</wikilink>
+</XML_Serializer_Tag>
+</buildings>
+<books />
+</Person>

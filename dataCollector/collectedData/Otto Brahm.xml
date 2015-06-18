@@ -1,0 +1,31 @@
+<Person>
+<name>Otto Brahm</name>
+<variantName>
+<XML_Serializer_Tag>Otto Abraham</XML_Serializer_Tag>
+<XML_Serializer_Tag>Otto Abrahamson</XML_Serializer_Tag>
+<XML_Serializer_Tag>Otto Abrahamsohn</XML_Serializer_Tag>
+</variantName>
+<thumbnail>https://commons.wikimedia.org/wiki/Special:FilePath/Berlin,_Mitte,_Schumannstraße,_Deutsches_Theater,_Büste_Otto_Brahm.jpg?width=270</thumbnail>
+<birthEN>February 5, 1856</birthEN>
+<birthDE>5. Februar 1856</birthDE>
+<deathEN>November 28, 1912</deathEN>
+<deathDE>28. November 1912</deathDE>
+<birthPlace>
+<XML_Serializer_Tag>Hamburg</XML_Serializer_Tag>
+</birthPlace>
+<deathPlace>
+<XML_Serializer_Tag>Berlin</XML_Serializer_Tag>
+</deathPlace>
+<professionOrOccupation>
+<XML_Serializer_Tag>Literarhistoriker</XML_Serializer_Tag>
+<XML_Serializer_Tag>Theaterdirektor</XML_Serializer_Tag>
+<XML_Serializer_Tag>Theaterkritiker</XML_Serializer_Tag>
+<XML_Serializer_Tag>Schriftsteller</XML_Serializer_Tag>
+</professionOrOccupation>
+<dbpResource>http://dbpedia.org/resource/Otto_Brahm</dbpResource>
+<abstract>Otto Brahm (* 5. Februar 1856 in Hamburg; † 28. November 1912 in Berlin; eigentlich Abrahamsohn, Pseudonym: Otto Anders) war ein deutsch-jüdischer Kritiker, Theaterleiter und Regisseur.</abstract>
+<wikilink>http://en.wikipedia.org/wiki/Otto_Brahm?oldid=587718602</wikilink>
+<artworks />
+<buildings />
+<books />
+</Person>

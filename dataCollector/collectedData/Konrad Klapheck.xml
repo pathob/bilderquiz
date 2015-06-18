@@ -18,8 +18,10 @@
 <XML_Serializer_Tag>Graphiker</XML_Serializer_Tag>
 <XML_Serializer_Tag>Hochschullehrer</XML_Serializer_Tag>
 </professionOrOccupation>
-<artworks />
 <dbpResource>http://dbpedia.org/resource/Konrad_Klapheck</dbpResource>
 <abstract>Konrad Klapheck (* 10. Februar 1935 in Düsseldorf) ist ein deutscher Grafiker, Maler, Künstler und (emeritierter) Kunstprofessor an der Kunstakademie Düsseldorf. Er gilt heute als Klassiker der Nachkriegs-Avantgarde.</abstract>
 <wikilink>http://en.wikipedia.org/wiki/Konrad_Klapheck?oldid=592133872</wikilink>
+<artworks />
+<buildings />
+<books />
 </Person>

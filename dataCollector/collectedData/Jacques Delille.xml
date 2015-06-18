@@ -1,0 +1,30 @@
+<Person>
+<name>Jacques Delille</name>
+<variantName>
+<XML_Serializer_Tag>Jacques de Lille</XML_Serializer_Tag>
+<XML_Serializer_Tag>Jacques M. Delille</XML_Serializer_Tag>
+<XML_Serializer_Tag>Jacques Montanier</XML_Serializer_Tag>
+<XML_Serializer_Tag>... de Lille</XML_Serializer_Tag>
+<XML_Serializer_Tag>... Delille</XML_Serializer_Tag>
+</variantName>
+<thumbnail>https://commons.wikimedia.org/wiki/Special:FilePath/Delille_et_Geoffrin.jpg?width=270</thumbnail>
+<birthEN>1738</birthEN>
+<birthDE>1738</birthDE>
+<deathEN>1813</deathEN>
+<deathDE>1813</deathDE>
+<birthPlace>
+<XML_Serializer_Tag>Aigueperse, Puy-de-Dôme</XML_Serializer_Tag>
+</birthPlace>
+<deathPlace>
+<XML_Serializer_Tag>Paris</XML_Serializer_Tag>
+</deathPlace>
+<professionOrOccupation>
+<XML_Serializer_Tag>Schriftsteller</XML_Serializer_Tag>
+</professionOrOccupation>
+<dbpResource>http://dbpedia.org/resource/Jacques_Delille</dbpResource>
+<abstract>Jacques Delille (gelegentlich Abbé Delille, * 22. Juni 1738 in Clermont-Ferrand in der Auvergne; † 1. Mai 1813 in Paris) war ein französischer Dichter.</abstract>
+<wikilink>http://en.wikipedia.org/wiki/Jacques_Delille?oldid=600899957</wikilink>
+<artworks />
+<buildings />
+<books />
+</Person>

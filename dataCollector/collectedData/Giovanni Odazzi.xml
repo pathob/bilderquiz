@@ -14,8 +14,10 @@
 <professionOrOccupation>
 <XML_Serializer_Tag>Maler</XML_Serializer_Tag>
 </professionOrOccupation>
-<artworks />
 <dbpResource>http://dbpedia.org/resource/Giovanni_Odazzi</dbpResource>
 <abstract>Giovanni Odazzi oder Odasi (* 1663 in Rom; † 6. Juni 1731 ebenda) war ein italienischer Maler und Grafiker des Rokoko in Rom.</abstract>
 <wikilink>http://en.wikipedia.org/wiki/Giovanni_Odazzi?oldid=605039034</wikilink>
+<artworks />
+<buildings />
+<books />
 </Person>

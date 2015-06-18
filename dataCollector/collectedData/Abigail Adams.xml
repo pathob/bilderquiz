@@ -1,0 +1,24 @@
+<Person>
+<name>Abigail Adams</name>
+<variantName>
+<XML_Serializer_Tag>Abigail Smith Adams</XML_Serializer_Tag>
+<XML_Serializer_Tag>Abigail Smith</XML_Serializer_Tag>
+<XML_Serializer_Tag>Abigail Smith Adams</XML_Serializer_Tag>
+</variantName>
+<thumbnail>https://commons.wikimedia.org/wiki/Special:FilePath/Abigail_Adams_by_Gilbert_Stuart.jpg?width=270</thumbnail>
+<birthEN>1744</birthEN>
+<birthDE>1744</birthDE>
+<deathEN>1818</deathEN>
+<deathDE>1818</deathDE>
+<birthPlace />
+<deathPlace />
+<professionOrOccupation>
+<XML_Serializer_Tag>Schriftstellerin</XML_Serializer_Tag>
+</professionOrOccupation>
+<dbpResource>http://dbpedia.org/resource/Abigail_Adams</dbpResource>
+<abstract>Abigail Smith Adams (* 11. November 1744 in Weymouth, Massachusetts, Britische Kolonie, heute Vereinigte Staaten; † 28. Oktober 1818 in Quincy, Massachusetts) war die Ehefrau des zweiten US-Präsidenten John Adams und wird heutzutage demnach als zweite US-amerikanische First Lady betrachtet, obgleich dieser Begriff erst nach ihrem Tode geprägt wurde, außerdem war sie die Mutter des US-Präsidenten John Quincy Adams. Zu ihren Lebzeiten wurde sie als „Lady Adams“ bezeichnet. Sie hatte, indem sie ihren Mann häufig beriet, großen Einfluss auf die Politik und setzte sich sehr für Frauenrechte ein.</abstract>
+<wikilink>http://en.wikipedia.org/wiki/Abigail_Adams?oldid=604284377</wikilink>
+<artworks />
+<buildings />
+<books />
+</Person>

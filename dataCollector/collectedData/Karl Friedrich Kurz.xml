@@ -1,0 +1,27 @@
+<Person>
+<name>Karl Friedrich Kurz</name>
+<variantName>
+<XML_Serializer_Tag>Karl F. Kurz</XML_Serializer_Tag>
+<XML_Serializer_Tag>K. F. Kurz</XML_Serializer_Tag>
+</variantName>
+<thumbnail>https://commons.wikimedia.org/wiki/Special:FilePath/2003_05_3_25_15-KarlFriedrichKurtz.jpg?width=270</thumbnail>
+<birthEN>September 23, 1878</birthEN>
+<birthDE>23. September 1878</birthDE>
+<deathEN>June 26, 1962</deathEN>
+<deathDE>26. Juni 1962</deathDE>
+<birthPlace>
+<XML_Serializer_Tag>Bremgarten, Markgräflerland</XML_Serializer_Tag>
+</birthPlace>
+<deathPlace>
+<XML_Serializer_Tag>Nessjøen, Sotra, Hordalandin</XML_Serializer_Tag>
+</deathPlace>
+<professionOrOccupation>
+<XML_Serializer_Tag>Schriftsteller</XML_Serializer_Tag>
+</professionOrOccupation>
+<dbpResource>http://dbpedia.org/resource/Karl_Friedrich_Kurz</dbpResource>
+<abstract>Karl Friedrich Kurz (* 23. September 1878 in Bremgarten (Hartheim am Rhein); † 26. Juni 1962 in Norwegen) war ein deutscher Schriftsteller.</abstract>
+<wikilink>http://en.wikipedia.org/wiki/Karl_Friedrich_Kurz?oldid=542457158</wikilink>
+<artworks />
+<buildings />
+<books />
+</Person>

@@ -1,0 +1,30 @@
+<Person>
+<name>Ferenc Kazinczy</name>
+<variantName>
+<XML_Serializer_Tag>Ferencz Kazinczy</XML_Serializer_Tag>
+<XML_Serializer_Tag>Franz Kazinczy</XML_Serializer_Tag>
+<XML_Serializer_Tag>Franz von Kazinczy</XML_Serializer_Tag>
+<XML_Serializer_Tag>Franciscus Kazinczy</XML_Serializer_Tag>
+</variantName>
+<thumbnail>https://commons.wikimedia.org/wiki/Special:FilePath/Kazinczy.jpg?width=270</thumbnail>
+<birthEN>October 27, 1759</birthEN>
+<birthDE>27. Oktober 1759</birthDE>
+<deathEN>August 23, 1831</deathEN>
+<deathDE>23. August 1831</deathDE>
+<birthPlace>
+<XML_Serializer_Tag>Érsemjén</XML_Serializer_Tag>
+</birthPlace>
+<deathPlace>
+<XML_Serializer_Tag>Széphalom</XML_Serializer_Tag>
+</deathPlace>
+<professionOrOccupation>
+<XML_Serializer_Tag>Linguist</XML_Serializer_Tag>
+<XML_Serializer_Tag>Schriftsteller</XML_Serializer_Tag>
+</professionOrOccupation>
+<dbpResource>http://dbpedia.org/resource/Ferenc_Kazinczy</dbpResource>
+<abstract>Ferenc Kazinczy von Kazincz und Alsóregmecz (* 27. Oktober 1759 in Érsemjén; † 22. August 1831 in Széphalom) war ein von den Ideen der Aufklärung beeinflusster ungarischer Schriftsteller und Reformer der ungarischen Literatur und Sprache.</abstract>
+<wikilink>http://en.wikipedia.org/wiki/Ferenc_Kazinczy?oldid=599860334</wikilink>
+<artworks />
+<buildings />
+<books />
+</Person>

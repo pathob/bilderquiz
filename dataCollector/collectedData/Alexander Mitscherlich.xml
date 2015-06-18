@@ -1,0 +1,36 @@
+<Person>
+<name>Alexander Mitscherlich</name>
+<variantName>
+<XML_Serializer_Tag>... Mitscherlich-Mielke</XML_Serializer_Tag>
+<XML_Serializer_Tag>A. Mitscherlich</XML_Serializer_Tag>
+<XML_Serializer_Tag>Alexander Mischerlich</XML_Serializer_Tag>
+<XML_Serializer_Tag>... Mitscherlich</XML_Serializer_Tag>
+<XML_Serializer_Tag>Alexander Josef Eilhard Mitscherlich</XML_Serializer_Tag>
+<XML_Serializer_Tag>Alexander Harbord Mitscherlich</XML_Serializer_Tag>
+</variantName>
+<thumbnail>https://commons.wikimedia.org/wiki/Special:FilePath/Alexander-mitscherlich-grab-ffm001.jpg?width=270</thumbnail>
+<birthEN>September 20, 1908</birthEN>
+<birthDE>20. September 1908</birthDE>
+<deathEN>June 26, 1982</deathEN>
+<deathDE>26. Juni 1982</deathDE>
+<birthPlace>
+<XML_Serializer_Tag>München</XML_Serializer_Tag>
+</birthPlace>
+<deathPlace>
+<XML_Serializer_Tag>Frankfurt am Main</XML_Serializer_Tag>
+</deathPlace>
+<professionOrOccupation>
+<XML_Serializer_Tag>Psychoanalytiker</XML_Serializer_Tag>
+<XML_Serializer_Tag>Publizist</XML_Serializer_Tag>
+<XML_Serializer_Tag>Philosoph</XML_Serializer_Tag>
+<XML_Serializer_Tag>Arzt</XML_Serializer_Tag>
+<XML_Serializer_Tag>Schriftsteller</XML_Serializer_Tag>
+<XML_Serializer_Tag>Schauspieler</XML_Serializer_Tag>
+</professionOrOccupation>
+<dbpResource>http://dbpedia.org/resource/Alexander_Mitscherlich</dbpResource>
+<abstract>Alexander Mitscherlich (* 28. Mai 1836 in Berlin; † 31. Mai 1918 in Oberstdorf) war ein deutscher Chemiker und Unternehmer. Er gilt als einer der Erfinder des Sulfitverfahrens, das eine bessere und billigere Produktion von Zellstoff aus Holz ermöglichte.</abstract>
+<wikilink>http://en.wikipedia.org/wiki/Alexander_Mitscherlich?oldid=588647560</wikilink>
+<artworks />
+<buildings />
+<books />
+</Person>

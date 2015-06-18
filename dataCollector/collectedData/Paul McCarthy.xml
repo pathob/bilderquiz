@@ -1,0 +1,23 @@
+<Person>
+<name>Paul McCarthy</name>
+<variantName>
+<XML_Serializer_Tag>Paul MacCarthy</XML_Serializer_Tag>
+<XML_Serializer_Tag>Paul Mc Carthy</XML_Serializer_Tag>
+</variantName>
+<thumbnail>https://commons.wikimedia.org/wiki/Special:FilePath/Sweet_Brown_Snail_am_Bavariapark_und_dem_Verkehrszentrum_des_Deutschen_Museums_in_München_an_der_Theresienhöhe_Schwanthalerhöhe_Westend.JPG?width=270</thumbnail>
+<birthEN>1945</birthEN>
+<birthDE>1945</birthDE>
+<deathEN />
+<deathDE />
+<birthPlace />
+<deathPlace />
+<professionOrOccupation>
+<XML_Serializer_Tag>Künstler</XML_Serializer_Tag>
+</professionOrOccupation>
+<dbpResource>http://dbpedia.org/resource/Paul_McCarthy</dbpResource>
+<abstract>Paul McCarthy (* 4. August 1945 in Salt Lake City, Utah) ist ein US-amerikanischer Performancekünstler, der zurzeit in Los Angeles lebt und arbeitet.</abstract>
+<wikilink>http://en.wikipedia.org/wiki/Paul_McCarthy?oldid=592755456</wikilink>
+<artworks />
+<buildings />
+<books />
+</Person>

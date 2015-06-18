@@ -1,0 +1,35 @@
+<Person>
+<name>Heinrich Schreiber</name>
+<variantName>
+<XML_Serializer_Tag>Johann Heinrich Schreiber</XML_Serializer_Tag>
+<XML_Serializer_Tag>Joh. Heinrich Schreiber</XML_Serializer_Tag>
+<XML_Serializer_Tag>H. Schreiber</XML_Serializer_Tag>
+<XML_Serializer_Tag>Johann Heinrich Nepomuk Schreiber</XML_Serializer_Tag>
+</variantName>
+<thumbnail>https://commons.wikimedia.org/wiki/Special:FilePath/Heinrich_Schreiber.gif?width=270</thumbnail>
+<birthEN>July 14, 1793</birthEN>
+<birthDE>14. Juli 1793</birthDE>
+<deathEN>November 30, 1872</deathEN>
+<deathDE>30. November 1872</deathDE>
+<birthPlace>
+<XML_Serializer_Tag>Freiburg im Breisgau</XML_Serializer_Tag>
+</birthPlace>
+<deathPlace>
+<XML_Serializer_Tag>Freiburg im Breisgau</XML_Serializer_Tag>
+</deathPlace>
+<professionOrOccupation>
+<XML_Serializer_Tag>Historiker</XML_Serializer_Tag>
+<XML_Serializer_Tag>Theologe</XML_Serializer_Tag>
+<XML_Serializer_Tag>Schriftsteller</XML_Serializer_Tag>
+<XML_Serializer_Tag>Dozent</XML_Serializer_Tag>
+<XML_Serializer_Tag>Publizist</XML_Serializer_Tag>
+<XML_Serializer_Tag>Bibliothekar</XML_Serializer_Tag>
+<XML_Serializer_Tag>Hochschullehrer</XML_Serializer_Tag>
+</professionOrOccupation>
+<dbpResource>http://dbpedia.org/resource/Henricus_Grammateus</dbpResource>
+<abstract>Heinrich Schreiber (bekannt auch als Heinrich Grammateus oder Henricus Grammateus; * vor 1496, vermutlich 1492 in Erfurt; † Winter 1525/1526 in Wien) war ein deutscher Mathematiker und Astronom.Schreiber immatrikulierte sich 1507 an der Universität Wien, studierte anschließen von 1514 bis 1517 in Krakau und kehrte danach nach Wien zurück, wo er in einem Sitzungsprotokoll als Magister Henricus Gramatheus erscheint. In Wien war er der Lehrer des Mathematikers Christoph Rudolff.Als die Universität Wien 1521 wegen der Pest geschlossen wurde, ging er nach Nürnberg, wo er mehrere Schriften über angewandte Algebra und praktische Astronomie publizierte, darunter 1518 Ayn new kunstlich Buech …, in dem er erstmals durchgängig die Symbole „+“ und „-“ für Addition und Subtraktion verwendet. Weiter behandelt er darin neben Problemen der Algebra: das Rechnen auf Linien, Regeldetri (Dreisatz), Regula falsi, Proportionen in der Musik (Harmonielehre), „welsche Praktik“ (praktisches Rechnen, wie es von den norditalienischen Kaufleuten angewandt wurde), Buchführung sowie die Fassmessung mit der Visierrute.Ab 1525 ist er wieder in Wien, wo er als Examinator der Baccalaureanden und Prokurator der sächsischen Nation belegt ist. Bald darauf ist er mit etwa 33 Jahren in Wien gestorben.</abstract>
+<wikilink>http://en.wikipedia.org/wiki/Henricus_Grammateus?oldid=579480388</wikilink>
+<artworks />
+<buildings />
+<books />
+</Person>

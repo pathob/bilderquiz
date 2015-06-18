@@ -1,0 +1,32 @@
+<Person>
+<name>Friedrich Wilhelm Weber</name>
+<variantName>
+<XML_Serializer_Tag>F. W. Weber</XML_Serializer_Tag>
+<XML_Serializer_Tag>Fridericus Guilielmus Weber</XML_Serializer_Tag>
+<XML_Serializer_Tag>Heinrich F. W. Weber</XML_Serializer_Tag>
+<XML_Serializer_Tag>Heinrich Friedrich Wilhelm Weber</XML_Serializer_Tag>
+<XML_Serializer_Tag>B. Werder</XML_Serializer_Tag>
+</variantName>
+<thumbnail>https://commons.wikimedia.org/wiki/Special:FilePath/Friedrich_Wilhelm_Weber.jpg?width=270</thumbnail>
+<birthEN>December 25, 1813</birthEN>
+<birthDE>25. Dezember 1813</birthDE>
+<deathEN>April 5, 1894</deathEN>
+<deathDE>5. April 1894</deathDE>
+<birthPlace>
+<XML_Serializer_Tag>Alhausen (Driburg)</XML_Serializer_Tag>
+</birthPlace>
+<deathPlace>
+<XML_Serializer_Tag>Nieheim</XML_Serializer_Tag>
+</deathPlace>
+<professionOrOccupation>
+<XML_Serializer_Tag>Schriftsteller</XML_Serializer_Tag>
+<XML_Serializer_Tag>Arzt</XML_Serializer_Tag>
+<XML_Serializer_Tag>Politiker</XML_Serializer_Tag>
+</professionOrOccupation>
+<dbpResource>http://dbpedia.org/resource/Friedrich_Wilhelm_Weber</dbpResource>
+<abstract>Friedrich Wilhelm Weber (* 25. Dezember 1813 in Alhausen; † 5. April 1894 in Nieheim) war ein deutscher Arzt, Politiker und Dichter. Bis 1857 benutzte er das Pseudonym „B. Werder“.</abstract>
+<wikilink>http://en.wikipedia.org/wiki/Friedrich_Wilhelm_Weber?oldid=541466746</wikilink>
+<artworks />
+<buildings />
+<books />
+</Person>

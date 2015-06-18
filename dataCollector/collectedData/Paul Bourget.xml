@@ -1,0 +1,29 @@
+<Person>
+<name>Paul Bourget</name>
+<variantName>
+<XML_Serializer_Tag>Paul Charles Joseph Bourget</XML_Serializer_Tag>
+<XML_Serializer_Tag>Charles Joseph Paul Bourget</XML_Serializer_Tag>
+<XML_Serializer_Tag>Charles-Joseph-Paul Bourget</XML_Serializer_Tag>
+<XML_Serializer_Tag>Paul C. Bourget</XML_Serializer_Tag>
+</variantName>
+<thumbnail>https://commons.wikimedia.org/wiki/Special:FilePath/Paul_bourget.jpg?width=270</thumbnail>
+<birthEN>1852</birthEN>
+<birthDE>1852</birthDE>
+<deathEN>1935</deathEN>
+<deathDE>1935</deathDE>
+<birthPlace>
+<XML_Serializer_Tag>Amiens</XML_Serializer_Tag>
+</birthPlace>
+<deathPlace>
+<XML_Serializer_Tag>Paris</XML_Serializer_Tag>
+</deathPlace>
+<professionOrOccupation>
+<XML_Serializer_Tag>Schriftsteller</XML_Serializer_Tag>
+</professionOrOccupation>
+<dbpResource>http://dbpedia.org/resource/Paul_Bourget</dbpResource>
+<abstract>Paul Charles Joseph Bourget (* 2. September 1852 in Amiens; † 25. Dezember 1935 in Paris) war ein französischer Schriftsteller, der vor allem als Romancier tätig war.</abstract>
+<wikilink>http://en.wikipedia.org/wiki/Paul_Bourget?oldid=603617918</wikilink>
+<artworks />
+<buildings />
+<books />
+</Person>

@@ -1,0 +1,290 @@
+<Person>
+<name>Alexandre Dumas</name>
+<variantName>
+<XML_Serializer_Tag>, der Ältere</XML_Serializer_Tag>
+<XML_Serializer_Tag>, père</XML_Serializer_Tag>
+<XML_Serializer_Tag>, senior</XML_Serializer_Tag>
+<XML_Serializer_Tag>Alexandre Davy de la Pailleterie Dumas</XML_Serializer_Tag>
+<XML_Serializer_Tag>Alejandro Dumas</XML_Serializer_Tag>
+<XML_Serializer_Tag>Alessandro Dumas</XML_Serializer_Tag>
+<XML_Serializer_Tag>Alexander Dumas</XML_Serializer_Tag>
+<XML_Serializer_Tag>, père</XML_Serializer_Tag>
+<XML_Serializer_Tag>, Vater</XML_Serializer_Tag>
+<XML_Serializer_Tag>Alexandros Dumas</XML_Serializer_Tag>
+<XML_Serializer_Tag>Alex. Dumas</XML_Serializer_Tag>
+<XML_Serializer_Tag>A. Dumas</XML_Serializer_Tag>
+<XML_Serializer_Tag>Alexandre Dumas Davy de la Pailleterie</XML_Serializer_Tag>
+<XML_Serializer_Tag>Alexandre Dumas Davy de LaPailleterie</XML_Serializer_Tag>
+<XML_Serializer_Tag>Aleksandrs Dimā</XML_Serializer_Tag>
+<XML_Serializer_Tag>Alek&apos;sandre Diuma</XML_Serializer_Tag>
+<XML_Serializer_Tag>Aleksandr Djuma</XML_Serializer_Tag>
+<XML_Serializer_Tag>, otec</XML_Serializer_Tag>
+<XML_Serializer_Tag>... Dumas-Mützelburg</XML_Serializer_Tag>
+<XML_Serializer_Tag>Alexandre Dumas Davy de La Pailleterie</XML_Serializer_Tag>
+<XML_Serializer_Tag>Alexandre Dumas Davy de LaPailleterie</XML_Serializer_Tag>
+<XML_Serializer_Tag>Alexandre Dumas Davy de la Pailleterie</XML_Serializer_Tag>
+<XML_Serializer_Tag>Alekhsandr Tiuma</XML_Serializer_Tag>
+<XML_Serializer_Tag>Aġek&apos;sandr Tiwma</XML_Serializer_Tag>
+<XML_Serializer_Tag>A. Tiwma</XML_Serializer_Tag>
+<XML_Serializer_Tag>A. Dümas</XML_Serializer_Tag>
+<XML_Serializer_Tag>A. Dümes</XML_Serializer_Tag>
+<XML_Serializer_Tag>... Dazhongma</XML_Serializer_Tag>
+<XML_Serializer_Tag>Aleksandr Dyuma</XML_Serializer_Tag>
+<XML_Serializer_Tag>Aleksandir Dyuma</XML_Serializer_Tag>
+<XML_Serializer_Tag>Aléksandir Dyuma</XML_Serializer_Tag>
+<XML_Serializer_Tag>Dyuma</XML_Serializer_Tag>
+<XML_Serializer_Tag>Alexandros Doumas</XML_Serializer_Tag>
+<XML_Serializer_Tag>大仲馬</XML_Serializer_Tag>
+</variantName>
+<thumbnail>https://commons.wikimedia.org/wiki/Special:FilePath/Nadar_-_Alexander_Dumas_père_(1802-1870)_-_Google_Art_Project_2.jpg?width=270</thumbnail>
+<birthEN>July 24, 1802</birthEN>
+<birthDE>24. Juli 1802</birthDE>
+<deathEN>December 5, 1870</deathEN>
+<deathDE>5. Dezember 1870</deathDE>
+<birthPlace>
+<XML_Serializer_Tag>Villers-Cotterêts</XML_Serializer_Tag>
+</birthPlace>
+<deathPlace>
+<XML_Serializer_Tag>Puy bei Dieppe, Frankreich</XML_Serializer_Tag>
+</deathPlace>
+<professionOrOccupation>
+<XML_Serializer_Tag>Dramatiker</XML_Serializer_Tag>
+<XML_Serializer_Tag>Schriftsteller</XML_Serializer_Tag>
+</professionOrOccupation>
+<dbpResource>http://dbpedia.org/resource/Alexandre_Dumas</dbpResource>
+<abstract>Alexandre Dumas der Ältere (auch Alexandre Dumas Davy de la Pailleterie oder Alexandre Dumas père; * 24. Juli 1802 in Villers-Cotterêts, Département Aisne; † 5. Dezember 1870 in Puys bei Dieppe, Seine-Maritime) war ein französischer Schriftsteller. Heute ist er vor allem durch seine zu Klassikern gewordenen Historienromane bekannt, etwa Die drei Musketiere und Der Graf von Monte Christo.</abstract>
+<wikilink>http://en.wikipedia.org/wiki/Alexandre_Dumas?oldid=605825874</wikilink>
+<artworks />
+<buildings />
+<books>
+<XML_Serializer_Tag>
+<book>
+<type>uri</type>
+<value>http://dbpedia.org/resource/The_Three_Musketeers</value>
+</book>
+<author>
+<type>uri</type>
+<value>http://dbpedia.org/resource/Alexandre_Dumas</value>
+</author>
+<thumbnail>
+<type>uri</type>
+<value>http://commons.wikimedia.org/wiki/Special:FilePath/Dartagnan-musketeers.jpg?width=300</value>
+</thumbnail>
+<released>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>March–July 1844</value>
+</released>
+<wikilink>
+<type>uri</type>
+<value>http://en.wikipedia.org/wiki/The_Three_Musketeers?oldid=605442063</value>
+</wikilink>
+<abstract>
+<type>literal</type>
+<xml:lang>de</xml:lang>
+<value>Die drei Musketiere ist ein Roman von Alexandre Dumas in Zusammenarbeit mit Auguste Maquet. Er ist der erste Teil einer Trilogie über d’Artagnan und seine drei Freunde Athos, Porthos und Aramis. Die Folgebände heißen Zwanzig Jahre danach und Der Vicomte von Bragelonne oder Zehn Jahre später.</value>
+</abstract>
+</XML_Serializer_Tag>
+<XML_Serializer_Tag>
+<book>
+<type>uri</type>
+<value>http://dbpedia.org/resource/Twenty_Years_After</value>
+</book>
+<author>
+<type>uri</type>
+<value>http://dbpedia.org/resource/Alexandre_Dumas</value>
+</author>
+<thumbnail>
+<type>uri</type>
+<value>http://commons.wikimedia.org/wiki/Special:FilePath/Leloir_Musketeers2.jpg?width=300</value>
+</thumbnail>
+<released>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>French, Serialized 1845</value>
+</released>
+<wikilink>
+<type>uri</type>
+<value>http://en.wikipedia.org/wiki/Twenty_Years_After?oldid=600531650</value>
+</wikilink>
+</XML_Serializer_Tag>
+<XML_Serializer_Tag>
+<book>
+<type>uri</type>
+<value>http://dbpedia.org/resource/The_Queen&apos;s_Necklace</value>
+</book>
+<author>
+<type>uri</type>
+<value>http://dbpedia.org/resource/Alexandre_Dumas</value>
+</author>
+<thumbnail>
+<type>uri</type>
+<value>http://commons.wikimedia.org/wiki/Special:FilePath/Marie_Antoinette_Adult9.jpg?width=300</value>
+</thumbnail>
+<wikilink>
+<type>uri</type>
+<value>http://en.wikipedia.org/wiki/The_Queen&apos;s_Necklace?oldid=602906413</value>
+</wikilink>
+<abstract>
+<type>literal</type>
+<xml:lang>de</xml:lang>
+<value>Das Halsband der Königin ist der zweite Teil der vierbändigen Romanreihe Memoiren eines Arztes des französischen Autoren Alexandre Dumas d. Ä., zu der auch Joseph Balsamo, Ange Pitou und Die Gräfin von Charny gehören, die Dumas, beginnend mit Joseph Balsamo, zwischen 1846 und 1855 in den Feuilletons der Pariser Zeitung La Presse veröffentlichte.Er behandelt in nicht ganz authentischer Weise die Halsbandaffäre rund um Marie Antoinette, Kardinal de Rohan, die Gräfin de la Motte und den Grafen Cagliostro im Jahr 1785. Dumas veröffentlichte dieses Werk mit dem Originaltitel Le Collier de la reine ab 1849.</value>
+</abstract>
+</XML_Serializer_Tag>
+<XML_Serializer_Tag>
+<book>
+<type>uri</type>
+<value>http://dbpedia.org/resource/The_Count_of_Monte_Cristo</value>
+</book>
+<author>
+<type>uri</type>
+<value>http://dbpedia.org/resource/Alexandre_Dumas</value>
+</author>
+<thumbnail>
+<type>uri</type>
+<value>http://commons.wikimedia.org/wiki/Special:FilePath/Louis_Français-Dantès_sur_son_rocher.jpg?width=300</value>
+</thumbnail>
+<wikilink>
+<type>uri</type>
+<value>http://en.wikipedia.org/wiki/The_Count_of_Monte_Cristo?oldid=605999642</value>
+</wikilink>
+<abstract>
+<type>literal</type>
+<xml:lang>de</xml:lang>
+<value>Der Graf von Monte Christo (orig. Le Comte de Monte-Cristo) ist ein Abenteuerroman von Alexandre Dumas.Zwischen 1844 und 1846 veröffentlichte Dumas den Graf von Monte Christo als Fortsetzungsroman in der Zeitschrift Le Journal des débats und erzielte damit ungeahnten Erfolg. Noch bevor der Roman fertiggestellt war, erschienen bereits die ersten Nachdrucke.Die Geschichte spielt in der Zeit nach der Französischen Revolution in den Jahren 1814 bis 1838. Napoleons Stern ist untergegangen, und die Restauration unter den Königen Ludwig XVIII. und Karl X. hat stattgefunden. Dann folgt die Julirevolution von 1830, durch die der „Bürgerkönig“ Louis-Philippe I. auf den Thron kommt.</value>
+</abstract>
+</XML_Serializer_Tag>
+<XML_Serializer_Tag>
+<book>
+<type>uri</type>
+<value>http://dbpedia.org/resource/La_Reine_Margot_(novel)</value>
+</book>
+<author>
+<type>uri</type>
+<value>http://dbpedia.org/resource/Alexandre_Dumas</value>
+</author>
+<thumbnail>
+<type>uri</type>
+<value>http://commons.wikimedia.org/wiki/Special:FilePath/SchlafzimmerBartholomaeusnacht.jpg?width=300</value>
+</thumbnail>
+<wikilink>
+<type>uri</type>
+<value>http://en.wikipedia.org/wiki/La_Reine_Margot_(novel)?oldid=586757044</value>
+</wikilink>
+</XML_Serializer_Tag>
+<XML_Serializer_Tag>
+<book>
+<type>uri</type>
+<value>http://dbpedia.org/resource/The_Black_Tulip</value>
+</book>
+<author>
+<type>uri</type>
+<value>http://dbpedia.org/resource/Alexandre_Dumas</value>
+</author>
+<released>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>French 1850</value>
+</released>
+<wikilink>
+<type>uri</type>
+<value>http://en.wikipedia.org/wiki/The_Black_Tulip?oldid=586576603</value>
+</wikilink>
+<abstract>
+<type>literal</type>
+<xml:lang>de</xml:lang>
+<value>Die schwarze Tulpe (französisch La Tulipe noire), eine Geschichte über den Tulpenzüchter Cornelius van Baerle und die schöne Rosa, ist einer der erfolgreichsten Romane von Alexandre Dumas.</value>
+</abstract>
+</XML_Serializer_Tag>
+<XML_Serializer_Tag>
+<book>
+<type>uri</type>
+<value>http://dbpedia.org/resource/Le_Chevalier_de_Maison-Rouge</value>
+</book>
+<author>
+<type>uri</type>
+<value>http://dbpedia.org/resource/Alexandre_Dumas</value>
+</author>
+<released>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>French 1845-1846</value>
+</released>
+<wikilink>
+<type>uri</type>
+<value>http://en.wikipedia.org/wiki/Le_Chevalier_de_Maison-Rouge?oldid=591756576</value>
+</wikilink>
+</XML_Serializer_Tag>
+<XML_Serializer_Tag>
+<book>
+<type>uri</type>
+<value>http://dbpedia.org/resource/The_Vicomte_of_Bragelonne:_Ten_Years_Later</value>
+</book>
+<author>
+<type>uri</type>
+<value>http://dbpedia.org/resource/Alexandre_Dumas</value>
+</author>
+<released>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>French, Serialized 1847–1850</value>
+</released>
+<wikilink>
+<type>uri</type>
+<value>http://en.wikipedia.org/wiki/The_Vicomte_of_Bragelonne:_Ten_Years_Later?oldid=596997338</value>
+</wikilink>
+</XML_Serializer_Tag>
+<XML_Serializer_Tag>
+<book>
+<type>uri</type>
+<value>http://dbpedia.org/resource/The_Wolf_Leader</value>
+</book>
+<author>
+<type>uri</type>
+<value>http://dbpedia.org/resource/Alexandre_Dumas</value>
+</author>
+<released>
+<type>typed-literal</type>
+<datatype>http://www.w3.org/2001/XMLSchema#integer</datatype>
+<value>1857</value>
+</released>
+<wikilink>
+<type>uri</type>
+<value>http://en.wikipedia.org/wiki/The_Wolf_Leader?oldid=573859912</value>
+</wikilink>
+</XML_Serializer_Tag>
+<XML_Serializer_Tag>
+<book>
+<type>uri</type>
+<value>http://dbpedia.org/resource/Georges_(novel)</value>
+</book>
+<author>
+<type>uri</type>
+<value>http://dbpedia.org/resource/Alexandre_Dumas</value>
+</author>
+<released>
+<type>typed-literal</type>
+<datatype>http://www.w3.org/2001/XMLSchema#integer</datatype>
+<value>1843</value>
+</released>
+<wikilink>
+<type>uri</type>
+<value>http://en.wikipedia.org/wiki/Georges_(novel)?oldid=589577482</value>
+</wikilink>
+</XML_Serializer_Tag>
+<XML_Serializer_Tag>
+<book>
+<type>uri</type>
+<value>http://dbpedia.org/resource/The_New_Troy</value>
+</book>
+<author>
+<type>uri</type>
+<value>http://dbpedia.org/resource/Alexandre_Dumas</value>
+</author>
+<wikilink>
+<type>uri</type>
+<value>http://en.wikipedia.org/wiki/The_New_Troy?oldid=605970944</value>
+</wikilink>
+</XML_Serializer_Tag>
+</books>
+</Person>

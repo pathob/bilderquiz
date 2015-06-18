@@ -1,0 +1,28 @@
+<Person>
+<name>Kathrin Passig</name>
+<variantName>
+<XML_Serializer_Tag>Katrin Passig</XML_Serializer_Tag>
+<XML_Serializer_Tag>Kathrin Passigová</XML_Serializer_Tag>
+</variantName>
+<thumbnail>https://commons.wikimedia.org/wiki/Special:FilePath/Kathrin_Passig.jpg?width=270</thumbnail>
+<birthEN>1970</birthEN>
+<birthDE>1970</birthDE>
+<deathEN />
+<deathDE />
+<birthPlace>
+<XML_Serializer_Tag>Deggendorf</XML_Serializer_Tag>
+</birthPlace>
+<deathPlace />
+<professionOrOccupation>
+<XML_Serializer_Tag>Schriftstellerin</XML_Serializer_Tag>
+<XML_Serializer_Tag>Journalistin</XML_Serializer_Tag>
+<XML_Serializer_Tag>Übersetzerin</XML_Serializer_Tag>
+<XML_Serializer_Tag>Web-Entwicklerin</XML_Serializer_Tag>
+</professionOrOccupation>
+<dbpResource>http://dbpedia.org/resource/Kathrin_Passig</dbpResource>
+<abstract>Kathrin Passig (* 4. Juni 1970 in Deggendorf) ist eine deutsche Journalistin und Schriftstellerin. Im Jahr 2006 gewann sie den Ingeborg-Bachmann-Preis.</abstract>
+<wikilink>http://en.wikipedia.org/wiki/Kathrin_Passig?oldid=596277489</wikilink>
+<artworks />
+<buildings />
+<books />
+</Person>

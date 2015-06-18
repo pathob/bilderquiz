@@ -15,8 +15,10 @@
 <professionOrOccupation>
 <XML_Serializer_Tag>Maler</XML_Serializer_Tag>
 </professionOrOccupation>
-<artworks />
 <dbpResource>http://dbpedia.org/resource/George_Romney_(painter)</dbpResource>
 <abstract>George Romney (* 15. Dezember 1734 in Dalton-in-Furness, Lancashire (heute Cumbria); † 15. November 1802 in Kendal) war ein britischer Maler des Rokokos und Klassizismus.</abstract>
 <wikilink>http://en.wikipedia.org/wiki/George_Romney_(painter)?oldid=605971005</wikilink>
+<artworks />
+<buildings />
+<books />
 </Person>

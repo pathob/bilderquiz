@@ -1,0 +1,91 @@
+<Person>
+<name>John Bunyan</name>
+<variantName>
+<XML_Serializer_Tag>János Bunyan</XML_Serializer_Tag>
+<XML_Serializer_Tag>Johann Bunyan</XML_Serializer_Tag>
+<XML_Serializer_Tag>Johannes Bunyan</XML_Serializer_Tag>
+<XML_Serializer_Tag>Johannes Bunjam</XML_Serializer_Tag>
+<XML_Serializer_Tag>Johannes Bunjan</XML_Serializer_Tag>
+<XML_Serializer_Tag>John Reynolds Bunyan</XML_Serializer_Tag>
+<XML_Serializer_Tag>Jāna Banyāna</XML_Serializer_Tag>
+<XML_Serializer_Tag>Jân Bânyani</XML_Serializer_Tag>
+<XML_Serializer_Tag>Edmund Bunian</XML_Serializer_Tag>
+<XML_Serializer_Tag>Johann Bunian</XML_Serializer_Tag>
+<XML_Serializer_Tag>Johannes Bunian</XML_Serializer_Tag>
+<XML_Serializer_Tag>Džon Bun&apos;jan</XML_Serializer_Tag>
+</variantName>
+<thumbnail>https://commons.wikimedia.org/wiki/Special:FilePath/John_Bunyan_by_Thomas_Sadler_1684.jpg?width=270</thumbnail>
+<birthEN>1628</birthEN>
+<birthDE>1628</birthDE>
+<deathEN>1688</deathEN>
+<deathDE>1688</deathDE>
+<birthPlace />
+<deathPlace />
+<professionOrOccupation>
+<XML_Serializer_Tag>Theologe</XML_Serializer_Tag>
+<XML_Serializer_Tag>Schriftsteller</XML_Serializer_Tag>
+<XML_Serializer_Tag>Laienprediger</XML_Serializer_Tag>
+</professionOrOccupation>
+<dbpResource>http://dbpedia.org/resource/John_Bunyan</dbpResource>
+<abstract>John Bunyan (* 28. November 1628 in Elstow bei Bedford; † 31. August 1688 in London) war ein englischer Baptistenprediger und Schriftsteller.</abstract>
+<wikilink>http://en.wikipedia.org/wiki/John_Bunyan?oldid=603330244</wikilink>
+<artworks />
+<buildings />
+<books>
+<XML_Serializer_Tag>
+<book>
+<type>uri</type>
+<value>http://dbpedia.org/resource/The_Pilgrim&apos;s_Progress</value>
+</book>
+<author>
+<type>uri</type>
+<value>http://dbpedia.org/resource/John_Bunyan</value>
+</author>
+<thumbnail>
+<type>uri</type>
+<value>http://commons.wikimedia.org/wiki/Special:FilePath/Pilgrim&apos;s_Progress_first_edition_1678.jpg?width=300</value>
+</thumbnail>
+<wikilink>
+<type>uri</type>
+<value>http://en.wikipedia.org/wiki/The_Pilgrim&apos;s_Progress?oldid=602681788</value>
+</wikilink>
+<abstract>
+<type>literal</type>
+<xml:lang>de</xml:lang>
+<value>The Pilgrim’s Progress from This World to That Which Is to Come ist eine Allegorie Buch des englischen Baptistenpredigers und Schriftstellers John Bunyan. Es handelt sich um ein im Februar 1678 veröffentlichtes christliches Erbauungsbuch. Das in 200 Sprachen übersetzte, bis heute durchgehend aufgelegte Buch zählt zu den bedeutendsten Werken der englischen christlichen Literatur.Bunyan schrieb das Buch während einer insgesamt zwölfjährigen Haft im Bedfordshire County Gefängnis, zu der er wegen Verstoßes gegen das Konventikelgesetz verurteilt worden war, das Predigten außerhalb der anglikanischen Staatskirche unter Strafe stellte.</value>
+</abstract>
+</XML_Serializer_Tag>
+<XML_Serializer_Tag>
+<book>
+<type>uri</type>
+<value>http://dbpedia.org/resource/Grace_Abounding_to_the_Chief_of_Sinners</value>
+</book>
+<author>
+<type>uri</type>
+<value>http://dbpedia.org/resource/John_Bunyan</value>
+</author>
+<thumbnail>
+<type>uri</type>
+<value>http://commons.wikimedia.org/wiki/Special:FilePath/GraceAbounding.gif?width=300</value>
+</thumbnail>
+<wikilink>
+<type>uri</type>
+<value>http://en.wikipedia.org/wiki/Grace_Abounding_to_the_Chief_of_Sinners?oldid=604066761</value>
+</wikilink>
+</XML_Serializer_Tag>
+<XML_Serializer_Tag>
+<book>
+<type>uri</type>
+<value>http://dbpedia.org/resource/The_Holy_War</value>
+</book>
+<author>
+<type>uri</type>
+<value>http://dbpedia.org/resource/John_Bunyan</value>
+</author>
+<wikilink>
+<type>uri</type>
+<value>http://en.wikipedia.org/wiki/The_Holy_War?oldid=594296879</value>
+</wikilink>
+</XML_Serializer_Tag>
+</books>
+</Person>

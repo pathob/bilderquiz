@@ -1,0 +1,52 @@
+<Person>
+<name>Pierre Bourdieu</name>
+<variantName>
+<XML_Serializer_Tag>Pierre F. Bourdieu</XML_Serializer_Tag>
+<XML_Serializer_Tag>Pierre Félix Bourdieu</XML_Serializer_Tag>
+<XML_Serializer_Tag>Pér Burdé</XML_Serializer_Tag>
+<XML_Serializer_Tag>P. Burdé</XML_Serializer_Tag>
+<XML_Serializer_Tag>P. Bourdieu</XML_Serializer_Tag>
+<XML_Serializer_Tag>Pʹer Burdʹe</XML_Serializer_Tag>
+</variantName>
+<thumbnail>https://en.wikipedia.org/wiki/Special:FilePath/Pierre-Bourdieu-cover.jpg?width=270</thumbnail>
+<birthEN>August 1, 1930</birthEN>
+<birthDE>1. August 1930</birthDE>
+<deathEN>January 23, 2002</deathEN>
+<deathDE>23. Januar 2002</deathDE>
+<birthPlace>
+<XML_Serializer_Tag>Denguin</XML_Serializer_Tag>
+</birthPlace>
+<deathPlace>
+<XML_Serializer_Tag>Paris</XML_Serializer_Tag>
+</deathPlace>
+<professionOrOccupation>
+<XML_Serializer_Tag>Soziologe</XML_Serializer_Tag>
+<XML_Serializer_Tag>Philosoph</XML_Serializer_Tag>
+</professionOrOccupation>
+<dbpResource>http://dbpedia.org/resource/Pierre_Bourdieu</dbpResource>
+<abstract>Pierre Félix Bourdieu [pjɛːʀ feˈliks buʀˈdjø] (* 1. August 1930 in Denguin; † 23. Januar 2002 in Paris) war ein französischer Soziologe.</abstract>
+<wikilink>http://en.wikipedia.org/wiki/Pierre_Bourdieu?oldid=606452174</wikilink>
+<artworks />
+<buildings />
+<books>
+<XML_Serializer_Tag>
+<book>
+<type>uri</type>
+<value>http://dbpedia.org/resource/La_Distinction</value>
+</book>
+<author>
+<type>uri</type>
+<value>http://dbpedia.org/resource/Pierre_Bourdieu</value>
+</author>
+<wikilink>
+<type>uri</type>
+<value>http://en.wikipedia.org/wiki/La_Distinction?oldid=601232890</value>
+</wikilink>
+<abstract>
+<type>literal</type>
+<xml:lang>de</xml:lang>
+<value>Die feinen Unterschiede ist der Titel des Hauptwerkes des französischen Soziologen Pierre Bourdieu (1930 - 2002) mit dem Untertitel Kritik der gesellschaftlichen Urteilskraft, das im französischen Original zuerst 1979 als La distinction. Critique sociale du jugement erschien. Das Werk beschreibt kulturelle Abgrenzungsmechanismen zwischen den gesellschaftlichen Schichten. (zur Abgrenzung siehe auch Soziale Distanz).</value>
+</abstract>
+</XML_Serializer_Tag>
+</books>
+</Person>

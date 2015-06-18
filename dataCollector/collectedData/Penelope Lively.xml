@@ -1,0 +1,98 @@
+<Person>
+<name>Penelope Lively</name>
+<variantName>
+<XML_Serializer_Tag>Penelope M. Law</XML_Serializer_Tag>
+<XML_Serializer_Tag>Penelope M. Lively</XML_Serializer_Tag>
+</variantName>
+<thumbnail>https://commons.wikimedia.org/wiki/Special:FilePath/Penelope_Lively.JPG?width=270</thumbnail>
+<birthEN>1933</birthEN>
+<birthDE>1933</birthDE>
+<deathEN />
+<deathDE />
+<birthPlace>
+<XML_Serializer_Tag>Kairo</XML_Serializer_Tag>
+</birthPlace>
+<deathPlace />
+<professionOrOccupation>
+<XML_Serializer_Tag>Schriftstellerin</XML_Serializer_Tag>
+<XML_Serializer_Tag>Kinderbuchautorin</XML_Serializer_Tag>
+</professionOrOccupation>
+<dbpResource>http://dbpedia.org/resource/Penelope_Lively</dbpResource>
+<abstract>Penelope Lively, DBE (* 17. März 1933 in Kairo) ist eine britische Schriftstellerin. Sie schreibt seit 1970 Romane und Kinderbücher und erhielt 1987 für ihren Roman Moon Tiger den Booker Prize.</abstract>
+<wikilink>http://en.wikipedia.org/wiki/Penelope_Lively?oldid=604490485</wikilink>
+<artworks />
+<buildings />
+<books>
+<XML_Serializer_Tag>
+<book>
+<type>uri</type>
+<value>http://dbpedia.org/resource/The_Voyage_of_QV66</value>
+</book>
+<author>
+<type>uri</type>
+<value>http://dbpedia.org/resource/Penelope_Lively</value>
+</author>
+<released>
+<type>typed-literal</type>
+<datatype>http://www.w3.org/2001/XMLSchema#integer</datatype>
+<value>1978</value>
+</released>
+<wikilink>
+<type>uri</type>
+<value>http://en.wikipedia.org/wiki/The_Voyage_of_QV66?oldid=604925108</value>
+</wikilink>
+</XML_Serializer_Tag>
+<XML_Serializer_Tag>
+<book>
+<type>uri</type>
+<value>http://dbpedia.org/resource/According_to_Mark</value>
+</book>
+<author>
+<type>uri</type>
+<value>http://dbpedia.org/resource/Penelope_Lively</value>
+</author>
+<released>
+<type>typed-literal</type>
+<datatype>http://www.w3.org/2001/XMLSchema#integer</datatype>
+<value>1984</value>
+</released>
+<wikilink>
+<type>uri</type>
+<value>http://en.wikipedia.org/wiki/According_to_Mark?oldid=596398886</value>
+</wikilink>
+</XML_Serializer_Tag>
+<XML_Serializer_Tag>
+<book>
+<type>uri</type>
+<value>http://dbpedia.org/resource/Moon_Tiger</value>
+</book>
+<author>
+<type>uri</type>
+<value>http://dbpedia.org/resource/Penelope_Lively</value>
+</author>
+<released>
+<type>typed-literal</type>
+<datatype>http://www.w3.org/2001/XMLSchema#integer</datatype>
+<value>1987</value>
+</released>
+<wikilink>
+<type>uri</type>
+<value>http://en.wikipedia.org/wiki/Moon_Tiger?oldid=595061912</value>
+</wikilink>
+</XML_Serializer_Tag>
+<XML_Serializer_Tag>
+<book>
+<type>uri</type>
+<value>http://dbpedia.org/resource/The_Ghost_of_Thomas_Kempe</value>
+</book>
+<author>
+<type>uri</type>
+<value>http://dbpedia.org/resource/Penelope_Lively</value>
+</author>
+<wikilink>
+<type>uri</type>
+<value>http://en.wikipedia.org/wiki/The_Ghost_of_Thomas_Kempe?oldid=596802475</value>
+</wikilink>
+</XML_Serializer_Tag>
+</books>
+</Person>

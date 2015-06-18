@@ -1,0 +1,48 @@
+<Person>
+<name>Salvador de Madariaga</name>
+<variantName>
+<XML_Serializer_Tag>Salvador de Madariaga y Rojo</XML_Serializer_Tag>
+<XML_Serializer_Tag>Salvador de Madariaga y Rojo</XML_Serializer_Tag>
+<XML_Serializer_Tag>Julio Arceval</XML_Serializer_Tag>
+<XML_Serializer_Tag>S. de Madariaga</XML_Serializer_Tag>
+<XML_Serializer_Tag>Salvador Madariaga</XML_Serializer_Tag>
+<XML_Serializer_Tag>Salvator de Madariaga</XML_Serializer_Tag>
+<XML_Serializer_Tag>Salvador De Madariaga</XML_Serializer_Tag>
+</variantName>
+<thumbnail>https://commons.wikimedia.org/wiki/Special:FilePath/Salvador_de_Madariaga.JPG?width=270</thumbnail>
+<birthEN>1886</birthEN>
+<birthDE>1886</birthDE>
+<deathEN>1978</deathEN>
+<deathDE>1978</deathDE>
+<birthPlace>
+<XML_Serializer_Tag>La Coruña</XML_Serializer_Tag>
+</birthPlace>
+<deathPlace>
+<XML_Serializer_Tag>Muralto</XML_Serializer_Tag>
+</deathPlace>
+<professionOrOccupation>
+<XML_Serializer_Tag>Diplomat</XML_Serializer_Tag>
+<XML_Serializer_Tag>Schriftsteller</XML_Serializer_Tag>
+</professionOrOccupation>
+<dbpResource>http://dbpedia.org/resource/Salvador_de_Madariaga</dbpResource>
+<abstract>Salvador de Madariaga y Rojo (* 23. Juli 1886 in A Coruña; † 14. Dezember 1978 in Muralto, Schweiz) war ein nationalliberaler spanischer Diplomat und Schriftsteller.</abstract>
+<wikilink>http://en.wikipedia.org/wiki/Salvador_de_Madariaga?oldid=603850521</wikilink>
+<artworks />
+<buildings />
+<books>
+<XML_Serializer_Tag>
+<book>
+<type>uri</type>
+<value>http://dbpedia.org/resource/The_Heart_of_Jade</value>
+</book>
+<author>
+<type>uri</type>
+<value>http://dbpedia.org/resource/Salvador_de_Madariaga</value>
+</author>
+<wikilink>
+<type>uri</type>
+<value>http://en.wikipedia.org/wiki/The_Heart_of_Jade?oldid=586578166</value>
+</wikilink>
+</XML_Serializer_Tag>
+</books>
+</Person>

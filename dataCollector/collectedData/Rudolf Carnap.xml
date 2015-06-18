@@ -1,0 +1,52 @@
+<Person>
+<name>Rudolf Carnap</name>
+<variantName>
+<XML_Serializer_Tag>... Carnap-Stegmueller</XML_Serializer_Tag>
+<XML_Serializer_Tag>Paul Rudolf Carnap</XML_Serializer_Tag>
+<XML_Serializer_Tag>Rudolph Carnap</XML_Serializer_Tag>
+<XML_Serializer_Tag>Lu dao fu Ka er na pu</XML_Serializer_Tag>
+<XML_Serializer_Tag>Ludaofu-Kaernapu</XML_Serializer_Tag>
+<XML_Serializer_Tag>Ludaofu Kaernapu</XML_Serializer_Tag>
+</variantName>
+<thumbnail>https://commons.wikimedia.org/wiki/Special:FilePath/Wuppertal_Ronsdorf_-_Villa_Carnap_01_ies.jpg?width=270</thumbnail>
+<birthEN>May 18, 1891</birthEN>
+<birthDE>18. Mai 1891</birthDE>
+<deathEN>September 14, 1970</deathEN>
+<deathDE>14. September 1970</deathDE>
+<birthPlace>
+<XML_Serializer_Tag>Ronsdorf</XML_Serializer_Tag>
+</birthPlace>
+<deathPlace>
+<XML_Serializer_Tag>Santa Monica, Calif.</XML_Serializer_Tag>
+</deathPlace>
+<professionOrOccupation>
+<XML_Serializer_Tag>Philosoph</XML_Serializer_Tag>
+<XML_Serializer_Tag>Hochschullehrer</XML_Serializer_Tag>
+</professionOrOccupation>
+<dbpResource>http://dbpedia.org/resource/Rudolf_Carnap</dbpResource>
+<abstract>Paul Rudolf Carnap, meist kurz Rudolf Carnap, (* 18. Mai 1891 in Ronsdorf, heute Stadtteil von Wuppertal; † 14. September 1970 in Santa Monica, Kalifornien) war ein deutscher Philosoph und einer der Hauptvertreter des logischen Empirismus.Für Carnap bestand die Aufgabe der Philosophie in der logischen Analyse der (Wissenschafts-)Sprache, wobei er als einer der ersten Theoretiker versuchte, die logischen Arbeiten von Gottlob Frege, Bertrand Russell und Alfred North Whitehead für erkenntnis- und wissenschaftstheoretische Fragestellungen nutzbar zu machen.</abstract>
+<wikilink>http://en.wikipedia.org/wiki/Rudolf_Carnap?oldid=605018035</wikilink>
+<artworks />
+<buildings />
+<books>
+<XML_Serializer_Tag>
+<book>
+<type>uri</type>
+<value>http://dbpedia.org/resource/Meaning_and_Necessity</value>
+</book>
+<author>
+<type>uri</type>
+<value>http://dbpedia.org/resource/Rudolf_Carnap</value>
+</author>
+<published>
+<type>typed-literal</type>
+<datatype>http://www.w3.org/2001/XMLSchema#integer</datatype>
+<value>1947</value>
+</published>
+<wikilink>
+<type>uri</type>
+<value>http://en.wikipedia.org/wiki/Meaning_and_Necessity?oldid=603922229</value>
+</wikilink>
+</XML_Serializer_Tag>
+</books>
+</Person>

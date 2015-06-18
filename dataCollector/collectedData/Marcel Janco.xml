@@ -1,0 +1,24 @@
+<Person>
+<name>Marcel Janco</name>
+<variantName>
+<XML_Serializer_Tag>Marcel Ianco</XML_Serializer_Tag>
+<XML_Serializer_Tag>Marcel Iancu</XML_Serializer_Tag>
+</variantName>
+<thumbnail>https://commons.wikimedia.org/wiki/Special:FilePath/Marcel_Janco.jpg?width=270</thumbnail>
+<birthEN>1895</birthEN>
+<birthDE>1895</birthDE>
+<deathEN>1984</deathEN>
+<deathDE>1984</deathDE>
+<birthPlace />
+<deathPlace />
+<professionOrOccupation>
+<XML_Serializer_Tag>Künstler</XML_Serializer_Tag>
+<XML_Serializer_Tag>Architekt</XML_Serializer_Tag>
+</professionOrOccupation>
+<dbpResource>http://dbpedia.org/resource/Marcel_Janco</dbpResource>
+<abstract>Marcel Janco (geboren als Marcel Iancu) (hebräisch ‏מרסל ינקו‎; * 24. Mai 1895 in Bukarest; † 21. April 1984 in Tel Aviv) war ein rumänisch-israelischer Künstler, Schriftsteller und Architekt. Er gehört zu den Urvätern des Dadaismus.</abstract>
+<wikilink>http://en.wikipedia.org/wiki/Marcel_Janco?oldid=604459530</wikilink>
+<artworks />
+<buildings />
+<books />
+</Person>

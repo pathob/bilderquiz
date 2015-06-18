@@ -20,8 +20,10 @@
 <professionOrOccupation>
 <XML_Serializer_Tag>Maler</XML_Serializer_Tag>
 </professionOrOccupation>
-<artworks />
 <dbpResource>http://dbpedia.org/resource/Gustav_Adolf_Closs</dbpResource>
 <abstract>Gustav Adolf Carl Closs (* 6. Mai 1864 in Stuttgart; † 3. September 1938 in Berlin-Wilmersdorf) war ein deutscher Maler, Illustrator und Heraldiker.</abstract>
 <wikilink>http://en.wikipedia.org/wiki/Gustav_Adolf_Closs?oldid=582036213</wikilink>
+<artworks />
+<buildings />
+<books />
 </Person>

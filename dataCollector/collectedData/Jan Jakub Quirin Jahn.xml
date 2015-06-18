@@ -22,8 +22,10 @@
 <XML_Serializer_Tag>Kunsthistoriker</XML_Serializer_Tag>
 <XML_Serializer_Tag>Maler</XML_Serializer_Tag>
 </professionOrOccupation>
-<artworks />
 <dbpResource>http://dbpedia.org/resource/Jan_Jahn</dbpResource>
 <abstract>Jan Jakub Quirin Jahn (* 4. Juni 1739 in Prag; † 18. Juli 1802 ebenda), war tschechischer Zeichner, Maler und Theoretiker sowie Historiker der bildenden Künste.</abstract>
 <wikilink>http://en.wikipedia.org/wiki/Jan_Jahn?oldid=544038838</wikilink>
+<artworks />
+<buildings />
+<books />
 </Person>

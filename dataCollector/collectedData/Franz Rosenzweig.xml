@@ -1,0 +1,31 @@
+<Person>
+<name>Franz Rosenzweig</name>
+<variantName>
+<XML_Serializer_Tag>F. Rosenzweig</XML_Serializer_Tag>
+<XML_Serializer_Tag>Frantz Rozentzwaig</XML_Serializer_Tag>
+<XML_Serializer_Tag>Frânṣ Rôzenṣwayg</XML_Serializer_Tag>
+<XML_Serializer_Tag>Frants Rozentsṿaig</XML_Serializer_Tag>
+<XML_Serializer_Tag>Luo sen ci wei ge</XML_Serializer_Tag>
+<XML_Serializer_Tag>Luosenciweige</XML_Serializer_Tag>
+<XML_Serializer_Tag>פראנץ רוזנצווייג</XML_Serializer_Tag>
+<XML_Serializer_Tag>フランツ・ローゼンツヴァイク</XML_Serializer_Tag>
+</variantName>
+<thumbnail>https://commons.wikimedia.org/wiki/Special:FilePath/FFM_Franz-Rosenzweig-Gedenktafel.jpg?width=270</thumbnail>
+<birthEN>1886</birthEN>
+<birthDE>1886</birthDE>
+<deathEN>1929</deathEN>
+<deathDE>1929</deathDE>
+<birthPlace />
+<deathPlace />
+<professionOrOccupation>
+<XML_Serializer_Tag>Philosoph</XML_Serializer_Tag>
+<XML_Serializer_Tag>Theologe</XML_Serializer_Tag>
+<XML_Serializer_Tag>Übersetzer</XML_Serializer_Tag>
+</professionOrOccupation>
+<dbpResource>http://dbpedia.org/resource/Franz_Rosenzweig</dbpResource>
+<abstract>Franz Rosenzweig (* 25. Dezember 1886 in Kassel; † 10. Dezember 1929 in Frankfurt am Main) war ein deutscher Historiker und jüdischer Philosoph. Seine im Dialog mit christlichen Freunden gewachsene jüdische Religionsphilosophie gilt als Angebot für einen interreligiösen Dialog.</abstract>
+<wikilink>http://en.wikipedia.org/wiki/Franz_Rosenzweig?oldid=606020395</wikilink>
+<artworks />
+<buildings />
+<books />
+</Person>

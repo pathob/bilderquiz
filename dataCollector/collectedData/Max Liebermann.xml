@@ -19,8 +19,10 @@
 <XML_Serializer_Tag>Radierer</XML_Serializer_Tag>
 <XML_Serializer_Tag>Künstler</XML_Serializer_Tag>
 </professionOrOccupation>
-<artworks />
 <dbpResource>http://dbpedia.org/resource/Max_Liebermann</dbpResource>
 <abstract>Max Liebermann (* 20. Juli 1847 in Berlin; † 8. Februar 1935 ebenda) war ein deutscher Maler und Grafiker. Er gehört zu den bedeutendsten Vertretern des deutschen Impressionismus.Nach einer Ausbildung in Weimar und Aufenthalten in Paris und den Niederlanden schuf er zunächst naturalistische Werke mit sozialer Thematik. Durch die Beschäftigung mit den französischen Impressionisten fand er seit 1880 zu einer lichten Farbigkeit und einem schwungvollen Farbauftrag, der sein Hauptwerk prägt. Sein Schaffen steht symbolisch für den Übergang von der Kunst des 19. Jahrhunderts hin zur Klassischen Moderne zur Zeit des Wilhelminismus und der Weimarer Republik. Diesen Wandel förderte er als Präsident der Berliner Secession. Von 1920 bis 1932 war er Präsident, bis 1933 Ehrenpräsident der Preußischen Akademie der Künste, bevor er infolge der nationalsozialistischen Einflussnahme aus der Kunstpolitik zurücktrat. Seine letzten beiden Lebensjahre verbrachte er zurückgezogen in seiner Heimatstadt Berlin.</abstract>
 <wikilink>http://en.wikipedia.org/wiki/Max_Liebermann?oldid=600017467</wikilink>
+<artworks />
+<buildings />
+<books />
 </Person>

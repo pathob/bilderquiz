@@ -1,0 +1,31 @@
+<Person>
+<name>Herman Gorter</name>
+<variantName>
+<XML_Serializer_Tag>Hermann Gorter</XML_Serializer_Tag>
+<XML_Serializer_Tag>Guotai</XML_Serializer_Tag>
+<XML_Serializer_Tag>Guo tai</XML_Serializer_Tag>
+<XML_Serializer_Tag>郭泰</XML_Serializer_Tag>
+</variantName>
+<thumbnail>https://commons.wikimedia.org/wiki/Special:FilePath/Gorter.jpg?width=270</thumbnail>
+<birthEN>November 26, 1864</birthEN>
+<birthDE>26. November 1864</birthDE>
+<deathEN>September 15, 1927</deathEN>
+<deathDE>15. September 1927</deathDE>
+<birthPlace>
+<XML_Serializer_Tag>Wormerveer</XML_Serializer_Tag>
+</birthPlace>
+<deathPlace>
+<XML_Serializer_Tag>Brüssel</XML_Serializer_Tag>
+</deathPlace>
+<professionOrOccupation>
+<XML_Serializer_Tag>Schriftsteller</XML_Serializer_Tag>
+<XML_Serializer_Tag>Lyriker</XML_Serializer_Tag>
+<XML_Serializer_Tag>Sozialist</XML_Serializer_Tag>
+</professionOrOccupation>
+<dbpResource>http://dbpedia.org/resource/Herman_Gorter</dbpResource>
+<abstract>Herman Gorter (auch Hermann Gorter) (* 26. November 1864 in Wormerveer, heute Teil von Zaanstad; † 15. September 1927 in Brüssel) war ein niederländischer Dichter und rätekommunistischer Theoretiker.</abstract>
+<wikilink>http://en.wikipedia.org/wiki/Herman_Gorter?oldid=542019573</wikilink>
+<artworks />
+<buildings />
+<books />
+</Person>

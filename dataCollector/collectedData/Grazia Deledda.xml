@@ -1,0 +1,38 @@
+<Person>
+<name>Grazia Deledda</name>
+<variantName>
+<XML_Serializer_Tag>Grazia Maria Cosima Damiana Deledda</XML_Serializer_Tag>
+<XML_Serializer_Tag>Maria Grazia Cosima Deledda</XML_Serializer_Tag>
+</variantName>
+<thumbnail>https://commons.wikimedia.org/wiki/Special:FilePath/Grazia_Deledda_1926.jpg?width=270</thumbnail>
+<birthEN>1871</birthEN>
+<birthDE>1871</birthDE>
+<deathEN>1936</deathEN>
+<deathDE>1936</deathDE>
+<birthPlace />
+<deathPlace />
+<professionOrOccupation>
+<XML_Serializer_Tag>Schriftstellerin</XML_Serializer_Tag>
+</professionOrOccupation>
+<dbpResource>http://dbpedia.org/resource/Grazia_Deledda</dbpResource>
+<abstract>Grazia Deledda, (* 27. September 1871 in Nuoro, Sardinien; † 15. August 1936 in Rom) war eine italienische Schriftstellerin und Nobelpreisträgerin der Literatur des Jahres 1926.</abstract>
+<wikilink>http://en.wikipedia.org/wiki/Grazia_Deledda?oldid=606525683</wikilink>
+<artworks />
+<buildings />
+<books>
+<XML_Serializer_Tag>
+<book>
+<type>uri</type>
+<value>http://dbpedia.org/resource/After_the_divorce</value>
+</book>
+<author>
+<type>uri</type>
+<value>http://dbpedia.org/resource/Grazia_Deledda</value>
+</author>
+<wikilink>
+<type>uri</type>
+<value>http://en.wikipedia.org/wiki/After_the_divorce?oldid=577457860</value>
+</wikilink>
+</XML_Serializer_Tag>
+</books>
+</Person>

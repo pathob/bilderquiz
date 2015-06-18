@@ -14,8 +14,10 @@
 <XML_Serializer_Tag>Künstler</XML_Serializer_Tag>
 <XML_Serializer_Tag>Maler</XML_Serializer_Tag>
 </professionOrOccupation>
-<artworks />
 <dbpResource>http://dbpedia.org/resource/Johann_Friedrich_Dryander</dbpResource>
 <abstract>Johann Friedrich Dryander (* 23. April 1756 in St. Johann, jetzt Saarbrücken; † 12. März 1812 ebenda) war ein deutscher Maler.</abstract>
 <wikilink>http://en.wikipedia.org/wiki/Johann_Friedrich_Dryander?oldid=599813035</wikilink>
+<artworks />
+<buildings />
+<books />
 </Person>

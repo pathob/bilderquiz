@@ -1,0 +1,52 @@
+<Person>
+<name>Johannes Praetorius</name>
+<variantName>
+<XML_Serializer_Tag>Johann Praetorius</XML_Serializer_Tag>
+<XML_Serializer_Tag>, Zetlingensis</XML_Serializer_Tag>
+<XML_Serializer_Tag>, Zetlingensis</XML_Serializer_Tag>
+<XML_Serializer_Tag>, von Zetlingen</XML_Serializer_Tag>
+<XML_Serializer_Tag>Joachim Praetorius</XML_Serializer_Tag>
+<XML_Serializer_Tag>Joachimus Praetorius</XML_Serializer_Tag>
+<XML_Serializer_Tag>Praetorius Zetling</XML_Serializer_Tag>
+<XML_Serializer_Tag>Hans Schultze</XML_Serializer_Tag>
+<XML_Serializer_Tag>Hans Schultze</XML_Serializer_Tag>
+<XML_Serializer_Tag>Steffen Läusepeltz</XML_Serializer_Tag>
+<XML_Serializer_Tag>Lustigerus, Wortlibius</XML_Serializer_Tag>
+<XML_Serializer_Tag>Johannes Petrus de Memel</XML_Serializer_Tag>
+<XML_Serializer_Tag>Johannes P. de Memel</XML_Serializer_Tag>
+<XML_Serializer_Tag>MIciPSaS, Rex Numidiae</XML_Serializer_Tag>
+<XML_Serializer_Tag>Janeser Potorianus</XML_Serializer_Tag>
+<XML_Serializer_Tag>Lustigerus Wortlibius</XML_Serializer_Tag>
+<XML_Serializer_Tag>Brandanus Merlinus</XML_Serializer_Tag>
+<XML_Serializer_Tag>Micipsas, Rex Numidiae</XML_Serializer_Tag>
+<XML_Serializer_Tag>Zetlingensis</XML_Serializer_Tag>
+<XML_Serializer_Tag>Johannes Potorianus</XML_Serializer_Tag>
+<XML_Serializer_Tag>... Prätorius</XML_Serializer_Tag>
+<XML_Serializer_Tag>Micipsam</XML_Serializer_Tag>
+<XML_Serializer_Tag>J. P. Marchitâ</XML_Serializer_Tag>
+<XML_Serializer_Tag>Franciscus Moncaeus</XML_Serializer_Tag>
+<XML_Serializer_Tag>Servius</XML_Serializer_Tag>
+</variantName>
+<thumbnail>https://commons.wikimedia.org/wiki/Special:FilePath/Praetorius_Blocksberg.jpg?width=270</thumbnail>
+<birthEN>1630</birthEN>
+<birthDE>1630</birthDE>
+<deathEN>1680</deathEN>
+<deathDE>1680</deathDE>
+<birthPlace>
+<XML_Serializer_Tag>Zethlingen</XML_Serializer_Tag>
+</birthPlace>
+<deathPlace>
+<XML_Serializer_Tag>Leipzig</XML_Serializer_Tag>
+</deathPlace>
+<professionOrOccupation>
+<XML_Serializer_Tag>Schriftsteller</XML_Serializer_Tag>
+<XML_Serializer_Tag>Historiker</XML_Serializer_Tag>
+<XML_Serializer_Tag>Humorist</XML_Serializer_Tag>
+</professionOrOccupation>
+<dbpResource>http://dbpedia.org/resource/Johannes_Praetorius</dbpResource>
+<abstract>Johann Richter, auch Johannes Praetorius genannt, (* 1537 in Sankt Joachimsthal; † 27. Oktober 1616 in Altdorf bei Nürnberg) war ein deutscher Mathematiker, Instrumentenbauer und Astronom.</abstract>
+<wikilink>http://en.wikipedia.org/wiki/Johannes_Praetorius?oldid=601777280</wikilink>
+<artworks />
+<buildings />
+<books />
+</Person>

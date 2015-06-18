@@ -1,0 +1,25 @@
+<Person>
+<name>Claude Lanzmann</name>
+<variantName />
+<thumbnail>https://commons.wikimedia.org/wiki/Special:FilePath/Claude_Lanzmann_crop.jpg?width=270</thumbnail>
+<birthEN>1925</birthEN>
+<birthDE>1925</birthDE>
+<deathEN />
+<deathDE />
+<birthPlace>
+<XML_Serializer_Tag>Paris</XML_Serializer_Tag>
+</birthPlace>
+<deathPlace />
+<professionOrOccupation>
+<XML_Serializer_Tag>Schriftsteller</XML_Serializer_Tag>
+<XML_Serializer_Tag>Journalist</XML_Serializer_Tag>
+<XML_Serializer_Tag>Regisseur</XML_Serializer_Tag>
+<XML_Serializer_Tag>Filmemacher</XML_Serializer_Tag>
+</professionOrOccupation>
+<dbpResource>http://dbpedia.org/resource/Claude_Lanzmann</dbpResource>
+<abstract>Claude Lanzmann (* 27. November 1925 in Paris) ist ein französischer Regisseur von Dokumentarfilmen und Produzent. Er ist Herausgeber des von Jean-Paul Sartre und Simone de Beauvoir gegründeten Magazins Les Temps modernes.</abstract>
+<wikilink>http://en.wikipedia.org/wiki/Claude_Lanzmann?oldid=598108784</wikilink>
+<artworks />
+<buildings />
+<books />
+</Person>

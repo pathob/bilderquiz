@@ -17,12 +17,15 @@
 <XML_Serializer_Tag>Illustrator</XML_Serializer_Tag>
 <XML_Serializer_Tag>Maler</XML_Serializer_Tag>
 </professionOrOccupation>
+<dbpResource>http://dbpedia.org/resource/Edward_Hopper</dbpResource>
+<abstract>Edward Hopper (* 22. Juli 1882 in Nyack, New York; † 15. Mai 1967 in New York City, New York) war ein amerikanischer Maler des Amerikanischen Realismus. Hoppers in kühler Farbgebung gehaltene realistische Bilder weisen auf die Einsamkeit des modernen Menschen hin. Er gilt als Chronist der amerikanischen Zivilisation.</abstract>
+<wikilink>http://en.wikipedia.org/wiki/Edward_Hopper?oldid=606783932</wikilink>
 <artworks>
 <XML_Serializer_Tag>
-<painting>
+<artwork>
 <type>uri</type>
 <value>http://dbpedia.org/resource/Nighthawks</value>
-</painting>
+</artwork>
 <thumbnail>
 <type>uri</type>
 <value>http://commons.wikimedia.org/wiki/Special:FilePath/Nighthawks_by_Edward_Hopper_1942.jpg?width=300</value>
@@ -46,12 +49,16 @@
 <type>uri</type>
 <value>http://en.wikipedia.org/wiki/Nighthawks?oldid=602054258</value>
 </wikilink>
+<type>
+<type>uri</type>
+<value>http://dbpedia.org/resource/Oil_painting</value>
+</type>
 </XML_Serializer_Tag>
 <XML_Serializer_Tag>
-<painting>
+<artwork>
 <type>uri</type>
 <value>http://dbpedia.org/resource/Girl_at_Sewing_Machine</value>
-</painting>
+</artwork>
 <thumbnail>
 <type>uri</type>
 <value>http://commons.wikimedia.org/wiki/Special:FilePath/Girl_at_Sewing_Machine_by_Edward_Hopper.jpg?width=300</value>
@@ -70,9 +77,12 @@
 <type>uri</type>
 <value>http://en.wikipedia.org/wiki/Girl_at_Sewing_Machine?oldid=588596622</value>
 </wikilink>
+<type>
+<type>uri</type>
+<value>http://dbpedia.org/resource/Oil_painting</value>
+</type>
 </XML_Serializer_Tag>
 </artworks>
-<dbpResource>http://dbpedia.org/resource/Edward_Hopper</dbpResource>
-<abstract>Edward Hopper (* 22. Juli 1882 in Nyack, New York; † 15. Mai 1967 in New York City, New York) war ein amerikanischer Maler des Amerikanischen Realismus. Hoppers in kühler Farbgebung gehaltene realistische Bilder weisen auf die Einsamkeit des modernen Menschen hin. Er gilt als Chronist der amerikanischen Zivilisation.</abstract>
-<wikilink>http://en.wikipedia.org/wiki/Edward_Hopper?oldid=606783932</wikilink>
+<buildings />
+<books />
 </Person>

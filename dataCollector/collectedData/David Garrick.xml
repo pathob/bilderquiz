@@ -1,0 +1,25 @@
+<Person>
+<name>David Garrick</name>
+<variantName>
+<XML_Serializer_Tag>David Garrik</XML_Serializer_Tag>
+<XML_Serializer_Tag>... Garrick</XML_Serializer_Tag>
+<XML_Serializer_Tag>W. C.</XML_Serializer_Tag>
+</variantName>
+<thumbnail>https://commons.wikimedia.org/wiki/Special:FilePath/Kauffman-Garrick.jpg?width=270</thumbnail>
+<birthEN>1717</birthEN>
+<birthDE>1717</birthDE>
+<deathEN>1779</deathEN>
+<deathDE>1779</deathDE>
+<birthPlace />
+<deathPlace />
+<professionOrOccupation>
+<XML_Serializer_Tag>Schauspieler</XML_Serializer_Tag>
+<XML_Serializer_Tag>Schriftsteller</XML_Serializer_Tag>
+</professionOrOccupation>
+<dbpResource>http://dbpedia.org/resource/David_Garrick</dbpResource>
+<abstract>David Garrick (* 19. Februar 1717 in Hereford, England; † 20. Januar 1779 in London), war ein berühmter Schauspieler des 18. Jahrhunderts, des Zeitalters der Aufklärung. Er war sowohl als Komödiant als auch in ernsten Rollen besonders auf den Londoner Bühnen erfolgreich. Er erwarb sich ebenfalls als Theaterdirektor und Autor von Bühnenstücken einen Namen.</abstract>
+<wikilink>http://en.wikipedia.org/wiki/David_Garrick?oldid=600457198</wikilink>
+<artworks />
+<buildings />
+<books />
+</Person>

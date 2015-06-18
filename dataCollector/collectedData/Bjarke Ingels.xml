@@ -1,0 +1,50 @@
+<Person>
+<name>Bjarke Ingels</name>
+<variantName />
+<thumbnail>https://commons.wikimedia.org/wiki/Special:FilePath/Bjarke_Ingels_2012_designboom_interview.jpg?width=270</thumbnail>
+<birthEN>1974</birthEN>
+<birthDE>1974</birthDE>
+<deathEN />
+<deathDE />
+<birthPlace>
+<XML_Serializer_Tag>Kopenhagen</XML_Serializer_Tag>
+</birthPlace>
+<deathPlace />
+<professionOrOccupation>
+<XML_Serializer_Tag>Architekt</XML_Serializer_Tag>
+</professionOrOccupation>
+<dbpResource>http://dbpedia.org/resource/Bjarke_Ingels</dbpResource>
+<abstract>Bjarke Ingels (* 2. Oktober 1974 in Kopenhagen) ist ein dänischer Architekt. Seit 2006 führt er das Architekturbüro Bjarke Ingels Group mit Sitz in Kopenhagen. 2009 war er Mitbegründer der Design-Agentur KiBiSi. Ingels&apos; Entwürfe zeichnen sich durch sehr klare, oft plakative und pragmatische Ideen verbunden mit einer spielerischen Herangehensweisen aus.</abstract>
+<wikilink>http://en.wikipedia.org/wiki/Bjarke_Ingels?oldid=603601980</wikilink>
+<artworks />
+<buildings>
+<XML_Serializer_Tag>
+<building>
+<type>uri</type>
+<value>http://dbpedia.org/resource/Mountain_Dwellings</value>
+</building>
+<name>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>Mountain Dwellings</value>
+</name>
+<architect>
+<type>uri</type>
+<value>http://dbpedia.org/resource/Bjarke_Ingels</value>
+</architect>
+<thumbnail>
+<type>uri</type>
+<value>http://commons.wikimedia.org/wiki/Special:FilePath/VM_Bjerget.JPG?width=300</value>
+</thumbnail>
+<wikilink>
+<type>uri</type>
+<value>http://en.wikipedia.org/wiki/Mountain_Dwellings?oldid=550963245</value>
+</wikilink>
+<location>
+<type>uri</type>
+<value>http://dbpedia.org/resource/Copenhagen</value>
+</location>
+</XML_Serializer_Tag>
+</buildings>
+<books />
+</Person>

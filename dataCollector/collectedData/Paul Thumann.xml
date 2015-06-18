@@ -17,8 +17,10 @@
 <XML_Serializer_Tag>Maler</XML_Serializer_Tag>
 <XML_Serializer_Tag>Illustrator</XML_Serializer_Tag>
 </professionOrOccupation>
-<artworks />
 <dbpResource>http://dbpedia.org/resource/Paul_Thumann</dbpResource>
 <abstract>Friedrich Paul Thumann (* 5. Oktober 1834 in Groß Tzschacksdorf bei Forst (Lausitz); † 19. Februar 1908 in Berlin) war ein deutscher Illustrator und Porträtmaler.</abstract>
 <wikilink>http://en.wikipedia.org/wiki/Paul_Thumann?oldid=604654019</wikilink>
+<artworks />
+<buildings />
+<books />
 </Person>

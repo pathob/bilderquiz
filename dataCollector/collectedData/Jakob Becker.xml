@@ -21,8 +21,10 @@
 <XML_Serializer_Tag>Lithograph</XML_Serializer_Tag>
 <XML_Serializer_Tag>Radierer</XML_Serializer_Tag>
 </professionOrOccupation>
-<artworks />
 <dbpResource>http://dbpedia.org/resource/Jakob_Becker</dbpResource>
 <abstract>Jakob Becker (* 15. März 1810 in Dittelsheim bei Worms; † 22. Dezember 1872 in Frankfurt am Main) war ein deutscher Maler, Radierer und Lithograf.</abstract>
 <wikilink>http://en.wikipedia.org/wiki/Jakob_Becker?oldid=581944900</wikilink>
+<artworks />
+<buildings />
+<books />
 </Person>

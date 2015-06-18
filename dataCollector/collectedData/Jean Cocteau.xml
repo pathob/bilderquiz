@@ -27,8 +27,25 @@
 <XML_Serializer_Tag>Regisseur</XML_Serializer_Tag>
 <XML_Serializer_Tag>Schriftsteller</XML_Serializer_Tag>
 </professionOrOccupation>
-<artworks />
 <dbpResource>http://dbpedia.org/resource/Jean_Cocteau</dbpResource>
 <abstract>Jean Cocteau (* 5. Juli 1889 in Maisons-Laffitte bei Paris; † 11. Oktober 1963 in Milly-la-Forêt bei Paris) war ein französischer Schriftsteller, Regisseur und Maler.</abstract>
 <wikilink>http://en.wikipedia.org/wiki/Jean_Cocteau?oldid=606246440</wikilink>
+<artworks />
+<buildings />
+<books>
+<XML_Serializer_Tag>
+<book>
+<type>uri</type>
+<value>http://dbpedia.org/resource/Les_Enfants_Terribles</value>
+</book>
+<author>
+<type>uri</type>
+<value>http://dbpedia.org/resource/Jean_Cocteau</value>
+</author>
+<wikilink>
+<type>uri</type>
+<value>http://en.wikipedia.org/wiki/Les_Enfants_Terribles?oldid=598177841</value>
+</wikilink>
+</XML_Serializer_Tag>
+</books>
 </Person>

@@ -1,0 +1,28 @@
+<Person>
+<name>Paul Jaeg</name>
+<variantName>
+<XML_Serializer_Tag>Paul Gamsjäger</XML_Serializer_Tag>
+<XML_Serializer_Tag>Pau Jaeg</XML_Serializer_Tag>
+</variantName>
+<thumbnail>https://commons.wikimedia.org/wiki/Special:FilePath/Paul-Jaeg.jpg?width=270</thumbnail>
+<birthEN>1949</birthEN>
+<birthDE>1949</birthDE>
+<deathEN />
+<deathDE />
+<birthPlace>
+<XML_Serializer_Tag>Gosau</XML_Serializer_Tag>
+</birthPlace>
+<deathPlace />
+<professionOrOccupation>
+<XML_Serializer_Tag>Künstler</XML_Serializer_Tag>
+<XML_Serializer_Tag>Schriftsteller</XML_Serializer_Tag>
+<XML_Serializer_Tag>Verleger</XML_Serializer_Tag>
+<XML_Serializer_Tag>Musiklehrer</XML_Serializer_Tag>
+</professionOrOccupation>
+<dbpResource>http://dbpedia.org/resource/Paul_Jaeg</dbpResource>
+<abstract>Paul Jaeg eigentlich Paul Gamsjäger (* 1949 in Gosau) ist ein österreichischer Künstler und Schriftsteller.</abstract>
+<wikilink>http://en.wikipedia.org/wiki/Paul_Jaeg?oldid=593534495</wikilink>
+<artworks />
+<buildings />
+<books />
+</Person>

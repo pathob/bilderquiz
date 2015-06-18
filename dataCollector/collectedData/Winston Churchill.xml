@@ -1,0 +1,98 @@
+<Person>
+<name>Winston Churchill</name>
+<variantName>
+<XML_Serializer_Tag>Winston Spencer Churchill</XML_Serializer_Tag>
+<XML_Serializer_Tag>Winston S. Churchill</XML_Serializer_Tag>
+<XML_Serializer_Tag>Winston L. Churchill</XML_Serializer_Tag>
+<XML_Serializer_Tag>Winston L. Spencer Churchill</XML_Serializer_Tag>
+<XML_Serializer_Tag>Winston Leonard Spencer Churchill</XML_Serializer_Tag>
+<XML_Serializer_Tag>Winston Leonard Spencer-Churchill</XML_Serializer_Tag>
+<XML_Serializer_Tag>Uinston Čerčillʹ</XML_Serializer_Tag>
+<XML_Serializer_Tag>Ṿinsṭon Spenser Ts&apos;erts&apos;il</XML_Serializer_Tag>
+<XML_Serializer_Tag>Ṿinsṭon S. Ts&apos;erts&apos;il</XML_Serializer_Tag>
+<XML_Serializer_Tag>Čirčīl</XML_Serializer_Tag>
+<XML_Serializer_Tag>Winston Leonard Spencer</XML_Serializer_Tag>
+<XML_Serializer_Tag>Winston Spencer Churchill</XML_Serializer_Tag>
+<XML_Serializer_Tag>Winston Leonard Spencer-Churchill</XML_Serializer_Tag>
+<XML_Serializer_Tag>Уинстон Черчилль</XML_Serializer_Tag>
+</variantName>
+<thumbnail>https://commons.wikimedia.org/wiki/Special:FilePath/Churchill-in-quebec-1944-23-0201a.jpg?width=270</thumbnail>
+<birthEN>November 30, 1874</birthEN>
+<birthDE>30. November 1874</birthDE>
+<deathEN>January 24, 1965</deathEN>
+<deathDE>24. Januar 1965</deathDE>
+<birthPlace>
+<XML_Serializer_Tag>Woodstock (Oxford)</XML_Serializer_Tag>
+</birthPlace>
+<deathPlace>
+<XML_Serializer_Tag>London</XML_Serializer_Tag>
+</deathPlace>
+<professionOrOccupation>
+<XML_Serializer_Tag>Politiker</XML_Serializer_Tag>
+<XML_Serializer_Tag>Abgeordneter</XML_Serializer_Tag>
+<XML_Serializer_Tag>Minister</XML_Serializer_Tag>
+<XML_Serializer_Tag>Journalist</XML_Serializer_Tag>
+<XML_Serializer_Tag>Offizier</XML_Serializer_Tag>
+<XML_Serializer_Tag>Autor</XML_Serializer_Tag>
+<XML_Serializer_Tag>Regierungschef</XML_Serializer_Tag>
+<XML_Serializer_Tag>Nobelpreisträger</XML_Serializer_Tag>
+</professionOrOccupation>
+<dbpResource>http://dbpedia.org/resource/Winston_Churchill</dbpResource>
+<abstract>Sir Winston Leonard Spencer-Churchill(* 30. November 1874 in Woodstock (England); † 24. Januar 1965 in London) gilt als bedeutendster britischer Staatsmann des 20. Jahrhunderts. Er war von 1940 bis 1945 und von 1951 bis 1955 Premierminister und führte Großbritannien durch den Zweiten Weltkrieg. Zuvor hatte er bereits mehrere Regierungsämter bekleidet, unter anderem das des Ersten Lords der Admiralität, des Innen- und des Finanzministers. Darüber hinaus trat er als Autor politischer und historischer Werke hervor und erhielt 1953 den Nobelpreis für Literatur.</abstract>
+<wikilink>http://en.wikipedia.org/wiki/Winston_Churchill?oldid=606154069</wikilink>
+<artworks />
+<buildings />
+<books>
+<XML_Serializer_Tag>
+<book>
+<type>uri</type>
+<value>http://dbpedia.org/resource/The_River_War</value>
+</book>
+<author>
+<type>uri</type>
+<value>http://dbpedia.org/resource/Winston_Churchill</value>
+</author>
+<thumbnail>
+<type>uri</type>
+<value>http://en.wikipedia.org/wiki/Special:FilePath/RiverWarillustrationFieldTelegraph.jpg?width=300</value>
+</thumbnail>
+<wikilink>
+<type>uri</type>
+<value>http://en.wikipedia.org/wiki/The_River_War?oldid=606227040</value>
+</wikilink>
+</XML_Serializer_Tag>
+<XML_Serializer_Tag>
+<book>
+<type>uri</type>
+<value>http://dbpedia.org/resource/The_Story_of_the_Malakand_Field_Force</value>
+</book>
+<author>
+<type>uri</type>
+<value>http://dbpedia.org/resource/Winston_Churchill</value>
+</author>
+<released>
+<type>typed-literal</type>
+<datatype>http://www.w3.org/2001/XMLSchema#integer</datatype>
+<value>1898</value>
+</released>
+<wikilink>
+<type>uri</type>
+<value>http://en.wikipedia.org/wiki/The_Story_of_the_Malakand_Field_Force?oldid=600651857</value>
+</wikilink>
+</XML_Serializer_Tag>
+<XML_Serializer_Tag>
+<book>
+<type>uri</type>
+<value>http://dbpedia.org/resource/Great_Contemporaries</value>
+</book>
+<author>
+<type>uri</type>
+<value>http://dbpedia.org/resource/Winston_Churchill</value>
+</author>
+<wikilink>
+<type>uri</type>
+<value>http://en.wikipedia.org/wiki/Great_Contemporaries?oldid=598024103</value>
+</wikilink>
+</XML_Serializer_Tag>
+</books>
+</Person>

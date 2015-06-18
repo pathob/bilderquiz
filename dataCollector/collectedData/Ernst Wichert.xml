@@ -1,0 +1,27 @@
+<Person>
+<name>Ernst Wichert</name>
+<variantName>
+<XML_Serializer_Tag>Ernst Alexander Wichert</XML_Serializer_Tag>
+<XML_Serializer_Tag>Ernstas Augustas Georgas Vichertas</XML_Serializer_Tag>
+<XML_Serializer_Tag>Ernst Alexander August Georg Wichert</XML_Serializer_Tag>
+</variantName>
+<thumbnail>https://de.wikipedia.org/wiki/Special:FilePath/Bühnenschriftsteller_Ernst_Wichert.jpg?width=270</thumbnail>
+<birthEN>March 11, 1831</birthEN>
+<birthDE>11. März 1831</birthDE>
+<deathEN>January 21, 1902</deathEN>
+<deathDE>21. Januar 1902</deathDE>
+<birthPlace />
+<deathPlace>
+<XML_Serializer_Tag>Berlin</XML_Serializer_Tag>
+</deathPlace>
+<professionOrOccupation>
+<XML_Serializer_Tag>Schriftsteller</XML_Serializer_Tag>
+<XML_Serializer_Tag>Jurist</XML_Serializer_Tag>
+</professionOrOccupation>
+<dbpResource>http://dbpedia.org/resource/Ernst_Wichert</dbpResource>
+<abstract>Ernst Wichert (* 11. März 1831 in Insterburg, Ostpreußen; † 21. Januar 1902 in Berlin) war ein deutscher Schriftsteller und Jurist.</abstract>
+<wikilink>http://en.wikipedia.org/wiki/Ernst_Wichert?oldid=592375336</wikilink>
+<artworks />
+<buildings />
+<books />
+</Person>

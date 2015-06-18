@@ -1,0 +1,28 @@
+<Person>
+<name>James Macpherson</name>
+<variantName>
+<XML_Serializer_Tag>Ossian</XML_Serializer_Tag>
+<XML_Serializer_Tag>Jacopo Macpherson</XML_Serializer_Tag>
+<XML_Serializer_Tag>James MacPherson</XML_Serializer_Tag>
+<XML_Serializer_Tag>... Macpherson</XML_Serializer_Tag>
+<XML_Serializer_Tag>Oisein</XML_Serializer_Tag>
+<XML_Serializer_Tag>Dzhems Makferson</XML_Serializer_Tag>
+<XML_Serializer_Tag>Džems Makferson</XML_Serializer_Tag>
+</variantName>
+<thumbnail>https://commons.wikimedia.org/wiki/Special:FilePath/James_Macpherson_by_George_Romney.jpg?width=270</thumbnail>
+<birthEN>1736</birthEN>
+<birthDE>1736</birthDE>
+<deathEN>1796</deathEN>
+<deathDE>1796</deathDE>
+<birthPlace />
+<deathPlace />
+<professionOrOccupation>
+<XML_Serializer_Tag>Schriftsteller</XML_Serializer_Tag>
+</professionOrOccupation>
+<dbpResource>http://dbpedia.org/resource/James_Macpherson</dbpResource>
+<abstract>James Macpherson (* 27. Oktober 1736 in Ruthven, Highland; † 17. Februar 1796) war ein schottischer Schriftsteller und Politiker.</abstract>
+<wikilink>http://en.wikipedia.org/wiki/James_Macpherson?oldid=603519849</wikilink>
+<artworks />
+<buildings />
+<books />
+</Person>

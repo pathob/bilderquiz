@@ -1,0 +1,27 @@
+<Person>
+<name>Thomas Middleton</name>
+<variantName>
+<XML_Serializer_Tag>Thomas Midleton</XML_Serializer_Tag>
+</variantName>
+<thumbnail>https://commons.wikimedia.org/wiki/Special:FilePath/Middletn.jpg?width=270</thumbnail>
+<birthEN>April 18, 1580</birthEN>
+<birthDE>18. April 1580</birthDE>
+<deathEN>July 4, 1627</deathEN>
+<deathDE>4. Juli 1627</deathDE>
+<birthPlace>
+<XML_Serializer_Tag>London</XML_Serializer_Tag>
+</birthPlace>
+<deathPlace>
+<XML_Serializer_Tag>Newington Butts</XML_Serializer_Tag>
+</deathPlace>
+<professionOrOccupation>
+<XML_Serializer_Tag>Schriftsteller</XML_Serializer_Tag>
+<XML_Serializer_Tag>Dramatiker</XML_Serializer_Tag>
+</professionOrOccupation>
+<dbpResource>http://dbpedia.org/resource/Thomas_Middleton</dbpResource>
+<abstract>Thomas Middleton (getauft 18. April 1580; † 1627) war ein englischer Schriftsteller und Dichter.Wie auch John Fletcher und Ben Jonson gehörte er zu den erfolgreichsten Stückeschreibern der englischen Renaissance. Gemeinsam mit William Shakespeare darf man ihn zu den wenigen Dramatikern dieser Zeit zählen, die ebenso viel Erfolg in der Komödie als auch in der Tragödie verzeichnen konnten.</abstract>
+<wikilink>http://en.wikipedia.org/wiki/Thomas_Middleton?oldid=602230344</wikilink>
+<artworks />
+<buildings />
+<books />
+</Person>

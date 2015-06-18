@@ -21,8 +21,29 @@
 <XML_Serializer_Tag>Maler</XML_Serializer_Tag>
 <XML_Serializer_Tag>Kunsthistoriker</XML_Serializer_Tag>
 </professionOrOccupation>
-<artworks />
 <dbpResource>http://dbpedia.org/resource/Giorgio_Vasari</dbpResource>
 <abstract>Giorgio Vasari (* 30. Juli 1511 in Arezzo; † 27. Juni 1574 in Florenz) war ein italienischer Architekt, Hofmaler der Medici und Biograph italienischer Künstler, darunter Leonardo da Vinci, Raffael und Michelangelo. Er gilt durch seine Schriften über das Leben und Werk zeitgenössischer Meister als einer der ersten Kunsthistoriker. Vasari führte den Begriff der Gotik ein, allerdings abwertend: Als Verehrer der Ästhetik der antiken Kunst empfand er diesen mittelalterlichen Kunststil als fremdartig, barbarisch, wirr (ital.: gotico). Auch die Stilbezeichnung Manierismus geht auf ihn zurück. In seinen Beschreibungen der italienischen Künstler verwendete Vasari 1550 zudem als Erster das Wort rinascita (Renaissance).</abstract>
 <wikilink>http://en.wikipedia.org/wiki/Giorgio_Vasari?oldid=603296138</wikilink>
+<artworks />
+<buildings />
+<books>
+<XML_Serializer_Tag>
+<book>
+<type>uri</type>
+<value>http://dbpedia.org/resource/Lives_of_the_Most_Excellent_Painters,_Sculptors,_and_Architects</value>
+</book>
+<author>
+<type>uri</type>
+<value>http://dbpedia.org/resource/Giorgio_Vasari</value>
+</author>
+<thumbnail>
+<type>uri</type>
+<value>http://commons.wikimedia.org/wiki/Special:FilePath/Vite.jpg?width=300</value>
+</thumbnail>
+<wikilink>
+<type>uri</type>
+<value>http://en.wikipedia.org/wiki/Lives_of_the_Most_Excellent_Painters,_Sculptors,_and_Architects?oldid=594058167</value>
+</wikilink>
+</XML_Serializer_Tag>
+</books>
 </Person>

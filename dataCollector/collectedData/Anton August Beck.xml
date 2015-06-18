@@ -1,0 +1,30 @@
+<Person>
+<name>Anton August Beck</name>
+<variantName>
+<XML_Serializer_Tag>Anton August Bäck</XML_Serializer_Tag>
+<XML_Serializer_Tag>Ant. Aug. Beck</XML_Serializer_Tag>
+<XML_Serializer_Tag>A. A. Beck</XML_Serializer_Tag>
+</variantName>
+<thumbnail>https://commons.wikimedia.org/wiki/Special:FilePath/BS_Altstadtmarkt_Kupfer.jpg?width=270</thumbnail>
+<birthEN>1713</birthEN>
+<birthDE>1713</birthDE>
+<deathEN>1787</deathEN>
+<deathDE>1787</deathDE>
+<birthPlace>
+<XML_Serializer_Tag>Braunschweig</XML_Serializer_Tag>
+</birthPlace>
+<deathPlace>
+<XML_Serializer_Tag>Braunschweig</XML_Serializer_Tag>
+</deathPlace>
+<professionOrOccupation>
+<XML_Serializer_Tag>Historiker</XML_Serializer_Tag>
+<XML_Serializer_Tag>Kupferstecher</XML_Serializer_Tag>
+<XML_Serializer_Tag>Künstler</XML_Serializer_Tag>
+</professionOrOccupation>
+<dbpResource>http://dbpedia.org/resource/Anton_August_Beck</dbpResource>
+<abstract>Anton August Beck (* 27. August 1713 in Braunschweig; † 17. März 1787 ebenda) war ein deutscher Kupferstecher.</abstract>
+<wikilink>http://en.wikipedia.org/wiki/Anton_August_Beck?oldid=600720634</wikilink>
+<artworks />
+<buildings />
+<books />
+</Person>

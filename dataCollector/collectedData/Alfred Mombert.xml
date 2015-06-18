@@ -1,0 +1,27 @@
+<Person>
+<name>Alfred Mombert</name>
+<variantName>
+<XML_Serializer_Tag>... Mombert</XML_Serializer_Tag>
+</variantName>
+<thumbnail>https://commons.wikimedia.org/wiki/Special:FilePath/Alfred_Mombert.jpg?width=270</thumbnail>
+<birthEN>February 6, 1872</birthEN>
+<birthDE>6. Februar 1872</birthDE>
+<deathEN>April 8, 1942</deathEN>
+<deathDE>8. April 1942</deathDE>
+<birthPlace>
+<XML_Serializer_Tag>Karlsruhe</XML_Serializer_Tag>
+</birthPlace>
+<deathPlace>
+<XML_Serializer_Tag>Winterthur</XML_Serializer_Tag>
+</deathPlace>
+<professionOrOccupation>
+<XML_Serializer_Tag>Schriftsteller</XML_Serializer_Tag>
+<XML_Serializer_Tag>Rechtsanwalt</XML_Serializer_Tag>
+</professionOrOccupation>
+<dbpResource>http://dbpedia.org/resource/Alfred_Mombert</dbpResource>
+<abstract>Alfred Mombert (* 6. Februar 1872 in Karlsruhe; † 8. April 1942 in Winterthur) war ein deutscher Schriftsteller und Lyriker.</abstract>
+<wikilink>http://en.wikipedia.org/wiki/Alfred_Mombert?oldid=592867246</wikilink>
+<artworks />
+<buildings />
+<books />
+</Person>

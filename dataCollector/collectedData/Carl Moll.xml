@@ -16,8 +16,10 @@
 <XML_Serializer_Tag>Künstler</XML_Serializer_Tag>
 <XML_Serializer_Tag>Maler</XML_Serializer_Tag>
 </professionOrOccupation>
-<artworks />
 <dbpResource>http://dbpedia.org/resource/Carl_Moll</dbpResource>
 <abstract>Carl Moll (* 23. April 1861 in Wien; † 13. April 1945 ebenda) war ein österreichischer Maler des Jugendstils.</abstract>
 <wikilink>http://en.wikipedia.org/wiki/Carl_Moll?oldid=599592257</wikilink>
+<artworks />
+<buildings />
+<books />
 </Person>

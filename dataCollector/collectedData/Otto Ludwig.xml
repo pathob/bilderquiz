@@ -1,0 +1,28 @@
+<Person>
+<name>Otto Ludwig</name>
+<variantName>
+<XML_Serializer_Tag>, aus Eisfeld</XML_Serializer_Tag>
+<XML_Serializer_Tag>オットー・ルードヴィヒ</XML_Serializer_Tag>
+</variantName>
+<thumbnail>https://commons.wikimedia.org/wiki/Special:FilePath/Fotothek_df_rp-c_0200071_Triebischtal-Semmelsberg._Otto_Ludwig%2C_Portr%C3%A4t%2C_Zeichnung_%28Stadtarchiv_Mei%C3%9Fen%2C_Graphiksammlung%29.jpg?width=270</thumbnail>
+<birthEN>February 12, 1813</birthEN>
+<birthDE>12. Februar 1813</birthDE>
+<deathEN>February 25, 1865</deathEN>
+<deathDE>25. Februar 1865</deathDE>
+<birthPlace>
+<XML_Serializer_Tag>Eisfeld</XML_Serializer_Tag>
+</birthPlace>
+<deathPlace>
+<XML_Serializer_Tag>Dresden</XML_Serializer_Tag>
+</deathPlace>
+<professionOrOccupation>
+<XML_Serializer_Tag>Musiker</XML_Serializer_Tag>
+<XML_Serializer_Tag>Schriftsteller</XML_Serializer_Tag>
+</professionOrOccupation>
+<dbpResource>http://dbpedia.org/resource/Otto_Ludwig_(film_editor)</dbpResource>
+<abstract>Otto Ludwig (* 9. März 1903 in Kalifornien; † 14. Januar 1983 in Los Angeles County, Kalifornien) war ein US-amerikanischer Cutter.</abstract>
+<wikilink>http://en.wikipedia.org/wiki/Otto_Ludwig_(film_editor)?oldid=588888459</wikilink>
+<artworks />
+<buildings />
+<books />
+</Person>

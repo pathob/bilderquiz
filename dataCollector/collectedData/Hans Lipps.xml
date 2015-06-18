@@ -1,0 +1,28 @@
+<Person>
+<name>Hans Lipps</name>
+<variantName>
+<XML_Serializer_Tag>Johann Heinrich Lipps</XML_Serializer_Tag>
+<XML_Serializer_Tag>H. Lipps</XML_Serializer_Tag>
+<XML_Serializer_Tag>Johann H. Lipps</XML_Serializer_Tag>
+<XML_Serializer_Tag>Johann Lipps</XML_Serializer_Tag>
+<XML_Serializer_Tag>J. H. Lipps</XML_Serializer_Tag>
+<XML_Serializer_Tag>J. Lipps</XML_Serializer_Tag>
+</variantName>
+<thumbnail>https://commons.wikimedia.org/wiki/Special:FilePath/Hans_Lipps.jpg?width=270</thumbnail>
+<birthEN>November 22, 1889</birthEN>
+<birthDE>22. November 1889</birthDE>
+<deathEN>September 10, 1941</deathEN>
+<deathDE>10. September 1941</deathDE>
+<birthPlace />
+<deathPlace />
+<professionOrOccupation>
+<XML_Serializer_Tag>Philosoph</XML_Serializer_Tag>
+<XML_Serializer_Tag>Hochschullehrer</XML_Serializer_Tag>
+</professionOrOccupation>
+<dbpResource>http://dbpedia.org/resource/Hans_Lipps</dbpResource>
+<abstract>Hans Lipps (* 22. November 1889 in Pirna; † 10. September 1941 bei Dudino, Russland) war ein deutscher Philosoph.</abstract>
+<wikilink>http://en.wikipedia.org/wiki/Hans_Lipps?oldid=598671565</wikilink>
+<artworks />
+<buildings />
+<books />
+</Person>

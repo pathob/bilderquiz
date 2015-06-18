@@ -1,0 +1,29 @@
+<Person>
+<name>Eduard Baltzer</name>
+<variantName>
+<XML_Serializer_Tag>Eduard Wilhelm Baltzer</XML_Serializer_Tag>
+<XML_Serializer_Tag>Wilhelm Eduard Baltzer</XML_Serializer_Tag>
+<XML_Serializer_Tag>Etlar Ling</XML_Serializer_Tag>
+</variantName>
+<thumbnail>https://commons.wikimedia.org/wiki/Special:FilePath/Eduard_Baltzer.jpg?width=270</thumbnail>
+<birthEN>October 24, 1814</birthEN>
+<birthDE>24. Oktober 1814</birthDE>
+<deathEN>June 24, 1887</deathEN>
+<deathDE>24. Juni 1887</deathDE>
+<birthPlace>
+<XML_Serializer_Tag>Hohenleina</XML_Serializer_Tag>
+</birthPlace>
+<deathPlace>
+<XML_Serializer_Tag>Karlsruhe-Grötzingen</XML_Serializer_Tag>
+</deathPlace>
+<professionOrOccupation>
+<XML_Serializer_Tag>Theologe</XML_Serializer_Tag>
+<XML_Serializer_Tag>Schriftsteller</XML_Serializer_Tag>
+</professionOrOccupation>
+<dbpResource>http://dbpedia.org/resource/Eduard_Baltzer</dbpResource>
+<abstract>Eduard Baltzer (* 24. Oktober 1814 in Hohenleina; † 24. Juni 1887 in Durlach) war Demokrat und evangelischer Theologe. Er gründete den ersten Vegetarier-Verein in Deutschland und war der erste Präsident des Bundes Freireligiöser Gemeinden Deutschlands. 1852 prägte er den Begriff der „Jugendweihe“.</abstract>
+<wikilink>http://en.wikipedia.org/wiki/Eduard_Baltzer?oldid=588804650</wikilink>
+<artworks />
+<buildings />
+<books />
+</Person>

@@ -1,0 +1,28 @@
+<Person>
+<name>Israel Zangwill</name>
+<variantName>
+<XML_Serializer_Tag>I. Zangwill</XML_Serializer_Tag>
+<XML_Serializer_Tag>Yiśraʾel Zangṿil</XML_Serializer_Tag>
+<XML_Serializer_Tag>J. Zangwill</XML_Serializer_Tag>
+</variantName>
+<thumbnail>https://commons.wikimedia.org/wiki/Special:FilePath/Israel_Zangwill.jpg?width=270</thumbnail>
+<birthEN>February 14, 1864</birthEN>
+<birthDE>14. Februar 1864</birthDE>
+<deathEN>August 1, 1926</deathEN>
+<deathDE>1. August 1926</deathDE>
+<birthPlace>
+<XML_Serializer_Tag>Bristol</XML_Serializer_Tag>
+</birthPlace>
+<deathPlace>
+<XML_Serializer_Tag>Midhurst, England, Großbritannien</XML_Serializer_Tag>
+</deathPlace>
+<professionOrOccupation>
+<XML_Serializer_Tag>Schriftsteller</XML_Serializer_Tag>
+</professionOrOccupation>
+<dbpResource>http://dbpedia.org/resource/Israel_Zangwill</dbpResource>
+<abstract>Israel Zangwill (* 21. Januar 1864 in London; † 1. August 1926 in Midhurst, Sussex) war ein britischer jüdischer Schriftsteller, Essayist, Journalist und politischer Aktivist in der feministischen, pazifistischen und zionistischen Bewegung. Zangwill wird häufig als Autor des zionistischen Slogans „Ein Land ohne Volk für ein Volk ohne Land“ genannt, wahrscheinlich zu unrecht.</abstract>
+<wikilink>http://en.wikipedia.org/wiki/Israel_Zangwill?oldid=591821897</wikilink>
+<artworks />
+<buildings />
+<books />
+</Person>

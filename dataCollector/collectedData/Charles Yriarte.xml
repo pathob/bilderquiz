@@ -25,8 +25,10 @@
 <XML_Serializer_Tag>Architekt</XML_Serializer_Tag>
 <XML_Serializer_Tag>Maler</XML_Serializer_Tag>
 </professionOrOccupation>
-<artworks />
 <dbpResource>http://dbpedia.org/resource/Charles_Yriarte</dbpResource>
 <abstract>Charles Yriarte (* 5. Dezember 1832 in Paris; † 1898) war ein französischer Schriftsteller aus einer aus Spanien stammenden Familie.Er widmete sich auf der École des Beaux-Arts der Architektur, wurde 1856 Inspektor der Regierungsbauten und begleitete einige Jahre später als Zeichner und Berichterstatter der Monde Illustré die spanische Armee auf ihrem Feldzug gegen Marokko. Für den gleichen Zweck bereiste er dann Spanien und Italien und übernahm nach seiner Rückkehr (1862) die Chefredaktion der Monde Illustré, die er Ende 1871 niederlegte, um in den folgenden Jahren ein Wanderleben zu führen, dessen Eindrücke er wie die seiner früheren Reisen schriftstellerisch verwertete.</abstract>
 <wikilink>http://en.wikipedia.org/wiki/Charles_Yriarte?oldid=589371058</wikilink>
+<artworks />
+<buildings />
+<books />
 </Person>

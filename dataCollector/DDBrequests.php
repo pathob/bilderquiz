@@ -1,4 +1,5 @@
 <?php
+	
 	function getPersonWithProfession($profession,$key){
 	
 	
@@ -46,5 +47,3 @@
         return $result;
     }
 ?>
-</pre>
-</body>

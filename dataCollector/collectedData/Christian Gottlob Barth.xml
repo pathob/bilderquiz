@@ -1,0 +1,28 @@
+<Person>
+<name>Christian Gottlob Barth</name>
+<variantName>
+<XML_Serializer_Tag>Chr. G. Barth</XML_Serializer_Tag>
+<XML_Serializer_Tag>Christian G. Barth</XML_Serializer_Tag>
+<XML_Serializer_Tag>Kh. S. Parth</XML_Serializer_Tag>
+<XML_Serializer_Tag>Christianus G. Barthius</XML_Serializer_Tag>
+<XML_Serializer_Tag>Christ. Gottl. Barth</XML_Serializer_Tag>
+</variantName>
+<thumbnail>https://commons.wikimedia.org/wiki/Special:FilePath/Christian_Gottlob_Barth,_Porträt.jpg?width=270</thumbnail>
+<birthEN>July 31, 1799</birthEN>
+<birthDE>31. Juli 1799</birthDE>
+<deathEN>November 12, 1862</deathEN>
+<deathDE>12. November 1862</deathDE>
+<birthPlace />
+<deathPlace />
+<professionOrOccupation>
+<XML_Serializer_Tag>Schriftsteller</XML_Serializer_Tag>
+<XML_Serializer_Tag>Evangelischer Theologe</XML_Serializer_Tag>
+<XML_Serializer_Tag>Verleger</XML_Serializer_Tag>
+</professionOrOccupation>
+<dbpResource>http://dbpedia.org/resource/Christian_Gottlob_Barth</dbpResource>
+<abstract>Christian Gottlob Barth (* 31. Juli 1799 in Stuttgart; † 12. November 1862 in Calw) war deutscher evangelischer Pfarrer, Pietist, Schriftsteller und Verleger.</abstract>
+<wikilink>http://en.wikipedia.org/wiki/Christian_Gottlob_Barth?oldid=582787713</wikilink>
+<artworks />
+<buildings />
+<books />
+</Person>

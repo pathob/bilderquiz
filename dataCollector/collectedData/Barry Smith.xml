@@ -1,0 +1,23 @@
+<Person>
+<name>Barry Smith</name>
+<variantName />
+<thumbnail>https://commons.wikimedia.org/wiki/Special:FilePath/Barry_Smith.jpg?width=270</thumbnail>
+<birthEN>1952</birthEN>
+<birthDE>1952</birthDE>
+<deathEN />
+<deathDE />
+<birthPlace>
+<XML_Serializer_Tag>Bury</XML_Serializer_Tag>
+</birthPlace>
+<deathPlace />
+<professionOrOccupation>
+<XML_Serializer_Tag>Philosoph</XML_Serializer_Tag>
+<XML_Serializer_Tag>Ontologist</XML_Serializer_Tag>
+</professionOrOccupation>
+<dbpResource>http://dbpedia.org/resource/Barry_Smith_(academic_and_ontologist)</dbpResource>
+<abstract>Barry Smith (* 4. Juni 1954 in Bury, England) ist ein Mathematiker und Philosoph, der hauptsächlich auf den Gebieten der formalen Ontologie und der medizinischen Bioinformatik arbeitet. Er ist der aktuelle Herausgeber der Zeitschrift The Monist: An International Journal of General Philosophical Inquiry.</abstract>
+<wikilink>http://en.wikipedia.org/wiki/Barry_Smith_(academic_and_ontologist)?oldid=590612270</wikilink>
+<artworks />
+<buildings />
+<books />
+</Person>

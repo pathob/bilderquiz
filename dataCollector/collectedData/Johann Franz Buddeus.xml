@@ -1,0 +1,42 @@
+<Person>
+<name>Johann Franz Buddeus</name>
+<variantName>
+<XML_Serializer_Tag>Johann-Franz Buddeus</XML_Serializer_Tag>
+<XML_Serializer_Tag>Johann Franz Buddaeus</XML_Serializer_Tag>
+<XML_Serializer_Tag>Johann Franz Buddäus</XML_Serializer_Tag>
+<XML_Serializer_Tag>Johann Franz Budde</XML_Serializer_Tag>
+<XML_Serializer_Tag>Franciscus Buddeus</XML_Serializer_Tag>
+<XML_Serializer_Tag>Johannes Franciscus Buddeus</XML_Serializer_Tag>
+<XML_Serializer_Tag>Jo. Franciscus Buddeus</XML_Serializer_Tag>
+<XML_Serializer_Tag>Jo. Franc. Buddeus</XML_Serializer_Tag>
+<XML_Serializer_Tag>Joan. Franc. Buddeus</XML_Serializer_Tag>
+<XML_Serializer_Tag>Iohannes Franciscus Buddeus</XML_Serializer_Tag>
+<XML_Serializer_Tag>Ioannes Franciscus Buddeus</XML_Serializer_Tag>
+<XML_Serializer_Tag>Io. Franciscus Buddeus</XML_Serializer_Tag>
+<XML_Serializer_Tag>Johann Franz Budaeus</XML_Serializer_Tag>
+<XML_Serializer_Tag>Joannes Franciscus Buddeus</XML_Serializer_Tag>
+<XML_Serializer_Tag>Jo. Francisco Buddeo</XML_Serializer_Tag>
+</variantName>
+<thumbnail>https://commons.wikimedia.org/wiki/Special:FilePath/Johann-Franz-Buddeus.jpg?width=270</thumbnail>
+<birthEN>June 25, 1667</birthEN>
+<birthDE>25. Juni 1667</birthDE>
+<deathEN>November 19, 1729</deathEN>
+<deathDE>19. November 1729</deathDE>
+<birthPlace>
+<XML_Serializer_Tag>Anklam</XML_Serializer_Tag>
+</birthPlace>
+<deathPlace>
+<XML_Serializer_Tag>Gotha</XML_Serializer_Tag>
+</deathPlace>
+<professionOrOccupation>
+<XML_Serializer_Tag>Evangelischer Theologe</XML_Serializer_Tag>
+<XML_Serializer_Tag>Philosoph</XML_Serializer_Tag>
+<XML_Serializer_Tag>Orientalist</XML_Serializer_Tag>
+</professionOrOccupation>
+<dbpResource>http://dbpedia.org/resource/Johann_Franz_Buddeus</dbpResource>
+<abstract>Johann Franz Buddeus (auch: Budde, Buddaus; * 25. Juni 1667 in Anklam; † 19. November 1729 in Gotha) war ein deutscher Philosoph und evangelisch-lutherischer Theologe.</abstract>
+<wikilink>http://en.wikipedia.org/wiki/Johann_Franz_Buddeus?oldid=601032545</wikilink>
+<artworks />
+<buildings />
+<books />
+</Person>

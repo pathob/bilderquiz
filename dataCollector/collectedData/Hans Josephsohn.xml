@@ -1,0 +1,28 @@
+<Person>
+<name>Hans Josephsohn</name>
+<variantName>
+<XML_Serializer_Tag>Josephsohn</XML_Serializer_Tag>
+<XML_Serializer_Tag>Hans Josephson</XML_Serializer_Tag>
+</variantName>
+<thumbnail>https://commons.wikimedia.org/wiki/Special:FilePath/Chur_Josephson-018.jpg?width=270</thumbnail>
+<birthEN>May 20, 1920</birthEN>
+<birthDE>20. Mai 1920</birthDE>
+<deathEN>August 21, 2012</deathEN>
+<deathDE>21. August 2012</deathDE>
+<birthPlace>
+<XML_Serializer_Tag>Königsberg</XML_Serializer_Tag>
+</birthPlace>
+<deathPlace>
+<XML_Serializer_Tag>Zürich</XML_Serializer_Tag>
+</deathPlace>
+<professionOrOccupation>
+<XML_Serializer_Tag>Künstler</XML_Serializer_Tag>
+<XML_Serializer_Tag>Bildhauer</XML_Serializer_Tag>
+</professionOrOccupation>
+<dbpResource>http://dbpedia.org/resource/Hans_Josephsohn</dbpResource>
+<abstract>Hans Josephsohn (* 20. Mai 1920 im damaligen Königsberg; † 20. August 2012 in Zürich) war ein Schweizer Bildhauer.</abstract>
+<wikilink>http://en.wikipedia.org/wiki/Hans_Josephsohn?oldid=586886006</wikilink>
+<artworks />
+<buildings />
+<books />
+</Person>

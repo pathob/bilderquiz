@@ -24,8 +24,34 @@
 <XML_Serializer_Tag>Schriftsteller</XML_Serializer_Tag>
 <XML_Serializer_Tag>Illustrator</XML_Serializer_Tag>
 </professionOrOccupation>
-<artworks />
 <dbpResource>http://dbpedia.org/resource/Edward_Lear</dbpResource>
 <abstract>Edward Lear (* 12. Mai 1812 in Highgate; † 29. Januar 1888 in Sanremo) war ein britischer Maler, Illustrator und Schriftsteller. Zusammen mit Lewis Carroll gilt er als einer der großen Meister der viktorianischen Nonsense-Literatur.</abstract>
 <wikilink>http://en.wikipedia.org/wiki/Edward_Lear?oldid=605151266</wikilink>
+<artworks />
+<buildings />
+<books>
+<XML_Serializer_Tag>
+<book>
+<type>uri</type>
+<value>http://dbpedia.org/resource/Illustrations_of_the_Family_of_the_Psittacidae,_or_Parrots</value>
+</book>
+<author>
+<type>uri</type>
+<value>http://dbpedia.org/resource/Edward_Lear</value>
+</author>
+<thumbnail>
+<type>uri</type>
+<value>http://commons.wikimedia.org/wiki/Special:FilePath/Illustrations_of_the_family_of_Psittacidae,_or_parrots_(1832)_-book_title_page_-by_Edward_Lear.jpg?width=300</value>
+</thumbnail>
+<released>
+<type>typed-literal</type>
+<datatype>http://www.w3.org/2001/XMLSchema#integer</datatype>
+<value>1832</value>
+</released>
+<wikilink>
+<type>uri</type>
+<value>http://en.wikipedia.org/wiki/Illustrations_of_the_Family_of_the_Psittacidae,_or_Parrots?oldid=593172186</value>
+</wikilink>
+</XML_Serializer_Tag>
+</books>
 </Person>

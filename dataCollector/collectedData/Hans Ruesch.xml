@@ -1,0 +1,28 @@
+<Person>
+<name>Hans Ruesch</name>
+<variantName>
+<XML_Serializer_Tag>Hans Rüsch</XML_Serializer_Tag>
+</variantName>
+<thumbnail>https://commons.wikimedia.org/wiki/Special:FilePath/Hans_Ruesch.jpg?width=270</thumbnail>
+<birthEN>May 17, 1913</birthEN>
+<birthDE>17. Mai 1913</birthDE>
+<deathEN>August 27, 2007</deathEN>
+<deathDE>27. August 2007</deathDE>
+<birthPlace>
+<XML_Serializer_Tag>Neapel</XML_Serializer_Tag>
+</birthPlace>
+<deathPlace>
+<XML_Serializer_Tag>Massagno</XML_Serializer_Tag>
+</deathPlace>
+<professionOrOccupation>
+<XML_Serializer_Tag>Rennfahrer</XML_Serializer_Tag>
+<XML_Serializer_Tag>Publizist</XML_Serializer_Tag>
+<XML_Serializer_Tag>Schriftsteller</XML_Serializer_Tag>
+</professionOrOccupation>
+<dbpResource>http://dbpedia.org/resource/Hans_Ruesch</dbpResource>
+<abstract>Hans Ruesch (* 17. Mai 1913 in Neapel, Italien; † 27. August 2007 in Massagno bei Lugano, Schweiz) war ein Schweizer Rennfahrer, Publizist und Schriftsteller.</abstract>
+<wikilink>http://en.wikipedia.org/wiki/Hans_Ruesch?oldid=603937750</wikilink>
+<artworks />
+<buildings />
+<books />
+</Person>

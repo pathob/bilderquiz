@@ -19,8 +19,10 @@
 <XML_Serializer_Tag>Kunsthistoriker</XML_Serializer_Tag>
 <XML_Serializer_Tag>Bildhauer</XML_Serializer_Tag>
 </professionOrOccupation>
-<artworks />
 <dbpResource>http://dbpedia.org/resource/Hermann_Prell</dbpResource>
 <abstract>Hermann Prell (* 29. April 1854 in Leipzig; † 18. Mai 1922 in Loschwitz/seit 1922 Stadtteil von Dresden) war ein deutscher Bildhauer, Historien- und Monumentalmaler sowie Professor an der Akademie der Bildenden Künste in Dresden.</abstract>
 <wikilink>http://en.wikipedia.org/wiki/Hermann_Prell?oldid=602450293</wikilink>
+<artworks />
+<buildings />
+<books />
 </Person>

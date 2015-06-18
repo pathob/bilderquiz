@@ -1,0 +1,27 @@
+<Person>
+<name>Hans Grimm</name>
+<variantName>
+<XML_Serializer_Tag>Hans Emil Wilhelm Grimm</XML_Serializer_Tag>
+<XML_Serializer_Tag>ハンス・グリム</XML_Serializer_Tag>
+</variantName>
+<thumbnail>https://commons.wikimedia.org/wiki/Special:FilePath/Bundesarchiv_Bild_183-S61180,_Hans_Grimm.jpg?width=270</thumbnail>
+<birthEN>March 22, 1875</birthEN>
+<birthDE>22. März 1875</birthDE>
+<deathEN>September 27, 1959</deathEN>
+<deathDE>27. September 1959</deathDE>
+<birthPlace>
+<XML_Serializer_Tag>Wiesbaden</XML_Serializer_Tag>
+</birthPlace>
+<deathPlace>
+<XML_Serializer_Tag>Lippoldsberg</XML_Serializer_Tag>
+</deathPlace>
+<professionOrOccupation>
+<XML_Serializer_Tag>Schriftsteller</XML_Serializer_Tag>
+</professionOrOccupation>
+<dbpResource>http://dbpedia.org/resource/Hans_Grimm</dbpResource>
+<abstract>Hans Emil Wilhelm Grimm (* 22. März 1875 in Wiesbaden; † 27. September 1959 in Lippoldsberg an der Weser) war ein deutscher Schriftsteller und Publizist. Sein Buchtitel „Volk ohne Raum“ wurde das Motto der nationalsozialistischen Expansionspolitik.</abstract>
+<wikilink>http://en.wikipedia.org/wiki/Hans_Grimm?oldid=580763233</wikilink>
+<artworks />
+<buildings />
+<books />
+</Person>

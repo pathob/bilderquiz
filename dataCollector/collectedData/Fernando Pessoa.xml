@@ -1,0 +1,78 @@
+<Person>
+<name>Fernando Pessoa</name>
+<variantName>
+<XML_Serializer_Tag>Fernando António Nogueira de Seabra Pessoa</XML_Serializer_Tag>
+<XML_Serializer_Tag>Fernando A. Pessoa</XML_Serializer_Tag>
+<XML_Serializer_Tag>Fernando Pessoa Ferreira</XML_Serializer_Tag>
+<XML_Serializer_Tag>Charles Robert Anon</XML_Serializer_Tag>
+<XML_Serializer_Tag>Fernando A. de Campos Pessoa</XML_Serializer_Tag>
+<XML_Serializer_Tag>A. A. Crosse</XML_Serializer_Tag>
+<XML_Serializer_Tag>Thomas Crosse</XML_Serializer_Tag>
+<XML_Serializer_Tag>Fernando P. Ferreira</XML_Serializer_Tag>
+<XML_Serializer_Tag>Vicente Guedes</XML_Serializer_Tag>
+<XML_Serializer_Tag>António Mora</XML_Serializer_Tag>
+<XML_Serializer_Tag>Fernando António Nogueira de Seabra Pessoa</XML_Serializer_Tag>
+<XML_Serializer_Tag>Fernando Antonio Nogueira Pessoa</XML_Serializer_Tag>
+<XML_Serializer_Tag>Fernando A. Nogueira Pessoa</XML_Serializer_Tag>
+<XML_Serializer_Tag>A. Pacheco</XML_Serializer_Tag>
+<XML_Serializer_Tag>C. Pacheco</XML_Serializer_Tag>
+<XML_Serializer_Tag>Pantaleão</XML_Serializer_Tag>
+<XML_Serializer_Tag>Fernando A. Reis de Campos Pessoa</XML_Serializer_Tag>
+<XML_Serializer_Tag>Fernando António Nogueira de Seabra Pessoa</XML_Serializer_Tag>
+<XML_Serializer_Tag>Charles Search</XML_Serializer_Tag>
+<XML_Serializer_Tag>Alexander Search</XML_Serializer_Tag>
+<XML_Serializer_Tag>Jean Seul</XML_Serializer_Tag>
+<XML_Serializer_Tag>Jean Seul de Méluret</XML_Serializer_Tag>
+<XML_Serializer_Tag>Bernardo Soares</XML_Serializer_Tag>
+<XML_Serializer_Tag>... de Teive</XML_Serializer_Tag>
+<XML_Serializer_Tag>, Baron</XML_Serializer_Tag>
+<XML_Serializer_Tag>Alberto Caeira</XML_Serializer_Tag>
+<XML_Serializer_Tag>Alberto Caeiro</XML_Serializer_Tag>
+<XML_Serializer_Tag>Ricardo Reis</XML_Serializer_Tag>
+<XML_Serializer_Tag>Álvaro de Campos</XML_Serializer_Tag>
+</variantName>
+<thumbnail>https://commons.wikimedia.org/wiki/Special:FilePath/Fernando-pessoa1.jpg?width=270</thumbnail>
+<birthEN>June 13, 1888</birthEN>
+<birthDE>13. Juni 1888</birthDE>
+<deathEN>November 30, 1935</deathEN>
+<deathDE>30. November 1935</deathDE>
+<birthPlace>
+<XML_Serializer_Tag>Lissabon</XML_Serializer_Tag>
+</birthPlace>
+<deathPlace>
+<XML_Serializer_Tag>Lissabon</XML_Serializer_Tag>
+</deathPlace>
+<professionOrOccupation>
+<XML_Serializer_Tag>Schriftsteller</XML_Serializer_Tag>
+<XML_Serializer_Tag>Lyriker</XML_Serializer_Tag>
+<XML_Serializer_Tag>Literaturkritiker</XML_Serializer_Tag>
+<XML_Serializer_Tag>Verleger</XML_Serializer_Tag>
+<XML_Serializer_Tag>Handelskorrespondent</XML_Serializer_Tag>
+</professionOrOccupation>
+<dbpResource>http://dbpedia.org/resource/Fernando_Pessoa</dbpResource>
+<abstract>Fernando Pessoa [fɨɾˈnɐ̃du pɨˈsoɐ] (* 13. Juni 1888 in Lissabon; † 30. November 1935 ebenda), eigentlich Fernando António Nogueira de Seabra Pessoa, war ein portugiesischer Dichter, Schriftsteller, Angestellter eines Handelshauses und Geisteswissenschaftler. Er verfasste seine Werke hauptsächlich unter den drei Heteronymen Alberto Caeiro, Ricardo Reis, Álvaro de Campos und dem Halb-Heteronym Bernardo Soares. Weitere Heteronyme Pessoas waren die Brüder Charles James und Alexander Search.Pessoa gilt nach Luís de Camões als bedeutendster Lyriker Portugals; er ist einer der wichtigsten Dichter der portugiesischen Sprache und gehört zu den bedeutendsten Autoren des 20. Jahrhunderts.</abstract>
+<wikilink>http://en.wikipedia.org/wiki/Fernando_Pessoa?oldid=606004710</wikilink>
+<artworks />
+<buildings />
+<books>
+<XML_Serializer_Tag>
+<book>
+<type>uri</type>
+<value>http://dbpedia.org/resource/35_Sonnets</value>
+</book>
+<author>
+<type>uri</type>
+<value>http://dbpedia.org/resource/Fernando_Pessoa</value>
+</author>
+<published>
+<type>typed-literal</type>
+<datatype>http://www.w3.org/2001/XMLSchema#integer</datatype>
+<value>1918</value>
+</published>
+<wikilink>
+<type>uri</type>
+<value>http://en.wikipedia.org/wiki/35_Sonnets?oldid=587791677</value>
+</wikilink>
+</XML_Serializer_Tag>
+</books>
+</Person>

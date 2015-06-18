@@ -1,0 +1,147 @@
+<Person>
+<name>Chinua Achebe</name>
+<variantName>
+<XML_Serializer_Tag>Chinua Achebe</XML_Serializer_Tag>
+<XML_Serializer_Tag>Albert Chinua Achebe</XML_Serializer_Tag>
+<XML_Serializer_Tag>Chinualumogu Albert Achebe</XML_Serializer_Tag>
+<XML_Serializer_Tag>Činua Ačebe</XML_Serializer_Tag>
+<XML_Serializer_Tag>Chnua Achebe</XML_Serializer_Tag>
+<XML_Serializer_Tag>Albert Chinualumogu</XML_Serializer_Tag>
+</variantName>
+<thumbnail>https://commons.wikimedia.org/wiki/Special:FilePath/Chinua_Achebe_-_Buffalo_25Sep2008_crop.jpg?width=270</thumbnail>
+<birthEN>November 16, 1930</birthEN>
+<birthDE>16. November 1930</birthDE>
+<deathEN>March 22, 2013</deathEN>
+<deathDE>22. März 2013</deathDE>
+<birthPlace>
+<XML_Serializer_Tag>Ogidi, Nigeria</XML_Serializer_Tag>
+</birthPlace>
+<deathPlace>
+<XML_Serializer_Tag>Boston, Mass.</XML_Serializer_Tag>
+</deathPlace>
+<professionOrOccupation>
+<XML_Serializer_Tag>Schriftsteller</XML_Serializer_Tag>
+<XML_Serializer_Tag>Drehbuchautor</XML_Serializer_Tag>
+</professionOrOccupation>
+<dbpResource>http://dbpedia.org/resource/Chinua_Achebe</dbpResource>
+<abstract>Albert Chinụalụmọgụ „Chinua“ Achebe (* 16. November 1930 in Ogidi, Nigeria; † 21. März 2013 in Boston, USA) war ein nigerianischer Schriftsteller, der in englischer Sprache schrieb. Der Name Chinụalụmọgụ stammt aus der Igbo-Sprache und bedeutet „Gott kämpft zu meinen Gunsten“. Er gilt als einer der Väter der modernen afrikanischen Literatur.</abstract>
+<wikilink>http://en.wikipedia.org/wiki/Chinua_Achebe?oldid=605325484</wikilink>
+<artworks />
+<buildings />
+<books>
+<XML_Serializer_Tag>
+<book>
+<type>uri</type>
+<value>http://dbpedia.org/resource/A_Man_of_the_People</value>
+</book>
+<author>
+<type>uri</type>
+<value>http://dbpedia.org/resource/Chinua_Achebe</value>
+</author>
+<released>
+<type>typed-literal</type>
+<datatype>http://www.w3.org/2001/XMLSchema#integer</datatype>
+<value>1966</value>
+</released>
+<wikilink>
+<type>uri</type>
+<value>http://en.wikipedia.org/wiki/A_Man_of_the_People?oldid=594388609</value>
+</wikilink>
+</XML_Serializer_Tag>
+<XML_Serializer_Tag>
+<book>
+<type>uri</type>
+<value>http://dbpedia.org/resource/Anthills_of_the_Savannah</value>
+</book>
+<author>
+<type>uri</type>
+<value>http://dbpedia.org/resource/Chinua_Achebe</value>
+</author>
+<released>
+<type>typed-literal</type>
+<datatype>http://www.w3.org/2001/XMLSchema#integer</datatype>
+<value>1987</value>
+</released>
+<wikilink>
+<type>uri</type>
+<value>http://en.wikipedia.org/wiki/Anthills_of_the_Savannah?oldid=583875575</value>
+</wikilink>
+</XML_Serializer_Tag>
+<XML_Serializer_Tag>
+<book>
+<type>uri</type>
+<value>http://dbpedia.org/resource/No_Longer_at_Ease</value>
+</book>
+<author>
+<type>uri</type>
+<value>http://dbpedia.org/resource/Chinua_Achebe</value>
+</author>
+<released>
+<type>typed-literal</type>
+<datatype>http://www.w3.org/2001/XMLSchema#integer</datatype>
+<value>1960</value>
+</released>
+<wikilink>
+<type>uri</type>
+<value>http://en.wikipedia.org/wiki/No_Longer_at_Ease?oldid=606317499</value>
+</wikilink>
+</XML_Serializer_Tag>
+<XML_Serializer_Tag>
+<book>
+<type>uri</type>
+<value>http://dbpedia.org/resource/Arrow_of_God</value>
+</book>
+<author>
+<type>uri</type>
+<value>http://dbpedia.org/resource/Chinua_Achebe</value>
+</author>
+<released>
+<type>typed-literal</type>
+<datatype>http://www.w3.org/2001/XMLSchema#integer</datatype>
+<value>1964</value>
+</released>
+<wikilink>
+<type>uri</type>
+<value>http://en.wikipedia.org/wiki/Arrow_of_God?oldid=595098725</value>
+</wikilink>
+</XML_Serializer_Tag>
+<XML_Serializer_Tag>
+<book>
+<type>uri</type>
+<value>http://dbpedia.org/resource/Chike_and_the_River</value>
+</book>
+<author>
+<type>uri</type>
+<value>http://dbpedia.org/resource/Chinua_Achebe</value>
+</author>
+<released>
+<type>typed-literal</type>
+<datatype>http://www.w3.org/2001/XMLSchema#integer</datatype>
+<value>1966</value>
+</released>
+<wikilink>
+<type>uri</type>
+<value>http://en.wikipedia.org/wiki/Chike_and_the_River?oldid=585689699</value>
+</wikilink>
+</XML_Serializer_Tag>
+<XML_Serializer_Tag>
+<book>
+<type>uri</type>
+<value>http://dbpedia.org/resource/Things_Fall_Apart</value>
+</book>
+<author>
+<type>uri</type>
+<value>http://dbpedia.org/resource/Chinua_Achebe</value>
+</author>
+<wikilink>
+<type>uri</type>
+<value>http://en.wikipedia.org/wiki/Things_Fall_Apart?oldid=606259314</value>
+</wikilink>
+<abstract>
+<type>literal</type>
+<xml:lang>de</xml:lang>
+<value>Things Fall Apart (deutsch: Okonkwo oder Das Alte stürzt) ist der erste Roman des nigerianischen Schriftstellers Chinua Achebe. Er erschien 1958 und wurde zu einem Meilenstein und zugleich Klassiker der afrikanischen Literatur. Bis heute ist er das meistgelesene Buch eines afrikanischen Autors. Der Roman schildert am Beispiel eines Igbo-Dorfes auf tragische Weise, wie eine nach althergebrachten, patriarchalen Regeln funktionierende afrikanische Gesellschaft durch das Eindringen christlicher Missionare und kolonialer Herrschaft zerfällt. Ein Jahr nach dem Erscheinen wurde der Band bereits in deutscher Übersetzung unter dem Titel „Okonkwo oder Das Alte stürzt“ aufgelegt.</value>
+</abstract>
+</XML_Serializer_Tag>
+</books>
+</Person>

@@ -1,0 +1,28 @@
+<Person>
+<name>Auguste Schmidt</name>
+<variantName>
+<XML_Serializer_Tag>Friederike Wilhelmine Auguste Schmidt</XML_Serializer_Tag>
+</variantName>
+<thumbnail>https://de.wikipedia.org/wiki/Special:FilePath/AugusteSchmidt.jpg?width=270</thumbnail>
+<birthEN>August 3, 1833</birthEN>
+<birthDE>3. August 1833</birthDE>
+<deathEN>June 10, 1902</deathEN>
+<deathDE>10. Juni 1902</deathDE>
+<birthPlace>
+<XML_Serializer_Tag>Breslau</XML_Serializer_Tag>
+</birthPlace>
+<deathPlace>
+<XML_Serializer_Tag>Leipzig</XML_Serializer_Tag>
+</deathPlace>
+<professionOrOccupation>
+<XML_Serializer_Tag>Lehrerin</XML_Serializer_Tag>
+<XML_Serializer_Tag>Schulleiterin</XML_Serializer_Tag>
+<XML_Serializer_Tag>Schriftstellerin</XML_Serializer_Tag>
+</professionOrOccupation>
+<dbpResource>http://dbpedia.org/resource/Auguste_Schmidt</dbpResource>
+<abstract>Auguste Schmidt (Friederike Wilhelmine Auguste Schmidt; * 3. August 1833 in Breslau; † 10. Juni 1902 in Leipzig) war eine deutsche Lehrerin und Schriftstellerin, die 1865 gemeinsam mit Louise Otto-Peters den Allgemeinen Deutschen Frauenverein (ADF) gründete. Sie engagierte sich vor allem für die Mädchenbildung und die Rechte von Frauen.</abstract>
+<wikilink>http://en.wikipedia.org/wiki/Auguste_Schmidt?oldid=589943381</wikilink>
+<artworks />
+<buildings />
+<books />
+</Person>

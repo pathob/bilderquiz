@@ -20,8 +20,10 @@
 <XML_Serializer_Tag>Radierer</XML_Serializer_Tag>
 <XML_Serializer_Tag>Zeichner</XML_Serializer_Tag>
 </professionOrOccupation>
-<artworks />
 <dbpResource>http://dbpedia.org/resource/Adriaen_van_Ostade</dbpResource>
 <abstract>Adriaen van Ostade (* 10. Dezember 1610 in Haarlem; † 1685 begraben am 2. Mai 1685 in Haarlem; Geburtsname Adriaen Hendricx) war ein niederländischer Maler und Radierer. Isaac van Ostade war sein Bruder und Schüler.</abstract>
 <wikilink>http://en.wikipedia.org/wiki/Adriaen_van_Ostade?oldid=606385399</wikilink>
+<artworks />
+<buildings />
+<books />
 </Person>

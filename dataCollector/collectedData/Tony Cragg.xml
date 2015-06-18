@@ -1,0 +1,25 @@
+<Person>
+<name>Tony Cragg</name>
+<variantName>
+<XML_Serializer_Tag>Anthony Cragg</XML_Serializer_Tag>
+</variantName>
+<thumbnail>https://commons.wikimedia.org/wiki/Special:FilePath/Cragg_tony_skulptur_ferryman_1997_bronzeguss_wien_bank_für_arbeit_u_wirtschaft.jpg?width=270</thumbnail>
+<birthEN>1949</birthEN>
+<birthDE>1949</birthDE>
+<deathEN />
+<deathDE />
+<birthPlace>
+<XML_Serializer_Tag>Liverpool</XML_Serializer_Tag>
+</birthPlace>
+<deathPlace />
+<professionOrOccupation>
+<XML_Serializer_Tag>Bildhauer</XML_Serializer_Tag>
+<XML_Serializer_Tag>Künstler</XML_Serializer_Tag>
+</professionOrOccupation>
+<dbpResource>http://dbpedia.org/resource/Tony_Cragg</dbpResource>
+<abstract>Tony Cragg, eigentlich Anthony Douglas Cragg (* 9. April 1949 in Liverpool) ist ein englischer bildender Künstler. Bis Ende Juli 2013 war Cragg Rektor der Kunstakademie Düsseldorf.</abstract>
+<wikilink>http://en.wikipedia.org/wiki/Tony_Cragg?oldid=601681553</wikilink>
+<artworks />
+<buildings />
+<books />
+</Person>

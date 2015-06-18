@@ -1,0 +1,28 @@
+<Person>
+<name>Georg Friedrich Daumer</name>
+<variantName>
+<XML_Serializer_Tag>Friedrich Daumer</XML_Serializer_Tag>
+<XML_Serializer_Tag>Eusebius Emmeran</XML_Serializer_Tag>
+<XML_Serializer_Tag>Georg Daumer</XML_Serializer_Tag>
+<XML_Serializer_Tag>G. Fr. Daumer</XML_Serializer_Tag>
+<XML_Serializer_Tag>Georg F. Daumer</XML_Serializer_Tag>
+</variantName>
+<thumbnail>https://commons.wikimedia.org/wiki/Special:FilePath/Daumer.jpg?width=270</thumbnail>
+<birthEN>March 5, 1800</birthEN>
+<birthDE>5. März 1800</birthDE>
+<deathEN>December 13, 1875</deathEN>
+<deathDE>13. Dezember 1875</deathDE>
+<birthPlace />
+<deathPlace />
+<professionOrOccupation>
+<XML_Serializer_Tag>Schriftsteller</XML_Serializer_Tag>
+<XML_Serializer_Tag>Lehrer</XML_Serializer_Tag>
+<XML_Serializer_Tag>Philosoph</XML_Serializer_Tag>
+</professionOrOccupation>
+<dbpResource>http://dbpedia.org/resource/Georg_Friedrich_Daumer</dbpResource>
+<abstract>Georg Friedrich Daumer (* 5. März 1800 in Nürnberg; † 13. Dezember 1875 in Würzburg, Pseudonym: Amadeus Ottokar, Eusebius Emmeran) war ein deutscher Religionsphilosoph und Lyriker. Bekannt wurde er auch als Erzieher von Kaspar Hauser.</abstract>
+<wikilink>http://en.wikipedia.org/wiki/Georg_Friedrich_Daumer?oldid=598671332</wikilink>
+<artworks />
+<buildings />
+<books />
+</Person>

@@ -1,0 +1,27 @@
+<Person>
+<name>Karl Stieler</name>
+<variantName>
+<XML_Serializer_Tag>Carl Stieler</XML_Serializer_Tag>
+</variantName>
+<thumbnail>https://commons.wikimedia.org/wiki/Special:FilePath/Karl_Stieler_F._Hanfstängl.png?width=270</thumbnail>
+<birthEN>December 15, 1842</birthEN>
+<birthDE>15. Dezember 1842</birthDE>
+<deathEN>April 12, 1885</deathEN>
+<deathDE>12. April 1885</deathDE>
+<birthPlace>
+<XML_Serializer_Tag>München</XML_Serializer_Tag>
+</birthPlace>
+<deathPlace />
+<professionOrOccupation>
+<XML_Serializer_Tag>Mundartschriftsteller</XML_Serializer_Tag>
+<XML_Serializer_Tag>Jurist</XML_Serializer_Tag>
+<XML_Serializer_Tag>Schriftsteller</XML_Serializer_Tag>
+<XML_Serializer_Tag>Archivar</XML_Serializer_Tag>
+</professionOrOccupation>
+<dbpResource>http://dbpedia.org/resource/Karl_Stieler</dbpResource>
+<abstract>Karl Stieler (* 15. Dezember 1842 in München; † 12. April 1885 ebenda) war ein deutscher Dichter mit Wirkungsschwerpunkt in Bayern, der beruflich auch als Archivar und Jurist tätig war. Neben Gedichten in bayerischer Mundart und hochdeutscher Lyrik schrieb er auch Reise- und Landschaftsschilderungen, kulturgeschichtliche Vorträge und politische Aufsätze. Größere Gattungen wie Roman oder Drama fehlen dagegen in seinem Werk. Als Anhänger fortschrittlicher, national-liberaler Strömungen war er auch politisch engagiert. Sein plötzlicher Tod mit nur 42 Jahren kam einer – teils bereits geplanten – Weiterführung seines Werkes zuvor.</abstract>
+<wikilink>http://en.wikipedia.org/wiki/Karl_Stieler?oldid=570912048</wikilink>
+<artworks />
+<buildings />
+<books />
+</Person>

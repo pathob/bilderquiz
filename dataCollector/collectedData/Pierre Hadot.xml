@@ -1,0 +1,23 @@
+<Person>
+<name>Pierre Hadot</name>
+<variantName>
+<XML_Serializer_Tag>Petrus Hadot</XML_Serializer_Tag>
+<XML_Serializer_Tag>P. Hadot</XML_Serializer_Tag>
+</variantName>
+<thumbnail>https://commons.wikimedia.org/wiki/Special:FilePath/PierreHadot.jpg?width=270</thumbnail>
+<birthEN>February 21, 1922</birthEN>
+<birthDE>21. Februar 1922</birthDE>
+<deathEN>April 25, 2010</deathEN>
+<deathDE>25. April 2010</deathDE>
+<birthPlace />
+<deathPlace />
+<professionOrOccupation>
+<XML_Serializer_Tag>Philosoph</XML_Serializer_Tag>
+</professionOrOccupation>
+<dbpResource>http://dbpedia.org/resource/Pierre_Hadot</dbpResource>
+<abstract>Pierre Hadot (* 21. Februar 1922 in Paris; † 25. April 2010 in Orsay, Département Essonne, Frankreich) war ein französischer Philosoph und Historiker.</abstract>
+<wikilink>http://en.wikipedia.org/wiki/Pierre_Hadot?oldid=603529445</wikilink>
+<artworks />
+<buildings />
+<books />
+</Person>

@@ -1,0 +1,28 @@
+<Person>
+<name>Albert Norden</name>
+<variantName>
+<XML_Serializer_Tag>Hans Behrend</XML_Serializer_Tag>
+<XML_Serializer_Tag>... Konrad</XML_Serializer_Tag>
+</variantName>
+<thumbnail>https://commons.wikimedia.org/wiki/Special:FilePath/Bundesarchiv_Bild_183-B0917-0008-001,_Albert_Norden.jpg?width=270</thumbnail>
+<birthEN>December 4, 1904</birthEN>
+<birthDE>4. Dezember 1904</birthDE>
+<deathEN>May 30, 1982</deathEN>
+<deathDE>30. Mai 1982</deathDE>
+<birthPlace>
+<XML_Serializer_Tag>Myslowitz</XML_Serializer_Tag>
+</birthPlace>
+<deathPlace>
+<XML_Serializer_Tag>Berlin</XML_Serializer_Tag>
+</deathPlace>
+<professionOrOccupation>
+<XML_Serializer_Tag>Politiker</XML_Serializer_Tag>
+<XML_Serializer_Tag>Schriftsteller</XML_Serializer_Tag>
+</professionOrOccupation>
+<dbpResource>http://dbpedia.org/resource/Albert_Norden</dbpResource>
+<abstract>Albert Norden (* 4. Dezember 1904 in Myslowitz, Landkreis Kattowitz; † 30. Mai 1982 in Berlin) war ein deutscher Journalist und Politiker der KPD und SED.</abstract>
+<wikilink>http://en.wikipedia.org/wiki/Albert_Norden?oldid=590522047</wikilink>
+<artworks />
+<buildings />
+<books />
+</Person>

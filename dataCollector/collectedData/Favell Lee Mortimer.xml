@@ -1,0 +1,27 @@
+<Person>
+<name>Favell Lee Mortimer</name>
+<variantName>
+<XML_Serializer_Tag>Favell Lee Bevan</XML_Serializer_Tag>
+<XML_Serializer_Tag>F. L. Bevan</XML_Serializer_Tag>
+</variantName>
+<thumbnail>https://commons.wikimedia.org/wiki/Special:FilePath/Favell_Lee_Mortimer.jpg?width=270</thumbnail>
+<birthEN>July 14, 1802</birthEN>
+<birthDE>14. Juli 1802</birthDE>
+<deathEN>August 22, 1878</deathEN>
+<deathDE>22. August 1878</deathDE>
+<birthPlace>
+<XML_Serializer_Tag>London</XML_Serializer_Tag>
+</birthPlace>
+<deathPlace>
+<XML_Serializer_Tag>West Runton</XML_Serializer_Tag>
+</deathPlace>
+<professionOrOccupation>
+<XML_Serializer_Tag>Schriftstellerin</XML_Serializer_Tag>
+</professionOrOccupation>
+<dbpResource>http://dbpedia.org/resource/Favell_Lee_Mortimer</dbpResource>
+<abstract>Favell Lee Mortimer (* 14. Juli 1802 in London; † 22. August 1878, gebürtige Favell Lee Bevan) war eine englische Autorin von Sachbüchern für Kinder.</abstract>
+<wikilink>http://en.wikipedia.org/wiki/Favell_Lee_Mortimer?oldid=590827424</wikilink>
+<artworks />
+<buildings />
+<books />
+</Person>

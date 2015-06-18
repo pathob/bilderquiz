@@ -14,8 +14,10 @@
 <professionOrOccupation>
 <XML_Serializer_Tag>Maler</XML_Serializer_Tag>
 </professionOrOccupation>
-<artworks />
 <dbpResource>http://dbpedia.org/resource/Dosso_Dossi</dbpResource>
 <abstract>Dosso Dossi (eigentlich Giovanni di Niccolò de’ Luteri; * um 1480–90 in Ferrara; † 1542 in Ferrara) war ein italienischer Maler. Er gilt als bedeutendster Vertreter der ferraresischen Kunst der späten Renaissance.</abstract>
 <wikilink>http://en.wikipedia.org/wiki/Dosso_Dossi?oldid=602499168</wikilink>
+<artworks />
+<buildings />
+<books />
 </Person>

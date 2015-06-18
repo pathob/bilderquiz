@@ -1,0 +1,35 @@
+<Person>
+<name>Theodor Hell</name>
+<variantName>
+<XML_Serializer_Tag>Th. Hell</XML_Serializer_Tag>
+<XML_Serializer_Tag>Theodor von Hell</XML_Serializer_Tag>
+<XML_Serializer_Tag>Teodoro Hell</XML_Serializer_Tag>
+</variantName>
+<thumbnail>https://commons.wikimedia.org/wiki/Special:FilePath/Theodor_Hell.jpg?width=270</thumbnail>
+<birthEN>February 7, 1775</birthEN>
+<birthDE>7. Februar 1775</birthDE>
+<deathEN>September 24, 1856</deathEN>
+<deathDE>24. September 1856</deathDE>
+<birthPlace>
+<XML_Serializer_Tag>Waldenburg/Sachsen</XML_Serializer_Tag>
+</birthPlace>
+<deathPlace>
+<XML_Serializer_Tag>Dresden</XML_Serializer_Tag>
+</deathPlace>
+<professionOrOccupation>
+<XML_Serializer_Tag>Schriftsteller</XML_Serializer_Tag>
+<XML_Serializer_Tag>Lyriker</XML_Serializer_Tag>
+<XML_Serializer_Tag>Dramatiker</XML_Serializer_Tag>
+<XML_Serializer_Tag>Theaterintendant</XML_Serializer_Tag>
+<XML_Serializer_Tag>Übersetzer</XML_Serializer_Tag>
+<XML_Serializer_Tag>Jurist</XML_Serializer_Tag>
+<XML_Serializer_Tag>Hofrat</XML_Serializer_Tag>
+<XML_Serializer_Tag>Intendanzrat</XML_Serializer_Tag>
+</professionOrOccupation>
+<dbpResource>http://dbpedia.org/resource/Theodor_Hell</dbpResource>
+<abstract>Theodor Hell, Pseudonym für Karl Gottfried Theodor Winkler (* 9. Februar 1775 in Waldenburg; † 24. September 1856 in Dresden) war ein deutscher Schriftsteller, Dichter, Übersetzer und Publizist.</abstract>
+<wikilink>http://en.wikipedia.org/wiki/Theodor_Hell?oldid=600235130</wikilink>
+<artworks />
+<buildings />
+<books />
+</Person>

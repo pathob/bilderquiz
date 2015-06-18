@@ -1,0 +1,33 @@
+<Person>
+<name>Felix Weltsch</name>
+<variantName>
+<XML_Serializer_Tag>... Weltsch</XML_Serializer_Tag>
+<XML_Serializer_Tag>F. Welṭš</XML_Serializer_Tag>
+<XML_Serializer_Tag>Feliks Ṿelṭsh.</XML_Serializer_Tag>
+<XML_Serializer_Tag>Barukh-Feliks Ṿelṭsh.</XML_Serializer_Tag>
+<XML_Serializer_Tag>Felix WLṬŠ</XML_Serializer_Tag>
+<XML_Serializer_Tag>Barukh-Feliḳs Ṿelṭsh</XML_Serializer_Tag>
+</variantName>
+<thumbnail>https://commons.wikimedia.org/wiki/Special:FilePath/Felix_Weltsch.jpg?width=270</thumbnail>
+<birthEN>1884</birthEN>
+<birthDE>1884</birthDE>
+<deathEN>1964</deathEN>
+<deathDE>1964</deathDE>
+<birthPlace>
+<XML_Serializer_Tag>Prag</XML_Serializer_Tag>
+</birthPlace>
+<deathPlace>
+<XML_Serializer_Tag>Jerusalem</XML_Serializer_Tag>
+</deathPlace>
+<professionOrOccupation>
+<XML_Serializer_Tag>Philosoph</XML_Serializer_Tag>
+<XML_Serializer_Tag>Bibliothekar</XML_Serializer_Tag>
+<XML_Serializer_Tag>Journalist</XML_Serializer_Tag>
+</professionOrOccupation>
+<dbpResource>http://dbpedia.org/resource/Felix_Weltsch</dbpResource>
+<abstract>Felix Weltsch (* 6. Oktober 1884 in Prag, damals Österreich-Ungarn; † 9. November 1964 in Jerusalem), Dr. jur. u. phil., war ein böhmisch-israelischer Journalist, Schriftsteller, Philosoph und Bibliothekar.</abstract>
+<wikilink>http://en.wikipedia.org/wiki/Felix_Weltsch?oldid=592384989</wikilink>
+<artworks />
+<buildings />
+<books />
+</Person>

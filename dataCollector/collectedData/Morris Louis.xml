@@ -14,8 +14,10 @@
 <professionOrOccupation>
 <XML_Serializer_Tag>Maler</XML_Serializer_Tag>
 </professionOrOccupation>
-<artworks />
 <dbpResource>http://dbpedia.org/resource/Morris_Louis</dbpResource>
 <abstract>Morris Louis (* 28. November 1912 in Baltimore, Maryland; † 7. September 1962 in Washington, D.C.; eigentlich Morris Louis Bernstein) war ein US-amerikanischer Maler. Seine Werke sind ein wichtiges Beispiel der Farbfeldmalerei.</abstract>
 <wikilink>http://en.wikipedia.org/wiki/Morris_Louis?oldid=596096981</wikilink>
+<artworks />
+<buildings />
+<books />
 </Person>

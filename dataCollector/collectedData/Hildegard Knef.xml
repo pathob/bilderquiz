@@ -1,0 +1,35 @@
+<Person>
+<name>Hildegard Knef</name>
+<variantName>
+<XML_Serializer_Tag>Hildegard Frieda Albertine Knef</XML_Serializer_Tag>
+<XML_Serializer_Tag>Hildegard Hirsch</XML_Serializer_Tag>
+<XML_Serializer_Tag>Hildegard Cameron</XML_Serializer_Tag>
+<XML_Serializer_Tag>Hildegard Schell</XML_Serializer_Tag>
+<XML_Serializer_Tag>Hildegarde Neff</XML_Serializer_Tag>
+<XML_Serializer_Tag>Hildegard Frieda Albertine Knef</XML_Serializer_Tag>
+<XML_Serializer_Tag>Hildegarde Neff</XML_Serializer_Tag>
+</variantName>
+<thumbnail>https://commons.wikimedia.org/wiki/Special:FilePath/Knef_1995.jpg?width=270</thumbnail>
+<birthEN>December 28, 1925</birthEN>
+<birthDE>28. Dezember 1925</birthDE>
+<deathEN>February 1, 2002</deathEN>
+<deathDE>1. Februar 2002</deathDE>
+<birthPlace>
+<XML_Serializer_Tag>Ulm</XML_Serializer_Tag>
+</birthPlace>
+<deathPlace>
+<XML_Serializer_Tag>Berlin</XML_Serializer_Tag>
+</deathPlace>
+<professionOrOccupation>
+<XML_Serializer_Tag>Sängerin</XML_Serializer_Tag>
+<XML_Serializer_Tag>Schriftstellerin</XML_Serializer_Tag>
+<XML_Serializer_Tag>Musikerin</XML_Serializer_Tag>
+<XML_Serializer_Tag>Schauspielerin</XML_Serializer_Tag>
+</professionOrOccupation>
+<dbpResource>http://dbpedia.org/resource/Hildegard_Knef</dbpResource>
+<abstract>Hildegard Knef [kneːf] (* 28. Dezember 1925 in Ulm als Hildegard Frieda Albertine Knef; † 1. Februar 2002 in Berlin) war eine deutsche Schauspielerin, Chansonsängerin und Autorin. Von 1948 bis circa 1968 nannte sie sich außerhalb des deutschsprachigen Raumes Hildegarde Neff.</abstract>
+<wikilink>http://en.wikipedia.org/wiki/Hildegard_Knef?oldid=606408876</wikilink>
+<artworks />
+<buildings />
+<books />
+</Person>

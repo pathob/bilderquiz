@@ -15,8 +15,10 @@
 <professionOrOccupation>
 <XML_Serializer_Tag>Maler</XML_Serializer_Tag>
 </professionOrOccupation>
-<artworks />
 <dbpResource>http://dbpedia.org/resource/Eduard_Magnus</dbpResource>
 <abstract>Eduard Magnus (* 7. Januar 1799 in Berlin; † 8. August 1872 ebenda), war zu seiner Zeit einer der meistbeschäftigten und gefeiertsten Bildnismaler in Berlin. Dank seines hohen Ansehens und der herausragenden Stellung der Magnus-Familie gehörte er zu den einflussreichen Mitgliedern verschiedener Kunstkommissionen. Seine Bilder sind Bestandteile der Sammlungen Nationalgalerie Berlin, Eremitage (Sankt Petersburg), National Portrait Gallery (London), Thorvaldsen Museum, Kopenhagen. Der größte Teil befindet sich jedoch in Privatbesitz. Etliche Bilder sind in den Wirren der Jahre 1942–1945 verschollen.</abstract>
 <wikilink>http://en.wikipedia.org/wiki/Eduard_Magnus?oldid=591153909</wikilink>
+<artworks />
+<buildings />
+<books />
 </Person>

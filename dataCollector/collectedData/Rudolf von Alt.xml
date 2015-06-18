@@ -21,8 +21,10 @@
 <XML_Serializer_Tag>Maler</XML_Serializer_Tag>
 <XML_Serializer_Tag>Zeichner</XML_Serializer_Tag>
 </professionOrOccupation>
-<artworks />
 <dbpResource>http://dbpedia.org/resource/Rudolf_von_Alt</dbpResource>
 <abstract>Rudolf Ritter von Alt (* 28. August 1812 in der Alservorstadt, heute Wien; † 12. März 1905 in Wien) war ein österreichischer Maler und Aquarellist.</abstract>
 <wikilink>http://en.wikipedia.org/wiki/Rudolf_von_Alt?oldid=601423383</wikilink>
+<artworks />
+<buildings />
+<books />
 </Person>

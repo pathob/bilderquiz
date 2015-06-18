@@ -21,8 +21,10 @@
 <XML_Serializer_Tag>Maler</XML_Serializer_Tag>
 <XML_Serializer_Tag>Graphiker</XML_Serializer_Tag>
 </professionOrOccupation>
-<artworks />
 <dbpResource>http://dbpedia.org/resource/Alfred_Rethel</dbpResource>
 <abstract>Alfred Rethel (* 15. Mai 1816 bei Aachen; † 1. Dezember 1859 in Düsseldorf) war ein deutscher Historienmaler der Spätromantik.</abstract>
 <wikilink>http://en.wikipedia.org/wiki/Alfred_Rethel?oldid=578288840</wikilink>
+<artworks />
+<buildings />
+<books />
 </Person>

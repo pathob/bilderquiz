@@ -1,0 +1,42 @@
+<Person>
+<name>Sarah Orne Jewett</name>
+<variantName>
+<XML_Serializer_Tag>Sarah O. Jewett</XML_Serializer_Tag>
+<XML_Serializer_Tag>Sarah Orne Jewett</XML_Serializer_Tag>
+</variantName>
+<thumbnail>https://commons.wikimedia.org/wiki/Special:FilePath/Sarah_Orne_Jewett_7.jpg?width=270</thumbnail>
+<birthEN>September 3, 1849</birthEN>
+<birthDE>3. September 1849</birthDE>
+<deathEN>December 24, 1909</deathEN>
+<deathDE>24. Dezember 1909</deathDE>
+<birthPlace>
+<XML_Serializer_Tag>South Berwick, Maine</XML_Serializer_Tag>
+</birthPlace>
+<deathPlace>
+<XML_Serializer_Tag>South Berwick, Maine</XML_Serializer_Tag>
+</deathPlace>
+<professionOrOccupation>
+<XML_Serializer_Tag>Schriftstellerin</XML_Serializer_Tag>
+</professionOrOccupation>
+<dbpResource>http://dbpedia.org/resource/Sarah_Orne_Jewett</dbpResource>
+<abstract>Sarah Orne Jewett (* 3. September 1849 in South Berwick, Maine; † 24. Juni 1909) war eine US-amerikanische Schriftstellerin. Ihre berühmtesten Werke sind der Roman The Country of Pointed Firs und die Kurzgeschichte A White Heron.</abstract>
+<wikilink>http://en.wikipedia.org/wiki/Sarah_Orne_Jewett?oldid=604168249</wikilink>
+<artworks />
+<buildings />
+<books>
+<XML_Serializer_Tag>
+<book>
+<type>uri</type>
+<value>http://dbpedia.org/resource/A_Country_Doctor_(novel)</value>
+</book>
+<author>
+<type>uri</type>
+<value>http://dbpedia.org/resource/Sarah_Orne_Jewett</value>
+</author>
+<wikilink>
+<type>uri</type>
+<value>http://en.wikipedia.org/wiki/A_Country_Doctor_(novel)?oldid=604629157</value>
+</wikilink>
+</XML_Serializer_Tag>
+</books>
+</Person>

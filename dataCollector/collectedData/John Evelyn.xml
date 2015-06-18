@@ -1,0 +1,30 @@
+<Person>
+<name>John Evelyn</name>
+<variantName>
+<XML_Serializer_Tag>Iohn Evelyn</XML_Serializer_Tag>
+<XML_Serializer_Tag>Johannes Evelyn</XML_Serializer_Tag>
+<XML_Serializer_Tag>Phileutheros</XML_Serializer_Tag>
+<XML_Serializer_Tag>Philocepos</XML_Serializer_Tag>
+<XML_Serializer_Tag>J. E.</XML_Serializer_Tag>
+<XML_Serializer_Tag>E. J.</XML_Serializer_Tag>
+<XML_Serializer_Tag>E. J.</XML_Serializer_Tag>
+<XML_Serializer_Tag>Johann Evelyn</XML_Serializer_Tag>
+</variantName>
+<thumbnail>https://commons.wikimedia.org/wiki/Special:FilePath/John_Evelyn_by_Hendrick_Van_der_Borcht_cropped.jpg?width=270</thumbnail>
+<birthEN>October 31, 1620</birthEN>
+<birthDE>31. Oktober 1620</birthDE>
+<deathEN>February 27, 1706</deathEN>
+<deathDE>27. Februar 1706</deathDE>
+<birthPlace />
+<deathPlace />
+<professionOrOccupation>
+<XML_Serializer_Tag>Jurist</XML_Serializer_Tag>
+<XML_Serializer_Tag>Schriftsteller</XML_Serializer_Tag>
+</professionOrOccupation>
+<dbpResource>http://dbpedia.org/resource/John_Evelyn</dbpResource>
+<abstract>John Evelyn (* 31. Oktober 1620 in Wotton, Surrey; † 27. Februar 1706 ebenda) war ein englischer Autor, Architekt und Gartenbauer.</abstract>
+<wikilink>http://en.wikipedia.org/wiki/John_Evelyn?oldid=601619171</wikilink>
+<artworks />
+<buildings />
+<books />
+</Person>

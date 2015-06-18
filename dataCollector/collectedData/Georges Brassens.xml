@@ -1,0 +1,32 @@
+<Person>
+<name>Georges Brassens</name>
+<variantName>
+<XML_Serializer_Tag>George Brassens</XML_Serializer_Tag>
+<XML_Serializer_Tag>G. Brassens</XML_Serializer_Tag>
+<XML_Serializer_Tag>Jorge Brassens</XML_Serializer_Tag>
+</variantName>
+<thumbnail>https://commons.wikimedia.org/wiki/Special:FilePath/Brassens_TNP_1966.jpg?width=270</thumbnail>
+<birthEN>October 22, 1921</birthEN>
+<birthDE>22. Oktober 1921</birthDE>
+<deathEN>October 29, 1981</deathEN>
+<deathDE>29. Oktober 1981</deathDE>
+<birthPlace>
+<XML_Serializer_Tag>Sète</XML_Serializer_Tag>
+</birthPlace>
+<deathPlace>
+<XML_Serializer_Tag>Saint-Gély-du-Fesc</XML_Serializer_Tag>
+</deathPlace>
+<professionOrOccupation>
+<XML_Serializer_Tag>Komponist</XML_Serializer_Tag>
+<XML_Serializer_Tag>Musiker</XML_Serializer_Tag>
+<XML_Serializer_Tag>Chansonnier</XML_Serializer_Tag>
+<XML_Serializer_Tag>Lyriker</XML_Serializer_Tag>
+<XML_Serializer_Tag>Sänger</XML_Serializer_Tag>
+</professionOrOccupation>
+<dbpResource>http://dbpedia.org/resource/Georges_Brassens</dbpResource>
+<abstract>Georges Brassens [bʁasɛ̃s] (* 22. Oktober 1921 in Sète; † 29. Oktober 1981 in Saint-Gély-du-Fesc bei Montpellier) war ein französischer Dichter und Schriftsteller, vor allem aber in den 1950er bis 1970er Jahren ein berühmter Chansonnier.</abstract>
+<wikilink>http://en.wikipedia.org/wiki/Georges_Brassens?oldid=599153327</wikilink>
+<artworks />
+<buildings />
+<books />
+</Person>

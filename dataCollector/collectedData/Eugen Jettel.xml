@@ -14,8 +14,10 @@
 <XML_Serializer_Tag>Künstler</XML_Serializer_Tag>
 <XML_Serializer_Tag>Maler</XML_Serializer_Tag>
 </professionOrOccupation>
-<artworks />
 <dbpResource>http://dbpedia.org/resource/Eugen_Jettel</dbpResource>
 <abstract>Richard Alfred Eugen Jettel oder auch Eugène Jettel (* 20. März 1845 in Johnsdorf, Mähren; † 27. August 1901 in Lussingrande, Kroatien) war ein österreichischer Maler.</abstract>
 <wikilink>http://en.wikipedia.org/wiki/Eugen_Jettel?oldid=604842867</wikilink>
+<artworks />
+<buildings />
+<books />
 </Person>

@@ -1,0 +1,111 @@
+<Person>
+<name>Georges Perec</name>
+<variantName />
+<thumbnail>https://de.wikipedia.org/wiki/Special:FilePath/Georges_Perec.jpg?width=270</thumbnail>
+<birthEN>March 7, 1936</birthEN>
+<birthDE>7. März 1936</birthDE>
+<deathEN>March 3, 1982</deathEN>
+<deathDE>3. März 1982</deathDE>
+<birthPlace>
+<XML_Serializer_Tag>Paris</XML_Serializer_Tag>
+</birthPlace>
+<deathPlace>
+<XML_Serializer_Tag>Ivry-sur-Seine</XML_Serializer_Tag>
+</deathPlace>
+<professionOrOccupation>
+<XML_Serializer_Tag>Schriftsteller</XML_Serializer_Tag>
+<XML_Serializer_Tag>Filmregisseur</XML_Serializer_Tag>
+</professionOrOccupation>
+<dbpResource>http://dbpedia.org/resource/Georges_Perec</dbpResource>
+<abstract>Georges Perec (* 7. März 1936 in Paris; † 3. März 1982 in Ivry-sur-Seine) war ein französischer Schriftsteller und Filmemacher. Er war Mitglied der Oulipo-Gruppe, und er wird zu den wichtigsten Vertretern der französischen Literatur nach dem Zweiten Weltkrieg gezählt.</abstract>
+<wikilink>http://en.wikipedia.org/wiki/Georges_Perec?oldid=596787865</wikilink>
+<artworks />
+<buildings />
+<books>
+<XML_Serializer_Tag>
+<book>
+<type>uri</type>
+<value>http://dbpedia.org/resource/Life_A_User&apos;s_Manual</value>
+</book>
+<author>
+<type>uri</type>
+<value>http://dbpedia.org/resource/Georges_Perec</value>
+</author>
+<wikilink>
+<type>uri</type>
+<value>http://en.wikipedia.org/wiki/Life_A_User&apos;s_Manual?oldid=591828184</value>
+</wikilink>
+<abstract>
+<type>literal</type>
+<xml:lang>de</xml:lang>
+<value>Das Leben Gebrauchsanweisung (La Vie mode d&apos;emploi) ist ein als Meisterwerk angesehener Roman des Schriftstellers Georges Perec, der 1978 in Frankreich und 1982 auf Deutsch, übersetzt von Eugen Helmlé, erschien.</value>
+</abstract>
+</XML_Serializer_Tag>
+<XML_Serializer_Tag>
+<book>
+<type>uri</type>
+<value>http://dbpedia.org/resource/A_Void</value>
+</book>
+<author>
+<type>uri</type>
+<value>http://dbpedia.org/resource/Georges_Perec</value>
+</author>
+<wikilink>
+<type>uri</type>
+<value>http://en.wikipedia.org/wiki/A_Void?oldid=604874481</value>
+</wikilink>
+<abstract>
+<type>literal</type>
+<xml:lang>de</xml:lang>
+<value>Anton Voyls Fortgang ist der Titel der deutschen Übersetzung von Georges Perecs Roman La Disparition, der 1969 zum ersten Mal erschien. Genau wie im Original verzichtet der Übersetzer Eugen Helmlé auf die Verwendung des Vokals e, schafft somit also ein Leipogramm. La Disparition gilt als wichtiges Werk der potentiellen Literatur, es wurde außer ins Deutsche unter anderem auch ins Spanische (El secuestro, 1997), ins Schwedische (Försvinna, 2000) und ins Englische (A Void, Gilbert Adair 1995, und A Vanishing) übersetzt. Alle Übersetzungen sind Leipogramme und kommen ohne den häufigsten Buchstaben der jeweiligen Sprache aus (im Englischen und Schwedischen e, im Spanischen a).</value>
+</abstract>
+</XML_Serializer_Tag>
+<XML_Serializer_Tag>
+<book>
+<type>uri</type>
+<value>http://dbpedia.org/resource/A_Man_Asleep</value>
+</book>
+<author>
+<type>uri</type>
+<value>http://dbpedia.org/resource/Georges_Perec</value>
+</author>
+<wikilink>
+<type>uri</type>
+<value>http://en.wikipedia.org/wiki/A_Man_Asleep?oldid=550033142</value>
+</wikilink>
+<abstract>
+<type>literal</type>
+<xml:lang>de</xml:lang>
+<value>Ein Mann der schläft (französisch Un homme qui dort) ist ein Roman des französischen Schriftstellers Georges Perec, der im Jahr 1967 veröffentlicht wurde. Der Protagonist, ein 25-jähriger Student, verweigert sich von einem Tag auf den anderen dem Leben und zieht sich in Isolation und Gleichgültigkeit zurück. Die Handlung hat autobiografische Wurzeln. Perec litt in jungen Jahren selbst an einer ähnlich verlaufenden Depression. Die Umsetzung zeichnet sich durch zahlreiche intertextuelle Verweise auf andere Werke der Literaturgeschichte aus. Auffällig ist auch die formale Gestaltung: Der kurze Roman steht überwiegend im Präsens und in der Du-Form. Er zählt zu den am geringsten untersuchten Hauptwerken George Perecs und entstand noch vor dessen Mitgliedschaft in der Autorengruppe Oulipo. Eine Verfilmung des Autors gemeinsam mit Bernard Queysanne erhielt 1974 den Jean-Vigo-Preis. Eugen Helmlés deutsche Übersetzung blieb lange unveröffentlicht und erschien erstmals im Jahr 1988.</value>
+</abstract>
+</XML_Serializer_Tag>
+<XML_Serializer_Tag>
+<book>
+<type>uri</type>
+<value>http://dbpedia.org/resource/Which_Moped_with_Chrome-plated_Handlebars_at_the_Back_of_the_Yard%3F</value>
+</book>
+<author>
+<type>uri</type>
+<value>http://dbpedia.org/resource/Georges_Perec</value>
+</author>
+<wikilink>
+<type>uri</type>
+<value>http://en.wikipedia.org/wiki/Which_Moped_with_Chrome-plated_Handlebars_at_the_Back_of_the_Yard%3F?oldid=591407120</value>
+</wikilink>
+</XML_Serializer_Tag>
+<XML_Serializer_Tag>
+<book>
+<type>uri</type>
+<value>http://dbpedia.org/resource/W,_or_the_Memory_of_Childhood</value>
+</book>
+<author>
+<type>uri</type>
+<value>http://dbpedia.org/resource/Georges_Perec</value>
+</author>
+<wikilink>
+<type>uri</type>
+<value>http://en.wikipedia.org/wiki/W,_or_the_Memory_of_Childhood?oldid=605457453</value>
+</wikilink>
+</XML_Serializer_Tag>
+</books>
+</Person>

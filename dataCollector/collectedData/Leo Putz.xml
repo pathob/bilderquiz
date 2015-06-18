@@ -15,8 +15,10 @@
 <XML_Serializer_Tag>Maler</XML_Serializer_Tag>
 <XML_Serializer_Tag>Illustrator</XML_Serializer_Tag>
 </professionOrOccupation>
-<artworks />
 <dbpResource>http://dbpedia.org/resource/Leo_Putz</dbpResource>
 <abstract>Professor Leo Putz (* 18. Juni 1869 in Meran, Südtirol, Österreich-Ungarn; † 21. Juli 1940 in Meran, Südtirol, Italien) war ein Tiroler Künstler. Das künstlerische Werk von Leo Putz umfasst den Jugendstil, den Impressionismus und die Anfänge des Expressionismus. Schwerpunkt seines Werkes sind Figuren-, Akt- und Landschaftsbilder.</abstract>
 <wikilink>http://en.wikipedia.org/wiki/Leo_Putz?oldid=603522782</wikilink>
+<artworks />
+<buildings />
+<books />
 </Person>

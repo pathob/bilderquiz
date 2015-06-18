@@ -15,8 +15,10 @@
 <XML_Serializer_Tag>Maler</XML_Serializer_Tag>
 <XML_Serializer_Tag>Kupferstecher</XML_Serializer_Tag>
 </professionOrOccupation>
-<artworks />
 <dbpResource>http://dbpedia.org/resource/Adriaen_van_de_Velde</dbpResource>
 <abstract>Adriaan van de Velde (* 1636 in Amsterdam; † 1672 ebenda) war ein holländischer Maler und Radierer.</abstract>
 <wikilink>http://en.wikipedia.org/wiki/Adriaen_van_de_Velde?oldid=606678814</wikilink>
+<artworks />
+<buildings />
+<books />
 </Person>

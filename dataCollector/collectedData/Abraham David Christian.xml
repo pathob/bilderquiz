@@ -1,0 +1,26 @@
+<Person>
+<name>Abraham David Christian</name>
+<variantName>
+<XML_Serializer_Tag>Abraham D. Christian</XML_Serializer_Tag>
+</variantName>
+<thumbnail>https://commons.wikimedia.org/wiki/Special:FilePath/Denhaag_kunstwerk_interconnected_sculpture.jpg?width=270</thumbnail>
+<birthEN>1952</birthEN>
+<birthDE>1952</birthDE>
+<deathEN />
+<deathDE />
+<birthPlace>
+<XML_Serializer_Tag>Düsseldorf</XML_Serializer_Tag>
+</birthPlace>
+<deathPlace />
+<professionOrOccupation>
+<XML_Serializer_Tag>Bildhauer</XML_Serializer_Tag>
+<XML_Serializer_Tag>Zeichner</XML_Serializer_Tag>
+<XML_Serializer_Tag>Künstler</XML_Serializer_Tag>
+</professionOrOccupation>
+<dbpResource>http://dbpedia.org/resource/Abraham_David_Christian</dbpResource>
+<abstract>Abraham David Christian (* 1952 in Düsseldorf) ist ein deutscher Zeichner und Bildhauer.</abstract>
+<wikilink>http://en.wikipedia.org/wiki/Abraham_David_Christian?oldid=587666712</wikilink>
+<artworks />
+<buildings />
+<books />
+</Person>

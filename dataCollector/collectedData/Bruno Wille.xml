@@ -1,0 +1,24 @@
+<Person>
+<name>Bruno Wille</name>
+<variantName>
+<XML_Serializer_Tag>Bruno Johannes Wille</XML_Serializer_Tag>
+<XML_Serializer_Tag>Johannes Wille</XML_Serializer_Tag>
+</variantName>
+<thumbnail>https://de.wikipedia.org/wiki/Special:FilePath/Bruno_Wille.jpeg?width=270</thumbnail>
+<birthEN>February 6, 1860</birthEN>
+<birthDE>6. Februar 1860</birthDE>
+<deathEN>September 4, 1928</deathEN>
+<deathDE>4. September 1928</deathDE>
+<birthPlace />
+<deathPlace />
+<professionOrOccupation>
+<XML_Serializer_Tag>Schriftsteller</XML_Serializer_Tag>
+<XML_Serializer_Tag>Philosoph</XML_Serializer_Tag>
+</professionOrOccupation>
+<dbpResource>http://dbpedia.org/resource/Bruno_Wille</dbpResource>
+<abstract>Bruno Wille (* 6. Februar 1860 in Magdeburg; † 31. August 1928 auf Schloss Senftenau in Aeschach, das seit 1922 wieder zu Lindau (Bodensee) gehört) war ein deutscher Prediger, Journalist und belletristischer sowie populärphilosophischer Schriftsteller.</abstract>
+<wikilink>http://en.wikipedia.org/wiki/Bruno_Wille?oldid=544049226</wikilink>
+<artworks />
+<buildings />
+<books />
+</Person>

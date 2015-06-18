@@ -1,0 +1,25 @@
+<Person>
+<name>Helen Zimmern</name>
+<variantName>
+<XML_Serializer_Tag>Helene Zimmern</XML_Serializer_Tag>
+</variantName>
+<thumbnail>https://commons.wikimedia.org/wiki/Special:FilePath/Helen_Zimmern.jpg?width=270</thumbnail>
+<birthEN>March 25, 1846</birthEN>
+<birthDE>25. März 1846</birthDE>
+<deathEN>January 11, 1934</deathEN>
+<deathDE>11. Januar 1934</deathDE>
+<birthPlace>
+<XML_Serializer_Tag>Hamburg</XML_Serializer_Tag>
+</birthPlace>
+<deathPlace />
+<professionOrOccupation>
+<XML_Serializer_Tag>Schriftstellerin</XML_Serializer_Tag>
+<XML_Serializer_Tag>Übersetzerin</XML_Serializer_Tag>
+</professionOrOccupation>
+<dbpResource>http://dbpedia.org/resource/Helen_Zimmern</dbpResource>
+<abstract>Helen Zimmern (* 25. März 1846 in Hamburg; † 11. Januar 1934 in Florenz) war eine englische Schriftstellerin.</abstract>
+<wikilink>http://en.wikipedia.org/wiki/Helen_Zimmern?oldid=605856876</wikilink>
+<artworks />
+<buildings />
+<books />
+</Person>

@@ -1,0 +1,57 @@
+<Person>
+<name>Anna Sewell</name>
+<variantName>
+<XML_Serializer_Tag>Ana Sewell</XML_Serializer_Tag>
+<XML_Serializer_Tag>Anne Sewell</XML_Serializer_Tag>
+</variantName>
+<thumbnail>https://commons.wikimedia.org/wiki/Special:FilePath/Anna_Sewell_Jugendbild.PNG?width=270</thumbnail>
+<birthEN>March 20, 1820</birthEN>
+<birthDE>20. März 1820</birthDE>
+<deathEN>April 25, 1878</deathEN>
+<deathDE>25. April 1878</deathDE>
+<birthPlace>
+<XML_Serializer_Tag>Great Yarmouth, England, Großbritannien</XML_Serializer_Tag>
+</birthPlace>
+<deathPlace>
+<XML_Serializer_Tag>Old Catton, England, Großbritannien</XML_Serializer_Tag>
+</deathPlace>
+<professionOrOccupation>
+<XML_Serializer_Tag>Schriftstellerin</XML_Serializer_Tag>
+<XML_Serializer_Tag>Schriftstellerin</XML_Serializer_Tag>
+</professionOrOccupation>
+<dbpResource>http://dbpedia.org/resource/Anna_Sewell</dbpResource>
+<abstract>Anna Sewell (* 30. März 1820 in Great Yarmouth, Norfolk, England; † 25. April 1878 in Old Catton, Norfolk) war eine britische Schriftstellerin, die das Buch Black Beauty verfasste.</abstract>
+<wikilink>http://en.wikipedia.org/wiki/Anna_Sewell?oldid=602211076</wikilink>
+<artworks />
+<buildings />
+<books>
+<XML_Serializer_Tag>
+<book>
+<type>uri</type>
+<value>http://dbpedia.org/resource/Black_Beauty</value>
+</book>
+<author>
+<type>uri</type>
+<value>http://dbpedia.org/resource/Anna_Sewell</value>
+</author>
+<thumbnail>
+<type>uri</type>
+<value>http://commons.wikimedia.org/wiki/Special:FilePath/BlackBeautyCoverFirstEd1877.jpeg?width=300</value>
+</thumbnail>
+<released>
+<type>typed-literal</type>
+<datatype>http://www.w3.org/2001/XMLSchema#date</datatype>
+<value>1877-11-24+02:00</value>
+</released>
+<wikilink>
+<type>uri</type>
+<value>http://en.wikipedia.org/wiki/Black_Beauty?oldid=606496403</value>
+</wikilink>
+<abstract>
+<type>literal</type>
+<xml:lang>de</xml:lang>
+<value>Black Beauty ist der Titel des einzigen Buches der britischen Autorin Anna Sewell.Der Roman wurde am 24. November 1877 veröffentlicht unter dem Originaltitel Black Beauty: The Autobiography of a Horse (Black Beauty - Die Autobiografie eines Pferdes).</value>
+</abstract>
+</XML_Serializer_Tag>
+</books>
+</Person>

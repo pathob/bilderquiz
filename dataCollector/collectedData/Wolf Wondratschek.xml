@@ -1,0 +1,29 @@
+<Person>
+<name>Wolf Wondratschek</name>
+<variantName>
+<XML_Serializer_Tag>Wolf Wondratscheck</XML_Serializer_Tag>
+<XML_Serializer_Tag>Wulf Wundrāčik</XML_Serializer_Tag>
+<XML_Serializer_Tag>Polp&apos;ŭ Pondŭrach&apos;ek&apos;ŭ</XML_Serializer_Tag>
+</variantName>
+<thumbnail>https://commons.wikimedia.org/wiki/Special:FilePath/Leipziger_Buchmesse_2011_Wolf_Wondratschek_und_Luzia_Braun_im_Gespräch.jpg?width=270</thumbnail>
+<birthEN>1943</birthEN>
+<birthDE>1943</birthDE>
+<deathEN />
+<deathDE />
+<birthPlace>
+<XML_Serializer_Tag>Rudolstadt</XML_Serializer_Tag>
+</birthPlace>
+<deathPlace />
+<professionOrOccupation>
+<XML_Serializer_Tag>Schriftsteller</XML_Serializer_Tag>
+<XML_Serializer_Tag>Musiker</XML_Serializer_Tag>
+<XML_Serializer_Tag>Übersetzer</XML_Serializer_Tag>
+<XML_Serializer_Tag>Drehbuchautor</XML_Serializer_Tag>
+</professionOrOccupation>
+<dbpResource>http://dbpedia.org/resource/Wolf_Wondratschek</dbpResource>
+<abstract>Wolf Wondratschek (* 14. August 1943 in Rudolstadt) ist ein deutscher Schriftsteller.</abstract>
+<wikilink>http://en.wikipedia.org/wiki/Wolf_Wondratschek?oldid=562563255</wikilink>
+<artworks />
+<buildings />
+<books />
+</Person>

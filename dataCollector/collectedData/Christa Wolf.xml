@@ -1,0 +1,71 @@
+<Person>
+<name>Christa Wolf</name>
+<variantName>
+<XML_Serializer_Tag>Krīstā Fūlf</XML_Serializer_Tag>
+<XML_Serializer_Tag>Krista Volfa</XML_Serializer_Tag>
+<XML_Serializer_Tag>Krista Vol&apos;f</XML_Serializer_Tag>
+<XML_Serializer_Tag>Krista Volf</XML_Serializer_Tag>
+<XML_Serializer_Tag>Krista Volp&apos;i</XML_Serializer_Tag>
+<XML_Serializer_Tag>Christa Wolfová</XML_Serializer_Tag>
+<XML_Serializer_Tag>Kurisuta Worufu</XML_Serializer_Tag>
+<XML_Serializer_Tag>Kurisuta Vorufu</XML_Serializer_Tag>
+<XML_Serializer_Tag>... Vorufu</XML_Serializer_Tag>
+<XML_Serializer_Tag>Krista Bolph</XML_Serializer_Tag>
+<XML_Serializer_Tag>Krīstā Wūlf</XML_Serializer_Tag>
+<XML_Serializer_Tag>Christa Ihlenfeld</XML_Serializer_Tag>
+<XML_Serializer_Tag>Krisṭah Ṿolf</XML_Serializer_Tag>
+<XML_Serializer_Tag>Ke li si ta Wo er fu</XML_Serializer_Tag>
+<XML_Serializer_Tag>Kelisita-Woerfu</XML_Serializer_Tag>
+<XML_Serializer_Tag>Kelisita Woerfu</XML_Serializer_Tag>
+<XML_Serializer_Tag>크리스타 볼프</XML_Serializer_Tag>
+<XML_Serializer_Tag>כריסטה וולף</XML_Serializer_Tag>
+<XML_Serializer_Tag>克里斯塔‧沃尔夫</XML_Serializer_Tag>
+<XML_Serializer_Tag>クリスタ・ヴォルフ</XML_Serializer_Tag>
+<XML_Serializer_Tag>克里斯塔 沃尔夫</XML_Serializer_Tag>
+<XML_Serializer_Tag>クリスタ ヴォルフ</XML_Serializer_Tag>
+<XML_Serializer_Tag>Κρίστα Βολφ</XML_Serializer_Tag>
+</variantName>
+<thumbnail>https://commons.wikimedia.org/wiki/Special:FilePath/Bundesarchiv_Bild_183-1989-1027-300,_Christa_Wolf.jpg?width=270</thumbnail>
+<birthEN>March 18, 1929</birthEN>
+<birthDE>18. März 1929</birthDE>
+<deathEN>December 1, 2011</deathEN>
+<deathDE>1. Dezember 2011</deathDE>
+<birthPlace>
+<XML_Serializer_Tag>Landsberg (Warthe)</XML_Serializer_Tag>
+</birthPlace>
+<deathPlace>
+<XML_Serializer_Tag>Berlin</XML_Serializer_Tag>
+</deathPlace>
+<professionOrOccupation>
+<XML_Serializer_Tag>Redakteurin</XML_Serializer_Tag>
+<XML_Serializer_Tag>Schriftstellerin</XML_Serializer_Tag>
+<XML_Serializer_Tag>Drehbuchautorin</XML_Serializer_Tag>
+<XML_Serializer_Tag>Verlagslektorin</XML_Serializer_Tag>
+</professionOrOccupation>
+<dbpResource>http://dbpedia.org/resource/Christa_Wolf</dbpResource>
+<abstract>Christa Wolf (* 18. März 1929 in Landsberg an der Warthe als Christa Ihlenfeld; † 1. Dezember 2011 in Berlin) war eine deutsche Schriftstellerin. Sie zählt zu den bedeutendsten deutschen Schriftstellerpersönlichkeiten ihrer Zeit, ihr Werk wurde in viele Sprachen übersetzt.</abstract>
+<wikilink>http://en.wikipedia.org/wiki/Christa_Wolf?oldid=605688007</wikilink>
+<artworks />
+<buildings />
+<books>
+<XML_Serializer_Tag>
+<book>
+<type>uri</type>
+<value>http://dbpedia.org/resource/The_Quest_for_Christa_T.</value>
+</book>
+<author>
+<type>uri</type>
+<value>http://dbpedia.org/resource/Christa_Wolf</value>
+</author>
+<released>
+<type>typed-literal</type>
+<datatype>http://www.w3.org/2001/XMLSchema#integer</datatype>
+<value>1968</value>
+</released>
+<wikilink>
+<type>uri</type>
+<value>http://en.wikipedia.org/wiki/The_Quest_for_Christa_T.?oldid=544912113</value>
+</wikilink>
+</XML_Serializer_Tag>
+</books>
+</Person>

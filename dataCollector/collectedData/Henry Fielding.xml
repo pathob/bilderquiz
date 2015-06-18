@@ -1,0 +1,100 @@
+<Person>
+<name>Henry Fielding</name>
+<variantName>
+<XML_Serializer_Tag>Heinrich Fielding</XML_Serializer_Tag>
+<XML_Serializer_Tag>... Fielding</XML_Serializer_Tag>
+<XML_Serializer_Tag>Genri Filding</XML_Serializer_Tag>
+<XML_Serializer_Tag>Conny Keyber</XML_Serializer_Tag>
+<XML_Serializer_Tag>Alexander Drawcansir</XML_Serializer_Tag>
+<XML_Serializer_Tag>Hercules Vinegar</XML_Serializer_Tag>
+<XML_Serializer_Tag>Hercules Vinegor</XML_Serializer_Tag>
+<XML_Serializer_Tag>Scriblerus Secundus</XML_Serializer_Tag>
+</variantName>
+<thumbnail>https://commons.wikimedia.org/wiki/Special:FilePath/Fielding.jpg?width=270</thumbnail>
+<birthEN>April 22, 1707</birthEN>
+<birthDE>22. April 1707</birthDE>
+<deathEN>October 8, 1754</deathEN>
+<deathDE>8. Oktober 1754</deathDE>
+<birthPlace>
+<XML_Serializer_Tag>Sharpham Park (Glastonbury/Somerset)</XML_Serializer_Tag>
+</birthPlace>
+<deathPlace>
+<XML_Serializer_Tag>Lissabon</XML_Serializer_Tag>
+</deathPlace>
+<professionOrOccupation>
+<XML_Serializer_Tag>Schriftsteller</XML_Serializer_Tag>
+<XML_Serializer_Tag>Dramatiker</XML_Serializer_Tag>
+<XML_Serializer_Tag>Jurist</XML_Serializer_Tag>
+</professionOrOccupation>
+<dbpResource>http://dbpedia.org/resource/Henry_Fielding</dbpResource>
+<abstract>Henry Fielding (* 22. April 1707 in Sharpham Park bei Glastonbury, Somerset; † 8. Oktober 1754 in Lissabon) war ein berühmter englischer Romanautor, Satiriker, Dramatiker, Journalist und Jurist in der Zeit der Aufklärung.</abstract>
+<wikilink>http://en.wikipedia.org/wiki/Henry_Fielding?oldid=604770239</wikilink>
+<artworks />
+<buildings />
+<books>
+<XML_Serializer_Tag>
+<book>
+<type>uri</type>
+<value>http://dbpedia.org/resource/The_History_of_Tom_Jones,_a_Foundling</value>
+</book>
+<author>
+<type>uri</type>
+<value>http://dbpedia.org/resource/Henry_Fielding</value>
+</author>
+<thumbnail>
+<type>uri</type>
+<value>http://commons.wikimedia.org/wiki/Special:FilePath/TomJonesTitle.png?width=300</value>
+</thumbnail>
+<released>
+<type>typed-literal</type>
+<datatype>http://www.w3.org/2001/XMLSchema#date</datatype>
+<value>1749-02-28+02:00</value>
+</released>
+<wikilink>
+<type>uri</type>
+<value>http://en.wikipedia.org/wiki/The_History_of_Tom_Jones,_a_Foundling?oldid=602738286</value>
+</wikilink>
+</XML_Serializer_Tag>
+<XML_Serializer_Tag>
+<book>
+<type>uri</type>
+<value>http://dbpedia.org/resource/Joseph_Andrews</value>
+</book>
+<author>
+<type>uri</type>
+<value>http://dbpedia.org/resource/Henry_Fielding</value>
+</author>
+<thumbnail>
+<type>uri</type>
+<value>http://commons.wikimedia.org/wiki/Special:FilePath/Josephandrewsfirstedition.JPG?width=300</value>
+</thumbnail>
+<released>
+<type>typed-literal</type>
+<datatype>http://www.w3.org/2001/XMLSchema#integer</datatype>
+<value>1742</value>
+</released>
+<wikilink>
+<type>uri</type>
+<value>http://en.wikipedia.org/wiki/Joseph_Andrews?oldid=592664283</value>
+</wikilink>
+</XML_Serializer_Tag>
+<XML_Serializer_Tag>
+<book>
+<type>uri</type>
+<value>http://dbpedia.org/resource/An_Apology_for_the_Life_of_Mrs._Shamela_Andrews</value>
+</book>
+<author>
+<type>uri</type>
+<value>http://dbpedia.org/resource/Henry_Fielding</value>
+</author>
+<released>
+<type>uri</type>
+<value>http://dbpedia.org/resource/1741_in_literature</value>
+</released>
+<wikilink>
+<type>uri</type>
+<value>http://en.wikipedia.org/wiki/An_Apology_for_the_Life_of_Mrs._Shamela_Andrews?oldid=603534084</value>
+</wikilink>
+</XML_Serializer_Tag>
+</books>
+</Person>

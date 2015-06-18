@@ -13,8 +13,10 @@
 <professionOrOccupation>
 <XML_Serializer_Tag>Maler</XML_Serializer_Tag>
 </professionOrOccupation>
-<artworks />
 <dbpResource>http://dbpedia.org/resource/Ad_Reinhardt</dbpResource>
 <abstract>Adolph Dietrich Friedrich Reinhardt (* 24. Dezember 1913 in Buffalo; † 30. August 1967 in New York, N.Y.) war ein US-amerikanischer Farbfeldmaler, Karikaturist und Kunsttheoretiker. Er gilt als Vorläufer des Minimalismus in der Malerei.</abstract>
 <wikilink>http://en.wikipedia.org/wiki/Ad_Reinhardt?oldid=596736451</wikilink>
+<artworks />
+<buildings />
+<books />
 </Person>

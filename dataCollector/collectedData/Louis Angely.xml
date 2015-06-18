@@ -1,0 +1,32 @@
+<Person>
+<name>Louis Angely</name>
+<variantName>
+<XML_Serializer_Tag>Louis Jean Jacques Angely</XML_Serializer_Tag>
+<XML_Serializer_Tag>L. Angely</XML_Serializer_Tag>
+<XML_Serializer_Tag>... Angely</XML_Serializer_Tag>
+<XML_Serializer_Tag>... Angeli</XML_Serializer_Tag>
+<XML_Serializer_Tag>Jean Jacques Louis Angely</XML_Serializer_Tag>
+</variantName>
+<thumbnail>https://commons.wikimedia.org/wiki/Special:FilePath/Louis_Angely_als_Kluck.jpg?width=270</thumbnail>
+<birthEN>January 31, 1787</birthEN>
+<birthDE>31. Januar 1787</birthDE>
+<deathEN>November 16, 1835</deathEN>
+<deathDE>16. November 1835</deathDE>
+<birthPlace>
+<XML_Serializer_Tag>Leipzig</XML_Serializer_Tag>
+</birthPlace>
+<deathPlace>
+<XML_Serializer_Tag>Berlin</XML_Serializer_Tag>
+</deathPlace>
+<professionOrOccupation>
+<XML_Serializer_Tag>Schriftsteller</XML_Serializer_Tag>
+<XML_Serializer_Tag>Schauspieler</XML_Serializer_Tag>
+<XML_Serializer_Tag>Regisseur</XML_Serializer_Tag>
+</professionOrOccupation>
+<dbpResource>http://dbpedia.org/resource/Louis_Angely</dbpResource>
+<abstract>Louis Jean Jacques Angely (* 1. Februar 1787 in Leipzig; † 16. November 1835 in Berlin) war ein deutscher Lustspieldichter, Schauspieler und Regisseur.</abstract>
+<wikilink>http://en.wikipedia.org/wiki/Louis_Angely?oldid=602077898</wikilink>
+<artworks />
+<buildings />
+<books />
+</Person>

@@ -1,0 +1,31 @@
+<Person>
+<name>Franz Theodor Csokor</name>
+<variantName>
+<XML_Serializer_Tag>Franz T. Csokor</XML_Serializer_Tag>
+<XML_Serializer_Tag>F. T. Csokor</XML_Serializer_Tag>
+<XML_Serializer_Tag>Franz Theodor Czokor</XML_Serializer_Tag>
+</variantName>
+<thumbnail>https://commons.wikimedia.org/wiki/Special:FilePath/Gedenktafel_für_die_deutschen_u._österreichischen_Flüchtline_am_Fremdenverkehrsbüro_in_Sanary-sur-Mer1.JPG?width=270</thumbnail>
+<birthEN>September 6, 1885</birthEN>
+<birthDE>6. September 1885</birthDE>
+<deathEN>January 5, 1969</deathEN>
+<deathDE>5. Januar 1969</deathDE>
+<birthPlace>
+<XML_Serializer_Tag>Wien</XML_Serializer_Tag>
+</birthPlace>
+<deathPlace>
+<XML_Serializer_Tag>Wien</XML_Serializer_Tag>
+</deathPlace>
+<professionOrOccupation>
+<XML_Serializer_Tag>Schriftsteller</XML_Serializer_Tag>
+<XML_Serializer_Tag>Dramatiker</XML_Serializer_Tag>
+<XML_Serializer_Tag>Theaterregisseur</XML_Serializer_Tag>
+<XML_Serializer_Tag>Regisseur</XML_Serializer_Tag>
+</professionOrOccupation>
+<dbpResource>http://dbpedia.org/resource/Franz_Theodor_Csokor</dbpResource>
+<abstract>Franz Theodor Csokor (* 6. September 1885 in Wien; † 5. Jänner 1969 ebenda) war ein österreichischer Schriftsteller und Dramatiker. Er gilt als einer der bedeutendsten Dramatiker des Expressionismus in Österreich. Sein erfolgreichstes und auch bekanntestes Stück ist 3. November 1918, das den Untergang der k. u. k. Monarchie thematisiert. In vielen Werken spiegelt sich die Beschäftigung des Autors mit der Antike und dem Christentum.</abstract>
+<wikilink>http://en.wikipedia.org/wiki/Franz_Theodor_Csokor?oldid=571318554</wikilink>
+<artworks />
+<buildings />
+<books />
+</Person>

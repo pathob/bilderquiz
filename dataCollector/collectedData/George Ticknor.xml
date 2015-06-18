@@ -1,0 +1,27 @@
+<Person>
+<name>George Ticknor</name>
+<variantName>
+<XML_Serializer_Tag>Georg Ticknor</XML_Serializer_Tag>
+<XML_Serializer_Tag>M. G. Ticknor</XML_Serializer_Tag>
+<XML_Serializer_Tag>Jorge Ticknor</XML_Serializer_Tag>
+</variantName>
+<thumbnail>https://commons.wikimedia.org/wiki/Special:FilePath/George_Ticknor.jpg?width=270</thumbnail>
+<birthEN>1791</birthEN>
+<birthDE>1791</birthDE>
+<deathEN>1871</deathEN>
+<deathDE>1871</deathDE>
+<birthPlace />
+<deathPlace />
+<professionOrOccupation>
+<XML_Serializer_Tag>Erzieher</XML_Serializer_Tag>
+<XML_Serializer_Tag>Schriftsteller</XML_Serializer_Tag>
+<XML_Serializer_Tag>Literaturwissenschaftler</XML_Serializer_Tag>
+<XML_Serializer_Tag>Romanist</XML_Serializer_Tag>
+</professionOrOccupation>
+<dbpResource>http://dbpedia.org/resource/George_Ticknor</dbpResource>
+<abstract>George Ticknor (* 1. August 1791 in Boston, Massachusetts, Vereinigte Staaten; † 26. Januar 1871) war ein US-amerikanischer Akademiker, der auf Linguistik und Literatur spezialisiert war. Er ist insbesondere durch seine Arbeit hinsichtlich der Geschichte der Spanischen Literatur und der Literaturkritik dazu bekannt geworden.</abstract>
+<wikilink>http://en.wikipedia.org/wiki/George_Ticknor?oldid=589748959</wikilink>
+<artworks />
+<buildings />
+<books />
+</Person>

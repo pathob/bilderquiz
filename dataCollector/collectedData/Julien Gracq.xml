@@ -1,0 +1,58 @@
+<Person>
+<name>Julien Gracq</name>
+<variantName>
+<XML_Serializer_Tag>Louis Poirier</XML_Serializer_Tag>
+<XML_Serializer_Tag>Zilijen Grak</XML_Serializer_Tag>
+</variantName>
+<thumbnail>https://commons.wikimedia.org/wiki/Special:FilePath/Signature_julien_gracq.png?width=270</thumbnail>
+<birthEN>July 27, 1910</birthEN>
+<birthDE>27. Juli 1910</birthDE>
+<deathEN>December 22, 2007</deathEN>
+<deathDE>22. Dezember 2007</deathDE>
+<birthPlace />
+<deathPlace />
+<professionOrOccupation>
+<XML_Serializer_Tag>Schriftsteller</XML_Serializer_Tag>
+<XML_Serializer_Tag>Lehrer</XML_Serializer_Tag>
+</professionOrOccupation>
+<dbpResource>http://dbpedia.org/resource/Julien_Gracq</dbpResource>
+<abstract>Julien Gracq (* 27. Juli 1910 als Louis Poirier in Saint-Florent-le-Vieil bei Angers; † 22. Dezember 2007 in Angers) war ein französischer Schriftsteller. Gracq gehörte zu den unauffälligsten Autoren der französischen Literaturlandschaft im Sinne der Forderung, dass ein Autor hinter sein Werk zurücktreten soll. Er war beeinflusst von der deutschen Romantik und dem Surrealismus, und in seinem Werk verschmelzen freischöpferische Phantasie und Symbolismus miteinander.</abstract>
+<wikilink>http://en.wikipedia.org/wiki/Julien_Gracq?oldid=595499076</wikilink>
+<artworks />
+<buildings />
+<books>
+<XML_Serializer_Tag>
+<book>
+<type>uri</type>
+<value>http://dbpedia.org/resource/La_Presqu%E2%80%99%C3%AEle</value>
+</book>
+<author>
+<type>uri</type>
+<value>http://dbpedia.org/resource/Julien_Gracq</value>
+</author>
+<released>
+<type>typed-literal</type>
+<datatype>http://www.w3.org/2001/XMLSchema#integer</datatype>
+<value>1970</value>
+</released>
+<wikilink>
+<type>uri</type>
+<value>http://en.wikipedia.org/wiki/La_Presqu’île?oldid=546211384</value>
+</wikilink>
+</XML_Serializer_Tag>
+<XML_Serializer_Tag>
+<book>
+<type>uri</type>
+<value>http://dbpedia.org/resource/The_Opposing_Shore</value>
+</book>
+<author>
+<type>uri</type>
+<value>http://dbpedia.org/resource/Julien_Gracq</value>
+</author>
+<wikilink>
+<type>uri</type>
+<value>http://en.wikipedia.org/wiki/The_Opposing_Shore?oldid=590500891</value>
+</wikilink>
+</XML_Serializer_Tag>
+</books>
+</Person>

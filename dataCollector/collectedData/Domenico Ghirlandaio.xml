@@ -19,12 +19,15 @@
 <professionOrOccupation>
 <XML_Serializer_Tag>Maler</XML_Serializer_Tag>
 </professionOrOccupation>
+<dbpResource>http://dbpedia.org/resource/Domenico_Ghirlandaio</dbpResource>
+<abstract>Domenico Ghirlandaio (* 1449 in Florenz; † 11. Januar 1494 ebenda; eigentlich Domenico di Tommaso Curradi di Doffo Bigordi) war ein florentinischer Maler der Renaissance.</abstract>
+<wikilink>http://en.wikipedia.org/wiki/Domenico_Ghirlandaio?oldid=603163336</wikilink>
 <artworks>
 <XML_Serializer_Tag>
-<painting>
+<artwork>
 <type>uri</type>
 <value>http://dbpedia.org/resource/Adoration_of_the_Magi_(Ospedale_degli_Innocenti)</value>
-</painting>
+</artwork>
 <thumbnail>
 <type>uri</type>
 <value>http://commons.wikimedia.org/wiki/Special:FilePath/Adoration_of_the_Magi_Spedale_degli_Innocenti.jpg?width=300</value>
@@ -43,12 +46,17 @@
 <type>uri</type>
 <value>http://en.wikipedia.org/wiki/Adoration_of_the_Magi_(Ospedale_degli_Innocenti)?oldid=600020087</value>
 </wikilink>
+<type>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>Tempera on panel</value>
+</type>
 </XML_Serializer_Tag>
 <XML_Serializer_Tag>
-<painting>
+<artwork>
 <type>uri</type>
 <value>http://dbpedia.org/resource/Last_Supper_(Ghirlandaio)</value>
-</painting>
+</artwork>
 <thumbnail>
 <type>uri</type>
 <value>http://commons.wikimedia.org/wiki/Special:FilePath/Domenico_ghirlandaio,_cenacolo_di_ognissanti_01.jpg?width=300</value>
@@ -67,12 +75,17 @@
 <type>uri</type>
 <value>http://en.wikipedia.org/wiki/Last_Supper_(Ghirlandaio)?oldid=585980913</value>
 </wikilink>
+<type>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>Fresco</value>
+</type>
 </XML_Serializer_Tag>
 <XML_Serializer_Tag>
-<painting>
+<artwork>
 <type>uri</type>
 <value>http://dbpedia.org/resource/Portrait_of_Giovanna_Tornabuoni</value>
-</painting>
+</artwork>
 <thumbnail>
 <type>uri</type>
 <value>http://commons.wikimedia.org/wiki/Special:FilePath/Ghirlandaio-Giovanna_Tornabuoni_cropped.jpg?width=300</value>
@@ -91,12 +104,17 @@
 <type>uri</type>
 <value>http://en.wikipedia.org/wiki/Portrait_of_Giovanna_Tornabuoni?oldid=590373063</value>
 </wikilink>
+<type>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>Tempera on panel</value>
+</type>
 </XML_Serializer_Tag>
 <XML_Serializer_Tag>
-<painting>
+<artwork>
 <type>uri</type>
 <value>http://dbpedia.org/resource/Vocation_of_the_Apostles</value>
-</painting>
+</artwork>
 <thumbnail>
 <type>uri</type>
 <value>http://commons.wikimedia.org/wiki/Special:FilePath/Ghirlandaio,_Domenico_-_Calling_of_the_Apostles_-_1481.jpg?width=300</value>
@@ -115,12 +133,17 @@
 <type>uri</type>
 <value>http://en.wikipedia.org/wiki/Vocation_of_the_Apostles?oldid=601292601</value>
 </wikilink>
+<type>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>Fresco</value>
+</type>
 </XML_Serializer_Tag>
 <XML_Serializer_Tag>
-<painting>
+<artwork>
 <type>uri</type>
 <value>http://dbpedia.org/resource/Visitation_(Ghirlandaio)</value>
-</painting>
+</artwork>
 <thumbnail>
 <type>uri</type>
 <value>http://commons.wikimedia.org/wiki/Special:FilePath/Domenico_ghirlandaio,_visitazione,_louvre_01.jpg?width=300</value>
@@ -139,12 +162,17 @@
 <type>uri</type>
 <value>http://en.wikipedia.org/wiki/Visitation_(Ghirlandaio)?oldid=588331855</value>
 </wikilink>
+<type>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>Tempera on panel</value>
+</type>
 </XML_Serializer_Tag>
 <XML_Serializer_Tag>
-<painting>
+<artwork>
 <type>uri</type>
 <value>http://dbpedia.org/resource/The_Crossing_of_the_Red_Sea_(Sistine_Chapel)</value>
-</painting>
+</artwork>
 <thumbnail>
 <type>uri</type>
 <value>http://commons.wikimedia.org/wiki/Special:FilePath/Cosimo_Rosselli_Attraversamento_del_Mar_Rosso.jpg?width=300</value>
@@ -163,12 +191,17 @@
 <type>uri</type>
 <value>http://en.wikipedia.org/wiki/The_Crossing_of_the_Red_Sea_(Sistine_Chapel)?oldid=603421408</value>
 </wikilink>
+<type>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>Fresco</value>
+</type>
 </XML_Serializer_Tag>
 <XML_Serializer_Tag>
-<painting>
+<artwork>
 <type>uri</type>
 <value>http://dbpedia.org/resource/Saint_Jerome_in_His_Study_(Ghirlandaio)</value>
-</painting>
+</artwork>
 <thumbnail>
 <type>uri</type>
 <value>http://commons.wikimedia.org/wiki/Special:FilePath/Domenico_Ghirlandaio_-_St_Jerome_in_his_study.jpg?width=300</value>
@@ -187,9 +220,13 @@
 <type>uri</type>
 <value>http://en.wikipedia.org/wiki/Saint_Jerome_in_His_Study_(Ghirlandaio)?oldid=590565882</value>
 </wikilink>
+<type>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>Fresco</value>
+</type>
 </XML_Serializer_Tag>
 </artworks>
-<dbpResource>http://dbpedia.org/resource/Domenico_Ghirlandaio</dbpResource>
-<abstract>Domenico Ghirlandaio (* 1449 in Florenz; † 11. Januar 1494 ebenda; eigentlich Domenico di Tommaso Curradi di Doffo Bigordi) war ein florentinischer Maler der Renaissance.</abstract>
-<wikilink>http://en.wikipedia.org/wiki/Domenico_Ghirlandaio?oldid=603163336</wikilink>
+<buildings />
+<books />
 </Person>

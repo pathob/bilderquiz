@@ -1,0 +1,31 @@
+<Person>
+<name>Barbra Ring</name>
+<variantName>
+<XML_Serializer_Tag>Barbra Mathilde Ring</XML_Serializer_Tag>
+<XML_Serializer_Tag>Barbara Mathilde Ring</XML_Serializer_Tag>
+<XML_Serializer_Tag>Barbara Ring</XML_Serializer_Tag>
+<XML_Serializer_Tag>Barbara M. Ring</XML_Serializer_Tag>
+<XML_Serializer_Tag>Barbra M. Ring</XML_Serializer_Tag>
+<XML_Serializer_Tag>B. M. Ring</XML_Serializer_Tag>
+</variantName>
+<thumbnail>https://commons.wikimedia.org/wiki/Special:FilePath/Barbra_Ring.jpg?width=270</thumbnail>
+<birthEN>July 4, 1870</birthEN>
+<birthDE>4. Juli 1870</birthDE>
+<deathEN>May 16, 1955</deathEN>
+<deathDE>16. Mai 1955</deathDE>
+<birthPlace>
+<XML_Serializer_Tag>Drammen</XML_Serializer_Tag>
+</birthPlace>
+<deathPlace>
+<XML_Serializer_Tag>Oslo</XML_Serializer_Tag>
+</deathPlace>
+<professionOrOccupation>
+<XML_Serializer_Tag>Schriftstellerin</XML_Serializer_Tag>
+</professionOrOccupation>
+<dbpResource>http://dbpedia.org/resource/Barbra_Ring</dbpResource>
+<abstract>Barbra Mathilde Ring (* 4. Juli 1870 in Drammen; † 16. Mai 1955 in Oslo) war eine norwegische Schriftstellerin und Literaturkritikerin.</abstract>
+<wikilink>http://en.wikipedia.org/wiki/Barbra_Ring?oldid=597379570</wikilink>
+<artworks />
+<buildings />
+<books />
+</Person>

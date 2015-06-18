@@ -22,12 +22,15 @@
 <XML_Serializer_Tag>Lithograph</XML_Serializer_Tag>
 <XML_Serializer_Tag>Graphiker</XML_Serializer_Tag>
 </professionOrOccupation>
+<dbpResource>http://dbpedia.org/resource/John_Singer_Sargent</dbpResource>
+<abstract>John Singer Sargent (* 12. Januar 1856 in Florenz; † 15. April 1925 in London) galt als der bedeutendste US-amerikanische Porträt-Maler seiner Zeit.</abstract>
+<wikilink>http://en.wikipedia.org/wiki/John_Singer_Sargent?oldid=605692812</wikilink>
 <artworks>
 <XML_Serializer_Tag>
-<painting>
+<artwork>
 <type>uri</type>
 <value>http://dbpedia.org/resource/Carnation,_Lily,_Lily,_Rose</value>
-</painting>
+</artwork>
 <thumbnail>
 <type>uri</type>
 <value>http://commons.wikimedia.org/wiki/Special:FilePath/John_Singer_Sargent_-_Carnation,_Lily,_Lily,_Rose_-_Google_Art_Project.jpg?width=300</value>
@@ -46,12 +49,17 @@
 <type>uri</type>
 <value>http://en.wikipedia.org/wiki/Carnation,_Lily,_Lily,_Rose?oldid=601880462</value>
 </wikilink>
+<type>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>Oil on canvas</value>
+</type>
 </XML_Serializer_Tag>
 <XML_Serializer_Tag>
-<painting>
+<artwork>
 <type>uri</type>
 <value>http://dbpedia.org/resource/Gassed_(painting)</value>
-</painting>
+</artwork>
 <thumbnail>
 <type>uri</type>
 <value>http://en.wikipedia.org/wiki/Special:FilePath/Sargent,_John_Singer_(RA)_-_Gassed_-_Google_Art_Project.jpg?width=300</value>
@@ -70,12 +78,16 @@
 <type>uri</type>
 <value>http://en.wikipedia.org/wiki/Gassed_(painting)?oldid=601880442</value>
 </wikilink>
+<type>
+<type>uri</type>
+<value>http://dbpedia.org/resource/Oil_painting</value>
+</type>
 </XML_Serializer_Tag>
 <XML_Serializer_Tag>
-<painting>
+<artwork>
 <type>uri</type>
 <value>http://dbpedia.org/resource/The_Misses_Vickers</value>
-</painting>
+</artwork>
 <thumbnail>
 <type>uri</type>
 <value>http://commons.wikimedia.org/wiki/Special:FilePath/The_Misses_Vickers_John_Singer_Sargent_1884.jpeg?width=300</value>
@@ -94,12 +106,16 @@
 <type>uri</type>
 <value>http://en.wikipedia.org/wiki/The_Misses_Vickers?oldid=601880391</value>
 </wikilink>
+<type>
+<type>uri</type>
+<value>http://dbpedia.org/resource/Oil_painting</value>
+</type>
 </XML_Serializer_Tag>
 <XML_Serializer_Tag>
-<painting>
+<artwork>
 <type>uri</type>
 <value>http://dbpedia.org/resource/The_Daughters_of_Edward_Darley_Boit</value>
-</painting>
+</artwork>
 <thumbnail>
 <type>uri</type>
 <value>http://commons.wikimedia.org/wiki/Special:FilePath/The_Daughters_of_Edward_Darley_Boit,_John_Singer_Sargent,_1882_(unfree_frame_crop).jpg?width=300</value>
@@ -118,12 +134,16 @@
 <type>uri</type>
 <value>http://en.wikipedia.org/wiki/The_Daughters_of_Edward_Darley_Boit?oldid=601880427</value>
 </wikilink>
+<type>
+<type>uri</type>
+<value>http://dbpedia.org/resource/Oil_painting</value>
+</type>
 </XML_Serializer_Tag>
 <XML_Serializer_Tag>
-<painting>
+<artwork>
 <type>uri</type>
 <value>http://dbpedia.org/resource/Mrs._Fiske_Warren_(Gretchen_Osgood)_and_Her_Daughter_Rachel</value>
-</painting>
+</artwork>
 <thumbnail>
 <type>uri</type>
 <value>http://en.wikipedia.org/wiki/Special:FilePath/John_Singer_Sargent_-_Mrs._Fiske_Warren_(Gretchen_Osgood)_and_Her_Daughter_Rachel_-_Google_Art_Project.jpg?width=300</value>
@@ -142,12 +162,17 @@
 <type>uri</type>
 <value>http://en.wikipedia.org/wiki/Mrs._Fiske_Warren_(Gretchen_Osgood)_and_Her_Daughter_Rachel?oldid=599514044</value>
 </wikilink>
+<type>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>Oil on canvas</value>
+</type>
 </XML_Serializer_Tag>
 <XML_Serializer_Tag>
-<painting>
+<artwork>
 <type>uri</type>
 <value>http://dbpedia.org/resource/Portrait_of_Madame_X</value>
-</painting>
+</artwork>
 <thumbnail>
 <type>uri</type>
 <value>http://en.wikipedia.org/wiki/Special:FilePath/Madame_X_(Madame_Pierre_Gautreau),_John_Singer_Sargent,_1884_(unfree_frame_crop).jpg?width=300</value>
@@ -161,12 +186,16 @@
 <type>uri</type>
 <value>http://en.wikipedia.org/wiki/Portrait_of_Madame_X?oldid=601880285</value>
 </wikilink>
+<type>
+<type>uri</type>
+<value>http://dbpedia.org/resource/Oil_painting</value>
+</type>
 </XML_Serializer_Tag>
 <XML_Serializer_Tag>
-<painting>
+<artwork>
 <type>uri</type>
 <value>http://dbpedia.org/resource/Ellen_Terry_as_Lady_Macbeth</value>
-</painting>
+</artwork>
 <thumbnail>
 <type>uri</type>
 <value>http://commons.wikimedia.org/wiki/Special:FilePath/Ellen_Terry_as_Lady_Macbeth.jpg?width=300</value>
@@ -180,9 +209,13 @@
 <type>uri</type>
 <value>http://en.wikipedia.org/wiki/Ellen_Terry_as_Lady_Macbeth?oldid=598631663</value>
 </wikilink>
+<type>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>Oil on canvas</value>
+</type>
 </XML_Serializer_Tag>
 </artworks>
-<dbpResource>http://dbpedia.org/resource/John_Singer_Sargent</dbpResource>
-<abstract>John Singer Sargent (* 12. Januar 1856 in Florenz; † 15. April 1925 in London) galt als der bedeutendste US-amerikanische Porträt-Maler seiner Zeit.</abstract>
-<wikilink>http://en.wikipedia.org/wiki/John_Singer_Sargent?oldid=605692812</wikilink>
+<buildings />
+<books />
 </Person>

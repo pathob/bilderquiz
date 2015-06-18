@@ -1,0 +1,34 @@
+<Person>
+<name>Friedrich Adolf Trendelenburg</name>
+<variantName>
+<XML_Serializer_Tag>Fridericus Adolphus Trendelenburg</XML_Serializer_Tag>
+<XML_Serializer_Tag>Friedericus Adolphus Trendelenburg</XML_Serializer_Tag>
+<XML_Serializer_Tag>Friedrich Adolph Trendelenburg</XML_Serializer_Tag>
+<XML_Serializer_Tag>Friedr. Adolf Trendelenburg</XML_Serializer_Tag>
+<XML_Serializer_Tag>Adolph Trendelenburg</XML_Serializer_Tag>
+<XML_Serializer_Tag>Adolf Trendelenburg</XML_Serializer_Tag>
+<XML_Serializer_Tag>Friedrich A. Trendelenburg</XML_Serializer_Tag>
+<XML_Serializer_Tag>A. Trendelenburg</XML_Serializer_Tag>
+</variantName>
+<thumbnail>https://commons.wikimedia.org/wiki/Special:FilePath/Trendelenburg.jpg?width=270</thumbnail>
+<birthEN>November 30, 1802</birthEN>
+<birthDE>30. November 1802</birthDE>
+<deathEN>January 24, 1872</deathEN>
+<deathDE>24. Januar 1872</deathDE>
+<birthPlace>
+<XML_Serializer_Tag>Eutin</XML_Serializer_Tag>
+</birthPlace>
+<deathPlace>
+<XML_Serializer_Tag>Berlin</XML_Serializer_Tag>
+</deathPlace>
+<professionOrOccupation>
+<XML_Serializer_Tag>Philosoph</XML_Serializer_Tag>
+<XML_Serializer_Tag>Pädagoge</XML_Serializer_Tag>
+</professionOrOccupation>
+<dbpResource>http://dbpedia.org/resource/Friedrich_Adolf_Trendelenburg</dbpResource>
+<abstract>Friedrich Adolf Trendelenburg (* 30. November 1802 in Eutin; † 24. Januar 1872 in Berlin) war ein deutscher, vor allem an Kant und Aristoteles orientierter, Philosoph, Philologe und Pädagoge.</abstract>
+<wikilink>http://en.wikipedia.org/wiki/Friedrich_Adolf_Trendelenburg?oldid=606535032</wikilink>
+<artworks />
+<buildings />
+<books />
+</Person>

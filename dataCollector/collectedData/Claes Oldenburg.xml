@@ -1,0 +1,106 @@
+<Person>
+<name>Claes Oldenburg</name>
+<variantName />
+<thumbnail>https://commons.wikimedia.org/wiki/Special:FilePath/Museum_Ludwig_-_Pressekonferenz_-_Claes_Oldenburg-3979.jpg?width=270</thumbnail>
+<birthEN>1929</birthEN>
+<birthDE>1929</birthDE>
+<deathEN />
+<deathDE />
+<birthPlace>
+<XML_Serializer_Tag>Stockholm</XML_Serializer_Tag>
+</birthPlace>
+<deathPlace />
+<professionOrOccupation>
+<XML_Serializer_Tag>Künstler</XML_Serializer_Tag>
+<XML_Serializer_Tag>Pop-Art-Künstler</XML_Serializer_Tag>
+</professionOrOccupation>
+<dbpResource>http://dbpedia.org/resource/Claes_Oldenburg</dbpResource>
+<abstract>Claes Oldenburg (* 28. Januar 1929 in Stockholm als Claes Thure Oldenburg) gehört neben Andy Warhol und Roy Lichtenstein zu den bedeutendsten Vertretern der amerikanischen Pop Art. Besonders bekannt wurde er durch Skulpturen, die aus einfachen Werkstoffen hergestellt sind oder Alltagsgegenstände darstellen. Oldenburg arbeitete seit 1976 mit der niederländischen Künstlerin Coosje van Bruggen (1942–2009) zusammen; sie waren seit 1977 verheiratet.</abstract>
+<wikilink>http://en.wikipedia.org/wiki/Claes_Oldenburg?oldid=606757199</wikilink>
+<artworks>
+<XML_Serializer_Tag>
+<artwork>
+<type>uri</type>
+<value>http://dbpedia.org/resource/Clothespin_(Oldenburg)</value>
+</artwork>
+<thumbnail>
+<type>uri</type>
+<value>http://en.wikipedia.org/wiki/Special:FilePath/Clothespin-oldenberg.jpg?width=300</value>
+</thumbnail>
+<name>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>Clothespin</value>
+</name>
+<year>
+<type>typed-literal</type>
+<datatype>http://www.w3.org/2001/XMLSchema#integer</datatype>
+<value>1976</value>
+</year>
+<wikilink>
+<type>uri</type>
+<value>http://en.wikipedia.org/wiki/Clothespin_(Oldenburg)?oldid=597068027</value>
+</wikilink>
+<type>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>Weathering Steel</value>
+</type>
+</XML_Serializer_Tag>
+<XML_Serializer_Tag>
+<artwork>
+<type>uri</type>
+<value>http://dbpedia.org/resource/Lipstick_(Ascending)_on_Caterpillar_Tracks</value>
+</artwork>
+<thumbnail>
+<type>uri</type>
+<value>http://en.wikipedia.org/wiki/Special:FilePath/Lipstick-catepillar.jpg?width=300</value>
+</thumbnail>
+<name>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>Lipstick (Ascending) on Caterpillar Tracks</value>
+</name>
+<year>
+<type>typed-literal</type>
+<datatype>http://www.w3.org/2001/XMLSchema#integer</datatype>
+<value>1969</value>
+</year>
+<wikilink>
+<type>uri</type>
+<value>http://en.wikipedia.org/wiki/Lipstick_(Ascending)_on_Caterpillar_Tracks?oldid=597643402</value>
+</wikilink>
+<type>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>Weathering Steel</value>
+</type>
+</XML_Serializer_Tag>
+<XML_Serializer_Tag>
+<artwork>
+<type>uri</type>
+<value>http://dbpedia.org/resource/The_Button_(sculpture)</value>
+</artwork>
+<thumbnail>
+<type>uri</type>
+<value>http://commons.wikimedia.org/wiki/Special:FilePath/WTP_A01_youcanlookitup_2.jpg?width=300</value>
+</thumbnail>
+<name>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>The Button</value>
+</name>
+<wikilink>
+<type>uri</type>
+<value>http://en.wikipedia.org/wiki/The_Button_(sculpture)?oldid=601074449</value>
+</wikilink>
+<type>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>Sculpture</value>
+</type>
+</XML_Serializer_Tag>
+</artworks>
+<buildings />
+<books />
+</Person>

@@ -1,0 +1,53 @@
+<Person>
+<name>Santi Gucci</name>
+<variantName />
+<thumbnail>https://commons.wikimedia.org/wiki/Special:FilePath/Janowiec_ogólnie.jpg?width=270</thumbnail>
+<birthEN>1530</birthEN>
+<birthDE>1530</birthDE>
+<deathEN>1600</deathEN>
+<deathDE>1600</deathDE>
+<birthPlace />
+<deathPlace />
+<professionOrOccupation>
+<XML_Serializer_Tag>Architekt</XML_Serializer_Tag>
+</professionOrOccupation>
+<dbpResource>http://dbpedia.org/resource/Santi_Gucci</dbpResource>
+<abstract>Santi Gucci (* um 1530; † um 1600 in Książ Wielki oder Pińczów) war ein polnisch-italienischer Renaissancearchitekt und Bildhauer.Santi Gucci kam um 1550 wahrscheinlich aus Florenz nach Polen und wurde dort Hofkünstler des letzten Jagiellonenkönigs Sigismund II. August, von Anna Jagiellonica und Stephan Báthory Santi Guccis Werkstatt in Pińczów entwickelte sich zu einem der Zentren manieristischer Kunst in Polen. Wegen seiner Verdienste für die polnische Krone wurde er in den Adelsstand erhoben. Als einer der erfolgreichsten und fruchtbarsten Architekten seiner Zeit erbaute er eine große Zahl von Adelspalästen in der gesamten Rzeczpospolita, darunter von 1565 bis 1585 das Schloss der Familie Firlej in Janowiec an der Weichsel, für die er 1586 auch ein manieristisches Grabdenkmal errichtete, von 1585 bis 1595 den Palast in Książ Wielki für den Krakauer Bischof Piotr Myszkowski, das Palais der Łobszów in Krakau (1585 bis 1587), wohl auch das Schloss (Palast der Leszczyńskis) in Baranów Sandomierski. Weitere Werke sind u.a. in der Kathedrale des Krakauer Wawel die Grabplatte für Anna Jagiellonica, das Chorgestühl sowie das Grabmal des Stephan Báthory. In Krakau-Zentrum der Umbau des Kapitelhauses, in Niepołomice die Familienkapelle der Branicki und die St.-Anna-Kapelle oberhalb von Pińczów.</abstract>
+<wikilink>http://en.wikipedia.org/wiki/Santi_Gucci?oldid=562608296</wikilink>
+<artworks />
+<buildings>
+<XML_Serializer_Tag>
+<building>
+<type>uri</type>
+<value>http://dbpedia.org/resource/Baran%C3%B3w_Sandomierski_Castle</value>
+</building>
+<name>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>Baranów Sandomierski Castle</value>
+</name>
+<architect>
+<type>uri</type>
+<value>http://dbpedia.org/resource/Santi_Gucci</value>
+</architect>
+<thumbnail>
+<type>uri</type>
+<value>http://commons.wikimedia.org/wiki/Special:FilePath/Baranow1.jpg?width=300</value>
+</thumbnail>
+<wikilink>
+<type>uri</type>
+<value>http://en.wikipedia.org/wiki/Baranów_Sandomierski_Castle?oldid=549622912</value>
+</wikilink>
+<location>
+<type>uri</type>
+<value>http://dbpedia.org/resource/Baran%C3%B3w_Sandomierski</value>
+</location>
+<abstract>
+<type>literal</type>
+<xml:lang>de</xml:lang>
+<value>50.50180555555621.533333333333Der Leszczyński-Palast (im polnischen: Pałac Leszczyński) befindet sich in der Ortschaft Baranów Sandomierski im Landkreis Tarnobrzeg in der Woiwodschaft Karpatenvorland. Er liegt 28 Kilometer südwestlich der Weichselstadt Sandomierz. Die ehemalige Magnaten-Residenz, die als „Perle der polnischen Renaissance“ gilt und im Volksmund wegen ihrer Ähnlichkeit zum Krakauer Schloss auch als „Kleiner Wawel“ tituliert wird, beherbergt heute mit umliegenden Gebäuden neben einem Museum auch Hotel-, Restaurant- und Konferenzräumlichkeiten.</value>
+</abstract>
+</XML_Serializer_Tag>
+</buildings>
+<books />
+</Person>

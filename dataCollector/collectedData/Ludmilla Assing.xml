@@ -1,0 +1,33 @@
+<Person>
+<name>Ludmilla Assing</name>
+<variantName>
+<XML_Serializer_Tag>Ludmilla Assing-Grimelli</XML_Serializer_Tag>
+<XML_Serializer_Tag>Rosa Ludmilla Assing</XML_Serializer_Tag>
+<XML_Serializer_Tag>Ludmille Assing</XML_Serializer_Tag>
+<XML_Serializer_Tag>Rosa Ludmilla Grimelli</XML_Serializer_Tag>
+<XML_Serializer_Tag>Ludmilla Grimelli</XML_Serializer_Tag>
+<XML_Serializer_Tag>Achim Lothar</XML_Serializer_Tag>
+<XML_Serializer_Tag>Talora</XML_Serializer_Tag>
+</variantName>
+<thumbnail>https://commons.wikimedia.org/wiki/Special:FilePath/Ludmilla_Assing.jpg?width=270</thumbnail>
+<birthEN>February 22, 1821</birthEN>
+<birthDE>22. Februar 1821</birthDE>
+<deathEN>March 25, 1880</deathEN>
+<deathDE>25. März 1880</deathDE>
+<birthPlace>
+<XML_Serializer_Tag>Hamburg</XML_Serializer_Tag>
+</birthPlace>
+<deathPlace>
+<XML_Serializer_Tag>Florenz</XML_Serializer_Tag>
+</deathPlace>
+<professionOrOccupation>
+<XML_Serializer_Tag>Schriftstellerin</XML_Serializer_Tag>
+<XML_Serializer_Tag>Publizistin</XML_Serializer_Tag>
+</professionOrOccupation>
+<dbpResource>http://dbpedia.org/resource/Ludmilla_Assing</dbpResource>
+<abstract>Rosa Ludmilla Assing (* 22. Februar 1821 in Hamburg; † 25. März 1880 in Florenz) war eine deutsche Schriftstellerin. Sie schrieb auch unter den Pseudonymen Achim Lothar und Talora.</abstract>
+<wikilink>http://en.wikipedia.org/wiki/Ludmilla_Assing?oldid=586377888</wikilink>
+<artworks />
+<buildings />
+<books />
+</Person>

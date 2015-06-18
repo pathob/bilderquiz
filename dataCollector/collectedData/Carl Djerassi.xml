@@ -1,0 +1,25 @@
+<Person>
+<name>Carl Djerassi</name>
+<variantName />
+<thumbnail>https://commons.wikimedia.org/wiki/Special:FilePath/CarlDjerassiDortmund_038.jpg?width=270</thumbnail>
+<birthEN>October 29, 1923</birthEN>
+<birthDE>29. Oktober 1923</birthDE>
+<deathEN>January 30, 2015</deathEN>
+<deathDE>30. Januar 2015</deathDE>
+<birthPlace>
+<XML_Serializer_Tag>Wien</XML_Serializer_Tag>
+</birthPlace>
+<deathPlace>
+<XML_Serializer_Tag>San Francisco, Calif.</XML_Serializer_Tag>
+</deathPlace>
+<professionOrOccupation>
+<XML_Serializer_Tag>Chemiker</XML_Serializer_Tag>
+<XML_Serializer_Tag>Schriftsteller</XML_Serializer_Tag>
+</professionOrOccupation>
+<dbpResource>http://dbpedia.org/resource/Carl_Djerassi</dbpResource>
+<abstract>Carl Djerassi (* 29. Oktober 1923 in Wien) ist ein amerikanisch-österreichischer Chemiker und Schriftsteller. Djerassi ist für die Entwicklung der ersten Antibabypille bekannt geworden. Er selbst nennt sich in seiner Autobiografie die „Mutter der Pille“, da er sich selbst nur als chemischer Erfinder der Pille sieht.</abstract>
+<wikilink>http://en.wikipedia.org/wiki/Carl_Djerassi?oldid=600686688</wikilink>
+<artworks />
+<buildings />
+<books />
+</Person>

@@ -1,0 +1,66 @@
+<Person>
+<name>Fay Weldon</name>
+<variantName>
+<XML_Serializer_Tag>Fei Ueldon</XML_Serializer_Tag>
+<XML_Serializer_Tag>Fay Birkinshaw</XML_Serializer_Tag>
+<XML_Serializer_Tag>Franklin Birkinshaw</XML_Serializer_Tag>
+</variantName>
+<thumbnail>https://commons.wikimedia.org/wiki/Special:FilePath/Fay-Weldon_Copenhagen-2008.jpg?width=270</thumbnail>
+<birthEN>1931</birthEN>
+<birthDE>1931</birthDE>
+<deathEN />
+<deathDE />
+<birthPlace>
+<XML_Serializer_Tag>Alvechurch</XML_Serializer_Tag>
+</birthPlace>
+<deathPlace />
+<professionOrOccupation>
+<XML_Serializer_Tag>Schriftstellerin</XML_Serializer_Tag>
+<XML_Serializer_Tag>Journalistin</XML_Serializer_Tag>
+</professionOrOccupation>
+<dbpResource>http://dbpedia.org/resource/Fay_Weldon</dbpResource>
+<abstract>Fay Weldon CBE (* 22. September 1931 in Alvechurch, Worcestershire; geborene Franklin Birkinshaw) ist eine britische Autorin und Feministin.</abstract>
+<wikilink>http://en.wikipedia.org/wiki/Fay_Weldon?oldid=606712703</wikilink>
+<artworks />
+<buildings />
+<books>
+<XML_Serializer_Tag>
+<book>
+<type>uri</type>
+<value>http://dbpedia.org/resource/The_Bulgari_Connection</value>
+</book>
+<author>
+<type>uri</type>
+<value>http://dbpedia.org/resource/Fay_Weldon</value>
+</author>
+<released>
+<type>typed-literal</type>
+<datatype>http://www.w3.org/2001/XMLSchema#integer</datatype>
+<value>2001</value>
+</released>
+<wikilink>
+<type>uri</type>
+<value>http://en.wikipedia.org/wiki/The_Bulgari_Connection?oldid=556637549</value>
+</wikilink>
+</XML_Serializer_Tag>
+<XML_Serializer_Tag>
+<book>
+<type>uri</type>
+<value>http://dbpedia.org/resource/The_Life_and_Loves_of_a_She-Devil</value>
+</book>
+<author>
+<type>uri</type>
+<value>http://dbpedia.org/resource/Fay_Weldon</value>
+</author>
+<released>
+<type>typed-literal</type>
+<datatype>http://www.w3.org/2001/XMLSchema#integer</datatype>
+<value>1983</value>
+</released>
+<wikilink>
+<type>uri</type>
+<value>http://en.wikipedia.org/wiki/The_Life_and_Loves_of_a_She-Devil?oldid=574098743</value>
+</wikilink>
+</XML_Serializer_Tag>
+</books>
+</Person>

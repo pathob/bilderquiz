@@ -12,8 +12,10 @@
 <XML_Serializer_Tag>Künstler</XML_Serializer_Tag>
 <XML_Serializer_Tag>Maler</XML_Serializer_Tag>
 </professionOrOccupation>
-<artworks />
 <dbpResource>http://dbpedia.org/resource/Robert_Mangold</dbpResource>
 <abstract>Robert Peter Mangold (* 19. Oktober 1937 in North Tonawanda, N.Y.) ist ein US-amerikanischer Maler des Minimalismus.</abstract>
 <wikilink>http://en.wikipedia.org/wiki/Robert_Mangold?oldid=606403838</wikilink>
+<artworks />
+<buildings />
+<books />
 </Person>

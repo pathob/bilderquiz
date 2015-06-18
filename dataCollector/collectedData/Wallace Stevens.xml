@@ -1,0 +1,35 @@
+<Person>
+<name>Wallace Stevens</name>
+<variantName />
+<thumbnail>https://en.wikipedia.org/wiki/Special:FilePath/Wallace_Stevens.jpg?width=270</thumbnail>
+<birthEN>1879</birthEN>
+<birthDE>1879</birthDE>
+<deathEN>1955</deathEN>
+<deathDE>1955</deathDE>
+<birthPlace />
+<deathPlace />
+<professionOrOccupation>
+<XML_Serializer_Tag>Schriftsteller</XML_Serializer_Tag>
+</professionOrOccupation>
+<dbpResource>http://dbpedia.org/resource/Wallace_Stevens</dbpResource>
+<abstract>Wallace Stevens (* 2. Oktober 1879 in Reading, Pennsylvania; † 2. August 1955 in Hartford, Connecticut) war ein amerikanischer Lyriker und Essayist.</abstract>
+<wikilink>http://en.wikipedia.org/wiki/Wallace_Stevens?oldid=605929779</wikilink>
+<artworks />
+<buildings />
+<books>
+<XML_Serializer_Tag>
+<book>
+<type>uri</type>
+<value>http://dbpedia.org/resource/The_Auroras_of_Autumn</value>
+</book>
+<author>
+<type>uri</type>
+<value>http://dbpedia.org/resource/Wallace_Stevens</value>
+</author>
+<wikilink>
+<type>uri</type>
+<value>http://en.wikipedia.org/wiki/The_Auroras_of_Autumn?oldid=589144642</value>
+</wikilink>
+</XML_Serializer_Tag>
+</books>
+</Person>

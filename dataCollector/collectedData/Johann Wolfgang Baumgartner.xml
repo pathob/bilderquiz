@@ -13,8 +13,10 @@
 <XML_Serializer_Tag>Maler</XML_Serializer_Tag>
 <XML_Serializer_Tag>Zeichner</XML_Serializer_Tag>
 </professionOrOccupation>
-<artworks />
 <dbpResource>http://dbpedia.org/resource/Johann_Wolfgang_Baumgartner</dbpResource>
 <abstract>Johann Wolfgang Baumgartner (* 1702 in Ebbs, Tirol; † 7. September 1761 in Augsburg) war ein österreichisch-deutscher Rokoko-Maler.</abstract>
 <wikilink>http://en.wikipedia.org/wiki/Johann_Wolfgang_Baumgartner?oldid=600719938</wikilink>
+<artworks />
+<buildings />
+<books />
 </Person>

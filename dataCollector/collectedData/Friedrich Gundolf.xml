@@ -1,0 +1,25 @@
+<Person>
+<name>Friedrich Gundolf</name>
+<variantName>
+<XML_Serializer_Tag>Friedrich Leopold Gundelfinger</XML_Serializer_Tag>
+<XML_Serializer_Tag>Friedrich Gundelfinger</XML_Serializer_Tag>
+<XML_Serializer_Tag>Friedrich Gundel</XML_Serializer_Tag>
+</variantName>
+<thumbnail>https://commons.wikimedia.org/wiki/Special:FilePath/Jacob_Hilsdorf_-_Friedrich_Gundolf.jpg?width=270</thumbnail>
+<birthEN>1880</birthEN>
+<birthDE>1880</birthDE>
+<deathEN>1931</deathEN>
+<deathDE>1931</deathDE>
+<birthPlace />
+<deathPlace />
+<professionOrOccupation>
+<XML_Serializer_Tag>Schriftsteller</XML_Serializer_Tag>
+<XML_Serializer_Tag>Literarhistoriker</XML_Serializer_Tag>
+</professionOrOccupation>
+<dbpResource>http://dbpedia.org/resource/Friedrich_Gundolf</dbpResource>
+<abstract>Friedrich Gundolf, eigentlich Friedrich Leopold Gundelfinger (* 20. Juni 1880 in Darmstadt; † 12. Juli 1931 in Heidelberg), war ein deutscher Dichter und Literaturwissenschaftler. Spätestens sein Goethe (1916) machte ihn über Fachgrenzen hinweg bekannt; er war der wohl meistgelesene Germanist der Weimarer Republik.</abstract>
+<wikilink>http://en.wikipedia.org/wiki/Friedrich_Gundolf?oldid=592868016</wikilink>
+<artworks />
+<buildings />
+<books />
+</Person>

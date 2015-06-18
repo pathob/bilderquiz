@@ -1,0 +1,30 @@
+<Person>
+<name>Alexander Baumann</name>
+<variantName>
+<XML_Serializer_Tag>Alexander Moritz Baumann</XML_Serializer_Tag>
+</variantName>
+<thumbnail>https://commons.wikimedia.org/wiki/Special:FilePath/Alexander_Baumann.jpg?width=270</thumbnail>
+<birthEN>February 7, 1814</birthEN>
+<birthDE>7. Februar 1814</birthDE>
+<deathEN>December 25, 1857</deathEN>
+<deathDE>25. Dezember 1857</deathDE>
+<birthPlace>
+<XML_Serializer_Tag>Wien</XML_Serializer_Tag>
+</birthPlace>
+<deathPlace>
+<XML_Serializer_Tag>Graz</XML_Serializer_Tag>
+</deathPlace>
+<professionOrOccupation>
+<XML_Serializer_Tag>Schriftsteller</XML_Serializer_Tag>
+<XML_Serializer_Tag>Archivar</XML_Serializer_Tag>
+<XML_Serializer_Tag>Musiker</XML_Serializer_Tag>
+<XML_Serializer_Tag>Komponist</XML_Serializer_Tag>
+<XML_Serializer_Tag>Librettist</XML_Serializer_Tag>
+</professionOrOccupation>
+<dbpResource>http://dbpedia.org/resource/Alexander_Baumann_(aeronautical_engineer)</dbpResource>
+<abstract>Alexander Baumann (* 15. Mai 1875 in Heilbronn; † 23. März 1928 in Stuttgart) war ein deutscher Flugzeugkonstrukteur. Baumann war der erste Wissenschaftler, der eine Professur für Luftschifffahrt, Flugtechnik und Kraftfahrwesen im Deutschen Reich innehatte. Er konstruierte im Ersten Weltkrieg die so genannten Riesenflugzeuge und war Mitte der 1920er Jahre dann in Japan als Konstrukteur für Mitsubishi tätig.</abstract>
+<wikilink>http://en.wikipedia.org/wiki/Alexander_Baumann_(aeronautical_engineer)?oldid=548477510</wikilink>
+<artworks />
+<buildings />
+<books />
+</Person>

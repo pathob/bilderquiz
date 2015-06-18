@@ -14,8 +14,10 @@
 <XML_Serializer_Tag>Maler</XML_Serializer_Tag>
 <XML_Serializer_Tag>Radierer</XML_Serializer_Tag>
 </professionOrOccupation>
-<artworks />
 <dbpResource>http://dbpedia.org/resource/Rolf_Nesch</dbpResource>
 <abstract>Rolf Nesch (* 7. Januar 1893 in Oberesslingen am Neckar; † 27. Oktober 1975 in Oslo; eigentlich: Emil Rudolf Nesch) war ein deutsch-norwegischer Maler und Grafiker.</abstract>
 <wikilink>http://en.wikipedia.org/wiki/Rolf_Nesch?oldid=588502781</wikilink>
+<artworks />
+<buildings />
+<books />
 </Person>

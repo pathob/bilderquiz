@@ -1,0 +1,47 @@
+<Person>
+<name>Mihail Sadoveanu</name>
+<variantName>
+<XML_Serializer_Tag>M. S. Cobuz</XML_Serializer_Tag>
+<XML_Serializer_Tag>Mikhail Sadovi͡anu</XML_Serializer_Tag>
+<XML_Serializer_Tag>Michail Sadovijanu</XML_Serializer_Tag>
+<XML_Serializer_Tag>Michail Sadoveanu</XML_Serializer_Tag>
+</variantName>
+<thumbnail>https://commons.wikimedia.org/wiki/Special:FilePath/Mihail_Sadoveanu.jpg?width=270</thumbnail>
+<birthEN>November 5, 1880</birthEN>
+<birthDE>5. November 1880</birthDE>
+<deathEN>October 19, 1961</deathEN>
+<deathDE>19. Oktober 1961</deathDE>
+<birthPlace>
+<XML_Serializer_Tag>Paşcani</XML_Serializer_Tag>
+</birthPlace>
+<deathPlace />
+<professionOrOccupation>
+<XML_Serializer_Tag>Schriftsteller</XML_Serializer_Tag>
+</professionOrOccupation>
+<dbpResource>http://dbpedia.org/resource/Mihail_Sadoveanu</dbpResource>
+<abstract>Mihail Sadoveanu (* 5. November 1880 in Pașcani; † 19. Oktober 1961 in Vânători-Neamț) war einer der bedeutendsten rumänischen Schriftsteller, Erzähler, Novellist und Romancier der ersten Hälfte des 20. Jahrhunderts, später auch Politiker in der Volksrepublik Rumänien.</abstract>
+<wikilink>http://en.wikipedia.org/wiki/Mihail_Sadoveanu?oldid=584625849</wikilink>
+<artworks />
+<buildings />
+<books>
+<XML_Serializer_Tag>
+<book>
+<type>uri</type>
+<value>http://dbpedia.org/resource/The_Hatchet_(novel)</value>
+</book>
+<author>
+<type>uri</type>
+<value>http://dbpedia.org/resource/Mihail_Sadoveanu</value>
+</author>
+<released>
+<type>typed-literal</type>
+<datatype>http://www.w3.org/2001/XMLSchema#integer</datatype>
+<value>1930</value>
+</released>
+<wikilink>
+<type>uri</type>
+<value>http://en.wikipedia.org/wiki/The_Hatchet_(novel)?oldid=541592770</value>
+</wikilink>
+</XML_Serializer_Tag>
+</books>
+</Person>

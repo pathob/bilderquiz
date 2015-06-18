@@ -16,8 +16,10 @@
 <XML_Serializer_Tag>Graphiker</XML_Serializer_Tag>
 <XML_Serializer_Tag>Bildhauer</XML_Serializer_Tag>
 </professionOrOccupation>
-<artworks />
 <dbpResource>http://dbpedia.org/resource/Bernard_Buffet</dbpResource>
 <abstract>Bernard Buffet (* 10. Juli 1928 in Paris; † 4. Oktober 1999 in Tourtour, Provence-Alpes-Côte d’Azur) war ein französischer Grafiker und Maler des Expressionismus. Darüber hinaus arbeitete er auch als Illustrator und Bühnenbildner.</abstract>
 <wikilink>http://en.wikipedia.org/wiki/Bernard_Buffet?oldid=555308292</wikilink>
+<artworks />
+<buildings />
+<books />
 </Person>

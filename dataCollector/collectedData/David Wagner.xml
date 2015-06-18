@@ -1,0 +1,26 @@
+<Person>
+<name>David Wagner</name>
+<variantName>
+<XML_Serializer_Tag>Da wei Wa ge na</XML_Serializer_Tag>
+<XML_Serializer_Tag>Dawei-Wagena</XML_Serializer_Tag>
+<XML_Serializer_Tag>Dawei Wagena</XML_Serializer_Tag>
+</variantName>
+<thumbnail>https://commons.wikimedia.org/wiki/Special:FilePath/David_Wagner_2010.JPG?width=270</thumbnail>
+<birthEN>1971</birthEN>
+<birthDE>1971</birthDE>
+<deathEN />
+<deathDE />
+<birthPlace>
+<XML_Serializer_Tag>Andernach</XML_Serializer_Tag>
+</birthPlace>
+<deathPlace />
+<professionOrOccupation>
+<XML_Serializer_Tag>Schriftsteller</XML_Serializer_Tag>
+</professionOrOccupation>
+<dbpResource>http://dbpedia.org/resource/David_A._Wagner</dbpResource>
+<abstract>David A. Wagner (* 1974) ist ein US-amerikanischer Informatiker, Experte für Kryptographie und Computersicherheit. Wagner hat sich mit der Entwicklung von Verschlüsselungsalgorithmen (Twofish) und Kryptanalyse (Boomerang Angriff, Angriff des WEP-Protokolls, usw.) beschäftigt. Er hat mit Bruce Schneier und John Kelsey gearbeitet und ist jetzt Professor an der Universität Berkeley.</abstract>
+<wikilink>http://en.wikipedia.org/wiki/David_A._Wagner?oldid=594042376</wikilink>
+<artworks />
+<buildings />
+<books />
+</Person>

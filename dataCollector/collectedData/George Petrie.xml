@@ -14,8 +14,10 @@
 <XML_Serializer_Tag>Geiger</XML_Serializer_Tag>
 <XML_Serializer_Tag>Volksliedforscher</XML_Serializer_Tag>
 </professionOrOccupation>
-<artworks />
 <dbpResource>http://dbpedia.org/resource/George_Petrie_(New_York)</dbpResource>
 <abstract>George Petrie (* 8. September 1793 in Little Falls, New York; † 8. Mai 1879 ebenda) war ein US-amerikanischer Politiker. Zwischen 1847 und 1849 vertrat er den Bundesstaat New York im US-Repräsentantenhaus.</abstract>
 <wikilink>http://en.wikipedia.org/wiki/George_Petrie_(New_York)?oldid=544825838</wikilink>
+<artworks />
+<buildings />
+<books />
 </Person>

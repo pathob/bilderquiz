@@ -1,0 +1,29 @@
+<Person>
+<name>Uwe Johnson</name>
+<variantName>
+<XML_Serializer_Tag>Uve Jonson</XML_Serializer_Tag>
+<XML_Serializer_Tag>אווה יונסון</XML_Serializer_Tag>
+<XML_Serializer_Tag>ウーヴェ・ヨーンゾン</XML_Serializer_Tag>
+<XML_Serializer_Tag>ウーヴェ ヨーンゾン</XML_Serializer_Tag>
+</variantName>
+<thumbnail>https://commons.wikimedia.org/wiki/Special:FilePath/GuestrowUweJohnsonDetail.jpg?width=270</thumbnail>
+<birthEN>July 20, 1934</birthEN>
+<birthDE>20. Juli 1934</birthDE>
+<deathEN>February 24, 1984</deathEN>
+<deathDE>24. Februar 1984</deathDE>
+<birthPlace>
+<XML_Serializer_Tag>Kamień Pomorski</XML_Serializer_Tag>
+</birthPlace>
+<deathPlace>
+<XML_Serializer_Tag>Sheerness</XML_Serializer_Tag>
+</deathPlace>
+<professionOrOccupation>
+<XML_Serializer_Tag>Schriftsteller</XML_Serializer_Tag>
+</professionOrOccupation>
+<dbpResource>http://dbpedia.org/resource/Uwe_Johnson</dbpResource>
+<abstract>Uwe Johnson (* 20. Juli 1934 in Cammin, Pommern; † vermutlich in der Nacht vom 23. Februar auf den 24. Februar 1984 in Sheerness on Sea, England) war ein deutscher Schriftsteller. Er gehörte der Gruppe 47 an. In seinem Hauptwerk, dem umfangreichen Roman Jahrestage, formulierte er dem Kritiker Joachim Kaiser zufolge die „tröstliche Utopie“, dass „auch die rücksichtsloseste Diktatur nicht die Seelen ihrer Opfer zu beherrschen“ vermöge.</abstract>
+<wikilink>http://en.wikipedia.org/wiki/Uwe_Johnson?oldid=563693071</wikilink>
+<artworks />
+<buildings />
+<books />
+</Person>

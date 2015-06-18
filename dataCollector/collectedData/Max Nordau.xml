@@ -1,0 +1,61 @@
+<Person>
+<name>Max Nordau</name>
+<variantName>
+<XML_Serializer_Tag>M. Nordau</XML_Serializer_Tag>
+<XML_Serializer_Tag>Max S. Nordau</XML_Serializer_Tag>
+<XML_Serializer_Tag>Maks Nordau</XML_Serializer_Tag>
+<XML_Serializer_Tag>Max Simon Nordau</XML_Serializer_Tag>
+<XML_Serializer_Tag>Max ben Gabriel Nordau</XML_Serializer_Tag>
+<XML_Serializer_Tag>Nordau Max Simon</XML_Serializer_Tag>
+<XML_Serializer_Tag>Simhah Meir Südfeld</XML_Serializer_Tag>
+<XML_Serializer_Tag>Max Simon Südfeld</XML_Serializer_Tag>
+<XML_Serializer_Tag>Simon Südfeld</XML_Serializer_Tag>
+<XML_Serializer_Tag>Max Suedfeld</XML_Serializer_Tag>
+<XML_Serializer_Tag>Simon Maximilian Südfeld</XML_Serializer_Tag>
+<XML_Serializer_Tag>Max Norntau</XML_Serializer_Tag>
+<XML_Serializer_Tag>מאקס נורדאו</XML_Serializer_Tag>
+<XML_Serializer_Tag>מקס בן גבריאל נארדאו</XML_Serializer_Tag>
+<XML_Serializer_Tag>מאיר שמחה זידפלד</XML_Serializer_Tag>
+</variantName>
+<thumbnail>https://commons.wikimedia.org/wiki/Special:FilePath/Max_Nordau.jpg?width=270</thumbnail>
+<birthEN>July 29, 1849</birthEN>
+<birthDE>29. Juli 1849</birthDE>
+<deathEN>January 22, 1923</deathEN>
+<deathDE>22. Januar 1923</deathDE>
+<birthPlace>
+<XML_Serializer_Tag>Pest (Stadt)</XML_Serializer_Tag>
+</birthPlace>
+<deathPlace>
+<XML_Serializer_Tag>Paris</XML_Serializer_Tag>
+</deathPlace>
+<professionOrOccupation>
+<XML_Serializer_Tag>Arzt</XML_Serializer_Tag>
+<XML_Serializer_Tag>Schriftsteller</XML_Serializer_Tag>
+</professionOrOccupation>
+<dbpResource>http://dbpedia.org/resource/Max_Nordau</dbpResource>
+<abstract>Max Nordau (* 29. Juli 1849 als Maximilian Simon Südfeld in Pest; † 22. Januar 1923 in Paris) war Arzt (u. a. Herzls Pariser Hausarzt), Schriftsteller, Politiker und Mitbegründer der Zionistischen Weltorganisation.</abstract>
+<wikilink>http://en.wikipedia.org/wiki/Max_Nordau?oldid=583171755</wikilink>
+<artworks />
+<buildings />
+<books>
+<XML_Serializer_Tag>
+<book>
+<type>uri</type>
+<value>http://dbpedia.org/resource/Degeneration_(Max_Nordau)</value>
+</book>
+<author>
+<type>uri</type>
+<value>http://dbpedia.org/resource/Max_Nordau</value>
+</author>
+<released>
+<type>typed-literal</type>
+<datatype>http://www.w3.org/2001/XMLSchema#integer</datatype>
+<value>1892</value>
+</released>
+<wikilink>
+<type>uri</type>
+<value>http://en.wikipedia.org/wiki/Degeneration_(Max_Nordau)?oldid=587635385</value>
+</wikilink>
+</XML_Serializer_Tag>
+</books>
+</Person>

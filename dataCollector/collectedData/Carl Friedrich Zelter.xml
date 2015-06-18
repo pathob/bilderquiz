@@ -1,0 +1,31 @@
+<Person>
+<name>Carl Friedrich Zelter</name>
+<variantName>
+<XML_Serializer_Tag>... Zelter</XML_Serializer_Tag>
+<XML_Serializer_Tag>Karl Friedrich Zelter</XML_Serializer_Tag>
+<XML_Serializer_Tag>Karl F. Zelter</XML_Serializer_Tag>
+<XML_Serializer_Tag>Karl Zelter</XML_Serializer_Tag>
+<XML_Serializer_Tag>Carl F. Zelter</XML_Serializer_Tag>
+<XML_Serializer_Tag>Carlo Zelter</XML_Serializer_Tag>
+<XML_Serializer_Tag>C. F. Zelter</XML_Serializer_Tag>
+</variantName>
+<thumbnail>https://commons.wikimedia.org/wiki/Special:FilePath/Carl-Friedrich-Zelter.jpeg?width=270</thumbnail>
+<birthEN>December 11, 1758</birthEN>
+<birthDE>11. Dezember 1758</birthDE>
+<deathEN>May 15, 1832</deathEN>
+<deathDE>15. Mai 1832</deathDE>
+<birthPlace />
+<deathPlace />
+<professionOrOccupation>
+<XML_Serializer_Tag>Komponist</XML_Serializer_Tag>
+<XML_Serializer_Tag>Baumeister</XML_Serializer_Tag>
+<XML_Serializer_Tag>Dirigent</XML_Serializer_Tag>
+<XML_Serializer_Tag>Musiklehrer</XML_Serializer_Tag>
+</professionOrOccupation>
+<dbpResource>http://dbpedia.org/resource/Carl_Friedrich_Zelter</dbpResource>
+<abstract>Carl Friedrich Zelter (* 11. Dezember 1758 in Berlin; † 15. Mai 1832 Berlin) war ein deutscher Musiker, Professor, Musikpädagoge, Komponist und Dirigent mit größtem kulturpolitischen Einfluss in seiner Zeit.</abstract>
+<wikilink>http://en.wikipedia.org/wiki/Carl_Friedrich_Zelter?oldid=599851048</wikilink>
+<artworks />
+<buildings />
+<books />
+</Person>

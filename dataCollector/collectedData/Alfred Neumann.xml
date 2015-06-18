@@ -1,0 +1,33 @@
+<Person>
+<name>Alfred Neumann</name>
+<variantName>
+<XML_Serializer_Tag>Alfréd Neumann</XML_Serializer_Tag>
+<XML_Serializer_Tag>Alfredo Neumann</XML_Serializer_Tag>
+<XML_Serializer_Tag>Alfredo Neuman</XML_Serializer_Tag>
+<XML_Serializer_Tag>Alfred Neuman</XML_Serializer_Tag>
+<XML_Serializer_Tag>Al&apos;fred Nejman</XML_Serializer_Tag>
+<XML_Serializer_Tag>A. Neumann</XML_Serializer_Tag>
+<XML_Serializer_Tag>Alfred Newmann</XML_Serializer_Tag>
+</variantName>
+<thumbnail>https://commons.wikimedia.org/wiki/Special:FilePath/Gedenktafel_für_die_deutschen_u._österreichischen_Flüchtline_am_Fremdenverkehrsbüro_in_Sanary-sur-Mer1.JPG?width=270</thumbnail>
+<birthEN>October 15, 1895</birthEN>
+<birthDE>15. Oktober 1895</birthDE>
+<deathEN>October 3, 1952</deathEN>
+<deathDE>3. Oktober 1952</deathDE>
+<birthPlace>
+<XML_Serializer_Tag>Lidzbark</XML_Serializer_Tag>
+</birthPlace>
+<deathPlace>
+<XML_Serializer_Tag>Lugano</XML_Serializer_Tag>
+</deathPlace>
+<professionOrOccupation>
+<XML_Serializer_Tag>Schriftsteller</XML_Serializer_Tag>
+<XML_Serializer_Tag>Drehbuchautor</XML_Serializer_Tag>
+</professionOrOccupation>
+<dbpResource>http://dbpedia.org/resource/Alfred_Neumann_(East_Germany)</dbpResource>
+<abstract>Alfred „Ali“ Neumann (* 15. Dezember 1909 in Schöneberg; † 4. Januar 2001 in Berlin) war Mitglied des Politbüros des Zentralkomitees der SED und 1965–1968 Minister für Materialwirtschaft der DDR.</abstract>
+<wikilink>http://en.wikipedia.org/wiki/Alfred_Neumann_(East_Germany)?oldid=594407109</wikilink>
+<artworks />
+<buildings />
+<books />
+</Person>

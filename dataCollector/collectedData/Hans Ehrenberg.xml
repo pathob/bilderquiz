@@ -1,0 +1,26 @@
+<Person>
+<name>Hans Ehrenberg</name>
+<variantName>
+<XML_Serializer_Tag>Hans Philipp Ehrenberg</XML_Serializer_Tag>
+<XML_Serializer_Tag>Hans Ph. Ehrenberg</XML_Serializer_Tag>
+<XML_Serializer_Tag>Hans P. Ehrenberg</XML_Serializer_Tag>
+</variantName>
+<thumbnail>https://commons.wikimedia.org/wiki/Special:FilePath/Hans_Ehrenberg_portrait.jpg?width=270</thumbnail>
+<birthEN>June 4, 1883</birthEN>
+<birthDE>4. Juni 1883</birthDE>
+<deathEN>January 31, 1958</deathEN>
+<deathDE>31. Januar 1958</deathDE>
+<birthPlace />
+<deathPlace />
+<professionOrOccupation>
+<XML_Serializer_Tag>Volkswirt</XML_Serializer_Tag>
+<XML_Serializer_Tag>Theologe</XML_Serializer_Tag>
+<XML_Serializer_Tag>Philosoph</XML_Serializer_Tag>
+</professionOrOccupation>
+<dbpResource>http://dbpedia.org/resource/Hans_Ehrenberg</dbpResource>
+<abstract>Hans Philipp Ehrenberg (* 4. Juni 1883 in Altona; † 21. März 1958 in Heidelberg) war ein deutscher Theologe. Er gehörte zu den Mitbegründern der Bekennenden Kirche und musste wegen seiner jüdischen Abstammung und wegen Auseinandersetzungen mit den Nationalsozialisten nach England emigrieren.</abstract>
+<wikilink>http://en.wikipedia.org/wiki/Hans_Ehrenberg?oldid=604369224</wikilink>
+<artworks />
+<buildings />
+<books />
+</Person>

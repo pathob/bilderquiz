@@ -1,0 +1,81 @@
+<Person>
+<name>Georges Bataille</name>
+<variantName>
+<XML_Serializer_Tag>G. Bataiyu</XML_Serializer_Tag>
+<XML_Serializer_Tag>Žorž Bataj</XML_Serializer_Tag>
+<XML_Serializer_Tag>Ǧūrǧ Batāyī</XML_Serializer_Tag>
+<XML_Serializer_Tag>Louis Trente</XML_Serializer_Tag>
+<XML_Serializer_Tag>Pierre Angélique</XML_Serializer_Tag>
+<XML_Serializer_Tag>Lord Auch</XML_Serializer_Tag>
+</variantName>
+<thumbnail>https://en.wikipedia.org/wiki/Special:FilePath/GeorgesBataille.jpg?width=270</thumbnail>
+<birthEN>1897</birthEN>
+<birthDE>1897</birthDE>
+<deathEN>1962</deathEN>
+<deathDE>1962</deathDE>
+<birthPlace>
+<XML_Serializer_Tag>Billom</XML_Serializer_Tag>
+</birthPlace>
+<deathPlace>
+<XML_Serializer_Tag>Paris</XML_Serializer_Tag>
+</deathPlace>
+<professionOrOccupation>
+<XML_Serializer_Tag>Schriftsteller</XML_Serializer_Tag>
+<XML_Serializer_Tag>Essayist</XML_Serializer_Tag>
+</professionOrOccupation>
+<dbpResource>http://dbpedia.org/resource/Georges_Bataille</dbpResource>
+<abstract>Georges Bataille (* 10. September 1897 in Billom, Puy-de-Dôme; † 9. Juli 1962 in Paris) war ein französischer Schriftsteller. Er gründete die Zeitschrift Critique. Bataille schrieb dekadente und erotische Prosa. Sein theoretisches Werk berührt die Politik und Ökonomie, die Soziologie, Anthropologie, Kunstgeschichte und Philosophie und im speziellen die Atheologie. Bataille arbeitete als Archivar und Bibliothekar an der Bibliothèque nationale de France.</abstract>
+<wikilink>http://en.wikipedia.org/wiki/Georges_Bataille?oldid=606144857</wikilink>
+<artworks />
+<buildings />
+<books>
+<XML_Serializer_Tag>
+<book>
+<type>uri</type>
+<value>http://dbpedia.org/resource/Inner_Experience</value>
+</book>
+<author>
+<type>uri</type>
+<value>http://dbpedia.org/resource/Georges_Bataille</value>
+</author>
+<published>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>*1943 
+*1988</value>
+</published>
+<wikilink>
+<type>uri</type>
+<value>http://en.wikipedia.org/wiki/Inner_Experience?oldid=606573236</value>
+</wikilink>
+</XML_Serializer_Tag>
+<XML_Serializer_Tag>
+<book>
+<type>uri</type>
+<value>http://dbpedia.org/resource/The_Solar_Anus</value>
+</book>
+<author>
+<type>uri</type>
+<value>http://dbpedia.org/resource/Georges_Bataille</value>
+</author>
+<wikilink>
+<type>uri</type>
+<value>http://en.wikipedia.org/wiki/The_Solar_Anus?oldid=585308041</value>
+</wikilink>
+</XML_Serializer_Tag>
+<XML_Serializer_Tag>
+<book>
+<type>uri</type>
+<value>http://dbpedia.org/resource/Blue_of_Noon</value>
+</book>
+<author>
+<type>uri</type>
+<value>http://dbpedia.org/resource/Georges_Bataille</value>
+</author>
+<wikilink>
+<type>uri</type>
+<value>http://en.wikipedia.org/wiki/Blue_of_Noon?oldid=565307980</value>
+</wikilink>
+</XML_Serializer_Tag>
+</books>
+</Person>

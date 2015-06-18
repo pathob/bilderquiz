@@ -1,0 +1,26 @@
+<Person>
+<name>Clara Reeve</name>
+<variantName>
+<XML_Serializer_Tag>Klara Reeve</XML_Serializer_Tag>
+</variantName>
+<thumbnail>https://commons.wikimedia.org/wiki/Special:FilePath/ClaraReeve.jpg?width=270</thumbnail>
+<birthEN>1729</birthEN>
+<birthDE>1729</birthDE>
+<deathEN>1807</deathEN>
+<deathDE>1807</deathDE>
+<birthPlace>
+<XML_Serializer_Tag>Ipswich</XML_Serializer_Tag>
+</birthPlace>
+<deathPlace>
+<XML_Serializer_Tag>Ipswich</XML_Serializer_Tag>
+</deathPlace>
+<professionOrOccupation>
+<XML_Serializer_Tag>Schriftstellerin</XML_Serializer_Tag>
+</professionOrOccupation>
+<dbpResource>http://dbpedia.org/resource/Clara_Reeve</dbpResource>
+<abstract>Clara Reeve (* 1729 in Ipswich; † 3. Dezember 1807 ebenda) war eine britische Schriftstellerin, die im Stil der Gothic Novel schrieb.</abstract>
+<wikilink>http://en.wikipedia.org/wiki/Clara_Reeve?oldid=600837722</wikilink>
+<artworks />
+<buildings />
+<books />
+</Person>

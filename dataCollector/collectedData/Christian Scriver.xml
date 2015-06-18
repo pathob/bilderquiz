@@ -1,0 +1,41 @@
+<Person>
+<name>Christian Scriver</name>
+<variantName>
+<XML_Serializer_Tag>Christian Scrivers</XML_Serializer_Tag>
+<XML_Serializer_Tag>Christian Scriverius</XML_Serializer_Tag>
+<XML_Serializer_Tag>Christianus Scriver</XML_Serializer_Tag>
+<XML_Serializer_Tag>Christianus Scriverius</XML_Serializer_Tag>
+<XML_Serializer_Tag>Christianus Scriverus</XML_Serializer_Tag>
+<XML_Serializer_Tag>Christian Scriever</XML_Serializer_Tag>
+<XML_Serializer_Tag>Christianus Scriever</XML_Serializer_Tag>
+<XML_Serializer_Tag>Christian Schriver</XML_Serializer_Tag>
+<XML_Serializer_Tag>Chr. Scriver</XML_Serializer_Tag>
+<XML_Serializer_Tag>Cstn. Scriver</XML_Serializer_Tag>
+<XML_Serializer_Tag>C. Scriver</XML_Serializer_Tag>
+<XML_Serializer_Tag>M. C. Scriver</XML_Serializer_Tag>
+<XML_Serializer_Tag>Gotthold</XML_Serializer_Tag>
+<XML_Serializer_Tag>... Gotthold</XML_Serializer_Tag>
+</variantName>
+<thumbnail>https://commons.wikimedia.org/wiki/Special:FilePath/ScriverC1780.JPG?width=270</thumbnail>
+<birthEN>1629</birthEN>
+<birthDE>1629</birthDE>
+<deathEN>1693</deathEN>
+<deathDE>1693</deathDE>
+<birthPlace>
+<XML_Serializer_Tag>Rendsburg</XML_Serializer_Tag>
+</birthPlace>
+<deathPlace>
+<XML_Serializer_Tag>Quedlinburg</XML_Serializer_Tag>
+</deathPlace>
+<professionOrOccupation>
+<XML_Serializer_Tag>Pfarrer</XML_Serializer_Tag>
+<XML_Serializer_Tag>Theologe</XML_Serializer_Tag>
+<XML_Serializer_Tag>Schriftsteller</XML_Serializer_Tag>
+</professionOrOccupation>
+<dbpResource>http://dbpedia.org/resource/Christian_Scriver</dbpResource>
+<abstract>Christian Scriver (* 2. Januar 1629 in Rendsburg; † 5. April 1693 in Quedlinburg) war ein deutscher Theologe, Inspektor des Holzkreises in Calbe/Saale und Kirchenliederdichter.</abstract>
+<wikilink>http://en.wikipedia.org/wiki/Christian_Scriver?oldid=601517056</wikilink>
+<artworks />
+<buildings />
+<books />
+</Person>

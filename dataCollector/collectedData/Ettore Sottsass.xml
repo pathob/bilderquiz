@@ -1,0 +1,24 @@
+<Person>
+<name>Ettore Sottsass</name>
+<variantName>
+<XML_Serializer_Tag>Etoreh Sotsas</XML_Serializer_Tag>
+<XML_Serializer_Tag>, Junior</XML_Serializer_Tag>
+</variantName>
+<thumbnail>https://commons.wikimedia.org/wiki/Special:FilePath/Olivetti-Valentine.jpg?width=270</thumbnail>
+<birthEN>September 14, 1917</birthEN>
+<birthDE>14. September 1917</birthDE>
+<deathEN>December 31, 2007</deathEN>
+<deathDE>31. Dezember 2007</deathDE>
+<birthPlace />
+<deathPlace />
+<professionOrOccupation>
+<XML_Serializer_Tag>Architekt</XML_Serializer_Tag>
+<XML_Serializer_Tag>Designer</XML_Serializer_Tag>
+</professionOrOccupation>
+<dbpResource>http://dbpedia.org/resource/Ettore_Sottsass</dbpResource>
+<abstract>Ettore Sottsass jr. (* 14. September 1917 in Innsbruck; † 31. Dezember 2007 in Mailand) war ein österreichisch-italienischer Architekt und Designer von Einrichtungsgegenständen, die er vorwiegend in der von ihm stark geprägten Stilrichtung des „Anti-Designs“ gestaltete, das ihn international bekannt und erfolgreich machte.</abstract>
+<wikilink>http://en.wikipedia.org/wiki/Ettore_Sottsass?oldid=606379562</wikilink>
+<artworks />
+<buildings />
+<books />
+</Person>

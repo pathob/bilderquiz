@@ -1,0 +1,78 @@
+<Person>
+<name>Ernst Rietschel</name>
+<variantName>
+<XML_Serializer_Tag>Ernst Friedrich August Rietschel</XML_Serializer_Tag>
+<XML_Serializer_Tag>Ernst Friedrich Aug. Rietschel</XML_Serializer_Tag>
+<XML_Serializer_Tag>Ernst Ritschel</XML_Serializer_Tag>
+</variantName>
+<thumbnail>https://commons.wikimedia.org/wiki/Special:FilePath/Rietschel_Thaeter.jpg?width=270</thumbnail>
+<birthEN>December 15, 1804</birthEN>
+<birthDE>15. Dezember 1804</birthDE>
+<deathEN>February 21, 1861</deathEN>
+<deathDE>21. Februar 1861</deathDE>
+<birthPlace>
+<XML_Serializer_Tag>Pulsnitz</XML_Serializer_Tag>
+</birthPlace>
+<deathPlace>
+<XML_Serializer_Tag>Dresden</XML_Serializer_Tag>
+</deathPlace>
+<professionOrOccupation>
+<XML_Serializer_Tag>Künstler</XML_Serializer_Tag>
+<XML_Serializer_Tag>Bildhauer</XML_Serializer_Tag>
+</professionOrOccupation>
+<dbpResource>http://dbpedia.org/resource/Ernst_Friedrich_August_Rietschel</dbpResource>
+<abstract>Ernst Rietschel (* 15. Dezember 1804 in Pulsnitz; † 21. Februar 1861 in Dresden; vollständiger Name Ernst Friedrich August Rietschel) war einer der bedeutendsten deutschen Bildhauer des Spätklassizismus. Die von ihm geschaffenen Skulpturen, wie das Goethe-Schiller-Denkmal in Weimar oder das Lessing-Denkmal in Braunschweig, haben das Bild Deutschlands als Land der Dichter und Denker entscheidend mitgeprägt.</abstract>
+<wikilink>http://en.wikipedia.org/wiki/Ernst_Friedrich_August_Rietschel?oldid=556582122</wikilink>
+<artworks>
+<XML_Serializer_Tag>
+<artwork>
+<type>uri</type>
+<value>http://dbpedia.org/resource/Goethe%E2%80%93Schiller_Monument_(Syracuse)</value>
+</artwork>
+<thumbnail>
+<type>uri</type>
+<value>http://commons.wikimedia.org/wiki/Special:FilePath/Goethe-Schiller_Monument_-_Syracuse.jpg?width=300</value>
+</thumbnail>
+<name>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>Goethe and Schiller</value>
+</name>
+<wikilink>
+<type>uri</type>
+<value>http://en.wikipedia.org/wiki/Goethe–Schiller_Monument_(Syracuse)?oldid=569545060</value>
+</wikilink>
+<type>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>copper electrotyping</value>
+</type>
+</XML_Serializer_Tag>
+<XML_Serializer_Tag>
+<artwork>
+<type>uri</type>
+<value>http://dbpedia.org/resource/Goethe%E2%80%93Schiller_Monument_(Milwaukee)</value>
+</artwork>
+<thumbnail>
+<type>uri</type>
+<value>http://commons.wikimedia.org/wiki/Special:FilePath/GoetheSchillerMonument1908.jpg?width=300</value>
+</thumbnail>
+<name>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>Goethe–Schiller Monument</value>
+</name>
+<wikilink>
+<type>uri</type>
+<value>http://en.wikipedia.org/wiki/Goethe–Schiller_Monument_(Milwaukee)?oldid=596513248</value>
+</wikilink>
+<type>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>bronze</value>
+</type>
+</XML_Serializer_Tag>
+</artworks>
+<buildings />
+<books />
+</Person>

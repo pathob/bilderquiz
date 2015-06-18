@@ -13,12 +13,15 @@
 <professionOrOccupation>
 <XML_Serializer_Tag>Maler</XML_Serializer_Tag>
 </professionOrOccupation>
+<dbpResource>http://dbpedia.org/resource/Ary_Scheffer</dbpResource>
+<abstract>Ary Scheffer (* 10. Februar 1795 in Dordrecht, Niederlande; † 15. Juni 1858 in Argenteuil, Dept. Val-d&apos;Oise) war ein französischer Maler niederländischer Herkunft.</abstract>
+<wikilink>http://en.wikipedia.org/wiki/Ary_Scheffer?oldid=606549662</wikilink>
 <artworks>
 <XML_Serializer_Tag>
-<painting>
+<artwork>
 <type>uri</type>
 <value>http://dbpedia.org/resource/Francesca_da_Rimini_and_Paolo_Malatesta_appraised_by_Dante_and_Virgil</value>
-</painting>
+</artwork>
 <thumbnail>
 <type>uri</type>
 <value>http://commons.wikimedia.org/wiki/Special:FilePath/1835_Ary_Scheffer_-_The_Ghosts_of_Paolo_and_Francesca_Appear_to_Dante_and_Virgil.jpg?width=300</value>
@@ -34,7 +37,6 @@
 </wikilink>
 </XML_Serializer_Tag>
 </artworks>
-<dbpResource>http://dbpedia.org/resource/Ary_Scheffer</dbpResource>
-<abstract>Ary Scheffer (* 10. Februar 1795 in Dordrecht, Niederlande; † 15. Juni 1858 in Argenteuil, Dept. Val-d&apos;Oise) war ein französischer Maler niederländischer Herkunft.</abstract>
-<wikilink>http://en.wikipedia.org/wiki/Ary_Scheffer?oldid=606549662</wikilink>
+<buildings />
+<books />
 </Person>

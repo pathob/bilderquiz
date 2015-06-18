@@ -11,8 +11,10 @@
 <professionOrOccupation>
 <XML_Serializer_Tag>Maler</XML_Serializer_Tag>
 </professionOrOccupation>
-<artworks />
 <dbpResource>http://dbpedia.org/resource/Henry_Scott_Tuke</dbpResource>
 <abstract>Henry Scott Tuke RA (* 12. Juni 1858 in York; † 13. März 1929 in Falmouth) war ein britischer Maler, der besonders für seine Bilder von nackten Knaben bekannt ist, was ihm die Rolle eines Pioniers auf dem Gebiet der homosexuellen Kultur eingebracht hat.</abstract>
 <wikilink>http://en.wikipedia.org/wiki/Henry_Scott_Tuke?oldid=593081512</wikilink>
+<artworks />
+<buildings />
+<books />
 </Person>

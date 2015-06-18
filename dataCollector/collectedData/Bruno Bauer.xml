@@ -1,0 +1,27 @@
+<Person>
+<name>Bruno Bauer</name>
+<variantName />
+<thumbnail>https://commons.wikimedia.org/wiki/Special:FilePath/Bruno_Bauer.jpg?width=270</thumbnail>
+<birthEN>September 6, 1809</birthEN>
+<birthDE>6. September 1809</birthDE>
+<deathEN>April 15, 1882</deathEN>
+<deathDE>15. April 1882</deathDE>
+<birthPlace>
+<XML_Serializer_Tag>Landkreis Eisenberg (Saale-Holzland-Kreis)</XML_Serializer_Tag>
+</birthPlace>
+<deathPlace>
+<XML_Serializer_Tag>Neukölln</XML_Serializer_Tag>
+</deathPlace>
+<professionOrOccupation>
+<XML_Serializer_Tag>Theologe</XML_Serializer_Tag>
+<XML_Serializer_Tag>Journalist</XML_Serializer_Tag>
+<XML_Serializer_Tag>Schriftsteller</XML_Serializer_Tag>
+<XML_Serializer_Tag>Philosoph</XML_Serializer_Tag>
+</professionOrOccupation>
+<dbpResource>http://dbpedia.org/resource/Bruno_Bauer</dbpResource>
+<abstract>Bruno Bauer (* 6. September 1809 in Eisenberg im Herzogtum Sachsen-Altenburg, heute Thüringen; † 13. April 1882 in Rixdorf bei Berlin, heute Berlin-Neukölln) war ein deutscher Theologe, Bibelkritiker, Philosoph und Historiker.</abstract>
+<wikilink>http://en.wikipedia.org/wiki/Bruno_Bauer?oldid=600702992</wikilink>
+<artworks />
+<buildings />
+<books />
+</Person>

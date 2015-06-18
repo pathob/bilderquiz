@@ -18,8 +18,10 @@
 <professionOrOccupation>
 <XML_Serializer_Tag>Maler</XML_Serializer_Tag>
 </professionOrOccupation>
-<artworks />
 <dbpResource>http://dbpedia.org/resource/Hans_Bol</dbpResource>
 <abstract>Hans Bol (* 16. Dezember 1534 in Mechelen; † 20. November 1593 in Amsterdam) war ein Zeichner und Maler der niederländischen Hochrenaissance flämischer Herkunft. Seine Werke zeigen häufig frei arrangierte Landschaften seiner Heimat, biblische Themen und Stadtansichten. Viele seiner Motive wurden kopiert oder als Kupferstiche verbreitet.</abstract>
 <wikilink>http://en.wikipedia.org/wiki/Hans_Bol?oldid=601751845</wikilink>
+<artworks />
+<buildings />
+<books />
 </Person>

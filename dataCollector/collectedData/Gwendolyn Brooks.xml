@@ -1,0 +1,25 @@
+<Person>
+<name>Gwendolyn Brooks</name>
+<variantName>
+<XML_Serializer_Tag>Gwendolyn Brooks Blakely</XML_Serializer_Tag>
+<XML_Serializer_Tag>Gwendolyn Brooks Blakely</XML_Serializer_Tag>
+<XML_Serializer_Tag>Gwendolyn Elizabeth Brooks</XML_Serializer_Tag>
+</variantName>
+<thumbnail>https://commons.wikimedia.org/wiki/Special:FilePath/Gwendolynbrooks.jpg?width=270</thumbnail>
+<birthEN>June 7, 1917</birthEN>
+<birthDE>7. Juni 1917</birthDE>
+<deathEN>December 3, 2000</deathEN>
+<deathDE>3. Dezember 2000</deathDE>
+<birthPlace />
+<deathPlace />
+<professionOrOccupation>
+<XML_Serializer_Tag>Schriftstellerin</XML_Serializer_Tag>
+<XML_Serializer_Tag>Lyrikerin</XML_Serializer_Tag>
+</professionOrOccupation>
+<dbpResource>http://dbpedia.org/resource/Gwendolyn_Brooks</dbpResource>
+<abstract>Gwendolyn Brooks (* 7. Juni 1917 in Topeka, Kansas; † 3. Dezember 2000 in Chicago, Illinois) war eine US-amerikanische Schriftstellerin. 1968 wurde sie Poet Laureate von Illinois.</abstract>
+<wikilink>http://en.wikipedia.org/wiki/Gwendolyn_Brooks?oldid=606591022</wikilink>
+<artworks />
+<buildings />
+<books />
+</Person>

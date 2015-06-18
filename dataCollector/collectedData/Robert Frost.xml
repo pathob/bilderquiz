@@ -1,0 +1,26 @@
+<Person>
+<name>Robert Frost</name>
+<variantName>
+<XML_Serializer_Tag>Robert Lee Frost</XML_Serializer_Tag>
+</variantName>
+<thumbnail>https://commons.wikimedia.org/wiki/Special:FilePath/Robert_Frost_NYWTS.jpg?width=270</thumbnail>
+<birthEN>March 24, 1874</birthEN>
+<birthDE>24. März 1874</birthDE>
+<deathEN>January 29, 1963</deathEN>
+<deathDE>29. Januar 1963</deathDE>
+<birthPlace>
+<XML_Serializer_Tag>San Francisco, Calif.</XML_Serializer_Tag>
+</birthPlace>
+<deathPlace>
+<XML_Serializer_Tag>Boston, Mass.</XML_Serializer_Tag>
+</deathPlace>
+<professionOrOccupation>
+<XML_Serializer_Tag>Schriftsteller</XML_Serializer_Tag>
+</professionOrOccupation>
+<dbpResource>http://dbpedia.org/resource/Robert_Frost</dbpResource>
+<abstract>Robert Lee Frost (* 26. März 1874 in San Francisco, Kalifornien; † 29. Januar 1963 in Boston) war ein amerikanischer Dichter und vierfacher Pulitzer-Preisträger.</abstract>
+<wikilink>http://en.wikipedia.org/wiki/Robert_Frost?oldid=604543981</wikilink>
+<artworks />
+<buildings />
+<books />
+</Person>

@@ -1,0 +1,31 @@
+<Person>
+<name>Hans Much</name>
+<variantName>
+<XML_Serializer_Tag>... Much</XML_Serializer_Tag>
+<XML_Serializer_Tag>H. Much</XML_Serializer_Tag>
+<XML_Serializer_Tag>H. M.</XML_Serializer_Tag>
+<XML_Serializer_Tag>H. M.</XML_Serializer_Tag>
+</variantName>
+<thumbnail>https://commons.wikimedia.org/wiki/Special:FilePath/Hans_Much_Grab-2.JPG?width=270</thumbnail>
+<birthEN>March 24, 1880</birthEN>
+<birthDE>24. März 1880</birthDE>
+<deathEN>November 28, 1932</deathEN>
+<deathDE>28. November 1932</deathDE>
+<birthPlace>
+<XML_Serializer_Tag>Zechlin Dorf</XML_Serializer_Tag>
+</birthPlace>
+<deathPlace>
+<XML_Serializer_Tag>Hamburg</XML_Serializer_Tag>
+</deathPlace>
+<professionOrOccupation>
+<XML_Serializer_Tag>Lyriker</XML_Serializer_Tag>
+<XML_Serializer_Tag>Dramatiker</XML_Serializer_Tag>
+<XML_Serializer_Tag>Arzt</XML_Serializer_Tag>
+</professionOrOccupation>
+<dbpResource>http://dbpedia.org/resource/Hans_Much</dbpResource>
+<abstract>Hans Much (* 24. März 1880 in Dorf Zechlin; † 28. November 1932 in Hamburg) war ein deutscher Arzt, Immunologe und Schriftsteller.</abstract>
+<wikilink>http://en.wikipedia.org/wiki/Hans_Much?oldid=595502560</wikilink>
+<artworks />
+<buildings />
+<books />
+</Person>

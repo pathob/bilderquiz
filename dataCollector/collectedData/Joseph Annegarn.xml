@@ -1,0 +1,35 @@
+<Person>
+<name>Joseph Annegarn</name>
+<variantName>
+<XML_Serializer_Tag>Josef A. Annegarn</XML_Serializer_Tag>
+<XML_Serializer_Tag>Joseph A. Annegarn</XML_Serializer_Tag>
+<XML_Serializer_Tag>Josef Annegarn</XML_Serializer_Tag>
+<XML_Serializer_Tag>J. A. Annegarn</XML_Serializer_Tag>
+<XML_Serializer_Tag>J. Annegarn</XML_Serializer_Tag>
+<XML_Serializer_Tag>Josef Bernhard Henrich Annegarn</XML_Serializer_Tag>
+</variantName>
+<thumbnail>https://commons.wikimedia.org/wiki/Special:FilePath/Annegarn-0001.jpg?width=270</thumbnail>
+<birthEN>October 13, 1794</birthEN>
+<birthDE>13. Oktober 1794</birthDE>
+<deathEN>July 8, 1843</deathEN>
+<deathDE>8. Juli 1843</deathDE>
+<birthPlace>
+<XML_Serializer_Tag>Ostbevern</XML_Serializer_Tag>
+</birthPlace>
+<deathPlace>
+<XML_Serializer_Tag>Braunsberg (Ostpreußen)</XML_Serializer_Tag>
+</deathPlace>
+<professionOrOccupation>
+<XML_Serializer_Tag>Priester</XML_Serializer_Tag>
+<XML_Serializer_Tag>Kirchenhistoriker</XML_Serializer_Tag>
+<XML_Serializer_Tag>Pädagoge</XML_Serializer_Tag>
+<XML_Serializer_Tag>Hochschullehrer</XML_Serializer_Tag>
+<XML_Serializer_Tag>Schriftsteller</XML_Serializer_Tag>
+</professionOrOccupation>
+<dbpResource>http://dbpedia.org/resource/Joseph_Annegarn</dbpResource>
+<abstract>Josef Annegarn (* 13. Oktober 1794 in Ostbevern; † 7. Juli 1843 in Braunsberg) war ein Theologe, Pädagoge und Professor für Kirchengeschichte und Kirchenrecht.</abstract>
+<wikilink>http://en.wikipedia.org/wiki/Joseph_Annegarn?oldid=603400484</wikilink>
+<artworks />
+<buildings />
+<books />
+</Person>

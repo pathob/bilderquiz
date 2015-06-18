@@ -1,0 +1,33 @@
+<Person>
+<name>Armin T. Wegner</name>
+<variantName>
+<XML_Serializer_Tag>Armin Teophil Wegner</XML_Serializer_Tag>
+<XML_Serializer_Tag>Armin Theophil Wegner</XML_Serializer_Tag>
+<XML_Serializer_Tag>Armin Tarkin Wegner</XML_Serializer_Tag>
+<XML_Serializer_Tag>Johannes Selbdritt</XML_Serializer_Tag>
+<XML_Serializer_Tag>Ömer-Tarik</XML_Serializer_Tag>
+<XML_Serializer_Tag>Klaus Uhler</XML_Serializer_Tag>
+</variantName>
+<thumbnail>https://commons.wikimedia.org/wiki/Special:FilePath/Wuppertal_Von-der-Tann-Str_0007.jpg?width=270</thumbnail>
+<birthEN>October 16, 1886</birthEN>
+<birthDE>16. Oktober 1886</birthDE>
+<deathEN>May 17, 1978</deathEN>
+<deathDE>17. Mai 1978</deathDE>
+<birthPlace>
+<XML_Serializer_Tag>Elberfeld</XML_Serializer_Tag>
+</birthPlace>
+<deathPlace>
+<XML_Serializer_Tag>Rom</XML_Serializer_Tag>
+</deathPlace>
+<professionOrOccupation>
+<XML_Serializer_Tag>Lyriker</XML_Serializer_Tag>
+<XML_Serializer_Tag>Schriftsteller</XML_Serializer_Tag>
+<XML_Serializer_Tag>Jurist</XML_Serializer_Tag>
+</professionOrOccupation>
+<dbpResource>http://dbpedia.org/resource/Armin_T._Wegner</dbpResource>
+<abstract>Armin Theophil Wegner (* 16. Oktober 1886 in Elberfeld (heute zu Wuppertal); † 17. Mai 1978 in Rom) war ein deutscher pazifistischer Schriftsteller, Verfasser expressionistischer Lyrik und zahlreicher Reiseberichte.</abstract>
+<wikilink>http://en.wikipedia.org/wiki/Armin_T._Wegner?oldid=584302448</wikilink>
+<artworks />
+<buildings />
+<books />
+</Person>

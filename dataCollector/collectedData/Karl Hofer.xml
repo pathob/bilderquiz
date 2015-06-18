@@ -19,8 +19,10 @@
 <XML_Serializer_Tag>Maler</XML_Serializer_Tag>
 <XML_Serializer_Tag>Graphiker</XML_Serializer_Tag>
 </professionOrOccupation>
-<artworks />
 <dbpResource>http://dbpedia.org/resource/Karl_H%C3%B6fer</dbpResource>
 <abstract>Karl Hoefer (* 29. Dezember 1862 in Pleß, Provinz Schlesien; † 12. Mai 1939 in Würzburg) war ein deutscher Generalleutnant sowie Freikorpsführer und SS-Oberführer.</abstract>
 <wikilink>http://en.wikipedia.org/wiki/Karl_Höfer?oldid=543064472</wikilink>
+<artworks />
+<buildings />
+<books />
 </Person>

@@ -1,0 +1,29 @@
+<Person>
+<name>Irmgard Keun</name>
+<variantName>
+<XML_Serializer_Tag>Irmgard Kojn</XML_Serializer_Tag>
+<XML_Serializer_Tag>Irmgard Ḳoyn</XML_Serializer_Tag>
+<XML_Serializer_Tag>Irmgarde Keina</XML_Serializer_Tag>
+<XML_Serializer_Tag>אירמגרד קוין</XML_Serializer_Tag>
+</variantName>
+<thumbnail>https://commons.wikimedia.org/wiki/Special:FilePath/Gedenktafel_Meinekestr_6_Irmgard_Keun.JPG?width=270</thumbnail>
+<birthEN>February 6, 1905</birthEN>
+<birthDE>6. Februar 1905</birthDE>
+<deathEN>May 5, 1982</deathEN>
+<deathDE>5. Mai 1982</deathDE>
+<birthPlace>
+<XML_Serializer_Tag>Berlin</XML_Serializer_Tag>
+</birthPlace>
+<deathPlace>
+<XML_Serializer_Tag>Köln</XML_Serializer_Tag>
+</deathPlace>
+<professionOrOccupation>
+<XML_Serializer_Tag>Schriftstellerin</XML_Serializer_Tag>
+</professionOrOccupation>
+<dbpResource>http://dbpedia.org/resource/Irmgard_Keun</dbpResource>
+<abstract>Irmgard Keun (* 6. Februar 1905 in Charlottenburg bei Berlin; † 5. Mai 1982 in Köln) war eine deutsche Schriftstellerin.</abstract>
+<wikilink>http://en.wikipedia.org/wiki/Irmgard_Keun?oldid=606197513</wikilink>
+<artworks />
+<buildings />
+<books />
+</Person>

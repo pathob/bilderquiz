@@ -1,0 +1,54 @@
+<Person>
+<name>Blaise Cendrars</name>
+<variantName>
+<XML_Serializer_Tag>Frédéric-Louis Sauser</XML_Serializer_Tag>
+<XML_Serializer_Tag>Frédéric Sauser</XML_Serializer_Tag>
+<XML_Serializer_Tag>Frédéric Louis Sauser</XML_Serializer_Tag>
+<XML_Serializer_Tag>Frédéric Sauser-Hall</XML_Serializer_Tag>
+<XML_Serializer_Tag>Frédéric Sauser-Hall</XML_Serializer_Tag>
+<XML_Serializer_Tag>Frédéric Sauser Hall</XML_Serializer_Tag>
+<XML_Serializer_Tag>Cendrars Blaise</XML_Serializer_Tag>
+<XML_Serializer_Tag>Blez Sandrar</XML_Serializer_Tag>
+</variantName>
+<thumbnail>https://commons.wikimedia.org/wiki/Special:FilePath/Amadeo_Modigliani_035.jpg?width=270</thumbnail>
+<birthEN>1887</birthEN>
+<birthDE>1887</birthDE>
+<deathEN>1961</deathEN>
+<deathDE>1961</deathDE>
+<birthPlace>
+<XML_Serializer_Tag>La Chaux-de-Fonds</XML_Serializer_Tag>
+</birthPlace>
+<deathPlace>
+<XML_Serializer_Tag>Paris</XML_Serializer_Tag>
+</deathPlace>
+<professionOrOccupation>
+<XML_Serializer_Tag>Schriftsteller</XML_Serializer_Tag>
+<XML_Serializer_Tag>Abenteurer</XML_Serializer_Tag>
+</professionOrOccupation>
+<dbpResource>http://dbpedia.org/resource/Blaise_Cendrars</dbpResource>
+<abstract>Blaise Cendrars (* 1. September 1887 in La Chaux-de-Fonds, Kanton Neuenburg; † 21. Januar 1961 in Paris; eigentlicher Name Frédéric-Louis Sauser) war ein französischsprachiger Schweizer Schriftsteller und Abenteurer.</abstract>
+<wikilink>http://en.wikipedia.org/wiki/Blaise_Cendrars?oldid=606552349</wikilink>
+<artworks />
+<buildings />
+<books>
+<XML_Serializer_Tag>
+<book>
+<type>uri</type>
+<value>http://dbpedia.org/resource/Shadow_(Marcia_Brown_book)</value>
+</book>
+<author>
+<type>uri</type>
+<value>http://dbpedia.org/resource/Blaise_Cendrars</value>
+</author>
+<released>
+<type>typed-literal</type>
+<datatype>http://www.w3.org/2001/XMLSchema#integer</datatype>
+<value>1982</value>
+</released>
+<wikilink>
+<type>uri</type>
+<value>http://en.wikipedia.org/wiki/Shadow_(Marcia_Brown_book)?oldid=544903847</value>
+</wikilink>
+</XML_Serializer_Tag>
+</books>
+</Person>

@@ -1,0 +1,32 @@
+<Person>
+<name>Fanny Lewald</name>
+<variantName>
+<XML_Serializer_Tag>Adriana</XML_Serializer_Tag>
+<XML_Serializer_Tag>Iduna</XML_Serializer_Tag>
+<XML_Serializer_Tag>H. H. Iduna</XML_Serializer_Tag>
+<XML_Serializer_Tag>Fanny Lewald-Stahr</XML_Serializer_Tag>
+<XML_Serializer_Tag>Fanny Markus</XML_Serializer_Tag>
+<XML_Serializer_Tag>Fanny Stahr</XML_Serializer_Tag>
+<XML_Serializer_Tag>Fanny Lewald-Stahr</XML_Serializer_Tag>
+</variantName>
+<thumbnail>https://commons.wikimedia.org/wiki/Special:FilePath/Fanny_Lewald.jpg?width=270</thumbnail>
+<birthEN>March 24, 1811</birthEN>
+<birthDE>24. März 1811</birthDE>
+<deathEN>August 4, 1889</deathEN>
+<deathDE>4. August 1889</deathDE>
+<birthPlace>
+<XML_Serializer_Tag>Königsberg</XML_Serializer_Tag>
+</birthPlace>
+<deathPlace>
+<XML_Serializer_Tag>Dresden</XML_Serializer_Tag>
+</deathPlace>
+<professionOrOccupation>
+<XML_Serializer_Tag>Schriftstellerin</XML_Serializer_Tag>
+</professionOrOccupation>
+<dbpResource>http://dbpedia.org/resource/Fanny_Lewald</dbpResource>
+<abstract>Fanny Lewald (* 24. März 1811 in Königsberg, Preußen, als Fanny Marcus; † 5. August 1889 in Dresden) war eine deutsche Schriftstellerin.</abstract>
+<wikilink>http://en.wikipedia.org/wiki/Fanny_Lewald?oldid=590266574</wikilink>
+<artworks />
+<buildings />
+<books />
+</Person>

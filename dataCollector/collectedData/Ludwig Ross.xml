@@ -1,0 +1,26 @@
+<Person>
+<name>Ludwig Ross</name>
+<variantName>
+<XML_Serializer_Tag>Ludovicus Rossius</XML_Serializer_Tag>
+<XML_Serializer_Tag>Ludwig Rossios</XML_Serializer_Tag>
+<XML_Serializer_Tag>Ludovicus Ross</XML_Serializer_Tag>
+</variantName>
+<thumbnail>https://commons.wikimedia.org/wiki/Special:FilePath/Ludwig_Ross.JPG?width=270</thumbnail>
+<birthEN>July 22, 1806</birthEN>
+<birthDE>22. Juli 1806</birthDE>
+<deathEN>August 6, 1859</deathEN>
+<deathDE>6. August 1859</deathDE>
+<birthPlace />
+<deathPlace />
+<professionOrOccupation>
+<XML_Serializer_Tag>Archäologe</XML_Serializer_Tag>
+<XML_Serializer_Tag>Philologe</XML_Serializer_Tag>
+<XML_Serializer_Tag>Schriftsteller</XML_Serializer_Tag>
+</professionOrOccupation>
+<dbpResource>http://dbpedia.org/resource/Ludwig_Ross</dbpResource>
+<abstract>Ludwig Ross (* 22. Juli 1806 in Bornhöved; † 6. August 1859 in Halle an der Saale) war ein deutscher Klassischer Archäologe.</abstract>
+<wikilink>http://en.wikipedia.org/wiki/Ludwig_Ross?oldid=603238832</wikilink>
+<artworks />
+<buildings />
+<books />
+</Person>

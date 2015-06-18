@@ -24,8 +24,10 @@
 <professionOrOccupation>
 <XML_Serializer_Tag>Maler</XML_Serializer_Tag>
 </professionOrOccupation>
-<artworks />
 <dbpResource>http://dbpedia.org/resource/Giovanni_Battista_Gaulli</dbpResource>
 <abstract>Giovanni Battista Gaulli (* 8. Mai 1639 in Genua; † 2. April 1709 in Rom), auch genannt Baciccio, Il Baciccio oder Baciccia, war ein italienischer Maler des Barock. Er ist besonders als Freskant und Porträtmaler bekannt und wirkte vor allem in Rom.</abstract>
 <wikilink>http://en.wikipedia.org/wiki/Giovanni_Battista_Gaulli?oldid=606660713</wikilink>
+<artworks />
+<buildings />
+<books />
 </Person>

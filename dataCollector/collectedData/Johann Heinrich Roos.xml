@@ -22,8 +22,10 @@
 <XML_Serializer_Tag>Künstler</XML_Serializer_Tag>
 <XML_Serializer_Tag>Maler</XML_Serializer_Tag>
 </professionOrOccupation>
-<artworks />
 <dbpResource>http://dbpedia.org/resource/Johann_Heinrich_Roos</dbpResource>
 <abstract>Johann Heinrich Roos (* 29. September 1631 in Otterberg; † 3. Oktober 1685 in Frankfurt am Main) war ein deutscher Maler und Graphiker. Er gilt als einer der bedeutendsten Tiermaler des ausgehenden 17. Jahrhunderts.</abstract>
 <wikilink>http://en.wikipedia.org/wiki/Johann_Heinrich_Roos?oldid=601617466</wikilink>
+<artworks />
+<buildings />
+<books />
 </Person>

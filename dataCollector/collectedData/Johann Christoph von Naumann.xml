@@ -1,0 +1,29 @@
+<Person>
+<name>Johann Christoph von Naumann</name>
+<variantName>
+<XML_Serializer_Tag>Johann C. von Naumann</XML_Serializer_Tag>
+<XML_Serializer_Tag>Johann Christoph Naumann</XML_Serializer_Tag>
+<XML_Serializer_Tag>Johann C. von Naumann</XML_Serializer_Tag>
+</variantName>
+<thumbnail>https://commons.wikimedia.org/wiki/Special:FilePath/Jg4.jpg?width=270</thumbnail>
+<birthEN>March 30, 1664</birthEN>
+<birthDE>30. März 1664</birthDE>
+<deathEN>January 8, 1742</deathEN>
+<deathDE>8. Januar 1742</deathDE>
+<birthPlace>
+<XML_Serializer_Tag>Dresden</XML_Serializer_Tag>
+</birthPlace>
+<deathPlace>
+<XML_Serializer_Tag>Dresden</XML_Serializer_Tag>
+</deathPlace>
+<professionOrOccupation>
+<XML_Serializer_Tag>Architekt</XML_Serializer_Tag>
+<XML_Serializer_Tag>Ingenieuroffizier</XML_Serializer_Tag>
+</professionOrOccupation>
+<dbpResource>http://dbpedia.org/resource/Johann_Christoph_von_Naumann</dbpResource>
+<abstract>Johann Christoph von Naumann (* 30. März 1664 in Dresden; † 8. Januar 1742 ebenda) war ein deutscher Ingenieuroffizier und Architekt.</abstract>
+<wikilink>http://en.wikipedia.org/wiki/Johann_Christoph_von_Naumann?oldid=565666906</wikilink>
+<artworks />
+<buildings />
+<books />
+</Person>

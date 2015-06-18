@@ -1,0 +1,28 @@
+<Person>
+<name>Hugo Sonnenschein</name>
+<variantName>
+<XML_Serializer_Tag>Sonka</XML_Serializer_Tag>
+<XML_Serializer_Tag>Hugo Sonka</XML_Serializer_Tag>
+</variantName>
+<thumbnail>https://commons.wikimedia.org/wiki/Special:FilePath/Hugo_Sonnenschein_by_Egon_Schiele.jpg?width=270</thumbnail>
+<birthEN>May 25, 1889</birthEN>
+<birthDE>25. Mai 1889</birthDE>
+<deathEN>July 20, 1953</deathEN>
+<deathDE>20. Juli 1953</deathDE>
+<birthPlace>
+<XML_Serializer_Tag>Kyjov</XML_Serializer_Tag>
+</birthPlace>
+<deathPlace>
+<XML_Serializer_Tag>Mirov</XML_Serializer_Tag>
+</deathPlace>
+<professionOrOccupation>
+<XML_Serializer_Tag>Schriftsteller</XML_Serializer_Tag>
+<XML_Serializer_Tag>Lyriker</XML_Serializer_Tag>
+</professionOrOccupation>
+<dbpResource>http://dbpedia.org/resource/Hugo_Sonnenschein</dbpResource>
+<abstract>Hugo Sonnenschein (auch: Hugo Sonka) (* 25. Mai 1889 in Gaya; † 20. Juli 1953 in Mírov) war ein deutschsprachiger mährischer Schriftsteller.</abstract>
+<wikilink>http://en.wikipedia.org/wiki/Hugo_Sonnenschein?oldid=606292358</wikilink>
+<artworks />
+<buildings />
+<books />
+</Person>

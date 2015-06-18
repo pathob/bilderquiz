@@ -22,8 +22,10 @@
 <XML_Serializer_Tag>Landschaftsmaler</XML_Serializer_Tag>
 <XML_Serializer_Tag>Schauspieler</XML_Serializer_Tag>
 </professionOrOccupation>
-<artworks />
 <dbpResource>http://dbpedia.org/resource/Carl_Werner</dbpResource>
 <abstract>Carl Friedrich Heinrich Werner (* 4. Oktober 1808 in Weimar; † 10. Januar 1894 in Leipzig) war ein deutscher Aquarell- und Architekturmaler.</abstract>
 <wikilink>http://en.wikipedia.org/wiki/Carl_Werner?oldid=567589182</wikilink>
+<artworks />
+<buildings />
+<books />
 </Person>

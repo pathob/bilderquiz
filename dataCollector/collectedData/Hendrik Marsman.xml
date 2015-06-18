@@ -1,0 +1,25 @@
+<Person>
+<name>Hendrik Marsman</name>
+<variantName>
+<XML_Serializer_Tag>H. Marsman</XML_Serializer_Tag>
+</variantName>
+<thumbnail>https://commons.wikimedia.org/wiki/Special:FilePath/Hendrik_Marsman_-_Val_-_Zoeterwoudsesingel_42,_Leiden.JPG?width=270</thumbnail>
+<birthEN>1899</birthEN>
+<birthDE>1899</birthDE>
+<deathEN>1940</deathEN>
+<deathDE>1940</deathDE>
+<birthPlace>
+<XML_Serializer_Tag>Zeist</XML_Serializer_Tag>
+</birthPlace>
+<deathPlace />
+<professionOrOccupation>
+<XML_Serializer_Tag>Schriftsteller</XML_Serializer_Tag>
+<XML_Serializer_Tag>Übersetzer</XML_Serializer_Tag>
+</professionOrOccupation>
+<dbpResource>http://dbpedia.org/resource/Hendrik_Marsman</dbpResource>
+<abstract>Hendrik Marsman (* 30. September 1899 in Zeist; † 21. Juni 1940 bei einem Schiffsuntergang im Ärmelkanal) war ein niederländischer Schriftsteller. Am bekanntesten wurde sein Gedicht Herinnering aan Holland (Erinnerung an Holland), das zum niederländischen Gedicht des Jahrhunderts gewählt wurde.</abstract>
+<wikilink>http://en.wikipedia.org/wiki/Hendrik_Marsman?oldid=602322639</wikilink>
+<artworks />
+<buildings />
+<books />
+</Person>

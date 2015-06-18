@@ -11,8 +11,10 @@
 <professionOrOccupation>
 <XML_Serializer_Tag>Maler</XML_Serializer_Tag>
 </professionOrOccupation>
-<artworks />
 <dbpResource>http://dbpedia.org/resource/Max_Burchartz</dbpResource>
 <abstract>Max Burchartz (* 28. Juli 1887 in Elberfeld; † 31. Januar 1961 in Essen) war ein deutscher Grafiker, Typograf und Maler.</abstract>
 <wikilink>http://en.wikipedia.org/wiki/Max_Burchartz?oldid=574839281</wikilink>
+<artworks />
+<buildings />
+<books />
 </Person>

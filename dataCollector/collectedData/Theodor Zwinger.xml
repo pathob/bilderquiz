@@ -1,0 +1,38 @@
+<Person>
+<name>Theodor Zwinger</name>
+<variantName>
+<XML_Serializer_Tag>Theodorus Zuuingerus</XML_Serializer_Tag>
+<XML_Serializer_Tag>I.</XML_Serializer_Tag>
+<XML_Serializer_Tag>Theodor Zuinger</XML_Serializer_Tag>
+<XML_Serializer_Tag>Theodor Zvinger</XML_Serializer_Tag>
+<XML_Serializer_Tag>Theodorus Zvinggerus</XML_Serializer_Tag>
+<XML_Serializer_Tag>Theodorus Zuingerus</XML_Serializer_Tag>
+<XML_Serializer_Tag>Theodorus Zvingerus</XML_Serializer_Tag>
+<XML_Serializer_Tag>Theodorus Zwingerus</XML_Serializer_Tag>
+<XML_Serializer_Tag>Theodor Zwinger</XML_Serializer_Tag>
+<XML_Serializer_Tag>Theodorus Zuinggerus</XML_Serializer_Tag>
+<XML_Serializer_Tag>Theodorus Zwinggerus</XML_Serializer_Tag>
+</variantName>
+<thumbnail>https://commons.wikimedia.org/wiki/Special:FilePath/Theatrum_Vitae_Humanae_1565.jpg?width=270</thumbnail>
+<birthEN>August 2, 1533</birthEN>
+<birthDE>2. August 1533</birthDE>
+<deathEN>March 10, 1588</deathEN>
+<deathDE>10. März 1588</deathDE>
+<birthPlace>
+<XML_Serializer_Tag>Basel</XML_Serializer_Tag>
+</birthPlace>
+<deathPlace>
+<XML_Serializer_Tag>Basel</XML_Serializer_Tag>
+</deathPlace>
+<professionOrOccupation>
+<XML_Serializer_Tag>Philologe</XML_Serializer_Tag>
+<XML_Serializer_Tag>Philosoph</XML_Serializer_Tag>
+<XML_Serializer_Tag>Arzt</XML_Serializer_Tag>
+</professionOrOccupation>
+<dbpResource>http://dbpedia.org/resource/Theodor_Zwinger</dbpResource>
+<abstract>Theodor Zwinger der Ältere (auch Theodore Zwinger oder Theodoro Zuingero; * 2. August 1533 in Basel; † 10. März 1588 ebenda) war ein Schweizer Gelehrter.</abstract>
+<wikilink>http://en.wikipedia.org/wiki/Theodor_Zwinger?oldid=579253275</wikilink>
+<artworks />
+<buildings />
+<books />
+</Person>

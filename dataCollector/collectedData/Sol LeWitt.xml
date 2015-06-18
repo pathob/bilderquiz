@@ -16,8 +16,10 @@
 <XML_Serializer_Tag>Künstler</XML_Serializer_Tag>
 <XML_Serializer_Tag>Maler</XML_Serializer_Tag>
 </professionOrOccupation>
-<artworks />
 <dbpResource>http://dbpedia.org/resource/Sol_LeWitt</dbpResource>
 <abstract>Sol LeWitt (* 9. September 1928 in Hartford, Connecticut; † 8. April 2007 in New York) war ein US-amerikanischer Künstler des Minimalismus. Er entwickelte den Begriff Konzeptkunst (engl. Conceptual Art).</abstract>
 <wikilink>http://en.wikipedia.org/wiki/Sol_LeWitt?oldid=606594464</wikilink>
+<artworks />
+<buildings />
+<books />
 </Person>

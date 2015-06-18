@@ -1,0 +1,27 @@
+<Person>
+<name>Kurt Huber</name>
+<variantName>
+<XML_Serializer_Tag>Kurt Theodor Huber</XML_Serializer_Tag>
+<XML_Serializer_Tag>Kurt Huber-Stöcklin</XML_Serializer_Tag>
+</variantName>
+<thumbnail>https://commons.wikimedia.org/wiki/Special:FilePath/Bundesarchiv_Bild_146II-744,_Kurt_Huber.jpg?width=270</thumbnail>
+<birthEN>October 24, 1893</birthEN>
+<birthDE>24. Oktober 1893</birthDE>
+<deathEN>July 13, 1943</deathEN>
+<deathDE>13. Juli 1943</deathDE>
+<birthPlace>
+<XML_Serializer_Tag>Chur</XML_Serializer_Tag>
+</birthPlace>
+<deathPlace />
+<professionOrOccupation>
+<XML_Serializer_Tag>Musikwissenschaftler</XML_Serializer_Tag>
+<XML_Serializer_Tag>Philosoph</XML_Serializer_Tag>
+<XML_Serializer_Tag>Psychologe</XML_Serializer_Tag>
+</professionOrOccupation>
+<dbpResource>http://dbpedia.org/resource/Kurt_Huber</dbpResource>
+<abstract>Kurt Huber (* 24. Oktober 1893 in Chur; † 13. Juli 1943 in München-Stadelheim) war ein deutscher Professor für Musikwissenschaften und Psychologie an der Ludwig-Maximilians-Universität München, Volksliedforscher und Mitglied der Widerstandsgruppe Weiße Rose.</abstract>
+<wikilink>http://en.wikipedia.org/wiki/Kurt_Huber?oldid=606495489</wikilink>
+<artworks />
+<buildings />
+<books />
+</Person>

@@ -1,0 +1,85 @@
+<Person>
+<name>Agnes Smedley</name>
+<variantName>
+<XML_Serializer_Tag>Ai-ko-ni-ssu Shih-mo-te-lai</XML_Serializer_Tag>
+<XML_Serializer_Tag>Aigenisi Shimotelai</XML_Serializer_Tag>
+<XML_Serializer_Tag>Agunesu Sumedorē</XML_Serializer_Tag>
+<XML_Serializer_Tag>A. Sumedorē</XML_Serializer_Tag>
+</variantName>
+<thumbnail>https://commons.wikimedia.org/wiki/Special:FilePath/1H-ACC_93-1116-teenager.jpg?width=270</thumbnail>
+<birthEN>1892</birthEN>
+<birthDE>1892</birthDE>
+<deathEN>1950</deathEN>
+<deathDE>1950</deathDE>
+<birthPlace />
+<deathPlace>
+<XML_Serializer_Tag>Oxford</XML_Serializer_Tag>
+</deathPlace>
+<professionOrOccupation>
+<XML_Serializer_Tag>Journalistin</XML_Serializer_Tag>
+<XML_Serializer_Tag>Schriftstellerin</XML_Serializer_Tag>
+</professionOrOccupation>
+<dbpResource>http://dbpedia.org/resource/Agnes_Smedley</dbpResource>
+<abstract>Agnes Smedley (chinesisch: Āngénísī Shǐmòtèlái 安格尼斯•史沫特莱; * 23. Februar 1892 in Osgood, Missouri; † 6. Mai 1950 in Oxford) war eine US-amerikanische Journalistin und Autorin, die mit ihren Artikeln und Büchern über die chinesische Revolution bekannt wurde.</abstract>
+<wikilink>http://en.wikipedia.org/wiki/Agnes_Smedley?oldid=596896847</wikilink>
+<artworks />
+<buildings />
+<books>
+<XML_Serializer_Tag>
+<book>
+<type>uri</type>
+<value>http://dbpedia.org/resource/Battle_Hymn_of_China</value>
+</book>
+<author>
+<type>uri</type>
+<value>http://dbpedia.org/resource/Agnes_Smedley</value>
+</author>
+<thumbnail>
+<type>uri</type>
+<value>http://commons.wikimedia.org/wiki/Special:FilePath/Agnes_Smedley_Battle_Hymn.jpg?width=300</value>
+</thumbnail>
+<released>
+<type>typed-literal</type>
+<datatype>http://www.w3.org/2001/XMLSchema#integer</datatype>
+<value>19431944</value>
+</released>
+<wikilink>
+<type>uri</type>
+<value>http://en.wikipedia.org/wiki/Battle_Hymn_of_China?oldid=587943771</value>
+</wikilink>
+</XML_Serializer_Tag>
+<XML_Serializer_Tag>
+<book>
+<type>uri</type>
+<value>http://dbpedia.org/resource/China&apos;s_Red_Army_Marches</value>
+</book>
+<author>
+<type>uri</type>
+<value>http://dbpedia.org/resource/Agnes_Smedley</value>
+</author>
+<released>
+<type>typed-literal</type>
+<datatype>http://www.w3.org/2001/XMLSchema#integer</datatype>
+<value>1934</value>
+</released>
+<wikilink>
+<type>uri</type>
+<value>http://en.wikipedia.org/wiki/China&apos;s_Red_Army_Marches?oldid=587927234</value>
+</wikilink>
+</XML_Serializer_Tag>
+<XML_Serializer_Tag>
+<book>
+<type>uri</type>
+<value>http://dbpedia.org/resource/Daughter_of_Earth</value>
+</book>
+<author>
+<type>uri</type>
+<value>http://dbpedia.org/resource/Agnes_Smedley</value>
+</author>
+<wikilink>
+<type>uri</type>
+<value>http://en.wikipedia.org/wiki/Daughter_of_Earth?oldid=561902856</value>
+</wikilink>
+</XML_Serializer_Tag>
+</books>
+</Person>

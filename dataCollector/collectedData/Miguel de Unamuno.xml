@@ -1,0 +1,85 @@
+<Person>
+<name>Miguel de Unamuno</name>
+<variantName>
+<XML_Serializer_Tag>Miguel de Unamuno y Jugo</XML_Serializer_Tag>
+<XML_Serializer_Tag>Miguel de Unamuno y Jugo</XML_Serializer_Tag>
+<XML_Serializer_Tag>... Unamuno</XML_Serializer_Tag>
+<XML_Serializer_Tag>Migel&apos; de Unamuno</XML_Serializer_Tag>
+<XML_Serializer_Tag>Migel&apos; de Unamuno</XML_Serializer_Tag>
+</variantName>
+<thumbnail>https://commons.wikimedia.org/wiki/Special:FilePath/Miguel_de_Unamuno_1925.jpg?width=270</thumbnail>
+<birthEN>September 29, 1864</birthEN>
+<birthDE>29. September 1864</birthDE>
+<deathEN>December 31, 1936</deathEN>
+<deathDE>31. Dezember 1936</deathDE>
+<birthPlace>
+<XML_Serializer_Tag>Bilbao</XML_Serializer_Tag>
+</birthPlace>
+<deathPlace>
+<XML_Serializer_Tag>Salamanca</XML_Serializer_Tag>
+</deathPlace>
+<professionOrOccupation>
+<XML_Serializer_Tag>Philosoph</XML_Serializer_Tag>
+<XML_Serializer_Tag>Schriftsteller</XML_Serializer_Tag>
+<XML_Serializer_Tag>Politiker</XML_Serializer_Tag>
+</professionOrOccupation>
+<dbpResource>http://dbpedia.org/resource/Miguel_de_Unamuno</dbpResource>
+<abstract>Miguel de Unamuno y Jugo (* 29. September 1864 in Bilbao; † 31. Dezember 1936 in Salamanca) war ein spanischer Philosoph und Schriftsteller.</abstract>
+<wikilink>http://en.wikipedia.org/wiki/Miguel_de_Unamuno?oldid=606325301</wikilink>
+<artworks />
+<buildings />
+<books>
+<XML_Serializer_Tag>
+<book>
+<type>uri</type>
+<value>http://dbpedia.org/resource/Mist_(novel)</value>
+</book>
+<author>
+<type>uri</type>
+<value>http://dbpedia.org/resource/Miguel_de_Unamuno</value>
+</author>
+<released>
+<type>typed-literal</type>
+<datatype>http://www.w3.org/2001/XMLSchema#integer</datatype>
+<value>1914</value>
+</released>
+<wikilink>
+<type>uri</type>
+<value>http://en.wikipedia.org/wiki/Mist_(novel)?oldid=569114863</value>
+</wikilink>
+</XML_Serializer_Tag>
+<XML_Serializer_Tag>
+<book>
+<type>uri</type>
+<value>http://dbpedia.org/resource/Abel_S%C3%A1nchez</value>
+</book>
+<author>
+<type>uri</type>
+<value>http://dbpedia.org/resource/Miguel_de_Unamuno</value>
+</author>
+<released>
+<type>typed-literal</type>
+<datatype>http://www.w3.org/2001/XMLSchema#integer</datatype>
+<value>1917</value>
+</released>
+<wikilink>
+<type>uri</type>
+<value>http://en.wikipedia.org/wiki/Abel_Sánchez?oldid=604596641</value>
+</wikilink>
+</XML_Serializer_Tag>
+<XML_Serializer_Tag>
+<book>
+<type>uri</type>
+<value>http://dbpedia.org/resource/San_Manuel_Bueno,_M%C3%A1rtir</value>
+</book>
+<author>
+<type>uri</type>
+<value>http://dbpedia.org/resource/Miguel_de_Unamuno</value>
+</author>
+<wikilink>
+<type>uri</type>
+<value>http://en.wikipedia.org/wiki/San_Manuel_Bueno,_Mártir?oldid=596825137</value>
+</wikilink>
+</XML_Serializer_Tag>
+</books>
+</Person>

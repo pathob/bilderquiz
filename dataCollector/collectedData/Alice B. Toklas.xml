@@ -1,0 +1,41 @@
+<Person>
+<name>Alice B. Toklas</name>
+<variantName>
+<XML_Serializer_Tag>Alice Babette Toklas</XML_Serializer_Tag>
+</variantName>
+<thumbnail>https://commons.wikimedia.org/wiki/Special:FilePath/Alice_B._Toklas,_by_Carl_Van_Vechten_-_1949.jpg?width=270</thumbnail>
+<birthEN>1877</birthEN>
+<birthDE>1877</birthDE>
+<deathEN>1967</deathEN>
+<deathDE>1967</deathDE>
+<birthPlace>
+<XML_Serializer_Tag>San Francisco</XML_Serializer_Tag>
+</birthPlace>
+<deathPlace>
+<XML_Serializer_Tag>Paris</XML_Serializer_Tag>
+</deathPlace>
+<professionOrOccupation>
+<XML_Serializer_Tag>Schriftstellerin</XML_Serializer_Tag>
+</professionOrOccupation>
+<dbpResource>http://dbpedia.org/resource/Alice_B._Toklas</dbpResource>
+<abstract>Alice Babette Toklas (* 30. April 1877 in San Francisco; † 7. März 1967 in Paris) war eine US-amerikanische Autorin und die Sekretärin und Lebensgefährtin der Schriftstellerin und Kunstsammlerin Gertrude Stein.</abstract>
+<wikilink>http://en.wikipedia.org/wiki/Alice_B._Toklas?oldid=606337786</wikilink>
+<artworks />
+<buildings />
+<books>
+<XML_Serializer_Tag>
+<book>
+<type>uri</type>
+<value>http://dbpedia.org/resource/The_Alice_B._Toklas_Cookbook</value>
+</book>
+<author>
+<type>uri</type>
+<value>http://dbpedia.org/resource/Alice_B._Toklas</value>
+</author>
+<wikilink>
+<type>uri</type>
+<value>http://en.wikipedia.org/wiki/The_Alice_B._Toklas_Cookbook?oldid=606693163</value>
+</wikilink>
+</XML_Serializer_Tag>
+</books>
+</Person>

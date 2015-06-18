@@ -11,8 +11,10 @@
 <professionOrOccupation>
 <XML_Serializer_Tag>Maler</XML_Serializer_Tag>
 </professionOrOccupation>
-<artworks />
 <dbpResource>http://dbpedia.org/resource/Thomas_Kinkade</dbpResource>
 <abstract>Thomas Kinkade (* 19. Januar 1958 in Sacramento, Kalifornien; † 6. April 2012 in Los Gatos, Kalifornien) war ein US-amerikanischer Maler. Er bezeichnete sich selbst als &quot;Thomas Kinkade, Painter of Light&quot;. Er ist Urheber zahlreicher in Amerika weit verbreiteter Bilder. Seine Bilder wurden unter anderem per Versandhandel vertrieben. Dutzende seiner Werke wurden auch von Schmidt Spiele als Puzzles veröffentlicht.</abstract>
 <wikilink>http://en.wikipedia.org/wiki/Thomas_Kinkade?oldid=603869259</wikilink>
+<artworks />
+<buildings />
+<books />
 </Person>

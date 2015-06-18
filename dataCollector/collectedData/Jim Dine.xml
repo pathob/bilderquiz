@@ -13,8 +13,10 @@
 <XML_Serializer_Tag>Bildhauer</XML_Serializer_Tag>
 <XML_Serializer_Tag>Photograph</XML_Serializer_Tag>
 </professionOrOccupation>
-<artworks />
 <dbpResource>http://dbpedia.org/resource/Jim_Dine</dbpResource>
 <abstract>Jim Dine (* 16. Juni 1935 in Cincinnati, Ohio) ist ein US-amerikanischer Künstler und ein Hauptvertreter der Pop Art.</abstract>
 <wikilink>http://en.wikipedia.org/wiki/Jim_Dine?oldid=606229700</wikilink>
+<artworks />
+<buildings />
+<books />
 </Person>

@@ -1,0 +1,26 @@
+<Person>
+<name>Balthasar Permoser</name>
+<variantName>
+<XML_Serializer_Tag>Barbatius Schönbart</XML_Serializer_Tag>
+<XML_Serializer_Tag>Johannes Barbatius</XML_Serializer_Tag>
+<XML_Serializer_Tag>Johannes Barbatia</XML_Serializer_Tag>
+<XML_Serializer_Tag>Johann Barbatius Schoenbart</XML_Serializer_Tag>
+<XML_Serializer_Tag>Johann Barbatius Schoenbart</XML_Serializer_Tag>
+</variantName>
+<thumbnail>https://commons.wikimedia.org/wiki/Special:FilePath/Balthasar_permoser_moritzbodenehr.jpg?width=270</thumbnail>
+<birthEN>1651</birthEN>
+<birthDE>1651</birthDE>
+<deathEN>1732</deathEN>
+<deathDE>1732</deathDE>
+<birthPlace />
+<deathPlace />
+<professionOrOccupation>
+<XML_Serializer_Tag>Bildhauer</XML_Serializer_Tag>
+</professionOrOccupation>
+<dbpResource>http://dbpedia.org/resource/Balthasar_Permoser</dbpResource>
+<abstract>Balthasar Permoser (* 13. August 1651 in Kammer bei Traunstein; † 20. Februar 1732 in Dresden) war einer der bedeutendsten Bildhauer des Barock.</abstract>
+<wikilink>http://en.wikipedia.org/wiki/Balthasar_Permoser?oldid=556581926</wikilink>
+<artworks />
+<buildings />
+<books />
+</Person>

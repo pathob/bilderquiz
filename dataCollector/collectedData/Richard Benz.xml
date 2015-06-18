@@ -1,0 +1,27 @@
+<Person>
+<name>Richard Benz</name>
+<variantName>
+<XML_Serializer_Tag>Richard E. Benz</XML_Serializer_Tag>
+</variantName>
+<thumbnail>https://commons.wikimedia.org/wiki/Special:FilePath/Richard_benz_grab.JPG?width=270</thumbnail>
+<birthEN>1884</birthEN>
+<birthDE>1884</birthDE>
+<deathEN>1966</deathEN>
+<deathDE>1966</deathDE>
+<birthPlace>
+<XML_Serializer_Tag>Reichenbach</XML_Serializer_Tag>
+</birthPlace>
+<deathPlace>
+<XML_Serializer_Tag>Heidelberg</XML_Serializer_Tag>
+</deathPlace>
+<professionOrOccupation>
+<XML_Serializer_Tag>Historiker</XML_Serializer_Tag>
+<XML_Serializer_Tag>Schriftsteller</XML_Serializer_Tag>
+</professionOrOccupation>
+<dbpResource>http://dbpedia.org/resource/Richard_Benz</dbpResource>
+<abstract>Richard Benz (* 12. Juni 1884 in Reichenbach im Vogtland; † 9. November 1966 in Heidelberg) war ein deutscher Germanist, Kulturhistoriker und Schriftsteller.</abstract>
+<wikilink>http://en.wikipedia.org/wiki/Richard_Benz?oldid=596554443</wikilink>
+<artworks />
+<buildings />
+<books />
+</Person>

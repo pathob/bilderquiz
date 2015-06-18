@@ -1,0 +1,29 @@
+<Person>
+<name>Ludwig Bamberger</name>
+<variantName>
+<XML_Serializer_Tag>Louis Bamberger</XML_Serializer_Tag>
+</variantName>
+<thumbnail>https://commons.wikimedia.org/wiki/Special:FilePath/Ludwig_Bamberger.jpg?width=270</thumbnail>
+<birthEN>July 22, 1823</birthEN>
+<birthDE>22. Juli 1823</birthDE>
+<deathEN>March 14, 1899</deathEN>
+<deathDE>14. März 1899</deathDE>
+<birthPlace>
+<XML_Serializer_Tag>Mainz</XML_Serializer_Tag>
+</birthPlace>
+<deathPlace>
+<XML_Serializer_Tag>Berlin</XML_Serializer_Tag>
+</deathPlace>
+<professionOrOccupation>
+<XML_Serializer_Tag>Politiker</XML_Serializer_Tag>
+<XML_Serializer_Tag>Volkswirt</XML_Serializer_Tag>
+<XML_Serializer_Tag>Historiker</XML_Serializer_Tag>
+<XML_Serializer_Tag>Schriftsteller</XML_Serializer_Tag>
+</professionOrOccupation>
+<dbpResource>http://dbpedia.org/resource/Ludwig_Bamberger</dbpResource>
+<abstract>Ludwig Bamberger (* 22. Juli 1823 in Mainz; † 14. März 1899 in Berlin) war ein deutscher Bankier und Politiker. Er gilt als einer der bedeutendsten Vertreter des deutschen Liberalismus der Zeit der Reichsgründung. Aus einer jüdischen Bankiersfamilie stammend, gehörte er 1870 zu den Gründern der Deutsche Bank AG. In den frühen 1870er Jahren war Bamberger einer der wichtigsten Finanzpolitiker. Er war an der Gründung der Reichsbank beteiligt und gilt als Vater der Münzreform und der deutschen Mark.</abstract>
+<wikilink>http://en.wikipedia.org/wiki/Ludwig_Bamberger?oldid=581036287</wikilink>
+<artworks />
+<buildings />
+<books />
+</Person>

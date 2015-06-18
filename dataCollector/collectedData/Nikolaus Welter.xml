@@ -1,0 +1,30 @@
+<Person>
+<name>Nikolaus Welter</name>
+<variantName>
+<XML_Serializer_Tag>Nicolaus Welter</XML_Serializer_Tag>
+<XML_Serializer_Tag>Nic. Welter</XML_Serializer_Tag>
+<XML_Serializer_Tag>Nik Welter</XML_Serializer_Tag>
+</variantName>
+<thumbnail>https://commons.wikimedia.org/wiki/Special:FilePath/Nik_Welter.jpg?width=270</thumbnail>
+<birthEN>January 2, 1871</birthEN>
+<birthDE>2. Januar 1871</birthDE>
+<deathEN>July 13, 1951</deathEN>
+<deathDE>13. Juli 1951</deathDE>
+<birthPlace />
+<deathPlace />
+<professionOrOccupation>
+<XML_Serializer_Tag>Pädagoge</XML_Serializer_Tag>
+<XML_Serializer_Tag>Philologe</XML_Serializer_Tag>
+<XML_Serializer_Tag>Schriftsteller</XML_Serializer_Tag>
+<XML_Serializer_Tag>Dramatiker</XML_Serializer_Tag>
+<XML_Serializer_Tag>Lyriker</XML_Serializer_Tag>
+<XML_Serializer_Tag>Literarturhistoriker</XML_Serializer_Tag>
+<XML_Serializer_Tag>Unterrichtsminister</XML_Serializer_Tag>
+</professionOrOccupation>
+<dbpResource>http://dbpedia.org/resource/Nik_Welter</dbpResource>
+<abstract>Nikolaus Welter (auch Nik Welter; * 2. Januar 1871 in Mersch, Luxemburg; † 13. Juli 1951 in Luxemburg) war ein luxemburgischer Schriftsteller, Professor (Literaturwissenschaftler) und Staatsmann.</abstract>
+<wikilink>http://en.wikipedia.org/wiki/Nik_Welter?oldid=592398997</wikilink>
+<artworks />
+<buildings />
+<books />
+</Person>

@@ -18,8 +18,10 @@
 <XML_Serializer_Tag>Maler</XML_Serializer_Tag>
 <XML_Serializer_Tag>Pädagoge</XML_Serializer_Tag>
 </professionOrOccupation>
-<artworks />
 <dbpResource>http://dbpedia.org/resource/Hans_Hofmann</dbpResource>
 <abstract>Hans Georg Albert Hofmann (* 21. März 1880 in Weißenburg in Bayern; † 17. Februar 1966 in New York) war ein Maler, Lehrer und Kunstprofessor, der in seinen frühen Werken eine Synthese aus Fauvismus und Kubismus anstrebte. Nach seiner Emigration in die Vereinigten Staaten gründete er in New York eine Kunstschule, die großen Einfluss auf die Entwicklung des Abstrakten Expressionismus hatte. Hofmann gilt als Künstler der ersten Generation der sogenannten New York School.</abstract>
 <wikilink>http://en.wikipedia.org/wiki/Hans_Hofmann?oldid=602874443</wikilink>
+<artworks />
+<buildings />
+<books />
 </Person>

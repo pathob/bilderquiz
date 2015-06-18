@@ -1,0 +1,33 @@
+<Person>
+<name>Erika Mann</name>
+<variantName>
+<XML_Serializer_Tag>Erika Julia Hedwig Mann</XML_Serializer_Tag>
+<XML_Serializer_Tag>Ērika Man</XML_Serializer_Tag>
+<XML_Serializer_Tag>Erika Man</XML_Serializer_Tag>
+<XML_Serializer_Tag>Erika Julia Hedwig Mann</XML_Serializer_Tag>
+<XML_Serializer_Tag>エーリカ・マン</XML_Serializer_Tag>
+</variantName>
+<thumbnail>https://commons.wikimedia.org/wiki/Special:FilePath/Erika_Mann_NYWTS.jpg?width=270</thumbnail>
+<birthEN>November 9, 1905</birthEN>
+<birthDE>9. November 1905</birthDE>
+<deathEN>August 27, 1969</deathEN>
+<deathDE>27. August 1969</deathDE>
+<birthPlace>
+<XML_Serializer_Tag>München</XML_Serializer_Tag>
+</birthPlace>
+<deathPlace>
+<XML_Serializer_Tag>Kilchberg (Zürich)</XML_Serializer_Tag>
+</deathPlace>
+<professionOrOccupation>
+<XML_Serializer_Tag>Schriftstellerin</XML_Serializer_Tag>
+<XML_Serializer_Tag>Kriegsberichterstatterin</XML_Serializer_Tag>
+<XML_Serializer_Tag>Schauspielerin</XML_Serializer_Tag>
+<XML_Serializer_Tag>Drehbuchautorin</XML_Serializer_Tag>
+</professionOrOccupation>
+<dbpResource>http://dbpedia.org/resource/Erika_Mann</dbpResource>
+<abstract>Erika Julia Hedwig Mann (* 9. November 1905 in München; † 27. August 1969 in Zürich) war eine deutsche Schauspielerin, Kabarettistin, Schriftstellerin und Lektorin. Sie gründete 1933 das politische Kabarett Die Pfeffermühle und arbeitete mit Vorträgen – als Schriftstellerin und Journalistin auch nach ihrer Emigration in die Vereinigten Staaten – gegen den Nationalsozialismus. Neben ihrer Tätigkeit als Nachlassverwalterin ihres Vaters Thomas sowie ihres Bruders Klaus Mann hat sie ein umfangreiches Werk aus politischen Essays, Reportagen, Reiseberichten und Kinderbüchern hinterlassen.</abstract>
+<wikilink>http://en.wikipedia.org/wiki/Erika_Mann?oldid=591894865</wikilink>
+<artworks />
+<buildings />
+<books />
+</Person>

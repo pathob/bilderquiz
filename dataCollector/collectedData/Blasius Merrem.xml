@@ -1,0 +1,29 @@
+<Person>
+<name>Blasius Merrem</name>
+<variantName>
+<XML_Serializer_Tag>B. Merrem</XML_Serializer_Tag>
+</variantName>
+<thumbnail>https://commons.wikimedia.org/wiki/Special:FilePath/Merrem_Blasius_1761-1824.png?width=270</thumbnail>
+<birthEN>February 4, 1761</birthEN>
+<birthDE>4. Februar 1761</birthDE>
+<deathEN>February 23, 1824</deathEN>
+<deathDE>23. Februar 1824</deathDE>
+<birthPlace />
+<deathPlace />
+<professionOrOccupation>
+<XML_Serializer_Tag>Mathematiker</XML_Serializer_Tag>
+<XML_Serializer_Tag>Physiker</XML_Serializer_Tag>
+<XML_Serializer_Tag>Zoologe</XML_Serializer_Tag>
+<XML_Serializer_Tag>Biologe</XML_Serializer_Tag>
+<XML_Serializer_Tag>Botaniker</XML_Serializer_Tag>
+<XML_Serializer_Tag>Autor</XML_Serializer_Tag>
+<XML_Serializer_Tag>Kameralist</XML_Serializer_Tag>
+<XML_Serializer_Tag>Ökonom</XML_Serializer_Tag>
+</professionOrOccupation>
+<dbpResource>http://dbpedia.org/resource/Blasius_Merrem</dbpResource>
+<abstract>Blasius Merrem (* 4. Februar 1761 in Bremen; † 23. Februar 1824 in Marburg) war ein deutscher Biologe.Der Kaufmanns-Sohn Merrem widmetet sich zunächst besonders dem Studium der Sprachen (Arabisch, Latein, Griechisch). Nach seinem Eintritt in die Universität Göttingen 1778 wurde er Schüler von Johann Friedrich Blumenbach und begann sich für Zoologie allgemein und Ornithologie sowie Herpetologie im Besonderen zu interessieren. Er lehrte zuletzt als Professor an den Universitäten Duisburg und schließlich Marburg.</abstract>
+<wikilink>http://en.wikipedia.org/wiki/Blasius_Merrem?oldid=599881374</wikilink>
+<artworks />
+<buildings />
+<books />
+</Person>

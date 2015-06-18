@@ -1,0 +1,23 @@
+<Person>
+<name>John Mainwaring</name>
+<variantName>
+<XML_Serializer_Tag>... Mainwaring-Mattheson</XML_Serializer_Tag>
+</variantName>
+<thumbnail>https://commons.wikimedia.org/wiki/Special:FilePath/Georg_Friedrich_Händel.png?width=270</thumbnail>
+<birthEN>August 4, 1724</birthEN>
+<birthDE>4. August 1724</birthDE>
+<deathEN>April 15, 1807</deathEN>
+<deathDE>15. April 1807</deathDE>
+<birthPlace />
+<deathPlace />
+<professionOrOccupation>
+<XML_Serializer_Tag>Theologe</XML_Serializer_Tag>
+<XML_Serializer_Tag>Autor</XML_Serializer_Tag>
+</professionOrOccupation>
+<dbpResource>http://dbpedia.org/resource/John_Mainwaring</dbpResource>
+<abstract>John Mainwaring (* 1735; † 1807) war ein englischer Theologe und erster Biograph des Komponisten Georg Friedrich Händel (1685-1759). Seine im Jahre 1760 anonym erschienenen Händel-Memoiren gelten als erste Musikerbiographie.Mehr als die Hälfte des biographischen Teils sind Händel´s Leben vor 1712 gewidmet, bevor er in London sesshaft wurde. Daher wird heute angenommen, dass Händel selbst, sei es direkt oder indirekt, seinem Biographen Material aus seiner frühen Lebensphase hat zukommen lassen.</abstract>
+<wikilink>http://en.wikipedia.org/wiki/John_Mainwaring?oldid=600857604</wikilink>
+<artworks />
+<buildings />
+<books />
+</Person>

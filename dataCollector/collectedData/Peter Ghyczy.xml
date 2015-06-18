@@ -1,0 +1,23 @@
+<Person>
+<name>Peter Ghyczy</name>
+<variantName />
+<thumbnail>https://commons.wikimedia.org/wiki/Special:FilePath/Bundesarchiv_Bild_183-M0312-0105,_Leipzig,_Messe,_Möbel.jpg?width=270</thumbnail>
+<birthEN>1940</birthEN>
+<birthDE>1940</birthDE>
+<deathEN />
+<deathDE />
+<birthPlace>
+<XML_Serializer_Tag>Budapest</XML_Serializer_Tag>
+</birthPlace>
+<deathPlace />
+<professionOrOccupation>
+<XML_Serializer_Tag>Architekt</XML_Serializer_Tag>
+<XML_Serializer_Tag>Designer</XML_Serializer_Tag>
+</professionOrOccupation>
+<dbpResource>http://dbpedia.org/resource/Peter_Ghyczy</dbpResource>
+<abstract>Peter Ghyczy (* 1. Dezember 1940 in Budapest) ist ein deutscher Designer ungarischer Abstammung, der in Holland lebt.</abstract>
+<wikilink>http://en.wikipedia.org/wiki/Peter_Ghyczy?oldid=598806658</wikilink>
+<artworks />
+<buildings />
+<books />
+</Person>

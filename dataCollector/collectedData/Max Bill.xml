@@ -20,12 +20,15 @@
 <XML_Serializer_Tag>Maler</XML_Serializer_Tag>
 <XML_Serializer_Tag>Designer</XML_Serializer_Tag>
 </professionOrOccupation>
+<dbpResource>http://dbpedia.org/resource/Max_Bill</dbpResource>
+<abstract>Max Bill (* 22. Dezember 1908 in Winterthur; † 9. Dezember 1994 in Berlin) war ein Schweizer Architekt, Künstler und Designer, Vertreter der Zürcher Schule der Konkreten.</abstract>
+<wikilink>http://en.wikipedia.org/wiki/Max_Bill?oldid=605762732</wikilink>
 <artworks>
 <XML_Serializer_Tag>
-<painting>
+<artwork>
 <type>uri</type>
 <value>http://dbpedia.org/resource/Rhythm_in_Space</value>
-</painting>
+</artwork>
 <thumbnail>
 <type>uri</type>
 <value>http://en.wikipedia.org/wiki/Special:FilePath/Rhythm_in_Space1961.JPG?width=300</value>
@@ -44,9 +47,13 @@
 <type>uri</type>
 <value>http://en.wikipedia.org/wiki/Rhythm_in_Space?oldid=525219423</value>
 </wikilink>
+<type>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>black diorite</value>
+</type>
 </XML_Serializer_Tag>
 </artworks>
-<dbpResource>http://dbpedia.org/resource/Max_Bill</dbpResource>
-<abstract>Max Bill (* 22. Dezember 1908 in Winterthur; † 9. Dezember 1994 in Berlin) war ein Schweizer Architekt, Künstler und Designer, Vertreter der Zürcher Schule der Konkreten.</abstract>
-<wikilink>http://en.wikipedia.org/wiki/Max_Bill?oldid=605762732</wikilink>
+<buildings />
+<books />
 </Person>

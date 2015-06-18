@@ -1,0 +1,80 @@
+<Person>
+<name>Bernhard Schlink</name>
+<variantName>
+<XML_Serializer_Tag>Bernard Schlink</XML_Serializer_Tag>
+<XML_Serializer_Tag>Bernhard Shlinḳ</XML_Serializer_Tag>
+<XML_Serializer_Tag>Berunharuto Shurinku</XML_Serializer_Tag>
+<XML_Serializer_Tag>Bernhard Schilink</XML_Serializer_Tag>
+<XML_Serializer_Tag>Birnhārd Šilīng</XML_Serializer_Tag>
+<XML_Serializer_Tag>Birnhārd Šilīnk</XML_Serializer_Tag>
+<XML_Serializer_Tag>Bernard Šlink</XML_Serializer_Tag>
+<XML_Serializer_Tag>Bernchard Šlink</XML_Serializer_Tag>
+<XML_Serializer_Tag>Bernhard Šlink</XML_Serializer_Tag>
+<XML_Serializer_Tag>Mperncharnt Slink</XML_Serializer_Tag>
+<XML_Serializer_Tag>Bernhards Šlinks</XML_Serializer_Tag>
+<XML_Serializer_Tag>Bernhârd Šlînq</XML_Serializer_Tag>
+<XML_Serializer_Tag>Perŭnharŭt&apos;ŭ Syullingk&apos;ŭ</XML_Serializer_Tag>
+<XML_Serializer_Tag>Ben-Ha-De Shi-Lin-Ke</XML_Serializer_Tag>
+<XML_Serializer_Tag>Xu lin ke</XML_Serializer_Tag>
+<XML_Serializer_Tag>Xulinke</XML_Serializer_Tag>
+<XML_Serializer_Tag>Ben ha de Shi lin ke</XML_Serializer_Tag>
+<XML_Serializer_Tag>Benhade-Shilinke</XML_Serializer_Tag>
+<XML_Serializer_Tag>Benhade Shilinke</XML_Serializer_Tag>
+<XML_Serializer_Tag>Bo en ha de Shi lin ke</XML_Serializer_Tag>
+<XML_Serializer_Tag>Boenhade-Shilinke</XML_Serializer_Tag>
+<XML_Serializer_Tag>Be leun ha leu teu Syul ling keu</XML_Serializer_Tag>
+<XML_Serializer_Tag>Beleunhaleuteu-Syullingkeu</XML_Serializer_Tag>
+<XML_Serializer_Tag>Beleunhaleuteu Syullingkeu</XML_Serializer_Tag>
+<XML_Serializer_Tag>Boenhade Shilinke</XML_Serializer_Tag>
+<XML_Serializer_Tag>Barnārḍa Śliṅka</XML_Serializer_Tag>
+<XML_Serializer_Tag>베른하르트 슐링크</XML_Serializer_Tag>
+<XML_Serializer_Tag>ברנהרד שלינק</XML_Serializer_Tag>
+<XML_Serializer_Tag>本哈德 施林克</XML_Serializer_Tag>
+<XML_Serializer_Tag>ベルンハルト シュリンク</XML_Serializer_Tag>
+</variantName>
+<thumbnail>https://commons.wikimedia.org/wiki/Special:FilePath/Bernhard_Schlink.jpg?width=270</thumbnail>
+<birthEN>1944</birthEN>
+<birthDE>1944</birthDE>
+<deathEN />
+<deathDE />
+<birthPlace>
+<XML_Serializer_Tag>Bielefeld</XML_Serializer_Tag>
+</birthPlace>
+<deathPlace />
+<professionOrOccupation>
+<XML_Serializer_Tag>Jurist</XML_Serializer_Tag>
+<XML_Serializer_Tag>Richter</XML_Serializer_Tag>
+<XML_Serializer_Tag>Schriftsteller</XML_Serializer_Tag>
+</professionOrOccupation>
+<dbpResource>http://dbpedia.org/resource/Bernhard_Schlink</dbpResource>
+<abstract>Bernhard Schlink (* 6. Juli 1944 in Großdornberg bei Bielefeld) ist deutscher Jurist und Schriftsteller. Sein Roman Der Vorleser wurde zu einem internationalen Bestseller.</abstract>
+<wikilink>http://en.wikipedia.org/wiki/Bernhard_Schlink?oldid=598410469</wikilink>
+<artworks />
+<buildings />
+<books>
+<XML_Serializer_Tag>
+<book>
+<type>uri</type>
+<value>http://dbpedia.org/resource/The_Reader</value>
+</book>
+<author>
+<type>uri</type>
+<value>http://dbpedia.org/resource/Bernhard_Schlink</value>
+</author>
+<released>
+<type>typed-literal</type>
+<datatype>http://www.w3.org/2001/XMLSchema#integer</datatype>
+<value>1995</value>
+</released>
+<wikilink>
+<type>uri</type>
+<value>http://en.wikipedia.org/wiki/The_Reader?oldid=606121765</value>
+</wikilink>
+<abstract>
+<type>literal</type>
+<xml:lang>de</xml:lang>
+<value>Der Vorleser ist ein Roman des deutschen Schriftstellers Bernhard Schlink aus dem Jahr 1995.Im Vordergrund des dreiteiligen Romans steht anfangs die ungleiche erotische Beziehung des Ich-Erzählers Michael Berg zu der 21 Jahre älteren Hanna Schmitz. Im weiteren Verlauf konzentriert sich die rückblickende Erzählung des Juristen und Autors Schlink zunehmend auf ethische Fragen und den Umgang mit den Tätern des Holocaust in der Bundesrepublik der 1960er Jahre.Das Buch wurde in 40 Sprachen übersetzt. In den USA erschien es 1997 unter dem Titel The Reader und wurde zu einem Bestseller.</value>
+</abstract>
+</XML_Serializer_Tag>
+</books>
+</Person>

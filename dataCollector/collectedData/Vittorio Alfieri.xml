@@ -1,0 +1,31 @@
+<Person>
+<name>Vittorio Alfieri</name>
+<variantName>
+<XML_Serializer_Tag>Victor Alfieri</XML_Serializer_Tag>
+<XML_Serializer_Tag>Vittore Alfieri</XML_Serializer_Tag>
+<XML_Serializer_Tag>Vittorio Alfieri da Asti</XML_Serializer_Tag>
+<XML_Serializer_Tag>Vittorio Alfieri da Asti</XML_Serializer_Tag>
+<XML_Serializer_Tag>Vittorio von Alfieri</XML_Serializer_Tag>
+<XML_Serializer_Tag>Vittorio Amedeo Alfieri</XML_Serializer_Tag>
+</variantName>
+<thumbnail>https://commons.wikimedia.org/wiki/Special:FilePath/VittorioAlfieri.jpg?width=270</thumbnail>
+<birthEN>January 16, 1749</birthEN>
+<birthDE>16. Januar 1749</birthDE>
+<deathEN>October 8, 1803</deathEN>
+<deathDE>8. Oktober 1803</deathDE>
+<birthPlace>
+<XML_Serializer_Tag>Asti</XML_Serializer_Tag>
+</birthPlace>
+<deathPlace>
+<XML_Serializer_Tag>Florenz</XML_Serializer_Tag>
+</deathPlace>
+<professionOrOccupation>
+<XML_Serializer_Tag>Schriftsteller</XML_Serializer_Tag>
+</professionOrOccupation>
+<dbpResource>http://dbpedia.org/resource/Vittorio_Alfieri</dbpResource>
+<abstract>Vittorio Alfieri (* 17. Januar 1749 in Asti; † 8. Oktober 1803 in Florenz) war ein italienischer Dichter und Dramatiker im Zeitalter der Aufklärung.Seine streng formalen, klassischen Tragödien waren durchdrungen von den republikanischen Freiheitsgedanken des späten 18. Jahrhunderts und seiner Abscheu gegenüber jeder Form von Tyrannei. Dadurch hatten die Werke dieses Aufklärers großen Einfluss auf die italienische Freiheitsbewegung des 19. Jahrhunderts, das Risorgimento. Er gilt als Erfinder der Tramelogödie.</abstract>
+<wikilink>http://en.wikipedia.org/wiki/Vittorio_Alfieri?oldid=599680024</wikilink>
+<artworks />
+<buildings />
+<books />
+</Person>

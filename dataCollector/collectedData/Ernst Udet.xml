@@ -1,0 +1,28 @@
+<Person>
+<name>Ernst Udet</name>
+<variantName />
+<thumbnail>https://commons.wikimedia.org/wiki/Special:FilePath/Bundesarchiv_Bild_146-1984-112-13,_Ernst_Udet.jpg?width=270</thumbnail>
+<birthEN>April 26, 1896</birthEN>
+<birthDE>26. April 1896</birthDE>
+<deathEN>November 17, 1941</deathEN>
+<deathDE>17. November 1941</deathDE>
+<birthPlace>
+<XML_Serializer_Tag>Frankfurt am Main</XML_Serializer_Tag>
+</birthPlace>
+<deathPlace>
+<XML_Serializer_Tag>Berlin</XML_Serializer_Tag>
+</deathPlace>
+<professionOrOccupation>
+<XML_Serializer_Tag>Jagdflieger</XML_Serializer_Tag>
+<XML_Serializer_Tag>Offizier</XML_Serializer_Tag>
+<XML_Serializer_Tag>Autor</XML_Serializer_Tag>
+<XML_Serializer_Tag>Schauspieler</XML_Serializer_Tag>
+<XML_Serializer_Tag>Pilot</XML_Serializer_Tag>
+</professionOrOccupation>
+<dbpResource>http://dbpedia.org/resource/Ernst_Udet</dbpResource>
+<abstract>Ernst Udet (* 26. April 1896 in Frankfurt am Main; † 17. November 1941 in Berlin) war während des Ersten Weltkriegs Jagdflieger in der Fliegertruppe des Deutschen Heeres. Nach Manfred von Richthofen erzielte er die zweithöchste Zahl von Abschüssen unter den deutschen Jagdpiloten. Während der Zeit des Nationalsozialismus war Udet im Reichsluftfahrtministerium verantwortlich für die technische Ausrüstung der Luftwaffe und bekleidete ab 1939, zuletzt im Rang eines Generaloberst, das Amt des Generalluftzeugmeisters der Wehrmacht.</abstract>
+<wikilink>http://en.wikipedia.org/wiki/Ernst_Udet?oldid=597463625</wikilink>
+<artworks />
+<buildings />
+<books />
+</Person>

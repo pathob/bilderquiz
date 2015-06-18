@@ -14,12 +14,15 @@
 <XML_Serializer_Tag>Künstler</XML_Serializer_Tag>
 <XML_Serializer_Tag>Maler</XML_Serializer_Tag>
 </professionOrOccupation>
+<dbpResource>http://dbpedia.org/resource/Thomas_Lawrence</dbpResource>
+<abstract>Sir Thomas Lawrence PRA FRS (* 13. April 1769 in Bristol; † 7. Januar 1830 in London) war ein englischer Maler.</abstract>
+<wikilink>http://en.wikipedia.org/wiki/Thomas_Lawrence?oldid=606375720</wikilink>
 <artworks>
 <XML_Serializer_Tag>
-<painting>
+<artwork>
 <type>uri</type>
 <value>http://dbpedia.org/resource/Pinkie_(Lawrence_painting)</value>
-</painting>
+</artwork>
 <thumbnail>
 <type>uri</type>
 <value>http://commons.wikimedia.org/wiki/Special:FilePath/Pinkie_detailed.jpg?width=300</value>
@@ -33,9 +36,13 @@
 <type>uri</type>
 <value>http://en.wikipedia.org/wiki/Pinkie_(Lawrence_painting)?oldid=576802177</value>
 </wikilink>
+<type>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>Oil on canvas</value>
+</type>
 </XML_Serializer_Tag>
 </artworks>
-<dbpResource>http://dbpedia.org/resource/Thomas_Lawrence</dbpResource>
-<abstract>Sir Thomas Lawrence PRA FRS (* 13. April 1769 in Bristol; † 7. Januar 1830 in London) war ein englischer Maler.</abstract>
-<wikilink>http://en.wikipedia.org/wiki/Thomas_Lawrence?oldid=606375720</wikilink>
+<buildings />
+<books />
 </Person>

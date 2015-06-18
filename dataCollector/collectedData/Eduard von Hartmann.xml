@@ -1,0 +1,51 @@
+<Person>
+<name>Eduard von Hartmann</name>
+<variantName>
+<XML_Serializer_Tag>Karl Robert Eduard von Hartmann</XML_Serializer_Tag>
+<XML_Serializer_Tag>Karl Rob. Eduard von Hartmann</XML_Serializer_Tag>
+<XML_Serializer_Tag>Eduardo von Hartmann</XML_Serializer_Tag>
+<XML_Serializer_Tag>Carl Robert</XML_Serializer_Tag>
+<XML_Serializer_Tag>F. A. Müller</XML_Serializer_Tag>
+</variantName>
+<thumbnail>https://commons.wikimedia.org/wiki/Special:FilePath/Karl_Robert_Eduard_von_Hartmann_-_Philosoph.jpg?width=270</thumbnail>
+<birthEN>February 23, 1842</birthEN>
+<birthDE>23. Februar 1842</birthDE>
+<deathEN>June 5, 1906</deathEN>
+<deathDE>5. Juni 1906</deathDE>
+<birthPlace>
+<XML_Serializer_Tag>Berlin</XML_Serializer_Tag>
+</birthPlace>
+<deathPlace>
+<XML_Serializer_Tag>Lichterfelde (Berlin)</XML_Serializer_Tag>
+</deathPlace>
+<professionOrOccupation>
+<XML_Serializer_Tag>Philosoph</XML_Serializer_Tag>
+</professionOrOccupation>
+<dbpResource>http://dbpedia.org/resource/Karl_Robert_Eduard_von_Hartmann</dbpResource>
+<abstract>Karl Robert Eduard von Hartmann (* 23. Februar 1842 in Berlin; † 5. Juni 1906 in Berlin) war ein deutscher Philosoph.</abstract>
+<wikilink>http://en.wikipedia.org/wiki/Karl_Robert_Eduard_von_Hartmann?oldid=591874891</wikilink>
+<artworks />
+<buildings />
+<books>
+<XML_Serializer_Tag>
+<book>
+<type>uri</type>
+<value>http://dbpedia.org/resource/The_Philosophy_of_the_Unconscious</value>
+</book>
+<author>
+<type>uri</type>
+<value>http://dbpedia.org/resource/Karl_Robert_Eduard_von_Hartmann</value>
+</author>
+<published>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>*1869 
+*1884</value>
+</published>
+<wikilink>
+<type>uri</type>
+<value>http://en.wikipedia.org/wiki/The_Philosophy_of_the_Unconscious?oldid=588903623</value>
+</wikilink>
+</XML_Serializer_Tag>
+</books>
+</Person>

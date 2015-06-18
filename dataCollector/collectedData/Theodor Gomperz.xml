@@ -1,0 +1,27 @@
+<Person>
+<name>Theodor Gomperz</name>
+<variantName>
+<XML_Serializer_Tag>Th. Gomperz</XML_Serializer_Tag>
+</variantName>
+<thumbnail>https://commons.wikimedia.org/wiki/Special:FilePath/Theodor_Gomperz.jpg?width=270</thumbnail>
+<birthEN>March 29, 1832</birthEN>
+<birthDE>29. März 1832</birthDE>
+<deathEN>August 29, 1912</deathEN>
+<deathDE>29. August 1912</deathDE>
+<birthPlace>
+<XML_Serializer_Tag>Brünn</XML_Serializer_Tag>
+</birthPlace>
+<deathPlace>
+<XML_Serializer_Tag>Baden (Niederösterreich)</XML_Serializer_Tag>
+</deathPlace>
+<professionOrOccupation>
+<XML_Serializer_Tag>Klassischer Philologe</XML_Serializer_Tag>
+<XML_Serializer_Tag>Philosoph</XML_Serializer_Tag>
+</professionOrOccupation>
+<dbpResource>http://dbpedia.org/resource/Theodor_Gomperz</dbpResource>
+<abstract>Theodor Gomperz (* 29. März 1832 in Brno (Brünn), damals Mähren; † 29. August 1912 in Baden bei Wien, Niederösterreich) war ein österreichischer Philosoph und Klassischer Philologe.</abstract>
+<wikilink>http://en.wikipedia.org/wiki/Theodor_Gomperz?oldid=605875871</wikilink>
+<artworks />
+<buildings />
+<books />
+</Person>

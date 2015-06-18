@@ -1,0 +1,42 @@
+<Person>
+<name>Jules Renard</name>
+<variantName>
+<XML_Serializer_Tag>Žjul&apos; Renar</XML_Serializer_Tag>
+</variantName>
+<thumbnail>https://commons.wikimedia.org/wiki/Special:FilePath/Jules_Renard.jpg?width=270</thumbnail>
+<birthEN>1864</birthEN>
+<birthDE>1864</birthDE>
+<deathEN>1910</deathEN>
+<deathDE>1910</deathDE>
+<birthPlace />
+<deathPlace />
+<professionOrOccupation>
+<XML_Serializer_Tag>Schriftsteller</XML_Serializer_Tag>
+</professionOrOccupation>
+<dbpResource>http://dbpedia.org/resource/Jules_Renard</dbpResource>
+<abstract>Jules Renard (* 22. Februar 1864 in Châlons-du-Maine; † 22. Mai 1910 in Paris) war ein französischer Schriftsteller, der die kleine Form bevorzugte und dabei mit „feinem, manchmal grausamen Humor“ zu Werke ging. Politisch stand er der Linken nahe, als Autor kennzeichnet ihn, bei aller impressionistischen Komik, eine tiefe Melancholie.</abstract>
+<wikilink>http://en.wikipedia.org/wiki/Jules_Renard?oldid=582581366</wikilink>
+<artworks />
+<buildings />
+<books>
+<XML_Serializer_Tag>
+<book>
+<type>uri</type>
+<value>http://dbpedia.org/resource/Poil_de_carotte</value>
+</book>
+<author>
+<type>uri</type>
+<value>http://dbpedia.org/resource/Jules_Renard</value>
+</author>
+<wikilink>
+<type>uri</type>
+<value>http://en.wikipedia.org/wiki/Poil_de_carotte?oldid=566311779</value>
+</wikilink>
+<abstract>
+<type>literal</type>
+<xml:lang>de</xml:lang>
+<value>Poil de carotte (dt. Karottenhaar bzw. Karottenkopf) ist ein Roman des französischen Schriftstellers Jules Renard, der 1894 veröffentlicht wurde.In deutscher Übersetzung erschien er erstmals 1946 als Rotfuchs. Geschichte einer sonderbaren Familie und eines schwierigen Kindes und mit einem in Muttersohn geänderten Titel sowie in neuer Übersetzung 1987.</value>
+</abstract>
+</XML_Serializer_Tag>
+</books>
+</Person>

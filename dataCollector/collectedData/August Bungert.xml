@@ -1,0 +1,24 @@
+<Person>
+<name>August Bungert</name>
+<variantName>
+<XML_Serializer_Tag>Friedrich August Bungert</XML_Serializer_Tag>
+</variantName>
+<thumbnail>https://commons.wikimedia.org/wiki/Special:FilePath/Hutten-Sickingen-Denkmal.jpg?width=270</thumbnail>
+<birthEN>March 14, 1845</birthEN>
+<birthDE>14. März 1845</birthDE>
+<deathEN>October 26, 1915</deathEN>
+<deathDE>26. Oktober 1915</deathDE>
+<birthPlace />
+<deathPlace />
+<professionOrOccupation>
+<XML_Serializer_Tag>Komponist</XML_Serializer_Tag>
+<XML_Serializer_Tag>Musikdirektor</XML_Serializer_Tag>
+<XML_Serializer_Tag>Schriftsteller</XML_Serializer_Tag>
+</professionOrOccupation>
+<dbpResource>http://dbpedia.org/resource/August_Bungert</dbpResource>
+<abstract>Friedrich August Bungert (* 14. März 1845 in Mülheim an der Ruhr; † 26. Oktober 1915 in Leutesdorf) war ein deutscher Komponist und Dichter.</abstract>
+<wikilink>http://en.wikipedia.org/wiki/August_Bungert?oldid=588684097</wikilink>
+<artworks />
+<buildings />
+<books />
+</Person>

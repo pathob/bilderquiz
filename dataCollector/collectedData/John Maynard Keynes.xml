@@ -1,0 +1,78 @@
+<Person>
+<name>John Maynard Keynes</name>
+<variantName>
+<XML_Serializer_Tag>Baron Keynes of Tilton in the County of Sussex</XML_Serializer_Tag>
+<XML_Serializer_Tag>... Kaiensi</XML_Serializer_Tag>
+<XML_Serializer_Tag>John Maynard Keynes</XML_Serializer_Tag>
+<XML_Serializer_Tag>... Maynard Keynes</XML_Serializer_Tag>
+<XML_Serializer_Tag>J. M. Keynes</XML_Serializer_Tag>
+<XML_Serializer_Tag>John M. Keynes</XML_Serializer_Tag>
+<XML_Serializer_Tag>Dž. M. Kejns</XML_Serializer_Tag>
+</variantName>
+<thumbnail>https://commons.wikimedia.org/wiki/Special:FilePath/John_Maynard_Keynes.jpg?width=270</thumbnail>
+<birthEN>June 5, 1883</birthEN>
+<birthDE>5. Juni 1883</birthDE>
+<deathEN>April 21, 1946</deathEN>
+<deathDE>21. April 1946</deathDE>
+<birthPlace>
+<XML_Serializer_Tag>Cambridge</XML_Serializer_Tag>
+</birthPlace>
+<deathPlace>
+<XML_Serializer_Tag>Tilton, East Sussex</XML_Serializer_Tag>
+</deathPlace>
+<professionOrOccupation>
+<XML_Serializer_Tag>Wirtschaftswissenschaftler</XML_Serializer_Tag>
+<XML_Serializer_Tag>Autor</XML_Serializer_Tag>
+<XML_Serializer_Tag>Politiker</XML_Serializer_Tag>
+</professionOrOccupation>
+<dbpResource>http://dbpedia.org/resource/John_Maynard_Keynes</dbpResource>
+<abstract>John Maynard Keynes, Baron Keynes [keɪnz] (* 5. Juni 1883 in Cambridge; † 21. April 1946 in Tilton, Firle, East Sussex) war ein britischer Ökonom, Politiker und Mathematiker. Er zählt zu den bedeutendsten Ökonomen des 20. Jahrhunderts und ist Namensgeber des Keynesianismus. Seine Ideen haben bis heute Einfluss auf ökonomische und politische Theorien.</abstract>
+<wikilink>http://en.wikipedia.org/wiki/John_Maynard_Keynes?oldid=605667551</wikilink>
+<artworks />
+<buildings />
+<books>
+<XML_Serializer_Tag>
+<book>
+<type>uri</type>
+<value>http://dbpedia.org/resource/The_General_Theory_of_Employment,_Interest_and_Money</value>
+</book>
+<author>
+<type>uri</type>
+<value>http://dbpedia.org/resource/John_Maynard_Keynes</value>
+</author>
+<released>
+<type>typed-literal</type>
+<datatype>http://www.w3.org/2001/XMLSchema#integer</datatype>
+<value>1936</value>
+</released>
+<wikilink>
+<type>uri</type>
+<value>http://en.wikipedia.org/wiki/The_General_Theory_of_Employment,_Interest_and_Money?oldid=606229720</value>
+</wikilink>
+<abstract>
+<type>literal</type>
+<xml:lang>de</xml:lang>
+<value>Die Allgemeine Theorie der Beschäftigung, des Zinses und des Geldes (häufig auch als Allgemeine Theorie oder General Theory (vom engl. Originaltitel The General Theory of Employment, Interest and Money) bezeichnet) wurde von dem britischen Ökonomen John Maynard Keynes verfasst. Es erschien im Februar 1936 und gilt als sein wirtschaftswissenschaftliches Hauptwerk.Das abstrakte und rein makroökonomische Werk richtet sich gegen klassische bzw. neoklassische Axiome („Postulate“), insbesondere gegen den sogenannten natürlichen Zinssatz und somit gegen das Saysche Theorem. Nach Keynes tendiert der freie Markt zu einem Gleichgewicht bei Unterbeschäftigung und keinesfalls zur Vollbeschäftigung, wie es die Neoklassik behauptet. Nach der Weltwirtschaftskrise 1929 galt das Werk als Fundament neuer wirtschaftspolitischer Konzeptionen und läutete in der Wirtschaftswissenschaft die Keynesianische Revolution ein.</value>
+</abstract>
+</XML_Serializer_Tag>
+<XML_Serializer_Tag>
+<book>
+<type>uri</type>
+<value>http://dbpedia.org/resource/A_Treatise_on_Money</value>
+</book>
+<author>
+<type>uri</type>
+<value>http://dbpedia.org/resource/John_Maynard_Keynes</value>
+</author>
+<released>
+<type>typed-literal</type>
+<datatype>http://www.w3.org/2001/XMLSchema#integer</datatype>
+<value>1930</value>
+</released>
+<wikilink>
+<type>uri</type>
+<value>http://en.wikipedia.org/wiki/A_Treatise_on_Money?oldid=593394161</value>
+</wikilink>
+</XML_Serializer_Tag>
+</books>
+</Person>

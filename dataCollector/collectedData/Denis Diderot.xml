@@ -1,0 +1,216 @@
+<Person>
+<name>Denis Diderot</name>
+<variantName>
+<XML_Serializer_Tag>Deni Didro</XML_Serializer_Tag>
+<XML_Serializer_Tag>... Diderot</XML_Serializer_Tag>
+<XML_Serializer_Tag>Dargir</XML_Serializer_Tag>
+<XML_Serializer_Tag>Nteni Ntintero</XML_Serializer_Tag>
+<XML_Serializer_Tag>D***</XML_Serializer_Tag>
+<XML_Serializer_Tag>Denis Didro</XML_Serializer_Tag>
+<XML_Serializer_Tag>Dionysius Diderot</XML_Serializer_Tag>
+<XML_Serializer_Tag>Dionisio Diderot</XML_Serializer_Tag>
+<XML_Serializer_Tag>Tommaso Crudeli</XML_Serializer_Tag>
+</variantName>
+<thumbnail>https://commons.wikimedia.org/wiki/Special:FilePath/Denis_Diderot_111.PNG?width=270</thumbnail>
+<birthEN>October 5, 1713</birthEN>
+<birthDE>5. Oktober 1713</birthDE>
+<deathEN>July 31, 1784</deathEN>
+<deathDE>31. Juli 1784</deathDE>
+<birthPlace>
+<XML_Serializer_Tag>Langres, Frankreich</XML_Serializer_Tag>
+</birthPlace>
+<deathPlace>
+<XML_Serializer_Tag>Paris</XML_Serializer_Tag>
+</deathPlace>
+<professionOrOccupation>
+<XML_Serializer_Tag>Philosoph</XML_Serializer_Tag>
+<XML_Serializer_Tag>Herausgeber</XML_Serializer_Tag>
+<XML_Serializer_Tag>Schriftsteller</XML_Serializer_Tag>
+</professionOrOccupation>
+<dbpResource>http://dbpedia.org/resource/Denis_Diderot</dbpResource>
+<abstract>Denis Diderot [dəni didʁo] (* 5. Oktober 1713 in Langres; † 31. Juli 1784 in Paris) war ein französischer Schriftsteller, Philosoph, Aufklärer und einer der wichtigsten Organisatoren und Autoren der Encyclopédie.Zusammen mit Jean-Baptiste le Rond d’Alembert war er Herausgeber der großen französischen Encyclopédie, zu der er selbst als Enzyklopädist etwa 6000 von insgesamt 72.000 Artikeln beitrug. Als Autor von Bühnenwerken hatte er großen Anteil am Entstehen des bürgerlichen Dramas.Seine Romane und Erzählungen – zumeist postum erschienen wie La Religieuse, Jacques le fataliste oder Le Neveu de Rameau – leisteten in verschiedener Weise ihren Beitrag zu den großen Themen der Zeit der (französischen) Aufklärung, so zu den Fragen der Selbstbestimmung des Menschen, des Leib-Seele-Problems und des Gegensatzes von Determinismus und Willensfreiheit sowie zur Kritik an der Religion.In seinen Werken wird eine deutliche Entwicklung von einer theistischen über eine deistische zu einer atheistischen Haltung erkennbar. Doch gibt es auch Hinweise darauf, dass seine materialistischen und atheistischen Vorstellungen schon in den frühen Werken, so z. B. in den Pensées philosophiques (1746) kenntlich werden.Diderot trat in seinen Spätwerken für die Verbreitung des Geistes der Aufklärung, den Atheismus und gegen Aberglauben und Bigotterie ein. Diderot und seine Mitstreiter, die philosophes, überließen nicht mehr der Kirche und ihren Agenturen die alleinige Deutungs- und Interpretationshoheit über die Welt und die Wissenschaften. Somit gab es für übernatürliche und irrationale Kräfte im aufgeklärten Europa sowie in Nord- und Südamerika weniger Raum.Im Zentrum des diderotschen Denkens stand das Spannungsfeld – und dies mag auch für andere Denker des 18. Jahrhunderts gelten – zwischen Vernunft und Sensibilität, sens et sensibilité. Vernunft zeichnete sich für Diderot durch die Suche nach wissenschaftlich fundierten Erkenntnissen und der Überprüfbarkeit der empirisch beobachteten und bewiesenen Fakten aus, ohne dabei in der rein quantitativen Erfassung der Wirklichkeit, in mathematischen Aussagen, verhaftet zu bleiben.In den Jahren 1754 bis 1765 entwickelte er die Lehre von der universellen Sensibilität, sensibilité universelle.Für Diderot war Naturwissenschaft dadurch charakterisiert, dass sie nicht nach einem Warum fragen, sondern auf die Frage nach dem Wie eine Antwort finden sollte.Er beschäftigte sich mit vielen Wissensgebieten, darunter Chemie, Physik, Mathematik, vor allem aber Naturgeschichte sowie Anatomie und Medizin.Als philosophische Position erarbeitete er sich – so zu erkennen in seinen späteren Werken – eine (undogmatische) materialistische Geisteshaltung.Obgleich Diderot kein Philosoph war, der sich mit „begründungstheoretischen“ Problemen oder systematisierenden, analytischen Reflexionen beschäftigte, zählt er zu den vielfältigsten und innovativsten philosophischen Autoren des 18. Jahrhunderts.Diderot und seine Weggefährten waren mit ihren aufklärerischen Gedanken und Publikationen gegenüber den vorherrschenden Vorstellungen im Ancien Régime häufig Repressionen ausgesetzt. Seine Erfahrungen mit der Inhaftierung im Jahr 1749 ließen ihn gegenüber weiteren Kontrollen und Überwachungen durch die verschiedenen Agenturen aufmerksam sein, obwohl ihm und den Enzyklopädisten einige Personen aus dem Kreis der Einflussreichen und Herrschenden, so Mme de Pompadour, Mätresse von Ludwig XV., und auch einige Minister, aber vor allem der Chefzensor, Censure royale Chrétien-Guillaume de Lamoignon de Malesherbes, insgeheim zur Seite standen.So war den interessierten Zeitgenossen Diderots, die ihn ausschließlich über seine Publikationen kannten, nur eine begrenzte Auswahl an Essays, Romanen, Dramen und vor allem Beiträge zur Encyclopédie zugänglich.</abstract>
+<wikilink>http://en.wikipedia.org/wiki/Denis_Diderot?oldid=605406465</wikilink>
+<artworks />
+<buildings />
+<books>
+<XML_Serializer_Tag>
+<book>
+<type>uri</type>
+<value>http://dbpedia.org/resource/Encyclop%C3%A9die</value>
+</book>
+<author>
+<type>uri</type>
+<value>http://dbpedia.org/resource/Denis_Diderot</value>
+</author>
+<thumbnail>
+<type>uri</type>
+<value>http://commons.wikimedia.org/wiki/Special:FilePath/Encyclopedie_de_D&apos;Alembert_et_Diderot_-_Premiere_Page_-_ENC_1-NA5.jpg?width=300</value>
+</thumbnail>
+<released>
+<type>typed-literal</type>
+<datatype>http://www.w3.org/2001/XMLSchema#integer</datatype>
+<value>1751</value>
+</released>
+<wikilink>
+<type>uri</type>
+<value>http://en.wikipedia.org/wiki/Encyclopédie?oldid=605622306</value>
+</wikilink>
+<abstract>
+<type>literal</type>
+<xml:lang>de</xml:lang>
+<value>Die Encyclopédie ou Dictionnaire raisonné des sciences, des arts et des métiers ist eine französischsprachige Enzyklopädie, die wohl berühmteste frühe Enzyklopädie im heutigen Verständnis. Sie entstand unter der Herausgeberschaft von Denis Diderot und Jean Baptiste le Rond d’Alembert und enthält Beiträge weiterer 142 Bearbeiter, der sogenannten Enzyklopädisten. Der erste Band erschien im Jahr 1751. 1780 wurde die Reihe mit dem 35. und letzten Band abgeschlossen.Die Encyclopédie ist eines der Hauptwerke der Aufklärung. Sie umfasste mehr als 70.000 Artikel. Ihr Titel würde ins Deutsche übersetzt lauten: „Enzyklopädie oder ein durchdachtes Wörterbuch der Wissenschaften, Künste und Handwerke“.Im Nachfolgewerk, der Encyclopédie méthodique, erfuhr die Encyclopédie eine Neubearbeitung, Erweiterung und Neuaufteilung in verschiedene Fachlexika. Zwischen 1782 bis 1832 erschienen 166 Bände, herausgegeben von dem Verleger Charles-Joseph Panckoucke und Madame Thérèse-Charlotte Agasse.Ein weiteres Nachfolgewerk war die Encyclopédie d’Yverdon des Fortunato Bartolomeo de Felice (1723–1789), welche als Quartausgabe in der Zeit von 1770 bis 1780 erschien.</value>
+</abstract>
+</XML_Serializer_Tag>
+<XML_Serializer_Tag>
+<book>
+<type>uri</type>
+<value>http://dbpedia.org/resource/Lettre_sur_les_aveugles_%C3%A0_l&apos;usage_de_ceux_qui_voient</value>
+</book>
+<author>
+<type>uri</type>
+<value>http://dbpedia.org/resource/Denis_Diderot</value>
+</author>
+<thumbnail>
+<type>uri</type>
+<value>http://commons.wikimedia.org/wiki/Special:FilePath/DiderotLetterBlind.jpg?width=300</value>
+</thumbnail>
+<released>
+<type>typed-literal</type>
+<datatype>http://www.w3.org/2001/XMLSchema#integer</datatype>
+<value>1749</value>
+</released>
+<wikilink>
+<type>uri</type>
+<value>http://en.wikipedia.org/wiki/Lettre_sur_les_aveugles_à_l&apos;usage_de_ceux_qui_voient?oldid=587617270</value>
+</wikilink>
+<abstract>
+<type>literal</type>
+<xml:lang>de</xml:lang>
+<value>Brief über die Blinden zum Gebrauch für die Sehenden (der Originaltitel lautete im Französischen Lettre sur les aveugles à l’usage de ceux qui voient) ist ein Essay des französischen Autors Denis Diderot, gedruckt 1749 in London.In seiner philosophischen Untersuchung, die in Form eines Briefs verfasst wurde, stellte Diderot die These auf, “daß der Zustand unserer Organe und unserer Sinne großen Einfluß auf unsere Metaphysik und unsere Moral hat“. Er vertrat in diesem Brief zum ersten Mal deutlich und unmissverständlich eine materialistische-atheistische Position.</value>
+</abstract>
+</XML_Serializer_Tag>
+<XML_Serializer_Tag>
+<book>
+<type>uri</type>
+<value>http://dbpedia.org/resource/Rameau&apos;s_Nephew</value>
+</book>
+<author>
+<type>uri</type>
+<value>http://dbpedia.org/resource/Denis_Diderot</value>
+</author>
+<thumbnail>
+<type>uri</type>
+<value>http://commons.wikimedia.org/wiki/Special:FilePath/DiderotRameauNephew.jpg?width=300</value>
+</thumbnail>
+<released>
+<type>typed-literal</type>
+<datatype>http://www.w3.org/2001/XMLSchema#integer</datatype>
+<value>18051891</value>
+</released>
+<wikilink>
+<type>uri</type>
+<value>http://en.wikipedia.org/wiki/Rameau&apos;s_Nephew?oldid=606672768</value>
+</wikilink>
+<abstract>
+<type>literal</type>
+<xml:lang>de</xml:lang>
+<value>Rameaus Neffe (französischer Originaltitel Le Neveu de Rameau) ist ein philosophischer Dialog von Denis Diderot. Diderot arbeitete von 1761 bis 1774 an dem Werk, das zu seinen Lebzeiten nicht gedruckt worden ist. Erstmals überhaupt publiziert wurde das Werk in Deutschland 1805 in einer Übersetzung von Johann Wolfgang von Goethe.</value>
+</abstract>
+</XML_Serializer_Tag>
+<XML_Serializer_Tag>
+<book>
+<type>uri</type>
+<value>http://dbpedia.org/resource/Jacques_the_Fatalist</value>
+</book>
+<author>
+<type>uri</type>
+<value>http://dbpedia.org/resource/Denis_Diderot</value>
+</author>
+<thumbnail>
+<type>uri</type>
+<value>http://commons.wikimedia.org/wiki/Special:FilePath/DiderotJacquesFatalist01.jpg?width=300</value>
+</thumbnail>
+<released>
+<type>typed-literal</type>
+<datatype>http://www.w3.org/2001/XMLSchema#integer</datatype>
+<value>1796</value>
+</released>
+<wikilink>
+<type>uri</type>
+<value>http://en.wikipedia.org/wiki/Jacques_the_Fatalist?oldid=591636404</value>
+</wikilink>
+<abstract>
+<type>literal</type>
+<xml:lang>de</xml:lang>
+<value>Jacques der Fatalist und sein Herr (der Originaltitel lautete im Französischen Jacques le fataliste et son maître) ist ein Roman des französischen Autors Denis Diderot. Entstanden und niedergeschrieben zwischen 1765 und 1784, dem Todesjahr des Autors, wurde er erst nach dem Tod Diderots veröffentlicht.</value>
+</abstract>
+</XML_Serializer_Tag>
+<XML_Serializer_Tag>
+<book>
+<type>uri</type>
+<value>http://dbpedia.org/resource/Le_r%C3%AAve_de_D&apos;Alembert</value>
+</book>
+<author>
+<type>uri</type>
+<value>http://dbpedia.org/resource/Denis_Diderot</value>
+</author>
+<released>
+<type>typed-literal</type>
+<datatype>http://www.w3.org/2001/XMLSchema#integer</datatype>
+<value>1830</value>
+</released>
+<wikilink>
+<type>uri</type>
+<value>http://en.wikipedia.org/wiki/Le_rêve_de_D&apos;Alembert?oldid=593265569</value>
+</wikilink>
+<abstract>
+<type>literal</type>
+<xml:lang>de</xml:lang>
+<value>D’Alemberts Traum (der Originaltitel lautete im Französischen: Le rêve de D’Alembert) stellt eines von Denis Diderots philosophischen Hauptwerken dar. Als solches kann man es zu seinen späten Schriften rechnen. Er schrieb es in kurzer Zeit, im Sommer 1769, veröffentlicht wurde es aber erst posthum im Jahre 1830. Eine anonyme Teilveröffentlichung erfolgte aber noch zu seinen Lebzeiten 1782 in der Correspondance littéraire, philosophique et critique.D’Alemberts Traum zählt zu den wenigen Werken des 18. Jahrhunderts, dessen wissenschaftlicher Inhalt sich durch den Dialog als literarische Gattung mitteilt.In jenem Sommer 1769 verweilten Mme Diderot und die Tochter Marie-Angélique Diderot in Sèvres, seine Vertraute Sophie Volland auf ihrem Schloss auf der Isle-sur-Marne und Friedrich Melchior Grimm seit Mai in den deutschen Landen, so dass auch die Redaktion der Correspondance littéraire, philosophique et critique in den Händen von Denis Diderot lag.Le rêve de D’Alembert ist der zweite Teil einer Trilogie bestehend aus drei philosophischen Abschnitten, der erste Teil Entretien entre d’Alembert et Diderot (dt.: Das Treffen zwischen d’Alembert und Diderot), der zweite Teil Le Rêve de d’Alembert (dt.: D’Alemberts Traum) und der dritte und letzte Teil La suite d’un entretien entre M. d’Alembert et M. Diderot (dt.: Nach dem Treffen zwischen d’Alembert und Diderot). Die Entretien entre d’Alembert et Diderot wurden um den 10. August 1769 erstellt, der Le Rêve de D’Alembert entstand zwischen dem 15. August und 5. September 1769.</value>
+</abstract>
+</XML_Serializer_Tag>
+<XML_Serializer_Tag>
+<book>
+<type>uri</type>
+<value>http://dbpedia.org/resource/The_Indiscreet_Jewels</value>
+</book>
+<author>
+<type>uri</type>
+<value>http://dbpedia.org/resource/Denis_Diderot</value>
+</author>
+<released>
+<type>typed-literal</type>
+<datatype>http://www.w3.org/2001/XMLSchema#integer</datatype>
+<value>1748</value>
+</released>
+<wikilink>
+<type>uri</type>
+<value>http://en.wikipedia.org/wiki/The_Indiscreet_Jewels?oldid=541298424</value>
+</wikilink>
+<abstract>
+<type>literal</type>
+<xml:lang>de</xml:lang>
+<value>Die indiskreten Kleinode (französischer Originaltitel Les bijoux indiscrets; deutsche Übersetzungen auch unter den Titeln Die geschwätzigen Muscheln (1776), Die Verräter (1793) und Die geschwätzigen Kleinode (1906)) war der erste Roman von Denis Diderot, der 1748 zunächst anonym bei Laurent Durand erschien.</value>
+</abstract>
+</XML_Serializer_Tag>
+<XML_Serializer_Tag>
+<book>
+<type>uri</type>
+<value>http://dbpedia.org/resource/La_Promenade_du_sceptique</value>
+</book>
+<author>
+<type>uri</type>
+<value>http://dbpedia.org/resource/Denis_Diderot</value>
+</author>
+<released>
+<type>typed-literal</type>
+<datatype>http://www.w3.org/2001/XMLSchema#integer</datatype>
+<value>1830</value>
+</released>
+<wikilink>
+<type>uri</type>
+<value>http://en.wikipedia.org/wiki/La_Promenade_du_sceptique?oldid=606268775</value>
+</wikilink>
+</XML_Serializer_Tag>
+</books>
+</Person>

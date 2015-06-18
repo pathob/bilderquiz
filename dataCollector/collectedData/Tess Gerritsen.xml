@@ -1,0 +1,120 @@
+<Person>
+<name>Tess Gerritsen</name>
+<variantName>
+<XML_Serializer_Tag>Terri Gerritsen</XML_Serializer_Tag>
+</variantName>
+<thumbnail>https://commons.wikimedia.org/wiki/Special:FilePath/TessGerritsenedit.jpg?width=270</thumbnail>
+<birthEN>1953</birthEN>
+<birthDE>1953</birthDE>
+<deathEN />
+<deathDE />
+<birthPlace />
+<deathPlace />
+<professionOrOccupation>
+<XML_Serializer_Tag>Schriftstellerin</XML_Serializer_Tag>
+<XML_Serializer_Tag>Ärztin</XML_Serializer_Tag>
+</professionOrOccupation>
+<dbpResource>http://dbpedia.org/resource/Tess_Gerritsen</dbpResource>
+<abstract>Tess Gerritsen (* 12. Juni 1953 in San Diego, Kalifornien) ist eine US-amerikanische Schriftstellerin, die zuvor als Internistin in Honolulu, Hawaii, praktizierte. Als Autorin schaffte sie den internationalen Durchbruch im Jahr 1996 mit dem Thriller Kalte Herzen. Heute lebt Gerritsen in Maine mit ihrem Mann Jacob Gerritsen und ihren beiden Söhnen.</abstract>
+<wikilink>http://en.wikipedia.org/wiki/Tess_Gerritsen?oldid=606591525</wikilink>
+<artworks />
+<buildings />
+<books>
+<XML_Serializer_Tag>
+<book>
+<type>uri</type>
+<value>http://dbpedia.org/resource/The_Apprentice_(Gerritsen_novel)</value>
+</book>
+<author>
+<type>uri</type>
+<value>http://dbpedia.org/resource/Tess_Gerritsen</value>
+</author>
+<released>
+<type>typed-literal</type>
+<datatype>http://www.w3.org/2001/XMLSchema#integer</datatype>
+<value>2002</value>
+</released>
+<wikilink>
+<type>uri</type>
+<value>http://en.wikipedia.org/wiki/The_Apprentice_(Gerritsen_novel)?oldid=560916530</value>
+</wikilink>
+<abstract>
+<type>literal</type>
+<xml:lang>de</xml:lang>
+<value>Der Meister (engl.: The Apprentice) ist ein 2003 erschienener Roman aus dem Genre Medical Thriller der US-amerikanischen Schriftstellerin Tess Gerritsen.Der Meister ist die Fortsetzung des Thrillers Die Chirurgin, dem ersten Roman der Jane-Rizzoli-Serie.</value>
+</abstract>
+</XML_Serializer_Tag>
+<XML_Serializer_Tag>
+<book>
+<type>uri</type>
+<value>http://dbpedia.org/resource/The_Surgeon_(novel)</value>
+</book>
+<author>
+<type>uri</type>
+<value>http://dbpedia.org/resource/Tess_Gerritsen</value>
+</author>
+<released>
+<type>typed-literal</type>
+<datatype>http://www.w3.org/2001/XMLSchema#integer</datatype>
+<value>2001</value>
+</released>
+<wikilink>
+<type>uri</type>
+<value>http://en.wikipedia.org/wiki/The_Surgeon_(novel)?oldid=590612494</value>
+</wikilink>
+<abstract>
+<type>literal</type>
+<xml:lang>de</xml:lang>
+<value>Die Chirurgin (engl.: The Surgeon) ist ein 2001 erschienener Roman aus dem Genre Medical Thriller der US-amerikanischen Schriftstellerin Tess Gerritsen.Die Chirurgin ist der erste Roman der Jane-Rizzoli-Serie um die raubeinige Detektivin der Bostoner Mordkommission.</value>
+</abstract>
+</XML_Serializer_Tag>
+<XML_Serializer_Tag>
+<book>
+<type>uri</type>
+<value>http://dbpedia.org/resource/The_Sinner</value>
+</book>
+<author>
+<type>uri</type>
+<value>http://dbpedia.org/resource/Tess_Gerritsen</value>
+</author>
+<released>
+<type>typed-literal</type>
+<datatype>http://www.w3.org/2001/XMLSchema#integer</datatype>
+<value>2003</value>
+</released>
+<wikilink>
+<type>uri</type>
+<value>http://en.wikipedia.org/wiki/The_Sinner?oldid=601220326</value>
+</wikilink>
+<abstract>
+<type>literal</type>
+<xml:lang>de</xml:lang>
+<value>Todsünde (englisch The Sinner) ist ein 2004 (USA: 2003) erschienener Roman aus dem Genre Medical Thriller der US-amerikanischen Schriftstellerin Tess Gerritsen.Todsünde ist der dritte Teil der Jane-Rizzoli-Serie um die Bostoner Kriminalbeamtin Jane Rizzoli und die Gerichtsmedizinerin Dr. Maura Isles. Im Vordergrund stehen die Beziehungsprobleme der beiden Protagonistinnen: Rizzoli erfährt, dass sie schwanger ist. Isles geschiedener Ehemann taucht unvermutet nach drei Jahren wieder auf. Der eigentlichen Handlung wird vergleichsweise wenig Raum eingeräumt – ein Ansatz, der nicht bei allen Lesern Zustimmung fand.</value>
+</abstract>
+</XML_Serializer_Tag>
+<XML_Serializer_Tag>
+<book>
+<type>uri</type>
+<value>http://dbpedia.org/resource/Body_Double_(novel)</value>
+</book>
+<author>
+<type>uri</type>
+<value>http://dbpedia.org/resource/Tess_Gerritsen</value>
+</author>
+<released>
+<type>typed-literal</type>
+<datatype>http://www.w3.org/2001/XMLSchema#integer</datatype>
+<value>2004</value>
+</released>
+<wikilink>
+<type>uri</type>
+<value>http://en.wikipedia.org/wiki/Body_Double_(novel)?oldid=576504491</value>
+</wikilink>
+<abstract>
+<type>literal</type>
+<xml:lang>de</xml:lang>
+<value>Schwesternmord (engl.: Body Double) ist ein 2004 erschienener Roman aus dem Genre Medical Thriller der US-amerikanischen Schriftstellerin Tess Gerritsen.Schwesternmord gehört zur Jane-Rizzoli-Serie, in der die gleichnamige Detektivin der Bostoner Mordkommission ein an Scheußlichkeit kaum zu überbietende Verbrechen aufzuklären hat. Tess Gerritsen, selbst Mutter zweier Söhne, setzt sich in Schwesternmord ausführlich mit dem Thema Schwangerschaft auseinander, das für die Handlung von zentraler Bedeutung ist.</value>
+</abstract>
+</XML_Serializer_Tag>
+</books>
+</Person>

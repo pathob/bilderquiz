@@ -11,8 +11,10 @@
 <professionOrOccupation>
 <XML_Serializer_Tag>Maler</XML_Serializer_Tag>
 </professionOrOccupation>
-<artworks />
 <dbpResource>http://dbpedia.org/resource/Anton_Braith</dbpResource>
 <abstract>Anton Braith (* 2. September 1836 in Biberach an der Riß; † 3. Januar 1905 ebenda) war ein deutscher Tier- und Landschaftsmaler und Professor an der Akademie der Bildenden Künste München.</abstract>
 <wikilink>http://en.wikipedia.org/wiki/Anton_Braith?oldid=606802336</wikilink>
+<artworks />
+<buildings />
+<books />
 </Person>

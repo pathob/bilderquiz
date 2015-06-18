@@ -16,8 +16,10 @@
 <XML_Serializer_Tag>Maler</XML_Serializer_Tag>
 <XML_Serializer_Tag>Graphiker</XML_Serializer_Tag>
 </professionOrOccupation>
-<artworks />
 <dbpResource>http://dbpedia.org/resource/Alois_Kolb</dbpResource>
 <abstract>Alois Kolb (* 2. Februar 1875 in Wien; † 5. April 1942 in Leipzig) war ein deutsch-österreichischer Radierer und Maler.</abstract>
 <wikilink>http://en.wikipedia.org/wiki/Alois_Kolb?oldid=592614729</wikilink>
+<artworks />
+<buildings />
+<books />
 </Person>

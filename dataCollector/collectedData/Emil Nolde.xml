@@ -21,8 +21,10 @@
 <XML_Serializer_Tag>Maler</XML_Serializer_Tag>
 <XML_Serializer_Tag>Graphiker</XML_Serializer_Tag>
 </professionOrOccupation>
-<artworks />
 <dbpResource>http://dbpedia.org/resource/Emil_Nolde</dbpResource>
 <abstract>Emil Nolde (* 7. August 1867 als Hans Emil Hansen in Nolde bei Buhrkall, Provinz Schleswig-Holstein; † 13. April 1956 in Seebüll) war einer der führenden Maler des Expressionismus. Er ist einer der großen Aquarellisten in der Kunst des 20. Jahrhunderts. Nolde ist bekannt für seine ausdrucksstarke Farbwahl.</abstract>
 <wikilink>http://en.wikipedia.org/wiki/Emil_Nolde?oldid=588885139</wikilink>
+<artworks />
+<buildings />
+<books />
 </Person>

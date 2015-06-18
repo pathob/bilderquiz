@@ -12,8 +12,10 @@
 <XML_Serializer_Tag>Maler</XML_Serializer_Tag>
 <XML_Serializer_Tag>Stecher</XML_Serializer_Tag>
 </professionOrOccupation>
-<artworks />
 <dbpResource>http://dbpedia.org/resource/Adolphe_Appian</dbpResource>
 <abstract>Adolphe Appian (* 1819 in Lyon; † 1898) war ein französischer Landschaftsmaler und Radierer.</abstract>
 <wikilink>http://en.wikipedia.org/wiki/Adolphe_Appian?oldid=600168983</wikilink>
+<artworks />
+<buildings />
+<books />
 </Person>

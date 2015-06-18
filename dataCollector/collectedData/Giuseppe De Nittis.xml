@@ -15,8 +15,10 @@
 <professionOrOccupation>
 <XML_Serializer_Tag>Maler</XML_Serializer_Tag>
 </professionOrOccupation>
-<artworks />
 <dbpResource>http://dbpedia.org/resource/Giuseppe_De_Nittis</dbpResource>
 <abstract>Giuseppe Gaetano de Nittis (* 25. Februar 1846 in Barletta; † 22. August 1884 in St-Germain-en-Laye bei Paris) war ein italienischer Maler des Impressionismus.</abstract>
 <wikilink>http://en.wikipedia.org/wiki/Giuseppe_De_Nittis?oldid=602490174</wikilink>
+<artworks />
+<buildings />
+<books />
 </Person>

@@ -16,8 +16,10 @@
 <professionOrOccupation>
 <XML_Serializer_Tag>Maler</XML_Serializer_Tag>
 </professionOrOccupation>
-<artworks />
 <dbpResource>http://dbpedia.org/resource/Anton_von_Werner</dbpResource>
 <abstract>Anton von Werner (* 9. Mai 1843 in Frankfurt (Oder); † 4. Januar 1915 in Berlin) war ein deutscher Maler. Er hinterließ in fotografischer Manier gemalte und bis heute reproduzierte Historienbilder von Ereignissen seiner Zeit. Der viel beschäftigte Künstler und Kunstpolitiker gilt in der deutschen Kunstgeschichte auch wegen seiner Ablehnung der Modernen Kunst als Hauptrepräsentant des Wilhelminismus.</abstract>
 <wikilink>http://en.wikipedia.org/wiki/Anton_von_Werner?oldid=596096868</wikilink>
+<artworks />
+<buildings />
+<books />
 </Person>

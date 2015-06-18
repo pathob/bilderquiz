@@ -21,8 +21,10 @@
 <XML_Serializer_Tag>Bildhauer</XML_Serializer_Tag>
 <XML_Serializer_Tag>Photograph</XML_Serializer_Tag>
 </professionOrOccupation>
-<artworks />
 <dbpResource>http://dbpedia.org/resource/Gerhard_Richter</dbpResource>
 <abstract>Gerhard Richter (* 9. Februar 1932 in Dresden) ist ein deutscher Maler, Bildhauer und Fotograf. Er war von 1971 bis 1993 Professor für Malerei an der Kunstakademie Düsseldorf.</abstract>
 <wikilink>http://en.wikipedia.org/wiki/Gerhard_Richter?oldid=605308202</wikilink>
+<artworks />
+<buildings />
+<books />
 </Person>

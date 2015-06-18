@@ -1,0 +1,25 @@
+<Person>
+<name>Carlo Amati</name>
+<variantName>
+<XML_Serializer_Tag>C. Amati</XML_Serializer_Tag>
+</variantName>
+<thumbnail>https://commons.wikimedia.org/wiki/Special:FilePath/0855_-_Milano_-_San_Carlo_al_Corso,_Lapide_Carlo_Amati_-_Foto_Giovanni_Dall&apos;Orto_5-May-2007.jpg?width=270</thumbnail>
+<birthEN>1776</birthEN>
+<birthDE>1776</birthDE>
+<deathEN>1852</deathEN>
+<deathDE>1852</deathDE>
+<birthPlace />
+<deathPlace />
+<professionOrOccupation>
+<XML_Serializer_Tag>Architekt</XML_Serializer_Tag>
+<XML_Serializer_Tag>Architekturschriftsteller</XML_Serializer_Tag>
+<XML_Serializer_Tag>Bildhauer</XML_Serializer_Tag>
+<XML_Serializer_Tag>Zeichner</XML_Serializer_Tag>
+</professionOrOccupation>
+<dbpResource>http://dbpedia.org/resource/Carlo_Amati</dbpResource>
+<abstract>Carlo Amati (* 19. Juni 1776 in Monza; † 23. Mai 1852 in Mailand) war ein italienischer Architekt.</abstract>
+<wikilink>http://en.wikipedia.org/wiki/Carlo_Amati?oldid=600256838</wikilink>
+<artworks />
+<buildings />
+<books />
+</Person>

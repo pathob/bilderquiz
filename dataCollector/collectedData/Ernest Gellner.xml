@@ -1,0 +1,36 @@
+<Person>
+<name>Ernest Gellner</name>
+<variantName>
+<XML_Serializer_Tag>Ernst André Gellner</XML_Serializer_Tag>
+<XML_Serializer_Tag>Ernst Gellner</XML_Serializer_Tag>
+<XML_Serializer_Tag>Ernest André Gellner</XML_Serializer_Tag>
+<XML_Serializer_Tag>E. Gellner</XML_Serializer_Tag>
+<XML_Serializer_Tag>Геллнер, Эрнест Андре</XML_Serializer_Tag>
+<XML_Serializer_Tag>Ернест Ґеллнер</XML_Serializer_Tag>
+<XML_Serializer_Tag>Ърнест Гелнър</XML_Serializer_Tag>
+</variantName>
+<thumbnail>https://commons.wikimedia.org/wiki/Special:FilePath/Ernestgellner2.jpg?width=270</thumbnail>
+<birthEN>1925</birthEN>
+<birthDE>1925</birthDE>
+<deathEN>1995</deathEN>
+<deathDE>1995</deathDE>
+<birthPlace>
+<XML_Serializer_Tag>Paris</XML_Serializer_Tag>
+</birthPlace>
+<deathPlace>
+<XML_Serializer_Tag>Prag</XML_Serializer_Tag>
+</deathPlace>
+<professionOrOccupation>
+<XML_Serializer_Tag>Soziologe</XML_Serializer_Tag>
+<XML_Serializer_Tag>Sozialanthropologe</XML_Serializer_Tag>
+<XML_Serializer_Tag>Philosoph</XML_Serializer_Tag>
+<XML_Serializer_Tag>Hochschullehrer</XML_Serializer_Tag>
+<XML_Serializer_Tag>Autor</XML_Serializer_Tag>
+</professionOrOccupation>
+<dbpResource>http://dbpedia.org/resource/Ernest_Gellner</dbpResource>
+<abstract>Ernest Gellner (* 9. Dezember 1925 in Paris; † 5. November 1995 in Prag) war ein Anthropologe, Soziologe und Philosoph.</abstract>
+<wikilink>http://en.wikipedia.org/wiki/Ernest_Gellner?oldid=603459403</wikilink>
+<artworks />
+<buildings />
+<books />
+</Person>

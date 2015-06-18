@@ -28,8 +28,10 @@
 <XML_Serializer_Tag>Maler</XML_Serializer_Tag>
 <XML_Serializer_Tag>Radierer</XML_Serializer_Tag>
 </professionOrOccupation>
-<artworks />
 <dbpResource>http://dbpedia.org/resource/Johann_Heinrich_Wilhelm_Tischbein</dbpResource>
 <abstract>Johann Heinrich Wilhelm Tischbein, genannt Goethe-Tischbein (* 15. Februar 1751 in Haina (Kloster); † 26. Februar 1829 in Eutin) war ein deutscher Maler aus der hessischen Malerfamilie Tischbein.</abstract>
 <wikilink>http://en.wikipedia.org/wiki/Johann_Heinrich_Wilhelm_Tischbein?oldid=599696454</wikilink>
+<artworks />
+<buildings />
+<books />
 </Person>

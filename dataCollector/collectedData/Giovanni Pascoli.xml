@@ -1,0 +1,28 @@
+<Person>
+<name>Giovanni Pascoli</name>
+<variantName>
+<XML_Serializer_Tag>G. Pascoli</XML_Serializer_Tag>
+<XML_Serializer_Tag>Johannes Pascoli</XML_Serializer_Tag>
+<XML_Serializer_Tag>Ioannis Pascoli</XML_Serializer_Tag>
+</variantName>
+<thumbnail>https://commons.wikimedia.org/wiki/Special:FilePath/Giovanni_Pascoli.jpg?width=270</thumbnail>
+<birthEN>December 31, 1855</birthEN>
+<birthDE>31. Dezember 1855</birthDE>
+<deathEN>April 6, 1912</deathEN>
+<deathDE>6. April 1912</deathDE>
+<birthPlace>
+<XML_Serializer_Tag>San Mauro Pascoli</XML_Serializer_Tag>
+</birthPlace>
+<deathPlace>
+<XML_Serializer_Tag>Bologna</XML_Serializer_Tag>
+</deathPlace>
+<professionOrOccupation>
+<XML_Serializer_Tag>Schriftsteller</XML_Serializer_Tag>
+</professionOrOccupation>
+<dbpResource>http://dbpedia.org/resource/Giovanni_Pascoli</dbpResource>
+<abstract>Giovanni Pascoli (* 31. Dezember 1855 in San Mauro di Romagna, Emilia-Romagna; † 6. April 1912 in Bologna) war ein italienischer Dichter.</abstract>
+<wikilink>http://en.wikipedia.org/wiki/Giovanni_Pascoli?oldid=594361065</wikilink>
+<artworks />
+<buildings />
+<books />
+</Person>

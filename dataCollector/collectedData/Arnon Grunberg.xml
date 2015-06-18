@@ -1,0 +1,48 @@
+<Person>
+<name>Arnon Grunberg</name>
+<variantName>
+<XML_Serializer_Tag>Arnon Y. Grunberg</XML_Serializer_Tag>
+<XML_Serializer_Tag>Arnon Yasha Yves Grunberg</XML_Serializer_Tag>
+<XML_Serializer_Tag>Arnon Grünberg</XML_Serializer_Tag>
+<XML_Serializer_Tag>Yasha</XML_Serializer_Tag>
+</variantName>
+<thumbnail>https://commons.wikimedia.org/wiki/Special:FilePath/Arnon_Grunberg.jpg?width=270</thumbnail>
+<birthEN>1971</birthEN>
+<birthDE>1971</birthDE>
+<deathEN />
+<deathDE />
+<birthPlace>
+<XML_Serializer_Tag>Amsterdam</XML_Serializer_Tag>
+</birthPlace>
+<deathPlace />
+<professionOrOccupation>
+<XML_Serializer_Tag>Schriftsteller</XML_Serializer_Tag>
+<XML_Serializer_Tag>Schauspieler</XML_Serializer_Tag>
+</professionOrOccupation>
+<dbpResource>http://dbpedia.org/resource/Arnon_Grunberg</dbpResource>
+<abstract>Arnon Grunberg (offiziell: Arnon Yasha Yves Grünberg), in Deutschland besser bekannt als Arnon Grünberg (* 22. Februar 1971 in Amsterdam), ist ein niederländischer Autor, der einen Teil seiner Bücher unter dem Pseudonym Marek van der Jagt publizierte. Seine Werke sind in zwanzig Sprachen übersetzt worden. Seit 1995 lebt er in New York und schreibt seit dem 29. März 2010 die tägliche Kolumne Voetnoot (Fußnote) auf der Titelseite der Volkskrant.</abstract>
+<wikilink>http://en.wikipedia.org/wiki/Arnon_Grunberg?oldid=604778731</wikilink>
+<artworks />
+<buildings />
+<books>
+<XML_Serializer_Tag>
+<book>
+<type>uri</type>
+<value>http://dbpedia.org/resource/The_Asylum_Seeker</value>
+</book>
+<author>
+<type>uri</type>
+<value>http://dbpedia.org/resource/Arnon_Grunberg</value>
+</author>
+<released>
+<type>typed-literal</type>
+<datatype>http://www.w3.org/2001/XMLSchema#integer</datatype>
+<value>2003</value>
+</released>
+<wikilink>
+<type>uri</type>
+<value>http://en.wikipedia.org/wiki/The_Asylum_Seeker?oldid=545677952</value>
+</wikilink>
+</XML_Serializer_Tag>
+</books>
+</Person>

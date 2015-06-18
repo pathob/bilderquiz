@@ -1,0 +1,27 @@
+<Person>
+<name>Wolfgang Schreyer</name>
+<variantName>
+<XML_Serializer_Tag>Volfgangs Šreiers</XML_Serializer_Tag>
+<XML_Serializer_Tag>Volʹfgang Šrajer</XML_Serializer_Tag>
+<XML_Serializer_Tag>Volʹfgang Shraĭer</XML_Serializer_Tag>
+</variantName>
+<thumbnail>https://commons.wikimedia.org/wiki/Special:FilePath/Bundesarchiv_Bild_183-37039-0004,_Verleihung_des_Heinrich-Mann-Preis_an_Franz_Fühmann.jpg?width=270</thumbnail>
+<birthEN>1927</birthEN>
+<birthDE>1927</birthDE>
+<deathEN />
+<deathDE />
+<birthPlace>
+<XML_Serializer_Tag>Magdeburg</XML_Serializer_Tag>
+</birthPlace>
+<deathPlace />
+<professionOrOccupation>
+<XML_Serializer_Tag>Schriftsteller</XML_Serializer_Tag>
+<XML_Serializer_Tag>Drehbuchautor</XML_Serializer_Tag>
+</professionOrOccupation>
+<dbpResource>http://dbpedia.org/resource/Wolfgang_Schreyer</dbpResource>
+<abstract>Wolfgang Schreyer (* 20. November 1927 in Magdeburg) ist ein deutscher Schriftsteller.</abstract>
+<wikilink>http://en.wikipedia.org/wiki/Wolfgang_Schreyer?oldid=601097422</wikilink>
+<artworks />
+<buildings />
+<books />
+</Person>

@@ -1,0 +1,78 @@
+<Person>
+<name>Andrea Dworkin</name>
+<variantName />
+<thumbnail>https://commons.wikimedia.org/wiki/Special:FilePath/Dworkin_on_After_Dark.JPG?width=270</thumbnail>
+<birthEN>September 26, 1946</birthEN>
+<birthDE>26. September 1946</birthDE>
+<deathEN>April 9, 2005</deathEN>
+<deathDE>9. April 2005</deathDE>
+<birthPlace />
+<deathPlace />
+<professionOrOccupation>
+<XML_Serializer_Tag>Schriftstellerin</XML_Serializer_Tag>
+<XML_Serializer_Tag>Feministin</XML_Serializer_Tag>
+</professionOrOccupation>
+<dbpResource>http://dbpedia.org/resource/Andrea_Dworkin</dbpResource>
+<abstract>Andrea Dworkin (* 26. September 1946 in Camden, New Jersey; † 9. April 2005 in Washington, D.C.) war eine US-amerikanische Radikalfeministin, Soziologin und Schriftstellerin. In Deutschland fiel sie vor allem durch ihr Buch PorNOgraphy-Men possessing women (1979) und ihre Zusammenarbeit mit Alice Schwarzer auf.</abstract>
+<wikilink>http://en.wikipedia.org/wiki/Andrea_Dworkin?oldid=603872199</wikilink>
+<artworks />
+<buildings />
+<books>
+<XML_Serializer_Tag>
+<book>
+<type>uri</type>
+<value>http://dbpedia.org/resource/Scapegoat:_The_Jews,_Israel,_and_Women&apos;s_Liberation</value>
+</book>
+<author>
+<type>uri</type>
+<value>http://dbpedia.org/resource/Andrea_Dworkin</value>
+</author>
+<wikilink>
+<type>uri</type>
+<value>http://en.wikipedia.org/wiki/Scapegoat:_The_Jews,_Israel,_and_Women&apos;s_Liberation?oldid=594816543</value>
+</wikilink>
+</XML_Serializer_Tag>
+<XML_Serializer_Tag>
+<book>
+<type>uri</type>
+<value>http://dbpedia.org/resource/Intercourse_(book)</value>
+</book>
+<author>
+<type>uri</type>
+<value>http://dbpedia.org/resource/Andrea_Dworkin</value>
+</author>
+<wikilink>
+<type>uri</type>
+<value>http://en.wikipedia.org/wiki/Intercourse_(book)?oldid=586654408</value>
+</wikilink>
+</XML_Serializer_Tag>
+<XML_Serializer_Tag>
+<book>
+<type>uri</type>
+<value>http://dbpedia.org/resource/Woman_Hating</value>
+</book>
+<author>
+<type>uri</type>
+<value>http://dbpedia.org/resource/Andrea_Dworkin</value>
+</author>
+<wikilink>
+<type>uri</type>
+<value>http://en.wikipedia.org/wiki/Woman_Hating?oldid=592057686</value>
+</wikilink>
+</XML_Serializer_Tag>
+<XML_Serializer_Tag>
+<book>
+<type>uri</type>
+<value>http://dbpedia.org/resource/Pornography:_Men_Possessing_Women</value>
+</book>
+<author>
+<type>uri</type>
+<value>http://dbpedia.org/resource/Andrea_Dworkin</value>
+</author>
+<wikilink>
+<type>uri</type>
+<value>http://en.wikipedia.org/wiki/Pornography:_Men_Possessing_Women?oldid=604940260</value>
+</wikilink>
+</XML_Serializer_Tag>
+</books>
+</Person>

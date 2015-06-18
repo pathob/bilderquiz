@@ -1,0 +1,26 @@
+<Person>
+<name>Carl Hermann</name>
+<variantName />
+<thumbnail>https://commons.wikimedia.org/wiki/Special:FilePath/CarlHermann.jpg?width=270</thumbnail>
+<birthEN>October 28, 1918</birthEN>
+<birthDE>28. Oktober 1918</birthDE>
+<deathEN>November 11, 1986</deathEN>
+<deathDE>11. November 1986</deathDE>
+<birthPlace>
+<XML_Serializer_Tag>Wies (Steiermark)</XML_Serializer_Tag>
+</birthPlace>
+<deathPlace>
+<XML_Serializer_Tag>Gmünd (Niederösterreich)</XML_Serializer_Tag>
+</deathPlace>
+<professionOrOccupation>
+<XML_Serializer_Tag>Bildhauer</XML_Serializer_Tag>
+<XML_Serializer_Tag>Sachbuchautor</XML_Serializer_Tag>
+<XML_Serializer_Tag>Naturschützer</XML_Serializer_Tag>
+</professionOrOccupation>
+<dbpResource>http://dbpedia.org/resource/Carl_Hermann</dbpResource>
+<abstract>Carl Hermann (* 17. Juni 1898 in Lehe (Bremerhaven); † 12. September 1961 in Marburg) war ein deutscher Physiker und Professor für Kristallographie.</abstract>
+<wikilink>http://en.wikipedia.org/wiki/Carl_Hermann?oldid=589175487</wikilink>
+<artworks />
+<buildings />
+<books />
+</Person>

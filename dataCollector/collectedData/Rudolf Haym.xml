@@ -1,0 +1,30 @@
+<Person>
+<name>Rudolf Haym</name>
+<variantName>
+<XML_Serializer_Tag>P. Theodor Rudolf Haym</XML_Serializer_Tag>
+<XML_Serializer_Tag>Rudolph Haym</XML_Serializer_Tag>
+<XML_Serializer_Tag>Rudolfus Haym</XML_Serializer_Tag>
+<XML_Serializer_Tag>R. Gajm</XML_Serializer_Tag>
+<XML_Serializer_Tag>Rudolʹf Gajm</XML_Serializer_Tag>
+<XML_Serializer_Tag>R. Haym</XML_Serializer_Tag>
+</variantName>
+<thumbnail>https://commons.wikimedia.org/wiki/Special:FilePath/Rudolf_Haym_1.jpg?width=270</thumbnail>
+<birthEN>October 5, 1821</birthEN>
+<birthDE>5. Oktober 1821</birthDE>
+<deathEN>August 27, 1901</deathEN>
+<deathDE>27. August 1901</deathDE>
+<birthPlace />
+<deathPlace />
+<professionOrOccupation>
+<XML_Serializer_Tag>Philosoph</XML_Serializer_Tag>
+<XML_Serializer_Tag>Politiker</XML_Serializer_Tag>
+<XML_Serializer_Tag>Literarhistoriker</XML_Serializer_Tag>
+<XML_Serializer_Tag>Schriftsteller</XML_Serializer_Tag>
+</professionOrOccupation>
+<dbpResource>http://dbpedia.org/resource/Rudolf_Haym</dbpResource>
+<abstract>Rudolf Haym (* 5. Oktober 1821 in Grünberg; † 27. August 1901 in St. Anton am Arlberg) war Philosoph und Publizist.</abstract>
+<wikilink>http://en.wikipedia.org/wiki/Rudolf_Haym?oldid=598674538</wikilink>
+<artworks />
+<buildings />
+<books />
+</Person>

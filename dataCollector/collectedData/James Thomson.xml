@@ -1,0 +1,36 @@
+<Person>
+<name>James Thomson</name>
+<variantName>
+<XML_Serializer_Tag>J. Thomson</XML_Serializer_Tag>
+<XML_Serializer_Tag>James Tomson</XML_Serializer_Tag>
+<XML_Serializer_Tag>James Thompson</XML_Serializer_Tag>
+<XML_Serializer_Tag>Jacques Thomson</XML_Serializer_Tag>
+<XML_Serializer_Tag>Jacob Thomson</XML_Serializer_Tag>
+<XML_Serializer_Tag>Jakob Thomson</XML_Serializer_Tag>
+<XML_Serializer_Tag>Jacobus Thomson</XML_Serializer_Tag>
+<XML_Serializer_Tag>Jacopo Thomson</XML_Serializer_Tag>
+<XML_Serializer_Tag>Giacomo Thomson</XML_Serializer_Tag>
+<XML_Serializer_Tag>... Thomson</XML_Serializer_Tag>
+<XML_Serializer_Tag>... Thomsonius</XML_Serializer_Tag>
+</variantName>
+<thumbnail>https://commons.wikimedia.org/wiki/Special:FilePath/James_Thomson_(Scottish_poet).jpg?width=270</thumbnail>
+<birthEN>September 11, 1700</birthEN>
+<birthDE>11. September 1700</birthDE>
+<deathEN>August 27, 1748</deathEN>
+<deathDE>27. August 1748</deathDE>
+<birthPlace>
+<XML_Serializer_Tag>Ednam</XML_Serializer_Tag>
+</birthPlace>
+<deathPlace>
+<XML_Serializer_Tag>Richmond, Va.</XML_Serializer_Tag>
+</deathPlace>
+<professionOrOccupation>
+<XML_Serializer_Tag>Schriftsteller</XML_Serializer_Tag>
+</professionOrOccupation>
+<dbpResource>http://dbpedia.org/resource/James_Thomson_(poet)</dbpResource>
+<abstract>James Thomson (* 11. September 1700 in Ednam, Roxburghshire; † 27. August 1748) war ein schottischer Schriftsteller.</abstract>
+<wikilink>http://en.wikipedia.org/wiki/James_Thomson_(poet)?oldid=604029292</wikilink>
+<artworks />
+<buildings />
+<books />
+</Person>

@@ -16,12 +16,15 @@
 <XML_Serializer_Tag>Maler</XML_Serializer_Tag>
 <XML_Serializer_Tag>Historienmaler</XML_Serializer_Tag>
 </professionOrOccupation>
+<dbpResource>http://dbpedia.org/resource/Emanuel_Leutze</dbpResource>
+<abstract>Emanuel Gottlieb Leutze (* 24. Mai 1816 in Gmünd (heute Schwäbisch Gmünd); † 18. Juli 1868 in Washington, D.C.) war ein in Deutschland geborener amerikanischer Historienmaler.</abstract>
+<wikilink>http://en.wikipedia.org/wiki/Emanuel_Leutze?oldid=603644331</wikilink>
 <artworks>
 <XML_Serializer_Tag>
-<painting>
+<artwork>
 <type>uri</type>
 <value>http://dbpedia.org/resource/Washington_Crossing_the_Delaware</value>
-</painting>
+</artwork>
 <thumbnail>
 <type>uri</type>
 <value>http://commons.wikimedia.org/wiki/Special:FilePath/Washington_Crossing_the_Delaware_by_Emanuel_Leutze,_MMA-NYC,_1851.jpg?width=300</value>
@@ -45,12 +48,16 @@
 <type>uri</type>
 <value>http://en.wikipedia.org/wiki/Washington_Crossing_the_Delaware?oldid=605465989</value>
 </wikilink>
+<type>
+<type>uri</type>
+<value>http://dbpedia.org/resource/Oil_painting</value>
+</type>
 </XML_Serializer_Tag>
 <XML_Serializer_Tag>
-<painting>
+<artwork>
 <type>uri</type>
 <value>http://dbpedia.org/resource/Westward_the_Course_of_Empire_Takes_Its_Way</value>
-</painting>
+</artwork>
 <thumbnail>
 <type>uri</type>
 <value>http://commons.wikimedia.org/wiki/Special:FilePath/Emanuel_Leutze_-_Westward_the_Course_of_Empire_Takes_Its_Way_-_Capitol.jpg?width=300</value>
@@ -70,32 +77,7 @@
 <value>http://en.wikipedia.org/wiki/Westward_the_Course_of_Empire_Takes_Its_Way?oldid=591067462</value>
 </wikilink>
 </XML_Serializer_Tag>
-<XML_Serializer_Tag>
-<painting>
-<type>uri</type>
-<value>http://dbpedia.org/resource/Westward_the_Course_of_Empire_Takes_Its_Way</value>
-</painting>
-<thumbnail>
-<type>uri</type>
-<value>http://commons.wikimedia.org/wiki/Special:FilePath/Emanuel_Leutze_-_Westward_the_Course_of_Empire_Takes_Its_Way_-_Capitol.jpg?width=300</value>
-</thumbnail>
-<name>
-<type>literal</type>
-<xml:lang>en</xml:lang>
-<value>Westward the Course of Empire Takes Its Way (study)</value>
-</name>
-<year>
-<type>typed-literal</type>
-<datatype>http://www.w3.org/2001/XMLSchema#integer</datatype>
-<value>1861</value>
-</year>
-<wikilink>
-<type>uri</type>
-<value>http://en.wikipedia.org/wiki/Westward_the_Course_of_Empire_Takes_Its_Way?oldid=591067462</value>
-</wikilink>
-</XML_Serializer_Tag>
 </artworks>
-<dbpResource>http://dbpedia.org/resource/Emanuel_Leutze</dbpResource>
-<abstract>Emanuel Gottlieb Leutze (* 24. Mai 1816 in Gmünd (heute Schwäbisch Gmünd); † 18. Juli 1868 in Washington, D.C.) war ein in Deutschland geborener amerikanischer Historienmaler.</abstract>
-<wikilink>http://en.wikipedia.org/wiki/Emanuel_Leutze?oldid=603644331</wikilink>
+<buildings />
+<books />
 </Person>

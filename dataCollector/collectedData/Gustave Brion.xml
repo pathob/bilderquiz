@@ -12,8 +12,10 @@
 <XML_Serializer_Tag>Künstler</XML_Serializer_Tag>
 <XML_Serializer_Tag>Maler</XML_Serializer_Tag>
 </professionOrOccupation>
-<artworks />
 <dbpResource>http://dbpedia.org/resource/Gustave_Brion</dbpResource>
 <abstract>Gustave Adolphe Brion (* 4. November 1824 in Rothau im Elsass; † 6. November 1877 in Paris) war ein französischer Maler des Realismus.</abstract>
 <wikilink>http://en.wikipedia.org/wiki/Gustave_Brion?oldid=556044911</wikilink>
+<artworks />
+<buildings />
+<books />
 </Person>

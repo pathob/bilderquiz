@@ -1,0 +1,45 @@
+<Person>
+<name>Charles Nodier</name>
+<variantName>
+<XML_Serializer_Tag>... Nodier-Flaubert-Asselineau</XML_Serializer_Tag>
+<XML_Serializer_Tag>Jean Charles Emmanuel Nodier</XML_Serializer_Tag>
+<XML_Serializer_Tag>... Nodier</XML_Serializer_Tag>
+<XML_Serializer_Tag>E. de N***</XML_Serializer_Tag>
+<XML_Serializer_Tag>Ch. Nodier</XML_Serializer_Tag>
+<XML_Serializer_Tag>Maxime Odin</XML_Serializer_Tag>
+<XML_Serializer_Tag>Jean-Charles-Emmanuel Nodier</XML_Serializer_Tag>
+<XML_Serializer_Tag>Jean Charles Emanuel Nodier</XML_Serializer_Tag>
+<XML_Serializer_Tag>Jean-Charles-Emanuel Nodier</XML_Serializer_Tag>
+<XML_Serializer_Tag>Jean Charles Nodier</XML_Serializer_Tag>
+<XML_Serializer_Tag>Jean-Charles Nodier</XML_Serializer_Tag>
+<XML_Serializer_Tag>Charles Emanuel Nodier</XML_Serializer_Tag>
+<XML_Serializer_Tag>Charles-Emanuel Nodier</XML_Serializer_Tag>
+<XML_Serializer_Tag>Charles-Emmanuel Nodier</XML_Serializer_Tag>
+<XML_Serializer_Tag>Charles Emmanuel Nodier</XML_Serializer_Tag>
+<XML_Serializer_Tag>Šarl&apos; Nod&apos;e</XML_Serializer_Tag>
+</variantName>
+<thumbnail>https://commons.wikimedia.org/wiki/Special:FilePath/Charles_Nodier.jpg?width=270</thumbnail>
+<birthEN>April 29, 1780</birthEN>
+<birthDE>29. April 1780</birthDE>
+<deathEN>January 27, 1844</deathEN>
+<deathDE>27. Januar 1844</deathDE>
+<birthPlace>
+<XML_Serializer_Tag>Besançon</XML_Serializer_Tag>
+</birthPlace>
+<deathPlace>
+<XML_Serializer_Tag>Paris</XML_Serializer_Tag>
+</deathPlace>
+<professionOrOccupation>
+<XML_Serializer_Tag>Schriftsteller</XML_Serializer_Tag>
+<XML_Serializer_Tag>Bibliothekar</XML_Serializer_Tag>
+<XML_Serializer_Tag>Redakteur</XML_Serializer_Tag>
+<XML_Serializer_Tag>Publizist</XML_Serializer_Tag>
+<XML_Serializer_Tag>Sprachforscher</XML_Serializer_Tag>
+</professionOrOccupation>
+<dbpResource>http://dbpedia.org/resource/Charles_Nodier</dbpResource>
+<abstract>Charles Nodier (* 29. April 1780 in Besançon; † 27. Januar 1844 in Paris) war ein französischer Schriftsteller der Romantik.</abstract>
+<wikilink>http://en.wikipedia.org/wiki/Charles_Nodier?oldid=600616435</wikilink>
+<artworks />
+<buildings />
+<books />
+</Person>

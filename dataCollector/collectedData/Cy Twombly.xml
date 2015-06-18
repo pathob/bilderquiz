@@ -20,8 +20,10 @@
 <XML_Serializer_Tag>Maler</XML_Serializer_Tag>
 <XML_Serializer_Tag>Photograph</XML_Serializer_Tag>
 </professionOrOccupation>
-<artworks />
 <dbpResource>http://dbpedia.org/resource/Cy_Twombly</dbpResource>
 <abstract>Cy Twombly (gebürtig: Edwin Parker Twombly Jr.; * 25. April 1928 in Lexington, Virginia; † 5. Juli 2011 in Rom, Italien) war ein US-amerikanischer Maler, Fotograf und Objektkünstler und zählt zu den wichtigsten Vertretern des abstrakten Expressionismus.</abstract>
 <wikilink>http://en.wikipedia.org/wiki/Cy_Twombly?oldid=605736667</wikilink>
+<artworks />
+<buildings />
+<books />
 </Person>

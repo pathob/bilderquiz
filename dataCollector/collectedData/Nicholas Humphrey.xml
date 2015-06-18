@@ -1,0 +1,41 @@
+<Person>
+<name>Nicholas Humphrey</name>
+<variantName />
+<thumbnail>https://commons.wikimedia.org/wiki/Special:FilePath/Nick_Humphrey.jpg?width=270</thumbnail>
+<birthEN />
+<birthDE />
+<deathEN />
+<deathDE />
+<birthPlace />
+<deathPlace />
+<professionOrOccupation>
+<XML_Serializer_Tag>Philosoph</XML_Serializer_Tag>
+<XML_Serializer_Tag>Psychologe</XML_Serializer_Tag>
+</professionOrOccupation>
+<dbpResource>http://dbpedia.org/resource/Nicholas_Humphrey</dbpResource>
+<abstract>Nicholas Keynes Humphrey (* 27. März 1943) ist ein britischer Psychologe. Er war bis 2008 Professor an der London School of Economics und an der New School in New York City.</abstract>
+<wikilink>http://en.wikipedia.org/wiki/Nicholas_Humphrey?oldid=598613346</wikilink>
+<artworks />
+<buildings />
+<books>
+<XML_Serializer_Tag>
+<book>
+<type>uri</type>
+<value>http://dbpedia.org/resource/A_History_of_the_Mind</value>
+</book>
+<author>
+<type>uri</type>
+<value>http://dbpedia.org/resource/Nicholas_Humphrey</value>
+</author>
+<published>
+<type>typed-literal</type>
+<datatype>http://www.w3.org/2001/XMLSchema#integer</datatype>
+<value>1992</value>
+</published>
+<wikilink>
+<type>uri</type>
+<value>http://en.wikipedia.org/wiki/A_History_of_the_Mind?oldid=600544507</value>
+</wikilink>
+</XML_Serializer_Tag>
+</books>
+</Person>

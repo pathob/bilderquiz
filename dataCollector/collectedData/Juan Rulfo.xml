@@ -1,0 +1,79 @@
+<Person>
+<name>Juan Rulfo</name>
+<variantName>
+<XML_Serializer_Tag>Juan Rulfo Vizcaíno</XML_Serializer_Tag>
+<XML_Serializer_Tag>Juan Rulfo Vizcaíno</XML_Serializer_Tag>
+<XML_Serializer_Tag>Juan N. Pérez Rulfo Vizcaíno</XML_Serializer_Tag>
+<XML_Serializer_Tag>Juan R. Vizcaíno</XML_Serializer_Tag>
+<XML_Serializer_Tag>J. Rulfo</XML_Serializer_Tag>
+<XML_Serializer_Tag>Juan N. Rulfo-Vizcaíno</XML_Serializer_Tag>
+<XML_Serializer_Tag>Juan N. Pérez-Rulfo</XML_Serializer_Tag>
+<XML_Serializer_Tag>Juan Nepomuceno Carlos Pérez Rulfo Vizcaíno</XML_Serializer_Tag>
+<XML_Serializer_Tag>Chuan Rulʹfo</XML_Serializer_Tag>
+<XML_Serializer_Tag>Juan N. Rulfo Vizcaíno</XML_Serializer_Tag>
+<XML_Serializer_Tag>Juan N. Vizcaíno</XML_Serializer_Tag>
+</variantName>
+<thumbnail>https://commons.wikimedia.org/wiki/Special:FilePath/Rulfo_por_Lyon.jpg?width=270</thumbnail>
+<birthEN>May 16, 1918</birthEN>
+<birthDE>16. Mai 1918</birthDE>
+<deathEN>XX.XX.1986</deathEN>
+<deathDE>XX.XX.1986</deathDE>
+<birthPlace>
+<XML_Serializer_Tag>Sayula (Jalisco)</XML_Serializer_Tag>
+</birthPlace>
+<deathPlace />
+<professionOrOccupation>
+<XML_Serializer_Tag>Schriftsteller</XML_Serializer_Tag>
+<XML_Serializer_Tag>Photograph</XML_Serializer_Tag>
+</professionOrOccupation>
+<dbpResource>http://dbpedia.org/resource/Juan_Rulfo</dbpResource>
+<abstract>Juan Rulfo (* 16. Mai 1917 in Sayula, Bundesstaat Jalisco; † 7. Januar 1986 in Mexiko-Stadt) war ein mexikanischer Schriftsteller.</abstract>
+<wikilink>http://en.wikipedia.org/wiki/Juan_Rulfo?oldid=604851429</wikilink>
+<artworks />
+<buildings />
+<books>
+<XML_Serializer_Tag>
+<book>
+<type>uri</type>
+<value>http://dbpedia.org/resource/Pedro_P%C3%A1ramo</value>
+</book>
+<author>
+<type>uri</type>
+<value>http://dbpedia.org/resource/Juan_Rulfo</value>
+</author>
+<released>
+<type>typed-literal</type>
+<datatype>http://www.w3.org/2001/XMLSchema#integer</datatype>
+<value>1955</value>
+</released>
+<wikilink>
+<type>uri</type>
+<value>http://en.wikipedia.org/wiki/Pedro_Páramo?oldid=605411233</value>
+</wikilink>
+<abstract>
+<type>literal</type>
+<xml:lang>de</xml:lang>
+<value>Pedro Páramo ist der einzige Roman des mexikanischen Schriftstellers Juan Rulfo. Er wurde 1955 veröffentlicht und gilt seither als bahnbrechendes Werk der lateinamerikanischen Literatur, da er vor allem großen Einfluss auf den Magischen Realismus hatte. Im Jahr 1958 wurde der Roman von Mariana Frenk-Westheim ins Deutsche übersetzt. Er wurde mehrfach verfilmt, wobei das Drehbuch zweier Filme von Gabriel García Márquez verfasst wurde.</value>
+</abstract>
+</XML_Serializer_Tag>
+<XML_Serializer_Tag>
+<book>
+<type>uri</type>
+<value>http://dbpedia.org/resource/El_Llano_en_llamas</value>
+</book>
+<author>
+<type>uri</type>
+<value>http://dbpedia.org/resource/Juan_Rulfo</value>
+</author>
+<wikilink>
+<type>uri</type>
+<value>http://en.wikipedia.org/wiki/El_Llano_en_llamas?oldid=606223218</value>
+</wikilink>
+<abstract>
+<type>literal</type>
+<xml:lang>de</xml:lang>
+<value>Der Llano in Flammen (span. El Llano en llamas) ist eine Sammlung von Kurzgeschichten des mexikanischen Schriftstellers Juan Rulfo. Sie wurde 1953 erstmals zusammenhängend auf Spanisch veröffentlicht und erschien 1964 auf Deutsch in einer Übersetzung von Mariana Frenk-Westheim. Die zwei Kurzgeschichten Der Tag, an dem es gebebt hat und Das Erbe der Matilde Arcángel waren noch nicht in den ersten Ausgaben der Sammlung enthalten und wurden erst später hinzugefügt. Auch wurde die Erzählung Paso del Norte in einigen Ausgaben weggelassen. Verschiedene Erzählungen des Bandes erschienen bereits zuvor in den Zeitschriften América und Pan, wo sie zusammen mit Fotografien des Autors abgedruckt wurden.</value>
+</abstract>
+</XML_Serializer_Tag>
+</books>
+</Person>

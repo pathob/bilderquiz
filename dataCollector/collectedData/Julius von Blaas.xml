@@ -17,8 +17,10 @@
 <professionOrOccupation>
 <XML_Serializer_Tag>Maler</XML_Serializer_Tag>
 </professionOrOccupation>
-<artworks />
 <dbpResource>http://dbpedia.org/resource/Julius_von_Blaas</dbpResource>
 <abstract>Julius von Blaas (* 22. August 1845 in Albano Laziale bei Rom; † 1. August 1922 in Bad Hall) war ein italienisch-österreichischer Historien-, Tier-, Genre- und Schlachtenmaler.</abstract>
 <wikilink>http://en.wikipedia.org/wiki/Julius_von_Blaas?oldid=602489438</wikilink>
+<artworks />
+<buildings />
+<books />
 </Person>

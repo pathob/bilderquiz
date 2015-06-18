@@ -16,8 +16,10 @@
 <XML_Serializer_Tag>Künstler</XML_Serializer_Tag>
 <XML_Serializer_Tag>Maler</XML_Serializer_Tag>
 </professionOrOccupation>
-<artworks />
 <dbpResource>http://dbpedia.org/resource/Karl_Sterrer</dbpResource>
 <abstract>Karl Sterrer (* 4. Dezember 1885 in Wien; † 10. Juni 1972 ebenda) war ein österreichischer Maler und Grafiker.</abstract>
 <wikilink>http://en.wikipedia.org/wiki/Karl_Sterrer?oldid=606489239</wikilink>
+<artworks />
+<buildings />
+<books />
 </Person>

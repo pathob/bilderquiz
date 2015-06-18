@@ -1,0 +1,40 @@
+<Person>
+<name>Anzia Yezierska</name>
+<variantName />
+<thumbnail>https://commons.wikimedia.org/wiki/Special:FilePath/Yezierska_Lima_News_July3_1922.jpg?width=270</thumbnail>
+<birthEN />
+<birthDE />
+<deathEN />
+<deathDE />
+<birthPlace />
+<deathPlace />
+<professionOrOccupation>
+<XML_Serializer_Tag>Schriftstellerin</XML_Serializer_Tag>
+</professionOrOccupation>
+<dbpResource>http://dbpedia.org/resource/Anzia_Yezierska</dbpResource>
+<abstract>Anzia Yezierska (* 29. Oktober 1880 in Płońsk, Polen; † 21. November 1970 in Ontario, Kalifornien) war eine aus Polen stammende US-amerikanische Autorin von Romanen.</abstract>
+<wikilink>http://en.wikipedia.org/wiki/Anzia_Yezierska?oldid=606587378</wikilink>
+<artworks />
+<buildings />
+<books>
+<XML_Serializer_Tag>
+<book>
+<type>uri</type>
+<value>http://dbpedia.org/resource/Hungry_Hearts_(collection)</value>
+</book>
+<author>
+<type>uri</type>
+<value>http://dbpedia.org/resource/Anzia_Yezierska</value>
+</author>
+<released>
+<type>typed-literal</type>
+<datatype>http://www.w3.org/2001/XMLSchema#integer</datatype>
+<value>1920</value>
+</released>
+<wikilink>
+<type>uri</type>
+<value>http://en.wikipedia.org/wiki/Hungry_Hearts_(collection)?oldid=556023762</value>
+</wikilink>
+</XML_Serializer_Tag>
+</books>
+</Person>

@@ -1,0 +1,34 @@
+<Person>
+<name>William Walker Atkinson</name>
+<variantName>
+<XML_Serializer_Tag>W. W. Atkinson</XML_Serializer_Tag>
+<XML_Serializer_Tag>William W. Atkinson</XML_Serializer_Tag>
+<XML_Serializer_Tag>William Walker Atkinson</XML_Serializer_Tag>
+<XML_Serializer_Tag>Drei Eingeweihte</XML_Serializer_Tag>
+<XML_Serializer_Tag>Swami Panchadasi</XML_Serializer_Tag>
+<XML_Serializer_Tag>Ramacharaka, Yogi</XML_Serializer_Tag>
+<XML_Serializer_Tag>Ramačaraka, Yogi</XML_Serializer_Tag>
+<XML_Serializer_Tag>Yogi Ramacaraka</XML_Serializer_Tag>
+<XML_Serializer_Tag>Yogi Ramacharaka</XML_Serializer_Tag>
+<XML_Serializer_Tag>Yoghi Ramacharaka</XML_Serializer_Tag>
+<XML_Serializer_Tag>Y. Ramacharaka</XML_Serializer_Tag>
+<XML_Serializer_Tag>Three Initiates</XML_Serializer_Tag>
+</variantName>
+<thumbnail>https://commons.wikimedia.org/wiki/Special:FilePath/William_Walker_Atkinson.jpg?width=270</thumbnail>
+<birthEN>1862</birthEN>
+<birthDE>1862</birthDE>
+<deathEN>1932</deathEN>
+<deathDE>1932</deathDE>
+<birthPlace />
+<deathPlace />
+<professionOrOccupation>
+<XML_Serializer_Tag>Journalist</XML_Serializer_Tag>
+<XML_Serializer_Tag>Autor</XML_Serializer_Tag>
+</professionOrOccupation>
+<dbpResource>http://dbpedia.org/resource/William_Walker_Atkinson</dbpResource>
+<abstract>William Walker Atkinson (* 5. Dezember 1862 in Baltimore; † 22. November 1932 in Los Angeles) war ein US-amerikanischer Kaufmann und Anwalt sowie ein Autor im Bereich der Neugeist-Bewegung.</abstract>
+<wikilink>http://en.wikipedia.org/wiki/William_Walker_Atkinson?oldid=604214304</wikilink>
+<artworks />
+<buildings />
+<books />
+</Person>

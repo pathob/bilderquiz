@@ -1,0 +1,34 @@
+<Person>
+<name>Lisa Tetzner</name>
+<variantName>
+<XML_Serializer_Tag>Liza Tetzner</XML_Serializer_Tag>
+<XML_Serializer_Tag>L. Tetzner</XML_Serializer_Tag>
+<XML_Serializer_Tag>Lisa Kläber</XML_Serializer_Tag>
+<XML_Serializer_Tag>Lisa Tetzner Kläber</XML_Serializer_Tag>
+<XML_Serializer_Tag>Lisa Tetzner Kläber</XML_Serializer_Tag>
+<XML_Serializer_Tag>Lisa Tetzner-Kläber</XML_Serializer_Tag>
+<XML_Serializer_Tag>Lisa Kläber-Tetzner</XML_Serializer_Tag>
+</variantName>
+<thumbnail>https://commons.wikimedia.org/wiki/Special:FilePath/Lisa_Tetzner-Geburtshaus.jpg?width=270</thumbnail>
+<birthEN>November 10, 1894</birthEN>
+<birthDE>10. November 1894</birthDE>
+<deathEN>July 2, 1963</deathEN>
+<deathDE>2. Juli 1963</deathDE>
+<birthPlace>
+<XML_Serializer_Tag>Zittau</XML_Serializer_Tag>
+</birthPlace>
+<deathPlace>
+<XML_Serializer_Tag>Carona</XML_Serializer_Tag>
+</deathPlace>
+<professionOrOccupation>
+<XML_Serializer_Tag>Kinderbuchautorin</XML_Serializer_Tag>
+<XML_Serializer_Tag>Jugendbuchautorin</XML_Serializer_Tag>
+<XML_Serializer_Tag>Schriftstellerin</XML_Serializer_Tag>
+</professionOrOccupation>
+<dbpResource>http://dbpedia.org/resource/Lisa_Tetzner</dbpResource>
+<abstract>Lisa Tetzner (* 10. November 1894 in Zittau; † 2. Juli 1963 in Carona) war eine deutsche Kinderbuchautorin und Märchenerzählerin, die 1933 zusammen mit ihrem Mann Kurt Kläber Deutschland wegen Verfolgung durch die Nationalsozialisten verlassen musste. Sie wurde 1938 ausgebürgert und erwarb 1948 die Schweizer Staatsangehörigkeit. Bis zu ihrem Tode wohnte sie in Carona im Kanton Tessin.</abstract>
+<wikilink>http://en.wikipedia.org/wiki/Lisa_Tetzner?oldid=606506582</wikilink>
+<artworks />
+<buildings />
+<books />
+</Person>

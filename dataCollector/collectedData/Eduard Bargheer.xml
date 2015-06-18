@@ -17,8 +17,10 @@
 <XML_Serializer_Tag>Maler</XML_Serializer_Tag>
 <XML_Serializer_Tag>Graphiker</XML_Serializer_Tag>
 </professionOrOccupation>
-<artworks />
 <dbpResource>http://dbpedia.org/resource/Eduard_Bargheer</dbpResource>
 <abstract>Eduard Bargheer (* 25. Dezember 1901 in Finkenwerder, Hamburg; † 1. Juli 1979 in Blankenese, Hamburg) war ein deutscher Maler und Graphiker. In seiner frühen Phase stand er dem Expressionismus nahe.</abstract>
 <wikilink>http://en.wikipedia.org/wiki/Eduard_Bargheer?oldid=581812606</wikilink>
+<artworks />
+<buildings />
+<books />
 </Person>

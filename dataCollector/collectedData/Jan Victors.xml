@@ -23,8 +23,10 @@
 <XML_Serializer_Tag>Künstler</XML_Serializer_Tag>
 <XML_Serializer_Tag>Maler</XML_Serializer_Tag>
 </professionOrOccupation>
-<artworks />
 <dbpResource>http://dbpedia.org/resource/Jan_Victors</dbpResource>
 <abstract>Jan Victors (* 13. Juni 1619 in Amsterdam; † Dezember 1679 in Niederländisch-Indien, heute: Indonesien) war ein niederländischer Maler und Zeichner, der sich vor allem mit Historien- und Porträtmalerei befasste.</abstract>
 <wikilink>http://en.wikipedia.org/wiki/Jan_Victors?oldid=584631413</wikilink>
+<artworks />
+<buildings />
+<books />
 </Person>

@@ -1,0 +1,86 @@
+<Person>
+<name>Bohumil Hrabal</name>
+<variantName>
+<XML_Serializer_Tag>... Hrabal</XML_Serializer_Tag>
+<XML_Serializer_Tag>Bohumi̕er Helaba̕er</XML_Serializer_Tag>
+<XML_Serializer_Tag>Bohumilas Hrabalas</XML_Serializer_Tag>
+<XML_Serializer_Tag>Bohumils Hrabals</XML_Serializer_Tag>
+<XML_Serializer_Tag>Bofumiru Furabaru</XML_Serializer_Tag>
+<XML_Serializer_Tag>Bochumil Chrabal</XML_Serializer_Tag>
+<XML_Serializer_Tag>Bohumil František Kilián</XML_Serializer_Tag>
+</variantName>
+<thumbnail>https://commons.wikimedia.org/wiki/Special:FilePath/Bohumil_Hrabal_by_Kubik_1994_01.jpg?width=270</thumbnail>
+<birthEN>March 28, 1914</birthEN>
+<birthDE>28. März 1914</birthDE>
+<deathEN>February 3, 1997</deathEN>
+<deathDE>3. Februar 1997</deathDE>
+<birthPlace>
+<XML_Serializer_Tag>Brünn</XML_Serializer_Tag>
+</birthPlace>
+<deathPlace>
+<XML_Serializer_Tag>Prag</XML_Serializer_Tag>
+</deathPlace>
+<professionOrOccupation>
+<XML_Serializer_Tag>Schriftsteller</XML_Serializer_Tag>
+<XML_Serializer_Tag>Übersetzer</XML_Serializer_Tag>
+<XML_Serializer_Tag>Jurist</XML_Serializer_Tag>
+</professionOrOccupation>
+<dbpResource>http://dbpedia.org/resource/Bohumil_Hrabal</dbpResource>
+<abstract>Bohumil Hrabal (* 28. März 1914 in Brünn (Brno); † 3. Februar 1997 in Prag) war ein tschechischer Schriftsteller. Er gilt als einer der bedeutendsten tschechischen Autoren des 20. Jahrhunderts.</abstract>
+<wikilink>http://en.wikipedia.org/wiki/Bohumil_Hrabal?oldid=605945332</wikilink>
+<artworks />
+<buildings />
+<books>
+<XML_Serializer_Tag>
+<book>
+<type>uri</type>
+<value>http://dbpedia.org/resource/Too_Loud_a_Solitude</value>
+</book>
+<author>
+<type>uri</type>
+<value>http://dbpedia.org/resource/Bohumil_Hrabal</value>
+</author>
+<thumbnail>
+<type>uri</type>
+<value>http://commons.wikimedia.org/wiki/Special:FilePath/Library_Walk_38.JPG?width=300</value>
+</thumbnail>
+<released>
+<type>typed-literal</type>
+<datatype>http://www.w3.org/2001/XMLSchema#integer</datatype>
+<value>1976</value>
+</released>
+<wikilink>
+<type>uri</type>
+<value>http://en.wikipedia.org/wiki/Too_Loud_a_Solitude?oldid=604048707</value>
+</wikilink>
+</XML_Serializer_Tag>
+<XML_Serializer_Tag>
+<book>
+<type>uri</type>
+<value>http://dbpedia.org/resource/Dancing_Lessons_for_the_Advanced_in_Age</value>
+</book>
+<author>
+<type>uri</type>
+<value>http://dbpedia.org/resource/Bohumil_Hrabal</value>
+</author>
+<wikilink>
+<type>uri</type>
+<value>http://en.wikipedia.org/wiki/Dancing_Lessons_for_the_Advanced_in_Age?oldid=584518115</value>
+</wikilink>
+</XML_Serializer_Tag>
+<XML_Serializer_Tag>
+<book>
+<type>uri</type>
+<value>http://dbpedia.org/resource/I_Served_the_King_of_England</value>
+</book>
+<author>
+<type>uri</type>
+<value>http://dbpedia.org/resource/Bohumil_Hrabal</value>
+</author>
+<wikilink>
+<type>uri</type>
+<value>http://en.wikipedia.org/wiki/I_Served_the_King_of_England?oldid=592945434</value>
+</wikilink>
+</XML_Serializer_Tag>
+</books>
+</Person>

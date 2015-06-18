@@ -1,0 +1,26 @@
+<Person>
+<name>Henrik Pontoppidan</name>
+<variantName />
+<thumbnail>https://commons.wikimedia.org/wiki/Special:FilePath/Henrik_Pontoppidan.jpg?width=270</thumbnail>
+<birthEN>July 24, 1857</birthEN>
+<birthDE>24. Juli 1857</birthDE>
+<deathEN>August 21, 1943</deathEN>
+<deathDE>21. August 1943</deathDE>
+<birthPlace>
+<XML_Serializer_Tag>Fredericia</XML_Serializer_Tag>
+</birthPlace>
+<deathPlace>
+<XML_Serializer_Tag>Kopenhagen</XML_Serializer_Tag>
+</deathPlace>
+<professionOrOccupation>
+<XML_Serializer_Tag>Schriftsteller</XML_Serializer_Tag>
+<XML_Serializer_Tag>Prosaist</XML_Serializer_Tag>
+<XML_Serializer_Tag>Nobelpreisträger</XML_Serializer_Tag>
+</professionOrOccupation>
+<dbpResource>http://dbpedia.org/resource/Henrik_Pontoppidan</dbpResource>
+<abstract>Henrik Pontoppidan (* 24. Juli 1857 in Fredericia; † 21. August 1943 in Kopenhagen) war ein dänischer Schriftsteller, der vor allem als Erzähler hervortrat. Mit Hans im Glück, zunächst zwischen 1898 und 1904 in acht Bänden veröffentlicht, schuf er „einen der umfangreichsten und bedeutendsten Romane der dänischen Literatur“. 1917 bekam er den Nobelpreis.</abstract>
+<wikilink>http://en.wikipedia.org/wiki/Henrik_Pontoppidan?oldid=603165152</wikilink>
+<artworks />
+<buildings />
+<books />
+</Person>

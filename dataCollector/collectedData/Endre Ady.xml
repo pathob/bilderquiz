@@ -1,0 +1,28 @@
+<Person>
+<name>Endre Ady</name>
+<variantName>
+<XML_Serializer_Tag>Andreas Ady</XML_Serializer_Tag>
+<XML_Serializer_Tag>Endre Ady de Diósad</XML_Serializer_Tag>
+</variantName>
+<thumbnail>https://commons.wikimedia.org/wiki/Special:FilePath/Endre_Ady.jpg?width=270</thumbnail>
+<birthEN>November 22, 1877</birthEN>
+<birthDE>22. November 1877</birthDE>
+<deathEN>January 27, 1919</deathEN>
+<deathDE>27. Januar 1919</deathDE>
+<birthPlace>
+<XML_Serializer_Tag>Ady Endre</XML_Serializer_Tag>
+</birthPlace>
+<deathPlace>
+<XML_Serializer_Tag>Budapest</XML_Serializer_Tag>
+</deathPlace>
+<professionOrOccupation>
+<XML_Serializer_Tag>Schriftsteller</XML_Serializer_Tag>
+<XML_Serializer_Tag>Journalist</XML_Serializer_Tag>
+</professionOrOccupation>
+<dbpResource>http://dbpedia.org/resource/Endre_Ady</dbpResource>
+<abstract>Endre Ady de Diósad [ˈɛndrɛ ˈɒdi] (* 22. November 1877 in Érmindszent, Komitat Sathmar; † 27. Januar 1919 in Budapest) war ein ungarischer Dichter. Die Erneuerung der ungarischen Kunstdichtung ist vor allem ihm zu verdanken.</abstract>
+<wikilink>http://en.wikipedia.org/wiki/Endre_Ady?oldid=599371445</wikilink>
+<artworks />
+<buildings />
+<books />
+</Person>

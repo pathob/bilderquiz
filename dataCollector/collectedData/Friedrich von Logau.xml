@@ -1,0 +1,38 @@
+<Person>
+<name>Friedrich von Logau</name>
+<variantName>
+<XML_Serializer_Tag>Salomon von Golaw</XML_Serializer_Tag>
+<XML_Serializer_Tag>Salomon von Golau</XML_Serializer_Tag>
+<XML_Serializer_Tag>Nicolaus von Glogau</XML_Serializer_Tag>
+<XML_Serializer_Tag>Salomon, von Golaw</XML_Serializer_Tag>
+<XML_Serializer_Tag>Fridericus a Logaw</XML_Serializer_Tag>
+<XML_Serializer_Tag>S. v. G.</XML_Serializer_Tag>
+<XML_Serializer_Tag>S. v. G.</XML_Serializer_Tag>
+<XML_Serializer_Tag>F. V. L.</XML_Serializer_Tag>
+<XML_Serializer_Tag>Der Verkleinernde</XML_Serializer_Tag>
+<XML_Serializer_Tag>Ein Gehorsamer Unterthan</XML_Serializer_Tag>
+<XML_Serializer_Tag>Logau redivivus</XML_Serializer_Tag>
+</variantName>
+<thumbnail>https://commons.wikimedia.org/wiki/Special:FilePath/Logau_kupfer.JPG?width=270</thumbnail>
+<birthEN>XX.01.1605</birthEN>
+<birthDE>XX.01.1605</birthDE>
+<deathEN>July 24, 1655</deathEN>
+<deathDE>24. Juli 1655</deathDE>
+<birthPlace>
+<XML_Serializer_Tag>Brockut</XML_Serializer_Tag>
+</birthPlace>
+<deathPlace>
+<XML_Serializer_Tag>Liegnitz</XML_Serializer_Tag>
+</deathPlace>
+<professionOrOccupation>
+<XML_Serializer_Tag>Regierungsrat</XML_Serializer_Tag>
+<XML_Serializer_Tag>Liederdichter</XML_Serializer_Tag>
+<XML_Serializer_Tag>Schriftsteller</XML_Serializer_Tag>
+</professionOrOccupation>
+<dbpResource>http://dbpedia.org/resource/Friedrich_von_Logau</dbpResource>
+<abstract>Friedrich von Logau, auch Salomon von Golaw (* Januar 1605 auf Gut Brockuth [jetzt: Brochocin] bei Nimptsch, Schlesien; † 24. oder 25. Juli 1655 in Liegnitz) war ein deutscher Dichter des Barock.</abstract>
+<wikilink>http://en.wikipedia.org/wiki/Friedrich_von_Logau?oldid=592868201</wikilink>
+<artworks />
+<buildings />
+<books />
+</Person>

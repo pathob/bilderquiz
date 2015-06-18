@@ -1,0 +1,72 @@
+<Person>
+<name>Zora Neale Hurston</name>
+<variantName>
+<XML_Serializer_Tag>Zora Neale Hurston</XML_Serializer_Tag>
+</variantName>
+<thumbnail>https://de.wikipedia.org/wiki/Special:FilePath/Zora_Neale_Hurston.jpg?width=270</thumbnail>
+<birthEN>1891</birthEN>
+<birthDE>1891</birthDE>
+<deathEN>1960</deathEN>
+<deathDE>1960</deathDE>
+<birthPlace>
+<XML_Serializer_Tag>Notasulga &lt;Ala.&gt;</XML_Serializer_Tag>
+</birthPlace>
+<deathPlace>
+<XML_Serializer_Tag>Saint Lucie County &lt;Fla.&gt;</XML_Serializer_Tag>
+</deathPlace>
+<professionOrOccupation>
+<XML_Serializer_Tag>Schriftstellerin</XML_Serializer_Tag>
+<XML_Serializer_Tag>Dramatikerin</XML_Serializer_Tag>
+<XML_Serializer_Tag>Anthropologin</XML_Serializer_Tag>
+</professionOrOccupation>
+<dbpResource>http://dbpedia.org/resource/Zora_Neale_Hurston</dbpResource>
+<abstract>Zora Neale Hurston (* 7. Januar 1891 in Notasulga, Alabama; † 28. Januar 1960 in Fort Pierce, Florida) war eine bedeutende US-amerikanische Schriftstellerin und Folkloristin. Sie wird zur Harlem Renaissance gerechnet.</abstract>
+<wikilink>http://en.wikipedia.org/wiki/Zora_Neale_Hurston?oldid=605243703</wikilink>
+<artworks />
+<buildings />
+<books>
+<XML_Serializer_Tag>
+<book>
+<type>uri</type>
+<value>http://dbpedia.org/resource/Their_Eyes_Were_Watching_God</value>
+</book>
+<author>
+<type>uri</type>
+<value>http://dbpedia.org/resource/Zora_Neale_Hurston</value>
+</author>
+<released>
+<type>typed-literal</type>
+<datatype>http://www.w3.org/2001/XMLSchema#date</datatype>
+<value>1937-09-18+02:00</value>
+</released>
+<wikilink>
+<type>uri</type>
+<value>http://en.wikipedia.org/wiki/Their_Eyes_Were_Watching_God?oldid=606427486</value>
+</wikilink>
+<abstract>
+<type>literal</type>
+<xml:lang>de</xml:lang>
+<value>Und ihre Augen schauten Gott (Their Eyes Were Watching God) ist ein US-amerikanisches Filmdrama von Darnell Martin aus dem Jahr 2005. Es ist die Verfilmung des gleichnamigen Romans von Zora Neale Hurston aus dem Jahr 1937.</value>
+</abstract>
+</XML_Serializer_Tag>
+<XML_Serializer_Tag>
+<book>
+<type>uri</type>
+<value>http://dbpedia.org/resource/Dust_Tracks_on_a_Road</value>
+</book>
+<author>
+<type>uri</type>
+<value>http://dbpedia.org/resource/Zora_Neale_Hurston</value>
+</author>
+<released>
+<type>typed-literal</type>
+<datatype>http://www.w3.org/2001/XMLSchema#integer</datatype>
+<value>1942</value>
+</released>
+<wikilink>
+<type>uri</type>
+<value>http://en.wikipedia.org/wiki/Dust_Tracks_on_a_Road?oldid=599862855</value>
+</wikilink>
+</XML_Serializer_Tag>
+</books>
+</Person>

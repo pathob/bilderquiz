@@ -35,8 +35,10 @@
 <XML_Serializer_Tag>Philosoph</XML_Serializer_Tag>
 <XML_Serializer_Tag>Maler</XML_Serializer_Tag>
 </professionOrOccupation>
-<artworks />
 <dbpResource>http://dbpedia.org/resource/Wilhelm_Ostwald</dbpResource>
 <abstract>Wilhelm Ostwald (lettisch Vilhelms Ostvalds;* 21. Augustjul./ 2. September 1853greg. in Riga; † 4. April 1932 in Leipzig) war ein deutsch-baltischer Chemiker, Nobelpreisträger (1909) und Philosoph.</abstract>
 <wikilink>http://en.wikipedia.org/wiki/Wilhelm_Ostwald?oldid=606667378</wikilink>
+<artworks />
+<buildings />
+<books />
 </Person>

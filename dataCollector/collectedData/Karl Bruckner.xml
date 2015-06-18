@@ -1,0 +1,53 @@
+<Person>
+<name>Karl Bruckner</name>
+<variantName>
+<XML_Serializer_Tag>... Burukkunā</XML_Serializer_Tag>
+<XML_Serializer_Tag>Karl Brukner</XML_Serializer_Tag>
+<XML_Serializer_Tag>카를 브루크너</XML_Serializer_Tag>
+</variantName>
+<thumbnail>https://commons.wikimedia.org/wiki/Special:FilePath/BrucknerAutogr.jpg?width=270</thumbnail>
+<birthEN>January 9, 1906</birthEN>
+<birthDE>9. Januar 1906</birthDE>
+<deathEN>October 25, 1982</deathEN>
+<deathDE>25. Oktober 1982</deathDE>
+<birthPlace>
+<XML_Serializer_Tag>Wien</XML_Serializer_Tag>
+</birthPlace>
+<deathPlace>
+<XML_Serializer_Tag>Wien</XML_Serializer_Tag>
+</deathPlace>
+<professionOrOccupation>
+<XML_Serializer_Tag>Schriftsteller</XML_Serializer_Tag>
+</professionOrOccupation>
+<dbpResource>http://dbpedia.org/resource/Karl_Bruckner</dbpResource>
+<abstract>Karl Bruckner (* 9. Jänner 1906 in Wien; † 25. Oktober 1982 ebenda) war ein österreichischer Schriftsteller.</abstract>
+<wikilink>http://en.wikipedia.org/wiki/Karl_Bruckner?oldid=605515385</wikilink>
+<artworks />
+<buildings />
+<books>
+<XML_Serializer_Tag>
+<book>
+<type>uri</type>
+<value>http://dbpedia.org/resource/The_Day_of_the_Bomb</value>
+</book>
+<author>
+<type>uri</type>
+<value>http://dbpedia.org/resource/Karl_Bruckner</value>
+</author>
+<released>
+<type>typed-literal</type>
+<datatype>http://www.w3.org/2001/XMLSchema#integer</datatype>
+<value>1961</value>
+</released>
+<wikilink>
+<type>uri</type>
+<value>http://en.wikipedia.org/wiki/The_Day_of_the_Bomb?oldid=597465333</value>
+</wikilink>
+<abstract>
+<type>literal</type>
+<xml:lang>de</xml:lang>
+<value>Sadako will leben ist das erfolgreichste Buch des österreichischen Schriftstellers Karl Bruckner. Es erschien im Jahre 1961 und wurde seither in 70 Sprachen übersetzt und über 2 Millionen Mal verkauft. Das Buch wurde und wird weltweit in Schulen zur Friedenserziehung eingesetzt.</value>
+</abstract>
+</XML_Serializer_Tag>
+</books>
+</Person>

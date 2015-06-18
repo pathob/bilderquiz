@@ -1,0 +1,29 @@
+<Person>
+<name>Hermann Kesten</name>
+<variantName>
+<XML_Serializer_Tag>German Kesten</XML_Serializer_Tag>
+<XML_Serializer_Tag>Herman Kesten</XML_Serializer_Tag>
+<XML_Serializer_Tag>Hermann Chaim Kesten</XML_Serializer_Tag>
+</variantName>
+<thumbnail>https://commons.wikimedia.org/wiki/Special:FilePath/Gedenktafel_für_die_deutschen_u._österreichischen_Flüchtline_am_Fremdenverkehrsbüro_in_Sanary-sur-Mer1.JPG?width=270</thumbnail>
+<birthEN>January 28, 1900</birthEN>
+<birthDE>28. Januar 1900</birthDE>
+<deathEN>May 3, 1996</deathEN>
+<deathDE>3. Mai 1996</deathDE>
+<birthPlace>
+<XML_Serializer_Tag>Podvolochissk</XML_Serializer_Tag>
+</birthPlace>
+<deathPlace>
+<XML_Serializer_Tag>Basel</XML_Serializer_Tag>
+</deathPlace>
+<professionOrOccupation>
+<XML_Serializer_Tag>Schriftsteller</XML_Serializer_Tag>
+<XML_Serializer_Tag>Publizist</XML_Serializer_Tag>
+</professionOrOccupation>
+<dbpResource>http://dbpedia.org/resource/Hermann_Kesten</dbpResource>
+<abstract>Hermann Kesten (* 28. Januar 1900 in Podwołoczyska, Galizien, Österreich-Ungarn, dem heutigen Pidwolotschysk in der Ukraine; † 3. Mai 1996 in Basel) war als Schriftsteller einer der Hauptvertreter der literarischen „Neuen Sachlichkeit“ während der 1920er Jahre in Deutschland.Kesten ging als leidenschaftlicher Förderer schriftstellerischer Talente („Freund der Dichter“) in die Literaturgeschichte ein. Wegen seines jüdischen Glaubens und seiner politischen Gesinnung aus Deutschland vertrieben, trat der „Schutzvater […] aller über die Welt Versprengten“ (Stefan Zweig) später aus den Vereinigten Staaten als Retter und Unterstützer zahlreicher vom NS-Regime verfolgter Künstler in Erscheinung. Er regte in der Nachkriegszeit als streitbarer, engagierter PEN-Präsident heftige Debatten an und nahm regen Anteil am literarischen Leben der jungen Bundesrepublik.</abstract>
+<wikilink>http://en.wikipedia.org/wiki/Hermann_Kesten?oldid=594183718</wikilink>
+<artworks />
+<buildings />
+<books />
+</Person>

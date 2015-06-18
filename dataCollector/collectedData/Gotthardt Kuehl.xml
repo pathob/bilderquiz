@@ -17,8 +17,10 @@
 <professionOrOccupation>
 <XML_Serializer_Tag>Maler</XML_Serializer_Tag>
 </professionOrOccupation>
-<artworks />
 <dbpResource>http://dbpedia.org/resource/Gotthardt_Kuehl</dbpResource>
 <abstract>Gotthardt Kuehl (* 28. November 1850 in Lübeck; † 9. Januar 1915 in Dresden) war ein deutscher Maler und Vertreter des frühen deutschen Impressionismus, der bereits zu Lebzeiten hohes internationales Ansehen genoss.</abstract>
 <wikilink>http://en.wikipedia.org/wiki/Gotthardt_Kuehl?oldid=606802974</wikilink>
+<artworks />
+<buildings />
+<books />
 </Person>

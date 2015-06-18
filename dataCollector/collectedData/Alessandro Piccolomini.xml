@@ -1,0 +1,35 @@
+<Person>
+<name>Alessandro Piccolomini</name>
+<variantName>
+<XML_Serializer_Tag>Alessandro Piccolhuomini</XML_Serializer_Tag>
+<XML_Serializer_Tag>Stordito</XML_Serializer_Tag>
+<XML_Serializer_Tag>Il Stordito</XML_Serializer_Tag>
+<XML_Serializer_Tag>Il Stordito</XML_Serializer_Tag>
+<XML_Serializer_Tag>Alexandro Piccolomini</XML_Serializer_Tag>
+<XML_Serializer_Tag>Intronato Stordito</XML_Serializer_Tag>
+<XML_Serializer_Tag>Alessandro Picolomini</XML_Serializer_Tag>
+<XML_Serializer_Tag>Alexander Picolhomineus</XML_Serializer_Tag>
+<XML_Serializer_Tag>Alexander Piccolomineus</XML_Serializer_Tag>
+<XML_Serializer_Tag>Alessandro Picholomini</XML_Serializer_Tag>
+<XML_Serializer_Tag>Stordito Intronato</XML_Serializer_Tag>
+</variantName>
+<thumbnail>https://commons.wikimedia.org/wiki/Special:FilePath/Piccolomini.jpg?width=270</thumbnail>
+<birthEN>1508</birthEN>
+<birthDE>1508</birthDE>
+<deathEN>1578</deathEN>
+<deathDE>1578</deathDE>
+<birthPlace>
+<XML_Serializer_Tag>Siena</XML_Serializer_Tag>
+</birthPlace>
+<deathPlace />
+<professionOrOccupation>
+<XML_Serializer_Tag>Schriftsteller</XML_Serializer_Tag>
+<XML_Serializer_Tag>Philosoph</XML_Serializer_Tag>
+</professionOrOccupation>
+<dbpResource>http://dbpedia.org/resource/Alessandro_Piccolomini</dbpResource>
+<abstract>Alessandro Piccolomini (* 13. Juni 1508 in Siena; † 12. März 1578 ebenda; lateinisch: Alexander Piccolomineus) war Dichter und Philosoph, erlangte aber besonders als Astronom Bekanntheit.</abstract>
+<wikilink>http://en.wikipedia.org/wiki/Alessandro_Piccolomini?oldid=601710733</wikilink>
+<artworks />
+<buildings />
+<books />
+</Person>

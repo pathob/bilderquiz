@@ -1,0 +1,28 @@
+<Person>
+<name>Antanas Baranauskas</name>
+<variantName>
+<XML_Serializer_Tag>Baronas Baranowski</XML_Serializer_Tag>
+<XML_Serializer_Tag>Anton Baranowski</XML_Serializer_Tag>
+<XML_Serializer_Tag>Antoni Baranowski</XML_Serializer_Tag>
+<XML_Serializer_Tag>Anton Baranauskis</XML_Serializer_Tag>
+</variantName>
+<thumbnail>https://commons.wikimedia.org/wiki/Special:FilePath/Antanas_Baranauskas.jpg?width=270</thumbnail>
+<birthEN>January 17, 1835</birthEN>
+<birthDE>17. Januar 1835</birthDE>
+<deathEN>November 26, 1902</deathEN>
+<deathDE>26. November 1902</deathDE>
+<birthPlace />
+<deathPlace />
+<professionOrOccupation>
+<XML_Serializer_Tag>Schriftsteller</XML_Serializer_Tag>
+<XML_Serializer_Tag>Philologe</XML_Serializer_Tag>
+<XML_Serializer_Tag>Hochschullehrer</XML_Serializer_Tag>
+<XML_Serializer_Tag>Bischof</XML_Serializer_Tag>
+</professionOrOccupation>
+<dbpResource>http://dbpedia.org/resource/Antanas_Baranauskas</dbpResource>
+<abstract>Antanas Baranauskas (lateinisch: Antonius Baranovski, polnisch: Antoni Baranowski; * 17. Januar 1835 in Anykščiai; † 26. November 1902 in Anykščiai) war ein litauischer Dichter, und ab 1897 Bischof von Sejny. Er benutzte die Pseudonyme Bangputys, Jurksztas Smalaūsis, Jurkštas, Smalaūsis und Baronas.</abstract>
+<wikilink>http://en.wikipedia.org/wiki/Antanas_Baranauskas?oldid=590593679</wikilink>
+<artworks />
+<buildings />
+<books />
+</Person>

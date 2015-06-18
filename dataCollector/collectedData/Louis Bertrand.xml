@@ -1,0 +1,27 @@
+<Person>
+<name>Louis Bertrand</name>
+<variantName>
+<XML_Serializer_Tag>Louis-Marie-Émile Bertrand</XML_Serializer_Tag>
+<XML_Serializer_Tag>Louis Marie Émile Bertrand</XML_Serializer_Tag>
+<XML_Serializer_Tag>Ludwig Bertrand</XML_Serializer_Tag>
+</variantName>
+<thumbnail>https://commons.wikimedia.org/wiki/Special:FilePath/Louis_Bertrand_académicien_1926.jpg?width=270</thumbnail>
+<birthEN>March 20, 1866</birthEN>
+<birthDE>20. März 1866</birthDE>
+<deathEN>December 6, 1941</deathEN>
+<deathDE>6. Dezember 1941</deathDE>
+<birthPlace>
+<XML_Serializer_Tag>Spincourt</XML_Serializer_Tag>
+</birthPlace>
+<deathPlace />
+<professionOrOccupation>
+<XML_Serializer_Tag>Schriftsteller</XML_Serializer_Tag>
+<XML_Serializer_Tag>Historiker</XML_Serializer_Tag>
+</professionOrOccupation>
+<dbpResource>http://dbpedia.org/resource/Louis_Bertrand_(novelist)</dbpResource>
+<abstract>Louis Bertrand (* 20. März 1866 in Spincourt, Département Meuse; † 6. Dezember 1941) war ein französischer Schriftsteller, Essayist und Historiker, der 1925 in die Académie française aufgenommen wurde.</abstract>
+<wikilink>http://en.wikipedia.org/wiki/Louis_Bertrand_(novelist)?oldid=592173802</wikilink>
+<artworks />
+<buildings />
+<books />
+</Person>

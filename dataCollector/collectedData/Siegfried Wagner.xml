@@ -1,0 +1,31 @@
+<Person>
+<name>Siegfried Wagner</name>
+<variantName>
+<XML_Serializer_Tag>S. Wagner</XML_Serializer_Tag>
+<XML_Serializer_Tag>Siegfried Helferich Richard Wagner</XML_Serializer_Tag>
+</variantName>
+<thumbnail>https://commons.wikimedia.org/wiki/Special:FilePath/Siegfried_Wagner.jpg?width=270</thumbnail>
+<birthEN>June 6, 1869</birthEN>
+<birthDE>6. Juni 1869</birthDE>
+<deathEN>August 4, 1930</deathEN>
+<deathDE>4. August 1930</deathDE>
+<birthPlace>
+<XML_Serializer_Tag>Tribschen</XML_Serializer_Tag>
+</birthPlace>
+<deathPlace>
+<XML_Serializer_Tag>Bayreuth</XML_Serializer_Tag>
+</deathPlace>
+<professionOrOccupation>
+<XML_Serializer_Tag>Komponist</XML_Serializer_Tag>
+<XML_Serializer_Tag>Musiker</XML_Serializer_Tag>
+<XML_Serializer_Tag>Dirigent</XML_Serializer_Tag>
+<XML_Serializer_Tag>Schriftsteller</XML_Serializer_Tag>
+<XML_Serializer_Tag>Regisseur</XML_Serializer_Tag>
+</professionOrOccupation>
+<dbpResource>http://dbpedia.org/resource/Siegfried_Wagner</dbpResource>
+<abstract>Siegfried Helferich Richard Wagner (* 6. Juni 1869 in Tribschen bei Luzern; † 4. August 1930 in Bayreuth) war ein deutscher Komponist, Librettist und Dirigent. Von 1908 bis zu seinem Tod leitete er die Bayreuther Festspiele.</abstract>
+<wikilink>http://en.wikipedia.org/wiki/Siegfried_Wagner?oldid=567167009</wikilink>
+<artworks />
+<buildings />
+<books />
+</Person>

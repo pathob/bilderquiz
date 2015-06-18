@@ -1,0 +1,97 @@
+<Person>
+<name>Ambrose Bierce</name>
+<variantName>
+<XML_Serializer_Tag>Ambrose Gwinett Bierce</XML_Serializer_Tag>
+<XML_Serializer_Tag>Ambrose Gwinett Bierce</XML_Serializer_Tag>
+<XML_Serializer_Tag>Aembŭrosŭ Piŏsŭ</XML_Serializer_Tag>
+<XML_Serializer_Tag>Dod Grile</XML_Serializer_Tag>
+</variantName>
+<thumbnail>https://commons.wikimedia.org/wiki/Special:FilePath/Ambrose_Bierce-1.jpg?width=270</thumbnail>
+<birthEN>1842</birthEN>
+<birthDE>1842</birthDE>
+<deathEN>1914</deathEN>
+<deathDE>1914</deathDE>
+<birthPlace />
+<deathPlace />
+<professionOrOccupation>
+<XML_Serializer_Tag>Schriftsteller</XML_Serializer_Tag>
+<XML_Serializer_Tag>Journalist</XML_Serializer_Tag>
+</professionOrOccupation>
+<dbpResource>http://dbpedia.org/resource/Ambrose_Bierce</dbpResource>
+<abstract>Ambrose Gwinnett Bierce (* 24. Juni 1842 im Meigs County, Ohio; † 1914 in Chihuahua, Mexiko) war ein amerikanischer Schriftsteller und Journalist.</abstract>
+<wikilink>http://en.wikipedia.org/wiki/Ambrose_Bierce?oldid=603911846</wikilink>
+<artworks />
+<buildings />
+<books>
+<XML_Serializer_Tag>
+<book>
+<type>uri</type>
+<value>http://dbpedia.org/resource/Tales_of_Soldiers_and_Civilians</value>
+</book>
+<author>
+<type>uri</type>
+<value>http://dbpedia.org/resource/Ambrose_Bierce</value>
+</author>
+<thumbnail>
+<type>uri</type>
+<value>http://commons.wikimedia.org/wiki/Special:FilePath/Tales_of_Soldiers_and_Civilians.jpg?width=300</value>
+</thumbnail>
+<wikilink>
+<type>uri</type>
+<value>http://en.wikipedia.org/wiki/Tales_of_Soldiers_and_Civilians?oldid=606363799</value>
+</wikilink>
+</XML_Serializer_Tag>
+<XML_Serializer_Tag>
+<book>
+<type>uri</type>
+<value>http://dbpedia.org/resource/A_Vision_of_Doom</value>
+</book>
+<author>
+<type>uri</type>
+<value>http://dbpedia.org/resource/Ambrose_Bierce</value>
+</author>
+<released>
+<type>typed-literal</type>
+<datatype>http://www.w3.org/2001/XMLSchema#integer</datatype>
+<value>1980</value>
+</released>
+<wikilink>
+<type>uri</type>
+<value>http://en.wikipedia.org/wiki/A_Vision_of_Doom?oldid=596931933</value>
+</wikilink>
+</XML_Serializer_Tag>
+<XML_Serializer_Tag>
+<book>
+<type>uri</type>
+<value>http://dbpedia.org/resource/The_Devil&apos;s_Dictionary</value>
+</book>
+<author>
+<type>uri</type>
+<value>http://dbpedia.org/resource/Ambrose_Bierce</value>
+</author>
+<wikilink>
+<type>uri</type>
+<value>http://en.wikipedia.org/wiki/The_Devil&apos;s_Dictionary?oldid=598675167</value>
+</wikilink>
+<abstract>
+<type>literal</type>
+<xml:lang>de</xml:lang>
+<value>Des Teufels Wörterbuch – Übersetzungen sind auch unter dem Titel Aus dem Wörterbuch des Teufels erschienen, der Originaltitel ist The Devil&apos;s Dictionary – ist eine Kollektion satirischer Aphorismen von Ambrose Bierce aus dem Jahre 1911. Sie versammelt meist schwarzenhumorige oder sarkastische Definitionen für rund 1000 Wörter.Beispielsweise definiert Bierce „Gehirn“ mit: „Ein Organ, mit dem wir denken, dass wir denken“ (original: Brain, n. An apparatus with which we think that we think).</value>
+</abstract>
+</XML_Serializer_Tag>
+<XML_Serializer_Tag>
+<book>
+<type>uri</type>
+<value>http://dbpedia.org/resource/The_Damned_Thing_(short_story)</value>
+</book>
+<author>
+<type>uri</type>
+<value>http://dbpedia.org/resource/Ambrose_Bierce</value>
+</author>
+<wikilink>
+<type>uri</type>
+<value>http://en.wikipedia.org/wiki/The_Damned_Thing_(short_story)?oldid=591700999</value>
+</wikilink>
+</XML_Serializer_Tag>
+</books>
+</Person>

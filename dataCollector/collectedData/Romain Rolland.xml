@@ -1,0 +1,81 @@
+<Person>
+<name>Romain Rolland</name>
+<variantName>
+<XML_Serializer_Tag>Romain-Edme-Paul-Emile Rolland</XML_Serializer_Tag>
+<XML_Serializer_Tag>Romėn Rolan</XML_Serializer_Tag>
+<XML_Serializer_Tag>Ромен Роллан</XML_Serializer_Tag>
+<XML_Serializer_Tag>Lo-man Lo-lan</XML_Serializer_Tag>
+<XML_Serializer_Tag>Romėn Rollan</XML_Serializer_Tag>
+<XML_Serializer_Tag>Luoman Luolan</XML_Serializer_Tag>
+<XML_Serializer_Tag>R. Rolland</XML_Serializer_Tag>
+<XML_Serializer_Tag>Rome Rolā</XML_Serializer_Tag>
+<XML_Serializer_Tag>Romēns Rolāns</XML_Serializer_Tag>
+<XML_Serializer_Tag>Rūman Rūlān</XML_Serializer_Tag>
+<XML_Serializer_Tag>R. Rollan</XML_Serializer_Tag>
+<XML_Serializer_Tag>罗曼・罗兰</XML_Serializer_Tag>
+</variantName>
+<thumbnail>https://commons.wikimedia.org/wiki/Special:FilePath/Romain_Rolland_1915.jpg?width=270</thumbnail>
+<birthEN>January 29, 1866</birthEN>
+<birthDE>29. Januar 1866</birthDE>
+<deathEN>December 30, 1944</deathEN>
+<deathDE>30. Dezember 1944</deathDE>
+<birthPlace>
+<XML_Serializer_Tag>Clamecy</XML_Serializer_Tag>
+</birthPlace>
+<deathPlace>
+<XML_Serializer_Tag>Vézelay</XML_Serializer_Tag>
+</deathPlace>
+<professionOrOccupation>
+<XML_Serializer_Tag>Dramatiker</XML_Serializer_Tag>
+<XML_Serializer_Tag>Musikwissenschaftler</XML_Serializer_Tag>
+<XML_Serializer_Tag>Musikkritiker</XML_Serializer_Tag>
+<XML_Serializer_Tag>Pazifist</XML_Serializer_Tag>
+<XML_Serializer_Tag>Tierschützer</XML_Serializer_Tag>
+<XML_Serializer_Tag>Schriftsteller</XML_Serializer_Tag>
+</professionOrOccupation>
+<dbpResource>http://dbpedia.org/resource/Romain_Rolland</dbpResource>
+<abstract>Romain Rolland (* 29. Januar 1866 in Clamecy, Département Nièvre; † 30. Dezember 1944 in Vézelay, Burgund) war ein französischer Schriftsteller, Musikkritiker und Pazifist. Er wurde 1915 als dritter Franzose mit dem Nobelpreis für Literatur ausgezeichnet.</abstract>
+<wikilink>http://en.wikipedia.org/wiki/Romain_Rolland?oldid=601983987</wikilink>
+<artworks />
+<buildings />
+<books>
+<XML_Serializer_Tag>
+<book>
+<type>uri</type>
+<value>http://dbpedia.org/resource/Pierre_et_Luce</value>
+</book>
+<author>
+<type>uri</type>
+<value>http://dbpedia.org/resource/Romain_Rolland</value>
+</author>
+<released>
+<type>typed-literal</type>
+<datatype>http://www.w3.org/2001/XMLSchema#integer</datatype>
+<value>1920</value>
+</released>
+<wikilink>
+<type>uri</type>
+<value>http://en.wikipedia.org/wiki/Pierre_et_Luce?oldid=585008613</value>
+</wikilink>
+</XML_Serializer_Tag>
+<XML_Serializer_Tag>
+<book>
+<type>uri</type>
+<value>http://dbpedia.org/resource/Cl%C3%A9rambault_(novel)</value>
+</book>
+<author>
+<type>uri</type>
+<value>http://dbpedia.org/resource/Romain_Rolland</value>
+</author>
+<released>
+<type>typed-literal</type>
+<datatype>http://www.w3.org/2001/XMLSchema#integer</datatype>
+<value>1920</value>
+</released>
+<wikilink>
+<type>uri</type>
+<value>http://en.wikipedia.org/wiki/Clérambault_(novel)?oldid=535033641</value>
+</wikilink>
+</XML_Serializer_Tag>
+</books>
+</Person>

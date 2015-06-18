@@ -12,8 +12,10 @@
 <XML_Serializer_Tag>Maler</XML_Serializer_Tag>
 <XML_Serializer_Tag>Graphiker</XML_Serializer_Tag>
 </professionOrOccupation>
-<artworks />
 <dbpResource>http://dbpedia.org/resource/Sean_Scully</dbpResource>
 <abstract>Sean Scully (* 30. Juni 1945 in Dublin, Irland) ist ein irischer Maler, der ab dem Alter von vier Jahren in Großbritannien aufwuchs und 1983 die amerikanische Staatsbürgerschaft annahm. Er lebt und arbeitet heute in Königsdorf, Barcelona und New York.</abstract>
 <wikilink>http://en.wikipedia.org/wiki/Sean_Scully?oldid=594265990</wikilink>
+<artworks />
+<buildings />
+<books />
 </Person>

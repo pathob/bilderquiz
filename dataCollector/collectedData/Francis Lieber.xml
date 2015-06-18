@@ -1,0 +1,30 @@
+<Person>
+<name>Francis Lieber</name>
+<variantName>
+<XML_Serializer_Tag>Franz Lieber</XML_Serializer_Tag>
+<XML_Serializer_Tag>Franz Arnold</XML_Serializer_Tag>
+</variantName>
+<thumbnail>https://commons.wikimedia.org/wiki/Special:FilePath/Francis_Lieber_-_Brady-Handy.jpg?width=270</thumbnail>
+<birthEN>March 18, 1800</birthEN>
+<birthDE>18. März 1800</birthDE>
+<deathEN>October 2, 1872</deathEN>
+<deathDE>2. Oktober 1872</deathDE>
+<birthPlace>
+<XML_Serializer_Tag>Berlin</XML_Serializer_Tag>
+</birthPlace>
+<deathPlace>
+<XML_Serializer_Tag>New York, NY</XML_Serializer_Tag>
+</deathPlace>
+<professionOrOccupation>
+<XML_Serializer_Tag>Publizist</XML_Serializer_Tag>
+<XML_Serializer_Tag>Jurist</XML_Serializer_Tag>
+<XML_Serializer_Tag>Historiker</XML_Serializer_Tag>
+<XML_Serializer_Tag>Autor</XML_Serializer_Tag>
+</professionOrOccupation>
+<dbpResource>http://dbpedia.org/resource/Francis_Lieber</dbpResource>
+<abstract>Francis Lieber (* 18. März 1800 in Berlin; † 2. Oktober 1872 in New York), ursprünglich Franz Lieber, war ein deutsch-amerikanischer Jurist, Publizist und Rechts- und Staatsphilosoph. Basierend auf einer Übersetzung des Brockhaus Konversationslexikons schuf er die Encyclopedia Americana, die erste bedeutende Enzyklopädie in den USA. Er wurde darüber hinaus bekannt durch die Erstellung des Lieber Codes, einer Vorschrift zur Kriegsführung, die durch einen Erlass des damaligen US-Präsidenten Abraham Lincoln für die Truppen der Nordstaaten im Amerikanischen Bürgerkrieg von 1861 bis 1865 bindend war. Der Lieber Code war in der Rechts- und in der Militärgeschichte das erste schriftlich fixierte Regelwerk mit Vorgaben zu Methoden der Kriegsführung und hatte Auswirkungen auf die spätere Entwicklung des Kriegsvölkerrechts. Francis Lieber gilt als einer der herausragendsten amerikanischen Juristen seiner Zeit und als einer der Wegbereiter der Politikwissenschaft und der Soziologie in den Vereinigten Staaten.</abstract>
+<wikilink>http://en.wikipedia.org/wiki/Francis_Lieber?oldid=606534733</wikilink>
+<artworks />
+<buildings />
+<books />
+</Person>

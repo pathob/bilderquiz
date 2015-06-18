@@ -1,0 +1,24 @@
+<Person>
+<name>Heimrad Prem</name>
+<variantName />
+<thumbnail>https://en.wikipedia.org/wiki/Special:FilePath/Heimrad_Prem.jpg?width=270</thumbnail>
+<birthEN>May 27, 1934</birthEN>
+<birthDE>27. Mai 1934</birthDE>
+<deathEN>February 19, 1978</deathEN>
+<deathDE>19. Februar 1978</deathDE>
+<birthPlace>
+<XML_Serializer_Tag>Roding</XML_Serializer_Tag>
+</birthPlace>
+<deathPlace>
+<XML_Serializer_Tag>München</XML_Serializer_Tag>
+</deathPlace>
+<professionOrOccupation>
+<XML_Serializer_Tag>Künstler</XML_Serializer_Tag>
+</professionOrOccupation>
+<dbpResource>http://dbpedia.org/resource/Heimrad_Prem</dbpResource>
+<abstract>Heimrad Prem (* 27. Mai 1934 in Roding, Oberpfalz; † 19. Februar 1978 in München) war ein deutscher Maler der Nachkriegszeit.</abstract>
+<wikilink>http://en.wikipedia.org/wiki/Heimrad_Prem?oldid=587800977</wikilink>
+<artworks />
+<buildings />
+<books />
+</Person>

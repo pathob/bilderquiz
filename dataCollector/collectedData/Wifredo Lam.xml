@@ -20,8 +20,10 @@
 <XML_Serializer_Tag>Maler</XML_Serializer_Tag>
 <XML_Serializer_Tag>Graphiker</XML_Serializer_Tag>
 </professionOrOccupation>
-<artworks />
 <dbpResource>http://dbpedia.org/resource/Wifredo_Lam</dbpResource>
 <abstract>Wifredo Lam - eigentlich Wifredo Óscar de la Concepción Lam y Castilla, manchmal fälschlicherweise Wilfredo orthografiert - (* 2. Dezember 1902 in Sagua la Grande, Kuba; † 11. September 1982 in Paris) war ein kubanischer, später französischer surrealistischer Maler und Grafiker. Sein Vater war Chinese und seine Mutter Mulattin. Lams chinesischer Name lautet 林飛龍, Lín Fēilóng.</abstract>
 <wikilink>http://en.wikipedia.org/wiki/Wifredo_Lam?oldid=603513571</wikilink>
+<artworks />
+<buildings />
+<books />
 </Person>

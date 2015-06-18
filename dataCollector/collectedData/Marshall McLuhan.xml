@@ -1,0 +1,121 @@
+<Person>
+<name>Marshall McLuhan</name>
+<variantName>
+<XML_Serializer_Tag>Herbert Marshall McLuhan</XML_Serializer_Tag>
+<XML_Serializer_Tag>H. Marshall McLuhan</XML_Serializer_Tag>
+<XML_Serializer_Tag>Herbert Marshall MacLuhan</XML_Serializer_Tag>
+<XML_Serializer_Tag>H. Marshall MacLuhan</XML_Serializer_Tag>
+<XML_Serializer_Tag>Marshall MacLuhan</XML_Serializer_Tag>
+<XML_Serializer_Tag>Marshall Mc Luhan</XML_Serializer_Tag>
+</variantName>
+<thumbnail>https://commons.wikimedia.org/wiki/Special:FilePath/Marshall_McLuhan_holding_a_mirror.jpg?width=270</thumbnail>
+<birthEN>July 21, 1911</birthEN>
+<birthDE>21. Juli 1911</birthDE>
+<deathEN>December 31, 1980</deathEN>
+<deathDE>31. Dezember 1980</deathDE>
+<birthPlace>
+<XML_Serializer_Tag>Edmonton (Alberta)</XML_Serializer_Tag>
+</birthPlace>
+<deathPlace>
+<XML_Serializer_Tag>Toronto</XML_Serializer_Tag>
+</deathPlace>
+<professionOrOccupation>
+<XML_Serializer_Tag>Medienwissenschaftler</XML_Serializer_Tag>
+<XML_Serializer_Tag>Literaturwissenschaftler</XML_Serializer_Tag>
+<XML_Serializer_Tag>Literaturkritiker</XML_Serializer_Tag>
+<XML_Serializer_Tag>Philosoph</XML_Serializer_Tag>
+<XML_Serializer_Tag>Publizist</XML_Serializer_Tag>
+</professionOrOccupation>
+<dbpResource>http://dbpedia.org/resource/Marshall_McLuhan</dbpResource>
+<abstract>Herbert Marshall McLuhan, CC (* 21. Juli 1911 in Edmonton, Alberta; † 31. Dezember 1980 in Toronto) war ein kanadischer Philosoph, Geisteswissenschaftler, Professor für englische Literatur, Literaturkritiker, Rhetoriker und Kommunikationstheoretiker. McLuhans Werk gilt als ein Grundstein der Medientheorie. Seine zentrale These lautet Das Medium ist die Botschaft. Außerdem formulierte er den Begriff „Globales Dorf“. McLuhan prägte die Diskussion über Medien von den späten 1960er Jahren bis zu seinem Tod.</abstract>
+<wikilink>http://en.wikipedia.org/wiki/Marshall_McLuhan?oldid=604379434</wikilink>
+<artworks />
+<buildings />
+<books>
+<XML_Serializer_Tag>
+<book>
+<type>uri</type>
+<value>http://dbpedia.org/resource/The_Gutenberg_Galaxy</value>
+</book>
+<author>
+<type>uri</type>
+<value>http://dbpedia.org/resource/Marshall_McLuhan</value>
+</author>
+<thumbnail>
+<type>uri</type>
+<value>http://commons.wikimedia.org/wiki/Special:FilePath/MyGutenbergGalaxy_onBookchair.jpg?width=300</value>
+</thumbnail>
+<released>
+<type>typed-literal</type>
+<datatype>http://www.w3.org/2001/XMLSchema#integer</datatype>
+<value>1962</value>
+</released>
+<wikilink>
+<type>uri</type>
+<value>http://en.wikipedia.org/wiki/The_Gutenberg_Galaxy?oldid=595838365</value>
+</wikilink>
+<abstract>
+<type>literal</type>
+<xml:lang>de</xml:lang>
+<value>Der Begriff der Gutenberg-Galaxis wurde von Marshall McLuhan in seinem 1962 erschienenen Buch The Gutenberg Galaxy geprägt; er bezeichnet eine Welt, die grundlegend vom Buch als Leitmedium geprägt ist:„Der Buchdruck neigte dazu, die Sprache von einem Mittel der Wahrnehmung zu einer tragbaren Ware zu verändern. Der Buchdruck ist nicht nur eine Technologie sondern selbst ein natürliches Vorkommen oder Rohmaterial wie Baumwolle oder Holz oder das Radio; und wie jedes Rohmaterial formt es nicht nur die persönlichen Sinnesverhältnisse, sondern auch die Muster gemeinschaftlicher Wechselwirkung.“ (Marshall McLuhan, The Gutenberg Galaxy, 1962)Das System der Skriptorien war mit der Erfindung des Buchdrucks abgelöst. Dies bedeutete eine grundlegende Veränderung der Bibliotheken, des Theaters und der Foren. Bücher, und somit Wissen, waren nun für viel größere Teile der Menschen zugänglich und diese Zunahme an verfügbarem Wissen beförderte den Meinungsstreit und die öffentliche Willensbildung. Vorher waren nur wenige Menschen des Lesens mächtig, die Zugänglichkeit zu Literatur zog aber auch eine Veränderung des Lesens selbst nach sich. Das Lesen veränderte sich vom Vorlesen zum Stilllesen, es begann eine allgemeine Alphabetisierung, die eine Bildungsexplosion einleitete. Im Zuge dieser Alphabetisierung veränderte sich neben dem Lesen vor allem auch das Denken, die wissenschaftliche Methodik setzte sich gegen das mittelalterliche Denken in Bildern und Metaphern durch. Es wurden komplexe Vorgänge nun linear, in Form von Schrift, aufgespalten und dargestellt. Die typographischen Grundsätze der Uniformität, Kontinuität und Linearität überlagerten die komplexen Formen der alten feudalen und oralen Gesellschaft. Die geographische Verbreitung von Druckwerken forderte und förderte die Normierung und Standardisierung der Sprache bis hin zur Entwicklung von Nationalsprachen. McLuhan spricht von einer Aufsprengung der oralen Stammesorganisation hin zu einer totalen Dominanz des Auges.Das Gutenberg-Zeitalter wird auch als Periode der „Explosion“ bezeichnet. Damit ist die Ausweitung des Menschen in den Raum gemeint, allerdings ist sie noch gekennzeichnet durch ein allgemein langsames Tempo, durch eine Verzögerung der Reaktionen auf die Aktionen. Diese Verzögerung wird erst abgelöst durch das „Zeitalter der Implosion“, auch „elektronisches Zeitalter“ genannt.</value>
+</abstract>
+</XML_Serializer_Tag>
+<XML_Serializer_Tag>
+<book>
+<type>uri</type>
+<value>http://dbpedia.org/resource/The_Mechanical_Bride:_Folklore_of_Industrial_Man</value>
+</book>
+<author>
+<type>uri</type>
+<value>http://dbpedia.org/resource/Marshall_McLuhan</value>
+</author>
+<released>
+<type>typed-literal</type>
+<datatype>http://www.w3.org/2001/XMLSchema#integer</datatype>
+<value>1951</value>
+</released>
+<wikilink>
+<type>uri</type>
+<value>http://en.wikipedia.org/wiki/The_Mechanical_Bride:_Folklore_of_Industrial_Man?oldid=572061105</value>
+</wikilink>
+</XML_Serializer_Tag>
+<XML_Serializer_Tag>
+<book>
+<type>uri</type>
+<value>http://dbpedia.org/resource/Understanding_Media:_The_Extensions_of_Man</value>
+</book>
+<author>
+<type>uri</type>
+<value>http://dbpedia.org/resource/Marshall_McLuhan</value>
+</author>
+<published>
+<type>typed-literal</type>
+<datatype>http://www.w3.org/2001/XMLSchema#integer</datatype>
+<value>1964</value>
+</published>
+<wikilink>
+<type>uri</type>
+<value>http://en.wikipedia.org/wiki/Understanding_Media:_The_Extensions_of_Man?oldid=606117630</value>
+</wikilink>
+<abstract>
+<type>literal</type>
+<xml:lang>de</xml:lang>
+<value>Understanding Media: The Extensions of Man ist ein 1964 erschienenes medientheoretisches Buch von Marshall McLuhan.Das Buch ist die Quelle der Phrase „Das Medium ist die Botschaft“. Das Werk behandelte als eines der ersten seiner Art die Auswirkungen der Globalisierung auf lokale Kulturen. Es übte großen Einfluss auf Geisteswissenschaftler, Schriftsteller und Sozialtheoretiker aus.</value>
+</abstract>
+</XML_Serializer_Tag>
+<XML_Serializer_Tag>
+<book>
+<type>uri</type>
+<value>http://dbpedia.org/resource/The_Medium_Is_the_Massage</value>
+</book>
+<author>
+<type>uri</type>
+<value>http://dbpedia.org/resource/Marshall_McLuhan</value>
+</author>
+<wikilink>
+<type>uri</type>
+<value>http://en.wikipedia.org/wiki/The_Medium_Is_the_Massage?oldid=605050354</value>
+</wikilink>
+</XML_Serializer_Tag>
+</books>
+</Person>

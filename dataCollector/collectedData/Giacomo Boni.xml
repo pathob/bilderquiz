@@ -1,0 +1,25 @@
+<Person>
+<name>Giacomo Boni</name>
+<variantName />
+<thumbnail>https://commons.wikimedia.org/wiki/Special:FilePath/Giacomo_Boni.jpg?width=270</thumbnail>
+<birthEN>1859</birthEN>
+<birthDE>1859</birthDE>
+<deathEN>1925</deathEN>
+<deathDE>1925</deathDE>
+<birthPlace>
+<XML_Serializer_Tag>Venedig</XML_Serializer_Tag>
+</birthPlace>
+<deathPlace>
+<XML_Serializer_Tag>Rom</XML_Serializer_Tag>
+</deathPlace>
+<professionOrOccupation>
+<XML_Serializer_Tag>Archäologe</XML_Serializer_Tag>
+<XML_Serializer_Tag>Architekt</XML_Serializer_Tag>
+</professionOrOccupation>
+<dbpResource>http://dbpedia.org/resource/Giacomo_Boni_(archaeologist)</dbpResource>
+<abstract>Giacomo Boni (* 25. April 1859 in Venedig; † 19. Juli 1925 in Rom) war ein italienischer Klassischer Archäologe und Architekt. Von 1898 bis zu seinem Tod war er Leiter der Ausgrabungen auf dem Forum Romanum in Rom. Intensiv an römischer Religion interessiert, versuchte er, eine Wiederbelebung antiker Kulte herbeizuführen. Unterstützung hierbei erhoffte er sich von Benito Mussolini und den italienischen Faschisten. Seine Interessen waren weit gespannt und er beschäftigte sich neben seiner archäologischen Forschung mit Botanik, Geologie und Literatur.</abstract>
+<wikilink>http://en.wikipedia.org/wiki/Giacomo_Boni_(archaeologist)?oldid=604426025</wikilink>
+<artworks />
+<buildings />
+<books />
+</Person>

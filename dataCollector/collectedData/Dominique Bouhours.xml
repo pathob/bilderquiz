@@ -1,0 +1,30 @@
+<Person>
+<name>Dominique Bouhours</name>
+<variantName>
+<XML_Serializer_Tag>Dominik Bouhours</XML_Serializer_Tag>
+<XML_Serializer_Tag>... Bouhours</XML_Serializer_Tag>
+<XML_Serializer_Tag>B...</XML_Serializer_Tag>
+<XML_Serializer_Tag>P. Bouhours</XML_Serializer_Tag>
+<XML_Serializer_Tag>Dominicus Bouhours</XML_Serializer_Tag>
+</variantName>
+<thumbnail>https://commons.wikimedia.org/wiki/Special:FilePath/Dominique_Bouhours_(1628-1702).jpg?width=270</thumbnail>
+<birthEN>1628</birthEN>
+<birthDE>1628</birthDE>
+<deathEN>1702</deathEN>
+<deathDE>1702</deathDE>
+<birthPlace>
+<XML_Serializer_Tag>Paris</XML_Serializer_Tag>
+</birthPlace>
+<deathPlace>
+<XML_Serializer_Tag>Paris</XML_Serializer_Tag>
+</deathPlace>
+<professionOrOccupation>
+<XML_Serializer_Tag>Schriftsteller</XML_Serializer_Tag>
+</professionOrOccupation>
+<dbpResource>http://dbpedia.org/resource/Dominique_Bouhours</dbpResource>
+<abstract>Dominique Bouhours (* 15. Mai 1628 in Paris; † 27. Mai 1702 in Paris) war ein französischer Jesuitenpriester, Philologe, Historiker und Verfasser religiöser Werke. Er beeinflusste wichtige Autoren der französischen Klassik wie Boileau, La Bruyère und Racine.Zusammen mit Michel Le Tellier und Pierre Besnier erarbeitete er eine Übersetzung des Neuen Testaments ins Französische nach der Vulgata, die 1686 unter dem Titel Le Nouveau Testament de Nostre Seigneur Jesus-Christ in Paris gedruckt wurde.</abstract>
+<wikilink>http://en.wikipedia.org/wiki/Dominique_Bouhours?oldid=604004531</wikilink>
+<artworks />
+<buildings />
+<books />
+</Person>

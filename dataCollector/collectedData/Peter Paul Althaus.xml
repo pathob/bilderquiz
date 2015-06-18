@@ -1,0 +1,30 @@
+<Person>
+<name>Peter Paul Althaus</name>
+<variantName>
+<XML_Serializer_Tag>Peter P. Althaus</XML_Serializer_Tag>
+<XML_Serializer_Tag>P. P. Althaus</XML_Serializer_Tag>
+<XML_Serializer_Tag>PPA</XML_Serializer_Tag>
+<XML_Serializer_Tag>Paul Althaus</XML_Serializer_Tag>
+</variantName>
+<thumbnail>https://commons.wikimedia.org/wiki/Special:FilePath/PeterPaulAlthaus.jpg?width=270</thumbnail>
+<birthEN>July 28, 1892</birthEN>
+<birthDE>28. Juli 1892</birthDE>
+<deathEN>September 16, 1965</deathEN>
+<deathDE>16. September 1965</deathDE>
+<birthPlace>
+<XML_Serializer_Tag>Münster</XML_Serializer_Tag>
+</birthPlace>
+<deathPlace />
+<professionOrOccupation>
+<XML_Serializer_Tag>Apotheker</XML_Serializer_Tag>
+<XML_Serializer_Tag>Schriftsteller</XML_Serializer_Tag>
+<XML_Serializer_Tag>Redakteur</XML_Serializer_Tag>
+<XML_Serializer_Tag>Kabarettist</XML_Serializer_Tag>
+</professionOrOccupation>
+<dbpResource>http://dbpedia.org/resource/Peter_Paul_Althaus</dbpResource>
+<abstract>Peter Paul Althaus (* 28. Juli 1892 in Münster; † 16. September 1965 in München) war ein deutscher Schriftsteller und Kabarettist, besonders bekannt für seine Traumstadtgedichte.</abstract>
+<wikilink>http://en.wikipedia.org/wiki/Peter_Paul_Althaus?oldid=606729344</wikilink>
+<artworks />
+<buildings />
+<books />
+</Person>

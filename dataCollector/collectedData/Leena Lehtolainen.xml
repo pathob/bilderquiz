@@ -1,0 +1,23 @@
+<Person>
+<name>Leena Lehtolainen</name>
+<variantName />
+<thumbnail>https://commons.wikimedia.org/wiki/Special:FilePath/Leena_Lehtolainen_2010.jpg?width=270</thumbnail>
+<birthEN>1964</birthEN>
+<birthDE>1964</birthDE>
+<deathEN />
+<deathDE />
+<birthPlace>
+<XML_Serializer_Tag>Vesanto</XML_Serializer_Tag>
+</birthPlace>
+<deathPlace />
+<professionOrOccupation>
+<XML_Serializer_Tag>Schriftstellerin</XML_Serializer_Tag>
+<XML_Serializer_Tag>Kritikerin</XML_Serializer_Tag>
+</professionOrOccupation>
+<dbpResource>http://dbpedia.org/resource/Leena_Lehtolainen</dbpResource>
+<abstract>Leena Katriina Lehtolainen (* 11. März 1964 in Vesanto, Finnland) ist eine finnische Schriftstellerin.</abstract>
+<wikilink>http://en.wikipedia.org/wiki/Leena_Lehtolainen?oldid=604035096</wikilink>
+<artworks />
+<buildings />
+<books />
+</Person>

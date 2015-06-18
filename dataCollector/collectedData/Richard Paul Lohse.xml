@@ -19,8 +19,10 @@
 <XML_Serializer_Tag>Maler</XML_Serializer_Tag>
 <XML_Serializer_Tag>Graphiker</XML_Serializer_Tag>
 </professionOrOccupation>
-<artworks />
 <dbpResource>http://dbpedia.org/resource/Richard_Paul_Lohse</dbpResource>
 <abstract>Richard Paul Lohse (* 13. September 1902 in Zürich; † 16. September 1988 in Zürich) war ein Schweizer Maler und Grafiker und einer der Hauptvertreter der konkreten und konstruktiven Kunst.</abstract>
 <wikilink>http://en.wikipedia.org/wiki/Richard_Paul_Lohse?oldid=602967921</wikilink>
+<artworks />
+<buildings />
+<books />
 </Person>

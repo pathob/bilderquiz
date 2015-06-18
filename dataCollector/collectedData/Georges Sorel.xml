@@ -1,0 +1,52 @@
+<Person>
+<name>Georges Sorel</name>
+<variantName>
+<XML_Serializer_Tag>Georges-Eugène Sorel</XML_Serializer_Tag>
+<XML_Serializer_Tag>Georges Eugène Sorel</XML_Serializer_Tag>
+<XML_Serializer_Tag>G. Sorel</XML_Serializer_Tag>
+<XML_Serializer_Tag>Giorgio Sorel</XML_Serializer_Tag>
+<XML_Serializer_Tag>George Sorel</XML_Serializer_Tag>
+<XML_Serializer_Tag>Jorge Sorel</XML_Serializer_Tag>
+</variantName>
+<thumbnail>https://commons.wikimedia.org/wiki/Special:FilePath/Georges_Sorel.jpg?width=270</thumbnail>
+<birthEN>November 2, 1847</birthEN>
+<birthDE>2. November 1847</birthDE>
+<deathEN>August 30, 1922</deathEN>
+<deathDE>30. August 1922</deathDE>
+<birthPlace>
+<XML_Serializer_Tag>Cherbourg</XML_Serializer_Tag>
+</birthPlace>
+<deathPlace>
+<XML_Serializer_Tag>Boulogne-sur-Seine</XML_Serializer_Tag>
+</deathPlace>
+<professionOrOccupation>
+<XML_Serializer_Tag>Publizist</XML_Serializer_Tag>
+<XML_Serializer_Tag>Philosoph</XML_Serializer_Tag>
+</professionOrOccupation>
+<dbpResource>http://dbpedia.org/resource/Georges_Sorel</dbpResource>
+<abstract>Georges Eugène Sorel (* 2. November 1847 in Cherbourg; † 29. August 1922 in Boulogne-sur-Seine) war ein französischer Sozialphilosoph und Vordenker des Syndikalismus.Sorel lehnte die liberale Demokratie ab, gab aber ansonsten kein genaues politische Ziel vor. Gewalt bewertete er positiv, da sie der Gesellschaft Kraft zurückgebe und den Verfall der Sitten aufhalte.</abstract>
+<wikilink>http://en.wikipedia.org/wiki/Georges_Sorel?oldid=604425852</wikilink>
+<artworks />
+<buildings />
+<books>
+<XML_Serializer_Tag>
+<book>
+<type>uri</type>
+<value>http://dbpedia.org/resource/Reflections_on_Violence</value>
+</book>
+<author>
+<type>uri</type>
+<value>http://dbpedia.org/resource/Georges_Sorel</value>
+</author>
+<released>
+<type>typed-literal</type>
+<datatype>http://www.w3.org/2001/XMLSchema#integer</datatype>
+<value>1908</value>
+</released>
+<wikilink>
+<type>uri</type>
+<value>http://en.wikipedia.org/wiki/Reflections_on_Violence?oldid=587787788</value>
+</wikilink>
+</XML_Serializer_Tag>
+</books>
+</Person>

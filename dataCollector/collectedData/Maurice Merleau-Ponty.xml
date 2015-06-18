@@ -1,0 +1,54 @@
+<Person>
+<name>Maurice Merleau-Ponty</name>
+<variantName>
+<XML_Serializer_Tag>Maurice Merleau-Ponty</XML_Serializer_Tag>
+<XML_Serializer_Tag>M. Merleau-Ponty</XML_Serializer_Tag>
+<XML_Serializer_Tag>Maurice Jean-Jaques Merleau-Ponty</XML_Serializer_Tag>
+<XML_Serializer_Tag>Maurice Jean-Jacques Merleau-Ponty</XML_Serializer_Tag>
+<XML_Serializer_Tag>Jean Jacques Maurice Merleau-Ponty</XML_Serializer_Tag>
+<XML_Serializer_Tag>Jean-Jacques Maurice Merleau-Ponty</XML_Serializer_Tag>
+<XML_Serializer_Tag>Maurice Merleau Ponty</XML_Serializer_Tag>
+<XML_Serializer_Tag>M. Merleau-Ponty</XML_Serializer_Tag>
+</variantName>
+<thumbnail>https://de.wikipedia.org/wiki/Special:FilePath/Merleauponty.JPG?width=270</thumbnail>
+<birthEN>March 14, 1908</birthEN>
+<birthDE>14. März 1908</birthDE>
+<deathEN>May 3, 1961</deathEN>
+<deathDE>3. Mai 1961</deathDE>
+<birthPlace>
+<XML_Serializer_Tag>Rochefort-sur-Mer</XML_Serializer_Tag>
+</birthPlace>
+<deathPlace>
+<XML_Serializer_Tag>Paris</XML_Serializer_Tag>
+</deathPlace>
+<professionOrOccupation>
+<XML_Serializer_Tag>Philosoph</XML_Serializer_Tag>
+</professionOrOccupation>
+<dbpResource>http://dbpedia.org/resource/Maurice_Merleau-Ponty</dbpResource>
+<abstract>Maurice Merleau-Ponty (* 14. März 1908 in Rochefort-sur-Mer; † 3. Mai 1961 in Paris) war ein französischer Philosoph und Phänomenologe.</abstract>
+<wikilink>http://en.wikipedia.org/wiki/Maurice_Merleau-Ponty?oldid=603775302</wikilink>
+<artworks />
+<buildings />
+<books>
+<XML_Serializer_Tag>
+<book>
+<type>uri</type>
+<value>http://dbpedia.org/resource/Phenomenology_of_Perception</value>
+</book>
+<author>
+<type>uri</type>
+<value>http://dbpedia.org/resource/Maurice_Merleau-Ponty</value>
+</author>
+<published>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>*1945 
+*1962</value>
+</published>
+<wikilink>
+<type>uri</type>
+<value>http://en.wikipedia.org/wiki/Phenomenology_of_Perception?oldid=602696309</value>
+</wikilink>
+</XML_Serializer_Tag>
+</books>
+</Person>

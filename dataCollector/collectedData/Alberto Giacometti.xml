@@ -1,0 +1,60 @@
+<Person>
+<name>Alberto Giacometti</name>
+<variantName>
+<XML_Serializer_Tag>Albert Giacometti</XML_Serializer_Tag>
+<XML_Serializer_Tag>Giovanni Alberto Giacometti</XML_Serializer_Tag>
+<XML_Serializer_Tag>Alʹberto Ďakometti</XML_Serializer_Tag>
+</variantName>
+<thumbnail>https://commons.wikimedia.org/wiki/Special:FilePath/CHF100_8_front.jpg?width=270</thumbnail>
+<birthEN>October 10, 1901</birthEN>
+<birthDE>10. Oktober 1901</birthDE>
+<deathEN>January 11, 1966</deathEN>
+<deathDE>11. Januar 1966</deathDE>
+<birthPlace>
+<XML_Serializer_Tag>Borgonovo (heute Ortsteil von Stampa)</XML_Serializer_Tag>
+</birthPlace>
+<deathPlace>
+<XML_Serializer_Tag>Chur</XML_Serializer_Tag>
+</deathPlace>
+<professionOrOccupation>
+<XML_Serializer_Tag>Bildhauer</XML_Serializer_Tag>
+<XML_Serializer_Tag>Graphiker</XML_Serializer_Tag>
+<XML_Serializer_Tag>Zeichner</XML_Serializer_Tag>
+</professionOrOccupation>
+<dbpResource>http://dbpedia.org/resource/Alberto_Giacometti</dbpResource>
+<abstract>Alberto Giacometti [alˈbɛrto dʒakoˈmetti] (* 10. Oktober 1901 in Borgonovo, Gemeinde Stampa; † 11. Januar 1966 in Chur) war ein Schweizer Bildhauer, Maler und Grafiker der Moderne, der seit 1922 hauptsächlich in Paris lebte und arbeitete. Er besuchte jedoch regelmässig das heimatliche Gebirgstal Bergell, um seine Familie zu treffen und dort künstlerisch tätig zu werden.Giacometti gehört zu den bedeutendsten Bildhauern des 20. Jahrhunderts. Sein Werk ist vom Kubismus, Surrealismus und den philosophischen Fragen um die condition humaine sowie vom Existentialismus und von der Phänomenologie beeinflusst. Um 1935 gab er die surrealistischen Arbeiten auf, um sich den „Kompositionen mit Figuren“ zu widmen. Zwischen 1938 und 1944 waren die Figuren maximal sieben Zentimeter groß. Sie sollten die Distanz wiedergeben, in der er das Modell gesehen hatte. In der Nachkriegszeit entstanden Giacomettis bekannteste Werke; in den extrem langen, schlanken Skulpturen führte der Künstler seine neue Distanzerfahrung nach einem Kinobesuch aus, in der er den Unterschied zwischen seiner Sehweise und jener der Fotografie und des Films erkannte. Mit seiner subjektiven Seh-Erfahrung schuf er die Plastik nicht als körperhafte Nachbildung im realen Raum, sondern als „ein imaginäres Bild […] in ihrem gleichzeitig realen und imaginären, greifbaren und unbetretbaren Raum“.Giacomettis malerisches Œuvre war anfangs ein kleinerer Teil seines Werks. Nach 1957 trat die figurative Malerei gleichberechtigt neben die Skulptur. Seine fast monochrome Malerei der Spätzeit ist keiner Stilform der Moderne zuzurechnen.</abstract>
+<wikilink>http://en.wikipedia.org/wiki/Alberto_Giacometti?oldid=604862391</wikilink>
+<artworks>
+<XML_Serializer_Tag>
+<artwork>
+<type>uri</type>
+<value>http://dbpedia.org/resource/L&apos;Homme_qui_marche_I</value>
+</artwork>
+<thumbnail>
+<type>uri</type>
+<value>http://commons.wikimedia.org/wiki/Special:FilePath/CHF100_8_back.jpg?width=300</value>
+</thumbnail>
+<name>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>L&apos;Homme qui marche I</value>
+</name>
+<abstract>
+<type>literal</type>
+<xml:lang>de</xml:lang>
+<value>L’Homme qui marche I (deutsch: Der schreitende Mann I) ist eine lebensgrosse Plastik des Schweizer Künstlers Alberto Giacometti, die in sechs Bronzegüssen und vier Künstlerexemplaren vorliegt. Sie entstand 1960. Nach Einschätzung von Kunsthistorikern ist sie „eines der wichtigsten Werke“ von Giacometti; gleichzeitig zählt sie zu den bedeutendsten Arbeiten der Schweizer Kunst des 20. Jahrhunderts.Bei der aktuellen Banknotenserie der Schweiz wurde die 1998 herausgegebene 100-Franken-Note zu Ehren von Alberto Giacometti gestaltet; die Vorderseite enthält ein Porträt des Künstlers und auf der Rückseite ist neben zwei weiteren Werken seine Plastik L’Homme qui marche I in vier verschiedenen Perspektiven abgebildet.</value>
+</abstract>
+<wikilink>
+<type>uri</type>
+<value>http://en.wikipedia.org/wiki/L&apos;Homme_qui_marche_I?oldid=604946817</value>
+</wikilink>
+<type>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>Bronze</value>
+</type>
+</XML_Serializer_Tag>
+</artworks>
+<buildings />
+<books />
+</Person>

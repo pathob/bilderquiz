@@ -12,8 +12,10 @@
 <XML_Serializer_Tag>Künstler</XML_Serializer_Tag>
 <XML_Serializer_Tag>Maler</XML_Serializer_Tag>
 </professionOrOccupation>
-<artworks />
 <dbpResource>http://dbpedia.org/resource/Peter_Doig</dbpResource>
 <abstract>Peter Doig (* 17. April 1959 in Edinburgh) ist ein schottischer Maler.</abstract>
 <wikilink>http://en.wikipedia.org/wiki/Peter_Doig?oldid=604701418</wikilink>
+<artworks />
+<buildings />
+<books />
 </Person>

@@ -1,0 +1,25 @@
+<Person>
+<name>Bruno Gironcoli</name>
+<variantName />
+<thumbnail>https://commons.wikimedia.org/wiki/Special:FilePath/Klagenfurt_Hauptbahnhof_Vorplatz_Gironcoli_Plastik_01.jpg?width=270</thumbnail>
+<birthEN>September 29, 1936</birthEN>
+<birthDE>29. September 1936</birthDE>
+<deathEN>February 19, 2010</deathEN>
+<deathDE>19. Februar 2010</deathDE>
+<birthPlace>
+<XML_Serializer_Tag>Villach</XML_Serializer_Tag>
+</birthPlace>
+<deathPlace>
+<XML_Serializer_Tag>Wien</XML_Serializer_Tag>
+</deathPlace>
+<professionOrOccupation>
+<XML_Serializer_Tag>Künstler</XML_Serializer_Tag>
+<XML_Serializer_Tag>Bildhauer</XML_Serializer_Tag>
+</professionOrOccupation>
+<dbpResource>http://dbpedia.org/resource/Bruno_Gironcoli</dbpResource>
+<abstract>Bruno Gironcoli (* 27. September 1936 in Villach; † 19. Februar 2010 in Wien) war ein österreichischer Maler und Bildhauer.</abstract>
+<wikilink>http://en.wikipedia.org/wiki/Bruno_Gironcoli?oldid=599497918</wikilink>
+<artworks />
+<buildings />
+<books />
+</Person>

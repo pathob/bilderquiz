@@ -1,0 +1,42 @@
+<Person>
+<name>Adam Smith</name>
+<variantName />
+<thumbnail>https://commons.wikimedia.org/wiki/Special:FilePath/AdamSmith.jpg?width=270</thumbnail>
+<birthEN>1723</birthEN>
+<birthDE>1723</birthDE>
+<deathEN>1790</deathEN>
+<deathDE>1790</deathDE>
+<birthPlace />
+<deathPlace />
+<professionOrOccupation>
+<XML_Serializer_Tag>Philosoph</XML_Serializer_Tag>
+<XML_Serializer_Tag>Volkswirt</XML_Serializer_Tag>
+<XML_Serializer_Tag>Wirtschaftswissenschaftler</XML_Serializer_Tag>
+</professionOrOccupation>
+<dbpResource>http://dbpedia.org/resource/Adam_Smith</dbpResource>
+<abstract>Adam Smith [smɪθ], FRSA (getauft am 5. Junijul./ 16. Juni 1723greg. in Kirkcaldy, Grafschaft Fife, Schottland; † 17. Juli 1790 in Edinburgh) war ein schottischer Moralphilosoph, Aufklärer und gilt als Begründer der klassischen Nationalökonomie.</abstract>
+<wikilink>http://en.wikipedia.org/wiki/Adam_Smith?oldid=605728556</wikilink>
+<artworks />
+<buildings />
+<books>
+<XML_Serializer_Tag>
+<book>
+<type>uri</type>
+<value>http://dbpedia.org/resource/The_Theory_of_Moral_Sentiments</value>
+</book>
+<author>
+<type>uri</type>
+<value>http://dbpedia.org/resource/Adam_Smith</value>
+</author>
+<wikilink>
+<type>uri</type>
+<value>http://en.wikipedia.org/wiki/The_Theory_of_Moral_Sentiments?oldid=604896102</value>
+</wikilink>
+<abstract>
+<type>literal</type>
+<xml:lang>de</xml:lang>
+<value>Theorie der ethischen Gefühle (engl. The Theory of Moral Sentiments) ist ein erstmals 1759 in London in zwei Bänden veröffentlichtes philosophisches Werk von Adam Smith. Er erklärt darin umfassend, aus welchen Gründen es den Menschen möglich sei, füreinander das Gefühl des Mitgefühls zu empfinden. Smith erläutert ausführlich seine Konzeption vom Wesen des Menschen. Darauf baut er die These auf, dass moralische Regeln die Mittel sind, um dieses Wesen in der Wirklichkeit zu praktizieren. Zur Beschreibung der Zusammenhänge konstruiert Smith eine fiktive Figur: den „unparteiischen Beobachter“ (the impartial spectator). Smith geht von der sensiblen Kommunikation der Menschen aus, die sich gegenseitig beobachten, wenn sie miteinander umgehen. In diesem Umgang wird den Menschen durch Erfahrung vermittelt, dass sich die Moral aus der Ähnlichkeit des gegenseitigen Empfindens von Lust, Leid, Pflichtgefühl u. a. ergibt. Die Handlungsweise eines Menschen wird nach Smith in diesem Umgang miteinander dann gebilligt (d. h. in seinem Urteil über das Handeln angenommen), wenn sie auf anständigen und rechtmäßigen Motiven beruht – nicht aber deshalb, weil sie für die Menschen einfach nur von Nutzen ist.Der Umstand, dass sich die Menschen gegenseitig nach ihren Vorstellungen, also fiktiv, beobachten, treibt sie dazu, sich anständig zu verhalten oder dies zumindest nach außen hin vorzugeben. Für ein tatsächliches Verhalten, welches als recht und billig angesehen wird, müssen sie allerdings ihre Eigenliebe überwinden. In der Konstruktion des unparteiischen Beobachters wird bei Smith ein Begründungsinhalt in einer „Kollektivgestalt“ geschaffen, die entscheidet, was als „fair und anständig“ anzunehmen ist. Dieser Begründungsinhalt manifestiert einen common sense (einen gesunden Menschenverstand), einen Standpunkt, den die Menschen als gemeinsame Basis akzeptieren, sodass dieser fiktive Beobachter in seiner Haltung nicht als Außenstehender wirkt. Während das Prinzip der Sympathie dem Menschen ermöglicht, die Motive des anderen zu billigen oder nicht zu billigen, erlaubt ihm der unparteiische Beobachter, seine eigenen Motive und sein eigenes Verhalten einer moralischen Bewertung zu unterziehen. Während Sympathie als Fundament der Smith&apos;schen Moraltheorie gesehen werden kann und die Frage beantwortet, welches Prinzip bestimmte Handlungen, Motive etc. als moralisch gut erscheinen lässt, ist der unparteiische Beobachter das Kriterium für Moral und beantwortet die Frage: Welches Verhalten verdient moralische Billigung? Allerdings wird nach Smith dieser Vorstellung nur dann eine bestimmte Geltung zukommen, wenn der Mensch auch den Willen zur Empathie aufbringt, sich in die Rolle des anderen zu versetzen, dem die Sympathie entgegengebracht werden soll.</value>
+</abstract>
+</XML_Serializer_Tag>
+</books>
+</Person>

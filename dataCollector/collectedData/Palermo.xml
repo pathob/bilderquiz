@@ -26,8 +26,10 @@
 <XML_Serializer_Tag>Zeichner</XML_Serializer_Tag>
 <XML_Serializer_Tag>Graphiker</XML_Serializer_Tag>
 </professionOrOccupation>
-<artworks />
 <dbpResource>http://dbpedia.org/resource/Blinky_Palermo</dbpResource>
 <abstract>Blinky Palermo (* 2. Juni 1943 in Leipzig; † 17. Februar 1977 in Kurumba, Malediven, ursprünglich Peter Heisterkamp) war ein deutscher Maler, Environment- und Objektkünstler.</abstract>
 <wikilink>http://en.wikipedia.org/wiki/Blinky_Palermo?oldid=599806446</wikilink>
+<artworks />
+<buildings />
+<books />
 </Person>

@@ -13,8 +13,10 @@
 <professionOrOccupation>
 <XML_Serializer_Tag>Maler</XML_Serializer_Tag>
 </professionOrOccupation>
-<artworks />
 <dbpResource>http://dbpedia.org/resource/Constant_Troyon</dbpResource>
 <abstract>Constant Troyon (* 28. August 1810 in Sévres bei Paris; † 21. Februar 1865 in Paris) war ein französischer Landschafts- und Tiermaler, der der Schule von Barbizon zugerechnet wird.</abstract>
 <wikilink>http://en.wikipedia.org/wiki/Constant_Troyon?oldid=597844669</wikilink>
+<artworks />
+<buildings />
+<books />
 </Person>

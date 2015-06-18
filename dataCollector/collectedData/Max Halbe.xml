@@ -1,0 +1,24 @@
+<Person>
+<name>Max Halbe</name>
+<variantName />
+<thumbnail>https://commons.wikimedia.org/wiki/Special:FilePath/Halbe_Max.JPG?width=270</thumbnail>
+<birthEN>October 4, 1865</birthEN>
+<birthDE>4. Oktober 1865</birthDE>
+<deathEN>November 30, 1944</deathEN>
+<deathDE>30. November 1944</deathDE>
+<birthPlace />
+<deathPlace>
+<XML_Serializer_Tag>Gut Neuötting, Bayern</XML_Serializer_Tag>
+</deathPlace>
+<professionOrOccupation>
+<XML_Serializer_Tag>Dramatiker</XML_Serializer_Tag>
+<XML_Serializer_Tag>Schriftsteller</XML_Serializer_Tag>
+<XML_Serializer_Tag>Regisseur</XML_Serializer_Tag>
+</professionOrOccupation>
+<dbpResource>http://dbpedia.org/resource/Max_Halbe</dbpResource>
+<abstract>Max Halbe (* 4. Oktober 1865 in Güttland bei Danzig; † 30. November 1944 in Neuötting) war ein deutscher Schriftsteller. Er gehörte zu den wichtigen Exponenten des deutschen Naturalismus.</abstract>
+<wikilink>http://en.wikipedia.org/wiki/Max_Halbe?oldid=581298497</wikilink>
+<artworks />
+<buildings />
+<books />
+</Person>

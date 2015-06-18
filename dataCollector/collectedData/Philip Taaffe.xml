@@ -13,8 +13,10 @@
 <professionOrOccupation>
 <XML_Serializer_Tag>Maler</XML_Serializer_Tag>
 </professionOrOccupation>
-<artworks />
 <dbpResource>http://dbpedia.org/resource/Philip_Taaffe</dbpResource>
 <abstract>Philip Taaffe (* 1955 in Elizabeth, New Jersey) ist ein US-amerikanischer Maler.</abstract>
 <wikilink>http://en.wikipedia.org/wiki/Philip_Taaffe?oldid=605078507</wikilink>
+<artworks />
+<buildings />
+<books />
 </Person>

@@ -1,0 +1,55 @@
+<Person>
+<name>Max Littmann</name>
+<variantName>
+<XML_Serializer_Tag>Bernhard Max Littmann</XML_Serializer_Tag>
+</variantName>
+<thumbnail>https://commons.wikimedia.org/wiki/Special:FilePath/Opera_w_Poznaniu_latem.jpg?width=270</thumbnail>
+<birthEN>January 3, 1862</birthEN>
+<birthDE>3. Januar 1862</birthDE>
+<deathEN>September 20, 1931</deathEN>
+<deathDE>20. September 1931</deathDE>
+<birthPlace>
+<XML_Serializer_Tag>Chemnitz</XML_Serializer_Tag>
+</birthPlace>
+<deathPlace>
+<XML_Serializer_Tag>München</XML_Serializer_Tag>
+</deathPlace>
+<professionOrOccupation>
+<XML_Serializer_Tag>Architekt</XML_Serializer_Tag>
+</professionOrOccupation>
+<dbpResource>http://dbpedia.org/resource/Max_Littmann</dbpResource>
+<abstract>Max Littmann (* 3. Januar 1862 in Schloßchemnitz (heute Ortsteil von Chemnitz); † 20. September 1931 in München; vollständiger Name: Bernhard Max Littmann) war ein deutscher Architekt. Am bekanntesten ist sein Münchner Hofbräuhaus, doch seine wichtigste Leistung war die Reform des Bühnenbaus.</abstract>
+<wikilink>http://en.wikipedia.org/wiki/Max_Littmann?oldid=587641946</wikilink>
+<artworks />
+<buildings>
+<XML_Serializer_Tag>
+<building>
+<type>uri</type>
+<value>http://dbpedia.org/resource/Grand_Theatre,_Pozna%C5%84</value>
+</building>
+<name>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>Grand Theatre in Poznań</value>
+</name>
+<architect>
+<type>uri</type>
+<value>http://dbpedia.org/resource/Max_Littmann</value>
+</architect>
+<thumbnail>
+<type>uri</type>
+<value>http://commons.wikimedia.org/wiki/Special:FilePath/Poznan_10-2013_img05_Grand_Theatre.jpg?width=300</value>
+</thumbnail>
+<wikilink>
+<type>uri</type>
+<value>http://en.wikipedia.org/wiki/Grand_Theatre,_Poznań?oldid=587641277</value>
+</wikilink>
+<abstract>
+<type>literal</type>
+<xml:lang>de</xml:lang>
+<value>Das Stadttheater Posen in der polnischen Stadt Posen (poln. Poznań ) wurde um 1910 vom deutschen Architekten Max Littmann als Opernhaus erbaut.Das Theater Teatr Wielki im. Stanisława Moniuszki w Poznaniu ist seit 1949 nach dem polnischen Komponisten Stanisław Moniuszko benannt.Es ist der Schauplatz der Handlung der Komödie Noch ist Polen nicht verloren des ungarischen Dramatikers Melchior Lengyel, von Ernst Lubitsch 1942 unter dem Titel Sein oder Nichtsein verfilmt.</value>
+</abstract>
+</XML_Serializer_Tag>
+</buildings>
+<books />
+</Person>

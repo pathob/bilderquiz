@@ -18,12 +18,15 @@
 <XML_Serializer_Tag>Künstler</XML_Serializer_Tag>
 <XML_Serializer_Tag>Maler</XML_Serializer_Tag>
 </professionOrOccupation>
+<dbpResource>http://dbpedia.org/resource/Adam_Elsheimer</dbpResource>
+<abstract>Adam Elsheimer (getauft am 18. März 1578 in Frankfurt am Main; † 11. Dezember 1610 in Rom) war ein bedeutender deutscher Maler des 17. Jahrhunderts.</abstract>
+<wikilink>http://en.wikipedia.org/wiki/Adam_Elsheimer?oldid=602955915</wikilink>
 <artworks>
 <XML_Serializer_Tag>
-<painting>
+<artwork>
 <type>uri</type>
 <value>http://dbpedia.org/resource/The_Flight_into_Egypt_(Elsheimer)</value>
-</painting>
+</artwork>
 <thumbnail>
 <type>uri</type>
 <value>http://commons.wikimedia.org/wiki/Special:FilePath/Adam_Elsheimer_002.jpg?width=300</value>
@@ -42,9 +45,13 @@
 <type>uri</type>
 <value>http://en.wikipedia.org/wiki/The_Flight_into_Egypt_(Elsheimer)?oldid=586450125</value>
 </wikilink>
+<type>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>Oil on copper</value>
+</type>
 </XML_Serializer_Tag>
 </artworks>
-<dbpResource>http://dbpedia.org/resource/Adam_Elsheimer</dbpResource>
-<abstract>Adam Elsheimer (getauft am 18. März 1578 in Frankfurt am Main; † 11. Dezember 1610 in Rom) war ein bedeutender deutscher Maler des 17. Jahrhunderts.</abstract>
-<wikilink>http://en.wikipedia.org/wiki/Adam_Elsheimer?oldid=602955915</wikilink>
+<buildings />
+<books />
 </Person>

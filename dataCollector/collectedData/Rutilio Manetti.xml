@@ -13,8 +13,10 @@
 <professionOrOccupation>
 <XML_Serializer_Tag>Maler</XML_Serializer_Tag>
 </professionOrOccupation>
-<artworks />
 <dbpResource>http://dbpedia.org/resource/Rutilio_di_Lorenzo_Manetti</dbpResource>
 <abstract>Rutilio di Lorenzo Manetti, meist nur Rutilio Manetti genannt (* 1571 Siena; † 22. Juli 1639 ebenda) war ein italienischer Maler.</abstract>
 <wikilink>http://en.wikipedia.org/wiki/Rutilio_di_Lorenzo_Manetti?oldid=602500033</wikilink>
+<artworks />
+<buildings />
+<books />
 </Person>

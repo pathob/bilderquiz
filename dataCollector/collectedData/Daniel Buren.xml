@@ -15,8 +15,10 @@
 <XML_Serializer_Tag>Maler</XML_Serializer_Tag>
 <XML_Serializer_Tag>Installationskünstler</XML_Serializer_Tag>
 </professionOrOccupation>
-<artworks />
 <dbpResource>http://dbpedia.org/resource/Daniel_Buren</dbpResource>
 <abstract>Daniel Buren (* 25. März 1938 in Boulogne-Billancourt bei Paris) ist französischer Maler und Bildhauer und gilt als Vertreter der analytischen Malerei und der Konzeptkunst.</abstract>
 <wikilink>http://en.wikipedia.org/wiki/Daniel_Buren?oldid=604789998</wikilink>
+<artworks />
+<buildings />
+<books />
 </Person>

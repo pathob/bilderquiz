@@ -1,0 +1,30 @@
+<Person>
+<name>Wilhelm Jordan</name>
+<variantName>
+<XML_Serializer_Tag>Wilh. Jordan</XML_Serializer_Tag>
+<XML_Serializer_Tag>Carl Friedrich Wilhelm Jordan</XML_Serializer_Tag>
+</variantName>
+<thumbnail>https://commons.wikimedia.org/wiki/Special:FilePath/Wilhelm_Jordan.jpg?width=270</thumbnail>
+<birthEN>February 8, 1819</birthEN>
+<birthDE>8. Februar 1819</birthDE>
+<deathEN>June 25, 1904</deathEN>
+<deathDE>25. Juni 1904</deathDE>
+<birthPlace>
+<XML_Serializer_Tag>Insterburg</XML_Serializer_Tag>
+</birthPlace>
+<deathPlace>
+<XML_Serializer_Tag>Frankfurt am Main</XML_Serializer_Tag>
+</deathPlace>
+<professionOrOccupation>
+<XML_Serializer_Tag>Schriftsteller</XML_Serializer_Tag>
+<XML_Serializer_Tag>Journalist</XML_Serializer_Tag>
+<XML_Serializer_Tag>Übersetzer</XML_Serializer_Tag>
+<XML_Serializer_Tag>Politiker</XML_Serializer_Tag>
+</professionOrOccupation>
+<dbpResource>http://dbpedia.org/resource/Wilhelm_Jordan_(geodesist)</dbpResource>
+<abstract>Wilhelm Jordan (* 1. März 1842 in Ellwangen, Württemberg; † 17. April 1899 in Hannover) war ein bedeutender deutscher Geodät. Er gründete die Fachrichtung Vermessungswesen (heute Geodäsie und Geoinformatik) an der Universität Hannover und das mehrbändige Handbuch der Vermessungskunde.</abstract>
+<wikilink>http://en.wikipedia.org/wiki/Wilhelm_Jordan_(geodesist)?oldid=584590951</wikilink>
+<artworks />
+<buildings />
+<books />
+</Person>

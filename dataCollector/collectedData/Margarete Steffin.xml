@@ -1,0 +1,29 @@
+<Person>
+<name>Margarete Steffin</name>
+<variantName>
+<XML_Serializer_Tag>Margarete Juul</XML_Serializer_Tag>
+<XML_Serializer_Tag>Margarete Emilie Charlotte Steffin</XML_Serializer_Tag>
+<XML_Serializer_Tag>Margarethe Steffin</XML_Serializer_Tag>
+</variantName>
+<thumbnail>https://commons.wikimedia.org/wiki/Special:FilePath/Margarete-Steffin-Gedenktafel,_Berlin-Rummelsburg,_532-638.jpg?width=270</thumbnail>
+<birthEN>March 21, 1908</birthEN>
+<birthDE>21. März 1908</birthDE>
+<deathEN>June 4, 1941</deathEN>
+<deathDE>4. Juni 1941</deathDE>
+<birthPlace>
+<XML_Serializer_Tag>Berlin-Lichtenberg</XML_Serializer_Tag>
+</birthPlace>
+<deathPlace>
+<XML_Serializer_Tag>Moskau</XML_Serializer_Tag>
+</deathPlace>
+<professionOrOccupation>
+<XML_Serializer_Tag>Schauspielerin</XML_Serializer_Tag>
+<XML_Serializer_Tag>Schriftstellerin</XML_Serializer_Tag>
+</professionOrOccupation>
+<dbpResource>http://dbpedia.org/resource/Margarete_Steffin</dbpResource>
+<abstract>Margarete Steffin (* 21. März 1908 in Rummelsburg, heute Berlin; † 4. Juni 1941 in Moskau) war eine deutsche Schauspielerin und Schriftstellerin.</abstract>
+<wikilink>http://en.wikipedia.org/wiki/Margarete_Steffin?oldid=565982022</wikilink>
+<artworks />
+<buildings />
+<books />
+</Person>

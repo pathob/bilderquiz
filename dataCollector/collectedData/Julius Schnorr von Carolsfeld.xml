@@ -30,8 +30,10 @@
 <XML_Serializer_Tag>Direktor</XML_Serializer_Tag>
 <XML_Serializer_Tag>Bibelillustrator</XML_Serializer_Tag>
 </professionOrOccupation>
-<artworks />
 <dbpResource>http://dbpedia.org/resource/Julius_Schnorr_von_Carolsfeld</dbpResource>
 <abstract>Julius Veit Hans Schnorr von Carolsfeld (* 26. März 1794 in Leipzig; † 24. Mai 1872 in Dresden) war ein Maler der deutschen Romantik. Neben Friedrich Overbeck ist er der bekannteste Maler der Nazarenischen Kunst.</abstract>
 <wikilink>http://en.wikipedia.org/wiki/Julius_Schnorr_von_Carolsfeld?oldid=600520885</wikilink>
+<artworks />
+<buildings />
+<books />
 </Person>

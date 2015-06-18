@@ -1,0 +1,29 @@
+<Person>
+<name>Hermann Landois</name>
+<variantName>
+<XML_Serializer_Tag>H. Landois</XML_Serializer_Tag>
+<XML_Serializer_Tag>H. de Iselmott</XML_Serializer_Tag>
+<XML_Serializer_Tag>Wolf, Tecklenburg, Wildgraf</XML_Serializer_Tag>
+<XML_Serializer_Tag>Wolf, Desenberge und Klusenstein, Edler</XML_Serializer_Tag>
+<XML_Serializer_Tag>Wolf Tecklenburg</XML_Serializer_Tag>
+<XML_Serializer_Tag>Natz Klutentratt</XML_Serializer_Tag>
+</variantName>
+<thumbnail>https://commons.wikimedia.org/wiki/Special:FilePath/Hermann_Landois.png?width=270</thumbnail>
+<birthEN>1835</birthEN>
+<birthDE>1835</birthDE>
+<deathEN>1905</deathEN>
+<deathDE>1905</deathDE>
+<birthPlace />
+<deathPlace />
+<professionOrOccupation>
+<XML_Serializer_Tag>Zoologe</XML_Serializer_Tag>
+<XML_Serializer_Tag>Autor</XML_Serializer_Tag>
+<XML_Serializer_Tag>Mundartschriftsteller</XML_Serializer_Tag>
+</professionOrOccupation>
+<dbpResource>http://dbpedia.org/resource/Hermann_Landois</dbpResource>
+<abstract>Hermann Landois (* 19. April 1835 in Münster (Westfalen); † 29. Januar 1905 ebenda) war ein deutscher Zoologieprofessor und Gründer des Westfälischen Zoologischen Gartens zu Münster.</abstract>
+<wikilink>http://en.wikipedia.org/wiki/Hermann_Landois?oldid=562480797</wikilink>
+<artworks />
+<buildings />
+<books />
+</Person>

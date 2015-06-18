@@ -1,0 +1,27 @@
+<Person>
+<name>Ludwig Klages</name>
+<variantName>
+<XML_Serializer_Tag>L. Kurâgesu</XML_Serializer_Tag>
+</variantName>
+<thumbnail>https://commons.wikimedia.org/wiki/Special:FilePath/Kosmiker.jpg?width=270</thumbnail>
+<birthEN>December 10, 1872</birthEN>
+<birthDE>10. Dezember 1872</birthDE>
+<deathEN>July 29, 1956</deathEN>
+<deathDE>29. Juli 1956</deathDE>
+<birthPlace>
+<XML_Serializer_Tag>Hannover</XML_Serializer_Tag>
+</birthPlace>
+<deathPlace>
+<XML_Serializer_Tag>Kirlchberg, Zürich</XML_Serializer_Tag>
+</deathPlace>
+<professionOrOccupation>
+<XML_Serializer_Tag>Philosoph</XML_Serializer_Tag>
+<XML_Serializer_Tag>Psychologe</XML_Serializer_Tag>
+</professionOrOccupation>
+<dbpResource>http://dbpedia.org/resource/Ludwig_Klages</dbpResource>
+<abstract>Friedrich Konrad Eduard Wilhelm Ludwig Klages (* 10. Dezember 1872 in Hannover; † 29. Juli 1956 in Kilchberg, Schweiz) war ein deutscher Lebensphilosoph und Psychologe sowie der Begründer der ausdruckswissenschaftlichen Graphologie. Bis heute ist er bekannt durch sein zivilisationskritisches Grußwort an den Ersten Freideutschen Jugendtag, der 1913 auf dem Hohen Meißner stattfand.</abstract>
+<wikilink>http://en.wikipedia.org/wiki/Ludwig_Klages?oldid=602241886</wikilink>
+<artworks />
+<buildings />
+<books />
+</Person>

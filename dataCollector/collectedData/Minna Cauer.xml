@@ -1,0 +1,31 @@
+<Person>
+<name>Minna Cauer</name>
+<variantName>
+<XML_Serializer_Tag>Wilhelmine Theodore Marie Cauer</XML_Serializer_Tag>
+<XML_Serializer_Tag>Wilhelmine Theodore Marie Schelle</XML_Serializer_Tag>
+<XML_Serializer_Tag>Minna Schelle</XML_Serializer_Tag>
+<XML_Serializer_Tag>Minna Latzel</XML_Serializer_Tag>
+<XML_Serializer_Tag>Wilhelmine Theodore Marie Latzel</XML_Serializer_Tag>
+</variantName>
+<thumbnail>https://commons.wikimedia.org/wiki/Special:FilePath/Anita_Augspurg_(1896).jpg?width=270</thumbnail>
+<birthEN>November 1, 1841</birthEN>
+<birthDE>1. November 1841</birthDE>
+<deathEN>August 3, 1922</deathEN>
+<deathDE>3. August 1922</deathDE>
+<birthPlace>
+<XML_Serializer_Tag>Freyenstein</XML_Serializer_Tag>
+</birthPlace>
+<deathPlace>
+<XML_Serializer_Tag>Berlin</XML_Serializer_Tag>
+</deathPlace>
+<professionOrOccupation>
+<XML_Serializer_Tag>Schriftstellerin</XML_Serializer_Tag>
+<XML_Serializer_Tag>Politikerin</XML_Serializer_Tag>
+</professionOrOccupation>
+<dbpResource>http://dbpedia.org/resource/Minna_Cauer</dbpResource>
+<abstract>Wilhelmine Minna Theodore Marie Cauer, geb. Schelle (* 1. November 1841 in Freyenstein; † 3. August 1922 in Berlin) war eine deutsche Pädagogin, Aktivistin im radikalen Flügel der bürgerlichen Frauenbewegung und Journalistin.</abstract>
+<wikilink>http://en.wikipedia.org/wiki/Minna_Cauer?oldid=545248868</wikilink>
+<artworks />
+<buildings />
+<books />
+</Person>

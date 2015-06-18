@@ -15,8 +15,10 @@
 <professionOrOccupation>
 <XML_Serializer_Tag>Maler</XML_Serializer_Tag>
 </professionOrOccupation>
-<artworks />
 <dbpResource>http://dbpedia.org/resource/Louis_Gurlitt</dbpResource>
 <abstract>Heinrich Louis Theodor Gurlitt (auch Ludwig Gurlitt; * 8. März 1812 in Altona; † 19. September 1897 in Naundorf) war ein deutsch-dänischer Maler.</abstract>
 <wikilink>http://en.wikipedia.org/wiki/Louis_Gurlitt?oldid=586388320</wikilink>
+<artworks />
+<buildings />
+<books />
 </Person>

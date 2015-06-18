@@ -1,0 +1,32 @@
+<Person>
+<name>Julius Langbehn</name>
+<variantName>
+<XML_Serializer_Tag>August J. Langbehn</XML_Serializer_Tag>
+<XML_Serializer_Tag>August Julius Langbehn</XML_Serializer_Tag>
+<XML_Serializer_Tag>Julius August Langbehn</XML_Serializer_Tag>
+<XML_Serializer_Tag>Ein Deutscher</XML_Serializer_Tag>
+<XML_Serializer_Tag>Der Rembrandtdeutsche</XML_Serializer_Tag>
+</variantName>
+<thumbnail>https://commons.wikimedia.org/wiki/Special:FilePath/Julius_Langbehn_autograph.jpg?width=270</thumbnail>
+<birthEN>March 26, 1851</birthEN>
+<birthDE>26. März 1851</birthDE>
+<deathEN>April 30, 1907</deathEN>
+<deathDE>30. April 1907</deathDE>
+<birthPlace>
+<XML_Serializer_Tag>Hadersleben</XML_Serializer_Tag>
+</birthPlace>
+<deathPlace>
+<XML_Serializer_Tag>Rosenheim</XML_Serializer_Tag>
+</deathPlace>
+<professionOrOccupation>
+<XML_Serializer_Tag>Schriftsteller</XML_Serializer_Tag>
+<XML_Serializer_Tag>Kulturphilosoph</XML_Serializer_Tag>
+<XML_Serializer_Tag>Kulturkritiker</XML_Serializer_Tag>
+</professionOrOccupation>
+<dbpResource>http://dbpedia.org/resource/Julius_Langbehn</dbpResource>
+<abstract>August Julius Langbehn (* 26. März 1851 in Hadersleben; † 30. April 1907 in Rosenheim) war ein deutscher Schriftsteller, Kulturkritiker und Philosoph. Der Nationalist und Mitbegründer eines kulturpessimistischen Antisemitismus wurde vor allem mit seinem Buch Rembrandt als Erzieher bekannt.</abstract>
+<wikilink>http://en.wikipedia.org/wiki/Julius_Langbehn?oldid=578271379</wikilink>
+<artworks />
+<buildings />
+<books />
+</Person>

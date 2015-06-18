@@ -17,8 +17,10 @@
 <professionOrOccupation>
 <XML_Serializer_Tag>Maler</XML_Serializer_Tag>
 </professionOrOccupation>
-<artworks />
 <dbpResource>http://dbpedia.org/resource/Giovanni_Giacometti</dbpResource>
 <abstract>Giovanni Giacometti (* 7. März 1868 in Stampa; † 25. Juni 1933 in Glion) war ein Schweizer Maler und Grafiker. Er führte zusammen mit seinem Freund, dem Maler Cuno Amiet, den Malstil des Post-Impressionismus in die Schweizer Kunst ein.</abstract>
 <wikilink>http://en.wikipedia.org/wiki/Giovanni_Giacometti?oldid=603045714</wikilink>
+<artworks />
+<buildings />
+<books />
 </Person>

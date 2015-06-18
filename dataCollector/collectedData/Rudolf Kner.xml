@@ -1,0 +1,28 @@
+<Person>
+<name>Rudolf Kner</name>
+<variantName>
+<XML_Serializer_Tag>Rudolph Kner</XML_Serializer_Tag>
+<XML_Serializer_Tag>R. Kner</XML_Serializer_Tag>
+</variantName>
+<thumbnail>https://commons.wikimedia.org/wiki/Special:FilePath/Rudolf_Kner_Litho.jpg?width=270</thumbnail>
+<birthEN>August 24, 1810</birthEN>
+<birthDE>24. August 1810</birthDE>
+<deathEN>October 27, 1869</deathEN>
+<deathDE>27. Oktober 1869</deathDE>
+<birthPlace>
+<XML_Serializer_Tag>Linz</XML_Serializer_Tag>
+</birthPlace>
+<deathPlace />
+<professionOrOccupation>
+<XML_Serializer_Tag>Ichthyologe</XML_Serializer_Tag>
+<XML_Serializer_Tag>Zoologe</XML_Serializer_Tag>
+<XML_Serializer_Tag>Paläontologe</XML_Serializer_Tag>
+<XML_Serializer_Tag>Lyriker</XML_Serializer_Tag>
+</professionOrOccupation>
+<dbpResource>http://dbpedia.org/resource/Rudolf_Kner</dbpResource>
+<abstract>Rudolf Kner (* 24. August 1810 in Linz; † 27. Oktober 1869 in Wien) war ein österreichischer Zoologe und Ichthyologe.</abstract>
+<wikilink>http://en.wikipedia.org/wiki/Rudolf_Kner?oldid=570923806</wikilink>
+<artworks />
+<buildings />
+<books />
+</Person>

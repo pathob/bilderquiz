@@ -1,0 +1,23 @@
+<Person>
+<name>Jakob Schaffner</name>
+<variantName>
+<XML_Serializer_Tag>Johannes Schaffner</XML_Serializer_Tag>
+<XML_Serializer_Tag>Jacob Schaffner</XML_Serializer_Tag>
+</variantName>
+<thumbnail>https://commons.wikimedia.org/wiki/Special:FilePath/JakobSchaffner.jpg?width=270</thumbnail>
+<birthEN>1875</birthEN>
+<birthDE>1875</birthDE>
+<deathEN>1944</deathEN>
+<deathDE>1944</deathDE>
+<birthPlace />
+<deathPlace />
+<professionOrOccupation>
+<XML_Serializer_Tag>Schriftsteller</XML_Serializer_Tag>
+</professionOrOccupation>
+<dbpResource>http://dbpedia.org/resource/Jakob_Schaffner</dbpResource>
+<abstract>Jakob Schaffner (* 14. November 1875 in Basel; † 25. September 1944 in Strassburg) war ein Schweizer Schriftsteller, der die nationalsozialistische Ideologie unterstützte.</abstract>
+<wikilink>http://en.wikipedia.org/wiki/Jakob_Schaffner?oldid=601608725</wikilink>
+<artworks />
+<buildings />
+<books />
+</Person>

@@ -1,0 +1,29 @@
+<Person>
+<name>Klaus Staeck</name>
+<variantName>
+<XML_Serializer_Tag>... Staeck-Adelmann</XML_Serializer_Tag>
+</variantName>
+<thumbnail>https://commons.wikimedia.org/wiki/Special:FilePath/Klaus-Staeck-Koeln-Museum-Ludwig-111209-a.jpg?width=270</thumbnail>
+<birthEN>1938</birthEN>
+<birthDE>1938</birthDE>
+<deathEN />
+<deathDE />
+<birthPlace>
+<XML_Serializer_Tag>Pulsnitz</XML_Serializer_Tag>
+</birthPlace>
+<deathPlace />
+<professionOrOccupation>
+<XML_Serializer_Tag>Rechtsanwalt</XML_Serializer_Tag>
+<XML_Serializer_Tag>Graphiker</XML_Serializer_Tag>
+<XML_Serializer_Tag>Karikaturist</XML_Serializer_Tag>
+<XML_Serializer_Tag>Verleger</XML_Serializer_Tag>
+<XML_Serializer_Tag>Künstler</XML_Serializer_Tag>
+<XML_Serializer_Tag>Mitwirkung</XML_Serializer_Tag>
+</professionOrOccupation>
+<dbpResource>http://dbpedia.org/resource/Klaus_Staeck</dbpResource>
+<abstract>Klaus Staeck (* 28. Februar 1938 in Pulsnitz) ist ein deutscher Grafikdesigner, Karikaturist und Jurist. Im April 2006 wurde er zum Präsidenten der Akademie der Künste in Berlin gewählt (2009 und 2012 Wiederwahl für eine jeweils dreijährige Amtszeit).</abstract>
+<wikilink>http://en.wikipedia.org/wiki/Klaus_Staeck?oldid=551135717</wikilink>
+<artworks />
+<buildings />
+<books />
+</Person>

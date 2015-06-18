@@ -17,8 +17,10 @@
 <XML_Serializer_Tag>Künstler</XML_Serializer_Tag>
 <XML_Serializer_Tag>Maler</XML_Serializer_Tag>
 </professionOrOccupation>
-<artworks />
 <dbpResource>http://dbpedia.org/resource/Adriaen_van_der_Werff</dbpResource>
 <abstract>Adriaen van der Werff (* 21. Januar 1659 in Kralingen-Ambacht, heute Rotterdam; † 12. November 1722 in Rotterdam) war ein niederländischer Maler.</abstract>
 <wikilink>http://en.wikipedia.org/wiki/Adriaen_van_der_Werff?oldid=601049671</wikilink>
+<artworks />
+<buildings />
+<books />
 </Person>

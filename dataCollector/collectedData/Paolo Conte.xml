@@ -13,8 +13,10 @@
 <XML_Serializer_Tag>Musiker</XML_Serializer_Tag>
 <XML_Serializer_Tag>Maler</XML_Serializer_Tag>
 </professionOrOccupation>
-<artworks />
 <dbpResource>http://dbpedia.org/resource/Paolo_Conte</dbpResource>
 <abstract>Paolo Conte (* 6. Januar 1937 in Asti) ist ein italienischer Liedermacher, Chansonsänger, Jazzmusiker und Komponist. Der Rechtsanwalt hatte außerdem bereits Ausstellungen mit seiner Druckgrafik und Malerei.</abstract>
 <wikilink>http://en.wikipedia.org/wiki/Paolo_Conte?oldid=602862827</wikilink>
+<artworks />
+<buildings />
+<books />
 </Person>

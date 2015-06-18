@@ -13,8 +13,10 @@
 <professionOrOccupation>
 <XML_Serializer_Tag>Maler</XML_Serializer_Tag>
 </professionOrOccupation>
-<artworks />
 <dbpResource>http://dbpedia.org/resource/Balthasar_Denner</dbpResource>
 <abstract>Balthasar Denner (* 15. November 1685 in Altona; † 14. April 1749 in Rostock) war ein deutscher Maler.</abstract>
 <wikilink>http://en.wikipedia.org/wiki/Balthasar_Denner?oldid=604081727</wikilink>
+<artworks />
+<buildings />
+<books />
 </Person>

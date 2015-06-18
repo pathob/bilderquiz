@@ -1,0 +1,25 @@
+<Person>
+<name>Richard Swinburne</name>
+<variantName>
+<XML_Serializer_Tag>Richard Granville Swinburne</XML_Serializer_Tag>
+<XML_Serializer_Tag>Richard G. Swinburne</XML_Serializer_Tag>
+<XML_Serializer_Tag>Richard Granville Swinburne</XML_Serializer_Tag>
+</variantName>
+<thumbnail>https://commons.wikimedia.org/wiki/Special:FilePath/Swinburne.jpg?width=270</thumbnail>
+<birthEN>1934</birthEN>
+<birthDE>1934</birthDE>
+<deathEN />
+<deathDE />
+<birthPlace />
+<deathPlace />
+<professionOrOccupation>
+<XML_Serializer_Tag>Philosoph</XML_Serializer_Tag>
+<XML_Serializer_Tag>Religionsphilosoph</XML_Serializer_Tag>
+</professionOrOccupation>
+<dbpResource>http://dbpedia.org/resource/Richard_Swinburne</dbpResource>
+<abstract>Richard Swinburne (* 26. Dezember 1934) ist ein britischer Religionsphilosoph und Professor für Religionsphilosophie an der Oxford University.</abstract>
+<wikilink>http://en.wikipedia.org/wiki/Richard_Swinburne?oldid=595252982</wikilink>
+<artworks />
+<buildings />
+<books />
+</Person>

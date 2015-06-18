@@ -1,0 +1,28 @@
+<Person>
+<name>Anders Zorn</name>
+<variantName>
+<XML_Serializer_Tag>Anders Leonard Zorn</XML_Serializer_Tag>
+<XML_Serializer_Tag>Anders Leonhard Zorn</XML_Serializer_Tag>
+<XML_Serializer_Tag>Anders Corn</XML_Serializer_Tag>
+</variantName>
+<thumbnail>https://commons.wikimedia.org/wiki/Special:FilePath/Anders_Zorn_photo.jpg?width=270</thumbnail>
+<birthEN>February 18, 1860</birthEN>
+<birthDE>18. Februar 1860</birthDE>
+<deathEN>August 22, 1920</deathEN>
+<deathDE>22. August 1920</deathDE>
+<birthPlace>
+<XML_Serializer_Tag>Yvraden</XML_Serializer_Tag>
+</birthPlace>
+<deathPlace>
+<XML_Serializer_Tag>Mora̜g</XML_Serializer_Tag>
+</deathPlace>
+<professionOrOccupation>
+<XML_Serializer_Tag>Künstler</XML_Serializer_Tag>
+</professionOrOccupation>
+<dbpResource>http://dbpedia.org/resource/Anders_Zorn</dbpResource>
+<abstract>Anders Leonard Zorn (* 18. Februar 1860 in Yvraden bei Mora; † 22. August 1920 in Mora) war ein schwedischer Maler, Grafiker und Bildhauer.</abstract>
+<wikilink>http://en.wikipedia.org/wiki/Anders_Zorn?oldid=605640247</wikilink>
+<artworks />
+<buildings />
+<books />
+</Person>

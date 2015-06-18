@@ -1,0 +1,49 @@
+<Person>
+<name>Theophrastus</name>
+<variantName>
+<XML_Serializer_Tag>Θεόφραστος</XML_Serializer_Tag>
+<XML_Serializer_Tag>Theophrastos</XML_Serializer_Tag>
+<XML_Serializer_Tag>Teofrast</XML_Serializer_Tag>
+<XML_Serializer_Tag>Teofrasto</XML_Serializer_Tag>
+<XML_Serializer_Tag>Téopŕastos</XML_Serializer_Tag>
+<XML_Serializer_Tag>Téoprastos</XML_Serializer_Tag>
+<XML_Serializer_Tag>Theophrast</XML_Serializer_Tag>
+<XML_Serializer_Tag>Theophraste</XML_Serializer_Tag>
+<XML_Serializer_Tag>Théophraste</XML_Serializer_Tag>
+<XML_Serializer_Tag>Theophrastes</XML_Serializer_Tag>
+<XML_Serializer_Tag>Theophrastus, Eresius</XML_Serializer_Tag>
+<XML_Serializer_Tag>Theophrastos, ho Eresios</XML_Serializer_Tag>
+<XML_Serializer_Tag>Theophrastus, Eresus</XML_Serializer_Tag>
+<XML_Serializer_Tag>Theophrastus, of Eresos</XML_Serializer_Tag>
+<XML_Serializer_Tag>Theophrastus, of Eresus</XML_Serializer_Tag>
+<XML_Serializer_Tag>Théophraste, d&apos;Erèse</XML_Serializer_Tag>
+<XML_Serializer_Tag>Théophraste d&apos;Erèse</XML_Serializer_Tag>
+<XML_Serializer_Tag>Eresius Theophrastus</XML_Serializer_Tag>
+<XML_Serializer_Tag>Teofrast, z Erezu</XML_Serializer_Tag>
+<XML_Serializer_Tag>Theophrastos, von Eresos</XML_Serializer_Tag>
+<XML_Serializer_Tag>Theophrastos, von Lesbos</XML_Serializer_Tag>
+<XML_Serializer_Tag>Theophrastus, of Lesbos</XML_Serializer_Tag>
+<XML_Serializer_Tag>Theophrastus, von Eresos</XML_Serializer_Tag>
+<XML_Serializer_Tag>Théophrastus, Philosophus</XML_Serializer_Tag>
+<XML_Serializer_Tag>Theophrastus, Eresius Peripateticus</XML_Serializer_Tag>
+<XML_Serializer_Tag>Theophrastos, Leiter der Peripatetischen Schule</XML_Serializer_Tag>
+<XML_Serializer_Tag>Theophrastos, Schüler des Aristoteles</XML_Serializer_Tag>
+<XML_Serializer_Tag>Theophrast</XML_Serializer_Tag>
+</variantName>
+<thumbnail>https://commons.wikimedia.org/wiki/Special:FilePath/Theophrastus.jpg?width=270</thumbnail>
+<birthEN>v369</birthEN>
+<birthDE>v369</birthDE>
+<deathEN>v288</deathEN>
+<deathDE>v288</deathDE>
+<birthPlace />
+<deathPlace />
+<professionOrOccupation>
+<XML_Serializer_Tag>Philosoph</XML_Serializer_Tag>
+</professionOrOccupation>
+<dbpResource>http://dbpedia.org/resource/Theophrastus</dbpResource>
+<abstract>Theophrastos (griech. Θεόφραστος; * um 371 v. Chr. zu Eresos auf der Insel Lesbos; † 287 v. Chr.? in Athen) war ein griechischer Philosoph und Naturforscher. Theophrastos war Schüler des Aristoteles und Leiter der peripatetischen Schule. Sein offizielles botanisches Autorenkürzel lautet „Theophr.“.</abstract>
+<wikilink>http://en.wikipedia.org/wiki/Theophrastus?oldid=590662932</wikilink>
+<artworks />
+<buildings />
+<books />
+</Person>

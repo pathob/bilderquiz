@@ -14,8 +14,10 @@
 <professionOrOccupation>
 <XML_Serializer_Tag>Maler</XML_Serializer_Tag>
 </professionOrOccupation>
-<artworks />
 <dbpResource>http://dbpedia.org/resource/Josef_Danhauser</dbpResource>
 <abstract>Josef Franz Danhauser (* 18. August 1805 in Wien; † 4. Mai 1845 ebenda) war ein österreichischer Maler und Grafiker der Biedermeierzeit.</abstract>
 <wikilink>http://en.wikipedia.org/wiki/Josef_Danhauser?oldid=570911594</wikilink>
+<artworks />
+<buildings />
+<books />
 </Person>

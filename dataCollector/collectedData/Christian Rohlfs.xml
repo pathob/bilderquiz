@@ -19,8 +19,10 @@
 <XML_Serializer_Tag>Holzschneider</XML_Serializer_Tag>
 <XML_Serializer_Tag>Zeichner</XML_Serializer_Tag>
 </professionOrOccupation>
-<artworks />
 <dbpResource>http://dbpedia.org/resource/Christian_Rohlfs</dbpResource>
 <abstract>Christian Rohlfs (* 22. November 1849 in Groß Niendorf, Kreis Segeberg; † 8. Januar 1938 in Hagen) war ein deutscher Maler der Moderne.</abstract>
 <wikilink>http://en.wikipedia.org/wiki/Christian_Rohlfs?oldid=599169519</wikilink>
+<artworks />
+<buildings />
+<books />
 </Person>

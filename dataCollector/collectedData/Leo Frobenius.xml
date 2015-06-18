@@ -1,0 +1,36 @@
+<Person>
+<name>Leo Frobenius</name>
+<variantName>
+<XML_Serializer_Tag>Leo von Frobenius</XML_Serializer_Tag>
+<XML_Serializer_Tag>Leo V. Frobenius</XML_Serializer_Tag>
+<XML_Serializer_Tag>Leo Viktor Frobenius</XML_Serializer_Tag>
+<XML_Serializer_Tag>Leo Viktor Karl August Frobenius</XML_Serializer_Tag>
+</variantName>
+<thumbnail>https://commons.wikimedia.org/wiki/Special:FilePath/Bundesarchiv_Bild_183-R29255,_Leo_Frobenius.jpg?width=270</thumbnail>
+<birthEN>June 29, 1873</birthEN>
+<birthDE>29. Juni 1873</birthDE>
+<deathEN>August 9, 1938</deathEN>
+<deathDE>9. August 1938</deathDE>
+<birthPlace>
+<XML_Serializer_Tag>Berlin</XML_Serializer_Tag>
+</birthPlace>
+<deathPlace>
+<XML_Serializer_Tag>Biganzolo</XML_Serializer_Tag>
+</deathPlace>
+<professionOrOccupation>
+<XML_Serializer_Tag>Ethnologe</XML_Serializer_Tag>
+<XML_Serializer_Tag>Afrikanist</XML_Serializer_Tag>
+<XML_Serializer_Tag>Forschungsreisender</XML_Serializer_Tag>
+<XML_Serializer_Tag>Kulturphilosoph</XML_Serializer_Tag>
+<XML_Serializer_Tag>Anthropologe</XML_Serializer_Tag>
+<XML_Serializer_Tag>Philosoph</XML_Serializer_Tag>
+<XML_Serializer_Tag>Reisender</XML_Serializer_Tag>
+<XML_Serializer_Tag>Historiker</XML_Serializer_Tag>
+</professionOrOccupation>
+<dbpResource>http://dbpedia.org/resource/Leo_Frobenius</dbpResource>
+<abstract>Leo Frobenius (* 29. Juni 1873 in Berlin; † 9. August 1938 in Biganzolo, Italien) war ein deutscher Ethnologe.</abstract>
+<wikilink>http://en.wikipedia.org/wiki/Leo_Frobenius?oldid=600665877</wikilink>
+<artworks />
+<buildings />
+<books />
+</Person>

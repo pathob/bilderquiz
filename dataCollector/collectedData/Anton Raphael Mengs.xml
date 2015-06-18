@@ -26,8 +26,10 @@
 <XML_Serializer_Tag>Künstler</XML_Serializer_Tag>
 <XML_Serializer_Tag>Maler</XML_Serializer_Tag>
 </professionOrOccupation>
-<artworks />
 <dbpResource>http://dbpedia.org/resource/Anton_Raphael_Mengs</dbpResource>
 <abstract>Anton Raphael Mengs (* 12. März 1728 in Aussig, Böhmen; † 29. Juni 1779 in Rom) war ein deutscher Maler.</abstract>
 <wikilink>http://en.wikipedia.org/wiki/Anton_Raphael_Mengs?oldid=605147081</wikilink>
+<artworks />
+<buildings />
+<books />
 </Person>

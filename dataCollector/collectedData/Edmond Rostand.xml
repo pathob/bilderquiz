@@ -1,0 +1,32 @@
+<Person>
+<name>Edmond Rostand</name>
+<variantName>
+<XML_Serializer_Tag>Edmundo Rostand</XML_Serializer_Tag>
+<XML_Serializer_Tag>Edmondo Rostand</XML_Serializer_Tag>
+<XML_Serializer_Tag>Ėdmon Rostan</XML_Serializer_Tag>
+<XML_Serializer_Tag>Edmond Eugène Alexis Rostand</XML_Serializer_Tag>
+<XML_Serializer_Tag>Idmūnd Rūstānd</XML_Serializer_Tag>
+<XML_Serializer_Tag>Idmūn Rūstān</XML_Serializer_Tag>
+</variantName>
+<thumbnail>https://commons.wikimedia.org/wiki/Special:FilePath/Edmond_Rostand_en_habit_vert_01.jpg?width=270</thumbnail>
+<birthEN>April 1, 1868</birthEN>
+<birthDE>1. April 1868</birthDE>
+<deathEN>December 2, 1918</deathEN>
+<deathDE>2. Dezember 1918</deathDE>
+<birthPlace>
+<XML_Serializer_Tag>Marseille</XML_Serializer_Tag>
+</birthPlace>
+<deathPlace>
+<XML_Serializer_Tag>Paris</XML_Serializer_Tag>
+</deathPlace>
+<professionOrOccupation>
+<XML_Serializer_Tag>Schriftsteller</XML_Serializer_Tag>
+<XML_Serializer_Tag>Dramatiker</XML_Serializer_Tag>
+</professionOrOccupation>
+<dbpResource>http://dbpedia.org/resource/Edmond_Rostand</dbpResource>
+<abstract>Edmond Eugène Alexis Rostand [rɔ&apos;stã](* 1. April 1868 in Marseille; † 2. Dezember 1918 in Paris) war ein französischer Theaterschriftsteller.</abstract>
+<wikilink>http://en.wikipedia.org/wiki/Edmond_Rostand?oldid=598582376</wikilink>
+<artworks />
+<buildings />
+<books />
+</Person>

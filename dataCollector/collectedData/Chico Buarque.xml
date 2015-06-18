@@ -1,0 +1,54 @@
+<Person>
+<name>Chico Buarque</name>
+<variantName>
+<XML_Serializer_Tag>Chico Buarque de Holanda</XML_Serializer_Tag>
+<XML_Serializer_Tag>Chico Buarque de Hollanda</XML_Serializer_Tag>
+<XML_Serializer_Tag>Francisco Buarque de Hollanda</XML_Serializer_Tag>
+<XML_Serializer_Tag>Chico Buarque de Hollanda</XML_Serializer_Tag>
+<XML_Serializer_Tag>Chico Barque</XML_Serializer_Tag>
+<XML_Serializer_Tag>Chico Chico Buarque de Hollanda</XML_Serializer_Tag>
+</variantName>
+<thumbnail>https://commons.wikimedia.org/wiki/Special:FilePath/Chico_Buarque.jpg?width=270</thumbnail>
+<birthEN>1944</birthEN>
+<birthDE>1944</birthDE>
+<deathEN />
+<deathDE />
+<birthPlace>
+<XML_Serializer_Tag>Rio de Janeiro</XML_Serializer_Tag>
+</birthPlace>
+<deathPlace />
+<professionOrOccupation>
+<XML_Serializer_Tag>Schriftsteller</XML_Serializer_Tag>
+<XML_Serializer_Tag>Komponist</XML_Serializer_Tag>
+<XML_Serializer_Tag>Sänger</XML_Serializer_Tag>
+<XML_Serializer_Tag>Lyriker</XML_Serializer_Tag>
+<XML_Serializer_Tag>Dramatiker</XML_Serializer_Tag>
+<XML_Serializer_Tag>Musiker</XML_Serializer_Tag>
+</professionOrOccupation>
+<dbpResource>http://dbpedia.org/resource/Chico_Buarque</dbpResource>
+<abstract>Chico Buarque, eigentlich Francisco Buarque de Hollanda, (* 19. Juni 1944 in Rio de Janeiro) ist ein brasilianischer Musiker und Autor.</abstract>
+<wikilink>http://en.wikipedia.org/wiki/Chico_Buarque?oldid=602759225</wikilink>
+<artworks />
+<buildings />
+<books>
+<XML_Serializer_Tag>
+<book>
+<type>uri</type>
+<value>http://dbpedia.org/resource/Spilt_Milk_(novel)</value>
+</book>
+<author>
+<type>uri</type>
+<value>http://dbpedia.org/resource/Chico_Buarque</value>
+</author>
+<released>
+<type>typed-literal</type>
+<datatype>http://www.w3.org/2001/XMLSchema#integer</datatype>
+<value>2009</value>
+</released>
+<wikilink>
+<type>uri</type>
+<value>http://en.wikipedia.org/wiki/Spilt_Milk_(novel)?oldid=570574431</value>
+</wikilink>
+</XML_Serializer_Tag>
+</books>
+</Person>

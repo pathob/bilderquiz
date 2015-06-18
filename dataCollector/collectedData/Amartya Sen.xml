@@ -1,0 +1,54 @@
+<Person>
+<name>Amartya Sen</name>
+<variantName>
+<XML_Serializer_Tag>Amartya Kumar Sen</XML_Serializer_Tag>
+<XML_Serializer_Tag>Amartya Kumar Sen</XML_Serializer_Tag>
+<XML_Serializer_Tag>Amartya Sen</XML_Serializer_Tag>
+<XML_Serializer_Tag>Amartya Sena</XML_Serializer_Tag>
+<XML_Serializer_Tag>A. K. Sen</XML_Serializer_Tag>
+<XML_Serializer_Tag>Amartya K. Sen</XML_Serializer_Tag>
+<XML_Serializer_Tag>Amartya Sena</XML_Serializer_Tag>
+<XML_Serializer_Tag>Amattaya Sen</XML_Serializer_Tag>
+<XML_Serializer_Tag>Amadiya Sen</XML_Serializer_Tag>
+<XML_Serializer_Tag>Amadiya Sen</XML_Serializer_Tag>
+</variantName>
+<thumbnail>https://commons.wikimedia.org/wiki/Special:FilePath/Amartya_Sen_20071128_cologne.jpg?width=270</thumbnail>
+<birthEN>1933</birthEN>
+<birthDE>1933</birthDE>
+<deathEN />
+<deathDE />
+<birthPlace>
+<XML_Serializer_Tag>Śantiniketan</XML_Serializer_Tag>
+</birthPlace>
+<deathPlace />
+<professionOrOccupation>
+<XML_Serializer_Tag>Wirtschaftswissenschaftler</XML_Serializer_Tag>
+<XML_Serializer_Tag>Philosoph</XML_Serializer_Tag>
+</professionOrOccupation>
+<dbpResource>http://dbpedia.org/resource/Amartya_Sen</dbpResource>
+<abstract>Amartya Kumar Sen CH (Bengalisch: অমর্ত্য সেন Amartya Sen; * 3. November 1933 in Shantiniketan, Westbengalen) ist ein indischer Wirtschaftswissenschaftler und Philosoph. Zu seinen Forschungsschwerpunkten gehören die Problematik der Armut und die Wohlfahrtsökonomie. Er ist Professor der Wirtschaftswissenschaften an der Harvard University in Cambridge (Massachusetts).1998 erhielt Sen den Preis für Wirtschaftswissenschaften der schwedischen Reichsbank im Gedenken an Alfred Nobel für seine Arbeiten zur Wohlfahrtsökonomie, zur Theorie der wirtschaftlichen Entwicklung und zum Lebensstandard.Bahnbrechend waren außerdem seine Beiträge zur Interdependenz von ökonomischer Freiheit, sozialer Chancen und Sicherheit und politischer Freiheit (Demokratie), dem Zusammenhang zur Armutsbekämpfung und zur Theorie der kollektiven Entscheidungen. Er gilt als einer der schärfsten Kritiker der Public Choice Theory.Auf Sens Vorschläge geht die Einrichtung des Human Development Index zurück, den das Entwicklungsprogramm der Vereinten Nationen seit 1990 regelmäßig aktualisiert herausgibt. Die Wohlfahrtsfunktion ist ein weiterer Vorschlag Sens. Auch ist der Sen-Index nach ihm benannt.</abstract>
+<wikilink>http://en.wikipedia.org/wiki/Amartya_Sen?oldid=606110293</wikilink>
+<artworks />
+<buildings />
+<books>
+<XML_Serializer_Tag>
+<book>
+<type>uri</type>
+<value>http://dbpedia.org/resource/The_Argumentative_Indian</value>
+</book>
+<author>
+<type>uri</type>
+<value>http://dbpedia.org/resource/Amartya_Sen</value>
+</author>
+<released>
+<type>typed-literal</type>
+<datatype>http://www.w3.org/2001/XMLSchema#date</datatype>
+<value>2005-06-02+02:00</value>
+</released>
+<wikilink>
+<type>uri</type>
+<value>http://en.wikipedia.org/wiki/The_Argumentative_Indian?oldid=604816261</value>
+</wikilink>
+</XML_Serializer_Tag>
+</books>
+</Person>

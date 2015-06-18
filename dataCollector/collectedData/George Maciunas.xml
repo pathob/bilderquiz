@@ -1,0 +1,28 @@
+<Person>
+<name>George Maciunas</name>
+<variantName>
+<XML_Serializer_Tag>Yurgis Maciunas</XML_Serializer_Tag>
+<XML_Serializer_Tag>George F. Maciunas</XML_Serializer_Tag>
+<XML_Serializer_Tag>Jurgis Mačiūnas</XML_Serializer_Tag>
+</variantName>
+<thumbnail>https://en.wikipedia.org/wiki/Special:FilePath/Mr-fluxus.jpg?width=270</thumbnail>
+<birthEN>November 8, 1931</birthEN>
+<birthDE>8. November 1931</birthDE>
+<deathEN>May 9, 1978</deathEN>
+<deathDE>9. Mai 1978</deathDE>
+<birthPlace>
+<XML_Serializer_Tag>Kaunas</XML_Serializer_Tag>
+</birthPlace>
+<deathPlace>
+<XML_Serializer_Tag>Boston, Mass.</XML_Serializer_Tag>
+</deathPlace>
+<professionOrOccupation>
+<XML_Serializer_Tag>Künstler</XML_Serializer_Tag>
+</professionOrOccupation>
+<dbpResource>http://dbpedia.org/resource/George_Maciunas</dbpResource>
+<abstract>George Maciunas (Jurgis Mačiūnas) (* 8. November 1931 in Kaunas; † 9. Mai 1978 in Boston) war ein US-amerikanischer Künstler litauischer Abstammung. Er war Mitbegründer, Theoretiker und Propagandist der Fluxusbewegung.</abstract>
+<wikilink>http://en.wikipedia.org/wiki/George_Maciunas?oldid=605982912</wikilink>
+<artworks />
+<buildings />
+<books />
+</Person>

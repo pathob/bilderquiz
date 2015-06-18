@@ -17,8 +17,10 @@
 <XML_Serializer_Tag>Künstler</XML_Serializer_Tag>
 <XML_Serializer_Tag>Maler</XML_Serializer_Tag>
 </professionOrOccupation>
-<artworks />
 <dbpResource>http://dbpedia.org/resource/Philipp_Uffenbach</dbpResource>
 <abstract>Philipp Uffenbach (* 15. Januar 1566 in Frankfurt am Main; † (begraben) 6. April 1636 in Frankfurt am Main) war ein deutscher Maler, Zeichner, Aquarellist, Radierer und Kupferstecher in der Nachfolge von Matthias Grünewald und Albrecht Dürer.</abstract>
 <wikilink>http://en.wikipedia.org/wiki/Philipp_Uffenbach?oldid=601629130</wikilink>
+<artworks />
+<buildings />
+<books />
 </Person>

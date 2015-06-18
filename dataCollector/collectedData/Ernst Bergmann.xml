@@ -1,0 +1,28 @@
+<Person>
+<name>Ernst Bergmann</name>
+<variantName>
+<XML_Serializer_Tag>Karl Ernst Theodor</XML_Serializer_Tag>
+<XML_Serializer_Tag>Ernst Karl Theodor Bergmann</XML_Serializer_Tag>
+<XML_Serializer_Tag>Karl Ernst Theodor Bergmann</XML_Serializer_Tag>
+<XML_Serializer_Tag>Egon Bergmann</XML_Serializer_Tag>
+</variantName>
+<thumbnail>https://en.wikipedia.org/wiki/Special:FilePath/Ernst_Bergmann_(philosopher).jpg?width=270</thumbnail>
+<birthEN>August 7, 1881</birthEN>
+<birthDE>7. August 1881</birthDE>
+<deathEN>1945</deathEN>
+<deathDE>1945</deathDE>
+<birthPlace>
+<XML_Serializer_Tag>Colditz</XML_Serializer_Tag>
+</birthPlace>
+<deathPlace />
+<professionOrOccupation>
+<XML_Serializer_Tag>Nationalsozialist</XML_Serializer_Tag>
+<XML_Serializer_Tag>Philosoph</XML_Serializer_Tag>
+</professionOrOccupation>
+<dbpResource>http://dbpedia.org/resource/Ernst_Bergmann_(philosopher)</dbpResource>
+<abstract>Ernst Bergmann (* 7. August 1881 in Colditz; † 16. April 1945 in Naumburg) war ein deutscher Professor für Philosophie und Pädagogik sowie ein engagierter Nationalsozialist.</abstract>
+<wikilink>http://en.wikipedia.org/wiki/Ernst_Bergmann_(philosopher)?oldid=598670871</wikilink>
+<artworks />
+<buildings />
+<books />
+</Person>

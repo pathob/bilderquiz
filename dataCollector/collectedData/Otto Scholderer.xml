@@ -17,8 +17,10 @@
 <professionOrOccupation>
 <XML_Serializer_Tag>Maler</XML_Serializer_Tag>
 </professionOrOccupation>
-<artworks />
 <dbpResource>http://dbpedia.org/resource/Otto_Scholderer</dbpResource>
 <abstract>Franz Otto Scholderer (* 25. Januar 1834 in Frankfurt am Main; † 22. Januar 1902 ebenda) war ein deutscher Maler.</abstract>
 <wikilink>http://en.wikipedia.org/wiki/Otto_Scholderer?oldid=604375494</wikilink>
+<artworks />
+<buildings />
+<books />
 </Person>

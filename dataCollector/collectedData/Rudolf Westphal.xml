@@ -1,0 +1,32 @@
+<Person>
+<name>Rudolf Westphal</name>
+<variantName>
+<XML_Serializer_Tag>Rudolf Georg Westphal</XML_Serializer_Tag>
+<XML_Serializer_Tag>R... G... H... Westphal</XML_Serializer_Tag>
+<XML_Serializer_Tag>Rudolf Georg Hermann Westphal</XML_Serializer_Tag>
+<XML_Serializer_Tag>Rudolphus Westphalus</XML_Serializer_Tag>
+<XML_Serializer_Tag>Rudolph Westphal</XML_Serializer_Tag>
+</variantName>
+<thumbnail>https://commons.wikimedia.org/wiki/Special:FilePath/Rudolf_Westphal.jpg?width=270</thumbnail>
+<birthEN>July 3, 1826</birthEN>
+<birthDE>3. Juli 1826</birthDE>
+<deathEN>July 10, 1892</deathEN>
+<deathDE>10. Juli 1892</deathDE>
+<birthPlace>
+<XML_Serializer_Tag>Obernkirchen</XML_Serializer_Tag>
+</birthPlace>
+<deathPlace>
+<XML_Serializer_Tag>Stadthagen</XML_Serializer_Tag>
+</deathPlace>
+<professionOrOccupation>
+<XML_Serializer_Tag>Gelehrter</XML_Serializer_Tag>
+<XML_Serializer_Tag>Klassischer Philologe</XML_Serializer_Tag>
+<XML_Serializer_Tag>Philosoph</XML_Serializer_Tag>
+</professionOrOccupation>
+<dbpResource>http://dbpedia.org/resource/Rudolf_Westphal</dbpResource>
+<abstract>Rudolf Georg Hermann Westphal (* 3. Juli 1826 in Obernkirchen; † 10. Juli 1892 in Stadthagen) war ein deutscher Klassischer Philologe. Er beschäftigte sich mit Vergleichender Sprachwissenschaft, der antiken Metrik, Grammatik und Musiktheorie.</abstract>
+<wikilink>http://en.wikipedia.org/wiki/Rudolf_Westphal?oldid=603241417</wikilink>
+<artworks />
+<buildings />
+<books />
+</Person>

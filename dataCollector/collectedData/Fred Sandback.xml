@@ -16,8 +16,10 @@
 <XML_Serializer_Tag>Graphiker</XML_Serializer_Tag>
 <XML_Serializer_Tag>Installationskünstler</XML_Serializer_Tag>
 </professionOrOccupation>
-<artworks />
 <dbpResource>http://dbpedia.org/resource/Fred_Sandback</dbpResource>
 <abstract>Fred Sandback (* 29. August 1943 in Bronxville, New York; † 23. Juni 2003 in New York City) war ein US-amerikanischer Künstler, der dem Minimalismus zugeordnet werden kann.</abstract>
 <wikilink>http://en.wikipedia.org/wiki/Fred_Sandback?oldid=585120853</wikilink>
+<artworks />
+<buildings />
+<books />
 </Person>

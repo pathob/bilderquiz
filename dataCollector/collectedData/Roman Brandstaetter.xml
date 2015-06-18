@@ -1,0 +1,27 @@
+<Person>
+<name>Roman Brandstaetter</name>
+<variantName>
+<XML_Serializer_Tag>R. Brandstaetter</XML_Serializer_Tag>
+</variantName>
+<thumbnail>https://commons.wikimedia.org/wiki/Special:FilePath/Roman_Brandstaetter.jpg?width=270</thumbnail>
+<birthEN>January 3, 1906</birthEN>
+<birthDE>3. Januar 1906</birthDE>
+<deathEN>September 28, 1987</deathEN>
+<deathDE>28. September 1987</deathDE>
+<birthPlace>
+<XML_Serializer_Tag>Tarnów</XML_Serializer_Tag>
+</birthPlace>
+<deathPlace>
+<XML_Serializer_Tag>Posen</XML_Serializer_Tag>
+</deathPlace>
+<professionOrOccupation>
+<XML_Serializer_Tag>Schriftsteller</XML_Serializer_Tag>
+<XML_Serializer_Tag>Übersetzer</XML_Serializer_Tag>
+</professionOrOccupation>
+<dbpResource>http://dbpedia.org/resource/Roman_Brandstaetter</dbpResource>
+<abstract>Roman Brandstaetter (* 3. Januar 1906 in Tarnów; † 28. September 1987 in Posen) war ein polnischer Schriftsteller.Roman Brandstaetter wurde in einer polnisch-jüdischen Familie geboren. Über seine Konversion zum katholischen Glauben schrieb er die Kroniki Assyżu (1947, Der Weg nach Assisi)Brandstaetter war in den Jahren 1947/48 als Diplomat in Rom. Er verfasste Romane, historische Dramen und religiöse Lyrik. Außerdem arbeitete er als Übersetzer.</abstract>
+<wikilink>http://en.wikipedia.org/wiki/Roman_Brandstaetter?oldid=542670805</wikilink>
+<artworks />
+<buildings />
+<books />
+</Person>

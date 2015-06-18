@@ -1,0 +1,26 @@
+<Person>
+<name>Donald Judd</name>
+<variantName>
+<XML_Serializer_Tag>Don Judd</XML_Serializer_Tag>
+</variantName>
+<thumbnail>https://commons.wikimedia.org/wiki/Special:FilePath/Judd_Muenster.JPG?width=270</thumbnail>
+<birthEN>June 3, 1928</birthEN>
+<birthDE>3. Juni 1928</birthDE>
+<deathEN>February 12, 1994</deathEN>
+<deathDE>12. Februar 1994</deathDE>
+<birthPlace>
+<XML_Serializer_Tag>Excelsior Springs</XML_Serializer_Tag>
+</birthPlace>
+<deathPlace>
+<XML_Serializer_Tag>New York</XML_Serializer_Tag>
+</deathPlace>
+<professionOrOccupation>
+<XML_Serializer_Tag>Künstler</XML_Serializer_Tag>
+</professionOrOccupation>
+<dbpResource>http://dbpedia.org/resource/Donald_Judd</dbpResource>
+<abstract>Donald Clarence Judd (* 3. Juni 1928 in Excelsior Springs, Missouri; † 12. Februar 1994 in New York) war ein US-amerikanischer Maler, Bildhauer und Architekt. Er gilt neben Robert Morris (* 1931) und Sol LeWitt (1928–2007) als einer der Hauptvertreter des Minimalismus, der sich Mitte der 1960er Jahre in New York entwickelt hatte.</abstract>
+<wikilink>http://en.wikipedia.org/wiki/Donald_Judd?oldid=601500847</wikilink>
+<artworks />
+<buildings />
+<books />
+</Person>

@@ -1,0 +1,221 @@
+<Person>
+<name>Jean-Paul Sartre</name>
+<variantName>
+<XML_Serializer_Tag>Jean Paul Sartre</XML_Serializer_Tag>
+<XML_Serializer_Tag>Jean P. Sartre</XML_Serializer_Tag>
+<XML_Serializer_Tag>J.-P. Sartre</XML_Serializer_Tag>
+<XML_Serializer_Tag>J. P. Sartre</XML_Serializer_Tag>
+<XML_Serializer_Tag>Žān Pul Sārtir</XML_Serializer_Tag>
+<XML_Serializer_Tag>Zhan-Pol Sarte͏̈r</XML_Serializer_Tag>
+<XML_Serializer_Tag>Ǧān Pūl Sārtir</XML_Serializer_Tag>
+<XML_Serializer_Tag>Ǧān Būl Sārtr</XML_Serializer_Tag>
+<XML_Serializer_Tag>Jean-Paul Sarte</XML_Serializer_Tag>
+<XML_Serializer_Tag>Jean-Paul Satre</XML_Serializer_Tag>
+</variantName>
+<thumbnail>https://commons.wikimedia.org/wiki/Special:FilePath/Jean-Paul_Sartre_FP.JPG?width=270</thumbnail>
+<birthEN>June 21, 1905</birthEN>
+<birthDE>21. Juni 1905</birthDE>
+<deathEN>April 15, 1980</deathEN>
+<deathDE>15. April 1980</deathDE>
+<birthPlace>
+<XML_Serializer_Tag>Paris</XML_Serializer_Tag>
+</birthPlace>
+<deathPlace>
+<XML_Serializer_Tag>Paris</XML_Serializer_Tag>
+</deathPlace>
+<professionOrOccupation>
+<XML_Serializer_Tag>Philosoph</XML_Serializer_Tag>
+<XML_Serializer_Tag>Schriftsteller</XML_Serializer_Tag>
+<XML_Serializer_Tag>Drehbuchautor</XML_Serializer_Tag>
+</professionOrOccupation>
+<dbpResource>http://dbpedia.org/resource/Jean-Paul_Sartre</dbpResource>
+<abstract>Jean-Paul Charles Aymard Sartre [ʒɑ̃ˈpɔl saʀtʀ̩] (* 21. Juni 1905 in Paris; † 15. April 1980 ebenda) war ein französischer Romancier, Dramatiker, Philosoph und Publizist. Er gilt als Vordenker und Hauptvertreter des Existentialismus und als Paradefigur der französischen Intellektuellen des 20. Jahrhunderts. Seit seinem 25. Lebensjahr war er mit Simone de Beauvoir liiert.</abstract>
+<wikilink>http://en.wikipedia.org/wiki/Jean-Paul_Sartre?oldid=606691701</wikilink>
+<artworks />
+<buildings />
+<books>
+<XML_Serializer_Tag>
+<book>
+<type>uri</type>
+<value>http://dbpedia.org/resource/The_Words_(book)</value>
+</book>
+<author>
+<type>uri</type>
+<value>http://dbpedia.org/resource/Jean-Paul_Sartre</value>
+</author>
+<released>
+<type>typed-literal</type>
+<datatype>http://www.w3.org/2001/XMLSchema#integer</datatype>
+<value>1963</value>
+</released>
+<wikilink>
+<type>uri</type>
+<value>http://en.wikipedia.org/wiki/The_Words_(book)?oldid=598114767</value>
+</wikilink>
+<abstract>
+<type>literal</type>
+<xml:lang>de</xml:lang>
+<value>Die Wörter, französisch Les mots, ist eine 1964 erschienene autobiografische Schrift von Jean-Paul Sartre über seine ersten zehn Lebensjahre in der Zeit von 1905 bis etwa 1915, dem Jahr seiner Einschulung in das elitäre Gymnasium Lycée Henri IV.</value>
+</abstract>
+</XML_Serializer_Tag>
+<XML_Serializer_Tag>
+<book>
+<type>uri</type>
+<value>http://dbpedia.org/resource/The_Reprieve</value>
+</book>
+<author>
+<type>uri</type>
+<value>http://dbpedia.org/resource/Jean-Paul_Sartre</value>
+</author>
+<released>
+<type>typed-literal</type>
+<datatype>http://www.w3.org/2001/XMLSchema#integer</datatype>
+<value>1945</value>
+</released>
+<wikilink>
+<type>uri</type>
+<value>http://en.wikipedia.org/wiki/The_Reprieve?oldid=546393718</value>
+</wikilink>
+</XML_Serializer_Tag>
+<XML_Serializer_Tag>
+<book>
+<type>uri</type>
+<value>http://dbpedia.org/resource/Troubled_Sleep</value>
+</book>
+<author>
+<type>uri</type>
+<value>http://dbpedia.org/resource/Jean-Paul_Sartre</value>
+</author>
+<released>
+<type>typed-literal</type>
+<datatype>http://www.w3.org/2001/XMLSchema#integer</datatype>
+<value>1949</value>
+</released>
+<wikilink>
+<type>uri</type>
+<value>http://en.wikipedia.org/wiki/Troubled_Sleep?oldid=544934605</value>
+</wikilink>
+</XML_Serializer_Tag>
+<XML_Serializer_Tag>
+<book>
+<type>uri</type>
+<value>http://dbpedia.org/resource/Saint_Genet</value>
+</book>
+<author>
+<type>uri</type>
+<value>http://dbpedia.org/resource/Jean-Paul_Sartre</value>
+</author>
+<released>
+<type>typed-literal</type>
+<datatype>http://www.w3.org/2001/XMLSchema#integer</datatype>
+<value>1952</value>
+</released>
+<wikilink>
+<type>uri</type>
+<value>http://en.wikipedia.org/wiki/Saint_Genet?oldid=602624560</value>
+</wikilink>
+</XML_Serializer_Tag>
+<XML_Serializer_Tag>
+<book>
+<type>uri</type>
+<value>http://dbpedia.org/resource/Anti-Semite_and_Jew</value>
+</book>
+<author>
+<type>uri</type>
+<value>http://dbpedia.org/resource/Jean-Paul_Sartre</value>
+</author>
+<released>
+<type>typed-literal</type>
+<datatype>http://www.w3.org/2001/XMLSchema#integer</datatype>
+<value>1946</value>
+</released>
+<wikilink>
+<type>uri</type>
+<value>http://en.wikipedia.org/wiki/Anti-Semite_and_Jew?oldid=604290325</value>
+</wikilink>
+</XML_Serializer_Tag>
+<XML_Serializer_Tag>
+<book>
+<type>uri</type>
+<value>http://dbpedia.org/resource/The_Age_of_Reason_(novel)</value>
+</book>
+<author>
+<type>uri</type>
+<value>http://dbpedia.org/resource/Jean-Paul_Sartre</value>
+</author>
+<released>
+<type>typed-literal</type>
+<datatype>http://www.w3.org/2001/XMLSchema#integer</datatype>
+<value>1945</value>
+</released>
+<wikilink>
+<type>uri</type>
+<value>http://en.wikipedia.org/wiki/The_Age_of_Reason_(novel)?oldid=594908793</value>
+</wikilink>
+</XML_Serializer_Tag>
+<XML_Serializer_Tag>
+<book>
+<type>uri</type>
+<value>http://dbpedia.org/resource/Being_and_Nothingness</value>
+</book>
+<author>
+<type>uri</type>
+<value>http://dbpedia.org/resource/Jean-Paul_Sartre</value>
+</author>
+<published>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>*1943 
+*1956</value>
+</published>
+<wikilink>
+<type>uri</type>
+<value>http://en.wikipedia.org/wiki/Being_and_Nothingness?oldid=603620222</value>
+</wikilink>
+<abstract>
+<type>literal</type>
+<xml:lang>de</xml:lang>
+<value>Das Sein und das Nichts, Versuch einer phänomenologischen Ontologie (orig. L&apos;être et le néant. Essai d&apos;ontologie phénoménologique von 1943) ist das philosophische Hauptwerk von Jean-Paul Sartre, in dessen Zentrum die Frage nach der ontologischen Begründung der Freiheit steht.Das Sein und das Nichts gehört zu den großen philosophischen Werken des 20. Jahrhunderts. Im Ausgang von Descartes steht es in der Tradition des französischen Rationalismus und ist zugleich inspiriert von der neueren und zeitgenössischen deutschen Philosophie (Hegel, Husserl, Heidegger).Mit seiner berühmten phänomenologischen Analyse des Blicks zeigt er die Bedeutung der Anderen für das eigene Selbst auf, bearbeitet die ontologische Unterscheidung der beiden Bereiche Für-Sich und An-Sich, sowie das Oszillieren zwischen Kontingenz und Transzendenz, die eigentümlich im Kontrast zu den berühmten Aussagen, wie Verurteilung zur Freiheit und die Bestimmung zur eigenen Verantwortung als existentielles Schicksals, stehen. Diese Analysen, durchgeführt an alltäglichen Phänomen wie Liebe, Scham, Hass, Selbstlüge oder Sexualität, waren Grund für die breite Rezeption dieses Werkes. Diese Äußerungen sind gleichfalls aber auch der Ausgangspunkt einer kurzsichtigen Rezeption gewesen, die in weiten Kreisen der Annahme Vorschub leistete, der Existenzialismus habe ein grundsätzlich hedonistisches Leben zum Ziel oder sei ein Pessimismus.Die ontologischen Analysen des Werks führen Sartre schließlich zum Entwurf einer „existentiellen Psychoanalyse“, die sich als Gegenentwurf zur Freudschen Schule versteht.</value>
+</abstract>
+</XML_Serializer_Tag>
+<XML_Serializer_Tag>
+<book>
+<type>uri</type>
+<value>http://dbpedia.org/resource/Nausea_(novel)</value>
+</book>
+<author>
+<type>uri</type>
+<value>http://dbpedia.org/resource/Jean-Paul_Sartre</value>
+</author>
+<published>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>*1938 
+*1949</value>
+</published>
+<wikilink>
+<type>uri</type>
+<value>http://en.wikipedia.org/wiki/Nausea_(novel)?oldid=599940759</value>
+</wikilink>
+<abstract>
+<type>literal</type>
+<xml:lang>de</xml:lang>
+<value>Der Ekel (französisch La nausée, siehe auch, medizinisch: Nausea) ist ein Roman von Jean-Paul Sartre. Er erschien im Jahr 1938 und gilt als Hauptroman des Existentialismus.Der Autor beschreibt die Erfahrung eines Individuums (des Ich-Erzählers Antoine Roquentin) mit seiner Existenz in einer Welt der Begriffe und festen Strukturen. Durch eine stete Umschreibung der um ihn herum existierenden Dinge empfindet er eine starke Abneigung: den Ekel.In seinem ersten Roman, an dem Sartre fünf Jahre arbeitete, sind bereits viele Themen enthalten, die in seinen späteren philosophischen Werken klarer werden. Das Buch ist eine Ansammlung von Tagebucheinträgen des Ich-Erzählers Roquentin, der versucht, sich über den Ekel klar zu werden, der ihn seit einiger Zeit beschleicht.</value>
+</abstract>
+</XML_Serializer_Tag>
+<XML_Serializer_Tag>
+<book>
+<type>uri</type>
+<value>http://dbpedia.org/resource/Critique_of_Dialectical_Reason</value>
+</book>
+<author>
+<type>uri</type>
+<value>http://dbpedia.org/resource/Jean-Paul_Sartre</value>
+</author>
+<wikilink>
+<type>uri</type>
+<value>http://en.wikipedia.org/wiki/Critique_of_Dialectical_Reason?oldid=595365238</value>
+</wikilink>
+</XML_Serializer_Tag>
+</books>
+</Person>

@@ -1,0 +1,25 @@
+<Person>
+<name>Hermann Lenz</name>
+<variantName />
+<thumbnail>https://commons.wikimedia.org/wiki/Special:FilePath/Künzelsau_Lenz_Tür.jpg?width=270</thumbnail>
+<birthEN>February 26, 1913</birthEN>
+<birthDE>26. Februar 1913</birthDE>
+<deathEN>May 12, 1998</deathEN>
+<deathDE>12. Mai 1998</deathDE>
+<birthPlace>
+<XML_Serializer_Tag>Stuttgart</XML_Serializer_Tag>
+</birthPlace>
+<deathPlace>
+<XML_Serializer_Tag>München</XML_Serializer_Tag>
+</deathPlace>
+<professionOrOccupation>
+<XML_Serializer_Tag>Schriftsteller</XML_Serializer_Tag>
+<XML_Serializer_Tag>Kunsthistoriker</XML_Serializer_Tag>
+</professionOrOccupation>
+<dbpResource>http://dbpedia.org/resource/Hermann_Lenz</dbpResource>
+<abstract>Hermann Karl Lenz (* 26. Februar 1913 in Stuttgart; † 12. Mai 1998 in München) war ein deutscher Schriftsteller.</abstract>
+<wikilink>http://en.wikipedia.org/wiki/Hermann_Lenz?oldid=559283739</wikilink>
+<artworks />
+<buildings />
+<books />
+</Person>

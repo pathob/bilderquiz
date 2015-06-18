@@ -1,0 +1,122 @@
+<Person>
+<name>Robert Greene</name>
+<variantName>
+<XML_Serializer_Tag>Cuthbert Conny-catcher</XML_Serializer_Tag>
+<XML_Serializer_Tag>Cuthbert Conny-catcher</XML_Serializer_Tag>
+<XML_Serializer_Tag>Cuthbert Cunny-Catcher</XML_Serializer_Tag>
+<XML_Serializer_Tag>Guthbert Cony-Catcher</XML_Serializer_Tag>
+<XML_Serializer_Tag>Cuthbert Cony-Catcher</XML_Serializer_Tag>
+<XML_Serializer_Tag>... Greene</XML_Serializer_Tag>
+</variantName>
+<thumbnail>https://commons.wikimedia.org/wiki/Special:FilePath/Rgreene.jpg?width=270</thumbnail>
+<birthEN>1558</birthEN>
+<birthDE>1558</birthDE>
+<deathEN>1592</deathEN>
+<deathDE>1592</deathDE>
+<birthPlace />
+<deathPlace />
+<professionOrOccupation>
+<XML_Serializer_Tag>Schriftsteller</XML_Serializer_Tag>
+</professionOrOccupation>
+<dbpResource>http://dbpedia.org/resource/Robert_Greene_(American_author)</dbpResource>
+<abstract>Robert Greene (* 14. Mai 1959 in Los Angeles) ist ein US-amerikanischer Schriftsteller. Er studierte an der University of California at Berkeley und an der University of Wisconsin at Madison Klassische Philologie und Vergleichende Literaturwissenschaft. Nach dem Studium arbeitete er in New York als Redakteur und Journalist für mehrere Magazine, unter anderen für den Esquire, und in Hollywood als Drehbuchautor. Greene verbrachte einige Jahre in London, Paris und Barcelona. Er spricht mehrere Sprachen.</abstract>
+<wikilink>http://en.wikipedia.org/wiki/Robert_Greene_(American_author)?oldid=604904851</wikilink>
+<artworks />
+<buildings />
+<books>
+<XML_Serializer_Tag>
+<book>
+<type>uri</type>
+<value>http://dbpedia.org/resource/The_33_Strategies_of_War</value>
+</book>
+<author>
+<type>uri</type>
+<value>http://dbpedia.org/resource/Robert_Greene_(American_author)</value>
+</author>
+<thumbnail>
+<type>uri</type>
+<value>http://en.wikipedia.org/wiki/Special:FilePath/33StratagiesWar.jpg?width=300</value>
+</thumbnail>
+<released>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>January and April 2006</value>
+</released>
+<wikilink>
+<type>uri</type>
+<value>http://en.wikipedia.org/wiki/The_33_Strategies_of_War?oldid=593588867</value>
+</wikilink>
+</XML_Serializer_Tag>
+<XML_Serializer_Tag>
+<book>
+<type>uri</type>
+<value>http://dbpedia.org/resource/The_48_Laws_of_Power</value>
+</book>
+<author>
+<type>uri</type>
+<value>http://dbpedia.org/resource/Robert_Greene_(American_author)</value>
+</author>
+<published>
+<type>typed-literal</type>
+<datatype>http://www.w3.org/2001/XMLSchema#integer</datatype>
+<value>1998</value>
+</published>
+<wikilink>
+<type>uri</type>
+<value>http://en.wikipedia.org/wiki/The_48_Laws_of_Power?oldid=600408900</value>
+</wikilink>
+<abstract>
+<type>literal</type>
+<xml:lang>de</xml:lang>
+<value>Die 48 Gesetze der Macht oder auch Power – Die 48 Gesetze der Macht (englischer Originaltitel: The 48 Laws of Power) ist ein Buch aus dem Jahr 1998. Es ist das erste Buch des US-amerikanischen Schriftstellers Robert Greene und soll Wege zur Erlangung oder Stärkung von gesellschaftlichem Einfluss aufzeigen. Sowohl in den USA als auch international war das Buch ein Bestseller und wurde mittlerweile in 24 Sprachen übersetzt.</value>
+</abstract>
+</XML_Serializer_Tag>
+<XML_Serializer_Tag>
+<book>
+<type>uri</type>
+<value>http://dbpedia.org/resource/The_50th_Law</value>
+</book>
+<author>
+<type>uri</type>
+<value>http://dbpedia.org/resource/Robert_Greene_(American_author)</value>
+</author>
+<published>
+<type>typed-literal</type>
+<datatype>http://www.w3.org/2001/XMLSchema#date</datatype>
+<value>2009-09-08+02:00</value>
+</published>
+<wikilink>
+<type>uri</type>
+<value>http://en.wikipedia.org/wiki/The_50th_Law?oldid=604782410</value>
+</wikilink>
+</XML_Serializer_Tag>
+<XML_Serializer_Tag>
+<book>
+<type>uri</type>
+<value>http://dbpedia.org/resource/The_Art_of_Seduction</value>
+</book>
+<author>
+<type>uri</type>
+<value>http://dbpedia.org/resource/Robert_Greene_(American_author)</value>
+</author>
+<wikilink>
+<type>uri</type>
+<value>http://en.wikipedia.org/wiki/The_Art_of_Seduction?oldid=581075911</value>
+</wikilink>
+</XML_Serializer_Tag>
+<XML_Serializer_Tag>
+<book>
+<type>uri</type>
+<value>http://dbpedia.org/resource/Mastery_(book)</value>
+</book>
+<author>
+<type>uri</type>
+<value>http://dbpedia.org/resource/Robert_Greene_(American_author)</value>
+</author>
+<wikilink>
+<type>uri</type>
+<value>http://en.wikipedia.org/wiki/Mastery_(book)?oldid=604794732</value>
+</wikilink>
+</XML_Serializer_Tag>
+</books>
+</Person>

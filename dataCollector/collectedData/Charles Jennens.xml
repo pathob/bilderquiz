@@ -1,0 +1,23 @@
+<Person>
+<name>Charles Jennens</name>
+<variantName>
+<XML_Serializer_Tag>Ch. Jennens</XML_Serializer_Tag>
+</variantName>
+<thumbnail>https://commons.wikimedia.org/wiki/Special:FilePath/Charles_Jennens.jpg?width=270</thumbnail>
+<birthEN>XX.XX.1700</birthEN>
+<birthDE>XX.XX.1700</birthDE>
+<deathEN>November 20, 1773</deathEN>
+<deathDE>20. November 1773</deathDE>
+<birthPlace />
+<deathPlace />
+<professionOrOccupation>
+<XML_Serializer_Tag>Schriftsteller</XML_Serializer_Tag>
+<XML_Serializer_Tag>Librettist</XML_Serializer_Tag>
+</professionOrOccupation>
+<dbpResource>http://dbpedia.org/resource/Charles_Jennens</dbpResource>
+<abstract>Charles Jennens (* 1700 oder 1701 in Leicestershire; † 20. November 1773) war ein englischer Grundbesitzer, Mäzen und Librettist.</abstract>
+<wikilink>http://en.wikipedia.org/wiki/Charles_Jennens?oldid=597805536</wikilink>
+<artworks />
+<buildings />
+<books />
+</Person>

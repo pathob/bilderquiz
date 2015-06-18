@@ -21,8 +21,10 @@
 <XML_Serializer_Tag>Graphiker</XML_Serializer_Tag>
 <XML_Serializer_Tag>Bühnenbildner</XML_Serializer_Tag>
 </professionOrOccupation>
-<artworks />
 <dbpResource>http://dbpedia.org/resource/Karl_Walser</dbpResource>
 <abstract>Karl Walser (* 8. April 1877 in Biel/Bienne; † 28. September 1943 in Bern) war ein Schweizer Maler, Bühnenbildner und Illustrator.</abstract>
 <wikilink>http://en.wikipedia.org/wiki/Karl_Walser?oldid=583492891</wikilink>
+<artworks />
+<buildings />
+<books />
 </Person>

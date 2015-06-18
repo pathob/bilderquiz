@@ -1,0 +1,65 @@
+<Person>
+<name>Henry David Thoreau</name>
+<variantName>
+<XML_Serializer_Tag>Henry D. Thoreau</XML_Serializer_Tag>
+<XML_Serializer_Tag>David Henry Thoreau</XML_Serializer_Tag>
+<XML_Serializer_Tag>Henry Thoreau</XML_Serializer_Tag>
+<XML_Serializer_Tag>Genri Devid Toro</XML_Serializer_Tag>
+<XML_Serializer_Tag>Henri Dejvid Toro</XML_Serializer_Tag>
+<XML_Serializer_Tag>Enry Deēvint Thorō</XML_Serializer_Tag>
+<XML_Serializer_Tag>So-lo</XML_Serializer_Tag>
+<XML_Serializer_Tag>Henri David Toro</XML_Serializer_Tag>
+<XML_Serializer_Tag>H. D. Thoreau</XML_Serializer_Tag>
+<XML_Serializer_Tag>Henry D. Thoreaux</XML_Serializer_Tag>
+<XML_Serializer_Tag>Genri Devid Toto</XML_Serializer_Tag>
+</variantName>
+<thumbnail>https://commons.wikimedia.org/wiki/Special:FilePath/Henry_David_Thoreau.jpg?width=270</thumbnail>
+<birthEN>July 12, 1817</birthEN>
+<birthDE>12. Juli 1817</birthDE>
+<deathEN>May 6, 1862</deathEN>
+<deathDE>6. Mai 1862</deathDE>
+<birthPlace>
+<XML_Serializer_Tag>Concord, Mass.</XML_Serializer_Tag>
+</birthPlace>
+<deathPlace>
+<XML_Serializer_Tag>Concord, Mass.</XML_Serializer_Tag>
+</deathPlace>
+<professionOrOccupation>
+<XML_Serializer_Tag>Schriftsteller</XML_Serializer_Tag>
+</professionOrOccupation>
+<dbpResource>http://dbpedia.org/resource/Henry_David_Thoreau</dbpResource>
+<abstract>Henry David Thoreau (sprich: [ˈθɔɹoʊ] oder [θəˈɹoʊ], * 12. Juli 1817 in Concord, Massachusetts; † 6. Mai 1862 ebenda) war ein amerikanischer Schriftsteller und Philosoph.</abstract>
+<wikilink>http://en.wikipedia.org/wiki/Henry_David_Thoreau?oldid=603382763</wikilink>
+<artworks />
+<buildings />
+<books>
+<XML_Serializer_Tag>
+<book>
+<type>uri</type>
+<value>http://dbpedia.org/resource/Walden</value>
+</book>
+<author>
+<type>uri</type>
+<value>http://dbpedia.org/resource/Henry_David_Thoreau</value>
+</author>
+<thumbnail>
+<type>uri</type>
+<value>http://commons.wikimedia.org/wiki/Special:FilePath/Walden_Thoreau.jpg?width=300</value>
+</thumbnail>
+<published>
+<type>typed-literal</type>
+<datatype>http://www.w3.org/2001/XMLSchema#date</datatype>
+<value>1854-08-09+02:00</value>
+</published>
+<wikilink>
+<type>uri</type>
+<value>http://en.wikipedia.org/wiki/Walden?oldid=602393056</value>
+</wikilink>
+<abstract>
+<type>literal</type>
+<xml:lang>de</xml:lang>
+<value>Walden oder Leben in den Wäldern (engl. Originaltitel Walden; or, Life in the Woods) – auch als Walden oder Hüttenleben im Walde erschienen – ist ein Buch des US-amerikanischen Schriftstellers Henry David Thoreau aus dem Jahr 1854, das zum „Klassiker aller Alternativen“ wurde.</value>
+</abstract>
+</XML_Serializer_Tag>
+</books>
+</Person>

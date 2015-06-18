@@ -20,8 +20,10 @@
 <professionOrOccupation>
 <XML_Serializer_Tag>Maler</XML_Serializer_Tag>
 </professionOrOccupation>
-<artworks />
 <dbpResource>http://dbpedia.org/resource/Adriaen_Brouwer</dbpResource>
 <abstract>Adriaen Brouwer (* 1605 oder 1606 wahrscheinlich in Oudenaarde, Belgien; † vor 1. Februar 1638 in Antwerpen) war ein flämischer Maler.</abstract>
 <wikilink>http://en.wikipedia.org/wiki/Adriaen_Brouwer?oldid=577991686</wikilink>
+<artworks />
+<buildings />
+<books />
 </Person>

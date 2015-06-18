@@ -1,0 +1,80 @@
+<Person>
+<name>Ernst Bloch</name>
+<variantName>
+<XML_Serializer_Tag>Ernst Simon Bloch</XML_Serializer_Tag>
+<XML_Serializer_Tag>Erunsuto Burotuho</XML_Serializer_Tag>
+<XML_Serializer_Tag>Erunsuto Burohho</XML_Serializer_Tag>
+<XML_Serializer_Tag>Erŭnsŭt&apos;ŭ Pŭllohŭ</XML_Serializer_Tag>
+<XML_Serializer_Tag>Jakob Knerz</XML_Serializer_Tag>
+<XML_Serializer_Tag>Karl Jahraus</XML_Serializer_Tag>
+<XML_Serializer_Tag>エルンスト・ブロッホ</XML_Serializer_Tag>
+<XML_Serializer_Tag>ארנסט בלוך</XML_Serializer_Tag>
+<XML_Serializer_Tag>エルンスト ブロッホ</XML_Serializer_Tag>
+</variantName>
+<thumbnail>https://commons.wikimedia.org/wiki/Special:FilePath/Bundesarchiv_Bild_183-27348-0008,_Berlin,_Ernst_Bloch_auf_Begegnung_der_Geistesschaffenden.jpg?width=270</thumbnail>
+<birthEN>July 8, 1885</birthEN>
+<birthDE>8. Juli 1885</birthDE>
+<deathEN>August 4, 1977</deathEN>
+<deathDE>4. August 1977</deathDE>
+<birthPlace>
+<XML_Serializer_Tag>Ludwigshafen am Rhein</XML_Serializer_Tag>
+</birthPlace>
+<deathPlace>
+<XML_Serializer_Tag>Tübingen</XML_Serializer_Tag>
+</deathPlace>
+<professionOrOccupation>
+<XML_Serializer_Tag>Philosoph</XML_Serializer_Tag>
+<XML_Serializer_Tag>Hochschullehrer</XML_Serializer_Tag>
+</professionOrOccupation>
+<dbpResource>http://dbpedia.org/resource/Ernst_Bloch</dbpResource>
+<abstract>Ernst Bloch (Ernst Simon Bloch; * 8. Juli 1885 in Ludwigshafen am Rhein; † 4. August 1977 in Tübingen) war ein deutscher marxistischer Philosoph.</abstract>
+<wikilink>http://en.wikipedia.org/wiki/Ernst_Bloch?oldid=605998755</wikilink>
+<artworks />
+<buildings />
+<books>
+<XML_Serializer_Tag>
+<book>
+<type>uri</type>
+<value>http://dbpedia.org/resource/Atheism_in_Christianity</value>
+</book>
+<author>
+<type>uri</type>
+<value>http://dbpedia.org/resource/Ernst_Bloch</value>
+</author>
+<released>
+<type>typed-literal</type>
+<datatype>http://www.w3.org/2001/XMLSchema#integer</datatype>
+<value>1968</value>
+</released>
+<wikilink>
+<type>uri</type>
+<value>http://en.wikipedia.org/wiki/Atheism_in_Christianity?oldid=598083857</value>
+</wikilink>
+</XML_Serializer_Tag>
+<XML_Serializer_Tag>
+<book>
+<type>uri</type>
+<value>http://dbpedia.org/resource/The_Principle_of_Hope</value>
+</book>
+<author>
+<type>uri</type>
+<value>http://dbpedia.org/resource/Ernst_Bloch</value>
+</author>
+<published>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>*1954 
+*1986</value>
+</published>
+<wikilink>
+<type>uri</type>
+<value>http://en.wikipedia.org/wiki/The_Principle_of_Hope?oldid=601926619</value>
+</wikilink>
+<abstract>
+<type>literal</type>
+<xml:lang>de</xml:lang>
+<value>Das Prinzip Hoffnung ist das Hauptwerk des deutschen Philosophen Ernst Bloch (1885–1977). Geschrieben wurde es zwischen 1938 und 1947 im US-amerikanischen Exil. Ursprünglich sollte es „The dreams of a better life“ heißen. Es erschien in den Jahren 1954 bis 1959 in der DDR. Seither ist der Begriff „Prinzip Hoffnung“ zu einem geflügelten Wort in den deutschen Feuilletons geworden.Von Hegel und Karl Marx beeinflusst, entfaltet Bloch im Prinzip Hoffnung eine umfangreiche Philosophie der Konkreten Utopie.Das Prinzip Hoffnung wurde in drei Bänden herausgegeben: Der erste Band umfasst den Teil „Kleine Tagträume“ (Bericht), das philosophische Herzstück „Das Antizipierende Bewusstsein“ (Grundlegung) und „Wunschbilder im Spiegel“ (Übergang). Der zweite Band analysiert die „Grundrisse einer besseren Welt“ (Konstruktion). Der dritte Band heißt „Wunschbilder des erfüllten Augenblicks“ (Identität).Die von Bloch sehr viel später verfasste Tübinger Einleitung in die Philosophie bezeichnet er selber auch als Einleitung zum Prinzip Hoffnung.</value>
+</abstract>
+</XML_Serializer_Tag>
+</books>
+</Person>

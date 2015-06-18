@@ -1,0 +1,26 @@
+<Person>
+<name>Thomas Medwin</name>
+<variantName />
+<thumbnail>https://commons.wikimedia.org/wiki/Special:FilePath/ThomasMedwin.jpg?width=270</thumbnail>
+<birthEN>1788</birthEN>
+<birthDE>1788</birthDE>
+<deathEN>1869</deathEN>
+<deathDE>1869</deathDE>
+<birthPlace>
+<XML_Serializer_Tag>Horsham, Sussex</XML_Serializer_Tag>
+</birthPlace>
+<deathPlace>
+<XML_Serializer_Tag>Horsham, Sussex</XML_Serializer_Tag>
+</deathPlace>
+<professionOrOccupation>
+<XML_Serializer_Tag>Schriftsteller</XML_Serializer_Tag>
+<XML_Serializer_Tag>Reisender</XML_Serializer_Tag>
+<XML_Serializer_Tag>Offizier</XML_Serializer_Tag>
+</professionOrOccupation>
+<dbpResource>http://dbpedia.org/resource/Thomas_Medwin</dbpResource>
+<abstract>Thomas Medwin (* 20. März 1788 in Horsham, West Sussex; † 2. August 1869, ebenda) war ein britischer Schriftsteller und Übersetzer des 19. Jahrhunderts, der vor allem als Biograph seines Cousins Percy Bysshe Shelley und seines Freundes Lord Byron erinnert wird.</abstract>
+<wikilink>http://en.wikipedia.org/wiki/Thomas_Medwin?oldid=606397720</wikilink>
+<artworks />
+<buildings />
+<books />
+</Person>

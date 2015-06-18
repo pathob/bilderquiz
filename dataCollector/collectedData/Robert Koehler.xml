@@ -13,8 +13,10 @@
 <professionOrOccupation>
 <XML_Serializer_Tag>Maler</XML_Serializer_Tag>
 </professionOrOccupation>
-<artworks />
 <dbpResource>http://dbpedia.org/resource/Robert_Koehler</dbpResource>
 <abstract>Robert Koehler (* 28. November 1850 in Hamburg; † 23. April 1917 in Minneapolis) war ein deutsch-amerikanischer Maler.</abstract>
 <wikilink>http://en.wikipedia.org/wiki/Robert_Koehler?oldid=601147131</wikilink>
+<artworks />
+<buildings />
+<books />
 </Person>

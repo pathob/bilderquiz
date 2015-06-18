@@ -1,0 +1,28 @@
+<Person>
+<name>Hugo Eckener</name>
+<variantName>
+<XML_Serializer_Tag>Hugo Eckner</XML_Serializer_Tag>
+</variantName>
+<thumbnail>https://commons.wikimedia.org/wiki/Special:FilePath/Hugo_Eckener.jpg?width=270</thumbnail>
+<birthEN>August 10, 1868</birthEN>
+<birthDE>10. August 1868</birthDE>
+<deathEN>August 14, 1954</deathEN>
+<deathDE>14. August 1954</deathDE>
+<birthPlace>
+<XML_Serializer_Tag>Flensburg</XML_Serializer_Tag>
+</birthPlace>
+<deathPlace>
+<XML_Serializer_Tag>Friedrichshafen</XML_Serializer_Tag>
+</deathPlace>
+<professionOrOccupation>
+<XML_Serializer_Tag>Luftfahrtingenieur</XML_Serializer_Tag>
+<XML_Serializer_Tag>Schriftsteller</XML_Serializer_Tag>
+<XML_Serializer_Tag>Luftfahrer</XML_Serializer_Tag>
+</professionOrOccupation>
+<dbpResource>http://dbpedia.org/resource/Hugo_Eckener</dbpResource>
+<abstract>Hugo Eckener (* 10. August 1868 in Flensburg; † 14. August 1954 in Friedrichshafen) war der Nachfolger von Ferdinand Graf von Zeppelin. Unter seiner Leitung entstanden unter anderem die Luftschiffe LZ 126/ZR-3 „Los Angeles“, LZ 127 „Graf Zeppelin“ und LZ 129 „Hindenburg“.</abstract>
+<wikilink>http://en.wikipedia.org/wiki/Hugo_Eckener?oldid=600341753</wikilink>
+<artworks />
+<buildings />
+<books />
+</Person>

@@ -1,0 +1,31 @@
+<Person>
+<name>Ernst Elias Niebergall</name>
+<variantName>
+<XML_Serializer_Tag>E. Streff</XML_Serializer_Tag>
+<XML_Serializer_Tag>Ernst-Elias Niebergall</XML_Serializer_Tag>
+<XML_Serializer_Tag>Ernst E. Niebergall</XML_Serializer_Tag>
+<XML_Serializer_Tag>E. E. Niebergall</XML_Serializer_Tag>
+</variantName>
+<thumbnail>https://de.wikipedia.org/wiki/Special:FilePath/Grabmal_Niebergall.jpg?width=270</thumbnail>
+<birthEN>January 13, 1815</birthEN>
+<birthDE>13. Januar 1815</birthDE>
+<deathEN>April 19, 1843</deathEN>
+<deathDE>19. April 1843</deathDE>
+<birthPlace>
+<XML_Serializer_Tag>Darmstadt</XML_Serializer_Tag>
+</birthPlace>
+<deathPlace>
+<XML_Serializer_Tag>Darmstadt</XML_Serializer_Tag>
+</deathPlace>
+<professionOrOccupation>
+<XML_Serializer_Tag>Theologe</XML_Serializer_Tag>
+<XML_Serializer_Tag>Privatlehrer</XML_Serializer_Tag>
+<XML_Serializer_Tag>Schriftsteller</XML_Serializer_Tag>
+</professionOrOccupation>
+<dbpResource>http://dbpedia.org/resource/Ernst_Elias_Niebergall</dbpResource>
+<abstract>Ernst Elias Niebergall (* 13. Januar 1815 in Darmstadt; † 19. April 1843 ebenda) war ein deutscher Schriftsteller.</abstract>
+<wikilink>http://en.wikipedia.org/wiki/Ernst_Elias_Niebergall?oldid=544048866</wikilink>
+<artworks />
+<buildings />
+<books />
+</Person>

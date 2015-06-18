@@ -22,8 +22,10 @@
 <XML_Serializer_Tag>Graphiker</XML_Serializer_Tag>
 <XML_Serializer_Tag>Bildhauer</XML_Serializer_Tag>
 </professionOrOccupation>
-<artworks />
 <dbpResource>http://dbpedia.org/resource/Max_Klinger</dbpResource>
 <abstract>Max Klinger (* 18. Februar 1857 in Leipzig; † 4. Juli 1920 in Großjena) war ein deutscher Bildhauer, Maler und Grafiker. Sein Werk ist vornehmlich dem Symbolismus zuzuordnen.</abstract>
 <wikilink>http://en.wikipedia.org/wiki/Max_Klinger?oldid=601571061</wikilink>
+<artworks />
+<buildings />
+<books />
 </Person>

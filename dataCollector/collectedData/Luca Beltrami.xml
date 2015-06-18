@@ -1,0 +1,27 @@
+<Person>
+<name>Luca Beltrami</name>
+<variantName>
+<XML_Serializer_Tag>Polifilo</XML_Serializer_Tag>
+<XML_Serializer_Tag>... Polifilo</XML_Serializer_Tag>
+</variantName>
+<thumbnail>https://commons.wikimedia.org/wiki/Special:FilePath/DSC02802_-_Milano_-_Piazza_Scala_-_Foto_Giovanni_Dall&apos;Orto_-_20-Jan-2007.jpg?width=270</thumbnail>
+<birthEN>November 13, 1854</birthEN>
+<birthDE>13. November 1854</birthDE>
+<deathEN>August 8, 1933</deathEN>
+<deathDE>8. August 1933</deathDE>
+<birthPlace>
+<XML_Serializer_Tag>Mailand</XML_Serializer_Tag>
+</birthPlace>
+<deathPlace>
+<XML_Serializer_Tag>Rom</XML_Serializer_Tag>
+</deathPlace>
+<professionOrOccupation>
+<XML_Serializer_Tag>Architekt</XML_Serializer_Tag>
+</professionOrOccupation>
+<dbpResource>http://dbpedia.org/resource/Luca_Beltrami</dbpResource>
+<abstract>Luca Beltrami (* 13. November 1854 in Mailand; † 8. August 1933 in Rom) war ein italienischer Architekt und Kunsthistoriker. Er war einer der ersten Architekten, die sich auf die Restaurierung von historischen Bauwerken spezialisierten. Zukunftsweisend war seine Herangehensweise, die zu restaurierenden Bauwerke zunächst einer historischen und baugeschichtlichen Untersuchung zu unterziehen und dabei auch ihren „Kontext“ einzubeziehen. Beltrami wurde auf dem Cimitero monumentale von Mailand begraben.</abstract>
+<wikilink>http://en.wikipedia.org/wiki/Luca_Beltrami?oldid=601844355</wikilink>
+<artworks />
+<buildings />
+<books />
+</Person>

@@ -21,8 +21,10 @@
 <XML_Serializer_Tag>Zeichner</XML_Serializer_Tag>
 <XML_Serializer_Tag>Kunsthandwerker</XML_Serializer_Tag>
 </professionOrOccupation>
-<artworks />
 <dbpResource>http://dbpedia.org/resource/Emil_Doepler</dbpResource>
 <abstract>Emil Doepler der Jüngere (* 29. Oktober 1855 in München; † 21. Dezember 1922 in Berlin) war Maler, Kunstgewerbler, Gebrauchsgraphiker, Heraldiker und Lehrer. Emil Doepler war der Sohn des Professors Carl Emil Doepler des Älteren (1824–1905), welcher unter anderem durch seine Tätigkeit als Leiter der kostümlichen Ausstattung der Bayreuther Festspiele bekannt wurde. Emil Doepler heiratete seine Schülerin Elli Hirsch. Die Ehe blieb kinderlos.</abstract>
 <wikilink>http://en.wikipedia.org/wiki/Emil_Doepler?oldid=603183904</wikilink>
+<artworks />
+<buildings />
+<books />
 </Person>

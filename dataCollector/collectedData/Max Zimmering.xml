@@ -1,0 +1,32 @@
+<Person>
+<name>Max Zimmering</name>
+<variantName>
+<XML_Serializer_Tag>Makso Cimeringo</XML_Serializer_Tag>
+<XML_Serializer_Tag>Maks Cimmering</XML_Serializer_Tag>
+<XML_Serializer_Tag>Mix Zimmering</XML_Serializer_Tag>
+<XML_Serializer_Tag>Hans Höffner</XML_Serializer_Tag>
+<XML_Serializer_Tag>Erich Töpfer</XML_Serializer_Tag>
+</variantName>
+<thumbnail>https://commons.wikimedia.org/wiki/Special:FilePath/Bundesarchiv_Bild_183-E1104-0038-001,_Berlin,_DSV-Jahreskonferenz,_Kurella,_Zimmering.jpg?width=270</thumbnail>
+<birthEN>November 16, 1909</birthEN>
+<birthDE>16. November 1909</birthDE>
+<deathEN>September 15, 1973</deathEN>
+<deathDE>15. September 1973</deathDE>
+<birthPlace>
+<XML_Serializer_Tag>Pirna</XML_Serializer_Tag>
+</birthPlace>
+<deathPlace>
+<XML_Serializer_Tag>Berlin</XML_Serializer_Tag>
+</deathPlace>
+<professionOrOccupation>
+<XML_Serializer_Tag>Politiker</XML_Serializer_Tag>
+<XML_Serializer_Tag>Schriftsteller</XML_Serializer_Tag>
+<XML_Serializer_Tag>Redakteur</XML_Serializer_Tag>
+</professionOrOccupation>
+<dbpResource>http://dbpedia.org/resource/Max_Zimmering</dbpResource>
+<abstract>Max Zimmering (* 16. November 1909 in Pirna; † 15. September 1973 in Dresden) war ein deutscher Schriftsteller.</abstract>
+<wikilink>http://en.wikipedia.org/wiki/Max_Zimmering?oldid=605270339</wikilink>
+<artworks />
+<buildings />
+<books />
+</Person>

@@ -18,8 +18,10 @@
 <XML_Serializer_Tag>Maler</XML_Serializer_Tag>
 <XML_Serializer_Tag>Radierer</XML_Serializer_Tag>
 </professionOrOccupation>
-<artworks />
 <dbpResource>http://dbpedia.org/resource/Friedrich_Voltz</dbpResource>
 <abstract>Johann Friedrich Voltz (* 31. Oktober 1817 in Nördlingen; † 25. Juni 1886 in München) war ein deutscher Tiermaler und Landschaftsmaler der Münchner Schule (Bildende Kunst).</abstract>
 <wikilink>http://en.wikipedia.org/wiki/Friedrich_Voltz?oldid=595443441</wikilink>
+<artworks />
+<buildings />
+<books />
 </Person>

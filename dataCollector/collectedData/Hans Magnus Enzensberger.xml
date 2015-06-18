@@ -1,0 +1,89 @@
+<Person>
+<name>Hans Magnus Enzensberger</name>
+<variantName>
+<XML_Serializer_Tag>Hans Magnus Encensberger</XML_Serializer_Tag>
+<XML_Serializer_Tag>Chans Magnus Encensberger</XML_Serializer_Tag>
+<XML_Serializer_Tag>Hans-Magnus Enzensberger</XML_Serializer_Tag>
+<XML_Serializer_Tag>H. M. Enzensberger</XML_Serializer_Tag>
+<XML_Serializer_Tag>H. M. E.</XML_Serializer_Tag>
+<XML_Serializer_Tag>Han si Ma ge nu si En cen si bo ge</XML_Serializer_Tag>
+<XML_Serializer_Tag>Hansi-Magenusi-Encensiboge</XML_Serializer_Tag>
+<XML_Serializer_Tag>H.-M.-Encensiboge</XML_Serializer_Tag>
+<XML_Serializer_Tag>... Entsensuberugā</XML_Serializer_Tag>
+<XML_Serializer_Tag>Hansu Magunusu Entsensuberugā</XML_Serializer_Tag>
+<XML_Serializer_Tag>Hansŭ Magŭnusŭ Enjensŭberŭgŏ</XML_Serializer_Tag>
+<XML_Serializer_Tag>H. Magnus Enzensberger</XML_Serializer_Tag>
+<XML_Serializer_Tag>Hans Magnus Enzensberg</XML_Serializer_Tag>
+<XML_Serializer_Tag>Hans M. Enzensberger</XML_Serializer_Tag>
+<XML_Serializer_Tag>Hans Magnûs Enṣensberger</XML_Serializer_Tag>
+<XML_Serializer_Tag>H. M. Ench&apos;ensŭberŭgŏ</XML_Serializer_Tag>
+<XML_Serializer_Tag>Chans Manknus Entsensmpernker</XML_Serializer_Tag>
+<XML_Serializer_Tag>Hanss Magnuss Encensbergers</XML_Serializer_Tag>
+<XML_Serializer_Tag>Hāns Māġnūs Intsinsbīrġar</XML_Serializer_Tag>
+<XML_Serializer_Tag>Haṃsa Māgnusa Entsensabergara</XML_Serializer_Tag>
+<XML_Serializer_Tag>Chans Magnus Ėnzenzberger</XML_Serializer_Tag>
+<XML_Serializer_Tag>Hānz Māġnūs Intsinzbarġir</XML_Serializer_Tag>
+<XML_Serializer_Tag>Hans Magnus Enezensberger</XML_Serializer_Tag>
+<XML_Serializer_Tag>Hans Magnus Ezensberger</XML_Serializer_Tag>
+<XML_Serializer_Tag>Hans Magnus Entsensberger</XML_Serializer_Tag>
+<XML_Serializer_Tag>Hans Magnus Encensbergere</XML_Serializer_Tag>
+<XML_Serializer_Tag>Hans Magnus Enc̕ensbergeri</XML_Serializer_Tag>
+<XML_Serializer_Tag>Han si En cen si bo ge</XML_Serializer_Tag>
+<XML_Serializer_Tag>Hansi-Encensiboge</XML_Serializer_Tag>
+<XML_Serializer_Tag>Hansi Encensiboge</XML_Serializer_Tag>
+<XML_Serializer_Tag>H. M. En cen si bo ge</XML_Serializer_Tag>
+<XML_Serializer_Tag>H.-M.-Encensiboge</XML_Serializer_Tag>
+<XML_Serializer_Tag>H. M. Encensiboge</XML_Serializer_Tag>
+<XML_Serializer_Tag>한스 마그누스 엔젠스베르거</XML_Serializer_Tag>
+<XML_Serializer_Tag>הנס מגנוס אנצנסברגר</XML_Serializer_Tag>
+<XML_Serializer_Tag>H.M.エンツェンスベルガー</XML_Serializer_Tag>
+<XML_Serializer_Tag>H.M. エンツェンスベルガー</XML_Serializer_Tag>
+<XML_Serializer_Tag>ハンス・マグヌス エンツェンスベルガー</XML_Serializer_Tag>
+</variantName>
+<thumbnail>https://commons.wikimedia.org/wiki/Special:FilePath/Hans_Magnus_Enzensberger.JPG?width=270</thumbnail>
+<birthEN>1929</birthEN>
+<birthDE>1929</birthDE>
+<deathEN />
+<deathDE />
+<birthPlace>
+<XML_Serializer_Tag>Kaufbeuren</XML_Serializer_Tag>
+</birthPlace>
+<deathPlace />
+<professionOrOccupation>
+<XML_Serializer_Tag>Schriftsteller</XML_Serializer_Tag>
+<XML_Serializer_Tag>Lyriker</XML_Serializer_Tag>
+<XML_Serializer_Tag>Rundfunkredakteur</XML_Serializer_Tag>
+<XML_Serializer_Tag>Biograph</XML_Serializer_Tag>
+<XML_Serializer_Tag>Lektor (Verlag)</XML_Serializer_Tag>
+</professionOrOccupation>
+<dbpResource>http://dbpedia.org/resource/Hans_Magnus_Enzensberger</dbpResource>
+<abstract>Hans Magnus Enzensberger (* 11. November 1929 in Kaufbeuren) ist ein deutscher Dichter, Schriftsteller, Herausgeber, Übersetzer und Redakteur. Er publizierte einzelne Bücher unter den Pseudonymen Andreas Thalmayr, Linda Quilt, Elisabeth Ambras, Giorgio Pellizzi, Benedikt Pfaff, Trevisa Buddensiek sowie Serenus M. Brezengang. Enzensberger lebt in München-Schwabing.</abstract>
+<wikilink>http://en.wikipedia.org/wiki/Hans_Magnus_Enzensberger?oldid=592364210</wikilink>
+<artworks />
+<buildings />
+<books>
+<XML_Serializer_Tag>
+<book>
+<type>uri</type>
+<value>http://dbpedia.org/resource/The_Number_Devil</value>
+</book>
+<author>
+<type>uri</type>
+<value>http://dbpedia.org/resource/Hans_Magnus_Enzensberger</value>
+</author>
+<thumbnail>
+<type>uri</type>
+<value>http://commons.wikimedia.org/wiki/Special:FilePath/Hans_Magnus_Enzensberger_(cropped).jpg?width=300</value>
+</thumbnail>
+<released>
+<type>typed-literal</type>
+<datatype>http://www.w3.org/2001/XMLSchema#integer</datatype>
+<value>1997</value>
+</released>
+<wikilink>
+<type>uri</type>
+<value>http://en.wikipedia.org/wiki/The_Number_Devil?oldid=602885687</value>
+</wikilink>
+</XML_Serializer_Tag>
+</books>
+</Person>

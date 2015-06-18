@@ -1,0 +1,110 @@
+<Person>
+<name>Daniel Kehlmann</name>
+<variantName>
+<XML_Serializer_Tag>Daniels Kēlmans</XML_Serializer_Tag>
+<XML_Serializer_Tag>Daniėlʹ Kelʹman</XML_Serializer_Tag>
+<XML_Serializer_Tag>Danielʹ Kelʹman</XML_Serializer_Tag>
+<XML_Serializer_Tag>Danijel Kelman</XML_Serializer_Tag>
+<XML_Serializer_Tag>Daniel Kelman</XML_Serializer_Tag>
+<XML_Serializer_Tag>Ntaniel Kelman</XML_Serializer_Tag>
+<XML_Serializer_Tag>Daniʾel Ḳelman</XML_Serializer_Tag>
+<XML_Serializer_Tag>Daniel K̕elmann</XML_Serializer_Tag>
+<XML_Serializer_Tag>Danni&apos;er-Kaiman</XML_Serializer_Tag>
+<XML_Serializer_Tag>Danieru Kēruman</XML_Serializer_Tag>
+<XML_Serializer_Tag>Dan ni er Kai man</XML_Serializer_Tag>
+<XML_Serializer_Tag>Dannier-Kaiman</XML_Serializer_Tag>
+<XML_Serializer_Tag>Dannier Kaiman</XML_Serializer_Tag>
+<XML_Serializer_Tag>Dan ni er Ke er man</XML_Serializer_Tag>
+<XML_Serializer_Tag>Dannier-Keerman</XML_Serializer_Tag>
+<XML_Serializer_Tag>Dannier Keerman</XML_Serializer_Tag>
+<XML_Serializer_Tag>Da ni el Kel man</XML_Serializer_Tag>
+<XML_Serializer_Tag>Daniel-Kelman</XML_Serializer_Tag>
+<XML_Serializer_Tag>Taniel K&apos;elman</XML_Serializer_Tag>
+<XML_Serializer_Tag>Daniei Kehimann</XML_Serializer_Tag>
+<XML_Serializer_Tag>דניאל קלמן</XML_Serializer_Tag>
+<XML_Serializer_Tag>丹尼爾 凱曼</XML_Serializer_Tag>
+<XML_Serializer_Tag>丹尼尔 克尔曼</XML_Serializer_Tag>
+<XML_Serializer_Tag>ダニエル ケールマン</XML_Serializer_Tag>
+</variantName>
+<thumbnail>https://commons.wikimedia.org/wiki/Special:FilePath/Daniel_Kehlmann_-_Nestroy-Theaterpreis_2012.jpg?width=270</thumbnail>
+<birthEN>1975</birthEN>
+<birthDE>1975</birthDE>
+<deathEN />
+<deathDE />
+<birthPlace>
+<XML_Serializer_Tag>München</XML_Serializer_Tag>
+</birthPlace>
+<deathPlace />
+<professionOrOccupation>
+<XML_Serializer_Tag>Schriftsteller</XML_Serializer_Tag>
+</professionOrOccupation>
+<dbpResource>http://dbpedia.org/resource/Daniel_Kehlmann</dbpResource>
+<abstract>Daniel Kehlmann (* 13. Januar 1975 in München) ist ein österreichisch-deutscher Schriftsteller. Er lebt in Wien und Berlin.</abstract>
+<wikilink>http://en.wikipedia.org/wiki/Daniel_Kehlmann?oldid=589209317</wikilink>
+<artworks />
+<buildings />
+<books>
+<XML_Serializer_Tag>
+<book>
+<type>uri</type>
+<value>http://dbpedia.org/resource/Measuring_the_World</value>
+</book>
+<author>
+<type>uri</type>
+<value>http://dbpedia.org/resource/Daniel_Kehlmann</value>
+</author>
+<released>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>September 2005</value>
+</released>
+<wikilink>
+<type>uri</type>
+<value>http://en.wikipedia.org/wiki/Measuring_the_World?oldid=596780147</value>
+</wikilink>
+<abstract>
+<type>literal</type>
+<xml:lang>de</xml:lang>
+<value>Die Vermessung der Welt ist ein 2005 auf Deutsch erschienener Roman von Daniel Kehlmann. Thema ist die fiktive Doppelbiografie des Mathematikers und Geodäten Carl Friedrich Gauß (1777–1855) und des Naturforschers Alexander von Humboldt (1769–1859). Der Roman erreichte in Deutschland schon bald Platz 1 der Spiegel-Bestsellerliste und stand für 37 Wochen auf dieser Position. Auch international war er ein großer Erfolg, die New York Times führte ihn am 15. April 2007 an zweiter Stelle der weltweit meistverkauften Bücher des Jahres 2006. Bis Oktober 2012 wurden allein in Deutschland 2,3 Millionen Exemplare verkauft. Die weltweite Auflage liegt bei etwa 6 Millionen.</value>
+</abstract>
+</XML_Serializer_Tag>
+<XML_Serializer_Tag>
+<book>
+<type>uri</type>
+<value>http://dbpedia.org/resource/Me_and_Kaminski</value>
+</book>
+<author>
+<type>uri</type>
+<value>http://dbpedia.org/resource/Daniel_Kehlmann</value>
+</author>
+<wikilink>
+<type>uri</type>
+<value>http://en.wikipedia.org/wiki/Me_and_Kaminski?oldid=546301209</value>
+</wikilink>
+<abstract>
+<type>literal</type>
+<xml:lang>de</xml:lang>
+<value>Ich und Kaminski ist ein Roman von Daniel Kehlmann, der 2003 im Suhrkamp Verlag erschien. Thema des Romans, mit dem Kehlmann der internationale Durchbruch gelang, ist der Versuch des eitlen und überheblichen Ich-Erzählers, des Kunsthistorikers und selbsternannten Kunstkritikers Sebastian Zöllner, seiner bisher nicht besonders erfolgreichen Karriere mit einer Biographie des alten blinden Malers Kaminski auf die Sprünge zu helfen. Um sich das Leben und Sterben Kaminskis zunutze zu machen, nähert er sich dem sagenumwobenen Maler persönlich.Das seltsame Spannungsverhältnis zwischen dem Biographen und seinem lebenden Objekt und deren gegenseitige Manipulationen bilden den Rahmen für eine Satire auf den Kunstbetrieb mit seinen Eitelkeiten und die Darstellung der peinlichen Diskrepanz zwischen Zöllners Selbstüberschätzung und der Realität.</value>
+</abstract>
+</XML_Serializer_Tag>
+<XML_Serializer_Tag>
+<book>
+<type>uri</type>
+<value>http://dbpedia.org/resource/Fame_(novel)</value>
+</book>
+<author>
+<type>uri</type>
+<value>http://dbpedia.org/resource/Daniel_Kehlmann</value>
+</author>
+<wikilink>
+<type>uri</type>
+<value>http://en.wikipedia.org/wiki/Fame_(novel)?oldid=546262291</value>
+</wikilink>
+<abstract>
+<type>literal</type>
+<xml:lang>de</xml:lang>
+<value>Ruhm – Ein Roman in neun Geschichten ist ein 2009 auf Deutsch erschienenes erzählerisches Werk von Daniel Kehlmann. Die neun lose miteinander verbundenen Geschichten des Romans kreisen um Fragen der Kommunikation mit dem Mobiltelefon, Computer und Internet. Ihre Figuren tauchen auf und verschwinden wieder, verändern oder vertauschen ihre Identität, werden vergessen. Der im Titel angesprochene Ruhm zieht sich als Leitmotiv durch die meisten Kurzgeschichten des Romans. Bis Oktober 2011 hat sich der Roman allein in Deutschland über 700.000 Mal verkauft.</value>
+</abstract>
+</XML_Serializer_Tag>
+</books>
+</Person>

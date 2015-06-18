@@ -1,0 +1,68 @@
+<Person>
+<name>Gottfried Keller</name>
+<variantName>
+<XML_Serializer_Tag>... Kerā</XML_Serializer_Tag>
+<XML_Serializer_Tag>Kai le</XML_Serializer_Tag>
+<XML_Serializer_Tag>Kaile</XML_Serializer_Tag>
+<XML_Serializer_Tag>Ǧūtfrīd Kīllir</XML_Serializer_Tag>
+<XML_Serializer_Tag>Gotfryd Keller</XML_Serializer_Tag>
+<XML_Serializer_Tag>Gotfrid Keller</XML_Serializer_Tag>
+<XML_Serializer_Tag>Gotfrid Keler</XML_Serializer_Tag>
+<XML_Serializer_Tag>Goffredo Keller</XML_Serializer_Tag>
+<XML_Serializer_Tag>Gotpʹrid Keleri</XML_Serializer_Tag>
+<XML_Serializer_Tag>高·凯勒</XML_Serializer_Tag>
+<XML_Serializer_Tag>ゴットフリート ケラー</XML_Serializer_Tag>
+<XML_Serializer_Tag>高 凯勒</XML_Serializer_Tag>
+<XML_Serializer_Tag>ケラー・ゴットフリート</XML_Serializer_Tag>
+</variantName>
+<thumbnail>https://commons.wikimedia.org/wiki/Special:FilePath/Gottfried_Keller_1860.jpeg?width=270</thumbnail>
+<birthEN>July 19, 1819</birthEN>
+<birthDE>19. Juli 1819</birthDE>
+<deathEN>July 15, 1890</deathEN>
+<deathDE>15. Juli 1890</deathDE>
+<birthPlace>
+<XML_Serializer_Tag>Zürich</XML_Serializer_Tag>
+</birthPlace>
+<deathPlace>
+<XML_Serializer_Tag>Zürich</XML_Serializer_Tag>
+</deathPlace>
+<professionOrOccupation>
+<XML_Serializer_Tag>Schriftsteller</XML_Serializer_Tag>
+<XML_Serializer_Tag>Dichter</XML_Serializer_Tag>
+</professionOrOccupation>
+<dbpResource>http://dbpedia.org/resource/Gottfried_Keller</dbpResource>
+<abstract>Gottfried Keller (* 19. Juli 1819 in Zürich; † 15. Juli 1890 in Zürich) war ein Schweizer Dichter. Keller verlor mit fünf Jahren seinen Vater und wurde mit fünfzehn wegen eines Jugendstreichs von der höheren Schulbildung ausgeschlossen. Vor die Berufswahl gestellt, entschied er sich für die Landschaftsmalerei. 1840 zog er nach München um sich im Umkreis der Kunstakademie weiter auszubilden. Von dort kehrte er nach zwei Jahren erfolglos in seine Vaterstadt zurück, wo er unter dem Eindruck der politischen Lyrik des Vormärz seine dichterische Begabung entdeckte und betätigte. Als Stipendiat der Regierung des Kantons Zürich wandte er sich 1848 nach Heidelberg und 1850 weiter nach Berlin. Dort entstand die Erstfassung seines Romans Der grüne Heinrich und der ersten Band seines Novellenzyklus Die Leute von Seldwyla (mit Romeo und Julia auf dem Dorfe und Die drei gerechten Kammmacher). Diese Werke begründeten sein Ansehen als Schriftsteller, gewährten ihm jedoch kein ausreichendes Einkommen. Ab 1856 lebte er bei Mutter und Schwester in Zürich und arbeitete weiter an den in Berlin entstandenen Entwürfen. In dieser Zeit erschien von ihm neben Festgedichten die Erzählung Das Fähnlein der sieben Aufrechten, die er später in den Zyklus Züricher Novellen aufnahm. 1861 berief ihn die Regierung zum Staatsschreiber des Kantons Zürich, ein Amt, das er bis 1876 bekleidete, das ihn der Geldsorgen enthob, ihm aber zehn Jahre lang kaum Zeit zu literarischer Tätigkeit ließ. Im letzten Drittel seiner Amtszeit vollendete er die Sieben Legenden und den zweiten Band der Leute von Seldwyla (mit Kleider machen Leute); nach der Niederlegung des Amtes die Züricher Novellen, die zweite Fassung des Grünen Heinrich, den Novellenzyklus Das Sinngedicht und den Roman Martin Salander. Keller beschloss sein Leben als einer der erfolgreichsten deutschsprachigen Schriftsteller des 19. Jahrhunderts. Er gilt als Meister der Novellendichtung und als einer der bedeutendsten Erzähler des bürgerlichen Realismus.</abstract>
+<wikilink>http://en.wikipedia.org/wiki/Gottfried_Keller?oldid=574131214</wikilink>
+<artworks />
+<buildings />
+<books>
+<XML_Serializer_Tag>
+<book>
+<type>uri</type>
+<value>http://dbpedia.org/resource/Green_Henry</value>
+</book>
+<author>
+<type>uri</type>
+<value>http://dbpedia.org/resource/Gottfried_Keller</value>
+</author>
+<thumbnail>
+<type>uri</type>
+<value>http://commons.wikimedia.org/wiki/Special:FilePath/Der_grüne_Heinrich_I.JPG?width=300</value>
+</thumbnail>
+<released>
+<type>typed-literal</type>
+<datatype>http://www.w3.org/2001/XMLSchema#integer</datatype>
+<value>1855</value>
+</released>
+<wikilink>
+<type>uri</type>
+<value>http://en.wikipedia.org/wiki/Green_Henry?oldid=556465717</value>
+</wikilink>
+<abstract>
+<type>literal</type>
+<xml:lang>de</xml:lang>
+<value>Der grüne Heinrich von Gottfried Keller ist ein teilweise autobiografischer Roman, der neben Goethes Wilhelm Meister und Stifters Nachsommer als einer der bedeutendsten Bildungsromane der deutschen Literatur des 19. Jahrhunderts gilt. 1993 ist er in der Schweiz verfilmt worden.</value>
+</abstract>
+</XML_Serializer_Tag>
+</books>
+</Person>

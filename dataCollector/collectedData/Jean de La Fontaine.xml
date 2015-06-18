@@ -1,0 +1,51 @@
+<Person>
+<name>Jean de La Fontaine</name>
+<variantName>
+<XML_Serializer_Tag>Hans LaFontaine</XML_Serializer_Tag>
+<XML_Serializer_Tag>Iean de La Fontaine</XML_Serializer_Tag>
+<XML_Serializer_Tag>Jehan de La Fontaine</XML_Serializer_Tag>
+<XML_Serializer_Tag>J. de La Fontaine</XML_Serializer_Tag>
+<XML_Serializer_Tag>... de La Fontaine</XML_Serializer_Tag>
+<XML_Serializer_Tag>... La Fontaine</XML_Serializer_Tag>
+<XML_Serializer_Tag>Hans von La Fontaine</XML_Serializer_Tag>
+<XML_Serializer_Tag>J. LaFontaine</XML_Serializer_Tag>
+<XML_Serializer_Tag>Hans La Fontaine</XML_Serializer_Tag>
+<XML_Serializer_Tag>... Lafontaine</XML_Serializer_Tag>
+<XML_Serializer_Tag>Jan de Lafonten</XML_Serializer_Tag>
+<XML_Serializer_Tag>Žan de Lafonten</XML_Serializer_Tag>
+<XML_Serializer_Tag>Zhan de Lafonten</XML_Serializer_Tag>
+<XML_Serializer_Tag>... Lefontaine</XML_Serializer_Tag>
+<XML_Serializer_Tag>Žan&apos; Ljafonten</XML_Serializer_Tag>
+<XML_Serializer_Tag>Žean Ljafonten</XML_Serializer_Tag>
+<XML_Serializer_Tag>Lāfūntīn</XML_Serializer_Tag>
+<XML_Serializer_Tag>Joannes Fontanius</XML_Serializer_Tag>
+<XML_Serializer_Tag>Jean de Lafontaine</XML_Serializer_Tag>
+<XML_Serializer_Tag>Jean de LaFontaine</XML_Serializer_Tag>
+<XML_Serializer_Tag>Jean De La Fontaine</XML_Serializer_Tag>
+<XML_Serializer_Tag>Jean de la Fontaine</XML_Serializer_Tag>
+<XML_Serializer_Tag>Jean DeLaFontaine</XML_Serializer_Tag>
+<XML_Serializer_Tag>Jean de LaFontaine</XML_Serializer_Tag>
+<XML_Serializer_Tag>Jean de Lafontaine</XML_Serializer_Tag>
+<XML_Serializer_Tag>Jean Fontaine</XML_Serializer_Tag>
+</variantName>
+<thumbnail>https://commons.wikimedia.org/wiki/Special:FilePath/Jean_de_La_Fontaine.PNG?width=270</thumbnail>
+<birthEN>July 8, 1621</birthEN>
+<birthDE>8. Juli 1621</birthDE>
+<deathEN>April 13, 1695</deathEN>
+<deathDE>13. April 1695</deathDE>
+<birthPlace>
+<XML_Serializer_Tag>Château-Thierry</XML_Serializer_Tag>
+</birthPlace>
+<deathPlace>
+<XML_Serializer_Tag>Paris</XML_Serializer_Tag>
+</deathPlace>
+<professionOrOccupation>
+<XML_Serializer_Tag>Schriftsteller</XML_Serializer_Tag>
+</professionOrOccupation>
+<dbpResource>http://dbpedia.org/resource/Jean_de_La_Fontaine</dbpResource>
+<abstract>Jean de La Fontaine (* 8. Juli 1621 in Château-Thierry (Département Aisne); † 13. April 1695 in Paris) war ein französischer Schriftsteller. Er gilt den Franzosen als einer der größten ihrer Klassiker und ist noch heute mit einigen seiner Fabeln jedem französischen Schulkind bekannt.</abstract>
+<wikilink>http://en.wikipedia.org/wiki/Jean_de_La_Fontaine?oldid=603926873</wikilink>
+<artworks />
+<buildings />
+<books />
+</Person>

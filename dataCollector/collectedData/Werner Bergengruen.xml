@@ -1,0 +1,30 @@
+<Person>
+<name>Werner Bergengruen</name>
+<variantName>
+<XML_Serializer_Tag>Werner Bergengrün</XML_Serializer_Tag>
+<XML_Serializer_Tag>Verners Bergengrīns</XML_Serializer_Tag>
+<XML_Serializer_Tag>... Bergengruen-Schneider</XML_Serializer_Tag>
+<XML_Serializer_Tag>베르너 베르겐그륀</XML_Serializer_Tag>
+</variantName>
+<thumbnail>https://commons.wikimedia.org/wiki/Special:FilePath/WP_Werner_Bergengruen.jpg?width=270</thumbnail>
+<birthEN>September 16, 1892</birthEN>
+<birthDE>16. September 1892</birthDE>
+<deathEN>September 4, 1964</deathEN>
+<deathDE>4. September 1964</deathDE>
+<birthPlace>
+<XML_Serializer_Tag>Riga</XML_Serializer_Tag>
+</birthPlace>
+<deathPlace>
+<XML_Serializer_Tag>Baden-Baden</XML_Serializer_Tag>
+</deathPlace>
+<professionOrOccupation>
+<XML_Serializer_Tag>Schriftsteller</XML_Serializer_Tag>
+<XML_Serializer_Tag>Musiker</XML_Serializer_Tag>
+</professionOrOccupation>
+<dbpResource>http://dbpedia.org/resource/Werner_Bergengruen</dbpResource>
+<abstract>Werner Max Oskar Paul Bergengruen (* 4. Septemberjul./ 16. September 1892greg. in Riga, Livland; † 4. September 1964 in Baden-Baden) war ein deutsch-baltischer Schriftsteller.</abstract>
+<wikilink>http://en.wikipedia.org/wiki/Werner_Bergengruen?oldid=605454941</wikilink>
+<artworks />
+<buildings />
+<books />
+</Person>

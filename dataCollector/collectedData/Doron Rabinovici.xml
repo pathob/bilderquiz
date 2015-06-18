@@ -1,0 +1,26 @@
+<Person>
+<name>Doron Rabinovici</name>
+<variantName>
+<XML_Serializer_Tag>Doron Rabinoviči</XML_Serializer_Tag>
+</variantName>
+<thumbnail>https://commons.wikimedia.org/wiki/Special:FilePath/Doron-rabinovici-2010-ffm-082.jpg?width=270</thumbnail>
+<birthEN>1961</birthEN>
+<birthDE>1961</birthDE>
+<deathEN />
+<deathDE />
+<birthPlace>
+<XML_Serializer_Tag>Tel Aviv- Jaffa</XML_Serializer_Tag>
+</birthPlace>
+<deathPlace />
+<professionOrOccupation>
+<XML_Serializer_Tag>Schriftsteller</XML_Serializer_Tag>
+<XML_Serializer_Tag>Essayist</XML_Serializer_Tag>
+<XML_Serializer_Tag>Historiker</XML_Serializer_Tag>
+</professionOrOccupation>
+<dbpResource>http://dbpedia.org/resource/Doron_Rabinovici</dbpResource>
+<abstract>Doron Rabinovici [sprich: Rabinowitsch, gemäß Aussprache des rumänischen Namens] (* 2. Dezember 1961 in Tel Aviv) lebt als Schriftsteller, Essayist und Historiker seit 1964 in Wien. Seine Prosa umfasst Kurzgeschichten, Romane und Essays.</abstract>
+<wikilink>http://en.wikipedia.org/wiki/Doron_Rabinovici?oldid=563726202</wikilink>
+<artworks />
+<buildings />
+<books />
+</Person>

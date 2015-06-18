@@ -26,8 +26,10 @@
 <XML_Serializer_Tag>Illustrator</XML_Serializer_Tag>
 <XML_Serializer_Tag>Graphiker</XML_Serializer_Tag>
 </professionOrOccupation>
-<artworks />
 <dbpResource>http://dbpedia.org/resource/Robert_Reinick</dbpResource>
 <abstract>Robert Reinick (* 22. Februar 1805 in Danzig; † 7. Februar 1852 in Dresden) war ein deutscher Maler und Dichter.</abstract>
 <wikilink>http://en.wikipedia.org/wiki/Robert_Reinick?oldid=597498924</wikilink>
+<artworks />
+<buildings />
+<books />
 </Person>

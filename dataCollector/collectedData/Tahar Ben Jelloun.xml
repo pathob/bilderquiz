@@ -1,0 +1,92 @@
+<Person>
+<name>Tahar Ben Jelloun</name>
+<variantName>
+<XML_Serializer_Tag>Tahar BenJelloun</XML_Serializer_Tag>
+<XML_Serializer_Tag>Tahar Ben Jelloun</XML_Serializer_Tag>
+<XML_Serializer_Tag>al-Ṭāhir Bin-Jallūn</XML_Serializer_Tag>
+<XML_Serializer_Tag>Ṭāhir Ibn-Ǧallūn</XML_Serializer_Tag>
+<XML_Serializer_Tag>al-Tahir Ibn-Jallun</XML_Serializer_Tag>
+<XML_Serializer_Tag>al-Ṭāhir Ibn Jallūn</XML_Serializer_Tag>
+<XML_Serializer_Tag>aṭ-T.āhir Ibn-Ǧallūn</XML_Serializer_Tag>
+<XML_Serializer_Tag>Tahar Ben Jelloun</XML_Serializer_Tag>
+<XML_Serializer_Tag>Ṭāhir Bin-Jallūn</XML_Serializer_Tag>
+<XML_Serializer_Tag>Ṭāhir ibn Jallūn</XML_Serializer_Tag>
+<XML_Serializer_Tag>Tahar Ben-Jelloun</XML_Serializer_Tag>
+<XML_Serializer_Tag>Ṭahar ben Gʾelun</XML_Serializer_Tag>
+<XML_Serializer_Tag>Tahar B. Jelloun</XML_Serializer_Tag>
+<XML_Serializer_Tag>Tahar Jelloun</XML_Serializer_Tag>
+<XML_Serializer_Tag>Tahar Ben Jellun</XML_Serializer_Tag>
+<XML_Serializer_Tag>aṭ-Ṭāhirn Bin-Ǧallūn</XML_Serializer_Tag>
+</variantName>
+<thumbnail>https://commons.wikimedia.org/wiki/Special:FilePath/Tahar_Ben_Jelloun_1.jpg?width=270</thumbnail>
+<birthEN>1944</birthEN>
+<birthDE>1944</birthDE>
+<deathEN />
+<deathDE />
+<birthPlace>
+<XML_Serializer_Tag>Fes</XML_Serializer_Tag>
+</birthPlace>
+<deathPlace />
+<professionOrOccupation>
+<XML_Serializer_Tag>Schriftsteller</XML_Serializer_Tag>
+</professionOrOccupation>
+<dbpResource>http://dbpedia.org/resource/Tahar_Ben_Jelloun</dbpResource>
+<abstract>Tahar Ben Jelloun (* 1. Dezember 1944 in Fès) ist ein frankophoner marokkanischer Schriftsteller und Psychotherapeut und gilt als bedeutendster Vertreter der französischsprachigen Literatur aus dem Maghreb.</abstract>
+<wikilink>http://en.wikipedia.org/wiki/Tahar_Ben_Jelloun?oldid=604056607</wikilink>
+<artworks />
+<buildings />
+<books>
+<XML_Serializer_Tag>
+<book>
+<type>uri</type>
+<value>http://dbpedia.org/resource/The_Sand_Child</value>
+</book>
+<author>
+<type>uri</type>
+<value>http://dbpedia.org/resource/Tahar_Ben_Jelloun</value>
+</author>
+<released>
+<type>typed-literal</type>
+<datatype>http://www.w3.org/2001/XMLSchema#integer</datatype>
+<value>1985</value>
+</released>
+<wikilink>
+<type>uri</type>
+<value>http://en.wikipedia.org/wiki/The_Sand_Child?oldid=601451720</value>
+</wikilink>
+</XML_Serializer_Tag>
+<XML_Serializer_Tag>
+<book>
+<type>uri</type>
+<value>http://dbpedia.org/resource/Racism_Explained_to_My_Daughter</value>
+</book>
+<author>
+<type>uri</type>
+<value>http://dbpedia.org/resource/Tahar_Ben_Jelloun</value>
+</author>
+<published>
+<type>typed-literal</type>
+<datatype>http://www.w3.org/2001/XMLSchema#integer</datatype>
+<value>1999</value>
+</published>
+<wikilink>
+<type>uri</type>
+<value>http://en.wikipedia.org/wiki/Racism_Explained_to_My_Daughter?oldid=573014861</value>
+</wikilink>
+</XML_Serializer_Tag>
+<XML_Serializer_Tag>
+<book>
+<type>uri</type>
+<value>http://dbpedia.org/resource/This_Blinding_Absence_of_Light</value>
+</book>
+<author>
+<type>uri</type>
+<value>http://dbpedia.org/resource/Tahar_Ben_Jelloun</value>
+</author>
+<wikilink>
+<type>uri</type>
+<value>http://en.wikipedia.org/wiki/This_Blinding_Absence_of_Light?oldid=542685481</value>
+</wikilink>
+</XML_Serializer_Tag>
+</books>
+</Person>

@@ -1,0 +1,29 @@
+<Person>
+<name>Alan Watts</name>
+<variantName>
+<XML_Serializer_Tag>Alan Wilson Watts</XML_Serializer_Tag>
+<XML_Serializer_Tag>Alan W. Watts</XML_Serializer_Tag>
+<XML_Serializer_Tag>Allen Watts</XML_Serializer_Tag>
+<XML_Serializer_Tag>Alan Wilson Watts</XML_Serializer_Tag>
+</variantName>
+<thumbnail>https://en.wikipedia.org/wiki/Special:FilePath/Alan_Watts.jpg?width=270</thumbnail>
+<birthEN>1915</birthEN>
+<birthDE>1915</birthDE>
+<deathEN>1973</deathEN>
+<deathDE>1973</deathDE>
+<birthPlace>
+<XML_Serializer_Tag>Chislehurst</XML_Serializer_Tag>
+</birthPlace>
+<deathPlace />
+<professionOrOccupation>
+<XML_Serializer_Tag>Philosoph</XML_Serializer_Tag>
+<XML_Serializer_Tag>Religionswissenschaftler</XML_Serializer_Tag>
+<XML_Serializer_Tag>Publizist</XML_Serializer_Tag>
+</professionOrOccupation>
+<dbpResource>http://dbpedia.org/resource/Alan_Watts</dbpResource>
+<abstract>Alan Watts (Alan Wilson Watts; * 6. Januar 1915 in Chislehurst, Kent; † 16. November 1973 am Mount Tamalpais) war ein englischer Religionsphilosoph, der vorwiegend in den Vereinigten Staaten wirkte, wo er als Priester der Episcopal Church in the USA, Dozent und freier Schriftsteller tätig war.Er befasste sich vor allem mit der Philosophie des Zen, des Buddhismus und des Daoismus.</abstract>
+<wikilink>http://en.wikipedia.org/wiki/Alan_Watts?oldid=606530968</wikilink>
+<artworks />
+<buildings />
+<books />
+</Person>

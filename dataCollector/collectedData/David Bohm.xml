@@ -1,0 +1,60 @@
+<Person>
+<name>David Bohm</name>
+<variantName />
+<thumbnail>https://commons.wikimedia.org/wiki/Special:FilePath/David_Bohm.jpg?width=270</thumbnail>
+<birthEN>1917</birthEN>
+<birthDE>1917</birthDE>
+<deathEN>1992</deathEN>
+<deathDE>1992</deathDE>
+<birthPlace />
+<deathPlace />
+<professionOrOccupation>
+<XML_Serializer_Tag>Physiker</XML_Serializer_Tag>
+<XML_Serializer_Tag>Philosoph</XML_Serializer_Tag>
+</professionOrOccupation>
+<dbpResource>http://dbpedia.org/resource/David_Bohm</dbpResource>
+<abstract>David Joseph Bohm [ˈdeɪvɪd ˈdʒoʊzɪf ˈboʊm] (* 20. Dezember 1917 in Wilkes-Barre, Pennsylvania; † 27. Oktober 1992 in London) war ein US-amerikanischer Quantenphysiker und Philosoph.Bohm hat eine Reihe signifikanter Beiträge zur Physik geliefert, insbesondere im Bereich der Vielteilchentheorie und der Grundlagen der Quantenmechanik. Bohm ist Begründer der bohmschen Mechanik, einer alternativen Interpretation der Quantenmechanik.</abstract>
+<wikilink>http://en.wikipedia.org/wiki/David_Bohm?oldid=605938187</wikilink>
+<artworks />
+<buildings />
+<books>
+<XML_Serializer_Tag>
+<book>
+<type>uri</type>
+<value>http://dbpedia.org/resource/Wholeness_and_the_Implicate_Order</value>
+</book>
+<author>
+<type>uri</type>
+<value>http://dbpedia.org/resource/David_Bohm</value>
+</author>
+<released>
+<type>typed-literal</type>
+<datatype>http://www.w3.org/2001/XMLSchema#integer</datatype>
+<value>1980</value>
+</released>
+<wikilink>
+<type>uri</type>
+<value>http://en.wikipedia.org/wiki/Wholeness_and_the_Implicate_Order?oldid=605394551</value>
+</wikilink>
+</XML_Serializer_Tag>
+<XML_Serializer_Tag>
+<book>
+<type>uri</type>
+<value>http://dbpedia.org/resource/Science,_Order,_and_Creativity</value>
+</book>
+<author>
+<type>uri</type>
+<value>http://dbpedia.org/resource/David_Bohm</value>
+</author>
+<released>
+<type>typed-literal</type>
+<datatype>http://www.w3.org/2001/XMLSchema#integer</datatype>
+<value>1987</value>
+</released>
+<wikilink>
+<type>uri</type>
+<value>http://en.wikipedia.org/wiki/Science,_Order,_and_Creativity?oldid=594110067</value>
+</wikilink>
+</XML_Serializer_Tag>
+</books>
+</Person>

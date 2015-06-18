@@ -19,8 +19,10 @@
 <XML_Serializer_Tag>Künstler</XML_Serializer_Tag>
 <XML_Serializer_Tag>Maler</XML_Serializer_Tag>
 </professionOrOccupation>
-<artworks />
 <dbpResource>http://dbpedia.org/resource/Wilhelm_Lindenschmit_the_Younger</dbpResource>
 <abstract>Wilhelm von Lindenschmit der Jüngere (* 20. Juni 1829 in München; † 8. Juni 1895 ebenda) war ein deutscher Maler.</abstract>
 <wikilink>http://en.wikipedia.org/wiki/Wilhelm_Lindenschmit_the_Younger?oldid=567606056</wikilink>
+<artworks />
+<buildings />
+<books />
 </Person>

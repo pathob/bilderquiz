@@ -1,0 +1,29 @@
+<Person>
+<name>Julius Bahnsen</name>
+<variantName>
+<XML_Serializer_Tag>Julius Friedrich Bahnsen</XML_Serializer_Tag>
+<XML_Serializer_Tag>Julius Friedrich August Bahnsen</XML_Serializer_Tag>
+<XML_Serializer_Tag>Julius F. A. Bahnsen</XML_Serializer_Tag>
+<XML_Serializer_Tag>J. F. A. Bahnsen</XML_Serializer_Tag>
+</variantName>
+<thumbnail>https://commons.wikimedia.org/wiki/Special:FilePath/Julius_Bahnsen.png?width=270</thumbnail>
+<birthEN>March 30, 1830</birthEN>
+<birthDE>30. März 1830</birthDE>
+<deathEN>December 7, 1881</deathEN>
+<deathDE>7. Dezember 1881</deathDE>
+<birthPlace>
+<XML_Serializer_Tag>Tondern</XML_Serializer_Tag>
+</birthPlace>
+<deathPlace />
+<professionOrOccupation>
+<XML_Serializer_Tag>Philosoph</XML_Serializer_Tag>
+<XML_Serializer_Tag>Pädagoge</XML_Serializer_Tag>
+<XML_Serializer_Tag>Oberlehrer</XML_Serializer_Tag>
+</professionOrOccupation>
+<dbpResource>http://dbpedia.org/resource/Julius_Bahnsen</dbpResource>
+<abstract>Julius Friedrich August Bahnsen (* 30. März 1830 in Tondern, Nordschleswig; † 7. Dezember 1881 in Lauenburg i. Pomm.) war ein deutscher Philosoph. Bahnsen gilt als der Begründer der Charakterologie sowie einer real-dialektischen Methode der philosophischen Reflexion, die er in seinen zweibändigen „Beiträgen zur Charakterologie“ (1867) entwarf und in seinen folgenden Arbeiten, unter anderen seinem Hauptwerk „Der Widerspruch im Wissen und Wesen der Welt“ (1880/82), weiterentwickelte.</abstract>
+<wikilink>http://en.wikipedia.org/wiki/Julius_Bahnsen?oldid=598672919</wikilink>
+<artworks />
+<buildings />
+<books />
+</Person>

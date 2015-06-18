@@ -29,8 +29,10 @@
 <XML_Serializer_Tag>Maler</XML_Serializer_Tag>
 <XML_Serializer_Tag>Architekt</XML_Serializer_Tag>
 </professionOrOccupation>
-<artworks />
 <dbpResource>http://dbpedia.org/resource/Charles_Le_Brun</dbpResource>
 <abstract>Charles Le Brun (auch Lebrun oder LeBrun geschrieben) (* 24. Februar 1619 in Paris; † 12. Februar 1690 Paris) war ein französischer Maler, Architekt, Ornamentzeichner, Hofmaler (1662), Direktor der Gobelin-Manufaktur sowie Rektor und Kanzler der Académie royale de peinture et de sculpture. Er leitete die Arbeiten zur Ausstattung der Schlösser Vaux-le-Vicomte und Versailles und war einer der bedeutendsten und prägenden Künstler des Stiles Louis XIV..</abstract>
 <wikilink>http://en.wikipedia.org/wiki/Charles_Le_Brun?oldid=605047493</wikilink>
+<artworks />
+<buildings />
+<books />
 </Person>

@@ -1,0 +1,29 @@
+<Person>
+<name>Ceija Stojka</name>
+<variantName>
+<XML_Serializer_Tag>Tschaia Stojka</XML_Serializer_Tag>
+<XML_Serializer_Tag>Grete Rigo</XML_Serializer_Tag>
+<XML_Serializer_Tag>Margarethe Rigo-Stojka</XML_Serializer_Tag>
+</variantName>
+<thumbnail>https://commons.wikimedia.org/wiki/Special:FilePath/Ceija_Stojka_Wien2008.jpg?width=270</thumbnail>
+<birthEN>May 23, 1933</birthEN>
+<birthDE>23. Mai 1933</birthDE>
+<deathEN>January 28, 2013</deathEN>
+<deathDE>28. Januar 2013</deathDE>
+<birthPlace>
+<XML_Serializer_Tag>Kraubath an der Mur</XML_Serializer_Tag>
+</birthPlace>
+<deathPlace>
+<XML_Serializer_Tag>Wien</XML_Serializer_Tag>
+</deathPlace>
+<professionOrOccupation>
+<XML_Serializer_Tag>Künstlerin</XML_Serializer_Tag>
+<XML_Serializer_Tag>Schriftstellerin</XML_Serializer_Tag>
+</professionOrOccupation>
+<dbpResource>http://dbpedia.org/resource/Ceija_Stojka</dbpResource>
+<abstract>Ceija Stojka (* 23. Mai 1933 in Kraubath an der Mur, Steiermark; † 28. Januar 2013 in Wien ) war eine österreichische Schriftstellerin und Künstlerin. Sie gehörte den Lovara-Roma an, die besonders in Zentral- und Osteuropa beheimatet sind, und überlebte als Kind drei nationalsozialistische Konzentrationslager.Sie war die Schwester von Karl Stojka und Mongo Stojka und Tante von Harri Stojka.</abstract>
+<wikilink>http://en.wikipedia.org/wiki/Ceija_Stojka?oldid=603978839</wikilink>
+<artworks />
+<buildings />
+<books />
+</Person>

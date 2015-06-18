@@ -1,0 +1,184 @@
+<Person>
+<name>Joseph Sheridan Le Fanu</name>
+<variantName>
+<XML_Serializer_Tag>Sheridan Le Fanu</XML_Serializer_Tag>
+<XML_Serializer_Tag>Sheridan LeFanu</XML_Serializer_Tag>
+<XML_Serializer_Tag>Joseph S. le Fanu</XML_Serializer_Tag>
+<XML_Serializer_Tag>Joseph S. Le Fanu</XML_Serializer_Tag>
+<XML_Serializer_Tag>Sheridan La Fanu</XML_Serializer_Tag>
+<XML_Serializer_Tag>Joseph Sheridan le Fanu</XML_Serializer_Tag>
+<XML_Serializer_Tag>Joseph Sheridan le Fanu</XML_Serializer_Tag>
+<XML_Serializer_Tag>J. S. Le Fanu</XML_Serializer_Tag>
+<XML_Serializer_Tag>John Figwood</XML_Serializer_Tag>
+<XML_Serializer_Tag>Sheridan LeFanu</XML_Serializer_Tag>
+<XML_Serializer_Tag>Joseph S. LeFanu</XML_Serializer_Tag>
+<XML_Serializer_Tag>Joseph Sheridan LeFanu</XML_Serializer_Tag>
+<XML_Serializer_Tag>J. S. LeFanu</XML_Serializer_Tag>
+<XML_Serializer_Tag>J. Sheridan Le Fanu</XML_Serializer_Tag>
+<XML_Serializer_Tag>Joseph Thomas Sheridan Le Fanu</XML_Serializer_Tag>
+</variantName>
+<thumbnail>https://commons.wikimedia.org/wiki/Special:FilePath/LeFanu.jpg?width=270</thumbnail>
+<birthEN>August 28, 1814</birthEN>
+<birthDE>28. August 1814</birthDE>
+<deathEN>February 10, 1873</deathEN>
+<deathDE>10. Februar 1873</deathDE>
+<birthPlace>
+<XML_Serializer_Tag>Dublin</XML_Serializer_Tag>
+</birthPlace>
+<deathPlace>
+<XML_Serializer_Tag>Dublin</XML_Serializer_Tag>
+</deathPlace>
+<professionOrOccupation>
+<XML_Serializer_Tag>Schriftsteller</XML_Serializer_Tag>
+</professionOrOccupation>
+<dbpResource>http://dbpedia.org/resource/Sheridan_Le_Fanu</dbpResource>
+<abstract>Joseph Thomas Sheridan Le Fanu (* 28. August 1814 in Dublin; † 10. Februar 1873 ebd.) war ein irischer Schriftsteller und gehört zu den bekanntesten Autoren klassischer Gruselgeschichten.</abstract>
+<wikilink>http://en.wikipedia.org/wiki/Sheridan_Le_Fanu?oldid=598715917</wikilink>
+<artworks />
+<buildings />
+<books>
+<XML_Serializer_Tag>
+<book>
+<type>uri</type>
+<value>http://dbpedia.org/resource/Carmilla</value>
+</book>
+<author>
+<type>uri</type>
+<value>http://dbpedia.org/resource/Sheridan_Le_Fanu</value>
+</author>
+<thumbnail>
+<type>uri</type>
+<value>http://commons.wikimedia.org/wiki/Special:FilePath/Carmilla.jpg?width=300</value>
+</thumbnail>
+<released>
+<type>typed-literal</type>
+<datatype>http://www.w3.org/2001/XMLSchema#integer</datatype>
+<value>1872</value>
+</released>
+<wikilink>
+<type>uri</type>
+<value>http://en.wikipedia.org/wiki/Carmilla?oldid=605903694</value>
+</wikilink>
+<abstract>
+<type>literal</type>
+<xml:lang>de</xml:lang>
+<value>Carmilla ist eine 1872 erschienene Novelle des irischen Autors Sheridan Le Fanu, in der die Begegnung einer jungen Frau mit einem weiblichen Vampir namens Carmilla erzählt wird. Der Text erschien zuerst in drei Teilen zwischen Januar und März 1872 in der Zeitschrift The Dark Blue und noch im selben Jahr in dem von Le Fanu herausgegebenen Sammelband In a Glass Darkly. Die Veröffentlichung in The Dark Blue enthielt Illustrationen von M. Fitzgerald und D.H. Friston, die in die Buchausgabe nicht übernommen wurden, weil sie sich nicht direkt auf den Inhalt der Geschichte bezogen.</value>
+</abstract>
+</XML_Serializer_Tag>
+<XML_Serializer_Tag>
+<book>
+<type>uri</type>
+<value>http://dbpedia.org/resource/In_a_Glass_Darkly</value>
+</book>
+<author>
+<type>uri</type>
+<value>http://dbpedia.org/resource/Sheridan_Le_Fanu</value>
+</author>
+<thumbnail>
+<type>uri</type>
+<value>http://commons.wikimedia.org/wiki/Special:FilePath/Carmilla.jpg?width=300</value>
+</thumbnail>
+<released>
+<type>typed-literal</type>
+<datatype>http://www.w3.org/2001/XMLSchema#integer</datatype>
+<value>1872</value>
+</released>
+<wikilink>
+<type>uri</type>
+<value>http://en.wikipedia.org/wiki/In_a_Glass_Darkly?oldid=561193789</value>
+</wikilink>
+</XML_Serializer_Tag>
+<XML_Serializer_Tag>
+<book>
+<type>uri</type>
+<value>http://dbpedia.org/resource/The_House_by_the_Churchyard</value>
+</book>
+<author>
+<type>uri</type>
+<value>http://dbpedia.org/resource/Sheridan_Le_Fanu</value>
+</author>
+<thumbnail>
+<type>uri</type>
+<value>http://commons.wikimedia.org/wiki/Special:FilePath/The_House_by_the_Churchyard_1st_ed.png?width=300</value>
+</thumbnail>
+<wikilink>
+<type>uri</type>
+<value>http://en.wikipedia.org/wiki/The_House_by_the_Churchyard?oldid=583145078</value>
+</wikilink>
+</XML_Serializer_Tag>
+<XML_Serializer_Tag>
+<book>
+<type>uri</type>
+<value>http://dbpedia.org/resource/Uncle_Silas</value>
+</book>
+<author>
+<type>uri</type>
+<value>http://dbpedia.org/resource/Sheridan_Le_Fanu</value>
+</author>
+<thumbnail>
+<type>uri</type>
+<value>http://commons.wikimedia.org/wiki/Special:FilePath/Uncle_Silas_1864.jpg?width=300</value>
+</thumbnail>
+<wikilink>
+<type>uri</type>
+<value>http://en.wikipedia.org/wiki/Uncle_Silas?oldid=603517485</value>
+</wikilink>
+</XML_Serializer_Tag>
+<XML_Serializer_Tag>
+<book>
+<type>uri</type>
+<value>http://dbpedia.org/resource/The_Purcell_Papers</value>
+</book>
+<author>
+<type>uri</type>
+<value>http://dbpedia.org/resource/Sheridan_Le_Fanu</value>
+</author>
+<thumbnail>
+<type>uri</type>
+<value>http://commons.wikimedia.org/wiki/Special:FilePath/Purcell_Papers_1880.jpg?width=300</value>
+</thumbnail>
+<wikilink>
+<type>uri</type>
+<value>http://en.wikipedia.org/wiki/The_Purcell_Papers?oldid=553129096</value>
+</wikilink>
+</XML_Serializer_Tag>
+<XML_Serializer_Tag>
+<book>
+<type>uri</type>
+<value>http://dbpedia.org/resource/The_Purcell_Papers_(1975_book)</value>
+</book>
+<author>
+<type>uri</type>
+<value>http://dbpedia.org/resource/Sheridan_Le_Fanu</value>
+</author>
+<released>
+<type>typed-literal</type>
+<datatype>http://www.w3.org/2001/XMLSchema#integer</datatype>
+<value>1975</value>
+</released>
+<wikilink>
+<type>uri</type>
+<value>http://en.wikipedia.org/wiki/The_Purcell_Papers_(1975_book)?oldid=544910555</value>
+</wikilink>
+</XML_Serializer_Tag>
+<XML_Serializer_Tag>
+<book>
+<type>uri</type>
+<value>http://dbpedia.org/resource/Green_Tea_and_Other_Ghost_Stories</value>
+</book>
+<author>
+<type>uri</type>
+<value>http://dbpedia.org/resource/Sheridan_Le_Fanu</value>
+</author>
+<released>
+<type>typed-literal</type>
+<datatype>http://www.w3.org/2001/XMLSchema#integer</datatype>
+<value>1945</value>
+</released>
+<wikilink>
+<type>uri</type>
+<value>http://en.wikipedia.org/wiki/Green_Tea_and_Other_Ghost_Stories?oldid=544879069</value>
+</wikilink>
+</XML_Serializer_Tag>
+</books>
+</Person>

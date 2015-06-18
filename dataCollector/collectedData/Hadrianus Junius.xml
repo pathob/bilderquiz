@@ -1,0 +1,50 @@
+<Person>
+<name>Hadrianus Junius</name>
+<variantName>
+<XML_Serializer_Tag>Adrian Junius</XML_Serializer_Tag>
+<XML_Serializer_Tag>Hadrianus Junius Hornanus</XML_Serializer_Tag>
+<XML_Serializer_Tag>Hadrianus Junius Hornanus</XML_Serializer_Tag>
+<XML_Serializer_Tag>Adrianus Junius Hornanus</XML_Serializer_Tag>
+<XML_Serializer_Tag>Adrianus Junius Hornanus</XML_Serializer_Tag>
+<XML_Serializer_Tag>Adriaan de Jonge</XML_Serializer_Tag>
+<XML_Serializer_Tag>Hadrianus Iunius</XML_Serializer_Tag>
+<XML_Serializer_Tag>Adrien Lejeune</XML_Serializer_Tag>
+<XML_Serializer_Tag>Adriaan Junius</XML_Serializer_Tag>
+<XML_Serializer_Tag>Adrianus Junius</XML_Serializer_Tag>
+<XML_Serializer_Tag>Adrian de Jonge</XML_Serializer_Tag>
+<XML_Serializer_Tag>Hadrian Junius</XML_Serializer_Tag>
+<XML_Serializer_Tag>Adrianus Iunius</XML_Serializer_Tag>
+<XML_Serializer_Tag>Hardianus Iunius Hornanus</XML_Serializer_Tag>
+<XML_Serializer_Tag>Hardianus Iunius</XML_Serializer_Tag>
+<XML_Serializer_Tag>Hadrianus Iunius Hornanus</XML_Serializer_Tag>
+<XML_Serializer_Tag>Adriaan de Jonghe</XML_Serializer_Tag>
+<XML_Serializer_Tag>Adriaen de Jonghe</XML_Serializer_Tag>
+<XML_Serializer_Tag>Haridanus Iunius</XML_Serializer_Tag>
+<XML_Serializer_Tag>Hadrianus Junus</XML_Serializer_Tag>
+<XML_Serializer_Tag>Hadrianus Iunus</XML_Serializer_Tag>
+<XML_Serializer_Tag>Hadrian Iunius</XML_Serializer_Tag>
+<XML_Serializer_Tag>Hadr. Iunius</XML_Serializer_Tag>
+<XML_Serializer_Tag>Hadrianus Junius</XML_Serializer_Tag>
+<XML_Serializer_Tag>Adrianus Junius</XML_Serializer_Tag>
+</variantName>
+<thumbnail>https://commons.wikimedia.org/wiki/Special:FilePath/Hadrianus_Junius_1511_-_1575.png?width=270</thumbnail>
+<birthEN>1511</birthEN>
+<birthDE>1511</birthDE>
+<deathEN>1575</deathEN>
+<deathDE>1575</deathDE>
+<birthPlace>
+<XML_Serializer_Tag>Hoorn</XML_Serializer_Tag>
+</birthPlace>
+<deathPlace />
+<professionOrOccupation>
+<XML_Serializer_Tag>Arzt</XML_Serializer_Tag>
+<XML_Serializer_Tag>Historiker</XML_Serializer_Tag>
+<XML_Serializer_Tag>Schriftsteller</XML_Serializer_Tag>
+</professionOrOccupation>
+<dbpResource>http://dbpedia.org/resource/Hadrianus_Junius</dbpResource>
+<abstract>Hadrianus Junius (eigentlich: Adriaen de Jonghe; * 1. Juli 1511 in Hoorn, Niederlande; † 16. Juni 1575 in Middelburg) war ein niederländischer Humanist, Arzt, Historiker, Philologe und Dichter.</abstract>
+<wikilink>http://en.wikipedia.org/wiki/Hadrianus_Junius?oldid=601751076</wikilink>
+<artworks />
+<buildings />
+<books />
+</Person>

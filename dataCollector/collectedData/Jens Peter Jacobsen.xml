@@ -1,0 +1,28 @@
+<Person>
+<name>Jens Peter Jacobsen</name>
+<variantName>
+<XML_Serializer_Tag>Jens-Peter Jacobsen</XML_Serializer_Tag>
+<XML_Serializer_Tag>Jens P. Jacobsen</XML_Serializer_Tag>
+<XML_Serializer_Tag>J. P. Jacobsen</XML_Serializer_Tag>
+</variantName>
+<thumbnail>https://commons.wikimedia.org/wiki/Special:FilePath/JP_Jacobsen.jpg?width=270</thumbnail>
+<birthEN>April 7, 1847</birthEN>
+<birthDE>7. April 1847</birthDE>
+<deathEN>April 30, 1885</deathEN>
+<deathDE>30. April 1885</deathDE>
+<birthPlace>
+<XML_Serializer_Tag>Thisted</XML_Serializer_Tag>
+</birthPlace>
+<deathPlace>
+<XML_Serializer_Tag>Thisted</XML_Serializer_Tag>
+</deathPlace>
+<professionOrOccupation>
+<XML_Serializer_Tag>Schriftsteller</XML_Serializer_Tag>
+</professionOrOccupation>
+<dbpResource>http://dbpedia.org/resource/Jens_Peter_Jacobsen</dbpResource>
+<abstract>Jens Peter Jacobsen (* 7. April 1847 in Thisted; † 30. April 1885 ebenda) war ein dänischer Schriftsteller.</abstract>
+<wikilink>http://en.wikipedia.org/wiki/Jens_Peter_Jacobsen?oldid=579160174</wikilink>
+<artworks />
+<buildings />
+<books />
+</Person>

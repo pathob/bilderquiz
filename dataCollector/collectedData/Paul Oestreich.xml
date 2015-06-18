@@ -1,0 +1,24 @@
+<Person>
+<name>Paul Oestreich</name>
+<variantName>
+<XML_Serializer_Tag>Paul Herm... Aug... Oestreich</XML_Serializer_Tag>
+</variantName>
+<thumbnail>https://de.wikipedia.org/wiki/Special:FilePath/Weißensee_Schule.jpg?width=270</thumbnail>
+<birthEN>1878</birthEN>
+<birthDE>1878</birthDE>
+<deathEN>1959</deathEN>
+<deathDE>1959</deathDE>
+<birthPlace />
+<deathPlace />
+<professionOrOccupation>
+<XML_Serializer_Tag>Studienrat</XML_Serializer_Tag>
+<XML_Serializer_Tag>Schriftsteller</XML_Serializer_Tag>
+<XML_Serializer_Tag>Pädagoge</XML_Serializer_Tag>
+</professionOrOccupation>
+<dbpResource>http://dbpedia.org/resource/Paul_Oestreich</dbpResource>
+<abstract>Paul Hermann August Oestreich (* 30. März 1878 in Kolberg (Pommern); † 28. Februar 1959 in Berlin) war ein deutscher Pädagoge. Er war einer der führenden deutschen Reformpädagogen in den 1920er Jahren. Ab 1949 arbeitete er in der Ost-Berliner Schulverwaltung.</abstract>
+<wikilink>http://en.wikipedia.org/wiki/Paul_Oestreich?oldid=545413373</wikilink>
+<artworks />
+<buildings />
+<books />
+</Person>

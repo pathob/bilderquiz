@@ -1,0 +1,42 @@
+<Person>
+<name>John Berryman</name>
+<variantName>
+<XML_Serializer_Tag>John Allyn Smith</XML_Serializer_Tag>
+<XML_Serializer_Tag>John Allyn Smith</XML_Serializer_Tag>
+</variantName>
+<thumbnail>https://en.wikipedia.org/wiki/Special:FilePath/John_Berryman.jpg?width=270</thumbnail>
+<birthEN>October 25, 1914</birthEN>
+<birthDE>25. Oktober 1914</birthDE>
+<deathEN>January 7, 1972</deathEN>
+<deathDE>7. Januar 1972</deathDE>
+<birthPlace>
+<XML_Serializer_Tag>McAlester, Oklahoma</XML_Serializer_Tag>
+</birthPlace>
+<deathPlace>
+<XML_Serializer_Tag>Minneapolis, Minn.</XML_Serializer_Tag>
+</deathPlace>
+<professionOrOccupation>
+<XML_Serializer_Tag>Lyriker</XML_Serializer_Tag>
+</professionOrOccupation>
+<dbpResource>http://dbpedia.org/resource/John_Berryman</dbpResource>
+<abstract>John Berryman (Geburtsname: John Allyn Smith) (* 25. Oktober 1914 in McAlester, Oklahoma; † 7. Januar 1972 in Minneapolis, Minnesota) war ein US-amerikanischer Hochschullehrer und Dichter, der nicht nur den Bollingen Prize in Poetry und den National Book Award, sondern auch den Pulitzer-Preis erhielt. Er wird unter anderem der Gruppe der Confessional Poets zugeordnet.</abstract>
+<wikilink>http://en.wikipedia.org/wiki/John_Berryman?oldid=604102380</wikilink>
+<artworks />
+<buildings />
+<books>
+<XML_Serializer_Tag>
+<book>
+<type>uri</type>
+<value>http://dbpedia.org/resource/The_Dream_Songs</value>
+</book>
+<author>
+<type>uri</type>
+<value>http://dbpedia.org/resource/John_Berryman</value>
+</author>
+<wikilink>
+<type>uri</type>
+<value>http://en.wikipedia.org/wiki/The_Dream_Songs?oldid=591459037</value>
+</wikilink>
+</XML_Serializer_Tag>
+</books>
+</Person>

@@ -28,8 +28,10 @@
 <professionOrOccupation>
 <XML_Serializer_Tag>Maler</XML_Serializer_Tag>
 </professionOrOccupation>
-<artworks />
 <dbpResource>http://dbpedia.org/resource/Johann_Georg_Edlinger</dbpResource>
 <abstract>Johann Georg Edlinger (* 1. März 1741 in Graz; † 15. September 1819 in München) war ein österreichischer Maler. Laut Thieme-Becker lautet sein richtiger Name &quot;Josef Georg (von) Edlinger&quot;. Unbestritten ist allerdings seine Bedeutung als Porträtist seiner Zeit in der südlichen Hälfte des deutschen Sprachraums.</abstract>
 <wikilink>http://en.wikipedia.org/wiki/Johann_Georg_Edlinger?oldid=592044755</wikilink>
+<artworks />
+<buildings />
+<books />
 </Person>

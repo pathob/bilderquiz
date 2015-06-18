@@ -1,0 +1,109 @@
+<Person>
+<name>Steven Holl</name>
+<variantName>
+<XML_Serializer_Tag>Steven Myron Holl</XML_Serializer_Tag>
+</variantName>
+<thumbnail>https://commons.wikimedia.org/wiki/Special:FilePath/MIT20040307-02.jpg?width=270</thumbnail>
+<birthEN>1947</birthEN>
+<birthDE>1947</birthDE>
+<deathEN />
+<deathDE />
+<birthPlace />
+<deathPlace />
+<professionOrOccupation>
+<XML_Serializer_Tag>Architekt</XML_Serializer_Tag>
+</professionOrOccupation>
+<dbpResource>http://dbpedia.org/resource/Steven_Holl</dbpResource>
+<abstract>Steven Holl (* 9. Dezember 1947 in Bremerton, Washington) ist ein zeitgenössischer amerikanischer Architekt. Sein Architekturstil wird dem Postmodernismus und Dekonstruktivismus zugerechnet.</abstract>
+<wikilink>http://en.wikipedia.org/wiki/Steven_Holl?oldid=598755934</wikilink>
+<artworks />
+<buildings>
+<XML_Serializer_Tag>
+<building>
+<type>uri</type>
+<value>http://dbpedia.org/resource/Kiasma</value>
+</building>
+<name>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>Kiasma</value>
+</name>
+<architect>
+<type>uri</type>
+<value>http://dbpedia.org/resource/Steven_Holl</value>
+</architect>
+<thumbnail>
+<type>uri</type>
+<value>http://commons.wikimedia.org/wiki/Special:FilePath/Kiasma_museum_of_contemporary_art.png?width=300</value>
+</thumbnail>
+<wikilink>
+<type>uri</type>
+<value>http://en.wikipedia.org/wiki/Kiasma?oldid=597979771</value>
+</wikilink>
+<location>
+<type>uri</type>
+<value>http://dbpedia.org/resource/Finland</value>
+</location>
+<abstract>
+<type>literal</type>
+<xml:lang>de</xml:lang>
+<value>Das Kiasma (finnisch: Nykytaiteen museo Kiasma) ist ein Museum für zeitgenössische Kunst an der Straße Mannerheimintie in der finnischen Hauptstadt Helsinki. Kiasma ist finnisierte Form für den biologischen Begriff „Chiasma“ (Kreuzung) in Anspielung auf das architektonisch-dekonstruktivistische Konzept des Gebäudes. Das Museum beherbergt die Kunstsammlung des Kuratoriums für Gegenwartskunst der Finnischen Nationalgalerie. Botschaft des Museums ist es, moderne Kunst einem breiten Publikum verständlich nahezubringen.</value>
+</abstract>
+</XML_Serializer_Tag>
+<XML_Serializer_Tag>
+<building>
+<type>uri</type>
+<value>http://dbpedia.org/resource/Campus_of_the_Massachusetts_Institute_of_Technology</value>
+</building>
+<name>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>Dreyfus Building</value>
+</name>
+<architect>
+<type>uri</type>
+<value>http://dbpedia.org/resource/Steven_Holl</value>
+</architect>
+<thumbnail>
+<type>uri</type>
+<value>http://en.wikipedia.org/wiki/Special:FilePath/Rogers-building.jpg?width=300</value>
+</thumbnail>
+<wikilink>
+<type>uri</type>
+<value>http://en.wikipedia.org/wiki/Campus_of_the_Massachusetts_Institute_of_Technology?oldid=603691939</value>
+</wikilink>
+<location>
+<type>uri</type>
+<value>http://dbpedia.org/resource/Cambridge,_Massachusetts</value>
+</location>
+</XML_Serializer_Tag>
+<XML_Serializer_Tag>
+<building>
+<type>uri</type>
+<value>http://dbpedia.org/resource/Linked_Hybrid</value>
+</building>
+<name>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>Linked Hybrid</value>
+</name>
+<architect>
+<type>uri</type>
+<value>http://dbpedia.org/resource/Steven_Holl</value>
+</architect>
+<thumbnail>
+<type>uri</type>
+<value>http://commons.wikimedia.org/wiki/Special:FilePath/Linked-hybrid.jpg?width=300</value>
+</thumbnail>
+<wikilink>
+<type>uri</type>
+<value>http://en.wikipedia.org/wiki/Linked_Hybrid?oldid=598640961</value>
+</wikilink>
+<location>
+<type>uri</type>
+<value>http://dbpedia.org/resource/China</value>
+</location>
+</XML_Serializer_Tag>
+</buildings>
+<books />
+</Person>

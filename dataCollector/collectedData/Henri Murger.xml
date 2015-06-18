@@ -1,0 +1,29 @@
+<Person>
+<name>Henri Murger</name>
+<variantName>
+<XML_Serializer_Tag>Henry Murger</XML_Serializer_Tag>
+<XML_Serializer_Tag>H. Murger</XML_Serializer_Tag>
+<XML_Serializer_Tag>Henry Mürger</XML_Serializer_Tag>
+<XML_Serializer_Tag>Henry Mu͏̈rger</XML_Serializer_Tag>
+</variantName>
+<thumbnail>https://commons.wikimedia.org/wiki/Special:FilePath/Henry_Murger_in_1854.jpg?width=270</thumbnail>
+<birthEN>March 24, 1822</birthEN>
+<birthDE>24. März 1822</birthDE>
+<deathEN>January 28, 1861</deathEN>
+<deathDE>28. Januar 1861</deathDE>
+<birthPlace>
+<XML_Serializer_Tag>Paris</XML_Serializer_Tag>
+</birthPlace>
+<deathPlace>
+<XML_Serializer_Tag>Paris</XML_Serializer_Tag>
+</deathPlace>
+<professionOrOccupation>
+<XML_Serializer_Tag>Schriftsteller</XML_Serializer_Tag>
+</professionOrOccupation>
+<dbpResource>http://dbpedia.org/resource/Henri_Murger</dbpResource>
+<abstract>Henri Murger (* 27. März 1822 in Paris; † 28. Januar 1861 ebd.) war ein französischer Schriftsteller.</abstract>
+<wikilink>http://en.wikipedia.org/wiki/Henri_Murger?oldid=603998967</wikilink>
+<artworks />
+<buildings />
+<books />
+</Person>

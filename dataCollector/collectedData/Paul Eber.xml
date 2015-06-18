@@ -1,0 +1,36 @@
+<Person>
+<name>Paul Eber</name>
+<variantName>
+<XML_Serializer_Tag>, d.Ä.</XML_Serializer_Tag>
+<XML_Serializer_Tag>, der Ältere</XML_Serializer_Tag>
+<XML_Serializer_Tag>... Eberus</XML_Serializer_Tag>
+<XML_Serializer_Tag>Paulus Eber</XML_Serializer_Tag>
+<XML_Serializer_Tag>Paulus Eberus</XML_Serializer_Tag>
+<XML_Serializer_Tag>Paul Ebert</XML_Serializer_Tag>
+<XML_Serializer_Tag>Paulus Ebreus</XML_Serializer_Tag>
+</variantName>
+<thumbnail>https://commons.wikimedia.org/wiki/Special:FilePath/Paul_Eber.jpg?width=270</thumbnail>
+<birthEN>November 8, 1511</birthEN>
+<birthDE>8. November 1511</birthDE>
+<deathEN>December 10, 1569</deathEN>
+<deathDE>10. Dezember 1569</deathDE>
+<birthPlace>
+<XML_Serializer_Tag>Kitzingen</XML_Serializer_Tag>
+</birthPlace>
+<deathPlace>
+<XML_Serializer_Tag>Wittenberg</XML_Serializer_Tag>
+</deathPlace>
+<professionOrOccupation>
+<XML_Serializer_Tag>Theologe</XML_Serializer_Tag>
+<XML_Serializer_Tag>Philologe</XML_Serializer_Tag>
+<XML_Serializer_Tag>Philosoph</XML_Serializer_Tag>
+<XML_Serializer_Tag>Pfarrer</XML_Serializer_Tag>
+<XML_Serializer_Tag>Schriftsteller</XML_Serializer_Tag>
+</professionOrOccupation>
+<dbpResource>http://dbpedia.org/resource/Paul_Eber</dbpResource>
+<abstract>Paul Eber (* 8. November 1511 in Kitzingen; † 10. Dezember 1569 in Wittenberg) war ein evangelischer Theologe, Kirchenliederdichter und Reformator.</abstract>
+<wikilink>http://en.wikipedia.org/wiki/Paul_Eber?oldid=606298226</wikilink>
+<artworks />
+<buildings />
+<books />
+</Person>

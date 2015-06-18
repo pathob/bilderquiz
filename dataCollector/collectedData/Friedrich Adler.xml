@@ -1,0 +1,29 @@
+<Person>
+<name>Friedrich Adler</name>
+<variantName>
+<XML_Serializer_Tag>Johann Heinrich Friedrich Adler</XML_Serializer_Tag>
+<XML_Serializer_Tag>F. Adler</XML_Serializer_Tag>
+</variantName>
+<thumbnail>https://commons.wikimedia.org/wiki/Special:FilePath/Friedrich_Adler_by_Paul_Graef_2.jpg?width=270</thumbnail>
+<birthEN>October 15, 1827</birthEN>
+<birthDE>15. Oktober 1827</birthDE>
+<deathEN>September 15, 1908</deathEN>
+<deathDE>15. September 1908</deathDE>
+<birthPlace>
+<XML_Serializer_Tag>Berlin</XML_Serializer_Tag>
+</birthPlace>
+<deathPlace>
+<XML_Serializer_Tag>Berlin</XML_Serializer_Tag>
+</deathPlace>
+<professionOrOccupation>
+<XML_Serializer_Tag>Architekt</XML_Serializer_Tag>
+<XML_Serializer_Tag>Archäologe</XML_Serializer_Tag>
+<XML_Serializer_Tag>Kunsthistoriker</XML_Serializer_Tag>
+</professionOrOccupation>
+<dbpResource>http://dbpedia.org/resource/Friedrich_Adler_(architect)</dbpResource>
+<abstract>Friedrich Adler (* 15. Oktober 1827 in Berlin; † 15. September 1908 ebenda; vollständiger Name: Johannes Heinrich Friedrich Adler) war ein deutscher Architekt, Baubeamter und Bauforscher.</abstract>
+<wikilink>http://en.wikipedia.org/wiki/Friedrich_Adler_(architect)?oldid=587467426</wikilink>
+<artworks />
+<buildings />
+<books />
+</Person>

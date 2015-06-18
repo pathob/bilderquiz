@@ -1,0 +1,35 @@
+<Person>
+<name>Charles De Coster</name>
+<variantName>
+<XML_Serializer_Tag>Charles de Coster</XML_Serializer_Tag>
+<XML_Serializer_Tag>Charles DeCoster</XML_Serializer_Tag>
+<XML_Serializer_Tag>Charles Théodore Henri De Coster</XML_Serializer_Tag>
+<XML_Serializer_Tag>Charles Théodore Henri de Coster</XML_Serializer_Tag>
+<XML_Serializer_Tag>Charles T. de Coster</XML_Serializer_Tag>
+<XML_Serializer_Tag>Charles Théodore Henri DeCoster</XML_Serializer_Tag>
+<XML_Serializer_Tag>Charles Theódore Henri Decoster</XML_Serializer_Tag>
+<XML_Serializer_Tag>Sharlʹ Anri de Koster</XML_Serializer_Tag>
+<XML_Serializer_Tag>Šarl&apos; de Koster</XML_Serializer_Tag>
+<XML_Serializer_Tag>Charles Théodore Henri De Coster</XML_Serializer_Tag>
+</variantName>
+<thumbnail>https://commons.wikimedia.org/wiki/Special:FilePath/Charles_de_Coster.jpg?width=270</thumbnail>
+<birthEN>August 20, 1827</birthEN>
+<birthDE>20. August 1827</birthDE>
+<deathEN>May 7, 1879</deathEN>
+<deathDE>7. Mai 1879</deathDE>
+<birthPlace>
+<XML_Serializer_Tag>München</XML_Serializer_Tag>
+</birthPlace>
+<deathPlace>
+<XML_Serializer_Tag>Ixelles, Belgien</XML_Serializer_Tag>
+</deathPlace>
+<professionOrOccupation>
+<XML_Serializer_Tag>Schriftsteller</XML_Serializer_Tag>
+</professionOrOccupation>
+<dbpResource>http://dbpedia.org/resource/Charles_De_Coster</dbpResource>
+<abstract>Charles Théodore Henri De Coster (* 20. August 1827 in München; † 7. Mai 1879 in Ixelles) war ein belgischer Schriftsteller. Sein Ulenspiegel, das Epos des Freiheitskampfes der Flamen gegen die spanische Unterdrückung, begründete die moderne französischsprachige Literatur Belgiens.</abstract>
+<wikilink>http://en.wikipedia.org/wiki/Charles_De_Coster?oldid=605358612</wikilink>
+<artworks />
+<buildings />
+<books />
+</Person>

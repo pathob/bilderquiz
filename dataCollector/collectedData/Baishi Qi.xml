@@ -37,8 +37,10 @@
 <professionOrOccupation>
 <XML_Serializer_Tag>Maler</XML_Serializer_Tag>
 </professionOrOccupation>
-<artworks />
 <dbpResource>http://dbpedia.org/resource/Qi_Baishi</dbpResource>
 <abstract>Qi Baishi (chinesisch 齐白石/齊白石, Pinyin Qí Báishí, W.-G. Ch&apos;i Pai-shih; Pseudonyme: Qí Huáng (齐璜/齊璜), Qí Wèiqīng (齐渭清/齊渭清), Tschi Pai-schi und Chi Po-shih; * am 22. Tag des 11. Monats des Jahres Tongzhi 2, also am 1. Januar 1864 in Xiangtan, Provinz Hunan, Kaiserreich China; † 16. September 1957 in Peking, Volksrepublik China) war ein bedeutender chinesischer Maler der Moderne.</abstract>
 <wikilink>http://en.wikipedia.org/wiki/Qi_Baishi?oldid=601099970</wikilink>
+<artworks />
+<buildings />
+<books />
 </Person>

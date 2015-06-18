@@ -1,0 +1,30 @@
+<Person>
+<name>Eduard Zeller</name>
+<variantName>
+<XML_Serializer_Tag>Ėduard Celler</XML_Serializer_Tag>
+<XML_Serializer_Tag>Eduard Gottlob Zeller</XML_Serializer_Tag>
+<XML_Serializer_Tag>Eduard von Zeller</XML_Serializer_Tag>
+</variantName>
+<thumbnail>https://commons.wikimedia.org/wiki/Special:FilePath/EduardZeller.jpg?width=270</thumbnail>
+<birthEN>January 22, 1814</birthEN>
+<birthDE>22. Januar 1814</birthDE>
+<deathEN>March 19, 1908</deathEN>
+<deathDE>19. März 1908</deathDE>
+<birthPlace>
+<XML_Serializer_Tag>Kleinbottwar</XML_Serializer_Tag>
+</birthPlace>
+<deathPlace>
+<XML_Serializer_Tag>Stuttgart</XML_Serializer_Tag>
+</deathPlace>
+<professionOrOccupation>
+<XML_Serializer_Tag>Philosoph</XML_Serializer_Tag>
+<XML_Serializer_Tag>Evangelischer Theologe</XML_Serializer_Tag>
+<XML_Serializer_Tag>Historiker</XML_Serializer_Tag>
+</professionOrOccupation>
+<dbpResource>http://dbpedia.org/resource/Eduard_Zeller</dbpResource>
+<abstract>Eduard Gottlob Zeller (* 22. Januar 1814 in Kleinbottwar; † 19. März 1908 in Stuttgart) war ein deutscher Theologe und Philosoph.</abstract>
+<wikilink>http://en.wikipedia.org/wiki/Eduard_Zeller?oldid=605889122</wikilink>
+<artworks />
+<buildings />
+<books />
+</Person>

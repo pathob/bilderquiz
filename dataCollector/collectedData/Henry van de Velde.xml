@@ -1,0 +1,67 @@
+<Person>
+<name>Henry van de Velde</name>
+<variantName>
+<XML_Serializer_Tag>Henry Van de Velde</XML_Serializer_Tag>
+<XML_Serializer_Tag>Henry van De Velde</XML_Serializer_Tag>
+<XML_Serializer_Tag>Henri Van de Velde</XML_Serializer_Tag>
+<XML_Serializer_Tag>Henri van De Velde</XML_Serializer_Tag>
+<XML_Serializer_Tag>Henri van de Velde</XML_Serializer_Tag>
+<XML_Serializer_Tag>Henry van DeVelde</XML_Serializer_Tag>
+<XML_Serializer_Tag>Henri VanDeVelde</XML_Serializer_Tag>
+<XML_Serializer_Tag>Henry VanDeVelde</XML_Serializer_Tag>
+<XML_Serializer_Tag>Henri van DeVelde</XML_Serializer_Tag>
+<XML_Serializer_Tag>Henri Clemens van de Velde</XML_Serializer_Tag>
+<XML_Serializer_Tag>Henri Clemens Van de Velde</XML_Serializer_Tag>
+<XML_Serializer_Tag>Henri Clemens VandeVelde</XML_Serializer_Tag>
+<XML_Serializer_Tag>Henri Clemens van De Velde</XML_Serializer_Tag>
+</variantName>
+<thumbnail>https://commons.wikimedia.org/wiki/Special:FilePath/Henry_van_de_Velde_S.jpg?width=270</thumbnail>
+<birthEN>April 3, 1863</birthEN>
+<birthDE>3. April 1863</birthDE>
+<deathEN>October 27, 1957</deathEN>
+<deathDE>27. Oktober 1957</deathDE>
+<birthPlace>
+<XML_Serializer_Tag>Antwerpen</XML_Serializer_Tag>
+</birthPlace>
+<deathPlace>
+<XML_Serializer_Tag>Zürich</XML_Serializer_Tag>
+</deathPlace>
+<professionOrOccupation>
+<XML_Serializer_Tag>Architekt</XML_Serializer_Tag>
+<XML_Serializer_Tag>Kunsthandwerker</XML_Serializer_Tag>
+</professionOrOccupation>
+<dbpResource>http://dbpedia.org/resource/Henry_van_de_Velde</dbpResource>
+<abstract>Henry Clement van de Velde (* 3. April 1863 in Antwerpen; † 25. Oktober 1957 in Zürich) war ein belgisch-flämischer Architekt und Designer. Gemeinsam mit Hermann Muthesius und Friedrich Naumann gehörte er zu den Mitbegründern des Deutschen Werkbunds.</abstract>
+<wikilink>http://en.wikipedia.org/wiki/Henry_van_de_Velde?oldid=605423078</wikilink>
+<artworks />
+<buildings>
+<XML_Serializer_Tag>
+<building>
+<type>uri</type>
+<value>http://dbpedia.org/resource/Bloemenwerf</value>
+</building>
+<name>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>Bloemenwerf Huis</value>
+</name>
+<architect>
+<type>uri</type>
+<value>http://dbpedia.org/resource/Henry_van_de_Velde</value>
+</architect>
+<thumbnail>
+<type>uri</type>
+<value>http://en.wikipedia.org/wiki/Special:FilePath/Bloemenwerf_-_Henry_Van_de_Velde_-_1896.jpg?width=300</value>
+</thumbnail>
+<wikilink>
+<type>uri</type>
+<value>http://en.wikipedia.org/wiki/Bloemenwerf?oldid=552265472</value>
+</wikilink>
+<location>
+<type>uri</type>
+<value>http://dbpedia.org/resource/Belgium</value>
+</location>
+</XML_Serializer_Tag>
+</buildings>
+<books />
+</Person>

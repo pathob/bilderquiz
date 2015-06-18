@@ -1,0 +1,29 @@
+<Person>
+<name>Henry More</name>
+<variantName>
+<XML_Serializer_Tag>Philophilus Parresiastes</XML_Serializer_Tag>
+<XML_Serializer_Tag>H. M.</XML_Serializer_Tag>
+<XML_Serializer_Tag>Henricus Morus</XML_Serializer_Tag>
+<XML_Serializer_Tag>Franciscus Palaeopolitanus</XML_Serializer_Tag>
+<XML_Serializer_Tag>Phililcrines Parrhesiastes</XML_Serializer_Tag>
+<XML_Serializer_Tag>F. P.</XML_Serializer_Tag>
+<XML_Serializer_Tag>Franciscus Palaeopolitanus</XML_Serializer_Tag>
+<XML_Serializer_Tag>F. P.</XML_Serializer_Tag>
+</variantName>
+<thumbnail>https://commons.wikimedia.org/wiki/Special:FilePath/Henry_More.jpg?width=270</thumbnail>
+<birthEN>1614</birthEN>
+<birthDE>1614</birthDE>
+<deathEN>1687</deathEN>
+<deathDE>1687</deathDE>
+<birthPlace />
+<deathPlace />
+<professionOrOccupation>
+<XML_Serializer_Tag>Philosoph</XML_Serializer_Tag>
+</professionOrOccupation>
+<dbpResource>http://dbpedia.org/resource/Henry_More</dbpResource>
+<abstract>Henry More (latinisiert Henricus Morus; * Oktober 1614 in Grantham, Lincolnshire; † 1. September 1687 in Cambridge) war ein englischer Philosoph und Dichter. Er war Fellow am angesehenen Christ’s College der Universität Cambridge und gehörte zur Gruppe der Cambridger Platoniker („Cambridger Schule“).</abstract>
+<wikilink>http://en.wikipedia.org/wiki/Henry_More?oldid=601605906</wikilink>
+<artworks />
+<buildings />
+<books />
+</Person>

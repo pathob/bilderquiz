@@ -1,0 +1,29 @@
+<Person>
+<name>Thomas Thorild</name>
+<variantName>
+<XML_Serializer_Tag>Thomas Thorén</XML_Serializer_Tag>
+</variantName>
+<thumbnail>https://commons.wikimedia.org/wiki/Special:FilePath/Thomas_Thorild_(ur_Svenska_Familj-Journalen).png?width=270</thumbnail>
+<birthEN>April 18, 1759</birthEN>
+<birthDE>18. April 1759</birthDE>
+<deathEN>October 1, 1808</deathEN>
+<deathDE>1. Oktober 1808</deathDE>
+<birthPlace>
+<XML_Serializer_Tag>Svarteborg, Bohuslän</XML_Serializer_Tag>
+</birthPlace>
+<deathPlace>
+<XML_Serializer_Tag>Greifswald</XML_Serializer_Tag>
+</deathPlace>
+<professionOrOccupation>
+<XML_Serializer_Tag>Schriftsteller</XML_Serializer_Tag>
+<XML_Serializer_Tag>Philosoph</XML_Serializer_Tag>
+<XML_Serializer_Tag>Literarhistoriker</XML_Serializer_Tag>
+<XML_Serializer_Tag>Bibliothekar</XML_Serializer_Tag>
+</professionOrOccupation>
+<dbpResource>http://dbpedia.org/resource/Thomas_Thorild</dbpResource>
+<abstract>Thomas Thorild (* 18. April 1759 in Svarteborg, Bohuslän; † 1. Oktober 1808 in Greifswald) war ein schwedischer Dichter, Schriftsteller und Literaturkritiker.</abstract>
+<wikilink>http://en.wikipedia.org/wiki/Thomas_Thorild?oldid=599877391</wikilink>
+<artworks />
+<buildings />
+<books />
+</Person>

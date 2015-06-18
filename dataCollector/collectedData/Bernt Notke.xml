@@ -14,8 +14,10 @@
 <XML_Serializer_Tag>Maler</XML_Serializer_Tag>
 <XML_Serializer_Tag>Holzbildhauer</XML_Serializer_Tag>
 </professionOrOccupation>
-<artworks />
 <dbpResource>http://dbpedia.org/resource/Bernt_Notke</dbpResource>
 <abstract>Bernt Notke (* um 1435 in Lassan in Pommern; † Anfang -vor dem- 12. Mai 1509 in Lübeck) war ein in Nordeuropa bekannter Lübecker Maler und Werkstattleiter, wohl der bedeutendste im Ostseeraum des ausgehenden Mittelalters. Die Frage, ob er auch selbst als Bildschnitzer tätig war, wird von der gegenwärtigen Forschung eher verneint.</abstract>
 <wikilink>http://en.wikipedia.org/wiki/Bernt_Notke?oldid=585104771</wikilink>
+<artworks />
+<buildings />
+<books />
 </Person>

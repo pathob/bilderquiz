@@ -1,0 +1,27 @@
+<Person>
+<name>Jeanette Wohl</name>
+<variantName>
+<XML_Serializer_Tag>Jeanette Straus-Wohl</XML_Serializer_Tag>
+<XML_Serializer_Tag>Jeanette Strauss-Wohl</XML_Serializer_Tag>
+<XML_Serializer_Tag>Jeanette Straus</XML_Serializer_Tag>
+<XML_Serializer_Tag>Jeanette Otten</XML_Serializer_Tag>
+<XML_Serializer_Tag>Jeanette Strauß-Wohl</XML_Serializer_Tag>
+<XML_Serializer_Tag>Jeanette S.-Sohl</XML_Serializer_Tag>
+</variantName>
+<thumbnail>https://commons.wikimedia.org/wiki/Special:FilePath/Wohl_Jeanette.jpg?width=270</thumbnail>
+<birthEN>1783</birthEN>
+<birthDE>1783</birthDE>
+<deathEN>1861</deathEN>
+<deathDE>1861</deathDE>
+<birthPlace />
+<deathPlace />
+<professionOrOccupation>
+<XML_Serializer_Tag>Schriftstellerin</XML_Serializer_Tag>
+</professionOrOccupation>
+<dbpResource>http://dbpedia.org/resource/Jeanette_Wohl</dbpResource>
+<abstract>Jeanette Wohl (* 16. Oktober 1783 in Frankfurt am Main; † 27. November 1861 in Paris) war die langjährige vertraute Freundin und Korrespondentin Ludwig Börnes.</abstract>
+<wikilink>http://en.wikipedia.org/wiki/Jeanette_Wohl?oldid=544459077</wikilink>
+<artworks />
+<buildings />
+<books />
+</Person>

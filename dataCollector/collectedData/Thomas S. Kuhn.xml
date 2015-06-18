@@ -1,0 +1,64 @@
+<Person>
+<name>Thomas S. Kuhn</name>
+<variantName>
+<XML_Serializer_Tag>Thomas Samuel Kuhn</XML_Serializer_Tag>
+<XML_Serializer_Tag>Thomas Kuhn</XML_Serializer_Tag>
+<XML_Serializer_Tag>T. Kun</XML_Serializer_Tag>
+<XML_Serializer_Tag>T. S. Kuhn</XML_Serializer_Tag>
+</variantName>
+<thumbnail>https://en.wikipedia.org/wiki/Special:FilePath/Thomas_Kuhn.jpg?width=270</thumbnail>
+<birthEN>1922</birthEN>
+<birthDE>1922</birthDE>
+<deathEN>1996</deathEN>
+<deathDE>1996</deathDE>
+<birthPlace />
+<deathPlace />
+<professionOrOccupation>
+<XML_Serializer_Tag>Philosoph</XML_Serializer_Tag>
+</professionOrOccupation>
+<dbpResource>http://dbpedia.org/resource/Thomas_Kuhn</dbpResource>
+<abstract>Thomas Samuel Kuhn (* 18. Juli 1922 in Cincinnati, Ohio; † 17. Juni 1996 in Cambridge, Massachusetts) war ein US-amerikanischer Wissenschaftsphilosoph und Wissenschaftshistoriker. Er gehört zu den bedeutendsten Wissenschaftsphilosophen des 20. Jahrhunderts. In seinem Hauptwerk The Structure of Scientific Revolutions beschreibt Kuhn die Wissenschaft als eine Folge von Phasen der Normalwissenschaft und von wissenschaftlichen Revolutionen. Ein zentrales Konzept ist hierbei das des Paradigmas. Eine Revolution ist nach Kuhn ein Paradigmenwechsel. Das Verhältnis von Paradigmen, zwischen denen eine Revolution liegt, bezeichnet Kuhn als inkommensurabel, was hier bedeutet: nicht mit dem gleichen (begrifflichen) Maß messbar.</abstract>
+<wikilink>http://en.wikipedia.org/wiki/Thomas_Kuhn?oldid=605795836</wikilink>
+<artworks />
+<buildings />
+<books>
+<XML_Serializer_Tag>
+<book>
+<type>uri</type>
+<value>http://dbpedia.org/resource/The_Copernican_Revolution_(book)</value>
+</book>
+<author>
+<type>uri</type>
+<value>http://dbpedia.org/resource/Thomas_Kuhn</value>
+</author>
+<published>
+<type>typed-literal</type>
+<datatype>http://www.w3.org/2001/XMLSchema#integer</datatype>
+<value>1957</value>
+</published>
+<wikilink>
+<type>uri</type>
+<value>http://en.wikipedia.org/wiki/The_Copernican_Revolution_(book)?oldid=605354541</value>
+</wikilink>
+</XML_Serializer_Tag>
+<XML_Serializer_Tag>
+<book>
+<type>uri</type>
+<value>http://dbpedia.org/resource/The_Structure_of_Scientific_Revolutions</value>
+</book>
+<author>
+<type>uri</type>
+<value>http://dbpedia.org/resource/Thomas_Kuhn</value>
+</author>
+<wikilink>
+<type>uri</type>
+<value>http://en.wikipedia.org/wiki/The_Structure_of_Scientific_Revolutions?oldid=606064824</value>
+</wikilink>
+<abstract>
+<type>literal</type>
+<xml:lang>de</xml:lang>
+<value>The Structure of Scientific Revolutions (deutsch: Die Struktur wissenschaftlicher Revolutionen) ist ein von Thomas S. Kuhn verfasstes Werk und gilt als Meilenstein der Wissenschaftsgeschichte und Wissenschaftstheorie. Durch das Buch wurden Begriffe wie Paradigma und Paradigmenwechsel popularisiert. Das erste Mal wurde das Werk als Monographie in International Encyclopedia of Unified Science publiziert. 1962 erschien das Buch in Erstauflage bei der University of Chicago Press – heute ist die vierte Auflage aktuell (2012). 1969 antwortete Kuhn mit einem Postskriptum auf Kritiken der ersten Auflage. Die Entstehung der Werk-Idee führt Kuhn selbst auf das Jahr 1947 zurück. Damals war er Student an der Harvard University.</value>
+</abstract>
+</XML_Serializer_Tag>
+</books>
+</Person>

@@ -25,8 +25,10 @@
 <XML_Serializer_Tag>Maler</XML_Serializer_Tag>
 <XML_Serializer_Tag>Zeichner</XML_Serializer_Tag>
 </professionOrOccupation>
-<artworks />
 <dbpResource>http://dbpedia.org/resource/Giovanni_Battista_Piazzetta</dbpResource>
 <abstract>Giovanni Battista Piazzetta, auch Giambattista Piazzetta und Giambattista Valentino Piazzetta genannt, (* 13. Februar 1682 in Venedig; † 28. April 1754 ebenda) war ein italienischer Maler und Radierer des Barock und Rokoko.Er gilt als einer der angesehensten venezianischen Künstler des 18. Jahrhunderts, insbesondere seine Genregemälde waren richtungsweisend für die venezianische Malerei des Settecento. Typische Arbeiten des Künstlers waren farbenfrohe, religiöse und mystische Motive, sowie Genreszenen.</abstract>
 <wikilink>http://en.wikipedia.org/wiki/Giovanni_Battista_Piazzetta?oldid=602507062</wikilink>
+<artworks />
+<buildings />
+<books />
 </Person>

@@ -1,0 +1,203 @@
+<Person>
+<name>Yukio Mishima</name>
+<variantName>
+<XML_Serializer_Tag>Kimitake Hiraoka</XML_Serializer_Tag>
+<XML_Serializer_Tag>Jukio Mischima</XML_Serializer_Tag>
+<XML_Serializer_Tag>Mishima Yukio</XML_Serializer_Tag>
+<XML_Serializer_Tag>Jukio Misima</XML_Serializer_Tag>
+<XML_Serializer_Tag>Kimitake Hiraoko</XML_Serializer_Tag>
+<XML_Serializer_Tag>Kimiyoshi Hiraoka</XML_Serializer_Tag>
+<XML_Serializer_Tag>Yu-chi-fu San-tao</XML_Serializer_Tag>
+<XML_Serializer_Tag>Yukʿio Misima</XML_Serializer_Tag>
+<XML_Serializer_Tag>Yugibu Samdo</XML_Serializer_Tag>
+<XML_Serializer_Tag>Yüḳio Misima</XML_Serializer_Tag>
+<XML_Serializer_Tag>Mishima Yukio</XML_Serializer_Tag>
+<XML_Serializer_Tag>Iukio Miśimā</XML_Serializer_Tag>
+<XML_Serializer_Tag>Kimitake Hiraoka</XML_Serializer_Tag>
+<XML_Serializer_Tag>三島由紀夫</XML_Serializer_Tag>
+</variantName>
+<thumbnail>https://commons.wikimedia.org/wiki/Special:FilePath/Yukio_Mishima.jpg?width=270</thumbnail>
+<birthEN>January 14, 1925</birthEN>
+<birthDE>14. Januar 1925</birthDE>
+<deathEN>November 25, 1970</deathEN>
+<deathDE>25. November 1970</deathDE>
+<birthPlace>
+<XML_Serializer_Tag>Tokio</XML_Serializer_Tag>
+</birthPlace>
+<deathPlace>
+<XML_Serializer_Tag>Tokio</XML_Serializer_Tag>
+</deathPlace>
+<professionOrOccupation>
+<XML_Serializer_Tag>Dramatiker</XML_Serializer_Tag>
+<XML_Serializer_Tag>Schriftsteller</XML_Serializer_Tag>
+<XML_Serializer_Tag>Regisseur</XML_Serializer_Tag>
+</professionOrOccupation>
+<dbpResource>http://dbpedia.org/resource/Yukio_Mishima</dbpResource>
+<abstract>Mishima Yukio (jap. 三島 由紀夫; im Deutschen Yukio Mishima; * 14. Januar 1925 in Tokio als Hiraoka Kimitake (平岡 公威); † 25. November 1970 ebenda) war ein japanischer Schriftsteller und nationalistischer politischer Aktivist. Mishima schrieb Romane, Schauspiele, Erzählungen sowie Gedichte und ein Libretto. Er ist sowohl als prominenter Vertreter der japanischen Nachkriegsliteratur als auch für die außergewöhnlichen Umstände seines Suizids bekannt.</abstract>
+<wikilink>http://en.wikipedia.org/wiki/Yukio_Mishima?oldid=605567314</wikilink>
+<artworks />
+<buildings />
+<books>
+<XML_Serializer_Tag>
+<book>
+<type>uri</type>
+<value>http://dbpedia.org/resource/Spring_Snow</value>
+</book>
+<author>
+<type>uri</type>
+<value>http://dbpedia.org/resource/Yukio_Mishima</value>
+</author>
+<released>
+<type>typed-literal</type>
+<datatype>http://www.w3.org/2001/XMLSchema#integer</datatype>
+<value>1969</value>
+</released>
+<wikilink>
+<type>uri</type>
+<value>http://en.wikipedia.org/wiki/Spring_Snow?oldid=601060976</value>
+</wikilink>
+<abstract>
+<type>literal</type>
+<xml:lang>de</xml:lang>
+<value>Schnee im Frühling (jap. 春の雪, Haru no Yuki) ist der erste Band der Tetralogie Das Meer der Fruchtbarkeit des japanischen Autors Yukio Mishima.Der Roman handelt primär von der Liebesgeschichte zwischen dem jugendlichen Protagonisten und seiner älteren Freundin aus Kindertagen.</value>
+</abstract>
+</XML_Serializer_Tag>
+<XML_Serializer_Tag>
+<book>
+<type>uri</type>
+<value>http://dbpedia.org/resource/Runaway_Horses</value>
+</book>
+<author>
+<type>uri</type>
+<value>http://dbpedia.org/resource/Yukio_Mishima</value>
+</author>
+<released>
+<type>typed-literal</type>
+<datatype>http://www.w3.org/2001/XMLSchema#integer</datatype>
+<value>1969</value>
+</released>
+<wikilink>
+<type>uri</type>
+<value>http://en.wikipedia.org/wiki/Runaway_Horses?oldid=598375136</value>
+</wikilink>
+</XML_Serializer_Tag>
+<XML_Serializer_Tag>
+<book>
+<type>uri</type>
+<value>http://dbpedia.org/resource/The_Decay_of_the_Angel</value>
+</book>
+<author>
+<type>uri</type>
+<value>http://dbpedia.org/resource/Yukio_Mishima</value>
+</author>
+<released>
+<type>typed-literal</type>
+<datatype>http://www.w3.org/2001/XMLSchema#date</datatype>
+<value>1971-02-25+02:00</value>
+</released>
+<wikilink>
+<type>uri</type>
+<value>http://en.wikipedia.org/wiki/The_Decay_of_the_Angel?oldid=584711816</value>
+</wikilink>
+</XML_Serializer_Tag>
+<XML_Serializer_Tag>
+<book>
+<type>uri</type>
+<value>http://dbpedia.org/resource/The_Temple_of_Dawn</value>
+</book>
+<author>
+<type>uri</type>
+<value>http://dbpedia.org/resource/Yukio_Mishima</value>
+</author>
+<released>
+<type>typed-literal</type>
+<datatype>http://www.w3.org/2001/XMLSchema#integer</datatype>
+<value>1970</value>
+</released>
+<wikilink>
+<type>uri</type>
+<value>http://en.wikipedia.org/wiki/The_Temple_of_Dawn?oldid=601660968</value>
+</wikilink>
+</XML_Serializer_Tag>
+<XML_Serializer_Tag>
+<book>
+<type>uri</type>
+<value>http://dbpedia.org/resource/The_Temple_of_the_Golden_Pavilion</value>
+</book>
+<author>
+<type>uri</type>
+<value>http://dbpedia.org/resource/Yukio_Mishima</value>
+</author>
+<released>
+<type>typed-literal</type>
+<datatype>http://www.w3.org/2001/XMLSchema#integer</datatype>
+<value>1956</value>
+</released>
+<wikilink>
+<type>uri</type>
+<value>http://en.wikipedia.org/wiki/The_Temple_of_the_Golden_Pavilion?oldid=602104204</value>
+</wikilink>
+</XML_Serializer_Tag>
+<XML_Serializer_Tag>
+<book>
+<type>uri</type>
+<value>http://dbpedia.org/resource/The_Sailor_Who_Fell_from_Grace_with_the_Sea</value>
+</book>
+<author>
+<type>uri</type>
+<value>http://dbpedia.org/resource/Yukio_Mishima</value>
+</author>
+<released>
+<type>typed-literal</type>
+<datatype>http://www.w3.org/2001/XMLSchema#integer</datatype>
+<value>1963</value>
+</released>
+<wikilink>
+<type>uri</type>
+<value>http://en.wikipedia.org/wiki/The_Sailor_Who_Fell_from_Grace_with_the_Sea?oldid=592121571</value>
+</wikilink>
+</XML_Serializer_Tag>
+<XML_Serializer_Tag>
+<book>
+<type>uri</type>
+<value>http://dbpedia.org/resource/Forbidden_Colors</value>
+</book>
+<author>
+<type>uri</type>
+<value>http://dbpedia.org/resource/Yukio_Mishima</value>
+</author>
+<wikilink>
+<type>uri</type>
+<value>http://en.wikipedia.org/wiki/Forbidden_Colors?oldid=587918542</value>
+</wikilink>
+</XML_Serializer_Tag>
+<XML_Serializer_Tag>
+<book>
+<type>uri</type>
+<value>http://dbpedia.org/resource/The_Sound_of_Waves</value>
+</book>
+<author>
+<type>uri</type>
+<value>http://dbpedia.org/resource/Yukio_Mishima</value>
+</author>
+<wikilink>
+<type>uri</type>
+<value>http://en.wikipedia.org/wiki/The_Sound_of_Waves?oldid=601013870</value>
+</wikilink>
+</XML_Serializer_Tag>
+<XML_Serializer_Tag>
+<book>
+<type>uri</type>
+<value>http://dbpedia.org/resource/Confessions_of_a_Mask</value>
+</book>
+<author>
+<type>uri</type>
+<value>http://dbpedia.org/resource/Yukio_Mishima</value>
+</author>
+<wikilink>
+<type>uri</type>
+<value>http://en.wikipedia.org/wiki/Confessions_of_a_Mask?oldid=584234205</value>
+</wikilink>
+</XML_Serializer_Tag>
+</books>
+</Person>

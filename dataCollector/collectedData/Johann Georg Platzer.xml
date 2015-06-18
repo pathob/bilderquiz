@@ -16,8 +16,10 @@
 <XML_Serializer_Tag>Künstler</XML_Serializer_Tag>
 <XML_Serializer_Tag>Maler</XML_Serializer_Tag>
 </professionOrOccupation>
-<artworks />
 <dbpResource>http://dbpedia.org/resource/Johann_Georg_Platzer</dbpResource>
 <abstract>Johann Georg Platzer (* 24. Juni 1704 in Eppan, Südtirol; † 10. Dezember 1761 ebenda) war ein Maler des Barock.</abstract>
 <wikilink>http://en.wikipedia.org/wiki/Johann_Georg_Platzer?oldid=601006585</wikilink>
+<artworks />
+<buildings />
+<books />
 </Person>

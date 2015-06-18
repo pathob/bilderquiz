@@ -20,8 +20,10 @@
 <XML_Serializer_Tag>Maler</XML_Serializer_Tag>
 <XML_Serializer_Tag>Radierer</XML_Serializer_Tag>
 </professionOrOccupation>
-<artworks />
 <dbpResource>http://dbpedia.org/resource/Arthur_Kampf</dbpResource>
 <abstract>Arthur Kampf (ab 1912 Arthur von Kampf; * 26. September 1864 in Aachen; † 8. Februar 1950 in Castrop-Rauxel) war ein deutscher Historienmaler und Hochschullehrer.</abstract>
 <wikilink>http://en.wikipedia.org/wiki/Arthur_Kampf?oldid=567782422</wikilink>
+<artworks />
+<buildings />
+<books />
 </Person>

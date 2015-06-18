@@ -1,0 +1,64 @@
+<Person>
+<name>Max Stirner</name>
+<variantName>
+<XML_Serializer_Tag>Johann K. Schmidt</XML_Serializer_Tag>
+<XML_Serializer_Tag>Johann Kaspar Schmidt</XML_Serializer_Tag>
+<XML_Serializer_Tag>Johann Caspar Schmidt</XML_Serializer_Tag>
+<XML_Serializer_Tag>Johann C. Schmidt</XML_Serializer_Tag>
+<XML_Serializer_Tag>Kaspar Schmidt</XML_Serializer_Tag>
+<XML_Serializer_Tag>Caspar Schmidt</XML_Serializer_Tag>
+<XML_Serializer_Tag>Maks Štirner</XML_Serializer_Tag>
+<XML_Serializer_Tag>Joh. Kaspar Schmidt</XML_Serializer_Tag>
+<XML_Serializer_Tag>スティルネル</XML_Serializer_Tag>
+</variantName>
+<thumbnail>https://commons.wikimedia.org/wiki/Special:FilePath/Max_Stirner-k.jpg?width=270</thumbnail>
+<birthEN>1806</birthEN>
+<birthDE>1806</birthDE>
+<deathEN>1856</deathEN>
+<deathDE>1856</deathDE>
+<birthPlace>
+<XML_Serializer_Tag>Bayreuth</XML_Serializer_Tag>
+</birthPlace>
+<deathPlace />
+<professionOrOccupation>
+<XML_Serializer_Tag>Philosoph</XML_Serializer_Tag>
+<XML_Serializer_Tag>Schriftsteller</XML_Serializer_Tag>
+<XML_Serializer_Tag>Gymnasiallehrer</XML_Serializer_Tag>
+</professionOrOccupation>
+<dbpResource>http://dbpedia.org/resource/Max_Stirner</dbpResource>
+<abstract>Max Stirner (Pseudonym für Johann Caspar Schmidt, * 25. Oktober 1806 in Bayreuth; † 25. Juni 1856 in Berlin) war ein deutscher Philosoph und Journalist.</abstract>
+<wikilink>http://en.wikipedia.org/wiki/Max_Stirner?oldid=606591876</wikilink>
+<artworks />
+<buildings />
+<books>
+<XML_Serializer_Tag>
+<book>
+<type>uri</type>
+<value>http://dbpedia.org/resource/The_Ego_and_Its_Own</value>
+</book>
+<author>
+<type>uri</type>
+<value>http://dbpedia.org/resource/Max_Stirner</value>
+</author>
+<thumbnail>
+<type>uri</type>
+<value>http://commons.wikimedia.org/wiki/Special:FilePath/Ein1844v2.png?width=300</value>
+</thumbnail>
+<published>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>*1844 
+*1907</value>
+</published>
+<wikilink>
+<type>uri</type>
+<value>http://en.wikipedia.org/wiki/The_Ego_and_Its_Own?oldid=587624122</value>
+</wikilink>
+<abstract>
+<type>literal</type>
+<xml:lang>de</xml:lang>
+<value>Der Einzige und sein Eigentum ist das Hauptwerk von Max Stirner, das im Oktober 1844, vordatiert auf 1845, im Verlag von Otto Wigand in Leipzig erschien.</value>
+</abstract>
+</XML_Serializer_Tag>
+</books>
+</Person>

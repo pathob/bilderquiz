@@ -1,0 +1,35 @@
+<Person>
+<name>Joseph Spillmann</name>
+<variantName>
+<XML_Serializer_Tag>Josef Spillmann</XML_Serializer_Tag>
+<XML_Serializer_Tag>Jos. Spillmann</XML_Serializer_Tag>
+<XML_Serializer_Tag>Jozefas Špilmanas</XML_Serializer_Tag>
+<XML_Serializer_Tag>Iosif Spillmann</XML_Serializer_Tag>
+<XML_Serializer_Tag>Josif Spillmann</XML_Serializer_Tag>
+<XML_Serializer_Tag>Josip Spillmann</XML_Serializer_Tag>
+<XML_Serializer_Tag>Jozef Spillmann</XML_Serializer_Tag>
+<XML_Serializer_Tag>José Spillmann</XML_Serializer_Tag>
+</variantName>
+<thumbnail>https://commons.wikimedia.org/wiki/Special:FilePath/Pater_Joseph_Spillmann.jpg?width=270</thumbnail>
+<birthEN>April 22, 1842</birthEN>
+<birthDE>22. April 1842</birthDE>
+<deathEN>February 23, 1905</deathEN>
+<deathDE>23. Februar 1905</deathDE>
+<birthPlace>
+<XML_Serializer_Tag>Zug, Schweiz</XML_Serializer_Tag>
+</birthPlace>
+<deathPlace>
+<XML_Serializer_Tag>Luxemburg</XML_Serializer_Tag>
+</deathPlace>
+<professionOrOccupation>
+<XML_Serializer_Tag>Historiker</XML_Serializer_Tag>
+<XML_Serializer_Tag>Schriftsteller</XML_Serializer_Tag>
+<XML_Serializer_Tag>Katholischer Theologe</XML_Serializer_Tag>
+</professionOrOccupation>
+<dbpResource>http://dbpedia.org/resource/Joseph_Spillmann</dbpResource>
+<abstract>Joseph Spillmann (* 22. April 1842 in Zug; † 23. Februar 1905 in Luxemburg) war ein Schweizer Schriftsteller und Jesuit.</abstract>
+<wikilink>http://en.wikipedia.org/wiki/Joseph_Spillmann?oldid=543394368</wikilink>
+<artworks />
+<buildings />
+<books />
+</Person>

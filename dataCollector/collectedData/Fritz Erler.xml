@@ -19,8 +19,10 @@
 <XML_Serializer_Tag>Raumausstatter</XML_Serializer_Tag>
 <XML_Serializer_Tag>Bühnenbildner</XML_Serializer_Tag>
 </professionOrOccupation>
-<artworks />
 <dbpResource>http://dbpedia.org/resource/Fritz_Erler</dbpResource>
 <abstract>Fritz Erler (* 15. Dezember 1868 in Frankenstein (Schlesien); † 11. Dezember 1940 in München) war ein deutscher Maler, Grafiker und Bühnenbildner.</abstract>
 <wikilink>http://en.wikipedia.org/wiki/Fritz_Erler?oldid=590787422</wikilink>
+<artworks />
+<buildings />
+<books />
 </Person>

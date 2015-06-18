@@ -1,0 +1,34 @@
+<Person>
+<name>Joachim Fuchsberger</name>
+<variantName>
+<XML_Serializer_Tag>Joachim Blacky Fuchsberger</XML_Serializer_Tag>
+<XML_Serializer_Tag>Blacky Fuchsberger</XML_Serializer_Tag>
+<XML_Serializer_Tag>Joachim Berger</XML_Serializer_Tag>
+<XML_Serializer_Tag>Joachim Karl Fuchsberger</XML_Serializer_Tag>
+<XML_Serializer_Tag>Joachim „Blacky“ Fuchsberger</XML_Serializer_Tag>
+</variantName>
+<thumbnail>https://commons.wikimedia.org/wiki/Special:FilePath/Joachim_Fuchsberger_ROMY2008.jpg?width=270</thumbnail>
+<birthEN>March 11, 1927</birthEN>
+<birthDE>11. März 1927</birthDE>
+<deathEN>September 11, 2014</deathEN>
+<deathDE>11. September 2014</deathDE>
+<birthPlace>
+<XML_Serializer_Tag>Stuttgart</XML_Serializer_Tag>
+</birthPlace>
+<deathPlace>
+<XML_Serializer_Tag>Grünwald</XML_Serializer_Tag>
+</deathPlace>
+<professionOrOccupation>
+<XML_Serializer_Tag>Regisseur</XML_Serializer_Tag>
+<XML_Serializer_Tag>Moderator</XML_Serializer_Tag>
+<XML_Serializer_Tag>Autor</XML_Serializer_Tag>
+<XML_Serializer_Tag>Produzent</XML_Serializer_Tag>
+<XML_Serializer_Tag>Schauspieler</XML_Serializer_Tag>
+</professionOrOccupation>
+<dbpResource>http://dbpedia.org/resource/Joachim_Fuchsberger</dbpResource>
+<abstract>Joachim „Blacky“ Fuchsberger (* 11. März 1927 in Stuttgart) ist ein deutscher Schauspieler und Entertainer. Er besitzt neben der deutschen auch die australische Staatsangehörigkeit.</abstract>
+<wikilink>http://en.wikipedia.org/wiki/Joachim_Fuchsberger?oldid=585574812</wikilink>
+<artworks />
+<buildings />
+<books />
+</Person>

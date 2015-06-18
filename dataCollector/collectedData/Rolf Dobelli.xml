@@ -1,0 +1,56 @@
+<Person>
+<name>Rolf Dobelli</name>
+<variantName>
+<XML_Serializer_Tag>Rolp&apos;ŭ Tobelli</XML_Serializer_Tag>
+<XML_Serializer_Tag>Rolph Ntompelli</XML_Serializer_Tag>
+<XML_Serializer_Tag>Lu er fu Du bo li</XML_Serializer_Tag>
+<XML_Serializer_Tag>Luerfu-Duboli</XML_Serializer_Tag>
+<XML_Serializer_Tag>Luerfu Duboli</XML_Serializer_Tag>
+<XML_Serializer_Tag>Luo er fu Duo bei li</XML_Serializer_Tag>
+<XML_Serializer_Tag>Luoerfu-Duobeili</XML_Serializer_Tag>
+<XML_Serializer_Tag>Luoerfu Duobeili</XML_Serializer_Tag>
+</variantName>
+<thumbnail>https://commons.wikimedia.org/wiki/Special:FilePath/Rolf_dobelli_2010.jpg?width=270</thumbnail>
+<birthEN>1966</birthEN>
+<birthDE>1966</birthDE>
+<deathEN />
+<deathDE />
+<birthPlace>
+<XML_Serializer_Tag>Luzern</XML_Serializer_Tag>
+</birthPlace>
+<deathPlace />
+<professionOrOccupation>
+<XML_Serializer_Tag>Unternehmer</XML_Serializer_Tag>
+<XML_Serializer_Tag>Schriftsteller</XML_Serializer_Tag>
+</professionOrOccupation>
+<dbpResource>http://dbpedia.org/resource/Rolf_Dobelli</dbpResource>
+<abstract>Rolf Dobelli (ursprünglich Döbeli) (* 15. Juli 1966 in Luzern) ist ein Schweizer Schriftsteller und Unternehmer.</abstract>
+<wikilink>http://en.wikipedia.org/wiki/Rolf_Dobelli?oldid=597804699</wikilink>
+<artworks />
+<buildings />
+<books>
+<XML_Serializer_Tag>
+<book>
+<type>uri</type>
+<value>http://dbpedia.org/resource/The_Art_of_Thinking_Clearly</value>
+</book>
+<author>
+<type>uri</type>
+<value>http://dbpedia.org/resource/Rolf_Dobelli</value>
+</author>
+<thumbnail>
+<type>uri</type>
+<value>http://en.wikipedia.org/wiki/Special:FilePath/Art_of_Thinking_Clearly_UK_cover.jpg?width=300</value>
+</thumbnail>
+<released>
+<type>typed-literal</type>
+<datatype>http://www.w3.org/2001/XMLSchema#integer</datatype>
+<value>2013</value>
+</released>
+<wikilink>
+<type>uri</type>
+<value>http://en.wikipedia.org/wiki/The_Art_of_Thinking_Clearly?oldid=573979124</value>
+</wikilink>
+</XML_Serializer_Tag>
+</books>
+</Person>

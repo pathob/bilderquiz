@@ -1,0 +1,107 @@
+<Person>
+<name>Alasdair Gray</name>
+<variantName />
+<thumbnail>https://commons.wikimedia.org/wiki/Special:FilePath/Alasdair_Gray_(1994)_by_Guenter_Prust.jpg?width=270</thumbnail>
+<birthEN>1934</birthEN>
+<birthDE>1934</birthDE>
+<deathEN />
+<deathDE />
+<birthPlace />
+<deathPlace />
+<professionOrOccupation>
+<XML_Serializer_Tag>Schriftsteller</XML_Serializer_Tag>
+<XML_Serializer_Tag>Künstler</XML_Serializer_Tag>
+</professionOrOccupation>
+<dbpResource>http://dbpedia.org/resource/Alasdair_Gray</dbpResource>
+<abstract>Alasdair Gray (* 28. Dezember 1934 in Riddrie, Glasgow) ist ein schottischer Schriftsteller und Künstler. Sein bekanntestes Werk ist sein erster Roman Lanark (1981), an dem er über 30 Jahre lang gearbeitet hat. In seinen Werken kombiniert er Realismus, Fantasy und Science Fiction. Eine Besonderheit seiner Werke ist die geschickte Verwendung von Typographie und die Einbindung seiner eigenen Illustrationen. Seine politischen Schriften unterstützen den schottischen Sozialismus und die Unabhängigkeit Schottlands. Der Autor Will Self beschreibt ihn als &quot;einen kreativen Sozialgelehrten mit integrierter politisch-philosophischer Vision&quot;. Er selbst nennt sich einen &quot;fetten, Brillen tragenden, glatzköpfigen, alternden Fußgänger aus Glasgow&quot;.</abstract>
+<wikilink>http://en.wikipedia.org/wiki/Alasdair_Gray?oldid=599681440</wikilink>
+<artworks />
+<buildings />
+<books>
+<XML_Serializer_Tag>
+<book>
+<type>uri</type>
+<value>http://dbpedia.org/resource/1982,_Janine</value>
+</book>
+<author>
+<type>uri</type>
+<value>http://dbpedia.org/resource/Alasdair_Gray</value>
+</author>
+<released>
+<type>typed-literal</type>
+<datatype>http://www.w3.org/2001/XMLSchema#date</datatype>
+<value>1984-10-30+02:00</value>
+</released>
+<wikilink>
+<type>uri</type>
+<value>http://en.wikipedia.org/wiki/1982,_Janine?oldid=577316314</value>
+</wikilink>
+</XML_Serializer_Tag>
+<XML_Serializer_Tag>
+<book>
+<type>uri</type>
+<value>http://dbpedia.org/resource/Lanark:_A_Life_in_Four_Books</value>
+</book>
+<author>
+<type>uri</type>
+<value>http://dbpedia.org/resource/Alasdair_Gray</value>
+</author>
+<released>
+<type>typed-literal</type>
+<datatype>http://www.w3.org/2001/XMLSchema#integer</datatype>
+<value>1981</value>
+</released>
+<wikilink>
+<type>uri</type>
+<value>http://en.wikipedia.org/wiki/Lanark:_A_Life_in_Four_Books?oldid=591102537</value>
+</wikilink>
+</XML_Serializer_Tag>
+<XML_Serializer_Tag>
+<book>
+<type>uri</type>
+<value>http://dbpedia.org/resource/Poor_Things</value>
+</book>
+<author>
+<type>uri</type>
+<value>http://dbpedia.org/resource/Alasdair_Gray</value>
+</author>
+<released>
+<type>typed-literal</type>
+<datatype>http://www.w3.org/2001/XMLSchema#integer</datatype>
+<value>1992</value>
+</released>
+<wikilink>
+<type>uri</type>
+<value>http://en.wikipedia.org/wiki/Poor_Things?oldid=599681418</value>
+</wikilink>
+</XML_Serializer_Tag>
+<XML_Serializer_Tag>
+<book>
+<type>uri</type>
+<value>http://dbpedia.org/resource/Something_Leather</value>
+</book>
+<author>
+<type>uri</type>
+<value>http://dbpedia.org/resource/Alasdair_Gray</value>
+</author>
+<wikilink>
+<type>uri</type>
+<value>http://en.wikipedia.org/wiki/Something_Leather?oldid=600490763</value>
+</wikilink>
+</XML_Serializer_Tag>
+<XML_Serializer_Tag>
+<book>
+<type>uri</type>
+<value>http://dbpedia.org/resource/A_History_Maker</value>
+</book>
+<author>
+<type>uri</type>
+<value>http://dbpedia.org/resource/Alasdair_Gray</value>
+</author>
+<wikilink>
+<type>uri</type>
+<value>http://en.wikipedia.org/wiki/A_History_Maker?oldid=591903077</value>
+</wikilink>
+</XML_Serializer_Tag>
+</books>
+</Person>

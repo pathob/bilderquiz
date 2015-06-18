@@ -1,0 +1,33 @@
+<Person>
+<name>Matthias Claudius</name>
+<variantName>
+<XML_Serializer_Tag>... Claudius</XML_Serializer_Tag>
+<XML_Serializer_Tag>Mathias Claudius</XML_Serializer_Tag>
+<XML_Serializer_Tag>M. Claudius</XML_Serializer_Tag>
+</variantName>
+<thumbnail>https://commons.wikimedia.org/wiki/Special:FilePath/Portrait_claudius.jpg?width=270</thumbnail>
+<birthEN>August 15, 1740</birthEN>
+<birthDE>15. August 1740</birthDE>
+<deathEN>January 21, 1815</deathEN>
+<deathDE>21. Januar 1815</deathDE>
+<birthPlace>
+<XML_Serializer_Tag>Reinfeld (Holstein)</XML_Serializer_Tag>
+</birthPlace>
+<deathPlace>
+<XML_Serializer_Tag>Hamburg</XML_Serializer_Tag>
+</deathPlace>
+<professionOrOccupation>
+<XML_Serializer_Tag>Schriftsteller</XML_Serializer_Tag>
+<XML_Serializer_Tag>Redakteur</XML_Serializer_Tag>
+<XML_Serializer_Tag>Liederdichter</XML_Serializer_Tag>
+<XML_Serializer_Tag>Lyriker</XML_Serializer_Tag>
+<XML_Serializer_Tag>Übersetzer</XML_Serializer_Tag>
+<XML_Serializer_Tag>Theologe</XML_Serializer_Tag>
+</professionOrOccupation>
+<dbpResource>http://dbpedia.org/resource/Matthias_Claudius</dbpResource>
+<abstract>Matthias Claudius (Pseudonym Asmus, * 15. August 1740 in Reinfeld (Holstein); † 21. Januar 1815 in Hamburg) war ein deutscher Dichter und Journalist, bekannt als Lyriker mit volksliedhafter, intensiv empfundener Verskunst.</abstract>
+<wikilink>http://en.wikipedia.org/wiki/Matthias_Claudius?oldid=585776003</wikilink>
+<artworks />
+<buildings />
+<books />
+</Person>

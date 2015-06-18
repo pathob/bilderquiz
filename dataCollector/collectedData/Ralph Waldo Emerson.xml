@@ -1,0 +1,27 @@
+<Person>
+<name>Ralph Waldo Emerson</name>
+<variantName>
+<XML_Serializer_Tag>R. W. Emerson</XML_Serializer_Tag>
+<XML_Serializer_Tag>Ralph Waldo Emerson</XML_Serializer_Tag>
+<XML_Serializer_Tag>Ralph W. Emerson</XML_Serializer_Tag>
+</variantName>
+<thumbnail>https://commons.wikimedia.org/wiki/Special:FilePath/Emerson_by_Johnson_1846-crop.jpg?width=270</thumbnail>
+<birthEN>May 25, 1803</birthEN>
+<birthDE>25. Mai 1803</birthDE>
+<deathEN>April 27, 1882</deathEN>
+<deathDE>27. April 1882</deathDE>
+<birthPlace>
+<XML_Serializer_Tag>Boston, Mass.</XML_Serializer_Tag>
+</birthPlace>
+<deathPlace />
+<professionOrOccupation>
+<XML_Serializer_Tag>Schriftsteller</XML_Serializer_Tag>
+<XML_Serializer_Tag>Philosoph</XML_Serializer_Tag>
+</professionOrOccupation>
+<dbpResource>http://dbpedia.org/resource/Ralph_Waldo_Emerson</dbpResource>
+<abstract>Ralph Waldo Emerson (* 25. Mai 1803 in Boston, Massachusetts; † 27. April 1882 in Concord, Massachusetts) war ein US-amerikanischer Philosoph, Schriftsteller und Führer der Transzendentalisten in Neuengland.</abstract>
+<wikilink>http://en.wikipedia.org/wiki/Ralph_Waldo_Emerson?oldid=606659921</wikilink>
+<artworks />
+<buildings />
+<books />
+</Person>

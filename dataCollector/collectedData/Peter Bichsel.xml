@@ -1,0 +1,30 @@
+<Person>
+<name>Peter Bichsel</name>
+<variantName>
+<XML_Serializer_Tag>P&apos;et&apos;ŏ Piksel</XML_Serializer_Tag>
+<XML_Serializer_Tag>Peter Bicsel</XML_Serializer_Tag>
+<XML_Serializer_Tag>Peṭer Bîksel</XML_Serializer_Tag>
+<XML_Serializer_Tag>Peṭer Biḳsel</XML_Serializer_Tag>
+<XML_Serializer_Tag>Peter Mpixel</XML_Serializer_Tag>
+<XML_Serializer_Tag>페터 빅셀</XML_Serializer_Tag>
+<XML_Serializer_Tag>פטר ביכסל</XML_Serializer_Tag>
+</variantName>
+<thumbnail>https://commons.wikimedia.org/wiki/Special:FilePath/Peter-bichsel-nationalbibliothek-2012-ffm-431.jpg?width=270</thumbnail>
+<birthEN>1935</birthEN>
+<birthDE>1935</birthDE>
+<deathEN />
+<deathDE />
+<birthPlace>
+<XML_Serializer_Tag>Luzern</XML_Serializer_Tag>
+</birthPlace>
+<deathPlace />
+<professionOrOccupation>
+<XML_Serializer_Tag>Schriftsteller</XML_Serializer_Tag>
+</professionOrOccupation>
+<dbpResource>http://dbpedia.org/resource/Peter_Bichsel</dbpResource>
+<abstract>Peter Bichsel (* 24. März 1935 in Luzern) ist ein Schweizer Schriftsteller, bekannt insbesondere für seine Kurzgeschichten und Kolumnen.</abstract>
+<wikilink>http://en.wikipedia.org/wiki/Peter_Bichsel?oldid=605321454</wikilink>
+<artworks />
+<buildings />
+<books />
+</Person>

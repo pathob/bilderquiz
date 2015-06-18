@@ -1,0 +1,25 @@
+<Person>
+<name>Ernst Weyden</name>
+<variantName />
+<thumbnail>https://commons.wikimedia.org/wiki/Special:FilePath/Ernst_Weyden.jpg?width=270</thumbnail>
+<birthEN>May 10, 1805</birthEN>
+<birthDE>10. Mai 1805</birthDE>
+<deathEN>October 11, 1869</deathEN>
+<deathDE>11. Oktober 1869</deathDE>
+<birthPlace>
+<XML_Serializer_Tag>Köln</XML_Serializer_Tag>
+</birthPlace>
+<deathPlace>
+<XML_Serializer_Tag>Altona</XML_Serializer_Tag>
+</deathPlace>
+<professionOrOccupation>
+<XML_Serializer_Tag>Schriftsteller</XML_Serializer_Tag>
+<XML_Serializer_Tag>Pädagoge</XML_Serializer_Tag>
+</professionOrOccupation>
+<dbpResource>http://dbpedia.org/resource/Ernst_Weyden</dbpResource>
+<abstract>Ernst Weyden (* 18. Mai 1805 in Köln; † 11. Oktober 1869 in Altona) war ein Kölner Schriftsteller.Er unterrichtete in der 1828 errichteten Höheren Bürgerschule. In seinem Werk Cölns Vorzeit erschien 1826 die Geschichte von den Heinzelmännchen zu Cöln erstmals in Schriftform.</abstract>
+<wikilink>http://en.wikipedia.org/wiki/Ernst_Weyden?oldid=548968359</wikilink>
+<artworks />
+<buildings />
+<books />
+</Person>

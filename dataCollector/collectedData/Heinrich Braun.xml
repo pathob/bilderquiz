@@ -1,0 +1,28 @@
+<Person>
+<name>Heinrich Braun</name>
+<variantName />
+<thumbnail>https://commons.wikimedia.org/wiki/Special:FilePath/Heinrich_Braun.jpg?width=270</thumbnail>
+<birthEN>November 23, 1854</birthEN>
+<birthDE>23. November 1854</birthDE>
+<deathEN>February 8, 1927</deathEN>
+<deathDE>8. Februar 1927</deathDE>
+<birthPlace>
+<XML_Serializer_Tag>Budapest</XML_Serializer_Tag>
+</birthPlace>
+<deathPlace>
+<XML_Serializer_Tag>Berlin</XML_Serializer_Tag>
+</deathPlace>
+<professionOrOccupation>
+<XML_Serializer_Tag>Politiker</XML_Serializer_Tag>
+<XML_Serializer_Tag>Linguist</XML_Serializer_Tag>
+<XML_Serializer_Tag>Schriftsteller</XML_Serializer_Tag>
+<XML_Serializer_Tag>Publizist</XML_Serializer_Tag>
+<XML_Serializer_Tag>Sozialpolitiker</XML_Serializer_Tag>
+</professionOrOccupation>
+<dbpResource>http://dbpedia.org/resource/Heinrich_Braun</dbpResource>
+<abstract>Heinrich Friedrich Wilhelm Braun (* 1. Januar 1862 in Rawitsch, Provinz Posen; † 26. April 1934 in Überlingen) war ein deutscher Chirurg.</abstract>
+<wikilink>http://en.wikipedia.org/wiki/Heinrich_Braun?oldid=604484385</wikilink>
+<artworks />
+<buildings />
+<books />
+</Person>

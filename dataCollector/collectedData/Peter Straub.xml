@@ -1,0 +1,126 @@
+<Person>
+<name>Peter Straub</name>
+<variantName>
+<XML_Serializer_Tag>Pieter Straub</XML_Serializer_Tag>
+<XML_Serializer_Tag>Peter Francis Straub</XML_Serializer_Tag>
+</variantName>
+<thumbnail>https://commons.wikimedia.org/wiki/Special:FilePath/Peter_Straub.jpg?width=270</thumbnail>
+<birthEN>1943</birthEN>
+<birthDE>1943</birthDE>
+<deathEN />
+<deathDE />
+<birthPlace>
+<XML_Serializer_Tag>Milwaukee, Wis.</XML_Serializer_Tag>
+</birthPlace>
+<deathPlace />
+<professionOrOccupation>
+<XML_Serializer_Tag>Schriftsteller</XML_Serializer_Tag>
+</professionOrOccupation>
+<dbpResource>http://dbpedia.org/resource/Peter_Straub</dbpResource>
+<abstract>Peter Francis Straub (* 2. März 1943 in Milwaukee, Wisconsin, USA) ist ein US-amerikanischer Schriftsteller, der durch seine Horror-Romane bekannt wurde. Wie Stephen King, mit dem er zwei Romane schrieb, zählt er zu den bedeutendsten Vertretern der modernen Phantastik.</abstract>
+<wikilink>http://en.wikipedia.org/wiki/Peter_Straub?oldid=597749565</wikilink>
+<artworks />
+<buildings />
+<books>
+<XML_Serializer_Tag>
+<book>
+<type>uri</type>
+<value>http://dbpedia.org/resource/The_Talisman_(King_and_Straub_novel)</value>
+</book>
+<author>
+<type>uri</type>
+<value>http://dbpedia.org/resource/Peter_Straub</value>
+</author>
+<released>
+<type>typed-literal</type>
+<datatype>http://www.w3.org/2001/XMLSchema#date</datatype>
+<value>1984-11-08+02:00</value>
+</released>
+<wikilink>
+<type>uri</type>
+<value>http://en.wikipedia.org/wiki/The_Talisman_(King_and_Straub_novel)?oldid=603952222</value>
+</wikilink>
+<abstract>
+<type>literal</type>
+<xml:lang>de</xml:lang>
+<value>Der Talisman (Originaltitel: The Talisman) ist ein Fantasyroman der US-amerikanischen Schriftsteller Stephen King und Peter Straub aus dem Jahr 1984.</value>
+</abstract>
+</XML_Serializer_Tag>
+<XML_Serializer_Tag>
+<book>
+<type>uri</type>
+<value>http://dbpedia.org/resource/Black_House_(novel)</value>
+</book>
+<author>
+<type>uri</type>
+<value>http://dbpedia.org/resource/Peter_Straub</value>
+</author>
+<released>
+<type>typed-literal</type>
+<datatype>http://www.w3.org/2001/XMLSchema#date</datatype>
+<value>2001-09-15+02:00</value>
+</released>
+<wikilink>
+<type>uri</type>
+<value>http://en.wikipedia.org/wiki/Black_House_(novel)?oldid=602272846</value>
+</wikilink>
+<abstract>
+<type>literal</type>
+<xml:lang>de</xml:lang>
+<value>Das Schwarze Haus ist die Fortsetzung des Romans Der Talisman von Stephen King und Peter Straub (wobei jedoch anzumerken ist, dass eine Kenntnis von Der Talisman für Das Schwarze Haus nicht vorausgesetzt wird).Da den beiden Freunden die Zusammenarbeit damals viel Spaß bereitete, entschlossen sie sich, eine Fortsetzung der Geschichte zu schreiben. Diese erschien bereits 2001 in den USA, bevor sie ein Jahr später in Deutschland in den Handel kam. Laut einem Interview mit King und Straub wird ein dritter Teil des Talismans angestrebt. Der Roman besticht durch eine besondere Erzählstruktur.</value>
+</abstract>
+</XML_Serializer_Tag>
+<XML_Serializer_Tag>
+<book>
+<type>uri</type>
+<value>http://dbpedia.org/resource/Mrs._God_(novel)</value>
+</book>
+<author>
+<type>uri</type>
+<value>http://dbpedia.org/resource/Peter_Straub</value>
+</author>
+<released>
+<type>typed-literal</type>
+<datatype>http://www.w3.org/2001/XMLSchema#integer</datatype>
+<value>1990</value>
+</released>
+<wikilink>
+<type>uri</type>
+<value>http://en.wikipedia.org/wiki/Mrs._God_(novel)?oldid=544904633</value>
+</wikilink>
+</XML_Serializer_Tag>
+<XML_Serializer_Tag>
+<book>
+<type>uri</type>
+<value>http://dbpedia.org/resource/The_General&apos;s_Wife</value>
+</book>
+<author>
+<type>uri</type>
+<value>http://dbpedia.org/resource/Peter_Straub</value>
+</author>
+<released>
+<type>typed-literal</type>
+<datatype>http://www.w3.org/2001/XMLSchema#integer</datatype>
+<value>1982</value>
+</released>
+<wikilink>
+<type>uri</type>
+<value>http://en.wikipedia.org/wiki/The_General&apos;s_Wife?oldid=593173408</value>
+</wikilink>
+</XML_Serializer_Tag>
+<XML_Serializer_Tag>
+<book>
+<type>uri</type>
+<value>http://dbpedia.org/resource/Koko_(novel)</value>
+</book>
+<author>
+<type>uri</type>
+<value>http://dbpedia.org/resource/Peter_Straub</value>
+</author>
+<wikilink>
+<type>uri</type>
+<value>http://en.wikipedia.org/wiki/Koko_(novel)?oldid=585109214</value>
+</wikilink>
+</XML_Serializer_Tag>
+</books>
+</Person>

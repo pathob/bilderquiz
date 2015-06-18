@@ -1,0 +1,30 @@
+<Person>
+<name>Thomas Christian Tychsen</name>
+<variantName>
+<XML_Serializer_Tag>Thomas Christianus Tychsen</XML_Serializer_Tag>
+<XML_Serializer_Tag>Thomas C. Tychsen</XML_Serializer_Tag>
+<XML_Serializer_Tag>Thomas Christoph Tychsen</XML_Serializer_Tag>
+<XML_Serializer_Tag>Th. Chr. Tychsen</XML_Serializer_Tag>
+</variantName>
+<thumbnail>https://commons.wikimedia.org/wiki/Special:FilePath/Tychsen_Thomas_Christian_Göttingen_Gotmarstraße3_Wiki.JPG?width=270</thumbnail>
+<birthEN>1758</birthEN>
+<birthDE>1758</birthDE>
+<deathEN>1834</deathEN>
+<deathDE>1834</deathDE>
+<birthPlace>
+<XML_Serializer_Tag>Horsbüll</XML_Serializer_Tag>
+</birthPlace>
+<deathPlace>
+<XML_Serializer_Tag>Göttingen</XML_Serializer_Tag>
+</deathPlace>
+<professionOrOccupation>
+<XML_Serializer_Tag>Theologe</XML_Serializer_Tag>
+<XML_Serializer_Tag>Philosoph</XML_Serializer_Tag>
+</professionOrOccupation>
+<dbpResource>http://dbpedia.org/resource/Thomas_Christian_Tychsen</dbpResource>
+<abstract>Thomas Christian Tychsen (* 8. Mai 1758 in Horsbüll, Schleswig; † 23. Oktober 1834 in Göttingen) war ein deutscher Orientalist.</abstract>
+<wikilink>http://en.wikipedia.org/wiki/Thomas_Christian_Tychsen?oldid=564501942</wikilink>
+<artworks />
+<buildings />
+<books />
+</Person>

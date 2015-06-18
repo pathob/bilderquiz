@@ -1,0 +1,32 @@
+<Person>
+<name>Ferdinand Raimund</name>
+<variantName>
+<XML_Serializer_Tag>Ferdinand Raymann</XML_Serializer_Tag>
+<XML_Serializer_Tag>F. Raimund</XML_Serializer_Tag>
+<XML_Serializer_Tag>Ferdinand Raimann</XML_Serializer_Tag>
+<XML_Serializer_Tag>Ferdinand Jakob Raimann</XML_Serializer_Tag>
+<XML_Serializer_Tag>Ferd. Raimund</XML_Serializer_Tag>
+</variantName>
+<thumbnail>https://commons.wikimedia.org/wiki/Special:FilePath/Ferdinand_Raimund.jpg?width=270</thumbnail>
+<birthEN>June 1, 1790</birthEN>
+<birthDE>1. Juni 1790</birthDE>
+<deathEN>September 5, 1836</deathEN>
+<deathDE>5. September 1836</deathDE>
+<birthPlace>
+<XML_Serializer_Tag>Wien-Mariahilf</XML_Serializer_Tag>
+</birthPlace>
+<deathPlace>
+<XML_Serializer_Tag>Pottenstein (Niederösterreich)</XML_Serializer_Tag>
+</deathPlace>
+<professionOrOccupation>
+<XML_Serializer_Tag>Dramatiker</XML_Serializer_Tag>
+<XML_Serializer_Tag>Schauspieler</XML_Serializer_Tag>
+<XML_Serializer_Tag>Schriftsteller</XML_Serializer_Tag>
+</professionOrOccupation>
+<dbpResource>http://dbpedia.org/resource/Ferdinand_Raimund</dbpResource>
+<abstract>Ferdinand Raimund, eigentlich Ferdinand Jakob Raimann (* 1. Juni 1790 in Wien; † 5. September 1836 in Pottenstein) war ein österreichischer Dramatiker und gemeinsam mit Johann Nestroy Hauptvertreter des Alt-Wiener Volkstheaters.</abstract>
+<wikilink>http://en.wikipedia.org/wiki/Ferdinand_Raimund?oldid=585093272</wikilink>
+<artworks />
+<buildings />
+<books />
+</Person>

@@ -1,0 +1,37 @@
+<Person>
+<name>Louis Schneider</name>
+<variantName>
+<XML_Serializer_Tag>L. Schneider</XML_Serializer_Tag>
+<XML_Serializer_Tag>Ludwig Schneider</XML_Serializer_Tag>
+<XML_Serializer_Tag>Ludwig Wilhelm Schneider</XML_Serializer_Tag>
+<XML_Serializer_Tag>Luis Schneider</XML_Serializer_Tag>
+<XML_Serializer_Tag>Louis Both</XML_Serializer_Tag>
+<XML_Serializer_Tag>Ludwig Both</XML_Serializer_Tag>
+<XML_Serializer_Tag>L. W. Both</XML_Serializer_Tag>
+<XML_Serializer_Tag>... Both</XML_Serializer_Tag>
+<XML_Serializer_Tag>B. A. Schneider</XML_Serializer_Tag>
+</variantName>
+<thumbnail>https://commons.wikimedia.org/wiki/Special:FilePath/Louis_Schneider.jpg?width=270</thumbnail>
+<birthEN>April 29, 1805</birthEN>
+<birthDE>29. April 1805</birthDE>
+<deathEN>December 16, 1878</deathEN>
+<deathDE>16. Dezember 1878</deathDE>
+<birthPlace>
+<XML_Serializer_Tag>Berlin</XML_Serializer_Tag>
+</birthPlace>
+<deathPlace>
+<XML_Serializer_Tag>Behlertsbrück &lt;Potsdam&gt;</XML_Serializer_Tag>
+</deathPlace>
+<professionOrOccupation>
+<XML_Serializer_Tag>Schauspieler</XML_Serializer_Tag>
+<XML_Serializer_Tag>Schriftsteller</XML_Serializer_Tag>
+<XML_Serializer_Tag>Übersetzer</XML_Serializer_Tag>
+<XML_Serializer_Tag>Regisseur</XML_Serializer_Tag>
+</professionOrOccupation>
+<dbpResource>http://dbpedia.org/resource/Louis_Schneider_(actor)</dbpResource>
+<abstract>Louis Schneider (eigentlich Ludwig Wilhelm Schneider; * 29. April 1805 in Berlin; † 16. Dezember 1878 in Potsdam) war ein Schauspieler, Theaterdichter, Militärschriftsteller, Publizist und Vorleser zweier preußischer Könige. Bekannt ist er als Mitglied im Tunnel über der Spree und Förderer der jungen Talente in dieser literarischen Sonntagsvereinigung. In der Heereskunde hat er sich mit seinen militärischen Schriften, insbesondere der Herausgabe des Soldaten-Freundes, einen Namen gemacht.</abstract>
+<wikilink>http://en.wikipedia.org/wiki/Louis_Schneider_(actor)?oldid=591879003</wikilink>
+<artworks />
+<buildings />
+<books />
+</Person>

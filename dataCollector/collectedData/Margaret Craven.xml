@@ -1,0 +1,47 @@
+<Person>
+<name>Margaret Craven</name>
+<variantName />
+<thumbnail>https://en.wikipedia.org/wiki/Special:FilePath/Margaret_Craven_(writer).jpg?width=270</thumbnail>
+<birthEN>March 13, 1901</birthEN>
+<birthDE>13. März 1901</birthDE>
+<deathEN>July 19, 1980</deathEN>
+<deathDE>19. Juli 1980</deathDE>
+<birthPlace>
+<XML_Serializer_Tag>Helena, Mont.</XML_Serializer_Tag>
+</birthPlace>
+<deathPlace />
+<professionOrOccupation>
+<XML_Serializer_Tag>Schriftstellerin</XML_Serializer_Tag>
+</professionOrOccupation>
+<dbpResource>http://dbpedia.org/resource/Margaret_Craven_(writer)</dbpResource>
+<abstract>Margaret Craven (* 13. März 1901 in Helena, Montana; † 19. Juli 1980 in Sacramento) war eine US-amerikanische Schriftstellerin.</abstract>
+<wikilink>http://en.wikipedia.org/wiki/Margaret_Craven_(writer)?oldid=596132774</wikilink>
+<artworks />
+<buildings />
+<books>
+<XML_Serializer_Tag>
+<book>
+<type>uri</type>
+<value>http://dbpedia.org/resource/I_Heard_the_Owl_Call_My_Name</value>
+</book>
+<author>
+<type>uri</type>
+<value>http://dbpedia.org/resource/Margaret_Craven_(writer)</value>
+</author>
+<released>
+<type>typed-literal</type>
+<datatype>http://www.w3.org/2001/XMLSchema#integer</datatype>
+<value>1967</value>
+</released>
+<wikilink>
+<type>uri</type>
+<value>http://en.wikipedia.org/wiki/I_Heard_the_Owl_Call_My_Name?oldid=598944342</value>
+</wikilink>
+<abstract>
+<type>literal</type>
+<xml:lang>de</xml:lang>
+<value>Ich hörte die Eule, sie rief meinen Namen ist ein Roman von Margaret Craven, der 1967 unter dem englischen Titel I Heard the Owl Call My Name erschien.Der junge Vikar Mark Brian aus Vancouver, von seinem Bischof zu den pazifischen Küstenindianern in das Dorf Kingcome geschickt, überwindet durch sein tätiges Leben die Schranke zwischen anglikanischer Kirche und überlieferter indianischer Kultur. Die Autorin nahm sich den anglikanischen Missionar Eric Powell als Vorbild für die Gestalt des Mark Brian.</value>
+</abstract>
+</XML_Serializer_Tag>
+</books>
+</Person>

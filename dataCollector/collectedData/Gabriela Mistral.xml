@@ -1,0 +1,33 @@
+<Person>
+<name>Gabriela Mistral</name>
+<variantName>
+<XML_Serializer_Tag>Lucila Godoy Alcayaga</XML_Serializer_Tag>
+<XML_Serializer_Tag>Lucila Godoy-Alcayaga</XML_Serializer_Tag>
+<XML_Serializer_Tag>Lucila Godoy Alcayaga</XML_Serializer_Tag>
+<XML_Serializer_Tag>Lucila G. Alcayaga</XML_Serializer_Tag>
+<XML_Serializer_Tag>Gabrijela Mistral</XML_Serializer_Tag>
+</variantName>
+<thumbnail>https://commons.wikimedia.org/wiki/Special:FilePath/Gabriela_Mistral-01.jpg?width=270</thumbnail>
+<birthEN>April 7, 1889</birthEN>
+<birthDE>7. April 1889</birthDE>
+<deathEN>January 10, 1957</deathEN>
+<deathDE>10. Januar 1957</deathDE>
+<birthPlace>
+<XML_Serializer_Tag>Vicuña</XML_Serializer_Tag>
+</birthPlace>
+<deathPlace>
+<XML_Serializer_Tag>Hempstead, NY</XML_Serializer_Tag>
+</deathPlace>
+<professionOrOccupation>
+<XML_Serializer_Tag>Schriftstellerin</XML_Serializer_Tag>
+<XML_Serializer_Tag>Lyrikerin</XML_Serializer_Tag>
+<XML_Serializer_Tag>Kinderbuchautorin</XML_Serializer_Tag>
+<XML_Serializer_Tag>Diplomatin</XML_Serializer_Tag>
+</professionOrOccupation>
+<dbpResource>http://dbpedia.org/resource/Gabriela_Mistral</dbpResource>
+<abstract>Gabriela Mistral, Pseudonym für Lucila Godoy Alcayaga (* 7. April 1889 in Vicuña, Chile; † 10. Januar 1957 in Hempstead, New York) war eine chilenische Dichterin und Diplomatin. Im Jahr 1945 wurde sie mit dem Nobelpreis für Literatur ausgezeichnet.</abstract>
+<wikilink>http://en.wikipedia.org/wiki/Gabriela_Mistral?oldid=596731207</wikilink>
+<artworks />
+<buildings />
+<books />
+</Person>

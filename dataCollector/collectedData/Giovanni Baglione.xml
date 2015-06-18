@@ -16,8 +16,10 @@
 <XML_Serializer_Tag>Künstler</XML_Serializer_Tag>
 <XML_Serializer_Tag>Maler</XML_Serializer_Tag>
 </professionOrOccupation>
-<artworks />
 <dbpResource>http://dbpedia.org/resource/Giovanni_Baglione</dbpResource>
 <abstract>Giovanni Baglione (spr. baljone) (* 1571 in Rom; † 30. Dezember 1643 daselbst) war ein italienischer Maler des Manierismus und Kunstschriftsteller.</abstract>
 <wikilink>http://en.wikipedia.org/wiki/Giovanni_Baglione?oldid=602497815</wikilink>
+<artworks />
+<buildings />
+<books />
 </Person>

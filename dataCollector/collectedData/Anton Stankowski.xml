@@ -20,8 +20,10 @@
 <XML_Serializer_Tag>Maler</XML_Serializer_Tag>
 <XML_Serializer_Tag>Zeichner</XML_Serializer_Tag>
 </professionOrOccupation>
-<artworks />
 <dbpResource>http://dbpedia.org/resource/Anton_Stankowski</dbpResource>
 <abstract>Anton Stankowski (* 18. Juni 1906 in Gelsenkirchen; † 11. Dezember 1998 in Esslingen am Neckar) war ein deutscher Grafiker, Fotograf und Maler.</abstract>
 <wikilink>http://en.wikipedia.org/wiki/Anton_Stankowski?oldid=595858491</wikilink>
+<artworks />
+<buildings />
+<books />
 </Person>

@@ -1,0 +1,267 @@
+<Person>
+<name>William Somerset Maugham</name>
+<variantName>
+<XML_Serializer_Tag>William Somerest Maugham</XML_Serializer_Tag>
+<XML_Serializer_Tag>William S. Maugham</XML_Serializer_Tag>
+<XML_Serializer_Tag>William Somerset Maugham</XML_Serializer_Tag>
+<XML_Serializer_Tag>Somerset Maugham</XML_Serializer_Tag>
+<XML_Serializer_Tag>W. Somerset Maugham</XML_Serializer_Tag>
+<XML_Serializer_Tag>Sômerset Môhem</XML_Serializer_Tag>
+<XML_Serializer_Tag>Uil&apos;jam Somerset Moėm</XML_Serializer_Tag>
+<XML_Serializer_Tag>S. Moėm</XML_Serializer_Tag>
+<XML_Serializer_Tag>Samarsit Mūm</XML_Serializer_Tag>
+<XML_Serializer_Tag>W. S. Maugham</XML_Serializer_Tag>
+<XML_Serializer_Tag>W. Somerset Maugham</XML_Serializer_Tag>
+</variantName>
+<thumbnail>https://commons.wikimedia.org/wiki/Special:FilePath/Maugham_retouched.jpg?width=270</thumbnail>
+<birthEN>January 25, 1874</birthEN>
+<birthDE>25. Januar 1874</birthDE>
+<deathEN>December 15, 1965</deathEN>
+<deathDE>15. Dezember 1965</deathDE>
+<birthPlace>
+<XML_Serializer_Tag>Paris</XML_Serializer_Tag>
+</birthPlace>
+<deathPlace>
+<XML_Serializer_Tag>Nizza</XML_Serializer_Tag>
+</deathPlace>
+<professionOrOccupation>
+<XML_Serializer_Tag>Romancier</XML_Serializer_Tag>
+<XML_Serializer_Tag>Dramatiker</XML_Serializer_Tag>
+<XML_Serializer_Tag>Schriftsteller</XML_Serializer_Tag>
+</professionOrOccupation>
+<dbpResource>http://dbpedia.org/resource/W._Somerset_Maugham</dbpResource>
+<abstract>William Somerset Maugham [ˈsʌməsɪt mɔːm] (* 25. Januar 1874 in Paris; † 16. Dezember 1965 in Saint-Jean-Cap-Ferrat bei Nizza), auch bekannt als W. Somerset Maugham, war ein englischer Erzähler und Dramatiker.William Somerset Maugham errang mit seinem 1897 veröffentlichten Erstlingswerk Liza of Lambeth frühen literarischen Erfolg – und löste einen Skandal aus. In dem Roman verarbeitete Maugham Erfahrungen, die er als angehender Arzt in den Armenvierteln Londons gemacht hatte. Das Bürgertum sah es als unpassend an, die Welt der Arbeiter derart naturalistisch darzustellen.Auf das Buch folgten Jahre der Selbstbestimmung als Autor. Seine „Stimme“ entdeckte Maugham zuerst mit Theaterstücken wie The Circle, Our Betters und The Constant Wife. Im frühen 20. Jahrhundert wurden gleichzeitig vier Theaterstücke von ihm in London aufgeführt. Seine Produktivität war erstaunlich: in der Regel brauchte er nur eine Woche, jeden Aufzug zu schreiben, und eine Woche, das Ganze zu redigieren.Als Maughams bedeutendste Arbeit wird meist der Roman Der Menschen Hörigkeit (original: Of Human Bondage) angesehen, eine autobiographische Geschichte, deren Held, Philip Carey, wie Maugham als Waise bei seinem frömmlerischen Onkel aufwächst und durch einen Klumpfuß (Maugham selbst stotterte) gehandicapt ist.</abstract>
+<wikilink>http://en.wikipedia.org/wiki/W._Somerset_Maugham?oldid=606597015</wikilink>
+<artworks />
+<buildings />
+<books>
+<XML_Serializer_Tag>
+<book>
+<type>uri</type>
+<value>http://dbpedia.org/resource/Of_Human_Bondage</value>
+</book>
+<author>
+<type>uri</type>
+<value>http://dbpedia.org/resource/W._Somerset_Maugham</value>
+</author>
+<thumbnail>
+<type>uri</type>
+<value>http://commons.wikimedia.org/wiki/Special:FilePath/Bette_Davis_and_Leslie_Howard_in_Of_Human_Bondage.jpg?width=300</value>
+</thumbnail>
+<released>
+<type>typed-literal</type>
+<datatype>http://www.w3.org/2001/XMLSchema#integer</datatype>
+<value>1915</value>
+</released>
+<wikilink>
+<type>uri</type>
+<value>http://en.wikipedia.org/wiki/Of_Human_Bondage?oldid=604475209</value>
+</wikilink>
+<abstract>
+<type>literal</type>
+<xml:lang>de</xml:lang>
+<value>Der Menschen Hörigkeit (engl. Of Human Bondage) ist ein Entwicklungsroman von William Somerset Maugham, der 1915 bei Heinemann in London und im selben Jahr bei George H. Doran in New York City erschien. Die Übertragung ins Deutsche kam 1939 heraus. Erzählt wird der Werdegang des 1876 geborenen englischen Mediziners Philip Carey von seinem neunten bis zu seinem dreißigsten Lebensjahr. Philip setzt sich trotz seiner angeborenen Behinderung, einem Klumpfuß, durch. Der Text trägt autobiographische Züge.Der Romantitel greift Spinozas Postulat von der menschlichen Knechtschaft (De servitute humana) auf, wie es im vierten Buch seiner Ethik geschrieben steht: Philip ist der Geliebten Mildred wider besseres Wissen hörig.</value>
+</abstract>
+</XML_Serializer_Tag>
+<XML_Serializer_Tag>
+<book>
+<type>uri</type>
+<value>http://dbpedia.org/resource/The_Razor&apos;s_Edge</value>
+</book>
+<author>
+<type>uri</type>
+<value>http://dbpedia.org/resource/W._Somerset_Maugham</value>
+</author>
+<released>
+<type>typed-literal</type>
+<datatype>http://www.w3.org/2001/XMLSchema#integer</datatype>
+<value>1944</value>
+</released>
+<wikilink>
+<type>uri</type>
+<value>http://en.wikipedia.org/wiki/The_Razor&apos;s_Edge?oldid=599558126</value>
+</wikilink>
+<abstract>
+<type>literal</type>
+<xml:lang>de</xml:lang>
+<value>Auf Messers Schneide (engl. The razor&apos;s edge) ist der Titel eines Romans von William Somerset Maugham, erschienen im Jahr 1944. Das Buch wurde 1946 und 1984 verfilmt.</value>
+</abstract>
+</XML_Serializer_Tag>
+<XML_Serializer_Tag>
+<book>
+<type>uri</type>
+<value>http://dbpedia.org/resource/Mrs_Craddock</value>
+</book>
+<author>
+<type>uri</type>
+<value>http://dbpedia.org/resource/W._Somerset_Maugham</value>
+</author>
+<released>
+<type>typed-literal</type>
+<datatype>http://www.w3.org/2001/XMLSchema#integer</datatype>
+<value>1902</value>
+</released>
+<wikilink>
+<type>uri</type>
+<value>http://en.wikipedia.org/wiki/Mrs_Craddock?oldid=595274458</value>
+</wikilink>
+<abstract>
+<type>literal</type>
+<xml:lang>de</xml:lang>
+<value>Mrs. Craddock (engl. Mrs. Craddock) ist ein Roman von William Somerset Maugham, der 1902 bei William Heinemann in London erschien. Die Suche nach einem Verleger sei seinerzeit schwierig gewesen. Heinemann habe endlich nach Streichung von ein paar „gewagten Stellen“ der Publikation zugestimmt. Die unzensierte Ausgabe stamme aus dem Jahr 1938.Die deutsche Ausgabe kam 1957 unter dem Titel „Triumph der Liebe“ im Scherz Verlag in Bern heraus.</value>
+</abstract>
+</XML_Serializer_Tag>
+<XML_Serializer_Tag>
+<book>
+<type>uri</type>
+<value>http://dbpedia.org/resource/Cakes_and_Ale</value>
+</book>
+<author>
+<type>uri</type>
+<value>http://dbpedia.org/resource/W._Somerset_Maugham</value>
+</author>
+<released>
+<type>typed-literal</type>
+<datatype>http://www.w3.org/2001/XMLSchema#integer</datatype>
+<value>1930</value>
+</released>
+<wikilink>
+<type>uri</type>
+<value>http://en.wikipedia.org/wiki/Cakes_and_Ale?oldid=582986988</value>
+</wikilink>
+<abstract>
+<type>literal</type>
+<xml:lang>de</xml:lang>
+<value>Seine erste Frau (engl. Cakes and Ale) ist ein Roman von William Somerset Maugham, der 1930 bei Heinemann in London und im selben Jahr bei Doubleday Doran in New York City erschien. Rosie und die Künstler ist eine weitere Übertragung dieser dezenten Literatursatire ins Deutsche (Diogenes Verlag, Zürich).</value>
+</abstract>
+</XML_Serializer_Tag>
+<XML_Serializer_Tag>
+<book>
+<type>uri</type>
+<value>http://dbpedia.org/resource/The_Magician_(Maugham_novel)</value>
+</book>
+<author>
+<type>uri</type>
+<value>http://dbpedia.org/resource/W._Somerset_Maugham</value>
+</author>
+<released>
+<type>typed-literal</type>
+<datatype>http://www.w3.org/2001/XMLSchema#integer</datatype>
+<value>19081909</value>
+</released>
+<wikilink>
+<type>uri</type>
+<value>http://en.wikipedia.org/wiki/The_Magician_(Maugham_novel)?oldid=594347620</value>
+</wikilink>
+<abstract>
+<type>literal</type>
+<xml:lang>de</xml:lang>
+<value>Der Magier (engl. The Magician) ist ein Roman von William Somerset Maugham, der 1908 bei William Heinemann in London erschien. Die deutsche Ausgabe kam 1958 im Scherz Verlag in Bern heraus. „A Black magic novel“ – der Untertitel des englischen Originals – weist auf das Thema Schwarze Magie hin.</value>
+</abstract>
+</XML_Serializer_Tag>
+<XML_Serializer_Tag>
+<book>
+<type>uri</type>
+<value>http://dbpedia.org/resource/Then_and_Now_(novel)</value>
+</book>
+<author>
+<type>uri</type>
+<value>http://dbpedia.org/resource/W._Somerset_Maugham</value>
+</author>
+<released>
+<type>typed-literal</type>
+<datatype>http://www.w3.org/2001/XMLSchema#integer</datatype>
+<value>1946</value>
+</released>
+<wikilink>
+<type>uri</type>
+<value>http://en.wikipedia.org/wiki/Then_and_Now_(novel)?oldid=600057340</value>
+</wikilink>
+</XML_Serializer_Tag>
+<XML_Serializer_Tag>
+<book>
+<type>uri</type>
+<value>http://dbpedia.org/resource/Catalina_(novel)</value>
+</book>
+<author>
+<type>uri</type>
+<value>http://dbpedia.org/resource/W._Somerset_Maugham</value>
+</author>
+<released>
+<type>typed-literal</type>
+<datatype>http://www.w3.org/2001/XMLSchema#integer</datatype>
+<value>1948</value>
+</released>
+<wikilink>
+<type>uri</type>
+<value>http://en.wikipedia.org/wiki/Catalina_(novel)?oldid=599612650</value>
+</wikilink>
+</XML_Serializer_Tag>
+<XML_Serializer_Tag>
+<book>
+<type>uri</type>
+<value>http://dbpedia.org/resource/The_Moon_and_Sixpence</value>
+</book>
+<author>
+<type>uri</type>
+<value>http://dbpedia.org/resource/W._Somerset_Maugham</value>
+</author>
+<wikilink>
+<type>uri</type>
+<value>http://en.wikipedia.org/wiki/The_Moon_and_Sixpence?oldid=603454796</value>
+</wikilink>
+<abstract>
+<type>literal</type>
+<xml:lang>de</xml:lang>
+<value>Silbermond und Kupfermünze (engl. The Moon and Sixpence) ist ein Roman von William Somerset Maugham, der 1919 bei Heinemann in London und im selben Jahr bei George H. Doran in New York City erschien. Die Übertragung ins Deutsche kam 1927 heraus. Erzählt werden Episoden aus dem Leben des erst nach seinem Tode berühmt gewordenen englischen Malers Charles Strickland.</value>
+</abstract>
+</XML_Serializer_Tag>
+<XML_Serializer_Tag>
+<book>
+<type>uri</type>
+<value>http://dbpedia.org/resource/The_Painted_Veil_(novel)</value>
+</book>
+<author>
+<type>uri</type>
+<value>http://dbpedia.org/resource/W._Somerset_Maugham</value>
+</author>
+<wikilink>
+<type>uri</type>
+<value>http://en.wikipedia.org/wiki/The_Painted_Veil_(novel)?oldid=605370433</value>
+</wikilink>
+<abstract>
+<type>literal</type>
+<xml:lang>de</xml:lang>
+<value>Der bunte Schleier (engl. The Painted Veil) ist ein Roman von William Somerset Maugham, der 1925 bei Heinemann in London und im selben Jahr bei George H. Doran in New York City erschien. Die Übertragung ins Deutsche kam 1928 heraus. Maugham versetzt sich zumeist in die Psyche der jungen Londonerin Kitty aus Harrington Gardens.</value>
+</abstract>
+</XML_Serializer_Tag>
+<XML_Serializer_Tag>
+<book>
+<type>uri</type>
+<value>http://dbpedia.org/resource/The_Casuarina_Tree</value>
+</book>
+<author>
+<type>uri</type>
+<value>http://dbpedia.org/resource/W._Somerset_Maugham</value>
+</author>
+<wikilink>
+<type>uri</type>
+<value>http://en.wikipedia.org/wiki/The_Casuarina_Tree?oldid=596972688</value>
+</wikilink>
+</XML_Serializer_Tag>
+<XML_Serializer_Tag>
+<book>
+<type>uri</type>
+<value>http://dbpedia.org/resource/On_a_Chinese_Screen</value>
+</book>
+<author>
+<type>uri</type>
+<value>http://dbpedia.org/resource/W._Somerset_Maugham</value>
+</author>
+<wikilink>
+<type>uri</type>
+<value>http://en.wikipedia.org/wiki/On_a_Chinese_Screen?oldid=599983630</value>
+</wikilink>
+</XML_Serializer_Tag>
+</books>
+</Person>

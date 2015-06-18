@@ -1,0 +1,49 @@
+<Person>
+<name>Joost van den Vondel</name>
+<variantName>
+<XML_Serializer_Tag>Joost van Vondel</XML_Serializer_Tag>
+<XML_Serializer_Tag>Joost V. Vondel</XML_Serializer_Tag>
+<XML_Serializer_Tag>J. V. Vondel</XML_Serializer_Tag>
+<XML_Serializer_Tag>Jost van den Vondel</XML_Serializer_Tag>
+<XML_Serializer_Tag>Ioost van Vondel</XML_Serializer_Tag>
+<XML_Serializer_Tag>Ioost vande Vondel</XML_Serializer_Tag>
+<XML_Serializer_Tag>Ioost von Vondel</XML_Serializer_Tag>
+<XML_Serializer_Tag>Justus van den Vondel</XML_Serializer_Tag>
+<XML_Serializer_Tag>Joost van den Vondelen</XML_Serializer_Tag>
+<XML_Serializer_Tag>Joost van Vondelen</XML_Serializer_Tag>
+<XML_Serializer_Tag>J. v. Vondelen</XML_Serializer_Tag>
+<XML_Serializer_Tag>I. vander Vondelen</XML_Serializer_Tag>
+<XML_Serializer_Tag>Joost Van Den Vondel</XML_Serializer_Tag>
+<XML_Serializer_Tag>Joost Van den Vondel</XML_Serializer_Tag>
+<XML_Serializer_Tag>Joost VanDenVondel</XML_Serializer_Tag>
+<XML_Serializer_Tag>Joost Van Den Vondelen</XML_Serializer_Tag>
+<XML_Serializer_Tag>Joost VanDenVondelen</XML_Serializer_Tag>
+<XML_Serializer_Tag>Joost Vanden Vondelen</XML_Serializer_Tag>
+<XML_Serializer_Tag>I. VanDerVondelen</XML_Serializer_Tag>
+<XML_Serializer_Tag>J. v. V.</XML_Serializer_Tag>
+<XML_Serializer_Tag>J. V. V.</XML_Serializer_Tag>
+<XML_Serializer_Tag>J. V. V.</XML_Serializer_Tag>
+<XML_Serializer_Tag>J. v. V.</XML_Serializer_Tag>
+<XML_Serializer_Tag>I. V. V.</XML_Serializer_Tag>
+</variantName>
+<thumbnail>https://commons.wikimedia.org/wiki/Special:FilePath/J_vondel.jpg?width=270</thumbnail>
+<birthEN>November 17, 1587</birthEN>
+<birthDE>17. November 1587</birthDE>
+<deathEN>February 5, 1679</deathEN>
+<deathDE>5. Februar 1679</deathDE>
+<birthPlace>
+<XML_Serializer_Tag>Köln</XML_Serializer_Tag>
+</birthPlace>
+<deathPlace>
+<XML_Serializer_Tag>Amsterdam</XML_Serializer_Tag>
+</deathPlace>
+<professionOrOccupation>
+<XML_Serializer_Tag>Schriftsteller</XML_Serializer_Tag>
+</professionOrOccupation>
+<dbpResource>http://dbpedia.org/resource/Joost_van_den_Vondel</dbpResource>
+<abstract>Joost van den Vondel (* 17. November 1587 in Köln; † 5. Februar 1679 in Amsterdam) war ein niederländischer Dichter und Dramatiker. Er wird neben Gerbrand A. Bredero und Pieter Corneliszoon Hooft als der bedeutendste Dichter des Goldenen Zeitalters der Niederlande angesehen.</abstract>
+<wikilink>http://en.wikipedia.org/wiki/Joost_van_den_Vondel?oldid=601041545</wikilink>
+<artworks />
+<buildings />
+<books />
+</Person>

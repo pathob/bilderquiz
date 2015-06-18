@@ -21,8 +21,10 @@
 <XML_Serializer_Tag>Maler</XML_Serializer_Tag>
 <XML_Serializer_Tag>Kunsterzieher</XML_Serializer_Tag>
 </professionOrOccupation>
-<artworks />
 <dbpResource>http://dbpedia.org/resource/Ludwig_Lindenschmit_the_Elder</dbpResource>
 <abstract>Ludwig Lindenschmit der Ältere (auch Lindenschmidt; * 4. September 1809 in Mainz; † 14. Februar 1893 ebenda) war ein deutscher Prähistoriker, Pionier der Urgeschichtsforschung, Historienmaler, Lithograf und Zeichenlehrer. Er ist Mitglied der Künstlerfamilie Lindenschmit, die sich über vier Generationen hinweg von Mainz nach Aschaffenburg, Frankfurt am Main und München verzweigte.</abstract>
 <wikilink>http://en.wikipedia.org/wiki/Ludwig_Lindenschmit_the_Elder?oldid=596604028</wikilink>
+<artworks />
+<buildings />
+<books />
 </Person>

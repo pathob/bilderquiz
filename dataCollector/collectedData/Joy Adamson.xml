@@ -1,0 +1,32 @@
+<Person>
+<name>Joy Adamson</name>
+<variantName>
+<XML_Serializer_Tag>Joy</XML_Serializer_Tag>
+<XML_Serializer_Tag>Friederike Victoria Adamson</XML_Serializer_Tag>
+<XML_Serializer_Tag>Džoj Adamson</XML_Serializer_Tag>
+<XML_Serializer_Tag>Joy Adamsonová</XML_Serializer_Tag>
+<XML_Serializer_Tag>Friederike Victoria Gessner</XML_Serializer_Tag>
+</variantName>
+<thumbnail>https://commons.wikimedia.org/wiki/Special:FilePath/JoyAdamson.jpg?width=270</thumbnail>
+<birthEN>January 20, 1910</birthEN>
+<birthDE>20. Januar 1910</birthDE>
+<deathEN>January 3, 1980</deathEN>
+<deathDE>3. Januar 1980</deathDE>
+<birthPlace>
+<XML_Serializer_Tag>Troppau</XML_Serializer_Tag>
+</birthPlace>
+<deathPlace>
+<XML_Serializer_Tag>Shaba</XML_Serializer_Tag>
+</deathPlace>
+<professionOrOccupation>
+<XML_Serializer_Tag>Naturwissenschaftlerin</XML_Serializer_Tag>
+<XML_Serializer_Tag>Malerin</XML_Serializer_Tag>
+<XML_Serializer_Tag>Schriftstellerin</XML_Serializer_Tag>
+</professionOrOccupation>
+<dbpResource>http://dbpedia.org/resource/Joy_Adamson</dbpResource>
+<abstract>Joy Adamson, eigentlich Friederike Victoria Adamson (* 20. Januar 1910 in Troppau, Österreich-Ungarn; † 3. Januar 1980 im Shaba-Nationalreservat in Kenia) war eine britisch-österreichische Naturforscherin, Malerin und Schriftstellerin, die durch ihr Buch Frei geboren. Eine Löwin in zwei Welten (Originaltitel: Born Free) bekannt wurde, in welchem sie das Aufziehen der Löwin Elsa beschrieb.</abstract>
+<wikilink>http://en.wikipedia.org/wiki/Joy_Adamson?oldid=605585396</wikilink>
+<artworks />
+<buildings />
+<books />
+</Person>

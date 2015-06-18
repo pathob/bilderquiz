@@ -1,0 +1,30 @@
+<Person>
+<name>Ernst Krieck</name>
+<variantName>
+<XML_Serializer_Tag>Ernst Kriek</XML_Serializer_Tag>
+</variantName>
+<thumbnail>https://commons.wikimedia.org/wiki/Special:FilePath/Bundesarchiv_Bild_183-R24765,_Prof._Dr._Ernst_Krieck.jpg?width=270</thumbnail>
+<birthEN>July 6, 1882</birthEN>
+<birthDE>6. Juli 1882</birthDE>
+<deathEN>March 19, 1947</deathEN>
+<deathDE>19. März 1947</deathDE>
+<birthPlace>
+<XML_Serializer_Tag>Vögisheim</XML_Serializer_Tag>
+</birthPlace>
+<deathPlace>
+<XML_Serializer_Tag>Moosburg a.d. Isar</XML_Serializer_Tag>
+</deathPlace>
+<professionOrOccupation>
+<XML_Serializer_Tag>Nationalsozialist</XML_Serializer_Tag>
+<XML_Serializer_Tag>Schriftsteller</XML_Serializer_Tag>
+<XML_Serializer_Tag>Pädagoge</XML_Serializer_Tag>
+<XML_Serializer_Tag>Politiker</XML_Serializer_Tag>
+<XML_Serializer_Tag>Philosoph</XML_Serializer_Tag>
+</professionOrOccupation>
+<dbpResource>http://dbpedia.org/resource/Ernst_Krieck</dbpResource>
+<abstract>Ernst Krieck (* 6. Juni 1882 in Vögisheim ; † 19. März 1947 im Internierungslager Moosburg an der Isar) war ein deutscher Lehrer, Schriftsteller und Professor. Er gilt neben Alfred Baeumler als führender nationalsozialistischer Erziehungswissenschaftler.</abstract>
+<wikilink>http://en.wikipedia.org/wiki/Ernst_Krieck?oldid=574062576</wikilink>
+<artworks />
+<buildings />
+<books />
+</Person>

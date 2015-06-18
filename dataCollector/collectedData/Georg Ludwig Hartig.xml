@@ -1,0 +1,29 @@
+<Person>
+<name>Georg Ludwig Hartig</name>
+<variantName>
+<XML_Serializer_Tag>... Hartig</XML_Serializer_Tag>
+<XML_Serializer_Tag>G. L. Hartig</XML_Serializer_Tag>
+<XML_Serializer_Tag>Georgius Ludovicus Hartig</XML_Serializer_Tag>
+</variantName>
+<thumbnail>https://commons.wikimedia.org/wiki/Special:FilePath/Georg_Ludwig_Hartig_2.jpg?width=270</thumbnail>
+<birthEN>September 2, 1764</birthEN>
+<birthDE>2. September 1764</birthDE>
+<deathEN>February 2, 1837</deathEN>
+<deathDE>2. Februar 1837</deathDE>
+<birthPlace>
+<XML_Serializer_Tag>Gladenbach</XML_Serializer_Tag>
+</birthPlace>
+<deathPlace>
+<XML_Serializer_Tag>Berlin</XML_Serializer_Tag>
+</deathPlace>
+<professionOrOccupation>
+<XML_Serializer_Tag>Förster</XML_Serializer_Tag>
+<XML_Serializer_Tag>Schriftsteller</XML_Serializer_Tag>
+</professionOrOccupation>
+<dbpResource>http://dbpedia.org/resource/Georg_Ludwig_Hartig</dbpResource>
+<abstract>Georg Ludwig Hartig (* 2. September 1764 in Gladenbach; † 2. Februar 1837 in Berlin) war einer der bedeutendsten deutschen Forstwissenschaftler.</abstract>
+<wikilink>http://en.wikipedia.org/wiki/Georg_Ludwig_Hartig?oldid=599956596</wikilink>
+<artworks />
+<buildings />
+<books />
+</Person>

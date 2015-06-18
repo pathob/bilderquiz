@@ -1,0 +1,31 @@
+<Person>
+<name>Alfred Kurella</name>
+<variantName>
+<XML_Serializer_Tag>Bernhard Ziegler</XML_Serializer_Tag>
+<XML_Serializer_Tag>Viktor Röbig</XML_Serializer_Tag>
+<XML_Serializer_Tag>A. Bernard</XML_Serializer_Tag>
+<XML_Serializer_Tag>Alʹfred Kurella</XML_Serializer_Tag>
+<XML_Serializer_Tag>Alfred Kurela</XML_Serializer_Tag>
+</variantName>
+<thumbnail>https://commons.wikimedia.org/wiki/Special:FilePath/Bundesarchiv_Bild_183-E1114-0201-001,_Berlin,_1._DSV-Jahreskonferenz,_Alfred_Kurella.jpg?width=270</thumbnail>
+<birthEN>May 2, 1895</birthEN>
+<birthDE>2. Mai 1895</birthDE>
+<deathEN>June 12, 1975</deathEN>
+<deathDE>12. Juni 1975</deathDE>
+<birthPlace>
+<XML_Serializer_Tag>Brieg</XML_Serializer_Tag>
+</birthPlace>
+<deathPlace>
+<XML_Serializer_Tag>Berlin (Ost)</XML_Serializer_Tag>
+</deathPlace>
+<professionOrOccupation>
+<XML_Serializer_Tag>Politiker</XML_Serializer_Tag>
+<XML_Serializer_Tag>Schriftsteller</XML_Serializer_Tag>
+</professionOrOccupation>
+<dbpResource>http://dbpedia.org/resource/Alfred_Kurella</dbpResource>
+<abstract>Alfred Kurella (* 2. Mai 1895 in Brieg; † 12. Juni 1975 in Berlin) war ein deutscher Schriftsteller, Übersetzer und Kulturfunktionär der SED in der DDR.</abstract>
+<wikilink>http://en.wikipedia.org/wiki/Alfred_Kurella?oldid=597088691</wikilink>
+<artworks />
+<buildings />
+<books />
+</Person>

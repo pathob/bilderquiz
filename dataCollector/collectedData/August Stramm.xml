@@ -1,0 +1,31 @@
+<Person>
+<name>August Stramm</name>
+<variantName>
+<XML_Serializer_Tag>August Schramm</XML_Serializer_Tag>
+</variantName>
+<thumbnail>https://commons.wikimedia.org/wiki/Special:FilePath/Stramm.jpg?width=270</thumbnail>
+<birthEN>July 29, 1874</birthEN>
+<birthDE>29. Juli 1874</birthDE>
+<deathEN>September 1, 1915</deathEN>
+<deathDE>1. September 1915</deathDE>
+<birthPlace>
+<XML_Serializer_Tag>Münster (Westf)</XML_Serializer_Tag>
+</birthPlace>
+<deathPlace>
+<XML_Serializer_Tag>Horodec (Polesien)</XML_Serializer_Tag>
+</deathPlace>
+<professionOrOccupation>
+<XML_Serializer_Tag>Schriftsteller</XML_Serializer_Tag>
+<XML_Serializer_Tag>Dramatiker</XML_Serializer_Tag>
+<XML_Serializer_Tag>Lyriker</XML_Serializer_Tag>
+<XML_Serializer_Tag>Postbeamter</XML_Serializer_Tag>
+<XML_Serializer_Tag>Postdirektor</XML_Serializer_Tag>
+<XML_Serializer_Tag>Hauptmann</XML_Serializer_Tag>
+</professionOrOccupation>
+<dbpResource>http://dbpedia.org/resource/August_Stramm</dbpResource>
+<abstract>August Stramm (* 29. Juli 1874 in Münster (Westfalen); † 1. September 1915 bei Horodec östlich Kobryn [heute: Weißrussland]) war ein Dichter und Dramatiker des deutschen Expressionismus.</abstract>
+<wikilink>http://en.wikipedia.org/wiki/August_Stramm?oldid=605589327</wikilink>
+<artworks />
+<buildings />
+<books />
+</Person>

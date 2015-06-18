@@ -1,0 +1,41 @@
+<Person>
+<name>Etel Adnan</name>
+<variantName>
+<XML_Serializer_Tag>Ethel Adnan</XML_Serializer_Tag>
+<XML_Serializer_Tag>Itīl ʿAdnān</XML_Serializer_Tag>
+</variantName>
+<thumbnail>https://commons.wikimedia.org/wiki/Special:FilePath/Academy_of_science_etelsimone_2008_012.jpg?width=270</thumbnail>
+<birthEN>1925</birthEN>
+<birthDE>1925</birthDE>
+<deathEN />
+<deathDE />
+<birthPlace>
+<XML_Serializer_Tag>Beirut</XML_Serializer_Tag>
+</birthPlace>
+<deathPlace />
+<professionOrOccupation>
+<XML_Serializer_Tag>Schriftstellerin</XML_Serializer_Tag>
+<XML_Serializer_Tag>Künstlerin</XML_Serializer_Tag>
+</professionOrOccupation>
+<dbpResource>http://dbpedia.org/resource/Etel_Adnan</dbpResource>
+<abstract>Etel Adnan (* 24. Februar 1925 in Beirut) ist eine libanesische Schriftstellerin und Malerin.</abstract>
+<wikilink>http://en.wikipedia.org/wiki/Etel_Adnan?oldid=605492185</wikilink>
+<artworks />
+<buildings />
+<books>
+<XML_Serializer_Tag>
+<book>
+<type>uri</type>
+<value>http://dbpedia.org/resource/Sitt_Marie_Rose</value>
+</book>
+<author>
+<type>uri</type>
+<value>http://dbpedia.org/resource/Etel_Adnan</value>
+</author>
+<wikilink>
+<type>uri</type>
+<value>http://en.wikipedia.org/wiki/Sitt_Marie_Rose?oldid=544909650</value>
+</wikilink>
+</XML_Serializer_Tag>
+</books>
+</Person>

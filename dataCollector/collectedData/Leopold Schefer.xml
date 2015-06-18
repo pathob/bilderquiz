@@ -1,0 +1,29 @@
+<Person>
+<name>Leopold Schefer</name>
+<variantName>
+<XML_Serializer_Tag>Gottlob Leopold Immanuel Schefer</XML_Serializer_Tag>
+<XML_Serializer_Tag>Dr. Leopold Bornitz</XML_Serializer_Tag>
+<XML_Serializer_Tag>Leopold Schäfer</XML_Serializer_Tag>
+</variantName>
+<thumbnail>https://commons.wikimedia.org/wiki/Special:FilePath/Leopold_Schefer.jpg?width=270</thumbnail>
+<birthEN>July 30, 1784</birthEN>
+<birthDE>30. Juli 1784</birthDE>
+<deathEN>February 16, 1862</deathEN>
+<deathDE>16. Februar 1862</deathDE>
+<birthPlace>
+<XML_Serializer_Tag>Bad Muskau</XML_Serializer_Tag>
+</birthPlace>
+<deathPlace>
+<XML_Serializer_Tag>Bad Muskau</XML_Serializer_Tag>
+</deathPlace>
+<professionOrOccupation>
+<XML_Serializer_Tag>Schriftsteller</XML_Serializer_Tag>
+<XML_Serializer_Tag>Komponist</XML_Serializer_Tag>
+</professionOrOccupation>
+<dbpResource>http://dbpedia.org/resource/Leopold_Schefer</dbpResource>
+<abstract>Gottlob Leopold Immanuel Schefer (* 30. Juli 1784 in Muskau; † 16. Februar 1862 ebenda) war ein deutscher Dichter und Komponist, Pseudonym Pandira.</abstract>
+<wikilink>http://en.wikipedia.org/wiki/Leopold_Schefer?oldid=592393560</wikilink>
+<artworks />
+<buildings />
+<books />
+</Person>

@@ -18,8 +18,10 @@
 <XML_Serializer_Tag>Graphiker</XML_Serializer_Tag>
 <XML_Serializer_Tag>Maler</XML_Serializer_Tag>
 </professionOrOccupation>
-<artworks />
 <dbpResource>http://dbpedia.org/resource/Otto_Greiner</dbpResource>
 <abstract>Otto Greiner (* 16. Dezember 1869 in Leipzig; † 24. September 1916 in München; auch Ernst Otto Greiner) war ein deutscher Maler und Grafiker.</abstract>
 <wikilink>http://en.wikipedia.org/wiki/Otto_Greiner?oldid=605021336</wikilink>
+<artworks />
+<buildings />
+<books />
 </Person>

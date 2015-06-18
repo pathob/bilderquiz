@@ -1,0 +1,108 @@
+<Person>
+<name>Juli Zeh</name>
+<variantName>
+<XML_Serializer_Tag>Julie Zeh</XML_Serializer_Tag>
+<XML_Serializer_Tag>Juli Ce</XML_Serializer_Tag>
+<XML_Serializer_Tag>Iuli C&apos;e</XML_Serializer_Tag>
+<XML_Serializer_Tag>Žjuli Cee</XML_Serializer_Tag>
+<XML_Serializer_Tag>ǅuli Ceh</XML_Serializer_Tag>
+<XML_Serializer_Tag>Yuli Tseh</XML_Serializer_Tag>
+<XML_Serializer_Tag>You li Ce</XML_Serializer_Tag>
+<XML_Serializer_Tag>Youli-Ce</XML_Serializer_Tag>
+<XML_Serializer_Tag>Youli Ce</XML_Serializer_Tag>
+<XML_Serializer_Tag>율리 체</XML_Serializer_Tag>
+<XML_Serializer_Tag>יולי צה</XML_Serializer_Tag>
+<XML_Serializer_Tag>ユーリ・ツェー</XML_Serializer_Tag>
+</variantName>
+<thumbnail>https://commons.wikimedia.org/wiki/Special:FilePath/Julizeh1.JPG?width=270</thumbnail>
+<birthEN>1974</birthEN>
+<birthDE>1974</birthDE>
+<deathEN />
+<deathDE />
+<birthPlace>
+<XML_Serializer_Tag>Bonn</XML_Serializer_Tag>
+</birthPlace>
+<deathPlace />
+<professionOrOccupation>
+<XML_Serializer_Tag>Juristin</XML_Serializer_Tag>
+<XML_Serializer_Tag>Schriftstellerin</XML_Serializer_Tag>
+</professionOrOccupation>
+<dbpResource>http://dbpedia.org/resource/Juli_Zeh</dbpResource>
+<abstract>Juli Zeh (* 30. Juni 1974 in Bonn) ist eine deutsche Juristin und Schriftstellerin, die mit zahlreichen Literaturpreisen ausgezeichnet wurde und durch ihr gesellschaftlich-politisches Engagement bekannt ist.</abstract>
+<wikilink>http://en.wikipedia.org/wiki/Juli_Zeh?oldid=575275631</wikilink>
+<artworks />
+<buildings />
+<books>
+<XML_Serializer_Tag>
+<book>
+<type>uri</type>
+<value>http://dbpedia.org/resource/The_Method_(novel)</value>
+</book>
+<author>
+<type>uri</type>
+<value>http://dbpedia.org/resource/Juli_Zeh</value>
+</author>
+<wikilink>
+<type>uri</type>
+<value>http://en.wikipedia.org/wiki/The_Method_(novel)?oldid=579340905</value>
+</wikilink>
+<abstract>
+<type>literal</type>
+<xml:lang>de</xml:lang>
+<value>Corpus Delicti ist ein Roman der deutschen Schriftstellerin Juli Zeh, der 2009 im Verlag Schöffling &amp; Co. veröffentlicht wurde. Ursprünglich hatte die Autorin Corpus delicti als Theaterstück im Auftrag der RuhrTriennale geschrieben. Die Uraufführung des Stücks war am 15. September 2007 in Essen.</value>
+</abstract>
+</XML_Serializer_Tag>
+<XML_Serializer_Tag>
+<book>
+<type>uri</type>
+<value>http://dbpedia.org/resource/Dark_Matter_(Zeh_novel)</value>
+</book>
+<author>
+<type>uri</type>
+<value>http://dbpedia.org/resource/Juli_Zeh</value>
+</author>
+<wikilink>
+<type>uri</type>
+<value>http://en.wikipedia.org/wiki/Dark_Matter_(Zeh_novel)?oldid=546267585</value>
+</wikilink>
+<abstract>
+<type>literal</type>
+<xml:lang>de</xml:lang>
+<value>Schilf ist ein Kriminalroman von Juli Zeh, in dem zwei elitäre Physiker und ihre abstrakten Konzepte von Zeit und Wirklichkeit mit der Realität konfrontiert werden. Aus der abstrakten Kontroverse um Grundkonzepte der modernen Physik entwickelt sich ein Desaster aus Kindesentführung, Mord und zerstörten menschlichen Beziehungen.</value>
+</abstract>
+</XML_Serializer_Tag>
+<XML_Serializer_Tag>
+<book>
+<type>uri</type>
+<value>http://dbpedia.org/resource/Gaming_Instinct</value>
+</book>
+<author>
+<type>uri</type>
+<value>http://dbpedia.org/resource/Juli_Zeh</value>
+</author>
+<wikilink>
+<type>uri</type>
+<value>http://en.wikipedia.org/wiki/Gaming_Instinct?oldid=559775697</value>
+</wikilink>
+<abstract>
+<type>literal</type>
+<xml:lang>de</xml:lang>
+<value>Spieltrieb ist ein Roman der deutschen Schriftstellerin Juli Zeh, der 2004 veröffentlicht wurde. Im Mittelpunkt der in einem Bonner Nobelviertel angesiedelten Handlung steht eine intellektuell frühreife Außenseiterin, die sich im Laufe der geschilderten zwei Jahre an einem Privatgymnasium in ein brisantes Dreiecksverhältnis mit einem Lehrer und einem Mitschüler manövriert.</value>
+</abstract>
+</XML_Serializer_Tag>
+<XML_Serializer_Tag>
+<book>
+<type>uri</type>
+<value>http://dbpedia.org/resource/Eagles_and_Angels</value>
+</book>
+<author>
+<type>uri</type>
+<value>http://dbpedia.org/resource/Juli_Zeh</value>
+</author>
+<wikilink>
+<type>uri</type>
+<value>http://en.wikipedia.org/wiki/Eagles_and_Angels?oldid=482672812</value>
+</wikilink>
+</XML_Serializer_Tag>
+</books>
+</Person>

@@ -1,0 +1,44 @@
+<Person>
+<name>Kerstin Ekman</name>
+<variantName>
+<XML_Serializer_Tag>Kerstin Hjorth</XML_Serializer_Tag>
+</variantName>
+<thumbnail>https://commons.wikimedia.org/wiki/Special:FilePath/Kerstin_Ekman_2011.jpg?width=270</thumbnail>
+<birthEN>1933</birthEN>
+<birthDE>1933</birthDE>
+<deathEN />
+<deathDE />
+<birthPlace>
+<XML_Serializer_Tag>Risinge</XML_Serializer_Tag>
+</birthPlace>
+<deathPlace />
+<professionOrOccupation>
+<XML_Serializer_Tag>Schriftstellerin</XML_Serializer_Tag>
+</professionOrOccupation>
+<dbpResource>http://dbpedia.org/resource/Kerstin_Ekman</dbpResource>
+<abstract>Kerstin Lillemor Ekman (Aussprache: [ˌɕæʂːtin ˈeːkman], * 27. August 1933 in Risinge, Östergötlands län) ist eine der angesehensten Schriftstellerinnen Schwedens.</abstract>
+<wikilink>http://en.wikipedia.org/wiki/Kerstin_Ekman?oldid=540299772</wikilink>
+<artworks />
+<buildings />
+<books>
+<XML_Serializer_Tag>
+<book>
+<type>uri</type>
+<value>http://dbpedia.org/resource/Blackwater_(novel)</value>
+</book>
+<author>
+<type>uri</type>
+<value>http://dbpedia.org/resource/Kerstin_Ekman</value>
+</author>
+<wikilink>
+<type>uri</type>
+<value>http://en.wikipedia.org/wiki/Blackwater_(novel)?oldid=546252389</value>
+</wikilink>
+<abstract>
+<type>literal</type>
+<xml:lang>de</xml:lang>
+<value>Geschehnisse am Wasser (Händelser vid vatten) ist ein viel gelesener Roman der schwedischen Schriftstellerin Kerstin Ekman, für den sie mit zahlreichen Literaturpreisen ausgezeichnet wurde. In einer vielschichtigen Handlung stellt die Autorin die Opfer eines Verbrechens in den Vordergrund. Bei der Wahl der besten schwedischen Bücher des Jahrhunderts der Zeitschrift Biblioteket i fokus im Jahr 1997 kam das Werk auf den 14. Platz.</value>
+</abstract>
+</XML_Serializer_Tag>
+</books>
+</Person>

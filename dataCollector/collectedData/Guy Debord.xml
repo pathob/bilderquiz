@@ -1,0 +1,51 @@
+<Person>
+<name>Guy Debord</name>
+<variantName>
+<XML_Serializer_Tag>Guy Ernest Debord</XML_Serializer_Tag>
+<XML_Serializer_Tag>Guy E. Debord</XML_Serializer_Tag>
+<XML_Serializer_Tag>Guy-Ernest Debord</XML_Serializer_Tag>
+<XML_Serializer_Tag>G.-E. Debord</XML_Serializer_Tag>
+<XML_Serializer_Tag>G.E. Debord</XML_Serializer_Tag>
+</variantName>
+<thumbnail>https://commons.wikimedia.org/wiki/Special:FilePath/Debord.jpg?width=270</thumbnail>
+<birthEN>December 28, 1931</birthEN>
+<birthDE>28. Dezember 1931</birthDE>
+<deathEN>November 30, 1994</deathEN>
+<deathDE>30. November 1994</deathDE>
+<birthPlace>
+<XML_Serializer_Tag>Paris</XML_Serializer_Tag>
+</birthPlace>
+<deathPlace>
+<XML_Serializer_Tag>Bellevue-la-Montagne, Frankreich</XML_Serializer_Tag>
+</deathPlace>
+<professionOrOccupation>
+<XML_Serializer_Tag>Schriftsteller</XML_Serializer_Tag>
+<XML_Serializer_Tag>Regisseur</XML_Serializer_Tag>
+</professionOrOccupation>
+<dbpResource>http://dbpedia.org/resource/Guy_Debord</dbpResource>
+<abstract>Guy-Ernest Debord (* 28. Dezember 1931 in Paris; † 30. November 1994 bei Bellevue-la-Montagne, Haute-Loire) war ein französischer Autor, Filmemacher, Künstler und Revolutionär sowie einflussreiches Gründungsmitglied der Situationistischen Internationale.</abstract>
+<wikilink>http://en.wikipedia.org/wiki/Guy_Debord?oldid=600519835</wikilink>
+<artworks />
+<buildings />
+<books>
+<XML_Serializer_Tag>
+<book>
+<type>uri</type>
+<value>http://dbpedia.org/resource/The_Society_of_the_Spectacle</value>
+</book>
+<author>
+<type>uri</type>
+<value>http://dbpedia.org/resource/Guy_Debord</value>
+</author>
+<wikilink>
+<type>uri</type>
+<value>http://en.wikipedia.org/wiki/The_Society_of_the_Spectacle?oldid=602700844</value>
+</wikilink>
+<abstract>
+<type>literal</type>
+<xml:lang>de</xml:lang>
+<value>Die Gesellschaft des Spektakels (La société du Spectacle) ist das 1967 erschienene Hauptwerk des französischen Künstlers und Philosophen Guy Debord. Es handelt sich um eine philosophisch an Georg Wilhelm Friedrich Hegel, Karl Marx und Georg Lukács geschulte radikale Anklage der modernen westlichen und östlichen Industriegesellschaft, des Kapitalismus, der realsozialistischen Bürokratie, der Form der Ware und der modernen damit einhergehenden Regierungstechniken. Das Buch hatte großen Einfluss auf die französische Studentenbewegung des Pariser Mai 1968, erlangte später einen Kultstatus in Kunst und Subkultur und wird bis heute als medientheoretisches wie politisches Werk an Universitäten gelesen.</value>
+</abstract>
+</XML_Serializer_Tag>
+</books>
+</Person>

@@ -13,8 +13,10 @@
 <XML_Serializer_Tag>Graphiker</XML_Serializer_Tag>
 <XML_Serializer_Tag>Kunsthistoriker</XML_Serializer_Tag>
 </professionOrOccupation>
-<artworks />
 <dbpResource>http://dbpedia.org/resource/John_Burnet_(classicist)</dbpResource>
 <abstract>John Burnet (* 9. Dezember 1863; † 26. Mai 1928) war ein schottischer klassischer Philologe. Er lehrte zwischen 1892 und 1926 als Professor für Gräzistik an der Universität St Andrews. Bedeutend sind bis heute seine philologischen Arbeiten sowie seine Editionen des griechischen Philosophen Platon.</abstract>
 <wikilink>http://en.wikipedia.org/wiki/John_Burnet_(classicist)?oldid=604149216</wikilink>
+<artworks />
+<buildings />
+<books />
 </Person>

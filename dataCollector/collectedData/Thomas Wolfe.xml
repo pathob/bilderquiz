@@ -1,0 +1,50 @@
+<Person>
+<name>Thomas Wolfe</name>
+<variantName>
+<XML_Serializer_Tag>Thomas Clayton Wolfe</XML_Serializer_Tag>
+<XML_Serializer_Tag>Thomas C. Wolfe</XML_Serializer_Tag>
+<XML_Serializer_Tag>Tom Wolfe</XML_Serializer_Tag>
+<XML_Serializer_Tag>... Wolfe-Ryan</XML_Serializer_Tag>
+<XML_Serializer_Tag>Tomas Vulf</XML_Serializer_Tag>
+</variantName>
+<thumbnail>https://commons.wikimedia.org/wiki/Special:FilePath/Thomas_Wolfe_1937_1.jpg?width=270</thumbnail>
+<birthEN>October 3, 1900</birthEN>
+<birthDE>3. Oktober 1900</birthDE>
+<deathEN>September 15, 1938</deathEN>
+<deathDE>15. September 1938</deathDE>
+<birthPlace>
+<XML_Serializer_Tag>Asheville, NC</XML_Serializer_Tag>
+</birthPlace>
+<deathPlace>
+<XML_Serializer_Tag>Baltimore, Md.</XML_Serializer_Tag>
+</deathPlace>
+<professionOrOccupation>
+<XML_Serializer_Tag>Schriftsteller</XML_Serializer_Tag>
+</professionOrOccupation>
+<dbpResource>http://dbpedia.org/resource/Thomas_Wolfe</dbpResource>
+<abstract>Thomas Clayton Wolfe (* 3. Oktober 1900 in Asheville, North Carolina; † 15. September 1938 in Baltimore, Maryland) war ein US-amerikanischer Schriftsteller.</abstract>
+<wikilink>http://en.wikipedia.org/wiki/Thomas_Wolfe?oldid=605669798</wikilink>
+<artworks />
+<buildings />
+<books>
+<XML_Serializer_Tag>
+<book>
+<type>uri</type>
+<value>http://dbpedia.org/resource/You_Can&apos;t_Go_Home_Again</value>
+</book>
+<author>
+<type>uri</type>
+<value>http://dbpedia.org/resource/Thomas_Wolfe</value>
+</author>
+<published>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>New York, London, Harper &amp; Brow, 1940</value>
+</published>
+<wikilink>
+<type>uri</type>
+<value>http://en.wikipedia.org/wiki/You_Can&apos;t_Go_Home_Again?oldid=599423151</value>
+</wikilink>
+</XML_Serializer_Tag>
+</books>
+</Person>

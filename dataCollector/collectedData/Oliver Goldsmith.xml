@@ -1,0 +1,54 @@
+<Person>
+<name>Oliver Goldsmith</name>
+<variantName>
+<XML_Serializer_Tag>... Goldsmith</XML_Serializer_Tag>
+<XML_Serializer_Tag>Olver Goldsmith</XML_Serializer_Tag>
+<XML_Serializer_Tag>Olivier Goldsmith</XML_Serializer_Tag>
+<XML_Serializer_Tag>Oliver Gol&apos;dsmit</XML_Serializer_Tag>
+</variantName>
+<thumbnail>https://de.wikipedia.org/wiki/Special:FilePath/TrintyCollage_Goldsmith1.JPG?width=270</thumbnail>
+<birthEN>1728</birthEN>
+<birthDE>1728</birthDE>
+<deathEN>1774</deathEN>
+<deathDE>1774</deathDE>
+<birthPlace />
+<deathPlace />
+<professionOrOccupation>
+<XML_Serializer_Tag>Schriftsteller</XML_Serializer_Tag>
+</professionOrOccupation>
+<dbpResource>http://dbpedia.org/resource/Oliver_Goldsmith</dbpResource>
+<abstract>Oliver Goldsmith (* 10. November 1728 in Smith-Hill House bei Elphin, Roscommon, Irland; † 4. April 1774 in London) war ein irischer Schriftsteller und Arzt, der für seinen Roman Der Pfarrer von Wakefield (1766), sein pastorales Gedicht The Deserted Village (1770) und seine Stücke The Good-natur&apos;d Man (1768) und She Stoops to Conquer (1773) bekannt ist. Unter dem Einfluss von Buffon verfasste er eine umfangreiche Naturgeschichte: A History of the Earth and Animated Nature, die postum 1774 erschien und bis Anfang des 20. Jahrhunderts mehrere Auflagen erfuhr. Das achtbändige Werk erlangte in England eine ähnliche Popularität wie Brehms Tierleben als „der Brehm“ in Deutschland.Goldsmith war der Sohn eines anglikanischen Klerikers und erwarb den Bachelor of Arts 1749 am Trinity College in Dublin. Er studierte zunächst Theologie und Rechtswissenschaften, später Medizin an der Universität von Edinburgh und an der Universität von Leiden, wo er dann als Assistent eines Apothekers arbeitete. Ständig in Geldnot, produzierte Goldsmith massiv für die Verleger von London. Mit seinen sorgfältigen Arbeiten indes erwarb er sich die Freundschaft von Samuel Johnson, mit dem er „The Club“ gründete.Im County Westmeath nördlich von Athlone an der N55 liegt das „Goldsmith County“, das nach ihm benannt ist. Das „County“ benennt hier jedoch keine politische Verwaltungseinheit im herkömmlichen Sinn, sondern ist eine rein touristische Bezeichnung.</abstract>
+<wikilink>http://en.wikipedia.org/wiki/Oliver_Goldsmith?oldid=606431687</wikilink>
+<artworks />
+<buildings />
+<books>
+<XML_Serializer_Tag>
+<book>
+<type>uri</type>
+<value>http://dbpedia.org/resource/The_Vicar_of_Wakefield</value>
+</book>
+<author>
+<type>uri</type>
+<value>http://dbpedia.org/resource/Oliver_Goldsmith</value>
+</author>
+<thumbnail>
+<type>uri</type>
+<value>http://commons.wikimedia.org/wiki/Special:FilePath/William_Powell_Frith_Measuring_Heights_1863.jpg?width=300</value>
+</thumbnail>
+<published>
+<type>typed-literal</type>
+<datatype>http://www.w3.org/2001/XMLSchema#integer</datatype>
+<value>1766</value>
+</published>
+<wikilink>
+<type>uri</type>
+<value>http://en.wikipedia.org/wiki/The_Vicar_of_Wakefield?oldid=605070488</value>
+</wikilink>
+<abstract>
+<type>literal</type>
+<xml:lang>de</xml:lang>
+<value>In Oliver Goldsmiths Empfindsamkeitsroman Der Pfarrer von Wakefield (engl. The Vicar of Wakefield. A Tale. Supposed to be written by himself) schildert die Hauptfigur Reverend Dr. Charles Primrose den sozio-ökonomischen Fall und Aufstieg seiner Familie. Der im 18. und 19. Jahrhundert überaus erfolgreiche Roman wurde 1766 veröffentlicht und hat die literarische Tradition nachhaltig geprägt.</value>
+</abstract>
+</XML_Serializer_Tag>
+</books>
+</Person>

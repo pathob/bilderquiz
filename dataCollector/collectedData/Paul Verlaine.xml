@@ -1,0 +1,28 @@
+<Person>
+<name>Paul Verlaine</name>
+<variantName>
+<XML_Serializer_Tag>Paul M. Verlaine</XML_Serializer_Tag>
+<XML_Serializer_Tag>Paul Marie Verlaine</XML_Serializer_Tag>
+<XML_Serializer_Tag>Paul-Marie Verlaine</XML_Serializer_Tag>
+<XML_Serializer_Tag>Pol&apos; Verlen</XML_Serializer_Tag>
+<XML_Serializer_Tag>Polʹ Verlėn</XML_Serializer_Tag>
+<XML_Serializer_Tag>P. Verlen</XML_Serializer_Tag>
+<XML_Serializer_Tag>Paul Ṿerlan</XML_Serializer_Tag>
+</variantName>
+<thumbnail>https://commons.wikimedia.org/wiki/Special:FilePath/Netsurf17_-_Paul_Verlaine.png?width=270</thumbnail>
+<birthEN>March 30, 1844</birthEN>
+<birthDE>30. März 1844</birthDE>
+<deathEN>January 8, 1896</deathEN>
+<deathDE>8. Januar 1896</deathDE>
+<birthPlace />
+<deathPlace />
+<professionOrOccupation>
+<XML_Serializer_Tag>Schriftsteller</XML_Serializer_Tag>
+</professionOrOccupation>
+<dbpResource>http://dbpedia.org/resource/Paul_Verlaine</dbpResource>
+<abstract>Paul Marie Verlaine (* 30. März 1844 in Metz; † 8. Januar 1896 in Paris) war ein französischer Lyriker des Symbolismus.</abstract>
+<wikilink>http://en.wikipedia.org/wiki/Paul_Verlaine?oldid=603351619</wikilink>
+<artworks />
+<buildings />
+<books />
+</Person>

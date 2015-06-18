@@ -1,0 +1,77 @@
+<Person>
+<name>Deepak Chopra</name>
+<variantName>
+<XML_Serializer_Tag>Dipʻaek Chʻopʻŭra</XML_Serializer_Tag>
+</variantName>
+<thumbnail>https://commons.wikimedia.org/wiki/Special:FilePath/Deepak_Chopra.jpg?width=270</thumbnail>
+<birthEN>1946</birthEN>
+<birthDE>1946</birthDE>
+<deathEN />
+<deathDE />
+<birthPlace />
+<deathPlace />
+<professionOrOccupation>
+<XML_Serializer_Tag>Internist</XML_Serializer_Tag>
+<XML_Serializer_Tag>Endokrinologe</XML_Serializer_Tag>
+<XML_Serializer_Tag>Autor</XML_Serializer_Tag>
+</professionOrOccupation>
+<dbpResource>http://dbpedia.org/resource/Deepak_Chopra</dbpResource>
+<abstract>Deepak Chopra (* 22. Oktober 1946 in Neu-Delhi, Indien) ist ein populärer zeitgenössischer Autor von Büchern über Spiritualität, alternative Medizin und Ayurveda. Er stammt aus Indien, lebt aber seit Langem in Kalifornien.Der Sohn eines prominenten Kardiologen studierte Medizin und wurde Internist und Endokrinologe. Er beschäftigte sich aber auch stets mit alternativen Heilmethoden und gründete 1996 zusammen mit dem Neurologen David Simon das Chopra Center for Wellbeing, ein Wellness-Center in San Diego (später nach Carlsbad, Kalifornien verlagert). Sein medizinisches Verständnis ist stark beeinflusst durch seine Religion, den Hinduismus, und im Besonderen von den Veden und der Bhagavad Gita.Seine zahlreichen Bücher erreichen weltweit Millionen-Auflagen und wurden in mehr als zwei Dutzend Sprachen übersetzt.Chopra greift in seinen Büchern oft auf Begriffe aus der Quantenphysik zurück, wofür er 1998 den satirischen Ig-Nobelpreis für Physik erhielt. Seine Thesen werden von Wissenschaftlern zum „Quantenmystizismus“ gezählt und als „pseudowissenschaftlich“ bezeichnet.</abstract>
+<wikilink>http://en.wikipedia.org/wiki/Deepak_Chopra?oldid=606773980</wikilink>
+<artworks />
+<buildings />
+<books>
+<XML_Serializer_Tag>
+<book>
+<type>uri</type>
+<value>http://dbpedia.org/resource/The_Afterlife_Experiments</value>
+</book>
+<author>
+<type>uri</type>
+<value>http://dbpedia.org/resource/Deepak_Chopra</value>
+</author>
+<released>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>March 2003</value>
+</released>
+<wikilink>
+<type>uri</type>
+<value>http://en.wikipedia.org/wiki/The_Afterlife_Experiments?oldid=605336459</value>
+</wikilink>
+</XML_Serializer_Tag>
+<XML_Serializer_Tag>
+<book>
+<type>uri</type>
+<value>http://dbpedia.org/resource/The_Seven_Spiritual_Laws_of_Success</value>
+</book>
+<author>
+<type>uri</type>
+<value>http://dbpedia.org/resource/Deepak_Chopra</value>
+</author>
+<published>
+<type>typed-literal</type>
+<datatype>http://www.w3.org/2001/XMLSchema#integer</datatype>
+<value>1994</value>
+</published>
+<wikilink>
+<type>uri</type>
+<value>http://en.wikipedia.org/wiki/The_Seven_Spiritual_Laws_of_Success?oldid=603653853</value>
+</wikilink>
+</XML_Serializer_Tag>
+<XML_Serializer_Tag>
+<book>
+<type>uri</type>
+<value>http://dbpedia.org/resource/War_of_the_Worldviews</value>
+</book>
+<author>
+<type>uri</type>
+<value>http://dbpedia.org/resource/Deepak_Chopra</value>
+</author>
+<wikilink>
+<type>uri</type>
+<value>http://en.wikipedia.org/wiki/War_of_the_Worldviews?oldid=606528429</value>
+</wikilink>
+</XML_Serializer_Tag>
+</books>
+</Person>

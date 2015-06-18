@@ -1,0 +1,26 @@
+<Person>
+<name>Fritz Schupp</name>
+<variantName>
+<XML_Serializer_Tag>F. Schupp</XML_Serializer_Tag>
+</variantName>
+<thumbnail>https://commons.wikimedia.org/wiki/Special:FilePath/Zeche_Zollverein_Fördergerüst.jpg?width=270</thumbnail>
+<birthEN>December 22, 1896</birthEN>
+<birthDE>22. Dezember 1896</birthDE>
+<deathEN>August 1, 1974</deathEN>
+<deathDE>1. August 1974</deathDE>
+<birthPlace>
+<XML_Serializer_Tag>Uerdingen</XML_Serializer_Tag>
+</birthPlace>
+<deathPlace>
+<XML_Serializer_Tag>Essen</XML_Serializer_Tag>
+</deathPlace>
+<professionOrOccupation>
+<XML_Serializer_Tag>Architekt</XML_Serializer_Tag>
+</professionOrOccupation>
+<dbpResource>http://dbpedia.org/resource/Fritz_Schupp</dbpResource>
+<abstract>Fritz Schupp (* 22. Dezember 1896 in Uerdingen; † 1. August 1974 in Essen) war ein deutscher Architekt.</abstract>
+<wikilink>http://en.wikipedia.org/wiki/Fritz_Schupp?oldid=546289531</wikilink>
+<artworks />
+<buildings />
+<books />
+</Person>

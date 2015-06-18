@@ -1,0 +1,26 @@
+<Person>
+<name>Friedrich Kaulbach</name>
+<variantName>
+<XML_Serializer_Tag>Friedrich Wilhelm Christian Theodor Kaulbach</XML_Serializer_Tag>
+</variantName>
+<thumbnail>https://commons.wikimedia.org/wiki/Special:FilePath/Friedrich_Kaulbach_1862.jpg?width=270</thumbnail>
+<birthEN>July 8, 1822</birthEN>
+<birthDE>8. Juli 1822</birthDE>
+<deathEN>September 6, 1903</deathEN>
+<deathDE>6. September 1903</deathDE>
+<birthPlace>
+<XML_Serializer_Tag>Bad Arolsen</XML_Serializer_Tag>
+</birthPlace>
+<deathPlace>
+<XML_Serializer_Tag>Hannover</XML_Serializer_Tag>
+</deathPlace>
+<professionOrOccupation>
+<XML_Serializer_Tag>Künstler</XML_Serializer_Tag>
+</professionOrOccupation>
+<dbpResource>http://dbpedia.org/resource/Friedrich_Kaulbach</dbpResource>
+<abstract>Friedrich Wilhelm Christian Theodor Kaulbach (* 8. Juli 1822 in Bad Arolsen; † 17. September 1903 in Hannover) war ein deutscher Maler.</abstract>
+<wikilink>http://en.wikipedia.org/wiki/Friedrich_Kaulbach?oldid=596237858</wikilink>
+<artworks />
+<buildings />
+<books />
+</Person>

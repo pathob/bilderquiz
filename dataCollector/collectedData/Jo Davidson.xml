@@ -1,0 +1,22 @@
+<Person>
+<name>Jo Davidson</name>
+<variantName>
+<XML_Serializer_Tag>Joseph Davidson</XML_Serializer_Tag>
+</variantName>
+<thumbnail>https://commons.wikimedia.org/wiki/Special:FilePath/Jo_Davidson.jpg?width=270</thumbnail>
+<birthEN>1883</birthEN>
+<birthDE>1883</birthDE>
+<deathEN>1952</deathEN>
+<deathDE>1952</deathDE>
+<birthPlace />
+<deathPlace />
+<professionOrOccupation>
+<XML_Serializer_Tag>Bildhauer</XML_Serializer_Tag>
+</professionOrOccupation>
+<dbpResource>http://dbpedia.org/resource/Jo_Davidson</dbpResource>
+<abstract>Jo Davidson, eigentlich Joseph Davidson, (* 30. März 1883 in New York; † 2. Januar 1952 in Tours, Frankreich) war ein US-amerikanischer Bildhauer, der realistische Skulpturen vieler bekannter Persönlichkeiten aus Politik, Wissenschaft, Kunst und Literatur schuf.</abstract>
+<wikilink>http://en.wikipedia.org/wiki/Jo_Davidson?oldid=600101688</wikilink>
+<artworks />
+<buildings />
+<books />
+</Person>

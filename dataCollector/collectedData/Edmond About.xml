@@ -1,0 +1,32 @@
+<Person>
+<name>Edmond About</name>
+<variantName>
+<XML_Serializer_Tag>Edmont About</XML_Serializer_Tag>
+<XML_Serializer_Tag>Edmund About</XML_Serializer_Tag>
+<XML_Serializer_Tag>Etmon Apow</XML_Serializer_Tag>
+<XML_Serializer_Tag>Edmond François Valentin About</XML_Serializer_Tag>
+<XML_Serializer_Tag>Edmondo About</XML_Serializer_Tag>
+<XML_Serializer_Tag>Edmond-François-Valentin About</XML_Serializer_Tag>
+<XML_Serializer_Tag>E. About</XML_Serializer_Tag>
+</variantName>
+<thumbnail>https://commons.wikimedia.org/wiki/Special:FilePath/Edmond_About_BNF_Gallica.jpg?width=270</thumbnail>
+<birthEN>February 14, 1828</birthEN>
+<birthDE>14. Februar 1828</birthDE>
+<deathEN>January 17, 1885</deathEN>
+<deathDE>17. Januar 1885</deathDE>
+<birthPlace>
+<XML_Serializer_Tag>Dieuze</XML_Serializer_Tag>
+</birthPlace>
+<deathPlace>
+<XML_Serializer_Tag>Paris</XML_Serializer_Tag>
+</deathPlace>
+<professionOrOccupation>
+<XML_Serializer_Tag>Schriftsteller</XML_Serializer_Tag>
+</professionOrOccupation>
+<dbpResource>http://dbpedia.org/resource/Edmond_Fran%C3%A7ois_Valentin_About</dbpResource>
+<abstract>Edmond François Valentin About (* 14. Februar 1828 in Dieuze; † 16. Januar 1885 in Paris) war ein französischer Schriftsteller.</abstract>
+<wikilink>http://en.wikipedia.org/wiki/Edmond_François_Valentin_About?oldid=606178844</wikilink>
+<artworks />
+<buildings />
+<books />
+</Person>

@@ -1,0 +1,28 @@
+<Person>
+<name>Johann Georg Fischer</name>
+<variantName>
+<XML_Serializer_Tag>Johannes Georg Fischer</XML_Serializer_Tag>
+<XML_Serializer_Tag>J. G. Fischer</XML_Serializer_Tag>
+</variantName>
+<thumbnail>https://commons.wikimedia.org/wiki/Special:FilePath/Johann_Georg_Fischer_(Dichter)_Denkmal.jpg?width=270</thumbnail>
+<birthEN>October 25, 1816</birthEN>
+<birthDE>25. Oktober 1816</birthDE>
+<deathEN>May 4, 1897</deathEN>
+<deathDE>4. Mai 1897</deathDE>
+<birthPlace>
+<XML_Serializer_Tag>Groß-Süßen</XML_Serializer_Tag>
+</birthPlace>
+<deathPlace>
+<XML_Serializer_Tag>Stuttgart</XML_Serializer_Tag>
+</deathPlace>
+<professionOrOccupation>
+<XML_Serializer_Tag>Schriftsteller</XML_Serializer_Tag>
+<XML_Serializer_Tag>Lehrer</XML_Serializer_Tag>
+</professionOrOccupation>
+<dbpResource>http://dbpedia.org/resource/Johann_Georg_Fischer</dbpResource>
+<abstract>Johann Georg Fischer (* 25. Oktober 1816 in Groß-Süßen; † 4. Mai 1897 in Stuttgart) war ein deutscher Lyriker und Dramatiker.</abstract>
+<wikilink>http://en.wikipedia.org/wiki/Johann_Georg_Fischer?oldid=592869113</wikilink>
+<artworks />
+<buildings />
+<books />
+</Person>

@@ -1,0 +1,29 @@
+<Person>
+<name>Paul Parin</name>
+<variantName>
+<XML_Serializer_Tag>... Parin-Morgenthaler</XML_Serializer_Tag>
+<XML_Serializer_Tag>Paul Parín</XML_Serializer_Tag>
+</variantName>
+<thumbnail>https://commons.wikimedia.org/wiki/Special:FilePath/Paul_Parin.jpg?width=270</thumbnail>
+<birthEN>September 20, 1916</birthEN>
+<birthDE>20. September 1916</birthDE>
+<deathEN>May 18, 2009</deathEN>
+<deathDE>18. Mai 2009</deathDE>
+<birthPlace>
+<XML_Serializer_Tag>Polzela</XML_Serializer_Tag>
+</birthPlace>
+<deathPlace>
+<XML_Serializer_Tag>Zürich</XML_Serializer_Tag>
+</deathPlace>
+<professionOrOccupation>
+<XML_Serializer_Tag>Ethnologe</XML_Serializer_Tag>
+<XML_Serializer_Tag>Psychoanalytiker</XML_Serializer_Tag>
+<XML_Serializer_Tag>Schriftsteller</XML_Serializer_Tag>
+</professionOrOccupation>
+<dbpResource>http://dbpedia.org/resource/Paul_Parin</dbpResource>
+<abstract>Paul Parin (* 20. September 1916 in Polzela, Österreich-Ungarn, heute Slowenien; † 18. Mai 2009 in Zürich) war ein Schweizer Psychoanalytiker, Ethnologe und Schriftsteller slowenischer Abstammung.</abstract>
+<wikilink>http://en.wikipedia.org/wiki/Paul_Parin?oldid=605321381</wikilink>
+<artworks />
+<buildings />
+<books />
+</Person>

@@ -1,0 +1,30 @@
+<Person>
+<name>Lorenz Leopold Haschka</name>
+<variantName>
+<XML_Serializer_Tag>Lorenz L. Hatschka</XML_Serializer_Tag>
+<XML_Serializer_Tag>Laurenz Leopold Haschka</XML_Serializer_Tag>
+<XML_Serializer_Tag>L. L. Haschka</XML_Serializer_Tag>
+<XML_Serializer_Tag>... Haschka</XML_Serializer_Tag>
+<XML_Serializer_Tag>Lorenz L. Haschka</XML_Serializer_Tag>
+</variantName>
+<thumbnail>https://commons.wikimedia.org/wiki/Special:FilePath/Haydn_Kaiserlied_Reinschrift.jpg?width=270</thumbnail>
+<birthEN>1749</birthEN>
+<birthDE>1749</birthDE>
+<deathEN>1827</deathEN>
+<deathDE>1827</deathDE>
+<birthPlace>
+<XML_Serializer_Tag>Wien</XML_Serializer_Tag>
+</birthPlace>
+<deathPlace>
+<XML_Serializer_Tag>Wien</XML_Serializer_Tag>
+</deathPlace>
+<professionOrOccupation>
+<XML_Serializer_Tag>Lyriker</XML_Serializer_Tag>
+</professionOrOccupation>
+<dbpResource>http://dbpedia.org/resource/Lorenz_Leopold_Haschka</dbpResource>
+<abstract>Lorenz Leopold Hasch (* 1. September 1749 in Wien; † 3. August 1827 ebenda) war ein österreichischer Lyriker. Haschka dichtete die Österreichische Kaiserhymne Gott erhalte Franz, den Kaiser.</abstract>
+<wikilink>http://en.wikipedia.org/wiki/Lorenz_Leopold_Haschka?oldid=599678320</wikilink>
+<artworks />
+<buildings />
+<books />
+</Person>

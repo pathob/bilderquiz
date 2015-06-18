@@ -1,0 +1,31 @@
+<Person>
+<name>Bruno Frank</name>
+<variantName>
+<XML_Serializer_Tag>Brunas Frankas</XML_Serializer_Tag>
+<XML_Serializer_Tag>B. Franks</XML_Serializer_Tag>
+<XML_Serializer_Tag>Bruno Sebald</XML_Serializer_Tag>
+</variantName>
+<thumbnail>https://commons.wikimedia.org/wiki/Special:FilePath/Gedenktafel_für_die_deutschen_u._österreichischen_Flüchtline_am_Fremdenverkehrsbüro_in_Sanary-sur-Mer1.JPG?width=270</thumbnail>
+<birthEN>June 13, 1887</birthEN>
+<birthDE>13. Juni 1887</birthDE>
+<deathEN>June 20, 1945</deathEN>
+<deathDE>20. Juni 1945</deathDE>
+<birthPlace>
+<XML_Serializer_Tag>Stuttgart</XML_Serializer_Tag>
+</birthPlace>
+<deathPlace>
+<XML_Serializer_Tag>Los Angeles, Calif.</XML_Serializer_Tag>
+</deathPlace>
+<professionOrOccupation>
+<XML_Serializer_Tag>Übersetzer</XML_Serializer_Tag>
+<XML_Serializer_Tag>Herausgeber</XML_Serializer_Tag>
+<XML_Serializer_Tag>Schriftsteller</XML_Serializer_Tag>
+<XML_Serializer_Tag>Drehbuchautor</XML_Serializer_Tag>
+</professionOrOccupation>
+<dbpResource>http://dbpedia.org/resource/Bruno_Frank</dbpResource>
+<abstract>Bruno Frank (* 13. Juni 1887 in Stuttgart; † 20. Juni 1945 in Beverly Hills) war ein deutscher Schriftsteller.</abstract>
+<wikilink>http://en.wikipedia.org/wiki/Bruno_Frank?oldid=605701349</wikilink>
+<artworks />
+<buildings />
+<books />
+</Person>

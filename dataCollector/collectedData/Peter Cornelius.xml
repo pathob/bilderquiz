@@ -1,0 +1,29 @@
+<Person>
+<name>Peter Cornelius</name>
+<variantName>
+<XML_Serializer_Tag>Peter von Cornelius</XML_Serializer_Tag>
+<XML_Serializer_Tag>Carl August Peter Cornelius</XML_Serializer_Tag>
+</variantName>
+<thumbnail>https://commons.wikimedia.org/wiki/Special:FilePath/Peter_Cornelius.gif?width=270</thumbnail>
+<birthEN>December 24, 1824</birthEN>
+<birthDE>24. Dezember 1824</birthDE>
+<deathEN>October 26, 1874</deathEN>
+<deathDE>26. Oktober 1874</deathDE>
+<birthPlace>
+<XML_Serializer_Tag>Mainz</XML_Serializer_Tag>
+</birthPlace>
+<deathPlace>
+<XML_Serializer_Tag>Mainz</XML_Serializer_Tag>
+</deathPlace>
+<professionOrOccupation>
+<XML_Serializer_Tag>Komponist</XML_Serializer_Tag>
+<XML_Serializer_Tag>Schriftsteller</XML_Serializer_Tag>
+<XML_Serializer_Tag>Übersetzer</XML_Serializer_Tag>
+</professionOrOccupation>
+<dbpResource>http://dbpedia.org/resource/Peter_Cornelius</dbpResource>
+<abstract>Peter Carl August Cornelius (* 24. Dezember 1824 in Mainz; † 26. Oktober 1874 ebenda) war ein deutscher Komponist und Dichter.</abstract>
+<wikilink>http://en.wikipedia.org/wiki/Peter_Cornelius?oldid=597281559</wikilink>
+<artworks />
+<buildings />
+<books />
+</Person>

@@ -1,0 +1,27 @@
+<Person>
+<name>Naum Gabo</name>
+<variantName>
+<XML_Serializer_Tag>Naum Borisovič Gabo-Pevzner</XML_Serializer_Tag>
+<XML_Serializer_Tag>Naum Pevsner</XML_Serializer_Tag>
+<XML_Serializer_Tag>Naum B. Pevsner</XML_Serializer_Tag>
+<XML_Serializer_Tag>Naum Borisovič Pevsner</XML_Serializer_Tag>
+<XML_Serializer_Tag>Naum B. Pevzner</XML_Serializer_Tag>
+</variantName>
+<thumbnail>https://commons.wikimedia.org/wiki/Special:FilePath/Naum_Gabo_Fountain_02.jpg?width=270</thumbnail>
+<birthEN>1890</birthEN>
+<birthDE>1890</birthDE>
+<deathEN>1977</deathEN>
+<deathDE>1977</deathDE>
+<birthPlace />
+<deathPlace />
+<professionOrOccupation>
+<XML_Serializer_Tag>Bildhauer</XML_Serializer_Tag>
+<XML_Serializer_Tag>Architekt</XML_Serializer_Tag>
+</professionOrOccupation>
+<dbpResource>http://dbpedia.org/resource/Naum_Gabo</dbpResource>
+<abstract>Naum Gabo, KBE (geboren als russisch Наум Абрамович Певснер/Naum Abramowitsch Pewsner; * 5. August 1890 in Brjansk, Russland; † 23. August 1977 in Waterbury, Connecticut, USA) war ein russischer Bildhauer des Konstruktivismus, der sich aber auch als Maler, Architekt und Designer betätigte.</abstract>
+<wikilink>http://en.wikipedia.org/wiki/Naum_Gabo?oldid=605069914</wikilink>
+<artworks />
+<buildings />
+<books />
+</Person>

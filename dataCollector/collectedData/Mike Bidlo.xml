@@ -11,8 +11,10 @@
 <professionOrOccupation>
 <XML_Serializer_Tag>Maler</XML_Serializer_Tag>
 </professionOrOccupation>
-<artworks />
 <dbpResource>http://dbpedia.org/resource/Mike_Bidlo</dbpResource>
 <abstract>Mike Bidlo (* 20. Oktober 1953 in Chicago) ist ein US-amerikanischer Künstler.Bildo studierte an der University of Illinois sowie an der Columbia University.</abstract>
 <wikilink>http://en.wikipedia.org/wiki/Mike_Bidlo?oldid=566799971</wikilink>
+<artworks />
+<buildings />
+<books />
 </Person>

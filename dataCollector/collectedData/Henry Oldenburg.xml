@@ -1,0 +1,33 @@
+<Person>
+<name>Henry Oldenburg</name>
+<variantName>
+<XML_Serializer_Tag>Henricus Oldenburgius</XML_Serializer_Tag>
+<XML_Serializer_Tag>Henricus Oldenburg</XML_Serializer_Tag>
+<XML_Serializer_Tag>Grubendol</XML_Serializer_Tag>
+<XML_Serializer_Tag>Heinrich Oldenburg</XML_Serializer_Tag>
+<XML_Serializer_Tag>Henricus Oldenbourgus</XML_Serializer_Tag>
+</variantName>
+<thumbnail>https://commons.wikimedia.org/wiki/Special:FilePath/Henry_Oldenburg.jpg?width=270</thumbnail>
+<birthEN>1617</birthEN>
+<birthDE>1617</birthDE>
+<deathEN>1677</deathEN>
+<deathDE>1677</deathDE>
+<birthPlace>
+<XML_Serializer_Tag>Bremen</XML_Serializer_Tag>
+</birthPlace>
+<deathPlace>
+<XML_Serializer_Tag>London</XML_Serializer_Tag>
+</deathPlace>
+<professionOrOccupation>
+<XML_Serializer_Tag>Philosoph</XML_Serializer_Tag>
+<XML_Serializer_Tag>Sekretär</XML_Serializer_Tag>
+<XML_Serializer_Tag>Konsul</XML_Serializer_Tag>
+<XML_Serializer_Tag>Hochschullehrer</XML_Serializer_Tag>
+</professionOrOccupation>
+<dbpResource>http://dbpedia.org/resource/Henry_Oldenburg</dbpResource>
+<abstract>Henry Oldenburg (auch: Oldenbourg) (* um 1618 als Heinrich Oldenburg in Bremen; † 5. September 1677 in Charlton) war ein Diplomat und Naturphilosoph. Er war als langjähriger Sekretär der Royal Society in London eine zentrale Figur im Wissenschaftsbetrieb des 17. Jahrhunderts.</abstract>
+<wikilink>http://en.wikipedia.org/wiki/Henry_Oldenburg?oldid=604869062</wikilink>
+<artworks />
+<buildings />
+<books />
+</Person>

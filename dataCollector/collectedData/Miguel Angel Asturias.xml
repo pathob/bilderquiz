@@ -1,0 +1,62 @@
+<Person>
+<name>Miguel Angel Asturias</name>
+<variantName>
+<XML_Serializer_Tag>Miguel Ángel Asturias</XML_Serializer_Tag>
+<XML_Serializer_Tag>Migelʹ Anchelʹ Asturias</XML_Serializer_Tag>
+<XML_Serializer_Tag>Migelʹ Ankhelʹ Asturias</XML_Serializer_Tag>
+<XML_Serializer_Tag>Miguel Ángel Asturias Rosales</XML_Serializer_Tag>
+<XML_Serializer_Tag>Miguel Ángel Asturias Rosales</XML_Serializer_Tag>
+<XML_Serializer_Tag>M. A. Asturias</XML_Serializer_Tag>
+<XML_Serializer_Tag>Migel&apos; Ankhel&apos; Asturias</XML_Serializer_Tag>
+<XML_Serializer_Tag>Migel&apos; Anchel&apos; Asturias</XML_Serializer_Tag>
+</variantName>
+<thumbnail>https://commons.wikimedia.org/wiki/Special:FilePath/MiguelAngelAsturias.JPG?width=270</thumbnail>
+<birthEN>October 19, 1899</birthEN>
+<birthDE>19. Oktober 1899</birthDE>
+<deathEN>June 9, 1974</deathEN>
+<deathDE>9. Juni 1974</deathDE>
+<birthPlace>
+<XML_Serializer_Tag>Guatemala (Stadt)</XML_Serializer_Tag>
+</birthPlace>
+<deathPlace>
+<XML_Serializer_Tag>Madrid</XML_Serializer_Tag>
+</deathPlace>
+<professionOrOccupation>
+<XML_Serializer_Tag>Schriftsteller</XML_Serializer_Tag>
+</professionOrOccupation>
+<dbpResource>http://dbpedia.org/resource/Miguel_%C3%81ngel_Asturias</dbpResource>
+<abstract>Miguel Ángel Asturias Rosales (* 19. Oktober 1899 in Guatemala-Stadt; † 9. Juni 1974 in Madrid) war ein guatemaltekischer Schriftsteller, Lyriker und Diplomat. Asturias wurde 1967 der Nobelpreis für Literatur verliehen.</abstract>
+<wikilink>http://en.wikipedia.org/wiki/Miguel_Ángel_Asturias?oldid=606597172</wikilink>
+<artworks />
+<buildings />
+<books>
+<XML_Serializer_Tag>
+<book>
+<type>uri</type>
+<value>http://dbpedia.org/resource/Leyendas_de_Guatemala</value>
+</book>
+<author>
+<type>uri</type>
+<value>http://dbpedia.org/resource/Miguel_%C3%81ngel_Asturias</value>
+</author>
+<wikilink>
+<type>uri</type>
+<value>http://en.wikipedia.org/wiki/Leyendas_de_Guatemala?oldid=601968325</value>
+</wikilink>
+</XML_Serializer_Tag>
+<XML_Serializer_Tag>
+<book>
+<type>uri</type>
+<value>http://dbpedia.org/resource/Men_of_Maize</value>
+</book>
+<author>
+<type>uri</type>
+<value>http://dbpedia.org/resource/Miguel_%C3%81ngel_Asturias</value>
+</author>
+<wikilink>
+<type>uri</type>
+<value>http://en.wikipedia.org/wiki/Men_of_Maize?oldid=579891459</value>
+</wikilink>
+</XML_Serializer_Tag>
+</books>
+</Person>

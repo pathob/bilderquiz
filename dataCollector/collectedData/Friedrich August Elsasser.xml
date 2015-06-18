@@ -14,8 +14,10 @@
 <XML_Serializer_Tag>Künstler</XML_Serializer_Tag>
 <XML_Serializer_Tag>Maler</XML_Serializer_Tag>
 </professionOrOccupation>
-<artworks />
 <dbpResource>http://dbpedia.org/resource/Friedrich_August_Elsasser</dbpResource>
 <abstract>Friedrich August Elsasser (* 24. Juli 1810 in Berlin; † 1. September 1845 in Rom) war ein deutscher Maler.Friedrich August Elsasser war wie sein jüngerer Bruder Julius (1814–1859) ein Landschaftsmaler. Er besuchte die Preußische Akademie der Künste seiner Vaterstadt und war dort u.a. Schüler des Landschaftsmalers Carl Blechen. Ab 1832 wirkte er für einige Jahre in Rom und zählte zum Kreis von Joseph Anton Koch und den Deutschrömern. Von Rom aus unternahm er einige ausgedehnte Studienreisen nach Süditalien und Sizilien.</abstract>
 <wikilink>http://en.wikipedia.org/wiki/Friedrich_August_Elsasser?oldid=581811901</wikilink>
+<artworks />
+<buildings />
+<books />
 </Person>

@@ -16,8 +16,10 @@
 <XML_Serializer_Tag>Maler</XML_Serializer_Tag>
 <XML_Serializer_Tag>Graphiker</XML_Serializer_Tag>
 </professionOrOccupation>
-<artworks />
 <dbpResource>http://dbpedia.org/resource/Lothar_Baumgarten</dbpResource>
 <abstract>Lothar Baumgarten (* 1944 in Rheinsberg) ist ein deutscher Künstler.</abstract>
 <wikilink>http://en.wikipedia.org/wiki/Lothar_Baumgarten?oldid=587718380</wikilink>
+<artworks />
+<buildings />
+<books />
 </Person>

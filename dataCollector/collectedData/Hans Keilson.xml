@@ -1,0 +1,36 @@
+<Person>
+<name>Hans Keilson</name>
+<variantName>
+<XML_Serializer_Tag>H. Keilson</XML_Serializer_Tag>
+<XML_Serializer_Tag>Hans Ḳeilson</XML_Serializer_Tag>
+<XML_Serializer_Tag>Chans Kai͏̈lzon</XML_Serializer_Tag>
+<XML_Serializer_Tag>Hans Alex Keilson</XML_Serializer_Tag>
+<XML_Serializer_Tag>Alexander Keiland</XML_Serializer_Tag>
+<XML_Serializer_Tag>Benjamin Cooper</XML_Serializer_Tag>
+<XML_Serializer_Tag>B. Cooper</XML_Serializer_Tag>
+<XML_Serializer_Tag>האנס קיילסון</XML_Serializer_Tag>
+</variantName>
+<thumbnail>https://de.wikipedia.org/wiki/Special:FilePath/Hans_keilson2007.jpg?width=270</thumbnail>
+<birthEN>December 12, 1909</birthEN>
+<birthDE>12. Dezember 1909</birthDE>
+<deathEN>May 31, 2011</deathEN>
+<deathDE>31. Mai 2011</deathDE>
+<birthPlace>
+<XML_Serializer_Tag>Bad Freienwalde (Oder)</XML_Serializer_Tag>
+</birthPlace>
+<deathPlace>
+<XML_Serializer_Tag>Hilversum</XML_Serializer_Tag>
+</deathPlace>
+<professionOrOccupation>
+<XML_Serializer_Tag>Schriftsteller</XML_Serializer_Tag>
+<XML_Serializer_Tag>Lyriker</XML_Serializer_Tag>
+<XML_Serializer_Tag>Arzt</XML_Serializer_Tag>
+<XML_Serializer_Tag>Psychoanalytiker</XML_Serializer_Tag>
+</professionOrOccupation>
+<dbpResource>http://dbpedia.org/resource/Hans_Keilson</dbpResource>
+<abstract>Hans Alex Keilson (* 12. Dezember 1909 in Bad Freienwalde an der Oder; † 31. Mai 2011 in Hilversum) war ein deutsch-niederländischer Arzt, Psychoanalytiker und deutschsprachiger Schriftsteller.</abstract>
+<wikilink>http://en.wikipedia.org/wiki/Hans_Keilson?oldid=598252420</wikilink>
+<artworks />
+<buildings />
+<books />
+</Person>

@@ -1,0 +1,28 @@
+<Person>
+<name>Weiwei Ai</name>
+<variantName>
+<XML_Serializer_Tag>Ai Weiwei</XML_Serializer_Tag>
+<XML_Serializer_Tag>未未 艾</XML_Serializer_Tag>
+</variantName>
+<thumbnail>https://commons.wikimedia.org/wiki/Special:FilePath/Ai_Weiwei.jpg?width=270</thumbnail>
+<birthEN>1957</birthEN>
+<birthDE>1957</birthDE>
+<deathEN />
+<deathDE />
+<birthPlace>
+<XML_Serializer_Tag>Peking</XML_Serializer_Tag>
+</birthPlace>
+<deathPlace />
+<professionOrOccupation>
+<XML_Serializer_Tag>Künstler</XML_Serializer_Tag>
+<XML_Serializer_Tag>Architekt</XML_Serializer_Tag>
+<XML_Serializer_Tag>Aktionskünstler</XML_Serializer_Tag>
+<XML_Serializer_Tag>Installationskünstler</XML_Serializer_Tag>
+</professionOrOccupation>
+<dbpResource>http://dbpedia.org/resource/Ai_Weiwei</dbpResource>
+<abstract>Ai Weiwei (chinesisch 艾未未, Pinyin Ài Wèiwèi, * 28. August 1957 in Peking) ist ein chinesischer Konzeptkünstler, Bildhauer und Kurator. Er ist der Sohn des Dichters und Malers Ai Qing und Halbbruder des Malers Ai Xuan. Nach regierungskritischen Äußerungen im Rahmen der Proteste in China 2011 war er seit dem 3. April 2011 an einem unbekannten Ort in Haft. Ihm wurde ein Wirtschaftsdelikt vorgeworfen. Der Sprecher des Außenministeriums Hong Wei erklärte: „Provokante Menschen wie Ai Weiwei muss man im Zaum halten.“ Am 22. Juni 2011 wurde Ai Weiwei unter strengen Auflagen und gegen Kaution freigelassen.</abstract>
+<wikilink>http://en.wikipedia.org/wiki/Ai_Weiwei?oldid=605093088</wikilink>
+<artworks />
+<buildings />
+<books />
+</Person>

@@ -1,0 +1,30 @@
+<Person>
+<name>Alfred Friedrich Bluntschli</name>
+<variantName>
+<XML_Serializer_Tag>Alfred Bluntschli</XML_Serializer_Tag>
+<XML_Serializer_Tag>Friedrich Alfred Bluntschli</XML_Serializer_Tag>
+<XML_Serializer_Tag>Friedrich Bluntschli</XML_Serializer_Tag>
+<XML_Serializer_Tag>Fritz Bluntschli</XML_Serializer_Tag>
+<XML_Serializer_Tag>F. Bluntschli</XML_Serializer_Tag>
+</variantName>
+<thumbnail>https://commons.wikimedia.org/wiki/Special:FilePath/Alfred_Friedrich_Bluntschli.jpg?width=270</thumbnail>
+<birthEN>January 29, 1842</birthEN>
+<birthDE>29. Januar 1842</birthDE>
+<deathEN>July 27, 1930</deathEN>
+<deathDE>27. Juli 1930</deathDE>
+<birthPlace>
+<XML_Serializer_Tag>Zürich</XML_Serializer_Tag>
+</birthPlace>
+<deathPlace>
+<XML_Serializer_Tag>Zürich</XML_Serializer_Tag>
+</deathPlace>
+<professionOrOccupation>
+<XML_Serializer_Tag>Architekt</XML_Serializer_Tag>
+</professionOrOccupation>
+<dbpResource>http://dbpedia.org/resource/Alfred_Friedrich_Bluntschli</dbpResource>
+<abstract>Alfred Friedrich Bluntschli (* 29. Januar 1842 in Zürich; † 27. Juli 1930 in Zürich) war ein Schweizer Architekt, der ab 1866 in Deutschland und ab 1881 in Zürich arbeitete.</abstract>
+<wikilink>http://en.wikipedia.org/wiki/Alfred_Friedrich_Bluntschli?oldid=582998670</wikilink>
+<artworks />
+<buildings />
+<books />
+</Person>

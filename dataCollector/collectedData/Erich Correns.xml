@@ -12,8 +12,10 @@
 <XML_Serializer_Tag>Künstler</XML_Serializer_Tag>
 <XML_Serializer_Tag>Maler</XML_Serializer_Tag>
 </professionOrOccupation>
-<artworks />
 <dbpResource>http://dbpedia.org/resource/Erich_Correns</dbpResource>
 <abstract>Erich Correns (* 3. März 1821 in Köln; † 4. Juni 1877 in München) war ein deutscher Genre- und Porträtmaler.</abstract>
 <wikilink>http://en.wikipedia.org/wiki/Erich_Correns?oldid=603375504</wikilink>
+<artworks />
+<buildings />
+<books />
 </Person>

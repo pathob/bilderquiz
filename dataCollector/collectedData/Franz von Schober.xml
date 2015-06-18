@@ -1,0 +1,32 @@
+<Person>
+<name>Franz von Schober</name>
+<variantName>
+<XML_Serializer_Tag>Franz Schober</XML_Serializer_Tag>
+<XML_Serializer_Tag>Franz Adolf Friedrich von Schober</XML_Serializer_Tag>
+<XML_Serializer_Tag>Fr. von Schober</XML_Serializer_Tag>
+<XML_Serializer_Tag>Torupson</XML_Serializer_Tag>
+</variantName>
+<thumbnail>https://commons.wikimedia.org/wiki/Special:FilePath/F.v.S..jpg?width=270</thumbnail>
+<birthEN>May 17, 1796</birthEN>
+<birthDE>17. Mai 1796</birthDE>
+<deathEN>September 13, 1882</deathEN>
+<deathDE>13. September 1882</deathDE>
+<birthPlace>
+<XML_Serializer_Tag>Malmö</XML_Serializer_Tag>
+</birthPlace>
+<deathPlace>
+<XML_Serializer_Tag>Dresden</XML_Serializer_Tag>
+</deathPlace>
+<professionOrOccupation>
+<XML_Serializer_Tag>Schriftsteller</XML_Serializer_Tag>
+<XML_Serializer_Tag>Librettist</XML_Serializer_Tag>
+<XML_Serializer_Tag>Lithograph</XML_Serializer_Tag>
+<XML_Serializer_Tag>Schauspieler</XML_Serializer_Tag>
+</professionOrOccupation>
+<dbpResource>http://dbpedia.org/resource/Franz_von_Schober</dbpResource>
+<abstract>Franz Adolf Friedrich Schober, ab 1801 von Schober (* 17. Mai 1796 auf Schloss Torup bei Malmö, Schweden; † 13. September 1882 in Dresden) war ein österreichischer Dichter, Librettist und Lithograf sowie Schauspieler in Breslau und Legationsrat in Weimar.</abstract>
+<wikilink>http://en.wikipedia.org/wiki/Franz_von_Schober?oldid=561711575</wikilink>
+<artworks />
+<buildings />
+<books />
+</Person>

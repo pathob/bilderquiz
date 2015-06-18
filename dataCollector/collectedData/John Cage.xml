@@ -25,8 +25,44 @@
 <XML_Serializer_Tag>Komponist</XML_Serializer_Tag>
 <XML_Serializer_Tag>Mitwirkung</XML_Serializer_Tag>
 </professionOrOccupation>
-<artworks />
 <dbpResource>http://dbpedia.org/resource/John_Cage</dbpResource>
 <abstract>John Milton Cage Jr. (* 5. September 1912 in Los Angeles; † 12. August 1992 in New York City) war ein US-amerikanischer Komponist und Künstler. Mit seinen mehr als 250 Kompositionen, die häufig als Schlüsselwerke der Neuen Musik angesehen werden, gilt er als einer der weltweit einflussreichsten Komponisten des 20. Jahrhunderts. Hinzu kommen musik- und kompositionstheoretische Arbeiten von grundsätzlicher Bedeutung. Außerdem gilt Cage als Schlüsselfigur für die Ende der 1950er Jahre entstehende Happeningbewegung und als wichtiger Anreger für die Fluxusbewegung und die Neue Improvisationsmusik. Neben seinem kompositorischen Schaffen betätigte er sich auch als Maler und befasste sich mit Mykologie, der Wissenschaft von den Pilzen.</abstract>
 <wikilink>http://en.wikipedia.org/wiki/John_Cage?oldid=606546589</wikilink>
+<artworks />
+<buildings />
+<books>
+<XML_Serializer_Tag>
+<book>
+<type>uri</type>
+<value>http://dbpedia.org/resource/X_(book)</value>
+</book>
+<author>
+<type>uri</type>
+<value>http://dbpedia.org/resource/John_Cage</value>
+</author>
+<published>
+<type>typed-literal</type>
+<datatype>http://www.w3.org/2001/XMLSchema#integer</datatype>
+<value>1983</value>
+</published>
+<wikilink>
+<type>uri</type>
+<value>http://en.wikipedia.org/wiki/X_(book)?oldid=584095932</value>
+</wikilink>
+</XML_Serializer_Tag>
+<XML_Serializer_Tag>
+<book>
+<type>uri</type>
+<value>http://dbpedia.org/resource/M_(John_Cage_book)</value>
+</book>
+<author>
+<type>uri</type>
+<value>http://dbpedia.org/resource/John_Cage</value>
+</author>
+<wikilink>
+<type>uri</type>
+<value>http://en.wikipedia.org/wiki/M_(John_Cage_book)?oldid=591768244</value>
+</wikilink>
+</XML_Serializer_Tag>
+</books>
 </Person>

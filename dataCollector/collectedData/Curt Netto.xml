@@ -25,8 +25,10 @@
 <XML_Serializer_Tag>Ethnologe</XML_Serializer_Tag>
 <XML_Serializer_Tag>Berg- und Hüttenmann</XML_Serializer_Tag>
 </professionOrOccupation>
-<artworks />
 <dbpResource>http://dbpedia.org/resource/Curt_Netto</dbpResource>
 <abstract>Curt Adolph Netto (* 21. August 1847 in Freiberg; † 7. Februar 1909 in Frankfurt am Main) war ein deutscher Metallurge und Autor. Er gilt als Wegbereiter für die industrielle Nutzbarmachung des Aluminiums.</abstract>
 <wikilink>http://en.wikipedia.org/wiki/Curt_Netto?oldid=574154117</wikilink>
+<artworks />
+<buildings />
+<books />
 </Person>

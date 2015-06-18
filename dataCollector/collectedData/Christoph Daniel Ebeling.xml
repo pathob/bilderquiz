@@ -1,0 +1,33 @@
+<Person>
+<name>Christoph Daniel Ebeling</name>
+<variantName>
+<XML_Serializer_Tag>C. D. E.</XML_Serializer_Tag>
+<XML_Serializer_Tag>C. D. Ebeling</XML_Serializer_Tag>
+<XML_Serializer_Tag>Christoph D. Ebeling</XML_Serializer_Tag>
+<XML_Serializer_Tag>Christophe Daniel Ebeling</XML_Serializer_Tag>
+</variantName>
+<thumbnail>https://commons.wikimedia.org/wiki/Special:FilePath/Christoph_Daniel_Ebeling_AGE_V05_1800.jpg?width=270</thumbnail>
+<birthEN>November 20, 1741</birthEN>
+<birthDE>20. November 1741</birthDE>
+<deathEN>June 30, 1817</deathEN>
+<deathDE>30. Juni 1817</deathDE>
+<birthPlace>
+<XML_Serializer_Tag>Schellerten-Garmissen</XML_Serializer_Tag>
+</birthPlace>
+<deathPlace>
+<XML_Serializer_Tag>Hamburg</XML_Serializer_Tag>
+</deathPlace>
+<professionOrOccupation>
+<XML_Serializer_Tag>Theologe</XML_Serializer_Tag>
+<XML_Serializer_Tag>Gelehrter</XML_Serializer_Tag>
+<XML_Serializer_Tag>Bibliothekar</XML_Serializer_Tag>
+<XML_Serializer_Tag>Schriftsteller</XML_Serializer_Tag>
+<XML_Serializer_Tag>Historiker</XML_Serializer_Tag>
+</professionOrOccupation>
+<dbpResource>http://dbpedia.org/resource/Christoph_Daniel_Ebeling</dbpResource>
+<abstract>Christoph Daniel Ebeling (* 20. November 1741 in Garmissen bei Hildesheim; † 30. Juni 1817 in Hamburg) war ein Hamburger Aufklärer, Amerikanist, Pädagoge, Musikkritiker und Bibliothekar.</abstract>
+<wikilink>http://en.wikipedia.org/wiki/Christoph_Daniel_Ebeling?oldid=572103955</wikilink>
+<artworks />
+<buildings />
+<books />
+</Person>

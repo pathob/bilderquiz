@@ -1,0 +1,50 @@
+<Person>
+<name>Arno Schmidt</name>
+<variantName>
+<XML_Serializer_Tag>Arno Otto Schmidt</XML_Serializer_Tag>
+<XML_Serializer_Tag>A. Schmidt</XML_Serializer_Tag>
+<XML_Serializer_Tag>Arno Šmit</XML_Serializer_Tag>
+</variantName>
+<thumbnail>https://commons.wikimedia.org/wiki/Special:FilePath/KueheinHalbtrauer.jpg?width=270</thumbnail>
+<birthEN>January 18, 1914</birthEN>
+<birthDE>18. Januar 1914</birthDE>
+<deathEN>June 3, 1979</deathEN>
+<deathDE>3. Juni 1979</deathDE>
+<birthPlace>
+<XML_Serializer_Tag>Hamburg</XML_Serializer_Tag>
+</birthPlace>
+<deathPlace>
+<XML_Serializer_Tag>Celle</XML_Serializer_Tag>
+</deathPlace>
+<professionOrOccupation>
+<XML_Serializer_Tag>Schriftsteller</XML_Serializer_Tag>
+<XML_Serializer_Tag>Übersetzer</XML_Serializer_Tag>
+<XML_Serializer_Tag>Essayist</XML_Serializer_Tag>
+</professionOrOccupation>
+<dbpResource>http://dbpedia.org/resource/Arno_Schmidt</dbpResource>
+<abstract>Arno Otto Schmidt (* 18. Januar 1914 in Hamburg-Hamm; † 3. Juni 1979 in Celle) war ein deutscher Schriftsteller.Schmidt wuchs in Hamburg und Lauban bei Görlitz auf. Seit 1938 lebte er in Greiffenberg. Von 1946 an lebte er als freier Schriftsteller zunächst in Cordingen, dann in Gau-Bickelheim, Kastel an der Saar und später in Darmstadt. Sein erster Band mit Erzählungen, Leviathan, erschien 1949. Dieser und seine Werke der 1950er Jahre sind sprachlich von einer ungewöhnlichen, sich oft am Expressionismus orientierenden Wortwahl geprägt. Formal kennzeichnet sie das Bemühen um neue Prosaformen, inhaltlich sind sie von einer kulturpessimistischen Weltsicht und einer angriffslustigen Gegnerschaft gegen das Westdeutschland der Adenauer-Ära geprägt. Seit 1958 im Heidedorf Bargfeld bei Celle ansässig, entwickelte Schmidt seine theoretischen Überlegungen zu Prosa und Sprache in den 1960er Jahren in Auseinandersetzung vor allem mit James Joyce und Sigmund Freud weiter und suchte seine Ergebnisse in den in dieser Zeit entstandenen Werken (Ländliche Erzählungen im Band Kühe in Halbtrauer, KAFF auch Mare Crisium) umzusetzen. Als Summe dieser Entwicklung erschien 1970 das monumentale Hauptwerk Zettel’s Traum. Sein Spätwerk (Die Schule der Atheisten, Abend mit Goldrand und das Fragment gebliebene Werk Julia, oder die Gemälde) erschien wie Zettel’s Traum in großformatigen Typoskriptbänden. Außer den für den Autor wichtigen Prosaarbeiten entstanden zahlreiche Übersetzungen aus dem Englischen, Kurzgeschichten, literaturgeschichtliche und -theoretische (Radio-) Essays, eine detaillierte Biografie Friedrich de la Motte Fouqués sowie eine durch die Psychoanalyse angeregte Studie über Karl May (Sitara).</abstract>
+<wikilink>http://en.wikipedia.org/wiki/Arno_Schmidt?oldid=601618227</wikilink>
+<artworks />
+<buildings />
+<books>
+<XML_Serializer_Tag>
+<book>
+<type>uri</type>
+<value>http://dbpedia.org/resource/The_School_for_Atheists</value>
+</book>
+<author>
+<type>uri</type>
+<value>http://dbpedia.org/resource/Arno_Schmidt</value>
+</author>
+<wikilink>
+<type>uri</type>
+<value>http://en.wikipedia.org/wiki/The_School_for_Atheists?oldid=580634668</value>
+</wikilink>
+<abstract>
+<type>literal</type>
+<xml:lang>de</xml:lang>
+<value>Die Schule der Atheisten (Untertitel: Novellen=Comödie in 6 Aufzügen) ist ein Werk des deutschen Schriftstellers Arno Schmidt mit 80 stark kommentierten szenischen Kapiteln.Das Werk erschien zuerst 1972 im S. Fischer Verlag, Frankfurt am Main. 1994 erschien es neu in der Bargfelder Ausgabe, Werkgruppe IV, Band 2 als Edition der Arno Schmidt Stiftung im Haffmans Verlag.</value>
+</abstract>
+</XML_Serializer_Tag>
+</books>
+</Person>

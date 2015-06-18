@@ -1,0 +1,32 @@
+<Person>
+<name>Geoffrey Chaucer</name>
+<variantName>
+<XML_Serializer_Tag>Geoffrey, Chaucer</XML_Serializer_Tag>
+<XML_Serializer_Tag>Geoffroy, Chaucer</XML_Serializer_Tag>
+<XML_Serializer_Tag>Geoffroy Chaucer</XML_Serializer_Tag>
+<XML_Serializer_Tag>Geffrey Chaucer</XML_Serializer_Tag>
+<XML_Serializer_Tag>Jeffrey Chaucer</XML_Serializer_Tag>
+<XML_Serializer_Tag>Gotfred Chaucer</XML_Serializer_Tag>
+<XML_Serializer_Tag>J. Chaucer</XML_Serializer_Tag>
+<XML_Serializer_Tag>Gottfried Chaucer</XML_Serializer_Tag>
+<XML_Serializer_Tag>Galfredus Chaucerus</XML_Serializer_Tag>
+<XML_Serializer_Tag>Žeoffrej Čoser</XML_Serializer_Tag>
+<XML_Serializer_Tag>Džefri Čosŭr</XML_Serializer_Tag>
+</variantName>
+<thumbnail>https://commons.wikimedia.org/wiki/Special:FilePath/ChaucerPortraitEllesmereMs.jpg?width=270</thumbnail>
+<birthEN>1343</birthEN>
+<birthDE>1343</birthDE>
+<deathEN>1400</deathEN>
+<deathDE>1400</deathDE>
+<birthPlace />
+<deathPlace />
+<professionOrOccupation>
+<XML_Serializer_Tag>Schriftsteller</XML_Serializer_Tag>
+</professionOrOccupation>
+<dbpResource>http://dbpedia.org/resource/Geoffrey_Chaucer</dbpResource>
+<abstract>Geoffrey Chaucer (* um 1343, wahrscheinlich in London; † wahrscheinlich 25. Oktober 1400 in London) war ein englischer Schriftsteller und Dichter, der als Verfasser der Canterbury Tales berühmt geworden ist. In einer Zeit, in der die englische Dichtung noch vorwiegend in Latein, Französisch oder Anglonormannisch geschrieben wurde, gebrauchte Chaucer die Volkssprache und erhob dadurch das Mittelenglische zur Literatursprache. Sein Familienname leitet sich vom franz. chausseur, &quot;Schuhmacher&quot;, ab.</abstract>
+<wikilink>http://en.wikipedia.org/wiki/Geoffrey_Chaucer?oldid=603174290</wikilink>
+<artworks />
+<buildings />
+<books />
+</Person>

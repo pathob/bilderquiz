@@ -1,0 +1,29 @@
+<Person>
+<name>Hermann Masius</name>
+<variantName>
+<XML_Serializer_Tag>Karl Wilhelm Hermann Masius</XML_Serializer_Tag>
+</variantName>
+<thumbnail>https://commons.wikimedia.org/wiki/Special:FilePath/Hermann_Masius.jpg?width=270</thumbnail>
+<birthEN>January 7, 1818</birthEN>
+<birthDE>7. Januar 1818</birthDE>
+<deathEN>May 22, 1893</deathEN>
+<deathDE>22. Mai 1893</deathDE>
+<birthPlace>
+<XML_Serializer_Tag>Trebnitz (Könnern)</XML_Serializer_Tag>
+</birthPlace>
+<deathPlace>
+<XML_Serializer_Tag>Leipzig</XML_Serializer_Tag>
+</deathPlace>
+<professionOrOccupation>
+<XML_Serializer_Tag>Pädagoge</XML_Serializer_Tag>
+<XML_Serializer_Tag>Oberlehrer</XML_Serializer_Tag>
+<XML_Serializer_Tag>Schulleiter</XML_Serializer_Tag>
+<XML_Serializer_Tag>Schriftsteller</XML_Serializer_Tag>
+</professionOrOccupation>
+<dbpResource>http://dbpedia.org/resource/Hermann_Masius</dbpResource>
+<abstract>Karl Wilhelm Hermann Masius (* 7. Januar 1818 in Trebnitz; † 22. Mai 1893 in Leipzig) war ein deutscher Pädagoge und ab 1862 Professor in Leipzig.</abstract>
+<wikilink>http://en.wikipedia.org/wiki/Hermann_Masius?oldid=543221199</wikilink>
+<artworks />
+<buildings />
+<books />
+</Person>

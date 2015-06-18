@@ -19,8 +19,10 @@
 <XML_Serializer_Tag>Künstler</XML_Serializer_Tag>
 <XML_Serializer_Tag>Maler</XML_Serializer_Tag>
 </professionOrOccupation>
-<artworks />
 <dbpResource>http://dbpedia.org/resource/Karl_Girardet</dbpResource>
 <abstract>Karl Girardet (* 3. Mai 1813 in Le Locle; † 24. April 1871 in Versailles) war ein Schweizer Maler.</abstract>
 <wikilink>http://en.wikipedia.org/wiki/Karl_Girardet?oldid=589481349</wikilink>
+<artworks />
+<buildings />
+<books />
 </Person>

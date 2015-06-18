@@ -1,0 +1,24 @@
+<Person>
+<name>Max Tau</name>
+<variantName />
+<thumbnail>https://commons.wikimedia.org/wiki/Special:FilePath/Bundesarchiv_B_145_Bild-F043919-0017,_Frankfurt,_Friedenspreis_des_Deutschen_Buchhandels.jpg?width=270</thumbnail>
+<birthEN>January 19, 1897</birthEN>
+<birthDE>19. Januar 1897</birthDE>
+<deathEN>March 13, 1976</deathEN>
+<deathDE>13. März 1976</deathDE>
+<birthPlace>
+<XML_Serializer_Tag>Beuthen (Oberschlesien)</XML_Serializer_Tag>
+</birthPlace>
+<deathPlace>
+<XML_Serializer_Tag>Oslo</XML_Serializer_Tag>
+</deathPlace>
+<professionOrOccupation>
+<XML_Serializer_Tag>Schriftsteller</XML_Serializer_Tag>
+</professionOrOccupation>
+<dbpResource>http://dbpedia.org/resource/Max_Tau</dbpResource>
+<abstract>Max Tau (* 19. Januar 1897 in Beuthen O.S.; † 13. März 1976 in Oslo) war ein deutscher Schriftsteller, Lektor und Verleger.</abstract>
+<wikilink>http://en.wikipedia.org/wiki/Max_Tau?oldid=580917332</wikilink>
+<artworks />
+<buildings />
+<books />
+</Person>

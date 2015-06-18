@@ -1,0 +1,32 @@
+<Person>
+<name>Marianne Weber</name>
+<variantName>
+<XML_Serializer_Tag>Marianne Schnitger</XML_Serializer_Tag>
+<XML_Serializer_Tag>Marianne Veber</XML_Serializer_Tag>
+<XML_Serializer_Tag>Marianna Veber</XML_Serializer_Tag>
+<XML_Serializer_Tag>Ma li an ni Wei bo</XML_Serializer_Tag>
+<XML_Serializer_Tag>Malianni-Weibo</XML_Serializer_Tag>
+<XML_Serializer_Tag>Malianni Weibo</XML_Serializer_Tag>
+</variantName>
+<thumbnail>https://commons.wikimedia.org/wiki/Special:FilePath/MarianneWeberInLemgo.jpg?width=270</thumbnail>
+<birthEN>August 2, 1870</birthEN>
+<birthDE>2. August 1870</birthDE>
+<deathEN>March 12, 1954</deathEN>
+<deathDE>12. März 1954</deathDE>
+<birthPlace>
+<XML_Serializer_Tag>Oerlinghausen</XML_Serializer_Tag>
+</birthPlace>
+<deathPlace>
+<XML_Serializer_Tag>Heidelberg</XML_Serializer_Tag>
+</deathPlace>
+<professionOrOccupation>
+<XML_Serializer_Tag>Publizistin</XML_Serializer_Tag>
+<XML_Serializer_Tag>Schriftstellerin</XML_Serializer_Tag>
+</professionOrOccupation>
+<dbpResource>http://dbpedia.org/resource/Marianne_Weber</dbpResource>
+<abstract>Marianne Weber (geb. Schnitger) (* 2. August 1870 in Oerlinghausen; † 12. März 1954 in Heidelberg) war eine deutsche Frauenrechtlerin und Rechtshistorikerin.</abstract>
+<wikilink>http://en.wikipedia.org/wiki/Marianne_Weber?oldid=603226699</wikilink>
+<artworks />
+<buildings />
+<books />
+</Person>

@@ -16,12 +16,15 @@
 <XML_Serializer_Tag>Maler</XML_Serializer_Tag>
 <XML_Serializer_Tag>Kupferstecher</XML_Serializer_Tag>
 </professionOrOccupation>
+<dbpResource>http://dbpedia.org/resource/Andrea_Mantegna</dbpResource>
+<abstract>Andrea Mantegna (* 1431 auf der Isola Mantegna, früher Isola di Carturo, bei Piazzola sul Brenta, Provinz Padua; † 13. September 1506 in Mantua) war ein italienischer Maler und Kupferstecher. Seine Malerei ist von der Auseinandersetzung mit Werken der Bildhauerei, insbesondere des toskanischen Bildhauers Donatello, beeinflusst.</abstract>
+<wikilink>http://en.wikipedia.org/wiki/Andrea_Mantegna?oldid=602502723</wikilink>
 <artworks>
 <XML_Serializer_Tag>
-<painting>
+<artwork>
 <type>uri</type>
 <value>http://dbpedia.org/resource/San_Zeno_Altarpiece_(Mantegna)</value>
-</painting>
+</artwork>
 <thumbnail>
 <type>uri</type>
 <value>http://commons.wikimedia.org/wiki/Special:FilePath/MantegnaSanZeno.jpg?width=300</value>
@@ -45,12 +48,17 @@
 <type>uri</type>
 <value>http://en.wikipedia.org/wiki/San_Zeno_Altarpiece_(Mantegna)?oldid=590852758</value>
 </wikilink>
+<type>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>Panel</value>
+</type>
 </XML_Serializer_Tag>
 <XML_Serializer_Tag>
-<painting>
+<artwork>
 <type>uri</type>
 <value>http://dbpedia.org/resource/Portrait_of_a_Man_(Mantegna)</value>
-</painting>
+</artwork>
 <thumbnail>
 <type>uri</type>
 <value>http://commons.wikimedia.org/wiki/Special:FilePath/Mantegna_ritratto_d&apos;uomo_washington.jpg?width=300</value>
@@ -69,12 +77,17 @@
 <type>uri</type>
 <value>http://en.wikipedia.org/wiki/Portrait_of_a_Man_(Mantegna)?oldid=590287652</value>
 </wikilink>
+<type>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>Tempera on panel</value>
+</type>
 </XML_Serializer_Tag>
 <XML_Serializer_Tag>
-<painting>
+<artwork>
 <type>uri</type>
 <value>http://dbpedia.org/resource/San_Luca_Altarpiece</value>
-</painting>
+</artwork>
 <thumbnail>
 <type>uri</type>
 <value>http://commons.wikimedia.org/wiki/Special:FilePath/St._Lucas_altarpiece.jpg?width=300</value>
@@ -93,12 +106,17 @@
 <type>uri</type>
 <value>http://en.wikipedia.org/wiki/San_Luca_Altarpiece?oldid=590569846</value>
 </wikilink>
+<type>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>Panel</value>
+</type>
 </XML_Serializer_Tag>
 <XML_Serializer_Tag>
-<painting>
+<artwork>
 <type>uri</type>
 <value>http://dbpedia.org/resource/Judith_and_Holofernes_(Mantegna)</value>
-</painting>
+</artwork>
 <thumbnail>
 <type>uri</type>
 <value>http://commons.wikimedia.org/wiki/Special:FilePath/Andrea_Mantegna_099.jpg?width=300</value>
@@ -117,12 +135,17 @@
 <type>uri</type>
 <value>http://en.wikipedia.org/wiki/Judith_and_Holofernes_(Mantegna)?oldid=586389093</value>
 </wikilink>
+<type>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>Tempera with gold and silver on panel</value>
+</type>
 </XML_Serializer_Tag>
 <XML_Serializer_Tag>
-<painting>
+<artwork>
 <type>uri</type>
 <value>http://dbpedia.org/resource/Parnassus_(Mantegna)</value>
-</painting>
+</artwork>
 <thumbnail>
 <type>uri</type>
 <value>http://commons.wikimedia.org/wiki/Special:FilePath/La_Parnasse,_by_Andrea_Mantegna,_from_C2RMF_retouched.jpg?width=300</value>
@@ -141,12 +164,17 @@
 <type>uri</type>
 <value>http://en.wikipedia.org/wiki/Parnassus_(Mantegna)?oldid=595501431</value>
 </wikilink>
+<type>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>Tempera and gold on canvas</value>
+</type>
 </XML_Serializer_Tag>
 <XML_Serializer_Tag>
-<painting>
+<artwork>
 <type>uri</type>
 <value>http://dbpedia.org/resource/Crucifixion_(Mantegna)</value>
-</painting>
+</artwork>
 <thumbnail>
 <type>uri</type>
 <value>http://commons.wikimedia.org/wiki/Special:FilePath/Andrea_Mantegna_029.jpg?width=300</value>
@@ -165,12 +193,17 @@
 <type>uri</type>
 <value>http://en.wikipedia.org/wiki/Crucifixion_(Mantegna)?oldid=598110100</value>
 </wikilink>
+<type>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>Oil on panel</value>
+</type>
 </XML_Serializer_Tag>
 <XML_Serializer_Tag>
-<painting>
+<artwork>
 <type>uri</type>
 <value>http://dbpedia.org/resource/St._Bernardino_of_Siena_between_Two_Angels</value>
-</painting>
+</artwork>
 <thumbnail>
 <type>uri</type>
 <value>http://commons.wikimedia.org/wiki/Special:FilePath/Mantegna,_san_bernardino_tra_angeli.jpg?width=300</value>
@@ -189,12 +222,17 @@
 <type>uri</type>
 <value>http://en.wikipedia.org/wiki/St._Bernardino_of_Siena_between_Two_Angels?oldid=590881970</value>
 </wikilink>
+<type>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>Tempera on canvas</value>
+</type>
 </XML_Serializer_Tag>
 <XML_Serializer_Tag>
-<painting>
+<artwork>
 <type>uri</type>
 <value>http://dbpedia.org/resource/Portrait_of_Francesco_Gonzaga</value>
-</painting>
+</artwork>
 <thumbnail>
 <type>uri</type>
 <value>http://commons.wikimedia.org/wiki/Special:FilePath/Andrea_Mantegna_111.jpg?width=300</value>
@@ -213,12 +251,17 @@
 <type>uri</type>
 <value>http://en.wikipedia.org/wiki/Portrait_of_Francesco_Gonzaga?oldid=590318330</value>
 </wikilink>
+<type>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>Tempera on panel</value>
+</type>
 </XML_Serializer_Tag>
 <XML_Serializer_Tag>
-<painting>
+<artwork>
 <type>uri</type>
 <value>http://dbpedia.org/resource/Portrait_of_Carlo_de&apos;_Medici</value>
-</painting>
+</artwork>
 <thumbnail>
 <type>uri</type>
 <value>http://commons.wikimedia.org/wiki/Special:FilePath/Andrea_Mantegna_110.jpg?width=300</value>
@@ -237,12 +280,16 @@
 <type>uri</type>
 <value>http://en.wikipedia.org/wiki/Portrait_of_Carlo_de&apos;_Medici?oldid=590314002</value>
 </wikilink>
+<type>
+<type>uri</type>
+<value>http://dbpedia.org/resource/Tempera</value>
+</type>
 </XML_Serializer_Tag>
 <XML_Serializer_Tag>
-<painting>
+<artwork>
 <type>uri</type>
 <value>http://dbpedia.org/resource/Presentation_at_the_Temple_(Mantegna)</value>
-</painting>
+</artwork>
 <thumbnail>
 <type>uri</type>
 <value>http://commons.wikimedia.org/wiki/Special:FilePath/MantegnaPresentazione.jpg?width=300</value>
@@ -261,12 +308,17 @@
 <type>uri</type>
 <value>http://en.wikipedia.org/wiki/Presentation_at_the_Temple_(Mantegna)?oldid=603905050</value>
 </wikilink>
+<type>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>Tempera on canvas</value>
+</type>
 </XML_Serializer_Tag>
 <XML_Serializer_Tag>
-<painting>
+<artwork>
 <type>uri</type>
 <value>http://dbpedia.org/resource/Triumph_of_the_Virtues_(Mantegna)</value>
-</painting>
+</artwork>
 <thumbnail>
 <type>uri</type>
 <value>http://commons.wikimedia.org/wiki/Special:FilePath/Mantegna-minerva-garden-virtue.jpg?width=300</value>
@@ -285,12 +337,17 @@
 <type>uri</type>
 <value>http://en.wikipedia.org/wiki/Triumph_of_the_Virtues_(Mantegna)?oldid=590178258</value>
 </wikilink>
+<type>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>Tempera on canvas</value>
+</type>
 </XML_Serializer_Tag>
 <XML_Serializer_Tag>
-<painting>
+<artwork>
 <type>uri</type>
 <value>http://dbpedia.org/resource/The_Madonna_of_the_Cherubim</value>
-</painting>
+</artwork>
 <thumbnail>
 <type>uri</type>
 <value>http://en.wikipedia.org/wiki/Special:FilePath/Madonna_Cherubin_Mantegna.jpg?width=300</value>
@@ -309,12 +366,17 @@
 <type>uri</type>
 <value>http://en.wikipedia.org/wiki/The_Madonna_of_the_Cherubim?oldid=587324952</value>
 </wikilink>
+<type>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>Wood</value>
+</type>
 </XML_Serializer_Tag>
 <XML_Serializer_Tag>
-<painting>
+<artwork>
 <type>uri</type>
 <value>http://dbpedia.org/resource/Portrait_of_Cardinal_Ludovico_Trevisan</value>
-</painting>
+</artwork>
 <thumbnail>
 <type>uri</type>
 <value>http://commons.wikimedia.org/wiki/Special:FilePath/Ludovico_trevisano_portrait_by_andrea_mantegna.jpg?width=300</value>
@@ -333,12 +395,17 @@
 <type>uri</type>
 <value>http://en.wikipedia.org/wiki/Portrait_of_Cardinal_Ludovico_Trevisan?oldid=603642461</value>
 </wikilink>
+<type>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>Tempera on panel</value>
+</type>
 </XML_Serializer_Tag>
 <XML_Serializer_Tag>
-<painting>
+<artwork>
 <type>uri</type>
 <value>http://dbpedia.org/resource/Christ_as_the_Suffering_Redeemer_(Mantegna)</value>
-</painting>
+</artwork>
 <thumbnail>
 <type>uri</type>
 <value>http://commons.wikimedia.org/wiki/Special:FilePath/Kristus_som_den_lidende_frelser.jpg?width=300</value>
@@ -357,12 +424,17 @@
 <type>uri</type>
 <value>http://en.wikipedia.org/wiki/Christ_as_the_Suffering_Redeemer_(Mantegna)?oldid=589479529</value>
 </wikilink>
+<type>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>Tempera on panel</value>
+</type>
 </XML_Serializer_Tag>
 <XML_Serializer_Tag>
-<painting>
+<artwork>
 <type>uri</type>
 <value>http://dbpedia.org/resource/Madonna_della_Vittoria</value>
-</painting>
+</artwork>
 <thumbnail>
 <type>uri</type>
 <value>http://commons.wikimedia.org/wiki/Special:FilePath/Mantegna,_madonna_della_vittoria.jpg?width=300</value>
@@ -381,12 +453,17 @@
 <type>uri</type>
 <value>http://en.wikipedia.org/wiki/Madonna_della_Vittoria?oldid=600439805</value>
 </wikilink>
+<type>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>Tempera on canvas</value>
+</type>
 </XML_Serializer_Tag>
 <XML_Serializer_Tag>
-<painting>
+<artwork>
 <type>uri</type>
 <value>http://dbpedia.org/resource/Death_of_the_Virgin_(Mantegna)</value>
-</painting>
+</artwork>
 <thumbnail>
 <type>uri</type>
 <value>http://en.wikipedia.org/wiki/Special:FilePath/Mantegna_Holy_Virgin.jpg?width=300</value>
@@ -405,12 +482,17 @@
 <type>uri</type>
 <value>http://en.wikipedia.org/wiki/Death_of_the_Virgin_(Mantegna)?oldid=587102486</value>
 </wikilink>
+<type>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>Tempera and gold on panel</value>
+</type>
 </XML_Serializer_Tag>
 <XML_Serializer_Tag>
-<painting>
+<artwork>
 <type>uri</type>
 <value>http://dbpedia.org/resource/Trivulzio_Madonna</value>
-</painting>
+</artwork>
 <thumbnail>
 <type>uri</type>
 <value>http://commons.wikimedia.org/wiki/Special:FilePath/Andrea_Mantegna_106.jpg?width=300</value>
@@ -429,12 +511,17 @@
 <type>uri</type>
 <value>http://en.wikipedia.org/wiki/Trivulzio_Madonna?oldid=590178257</value>
 </wikilink>
+<type>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>Tempera on canvas</value>
+</type>
 </XML_Serializer_Tag>
 <XML_Serializer_Tag>
-<painting>
+<artwork>
 <type>uri</type>
 <value>http://dbpedia.org/resource/Lamentation_of_Christ_(Mantegna)</value>
-</painting>
+</artwork>
 <thumbnail>
 <type>uri</type>
 <value>http://commons.wikimedia.org/wiki/Special:FilePath/Mantegna_Andrea_Dead_Christ.jpg?width=300</value>
@@ -453,12 +540,17 @@
 <type>uri</type>
 <value>http://en.wikipedia.org/wiki/Lamentation_of_Christ_(Mantegna)?oldid=589170968</value>
 </wikilink>
+<type>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>Tempera on canvas</value>
+</type>
 </XML_Serializer_Tag>
 <XML_Serializer_Tag>
-<painting>
+<artwork>
 <type>uri</type>
 <value>http://dbpedia.org/resource/Adoration_of_the_Shepherds_(Mantegna)</value>
-</painting>
+</artwork>
 <thumbnail>
 <type>uri</type>
 <value>http://en.wikipedia.org/wiki/Special:FilePath/Andrea_Mantegna_The_Adoration_of_the_Shepherds.jpg?width=300</value>
@@ -477,12 +569,17 @@
 <type>uri</type>
 <value>http://en.wikipedia.org/wiki/Adoration_of_the_Shepherds_(Mantegna)?oldid=600594861</value>
 </wikilink>
+<type>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>Tempera on canvas</value>
+</type>
 </XML_Serializer_Tag>
 <XML_Serializer_Tag>
-<painting>
+<artwork>
 <type>uri</type>
 <value>http://dbpedia.org/resource/Adoration_of_the_Magi_(Mantegna)</value>
-</painting>
+</artwork>
 <thumbnail>
 <type>uri</type>
 <value>http://commons.wikimedia.org/wiki/Special:FilePath/Andrea_Mantegna_001.jpg?width=300</value>
@@ -501,12 +598,17 @@
 <type>uri</type>
 <value>http://en.wikipedia.org/wiki/Adoration_of_the_Magi_(Mantegna)?oldid=586515991</value>
 </wikilink>
+<type>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>Tempera on panel</value>
+</type>
 </XML_Serializer_Tag>
 <XML_Serializer_Tag>
-<painting>
+<artwork>
 <type>uri</type>
 <value>http://dbpedia.org/resource/St._James_Led_to_His_Execution</value>
-</painting>
+</artwork>
 <thumbnail>
 <type>uri</type>
 <value>http://commons.wikimedia.org/wiki/Special:FilePath/St._James_led_to_his_execution.jpg?width=300</value>
@@ -527,7 +629,6 @@
 </wikilink>
 </XML_Serializer_Tag>
 </artworks>
-<dbpResource>http://dbpedia.org/resource/Andrea_Mantegna</dbpResource>
-<abstract>Andrea Mantegna (* 1431 auf der Isola Mantegna, früher Isola di Carturo, bei Piazzola sul Brenta, Provinz Padua; † 13. September 1506 in Mantua) war ein italienischer Maler und Kupferstecher. Seine Malerei ist von der Auseinandersetzung mit Werken der Bildhauerei, insbesondere des toskanischen Bildhauers Donatello, beeinflusst.</abstract>
-<wikilink>http://en.wikipedia.org/wiki/Andrea_Mantegna?oldid=602502723</wikilink>
+<buildings />
+<books />
 </Person>

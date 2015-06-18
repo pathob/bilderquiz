@@ -18,8 +18,10 @@
 <XML_Serializer_Tag>Künstler</XML_Serializer_Tag>
 <XML_Serializer_Tag>Maler</XML_Serializer_Tag>
 </professionOrOccupation>
-<artworks />
 <dbpResource>http://dbpedia.org/resource/Leopold_Kupelwieser</dbpResource>
 <abstract>Leopold Kupelwieser (* 17. Oktober 1796 in Markt Piesting; † 17. November 1862 in Wien) war ein österreichischer Maler.</abstract>
 <wikilink>http://en.wikipedia.org/wiki/Leopold_Kupelwieser?oldid=567010449</wikilink>
+<artworks />
+<buildings />
+<books />
 </Person>

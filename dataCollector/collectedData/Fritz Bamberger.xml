@@ -18,8 +18,10 @@
 <XML_Serializer_Tag>Künstler</XML_Serializer_Tag>
 <XML_Serializer_Tag>Maler</XML_Serializer_Tag>
 </professionOrOccupation>
-<artworks />
 <dbpResource>http://dbpedia.org/resource/Fritz_Bamberger_(painter)</dbpResource>
 <abstract>Fritz (Friedrich) Bamberger (* 17. Oktober 1814 in Würzburg; † 13. August 1873 in Neuenhain (Taunus)) war ein deutscher Maler. Er wurde vor allem als Landschaftsmaler bekannt.</abstract>
 <wikilink>http://en.wikipedia.org/wiki/Fritz_Bamberger_(painter)?oldid=606800409</wikilink>
+<artworks />
+<buildings />
+<books />
 </Person>

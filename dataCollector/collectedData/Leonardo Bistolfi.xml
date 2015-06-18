@@ -18,8 +18,10 @@
 <XML_Serializer_Tag>Maler</XML_Serializer_Tag>
 <XML_Serializer_Tag>Medailleur</XML_Serializer_Tag>
 </professionOrOccupation>
-<artworks />
 <dbpResource>http://dbpedia.org/resource/Leonardo_Bistolfi</dbpResource>
 <abstract>Leonardo Bistolfi (* 14. März 1859 in Casale Monferrato; † 2. September 1933 in La Loggia), war ein italienischer Bildhauer, Maler, Schriftsteller und Politiker. Er war ein bedeutender Vertreter des italienischen Symbolismus.Er war eine Sohn des Holzschnitzers Giovanni Bistolfi und Angela Amisano. Im Jahr 1876 schrieb er sich in der Accademia di Belle Arti di Brera in Mailand ein. Ab 1880 studierte er in der Accademia Albertina in Turin.</abstract>
 <wikilink>http://en.wikipedia.org/wiki/Leonardo_Bistolfi?oldid=577087267</wikilink>
+<artworks />
+<buildings />
+<books />
 </Person>

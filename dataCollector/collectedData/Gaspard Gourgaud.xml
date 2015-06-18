@@ -1,0 +1,31 @@
+<Person>
+<name>Gaspard Gourgaud</name>
+<variantName>
+<XML_Serializer_Tag>... G***</XML_Serializer_Tag>
+<XML_Serializer_Tag>Gaspar Gourgaud</XML_Serializer_Tag>
+<XML_Serializer_Tag>Gaspard de Gourgaud</XML_Serializer_Tag>
+<XML_Serializer_Tag>G. de Gourgaud</XML_Serializer_Tag>
+<XML_Serializer_Tag>... Gourgaud</XML_Serializer_Tag>
+</variantName>
+<thumbnail>https://de.wikipedia.org/wiki/Special:FilePath/WP_Gaspard_Gourgaud.jpg?width=270</thumbnail>
+<birthEN>September 14, 1783</birthEN>
+<birthDE>14. September 1783</birthDE>
+<deathEN>July 25, 1852</deathEN>
+<deathDE>25. Juli 1852</deathDE>
+<birthPlace>
+<XML_Serializer_Tag>Versailles</XML_Serializer_Tag>
+</birthPlace>
+<deathPlace>
+<XML_Serializer_Tag>Paris</XML_Serializer_Tag>
+</deathPlace>
+<professionOrOccupation>
+<XML_Serializer_Tag>General</XML_Serializer_Tag>
+<XML_Serializer_Tag>Schriftsteller</XML_Serializer_Tag>
+</professionOrOccupation>
+<dbpResource>http://dbpedia.org/resource/Gaspard_Gourgaud</dbpResource>
+<abstract>Baron Gaspard Gourgaud (* 14. September 1783 in Versailles; † 25. Juli 1852 in Paris) war ein französischer General.</abstract>
+<wikilink>http://en.wikipedia.org/wiki/Gaspard_Gourgaud?oldid=606040810</wikilink>
+<artworks />
+<buildings />
+<books />
+</Person>

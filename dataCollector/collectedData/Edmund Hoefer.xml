@@ -1,0 +1,27 @@
+<Person>
+<name>Edmund Hoefer</name>
+<variantName>
+<XML_Serializer_Tag>Edmund Franz Andreas Hoefer</XML_Serializer_Tag>
+<XML_Serializer_Tag>Edmund Höfer</XML_Serializer_Tag>
+</variantName>
+<thumbnail>https://commons.wikimedia.org/wiki/Special:FilePath/EdmundHoefer.jpg?width=270</thumbnail>
+<birthEN>October 15, 1819</birthEN>
+<birthDE>15. Oktober 1819</birthDE>
+<deathEN>May 23, 1882</deathEN>
+<deathDE>23. Mai 1882</deathDE>
+<birthPlace>
+<XML_Serializer_Tag>Greifswald</XML_Serializer_Tag>
+</birthPlace>
+<deathPlace>
+<XML_Serializer_Tag>Cannstatt</XML_Serializer_Tag>
+</deathPlace>
+<professionOrOccupation>
+<XML_Serializer_Tag>Schriftsteller</XML_Serializer_Tag>
+</professionOrOccupation>
+<dbpResource>http://dbpedia.org/resource/Edmund_Hoefer</dbpResource>
+<abstract>Edmund Franz Andreas Hoefer (* 15. Oktober 1819 in Greifswald; † 22. Mai 1882 in Cannstatt) war ein deutscher Novellist und Literaturkritiker.</abstract>
+<wikilink>http://en.wikipedia.org/wiki/Edmund_Hoefer?oldid=606446322</wikilink>
+<artworks />
+<buildings />
+<books />
+</Person>

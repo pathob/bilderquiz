@@ -1,0 +1,165 @@
+<Person>
+<name>Nadine Gordimer</name>
+<variantName>
+<XML_Serializer_Tag>Nadin Gordimer</XML_Serializer_Tag>
+<XML_Serializer_Tag>Nadine Gordimer Cassirer</XML_Serializer_Tag>
+<XML_Serializer_Tag>Nadin Godimŏ</XML_Serializer_Tag>
+<XML_Serializer_Tag>Nantin Gkorntimer</XML_Serializer_Tag>
+</variantName>
+<thumbnail>https://commons.wikimedia.org/wiki/Special:FilePath/Nadine_Gordimer_2010.JPG?width=270</thumbnail>
+<birthEN>November 20, 1923</birthEN>
+<birthDE>20. November 1923</birthDE>
+<deathEN>July 13, 2014</deathEN>
+<deathDE>13. Juli 2014</deathDE>
+<birthPlace>
+<XML_Serializer_Tag>Springs, Südafrika</XML_Serializer_Tag>
+</birthPlace>
+<deathPlace />
+<professionOrOccupation>
+<XML_Serializer_Tag>Schriftstellerin</XML_Serializer_Tag>
+</professionOrOccupation>
+<dbpResource>http://dbpedia.org/resource/Nadine_Gordimer</dbpResource>
+<abstract>Nadine Gordimer (* 20. November 1923 in Springs, Transvaal, heute Gauteng) ist eine der bekanntesten südafrikanischen Schriftstellerinnen. Ihre Romane, Erzählungen und Essays behandeln vor allem die südafrikanische Apartheidpolitik und deren zerstörerische Folgen sowohl für die schwarze als auch für die weiße Bevölkerung. 1974 bekam Nadine Gordimer den Booker Prize, 1991 wurde sie mit dem Nobelpreis für Literatur ausgezeichnet.</abstract>
+<wikilink>http://en.wikipedia.org/wiki/Nadine_Gordimer?oldid=600895006</wikilink>
+<artworks />
+<buildings />
+<books>
+<XML_Serializer_Tag>
+<book>
+<type>uri</type>
+<value>http://dbpedia.org/resource/Burger&apos;s_Daughter</value>
+</book>
+<author>
+<type>uri</type>
+<value>http://dbpedia.org/resource/Nadine_Gordimer</value>
+</author>
+<thumbnail>
+<type>uri</type>
+<value>http://commons.wikimedia.org/wiki/Special:FilePath/Nadine_Gordimer_01.JPG?width=300</value>
+</thumbnail>
+<published>
+<type>typed-literal</type>
+<datatype>http://www.w3.org/2001/XMLSchema#integer</datatype>
+<value>1979</value>
+</published>
+<wikilink>
+<type>uri</type>
+<value>http://en.wikipedia.org/wiki/Burger&apos;s_Daughter?oldid=604403743</value>
+</wikilink>
+</XML_Serializer_Tag>
+<XML_Serializer_Tag>
+<book>
+<type>uri</type>
+<value>http://dbpedia.org/resource/Loot_and_Other_Stories</value>
+</book>
+<author>
+<type>uri</type>
+<value>http://dbpedia.org/resource/Nadine_Gordimer</value>
+</author>
+<released>
+<type>typed-literal</type>
+<datatype>http://www.w3.org/2001/XMLSchema#integer</datatype>
+<value>2003</value>
+</released>
+<wikilink>
+<type>uri</type>
+<value>http://en.wikipedia.org/wiki/Loot_and_Other_Stories?oldid=594189373</value>
+</wikilink>
+</XML_Serializer_Tag>
+<XML_Serializer_Tag>
+<book>
+<type>uri</type>
+<value>http://dbpedia.org/resource/The_Conservationist</value>
+</book>
+<author>
+<type>uri</type>
+<value>http://dbpedia.org/resource/Nadine_Gordimer</value>
+</author>
+<released>
+<type>typed-literal</type>
+<datatype>http://www.w3.org/2001/XMLSchema#integer</datatype>
+<value>1974</value>
+</released>
+<wikilink>
+<type>uri</type>
+<value>http://en.wikipedia.org/wiki/The_Conservationist?oldid=596134823</value>
+</wikilink>
+</XML_Serializer_Tag>
+<XML_Serializer_Tag>
+<book>
+<type>uri</type>
+<value>http://dbpedia.org/resource/The_Pickup</value>
+</book>
+<author>
+<type>uri</type>
+<value>http://dbpedia.org/resource/Nadine_Gordimer</value>
+</author>
+<released>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>Sep 2001</value>
+</released>
+<wikilink>
+<type>uri</type>
+<value>http://en.wikipedia.org/wiki/The_Pickup?oldid=597053734</value>
+</wikilink>
+</XML_Serializer_Tag>
+<XML_Serializer_Tag>
+<book>
+<type>uri</type>
+<value>http://dbpedia.org/resource/A_Sport_of_Nature</value>
+</book>
+<author>
+<type>uri</type>
+<value>http://dbpedia.org/resource/Nadine_Gordimer</value>
+</author>
+<released>
+<type>typed-literal</type>
+<datatype>http://www.w3.org/2001/XMLSchema#integer</datatype>
+<value>1987</value>
+</released>
+<wikilink>
+<type>uri</type>
+<value>http://en.wikipedia.org/wiki/A_Sport_of_Nature?oldid=601060273</value>
+</wikilink>
+</XML_Serializer_Tag>
+<XML_Serializer_Tag>
+<book>
+<type>uri</type>
+<value>http://dbpedia.org/resource/July&apos;s_People</value>
+</book>
+<author>
+<type>uri</type>
+<value>http://dbpedia.org/resource/Nadine_Gordimer</value>
+</author>
+<released>
+<type>typed-literal</type>
+<datatype>http://www.w3.org/2001/XMLSchema#integer</datatype>
+<value>1982</value>
+</released>
+<wikilink>
+<type>uri</type>
+<value>http://en.wikipedia.org/wiki/July&apos;s_People?oldid=598768699</value>
+</wikilink>
+</XML_Serializer_Tag>
+<XML_Serializer_Tag>
+<book>
+<type>uri</type>
+<value>http://dbpedia.org/resource/What_Happened_to_Burger&apos;s_Daughter_or_How_South_African_Censorship_Works</value>
+</book>
+<author>
+<type>uri</type>
+<value>http://dbpedia.org/resource/Nadine_Gordimer</value>
+</author>
+<published>
+<type>typed-literal</type>
+<datatype>http://www.w3.org/2001/XMLSchema#integer</datatype>
+<value>1988</value>
+</published>
+<wikilink>
+<type>uri</type>
+<value>http://en.wikipedia.org/wiki/What_Happened_to_Burger&apos;s_Daughter_or_How_South_African_Censorship_Works?oldid=600114163</value>
+</wikilink>
+</XML_Serializer_Tag>
+</books>
+</Person>

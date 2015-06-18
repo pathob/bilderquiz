@@ -26,8 +26,10 @@
 <XML_Serializer_Tag>Radierer</XML_Serializer_Tag>
 <XML_Serializer_Tag>Aquarellmaler</XML_Serializer_Tag>
 </professionOrOccupation>
-<artworks />
 <dbpResource>http://dbpedia.org/resource/Pieter_Jansz._Saenredam</dbpResource>
 <abstract>Pieter Jansz. Saenredam (* 9. Juni 1597 in Assendelft; † 31. Mai 1665 in Haarlem) war ein niederländischer Maler. Sein künstlerischer Schwerpunkt lag auf der Architekturmalerei.</abstract>
 <wikilink>http://en.wikipedia.org/wiki/Pieter_Jansz._Saenredam?oldid=601915726</wikilink>
+<artworks />
+<buildings />
+<books />
 </Person>

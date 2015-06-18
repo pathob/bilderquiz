@@ -28,8 +28,10 @@
 <XML_Serializer_Tag>Zeichner</XML_Serializer_Tag>
 <XML_Serializer_Tag>Bildnismaler</XML_Serializer_Tag>
 </professionOrOccupation>
-<artworks />
 <dbpResource>http://dbpedia.org/resource/Joseph_Heintz_the_Elder</dbpResource>
 <abstract>Joseph Heintz (getauft am 11. Juni 1564 in Basel; † 15. Oktober 1609 in Prag) war ein Schweizer Maler und Architekt.</abstract>
 <wikilink>http://en.wikipedia.org/wiki/Joseph_Heintz_the_Elder?oldid=541048956</wikilink>
+<artworks />
+<buildings />
+<books />
 </Person>

@@ -14,8 +14,10 @@
 <XML_Serializer_Tag>Bildhauer</XML_Serializer_Tag>
 <XML_Serializer_Tag>Kunsthistoriker</XML_Serializer_Tag>
 </professionOrOccupation>
-<artworks />
 <dbpResource>http://dbpedia.org/resource/Yves_Klein</dbpResource>
 <abstract>Yves Klein (* 28. April 1928 in Nizza; † 6. Juni 1962 in Paris) war ein französischer Maler, Bildhauer und Performancekünstler. Er war Mitbegründer und führender Vertreter der Nouveau Réalisme genannten Kunstströmung in Frankreich.</abstract>
 <wikilink>http://en.wikipedia.org/wiki/Yves_Klein?oldid=606046961</wikilink>
+<artworks />
+<buildings />
+<books />
 </Person>

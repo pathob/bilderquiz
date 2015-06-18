@@ -16,8 +16,10 @@
 <professionOrOccupation>
 <XML_Serializer_Tag>Maler</XML_Serializer_Tag>
 </professionOrOccupation>
-<artworks />
 <dbpResource>http://dbpedia.org/resource/Osias_Beert</dbpResource>
 <abstract>Osias Beert der Ältere (* um 1580 vermutlich in Antwerpen; † Ende 1623 in Antwerpen) war ein niederländischer Stilllebenmaler.</abstract>
 <wikilink>http://en.wikipedia.org/wiki/Osias_Beert?oldid=576073420</wikilink>
+<artworks />
+<buildings />
+<books />
 </Person>

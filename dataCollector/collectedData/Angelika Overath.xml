@@ -1,0 +1,24 @@
+<Person>
+<name>Angelika Overath</name>
+<variantName />
+<thumbnail>https://commons.wikimedia.org/wiki/Special:FilePath/Angelika_Overath_tor.jpg?width=270</thumbnail>
+<birthEN>1957</birthEN>
+<birthDE>1957</birthDE>
+<deathEN />
+<deathDE />
+<birthPlace>
+<XML_Serializer_Tag>Karlsruhe</XML_Serializer_Tag>
+</birthPlace>
+<deathPlace />
+<professionOrOccupation>
+<XML_Serializer_Tag>Schriftstellerin</XML_Serializer_Tag>
+<XML_Serializer_Tag>Journalistin</XML_Serializer_Tag>
+<XML_Serializer_Tag>Literaturkritikerin</XML_Serializer_Tag>
+</professionOrOccupation>
+<dbpResource>http://dbpedia.org/resource/Angelika_Overath</dbpResource>
+<abstract>Angelika Overath (* 17. Juli 1957 in Karlsruhe) ist eine deutsche Schriftstellerin und Journalistin.</abstract>
+<wikilink>http://en.wikipedia.org/wiki/Angelika_Overath?oldid=590265643</wikilink>
+<artworks />
+<buildings />
+<books />
+</Person>

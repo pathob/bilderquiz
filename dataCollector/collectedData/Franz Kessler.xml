@@ -25,8 +25,10 @@
 <XML_Serializer_Tag>Maler</XML_Serializer_Tag>
 <XML_Serializer_Tag>Erfinder</XML_Serializer_Tag>
 </professionOrOccupation>
-<artworks />
 <dbpResource>http://dbpedia.org/resource/Franz_Kessler</dbpResource>
 <abstract>Franz Kessler (* um 1580 in Wetzlar; † um 1650 in Danzig) war ein Maler, Gelehrter, Erfinder and Alchemist im Heiligen Römischen Reich.Er schrieb ein Buch Unterschiedliche bisshero mehrern Theils Secreta oder Verborgene geheim Künsteüber das Erstellen von Codes für verschlüsselte Nachrichten, das in Oppenheim im September 1616 publiziert wurde.Im selben Jahr publizierte er eine Konstruktionsskizze für eine Taucherglocke für einen Mann. Berechnungen ergeben jedoch, dass sie nicht funktionsfähig war.Die Idee einer beweglichen Einmann-Taucherglocke mit versetzbaren Ankergewichten wurde 1860 von dem Wiener Maler Eugen von Ransonnet-Villez aufgegriffen.Das Werk Holzsparkunst von 1618 beschäftigt sich mit der Verbesserung der Heizleistung von Kachelöfen und wurde im Folgejahr auch in Frankreich veröffentlicht.</abstract>
 <wikilink>http://en.wikipedia.org/wiki/Franz_Kessler?oldid=597541965</wikilink>
+<artworks />
+<buildings />
+<books />
 </Person>

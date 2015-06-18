@@ -1,0 +1,51 @@
+<Person>
+<name>Samuel Smiles</name>
+<variantName>
+<XML_Serializer_Tag>Semuela Smailsa</XML_Serializer_Tag>
+<XML_Serializer_Tag>Samuēl Smayls</XML_Serializer_Tag>
+<XML_Serializer_Tag>Samuel Smailsas</XML_Serializer_Tag>
+</variantName>
+<thumbnail>https://commons.wikimedia.org/wiki/Special:FilePath/Smiles_Samuel_black_white.jpg?width=270</thumbnail>
+<birthEN>December 23, 1812</birthEN>
+<birthDE>23. Dezember 1812</birthDE>
+<deathEN>April 16, 1904</deathEN>
+<deathDE>16. April 1904</deathDE>
+<birthPlace>
+<XML_Serializer_Tag>Haddington, Schottland</XML_Serializer_Tag>
+</birthPlace>
+<deathPlace />
+<professionOrOccupation>
+<XML_Serializer_Tag>Schriftsteller</XML_Serializer_Tag>
+<XML_Serializer_Tag>Arzt</XML_Serializer_Tag>
+</professionOrOccupation>
+<dbpResource>http://dbpedia.org/resource/Samuel_Smiles</dbpResource>
+<abstract>Samuel Smiles (sprich: smeils) (* 23. Dezember 1812 in Haddington, Schottland; † 16. April 1904) war ein schottischer Moralschriftsteller.</abstract>
+<wikilink>http://en.wikipedia.org/wiki/Samuel_Smiles?oldid=606363379</wikilink>
+<artworks />
+<buildings />
+<books>
+<XML_Serializer_Tag>
+<book>
+<type>uri</type>
+<value>http://dbpedia.org/resource/Self-Help_(book)</value>
+</book>
+<author>
+<type>uri</type>
+<value>http://dbpedia.org/resource/Samuel_Smiles</value>
+</author>
+<thumbnail>
+<type>uri</type>
+<value>http://commons.wikimedia.org/wiki/Special:FilePath/Samuel_Smiles_by_Sir_George_Reid.jpg?width=300</value>
+</thumbnail>
+<released>
+<type>typed-literal</type>
+<datatype>http://www.w3.org/2001/XMLSchema#integer</datatype>
+<value>1859</value>
+</released>
+<wikilink>
+<type>uri</type>
+<value>http://en.wikipedia.org/wiki/Self-Help_(book)?oldid=587625652</value>
+</wikilink>
+</XML_Serializer_Tag>
+</books>
+</Person>

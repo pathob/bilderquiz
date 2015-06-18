@@ -20,12 +20,15 @@
 <XML_Serializer_Tag>Lyriker</XML_Serializer_Tag>
 <XML_Serializer_Tag>Apotheker</XML_Serializer_Tag>
 </professionOrOccupation>
+<dbpResource>http://dbpedia.org/resource/Carl_Spitzweg</dbpResource>
+<abstract>Franz Carl Spitzweg (auch: Karl Spitzweg; * 5. Februar 1808 in Unterpfaffenhofen; † 23. September 1885 in München) war ein deutscher Maler. Im Kulturbetrieb des 19. Jahrhunderts nahm er eine Außenseiterposition ein.</abstract>
+<wikilink>http://en.wikipedia.org/wiki/Carl_Spitzweg?oldid=598943093</wikilink>
 <artworks>
 <XML_Serializer_Tag>
-<painting>
+<artwork>
 <type>uri</type>
 <value>http://dbpedia.org/resource/The_Bookworm</value>
-</painting>
+</artwork>
 <thumbnail>
 <type>uri</type>
 <value>http://en.wikipedia.org/wiki/Special:FilePath/Carl_Spitzweg_021.jpg?width=300</value>
@@ -49,9 +52,13 @@
 <type>uri</type>
 <value>http://en.wikipedia.org/wiki/The_Bookworm?oldid=597901833</value>
 </wikilink>
+<type>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>Oil-on-canvas</value>
+</type>
 </XML_Serializer_Tag>
 </artworks>
-<dbpResource>http://dbpedia.org/resource/Carl_Spitzweg</dbpResource>
-<abstract>Franz Carl Spitzweg (auch: Karl Spitzweg; * 5. Februar 1808 in Unterpfaffenhofen; † 23. September 1885 in München) war ein deutscher Maler. Im Kulturbetrieb des 19. Jahrhunderts nahm er eine Außenseiterposition ein.</abstract>
-<wikilink>http://en.wikipedia.org/wiki/Carl_Spitzweg?oldid=598943093</wikilink>
+<buildings />
+<books />
 </Person>

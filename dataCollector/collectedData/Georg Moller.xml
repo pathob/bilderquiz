@@ -1,0 +1,30 @@
+<Person>
+<name>Georg Moller</name>
+<variantName>
+<XML_Serializer_Tag>Johann Georg Moller</XML_Serializer_Tag>
+<XML_Serializer_Tag>George Moller</XML_Serializer_Tag>
+<XML_Serializer_Tag>G. Moller</XML_Serializer_Tag>
+<XML_Serializer_Tag>... Moller</XML_Serializer_Tag>
+</variantName>
+<thumbnail>https://commons.wikimedia.org/wiki/Special:FilePath/Georg_Moller_circular_portrait.jpg?width=270</thumbnail>
+<birthEN>January 21, 1784</birthEN>
+<birthDE>21. Januar 1784</birthDE>
+<deathEN>March 13, 1852</deathEN>
+<deathDE>13. März 1852</deathDE>
+<birthPlace>
+<XML_Serializer_Tag>Diepholz</XML_Serializer_Tag>
+</birthPlace>
+<deathPlace>
+<XML_Serializer_Tag>Darmstadt</XML_Serializer_Tag>
+</deathPlace>
+<professionOrOccupation>
+<XML_Serializer_Tag>Architekt</XML_Serializer_Tag>
+<XML_Serializer_Tag>Baumeister</XML_Serializer_Tag>
+</professionOrOccupation>
+<dbpResource>http://dbpedia.org/resource/Georg_Moller</dbpResource>
+<abstract>Georg Moller (* 21. Januar 1784 in Diepholz; † 13. März 1852 in Darmstadt) war ein in Süddeutschland, insbesondere im früheren Großherzogtum Hessen, tätiger Architekt und Stadtplaner.</abstract>
+<wikilink>http://en.wikipedia.org/wiki/Georg_Moller?oldid=570146907</wikilink>
+<artworks />
+<buildings />
+<books />
+</Person>

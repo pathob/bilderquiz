@@ -1,0 +1,29 @@
+<Person>
+<name>Ralph Giordano</name>
+<variantName>
+<XML_Serializer_Tag>Ralf G&apos;ordano</XML_Serializer_Tag>
+<XML_Serializer_Tag>רלף ג&apos;ורדנו</XML_Serializer_Tag>
+</variantName>
+<thumbnail>https://commons.wikimedia.org/wiki/Special:FilePath/Ralphgiordano.jpg?width=270</thumbnail>
+<birthEN>March 20, 1923</birthEN>
+<birthDE>20. März 1923</birthDE>
+<deathEN>December 10, 2014</deathEN>
+<deathDE>10. Dezember 2014</deathDE>
+<birthPlace>
+<XML_Serializer_Tag>Hamburg</XML_Serializer_Tag>
+</birthPlace>
+<deathPlace>
+<XML_Serializer_Tag>Köln</XML_Serializer_Tag>
+</deathPlace>
+<professionOrOccupation>
+<XML_Serializer_Tag>Publizist</XML_Serializer_Tag>
+<XML_Serializer_Tag>Schriftsteller</XML_Serializer_Tag>
+<XML_Serializer_Tag>Journalist</XML_Serializer_Tag>
+</professionOrOccupation>
+<dbpResource>http://dbpedia.org/resource/Ralph_Giordano_(writer)</dbpResource>
+<abstract>Ralph Giordano (* 20. März 1923 in Hamburg) ist ein deutscher Journalist, Publizist, Schriftsteller und Regisseur.</abstract>
+<wikilink>http://en.wikipedia.org/wiki/Ralph_Giordano_(writer)?oldid=585889414</wikilink>
+<artworks />
+<buildings />
+<books />
+</Person>

@@ -1,0 +1,24 @@
+<Person>
+<name>Ludwig Wilding</name>
+<variantName />
+<thumbnail>https://commons.wikimedia.org/wiki/Special:FilePath/Ludwig_Wilding_2003.JPG?width=270</thumbnail>
+<birthEN>July 15, 1927</birthEN>
+<birthDE>15. Juli 1927</birthDE>
+<deathEN>January 4, 2010</deathEN>
+<deathDE>4. Januar 2010</deathDE>
+<birthPlace>
+<XML_Serializer_Tag>Grünstadt</XML_Serializer_Tag>
+</birthPlace>
+<deathPlace>
+<XML_Serializer_Tag>Buchholz in der Nordheide</XML_Serializer_Tag>
+</deathPlace>
+<professionOrOccupation>
+<XML_Serializer_Tag>Künstler</XML_Serializer_Tag>
+</professionOrOccupation>
+<dbpResource>http://dbpedia.org/resource/Ludwig_Wilding</dbpResource>
+<abstract>Ludwig Wilding (* 19. Mai 1927 in Grünstadt; † 4. Januar 2010 in Buchholz in der Nordheide) war ein deutscher Maler und Objektkünstler. Seine Werke werden den Stilrichtungen kinetische Kunst und Op-Art zugeordnet.</abstract>
+<wikilink>http://en.wikipedia.org/wiki/Ludwig_Wilding?oldid=580318495</wikilink>
+<artworks />
+<buildings />
+<books />
+</Person>

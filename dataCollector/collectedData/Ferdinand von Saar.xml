@@ -1,0 +1,26 @@
+<Person>
+<name>Ferdinand von Saar</name>
+<variantName>
+<XML_Serializer_Tag>Ferdinand Ludwig Adam von Saar</XML_Serializer_Tag>
+</variantName>
+<thumbnail>https://commons.wikimedia.org/wiki/Special:FilePath/Ferdinand_von_saar.jpg?width=270</thumbnail>
+<birthEN>September 30, 1833</birthEN>
+<birthDE>30. September 1833</birthDE>
+<deathEN>July 24, 1906</deathEN>
+<deathDE>24. Juli 1906</deathDE>
+<birthPlace>
+<XML_Serializer_Tag>Wien</XML_Serializer_Tag>
+</birthPlace>
+<deathPlace>
+<XML_Serializer_Tag>Wien</XML_Serializer_Tag>
+</deathPlace>
+<professionOrOccupation>
+<XML_Serializer_Tag>Schriftsteller</XML_Serializer_Tag>
+</professionOrOccupation>
+<dbpResource>http://dbpedia.org/resource/Ferdinand_von_Saar</dbpResource>
+<abstract>Ferdinand Ludwig Adam von Saar (* 30. September 1833 in Wien; † 24. Juli 1906 in Wien-Döbling) war ein österreichischer Schriftsteller, Dramatiker und Lyriker.</abstract>
+<wikilink>http://en.wikipedia.org/wiki/Ferdinand_von_Saar?oldid=541621566</wikilink>
+<artworks />
+<buildings />
+<books />
+</Person>

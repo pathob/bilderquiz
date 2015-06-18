@@ -1,0 +1,30 @@
+<Person>
+<name>Jules Sandeau</name>
+<variantName>
+<XML_Serializer_Tag>Julien Sandeau</XML_Serializer_Tag>
+<XML_Serializer_Tag>Léonard S. Sandeau</XML_Serializer_Tag>
+<XML_Serializer_Tag>... Sandeau</XML_Serializer_Tag>
+<XML_Serializer_Tag>J. Sand</XML_Serializer_Tag>
+<XML_Serializer_Tag>Leonard Sylvain Julien Sandeau</XML_Serializer_Tag>
+</variantName>
+<thumbnail>https://commons.wikimedia.org/wiki/Special:FilePath/Jules_Sandeau_circa_1880.jpg?width=270</thumbnail>
+<birthEN>February 19, 1811</birthEN>
+<birthDE>19. Februar 1811</birthDE>
+<deathEN>April 24, 1883</deathEN>
+<deathDE>24. April 1883</deathDE>
+<birthPlace>
+<XML_Serializer_Tag>Aubusson</XML_Serializer_Tag>
+</birthPlace>
+<deathPlace>
+<XML_Serializer_Tag>Paris</XML_Serializer_Tag>
+</deathPlace>
+<professionOrOccupation>
+<XML_Serializer_Tag>Schriftsteller</XML_Serializer_Tag>
+</professionOrOccupation>
+<dbpResource>http://dbpedia.org/resource/Jules_Sandeau</dbpResource>
+<abstract>Jules Sandeau (* 19. Februar 1811 in Aubusson (Creuse); † 24. April 1883 in Paris) war ein französischer Schriftsteller und Mitglied der Académie française.</abstract>
+<wikilink>http://en.wikipedia.org/wiki/Jules_Sandeau?oldid=556733750</wikilink>
+<artworks />
+<buildings />
+<books />
+</Person>

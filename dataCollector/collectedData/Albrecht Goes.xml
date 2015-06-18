@@ -1,0 +1,27 @@
+<Person>
+<name>Albrecht Goes</name>
+<variantName>
+<XML_Serializer_Tag>A. Goes</XML_Serializer_Tag>
+</variantName>
+<thumbnail>https://commons.wikimedia.org/wiki/Special:FilePath/Goes,_Unruhige_Nacht.jpg?width=270</thumbnail>
+<birthEN>March 22, 1908</birthEN>
+<birthDE>22. März 1908</birthDE>
+<deathEN>February 23, 2000</deathEN>
+<deathDE>23. Februar 2000</deathDE>
+<birthPlace>
+<XML_Serializer_Tag>Langenbeutingen</XML_Serializer_Tag>
+</birthPlace>
+<deathPlace />
+<professionOrOccupation>
+<XML_Serializer_Tag>Schriftsteller</XML_Serializer_Tag>
+<XML_Serializer_Tag>Pfarrer</XML_Serializer_Tag>
+<XML_Serializer_Tag>Theologe</XML_Serializer_Tag>
+<XML_Serializer_Tag>Drehbuchautor</XML_Serializer_Tag>
+</professionOrOccupation>
+<dbpResource>http://dbpedia.org/resource/Albrecht_Goes</dbpResource>
+<abstract>Albrecht Goes (* 22. März 1908 in Langenbeutingen; † 23. Februar 2000 in Stuttgart-Rohr) war ein deutscher Schriftsteller und protestantischer Theologe.</abstract>
+<wikilink>http://en.wikipedia.org/wiki/Albrecht_Goes?oldid=588766534</wikilink>
+<artworks />
+<buildings />
+<books />
+</Person>

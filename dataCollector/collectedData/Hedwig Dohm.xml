@@ -1,0 +1,27 @@
+<Person>
+<name>Hedwig Dohm</name>
+<variantName>
+<XML_Serializer_Tag>Marianne Adelaide Hedwig Dohm</XML_Serializer_Tag>
+<XML_Serializer_Tag>Hedwig Schlee</XML_Serializer_Tag>
+</variantName>
+<thumbnail>https://de.wikipedia.org/wiki/Special:FilePath/Hedwig_Dohm.jpg?width=270</thumbnail>
+<birthEN>September 20, 1831</birthEN>
+<birthDE>20. September 1831</birthDE>
+<deathEN>June 1, 1919</deathEN>
+<deathDE>1. Juni 1919</deathDE>
+<birthPlace>
+<XML_Serializer_Tag>Berlin</XML_Serializer_Tag>
+</birthPlace>
+<deathPlace>
+<XML_Serializer_Tag>Berlin</XML_Serializer_Tag>
+</deathPlace>
+<professionOrOccupation>
+<XML_Serializer_Tag>Schriftstellerin</XML_Serializer_Tag>
+</professionOrOccupation>
+<dbpResource>http://dbpedia.org/resource/Hedwig_Dohm</dbpResource>
+<abstract>Hedwig Dohm (Marianne Adelaide Hedwig Dohm, geborene Schlesinger; * 20. September 1831 in Berlin; † 1. Juni 1919 ebenda) war eine deutsche Schriftstellerin und Frauenrechtlerin. Sie war eine der ersten feministischen Theoretikerinnen, die geschlechtsspezifische Verhaltensweisen auf die kulturelle Prägung zurückführte statt auf biologische Determination.</abstract>
+<wikilink>http://en.wikipedia.org/wiki/Hedwig_Dohm?oldid=553620234</wikilink>
+<artworks />
+<buildings />
+<books />
+</Person>

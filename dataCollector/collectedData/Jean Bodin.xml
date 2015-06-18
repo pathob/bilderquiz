@@ -1,0 +1,40 @@
+<Person>
+<name>Jean Bodin</name>
+<variantName>
+<XML_Serializer_Tag>Iohannes Bodinus</XML_Serializer_Tag>
+<XML_Serializer_Tag>Joannes Bodinus</XML_Serializer_Tag>
+<XML_Serializer_Tag>Johannes Boldinis</XML_Serializer_Tag>
+<XML_Serializer_Tag>Ioannes Bodinus</XML_Serializer_Tag>
+<XML_Serializer_Tag>Johann Bodin</XML_Serializer_Tag>
+<XML_Serializer_Tag>Johannes Bodin</XML_Serializer_Tag>
+<XML_Serializer_Tag>Johannes Bodinus</XML_Serializer_Tag>
+<XML_Serializer_Tag>Jean Bodin</XML_Serializer_Tag>
+<XML_Serializer_Tag>Johannes Bod.</XML_Serializer_Tag>
+<XML_Serializer_Tag>Giovanni Bodino</XML_Serializer_Tag>
+<XML_Serializer_Tag>René Herpin</XML_Serializer_Tag>
+<XML_Serializer_Tag>Renatus Herpinus</XML_Serializer_Tag>
+<XML_Serializer_Tag>Io. Bodinus</XML_Serializer_Tag>
+<XML_Serializer_Tag>Juan Bodino</XML_Serializer_Tag>
+</variantName>
+<thumbnail>https://commons.wikimedia.org/wiki/Special:FilePath/Jean_Bodin.jpg?width=270</thumbnail>
+<birthEN>1529</birthEN>
+<birthDE>1529</birthDE>
+<deathEN>1596</deathEN>
+<deathDE>1596</deathDE>
+<birthPlace>
+<XML_Serializer_Tag>Angers</XML_Serializer_Tag>
+</birthPlace>
+<deathPlace>
+<XML_Serializer_Tag>Laon</XML_Serializer_Tag>
+</deathPlace>
+<professionOrOccupation>
+<XML_Serializer_Tag>Jurist</XML_Serializer_Tag>
+<XML_Serializer_Tag>Philosoph</XML_Serializer_Tag>
+</professionOrOccupation>
+<dbpResource>http://dbpedia.org/resource/Jean_Bodin</dbpResource>
+<abstract>Jean Bodin (* 1529 oder 1530 in Angers; † 1596 in Laon), latinisiert auch Joannes Bodinus Andegavensis, gilt als der erste französische Staatstheoretiker von Rang. Er gilt als Begründer des modernen Souveränitätsbegriffes und mit seiner staatstheoretischen Schrift Les six livres de la République (1576, dt. „Sechs Bücher über den Staat“) als ein früher Fürsprecher des Absolutismus.</abstract>
+<wikilink>http://en.wikipedia.org/wiki/Jean_Bodin?oldid=601859656</wikilink>
+<artworks />
+<buildings />
+<books />
+</Person>

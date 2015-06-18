@@ -1,0 +1,33 @@
+<Person>
+<name>Ernst Troeltsch</name>
+<variantName>
+<XML_Serializer_Tag>Ernesto Troeltsch</XML_Serializer_Tag>
+<XML_Serializer_Tag>Ėrnst Tro͏̈l&apos;č</XML_Serializer_Tag>
+<XML_Serializer_Tag>Ernst Trʹolč</XML_Serializer_Tag>
+<XML_Serializer_Tag>Ernst Peter Wilhelm Troeltsch</XML_Serializer_Tag>
+<XML_Serializer_Tag>E. Troeltsch</XML_Serializer_Tag>
+<XML_Serializer_Tag>Ernst Tröltsch</XML_Serializer_Tag>
+</variantName>
+<thumbnail>https://de.wikipedia.org/wiki/Special:FilePath/Troeltsch_1907.jpg?width=270</thumbnail>
+<birthEN>February 17, 1865</birthEN>
+<birthDE>17. Februar 1865</birthDE>
+<deathEN>February 1, 1923</deathEN>
+<deathDE>1. Februar 1923</deathDE>
+<birthPlace>
+<XML_Serializer_Tag>Haunstetten</XML_Serializer_Tag>
+</birthPlace>
+<deathPlace>
+<XML_Serializer_Tag>Berlin</XML_Serializer_Tag>
+</deathPlace>
+<professionOrOccupation>
+<XML_Serializer_Tag>Philosoph</XML_Serializer_Tag>
+<XML_Serializer_Tag>Theologe</XML_Serializer_Tag>
+<XML_Serializer_Tag>Pfarrer</XML_Serializer_Tag>
+</professionOrOccupation>
+<dbpResource>http://dbpedia.org/resource/Ernst_Troeltsch</dbpResource>
+<abstract>Ernst Troeltsch (* 17. Februar 1865 in Haunstetten; † 1. Februar 1923 in Berlin) war ein deutscher Theologe, Kulturphilosoph und liberaler Politiker.</abstract>
+<wikilink>http://en.wikipedia.org/wiki/Ernst_Troeltsch?oldid=604285603</wikilink>
+<artworks />
+<buildings />
+<books />
+</Person>

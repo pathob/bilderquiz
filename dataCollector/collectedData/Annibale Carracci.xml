@@ -28,12 +28,15 @@
 <XML_Serializer_Tag>Zeichner</XML_Serializer_Tag>
 <XML_Serializer_Tag>Kupferstecher</XML_Serializer_Tag>
 </professionOrOccupation>
+<dbpResource>http://dbpedia.org/resource/Annibale_Carracci</dbpResource>
+<abstract>Annibale Carracci (* vor 3. November 1560 in Bologna; † 15. Juli 1609 in Rom) war ein italienischer Maler und Kupferstecher. Neben Michelangelo Merisi da Caravaggio gilt er als Begründer der italienischen Barockmalerei.</abstract>
+<wikilink>http://en.wikipedia.org/wiki/Annibale_Carracci?oldid=602498610</wikilink>
 <artworks>
 <XML_Serializer_Tag>
-<painting>
+<artwork>
 <type>uri</type>
 <value>http://dbpedia.org/resource/Assumption_of_the_Virgin_(Carracci)</value>
-</painting>
+</artwork>
 <thumbnail>
 <type>uri</type>
 <value>http://commons.wikimedia.org/wiki/Special:FilePath/Annibale_Carracci_Assumption_of_the_Virgin.jpg?width=300</value>
@@ -52,36 +55,17 @@
 <type>uri</type>
 <value>http://en.wikipedia.org/wiki/Assumption_of_the_Virgin_(Carracci)?oldid=596915252</value>
 </wikilink>
-</XML_Serializer_Tag>
-<XML_Serializer_Tag>
-<painting>
-<type>uri</type>
-<value>http://dbpedia.org/resource/Assumption_of_the_Virgin_(Carracci)</value>
-</painting>
-<thumbnail>
-<type>uri</type>
-<value>http://commons.wikimedia.org/wiki/Special:FilePath/Annibale_Carracci_Assumption_of_the_Virgin.jpg?width=300</value>
-</thumbnail>
-<name>
+<type>
 <type>literal</type>
 <xml:lang>en</xml:lang>
-<value>Assumption of the Virgin</value>
-</name>
-<year>
-<type>typed-literal</type>
-<datatype>http://www.w3.org/2001/XMLSchema#integer</datatype>
-<value>1600</value>
-</year>
-<wikilink>
-<type>uri</type>
-<value>http://en.wikipedia.org/wiki/Assumption_of_the_Virgin_(Carracci)?oldid=596915252</value>
-</wikilink>
+<value>Oil on canvas</value>
+</type>
 </XML_Serializer_Tag>
 <XML_Serializer_Tag>
-<painting>
+<artwork>
 <type>uri</type>
 <value>http://dbpedia.org/resource/Hunting_(Annibale_Carracci)</value>
-</painting>
+</artwork>
 <thumbnail>
 <type>uri</type>
 <value>http://commons.wikimedia.org/wiki/Special:FilePath/Annibale_Carracci_-_Hunting_-_WGA04417.jpg?width=300</value>
@@ -100,12 +84,17 @@
 <type>uri</type>
 <value>http://en.wikipedia.org/wiki/Hunting_(Annibale_Carracci)?oldid=586695559</value>
 </wikilink>
+<type>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>Oil on canvas</value>
+</type>
 </XML_Serializer_Tag>
 <XML_Serializer_Tag>
-<painting>
+<artwork>
 <type>uri</type>
 <value>http://dbpedia.org/resource/Domine_quo_vadis%3F_(Annibale_Carracci)</value>
-</painting>
+</artwork>
 <thumbnail>
 <type>uri</type>
 <value>http://commons.wikimedia.org/wiki/Special:FilePath/Domine,_quo_vadis.jpg?width=300</value>
@@ -124,12 +113,17 @@
 <type>uri</type>
 <value>http://en.wikipedia.org/wiki/Domine_quo_vadis%3F_(Annibale_Carracci)?oldid=605175219</value>
 </wikilink>
+<type>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>Oil on panel</value>
+</type>
 </XML_Serializer_Tag>
 <XML_Serializer_Tag>
-<painting>
+<artwork>
 <type>uri</type>
 <value>http://dbpedia.org/resource/The_Choice_of_Hercules</value>
-</painting>
+</artwork>
 <thumbnail>
 <type>uri</type>
 <value>http://commons.wikimedia.org/wiki/Special:FilePath/CarracciHercules.jpg?width=300</value>
@@ -148,12 +142,17 @@
 <type>uri</type>
 <value>http://en.wikipedia.org/wiki/The_Choice_of_Hercules?oldid=599251850</value>
 </wikilink>
+<type>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>Oil on canvas</value>
+</type>
 </XML_Serializer_Tag>
 <XML_Serializer_Tag>
-<painting>
+<artwork>
 <type>uri</type>
 <value>http://dbpedia.org/resource/Butcher&apos;s_Shop_(Annibale_Carracci)</value>
-</painting>
+</artwork>
 <thumbnail>
 <type>uri</type>
 <value>http://commons.wikimedia.org/wiki/Special:FilePath/Carracci-Butcher&apos;s_shop.jpg?width=300</value>
@@ -172,12 +171,17 @@
 <type>uri</type>
 <value>http://en.wikipedia.org/wiki/Butcher&apos;s_Shop_(Annibale_Carracci)?oldid=586550531</value>
 </wikilink>
+<type>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>Oil on canvas</value>
+</type>
 </XML_Serializer_Tag>
 <XML_Serializer_Tag>
-<painting>
+<artwork>
 <type>uri</type>
 <value>http://dbpedia.org/resource/The_Beaneater</value>
-</painting>
+</artwork>
 <thumbnail>
 <type>uri</type>
 <value>http://commons.wikimedia.org/wiki/Special:FilePath/Annibale_Carracci_The_Beaneater.jpg?width=300</value>
@@ -196,12 +200,17 @@
 <type>uri</type>
 <value>http://en.wikipedia.org/wiki/The_Beaneater?oldid=592288252</value>
 </wikilink>
+<type>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>Oil on canvas</value>
+</type>
 </XML_Serializer_Tag>
 <XML_Serializer_Tag>
-<painting>
+<artwork>
 <type>uri</type>
 <value>http://dbpedia.org/resource/Landscape_with_the_Flight_into_Egypt_(Annibale_Carracci)</value>
-</painting>
+</artwork>
 <thumbnail>
 <type>uri</type>
 <value>http://commons.wikimedia.org/wiki/Special:FilePath/Annibale_Carracci_003.jpg?width=300</value>
@@ -220,12 +229,17 @@
 <type>uri</type>
 <value>http://en.wikipedia.org/wiki/Landscape_with_the_Flight_into_Egypt_(Annibale_Carracci)?oldid=592373447</value>
 </wikilink>
+<type>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>Oil on canvas</value>
+</type>
 </XML_Serializer_Tag>
 <XML_Serializer_Tag>
-<painting>
+<artwork>
 <type>uri</type>
 <value>http://dbpedia.org/resource/Corpse_of_Christ</value>
-</painting>
+</artwork>
 <thumbnail>
 <type>uri</type>
 <value>http://commons.wikimedia.org/wiki/Special:FilePath/Annibale_carracci,_salma_di_cristo.jpg?width=300</value>
@@ -244,12 +258,17 @@
 <type>uri</type>
 <value>http://en.wikipedia.org/wiki/Corpse_of_Christ?oldid=589490269</value>
 </wikilink>
+<type>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>Oil on canvas</value>
+</type>
 </XML_Serializer_Tag>
 <XML_Serializer_Tag>
-<painting>
+<artwork>
 <type>uri</type>
 <value>http://dbpedia.org/resource/Fishing_(Annibale_Carracci)</value>
-</painting>
+</artwork>
 <thumbnail>
 <type>uri</type>
 <value>http://commons.wikimedia.org/wiki/Special:FilePath/Annibale_Carracci_-_Fishing_-_WGA4414.jpg?width=300</value>
@@ -268,12 +287,17 @@
 <type>uri</type>
 <value>http://en.wikipedia.org/wiki/Fishing_(Annibale_Carracci)?oldid=586451539</value>
 </wikilink>
+<type>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>Oil on canvas</value>
+</type>
 </XML_Serializer_Tag>
 <XML_Serializer_Tag>
-<painting>
+<artwork>
 <type>uri</type>
 <value>http://dbpedia.org/resource/Mural_Paintings_from_the_Herrera_Chapel</value>
-</painting>
+</artwork>
 <thumbnail>
 <type>uri</type>
 <value>http://commons.wikimedia.org/wiki/Special:FilePath/Mural_Paintings_from_the_Herrera_Chapel.jpg?width=300</value>
@@ -292,9 +316,13 @@
 <type>uri</type>
 <value>http://en.wikipedia.org/wiki/Mural_Paintings_from_the_Herrera_Chapel?oldid=590159999</value>
 </wikilink>
+<type>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>Fresco transferred to canvas</value>
+</type>
 </XML_Serializer_Tag>
 </artworks>
-<dbpResource>http://dbpedia.org/resource/Annibale_Carracci</dbpResource>
-<abstract>Annibale Carracci (* vor 3. November 1560 in Bologna; † 15. Juli 1609 in Rom) war ein italienischer Maler und Kupferstecher. Neben Michelangelo Merisi da Caravaggio gilt er als Begründer der italienischen Barockmalerei.</abstract>
-<wikilink>http://en.wikipedia.org/wiki/Annibale_Carracci?oldid=602498610</wikilink>
+<buildings />
+<books />
 </Person>

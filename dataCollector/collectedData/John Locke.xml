@@ -1,0 +1,109 @@
+<Person>
+<name>John Locke</name>
+<variantName>
+<XML_Serializer_Tag>John Lock</XML_Serializer_Tag>
+<XML_Serializer_Tag>Jean Locke</XML_Serializer_Tag>
+<XML_Serializer_Tag>Johannes Lockius</XML_Serializer_Tag>
+<XML_Serializer_Tag>Iohannes Lockius</XML_Serializer_Tag>
+<XML_Serializer_Tag>Ioannes Lockius</XML_Serializer_Tag>
+<XML_Serializer_Tag>Philanthropus</XML_Serializer_Tag>
+<XML_Serializer_Tag>Johann Locke</XML_Serializer_Tag>
+<XML_Serializer_Tag>Johannes Lokkius</XML_Serializer_Tag>
+</variantName>
+<thumbnail>https://commons.wikimedia.org/wiki/Special:FilePath/John_Locke.jpg?width=270</thumbnail>
+<birthEN>1632</birthEN>
+<birthDE>1632</birthDE>
+<deathEN>1704</deathEN>
+<deathDE>1704</deathDE>
+<birthPlace />
+<deathPlace />
+<professionOrOccupation>
+<XML_Serializer_Tag>Philosoph</XML_Serializer_Tag>
+</professionOrOccupation>
+<dbpResource>http://dbpedia.org/resource/John_Locke</dbpResource>
+<abstract>John Locke [dʒɒn lɒk] (* 29. August 1632 in Wrington bei Bristol; † 28. Oktober 1704 in Oates, Epping Forest, Essex) war ein einflussreicher englischer Philosoph und Vordenker der Aufklärung.Locke gilt allgemein als Vater des Liberalismus. Er ist zusammen mit Isaac Newton und David Hume der Hauptvertreter des britischen Empirismus. Des Weiteren ist er neben Thomas Hobbes (1588–1679) und Jean-Jacques Rousseau (1712–1778) einer der bedeutendsten Vertragstheoretiker in der frühen Phase des Zeitalters der Aufklärung.Seine politische Philosophie beeinflusste die Unabhängigkeitserklärung der Vereinigten Staaten, die Verfassung der Vereinigten Staaten, die Verfassung des revolutionären Frankreichs und über diesen Weg die meisten Verfassungen liberaler Staaten maßgeblich. In seinem Werk Two Treatises of Government argumentiert Locke, dass eine Regierung nur legitim ist, wenn sie die Zustimmung der Regierten besitzt und die Naturrechte Leben, Freiheit und Eigentum beschützt. Wenn diese Bedingungen nicht erfüllt sind, haben die Untertanen ein Recht auf Widerstand gegen die Regierenden.</abstract>
+<wikilink>http://en.wikipedia.org/wiki/John_Locke?oldid=604388043</wikilink>
+<artworks />
+<buildings />
+<books>
+<XML_Serializer_Tag>
+<book>
+<type>uri</type>
+<value>http://dbpedia.org/resource/Two_Treatises_of_Government</value>
+</book>
+<author>
+<type>uri</type>
+<value>http://dbpedia.org/resource/John_Locke</value>
+</author>
+<thumbnail>
+<type>uri</type>
+<value>http://commons.wikimedia.org/wiki/Special:FilePath/Locke_treatises_of_government_page.jpg?width=300</value>
+</thumbnail>
+<released>
+<type>typed-literal</type>
+<datatype>http://www.w3.org/2001/XMLSchema#integer</datatype>
+<value>1689</value>
+</released>
+<wikilink>
+<type>uri</type>
+<value>http://en.wikipedia.org/wiki/Two_Treatises_of_Government?oldid=605588872</value>
+</wikilink>
+<abstract>
+<type>literal</type>
+<xml:lang>de</xml:lang>
+<value>Die Two Treatises of Government (dt.: Zwei Abhandlungen über die Regierung; engl. auch Two Treatises of Government: In the Former, The False Principles and Foundation of Sir Robert Filmer, And His Followers, are Detected and Overthrown. The Latter is an Essay concerning The True Original, Extent, and End of Civil-Government) bilden ein Werk der politischen Philosophie, das John Locke 1689 anonym veröffentlichte. Insbesondere die zweite Abhandlung, in der mehrfach der anglikanische Theologe Richard Hooker zitiert wird, wird oft als Manifest für die liberale Demokratie und den Kapitalismus bezeichnet und hat entsprechend positive wie negative Kritik auf sich gezogen.Die Theorie, die Locke in den beiden Abhandlungen darlegt, hatte grundlegenden Einfluss auf die Glorious Revolution von 1688/89 und die danach eingerichtete Staatsordnung in England sowie im 18. Jahrhundert auf die Amerikanische Verfassung von 1787 und die Französische Revolution von 1789.</value>
+</abstract>
+</XML_Serializer_Tag>
+<XML_Serializer_Tag>
+<book>
+<type>uri</type>
+<value>http://dbpedia.org/resource/An_Essay_Concerning_Human_Understanding</value>
+</book>
+<author>
+<type>uri</type>
+<value>http://dbpedia.org/resource/John_Locke</value>
+</author>
+<thumbnail>
+<type>uri</type>
+<value>http://commons.wikimedia.org/wiki/Special:FilePath/Locke_Essay_1690.jpg?width=300</value>
+</thumbnail>
+<released>
+<type>typed-literal</type>
+<datatype>http://www.w3.org/2001/XMLSchema#integer</datatype>
+<value>1689</value>
+</released>
+<wikilink>
+<type>uri</type>
+<value>http://en.wikipedia.org/wiki/An_Essay_Concerning_Human_Understanding?oldid=604616079</value>
+</wikilink>
+<abstract>
+<type>literal</type>
+<xml:lang>de</xml:lang>
+<value>John Lockes An Essay Concerning Humane Understanding, deutsch Ein Versuch über den menschlichen Verstand, in erster Auflage 1690 in London erschienen, wurde zum klassischen Titel empiristischer Erkenntnistheorie. Das Motto stammte aus Ciceros De natura deorum (Vom Wesen der Götter), zu übersetzen mit: &quot;Wie schön ist es, lieber sein Nichtwissen einzugestehen, als dergleichen herauszuschwätzen und sich selbst zu missfallen.&quot; Erst die Folgeausgaben notierten den Autor auf dem Titelblatt; von der ersten Ausgabe an lag hier jedoch kein Geheimnis, Lockes Unterschrift folgte der Widmung.</value>
+</abstract>
+</XML_Serializer_Tag>
+<XML_Serializer_Tag>
+<book>
+<type>uri</type>
+<value>http://dbpedia.org/resource/Of_the_Conduct_of_the_Understanding</value>
+</book>
+<author>
+<type>uri</type>
+<value>http://dbpedia.org/resource/John_Locke</value>
+</author>
+<thumbnail>
+<type>uri</type>
+<value>http://commons.wikimedia.org/wiki/Special:FilePath/LockeConduct.png?width=300</value>
+</thumbnail>
+<released>
+<type>typed-literal</type>
+<datatype>http://www.w3.org/2001/XMLSchema#integer</datatype>
+<value>1706</value>
+</released>
+<wikilink>
+<type>uri</type>
+<value>http://en.wikipedia.org/wiki/Of_the_Conduct_of_the_Understanding?oldid=603171042</value>
+</wikilink>
+</XML_Serializer_Tag>
+</books>
+</Person>

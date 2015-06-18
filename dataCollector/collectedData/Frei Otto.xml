@@ -1,0 +1,29 @@
+<Person>
+<name>Frei Otto</name>
+<variantName>
+<XML_Serializer_Tag>Otto Frei</XML_Serializer_Tag>
+<XML_Serializer_Tag>Frei Paul Ott</XML_Serializer_Tag>
+<XML_Serializer_Tag>Frei Paul Otto</XML_Serializer_Tag>
+</variantName>
+<thumbnail>https://commons.wikimedia.org/wiki/Special:FilePath/Olympiastadion_1.jpg?width=270</thumbnail>
+<birthEN>May 31, 1925</birthEN>
+<birthDE>31. Mai 1925</birthDE>
+<deathEN>March 9, 2015</deathEN>
+<deathDE>9. März 2015</deathDE>
+<birthPlace>
+<XML_Serializer_Tag>Siegmar-Schönau</XML_Serializer_Tag>
+</birthPlace>
+<deathPlace>
+<XML_Serializer_Tag>Leonberg (Landkreis Böblingen)</XML_Serializer_Tag>
+</deathPlace>
+<professionOrOccupation>
+<XML_Serializer_Tag>Architekt</XML_Serializer_Tag>
+<XML_Serializer_Tag>Ingenieur</XML_Serializer_Tag>
+</professionOrOccupation>
+<dbpResource>http://dbpedia.org/resource/Frei_Otto</dbpResource>
+<abstract>Frei Paul Otto (* 31. Mai 1925 in Siegmar, heute Chemnitz) ist ein deutscher Architekt, Architekturtheoretiker und Hochschullehrer. Seine Arbeiten im Leichtbau, mit Seilnetzen, Gitterschalen und anderen zugbeanspruchten Konstruktionen machten ihn zu einem der bedeutendsten Architekten des 20. Jahrhunderts. Er zählt neben Richard Buckminster Fuller und Santiago Calatrava zu den wichtigsten Vertretern einer biomorphen Architektur (Organische Architektur).</abstract>
+<wikilink>http://en.wikipedia.org/wiki/Frei_Otto?oldid=587956900</wikilink>
+<artworks />
+<buildings />
+<books />
+</Person>

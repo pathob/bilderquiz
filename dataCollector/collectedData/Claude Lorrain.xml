@@ -24,12 +24,15 @@
 <professionOrOccupation>
 <XML_Serializer_Tag>Maler</XML_Serializer_Tag>
 </professionOrOccupation>
+<dbpResource>http://dbpedia.org/resource/Claude_Lorrain</dbpResource>
+<abstract>Claude Lorrain, auch bekannt als Claude Gellée oder Claude Le Lorrain, (* 1600 in Chamagne, Lothringen; † 23. November 1682 in Rom) war ein französischer Maler des Barock, der einen eigenen lyrisch-romantischen Stil klassizistisch barocker Landschaftsmalerei entwickelte.</abstract>
+<wikilink>http://en.wikipedia.org/wiki/Claude_Lorrain?oldid=604264640</wikilink>
 <artworks>
 <XML_Serializer_Tag>
-<painting>
+<artwork>
 <type>uri</type>
 <value>http://dbpedia.org/resource/Village_F%C3%AAte</value>
-</painting>
+</artwork>
 <thumbnail>
 <type>uri</type>
 <value>http://commons.wikimedia.org/wiki/Special:FilePath/Claude_Lorrain_012.jpg?width=300</value>
@@ -48,12 +51,17 @@
 <type>uri</type>
 <value>http://en.wikipedia.org/wiki/Village_Fête?oldid=588094878</value>
 </wikilink>
+<type>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>Oil on canvas</value>
+</type>
 </XML_Serializer_Tag>
 <XML_Serializer_Tag>
-<painting>
+<artwork>
 <type>uri</type>
 <value>http://dbpedia.org/resource/The_Flight_into_Egypt_(Lorrain)</value>
-</painting>
+</artwork>
 <thumbnail>
 <type>uri</type>
 <value>http://commons.wikimedia.org/wiki/Special:FilePath/The_Flight_into_Egypt_by_Claude_Lorrain.jpg?width=300</value>
@@ -72,12 +80,17 @@
 <type>uri</type>
 <value>http://en.wikipedia.org/wiki/The_Flight_into_Egypt_(Lorrain)?oldid=537419126</value>
 </wikilink>
+<type>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>Oil painting on canvas</value>
+</type>
 </XML_Serializer_Tag>
 <XML_Serializer_Tag>
-<painting>
+<artwork>
 <type>uri</type>
 <value>http://dbpedia.org/resource/The_Embarkation_of_the_Queen_of_Sheba</value>
-</painting>
+</artwork>
 <thumbnail>
 <type>uri</type>
 <value>http://commons.wikimedia.org/wiki/Special:FilePath/Claude_Lorrain_008.jpg?width=300</value>
@@ -91,9 +104,12 @@
 <type>uri</type>
 <value>http://en.wikipedia.org/wiki/The_Embarkation_of_the_Queen_of_Sheba?oldid=546180926</value>
 </wikilink>
+<type>
+<type>uri</type>
+<value>http://dbpedia.org/resource/Oil_painting</value>
+</type>
 </XML_Serializer_Tag>
 </artworks>
-<dbpResource>http://dbpedia.org/resource/Claude_Lorrain</dbpResource>
-<abstract>Claude Lorrain, auch bekannt als Claude Gellée oder Claude Le Lorrain, (* 1600 in Chamagne, Lothringen; † 23. November 1682 in Rom) war ein französischer Maler des Barock, der einen eigenen lyrisch-romantischen Stil klassizistisch barocker Landschaftsmalerei entwickelte.</abstract>
-<wikilink>http://en.wikipedia.org/wiki/Claude_Lorrain?oldid=604264640</wikilink>
+<buildings />
+<books />
 </Person>

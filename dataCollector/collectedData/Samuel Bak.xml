@@ -19,8 +19,10 @@
 <XML_Serializer_Tag>Bühnenbildner</XML_Serializer_Tag>
 <XML_Serializer_Tag>Künstler</XML_Serializer_Tag>
 </professionOrOccupation>
-<artworks />
 <dbpResource>http://dbpedia.org/resource/Samuel_Bak</dbpResource>
 <abstract>Samuel Bak (* 12. August 1933 in Wilna) ist ein Maler aus Litauen, der seit 1949 in Tel Aviv, Israel lebt, zeitweise auch in New York. Er ist Überlebender des Holocaust.</abstract>
 <wikilink>http://en.wikipedia.org/wiki/Samuel_Bak?oldid=605044162</wikilink>
+<artworks />
+<buildings />
+<books />
 </Person>

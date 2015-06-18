@@ -1,0 +1,74 @@
+<Person>
+<name>Pablo Neruda</name>
+<variantName>
+<XML_Serializer_Tag>Neftalí R. Reyes Basoalto</XML_Serializer_Tag>
+<XML_Serializer_Tag>Neftalí Ricardo Reyes</XML_Serializer_Tag>
+<XML_Serializer_Tag>Neftalí Ricardo Reyes Basoalto</XML_Serializer_Tag>
+<XML_Serializer_Tag>Bāblū Nīrūdā</XML_Serializer_Tag>
+<XML_Serializer_Tag>Neftalí Reyes Basoalto</XML_Serializer_Tag>
+<XML_Serializer_Tag>Neftalí Reyes Basualto</XML_Serializer_Tag>
+<XML_Serializer_Tag>Neftalí Reyes Basualto</XML_Serializer_Tag>
+<XML_Serializer_Tag>Neftalí Ricardo Reyes Basoalto</XML_Serializer_Tag>
+</variantName>
+<thumbnail>https://commons.wikimedia.org/wiki/Special:FilePath/Pablo_Neruda.jpg?width=270</thumbnail>
+<birthEN>July 12, 1904</birthEN>
+<birthDE>12. Juli 1904</birthDE>
+<deathEN>September 23, 1973</deathEN>
+<deathDE>23. September 1973</deathDE>
+<birthPlace>
+<XML_Serializer_Tag>Parral (Chile)</XML_Serializer_Tag>
+</birthPlace>
+<deathPlace>
+<XML_Serializer_Tag>Santiago de Chile</XML_Serializer_Tag>
+</deathPlace>
+<professionOrOccupation>
+<XML_Serializer_Tag>Lyriker</XML_Serializer_Tag>
+<XML_Serializer_Tag>Konsul</XML_Serializer_Tag>
+<XML_Serializer_Tag>Schriftsteller</XML_Serializer_Tag>
+</professionOrOccupation>
+<dbpResource>http://dbpedia.org/resource/Pablo_Neruda</dbpResource>
+<abstract>Pablo Neruda (* 12. Juli 1904 in Parral; † 23. September 1973 in Santiago de Chile; eigentlich Neftalí Ricardo Reyes Basoalto) war ein chilenischer Dichter und Schriftsteller, der sich vor allem gegen den Faschismus in seinem Heimatland und in Spanien einsetzte. 1971 erhielt er den Nobelpreis für Literatur.</abstract>
+<wikilink>http://en.wikipedia.org/wiki/Pablo_Neruda?oldid=604504980</wikilink>
+<artworks />
+<buildings />
+<books>
+<XML_Serializer_Tag>
+<book>
+<type>uri</type>
+<value>http://dbpedia.org/resource/Cien_Sonetos_de_Amor</value>
+</book>
+<author>
+<type>uri</type>
+<value>http://dbpedia.org/resource/Pablo_Neruda</value>
+</author>
+<released>
+<type>typed-literal</type>
+<datatype>http://www.w3.org/2001/XMLSchema#integer</datatype>
+<value>1986</value>
+</released>
+<wikilink>
+<type>uri</type>
+<value>http://en.wikipedia.org/wiki/Cien_Sonetos_de_Amor?oldid=589144776</value>
+</wikilink>
+</XML_Serializer_Tag>
+<XML_Serializer_Tag>
+<book>
+<type>uri</type>
+<value>http://dbpedia.org/resource/Canto_General</value>
+</book>
+<author>
+<type>uri</type>
+<value>http://dbpedia.org/resource/Pablo_Neruda</value>
+</author>
+<wikilink>
+<type>uri</type>
+<value>http://en.wikipedia.org/wiki/Canto_General?oldid=602735824</value>
+</wikilink>
+<abstract>
+<type>literal</type>
+<xml:lang>de</xml:lang>
+<value>Der Canto General (deutscher Titel: Der große Gesang; wörtlich: ‚Allgemeiner Gesang‘) ist ein umfangreicher Gedichtzyklus des chilenischen Dichters Pablo Neruda über den Kampf Lateinamerikas gegen den Kolonialismus. Neruda begann 1938 mit der Arbeit am Canto General. Der größte Teil der Gedichte entstand in den Jahren 1948/49, als Neruda wegen der Nachstellungen der Regierung González Videla im Untergrund lebte. Das vollendete Werk erschien 1950 in Mexiko, wo Neruda von 1949 bis 1952 im Exil lebte.Der Gedichtzyklus besteht aus 15 Abschnitten, 231 Gedichten, umfasst mehr als 15.000 Zeilen und erhebt den Anspruch, eine Geschichte oder Enzyklopädie des gesamten hispanoamerikanischen Subkontinents zu sein. Er beschreibt die Erschaffung Lateinamerikas, der Flora und Fauna, das Auftreten des Menschen, die Eroberung durch die Konquistadoren, die anschließenden Befreiungskämpfe und die Hoffnung auf Unabhängigkeit. In vielen lateinamerikanischen Ländern wird die Verehrung für dieses Werk nur noch von der für die Bibel übertroffen.Die deutsche Übersetzung des Canto General stammt von dem DDR-Lyriker Erich Arendt und erschien erstmals 1953 im Verlag Volk und Welt. Sie wurde in den folgenden Jahren auch in Westdeutschland mehrfach aufgelegt.</value>
+</abstract>
+</XML_Serializer_Tag>
+</books>
+</Person>

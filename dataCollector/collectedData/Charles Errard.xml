@@ -22,8 +22,10 @@
 <XML_Serializer_Tag>Graphiker</XML_Serializer_Tag>
 <XML_Serializer_Tag>Architekt</XML_Serializer_Tag>
 </professionOrOccupation>
-<artworks />
 <dbpResource>http://dbpedia.org/resource/Charles_Errard</dbpResource>
 <abstract>Charles Errard II. (* vor 1607; † 1689 in Rom) war ein französischer Maler, Kupferstecher und Architekt des Barock. Er war Mitbegründer und Direktor der Académie royale de peinture et de sculpture (1648). Jean-Baptiste Colbert, Minister Ludwigs XIV. beauftragte ihn mit der Gründung der Académie de France à Rome (1666), heute in der Villa Medici.</abstract>
 <wikilink>http://en.wikipedia.org/wiki/Charles_Errard?oldid=563967683</wikilink>
+<artworks />
+<buildings />
+<books />
 </Person>

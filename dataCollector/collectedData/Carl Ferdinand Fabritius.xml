@@ -19,8 +19,10 @@
 <XML_Serializer_Tag>Künstler</XML_Serializer_Tag>
 <XML_Serializer_Tag>Maler</XML_Serializer_Tag>
 </professionOrOccupation>
-<artworks />
 <dbpResource>http://dbpedia.org/resource/Carl_Ferdinand_Fabritius</dbpResource>
 <abstract>Carl Ferdinand Fabritius (* 1637 in Warschau; † 21. Januar 1673 in Wien) war ein österreichisch-deutscher Maler, der im dritten Viertel des 17. Jahrhunderts in Wien, Mainz und Paderborn wirkte.</abstract>
 <wikilink>http://en.wikipedia.org/wiki/Carl_Ferdinand_Fabritius?oldid=586217714</wikilink>
+<artworks />
+<buildings />
+<books />
 </Person>

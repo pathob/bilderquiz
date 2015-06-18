@@ -1,0 +1,31 @@
+<Person>
+<name>Apostolo Zeno</name>
+<variantName>
+<XML_Serializer_Tag>Z</XML_Serializer_Tag>
+<XML_Serializer_Tag>A. Z.</XML_Serializer_Tag>
+<XML_Serializer_Tag>Apostulus Zenus</XML_Serializer_Tag>
+<XML_Serializer_Tag>, Venetus</XML_Serializer_Tag>
+</variantName>
+<thumbnail>https://commons.wikimedia.org/wiki/Special:FilePath/Azeno.jpg?width=270</thumbnail>
+<birthEN>December 11, 1668</birthEN>
+<birthDE>11. Dezember 1668</birthDE>
+<deathEN>November 11, 1750</deathEN>
+<deathDE>11. November 1750</deathDE>
+<birthPlace>
+<XML_Serializer_Tag>Venedig</XML_Serializer_Tag>
+</birthPlace>
+<deathPlace>
+<XML_Serializer_Tag>Venedig</XML_Serializer_Tag>
+</deathPlace>
+<professionOrOccupation>
+<XML_Serializer_Tag>Schriftsteller</XML_Serializer_Tag>
+<XML_Serializer_Tag>Librettist</XML_Serializer_Tag>
+<XML_Serializer_Tag>Antiquar</XML_Serializer_Tag>
+</professionOrOccupation>
+<dbpResource>http://dbpedia.org/resource/Apostolo_Zeno</dbpResource>
+<abstract>Apostolo Zeno (* 11. Dezember 1668 in Venedig; † 11. November 1750 in Venedig) war ein italienischer Gelehrter, Dichter und Librettist.</abstract>
+<wikilink>http://en.wikipedia.org/wiki/Apostolo_Zeno?oldid=601024669</wikilink>
+<artworks />
+<buildings />
+<books />
+</Person>

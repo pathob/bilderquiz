@@ -23,8 +23,10 @@
 <XML_Serializer_Tag>Komponist</XML_Serializer_Tag>
 <XML_Serializer_Tag>Maler</XML_Serializer_Tag>
 </professionOrOccupation>
-<artworks />
 <dbpResource>http://dbpedia.org/resource/Captain_Beefheart</dbpResource>
 <abstract>Captain Beefheart (* 15. Januar 1941 in Glendale, Kalifornien; † 17. Dezember 2010 in Arcata, Kalifornien) war das Pseudonym von Don Glen Van Vliet (geboren als Donald Vliet), einem US-amerikanischen Autor und Sänger experimenteller Rock- und Bluesmusik und Maler. Seine Musik wurde ab den späten 1960er-Jahren einem größeren Publikum bekannt. Dies wurde begünstigt durch Unterstützung und Zusammenarbeit mit seinem Schulfreund, dem Gitarristen und Komponisten Frank Zappa. Ein wesentlicher Teil von Beefhearts musikalischem Werk zeichnet sich durch ungewöhnliche Arrangements, nicht-metrisches Timing und oftmals kryptische oder bewusst absurde Songtexte aus. Seine wohl bekannteste Veröffentlichung ist das Doppelalbum Trout Mask Replica aus dem Jahr 1969.</abstract>
 <wikilink>http://en.wikipedia.org/wiki/Captain_Beefheart?oldid=605750272</wikilink>
+<artworks />
+<buildings />
+<books />
 </Person>

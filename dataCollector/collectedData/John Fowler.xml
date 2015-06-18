@@ -1,0 +1,25 @@
+<Person>
+<name>John Fowler</name>
+<variantName>
+<XML_Serializer_Tag>, Sir</XML_Serializer_Tag>
+</variantName>
+<thumbnail>https://de.wikipedia.org/wiki/Special:FilePath/John-Fowler.jpg?width=270</thumbnail>
+<birthEN>July 15, 1817</birthEN>
+<birthDE>15. Juli 1817</birthDE>
+<deathEN>November 20, 1898</deathEN>
+<deathDE>20. November 1898</deathDE>
+<birthPlace />
+<deathPlace>
+<XML_Serializer_Tag>Bournemouth</XML_Serializer_Tag>
+</deathPlace>
+<professionOrOccupation>
+<XML_Serializer_Tag>Architekt</XML_Serializer_Tag>
+<XML_Serializer_Tag>Ingenieur</XML_Serializer_Tag>
+</professionOrOccupation>
+<dbpResource>http://dbpedia.org/resource/John_Fowler_(politician)</dbpResource>
+<abstract>John Fowler (* 27. April 1756 im Chesterfield County, Virginia; † 22. August 1840 in Lexington, Kentucky) war ein US-amerikanischer Politiker. Zwischen 1797 und 1807 vertrat er den Bundesstaat Kentucky im US-Repräsentantenhaus.</abstract>
+<wikilink>http://en.wikipedia.org/wiki/John_Fowler_(politician)?oldid=599787289</wikilink>
+<artworks />
+<buildings />
+<books />
+</Person>

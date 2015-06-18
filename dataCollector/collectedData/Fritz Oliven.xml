@@ -1,0 +1,29 @@
+<Person>
+<name>Fritz Oliven</name>
+<variantName>
+<XML_Serializer_Tag>Rideamus</XML_Serializer_Tag>
+</variantName>
+<thumbnail>https://commons.wikimedia.org/wiki/Special:FilePath/Gedenktafel_Giesebrechtstr_11_(Charl)_Fritz_Oliven.JPG?width=270</thumbnail>
+<birthEN>May 10, 1874</birthEN>
+<birthDE>10. Mai 1874</birthDE>
+<deathEN>June 30, 1956</deathEN>
+<deathDE>30. Juni 1956</deathDE>
+<birthPlace>
+<XML_Serializer_Tag>Breslau</XML_Serializer_Tag>
+</birthPlace>
+<deathPlace>
+<XML_Serializer_Tag>Pôrto Alegre</XML_Serializer_Tag>
+</deathPlace>
+<professionOrOccupation>
+<XML_Serializer_Tag>Schriftsteller</XML_Serializer_Tag>
+<XML_Serializer_Tag>Librettist</XML_Serializer_Tag>
+<XML_Serializer_Tag>Dramatiker</XML_Serializer_Tag>
+<XML_Serializer_Tag>Jurist</XML_Serializer_Tag>
+</professionOrOccupation>
+<dbpResource>http://dbpedia.org/resource/Fritz_Oliven</dbpResource>
+<abstract>Fritz Oliven (* 10. Mai 1874 in Breslau; † 30. Juni 1956 in Porto Alegre, Brasilien) war ein deutscher Jurist und Schriftsteller.Unter dem Pseudonym Rideamus (lat. „Lasst uns lachen!“) wurde der in Berlin lebende jüdische Rechtsanwalt zu einem Erfolgsschriftsteller. Seine humoristischen Bücher erreichten Höchstauflagen. Als Lyriker, Librettist und Revuedichter arbeitete er mit Oscar Straus, Walter Kollo und Eduard Künneke zusammen und textete für die großen Haller-Revuen. Zahlreiche Lieder aus seiner Feder wurden von Marlene Dietrich interpretiert. Er schrieb unter anderem die Operetten Die lustigen Nibelungen, Der Vetter aus Dingsda und die Revue Noch und noch. Im Jahre 1939 emigrierte er nach Brasilien. 1951 erschien die Autobiographie Rideamus. Von ihm selber. Die Geschichte eines heiteren Lebens.</abstract>
+<wikilink>http://en.wikipedia.org/wiki/Fritz_Oliven?oldid=596794889</wikilink>
+<artworks />
+<buildings />
+<books />
+</Person>

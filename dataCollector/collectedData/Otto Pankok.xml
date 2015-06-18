@@ -13,8 +13,10 @@
 <XML_Serializer_Tag>Graphiker</XML_Serializer_Tag>
 <XML_Serializer_Tag>Bildhauer</XML_Serializer_Tag>
 </professionOrOccupation>
-<artworks />
 <dbpResource>http://dbpedia.org/resource/Otto_Pankok</dbpResource>
 <abstract>Otto Pankok (* 6. Juni 1893 in Mülheim an der Ruhr; † 20. Oktober 1966 in Wesel) war ein deutscher Maler, Graphiker und Bildhauer.</abstract>
 <wikilink>http://en.wikipedia.org/wiki/Otto_Pankok?oldid=606606905</wikilink>
+<artworks />
+<buildings />
+<books />
 </Person>

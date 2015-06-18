@@ -18,8 +18,10 @@
 <XML_Serializer_Tag>Künstler</XML_Serializer_Tag>
 <XML_Serializer_Tag>Maler</XML_Serializer_Tag>
 </professionOrOccupation>
-<artworks />
 <dbpResource>http://dbpedia.org/resource/Theodor_Rocholl</dbpResource>
 <abstract>Theodor Rocholl (* 11. Juni 1854 in Sachsenberg, Waldeck; † 13. September 1933 in Düsseldorf) war ein deutscher Maler, Grafiker und Schriftsteller. Er war in Düsseldorf ansässig, wo er sich eine stattliche Villa erbauen ließ, und wurde besonders durch seine Bildberichterstattung von der Front mehrerer Kriege und andere Schlachtengemälde sowie durch Landschaften, Porträts und Illustrationen bekannt. Des Weiteren ist er als Initiator des nordhessischen Naturschutzgebietes Urwald Sababurg bekannt – dort schuf er zahlreiche Wald- und Landschaftsbilder.</abstract>
 <wikilink>http://en.wikipedia.org/wiki/Theodor_Rocholl?oldid=563768367</wikilink>
+<artworks />
+<buildings />
+<books />
 </Person>

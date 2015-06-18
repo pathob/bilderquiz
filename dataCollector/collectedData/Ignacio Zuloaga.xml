@@ -19,8 +19,10 @@
 <professionOrOccupation>
 <XML_Serializer_Tag>Maler</XML_Serializer_Tag>
 </professionOrOccupation>
-<artworks />
 <dbpResource>http://dbpedia.org/resource/Ignacio_Zuloaga</dbpResource>
 <abstract>Ignacio Zuloaga y Zabaleta (* 26. Juli 1870 in Éibar; † 31. Oktober 1945 in Madrid) war ein spanischer Maler des Impressionismus.</abstract>
 <wikilink>http://en.wikipedia.org/wiki/Ignacio_Zuloaga?oldid=583959874</wikilink>
+<artworks />
+<buildings />
+<books />
 </Person>

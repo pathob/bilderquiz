@@ -1,0 +1,33 @@
+<Person>
+<name>Johann Peter Hebel</name>
+<variantName>
+<XML_Serializer_Tag>Joh. Peter Hebel</XML_Serializer_Tag>
+<XML_Serializer_Tag>J. P. Hebel</XML_Serializer_Tag>
+<XML_Serializer_Tag>... Hebel</XML_Serializer_Tag>
+<XML_Serializer_Tag>Peter Hebel</XML_Serializer_Tag>
+<XML_Serializer_Tag>J・P ヘーベル</XML_Serializer_Tag>
+</variantName>
+<thumbnail>https://commons.wikimedia.org/wiki/Special:FilePath/J._P._Hebel.jpg?width=270</thumbnail>
+<birthEN>May 10, 1760</birthEN>
+<birthDE>10. Mai 1760</birthDE>
+<deathEN>September 22, 1826</deathEN>
+<deathDE>22. September 1826</deathDE>
+<birthPlace>
+<XML_Serializer_Tag>Basel</XML_Serializer_Tag>
+</birthPlace>
+<deathPlace>
+<XML_Serializer_Tag>Schwetzingen</XML_Serializer_Tag>
+</deathPlace>
+<professionOrOccupation>
+<XML_Serializer_Tag>Schriftsteller</XML_Serializer_Tag>
+<XML_Serializer_Tag>Evangelischer Theologe</XML_Serializer_Tag>
+<XML_Serializer_Tag>Pädagoge</XML_Serializer_Tag>
+<XML_Serializer_Tag>Politiker</XML_Serializer_Tag>
+</professionOrOccupation>
+<dbpResource>http://dbpedia.org/resource/Johann_Peter_Hebel</dbpResource>
+<abstract>Johann Peter Hebel (* 10. Mai 1760 in Basel; † 22. September 1826 in Schwetzingen) war ein deutscher Schriftsteller, Theologe und Pädagoge. Aufgrund seines Gedichtbands Allemannische Gedichte gilt er gemeinhin als der bedeutendste alemannische Mundartdichter. Sein zweites bekanntes Werk sind zahlreiche, auf Hochdeutsch verfasste Kalendergeschichten.</abstract>
+<wikilink>http://en.wikipedia.org/wiki/Johann_Peter_Hebel?oldid=605302616</wikilink>
+<artworks />
+<buildings />
+<books />
+</Person>

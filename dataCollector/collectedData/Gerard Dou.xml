@@ -23,8 +23,10 @@
 <XML_Serializer_Tag>Künstler</XML_Serializer_Tag>
 <XML_Serializer_Tag>Maler</XML_Serializer_Tag>
 </professionOrOccupation>
-<artworks />
 <dbpResource>http://dbpedia.org/resource/Gerrit_Dou</dbpResource>
 <abstract>Gerard Dou (auch Gerard Douw oder Gerrit Dou; * 7. April 1613 in Leiden; begraben 9. Februar 1675 in Leiden) war ein niederländischer Maler des Barock. Wegen seiner Leidenschaft für minutiöse Details und seiner vollendeten Technik gilt er als Begründer der Leidener Feinmalerei, die weit bis ins 18. Jahrhundert gepflegt wurde.</abstract>
 <wikilink>http://en.wikipedia.org/wiki/Gerrit_Dou?oldid=603199201</wikilink>
+<artworks />
+<buildings />
+<books />
 </Person>

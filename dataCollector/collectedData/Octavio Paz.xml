@@ -1,0 +1,26 @@
+<Person>
+<name>Octavio Paz</name>
+<variantName>
+<XML_Serializer_Tag>Okutabio Pasu</XML_Serializer_Tag>
+<XML_Serializer_Tag>Oktavio Paz</XML_Serializer_Tag>
+</variantName>
+<thumbnail>https://commons.wikimedia.org/wiki/Special:FilePath/Paz0.jpg?width=270</thumbnail>
+<birthEN>March 31, 1914</birthEN>
+<birthDE>31. März 1914</birthDE>
+<deathEN>April 20, 1998</deathEN>
+<deathDE>20. April 1998</deathDE>
+<birthPlace />
+<deathPlace />
+<professionOrOccupation>
+<XML_Serializer_Tag>Schriftsteller</XML_Serializer_Tag>
+<XML_Serializer_Tag>Essayist</XML_Serializer_Tag>
+<XML_Serializer_Tag>Literaturkritiker</XML_Serializer_Tag>
+<XML_Serializer_Tag>Diplomat</XML_Serializer_Tag>
+</professionOrOccupation>
+<dbpResource>http://dbpedia.org/resource/Octavio_Paz</dbpResource>
+<abstract>Octavio Paz Lozano Hören?/i(* 31. März 1914 in Mixcoac, heute Mexiko-Stadt; † 20. April 1998 in Mexiko-Stadt) war ein mexikanischer Schriftsteller und Diplomat. Er erhielt 1990 den Nobelpreis für Literatur.</abstract>
+<wikilink>http://en.wikipedia.org/wiki/Octavio_Paz?oldid=606128571</wikilink>
+<artworks />
+<buildings />
+<books />
+</Person>

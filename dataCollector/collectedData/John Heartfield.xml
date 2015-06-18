@@ -29,8 +29,10 @@
 <XML_Serializer_Tag>Photograph</XML_Serializer_Tag>
 <XML_Serializer_Tag>Künstler</XML_Serializer_Tag>
 </professionOrOccupation>
-<artworks />
 <dbpResource>http://dbpedia.org/resource/John_Heartfield</dbpResource>
 <abstract>John Heartfield (* 19. Juni 1891 in Schmargendorf b. Berlin; † 26. April 1968 in Ost-Berlin; eigentlich Helmut Herzfeld, fälschlicherweise manchmal „Herzfelde“ geschrieben) war ein deutscher Maler, Graphiker, Fotomontagekünstler und Bühnenbildner. Er war ein Pionier an der Schnittstelle zwischen Kunst und Medien und gilt landläufig als der Erfinder der politischen Fotomontage. Er war der Bruder von Wieland Herzfelde.</abstract>
 <wikilink>http://en.wikipedia.org/wiki/John_Heartfield?oldid=606599247</wikilink>
+<artworks />
+<buildings />
+<books />
 </Person>

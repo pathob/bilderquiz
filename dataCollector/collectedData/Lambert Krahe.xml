@@ -22,8 +22,10 @@
 <XML_Serializer_Tag>Maler</XML_Serializer_Tag>
 <XML_Serializer_Tag>Hochschullehrer</XML_Serializer_Tag>
 </professionOrOccupation>
-<artworks />
 <dbpResource>http://dbpedia.org/resource/Lambert_Krahe</dbpResource>
 <abstract>Wilhelm Lambert Krahe (* 15. März 1712 in Düsseldorf; † 2. November 1790 ebenda) war ein deutscher Maler und Kunstsammler.</abstract>
 <wikilink>http://en.wikipedia.org/wiki/Lambert_Krahe?oldid=604295177</wikilink>
+<artworks />
+<buildings />
+<books />
 </Person>

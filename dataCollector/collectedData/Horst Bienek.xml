@@ -1,0 +1,31 @@
+<Person>
+<name>Horst Bienek</name>
+<variantName>
+<XML_Serializer_Tag>H. G. Bienek</XML_Serializer_Tag>
+<XML_Serializer_Tag>Horst Günther Bienek</XML_Serializer_Tag>
+</variantName>
+<thumbnail>https://commons.wikimedia.org/wiki/Special:FilePath/Horst_bienek_tafel_polnisch.jpg?width=270</thumbnail>
+<birthEN>May 7, 1930</birthEN>
+<birthDE>7. Mai 1930</birthDE>
+<deathEN>December 7, 1990</deathEN>
+<deathDE>7. Dezember 1990</deathDE>
+<birthPlace>
+<XML_Serializer_Tag>Gleiwitz</XML_Serializer_Tag>
+</birthPlace>
+<deathPlace>
+<XML_Serializer_Tag>München</XML_Serializer_Tag>
+</deathPlace>
+<professionOrOccupation>
+<XML_Serializer_Tag>Schriftsteller</XML_Serializer_Tag>
+<XML_Serializer_Tag>Redakteur</XML_Serializer_Tag>
+<XML_Serializer_Tag>Filmregisseur</XML_Serializer_Tag>
+<XML_Serializer_Tag>Regisseur</XML_Serializer_Tag>
+<XML_Serializer_Tag>Drehbuchautor</XML_Serializer_Tag>
+</professionOrOccupation>
+<dbpResource>http://dbpedia.org/resource/Horst_Bienek</dbpResource>
+<abstract>Horst Bienek (* 7. Mai 1930 in Gleiwitz, Oberschlesien; † 7. Dezember 1990 in München) war ein deutscher Schriftsteller.</abstract>
+<wikilink>http://en.wikipedia.org/wiki/Horst_Bienek?oldid=605459682</wikilink>
+<artworks />
+<buildings />
+<books />
+</Person>

@@ -19,8 +19,43 @@
 <XML_Serializer_Tag>Maler</XML_Serializer_Tag>
 <XML_Serializer_Tag>Hofbaurat</XML_Serializer_Tag>
 </professionOrOccupation>
-<artworks />
 <dbpResource>http://dbpedia.org/resource/Joseph_Maria_Olbrich</dbpResource>
 <abstract>Joseph Maria Olbrich (* 22. Dezember 1867 in Troppau; † 8. August 1908 in Düsseldorf) war ein österreichischer Architekt, der ab 1900 im Deutschen Reich lebte und arbeitete.</abstract>
 <wikilink>http://en.wikipedia.org/wiki/Joseph_Maria_Olbrich?oldid=599591892</wikilink>
+<artworks />
+<buildings>
+<XML_Serializer_Tag>
+<building>
+<type>uri</type>
+<value>http://dbpedia.org/resource/Secession_Building,_Vienna</value>
+</building>
+<name>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>Secession Building</value>
+</name>
+<architect>
+<type>uri</type>
+<value>http://dbpedia.org/resource/Joseph_Maria_Olbrich</value>
+</architect>
+<thumbnail>
+<type>uri</type>
+<value>http://commons.wikimedia.org/wiki/Special:FilePath/Secession_Wien1.JPG?width=300</value>
+</thumbnail>
+<wikilink>
+<type>uri</type>
+<value>http://en.wikipedia.org/wiki/Secession_Building,_Vienna?oldid=602103194</value>
+</wikilink>
+<location>
+<type>uri</type>
+<value>http://dbpedia.org/resource/Vienna</value>
+</location>
+<abstract>
+<type>literal</type>
+<xml:lang>de</xml:lang>
+<value>Das Ausstellungsgebäude der Wiener Secession, umgangssprachlich einfach Secession genannt, wurde 1897/98 von Joseph Maria Olbrich als Ausstellungsgebäude für zeitgenössische Kunst errichtet, wozu es noch heute dient. Es ist eines der bedeutendsten Gebäude des österreichischen Secessionsstils (Jugendstil).</value>
+</abstract>
+</XML_Serializer_Tag>
+</buildings>
+<books />
 </Person>

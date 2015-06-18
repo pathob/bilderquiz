@@ -1,0 +1,30 @@
+<Person>
+<name>Waldemar von Wasielewski</name>
+<variantName>
+<XML_Serializer_Tag>Waldemar v. Wasielewski</XML_Serializer_Tag>
+<XML_Serializer_Tag>Waldemar Leopold Josef von Wasielewski</XML_Serializer_Tag>
+<XML_Serializer_Tag>Waldemar Leopold Joseph von Wasielewski</XML_Serializer_Tag>
+</variantName>
+<thumbnail>https://de.wikipedia.org/wiki/Special:FilePath/Waldemar_v.W._1.JPG?width=270</thumbnail>
+<birthEN>December 10, 1875</birthEN>
+<birthDE>10. Dezember 1875</birthDE>
+<deathEN>February 28, 1959</deathEN>
+<deathDE>28. Februar 1959</deathDE>
+<birthPlace>
+<XML_Serializer_Tag>Bonn</XML_Serializer_Tag>
+</birthPlace>
+<deathPlace>
+<XML_Serializer_Tag>Sondershausen</XML_Serializer_Tag>
+</deathPlace>
+<professionOrOccupation>
+<XML_Serializer_Tag>Pädagoge</XML_Serializer_Tag>
+<XML_Serializer_Tag>Privatgelehrter</XML_Serializer_Tag>
+<XML_Serializer_Tag>Schriftsteller</XML_Serializer_Tag>
+</professionOrOccupation>
+<dbpResource>http://dbpedia.org/resource/Waldemar_von_Wasielewski</dbpResource>
+<abstract>Waldemar von Wasielewski (* 10. Dezember 1875 in Bonn; † 28. Februar 1959 in Sondershausen) war ein deutscher Schriftsteller mit den Schwerpunkten Okkultismus, Goetheforschung und Musikgeschichte.</abstract>
+<wikilink>http://en.wikipedia.org/wiki/Waldemar_von_Wasielewski?oldid=548116120</wikilink>
+<artworks />
+<buildings />
+<books />
+</Person>

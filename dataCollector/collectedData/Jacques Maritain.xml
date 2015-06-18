@@ -1,0 +1,84 @@
+<Person>
+<name>Jacques Maritain</name>
+<variantName>
+<XML_Serializer_Tag>Zh. Mariten</XML_Serializer_Tag>
+<XML_Serializer_Tag>Zaks Maritens</XML_Serializer_Tag>
+<XML_Serializer_Tag>Jacques Favelle</XML_Serializer_Tag>
+</variantName>
+<thumbnail>https://en.wikipedia.org/wiki/Special:FilePath/Jacques_Maritain.jpg?width=270</thumbnail>
+<birthEN>November 18, 1882</birthEN>
+<birthDE>18. November 1882</birthDE>
+<deathEN>April 28, 1973</deathEN>
+<deathDE>28. April 1973</deathDE>
+<birthPlace />
+<deathPlace />
+<professionOrOccupation>
+<XML_Serializer_Tag>Philosoph</XML_Serializer_Tag>
+<XML_Serializer_Tag>Katholischer Theologe</XML_Serializer_Tag>
+</professionOrOccupation>
+<dbpResource>http://dbpedia.org/resource/Jacques_Maritain</dbpResource>
+<abstract>Jacques Maritain (* 18. November 1882 in Paris; † 28. April 1973 in Toulouse) war ein französischer Philosoph und ein Schüler von Henri Bergson.</abstract>
+<wikilink>http://en.wikipedia.org/wiki/Jacques_Maritain?oldid=605885037</wikilink>
+<artworks />
+<buildings />
+<books>
+<XML_Serializer_Tag>
+<book>
+<type>uri</type>
+<value>http://dbpedia.org/resource/Art_and_Scholasticism</value>
+</book>
+<author>
+<type>uri</type>
+<value>http://dbpedia.org/resource/Jacques_Maritain</value>
+</author>
+<published>
+<type>typed-literal</type>
+<datatype>http://www.w3.org/2001/XMLSchema#integer</datatype>
+<value>1920</value>
+</published>
+<wikilink>
+<type>uri</type>
+<value>http://en.wikipedia.org/wiki/Art_and_Scholasticism?oldid=598783789</value>
+</wikilink>
+</XML_Serializer_Tag>
+<XML_Serializer_Tag>
+<book>
+<type>uri</type>
+<value>http://dbpedia.org/resource/The_Degrees_of_Knowledge</value>
+</book>
+<author>
+<type>uri</type>
+<value>http://dbpedia.org/resource/Jacques_Maritain</value>
+</author>
+<published>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>*1932 
+*1959</value>
+</published>
+<wikilink>
+<type>uri</type>
+<value>http://en.wikipedia.org/wiki/The_Degrees_of_Knowledge?oldid=606735945</value>
+</wikilink>
+</XML_Serializer_Tag>
+<XML_Serializer_Tag>
+<book>
+<type>uri</type>
+<value>http://dbpedia.org/resource/The_Person_and_the_Common_Good</value>
+</book>
+<author>
+<type>uri</type>
+<value>http://dbpedia.org/resource/Jacques_Maritain</value>
+</author>
+<published>
+<type>typed-literal</type>
+<datatype>http://www.w3.org/2001/XMLSchema#integer</datatype>
+<value>1947</value>
+</published>
+<wikilink>
+<type>uri</type>
+<value>http://en.wikipedia.org/wiki/The_Person_and_the_Common_Good?oldid=605818939</value>
+</wikilink>
+</XML_Serializer_Tag>
+</books>
+</Person>

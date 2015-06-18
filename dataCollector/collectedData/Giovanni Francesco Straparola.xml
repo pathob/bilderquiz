@@ -1,0 +1,32 @@
+<Person>
+<name>Giovanni Francesco Straparola</name>
+<variantName>
+<XML_Serializer_Tag>Giovanni F. Strapparola</XML_Serializer_Tag>
+<XML_Serializer_Tag>Jean F. Straparole</XML_Serializer_Tag>
+<XML_Serializer_Tag>Gian F. Straparola</XML_Serializer_Tag>
+<XML_Serializer_Tag>... Straparola</XML_Serializer_Tag>
+<XML_Serializer_Tag>Giovan F. Straparola</XML_Serializer_Tag>
+<XML_Serializer_Tag>Giovan Francesco Straparola</XML_Serializer_Tag>
+<XML_Serializer_Tag>Giovanni F. Straparola</XML_Serializer_Tag>
+<XML_Serializer_Tag>Giovanfrancesco Straparola</XML_Serializer_Tag>
+<XML_Serializer_Tag>Gianfrancesco Straparola</XML_Serializer_Tag>
+<XML_Serializer_Tag>Giovan Francesco Straparola de Caravaggio</XML_Serializer_Tag>
+<XML_Serializer_Tag>Giovanfrancesco Straparola da Caravaggio</XML_Serializer_Tag>
+</variantName>
+<thumbnail>https://commons.wikimedia.org/wiki/Special:FilePath/Straparola.jpg?width=270</thumbnail>
+<birthEN>1480</birthEN>
+<birthDE>1480</birthDE>
+<deathEN>1557</deathEN>
+<deathDE>1557</deathDE>
+<birthPlace />
+<deathPlace />
+<professionOrOccupation>
+<XML_Serializer_Tag>Schriftsteller</XML_Serializer_Tag>
+</professionOrOccupation>
+<dbpResource>http://dbpedia.org/resource/Giovanni_Francesco_Straparola</dbpResource>
+<abstract>Giovanni Francesco Straparola (da Caravaggio) (* um 1480 in Caravaggio bei Bergamo; † um 1558 in Venedig ?) war ein italienischer Märchensammler Europas.</abstract>
+<wikilink>http://en.wikipedia.org/wiki/Giovanni_Francesco_Straparola?oldid=602353879</wikilink>
+<artworks />
+<buildings />
+<books />
+</Person>

@@ -1,0 +1,56 @@
+<Person>
+<name>Tommaso Campanella</name>
+<variantName>
+<XML_Serializer_Tag>Thomas Campanella</XML_Serializer_Tag>
+<XML_Serializer_Tag>Giovanni D. Campanella</XML_Serializer_Tag>
+<XML_Serializer_Tag>Franciscus Campanella</XML_Serializer_Tag>
+<XML_Serializer_Tag>Tomaso Campanella</XML_Serializer_Tag>
+<XML_Serializer_Tag>Giovanni Domenico Campanella</XML_Serializer_Tag>
+<XML_Serializer_Tag>T. Campanella</XML_Serializer_Tag>
+<XML_Serializer_Tag>Tommazo Campanella</XML_Serializer_Tag>
+<XML_Serializer_Tag>Tomasso Campanella</XML_Serializer_Tag>
+<XML_Serializer_Tag>F. Thomas Campanella</XML_Serializer_Tag>
+<XML_Serializer_Tag>Fr. Tomaso Campanella</XML_Serializer_Tag>
+<XML_Serializer_Tag>F.-Th. Campanella</XML_Serializer_Tag>
+</variantName>
+<thumbnail>https://commons.wikimedia.org/wiki/Special:FilePath/Campanella-2.png?width=270</thumbnail>
+<birthEN>1568</birthEN>
+<birthDE>1568</birthDE>
+<deathEN>1639</deathEN>
+<deathDE>1639</deathDE>
+<birthPlace />
+<deathPlace />
+<professionOrOccupation>
+<XML_Serializer_Tag>Philosoph</XML_Serializer_Tag>
+</professionOrOccupation>
+<dbpResource>http://dbpedia.org/resource/Tommaso_Campanella</dbpResource>
+<abstract>Tommaso Campanella (* 5. September 1568 in Stilo (Kalabrien); † 21. Mai 1639 in Paris; eigentlich Giovanni Domenico) war ein italienischer Philosoph, Dominikaner, neulateinischer Dichter und Politiker.Campanella entwarf 1602 in La città del Sole (auch Civitas solis, deutsch Der Sonnenstaat) die Utopie eines Gemeinwesens mit Zügen der spanischen Universalmonarchie, des Katholizismus, des Sozialismus (kein Privateigentum) und Anteilen aus der platonischen Staatsphilosophie (z. B. Weibergemeinschaft, Herrschaft der Wissenden, der Philosophen oder die Gelehrtenrepublik).</abstract>
+<wikilink>http://en.wikipedia.org/wiki/Tommaso_Campanella?oldid=604647273</wikilink>
+<artworks />
+<buildings />
+<books>
+<XML_Serializer_Tag>
+<book>
+<type>uri</type>
+<value>http://dbpedia.org/resource/The_City_of_the_Sun</value>
+</book>
+<author>
+<type>uri</type>
+<value>http://dbpedia.org/resource/Tommaso_Campanella</value>
+</author>
+<thumbnail>
+<type>uri</type>
+<value>http://commons.wikimedia.org/wiki/Special:FilePath/Civitas_Soli.jpg?width=300</value>
+</thumbnail>
+<wikilink>
+<type>uri</type>
+<value>http://en.wikipedia.org/wiki/The_City_of_the_Sun?oldid=587554618</value>
+</wikilink>
+<abstract>
+<type>literal</type>
+<xml:lang>de</xml:lang>
+<value>La città del Sole oder auch Civitas solis (deutsch „Sonnenstadt“) ist ein 1602 von dem Dominikaner Tommaso Campanella verfasstes und 1623 publiziertes Werk, das den wirtschaftlichen und politischen Aufbau des idealen Staates darstellt. Er führt alle sozialen Übel auf das Privateigentum zurück. Dieses will er mit seiner voll kollektivistischen Gesellschaftsordnung, welche sämtliche Lebensbereiche umfasst, beseitigen. Genau ermittelte Bedarfspläne bestimmen nach ihm die Produktion. Die Institution der Familie, welche das materielle Denken fördert und deshalb das Privateigentum stützt, soll aufgelöst werden. An ihrer Stelle soll ein Weiber- und Kinderkommunismus verwirklicht werden, der eugenischen Zielen dient. Im „Sonnenstaat“ bedeutet die Gattung alles, das Individuum nichts. Politisch träumt Campanella von einer päpstlichen Universalmonarchie; im „Sonnenstaat“ liegt daher die Macht absolutistisch in den Händen der priesterlichen Hierarchie.Campanellas Kommunismus entspringt „weniger ... humanitär-eudämonischen Idealen als ... ethisch-religiösen Motiven ... Gegenüber dem neuzeitlich liberalen, auf das Empirische gerichteten Geist, der die Utopie eines Thomas Morus (Sir Thomas More) durchdringt, stellt Campanellas Staat eine Reaktion und Wendung zum Platonischen Rigorismus dar“ (Girsberger, „Der utopische Sozialismus des 18. Jahrhunderts in Frankreich und seine philosophischen und materiellen Grundlagen“, 1924).</value>
+</abstract>
+</XML_Serializer_Tag>
+</books>
+</Person>

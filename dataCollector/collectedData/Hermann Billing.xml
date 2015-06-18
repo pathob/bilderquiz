@@ -1,0 +1,24 @@
+<Person>
+<name>Hermann Billing</name>
+<variantName />
+<thumbnail>https://commons.wikimedia.org/wiki/Special:FilePath/Billing_1909.jpg?width=270</thumbnail>
+<birthEN>February 7, 1867</birthEN>
+<birthDE>7. Februar 1867</birthDE>
+<deathEN>March 2, 1946</deathEN>
+<deathDE>2. März 1946</deathDE>
+<birthPlace>
+<XML_Serializer_Tag>Karlsruhe</XML_Serializer_Tag>
+</birthPlace>
+<deathPlace>
+<XML_Serializer_Tag>Karlsruhe</XML_Serializer_Tag>
+</deathPlace>
+<professionOrOccupation>
+<XML_Serializer_Tag>Architekt</XML_Serializer_Tag>
+</professionOrOccupation>
+<dbpResource>http://dbpedia.org/resource/Hermann_Billing</dbpResource>
+<abstract>Hermann Billing (* 7. Februar 1867 in Karlsruhe; † 2. März 1946 ebenda) war ein deutscher Architekt, Designer und Hochschullehrer. Er gilt als einer der bedeutendsten Vertreter des Jugendstils in Karlsruhe und ganz Südwestdeutschland.</abstract>
+<wikilink>http://en.wikipedia.org/wiki/Hermann_Billing?oldid=601044857</wikilink>
+<artworks />
+<buildings />
+<books />
+</Person>

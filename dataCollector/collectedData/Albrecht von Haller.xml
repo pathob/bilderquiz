@@ -1,0 +1,46 @@
+<Person>
+<name>Albrecht von Haller</name>
+<variantName>
+<XML_Serializer_Tag>A. von Haller</XML_Serializer_Tag>
+<XML_Serializer_Tag>Johann A. von Haller</XML_Serializer_Tag>
+<XML_Serializer_Tag>... Haller</XML_Serializer_Tag>
+<XML_Serializer_Tag>Albert de Haller</XML_Serializer_Tag>
+<XML_Serializer_Tag>... de Haller</XML_Serializer_Tag>
+<XML_Serializer_Tag>Alberto Haller</XML_Serializer_Tag>
+<XML_Serializer_Tag>Alberto de Haller</XML_Serializer_Tag>
+<XML_Serializer_Tag>Albertus von Haller</XML_Serializer_Tag>
+<XML_Serializer_Tag>Albertus de Haller</XML_Serializer_Tag>
+<XML_Serializer_Tag>Victor A. von Haller</XML_Serializer_Tag>
+<XML_Serializer_Tag>Albert Haller</XML_Serializer_Tag>
+<XML_Serializer_Tag>Albertus Hallerus</XML_Serializer_Tag>
+<XML_Serializer_Tag>... Hallerus</XML_Serializer_Tag>
+<XML_Serializer_Tag>Albertus Haller</XML_Serializer_Tag>
+<XML_Serializer_Tag>Albert von Haller</XML_Serializer_Tag>
+<XML_Serializer_Tag>Albertus von Hallerus</XML_Serializer_Tag>
+</variantName>
+<thumbnail>https://commons.wikimedia.org/wiki/Special:FilePath/Albrecht_von_Haller_1736.jpg?width=270</thumbnail>
+<birthEN>October 16, 1708</birthEN>
+<birthDE>16. Oktober 1708</birthDE>
+<deathEN>December 12, 1777</deathEN>
+<deathDE>12. Dezember 1777</deathDE>
+<birthPlace>
+<XML_Serializer_Tag>Bern</XML_Serializer_Tag>
+</birthPlace>
+<deathPlace>
+<XML_Serializer_Tag>Bern</XML_Serializer_Tag>
+</deathPlace>
+<professionOrOccupation>
+<XML_Serializer_Tag>Arzt</XML_Serializer_Tag>
+<XML_Serializer_Tag>Botaniker</XML_Serializer_Tag>
+<XML_Serializer_Tag>Schriftsteller</XML_Serializer_Tag>
+<XML_Serializer_Tag>Physiologe</XML_Serializer_Tag>
+<XML_Serializer_Tag>Mathematiker</XML_Serializer_Tag>
+<XML_Serializer_Tag>Naturwissenschaftler</XML_Serializer_Tag>
+</professionOrOccupation>
+<dbpResource>http://dbpedia.org/resource/Albrecht_von_Haller</dbpResource>
+<abstract>Albrecht von Haller (* 16. Oktober 1708 in Bern; † 12. Dezember 1777 ebenda) war ein Schweizer Mediziner, Botaniker und Wissenschaftspublizist in der Zeit der Aufklärung. Hallers botanisches Autorenkürzel lautet „Haller“, es ist aber auch „Hall.“ in Gebrauch.Wegen des breiten Spektrums seiner Fähigkeiten galt Haller als Universalgelehrter. Er war ein Schwiegersohn des Anatomen Hermann Friedrich Teichmeyer. Seine Leistungen auf anatomischem und bibliographischem Gebiet waren für die Medizin von nachhaltiger Bedeutung. Daneben trat Haller als Dichter und Literaturkritiker hervor. Bleibende Bekanntheit erlangte er in diesem Bereich vor allem als Schöpfer der monumentalen Dichtung Die Alpen.</abstract>
+<wikilink>http://en.wikipedia.org/wiki/Albrecht_von_Haller?oldid=603028442</wikilink>
+<artworks />
+<buildings />
+<books />
+</Person>

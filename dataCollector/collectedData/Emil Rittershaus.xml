@@ -1,0 +1,28 @@
+<Person>
+<name>Emil Rittershaus</name>
+<variantName>
+<XML_Serializer_Tag>Friedrich Emil Rittershaus</XML_Serializer_Tag>
+</variantName>
+<thumbnail>https://commons.wikimedia.org/wiki/Special:FilePath/Emil_Rittershaus-2.jpg?width=270</thumbnail>
+<birthEN>April 3, 1834</birthEN>
+<birthDE>3. April 1834</birthDE>
+<deathEN>March 8, 1897</deathEN>
+<deathDE>8. März 1897</deathDE>
+<birthPlace>
+<XML_Serializer_Tag>Barmen</XML_Serializer_Tag>
+</birthPlace>
+<deathPlace>
+<XML_Serializer_Tag>Barmen</XML_Serializer_Tag>
+</deathPlace>
+<professionOrOccupation>
+<XML_Serializer_Tag>Schriftsteller</XML_Serializer_Tag>
+<XML_Serializer_Tag>Lyriker</XML_Serializer_Tag>
+<XML_Serializer_Tag>Kaufmann</XML_Serializer_Tag>
+</professionOrOccupation>
+<dbpResource>http://dbpedia.org/resource/Emil_Rittershaus</dbpResource>
+<abstract>Friedrich Emil Rittershaus, Rufname: Emil (* 3. April 1834 in Barmen (heute zu Wuppertal); † 8. März 1897 ebenda) war Kaufmann und ein deutscher Dichter. Er verfasste zahlreiche Erzählungen, Gedichte und Romane. Bis heute bekannt ist er vor allem als Verfasser des Westfalenliedes. In den Barmer Anlagen, einem alten Park in Wuppertal-Barmen, steht ein lebensgroßes Rittershaus-Denkmal. Ein weiteres Denkmal steht in Menden an der Stadtgrenze zu Iserlohn an der Stelle, wo Rittershaus zu dem Text des Westfalenliedes inspiriert worden sein soll. Des Weiteren sind in etlichen Orten Straßen und Plätze nach ihm benannt.</abstract>
+<wikilink>http://en.wikipedia.org/wiki/Emil_Rittershaus?oldid=576689004</wikilink>
+<artworks />
+<buildings />
+<books />
+</Person>

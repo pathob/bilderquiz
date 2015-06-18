@@ -1,0 +1,101 @@
+<Person>
+<name>Ian Livingstone</name>
+<variantName />
+<thumbnail>https://commons.wikimedia.org/wiki/Special:FilePath/Ian_Livingstone.jpg?width=270</thumbnail>
+<birthEN>1949</birthEN>
+<birthDE>1949</birthDE>
+<deathEN />
+<deathDE />
+<birthPlace>
+<XML_Serializer_Tag>Manchester</XML_Serializer_Tag>
+</birthPlace>
+<deathPlace />
+<professionOrOccupation>
+<XML_Serializer_Tag>Fantasy-Autor</XML_Serializer_Tag>
+<XML_Serializer_Tag>Spieleentwickler</XML_Serializer_Tag>
+<XML_Serializer_Tag>Schriftsteller</XML_Serializer_Tag>
+<XML_Serializer_Tag>Unternehmer</XML_Serializer_Tag>
+</professionOrOccupation>
+<dbpResource>http://dbpedia.org/resource/Ian_Livingstone</dbpResource>
+<abstract>Ian Livingstone, CBE (* Dezember 1949 in Manchester) ist ein britischer Fantasy-Autor und Unternehmer in der Spiel- und Computerspiel-Industrie. Zusammen mit Steve Jackson hat er: das erste Pen-&amp;-Paper-Rollenspiel (Dungeons and Dragons) nach Europa gebracht die Firma Games Workshop gegründet das interaktive Buch erfunden das Spiel Warhammer entwickelt die Veranstaltung Games Day ins Leben gerufenZudem war er bereits 1985 als Computerspiel-Designer tätig und hat seither (vor allem ab 1995) aktiv in der Entwicklung vieler Computerspiele mitgewirkt, zuletzt als Creative Director bei Eidos Interactive. Als Schriftsteller hat er eine ganze Reihe von Gamebooks der Fighting-Fantasy-Reihe geschrieben, die er zusammen mit Steve Jackson ins Leben gerufen hat und deren Bücher sich über 15 Millionen mal verkauft haben. Für seine Verdienste ist er mehrfach ausgezeichnet worden.</abstract>
+<wikilink>http://en.wikipedia.org/wiki/Ian_Livingstone?oldid=603901357</wikilink>
+<artworks />
+<buildings />
+<books>
+<XML_Serializer_Tag>
+<book>
+<type>uri</type>
+<value>http://dbpedia.org/resource/The_Warlock_of_Firetop_Mountain</value>
+</book>
+<author>
+<type>uri</type>
+<value>http://dbpedia.org/resource/Ian_Livingstone</value>
+</author>
+<wikilink>
+<type>uri</type>
+<value>http://en.wikipedia.org/wiki/The_Warlock_of_Firetop_Mountain?oldid=600867147</value>
+</wikilink>
+<abstract>
+<type>literal</type>
+<xml:lang>de</xml:lang>
+<value>Der Hexenmeister vom flammenden Berg (englischer Originaltitel: The Warlock of Firetop Mountain) war ein frühes von Ian Livingstone und Steve Jackson entwickeltes Spielbuch. Es erschien erstmals 1982 und war kommerziell sehr erfolgreich. Der Erfolg führte zu zahlreichen Nachfolgern und zur Begründung des Genres der Spielbücher. Im englischen Sprachraum erscheint es in einer Sammelreihe mit dem kollektiven Namen Fighting Fantasy.</value>
+</abstract>
+</XML_Serializer_Tag>
+<XML_Serializer_Tag>
+<book>
+<type>uri</type>
+<value>http://dbpedia.org/resource/Deathtrap_Dungeon</value>
+</book>
+<author>
+<type>uri</type>
+<value>http://dbpedia.org/resource/Ian_Livingstone</value>
+</author>
+<wikilink>
+<type>uri</type>
+<value>http://en.wikipedia.org/wiki/Deathtrap_Dungeon?oldid=602770695</value>
+</wikilink>
+</XML_Serializer_Tag>
+<XML_Serializer_Tag>
+<book>
+<type>uri</type>
+<value>http://dbpedia.org/resource/Island_of_the_Lizard_King</value>
+</book>
+<author>
+<type>uri</type>
+<value>http://dbpedia.org/resource/Ian_Livingstone</value>
+</author>
+<wikilink>
+<type>uri</type>
+<value>http://en.wikipedia.org/wiki/Island_of_the_Lizard_King?oldid=600869941</value>
+</wikilink>
+</XML_Serializer_Tag>
+<XML_Serializer_Tag>
+<book>
+<type>uri</type>
+<value>http://dbpedia.org/resource/The_Forest_of_Doom</value>
+</book>
+<author>
+<type>uri</type>
+<value>http://dbpedia.org/resource/Ian_Livingstone</value>
+</author>
+<wikilink>
+<type>uri</type>
+<value>http://en.wikipedia.org/wiki/The_Forest_of_Doom?oldid=600867265</value>
+</wikilink>
+</XML_Serializer_Tag>
+<XML_Serializer_Tag>
+<book>
+<type>uri</type>
+<value>http://dbpedia.org/resource/City_of_Thieves_(gamebook)</value>
+</book>
+<author>
+<type>uri</type>
+<value>http://dbpedia.org/resource/Ian_Livingstone</value>
+</author>
+<wikilink>
+<type>uri</type>
+<value>http://en.wikipedia.org/wiki/City_of_Thieves_(gamebook)?oldid=606288894</value>
+</wikilink>
+</XML_Serializer_Tag>
+</books>
+</Person>

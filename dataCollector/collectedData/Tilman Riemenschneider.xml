@@ -1,0 +1,32 @@
+<Person>
+<name>Tilman Riemenschneider</name>
+<variantName>
+<XML_Serializer_Tag>Tillmann Riemenschneider</XML_Serializer_Tag>
+<XML_Serializer_Tag>Tylmann Riemenschneider</XML_Serializer_Tag>
+<XML_Serializer_Tag>Thilman Riemenschneider</XML_Serializer_Tag>
+<XML_Serializer_Tag>Tilman Riemeschneider</XML_Serializer_Tag>
+<XML_Serializer_Tag>Tilman Rimschneider</XML_Serializer_Tag>
+<XML_Serializer_Tag>Tilman Rimenschneider</XML_Serializer_Tag>
+</variantName>
+<thumbnail>https://commons.wikimedia.org/wiki/Special:FilePath/Tilman_riemenschneider.jpg?width=270</thumbnail>
+<birthEN>XX.XX.1460</birthEN>
+<birthDE>XX.XX.1460</birthDE>
+<deathEN>July 7, 1531</deathEN>
+<deathDE>7. Juli 1531</deathDE>
+<birthPlace>
+<XML_Serializer_Tag>Heilbad Heiligenstadt</XML_Serializer_Tag>
+</birthPlace>
+<deathPlace>
+<XML_Serializer_Tag>Würzburg</XML_Serializer_Tag>
+</deathPlace>
+<professionOrOccupation>
+<XML_Serializer_Tag>Künstler</XML_Serializer_Tag>
+<XML_Serializer_Tag>Bildhauer</XML_Serializer_Tag>
+</professionOrOccupation>
+<dbpResource>http://dbpedia.org/resource/Tilman_Riemenschneider</dbpResource>
+<abstract>Tilman Riemenschneider (* um 1460 in Heiligenstadt; † 7. Juli 1531 in Würzburg) war einer der bedeutendsten Bildschnitzer und Bildhauer am Übergang von der Spätgotik zur Renaissance um 1500.</abstract>
+<wikilink>http://en.wikipedia.org/wiki/Tilman_Riemenschneider?oldid=590495782</wikilink>
+<artworks />
+<buildings />
+<books />
+</Person>

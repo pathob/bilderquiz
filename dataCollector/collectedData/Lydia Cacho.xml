@@ -1,0 +1,27 @@
+<Person>
+<name>Lydia Cacho</name>
+<variantName>
+<XML_Serializer_Tag>Lydia Cacho Ribeiro</XML_Serializer_Tag>
+<XML_Serializer_Tag>Lydia Cacho Ribeiro</XML_Serializer_Tag>
+</variantName>
+<thumbnail>https://commons.wikimedia.org/wiki/Special:FilePath/Lydia-Cacho_by_Mari_Resendiz.jpg?width=270</thumbnail>
+<birthEN>1963</birthEN>
+<birthDE>1963</birthDE>
+<deathEN />
+<deathDE />
+<birthPlace>
+<XML_Serializer_Tag>Mexiko (Stadt)</XML_Serializer_Tag>
+</birthPlace>
+<deathPlace />
+<professionOrOccupation>
+<XML_Serializer_Tag>Schriftstellerin</XML_Serializer_Tag>
+<XML_Serializer_Tag>Journalistin</XML_Serializer_Tag>
+<XML_Serializer_Tag>Feministin</XML_Serializer_Tag>
+</professionOrOccupation>
+<dbpResource>http://dbpedia.org/resource/Lydia_Cacho</dbpResource>
+<abstract>Lydia Cacho Ribeiro (* 12. April 1963 in Mexiko-Stadt) ist eine mexikanische Journalistin, Feministin und Menschenrechtsaktivistin.</abstract>
+<wikilink>http://en.wikipedia.org/wiki/Lydia_Cacho?oldid=606460644</wikilink>
+<artworks />
+<buildings />
+<books />
+</Person>

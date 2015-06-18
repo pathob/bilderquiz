@@ -1,0 +1,37 @@
+<Person>
+<name>Henry Sidgwick</name>
+<variantName>
+<XML_Serializer_Tag>H. Sidgwick</XML_Serializer_Tag>
+</variantName>
+<thumbnail>https://commons.wikimedia.org/wiki/Special:FilePath/Henry_Sidgwick.jpg?width=270</thumbnail>
+<birthEN>1838</birthEN>
+<birthDE>1838</birthDE>
+<deathEN>1900</deathEN>
+<deathDE>1900</deathDE>
+<birthPlace />
+<deathPlace />
+<professionOrOccupation>
+<XML_Serializer_Tag>Philosoph</XML_Serializer_Tag>
+</professionOrOccupation>
+<dbpResource>http://dbpedia.org/resource/Henry_Sidgwick</dbpResource>
+<abstract>Henry Sidgwick (* 31. Mai 1838 in Skipton, Yorkshire; † 28. August 1900 in Cambridge) war ein englischer Philosoph. Er gilt im angelsächsischen Raum vielfach als der erste „moderne“ Moralphilosoph.Sidgwick besuchte ab 1855 das Trinity College in Cambridge. Im Jahre 1857 wurde er Mitglied der stark von den liberalen Ideen John Stuart Mills beeinflussten Cambridger Diskussionsgesellschaft Apostles und löste sich schrittweise von seinem religiös geprägten Elternhaus. 1859 wurde er „Fellow of Trinity“ und Tutor für Altphilologie. 1869 musste er diese Position aufgeben, da er sich geweigert hatte, die für Fellows verbindlichen 39 Glaubensartikel der Church of England zu unterschreiben.Daraufhin wurde für ihn die Position eines Lecturer in Moral Sciences an der Universität Cambridge geschaffen, die kein Glaubensbekenntnis erforderte. 1883 wurde er dort Professor für Moralphilosophie. Zu seinen Studenten gehörte u.a. George Edward Moore.Zusammen mit seiner Frau Eleanor Mildred Sidgwick (die Schwester des späteren Premierministers Arthur Balfour) setzte sich Sidgwick dafür ein, auch Frauen eine akademische Ausbildung zu ermöglichen. Die Bemühungen führten zunächst am Trinity College zur Einrichtung von einzelnen Lehrveranstaltungen für weibliche Studenten, im Jahre 1871 dann zur Gründung des Newnham College in Cambridge, dessen Direktorin 1892 seine Frau Eleanor wurde. Frauen konnten dort erstmals in Großbritannien ein vollständiges Studium absolvieren. Insbesondere aufgrund seines Hauptwerks The Methods of Ethics gilt Sidgwick als wichtiger Vertreter der Moralphilosophie. In kritischer Auseinandersetzung mit den Victorian Moralists (William Whewell u.a.) und den Vätern des Utilitarismus (John Stuart Mill, Jeremy Bentham) versuchte er die Common-sense-Moral mit dem Utilitarismus in Einklang zu bringen. 1882 war Sidgwick ein Mitbegründer der Society for Psychical Research und bis 1884 deren erster (und 1888–1892 dritter) Präsident.</abstract>
+<wikilink>http://en.wikipedia.org/wiki/Henry_Sidgwick?oldid=606050546</wikilink>
+<artworks />
+<buildings />
+<books>
+<XML_Serializer_Tag>
+<book>
+<type>uri</type>
+<value>http://dbpedia.org/resource/The_Methods_of_Ethics</value>
+</book>
+<author>
+<type>uri</type>
+<value>http://dbpedia.org/resource/Henry_Sidgwick</value>
+</author>
+<wikilink>
+<type>uri</type>
+<value>http://en.wikipedia.org/wiki/The_Methods_of_Ethics?oldid=602392591</value>
+</wikilink>
+</XML_Serializer_Tag>
+</books>
+</Person>

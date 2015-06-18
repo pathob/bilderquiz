@@ -1,0 +1,34 @@
+<Person>
+<name>Johann Beckmann</name>
+<variantName>
+<XML_Serializer_Tag>Johann Beckmann von Hoya</XML_Serializer_Tag>
+<XML_Serializer_Tag>Johann B. von Hoya</XML_Serializer_Tag>
+<XML_Serializer_Tag>Joannes Beckmannus</XML_Serializer_Tag>
+<XML_Serializer_Tag>Johannes Beckmannus</XML_Serializer_Tag>
+<XML_Serializer_Tag>John Beckmann</XML_Serializer_Tag>
+<XML_Serializer_Tag>Johannes Beckmann</XML_Serializer_Tag>
+</variantName>
+<thumbnail>https://commons.wikimedia.org/wiki/Special:FilePath/Johann_Beckmann_groß.jpg?width=270</thumbnail>
+<birthEN>June 4, 1739</birthEN>
+<birthDE>4. Juni 1739</birthDE>
+<deathEN>February 3, 1811</deathEN>
+<deathDE>3. Februar 1811</deathDE>
+<birthPlace>
+<XML_Serializer_Tag>Hoya</XML_Serializer_Tag>
+</birthPlace>
+<deathPlace>
+<XML_Serializer_Tag>Göttingen</XML_Serializer_Tag>
+</deathPlace>
+<professionOrOccupation>
+<XML_Serializer_Tag>Wirtschaftswissenschaftler</XML_Serializer_Tag>
+<XML_Serializer_Tag>Landwirt</XML_Serializer_Tag>
+<XML_Serializer_Tag>Philosoph</XML_Serializer_Tag>
+<XML_Serializer_Tag>Physiker</XML_Serializer_Tag>
+</professionOrOccupation>
+<dbpResource>http://dbpedia.org/resource/Johann_Beckmann</dbpResource>
+<abstract>Johann Beckmann (* 4. Juni 1739 in Hoya; † 3. Februar 1811 in Göttingen) war ein deutscher Wissenschaftler in der Zeit der Aufklärung. Sein Hauptwerk zielte auf die Begründung einer allgemeinen Technologie als ganzheitliche Wissenschaft von der Technik und ihren Einsatzmöglichkeiten. Der Begriff „Technologie“ wurde 1772 von ihm eingeführt. Er gilt auch als Begründer der Warenkunde und der kritischen Technikgeschichtsschreibung sowie als einer der Väter der Agrarwissenschaften.</abstract>
+<wikilink>http://en.wikipedia.org/wiki/Johann_Beckmann?oldid=540485340</wikilink>
+<artworks />
+<buildings />
+<books />
+</Person>

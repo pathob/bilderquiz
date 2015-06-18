@@ -1,0 +1,31 @@
+<Person>
+<name>Frederick Kiesler</name>
+<variantName>
+<XML_Serializer_Tag>Friedrich Kiesler</XML_Serializer_Tag>
+<XML_Serializer_Tag>Frédéric Kiesler</XML_Serializer_Tag>
+<XML_Serializer_Tag>Frederick J. Kiesler</XML_Serializer_Tag>
+</variantName>
+<thumbnail>https://commons.wikimedia.org/wiki/Special:FilePath/F._Kiesler_1.jpg?width=270</thumbnail>
+<birthEN>1890</birthEN>
+<birthDE>1890</birthDE>
+<deathEN>1965</deathEN>
+<deathDE>1965</deathDE>
+<birthPlace>
+<XML_Serializer_Tag>Tschernowzy</XML_Serializer_Tag>
+</birthPlace>
+<deathPlace>
+<XML_Serializer_Tag>New York, NY</XML_Serializer_Tag>
+</deathPlace>
+<professionOrOccupation>
+<XML_Serializer_Tag>Architekt</XML_Serializer_Tag>
+<XML_Serializer_Tag>Bühnenbildner</XML_Serializer_Tag>
+<XML_Serializer_Tag>Designer</XML_Serializer_Tag>
+<XML_Serializer_Tag>Bildhauer</XML_Serializer_Tag>
+</professionOrOccupation>
+<dbpResource>http://dbpedia.org/resource/Frederick_John_Kiesler</dbpResource>
+<abstract>Friedrich Kiesler (* 22. September 1890 in Czernowitz, Bukowina, Österreich-Ungarn; † 27. Dezember 1965 in New York City; auch engl.: Frederick Kiesler) war ein österreichisch-amerikanischer Architekt, bildender Künstler, Designer und Bühnenbildner. Er verbrachte den ersten Teil seines Lebens in Europa, bevor er 1926 in die USA emigrierte, dort sein Werk fortsetzte und mit dem Schrein des Buches in Jerusalem, gleichsam seinem Lebenswerk, 1965 vollendete.</abstract>
+<wikilink>http://en.wikipedia.org/wiki/Frederick_John_Kiesler?oldid=597934765</wikilink>
+<artworks />
+<buildings />
+<books />
+</Person>

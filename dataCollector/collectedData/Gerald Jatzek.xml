@@ -1,0 +1,28 @@
+<Person>
+<name>Gerald Jatzek</name>
+<variantName>
+<XML_Serializer_Tag>Gerald Jatzek</XML_Serializer_Tag>
+</variantName>
+<thumbnail>https://commons.wikimedia.org/wiki/Special:FilePath/GeraldJatzek1000711.JPG?width=270</thumbnail>
+<birthEN>1956</birthEN>
+<birthDE>1956</birthDE>
+<deathEN />
+<deathDE />
+<birthPlace>
+<XML_Serializer_Tag>Wien</XML_Serializer_Tag>
+</birthPlace>
+<deathPlace />
+<professionOrOccupation>
+<XML_Serializer_Tag>Schriftsteller</XML_Serializer_Tag>
+<XML_Serializer_Tag>Musiker</XML_Serializer_Tag>
+<XML_Serializer_Tag>Journalist</XML_Serializer_Tag>
+<XML_Serializer_Tag>Redakteur</XML_Serializer_Tag>
+<XML_Serializer_Tag>Kinderbuchautor</XML_Serializer_Tag>
+</professionOrOccupation>
+<dbpResource>http://dbpedia.org/resource/Gerald_Jatzek</dbpResource>
+<abstract>Gerald Jatzek (* 23. Jänner 1956 in Wien) ist ein österreichischer Autor, Musiker und Journalist.</abstract>
+<wikilink>http://en.wikipedia.org/wiki/Gerald_Jatzek?oldid=542726642</wikilink>
+<artworks />
+<buildings />
+<books />
+</Person>

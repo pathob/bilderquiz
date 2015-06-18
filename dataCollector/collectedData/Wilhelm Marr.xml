@@ -1,0 +1,25 @@
+<Person>
+<name>Wilhelm Marr</name>
+<variantName>
+<XML_Serializer_Tag>W. Marr</XML_Serializer_Tag>
+<XML_Serializer_Tag>W. M.</XML_Serializer_Tag>
+</variantName>
+<thumbnail>https://commons.wikimedia.org/wiki/Special:FilePath/Wilhelm_Marr.jpg?width=270</thumbnail>
+<birthEN>November 16, 1819</birthEN>
+<birthDE>16. November 1819</birthDE>
+<deathEN>July 17, 1904</deathEN>
+<deathDE>17. Juli 1904</deathDE>
+<birthPlace />
+<deathPlace />
+<professionOrOccupation>
+<XML_Serializer_Tag>Publizist</XML_Serializer_Tag>
+<XML_Serializer_Tag>Schriftsteller</XML_Serializer_Tag>
+<XML_Serializer_Tag>Antisemit</XML_Serializer_Tag>
+</professionOrOccupation>
+<dbpResource>http://dbpedia.org/resource/Wilhelm_Marr</dbpResource>
+<abstract>Friedrich Wilhelm Adolph Marr (* 16. November 1819 in Magdeburg; † 17. Juli 1904 in Hamburg) war ein deutscher Journalist. Er propagierte im deutschen Sprachraum als Erster den Anarchismus. 1879 prägte er den Begriff Antisemitismus und gründete die erste antisemitische politische Vereinigung: die Antisemitenliga.</abstract>
+<wikilink>http://en.wikipedia.org/wiki/Wilhelm_Marr?oldid=606021368</wikilink>
+<artworks />
+<buildings />
+<books />
+</Person>

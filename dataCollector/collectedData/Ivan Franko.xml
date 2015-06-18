@@ -1,0 +1,46 @@
+<Person>
+<name>Ivan Franko</name>
+<variantName>
+<XML_Serializer_Tag>Iwan Ja. Franko</XML_Serializer_Tag>
+<XML_Serializer_Tag>Ivan Ja. Franko</XML_Serializer_Tag>
+<XML_Serializer_Tag>I. Ja. Franko</XML_Serializer_Tag>
+<XML_Serializer_Tag>Iwan Franko</XML_Serializer_Tag>
+<XML_Serializer_Tag>Iwan J. Franko</XML_Serializer_Tag>
+<XML_Serializer_Tag>Ivan Iakovlevich Franko</XML_Serializer_Tag>
+<XML_Serializer_Tag>Ivan Jakovlevič Franko</XML_Serializer_Tag>
+<XML_Serializer_Tag>Iwan Jakowlewitsch Franko</XML_Serializer_Tag>
+<XML_Serializer_Tag>Iwan Jakowytsch Franko</XML_Serializer_Tag>
+<XML_Serializer_Tag>Ivan Jakovlevyč Franko</XML_Serializer_Tag>
+<XML_Serializer_Tag>Īfān Frānkū</XML_Serializer_Tag>
+<XML_Serializer_Tag>Joannes Franko</XML_Serializer_Tag>
+<XML_Serializer_Tag>I. Ia. Franko</XML_Serializer_Tag>
+<XML_Serializer_Tag>Ivan Iakovych Franko</XML_Serializer_Tag>
+<XML_Serializer_Tag>Ivan Jakovyč Franko</XML_Serializer_Tag>
+<XML_Serializer_Tag>Iv. Franko</XML_Serializer_Tag>
+<XML_Serializer_Tag>Jv. Franko</XML_Serializer_Tag>
+<XML_Serializer_Tag>Ivan Jakovič Franko</XML_Serializer_Tag>
+</variantName>
+<thumbnail>https://commons.wikimedia.org/wiki/Special:FilePath/IvanFranko1886.jpg?width=270</thumbnail>
+<birthEN>August 27, 1856</birthEN>
+<birthDE>27. August 1856</birthDE>
+<deathEN>May 28, 1916</deathEN>
+<deathDE>28. Mai 1916</deathDE>
+<birthPlace>
+<XML_Serializer_Tag>Nahujowice</XML_Serializer_Tag>
+</birthPlace>
+<deathPlace>
+<XML_Serializer_Tag>Lemberg</XML_Serializer_Tag>
+</deathPlace>
+<professionOrOccupation>
+<XML_Serializer_Tag>Schriftsteller</XML_Serializer_Tag>
+<XML_Serializer_Tag>Philologe</XML_Serializer_Tag>
+<XML_Serializer_Tag>Lyriker</XML_Serializer_Tag>
+<XML_Serializer_Tag>Politiker</XML_Serializer_Tag>
+</professionOrOccupation>
+<dbpResource>http://dbpedia.org/resource/Ivan_Franko</dbpResource>
+<abstract>Iwan Franko (ukrainisch Іван Франко, wiss. Transliteration Ivan Franko; * 27. August 1856 in Nahujewytschi, Galizien, Kaisertum Österreich; † 28. Mai 1916 in Lemberg, Galizien) war ukrainischer Schriftsteller, Journalist, Literaturkritiker und Übersetzer. Neben Taras Schewtschenko hatte er großen Einfluss auf die entstehende moderne ukrainische Literatur und die Entwicklung des nationalen ukrainischen Gedankens.</abstract>
+<wikilink>http://en.wikipedia.org/wiki/Ivan_Franko?oldid=599449726</wikilink>
+<artworks />
+<buildings />
+<books />
+</Person>

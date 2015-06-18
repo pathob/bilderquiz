@@ -1,0 +1,46 @@
+<Person>
+<name>Noah Gordon</name>
+<variantName>
+<XML_Serializer_Tag>F. Noah Gordon</XML_Serializer_Tag>
+<XML_Serializer_Tag>Noa Gordons</XML_Serializer_Tag>
+</variantName>
+<thumbnail>https://commons.wikimedia.org/wiki/Special:FilePath/Noah_Gordon_-_001.jpg?width=270</thumbnail>
+<birthEN>1926</birthEN>
+<birthDE>1926</birthDE>
+<deathEN />
+<deathDE />
+<birthPlace>
+<XML_Serializer_Tag>Worcester, Mass.</XML_Serializer_Tag>
+</birthPlace>
+<deathPlace />
+<professionOrOccupation>
+<XML_Serializer_Tag>Journalist</XML_Serializer_Tag>
+<XML_Serializer_Tag>Schriftsteller</XML_Serializer_Tag>
+</professionOrOccupation>
+<dbpResource>http://dbpedia.org/resource/Noah_Gordon_(novelist)</dbpResource>
+<abstract>Noah Gordon (* 11. November 1926 in Worcester/Massachusetts) ist ein US-amerikanischer Schriftsteller.</abstract>
+<wikilink>http://en.wikipedia.org/wiki/Noah_Gordon_(novelist)?oldid=597237907</wikilink>
+<artworks />
+<buildings />
+<books>
+<XML_Serializer_Tag>
+<book>
+<type>uri</type>
+<value>http://dbpedia.org/resource/The_Physician</value>
+</book>
+<author>
+<type>uri</type>
+<value>http://dbpedia.org/resource/Noah_Gordon_(novelist)</value>
+</author>
+<wikilink>
+<type>uri</type>
+<value>http://en.wikipedia.org/wiki/The_Physician?oldid=606691697</value>
+</wikilink>
+<abstract>
+<type>literal</type>
+<xml:lang>de</xml:lang>
+<value>Der Medicus ist ein historischer Roman des US-amerikanischen Schriftstellers Noah Gordon.Die amerikanische Originalausgabe mit dem Titel The Physician, erschienen im Jahr 1986 im Verlag Simon &amp; Schuster, New York, ist der erste Band einer Trilogie, welche sich mit der fiktiven Medizinerdynastie der Familie Cole beschäftigt. Sie beschreibt die historische Entwicklung des Arztberufs in einer Epoche Europas. Die deutsche Erstausgabe kam 1987 im Verlag Droemer Knaur in einer Übersetzung von Willy Thaler auf den Markt.</value>
+</abstract>
+</XML_Serializer_Tag>
+</books>
+</Person>

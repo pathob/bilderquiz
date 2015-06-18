@@ -1,0 +1,25 @@
+<Person>
+<name>Bodo Uhse</name>
+<variantName />
+<thumbnail>https://commons.wikimedia.org/wiki/Special:FilePath/Bodo_Uhse.jpg?width=270</thumbnail>
+<birthEN>March 12, 1904</birthEN>
+<birthDE>12. März 1904</birthDE>
+<deathEN>July 2, 1963</deathEN>
+<deathDE>2. Juli 1963</deathDE>
+<birthPlace>
+<XML_Serializer_Tag>Rastatt</XML_Serializer_Tag>
+</birthPlace>
+<deathPlace>
+<XML_Serializer_Tag>Berlin (Ost)</XML_Serializer_Tag>
+</deathPlace>
+<professionOrOccupation>
+<XML_Serializer_Tag>Schriftsteller</XML_Serializer_Tag>
+<XML_Serializer_Tag>Drehbuchautor</XML_Serializer_Tag>
+</professionOrOccupation>
+<dbpResource>http://dbpedia.org/resource/Bodo_Uhse</dbpResource>
+<abstract>Bodo Uhse (* 12. März 1904 in Rastatt; † 2. Juli 1963 in Berlin) war ein deutscher Schriftsteller, Journalist und politischer Aktivist.</abstract>
+<wikilink>http://en.wikipedia.org/wiki/Bodo_Uhse?oldid=592222243</wikilink>
+<artworks />
+<buildings />
+<books />
+</Person>

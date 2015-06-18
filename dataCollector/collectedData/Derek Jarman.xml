@@ -26,8 +26,10 @@
 <XML_Serializer_Tag>Kameramann</XML_Serializer_Tag>
 <XML_Serializer_Tag>Sprecher</XML_Serializer_Tag>
 </professionOrOccupation>
-<artworks />
 <dbpResource>http://dbpedia.org/resource/Derek_Jarman</dbpResource>
 <abstract>Derek Michael Jarman (* 31. Januar 1942 in Northwood, Middlesex, England; † 19. Februar 1994 im St. Bartholomy&apos;s Hospital, London) war ein britischer Filmregisseur und Künstler.</abstract>
 <wikilink>http://en.wikipedia.org/wiki/Derek_Jarman?oldid=595508339</wikilink>
+<artworks />
+<buildings />
+<books />
 </Person>

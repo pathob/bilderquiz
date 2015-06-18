@@ -1,0 +1,27 @@
+<Person>
+<name>Roman Opalka</name>
+<variantName>
+<XML_Serializer_Tag>Roman Opałka</XML_Serializer_Tag>
+</variantName>
+<thumbnail>https://commons.wikimedia.org/wiki/Special:FilePath/Roman_Opalka_(1995).png?width=270</thumbnail>
+<birthEN>August 27, 1931</birthEN>
+<birthDE>27. August 1931</birthDE>
+<deathEN>August 6, 2011</deathEN>
+<deathDE>6. August 2011</deathDE>
+<birthPlace>
+<XML_Serializer_Tag>Hocquincourt</XML_Serializer_Tag>
+</birthPlace>
+<deathPlace>
+<XML_Serializer_Tag>Rom</XML_Serializer_Tag>
+</deathPlace>
+<professionOrOccupation>
+<XML_Serializer_Tag>Künstler</XML_Serializer_Tag>
+<XML_Serializer_Tag>Photograph</XML_Serializer_Tag>
+</professionOrOccupation>
+<dbpResource>http://dbpedia.org/resource/Roman_Opa%C5%82ka</dbpResource>
+<abstract>Roman Opałka (* 27. August 1931 in Hocquincourt; † 6. August 2011 in Rom, Italien) war ein französisch-polnischer Künstler, der sich in seinem Werk insbesondere mit der Frage der Zeitlichkeit künstlerisch auseinandergesetzt hat. In der Kunstwissenschaft wird seine Arbeit in der Regel der Konzeptkunst zugeordnet.</abstract>
+<wikilink>http://en.wikipedia.org/wiki/Roman_Opałka?oldid=582779407</wikilink>
+<artworks />
+<buildings />
+<books />
+</Person>

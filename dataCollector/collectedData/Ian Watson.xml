@@ -1,0 +1,23 @@
+<Person>
+<name>Ian Watson</name>
+<variantName />
+<thumbnail>https://commons.wikimedia.org/wiki/Special:FilePath/Ian_Watson.jpg?width=270</thumbnail>
+<birthEN>1943</birthEN>
+<birthDE>1943</birthDE>
+<deathEN />
+<deathDE />
+<birthPlace>
+<XML_Serializer_Tag>Saint Albans</XML_Serializer_Tag>
+</birthPlace>
+<deathPlace />
+<professionOrOccupation>
+<XML_Serializer_Tag>Science-Fiction-Autor</XML_Serializer_Tag>
+<XML_Serializer_Tag>Schriftsteller</XML_Serializer_Tag>
+</professionOrOccupation>
+<dbpResource>http://dbpedia.org/resource/Ian_Watson_(author)</dbpResource>
+<abstract>Ian Watson (* 20. April 1943 in St Albans) ist ein britischer Science-Fiction-Autor.</abstract>
+<wikilink>http://en.wikipedia.org/wiki/Ian_Watson_(author)?oldid=580821706</wikilink>
+<artworks />
+<buildings />
+<books />
+</Person>

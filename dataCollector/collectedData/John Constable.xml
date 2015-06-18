@@ -15,12 +15,15 @@
 <professionOrOccupation>
 <XML_Serializer_Tag>Maler</XML_Serializer_Tag>
 </professionOrOccupation>
+<dbpResource>http://dbpedia.org/resource/John_Constable</dbpResource>
+<abstract>John Constable RA (* 11. Juni 1776 in East Bergholt, Suffolk; † 31. März 1837 in London-Hampstead) war ein Vertreter der romantischen Malerei (Landschaftsmalerei) in England. Sein Werk lebt aus der Spannung zwischen genauer Naturbeobachtung (z. B. Himmels- und Wolkenstudien) und der Vernachlässigung der Linie zugunsten der Farbwirkung. Er malte unter anderem die Bilder Der Heuwagen, Die Kathedrale von Salisbury und Stonehenge.</abstract>
+<wikilink>http://en.wikipedia.org/wiki/John_Constable?oldid=605443504</wikilink>
 <artworks>
 <XML_Serializer_Tag>
-<painting>
+<artwork>
 <type>uri</type>
 <value>http://dbpedia.org/resource/The_Hay_Wain</value>
-</painting>
+</artwork>
 <thumbnail>
 <type>uri</type>
 <value>http://commons.wikimedia.org/wiki/Special:FilePath/John_Constable_The_Hay_Wain.jpg?width=300</value>
@@ -44,12 +47,17 @@
 <type>uri</type>
 <value>http://en.wikipedia.org/wiki/The_Hay_Wain?oldid=605358527</value>
 </wikilink>
+<type>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>Oil on canvas</value>
+</type>
 </XML_Serializer_Tag>
 <XML_Serializer_Tag>
-<painting>
+<artwork>
 <type>uri</type>
 <value>http://dbpedia.org/resource/Salisbury_Cathedral_from_the_Meadows</value>
-</painting>
+</artwork>
 <thumbnail>
 <type>uri</type>
 <value>http://commons.wikimedia.org/wiki/Special:FilePath/Constable_Salisbury_meadows.jpg?width=300</value>
@@ -68,12 +76,16 @@
 <type>uri</type>
 <value>http://en.wikipedia.org/wiki/Salisbury_Cathedral_from_the_Meadows?oldid=605020960</value>
 </wikilink>
+<type>
+<type>uri</type>
+<value>http://dbpedia.org/resource/Oil_painting</value>
+</type>
 </XML_Serializer_Tag>
 <XML_Serializer_Tag>
-<painting>
+<artwork>
 <type>uri</type>
 <value>http://dbpedia.org/resource/Hadleigh_Castle_(painting)</value>
-</painting>
+</artwork>
 <thumbnail>
 <type>uri</type>
 <value>http://commons.wikimedia.org/wiki/Special:FilePath/John_Constable_019.jpg?width=300</value>
@@ -92,12 +104,17 @@
 <type>uri</type>
 <value>http://en.wikipedia.org/wiki/Hadleigh_Castle_(painting)?oldid=595590641</value>
 </wikilink>
+<type>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>Oil</value>
+</type>
 </XML_Serializer_Tag>
 <XML_Serializer_Tag>
-<painting>
+<artwork>
 <type>uri</type>
 <value>http://dbpedia.org/resource/Weymouth_Bay:_Bowleaze_Cove_and_Jordon_Hill</value>
-</painting>
+</artwork>
 <thumbnail>
 <type>uri</type>
 <value>http://commons.wikimedia.org/wiki/Special:FilePath/John_Constable_027.jpg?width=300</value>
@@ -116,12 +133,16 @@
 <type>uri</type>
 <value>http://en.wikipedia.org/wiki/Weymouth_Bay:_Bowleaze_Cove_and_Jordon_Hill?oldid=586406351</value>
 </wikilink>
+<type>
+<type>uri</type>
+<value>http://dbpedia.org/resource/Oil_painting</value>
+</type>
 </XML_Serializer_Tag>
 <XML_Serializer_Tag>
-<painting>
+<artwork>
 <type>uri</type>
 <value>http://dbpedia.org/resource/The_Lock_(Constable)</value>
-</painting>
+</artwork>
 <thumbnail>
 <type>uri</type>
 <value>http://commons.wikimedia.org/wiki/Special:FilePath/John_Constable_-_The_Lock.jpg?width=300</value>
@@ -135,12 +156,17 @@
 <type>uri</type>
 <value>http://en.wikipedia.org/wiki/The_Lock_(Constable)?oldid=585955833</value>
 </wikilink>
+<type>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>Oil on canvas</value>
+</type>
 </XML_Serializer_Tag>
 <XML_Serializer_Tag>
-<painting>
+<artwork>
 <type>uri</type>
 <value>http://dbpedia.org/resource/Flatford_Mill_(Scene_on_a_Navigable_River)</value>
-</painting>
+</artwork>
 <thumbnail>
 <type>uri</type>
 <value>http://commons.wikimedia.org/wiki/Special:FilePath/Flatford_Mill_(Scene_on_a_Navigable_River)_by_John_Constable,_Tate_Britain.JPG?width=300</value>
@@ -154,12 +180,17 @@
 <type>uri</type>
 <value>http://en.wikipedia.org/wiki/Flatford_Mill_(Scene_on_a_Navigable_River)?oldid=599235318</value>
 </wikilink>
+<type>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>Oil on canvas</value>
+</type>
 </XML_Serializer_Tag>
 <XML_Serializer_Tag>
-<painting>
+<artwork>
 <type>uri</type>
 <value>http://dbpedia.org/resource/Salisbury_Cathedral_from_the_Bishop&apos;s_Grounds</value>
-</painting>
+</artwork>
 <thumbnail>
 <type>uri</type>
 <value>http://commons.wikimedia.org/wiki/Special:FilePath/John_Constable_-_Salisbury_Cathedral_from_the_Bishop&apos;s_Garden_-_Google_Art_Project.jpg?width=300</value>
@@ -175,7 +206,6 @@
 </wikilink>
 </XML_Serializer_Tag>
 </artworks>
-<dbpResource>http://dbpedia.org/resource/John_Constable</dbpResource>
-<abstract>John Constable RA (* 11. Juni 1776 in East Bergholt, Suffolk; † 31. März 1837 in London-Hampstead) war ein Vertreter der romantischen Malerei (Landschaftsmalerei) in England. Sein Werk lebt aus der Spannung zwischen genauer Naturbeobachtung (z. B. Himmels- und Wolkenstudien) und der Vernachlässigung der Linie zugunsten der Farbwirkung. Er malte unter anderem die Bilder Der Heuwagen, Die Kathedrale von Salisbury und Stonehenge.</abstract>
-<wikilink>http://en.wikipedia.org/wiki/John_Constable?oldid=605443504</wikilink>
+<buildings />
+<books />
 </Person>

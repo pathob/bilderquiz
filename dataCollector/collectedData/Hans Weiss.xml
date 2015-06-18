@@ -1,0 +1,25 @@
+<Person>
+<name>Hans Weiss</name>
+<variantName>
+<XML_Serializer_Tag>H. Weiss</XML_Serializer_Tag>
+<XML_Serializer_Tag>Chans Vajs</XML_Serializer_Tag>
+<XML_Serializer_Tag>Chans Bais</XML_Serializer_Tag>
+</variantName>
+<thumbnail>https://commons.wikimedia.org/wiki/Special:FilePath/Hansweiss.jpg?width=270</thumbnail>
+<birthEN>1950</birthEN>
+<birthDE>1950</birthDE>
+<deathEN />
+<deathDE />
+<birthPlace />
+<deathPlace />
+<professionOrOccupation>
+<XML_Serializer_Tag>Journalist</XML_Serializer_Tag>
+<XML_Serializer_Tag>Autor</XML_Serializer_Tag>
+</professionOrOccupation>
+<dbpResource>http://dbpedia.org/resource/Hans_Weiss_(author)</dbpResource>
+<abstract>Hans Weiss (* 1950 in Hittisau, Vorarlberg) ist ein österreichischer Journalist, Sachbuchautor und Fotograf.</abstract>
+<wikilink>http://en.wikipedia.org/wiki/Hans_Weiss_(author)?oldid=601873329</wikilink>
+<artworks />
+<buildings />
+<books />
+</Person>

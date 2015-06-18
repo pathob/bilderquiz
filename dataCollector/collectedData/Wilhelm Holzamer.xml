@@ -1,0 +1,26 @@
+<Person>
+<name>Wilhelm Holzamer</name>
+<variantName />
+<thumbnail>https://de.wikipedia.org/wiki/Special:FilePath/WilhelmHolzamer1904.jpg?width=270</thumbnail>
+<birthEN>March 28, 1870</birthEN>
+<birthDE>28. März 1870</birthDE>
+<deathEN>August 28, 1907</deathEN>
+<deathDE>28. August 1907</deathDE>
+<birthPlace>
+<XML_Serializer_Tag>Nieder-Olm</XML_Serializer_Tag>
+</birthPlace>
+<deathPlace>
+<XML_Serializer_Tag>Berlin</XML_Serializer_Tag>
+</deathPlace>
+<professionOrOccupation>
+<XML_Serializer_Tag>Schriftsteller</XML_Serializer_Tag>
+<XML_Serializer_Tag>Lehrer</XML_Serializer_Tag>
+<XML_Serializer_Tag>Bibliothekar</XML_Serializer_Tag>
+</professionOrOccupation>
+<dbpResource>http://dbpedia.org/resource/Wilhelm_Holzamer</dbpResource>
+<abstract>Wilhelm Holzamer (* 28. März 1870 in Nieder-Olm; † 28. August 1907 in Berlin) war ein deutscher Schriftsteller und Literatur-Rezensent.</abstract>
+<wikilink>http://en.wikipedia.org/wiki/Wilhelm_Holzamer?oldid=590268316</wikilink>
+<artworks />
+<buildings />
+<books />
+</Person>

@@ -17,8 +17,10 @@
 <XML_Serializer_Tag>Maler</XML_Serializer_Tag>
 <XML_Serializer_Tag>Radierer</XML_Serializer_Tag>
 </professionOrOccupation>
-<artworks />
 <dbpResource>http://dbpedia.org/resource/Christian_Wilberg</dbpResource>
 <abstract>Christian Wilberg (* 20. November 1839 in Havelberg; † 3. Juni 1882 in Paris) war ein deutscher Maler.</abstract>
 <wikilink>http://en.wikipedia.org/wiki/Christian_Wilberg?oldid=589310967</wikilink>
+<artworks />
+<buildings />
+<books />
 </Person>

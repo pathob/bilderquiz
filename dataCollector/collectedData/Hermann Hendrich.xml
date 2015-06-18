@@ -13,8 +13,10 @@
 <XML_Serializer_Tag>Maler</XML_Serializer_Tag>
 <XML_Serializer_Tag>Lithograph</XML_Serializer_Tag>
 </professionOrOccupation>
-<artworks />
 <dbpResource>http://dbpedia.org/resource/Hermann_Hendrich</dbpResource>
 <abstract>Hermann Hendrich (* 31. Oktober 1854 in Heringen; † 18. Juli 1931 in Schreiberhau) war ein deutscher Maler. 1907 gründete er den völkischen Werdandi-Bund.</abstract>
 <wikilink>http://en.wikipedia.org/wiki/Hermann_Hendrich?oldid=598734747</wikilink>
+<artworks />
+<buildings />
+<books />
 </Person>

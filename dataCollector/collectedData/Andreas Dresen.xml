@@ -1,0 +1,27 @@
+<Person>
+<name>Andreas Dresen</name>
+<variantName />
+<thumbnail>https://commons.wikimedia.org/wiki/Special:FilePath/Andreas_Dresen.jpg?width=270</thumbnail>
+<birthEN>1963</birthEN>
+<birthDE>1963</birthDE>
+<deathEN />
+<deathDE />
+<birthPlace>
+<XML_Serializer_Tag>Gera</XML_Serializer_Tag>
+</birthPlace>
+<deathPlace />
+<professionOrOccupation>
+<XML_Serializer_Tag>Autor</XML_Serializer_Tag>
+<XML_Serializer_Tag>Tontechniker</XML_Serializer_Tag>
+<XML_Serializer_Tag>Regisseur</XML_Serializer_Tag>
+<XML_Serializer_Tag>Drehbuchautor</XML_Serializer_Tag>
+<XML_Serializer_Tag>Kameramann</XML_Serializer_Tag>
+<XML_Serializer_Tag>Filmproduzent</XML_Serializer_Tag>
+</professionOrOccupation>
+<dbpResource>http://dbpedia.org/resource/Andreas_Dresen</dbpResource>
+<abstract>Andreas Dresen (* 16. August 1963 in Gera) ist ein deutscher Filmregisseur. Dresen ist bekannt für seine offenen, auf Improvisation bauenden Filme, die durch diese Vorgehensweise einen sehr realistischen, halbdokumentarischen Charakter erhalten.</abstract>
+<wikilink>http://en.wikipedia.org/wiki/Andreas_Dresen?oldid=605665595</wikilink>
+<artworks />
+<buildings />
+<books />
+</Person>

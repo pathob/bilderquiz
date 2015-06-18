@@ -1,0 +1,60 @@
+<Person>
+<name>Giuseppe Tomasi di Lampedusa</name>
+<variantName>
+<XML_Serializer_Tag>Giuseppe Tomasi</XML_Serializer_Tag>
+<XML_Serializer_Tag>Giuseppe Tomasi Di Lampedusa</XML_Serializer_Tag>
+<XML_Serializer_Tag>Giuseppe Tomasi di Lampedusa</XML_Serializer_Tag>
+<XML_Serializer_Tag>Giuseppe Tomasi DiLampedusa</XML_Serializer_Tag>
+<XML_Serializer_Tag>Giuseppe Tomasi DiLampedusa</XML_Serializer_Tag>
+<XML_Serializer_Tag>Giuseppe Tomasi-DiLampedusa</XML_Serializer_Tag>
+<XML_Serializer_Tag>Giuseppe Aromatisi</XML_Serializer_Tag>
+<XML_Serializer_Tag>Giuseppe T. di Lampedusa</XML_Serializer_Tag>
+<XML_Serializer_Tag>Giuseppe T. DiLampedusa</XML_Serializer_Tag>
+<XML_Serializer_Tag>Giuseppe di Lampedusa</XML_Serializer_Tag>
+</variantName>
+<thumbnail>https://commons.wikimedia.org/wiki/Special:FilePath/Giuseppe_Tomasi_di_Lampedusa.png?width=270</thumbnail>
+<birthEN>December 23, 1896</birthEN>
+<birthDE>23. Dezember 1896</birthDE>
+<deathEN>July 23, 1957</deathEN>
+<deathDE>23. Juli 1957</deathDE>
+<birthPlace>
+<XML_Serializer_Tag>Palermo</XML_Serializer_Tag>
+</birthPlace>
+<deathPlace>
+<XML_Serializer_Tag>Rom</XML_Serializer_Tag>
+</deathPlace>
+<professionOrOccupation>
+<XML_Serializer_Tag>Schriftsteller</XML_Serializer_Tag>
+</professionOrOccupation>
+<dbpResource>http://dbpedia.org/resource/Giuseppe_Tomasi_di_Lampedusa</dbpResource>
+<abstract>Giuseppe Tomasi di Lampedusa (* 23. Dezember 1896 in Palermo; † 23. Juli 1957 in Rom) war ein italienischer Schriftsteller und Literaturwissenschaftler, der vor allem durch seinen Roman Il Gattopardo bekannt geworden ist.</abstract>
+<wikilink>http://en.wikipedia.org/wiki/Giuseppe_Tomasi_di_Lampedusa?oldid=606149136</wikilink>
+<artworks />
+<buildings />
+<books>
+<XML_Serializer_Tag>
+<book>
+<type>uri</type>
+<value>http://dbpedia.org/resource/The_Leopard</value>
+</book>
+<author>
+<type>uri</type>
+<value>http://dbpedia.org/resource/Giuseppe_Tomasi_di_Lampedusa</value>
+</author>
+<released>
+<type>typed-literal</type>
+<datatype>http://www.w3.org/2001/XMLSchema#integer</datatype>
+<value>1958</value>
+</released>
+<wikilink>
+<type>uri</type>
+<value>http://en.wikipedia.org/wiki/The_Leopard?oldid=603456630</value>
+</wikilink>
+<abstract>
+<type>literal</type>
+<xml:lang>de</xml:lang>
+<value>Der Gattopardo (seit 2004, davor: Der Leopard; ital.: Il Gattopardo) ist der einzige Roman des Schriftstellers und Literaturwissenschaftlers Giuseppe Tomasi di Lampedusa. Er erschien postum 1958 bei Feltrinelli in Italien.</value>
+</abstract>
+</XML_Serializer_Tag>
+</books>
+</Person>

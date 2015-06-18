@@ -1,0 +1,28 @@
+<Person>
+<name>Carlo Pepoli</name>
+<variantName>
+<XML_Serializer_Tag>E. Pepoli</XML_Serializer_Tag>
+<XML_Serializer_Tag>Carlo Pyoli</XML_Serializer_Tag>
+</variantName>
+<thumbnail>https://commons.wikimedia.org/wiki/Special:FilePath/Carlo_Pepoli.jpg?width=270</thumbnail>
+<birthEN>July 22, 1796</birthEN>
+<birthDE>22. Juli 1796</birthDE>
+<deathEN>December 7, 1881</deathEN>
+<deathDE>7. Dezember 1881</deathDE>
+<birthPlace>
+<XML_Serializer_Tag>Bologna</XML_Serializer_Tag>
+</birthPlace>
+<deathPlace>
+<XML_Serializer_Tag>Bologna</XML_Serializer_Tag>
+</deathPlace>
+<professionOrOccupation>
+<XML_Serializer_Tag>Schriftsteller</XML_Serializer_Tag>
+<XML_Serializer_Tag>Librettist</XML_Serializer_Tag>
+</professionOrOccupation>
+<dbpResource>http://dbpedia.org/resource/Carlo_Pepoli</dbpResource>
+<abstract>Graf (Conte) Carlo Pepoli (* 22. Juli 1796 in Bologna; † 7. Dezember 1881 ebenda) war ein italienischer Dichter und Librettist sowie ein Demokrat und Politiker im Rahmen des Risorgimento.</abstract>
+<wikilink>http://en.wikipedia.org/wiki/Carlo_Pepoli?oldid=575083820</wikilink>
+<artworks />
+<buildings />
+<books />
+</Person>

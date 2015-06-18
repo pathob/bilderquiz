@@ -1,0 +1,32 @@
+<Person>
+<name>Klaus Groth</name>
+<variantName>
+<XML_Serializer_Tag>Niccola Groth</XML_Serializer_Tag>
+<XML_Serializer_Tag>Claus Groth</XML_Serializer_Tag>
+<XML_Serializer_Tag>Klaus Johann Groth</XML_Serializer_Tag>
+<XML_Serializer_Tag>Klaus Johannes Groth</XML_Serializer_Tag>
+<XML_Serializer_Tag>Claus Johannes Groth</XML_Serializer_Tag>
+</variantName>
+<thumbnail>https://commons.wikimedia.org/wiki/Special:FilePath/Klaus_Groth_(Allers,_Kunsthalle_Kiel).jpg?width=270</thumbnail>
+<birthEN>April 24, 1819</birthEN>
+<birthDE>24. April 1819</birthDE>
+<deathEN>June 1, 1899</deathEN>
+<deathDE>1. Juni 1899</deathDE>
+<birthPlace>
+<XML_Serializer_Tag>Heide</XML_Serializer_Tag>
+</birthPlace>
+<deathPlace>
+<XML_Serializer_Tag>Kiel</XML_Serializer_Tag>
+</deathPlace>
+<professionOrOccupation>
+<XML_Serializer_Tag>Schriftsteller</XML_Serializer_Tag>
+<XML_Serializer_Tag>Literarhistoriker</XML_Serializer_Tag>
+<XML_Serializer_Tag>Germanist</XML_Serializer_Tag>
+</professionOrOccupation>
+<dbpResource>http://dbpedia.org/resource/Klaus_Groth</dbpResource>
+<abstract>Klaus Groth (* 24. April 1819 in Heide; † 1. Juni 1899 in Kiel) ist einer der bekanntesten niederdeutschen Lyriker und Schriftsteller. Er gilt gemeinsam mit Fritz Reuter als einer der Begründer der neueren niederdeutschen Literatur.</abstract>
+<wikilink>http://en.wikipedia.org/wiki/Klaus_Groth?oldid=596208993</wikilink>
+<artworks />
+<buildings />
+<books />
+</Person>

@@ -1,0 +1,23 @@
+<Person>
+<name>Bartolomeo Scappi</name>
+<variantName />
+<thumbnail>https://commons.wikimedia.org/wiki/Special:FilePath/Scappi.jpg?width=270</thumbnail>
+<birthEN>XX.XX.1500</birthEN>
+<birthDE>XX.XX.1500</birthDE>
+<deathEN>April 14, 1577</deathEN>
+<deathDE>14. April 1577</deathDE>
+<birthPlace>
+<XML_Serializer_Tag>Dumenza</XML_Serializer_Tag>
+</birthPlace>
+<deathPlace />
+<professionOrOccupation>
+<XML_Serializer_Tag>Koch</XML_Serializer_Tag>
+<XML_Serializer_Tag>Schriftsteller</XML_Serializer_Tag>
+</professionOrOccupation>
+<dbpResource>http://dbpedia.org/resource/Bartolomeo_Scappi</dbpResource>
+<abstract>Bartolomeo Scappi (* vermutlich nach 1500 in Dumenza; † 13. April 1577) war ein berühmter italienischer Koch der Renaissance. Sein bekanntestes Werk mit dem Titel Opera erschien 1570 in Venedig.</abstract>
+<wikilink>http://en.wikipedia.org/wiki/Bartolomeo_Scappi?oldid=600080240</wikilink>
+<artworks />
+<buildings />
+<books />
+</Person>

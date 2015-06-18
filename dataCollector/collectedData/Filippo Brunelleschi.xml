@@ -1,0 +1,30 @@
+<Person>
+<name>Filippo Brunelleschi</name>
+<variantName>
+<XML_Serializer_Tag>Filippo, Brunelleschi</XML_Serializer_Tag>
+<XML_Serializer_Tag>Filippo, Brunellesco</XML_Serializer_Tag>
+<XML_Serializer_Tag>Philippe Brunelleschi</XML_Serializer_Tag>
+<XML_Serializer_Tag>Philippe, Brunelleschi</XML_Serializer_Tag>
+<XML_Serializer_Tag>Pippo, Brunelleschi</XML_Serializer_Tag>
+<XML_Serializer_Tag>Pippo Brunelleschi</XML_Serializer_Tag>
+<XML_Serializer_Tag>Filippo Brunellesco</XML_Serializer_Tag>
+<XML_Serializer_Tag>Filippo Brunelleski</XML_Serializer_Tag>
+</variantName>
+<thumbnail>https://commons.wikimedia.org/wiki/Special:FilePath/Bunelleschi.jpg?width=270</thumbnail>
+<birthEN>1377</birthEN>
+<birthDE>1377</birthDE>
+<deathEN>1446</deathEN>
+<deathDE>1446</deathDE>
+<birthPlace />
+<deathPlace />
+<professionOrOccupation>
+<XML_Serializer_Tag>Baumeister</XML_Serializer_Tag>
+<XML_Serializer_Tag>Bildhauer</XML_Serializer_Tag>
+</professionOrOccupation>
+<dbpResource>http://dbpedia.org/resource/Filippo_Brunelleschi</dbpResource>
+<abstract>Filippo Brunelleschi (* 1377 in Florenz; † 15. April 1446 ebenda) war einer der führenden italienischen Architekten und Bildhauer der Frührenaissance.</abstract>
+<wikilink>http://en.wikipedia.org/wiki/Filippo_Brunelleschi?oldid=606756904</wikilink>
+<artworks />
+<buildings />
+<books />
+</Person>

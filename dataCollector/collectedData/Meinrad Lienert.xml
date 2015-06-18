@@ -1,0 +1,28 @@
+<Person>
+<name>Meinrad Lienert</name>
+<variantName>
+<XML_Serializer_Tag>Meinrad Lienert-Kälin</XML_Serializer_Tag>
+<XML_Serializer_Tag>Meinrad Lienert-Kälin</XML_Serializer_Tag>
+</variantName>
+<thumbnail>https://de.wikipedia.org/wiki/Special:FilePath/Meinrad_Lienert.jpg?width=270</thumbnail>
+<birthEN>May 21, 1865</birthEN>
+<birthDE>21. Mai 1865</birthDE>
+<deathEN>December 26, 1933</deathEN>
+<deathDE>26. Dezember 1933</deathDE>
+<birthPlace>
+<XML_Serializer_Tag>Einsiedeln</XML_Serializer_Tag>
+</birthPlace>
+<deathPlace>
+<XML_Serializer_Tag>Küsnacht (Zürich)</XML_Serializer_Tag>
+</deathPlace>
+<professionOrOccupation>
+<XML_Serializer_Tag>Notar</XML_Serializer_Tag>
+<XML_Serializer_Tag>Schriftsteller</XML_Serializer_Tag>
+</professionOrOccupation>
+<dbpResource>http://dbpedia.org/resource/Meinrad_Lienert</dbpResource>
+<abstract>Meinrad Alois Lienert (* 21. Mai 1865 in Einsiedeln; † 26. Dezember 1933 in Küsnacht) war ein Schweizer Mundart- und Heimatdichter.</abstract>
+<wikilink>http://en.wikipedia.org/wiki/Meinrad_Lienert?oldid=598164089</wikilink>
+<artworks />
+<buildings />
+<books />
+</Person>

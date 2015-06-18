@@ -1,0 +1,56 @@
+<Person>
+<name>Claude Nicolas Ledoux</name>
+<variantName>
+<XML_Serializer_Tag>Claude-Nicolas Ledoux</XML_Serializer_Tag>
+<XML_Serializer_Tag>C. N. Ledoux</XML_Serializer_Tag>
+</variantName>
+<thumbnail>https://de.wikipedia.org/wiki/Special:FilePath/Ledoux_20010831-02.jpg?width=270</thumbnail>
+<birthEN>1736</birthEN>
+<birthDE>1736</birthDE>
+<deathEN>1806</deathEN>
+<deathDE>1806</deathDE>
+<birthPlace />
+<deathPlace />
+<professionOrOccupation>
+<XML_Serializer_Tag>Baumeister</XML_Serializer_Tag>
+</professionOrOccupation>
+<dbpResource>http://dbpedia.org/resource/Claude_Nicolas_Ledoux</dbpResource>
+<abstract>Claude-Nicolas Ledoux (* 21. März 1736 in Dormans, Département Marne; † 18. November 1806 in Paris) war ein klassizistischer französischer Architekt, der zahlreiche öffentliche und private Bauvorhaben ausführte. Er entwarf aber auch völlig utopische Bauten und gilt gemeinsam mit Étienne-Louis Boullée als Hauptvertreter der französischen Revolutionsarchitektur.</abstract>
+<wikilink>http://en.wikipedia.org/wiki/Claude_Nicolas_Ledoux?oldid=600859577</wikilink>
+<artworks />
+<buildings>
+<XML_Serializer_Tag>
+<building>
+<type>uri</type>
+<value>http://dbpedia.org/resource/Royal_Saltworks_at_Arc-et-Senans</value>
+</building>
+<name>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>Royal Saltworks at Arc-et-Senans</value>
+</name>
+<architect>
+<type>uri</type>
+<value>http://dbpedia.org/resource/Claude_Nicolas_Ledoux</value>
+</architect>
+<thumbnail>
+<type>uri</type>
+<value>http://commons.wikimedia.org/wiki/Special:FilePath/France_arc_et_senas_saline_royal_main_building_1.jpg?width=300</value>
+</thumbnail>
+<wikilink>
+<type>uri</type>
+<value>http://en.wikipedia.org/wiki/Royal_Saltworks_at_Arc-et-Senans?oldid=601327669</value>
+</wikilink>
+<location>
+<type>uri</type>
+<value>http://dbpedia.org/resource/Doubs</value>
+</location>
+<abstract>
+<type>literal</type>
+<xml:lang>de</xml:lang>
+<value>Die Königliche Saline in Arc-et-Senans im französischen Département Doubs ist eine Manufaktur zur Salzgewinnung, die 1779 fertiggestellt wurde. Sie wurde vom Architekten Claude-Nicolas Ledoux (1736–1806) im Auftrag von Louis XV. geplant. Am 15. April 1775 erfolgte die Grundsteinlegung. Die Arbeiten dauerten drei Jahre. Sie ist eines der bedeutendsten realisierten Bauprojekte der so genannten Revolutionsarchitektur. In späteren Gedankenspielen erweiterte Ledoux die tatsächlich realisierte Saline zu einer Idealstadt namens Chaux – dieses Idealstadtprojekt wurde allerdings nie umgesetzt.1982 wurde die Anlage von der UNESCO in das Verzeichnis des Weltkulturerbes aufgenommen.</value>
+</abstract>
+</XML_Serializer_Tag>
+</buildings>
+<books />
+</Person>

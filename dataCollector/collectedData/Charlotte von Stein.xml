@@ -1,0 +1,33 @@
+<Person>
+<name>Charlotte von Stein</name>
+<variantName>
+<XML_Serializer_Tag>Charlotte A. von Stein-Kochberg</XML_Serializer_Tag>
+<XML_Serializer_Tag>Charlotte A. von Kochberg</XML_Serializer_Tag>
+<XML_Serializer_Tag>Charlotte von Schardt</XML_Serializer_Tag>
+<XML_Serializer_Tag>Charlotte Ernestina Albertina von Schardt</XML_Serializer_Tag>
+<XML_Serializer_Tag>Charlotte Albertine Ernestine von Schardt</XML_Serializer_Tag>
+<XML_Serializer_Tag>Charlotte Albertine Ernestine von Stein</XML_Serializer_Tag>
+<XML_Serializer_Tag>Charlotte Albertine Ernestine von Stein-Kochberg</XML_Serializer_Tag>
+</variantName>
+<thumbnail>https://commons.wikimedia.org/wiki/Special:FilePath/Charlotte_von_Stein.jpg?width=270</thumbnail>
+<birthEN>December 25, 1742</birthEN>
+<birthDE>25. Dezember 1742</birthDE>
+<deathEN>January 5, 1827</deathEN>
+<deathDE>5. Januar 1827</deathDE>
+<birthPlace>
+<XML_Serializer_Tag>Eisenach</XML_Serializer_Tag>
+</birthPlace>
+<deathPlace>
+<XML_Serializer_Tag>Weimar</XML_Serializer_Tag>
+</deathPlace>
+<professionOrOccupation>
+<XML_Serializer_Tag>Schriftstellerin</XML_Serializer_Tag>
+<XML_Serializer_Tag>Hofdame</XML_Serializer_Tag>
+</professionOrOccupation>
+<dbpResource>http://dbpedia.org/resource/Charlotte_von_Stein</dbpResource>
+<abstract>Charlotte Albertine Ernestine Freifrau von Stein, geborene von Schardt (auch erwähnt als Charlotta Ernestina Bernardina; * 25. Dezember 1742 in Eisenach; † 6. Januar 1827 in Weimar) war eine Hofdame der Herzogin Anna Amalia und enge Vertraute von Herzogin Luise von Sachsen-Weimar-Eisenach (geb. von Hessen-Darmstadt), zudem enge Freundin von Johann Wolfgang von Goethe, Johann Gottfried von Herders Familie und Friedrich von Schiller, deren Werk und Leben stark durch sie beeinflusst wurde. Sie war eine ältere Schwester von Ernst Carl Constantin von Schardt.</abstract>
+<wikilink>http://en.wikipedia.org/wiki/Charlotte_von_Stein?oldid=589616747</wikilink>
+<artworks />
+<buildings />
+<books />
+</Person>

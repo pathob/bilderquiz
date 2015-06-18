@@ -1,0 +1,91 @@
+<Person>
+<name>Alphonse Daudet</name>
+<variantName>
+<XML_Serializer_Tag>Alfons Daudet</XML_Serializer_Tag>
+<XML_Serializer_Tag>Alphons Daudet</XML_Serializer_Tag>
+<XML_Serializer_Tag>... Dode</XML_Serializer_Tag>
+<XML_Serializer_Tag>Alfons Dode</XML_Serializer_Tag>
+<XML_Serializer_Tag>Alphonsos Dōde</XML_Serializer_Tag>
+<XML_Serializer_Tag>Alfons Dodeh</XML_Serializer_Tag>
+<XML_Serializer_Tag>Ālfūns Dūda</XML_Serializer_Tag>
+<XML_Serializer_Tag>Ālfūns Dūdi</XML_Serializer_Tag>
+<XML_Serializer_Tag>Alp&apos;ongsu Tode</XML_Serializer_Tag>
+<XML_Serializer_Tag>Alʹfons Dode</XML_Serializer_Tag>
+<XML_Serializer_Tag>Alfonsas Dode</XML_Serializer_Tag>
+<XML_Serializer_Tag>Alfonso Daudet</XML_Serializer_Tag>
+<XML_Serializer_Tag>Anfos Daudet</XML_Serializer_Tag>
+<XML_Serializer_Tag>Alfons Dodet</XML_Serializer_Tag>
+<XML_Serializer_Tag>A. Daudet</XML_Serializer_Tag>
+<XML_Serializer_Tag>Louis Marie Alphonse Daudet</XML_Serializer_Tag>
+<XML_Serializer_Tag>Louis M. Daudet</XML_Serializer_Tag>
+<XML_Serializer_Tag>Dōde</XML_Serializer_Tag>
+</variantName>
+<thumbnail>https://commons.wikimedia.org/wiki/Special:FilePath/Alphonse_Daudet_2.jpg?width=270</thumbnail>
+<birthEN>May 13, 1840</birthEN>
+<birthDE>13. Mai 1840</birthDE>
+<deathEN>December 16, 1897</deathEN>
+<deathDE>16. Dezember 1897</deathDE>
+<birthPlace>
+<XML_Serializer_Tag>Nîmes</XML_Serializer_Tag>
+</birthPlace>
+<deathPlace>
+<XML_Serializer_Tag>Paris</XML_Serializer_Tag>
+</deathPlace>
+<professionOrOccupation>
+<XML_Serializer_Tag>Schriftsteller</XML_Serializer_Tag>
+</professionOrOccupation>
+<dbpResource>http://dbpedia.org/resource/Alphonse_Daudet</dbpResource>
+<abstract>Alphonse Daudet (* 13. Mai 1840 in Nîmes, Département Gard; † 16. Dezember 1897 in Paris) war ein französischer Schriftsteller. Er war der Bruder von Ernest Daudet und der Vater von Leon Daudet. Zu seinen bekanntesten Werken zählen Tartarin von Tarascon, Briefe aus meiner Mühle und der Roman Sappho.</abstract>
+<wikilink>http://en.wikipedia.org/wiki/Alphonse_Daudet?oldid=606023767</wikilink>
+<artworks />
+<buildings />
+<books>
+<XML_Serializer_Tag>
+<book>
+<type>uri</type>
+<value>http://dbpedia.org/resource/Tartarin_of_Tarascon</value>
+</book>
+<author>
+<type>uri</type>
+<value>http://dbpedia.org/resource/Alphonse_Daudet</value>
+</author>
+<thumbnail>
+<type>uri</type>
+<value>http://commons.wikimedia.org/wiki/Special:FilePath/Tartaren_de_tarascon.gif?width=300</value>
+</thumbnail>
+<released>
+<type>typed-literal</type>
+<datatype>http://www.w3.org/2001/XMLSchema#integer</datatype>
+<value>1872</value>
+</released>
+<wikilink>
+<type>uri</type>
+<value>http://en.wikipedia.org/wiki/Tartarin_of_Tarascon?oldid=594756094</value>
+</wikilink>
+<abstract>
+<type>literal</type>
+<xml:lang>de</xml:lang>
+<value>Tartarin von Tarascon ist eine literarische Gestalt des französischen Schriftstellers Alphonse Daudet (1840–1897) und die Titelfigur der Romane: Die wunderbaren Abenteuer des Tartarin von Tarascon (Aventures prodigieuses de Tartarin de Tarascon) (1872) Tartarin in den Alpen (Tartarin sur les Alpes) (1885) Port-Tarascon. Die letzten Abenteuer des berühmten Tartarin (Port-Tarascon. Dernières Aventures de l&apos;illustre Tartarin) (1890).</value>
+</abstract>
+</XML_Serializer_Tag>
+<XML_Serializer_Tag>
+<book>
+<type>uri</type>
+<value>http://dbpedia.org/resource/In_the_Land_of_Pain</value>
+</book>
+<author>
+<type>uri</type>
+<value>http://dbpedia.org/resource/Alphonse_Daudet</value>
+</author>
+<published>
+<type>typed-literal</type>
+<datatype>http://www.w3.org/2001/XMLSchema#integer</datatype>
+<value>1930</value>
+</published>
+<wikilink>
+<type>uri</type>
+<value>http://en.wikipedia.org/wiki/In_the_Land_of_Pain?oldid=594813226</value>
+</wikilink>
+</XML_Serializer_Tag>
+</books>
+</Person>

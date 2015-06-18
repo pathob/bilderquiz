@@ -1,0 +1,28 @@
+<Person>
+<name>Otto Flake</name>
+<variantName>
+<XML_Serializer_Tag>O. Flake</XML_Serializer_Tag>
+<XML_Serializer_Tag>Leo F. Kotta</XML_Serializer_Tag>
+<XML_Serializer_Tag>Werenwag</XML_Serializer_Tag>
+<XML_Serializer_Tag>Otto Hurāke</XML_Serializer_Tag>
+</variantName>
+<thumbnail>https://commons.wikimedia.org/wiki/Special:FilePath/Flakeschreibtisch.JPG?width=270</thumbnail>
+<birthEN>October 29, 1880</birthEN>
+<birthDE>29. Oktober 1880</birthDE>
+<deathEN>November 10, 1963</deathEN>
+<deathDE>10. November 1963</deathDE>
+<birthPlace />
+<deathPlace />
+<professionOrOccupation>
+<XML_Serializer_Tag>Schriftsteller</XML_Serializer_Tag>
+<XML_Serializer_Tag>Redakteur</XML_Serializer_Tag>
+<XML_Serializer_Tag>Herausgeber</XML_Serializer_Tag>
+<XML_Serializer_Tag>Kulturkritiker</XML_Serializer_Tag>
+</professionOrOccupation>
+<dbpResource>http://dbpedia.org/resource/Otto_Flake</dbpResource>
+<abstract>Otto Flake (* 29. Oktober 1880 in Metz; † 10. November 1963 in Baden-Baden) war ein deutscher Schriftsteller.</abstract>
+<wikilink>http://en.wikipedia.org/wiki/Otto_Flake?oldid=602365305</wikilink>
+<artworks />
+<buildings />
+<books />
+</Person>

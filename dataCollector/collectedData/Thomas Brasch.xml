@@ -1,0 +1,31 @@
+<Person>
+<name>Thomas Brasch</name>
+<variantName>
+<XML_Serializer_Tag>T&apos;omasŭ Pŭraswi</XML_Serializer_Tag>
+</variantName>
+<thumbnail>https://commons.wikimedia.org/wiki/Special:FilePath/ThomasBrasch1993.jpg?width=270</thumbnail>
+<birthEN>February 19, 1945</birthEN>
+<birthDE>19. Februar 1945</birthDE>
+<deathEN>November 4, 2001</deathEN>
+<deathDE>4. November 2001</deathDE>
+<birthPlace>
+<XML_Serializer_Tag>Westow, England, Großbritannien</XML_Serializer_Tag>
+</birthPlace>
+<deathPlace>
+<XML_Serializer_Tag>Berlin</XML_Serializer_Tag>
+</deathPlace>
+<professionOrOccupation>
+<XML_Serializer_Tag>Schriftsteller</XML_Serializer_Tag>
+<XML_Serializer_Tag>Lyriker</XML_Serializer_Tag>
+<XML_Serializer_Tag>Dramatiker</XML_Serializer_Tag>
+<XML_Serializer_Tag>Musiker</XML_Serializer_Tag>
+<XML_Serializer_Tag>Drehbuchautor</XML_Serializer_Tag>
+<XML_Serializer_Tag>Regisseur</XML_Serializer_Tag>
+</professionOrOccupation>
+<dbpResource>http://dbpedia.org/resource/Thomas_Brasch</dbpResource>
+<abstract>Thomas Brasch (* 19. Februar 1945 in Westow, North Yorkshire; † 3. November 2001 in Berlin) war ein deutscher Schriftsteller, Dramatiker, Drehbuchautor, Regisseur und Lyriker.</abstract>
+<wikilink>http://en.wikipedia.org/wiki/Thomas_Brasch?oldid=554177354</wikilink>
+<artworks />
+<buildings />
+<books />
+</Person>

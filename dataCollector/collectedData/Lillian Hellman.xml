@@ -1,0 +1,33 @@
+<Person>
+<name>Lillian Hellman</name>
+<variantName>
+<XML_Serializer_Tag>Lillian Florence Hellman</XML_Serializer_Tag>
+<XML_Serializer_Tag>Lillian F. Hellman</XML_Serializer_Tag>
+<XML_Serializer_Tag>Lillian Hellmann</XML_Serializer_Tag>
+<XML_Serializer_Tag>Lilyan Helman</XML_Serializer_Tag>
+<XML_Serializer_Tag>Ririan Heruman</XML_Serializer_Tag>
+</variantName>
+<thumbnail>https://en.wikipedia.org/wiki/Special:FilePath/Lillian_Hellman.gif?width=270</thumbnail>
+<birthEN>June 20, 1905</birthEN>
+<birthDE>20. Juni 1905</birthDE>
+<deathEN>June 30, 1984</deathEN>
+<deathDE>30. Juni 1984</deathDE>
+<birthPlace>
+<XML_Serializer_Tag>New Orleans, La.</XML_Serializer_Tag>
+</birthPlace>
+<deathPlace>
+<XML_Serializer_Tag>Tisbury, Massachusetts, USA</XML_Serializer_Tag>
+</deathPlace>
+<professionOrOccupation>
+<XML_Serializer_Tag>Dramatikerin</XML_Serializer_Tag>
+<XML_Serializer_Tag>Journalistin</XML_Serializer_Tag>
+<XML_Serializer_Tag>Schriftstellerin</XML_Serializer_Tag>
+<XML_Serializer_Tag>Drehbuchautorin</XML_Serializer_Tag>
+</professionOrOccupation>
+<dbpResource>http://dbpedia.org/resource/Lillian_Hellman</dbpResource>
+<abstract>Lillian Hellman (* 20. Juni 1905 in New Orleans; † 30. Juni 1984 in Tisbury (Martha’s Vineyard), Massachusetts) war eine US-amerikanische Schriftstellerin.</abstract>
+<wikilink>http://en.wikipedia.org/wiki/Lillian_Hellman?oldid=605410277</wikilink>
+<artworks />
+<buildings />
+<books />
+</Person>

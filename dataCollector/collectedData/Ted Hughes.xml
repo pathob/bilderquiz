@@ -1,0 +1,102 @@
+<Person>
+<name>Ted Hughes</name>
+<variantName>
+<XML_Serializer_Tag>Edward James Hughes</XML_Serializer_Tag>
+<XML_Serializer_Tag>Ted Chʹjuz</XML_Serializer_Tag>
+</variantName>
+<thumbnail>https://commons.wikimedia.org/wiki/Special:FilePath/Ted-Hughes-March1993.jpg?width=270</thumbnail>
+<birthEN>August 17, 1930</birthEN>
+<birthDE>17. August 1930</birthDE>
+<deathEN>October 28, 1998</deathEN>
+<deathDE>28. Oktober 1998</deathDE>
+<birthPlace>
+<XML_Serializer_Tag>York (County)</XML_Serializer_Tag>
+</birthPlace>
+<deathPlace />
+<professionOrOccupation>
+<XML_Serializer_Tag>Schriftsteller</XML_Serializer_Tag>
+</professionOrOccupation>
+<dbpResource>http://dbpedia.org/resource/Ted_Hughes</dbpResource>
+<abstract>Ted Hughes OBE (* 17. August 1930 als Edward James Hughes in Mytholmroyd in West Yorkshire, England; † 28. Oktober 1998) war ein englischer Dichter und Schriftsteller.</abstract>
+<wikilink>http://en.wikipedia.org/wiki/Ted_Hughes?oldid=605472139</wikilink>
+<artworks />
+<buildings />
+<books>
+<XML_Serializer_Tag>
+<book>
+<type>uri</type>
+<value>http://dbpedia.org/resource/Birthday_Letters</value>
+</book>
+<author>
+<type>uri</type>
+<value>http://dbpedia.org/resource/Ted_Hughes</value>
+</author>
+<released>
+<type>typed-literal</type>
+<datatype>http://www.w3.org/2001/XMLSchema#integer</datatype>
+<value>1998</value>
+</released>
+<wikilink>
+<type>uri</type>
+<value>http://en.wikipedia.org/wiki/Birthday_Letters?oldid=596674732</value>
+</wikilink>
+</XML_Serializer_Tag>
+<XML_Serializer_Tag>
+<book>
+<type>uri</type>
+<value>http://dbpedia.org/resource/Shakespeare_and_the_Goddess_of_Complete_Being</value>
+</book>
+<author>
+<type>uri</type>
+<value>http://dbpedia.org/resource/Ted_Hughes</value>
+</author>
+<released>
+<type>typed-literal</type>
+<datatype>http://www.w3.org/2001/XMLSchema#integer</datatype>
+<value>1</value>
+</released>
+<wikilink>
+<type>uri</type>
+<value>http://en.wikipedia.org/wiki/Shakespeare_and_the_Goddess_of_Complete_Being?oldid=595174185</value>
+</wikilink>
+</XML_Serializer_Tag>
+<XML_Serializer_Tag>
+<book>
+<type>uri</type>
+<value>http://dbpedia.org/resource/Remains_of_Elmet</value>
+</book>
+<author>
+<type>uri</type>
+<value>http://dbpedia.org/resource/Ted_Hughes</value>
+</author>
+<released>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>June 1979</value>
+</released>
+<wikilink>
+<type>uri</type>
+<value>http://en.wikipedia.org/wiki/Remains_of_Elmet?oldid=601864063</value>
+</wikilink>
+</XML_Serializer_Tag>
+<XML_Serializer_Tag>
+<book>
+<type>uri</type>
+<value>http://dbpedia.org/resource/The_Iron_Man_(novel)</value>
+</book>
+<author>
+<type>uri</type>
+<value>http://dbpedia.org/resource/Ted_Hughes</value>
+</author>
+<published>
+<type>typed-literal</type>
+<datatype>http://www.w3.org/2001/XMLSchema#integer</datatype>
+<value>1968</value>
+</published>
+<wikilink>
+<type>uri</type>
+<value>http://en.wikipedia.org/wiki/The_Iron_Man_(novel)?oldid=603215396</value>
+</wikilink>
+</XML_Serializer_Tag>
+</books>
+</Person>

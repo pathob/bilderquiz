@@ -1,0 +1,34 @@
+<Person>
+<name>Heinrich Albert</name>
+<variantName>
+<XML_Serializer_Tag>Heinrich Alberti</XML_Serializer_Tag>
+<XML_Serializer_Tag>Heinricus Albertus</XML_Serializer_Tag>
+<XML_Serializer_Tag>Henricus Albertus</XML_Serializer_Tag>
+<XML_Serializer_Tag>Henricus Alberti</XML_Serializer_Tag>
+<XML_Serializer_Tag>Heinricus Alberti</XML_Serializer_Tag>
+<XML_Serializer_Tag>Heinrich Alberten</XML_Serializer_Tag>
+</variantName>
+<thumbnail>https://de.wikipedia.org/wiki/Special:FilePath/Ännchen_von_Tharau_Heinrich_Albert.JPG?width=270</thumbnail>
+<birthEN>June 28, 1604</birthEN>
+<birthDE>28. Juni 1604</birthDE>
+<deathEN>October 6, 1651</deathEN>
+<deathDE>6. Oktober 1651</deathDE>
+<birthPlace>
+<XML_Serializer_Tag>Bad Lobenstein</XML_Serializer_Tag>
+</birthPlace>
+<deathPlace>
+<XML_Serializer_Tag>Königsberg</XML_Serializer_Tag>
+</deathPlace>
+<professionOrOccupation>
+<XML_Serializer_Tag>Komponist</XML_Serializer_Tag>
+<XML_Serializer_Tag>Organist</XML_Serializer_Tag>
+<XML_Serializer_Tag>Schriftsteller</XML_Serializer_Tag>
+<XML_Serializer_Tag>Liederdichter</XML_Serializer_Tag>
+</professionOrOccupation>
+<dbpResource>http://dbpedia.org/resource/Heinrich_Albert</dbpResource>
+<abstract>Heinrich Friedrich Albert (* 12. Februar 1874 in Magdeburg; † 1. November 1960 in Wiesbaden) war Minister der Weimarer Republik (parteilos) im Kabinett Wilhelm Cunos, Erster Staatssekretär der Reichskanzlei der Weimarer Republik, Handelsattaché des Kaiserreiches in New York, Jurist und Aufsichtsratsvorsitzender der Ford Motor Company AG von 1937 bis 1945.</abstract>
+<wikilink>http://en.wikipedia.org/wiki/Heinrich_Albert?oldid=594199400</wikilink>
+<artworks />
+<buildings />
+<books />
+</Person>

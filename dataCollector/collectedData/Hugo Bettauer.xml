@@ -1,0 +1,29 @@
+<Person>
+<name>Hugo Bettauer</name>
+<variantName>
+<XML_Serializer_Tag>Maximilian Hugo Betthauer</XML_Serializer_Tag>
+<XML_Serializer_Tag>Maximilian Hugo Bettauer</XML_Serializer_Tag>
+</variantName>
+<thumbnail>https://commons.wikimedia.org/wiki/Special:FilePath/Hugo_Bettauer-1.jpg?width=270</thumbnail>
+<birthEN>August 18, 1872</birthEN>
+<birthDE>18. August 1872</birthDE>
+<deathEN>March 26, 1925</deathEN>
+<deathDE>26. März 1925</deathDE>
+<birthPlace>
+<XML_Serializer_Tag>Baden (Niederösterreich)</XML_Serializer_Tag>
+</birthPlace>
+<deathPlace>
+<XML_Serializer_Tag>Wien</XML_Serializer_Tag>
+</deathPlace>
+<professionOrOccupation>
+<XML_Serializer_Tag>Journalist</XML_Serializer_Tag>
+<XML_Serializer_Tag>Politiker</XML_Serializer_Tag>
+<XML_Serializer_Tag>Schriftsteller</XML_Serializer_Tag>
+</professionOrOccupation>
+<dbpResource>http://dbpedia.org/resource/Hugo_Bettauer</dbpResource>
+<abstract>Maximilian Hugo Bettauer (* 18. August 1872 in Baden bei Wien, Österreich-Ungarn; † 26. März 1925 in Wien, Österreich), war ein österreichischer Schriftsteller und Drehbuchautor.</abstract>
+<wikilink>http://en.wikipedia.org/wiki/Hugo_Bettauer?oldid=598378324</wikilink>
+<artworks />
+<buildings />
+<books />
+</Person>

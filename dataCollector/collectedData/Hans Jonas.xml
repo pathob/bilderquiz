@@ -1,0 +1,34 @@
+<Person>
+<name>Hans Jonas</name>
+<variantName>
+<XML_Serializer_Tag>Hansu Yonusu</XML_Serializer_Tag>
+<XML_Serializer_Tag>Chans Giōnas</XML_Serializer_Tag>
+<XML_Serializer_Tag>Hansŭ Yonasŭ</XML_Serializer_Tag>
+<XML_Serializer_Tag>Han si Yue na si</XML_Serializer_Tag>
+<XML_Serializer_Tag>Hansi-Yuenasi</XML_Serializer_Tag>
+<XML_Serializer_Tag>Hansi Yuenas</XML_Serializer_Tag>
+<XML_Serializer_Tag>Hans Yônas</XML_Serializer_Tag>
+<XML_Serializer_Tag>האנס יונס</XML_Serializer_Tag>
+</variantName>
+<thumbnail>https://commons.wikimedia.org/wiki/Special:FilePath/Hans_Jonas&apos;_birth_house_in_Moenchengladbach.JPG?width=270</thumbnail>
+<birthEN>May 10, 1903</birthEN>
+<birthDE>10. Mai 1903</birthDE>
+<deathEN>February 5, 1993</deathEN>
+<deathDE>5. Februar 1993</deathDE>
+<birthPlace>
+<XML_Serializer_Tag>Mönchengladbach</XML_Serializer_Tag>
+</birthPlace>
+<deathPlace>
+<XML_Serializer_Tag>New York, NY</XML_Serializer_Tag>
+</deathPlace>
+<professionOrOccupation>
+<XML_Serializer_Tag>Philosoph</XML_Serializer_Tag>
+<XML_Serializer_Tag>Religionshistoriker</XML_Serializer_Tag>
+</professionOrOccupation>
+<dbpResource>http://dbpedia.org/resource/Hans_Jonas</dbpResource>
+<abstract>Hans Jonas (* 10. Mai 1903 in Mönchengladbach; † 5. Februar 1993 in New York) war ein Philosoph, der von 1955 bis 1976 als Professor an der New School for Social Research in New York City lehrte. Sein Hauptwerk ist die 1979 veröffentlichte und bis heute wirkungsstarke Schrift Das Prinzip Verantwortung.</abstract>
+<wikilink>http://en.wikipedia.org/wiki/Hans_Jonas?oldid=606728662</wikilink>
+<artworks />
+<buildings />
+<books />
+</Person>

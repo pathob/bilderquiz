@@ -1,0 +1,30 @@
+<Person>
+<name>Maurice Halbwachs</name>
+<variantName>
+<XML_Serializer_Tag>Louis Maurice Halbwachs</XML_Serializer_Tag>
+</variantName>
+<thumbnail>https://commons.wikimedia.org/wiki/Special:FilePath/Envoi_Dumézil_à_Halbwachs.JPG?width=270</thumbnail>
+<birthEN>1877</birthEN>
+<birthDE>1877</birthDE>
+<deathEN>1945</deathEN>
+<deathDE>1945</deathDE>
+<birthPlace>
+<XML_Serializer_Tag>Reims</XML_Serializer_Tag>
+</birthPlace>
+<deathPlace>
+<XML_Serializer_Tag>Weimar-Buchenwald</XML_Serializer_Tag>
+</deathPlace>
+<professionOrOccupation>
+<XML_Serializer_Tag>Soziologe</XML_Serializer_Tag>
+<XML_Serializer_Tag>Philosoph</XML_Serializer_Tag>
+<XML_Serializer_Tag>Psychologe</XML_Serializer_Tag>
+<XML_Serializer_Tag>Hochschullehrer</XML_Serializer_Tag>
+<XML_Serializer_Tag>Autor</XML_Serializer_Tag>
+</professionOrOccupation>
+<dbpResource>http://dbpedia.org/resource/Maurice_Halbwachs</dbpResource>
+<abstract>Maurice Halbwachs (* 11. März 1877 in Reims; † 16. März 1945 im KZ Buchenwald) war ein französischer Soziologe und Philosoph, dessen Werk bis heute das Konzept des kollektiven Gedächtnisses maßgeblich mitprägt.</abstract>
+<wikilink>http://en.wikipedia.org/wiki/Maurice_Halbwachs?oldid=603553833</wikilink>
+<artworks />
+<buildings />
+<books />
+</Person>

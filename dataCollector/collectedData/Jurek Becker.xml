@@ -1,0 +1,64 @@
+<Person>
+<name>Jurek Becker</name>
+<variantName>
+<XML_Serializer_Tag>Giurek Mpeker</XML_Serializer_Tag>
+<XML_Serializer_Tag>Jurek Beker</XML_Serializer_Tag>
+<XML_Serializer_Tag>Yūreku Bekkā</XML_Serializer_Tag>
+<XML_Serializer_Tag>Jurek Bekker</XML_Serializer_Tag>
+<XML_Serializer_Tag>You rui ke Bei ke</XML_Serializer_Tag>
+<XML_Serializer_Tag>Youruike-Beike</XML_Serializer_Tag>
+<XML_Serializer_Tag>Youruike Beike</XML_Serializer_Tag>
+<XML_Serializer_Tag>יורק בקר</XML_Serializer_Tag>
+<XML_Serializer_Tag>尤雷克‧贝克尔</XML_Serializer_Tag>
+<XML_Serializer_Tag>ユーレク・ベッカー</XML_Serializer_Tag>
+<XML_Serializer_Tag>尤雷克 贝克尔</XML_Serializer_Tag>
+<XML_Serializer_Tag>ユーレク ベッカー</XML_Serializer_Tag>
+</variantName>
+<thumbnail>https://commons.wikimedia.org/wiki/Special:FilePath/Jurek_Becker_2.jpg?width=270</thumbnail>
+<birthEN>September 30, 1937</birthEN>
+<birthDE>30. September 1937</birthDE>
+<deathEN>March 14, 1997</deathEN>
+<deathDE>14. März 1997</deathDE>
+<birthPlace>
+<XML_Serializer_Tag>Lodz</XML_Serializer_Tag>
+</birthPlace>
+<deathPlace>
+<XML_Serializer_Tag>Thumby-Sieseby</XML_Serializer_Tag>
+</deathPlace>
+<professionOrOccupation>
+<XML_Serializer_Tag>Dissident</XML_Serializer_Tag>
+<XML_Serializer_Tag>Schriftsteller</XML_Serializer_Tag>
+<XML_Serializer_Tag>Drehbuchautor</XML_Serializer_Tag>
+</professionOrOccupation>
+<dbpResource>http://dbpedia.org/resource/Jurek_Becker</dbpResource>
+<abstract>Jurek Becker (* vermutlich 30. September 1937 in Łódź, Polen als Jerzy Bekker geboren; † 14. März 1997 in Sieseby, Schleswig-Holstein) war ein deutscher Schriftsteller, Drehbuchautor und DDR-Dissident.</abstract>
+<wikilink>http://en.wikipedia.org/wiki/Jurek_Becker?oldid=606284273</wikilink>
+<artworks />
+<buildings />
+<books>
+<XML_Serializer_Tag>
+<book>
+<type>uri</type>
+<value>http://dbpedia.org/resource/Jacob_the_Liar</value>
+</book>
+<author>
+<type>uri</type>
+<value>http://dbpedia.org/resource/Jurek_Becker</value>
+</author>
+<released>
+<type>typed-literal</type>
+<datatype>http://www.w3.org/2001/XMLSchema#integer</datatype>
+<value>1969</value>
+</released>
+<wikilink>
+<type>uri</type>
+<value>http://en.wikipedia.org/wiki/Jacob_the_Liar?oldid=606224813</value>
+</wikilink>
+<abstract>
+<type>literal</type>
+<xml:lang>de</xml:lang>
+<value>Der Roman Jakob der Lügner ist das bekannteste Werk des Schriftstellers Jurek Becker. Es wurde 1969 veröffentlicht.</value>
+</abstract>
+</XML_Serializer_Tag>
+</books>
+</Person>

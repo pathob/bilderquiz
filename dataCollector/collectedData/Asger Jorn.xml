@@ -1,0 +1,29 @@
+<Person>
+<name>Asger Jorn</name>
+<variantName>
+<XML_Serializer_Tag>Asger Jørgensen</XML_Serializer_Tag>
+<XML_Serializer_Tag>Asgeir Jorn</XML_Serializer_Tag>
+<XML_Serializer_Tag>Asger Oluf Jorn</XML_Serializer_Tag>
+<XML_Serializer_Tag>Asger Oluf Jørgensen</XML_Serializer_Tag>
+</variantName>
+<thumbnail>https://commons.wikimedia.org/wiki/Special:FilePath/Asger_Jorn_(1963)_by_Erling_Mandelmann.jpg?width=270</thumbnail>
+<birthEN>March 3, 1914</birthEN>
+<birthDE>3. März 1914</birthDE>
+<deathEN>May 1, 1973</deathEN>
+<deathDE>1. Mai 1973</deathDE>
+<birthPlace>
+<XML_Serializer_Tag>Vejrum i Vestjylland</XML_Serializer_Tag>
+</birthPlace>
+<deathPlace>
+<XML_Serializer_Tag>Århus</XML_Serializer_Tag>
+</deathPlace>
+<professionOrOccupation>
+<XML_Serializer_Tag>Künstler</XML_Serializer_Tag>
+</professionOrOccupation>
+<dbpResource>http://dbpedia.org/resource/Asger_Jorn</dbpResource>
+<abstract>Asger Jorn (* 3. März 1914 in Vejrum, Jütland; † 1. Mai 1973 in Aarhus; eigentlich Asger Oluf Jørgensen) war ein dänischer Künstler.</abstract>
+<wikilink>http://en.wikipedia.org/wiki/Asger_Jorn?oldid=601026474</wikilink>
+<artworks />
+<buildings />
+<books />
+</Person>

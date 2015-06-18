@@ -1,0 +1,67 @@
+<Person>
+<name>Carl Gotthard Langhans</name>
+<variantName>
+<XML_Serializer_Tag>C. Langhans</XML_Serializer_Tag>
+<XML_Serializer_Tag>Carl Gotthardt Langhans</XML_Serializer_Tag>
+<XML_Serializer_Tag>Karl Gotthard Langhans</XML_Serializer_Tag>
+<XML_Serializer_Tag>Karl Gotthardt Langhans</XML_Serializer_Tag>
+<XML_Serializer_Tag>Charles Gotthard Langhans</XML_Serializer_Tag>
+<XML_Serializer_Tag>Carl Gotthard L.</XML_Serializer_Tag>
+<XML_Serializer_Tag>Carl Gotthard L.</XML_Serializer_Tag>
+<XML_Serializer_Tag>Karl G. Langhans</XML_Serializer_Tag>
+</variantName>
+<thumbnail>https://commons.wikimedia.org/wiki/Special:FilePath/Carl_Gotthard_Langhans.jpg?width=270</thumbnail>
+<birthEN>1732</birthEN>
+<birthDE>1732</birthDE>
+<deathEN>1808</deathEN>
+<deathDE>1808</deathDE>
+<birthPlace>
+<XML_Serializer_Tag>Landeshut (Schlesien)</XML_Serializer_Tag>
+</birthPlace>
+<deathPlace>
+<XML_Serializer_Tag>Grüneiche (bei Breslau)</XML_Serializer_Tag>
+</deathPlace>
+<professionOrOccupation>
+<XML_Serializer_Tag>Architekt</XML_Serializer_Tag>
+<XML_Serializer_Tag>Baumeister</XML_Serializer_Tag>
+</professionOrOccupation>
+<dbpResource>http://dbpedia.org/resource/Carl_Gotthard_Langhans</dbpResource>
+<abstract>Carl Gotthard Langhans (* 15. Dezember 1732 in Landeshut, Schlesien; † 1. Oktober 1808 in Grüneiche bei Breslau) war ein deutscher Baumeister und Architekt. Seine Werke gehören zu den frühesten Bauten des Klassizismus in Deutschland. Sein bekanntestes Werk ist das Brandenburger Tor in Berlin.</abstract>
+<wikilink>http://en.wikipedia.org/wiki/Carl_Gotthard_Langhans?oldid=600580393</wikilink>
+<artworks />
+<buildings>
+<XML_Serializer_Tag>
+<building>
+<type>uri</type>
+<value>http://dbpedia.org/resource/Brandenburg_Gate</value>
+</building>
+<name>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>Brandenburg Gate</value>
+</name>
+<architect>
+<type>uri</type>
+<value>http://dbpedia.org/resource/Carl_Gotthard_Langhans</value>
+</architect>
+<thumbnail>
+<type>uri</type>
+<value>http://commons.wikimedia.org/wiki/Special:FilePath/Brandenburger_Tor_abends.jpg?width=300</value>
+</thumbnail>
+<wikilink>
+<type>uri</type>
+<value>http://en.wikipedia.org/wiki/Brandenburg_Gate?oldid=606710938</value>
+</wikilink>
+<location>
+<type>uri</type>
+<value>http://dbpedia.org/resource/Berlin</value>
+</location>
+<abstract>
+<type>literal</type>
+<xml:lang>de</xml:lang>
+<value>Das Brandenburger Tor in Berlin steht am Pariser Platz in der Dorotheenstadt im Ortsteil Mitte (Bezirk Mitte). Es wurde in den Jahren von 1788 bis 1791 auf Anweisung des preußischen Königs Friedrich Wilhelm II. von Carl Gotthard Langhans errichtet und ist ein bekanntes Wahrzeichen und nationales Symbol, mit dem viele wichtige Ereignisse der Geschichte Berlins, Deutschlands, Europas und der Welt des 20. Jahrhunderts verbunden sind. Der Bau ist dem frühklassizistischen Stil zuzuordnen.Das Brandenburger Tor bildet mit dem Pariser Platz den Abschluss des Boulevards Unter den Linden. Auf der Westseite des Tores liegt der Platz des 18. März, an dem die Straße des 17. Juni beginnt, die den Tiergarten durchquert.Das Brandenburger Tor markierte die Grenze zwischen Ost- und West-Berlin und damit die Grenze zwischen den Staaten des Warschauer Paktes und der NATO. Es war bis zur deutschen Wiedervereinigung Symbol des Kalten Krieges und wurde nach 1990 zum Symbol der Wiedervereinigung Deutschlands und Europas.</value>
+</abstract>
+</XML_Serializer_Tag>
+</buildings>
+<books />
+</Person>

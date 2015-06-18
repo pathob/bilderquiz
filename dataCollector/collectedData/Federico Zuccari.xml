@@ -1,0 +1,27 @@
+<Person>
+<name>Federico Zuccari</name>
+<variantName>
+<XML_Serializer_Tag>Federico Zuccaro</XML_Serializer_Tag>
+<XML_Serializer_Tag>Federigo Zuccaro</XML_Serializer_Tag>
+<XML_Serializer_Tag>Federico Zuccarri</XML_Serializer_Tag>
+<XML_Serializer_Tag>Federico Zuccheri</XML_Serializer_Tag>
+<XML_Serializer_Tag>Federico Zucchero</XML_Serializer_Tag>
+<XML_Serializer_Tag>Federicus Zuccarus</XML_Serializer_Tag>
+</variantName>
+<thumbnail>https://commons.wikimedia.org/wiki/Special:FilePath/Zuccaro_selfport.jpg?width=270</thumbnail>
+<birthEN>1540</birthEN>
+<birthDE>1540</birthDE>
+<deathEN>1609</deathEN>
+<deathDE>1609</deathDE>
+<birthPlace />
+<deathPlace />
+<professionOrOccupation>
+<XML_Serializer_Tag>Künstler</XML_Serializer_Tag>
+</professionOrOccupation>
+<dbpResource>http://dbpedia.org/resource/Federico_Zuccari</dbpResource>
+<abstract>Federico Zuccari oder Federico Zuccaro (* 1542 in Sant’Angelo in Vado (PU); † 1609 in Ancona) war ein italienischer manieristischer Maler und Kunsttheoretiker.</abstract>
+<wikilink>http://en.wikipedia.org/wiki/Federico_Zuccari?oldid=602501472</wikilink>
+<artworks />
+<buildings />
+<books />
+</Person>

@@ -1,0 +1,27 @@
+<Person>
+<name>Hedwig Dransfeld</name>
+<variantName />
+<thumbnail>https://de.wikipedia.org/wiki/Special:FilePath/DransfeldHedwig.jpg?width=270</thumbnail>
+<birthEN>February 24, 1871</birthEN>
+<birthDE>24. Februar 1871</birthDE>
+<deathEN>March 13, 1925</deathEN>
+<deathDE>13. März 1925</deathDE>
+<birthPlace>
+<XML_Serializer_Tag>Hacheney</XML_Serializer_Tag>
+</birthPlace>
+<deathPlace>
+<XML_Serializer_Tag>Werl</XML_Serializer_Tag>
+</deathPlace>
+<professionOrOccupation>
+<XML_Serializer_Tag>Politikerin</XML_Serializer_Tag>
+<XML_Serializer_Tag>Pädagogin</XML_Serializer_Tag>
+<XML_Serializer_Tag>Schriftstellerin</XML_Serializer_Tag>
+<XML_Serializer_Tag>Feministin</XML_Serializer_Tag>
+</professionOrOccupation>
+<dbpResource>http://dbpedia.org/resource/Hedwig_Dransfeld</dbpResource>
+<abstract>Hedwig Dransfeld (* 24. Februar 1871 in Hacheney (heute Dortmund); † 13. März 1925 in Werl) war eine deutsche katholische Frauenrechtlerin und Politikerin.</abstract>
+<wikilink>http://en.wikipedia.org/wiki/Hedwig_Dransfeld?oldid=562548146</wikilink>
+<artworks />
+<buildings />
+<books />
+</Person>

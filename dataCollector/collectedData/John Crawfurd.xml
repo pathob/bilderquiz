@@ -1,0 +1,25 @@
+<Person>
+<name>John Crawfurd</name>
+<variantName>
+<XML_Serializer_Tag>John Crawford</XML_Serializer_Tag>
+</variantName>
+<thumbnail>https://en.wikipedia.org/wiki/Special:FilePath/John_Crawfurd.jpg?width=270</thumbnail>
+<birthEN>August 13, 1783</birthEN>
+<birthDE>13. August 1783</birthDE>
+<deathEN>May 11, 1868</deathEN>
+<deathDE>11. Mai 1868</deathDE>
+<birthPlace />
+<deathPlace />
+<professionOrOccupation>
+<XML_Serializer_Tag>Ethnologe</XML_Serializer_Tag>
+<XML_Serializer_Tag>Orientalist</XML_Serializer_Tag>
+<XML_Serializer_Tag>Diplomat</XML_Serializer_Tag>
+<XML_Serializer_Tag>Schriftsteller</XML_Serializer_Tag>
+</professionOrOccupation>
+<dbpResource>http://dbpedia.org/resource/John_Crawfurd</dbpResource>
+<abstract>John Crawfurd (* 13. August 1783 auf Islay, Schottland; † 11. Mai 1868 in London) war ein schottischer Orientalist und Ethnologe.</abstract>
+<wikilink>http://en.wikipedia.org/wiki/John_Crawfurd?oldid=604556360</wikilink>
+<artworks />
+<buildings />
+<books />
+</Person>

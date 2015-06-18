@@ -1,0 +1,22 @@
+<Person>
+<name>Wilhelm Riphahn</name>
+<variantName>
+<XML_Serializer_Tag>Wilhelm Riephan</XML_Serializer_Tag>
+</variantName>
+<thumbnail>https://commons.wikimedia.org/wiki/Special:FilePath/Deutzer_Freiheit_Riphahn-Bau.JPG?width=270</thumbnail>
+<birthEN>1889</birthEN>
+<birthDE>1889</birthDE>
+<deathEN>1963</deathEN>
+<deathDE>1963</deathDE>
+<birthPlace />
+<deathPlace />
+<professionOrOccupation>
+<XML_Serializer_Tag>Architekt</XML_Serializer_Tag>
+</professionOrOccupation>
+<dbpResource>http://dbpedia.org/resource/Wilhelm_Riphahn</dbpResource>
+<abstract>Wilhelm Riphahn (auch Riphan) (* 25. Juli 1889 in Köln; † 27. Dezember 1963 ebenda) war ein deutscher Architekt.</abstract>
+<wikilink>http://en.wikipedia.org/wiki/Wilhelm_Riphahn?oldid=557009983</wikilink>
+<artworks />
+<buildings />
+<books />
+</Person>

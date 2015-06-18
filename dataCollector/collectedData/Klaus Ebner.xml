@@ -1,0 +1,47 @@
+<Person>
+<name>Klaus Ebner</name>
+<variantName />
+<thumbnail>https://commons.wikimedia.org/wiki/Special:FilePath/KlausEbner4.jpg?width=270</thumbnail>
+<birthEN>1964</birthEN>
+<birthDE>1964</birthDE>
+<deathEN />
+<deathDE />
+<birthPlace>
+<XML_Serializer_Tag>Wien</XML_Serializer_Tag>
+</birthPlace>
+<deathPlace />
+<professionOrOccupation>
+<XML_Serializer_Tag>Autor</XML_Serializer_Tag>
+<XML_Serializer_Tag>Übersetzer</XML_Serializer_Tag>
+</professionOrOccupation>
+<dbpResource>http://dbpedia.org/resource/Klaus_Ebner</dbpResource>
+<abstract>Klaus Ebner (* 8. August 1964 in Wien) ist ein österreichischer Schriftsteller und Übersetzer. Er ist Autor von Prosa, Essays und deutscher sowie katalanischer Lyrik.</abstract>
+<wikilink>http://en.wikipedia.org/wiki/Klaus_Ebner?oldid=575087637</wikilink>
+<artworks />
+<buildings />
+<books>
+<XML_Serializer_Tag>
+<book>
+<type>uri</type>
+<value>http://dbpedia.org/resource/Hominid_(novel)</value>
+</book>
+<author>
+<type>uri</type>
+<value>http://dbpedia.org/resource/Klaus_Ebner</value>
+</author>
+<thumbnail>
+<type>uri</type>
+<value>http://commons.wikimedia.org/wiki/Special:FilePath/Feuchtstelle_in_Savanne_WP_38_SDr.JPG?width=300</value>
+</thumbnail>
+<wikilink>
+<type>uri</type>
+<value>http://en.wikipedia.org/wiki/Hominid_(novel)?oldid=575087207</value>
+</wikilink>
+<abstract>
+<type>literal</type>
+<xml:lang>de</xml:lang>
+<value>Hominide ist eine als eigenständige Buchpublikation veröffentlichte Erzählung des österreichischen Autors Klaus Ebner, erschienen im Oktober 2008 im Wiener FZA-Verlag.</value>
+</abstract>
+</XML_Serializer_Tag>
+</books>
+</Person>

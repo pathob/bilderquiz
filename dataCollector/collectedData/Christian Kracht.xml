@@ -1,0 +1,30 @@
+<Person>
+<name>Christian Kracht</name>
+<variantName>
+<XML_Serializer_Tag>Kurisuteian Kurawato</XML_Serializer_Tag>
+<XML_Serializer_Tag>Kristian Kracht</XML_Serializer_Tag>
+<XML_Serializer_Tag>Kristiāns Krahts</XML_Serializer_Tag>
+<XML_Serializer_Tag>כריסטיאן קראכט</XML_Serializer_Tag>
+<XML_Serializer_Tag>クリスティアン クラハト</XML_Serializer_Tag>
+</variantName>
+<thumbnail>https://commons.wikimedia.org/wiki/Special:FilePath/Christian_Kracht.JPG?width=270</thumbnail>
+<birthEN>1966</birthEN>
+<birthDE>1966</birthDE>
+<deathEN />
+<deathDE />
+<birthPlace>
+<XML_Serializer_Tag>Saanen</XML_Serializer_Tag>
+</birthPlace>
+<deathPlace />
+<professionOrOccupation>
+<XML_Serializer_Tag>Schriftsteller</XML_Serializer_Tag>
+<XML_Serializer_Tag>Journalist</XML_Serializer_Tag>
+<XML_Serializer_Tag>Drehbuchautor</XML_Serializer_Tag>
+</professionOrOccupation>
+<dbpResource>http://dbpedia.org/resource/Christian_Kracht</dbpResource>
+<abstract>Christian Kracht (* 29. Dezember 1966 in Saanen) ist ein Schweizer Schriftsteller, Drehbuchautor und Journalist.</abstract>
+<wikilink>http://en.wikipedia.org/wiki/Christian_Kracht?oldid=604331825</wikilink>
+<artworks />
+<buildings />
+<books />
+</Person>

@@ -1,0 +1,42 @@
+<Person>
+<name>Jean Baudrillard</name>
+<variantName>
+<XML_Serializer_Tag>J. Baudrillard</XML_Serializer_Tag>
+</variantName>
+<thumbnail>https://commons.wikimedia.org/wiki/Special:FilePath/WikipediaBaudrillard20040612.jpg?width=270</thumbnail>
+<birthEN>July 20, 1929</birthEN>
+<birthDE>20. Juli 1929</birthDE>
+<deathEN>March 6, 2007</deathEN>
+<deathDE>6. März 2007</deathDE>
+<birthPlace>
+<XML_Serializer_Tag>Reims</XML_Serializer_Tag>
+</birthPlace>
+<deathPlace>
+<XML_Serializer_Tag>Paris</XML_Serializer_Tag>
+</deathPlace>
+<professionOrOccupation>
+<XML_Serializer_Tag>Soziologe</XML_Serializer_Tag>
+<XML_Serializer_Tag>Philosoph</XML_Serializer_Tag>
+</professionOrOccupation>
+<dbpResource>http://dbpedia.org/resource/Jean_Baudrillard</dbpResource>
+<abstract>Jean Baudrillard (* 27. Juli 1929 in Reims; † 6. März 2007 in Paris) war ein französischer Medientheoretiker, Philosoph und Soziologe, der als Professor an der Université de Paris-IX Dauphine lehrte. Er war ein einflussreicher, aber auch umstrittener Vertreter des poststrukturalistischen Denkens.</abstract>
+<wikilink>http://en.wikipedia.org/wiki/Jean_Baudrillard?oldid=606213083</wikilink>
+<artworks />
+<buildings />
+<books>
+<XML_Serializer_Tag>
+<book>
+<type>uri</type>
+<value>http://dbpedia.org/resource/Simulacra_and_Simulation</value>
+</book>
+<author>
+<type>uri</type>
+<value>http://dbpedia.org/resource/Jean_Baudrillard</value>
+</author>
+<wikilink>
+<type>uri</type>
+<value>http://en.wikipedia.org/wiki/Simulacra_and_Simulation?oldid=606723592</value>
+</wikilink>
+</XML_Serializer_Tag>
+</books>
+</Person>

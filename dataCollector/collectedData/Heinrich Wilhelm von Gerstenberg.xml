@@ -1,0 +1,29 @@
+<Person>
+<name>Heinrich Wilhelm von Gerstenberg</name>
+<variantName>
+<XML_Serializer_Tag>Ohle Madsen</XML_Serializer_Tag>
+<XML_Serializer_Tag>Wilhelm von Gerstenberg</XML_Serializer_Tag>
+<XML_Serializer_Tag>Heinrich W. von Gerstenberg</XML_Serializer_Tag>
+<XML_Serializer_Tag>... Ohle Madsen</XML_Serializer_Tag>
+<XML_Serializer_Tag>H. W. von Gerstenberg</XML_Serializer_Tag>
+<XML_Serializer_Tag>Johann Wilhelm von Gerstenberg</XML_Serializer_Tag>
+<XML_Serializer_Tag>Heinrich Wilhelm Gerstenberg</XML_Serializer_Tag>
+<XML_Serializer_Tag>Gerstenberg</XML_Serializer_Tag>
+</variantName>
+<thumbnail>https://commons.wikimedia.org/wiki/Special:FilePath/Heinrich_W._von_Gerstenberg.jpg?width=270</thumbnail>
+<birthEN>January 3, 1737</birthEN>
+<birthDE>3. Januar 1737</birthDE>
+<deathEN>November 1, 1823</deathEN>
+<deathDE>1. November 1823</deathDE>
+<birthPlace />
+<deathPlace />
+<professionOrOccupation>
+<XML_Serializer_Tag>Schriftsteller</XML_Serializer_Tag>
+</professionOrOccupation>
+<dbpResource>http://dbpedia.org/resource/Heinrich_Wilhelm_von_Gerstenberg</dbpResource>
+<abstract>Heinrich Wilhelm von Gerstenberg (* 3. Januar 1737 in Tondern, Schleswig; † 1. November 1823 in Altona; Pseudonyme: Ohle Madsen, Zacharias Jernstrup, Irmenfried Wetstein) war ein deutscher Dichter und Kritiker.</abstract>
+<wikilink>http://en.wikipedia.org/wiki/Heinrich_Wilhelm_von_Gerstenberg?oldid=592868716</wikilink>
+<artworks />
+<buildings />
+<books />
+</Person>

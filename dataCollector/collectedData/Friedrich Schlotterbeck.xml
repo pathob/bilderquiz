@@ -1,0 +1,28 @@
+<Person>
+<name>Friedrich Schlotterbeck</name>
+<variantName>
+<XML_Serializer_Tag>Albert Friedrich Schlotterbeck</XML_Serializer_Tag>
+</variantName>
+<thumbnail>https://commons.wikimedia.org/wiki/Special:FilePath/Friedrich_Schlotterbeck.jpg?width=270</thumbnail>
+<birthEN>January 6, 1909</birthEN>
+<birthDE>6. Januar 1909</birthDE>
+<deathEN>April 7, 1979</deathEN>
+<deathDE>7. April 1979</deathDE>
+<birthPlace>
+<XML_Serializer_Tag>Reutlingen</XML_Serializer_Tag>
+</birthPlace>
+<deathPlace>
+<XML_Serializer_Tag>Potsdam</XML_Serializer_Tag>
+</deathPlace>
+<professionOrOccupation>
+<XML_Serializer_Tag>Widerstandskämpfer</XML_Serializer_Tag>
+<XML_Serializer_Tag>Schriftsteller</XML_Serializer_Tag>
+<XML_Serializer_Tag>Parteifunktionär</XML_Serializer_Tag>
+</professionOrOccupation>
+<dbpResource>http://dbpedia.org/resource/Friedrich_Schlotterbeck</dbpResource>
+<abstract>Albert Friedrich (genannt Frieder) Schlotterbeck (* 6. Januar 1909 in Reutlingen; † 7. April 1979 in Berlin-Buch) war ein deutscher Widerstandskämpfer gegen den Nationalsozialismus und Schriftsteller.</abstract>
+<wikilink>http://en.wikipedia.org/wiki/Friedrich_Schlotterbeck?oldid=562720846</wikilink>
+<artworks />
+<buildings />
+<books />
+</Person>

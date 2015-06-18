@@ -1,0 +1,23 @@
+<Person>
+<name>Ingeborg Drewitz</name>
+<variantName>
+<XML_Serializer_Tag>Ingeborg Drevic</XML_Serializer_Tag>
+</variantName>
+<thumbnail>https://commons.wikimedia.org/wiki/Special:FilePath/Gedenktafel_Quermatenweg_178_Ingeborg_Drewitz.JPG?width=270</thumbnail>
+<birthEN>January 10, 1923</birthEN>
+<birthDE>10. Januar 1923</birthDE>
+<deathEN>November 26, 1986</deathEN>
+<deathDE>26. November 1986</deathDE>
+<birthPlace />
+<deathPlace />
+<professionOrOccupation>
+<XML_Serializer_Tag>Schriftstellerin</XML_Serializer_Tag>
+<XML_Serializer_Tag>Publizistin</XML_Serializer_Tag>
+</professionOrOccupation>
+<dbpResource>http://dbpedia.org/resource/Ingeborg_Drewitz</dbpResource>
+<abstract>Ingeborg Drewitz (* 10. Januar 1923 in Berlin; † 26. November 1986 ebenda) war eine deutsche Schriftstellerin.</abstract>
+<wikilink>http://en.wikipedia.org/wiki/Ingeborg_Drewitz?oldid=577097200</wikilink>
+<artworks />
+<buildings />
+<books />
+</Person>

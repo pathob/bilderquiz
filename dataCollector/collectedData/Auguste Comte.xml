@@ -1,0 +1,30 @@
+<Person>
+<name>Auguste Comte</name>
+<variantName>
+<XML_Serializer_Tag>Isidore Marie Auguste François Xavier Comte</XML_Serializer_Tag>
+<XML_Serializer_Tag>Isodore Auguste Comte</XML_Serializer_Tag>
+<XML_Serializer_Tag>A. Comte</XML_Serializer_Tag>
+<XML_Serializer_Tag>August Comte</XML_Serializer_Tag>
+</variantName>
+<thumbnail>https://commons.wikimedia.org/wiki/Special:FilePath/Auguste_Comte2.jpg?width=270</thumbnail>
+<birthEN>January 19, 1798</birthEN>
+<birthDE>19. Januar 1798</birthDE>
+<deathEN>September 5, 1857</deathEN>
+<deathDE>5. September 1857</deathDE>
+<birthPlace>
+<XML_Serializer_Tag>Montpellier</XML_Serializer_Tag>
+</birthPlace>
+<deathPlace>
+<XML_Serializer_Tag>Paris</XML_Serializer_Tag>
+</deathPlace>
+<professionOrOccupation>
+<XML_Serializer_Tag>Philosoph</XML_Serializer_Tag>
+<XML_Serializer_Tag>Soziologe</XML_Serializer_Tag>
+</professionOrOccupation>
+<dbpResource>http://dbpedia.org/resource/Auguste_Comte</dbpResource>
+<abstract>Isidore Marie Auguste François Xavier Comte (* 19. Januar 1798 in Montpellier; † 5. September 1857 in Paris) war ein französischer Mathematiker, Philosoph und Religionskritiker. Vor allem ist er jedoch als einer der Mitbegründer der Soziologie bekannt, deren Benennung auf Comte zurückgeht.</abstract>
+<wikilink>http://en.wikipedia.org/wiki/Auguste_Comte?oldid=606607060</wikilink>
+<artworks />
+<buildings />
+<books />
+</Person>

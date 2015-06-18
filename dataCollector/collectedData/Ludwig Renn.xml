@@ -1,0 +1,32 @@
+<Person>
+<name>Ludwig Renn</name>
+<variantName>
+<XML_Serializer_Tag>Ludwik Renn</XML_Serializer_Tag>
+<XML_Serializer_Tag>Arnold F. von Golßenau</XML_Serializer_Tag>
+<XML_Serializer_Tag>Arnold Friedrich Vieth von Golssenau</XML_Serializer_Tag>
+<XML_Serializer_Tag>Arnold Friedrich Vieth von Golssenau</XML_Serializer_Tag>
+<XML_Serializer_Tag>Antonio Poveda</XML_Serializer_Tag>
+<XML_Serializer_Tag>White</XML_Serializer_Tag>
+</variantName>
+<thumbnail>https://commons.wikimedia.org/wiki/Special:FilePath/Bundesarchiv_Bild_183-26681-0009,_Berlin,_Ludwig_Renn,_Sowinski.jpg?width=270</thumbnail>
+<birthEN>April 22, 1889</birthEN>
+<birthDE>22. April 1889</birthDE>
+<deathEN>July 21, 1979</deathEN>
+<deathDE>21. Juli 1979</deathDE>
+<birthPlace>
+<XML_Serializer_Tag>Dresden</XML_Serializer_Tag>
+</birthPlace>
+<deathPlace>
+<XML_Serializer_Tag>Berlin</XML_Serializer_Tag>
+</deathPlace>
+<professionOrOccupation>
+<XML_Serializer_Tag>Schriftsteller</XML_Serializer_Tag>
+<XML_Serializer_Tag>Historiker</XML_Serializer_Tag>
+</professionOrOccupation>
+<dbpResource>http://dbpedia.org/resource/Ludwig_Renn</dbpResource>
+<abstract>Ludwig Renn (* 22. April 1889 in Dresden; † 21. Juli 1979 in Berlin; eigentlich Arnold Friedrich Vieth von Golßenau) war ein deutscher Schriftsteller.</abstract>
+<wikilink>http://en.wikipedia.org/wiki/Ludwig_Renn?oldid=604030305</wikilink>
+<artworks />
+<buildings />
+<books />
+</Person>

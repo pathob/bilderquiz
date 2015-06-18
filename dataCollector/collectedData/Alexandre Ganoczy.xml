@@ -1,0 +1,26 @@
+<Person>
+<name>Alexandre Ganoczy</name>
+<variantName>
+<XML_Serializer_Tag>Sándor Gánóczy</XML_Serializer_Tag>
+<XML_Serializer_Tag>Alexander Ganoczy</XML_Serializer_Tag>
+</variantName>
+<thumbnail>https://commons.wikimedia.org/wiki/Special:FilePath/Ganoczy_sandor.jpg?width=270</thumbnail>
+<birthEN>1928</birthEN>
+<birthDE>1928</birthDE>
+<deathEN />
+<deathDE />
+<birthPlace>
+<XML_Serializer_Tag>Budapest</XML_Serializer_Tag>
+</birthPlace>
+<deathPlace />
+<professionOrOccupation>
+<XML_Serializer_Tag>Theologe</XML_Serializer_Tag>
+<XML_Serializer_Tag>Philosoph</XML_Serializer_Tag>
+</professionOrOccupation>
+<dbpResource>http://dbpedia.org/resource/Alexandre_Ganoczy</dbpResource>
+<abstract>Alexandre Ganoczy (eigentlich: Sándor Gánóczy; * 12. Dezember 1928 in Budapest) ist ein ungarischer katholischer Theologe und Dogmatiker, der als Hochschullehrer in Deutschland und Frankreich gewirkt hat. Er lebt in Dauphin, Alpes-de-Haute-Provence.</abstract>
+<wikilink>http://en.wikipedia.org/wiki/Alexandre_Ganoczy?oldid=546310160</wikilink>
+<artworks />
+<buildings />
+<books />
+</Person>

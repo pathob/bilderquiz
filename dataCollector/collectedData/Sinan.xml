@@ -1,0 +1,35 @@
+<Person>
+<name>Sinan</name>
+<variantName>
+<XML_Serializer_Tag>Mimar Sinan</XML_Serializer_Tag>
+<XML_Serializer_Tag>Koca Sinan</XML_Serializer_Tag>
+<XML_Serializer_Tag>Koca Sinan</XML_Serializer_Tag>
+<XML_Serializer_Tag>Miʿmār Sinān</XML_Serializer_Tag>
+<XML_Serializer_Tag>Mimar Koca Sinan</XML_Serializer_Tag>
+<XML_Serializer_Tag>Kodscha Sinan</XML_Serializer_Tag>
+<XML_Serializer_Tag>Kodscha Sinan</XML_Serializer_Tag>
+<XML_Serializer_Tag>Sinan bin Abdülmennan</XML_Serializer_Tag>
+<XML_Serializer_Tag>Sinan Abdülmennan</XML_Serializer_Tag>
+<XML_Serializer_Tag>Sinān ʿAbd-ül-Mennān</XML_Serializer_Tag>
+<XML_Serializer_Tag>Yusuf Sinanüddin</XML_Serializer_Tag>
+<XML_Serializer_Tag>Yusuf Sinan Paşa Sinanüddin</XML_Serializer_Tag>
+<XML_Serializer_Tag>Yusuf Sinan Paşa Sinanüddin</XML_Serializer_Tag>
+<XML_Serializer_Tag>Sinān</XML_Serializer_Tag>
+</variantName>
+<thumbnail>https://commons.wikimedia.org/wiki/Special:FilePath/MimarSinan-Detail.jpg?width=270</thumbnail>
+<birthEN />
+<birthDE />
+<deathEN />
+<deathDE />
+<birthPlace />
+<deathPlace />
+<professionOrOccupation>
+<XML_Serializer_Tag>Architekt</XML_Serializer_Tag>
+</professionOrOccupation>
+<dbpResource>http://dbpedia.org/resource/Koca_Sinan_Pasha</dbpResource>
+<abstract>Koca Sinan Pascha (auch Sinan Pascha; * 1512; † 3. April 1596) war ein Pascha, Feldherr und Staatsmann des Osmanischen Reiches albanischer Herkunft.</abstract>
+<wikilink>http://en.wikipedia.org/wiki/Koca_Sinan_Pasha?oldid=606613347</wikilink>
+<artworks />
+<buildings />
+<books />
+</Person>

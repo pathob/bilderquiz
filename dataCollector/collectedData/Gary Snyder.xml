@@ -1,0 +1,24 @@
+<Person>
+<name>Gary Snyder</name>
+<variantName>
+<XML_Serializer_Tag>Gary S. Snyder</XML_Serializer_Tag>
+</variantName>
+<thumbnail>https://commons.wikimedia.org/wiki/Special:FilePath/Gary_Snyder_2007_Columbia.jpg?width=270</thumbnail>
+<birthEN>1930</birthEN>
+<birthDE>1930</birthDE>
+<deathEN />
+<deathDE />
+<birthPlace>
+<XML_Serializer_Tag>San Francisco, Calif.</XML_Serializer_Tag>
+</birthPlace>
+<deathPlace />
+<professionOrOccupation>
+<XML_Serializer_Tag>Schriftsteller</XML_Serializer_Tag>
+</professionOrOccupation>
+<dbpResource>http://dbpedia.org/resource/Gary_Snyder</dbpResource>
+<abstract>Gary Snyder (* 8. Mai 1930 in San Francisco) ist ein US-amerikanischer Schriftsteller und Umweltaktivist.</abstract>
+<wikilink>http://en.wikipedia.org/wiki/Gary_Snyder?oldid=606499515</wikilink>
+<artworks />
+<buildings />
+<books />
+</Person>

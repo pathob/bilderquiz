@@ -1,0 +1,24 @@
+<Person>
+<name>Anton Hanak</name>
+<variantName />
+<thumbnail>https://commons.wikimedia.org/wiki/Special:FilePath/Gedenkstätte_Erster_Weltkrieg_Rückansicht.jpg?width=270</thumbnail>
+<birthEN>March 22, 1875</birthEN>
+<birthDE>22. März 1875</birthDE>
+<deathEN>January 7, 1934</deathEN>
+<deathDE>7. Januar 1934</deathDE>
+<birthPlace>
+<XML_Serializer_Tag>Brünn</XML_Serializer_Tag>
+</birthPlace>
+<deathPlace>
+<XML_Serializer_Tag>Wien</XML_Serializer_Tag>
+</deathPlace>
+<professionOrOccupation>
+<XML_Serializer_Tag>Bildhauer</XML_Serializer_Tag>
+</professionOrOccupation>
+<dbpResource>http://dbpedia.org/resource/Anton_Hanak</dbpResource>
+<abstract>Anton Hanak (* 22. März 1875 in Brünn, Altösterreich; † 7. Jänner 1934 in Wien) war ein österreichischer Bildhauer.</abstract>
+<wikilink>http://en.wikipedia.org/wiki/Anton_Hanak?oldid=582648903</wikilink>
+<artworks />
+<buildings />
+<books />
+</Person>

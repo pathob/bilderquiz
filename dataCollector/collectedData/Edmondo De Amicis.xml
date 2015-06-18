@@ -1,0 +1,37 @@
+<Person>
+<name>Edmondo De Amicis</name>
+<variantName>
+<XML_Serializer_Tag>E. de Amicis</XML_Serializer_Tag>
+<XML_Serializer_Tag>Edmondo de Amicis</XML_Serializer_Tag>
+<XML_Serializer_Tag>Eduardo De Amicis</XML_Serializer_Tag>
+<XML_Serializer_Tag>Eduardo de Amicis</XML_Serializer_Tag>
+<XML_Serializer_Tag>Edmondo De Amichis</XML_Serializer_Tag>
+<XML_Serializer_Tag>Ed. De Amicis</XML_Serializer_Tag>
+<XML_Serializer_Tag>Edmondo D&apos;Amicis</XML_Serializer_Tag>
+<XML_Serializer_Tag>Edmondo DeAmicis</XML_Serializer_Tag>
+<XML_Serializer_Tag>Eduardo DeAmicis</XML_Serializer_Tag>
+<XML_Serializer_Tag>Edmondo DeAmichis</XML_Serializer_Tag>
+<XML_Serializer_Tag>Ed. DeAmicis</XML_Serializer_Tag>
+<XML_Serializer_Tag>Edmondo De Amiçis</XML_Serializer_Tag>
+</variantName>
+<thumbnail>https://commons.wikimedia.org/wiki/Special:FilePath/Edmondo_De_Amicis.jpg?width=270</thumbnail>
+<birthEN>October 21, 1846</birthEN>
+<birthDE>21. Oktober 1846</birthDE>
+<deathEN>March 11, 1908</deathEN>
+<deathDE>11. März 1908</deathDE>
+<birthPlace>
+<XML_Serializer_Tag>Oneglia</XML_Serializer_Tag>
+</birthPlace>
+<deathPlace>
+<XML_Serializer_Tag>Bordighera</XML_Serializer_Tag>
+</deathPlace>
+<professionOrOccupation>
+<XML_Serializer_Tag>Schriftsteller</XML_Serializer_Tag>
+</professionOrOccupation>
+<dbpResource>http://dbpedia.org/resource/Edmondo_De_Amicis</dbpResource>
+<abstract>Edmondo De Amicis (* 21. Oktober 1846 in Imperia; † 11. März 1908 in Bordighera) war ein italienischer Schriftsteller. Sein wohl bekanntestes Werk ist der Jugendroman Cuore (Herz).</abstract>
+<wikilink>http://en.wikipedia.org/wiki/Edmondo_De_Amicis?oldid=587412780</wikilink>
+<artworks />
+<buildings />
+<books />
+</Person>

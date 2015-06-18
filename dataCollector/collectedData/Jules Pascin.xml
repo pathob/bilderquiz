@@ -1,0 +1,33 @@
+<Person>
+<name>Jules Pascin</name>
+<variantName>
+<XML_Serializer_Tag>Julius Pinchas</XML_Serializer_Tag>
+<XML_Serializer_Tag>Pascin</XML_Serializer_Tag>
+<XML_Serializer_Tag>Julius Mordecai Pincus</XML_Serializer_Tag>
+<XML_Serializer_Tag>Julius Mordecai Pintas</XML_Serializer_Tag>
+<XML_Serializer_Tag>Julius Mordecai Pinkas</XML_Serializer_Tag>
+<XML_Serializer_Tag>Julius Pincas</XML_Serializer_Tag>
+<XML_Serializer_Tag>Iulii Paskin</XML_Serializer_Tag>
+<XML_Serializer_Tag>Iulii Pinkas</XML_Serializer_Tag>
+</variantName>
+<thumbnail>https://commons.wikimedia.org/wiki/Special:FilePath/Jules_Pascin.JPG?width=270</thumbnail>
+<birthEN>1885</birthEN>
+<birthDE>1885</birthDE>
+<deathEN>1930</deathEN>
+<deathDE>1930</deathDE>
+<birthPlace>
+<XML_Serializer_Tag>Vidin</XML_Serializer_Tag>
+</birthPlace>
+<deathPlace>
+<XML_Serializer_Tag>Paris</XML_Serializer_Tag>
+</deathPlace>
+<professionOrOccupation>
+<XML_Serializer_Tag>Künstler</XML_Serializer_Tag>
+</professionOrOccupation>
+<dbpResource>http://dbpedia.org/resource/Pascin</dbpResource>
+<abstract>Jules Pascin (bulgarisch Жул Паскин; * 31. März 1885 in Widin; † 5. Juni 1930 in Paris; eigentlich Julius Mordecai Pinkas) war ein bulgarischer Maler des Expressionismus. Nach entbehrungsreichen Jahren hatte er in den 1920er Jahren beträchtlichen Erfolg, der ihn gleichwohl nicht glücklich machte. Er beging im Alter von 45 Jahren Selbstmord.</abstract>
+<wikilink>http://en.wikipedia.org/wiki/Pascin?oldid=598392397</wikilink>
+<artworks />
+<buildings />
+<books />
+</Person>

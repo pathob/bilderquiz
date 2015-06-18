@@ -1,0 +1,88 @@
+<Person>
+<name>Joseph Brodsky</name>
+<variantName>
+<XML_Serializer_Tag>Iosif Brodski</XML_Serializer_Tag>
+<XML_Serializer_Tag>Iossif Brodski</XML_Serializer_Tag>
+<XML_Serializer_Tag>Iossif A. Brodski</XML_Serializer_Tag>
+<XML_Serializer_Tag>Josef Brodski</XML_Serializer_Tag>
+<XML_Serializer_Tag>Joseph A. Brodski</XML_Serializer_Tag>
+<XML_Serializer_Tag>Josif Brodski</XML_Serializer_Tag>
+<XML_Serializer_Tag>Iosif Brodskii</XML_Serializer_Tag>
+<XML_Serializer_Tag>I. Brodskij</XML_Serializer_Tag>
+<XML_Serializer_Tag>Iosif Brodskij</XML_Serializer_Tag>
+<XML_Serializer_Tag>Iosif A. Brodskij</XML_Serializer_Tag>
+<XML_Serializer_Tag>Iosif Aleksandrovič Brodskij</XML_Serializer_Tag>
+<XML_Serializer_Tag>Josif Brodskij</XML_Serializer_Tag>
+<XML_Serializer_Tag>Josif A. Brodskij</XML_Serializer_Tag>
+<XML_Serializer_Tag>Jossif Brodskij</XML_Serializer_Tag>
+<XML_Serializer_Tag>Josifs Brodskis</XML_Serializer_Tag>
+<XML_Serializer_Tag>Iosif Brodsky</XML_Serializer_Tag>
+<XML_Serializer_Tag>Joseph A. Brodsky</XML_Serializer_Tag>
+<XML_Serializer_Tag>Yosif Brodsky</XML_Serializer_Tag>
+<XML_Serializer_Tag>Yôsēf Brôdsqî</XML_Serializer_Tag>
+<XML_Serializer_Tag>Ioseph Brontski</XML_Serializer_Tag>
+<XML_Serializer_Tag>Josef Brodzki</XML_Serializer_Tag>
+<XML_Serializer_Tag>Joseph Alexandrovich Brodsky</XML_Serializer_Tag>
+<XML_Serializer_Tag>Iosif Brodskiǐ</XML_Serializer_Tag>
+<XML_Serializer_Tag>Josef Brodsky</XML_Serializer_Tag>
+<XML_Serializer_Tag>I. A. Brodskij</XML_Serializer_Tag>
+<XML_Serializer_Tag>J. Brodskij</XML_Serializer_Tag>
+<XML_Serializer_Tag>I. A. Brodski</XML_Serializer_Tag>
+<XML_Serializer_Tag>Iosif Aleksandrovich Brodskii</XML_Serializer_Tag>
+<XML_Serializer_Tag>Josifas Brodskis</XML_Serializer_Tag>
+</variantName>
+<thumbnail>https://commons.wikimedia.org/wiki/Special:FilePath/Joseph_Brodsky_1988.jpg?width=270</thumbnail>
+<birthEN>May 24, 1940</birthEN>
+<birthDE>24. Mai 1940</birthDE>
+<deathEN>January 28, 1996</deathEN>
+<deathDE>28. Januar 1996</deathDE>
+<birthPlace>
+<XML_Serializer_Tag>Sankt Petersburg</XML_Serializer_Tag>
+</birthPlace>
+<deathPlace>
+<XML_Serializer_Tag>New York, NY</XML_Serializer_Tag>
+</deathPlace>
+<professionOrOccupation>
+<XML_Serializer_Tag>Schriftsteller</XML_Serializer_Tag>
+</professionOrOccupation>
+<dbpResource>http://dbpedia.org/resource/Joseph_Brodsky</dbpResource>
+<abstract>Joseph Brodsky (gebürtig Iossif Alexandrowitsch Brodskij, russisch Иосиф Александрович Бродский; * 24. Mai 1940 in Leningrad; † 28. Januar 1996 in New York) war ein russisch-US-amerikanischer Dichter und Nobelpreisträger für Literatur.</abstract>
+<wikilink>http://en.wikipedia.org/wiki/Joseph_Brodsky?oldid=604536455</wikilink>
+<artworks />
+<buildings />
+<books>
+<XML_Serializer_Tag>
+<book>
+<type>uri</type>
+<value>http://dbpedia.org/resource/Less_Than_One:_Selected_Essays</value>
+</book>
+<author>
+<type>uri</type>
+<value>http://dbpedia.org/resource/Joseph_Brodsky</value>
+</author>
+<released>
+<type>typed-literal</type>
+<datatype>http://www.w3.org/2001/XMLSchema#integer</datatype>
+<value>1986</value>
+</released>
+<wikilink>
+<type>uri</type>
+<value>http://en.wikipedia.org/wiki/Less_Than_One:_Selected_Essays?oldid=602035280</value>
+</wikilink>
+</XML_Serializer_Tag>
+<XML_Serializer_Tag>
+<book>
+<type>uri</type>
+<value>http://dbpedia.org/resource/Gorbunov_and_Gorchakov</value>
+</book>
+<author>
+<type>uri</type>
+<value>http://dbpedia.org/resource/Joseph_Brodsky</value>
+</author>
+<wikilink>
+<type>uri</type>
+<value>http://en.wikipedia.org/wiki/Gorbunov_and_Gorchakov?oldid=594686403</value>
+</wikilink>
+</XML_Serializer_Tag>
+</books>
+</Person>

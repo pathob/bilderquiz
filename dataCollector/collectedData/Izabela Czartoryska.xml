@@ -1,0 +1,32 @@
+<Person>
+<name>Izabela Czartoryska</name>
+<variantName>
+<XML_Serializer_Tag>Izabela Elżbieta Czartoryska</XML_Serializer_Tag>
+<XML_Serializer_Tag>Izabela Czartoryski</XML_Serializer_Tag>
+<XML_Serializer_Tag>Elżbieta Czartoryska</XML_Serializer_Tag>
+<XML_Serializer_Tag>Izabela von Flemming</XML_Serializer_Tag>
+</variantName>
+<thumbnail>https://commons.wikimedia.org/wiki/Special:FilePath/IzabelaCzartoryskaRoslin.jpg?width=270</thumbnail>
+<birthEN>March 3, 1746</birthEN>
+<birthDE>3. März 1746</birthDE>
+<deathEN>June 17, 1835</deathEN>
+<deathDE>17. Juni 1835</deathDE>
+<birthPlace>
+<XML_Serializer_Tag>Warschau</XML_Serializer_Tag>
+</birthPlace>
+<deathPlace>
+<XML_Serializer_Tag>Wysocko (b. Brody, Galizien)</XML_Serializer_Tag>
+</deathPlace>
+<professionOrOccupation>
+<XML_Serializer_Tag>Adel</XML_Serializer_Tag>
+<XML_Serializer_Tag>Schriftstellerin</XML_Serializer_Tag>
+<XML_Serializer_Tag>Zeichnerin</XML_Serializer_Tag>
+<XML_Serializer_Tag>Kunstmäzenin</XML_Serializer_Tag>
+</professionOrOccupation>
+<dbpResource>http://dbpedia.org/resource/Izabela_Czartoryska</dbpResource>
+<abstract>Izabela Dorota Fortunata Czartoryska (auch: Isabella Czartoryska, * 3. März 1746 in Warschau; † 17. Juni 1835 in Wysock, Galizien), geb. Gräfin von Flemming, war eine Aristokratin aus der ivenschen Linie des pommerschen Hauses von Flemming, durch Heirat Fürstin Czartoryska, und wirkte als Schriftstellerin, Philanthropin, Mäzenin, Salonière und Kunstsammlerin. Sie gründete das Czartoryski-Museum als erstes polnisches Nationalmuseum.</abstract>
+<wikilink>http://en.wikipedia.org/wiki/Izabela_Czartoryska?oldid=600998030</wikilink>
+<artworks />
+<buildings />
+<books />
+</Person>

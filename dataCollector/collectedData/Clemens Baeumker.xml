@@ -1,0 +1,28 @@
+<Person>
+<name>Clemens Baeumker</name>
+<variantName>
+<XML_Serializer_Tag>Klemens Baeumker</XML_Serializer_Tag>
+</variantName>
+<thumbnail>https://commons.wikimedia.org/wiki/Special:FilePath/2009-09-08-Theo-3b.JPG?width=270</thumbnail>
+<birthEN>September 16, 1853</birthEN>
+<birthDE>16. September 1853</birthDE>
+<deathEN>October 7, 1924</deathEN>
+<deathDE>7. Oktober 1924</deathDE>
+<birthPlace>
+<XML_Serializer_Tag>Paderborn</XML_Serializer_Tag>
+</birthPlace>
+<deathPlace>
+<XML_Serializer_Tag>München</XML_Serializer_Tag>
+</deathPlace>
+<professionOrOccupation>
+<XML_Serializer_Tag>Philosoph</XML_Serializer_Tag>
+<XML_Serializer_Tag>Mediävist</XML_Serializer_Tag>
+<XML_Serializer_Tag>Hochschullehrer</XML_Serializer_Tag>
+</professionOrOccupation>
+<dbpResource>http://dbpedia.org/resource/Clemens_Baeumker</dbpResource>
+<abstract>Clemens Baeumker (* 16. September 1853 in Paderborn; † 7. Oktober 1924 in München) war ein deutscher katholischer Philosoph und Philosophiehistoriker.</abstract>
+<wikilink>http://en.wikipedia.org/wiki/Clemens_Baeumker?oldid=596547421</wikilink>
+<artworks />
+<buildings />
+<books />
+</Person>

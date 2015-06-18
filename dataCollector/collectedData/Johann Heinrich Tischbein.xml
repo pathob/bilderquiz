@@ -22,8 +22,10 @@
 <XML_Serializer_Tag>Maler</XML_Serializer_Tag>
 <XML_Serializer_Tag>Radierer</XML_Serializer_Tag>
 </professionOrOccupation>
-<artworks />
 <dbpResource>http://dbpedia.org/resource/Johann_Heinrich_Tischbein</dbpResource>
 <abstract>Johann Heinrich Tischbein der Ältere (* 3. Oktober 1722 in Haina; † 22. August 1789 in Kassel; genannt der Kasseler) war einer der anerkanntesten Maler und einer der größten Portraitisten des 18. Jahrhunderts.</abstract>
 <wikilink>http://en.wikipedia.org/wiki/Johann_Heinrich_Tischbein?oldid=564745165</wikilink>
+<artworks />
+<buildings />
+<books />
 </Person>

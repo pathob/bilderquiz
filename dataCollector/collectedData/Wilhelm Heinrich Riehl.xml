@@ -1,0 +1,35 @@
+<Person>
+<name>Wilhelm Heinrich Riehl</name>
+<variantName>
+<XML_Serializer_Tag>Wilhelm Heinrich von Riehl</XML_Serializer_Tag>
+<XML_Serializer_Tag>W. H. Riehl</XML_Serializer_Tag>
+<XML_Serializer_Tag>Wilhelm Heinrich von Riehl</XML_Serializer_Tag>
+<XML_Serializer_Tag>Wilhelm H. von Riehl</XML_Serializer_Tag>
+<XML_Serializer_Tag>Wilhelm H. von Riehl</XML_Serializer_Tag>
+<XML_Serializer_Tag>Wilhelm H. Riehl</XML_Serializer_Tag>
+<XML_Serializer_Tag>H. W. Riehl</XML_Serializer_Tag>
+<XML_Serializer_Tag>W. Heinrich Riehl</XML_Serializer_Tag>
+<XML_Serializer_Tag>Wilhelm Riehl</XML_Serializer_Tag>
+</variantName>
+<thumbnail>https://commons.wikimedia.org/wiki/Special:FilePath/Wilhelm_Heinrich_Riehl_2.jpg?width=270</thumbnail>
+<birthEN>May 6, 1823</birthEN>
+<birthDE>6. Mai 1823</birthDE>
+<deathEN>November 16, 1897</deathEN>
+<deathDE>16. November 1897</deathDE>
+<birthPlace>
+<XML_Serializer_Tag>Biebrich (Wiesbaden)</XML_Serializer_Tag>
+</birthPlace>
+<deathPlace>
+<XML_Serializer_Tag>München</XML_Serializer_Tag>
+</deathPlace>
+<professionOrOccupation>
+<XML_Serializer_Tag>Historiker</XML_Serializer_Tag>
+<XML_Serializer_Tag>Schriftsteller</XML_Serializer_Tag>
+</professionOrOccupation>
+<dbpResource>http://dbpedia.org/resource/Wilhelm_Heinrich_Riehl</dbpResource>
+<abstract>Wilhelm Heinrich Riehl, ab 1883 von Riehl (* 6. Mai 1823 in Biebrich; † 16. November 1897 in München) war ein deutscher Journalist, Novellist und Kulturhistoriker. In seinen Werken betonte er früh soziale Strukturen und gewann so Einfluss auf die Entwicklung der Volkskunde im 19. Jahrhundert, als deren wissenschaftlicher Begründer er gilt.</abstract>
+<wikilink>http://en.wikipedia.org/wiki/Wilhelm_Heinrich_Riehl?oldid=606149556</wikilink>
+<artworks />
+<buildings />
+<books />
+</Person>

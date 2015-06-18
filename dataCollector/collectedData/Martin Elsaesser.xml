@@ -1,0 +1,26 @@
+<Person>
+<name>Martin Elsaesser</name>
+<variantName>
+<XML_Serializer_Tag>Martin Elsässer</XML_Serializer_Tag>
+</variantName>
+<thumbnail>https://commons.wikimedia.org/wiki/Special:FilePath/Markthalle_Stuttgart.JPG?width=270</thumbnail>
+<birthEN>May 28, 1884</birthEN>
+<birthDE>28. Mai 1884</birthDE>
+<deathEN>August 5, 1957</deathEN>
+<deathDE>5. August 1957</deathDE>
+<birthPlace>
+<XML_Serializer_Tag>Tübingen</XML_Serializer_Tag>
+</birthPlace>
+<deathPlace>
+<XML_Serializer_Tag>Stuttgart</XML_Serializer_Tag>
+</deathPlace>
+<professionOrOccupation>
+<XML_Serializer_Tag>Architekt</XML_Serializer_Tag>
+</professionOrOccupation>
+<dbpResource>http://dbpedia.org/resource/Martin_Elsaesser</dbpResource>
+<abstract>Martin Elsaesser (* 28. Mai 1884 in Tübingen; † 5. August 1957 in Stuttgart) war ein deutscher Architekt und Hochschullehrer, der besonders durch eine Vielzahl von Kirchenbauten bekannt wurde.</abstract>
+<wikilink>http://en.wikipedia.org/wiki/Martin_Elsaesser?oldid=557009393</wikilink>
+<artworks />
+<buildings />
+<books />
+</Person>

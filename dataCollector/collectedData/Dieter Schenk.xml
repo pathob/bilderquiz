@@ -1,0 +1,23 @@
+<Person>
+<name>Dieter Schenk</name>
+<variantName>
+<XML_Serializer_Tag>D. Schenk</XML_Serializer_Tag>
+</variantName>
+<thumbnail>https://commons.wikimedia.org/wiki/Special:FilePath/Defenders_of_the_Polish_Post_Office,_Gdansk,_1939.jpg?width=270</thumbnail>
+<birthEN>1937</birthEN>
+<birthDE>1937</birthDE>
+<deathEN />
+<deathDE />
+<birthPlace />
+<deathPlace />
+<professionOrOccupation>
+<XML_Serializer_Tag>Publizist</XML_Serializer_Tag>
+<XML_Serializer_Tag>Autor</XML_Serializer_Tag>
+</professionOrOccupation>
+<dbpResource>http://dbpedia.org/resource/Dieter_Schenk</dbpResource>
+<abstract>Dieter Schenk (* 1937 in Frankfurt am Main) ist ein deutscher Kriminologe, Historiker und Schriftsteller. Seit 1990 ist er als freier Publizist tätig.</abstract>
+<wikilink>http://en.wikipedia.org/wiki/Dieter_Schenk?oldid=599040125</wikilink>
+<artworks />
+<buildings />
+<books />
+</Person>

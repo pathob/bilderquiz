@@ -1,0 +1,28 @@
+<Person>
+<name>Henny Koch</name>
+<variantName>
+<XML_Serializer_Tag>Henriette Koch</XML_Serializer_Tag>
+</variantName>
+<thumbnail>https://commons.wikimedia.org/wiki/Special:FilePath/Henny_koch.jpg?width=270</thumbnail>
+<birthEN>September 22, 1854</birthEN>
+<birthDE>22. September 1854</birthDE>
+<deathEN>June 13, 1925</deathEN>
+<deathDE>13. Juni 1925</deathDE>
+<birthPlace>
+<XML_Serializer_Tag>Alsfeld</XML_Serializer_Tag>
+</birthPlace>
+<deathPlace>
+<XML_Serializer_Tag>Jugenheim, Bergstraße</XML_Serializer_Tag>
+</deathPlace>
+<professionOrOccupation>
+<XML_Serializer_Tag>Jugendbuchautorin</XML_Serializer_Tag>
+<XML_Serializer_Tag>Übersetzerin</XML_Serializer_Tag>
+<XML_Serializer_Tag>Schriftstellerin</XML_Serializer_Tag>
+</professionOrOccupation>
+<dbpResource>http://dbpedia.org/resource/Henny_Koch</dbpResource>
+<abstract>Henny Koch (* 22. September 1854 in Alsfeld; † 13. Juni 1925 in Jugenheim an der Bergstraße; eigentlich Henriette Koch) war eine deutsche Jugendbuchautorin und Übersetzerin.</abstract>
+<wikilink>http://en.wikipedia.org/wiki/Henny_Koch?oldid=605270542</wikilink>
+<artworks />
+<buildings />
+<books />
+</Person>

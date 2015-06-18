@@ -1,0 +1,27 @@
+<Person>
+<name>Mathilde Blind</name>
+<variantName>
+<XML_Serializer_Tag>Mathilde Cohen</XML_Serializer_Tag>
+<XML_Serializer_Tag>Claude Lake</XML_Serializer_Tag>
+</variantName>
+<thumbnail>https://commons.wikimedia.org/wiki/Special:FilePath/Mathilde_Blind.jpg?width=270</thumbnail>
+<birthEN>1841</birthEN>
+<birthDE>1841</birthDE>
+<deathEN>1896</deathEN>
+<deathDE>1896</deathDE>
+<birthPlace>
+<XML_Serializer_Tag>Mannheim</XML_Serializer_Tag>
+</birthPlace>
+<deathPlace>
+<XML_Serializer_Tag>London</XML_Serializer_Tag>
+</deathPlace>
+<professionOrOccupation>
+<XML_Serializer_Tag>Schriftstellerin</XML_Serializer_Tag>
+</professionOrOccupation>
+<dbpResource>http://dbpedia.org/resource/Mathilde_Blind</dbpResource>
+<abstract>Mathilde Blind (* 21. März 1841 in Mannheim; † 26. November 1896 in London) war eine englischsprachige Schriftstellerin, die besonders für ihre Gedichtbände, Biografien und Übersetzungen bekannt ist.</abstract>
+<wikilink>http://en.wikipedia.org/wiki/Mathilde_Blind?oldid=590801793</wikilink>
+<artworks />
+<buildings />
+<books />
+</Person>

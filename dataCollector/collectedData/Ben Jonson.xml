@@ -1,0 +1,39 @@
+<Person>
+<name>Ben Jonson</name>
+<variantName>
+<XML_Serializer_Tag>Benjamin Jonson</XML_Serializer_Tag>
+<XML_Serializer_Tag>Beniamin Jonson</XML_Serializer_Tag>
+<XML_Serializer_Tag>Ben Dzhonson</XML_Serializer_Tag>
+<XML_Serializer_Tag>Ben ǅonson</XML_Serializer_Tag>
+<XML_Serializer_Tag>Ben Ionson</XML_Serializer_Tag>
+<XML_Serializer_Tag>... Jonson</XML_Serializer_Tag>
+<XML_Serializer_Tag>Ben Johnson</XML_Serializer_Tag>
+<XML_Serializer_Tag>Ben-Jonson</XML_Serializer_Tag>
+<XML_Serializer_Tag>Ben-Johnson</XML_Serializer_Tag>
+<XML_Serializer_Tag>Ben-Jonhson</XML_Serializer_Tag>
+<XML_Serializer_Tag>Benjamin Johnson</XML_Serializer_Tag>
+<XML_Serializer_Tag>Beniamin Johnson</XML_Serializer_Tag>
+<XML_Serializer_Tag>B. J.</XML_Serializer_Tag>
+<XML_Serializer_Tag>Ben. Jonsonius</XML_Serializer_Tag>
+</variantName>
+<thumbnail>https://commons.wikimedia.org/wiki/Special:FilePath/Benjamin_Jonson_by_Abraham_van_Blyenberch.jpg?width=270</thumbnail>
+<birthEN>June 11, 1572</birthEN>
+<birthDE>11. Juni 1572</birthDE>
+<deathEN>August 6, 1637</deathEN>
+<deathDE>6. August 1637</deathDE>
+<birthPlace />
+<deathPlace>
+<XML_Serializer_Tag>London</XML_Serializer_Tag>
+</deathPlace>
+<professionOrOccupation>
+<XML_Serializer_Tag>Dramatiker</XML_Serializer_Tag>
+<XML_Serializer_Tag>Schriftsteller</XML_Serializer_Tag>
+<XML_Serializer_Tag>Lyriker</XML_Serializer_Tag>
+</professionOrOccupation>
+<dbpResource>http://dbpedia.org/resource/Ben_Jonson</dbpResource>
+<abstract>Ben Jonson, eigentlich Benjamin Jonson (* 11. Juni (unsicher) 1572 in London; † 6. August 1637 ebenda), war ein englischer Bühnenautor und Dichter.</abstract>
+<wikilink>http://en.wikipedia.org/wiki/Ben_Jonson?oldid=605393579</wikilink>
+<artworks />
+<buildings />
+<books />
+</Person>

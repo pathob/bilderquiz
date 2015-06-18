@@ -1,0 +1,31 @@
+<Person>
+<name>Bernard Bolzano</name>
+<variantName>
+<XML_Serializer_Tag>Bernhard Bolzano</XML_Serializer_Tag>
+<XML_Serializer_Tag>B. Bolzano</XML_Serializer_Tag>
+<XML_Serializer_Tag>Bernard Bol&apos;tsano</XML_Serializer_Tag>
+<XML_Serializer_Tag>Bernard Bol&apos;cano</XML_Serializer_Tag>
+</variantName>
+<thumbnail>https://de.wikipedia.org/wiki/Special:FilePath/Bernhard_Bolzano_Litho.jpg?width=270</thumbnail>
+<birthEN>October 5, 1781</birthEN>
+<birthDE>5. Oktober 1781</birthDE>
+<deathEN>December 18, 1848</deathEN>
+<deathDE>18. Dezember 1848</deathDE>
+<birthPlace>
+<XML_Serializer_Tag>Prag</XML_Serializer_Tag>
+</birthPlace>
+<deathPlace>
+<XML_Serializer_Tag>Prag</XML_Serializer_Tag>
+</deathPlace>
+<professionOrOccupation>
+<XML_Serializer_Tag>Mathematiker</XML_Serializer_Tag>
+<XML_Serializer_Tag>Theologe</XML_Serializer_Tag>
+<XML_Serializer_Tag>Philosoph</XML_Serializer_Tag>
+</professionOrOccupation>
+<dbpResource>http://dbpedia.org/resource/Bernard_Bolzano</dbpResource>
+<abstract>Bernardus Placidus Johann Nepomuk Bolzano (* 5. Oktober 1781 in Prag; † 18. Dezember 1848 ebenda) war ein katholischer Priester, Philosoph und Mathematiker. Der Satz von Bolzano-Weierstraß ist mit nach ihm benannt.</abstract>
+<wikilink>http://en.wikipedia.org/wiki/Bernard_Bolzano?oldid=601612247</wikilink>
+<artworks />
+<buildings />
+<books />
+</Person>

@@ -24,12 +24,15 @@
 <XML_Serializer_Tag>Maler</XML_Serializer_Tag>
 <XML_Serializer_Tag>Medailleur</XML_Serializer_Tag>
 </professionOrOccupation>
+<dbpResource>http://dbpedia.org/resource/Pisanello</dbpResource>
+<abstract>Antonio Pisanello (* 1395 in Pisa; † 1455 in Rom), eigentlich Antonio di Puccio Pisano und manchmal auch als Vittore Pisano benannt, war ein italienischer Maler und Medailleur. Insbesondere mit seinen Bildnismedaillen wurde er zum Wegbereiter der Renaissance in Oberitalien.Pisano war in Verona, Venedig, Pavia, Rom, Ferrara, Rimini, Mailand, Mantua und Neapel tätig.</abstract>
+<wikilink>http://en.wikipedia.org/wiki/Pisanello?oldid=602503941</wikilink>
 <artworks>
 <XML_Serializer_Tag>
-<painting>
+<artwork>
 <type>uri</type>
 <value>http://dbpedia.org/resource/The_Vision_of_Saint_Eustace</value>
-</painting>
+</artwork>
 <thumbnail>
 <type>uri</type>
 <value>http://commons.wikimedia.org/wiki/Special:FilePath/Pisanello_018.jpg?width=300</value>
@@ -48,12 +51,16 @@
 <type>uri</type>
 <value>http://en.wikipedia.org/wiki/The_Vision_of_Saint_Eustace?oldid=571855990</value>
 </wikilink>
+<type>
+<type>uri</type>
+<value>http://dbpedia.org/resource/Tempera</value>
+</type>
 </XML_Serializer_Tag>
 <XML_Serializer_Tag>
-<painting>
+<artwork>
 <type>uri</type>
 <value>http://dbpedia.org/resource/Portrait_of_Sigismund_of_Luxemburg</value>
-</painting>
+</artwork>
 <thumbnail>
 <type>uri</type>
 <value>http://commons.wikimedia.org/wiki/Special:FilePath/Pisanello_024b.jpg?width=300</value>
@@ -72,12 +79,17 @@
 <type>uri</type>
 <value>http://en.wikipedia.org/wiki/Portrait_of_Sigismund_of_Luxemburg?oldid=590545678</value>
 </wikilink>
+<type>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>Tempera on panel</value>
+</type>
 </XML_Serializer_Tag>
 <XML_Serializer_Tag>
-<painting>
+<artwork>
 <type>uri</type>
 <value>http://dbpedia.org/resource/Portrait_of_a_princess_(Pisanello)</value>
-</painting>
+</artwork>
 <thumbnail>
 <type>uri</type>
 <value>http://commons.wikimedia.org/wiki/Special:FilePath/Pisanello_016.jpg?width=300</value>
@@ -96,12 +108,17 @@
 <type>uri</type>
 <value>http://en.wikipedia.org/wiki/Portrait_of_a_princess_(Pisanello)?oldid=590545673</value>
 </wikilink>
+<type>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>Tempera on panel</value>
+</type>
 </XML_Serializer_Tag>
 <XML_Serializer_Tag>
-<painting>
+<artwork>
 <type>uri</type>
 <value>http://dbpedia.org/resource/Medal_of_John_VIII_Palaeologus</value>
-</painting>
+</artwork>
 <thumbnail>
 <type>uri</type>
 <value>http://en.wikipedia.org/wiki/Special:FilePath/Pisanello,_Medaglia_di_Palaiologos,_1439.JPG?width=300</value>
@@ -120,12 +137,17 @@
 <type>uri</type>
 <value>http://en.wikipedia.org/wiki/Medal_of_John_VIII_Palaeologus?oldid=603518694</value>
 </wikilink>
+<type>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>cast bronze</value>
+</type>
 </XML_Serializer_Tag>
 <XML_Serializer_Tag>
-<painting>
+<artwork>
 <type>uri</type>
 <value>http://dbpedia.org/resource/Madonna_of_the_Quail</value>
-</painting>
+</artwork>
 <thumbnail>
 <type>uri</type>
 <value>http://commons.wikimedia.org/wiki/Special:FilePath/Museo_di_castelvecchio,_pisanello,_madonna_della_quaglia.JPG?width=300</value>
@@ -144,9 +166,12 @@
 <type>uri</type>
 <value>http://en.wikipedia.org/wiki/Madonna_of_the_Quail?oldid=587325392</value>
 </wikilink>
+<type>
+<type>uri</type>
+<value>http://dbpedia.org/resource/Tempera_on_panel</value>
+</type>
 </XML_Serializer_Tag>
 </artworks>
-<dbpResource>http://dbpedia.org/resource/Pisanello</dbpResource>
-<abstract>Antonio Pisanello (* 1395 in Pisa; † 1455 in Rom), eigentlich Antonio di Puccio Pisano und manchmal auch als Vittore Pisano benannt, war ein italienischer Maler und Medailleur. Insbesondere mit seinen Bildnismedaillen wurde er zum Wegbereiter der Renaissance in Oberitalien.Pisano war in Verona, Venedig, Pavia, Rom, Ferrara, Rimini, Mailand, Mantua und Neapel tätig.</abstract>
-<wikilink>http://en.wikipedia.org/wiki/Pisanello?oldid=602503941</wikilink>
+<buildings />
+<books />
 </Person>

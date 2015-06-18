@@ -13,8 +13,10 @@
 <XML_Serializer_Tag>Maler</XML_Serializer_Tag>
 <XML_Serializer_Tag>Graphiker</XML_Serializer_Tag>
 </professionOrOccupation>
-<artworks />
 <dbpResource>http://dbpedia.org/resource/Franz_Pforr</dbpResource>
 <abstract>Franz Pforr (* 5. April 1788 in Frankfurt am Main; † 16. Juni 1812 in Albano Laziale bei Rom) war ein Maler der deutschen Romantik.</abstract>
 <wikilink>http://en.wikipedia.org/wiki/Franz_Pforr?oldid=556305086</wikilink>
+<artworks />
+<buildings />
+<books />
 </Person>

@@ -1,0 +1,70 @@
+<Person>
+<name>Dino Buzzati</name>
+<variantName>
+<XML_Serializer_Tag>Dīno Buttuāti</XML_Serializer_Tag>
+<XML_Serializer_Tag>Dino Buccati</XML_Serializer_Tag>
+<XML_Serializer_Tag>Dīnū Būtsādī</XML_Serializer_Tag>
+<XML_Serializer_Tag>Dino Buzzati Traverso</XML_Serializer_Tag>
+<XML_Serializer_Tag>Dino Buzzati-Traverso</XML_Serializer_Tag>
+</variantName>
+<thumbnail>https://en.wikipedia.org/wiki/Special:FilePath/Dino_buzzati.jpg?width=270</thumbnail>
+<birthEN>October 16, 1906</birthEN>
+<birthDE>16. Oktober 1906</birthDE>
+<deathEN>January 28, 1972</deathEN>
+<deathDE>28. Januar 1972</deathDE>
+<birthPlace>
+<XML_Serializer_Tag>San Pellegrino (Alpe)</XML_Serializer_Tag>
+</birthPlace>
+<deathPlace>
+<XML_Serializer_Tag>Mailand</XML_Serializer_Tag>
+</deathPlace>
+<professionOrOccupation>
+<XML_Serializer_Tag>Schriftsteller</XML_Serializer_Tag>
+<XML_Serializer_Tag>Redakteur</XML_Serializer_Tag>
+</professionOrOccupation>
+<dbpResource>http://dbpedia.org/resource/Dino_Buzzati</dbpResource>
+<abstract>Dino Buzzati (* 16. Oktober 1906 in San Pellegrino bei Belluno; † 28. Januar 1972 in Mailand) war ein italienischer Schriftsteller und Journalist.</abstract>
+<wikilink>http://en.wikipedia.org/wiki/Dino_Buzzati?oldid=602494808</wikilink>
+<artworks />
+<buildings />
+<books>
+<XML_Serializer_Tag>
+<book>
+<type>uri</type>
+<value>http://dbpedia.org/resource/The_Bears&apos;_Famous_Invasion_of_Sicily</value>
+</book>
+<author>
+<type>uri</type>
+<value>http://dbpedia.org/resource/Dino_Buzzati</value>
+</author>
+<released>
+<type>typed-literal</type>
+<datatype>http://www.w3.org/2001/XMLSchema#integer</datatype>
+<value>1945</value>
+</released>
+<wikilink>
+<type>uri</type>
+<value>http://en.wikipedia.org/wiki/The_Bears&apos;_Famous_Invasion_of_Sicily?oldid=602372190</value>
+</wikilink>
+</XML_Serializer_Tag>
+<XML_Serializer_Tag>
+<book>
+<type>uri</type>
+<value>http://dbpedia.org/resource/The_Tartar_Steppe</value>
+</book>
+<author>
+<type>uri</type>
+<value>http://dbpedia.org/resource/Dino_Buzzati</value>
+</author>
+<wikilink>
+<type>uri</type>
+<value>http://en.wikipedia.org/wiki/The_Tartar_Steppe?oldid=596241759</value>
+</wikilink>
+<abstract>
+<type>literal</type>
+<xml:lang>de</xml:lang>
+<value>Der Roman Die Tatarenwüste (Il deserto dei Tartari) von Dino Buzzati erschien 1940 und beschreibt das Leben des Offiziers Giovanni Drogo in einer abgeschiedenen Garnisonsfestung.Die Handlung spielt in einer entlegenen Festung, von der aus die Grenze eines nicht näher bezeichneten Reichs beobachtet wird. Der Hauptheld Giovanni Drogo trifft als junger Offizier voller Hoffnungen in der Festung ein, vorerst nur mit der Absicht, drei Monate dort Dienst zu leisten. Das Leben in der Festung ist eintönig und wird geprägt durch die imaginäre Gefahr eines möglichen Angriffs der Tataren, die, der Legende nach, hinter der Wüste leben. Ein Angriff wäre die Gelegenheit für die Soldaten der Festung, Ruhm und Ehre zu erlangen. Nach drei Monaten soll Drogo die Festung verlassen, doch in der Zwischenzeit hat er sich an die Routine des Dienstes gewöhnt. Außerdem glaubt er inzwischen an die Legende vom Angriff der Tataren.Als endlich, nach Jahrzehnten des Wartens, tatsächlich der Aufmarsch der Tataren erfolgt, ist Drogo am Ende seines Lebens und wird krank aus der Festung gebracht, ohne je wirklich gelebt zu haben.Diese ständige Bereitschaft, bei der jede Unterbrechung, jeder Einsatz negativ zu sehen ist, ist aber typisch für viele Berufe: Feuerwehrmann, Polizist, Wachdienst, Bademeister usw. Buzzati hatte dem italienischen Klappentext nach die Idee zu diesem Roman während langer Nachtdienste in der Redaktion, während deren ihm die Monotonie des großstädtischen Lebens bewusst wurde.Die deutsche Erstausgabe erschien 1942 unter dem Titel „Im vergessenen Fort“ bei Zsolnay in Wien (Übers. v. Richard Hoffmann).</value>
+</abstract>
+</XML_Serializer_Tag>
+</books>
+</Person>

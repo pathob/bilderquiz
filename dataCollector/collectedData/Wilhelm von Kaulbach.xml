@@ -28,8 +28,10 @@
 <XML_Serializer_Tag>Bildnismaler</XML_Serializer_Tag>
 <XML_Serializer_Tag>Illustrator</XML_Serializer_Tag>
 </professionOrOccupation>
-<artworks />
 <dbpResource>http://dbpedia.org/resource/Wilhelm_von_Kaulbach</dbpResource>
 <abstract>Wilhelm von Kaulbach (* 15. Oktober 1805 in Arolsen; † 7. April 1874 in München) war ein deutscher Maler, der durch große Wand- und Deckengemälde mit geschichtlichem Inhalt und Literaturillustrationen bekannt wurde.</abstract>
 <wikilink>http://en.wikipedia.org/wiki/Wilhelm_von_Kaulbach?oldid=599751170</wikilink>
+<artworks />
+<buildings />
+<books />
 </Person>

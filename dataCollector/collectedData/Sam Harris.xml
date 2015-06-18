@@ -1,0 +1,83 @@
+<Person>
+<name>Sam Harris</name>
+<variantName />
+<thumbnail>https://commons.wikimedia.org/wiki/Special:FilePath/Sam_Harris_01.jpg?width=270</thumbnail>
+<birthEN>1967</birthEN>
+<birthDE>1967</birthDE>
+<deathEN />
+<deathDE />
+<birthPlace />
+<deathPlace />
+<professionOrOccupation>
+<XML_Serializer_Tag>Philosoph</XML_Serializer_Tag>
+<XML_Serializer_Tag>Religionswissenschaftler</XML_Serializer_Tag>
+</professionOrOccupation>
+<dbpResource>http://dbpedia.org/resource/Sam_Harris_(author)</dbpResource>
+<abstract>Sam Harris (* 1967) ist ein US-amerikanischer Philosoph, Neurowissenschaftler, Schriftsteller und gefragter Debattenredner. Er ist besonders bekannt für seine These, dass Fragen der Ethik mit naturwissenschaftlichen Methoden untersucht werden können und sollten. Neben Richard Dawkins, Daniel Dennett und dem 2011 verstorbenen Christopher Hitchens gehört Harris zu den bekanntesten Vertretern des Neuen Atheismus.Er erlangte einen Abschluss in Philosophie von der Stanford University und promovierte in Neurowissenschaft, wobei er unter anderem die neuronalen Grundlagen von Überzeugungen mithilfe funktioneller Magnetresonanztomographie untersuchte.Er schrieb 2004 das von den Terroranschlägen am 11. September 2001 inspirierte Buch The End of Faith (auf Deutsch Das Ende des Glaubens) und gewann damit 2005 den PEN-Award. Im Jahre 2006 veröffentlichte er Letter to a Christian Nation, mit dem er den Kritikern seines ersten Buches entgegentrat. Daneben schreibt er Artikel für die Newsweek, The Los Angeles Times, The Times in London und The Boston Globe.</abstract>
+<wikilink>http://en.wikipedia.org/wiki/Sam_Harris_(author)?oldid=606587712</wikilink>
+<artworks />
+<buildings />
+<books>
+<XML_Serializer_Tag>
+<book>
+<type>uri</type>
+<value>http://dbpedia.org/resource/The_Moral_Landscape</value>
+</book>
+<author>
+<type>uri</type>
+<value>http://dbpedia.org/resource/Sam_Harris_(author)</value>
+</author>
+<thumbnail>
+<type>uri</type>
+<value>http://commons.wikimedia.org/wiki/Special:FilePath/EEG_32_electrodes.jpg?width=300</value>
+</thumbnail>
+<published>
+<type>typed-literal</type>
+<datatype>http://www.w3.org/2001/XMLSchema#integer</datatype>
+<value>2010</value>
+</published>
+<wikilink>
+<type>uri</type>
+<value>http://en.wikipedia.org/wiki/The_Moral_Landscape?oldid=603727795</value>
+</wikilink>
+</XML_Serializer_Tag>
+<XML_Serializer_Tag>
+<book>
+<type>uri</type>
+<value>http://dbpedia.org/resource/The_End_of_Faith</value>
+</book>
+<author>
+<type>uri</type>
+<value>http://dbpedia.org/resource/Sam_Harris_(author)</value>
+</author>
+<released>
+<type>typed-literal</type>
+<datatype>http://www.w3.org/2001/XMLSchema#date</datatype>
+<value>2004-08-11+02:00</value>
+</released>
+<wikilink>
+<type>uri</type>
+<value>http://en.wikipedia.org/wiki/The_End_of_Faith?oldid=606008927</value>
+</wikilink>
+<abstract>
+<type>literal</type>
+<xml:lang>de</xml:lang>
+<value>Das Ende des Glaubens: Religion, Terror und das Licht der Vernunft ist der Titel der deutschen Übersetzung des Erstlingswerkes von Sam Harris. Es erschien im englischen Original unter dem Titel „The End of Faith“ im Jahr 2004.</value>
+</abstract>
+</XML_Serializer_Tag>
+<XML_Serializer_Tag>
+<book>
+<type>uri</type>
+<value>http://dbpedia.org/resource/Letter_to_a_Christian_Nation</value>
+</book>
+<author>
+<type>uri</type>
+<value>http://dbpedia.org/resource/Sam_Harris_(author)</value>
+</author>
+<wikilink>
+<type>uri</type>
+<value>http://en.wikipedia.org/wiki/Letter_to_a_Christian_Nation?oldid=606385916</value>
+</wikilink>
+</XML_Serializer_Tag>
+</books>
+</Person>

@@ -1,0 +1,33 @@
+<Person>
+<name>Christian Garve</name>
+<variantName>
+<XML_Serializer_Tag>... Garve</XML_Serializer_Tag>
+<XML_Serializer_Tag>Christianus Garve</XML_Serializer_Tag>
+<XML_Serializer_Tag>Ch. Garve</XML_Serializer_Tag>
+<XML_Serializer_Tag>C. Garve</XML_Serializer_Tag>
+</variantName>
+<thumbnail>https://commons.wikimedia.org/wiki/Special:FilePath/Garve.jpg?width=270</thumbnail>
+<birthEN>January 7, 1742</birthEN>
+<birthDE>7. Januar 1742</birthDE>
+<deathEN>December 1, 1798</deathEN>
+<deathDE>1. Dezember 1798</deathDE>
+<birthPlace>
+<XML_Serializer_Tag>Breslau</XML_Serializer_Tag>
+</birthPlace>
+<deathPlace>
+<XML_Serializer_Tag>Breslau</XML_Serializer_Tag>
+</deathPlace>
+<professionOrOccupation>
+<XML_Serializer_Tag>Philosoph</XML_Serializer_Tag>
+<XML_Serializer_Tag>Schriftsteller</XML_Serializer_Tag>
+<XML_Serializer_Tag>Übersetzer</XML_Serializer_Tag>
+<XML_Serializer_Tag>Mathematiker</XML_Serializer_Tag>
+<XML_Serializer_Tag>Buchhändler</XML_Serializer_Tag>
+</professionOrOccupation>
+<dbpResource>http://dbpedia.org/resource/Christian_Garve</dbpResource>
+<abstract>Christian Garve (* 7. Januar 1742 in Breslau; † 1. Dezember 1798 ebenda) zählte in der Spätaufklärung neben Immanuel Kant und Moses Mendelssohn zu den bekanntesten Philosophen Deutschlands.</abstract>
+<wikilink>http://en.wikipedia.org/wiki/Christian_Garve?oldid=605743717</wikilink>
+<artworks />
+<buildings />
+<books />
+</Person>

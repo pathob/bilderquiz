@@ -21,8 +21,10 @@
 <XML_Serializer_Tag>Holzschneider</XML_Serializer_Tag>
 <XML_Serializer_Tag>Buchkünstler</XML_Serializer_Tag>
 </professionOrOccupation>
-<artworks />
 <dbpResource>http://dbpedia.org/resource/Lucien_Pissarro</dbpResource>
 <abstract>Lucien Pissarro (* 20. Februar 1863 in Paris; † 10. Juli 1944 in London) war ein französischer Maler, Grafiker und Holzstecher.</abstract>
 <wikilink>http://en.wikipedia.org/wiki/Lucien_Pissarro?oldid=590243306</wikilink>
+<artworks />
+<buildings />
+<books />
 </Person>

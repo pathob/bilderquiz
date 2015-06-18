@@ -1,0 +1,34 @@
+<Person>
+<name>Johann Nestroy</name>
+<variantName>
+<XML_Serializer_Tag>Johann N. Nestroy</XML_Serializer_Tag>
+<XML_Serializer_Tag>J. N. Nestroy</XML_Serializer_Tag>
+<XML_Serializer_Tag>J. Nestroy</XML_Serializer_Tag>
+<XML_Serializer_Tag>Johann Nepomuk Nestroy</XML_Serializer_Tag>
+<XML_Serializer_Tag>Johann Nepomuk Eduard Ambrosius Nestroy</XML_Serializer_Tag>
+<XML_Serializer_Tag>Johann Nepomuk Eduard Ambrosius Nestroy</XML_Serializer_Tag>
+</variantName>
+<thumbnail>https://commons.wikimedia.org/wiki/Special:FilePath/Nestroy.jpg?width=270</thumbnail>
+<birthEN>December 7, 1801</birthEN>
+<birthDE>7. Dezember 1801</birthDE>
+<deathEN>May 15, 1862</deathEN>
+<deathDE>15. Mai 1862</deathDE>
+<birthPlace>
+<XML_Serializer_Tag>Wien</XML_Serializer_Tag>
+</birthPlace>
+<deathPlace>
+<XML_Serializer_Tag>Graz</XML_Serializer_Tag>
+</deathPlace>
+<professionOrOccupation>
+<XML_Serializer_Tag>Opernsänger</XML_Serializer_Tag>
+<XML_Serializer_Tag>Schauspieler</XML_Serializer_Tag>
+<XML_Serializer_Tag>Librettist</XML_Serializer_Tag>
+<XML_Serializer_Tag>Schriftsteller</XML_Serializer_Tag>
+</professionOrOccupation>
+<dbpResource>http://dbpedia.org/resource/Johann_Nestroy</dbpResource>
+<abstract>Johann Nepomuk Eduard Ambrosius Nestroy (* 7. Dezember 1801 in Wien; † 25. Mai 1862 in Graz) war ein österreichischer Dramatiker, Schauspieler und Opernsänger. Sein Werk ist der literarische Höhepunkt des Alt-Wiener Volkstheaters.</abstract>
+<wikilink>http://en.wikipedia.org/wiki/Johann_Nestroy?oldid=585601656</wikilink>
+<artworks />
+<buildings />
+<books />
+</Person>

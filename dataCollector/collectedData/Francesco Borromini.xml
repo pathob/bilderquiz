@@ -1,0 +1,26 @@
+<Person>
+<name>Francesco Borromini</name>
+<variantName>
+<XML_Serializer_Tag>Francesco Boromini</XML_Serializer_Tag>
+<XML_Serializer_Tag>Francesco Castelli</XML_Serializer_Tag>
+<XML_Serializer_Tag>Francesco Boromino</XML_Serializer_Tag>
+<XML_Serializer_Tag>Francesco Castello</XML_Serializer_Tag>
+<XML_Serializer_Tag>Francesco Borromino</XML_Serializer_Tag>
+</variantName>
+<thumbnail>https://commons.wikimedia.org/wiki/Special:FilePath/Borromini.jpg?width=270</thumbnail>
+<birthEN>1599</birthEN>
+<birthDE>1599</birthDE>
+<deathEN>1667</deathEN>
+<deathDE>1667</deathDE>
+<birthPlace />
+<deathPlace />
+<professionOrOccupation>
+<XML_Serializer_Tag>Baumeister</XML_Serializer_Tag>
+</professionOrOccupation>
+<dbpResource>http://dbpedia.org/resource/Francesco_Borromini</dbpResource>
+<abstract>Francesco Borromini (eigentlich Francesco Castelli; * 25. September 1599 zu Bissone, Schweiz; † 2. August 1667 in Rom) war ein in Italien tätiger Architekt aus dem nachmaligen Kanton Tessin (Schweiz).</abstract>
+<wikilink>http://en.wikipedia.org/wiki/Francesco_Borromini?oldid=585390511</wikilink>
+<artworks />
+<buildings />
+<books />
+</Person>

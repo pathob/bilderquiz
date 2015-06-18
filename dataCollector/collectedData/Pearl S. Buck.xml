@@ -1,0 +1,263 @@
+<Person>
+<name>Pearl S. Buck</name>
+<variantName>
+<XML_Serializer_Tag>Pearl Sydensticker Buck</XML_Serializer_Tag>
+<XML_Serializer_Tag>Pearl Sydenstriker Buck</XML_Serializer_Tag>
+<XML_Serializer_Tag>Pearl Syndesticker Buck</XML_Serializer_Tag>
+<XML_Serializer_Tag>Pearl Syndenstricker Buck</XML_Serializer_Tag>
+<XML_Serializer_Tag>Pearl Comfort Syndenstricker Buck</XML_Serializer_Tag>
+<XML_Serializer_Tag>Pearl Buck</XML_Serializer_Tag>
+<XML_Serializer_Tag>Pearl Buck Sydenstricker</XML_Serializer_Tag>
+<XML_Serializer_Tag>Pearl Buck-Sydenstricker</XML_Serializer_Tag>
+<XML_Serializer_Tag>Pearl Comfort Buck Sydenstricker</XML_Serializer_Tag>
+<XML_Serializer_Tag>Pearl Comfort Buck-Sydenstricker</XML_Serializer_Tag>
+<XML_Serializer_Tag>Pearl Sydenstricker</XML_Serializer_Tag>
+<XML_Serializer_Tag>Pearl Comfort Sydenstricker</XML_Serializer_Tag>
+<XML_Serializer_Tag>Pearl Sydenstricker Buck Walsh</XML_Serializer_Tag>
+<XML_Serializer_Tag>John Sedges</XML_Serializer_Tag>
+<XML_Serializer_Tag>Perla S. Baka</XML_Serializer_Tag>
+<XML_Serializer_Tag>J. Sedges</XML_Serializer_Tag>
+<XML_Serializer_Tag>Perl Bak</XML_Serializer_Tag>
+<XML_Serializer_Tag>Pearl Sydenstricker Buck</XML_Serializer_Tag>
+<XML_Serializer_Tag>Sai zhen zhu</XML_Serializer_Tag>
+<XML_Serializer_Tag>Saizhenzhu</XML_Serializer_Tag>
+<XML_Serializer_Tag>賽珍珠</XML_Serializer_Tag>
+<XML_Serializer_Tag>赛珍珠</XML_Serializer_Tag>
+</variantName>
+<thumbnail>https://commons.wikimedia.org/wiki/Special:FilePath/Pearl_Buck.jpg?width=270</thumbnail>
+<birthEN>June 26, 1892</birthEN>
+<birthDE>26. Juni 1892</birthDE>
+<deathEN>March 6, 1973</deathEN>
+<deathDE>6. März 1973</deathDE>
+<birthPlace>
+<XML_Serializer_Tag>Hillsboro, West-Virginia, USA</XML_Serializer_Tag>
+</birthPlace>
+<deathPlace>
+<XML_Serializer_Tag>Danby, Vermont, USA</XML_Serializer_Tag>
+</deathPlace>
+<professionOrOccupation>
+<XML_Serializer_Tag>Übersetzerin</XML_Serializer_Tag>
+<XML_Serializer_Tag>Schriftstellerin</XML_Serializer_Tag>
+</professionOrOccupation>
+<dbpResource>http://dbpedia.org/resource/Pearl_S._Buck</dbpResource>
+<abstract>Pearl Sydenstricker Buck (chinesisch 賽珍珠, Pinyin Sài Zhēnzhū; Pseudonym: John Sedges; * 26. Juni 1892 in Hillsboro, West-Virginia; † 6. März 1973 in Danby, Vermont) war eine US-amerikanische Schriftstellerin und Literaturnobelpreisträgerin. Ihr Geburtsname Sydenstricker findet sich in der häufig verwendeten Schreibweise Pearl S. Buck wieder.Buck wurde 1938 „für ihre reichen und wahrhaft epischen Schilderungen des chinesischen Bauernlebens und für ihre biographischen Meisterwerke“ mit dem Nobelpreis für Literatur ausgezeichnet. Sechs Jahre zuvor hatte sie für ihren Roman Die gute Erde bereits den Pulitzer-Preis erhalten.</abstract>
+<wikilink>http://en.wikipedia.org/wiki/Pearl_S._Buck?oldid=606137055</wikilink>
+<artworks />
+<buildings />
+<books>
+<XML_Serializer_Tag>
+<book>
+<type>uri</type>
+<value>http://dbpedia.org/resource/The_Good_Earth</value>
+</book>
+<author>
+<type>uri</type>
+<value>http://dbpedia.org/resource/Pearl_S._Buck</value>
+</author>
+<released>
+<type>typed-literal</type>
+<datatype>http://www.w3.org/2001/XMLSchema#date</datatype>
+<value>1931-03-02+02:00</value>
+</released>
+<wikilink>
+<type>uri</type>
+<value>http://en.wikipedia.org/wiki/The_Good_Earth?oldid=604687756</value>
+</wikilink>
+<abstract>
+<type>literal</type>
+<xml:lang>de</xml:lang>
+<value>Die gute Erde (englischer Originaltitel: The Good Earth) ist ein Roman von Pearl S. Buck. Das Buch, das 1931 erstmals erschien, wurde 1932 mit dem Pulitzer-Preis ausgezeichnet. Die gute Erde ist der erste Teil einer Roman-Trilogie, zu der auch die Bücher Söhne und Das geteilte Haus gehören.</value>
+</abstract>
+</XML_Serializer_Tag>
+<XML_Serializer_Tag>
+<book>
+<type>uri</type>
+<value>http://dbpedia.org/resource/Imperial_Woman</value>
+</book>
+<author>
+<type>uri</type>
+<value>http://dbpedia.org/resource/Pearl_S._Buck</value>
+</author>
+<released>
+<type>typed-literal</type>
+<datatype>http://www.w3.org/2001/XMLSchema#integer</datatype>
+<value>1956</value>
+</released>
+<wikilink>
+<type>uri</type>
+<value>http://en.wikipedia.org/wiki/Imperial_Woman?oldid=601097114</value>
+</wikilink>
+<abstract>
+<type>literal</type>
+<xml:lang>de</xml:lang>
+<value>Der Roman Das Mädchen Orchidee der Literaturnobelpreisträgerin Pearl S. Buck erzählt das Leben der chinesischen Kaiserinwitwe Tsu Hsi von ihrer Jugend, in der sie in den kaiserlichen Harem aufgenommen wurde bis ca. 1900, also bis nach dem Ende des Boxeraufstandes und dessen Niederschlagung. Die Erzählung ist fiktiv und von der 1910 erschienenen Biographie von Edmund Backhouse und John Bland maßgeblich beeinflusst. Die Biographie schildert Tsu Hsi als machtgierige und skrupellose Herrscherin; Pearl S. Buck schildert ihre Hauptperson entsprechend als eine Frau, die zielstrebig und geplant ihre Karriere am kaiserlichen Hof angeht. Die moderne Geschichtsschreibung weiß seit 1970, dass die Quellen, auf denen die Biographie von Backhouse und Bland beruhen, gefälscht waren.</value>
+</abstract>
+</XML_Serializer_Tag>
+<XML_Serializer_Tag>
+<book>
+<type>uri</type>
+<value>http://dbpedia.org/resource/East_Wind:_West_Wind</value>
+</book>
+<author>
+<type>uri</type>
+<value>http://dbpedia.org/resource/Pearl_S._Buck</value>
+</author>
+<released>
+<type>typed-literal</type>
+<datatype>http://www.w3.org/2001/XMLSchema#integer</datatype>
+<value>1930</value>
+</released>
+<wikilink>
+<type>uri</type>
+<value>http://en.wikipedia.org/wiki/East_Wind:_West_Wind?oldid=590969168</value>
+</wikilink>
+</XML_Serializer_Tag>
+<XML_Serializer_Tag>
+<book>
+<type>uri</type>
+<value>http://dbpedia.org/resource/Dragon_Seed_(novel)</value>
+</book>
+<author>
+<type>uri</type>
+<value>http://dbpedia.org/resource/Pearl_S._Buck</value>
+</author>
+<released>
+<type>typed-literal</type>
+<datatype>http://www.w3.org/2001/XMLSchema#integer</datatype>
+<value>1942</value>
+</released>
+<wikilink>
+<type>uri</type>
+<value>http://en.wikipedia.org/wiki/Dragon_Seed_(novel)?oldid=591062441</value>
+</wikilink>
+</XML_Serializer_Tag>
+<XML_Serializer_Tag>
+<book>
+<type>uri</type>
+<value>http://dbpedia.org/resource/Letter_from_Peking</value>
+</book>
+<author>
+<type>uri</type>
+<value>http://dbpedia.org/resource/Pearl_S._Buck</value>
+</author>
+<released>
+<type>typed-literal</type>
+<datatype>http://www.w3.org/2001/XMLSchema#integer</datatype>
+<value>1957</value>
+</released>
+<wikilink>
+<type>uri</type>
+<value>http://en.wikipedia.org/wiki/Letter_from_Peking?oldid=593905621</value>
+</wikilink>
+</XML_Serializer_Tag>
+<XML_Serializer_Tag>
+<book>
+<type>uri</type>
+<value>http://dbpedia.org/resource/China_Sky</value>
+</book>
+<author>
+<type>uri</type>
+<value>http://dbpedia.org/resource/Pearl_S._Buck</value>
+</author>
+<released>
+<type>typed-literal</type>
+<datatype>http://www.w3.org/2001/XMLSchema#integer</datatype>
+<value>1941</value>
+</released>
+<wikilink>
+<type>uri</type>
+<value>http://en.wikipedia.org/wiki/China_Sky?oldid=583773866</value>
+</wikilink>
+</XML_Serializer_Tag>
+<XML_Serializer_Tag>
+<book>
+<type>uri</type>
+<value>http://dbpedia.org/resource/The_Living_Reed</value>
+</book>
+<author>
+<type>uri</type>
+<value>http://dbpedia.org/resource/Pearl_S._Buck</value>
+</author>
+<released>
+<type>typed-literal</type>
+<datatype>http://www.w3.org/2001/XMLSchema#integer</datatype>
+<value>1963</value>
+</released>
+<wikilink>
+<type>uri</type>
+<value>http://en.wikipedia.org/wiki/The_Living_Reed?oldid=594037334</value>
+</wikilink>
+</XML_Serializer_Tag>
+<XML_Serializer_Tag>
+<book>
+<type>uri</type>
+<value>http://dbpedia.org/resource/The_Story_Bible</value>
+</book>
+<author>
+<type>uri</type>
+<value>http://dbpedia.org/resource/Pearl_S._Buck</value>
+</author>
+<released>
+<type>typed-literal</type>
+<datatype>http://www.w3.org/2001/XMLSchema#integer</datatype>
+<value>1971</value>
+</released>
+<wikilink>
+<type>uri</type>
+<value>http://en.wikipedia.org/wiki/The_Story_Bible?oldid=602692079</value>
+</wikilink>
+</XML_Serializer_Tag>
+<XML_Serializer_Tag>
+<book>
+<type>uri</type>
+<value>http://dbpedia.org/resource/Peony_(novel)</value>
+</book>
+<author>
+<type>uri</type>
+<value>http://dbpedia.org/resource/Pearl_S._Buck</value>
+</author>
+<released>
+<type>typed-literal</type>
+<datatype>http://www.w3.org/2001/XMLSchema#integer</datatype>
+<value>1948</value>
+</released>
+<wikilink>
+<type>uri</type>
+<value>http://en.wikipedia.org/wiki/Peony_(novel)?oldid=601097144</value>
+</wikilink>
+</XML_Serializer_Tag>
+<XML_Serializer_Tag>
+<book>
+<type>uri</type>
+<value>http://dbpedia.org/resource/Sons_(novel)</value>
+</book>
+<author>
+<type>uri</type>
+<value>http://dbpedia.org/resource/Pearl_S._Buck</value>
+</author>
+<released>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>June 1932</value>
+</released>
+<wikilink>
+<type>uri</type>
+<value>http://en.wikipedia.org/wiki/Sons_(novel)?oldid=603782780</value>
+</wikilink>
+</XML_Serializer_Tag>
+<XML_Serializer_Tag>
+<book>
+<type>uri</type>
+<value>http://dbpedia.org/resource/A_House_Divided_(novel)</value>
+</book>
+<author>
+<type>uri</type>
+<value>http://dbpedia.org/resource/Pearl_S._Buck</value>
+</author>
+<wikilink>
+<type>uri</type>
+<value>http://en.wikipedia.org/wiki/A_House_Divided_(novel)?oldid=592021126</value>
+</wikilink>
+</XML_Serializer_Tag>
+</books>
+</Person>

@@ -1,0 +1,30 @@
+<Person>
+<name>Alfred Kerr</name>
+<variantName>
+<XML_Serializer_Tag>Alfred Klappe</XML_Serializer_Tag>
+<XML_Serializer_Tag>Alfred Kempner</XML_Serializer_Tag>
+<XML_Serializer_Tag>Arthur Alfred Kempner</XML_Serializer_Tag>
+</variantName>
+<thumbnail>https://de.wikipedia.org/wiki/Special:FilePath/WP_Alfred_Kerr.jpg?width=270</thumbnail>
+<birthEN>December 25, 1867</birthEN>
+<birthDE>25. Dezember 1867</birthDE>
+<deathEN>October 12, 1948</deathEN>
+<deathDE>12. Oktober 1948</deathDE>
+<birthPlace>
+<XML_Serializer_Tag>Breslau</XML_Serializer_Tag>
+</birthPlace>
+<deathPlace>
+<XML_Serializer_Tag>Hamburg</XML_Serializer_Tag>
+</deathPlace>
+<professionOrOccupation>
+<XML_Serializer_Tag>Journalist</XML_Serializer_Tag>
+<XML_Serializer_Tag>Schriftsteller</XML_Serializer_Tag>
+<XML_Serializer_Tag>Theaterkritiker</XML_Serializer_Tag>
+</professionOrOccupation>
+<dbpResource>http://dbpedia.org/resource/Alfred_Kerr</dbpResource>
+<abstract>Alfred Kerr (* 25. Dezember 1867 in Breslau als Alfred Kempner; † 12. Oktober 1948 in Hamburg) war ein deutscher Schriftsteller, Theaterkritiker und Journalist.Kerr war einer der einflussreichsten deutschen Kritiker in der Zeit vom Naturalismus bis 1933. Er veröffentlichte unter anderem in den Zeitungen und Zeitschriften Breslauer Zeitung, Der Tag, Neue Rundschau, Pan und Berliner Tageblatt. Kerr sah in der Kritik eine eigene Kunstform und schuf dafür einen treffenden, geistreich-ironischen und oft absichtlich saloppen Stil.</abstract>
+<wikilink>http://en.wikipedia.org/wiki/Alfred_Kerr?oldid=595227250</wikilink>
+<artworks />
+<buildings />
+<books />
+</Person>

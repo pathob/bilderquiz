@@ -1,0 +1,44 @@
+<Person>
+<name>Aristophanes</name>
+<variantName>
+<XML_Serializer_Tag>Aristophanes, Atheniensis</XML_Serializer_Tag>
+<XML_Serializer_Tag>Aristophanes, Athenensis</XML_Serializer_Tag>
+<XML_Serializer_Tag>Aristophanes, von Athen</XML_Serializer_Tag>
+<XML_Serializer_Tag>Aristophanes, Comicus</XML_Serializer_Tag>
+<XML_Serializer_Tag>Aristophanes, Komödiendichter</XML_Serializer_Tag>
+<XML_Serializer_Tag>Aristophanes, Dichter der Alten Komödie</XML_Serializer_Tag>
+<XML_Serializer_Tag>Aristophane</XML_Serializer_Tag>
+<XML_Serializer_Tag>Aristophane, d&apos;Athènes</XML_Serializer_Tag>
+<XML_Serializer_Tag>Aristofane</XML_Serializer_Tag>
+<XML_Serializer_Tag>Aristofane, Poeta della Commedia Antica</XML_Serializer_Tag>
+<XML_Serializer_Tag>Arystofanes</XML_Serializer_Tag>
+<XML_Serializer_Tag>Aristophane, dÁthènes</XML_Serializer_Tag>
+<XML_Serializer_Tag>Aristofanov</XML_Serializer_Tag>
+<XML_Serializer_Tag>Aristofan</XML_Serializer_Tag>
+<XML_Serializer_Tag>Aristofanes</XML_Serializer_Tag>
+<XML_Serializer_Tag>Aristofánes</XML_Serializer_Tag>
+<XML_Serializer_Tag>Aristophan</XML_Serializer_Tag>
+<XML_Serializer_Tag>Aristophanous</XML_Serializer_Tag>
+<XML_Serializer_Tag>Aristophanes Ἀριστοφάνης</XML_Serializer_Tag>
+</variantName>
+<thumbnail>https://commons.wikimedia.org/wiki/Special:FilePath/Aristofanes.jpg?width=270</thumbnail>
+<birthEN />
+<birthDE />
+<deathEN />
+<deathDE />
+<birthPlace>
+<XML_Serializer_Tag>Athen</XML_Serializer_Tag>
+</birthPlace>
+<deathPlace>
+<XML_Serializer_Tag>Athen</XML_Serializer_Tag>
+</deathPlace>
+<professionOrOccupation>
+<XML_Serializer_Tag>Schriftsteller</XML_Serializer_Tag>
+</professionOrOccupation>
+<dbpResource>http://dbpedia.org/resource/Aristophanes_(vase_painter)</dbpResource>
+<abstract>Aristophanes (altgriechisch Ἀριστοφάνης) war ein griechischer Vasenmaler des sogenannten attisch-rotfigurigen Stils, der zwischen 430 und 400 v. Chr. in Athen tätig war. Von ihm sind drei signierte Werke bekannt, zwei von Erginos getöpferte Schalen in Berlin (Antikensammlung) und im Museum of Fine Arts, Boston sowie das Fragment eines Glockenkraters in Agrigent (Museo Archeologico Regionale). Von diesen Werken ausgehend werden ihm heute noch eine Reihe anderer Werke zugeschrieben.Aristophanes war bestrebt, seine Körper möglichst lebendig erscheinen zu lassen. Sie zeichnen sich durch eine sorgsam getrennte, manchmal ein wenig gekünstelte Linienführung aus, die besonders in den Gewändern und in den Haaren seiner Figuren sichtbar werden.</abstract>
+<wikilink>http://en.wikipedia.org/wiki/Aristophanes_(vase_painter)?oldid=588671308</wikilink>
+<artworks />
+<buildings />
+<books />
+</Person>

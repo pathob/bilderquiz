@@ -1,0 +1,27 @@
+<Person>
+<name>Dietmar Dath</name>
+<variantName>
+<XML_Serializer_Tag>Ntitmar Ntat</XML_Serializer_Tag>
+<XML_Serializer_Tag>David Dalek</XML_Serializer_Tag>
+</variantName>
+<thumbnail>https://commons.wikimedia.org/wiki/Special:FilePath/Dietmar-dath-ffm001.jpg?width=270</thumbnail>
+<birthEN>1970</birthEN>
+<birthDE>1970</birthDE>
+<deathEN />
+<deathDE />
+<birthPlace>
+<XML_Serializer_Tag>Rheinfelden</XML_Serializer_Tag>
+</birthPlace>
+<deathPlace />
+<professionOrOccupation>
+<XML_Serializer_Tag>Journalist</XML_Serializer_Tag>
+<XML_Serializer_Tag>Übersetzer</XML_Serializer_Tag>
+<XML_Serializer_Tag>Schriftsteller</XML_Serializer_Tag>
+</professionOrOccupation>
+<dbpResource>http://dbpedia.org/resource/Dietmar_Dath</dbpResource>
+<abstract>Dietmar Dath (* 3. April 1970 in Rheinfelden) ist ein deutscher Autor, Journalist und Übersetzer.</abstract>
+<wikilink>http://en.wikipedia.org/wiki/Dietmar_Dath?oldid=577816838</wikilink>
+<artworks />
+<buildings />
+<books />
+</Person>

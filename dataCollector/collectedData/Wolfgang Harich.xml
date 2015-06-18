@@ -1,0 +1,26 @@
+<Person>
+<name>Wolfgang Harich</name>
+<variantName />
+<thumbnail>https://commons.wikimedia.org/wiki/Special:FilePath/Bundesarchiv_Bild_183-1993-0105-514,_Wolfgang_Harich_in_seiner_Wohnung.jpg?width=270</thumbnail>
+<birthEN>December 9, 1923</birthEN>
+<birthDE>9. Dezember 1923</birthDE>
+<deathEN>March 15, 1995</deathEN>
+<deathDE>15. März 1995</deathDE>
+<birthPlace>
+<XML_Serializer_Tag>Königsberg</XML_Serializer_Tag>
+</birthPlace>
+<deathPlace>
+<XML_Serializer_Tag>Berlin</XML_Serializer_Tag>
+</deathPlace>
+<professionOrOccupation>
+<XML_Serializer_Tag>Schriftsteller</XML_Serializer_Tag>
+<XML_Serializer_Tag>Philosoph</XML_Serializer_Tag>
+<XML_Serializer_Tag>Journalist</XML_Serializer_Tag>
+</professionOrOccupation>
+<dbpResource>http://dbpedia.org/resource/Wolfgang_Harich</dbpResource>
+<abstract>Wolfgang Harich (* 9. Dezember 1923 in Königsberg i. Pr.; † 15. März 1995 in Berlin) war Philosoph, Journalist und einer der bedeutendsten und widersprüchlichsten marxistischen Intellektuellen der DDR.</abstract>
+<wikilink>http://en.wikipedia.org/wiki/Wolfgang_Harich?oldid=598675015</wikilink>
+<artworks />
+<buildings />
+<books />
+</Person>

@@ -1,0 +1,27 @@
+<Person>
+<name>Eugen Gomringer</name>
+<variantName>
+<XML_Serializer_Tag>GO</XML_Serializer_Tag>
+<XML_Serializer_Tag>E. Gomringer</XML_Serializer_Tag>
+</variantName>
+<thumbnail>https://commons.wikimedia.org/wiki/Special:FilePath/Eugen_Gomringer_2003.JPG?width=270</thumbnail>
+<birthEN>1925</birthEN>
+<birthDE>1925</birthDE>
+<deathEN />
+<deathDE />
+<birthPlace>
+<XML_Serializer_Tag>Cachuela Esperanza, Bolivien</XML_Serializer_Tag>
+</birthPlace>
+<deathPlace />
+<professionOrOccupation>
+<XML_Serializer_Tag>Kunsthistoriker</XML_Serializer_Tag>
+<XML_Serializer_Tag>Schriftsteller</XML_Serializer_Tag>
+<XML_Serializer_Tag>Lyriker</XML_Serializer_Tag>
+</professionOrOccupation>
+<dbpResource>http://dbpedia.org/resource/Eugen_Gomringer</dbpResource>
+<abstract>Eugen Gomringer (* 20. Januar 1925 in Cachuela Esperanza, Bolivien, als Sohn eines Schweizers und einer Bolivianerin) gilt als Vater der Konkreten Poesie.</abstract>
+<wikilink>http://en.wikipedia.org/wiki/Eugen_Gomringer?oldid=598023317</wikilink>
+<artworks />
+<buildings />
+<books />
+</Person>

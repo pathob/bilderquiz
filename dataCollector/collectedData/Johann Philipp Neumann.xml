@@ -1,0 +1,25 @@
+<Person>
+<name>Johann Philipp Neumann</name>
+<variantName>
+<XML_Serializer_Tag>Johann P. Neumann</XML_Serializer_Tag>
+<XML_Serializer_Tag>Joseph Philipp Neumann</XML_Serializer_Tag>
+</variantName>
+<thumbnail>https://commons.wikimedia.org/wiki/Special:FilePath/Johann_Philipp_Neumann.jpg?width=270</thumbnail>
+<birthEN>December 27, 1774</birthEN>
+<birthDE>27. Dezember 1774</birthDE>
+<deathEN>October 3, 1849</deathEN>
+<deathDE>3. Oktober 1849</deathDE>
+<birthPlace />
+<deathPlace />
+<professionOrOccupation>
+<XML_Serializer_Tag>Bibliothekar</XML_Serializer_Tag>
+<XML_Serializer_Tag>Schriftsteller</XML_Serializer_Tag>
+<XML_Serializer_Tag>Physiker</XML_Serializer_Tag>
+</professionOrOccupation>
+<dbpResource>http://dbpedia.org/resource/Johann_Philipp_Neumann</dbpResource>
+<abstract>Johann Philipp Neumann (* 27. Dezember 1774 in Trebitsch, Mähren; † 3. Oktober 1849 in Wien) war ein österreichischer Physiker, Bibliothekar und Dichter.1810/11 war er Rektor der Universität Graz. Von 1815 bis 1845 hatte er eine Professur am Polytechnischen Institut in Wien (heute Technische Universität), dessen Bibliothek er 1816 gründete und bis 1843 leitete.Er dichtete den Text zur Deutschen Messe von Franz Schubert, deren Komposition im Jahr 1827 vollendet wurde. Auch zur unvollendeten Oper Sakontala, D 701, dichtete er den Text.</abstract>
+<wikilink>http://en.wikipedia.org/wiki/Johann_Philipp_Neumann?oldid=600203384</wikilink>
+<artworks />
+<buildings />
+<books />
+</Person>

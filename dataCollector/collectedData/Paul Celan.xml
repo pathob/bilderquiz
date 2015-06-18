@@ -1,0 +1,187 @@
+<Person>
+<name>Paul Celan</name>
+<variantName>
+<XML_Serializer_Tag>Pol Celan</XML_Serializer_Tag>
+<XML_Serializer_Tag>Paul Ṣelân</XML_Serializer_Tag>
+<XML_Serializer_Tag>Pauru Tsērān</XML_Serializer_Tag>
+<XML_Serializer_Tag>Pauru Tseran</XML_Serializer_Tag>
+<XML_Serializer_Tag>Bāwl Tsīlān</XML_Serializer_Tag>
+<XML_Serializer_Tag>Bāul Tsīlān</XML_Serializer_Tag>
+<XML_Serializer_Tag>Paul Anczel</XML_Serializer_Tag>
+<XML_Serializer_Tag>Paul Ancel</XML_Serializer_Tag>
+<XML_Serializer_Tag>Paʾul Tselan</XML_Serializer_Tag>
+<XML_Serializer_Tag>Pessach Antschel</XML_Serializer_Tag>
+<XML_Serializer_Tag>Paul Pessach Antschel</XML_Serializer_Tag>
+<XML_Serializer_Tag>Paul&apos; Ančel&apos;</XML_Serializer_Tag>
+<XML_Serializer_Tag>Ce lan</XML_Serializer_Tag>
+<XML_Serializer_Tag>Celan</XML_Serializer_Tag>
+<XML_Serializer_Tag>Paul Selân</XML_Serializer_Tag>
+<XML_Serializer_Tag>Paul Antschel</XML_Serializer_Tag>
+<XML_Serializer_Tag>פאול צלאן</XML_Serializer_Tag>
+<XML_Serializer_Tag>パウル ツェラン</XML_Serializer_Tag>
+<XML_Serializer_Tag>保罗·策兰</XML_Serializer_Tag>
+</variantName>
+<thumbnail>https://commons.wikimedia.org/wiki/Special:FilePath/Celan_passphoto_1938.jpg?width=270</thumbnail>
+<birthEN>November 23, 1920</birthEN>
+<birthDE>23. November 1920</birthDE>
+<deathEN>April 28, 1970</deathEN>
+<deathDE>28. April 1970</deathDE>
+<birthPlace>
+<XML_Serializer_Tag>Tschernowzy</XML_Serializer_Tag>
+</birthPlace>
+<deathPlace>
+<XML_Serializer_Tag>Paris</XML_Serializer_Tag>
+</deathPlace>
+<professionOrOccupation>
+<XML_Serializer_Tag>Schriftsteller</XML_Serializer_Tag>
+<XML_Serializer_Tag>Liederdichter</XML_Serializer_Tag>
+<XML_Serializer_Tag>Übersetzer</XML_Serializer_Tag>
+</professionOrOccupation>
+<dbpResource>http://dbpedia.org/resource/Paul_Celan</dbpResource>
+<abstract>Paul Celan [paʊl ˈtselan] (* 23. November 1920 in Czernowitz, damals Rumänien, heute Ukraine; † vermutlich 20. April 1970 in Paris) war ein deutschsprachiger Lyriker. Er hieß ursprünglich Paul Antschel, später rumänisiert Ancel, woraus das Anagramm Celan entstand.</abstract>
+<wikilink>http://en.wikipedia.org/wiki/Paul_Celan?oldid=604478344</wikilink>
+<artworks />
+<buildings />
+<books>
+<XML_Serializer_Tag>
+<book>
+<type>uri</type>
+<value>http://dbpedia.org/resource/Breathturn</value>
+</book>
+<author>
+<type>uri</type>
+<value>http://dbpedia.org/resource/Paul_Celan</value>
+</author>
+<wikilink>
+<type>uri</type>
+<value>http://en.wikipedia.org/wiki/Breathturn?oldid=488554593</value>
+</wikilink>
+</XML_Serializer_Tag>
+<XML_Serializer_Tag>
+<book>
+<type>uri</type>
+<value>http://dbpedia.org/resource/Snow_Part</value>
+</book>
+<author>
+<type>uri</type>
+<value>http://dbpedia.org/resource/Paul_Celan</value>
+</author>
+<wikilink>
+<type>uri</type>
+<value>http://en.wikipedia.org/wiki/Snow_Part?oldid=595642906</value>
+</wikilink>
+</XML_Serializer_Tag>
+<XML_Serializer_Tag>
+<book>
+<type>uri</type>
+<value>http://dbpedia.org/resource/Poppy_and_Memory</value>
+</book>
+<author>
+<type>uri</type>
+<value>http://dbpedia.org/resource/Paul_Celan</value>
+</author>
+<wikilink>
+<type>uri</type>
+<value>http://en.wikipedia.org/wiki/Poppy_and_Memory?oldid=488551139</value>
+</wikilink>
+</XML_Serializer_Tag>
+<XML_Serializer_Tag>
+<book>
+<type>uri</type>
+<value>http://dbpedia.org/resource/Language_Mesh</value>
+</book>
+<author>
+<type>uri</type>
+<value>http://dbpedia.org/resource/Paul_Celan</value>
+</author>
+<wikilink>
+<type>uri</type>
+<value>http://en.wikipedia.org/wiki/Language_Mesh?oldid=488553462</value>
+</wikilink>
+</XML_Serializer_Tag>
+<XML_Serializer_Tag>
+<book>
+<type>uri</type>
+<value>http://dbpedia.org/resource/Lightduress</value>
+</book>
+<author>
+<type>uri</type>
+<value>http://dbpedia.org/resource/Paul_Celan</value>
+</author>
+<wikilink>
+<type>uri</type>
+<value>http://en.wikipedia.org/wiki/Lightduress?oldid=488554915</value>
+</wikilink>
+</XML_Serializer_Tag>
+<XML_Serializer_Tag>
+<book>
+<type>uri</type>
+<value>http://dbpedia.org/resource/Threadsuns</value>
+</book>
+<author>
+<type>uri</type>
+<value>http://dbpedia.org/resource/Paul_Celan</value>
+</author>
+<wikilink>
+<type>uri</type>
+<value>http://en.wikipedia.org/wiki/Threadsuns?oldid=489679589</value>
+</wikilink>
+</XML_Serializer_Tag>
+<XML_Serializer_Tag>
+<book>
+<type>uri</type>
+<value>http://dbpedia.org/resource/The_Sand_from_the_Urns</value>
+</book>
+<author>
+<type>uri</type>
+<value>http://dbpedia.org/resource/Paul_Celan</value>
+</author>
+<wikilink>
+<type>uri</type>
+<value>http://en.wikipedia.org/wiki/The_Sand_from_the_Urns?oldid=488552358</value>
+</wikilink>
+</XML_Serializer_Tag>
+<XML_Serializer_Tag>
+<book>
+<type>uri</type>
+<value>http://dbpedia.org/resource/The_No-One&apos;s-Rose</value>
+</book>
+<author>
+<type>uri</type>
+<value>http://dbpedia.org/resource/Paul_Celan</value>
+</author>
+<wikilink>
+<type>uri</type>
+<value>http://en.wikipedia.org/wiki/The_No-One&apos;s-Rose?oldid=488550128</value>
+</wikilink>
+</XML_Serializer_Tag>
+<XML_Serializer_Tag>
+<book>
+<type>uri</type>
+<value>http://dbpedia.org/resource/Timestead</value>
+</book>
+<author>
+<type>uri</type>
+<value>http://dbpedia.org/resource/Paul_Celan</value>
+</author>
+<wikilink>
+<type>uri</type>
+<value>http://en.wikipedia.org/wiki/Timestead?oldid=488554294</value>
+</wikilink>
+</XML_Serializer_Tag>
+<XML_Serializer_Tag>
+<book>
+<type>uri</type>
+<value>http://dbpedia.org/resource/From_Threshold_to_Threshold</value>
+</book>
+<author>
+<type>uri</type>
+<value>http://dbpedia.org/resource/Paul_Celan</value>
+</author>
+<wikilink>
+<type>uri</type>
+<value>http://en.wikipedia.org/wiki/From_Threshold_to_Threshold?oldid=488552703</value>
+</wikilink>
+</XML_Serializer_Tag>
+</books>
+</Person>

@@ -11,8 +11,10 @@
 <professionOrOccupation>
 <XML_Serializer_Tag>Maler</XML_Serializer_Tag>
 </professionOrOccupation>
-<artworks />
 <dbpResource>http://dbpedia.org/resource/Oskar_Zwintscher</dbpResource>
 <abstract>Oskar Zwintscher (* 2. Mai 1870 in Leipzig; † 12. Februar 1916 in Dresden) war ein deutscher Maler.</abstract>
 <wikilink>http://en.wikipedia.org/wiki/Oskar_Zwintscher?oldid=605021264</wikilink>
+<artworks />
+<buildings />
+<books />
 </Person>

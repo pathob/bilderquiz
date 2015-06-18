@@ -1,0 +1,29 @@
+<Person>
+<name>Max Cetto</name>
+<variantName>
+<XML_Serializer_Tag>Max L. Cetto</XML_Serializer_Tag>
+<XML_Serializer_Tag>Max Ludwig Carl Cetto Day</XML_Serializer_Tag>
+<XML_Serializer_Tag>Max Ludwig Carl Cetto Day</XML_Serializer_Tag>
+<XML_Serializer_Tag>Max Ludwig Cetto</XML_Serializer_Tag>
+</variantName>
+<thumbnail>https://commons.wikimedia.org/wiki/Special:FilePath/Ostpark_Cetto-Unterstandshalle_21082011.JPG?width=270</thumbnail>
+<birthEN>February 20, 1903</birthEN>
+<birthDE>20. Februar 1903</birthDE>
+<deathEN>April 5, 1980</deathEN>
+<deathDE>5. April 1980</deathDE>
+<birthPlace>
+<XML_Serializer_Tag>Koblenz</XML_Serializer_Tag>
+</birthPlace>
+<deathPlace>
+<XML_Serializer_Tag>Mexiko (Stadt)</XML_Serializer_Tag>
+</deathPlace>
+<professionOrOccupation>
+<XML_Serializer_Tag>Architekt</XML_Serializer_Tag>
+</professionOrOccupation>
+<dbpResource>http://dbpedia.org/resource/Max_Cetto</dbpResource>
+<abstract>Max Cetto (* 20. Februar 1903 in Koblenz; † 5. April 1980 in Mexiko-Stadt; vollständiger Name: Max Ludwig Cetto) war ein deutsch-mexikanischer Architekt.</abstract>
+<wikilink>http://en.wikipedia.org/wiki/Max_Cetto?oldid=590887353</wikilink>
+<artworks />
+<buildings />
+<books />
+</Person>

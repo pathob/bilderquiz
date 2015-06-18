@@ -1,0 +1,294 @@
+<Person>
+<name>Oscar Niemeyer</name>
+<variantName>
+<XML_Serializer_Tag>Oscar Niemeyer Soares</XML_Serializer_Tag>
+<XML_Serializer_Tag>Oscar Niemeyer Soares Filho</XML_Serializer_Tag>
+<XML_Serializer_Tag>Oskar Nimeier</XML_Serializer_Tag>
+<XML_Serializer_Tag>Oscar Niemeyer Soares Filho</XML_Serializer_Tag>
+<XML_Serializer_Tag>Oscar Niemeyer Filho</XML_Serializer_Tag>
+<XML_Serializer_Tag>Ribeiro de Almeida Soares</XML_Serializer_Tag>
+<XML_Serializer_Tag>Ribeiro de Almeida Soares</XML_Serializer_Tag>
+<XML_Serializer_Tag>Oscar Ribeiro de Almeida de Niemeyer Soares</XML_Serializer_Tag>
+<XML_Serializer_Tag>Oscar Ribeiro de Almeida Niemeyer Soares Filho</XML_Serializer_Tag>
+</variantName>
+<thumbnail>https://commons.wikimedia.org/wiki/Special:FilePath/Oscar_Niemeyer_cropped.jpg?width=270</thumbnail>
+<birthEN>December 15, 1907</birthEN>
+<birthDE>15. Dezember 1907</birthDE>
+<deathEN>December 5, 2012</deathEN>
+<deathDE>5. Dezember 2012</deathDE>
+<birthPlace>
+<XML_Serializer_Tag>Rio de Janeiro</XML_Serializer_Tag>
+</birthPlace>
+<deathPlace>
+<XML_Serializer_Tag>Rio de Janeiro</XML_Serializer_Tag>
+</deathPlace>
+<professionOrOccupation>
+<XML_Serializer_Tag>Architekt</XML_Serializer_Tag>
+</professionOrOccupation>
+<dbpResource>http://dbpedia.org/resource/Oscar_Niemeyer</dbpResource>
+<abstract>Oscar Ribeiro de Almeida Niemeyer Soares Filho (* als Oscar de Almeida Soares am 15. Dezember 1907 in Rio de Janeiro; † 5. Dezember 2012 ebenda) war ein brasilianischer Architekt. Er gilt als Wegbereiter der modernen brasilianischen Architektur. Niemeyer entwarf die Gebäude für die brasilianische Hauptstadt Brasília, die 1987 zum Weltkulturerbe erklärt wurde. Im Jahr 2013 wurde sein architektonisches Archiv zum Weltdokumentenerbe erklärt.</abstract>
+<wikilink>http://en.wikipedia.org/wiki/Oscar_Niemeyer?oldid=606811727</wikilink>
+<artworks />
+<buildings>
+<XML_Serializer_Tag>
+<building>
+<type>uri</type>
+<value>http://dbpedia.org/resource/Oscar_Niemeyer_International_Cultural_Centre</value>
+</building>
+<name>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>Centro Cultural Internacional Oscar Niemeyer</value>
+</name>
+<architect>
+<type>uri</type>
+<value>http://dbpedia.org/resource/Oscar_Niemeyer</value>
+</architect>
+<thumbnail>
+<type>uri</type>
+<value>http://commons.wikimedia.org/wiki/Special:FilePath/CentroNiemeyer72.jpg?width=300</value>
+</thumbnail>
+<wikilink>
+<type>uri</type>
+<value>http://en.wikipedia.org/wiki/Oscar_Niemeyer_International_Cultural_Centre?oldid=605699830</value>
+</wikilink>
+<location>
+<type>uri</type>
+<value>http://dbpedia.org/resource/Asturias</value>
+</location>
+<abstract>
+<type>literal</type>
+<xml:lang>de</xml:lang>
+<value>Das Centro Niemeyer ist ein internationales Kulturzentrum in Avilés an der spanischen Atlantikküste. Es wurde von dem brasilianischen Star-Architekten Oscar Niemeyer entworfen.Finanziert und getragen wird das &apos;Centro Niemeyer&apos; durch die &apos;Internationale Kulturzentrum Oscar Niemeyer Fürstentum von Asturien Stiftung&apos; (Fundation Centro Cultural International Oscar Niemeyer Principado de Asturias), die wiederum zum einen durch die autonome Landesregierung der Region Asturien und zum anderen durch die spanische Zentralregierung von Madrid finanziert wird. Das Zentrum soll der Region, die durch den Strukturwandel der vergangenen Jahrzehnte stark in Mitleidenschaft geraten war neuen Aufschwung bringen. Das Zentrum ist die erste und größte Maßnahme zur Revitalisierung der Stadt Avilés und liegt auf der neu begründeten &apos;Insel der Innovation&apos;, auf dem rechten Flussufer des gleichnamigen Flusses Avilés, der hier in den Atlantik mündet.Das &apos;Centro Niemeyer&apos; wurde am 26. März 2011 nach dreijähriger Bauzeit eröffnet und soll auf Wunsch des Architekten Oscar Niemeyer: &quot;Offen für alle sein und sich der Kultur, der Erziehung und dem Frieden widmen&quot;.Vorlage:Panorama/Wartung/Para4</value>
+</abstract>
+</XML_Serializer_Tag>
+<XML_Serializer_Tag>
+<building>
+<type>uri</type>
+<value>http://dbpedia.org/resource/Brasilia_Digital_TV_Tower</value>
+</building>
+<name>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>Brasilia Digital TV Tower</value>
+</name>
+<architect>
+<type>uri</type>
+<value>http://dbpedia.org/resource/Oscar_Niemeyer</value>
+</architect>
+<thumbnail>
+<type>uri</type>
+<value>http://commons.wikimedia.org/wiki/Special:FilePath/Torre_de_TV_Digital.JPG?width=300</value>
+</thumbnail>
+<wikilink>
+<type>uri</type>
+<value>http://en.wikipedia.org/wiki/Brasilia_Digital_TV_Tower?oldid=556360367</value>
+</wikilink>
+<location>
+<type>uri</type>
+<value>http://dbpedia.org/resource/Brazil</value>
+</location>
+<abstract>
+<type>literal</type>
+<xml:lang>de</xml:lang>
+<value>Der neue Fernsehturm Brasília (portugiesisch: Torre de TV Digital de Brasília) ist ein Fernsehturm in Brasília für die Ausstrahlung von Digitalfernsehen. Der Baufortschritt verzögerte sich aufgrund einer politischen Krise, sodass der ursprüngliche Eröffnungstermin am 21. April 2010 – dem 50. Jahrestag der brasilianischen Hauptstadt – nicht aufrechterhalten werden konnte. Der Turm befindet sich im Nordosten Brasílias auf dem höchsten Punkt des Stadtgebietes. Die Einweihung erfolgte schließlich mit zwei Jahren Verzögerung am 21. April 2012.</value>
+</abstract>
+</XML_Serializer_Tag>
+<XML_Serializer_Tag>
+<building>
+<type>uri</type>
+<value>http://dbpedia.org/resource/Ibirapuera_Auditorium</value>
+</building>
+<name>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>Auditório Ibirapuera</value>
+</name>
+<architect>
+<type>uri</type>
+<value>http://dbpedia.org/resource/Oscar_Niemeyer</value>
+</architect>
+<thumbnail>
+<type>uri</type>
+<value>http://commons.wikimedia.org/wiki/Special:FilePath/Auditório_Ibirapuera.JPG?width=300</value>
+</thumbnail>
+<wikilink>
+<type>uri</type>
+<value>http://en.wikipedia.org/wiki/Ibirapuera_Auditorium?oldid=541474302</value>
+</wikilink>
+<location>
+<type>uri</type>
+<value>http://dbpedia.org/resource/S%C3%A3o_Paulo</value>
+</location>
+<abstract>
+<type>literal</type>
+<xml:lang>de</xml:lang>
+<value>Das Ibirapuera-Auditorium (portugiesisch: Auditório Ibirapuera) ist ein von Oscar Niemeyer entworfener Konzertsaal im Parque do Ibirapuera in São Paulo. Mit dem 2005 fertiggestellten Bau wird eine Gruppe von Gebäuden im Ibirapuera-Park vervollständigt, die der Architekt in den 1950er-Jahren konzipiert hatte.</value>
+</abstract>
+</XML_Serializer_Tag>
+<XML_Serializer_Tag>
+<building>
+<type>uri</type>
+<value>http://dbpedia.org/resource/Pal%C3%A1cio_do_Planalto</value>
+</building>
+<name>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>Planalto Palace</value>
+</name>
+<architect>
+<type>uri</type>
+<value>http://dbpedia.org/resource/Oscar_Niemeyer</value>
+</architect>
+<thumbnail>
+<type>uri</type>
+<value>http://commons.wikimedia.org/wiki/Special:FilePath/Palacio_do_Planalto.jpeg?width=300</value>
+</thumbnail>
+<wikilink>
+<type>uri</type>
+<value>http://en.wikipedia.org/wiki/Palácio_do_Planalto?oldid=601924304</value>
+</wikilink>
+<location>
+<type>uri</type>
+<value>http://dbpedia.org/resource/Bras%C3%ADlia</value>
+</location>
+<abstract>
+<type>literal</type>
+<xml:lang>de</xml:lang>
+<value>Der Palácio do Planalto (deutsch: Palast der Hochebene) ist der offizielle Arbeitsplatz des Präsidenten der Republik Brasilien. Es befindet sich an der Nordseite der Praça dos Três Poderes in Brasília. Da er als Sitz der Regierung gilt, wird der Begriff „o Planalto“ oft als Metonymie für die Exekutive gebraucht.Im Gebäudekomplex befindet sich keine Dienstwohnung des Präsidenten, hierfür wird der Palácio da Alvorada genutzt.</value>
+</abstract>
+</XML_Serializer_Tag>
+<XML_Serializer_Tag>
+<building>
+<type>uri</type>
+<value>http://dbpedia.org/resource/Headquarters_of_the_United_Nations</value>
+</building>
+<architect>
+<type>uri</type>
+<value>http://dbpedia.org/resource/Oscar_Niemeyer</value>
+</architect>
+<thumbnail>
+<type>uri</type>
+<value>http://commons.wikimedia.org/wiki/Special:FilePath/United_Nations_Headquarters_in_New_York_City,_view_from_Roosevelt_Island.jpg?width=300</value>
+</thumbnail>
+<wikilink>
+<type>uri</type>
+<value>http://en.wikipedia.org/wiki/Headquarters_of_the_United_Nations?oldid=606503296</value>
+</wikilink>
+<abstract>
+<type>literal</type>
+<xml:lang>de</xml:lang>
+<value>Das UN-Hauptquartier in New York City ist der wichtigste Standort und Hauptsitz der Vereinten Nationen, gelegen am United Nations Plaza in Manhattan. Die Generalversammlung, der Sicherheitsrat und im jährlichen Wechsel mit Genf der Wirtschafts- und Sozialrat der Vereinten Nationen versammeln sich hier. Außerdem ist es Sitz des UN-Sekretariats.</value>
+</abstract>
+</XML_Serializer_Tag>
+<XML_Serializer_Tag>
+<building>
+<type>uri</type>
+<value>http://dbpedia.org/resource/Cl%C3%A1udio_Santoro_National_Theater</value>
+</building>
+<name>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>Teatro Nacional Cláudio Santoro</value>
+</name>
+<architect>
+<type>uri</type>
+<value>http://dbpedia.org/resource/Oscar_Niemeyer</value>
+</architect>
+<thumbnail>
+<type>uri</type>
+<value>http://commons.wikimedia.org/wiki/Special:FilePath/Teatro_Nacional_Claudio_Santoro_02.jpg?width=300</value>
+</thumbnail>
+<wikilink>
+<type>uri</type>
+<value>http://en.wikipedia.org/wiki/Cláudio_Santoro_National_Theater?oldid=545820495</value>
+</wikilink>
+<location>
+<type>uri</type>
+<value>http://dbpedia.org/resource/Bras%C3%ADlia</value>
+</location>
+</XML_Serializer_Tag>
+<XML_Serializer_Tag>
+<building>
+<type>uri</type>
+<value>http://dbpedia.org/resource/Itamaraty_Palace</value>
+</building>
+<name>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>Palácio do Itamaraty</value>
+</name>
+<architect>
+<type>uri</type>
+<value>http://dbpedia.org/resource/Oscar_Niemeyer</value>
+</architect>
+<thumbnail>
+<type>uri</type>
+<value>http://commons.wikimedia.org/wiki/Special:FilePath/Itamaraty2.jpg?width=300</value>
+</thumbnail>
+<wikilink>
+<type>uri</type>
+<value>http://en.wikipedia.org/wiki/Itamaraty_Palace?oldid=577048684</value>
+</wikilink>
+<location>
+<type>uri</type>
+<value>http://dbpedia.org/resource/Bras%C3%ADlia</value>
+</location>
+</XML_Serializer_Tag>
+<XML_Serializer_Tag>
+<building>
+<type>uri</type>
+<value>http://dbpedia.org/resource/United_Nations_Secretariat_Building</value>
+</building>
+<name>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>United Nations Secretariat Building</value>
+</name>
+<architect>
+<type>uri</type>
+<value>http://dbpedia.org/resource/Oscar_Niemeyer</value>
+</architect>
+<thumbnail>
+<type>uri</type>
+<value>http://en.wikipedia.org/wiki/Special:FilePath/UnitedNationsNewYork.JPG?width=300</value>
+</thumbnail>
+<wikilink>
+<type>uri</type>
+<value>http://en.wikipedia.org/wiki/United_Nations_Secretariat_Building?oldid=604768899</value>
+</wikilink>
+<location>
+<type>uri</type>
+<value>http://dbpedia.org/resource/Manhattan</value>
+</location>
+</XML_Serializer_Tag>
+<XML_Serializer_Tag>
+<building>
+<type>uri</type>
+<value>http://dbpedia.org/resource/Pal%C3%A1cio_da_Alvorada</value>
+</building>
+<name>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>Alvorada Palace</value>
+</name>
+<architect>
+<type>uri</type>
+<value>http://dbpedia.org/resource/Oscar_Niemeyer</value>
+</architect>
+<thumbnail>
+<type>uri</type>
+<value>http://commons.wikimedia.org/wiki/Special:FilePath/Palacio_Alvorada_commons.jpg?width=300</value>
+</thumbnail>
+<wikilink>
+<type>uri</type>
+<value>http://en.wikipedia.org/wiki/Palácio_da_Alvorada?oldid=601924446</value>
+</wikilink>
+<location>
+<type>uri</type>
+<value>http://dbpedia.org/resource/Bras%C3%ADlia</value>
+</location>
+</XML_Serializer_Tag>
+</buildings>
+<books />
+</Person>

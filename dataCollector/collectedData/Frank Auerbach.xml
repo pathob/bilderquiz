@@ -16,8 +16,10 @@
 <XML_Serializer_Tag>Künstler</XML_Serializer_Tag>
 <XML_Serializer_Tag>Maler</XML_Serializer_Tag>
 </professionOrOccupation>
-<artworks />
 <dbpResource>http://dbpedia.org/resource/Frank_Auerbach</dbpResource>
 <abstract>Frank Auerbach (* 29. April 1931 in Berlin; eigentlich Frank Helmut Auerbach) ist ein britischer Maler deutscher Herkunft.</abstract>
 <wikilink>http://en.wikipedia.org/wiki/Frank_Auerbach?oldid=606304441</wikilink>
+<artworks />
+<buildings />
+<books />
 </Person>

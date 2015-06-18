@@ -1,0 +1,32 @@
+<Person>
+<name>Edmund Spenser</name>
+<variantName>
+<XML_Serializer_Tag>Edmondo Spenser</XML_Serializer_Tag>
+<XML_Serializer_Tag>Edmond Spenser</XML_Serializer_Tag>
+<XML_Serializer_Tag>Edmunde Spenser</XML_Serializer_Tag>
+<XML_Serializer_Tag>Edmund Spencer</XML_Serializer_Tag>
+<XML_Serializer_Tag>... Spencer</XML_Serializer_Tag>
+<XML_Serializer_Tag>Immerito</XML_Serializer_Tag>
+<XML_Serializer_Tag>Imenito</XML_Serializer_Tag>
+</variantName>
+<thumbnail>https://commons.wikimedia.org/wiki/Special:FilePath/Edmund_Spenser_oil_painting.JPG?width=270</thumbnail>
+<birthEN>XX.XX.1552</birthEN>
+<birthDE>XX.XX.1552</birthDE>
+<deathEN>January 13, 1599</deathEN>
+<deathDE>13. Januar 1599</deathDE>
+<birthPlace>
+<XML_Serializer_Tag>London</XML_Serializer_Tag>
+</birthPlace>
+<deathPlace>
+<XML_Serializer_Tag>London</XML_Serializer_Tag>
+</deathPlace>
+<professionOrOccupation>
+<XML_Serializer_Tag>Schriftsteller</XML_Serializer_Tag>
+</professionOrOccupation>
+<dbpResource>http://dbpedia.org/resource/Edmund_Spenser</dbpResource>
+<abstract>Edmund Spenser (* um 1552 in London; † 13. Januar 1599 ebenda) war ein englischer Dichter, älterer Zeitgenosse und eines der Vorbilder William Shakespeares.</abstract>
+<wikilink>http://en.wikipedia.org/wiki/Edmund_Spenser?oldid=604030327</wikilink>
+<artworks />
+<buildings />
+<books />
+</Person>

@@ -1,0 +1,25 @@
+<Person>
+<name>Louis Untermeyer</name>
+<variantName />
+<thumbnail>https://commons.wikimedia.org/wiki/Special:FilePath/Louis_Untermeyer.jpg?width=270</thumbnail>
+<birthEN>October 1, 1885</birthEN>
+<birthDE>1. Oktober 1885</birthDE>
+<deathEN>December 18, 1977</deathEN>
+<deathDE>18. Dezember 1977</deathDE>
+<birthPlace>
+<XML_Serializer_Tag>New York, NY</XML_Serializer_Tag>
+</birthPlace>
+<deathPlace>
+<XML_Serializer_Tag>Newtown, Conn.</XML_Serializer_Tag>
+</deathPlace>
+<professionOrOccupation>
+<XML_Serializer_Tag>Autor</XML_Serializer_Tag>
+<XML_Serializer_Tag>Herausgeber</XML_Serializer_Tag>
+</professionOrOccupation>
+<dbpResource>http://dbpedia.org/resource/Louis_Untermeyer</dbpResource>
+<abstract>Louis Untermeyer (* 1. Oktober 1885 in New York City; † 18. Dezember 1977) war ein US-amerikanischer Dichter, der viele seinerzeit bedeutende Anthologien herausgegeben hat.</abstract>
+<wikilink>http://en.wikipedia.org/wiki/Louis_Untermeyer?oldid=586546992</wikilink>
+<artworks />
+<buildings />
+<books />
+</Person>

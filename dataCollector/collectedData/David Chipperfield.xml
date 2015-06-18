@@ -1,0 +1,53 @@
+<Person>
+<name>David Chipperfield</name>
+<variantName />
+<thumbnail>https://commons.wikimedia.org/wiki/Special:FilePath/David_Chipperfield.JPG?width=270</thumbnail>
+<birthEN>1953</birthEN>
+<birthDE>1953</birthDE>
+<deathEN />
+<deathDE />
+<birthPlace />
+<deathPlace />
+<professionOrOccupation>
+<XML_Serializer_Tag>Architekt</XML_Serializer_Tag>
+</professionOrOccupation>
+<dbpResource>http://dbpedia.org/resource/David_Chipperfield</dbpResource>
+<abstract>David Alan Chipperfield (CBE; * 18. Dezember 1953 in England) ist ein englischer Architekt.</abstract>
+<wikilink>http://en.wikipedia.org/wiki/David_Chipperfield?oldid=598510841</wikilink>
+<artworks />
+<buildings>
+<XML_Serializer_Tag>
+<building>
+<type>uri</type>
+<value>http://dbpedia.org/resource/Museum_of_Modern_Literature</value>
+</building>
+<name>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>Museum of Modern Literature</value>
+</name>
+<architect>
+<type>uri</type>
+<value>http://dbpedia.org/resource/David_Chipperfield</value>
+</architect>
+<thumbnail>
+<type>uri</type>
+<value>http://commons.wikimedia.org/wiki/Special:FilePath/MarbachLiteraturmuseumModerne.jpg?width=300</value>
+</thumbnail>
+<wikilink>
+<type>uri</type>
+<value>http://en.wikipedia.org/wiki/Museum_of_Modern_Literature?oldid=541073077</value>
+</wikilink>
+<location>
+<type>uri</type>
+<value>http://dbpedia.org/resource/Marbach_am_Neckar</value>
+</location>
+<abstract>
+<type>literal</type>
+<xml:lang>de</xml:lang>
+<value>Das Literaturmuseum der Moderne (LiMo) ist Teil des Deutschen Literaturarchivs Marbach und steht auf der Schillerhöhe (Marbach am Neckar).</value>
+</abstract>
+</XML_Serializer_Tag>
+</buildings>
+<books />
+</Person>

@@ -13,8 +13,10 @@
 <professionOrOccupation>
 <XML_Serializer_Tag>Maler</XML_Serializer_Tag>
 </professionOrOccupation>
-<artworks />
 <dbpResource>http://dbpedia.org/resource/Gerard_Seghers</dbpResource>
 <abstract>Gerard Seghers (Schreibvariante: Geerard Seghers; * 17. März 1591 in Antwerpen; † 18. März 1651 in Antwerpen) war ein niederländischer Maler.</abstract>
 <wikilink>http://en.wikipedia.org/wiki/Gerard_Seghers?oldid=601600069</wikilink>
+<artworks />
+<buildings />
+<books />
 </Person>

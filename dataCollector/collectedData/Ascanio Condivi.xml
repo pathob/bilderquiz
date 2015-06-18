@@ -12,8 +12,10 @@
 <XML_Serializer_Tag>Maler</XML_Serializer_Tag>
 <XML_Serializer_Tag>Plastiker</XML_Serializer_Tag>
 </professionOrOccupation>
-<artworks />
 <dbpResource>http://dbpedia.org/resource/Ascanio_Condivi</dbpResource>
 <abstract>Ascanio Condivi (* 1525 in Ripatransone; † 10. Dezember 1574 ebd.) war ein italienischer Maler und Autor. Er war Schüler und Mitarbeiter Michelangelos und sein Biograph. Condivis Biographie ist neben der Vita Michelangelos von Vasari die wichtigste schriftliche Quelle für Michelangelos Leben und Werk.</abstract>
 <wikilink>http://en.wikipedia.org/wiki/Ascanio_Condivi?oldid=602498899</wikilink>
+<artworks />
+<buildings />
+<books />
 </Person>

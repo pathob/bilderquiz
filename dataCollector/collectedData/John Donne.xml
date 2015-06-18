@@ -1,0 +1,28 @@
+<Person>
+<name>John Donne</name>
+<variantName>
+<XML_Serializer_Tag>J. D.</XML_Serializer_Tag>
+<XML_Serializer_Tag>J. D.</XML_Serializer_Tag>
+<XML_Serializer_Tag>... Donne</XML_Serializer_Tag>
+<XML_Serializer_Tag>John Done</XML_Serializer_Tag>
+<XML_Serializer_Tag>John Donn</XML_Serializer_Tag>
+<XML_Serializer_Tag>John Dunne</XML_Serializer_Tag>
+</variantName>
+<thumbnail>https://commons.wikimedia.org/wiki/Special:FilePath/JohnDonne.jpg?width=270</thumbnail>
+<birthEN>1572</birthEN>
+<birthDE>1572</birthDE>
+<deathEN>1631</deathEN>
+<deathDE>1631</deathDE>
+<birthPlace />
+<deathPlace />
+<professionOrOccupation>
+<XML_Serializer_Tag>Schriftsteller</XML_Serializer_Tag>
+<XML_Serializer_Tag>Geistlicher</XML_Serializer_Tag>
+</professionOrOccupation>
+<dbpResource>http://dbpedia.org/resource/John_Donne</dbpResource>
+<abstract>John Donne (* 22. Januar 1572 in London; † 31. März 1631 ebenda) war ein englischer Schriftsteller und der bedeutendste der metaphysischen Dichter. Sein Werk umfasst Predigten, religiöse Gedichte, Übersetzungen aus dem Lateinischen, Epigramme, Elegien, Lieder und Sonette.</abstract>
+<wikilink>http://en.wikipedia.org/wiki/John_Donne?oldid=605960701</wikilink>
+<artworks />
+<buildings />
+<books />
+</Person>

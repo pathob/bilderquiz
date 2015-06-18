@@ -1,0 +1,33 @@
+<Person>
+<name>Jason Dark</name>
+<variantName>
+<XML_Serializer_Tag>Helmut Rellergerd</XML_Serializer_Tag>
+<XML_Serializer_Tag>Damian Danger</XML_Serializer_Tag>
+<XML_Serializer_Tag>Miriam Dark</XML_Serializer_Tag>
+<XML_Serializer_Tag>John Denver</XML_Serializer_Tag>
+<XML_Serializer_Tag>Red Geller</XML_Serializer_Tag>
+<XML_Serializer_Tag>Kevin Le John</XML_Serializer_Tag>
+<XML_Serializer_Tag>Kevin LeJohn</XML_Serializer_Tag>
+<XML_Serializer_Tag>Dave Morris</XML_Serializer_Tag>
+<XML_Serializer_Tag>Jim Prescott</XML_Serializer_Tag>
+<XML_Serializer_Tag>Gerd Reller</XML_Serializer_Tag>
+</variantName>
+<thumbnail>https://commons.wikimedia.org/wiki/Special:FilePath/Helmut_Rellergerd.jpg?width=270</thumbnail>
+<birthEN>1945</birthEN>
+<birthDE>1945</birthDE>
+<deathEN />
+<deathDE />
+<birthPlace>
+<XML_Serializer_Tag>Altena-Dahle</XML_Serializer_Tag>
+</birthPlace>
+<deathPlace />
+<professionOrOccupation>
+<XML_Serializer_Tag>Schriftsteller</XML_Serializer_Tag>
+</professionOrOccupation>
+<dbpResource>http://dbpedia.org/resource/Jason_Dark</dbpResource>
+<abstract>Jason Dark ist ein ehemaliges Verlags-Pseudonym des Bastei-Lübbe-Verlags, unter dem die Romanserie Geisterjäger John Sinclair publiziert wird. Seit einigen Jahren ist es ein persönliches Pseudonym von Helmut Rellergerd.</abstract>
+<wikilink>http://en.wikipedia.org/wiki/Jason_Dark?oldid=604882444</wikilink>
+<artworks />
+<buildings />
+<books />
+</Person>

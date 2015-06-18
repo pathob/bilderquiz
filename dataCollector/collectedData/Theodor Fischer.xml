@@ -1,0 +1,25 @@
+<Person>
+<name>Theodor Fischer</name>
+<variantName />
+<thumbnail>https://commons.wikimedia.org/wiki/Special:FilePath/Theodor-fischer-1933.jpg?width=270</thumbnail>
+<birthEN>May 28, 1862</birthEN>
+<birthDE>28. Mai 1862</birthDE>
+<deathEN>December 25, 1938</deathEN>
+<deathDE>25. Dezember 1938</deathDE>
+<birthPlace>
+<XML_Serializer_Tag>Schweinfurt</XML_Serializer_Tag>
+</birthPlace>
+<deathPlace>
+<XML_Serializer_Tag>München</XML_Serializer_Tag>
+</deathPlace>
+<professionOrOccupation>
+<XML_Serializer_Tag>Architekt</XML_Serializer_Tag>
+<XML_Serializer_Tag>Hochschullehrer</XML_Serializer_Tag>
+</professionOrOccupation>
+<dbpResource>http://dbpedia.org/resource/Theodor_Fischer</dbpResource>
+<abstract>Theodor Fischer (* 28. Mai 1862 in Schweinfurt; † 25. Dezember 1938 in München) war ein deutscher Architekt, Stadtplaner und Hochschullehrer.</abstract>
+<wikilink>http://en.wikipedia.org/wiki/Theodor_Fischer?oldid=600013134</wikilink>
+<artworks />
+<buildings />
+<books />
+</Person>

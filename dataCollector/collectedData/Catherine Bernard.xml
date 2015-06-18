@@ -1,0 +1,26 @@
+<Person>
+<name>Catherine Bernard</name>
+<variantName>
+<XML_Serializer_Tag>Catherine de Bernard</XML_Serializer_Tag>
+<XML_Serializer_Tag>Mademoiselle de Bernard</XML_Serializer_Tag>
+<XML_Serializer_Tag>... de Bernard</XML_Serializer_Tag>
+</variantName>
+<thumbnail>https://commons.wikimedia.org/wiki/Special:FilePath/Abraham_Bosse_Salon_de_dames.jpg?width=270</thumbnail>
+<birthEN>1662</birthEN>
+<birthDE>1662</birthDE>
+<deathEN>1712</deathEN>
+<deathDE>1712</deathDE>
+<birthPlace>
+<XML_Serializer_Tag>Rouen</XML_Serializer_Tag>
+</birthPlace>
+<deathPlace />
+<professionOrOccupation>
+<XML_Serializer_Tag>Schriftstellerin</XML_Serializer_Tag>
+</professionOrOccupation>
+<dbpResource>http://dbpedia.org/resource/Catherine_Bernard</dbpResource>
+<abstract>Catherine Bernard (* 1662 in Rouen; † 1712 in Paris) war eine französische Schriftstellerin und Dramatikerin. Berühmt sind ihre Märchen.</abstract>
+<wikilink>http://en.wikipedia.org/wiki/Catherine_Bernard?oldid=594877281</wikilink>
+<artworks />
+<buildings />
+<books />
+</Person>

@@ -1,0 +1,32 @@
+<Person>
+<name>Georg Michaelis</name>
+<variantName>
+<XML_Serializer_Tag>... Michaelis</XML_Serializer_Tag>
+<XML_Serializer_Tag>Gregor Michaelis</XML_Serializer_Tag>
+<XML_Serializer_Tag>Georgius Michaelis</XML_Serializer_Tag>
+</variantName>
+<thumbnail>https://commons.wikimedia.org/wiki/Special:FilePath/Bundesarchiv_Bild_183-2004-0720-500,_Georg_Michaelis.jpg?width=270</thumbnail>
+<birthEN>September 8, 1857</birthEN>
+<birthDE>8. September 1857</birthDE>
+<deathEN>July 24, 1936</deathEN>
+<deathDE>24. Juli 1936</deathDE>
+<birthPlace>
+<XML_Serializer_Tag>Haynau</XML_Serializer_Tag>
+</birthPlace>
+<deathPlace>
+<XML_Serializer_Tag>Saarow</XML_Serializer_Tag>
+</deathPlace>
+<professionOrOccupation>
+<XML_Serializer_Tag>Beamter</XML_Serializer_Tag>
+<XML_Serializer_Tag>Reichskanzler</XML_Serializer_Tag>
+<XML_Serializer_Tag>Protestant</XML_Serializer_Tag>
+<XML_Serializer_Tag>Jurist</XML_Serializer_Tag>
+<XML_Serializer_Tag>Autor</XML_Serializer_Tag>
+</professionOrOccupation>
+<dbpResource>http://dbpedia.org/resource/Georg_Michaelis</dbpResource>
+<abstract>Georg Michaelis (* 8. September 1857 in Haynau, Schlesien; † 24. Juli 1936 in Bad Saarow, Mark Brandenburg) war ein deutscher Jurist und Politiker. Er war vom 14. Juli bis 31. Oktober 1917 für dreieinhalb Monate Reichskanzler und preußischer Ministerpräsident.</abstract>
+<wikilink>http://en.wikipedia.org/wiki/Georg_Michaelis?oldid=585358575</wikilink>
+<artworks />
+<buildings />
+<books />
+</Person>

@@ -1,0 +1,51 @@
+<Person>
+<name>Christian Hansen</name>
+<variantName>
+<XML_Serializer_Tag>Hans C. Hansen</XML_Serializer_Tag>
+<XML_Serializer_Tag>Hans Christian Hansen</XML_Serializer_Tag>
+</variantName>
+<thumbnail>https://commons.wikimedia.org/wiki/Special:FilePath/Christian_Hansen.JPG?width=270</thumbnail>
+<birthEN>1803</birthEN>
+<birthDE>1803</birthDE>
+<deathEN>1883</deathEN>
+<deathDE>1883</deathDE>
+<birthPlace />
+<deathPlace />
+<professionOrOccupation>
+<XML_Serializer_Tag>Architekt</XML_Serializer_Tag>
+</professionOrOccupation>
+<dbpResource>http://dbpedia.org/resource/Christian_Hansen_(architect)</dbpResource>
+<abstract>Hans Christian Hansen (* 20. April 1803 in Kopenhagen, Dänemark; † 2. Mai 1883 in Wien, Österreich) war ein dänischer Baumeister.</abstract>
+<wikilink>http://en.wikipedia.org/wiki/Christian_Hansen_(architect)?oldid=582940388</wikilink>
+<artworks />
+<buildings>
+<XML_Serializer_Tag>
+<building>
+<type>uri</type>
+<value>http://dbpedia.org/resource/Copenhagen_Municipal_Hospital</value>
+</building>
+<name>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>Copenhagen Municipal Hospital</value>
+</name>
+<architect>
+<type>uri</type>
+<value>http://dbpedia.org/resource/Christian_Hansen_(architect)</value>
+</architect>
+<thumbnail>
+<type>uri</type>
+<value>http://commons.wikimedia.org/wiki/Special:FilePath/Kommunehospitalet_(Copenhagen).jpg?width=300</value>
+</thumbnail>
+<wikilink>
+<type>uri</type>
+<value>http://en.wikipedia.org/wiki/Copenhagen_Municipal_Hospital?oldid=575720055</value>
+</wikilink>
+<location>
+<type>uri</type>
+<value>http://dbpedia.org/resource/Copenhagen</value>
+</location>
+</XML_Serializer_Tag>
+</buildings>
+<books />
+</Person>

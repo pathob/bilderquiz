@@ -1,0 +1,25 @@
+<Person>
+<name>Ernst Fuchs</name>
+<variantName />
+<thumbnail>https://commons.wikimedia.org/wiki/Special:FilePath/Ernst_Fuchs_2007.jpg?width=270</thumbnail>
+<birthEN>1930</birthEN>
+<birthDE>1930</birthDE>
+<deathEN />
+<deathDE />
+<birthPlace>
+<XML_Serializer_Tag>Wien</XML_Serializer_Tag>
+</birthPlace>
+<deathPlace />
+<professionOrOccupation>
+<XML_Serializer_Tag>Künstler</XML_Serializer_Tag>
+<XML_Serializer_Tag>Bühnenbildner</XML_Serializer_Tag>
+<XML_Serializer_Tag>Komponist</XML_Serializer_Tag>
+<XML_Serializer_Tag>Musiker</XML_Serializer_Tag>
+</professionOrOccupation>
+<dbpResource>http://dbpedia.org/resource/Ernst_Fuchs_(artist)</dbpResource>
+<abstract>Ernst Fuchs (* 13. Februar 1930 in Wien) ist ein österreichischer Maler, Architekt, Grafiker und Musiker. Er gilt als einer der Gründer der Wiener Schule des Phantastischen Realismus.</abstract>
+<wikilink>http://en.wikipedia.org/wiki/Ernst_Fuchs_(artist)?oldid=606058606</wikilink>
+<artworks />
+<buildings />
+<books />
+</Person>

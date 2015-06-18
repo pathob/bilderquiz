@@ -1,0 +1,58 @@
+<Person>
+<name>Stefan Heym</name>
+<variantName>
+<XML_Serializer_Tag>Hellmuth Fliegel</XML_Serializer_Tag>
+<XML_Serializer_Tag>Stefan Gejm</XML_Serializer_Tag>
+<XML_Serializer_Tag>Stefan Geim</XML_Serializer_Tag>
+<XML_Serializer_Tag>Sṭefan Haim</XML_Serializer_Tag>
+<XML_Serializer_Tag>Štefan Hajm</XML_Serializer_Tag>
+<XML_Serializer_Tag>Stefan Chajm</XML_Serializer_Tag>
+<XML_Serializer_Tag>Xtê-Phan Hai-Mơ</XML_Serializer_Tag>
+<XML_Serializer_Tag>Xtêfan Haim</XML_Serializer_Tag>
+<XML_Serializer_Tag>Helmut Flieg</XML_Serializer_Tag>
+<XML_Serializer_Tag>Stephan Heym</XML_Serializer_Tag>
+<XML_Serializer_Tag>שטפן היים</XML_Serializer_Tag>
+</variantName>
+<thumbnail>https://commons.wikimedia.org/wiki/Special:FilePath/Bundesarchiv_Bild_183-1989-1104-031,_Berlin,_Stefan_Heym_mit_Journalisten.jpg?width=270</thumbnail>
+<birthEN>April 10, 1913</birthEN>
+<birthDE>10. April 1913</birthDE>
+<deathEN>December 16, 2001</deathEN>
+<deathDE>16. Dezember 2001</deathDE>
+<birthPlace>
+<XML_Serializer_Tag>Chemnitz</XML_Serializer_Tag>
+</birthPlace>
+<deathPlace>
+<XML_Serializer_Tag>En Boqeq</XML_Serializer_Tag>
+</deathPlace>
+<professionOrOccupation>
+<XML_Serializer_Tag>Journalist</XML_Serializer_Tag>
+<XML_Serializer_Tag>Lyriker</XML_Serializer_Tag>
+<XML_Serializer_Tag>Schriftsteller</XML_Serializer_Tag>
+</professionOrOccupation>
+<dbpResource>http://dbpedia.org/resource/Stefan_Heym</dbpResource>
+<abstract>Stefan Heym (* 10. April 1913 in Chemnitz als Helmut Flieg; † 16. Dezember 2001 in En Bokek, Israel) war ein deutscher Schriftsteller.</abstract>
+<wikilink>http://en.wikipedia.org/wiki/Stefan_Heym?oldid=601179975</wikilink>
+<artworks />
+<buildings />
+<books>
+<XML_Serializer_Tag>
+<book>
+<type>uri</type>
+<value>http://dbpedia.org/resource/Goldsborough_(novel)</value>
+</book>
+<author>
+<type>uri</type>
+<value>http://dbpedia.org/resource/Stefan_Heym</value>
+</author>
+<released>
+<type>typed-literal</type>
+<datatype>http://www.w3.org/2001/XMLSchema#integer</datatype>
+<value>1953</value>
+</released>
+<wikilink>
+<type>uri</type>
+<value>http://en.wikipedia.org/wiki/Goldsborough_(novel)?oldid=532073406</value>
+</wikilink>
+</XML_Serializer_Tag>
+</books>
+</Person>

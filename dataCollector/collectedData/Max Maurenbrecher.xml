@@ -1,0 +1,29 @@
+<Person>
+<name>Max Maurenbrecher</name>
+<variantName>
+<XML_Serializer_Tag>Max Heinrich Maurenbrecher</XML_Serializer_Tag>
+</variantName>
+<thumbnail>https://commons.wikimedia.org/wiki/Special:FilePath/Portrait_Max_Maurenbrecher.jpg?width=270</thumbnail>
+<birthEN>July 17, 1874</birthEN>
+<birthDE>17. Juli 1874</birthDE>
+<deathEN>April 30, 1930</deathEN>
+<deathDE>30. April 1930</deathDE>
+<birthPlace>
+<XML_Serializer_Tag>Königsberg</XML_Serializer_Tag>
+</birthPlace>
+<deathPlace>
+<XML_Serializer_Tag>Osthausen-Wülfershausen</XML_Serializer_Tag>
+</deathPlace>
+<professionOrOccupation>
+<XML_Serializer_Tag>Pfarrer</XML_Serializer_Tag>
+<XML_Serializer_Tag>Schriftsteller</XML_Serializer_Tag>
+<XML_Serializer_Tag>Redakteur</XML_Serializer_Tag>
+<XML_Serializer_Tag>Politiker</XML_Serializer_Tag>
+</professionOrOccupation>
+<dbpResource>http://dbpedia.org/resource/Max_Maurenbrecher</dbpResource>
+<abstract>Max Heinrich Maurenbrecher (* 17. Juli 1874 in Königsberg (Preußen); † 30. April 1930 in Osthausen) war ein deutscher evangelisch-reformierter Theologe und Pfarrer sowie politischer Publizist und Politiker (NSV, SPD, DVLP und DNVP).</abstract>
+<wikilink>http://en.wikipedia.org/wiki/Max_Maurenbrecher?oldid=592279082</wikilink>
+<artworks />
+<buildings />
+<books />
+</Person>

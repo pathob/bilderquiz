@@ -1,0 +1,58 @@
+<Person>
+<name>Lorenzo Ghiberti</name>
+<variantName>
+<XML_Serializer_Tag>Lorenz Ghiberti</XML_Serializer_Tag>
+<XML_Serializer_Tag>Lorenzo, Ghiberti</XML_Serializer_Tag>
+<XML_Serializer_Tag>Lorenzo, di Cione di Ser Buonaccorso</XML_Serializer_Tag>
+</variantName>
+<thumbnail>https://commons.wikimedia.org/wiki/Special:FilePath/Ghiberti.png?width=270</thumbnail>
+<birthEN>XX.XX.1378</birthEN>
+<birthDE>XX.XX.1378</birthDE>
+<deathEN>December 1, 1455</deathEN>
+<deathDE>1. Dezember 1455</deathDE>
+<birthPlace>
+<XML_Serializer_Tag>Pelago</XML_Serializer_Tag>
+</birthPlace>
+<deathPlace>
+<XML_Serializer_Tag>Florenz</XML_Serializer_Tag>
+</deathPlace>
+<professionOrOccupation>
+<XML_Serializer_Tag>Bildhauer</XML_Serializer_Tag>
+<XML_Serializer_Tag>Goldschmied</XML_Serializer_Tag>
+</professionOrOccupation>
+<dbpResource>http://dbpedia.org/resource/Lorenzo_Ghiberti</dbpResource>
+<abstract>Lorenzo Ghiberti (* um 1378 in Pelago; † 1. Dezember 1455 in Florenz) war italienischer Bildhauer, Goldschmied, Erzgießer und Kunsttheoretiker. Sein berühmtestes Werk ist die von Michelangelo so genannte Paradiesestür am Baptisterium der Kathedrale von Florenz (Dom Santa Maria del Fiore).</abstract>
+<wikilink>http://en.wikipedia.org/wiki/Lorenzo_Ghiberti?oldid=602452770</wikilink>
+<artworks>
+<XML_Serializer_Tag>
+<artwork>
+<type>uri</type>
+<value>http://dbpedia.org/resource/St._John_the_Baptist_(Ghiberti)</value>
+</artwork>
+<thumbnail>
+<type>uri</type>
+<value>http://en.wikipedia.org/wiki/Special:FilePath/StJohntheBaptistGhiberti.JPG?width=300</value>
+</thumbnail>
+<name>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>St. John the Baptist</value>
+</name>
+<year>
+<type>typed-literal</type>
+<datatype>http://www.w3.org/2001/XMLSchema#integer</datatype>
+<value>1412</value>
+</year>
+<wikilink>
+<type>uri</type>
+<value>http://en.wikipedia.org/wiki/St._John_the_Baptist_(Ghiberti)?oldid=590886082</value>
+</wikilink>
+<type>
+<type>uri</type>
+<value>http://dbpedia.org/resource/Bronze</value>
+</type>
+</XML_Serializer_Tag>
+</artworks>
+<buildings />
+<books />
+</Person>

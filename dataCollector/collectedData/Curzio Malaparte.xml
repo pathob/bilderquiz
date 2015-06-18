@@ -1,0 +1,37 @@
+<Person>
+<name>Curzio Malaparte</name>
+<variantName>
+<XML_Serializer_Tag>Kurzio Malaparte</XML_Serializer_Tag>
+<XML_Serializer_Tag>Kurt Erich Suckert</XML_Serializer_Tag>
+<XML_Serializer_Tag>Kurt Eric Suckert</XML_Serializer_Tag>
+<XML_Serializer_Tag>K. E. Suckert</XML_Serializer_Tag>
+<XML_Serializer_Tag>Kurt Suckert</XML_Serializer_Tag>
+<XML_Serializer_Tag>Curt Erich Suckert</XML_Serializer_Tag>
+<XML_Serializer_Tag>Curt Eric Suckert</XML_Serializer_Tag>
+<XML_Serializer_Tag>C. E. Suckert</XML_Serializer_Tag>
+<XML_Serializer_Tag>Curt Suckert</XML_Serializer_Tag>
+<XML_Serializer_Tag>Curzio Suckert</XML_Serializer_Tag>
+</variantName>
+<thumbnail>https://commons.wikimedia.org/wiki/Special:FilePath/Malaparte.jpg?width=270</thumbnail>
+<birthEN>1898</birthEN>
+<birthDE>1898</birthDE>
+<deathEN>1957</deathEN>
+<deathDE>1957</deathDE>
+<birthPlace>
+<XML_Serializer_Tag>Prato</XML_Serializer_Tag>
+</birthPlace>
+<deathPlace>
+<XML_Serializer_Tag>Rom</XML_Serializer_Tag>
+</deathPlace>
+<professionOrOccupation>
+<XML_Serializer_Tag>Journalist</XML_Serializer_Tag>
+<XML_Serializer_Tag>Schriftsteller</XML_Serializer_Tag>
+<XML_Serializer_Tag>Diplomat</XML_Serializer_Tag>
+</professionOrOccupation>
+<dbpResource>http://dbpedia.org/resource/Curzio_Malaparte</dbpResource>
+<abstract>Curzio Malaparte (* 9. Juni 1898 in Prato in der Toskana; † 19. Juli 1957 in Rom; eigentlich Kurt Erich Suckert – das ab 1925 verwendete Pseudonym Malaparte bedeutet wörtlich übersetzt der schlechte Teil und ist eine Anspielung auf Bonaparte, der gute Teil) war ein italienischer Schriftsteller und Journalist.</abstract>
+<wikilink>http://en.wikipedia.org/wiki/Curzio_Malaparte?oldid=605096392</wikilink>
+<artworks />
+<buildings />
+<books />
+</Person>

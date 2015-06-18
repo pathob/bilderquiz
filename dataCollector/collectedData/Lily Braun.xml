@@ -1,0 +1,39 @@
+<Person>
+<name>Lily Braun</name>
+<variantName>
+<XML_Serializer_Tag>Lilly Braun</XML_Serializer_Tag>
+<XML_Serializer_Tag>Lili Braun</XML_Serializer_Tag>
+<XML_Serializer_Tag>Lili Broin</XML_Serializer_Tag>
+<XML_Serializer_Tag>Amalia Jenny Emilie Klothilde Johanna von Kretschman</XML_Serializer_Tag>
+<XML_Serializer_Tag>Lily von Kretschman</XML_Serializer_Tag>
+<XML_Serializer_Tag>Lilly von Kretschman</XML_Serializer_Tag>
+<XML_Serializer_Tag>Lily Kretschman</XML_Serializer_Tag>
+<XML_Serializer_Tag>Amalia von Gizycki</XML_Serializer_Tag>
+<XML_Serializer_Tag>Lily von Gizycki</XML_Serializer_Tag>
+<XML_Serializer_Tag>Amalia von Gižycki</XML_Serializer_Tag>
+<XML_Serializer_Tag>Lily von Gižycki</XML_Serializer_Tag>
+<XML_Serializer_Tag>Lily Braun-Gizycki</XML_Serializer_Tag>
+<XML_Serializer_Tag>Lily Braun-Gizycki</XML_Serializer_Tag>
+</variantName>
+<thumbnail>https://commons.wikimedia.org/wiki/Special:FilePath/Lily_Braun.jpg?width=270</thumbnail>
+<birthEN>July 2, 1865</birthEN>
+<birthDE>2. Juli 1865</birthDE>
+<deathEN>August 9, 1916</deathEN>
+<deathDE>9. August 1916</deathDE>
+<birthPlace>
+<XML_Serializer_Tag>Halberstadt</XML_Serializer_Tag>
+</birthPlace>
+<deathPlace>
+<XML_Serializer_Tag>Berlin</XML_Serializer_Tag>
+</deathPlace>
+<professionOrOccupation>
+<XML_Serializer_Tag>Schriftstellerin</XML_Serializer_Tag>
+<XML_Serializer_Tag>Politikerin</XML_Serializer_Tag>
+</professionOrOccupation>
+<dbpResource>http://dbpedia.org/resource/Lily_Braun</dbpResource>
+<abstract>Lily Braun, geboren als Amalie von Kretschmann, in erster Ehe Lily von Gizycki, (* 2. Juli 1865 in Halberstadt; † 9. August 1916 in Berlin) war eine deutsche Schriftstellerin, Sozialdemokratin und Frauenrechtlerin.</abstract>
+<wikilink>http://en.wikipedia.org/wiki/Lily_Braun?oldid=568303498</wikilink>
+<artworks />
+<buildings />
+<books />
+</Person>

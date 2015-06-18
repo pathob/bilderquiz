@@ -1,0 +1,32 @@
+<Person>
+<name>Heinrich Leopold Wagner</name>
+<variantName>
+<XML_Serializer_Tag>H. L. Wagner</XML_Serializer_Tag>
+<XML_Serializer_Tag>Henricus Wagnerus</XML_Serializer_Tag>
+<XML_Serializer_Tag>Heinrich Wagner</XML_Serializer_Tag>
+<XML_Serializer_Tag>Henri Léopold Wagner</XML_Serializer_Tag>
+<XML_Serializer_Tag>Henri Leopold Wagner</XML_Serializer_Tag>
+</variantName>
+<thumbnail>https://commons.wikimedia.org/wiki/Special:FilePath/HeinrichLeopoldWagner1747-1779.jpg?width=270</thumbnail>
+<birthEN>February 19, 1747</birthEN>
+<birthDE>19. Februar 1747</birthDE>
+<deathEN>March 4, 1779</deathEN>
+<deathDE>4. März 1779</deathDE>
+<birthPlace>
+<XML_Serializer_Tag>Straßburg</XML_Serializer_Tag>
+</birthPlace>
+<deathPlace>
+<XML_Serializer_Tag>Frankfurt am Main</XML_Serializer_Tag>
+</deathPlace>
+<professionOrOccupation>
+<XML_Serializer_Tag>Jurist</XML_Serializer_Tag>
+<XML_Serializer_Tag>Schriftsteller</XML_Serializer_Tag>
+<XML_Serializer_Tag>Dramatiker</XML_Serializer_Tag>
+</professionOrOccupation>
+<dbpResource>http://dbpedia.org/resource/Heinrich_Leopold_Wagner</dbpResource>
+<abstract>Heinrich Leopold Wagner (* 19. Februar 1747 in Straßburg; † 4. März 1779 in Frankfurt am Main) war ein deutscher Schriftsteller des Sturm und Drangs.</abstract>
+<wikilink>http://en.wikipedia.org/wiki/Heinrich_Leopold_Wagner?oldid=600997435</wikilink>
+<artworks />
+<buildings />
+<books />
+</Person>

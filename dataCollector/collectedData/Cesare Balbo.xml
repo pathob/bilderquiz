@@ -1,0 +1,23 @@
+<Person>
+<name>Cesare Balbo</name>
+<variantName>
+<XML_Serializer_Tag>Cäsar Balbo</XML_Serializer_Tag>
+</variantName>
+<thumbnail>https://commons.wikimedia.org/wiki/Special:FilePath/Cesare_Balbo_1848.jpg?width=270</thumbnail>
+<birthEN>1789</birthEN>
+<birthDE>1789</birthDE>
+<deathEN>1853</deathEN>
+<deathDE>1853</deathDE>
+<birthPlace />
+<deathPlace />
+<professionOrOccupation>
+<XML_Serializer_Tag>Politiker</XML_Serializer_Tag>
+<XML_Serializer_Tag>Schriftsteller</XML_Serializer_Tag>
+</professionOrOccupation>
+<dbpResource>http://dbpedia.org/resource/Cesare_Balbo</dbpResource>
+<abstract>Cesare Balbo (* 21. November 1789 in Turin; † 4. Juni 1853 ebenda) war ein italienischer Staatsmann, Historiker und Schriftsteller. Er gilt als Vertreter des Neoguelfismus.</abstract>
+<wikilink>http://en.wikipedia.org/wiki/Cesare_Balbo?oldid=582753796</wikilink>
+<artworks />
+<buildings />
+<books />
+</Person>

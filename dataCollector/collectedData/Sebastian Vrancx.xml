@@ -17,8 +17,10 @@
 <XML_Serializer_Tag>Schriftsteller</XML_Serializer_Tag>
 <XML_Serializer_Tag>Maler</XML_Serializer_Tag>
 </professionOrOccupation>
-<artworks />
 <dbpResource>http://dbpedia.org/resource/Sebastian_Vrancx</dbpResource>
 <abstract>Sebastian Vrancx (getauft 22. Januar 1573 in Antwerpen; † 19. Mai 1647 ebenda; auch Franks oder Franck) war ein flämischer Schlachten- und Genremaler.</abstract>
 <wikilink>http://en.wikipedia.org/wiki/Sebastian_Vrancx?oldid=602042741</wikilink>
+<artworks />
+<buildings />
+<books />
 </Person>

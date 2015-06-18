@@ -1,0 +1,28 @@
+<Person>
+<name>John Flaxman</name>
+<variantName>
+<XML_Serializer_Tag>Giovanni Flaxman</XML_Serializer_Tag>
+<XML_Serializer_Tag>John Flaxmann</XML_Serializer_Tag>
+<XML_Serializer_Tag>Johann Flaxmann</XML_Serializer_Tag>
+<XML_Serializer_Tag>... Flaxmann</XML_Serializer_Tag>
+<XML_Serializer_Tag>Iohn Flaxman</XML_Serializer_Tag>
+<XML_Serializer_Tag>Joannes Flaxmanus</XML_Serializer_Tag>
+</variantName>
+<thumbnail>https://commons.wikimedia.org/wiki/Special:FilePath/Selfportraitflaxman.jpg?width=270</thumbnail>
+<birthEN>1755</birthEN>
+<birthDE>1755</birthDE>
+<deathEN>1826</deathEN>
+<deathDE>1826</deathDE>
+<birthPlace />
+<deathPlace />
+<professionOrOccupation>
+<XML_Serializer_Tag>Künstler</XML_Serializer_Tag>
+<XML_Serializer_Tag>Bildhauer</XML_Serializer_Tag>
+</professionOrOccupation>
+<dbpResource>http://dbpedia.org/resource/John_Flaxman</dbpResource>
+<abstract>John Flaxman RA (* 6. Juli 1755 in York; † 7. Dezember 1826 in London) war ein britischer Bildhauer.</abstract>
+<wikilink>http://en.wikipedia.org/wiki/John_Flaxman?oldid=599787223</wikilink>
+<artworks />
+<buildings />
+<books />
+</Person>

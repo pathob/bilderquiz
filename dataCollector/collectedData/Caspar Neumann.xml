@@ -1,0 +1,42 @@
+<Person>
+<name>Caspar Neumann</name>
+<variantName>
+<XML_Serializer_Tag>Kaspar Neumann</XML_Serializer_Tag>
+<XML_Serializer_Tag>Gašpar Neumann</XML_Serializer_Tag>
+<XML_Serializer_Tag>Casper Neumann</XML_Serializer_Tag>
+<XML_Serializer_Tag>Caspar Neumannus</XML_Serializer_Tag>
+<XML_Serializer_Tag>Casparus Neumannus</XML_Serializer_Tag>
+<XML_Serializer_Tag>Casp. Neumann</XML_Serializer_Tag>
+<XML_Serializer_Tag>... Neumann</XML_Serializer_Tag>
+<XML_Serializer_Tag>... Neumannus</XML_Serializer_Tag>
+<XML_Serializer_Tag>Casspar Neumann</XML_Serializer_Tag>
+<XML_Serializer_Tag>M. C. N.</XML_Serializer_Tag>
+<XML_Serializer_Tag>C. N.</XML_Serializer_Tag>
+</variantName>
+<thumbnail>https://commons.wikimedia.org/wiki/Special:FilePath/Kasper-Neumann.jpg?width=270</thumbnail>
+<birthEN>September 14, 1648</birthEN>
+<birthDE>14. September 1648</birthDE>
+<deathEN>January 21, 1715</deathEN>
+<deathDE>21. Januar 1715</deathDE>
+<birthPlace>
+<XML_Serializer_Tag>Breslau</XML_Serializer_Tag>
+</birthPlace>
+<deathPlace>
+<XML_Serializer_Tag>Breslau</XML_Serializer_Tag>
+</deathPlace>
+<professionOrOccupation>
+<XML_Serializer_Tag>Evangelischer Theologe</XML_Serializer_Tag>
+<XML_Serializer_Tag>Pfarrer</XML_Serializer_Tag>
+<XML_Serializer_Tag>Hofprediger</XML_Serializer_Tag>
+<XML_Serializer_Tag>Demograph</XML_Serializer_Tag>
+<XML_Serializer_Tag>Schriftsteller</XML_Serializer_Tag>
+<XML_Serializer_Tag>Kirchenlieddichter</XML_Serializer_Tag>
+<XML_Serializer_Tag>Gymnasiallehrer</XML_Serializer_Tag>
+</professionOrOccupation>
+<dbpResource>http://dbpedia.org/resource/Caspar_Neumann</dbpResource>
+<abstract>Kaspar Neumann (* 14. September 1648 in Breslau; † 27. Januar 1715 ebenda) war er ein evangelischer Pfarrer, Kircheninspektor und Kirchenlieddichter. Darüber hinaus gilt als einer der ersten bedeutenden deutschen Vertreter der Politischen Arithmetik und Wegbereiter der Bevölkerungsstatistik. Sein Wirken fällt in eine Periode der stürmischen Entwicklung der Naturwissenschaften und der beginnenden Frühaufklärung am Ende des 17. Jahrhunderts.</abstract>
+<wikilink>http://en.wikipedia.org/wiki/Caspar_Neumann?oldid=600924241</wikilink>
+<artworks />
+<buildings />
+<books />
+</Person>

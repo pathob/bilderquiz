@@ -16,8 +16,10 @@
 <XML_Serializer_Tag>Bildhauer</XML_Serializer_Tag>
 <XML_Serializer_Tag>Kunsterzieher</XML_Serializer_Tag>
 </professionOrOccupation>
-<artworks />
 <dbpResource>http://dbpedia.org/resource/Johannes_Itten</dbpResource>
 <abstract>Johannes Itten (* 11. November 1888 in Süderen-Linden, Schweiz; † 25. März 1967 in Zürich) war ein Schweizer Maler, Kunsttheoretiker und Kunstpädagoge. Itten zählt zu der Zürcher Schule der Konkreten.</abstract>
 <wikilink>http://en.wikipedia.org/wiki/Johannes_Itten?oldid=606347271</wikilink>
+<artworks />
+<buildings />
+<books />
 </Person>

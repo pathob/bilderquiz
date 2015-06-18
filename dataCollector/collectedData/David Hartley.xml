@@ -1,0 +1,25 @@
+<Person>
+<name>David Hartley</name>
+<variantName />
+<thumbnail>https://commons.wikimedia.org/wiki/Special:FilePath/David_Hartley_portrait.jpg?width=270</thumbnail>
+<birthEN>August 30, 1705</birthEN>
+<birthDE>30. August 1705</birthDE>
+<deathEN>August 28, 1757</deathEN>
+<deathDE>28. August 1757</deathDE>
+<birthPlace>
+<XML_Serializer_Tag>Halifax, West Yorkshire</XML_Serializer_Tag>
+</birthPlace>
+<deathPlace>
+<XML_Serializer_Tag>Bath</XML_Serializer_Tag>
+</deathPlace>
+<professionOrOccupation>
+<XML_Serializer_Tag>Philosoph</XML_Serializer_Tag>
+<XML_Serializer_Tag>Psychologe</XML_Serializer_Tag>
+</professionOrOccupation>
+<dbpResource>http://dbpedia.org/resource/David_Hartley_(philosopher)</dbpResource>
+<abstract>David Hartley (* 8. August 1705 in Halifax; † 28. August 1757 in Bath) war ein englischer Philosoph und Psychologe. Hartley war Begründer der Assoziationspsychologie.</abstract>
+<wikilink>http://en.wikipedia.org/wiki/David_Hartley_(philosopher)?oldid=606456027</wikilink>
+<artworks />
+<buildings />
+<books />
+</Person>

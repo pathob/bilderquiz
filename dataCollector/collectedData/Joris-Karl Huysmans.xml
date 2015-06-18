@@ -1,0 +1,73 @@
+<Person>
+<name>Joris-Karl Huysmans</name>
+<variantName>
+<XML_Serializer_Tag>Georges C. Huysmans</XML_Serializer_Tag>
+<XML_Serializer_Tag>Georg Charles H. Huysmans</XML_Serializer_Tag>
+<XML_Serializer_Tag>Georg C. Huysmans</XML_Serializer_Tag>
+<XML_Serializer_Tag>J. K. Huysmans</XML_Serializer_Tag>
+<XML_Serializer_Tag>J.-K. Huysmans</XML_Serializer_Tag>
+<XML_Serializer_Tag>Joris K. Huysmans</XML_Serializer_Tag>
+<XML_Serializer_Tag>Joris Karl Huysmans</XML_Serializer_Tag>
+<XML_Serializer_Tag>Jorris Karl Huysmans</XML_Serializer_Tag>
+<XML_Serializer_Tag>Jaris-Karl Huysmans</XML_Serializer_Tag>
+<XML_Serializer_Tag>Karl Joris Huysmans</XML_Serializer_Tag>
+<XML_Serializer_Tag>Karl J. Huysmans</XML_Serializer_Tag>
+</variantName>
+<thumbnail>https://commons.wikimedia.org/wiki/Special:FilePath/Huysmans.jpg?width=270</thumbnail>
+<birthEN>February 5, 1848</birthEN>
+<birthDE>5. Februar 1848</birthDE>
+<deathEN>May 12, 1907</deathEN>
+<deathDE>12. Mai 1907</deathDE>
+<birthPlace>
+<XML_Serializer_Tag>Paris</XML_Serializer_Tag>
+</birthPlace>
+<deathPlace />
+<professionOrOccupation>
+<XML_Serializer_Tag>Schriftsteller</XML_Serializer_Tag>
+</professionOrOccupation>
+<dbpResource>http://dbpedia.org/resource/Joris-Karl_Huysmans</dbpResource>
+<abstract>Joris-Karl Huysmans (eigentlich Charles Marie Georges Huysmans; * 5. Februar 1848 in Paris; † 12. Mai 1907 ebd.) war ein französischer Schriftsteller, der sich vor allem als Romancier betätigte.</abstract>
+<wikilink>http://en.wikipedia.org/wiki/Joris-Karl_Huysmans?oldid=605996842</wikilink>
+<artworks />
+<buildings />
+<books>
+<XML_Serializer_Tag>
+<book>
+<type>uri</type>
+<value>http://dbpedia.org/resource/%C3%80_vau-l&apos;eau</value>
+</book>
+<author>
+<type>uri</type>
+<value>http://dbpedia.org/resource/Joris-Karl_Huysmans</value>
+</author>
+<published>
+<type>typed-literal</type>
+<datatype>http://www.w3.org/2001/XMLSchema#gMonthDay</datatype>
+<value>0001-01-26+02:00</value>
+</published>
+<wikilink>
+<type>uri</type>
+<value>http://en.wikipedia.org/wiki/À_vau-l&apos;eau?oldid=586392177</value>
+</wikilink>
+</XML_Serializer_Tag>
+<XML_Serializer_Tag>
+<book>
+<type>uri</type>
+<value>http://dbpedia.org/resource/%C3%80_rebours</value>
+</book>
+<author>
+<type>uri</type>
+<value>http://dbpedia.org/resource/Joris-Karl_Huysmans</value>
+</author>
+<wikilink>
+<type>uri</type>
+<value>http://en.wikipedia.org/wiki/À_rebours?oldid=596034849</value>
+</wikilink>
+<abstract>
+<type>literal</type>
+<xml:lang>de</xml:lang>
+<value>Gegen den Strich (Alternativtitel: Gegen alle; Originaltitel: À rebours) ist das bekannteste Werk des französischen Autors Joris-Karl Huysmans. Mit dem 1884 erschienenen Roman brach Huysmans endgültig mit dem Geist seiner früheren, realistischen Werke und setzte dem Begriff der Dekadenz ein Denkmal. À rebours wurde für die Anhänger und Vertreter von Dekadenzdichtung, Symbolismus und L’art pour l’art bald zum Kultbuch.</value>
+</abstract>
+</XML_Serializer_Tag>
+</books>
+</Person>

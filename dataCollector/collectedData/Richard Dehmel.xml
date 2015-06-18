@@ -1,0 +1,29 @@
+<Person>
+<name>Richard Dehmel</name>
+<variantName>
+<XML_Serializer_Tag>Richard Fedor Leopold Dehmel</XML_Serializer_Tag>
+</variantName>
+<thumbnail>https://commons.wikimedia.org/wiki/Special:FilePath/R-dehmel_1905.jpg?width=270</thumbnail>
+<birthEN>November 18, 1863</birthEN>
+<birthDE>18. November 1863</birthDE>
+<deathEN>February 8, 1920</deathEN>
+<deathDE>8. Februar 1920</deathDE>
+<birthPlace>
+<XML_Serializer_Tag>Münchehofe</XML_Serializer_Tag>
+</birthPlace>
+<deathPlace>
+<XML_Serializer_Tag>Wendisch-Hermsdorf</XML_Serializer_Tag>
+</deathPlace>
+<professionOrOccupation>
+<XML_Serializer_Tag>Schriftsteller</XML_Serializer_Tag>
+<XML_Serializer_Tag>Lyriker</XML_Serializer_Tag>
+<XML_Serializer_Tag>Dramatiker</XML_Serializer_Tag>
+<XML_Serializer_Tag>Komponist</XML_Serializer_Tag>
+</professionOrOccupation>
+<dbpResource>http://dbpedia.org/resource/Richard_Dehmel</dbpResource>
+<abstract>Richard Fedor Leopold Dehmel (* 18. November 1863 in Hermsdorf bei Wendisch Buchholz, Mark Brandenburg (heute Ortsteil der Gemeinde Münchehofe); † 8. Februar 1920 in Blankenese) war ein deutscher Dichter und Schriftsteller.</abstract>
+<wikilink>http://en.wikipedia.org/wiki/Richard_Dehmel?oldid=593022330</wikilink>
+<artworks />
+<buildings />
+<books />
+</Person>

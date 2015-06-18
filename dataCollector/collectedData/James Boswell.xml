@@ -1,0 +1,66 @@
+<Person>
+<name>James Boswell</name>
+<variantName>
+<XML_Serializer_Tag>, the Elder</XML_Serializer_Tag>
+<XML_Serializer_Tag>Jacob Boswell</XML_Serializer_Tag>
+<XML_Serializer_Tag>Jacques Boswell</XML_Serializer_Tag>
+<XML_Serializer_Tag>Bozzy</XML_Serializer_Tag>
+</variantName>
+<thumbnail>https://commons.wikimedia.org/wiki/Special:FilePath/James_Boswell_by_Sir_Joshua_Reynolds.jpg?width=270</thumbnail>
+<birthEN>October 18, 1740</birthEN>
+<birthDE>18. Oktober 1740</birthDE>
+<deathEN>1795</deathEN>
+<deathDE>1795</deathDE>
+<birthPlace>
+<XML_Serializer_Tag>Lichfield</XML_Serializer_Tag>
+</birthPlace>
+<deathPlace>
+<XML_Serializer_Tag>London</XML_Serializer_Tag>
+</deathPlace>
+<professionOrOccupation>
+<XML_Serializer_Tag>Schriftsteller</XML_Serializer_Tag>
+</professionOrOccupation>
+<dbpResource>http://dbpedia.org/resource/James_Boswell</dbpResource>
+<abstract>James Boswell (* 29. Oktober 1740 in Edinburgh; † 19. Mai 1795 in London) war ein schottischer Schriftsteller und Rechtsanwalt. Mit der Biographie seines Freundes Dr. Samuel Johnson schuf er eines der bedeutendsten biografischen Werke der englischen Literatur. Daneben ist er als Reiseschriftsteller bekannt.</abstract>
+<wikilink>http://en.wikipedia.org/wiki/James_Boswell?oldid=600989757</wikilink>
+<artworks />
+<buildings />
+<books>
+<XML_Serializer_Tag>
+<book>
+<type>uri</type>
+<value>http://dbpedia.org/resource/An_Account_of_Corsica</value>
+</book>
+<author>
+<type>uri</type>
+<value>http://dbpedia.org/resource/James_Boswell</value>
+</author>
+<thumbnail>
+<type>uri</type>
+<value>http://commons.wikimedia.org/wiki/Special:FilePath/An_Account_of_Corsica,_title_page.jpg?width=300</value>
+</thumbnail>
+<wikilink>
+<type>uri</type>
+<value>http://en.wikipedia.org/wiki/An_Account_of_Corsica?oldid=602843608</value>
+</wikilink>
+</XML_Serializer_Tag>
+<XML_Serializer_Tag>
+<book>
+<type>uri</type>
+<value>http://dbpedia.org/resource/Life_of_Samuel_Johnson</value>
+</book>
+<author>
+<type>uri</type>
+<value>http://dbpedia.org/resource/James_Boswell</value>
+</author>
+<thumbnail>
+<type>uri</type>
+<value>http://commons.wikimedia.org/wiki/Special:FilePath/George_Willison_-_James_Boswell,_1740_-_1795._Diarist_and_biographer_of_Dr_Samuel_Johnson_-_Google_Art_Project.jpg?width=300</value>
+</thumbnail>
+<wikilink>
+<type>uri</type>
+<value>http://en.wikipedia.org/wiki/Life_of_Samuel_Johnson?oldid=587620786</value>
+</wikilink>
+</XML_Serializer_Tag>
+</books>
+</Person>

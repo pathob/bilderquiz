@@ -1,0 +1,27 @@
+<Person>
+<name>Robert Spaemann</name>
+<variantName>
+<XML_Serializer_Tag>R. Spaemann</XML_Serializer_Tag>
+<XML_Serializer_Tag>Luo bo te Shi pei man</XML_Serializer_Tag>
+<XML_Serializer_Tag>Luobote-Shipeiman</XML_Serializer_Tag>
+<XML_Serializer_Tag>Luobote Shipeiman</XML_Serializer_Tag>
+</variantName>
+<thumbnail>https://commons.wikimedia.org/wiki/Special:FilePath/Robert.Spaemann.jpg?width=270</thumbnail>
+<birthEN>1927</birthEN>
+<birthDE>1927</birthDE>
+<deathEN />
+<deathDE />
+<birthPlace>
+<XML_Serializer_Tag>Berlin</XML_Serializer_Tag>
+</birthPlace>
+<deathPlace />
+<professionOrOccupation>
+<XML_Serializer_Tag>Philosoph</XML_Serializer_Tag>
+</professionOrOccupation>
+<dbpResource>http://dbpedia.org/resource/Robert_Spaemann</dbpResource>
+<abstract>Robert Spaemann (* 5. Mai 1927 in Berlin) ist ein deutscher Philosoph. Er zählt zur Ritter-Schule.</abstract>
+<wikilink>http://en.wikipedia.org/wiki/Robert_Spaemann?oldid=592832599</wikilink>
+<artworks />
+<buildings />
+<books />
+</Person>

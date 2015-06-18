@@ -1,0 +1,33 @@
+<Person>
+<name>Max Bense</name>
+<variantName>
+<XML_Serializer_Tag>M. Bense</XML_Serializer_Tag>
+<XML_Serializer_Tag>... Bense-Rothe</XML_Serializer_Tag>
+<XML_Serializer_Tag>... Bense-Walther</XML_Serializer_Tag>
+<XML_Serializer_Tag>M. Benze</XML_Serializer_Tag>
+<XML_Serializer_Tag>Karl Zink</XML_Serializer_Tag>
+</variantName>
+<thumbnail>https://commons.wikimedia.org/wiki/Special:FilePath/Max_bense.jpg?width=270</thumbnail>
+<birthEN>February 7, 1910</birthEN>
+<birthDE>7. Februar 1910</birthDE>
+<deathEN>April 29, 1990</deathEN>
+<deathDE>29. April 1990</deathDE>
+<birthPlace>
+<XML_Serializer_Tag>Straßburg</XML_Serializer_Tag>
+</birthPlace>
+<deathPlace>
+<XML_Serializer_Tag>Stuttgart</XML_Serializer_Tag>
+</deathPlace>
+<professionOrOccupation>
+<XML_Serializer_Tag>Philosoph</XML_Serializer_Tag>
+<XML_Serializer_Tag>Mathematiker</XML_Serializer_Tag>
+<XML_Serializer_Tag>Geologe</XML_Serializer_Tag>
+<XML_Serializer_Tag>Physiker</XML_Serializer_Tag>
+</professionOrOccupation>
+<dbpResource>http://dbpedia.org/resource/Max_Bense</dbpResource>
+<abstract>Max Bense (* 7. Februar 1910 in Straßburg; † 29. April 1990 in Stuttgart) war ein deutscher Philosoph, Schriftsteller und Publizist und ist durch Arbeiten zur Wissenschaftstheorie, Logik, Ästhetik und Semiotik hervorgetreten. Sein Denken verbindet Naturwissenschaften, Kunst und Philosophie unter einer gemeinsamen Perspektive und verfolgt eine Definition von Rationalität, die als existentieller Rationalismus die Trennung zwischen geistes- und naturwissenschaftlichem Denken aufzuheben anstrebt.</abstract>
+<wikilink>http://en.wikipedia.org/wiki/Max_Bense?oldid=598673317</wikilink>
+<artworks />
+<buildings />
+<books />
+</Person>

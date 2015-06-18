@@ -13,8 +13,10 @@
 <professionOrOccupation>
 <XML_Serializer_Tag>Maler</XML_Serializer_Tag>
 </professionOrOccupation>
-<artworks />
 <dbpResource>http://dbpedia.org/resource/Constantin_Guys</dbpResource>
 <abstract>Ernest Adolphe Hyacinthe Constantin Guys (* 3. Dezember 1802 in Vlissingen, Niederlande; † 13. März 1892 in Paris) war ein niederländisch-französischer Maler und Zeichner.</abstract>
 <wikilink>http://en.wikipedia.org/wiki/Constantin_Guys?oldid=592057049</wikilink>
+<artworks />
+<buildings />
+<books />
 </Person>

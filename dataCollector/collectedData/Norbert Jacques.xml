@@ -1,0 +1,27 @@
+<Person>
+<name>Norbert Jacques</name>
+<variantName>
+<XML_Serializer_Tag>Norbert Jaques</XML_Serializer_Tag>
+<XML_Serializer_Tag>Noll Jacques</XML_Serializer_Tag>
+</variantName>
+<thumbnail>https://commons.wikimedia.org/wiki/Special:FilePath/Norbert_Jacques_by_Waldemar_Flaig_1927.jpg?width=270</thumbnail>
+<birthEN>June 6, 1880</birthEN>
+<birthDE>6. Juni 1880</birthDE>
+<deathEN>May 15, 1954</deathEN>
+<deathDE>15. Mai 1954</deathDE>
+<birthPlace>
+<XML_Serializer_Tag>Eich / Luxemburg</XML_Serializer_Tag>
+</birthPlace>
+<deathPlace>
+<XML_Serializer_Tag>Koblenz</XML_Serializer_Tag>
+</deathPlace>
+<professionOrOccupation>
+<XML_Serializer_Tag>Schriftsteller</XML_Serializer_Tag>
+</professionOrOccupation>
+<dbpResource>http://dbpedia.org/resource/Norbert_Jacques</dbpResource>
+<abstract>Norbert Jacques (* 6. Juni 1880 in Luxemburg-Eich; † 15. Mai 1954 in Koblenz) war ein deutschsprachiger Schriftsteller luxemburgischer Herkunft, der heute hauptsächlich für die von ihm geschaffene Figur des Dr. Mabuse bekannt ist.</abstract>
+<wikilink>http://en.wikipedia.org/wiki/Norbert_Jacques?oldid=606291067</wikilink>
+<artworks />
+<buildings />
+<books />
+</Person>

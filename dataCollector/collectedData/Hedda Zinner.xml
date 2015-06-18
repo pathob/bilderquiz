@@ -1,0 +1,31 @@
+<Person>
+<name>Hedda Zinner</name>
+<variantName>
+<XML_Serializer_Tag>Hedda Erpenbeck</XML_Serializer_Tag>
+<XML_Serializer_Tag>Hedda Erpenbeck-Zinner</XML_Serializer_Tag>
+<XML_Serializer_Tag>Elisabeth Frank</XML_Serializer_Tag>
+<XML_Serializer_Tag>Hannchen Lobesam</XML_Serializer_Tag>
+<XML_Serializer_Tag>Hedda Erpenbeck-Zinner</XML_Serializer_Tag>
+</variantName>
+<thumbnail>https://commons.wikimedia.org/wiki/Special:FilePath/Fotothek_df_roe-neg_0000331_003_Portrait_Hedda_Zinners.jpg?width=270</thumbnail>
+<birthEN>May 20, 1905</birthEN>
+<birthDE>20. Mai 1905</birthDE>
+<deathEN>July 4, 1994</deathEN>
+<deathDE>4. Juli 1994</deathDE>
+<birthPlace>
+<XML_Serializer_Tag>Lemberg</XML_Serializer_Tag>
+</birthPlace>
+<deathPlace>
+<XML_Serializer_Tag>Berlin</XML_Serializer_Tag>
+</deathPlace>
+<professionOrOccupation>
+<XML_Serializer_Tag>Schriftstellerin</XML_Serializer_Tag>
+<XML_Serializer_Tag>Drehbuchautorin</XML_Serializer_Tag>
+</professionOrOccupation>
+<dbpResource>http://dbpedia.org/resource/Hedda_Zinner</dbpResource>
+<abstract>Hedda Zinner (* 20. Mai 1905 in Lemberg, Galizien; † 4. Juli 1994 in Berlin) war eine deutsche Schriftstellerin, Schauspielerin, Kabarettistin, Rezitatorin, Journalistin und Rundfunkleiterin.</abstract>
+<wikilink>http://en.wikipedia.org/wiki/Hedda_Zinner?oldid=605449935</wikilink>
+<artworks />
+<buildings />
+<books />
+</Person>

@@ -1,0 +1,25 @@
+<Person>
+<name>Ernst Dronke</name>
+<variantName>
+<XML_Serializer_Tag>Ernestus Dronke</XML_Serializer_Tag>
+<XML_Serializer_Tag>Ernst Andreas Dominikus Dronke</XML_Serializer_Tag>
+<XML_Serializer_Tag>Ernst A. Dronke</XML_Serializer_Tag>
+</variantName>
+<thumbnail>https://de.wikipedia.org/wiki/Special:FilePath/Ernst_Dronke.gif?width=270</thumbnail>
+<birthEN>November 17, 1822</birthEN>
+<birthDE>17. November 1822</birthDE>
+<deathEN>November 2, 1891</deathEN>
+<deathDE>2. November 1891</deathDE>
+<birthPlace />
+<deathPlace />
+<professionOrOccupation>
+<XML_Serializer_Tag>Schriftsteller</XML_Serializer_Tag>
+<XML_Serializer_Tag>Kaufmann</XML_Serializer_Tag>
+</professionOrOccupation>
+<dbpResource>http://dbpedia.org/resource/Ernst_Dronke</dbpResource>
+<abstract>Ernst Andreas Dominicus Dronke (* 17. August 1822 in Koblenz; † 2. November 1891 in Liverpool) war ein Schriftsteller und Publizist. Er war Weggefährte von Karl Marx.</abstract>
+<wikilink>http://en.wikipedia.org/wiki/Ernst_Dronke?oldid=546045248</wikilink>
+<artworks />
+<buildings />
+<books />
+</Person>

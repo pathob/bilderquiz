@@ -29,8 +29,10 @@
 <XML_Serializer_Tag>Maler</XML_Serializer_Tag>
 <XML_Serializer_Tag>Schriftsteller</XML_Serializer_Tag>
 </professionOrOccupation>
-<artworks />
 <dbpResource>http://dbpedia.org/resource/Gian_Paolo_Lomazzo</dbpResource>
 <abstract>Giovanni Paolo Lomazzo (* 26. April 1538 in Mailand; † 13. Februar 1600 ebenda) war Maler, Kunsthistoriker und Kunsttheoretiker. Sein Werk ist dem Manierismus zuzuordnen. Werke von Lomazzo finden sich in Mailand, unter anderem in den Kirchen Sta Maria della Passione, San Marco und San Vittore.Nachdem der Künstler im Alter von 33 Jahren infolge einer Starerkrankung erblindet war, wandte er sich der Erstellung von kunsttheoretischen Schriften zu.</abstract>
 <wikilink>http://en.wikipedia.org/wiki/Gian_Paolo_Lomazzo?oldid=602499917</wikilink>
+<artworks />
+<buildings />
+<books />
 </Person>

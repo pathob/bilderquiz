@@ -1,0 +1,53 @@
+<Person>
+<name>Hendrik Conscience</name>
+<variantName>
+<XML_Serializer_Tag>Heinrich Conscience</XML_Serializer_Tag>
+<XML_Serializer_Tag>Henri Conscience</XML_Serializer_Tag>
+<XML_Serializer_Tag>Henryk Conscience</XML_Serializer_Tag>
+</variantName>
+<thumbnail>https://commons.wikimedia.org/wiki/Special:FilePath/Hendrik_Conscience.jpg?width=270</thumbnail>
+<birthEN>December 3, 1812</birthEN>
+<birthDE>3. Dezember 1812</birthDE>
+<deathEN>September 10, 1883</deathEN>
+<deathDE>10. September 1883</deathDE>
+<birthPlace>
+<XML_Serializer_Tag>Antwerpen</XML_Serializer_Tag>
+</birthPlace>
+<deathPlace>
+<XML_Serializer_Tag>Ixelles</XML_Serializer_Tag>
+</deathPlace>
+<professionOrOccupation>
+<XML_Serializer_Tag>Schriftsteller</XML_Serializer_Tag>
+<XML_Serializer_Tag>Museumsdirektor</XML_Serializer_Tag>
+</professionOrOccupation>
+<dbpResource>http://dbpedia.org/resource/Hendrik_Conscience</dbpResource>
+<abstract>Hendrik Conscience (* 3. Dezember 1812 in Antwerpen; † 10. September 1883 in Elsene bei Brüssel) war ein flämischer Erzähler und Mitbegründer der flämischen Literatur.</abstract>
+<wikilink>http://en.wikipedia.org/wiki/Hendrik_Conscience?oldid=595614687</wikilink>
+<artworks />
+<buildings />
+<books>
+<XML_Serializer_Tag>
+<book>
+<type>uri</type>
+<value>http://dbpedia.org/resource/De_Leeuw_van_Vlaanderen_(novel)</value>
+</book>
+<author>
+<type>uri</type>
+<value>http://dbpedia.org/resource/Hendrik_Conscience</value>
+</author>
+<thumbnail>
+<type>uri</type>
+<value>http://commons.wikimedia.org/wiki/Special:FilePath/Leeuwvanvlaenderen.gif?width=300</value>
+</thumbnail>
+<released>
+<type>typed-literal</type>
+<datatype>http://www.w3.org/2001/XMLSchema#integer</datatype>
+<value>1838</value>
+</released>
+<wikilink>
+<type>uri</type>
+<value>http://en.wikipedia.org/wiki/De_Leeuw_van_Vlaanderen_(novel)?oldid=591905593</value>
+</wikilink>
+</XML_Serializer_Tag>
+</books>
+</Person>

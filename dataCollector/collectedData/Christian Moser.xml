@@ -1,0 +1,29 @@
+<Person>
+<name>Christian Moser</name>
+<variantName>
+<XML_Serializer_Tag>Kristian Mozer</XML_Serializer_Tag>
+</variantName>
+<thumbnail>https://commons.wikimedia.org/wiki/Special:FilePath/Chrmoser.jpg?width=270</thumbnail>
+<birthEN>1966</birthEN>
+<birthDE>1966</birthDE>
+<deathEN>2013</deathEN>
+<deathDE>2013</deathDE>
+<birthPlace>
+<XML_Serializer_Tag>München</XML_Serializer_Tag>
+</birthPlace>
+<deathPlace>
+<XML_Serializer_Tag>München</XML_Serializer_Tag>
+</deathPlace>
+<professionOrOccupation>
+<XML_Serializer_Tag>Illustrator</XML_Serializer_Tag>
+<XML_Serializer_Tag>Comiczeichner</XML_Serializer_Tag>
+<XML_Serializer_Tag>Autor</XML_Serializer_Tag>
+<XML_Serializer_Tag>Kabarettist</XML_Serializer_Tag>
+</professionOrOccupation>
+<dbpResource>http://dbpedia.org/resource/Christian_Moser</dbpResource>
+<abstract>Christian Moser (* 20. Dezember 1972 in Villach) ist ein ehemaliger österreichischer Skispringer.</abstract>
+<wikilink>http://en.wikipedia.org/wiki/Christian_Moser?oldid=595087980</wikilink>
+<artworks />
+<buildings />
+<books />
+</Person>

@@ -1,0 +1,28 @@
+<Person>
+<name>Julius Bab</name>
+<variantName>
+<XML_Serializer_Tag>Juliusz Bab</XML_Serializer_Tag>
+</variantName>
+<thumbnail>https://commons.wikimedia.org/wiki/Special:FilePath/Berlin_GTafel_Bab.jpg?width=270</thumbnail>
+<birthEN>December 11, 1880</birthEN>
+<birthDE>11. Dezember 1880</birthDE>
+<deathEN>February 12, 1955</deathEN>
+<deathDE>12. Februar 1955</deathDE>
+<birthPlace>
+<XML_Serializer_Tag>Berlin</XML_Serializer_Tag>
+</birthPlace>
+<deathPlace>
+<XML_Serializer_Tag>Roslyn Heights (New York)</XML_Serializer_Tag>
+</deathPlace>
+<professionOrOccupation>
+<XML_Serializer_Tag>Schriftsteller</XML_Serializer_Tag>
+<XML_Serializer_Tag>Theaterkritiker</XML_Serializer_Tag>
+<XML_Serializer_Tag>Dramaturg</XML_Serializer_Tag>
+</professionOrOccupation>
+<dbpResource>http://dbpedia.org/resource/Julius_Bab</dbpResource>
+<abstract>Julius Bab (* 11. Dezember 1880 in Berlin; † 12. Februar 1955 in Roslyn Heights, New York) war ein deutscher Dramatiker der Berliner Moderne sowie Theaterkritiker. Er war Mitbegründer des Kulturbunds Deutscher Juden.</abstract>
+<wikilink>http://en.wikipedia.org/wiki/Julius_Bab?oldid=603635598</wikilink>
+<artworks />
+<buildings />
+<books />
+</Person>

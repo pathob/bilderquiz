@@ -1,0 +1,33 @@
+<Person>
+<name>Ernest Lavisse</name>
+<variantName>
+<XML_Serializer_Tag>E. Lavisse</XML_Serializer_Tag>
+<XML_Serializer_Tag>Ernst Lavisse</XML_Serializer_Tag>
+<XML_Serializer_Tag>Ernest Lewis</XML_Serializer_Tag>
+<XML_Serializer_Tag>Ernest Lāwīs</XML_Serializer_Tag>
+<XML_Serializer_Tag>... Lavisse</XML_Serializer_Tag>
+<XML_Serializer_Tag>Эрнест Лависс</XML_Serializer_Tag>
+<XML_Serializer_Tag>Pierre Laloi</XML_Serializer_Tag>
+</variantName>
+<thumbnail>https://commons.wikimedia.org/wiki/Special:FilePath/Ernest_Lavisse.jpg?width=270</thumbnail>
+<birthEN>1842</birthEN>
+<birthDE>1842</birthDE>
+<deathEN>1922</deathEN>
+<deathDE>1922</deathDE>
+<birthPlace>
+<XML_Serializer_Tag>Le Nouvion-en-Thiérache</XML_Serializer_Tag>
+</birthPlace>
+<deathPlace>
+<XML_Serializer_Tag>Paris</XML_Serializer_Tag>
+</deathPlace>
+<professionOrOccupation>
+<XML_Serializer_Tag>Historiker</XML_Serializer_Tag>
+<XML_Serializer_Tag>Autor</XML_Serializer_Tag>
+</professionOrOccupation>
+<dbpResource>http://dbpedia.org/resource/Ernest_Lavisse</dbpResource>
+<abstract>Ernest Lavisse (* 17. Dezember 1842 in Le Nouvion-en-Thiérache, Département Aisne, Picardie; † 18. August 1922 in Paris) war ein französischer Historiker, der 1892 Mitglied der Académie française wurde und umfangreiche Werke zur Geschichte Frankreichs und Geschichte Deutschlands verfasste.</abstract>
+<wikilink>http://en.wikipedia.org/wiki/Ernest_Lavisse?oldid=598007353</wikilink>
+<artworks />
+<buildings />
+<books />
+</Person>

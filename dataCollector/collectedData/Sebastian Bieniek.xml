@@ -18,8 +18,10 @@
 <XML_Serializer_Tag>Regisseur</XML_Serializer_Tag>
 <XML_Serializer_Tag>Drehbuchautor</XML_Serializer_Tag>
 </professionOrOccupation>
-<artworks />
 <dbpResource>http://dbpedia.org/resource/Sebastian_Bieniek</dbpResource>
 <abstract>Sebastian Bieniek (* 24. April 1975 in Czarnowanz, Polen) ist ein deutscher Regisseur, Künstler, Fotograf und Autor.</abstract>
 <wikilink>http://en.wikipedia.org/wiki/Sebastian_Bieniek?oldid=601314393</wikilink>
+<artworks />
+<buildings />
+<books />
 </Person>

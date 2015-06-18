@@ -1,0 +1,37 @@
+<Person>
+<name>Johann Martin Schleyer</name>
+<variantName>
+<XML_Serializer_Tag>Martin Schleyer</XML_Serializer_Tag>
+<XML_Serializer_Tag>Martin Johann Schleyer</XML_Serializer_Tag>
+<XML_Serializer_Tag>Bruder Hilarius Frohsang</XML_Serializer_Tag>
+<XML_Serializer_Tag>Hilarius Frohsang</XML_Serializer_Tag>
+<XML_Serializer_Tag>Johann M. Schleyer</XML_Serializer_Tag>
+<XML_Serializer_Tag>Yò&apos;án M. Jléyer</XML_Serializer_Tag>
+<XML_Serializer_Tag>Joh. Martin Schleyer</XML_Serializer_Tag>
+<XML_Serializer_Tag>Joannem Martinum Schleyer</XML_Serializer_Tag>
+<XML_Serializer_Tag>Johánnem Mártinum Schleyer</XML_Serializer_Tag>
+<XML_Serializer_Tag>J. M. Schleyer</XML_Serializer_Tag>
+<XML_Serializer_Tag>Giovanni Martino Schleyer</XML_Serializer_Tag>
+</variantName>
+<thumbnail>https://commons.wikimedia.org/wiki/Special:FilePath/JM_Schleyer_1888.jpg?width=270</thumbnail>
+<birthEN>July 18, 1831</birthEN>
+<birthDE>18. Juli 1831</birthDE>
+<deathEN>August 16, 1912</deathEN>
+<deathDE>16. August 1912</deathDE>
+<birthPlace />
+<deathPlace>
+<XML_Serializer_Tag>Konstanz</XML_Serializer_Tag>
+</deathPlace>
+<professionOrOccupation>
+<XML_Serializer_Tag>Geistlicher</XML_Serializer_Tag>
+<XML_Serializer_Tag>Schriftsteller</XML_Serializer_Tag>
+<XML_Serializer_Tag>Autor</XML_Serializer_Tag>
+<XML_Serializer_Tag>Pfarrer</XML_Serializer_Tag>
+</professionOrOccupation>
+<dbpResource>http://dbpedia.org/resource/Johann_Martin_Schleyer</dbpResource>
+<abstract>Johann Martin Schleyer (* 18. Juli 1831 in Oberlauda; † 16. August 1912 in Konstanz) war ein katholischer Priester, Lyriker und Philanthrop. Er erfand um 1880 die Plansprache Volapük.</abstract>
+<wikilink>http://en.wikipedia.org/wiki/Johann_Martin_Schleyer?oldid=602605525</wikilink>
+<artworks />
+<buildings />
+<books />
+</Person>

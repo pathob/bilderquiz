@@ -1,0 +1,33 @@
+<Person>
+<name>Wilhelm Molitor</name>
+<variantName>
+<XML_Serializer_Tag>Molitor</XML_Serializer_Tag>
+<XML_Serializer_Tag>W. Molitor</XML_Serializer_Tag>
+<XML_Serializer_Tag>Wilhelmus Molitor</XML_Serializer_Tag>
+<XML_Serializer_Tag>Wilhelmus Molitoris</XML_Serializer_Tag>
+<XML_Serializer_Tag>Wilh. Molitor</XML_Serializer_Tag>
+<XML_Serializer_Tag>Ernst Wilhelm Molitor</XML_Serializer_Tag>
+</variantName>
+<thumbnail>https://commons.wikimedia.org/wiki/Special:FilePath/Domkapitular_Dr._Wilhelm_Molitor.jpg?width=270</thumbnail>
+<birthEN>1819</birthEN>
+<birthDE>1819</birthDE>
+<deathEN>1880</deathEN>
+<deathDE>1880</deathDE>
+<birthPlace>
+<XML_Serializer_Tag>Zweibrücken</XML_Serializer_Tag>
+</birthPlace>
+<deathPlace>
+<XML_Serializer_Tag>Speyer</XML_Serializer_Tag>
+</deathPlace>
+<professionOrOccupation>
+<XML_Serializer_Tag>Katholischer Theologe</XML_Serializer_Tag>
+<XML_Serializer_Tag>Domkapitular</XML_Serializer_Tag>
+<XML_Serializer_Tag>Schriftsteller</XML_Serializer_Tag>
+</professionOrOccupation>
+<dbpResource>http://dbpedia.org/resource/Wilhelm_Molitor</dbpResource>
+<abstract>Wilhelm Molitor (eigentlich Georg Wilhelm Molitor, Schriftstellerpseudonyme Benno Bronner und Ulrich Riesler) (* 24. August 1819 in Zweibrücken; † 11. Januar 1880 in Speyer) war ein Verwaltungsbeamter, Schriftsteller bzw. Dichter und Domkapitular in Speyer.</abstract>
+<wikilink>http://en.wikipedia.org/wiki/Wilhelm_Molitor?oldid=593023192</wikilink>
+<artworks />
+<buildings />
+<books />
+</Person>

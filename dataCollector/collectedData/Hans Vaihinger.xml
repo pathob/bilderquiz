@@ -1,0 +1,44 @@
+<Person>
+<name>Hans Vaihinger</name>
+<variantName>
+<XML_Serializer_Tag>H. Vaihinger</XML_Serializer_Tag>
+<XML_Serializer_Tag>Johannes Vaihinger</XML_Serializer_Tag>
+</variantName>
+<thumbnail>https://commons.wikimedia.org/wiki/Special:FilePath/Vaihinger.jpg?width=270</thumbnail>
+<birthEN>September 25, 1852</birthEN>
+<birthDE>25. September 1852</birthDE>
+<deathEN>December 17, 1933</deathEN>
+<deathDE>17. Dezember 1933</deathDE>
+<birthPlace />
+<deathPlace />
+<professionOrOccupation>
+<XML_Serializer_Tag>Philosoph</XML_Serializer_Tag>
+<XML_Serializer_Tag>Pädagoge</XML_Serializer_Tag>
+</professionOrOccupation>
+<dbpResource>http://dbpedia.org/resource/Hans_Vaihinger</dbpResource>
+<abstract>Hans Vaihinger (* 25. September 1852 in Nehren bei Tübingen; † 18. Dezember 1933 in Halle, Saale) war ein deutscher Philosoph und Kant-Forscher.</abstract>
+<wikilink>http://en.wikipedia.org/wiki/Hans_Vaihinger?oldid=599997441</wikilink>
+<artworks />
+<buildings />
+<books>
+<XML_Serializer_Tag>
+<book>
+<type>uri</type>
+<value>http://dbpedia.org/resource/The_Philosophy_of_&apos;As_If&apos;</value>
+</book>
+<author>
+<type>uri</type>
+<value>http://dbpedia.org/resource/Hans_Vaihinger</value>
+</author>
+<published>
+<type>typed-literal</type>
+<datatype>http://www.w3.org/2001/XMLSchema#integer</datatype>
+<value>1911</value>
+</published>
+<wikilink>
+<type>uri</type>
+<value>http://en.wikipedia.org/wiki/The_Philosophy_of_&apos;As_If&apos;?oldid=598616232</value>
+</wikilink>
+</XML_Serializer_Tag>
+</books>
+</Person>

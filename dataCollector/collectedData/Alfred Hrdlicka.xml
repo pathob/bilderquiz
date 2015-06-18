@@ -23,8 +23,10 @@
 <XML_Serializer_Tag>Künstler</XML_Serializer_Tag>
 <XML_Serializer_Tag>Schauspieler</XML_Serializer_Tag>
 </professionOrOccupation>
-<artworks />
 <dbpResource>http://dbpedia.org/resource/Alfred_Hrdlicka</dbpResource>
 <abstract>Alfred Hrdlicka [ˈalfʀeːt ˈɦr̩ɟlɪt͡ʃka] (* 27. Februar 1928 in Wien; † 5. Dezember 2009 ebenda) war ein österreichischer Bildhauer, Zeichner, Maler, Grafiker und Schriftsteller.</abstract>
 <wikilink>http://en.wikipedia.org/wiki/Alfred_Hrdlicka?oldid=594176963</wikilink>
+<artworks />
+<buildings />
+<books />
 </Person>

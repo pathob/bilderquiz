@@ -1,0 +1,34 @@
+<Person>
+<name>Jean Racine</name>
+<variantName>
+<XML_Serializer_Tag>Jean Baptiste Racine</XML_Serializer_Tag>
+<XML_Serializer_Tag>Jean-Baptiste Racine</XML_Serializer_Tag>
+<XML_Serializer_Tag>... Racine</XML_Serializer_Tag>
+<XML_Serializer_Tag>Johann Racine</XML_Serializer_Tag>
+<XML_Serializer_Tag>Jean B. Racine</XML_Serializer_Tag>
+<XML_Serializer_Tag>J. Racine</XML_Serializer_Tag>
+<XML_Serializer_Tag>Žan Rasin</XML_Serializer_Tag>
+<XML_Serializer_Tag>Rasinisa</XML_Serializer_Tag>
+</variantName>
+<thumbnail>https://commons.wikimedia.org/wiki/Special:FilePath/Jean-Baptiste_Racine.PNG?width=270</thumbnail>
+<birthEN>December 21, 1639</birthEN>
+<birthDE>21. Dezember 1639</birthDE>
+<deathEN>April 21, 1699</deathEN>
+<deathDE>21. April 1699</deathDE>
+<birthPlace>
+<XML_Serializer_Tag>Ferté-Milon</XML_Serializer_Tag>
+</birthPlace>
+<deathPlace>
+<XML_Serializer_Tag>Paris</XML_Serializer_Tag>
+</deathPlace>
+<professionOrOccupation>
+<XML_Serializer_Tag>Schriftsteller</XML_Serializer_Tag>
+<XML_Serializer_Tag>Dichter</XML_Serializer_Tag>
+</professionOrOccupation>
+<dbpResource>http://dbpedia.org/resource/Jean_Racine</dbpResource>
+<abstract>Jean Baptiste Racine (* 21. Dezember 1639 in La Ferté-Milon; † 21. April 1699 in Paris) war einer der bedeutendsten Autoren der französischen Klassik. Er gilt den Franzosen als ihr größter Tragödienautor neben oder gar vor Pierre Corneille.</abstract>
+<wikilink>http://en.wikipedia.org/wiki/Jean_Racine?oldid=605169536</wikilink>
+<artworks />
+<buildings />
+<books />
+</Person>

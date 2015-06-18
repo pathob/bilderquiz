@@ -1,0 +1,261 @@
+<Person>
+<name>Henry Moore</name>
+<variantName>
+<XML_Serializer_Tag>Henry Spencer Moore</XML_Serializer_Tag>
+<XML_Serializer_Tag>Heng-li Mo-erh</XML_Serializer_Tag>
+<XML_Serializer_Tag>Henri Mor</XML_Serializer_Tag>
+<XML_Serializer_Tag>Henri Mur</XML_Serializer_Tag>
+<XML_Serializer_Tag>Henry Spencer Moore</XML_Serializer_Tag>
+</variantName>
+<thumbnail>https://commons.wikimedia.org/wiki/Special:FilePath/Henry_Moore_5_Allan_Warren.jpg?width=270</thumbnail>
+<birthEN>July 30, 1898</birthEN>
+<birthDE>30. Juli 1898</birthDE>
+<deathEN>August 31, 1986</deathEN>
+<deathDE>31. August 1986</deathDE>
+<birthPlace>
+<XML_Serializer_Tag>Castleford, Yorkshire</XML_Serializer_Tag>
+</birthPlace>
+<deathPlace>
+<XML_Serializer_Tag>Perry Green</XML_Serializer_Tag>
+</deathPlace>
+<professionOrOccupation>
+<XML_Serializer_Tag>Künstler</XML_Serializer_Tag>
+<XML_Serializer_Tag>Bildhauer</XML_Serializer_Tag>
+</professionOrOccupation>
+<dbpResource>http://dbpedia.org/resource/Henry_Moore</dbpResource>
+<abstract>Henry Moore (* 30. Juli 1898 in Castleford, Yorkshire; † 31. August 1986 in Much Hadham, Hertfordshire) war ein englischer Bildhauer und Zeichner.Moore ist bekannt für seine großen, abstrakten Skulpturen, die weltweit ausgestellt sind. Die Arbeiten sind meist Abstraktionen des menschlichen Körpers, typischerweise als „Mutter und Kind“ oder als „ruhende Figur“. Von einer kurzen Periode in den 1950er Jahren abgesehen, in der Moore Familiengruppen schuf, stellt Moore überwiegend Frauenfiguren dar.</abstract>
+<wikilink>http://en.wikipedia.org/wiki/Henry_Moore?oldid=606270694</wikilink>
+<artworks>
+<XML_Serializer_Tag>
+<artwork>
+<type>uri</type>
+<value>http://dbpedia.org/resource/Draped_Seated_Woman_1957%E2%80%9358</value>
+</artwork>
+<thumbnail>
+<type>uri</type>
+<value>http://commons.wikimedia.org/wiki/Special:FilePath/Reclining_Figure_at_Yorkshire_Sculpture_Park_-_geograph.org.uk_-_519117.jpg?width=300</value>
+</thumbnail>
+<name>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>Draped Seated Woman 1957-58</value>
+</name>
+<year>
+<type>typed-literal</type>
+<datatype>http://www.w3.org/2001/XMLSchema#integer</datatype>
+<value>1957</value>
+</year>
+<abstract>
+<type>literal</type>
+<xml:lang>de</xml:lang>
+<value>Die Sitzende (teilweise auch Die große Sitzende oder Große sitzende Gewandfigur genannt) ist eine Bronzeplastik des britischen Bildhauers Henry Moore, der sie Draped seated woman genannt hatte. Sie wurde ab 1959 im Wuppertaler Raum öffentlich aufgestellt und gehört heute zu der Sammlung des Von der Heydt-Museums. Nach der Fertigstellung der Sanierung der Schwimmoper kehrte sie dorthin zurück und befindet sich nun vor Witterungseinflüssen geschützt in der Eingangshalle.Sie hat die Maße 188 x 145 x 220 cm und die Inventarnummer KMV 1964–1965/112.</value>
+</abstract>
+<wikilink>
+<type>uri</type>
+<value>http://en.wikipedia.org/wiki/Draped_Seated_Woman_1957–58?oldid=604091917</value>
+</wikilink>
+<type>
+<type>uri</type>
+<value>http://dbpedia.org/resource/Bronze</value>
+</type>
+</XML_Serializer_Tag>
+<XML_Serializer_Tag>
+<artwork>
+<type>uri</type>
+<value>http://dbpedia.org/resource/Two-Piece_Reclining_Figure:_Points</value>
+</artwork>
+<thumbnail>
+<type>uri</type>
+<value>http://commons.wikimedia.org/wiki/Special:FilePath/Moore_henry_liegende_figur_in_zwei_teilen_1969_düsseld_ansicht02.jpg?width=300</value>
+</thumbnail>
+<name>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>Two-Piece Reclining Figure: Points</value>
+</name>
+<year>
+<type>typed-literal</type>
+<datatype>http://www.w3.org/2001/XMLSchema#integer</datatype>
+<value>1969</value>
+</year>
+<abstract>
+<type>literal</type>
+<xml:lang>de</xml:lang>
+<value>Two-Piece Reclining Figure: Points (auch Liegende) ist eine 1969–1970 vom englischen Bildhauer Henry Moore geschaffene zweiteilige Monumentalplastik aus Bronze. Die Skulptur wurde mit einer Auflage von sieben Stück zuzüglich einem Exemplar für den Künstler hergestellt.</value>
+</abstract>
+<wikilink>
+<type>uri</type>
+<value>http://en.wikipedia.org/wiki/Two-Piece_Reclining_Figure:_Points?oldid=596559587</value>
+</wikilink>
+<type>
+<type>uri</type>
+<value>http://dbpedia.org/resource/Bronze</value>
+</type>
+</XML_Serializer_Tag>
+<XML_Serializer_Tag>
+<artwork>
+<type>uri</type>
+<value>http://dbpedia.org/resource/Knife_Edge_Two_Piece_1962%E2%80%9365</value>
+</artwork>
+<thumbnail>
+<type>uri</type>
+<value>http://commons.wikimedia.org/wiki/Special:FilePath/HenryMoore_KnifeEdgeTwoPiece02b.jpg?width=300</value>
+</thumbnail>
+<name>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>Knife Edge Two Piece 1962–65</value>
+</name>
+<year>
+<type>typed-literal</type>
+<datatype>http://www.w3.org/2001/XMLSchema#integer</datatype>
+<value>1962</value>
+</year>
+<wikilink>
+<type>uri</type>
+<value>http://en.wikipedia.org/wiki/Knife_Edge_Two_Piece_1962–65?oldid=603358818</value>
+</wikilink>
+<type>
+<type>uri</type>
+<value>http://dbpedia.org/resource/Bronze</value>
+</type>
+</XML_Serializer_Tag>
+<XML_Serializer_Tag>
+<artwork>
+<type>uri</type>
+<value>http://dbpedia.org/resource/Nuclear_Energy_(sculpture)</value>
+</artwork>
+<thumbnail>
+<type>uri</type>
+<value>http://en.wikipedia.org/wiki/Special:FilePath/Henry_Moore_Nuclear_Energy.jpg?width=300</value>
+</thumbnail>
+<name>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>Nuclear Energy</value>
+</name>
+<year>
+<type>typed-literal</type>
+<datatype>http://www.w3.org/2001/XMLSchema#integer</datatype>
+<value>1967</value>
+</year>
+<wikilink>
+<type>uri</type>
+<value>http://en.wikipedia.org/wiki/Nuclear_Energy_(sculpture)?oldid=601307857</value>
+</wikilink>
+<type>
+<type>uri</type>
+<value>http://dbpedia.org/resource/Bronze</value>
+</type>
+</XML_Serializer_Tag>
+<XML_Serializer_Tag>
+<artwork>
+<type>uri</type>
+<value>http://dbpedia.org/resource/Upright_Motive_No._1:_Glenkiln_Cross</value>
+</artwork>
+<thumbnail>
+<type>uri</type>
+<value>http://commons.wikimedia.org/wiki/Special:FilePath/Glenkiln_Cross_,_by_Henry_Moore_-_geograph.org.uk_-_223434.jpg?width=300</value>
+</thumbnail>
+<name>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>Upright Motive No. 1: Glenkiln Cross</value>
+</name>
+<year>
+<type>typed-literal</type>
+<datatype>http://www.w3.org/2001/XMLSchema#integer</datatype>
+<value>1955</value>
+</year>
+<wikilink>
+<type>uri</type>
+<value>http://en.wikipedia.org/wiki/Upright_Motive_No._1:_Glenkiln_Cross?oldid=591037424</value>
+</wikilink>
+<type>
+<type>uri</type>
+<value>http://dbpedia.org/resource/Bronze</value>
+</type>
+</XML_Serializer_Tag>
+<XML_Serializer_Tag>
+<artwork>
+<type>uri</type>
+<value>http://dbpedia.org/resource/Man_Enters_the_Cosmos</value>
+</artwork>
+<thumbnail>
+<type>uri</type>
+<value>http://commons.wikimedia.org/wiki/Special:FilePath/20071029_Adler_Planetarium.JPG?width=300</value>
+</thumbnail>
+<name>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>Man Enters the Cosmos</value>
+</name>
+<year>
+<type>typed-literal</type>
+<datatype>http://www.w3.org/2001/XMLSchema#integer</datatype>
+<value>1980</value>
+</year>
+<wikilink>
+<type>uri</type>
+<value>http://en.wikipedia.org/wiki/Man_Enters_the_Cosmos?oldid=596551612</value>
+</wikilink>
+<type>
+<type>uri</type>
+<value>http://dbpedia.org/resource/Bronze</value>
+</type>
+</XML_Serializer_Tag>
+<XML_Serializer_Tag>
+<artwork>
+<type>uri</type>
+<value>http://dbpedia.org/resource/Large_Interior_Form,_1953-54</value>
+</artwork>
+<thumbnail>
+<type>uri</type>
+<value>http://commons.wikimedia.org/wiki/Special:FilePath/Adler_Planetarium.jpg?width=300</value>
+</thumbnail>
+<name>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>Large Interior Form</value>
+</name>
+<year>
+<type>typed-literal</type>
+<datatype>http://www.w3.org/2001/XMLSchema#integer</datatype>
+<value>1982</value>
+</year>
+<wikilink>
+<type>uri</type>
+<value>http://en.wikipedia.org/wiki/Large_Interior_Form,_1953-54?oldid=599562842</value>
+</wikilink>
+<type>
+<type>uri</type>
+<value>http://dbpedia.org/resource/Bronze</value>
+</type>
+</XML_Serializer_Tag>
+<XML_Serializer_Tag>
+<artwork>
+<type>uri</type>
+<value>http://dbpedia.org/resource/Large_Arch</value>
+</artwork>
+<thumbnail>
+<type>uri</type>
+<value>http://commons.wikimedia.org/wiki/Special:FilePath/Large_Arch_by_Henry_Moore_%281971%29_in_April_2014.jpg?width=300</value>
+</thumbnail>
+<name>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>Large Arch</value>
+</name>
+<wikilink>
+<type>uri</type>
+<value>http://en.wikipedia.org/wiki/Large_Arch?oldid=605131811</value>
+</wikilink>
+<type>
+<type>uri</type>
+<value>http://dbpedia.org/resource/Bronze</value>
+</type>
+</XML_Serializer_Tag>
+</artworks>
+<buildings />
+<books />
+</Person>

@@ -1,0 +1,38 @@
+<Person>
+<name>Johannes R. Becher</name>
+<variantName>
+<XML_Serializer_Tag>Johannes Robert Becher</XML_Serializer_Tag>
+<XML_Serializer_Tag>Sebastian</XML_Serializer_Tag>
+<XML_Serializer_Tag>Johann Sebastian</XML_Serializer_Tag>
+<XML_Serializer_Tag>Johannes Becher</XML_Serializer_Tag>
+<XML_Serializer_Tag>Johann R. Becher</XML_Serializer_Tag>
+<XML_Serializer_Tag>Joh. R. Becher</XML_Serializer_Tag>
+<XML_Serializer_Tag>J. R. Becher</XML_Serializer_Tag>
+<XML_Serializer_Tag>... Becher</XML_Serializer_Tag>
+<XML_Serializer_Tag>Jochanes Becher</XML_Serializer_Tag>
+<XML_Serializer_Tag>Iogannes Becher</XML_Serializer_Tag>
+<XML_Serializer_Tag>Iogannes R. Bekher</XML_Serializer_Tag>
+<XML_Serializer_Tag>Johannes Robert Becher</XML_Serializer_Tag>
+</variantName>
+<thumbnail>https://commons.wikimedia.org/wiki/Special:FilePath/Bundesarchiv_Bild_183-M0213-0307,_Berlin,_III._Weltfestspiele,_Pionierrepublik,_Johannes_R._Becher.jpg?width=270</thumbnail>
+<birthEN>May 22, 1891</birthEN>
+<birthDE>22. Mai 1891</birthDE>
+<deathEN>October 11, 1958</deathEN>
+<deathDE>11. Oktober 1958</deathDE>
+<birthPlace>
+<XML_Serializer_Tag>München</XML_Serializer_Tag>
+</birthPlace>
+<deathPlace>
+<XML_Serializer_Tag>Berlin (Ost)</XML_Serializer_Tag>
+</deathPlace>
+<professionOrOccupation>
+<XML_Serializer_Tag>Schriftsteller</XML_Serializer_Tag>
+<XML_Serializer_Tag>Politiker</XML_Serializer_Tag>
+</professionOrOccupation>
+<dbpResource>http://dbpedia.org/resource/Johannes_R._Becher</dbpResource>
+<abstract>Johannes Robert Becher (* 22. Mai 1891 in München; † 11. Oktober 1958 in Ost-Berlin) war ein deutscher expressionistischer Dichter und Politiker, Minister für Kultur sowie erster Präsident des Kulturbundes der DDR. Bekannt ist er auch als Verfasser des Textes der Nationalhymne der DDR.</abstract>
+<wikilink>http://en.wikipedia.org/wiki/Johannes_R._Becher?oldid=606347512</wikilink>
+<artworks />
+<buildings />
+<books />
+</Person>

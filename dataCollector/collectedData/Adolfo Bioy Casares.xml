@@ -1,0 +1,53 @@
+<Person>
+<name>Adolfo Bioy Casares</name>
+<variantName>
+<XML_Serializer_Tag>Adolfo Bioy-Casares</XML_Serializer_Tag>
+<XML_Serializer_Tag>Adolfo Bioy Casares</XML_Serializer_Tag>
+<XML_Serializer_Tag>A. B. Kasares</XML_Serializer_Tag>
+<XML_Serializer_Tag>Adolfo B&apos;oj Kasares</XML_Serializer_Tag>
+<XML_Serializer_Tag>Adolfo B. Casares</XML_Serializer_Tag>
+<XML_Serializer_Tag>Bioy Casares</XML_Serializer_Tag>
+<XML_Serializer_Tag>Martin Sacastrú</XML_Serializer_Tag>
+<XML_Serializer_Tag>B. Suárez-Lynch</XML_Serializer_Tag>
+<XML_Serializer_Tag>Adolfo Bioy</XML_Serializer_Tag>
+</variantName>
+<thumbnail>https://commons.wikimedia.org/wiki/Special:FilePath/Bioy.png?width=270</thumbnail>
+<birthEN>September 15, 1914</birthEN>
+<birthDE>15. September 1914</birthDE>
+<deathEN>March 8, 1999</deathEN>
+<deathDE>8. März 1999</deathDE>
+<birthPlace />
+<deathPlace />
+<professionOrOccupation>
+<XML_Serializer_Tag>Schriftsteller</XML_Serializer_Tag>
+<XML_Serializer_Tag>Übersetzer</XML_Serializer_Tag>
+<XML_Serializer_Tag>Kritiker</XML_Serializer_Tag>
+<XML_Serializer_Tag>Photograph</XML_Serializer_Tag>
+</professionOrOccupation>
+<dbpResource>http://dbpedia.org/resource/Adolfo_Bioy_Casares</dbpResource>
+<abstract>Adolfo Bioy Casares (* 15. September 1914 in Buenos Aires; † 8. März 1999 ebenda) war ein argentinischer Schriftsteller.</abstract>
+<wikilink>http://en.wikipedia.org/wiki/Adolfo_Bioy_Casares?oldid=597380675</wikilink>
+<artworks />
+<buildings />
+<books>
+<XML_Serializer_Tag>
+<book>
+<type>uri</type>
+<value>http://dbpedia.org/resource/The_Invention_of_Morel</value>
+</book>
+<author>
+<type>uri</type>
+<value>http://dbpedia.org/resource/Adolfo_Bioy_Casares</value>
+</author>
+<released>
+<type>typed-literal</type>
+<datatype>http://www.w3.org/2001/XMLSchema#integer</datatype>
+<value>1940</value>
+</released>
+<wikilink>
+<type>uri</type>
+<value>http://en.wikipedia.org/wiki/The_Invention_of_Morel?oldid=598970648</value>
+</wikilink>
+</XML_Serializer_Tag>
+</books>
+</Person>

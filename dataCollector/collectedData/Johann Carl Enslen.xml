@@ -14,8 +14,10 @@
 <professionOrOccupation>
 <XML_Serializer_Tag>Maler</XML_Serializer_Tag>
 </professionOrOccupation>
-<artworks />
 <dbpResource>http://dbpedia.org/resource/Johann_Carl_Enslen</dbpResource>
 <abstract>Johann Carl Enslen (* 20. Mai 1759 in Stuttgart; † 10. Dezember 1848 in Dresden) war ein deutscher Reisemaler, Schausteller, Panoramenkonstrukteur und Pionier der Luftfahrt wie der Fotografie.</abstract>
 <wikilink>http://en.wikipedia.org/wiki/Johann_Carl_Enslen?oldid=599862061</wikilink>
+<artworks />
+<buildings />
+<books />
 </Person>

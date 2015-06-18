@@ -1,0 +1,33 @@
+<Person>
+<name>Johann Georg Jacobi</name>
+<variantName>
+<XML_Serializer_Tag>... Jacobi</XML_Serializer_Tag>
+<XML_Serializer_Tag>Jacobi, Canonicus</XML_Serializer_Tag>
+<XML_Serializer_Tag>J. G. Jacobi</XML_Serializer_Tag>
+<XML_Serializer_Tag>I. G. Iacobi</XML_Serializer_Tag>
+<XML_Serializer_Tag>Johann Georg Jakobi</XML_Serializer_Tag>
+<XML_Serializer_Tag>J. G. J.</XML_Serializer_Tag>
+</variantName>
+<thumbnail>https://commons.wikimedia.org/wiki/Special:FilePath/Jacobi_(Tischbein).jpg?width=270</thumbnail>
+<birthEN>September 2, 1740</birthEN>
+<birthDE>2. September 1740</birthDE>
+<deathEN>January 4, 1814</deathEN>
+<deathDE>4. Januar 1814</deathDE>
+<birthPlace>
+<XML_Serializer_Tag>Düsseldorf-Pempelfort</XML_Serializer_Tag>
+</birthPlace>
+<deathPlace>
+<XML_Serializer_Tag>Freiburg im Breisgau</XML_Serializer_Tag>
+</deathPlace>
+<professionOrOccupation>
+<XML_Serializer_Tag>Schriftsteller</XML_Serializer_Tag>
+<XML_Serializer_Tag>Philosoph</XML_Serializer_Tag>
+<XML_Serializer_Tag>Hochschullehrer</XML_Serializer_Tag>
+</professionOrOccupation>
+<dbpResource>http://dbpedia.org/resource/Johann_Georg_Jacobi</dbpResource>
+<abstract>Johann Georg Jacobi (* 2. September 1740 auf Gut Pempelfort bei Düsseldorf (heute ein Stadtteil); † 4. Januar 1814 in Freiburg im Breisgau) war ein deutscher Dichter und Publizist und der ältere Bruder des Philosophen, Juristen, Kaufmanns und Schriftstellers Friedrich Heinrich Jacobi.</abstract>
+<wikilink>http://en.wikipedia.org/wiki/Johann_Georg_Jacobi?oldid=600606634</wikilink>
+<artworks />
+<buildings />
+<books />
+</Person>

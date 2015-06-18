@@ -1,0 +1,27 @@
+<Person>
+<name>Richard Beer-Hofmann</name>
+<variantName>
+<XML_Serializer_Tag>Richard Beer-Hofmann</XML_Serializer_Tag>
+<XML_Serializer_Tag>Richard Beer Hofmann</XML_Serializer_Tag>
+</variantName>
+<thumbnail>https://de.wikipedia.org/wiki/Special:FilePath/Richard_Beer-Hofmann.jpg?width=270</thumbnail>
+<birthEN>July 11, 1866</birthEN>
+<birthDE>11. Juli 1866</birthDE>
+<deathEN>September 26, 1945</deathEN>
+<deathDE>26. September 1945</deathDE>
+<birthPlace>
+<XML_Serializer_Tag>Wien</XML_Serializer_Tag>
+</birthPlace>
+<deathPlace>
+<XML_Serializer_Tag>New York, NY</XML_Serializer_Tag>
+</deathPlace>
+<professionOrOccupation>
+<XML_Serializer_Tag>Schriftsteller</XML_Serializer_Tag>
+</professionOrOccupation>
+<dbpResource>http://dbpedia.org/resource/Richard_Beer-Hofmann</dbpResource>
+<abstract>Richard Beer-Hofmann (* 11. Juli 1866 in Wien; † 26. September 1945 in New York) war ein österreichischer Romancier, Dramatiker und Lyriker.</abstract>
+<wikilink>http://en.wikipedia.org/wiki/Richard_Beer-Hofmann?oldid=593638813</wikilink>
+<artworks />
+<buildings />
+<books />
+</Person>

@@ -1,0 +1,77 @@
+<Person>
+<name>Bayard Taylor</name>
+<variantName>
+<XML_Serializer_Tag>James Bayard Taylor</XML_Serializer_Tag>
+</variantName>
+<thumbnail>https://commons.wikimedia.org/wiki/Special:FilePath/Bayard_taylor_engraving.jpg?width=270</thumbnail>
+<birthEN>1825</birthEN>
+<birthDE>1825</birthDE>
+<deathEN>1878</deathEN>
+<deathDE>1878</deathDE>
+<birthPlace />
+<deathPlace />
+<professionOrOccupation>
+<XML_Serializer_Tag>Schriftsteller</XML_Serializer_Tag>
+<XML_Serializer_Tag>Redakteur</XML_Serializer_Tag>
+<XML_Serializer_Tag>Gesandter</XML_Serializer_Tag>
+</professionOrOccupation>
+<dbpResource>http://dbpedia.org/resource/Bayard_Taylor</dbpResource>
+<abstract>Bayard Taylor (* 11. Januar 1825 in Kennett Square, Pennsylvania; † 19. Dezember 1878 in Berlin) war ein US-amerikanischer Reiseschriftsteller, Diplomat und Dichter.</abstract>
+<wikilink>http://en.wikipedia.org/wiki/Bayard_Taylor?oldid=606326104</wikilink>
+<artworks />
+<buildings>
+<XML_Serializer_Tag>
+<building>
+<type>uri</type>
+<value>http://dbpedia.org/resource/Cedarcroft</value>
+</building>
+<name>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>Cedarcroft</value>
+</name>
+<architect>
+<type>uri</type>
+<value>http://dbpedia.org/resource/Bayard_Taylor</value>
+</architect>
+<thumbnail>
+<type>uri</type>
+<value>http://commons.wikimedia.org/wiki/Special:FilePath/Cedarcroft,_Bayard_Drive_(East_Marlborough_Township),_Kennett_Square_vicinity_(Chester_County,_Pennsylvania).jpg?width=300</value>
+</thumbnail>
+<wikilink>
+<type>uri</type>
+<value>http://en.wikipedia.org/wiki/Cedarcroft?oldid=529275621</value>
+</wikilink>
+<built>
+<type>typed-literal</type>
+<datatype>http://www.w3.org/2001/XMLSchema#integer</datatype>
+<value>1859</value>
+</built>
+</XML_Serializer_Tag>
+</buildings>
+<books>
+<XML_Serializer_Tag>
+<book>
+<type>uri</type>
+<value>http://dbpedia.org/resource/Joseph_and_His_Friend:_A_Story_of_Pennsylvania</value>
+</book>
+<author>
+<type>uri</type>
+<value>http://dbpedia.org/resource/Bayard_Taylor</value>
+</author>
+<thumbnail>
+<type>uri</type>
+<value>http://commons.wikimedia.org/wiki/Special:FilePath/Joseph_and_his_friend.jpg?width=300</value>
+</thumbnail>
+<released>
+<type>typed-literal</type>
+<datatype>http://www.w3.org/2001/XMLSchema#integer</datatype>
+<value>1870</value>
+</released>
+<wikilink>
+<type>uri</type>
+<value>http://en.wikipedia.org/wiki/Joseph_and_His_Friend:_A_Story_of_Pennsylvania?oldid=598152405</value>
+</wikilink>
+</XML_Serializer_Tag>
+</books>
+</Person>

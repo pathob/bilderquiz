@@ -1,0 +1,34 @@
+<Person>
+<name>Robert Hamerling</name>
+<variantName>
+<XML_Serializer_Tag>Roberto Hamerling</XML_Serializer_Tag>
+<XML_Serializer_Tag>R. Hamerling</XML_Serializer_Tag>
+<XML_Serializer_Tag>Robert Hammerling</XML_Serializer_Tag>
+<XML_Serializer_Tag>Rupert Johann Hammerling</XML_Serializer_Tag>
+<XML_Serializer_Tag>Rupert J. Hammerling</XML_Serializer_Tag>
+<XML_Serializer_Tag>Rupert Hammerling</XML_Serializer_Tag>
+<XML_Serializer_Tag>Hamerling</XML_Serializer_Tag>
+<XML_Serializer_Tag>R. Gammerling</XML_Serializer_Tag>
+</variantName>
+<thumbnail>https://commons.wikimedia.org/wiki/Special:FilePath/Robert_hamerling.jpg?width=270</thumbnail>
+<birthEN>March 24, 1830</birthEN>
+<birthDE>24. März 1830</birthDE>
+<deathEN>July 13, 1889</deathEN>
+<deathDE>13. Juli 1889</deathDE>
+<birthPlace>
+<XML_Serializer_Tag>Kirchberg am Walde &lt;NÖ&gt;</XML_Serializer_Tag>
+</birthPlace>
+<deathPlace>
+<XML_Serializer_Tag>Graz</XML_Serializer_Tag>
+</deathPlace>
+<professionOrOccupation>
+<XML_Serializer_Tag>Schriftsteller</XML_Serializer_Tag>
+<XML_Serializer_Tag>Lehrer</XML_Serializer_Tag>
+</professionOrOccupation>
+<dbpResource>http://dbpedia.org/resource/Robert_Hamerling</dbpResource>
+<abstract>Robert Hamerling, geboren als Rupert Johann Hammerling, (* 24. März 1830 in Kirchberg am Walde, Niederösterreich; † 13. Juli 1889 in Graz) war ein österreichischer Dichter und Schriftsteller.</abstract>
+<wikilink>http://en.wikipedia.org/wiki/Robert_Hamerling?oldid=590288370</wikilink>
+<artworks />
+<buildings />
+<books />
+</Person>

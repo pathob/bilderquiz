@@ -1,0 +1,75 @@
+<Person>
+<name>Ezra Pound</name>
+<variantName>
+<XML_Serializer_Tag>Ezra L. Pound</XML_Serializer_Tag>
+<XML_Serializer_Tag>Ezra Loomis Pound</XML_Serializer_Tag>
+<XML_Serializer_Tag>Ezra Loomis Pound</XML_Serializer_Tag>
+<XML_Serializer_Tag>Ezra Pavnd</XML_Serializer_Tag>
+<XML_Serializer_Tag>Ėzra Paund</XML_Serializer_Tag>
+<XML_Serializer_Tag>Ezra Paunt</XML_Serializer_Tag>
+<XML_Serializer_Tag>Ezra Paount</XML_Serializer_Tag>
+<XML_Serializer_Tag>Ejura Pàundu</XML_Serializer_Tag>
+<XML_Serializer_Tag>Izra Bawnd</XML_Serializer_Tag>
+<XML_Serializer_Tag>William Atheling</XML_Serializer_Tag>
+<XML_Serializer_Tag>Ezra Pounds</XML_Serializer_Tag>
+<XML_Serializer_Tag>Ezra Weston Loomis Pound</XML_Serializer_Tag>
+<XML_Serializer_Tag>Ezra Lumis Pavnd</XML_Serializer_Tag>
+</variantName>
+<thumbnail>https://commons.wikimedia.org/wiki/Special:FilePath/Ezra_Pound_2.jpg?width=270</thumbnail>
+<birthEN>1885</birthEN>
+<birthDE>1885</birthDE>
+<deathEN>1972</deathEN>
+<deathDE>1972</deathDE>
+<birthPlace>
+<XML_Serializer_Tag>Hailey/Idaho</XML_Serializer_Tag>
+</birthPlace>
+<deathPlace>
+<XML_Serializer_Tag>Venedig</XML_Serializer_Tag>
+</deathPlace>
+<professionOrOccupation>
+<XML_Serializer_Tag>Schriftsteller</XML_Serializer_Tag>
+</professionOrOccupation>
+<dbpResource>http://dbpedia.org/resource/Ezra_Pound</dbpResource>
+<abstract>Ezra Weston Loomis Pound (* 30. Oktober 1885 in Hailey, Blaine County, Idaho; † 1. November 1972 in Venedig) war ein amerikanischer Dichter. Er gilt als einer der herausragenden Vertreter der literarischen Moderne. Sein Hauptwerk ist The Cantos. Er propagierte vor 1914 den Imagismus und den Vortizismus. Während seines Italienaufenthalts von 1924 bis 1945 bewunderte und unterstützte er den italienischen Faschismus.</abstract>
+<wikilink>http://en.wikipedia.org/wiki/Ezra_Pound?oldid=605549403</wikilink>
+<artworks />
+<buildings />
+<books>
+<XML_Serializer_Tag>
+<book>
+<type>uri</type>
+<value>http://dbpedia.org/resource/A_Lume_Spento</value>
+</book>
+<author>
+<type>uri</type>
+<value>http://dbpedia.org/resource/Ezra_Pound</value>
+</author>
+<thumbnail>
+<type>uri</type>
+<value>http://commons.wikimedia.org/wiki/Special:FilePath/A_Lume_Spento.jpg?width=300</value>
+</thumbnail>
+<wikilink>
+<type>uri</type>
+<value>http://en.wikipedia.org/wiki/A_Lume_Spento?oldid=596934678</value>
+</wikilink>
+</XML_Serializer_Tag>
+<XML_Serializer_Tag>
+<book>
+<type>uri</type>
+<value>http://dbpedia.org/resource/The_Spirit_of_Romance</value>
+</book>
+<author>
+<type>uri</type>
+<value>http://dbpedia.org/resource/Ezra_Pound</value>
+</author>
+<thumbnail>
+<type>uri</type>
+<value>http://commons.wikimedia.org/wiki/Special:FilePath/The_Spirit_of_Romance_-_Ezra_Pound.jpg?width=300</value>
+</thumbnail>
+<wikilink>
+<type>uri</type>
+<value>http://en.wikipedia.org/wiki/The_Spirit_of_Romance?oldid=599721777</value>
+</wikilink>
+</XML_Serializer_Tag>
+</books>
+</Person>

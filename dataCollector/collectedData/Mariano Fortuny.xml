@@ -1,0 +1,26 @@
+<Person>
+<name>Mariano Fortuny</name>
+<variantName>
+<XML_Serializer_Tag>Mariano Fortuny Madrazo</XML_Serializer_Tag>
+<XML_Serializer_Tag>Mariano Fortuny i Madrazo</XML_Serializer_Tag>
+<XML_Serializer_Tag>Mariano Fortuny y Madrazo</XML_Serializer_Tag>
+<XML_Serializer_Tag>Mariano Fortuny i Madrazo</XML_Serializer_Tag>
+<XML_Serializer_Tag>Mariano Fortuny y Madrazo</XML_Serializer_Tag>
+</variantName>
+<thumbnail>https://commons.wikimedia.org/wiki/Special:FilePath/Mariano_Fortuny_(Designer).jpg?width=270</thumbnail>
+<birthEN>1871</birthEN>
+<birthDE>1871</birthDE>
+<deathEN>1949</deathEN>
+<deathDE>1949</deathDE>
+<birthPlace />
+<deathPlace />
+<professionOrOccupation>
+<XML_Serializer_Tag>Künstler</XML_Serializer_Tag>
+</professionOrOccupation>
+<dbpResource>http://dbpedia.org/resource/Mariano_Fortuny_(designer)</dbpResource>
+<abstract>Mariano Fortuny y Madrazo (* 11. Mai 1871 in Granada; † 3. Mai 1949 in Venedig) war ein spanischer Universalkünstler; unter anderem Modedesigner, Maler, Bildhauer, Architekt, Innenarchitekt, Ingenieur und Erfinder.</abstract>
+<wikilink>http://en.wikipedia.org/wiki/Mariano_Fortuny_(designer)?oldid=573929388</wikilink>
+<artworks />
+<buildings />
+<books />
+</Person>

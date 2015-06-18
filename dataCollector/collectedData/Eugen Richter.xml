@@ -1,0 +1,28 @@
+<Person>
+<name>Eugen Richter</name>
+<variantName>
+<XML_Serializer_Tag>Eugène Richter</XML_Serializer_Tag>
+</variantName>
+<thumbnail>https://commons.wikimedia.org/wiki/Special:FilePath/Eugen_Richter.jpg?width=270</thumbnail>
+<birthEN>July 30, 1838</birthEN>
+<birthDE>30. Juli 1838</birthDE>
+<deathEN>March 10, 1906</deathEN>
+<deathDE>10. März 1906</deathDE>
+<birthPlace>
+<XML_Serializer_Tag>Düsseldorf</XML_Serializer_Tag>
+</birthPlace>
+<deathPlace>
+<XML_Serializer_Tag>Lichterfelde (Berlin)</XML_Serializer_Tag>
+</deathPlace>
+<professionOrOccupation>
+<XML_Serializer_Tag>Politiker</XML_Serializer_Tag>
+<XML_Serializer_Tag>Schriftsteller</XML_Serializer_Tag>
+<XML_Serializer_Tag>Publizist</XML_Serializer_Tag>
+</professionOrOccupation>
+<dbpResource>http://dbpedia.org/resource/Eugen_Richter</dbpResource>
+<abstract>Eugen Richter (* 30. Juli 1838 in Düsseldorf; † 10. März 1906 in Groß-Lichterfelde, einem Vorort von Berlin) war ein deutscher Politiker (Deutsche Fortschrittspartei, Deutsche Freisinnige Partei, Freisinnige Volkspartei) und Publizist in der Zeit des Deutschen Kaiserreichs. Er wird als einer der besten Rhetoriker des Preußischen Abgeordnetenhauses und des Deutschen Reichstages angesehen. Richter war seinerzeit einer der ersten Berufspolitiker und konsequenter Vertreter des Manchesterliberalismus in Deutschland.</abstract>
+<wikilink>http://en.wikipedia.org/wiki/Eugen_Richter?oldid=605889873</wikilink>
+<artworks />
+<buildings />
+<books />
+</Person>

@@ -1,0 +1,26 @@
+<Person>
+<name>Hans Scharoun</name>
+<variantName>
+<XML_Serializer_Tag>Bernhard Hans Henry Scharoun</XML_Serializer_Tag>
+</variantName>
+<thumbnail>https://commons.wikimedia.org/wiki/Special:FilePath/Bundesarchiv_Bild_183-E0324-0047-004,_Berlin,_Otto_Nagel-Ausstellung,_Scharoun.jpg?width=270</thumbnail>
+<birthEN>September 20, 1893</birthEN>
+<birthDE>20. September 1893</birthDE>
+<deathEN>November 25, 1972</deathEN>
+<deathDE>25. November 1972</deathDE>
+<birthPlace>
+<XML_Serializer_Tag>Bremen</XML_Serializer_Tag>
+</birthPlace>
+<deathPlace>
+<XML_Serializer_Tag>Berlin</XML_Serializer_Tag>
+</deathPlace>
+<professionOrOccupation>
+<XML_Serializer_Tag>Architekt</XML_Serializer_Tag>
+</professionOrOccupation>
+<dbpResource>http://dbpedia.org/resource/Hans_Scharoun</dbpResource>
+<abstract>Hans Scharoun (* 20. September 1893 in Bremen; † 25. November 1972 in Berlin), vollständiger Name: Bernhard Hans Henry Scharoun, war ein deutscher Architekt und einer der bedeutendsten Vertreter der organischen Architektur. Er orientierte sich stark an den Gedanken des Architekten Hugo Häring, der den Ansatz entwickelte, die Baugestalt aus dem Wesen der Bauaufgabe abzuleiten.</abstract>
+<wikilink>http://en.wikipedia.org/wiki/Hans_Scharoun?oldid=598490254</wikilink>
+<artworks />
+<buildings />
+<books />
+</Person>

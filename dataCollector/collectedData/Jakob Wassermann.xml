@@ -1,0 +1,40 @@
+<Person>
+<name>Jakob Wassermann</name>
+<variantName>
+<XML_Serializer_Tag>Jacob Wassermann</XML_Serializer_Tag>
+<XML_Serializer_Tag>Jakób Wassermann</XML_Serializer_Tag>
+<XML_Serializer_Tag>Jakob Vaserman</XML_Serializer_Tag>
+<XML_Serializer_Tag>Jakob Vasserman</XML_Serializer_Tag>
+<XML_Serializer_Tag>Yaʿaḳov Ṿaserman</XML_Serializer_Tag>
+<XML_Serializer_Tag>Yaʿaḳov Ṿasserman</XML_Serializer_Tag>
+<XML_Serializer_Tag>Jakob Wasserman</XML_Serializer_Tag>
+<XML_Serializer_Tag>Jakov Vasserman</XML_Serializer_Tag>
+<XML_Serializer_Tag>Jakub Wassermann</XML_Serializer_Tag>
+<XML_Serializer_Tag>יעקב וסרמן</XML_Serializer_Tag>
+</variantName>
+<thumbnail>https://commons.wikimedia.org/wiki/Special:FilePath/Jakob_Wassermann_1934.jpg?width=270</thumbnail>
+<birthEN>March 10, 1873</birthEN>
+<birthDE>10. März 1873</birthDE>
+<deathEN>January 1, 1934</deathEN>
+<deathDE>1. Januar 1934</deathDE>
+<birthPlace>
+<XML_Serializer_Tag>Fürth (Bayern)</XML_Serializer_Tag>
+</birthPlace>
+<deathPlace>
+<XML_Serializer_Tag>Altaussee</XML_Serializer_Tag>
+</deathPlace>
+<professionOrOccupation>
+<XML_Serializer_Tag>Dramatiker</XML_Serializer_Tag>
+<XML_Serializer_Tag>Theaterkritiker</XML_Serializer_Tag>
+<XML_Serializer_Tag>Essayist</XML_Serializer_Tag>
+<XML_Serializer_Tag>Schriftsteller</XML_Serializer_Tag>
+<XML_Serializer_Tag>Feuilletonist</XML_Serializer_Tag>
+<XML_Serializer_Tag>Erzähler</XML_Serializer_Tag>
+</professionOrOccupation>
+<dbpResource>http://dbpedia.org/resource/Jakob_Wassermann</dbpResource>
+<abstract>Jakob Wassermann (* 10. März 1873 in Fürth; † 1. Januar 1934 in Altaussee) war ein deutsch-jüdischer Schriftsteller. Er zählte zu den produktivsten und populärsten Erzählern seiner Zeit.</abstract>
+<wikilink>http://en.wikipedia.org/wiki/Jakob_Wassermann?oldid=606674337</wikilink>
+<artworks />
+<buildings />
+<books />
+</Person>

@@ -1,0 +1,95 @@
+<Person>
+<name>Robert Musil</name>
+<variantName>
+<XML_Serializer_Tag>Robert von Musil</XML_Serializer_Tag>
+<XML_Serializer_Tag>Rómpert Moúzil</XML_Serializer_Tag>
+<XML_Serializer_Tag>Robert Mowzil</XML_Serializer_Tag>
+<XML_Serializer_Tag>Ṙobert Mowzil</XML_Serializer_Tag>
+<XML_Serializer_Tag>Mujiru</XML_Serializer_Tag>
+<XML_Serializer_Tag>Robert Muzil</XML_Serializer_Tag>
+<XML_Serializer_Tag>Robert Muzil&apos;</XML_Serializer_Tag>
+<XML_Serializer_Tag>Rūbirt Mūzīl</XML_Serializer_Tag>
+<XML_Serializer_Tag>Robert Muzili</XML_Serializer_Tag>
+<XML_Serializer_Tag>Robert Mūzili</XML_Serializer_Tag>
+<XML_Serializer_Tag>Robertas Muzilis</XML_Serializer_Tag>
+<XML_Serializer_Tag>Roberts Mūzils</XML_Serializer_Tag>
+<XML_Serializer_Tag>Роберт Музиль</XML_Serializer_Tag>
+<XML_Serializer_Tag>Роберт Музіль</XML_Serializer_Tag>
+<XML_Serializer_Tag>Ρόμπερτ Μούζιλ</XML_Serializer_Tag>
+<XML_Serializer_Tag>罗伯特 穆西尔</XML_Serializer_Tag>
+<XML_Serializer_Tag>רוברט מוסיל</XML_Serializer_Tag>
+<XML_Serializer_Tag>ローベルト・ムージル</XML_Serializer_Tag>
+<XML_Serializer_Tag>로베르트 무질</XML_Serializer_Tag>
+</variantName>
+<thumbnail>https://commons.wikimedia.org/wiki/Special:FilePath/Klagenfurt_-_Musilhaus_-_Robert_Musil.jpg?width=270</thumbnail>
+<birthEN>November 6, 1880</birthEN>
+<birthDE>6. November 1880</birthDE>
+<deathEN>April 15, 1942</deathEN>
+<deathDE>15. April 1942</deathDE>
+<birthPlace>
+<XML_Serializer_Tag>Klagenfurt</XML_Serializer_Tag>
+</birthPlace>
+<deathPlace>
+<XML_Serializer_Tag>Genf</XML_Serializer_Tag>
+</deathPlace>
+<professionOrOccupation>
+<XML_Serializer_Tag>Schriftsteller</XML_Serializer_Tag>
+<XML_Serializer_Tag>Herausgeber</XML_Serializer_Tag>
+<XML_Serializer_Tag>Reserveoffizier</XML_Serializer_Tag>
+</professionOrOccupation>
+<dbpResource>http://dbpedia.org/resource/Robert_Musil</dbpResource>
+<abstract>Robert Musil (/ˈmuːzɪl/, /ˈmuːsɪl/; * 6. November 1880 in Klagenfurt am Wörthersee; † 15. April 1942 in Genf, 1917 bis 1919 Robert Edler von Musil) war ein österreichischer Schriftsteller und Theaterkritiker.Musils Werk umfasst Novellen, Dramen, Essays, Kritiken und zwei Romane, den Bildungsroman Die Verwirrungen des Zöglings Törleß und sein unvollendetes Magnum Opus Der Mann ohne Eigenschaften.</abstract>
+<wikilink>http://en.wikipedia.org/wiki/Robert_Musil?oldid=587652260</wikilink>
+<artworks />
+<buildings />
+<books>
+<XML_Serializer_Tag>
+<book>
+<type>uri</type>
+<value>http://dbpedia.org/resource/The_Man_Without_Qualities</value>
+</book>
+<author>
+<type>uri</type>
+<value>http://dbpedia.org/resource/Robert_Musil</value>
+</author>
+<released>
+<type>typed-literal</type>
+<datatype>http://www.w3.org/2001/XMLSchema#integer</datatype>
+<value>1930</value>
+</released>
+<wikilink>
+<type>uri</type>
+<value>http://en.wikipedia.org/wiki/The_Man_Without_Qualities?oldid=579815987</value>
+</wikilink>
+<abstract>
+<type>literal</type>
+<xml:lang>de</xml:lang>
+<value>Der Mann ohne Eigenschaften ist das Hauptwerk Robert Musils und gilt als einer der einflussreichsten Romane des 20. Jahrhunderts.</value>
+</abstract>
+</XML_Serializer_Tag>
+<XML_Serializer_Tag>
+<book>
+<type>uri</type>
+<value>http://dbpedia.org/resource/The_Confusions_of_Young_T%C3%B6rless</value>
+</book>
+<author>
+<type>uri</type>
+<value>http://dbpedia.org/resource/Robert_Musil</value>
+</author>
+<released>
+<type>typed-literal</type>
+<datatype>http://www.w3.org/2001/XMLSchema#integer</datatype>
+<value>1906</value>
+</released>
+<wikilink>
+<type>uri</type>
+<value>http://en.wikipedia.org/wiki/The_Confusions_of_Young_Törless?oldid=603657698</value>
+</wikilink>
+<abstract>
+<type>literal</type>
+<xml:lang>de</xml:lang>
+<value>Die Verwirrungen des Zöglings Törleß ist der erste Roman von Robert Musil. Die Erstausgabe erschien 1906 im Wiener Verlag. Mit Hilfe der psychologischen Darstellung der Pubertät von vier Schülern spiegelt der Roman modellhaft autoritäre Gesellschaftsstrukturen wider, indem er einen Zusammenhang zwischen psychischer Disposition und diktatorischer Institution herstellt. Die Handlung spielt vor dem Hintergrund der Ichfindung des jungen Törleß im Spannungsfeld von Rationalität und Emotionalität einerseits sowie Intellektualismus und mystischer Welterfahrung andererseits.</value>
+</abstract>
+</XML_Serializer_Tag>
+</books>
+</Person>

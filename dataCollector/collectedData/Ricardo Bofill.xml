@@ -1,0 +1,154 @@
+<Person>
+<name>Ricardo Bofill</name>
+<variantName>
+<XML_Serializer_Tag>Ricard Bofill</XML_Serializer_Tag>
+</variantName>
+<thumbnail>https://commons.wikimedia.org/wiki/Special:FilePath/Ricardo_bofill_levi.jpg?width=270</thumbnail>
+<birthEN>1939</birthEN>
+<birthDE>1939</birthDE>
+<deathEN />
+<deathDE />
+<birthPlace />
+<deathPlace />
+<professionOrOccupation>
+<XML_Serializer_Tag>Architekt</XML_Serializer_Tag>
+</professionOrOccupation>
+<dbpResource>http://dbpedia.org/resource/Ricardo_Bofill</dbpResource>
+<abstract>Ricardo Bofill, auf Katalanisch Ricard Bofill Leví, (* 5. Dezember 1939 in Barcelona) ist ein spanischer Architekt der Postmoderne. Bofill wurde als Sohn eines Bauunternehmers und einer italienischstämmigen Jüdin geboren. Nach dem Besuch des französischen Gymnasiums begann er ein Architekturstudium in Barcelona, bevor er an die Ecole d’Architecture in Genf wechselte. 1963 gründete er in Barcelona sein Büro Taller de Arquitectura.1971 eröffnete Bofill eine Niederlassung in Paris, wo er in den 1980er Jahren mehrere monumentale Vorortsiedlungen entwickelte.Seit 2000 steuert er seine internationalen Aktivitäten wieder aus Barcelona, wo die ‚Architekturwerkstatt‘ in einer ehemaligen Zementfabrik in Sant Just Desvern untergebracht ist.1997 wurde ihm die Ehrenmitgliedschaft im Bund Deutscher Architekten BDA verliehen.</abstract>
+<wikilink>http://en.wikipedia.org/wiki/Ricardo_Bofill?oldid=602733454</wikilink>
+<artworks />
+<buildings>
+<XML_Serializer_Tag>
+<building>
+<type>uri</type>
+<value>http://dbpedia.org/resource/Les_Echelles_du_Baroque</value>
+</building>
+<name>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>Les Echelles du Baroque</value>
+</name>
+<architect>
+<type>uri</type>
+<value>http://dbpedia.org/resource/Ricardo_Bofill</value>
+</architect>
+<thumbnail>
+<type>uri</type>
+<value>http://commons.wikimedia.org/wiki/Special:FilePath/Ricardo_Bofill_Taller_de_Arquitectura_Les_Echelles_du_Baroque_Paris02.jpg?width=300</value>
+</thumbnail>
+<wikilink>
+<type>uri</type>
+<value>http://en.wikipedia.org/wiki/Les_Echelles_du_Baroque?oldid=574044118</value>
+</wikilink>
+<location>
+<type>uri</type>
+<value>http://dbpedia.org/resource/Paris</value>
+</location>
+</XML_Serializer_Tag>
+<XML_Serializer_Tag>
+<building>
+<type>uri</type>
+<value>http://dbpedia.org/resource/W_Barcelona</value>
+</building>
+<name>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>W Barcelona</value>
+</name>
+<architect>
+<type>uri</type>
+<value>http://dbpedia.org/resource/Ricardo_Bofill</value>
+</architect>
+<thumbnail>
+<type>uri</type>
+<value>http://commons.wikimedia.org/wiki/Special:FilePath/W_Barcelona_by_Ricardo_Bofill.jpg?width=300</value>
+</thumbnail>
+<wikilink>
+<type>uri</type>
+<value>http://en.wikipedia.org/wiki/W_Barcelona?oldid=574907465</value>
+</wikilink>
+<location>
+<type>uri</type>
+<value>http://dbpedia.org/resource/Barcelona</value>
+</location>
+</XML_Serializer_Tag>
+<XML_Serializer_Tag>
+<building>
+<type>uri</type>
+<value>http://dbpedia.org/resource/Arsenal_de_Metz</value>
+</building>
+<name>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>The Arsenal</value>
+</name>
+<architect>
+<type>uri</type>
+<value>http://dbpedia.org/resource/Ricardo_Bofill</value>
+</architect>
+<thumbnail>
+<type>uri</type>
+<value>http://commons.wikimedia.org/wiki/Special:FilePath/Metz_Arsenal_R01.jpg?width=300</value>
+</thumbnail>
+<wikilink>
+<type>uri</type>
+<value>http://en.wikipedia.org/wiki/Arsenal_de_Metz?oldid=568813276</value>
+</wikilink>
+<location>
+<type>uri</type>
+<value>http://dbpedia.org/resource/Metz</value>
+</location>
+</XML_Serializer_Tag>
+<XML_Serializer_Tag>
+<building>
+<type>uri</type>
+<value>http://dbpedia.org/resource/Casablanca_Twin_Center</value>
+</building>
+<name>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>Casablanca Twin Centre</value>
+</name>
+<architect>
+<type>uri</type>
+<value>http://dbpedia.org/resource/Ricardo_Bofill</value>
+</architect>
+<thumbnail>
+<type>uri</type>
+<value>http://commons.wikimedia.org/wiki/Special:FilePath/Casablanca_Twin_Center.jpg?width=300</value>
+</thumbnail>
+<wikilink>
+<type>uri</type>
+<value>http://en.wikipedia.org/wiki/Casablanca_Twin_Center?oldid=593916234</value>
+</wikilink>
+<location>
+<type>uri</type>
+<value>http://dbpedia.org/resource/Casablanca</value>
+</location>
+</XML_Serializer_Tag>
+<XML_Serializer_Tag>
+<building>
+<type>uri</type>
+<value>http://dbpedia.org/resource/Teatre_Nacional_de_Catalunya</value>
+</building>
+<name>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>Teatre Nacional de Catalunya</value>
+</name>
+<architect>
+<type>uri</type>
+<value>http://dbpedia.org/resource/Ricardo_Bofill</value>
+</architect>
+<thumbnail>
+<type>uri</type>
+<value>http://commons.wikimedia.org/wiki/Special:FilePath/050529_Barcelona_030.jpg?width=300</value>
+</thumbnail>
+<wikilink>
+<type>uri</type>
+<value>http://en.wikipedia.org/wiki/Teatre_Nacional_de_Catalunya?oldid=592483601</value>
+</wikilink>
+</XML_Serializer_Tag>
+</buildings>
+<books />
+</Person>

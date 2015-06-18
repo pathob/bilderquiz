@@ -1,0 +1,26 @@
+<Person>
+<name>Hilary Putnam</name>
+<variantName>
+<XML_Serializer_Tag>H. Putnam</XML_Serializer_Tag>
+<XML_Serializer_Tag>Hilary Whitehall Putnam</XML_Serializer_Tag>
+<XML_Serializer_Tag>Khilary Putnam</XML_Serializer_Tag>
+</variantName>
+<thumbnail>https://commons.wikimedia.org/wiki/Special:FilePath/Hilary_Putnam.jpg?width=270</thumbnail>
+<birthEN>1926</birthEN>
+<birthDE>1926</birthDE>
+<deathEN />
+<deathDE />
+<birthPlace>
+<XML_Serializer_Tag>Chicago, Ill.</XML_Serializer_Tag>
+</birthPlace>
+<deathPlace />
+<professionOrOccupation>
+<XML_Serializer_Tag>Philosoph</XML_Serializer_Tag>
+</professionOrOccupation>
+<dbpResource>http://dbpedia.org/resource/Hilary_Putnam</dbpResource>
+<abstract>Hilary Whitehall Putnam (* 31. Juli 1926 in Chicago, Illinois) ist ein amerikanischer Philosoph. Er gilt als eine der Schlüsselfiguren der Sprachphilosophie und der Philosophie des Geistes im 20. Jahrhundert.</abstract>
+<wikilink>http://en.wikipedia.org/wiki/Hilary_Putnam?oldid=605859801</wikilink>
+<artworks />
+<buildings />
+<books />
+</Person>

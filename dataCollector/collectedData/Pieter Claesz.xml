@@ -13,8 +13,10 @@
 <professionOrOccupation>
 <XML_Serializer_Tag>Maler</XML_Serializer_Tag>
 </professionOrOccupation>
-<artworks />
 <dbpResource>http://dbpedia.org/resource/Pieter_Claesz</dbpResource>
 <abstract>Pieter Claesz (* 1596/1597 in Berchem bei Antwerpen in den spanischen Niederlanden; † vor dem 1. Januar 1661 in Haarlem, Niederlande) war ein niederländischer Stillleben-Maler des Barock und wird zu deren bedeutendsten Vertretern gezählt.</abstract>
 <wikilink>http://en.wikipedia.org/wiki/Pieter_Claesz?oldid=606393730</wikilink>
+<artworks />
+<buildings />
+<books />
 </Person>

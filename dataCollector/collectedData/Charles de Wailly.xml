@@ -1,0 +1,56 @@
+<Person>
+<name>Charles de Wailly</name>
+<variantName>
+<XML_Serializer_Tag>Charles Dewailly</XML_Serializer_Tag>
+<XML_Serializer_Tag>Charles De Wailly</XML_Serializer_Tag>
+</variantName>
+<thumbnail>https://commons.wikimedia.org/wiki/Special:FilePath/Pantheon_Pyramide.jpg?width=270</thumbnail>
+<birthEN>1729</birthEN>
+<birthDE>1729</birthDE>
+<deathEN>1798</deathEN>
+<deathDE>1798</deathDE>
+<birthPlace />
+<deathPlace />
+<professionOrOccupation>
+<XML_Serializer_Tag>Architekt</XML_Serializer_Tag>
+</professionOrOccupation>
+<dbpResource>http://dbpedia.org/resource/Charles_de_Wailly</dbpResource>
+<abstract>Charles De Wailly (* 9. November 1730 in Paris; † 2. November 1798 in Paris), war ein französischer Architekt und Stadtplaner. Er galt als einer der wichtigsten Vertreter des französischen Frühklassizismus.</abstract>
+<wikilink>http://en.wikipedia.org/wiki/Charles_de_Wailly?oldid=600839210</wikilink>
+<artworks />
+<buildings>
+<XML_Serializer_Tag>
+<building>
+<type>uri</type>
+<value>http://dbpedia.org/resource/Royal_Palace_of_Laeken</value>
+</building>
+<name>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>Royal Palace of Laeken</value>
+</name>
+<architect>
+<type>uri</type>
+<value>http://dbpedia.org/resource/Charles_de_Wailly</value>
+</architect>
+<thumbnail>
+<type>uri</type>
+<value>http://commons.wikimedia.org/wiki/Special:FilePath/0_Château_Royal_de_Laeken.JPG?width=300</value>
+</thumbnail>
+<wikilink>
+<type>uri</type>
+<value>http://en.wikipedia.org/wiki/Royal_Palace_of_Laeken?oldid=585229718</value>
+</wikilink>
+<location>
+<type>uri</type>
+<value>http://dbpedia.org/resource/Laeken</value>
+</location>
+<abstract>
+<type>literal</type>
+<xml:lang>de</xml:lang>
+<value>Das Schloss Laken ist das Schloss des belgischen Königshauses in Laken im Norden Brüssels.Das Schloss wurde im Auftrag von Albert Kasimir von Sachsen-Teschen, dem Statthalter der damals Österreichischen Niederlande, 1782 bis 1784 nach Entwurf des französischen Architekten Charles de Wailly im klassizistischen Stil erbaut. Im Vereinigten Königreich der Niederlande (1815–1830) diente es gemeinsam mit der zugehörige Domäne als Teilresidenz des niederländischen Königs. Nach der Revolution und der anschließenden Abspaltung Belgiens wurde das Schloss Residenz von Leopold I., dem König der Belgier. Sein Sohn Leopold II. erweiterte das Schloss und ließ die berühmten Gewächshäuser im Park erbauen.</value>
+</abstract>
+</XML_Serializer_Tag>
+</buildings>
+<books />
+</Person>

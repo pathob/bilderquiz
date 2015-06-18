@@ -14,8 +14,10 @@
 <XML_Serializer_Tag>Maler</XML_Serializer_Tag>
 <XML_Serializer_Tag>Illustrator</XML_Serializer_Tag>
 </professionOrOccupation>
-<artworks />
 <dbpResource>http://dbpedia.org/resource/Yves_Tanguy</dbpResource>
 <abstract>Yves Tanguy (* 5. Januar 1900 in Paris, als Raymond Georges Yves Tanguy; † 15. Januar 1955 in Woodbury, USA) war ein französischer Maler des Surrealismus.Yves Tanguys Landschaften sind mal luftig leicht, ähneln Wolkenformationen, mal erinnern sie an die Tiefen des Meeresgrunds, mal an die Oberfläche fremder Planeten, nie aber sind sie eindeutig fassbar: Sie sind surreale Landschaften im wahren Sinne des Wortes. Seine verschlüsselten Bildwelten geben bis heute Rätsel der Deutung auf.</abstract>
 <wikilink>http://en.wikipedia.org/wiki/Yves_Tanguy?oldid=605745920</wikilink>
+<artworks />
+<buildings />
+<books />
 </Person>

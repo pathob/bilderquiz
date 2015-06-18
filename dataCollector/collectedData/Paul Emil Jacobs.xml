@@ -19,8 +19,10 @@
 <professionOrOccupation>
 <XML_Serializer_Tag>Maler</XML_Serializer_Tag>
 </professionOrOccupation>
-<artworks />
 <dbpResource>http://dbpedia.org/resource/Paul_Emil_Jacobs</dbpResource>
 <abstract>Paul Emil Jacobs (* 20. August 1802 in Gotha; † 6. Januar 1866 ebenda) war ein deutscher Maler.</abstract>
 <wikilink>http://en.wikipedia.org/wiki/Paul_Emil_Jacobs?oldid=565015579</wikilink>
+<artworks />
+<buildings />
+<books />
 </Person>

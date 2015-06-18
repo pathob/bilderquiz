@@ -1,0 +1,24 @@
+<Person>
+<name>Otto Beckmann</name>
+<variantName />
+<thumbnail>https://commons.wikimedia.org/wiki/Special:FilePath/Otto_beckmann.PNG?width=270</thumbnail>
+<birthEN>1908</birthEN>
+<birthDE>1908</birthDE>
+<deathEN>1997</deathEN>
+<deathDE>1997</deathDE>
+<birthPlace>
+<XML_Serializer_Tag>Wladiwostok</XML_Serializer_Tag>
+</birthPlace>
+<deathPlace>
+<XML_Serializer_Tag>Wien</XML_Serializer_Tag>
+</deathPlace>
+<professionOrOccupation>
+<XML_Serializer_Tag>Künstler</XML_Serializer_Tag>
+</professionOrOccupation>
+<dbpResource>http://dbpedia.org/resource/Otto_Beckmann</dbpResource>
+<abstract>Otto Beckmann (* 5. Mai 1908 in Wladiwostok, Russland; † 13. Februar 1997 in Wien) war ein österreichischer Bildhauer und ein Pionier der Medien- und Computerkunst.</abstract>
+<wikilink>http://en.wikipedia.org/wiki/Otto_Beckmann?oldid=582818600</wikilink>
+<artworks />
+<buildings />
+<books />
+</Person>

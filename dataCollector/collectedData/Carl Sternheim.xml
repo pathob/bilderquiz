@@ -1,0 +1,32 @@
+<Person>
+<name>Carl Sternheim</name>
+<variantName>
+<XML_Serializer_Tag>William Adolf Carl Sternheim</XML_Serializer_Tag>
+<XML_Serializer_Tag>Karl Sternheim</XML_Serializer_Tag>
+<XML_Serializer_Tag>Carlo Sternheim</XML_Serializer_Tag>
+<XML_Serializer_Tag>Karl Šternhajm</XML_Serializer_Tag>
+<XML_Serializer_Tag>Ḳarl Shṭernhaim</XML_Serializer_Tag>
+<XML_Serializer_Tag>칼 슈테른하임</XML_Serializer_Tag>
+</variantName>
+<thumbnail>https://commons.wikimedia.org/wiki/Special:FilePath/Ernst_Ludwig_Kirchner_Bildnis_Carl_Sternheim_1916.jpg?width=270</thumbnail>
+<birthEN>April 1, 1878</birthEN>
+<birthDE>1. April 1878</birthDE>
+<deathEN>November 3, 1942</deathEN>
+<deathDE>3. November 1942</deathDE>
+<birthPlace>
+<XML_Serializer_Tag>Leipzig</XML_Serializer_Tag>
+</birthPlace>
+<deathPlace>
+<XML_Serializer_Tag>Brüssel</XML_Serializer_Tag>
+</deathPlace>
+<professionOrOccupation>
+<XML_Serializer_Tag>Dramatiker</XML_Serializer_Tag>
+<XML_Serializer_Tag>Schriftsteller</XML_Serializer_Tag>
+</professionOrOccupation>
+<dbpResource>http://dbpedia.org/resource/Carl_Sternheim</dbpResource>
+<abstract>Carl Sternheim (* 1. April 1878 in Leipzig; † 3. November 1942 in Brüssel) war ein deutscher Dramatiker und Autor von Erzählungen und Gedichten. In seinen Werken griff er besonders die Moralvorstellungen des Bürgertums der Wilhelminischen Zeit an.</abstract>
+<wikilink>http://en.wikipedia.org/wiki/Carl_Sternheim?oldid=580750673</wikilink>
+<artworks />
+<buildings />
+<books />
+</Person>

@@ -1,0 +1,29 @@
+<Person>
+<name>Otto Wagner</name>
+<variantName>
+<XML_Serializer_Tag>Otto Vagner</XML_Serializer_Tag>
+<XML_Serializer_Tag>Otto Koloman Wagner</XML_Serializer_Tag>
+<XML_Serializer_Tag>Ottō Vāgunā</XML_Serializer_Tag>
+</variantName>
+<thumbnail>https://commons.wikimedia.org/wiki/Special:FilePath/Otto_Wagner_(1841–1918).jpg?width=270</thumbnail>
+<birthEN>July 13, 1841</birthEN>
+<birthDE>13. Juli 1841</birthDE>
+<deathEN>April 12, 1918</deathEN>
+<deathDE>12. April 1918</deathDE>
+<birthPlace>
+<XML_Serializer_Tag>Wien-Penzing</XML_Serializer_Tag>
+</birthPlace>
+<deathPlace>
+<XML_Serializer_Tag>Wien</XML_Serializer_Tag>
+</deathPlace>
+<professionOrOccupation>
+<XML_Serializer_Tag>Architekt</XML_Serializer_Tag>
+<XML_Serializer_Tag>Stadtplaner</XML_Serializer_Tag>
+</professionOrOccupation>
+<dbpResource>http://dbpedia.org/resource/Otto_Wagner</dbpResource>
+<abstract>Otto Koloman Wagner (* 13. Juli 1841 in Penzing bei Wien; † 11. April 1918 in Wien 7) war der bedeutendste österreichische Architekt, Architekturtheoretiker und Stadtplaner Wiens in der Belle Epoque bzw. um das Fin de siècle. Seine Jugendstilbauten, seine universitäre Tätigkeit und seine Schriften über Stadtplanung verhalfen ihm in den 1890er Jahren zu Weltgeltung.</abstract>
+<wikilink>http://en.wikipedia.org/wiki/Otto_Wagner?oldid=605603108</wikilink>
+<artworks />
+<buildings />
+<books />
+</Person>

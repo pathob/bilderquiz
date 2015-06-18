@@ -1,0 +1,31 @@
+<Person>
+<name>Hermann Schlegel</name>
+<variantName>
+<XML_Serializer_Tag>Herman Schlegel</XML_Serializer_Tag>
+</variantName>
+<thumbnail>https://commons.wikimedia.org/wiki/Special:FilePath/Schlegel_Hermann_1804-1884.png?width=270</thumbnail>
+<birthEN>June 10, 1804</birthEN>
+<birthDE>10. Juni 1804</birthDE>
+<deathEN>January 17, 1884</deathEN>
+<deathDE>17. Januar 1884</deathDE>
+<birthPlace>
+<XML_Serializer_Tag>Altenburg (Sachsen)</XML_Serializer_Tag>
+</birthPlace>
+<deathPlace>
+<XML_Serializer_Tag>Leiden</XML_Serializer_Tag>
+</deathPlace>
+<professionOrOccupation>
+<XML_Serializer_Tag>Biologe</XML_Serializer_Tag>
+<XML_Serializer_Tag>Zoologe</XML_Serializer_Tag>
+<XML_Serializer_Tag>Ornithologe</XML_Serializer_Tag>
+<XML_Serializer_Tag>Naturwissenschaftler</XML_Serializer_Tag>
+<XML_Serializer_Tag>Autor</XML_Serializer_Tag>
+<XML_Serializer_Tag>Zeichner</XML_Serializer_Tag>
+</professionOrOccupation>
+<dbpResource>http://dbpedia.org/resource/Hermann_Schlegel</dbpResource>
+<abstract>Hermann Schlegel (* 10. Juni 1804 in Altenburg, Thüringen; † 17. Januar 1884 in Leiden) war ein deutscher Ornithologe.</abstract>
+<wikilink>http://en.wikipedia.org/wiki/Hermann_Schlegel?oldid=578864771</wikilink>
+<artworks />
+<buildings />
+<books />
+</Person>

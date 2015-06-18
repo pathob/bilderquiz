@@ -1,0 +1,27 @@
+<Person>
+<name>Francis Hutcheson</name>
+<variantName>
+<XML_Serializer_Tag>Franz Hutcheson</XML_Serializer_Tag>
+<XML_Serializer_Tag>F. Hutcheson</XML_Serializer_Tag>
+</variantName>
+<thumbnail>https://commons.wikimedia.org/wiki/Special:FilePath/Francis_Hutcheson_b1694.jpg?width=270</thumbnail>
+<birthEN>August 8, 1694</birthEN>
+<birthDE>8. August 1694</birthDE>
+<deathEN>1747</deathEN>
+<deathDE>1747</deathDE>
+<birthPlace>
+<XML_Serializer_Tag>Drumalig</XML_Serializer_Tag>
+</birthPlace>
+<deathPlace>
+<XML_Serializer_Tag>Glasgow</XML_Serializer_Tag>
+</deathPlace>
+<professionOrOccupation>
+<XML_Serializer_Tag>Philosoph</XML_Serializer_Tag>
+</professionOrOccupation>
+<dbpResource>http://dbpedia.org/resource/Francis_Hutcheson_(philosopher)</dbpResource>
+<abstract>Francis Hutcheson (* 8. August 1694 in Drumalig, Irland; † 1746 in Glasgow, Schottland) war ein Philosoph der (schottischen) Aufklärung und ein (vor-)klassischer Ökonom. In Irland geboren stammt er aus einer (Ulster-)schottischen presbyterianischen Familie.</abstract>
+<wikilink>http://en.wikipedia.org/wiki/Francis_Hutcheson_(philosopher)?oldid=604178345</wikilink>
+<artworks />
+<buildings />
+<books />
+</Person>

@@ -1,0 +1,45 @@
+<Person>
+<name>Edith Stein</name>
+<variantName>
+<XML_Serializer_Tag>T. Benedicta, vom Kreuz</XML_Serializer_Tag>
+<XML_Serializer_Tag>T. Benedicta, a Cruce</XML_Serializer_Tag>
+<XML_Serializer_Tag>Teresa Benedicta, of the Cross</XML_Serializer_Tag>
+<XML_Serializer_Tag>Teresa Benedicta, de la Cruz</XML_Serializer_Tag>
+<XML_Serializer_Tag>Teresa Benedykta, od Krzyża</XML_Serializer_Tag>
+<XML_Serializer_Tag>Beata Teresa Benedicta de la Cruz</XML_Serializer_Tag>
+<XML_Serializer_Tag>Edyta Stein</XML_Serializer_Tag>
+<XML_Serializer_Tag>Ėdit Štejn</XML_Serializer_Tag>
+<XML_Serializer_Tag>Edita Steinová</XML_Serializer_Tag>
+<XML_Serializer_Tag>Ēdito Shutain</XML_Serializer_Tag>
+<XML_Serializer_Tag>Teresia Benedicta a Cruce, Schwester</XML_Serializer_Tag>
+<XML_Serializer_Tag>Teresa Benedicta a Cruce OCD</XML_Serializer_Tag>
+<XML_Serializer_Tag>Teresia Benedicta, vom Kreuz</XML_Serializer_Tag>
+<XML_Serializer_Tag>Teresia Benedicta a Cruce</XML_Serializer_Tag>
+<XML_Serializer_Tag>Teresia Benedicta, a Cruce</XML_Serializer_Tag>
+<XML_Serializer_Tag>Theresia Benedicta, a Cruce</XML_Serializer_Tag>
+</variantName>
+<thumbnail>https://commons.wikimedia.org/wiki/Special:FilePath/Saint_Edith_Stein.jpg?width=270</thumbnail>
+<birthEN>October 12, 1891</birthEN>
+<birthDE>12. Oktober 1891</birthDE>
+<deathEN>August 9, 1942</deathEN>
+<deathDE>9. August 1942</deathDE>
+<birthPlace>
+<XML_Serializer_Tag>Breslau</XML_Serializer_Tag>
+</birthPlace>
+<deathPlace>
+<XML_Serializer_Tag>Auschwitz</XML_Serializer_Tag>
+</deathPlace>
+<professionOrOccupation>
+<XML_Serializer_Tag>Philosophin</XML_Serializer_Tag>
+<XML_Serializer_Tag>Theologin</XML_Serializer_Tag>
+<XML_Serializer_Tag>Lehrerin</XML_Serializer_Tag>
+<XML_Serializer_Tag>Schriftstellerin</XML_Serializer_Tag>
+<XML_Serializer_Tag>Nonne</XML_Serializer_Tag>
+</professionOrOccupation>
+<dbpResource>http://dbpedia.org/resource/Edith_Stein</dbpResource>
+<abstract>Edith Stein, Ordensname Teresia Benedicta a Cruce OCD, oder Teresia Benedicta vom Kreuz (* 12. Oktober 1891 in Breslau; † 9. August 1942 im KZ Auschwitz-Birkenau), war eine deutsche Philosophin und Nonne. Sie wird in der katholischen Kirche als Heilige und Märtyrerin der Kirche verehrt. Der evangelischen Kirche gilt sie ebenfalls als Märtyrin der Kirche. Papst Johannes Paul II. sprach Teresia Benedicta vom Kreuz am 1. Mai 1987 selig und am 11. Oktober 1998 heilig. Ihr römisch-katholischer und evangelischer Gedenktag ist der 9. August.</abstract>
+<wikilink>http://en.wikipedia.org/wiki/Edith_Stein?oldid=606609213</wikilink>
+<artworks />
+<buildings />
+<books />
+</Person>

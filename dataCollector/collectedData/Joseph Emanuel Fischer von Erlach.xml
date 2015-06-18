@@ -1,0 +1,89 @@
+<Person>
+<name>Joseph Emanuel Fischer von Erlach</name>
+<variantName>
+<XML_Serializer_Tag>Josef Emanuel Fischer von Erlach</XML_Serializer_Tag>
+<XML_Serializer_Tag>Josef Emanuel Fischer von Erlach</XML_Serializer_Tag>
+<XML_Serializer_Tag>Joseph Emanuel Fischer von Erlach</XML_Serializer_Tag>
+<XML_Serializer_Tag>Joseph Emanuel von Fischer</XML_Serializer_Tag>
+</variantName>
+<thumbnail>https://commons.wikimedia.org/wiki/Special:FilePath/Joseph_Emanuel_Fischer_von_Erlach.jpg?width=270</thumbnail>
+<birthEN>1693</birthEN>
+<birthDE>1693</birthDE>
+<deathEN>1742</deathEN>
+<deathDE>1742</deathDE>
+<birthPlace>
+<XML_Serializer_Tag>Wien</XML_Serializer_Tag>
+</birthPlace>
+<deathPlace>
+<XML_Serializer_Tag>Wien</XML_Serializer_Tag>
+</deathPlace>
+<professionOrOccupation>
+<XML_Serializer_Tag>Baumeister</XML_Serializer_Tag>
+</professionOrOccupation>
+<dbpResource>http://dbpedia.org/resource/Joseph_Emanuel_Fischer_von_Erlach</dbpResource>
+<abstract>Joseph Emanuel Fischer von Erlach, auch genannt Fischer von Erlach der Jüngere (getauft 13. September 1693 in Wien; † 29. Juni 1742 ebenda) war österreichischer Architekt des Barock, Rokoko und Barockklassizismus.</abstract>
+<wikilink>http://en.wikipedia.org/wiki/Joseph_Emanuel_Fischer_von_Erlach?oldid=579528452</wikilink>
+<artworks />
+<buildings>
+<XML_Serializer_Tag>
+<building>
+<type>uri</type>
+<value>http://dbpedia.org/resource/St._George&apos;s_Cathedral,_Timi%C8%99oara</value>
+</building>
+<name>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>The Cathedral of Saint George</value>
+</name>
+<architect>
+<type>uri</type>
+<value>http://dbpedia.org/resource/Joseph_Emanuel_Fischer_von_Erlach</value>
+</architect>
+<thumbnail>
+<type>uri</type>
+<value>http://commons.wikimedia.org/wiki/Special:FilePath/Timisoara_Dome.jpg?width=300</value>
+</thumbnail>
+<wikilink>
+<type>uri</type>
+<value>http://en.wikipedia.org/wiki/St._George&apos;s_Cathedral,_Timișoara?oldid=592762646</value>
+</wikilink>
+<location>
+<type>uri</type>
+<value>http://dbpedia.org/resource/Timi%C8%99oara</value>
+</location>
+<abstract>
+<type>literal</type>
+<xml:lang>de</xml:lang>
+<value>Der Temeswarer Dom (auch Dom zum Heiligen Georg, rumänisch Catedrala Sfântul Gheorghe din Timișoara, ungarisch Szent György Római Katolikus Székesegyház) ist eine römisch-katholische Kirche am Domplatz (rumänisch Piața Unirii) im Zentrum des I. Bezirkes Cetate der westrumänischen Stadt Timișoara (deutsch Temeswar). Der Dom ist die Kathedrale des Bistums Timișoara und trägt das Patrozinium des heiligen Georg. Er ist nach der Kathedrale von Oradea der zweitgrößte barocke Sakralbau in Südosteuropa. Der Grundriss der Domkirche hat die Form eines Doppelkreuzes, ist 55 Meter lang, 22 Meter breit und hat innen die Höhe von 16,9 Metern. Die Türme sind 35,5 Meter hoch. Das Gotteshaus steht heute unter Denkmalschutz.</value>
+</abstract>
+</XML_Serializer_Tag>
+<XML_Serializer_Tag>
+<building>
+<type>uri</type>
+<value>http://dbpedia.org/resource/Bon%C8%9Bida_B%C3%A1nffy_Castle</value>
+</building>
+<name>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>Bonţida Bánffy Castle</value>
+</name>
+<architect>
+<type>uri</type>
+<value>http://dbpedia.org/resource/Joseph_Emanuel_Fischer_von_Erlach</value>
+</architect>
+<thumbnail>
+<type>uri</type>
+<value>http://commons.wikimedia.org/wiki/Special:FilePath/Banffy_Castle_in_Bontida,_drawing_from_19_century.jpg?width=300</value>
+</thumbnail>
+<wikilink>
+<type>uri</type>
+<value>http://en.wikipedia.org/wiki/Bonțida_Bánffy_Castle?oldid=606532922</value>
+</wikilink>
+<location>
+<type>uri</type>
+<value>http://dbpedia.org/resource/Bon%C8%9Bida</value>
+</location>
+</XML_Serializer_Tag>
+</buildings>
+<books />
+</Person>

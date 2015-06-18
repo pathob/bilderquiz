@@ -1,0 +1,47 @@
+<Person>
+<name>Harold Nicolson</name>
+<variantName>
+<XML_Serializer_Tag>Harold George Nicolson</XML_Serializer_Tag>
+<XML_Serializer_Tag>Harold G. Nicolson</XML_Serializer_Tag>
+<XML_Serializer_Tag>Garol&apos;d Nikol&apos;son</XML_Serializer_Tag>
+<XML_Serializer_Tag>Hārūld Nīkūlsūn</XML_Serializer_Tag>
+<XML_Serializer_Tag>Harald Nicolson</XML_Serializer_Tag>
+</variantName>
+<thumbnail>https://commons.wikimedia.org/wiki/Special:FilePath/Brown_plaque_Vita_Sackville-West_and_Harold_Nicolson.jpg?width=270</thumbnail>
+<birthEN>1886</birthEN>
+<birthDE>1886</birthDE>
+<deathEN>1968</deathEN>
+<deathDE>1968</deathDE>
+<birthPlace />
+<deathPlace />
+<professionOrOccupation>
+<XML_Serializer_Tag>Diplomat</XML_Serializer_Tag>
+<XML_Serializer_Tag>Autor</XML_Serializer_Tag>
+</professionOrOccupation>
+<dbpResource>http://dbpedia.org/resource/Harold_Nicolson</dbpResource>
+<abstract>Sir Harold George Nicolson KCVO CMG (* 21. November 1886 in Teheran, Iran; † 1. Mai 1968 auf Sissinghurst Castle in Kent) war ein britischer Diplomat, Autor und Politiker.</abstract>
+<wikilink>http://en.wikipedia.org/wiki/Harold_Nicolson?oldid=606193727</wikilink>
+<artworks />
+<buildings />
+<books>
+<XML_Serializer_Tag>
+<book>
+<type>uri</type>
+<value>http://dbpedia.org/resource/Why_Britain_is_at_War</value>
+</book>
+<author>
+<type>uri</type>
+<value>http://dbpedia.org/resource/Harold_Nicolson</value>
+</author>
+<released>
+<type>typed-literal</type>
+<datatype>http://www.w3.org/2001/XMLSchema#date</datatype>
+<value>1939-11-07+02:00</value>
+</released>
+<wikilink>
+<type>uri</type>
+<value>http://en.wikipedia.org/wiki/Why_Britain_is_at_War?oldid=595439507</value>
+</wikilink>
+</XML_Serializer_Tag>
+</books>
+</Person>

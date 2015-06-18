@@ -1,0 +1,28 @@
+<Person>
+<name>Ernst Toller</name>
+<variantName>
+<XML_Serializer_Tag>Ernest Toller</XML_Serializer_Tag>
+</variantName>
+<thumbnail>https://commons.wikimedia.org/wiki/Special:FilePath/Max_Weber_1917.jpg?width=270</thumbnail>
+<birthEN>December 1, 1893</birthEN>
+<birthDE>1. Dezember 1893</birthDE>
+<deathEN>May 22, 1939</deathEN>
+<deathDE>22. Mai 1939</deathDE>
+<birthPlace>
+<XML_Serializer_Tag>Szamocin</XML_Serializer_Tag>
+</birthPlace>
+<deathPlace>
+<XML_Serializer_Tag>New York, NY</XML_Serializer_Tag>
+</deathPlace>
+<professionOrOccupation>
+<XML_Serializer_Tag>Schriftsteller</XML_Serializer_Tag>
+<XML_Serializer_Tag>Sozialist</XML_Serializer_Tag>
+<XML_Serializer_Tag>Drehbuchautor</XML_Serializer_Tag>
+</professionOrOccupation>
+<dbpResource>http://dbpedia.org/resource/Ernst_Toller</dbpResource>
+<abstract>Ernst Toller (* 1. Dezember 1893 in Samotschin, Provinz Posen; † 22. Mai 1939 in New York City) war ein deutscher Schriftsteller, Politiker und Revolutionär jüdischer Herkunft. Er entging nur knapp einer Verurteilung zum Tode wegen seiner führenden Rolle in der kurzlebigen Münchner Räterepublik als zeitweiliger Vorsitzender der bayerischen USPD (1919). Im Folgenden machte er sich vor allem als Dramatiker einen Namen. Bereits ein Jahr vor der Machtübernahme der Nationalsozialisten emigriert, beging er 1939 in den Vereinigten Staaten mit 45 Jahren Suizid.</abstract>
+<wikilink>http://en.wikipedia.org/wiki/Ernst_Toller?oldid=605480931</wikilink>
+<artworks />
+<buildings />
+<books />
+</Person>

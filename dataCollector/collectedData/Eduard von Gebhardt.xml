@@ -18,8 +18,10 @@
 <professionOrOccupation>
 <XML_Serializer_Tag>Maler</XML_Serializer_Tag>
 </professionOrOccupation>
-<artworks />
 <dbpResource>http://dbpedia.org/resource/Eduard_von_Gebhardt</dbpResource>
 <abstract>Franz Karl Eduard Gebhardt, auch: Eduard von Gebhardt, (* 13. Juni 1838 in Järva-Jaani, heute Kreis Järva, Estland; † 3. Februar 1925 in Düsseldorf) war ein deutscher Maler und Kunstprofessor an der Kunstakademie Düsseldorf.</abstract>
 <wikilink>http://en.wikipedia.org/wiki/Eduard_von_Gebhardt?oldid=587096514</wikilink>
+<artworks />
+<buildings />
+<books />
 </Person>

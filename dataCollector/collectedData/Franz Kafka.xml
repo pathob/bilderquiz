@@ -1,0 +1,411 @@
+<Person>
+<name>Franz Kafka</name>
+<variantName>
+<XML_Serializer_Tag>Franc Kafka</XML_Serializer_Tag>
+<XML_Serializer_Tag>Francas Kafka</XML_Serializer_Tag>
+<XML_Serializer_Tag>Francs Kafka</XML_Serializer_Tag>
+<XML_Serializer_Tag>Frank Kafka</XML_Serializer_Tag>
+<XML_Serializer_Tag>Frānts Kāfkā</XML_Serializer_Tag>
+<XML_Serializer_Tag>Frānts Kāfka</XML_Serializer_Tag>
+<XML_Serializer_Tag>Frants Ḳafḳa</XML_Serializer_Tag>
+<XML_Serializer_Tag>Frānz Kāfkā</XML_Serializer_Tag>
+<XML_Serializer_Tag>F. Kafka</XML_Serializer_Tag>
+<XML_Serializer_Tag>... Kafka</XML_Serializer_Tag>
+<XML_Serializer_Tag>Franzo Kafkos</XML_Serializer_Tag>
+<XML_Serializer_Tag>Furantsu Kafuka</XML_Serializer_Tag>
+<XML_Serializer_Tag>... Kafuka</XML_Serializer_Tag>
+<XML_Serializer_Tag>Phrants Kaphka</XML_Serializer_Tag>
+<XML_Serializer_Tag>Phrāntsa Kāp̱hkā</XML_Serializer_Tag>
+<XML_Serializer_Tag>Fr. Kavka</XML_Serializer_Tag>
+<XML_Serializer_Tag>Franṣ Qafqâ</XML_Serializer_Tag>
+<XML_Serializer_Tag>Ka fu ka</XML_Serializer_Tag>
+<XML_Serializer_Tag>Ka-fu-ka</XML_Serializer_Tag>
+<XML_Serializer_Tag>Kafuka</XML_Serializer_Tag>
+<XML_Serializer_Tag>... Kafuka</XML_Serializer_Tag>
+<XML_Serializer_Tag>كافكا، فرانتس</XML_Serializer_Tag>
+<XML_Serializer_Tag>Φραντς Κάφκα</XML_Serializer_Tag>
+<XML_Serializer_Tag>弗兰茨·卡夫卡</XML_Serializer_Tag>
+<XML_Serializer_Tag>弗兰茨 卡夫卡</XML_Serializer_Tag>
+<XML_Serializer_Tag>פרנץ קאפקא</XML_Serializer_Tag>
+<XML_Serializer_Tag>フランツ・カフカ</XML_Serializer_Tag>
+<XML_Serializer_Tag>フランツ カフカ</XML_Serializer_Tag>
+<XML_Serializer_Tag>فرانز كافكا</XML_Serializer_Tag>
+</variantName>
+<thumbnail>https://commons.wikimedia.org/wiki/Special:FilePath/Kafka1906_cropped.jpg?width=270</thumbnail>
+<birthEN>July 3, 1883</birthEN>
+<birthDE>3. Juli 1883</birthDE>
+<deathEN>June 3, 1924</deathEN>
+<deathDE>3. Juni 1924</deathDE>
+<birthPlace>
+<XML_Serializer_Tag>Prag</XML_Serializer_Tag>
+</birthPlace>
+<deathPlace>
+<XML_Serializer_Tag>Klosterneuburg-Kierling</XML_Serializer_Tag>
+</deathPlace>
+<professionOrOccupation>
+<XML_Serializer_Tag>Schriftsteller</XML_Serializer_Tag>
+<XML_Serializer_Tag>Jurist</XML_Serializer_Tag>
+</professionOrOccupation>
+<dbpResource>http://dbpedia.org/resource/Franz_Kafka</dbpResource>
+<abstract>Franz Kafka (* 3. Juli 1883 in Prag, Österreich-Ungarn; † 3. Juni 1924 in Klosterneuburg-Kierling, Österreich; selten auch tschechisch František Kafka) war ein deutschsprachiger Schriftsteller. Sein Hauptwerk bilden neben drei Romanfragmenten (Der Process, Das Schloss und Der Verschollene) zahlreiche Erzählungen.Kafkas Werke wurden zum größeren Teil erst nach seinem Tod und gegen seine letztwillige Verfügung von Max Brod veröffentlicht, einem engen Freund und Vertrauten, den Kafka als Nachlassverwalter bestimmt hatte. Kafkas Werke zählen zum unbestrittenen Kanon der Weltliteratur.</abstract>
+<wikilink>http://en.wikipedia.org/wiki/Franz_Kafka?oldid=605847527</wikilink>
+<artworks />
+<buildings />
+<books>
+<XML_Serializer_Tag>
+<book>
+<type>uri</type>
+<value>http://dbpedia.org/resource/The_Metamorphosis</value>
+</book>
+<author>
+<type>uri</type>
+<value>http://dbpedia.org/resource/Franz_Kafka</value>
+</author>
+<thumbnail>
+<type>uri</type>
+<value>http://commons.wikimedia.org/wiki/Special:FilePath/Metamorphosis.jpg?width=300</value>
+</thumbnail>
+<released>
+<type>typed-literal</type>
+<datatype>http://www.w3.org/2001/XMLSchema#integer</datatype>
+<value>1915</value>
+</released>
+<wikilink>
+<type>uri</type>
+<value>http://en.wikipedia.org/wiki/The_Metamorphosis?oldid=604296458</value>
+</wikilink>
+<abstract>
+<type>literal</type>
+<xml:lang>de</xml:lang>
+<value>Die Verwandlung ist eine im Jahr 1912 entstandene Erzählung von Franz Kafka, die in seinem Gesamtwerk eine herausragende Stellung einnimmt. Der Text wurde zunächst 1915 im Oktoberheft der Zeitschrift Die Weißen Blätter unter der Redaktion von René Schickele veröffentlicht. Die Erstausgabe in Buchform erschien im Dezember 1915 in der Reihe Der jüngste Tag, herausgegeben von Kurt Wolff.</value>
+</abstract>
+</XML_Serializer_Tag>
+<XML_Serializer_Tag>
+<book>
+<type>uri</type>
+<value>http://dbpedia.org/resource/A_Country_Doctor_(collection)</value>
+</book>
+<author>
+<type>uri</type>
+<value>http://dbpedia.org/resource/Franz_Kafka</value>
+</author>
+<thumbnail>
+<type>uri</type>
+<value>http://commons.wikimedia.org/wiki/Special:FilePath/CountryDoctor.jpg?width=300</value>
+</thumbnail>
+<published>
+<type>typed-literal</type>
+<datatype>http://www.w3.org/2001/XMLSchema#integer</datatype>
+<value>1916</value>
+</published>
+<wikilink>
+<type>uri</type>
+<value>http://en.wikipedia.org/wiki/A_Country_Doctor_(collection)?oldid=584783235</value>
+</wikilink>
+</XML_Serializer_Tag>
+<XML_Serializer_Tag>
+<book>
+<type>uri</type>
+<value>http://dbpedia.org/resource/Contemplation_(Kafka)</value>
+</book>
+<author>
+<type>uri</type>
+<value>http://dbpedia.org/resource/Franz_Kafka</value>
+</author>
+<thumbnail>
+<type>uri</type>
+<value>http://commons.wikimedia.org/wiki/Special:FilePath/Kafka_Betrachtung_1912.jpg?width=300</value>
+</thumbnail>
+<wikilink>
+<type>uri</type>
+<value>http://en.wikipedia.org/wiki/Contemplation_(Kafka)?oldid=596562389</value>
+</wikilink>
+<abstract>
+<type>literal</type>
+<xml:lang>de</xml:lang>
+<value>Entlarvung eines Bauernfängers ist eine kleine Erzählung von Franz Kafka, die 1913 im Rahmen des Sammelbandes Betrachtung erschien. Der Erzähler entzieht sich mühsam dem Zugriff eines Schleppers.</value>
+</abstract>
+</XML_Serializer_Tag>
+<XML_Serializer_Tag>
+<book>
+<type>uri</type>
+<value>http://dbpedia.org/resource/A_Hunger_Artist_(collection)</value>
+</book>
+<author>
+<type>uri</type>
+<value>http://dbpedia.org/resource/Franz_Kafka</value>
+</author>
+<thumbnail>
+<type>uri</type>
+<value>http://commons.wikimedia.org/wiki/Special:FilePath/Kafka_Ein_Hungerkünstler_1924.jpg?width=300</value>
+</thumbnail>
+<wikilink>
+<type>uri</type>
+<value>http://en.wikipedia.org/wiki/A_Hunger_Artist_(collection)?oldid=568100580</value>
+</wikilink>
+</XML_Serializer_Tag>
+<XML_Serializer_Tag>
+<book>
+<type>uri</type>
+<value>http://dbpedia.org/resource/The_Trial</value>
+</book>
+<author>
+<type>uri</type>
+<value>http://dbpedia.org/resource/Franz_Kafka</value>
+</author>
+<released>
+<type>typed-literal</type>
+<datatype>http://www.w3.org/2001/XMLSchema#integer</datatype>
+<value>1925</value>
+</released>
+<wikilink>
+<type>uri</type>
+<value>http://en.wikipedia.org/wiki/The_Trial?oldid=604064432</value>
+</wikilink>
+<abstract>
+<type>literal</type>
+<xml:lang>de</xml:lang>
+<value>Der Process (auch Der Prozeß oder Der Proceß, Titel der Erstausgabe: Der Prozess) ist neben Der Verschollene (auch unter dem Titel Amerika bekannt) und Das Schloss einer von drei unvollendeten und postum erschienenen Romanen von Franz Kafka.</value>
+</abstract>
+</XML_Serializer_Tag>
+<XML_Serializer_Tag>
+<book>
+<type>uri</type>
+<value>http://dbpedia.org/resource/The_Z%C3%BCrau_Aphorisms</value>
+</book>
+<author>
+<type>uri</type>
+<value>http://dbpedia.org/resource/Franz_Kafka</value>
+</author>
+<released>
+<type>typed-literal</type>
+<datatype>http://www.w3.org/2001/XMLSchema#integer</datatype>
+<value>1931</value>
+</released>
+<wikilink>
+<type>uri</type>
+<value>http://en.wikipedia.org/wiki/The_Zürau_Aphorisms?oldid=603413915</value>
+</wikilink>
+<abstract>
+<type>literal</type>
+<xml:lang>de</xml:lang>
+<value>Die Zürauer Aphorismen sind 109 Aphorismen von Franz Kafka, die vom September 1917 bis zum April 1918 entstanden. Max Brod stellte sie unter den Titel „Betrachtungen über Sünde, Hoffnung, Leid und den wahren Weg“.</value>
+</abstract>
+</XML_Serializer_Tag>
+<XML_Serializer_Tag>
+<book>
+<type>uri</type>
+<value>http://dbpedia.org/resource/The_Castle_(novel)</value>
+</book>
+<author>
+<type>uri</type>
+<value>http://dbpedia.org/resource/Franz_Kafka</value>
+</author>
+<released>
+<type>typed-literal</type>
+<datatype>http://www.w3.org/2001/XMLSchema#integer</datatype>
+<value>1926</value>
+</released>
+<wikilink>
+<type>uri</type>
+<value>http://en.wikipedia.org/wiki/The_Castle_(novel)?oldid=605749763</value>
+</wikilink>
+<abstract>
+<type>literal</type>
+<xml:lang>de</xml:lang>
+<value>Das Schloss ist neben Der Verschollene (auch bekannt unter Amerika) und Der Process einer der drei unvollendeten Romane von Franz Kafka. Das 1922 entstandene Werk wurde 1926 von Max Brod postum veröffentlicht. Es schildert den vergeblichen Kampf des Landvermessers K. um Anerkennung seiner beruflichen und privaten Existenz durch ein geheimnisvolles Schloss und dessen Vertreter.</value>
+</abstract>
+</XML_Serializer_Tag>
+<XML_Serializer_Tag>
+<book>
+<type>uri</type>
+<value>http://dbpedia.org/resource/The_Penal_Colony:_Stories_and_Short_Pieces</value>
+</book>
+<author>
+<type>uri</type>
+<value>http://dbpedia.org/resource/Franz_Kafka</value>
+</author>
+<released>
+<type>typed-literal</type>
+<datatype>http://www.w3.org/2001/XMLSchema#integer</datatype>
+<value>1948</value>
+</released>
+<wikilink>
+<type>uri</type>
+<value>http://en.wikipedia.org/wiki/The_Penal_Colony:_Stories_and_Short_Pieces?oldid=599288203</value>
+</wikilink>
+</XML_Serializer_Tag>
+<XML_Serializer_Tag>
+<book>
+<type>uri</type>
+<value>http://dbpedia.org/resource/Letters_to_Ottla</value>
+</book>
+<author>
+<type>uri</type>
+<value>http://dbpedia.org/resource/Franz_Kafka</value>
+</author>
+<released>
+<type>typed-literal</type>
+<datatype>http://www.w3.org/2001/XMLSchema#integer</datatype>
+<value>1974</value>
+</released>
+<wikilink>
+<type>uri</type>
+<value>http://en.wikipedia.org/wiki/Letters_to_Ottla?oldid=591770069</value>
+</wikilink>
+</XML_Serializer_Tag>
+<XML_Serializer_Tag>
+<book>
+<type>uri</type>
+<value>http://dbpedia.org/resource/Letters_to_Felice</value>
+</book>
+<author>
+<type>uri</type>
+<value>http://dbpedia.org/resource/Franz_Kafka</value>
+</author>
+<released>
+<type>typed-literal</type>
+<datatype>http://www.w3.org/2001/XMLSchema#integer</datatype>
+<value>1967</value>
+</released>
+<wikilink>
+<type>uri</type>
+<value>http://en.wikipedia.org/wiki/Letters_to_Felice?oldid=549119607</value>
+</wikilink>
+</XML_Serializer_Tag>
+<XML_Serializer_Tag>
+<book>
+<type>uri</type>
+<value>http://dbpedia.org/resource/Letters_to_Family,_Friends,_and_Editors_(Franz_Kafka)</value>
+</book>
+<author>
+<type>uri</type>
+<value>http://dbpedia.org/resource/Franz_Kafka</value>
+</author>
+<released>
+<type>typed-literal</type>
+<datatype>http://www.w3.org/2001/XMLSchema#integer</datatype>
+<value>1959</value>
+</released>
+<wikilink>
+<type>uri</type>
+<value>http://en.wikipedia.org/wiki/Letters_to_Family,_Friends,_and_Editors_(Franz_Kafka)?oldid=589810537</value>
+</wikilink>
+</XML_Serializer_Tag>
+<XML_Serializer_Tag>
+<book>
+<type>uri</type>
+<value>http://dbpedia.org/resource/The_Complete_Stories_of_Franz_Kafka</value>
+</book>
+<author>
+<type>uri</type>
+<value>http://dbpedia.org/resource/Franz_Kafka</value>
+</author>
+<released>
+<type>typed-literal</type>
+<datatype>http://www.w3.org/2001/XMLSchema#integer</datatype>
+<value>1971</value>
+</released>
+<wikilink>
+<type>uri</type>
+<value>http://en.wikipedia.org/wiki/The_Complete_Stories_of_Franz_Kafka?oldid=604735145</value>
+</wikilink>
+</XML_Serializer_Tag>
+<XML_Serializer_Tag>
+<book>
+<type>uri</type>
+<value>http://dbpedia.org/resource/Parables_and_Paradoxes</value>
+</book>
+<author>
+<type>uri</type>
+<value>http://dbpedia.org/resource/Franz_Kafka</value>
+</author>
+<released>
+<type>typed-literal</type>
+<datatype>http://www.w3.org/2001/XMLSchema#integer</datatype>
+<value>1961</value>
+</released>
+<wikilink>
+<type>uri</type>
+<value>http://en.wikipedia.org/wiki/Parables_and_Paradoxes?oldid=544898780</value>
+</wikilink>
+</XML_Serializer_Tag>
+<XML_Serializer_Tag>
+<book>
+<type>uri</type>
+<value>http://dbpedia.org/resource/Letters_to_Milena</value>
+</book>
+<author>
+<type>uri</type>
+<value>http://dbpedia.org/resource/Franz_Kafka</value>
+</author>
+<released>
+<type>typed-literal</type>
+<datatype>http://www.w3.org/2001/XMLSchema#integer</datatype>
+<value>19521986</value>
+</released>
+<wikilink>
+<type>uri</type>
+<value>http://en.wikipedia.org/wiki/Letters_to_Milena?oldid=544823491</value>
+</wikilink>
+</XML_Serializer_Tag>
+<XML_Serializer_Tag>
+<book>
+<type>uri</type>
+<value>http://dbpedia.org/resource/Amerika_(novel)</value>
+</book>
+<author>
+<type>uri</type>
+<value>http://dbpedia.org/resource/Franz_Kafka</value>
+</author>
+<published>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>*1927  
+*1938</value>
+</published>
+<wikilink>
+<type>uri</type>
+<value>http://en.wikipedia.org/wiki/Amerika_(novel)?oldid=582651612</value>
+</wikilink>
+<abstract>
+<type>literal</type>
+<xml:lang>de</xml:lang>
+<value>Der Verschollene ist neben Das Schloss und Der Process einer der drei unvollendeten Romane von Franz Kafka, entstanden zwischen 1911 und 1914 und 1927 von seinem Freund und Herausgeber Max Brod postum veröffentlicht. In den frühen Ausgaben wurde der Roman unter dem von Brod bestimmten Titel „Amerika“ veröffentlicht.Bereits zu Lebzeiten Kafkas erschien das erste, eigenständige Kapitel Der Heizer im Jahr 1913 im Verlag Kurt Wolff.</value>
+</abstract>
+</XML_Serializer_Tag>
+<XML_Serializer_Tag>
+<book>
+<type>uri</type>
+<value>http://dbpedia.org/resource/The_Great_Wall_of_China_(collection)</value>
+</book>
+<author>
+<type>uri</type>
+<value>http://dbpedia.org/resource/Franz_Kafka</value>
+</author>
+<wikilink>
+<type>uri</type>
+<value>http://en.wikipedia.org/wiki/The_Great_Wall_of_China_(collection)?oldid=592821517</value>
+</wikilink>
+<abstract>
+<type>literal</type>
+<xml:lang>de</xml:lang>
+<value>Beim Bau der Chinesischen Mauer ist eine fragmentarische Erzählung von Franz Kafka, die 1917 entstand und postum veröffentlicht wurde. Sie schildert die Hinwendung des kollektiven Volkes an den Bau der Großen Mauer und deren Mystifizierung. Außerdem wird eine fast allwissende Führerschaft und ein sehr fernes Kaisertum skizziert.Eingebettet in diese Erzählung ist eine Parabel, die, als Eine kaiserliche Botschaft bezeichnet, eine eigenständige Geschichte darstellt und im Rahmen des Bandes Ein Landarzt veröffentlicht wurde.Unter dem Titel Beim Bau der chinesischen Mauer hat Kafkas Freund Max Brod 1931 den ersten Band von Kafkas Prosa aus dem Nachlass herausgegeben.</value>
+</abstract>
+</XML_Serializer_Tag>
+<XML_Serializer_Tag>
+<book>
+<type>uri</type>
+<value>http://dbpedia.org/resource/Description_of_a_Struggle_(collection)</value>
+</book>
+<author>
+<type>uri</type>
+<value>http://dbpedia.org/resource/Franz_Kafka</value>
+</author>
+<wikilink>
+<type>uri</type>
+<value>http://en.wikipedia.org/wiki/Description_of_a_Struggle_(collection)?oldid=562675970</value>
+</wikilink>
+</XML_Serializer_Tag>
+</books>
+</Person>

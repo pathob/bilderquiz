@@ -17,8 +17,10 @@
 <professionOrOccupation>
 <XML_Serializer_Tag>Maler</XML_Serializer_Tag>
 </professionOrOccupation>
-<artworks />
 <dbpResource>http://dbpedia.org/resource/Giovanni_Battista_Casanova</dbpResource>
 <abstract>Giovanni Battista Casanova (* 2. November 1730 in Venedig; † 8. Dezember 1795 in Dresden) war ein italienischer Maler und Zeichner, der überwiegend in Dresden und Rom lebte und arbeitete.</abstract>
 <wikilink>http://en.wikipedia.org/wiki/Giovanni_Battista_Casanova?oldid=602505413</wikilink>
+<artworks />
+<buildings />
+<books />
 </Person>

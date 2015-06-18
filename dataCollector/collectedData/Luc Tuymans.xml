@@ -11,8 +11,10 @@
 <professionOrOccupation>
 <XML_Serializer_Tag>Maler</XML_Serializer_Tag>
 </professionOrOccupation>
-<artworks />
 <dbpResource>http://dbpedia.org/resource/Luc_Tuymans</dbpResource>
 <abstract>Luc Tuymans (* 1958 in Mortsel, Belgien) ist ein belgischer Maler. Er lebt und arbeitet in Antwerpen.</abstract>
 <wikilink>http://en.wikipedia.org/wiki/Luc_Tuymans?oldid=602163443</wikilink>
+<artworks />
+<buildings />
+<books />
 </Person>

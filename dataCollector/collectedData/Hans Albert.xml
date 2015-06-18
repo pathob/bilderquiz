@@ -1,0 +1,26 @@
+<Person>
+<name>Hans Albert</name>
+<variantName>
+<XML_Serializer_Tag>Hans Albrecht</XML_Serializer_Tag>
+<XML_Serializer_Tag>H. Albert</XML_Serializer_Tag>
+</variantName>
+<thumbnail>https://commons.wikimedia.org/wiki/Special:FilePath/Hans_Albert_2005.jpg?width=270</thumbnail>
+<birthEN>1921</birthEN>
+<birthDE>1921</birthDE>
+<deathEN />
+<deathDE />
+<birthPlace>
+<XML_Serializer_Tag>Köln</XML_Serializer_Tag>
+</birthPlace>
+<deathPlace />
+<professionOrOccupation>
+<XML_Serializer_Tag>Soziologe</XML_Serializer_Tag>
+<XML_Serializer_Tag>Philosoph</XML_Serializer_Tag>
+</professionOrOccupation>
+<dbpResource>http://dbpedia.org/resource/Hans_Albert</dbpResource>
+<abstract>Hans Albert (* 8. Februar 1921 in Köln) ist ein deutscher Soziologe, Philosoph und Hochschullehrer. Von 1963 bis 1989 war er Inhaber des Lehrstuhls für Soziologie und Wissenschaftslehre an der Universität Mannheim. Er gilt als ein Hauptvertreter des Kritischen Rationalismus.</abstract>
+<wikilink>http://en.wikipedia.org/wiki/Hans_Albert?oldid=594330064</wikilink>
+<artworks />
+<buildings />
+<books />
+</Person>

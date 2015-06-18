@@ -1,0 +1,33 @@
+<Person>
+<name>Giovanni Lami</name>
+<variantName>
+<XML_Serializer_Tag>Johannes Lamius</XML_Serializer_Tag>
+<XML_Serializer_Tag>Joh. Lamius</XML_Serializer_Tag>
+<XML_Serializer_Tag>Joannes Lamius</XML_Serializer_Tag>
+<XML_Serializer_Tag>Chariton</XML_Serializer_Tag>
+<XML_Serializer_Tag>Charito</XML_Serializer_Tag>
+<XML_Serializer_Tag>Giuseppe C. Bini</XML_Serializer_Tag>
+<XML_Serializer_Tag>Cesellio Filomastige</XML_Serializer_Tag>
+<XML_Serializer_Tag>M. Thymoleon</XML_Serializer_Tag>
+<XML_Serializer_Tag>Thymoleon</XML_Serializer_Tag>
+<XML_Serializer_Tag>Aniceto Nemesio</XML_Serializer_Tag>
+<XML_Serializer_Tag>... Lami</XML_Serializer_Tag>
+</variantName>
+<thumbnail>https://commons.wikimedia.org/wiki/Special:FilePath/Lami(3).jpg?width=270</thumbnail>
+<birthEN>1697</birthEN>
+<birthDE>1697</birthDE>
+<deathEN>1770</deathEN>
+<deathDE>1770</deathDE>
+<birthPlace />
+<deathPlace />
+<professionOrOccupation>
+<XML_Serializer_Tag>Bibliothekar</XML_Serializer_Tag>
+<XML_Serializer_Tag>Schriftsteller</XML_Serializer_Tag>
+</professionOrOccupation>
+<dbpResource>http://dbpedia.org/resource/Giovanni_Lami</dbpResource>
+<abstract>Giovanni Lami, auch: Joannes oder Johannes Lamius (* 8. November 1697 in Santa Croce sull’Arno; † 6. Februar 1770 in Florenz), war ein italienischer Rechtsgelehrter, Philologe und Bibliothekar. Er veröffentlichte Werke zur Kirchengeschichte und katalogisierte als Direktor der Biblioteca Riccardiana deren Bestände.</abstract>
+<wikilink>http://en.wikipedia.org/wiki/Giovanni_Lami?oldid=583660109</wikilink>
+<artworks />
+<buildings />
+<books />
+</Person>

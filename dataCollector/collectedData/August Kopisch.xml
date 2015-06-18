@@ -16,8 +16,29 @@
 <XML_Serializer_Tag>Schriftsteller</XML_Serializer_Tag>
 <XML_Serializer_Tag>Maler</XML_Serializer_Tag>
 </professionOrOccupation>
-<artworks />
 <dbpResource>http://dbpedia.org/resource/August_Kopisch</dbpResource>
 <abstract>August Kopisch (* 26. Mai 1799 in Breslau; † 6. Februar 1853 in Berlin) war ein deutscher Historienmaler und Schriftsteller.</abstract>
 <wikilink>http://en.wikipedia.org/wiki/August_Kopisch?oldid=594278519</wikilink>
+<artworks />
+<buildings />
+<books>
+<XML_Serializer_Tag>
+<book>
+<type>uri</type>
+<value>http://dbpedia.org/resource/Entdeckung_der_blauen_Grotte_auf_der_Insel_Capri</value>
+</book>
+<author>
+<type>uri</type>
+<value>http://dbpedia.org/resource/August_Kopisch</value>
+</author>
+<thumbnail>
+<type>uri</type>
+<value>http://commons.wikimedia.org/wiki/Special:FilePath/Jakob_Alt_-_Die_Blaue_Grotte_auf_der_Insel_Capri_-_1835-36.jpeg?width=300</value>
+</thumbnail>
+<wikilink>
+<type>uri</type>
+<value>http://en.wikipedia.org/wiki/Entdeckung_der_blauen_Grotte_auf_der_Insel_Capri?oldid=578361654</value>
+</wikilink>
+</XML_Serializer_Tag>
+</books>
 </Person>

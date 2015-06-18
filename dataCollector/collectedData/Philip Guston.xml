@@ -15,8 +15,10 @@
 <professionOrOccupation>
 <XML_Serializer_Tag>Maler</XML_Serializer_Tag>
 </professionOrOccupation>
-<artworks />
 <dbpResource>http://dbpedia.org/resource/Philip_Guston</dbpResource>
 <abstract>Philip Guston (* 27. Juni 1913 als Phillip Goldstein in Montreal, Kanada; † 7. Juni 1980 in Woodstock, New York) war ein US-amerikanischer Maler. Er gehörte zu den bedeutendsten Vertretern des Abstrakten Expressionismus. Er gilt als Vorläufer des New Image Painting.</abstract>
 <wikilink>http://en.wikipedia.org/wiki/Philip_Guston?oldid=604377849</wikilink>
+<artworks />
+<buildings />
+<books />
 </Person>

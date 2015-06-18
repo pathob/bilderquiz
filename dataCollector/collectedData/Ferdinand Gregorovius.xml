@@ -1,0 +1,39 @@
+<Person>
+<name>Ferdinand Gregorovius</name>
+<variantName>
+<XML_Serializer_Tag>Ferdinando Gregorovius</XML_Serializer_Tag>
+<XML_Serializer_Tag>Ferdinand Adolf Gregorovius</XML_Serializer_Tag>
+<XML_Serializer_Tag>Ferdinand A. Gregorovius</XML_Serializer_Tag>
+<XML_Serializer_Tag>Ferdynand Gregorovius</XML_Serializer_Tag>
+<XML_Serializer_Tag>Ferdinand Gregovius</XML_Serializer_Tag>
+<XML_Serializer_Tag>Pherntinant Gkrenkorobius</XML_Serializer_Tag>
+<XML_Serializer_Tag>Ferdinand Fuchsmund</XML_Serializer_Tag>
+<XML_Serializer_Tag>Conrad Siebenhorn</XML_Serializer_Tag>
+<XML_Serializer_Tag>Konrad Siebenhorn</XML_Serializer_Tag>
+<XML_Serializer_Tag>Fr. Gregorovius</XML_Serializer_Tag>
+<XML_Serializer_Tag>F. Gregorovius</XML_Serializer_Tag>
+</variantName>
+<thumbnail>https://de.wikipedia.org/wiki/Special:FilePath/Gregorovius.jpg?width=270</thumbnail>
+<birthEN>January 19, 1821</birthEN>
+<birthDE>19. Januar 1821</birthDE>
+<deathEN>May 1, 1891</deathEN>
+<deathDE>1. Mai 1891</deathDE>
+<birthPlace>
+<XML_Serializer_Tag>Neidenburg</XML_Serializer_Tag>
+</birthPlace>
+<deathPlace>
+<XML_Serializer_Tag>München</XML_Serializer_Tag>
+</deathPlace>
+<professionOrOccupation>
+<XML_Serializer_Tag>Historiker</XML_Serializer_Tag>
+<XML_Serializer_Tag>Journalist</XML_Serializer_Tag>
+<XML_Serializer_Tag>Lyriker</XML_Serializer_Tag>
+<XML_Serializer_Tag>Schriftsteller</XML_Serializer_Tag>
+</professionOrOccupation>
+<dbpResource>http://dbpedia.org/resource/Ferdinand_Gregorovius</dbpResource>
+<abstract>Ferdinand Gregorovius (* 19. Januar 1821 in Neidenburg (Ostpreußen); † 1. Mai 1891 in München) war ein deutscher Schriftsteller und Historiker.</abstract>
+<wikilink>http://en.wikipedia.org/wiki/Ferdinand_Gregorovius?oldid=604028342</wikilink>
+<artworks />
+<buildings />
+<books />
+</Person>

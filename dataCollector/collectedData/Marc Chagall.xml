@@ -1,0 +1,68 @@
+<Person>
+<name>Marc Chagall</name>
+<variantName>
+<XML_Serializer_Tag>... Chagall</XML_Serializer_Tag>
+<XML_Serializer_Tag>Mark Chagal</XML_Serializer_Tag>
+<XML_Serializer_Tag>Mark Šagals</XML_Serializer_Tag>
+<XML_Serializer_Tag>Mark Z. Šagal</XML_Serializer_Tag>
+<XML_Serializer_Tag>Mark Šagal</XML_Serializer_Tag>
+<XML_Serializer_Tag>Maruku Shiyagāru</XML_Serializer_Tag>
+<XML_Serializer_Tag>Marca Ščagal</XML_Serializer_Tag>
+<XML_Serializer_Tag>מארק שאגאל</XML_Serializer_Tag>
+</variantName>
+<thumbnail>https://commons.wikimedia.org/wiki/Special:FilePath/Marc_Chagall_1941.jpg?width=270</thumbnail>
+<birthEN>1887</birthEN>
+<birthDE>1887</birthDE>
+<deathEN>1985</deathEN>
+<deathDE>1985</deathDE>
+<birthPlace />
+<deathPlace />
+<professionOrOccupation>
+<XML_Serializer_Tag>Künstler</XML_Serializer_Tag>
+</professionOrOccupation>
+<dbpResource>http://dbpedia.org/resource/Marc_Chagall</dbpResource>
+<abstract>Marc Chagall (* 24. Junijul./ 6. Juli 1887greg. in Peskowatik bei Witebsk, Russisches Kaiserreich, heute Weißrussland; † 28. März 1985 in Saint-Paul-de-Vence, Frankreich) war ein französischer Maler russisch-jüdischer Herkunft. Sein ursprünglicher russischer Name war Мойше Хацкелевич Шагалов / Moische Chazkelewitsch Schagalow.Das familiäre Umfeld, sein Heimatort Witebsk, Motive aus der Bibel sowie aus dem Zirkus sind Hauptthemen seiner Bilder. Auch in seinen Mosaiken und in den von ihm gestalteten Fenstern und Theaterkulissen verwendete er die gleichen, stets wiederkehrenden Symbole. Chagall gilt als einer der bedeutendsten Maler des 20. Jahrhunderts. Er wird oft dem Expressionismus zugeordnet und als „Maler-Poet“ bezeichnet.</abstract>
+<wikilink>http://en.wikipedia.org/wiki/Marc_Chagall?oldid=606588217</wikilink>
+<artworks>
+<XML_Serializer_Tag>
+<artwork>
+<type>uri</type>
+<value>http://dbpedia.org/resource/White_Crucifixion</value>
+</artwork>
+<thumbnail>
+<type>uri</type>
+<value>http://commons.wikimedia.org/wiki/Special:FilePath/White_crucifixion.jpg?width=300</value>
+</thumbnail>
+<name>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>White Crucifixion</value>
+</name>
+<wikilink>
+<type>uri</type>
+<value>http://en.wikipedia.org/wiki/White_Crucifixion?oldid=580087412</value>
+</wikilink>
+</XML_Serializer_Tag>
+<XML_Serializer_Tag>
+<artwork>
+<type>uri</type>
+<value>http://dbpedia.org/resource/The_Yellow_Crucifixion</value>
+</artwork>
+<thumbnail>
+<type>uri</type>
+<value>http://commons.wikimedia.org/wiki/Special:FilePath/White_crucifixion.jpg?width=300</value>
+</thumbnail>
+<name>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>The Yellow Crucifixion</value>
+</name>
+<wikilink>
+<type>uri</type>
+<value>http://en.wikipedia.org/wiki/The_Yellow_Crucifixion?oldid=595055775</value>
+</wikilink>
+</XML_Serializer_Tag>
+</artworks>
+<buildings />
+<books />
+</Person>

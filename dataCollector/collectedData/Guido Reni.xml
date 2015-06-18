@@ -22,12 +22,15 @@
 <XML_Serializer_Tag>Maler</XML_Serializer_Tag>
 <XML_Serializer_Tag>Radierer</XML_Serializer_Tag>
 </professionOrOccupation>
+<dbpResource>http://dbpedia.org/resource/Guido_Reni</dbpResource>
+<abstract>Guido Reni (* 4. November 1575 in Calvenzano; † 18. August 1642 in Bologna) war ein italienischer Maler und Radierer.</abstract>
+<wikilink>http://en.wikipedia.org/wiki/Guido_Reni?oldid=604940247</wikilink>
 <artworks>
 <XML_Serializer_Tag>
-<painting>
+<artwork>
 <type>uri</type>
 <value>http://dbpedia.org/resource/Massacre_of_the_Innocents_(Guido_Reni)</value>
-</painting>
+</artwork>
 <thumbnail>
 <type>uri</type>
 <value>http://commons.wikimedia.org/wiki/Special:FilePath/Guido_Reni_-_Massacre_of_the_Innocents.jpg?width=300</value>
@@ -46,12 +49,17 @@
 <type>uri</type>
 <value>http://en.wikipedia.org/wiki/Massacre_of_the_Innocents_(Guido_Reni)?oldid=605786982</value>
 </wikilink>
+<type>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>Oil on canvas</value>
+</type>
 </XML_Serializer_Tag>
 <XML_Serializer_Tag>
-<painting>
+<artwork>
 <type>uri</type>
 <value>http://dbpedia.org/resource/The_Rape_of_Europa_(Reni)</value>
-</painting>
+</artwork>
 <thumbnail>
 <type>uri</type>
 <value>http://commons.wikimedia.org/wiki/Special:FilePath/Guido_Reni_055.jpg?width=300</value>
@@ -70,9 +78,12 @@
 <type>uri</type>
 <value>http://en.wikipedia.org/wiki/The_Rape_of_Europa_(Reni)?oldid=578153497</value>
 </wikilink>
+<type>
+<type>uri</type>
+<value>http://dbpedia.org/resource/Oil_painting</value>
+</type>
 </XML_Serializer_Tag>
 </artworks>
-<dbpResource>http://dbpedia.org/resource/Guido_Reni</dbpResource>
-<abstract>Guido Reni (* 4. November 1575 in Calvenzano; † 18. August 1642 in Bologna) war ein italienischer Maler und Radierer.</abstract>
-<wikilink>http://en.wikipedia.org/wiki/Guido_Reni?oldid=604940247</wikilink>
+<buildings />
+<books />
 </Person>

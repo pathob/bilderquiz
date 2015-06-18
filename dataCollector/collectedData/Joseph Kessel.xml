@@ -1,0 +1,59 @@
+<Person>
+<name>Joseph Kessel</name>
+<variantName>
+<XML_Serializer_Tag>Joseph Élie Kessel</XML_Serializer_Tag>
+<XML_Serializer_Tag>Joseph-Élie Kessel</XML_Serializer_Tag>
+<XML_Serializer_Tag>J. Kessel</XML_Serializer_Tag>
+<XML_Serializer_Tag>Zh. Kesselʹ</XML_Serializer_Tag>
+<XML_Serializer_Tag>Zhozef Kesselʹ</XML_Serializer_Tag>
+<XML_Serializer_Tag>Ž. Kesselʹ</XML_Serializer_Tag>
+<XML_Serializer_Tag>Žozef Kesselʹ</XML_Serializer_Tag>
+<XML_Serializer_Tag>Yosef Ḳesel</XML_Serializer_Tag>
+</variantName>
+<thumbnail>https://commons.wikimedia.org/wiki/Special:FilePath/Joseph_Kessel.jpg?width=270</thumbnail>
+<birthEN>February 10, 1898</birthEN>
+<birthDE>10. Februar 1898</birthDE>
+<deathEN>July 23, 1979</deathEN>
+<deathDE>23. Juli 1979</deathDE>
+<birthPlace>
+<XML_Serializer_Tag>Clara, Argentinien</XML_Serializer_Tag>
+</birthPlace>
+<deathPlace>
+<XML_Serializer_Tag>bei Paris, Frankriech</XML_Serializer_Tag>
+</deathPlace>
+<professionOrOccupation>
+<XML_Serializer_Tag>Schriftsteller</XML_Serializer_Tag>
+<XML_Serializer_Tag>Drehbuchautor</XML_Serializer_Tag>
+</professionOrOccupation>
+<dbpResource>http://dbpedia.org/resource/Joseph_Kessel</dbpResource>
+<abstract>Joseph Kessel (* 10. Februar 1898 in Entre Ríos, Argentinien; † 23. Juli 1979 in Avernes, Val-d’Oise) war ein französischer Journalist, Abenteurer und Romancier.</abstract>
+<wikilink>http://en.wikipedia.org/wiki/Joseph_Kessel?oldid=603202524</wikilink>
+<artworks />
+<buildings />
+<books>
+<XML_Serializer_Tag>
+<book>
+<type>uri</type>
+<value>http://dbpedia.org/resource/The_Lion</value>
+</book>
+<author>
+<type>uri</type>
+<value>http://dbpedia.org/resource/Joseph_Kessel</value>
+</author>
+<released>
+<type>typed-literal</type>
+<datatype>http://www.w3.org/2001/XMLSchema#integer</datatype>
+<value>1958</value>
+</released>
+<wikilink>
+<type>uri</type>
+<value>http://en.wikipedia.org/wiki/The_Lion?oldid=606627629</value>
+</wikilink>
+<abstract>
+<type>literal</type>
+<xml:lang>de</xml:lang>
+<value>Patricia und der Löwe (Originaltitel Le Lion) ist ein 1958 veröffentlichter, französischer Roman von Joseph Kessel. Er handelt von einem Reisenden, wahrscheinlich dem Autor selbst, der sich in Kenia in einem Nationalpark begibt und dort ein 13-jähriges Mädchen namens Patricia kennenlernt. Patricia spricht sämtliche Sprachen der Einheimischen und kann mit Tieren kommunizieren. Ihr bester Freund ist ein Löwe namens King, den sie seit seiner Geburt kennt und mit dem sie aufgewachsen ist. Die bislang (2008) einzige deutschsprachige Übertragung stammt von Karl Rauch und erschien erstmals 1959 im Zettner-Verlag, Würzburg und Wien.</value>
+</abstract>
+</XML_Serializer_Tag>
+</books>
+</Person>

@@ -1,0 +1,29 @@
+<Person>
+<name>Pavel Kohout</name>
+<variantName>
+<XML_Serializer_Tag>Pavel Kogout</XML_Serializer_Tag>
+<XML_Serializer_Tag>Pawel Kohout</XML_Serializer_Tag>
+<XML_Serializer_Tag>P. Kohout</XML_Serializer_Tag>
+<XML_Serializer_Tag>Pavel Kohut</XML_Serializer_Tag>
+<XML_Serializer_Tag>Pabel Kochut</XML_Serializer_Tag>
+<XML_Serializer_Tag>Pavel Kohout</XML_Serializer_Tag>
+</variantName>
+<thumbnail>https://commons.wikimedia.org/wiki/Special:FilePath/2008.03.12._Pavel_Kohout_by_Kubik_01.JPG?width=270</thumbnail>
+<birthEN>1928</birthEN>
+<birthDE>1928</birthDE>
+<deathEN />
+<deathDE />
+<birthPlace>
+<XML_Serializer_Tag>Prag</XML_Serializer_Tag>
+</birthPlace>
+<deathPlace />
+<professionOrOccupation>
+<XML_Serializer_Tag>Schriftsteller</XML_Serializer_Tag>
+</professionOrOccupation>
+<dbpResource>http://dbpedia.org/resource/Pavel_Kohout</dbpResource>
+<abstract>Pavel Kohout (* 20. Juli 1928 in Prag) ist ein tschechisch-österreichischer Schriftsteller und Politiker.</abstract>
+<wikilink>http://en.wikipedia.org/wiki/Pavel_Kohout?oldid=602044014</wikilink>
+<artworks />
+<buildings />
+<books />
+</Person>

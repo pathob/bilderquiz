@@ -1,0 +1,46 @@
+<Person>
+<name>Hal Draper</name>
+<variantName />
+<thumbnail>https://en.wikipedia.org/wiki/Special:FilePath/Draper-hal.jpg?width=270</thumbnail>
+<birthEN>September 19, 1914</birthEN>
+<birthDE>19. September 1914</birthDE>
+<deathEN>January 26, 1990</deathEN>
+<deathDE>26. Januar 1990</deathDE>
+<birthPlace>
+<XML_Serializer_Tag>Brooklyn, NY</XML_Serializer_Tag>
+</birthPlace>
+<deathPlace>
+<XML_Serializer_Tag>Berkeley, Calif.</XML_Serializer_Tag>
+</deathPlace>
+<professionOrOccupation>
+<XML_Serializer_Tag>Politologe</XML_Serializer_Tag>
+<XML_Serializer_Tag>Autor</XML_Serializer_Tag>
+<XML_Serializer_Tag>Übersetzer</XML_Serializer_Tag>
+</professionOrOccupation>
+<dbpResource>http://dbpedia.org/resource/Hal_Draper</dbpResource>
+<abstract>Hal Draper (* 19. September 1914 in Brooklyn; † 26. Januar 1990 in Berkeley, Kalifornien) war ein US-amerikanischer Sozialist, Marxismusforscher, Autor und Übersetzer. Seine bekanntesten Werke sind die vierbändige Studie Karl Marx’s Theory of Revolution, daneben sein kürzerer Essay Die zwei Seelen des Sozialismus, in denen er autoritäre und anti-autoritäre Sozialismusvarianten voneinander abgrenzt. Daneben erstellte er eine Neuübersetzung der Lyrik Heinrich Heines ins Englische.In den USA war er Mitglied folgender Organisationen: :Young People&apos;s Socialist LeagueSocialist Workers Party (1938–1940)Workers Party später in Independent Socialist League umbenannt (1940–1958)Socialist Party of America (1958–1964)Free Speech Movement Berkeley 1964Independent Socialists(1964–1968)International Socialists (1968–1971)</abstract>
+<wikilink>http://en.wikipedia.org/wiki/Hal_Draper?oldid=606135299</wikilink>
+<artworks />
+<buildings />
+<books>
+<XML_Serializer_Tag>
+<book>
+<type>uri</type>
+<value>http://dbpedia.org/resource/Karl_Marx&apos;s_Theory_of_Revolution</value>
+</book>
+<author>
+<type>uri</type>
+<value>http://dbpedia.org/resource/Hal_Draper</value>
+</author>
+<published>
+<type>typed-literal</type>
+<datatype>http://www.w3.org/2001/XMLSchema#integer</datatype>
+<value>1977</value>
+</published>
+<wikilink>
+<type>uri</type>
+<value>http://en.wikipedia.org/wiki/Karl_Marx&apos;s_Theory_of_Revolution?oldid=602341589</value>
+</wikilink>
+</XML_Serializer_Tag>
+</books>
+</Person>

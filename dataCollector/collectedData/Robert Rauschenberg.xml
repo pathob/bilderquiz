@@ -20,8 +20,10 @@
 <XML_Serializer_Tag>Künstler</XML_Serializer_Tag>
 <XML_Serializer_Tag>Maler</XML_Serializer_Tag>
 </professionOrOccupation>
-<artworks />
 <dbpResource>http://dbpedia.org/resource/Robert_Rauschenberg</dbpResource>
 <abstract>Robert Milton Ernest Rauschenberg (* 22. Oktober 1925 in Port Arthur, Texas; † 12. Mai 2008 auf Captiva Island, Florida) war ein US-amerikanischer Maler, Grafiker, Fotograf und Objektkünstler und ein Wegbereiter der Pop Art im 20. Jahrhundert, obgleich sein vielschichtiges Werk sich nicht für diese Stilrichtung vereinnahmen lässt.Rauschenberg glaubte, dass die von ihm angestrebte Wiedervereinigung der künstlerischen Bildwirklichkeit mit der Lebenswirklichkeit am besten dadurch erreicht werden könne, indem man Teile der realen Welt unverändert in die Kunst hereinholt.So kombinierte er in seinen Werken etwa Tennisbälle, Autoreifen, Fahrräder und ausgestopfte Ziegen auf hintersinnige Weise. Anders als andere Materialkünstler veränderte er diese materiellen Reste der „realen Welt“ jedoch nicht, sondern beließ sie so, wie sie sind.</abstract>
 <wikilink>http://en.wikipedia.org/wiki/Robert_Rauschenberg?oldid=601511133</wikilink>
+<artworks />
+<buildings />
+<books />
 </Person>

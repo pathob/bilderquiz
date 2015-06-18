@@ -1,0 +1,42 @@
+<Person>
+<name>Muriel Barbery</name>
+<variantName />
+<thumbnail>https://commons.wikimedia.org/wiki/Special:FilePath/Muriel_Barbery.jpg?width=270</thumbnail>
+<birthEN>1969</birthEN>
+<birthDE>1969</birthDE>
+<deathEN />
+<deathDE />
+<birthPlace>
+<XML_Serializer_Tag>Casablanca</XML_Serializer_Tag>
+</birthPlace>
+<deathPlace />
+<professionOrOccupation>
+<XML_Serializer_Tag>Schriftstellerin</XML_Serializer_Tag>
+</professionOrOccupation>
+<dbpResource>http://dbpedia.org/resource/Muriel_Barbery</dbpResource>
+<abstract>Muriel Barbery (* 28. Mai 1969 in Casablanca in Marokko) ist eine französische Philosophieprofessorin und Schriftstellerin.</abstract>
+<wikilink>http://en.wikipedia.org/wiki/Muriel_Barbery?oldid=590250241</wikilink>
+<artworks />
+<buildings />
+<books>
+<XML_Serializer_Tag>
+<book>
+<type>uri</type>
+<value>http://dbpedia.org/resource/The_Elegance_of_the_Hedgehog</value>
+</book>
+<author>
+<type>uri</type>
+<value>http://dbpedia.org/resource/Muriel_Barbery</value>
+</author>
+<wikilink>
+<type>uri</type>
+<value>http://en.wikipedia.org/wiki/The_Elegance_of_the_Hedgehog?oldid=605113356</value>
+</wikilink>
+<abstract>
+<type>literal</type>
+<xml:lang>de</xml:lang>
+<value>Die Eleganz des Igels ist ein Roman der französischen Autorin Muriel Barbery. Die französische Originalausgabe erschien 2006 unter dem Titel L&apos;Élégance du hérisson.</value>
+</abstract>
+</XML_Serializer_Tag>
+</books>
+</Person>

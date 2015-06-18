@@ -15,8 +15,52 @@
 <XML_Serializer_Tag>Maler</XML_Serializer_Tag>
 <XML_Serializer_Tag>Kunstkritiker</XML_Serializer_Tag>
 </professionOrOccupation>
-<artworks />
 <dbpResource>http://dbpedia.org/resource/John_Ruskin</dbpResource>
 <abstract>John Ruskin (* 8. Februar 1819 in London; † 20. Januar 1900 in Brantwood, Lake District in Cumbria) war ein britischer Schriftsteller, Maler, Kunsthistoriker und Sozialphilosoph.</abstract>
 <wikilink>http://en.wikipedia.org/wiki/John_Ruskin?oldid=606140999</wikilink>
+<artworks />
+<buildings />
+<books>
+<XML_Serializer_Tag>
+<book>
+<type>uri</type>
+<value>http://dbpedia.org/resource/The_King_of_the_Golden_River</value>
+</book>
+<author>
+<type>uri</type>
+<value>http://dbpedia.org/resource/John_Ruskin</value>
+</author>
+<thumbnail>
+<type>uri</type>
+<value>http://en.wikipedia.org/wiki/Special:FilePath/Gluck_and_KGR.jpg?width=300</value>
+</thumbnail>
+<released>
+<type>typed-literal</type>
+<datatype>http://www.w3.org/2001/XMLSchema#integer</datatype>
+<value>1842</value>
+</released>
+<wikilink>
+<type>uri</type>
+<value>http://en.wikipedia.org/wiki/The_King_of_the_Golden_River?oldid=567203357</value>
+</wikilink>
+</XML_Serializer_Tag>
+<XML_Serializer_Tag>
+<book>
+<type>uri</type>
+<value>http://dbpedia.org/resource/The_Stones_of_Venice_(book)</value>
+</book>
+<author>
+<type>uri</type>
+<value>http://dbpedia.org/resource/John_Ruskin</value>
+</author>
+<thumbnail>
+<type>uri</type>
+<value>http://commons.wikimedia.org/wiki/Special:FilePath/Kelmscott_Press_-_The_Nature_of_Gothic_by_John_Ruskin_(first_page).jpg?width=300</value>
+</thumbnail>
+<wikilink>
+<type>uri</type>
+<value>http://en.wikipedia.org/wiki/The_Stones_of_Venice_(book)?oldid=602392859</value>
+</wikilink>
+</XML_Serializer_Tag>
+</books>
 </Person>

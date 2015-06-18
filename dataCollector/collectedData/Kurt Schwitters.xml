@@ -25,8 +25,10 @@
 <XML_Serializer_Tag>Komponist</XML_Serializer_Tag>
 <XML_Serializer_Tag>Schriftsteller</XML_Serializer_Tag>
 </professionOrOccupation>
-<artworks />
 <dbpResource>http://dbpedia.org/resource/Kurt_Schwitters</dbpResource>
 <abstract>Kurt Schwitters (* 20. Juni 1887 in Hannover; † 8. Januar 1948 in Kendal, Cumbria, England) war ein deutscher Maler, Dichter, Werbegrafiker und Künstler, der unter dem Kennwort MERZ ein dadaistisches „Gesamtweltbild“ entwickelte. Im Bereich der Installation war er ebenfalls tätig. Seine Werke umfassen die Stilrichtungen Dada, Konstruktivismus und Surrealismus.</abstract>
 <wikilink>http://en.wikipedia.org/wiki/Kurt_Schwitters?oldid=606233444</wikilink>
+<artworks />
+<buildings />
+<books />
 </Person>

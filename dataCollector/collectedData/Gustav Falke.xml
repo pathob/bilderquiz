@@ -1,0 +1,29 @@
+<Person>
+<name>Gustav Falke</name>
+<variantName />
+<thumbnail>https://de.wikipedia.org/wiki/Special:FilePath/WP_Gustav_Falke.jpg?width=270</thumbnail>
+<birthEN>January 11, 1853</birthEN>
+<birthDE>11. Januar 1853</birthDE>
+<deathEN>February 8, 1916</deathEN>
+<deathDE>8. Februar 1916</deathDE>
+<birthPlace>
+<XML_Serializer_Tag>Lübeck</XML_Serializer_Tag>
+</birthPlace>
+<deathPlace>
+<XML_Serializer_Tag>Groß Borstel</XML_Serializer_Tag>
+</deathPlace>
+<professionOrOccupation>
+<XML_Serializer_Tag>Schriftsteller</XML_Serializer_Tag>
+<XML_Serializer_Tag>Lyriker</XML_Serializer_Tag>
+<XML_Serializer_Tag>Erzähler</XML_Serializer_Tag>
+<XML_Serializer_Tag>Kinderbuchautor</XML_Serializer_Tag>
+<XML_Serializer_Tag>Buchhändler</XML_Serializer_Tag>
+<XML_Serializer_Tag>Klavierlehrer</XML_Serializer_Tag>
+</professionOrOccupation>
+<dbpResource>http://dbpedia.org/resource/Gustav_Falke</dbpResource>
+<abstract>Gustav Falke (* 11. Januar 1853 in Lübeck; † 8. Februar 1916 in Hamburg-Groß Borstel) war ein deutscher Schriftsteller.</abstract>
+<wikilink>http://en.wikipedia.org/wiki/Gustav_Falke?oldid=587832798</wikilink>
+<artworks />
+<buildings />
+<books />
+</Person>

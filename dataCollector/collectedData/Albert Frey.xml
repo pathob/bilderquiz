@@ -1,0 +1,48 @@
+<Person>
+<name>Albert Frey</name>
+<variantName />
+<thumbnail>https://commons.wikimedia.org/wiki/Special:FilePath/Palm_Springs_Official_Visitors_Center.jpg?width=270</thumbnail>
+<birthEN>1903</birthEN>
+<birthDE>1903</birthDE>
+<deathEN>1998</deathEN>
+<deathDE>1998</deathDE>
+<birthPlace />
+<deathPlace />
+<professionOrOccupation>
+<XML_Serializer_Tag>Architekt</XML_Serializer_Tag>
+</professionOrOccupation>
+<dbpResource>http://dbpedia.org/resource/Albert_Frey_(architect)</dbpResource>
+<abstract>Albert Frey (* 18. Oktober 1903 in Zürich; † 14. November 1998 in Palm Springs (Kalifornien)) war ein Schweizer Architekt, dessen Hauptwirkungsstätte sich auf Palm Springs konzentrierte und später als desert modernism bezeichnet wurde.</abstract>
+<wikilink>http://en.wikipedia.org/wiki/Albert_Frey_(architect)?oldid=594090301</wikilink>
+<artworks />
+<buildings>
+<XML_Serializer_Tag>
+<building>
+<type>uri</type>
+<value>http://dbpedia.org/resource/Tramway_Gas_Station</value>
+</building>
+<name>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>Tramway Gas Station</value>
+</name>
+<architect>
+<type>uri</type>
+<value>http://dbpedia.org/resource/Albert_Frey_(architect)</value>
+</architect>
+<thumbnail>
+<type>uri</type>
+<value>http://commons.wikimedia.org/wiki/Special:FilePath/Palm_Springs_Official_Visitors_Center.jpg?width=300</value>
+</thumbnail>
+<wikilink>
+<type>uri</type>
+<value>http://en.wikipedia.org/wiki/Tramway_Gas_Station?oldid=567489133</value>
+</wikilink>
+<location>
+<type>uri</type>
+<value>http://dbpedia.org/resource/Palm_Springs,_California</value>
+</location>
+</XML_Serializer_Tag>
+</buildings>
+<books />
+</Person>

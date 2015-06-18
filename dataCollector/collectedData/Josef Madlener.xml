@@ -14,8 +14,10 @@
 <XML_Serializer_Tag>Maler</XML_Serializer_Tag>
 <XML_Serializer_Tag>Grafiker</XML_Serializer_Tag>
 </professionOrOccupation>
-<artworks />
 <dbpResource>http://dbpedia.org/resource/Josef_Madlener</dbpResource>
 <abstract>Josef Madlener (* 16. April 1881 in Amendingen; † 27. Dezember 1967 in Memmingen) war ein deutscher Dichter und Maler.</abstract>
 <wikilink>http://en.wikipedia.org/wiki/Josef_Madlener?oldid=563765685</wikilink>
+<artworks />
+<buildings />
+<books />
 </Person>

@@ -20,8 +20,10 @@
 <XML_Serializer_Tag>Landschaftsmaler</XML_Serializer_Tag>
 <XML_Serializer_Tag>Bildnismaler</XML_Serializer_Tag>
 </professionOrOccupation>
-<artworks />
 <dbpResource>http://dbpedia.org/resource/Jakob_Alt</dbpResource>
 <abstract>Jakob Alt (* 27. September 1789 in Frankfurt am Main; † 30. September 1872 in Wien) war ein deutsch-österreichischer Landschaftsmaler, Zeichner und Lithograf.</abstract>
 <wikilink>http://en.wikipedia.org/wiki/Jakob_Alt?oldid=595727034</wikilink>
+<artworks />
+<buildings />
+<books />
 </Person>

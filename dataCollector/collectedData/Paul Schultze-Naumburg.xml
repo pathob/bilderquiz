@@ -17,8 +17,10 @@
 <XML_Serializer_Tag>Schriftsteller</XML_Serializer_Tag>
 <XML_Serializer_Tag>Maler</XML_Serializer_Tag>
 </professionOrOccupation>
-<artworks />
 <dbpResource>http://dbpedia.org/resource/Paul_Schultze-Naumburg</dbpResource>
 <abstract>Paul Schultze-Naumburg, eigentlich Paul Eduard Schultze (* 10. Juni 1869 in Almrich bei Naumburg, Provinz Sachsen; † 19. Mai 1949 in Jena) war ein deutscher Architekt, Kunsttheoretiker, Maler, Publizist und Politiker (NSDAP).</abstract>
 <wikilink>http://en.wikipedia.org/wiki/Paul_Schultze-Naumburg?oldid=588617081</wikilink>
+<artworks />
+<buildings />
+<books />
 </Person>

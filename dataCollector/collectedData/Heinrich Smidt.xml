@@ -1,0 +1,32 @@
+<Person>
+<name>Heinrich Smidt</name>
+<variantName>
+<XML_Serializer_Tag>Heinrich Schmidt</XML_Serializer_Tag>
+<XML_Serializer_Tag>Smidt von Altona</XML_Serializer_Tag>
+<XML_Serializer_Tag>H. Smidt</XML_Serializer_Tag>
+<XML_Serializer_Tag>Henricus Smidt</XML_Serializer_Tag>
+</variantName>
+<thumbnail>https://commons.wikimedia.org/wiki/Special:FilePath/Heinrich_Smidt_by_Adolf_von_Menzel.jpeg?width=270</thumbnail>
+<birthEN>December 8, 1798</birthEN>
+<birthDE>8. Dezember 1798</birthDE>
+<deathEN>November 3, 1867</deathEN>
+<deathDE>3. November 1867</deathDE>
+<birthPlace>
+<XML_Serializer_Tag>Altona</XML_Serializer_Tag>
+</birthPlace>
+<deathPlace>
+<XML_Serializer_Tag>Berlin</XML_Serializer_Tag>
+</deathPlace>
+<professionOrOccupation>
+<XML_Serializer_Tag>Schriftsteller</XML_Serializer_Tag>
+<XML_Serializer_Tag>Mundartschriftsteller</XML_Serializer_Tag>
+<XML_Serializer_Tag>Bibliothekar</XML_Serializer_Tag>
+<XML_Serializer_Tag>Seemann</XML_Serializer_Tag>
+</professionOrOccupation>
+<dbpResource>http://dbpedia.org/resource/Heinrich_Smidt</dbpResource>
+<abstract>Heinrich Smidt (* 18. Dezember 1798 in Altona; † 3. September 1867 in Berlin) war ein deutscher Schriftsteller.</abstract>
+<wikilink>http://en.wikipedia.org/wiki/Heinrich_Smidt?oldid=545168805</wikilink>
+<artworks />
+<buildings />
+<books />
+</Person>

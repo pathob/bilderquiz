@@ -1,0 +1,33 @@
+<Person>
+<name>Theodor Heuss</name>
+<variantName>
+<XML_Serializer_Tag>Theodor Heuß</XML_Serializer_Tag>
+<XML_Serializer_Tag>Thomas Brackheim</XML_Serializer_Tag>
+<XML_Serializer_Tag>Theodor Heusz</XML_Serializer_Tag>
+<XML_Serializer_Tag>特奥多尔 豪斯</XML_Serializer_Tag>
+</variantName>
+<thumbnail>https://commons.wikimedia.org/wiki/Special:FilePath/Bundesarchiv_Bild_146-1983-098-20a,_Heuss.jpg?width=270</thumbnail>
+<birthEN>January 31, 1884</birthEN>
+<birthDE>31. Januar 1884</birthDE>
+<deathEN>December 12, 1963</deathEN>
+<deathDE>12. Dezember 1963</deathDE>
+<birthPlace>
+<XML_Serializer_Tag>Brackenheim</XML_Serializer_Tag>
+</birthPlace>
+<deathPlace>
+<XML_Serializer_Tag>Stuttgart</XML_Serializer_Tag>
+</deathPlace>
+<professionOrOccupation>
+<XML_Serializer_Tag>Politiker</XML_Serializer_Tag>
+<XML_Serializer_Tag>Journalist</XML_Serializer_Tag>
+<XML_Serializer_Tag>Publizist</XML_Serializer_Tag>
+<XML_Serializer_Tag>Schriftsteller</XML_Serializer_Tag>
+<XML_Serializer_Tag>Historiker</XML_Serializer_Tag>
+</professionOrOccupation>
+<dbpResource>http://dbpedia.org/resource/Theodor_Heuss</dbpResource>
+<abstract>Theodor Heuss (* 31. Januar 1884 in Brackenheim; † 12. Dezember 1963 in Stuttgart) war ein deutscher Journalist, Politikwissenschaftler und fast 60 Jahre aktiver liberaler Politiker (NSV, FVg, FVP, DDP, FDP/DVP). Mit der Gründung der FDP 1948 wurde er deren Vorsitzender. Er war von 1949 bis 1959 der erste Bundespräsident der Bundesrepublik Deutschland.</abstract>
+<wikilink>http://en.wikipedia.org/wiki/Theodor_Heuss?oldid=598403126</wikilink>
+<artworks />
+<buildings />
+<books />
+</Person>

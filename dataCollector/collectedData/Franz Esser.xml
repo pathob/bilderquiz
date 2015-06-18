@@ -11,8 +11,10 @@
 <professionOrOccupation>
 <XML_Serializer_Tag>Maler</XML_Serializer_Tag>
 </professionOrOccupation>
-<artworks />
 <dbpResource>http://dbpedia.org/resource/Franz_Esser</dbpResource>
 <abstract>Franz Esser (* 20. Januar 1900 in Kiel; † 21. September 1982 ebenda), Spitzname „Seppl“, war ein deutscher Fußballspieler. Zu Anfang seiner Karriere war ein reiner Linksaußen, später entwickelte er sich zu einem gefürchteten Torjäger.</abstract>
 <wikilink>http://en.wikipedia.org/wiki/Franz_Esser?oldid=546422374</wikilink>
+<artworks />
+<buildings />
+<books />
 </Person>

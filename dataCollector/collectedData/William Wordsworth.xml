@@ -1,0 +1,24 @@
+<Person>
+<name>William Wordsworth</name>
+<variantName />
+<thumbnail>https://commons.wikimedia.org/wiki/Special:FilePath/William_wordsworth.jpg?width=270</thumbnail>
+<birthEN>April 7, 1770</birthEN>
+<birthDE>7. April 1770</birthDE>
+<deathEN>April 23, 1850</deathEN>
+<deathDE>23. April 1850</deathDE>
+<birthPlace>
+<XML_Serializer_Tag>Cockermouth</XML_Serializer_Tag>
+</birthPlace>
+<deathPlace>
+<XML_Serializer_Tag>Rydel Mount</XML_Serializer_Tag>
+</deathPlace>
+<professionOrOccupation>
+<XML_Serializer_Tag>Schriftsteller</XML_Serializer_Tag>
+</professionOrOccupation>
+<dbpResource>http://dbpedia.org/resource/William_Wordsworth</dbpResource>
+<abstract>William Wordsworth (* 7. April 1770 in Cockermouth, Großbritannien; † 23. April 1850 in Rydal Mount, Großbritannien) war ein britischer Dichter und führendes Mitglied der englischen Romantikbewegung, die er 1798 durch die zusammen mit Samuel Taylor Coleridge verfassten Lyrical Ballads (Lyrische Gedichte) initiierte. Als sein Meisterwerk gilt das frühe autobiografische Gedicht The Prelude (Präludium).</abstract>
+<wikilink>http://en.wikipedia.org/wiki/William_Wordsworth?oldid=606342924</wikilink>
+<artworks />
+<buildings />
+<books />
+</Person>

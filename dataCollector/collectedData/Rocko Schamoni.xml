@@ -1,0 +1,29 @@
+<Person>
+<name>Rocko Schamoni</name>
+<variantName>
+<XML_Serializer_Tag>Tobias Albrecht</XML_Serializer_Tag>
+</variantName>
+<thumbnail>https://commons.wikimedia.org/wiki/Special:FilePath/Rocko_schamoni_gitarre.jpg?width=270</thumbnail>
+<birthEN>1966</birthEN>
+<birthDE>1966</birthDE>
+<deathEN />
+<deathDE />
+<birthPlace>
+<XML_Serializer_Tag>Lütjenburg</XML_Serializer_Tag>
+</birthPlace>
+<deathPlace />
+<professionOrOccupation>
+<XML_Serializer_Tag>Komponist</XML_Serializer_Tag>
+<XML_Serializer_Tag>Autor</XML_Serializer_Tag>
+<XML_Serializer_Tag>Musiker</XML_Serializer_Tag>
+<XML_Serializer_Tag>Schauspieler</XML_Serializer_Tag>
+<XML_Serializer_Tag>Schriftsteller</XML_Serializer_Tag>
+<XML_Serializer_Tag>Drehbuchautor</XML_Serializer_Tag>
+</professionOrOccupation>
+<dbpResource>http://dbpedia.org/resource/Rocko_Schamoni</dbpResource>
+<abstract>Rocko Schamoni (* 8. Mai 1966 in Lütjenburg, eigentlich Tobias Albrecht, weitere Pseudonyme King Rocko Schamoni, Bims Brohm, IBM Citystar, Mike Strecker und Silvio Strecker) ist ein deutscher Entertainer, Musiker, Autor, Schauspieler, Clubbetreiber, festes Mitglied des Komik-Ensembles Studio Braun und Mitglied der Partei Die PARTEI.</abstract>
+<wikilink>http://en.wikipedia.org/wiki/Rocko_Schamoni?oldid=593882360</wikilink>
+<artworks />
+<buildings />
+<books />
+</Person>

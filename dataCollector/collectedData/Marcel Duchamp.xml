@@ -1,0 +1,63 @@
+<Person>
+<name>Marcel Duchamp</name>
+<variantName>
+<XML_Serializer_Tag>Rrose Sélavy</XML_Serializer_Tag>
+<XML_Serializer_Tag>Henri Robert Marcel Duchamp</XML_Serializer_Tag>
+<XML_Serializer_Tag>Maruseru Dyutsuyan</XML_Serializer_Tag>
+<XML_Serializer_Tag>... Duchamp</XML_Serializer_Tag>
+<XML_Serializer_Tag>R. Mutt</XML_Serializer_Tag>
+<XML_Serializer_Tag>Marcel Duchamp-Villon</XML_Serializer_Tag>
+<XML_Serializer_Tag>Henri-Robert-Marcel Duchamp</XML_Serializer_Tag>
+</variantName>
+<thumbnail>https://commons.wikimedia.org/wiki/Special:FilePath/Marcel_Duchamp_01.jpg?width=270</thumbnail>
+<birthEN>July 28, 1887</birthEN>
+<birthDE>28. Juli 1887</birthDE>
+<deathEN>October 2, 1968</deathEN>
+<deathDE>2. Oktober 1968</deathDE>
+<birthPlace />
+<deathPlace />
+<professionOrOccupation>
+<XML_Serializer_Tag>Künstler</XML_Serializer_Tag>
+<XML_Serializer_Tag>Autor</XML_Serializer_Tag>
+</professionOrOccupation>
+<dbpResource>http://dbpedia.org/resource/Marcel_Duchamp</dbpResource>
+<abstract>Marcel Duchamp (* 28. Juli 1887 in Blainville-Crevon; † 2. Oktober 1968 in Neuilly-sur-Seine), eigentlich Henri-Robert-Marcel Duchamp, war ein französisch-US-amerikanischer Maler und Objektkünstler. Er ist Mitbegründer der Konzeptkunst und zählt zu den Wegbegleitern des Dadaismus und Surrealismus. Nach ihm ist der Prix Marcel Duchamp benannt.</abstract>
+<wikilink>http://en.wikipedia.org/wiki/Marcel_Duchamp?oldid=606477866</wikilink>
+<artworks>
+<XML_Serializer_Tag>
+<artwork>
+<type>uri</type>
+<value>http://dbpedia.org/resource/Nude_Descending_a_Staircase,_No._2</value>
+</artwork>
+<thumbnail>
+<type>uri</type>
+<value>http://en.wikipedia.org/wiki/Special:FilePath/Duchamp_-_Nude_Descending_a_Staircase.jpg?width=300</value>
+</thumbnail>
+<name>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>Nude Descending a Staircase, No. 2</value>
+</name>
+<year>
+<type>typed-literal</type>
+<datatype>http://www.w3.org/2001/XMLSchema#integer</datatype>
+<value>1912</value>
+</year>
+<abstract>
+<type>literal</type>
+<xml:lang>de</xml:lang>
+<value>Akt, eine Treppe herabsteigend Nr. 2 (französisch Nu descendant un escalier no. 2) ist der Titel eines Gemäldes von Marcel Duchamp aus dem Jahr 1912. Das Bild ist ein Schlüsselwerk der klassischen Moderne und zählt zu den bekanntesten Kunstwerken des 20. Jahrhunderts. Bei seiner Präsentation im Pariser Salon des Indépendants wurde es von den Salonkubisten abgelehnt und während seiner Ausstellung auf der Armory Show in New York 1913 im Zuge eines pressewirksamen Skandals mit Schmähungen überhäuft. Es befindet sich heute in der Louise and Walter Arensberg Collection des Philadelphia Museum of Art, Philadelphia.</value>
+</abstract>
+<wikilink>
+<type>uri</type>
+<value>http://en.wikipedia.org/wiki/Nude_Descending_a_Staircase,_No._2?oldid=594610450</value>
+</wikilink>
+<type>
+<type>uri</type>
+<value>http://dbpedia.org/resource/Oil_painting</value>
+</type>
+</XML_Serializer_Tag>
+</artworks>
+<buildings />
+<books />
+</Person>

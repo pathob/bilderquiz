@@ -1,0 +1,336 @@
+<Person>
+<name>Thomas Mann</name>
+<variantName>
+<XML_Serializer_Tag>Paul Thomas Mann</XML_Serializer_Tag>
+<XML_Serializer_Tag>Th. Mann</XML_Serializer_Tag>
+<XML_Serializer_Tag>T. Mann</XML_Serializer_Tag>
+<XML_Serializer_Tag>Tamāsa Māna</XML_Serializer_Tag>
+<XML_Serializer_Tag>T&apos;omas Mani</XML_Serializer_Tag>
+<XML_Serializer_Tag>Tūmās Mān</XML_Serializer_Tag>
+<XML_Serializer_Tag>Tuomasi-Man</XML_Serializer_Tag>
+<XML_Serializer_Tag>Tuomasi Man</XML_Serializer_Tag>
+<XML_Serializer_Tag>Tômasu Man</XML_Serializer_Tag>
+<XML_Serializer_Tag>T&apos;omasu Man</XML_Serializer_Tag>
+<XML_Serializer_Tag>T&apos;omasŭ Man</XML_Serializer_Tag>
+<XML_Serializer_Tag>Tômas Mân</XML_Serializer_Tag>
+<XML_Serializer_Tag>Tomas Man</XML_Serializer_Tag>
+<XML_Serializer_Tag>Tomas Manas</XML_Serializer_Tag>
+<XML_Serializer_Tag>Tomasz Mann</XML_Serializer_Tag>
+<XML_Serializer_Tag>Tōmas Mann</XML_Serializer_Tag>
+<XML_Serializer_Tag>Tomas Mann</XML_Serializer_Tag>
+<XML_Serializer_Tag>Tomass Manns</XML_Serializer_Tag>
+<XML_Serializer_Tag>Tōmās Mān</XML_Serializer_Tag>
+<XML_Serializer_Tag>Tômas Man</XML_Serializer_Tag>
+<XML_Serializer_Tag>Tuo ma si Man</XML_Serializer_Tag>
+<XML_Serializer_Tag>Tuomasi-Man</XML_Serializer_Tag>
+<XML_Serializer_Tag>Tuomasi Man</XML_Serializer_Tag>
+<XML_Serializer_Tag>Paul Thomas Mann</XML_Serializer_Tag>
+<XML_Serializer_Tag>Томас Манн</XML_Serializer_Tag>
+<XML_Serializer_Tag>תומס מאן</XML_Serializer_Tag>
+<XML_Serializer_Tag>トーマス マン</XML_Serializer_Tag>
+<XML_Serializer_Tag>مان، توماس</XML_Serializer_Tag>
+<XML_Serializer_Tag>托马斯 曼</XML_Serializer_Tag>
+<XML_Serializer_Tag>托瑪斯 曼</XML_Serializer_Tag>
+</variantName>
+<thumbnail>https://commons.wikimedia.org/wiki/Special:FilePath/Thomas_Mann_1937.jpg?width=270</thumbnail>
+<birthEN>June 6, 1875</birthEN>
+<birthDE>6. Juni 1875</birthDE>
+<deathEN>August 12, 1955</deathEN>
+<deathDE>12. August 1955</deathDE>
+<birthPlace>
+<XML_Serializer_Tag>Lübeck</XML_Serializer_Tag>
+</birthPlace>
+<deathPlace>
+<XML_Serializer_Tag>Zürich</XML_Serializer_Tag>
+</deathPlace>
+<professionOrOccupation>
+<XML_Serializer_Tag>Schriftsteller</XML_Serializer_Tag>
+<XML_Serializer_Tag>Intellektueller</XML_Serializer_Tag>
+<XML_Serializer_Tag>Nobelpreisträger</XML_Serializer_Tag>
+</professionOrOccupation>
+<dbpResource>http://dbpedia.org/resource/Thomas_Mann</dbpResource>
+<abstract>Paul Thomas Mann (* 6. Juni 1875 in Lübeck; † 12. August 1955 in Zürich) war ein deutscher Schriftsteller, der unter der nationalsozialistischen Herrschaft 1933 in die Schweiz emigrierte und 1939 in die USA zog. 1944 wurde er amerikanischer Staatsbürger, kehrte aber 1952 in die Schweiz zurück. Er zählt zu den bedeutendsten Erzählern deutscher Sprache im 20. Jahrhundert.Der aus einer reichen und angesehenen Lübecker Patrizier- und Kaufmannsfamilie stammende Schriftsteller war verheiratet mit Katia Mann (geborene Katharina Hedwig Pringsheim), die ihn zu mehreren seiner literarischen Figuren und Werke inspirierte. Sein älterer Bruder Heinrich und drei seiner sechs Kinder, Erika, Klaus und Golo, waren ebenfalls Schriftsteller.Für seinen ersten Roman Buddenbrooks (1901) erhielt er 1929 den Nobelpreis für Literatur. Es folgten Novellen und Erzählungen wie Tonio Kröger, Tristan und Der Tod in Venedig. 1924 wurde der monumentale Roman Der Zauberberg veröffentlicht, mit dem Mann die Tradition des europäischen Bildungsromans fortführte. Die Eigenarten von Manns Gestaltungskunst sind besonders in diesem Roman voll ausgeprägt. Der Erzähler wahrt eine skeptisch-ironische Distanz zu den Figuren. Es herrscht eine leitmotivische Wiederkehr typischer Konstellationen und ein syntaktisch komplizierter und anspruchsvoller Stil. Diese Merkmale bestimmten auch seine folgenden Arbeiten, bei denen die Novelle Mario und der Zauberer, die Romantetralogie Joseph und seine Brüder sowie das Spätwerk Doktor Faustus hervorzuheben sind.</abstract>
+<wikilink>http://en.wikipedia.org/wiki/Thomas_Mann?oldid=605637828</wikilink>
+<artworks />
+<buildings />
+<books>
+<XML_Serializer_Tag>
+<book>
+<type>uri</type>
+<value>http://dbpedia.org/resource/Tristan_(novella)</value>
+</book>
+<author>
+<type>uri</type>
+<value>http://dbpedia.org/resource/Thomas_Mann</value>
+</author>
+<thumbnail>
+<type>uri</type>
+<value>http://commons.wikimedia.org/wiki/Special:FilePath/Thomas_Mann_Tristan_1903.jpg?width=300</value>
+</thumbnail>
+<released>
+<type>typed-literal</type>
+<datatype>http://www.w3.org/2001/XMLSchema#integer</datatype>
+<value>1903</value>
+</released>
+<wikilink>
+<type>uri</type>
+<value>http://en.wikipedia.org/wiki/Tristan_(novella)?oldid=554501784</value>
+</wikilink>
+<abstract>
+<type>literal</type>
+<xml:lang>de</xml:lang>
+<value>Tristan ist eine Novelle Thomas Manns, die im Herbst des Jahres 1902 entstand und im folgenden Jahr veröffentlicht wurde. Sie ist angelegt als „Burleske“, die den Zusammenstoß von „skurrilem Schönheitssinn“ mit der „praktischen Realität“ beschreibt.</value>
+</abstract>
+</XML_Serializer_Tag>
+<XML_Serializer_Tag>
+<book>
+<type>uri</type>
+<value>http://dbpedia.org/resource/Joseph_and_His_Brothers</value>
+</book>
+<author>
+<type>uri</type>
+<value>http://dbpedia.org/resource/Thomas_Mann</value>
+</author>
+<thumbnail>
+<type>uri</type>
+<value>http://commons.wikimedia.org/wiki/Special:FilePath/Thomas_Mann_Joseph,_der_Ernährer_1943.jpg?width=300</value>
+</thumbnail>
+<released>
+<type>typed-literal</type>
+<datatype>http://www.w3.org/2001/XMLSchema#integer</datatype>
+<value>1943</value>
+</released>
+<wikilink>
+<type>uri</type>
+<value>http://en.wikipedia.org/wiki/Joseph_and_His_Brothers?oldid=602738221</value>
+</wikilink>
+<abstract>
+<type>literal</type>
+<xml:lang>de</xml:lang>
+<value>Joseph und seine Brüder ist eine Roman-Tetralogie von Thomas Mann. Sie ist das umfangreichste Romanwerk des Autors. Die vier Teile wurden zwischen 1933 und 1943 veröffentlicht. Inspiriert durch eine Palästinareise im Jahr 1925 begann Thomas Mann 1926 in München mit der Niederschrift. Die ersten beiden Romane konnten noch bei S. Fischer in Berlin erscheinen. Abgeschlossen wurde der Roman sechzehn Jahre später, 1943, im kalifornischen Exil.Die Tetralogie umfasst die Romane: Die Geschichten Jaakobs (Entstehungszeit: Dezember 1926 – Oktober 1930) Der junge Joseph (Entstehungszeit: Januar 1931 – Juni 1932) Joseph in Ägypten (Entstehungszeit: Juli 1932 – 23. August 1936) Joseph der Ernährer (Entstehungszeit: 10. August 1940 – 4. Januar 1943).</value>
+</abstract>
+</XML_Serializer_Tag>
+<XML_Serializer_Tag>
+<book>
+<type>uri</type>
+<value>http://dbpedia.org/resource/Buddenbrooks</value>
+</book>
+<author>
+<type>uri</type>
+<value>http://dbpedia.org/resource/Thomas_Mann</value>
+</author>
+<thumbnail>
+<type>uri</type>
+<value>http://commons.wikimedia.org/wiki/Special:FilePath/1901_Thomas_Mann_Buddenbrooks.jpg?width=300</value>
+</thumbnail>
+<released>
+<type>typed-literal</type>
+<datatype>http://www.w3.org/2001/XMLSchema#integer</datatype>
+<value>1901</value>
+</released>
+<wikilink>
+<type>uri</type>
+<value>http://en.wikipedia.org/wiki/Buddenbrooks?oldid=605636465</value>
+</wikilink>
+<abstract>
+<type>literal</type>
+<xml:lang>de</xml:lang>
+<value>Buddenbrooks: Verfall einer Familie (1901) ist das früheste unter den großen Werken Thomas Manns und gilt heute als der erste Gesellschaftsroman in deutscher Sprache von Weltgeltung. Er erzählt vom allmählichen, sich über vier Generationen hinziehenden Niedergang einer wohlhabenden Kaufmannsfamilie und illustriert die gesellschaftliche Rolle und Selbstwahrnehmung des hanseatischen Großbürgertums in den Jahren von 1835 bis 1877.Der Roman berichtet jedoch nicht nur vom Ende einer Familie, noch bezeichnet er bloß das Ende der literarischen Überlieferung, von der er selbst ein letztes großes Beispiel ist. Vielmehr weist er auch auf die schöpferischen Kräfte hin, die der Zusammenbruch der alten Ordnung freisetzt. Deshalb ist auch die solide Ordnung der dargestellten Welt weit davon entfernt, antiquiert zu sein. Der Essayist Erich Heller formulierte: „Indem die konventionelle Organisation des Werks die Idee einer Kunst in sich schließt, welche die Konvention zerbrechen muß, widerlegen die Buddenbrooks auf höchst ironische Weise den Verdacht der Konventionalität.“Als Vorlage der Handlung diente Thomas Manns eigene Familiengeschichte. Schauplatz des Geschehens ist seine Heimatstadt Lübeck. Ohne dass der Name der Stadt ausdrücklich erwähnt wird, sind viele Nebenfiguren nachweislich literarische Porträts von Lübecker Persönlichkeiten jener Zeit.</value>
+</abstract>
+</XML_Serializer_Tag>
+<XML_Serializer_Tag>
+<book>
+<type>uri</type>
+<value>http://dbpedia.org/resource/Death_in_Venice</value>
+</book>
+<author>
+<type>uri</type>
+<value>http://dbpedia.org/resource/Thomas_Mann</value>
+</author>
+<thumbnail>
+<type>uri</type>
+<value>http://commons.wikimedia.org/wiki/Special:FilePath/Der_Tod_in_Venedig_Hundertdruck_1912.JPG?width=300</value>
+</thumbnail>
+<released>
+<type>typed-literal</type>
+<datatype>http://www.w3.org/2001/XMLSchema#integer</datatype>
+<value>1912</value>
+</released>
+<wikilink>
+<type>uri</type>
+<value>http://en.wikipedia.org/wiki/Death_in_Venice?oldid=605773778</value>
+</wikilink>
+<abstract>
+<type>literal</type>
+<xml:lang>de</xml:lang>
+<value>Der Tod in Venedig ist eine Novelle von Thomas Mann, die 1911 entstanden ist. Sie erschien zunächst als Luxusdruck in einer Auflage von 100 nummerierten Exemplaren, danach in der Neuen Rundschau und ab 1913 als Einzeldruck im S. Fischer Verlag.Thomas Mann nannte seine Novelle die Tragödie einer Entwürdigung: Gustav von Aschenbach, ein berühmter Schriftsteller von etwas über 50 Jahren und schon länger verwitwet, hat sein Leben ganz auf Leistung gestellt. Eine sommerliche Erholungsreise führt ihn nach Venedig. Dort beobachtet er am Strand täglich einen schönen Knaben, der mit seiner eleganten Mutter und seinen Schwestern samt Gouvernante im selben Hotel wohnt. In ihn verliebt sich der Alternde. Er bewahrt zwar stets eine scheue Distanz zu dem Knaben, der späte Gefühlsrausch jedoch, dem sich der sonst so selbstgestrenge von Aschenbach nun willenlos hingibt, macht aus ihm letztlich einen würdelosen Greis.</value>
+</abstract>
+</XML_Serializer_Tag>
+<XML_Serializer_Tag>
+<book>
+<type>uri</type>
+<value>http://dbpedia.org/resource/The_Magic_Mountain</value>
+</book>
+<author>
+<type>uri</type>
+<value>http://dbpedia.org/resource/Thomas_Mann</value>
+</author>
+<thumbnail>
+<type>uri</type>
+<value>http://commons.wikimedia.org/wiki/Special:FilePath/1924_Der_Zauberberg_(1).jpg?width=300</value>
+</thumbnail>
+<released>
+<type>typed-literal</type>
+<datatype>http://www.w3.org/2001/XMLSchema#integer</datatype>
+<value>1924</value>
+</released>
+<wikilink>
+<type>uri</type>
+<value>http://en.wikipedia.org/wiki/The_Magic_Mountain?oldid=605529447</value>
+</wikilink>
+<abstract>
+<type>literal</type>
+<xml:lang>de</xml:lang>
+<value>Der Zauberberg ist ein 1924 erschienener Bildungsroman von Thomas Mann. Während seines siebenjährigen freiwilligen Aufenthalts in der abgeschlossenen Welt eines Sanatoriums im Hochgebirge trifft der junge Held Hans Castorp auf weltentrückte Figuren, die ihn mit Politik, Philosophie, aber auch Liebe, Krankheit und Tod konfrontieren.</value>
+</abstract>
+</XML_Serializer_Tag>
+<XML_Serializer_Tag>
+<book>
+<type>uri</type>
+<value>http://dbpedia.org/resource/Tonio_Kr%C3%B6ger</value>
+</book>
+<author>
+<type>uri</type>
+<value>http://dbpedia.org/resource/Thomas_Mann</value>
+</author>
+<thumbnail>
+<type>uri</type>
+<value>http://commons.wikimedia.org/wiki/Special:FilePath/(1903)_Tonio_Kröger_11.10.2007.jpg?width=300</value>
+</thumbnail>
+<wikilink>
+<type>uri</type>
+<value>http://en.wikipedia.org/wiki/Tonio_Kröger?oldid=603459713</value>
+</wikilink>
+<abstract>
+<type>literal</type>
+<xml:lang>de</xml:lang>
+<value>Tonio Kröger (1903) ist eine Erzählung Thomas Manns, deren Titelheld, der unverkennbar autobiographische Züge trägt, zwischen Künstlertum und Bürgerlichkeit einen unüberbrückbaren Gegensatz sieht. Sie entstand in der Zeit vom Dezember 1900 bis zum November 1902.</value>
+</abstract>
+</XML_Serializer_Tag>
+<XML_Serializer_Tag>
+<book>
+<type>uri</type>
+<value>http://dbpedia.org/resource/Listen,_Germany!</value>
+</book>
+<author>
+<type>uri</type>
+<value>http://dbpedia.org/resource/Thomas_Mann</value>
+</author>
+<released>
+<type>typed-literal</type>
+<datatype>http://www.w3.org/2001/XMLSchema#integer</datatype>
+<value>1943</value>
+</released>
+<wikilink>
+<type>uri</type>
+<value>http://en.wikipedia.org/wiki/Listen,_Germany!?oldid=594025121</value>
+</wikilink>
+<abstract>
+<type>literal</type>
+<xml:lang>de</xml:lang>
+<value>Deutsche Hörer! ist der Titel einer Reihe von Radioansprachen Thomas Manns, die das deutsche Programm der BBC zwischen Oktober 1940 und Mai 1945 meist regelmäßig einmal monatlich ausstrahlte. Hinzu kamen einzelne Sondersendungen sowie eine letzte Ansprache zu Neujahr 1946.Es handelte sich um insgesamt 58 fünf- bis achtminütige, pointiert formulierte Reden, in denen der Autor sich mit der politischen Lage Deutschlands in der Zeit des Nationalsozialismus befasste, das Kriegsgeschehen kommentierte und mahnende Worte an seine Landsleute richtete.Eine erste Sammlung mit 25 Sendungen wurde 1942 veröffentlicht, eine zweite umfasste 55 Texte.</value>
+</abstract>
+</XML_Serializer_Tag>
+<XML_Serializer_Tag>
+<book>
+<type>uri</type>
+<value>http://dbpedia.org/resource/Lotte_in_Weimar:_The_Beloved_Returns</value>
+</book>
+<author>
+<type>uri</type>
+<value>http://dbpedia.org/resource/Thomas_Mann</value>
+</author>
+<released>
+<type>typed-literal</type>
+<datatype>http://www.w3.org/2001/XMLSchema#integer</datatype>
+<value>1939</value>
+</released>
+<wikilink>
+<type>uri</type>
+<value>http://en.wikipedia.org/wiki/Lotte_in_Weimar:_The_Beloved_Returns?oldid=594195101</value>
+</wikilink>
+<abstract>
+<type>literal</type>
+<xml:lang>de</xml:lang>
+<value>Lotte in Weimar ist ein heiterer Roman Thomas Manns über Johann Wolfgang von Goethe: Die um 44 Jahre gealterte und verwitwete Charlotte Kestner, geb. Buff aus Wetzlar, das literarische Vorbild für Lotte in Die Leiden des jungen Werthers, reist 1816 nach Weimar, vorgeblich, um ihre Schwester zu besuchen, eigentlich aber in der Hoffnung, Goethe wiederzusehen.Das Werk entstand laut Thomas Manns Tagebuch zwischen dem 11. November 1936 und dem 25. Oktober 1939.</value>
+</abstract>
+</XML_Serializer_Tag>
+<XML_Serializer_Tag>
+<book>
+<type>uri</type>
+<value>http://dbpedia.org/resource/Confessions_of_Felix_Krull</value>
+</book>
+<author>
+<type>uri</type>
+<value>http://dbpedia.org/resource/Thomas_Mann</value>
+</author>
+<released>
+<type>typed-literal</type>
+<datatype>http://www.w3.org/2001/XMLSchema#integer</datatype>
+<value>1954</value>
+</released>
+<wikilink>
+<type>uri</type>
+<value>http://en.wikipedia.org/wiki/Confessions_of_Felix_Krull?oldid=588597931</value>
+</wikilink>
+<abstract>
+<type>literal</type>
+<xml:lang>de</xml:lang>
+<value>Bekenntnisse des Hochstaplers Felix Krull. Der Memoiren erster Teil ist ein unvollendet gebliebener Roman von Thomas Mann, der in den Jahren 1910 bis 1913 und zwischen dem 26. Dezember 1950 und dem 16. April 1954 entstand.Geplant war der Hochstaplerroman als eine Parodie auf Goethes Autobiografie Dichtung und Wahrheit. Vordergründig hat Thomas Mann eine travestierende Übertragung des Künstlertums ins Betrügerisch-Kriminelle angestrebt. Der Künstler wird humoristisch in die Nähe des Hochstaplers gerückt. Damit parodiert das Werk den klassischen Bildungs- und Entwicklungsroman und steht sowohl in der Tradition des Abenteuerromans als auch des Schelmenromans.</value>
+</abstract>
+</XML_Serializer_Tag>
+<XML_Serializer_Tag>
+<book>
+<type>uri</type>
+<value>http://dbpedia.org/resource/The_Holy_Sinner</value>
+</book>
+<author>
+<type>uri</type>
+<value>http://dbpedia.org/resource/Thomas_Mann</value>
+</author>
+<released>
+<type>typed-literal</type>
+<datatype>http://www.w3.org/2001/XMLSchema#integer</datatype>
+<value>1951</value>
+</released>
+<wikilink>
+<type>uri</type>
+<value>http://en.wikipedia.org/wiki/The_Holy_Sinner?oldid=591918936</value>
+</wikilink>
+<abstract>
+<type>literal</type>
+<xml:lang>de</xml:lang>
+<value>Der Erwählte ist ein 1951 erschienener Roman des deutschen Schriftstellers Thomas Mann, der laut seinem Tagebuch zwischen dem 21. Januar 1948 und dem 26. Oktober 1950 entstand.</value>
+</abstract>
+</XML_Serializer_Tag>
+<XML_Serializer_Tag>
+<book>
+<type>uri</type>
+<value>http://dbpedia.org/resource/The_Tables_of_the_Law</value>
+</book>
+<author>
+<type>uri</type>
+<value>http://dbpedia.org/resource/Thomas_Mann</value>
+</author>
+<released>
+<type>typed-literal</type>
+<datatype>http://www.w3.org/2001/XMLSchema#integer</datatype>
+<value>1945</value>
+</released>
+<wikilink>
+<type>uri</type>
+<value>http://en.wikipedia.org/wiki/The_Tables_of_the_Law?oldid=601637882</value>
+</wikilink>
+</XML_Serializer_Tag>
+</books>
+</Person>

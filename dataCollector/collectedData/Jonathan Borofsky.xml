@@ -17,12 +17,15 @@
 <XML_Serializer_Tag>Künstler</XML_Serializer_Tag>
 <XML_Serializer_Tag>Konzeptkünstler</XML_Serializer_Tag>
 </professionOrOccupation>
+<dbpResource>http://dbpedia.org/resource/Jonathan_Borofsky</dbpResource>
+<abstract>Jonathan Borofsky (* 2. März 1942 in Boston, Massachusetts) ist ein US-amerikanischer Künstler.</abstract>
+<wikilink>http://en.wikipedia.org/wiki/Jonathan_Borofsky?oldid=606495113</wikilink>
 <artworks>
 <XML_Serializer_Tag>
-<painting>
+<artwork>
 <type>uri</type>
 <value>http://dbpedia.org/resource/Walking_to_the_Sky</value>
-</painting>
+</artwork>
 <thumbnail>
 <type>uri</type>
 <value>http://commons.wikimedia.org/wiki/Special:FilePath/Walking_to_the_sky_in_NY.jpg?width=300</value>
@@ -36,9 +39,13 @@
 <type>uri</type>
 <value>http://en.wikipedia.org/wiki/Walking_to_the_Sky?oldid=597642349</value>
 </wikilink>
+<type>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>Sculpture</value>
+</type>
 </XML_Serializer_Tag>
 </artworks>
-<dbpResource>http://dbpedia.org/resource/Jonathan_Borofsky</dbpResource>
-<abstract>Jonathan Borofsky (* 2. März 1942 in Boston, Massachusetts) ist ein US-amerikanischer Künstler.</abstract>
-<wikilink>http://en.wikipedia.org/wiki/Jonathan_Borofsky?oldid=606495113</wikilink>
+<buildings />
+<books />
 </Person>

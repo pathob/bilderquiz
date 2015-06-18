@@ -12,8 +12,10 @@
 <XML_Serializer_Tag>Künstler</XML_Serializer_Tag>
 <XML_Serializer_Tag>Maler</XML_Serializer_Tag>
 </professionOrOccupation>
-<artworks />
 <dbpResource>http://dbpedia.org/resource/David_Tremlett</dbpResource>
 <abstract>David Tremlett (* 13. Februar 1945 in St. Austell Cornwall, Großbritannien; lebt in Bovingdon, Hertfordshire, Großbritannien) ist ein britischer zeitgenössischer Bildhauer, Installationskünstler, Fotograf und Konzeptkünstler, bekannt für seine Wandzeichnungen und Rauminstallationen.</abstract>
 <wikilink>http://en.wikipedia.org/wiki/David_Tremlett?oldid=590216673</wikilink>
+<artworks />
+<buildings />
+<books />
 </Person>

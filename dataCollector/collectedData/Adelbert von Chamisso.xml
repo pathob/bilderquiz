@@ -1,0 +1,88 @@
+<Person>
+<name>Adelbert von Chamisso</name>
+<variantName>
+<XML_Serializer_Tag>Adelbert v. Chamisso</XML_Serializer_Tag>
+<XML_Serializer_Tag>Adelbert di Chamisso</XML_Serializer_Tag>
+<XML_Serializer_Tag>Adelbert Chamisso</XML_Serializer_Tag>
+<XML_Serializer_Tag>Adelberto de Chamisso</XML_Serializer_Tag>
+<XML_Serializer_Tag>Adalbert v. Chamisso</XML_Serializer_Tag>
+<XML_Serializer_Tag>Adalbert de Chamisso</XML_Serializer_Tag>
+<XML_Serializer_Tag>Adalbert Chamisso</XML_Serializer_Tag>
+<XML_Serializer_Tag>A. v. Chamisso</XML_Serializer_Tag>
+<XML_Serializer_Tag>A. de Chamisso</XML_Serializer_Tag>
+<XML_Serializer_Tag>... Chamisso</XML_Serializer_Tag>
+<XML_Serializer_Tag>... Chamisso-Hechelmann</XML_Serializer_Tag>
+<XML_Serializer_Tag>Louis Charles Adélai͏̈de de Chamisso de Boncourt</XML_Serializer_Tag>
+<XML_Serializer_Tag>Louis C. de Chamisso de Boncourt</XML_Serializer_Tag>
+<XML_Serializer_Tag>Adelbert fon Šamiso</XML_Serializer_Tag>
+<XML_Serializer_Tag>Adelbert Šamiso</XML_Serializer_Tag>
+<XML_Serializer_Tag>... Šamiso</XML_Serializer_Tag>
+<XML_Serializer_Tag>Antalmper phon Samiso</XML_Serializer_Tag>
+<XML_Serializer_Tag>Adel&apos;bert Šamisso</XML_Serializer_Tag>
+<XML_Serializer_Tag>... Shamissô</XML_Serializer_Tag>
+<XML_Serializer_Tag>L. A. von Chamisso</XML_Serializer_Tag>
+<XML_Serializer_Tag>Louis C. Chamisso</XML_Serializer_Tag>
+<XML_Serializer_Tag>A. v. Ch.</XML_Serializer_Tag>
+<XML_Serializer_Tag>Louis Charles Adelaide von Chamisso</XML_Serializer_Tag>
+<XML_Serializer_Tag>Adalb. v. Chamisso</XML_Serializer_Tag>
+<XML_Serializer_Tag>Ludwig C. A. Chamisso de Boncourt</XML_Serializer_Tag>
+<XML_Serializer_Tag>Adelbert de Chamisso</XML_Serializer_Tag>
+<XML_Serializer_Tag>Adelbertus de Chamisso</XML_Serializer_Tag>
+<XML_Serializer_Tag>Adalbert von Chamisso</XML_Serializer_Tag>
+<XML_Serializer_Tag>Louis Charles Adélaïde de Chamissot de Boncourt</XML_Serializer_Tag>
+<XML_Serializer_Tag>아델베르트 폰 샤미소</XML_Serializer_Tag>
+<XML_Serializer_Tag>אדלברט פון שאמיסו</XML_Serializer_Tag>
+<XML_Serializer_Tag>אדלברט פון שמיסו</XML_Serializer_Tag>
+<XML_Serializer_Tag>シャミッソー</XML_Serializer_Tag>
+</variantName>
+<thumbnail>https://commons.wikimedia.org/wiki/Special:FilePath/Chamisso_Adelbert_von_1781-1838.png?width=270</thumbnail>
+<birthEN>January 30, 1781</birthEN>
+<birthDE>30. Januar 1781</birthDE>
+<deathEN>August 21, 1838</deathEN>
+<deathDE>21. August 1838</deathDE>
+<birthPlace>
+<XML_Serializer_Tag>Châlons-en-Champagne, Frankreich</XML_Serializer_Tag>
+</birthPlace>
+<deathPlace>
+<XML_Serializer_Tag>Berlin</XML_Serializer_Tag>
+</deathPlace>
+<professionOrOccupation>
+<XML_Serializer_Tag>Naturwissenschaftler</XML_Serializer_Tag>
+<XML_Serializer_Tag>Schriftsteller</XML_Serializer_Tag>
+</professionOrOccupation>
+<dbpResource>http://dbpedia.org/resource/Adelbert_von_Chamisso</dbpResource>
+<abstract>Adelbert von Chamisso (* 30. Januar 1781 auf Schloss Boncourt bei Ante, Châlons-en-Champagne, Frankreich; † 21. August 1838 in Berlin; ursprünglich Louis Charles Adélaïde de Chamissot de Boncourt) war ein deutscher Naturforscher und Dichter französischer Herkunft. Sein offizielles botanisches Autorenkürzel lautet „Cham.“. Obwohl Französisch Chamissos Muttersprache war, gelang es ihm, in der deutschen Fremdsprache unsterbliche Werke zu schaffen. Am bekanntesten sind sicherlich Peter Schlemihls wundersame Geschichte (1814) und das Gedicht Das Riesenspielzeug (1831) über die Burg Nideck im Elsass. Robert Fischer bezeichnet ihn in seiner Biografie als „frühen Bürger Europas“, der „die Gegensätze zweier Nationen erfahren und in seinem Leben zu vereinen“ gesucht habe. Vorlage:&quot;</abstract>
+<wikilink>http://en.wikipedia.org/wiki/Adelbert_von_Chamisso?oldid=591869984</wikilink>
+<artworks />
+<buildings />
+<books>
+<XML_Serializer_Tag>
+<book>
+<type>uri</type>
+<value>http://dbpedia.org/resource/Peter_Schlemihl</value>
+</book>
+<author>
+<type>uri</type>
+<value>http://dbpedia.org/resource/Adelbert_von_Chamisso</value>
+</author>
+<thumbnail>
+<type>uri</type>
+<value>http://commons.wikimedia.org/wiki/Special:FilePath/Chamisso_Peter_Schlemihl_1804.jpg?width=300</value>
+</thumbnail>
+<released>
+<type>typed-literal</type>
+<datatype>http://www.w3.org/2001/XMLSchema#integer</datatype>
+<value>1814</value>
+</released>
+<wikilink>
+<type>uri</type>
+<value>http://en.wikipedia.org/wiki/Peter_Schlemihl?oldid=590147170</value>
+</wikilink>
+<abstract>
+<type>literal</type>
+<xml:lang>de</xml:lang>
+<value>Peter Schlemihls wundersame Geschichte ist eine Märchenerzählung des Dichters und Naturforschers Adelbert von Chamisso (1781–1838), verfasst im Sommer des Jahres 1813. Es ist die Geschichte eines Mannes, der seinen Schatten verkauft.</value>
+</abstract>
+</XML_Serializer_Tag>
+</books>
+</Person>

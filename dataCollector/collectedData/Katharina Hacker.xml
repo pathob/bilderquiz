@@ -1,0 +1,33 @@
+<Person>
+<name>Katharina Hacker</name>
+<variantName>
+<XML_Serializer_Tag>Katarina Chaker</XML_Serializer_Tag>
+<XML_Serializer_Tag>Katarina Haker</XML_Serializer_Tag>
+<XML_Serializer_Tag>Katharina Hackerová</XML_Serializer_Tag>
+<XML_Serializer_Tag>Ka te lin na Ha ke</XML_Serializer_Tag>
+<XML_Serializer_Tag>Katelinna-Hake</XML_Serializer_Tag>
+<XML_Serializer_Tag>Katelinna Hake</XML_Serializer_Tag>
+<XML_Serializer_Tag>카타리나 학커</XML_Serializer_Tag>
+<XML_Serializer_Tag>卡特琳娜‧哈克</XML_Serializer_Tag>
+<XML_Serializer_Tag>卡特琳娜 哈克</XML_Serializer_Tag>
+</variantName>
+<thumbnail>https://commons.wikimedia.org/wiki/Special:FilePath/Katharina_Hacker.jpg?width=270</thumbnail>
+<birthEN>1967</birthEN>
+<birthDE>1967</birthDE>
+<deathEN />
+<deathDE />
+<birthPlace>
+<XML_Serializer_Tag>Frankfurt am Main</XML_Serializer_Tag>
+</birthPlace>
+<deathPlace />
+<professionOrOccupation>
+<XML_Serializer_Tag>Schriftstellerin</XML_Serializer_Tag>
+<XML_Serializer_Tag>Übersetzerin</XML_Serializer_Tag>
+</professionOrOccupation>
+<dbpResource>http://dbpedia.org/resource/Katharina_Hacker</dbpResource>
+<abstract>Katharina Hacker (* 11. Januar 1967 in Frankfurt am Main) ist eine deutsche Schriftstellerin. Ihr Schaffen umfasst erzählende und essayistische Prosa sowie Übersetzungen aus dem Hebräischen.</abstract>
+<wikilink>http://en.wikipedia.org/wiki/Katharina_Hacker?oldid=590267277</wikilink>
+<artworks />
+<buildings />
+<books />
+</Person>

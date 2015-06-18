@@ -24,8 +24,10 @@
 <XML_Serializer_Tag>Schriftsteller</XML_Serializer_Tag>
 <XML_Serializer_Tag>Maler</XML_Serializer_Tag>
 </professionOrOccupation>
-<artworks />
 <dbpResource>http://dbpedia.org/resource/Max_Dauthendey</dbpResource>
 <abstract>Max Dauthendey (* 25. Juli 1867 in Würzburg; † 29. August 1918 in Malang auf Java) war ein deutscher Dichter und Maler.</abstract>
 <wikilink>http://en.wikipedia.org/wiki/Max_Dauthendey?oldid=582078570</wikilink>
+<artworks />
+<buildings />
+<books />
 </Person>

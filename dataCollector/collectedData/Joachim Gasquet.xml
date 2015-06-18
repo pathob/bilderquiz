@@ -1,0 +1,26 @@
+<Person>
+<name>Joachim Gasquet</name>
+<variantName />
+<thumbnail>https://commons.wikimedia.org/wiki/Special:FilePath/Joachim-Gasquet.jpg?width=270</thumbnail>
+<birthEN>March 31, 1873</birthEN>
+<birthDE>31. März 1873</birthDE>
+<deathEN>May 6, 1921</deathEN>
+<deathDE>6. Mai 1921</deathDE>
+<birthPlace>
+<XML_Serializer_Tag>Aix-en-Provence</XML_Serializer_Tag>
+</birthPlace>
+<deathPlace>
+<XML_Serializer_Tag>Paris</XML_Serializer_Tag>
+</deathPlace>
+<professionOrOccupation>
+<XML_Serializer_Tag>Lyriker</XML_Serializer_Tag>
+<XML_Serializer_Tag>Kunstkritiker</XML_Serializer_Tag>
+<XML_Serializer_Tag>Schriftsteller</XML_Serializer_Tag>
+</professionOrOccupation>
+<dbpResource>http://dbpedia.org/resource/Joachim_Gasquet</dbpResource>
+<abstract>Joachim Gasquet (* 1873 in Aix-en-Provence; † 1921) war ein provenzalischer Schriftsteller und Kunstkritiker.</abstract>
+<wikilink>http://en.wikipedia.org/wiki/Joachim_Gasquet?oldid=597233838</wikilink>
+<artworks />
+<buildings />
+<books />
+</Person>

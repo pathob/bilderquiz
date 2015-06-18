@@ -1,0 +1,25 @@
+<Person>
+<name>Paul Alfred Kleinert</name>
+<variantName>
+<XML_Serializer_Tag>Paul A. Kleinert</XML_Serializer_Tag>
+</variantName>
+<thumbnail>https://commons.wikimedia.org/wiki/Special:FilePath/Paul_Kleinert_am_Klopstock-Haus.jpg?width=270</thumbnail>
+<birthEN>1960</birthEN>
+<birthDE>1960</birthDE>
+<deathEN />
+<deathDE />
+<birthPlace>
+<XML_Serializer_Tag>Leipzig</XML_Serializer_Tag>
+</birthPlace>
+<deathPlace />
+<professionOrOccupation>
+<XML_Serializer_Tag>Schriftsteller</XML_Serializer_Tag>
+<XML_Serializer_Tag>Lyriker</XML_Serializer_Tag>
+</professionOrOccupation>
+<dbpResource>http://dbpedia.org/resource/Paul_Alfred_Kleinert</dbpResource>
+<abstract>Paul Alfred Kleinert (* 24. Februar 1960 in Leipzig) ist ein deutscher Schriftsteller.</abstract>
+<wikilink>http://en.wikipedia.org/wiki/Paul_Alfred_Kleinert?oldid=599085321</wikilink>
+<artworks />
+<buildings />
+<books />
+</Person>

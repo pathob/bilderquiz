@@ -1,0 +1,404 @@
+<Person>
+<name>Ludwig Mies van der Rohe</name>
+<variantName>
+<XML_Serializer_Tag>Ludwig Mies</XML_Serializer_Tag>
+<XML_Serializer_Tag>Ludwig Maria Mies</XML_Serializer_Tag>
+<XML_Serializer_Tag>Ludwig M. van der Rohe</XML_Serializer_Tag>
+<XML_Serializer_Tag>Ludwig M. Van der Rohe</XML_Serializer_Tag>
+<XML_Serializer_Tag>Mies Van der Rohe</XML_Serializer_Tag>
+<XML_Serializer_Tag>Mīsu Van-Derurōe</XML_Serializer_Tag>
+<XML_Serializer_Tag>Ludwig Mies van der Rohe</XML_Serializer_Tag>
+<XML_Serializer_Tag>Ludwig Mies Vander Rohe</XML_Serializer_Tag>
+<XML_Serializer_Tag>Ludwig M. VanDerRohe</XML_Serializer_Tag>
+<XML_Serializer_Tag>Ludwig Mies VanderRohe</XML_Serializer_Tag>
+<XML_Serializer_Tag>Ludwig Maria Michael Mies van der Rohe</XML_Serializer_Tag>
+<XML_Serializer_Tag>Maria Ludwig Michael Mies</XML_Serializer_Tag>
+</variantName>
+<thumbnail>https://commons.wikimedia.org/wiki/Special:FilePath/Stamps_of_Germany_(Berlin)_1986,_MiNr_753.jpg?width=270</thumbnail>
+<birthEN>March 27, 1886</birthEN>
+<birthDE>27. März 1886</birthDE>
+<deathEN>August 17, 1969</deathEN>
+<deathDE>17. August 1969</deathDE>
+<birthPlace>
+<XML_Serializer_Tag>Aachen</XML_Serializer_Tag>
+</birthPlace>
+<deathPlace>
+<XML_Serializer_Tag>Chicago, Ill.</XML_Serializer_Tag>
+</deathPlace>
+<professionOrOccupation>
+<XML_Serializer_Tag>Architekt</XML_Serializer_Tag>
+</professionOrOccupation>
+<dbpResource>http://dbpedia.org/resource/Ludwig_Mies_van_der_Rohe</dbpResource>
+<abstract>Ludwig Mies van der Rohe (* 27. März 1886 in Aachen; † 17. August 1969 in Chicago; eigentlich Maria Ludwig Michael Mies) war ein deutsch-amerikanischer Architekt.Mies van der Rohe gilt als einer der bedeutendsten Architekten der Moderne. Mit den Mitteln der technischen Zivilisation wollte er diese architektonisch ordnen und repräsentieren. Seine Baukunst gilt dem Ausdruck konstruktiver Logik und räumlicher Freiheit in klassischer Form. Dafür entwickelte er moderne Tragstrukturen aus Stahl, die eine hohe Variabilität der Nutzflächen und eine großflächige Verglasung der Fassaden ermöglichten. Dieses Konzept war so rational und universal, dass es auf viele zeitgenössische Architekten einen außerordentlich großen Einfluss ausübte (siehe auch International Style) und bis heute, den technischen Innovationen entsprechend, immer weiterentwickelt wurde. Das Verhältnis von Proportion, Detail und Material in seinem Werk sowie die einmaligen Raumschöpfungen der Jahre in Berlin hatten ebenfalls große Wirkung. Berühmt wurde er schließlich auch mit seinem Hinweis auf die Bedeutung des Wesentlichen, der seither sprichwörtlich ist: „Weniger ist mehr“.</abstract>
+<wikilink>http://en.wikipedia.org/wiki/Ludwig_Mies_van_der_Rohe?oldid=606512220</wikilink>
+<artworks />
+<buildings>
+<XML_Serializer_Tag>
+<building>
+<type>uri</type>
+<value>http://dbpedia.org/resource/S._R._Crown_Hall</value>
+</building>
+<name>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>S. R. Crown Hall</value>
+</name>
+<architect>
+<type>uri</type>
+<value>http://dbpedia.org/resource/Ludwig_Mies_van_der_Rohe</value>
+</architect>
+<thumbnail>
+<type>uri</type>
+<value>http://commons.wikimedia.org/wiki/Special:FilePath/S.R._Crown_Hall.jpg?width=300</value>
+</thumbnail>
+<wikilink>
+<type>uri</type>
+<value>http://en.wikipedia.org/wiki/S._R._Crown_Hall?oldid=598895716</value>
+</wikilink>
+<location>
+<type>uri</type>
+<value>http://dbpedia.org/resource/Chicago</value>
+</location>
+<built>
+<type>typed-literal</type>
+<datatype>http://www.w3.org/2001/XMLSchema#integer</datatype>
+<value>1950</value>
+</built>
+<abstract>
+<type>literal</type>
+<xml:lang>de</xml:lang>
+<value>Die S.R. Crown Hall ist das Hauptgebäude des College of Architecture, Planning and Design des Illinois Institute of Technology (IIT) in Chicago.Sie ist eines der Hauptwerke des Architekten Ludwig Mies van der Rohe und gilt als eines der bedeutendsten Gebäude der Architektur der Moderne bzw. des International Style.</value>
+</abstract>
+</XML_Serializer_Tag>
+<XML_Serializer_Tag>
+<building>
+<type>uri</type>
+<value>http://dbpedia.org/resource/Farnsworth_House</value>
+</building>
+<name>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>Farnsworth House</value>
+</name>
+<architect>
+<type>uri</type>
+<value>http://dbpedia.org/resource/Ludwig_Mies_van_der_Rohe</value>
+</architect>
+<thumbnail>
+<type>uri</type>
+<value>http://commons.wikimedia.org/wiki/Special:FilePath/Mies_van_der_Rohe_photo_Farnsworth_House_Plano_USA_9.jpg?width=300</value>
+</thumbnail>
+<wikilink>
+<type>uri</type>
+<value>http://en.wikipedia.org/wiki/Farnsworth_House?oldid=599622047</value>
+</wikilink>
+<built>
+<type>typed-literal</type>
+<datatype>http://www.w3.org/2001/XMLSchema#integer</datatype>
+<value>1951</value>
+</built>
+<abstract>
+<type>literal</type>
+<xml:lang>de</xml:lang>
+<value>Das Farnsworth House ist ein Landhaus südlich der Stadt Plano in Illinois aus den Jahren 1950/51.</value>
+</abstract>
+</XML_Serializer_Tag>
+<XML_Serializer_Tag>
+<building>
+<type>uri</type>
+<value>http://dbpedia.org/resource/Highfield_House_Condominium</value>
+</building>
+<name>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>Highfield House</value>
+</name>
+<architect>
+<type>uri</type>
+<value>http://dbpedia.org/resource/Ludwig_Mies_van_der_Rohe</value>
+</architect>
+<thumbnail>
+<type>uri</type>
+<value>http://commons.wikimedia.org/wiki/Special:FilePath/HighfieldHouse_2008.jpg?width=300</value>
+</thumbnail>
+<wikilink>
+<type>uri</type>
+<value>http://en.wikipedia.org/wiki/Highfield_House_Condominium?oldid=547033661</value>
+</wikilink>
+<location>
+<type>uri</type>
+<value>http://dbpedia.org/resource/Maryland</value>
+</location>
+<built>
+<type>typed-literal</type>
+<datatype>http://www.w3.org/2001/XMLSchema#integer</datatype>
+<value>1964</value>
+</built>
+</XML_Serializer_Tag>
+<XML_Serializer_Tag>
+<building>
+<type>uri</type>
+<value>http://dbpedia.org/resource/Lafayette_Park,_Detroit</value>
+</building>
+<name>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>Mies van der Rohe Residential District, Lafayette Park</value>
+</name>
+<architect>
+<type>uri</type>
+<value>http://dbpedia.org/resource/Ludwig_Mies_van_der_Rohe</value>
+</architect>
+<thumbnail>
+<type>uri</type>
+<value>http://commons.wikimedia.org/wiki/Special:FilePath/Mies_van_der_Rohe_Residential_District.jpg?width=300</value>
+</thumbnail>
+<wikilink>
+<type>uri</type>
+<value>http://en.wikipedia.org/wiki/Lafayette_Park,_Detroit?oldid=580558670</value>
+</wikilink>
+<location>
+<type>uri</type>
+<value>http://dbpedia.org/resource/Detroit</value>
+</location>
+<built>
+<type>typed-literal</type>
+<datatype>http://www.w3.org/2001/XMLSchema#integer</datatype>
+<value>1956</value>
+</built>
+</XML_Serializer_Tag>
+<XML_Serializer_Tag>
+<building>
+<type>uri</type>
+<value>http://dbpedia.org/resource/Villa_Tugendhat</value>
+</building>
+<name>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>Villa Tugendhat</value>
+</name>
+<architect>
+<type>uri</type>
+<value>http://dbpedia.org/resource/Ludwig_Mies_van_der_Rohe</value>
+</architect>
+<thumbnail>
+<type>uri</type>
+<value>http://commons.wikimedia.org/wiki/Special:FilePath/Villa_Tugendhat-20070429.jpeg?width=300</value>
+</thumbnail>
+<wikilink>
+<type>uri</type>
+<value>http://en.wikipedia.org/wiki/Villa_Tugendhat?oldid=594104562</value>
+</wikilink>
+<location>
+<type>uri</type>
+<value>http://dbpedia.org/resource/Brno</value>
+</location>
+<abstract>
+<type>literal</type>
+<xml:lang>de</xml:lang>
+<value>Die Villa Tugendhat ist ein von 1929 bis 1930 in Brünn (Tschechien) nach Plänen des Architekten Ludwig Mies van der Rohe errichtetes Wohnhaus für das Unternehmer-Ehepaar Fritz und Grete Tugendhat, die Eltern des deutschen Philosophen Ernst Tugendhat und der Kunsthistorikerin Daniela Hammer-Tugendhat. Das Bauwerk gilt als das berühmteste Bauwerk der Moderne von Brünn und entstand gleichzeitig mit Mies&apos; Barcelona-Pavillon. Die Villa wird zu den bedeutendsten Bauten Mies van der Rohes in Europa gezählt und gilt als ein Meilenstein der modernen Architektur. Sie reiht sich in seiner Bedeutung neben „Kronjuwelen“ der Moderne wie Le Corbusiers Villa Savoye, Frank Lloyd Wrights Haus Robie und dem Haus Schminke von Hans Scharoun ein.</value>
+</abstract>
+</XML_Serializer_Tag>
+<XML_Serializer_Tag>
+<building>
+<type>uri</type>
+<value>http://dbpedia.org/resource/Toronto-Dominion_Centre</value>
+</building>
+<name>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>Toronto-Dominion Centre</value>
+</name>
+<architect>
+<type>uri</type>
+<value>http://dbpedia.org/resource/Ludwig_Mies_van_der_Rohe</value>
+</architect>
+<thumbnail>
+<type>uri</type>
+<value>http://commons.wikimedia.org/wiki/Special:FilePath/Toronto_Dominion_Centre_logo.png?width=300</value>
+</thumbnail>
+<wikilink>
+<type>uri</type>
+<value>http://en.wikipedia.org/wiki/Toronto-Dominion_Centre?oldid=603983881</value>
+</wikilink>
+<location>
+<type>uri</type>
+<value>http://dbpedia.org/resource/Toronto</value>
+</location>
+<abstract>
+<type>literal</type>
+<xml:lang>de</xml:lang>
+<value>Das Toronto-Dominion Centre (Abkürzung: T-D Centre) ist ein Gebäudekomplex in Downtown Toronto, der aus sechs Hochhäusern und einem bronzegetönten Glaspavillon besteht. Es dient als Hauptsitz der Toronto-Dominion Bank und anderen gewerblichen Mietern. Insgesamt arbeiten rund 21.000 Menschen in dem Komplex, was ihn zum größten Kanadas macht.</value>
+</abstract>
+</XML_Serializer_Tag>
+<XML_Serializer_Tag>
+<building>
+<type>uri</type>
+<value>http://dbpedia.org/resource/Seagram_Building</value>
+</building>
+<name>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>Seagram Building</value>
+</name>
+<architect>
+<type>uri</type>
+<value>http://dbpedia.org/resource/Ludwig_Mies_van_der_Rohe</value>
+</architect>
+<thumbnail>
+<type>uri</type>
+<value>http://commons.wikimedia.org/wiki/Special:FilePath/NewYorkSeagram_04.30.2008.JPG?width=300</value>
+</thumbnail>
+<wikilink>
+<type>uri</type>
+<value>http://en.wikipedia.org/wiki/Seagram_Building?oldid=603902709</value>
+</wikilink>
+<location>
+<type>uri</type>
+<value>http://dbpedia.org/resource/New_York_City</value>
+</location>
+<abstract>
+<type>literal</type>
+<xml:lang>de</xml:lang>
+<value>Das Seagram Building ist ein Wolkenkratzer in New York City, 375 Park Avenue zwischen 52nd und 53rd Street. Er wurde von dem Architekten Ludwig Mies van der Rohe entworfen und 1958 fertiggestellt. Mies arbeitete, da er in New York nicht als Architekt zugelassen war, mit Philip Johnson zusammen. Das Seagram Building ist 156,9 Meter hoch und ein Musterbeispiel moderner Architektur. Es wurde als Hauptsitz des Spirituosenkonzerns Joseph E. Seagram&apos;s &amp; Sons errichtet und beherbergt unter anderem das berühmte Restaurant Four Seasons, das von Mies zusammen mit Philip Johnson und anderen bekannten Designern entworfen und eingerichtet wurde.Mies van der Rohe zu beauftragen, war ein Vorschlag der Architektin Phyllis Lambert, der Tochter des damaligen Vorstandsvorsitzenden von Seagram, Samuel Bronfman. Mies hatte zu diesem Zeitpunkt noch kein bedeutendes Gebäude in New York City errichtet.</value>
+</abstract>
+</XML_Serializer_Tag>
+<XML_Serializer_Tag>
+<building>
+<type>uri</type>
+<value>http://dbpedia.org/resource/Barcelona_Pavilion</value>
+</building>
+<name>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>Pabellón Alemán Pavelló Alemany</value>
+</name>
+<architect>
+<type>uri</type>
+<value>http://dbpedia.org/resource/Ludwig_Mies_van_der_Rohe</value>
+</architect>
+<thumbnail>
+<type>uri</type>
+<value>http://commons.wikimedia.org/wiki/Special:FilePath/The_Barcelona_Pavilion,_Barcelona,_2010.jpg?width=300</value>
+</thumbnail>
+<wikilink>
+<type>uri</type>
+<value>http://en.wikipedia.org/wiki/Barcelona_Pavilion?oldid=601190497</value>
+</wikilink>
+<location>
+<type>uri</type>
+<value>http://dbpedia.org/resource/Barcelona</value>
+</location>
+<abstract>
+<type>literal</type>
+<xml:lang>de</xml:lang>
+<value>Als Barcelona-Pavillon (auf Katalanisch Pavelló alemany ‚Deutscher Pavillon‘ bzw. Pavelló Mies van der Rohe) wird der Ausstellungspavillon des Deutschen Reichs auf der Weltausstellung 1929 in Barcelona (Exposició Internacional de Barcelona) bezeichnet, den der deutsche Architekt Ludwig Mies van der Rohe (1886–1969) entwarf. Der Deutsche Pavillon diente der Selbstdarstellung der Weimarer Republik und sollte durch seine Neuartigkeit und Präzision die Leistungsfähigkeit der deutschen Industrie und des Handwerks symbolisieren. Nicht zuletzt durch seinen Wiederaufbau wird der Pavillon als eine der Architekturikonen des 20. Jahrhunderts bestätigt.</value>
+</abstract>
+</XML_Serializer_Tag>
+<XML_Serializer_Tag>
+<building>
+<type>uri</type>
+<value>http://dbpedia.org/resource/Westmount_Square</value>
+</building>
+<name>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>Westmount Square</value>
+</name>
+<architect>
+<type>uri</type>
+<value>http://dbpedia.org/resource/Ludwig_Mies_van_der_Rohe</value>
+</architect>
+<thumbnail>
+<type>uri</type>
+<value>http://commons.wikimedia.org/wiki/Special:FilePath/Westmount_Square.jpg?width=300</value>
+</thumbnail>
+<wikilink>
+<type>uri</type>
+<value>http://en.wikipedia.org/wiki/Westmount_Square?oldid=606600816</value>
+</wikilink>
+<location>
+<type>uri</type>
+<value>http://dbpedia.org/resource/Westmount,_Quebec</value>
+</location>
+</XML_Serializer_Tag>
+<XML_Serializer_Tag>
+<building>
+<type>uri</type>
+<value>http://dbpedia.org/resource/1300_Lafayette_East_Cooperative</value>
+</building>
+<name>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>1300 Lafayette East Cooperative</value>
+</name>
+<architect>
+<type>uri</type>
+<value>http://dbpedia.org/resource/Ludwig_Mies_van_der_Rohe</value>
+</architect>
+<thumbnail>
+<type>uri</type>
+<value>http://commons.wikimedia.org/wiki/Special:FilePath/1300coopDetroit.jpg?width=300</value>
+</thumbnail>
+<wikilink>
+<type>uri</type>
+<value>http://en.wikipedia.org/wiki/1300_Lafayette_East_Cooperative?oldid=595262674</value>
+</wikilink>
+<location>
+<type>uri</type>
+<value>http://dbpedia.org/resource/Detroit</value>
+</location>
+</XML_Serializer_Tag>
+<XML_Serializer_Tag>
+<building>
+<type>uri</type>
+<value>http://dbpedia.org/resource/Everett_McKinley_Dirksen_United_States_Courthouse</value>
+</building>
+<name>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>Everett McKinley Dirksen United States Courthouse</value>
+</name>
+<architect>
+<type>uri</type>
+<value>http://dbpedia.org/resource/Ludwig_Mies_van_der_Rohe</value>
+</architect>
+<thumbnail>
+<type>uri</type>
+<value>http://commons.wikimedia.org/wiki/Special:FilePath/Dirksen_Federal_Building.jpg?width=300</value>
+</thumbnail>
+<wikilink>
+<type>uri</type>
+<value>http://en.wikipedia.org/wiki/Everett_McKinley_Dirksen_United_States_Courthouse?oldid=603164706</value>
+</wikilink>
+<location>
+<type>uri</type>
+<value>http://dbpedia.org/resource/Chicago</value>
+</location>
+</XML_Serializer_Tag>
+<XML_Serializer_Tag>
+<building>
+<type>uri</type>
+<value>http://dbpedia.org/resource/Kluczynski_Federal_Building</value>
+</building>
+<name>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>Chicago Federal Center</value>
+</name>
+<architect>
+<type>uri</type>
+<value>http://dbpedia.org/resource/Ludwig_Mies_van_der_Rohe</value>
+</architect>
+<thumbnail>
+<type>uri</type>
+<value>http://commons.wikimedia.org/wiki/Special:FilePath/Chicago_Federal_Center.jpg?width=300</value>
+</thumbnail>
+<wikilink>
+<type>uri</type>
+<value>http://en.wikipedia.org/wiki/Kluczynski_Federal_Building?oldid=599063420</value>
+</wikilink>
+</XML_Serializer_Tag>
+</buildings>
+<books />
+</Person>

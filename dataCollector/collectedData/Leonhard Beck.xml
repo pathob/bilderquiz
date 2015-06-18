@@ -1,0 +1,26 @@
+<Person>
+<name>Leonhard Beck</name>
+<variantName>
+<XML_Serializer_Tag>Lienhard Böck</XML_Serializer_Tag>
+</variantName>
+<thumbnail>https://commons.wikimedia.org/wiki/Special:FilePath/Leonhard_Beck_001b.jpg?width=270</thumbnail>
+<birthEN>1480</birthEN>
+<birthDE>1480</birthDE>
+<deathEN>1542</deathEN>
+<deathDE>1542</deathDE>
+<birthPlace>
+<XML_Serializer_Tag>Augsburg</XML_Serializer_Tag>
+</birthPlace>
+<deathPlace>
+<XML_Serializer_Tag>Augsburg</XML_Serializer_Tag>
+</deathPlace>
+<professionOrOccupation>
+<XML_Serializer_Tag>Künstler</XML_Serializer_Tag>
+</professionOrOccupation>
+<dbpResource>http://dbpedia.org/resource/Leonhard_Beck</dbpResource>
+<abstract>Leonhard Beck (* um 1480 in Augsburg; † 1542 ebenda) war ein deutscher Maler, Zeichner und Holzschneider.</abstract>
+<wikilink>http://en.wikipedia.org/wiki/Leonhard_Beck?oldid=584641868</wikilink>
+<artworks />
+<buildings />
+<books />
+</Person>

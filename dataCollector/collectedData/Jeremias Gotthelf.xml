@@ -1,0 +1,65 @@
+<Person>
+<name>Jeremias Gotthelf</name>
+<variantName>
+<XML_Serializer_Tag>Jérémias Gotthelf</XML_Serializer_Tag>
+<XML_Serializer_Tag>Jermias Gotthelf</XML_Serializer_Tag>
+<XML_Serializer_Tag>J. Gotthelf</XML_Serializer_Tag>
+<XML_Serializer_Tag>Jeremijas Gothelfas</XML_Serializer_Tag>
+<XML_Serializer_Tag>Jeremias Gotthilf</XML_Serializer_Tag>
+<XML_Serializer_Tag>J. Gotthilf</XML_Serializer_Tag>
+<XML_Serializer_Tag>Jeremias Gotchelf</XML_Serializer_Tag>
+<XML_Serializer_Tag>Albert Bitzius</XML_Serializer_Tag>
+<XML_Serializer_Tag>Albert Bernhard Bitzius</XML_Serializer_Tag>
+<XML_Serializer_Tag>Albert Bizius</XML_Serializer_Tag>
+<XML_Serializer_Tag>... Gottoherufu</XML_Serializer_Tag>
+</variantName>
+<thumbnail>https://commons.wikimedia.org/wiki/Special:FilePath/JeremiasGotthelf.jpg?width=270</thumbnail>
+<birthEN>October 4, 1797</birthEN>
+<birthDE>4. Oktober 1797</birthDE>
+<deathEN>October 22, 1854</deathEN>
+<deathDE>22. Oktober 1854</deathDE>
+<birthPlace>
+<XML_Serializer_Tag>Murten</XML_Serializer_Tag>
+</birthPlace>
+<deathPlace>
+<XML_Serializer_Tag>Lützelflüh</XML_Serializer_Tag>
+</deathPlace>
+<professionOrOccupation>
+<XML_Serializer_Tag>Schriftsteller</XML_Serializer_Tag>
+</professionOrOccupation>
+<dbpResource>http://dbpedia.org/resource/Jeremias_Gotthelf</dbpResource>
+<abstract>Jeremias Gotthelf (* 4. Oktober 1797 in Murten, Kanton Freiburg; † 22. Oktober 1854 in Lützelflüh, Kanton Bern) war das Pseudonym des Schweizer Schriftstellers und Pfarrers Albert Bitzius.</abstract>
+<wikilink>http://en.wikipedia.org/wiki/Jeremias_Gotthelf?oldid=590857741</wikilink>
+<artworks />
+<buildings />
+<books>
+<XML_Serializer_Tag>
+<book>
+<type>uri</type>
+<value>http://dbpedia.org/resource/The_Black_Spider</value>
+</book>
+<author>
+<type>uri</type>
+<value>http://dbpedia.org/resource/Jeremias_Gotthelf</value>
+</author>
+<thumbnail>
+<type>uri</type>
+<value>http://commons.wikimedia.org/wiki/Special:FilePath/Basler-Kopp_Die_Schwarze_Spinne.jpg?width=300</value>
+</thumbnail>
+<published>
+<type>typed-literal</type>
+<datatype>http://www.w3.org/2001/XMLSchema#integer</datatype>
+<value>1842</value>
+</published>
+<wikilink>
+<type>uri</type>
+<value>http://en.wikipedia.org/wiki/The_Black_Spider?oldid=604003085</value>
+</wikilink>
+<abstract>
+<type>literal</type>
+<xml:lang>de</xml:lang>
+<value>Die schwarze Spinne ist eine Novelle von Jeremias Gotthelf aus dem Jahr 1842.Eingebettet in eine idyllisch angelegte Rahmenerzählung, werden alte Sagen zu einer gleichnishaften Erzählung über christlich-humanistische Vorstellungen von Gut und Böse verarbeitet.Die Novelle ist unterteilt in die am Anfang auftretende Rahmenhandlung, die jedoch später zur Binnenhandlung übertritt.Die Erzählung wird von christlich-konservativen Motiven getragen und besitzt eine komplexe Erzählstruktur, die geschickt darauf hinweist, wie der verständige Christ die Sagen der Vergangenheit lebendig erhalten soll. Die Symbolik der Erzählung ist über den christlichen Sinn hinaus jedoch auch unter einer allgemeineren moralischen Fragestellung von Gut und Böse verständlich. Die soziale Dynamik des Dorfes wird von Gotthelf präzise geschildert: gegenseitige Schuldzuschreibung, schnell vergessene Kollektivschuld und das Schicksal von Außenseitern, die von der Gemeinschaft leichtfertig zu Sündenböcken gemacht werden, machen das Buch zu einer nach wie vor aktuellen Lektüre.Zuerst kaum beachtet, gilt diese Erzählung bei vielen Literaturkritikern als eines der Meisterwerke des deutschen Biedermeier. Thomas Mann schrieb darüber in „Die Entstehung des Doktor Faustus“, dass Gotthelf „oft das Homerische“ berühre und dass er seine Schwarze Spinne „wie kaum ein zweites Stück Weltliteratur“ bewundere.Der Schweizer Komponist Heinrich Sutermeister schrieb 1936 eine einaktige Oper Die schwarze Spinne. Sie kam zunächst als Funkoper heraus; 1949 entstand dann eine szenische Fassung.1983 drehte der Regisseur Mark M. Rissi den Film Die schwarze Spinne nach der Novelle.</value>
+</abstract>
+</XML_Serializer_Tag>
+</books>
+</Person>

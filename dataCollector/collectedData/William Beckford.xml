@@ -1,0 +1,34 @@
+<Person>
+<name>William Beckford</name>
+<variantName>
+<XML_Serializer_Tag>William T. Beckford</XML_Serializer_Tag>
+<XML_Serializer_Tag>J. A. M. Jenks</XML_Serializer_Tag>
+<XML_Serializer_Tag>Jacquetta Agneta Mariana Jenks</XML_Serializer_Tag>
+<XML_Serializer_Tag>Harriet Marlow</XML_Serializer_Tag>
+<XML_Serializer_Tag>William Thomas Beckford of Fonthill</XML_Serializer_Tag>
+<XML_Serializer_Tag>William Beckford of Fonthill</XML_Serializer_Tag>
+<XML_Serializer_Tag>William Beckford of Fonthill</XML_Serializer_Tag>
+<XML_Serializer_Tag>John Beckford</XML_Serializer_Tag>
+<XML_Serializer_Tag>William Thomas Beckford</XML_Serializer_Tag>
+<XML_Serializer_Tag>Villʹjam Bėkford</XML_Serializer_Tag>
+</variantName>
+<thumbnail>https://commons.wikimedia.org/wiki/Special:FilePath/William_Beckford.jpg?width=270</thumbnail>
+<birthEN>October 1, 1760</birthEN>
+<birthDE>1. Oktober 1760</birthDE>
+<deathEN>May 2, 1844</deathEN>
+<deathDE>2. Mai 1844</deathDE>
+<birthPlace />
+<deathPlace>
+<XML_Serializer_Tag>Bath</XML_Serializer_Tag>
+</deathPlace>
+<professionOrOccupation>
+<XML_Serializer_Tag>Schriftsteller</XML_Serializer_Tag>
+<XML_Serializer_Tag>Architekt</XML_Serializer_Tag>
+</professionOrOccupation>
+<dbpResource>http://dbpedia.org/resource/William_Beckford_(politician)</dbpResource>
+<abstract>William Beckford der Ältere (* 19. Dezember 1709; † 21. Juni 1770) war ein englischer Politiker. Er war zweimal (1762 und 1769) Lord Mayor of London. Er ist der Vater des Schriftstellers und Baumeisters William Beckford, der auf der Familiensitz Fonthill ein exzentrisches Bauwerk, Fonthill Abbey, errichtete, das zu seiner Zeit Gespräch in ganz England war.</abstract>
+<wikilink>http://en.wikipedia.org/wiki/William_Beckford_(politician)?oldid=583788454</wikilink>
+<artworks />
+<buildings />
+<books />
+</Person>

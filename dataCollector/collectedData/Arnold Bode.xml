@@ -13,8 +13,10 @@
 <XML_Serializer_Tag>Maler</XML_Serializer_Tag>
 <XML_Serializer_Tag>Designer</XML_Serializer_Tag>
 </professionOrOccupation>
-<artworks />
 <dbpResource>http://dbpedia.org/resource/Arnold_Bode</dbpResource>
 <abstract>Arnold Bode (* 23. Dezember 1900 in Kassel; † 3. Oktober 1977 ebenda) war ein deutscher Maler, Zeichner, Raumkünstler, Kurator, Hochschullehrer und Kunstpädagoge.Arnold Bode ist der Begründer der documenta–Weltausstellung der zeitgenössischen Kunst in Kassel.„... wir meinen aber, man könnte etwas neues versuchen“ (Arnold Bode 1964)</abstract>
 <wikilink>http://en.wikipedia.org/wiki/Arnold_Bode?oldid=581896864</wikilink>
+<artworks />
+<buildings />
+<books />
 </Person>

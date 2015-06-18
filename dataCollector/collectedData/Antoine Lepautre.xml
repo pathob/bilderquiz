@@ -1,0 +1,58 @@
+<Person>
+<name>Antoine Lepautre</name>
+<variantName>
+<XML_Serializer_Tag>Antoine le Pautre</XML_Serializer_Tag>
+<XML_Serializer_Tag>Antoine Le Paultre</XML_Serializer_Tag>
+<XML_Serializer_Tag>Antoine Le Paultre</XML_Serializer_Tag>
+<XML_Serializer_Tag>Antoine LePaultre</XML_Serializer_Tag>
+<XML_Serializer_Tag>Anthoine Le Pautre</XML_Serializer_Tag>
+<XML_Serializer_Tag>Anthoine le Pautre</XML_Serializer_Tag>
+<XML_Serializer_Tag>Anthoine Le Pavtre</XML_Serializer_Tag>
+</variantName>
+<thumbnail>https://commons.wikimedia.org/wiki/Special:FilePath/Antoine_Le_Pautre.png?width=270</thumbnail>
+<birthEN>1621</birthEN>
+<birthDE>1621</birthDE>
+<deathEN>1679</deathEN>
+<deathDE>1679</deathDE>
+<birthPlace />
+<deathPlace />
+<professionOrOccupation>
+<XML_Serializer_Tag>Architekt</XML_Serializer_Tag>
+<XML_Serializer_Tag>Baukünstler</XML_Serializer_Tag>
+</professionOrOccupation>
+<dbpResource>http://dbpedia.org/resource/Antoine_Lepautre</dbpResource>
+<abstract>Antoine Le Pautre oder Lepautre (* 1621 in Paris; † 1679) ist ein französischer Architekt.Von 1646 bis 1648 baute er das Filialkloster von Port Royal des Champs, den Konvent Port-Royal in Paris. 1653 veröffentlichte er unter der Protektion von Kardinal Mazarin Recueil de dessins de plusieurs palais, ein Buch, in dem er seinen Vorstellungen freien Lauf gibt.Zwischen 1655 und 1660 errichtete er das Hôtel de Beauvais in der Rue François-Miron, wobei die Bebauung dieses stark unregelmäßigen Grundstücks große Anerkennung brachte – selbst Bernini fand es anlässlich seines Aufenthalts in Paris einer Erwähnung wert.1660 wurde Le Pautre zum Contrôleur général des bâtiments Philipps von Orléans, des Bruders Ludwigs XIV., ernannt. In dieser Funktion baute er 1667 die berühmte Grande cascade im Park von Saint-Cloud, die die Zerstörung der Schlosses im Deutsch Französischen Krieg 1870/71 überstanden hat.Mehreren Zeichnungen im Stockholmer Nationalmuseum folgend ist Le Pautre der Schöpfer der Pferdeställe Colberts im Schloss von Sceaux (Anfang der 1670er Jahre).Zur gleichen Zeit bat Madame de Montespan ihn um Pläne für ihr Schloss in Clagny. Le Pautres Tod 1679 unterbrach die Arbeit, die von Jules Hardouin-Mansart beendet wurde.</abstract>
+<wikilink>http://en.wikipedia.org/wiki/Antoine_Lepautre?oldid=576836732</wikilink>
+<artworks />
+<buildings>
+<XML_Serializer_Tag>
+<building>
+<type>uri</type>
+<value>http://dbpedia.org/resource/Ch%C3%A2teau_de_Saint-Cloud</value>
+</building>
+<name>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>Château of Saint-Cloud</value>
+</name>
+<architect>
+<type>uri</type>
+<value>http://dbpedia.org/resource/Antoine_Lepautre</value>
+</architect>
+<thumbnail>
+<type>uri</type>
+<value>http://commons.wikimedia.org/wiki/Special:FilePath/View_of_the_estate_of_Saint_Cloud_by_Étienne_Allegrain.jpg?width=300</value>
+</thumbnail>
+<wikilink>
+<type>uri</type>
+<value>http://en.wikipedia.org/wiki/Château_de_Saint-Cloud?oldid=590385090</value>
+</wikilink>
+<abstract>
+<type>literal</type>
+<xml:lang>de</xml:lang>
+<value>Das Schloss Saint-Cloud war ein Schloss im Südwesten von Paris. Es befand sich auf dem Weg von der französischen Hauptstadt nach Versailles zwischen den beiden Orten Saint-Cloud und Sèvres.</value>
+</abstract>
+</XML_Serializer_Tag>
+</buildings>
+<books />
+</Person>

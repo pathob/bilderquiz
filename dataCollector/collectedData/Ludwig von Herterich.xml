@@ -13,8 +13,10 @@
 <professionOrOccupation>
 <XML_Serializer_Tag>Maler</XML_Serializer_Tag>
 </professionOrOccupation>
-<artworks />
 <dbpResource>http://dbpedia.org/resource/Ludwig_von_Herterich</dbpResource>
 <abstract>Ludwig von Herterich (* 13. Oktober 1856 in Ansbach; † 25. Dezember 1932 in Etzenhausen, heute zu Dachau), bis 1908 Ludwig Herterich, war ein deutscher Maler und Kunstpädagoge. Er erlangte vor allem als Porträtist und Monumentalmaler Bedeutung und war ein führender Repräsentant der Münchner Schule.</abstract>
 <wikilink>http://en.wikipedia.org/wiki/Ludwig_von_Herterich?oldid=574133529</wikilink>
+<artworks />
+<buildings />
+<books />
 </Person>

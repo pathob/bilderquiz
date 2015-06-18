@@ -1,0 +1,27 @@
+<Person>
+<name>Juan Carlos Onetti</name>
+<variantName>
+<XML_Serializer_Tag>Juan C. Onetti</XML_Serializer_Tag>
+</variantName>
+<thumbnail>https://en.wikipedia.org/wiki/Special:FilePath/Onetti.JPG?width=270</thumbnail>
+<birthEN>July 1, 1909</birthEN>
+<birthDE>1. Juli 1909</birthDE>
+<deathEN>May 30, 1994</deathEN>
+<deathDE>30. Mai 1994</deathDE>
+<birthPlace>
+<XML_Serializer_Tag>Montevideo</XML_Serializer_Tag>
+</birthPlace>
+<deathPlace>
+<XML_Serializer_Tag>Madrid</XML_Serializer_Tag>
+</deathPlace>
+<professionOrOccupation>
+<XML_Serializer_Tag>Journalist</XML_Serializer_Tag>
+<XML_Serializer_Tag>Schriftsteller</XML_Serializer_Tag>
+</professionOrOccupation>
+<dbpResource>http://dbpedia.org/resource/Juan_Carlos_Onetti</dbpResource>
+<abstract>Juan Carlos Onetti (* 1. Juli 1909 in Montevideo; † 30. Mai 1994 in Madrid) war ein uruguayischer Schriftsteller.</abstract>
+<wikilink>http://en.wikipedia.org/wiki/Juan_Carlos_Onetti?oldid=594656385</wikilink>
+<artworks />
+<buildings />
+<books />
+</Person>

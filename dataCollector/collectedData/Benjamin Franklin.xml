@@ -1,0 +1,77 @@
+<Person>
+<name>Benjamin Franklin</name>
+<variantName>
+<XML_Serializer_Tag>Richard Saunders</XML_Serializer_Tag>
+<XML_Serializer_Tag>Richard Bonhomme</XML_Serializer_Tag>
+<XML_Serializer_Tag>Richard, Bonhomme</XML_Serializer_Tag>
+<XML_Serializer_Tag>Poor Richard</XML_Serializer_Tag>
+<XML_Serializer_Tag>... Frangḳlin</XML_Serializer_Tag>
+<XML_Serializer_Tag>... Frankḳlin</XML_Serializer_Tag>
+<XML_Serializer_Tag>Benǰamin Frangḳlin</XML_Serializer_Tag>
+<XML_Serializer_Tag>Benǰamin Frankḳlin</XML_Serializer_Tag>
+<XML_Serializer_Tag>... Fulankelin</XML_Serializer_Tag>
+</variantName>
+<thumbnail>https://commons.wikimedia.org/wiki/Special:FilePath/BenFranklinDuplessis.jpg?width=270</thumbnail>
+<birthEN>January 17, 1706</birthEN>
+<birthDE>17. Januar 1706</birthDE>
+<deathEN>April 17, 1790</deathEN>
+<deathDE>17. April 1790</deathDE>
+<birthPlace>
+<XML_Serializer_Tag>Boston, Mass.</XML_Serializer_Tag>
+</birthPlace>
+<deathPlace>
+<XML_Serializer_Tag>Philadelphia, Pa.</XML_Serializer_Tag>
+</deathPlace>
+<professionOrOccupation>
+<XML_Serializer_Tag>Politiker</XML_Serializer_Tag>
+<XML_Serializer_Tag>Diplomat</XML_Serializer_Tag>
+<XML_Serializer_Tag>Schriftsteller</XML_Serializer_Tag>
+<XML_Serializer_Tag>Naturwissenschaftler</XML_Serializer_Tag>
+<XML_Serializer_Tag>Buchdrucker</XML_Serializer_Tag>
+<XML_Serializer_Tag>Erfinder</XML_Serializer_Tag>
+</professionOrOccupation>
+<dbpResource>http://dbpedia.org/resource/Benjamin_Franklin</dbpResource>
+<abstract>Benjamin Franklin, (* 17. Januar 1706 in Boston, Massachusetts; † 17. April 1790 in Philadelphia, Pennsylvania) war ein nordamerikanischer Drucker, Verleger, Schriftsteller, Naturwissenschaftler, Erfinder und Staatsmann.Als einer der Gründerväter der Vereinigten Staaten beteiligte er sich am Entwurf der Unabhängigkeitserklärung der Vereinigten Staaten und war einer ihrer Unterzeichner. Während der Amerikanischen Revolution vertrat er die Vereinigten Staaten als Diplomat in Frankreich und handelte sowohl den Allianzvertrag mit den Franzosen als auch den Frieden von Paris aus, der den Amerikanischen Unabhängigkeitskrieg beendete. Als Delegierter der Philadelphia Convention beteiligte er sich an der Ausarbeitung der amerikanischen Verfassung.Franklins Leben war in hohem Maße von dem Willen geprägt, das Gemeinwesen zu fördern. Er gründete die ersten Freiwilligen Feuerwehren in Philadelphia sowie die erste Leihbibliothek Amerikas und konstruierte einen besonders effektiven und raucharmen Holzofen. Auch machte er wissenschaftliche Entdeckungen, unter anderem erfand er - neben anderen - den Blitzableiter.Geboren als Sohn eines Seifen- und Kerzenmachers, machte Franklin zunächst eine Karriere als Drucker, bevor er sich im Alter von 42 Jahren aus dem Geschäftsleben zurückzog und in die Politik ging. Sein sozialer Aufstieg galt – befördert durch seine in zahlreichen Auflagen gedruckte Autobiographie – über lange Zeit hinweg als ein Musterbeispiel dafür, wie man sich aus eigener Kraft und Disziplin emporarbeiten kann.</abstract>
+<wikilink>http://en.wikipedia.org/wiki/Benjamin_Franklin?oldid=606164736</wikilink>
+<artworks />
+<buildings />
+<books>
+<XML_Serializer_Tag>
+<book>
+<type>uri</type>
+<value>http://dbpedia.org/resource/The_Autobiography_of_Benjamin_Franklin</value>
+</book>
+<author>
+<type>uri</type>
+<value>http://dbpedia.org/resource/Benjamin_Franklin</value>
+</author>
+<thumbnail>
+<type>uri</type>
+<value>http://commons.wikimedia.org/wiki/Special:FilePath/Memoirs_of_Franklin.jpg?width=300</value>
+</thumbnail>
+<released>
+<type>typed-literal</type>
+<datatype>http://www.w3.org/2001/XMLSchema#integer</datatype>
+<value>1791</value>
+</released>
+<wikilink>
+<type>uri</type>
+<value>http://en.wikipedia.org/wiki/The_Autobiography_of_Benjamin_Franklin?oldid=603919015</value>
+</wikilink>
+</XML_Serializer_Tag>
+<XML_Serializer_Tag>
+<book>
+<type>uri</type>
+<value>http://dbpedia.org/resource/Observations_Concerning_the_Increase_of_Mankind,_Peopling_of_Countries,_etc.</value>
+</book>
+<author>
+<type>uri</type>
+<value>http://dbpedia.org/resource/Benjamin_Franklin</value>
+</author>
+<wikilink>
+<type>uri</type>
+<value>http://en.wikipedia.org/wiki/Observations_Concerning_the_Increase_of_Mankind,_Peopling_of_Countries,_etc.?oldid=602843841</value>
+</wikilink>
+</XML_Serializer_Tag>
+</books>
+</Person>

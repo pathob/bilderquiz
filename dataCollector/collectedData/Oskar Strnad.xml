@@ -1,0 +1,29 @@
+<Person>
+<name>Oskar Strnad</name>
+<variantName>
+<XML_Serializer_Tag>Oskar Strnad</XML_Serializer_Tag>
+</variantName>
+<thumbnail>https://commons.wikimedia.org/wiki/Special:FilePath/Oskar-Strnad,-Hof-des-österreichischen-Hauses,-Werkbund-Ausstellung,-Köln-1914.jpg?width=270</thumbnail>
+<birthEN>October 26, 1879</birthEN>
+<birthDE>26. Oktober 1879</birthDE>
+<deathEN>September 3, 1935</deathEN>
+<deathDE>3. September 1935</deathDE>
+<birthPlace>
+<XML_Serializer_Tag>Wien</XML_Serializer_Tag>
+</birthPlace>
+<deathPlace>
+<XML_Serializer_Tag>Bad Aussee</XML_Serializer_Tag>
+</deathPlace>
+<professionOrOccupation>
+<XML_Serializer_Tag>Architekt</XML_Serializer_Tag>
+<XML_Serializer_Tag>Bühnenbildner</XML_Serializer_Tag>
+<XML_Serializer_Tag>Designer</XML_Serializer_Tag>
+<XML_Serializer_Tag>Filmarchitekt</XML_Serializer_Tag>
+</professionOrOccupation>
+<dbpResource>http://dbpedia.org/resource/Oskar_Strnad</dbpResource>
+<abstract>Oskar Strnad (* 26. Oktober 1879 in Wien; † 3. September 1935 in Bad Aussee) war ein österreichischer Architekt, Designer und Bühnenbildner jüdischer Herkunft. Zusammen mit Josef Frank prägte er die so genannte Wiener Schule der Architektur. Er vertrat eine moderne Auffassung von Wohnen für alle Menschen, plante und baute Wohnhäuser, entwarf Möbel, schuf Keramiken und Aquarelle und stattete Theaterstücke und Filme aus.</abstract>
+<wikilink>http://en.wikipedia.org/wiki/Oskar_Strnad?oldid=544427114</wikilink>
+<artworks />
+<buildings />
+<books />
+</Person>

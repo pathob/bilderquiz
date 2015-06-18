@@ -1,0 +1,24 @@
+<Person>
+<name>Erwin Wurm</name>
+<variantName />
+<thumbnail>https://commons.wikimedia.org/wiki/Special:FilePath/Erwin_Wurm_Porträt.jpg?width=270</thumbnail>
+<birthEN>1954</birthEN>
+<birthDE>1954</birthDE>
+<deathEN />
+<deathDE />
+<birthPlace>
+<XML_Serializer_Tag>Bruck an der Mur</XML_Serializer_Tag>
+</birthPlace>
+<deathPlace />
+<professionOrOccupation>
+<XML_Serializer_Tag>Künstler</XML_Serializer_Tag>
+<XML_Serializer_Tag>Bildhauer</XML_Serializer_Tag>
+<XML_Serializer_Tag>Aktionskünstler</XML_Serializer_Tag>
+</professionOrOccupation>
+<dbpResource>http://dbpedia.org/resource/Erwin_Wurm</dbpResource>
+<abstract>Erwin Wurm (* 27. Juli 1954 in Bruck an der Mur) ist ein österreichischer Künstler.</abstract>
+<wikilink>http://en.wikipedia.org/wiki/Erwin_Wurm?oldid=586400893</wikilink>
+<artworks />
+<buildings />
+<books />
+</Person>

@@ -1,0 +1,29 @@
+<Person>
+<name>August Gaul</name>
+<variantName>
+<XML_Serializer_Tag>Georg August Gaul</XML_Serializer_Tag>
+</variantName>
+<thumbnail>https://commons.wikimedia.org/wiki/Special:FilePath/August_Gaul.jpg?width=270</thumbnail>
+<birthEN>October 22, 1869</birthEN>
+<birthDE>22. Oktober 1869</birthDE>
+<deathEN>October 18, 1921</deathEN>
+<deathDE>18. Oktober 1921</deathDE>
+<birthPlace>
+<XML_Serializer_Tag>Großauheim</XML_Serializer_Tag>
+</birthPlace>
+<deathPlace>
+<XML_Serializer_Tag>Berlin</XML_Serializer_Tag>
+</deathPlace>
+<professionOrOccupation>
+<XML_Serializer_Tag>Künstler</XML_Serializer_Tag>
+<XML_Serializer_Tag>Bildhauer</XML_Serializer_Tag>
+<XML_Serializer_Tag>Graphiker</XML_Serializer_Tag>
+<XML_Serializer_Tag>Radierer</XML_Serializer_Tag>
+</professionOrOccupation>
+<dbpResource>http://dbpedia.org/resource/August_Gaul</dbpResource>
+<abstract>Georg August Gaul (* 22. Oktober 1869 in Großauheim - heute ein Stadtteil von Hanau; † 18. Oktober 1921 in Berlin) war ein deutscher Tierbildhauer im Übergang vom Historismus zur Moderne.</abstract>
+<wikilink>http://en.wikipedia.org/wiki/August_Gaul?oldid=596522648</wikilink>
+<artworks />
+<buildings />
+<books />
+</Person>

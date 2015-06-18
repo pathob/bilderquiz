@@ -1,0 +1,199 @@
+<Person>
+<name>Jorge Luis Borges</name>
+<variantName>
+<XML_Serializer_Tag>Jorge-Luis Borges</XML_Serializer_Tag>
+<XML_Serializer_Tag>J. Luis Borges</XML_Serializer_Tag>
+<XML_Serializer_Tag>J. L. Borges</XML_Serializer_Tag>
+<XML_Serializer_Tag>Jorge Francisco Isidoro Luis Borges Acevedo</XML_Serializer_Tag>
+<XML_Serializer_Tag>Jorge Francisco Isidoro Luis Borges Acevedo</XML_Serializer_Tag>
+<XML_Serializer_Tag>Horhe Luiss Borhess</XML_Serializer_Tag>
+<XML_Serializer_Tag>Jorge L. Borges</XML_Serializer_Tag>
+<XML_Serializer_Tag>Chorche L. Borches</XML_Serializer_Tag>
+<XML_Serializer_Tag>Jorge Luis Borges Acevedo</XML_Serializer_Tag>
+<XML_Serializer_Tag>Ch. A. Borches</XML_Serializer_Tag>
+<XML_Serializer_Tag>Chorche Luis Borches</XML_Serializer_Tag>
+</variantName>
+<thumbnail>https://commons.wikimedia.org/wiki/Special:FilePath/Jorge_Luis_Borges_Hotel.jpg?width=270</thumbnail>
+<birthEN>August 24, 1899</birthEN>
+<birthDE>24. August 1899</birthDE>
+<deathEN>June 14, 1986</deathEN>
+<deathDE>14. Juni 1986</deathDE>
+<birthPlace>
+<XML_Serializer_Tag>Buenos Aires</XML_Serializer_Tag>
+</birthPlace>
+<deathPlace>
+<XML_Serializer_Tag>Genf</XML_Serializer_Tag>
+</deathPlace>
+<professionOrOccupation>
+<XML_Serializer_Tag>Schriftsteller</XML_Serializer_Tag>
+<XML_Serializer_Tag>Lyriker</XML_Serializer_Tag>
+<XML_Serializer_Tag>Essayist</XML_Serializer_Tag>
+</professionOrOccupation>
+<dbpResource>http://dbpedia.org/resource/Jorge_Luis_Borges</dbpResource>
+<abstract>Jorge Francisco Isidoro Luis Borges Acevedo [ˈxorxe ˈlwis ˈβorxes] (* 24. August 1899 in Buenos Aires; † 14. Juni 1986 in Genf) war ein argentinischer Schriftsteller und Bibliothekar. Borges verfasste eine Vielzahl phantastischer Erzählungen, Gedichte und Kurzgeschichten.Literarisch beeinflusst wurde Borges vor allem von Macedonio Fernández, Rafael Cansinos Assens, englischer Literatur (Whitman, Chesterton, Shaw, De Quincey), Franz Kafka und dem Daoismus. Seine philosophischen Anschauungen, die dem erkenntnistheoretischen Idealismus verpflichtet sind und sich in seinen Erzählungen und Essays wiederfinden, bezog Borges vornehmlich von George Berkeley, David Hume und Arthur Schopenhauer. Mit dem argentinischen Schriftsteller Adolfo Bioy Casares verband ihn eine lebenslange Freundschaft. Borges war Mitbegründer der „lateinamerikanischen Phantastik“ und einer der zentralen Autoren der von Victoria Ocampo und ihrer Schwester Silvina 1931 gegründeten Zeitschrift Sur, die sich dem kulturellen Austausch zwischen Lateinamerika und Europa widmete.</abstract>
+<wikilink>http://en.wikipedia.org/wiki/Jorge_Luis_Borges?oldid=606355049</wikilink>
+<artworks />
+<buildings />
+<books>
+<XML_Serializer_Tag>
+<book>
+<type>uri</type>
+<value>http://dbpedia.org/resource/Tl%C3%B6n,_Uqbar,_Orbis_Tertius</value>
+</book>
+<author>
+<type>uri</type>
+<value>http://dbpedia.org/resource/Jorge_Luis_Borges</value>
+</author>
+<thumbnail>
+<type>uri</type>
+<value>http://en.wikipedia.org/wiki/Special:FilePath/Tlon_Uqbar_Orbis_Tertius_by_Rikki.jpg?width=300</value>
+</thumbnail>
+<released>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>May 1940</value>
+</released>
+<wikilink>
+<type>uri</type>
+<value>http://en.wikipedia.org/wiki/Tlön,_Uqbar,_Orbis_Tertius?oldid=606638238</value>
+</wikilink>
+<abstract>
+<type>literal</type>
+<xml:lang>de</xml:lang>
+<value>Tlön, Uqbar, Orbis Tertius ist eine Erzählung von Jorge Luis Borges aus dem Band Fiktionen (span. Ficciones)Die Geschichte spielt im Entstehungsjahr 1940 und der Erzählhorizont geht bis 1935; die beschriebenen Ereignisse reichen allerdings weiter zurück bis ins 17. Jahrhundert. An die Erzählung ist ein Postskriptum angefügt, in dem der Ich-Erzähler vorgibt, es im Jahr 1947 geschrieben zu haben, obwohl es gleichzeitig mit der Haupterzählung entstanden ist. Es ist – wie auch die zahlreichen Fußnoten – Bestandteil von Borges&apos; literarischer Beglaubigungsstrategie, die das Prinzip der fiktiven Quellenangabe, das die Erzählung wesentlich bestimmt, unterstützt.Tlön, Uqbar, Orbis Tertius berichtet, wie Borges und sein Freund Adolfo Bioy Casares in einer einzigen Ausgabe der Anglo-Amerikanischen Enzyklopädie einen Eintrag unter dem Titel Uqbar entdecken. In keinem anderen Nachschlagewerk – weder in anderen Ausgaben dieser Enzyklopädie noch in anderen Lexika oder Atlanten – findet sich das Uqbar genannte Land. Die beiden Freunde spekulieren über den Ursprung dieses Lexikonartikels.Dieser Artikel ist die erste Spur von „Orbis Tertius“, einer massiven Verschwörung von Intellektuellen, sich eine Welt namens „Tlön“ auszudenken. Dabei verändert sich auch die Erde: im Fortgang der Geschichte begegnen dem Erzähler immer mehr Artefakte aus Tlön und Orbis Tertius, am Ende wird die Erde zu Tlön.Der Leser erlebt mit, wie sich der Realitätsgehalt der Geschichte immer wieder verändert. Die scheinbare Realität des Anfangs wandelt sich in Fiktion, die wiederum als Fiktion entlarvt wird, worauf sie doch Einfluss auf die reale Welt zu nehmen scheint. Entsprechend ist die Borges-Figur mal als Erzähler und mal als Autor zu interpretieren. Das Spiel mit diesen Ebenen macht den Reiz dieser Geschichte aus, die typisch für Borges&apos; phantastischen Realismus ist: Wirklichkeit und Fiktion durchdringen einander. Das Eigenleben, das Borges erfundenen literarischen Werken zuerkennt, ist in der Erzählung wie in dem gesamten Band ein tragendes Thema.Die Erzählung wird allgemein als Allegorie (oder auch Parodie) auf den philosophischen Idealismus angesehen – eine ihrer Hauptthemen ist, wie Ideen sich in der physischen Welt manifestieren. Bis zu einem gewissen Grad ist es auch ein Protest gegen den Totalitarismus.„Tlön, Uqbar, Orbis Tertius“ hat die Struktur einer Detektivgeschichte in einer verrückt gewordenen Welt. Obwohl es eine Kurzgeschichte ist, ist es voller Anspielungen auf intellektuelle Positionen in Argentinien und der ganzen Welt und nimmt eine Reihe von Themen wie Sprachphilosophie, Epistemologie und Literaturkritik auf.</value>
+</abstract>
+</XML_Serializer_Tag>
+<XML_Serializer_Tag>
+<book>
+<type>uri</type>
+<value>http://dbpedia.org/resource/The_Aleph_(short_story_collection)</value>
+</book>
+<author>
+<type>uri</type>
+<value>http://dbpedia.org/resource/Jorge_Luis_Borges</value>
+</author>
+<released>
+<type>typed-literal</type>
+<datatype>http://www.w3.org/2001/XMLSchema#integer</datatype>
+<value>1949</value>
+</released>
+<wikilink>
+<type>uri</type>
+<value>http://en.wikipedia.org/wiki/The_Aleph_(short_story_collection)?oldid=592405663</value>
+</wikilink>
+</XML_Serializer_Tag>
+<XML_Serializer_Tag>
+<book>
+<type>uri</type>
+<value>http://dbpedia.org/resource/Deutsches_Requiem_(short_story)</value>
+</book>
+<author>
+<type>uri</type>
+<value>http://dbpedia.org/resource/Jorge_Luis_Borges</value>
+</author>
+<released>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>February 1946</value>
+</released>
+<wikilink>
+<type>uri</type>
+<value>http://en.wikipedia.org/wiki/Deutsches_Requiem_(short_story)?oldid=544030020</value>
+</wikilink>
+</XML_Serializer_Tag>
+<XML_Serializer_Tag>
+<book>
+<type>uri</type>
+<value>http://dbpedia.org/resource/Book_of_Imaginary_Beings</value>
+</book>
+<author>
+<type>uri</type>
+<value>http://dbpedia.org/resource/Jorge_Luis_Borges</value>
+</author>
+<released>
+<type>typed-literal</type>
+<datatype>http://www.w3.org/2001/XMLSchema#integer</datatype>
+<value>1957</value>
+</released>
+<wikilink>
+<type>uri</type>
+<value>http://en.wikipedia.org/wiki/Book_of_Imaginary_Beings?oldid=605711101</value>
+</wikilink>
+</XML_Serializer_Tag>
+<XML_Serializer_Tag>
+<book>
+<type>uri</type>
+<value>http://dbpedia.org/resource/Ficciones</value>
+</book>
+<author>
+<type>uri</type>
+<value>http://dbpedia.org/resource/Jorge_Luis_Borges</value>
+</author>
+<wikilink>
+<type>uri</type>
+<value>http://en.wikipedia.org/wiki/Ficciones?oldid=592529117</value>
+</wikilink>
+<abstract>
+<type>literal</type>
+<xml:lang>de</xml:lang>
+<value>Fiktionen (spanisch Ficciones) gehört zu den berühmtesten Sammlungen von Kurzgeschichten des argentinischen Autors und Poeten Jorge Luis Borges. Mit ihr begründet sich der Beginn der modernen lateinamerikanischen phantastischen Literatur.</value>
+</abstract>
+</XML_Serializer_Tag>
+<XML_Serializer_Tag>
+<book>
+<type>uri</type>
+<value>http://dbpedia.org/resource/Shakespeare&apos;s_Memory_(book)</value>
+</book>
+<author>
+<type>uri</type>
+<value>http://dbpedia.org/resource/Jorge_Luis_Borges</value>
+</author>
+<wikilink>
+<type>uri</type>
+<value>http://en.wikipedia.org/wiki/Shakespeare&apos;s_Memory_(book)?oldid=588334734</value>
+</wikilink>
+</XML_Serializer_Tag>
+<XML_Serializer_Tag>
+<book>
+<type>uri</type>
+<value>http://dbpedia.org/resource/A_Universal_History_of_Infamy</value>
+</book>
+<author>
+<type>uri</type>
+<value>http://dbpedia.org/resource/Jorge_Luis_Borges</value>
+</author>
+<wikilink>
+<type>uri</type>
+<value>http://en.wikipedia.org/wiki/A_Universal_History_of_Infamy?oldid=604640847</value>
+</wikilink>
+</XML_Serializer_Tag>
+<XML_Serializer_Tag>
+<book>
+<type>uri</type>
+<value>http://dbpedia.org/resource/The_Book_of_Sand_(book)</value>
+</book>
+<author>
+<type>uri</type>
+<value>http://dbpedia.org/resource/Jorge_Luis_Borges</value>
+</author>
+<wikilink>
+<type>uri</type>
+<value>http://en.wikipedia.org/wiki/The_Book_of_Sand_(book)?oldid=593560139</value>
+</wikilink>
+</XML_Serializer_Tag>
+<XML_Serializer_Tag>
+<book>
+<type>uri</type>
+<value>http://dbpedia.org/resource/Labyrinths</value>
+</book>
+<author>
+<type>uri</type>
+<value>http://dbpedia.org/resource/Jorge_Luis_Borges</value>
+</author>
+<wikilink>
+<type>uri</type>
+<value>http://en.wikipedia.org/wiki/Labyrinths?oldid=568571664</value>
+</wikilink>
+</XML_Serializer_Tag>
+</books>
+</Person>

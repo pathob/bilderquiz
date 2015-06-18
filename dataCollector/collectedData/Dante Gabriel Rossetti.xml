@@ -19,12 +19,15 @@
 <XML_Serializer_Tag>Schriftsteller</XML_Serializer_Tag>
 <XML_Serializer_Tag>Maler</XML_Serializer_Tag>
 </professionOrOccupation>
+<dbpResource>http://dbpedia.org/resource/Dante_Gabriel_Rossetti</dbpResource>
+<abstract>Dante Gabriel Rossetti (* 12. Mai 1828 in London; † 9. April 1882 in Birchington-on-Sea, Kent) war als Dichter und Maler gleichermaßen begabt. Er war wegen seiner dominierenden und charismatischen Persönlichkeit die treibende Kraft der Präraffaeliten, die die Reform der britischen Kunst als Ziel hatten. Er hielt wenig von Konventionen und wurde in den letzten Lebensjahren ein exzentrischer Sonderling.</abstract>
+<wikilink>http://en.wikipedia.org/wiki/Dante_Gabriel_Rossetti?oldid=602303622</wikilink>
 <artworks>
 <XML_Serializer_Tag>
-<painting>
+<artwork>
 <type>uri</type>
 <value>http://dbpedia.org/resource/Mnemosyne_(Rossetti)</value>
-</painting>
+</artwork>
 <thumbnail>
 <type>uri</type>
 <value>http://commons.wikimedia.org/wiki/Special:FilePath/Gabriel_Dante_Rosetti,_Mnemosyne.jpg?width=300</value>
@@ -43,12 +46,17 @@
 <type>uri</type>
 <value>http://en.wikipedia.org/wiki/Mnemosyne_(Rossetti)?oldid=598294389</value>
 </wikilink>
+<type>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>oil on canvas</value>
+</type>
 </XML_Serializer_Tag>
 <XML_Serializer_Tag>
-<painting>
+<artwork>
 <type>uri</type>
 <value>http://dbpedia.org/resource/Paolo_and_Francesca_da_Rimini</value>
-</painting>
+</artwork>
 <thumbnail>
 <type>uri</type>
 <value>http://commons.wikimedia.org/wiki/Special:FilePath/Dante_Gabriel_Rossetti_-_Francesca_Da_Rimini.jpg?width=300</value>
@@ -67,12 +75,17 @@
 <type>uri</type>
 <value>http://en.wikipedia.org/wiki/Paolo_and_Francesca_da_Rimini?oldid=591123581</value>
 </wikilink>
+<type>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>watercolour triptych</value>
+</type>
 </XML_Serializer_Tag>
 <XML_Serializer_Tag>
-<painting>
+<artwork>
 <type>uri</type>
 <value>http://dbpedia.org/resource/Veronica_Veronese</value>
-</painting>
+</artwork>
 <thumbnail>
 <type>uri</type>
 <value>http://commons.wikimedia.org/wiki/Special:FilePath/Veronica_Veronese_DAM.jpg?width=300</value>
@@ -91,12 +104,17 @@
 <type>uri</type>
 <value>http://en.wikipedia.org/wiki/Veronica_Veronese?oldid=588090363</value>
 </wikilink>
+<type>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>oil on canvas</value>
+</type>
 </XML_Serializer_Tag>
 <XML_Serializer_Tag>
-<painting>
+<artwork>
 <type>uri</type>
 <value>http://dbpedia.org/resource/The_Blessed_Damozel</value>
-</painting>
+</artwork>
 <thumbnail>
 <type>uri</type>
 <value>http://commons.wikimedia.org/wiki/Special:FilePath/Dante_Gabriel_Rossetti_The_Blessed_Damozel.jpg?width=300</value>
@@ -115,12 +133,17 @@
 <type>uri</type>
 <value>http://en.wikipedia.org/wiki/The_Blessed_Damozel?oldid=586551584</value>
 </wikilink>
+<type>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>oil on canvas</value>
+</type>
 </XML_Serializer_Tag>
 <XML_Serializer_Tag>
-<painting>
+<artwork>
 <type>uri</type>
 <value>http://dbpedia.org/resource/Beata_Beatrix</value>
-</painting>
+</artwork>
 <thumbnail>
 <type>uri</type>
 <value>http://en.wikipedia.org/wiki/Special:FilePath/Dante_Gabriel_Rossetti_-_Beata_Beatrix,_1864-1870.jpg?width=300</value>
@@ -139,12 +162,17 @@
 <type>uri</type>
 <value>http://en.wikipedia.org/wiki/Beata_Beatrix?oldid=595377743</value>
 </wikilink>
+<type>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>Oil on canvas</value>
+</type>
 </XML_Serializer_Tag>
 <XML_Serializer_Tag>
-<painting>
+<artwork>
 <type>uri</type>
 <value>http://dbpedia.org/resource/Lady_Lilith</value>
-</painting>
+</artwork>
 <thumbnail>
 <type>uri</type>
 <value>http://commons.wikimedia.org/wiki/Special:FilePath/Lady-Lilith.jpg?width=300</value>
@@ -163,12 +191,17 @@
 <type>uri</type>
 <value>http://en.wikipedia.org/wiki/Lady_Lilith?oldid=585982492</value>
 </wikilink>
+<type>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>oil on canvas</value>
+</type>
 </XML_Serializer_Tag>
 <XML_Serializer_Tag>
-<painting>
+<artwork>
 <type>uri</type>
 <value>http://dbpedia.org/resource/Water_Willow_(Rossetti)</value>
-</painting>
+</artwork>
 <thumbnail>
 <type>uri</type>
 <value>http://en.wikipedia.org/wiki/Special:FilePath/Dante_Gabriel_Rossetti_Water_Willow_1871.jpg?width=300</value>
@@ -187,12 +220,17 @@
 <type>uri</type>
 <value>http://en.wikipedia.org/wiki/Water_Willow_(Rossetti)?oldid=586407162</value>
 </wikilink>
+<type>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>oil on canvas</value>
+</type>
 </XML_Serializer_Tag>
 <XML_Serializer_Tag>
-<painting>
+<artwork>
 <type>uri</type>
 <value>http://dbpedia.org/resource/Proserpine_(Rossetti_painting)</value>
-</painting>
+</artwork>
 <thumbnail>
 <type>uri</type>
 <value>http://commons.wikimedia.org/wiki/Special:FilePath/Dante_Gabriel_Rossetti_-_Proserpine_-_Google_Art_Project.jpg?width=300</value>
@@ -211,12 +249,17 @@
 <type>uri</type>
 <value>http://en.wikipedia.org/wiki/Proserpine_(Rossetti_painting)?oldid=606509490</value>
 </wikilink>
+<type>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>oil on canvas</value>
+</type>
 </XML_Serializer_Tag>
 <XML_Serializer_Tag>
-<painting>
+<artwork>
 <type>uri</type>
 <value>http://dbpedia.org/resource/Monna_Rosa</value>
-</painting>
+</artwork>
 <thumbnail>
 <type>uri</type>
 <value>http://commons.wikimedia.org/wiki/Special:FilePath/Monna-rosa-1867.jpg?width=300</value>
@@ -235,12 +278,17 @@
 <type>uri</type>
 <value>http://en.wikipedia.org/wiki/Monna_Rosa?oldid=590155474</value>
 </wikilink>
+<type>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>oil on canvas</value>
+</type>
 </XML_Serializer_Tag>
 <XML_Serializer_Tag>
-<painting>
+<artwork>
 <type>uri</type>
 <value>http://dbpedia.org/resource/Pia_de&apos;_Tolomei_(painting)</value>
-</painting>
+</artwork>
 <thumbnail>
 <type>uri</type>
 <value>http://commons.wikimedia.org/wiki/Special:FilePath/Dante_Gabriel_Rossetti_-_La_Pia_de_Tolomei.jpeg?width=300</value>
@@ -259,12 +307,17 @@
 <type>uri</type>
 <value>http://en.wikipedia.org/wiki/Pia_de&apos;_Tolomei_(painting)?oldid=591123463</value>
 </wikilink>
+<type>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>oil on canvas</value>
+</type>
 </XML_Serializer_Tag>
 <XML_Serializer_Tag>
-<painting>
+<artwork>
 <type>uri</type>
 <value>http://dbpedia.org/resource/The_Beloved_(Rossetti_painting)</value>
-</painting>
+</artwork>
 <thumbnail>
 <type>uri</type>
 <value>http://commons.wikimedia.org/wiki/Special:FilePath/Dante_Gabriel_Rossetti_-_The_Bride_-_WGA20108.jpg?width=300</value>
@@ -283,12 +336,17 @@
 <type>uri</type>
 <value>http://en.wikipedia.org/wiki/The_Beloved_(Rossetti_painting)?oldid=592618871</value>
 </wikilink>
+<type>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>oil on canvas</value>
+</type>
 </XML_Serializer_Tag>
 <XML_Serializer_Tag>
-<painting>
+<artwork>
 <type>uri</type>
 <value>http://dbpedia.org/resource/Found_(Rossetti)</value>
-</painting>
+</artwork>
 <thumbnail>
 <type>uri</type>
 <value>http://commons.wikimedia.org/wiki/Special:FilePath/Found_rossetti.jpg?width=300</value>
@@ -307,36 +365,17 @@
 <type>uri</type>
 <value>http://en.wikipedia.org/wiki/Found_(Rossetti)?oldid=601784339</value>
 </wikilink>
-</XML_Serializer_Tag>
-<XML_Serializer_Tag>
-<painting>
-<type>uri</type>
-<value>http://dbpedia.org/resource/Dante&apos;s_Dream</value>
-</painting>
-<thumbnail>
-<type>uri</type>
-<value>http://commons.wikimedia.org/wiki/Special:FilePath/Dante&apos;s_Dream_at_the_Time_of_the_Death_of_Beatrice_by_Dante_Gabriel_Rossetti.jpg?width=300</value>
-</thumbnail>
-<name>
+<type>
 <type>literal</type>
 <xml:lang>en</xml:lang>
-<value>Dante&apos;s Dream at the Time of the</value>
-</name>
-<year>
-<type>typed-literal</type>
-<datatype>http://www.w3.org/2001/XMLSchema#integer</datatype>
-<value>1871</value>
-</year>
-<wikilink>
-<type>uri</type>
-<value>http://en.wikipedia.org/wiki/Dante&apos;s_Dream?oldid=592388538</value>
-</wikilink>
+<value>oil on canvas</value>
+</type>
 </XML_Serializer_Tag>
 <XML_Serializer_Tag>
-<painting>
+<artwork>
 <type>uri</type>
 <value>http://dbpedia.org/resource/Dante&apos;s_Dream</value>
-</painting>
+</artwork>
 <thumbnail>
 <type>uri</type>
 <value>http://commons.wikimedia.org/wiki/Special:FilePath/Dante&apos;s_Dream_at_the_Time_of_the_Death_of_Beatrice_by_Dante_Gabriel_Rossetti.jpg?width=300</value>
@@ -355,12 +394,16 @@
 <type>uri</type>
 <value>http://en.wikipedia.org/wiki/Dante&apos;s_Dream?oldid=592388538</value>
 </wikilink>
+<type>
+<type>uri</type>
+<value>http://dbpedia.org/resource/Oil_painting</value>
+</type>
 </XML_Serializer_Tag>
 <XML_Serializer_Tag>
-<painting>
+<artwork>
 <type>uri</type>
 <value>http://dbpedia.org/resource/Bocca_Baciata</value>
-</painting>
+</artwork>
 <thumbnail>
 <type>uri</type>
 <value>http://commons.wikimedia.org/wiki/Special:FilePath/Dante_Gabriel_Rossetti_Bocca_Baciata_1859.png?width=300</value>
@@ -379,12 +422,16 @@
 <type>uri</type>
 <value>http://en.wikipedia.org/wiki/Bocca_Baciata?oldid=586573439</value>
 </wikilink>
+<type>
+<type>uri</type>
+<value>http://dbpedia.org/resource/Oil_painting</value>
+</type>
 </XML_Serializer_Tag>
 <XML_Serializer_Tag>
-<painting>
+<artwork>
 <type>uri</type>
 <value>http://dbpedia.org/resource/A_Vision_of_Fiammetta</value>
-</painting>
+</artwork>
 <thumbnail>
 <type>uri</type>
 <value>http://commons.wikimedia.org/wiki/Special:FilePath/A_Vision_of_Fiammetta_by_Dante_Gabriel_Rossetti.jpg?width=300</value>
@@ -403,12 +450,16 @@
 <type>uri</type>
 <value>http://en.wikipedia.org/wiki/A_Vision_of_Fiammetta?oldid=588305236</value>
 </wikilink>
+<type>
+<type>uri</type>
+<value>http://dbpedia.org/resource/Oil_painting</value>
+</type>
 </XML_Serializer_Tag>
 <XML_Serializer_Tag>
-<painting>
+<artwork>
 <type>uri</type>
 <value>http://dbpedia.org/resource/Ecce_Ancilla_Domini</value>
-</painting>
+</artwork>
 <thumbnail>
 <type>uri</type>
 <value>http://commons.wikimedia.org/wiki/Special:FilePath/Dante_Gabriel_Rossetti_-_Ecce_Ancilla_Domini!_-_Google_Art_Project.jpg?width=300</value>
@@ -427,9 +478,13 @@
 <type>uri</type>
 <value>http://en.wikipedia.org/wiki/Ecce_Ancilla_Domini?oldid=595590315</value>
 </wikilink>
+<type>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>oil on canvas</value>
+</type>
 </XML_Serializer_Tag>
 </artworks>
-<dbpResource>http://dbpedia.org/resource/Dante_Gabriel_Rossetti</dbpResource>
-<abstract>Dante Gabriel Rossetti (* 12. Mai 1828 in London; † 9. April 1882 in Birchington-on-Sea, Kent) war als Dichter und Maler gleichermaßen begabt. Er war wegen seiner dominierenden und charismatischen Persönlichkeit die treibende Kraft der Präraffaeliten, die die Reform der britischen Kunst als Ziel hatten. Er hielt wenig von Konventionen und wurde in den letzten Lebensjahren ein exzentrischer Sonderling.</abstract>
-<wikilink>http://en.wikipedia.org/wiki/Dante_Gabriel_Rossetti?oldid=602303622</wikilink>
+<buildings />
+<books />
 </Person>

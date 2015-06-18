@@ -11,8 +11,10 @@
 <professionOrOccupation>
 <XML_Serializer_Tag>Maler</XML_Serializer_Tag>
 </professionOrOccupation>
-<artworks />
 <dbpResource>http://dbpedia.org/resource/Osmar_Schindler</dbpResource>
 <abstract>Osmar Schindler, eigentlich Osmar Heinrich Volkmar Schindler, (* 22. Dezember 1867 in Burkhardtsdorf; † 19. Juni 1927 in Wachwitz bei Dresden) war ein deutscher Maler.</abstract>
 <wikilink>http://en.wikipedia.org/wiki/Osmar_Schindler?oldid=601670753</wikilink>
+<artworks />
+<buildings />
+<books />
 </Person>

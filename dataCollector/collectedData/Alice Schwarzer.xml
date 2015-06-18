@@ -1,0 +1,32 @@
+<Person>
+<name>Alice Schwarzer</name>
+<variantName>
+<XML_Serializer_Tag>A. Shubarutsā</XML_Serializer_Tag>
+<XML_Serializer_Tag>Arisu Shubarutsā</XML_Serializer_Tag>
+<XML_Serializer_Tag>Ailisi-Shiwaze</XML_Serializer_Tag>
+<XML_Serializer_Tag>Ai li si Shi wa ze</XML_Serializer_Tag>
+<XML_Serializer_Tag>Ailisi Shiwaze</XML_Serializer_Tag>
+<XML_Serializer_Tag>Alice Sophie Schwarzer</XML_Serializer_Tag>
+</variantName>
+<thumbnail>https://commons.wikimedia.org/wiki/Special:FilePath/Allice_schwarzer_I_2010.jpg?width=270</thumbnail>
+<birthEN>1942</birthEN>
+<birthDE>1942</birthDE>
+<deathEN />
+<deathDE />
+<birthPlace>
+<XML_Serializer_Tag>Wuppertal</XML_Serializer_Tag>
+</birthPlace>
+<deathPlace />
+<professionOrOccupation>
+<XML_Serializer_Tag>Journalistin</XML_Serializer_Tag>
+<XML_Serializer_Tag>Autorin</XML_Serializer_Tag>
+<XML_Serializer_Tag>Schriftstellerin</XML_Serializer_Tag>
+<XML_Serializer_Tag>Mitwirkung</XML_Serializer_Tag>
+</professionOrOccupation>
+<dbpResource>http://dbpedia.org/resource/Alice_Schwarzer</dbpResource>
+<abstract>Alice Sophie Schwarzer (* 3. Dezember 1942 in Wuppertal) ist eine deutsche Journalistin und Publizistin. Die Gründerin und Herausgeberin der Frauenzeitschrift Emma ist eine der bekanntesten Vertreterinnen der deutschen Frauenbewegung und versteht sich als Feministin.</abstract>
+<wikilink>http://en.wikipedia.org/wiki/Alice_Schwarzer?oldid=600160156</wikilink>
+<artworks />
+<buildings />
+<books />
+</Person>

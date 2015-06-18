@@ -1,0 +1,114 @@
+<Person>
+<name>Ludwig Wittgenstein</name>
+<variantName>
+<XML_Serializer_Tag>Ludwig Josef Johann Wittgenstein</XML_Serializer_Tag>
+<XML_Serializer_Tag>Ludvig Wittgenstein</XML_Serializer_Tag>
+<XML_Serializer_Tag>Ludovicus Wittgenstein</XML_Serializer_Tag>
+<XML_Serializer_Tag>L. Wittgenstein</XML_Serializer_Tag>
+<XML_Serializer_Tag>... Wittgenstein</XML_Serializer_Tag>
+<XML_Serializer_Tag>Lûdwig Wîtgenšṭain</XML_Serializer_Tag>
+<XML_Serializer_Tag>Ljudvig Vitgenštajn</XML_Serializer_Tag>
+<XML_Serializer_Tag>Ludvig Vitgenštajn</XML_Serializer_Tag>
+<XML_Serializer_Tag>Liudvigas Vitgenšteinas</XML_Serializer_Tag>
+<XML_Serializer_Tag>Ljudvig Vitgenštejn</XML_Serializer_Tag>
+<XML_Serializer_Tag>Rūtovihi Uitogenshutain</XML_Serializer_Tag>
+<XML_Serializer_Tag>... Uitogenshutain</XML_Serializer_Tag>
+<XML_Serializer_Tag>Lûdwîg Witgenšṭeyn</XML_Serializer_Tag>
+<XML_Serializer_Tag>Rūtovihi Vitogenshutain</XML_Serializer_Tag>
+<XML_Serializer_Tag>Lūdwīg Wītginšitāyn</XML_Serializer_Tag>
+<XML_Serializer_Tag>Ludvigs Vitgenšteins</XML_Serializer_Tag>
+<XML_Serializer_Tag>Ludwig J. Wittgenstein</XML_Serializer_Tag>
+<XML_Serializer_Tag>Luntbich Bittnkenstaïn</XML_Serializer_Tag>
+<XML_Serializer_Tag>לודויג ויטגנשטיין</XML_Serializer_Tag>
+<XML_Serializer_Tag>ルートヴィッヒ ヴィトゲンシュタイン</XML_Serializer_Tag>
+</variantName>
+<thumbnail>https://commons.wikimedia.org/wiki/Special:FilePath/Ludwig_Wittgenstein_1910.jpg?width=270</thumbnail>
+<birthEN>April 26, 1889</birthEN>
+<birthDE>26. April 1889</birthDE>
+<deathEN>April 29, 1951</deathEN>
+<deathDE>29. April 1951</deathDE>
+<birthPlace>
+<XML_Serializer_Tag>Wien</XML_Serializer_Tag>
+</birthPlace>
+<deathPlace>
+<XML_Serializer_Tag>Cambridge</XML_Serializer_Tag>
+</deathPlace>
+<professionOrOccupation>
+<XML_Serializer_Tag>Philosoph</XML_Serializer_Tag>
+<XML_Serializer_Tag>Pädagoge</XML_Serializer_Tag>
+<XML_Serializer_Tag>Architekt</XML_Serializer_Tag>
+</professionOrOccupation>
+<dbpResource>http://dbpedia.org/resource/Ludwig_Wittgenstein</dbpResource>
+<abstract>Ludwig Josef Johann Wittgenstein (* 26. April 1889 in Wien; † 29. April 1951 in Cambridge) war ein österreichisch-britischer Philosoph.Er lieferte bedeutende Beiträge zur Philosophie der Logik, der Sprache und des Bewusstseins. Seine beiden Hauptwerke Logisch-philosophische Abhandlung (Tractatus Logico-Philosophicus 1921) und Philosophische Untersuchungen (1953, postum) wurden zu wichtigen Bezugspunkten zweier philosophischer Schulen, des Logischen Positivismus und der Analytischen Sprachphilosophie.</abstract>
+<wikilink>http://en.wikipedia.org/wiki/Ludwig_Wittgenstein?oldid=606182789</wikilink>
+<artworks />
+<buildings />
+<books>
+<XML_Serializer_Tag>
+<book>
+<type>uri</type>
+<value>http://dbpedia.org/resource/Tractatus_Logico-Philosophicus</value>
+</book>
+<author>
+<type>uri</type>
+<value>http://dbpedia.org/resource/Ludwig_Wittgenstein</value>
+</author>
+<thumbnail>
+<type>uri</type>
+<value>http://commons.wikimedia.org/wiki/Special:FilePath/Tractatus_title_page_1922_Harcourt.png?width=300</value>
+</thumbnail>
+<wikilink>
+<type>uri</type>
+<value>http://en.wikipedia.org/wiki/Tractatus_Logico-Philosophicus?oldid=605775096</value>
+</wikilink>
+<abstract>
+<type>literal</type>
+<xml:lang>de</xml:lang>
+<value>Der Tractatus logico-philosophicus oder kurz Tractatus (der ursprüngliche deutsche Titel ist: Logisch-philosophische Abhandlung) ist das erste Hauptwerk des österreichischen Philosophen Ludwig Wittgenstein (1889–1951). Während des Ersten Weltkriegs geschrieben, wurde das Werk 1918 vollendet. Es erschien mit Unterstützung von Bertrand Russell zunächst 1921 in Wilhelm Ostwalds Annalen der Naturphilosophie. Diese von Wittgenstein nicht gegengelesene Fassung enthielt grobe Fehler. Eine korrigierte, zweisprachige Ausgabe (deutsch/englisch) erschien 1922 bei Kegan Paul, Trench, Trubner &amp; Co. in London und gilt als die offizielle Fassung. Die englische Übersetzung stammte von C. K. Ogden und Frank Ramsey. Eine zweite, zweisprachige Ausgabe erschien 1933. 1929 legte Wittgenstein den Tractatus (der lateinische, an Spinozas Tractatus theologico-politicus erinnernde Titel ging auf G. E. Moore zurück) als Doktorarbeit am Trinity College der Universität Cambridge vor. Wie im Titel des Buches angedeutet, enthält es zum einen eine logische Theorie, zum anderen legt Wittgenstein darin eine philosophische Methode dar. „Das Buch will also dem Denken eine Grenze ziehen, oder vielmehr – nicht dem Denken, sondern dem Ausdruck der Gedanken: Denn um dem Denken eine Grenze zu ziehen, müßten wir beide Seiten dieser Grenze denken können.“ (Vorwort). Wittgensteins Hauptanliegen ist es, die Philosophie von Unsinn und Verwirrung zu bereinigen, denn „Die meisten Sätze und Fragen, welche über philosophische Dinge geschrieben worden sind, sind nicht falsch, sondern unsinnig. Wir können daher Fragen dieser Art überhaupt nicht beantworten, sondern nur ihre Unsinnigkeit feststellen. Die meisten Fragen und Sätze der Philosophen beruhen darauf, dass wir unsere Sprachlogik nicht verstehen.“ (4.003)„Im Einzelnen” erhebt Wittgenstein „überhaupt nicht den Anspruch auf Neuheit; und darum gebe ich auch keine Quellen an, weil es mir gleichgültig ist, ob das was ich gedacht habe, vor mir schon ein anderer gedacht hat.” (Vorwort)Wittgenstein folgt im Tractatus dem modus mathematicus, der damals vor allem den analytischen Philosophen angebracht erschien (Frege, Russell, Whitehead, Schlick u. a.). Knapp gefasste, präzise Definitionen von Begriffen und logische Folgerungen, aber auch die Einführung von formalen Notationen aus der mathematischen Logik geben dem Text den Anschein größtmöglicher Allgemeinheit und Endgültigkeit. Das auffallende Nummerierungssystem der einzelnen Sätze und Absätze soll nach Aussage Wittgensteins das logische Gewicht der Sätze andeuten. Ebendieses Nummerierungssystem, das auf Wittgenstein zurückgeht, hat in der akademischen Welt großen Anklang und Verbreitung erfahren. Wittgenstein definiert in der Umgangssprache gebräuchliche Termini wie Satz, Tatsache, Sachverhalt oder auch Welt im Tractatus genau und entwirft mit ihnen eine Bedeutungs- und Sprachtheorie.</value>
+</abstract>
+</XML_Serializer_Tag>
+<XML_Serializer_Tag>
+<book>
+<type>uri</type>
+<value>http://dbpedia.org/resource/Blue_and_Brown_Books</value>
+</book>
+<author>
+<type>uri</type>
+<value>http://dbpedia.org/resource/Ludwig_Wittgenstein</value>
+</author>
+<released>
+<type>typed-literal</type>
+<datatype>http://www.w3.org/2001/XMLSchema#integer</datatype>
+<value>1958</value>
+</released>
+<wikilink>
+<type>uri</type>
+<value>http://en.wikipedia.org/wiki/Blue_and_Brown_Books?oldid=605881509</value>
+</wikilink>
+</XML_Serializer_Tag>
+<XML_Serializer_Tag>
+<book>
+<type>uri</type>
+<value>http://dbpedia.org/resource/Philosophical_Investigations</value>
+</book>
+<author>
+<type>uri</type>
+<value>http://dbpedia.org/resource/Ludwig_Wittgenstein</value>
+</author>
+<published>
+<type>typed-literal</type>
+<datatype>http://www.w3.org/2001/XMLSchema#integer</datatype>
+<value>1953</value>
+</published>
+<wikilink>
+<type>uri</type>
+<value>http://en.wikipedia.org/wiki/Philosophical_Investigations?oldid=594014349</value>
+</wikilink>
+<abstract>
+<type>literal</type>
+<xml:lang>de</xml:lang>
+<value>Die Philosophischen Untersuchungen sind Ludwig Wittgensteins spätes, zweites Hauptwerk. Das Buch formuliert die Grundgedanken der Philosophie der normalen Sprache. Die Philosophischen Untersuchungen übten einen außerordentlichen Einfluss auf die Philosophie der 2. Hälfte des 20. Jahrhunderts aus; unter anderem die Sprechakttheorie bei John Langshaw Austin und John Rogers Searle sowie der Erlanger Konstruktivismus (Paul Lorenzen, Kuno Lorenz) bauen auf den hier entwickelten Ideen auf. Das Buch richtet sich gegen die Philosophie der idealen Sprache, die neben Bertrand Russell und Rudolf Carnap vor allem Wittgenstein selbst noch in seinem ersten Hauptwerk, dem Tractatus Logico-Philosophicus, vertreten hatte.Das Buch ist in den Jahren 1936-1946 entstanden, wurde aber erst 1953, nach dem Tod des Autors, veröffentlicht. Im Gegensatz zu dem streng systematischen Aufbau des Tractatus sind die Philosophischen Untersuchungen eine mehr oder minder lose Sammlung von Aphorismen und Notizen. Nach Wittgensteins Aussage hat er mehrmals versucht, seine Ergebnisse „zu einem solchen Ganzen zusammenzuschweißen“, bis er einsehen musste, dass ihm „dies nie gelingen würde“ (Vorwort). Nichtsdestoweniger lassen sich doch eine ganze Reihe von Thesen zu unterschiedlichen Themenkomplexen identifizieren, die im Folgenden kurz vorgestellt werden sollen.</value>
+</abstract>
+</XML_Serializer_Tag>
+</books>
+</Person>

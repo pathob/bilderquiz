@@ -1,0 +1,64 @@
+<Person>
+<name>Robert Jay Lifton</name>
+<variantName>
+<XML_Serializer_Tag>Robert Jay Lifton</XML_Serializer_Tag>
+<XML_Serializer_Tag>Robert J. Lifton</XML_Serializer_Tag>
+<XML_Serializer_Tag>Robert Lifton</XML_Serializer_Tag>
+</variantName>
+<thumbnail>https://commons.wikimedia.org/wiki/Special:FilePath/2000_03_17_Robert_Jay_Lifton.jpg?width=270</thumbnail>
+<birthEN>1926</birthEN>
+<birthDE>1926</birthDE>
+<deathEN />
+<deathDE />
+<birthPlace />
+<deathPlace />
+<professionOrOccupation>
+<XML_Serializer_Tag>Psychiater</XML_Serializer_Tag>
+<XML_Serializer_Tag>Autor</XML_Serializer_Tag>
+</professionOrOccupation>
+<dbpResource>http://dbpedia.org/resource/Robert_Jay_Lifton</dbpResource>
+<abstract>Robert Jay Lifton (* 16. Mai 1926 in Brooklyn, New York, N.Y.) ist ein prominenter US-amerikanischer Psychiater und Autor, der vor allem durch seine psychologischen Studien über die Ursachen und Folgen von Kriegen und politischer Gewalt bekannt wurde. Er war einer der frühesten Verfechter der Methoden der Psychohistorie.</abstract>
+<wikilink>http://en.wikipedia.org/wiki/Robert_Jay_Lifton?oldid=592795289</wikilink>
+<artworks />
+<buildings />
+<books>
+<XML_Serializer_Tag>
+<book>
+<type>uri</type>
+<value>http://dbpedia.org/resource/Thought_Reform_and_the_Psychology_of_Totalism</value>
+</book>
+<author>
+<type>uri</type>
+<value>http://dbpedia.org/resource/Robert_Jay_Lifton</value>
+</author>
+<released>
+<type>typed-literal</type>
+<datatype>http://www.w3.org/2001/XMLSchema#integer</datatype>
+<value>19611989</value>
+</released>
+<wikilink>
+<type>uri</type>
+<value>http://en.wikipedia.org/wiki/Thought_Reform_and_the_Psychology_of_Totalism?oldid=592794622</value>
+</wikilink>
+</XML_Serializer_Tag>
+<XML_Serializer_Tag>
+<book>
+<type>uri</type>
+<value>http://dbpedia.org/resource/Cults_in_Our_Midst</value>
+</book>
+<author>
+<type>uri</type>
+<value>http://dbpedia.org/resource/Robert_Jay_Lifton</value>
+</author>
+<released>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>September 1996</value>
+</released>
+<wikilink>
+<type>uri</type>
+<value>http://en.wikipedia.org/wiki/Cults_in_Our_Midst?oldid=595175243</value>
+</wikilink>
+</XML_Serializer_Tag>
+</books>
+</Person>

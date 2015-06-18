@@ -1,0 +1,35 @@
+<Person>
+<name>Otto Julius Bierbaum</name>
+<variantName>
+<XML_Serializer_Tag>Simplicissimus</XML_Serializer_Tag>
+<XML_Serializer_Tag>Martin Möbius</XML_Serializer_Tag>
+<XML_Serializer_Tag>O. J. Bierbaum</XML_Serializer_Tag>
+<XML_Serializer_Tag>Julius Otto Bierbaum</XML_Serializer_Tag>
+<XML_Serializer_Tag>Otto Julius Birbaum</XML_Serializer_Tag>
+<XML_Serializer_Tag>Otto J. Bierbaum</XML_Serializer_Tag>
+</variantName>
+<thumbnail>https://de.wikipedia.org/wiki/Special:FilePath/Martin_Möbius.JPEG?width=270</thumbnail>
+<birthEN>June 28, 1865</birthEN>
+<birthDE>28. Juni 1865</birthDE>
+<deathEN>February 1, 1910</deathEN>
+<deathDE>1. Februar 1910</deathDE>
+<birthPlace>
+<XML_Serializer_Tag>Grünberg i. Schlesien</XML_Serializer_Tag>
+</birthPlace>
+<deathPlace>
+<XML_Serializer_Tag>Dresden</XML_Serializer_Tag>
+</deathPlace>
+<professionOrOccupation>
+<XML_Serializer_Tag>Lyriker</XML_Serializer_Tag>
+<XML_Serializer_Tag>Redakteur</XML_Serializer_Tag>
+<XML_Serializer_Tag>Journalist</XML_Serializer_Tag>
+<XML_Serializer_Tag>Schriftsteller</XML_Serializer_Tag>
+<XML_Serializer_Tag>Liederdichter</XML_Serializer_Tag>
+</professionOrOccupation>
+<dbpResource>http://dbpedia.org/resource/Otto_Julius_Bierbaum</dbpResource>
+<abstract>Otto Julius Bierbaum (* 28. Juni 1865 in Grünberg in Schlesien; † 1. Februar 1910 in Dresden), auch bekannt unter den Pseudonymen Martin Möbius und Simplicissimus, war ein deutscher Journalist, Redakteur, Schriftsteller und Librettist.</abstract>
+<wikilink>http://en.wikipedia.org/wiki/Otto_Julius_Bierbaum?oldid=590267632</wikilink>
+<artworks />
+<buildings />
+<books />
+</Person>

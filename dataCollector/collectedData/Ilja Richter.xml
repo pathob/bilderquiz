@@ -1,0 +1,25 @@
+<Person>
+<name>Ilja Richter</name>
+<variantName />
+<thumbnail>https://commons.wikimedia.org/wiki/Special:FilePath/Ilja-richter2013.jpg?width=270</thumbnail>
+<birthEN>1952</birthEN>
+<birthDE>1952</birthDE>
+<deathEN />
+<deathDE />
+<birthPlace>
+<XML_Serializer_Tag>Berlin</XML_Serializer_Tag>
+</birthPlace>
+<deathPlace />
+<professionOrOccupation>
+<XML_Serializer_Tag>Schauspieler</XML_Serializer_Tag>
+<XML_Serializer_Tag>Sprecher</XML_Serializer_Tag>
+<XML_Serializer_Tag>Autor</XML_Serializer_Tag>
+<XML_Serializer_Tag>Sänger</XML_Serializer_Tag>
+</professionOrOccupation>
+<dbpResource>http://dbpedia.org/resource/Ilja_Richter</dbpResource>
+<abstract>Ilja Richter (* 24. November 1952 in Berlin) ist ein deutscher Schauspieler, Synchronsprecher, Sänger und Fernsehmoderator.</abstract>
+<wikilink>http://en.wikipedia.org/wiki/Ilja_Richter?oldid=584864232</wikilink>
+<artworks />
+<buildings />
+<books />
+</Person>

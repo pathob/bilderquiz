@@ -17,8 +17,25 @@
 <XML_Serializer_Tag>Zoologe</XML_Serializer_Tag>
 <XML_Serializer_Tag>Maler</XML_Serializer_Tag>
 </professionOrOccupation>
-<artworks />
 <dbpResource>http://dbpedia.org/resource/John_Gould</dbpResource>
 <abstract>John Gould, (* 14. September 1804 in Lyme Regis, Dorset; † 3. Februar 1881 in London) war ein britischer Vogelkundler und Tiermaler. Anfang 1837 erkannte Gould, dass die von Charles Darwin von seiner Reise mit der H.M.S Beagle mitgebrachten Galápagos-Finken eine eigenständige Gruppe bilden. Von 1838 bis 1840 unternahm er selbst eine 27 Monate dauernde zoologische Expedition nach Australien und sammelte dort gemeinsam mit John Gilbert (1812–1845) etwa 800 Vögel und ungefähr 70 Säugetiere. Nach seiner Rückkehr entstanden viele Werke zur Tierwelt Australiens, die mit zahlreichen farbigen Lithografien ausgestattet waren.</abstract>
 <wikilink>http://en.wikipedia.org/wiki/John_Gould?oldid=604833258</wikilink>
+<artworks />
+<buildings />
+<books>
+<XML_Serializer_Tag>
+<book>
+<type>uri</type>
+<value>http://dbpedia.org/resource/Handbook_to_the_Birds_of_Australia</value>
+</book>
+<author>
+<type>uri</type>
+<value>http://dbpedia.org/resource/John_Gould</value>
+</author>
+<wikilink>
+<type>uri</type>
+<value>http://en.wikipedia.org/wiki/Handbook_to_the_Birds_of_Australia?oldid=587632386</value>
+</wikilink>
+</XML_Serializer_Tag>
+</books>
 </Person>

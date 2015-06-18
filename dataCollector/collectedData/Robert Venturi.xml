@@ -1,0 +1,73 @@
+<Person>
+<name>Robert Venturi</name>
+<variantName>
+<XML_Serializer_Tag>Robert Charles Venturi</XML_Serializer_Tag>
+</variantName>
+<thumbnail>https://commons.wikimedia.org/wiki/Special:FilePath/National_Gallery_London_Sainsbury_Wing_2006-04-17.jpg?width=270</thumbnail>
+<birthEN>1925</birthEN>
+<birthDE>1925</birthDE>
+<deathEN />
+<deathDE />
+<birthPlace />
+<deathPlace />
+<professionOrOccupation>
+<XML_Serializer_Tag>Architekt</XML_Serializer_Tag>
+</professionOrOccupation>
+<dbpResource>http://dbpedia.org/resource/Robert_Venturi</dbpResource>
+<abstract>Robert Venturi (* 25. Juni 1925 in Philadelphia) ist ein US-amerikanischer Architekt. Er gilt als bedeutender Vertreter der Postmodernen Architektur, besonders auch als Theoretiker und Publizist. 1991 wurde er mit dem Pritzker-Preis ausgezeichnet und ist seit 1997 Ehrenmitglied des Bundes Deutscher Architekten BDA. In Learning from Las Vegas verwies Venturi am Beispiel des Las Vegas Strip, der zentralen Hauptstraße von Las Vegas, auf die Alltagsbaukunst Amerikas und hebt diese ins Zentrum der Architekturdebatte. Nicht die Bauwerke der Moderne seien „funktional“, sondern gerade die trivialen und mitunter hässlichen Formen des Bauens, die den Großteil der Städte ausmachen und ihre reale Funktionalität tagtäglich in der Praxis unter Beweis stellen.</abstract>
+<wikilink>http://en.wikipedia.org/wiki/Robert_Venturi?oldid=605599336</wikilink>
+<artworks />
+<buildings>
+<XML_Serializer_Tag>
+<building>
+<type>uri</type>
+<value>http://dbpedia.org/resource/Vanna_Venturi_House</value>
+</building>
+<name>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>Vanna Venturi House</value>
+</name>
+<architect>
+<type>uri</type>
+<value>http://dbpedia.org/resource/Robert_Venturi</value>
+</architect>
+<thumbnail>
+<type>uri</type>
+<value>http://commons.wikimedia.org/wiki/Special:FilePath/VVenturi_House_Highsmith.jpeg?width=300</value>
+</thumbnail>
+<wikilink>
+<type>uri</type>
+<value>http://en.wikipedia.org/wiki/Vanna_Venturi_House?oldid=604994945</value>
+</wikilink>
+<location>
+<type>uri</type>
+<value>http://dbpedia.org/resource/Chestnut_Hill,_Philadelphia</value>
+</location>
+</XML_Serializer_Tag>
+<XML_Serializer_Tag>
+<building>
+<type>uri</type>
+<value>http://dbpedia.org/resource/Bard_College_Campus</value>
+</building>
+<name>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>Bard Hall</value>
+</name>
+<architect>
+<type>uri</type>
+<value>http://dbpedia.org/resource/Robert_Venturi</value>
+</architect>
+<thumbnail>
+<type>uri</type>
+<value>http://commons.wikimedia.org/wiki/Special:FilePath/Bard_College_Campus_Map.png?width=300</value>
+</thumbnail>
+<wikilink>
+<type>uri</type>
+<value>http://en.wikipedia.org/wiki/Bard_College_Campus?oldid=595127541</value>
+</wikilink>
+</XML_Serializer_Tag>
+</buildings>
+<books />
+</Person>

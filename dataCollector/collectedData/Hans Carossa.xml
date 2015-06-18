@@ -1,0 +1,29 @@
+<Person>
+<name>Hans Carossa</name>
+<variantName>
+<XML_Serializer_Tag>Johann Carl Carossa</XML_Serializer_Tag>
+<XML_Serializer_Tag>... Karossa</XML_Serializer_Tag>
+<XML_Serializer_Tag>한스 카로사</XML_Serializer_Tag>
+</variantName>
+<thumbnail>https://de.wikipedia.org/wiki/Special:FilePath/Hans_Carossa_1912.JPG?width=270</thumbnail>
+<birthEN>December 15, 1878</birthEN>
+<birthDE>15. Dezember 1878</birthDE>
+<deathEN>September 12, 1956</deathEN>
+<deathDE>12. September 1956</deathDE>
+<birthPlace>
+<XML_Serializer_Tag>Bad Tölz</XML_Serializer_Tag>
+</birthPlace>
+<deathPlace>
+<XML_Serializer_Tag>Rittsteig bei Passau</XML_Serializer_Tag>
+</deathPlace>
+<professionOrOccupation>
+<XML_Serializer_Tag>Arzt</XML_Serializer_Tag>
+<XML_Serializer_Tag>Schriftsteller</XML_Serializer_Tag>
+</professionOrOccupation>
+<dbpResource>http://dbpedia.org/resource/Hans_Carossa</dbpResource>
+<abstract>Hans Carossa (* 15. Dezember 1878 in Tölz; † 12. September 1956 in Rittsteig bei Passau) war ein deutscher Arzt sowie Lyriker und Autor von Erzählungen.</abstract>
+<wikilink>http://en.wikipedia.org/wiki/Hans_Carossa?oldid=590266734</wikilink>
+<artworks />
+<buildings />
+<books />
+</Person>

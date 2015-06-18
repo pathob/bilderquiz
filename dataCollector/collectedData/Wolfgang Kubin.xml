@@ -1,0 +1,34 @@
+<Person>
+<name>Wolfgang Kubin</name>
+<variantName>
+<XML_Serializer_Tag>W. Kubin</XML_Serializer_Tag>
+<XML_Serializer_Tag>W. Gubin</XML_Serializer_Tag>
+<XML_Serializer_Tag>Gu bin</XML_Serializer_Tag>
+<XML_Serializer_Tag>Gubin</XML_Serializer_Tag>
+<XML_Serializer_Tag>Wo fu gang Gu bin</XML_Serializer_Tag>
+<XML_Serializer_Tag>Wofugang-Gubin</XML_Serializer_Tag>
+<XML_Serializer_Tag>Wofugang Gubin</XML_Serializer_Tag>
+<XML_Serializer_Tag>顾彬</XML_Serializer_Tag>
+</variantName>
+<thumbnail>https://commons.wikimedia.org/wiki/Special:FilePath/2010-01-21_Wolfgang_Kubin.jpg?width=270</thumbnail>
+<birthEN>1945</birthEN>
+<birthDE>1945</birthDE>
+<deathEN />
+<deathDE />
+<birthPlace>
+<XML_Serializer_Tag>Celle</XML_Serializer_Tag>
+</birthPlace>
+<deathPlace />
+<professionOrOccupation>
+<XML_Serializer_Tag>Sinologe</XML_Serializer_Tag>
+<XML_Serializer_Tag>Hochschullehrer</XML_Serializer_Tag>
+<XML_Serializer_Tag>Übersetzer</XML_Serializer_Tag>
+<XML_Serializer_Tag>Autor</XML_Serializer_Tag>
+</professionOrOccupation>
+<dbpResource>http://dbpedia.org/resource/Wolfgang_Kubin</dbpResource>
+<abstract>Wolfgang Kubin (* 17. Dezember 1945 in Celle) ist ein deutscher Lyriker, Essayist, Sinologe, Hochschullehrer und Literatur-Übersetzer. Er zählt zu den wichtigsten Sinologen in Deutschland.</abstract>
+<wikilink>http://en.wikipedia.org/wiki/Wolfgang_Kubin?oldid=599776723</wikilink>
+<artworks />
+<buildings />
+<books />
+</Person>

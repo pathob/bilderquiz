@@ -24,8 +24,10 @@
 <XML_Serializer_Tag>Maler</XML_Serializer_Tag>
 <XML_Serializer_Tag>Graphiker</XML_Serializer_Tag>
 </professionOrOccupation>
-<artworks />
 <dbpResource>http://dbpedia.org/resource/David_Alfaro_Siqueiros</dbpResource>
 <abstract>David Alfaro Siqueiros (* 29. Dezember 1896 in Chihuahua; † 6. Januar 1974 in Mexiko-Stadt) war ein mexikanischer Maler und Grafiker.</abstract>
 <wikilink>http://en.wikipedia.org/wiki/David_Alfaro_Siqueiros?oldid=605779398</wikilink>
+<artworks />
+<buildings />
+<books />
 </Person>

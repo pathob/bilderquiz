@@ -1,0 +1,33 @@
+<Person>
+<name>David Hess</name>
+<variantName>
+<XML_Serializer_Tag>Daniel Hildebrand</XML_Serializer_Tag>
+<XML_Serializer_Tag>Daniel Hildebrandt</XML_Serializer_Tag>
+<XML_Serializer_Tag>D. H.</XML_Serializer_Tag>
+<XML_Serializer_Tag>Gillray junior</XML_Serializer_Tag>
+<XML_Serializer_Tag>David Heß</XML_Serializer_Tag>
+</variantName>
+<thumbnail>https://commons.wikimedia.org/wiki/Special:FilePath/David_Hess_(1770-1843).jpg?width=270</thumbnail>
+<birthEN>1770</birthEN>
+<birthDE>1770</birthDE>
+<deathEN>1843</deathEN>
+<deathDE>1843</deathDE>
+<birthPlace>
+<XML_Serializer_Tag>Zürich</XML_Serializer_Tag>
+</birthPlace>
+<deathPlace>
+<XML_Serializer_Tag>Zürich</XML_Serializer_Tag>
+</deathPlace>
+<professionOrOccupation>
+<XML_Serializer_Tag>Schriftsteller</XML_Serializer_Tag>
+<XML_Serializer_Tag>Künstler</XML_Serializer_Tag>
+<XML_Serializer_Tag>Zeichner</XML_Serializer_Tag>
+<XML_Serializer_Tag>Komponist</XML_Serializer_Tag>
+</professionOrOccupation>
+<dbpResource>http://dbpedia.org/resource/David_Hess</dbpResource>
+<abstract>David Alexander Hess, auch David Hess; David Dante und David Hill (* 19. September 1936 in New York City, New York; † 8. Oktober 2011) war ein US-amerikanischer Musiker, Komponist, Filmregisseur, Filmproduzent und Schauspieler.</abstract>
+<wikilink>http://en.wikipedia.org/wiki/David_Hess?oldid=602235117</wikilink>
+<artworks />
+<buildings />
+<books />
+</Person>

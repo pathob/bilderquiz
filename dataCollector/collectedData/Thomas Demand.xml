@@ -1,0 +1,27 @@
+<Person>
+<name>Thomas Demand</name>
+<variantName>
+<XML_Serializer_Tag>Thomas C. Demand</XML_Serializer_Tag>
+<XML_Serializer_Tag>Thomas Cyrill Demand</XML_Serializer_Tag>
+</variantName>
+<thumbnail>https://commons.wikimedia.org/wiki/Special:FilePath/Thomas_Demand_by_David_Shankbone.jpg?width=270</thumbnail>
+<birthEN>1964</birthEN>
+<birthDE>1964</birthDE>
+<deathEN />
+<deathDE />
+<birthPlace>
+<XML_Serializer_Tag>München</XML_Serializer_Tag>
+</birthPlace>
+<deathPlace />
+<professionOrOccupation>
+<XML_Serializer_Tag>Photograph</XML_Serializer_Tag>
+<XML_Serializer_Tag>Künstler</XML_Serializer_Tag>
+<XML_Serializer_Tag>Regisseur</XML_Serializer_Tag>
+</professionOrOccupation>
+<dbpResource>http://dbpedia.org/resource/Thomas_Demand</dbpResource>
+<abstract>Thomas Demand (* 1964 in München) ist ein Künstler, der Tatort- und Pressefotografien detailgetreu aus Papier nachbaut, um sie dann zu fotografieren. Diese „zweiten“ Fotografien werden dann, nach der Zerstörung des Modells, ausgestellt. Er studierte in München, Düsseldorf und London. Er lebt und arbeitet in Berlin.</abstract>
+<wikilink>http://en.wikipedia.org/wiki/Thomas_Demand?oldid=604190804</wikilink>
+<artworks />
+<buildings />
+<books />
+</Person>

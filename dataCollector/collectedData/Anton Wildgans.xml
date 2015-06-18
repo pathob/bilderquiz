@@ -1,0 +1,27 @@
+<Person>
+<name>Anton Wildgans</name>
+<variantName />
+<thumbnail>https://commons.wikimedia.org/wiki/Special:FilePath/Anton_Wildgans_(1881–1932)_1932.jpg?width=270</thumbnail>
+<birthEN>April 17, 1881</birthEN>
+<birthDE>17. April 1881</birthDE>
+<deathEN>May 3, 1932</deathEN>
+<deathDE>3. Mai 1932</deathDE>
+<birthPlace>
+<XML_Serializer_Tag>Wien</XML_Serializer_Tag>
+</birthPlace>
+<deathPlace>
+<XML_Serializer_Tag>Mödling</XML_Serializer_Tag>
+</deathPlace>
+<professionOrOccupation>
+<XML_Serializer_Tag>Schriftsteller</XML_Serializer_Tag>
+<XML_Serializer_Tag>Theaterdirektor</XML_Serializer_Tag>
+<XML_Serializer_Tag>Dramatiker</XML_Serializer_Tag>
+<XML_Serializer_Tag>Jurist</XML_Serializer_Tag>
+</professionOrOccupation>
+<dbpResource>http://dbpedia.org/resource/Anton_Wildgans</dbpResource>
+<abstract>Anton Wildgans (* 17. April 1881 in Wien; † 3. Mai 1932 in Mödling, Niederösterreich) war ein österreichischer Lyriker und Dramatiker.</abstract>
+<wikilink>http://en.wikipedia.org/wiki/Anton_Wildgans?oldid=541505328</wikilink>
+<artworks />
+<buildings />
+<books />
+</Person>

@@ -1,0 +1,68 @@
+<Person>
+<name>Janusz Korczak</name>
+<variantName>
+<XML_Serializer_Tag>Henryk Goldszmit</XML_Serializer_Tag>
+<XML_Serializer_Tag>Henryk Goldsmit</XML_Serializer_Tag>
+<XML_Serializer_Tag>Henryk Goldzmit</XML_Serializer_Tag>
+<XML_Serializer_Tag>Januš Korczak</XML_Serializer_Tag>
+<XML_Serializer_Tag>Yānūsh Kūrtshāk</XML_Serializer_Tag>
+<XML_Serializer_Tag>Yanush Ḳorts&apos;aḳ</XML_Serializer_Tag>
+<XML_Serializer_Tag>Januš Korčak</XML_Serializer_Tag>
+<XML_Serializer_Tag>Yanusyu Kolŭchag</XML_Serializer_Tag>
+</variantName>
+<thumbnail>https://commons.wikimedia.org/wiki/Special:FilePath/Janusz_Korczak.PNG?width=270</thumbnail>
+<birthEN>July 22, 1878</birthEN>
+<birthDE>22. Juli 1878</birthDE>
+<deathEN>August 6, 1942</deathEN>
+<deathDE>6. August 1942</deathDE>
+<birthPlace>
+<XML_Serializer_Tag>Warschau</XML_Serializer_Tag>
+</birthPlace>
+<deathPlace>
+<XML_Serializer_Tag>Treblinka</XML_Serializer_Tag>
+</deathPlace>
+<professionOrOccupation>
+<XML_Serializer_Tag>Pädagoge</XML_Serializer_Tag>
+<XML_Serializer_Tag>Kinderarzt</XML_Serializer_Tag>
+<XML_Serializer_Tag>Schriftsteller</XML_Serializer_Tag>
+</professionOrOccupation>
+<dbpResource>http://dbpedia.org/resource/Janusz_Korczak</dbpResource>
+<abstract>Janusz Korczak, eigentlich Henryk Goldszmit (* 22. Juli 1878 oder 1879 in Warschau; † nach dem 5. August 1942 vermutlich im Vernichtungslager Treblinka), war ein polnischer Arzt, Kinderbuchautor und bedeutender Pädagoge. Bekannt wurde er vor allem durch seinen Einsatz für Kinder. So begleitete er die Kinder seines Waisenhauses beim Abtransport in ein Vernichtungslager, obwohl das auch für ihn selbst den Tod bedeutete.</abstract>
+<wikilink>http://en.wikipedia.org/wiki/Janusz_Korczak?oldid=605662421</wikilink>
+<artworks />
+<buildings />
+<books>
+<XML_Serializer_Tag>
+<book>
+<type>uri</type>
+<value>http://dbpedia.org/resource/Kaytek_the_Wizard</value>
+</book>
+<author>
+<type>uri</type>
+<value>http://dbpedia.org/resource/Janusz_Korczak</value>
+</author>
+<thumbnail>
+<type>uri</type>
+<value>http://commons.wikimedia.org/wiki/Special:FilePath/Janusz_Korczak.PNG?width=300</value>
+</thumbnail>
+<wikilink>
+<type>uri</type>
+<value>http://en.wikipedia.org/wiki/Kaytek_the_Wizard?oldid=570898142</value>
+</wikilink>
+</XML_Serializer_Tag>
+<XML_Serializer_Tag>
+<book>
+<type>uri</type>
+<value>http://dbpedia.org/resource/King_Matt_the_First</value>
+</book>
+<author>
+<type>uri</type>
+<value>http://dbpedia.org/resource/Janusz_Korczak</value>
+</author>
+<wikilink>
+<type>uri</type>
+<value>http://en.wikipedia.org/wiki/King_Matt_the_First?oldid=597267405</value>
+</wikilink>
+</XML_Serializer_Tag>
+</books>
+</Person>

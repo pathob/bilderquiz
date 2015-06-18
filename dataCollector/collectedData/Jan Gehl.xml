@@ -1,0 +1,24 @@
+<Person>
+<name>Jan Gehl</name>
+<variantName />
+<thumbnail>https://commons.wikimedia.org/wiki/Special:FilePath/Jan_Gehl_2006.jpg?width=270</thumbnail>
+<birthEN>1936</birthEN>
+<birthDE>1936</birthDE>
+<deathEN />
+<deathDE />
+<birthPlace>
+<XML_Serializer_Tag>Kopenhagen</XML_Serializer_Tag>
+</birthPlace>
+<deathPlace />
+<professionOrOccupation>
+<XML_Serializer_Tag>Architekt</XML_Serializer_Tag>
+<XML_Serializer_Tag>Stadtplaner</XML_Serializer_Tag>
+<XML_Serializer_Tag>Hochschullehrer</XML_Serializer_Tag>
+</professionOrOccupation>
+<dbpResource>http://dbpedia.org/resource/Jan_Gehl</dbpResource>
+<abstract>Jan Gehl (* 17. September 1936) ist ein dänischer Architekt und Stadtplaner aus Kopenhagen. Einen besonderen Fokus legt Gehl auf die Verbesserung der städtebaulichen Qualität für Fußgänger und Radfahrer.</abstract>
+<wikilink>http://en.wikipedia.org/wiki/Jan_Gehl?oldid=604192046</wikilink>
+<artworks />
+<buildings />
+<books />
+</Person>

@@ -14,8 +14,10 @@
 <XML_Serializer_Tag>Künstler</XML_Serializer_Tag>
 <XML_Serializer_Tag>Maler</XML_Serializer_Tag>
 </professionOrOccupation>
-<artworks />
 <dbpResource>http://dbpedia.org/resource/Jonas_Burgert</dbpResource>
 <abstract>Jonas Burgert (* 1969 in Berlin-West) ist ein zeitgenössischer Maler, er lebt und arbeitet in Berlin. Sein künstlerisches Schaffen wird seit 2005 von der Produzentengalerie in Hamburg vertreten sowie von der Galerie Blain|Southern in London und Berlin.</abstract>
 <wikilink>http://en.wikipedia.org/wiki/Jonas_Burgert?oldid=602364001</wikilink>
+<artworks />
+<buildings />
+<books />
 </Person>

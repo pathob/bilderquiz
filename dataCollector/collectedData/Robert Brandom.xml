@@ -1,0 +1,25 @@
+<Person>
+<name>Robert Brandom</name>
+<variantName>
+<XML_Serializer_Tag>Robert B. Brandom</XML_Serializer_Tag>
+<XML_Serializer_Tag>Bob Brandom</XML_Serializer_Tag>
+<XML_Serializer_Tag>Robert Boyce Brandom</XML_Serializer_Tag>
+</variantName>
+<thumbnail>https://commons.wikimedia.org/wiki/Special:FilePath/Robert_Brandom.jpg?width=270</thumbnail>
+<birthEN>1950</birthEN>
+<birthDE>1950</birthDE>
+<deathEN />
+<deathDE />
+<birthPlace />
+<deathPlace />
+<professionOrOccupation>
+<XML_Serializer_Tag>Philosoph</XML_Serializer_Tag>
+<XML_Serializer_Tag>Hochschullehrer</XML_Serializer_Tag>
+</professionOrOccupation>
+<dbpResource>http://dbpedia.org/resource/Robert_Brandom</dbpResource>
+<abstract>Robert Boyce Brandom (* 13. März 1950) ist ein US-amerikanischer Philosoph. Er zählt zu den maßgeblichen Philosophen der Gegenwart und hat wichtige Beiträge zur Sprachphilosophie und zum Verständnis der Logik erarbeitet.</abstract>
+<wikilink>http://en.wikipedia.org/wiki/Robert_Brandom?oldid=557706672</wikilink>
+<artworks />
+<buildings />
+<books />
+</Person>

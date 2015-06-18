@@ -19,8 +19,10 @@
 <XML_Serializer_Tag>Maler</XML_Serializer_Tag>
 <XML_Serializer_Tag>Zeichner</XML_Serializer_Tag>
 </professionOrOccupation>
-<artworks />
 <dbpResource>http://dbpedia.org/resource/Ferdinand_Piloty</dbpResource>
 <abstract>Ferdinand Piloty (der Ältere) (* 28. August 1786 in Homburg; † 8. Januar 1844 in München) war ein deutscher Lithograf.</abstract>
 <wikilink>http://en.wikipedia.org/wiki/Ferdinand_Piloty?oldid=590951133</wikilink>
+<artworks />
+<buildings />
+<books />
 </Person>

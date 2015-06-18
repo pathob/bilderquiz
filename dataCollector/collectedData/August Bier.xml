@@ -1,0 +1,31 @@
+<Person>
+<name>August Bier</name>
+<variantName>
+<XML_Serializer_Tag>A. Bier</XML_Serializer_Tag>
+<XML_Serializer_Tag>Aug. Bier</XML_Serializer_Tag>
+<XML_Serializer_Tag>August Karl Gustav Bier</XML_Serializer_Tag>
+</variantName>
+<thumbnail>https://commons.wikimedia.org/wiki/Special:FilePath/August_Bier.jpg?width=270</thumbnail>
+<birthEN>November 24, 1861</birthEN>
+<birthDE>24. November 1861</birthDE>
+<deathEN>March 12, 1949</deathEN>
+<deathDE>12. März 1949</deathDE>
+<birthPlace>
+<XML_Serializer_Tag>Helsen</XML_Serializer_Tag>
+</birthPlace>
+<deathPlace>
+<XML_Serializer_Tag>Sauen</XML_Serializer_Tag>
+</deathPlace>
+<professionOrOccupation>
+<XML_Serializer_Tag>Arzt</XML_Serializer_Tag>
+<XML_Serializer_Tag>Chirurg</XML_Serializer_Tag>
+<XML_Serializer_Tag>Schriftsteller</XML_Serializer_Tag>
+<XML_Serializer_Tag>Hochschullehrer</XML_Serializer_Tag>
+</professionOrOccupation>
+<dbpResource>http://dbpedia.org/resource/August_Bier</dbpResource>
+<abstract>August Bier (* 24. November 1861 in Helsen, Waldeck; † 12. März 1949 in Sauen, Brandenburg) war ein deutscher Chirurg und Hochschullehrer. Er war auch ein bedeutender Förster.</abstract>
+<wikilink>http://en.wikipedia.org/wiki/August_Bier?oldid=582891507</wikilink>
+<artworks />
+<buildings />
+<books />
+</Person>

@@ -1,0 +1,57 @@
+<Person>
+<name>Jeannette Walls</name>
+<variantName />
+<thumbnail>https://commons.wikimedia.org/wiki/Special:FilePath/Jeannette_walls_2009.jpg?width=270</thumbnail>
+<birthEN>1960</birthEN>
+<birthDE>1960</birthDE>
+<deathEN />
+<deathDE />
+<birthPlace>
+<XML_Serializer_Tag>Phoenix, Ariz.</XML_Serializer_Tag>
+</birthPlace>
+<deathPlace />
+<professionOrOccupation>
+<XML_Serializer_Tag>Schriftstellerin</XML_Serializer_Tag>
+<XML_Serializer_Tag>Journalistin</XML_Serializer_Tag>
+</professionOrOccupation>
+<dbpResource>http://dbpedia.org/resource/Jeannette_Walls</dbpResource>
+<abstract>Jeannette Walls (* 1960 in Phoenix, Arizona) ist eine US-amerikanische Journalistin und Schriftstellerin.</abstract>
+<wikilink>http://en.wikipedia.org/wiki/Jeannette_Walls?oldid=595046843</wikilink>
+<artworks />
+<buildings />
+<books>
+<XML_Serializer_Tag>
+<book>
+<type>uri</type>
+<value>http://dbpedia.org/resource/Half_Broke_Horses</value>
+</book>
+<author>
+<type>uri</type>
+<value>http://dbpedia.org/resource/Jeannette_Walls</value>
+</author>
+<released>
+<type>typed-literal</type>
+<datatype>http://www.w3.org/2001/XMLSchema#integer</datatype>
+<value>2009</value>
+</released>
+<wikilink>
+<type>uri</type>
+<value>http://en.wikipedia.org/wiki/Half_Broke_Horses?oldid=604186410</value>
+</wikilink>
+</XML_Serializer_Tag>
+<XML_Serializer_Tag>
+<book>
+<type>uri</type>
+<value>http://dbpedia.org/resource/The_Glass_Castle</value>
+</book>
+<author>
+<type>uri</type>
+<value>http://dbpedia.org/resource/Jeannette_Walls</value>
+</author>
+<wikilink>
+<type>uri</type>
+<value>http://en.wikipedia.org/wiki/The_Glass_Castle?oldid=606030765</value>
+</wikilink>
+</XML_Serializer_Tag>
+</books>
+</Person>

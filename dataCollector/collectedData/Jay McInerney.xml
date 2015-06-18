@@ -1,0 +1,43 @@
+<Person>
+<name>Jay McInerney</name>
+<variantName>
+<XML_Serializer_Tag>Jay MacInerney</XML_Serializer_Tag>
+<XML_Serializer_Tag>Jay Mc Inerney</XML_Serializer_Tag>
+</variantName>
+<thumbnail>https://commons.wikimedia.org/wiki/Special:FilePath/Jay_McInerney_by_David_Shankbone.jpg?width=270</thumbnail>
+<birthEN>1955</birthEN>
+<birthDE>1955</birthDE>
+<deathEN />
+<deathDE />
+<birthPlace />
+<deathPlace />
+<professionOrOccupation>
+<XML_Serializer_Tag>Schriftsteller</XML_Serializer_Tag>
+</professionOrOccupation>
+<dbpResource>http://dbpedia.org/resource/Jay_McInerney</dbpResource>
+<abstract>John Barrett McInerney Jr. (* 13. Januar 1955 in Hartford, Connecticut) ist ein US-amerikanischer Schriftsteller.</abstract>
+<wikilink>http://en.wikipedia.org/wiki/Jay_McInerney?oldid=604020198</wikilink>
+<artworks />
+<buildings />
+<books>
+<XML_Serializer_Tag>
+<book>
+<type>uri</type>
+<value>http://dbpedia.org/resource/Bright_Lights,_Big_City_(novel)</value>
+</book>
+<author>
+<type>uri</type>
+<value>http://dbpedia.org/resource/Jay_McInerney</value>
+</author>
+<wikilink>
+<type>uri</type>
+<value>http://en.wikipedia.org/wiki/Bright_Lights,_Big_City_(novel)?oldid=583528440</value>
+</wikilink>
+<abstract>
+<type>literal</type>
+<xml:lang>de</xml:lang>
+<value>Ein starker Abgang (engl. Originaltitel: Bright Lights, Big City) ist ein Roman von Jay McInerney aus dem Jahr 1986, der im Original im Jahre 1984 erstveröffentlicht wurde. Der Roman diente als Basis für das 1988 von James Bridges verfilmte Melodram Die grellen Lichter der Großstadt.</value>
+</abstract>
+</XML_Serializer_Tag>
+</books>
+</Person>

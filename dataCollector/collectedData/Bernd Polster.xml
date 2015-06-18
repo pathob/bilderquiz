@@ -1,0 +1,24 @@
+<Person>
+<name>Bernd Polster</name>
+<variantName />
+<thumbnail>https://commons.wikimedia.org/wiki/Special:FilePath/Berndpolster01.jpg?width=270</thumbnail>
+<birthEN>1952</birthEN>
+<birthDE>1952</birthDE>
+<deathEN />
+<deathDE />
+<birthPlace>
+<XML_Serializer_Tag>Celle</XML_Serializer_Tag>
+</birthPlace>
+<deathPlace />
+<professionOrOccupation>
+<XML_Serializer_Tag>Publizist</XML_Serializer_Tag>
+<XML_Serializer_Tag>Journalist</XML_Serializer_Tag>
+<XML_Serializer_Tag>Schriftsteller</XML_Serializer_Tag>
+</professionOrOccupation>
+<dbpResource>http://dbpedia.org/resource/Bernd_Polster</dbpResource>
+<abstract>Bernd Polster (* 22. Juni 1952 in Celle) ist ein deutscher Publizist.</abstract>
+<wikilink>http://en.wikipedia.org/wiki/Bernd_Polster?oldid=579120780</wikilink>
+<artworks />
+<buildings />
+<books />
+</Person>

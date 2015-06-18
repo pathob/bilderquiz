@@ -1,0 +1,30 @@
+<Person>
+<name>Carl Justi</name>
+<variantName>
+<XML_Serializer_Tag>Karl Justi</XML_Serializer_Tag>
+<XML_Serializer_Tag>Carlo Justi</XML_Serializer_Tag>
+<XML_Serializer_Tag>C. Justi</XML_Serializer_Tag>
+</variantName>
+<thumbnail>https://commons.wikimedia.org/wiki/Special:FilePath/Carl_Justi.jpg?width=270</thumbnail>
+<birthEN>August 2, 1832</birthEN>
+<birthDE>2. August 1832</birthDE>
+<deathEN>December 10, 1912</deathEN>
+<deathDE>10. Dezember 1912</deathDE>
+<birthPlace>
+<XML_Serializer_Tag>Marburg</XML_Serializer_Tag>
+</birthPlace>
+<deathPlace>
+<XML_Serializer_Tag>Bonn</XML_Serializer_Tag>
+</deathPlace>
+<professionOrOccupation>
+<XML_Serializer_Tag>Kunsthistoriker</XML_Serializer_Tag>
+<XML_Serializer_Tag>Literarhistoriker</XML_Serializer_Tag>
+<XML_Serializer_Tag>Philosoph</XML_Serializer_Tag>
+</professionOrOccupation>
+<dbpResource>http://dbpedia.org/resource/Carl_Justi</dbpResource>
+<abstract>Carl Justi (* 2. August 1832 in Marburg; † 9. Dezember 1912 in Bonn) war ein deutscher Philosoph und Kunsthistoriker.</abstract>
+<wikilink>http://en.wikipedia.org/wiki/Carl_Justi?oldid=574043020</wikilink>
+<artworks />
+<buildings />
+<books />
+</Person>

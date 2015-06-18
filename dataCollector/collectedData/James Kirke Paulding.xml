@@ -1,0 +1,54 @@
+<Person>
+<name>James Kirke Paulding</name>
+<variantName>
+<XML_Serializer_Tag>James Kirke Paulding</XML_Serializer_Tag>
+<XML_Serializer_Tag>Hector Bullus</XML_Serializer_Tag>
+<XML_Serializer_Tag>N. A. Oudenarde</XML_Serializer_Tag>
+<XML_Serializer_Tag>James K. Paulding</XML_Serializer_Tag>
+</variantName>
+<thumbnail>https://commons.wikimedia.org/wiki/Special:FilePath/JKPaulding.jpg?width=270</thumbnail>
+<birthEN>1778</birthEN>
+<birthDE>1778</birthDE>
+<deathEN>1860</deathEN>
+<deathDE>1860</deathDE>
+<birthPlace />
+<deathPlace />
+<professionOrOccupation>
+<XML_Serializer_Tag>Schriftsteller</XML_Serializer_Tag>
+</professionOrOccupation>
+<dbpResource>http://dbpedia.org/resource/James_Kirke_Paulding</dbpResource>
+<abstract>James Kirke Paulding (* 22. August 1778 in Nine Partners, New York; † 6. April 1860 in Hyde Park, New York) war ein amerikanischer Schriftsteller und US Secretary of the Navy.</abstract>
+<wikilink>http://en.wikipedia.org/wiki/James_Kirke_Paulding?oldid=585758263</wikilink>
+<artworks />
+<buildings />
+<books>
+<XML_Serializer_Tag>
+<book>
+<type>uri</type>
+<value>http://dbpedia.org/resource/Salmagundi_(periodical)</value>
+</book>
+<author>
+<type>uri</type>
+<value>http://dbpedia.org/resource/James_Kirke_Paulding</value>
+</author>
+<thumbnail>
+<type>uri</type>
+<value>http://commons.wikimedia.org/wiki/Special:FilePath/Salmagundi-title.jpg?width=300</value>
+</thumbnail>
+<released>
+<type>typed-literal</type>
+<datatype>http://www.w3.org/2001/XMLSchema#integer</datatype>
+<value>1807</value>
+</released>
+<wikilink>
+<type>uri</type>
+<value>http://en.wikipedia.org/wiki/Salmagundi_(periodical)?oldid=583795916</value>
+</wikilink>
+<abstract>
+<type>literal</type>
+<xml:lang>de</xml:lang>
+<value>Salmagundi; or The Whim-whams and Opinions of Launcelot Langstaff, Esq. &amp; Others war eine satirische Zeitschrift, die in den Jahren 1807/08 in New York erschien. Sie wurde von Washington Irving, seinem Bruder William Irving sowie James Kirke Paulding gegründet; die drei verfassten unter zahlreichen wechselnden Pseudonymen auch sämtliche Beiträge. Von dem Magazin erschienen zwischen dem 24. Januar 1807 und dem 15. Januar 1808 in unregelmäßigen Abständen insgesamt 20 Nummern.</value>
+</abstract>
+</XML_Serializer_Tag>
+</books>
+</Person>

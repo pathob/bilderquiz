@@ -21,8 +21,10 @@
 <XML_Serializer_Tag>Künstler</XML_Serializer_Tag>
 <XML_Serializer_Tag>Maler</XML_Serializer_Tag>
 </professionOrOccupation>
-<artworks />
 <dbpResource>http://dbpedia.org/resource/Johann_Jakob_Zeiller</dbpResource>
 <abstract>Johann Jakob Zeiller oder Zeiler (* 8. Juli 1708 in Reutte, Tirol; † 8. Juli 1783 ebenda) war ein österreichischer Maler.</abstract>
 <wikilink>http://en.wikipedia.org/wiki/Johann_Jakob_Zeiller?oldid=600701607</wikilink>
+<artworks />
+<buildings />
+<books />
 </Person>

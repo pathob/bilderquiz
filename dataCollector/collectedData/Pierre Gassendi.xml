@@ -1,0 +1,27 @@
+<Person>
+<name>Pierre Gassendi</name>
+<variantName>
+<XML_Serializer_Tag>Pierre Gassend</XML_Serializer_Tag>
+<XML_Serializer_Tag>Petrus Gassendi</XML_Serializer_Tag>
+<XML_Serializer_Tag>Petrus Gassendus</XML_Serializer_Tag>
+<XML_Serializer_Tag>Pierre Gassandi</XML_Serializer_Tag>
+</variantName>
+<thumbnail>https://commons.wikimedia.org/wiki/Special:FilePath/PierreGassendi.jpg?width=270</thumbnail>
+<birthEN>1592</birthEN>
+<birthDE>1592</birthDE>
+<deathEN>1655</deathEN>
+<deathDE>1655</deathDE>
+<birthPlace />
+<deathPlace />
+<professionOrOccupation>
+<XML_Serializer_Tag>Physiker</XML_Serializer_Tag>
+<XML_Serializer_Tag>Mathematiker</XML_Serializer_Tag>
+<XML_Serializer_Tag>Philosoph</XML_Serializer_Tag>
+</professionOrOccupation>
+<dbpResource>http://dbpedia.org/resource/Pierre_Gassendi</dbpResource>
+<abstract>Pierre Gassendi (* 22. Januar 1592 in Champtercier, Provence; † 24. Oktober 1655 in Paris; auch Pierre Gassend, Petrus Gassendi) war ein französischer Theologe, Naturwissenschafter und Philosoph. Er forschte u.a. als Astronom und stand als solcher mit Galilei und Christoph Scheiner in häufigem Kontakt.</abstract>
+<wikilink>http://en.wikipedia.org/wiki/Pierre_Gassendi?oldid=606714003</wikilink>
+<artworks />
+<buildings />
+<books />
+</Person>

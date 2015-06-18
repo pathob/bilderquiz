@@ -1,0 +1,33 @@
+<Person>
+<name>Clara Viebig</name>
+<variantName>
+<XML_Serializer_Tag>Klara Viebig</XML_Serializer_Tag>
+<XML_Serializer_Tag>Clara Cohn</XML_Serializer_Tag>
+<XML_Serializer_Tag>Klara Cohn</XML_Serializer_Tag>
+<XML_Serializer_Tag>Clara Viebig-Cohn</XML_Serializer_Tag>
+<XML_Serializer_Tag>Clara Viebig Cohn</XML_Serializer_Tag>
+<XML_Serializer_Tag>Clara Viebig-Cohn</XML_Serializer_Tag>
+<XML_Serializer_Tag>C. Viebig</XML_Serializer_Tag>
+</variantName>
+<thumbnail>https://commons.wikimedia.org/wiki/Special:FilePath/Clara_Viebig_by_Nicola_Perscheid_1890.jpeg?width=270</thumbnail>
+<birthEN>July 17, 1860</birthEN>
+<birthDE>17. Juli 1860</birthDE>
+<deathEN>July 31, 1952</deathEN>
+<deathDE>31. Juli 1952</deathDE>
+<birthPlace>
+<XML_Serializer_Tag>Trier</XML_Serializer_Tag>
+</birthPlace>
+<deathPlace>
+<XML_Serializer_Tag>Berlin</XML_Serializer_Tag>
+</deathPlace>
+<professionOrOccupation>
+<XML_Serializer_Tag>Romanschriftstellerin</XML_Serializer_Tag>
+<XML_Serializer_Tag>Schriftstellerin</XML_Serializer_Tag>
+</professionOrOccupation>
+<dbpResource>http://dbpedia.org/resource/Clara_Viebig</dbpResource>
+<abstract>Clara Viebig (* 17. Juli 1860 in Trier; † 31. Juli 1952 in West-Berlin) war eine deutsche naturalistische Erzählerin und Dramatikerin, deren Werke um die Jahrhundertwende in den bürgerlichen Haushalten zur Standardbibliothek gehörten.</abstract>
+<wikilink>http://en.wikipedia.org/wiki/Clara_Viebig?oldid=575275385</wikilink>
+<artworks />
+<buildings />
+<books />
+</Person>

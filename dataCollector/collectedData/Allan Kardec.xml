@@ -1,0 +1,34 @@
+<Person>
+<name>Allan Kardec</name>
+<variantName>
+<XML_Serializer_Tag>Aston Kardek</XML_Serializer_Tag>
+<XML_Serializer_Tag>Hippolyte Léon Denizard Rivail</XML_Serializer_Tag>
+<XML_Serializer_Tag>Hippolyte L. Rivail</XML_Serializer_Tag>
+<XML_Serializer_Tag>Allan Kardek</XML_Serializer_Tag>
+<XML_Serializer_Tag>Hippolyte Léon Denigard Rivail</XML_Serializer_Tag>
+<XML_Serializer_Tag>Hippolyte Léon Denizard Rivail Allan Kardec</XML_Serializer_Tag>
+<XML_Serializer_Tag>Hippolyte Léon Denizard Rivail Allan Kardec</XML_Serializer_Tag>
+<XML_Serializer_Tag>Léon Hippolyte Denisart Rivail</XML_Serializer_Tag>
+<XML_Serializer_Tag>Léon H. Rivail</XML_Serializer_Tag>
+<XML_Serializer_Tag>H. Rivail</XML_Serializer_Tag>
+</variantName>
+<thumbnail>https://commons.wikimedia.org/wiki/Special:FilePath/Allan_Kardec_L&apos;Illustration_10_avril_1869.jpg?width=270</thumbnail>
+<birthEN>1803</birthEN>
+<birthDE>1803</birthDE>
+<deathEN>1869</deathEN>
+<deathDE>1869</deathDE>
+<birthPlace />
+<deathPlace>
+<XML_Serializer_Tag>Paris</XML_Serializer_Tag>
+</deathPlace>
+<professionOrOccupation>
+<XML_Serializer_Tag>Schriftsteller</XML_Serializer_Tag>
+<XML_Serializer_Tag>Spiritist</XML_Serializer_Tag>
+</professionOrOccupation>
+<dbpResource>http://dbpedia.org/resource/Allan_Kardec</dbpResource>
+<abstract>Allan Kardec (* 3. Oktober 1804 in Lyon; † 31. März 1869 in Paris; eigentlich Hippolyte Léon Denizard Rivail) war ein bedeutender französischer Spiritist.</abstract>
+<wikilink>http://en.wikipedia.org/wiki/Allan_Kardec?oldid=587970726</wikilink>
+<artworks />
+<buildings />
+<books />
+</Person>

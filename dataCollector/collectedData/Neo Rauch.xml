@@ -15,8 +15,10 @@
 <XML_Serializer_Tag>Maler</XML_Serializer_Tag>
 <XML_Serializer_Tag>Graphiker</XML_Serializer_Tag>
 </professionOrOccupation>
-<artworks />
 <dbpResource>http://dbpedia.org/resource/Neo_Rauch</dbpResource>
 <abstract>Neo Rauch (* 18. April 1960 in Leipzig) ist ein deutscher Maler, der international als bedeutender Künstler seiner Generation und als Wegbereiter der „Neuen Leipziger Schule“ gilt.</abstract>
 <wikilink>http://en.wikipedia.org/wiki/Neo_Rauch?oldid=603586722</wikilink>
+<artworks />
+<buildings />
+<books />
 </Person>

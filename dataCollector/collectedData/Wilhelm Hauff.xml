@@ -1,0 +1,80 @@
+<Person>
+<name>Wilhelm Hauff</name>
+<variantName>
+<XML_Serializer_Tag>W. Hauff</XML_Serializer_Tag>
+<XML_Serializer_Tag>V. Gauf</XML_Serializer_Tag>
+<XML_Serializer_Tag>Vilʹgelʹm Gauf</XML_Serializer_Tag>
+<XML_Serializer_Tag>Vilchelm Chauf</XML_Serializer_Tag>
+<XML_Serializer_Tag>V. Chauf</XML_Serializer_Tag>
+<XML_Serializer_Tag>Vilém Hauff</XML_Serializer_Tag>
+<XML_Serializer_Tag>Vilhelms Haufs</XML_Serializer_Tag>
+<XML_Serializer_Tag>Vilhelmas Haufas</XML_Serializer_Tag>
+<XML_Serializer_Tag>Vilhilm Hauf</XML_Serializer_Tag>
+<XML_Serializer_Tag>Vilhelm Hauf</XML_Serializer_Tag>
+<XML_Serializer_Tag>V. Haufas</XML_Serializer_Tag>
+<XML_Serializer_Tag>... Haofu</XML_Serializer_Tag>
+<XML_Serializer_Tag>Viruherumu Haufu</XML_Serializer_Tag>
+<XML_Serializer_Tag>... Haufu</XML_Serializer_Tag>
+<XML_Serializer_Tag>Wîlhelm Hauf</XML_Serializer_Tag>
+<XML_Serializer_Tag>Guillaume Hauff</XML_Serializer_Tag>
+<XML_Serializer_Tag>H. Clauren</XML_Serializer_Tag>
+<XML_Serializer_Tag>Pilhelŭm Haupŭ</XML_Serializer_Tag>
+<XML_Serializer_Tag>Vilhelm Haup̕i</XML_Serializer_Tag>
+<XML_Serializer_Tag>Vilʹhelʹm Hauf</XML_Serializer_Tag>
+<XML_Serializer_Tag>Guilherme Hauff</XML_Serializer_Tag>
+<XML_Serializer_Tag>Wilhelm Hauphi</XML_Serializer_Tag>
+<XML_Serializer_Tag>Guglielmo Hauff</XML_Serializer_Tag>
+<XML_Serializer_Tag>Heinrich Clauren</XML_Serializer_Tag>
+<XML_Serializer_Tag>빌헬름 하우프</XML_Serializer_Tag>
+<XML_Serializer_Tag>וילהלם האוף</XML_Serializer_Tag>
+<XML_Serializer_Tag>威廉‧豪夫</XML_Serializer_Tag>
+<XML_Serializer_Tag>威廉 豪夫</XML_Serializer_Tag>
+<XML_Serializer_Tag>威廉 郝福</XML_Serializer_Tag>
+<XML_Serializer_Tag>ウィルヘルム ハウフ</XML_Serializer_Tag>
+</variantName>
+<thumbnail>https://commons.wikimedia.org/wiki/Special:FilePath/Behringer_-_Wilhelm_Hauff_1826.jpg?width=270</thumbnail>
+<birthEN>November 29, 1802</birthEN>
+<birthDE>29. November 1802</birthDE>
+<deathEN>November 18, 1827</deathEN>
+<deathDE>18. November 1827</deathDE>
+<birthPlace>
+<XML_Serializer_Tag>Stuttgart</XML_Serializer_Tag>
+</birthPlace>
+<deathPlace>
+<XML_Serializer_Tag>Stuttgart</XML_Serializer_Tag>
+</deathPlace>
+<professionOrOccupation>
+<XML_Serializer_Tag>Schriftsteller</XML_Serializer_Tag>
+</professionOrOccupation>
+<dbpResource>http://dbpedia.org/resource/Wilhelm_Hauff</dbpResource>
+<abstract>Wilhelm Hauff (* 29. November 1802 in Stuttgart, Herzogtum Württemberg; † 18. November 1827 in Stuttgart, Königreich Württemberg) war ein deutscher Schriftsteller der Romantik. Er war ein Hauptvertreter der Schwäbischen Dichterschule.</abstract>
+<wikilink>http://en.wikipedia.org/wiki/Wilhelm_Hauff?oldid=599849034</wikilink>
+<artworks />
+<buildings />
+<books>
+<XML_Serializer_Tag>
+<book>
+<type>uri</type>
+<value>http://dbpedia.org/resource/Jud_S%C3%BC%C3%9F_(Hauff_novel)</value>
+</book>
+<author>
+<type>uri</type>
+<value>http://dbpedia.org/resource/Wilhelm_Hauff</value>
+</author>
+<released>
+<type>typed-literal</type>
+<datatype>http://www.w3.org/2001/XMLSchema#integer</datatype>
+<value>1827</value>
+</released>
+<wikilink>
+<type>uri</type>
+<value>http://en.wikipedia.org/wiki/Jud_Süß_(Hauff_novel)?oldid=562109946</value>
+</wikilink>
+<abstract>
+<type>literal</type>
+<xml:lang>de</xml:lang>
+<value>Jud Süß ist eine Novelle von Wilhelm Hauff, die 1827 fortsetzungsweise im Cotta’schen „Morgenblatt für gebildete Stände“ erstveröffentlicht wurde.</value>
+</abstract>
+</XML_Serializer_Tag>
+</books>
+</Person>

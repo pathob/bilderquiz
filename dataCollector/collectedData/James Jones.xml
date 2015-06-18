@@ -1,0 +1,24 @@
+<Person>
+<name>James Jones</name>
+<variantName />
+<thumbnail>https://en.wikipedia.org/wiki/Special:FilePath/James_Ramon_Jones.jpg?width=270</thumbnail>
+<birthEN>1921</birthEN>
+<birthDE>1921</birthDE>
+<deathEN>1977</deathEN>
+<deathDE>1977</deathDE>
+<birthPlace>
+<XML_Serializer_Tag>Robinson, Illinois</XML_Serializer_Tag>
+</birthPlace>
+<deathPlace>
+<XML_Serializer_Tag>Southampton, Long Island, New York</XML_Serializer_Tag>
+</deathPlace>
+<professionOrOccupation>
+<XML_Serializer_Tag>Schriftsteller</XML_Serializer_Tag>
+</professionOrOccupation>
+<dbpResource>http://dbpedia.org/resource/James_Jones_(Georgia)</dbpResource>
+<abstract>James Jones (* in Maryland; † 11. Januar 1801 in Washington D.C.) war ein US-amerikanischer Politiker. Zwischen 1799 und 1801 vertrat er den Bundesstaat Georgia im US-Repräsentantenhaus.</abstract>
+<wikilink>http://en.wikipedia.org/wiki/James_Jones_(Georgia)?oldid=600088014</wikilink>
+<artworks />
+<buildings />
+<books />
+</Person>

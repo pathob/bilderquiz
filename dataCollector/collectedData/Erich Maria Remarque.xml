@@ -1,0 +1,229 @@
+<Person>
+<name>Erich Maria Remarque</name>
+<variantName>
+<XML_Serializer_Tag>Erich M. Remarque</XML_Serializer_Tag>
+<XML_Serializer_Tag>E. Paul Remark</XML_Serializer_Tag>
+<XML_Serializer_Tag>Erich Remark</XML_Serializer_Tag>
+<XML_Serializer_Tag>Erich Maria Remark</XML_Serializer_Tag>
+<XML_Serializer_Tag>Erikh Marya Remarḳ</XML_Serializer_Tag>
+<XML_Serializer_Tag>Erich Marija Remark</XML_Serializer_Tag>
+<XML_Serializer_Tag>Ėrich Marija Remark</XML_Serializer_Tag>
+<XML_Serializer_Tag>Эрих Мария Ремарк</XML_Serializer_Tag>
+<XML_Serializer_Tag>Érich Marija Remark</XML_Serializer_Tag>
+<XML_Serializer_Tag>Erih Marija Remark</XML_Serializer_Tag>
+<XML_Serializer_Tag>Erikh Mariia Remark</XML_Serializer_Tag>
+<XML_Serializer_Tag>Ėrych Maryja Rėmark</XML_Serializer_Tag>
+<XML_Serializer_Tag>Erichas Marija Remarkas</XML_Serializer_Tag>
+<XML_Serializer_Tag>E. M. Remarkas</XML_Serializer_Tag>
+<XML_Serializer_Tag>Ė. M. Remarkas</XML_Serializer_Tag>
+<XML_Serializer_Tag>Ērihs Marija Remarks</XML_Serializer_Tag>
+<XML_Serializer_Tag>Erîḵ Maryā Remarq</XML_Serializer_Tag>
+<XML_Serializer_Tag>Erihi Maria Remarŭk&apos;ŭ</XML_Serializer_Tag>
+<XML_Serializer_Tag>Erich Maria Rơmac</XML_Serializer_Tag>
+<XML_Serializer_Tag>Irīk Mārīyā Rumārk</XML_Serializer_Tag>
+<XML_Serializer_Tag>Ai li xi Ma li ya Lei ma ke</XML_Serializer_Tag>
+<XML_Serializer_Tag>Ailixi-Maliya-Leimake</XML_Serializer_Tag>
+<XML_Serializer_Tag>Erich Paul Remark</XML_Serializer_Tag>
+<XML_Serializer_Tag>에리히 마리아 레마르크</XML_Serializer_Tag>
+<XML_Serializer_Tag>Έριχ Μαρία Ρεμάκ</XML_Serializer_Tag>
+<XML_Serializer_Tag>馬克 雷</XML_Serializer_Tag>
+<XML_Serializer_Tag>雷馬克</XML_Serializer_Tag>
+<XML_Serializer_Tag>马克 雷</XML_Serializer_Tag>
+<XML_Serializer_Tag>אריך מריה רמרק</XML_Serializer_Tag>
+<XML_Serializer_Tag>雷马克</XML_Serializer_Tag>
+</variantName>
+<thumbnail>https://commons.wikimedia.org/wiki/Special:FilePath/Bundesarchiv_Bild_183-R04034,_Erich_Maria_Remarque.jpg?width=270</thumbnail>
+<birthEN>June 22, 1898</birthEN>
+<birthDE>22. Juni 1898</birthDE>
+<deathEN>September 25, 1970</deathEN>
+<deathDE>25. September 1970</deathDE>
+<birthPlace>
+<XML_Serializer_Tag>Osnabrück</XML_Serializer_Tag>
+</birthPlace>
+<deathPlace>
+<XML_Serializer_Tag>Locarno</XML_Serializer_Tag>
+</deathPlace>
+<professionOrOccupation>
+<XML_Serializer_Tag>Pazifist</XML_Serializer_Tag>
+<XML_Serializer_Tag>Lehrer</XML_Serializer_Tag>
+<XML_Serializer_Tag>Redakteur</XML_Serializer_Tag>
+<XML_Serializer_Tag>Schriftsteller</XML_Serializer_Tag>
+</professionOrOccupation>
+<dbpResource>http://dbpedia.org/resource/Erich_Maria_Remarque</dbpResource>
+<abstract>Erich Maria Remarque (eigentlich Erich Paul Remark; * 22. Juni 1898 in Osnabrück; † 25. September 1970 in Locarno) war ein deutscher Schriftsteller. Seine hauptsächlich pazifistisch geprägten Romane, in denen er die Grausamkeit des Krieges thematisiert, finden bis heute große Verbreitung. Bereits zu Beginn der NS-Herrschaft, als der Autor durch sein Hauptwerk, den 1928 erstmals erschienenen, 1930 in Hollywood verfilmten Antikriegsroman Im Westen nichts Neues, schon weltberühmt war, emigrierte er in die Schweiz. Seine Arbeiten wurden in Deutschland als „schädliches und unerwünschtes Schrifttum“ verboten und 1933 öffentlich verbrannt. Die deutsche Staatsbürgerschaft wurde ihm 1938 aberkannt. In den USA fand er Aufnahme, bekam die amerikanische Staatsbürgerschaft und Anerkennung als Schriftsteller.</abstract>
+<wikilink>http://en.wikipedia.org/wiki/Erich_Maria_Remarque?oldid=604268723</wikilink>
+<artworks />
+<buildings />
+<books>
+<XML_Serializer_Tag>
+<book>
+<type>uri</type>
+<value>http://dbpedia.org/resource/All_Quiet_on_the_Western_Front</value>
+</book>
+<author>
+<type>uri</type>
+<value>http://dbpedia.org/resource/Erich_Maria_Remarque</value>
+</author>
+<thumbnail>
+<type>uri</type>
+<value>http://commons.wikimedia.org/wiki/Special:FilePath/Remarque_Im_Westen_nichts_Neues_1929.jpg?width=300</value>
+</thumbnail>
+<wikilink>
+<type>uri</type>
+<value>http://en.wikipedia.org/wiki/All_Quiet_on_the_Western_Front?oldid=605747559</value>
+</wikilink>
+<abstract>
+<type>literal</type>
+<xml:lang>de</xml:lang>
+<value>Im Westen nichts Neues ist ein Roman von Erich Maria Remarque, der die Schrecken des Ersten Weltkriegs aus der Sicht eines jungen Soldaten schildert. Das Werk wird als Antikriegsroman aufgefasst, obwohl Remarque selbst es als unpolitisch bezeichnet hat.Im Westen nichts Neues erschien als Vorabdruck erstmals seit dem 10. November 1928 in der Vossischen Zeitung, in Buchform beim Propyläen Verlag am 29. Januar 1929. Innerhalb von elf Wochen erreichte es nach Verlagsangaben eine Auflage von 450.000 Exemplaren.. Es wurde noch im selben Jahr in 26 Sprachen übersetzt. Bis heute gibt es Ausgaben in über 50 Sprachen, die geschätzten Verkaufszahlen weltweit (Stand: 2007) liegen bei über 20 Millionen.Bei den Nationalsozialisten hatte sich Remarque mit seinem Antikriegsroman Feinde gemacht. Als Teil ihrer Rufmordkampagne gegen den missliebigen Autor bezweifelten sie dessen Authentizität und verbreiteten das Gerücht, er habe überhaupt nicht am Ersten Weltkrieg teilgenommen. Während der nationalsozialistischen Bücherverbrennungen 1933 wurden auch zahlreiche Exemplare von Im Westen nichts Neues vernichtet.</value>
+</abstract>
+</XML_Serializer_Tag>
+<XML_Serializer_Tag>
+<book>
+<type>uri</type>
+<value>http://dbpedia.org/resource/The_Road_Back</value>
+</book>
+<author>
+<type>uri</type>
+<value>http://dbpedia.org/resource/Erich_Maria_Remarque</value>
+</author>
+<released>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>April 1931</value>
+</released>
+<wikilink>
+<type>uri</type>
+<value>http://en.wikipedia.org/wiki/The_Road_Back?oldid=560898700</value>
+</wikilink>
+<abstract>
+<type>literal</type>
+<xml:lang>de</xml:lang>
+<value>Der Weg zurück ist der Titel eines Romans von Erich Maria Remarque. In seinem Buch schildert Remarque die Rückkehr deutscher Soldaten ins Zivilleben nach dem Ende des Ersten Weltkrieges.Die Fortsetzung von Remarques Roman Im Westen nichts Neues erschien zuerst zwischen Dezember 1930 und Januar 1931 in der Vossischen Zeitung, bevor er im April 1931 als Buch beim Propyläen-Verlag publiziert wurde. Nach seinem Erscheinen wurde der Roman in Deutschland, ob seiner pessimistischen Grundhaltung, kontrovers diskutiert und kritisiert.Im Mai 1933 wurde Der Weg zurück zusammen mit Im Westen nichts Neues von den Nationalsozialisten öffentlich verbrannt.</value>
+</abstract>
+</XML_Serializer_Tag>
+<XML_Serializer_Tag>
+<book>
+<type>uri</type>
+<value>http://dbpedia.org/resource/Arch_of_Triumph_(novel)</value>
+</book>
+<author>
+<type>uri</type>
+<value>http://dbpedia.org/resource/Erich_Maria_Remarque</value>
+</author>
+<wikilink>
+<type>uri</type>
+<value>http://en.wikipedia.org/wiki/Arch_of_Triumph_(novel)?oldid=606616087</value>
+</wikilink>
+<abstract>
+<type>literal</type>
+<xml:lang>de</xml:lang>
+<value>Arc de Triomphe ist ein Roman aus dem Jahre 1945 des deutschen Schriftstellers Erich Maria Remarque. Er beschreibt das Leben von Flüchtlingen in Paris am Vorabend des Beginns des Zweiten Weltkriegs.</value>
+</abstract>
+</XML_Serializer_Tag>
+<XML_Serializer_Tag>
+<book>
+<type>uri</type>
+<value>http://dbpedia.org/resource/Heaven_Has_No_Favorites</value>
+</book>
+<author>
+<type>uri</type>
+<value>http://dbpedia.org/resource/Erich_Maria_Remarque</value>
+</author>
+<wikilink>
+<type>uri</type>
+<value>http://en.wikipedia.org/wiki/Heaven_Has_No_Favorites?oldid=578919337</value>
+</wikilink>
+<abstract>
+<type>literal</type>
+<xml:lang>de</xml:lang>
+<value>Der Himmel kennt keine Günstlinge ist ein Roman des deutschen Autors Erich Maria Remarque. Die Geschichte handelt von Liebe, Leidenschaft und Todesangst. Sie erschien erstmals 1959 als Romanserie in der Hamburger Illustrierten Kristall unter dem Titel „Geborgtes Leben“. 1961 erschien die Geschichte in Buchform.</value>
+</abstract>
+</XML_Serializer_Tag>
+<XML_Serializer_Tag>
+<book>
+<type>uri</type>
+<value>http://dbpedia.org/resource/Flotsam_(novel)</value>
+</book>
+<author>
+<type>uri</type>
+<value>http://dbpedia.org/resource/Erich_Maria_Remarque</value>
+</author>
+<wikilink>
+<type>uri</type>
+<value>http://en.wikipedia.org/wiki/Flotsam_(novel)?oldid=573176409</value>
+</wikilink>
+<abstract>
+<type>literal</type>
+<xml:lang>de</xml:lang>
+<value>Liebe Deinen Nächsten ist ein Roman des deutschen Schriftstellers Erich Maria Remarque.</value>
+</abstract>
+</XML_Serializer_Tag>
+<XML_Serializer_Tag>
+<book>
+<type>uri</type>
+<value>http://dbpedia.org/resource/Three_Comrades_(novel)</value>
+</book>
+<author>
+<type>uri</type>
+<value>http://dbpedia.org/resource/Erich_Maria_Remarque</value>
+</author>
+<wikilink>
+<type>uri</type>
+<value>http://en.wikipedia.org/wiki/Three_Comrades_(novel)?oldid=603597290</value>
+</wikilink>
+<abstract>
+<type>literal</type>
+<xml:lang>de</xml:lang>
+<value>Drei Kameraden ist ein Werk von Erich Maria Remarque. Das Buch wurde 1936 im Exil geschrieben. Es ist Ilse Jutta Remarque-Zambona, Remarques erster Frau, gewidmet.</value>
+</abstract>
+</XML_Serializer_Tag>
+<XML_Serializer_Tag>
+<book>
+<type>uri</type>
+<value>http://dbpedia.org/resource/The_Night_in_Lisbon</value>
+</book>
+<author>
+<type>uri</type>
+<value>http://dbpedia.org/resource/Erich_Maria_Remarque</value>
+</author>
+<wikilink>
+<type>uri</type>
+<value>http://en.wikipedia.org/wiki/The_Night_in_Lisbon?oldid=544913785</value>
+</wikilink>
+<abstract>
+<type>literal</type>
+<xml:lang>de</xml:lang>
+<value>Die Nacht von Lissabon ist ein Roman von Erich Maria Remarque, der ein deutsches Emigrantenschicksal während der Zeit des Nationalsozialismus vor und während des Zweiten Weltkriegs in Frankreich, Spanien und Portugal schildert.Die Nacht von Lissabon erschien 1963 und war Remarques vorletzter Roman.</value>
+</abstract>
+</XML_Serializer_Tag>
+<XML_Serializer_Tag>
+<book>
+<type>uri</type>
+<value>http://dbpedia.org/resource/Station_at_the_Horizon</value>
+</book>
+<author>
+<type>uri</type>
+<value>http://dbpedia.org/resource/Erich_Maria_Remarque</value>
+</author>
+<wikilink>
+<type>uri</type>
+<value>http://en.wikipedia.org/wiki/Station_at_the_Horizon?oldid=498359715</value>
+</wikilink>
+</XML_Serializer_Tag>
+<XML_Serializer_Tag>
+<book>
+<type>uri</type>
+<value>http://dbpedia.org/resource/Spark_of_Life_(novel)</value>
+</book>
+<author>
+<type>uri</type>
+<value>http://dbpedia.org/resource/Erich_Maria_Remarque</value>
+</author>
+<wikilink>
+<type>uri</type>
+<value>http://en.wikipedia.org/wiki/Spark_of_Life_(novel)?oldid=577908507</value>
+</wikilink>
+</XML_Serializer_Tag>
+</books>
+</Person>

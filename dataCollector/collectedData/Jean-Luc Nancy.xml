@@ -1,0 +1,26 @@
+<Person>
+<name>Jean-Luc Nancy</name>
+<variantName>
+<XML_Serializer_Tag>Jean Luc Nancy</XML_Serializer_Tag>
+<XML_Serializer_Tag>Jan-Ryukku Nanshī</XML_Serializer_Tag>
+<XML_Serializer_Tag>Žān-Lūk Nānsī</XML_Serializer_Tag>
+</variantName>
+<thumbnail>https://commons.wikimedia.org/wiki/Special:FilePath/WikipediaNancy20060611-cropped.png?width=270</thumbnail>
+<birthEN>1940</birthEN>
+<birthDE>1940</birthDE>
+<deathEN />
+<deathDE />
+<birthPlace>
+<XML_Serializer_Tag>Caudéran</XML_Serializer_Tag>
+</birthPlace>
+<deathPlace />
+<professionOrOccupation>
+<XML_Serializer_Tag>Philosoph</XML_Serializer_Tag>
+</professionOrOccupation>
+<dbpResource>http://dbpedia.org/resource/Jean-Luc_Nancy</dbpResource>
+<abstract>Jean-Luc Nancy (* 26. Juli 1940 in Caudéran, Frankreich) ist ein französischer Philosoph.</abstract>
+<wikilink>http://en.wikipedia.org/wiki/Jean-Luc_Nancy?oldid=604182548</wikilink>
+<artworks />
+<buildings />
+<books />
+</Person>

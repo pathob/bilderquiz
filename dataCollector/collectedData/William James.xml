@@ -1,0 +1,42 @@
+<Person>
+<name>William James</name>
+<variantName>
+<XML_Serializer_Tag>Uilʹjam Džėms</XML_Serializer_Tag>
+</variantName>
+<thumbnail>https://commons.wikimedia.org/wiki/Special:FilePath/William_James_b1842c.jpg?width=270</thumbnail>
+<birthEN>January 11, 1842</birthEN>
+<birthDE>11. Januar 1842</birthDE>
+<deathEN>August 26, 1910</deathEN>
+<deathDE>26. August 1910</deathDE>
+<birthPlace>
+<XML_Serializer_Tag>New York, NY</XML_Serializer_Tag>
+</birthPlace>
+<deathPlace>
+<XML_Serializer_Tag>Chocorua</XML_Serializer_Tag>
+</deathPlace>
+<professionOrOccupation>
+<XML_Serializer_Tag>Psychologe</XML_Serializer_Tag>
+<XML_Serializer_Tag>Philosoph</XML_Serializer_Tag>
+</professionOrOccupation>
+<dbpResource>http://dbpedia.org/resource/William_James</dbpResource>
+<abstract>William James (* 11. Januar 1842 in New York; † 26. August 1910 in Chocorua, New Hampshire) war ein US-amerikanischer Psychologe und Philosoph. Von 1876 bis 1907 war er Professor für Psychologie und Philosophie an der Harvard University. James gilt sowohl als Begründer der Psychologie in den USA als auch als einer der wichtigsten Vertreter des philosophischen Pragmatismus.</abstract>
+<wikilink>http://en.wikipedia.org/wiki/William_James?oldid=606620551</wikilink>
+<artworks />
+<buildings />
+<books>
+<XML_Serializer_Tag>
+<book>
+<type>uri</type>
+<value>http://dbpedia.org/resource/The_Varieties_of_Religious_Experience</value>
+</book>
+<author>
+<type>uri</type>
+<value>http://dbpedia.org/resource/William_James</value>
+</author>
+<wikilink>
+<type>uri</type>
+<value>http://en.wikipedia.org/wiki/The_Varieties_of_Religious_Experience?oldid=602697205</value>
+</wikilink>
+</XML_Serializer_Tag>
+</books>
+</Person>

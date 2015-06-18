@@ -1,0 +1,114 @@
+<Person>
+<name>William Lescaze</name>
+<variantName>
+<XML_Serializer_Tag>William Howard Lescaze</XML_Serializer_Tag>
+<XML_Serializer_Tag>William Edmond Lescaze</XML_Serializer_Tag>
+</variantName>
+<thumbnail>https://commons.wikimedia.org/wiki/Special:FilePath/Warren_House,_Dartington_-_geograph.org.uk_-_1010497.jpg?width=270</thumbnail>
+<birthEN>March 27, 1896</birthEN>
+<birthDE>27. März 1896</birthDE>
+<deathEN>February 9, 1969</deathEN>
+<deathDE>9. Februar 1969</deathDE>
+<birthPlace>
+<XML_Serializer_Tag>Onex</XML_Serializer_Tag>
+</birthPlace>
+<deathPlace>
+<XML_Serializer_Tag>New York, NY</XML_Serializer_Tag>
+</deathPlace>
+<professionOrOccupation>
+<XML_Serializer_Tag>Architekt</XML_Serializer_Tag>
+</professionOrOccupation>
+<dbpResource>http://dbpedia.org/resource/William_Lescaze</dbpResource>
+<abstract>William Edmond Lescaze (* 27. März 1896 in Genf; † 9. Februar 1969 in New York) war ein amerikanischer Architekt der „klassischen Moderne”.</abstract>
+<wikilink>http://en.wikipedia.org/wiki/William_Lescaze?oldid=584568303</wikilink>
+<artworks />
+<buildings>
+<XML_Serializer_Tag>
+<building>
+<type>uri</type>
+<value>http://dbpedia.org/resource/Loews_Philadelphia_Hotel</value>
+</building>
+<name>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>Loews Philadelphia Hotel</value>
+</name>
+<architect>
+<type>uri</type>
+<value>http://dbpedia.org/resource/William_Lescaze</value>
+</architect>
+<thumbnail>
+<type>uri</type>
+<value>http://commons.wikimedia.org/wiki/Special:FilePath/PSFSBuilding1985.jpg?width=300</value>
+</thumbnail>
+<wikilink>
+<type>uri</type>
+<value>http://en.wikipedia.org/wiki/Loews_Philadelphia_Hotel?oldid=597069082</value>
+</wikilink>
+<location>
+<type>uri</type>
+<value>http://dbpedia.org/resource/Philadelphia</value>
+</location>
+<abstract>
+<type>literal</type>
+<xml:lang>de</xml:lang>
+<value>Das PSFS Building (inzwischen offiziell Loews Philadelphia Hotel) ist ein Hochhaus in Philadelphia (USA). Es gilt als der erste in internationalem Stil errichtete Wolkenkratzer der USA.</value>
+</abstract>
+</XML_Serializer_Tag>
+<XML_Serializer_Tag>
+<building>
+<type>uri</type>
+<value>http://dbpedia.org/resource/1_New_York_Plaza</value>
+</building>
+<name>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>One New York Plaza</value>
+</name>
+<architect>
+<type>uri</type>
+<value>http://dbpedia.org/resource/William_Lescaze</value>
+</architect>
+<thumbnail>
+<type>uri</type>
+<value>http://commons.wikimedia.org/wiki/Special:FilePath/1_New_York_Plz_fr_MWGW_E_of_BSt_jeh.jpg?width=300</value>
+</thumbnail>
+<wikilink>
+<type>uri</type>
+<value>http://en.wikipedia.org/wiki/1_New_York_Plaza?oldid=606441498</value>
+</wikilink>
+<location>
+<type>uri</type>
+<value>http://dbpedia.org/resource/Manhattan</value>
+</location>
+</XML_Serializer_Tag>
+<XML_Serializer_Tag>
+<building>
+<type>uri</type>
+<value>http://dbpedia.org/resource/Chatham_Center</value>
+</building>
+<name>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>Pittsburgh, PA</value>
+</name>
+<architect>
+<type>uri</type>
+<value>http://dbpedia.org/resource/William_Lescaze</value>
+</architect>
+<thumbnail>
+<type>uri</type>
+<value>http://commons.wikimedia.org/wiki/Special:FilePath/Chatham_One_Building.jpg?width=300</value>
+</thumbnail>
+<wikilink>
+<type>uri</type>
+<value>http://en.wikipedia.org/wiki/Chatham_Center?oldid=579588101</value>
+</wikilink>
+<location>
+<type>uri</type>
+<value>http://dbpedia.org/resource/Downtown_Pittsburgh</value>
+</location>
+</XML_Serializer_Tag>
+</buildings>
+<books />
+</Person>

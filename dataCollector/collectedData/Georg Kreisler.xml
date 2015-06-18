@@ -1,0 +1,31 @@
+<Person>
+<name>Georg Kreisler</name>
+<variantName />
+<thumbnail>https://commons.wikimedia.org/wiki/Special:FilePath/Georg_Kreisler_detail.jpg?width=270</thumbnail>
+<birthEN>July 18, 1922</birthEN>
+<birthDE>18. Juli 1922</birthDE>
+<deathEN>November 20, 2011</deathEN>
+<deathDE>20. November 2011</deathDE>
+<birthPlace>
+<XML_Serializer_Tag>Wien</XML_Serializer_Tag>
+</birthPlace>
+<deathPlace>
+<XML_Serializer_Tag>Salzburg</XML_Serializer_Tag>
+</deathPlace>
+<professionOrOccupation>
+<XML_Serializer_Tag>Kabarettist</XML_Serializer_Tag>
+<XML_Serializer_Tag>Komponist</XML_Serializer_Tag>
+<XML_Serializer_Tag>Chansonnier</XML_Serializer_Tag>
+<XML_Serializer_Tag>Autor</XML_Serializer_Tag>
+<XML_Serializer_Tag>Liedermacher</XML_Serializer_Tag>
+<XML_Serializer_Tag>Musiker</XML_Serializer_Tag>
+<XML_Serializer_Tag>Liederdichter</XML_Serializer_Tag>
+<XML_Serializer_Tag>Schauspieler</XML_Serializer_Tag>
+</professionOrOccupation>
+<dbpResource>http://dbpedia.org/resource/Georg_Kreisler</dbpResource>
+<abstract>Georg Franz Kreisler (* 18. Juli 1922 in Wien; † 22. November 2011 in Salzburg) war ein Komponist, Sänger und Dichter, der aus einer jüdischen österreichischen Familie stammte und als Emigrant 1943 die US-amerikanische Staatsbürgerschaft angenommen hatte. Dagegen, vor allem als Kabarettist bezeichnet zu werden, hat sich Kreisler, der diesen Beruf in jungen Jahren zur Bestreitung seines Lebensunterhalts ausgeübt hatte, immer wieder gewehrt.Die Anfänge seiner Karriere lagen in Amerika, ab Mitte der 1950er Jahre wurde er im deutschen Sprachraum populär durch Lieder wie „Tauben vergiften“, „Der Tod, das muss ein Wiener sein“ und „Wie schön wäre Wien ohne Wiener“. Mit seinem schwarzen, tiefsinnigen und poetischen Humor und Sprachwitz hat Kreisler das musikalische deutschsprachige Kabarett seiner Zeit als Interpret und Verfasser eigener Werke stark geprägt.</abstract>
+<wikilink>http://en.wikipedia.org/wiki/Georg_Kreisler?oldid=603119558</wikilink>
+<artworks />
+<buildings />
+<books />
+</Person>

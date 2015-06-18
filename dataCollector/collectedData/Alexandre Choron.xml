@@ -1,0 +1,27 @@
+<Person>
+<name>Alexandre Choron</name>
+<variantName>
+<XML_Serializer_Tag>Alexandre E. Choron</XML_Serializer_Tag>
+<XML_Serializer_Tag>Alexandre E. Chorron</XML_Serializer_Tag>
+<XML_Serializer_Tag>Alexandre Etienne Choron</XML_Serializer_Tag>
+</variantName>
+<thumbnail>https://commons.wikimedia.org/wiki/Special:FilePath/Choron,_Alexandre.jpg?width=270</thumbnail>
+<birthEN>1772</birthEN>
+<birthDE>1772</birthDE>
+<deathEN>1834</deathEN>
+<deathDE>1834</deathDE>
+<birthPlace />
+<deathPlace />
+<professionOrOccupation>
+<XML_Serializer_Tag>Schriftsteller</XML_Serializer_Tag>
+<XML_Serializer_Tag>Musikschriftsteller</XML_Serializer_Tag>
+<XML_Serializer_Tag>Komponist</XML_Serializer_Tag>
+<XML_Serializer_Tag>Verleger</XML_Serializer_Tag>
+</professionOrOccupation>
+<dbpResource>http://dbpedia.org/resource/Alexandre_%C3%89tienne_Choron</dbpResource>
+<abstract>Alexandre-Étienne Choron (* 1837 in Caen; † 1924 in Calvados) war ein französischer Koch.</abstract>
+<wikilink>http://en.wikipedia.org/wiki/Alexandre_Étienne_Choron?oldid=605865596</wikilink>
+<artworks />
+<buildings />
+<books />
+</Person>

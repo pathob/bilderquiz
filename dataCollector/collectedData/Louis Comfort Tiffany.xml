@@ -16,8 +16,43 @@
 <XML_Serializer_Tag>Kunsthandwerker</XML_Serializer_Tag>
 <XML_Serializer_Tag>Maler</XML_Serializer_Tag>
 </professionOrOccupation>
-<artworks />
 <dbpResource>http://dbpedia.org/resource/Louis_Comfort_Tiffany</dbpResource>
 <abstract>Louis Comfort Tiffany (* 18. Februar 1848 in New York; † 17. Januar 1933 ebenda) war ein US-amerikanischer Maler und Glaskünstler. Er gilt als einer der bedeutendsten amerikanischen Vertreter des Jugendstils.</abstract>
 <wikilink>http://en.wikipedia.org/wiki/Louis_Comfort_Tiffany?oldid=604209315</wikilink>
+<artworks />
+<buildings>
+<XML_Serializer_Tag>
+<building>
+<type>uri</type>
+<value>http://dbpedia.org/resource/Dr._Sylvester_Willard_Mansion</value>
+</building>
+<name>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>Dr. Sylvester Willard Mansion</value>
+</name>
+<architect>
+<type>uri</type>
+<value>http://dbpedia.org/resource/Louis_Comfort_Tiffany</value>
+</architect>
+<thumbnail>
+<type>uri</type>
+<value>http://commons.wikimedia.org/wiki/Special:FilePath/Sylvester_Willard_Mansion_May_09.jpg?width=300</value>
+</thumbnail>
+<wikilink>
+<type>uri</type>
+<value>http://en.wikipedia.org/wiki/Dr._Sylvester_Willard_Mansion?oldid=586968141</value>
+</wikilink>
+<location>
+<type>uri</type>
+<value>http://dbpedia.org/resource/Auburn,_New_York</value>
+</location>
+<built>
+<type>typed-literal</type>
+<datatype>http://www.w3.org/2001/XMLSchema#integer</datatype>
+<value>1836</value>
+</built>
+</XML_Serializer_Tag>
+</buildings>
+<books />
 </Person>

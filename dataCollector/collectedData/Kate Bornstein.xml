@@ -1,0 +1,24 @@
+<Person>
+<name>Kate Bornstein</name>
+<variantName>
+<XML_Serializer_Tag>Albert Herman Bornstein</XML_Serializer_Tag>
+</variantName>
+<thumbnail>https://commons.wikimedia.org/wiki/Special:FilePath/Kate_Bornstein2010.jpg?width=270</thumbnail>
+<birthEN>1948</birthEN>
+<birthDE>1948</birthDE>
+<deathEN />
+<deathDE />
+<birthPlace />
+<deathPlace />
+<professionOrOccupation>
+<XML_Serializer_Tag>Performance-Künstlerin</XML_Serializer_Tag>
+<XML_Serializer_Tag>Schauspielerin</XML_Serializer_Tag>
+<XML_Serializer_Tag>Schriftstellerin</XML_Serializer_Tag>
+</professionOrOccupation>
+<dbpResource>http://dbpedia.org/resource/Kate_Bornstein</dbpResource>
+<abstract>Kate Bornstein (* 15. März 1948) ist eine US-amerikanische Autorin, Schauspielerin und Künstlerin.</abstract>
+<wikilink>http://en.wikipedia.org/wiki/Kate_Bornstein?oldid=603636553</wikilink>
+<artworks />
+<buildings />
+<books />
+</Person>

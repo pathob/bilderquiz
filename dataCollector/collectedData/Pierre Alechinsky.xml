@@ -14,8 +14,10 @@
 <XML_Serializer_Tag>Künstler</XML_Serializer_Tag>
 <XML_Serializer_Tag>Maler</XML_Serializer_Tag>
 </professionOrOccupation>
-<artworks />
 <dbpResource>http://dbpedia.org/resource/Pierre_Alechinsky</dbpResource>
 <abstract>Pierre Alechinsky (* 19. Oktober 1927 in Brüssel) ist ein belgischer Maler.</abstract>
 <wikilink>http://en.wikipedia.org/wiki/Pierre_Alechinsky?oldid=554096640</wikilink>
+<artworks />
+<buildings />
+<books />
 </Person>

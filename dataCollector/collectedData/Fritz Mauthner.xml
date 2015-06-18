@@ -1,0 +1,29 @@
+<Person>
+<name>Fritz Mauthner</name>
+<variantName>
+<XML_Serializer_Tag>F. Mauthner</XML_Serializer_Tag>
+</variantName>
+<thumbnail>https://de.wikipedia.org/wiki/Special:FilePath/Fritz_Mauthner.jpg?width=270</thumbnail>
+<birthEN>November 22, 1849</birthEN>
+<birthDE>22. November 1849</birthDE>
+<deathEN>June 29, 1923</deathEN>
+<deathDE>29. Juni 1923</deathDE>
+<birthPlace>
+<XML_Serializer_Tag>Horitz, Böhmen</XML_Serializer_Tag>
+</birthPlace>
+<deathPlace>
+<XML_Serializer_Tag>Meersburg am Bodensee</XML_Serializer_Tag>
+</deathPlace>
+<professionOrOccupation>
+<XML_Serializer_Tag>Schriftsteller</XML_Serializer_Tag>
+<XML_Serializer_Tag>Philosoph</XML_Serializer_Tag>
+<XML_Serializer_Tag>Kritiker</XML_Serializer_Tag>
+<XML_Serializer_Tag>Publizist</XML_Serializer_Tag>
+</professionOrOccupation>
+<dbpResource>http://dbpedia.org/resource/Fritz_Mauthner</dbpResource>
+<abstract>Fritz Mauthner (* 22. November 1849 in Horschitz, Böhmen, Österreich-Ungarn; † 29. Juni 1923 in Meersburg) war ein deutschsprachiger Philosoph und Schriftsteller.</abstract>
+<wikilink>http://en.wikipedia.org/wiki/Fritz_Mauthner?oldid=605415250</wikilink>
+<artworks />
+<buildings />
+<books />
+</Person>

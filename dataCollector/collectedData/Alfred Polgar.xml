@@ -1,0 +1,29 @@
+<Person>
+<name>Alfred Polgar</name>
+<variantName>
+<XML_Serializer_Tag>Alfred Polak</XML_Serializer_Tag>
+</variantName>
+<thumbnail>https://commons.wikimedia.org/wiki/Special:FilePath/GrabPolgar.JPG?width=270</thumbnail>
+<birthEN>October 17, 1873</birthEN>
+<birthDE>17. Oktober 1873</birthDE>
+<deathEN>April 24, 1955</deathEN>
+<deathDE>24. April 1955</deathDE>
+<birthPlace>
+<XML_Serializer_Tag>Wien</XML_Serializer_Tag>
+</birthPlace>
+<deathPlace>
+<XML_Serializer_Tag>Zürich</XML_Serializer_Tag>
+</deathPlace>
+<professionOrOccupation>
+<XML_Serializer_Tag>Schriftsteller</XML_Serializer_Tag>
+<XML_Serializer_Tag>Theaterkritiker</XML_Serializer_Tag>
+<XML_Serializer_Tag>Übersetzer</XML_Serializer_Tag>
+<XML_Serializer_Tag>Drehbuchautor</XML_Serializer_Tag>
+</professionOrOccupation>
+<dbpResource>http://dbpedia.org/resource/Alfred_Polgar</dbpResource>
+<abstract>Alfred Polgar (* 17. Oktober 1873 in Wien; † 24. April 1955 in Zürich; eigentlich Alfred Polak; Pseudonyme Archibald Douglas, L. A. Terne) war ein österreichischer Schriftsteller, Aphoristiker, Kritiker und Übersetzer. Er ist einer der bekanntesten Autoren der Wiener Moderne.</abstract>
+<wikilink>http://en.wikipedia.org/wiki/Alfred_Polgar?oldid=601544961</wikilink>
+<artworks />
+<buildings />
+<books />
+</Person>

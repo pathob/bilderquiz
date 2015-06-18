@@ -17,8 +17,10 @@
 <XML_Serializer_Tag>Maler</XML_Serializer_Tag>
 <XML_Serializer_Tag>Zeichner</XML_Serializer_Tag>
 </professionOrOccupation>
-<artworks />
 <dbpResource>http://dbpedia.org/resource/Wilhelm_Stumpf</dbpResource>
 <abstract>Wilhelm Ludwig Ferdinand Stumpf (* 30. März 1873 in Weimar; † 27. August 1926 in Oberstaufen) war ein deutscher Illustrator, Landschafts- und Porträtmaler.</abstract>
 <wikilink>http://en.wikipedia.org/wiki/Wilhelm_Stumpf?oldid=596691737</wikilink>
+<artworks />
+<buildings />
+<books />
 </Person>

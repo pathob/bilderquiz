@@ -12,8 +12,10 @@
 <XML_Serializer_Tag>Künstler</XML_Serializer_Tag>
 <XML_Serializer_Tag>Maler</XML_Serializer_Tag>
 </professionOrOccupation>
-<artworks />
 <dbpResource>http://dbpedia.org/resource/Matt_Lamb</dbpResource>
 <abstract>Matt Lamb (* 7. April 1932 in Chicago; † 18. Februar 2012 ebenda) war ein irisch-US-amerikanischer Maler und Friedensaktivist.</abstract>
 <wikilink>http://en.wikipedia.org/wiki/Matt_Lamb?oldid=601086563</wikilink>
+<artworks />
+<buildings />
+<books />
 </Person>

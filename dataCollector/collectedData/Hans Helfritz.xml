@@ -1,0 +1,30 @@
+<Person>
+<name>Hans Helfritz</name>
+<variantName />
+<thumbnail>https://commons.wikimedia.org/wiki/Special:FilePath/Helfritz.jpg?width=270</thumbnail>
+<birthEN>July 25, 1902</birthEN>
+<birthDE>25. Juli 1902</birthDE>
+<deathEN>October 21, 1995</deathEN>
+<deathDE>21. Oktober 1995</deathDE>
+<birthPlace>
+<XML_Serializer_Tag>Chemnitz</XML_Serializer_Tag>
+</birthPlace>
+<deathPlace>
+<XML_Serializer_Tag>Duisburg</XML_Serializer_Tag>
+</deathPlace>
+<professionOrOccupation>
+<XML_Serializer_Tag>Komponist</XML_Serializer_Tag>
+<XML_Serializer_Tag>Musikethnologe</XML_Serializer_Tag>
+<XML_Serializer_Tag>Photograph</XML_Serializer_Tag>
+<XML_Serializer_Tag>Autor</XML_Serializer_Tag>
+<XML_Serializer_Tag>Regisseur</XML_Serializer_Tag>
+<XML_Serializer_Tag>Musiker</XML_Serializer_Tag>
+<XML_Serializer_Tag>Kameramann</XML_Serializer_Tag>
+</professionOrOccupation>
+<dbpResource>http://dbpedia.org/resource/Hans_Helfritz</dbpResource>
+<abstract>Hans Helfritz (* 25. Juli 1902 in Hilbersdorf bei Chemnitz; † 21. Oktober 1995 in Duisburg) war ein deutscher Komponist, Musikwissenschaftler, Schriftsteller und Fotograf.</abstract>
+<wikilink>http://en.wikipedia.org/wiki/Hans_Helfritz?oldid=586114294</wikilink>
+<artworks />
+<buildings />
+<books />
+</Person>

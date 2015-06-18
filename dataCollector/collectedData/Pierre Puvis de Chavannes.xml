@@ -18,8 +18,10 @@
 <professionOrOccupation>
 <XML_Serializer_Tag>Maler</XML_Serializer_Tag>
 </professionOrOccupation>
-<artworks />
 <dbpResource>http://dbpedia.org/resource/Pierre_Puvis_de_Chavannes</dbpResource>
 <abstract>Pierre Cécile Puvis de Chavannes (* 14. Dezember 1824 in Lyon/Rhône; † 24. Oktober 1898 in Paris) war ein französischer Maler. Abgesehen von seinen frühen, unter dem Einfluss der Romantik stehenden Gemälden und einigen schlichten Porträts ist sein Werk dem Symbolismus zuzuordnen. Er schuf zahlreiche Wandmalereien für öffentliche Gebäude.</abstract>
 <wikilink>http://en.wikipedia.org/wiki/Pierre_Puvis_de_Chavannes?oldid=604639104</wikilink>
+<artworks />
+<buildings />
+<books />
 </Person>

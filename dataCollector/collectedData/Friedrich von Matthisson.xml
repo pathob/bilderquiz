@@ -1,0 +1,31 @@
+<Person>
+<name>Friedrich von Matthisson</name>
+<variantName>
+<XML_Serializer_Tag>Friedrich von Matthison</XML_Serializer_Tag>
+<XML_Serializer_Tag>Friedrich von Mattisson</XML_Serializer_Tag>
+<XML_Serializer_Tag>Fried. von Matthisson</XML_Serializer_Tag>
+<XML_Serializer_Tag>Fridrich von Matthisson</XML_Serializer_Tag>
+<XML_Serializer_Tag>Friedrich Matthisson</XML_Serializer_Tag>
+<XML_Serializer_Tag>Matthisson</XML_Serializer_Tag>
+</variantName>
+<thumbnail>https://commons.wikimedia.org/wiki/Special:FilePath/MatthissonF.jpg?width=270</thumbnail>
+<birthEN>January 13, 1761</birthEN>
+<birthDE>13. Januar 1761</birthDE>
+<deathEN>March 12, 1831</deathEN>
+<deathDE>12. März 1831</deathDE>
+<birthPlace>
+<XML_Serializer_Tag>Hohendodeleben/Magdeburg</XML_Serializer_Tag>
+</birthPlace>
+<deathPlace>
+<XML_Serializer_Tag>Wörlitz/Anhalt</XML_Serializer_Tag>
+</deathPlace>
+<professionOrOccupation>
+<XML_Serializer_Tag>Schriftsteller</XML_Serializer_Tag>
+</professionOrOccupation>
+<dbpResource>http://dbpedia.org/resource/Friedrich_von_Matthisson</dbpResource>
+<abstract>Friedrich von Matthisson (* 23. Januar 1761 in Hohendodeleben bei Magdeburg; † 12. März 1831 in Wörlitz bei Dessau) war ein deutscher Lyriker, Bibliothekar und Prosaschriftsteller.</abstract>
+<wikilink>http://en.wikipedia.org/wiki/Friedrich_von_Matthisson?oldid=599882905</wikilink>
+<artworks />
+<buildings />
+<books />
+</Person>

@@ -1,0 +1,27 @@
+<Person>
+<name>Friedrich Spielhagen</name>
+<variantName>
+<XML_Serializer_Tag>Fr. Spielhagen</XML_Serializer_Tag>
+</variantName>
+<thumbnail>https://de.wikipedia.org/wiki/Special:FilePath/Friedrich_Spielhagen2.jpg?width=270</thumbnail>
+<birthEN>February 24, 1829</birthEN>
+<birthDE>24. Februar 1829</birthDE>
+<deathEN>February 25, 1911</deathEN>
+<deathDE>25. Februar 1911</deathDE>
+<birthPlace>
+<XML_Serializer_Tag>Magdeburg</XML_Serializer_Tag>
+</birthPlace>
+<deathPlace>
+<XML_Serializer_Tag>Berlin-Charlottenburg</XML_Serializer_Tag>
+</deathPlace>
+<professionOrOccupation>
+<XML_Serializer_Tag>Romancier</XML_Serializer_Tag>
+<XML_Serializer_Tag>Schriftsteller</XML_Serializer_Tag>
+</professionOrOccupation>
+<dbpResource>http://dbpedia.org/resource/Friedrich_Spielhagen</dbpResource>
+<abstract>Friedrich Spielhagen (* 24. Februar 1829 in Magdeburg; † 25. Februar 1911 in Berlin) war ein deutscher Schriftsteller.</abstract>
+<wikilink>http://en.wikipedia.org/wiki/Friedrich_Spielhagen?oldid=571318858</wikilink>
+<artworks />
+<buildings />
+<books />
+</Person>

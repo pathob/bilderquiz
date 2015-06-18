@@ -1,0 +1,25 @@
+<Person>
+<name>Robert Moses</name>
+<variantName />
+<thumbnail>https://commons.wikimedia.org/wiki/Special:FilePath/Robert_Moses_with_Battery_Bridge_model.jpg?width=270</thumbnail>
+<birthEN>December 18, 1888</birthEN>
+<birthDE>18. Dezember 1888</birthDE>
+<deathEN>July 29, 1981</deathEN>
+<deathDE>29. Juli 1981</deathDE>
+<birthPlace>
+<XML_Serializer_Tag>New Haven, Conn.</XML_Serializer_Tag>
+</birthPlace>
+<deathPlace>
+<XML_Serializer_Tag>New York, NY</XML_Serializer_Tag>
+</deathPlace>
+<professionOrOccupation>
+<XML_Serializer_Tag>Architekt</XML_Serializer_Tag>
+<XML_Serializer_Tag>Stadtplaner</XML_Serializer_Tag>
+</professionOrOccupation>
+<dbpResource>http://dbpedia.org/resource/Robert_Moses</dbpResource>
+<abstract>Robert Moses (* 18. Dezember 1888 in New Haven; † 29. Juli 1981 in West Islip, New York) war ein amerikanischer Stadtplaner. Von den 1930er Jahren bis 1968 hatte er immensen Einfluss auf die Geschicke von New York City und ihrem Umland. Er gilt als einer der einflussreichsten Stadtplaner in der Geschichte und wurde oft mit dem Pariser Stadtplaner Baron Haussmann verglichen.</abstract>
+<wikilink>http://en.wikipedia.org/wiki/Robert_Moses?oldid=606746848</wikilink>
+<artworks />
+<buildings />
+<books />
+</Person>

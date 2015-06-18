@@ -18,8 +18,10 @@
 <XML_Serializer_Tag>Lithograph</XML_Serializer_Tag>
 <XML_Serializer_Tag>Radierer</XML_Serializer_Tag>
 </professionOrOccupation>
-<artworks />
 <dbpResource>http://dbpedia.org/resource/Carl_Oesterley</dbpResource>
 <abstract>Carl Wilhelm Friedrich Oesterley (* 22. Juni 1805 in Göttingen; † 29. März 1891 in Hannover) war ein deutscher Maler. Seine Werke sind vorrangig dem Realismus in der deutschen Malerei zuzuordnen. Er schuf hauptsächlich Ölgemälde.</abstract>
 <wikilink>http://en.wikipedia.org/wiki/Carl_Oesterley?oldid=581653219</wikilink>
+<artworks />
+<buildings />
+<books />
 </Person>

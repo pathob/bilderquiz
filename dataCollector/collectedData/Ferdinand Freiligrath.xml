@@ -1,0 +1,31 @@
+<Person>
+<name>Ferdinand Freiligrath</name>
+<variantName>
+<XML_Serializer_Tag>F. Frejligrat</XML_Serializer_Tag>
+<XML_Serializer_Tag>F. Freiligrath</XML_Serializer_Tag>
+<XML_Serializer_Tag>Ferd. Freiligrath</XML_Serializer_Tag>
+<XML_Serializer_Tag>Hermann Ferdinand Freiligrath</XML_Serializer_Tag>
+<XML_Serializer_Tag>Hermann F. Freiligrath</XML_Serializer_Tag>
+</variantName>
+<thumbnail>https://commons.wikimedia.org/wiki/Special:FilePath/Ferdinand_Freiligrath_Hasenclever.jpg?width=270</thumbnail>
+<birthEN>June 17, 1810</birthEN>
+<birthDE>17. Juni 1810</birthDE>
+<deathEN>March 18, 1876</deathEN>
+<deathDE>18. März 1876</deathDE>
+<birthPlace>
+<XML_Serializer_Tag>Detmold</XML_Serializer_Tag>
+</birthPlace>
+<deathPlace>
+<XML_Serializer_Tag>Cannstatt</XML_Serializer_Tag>
+</deathPlace>
+<professionOrOccupation>
+<XML_Serializer_Tag>Schriftsteller</XML_Serializer_Tag>
+<XML_Serializer_Tag>Übersetzer</XML_Serializer_Tag>
+</professionOrOccupation>
+<dbpResource>http://dbpedia.org/resource/Ferdinand_Freiligrath</dbpResource>
+<abstract>Hermann Ferdinand Freiligrath (sprich: Freilichrat, * 17. Juni 1810 in Detmold im Fürstentum Lippe; † 18. März 1876 in Cannstatt bei Stuttgart) war ein deutscher Lyriker, Dichter und Übersetzer.</abstract>
+<wikilink>http://en.wikipedia.org/wiki/Ferdinand_Freiligrath?oldid=600525097</wikilink>
+<artworks />
+<buildings />
+<books />
+</Person>

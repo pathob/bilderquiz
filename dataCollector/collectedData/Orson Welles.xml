@@ -1,0 +1,71 @@
+<Person>
+<name>Orson Welles</name>
+<variantName>
+<XML_Serializer_Tag>George O. Welles</XML_Serializer_Tag>
+<XML_Serializer_Tag>George Orson Welles</XML_Serializer_Tag>
+</variantName>
+<thumbnail>https://commons.wikimedia.org/wiki/Special:FilePath/Orson_Welles_1937.jpg?width=270</thumbnail>
+<birthEN>May 6, 1915</birthEN>
+<birthDE>6. Mai 1915</birthDE>
+<deathEN>October 10, 1985</deathEN>
+<deathDE>10. Oktober 1985</deathDE>
+<birthPlace>
+<XML_Serializer_Tag>Kenosha, Wisconsin, USA</XML_Serializer_Tag>
+</birthPlace>
+<deathPlace>
+<XML_Serializer_Tag>Los Angeles, Calif.</XML_Serializer_Tag>
+</deathPlace>
+<professionOrOccupation>
+<XML_Serializer_Tag>Musiker</XML_Serializer_Tag>
+<XML_Serializer_Tag>Schriftsteller</XML_Serializer_Tag>
+<XML_Serializer_Tag>Schauspieler</XML_Serializer_Tag>
+<XML_Serializer_Tag>Regisseur</XML_Serializer_Tag>
+<XML_Serializer_Tag>Drehbuchautor</XML_Serializer_Tag>
+<XML_Serializer_Tag>Filmproduzent</XML_Serializer_Tag>
+</professionOrOccupation>
+<dbpResource>http://dbpedia.org/resource/Orson_Welles</dbpResource>
+<abstract>George Orson Welles (* 6. Mai 1915 in Kenosha, Wisconsin; † 10. Oktober 1985 in Los Angeles, Kalifornien) war ein US-amerikanischer Filmregisseur, Schauspieler und Autor.Obwohl viele seiner Projekte nie verwirklicht wurden, gilt er als einer der künstlerisch einflussreichsten Regisseure des Hollywood-Kinos. Sein erster Kinofilm, Citizen Kane, wird oft als das bedeutendste Werk der Filmgeschichte bezeichnet; in später entstandenen Filmen wurde er mehrfach zitiert.</abstract>
+<wikilink>http://en.wikipedia.org/wiki/Orson_Welles?oldid=606547818</wikilink>
+<artworks />
+<buildings />
+<books>
+<XML_Serializer_Tag>
+<book>
+<type>uri</type>
+<value>http://dbpedia.org/resource/This_is_Orson_Welles</value>
+</book>
+<author>
+<type>uri</type>
+<value>http://dbpedia.org/resource/Orson_Welles</value>
+</author>
+<released>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>September 1992</value>
+</released>
+<wikilink>
+<type>uri</type>
+<value>http://en.wikipedia.org/wiki/This_is_Orson_Welles?oldid=595174496</value>
+</wikilink>
+</XML_Serializer_Tag>
+<XML_Serializer_Tag>
+<book>
+<type>uri</type>
+<value>http://dbpedia.org/resource/Les_Bravades</value>
+</book>
+<author>
+<type>uri</type>
+<value>http://dbpedia.org/resource/Orson_Welles</value>
+</author>
+<released>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>November 1996</value>
+</released>
+<wikilink>
+<type>uri</type>
+<value>http://en.wikipedia.org/wiki/Les_Bravades?oldid=602751836</value>
+</wikilink>
+</XML_Serializer_Tag>
+</books>
+</Person>

@@ -1,0 +1,31 @@
+<Person>
+<name>Hermann Kant</name>
+<variantName>
+<XML_Serializer_Tag>... Kant-Reher</XML_Serializer_Tag>
+<XML_Serializer_Tag>German Kant</XML_Serializer_Tag>
+<XML_Serializer_Tag>Hermanas Kantas</XML_Serializer_Tag>
+<XML_Serializer_Tag>Hermanis Kants</XML_Serializer_Tag>
+<XML_Serializer_Tag>Cherman Kant</XML_Serializer_Tag>
+</variantName>
+<thumbnail>https://commons.wikimedia.org/wiki/Special:FilePath/Bundesarchiv_Bild_183-1987-1124-026,_Berlin,_X._Schriftstellerkongress,_Hermann_Kant.jpg?width=270</thumbnail>
+<birthEN>1926</birthEN>
+<birthDE>1926</birthDE>
+<deathEN />
+<deathDE />
+<birthPlace>
+<XML_Serializer_Tag>Hamburg</XML_Serializer_Tag>
+</birthPlace>
+<deathPlace />
+<professionOrOccupation>
+<XML_Serializer_Tag>Schriftsteller</XML_Serializer_Tag>
+<XML_Serializer_Tag>Schauspieler</XML_Serializer_Tag>
+<XML_Serializer_Tag>Drehbuchautor</XML_Serializer_Tag>
+<XML_Serializer_Tag>Sprecher</XML_Serializer_Tag>
+</professionOrOccupation>
+<dbpResource>http://dbpedia.org/resource/Hermann_Kant</dbpResource>
+<abstract>Hermann Kant (* 14. Juni 1926 in Hamburg) ist ein deutscher Schriftsteller. Er lebt in Prälank, einem Ortsteil von Neustrelitz in Mecklenburg.</abstract>
+<wikilink>http://en.wikipedia.org/wiki/Hermann_Kant?oldid=580757510</wikilink>
+<artworks />
+<buildings />
+<books />
+</Person>

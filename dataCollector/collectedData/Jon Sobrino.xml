@@ -1,0 +1,23 @@
+<Person>
+<name>Jon Sobrino</name>
+<variantName>
+<XML_Serializer_Tag>Juan Sobrino</XML_Serializer_Tag>
+</variantName>
+<thumbnail>https://commons.wikimedia.org/wiki/Special:FilePath/Sobrino.JPG?width=270</thumbnail>
+<birthEN>1938</birthEN>
+<birthDE>1938</birthDE>
+<deathEN />
+<deathDE />
+<birthPlace />
+<deathPlace />
+<professionOrOccupation>
+<XML_Serializer_Tag>Katholischer Theologe</XML_Serializer_Tag>
+<XML_Serializer_Tag>Philosoph</XML_Serializer_Tag>
+</professionOrOccupation>
+<dbpResource>http://dbpedia.org/resource/Jon_Sobrino</dbpResource>
+<abstract>Jon Sobrino SJ (* 27. Dezember 1938 in Barcelona) ist Jesuit und ein namhafter Vertreter der Befreiungstheologie. Er lebt in El Salvador.</abstract>
+<wikilink>http://en.wikipedia.org/wiki/Jon_Sobrino?oldid=587645744</wikilink>
+<artworks />
+<buildings />
+<books />
+</Person>

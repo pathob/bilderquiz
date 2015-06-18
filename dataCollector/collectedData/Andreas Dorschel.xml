@@ -1,0 +1,27 @@
+<Person>
+<name>Andreas Dorschel</name>
+<variantName>
+<XML_Serializer_Tag>A. Dorschel</XML_Serializer_Tag>
+<XML_Serializer_Tag>Andoreasu Dorusheru</XML_Serializer_Tag>
+<XML_Serializer_Tag>A. Dorusheru</XML_Serializer_Tag>
+</variantName>
+<thumbnail>https://commons.wikimedia.org/wiki/Special:FilePath/Andreas_Dorschel_(2010).jpg?width=270</thumbnail>
+<birthEN>1962</birthEN>
+<birthDE>1962</birthDE>
+<deathEN />
+<deathDE />
+<birthPlace>
+<XML_Serializer_Tag>Wiesbaden</XML_Serializer_Tag>
+</birthPlace>
+<deathPlace />
+<professionOrOccupation>
+<XML_Serializer_Tag>Philosoph</XML_Serializer_Tag>
+<XML_Serializer_Tag>Hochschullehrer</XML_Serializer_Tag>
+</professionOrOccupation>
+<dbpResource>http://dbpedia.org/resource/Andreas_Dorschel</dbpResource>
+<abstract>Andreas Dorschel (* 1962 in Wiesbaden) ist ein deutscher Philosoph. Seit 2002 ist er Professor für Ästhetik sowie Vorstand des Instituts für Musikästhetik an der Universität für Musik und darstellende Kunst Graz (Österreich).</abstract>
+<wikilink>http://en.wikipedia.org/wiki/Andreas_Dorschel?oldid=605164267</wikilink>
+<artworks />
+<buildings />
+<books />
+</Person>

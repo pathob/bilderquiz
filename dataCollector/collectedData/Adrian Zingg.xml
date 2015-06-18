@@ -19,8 +19,10 @@
 <XML_Serializer_Tag>Kupferstecher</XML_Serializer_Tag>
 <XML_Serializer_Tag>Maler</XML_Serializer_Tag>
 </professionOrOccupation>
-<artworks />
 <dbpResource>http://dbpedia.org/resource/Adrian_Zingg</dbpResource>
 <abstract>Adrian Zingg (* 15. April 1734 in St. Gallen; † 26. Mai 1816 in Leipzig) war ein schweizerischer Maler, Zeichner, Radierer und Kupferstecher. Er war ein Wegbereiter der neueren Dresdner Landschaftsmalerei.</abstract>
 <wikilink>http://en.wikipedia.org/wiki/Adrian_Zingg?oldid=583491637</wikilink>
+<artworks />
+<buildings />
+<books />
 </Person>

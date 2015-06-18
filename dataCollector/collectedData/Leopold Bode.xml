@@ -17,8 +17,10 @@
 <professionOrOccupation>
 <XML_Serializer_Tag>Maler</XML_Serializer_Tag>
 </professionOrOccupation>
-<artworks />
 <dbpResource>http://dbpedia.org/resource/Leopold_Bode</dbpResource>
 <abstract>Christian Leopold Bode (* 11. März 1831 in Offenbach am Main; † 26. Juli 1906 in Frankfurt am Main) war ein deutscher Historienmaler und Grafiker.</abstract>
 <wikilink>http://en.wikipedia.org/wiki/Leopold_Bode?oldid=581896838</wikilink>
+<artworks />
+<buildings />
+<books />
 </Person>

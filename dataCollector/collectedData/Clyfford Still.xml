@@ -11,8 +11,10 @@
 <professionOrOccupation>
 <XML_Serializer_Tag>Maler</XML_Serializer_Tag>
 </professionOrOccupation>
-<artworks />
 <dbpResource>http://dbpedia.org/resource/Clyfford_Still</dbpResource>
 <abstract>Clyfford Still (* 30. November 1904 in Grandin, North Dakota; † 23. Juni 1980 in New York) war ein US-amerikanischer Maler. Er wird der Stilrichtung des Abstrakten Expressionismus zugeordnet.</abstract>
 <wikilink>http://en.wikipedia.org/wiki/Clyfford_Still?oldid=604170321</wikilink>
+<artworks />
+<buildings />
+<books />
 </Person>

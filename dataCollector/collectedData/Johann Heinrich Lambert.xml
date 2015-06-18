@@ -1,0 +1,40 @@
+<Person>
+<name>Johann Heinrich Lambert</name>
+<variantName>
+<XML_Serializer_Tag>Jean H. Lambert</XML_Serializer_Tag>
+<XML_Serializer_Tag>Johann H. Lambert</XML_Serializer_Tag>
+<XML_Serializer_Tag>Jean-Henri Lambert</XML_Serializer_Tag>
+<XML_Serializer_Tag>Johannes Heinrich Lambert</XML_Serializer_Tag>
+<XML_Serializer_Tag>Johannes H. Lambert</XML_Serializer_Tag>
+<XML_Serializer_Tag>Johannes Henricus Lambert</XML_Serializer_Tag>
+<XML_Serializer_Tag>Iohannis Henrici Lambert</XML_Serializer_Tag>
+<XML_Serializer_Tag>Johann Heinrich Lampert</XML_Serializer_Tag>
+<XML_Serializer_Tag>J. H. Lambert</XML_Serializer_Tag>
+<XML_Serializer_Tag>J. Heinrich Lampert</XML_Serializer_Tag>
+</variantName>
+<thumbnail>https://commons.wikimedia.org/wiki/Special:FilePath/Johann_Heinrich_Lambert_1829_Engelmann.png?width=270</thumbnail>
+<birthEN>August 26, 1728</birthEN>
+<birthDE>26. August 1728</birthDE>
+<deathEN>September 25, 1777</deathEN>
+<deathDE>25. September 1777</deathDE>
+<birthPlace>
+<XML_Serializer_Tag>Mülhausen</XML_Serializer_Tag>
+</birthPlace>
+<deathPlace>
+<XML_Serializer_Tag>Berlin</XML_Serializer_Tag>
+</deathPlace>
+<professionOrOccupation>
+<XML_Serializer_Tag>Mathematiker</XML_Serializer_Tag>
+<XML_Serializer_Tag>Physiker</XML_Serializer_Tag>
+<XML_Serializer_Tag>Philosoph</XML_Serializer_Tag>
+<XML_Serializer_Tag>Buchhalter</XML_Serializer_Tag>
+<XML_Serializer_Tag>Privatlehrer</XML_Serializer_Tag>
+<XML_Serializer_Tag>Astronom</XML_Serializer_Tag>
+</professionOrOccupation>
+<dbpResource>http://dbpedia.org/resource/Johann_Heinrich_Lambert</dbpResource>
+<abstract>Johann Heinrich Lambert (* 26. August 1728 in Mülhausen (Elsass); † 25. September 1777 in Berlin) war ein schweizerisch-elsässischer Mathematiker, Logiker, Physiker und Philosoph der Aufklärung, der u. a. die Irrationalität der Zahl Pi bewies.</abstract>
+<wikilink>http://en.wikipedia.org/wiki/Johann_Heinrich_Lambert?oldid=598721602</wikilink>
+<artworks />
+<buildings />
+<books />
+</Person>

@@ -15,8 +15,10 @@
 <professionOrOccupation>
 <XML_Serializer_Tag>Maler</XML_Serializer_Tag>
 </professionOrOccupation>
-<artworks />
 <dbpResource>http://dbpedia.org/resource/Hans_Feibusch</dbpResource>
 <abstract>Hans Nathan Feibusch (* 15. August 1898 in Frankfurt am Main; † 18. Juli 1998 in London) war ein deutscher Maler, der seit 1933 im britischen Exil lebte.</abstract>
 <wikilink>http://en.wikipedia.org/wiki/Hans_Feibusch?oldid=597604229</wikilink>
+<artworks />
+<buildings />
+<books />
 </Person>

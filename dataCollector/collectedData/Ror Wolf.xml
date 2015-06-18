@@ -1,0 +1,26 @@
+<Person>
+<name>Ror Wolf</name>
+<variantName>
+<XML_Serializer_Tag>Richard Wolf</XML_Serializer_Tag>
+</variantName>
+<thumbnail>https://commons.wikimedia.org/wiki/Special:FilePath/Bundesarchiv_B_145_Bild-F078338-0020,_Bonn,_Verleihung_Hörspielpreis_der_Kriegsblinden.jpg?width=270</thumbnail>
+<birthEN>1932</birthEN>
+<birthDE>1932</birthDE>
+<deathEN />
+<deathDE />
+<birthPlace>
+<XML_Serializer_Tag>Saalfeld/Saale</XML_Serializer_Tag>
+</birthPlace>
+<deathPlace />
+<professionOrOccupation>
+<XML_Serializer_Tag>Schriftsteller</XML_Serializer_Tag>
+<XML_Serializer_Tag>Künstler</XML_Serializer_Tag>
+<XML_Serializer_Tag>Collagist</XML_Serializer_Tag>
+</professionOrOccupation>
+<dbpResource>http://dbpedia.org/resource/Ror_Wolf</dbpResource>
+<abstract>Ror Wolf; ursprünglich: Richard Wolf, Pseudonym: Raoul Tranchirer (* 29. Juni 1932 in Saalfeld/Saale, Thüringen) ist ein deutscher Schriftsteller und Künstler.</abstract>
+<wikilink>http://en.wikipedia.org/wiki/Ror_Wolf?oldid=565925592</wikilink>
+<artworks />
+<buildings />
+<books />
+</Person>

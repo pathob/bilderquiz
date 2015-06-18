@@ -1,0 +1,51 @@
+<Person>
+<name>Antonia Fraser</name>
+<variantName>
+<XML_Serializer_Tag>Antonia Peckenham</XML_Serializer_Tag>
+<XML_Serializer_Tag>Antonia Peckenham Fraser</XML_Serializer_Tag>
+<XML_Serializer_Tag>Antonia Peckenham Fraser</XML_Serializer_Tag>
+<XML_Serializer_Tag>Antonia Margaret Caroline Fraser</XML_Serializer_Tag>
+<XML_Serializer_Tag>Antonia Margaret Caroline Peckenham</XML_Serializer_Tag>
+<XML_Serializer_Tag>A Fureizā</XML_Serializer_Tag>
+<XML_Serializer_Tag>A. フレイザー</XML_Serializer_Tag>
+</variantName>
+<thumbnail>https://commons.wikimedia.org/wiki/Special:FilePath/Antonia_Fraser.jpg?width=270</thumbnail>
+<birthEN>1932</birthEN>
+<birthDE>1932</birthDE>
+<deathEN />
+<deathDE />
+<birthPlace>
+<XML_Serializer_Tag>London</XML_Serializer_Tag>
+</birthPlace>
+<deathPlace />
+<professionOrOccupation>
+<XML_Serializer_Tag>Historikerin</XML_Serializer_Tag>
+<XML_Serializer_Tag>Schriftstellerin</XML_Serializer_Tag>
+</professionOrOccupation>
+<dbpResource>http://dbpedia.org/resource/Antonia_Fraser</dbpResource>
+<abstract>Lady Antonia Margaret Caroline Fraser DBE (* 27. August 1932 in Bayswater, London als Lady Antonia Margaret Caroline Pakenham) ist eine britische Bestseller-Autorin.</abstract>
+<wikilink>http://en.wikipedia.org/wiki/Antonia_Fraser?oldid=603423882</wikilink>
+<artworks />
+<buildings />
+<books>
+<XML_Serializer_Tag>
+<book>
+<type>uri</type>
+<value>http://dbpedia.org/resource/Oxford_Blood</value>
+</book>
+<author>
+<type>uri</type>
+<value>http://dbpedia.org/resource/Antonia_Fraser</value>
+</author>
+<released>
+<type>typed-literal</type>
+<datatype>http://www.w3.org/2001/XMLSchema#date</datatype>
+<value>1985-06-06+02:00</value>
+</released>
+<wikilink>
+<type>uri</type>
+<value>http://en.wikipedia.org/wiki/Oxford_Blood?oldid=606623074</value>
+</wikilink>
+</XML_Serializer_Tag>
+</books>
+</Person>

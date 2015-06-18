@@ -12,8 +12,10 @@
 <XML_Serializer_Tag>Maler</XML_Serializer_Tag>
 <XML_Serializer_Tag>Landschaftsmaler</XML_Serializer_Tag>
 </professionOrOccupation>
-<artworks />
 <dbpResource>http://dbpedia.org/resource/Anton_Altmann</dbpResource>
 <abstract>Anton Altmann (* 4. Juni 1808 in Wien; † 9. Juli 1871 in Wien) war ein österreichischer Landschaftsmaler.</abstract>
 <wikilink>http://en.wikipedia.org/wiki/Anton_Altmann?oldid=567226695</wikilink>
+<artworks />
+<buildings />
+<books />
 </Person>

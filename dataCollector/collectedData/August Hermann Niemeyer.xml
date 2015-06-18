@@ -1,0 +1,34 @@
+<Person>
+<name>August Hermann Niemeyer</name>
+<variantName>
+<XML_Serializer_Tag>Aug. Herm. Niemeyer</XML_Serializer_Tag>
+<XML_Serializer_Tag>Augustus Hermann Niemeyer</XML_Serializer_Tag>
+<XML_Serializer_Tag>Augustus Hermannus Niemeyer</XML_Serializer_Tag>
+<XML_Serializer_Tag>August Herman Niemeyer</XML_Serializer_Tag>
+<XML_Serializer_Tag>A. H. Niemeyer</XML_Serializer_Tag>
+</variantName>
+<thumbnail>https://commons.wikimedia.org/wiki/Special:FilePath/FranckescheStiftungen_2.jpg?width=270</thumbnail>
+<birthEN>September 1, 1754</birthEN>
+<birthDE>1. September 1754</birthDE>
+<deathEN>July 7, 1828</deathEN>
+<deathDE>7. Juli 1828</deathDE>
+<birthPlace>
+<XML_Serializer_Tag>Halle (Saale)</XML_Serializer_Tag>
+</birthPlace>
+<deathPlace>
+<XML_Serializer_Tag>Magdeburg</XML_Serializer_Tag>
+</deathPlace>
+<professionOrOccupation>
+<XML_Serializer_Tag>Theologe</XML_Serializer_Tag>
+<XML_Serializer_Tag>Pädagoge</XML_Serializer_Tag>
+<XML_Serializer_Tag>Schriftsteller</XML_Serializer_Tag>
+<XML_Serializer_Tag>Rektor</XML_Serializer_Tag>
+<XML_Serializer_Tag>Kirchenlieddichter</XML_Serializer_Tag>
+</professionOrOccupation>
+<dbpResource>http://dbpedia.org/resource/August_Hermann_Niemeyer</dbpResource>
+<abstract>August Hermann Niemeyer (* 1. September 1754 in Halle (Saale); † 7. Juli 1828 in Magdeburg) war ein deutscher Theologe, Pädagoge, Librettist, Lyriker, Reiseschriftsteller, evangelischer Kirchenlieddichter und preußischer Bildungspolitiker.</abstract>
+<wikilink>http://en.wikipedia.org/wiki/August_Hermann_Niemeyer?oldid=599756574</wikilink>
+<artworks />
+<buildings />
+<books />
+</Person>

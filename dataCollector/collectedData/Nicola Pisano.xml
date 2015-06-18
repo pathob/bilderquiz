@@ -1,0 +1,32 @@
+<Person>
+<name>Nicola Pisano</name>
+<variantName>
+<XML_Serializer_Tag>Niccolò Pisano</XML_Serializer_Tag>
+<XML_Serializer_Tag>Nicola, Pisano</XML_Serializer_Tag>
+<XML_Serializer_Tag>Nicola, d&apos;Apulia</XML_Serializer_Tag>
+<XML_Serializer_Tag>Nicolo Pisano</XML_Serializer_Tag>
+<XML_Serializer_Tag>Niccola Pisano</XML_Serializer_Tag>
+<XML_Serializer_Tag>Nichola, de Apulia</XML_Serializer_Tag>
+<XML_Serializer_Tag>Nichola, Pietri de Apulia</XML_Serializer_Tag>
+<XML_Serializer_Tag>Nicola, Pisanus</XML_Serializer_Tag>
+<XML_Serializer_Tag>Nicolas, de Pise</XML_Serializer_Tag>
+<XML_Serializer_Tag>Niccolò, Pisano</XML_Serializer_Tag>
+<XML_Serializer_Tag>Nicolo, Pisano</XML_Serializer_Tag>
+</variantName>
+<thumbnail>https://commons.wikimedia.org/wiki/Special:FilePath/Siena.Duomo.pulpit02.jpg?width=270</thumbnail>
+<birthEN>1225</birthEN>
+<birthDE>1225</birthDE>
+<deathEN>1278</deathEN>
+<deathDE>1278</deathDE>
+<birthPlace />
+<deathPlace />
+<professionOrOccupation>
+<XML_Serializer_Tag>Bildhauer</XML_Serializer_Tag>
+</professionOrOccupation>
+<dbpResource>http://dbpedia.org/resource/Nicola_Pisano</dbpResource>
+<abstract>Nicola Pisano, auch Niccolò Pisano, (* zwischen 1205 und 1207 in Pisa oder Apulien; † 1278) war ein Bildhauer und Architekt.</abstract>
+<wikilink>http://en.wikipedia.org/wiki/Nicola_Pisano?oldid=600359187</wikilink>
+<artworks />
+<buildings />
+<books />
+</Person>

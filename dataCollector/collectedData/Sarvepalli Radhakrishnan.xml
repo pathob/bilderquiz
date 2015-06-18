@@ -1,0 +1,70 @@
+<Person>
+<name>Sarvepalli Radhakrishnan</name>
+<variantName>
+<XML_Serializer_Tag>Sarvapalli Radhakrishnan</XML_Serializer_Tag>
+<XML_Serializer_Tag>Sarvapolli Radhakrishnan</XML_Serializer_Tag>
+<XML_Serializer_Tag>Sarwapalli Radhakrishnan</XML_Serializer_Tag>
+<XML_Serializer_Tag>Sarvepalli Radhakrishnan</XML_Serializer_Tag>
+<XML_Serializer_Tag>S. Radhakrishnan</XML_Serializer_Tag>
+<XML_Serializer_Tag>Sarvapalli Radhakrshnan</XML_Serializer_Tag>
+<XML_Serializer_Tag>Sarvapalli Radhakrshnan</XML_Serializer_Tag>
+<XML_Serializer_Tag>Sarvepalli Rādhākṛṣṇān</XML_Serializer_Tag>
+<XML_Serializer_Tag>Sarwipālī Rādākrīšnān</XML_Serializer_Tag>
+<XML_Serializer_Tag>Sarwipālī Rādākrīšnān</XML_Serializer_Tag>
+<XML_Serializer_Tag>Sarvapalli Rādhākṛshṇan</XML_Serializer_Tag>
+<XML_Serializer_Tag>Sarvapalli Rādhākṛshṇan</XML_Serializer_Tag>
+<XML_Serializer_Tag>... Radhakrishnan</XML_Serializer_Tag>
+<XML_Serializer_Tag>Rādhākr̥ṣṇan</XML_Serializer_Tag>
+<XML_Serializer_Tag>Sarvepalli Radchakrišnan</XML_Serializer_Tag>
+<XML_Serializer_Tag>Sarvepalli Radchakrišnan</XML_Serializer_Tag>
+<XML_Serializer_Tag>Sarvepalli Radhakrishnan</XML_Serializer_Tag>
+<XML_Serializer_Tag>Sarve-Palli Sir Radhakrishnan</XML_Serializer_Tag>
+<XML_Serializer_Tag>Carvappaḷḷi Irātākiruṣṇaṉ</XML_Serializer_Tag>
+</variantName>
+<thumbnail>https://commons.wikimedia.org/wiki/Special:FilePath/Radhakrishnan.jpg?width=270</thumbnail>
+<birthEN>1888</birthEN>
+<birthDE>1888</birthDE>
+<deathEN>1975</deathEN>
+<deathDE>1975</deathDE>
+<birthPlace />
+<deathPlace />
+<professionOrOccupation>
+<XML_Serializer_Tag>Politiker</XML_Serializer_Tag>
+<XML_Serializer_Tag>Philosoph</XML_Serializer_Tag>
+</professionOrOccupation>
+<dbpResource>http://dbpedia.org/resource/Sarvepalli_Radhakrishnan</dbpResource>
+<abstract>Sarvepalli Radhakrishnan (* 5. September 1888 in Tiruttani; † 16. April 1975 in Madras, Tamil Nadu) war von 1962 bis 1967 Präsident Indiens und gilt als bedeutender Religionsphilosoph. Er war ein Vordenker des Neohinduismus.</abstract>
+<wikilink>http://en.wikipedia.org/wiki/Sarvepalli_Radhakrishnan?oldid=606752671</wikilink>
+<artworks />
+<buildings />
+<books>
+<XML_Serializer_Tag>
+<book>
+<type>uri</type>
+<value>http://dbpedia.org/resource/Dhammapada_(Radhakrishnan_translation)</value>
+</book>
+<author>
+<type>uri</type>
+<value>http://dbpedia.org/resource/Sarvepalli_Radhakrishnan</value>
+</author>
+<wikilink>
+<type>uri</type>
+<value>http://en.wikipedia.org/wiki/Dhammapada_(Radhakrishnan_translation)?oldid=589144810</value>
+</wikilink>
+</XML_Serializer_Tag>
+<XML_Serializer_Tag>
+<book>
+<type>uri</type>
+<value>http://dbpedia.org/resource/The_Principal_Upanishads</value>
+</book>
+<author>
+<type>uri</type>
+<value>http://dbpedia.org/resource/Sarvepalli_Radhakrishnan</value>
+</author>
+<wikilink>
+<type>uri</type>
+<value>http://en.wikipedia.org/wiki/The_Principal_Upanishads?oldid=605395119</value>
+</wikilink>
+</XML_Serializer_Tag>
+</books>
+</Person>

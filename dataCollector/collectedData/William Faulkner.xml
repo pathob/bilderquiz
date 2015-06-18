@@ -1,0 +1,345 @@
+<Person>
+<name>William Faulkner</name>
+<variantName>
+<XML_Serializer_Tag>William Cuthbert Falkner</XML_Serializer_Tag>
+<XML_Serializer_Tag>William Falkner</XML_Serializer_Tag>
+<XML_Serializer_Tag>Ernest V. Trueblood</XML_Serializer_Tag>
+<XML_Serializer_Tag>... Folkner</XML_Serializer_Tag>
+<XML_Serializer_Tag>Wīlīʿam Folqner</XML_Serializer_Tag>
+<XML_Serializer_Tag>Viljamas Folkneris</XML_Serializer_Tag>
+<XML_Serializer_Tag>Wiriamu Fōkunā</XML_Serializer_Tag>
+<XML_Serializer_Tag>Uilʹjam Folkner</XML_Serializer_Tag>
+<XML_Serializer_Tag>Uilʹi︠a︡m Folkner</XML_Serializer_Tag>
+<XML_Serializer_Tag>Fo-kʿo-na</XML_Serializer_Tag>
+<XML_Serializer_Tag>Ouilliam Phōkner</XML_Serializer_Tag>
+<XML_Serializer_Tag>Wei-lien Fo-kʿo-na</XML_Serializer_Tag>
+<XML_Serializer_Tag>Fu-kʿo-na</XML_Serializer_Tag>
+<XML_Serializer_Tag>Wei-lien Fu-kʿo-na</XML_Serializer_Tag>
+<XML_Serializer_Tag>Willi Pʿookʿŭnŏ</XML_Serializer_Tag>
+<XML_Serializer_Tag>Ṿilyam Foḳner</XML_Serializer_Tag>
+<XML_Serializer_Tag>Uiliam Pʿolkneri</XML_Serializer_Tag>
+<XML_Serializer_Tag>Villiyam K_apākn_ar</XML_Serializer_Tag>
+<XML_Serializer_Tag>Vīlīyām Fāknir</XML_Serializer_Tag>
+<XML_Serializer_Tag>William Cuthbert Falkner</XML_Serializer_Tag>
+</variantName>
+<thumbnail>https://commons.wikimedia.org/wiki/Special:FilePath/William_Faulkner_01_KMJ.jpg?width=270</thumbnail>
+<birthEN>September 25, 1897</birthEN>
+<birthDE>25. September 1897</birthDE>
+<deathEN>July 6, 1962</deathEN>
+<deathDE>6. Juli 1962</deathDE>
+<birthPlace>
+<XML_Serializer_Tag>New Albany, Miss.</XML_Serializer_Tag>
+</birthPlace>
+<deathPlace>
+<XML_Serializer_Tag>Byhalia, Miss.</XML_Serializer_Tag>
+</deathPlace>
+<professionOrOccupation>
+<XML_Serializer_Tag>Schriftsteller</XML_Serializer_Tag>
+</professionOrOccupation>
+<dbpResource>http://dbpedia.org/resource/William_Faulkner</dbpResource>
+<abstract>William Cuthbert Faulkner [ˈfɔ̯ːknɛə] (* 25. September 1897 in New Albany, Union County, Mississippi; † 6. Juli 1962 in Byhalia, Mississippi; eigentlich William Cuthbert Falkner) war ein US-amerikanischer Schriftsteller. Er erhielt 1950 – nachträglich für 1949 – den Nobelpreis für Literatur. Faulkner gilt als bedeutendster amerikanischer Romancier des 20. Jahrhunderts.Sein vielsichtiges Gesamtwerk gibt unter anderem „den geistig-kulturellen Untergang des Südens sowie den wachsenden Einfluss skrupelloser Aufsteiger nach dem Bürgerkrieg wider“, ebenso die Dekadenz ehemals angesehener Südstaatenfamilien und die Gegensätze zwischen weißen und schwarzen Einwohnern. Die meisten seiner Romane und Kurzgeschichten spielen in dem fiktiven Yoknapatawpha County, das von seinem realen Wohnsitz, dem Lafayette County inspiriert wurde. Faulkner zeichnet sich literarisch durch universelle Symbolik und anspruchsvolle Erzähltechniken wie den Bewusstseinsstrom aus, die er von europäischen Romanciers wie James Joyce, Marcel Proust und Virginia Woolf aufgriff und selbstständig verarbeitete.Erst mit dem Literaturnobelpreis erlangte Faulkner finanzielle Unabhängigkeit und allgemeine Bekanntheit. Er wurde 1951 (für The Collected Stories of William Faulkner) und 1955 (für Eine Legende) mit dem National Book Award und 1955 (für Eine Legende) und posthum 1963 (für Die Spitzbuben) mit dem Pulitzer-Preis für Belletristik ausgezeichnet. Ferner wurde ihm zweimal der O.-Henry-Preis für Kurzgeschichten zugesprochen, 1939 für Brandstifter und 1949 für Eine Werbung.</abstract>
+<wikilink>http://en.wikipedia.org/wiki/William_Faulkner?oldid=606797348</wikilink>
+<artworks />
+<buildings />
+<books>
+<XML_Serializer_Tag>
+<book>
+<type>uri</type>
+<value>http://dbpedia.org/resource/As_I_Lay_Dying_(novel)</value>
+</book>
+<author>
+<type>uri</type>
+<value>http://dbpedia.org/resource/William_Faulkner</value>
+</author>
+<thumbnail>
+<type>uri</type>
+<value>http://en.wikipedia.org/wiki/Special:FilePath/AsILayDying.jpg?width=300</value>
+</thumbnail>
+<released>
+<type>typed-literal</type>
+<datatype>http://www.w3.org/2001/XMLSchema#integer</datatype>
+<value>1930</value>
+</released>
+<wikilink>
+<type>uri</type>
+<value>http://en.wikipedia.org/wiki/As_I_Lay_Dying_(novel)?oldid=598312956</value>
+</wikilink>
+<abstract>
+<type>literal</type>
+<xml:lang>de</xml:lang>
+<value>Als ich im Sterben lag, engl. As I Lay Dying, ist ein Roman von William Faulkner, der 1930 in den USA veröffentlicht wurde und den ereignisreichen Leichenzug einer armen Farmersfamilie beschreibt.</value>
+</abstract>
+</XML_Serializer_Tag>
+<XML_Serializer_Tag>
+<book>
+<type>uri</type>
+<value>http://dbpedia.org/resource/Light_in_August</value>
+</book>
+<author>
+<type>uri</type>
+<value>http://dbpedia.org/resource/William_Faulkner</value>
+</author>
+<thumbnail>
+<type>uri</type>
+<value>http://commons.wikimedia.org/wiki/Special:FilePath/Photograph_of_F._H._Raisen_Sawmill_Planing_Mill_and_Machine_Shop_-_NARA_-_2127870.jpg?width=300</value>
+</thumbnail>
+<wikilink>
+<type>uri</type>
+<value>http://en.wikipedia.org/wiki/Light_in_August?oldid=606149132</value>
+</wikilink>
+<abstract>
+<type>literal</type>
+<xml:lang>de</xml:lang>
+<value>Licht im August (englischer Originaltitel Light in August) ist ein 1932 erschienener Roman des US-amerikanischen Autors und Nobelpreisträgers William Faulkner.</value>
+</abstract>
+</XML_Serializer_Tag>
+<XML_Serializer_Tag>
+<book>
+<type>uri</type>
+<value>http://dbpedia.org/resource/Absalom,_Absalom!</value>
+</book>
+<author>
+<type>uri</type>
+<value>http://dbpedia.org/resource/William_Faulkner</value>
+</author>
+<released>
+<type>typed-literal</type>
+<datatype>http://www.w3.org/2001/XMLSchema#integer</datatype>
+<value>1936</value>
+</released>
+<wikilink>
+<type>uri</type>
+<value>http://en.wikipedia.org/wiki/Absalom,_Absalom!?oldid=605858811</value>
+</wikilink>
+<abstract>
+<type>literal</type>
+<xml:lang>de</xml:lang>
+<value>Absalom, Absalom! ist ein erstmals 1936 erschienener Roman von William Faulkner, der die Geschichte des US-amerikanischen Südens vor, während und nach dem Amerikanischer Bürgerkrieg erzählt und in dessen Fokus Thomas Sutpen steht, ein Mann, der 1833 in Yoknapatawpha County auftaucht und um den sich viele Mythen ranken. Erzählt wird die Geschichte aus der Sicht des Harvardstudenten Quentin Compson; eine Figur, die Faulkner bereits 1929 in seinem Roman Schall und Wahn einführte.Absalom, Absalom! gilt als eines der bedeutendsten englischsprachigen Romanwerke des 20. Jahrhunderts. Es hatte erheblichen Einfluss auf die Vergabe des Nobelpreises für Literatur an Faulkner im Jahr 1950. Ferner wurde der Roman 2009 von US-amerikanischen Juroren zum „besten Roman über die Südstaaten“ gewählt.</value>
+</abstract>
+</XML_Serializer_Tag>
+<XML_Serializer_Tag>
+<book>
+<type>uri</type>
+<value>http://dbpedia.org/resource/The_Sound_and_the_Fury</value>
+</book>
+<author>
+<type>uri</type>
+<value>http://dbpedia.org/resource/William_Faulkner</value>
+</author>
+<released>
+<type>typed-literal</type>
+<datatype>http://www.w3.org/2001/XMLSchema#integer</datatype>
+<value>1929</value>
+</released>
+<wikilink>
+<type>uri</type>
+<value>http://en.wikipedia.org/wiki/The_Sound_and_the_Fury?oldid=604380474</value>
+</wikilink>
+<abstract>
+<type>literal</type>
+<xml:lang>de</xml:lang>
+<value>Schall und Wahn, engl. The Sound and the Fury, ist ein Roman von William Faulkner, veröffentlicht 1929. Er gilt heute als wichtiges Werk der Frühen Moderne und als einer der bedeutendsten Romane der US-amerikanischen Literatur überhaupt.Der Roman berichtet in komplexer Erzählstruktur aus inneren Monologen dreier Erzähler und geprägt von zahlreichen verschlungenen Rückblenden vom Niedergang der einst mächtigen Südstaatenfamilie Compson. Der Titel verwendet ein Zitat aus Shakespeares Macbeth: „Leben ... ist nichts mehr als eine Fabel, erzählt von einem Idioten, voll mit Schall und Wahn, die nichts bedeutet.“</value>
+</abstract>
+</XML_Serializer_Tag>
+<XML_Serializer_Tag>
+<book>
+<type>uri</type>
+<value>http://dbpedia.org/resource/Sartoris</value>
+</book>
+<author>
+<type>uri</type>
+<value>http://dbpedia.org/resource/William_Faulkner</value>
+</author>
+<released>
+<type>typed-literal</type>
+<datatype>http://www.w3.org/2001/XMLSchema#integer</datatype>
+<value>1929</value>
+</released>
+<wikilink>
+<type>uri</type>
+<value>http://en.wikipedia.org/wiki/Sartoris?oldid=598535854</value>
+</wikilink>
+<abstract>
+<type>literal</type>
+<xml:lang>de</xml:lang>
+<value>Sartoris ist ein Roman des US-amerikanischen Schriftstellers William Faulkner, der erstmals 1929 veröffentlicht wurde. Der Roman stellt eine gekürzte Version des Werkes Flags in the Dust dar, welches erst 1973 im Original veröffentlicht wurde. Auf Deutsch erschien Sartoris zuerst 1961 im Rowohlt Verlag.</value>
+</abstract>
+</XML_Serializer_Tag>
+<XML_Serializer_Tag>
+<book>
+<type>uri</type>
+<value>http://dbpedia.org/resource/Sanctuary_(Faulkner_novel)</value>
+</book>
+<author>
+<type>uri</type>
+<value>http://dbpedia.org/resource/William_Faulkner</value>
+</author>
+<released>
+<type>typed-literal</type>
+<datatype>http://www.w3.org/2001/XMLSchema#integer</datatype>
+<value>1931</value>
+</released>
+<wikilink>
+<type>uri</type>
+<value>http://en.wikipedia.org/wiki/Sanctuary_(Faulkner_novel)?oldid=580467032</value>
+</wikilink>
+<abstract>
+<type>literal</type>
+<xml:lang>de</xml:lang>
+<value>Der Roman Die Freistatt, engl. Sanctuary (USA 1931), ist ein Roman von William Faulkner über Verbrechen und Heuchelei im Süden der Vereinigten Staaten.</value>
+</abstract>
+</XML_Serializer_Tag>
+<XML_Serializer_Tag>
+<book>
+<type>uri</type>
+<value>http://dbpedia.org/resource/The_Hamlet</value>
+</book>
+<author>
+<type>uri</type>
+<value>http://dbpedia.org/resource/William_Faulkner</value>
+</author>
+<released>
+<type>typed-literal</type>
+<datatype>http://www.w3.org/2001/XMLSchema#integer</datatype>
+<value>1940</value>
+</released>
+<wikilink>
+<type>uri</type>
+<value>http://en.wikipedia.org/wiki/The_Hamlet?oldid=598509974</value>
+</wikilink>
+<abstract>
+<type>literal</type>
+<xml:lang>de</xml:lang>
+<value>The Hamlet ist ein Roman des US-amerikanischen Schriftstellers William Faulkner, der erstmals 1940 im Verlag Random House erschien. Eine deutsche Übersetzung trägt den Titel Das Dorf.Es handelt sich um den ersten Roman von Faulkners Snopes-Trilogie, die er jedoch erst 1957 und 1959 mit den beiden abschließenden Romanen The Town (Die Stadt) und The Mansion (Das Haus) vollendete.</value>
+</abstract>
+</XML_Serializer_Tag>
+<XML_Serializer_Tag>
+<book>
+<type>uri</type>
+<value>http://dbpedia.org/resource/Go_Down,_Moses</value>
+</book>
+<author>
+<type>uri</type>
+<value>http://dbpedia.org/resource/William_Faulkner</value>
+</author>
+<released>
+<type>typed-literal</type>
+<datatype>http://www.w3.org/2001/XMLSchema#integer</datatype>
+<value>1942</value>
+</released>
+<wikilink>
+<type>uri</type>
+<value>http://en.wikipedia.org/wiki/Go_Down,_Moses?oldid=590567967</value>
+</wikilink>
+</XML_Serializer_Tag>
+<XML_Serializer_Tag>
+<book>
+<type>uri</type>
+<value>http://dbpedia.org/resource/The_Unvanquished</value>
+</book>
+<author>
+<type>uri</type>
+<value>http://dbpedia.org/resource/William_Faulkner</value>
+</author>
+<released>
+<type>typed-literal</type>
+<datatype>http://www.w3.org/2001/XMLSchema#integer</datatype>
+<value>1938</value>
+</released>
+<wikilink>
+<type>uri</type>
+<value>http://en.wikipedia.org/wiki/The_Unvanquished?oldid=604648949</value>
+</wikilink>
+</XML_Serializer_Tag>
+<XML_Serializer_Tag>
+<book>
+<type>uri</type>
+<value>http://dbpedia.org/resource/The_Mansion_(novel)</value>
+</book>
+<author>
+<type>uri</type>
+<value>http://dbpedia.org/resource/William_Faulkner</value>
+</author>
+<released>
+<type>typed-literal</type>
+<datatype>http://www.w3.org/2001/XMLSchema#integer</datatype>
+<value>1959</value>
+</released>
+<wikilink>
+<type>uri</type>
+<value>http://en.wikipedia.org/wiki/The_Mansion_(novel)?oldid=594447160</value>
+</wikilink>
+</XML_Serializer_Tag>
+<XML_Serializer_Tag>
+<book>
+<type>uri</type>
+<value>http://dbpedia.org/resource/The_Town_(1957_novel)</value>
+</book>
+<author>
+<type>uri</type>
+<value>http://dbpedia.org/resource/William_Faulkner</value>
+</author>
+<released>
+<type>typed-literal</type>
+<datatype>http://www.w3.org/2001/XMLSchema#integer</datatype>
+<value>1957</value>
+</released>
+<wikilink>
+<type>uri</type>
+<value>http://en.wikipedia.org/wiki/The_Town_(1957_novel)?oldid=604058045</value>
+</wikilink>
+</XML_Serializer_Tag>
+<XML_Serializer_Tag>
+<book>
+<type>uri</type>
+<value>http://dbpedia.org/resource/The_Reivers</value>
+</book>
+<author>
+<type>uri</type>
+<value>http://dbpedia.org/resource/William_Faulkner</value>
+</author>
+<released>
+<type>typed-literal</type>
+<datatype>http://www.w3.org/2001/XMLSchema#integer</datatype>
+<value>1962</value>
+</released>
+<wikilink>
+<type>uri</type>
+<value>http://en.wikipedia.org/wiki/The_Reivers?oldid=606246294</value>
+</wikilink>
+</XML_Serializer_Tag>
+<XML_Serializer_Tag>
+<book>
+<type>uri</type>
+<value>http://dbpedia.org/resource/A_Fable</value>
+</book>
+<author>
+<type>uri</type>
+<value>http://dbpedia.org/resource/William_Faulkner</value>
+</author>
+<published>
+<type>typed-literal</type>
+<datatype>http://www.w3.org/2001/XMLSchema#integer</datatype>
+<value>1954</value>
+</published>
+<wikilink>
+<type>uri</type>
+<value>http://en.wikipedia.org/wiki/A_Fable?oldid=586685918</value>
+</wikilink>
+</XML_Serializer_Tag>
+<XML_Serializer_Tag>
+<book>
+<type>uri</type>
+<value>http://dbpedia.org/resource/Requiem_for_a_Nun</value>
+</book>
+<author>
+<type>uri</type>
+<value>http://dbpedia.org/resource/William_Faulkner</value>
+</author>
+<wikilink>
+<type>uri</type>
+<value>http://en.wikipedia.org/wiki/Requiem_for_a_Nun?oldid=598094702</value>
+</wikilink>
+</XML_Serializer_Tag>
+</books>
+</Person>

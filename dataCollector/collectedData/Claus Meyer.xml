@@ -20,8 +20,10 @@
 <XML_Serializer_Tag>Künstler</XML_Serializer_Tag>
 <XML_Serializer_Tag>Maler</XML_Serializer_Tag>
 </professionOrOccupation>
-<artworks />
 <dbpResource>http://dbpedia.org/resource/Claus_Meyer</dbpResource>
 <abstract>Claus Meyer Nielsen (* 27. Dezember 1963 in Nykøbing Falster) ist ein dänischer Fernsehkoch, Gastronom und Mitbegründer des Restaurants Noma.</abstract>
 <wikilink>http://en.wikipedia.org/wiki/Claus_Meyer?oldid=606261202</wikilink>
+<artworks />
+<buildings />
+<books />
 </Person>

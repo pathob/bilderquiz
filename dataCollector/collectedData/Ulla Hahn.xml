@@ -1,0 +1,27 @@
+<Person>
+<name>Ulla Hahn</name>
+<variantName>
+<XML_Serializer_Tag>Ura Hān</XML_Serializer_Tag>
+<XML_Serializer_Tag>ウラ ハーン</XML_Serializer_Tag>
+</variantName>
+<thumbnail>https://commons.wikimedia.org/wiki/Special:FilePath/Ulla_Hahn_2004_5.jpg?width=270</thumbnail>
+<birthEN>1945</birthEN>
+<birthDE>1945</birthDE>
+<deathEN />
+<deathDE />
+<birthPlace>
+<XML_Serializer_Tag>Brachthausen (Kirchhundem)</XML_Serializer_Tag>
+</birthPlace>
+<deathPlace />
+<professionOrOccupation>
+<XML_Serializer_Tag>Lyrikerin</XML_Serializer_Tag>
+<XML_Serializer_Tag>Rundfunkredakteurin</XML_Serializer_Tag>
+<XML_Serializer_Tag>Schriftstellerin</XML_Serializer_Tag>
+</professionOrOccupation>
+<dbpResource>http://dbpedia.org/resource/Ulla_Hahn</dbpResource>
+<abstract>Ulla Hahn (* 30. April 1946 in Brachthausen, heute Kirchhundem im Sauerland) ist eine deutsche Schriftstellerin. Sie schreibt Lyrik, Romane und Erzählungen.</abstract>
+<wikilink>http://en.wikipedia.org/wiki/Ulla_Hahn?oldid=551207336</wikilink>
+<artworks />
+<buildings />
+<books />
+</Person>

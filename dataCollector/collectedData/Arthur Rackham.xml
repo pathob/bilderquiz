@@ -1,0 +1,29 @@
+<Person>
+<name>Arthur Rackham</name>
+<variantName>
+<XML_Serializer_Tag>Arturo Rackham</XML_Serializer_Tag>
+<XML_Serializer_Tag>A. Rackham</XML_Serializer_Tag>
+<XML_Serializer_Tag>A. Rekchėm</XML_Serializer_Tag>
+</variantName>
+<thumbnail>https://commons.wikimedia.org/wiki/Special:FilePath/Arthur_rackham_selfportrait.jpg?width=270</thumbnail>
+<birthEN>September 19, 1867</birthEN>
+<birthDE>19. September 1867</birthDE>
+<deathEN>September 6, 1939</deathEN>
+<deathDE>6. September 1939</deathDE>
+<birthPlace>
+<XML_Serializer_Tag>London</XML_Serializer_Tag>
+</birthPlace>
+<deathPlace>
+<XML_Serializer_Tag>Limpsfield</XML_Serializer_Tag>
+</deathPlace>
+<professionOrOccupation>
+<XML_Serializer_Tag>Künstler</XML_Serializer_Tag>
+<XML_Serializer_Tag>Illustrator</XML_Serializer_Tag>
+</professionOrOccupation>
+<dbpResource>http://dbpedia.org/resource/Arthur_Rackham</dbpResource>
+<abstract>Arthur Rackham (* 19. September 1867 in London; † 6. September 1939 in Limpsfield, Surrey) war ein britischer Illustrator, der durch seine zahlreichen Buchillustrationen, insbesondere für Volksmärchen und andere Kinderbücher, bekannt wurde.</abstract>
+<wikilink>http://en.wikipedia.org/wiki/Arthur_Rackham?oldid=603291855</wikilink>
+<artworks />
+<buildings />
+<books />
+</Person>

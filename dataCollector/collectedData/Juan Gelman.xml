@@ -1,0 +1,27 @@
+<Person>
+<name>Juan Gelman</name>
+<variantName />
+<thumbnail>https://commons.wikimedia.org/wiki/Special:FilePath/Juan_Gelman_-presidenciagovar-_31JUL07.jpg?width=270</thumbnail>
+<birthEN>May 3, 1930</birthEN>
+<birthDE>3. Mai 1930</birthDE>
+<deathEN>January 14, 2014</deathEN>
+<deathDE>14. Januar 2014</deathDE>
+<birthPlace>
+<XML_Serializer_Tag>Buenos Aires</XML_Serializer_Tag>
+</birthPlace>
+<deathPlace>
+<XML_Serializer_Tag>Mexiko (Stadt)</XML_Serializer_Tag>
+</deathPlace>
+<professionOrOccupation>
+<XML_Serializer_Tag>Journalist</XML_Serializer_Tag>
+<XML_Serializer_Tag>Übersetzer</XML_Serializer_Tag>
+<XML_Serializer_Tag>Lyriker</XML_Serializer_Tag>
+<XML_Serializer_Tag>Schriftsteller</XML_Serializer_Tag>
+</professionOrOccupation>
+<dbpResource>http://dbpedia.org/resource/Juan_Gelman</dbpResource>
+<abstract>Juan Gelman (* 3. Mai 1930 in Buenos Aires; † 14. Januar 2014 in Mexiko-Stadt) war ein argentinischer Dichter, Prosaautor, Journalist und Übersetzer. Ihm wurde 2007 der Premio Cervantes zugesprochen, einer der wichtigsten Literaturpreise der spanischsprachigen Welt.</abstract>
+<wikilink>http://en.wikipedia.org/wiki/Juan_Gelman?oldid=601250334</wikilink>
+<artworks />
+<buildings />
+<books />
+</Person>

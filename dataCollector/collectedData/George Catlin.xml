@@ -20,8 +20,10 @@
 <XML_Serializer_Tag>Maler</XML_Serializer_Tag>
 <XML_Serializer_Tag>Forschungsreisender</XML_Serializer_Tag>
 </professionOrOccupation>
-<artworks />
 <dbpResource>http://dbpedia.org/resource/George_Catlin</dbpResource>
 <abstract>George Catlin (* 26. Juli 1796 in Wilkes-Barre, Pennsylvania; † 23. Dezember 1872 in Jersey City, New Jersey) war ein US-amerikanischer Maler, Autor und Indianerkenner.</abstract>
 <wikilink>http://en.wikipedia.org/wiki/George_Catlin?oldid=600008182</wikilink>
+<artworks />
+<buildings />
+<books />
 </Person>

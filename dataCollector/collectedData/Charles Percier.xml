@@ -1,0 +1,55 @@
+<Person>
+<name>Charles Percier</name>
+<variantName>
+<XML_Serializer_Tag>C. Percier</XML_Serializer_Tag>
+</variantName>
+<thumbnail>https://commons.wikimedia.org/wiki/Special:FilePath/Charles_Percier_par_Robert_Lefèvre_-_Château_de_Versailles.jpg?width=270</thumbnail>
+<birthEN>1764</birthEN>
+<birthDE>1764</birthDE>
+<deathEN>1838</deathEN>
+<deathDE>1838</deathDE>
+<birthPlace />
+<deathPlace />
+<professionOrOccupation>
+<XML_Serializer_Tag>Baumeister</XML_Serializer_Tag>
+</professionOrOccupation>
+<dbpResource>http://dbpedia.org/resource/Charles_Percier</dbpResource>
+<abstract>Charles Percier (* 22. August 1764 in Paris; † 5. September 1838 ebenda) war ein französischer Architekt und Raumausstatter. In Zusammenarbeit mit seinem Studienkollegen Pierre-François-Léonard Fontaine war er für Joséphine de Beauharnais und Napoléon Bonaparte tätig. Gemeinsam wurden die beiden Baumeister während des Konsulats mit dem Umbau und der Ausstattung des Schlosses Malmaison beauftragt und im Ersten Kaiserreich mit der Errichtung des Arc de Triomphe du Carrousel in Paris. Percier ist dem Empirestil, einer unter Napoléon entstanden Form des Klassizismus zuzuordnen, zu dessen Hauptvertretern er zählt.</abstract>
+<wikilink>http://en.wikipedia.org/wiki/Charles_Percier?oldid=601510552</wikilink>
+<artworks />
+<buildings>
+<XML_Serializer_Tag>
+<building>
+<type>uri</type>
+<value>http://dbpedia.org/resource/Arc_de_Triomphe_du_Carrousel</value>
+</building>
+<name>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>Arc de Triomphe du Carrousel</value>
+</name>
+<architect>
+<type>uri</type>
+<value>http://dbpedia.org/resource/Charles_Percier</value>
+</architect>
+<thumbnail>
+<type>uri</type>
+<value>http://commons.wikimedia.org/wiki/Special:FilePath/Paris_July_2011-28a.jpg?width=300</value>
+</thumbnail>
+<wikilink>
+<type>uri</type>
+<value>http://en.wikipedia.org/wiki/Arc_de_Triomphe_du_Carrousel?oldid=595654033</value>
+</wikilink>
+<location>
+<type>uri</type>
+<value>http://dbpedia.org/resource/Paris</value>
+</location>
+<abstract>
+<type>literal</type>
+<xml:lang>de</xml:lang>
+<value>Der Arc de Triomphe du Carrousel ist ein Triumphbogen in Paris, zwischen Louvre und Tuilerien. Er ist nicht zu verwechseln mit dem bekannteren und doppelt so großen Arc de Triomphe, der an der Place Charles de Gaulle stehend die Champs-Élysées prägt.</value>
+</abstract>
+</XML_Serializer_Tag>
+</buildings>
+<books />
+</Person>

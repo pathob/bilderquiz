@@ -21,8 +21,10 @@
 <XML_Serializer_Tag>Keramiker</XML_Serializer_Tag>
 <XML_Serializer_Tag>Zeichner</XML_Serializer_Tag>
 </professionOrOccupation>
-<artworks />
 <dbpResource>http://dbpedia.org/resource/Emil_Schumacher</dbpResource>
 <abstract>Emil Schumacher (* 29. August 1912 in Hagen, Westfalen; † 4. Oktober 1999 in San José, Ibiza) war ein deutscher Maler und Vertreter des Informel.</abstract>
 <wikilink>http://en.wikipedia.org/wiki/Emil_Schumacher?oldid=575172213</wikilink>
+<artworks />
+<buildings />
+<books />
 </Person>

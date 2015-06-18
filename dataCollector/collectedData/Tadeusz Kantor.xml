@@ -18,8 +18,10 @@
 <XML_Serializer_Tag>Maler</XML_Serializer_Tag>
 <XML_Serializer_Tag>Graphiker</XML_Serializer_Tag>
 </professionOrOccupation>
-<artworks />
 <dbpResource>http://dbpedia.org/resource/Tadeusz_Kantor</dbpResource>
 <abstract>Tadeusz Kantor (* 6. April 1915 in Wielopole Skrzyńskie; † 8. Dezember 1990 in Krakau) war ein polnischer Theaterregisseur, Maler, Bühnenbildner und Kunsttheoretiker.</abstract>
 <wikilink>http://en.wikipedia.org/wiki/Tadeusz_Kantor?oldid=585073193</wikilink>
+<artworks />
+<buildings />
+<books />
 </Person>

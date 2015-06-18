@@ -1,0 +1,35 @@
+<Person>
+<name>Benito Mussolini</name>
+<variantName>
+<XML_Serializer_Tag>Benito Amilcare Andrea Mussolini</XML_Serializer_Tag>
+<XML_Serializer_Tag>... Mussolini</XML_Serializer_Tag>
+<XML_Serializer_Tag>Benito Mousolini</XML_Serializer_Tag>
+<XML_Serializer_Tag>Benito Musolini</XML_Serializer_Tag>
+</variantName>
+<thumbnail>https://commons.wikimedia.org/wiki/Special:FilePath/Mussolini-ggbain.jpg?width=270</thumbnail>
+<birthEN>July 29, 1883</birthEN>
+<birthDE>29. Juli 1883</birthDE>
+<deathEN>April 28, 1945</deathEN>
+<deathDE>28. April 1945</deathDE>
+<birthPlace>
+<XML_Serializer_Tag>Predappio</XML_Serializer_Tag>
+</birthPlace>
+<deathPlace>
+<XML_Serializer_Tag>Mezzegra</XML_Serializer_Tag>
+</deathPlace>
+<professionOrOccupation>
+<XML_Serializer_Tag>Diktator</XML_Serializer_Tag>
+<XML_Serializer_Tag>Sozialist</XML_Serializer_Tag>
+<XML_Serializer_Tag>Journalist</XML_Serializer_Tag>
+<XML_Serializer_Tag>Faschist</XML_Serializer_Tag>
+<XML_Serializer_Tag>Volksschullehrer</XML_Serializer_Tag>
+<XML_Serializer_Tag>Politiker</XML_Serializer_Tag>
+<XML_Serializer_Tag>Schriftsteller</XML_Serializer_Tag>
+</professionOrOccupation>
+<dbpResource>http://dbpedia.org/resource/Benito_Mussolini</dbpResource>
+<abstract>Benito Amilcare Andrea Mussolini anhören?/i (* 29. Juli 1883 in Dovia, Region Emilia-Romagna; † 28. April 1945 in Giulino di Mezzegra, Region Lombardei) war ein italienischer Politiker und Ministerpräsident des Königreiches Italien (1922–1943) und der Italienischen Sozialrepublik (1943–1945), ab 1926 diktatorisch regierend.Als Gründer und Führer der Faschistischen Partei (1921–1945) und des faschistischen Regimes führte er den Titel Duce del Fascismo („Führer des Faschismus“; in der Kurzform auch Duce, siehe „Führer“).</abstract>
+<wikilink>http://en.wikipedia.org/wiki/Benito_Mussolini?oldid=606065988</wikilink>
+<artworks />
+<buildings />
+<books />
+</Person>

@@ -1,0 +1,35 @@
+<Person>
+<name>Kurt Floericke</name>
+<variantName>
+<XML_Serializer_Tag>K. Floericke</XML_Serializer_Tag>
+<XML_Serializer_Tag>Curt Floericke</XML_Serializer_Tag>
+<XML_Serializer_Tag>Curt Ehrenreich Floericke</XML_Serializer_Tag>
+<XML_Serializer_Tag>Ernst Ahasver</XML_Serializer_Tag>
+<XML_Serializer_Tag>Ernst Hüller</XML_Serializer_Tag>
+<XML_Serializer_Tag>Konrad Ribbeck</XML_Serializer_Tag>
+<XML_Serializer_Tag>Kurt Flerike</XML_Serializer_Tag>
+</variantName>
+<thumbnail>https://commons.wikimedia.org/wiki/Special:FilePath/Heuschrecken_und_Libellen.jpg?width=270</thumbnail>
+<birthEN>March 23, 1869</birthEN>
+<birthDE>23. März 1869</birthDE>
+<deathEN>October 29, 1934</deathEN>
+<deathDE>29. Oktober 1934</deathDE>
+<birthPlace>
+<XML_Serializer_Tag>Zeitz</XML_Serializer_Tag>
+</birthPlace>
+<deathPlace>
+<XML_Serializer_Tag>Stuttgart</XML_Serializer_Tag>
+</deathPlace>
+<professionOrOccupation>
+<XML_Serializer_Tag>Schriftsteller</XML_Serializer_Tag>
+<XML_Serializer_Tag>Ornithologe</XML_Serializer_Tag>
+<XML_Serializer_Tag>Zoologe</XML_Serializer_Tag>
+<XML_Serializer_Tag>Redakteur</XML_Serializer_Tag>
+</professionOrOccupation>
+<dbpResource>http://dbpedia.org/resource/Kurt_Floericke</dbpResource>
+<abstract>Kurt Ehrenreich Floericke (* 23. März 1869 in Zeitz; † 29. Oktober 1934 in Stuttgart) war ein deutscher Naturwissenschaftler, Naturfreund und Verfasser zahlreicher populärwissenschaftlicher Darstellungen. Andere Schreibungen sind Curt statt Kurt oder Flöricke statt Floericke.</abstract>
+<wikilink>http://en.wikipedia.org/wiki/Kurt_Floericke?oldid=588124055</wikilink>
+<artworks />
+<buildings />
+<books />
+</Person>

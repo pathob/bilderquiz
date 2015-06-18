@@ -25,8 +25,10 @@
 <XML_Serializer_Tag>Maler</XML_Serializer_Tag>
 <XML_Serializer_Tag>Stuckateur</XML_Serializer_Tag>
 </professionOrOccupation>
-<artworks />
 <dbpResource>http://dbpedia.org/resource/Egid_Quirin_Asam</dbpResource>
 <abstract>Egid Quirin Asam (getauft 1. September 1692 in Tegernsee; † 29. April 1750 in Mannheim) war ein deutscher Maler, Stuckateur und Bildhauer des Spätbarock.</abstract>
 <wikilink>http://en.wikipedia.org/wiki/Egid_Quirin_Asam?oldid=589160560</wikilink>
+<artworks />
+<buildings />
+<books />
 </Person>

@@ -1,0 +1,89 @@
+<Person>
+<name>Hermann Henselmann</name>
+<variantName />
+<thumbnail>https://commons.wikimedia.org/wiki/Special:FilePath/Bundesarchiv_Bild_183-16383-0001,_Hermann_Henselmann.jpg?width=270</thumbnail>
+<birthEN>February 3, 1905</birthEN>
+<birthDE>3. Februar 1905</birthDE>
+<deathEN>January 19, 1995</deathEN>
+<deathDE>19. Januar 1995</deathDE>
+<birthPlace>
+<XML_Serializer_Tag>Roßla</XML_Serializer_Tag>
+</birthPlace>
+<deathPlace>
+<XML_Serializer_Tag>Berlin</XML_Serializer_Tag>
+</deathPlace>
+<professionOrOccupation>
+<XML_Serializer_Tag>Architekt</XML_Serializer_Tag>
+</professionOrOccupation>
+<dbpResource>http://dbpedia.org/resource/Hermann_Henselmann</dbpResource>
+<abstract>Hermann Henselmann (* 3. Februar 1905 in Roßla; † 19. Januar 1995 in Berlin) war ein deutscher Architekt. Sein Wirken prägte Architektur und Städtebau in der DDR der 1950er und 1960er Jahre.</abstract>
+<wikilink>http://en.wikipedia.org/wiki/Hermann_Henselmann?oldid=587733644</wikilink>
+<artworks />
+<buildings>
+<XML_Serializer_Tag>
+<building>
+<type>uri</type>
+<value>http://dbpedia.org/resource/Fernsehturm_Berlin</value>
+</building>
+<name>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>Berliner Fernsehturm</value>
+</name>
+<architect>
+<type>uri</type>
+<value>http://dbpedia.org/resource/Hermann_Henselmann</value>
+</architect>
+<thumbnail>
+<type>uri</type>
+<value>http://commons.wikimedia.org/wiki/Special:FilePath/Berlin_-_Fernsehturm_-_2012.jpg?width=300</value>
+</thumbnail>
+<wikilink>
+<type>uri</type>
+<value>http://en.wikipedia.org/wiki/Fernsehturm_Berlin?oldid=605632726</value>
+</wikilink>
+<location>
+<type>uri</type>
+<value>http://dbpedia.org/resource/Berlin</value>
+</location>
+<abstract>
+<type>literal</type>
+<xml:lang>de</xml:lang>
+<value>Der Berliner Fernsehturm ist mit 368 Metern das höchste Bauwerk Deutschlands und das vierthöchste freistehende Gebäude Europas. Im Jahr der Fertigstellung war er der zweithöchste Fernsehturm der Welt. Der Turm im internationalen Stil wurde von Mitte bis Ende der 1960er Jahre im Zentrum Ost-Berlins errichtet und übertrifft den Berliner Funkturm in seiner Höhe deutlich. Er steht auf einer Freifläche zwischen dem Marx-Engels-Forum und dem Alexanderplatz zentral im Berliner Ortsteil Mitte und prägt als weithin sichtbare Landmarke wie auch als Wahrzeichen der Stadt die Skyline Berlins.Der Fernsehturm dient neben der Ausstrahlung von Rundfunk- und Fernsehprogrammen als Aussichtsturm und zählt mit jährlich rund 1,2 Millionen Besuchern deutschlandweit zu den beliebtesten Sehenswürdigkeiten. Als politisch stark vereinnahmtes Symbol der DDR vollzog das markante und stadtprägende Bauwerk eine Wandlung zum gesamtstädtischen Symbol im wiedervereinten Berlin. Der Turm erhielt 1979 in der DDR den Denkmalstatus, der nach der Wiedervereinigung fortgeschrieben wurde.</value>
+</abstract>
+</XML_Serializer_Tag>
+<XML_Serializer_Tag>
+<building>
+<type>uri</type>
+<value>http://dbpedia.org/resource/City-Hochhaus_Leipzig</value>
+</building>
+<name>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>City-Hochhaus</value>
+</name>
+<architect>
+<type>uri</type>
+<value>http://dbpedia.org/resource/Hermann_Henselmann</value>
+</architect>
+<thumbnail>
+<type>uri</type>
+<value>http://commons.wikimedia.org/wiki/Special:FilePath/Rainbowflash_2013_Leipzig_(4).jpg?width=300</value>
+</thumbnail>
+<wikilink>
+<type>uri</type>
+<value>http://en.wikipedia.org/wiki/City-Hochhaus_Leipzig?oldid=576836103</value>
+</wikilink>
+<location>
+<type>uri</type>
+<value>http://dbpedia.org/resource/Germany</value>
+</location>
+<abstract>
+<type>literal</type>
+<xml:lang>de</xml:lang>
+<value>Das City-Hochhaus Leipzig ist ein Hochhaus am Augustusplatz in Leipzig und mit 142,0 Metern (Gesamthöhe mit Antennenträger 155,40 Meter) und 29 Etagen das zweithöchste Gebäude der neuen Bundesländer.Es entstand von 1968 bis 1972 nach Entwürfen des Architekten Hermann Henselmann im Zuge der Neugestaltung des Universitätscampus am damaligen Karl-Marx-Platz und war bei seiner Fertigstellung das höchste Gebäude Deutschlands. Aufgrund der drei langen, leicht nach innen gewölbten Längsseiten bei einer überhöhten Schmalseite kann die Form des Gebäudes aus Straßensicht als ein aufgeschlagenes Buch interpretiert werden. Wegen seiner anfänglichen Nutzung entstanden im Volksmund die Namen Uniriese, Weisheitszahn oder auch Steiler Zahn. Das Hochhaus sollte ursprünglich in Rostock errichtet werden.In den Jahren 1999 bis 2002 wurde das City-Hochhaus komplett saniert, dabei wurde die Fassade mit Naturstein und Glas neu verkleidet. In der Liste der höchsten Gebäude Deutschlands steht das City-Hochhaus an 24. Stelle.</value>
+</abstract>
+</XML_Serializer_Tag>
+</buildings>
+<books />
+</Person>

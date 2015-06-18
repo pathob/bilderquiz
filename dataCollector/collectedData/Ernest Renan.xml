@@ -1,0 +1,31 @@
+<Person>
+<name>Ernest Renan</name>
+<variantName>
+<XML_Serializer_Tag>Joseph Ernest Renan</XML_Serializer_Tag>
+<XML_Serializer_Tag>Joseph E. Renan</XML_Serializer_Tag>
+<XML_Serializer_Tag>Erneste Renan</XML_Serializer_Tag>
+<XML_Serializer_Tag>Ernst Renan</XML_Serializer_Tag>
+<XML_Serializer_Tag>E. Renan</XML_Serializer_Tag>
+<XML_Serializer_Tag>Ernő Renan</XML_Serializer_Tag>
+</variantName>
+<thumbnail>https://commons.wikimedia.org/wiki/Special:FilePath/Ernest-Renan.gif?width=270</thumbnail>
+<birthEN>February 27, 1823</birthEN>
+<birthDE>27. Februar 1823</birthDE>
+<deathEN>October 2, 1892</deathEN>
+<deathDE>2. Oktober 1892</deathDE>
+<birthPlace />
+<deathPlace />
+<professionOrOccupation>
+<XML_Serializer_Tag>Orientalist</XML_Serializer_Tag>
+<XML_Serializer_Tag>Philosoph</XML_Serializer_Tag>
+<XML_Serializer_Tag>Schriftsteller</XML_Serializer_Tag>
+<XML_Serializer_Tag>Historiker</XML_Serializer_Tag>
+<XML_Serializer_Tag>Religionswissenschaftler</XML_Serializer_Tag>
+</professionOrOccupation>
+<dbpResource>http://dbpedia.org/resource/Ernest_Renan</dbpResource>
+<abstract>Ernest Renan (* 27. Februar 1823 in Tréguier (Côtes-d’Armor); † 2. Oktober 1892 in Paris) war ein französischer Schriftsteller, Historiker, Archäologe, Religionswissenschaftler und Orientalist und Mitglied der Académie française.</abstract>
+<wikilink>http://en.wikipedia.org/wiki/Ernest_Renan?oldid=606033934</wikilink>
+<artworks />
+<buildings />
+<books />
+</Person>

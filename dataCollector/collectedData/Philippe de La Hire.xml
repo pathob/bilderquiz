@@ -1,0 +1,34 @@
+<Person>
+<name>Philippe de La Hire</name>
+<variantName>
+<XML_Serializer_Tag>Philippe de LaHire</XML_Serializer_Tag>
+<XML_Serializer_Tag>Philippe de la Hire</XML_Serializer_Tag>
+<XML_Serializer_Tag>Philippe Delahire</XML_Serializer_Tag>
+<XML_Serializer_Tag>Philippe de La Hyre</XML_Serializer_Tag>
+<XML_Serializer_Tag>Philippe de la Hyre</XML_Serializer_Tag>
+<XML_Serializer_Tag>Gabriel P. de La Hire</XML_Serializer_Tag>
+<XML_Serializer_Tag>... Delahire</XML_Serializer_Tag>
+<XML_Serializer_Tag>Philipp de La Hire</XML_Serializer_Tag>
+<XML_Serializer_Tag>Philippe de LaHyre</XML_Serializer_Tag>
+<XML_Serializer_Tag>Gabriel P. de LaHire</XML_Serializer_Tag>
+<XML_Serializer_Tag>Philipp de LaHire</XML_Serializer_Tag>
+</variantName>
+<thumbnail>https://commons.wikimedia.org/wiki/Special:FilePath/Philippe_de_La_Hire_(1640-1719).jpg?width=270</thumbnail>
+<birthEN>1640</birthEN>
+<birthDE>1640</birthDE>
+<deathEN>1718</deathEN>
+<deathDE>1718</deathDE>
+<birthPlace />
+<deathPlace />
+<professionOrOccupation>
+<XML_Serializer_Tag>Mathematiker</XML_Serializer_Tag>
+<XML_Serializer_Tag>Astronom</XML_Serializer_Tag>
+<XML_Serializer_Tag>Künstler</XML_Serializer_Tag>
+</professionOrOccupation>
+<dbpResource>http://dbpedia.org/resource/Philippe_de_La_Hire</dbpResource>
+<abstract>Philippe de La Hire (* 18. März 1640 in Paris; † 21. April 1718 ebenda) war ein französischer Mathematiker.Er wurde als Künstler ausgebildet und reiste für vier Jahre nach Italien, um seine künstlerischen Fähigkeiten zu verbessern. Dabei lernte er auch die Grundlagen der Geometrie.Er machte sich zuerst bekannt durch eine Reihe damals wichtiger Arbeiten über Kegelschnitte, Mechanik, Hydrostatik u. a. sowie durch seine mit Jean Picard auf Jean-Baptiste Colberts Anordnung herausgegebene Karte von Frankreich und seine mit Hinblick auf eine Wasserversorgung von Versailles ausgeführten Nivellements.Er bewies als erster, dass die Hypotrochoiden der Cardanischen Kreise sämtlich Ellipsen sind und entwickelte daraus einen Ellipsenzirkel.1678 wurde er in die Académie des sciences gewählt.1708 berechnete er den Umfang der Kardioide.</abstract>
+<wikilink>http://en.wikipedia.org/wiki/Philippe_de_La_Hire?oldid=598721856</wikilink>
+<artworks />
+<buildings />
+<books />
+</Person>

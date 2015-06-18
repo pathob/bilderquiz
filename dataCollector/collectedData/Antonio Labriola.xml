@@ -1,0 +1,22 @@
+<Person>
+<name>Antonio Labriola</name>
+<variantName>
+<XML_Serializer_Tag>A. Labriola</XML_Serializer_Tag>
+</variantName>
+<thumbnail>https://commons.wikimedia.org/wiki/Special:FilePath/Antonio_Labriola.jpg?width=270</thumbnail>
+<birthEN>1843</birthEN>
+<birthDE>1843</birthDE>
+<deathEN>1904</deathEN>
+<deathDE>1904</deathDE>
+<birthPlace />
+<deathPlace />
+<professionOrOccupation>
+<XML_Serializer_Tag>Philosoph</XML_Serializer_Tag>
+</professionOrOccupation>
+<dbpResource>http://dbpedia.org/resource/Antonio_Labriola</dbpResource>
+<abstract>Antonio Labriola (* 2. Juli 1843 in Cassino; † 12. Februar 1904 in Rom) war Professor der theoretischen Philosophie an der Universität in Rom. Er gilt als einer der ersten und einflussreichsten italienischen Marxisten. Seine Werke und Ideen prägten unter anderem Philosophen wie Antonio Gramsci und Benedetto Croce.</abstract>
+<wikilink>http://en.wikipedia.org/wiki/Antonio_Labriola?oldid=539649366</wikilink>
+<artworks />
+<buildings />
+<books />
+</Person>

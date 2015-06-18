@@ -15,8 +15,10 @@
 <professionOrOccupation>
 <XML_Serializer_Tag>Maler</XML_Serializer_Tag>
 </professionOrOccupation>
-<artworks />
 <dbpResource>http://dbpedia.org/resource/Taddeo_Zuccari</dbpResource>
 <abstract>Taddeo Zuccari, auch Taddeo Zuccaro oder Taddeo Zucchero, (* 1529 in Sant&apos;Angelo in Vado bei Urbino; † 1566 in Rom) war ein italienischer Maler und ein Hauptvertreter des Manierismus.</abstract>
 <wikilink>http://en.wikipedia.org/wiki/Taddeo_Zuccari?oldid=602501476</wikilink>
+<artworks />
+<buildings />
+<books />
 </Person>

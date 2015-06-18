@@ -1,0 +1,47 @@
+<Person>
+<name>Donna Leon</name>
+<variantName />
+<thumbnail>https://commons.wikimedia.org/wiki/Special:FilePath/Donna_Leon.jpg?width=270</thumbnail>
+<birthEN>1942</birthEN>
+<birthDE>1942</birthDE>
+<deathEN />
+<deathDE />
+<birthPlace>
+<XML_Serializer_Tag>New Jersey</XML_Serializer_Tag>
+</birthPlace>
+<deathPlace />
+<professionOrOccupation>
+<XML_Serializer_Tag>Schriftstellerin</XML_Serializer_Tag>
+</professionOrOccupation>
+<dbpResource>http://dbpedia.org/resource/Donna_Leon</dbpResource>
+<abstract>Donna Leon [ˈdɒnə ˈliːɒn] (* 28. September 1942 in Montclair, New Jersey) ist eine US-amerikanische Schriftstellerin, die seit 1981 in Venedig lebt. Bekannt ist die Autorin für ihre Kriminalromane über den venezianischen Polizisten Commissario Guido Brunetti.</abstract>
+<wikilink>http://en.wikipedia.org/wiki/Donna_Leon?oldid=598723819</wikilink>
+<artworks />
+<buildings />
+<books>
+<XML_Serializer_Tag>
+<book>
+<type>uri</type>
+<value>http://dbpedia.org/resource/Death_at_La_Fenice</value>
+</book>
+<author>
+<type>uri</type>
+<value>http://dbpedia.org/resource/Donna_Leon</value>
+</author>
+<released>
+<type>typed-literal</type>
+<datatype>http://www.w3.org/2001/XMLSchema#integer</datatype>
+<value>1992</value>
+</released>
+<wikilink>
+<type>uri</type>
+<value>http://en.wikipedia.org/wiki/Death_at_La_Fenice?oldid=581209644</value>
+</wikilink>
+<abstract>
+<type>literal</type>
+<xml:lang>de</xml:lang>
+<value>Venezianisches Finale ist der Debütroman Donna Leons und Auftakt einer Krimireihe um den Hauptcharakter Commissario Guido Brunetti. Der Roman erschien 1992 unter dem Titel Death at La Fenice bei Random House, die deutsche Übersetzung wurde 1993 im Diogenes Verlag veröffentlicht. Die Geschichte spielt in Venedig, wo die Autorin selbst lebt.Im Opernhaus Teatro La Fenice stirbt der deutsche Stardirigent Helmut Wellauer an einer Vergiftung durch Zyankali. Bei seinen Ermittlungen stößt Brunetti auf die Nazi-Vergangenheit des Dirigenten, sowie auf dessen pädophile Neigungen. Da sich Wellauer an der Tochter seiner zweiten Ehefrau vergangen hatte, hat diese ihm ein Antibiotikum gespritzt, das sein Gehör schädigte. Es stellt sich heraus, dass Wellauer sich selbst vergiftete, um seine Frau als Täterin zu belasten. Für Venezianisches Finale erhielt Donna Leon den japanischen Suntory-Preis. Der Krimi wurde für die ARD mit Uwe Kockisch in der Hauptrolle verfilmt und am 23. Oktober 2003 erstmals ausgestrahlt. Er wurde zudem als Hörbuch und Hörspiel adaptiert. Auf Venezianisches Finale folgten bislang 21 weitere Fälle (Stand: 2013) mit Brunetti.</value>
+</abstract>
+</XML_Serializer_Tag>
+</books>
+</Person>

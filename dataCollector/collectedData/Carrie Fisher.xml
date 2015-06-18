@@ -1,0 +1,127 @@
+<Person>
+<name>Carrie Fisher</name>
+<variantName>
+<XML_Serializer_Tag>Carrie Frances Fisher</XML_Serializer_Tag>
+<XML_Serializer_Tag>Carrie Frances Fisher</XML_Serializer_Tag>
+</variantName>
+<thumbnail>https://commons.wikimedia.org/wiki/Special:FilePath/File_Carrie_Fisher_at_WonderCon_2009_4.jpg?width=270</thumbnail>
+<birthEN>1956</birthEN>
+<birthDE>1956</birthDE>
+<deathEN />
+<deathDE />
+<birthPlace>
+<XML_Serializer_Tag>Beverly Hills, Calif.</XML_Serializer_Tag>
+</birthPlace>
+<deathPlace />
+<professionOrOccupation>
+<XML_Serializer_Tag>Filmschauspielerin</XML_Serializer_Tag>
+<XML_Serializer_Tag>Schriftstellerin</XML_Serializer_Tag>
+<XML_Serializer_Tag>Schauspielerin</XML_Serializer_Tag>
+</professionOrOccupation>
+<dbpResource>http://dbpedia.org/resource/Carrie_Fisher</dbpResource>
+<abstract>Carrie Frances Fisher (* 21. Oktober 1956 in Beverly Hills, Kalifornien) ist eine US-amerikanische Schauspielerin und Autorin.</abstract>
+<wikilink>http://en.wikipedia.org/wiki/Carrie_Fisher?oldid=606681440</wikilink>
+<artworks />
+<buildings />
+<books>
+<XML_Serializer_Tag>
+<book>
+<type>uri</type>
+<value>http://dbpedia.org/resource/Wishful_Drinking</value>
+</book>
+<author>
+<type>uri</type>
+<value>http://dbpedia.org/resource/Carrie_Fisher</value>
+</author>
+<thumbnail>
+<type>uri</type>
+<value>http://commons.wikimedia.org/wiki/Special:FilePath/Carrie_Fisher_-_Wishful_Drinking_-_Broadway_-_Studio_54.jpg?width=300</value>
+</thumbnail>
+<released>
+<type>typed-literal</type>
+<datatype>http://www.w3.org/2001/XMLSchema#integer</datatype>
+<value>2008</value>
+</released>
+<wikilink>
+<type>uri</type>
+<value>http://en.wikipedia.org/wiki/Wishful_Drinking?oldid=577067623</value>
+</wikilink>
+</XML_Serializer_Tag>
+<XML_Serializer_Tag>
+<book>
+<type>uri</type>
+<value>http://dbpedia.org/resource/Delusions_of_Grandma</value>
+</book>
+<author>
+<type>uri</type>
+<value>http://dbpedia.org/resource/Carrie_Fisher</value>
+</author>
+<released>
+<type>typed-literal</type>
+<datatype>http://www.w3.org/2001/XMLSchema#integer</datatype>
+<value>1994</value>
+</released>
+<wikilink>
+<type>uri</type>
+<value>http://en.wikipedia.org/wiki/Delusions_of_Grandma?oldid=544727619</value>
+</wikilink>
+</XML_Serializer_Tag>
+<XML_Serializer_Tag>
+<book>
+<type>uri</type>
+<value>http://dbpedia.org/resource/Surrender_the_Pink</value>
+</book>
+<author>
+<type>uri</type>
+<value>http://dbpedia.org/resource/Carrie_Fisher</value>
+</author>
+<released>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>August 1990</value>
+</released>
+<wikilink>
+<type>uri</type>
+<value>http://en.wikipedia.org/wiki/Surrender_the_Pink?oldid=456017669</value>
+</wikilink>
+</XML_Serializer_Tag>
+<XML_Serializer_Tag>
+<book>
+<type>uri</type>
+<value>http://dbpedia.org/resource/The_Best_Awful_There_Is</value>
+</book>
+<author>
+<type>uri</type>
+<value>http://dbpedia.org/resource/Carrie_Fisher</value>
+</author>
+<released>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>January 2004</value>
+</released>
+<wikilink>
+<type>uri</type>
+<value>http://en.wikipedia.org/wiki/The_Best_Awful_There_Is?oldid=568479338</value>
+</wikilink>
+</XML_Serializer_Tag>
+<XML_Serializer_Tag>
+<book>
+<type>uri</type>
+<value>http://dbpedia.org/resource/Postcards_from_the_Edge</value>
+</book>
+<author>
+<type>uri</type>
+<value>http://dbpedia.org/resource/Carrie_Fisher</value>
+</author>
+<released>
+<type>typed-literal</type>
+<datatype>http://www.w3.org/2001/XMLSchema#integer</datatype>
+<value>1987</value>
+</released>
+<wikilink>
+<type>uri</type>
+<value>http://en.wikipedia.org/wiki/Postcards_from_the_Edge?oldid=575974509</value>
+</wikilink>
+</XML_Serializer_Tag>
+</books>
+</Person>

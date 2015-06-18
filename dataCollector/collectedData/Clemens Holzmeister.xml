@@ -1,0 +1,28 @@
+<Person>
+<name>Clemens Holzmeister</name>
+<variantName>
+<XML_Serializer_Tag>Klemens Holzmeister</XML_Serializer_Tag>
+</variantName>
+<thumbnail>https://commons.wikimedia.org/wiki/Special:FilePath/Clemens_Holzmeister_Hotel_Adler_St._Ulrich_in_Gröden.jpg?width=270</thumbnail>
+<birthEN>March 27, 1886</birthEN>
+<birthDE>27. März 1886</birthDE>
+<deathEN>June 12, 1983</deathEN>
+<deathDE>12. Juni 1983</deathDE>
+<birthPlace>
+<XML_Serializer_Tag>Fulpmes</XML_Serializer_Tag>
+</birthPlace>
+<deathPlace>
+<XML_Serializer_Tag>Hallein</XML_Serializer_Tag>
+</deathPlace>
+<professionOrOccupation>
+<XML_Serializer_Tag>Architekt</XML_Serializer_Tag>
+<XML_Serializer_Tag>Bildhauer</XML_Serializer_Tag>
+<XML_Serializer_Tag>Bühnenbildner</XML_Serializer_Tag>
+</professionOrOccupation>
+<dbpResource>http://dbpedia.org/resource/Clemens_Holzmeister</dbpResource>
+<abstract>Clemens Holzmeister (* 27. März 1886 in Fulpmes, Tirol; † 12. Juni 1983 in Hallein, Salzburg) war ein österreichischer Architekt, der in Österreich, Deutschland, der Türkei und Brasilien tätig war.</abstract>
+<wikilink>http://en.wikipedia.org/wiki/Clemens_Holzmeister?oldid=600163110</wikilink>
+<artworks />
+<buildings />
+<books />
+</Person>

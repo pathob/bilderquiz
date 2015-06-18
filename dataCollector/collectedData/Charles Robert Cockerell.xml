@@ -1,0 +1,112 @@
+<Person>
+<name>Charles Robert Cockerell</name>
+<variantName>
+<XML_Serializer_Tag>C. R. Cockerell</XML_Serializer_Tag>
+<XML_Serializer_Tag>Charles R. Cockerell</XML_Serializer_Tag>
+<XML_Serializer_Tag>Tsarls Rompert Kokerell</XML_Serializer_Tag>
+</variantName>
+<thumbnail>https://commons.wikimedia.org/wiki/Special:FilePath/Charles_Robert_Cockerell.jpg?width=270</thumbnail>
+<birthEN>1788</birthEN>
+<birthDE>1788</birthDE>
+<deathEN>1863</deathEN>
+<deathDE>1863</deathDE>
+<birthPlace>
+<XML_Serializer_Tag>London</XML_Serializer_Tag>
+</birthPlace>
+<deathPlace>
+<XML_Serializer_Tag>London</XML_Serializer_Tag>
+</deathPlace>
+<professionOrOccupation>
+<XML_Serializer_Tag>Architekt</XML_Serializer_Tag>
+<XML_Serializer_Tag>Archäologe</XML_Serializer_Tag>
+<XML_Serializer_Tag>Zeichner</XML_Serializer_Tag>
+</professionOrOccupation>
+<dbpResource>http://dbpedia.org/resource/Charles_Robert_Cockerell</dbpResource>
+<abstract>Charles Robert Cockerell (* 28. April 1788 in London; † 17. September 1863 ebenda) war ein britischer Architekt und Archäologe.Ein Schüler seines Vaters Samuel Pepys Cockerell (1754–1827), war er 1809 als Assistent Robert Smirkes am Wiederaufbau des Covent Garden-Theaters beschäftigt und studierte von 1810 bis 1817 die antike Architektur in Italien, Griechenland und Kleinasien. Er beteiligte sich an der Erforschung des Aphaiatempels in Ägina und fand mit Carl Haller von Hallerstein und Jakob Linckh die später nach München verkauften Figuren der Giebelfelder. Auch nahm er an den Ausgrabungen bei Phigalia teil, bei der er den Fries des Apollontempel bei Bassae nach London schaffen ließ, wo er heute im Britischen Museum zu sehen ist.1817 eröffnete er, nach London zurückgekehrt, sein eigenes Atelier, das ziemlich erfolgreich war.Er errang 1848 die Royal Gold Medal für Architektur und wurde 1860 Präsident des Royal Institute of British Architects.In der Folge lieferte er u. a. die Entwürfe für die Church of Holy Trinity in Bristoler Stadtteil Hotwells (1829), für die Gebäude der Bank von England in Plymouth (1835), Bristol (1844–1847), Manchester (1845), Liverpool (1845–1848) sowie das Ashmolean Museum in Oxford (1839–1845) und die Erweiterung des Fitzwilliam Museum in Cambridge (1848).</abstract>
+<wikilink>http://en.wikipedia.org/wiki/Charles_Robert_Cockerell?oldid=604799776</wikilink>
+<artworks />
+<buildings>
+<XML_Serializer_Tag>
+<building>
+<type>uri</type>
+<value>http://dbpedia.org/resource/Former_Bank_of_England,_Manchester</value>
+</building>
+<name>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>Former Bank of England Building, Manchester</value>
+</name>
+<architect>
+<type>uri</type>
+<value>http://dbpedia.org/resource/Charles_Robert_Cockerell</value>
+</architect>
+<thumbnail>
+<type>uri</type>
+<value>http://commons.wikimedia.org/wiki/Special:FilePath/Bank_of_England_building,_Manchester.jpg?width=300</value>
+</thumbnail>
+<wikilink>
+<type>uri</type>
+<value>http://en.wikipedia.org/wiki/Former_Bank_of_England,_Manchester?oldid=554853791</value>
+</wikilink>
+<location>
+<type>uri</type>
+<value>http://dbpedia.org/resource/Manchester</value>
+</location>
+</XML_Serializer_Tag>
+<XML_Serializer_Tag>
+<building>
+<type>uri</type>
+<value>http://dbpedia.org/resource/Bank_of_England_Building,_Liverpool</value>
+</building>
+<name>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>Bank of England Building, Liverpool</value>
+</name>
+<architect>
+<type>uri</type>
+<value>http://dbpedia.org/resource/Charles_Robert_Cockerell</value>
+</architect>
+<thumbnail>
+<type>uri</type>
+<value>http://commons.wikimedia.org/wiki/Special:FilePath/Bank_of_England,_Castle_Street_-_geograph.org.uk_-_333493.jpg?width=300</value>
+</thumbnail>
+<wikilink>
+<type>uri</type>
+<value>http://en.wikipedia.org/wiki/Bank_of_England_Building,_Liverpool?oldid=563704154</value>
+</wikilink>
+<location>
+<type>uri</type>
+<value>http://dbpedia.org/resource/Liverpool</value>
+</location>
+</XML_Serializer_Tag>
+<XML_Serializer_Tag>
+<building>
+<type>uri</type>
+<value>http://dbpedia.org/resource/Church_of_Holy_Trinity,_Hotwells</value>
+</building>
+<name>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>Church of Holy Trinity</value>
+</name>
+<architect>
+<type>uri</type>
+<value>http://dbpedia.org/resource/Charles_Robert_Cockerell</value>
+</architect>
+<thumbnail>
+<type>uri</type>
+<value>http://commons.wikimedia.org/wiki/Special:FilePath/Holytrinityhotwells.JPG?width=300</value>
+</thumbnail>
+<wikilink>
+<type>uri</type>
+<value>http://en.wikipedia.org/wiki/Church_of_Holy_Trinity,_Hotwells?oldid=574055120</value>
+</wikilink>
+<location>
+<type>uri</type>
+<value>http://dbpedia.org/resource/Bristol</value>
+</location>
+</XML_Serializer_Tag>
+</buildings>
+<books />
+</Person>

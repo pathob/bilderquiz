@@ -17,8 +17,10 @@
 <XML_Serializer_Tag>Maler</XML_Serializer_Tag>
 <XML_Serializer_Tag>Keramiker</XML_Serializer_Tag>
 </professionOrOccupation>
-<artworks />
 <dbpResource>http://dbpedia.org/resource/Hans_Erni</dbpResource>
 <abstract>Hans Erni (* 21. Februar 1909 in Luzern) ist ein international bekannter Schweizer Maler, Grafiker und Bildhauer. Er gestaltete zahlreiche Lithografien, etwa 300 Plakate und mehrere Wandbilder (so für das Schweizerische Rote Kreuz, das IOC, die UNO und die UNESCO, die ICAO sowie viele öffentliche und private Unternehmen), illustrierte ungefähr 200 Sachbücher, Enzyklopädien und literarische Werke und schuf Entwürfe für rund 90 Briefmarken (hauptsächlich für die Schweiz, Liechtenstein und die UNO) sowie 25 Medaillen. Für die Schweizerische Nationalbank gestaltete er drei Reserve-Banknoten und 2009 eine amtliche 50 Franken Goldmünze.</abstract>
 <wikilink>http://en.wikipedia.org/wiki/Hans_Erni?oldid=596250671</wikilink>
+<artworks />
+<buildings />
+<books />
 </Person>

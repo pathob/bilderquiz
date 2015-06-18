@@ -1,0 +1,25 @@
+<Person>
+<name>Waldemar Grzimek</name>
+<variantName />
+<thumbnail>https://commons.wikimedia.org/wiki/Special:FilePath/Grzimek-Wappen.jpg?width=270</thumbnail>
+<birthEN>December 5, 1918</birthEN>
+<birthDE>5. Dezember 1918</birthDE>
+<deathEN>May 26, 1984</deathEN>
+<deathDE>26. Mai 1984</deathDE>
+<birthPlace>
+<XML_Serializer_Tag>Rastenburg</XML_Serializer_Tag>
+</birthPlace>
+<deathPlace>
+<XML_Serializer_Tag>Berlin</XML_Serializer_Tag>
+</deathPlace>
+<professionOrOccupation>
+<XML_Serializer_Tag>Künstler</XML_Serializer_Tag>
+<XML_Serializer_Tag>Bildhauer</XML_Serializer_Tag>
+</professionOrOccupation>
+<dbpResource>http://dbpedia.org/resource/Waldemar_Grzimek</dbpResource>
+<abstract>Waldemar Grzimek (* 5. Dezember 1918 in Rastenburg, Ostpreußen; † 26. Mai 1984 in West-Berlin) war ein deutscher Bildhauer, der sowohl in der DDR als auch in der Bundesrepublik Deutschland wirkte.</abstract>
+<wikilink>http://en.wikipedia.org/wiki/Waldemar_Grzimek?oldid=565484029</wikilink>
+<artworks />
+<buildings />
+<books />
+</Person>

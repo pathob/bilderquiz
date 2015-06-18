@@ -17,8 +17,10 @@
 <XML_Serializer_Tag>Maler</XML_Serializer_Tag>
 <XML_Serializer_Tag>Plastiker</XML_Serializer_Tag>
 </professionOrOccupation>
-<artworks />
 <dbpResource>http://dbpedia.org/resource/Ellsworth_Kelly</dbpResource>
 <abstract>Ellsworth Kelly (* 31. Mai 1923 in Newburgh, Orange County, New York) ist ein US-amerikanischer Maler und Bildhauer. Kelly ist ein Hauptvertreter der malerischen Stilrichtung Hard Edge.</abstract>
 <wikilink>http://en.wikipedia.org/wiki/Ellsworth_Kelly?oldid=606370926</wikilink>
+<artworks />
+<buildings />
+<books />
 </Person>

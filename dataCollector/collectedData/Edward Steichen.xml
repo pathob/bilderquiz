@@ -1,0 +1,32 @@
+<Person>
+<name>Edward Steichen</name>
+<variantName>
+<XML_Serializer_Tag>Edouard Jean Steichen</XML_Serializer_Tag>
+<XML_Serializer_Tag>Edward John Steichen</XML_Serializer_Tag>
+<XML_Serializer_Tag>Eduard J. Steichen</XML_Serializer_Tag>
+<XML_Serializer_Tag>Eduard Jean Steichen</XML_Serializer_Tag>
+<XML_Serializer_Tag>Eduard Steichen</XML_Serializer_Tag>
+<XML_Serializer_Tag>Edowādo Sutaiken</XML_Serializer_Tag>
+</variantName>
+<thumbnail>https://commons.wikimedia.org/wiki/Special:FilePath/Edward_Steichen.jpg?width=270</thumbnail>
+<birthEN>1879</birthEN>
+<birthDE>1879</birthDE>
+<deathEN>1973</deathEN>
+<deathDE>1973</deathDE>
+<birthPlace>
+<XML_Serializer_Tag>Bivange</XML_Serializer_Tag>
+</birthPlace>
+<deathPlace>
+<XML_Serializer_Tag>West Redding, Connecticut</XML_Serializer_Tag>
+</deathPlace>
+<professionOrOccupation>
+<XML_Serializer_Tag>Photograph</XML_Serializer_Tag>
+<XML_Serializer_Tag>Künstler</XML_Serializer_Tag>
+</professionOrOccupation>
+<dbpResource>http://dbpedia.org/resource/Edward_Steichen</dbpResource>
+<abstract>Edward Jean Steichen (eigentlich Edouard Jean Steichen; * 27. März 1879 in Bivange, Großherzogtum Luxemburg; † 25. März 1973 in West Redding, Connecticut) war ein US-amerikanischer Fotograf luxemburgischer Herkunft, der als Patriarch der Fotografie bezeichnet wird. Sein Foto „Der Teich – Mondlicht“ von 1904 war 2006/7 mit einem Verkaufspreis von knapp 2,5 Mio. € kurzzeitig die teuerste Fotografie der Welt.</abstract>
+<wikilink>http://en.wikipedia.org/wiki/Edward_Steichen?oldid=605203828</wikilink>
+<artworks />
+<buildings />
+<books />
+</Person>

@@ -1,0 +1,48 @@
+<Person>
+<name>Ennio Flaiano</name>
+<variantName>
+<XML_Serializer_Tag>Ennio Flajano</XML_Serializer_Tag>
+</variantName>
+<thumbnail>https://commons.wikimedia.org/wiki/Special:FilePath/Pescara_via_delle_caserme0004.JPG?width=270</thumbnail>
+<birthEN>March 5, 1910</birthEN>
+<birthDE>5. März 1910</birthDE>
+<deathEN>November 20, 1972</deathEN>
+<deathDE>20. November 1972</deathDE>
+<birthPlace>
+<XML_Serializer_Tag>Pescara</XML_Serializer_Tag>
+</birthPlace>
+<deathPlace>
+<XML_Serializer_Tag>Rom</XML_Serializer_Tag>
+</deathPlace>
+<professionOrOccupation>
+<XML_Serializer_Tag>Schriftsteller</XML_Serializer_Tag>
+<XML_Serializer_Tag>Journalist</XML_Serializer_Tag>
+<XML_Serializer_Tag>Drehbuchautor</XML_Serializer_Tag>
+</professionOrOccupation>
+<dbpResource>http://dbpedia.org/resource/Ennio_Flaiano</dbpResource>
+<abstract>Ennio Flaiano (* 5. März 1910 in Pescara; † 20. November 1972 in Rom) war ein italienischer Schriftsteller, Journalist und Drehbuchautor.Als subtiler und ironischer Moralist schrieb Flaiano Erzählungen und andere Prosa, die auf satirische und mitunter groteske Weise die Widersprüchlichkeiten der Gegenwart beschreiben.</abstract>
+<wikilink>http://en.wikipedia.org/wiki/Ennio_Flaiano?oldid=592902877</wikilink>
+<artworks />
+<buildings />
+<books>
+<XML_Serializer_Tag>
+<book>
+<type>uri</type>
+<value>http://dbpedia.org/resource/The_Via_Veneto_Papers</value>
+</book>
+<author>
+<type>uri</type>
+<value>http://dbpedia.org/resource/Ennio_Flaiano</value>
+</author>
+<released>
+<type>typed-literal</type>
+<datatype>http://www.w3.org/2001/XMLSchema#integer</datatype>
+<value>1992</value>
+</released>
+<wikilink>
+<type>uri</type>
+<value>http://en.wikipedia.org/wiki/The_Via_Veneto_Papers?oldid=586897714</value>
+</wikilink>
+</XML_Serializer_Tag>
+</books>
+</Person>

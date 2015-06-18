@@ -1,0 +1,34 @@
+<Person>
+<name>Edward Young</name>
+<variantName>
+<XML_Serializer_Tag>Eduard Young</XML_Serializer_Tag>
+<XML_Serializer_Tag>... Young</XML_Serializer_Tag>
+<XML_Serializer_Tag>Edouard Young</XML_Serializer_Tag>
+<XML_Serializer_Tag>Odoardo Young</XML_Serializer_Tag>
+<XML_Serializer_Tag>Edward Younge</XML_Serializer_Tag>
+<XML_Serializer_Tag>... Younge</XML_Serializer_Tag>
+<XML_Serializer_Tag>Éduárd Yung</XML_Serializer_Tag>
+<XML_Serializer_Tag>... Joung</XML_Serializer_Tag>
+</variantName>
+<thumbnail>https://commons.wikimedia.org/wiki/Special:FilePath/Edward_Young_Poet.jpeg?width=270</thumbnail>
+<birthEN>July 3, 1683</birthEN>
+<birthDE>3. Juli 1683</birthDE>
+<deathEN>April 5, 1765</deathEN>
+<deathDE>5. April 1765</deathDE>
+<birthPlace>
+<XML_Serializer_Tag>Upham</XML_Serializer_Tag>
+</birthPlace>
+<deathPlace>
+<XML_Serializer_Tag>Welwyn</XML_Serializer_Tag>
+</deathPlace>
+<professionOrOccupation>
+<XML_Serializer_Tag>Schriftsteller</XML_Serializer_Tag>
+<XML_Serializer_Tag>Pfarrer</XML_Serializer_Tag>
+</professionOrOccupation>
+<dbpResource>http://dbpedia.org/resource/Edward_Young</dbpResource>
+<abstract>Edward Young (* 3. Juli 1683 in Upham in Hampshire; † 5. April 1765 in Welwyn in Hertfordshire) war ein englischer Dichter.</abstract>
+<wikilink>http://en.wikipedia.org/wiki/Edward_Young?oldid=600996018</wikilink>
+<artworks />
+<buildings />
+<books />
+</Person>

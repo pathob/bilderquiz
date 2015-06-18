@@ -1,0 +1,24 @@
+<Person>
+<name>Johannes Grenzfurthner</name>
+<variantName />
+<thumbnail>https://commons.wikimedia.org/wiki/Special:FilePath/Grenzfurthner.jpg?width=270</thumbnail>
+<birthEN>1975</birthEN>
+<birthDE>1975</birthDE>
+<deathEN />
+<deathDE />
+<birthPlace>
+<XML_Serializer_Tag>Wien</XML_Serializer_Tag>
+</birthPlace>
+<deathPlace />
+<professionOrOccupation>
+<XML_Serializer_Tag>Künstler</XML_Serializer_Tag>
+<XML_Serializer_Tag>Schriftsteller</XML_Serializer_Tag>
+<XML_Serializer_Tag>Kurator</XML_Serializer_Tag>
+</professionOrOccupation>
+<dbpResource>http://dbpedia.org/resource/Johannes_Grenzfurthner</dbpResource>
+<abstract>Johannes Grenzfurthner (* 13. Juni 1975 in Wien) ist ein österreichischer Künstler, Autor, Kurator und Regisseur.</abstract>
+<wikilink>http://en.wikipedia.org/wiki/Johannes_Grenzfurthner?oldid=601101046</wikilink>
+<artworks />
+<buildings />
+<books />
+</Person>

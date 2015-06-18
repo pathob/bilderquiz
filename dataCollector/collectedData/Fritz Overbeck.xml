@@ -17,8 +17,10 @@
 <XML_Serializer_Tag>Zeichner</XML_Serializer_Tag>
 <XML_Serializer_Tag>Radierer</XML_Serializer_Tag>
 </professionOrOccupation>
-<artworks />
 <dbpResource>http://dbpedia.org/resource/Fritz_Overbeck</dbpResource>
 <abstract>Fritz Overbeck (* 15. September 1869 in Bremen; † 8. Juni 1909 in Bröcken bei Vegesack) war ein deutscher Maler und Radierer.</abstract>
 <wikilink>http://en.wikipedia.org/wiki/Fritz_Overbeck?oldid=605890767</wikilink>
+<artworks />
+<buildings />
+<books />
 </Person>

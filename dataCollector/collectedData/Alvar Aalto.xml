@@ -1,0 +1,115 @@
+<Person>
+<name>Alvar Aalto</name>
+<variantName>
+<XML_Serializer_Tag>Hugo Alvar Henrik Aalto</XML_Serializer_Tag>
+<XML_Serializer_Tag>A. Aalto</XML_Serializer_Tag>
+</variantName>
+<thumbnail>https://commons.wikimedia.org/wiki/Special:FilePath/Alvar-Aalto-1976.jpg?width=270</thumbnail>
+<birthEN>February 3, 1898</birthEN>
+<birthDE>3. Februar 1898</birthDE>
+<deathEN>May 11, 1976</deathEN>
+<deathDE>11. Mai 1976</deathDE>
+<birthPlace>
+<XML_Serializer_Tag>Kuortane</XML_Serializer_Tag>
+</birthPlace>
+<deathPlace>
+<XML_Serializer_Tag>Helsinki</XML_Serializer_Tag>
+</deathPlace>
+<professionOrOccupation>
+<XML_Serializer_Tag>Designer</XML_Serializer_Tag>
+<XML_Serializer_Tag>Architekt</XML_Serializer_Tag>
+</professionOrOccupation>
+<dbpResource>http://dbpedia.org/resource/Alvar_Aalto</dbpResource>
+<abstract>Hugo Alvar Henrik Aalto [ˈhuːgɔ ˈɑlvɑr ˈhɛnrik ˈɑːltɔ] (* 3. Februar 1898 in Kuortane, Finnland; † 11. Mai 1976 in Helsinki, Finnland), war ein finnischer Architekt und Designer.Alvar Aalto wurde bekannt für seine besonderen Konzeptionen im Bereich des organischen Bauens. Ein bekanntes Designerstück von Aalto ist die Aalto-Vase. Die Aalto-Universität in Helsinki trägt seit 2010 seinen Namen.</abstract>
+<wikilink>http://en.wikipedia.org/wiki/Alvar_Aalto?oldid=606569453</wikilink>
+<artworks />
+<buildings>
+<XML_Serializer_Tag>
+<building>
+<type>uri</type>
+<value>http://dbpedia.org/resource/Aalto-Hochhaus</value>
+</building>
+<name>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>Aalto-Hochhaus Building</value>
+</name>
+<architect>
+<type>uri</type>
+<value>http://dbpedia.org/resource/Alvar_Aalto</value>
+</architect>
+<thumbnail>
+<type>uri</type>
+<value>http://commons.wikimedia.org/wiki/Special:FilePath/AaltoVahr-02.jpg?width=300</value>
+</thumbnail>
+<wikilink>
+<type>uri</type>
+<value>http://en.wikipedia.org/wiki/Aalto-Hochhaus?oldid=593414597</value>
+</wikilink>
+<location>
+<type>uri</type>
+<value>http://dbpedia.org/resource/Bremen</value>
+</location>
+<abstract>
+<type>literal</type>
+<xml:lang>de</xml:lang>
+<value>Das vom finnischen Architekten Alvar Aalto entworfene, 65 Meter hohe Wohnhochhaus im Bremer Stadtteil Neue Vahr wurde in den Jahren 1959–1961 errichtet. Bauherr war die Neue Heimat (heute GEWOBA). Das Hochhaus ist das Wahrzeichen des Stadtteils und steht unter Denkmalschutz.</value>
+</abstract>
+</XML_Serializer_Tag>
+<XML_Serializer_Tag>
+<building>
+<type>uri</type>
+<value>http://dbpedia.org/resource/Campus_of_the_Massachusetts_Institute_of_Technology</value>
+</building>
+<name>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>Dreyfus Building</value>
+</name>
+<architect>
+<type>uri</type>
+<value>http://dbpedia.org/resource/Alvar_Aalto</value>
+</architect>
+<thumbnail>
+<type>uri</type>
+<value>http://en.wikipedia.org/wiki/Special:FilePath/Rogers-building.jpg?width=300</value>
+</thumbnail>
+<wikilink>
+<type>uri</type>
+<value>http://en.wikipedia.org/wiki/Campus_of_the_Massachusetts_Institute_of_Technology?oldid=603691939</value>
+</wikilink>
+<location>
+<type>uri</type>
+<value>http://dbpedia.org/resource/Cambridge,_Massachusetts</value>
+</location>
+</XML_Serializer_Tag>
+<XML_Serializer_Tag>
+<building>
+<type>uri</type>
+<value>http://dbpedia.org/resource/Kulttuuritalo</value>
+</building>
+<name>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>Kulttuuritalo</value>
+</name>
+<architect>
+<type>uri</type>
+<value>http://dbpedia.org/resource/Alvar_Aalto</value>
+</architect>
+<thumbnail>
+<type>uri</type>
+<value>http://commons.wikimedia.org/wiki/Special:FilePath/Aalto_cultural_house.JPG?width=300</value>
+</thumbnail>
+<wikilink>
+<type>uri</type>
+<value>http://en.wikipedia.org/wiki/Kulttuuritalo?oldid=598269328</value>
+</wikilink>
+<location>
+<type>uri</type>
+<value>http://dbpedia.org/resource/Finland</value>
+</location>
+</XML_Serializer_Tag>
+</buildings>
+<books />
+</Person>

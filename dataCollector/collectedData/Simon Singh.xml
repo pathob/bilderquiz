@@ -1,0 +1,97 @@
+<Person>
+<name>Simon Singh</name>
+<variantName />
+<thumbnail>https://commons.wikimedia.org/wiki/Special:FilePath/Simon_Singh.jpg?width=270</thumbnail>
+<birthEN>1964</birthEN>
+<birthDE>1964</birthDE>
+<deathEN />
+<deathDE />
+<birthPlace>
+<XML_Serializer_Tag>Wellington</XML_Serializer_Tag>
+</birthPlace>
+<deathPlace />
+<professionOrOccupation>
+<XML_Serializer_Tag>Physiker</XML_Serializer_Tag>
+<XML_Serializer_Tag>Wissenschaftsjournalist</XML_Serializer_Tag>
+<XML_Serializer_Tag>Autor</XML_Serializer_Tag>
+<XML_Serializer_Tag>Produzent</XML_Serializer_Tag>
+</professionOrOccupation>
+<dbpResource>http://dbpedia.org/resource/Simon_Singh</dbpResource>
+<abstract>Simon Lehna Singh (* 1. Januar 1964 in Wellington, Grafschaft Somerset, England) ist ein britischer freier Wissenschaftsjournalist, Autor und Produzent.</abstract>
+<wikilink>http://en.wikipedia.org/wiki/Simon_Singh?oldid=606459515</wikilink>
+<artworks />
+<buildings />
+<books>
+<XML_Serializer_Tag>
+<book>
+<type>uri</type>
+<value>http://dbpedia.org/resource/Fermat&apos;s_Last_Theorem_(book)</value>
+</book>
+<author>
+<type>uri</type>
+<value>http://dbpedia.org/resource/Simon_Singh</value>
+</author>
+<released>
+<type>typed-literal</type>
+<datatype>http://www.w3.org/2001/XMLSchema#integer</datatype>
+<value>1997</value>
+</released>
+<wikilink>
+<type>uri</type>
+<value>http://en.wikipedia.org/wiki/Fermat&apos;s_Last_Theorem_(book)?oldid=599256648</value>
+</wikilink>
+</XML_Serializer_Tag>
+<XML_Serializer_Tag>
+<book>
+<type>uri</type>
+<value>http://dbpedia.org/resource/The_Code_Book</value>
+</book>
+<author>
+<type>uri</type>
+<value>http://dbpedia.org/resource/Simon_Singh</value>
+</author>
+<wikilink>
+<type>uri</type>
+<value>http://en.wikipedia.org/wiki/The_Code_Book?oldid=597572012</value>
+</wikilink>
+<abstract>
+<type>literal</type>
+<xml:lang>de</xml:lang>
+<value>Geheime Botschaften. Die Kunst der Verschlüsselung von der Antike bis in die Zeiten des Internet (englischer Originaltitel „The Code Book. The Science of Secrecy from Ancient Egypt to Quantum Cryptography“) ist ein im September 1999 von Simon Singh bei Fourth Estate in London veröffentlichtes populärwissenschaftliches Buch, das die Geschichte der Kryptologie anhand historischer Geschehnisse illustriert. Im Jahr 2000 erschien die deutschsprachige Ausgabe (Übersetzer: Klaus Fritz) bei Carl Hanser in München. Das Buch wurde mit der Corine 2001 geehrt. Es besteht aus acht Kapiteln, einem Anhang und einem Glossarium.</value>
+</abstract>
+</XML_Serializer_Tag>
+<XML_Serializer_Tag>
+<book>
+<type>uri</type>
+<value>http://dbpedia.org/resource/Big_Bang_(book)</value>
+</book>
+<author>
+<type>uri</type>
+<value>http://dbpedia.org/resource/Simon_Singh</value>
+</author>
+<wikilink>
+<type>uri</type>
+<value>http://en.wikipedia.org/wiki/Big_Bang_(book)?oldid=605543991</value>
+</wikilink>
+<abstract>
+<type>literal</type>
+<xml:lang>de</xml:lang>
+<value>Big Bang: Der Ursprung des Kosmos und die Erfindung der modernen Naturwissenschaft ist ein Buch des britischen Autors Simon Singh. Die englische Originalausgabe erschien 2004, die deutsche Übersetzung erschien 2005 beim Carl Hanser Verlag.Big Bang behandelt die Entwicklung der Urknalltheorie des Universums, von den Philosophen des antiken Griechenlands, die zum ersten Mal die Entfernung zwischen Erde und Sonne bestimmten, bis hin zur Entdeckung der kosmischen Hintergrundstrahlung im 20. Jahrhundert.Parallel zur Urknalltheorie erzählt Singh die Geschichte der Menschen, die durch Hypothesen und Experimente zu ihrer Entwicklung beigetragen haben, darunter Nikolaus Kopernikus, Galileo Galilei, Albert Einstein, Georges Lemaître, Alexander Friedmann, Edwin Hubble, George Gamow, Ralph Alpher, Fred Hoyle, Martin Ryle, Arno Penzias und Robert Woodrow Wilson.Ein weiteres Thema des Buches ist die wissenschaftliche Methodik selbst: Wie Serendipität, Neugier, Theorie und Beobachtung zusammenwirken, um unser Verständnis der Welt zu erweitern.Die im Mai 2007 erschienene Neuauflage rangierte im Bereich der volkszugänglichen Fachliteratur auf den vorderen Verkaufsplätzen.</value>
+</abstract>
+</XML_Serializer_Tag>
+<XML_Serializer_Tag>
+<book>
+<type>uri</type>
+<value>http://dbpedia.org/resource/Trick_or_Treatment</value>
+</book>
+<author>
+<type>uri</type>
+<value>http://dbpedia.org/resource/Simon_Singh</value>
+</author>
+<wikilink>
+<type>uri</type>
+<value>http://en.wikipedia.org/wiki/Trick_or_Treatment?oldid=602500547</value>
+</wikilink>
+</XML_Serializer_Tag>
+</books>
+</Person>

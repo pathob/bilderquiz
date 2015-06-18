@@ -1,0 +1,30 @@
+<Person>
+<name>Lodovico Dolce</name>
+<variantName>
+<XML_Serializer_Tag>Lud. Dolce</XML_Serializer_Tag>
+<XML_Serializer_Tag>... Dolce</XML_Serializer_Tag>
+<XML_Serializer_Tag>Louis Dolce</XML_Serializer_Tag>
+<XML_Serializer_Tag>Ludovico Dolce</XML_Serializer_Tag>
+<XML_Serializer_Tag>Lodovico Dulce</XML_Serializer_Tag>
+<XML_Serializer_Tag>Ludovico Dulce</XML_Serializer_Tag>
+<XML_Serializer_Tag>Ludovicus Dulcis</XML_Serializer_Tag>
+</variantName>
+<thumbnail>https://commons.wikimedia.org/wiki/Special:FilePath/Giolitodevice.jpg?width=270</thumbnail>
+<birthEN>1508</birthEN>
+<birthDE>1508</birthDE>
+<deathEN>1568</deathEN>
+<deathDE>1568</deathDE>
+<birthPlace>
+<XML_Serializer_Tag>Venedig</XML_Serializer_Tag>
+</birthPlace>
+<deathPlace />
+<professionOrOccupation>
+<XML_Serializer_Tag>Schriftsteller</XML_Serializer_Tag>
+</professionOrOccupation>
+<dbpResource>http://dbpedia.org/resource/Lodovico_Dolce</dbpResource>
+<abstract>Lodovico Dolce (* 1508 in Venedig; † 1568 ebd.) war ein italienischer Humanist, Dichter, Schriftsteller, Übersetzer und Kunsttheoretiker.</abstract>
+<wikilink>http://en.wikipedia.org/wiki/Lodovico_Dolce?oldid=599784850</wikilink>
+<artworks />
+<buildings />
+<books />
+</Person>

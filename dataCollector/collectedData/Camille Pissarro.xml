@@ -24,12 +24,15 @@
 <XML_Serializer_Tag>Maler</XML_Serializer_Tag>
 <XML_Serializer_Tag>Graphiker</XML_Serializer_Tag>
 </professionOrOccupation>
+<dbpResource>http://dbpedia.org/resource/Camille_Pissarro</dbpResource>
+<abstract>Jacob Abraham Camille Pissarro (* 10. Juli 1830 in Charlotte Amalie, Dänisch-Westindien heute: Amerikanische Jungferninseln; † 12. November 1903 in Paris) war einer der bedeutendsten und produktivsten Maler des Impressionismus.</abstract>
+<wikilink>http://en.wikipedia.org/wiki/Camille_Pissarro?oldid=606480383</wikilink>
 <artworks>
 <XML_Serializer_Tag>
-<painting>
+<artwork>
 <type>uri</type>
 <value>http://dbpedia.org/resource/The_House_of_the_Deaf_Woman_and_the_Belfry_at_Eragny</value>
-</painting>
+</artwork>
 <thumbnail>
 <type>uri</type>
 <value>http://commons.wikimedia.org/wiki/Special:FilePath/The_House_of_the_Deaf_Woman_and_the_Belfry_at_Eragny,_Pissarro_-_Indianapolis_Museum_of_Art_-_DSC00657.JPG?width=300</value>
@@ -48,12 +51,17 @@
 <type>uri</type>
 <value>http://en.wikipedia.org/wiki/The_House_of_the_Deaf_Woman_and_the_Belfry_at_Eragny?oldid=535222232</value>
 </wikilink>
+<type>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>Oil painting on canvas</value>
+</type>
 </XML_Serializer_Tag>
 <XML_Serializer_Tag>
-<painting>
+<artwork>
 <type>uri</type>
 <value>http://dbpedia.org/resource/Le_Boulevard_de_Montmartre,_Matin%C3%A9e_de_Printemps</value>
-</painting>
+</artwork>
 <thumbnail>
 <type>uri</type>
 <value>http://commons.wikimedia.org/wiki/Special:FilePath/Camille_Pissarro_-_Boulevard_Montmartre,_Spring_-_Google_Art_Project.jpg?width=300</value>
@@ -72,12 +80,17 @@
 <type>uri</type>
 <value>http://en.wikipedia.org/wiki/Le_Boulevard_de_Montmartre,_Matinée_de_Printemps?oldid=604246962</value>
 </wikilink>
+<type>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>oil on canvas</value>
+</type>
 </XML_Serializer_Tag>
 <XML_Serializer_Tag>
-<painting>
+<artwork>
 <type>uri</type>
 <value>http://dbpedia.org/resource/Pont_Boieldieu_in_Rouen,_Rainy_Weather</value>
-</painting>
+</artwork>
 <thumbnail>
 <type>uri</type>
 <value>http://commons.wikimedia.org/wiki/Special:FilePath/Pissarro_-_Pont_Boieldieu_in_Rouen,_Rainy_Weather.jpg?width=300</value>
@@ -96,12 +109,16 @@
 <type>uri</type>
 <value>http://en.wikipedia.org/wiki/Pont_Boieldieu_in_Rouen,_Rainy_Weather?oldid=590262321</value>
 </wikilink>
+<type>
+<type>uri</type>
+<value>http://dbpedia.org/resource/Oil_painting</value>
+</type>
 </XML_Serializer_Tag>
 <XML_Serializer_Tag>
-<painting>
+<artwork>
 <type>uri</type>
 <value>http://dbpedia.org/resource/The_Banks_of_the_Oise_near_Pontoise</value>
-</painting>
+</artwork>
 <thumbnail>
 <type>uri</type>
 <value>http://commons.wikimedia.org/wiki/Special:FilePath/Banks_of_the_Oise_near_Pontoise_by_Camille_Pissarro.jpg?width=300</value>
@@ -120,12 +137,17 @@
 <type>uri</type>
 <value>http://en.wikipedia.org/wiki/The_Banks_of_the_Oise_near_Pontoise?oldid=537898470</value>
 </wikilink>
+<type>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>Oil painting on canvas</value>
+</type>
 </XML_Serializer_Tag>
 <XML_Serializer_Tag>
-<painting>
+<artwork>
 <type>uri</type>
 <value>http://dbpedia.org/resource/The_C%C3%B4te_des_B%C5%93ufs_at_L%E2%80%99Hermitage</value>
-</painting>
+</artwork>
 <thumbnail>
 <type>uri</type>
 <value>http://commons.wikimedia.org/wiki/Special:FilePath/Camille_Pissarro_032.jpg?width=300</value>
@@ -144,9 +166,12 @@
 <type>uri</type>
 <value>http://en.wikipedia.org/wiki/The_Côte_des_Bœufs_at_L’Hermitage?oldid=589637326</value>
 </wikilink>
+<type>
+<type>uri</type>
+<value>http://dbpedia.org/resource/Oil_painting</value>
+</type>
 </XML_Serializer_Tag>
 </artworks>
-<dbpResource>http://dbpedia.org/resource/Camille_Pissarro</dbpResource>
-<abstract>Jacob Abraham Camille Pissarro (* 10. Juli 1830 in Charlotte Amalie, Dänisch-Westindien heute: Amerikanische Jungferninseln; † 12. November 1903 in Paris) war einer der bedeutendsten und produktivsten Maler des Impressionismus.</abstract>
-<wikilink>http://en.wikipedia.org/wiki/Camille_Pissarro?oldid=606480383</wikilink>
+<buildings />
+<books />
 </Person>

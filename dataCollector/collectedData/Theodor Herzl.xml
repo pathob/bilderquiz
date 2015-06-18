@@ -1,0 +1,69 @@
+<Person>
+<name>Theodor Herzl</name>
+<variantName>
+<XML_Serializer_Tag>Théodore Herzl</XML_Serializer_Tag>
+<XML_Serializer_Tag>Têʾôdôr Herṣl</XML_Serializer_Tag>
+<XML_Serializer_Tag>Binyāmîn Zeʾēv Herṣl</XML_Serializer_Tag>
+<XML_Serializer_Tag>Teʾodor Hertsl</XML_Serializer_Tag>
+<XML_Serializer_Tag>Binyamin Zeʾev Hertsl</XML_Serializer_Tag>
+<XML_Serializer_Tag>Teʾodor Hertsel</XML_Serializer_Tag>
+<XML_Serializer_Tag>Binyamin Zeʾev Hertsel</XML_Serializer_Tag>
+<XML_Serializer_Tag>Teodoro Herzl</XML_Serializer_Tag>
+<XML_Serializer_Tag>Binyāmîn Zeʾēv Herzl</XML_Serializer_Tag>
+<XML_Serializer_Tag>Hartzil</XML_Serializer_Tag>
+<XML_Serializer_Tag>Theodore Herzl</XML_Serializer_Tag>
+<XML_Serializer_Tag>Theodore Herzil</XML_Serializer_Tag>
+<XML_Serializer_Tag>Teodor Gerclʹ</XML_Serializer_Tag>
+</variantName>
+<thumbnail>https://commons.wikimedia.org/wiki/Special:FilePath/Herzl_retouched.jpg?width=270</thumbnail>
+<birthEN>May 2, 1860</birthEN>
+<birthDE>2. Mai 1860</birthDE>
+<deathEN>July 3, 1904</deathEN>
+<deathDE>3. Juli 1904</deathDE>
+<birthPlace>
+<XML_Serializer_Tag>Budapest</XML_Serializer_Tag>
+</birthPlace>
+<deathPlace>
+<XML_Serializer_Tag>Edlach</XML_Serializer_Tag>
+</deathPlace>
+<professionOrOccupation>
+<XML_Serializer_Tag>Schriftsteller</XML_Serializer_Tag>
+<XML_Serializer_Tag>Journalist</XML_Serializer_Tag>
+<XML_Serializer_Tag>Politiker</XML_Serializer_Tag>
+</professionOrOccupation>
+<dbpResource>http://dbpedia.org/resource/Theodor_Herzl</dbpResource>
+<abstract>Theodor Herzl (* 2. Mai 1860 in Pest; † 3. Juli 1904 in Edlach, Gemeinde Reichenau an der Rax, Niederösterreich) war ein österreichisch-ungarischer Schriftsteller jüdischer Herkunft, Publizist und Journalist und der Begründer des modernen politischen Zionismus. Er gilt deshalb als der zentrale Vordenker und zugleich als aktiver Wegbereiter eines modernen Judenstaats, der später in Form des modernen Staates Israel Realität wurde. 1896 veröffentlichte er das Buch Der Judenstaat; dieses hatte er unter dem Eindruck der Dreyfus-Affäre geschrieben. Herzls ungarischer Name war Herzl Tivadar, seine hebräischen Vornamen Binyamin Ze&apos;ev. Mit Benjamin unterschrieb er auch eine sehr große Zahl von Briefen, falls er nicht mit Herzl oder Theodor Herzl zeichnete. In hebräischen Zeitungen, z. B. in Elieser ben Jehudas Haschqapha, wurde statt des ursprünglich griechischen Namens Theodor das gleichbedeutende hebräische Mattitjahu verwendet. Herzls Pseudonym in der von ihm 1897 gegründeten zionistischen Wochenzeitung Die Welt war Benjamin Seff.</abstract>
+<wikilink>http://en.wikipedia.org/wiki/Theodor_Herzl?oldid=606379780</wikilink>
+<artworks />
+<buildings />
+<books>
+<XML_Serializer_Tag>
+<book>
+<type>uri</type>
+<value>http://dbpedia.org/resource/The_Old_New_Land</value>
+</book>
+<author>
+<type>uri</type>
+<value>http://dbpedia.org/resource/Theodor_Herzl</value>
+</author>
+<thumbnail>
+<type>uri</type>
+<value>http://commons.wikimedia.org/wiki/Special:FilePath/Altneuland.jpg?width=300</value>
+</thumbnail>
+<released>
+<type>typed-literal</type>
+<datatype>http://www.w3.org/2001/XMLSchema#integer</datatype>
+<value>1902</value>
+</released>
+<wikilink>
+<type>uri</type>
+<value>http://en.wikipedia.org/wiki/The_Old_New_Land?oldid=605936852</value>
+</wikilink>
+<abstract>
+<type>literal</type>
+<xml:lang>de</xml:lang>
+<value>Altneuland ist ein utopischer Roman des österreichischen jüdischen Publizisten Theodor Herzl (1860–1904), der erstmals 1902 in Leipzig erschien.Herzl war der Begründer des politischen Zionismus und präsentierte in diesem Roman sechs Jahre nach seinem sachlich-konzeptuellen Buch Der Judenstaat seine Utopie einer jüdischen Gesellschaftsordnung in Palästina.</value>
+</abstract>
+</XML_Serializer_Tag>
+</books>
+</Person>

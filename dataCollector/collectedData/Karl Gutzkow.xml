@@ -1,0 +1,35 @@
+<Person>
+<name>Karl Gutzkow</name>
+<variantName>
+<XML_Serializer_Tag>Karl Ferdinand Gutzkow</XML_Serializer_Tag>
+<XML_Serializer_Tag>Leonhard Falk</XML_Serializer_Tag>
+<XML_Serializer_Tag>Carl Gutzkow</XML_Serializer_Tag>
+<XML_Serializer_Tag>Karl F. Gutzkow</XML_Serializer_Tag>
+<XML_Serializer_Tag>G. Gutzkow</XML_Serializer_Tag>
+<XML_Serializer_Tag>... Gutzkow</XML_Serializer_Tag>
+<XML_Serializer_Tag>Karl Gutzkone</XML_Serializer_Tag>
+</variantName>
+<thumbnail>https://commons.wikimedia.org/wiki/Special:FilePath/Karl_Gutzkow_Litho.jpg?width=270</thumbnail>
+<birthEN>March 17, 1811</birthEN>
+<birthDE>17. März 1811</birthDE>
+<deathEN>December 16, 1878</deathEN>
+<deathDE>16. Dezember 1878</deathDE>
+<birthPlace>
+<XML_Serializer_Tag>Berlin</XML_Serializer_Tag>
+</birthPlace>
+<deathPlace>
+<XML_Serializer_Tag>Frankfurt am Main</XML_Serializer_Tag>
+</deathPlace>
+<professionOrOccupation>
+<XML_Serializer_Tag>Dramatiker</XML_Serializer_Tag>
+<XML_Serializer_Tag>Publizist</XML_Serializer_Tag>
+<XML_Serializer_Tag>Journalist</XML_Serializer_Tag>
+<XML_Serializer_Tag>Schriftsteller</XML_Serializer_Tag>
+</professionOrOccupation>
+<dbpResource>http://dbpedia.org/resource/Karl_Gutzkow</dbpResource>
+<abstract>Karl Ferdinand Gutzkow (* 17. März 1811 in Berlin; † 16. Dezember 1878 in Frankfurt-Sachsenhausen) war ein deutscher Schriftsteller, Dramatiker und Journalist, einer der Stimmführer der jungdeutschen Bewegung und bedeutender Vertreter des Frührealismus in Deutschland.</abstract>
+<wikilink>http://en.wikipedia.org/wiki/Karl_Gutzkow?oldid=590267199</wikilink>
+<artworks />
+<buildings />
+<books />
+</Person>

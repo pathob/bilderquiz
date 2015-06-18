@@ -1,0 +1,32 @@
+<Person>
+<name>Karl Emil Franzos</name>
+<variantName>
+<XML_Serializer_Tag>Carl Emil Franzos</XML_Serializer_Tag>
+<XML_Serializer_Tag>K. Ė. Francoz</XML_Serializer_Tag>
+<XML_Serializer_Tag>Karl Ėmilʹ Francoz</XML_Serializer_Tag>
+<XML_Serializer_Tag>Karl E. Franzos</XML_Serializer_Tag>
+</variantName>
+<thumbnail>https://commons.wikimedia.org/wiki/Special:FilePath/Karl_Emil_Franzos_Photographie_1891_(Könnecke_1895).png?width=270</thumbnail>
+<birthEN>October 25, 1848</birthEN>
+<birthDE>25. Oktober 1848</birthDE>
+<deathEN>January 28, 1904</deathEN>
+<deathDE>28. Januar 1904</deathDE>
+<birthPlace>
+<XML_Serializer_Tag>Czortków, Galizien, Österreich-Ungarn</XML_Serializer_Tag>
+</birthPlace>
+<deathPlace>
+<XML_Serializer_Tag>Berlin</XML_Serializer_Tag>
+</deathPlace>
+<professionOrOccupation>
+<XML_Serializer_Tag>Journalist</XML_Serializer_Tag>
+<XML_Serializer_Tag>Redakteur</XML_Serializer_Tag>
+<XML_Serializer_Tag>Zeitungsverleger</XML_Serializer_Tag>
+<XML_Serializer_Tag>Schriftsteller</XML_Serializer_Tag>
+</professionOrOccupation>
+<dbpResource>http://dbpedia.org/resource/Karl_Emil_Franzos</dbpResource>
+<abstract>Karl Emil Franzos (* 25. Oktober 1848 in Russisch-Podolien nahe von Czortkow, Galizien (Podolien, Ukraine); † 28. Januar 1904 in Berlin) war ein zu seiner Zeit sehr populärer österreichischer Schriftsteller und Publizist. Seine Erzählungen und Romane reflektieren die Welt des osteuropäischen Judentums und die Spannungen, denen er als Jude und Deutscher in Galizien und der Bukowina ausgesetzt war.</abstract>
+<wikilink>http://en.wikipedia.org/wiki/Karl_Emil_Franzos?oldid=605515519</wikilink>
+<artworks />
+<buildings />
+<books />
+</Person>

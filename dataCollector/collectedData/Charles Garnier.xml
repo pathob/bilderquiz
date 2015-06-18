@@ -1,0 +1,81 @@
+<Person>
+<name>Charles Garnier</name>
+<variantName>
+<XML_Serializer_Tag>Ch. Garnier</XML_Serializer_Tag>
+<XML_Serializer_Tag>Jean Louis Charles Garnier</XML_Serializer_Tag>
+</variantName>
+<thumbnail>https://commons.wikimedia.org/wiki/Special:FilePath/Charles_Garnier.jpg?width=270</thumbnail>
+<birthEN>1825</birthEN>
+<birthDE>1825</birthDE>
+<deathEN>1898</deathEN>
+<deathDE>1898</deathDE>
+<birthPlace />
+<deathPlace />
+<professionOrOccupation>
+<XML_Serializer_Tag>Architekt</XML_Serializer_Tag>
+<XML_Serializer_Tag>Kunsthistoriker</XML_Serializer_Tag>
+<XML_Serializer_Tag>Kunstschriftsteller</XML_Serializer_Tag>
+</professionOrOccupation>
+<dbpResource>http://dbpedia.org/resource/Charles_Garnier_(architect)</dbpResource>
+<abstract>Charles Garnier (* 6. November 1825 in Paris; † 3. August 1898 in Paris), war ein französischer Architekt. Sein bekanntestes Werk ist die nach ihm benannte Opéra Garnier (auch „Palais Garnier“), Spielort der Pariser Oper.</abstract>
+<wikilink>http://en.wikipedia.org/wiki/Charles_Garnier_(architect)?oldid=589924896</wikilink>
+<artworks />
+<buildings>
+<XML_Serializer_Tag>
+<building>
+<type>uri</type>
+<value>http://dbpedia.org/resource/Palais_Garnier</value>
+</building>
+<name>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>Palais Garnier</value>
+</name>
+<architect>
+<type>uri</type>
+<value>http://dbpedia.org/resource/Charles_Garnier_(architect)</value>
+</architect>
+<thumbnail>
+<type>uri</type>
+<value>http://commons.wikimedia.org/wiki/Special:FilePath/Paris_Opera_full_frontal_architecture,_May_2009.jpg?width=300</value>
+</thumbnail>
+<wikilink>
+<type>uri</type>
+<value>http://en.wikipedia.org/wiki/Palais_Garnier?oldid=606744965</value>
+</wikilink>
+<location>
+<type>uri</type>
+<value>http://dbpedia.org/resource/Paris</value>
+</location>
+<abstract>
+<type>literal</type>
+<xml:lang>de</xml:lang>
+<value>Die Opéra Garnier, auch Palais Garnier genannt, ist eines der zwei Pariser Opernhäuser, die der staatlichen Institution Opéra National de Paris unterstehen. Die Opéra Garnier wurde 1875 eröffnet und liegt am rechten Seineufer im 9. Arrondissement. Ihren Namen verdankt sie ihrem Erbauer Charles Garnier. Seit der Eröffnung der Opéra Bastille im Jahre 1989 wird die Opéra Garnier hauptsächlich für Ballettaufführungen des hauseigenen Ballettensembles Ballet de l&apos;Opéra de Paris genutzt, führt aber nach wie vor auch klassische Opern auf.</value>
+</abstract>
+</XML_Serializer_Tag>
+<XML_Serializer_Tag>
+<building>
+<type>uri</type>
+<value>http://dbpedia.org/resource/Th%C3%A9%C3%A2tre_Marigny</value>
+</building>
+<name>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>Théâtre Marigny</value>
+</name>
+<architect>
+<type>uri</type>
+<value>http://dbpedia.org/resource/Charles_Garnier_(architect)</value>
+</architect>
+<thumbnail>
+<type>uri</type>
+<value>http://commons.wikimedia.org/wiki/Special:FilePath/Theatre_Marigny_1.jpg?width=300</value>
+</thumbnail>
+<wikilink>
+<type>uri</type>
+<value>http://en.wikipedia.org/wiki/Théâtre_Marigny?oldid=590970281</value>
+</wikilink>
+</XML_Serializer_Tag>
+</buildings>
+<books />
+</Person>

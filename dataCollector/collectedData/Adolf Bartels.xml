@@ -1,0 +1,32 @@
+<Person>
+<name>Adolf Bartels</name>
+<variantName>
+<XML_Serializer_Tag>Бартельс, Адольф</XML_Serializer_Tag>
+<XML_Serializer_Tag>Адольф Бартельс</XML_Serializer_Tag>
+</variantName>
+<thumbnail>https://commons.wikimedia.org/wiki/Special:FilePath/Adolf_Bartels_01.jpg?width=270</thumbnail>
+<birthEN>November 15, 1862</birthEN>
+<birthDE>15. November 1862</birthDE>
+<deathEN>March 7, 1945</deathEN>
+<deathDE>7. März 1945</deathDE>
+<birthPlace>
+<XML_Serializer_Tag>Wesselburen</XML_Serializer_Tag>
+</birthPlace>
+<deathPlace>
+<XML_Serializer_Tag>Weimar</XML_Serializer_Tag>
+</deathPlace>
+<professionOrOccupation>
+<XML_Serializer_Tag>Nationalsozialist</XML_Serializer_Tag>
+<XML_Serializer_Tag>Schriftsteller</XML_Serializer_Tag>
+<XML_Serializer_Tag>Literarhistoriker</XML_Serializer_Tag>
+<XML_Serializer_Tag>Redakteur</XML_Serializer_Tag>
+<XML_Serializer_Tag>Heimatschriftsteller</XML_Serializer_Tag>
+<XML_Serializer_Tag>Kulturpolitiker</XML_Serializer_Tag>
+</professionOrOccupation>
+<dbpResource>http://dbpedia.org/resource/Adolf_Bartels</dbpResource>
+<abstract>Adolf Bartels (* 15. November 1862 in Wesselburen; † 7. März 1945 in Weimar) war ein deutscher Dichter, Schriftsteller, Herausgeber, Journalist, Literaturhistoriker und Kulturpolitiker. Er war Vertreter der Heimatkunstbewegung und bekennender Antisemit.</abstract>
+<wikilink>http://en.wikipedia.org/wiki/Adolf_Bartels?oldid=602197787</wikilink>
+<artworks />
+<buildings />
+<books />
+</Person>

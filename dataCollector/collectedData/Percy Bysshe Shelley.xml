@@ -1,0 +1,63 @@
+<Person>
+<name>Percy Bysshe Shelley</name>
+<variantName>
+<XML_Serializer_Tag>P. B. Shelley</XML_Serializer_Tag>
+<XML_Serializer_Tag>... Shelley</XML_Serializer_Tag>
+<XML_Serializer_Tag>Percy Bysshe Shelley</XML_Serializer_Tag>
+<XML_Serializer_Tag>P. B. S.</XML_Serializer_Tag>
+<XML_Serializer_Tag>Percy Bysshe Shelley</XML_Serializer_Tag>
+<XML_Serializer_Tag>Percy Bysshe-Shelley</XML_Serializer_Tag>
+<XML_Serializer_Tag>Percy Shelley</XML_Serializer_Tag>
+<XML_Serializer_Tag>Percy Byshe Shelley</XML_Serializer_Tag>
+<XML_Serializer_Tag>Persy Mpis Selley͏̈</XML_Serializer_Tag>
+<XML_Serializer_Tag>Percy B. Shelley</XML_Serializer_Tag>
+<XML_Serializer_Tag>P.-B. Shelley</XML_Serializer_Tag>
+<XML_Serializer_Tag>Percy Bysshe Shelly</XML_Serializer_Tag>
+<XML_Serializer_Tag>... Šelli</XML_Serializer_Tag>
+<XML_Serializer_Tag>... Shelly</XML_Serializer_Tag>
+<XML_Serializer_Tag>... Schelley</XML_Serializer_Tag>
+<XML_Serializer_Tag>Percey Blisshe Shelley</XML_Serializer_Tag>
+<XML_Serializer_Tag>Percey Blisshe Shelley</XML_Serializer_Tag>
+<XML_Serializer_Tag>Persi Biši Šelli</XML_Serializer_Tag>
+</variantName>
+<thumbnail>https://commons.wikimedia.org/wiki/Special:FilePath/Portrait_of_Percy_Bysshe_Shelley_by_Curran,_1819.jpg?width=270</thumbnail>
+<birthEN>August 4, 1792</birthEN>
+<birthDE>4. August 1792</birthDE>
+<deathEN>July 8, 1822</deathEN>
+<deathDE>8. Juli 1822</deathDE>
+<birthPlace />
+<deathPlace />
+<professionOrOccupation>
+<XML_Serializer_Tag>Schriftsteller</XML_Serializer_Tag>
+</professionOrOccupation>
+<dbpResource>http://dbpedia.org/resource/Percy_Bysshe_Shelley</dbpResource>
+<abstract>Percy Bysshe Shelley [ˈpɜːsi bɪʃ ˈʃɛli] (* 4. August 1792 in Field Place, Sussex; † 8. Juli 1822 im Meer bei Viareggio in der italienischen Provinz Toskana) war ein britischer Schriftsteller der Romantik. Er war ein Verfechter des Atheismus.</abstract>
+<wikilink>http://en.wikipedia.org/wiki/Percy_Bysshe_Shelley?oldid=606137845</wikilink>
+<artworks />
+<buildings />
+<books>
+<XML_Serializer_Tag>
+<book>
+<type>uri</type>
+<value>http://dbpedia.org/resource/Zastrozzi</value>
+</book>
+<author>
+<type>uri</type>
+<value>http://dbpedia.org/resource/Percy_Bysshe_Shelley</value>
+</author>
+<thumbnail>
+<type>uri</type>
+<value>http://commons.wikimedia.org/wiki/Special:FilePath/Zastrozzi.jpg?width=300</value>
+</thumbnail>
+<published>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>George Wilkie and John Robinson, 1810</value>
+</published>
+<wikilink>
+<type>uri</type>
+<value>http://en.wikipedia.org/wiki/Zastrozzi?oldid=590551332</value>
+</wikilink>
+</XML_Serializer_Tag>
+</books>
+</Person>

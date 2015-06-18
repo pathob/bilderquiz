@@ -1,0 +1,27 @@
+<Person>
+<name>Jan Masaryk</name>
+<variantName />
+<thumbnail>https://commons.wikimedia.org/wiki/Special:FilePath/Jan_Masaryk.jpg?width=270</thumbnail>
+<birthEN>September 14, 1886</birthEN>
+<birthDE>14. September 1886</birthDE>
+<deathEN>March 10, 1948</deathEN>
+<deathDE>10. März 1948</deathDE>
+<birthPlace>
+<XML_Serializer_Tag>Prag</XML_Serializer_Tag>
+</birthPlace>
+<deathPlace>
+<XML_Serializer_Tag>Prag</XML_Serializer_Tag>
+</deathPlace>
+<professionOrOccupation>
+<XML_Serializer_Tag>Politiker</XML_Serializer_Tag>
+<XML_Serializer_Tag>Außenminister</XML_Serializer_Tag>
+<XML_Serializer_Tag>Diplomat</XML_Serializer_Tag>
+<XML_Serializer_Tag>Autor</XML_Serializer_Tag>
+</professionOrOccupation>
+<dbpResource>http://dbpedia.org/resource/Jan_Masaryk</dbpResource>
+<abstract>Jan Masaryk (* 14. September 1886 in Prag; † 10. März 1948 ebenda) war ein tschechoslowakischer Politiker. 1940 bis 1948 war er Außenminister, zunächst im Exil. Er starb unter nicht geklärten Umständen.</abstract>
+<wikilink>http://en.wikipedia.org/wiki/Jan_Masaryk?oldid=603285849</wikilink>
+<artworks />
+<buildings />
+<books />
+</Person>

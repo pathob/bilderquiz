@@ -16,8 +16,10 @@
 <XML_Serializer_Tag>Künstler</XML_Serializer_Tag>
 <XML_Serializer_Tag>Maler</XML_Serializer_Tag>
 </professionOrOccupation>
-<artworks />
 <dbpResource>http://dbpedia.org/resource/Anton_Romako</dbpResource>
 <abstract>Anton Romako (* 20. Oktober 1832 in Atzgersdorf; † 8. März 1889 in Wien) war ein österreichischer Maler.</abstract>
 <wikilink>http://en.wikipedia.org/wiki/Anton_Romako?oldid=567305332</wikilink>
+<artworks />
+<buildings />
+<books />
 </Person>

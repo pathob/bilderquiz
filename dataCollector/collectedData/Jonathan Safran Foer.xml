@@ -1,0 +1,103 @@
+<Person>
+<name>Jonathan Safran Foer</name>
+<variantName>
+<XML_Serializer_Tag>Jonatan Safran Foir</XML_Serializer_Tag>
+<XML_Serializer_Tag>Jonathan Safran-Foer</XML_Serializer_Tag>
+<XML_Serializer_Tag>Jonathan Safran Foer</XML_Serializer_Tag>
+</variantName>
+<thumbnail>https://commons.wikimedia.org/wiki/Special:FilePath/Jonathan_Safran_Foer_by_David_Shankbone.jpg?width=270</thumbnail>
+<birthEN>1977</birthEN>
+<birthDE>1977</birthDE>
+<deathEN />
+<deathDE />
+<birthPlace>
+<XML_Serializer_Tag>Washington, DC</XML_Serializer_Tag>
+</birthPlace>
+<deathPlace />
+<professionOrOccupation>
+<XML_Serializer_Tag>Schriftsteller</XML_Serializer_Tag>
+</professionOrOccupation>
+<dbpResource>http://dbpedia.org/resource/Jonathan_Safran_Foer</dbpResource>
+<abstract>Jonathan Safran Foer [ˈdʒɒnəθən ˈsæfɹən ˈfɔːɹ] (* 21. Februar 1977 in Washington, D.C.) ist ein US-amerikanischer Schriftsteller. Sein erster Roman Everything Is Illuminated erschien 2002. In Deutschland erlangte Foer Bekanntheit vor allem mit seinem im November 2009 erschienenen Sachbuch Eating Animals (dt. Tiere essen), das sich mit den Problemen der industrialisierten Tierproduktion auseinandersetzt.</abstract>
+<wikilink>http://en.wikipedia.org/wiki/Jonathan_Safran_Foer?oldid=590852144</wikilink>
+<artworks />
+<buildings />
+<books>
+<XML_Serializer_Tag>
+<book>
+<type>uri</type>
+<value>http://dbpedia.org/resource/Eating_Animals</value>
+</book>
+<author>
+<type>uri</type>
+<value>http://dbpedia.org/resource/Jonathan_Safran_Foer</value>
+</author>
+<thumbnail>
+<type>uri</type>
+<value>http://commons.wikimedia.org/wiki/Special:FilePath/Jonathan_Safran_Foer_Shankbone_2009.jpg?width=300</value>
+</thumbnail>
+<released>
+<type>typed-literal</type>
+<datatype>http://www.w3.org/2001/XMLSchema#integer</datatype>
+<value>2009</value>
+</released>
+<wikilink>
+<type>uri</type>
+<value>http://en.wikipedia.org/wiki/Eating_Animals?oldid=595455287</value>
+</wikilink>
+<abstract>
+<type>literal</type>
+<xml:lang>de</xml:lang>
+<value>Tiere essen (englisch Eating Animals) ist ein Sachbuch des amerikanischen Schriftstellers Jonathan Safran Foer, das sich mit den Problemen der Massentierhaltung auseinandersetzt. Das Buch erschien 2009 in den USA und im August 2010 in Deutschland. Die deutsche Übersetzung stammt von Isabel Bogdan, Ingo Herzke und Brigitte Jakobeit.</value>
+</abstract>
+</XML_Serializer_Tag>
+<XML_Serializer_Tag>
+<book>
+<type>uri</type>
+<value>http://dbpedia.org/resource/Everything_Is_Illuminated</value>
+</book>
+<author>
+<type>uri</type>
+<value>http://dbpedia.org/resource/Jonathan_Safran_Foer</value>
+</author>
+<released>
+<type>typed-literal</type>
+<datatype>http://www.w3.org/2001/XMLSchema#date</datatype>
+<value>2002-04-16+02:00</value>
+</released>
+<wikilink>
+<type>uri</type>
+<value>http://en.wikipedia.org/wiki/Everything_Is_Illuminated?oldid=605696809</value>
+</wikilink>
+<abstract>
+<type>literal</type>
+<xml:lang>de</xml:lang>
+<value>Alles ist erleuchtet (englisch: Everything is Illuminated) ist der 2002 erschienene erste Roman des US-amerikanischen Schriftstellers Jonathan Safran Foer. Das Buch wurde von Dirk van Gunsteren ins Deutsche übersetzt und 2003 veröffentlicht. 2005 entstand auf Basis der Romanvorlage ein gleichnamiger Film mit Elijah Wood und Eugene Hütz in den Hauptrollen.</value>
+</abstract>
+</XML_Serializer_Tag>
+<XML_Serializer_Tag>
+<book>
+<type>uri</type>
+<value>http://dbpedia.org/resource/Extremely_Loud_and_Incredibly_Close</value>
+</book>
+<author>
+<type>uri</type>
+<value>http://dbpedia.org/resource/Jonathan_Safran_Foer</value>
+</author>
+<released>
+<type>typed-literal</type>
+<datatype>http://www.w3.org/2001/XMLSchema#date</datatype>
+<value>2005-04-01+02:00</value>
+</released>
+<wikilink>
+<type>uri</type>
+<value>http://en.wikipedia.org/wiki/Extremely_Loud_and_Incredibly_Close?oldid=606475280</value>
+</wikilink>
+<abstract>
+<type>literal</type>
+<xml:lang>de</xml:lang>
+<value>Der Roman Extrem laut und unglaublich nah (original engl. Extremely loud and incredibly close) wurde von dem Autor Jonathan Safran Foer im Jahr 2005 verfasst. Das Buch spielt in der Zeit der Terroranschläge vom 11. September 2001 bzw. kurz danach und mit mehreren Rückblicken in die Zeit des Zweiten Weltkrieges, bzw. den Luftangriffen auf Dresden.</value>
+</abstract>
+</XML_Serializer_Tag>
+</books>
+</Person>

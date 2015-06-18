@@ -1,0 +1,58 @@
+<Person>
+<name>Anna Gavalda</name>
+<variantName />
+<thumbnail>https://commons.wikimedia.org/wiki/Special:FilePath/Anna_Gavalda_20100328_Salon_du_livre_de_Paris_1.jpg?width=270</thumbnail>
+<birthEN>1970</birthEN>
+<birthDE>1970</birthDE>
+<deathEN />
+<deathDE />
+<birthPlace>
+<XML_Serializer_Tag>Boulogne-Billancourt</XML_Serializer_Tag>
+</birthPlace>
+<deathPlace />
+<professionOrOccupation>
+<XML_Serializer_Tag>Schriftstellerin</XML_Serializer_Tag>
+<XML_Serializer_Tag>Journalistin</XML_Serializer_Tag>
+<XML_Serializer_Tag>Lehrerin</XML_Serializer_Tag>
+</professionOrOccupation>
+<dbpResource>http://dbpedia.org/resource/Anna_Gavalda</dbpResource>
+<abstract>Anna Gavalda (* 9. Dezember 1970 in Boulogne-Billancourt) ist eine französische Schriftstellerin und Journalistin.</abstract>
+<wikilink>http://en.wikipedia.org/wiki/Anna_Gavalda?oldid=594692366</wikilink>
+<artworks />
+<buildings />
+<books>
+<XML_Serializer_Tag>
+<book>
+<type>uri</type>
+<value>http://dbpedia.org/resource/I_Wish_Someone_Were_Waiting_for_Me_Somewhere</value>
+</book>
+<author>
+<type>uri</type>
+<value>http://dbpedia.org/resource/Anna_Gavalda</value>
+</author>
+<published>
+<type>typed-literal</type>
+<datatype>http://www.w3.org/2001/XMLSchema#integer</datatype>
+<value>1999</value>
+</published>
+<wikilink>
+<type>uri</type>
+<value>http://en.wikipedia.org/wiki/I_Wish_Someone_Were_Waiting_for_Me_Somewhere?oldid=595240877</value>
+</wikilink>
+</XML_Serializer_Tag>
+<XML_Serializer_Tag>
+<book>
+<type>uri</type>
+<value>http://dbpedia.org/resource/Hunting_and_Gathering_(novel)</value>
+</book>
+<author>
+<type>uri</type>
+<value>http://dbpedia.org/resource/Anna_Gavalda</value>
+</author>
+<wikilink>
+<type>uri</type>
+<value>http://en.wikipedia.org/wiki/Hunting_and_Gathering_(novel)?oldid=594650267</value>
+</wikilink>
+</XML_Serializer_Tag>
+</books>
+</Person>

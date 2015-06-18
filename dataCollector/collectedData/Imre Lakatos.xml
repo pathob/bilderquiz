@@ -1,0 +1,25 @@
+<Person>
+<name>Imre Lakatos</name>
+<variantName>
+<XML_Serializer_Tag>La-kà-tò-ssu</XML_Serializer_Tag>
+<XML_Serializer_Tag>Lakatuosi</XML_Serializer_Tag>
+<XML_Serializer_Tag>Lacatos</XML_Serializer_Tag>
+</variantName>
+<thumbnail>https://commons.wikimedia.org/wiki/Special:FilePath/Professor_Imre_Lakatos,_c1960s.jpg?width=270</thumbnail>
+<birthEN>1922</birthEN>
+<birthDE>1922</birthDE>
+<deathEN>1974</deathEN>
+<deathDE>1974</deathDE>
+<birthPlace />
+<deathPlace />
+<professionOrOccupation>
+<XML_Serializer_Tag>Mathematiker</XML_Serializer_Tag>
+<XML_Serializer_Tag>Philosoph</XML_Serializer_Tag>
+</professionOrOccupation>
+<dbpResource>http://dbpedia.org/resource/Imre_Lakatos</dbpResource>
+<abstract>Imre Lakatos (* 9. November 1922 in Debrecen, Ungarn; † 2. Februar 1974 in London, England) war ein ungarischer Mathematiker, Physiker und Wissenschaftstheoretiker.</abstract>
+<wikilink>http://en.wikipedia.org/wiki/Imre_Lakatos?oldid=606497501</wikilink>
+<artworks />
+<buildings />
+<books />
+</Person>

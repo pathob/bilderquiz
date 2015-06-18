@@ -1,0 +1,218 @@
+<Person>
+<name>Rudyard Kipling</name>
+<variantName>
+<XML_Serializer_Tag>R. Kipling</XML_Serializer_Tag>
+<XML_Serializer_Tag>Joseph Rudyard Kipling</XML_Serializer_Tag>
+<XML_Serializer_Tag>Rudyard Joseph Kipling</XML_Serializer_Tag>
+<XML_Serializer_Tag>Kipling</XML_Serializer_Tag>
+<XML_Serializer_Tag>Rudyard Ḳipling</XML_Serializer_Tag>
+<XML_Serializer_Tag>Radiard Kipling</XML_Serializer_Tag>
+<XML_Serializer_Tag>Runtiarnt Kiplink</XML_Serializer_Tag>
+<XML_Serializer_Tag>Radiard Kiplingi</XML_Serializer_Tag>
+<XML_Serializer_Tag>Raḍayārḍa Kipaliṅga</XML_Serializer_Tag>
+<XML_Serializer_Tag>Raḍayārḍa Kipaliṃga</XML_Serializer_Tag>
+<XML_Serializer_Tag>Rautgyarnt Kiplink</XML_Serializer_Tag>
+<XML_Serializer_Tag>Rûdyard Qiplîng</XML_Serializer_Tag>
+<XML_Serializer_Tag>Dzh. R. Kipling</XML_Serializer_Tag>
+<XML_Serializer_Tag>Dzh. Redʹiard Kipling</XML_Serializer_Tag>
+<XML_Serializer_Tag>Dž. R. Kipling</XML_Serializer_Tag>
+<XML_Serializer_Tag>Dž. Redʹjard Kipling</XML_Serializer_Tag>
+<XML_Serializer_Tag>Radoyādo Kipuringu</XML_Serializer_Tag>
+</variantName>
+<thumbnail>https://commons.wikimedia.org/wiki/Special:FilePath/Collier_1891_rudyard-kipling.jpg?width=270</thumbnail>
+<birthEN>December 30, 1865</birthEN>
+<birthDE>30. Dezember 1865</birthDE>
+<deathEN>January 18, 1936</deathEN>
+<deathDE>18. Januar 1936</deathDE>
+<birthPlace>
+<XML_Serializer_Tag>Bombay</XML_Serializer_Tag>
+</birthPlace>
+<deathPlace>
+<XML_Serializer_Tag>London</XML_Serializer_Tag>
+</deathPlace>
+<professionOrOccupation>
+<XML_Serializer_Tag>Journalist</XML_Serializer_Tag>
+<XML_Serializer_Tag>Schriftsteller</XML_Serializer_Tag>
+<XML_Serializer_Tag>Lyriker</XML_Serializer_Tag>
+</professionOrOccupation>
+<dbpResource>http://dbpedia.org/resource/Rudyard_Kipling</dbpResource>
+<abstract>Joseph Rudyard Kipling [ˈdʒəʊzɪf ˈɹʌdjəd ˈkɪplɪŋ] (* 30. Dezember 1865 in Bombay; † 18. Januar 1936 in London) war ein britischer Schriftsteller und Dichter. Seine bekanntesten Werke sind Das Dschungelbuch, Rikki-Tikki-Tavi, der Roman Kim und eine Vielzahl von Kurzgeschichten, so The Man Who Would Be King, The Village that Voted the Earth was Flat und Gedichte wie Mandalay (1890), Gunga Din (1890) und If— (1910).Er gilt als wesentlicher Vertreter der Kurzgeschichte und als hervorragender Erzähler. Seine Kinderbücher gehören zu den Klassikern des Genres. Ende des 19. und Anfang des 20. Jahrhunderts gehörte Kipling zu den populärsten englischen Schriftstellern. James Joyce stellte ihn in eine Reihe mit Lew Nikolajewitsch Tolstoi und Gabriele D’Annunzio als Autoren ihrer Zeit mit dem vielversprechendsten Talent.1907 erhielt er als damals jüngster und erster englischer Schriftsteller den Literaturnobelpreis. Verschiedene andere Ehrungen wie die britische Poet Laureateship und eine Erhebung in den Adelsstand lehnte er ab. Kiplings Popularität und literarischer Erfolg, der unter anderem wegen seines eigentlich auf die USA gemünzten Gedichts The White Man’s Burden als kritischer Barde bzw. Prophet des britischen Imperiums galt, nahm nach dem Ersten Weltkrieg stark ab.Douglas Kerr zufolge werde Kipling gerade aufgrund des Rückgangs des europäischen Kolonialismus wieder interessant, weil er die Zeit in der ihm eigenen Art interpretiere und mit seiner großen erzählerischen Gabe nachvollziehbar mache. In Deutschland kam es zu einer Neuinterpretation des Werks Kiplings durch die Übersetzung und Neuherausgabe von Gisbert Haefs.Kiplings Werke wurden mehrmals verfilmt, so Der Mann, der König sein wollte und inspirierten eine Vielzahl von Nachahmern und Parodien in verschiedenen Medien und Kunstformen. Größten Bekanntheitsgrad dürfte Das Dschungelbuch erlangt haben: ein Zeichentrickfilm der Walt-Disney-Studios aus dem Jahr 1967.</abstract>
+<wikilink>http://en.wikipedia.org/wiki/Rudyard_Kipling?oldid=606366626</wikilink>
+<artworks />
+<buildings />
+<books>
+<XML_Serializer_Tag>
+<book>
+<type>uri</type>
+<value>http://dbpedia.org/resource/The_Jungle_Book</value>
+</book>
+<author>
+<type>uri</type>
+<value>http://dbpedia.org/resource/Rudyard_Kipling</value>
+</author>
+<thumbnail>
+<type>uri</type>
+<value>http://commons.wikimedia.org/wiki/Special:FilePath/JunglebookCover.jpg?width=300</value>
+</thumbnail>
+<released>
+<type>typed-literal</type>
+<datatype>http://www.w3.org/2001/XMLSchema#integer</datatype>
+<value>1894</value>
+</released>
+<wikilink>
+<type>uri</type>
+<value>http://en.wikipedia.org/wiki/The_Jungle_Book?oldid=605851325</value>
+</wikilink>
+<abstract>
+<type>literal</type>
+<xml:lang>de</xml:lang>
+<value>Das Dschungelbuch, englischer Originaltitel The Jungle Book, ist eine Sammlung von Erzählungen und Gedichten des britischen Autors Rudyard Kipling. Der erste Band erschien 1894, der zweite 1895 unter dem Titel The Second Jungle Book („Das zweite Dschungelbuch“); seither werden die Erzählungen der beiden Bände zumeist gemeinsam publiziert, oft als The Jungle Books („Die Dschungelbücher“). Die bekanntesten Erzählungen darin handeln von Mowgli (in verschiedenen Übersetzungen auch Maugli oder Mogli geschrieben), einem Findelkind, das bei Tieren im indischen Dschungel aufwächst. Die Geschichten über Mowgli stehen dem Genre des Entwicklungsromans nahe, da sie Mowglis Erwachsenwerden und Bewusstwerdung vom verspielten Kind bis hin zum Herrn über die Tierwelt aufzeigen. Mowgli muss lernen, dass die Gesetze der Natur hart sind und ein hohes Maß von Verantwortung fordern. Im Kampf mit den Kräften der Natur, mit den Tieren und mit den Menschen reift das Kind zum selbstbewussten Jugendlichen. Trotz mancherlei kritischer Betrachtungen – man hat in der Darstellung der Charaktere und der Betonung des Gesetzes des Dschungels Kiplings positive Stellung zum Kolonialismus erblickt – ist die Bedeutung des Dschungelbuches auf die spätere literarische Entwicklung sowie seine Stellung als eines der bekanntesten und erfolgreichsten Jugendbücher der Welt kaum zu überschätzen.</value>
+</abstract>
+</XML_Serializer_Tag>
+<XML_Serializer_Tag>
+<book>
+<type>uri</type>
+<value>http://dbpedia.org/resource/Plain_Tales_from_the_Hills</value>
+</book>
+<author>
+<type>uri</type>
+<value>http://dbpedia.org/resource/Rudyard_Kipling</value>
+</author>
+<thumbnail>
+<type>uri</type>
+<value>http://commons.wikimedia.org/wiki/Special:FilePath/Plaintalesfromthehills1888.jpg?width=300</value>
+</thumbnail>
+<released>
+<type>typed-literal</type>
+<datatype>http://www.w3.org/2001/XMLSchema#integer</datatype>
+<value>1888</value>
+</released>
+<wikilink>
+<type>uri</type>
+<value>http://en.wikipedia.org/wiki/Plain_Tales_from_the_Hills?oldid=586647147</value>
+</wikilink>
+</XML_Serializer_Tag>
+<XML_Serializer_Tag>
+<book>
+<type>uri</type>
+<value>http://dbpedia.org/resource/The_Second_Jungle_Book</value>
+</book>
+<author>
+<type>uri</type>
+<value>http://dbpedia.org/resource/Rudyard_Kipling</value>
+</author>
+<thumbnail>
+<type>uri</type>
+<value>http://commons.wikimedia.org/wiki/Special:FilePath/SecondJungleBookCover1895.jpg?width=300</value>
+</thumbnail>
+<released>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>November 1895</value>
+</released>
+<wikilink>
+<type>uri</type>
+<value>http://en.wikipedia.org/wiki/The_Second_Jungle_Book?oldid=602592890</value>
+</wikilink>
+</XML_Serializer_Tag>
+<XML_Serializer_Tag>
+<book>
+<type>uri</type>
+<value>http://dbpedia.org/resource/The_Story_of_the_Gadsbys</value>
+</book>
+<author>
+<type>uri</type>
+<value>http://dbpedia.org/resource/Rudyard_Kipling</value>
+</author>
+<thumbnail>
+<type>uri</type>
+<value>http://en.wikipedia.org/wiki/Special:FilePath/The_Gadsbys_Frontispiece.jpg?width=300</value>
+</thumbnail>
+<wikilink>
+<type>uri</type>
+<value>http://en.wikipedia.org/wiki/The_Story_of_the_Gadsbys?oldid=547715012</value>
+</wikilink>
+</XML_Serializer_Tag>
+<XML_Serializer_Tag>
+<book>
+<type>uri</type>
+<value>http://dbpedia.org/resource/Kim_(novel)</value>
+</book>
+<author>
+<type>uri</type>
+<value>http://dbpedia.org/resource/Rudyard_Kipling</value>
+</author>
+<released>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>October 1901</value>
+</released>
+<wikilink>
+<type>uri</type>
+<value>http://en.wikipedia.org/wiki/Kim_(novel)?oldid=603886638</value>
+</wikilink>
+<abstract>
+<type>literal</type>
+<xml:lang>de</xml:lang>
+<value>Kim ist ein historischer Roman des britischen Schriftstellers Rudyard Kipling. Der 1901 erschienene Roman wurde nach seinem Titelhelden benannt. Hintergrund der Geschichte ist der Konflikt zwischen Russland und Großbritannien in Zentralasien im 19. Jahrhundert. Parallel wird die enge Beziehung des Titelhelden zu einem tibetischen Lama erzählt, die die ostasiatische Perspektive auf die Welt beleuchtet.</value>
+</abstract>
+</XML_Serializer_Tag>
+<XML_Serializer_Tag>
+<book>
+<type>uri</type>
+<value>http://dbpedia.org/resource/Wee_Willie_Winkie_and_Other_Child_Stories</value>
+</book>
+<author>
+<type>uri</type>
+<value>http://dbpedia.org/resource/Rudyard_Kipling</value>
+</author>
+<released>
+<type>typed-literal</type>
+<datatype>http://www.w3.org/2001/XMLSchema#integer</datatype>
+<value>1888</value>
+</released>
+<wikilink>
+<type>uri</type>
+<value>http://en.wikipedia.org/wiki/Wee_Willie_Winkie_and_Other_Child_Stories?oldid=605289536</value>
+</wikilink>
+</XML_Serializer_Tag>
+<XML_Serializer_Tag>
+<book>
+<type>uri</type>
+<value>http://dbpedia.org/resource/Under_the_Deodars</value>
+</book>
+<author>
+<type>uri</type>
+<value>http://dbpedia.org/resource/Rudyard_Kipling</value>
+</author>
+<released>
+<type>typed-literal</type>
+<datatype>http://www.w3.org/2001/XMLSchema#integer</datatype>
+<value>1888</value>
+</released>
+<wikilink>
+<type>uri</type>
+<value>http://en.wikipedia.org/wiki/Under_the_Deodars?oldid=604576539</value>
+</wikilink>
+</XML_Serializer_Tag>
+<XML_Serializer_Tag>
+<book>
+<type>uri</type>
+<value>http://dbpedia.org/resource/The_Phantom_&apos;Rickshaw_and_other_Eerie_Tales</value>
+</book>
+<author>
+<type>uri</type>
+<value>http://dbpedia.org/resource/Rudyard_Kipling</value>
+</author>
+<released>
+<type>typed-literal</type>
+<datatype>http://www.w3.org/2001/XMLSchema#integer</datatype>
+<value>1888</value>
+</released>
+<wikilink>
+<type>uri</type>
+<value>http://en.wikipedia.org/wiki/The_Phantom_&apos;Rickshaw_and_other_Eerie_Tales?oldid=597052060</value>
+</wikilink>
+</XML_Serializer_Tag>
+</books>
+</Person>

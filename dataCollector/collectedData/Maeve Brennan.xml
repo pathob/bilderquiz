@@ -1,0 +1,25 @@
+<Person>
+<name>Maeve Brennan</name>
+<variantName />
+<thumbnail>https://en.wikipedia.org/wiki/Special:FilePath/Maeve_Brennan1.jpg?width=270</thumbnail>
+<birthEN>1917</birthEN>
+<birthDE>1917</birthDE>
+<deathEN>1993</deathEN>
+<deathDE>1993</deathDE>
+<birthPlace>
+<XML_Serializer_Tag>Dublin</XML_Serializer_Tag>
+</birthPlace>
+<deathPlace>
+<XML_Serializer_Tag>New York, NY</XML_Serializer_Tag>
+</deathPlace>
+<professionOrOccupation>
+<XML_Serializer_Tag>Journalistin</XML_Serializer_Tag>
+<XML_Serializer_Tag>Schriftstellerin</XML_Serializer_Tag>
+</professionOrOccupation>
+<dbpResource>http://dbpedia.org/resource/Maeve_Brennan</dbpResource>
+<abstract>Maeve Brennan (* 1917 in Dublin; † 1993 in New York) war eine irisch-amerikanische Journalistin und Schriftstellerin.</abstract>
+<wikilink>http://en.wikipedia.org/wiki/Maeve_Brennan?oldid=606280759</wikilink>
+<artworks />
+<buildings />
+<books />
+</Person>

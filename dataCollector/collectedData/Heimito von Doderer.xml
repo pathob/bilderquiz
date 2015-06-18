@@ -1,0 +1,31 @@
+<Person>
+<name>Heimito von Doderer</name>
+<variantName>
+<XML_Serializer_Tag>Chajmito fon Doderer</XML_Serializer_Tag>
+<XML_Serializer_Tag>Franz Carl Heimito von Doderer</XML_Serializer_Tag>
+<XML_Serializer_Tag>Stangeler René</XML_Serializer_Tag>
+<XML_Serializer_Tag>Rene Stangeler</XML_Serializer_Tag>
+</variantName>
+<thumbnail>https://de.wikipedia.org/wiki/Special:FilePath/Wappen_von_Doderer.PNG?width=270</thumbnail>
+<birthEN>September 5, 1896</birthEN>
+<birthDE>5. September 1896</birthDE>
+<deathEN>December 23, 1966</deathEN>
+<deathDE>23. Dezember 1966</deathDE>
+<birthPlace>
+<XML_Serializer_Tag>Hadersdorf-Weidlingau</XML_Serializer_Tag>
+</birthPlace>
+<deathPlace>
+<XML_Serializer_Tag>Wien</XML_Serializer_Tag>
+</deathPlace>
+<professionOrOccupation>
+<XML_Serializer_Tag>Schriftsteller</XML_Serializer_Tag>
+<XML_Serializer_Tag>Historiker</XML_Serializer_Tag>
+<XML_Serializer_Tag>Journalist</XML_Serializer_Tag>
+</professionOrOccupation>
+<dbpResource>http://dbpedia.org/resource/Heimito_von_Doderer</dbpResource>
+<abstract>Franz Carl Heimito Ritter von Doderer (* 5. September 1896 in Hadersdorf-Weidlingau, heute in Wien; † 23. Dezember 1966 in Wien) war ein österreichischer Schriftsteller. Sein bekanntestes Werk ist der Roman Die Strudlhofstiege oder Melzer und die Tiefe der Jahre (erschienen 1951), sein umfangreichstes Die Dämonen (1956).</abstract>
+<wikilink>http://en.wikipedia.org/wiki/Heimito_von_Doderer?oldid=603226372</wikilink>
+<artworks />
+<buildings />
+<books />
+</Person>

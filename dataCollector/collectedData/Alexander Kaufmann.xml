@@ -1,0 +1,32 @@
+<Person>
+<name>Alexander Kaufmann</name>
+<variantName>
+<XML_Serializer_Tag>A. Kaufmann</XML_Serializer_Tag>
+<XML_Serializer_Tag>Franz Alexander Kaufmann</XML_Serializer_Tag>
+<XML_Serializer_Tag>Alexander Kauffmann</XML_Serializer_Tag>
+</variantName>
+<thumbnail>https://commons.wikimedia.org/wiki/Special:FilePath/Alexander_Kaufmann.jpg?width=270</thumbnail>
+<birthEN>May 14, 1817</birthEN>
+<birthDE>14. Mai 1817</birthDE>
+<deathEN>May 1, 1893</deathEN>
+<deathDE>1. Mai 1893</deathDE>
+<birthPlace>
+<XML_Serializer_Tag>Bonn</XML_Serializer_Tag>
+</birthPlace>
+<deathPlace>
+<XML_Serializer_Tag>Wertheim</XML_Serializer_Tag>
+</deathPlace>
+<professionOrOccupation>
+<XML_Serializer_Tag>Schriftsteller</XML_Serializer_Tag>
+<XML_Serializer_Tag>Archivar</XML_Serializer_Tag>
+<XML_Serializer_Tag>Dokumentar</XML_Serializer_Tag>
+<XML_Serializer_Tag>Historiker</XML_Serializer_Tag>
+<XML_Serializer_Tag>Erzieher</XML_Serializer_Tag>
+</professionOrOccupation>
+<dbpResource>http://dbpedia.org/resource/Alexander_Kaufmann</dbpResource>
+<abstract>Franz Alexander Kaufmann, auch Kauffmann, (* 14. Mai 1817 in Bonn; † 1. Mai 1893 in Wertheim) war ein deutscher Schriftsteller und Archivar.</abstract>
+<wikilink>http://en.wikipedia.org/wiki/Alexander_Kaufmann?oldid=589014940</wikilink>
+<artworks />
+<buildings />
+<books />
+</Person>

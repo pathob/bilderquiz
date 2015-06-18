@@ -1,0 +1,33 @@
+<Person>
+<name>Ferdinand von Quast</name>
+<variantName>
+<XML_Serializer_Tag>Alexander Ferdinand von Quast</XML_Serializer_Tag>
+<XML_Serializer_Tag>Alexander F. von Quast</XML_Serializer_Tag>
+<XML_Serializer_Tag>F. von Quast</XML_Serializer_Tag>
+<XML_Serializer_Tag>Alexander von Quast</XML_Serializer_Tag>
+<XML_Serializer_Tag>F. v. Quast</XML_Serializer_Tag>
+<XML_Serializer_Tag>Ferdinand von Quast</XML_Serializer_Tag>
+<XML_Serializer_Tag>Alexander Ferdinand v. Quast</XML_Serializer_Tag>
+</variantName>
+<thumbnail>https://commons.wikimedia.org/wiki/Special:FilePath/Bundesarchiv_Bild_146-2004-0118,_Ferdinand_v._Quast_(Zeichnung).jpg?width=270</thumbnail>
+<birthEN>June 23, 1807</birthEN>
+<birthDE>23. Juni 1807</birthDE>
+<deathEN>March 11, 1877</deathEN>
+<deathDE>11. März 1877</deathDE>
+<birthPlace>
+<XML_Serializer_Tag>Radensleben</XML_Serializer_Tag>
+</birthPlace>
+<deathPlace>
+<XML_Serializer_Tag>Radensleben</XML_Serializer_Tag>
+</deathPlace>
+<professionOrOccupation>
+<XML_Serializer_Tag>Architekt</XML_Serializer_Tag>
+<XML_Serializer_Tag>Archäologe</XML_Serializer_Tag>
+</professionOrOccupation>
+<dbpResource>http://dbpedia.org/resource/Ferdinand_von_Quast</dbpResource>
+<abstract>Ferdinand von Quast (* 23. Juni 1807 in Radensleben; † 11. März 1877 ebenda) war ein deutscher Architekt, Kunsthistoriker und seit 1843 erster preußischer Staatskonservator.</abstract>
+<wikilink>http://en.wikipedia.org/wiki/Ferdinand_von_Quast?oldid=603072447</wikilink>
+<artworks />
+<buildings />
+<books />
+</Person>

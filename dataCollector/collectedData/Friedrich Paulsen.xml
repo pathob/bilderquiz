@@ -1,0 +1,27 @@
+<Person>
+<name>Friedrich Paulsen</name>
+<variantName>
+<XML_Serializer_Tag>Fridericus Paulsen</XML_Serializer_Tag>
+<XML_Serializer_Tag>F. Paulsen</XML_Serializer_Tag>
+</variantName>
+<thumbnail>https://commons.wikimedia.org/wiki/Special:FilePath/Paulsen.1907.jpg?width=270</thumbnail>
+<birthEN>July 16, 1846</birthEN>
+<birthDE>16. Juli 1846</birthDE>
+<deathEN>August 14, 1908</deathEN>
+<deathDE>14. August 1908</deathDE>
+<birthPlace>
+<XML_Serializer_Tag>Langenhorn (Nordfriesland)</XML_Serializer_Tag>
+</birthPlace>
+<deathPlace />
+<professionOrOccupation>
+<XML_Serializer_Tag>Pädagoge</XML_Serializer_Tag>
+<XML_Serializer_Tag>Philosoph</XML_Serializer_Tag>
+<XML_Serializer_Tag>Schriftsteller</XML_Serializer_Tag>
+</professionOrOccupation>
+<dbpResource>http://dbpedia.org/resource/Friedrich_Paulsen</dbpResource>
+<abstract>Friedrich Paulsen (* 16. Juli 1846 in Langenhorn bei Niebüll (Nordfriesland); † 14. August 1908 in Steglitz b. Berlin) war ein deutscher Pädagoge und Philosoph.</abstract>
+<wikilink>http://en.wikipedia.org/wiki/Friedrich_Paulsen?oldid=598671179</wikilink>
+<artworks />
+<buildings />
+<books />
+</Person>

@@ -28,8 +28,10 @@
 <XML_Serializer_Tag>Maler</XML_Serializer_Tag>
 <XML_Serializer_Tag>Schriftsteller</XML_Serializer_Tag>
 </professionOrOccupation>
-<artworks />
 <dbpResource>http://dbpedia.org/resource/Wilhelm_Raabe</dbpResource>
 <abstract>Wilhelm Karl Raabe (Pseudonym: Jakob Corvinus; * 8. September 1831 in Eschershausen; † 15. November 1910 in Braunschweig) war ein deutscher Schriftsteller (Erzähler). Er war ein Vertreter des poetischen Realismus, bekannt für seine gesellschaftskritischen Erzählungen, Novellen und Romane.</abstract>
 <wikilink>http://en.wikipedia.org/wiki/Wilhelm_Raabe?oldid=594648543</wikilink>
+<artworks />
+<buildings />
+<books />
 </Person>

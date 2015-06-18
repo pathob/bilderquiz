@@ -1,0 +1,53 @@
+<Person>
+<name>Thea Beckman</name>
+<variantName>
+<XML_Serializer_Tag>Thea Beckmann</XML_Serializer_Tag>
+<XML_Serializer_Tag>Tea Bekkuman</XML_Serializer_Tag>
+<XML_Serializer_Tag>Theodora Petie</XML_Serializer_Tag>
+</variantName>
+<thumbnail>https://commons.wikimedia.org/wiki/Special:FilePath/Thea_Beckman.jpg?width=270</thumbnail>
+<birthEN>July 23, 1923</birthEN>
+<birthDE>23. Juli 1923</birthDE>
+<deathEN>May 5, 2004</deathEN>
+<deathDE>5. Mai 2004</deathDE>
+<birthPlace>
+<XML_Serializer_Tag>Rotterdam</XML_Serializer_Tag>
+</birthPlace>
+<deathPlace>
+<XML_Serializer_Tag>Bunnik</XML_Serializer_Tag>
+</deathPlace>
+<professionOrOccupation>
+<XML_Serializer_Tag>Schriftstellerin</XML_Serializer_Tag>
+</professionOrOccupation>
+<dbpResource>http://dbpedia.org/resource/Thea_Beckman</dbpResource>
+<abstract>Thea Beckman (* 23. Juli 1923 in Rotterdam als Theodora Petie; † 5. Mai 2004 in Bunnik) war eine niederländische Schriftstellerin. Beckman befasste sich hauptsächlich mit Jugendliteratur.</abstract>
+<wikilink>http://en.wikipedia.org/wiki/Thea_Beckman?oldid=586670025</wikilink>
+<artworks />
+<buildings />
+<books>
+<XML_Serializer_Tag>
+<book>
+<type>uri</type>
+<value>http://dbpedia.org/resource/Crusade_in_Jeans</value>
+</book>
+<author>
+<type>uri</type>
+<value>http://dbpedia.org/resource/Thea_Beckman</value>
+</author>
+<released>
+<type>typed-literal</type>
+<datatype>http://www.w3.org/2001/XMLSchema#integer</datatype>
+<value>1973</value>
+</released>
+<wikilink>
+<type>uri</type>
+<value>http://en.wikipedia.org/wiki/Crusade_in_Jeans?oldid=551372282</value>
+</wikilink>
+<abstract>
+<type>literal</type>
+<xml:lang>de</xml:lang>
+<value>Kreuzzug in Jeans (orig. Kruistocht in spijkerbroek) ist ein 1973 erschienenes Kinderbuch der niederländischen Schriftstellerin Thea Beckman. Das Buch, das den Kinderkreuzzug von 1212 thematisiert, erschien in Deutschland zunächst unter dem Titel Kreuzzug ins Ungewisse.</value>
+</abstract>
+</XML_Serializer_Tag>
+</books>
+</Person>

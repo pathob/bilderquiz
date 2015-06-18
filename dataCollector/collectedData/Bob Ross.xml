@@ -16,8 +16,10 @@
 <XML_Serializer_Tag>Künstler</XML_Serializer_Tag>
 <XML_Serializer_Tag>Maler</XML_Serializer_Tag>
 </professionOrOccupation>
-<artworks />
 <dbpResource>http://dbpedia.org/resource/Bob_Ross</dbpResource>
 <abstract>Robert Norman „Bob“ Ross (* 29. Oktober 1942 in Daytona Beach, Florida; † 4. Juli 1995 in New Smyrna Beach, Florida) war ein US-amerikanischer Maler und Fernsehmoderator.</abstract>
 <wikilink>http://en.wikipedia.org/wiki/Bob_Ross?oldid=606236800</wikilink>
+<artworks />
+<buildings />
+<books />
 </Person>

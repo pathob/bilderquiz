@@ -19,8 +19,10 @@
 <XML_Serializer_Tag>Maler</XML_Serializer_Tag>
 <XML_Serializer_Tag>Bildhauer</XML_Serializer_Tag>
 </professionOrOccupation>
-<artworks />
 <dbpResource>http://dbpedia.org/resource/Eduardo_Chillida</dbpResource>
 <abstract>Eduardo Chillida (* 10. Januar 1924 in San Sebastián; † 19. August 2002 ebenda) war ein spanisch baskischer Bildhauer und Zeichner. Er gehört zu den bedeutendsten Bildhauern des 20. Jahrhunderts. Seine bekanntesten Werke sind große Skulpturen mit raumgreifenden Strukturen.</abstract>
 <wikilink>http://en.wikipedia.org/wiki/Eduardo_Chillida?oldid=601535441</wikilink>
+<artworks />
+<buildings />
+<books />
 </Person>

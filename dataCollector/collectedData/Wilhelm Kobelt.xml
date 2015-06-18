@@ -1,0 +1,26 @@
+<Person>
+<name>Wilhelm Kobelt</name>
+<variantName>
+<XML_Serializer_Tag>W. Kobelt</XML_Serializer_Tag>
+</variantName>
+<thumbnail>https://commons.wikimedia.org/wiki/Special:FilePath/Wilhelm_Kobelt_(um_1912).jpg?width=270</thumbnail>
+<birthEN>February 20, 1840</birthEN>
+<birthDE>20. Februar 1840</birthDE>
+<deathEN>March 16, 1916</deathEN>
+<deathDE>16. März 1916</deathDE>
+<birthPlace />
+<deathPlace />
+<professionOrOccupation>
+<XML_Serializer_Tag>Biologe</XML_Serializer_Tag>
+<XML_Serializer_Tag>Arzt</XML_Serializer_Tag>
+<XML_Serializer_Tag>Zoologe</XML_Serializer_Tag>
+<XML_Serializer_Tag>Naturwissenschaftler</XML_Serializer_Tag>
+<XML_Serializer_Tag>Schriftsteller</XML_Serializer_Tag>
+</professionOrOccupation>
+<dbpResource>http://dbpedia.org/resource/Wilhelm_Kobelt</dbpResource>
+<abstract>Wilhelm Kobelt (* 20. Februar 1840 in Alsfeld; † 16. März 1916 in Schwanheim) war ein deutscher Arzt, Professor, Heimatforscher, Autor und Zoologe, speziell Malakologe (Molluskenkundler). Kobelt war im Jahr 1868 Mitgründer der Deutschen Malakozoologischen Gesellschaft in der Senckenbergischen Naturforschenden Gesellschaft, deren Ehrenmitglied er war.</abstract>
+<wikilink>http://en.wikipedia.org/wiki/Wilhelm_Kobelt?oldid=605035645</wikilink>
+<artworks />
+<buildings />
+<books />
+</Person>

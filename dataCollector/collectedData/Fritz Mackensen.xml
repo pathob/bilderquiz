@@ -18,8 +18,10 @@
 <XML_Serializer_Tag>Bildhauer</XML_Serializer_Tag>
 <XML_Serializer_Tag>Radierer</XML_Serializer_Tag>
 </professionOrOccupation>
-<artworks />
 <dbpResource>http://dbpedia.org/resource/Fritz_Mackensen</dbpResource>
 <abstract>Fritz Mackensen (* 8. April 1866 in Greene bei Kreiensen; † 12. Mai 1953 in Bremen) war ein deutscher Maler, Mitbegründer der Künstlerkolonie Worpswede und Leiter der Nordischen Kunsthochschule, der heutigen Hochschule für Künste Bremen.</abstract>
 <wikilink>http://en.wikipedia.org/wiki/Fritz_Mackensen?oldid=602482308</wikilink>
+<artworks />
+<buildings />
+<books />
 </Person>

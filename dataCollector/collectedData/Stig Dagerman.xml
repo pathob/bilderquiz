@@ -1,0 +1,23 @@
+<Person>
+<name>Stig Dagerman</name>
+<variantName>
+<XML_Serializer_Tag>Stig H. Dagerman</XML_Serializer_Tag>
+<XML_Serializer_Tag>Stig Halvard Dagerman</XML_Serializer_Tag>
+</variantName>
+<thumbnail>https://commons.wikimedia.org/wiki/Special:FilePath/Stig_Dagerman_ca_1950.jpg?width=270</thumbnail>
+<birthEN>October 5, 1923</birthEN>
+<birthDE>5. Oktober 1923</birthDE>
+<deathEN>November 4, 1954</deathEN>
+<deathDE>4. November 1954</deathDE>
+<birthPlace />
+<deathPlace />
+<professionOrOccupation>
+<XML_Serializer_Tag>Schriftsteller</XML_Serializer_Tag>
+</professionOrOccupation>
+<dbpResource>http://dbpedia.org/resource/Stig_Dagerman</dbpResource>
+<abstract>Stig Halvard Dagerman (* 5. Oktober 1923 in Älvkarleby; † 4. November 1954 in Enebyberg bei Stockholm) war ein schwedischer Journalist und Schriftsteller.</abstract>
+<wikilink>http://en.wikipedia.org/wiki/Stig_Dagerman?oldid=606486159</wikilink>
+<artworks />
+<buildings />
+<books />
+</Person>

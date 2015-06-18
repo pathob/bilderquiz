@@ -1,0 +1,24 @@
+<Person>
+<name>Bernhard Hoetger</name>
+<variantName />
+<thumbnail>https://commons.wikimedia.org/wiki/Special:FilePath/Nicola_Perscheid_-_Berhard_Hoetger_um_1924.jpg?width=270</thumbnail>
+<birthEN>May 4, 1874</birthEN>
+<birthDE>4. Mai 1874</birthDE>
+<deathEN>July 18, 1949</deathEN>
+<deathDE>18. Juli 1949</deathDE>
+<birthPlace>
+<XML_Serializer_Tag>Dortmund</XML_Serializer_Tag>
+</birthPlace>
+<deathPlace>
+<XML_Serializer_Tag>Beatenberg</XML_Serializer_Tag>
+</deathPlace>
+<professionOrOccupation>
+<XML_Serializer_Tag>Künstler</XML_Serializer_Tag>
+</professionOrOccupation>
+<dbpResource>http://dbpedia.org/resource/Bernhard_Hoetger</dbpResource>
+<abstract>Bernhard Hoetger (* 4. Mai 1874 in Hörde (heute Dortmund-Hörde); † 18. Juli 1949 in Interlaken) war ein deutscher Bildhauer, Maler, Architekt und Kunsthandwerker des Expressionismus.</abstract>
+<wikilink>http://en.wikipedia.org/wiki/Bernhard_Hoetger?oldid=592697619</wikilink>
+<artworks />
+<buildings />
+<books />
+</Person>

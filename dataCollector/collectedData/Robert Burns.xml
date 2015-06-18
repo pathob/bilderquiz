@@ -1,0 +1,33 @@
+<Person>
+<name>Robert Burns</name>
+<variantName>
+<XML_Serializer_Tag>Robbie Burns</XML_Serializer_Tag>
+<XML_Serializer_Tag>Rob. Burns</XML_Serializer_Tag>
+<XML_Serializer_Tag>Robert Berns</XML_Serializer_Tag>
+<XML_Serializer_Tag>R. Burns</XML_Serializer_Tag>
+<XML_Serializer_Tag>Rt. Burns</XML_Serializer_Tag>
+<XML_Serializer_Tag>... Burns</XML_Serializer_Tag>
+<XML_Serializer_Tag>R. Bërns</XML_Serializer_Tag>
+<XML_Serializer_Tag>Bunrs ...</XML_Serializer_Tag>
+</variantName>
+<thumbnail>https://commons.wikimedia.org/wiki/Special:FilePath/Robert_Burns_1.jpg?width=270</thumbnail>
+<birthEN>January 25, 1759</birthEN>
+<birthDE>25. Januar 1759</birthDE>
+<deathEN>July 21, 1796</deathEN>
+<deathDE>21. Juli 1796</deathDE>
+<birthPlace>
+<XML_Serializer_Tag>Alloway (Ayshire)</XML_Serializer_Tag>
+</birthPlace>
+<deathPlace>
+<XML_Serializer_Tag>Dumfries</XML_Serializer_Tag>
+</deathPlace>
+<professionOrOccupation>
+<XML_Serializer_Tag>Schriftsteller</XML_Serializer_Tag>
+</professionOrOccupation>
+<dbpResource>http://dbpedia.org/resource/Robert_Burns_(representative)</dbpResource>
+<abstract>Robert Burns (* 12. Dezember 1792 in Hudson, Hillsborough County, New Hampshire; † 26. Juni 1866 in Plymouth, New Hampshire) war ein US-amerikanischer Politiker. Zwischen 1833 und 1837 vertrat er den Bundesstaat New Hampshire im US-Repräsentantenhaus.</abstract>
+<wikilink>http://en.wikipedia.org/wiki/Robert_Burns_(representative)?oldid=544834427</wikilink>
+<artworks />
+<buildings />
+<books />
+</Person>

@@ -15,8 +15,10 @@
 <XML_Serializer_Tag>Maler</XML_Serializer_Tag>
 <XML_Serializer_Tag>Architekt</XML_Serializer_Tag>
 </professionOrOccupation>
-<artworks />
 <dbpResource>http://dbpedia.org/resource/Francesco_Solimena</dbpResource>
 <abstract>Francesco Solimena, genannt L’abate Ciccio (* 4. Oktober 1657 in Canale di Serino (Kampanien); † 3. April 1747 in Barra bei Neapel) war ein italienischer Maler. Er gilt neben Luca Giordano, der ihn stark beeinflusste, als der wichtigste Exponent der neapolitanischen Malerei seiner Zeit.</abstract>
 <wikilink>http://en.wikipedia.org/wiki/Francesco_Solimena?oldid=603258061</wikilink>
+<artworks />
+<buildings />
+<books />
 </Person>

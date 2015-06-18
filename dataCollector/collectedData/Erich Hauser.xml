@@ -1,0 +1,27 @@
+<Person>
+<name>Erich Hauser</name>
+<variantName>
+<XML_Serializer_Tag>Erich Ludwig Hauser</XML_Serializer_Tag>
+</variantName>
+<thumbnail>https://commons.wikimedia.org/wiki/Special:FilePath/Erichhauser.jpg?width=270</thumbnail>
+<birthEN>December 15, 1930</birthEN>
+<birthDE>15. Dezember 1930</birthDE>
+<deathEN>March 28, 2004</deathEN>
+<deathDE>28. März 2004</deathDE>
+<birthPlace>
+<XML_Serializer_Tag>Rietheim</XML_Serializer_Tag>
+</birthPlace>
+<deathPlace>
+<XML_Serializer_Tag>Rottweil</XML_Serializer_Tag>
+</deathPlace>
+<professionOrOccupation>
+<XML_Serializer_Tag>Künstler</XML_Serializer_Tag>
+<XML_Serializer_Tag>Bildhauer</XML_Serializer_Tag>
+</professionOrOccupation>
+<dbpResource>http://dbpedia.org/resource/Erich_Hauser</dbpResource>
+<abstract>Erich Hauser (* 15. Dezember 1930 in Rietheim-Weilheim; † 28. März 2004 in Rottweil) war ein deutscher Bildhauer.</abstract>
+<wikilink>http://en.wikipedia.org/wiki/Erich_Hauser?oldid=556582106</wikilink>
+<artworks />
+<buildings />
+<books />
+</Person>

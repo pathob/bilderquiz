@@ -16,8 +16,10 @@
 <professionOrOccupation>
 <XML_Serializer_Tag>Maler</XML_Serializer_Tag>
 </professionOrOccupation>
-<artworks />
 <dbpResource>http://dbpedia.org/resource/Antoine_Pesne</dbpResource>
 <abstract>Antoine Pesne [pɛ:n] (* 29. Mai 1683 in Paris; † 5. August 1757 in Berlin) war seit dem Jahr 1711 Hofmaler in Preußen und seit 1722 Direktor der Berliner Kunstakademie.</abstract>
 <wikilink>http://en.wikipedia.org/wiki/Antoine_Pesne?oldid=586303375</wikilink>
+<artworks />
+<buildings />
+<books />
 </Person>

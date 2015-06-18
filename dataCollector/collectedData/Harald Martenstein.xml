@@ -1,0 +1,25 @@
+<Person>
+<name>Harald Martenstein</name>
+<variantName />
+<thumbnail>https://commons.wikimedia.org/wiki/Special:FilePath/Harald_Martenstein.jpg?width=270</thumbnail>
+<birthEN>1953</birthEN>
+<birthDE>1953</birthDE>
+<deathEN />
+<deathDE />
+<birthPlace>
+<XML_Serializer_Tag>Mainz</XML_Serializer_Tag>
+</birthPlace>
+<deathPlace />
+<professionOrOccupation>
+<XML_Serializer_Tag>Journalist</XML_Serializer_Tag>
+<XML_Serializer_Tag>Redakteur</XML_Serializer_Tag>
+<XML_Serializer_Tag>Schriftsteller</XML_Serializer_Tag>
+<XML_Serializer_Tag>Dozent</XML_Serializer_Tag>
+</professionOrOccupation>
+<dbpResource>http://dbpedia.org/resource/Harald_Martenstein</dbpResource>
+<abstract>Harald Martenstein (* 9. September 1953 in Mainz) ist ein deutscher Journalist und Autor.</abstract>
+<wikilink>http://en.wikipedia.org/wiki/Harald_Martenstein?oldid=551390280</wikilink>
+<artworks />
+<buildings />
+<books />
+</Person>

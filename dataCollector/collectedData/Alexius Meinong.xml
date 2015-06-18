@@ -1,0 +1,30 @@
+<Person>
+<name>Alexius Meinong</name>
+<variantName>
+<XML_Serializer_Tag>Alexius von Meinong</XML_Serializer_Tag>
+<XML_Serializer_Tag>Alexius Meinong von Handschuchsheim</XML_Serializer_Tag>
+<XML_Serializer_Tag>Alexius Meinong von Handschuchsheimm</XML_Serializer_Tag>
+<XML_Serializer_Tag>A. Meinong</XML_Serializer_Tag>
+</variantName>
+<thumbnail>https://commons.wikimedia.org/wiki/Special:FilePath/Meinong.jpg?width=270</thumbnail>
+<birthEN>July 17, 1853</birthEN>
+<birthDE>17. Juli 1853</birthDE>
+<deathEN>November 27, 1920</deathEN>
+<deathDE>27. November 1920</deathDE>
+<birthPlace>
+<XML_Serializer_Tag>Lemberg</XML_Serializer_Tag>
+</birthPlace>
+<deathPlace>
+<XML_Serializer_Tag>Graz</XML_Serializer_Tag>
+</deathPlace>
+<professionOrOccupation>
+<XML_Serializer_Tag>Psychologe</XML_Serializer_Tag>
+<XML_Serializer_Tag>Philosoph</XML_Serializer_Tag>
+</professionOrOccupation>
+<dbpResource>http://dbpedia.org/resource/Alexius_Meinong</dbpResource>
+<abstract>Alexius Meinong Ritter von Handschuchsheim (* 17. Juli 1853 in Lemberg; † 27. November 1920 in Graz), war ein österreichischer Philosoph und Psychologe, bekannt vor allem für seine Gegenstandstheorie, die vom Gedankengut seines Lehrers Franz Brentano geprägt ist.Alexius Meinong promovierte in Geschichte an der Wiener Universität, die er im Herbst 1870 bezog, wandte sich dann jedoch, nachdem er sich im Herbst 1874 als ordentlicher Hörer in die juristische Fakultät eintrug, Ende des Wintersemesters 1874/75 der Philosophie Franz Brentanos zu. 1878 trat er die Nachfolge von Alois Riehl an der Karl-Franzens-Universität Graz an, wo er 1882 auf ein Extraordinariat für Philosophie berufen wurde und 1889 zum ordentlichen Professor ernannt wurde. Bis zu seinem Tode 1920 wirkte er in Graz, wo er die so genannte Grazer Schule begründete. 1886/87 begann er experimentalpsychologische Übungen abzuhalten und richtete 1894 das erste experimentalpsychologische Laboratorium in Österreich ein („Psychologisches Laboratorium der Universität Graz“). Sein Nachlass befindet sich in der Universitätsbibliothek Graz.Kerngedanke der Gegenstandstheorie ist, dass jeder Wahrnehmungsakt und generell jedes Erleben „intentional“ in dem Sinne ist, dass sein Inhalt „auf etwas gerichtet“ ist, auf einen „Gegenstand“ Bezug nimmt.</abstract>
+<wikilink>http://en.wikipedia.org/wiki/Alexius_Meinong?oldid=585702883</wikilink>
+<artworks />
+<buildings />
+<books />
+</Person>

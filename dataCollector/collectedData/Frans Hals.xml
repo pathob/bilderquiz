@@ -15,12 +15,15 @@
 <XML_Serializer_Tag>Künstler</XML_Serializer_Tag>
 <XML_Serializer_Tag>Maler</XML_Serializer_Tag>
 </professionOrOccupation>
+<dbpResource>http://dbpedia.org/resource/Frans_Hals</dbpResource>
+<abstract>Frans Hals (* zwischen 1580 und 1585 in Antwerpen; † 10. August 1666 in Haarlem) war ein holländischer Maler. Er wird zu den bedeutendsten Porträtmalern gezählt.</abstract>
+<wikilink>http://en.wikipedia.org/wiki/Frans_Hals?oldid=606590328</wikilink>
 <artworks>
 <XML_Serializer_Tag>
-<painting>
+<artwork>
 <type>uri</type>
 <value>http://dbpedia.org/resource/Portrait_of_Isaak_Abrahamsz._Massa</value>
-</painting>
+</artwork>
 <thumbnail>
 <type>uri</type>
 <value>http://commons.wikimedia.org/wiki/Special:FilePath/Portrait_of_Isaac_Abrahamsz._Massa_by_Frans_Hals.png?width=300</value>
@@ -39,12 +42,16 @@
 <type>uri</type>
 <value>http://en.wikipedia.org/wiki/Portrait_of_Isaak_Abrahamsz._Massa?oldid=592264662</value>
 </wikilink>
+<type>
+<type>uri</type>
+<value>http://dbpedia.org/resource/Oil_painting</value>
+</type>
 </XML_Serializer_Tag>
 <XML_Serializer_Tag>
-<painting>
+<artwork>
 <type>uri</type>
 <value>http://dbpedia.org/resource/Portrait_of_Dorothea_Berck</value>
-</painting>
+</artwork>
 <thumbnail>
 <type>uri</type>
 <value>http://commons.wikimedia.org/wiki/Special:FilePath/Frans_Hals_-_Dorothea_Berck_1644.jpg?width=300</value>
@@ -58,9 +65,12 @@
 <type>uri</type>
 <value>http://en.wikipedia.org/wiki/Portrait_of_Dorothea_Berck?oldid=576741539</value>
 </wikilink>
+<type>
+<type>uri</type>
+<value>http://dbpedia.org/resource/Oil_painting</value>
+</type>
 </XML_Serializer_Tag>
 </artworks>
-<dbpResource>http://dbpedia.org/resource/Frans_Hals</dbpResource>
-<abstract>Frans Hals (* zwischen 1580 und 1585 in Antwerpen; † 10. August 1666 in Haarlem) war ein holländischer Maler. Er wird zu den bedeutendsten Porträtmalern gezählt.</abstract>
-<wikilink>http://en.wikipedia.org/wiki/Frans_Hals?oldid=606590328</wikilink>
+<buildings />
+<books />
 </Person>

@@ -1,0 +1,25 @@
+<Person>
+<name>Till Lindemann</name>
+<variantName />
+<thumbnail>https://commons.wikimedia.org/wiki/Special:FilePath/Till_lindemann.jpg?width=270</thumbnail>
+<birthEN>1963</birthEN>
+<birthDE>1963</birthDE>
+<deathEN />
+<deathDE />
+<birthPlace>
+<XML_Serializer_Tag>Leipzig</XML_Serializer_Tag>
+</birthPlace>
+<deathPlace />
+<professionOrOccupation>
+<XML_Serializer_Tag>Sänger</XML_Serializer_Tag>
+<XML_Serializer_Tag>Lyriker</XML_Serializer_Tag>
+<XML_Serializer_Tag>Musiker</XML_Serializer_Tag>
+<XML_Serializer_Tag>Schauspieler</XML_Serializer_Tag>
+</professionOrOccupation>
+<dbpResource>http://dbpedia.org/resource/Till_Lindemann</dbpResource>
+<abstract>Till Lindemann (* 4. Januar 1963 in Leipzig) ist ein deutscher Sänger, Schlagzeuger, Dichter, gelegentlich auch Schauspieler und bildender Künstler. Er ist bekannt als Frontsänger der Band Rammstein in den Tonlagen Bass und Bariton, selten Alt. Neben seiner Tätigkeit als Textdichter für Rammstein schreibt er auch unabhängig davon Gedichte.</abstract>
+<wikilink>http://en.wikipedia.org/wiki/Till_Lindemann?oldid=603020722</wikilink>
+<artworks />
+<buildings />
+<books />
+</Person>

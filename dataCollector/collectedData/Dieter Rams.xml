@@ -1,0 +1,26 @@
+<Person>
+<name>Dieter Rams</name>
+<variantName />
+<thumbnail>https://en.wikipedia.org/wiki/Special:FilePath/Designer-Dieter_Rams-at-Vitsœ.jpg?width=270</thumbnail>
+<birthEN>1932</birthEN>
+<birthDE>1932</birthDE>
+<deathEN />
+<deathDE />
+<birthPlace>
+<XML_Serializer_Tag>Wiesbaden</XML_Serializer_Tag>
+</birthPlace>
+<deathPlace />
+<professionOrOccupation>
+<XML_Serializer_Tag>Designer</XML_Serializer_Tag>
+<XML_Serializer_Tag>Industriedesigner</XML_Serializer_Tag>
+<XML_Serializer_Tag>Architekt</XML_Serializer_Tag>
+<XML_Serializer_Tag>Innenarchitekt</XML_Serializer_Tag>
+<XML_Serializer_Tag>Tischler</XML_Serializer_Tag>
+</professionOrOccupation>
+<dbpResource>http://dbpedia.org/resource/Dieter_Rams</dbpResource>
+<abstract>Dieter Rams (* 20. Mai 1932 in Wiesbaden) ist ein deutscher Industriedesigner der Moderne. Ziel seiner Entwürfe ist die Klarheit der Form, Materialgerechtigkeit und einfache Bedienbarkeit. Er steht gestalterisch der Hochschule für Gestaltung Ulm nahe.</abstract>
+<wikilink>http://en.wikipedia.org/wiki/Dieter_Rams?oldid=606015923</wikilink>
+<artworks />
+<buildings />
+<books />
+</Person>

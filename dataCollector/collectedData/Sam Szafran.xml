@@ -13,8 +13,10 @@
 <professionOrOccupation>
 <XML_Serializer_Tag>Maler</XML_Serializer_Tag>
 </professionOrOccupation>
-<artworks />
 <dbpResource>http://dbpedia.org/resource/Sam_Szafran</dbpResource>
 <abstract>Sam Szafran (* 19. November 1934 in Paris) ist ein französischer Künstler.</abstract>
 <wikilink>http://en.wikipedia.org/wiki/Sam_Szafran?oldid=599526709</wikilink>
+<artworks />
+<buildings />
+<books />
 </Person>

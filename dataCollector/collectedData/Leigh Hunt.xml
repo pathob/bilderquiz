@@ -1,0 +1,38 @@
+<Person>
+<name>Leigh Hunt</name>
+<variantName>
+<XML_Serializer_Tag>James Henry Leigh Hunt</XML_Serializer_Tag>
+<XML_Serializer_Tag>James H. Hunt</XML_Serializer_Tag>
+</variantName>
+<thumbnail>https://commons.wikimedia.org/wiki/Special:FilePath/James_Henry_Leigh_Hunt_by_Benjamin_Robert_Haydon.jpg?width=270</thumbnail>
+<birthEN>1784</birthEN>
+<birthDE>1784</birthDE>
+<deathEN>1859</deathEN>
+<deathDE>1859</deathDE>
+<birthPlace />
+<deathPlace />
+<professionOrOccupation>
+<XML_Serializer_Tag>Schriftsteller</XML_Serializer_Tag>
+</professionOrOccupation>
+<dbpResource>http://dbpedia.org/resource/Leigh_Hunt</dbpResource>
+<abstract>James Henry Leigh Hunt (* 19. Oktober 1784 in Southgate; † 28. August 1859 in Putney) war ein englischer Schriftsteller.Hunt ließ schon als Schüler der Christ&apos;s Hospital-Schule in London mehrere Essays and juvenile poems im Juvenile Preceptor drucken, arbeitete hierauf längere Zeit bei einem Attorney und erhielt sodann eine Staatsanstellung, die er aber wieder aufgab, um sich vorzugsweise der theatralischen Kritik zu widmen.Aus dieser Zeit stammen seine vortrefflichen Essays über Theater und dramatische Kunst, die 1807 unter dem Titel: Critical essays on the performances of the London theatres gesammelt erschienen. Schonungslos in Besprechung kirchlicher und politischer Verhältnisse und Personen, z. B. in den Pamphleten: On the folly and danger of methodism (1809) und The reformist&apos;s reply to an article on the state of parties in the Edinburgh Review (1809), wusste er den Radikalismus am geistreichsten in die Londoner Journalistik einzuführen, besonders in dem von ihm gemeinschaftlich mit seinem Bruder John 1808 gegründeten und im radikal-whiggistischen Geist geschriebenen Examiner.Wegen eines Libells (Libell (lat. libellus, „kleines Buch“), bei den Römern gerichtliche Klageschrift; auch s. v. w. Schmähschrift, daher Libellist, Schmähschriftsteller) auf den Prinz-Regenten, nachmaligen König Georg IV., wurde er zu zweijähriger Einkerkerung verurteilt, wofür er sich durch seinen Report of an information, filed ex officio by the Attorney general with observations rächte. Später sich ausschließlich der Poesie zuwendend, gründete er durch das echt romantische Gedicht The story of Rimini (1816) seinen Ruf als Dichter; andre Poesien, wie Foliage, The feast of the poets folgten nach.1822 gab er mit Lord Byron in Italien die extrem liberale Zeitschrift The Liberal heraus, die indessen kein Glück machte; desto größeres Aufsehen erregte er später mit dem Buch Lord Byron and some of his contemporaries (1828).Erwähnenswert sind das Drama A legend of Florence (1840) und das erzählende Gedicht The Pallrey, a love-story of old times (1842), worin die üppige Einbildungskraft, ungewöhnliche Sprachgewandtheit und pittoreske Darstellungsgabe des Verfassers glänzend hervortreten.Weitere Werke sind: Classic tales (1833, 5 Bände); das komische Gedicht Captain Sword and Captain Pen (1835); die Romane: Sir Ralph Esher (1832) und Imagination and fancy (1845); Men, Women and books (1847, 2 Bände); The town (1848); Autobiography and reminiscences (1850, 3 Bände); The fourth estate, eine Geschichte der englischen Presse (1852); The religion of the heart&quot;, Darlegung seiner Ansichten über natürliche Religion (1853); Notices of Wycherley, Congreve, Vanbrugh and Farquhar (1855). The old Court Suburb, Beschreibung der Londoner Vorstadt Kensington (1855, 2 Bände), u. a.Er übersetzte auch Torquato Tassos Aminta und erwarb sich durch seine treffliche Modernisierung Chaucers ein großes Verdienst.</abstract>
+<wikilink>http://en.wikipedia.org/wiki/Leigh_Hunt?oldid=602269296</wikilink>
+<artworks />
+<buildings />
+<books>
+<XML_Serializer_Tag>
+<book>
+<type>uri</type>
+<value>http://dbpedia.org/resource/The_Round_Table_(1817_book)</value>
+</book>
+<author>
+<type>uri</type>
+<value>http://dbpedia.org/resource/Leigh_Hunt</value>
+</author>
+<wikilink>
+<type>uri</type>
+<value>http://en.wikipedia.org/wiki/The_Round_Table_(1817_book)?oldid=587621588</value>
+</wikilink>
+</XML_Serializer_Tag>
+</books>
+</Person>

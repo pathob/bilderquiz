@@ -1,0 +1,32 @@
+<Person>
+<name>Gustav Stresemann</name>
+<variantName>
+<XML_Serializer_Tag>Gustave Stresemann</XML_Serializer_Tag>
+<XML_Serializer_Tag>G. Stresemann</XML_Serializer_Tag>
+</variantName>
+<thumbnail>https://commons.wikimedia.org/wiki/Special:FilePath/Bundesarchiv_Bild_146-1989-040-27,_Gustav_Stresemann.jpg?width=270</thumbnail>
+<birthEN>May 10, 1878</birthEN>
+<birthDE>10. Mai 1878</birthDE>
+<deathEN>October 3, 1929</deathEN>
+<deathDE>3. Oktober 1929</deathDE>
+<birthPlace>
+<XML_Serializer_Tag>Berlin</XML_Serializer_Tag>
+</birthPlace>
+<deathPlace>
+<XML_Serializer_Tag>Berlin</XML_Serializer_Tag>
+</deathPlace>
+<professionOrOccupation>
+<XML_Serializer_Tag>Politiker</XML_Serializer_Tag>
+<XML_Serializer_Tag>Abgeordneter</XML_Serializer_Tag>
+<XML_Serializer_Tag>Reichskanzler</XML_Serializer_Tag>
+<XML_Serializer_Tag>Außenminister</XML_Serializer_Tag>
+<XML_Serializer_Tag>Friedensnobelpreisträger</XML_Serializer_Tag>
+<XML_Serializer_Tag>Autor</XML_Serializer_Tag>
+</professionOrOccupation>
+<dbpResource>http://dbpedia.org/resource/K%C3%A4te_Stresemann</dbpResource>
+<abstract>Käte Stresemann, geborene Kleefeld (* 15. Juli 1883 in Berlin-Lankwitz; † Juli 1970 in New York City) war die Ehefrau von Gustav Stresemann (1878–1929).</abstract>
+<wikilink>http://en.wikipedia.org/wiki/Käte_Stresemann?oldid=542831038</wikilink>
+<artworks />
+<buildings />
+<books />
+</Person>

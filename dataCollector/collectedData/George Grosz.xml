@@ -32,12 +32,15 @@
 <XML_Serializer_Tag>Künstler</XML_Serializer_Tag>
 <XML_Serializer_Tag>Kameramann</XML_Serializer_Tag>
 </professionOrOccupation>
+<dbpResource>http://dbpedia.org/resource/George_Grosz</dbpResource>
+<abstract>George Grosz (* 26. Juli 1893 als Georg Ehrenfried Groß in Berlin; † 6. Juli 1959 ebenda) war ein deutsch-amerikanischer Maler, Grafiker und Karikaturist.Mit George Grosz werden vor allem seine der Neuen Sachlichkeit zugerechneten, sozial- und gesellschaftskritischen Gemälde und Zeichnungen in Verbindung gebracht, die überwiegend in den 1920er-Jahren entstanden sind und sich durch zum Teil äußerst drastische und provokative Darstellungen und häufig durch politische Aussagen auszeichnen. Typische Sujets sind die Großstadt, ihre Abseitigkeiten (Mord, Perversion, Gewalt) sowie die Klassengegensätze, die sich in ihr zeigen. Im Vergleich zu ähnlichen Bildern von Otto Dix aus dieser Zeit ist Grosz meist der aggressivere und politischere. In seinen Werken, oft Karikaturen, verspottet er die herrschenden Kreise der Weimarer Republik, greift soziale Gegensätze auf und kritisiert insbesondere Wirtschaft, Politik, Militär und Klerus.</abstract>
+<wikilink>http://en.wikipedia.org/wiki/George_Grosz?oldid=606141625</wikilink>
 <artworks>
 <XML_Serializer_Tag>
-<painting>
+<artwork>
 <type>uri</type>
 <value>http://dbpedia.org/resource/The_Funeral_(Grosz)</value>
-</painting>
+</artwork>
 <thumbnail>
 <type>uri</type>
 <value>http://commons.wikimedia.org/wiki/Special:FilePath/Danse_macabre_by_Michael_Wolgemut.png?width=300</value>
@@ -56,9 +59,13 @@
 <type>uri</type>
 <value>http://en.wikipedia.org/wiki/The_Funeral_(Grosz)?oldid=601491146</value>
 </wikilink>
+<type>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>Oil on canvas</value>
+</type>
 </XML_Serializer_Tag>
 </artworks>
-<dbpResource>http://dbpedia.org/resource/George_Grosz</dbpResource>
-<abstract>George Grosz (* 26. Juli 1893 als Georg Ehrenfried Groß in Berlin; † 6. Juli 1959 ebenda) war ein deutsch-amerikanischer Maler, Grafiker und Karikaturist.Mit George Grosz werden vor allem seine der Neuen Sachlichkeit zugerechneten, sozial- und gesellschaftskritischen Gemälde und Zeichnungen in Verbindung gebracht, die überwiegend in den 1920er-Jahren entstanden sind und sich durch zum Teil äußerst drastische und provokative Darstellungen und häufig durch politische Aussagen auszeichnen. Typische Sujets sind die Großstadt, ihre Abseitigkeiten (Mord, Perversion, Gewalt) sowie die Klassengegensätze, die sich in ihr zeigen. Im Vergleich zu ähnlichen Bildern von Otto Dix aus dieser Zeit ist Grosz meist der aggressivere und politischere. In seinen Werken, oft Karikaturen, verspottet er die herrschenden Kreise der Weimarer Republik, greift soziale Gegensätze auf und kritisiert insbesondere Wirtschaft, Politik, Militär und Klerus.</abstract>
-<wikilink>http://en.wikipedia.org/wiki/George_Grosz?oldid=606141625</wikilink>
+<buildings />
+<books />
 </Person>

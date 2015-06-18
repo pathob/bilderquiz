@@ -1,0 +1,30 @@
+<Person>
+<name>Walter Kempowski</name>
+<variantName>
+<XML_Serializer_Tag>Valʹter Kempovski</XML_Serializer_Tag>
+<XML_Serializer_Tag>Waruta Kempousuki</XML_Serializer_Tag>
+<XML_Serializer_Tag>Valters Kempovskis</XML_Serializer_Tag>
+</variantName>
+<thumbnail>https://commons.wikimedia.org/wiki/Special:FilePath/Kempowski.jpg?width=270</thumbnail>
+<birthEN>April 29, 1929</birthEN>
+<birthDE>29. April 1929</birthDE>
+<deathEN>October 5, 2007</deathEN>
+<deathDE>5. Oktober 2007</deathDE>
+<birthPlace>
+<XML_Serializer_Tag>Rostock</XML_Serializer_Tag>
+</birthPlace>
+<deathPlace>
+<XML_Serializer_Tag>Rotenburg (Wümme)</XML_Serializer_Tag>
+</deathPlace>
+<professionOrOccupation>
+<XML_Serializer_Tag>Pädagoge</XML_Serializer_Tag>
+<XML_Serializer_Tag>Lehrer</XML_Serializer_Tag>
+<XML_Serializer_Tag>Schriftsteller</XML_Serializer_Tag>
+</professionOrOccupation>
+<dbpResource>http://dbpedia.org/resource/Walter_Kempowski</dbpResource>
+<abstract>Walter Kempowski (* 29. April 1929 in Rostock; † 5. Oktober 2007 in Rotenburg an der Wümme) war ein deutscher Schriftsteller. Er wurde vor allem durch seine stark autobiografisch geprägten Romane der Deutschen Chronik bekannt sowie durch sein Projekt Das Echolot, in dem er Tagebücher, Briefe und andere Alltagszeugnisse zu Zeitgemälden collagierte.</abstract>
+<wikilink>http://en.wikipedia.org/wiki/Walter_Kempowski?oldid=590268208</wikilink>
+<artworks />
+<buildings />
+<books />
+</Person>

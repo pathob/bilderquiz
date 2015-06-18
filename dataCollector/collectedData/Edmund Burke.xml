@@ -1,0 +1,55 @@
+<Person>
+<name>Edmund Burke</name>
+<variantName>
+<XML_Serializer_Tag>Edmund Bundelcund</XML_Serializer_Tag>
+<XML_Serializer_Tag>Edmond Burke</XML_Serializer_Tag>
+<XML_Serializer_Tag>E. Burke</XML_Serializer_Tag>
+<XML_Serializer_Tag>Ėdmund Be͏̈rk</XML_Serializer_Tag>
+</variantName>
+<thumbnail>https://commons.wikimedia.org/wiki/Special:FilePath/EdmundBurke1771.jpg?width=270</thumbnail>
+<birthEN>January 12, 1729</birthEN>
+<birthDE>12. Januar 1729</birthDE>
+<deathEN>July 9, 1797</deathEN>
+<deathDE>9. Juli 1797</deathDE>
+<birthPlace>
+<XML_Serializer_Tag>Beaconsfield</XML_Serializer_Tag>
+</birthPlace>
+<deathPlace>
+<XML_Serializer_Tag>Dublin</XML_Serializer_Tag>
+</deathPlace>
+<professionOrOccupation>
+<XML_Serializer_Tag>Politiker</XML_Serializer_Tag>
+<XML_Serializer_Tag>Philosoph</XML_Serializer_Tag>
+<XML_Serializer_Tag>Schriftsteller</XML_Serializer_Tag>
+</professionOrOccupation>
+<dbpResource>http://dbpedia.org/resource/Edmund_Burke</dbpResource>
+<abstract>Edmund Burke (Aussprache: [bə:k]) (* 1. Januarjul./ 12. Januar 1729greg. in Dublin; † 9. Juli 1797 in Beaconsfield) war ein irisch-britischer Schriftsteller, Staatsphilosoph und Politiker in der Zeit der Aufklärung. Er gilt als geistiger Vater des Konservatismus.</abstract>
+<wikilink>http://en.wikipedia.org/wiki/Edmund_Burke?oldid=604803431</wikilink>
+<artworks />
+<buildings />
+<books>
+<XML_Serializer_Tag>
+<book>
+<type>uri</type>
+<value>http://dbpedia.org/resource/An_Appeal_from_the_New_to_the_Old_Whigs</value>
+</book>
+<author>
+<type>uri</type>
+<value>http://dbpedia.org/resource/Edmund_Burke</value>
+</author>
+<thumbnail>
+<type>uri</type>
+<value>http://commons.wikimedia.org/wiki/Special:FilePath/EdmundBurke1771.jpg?width=300</value>
+</thumbnail>
+<released>
+<type>typed-literal</type>
+<datatype>http://www.w3.org/2001/XMLSchema#date</datatype>
+<value>1791-08-03+02:00</value>
+</released>
+<wikilink>
+<type>uri</type>
+<value>http://en.wikipedia.org/wiki/An_Appeal_from_the_New_to_the_Old_Whigs?oldid=595516640</value>
+</wikilink>
+</XML_Serializer_Tag>
+</books>
+</Person>

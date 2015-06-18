@@ -1,0 +1,29 @@
+<Person>
+<name>Helmut Krausser</name>
+<variantName>
+<XML_Serializer_Tag>He er mu te Ke lao si</XML_Serializer_Tag>
+<XML_Serializer_Tag>He&apos;ermute-Kelaosi</XML_Serializer_Tag>
+<XML_Serializer_Tag>Chelʹmut Krausser</XML_Serializer_Tag>
+</variantName>
+<thumbnail>https://commons.wikimedia.org/wiki/Special:FilePath/Helmut_krausser_2009.jpg?width=270</thumbnail>
+<birthEN>1964</birthEN>
+<birthDE>1964</birthDE>
+<deathEN />
+<deathDE />
+<birthPlace>
+<XML_Serializer_Tag>Esslingen am Neckar</XML_Serializer_Tag>
+</birthPlace>
+<deathPlace />
+<professionOrOccupation>
+<XML_Serializer_Tag>Journalist</XML_Serializer_Tag>
+<XML_Serializer_Tag>Rezensent</XML_Serializer_Tag>
+<XML_Serializer_Tag>Komponist</XML_Serializer_Tag>
+<XML_Serializer_Tag>Schriftsteller</XML_Serializer_Tag>
+</professionOrOccupation>
+<dbpResource>http://dbpedia.org/resource/Helmut_Krausser</dbpResource>
+<abstract>Helmut Krausser (* 11. Juli 1964 in Esslingen am Neckar) ist ein deutscher Schriftsteller, Dichter und Bühnenautor.</abstract>
+<wikilink>http://en.wikipedia.org/wiki/Helmut_Krausser?oldid=590266901</wikilink>
+<artworks />
+<buildings />
+<books />
+</Person>

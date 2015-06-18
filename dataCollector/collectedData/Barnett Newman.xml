@@ -13,12 +13,15 @@
 <XML_Serializer_Tag>Maler</XML_Serializer_Tag>
 <XML_Serializer_Tag>Graphiker</XML_Serializer_Tag>
 </professionOrOccupation>
+<dbpResource>http://dbpedia.org/resource/Barnett_Newman</dbpResource>
+<abstract>Barnett Newman (* 29. Januar 1905 in New York; † 4. Juli 1970 ebenda) war ein amerikanischer Maler und Bildhauer. Er war der Vertreter eines meditativen Expressionismus und prägte das Colour Field Painting (Farbfeldmalerei).</abstract>
+<wikilink>http://en.wikipedia.org/wiki/Barnett_Newman?oldid=606331279</wikilink>
 <artworks>
 <XML_Serializer_Tag>
-<painting>
+<artwork>
 <type>uri</type>
 <value>http://dbpedia.org/resource/Voice_of_Fire</value>
-</painting>
+</artwork>
 <thumbnail>
 <type>uri</type>
 <value>http://commons.wikimedia.org/wiki/Special:FilePath/Voice_of_Fire_photo.jpg?width=300</value>
@@ -37,9 +40,12 @@
 <type>uri</type>
 <value>http://en.wikipedia.org/wiki/Voice_of_Fire?oldid=601671677</value>
 </wikilink>
+<type>
+<type>uri</type>
+<value>http://dbpedia.org/resource/Acrylic_paint</value>
+</type>
 </XML_Serializer_Tag>
 </artworks>
-<dbpResource>http://dbpedia.org/resource/Barnett_Newman</dbpResource>
-<abstract>Barnett Newman (* 29. Januar 1905 in New York; † 4. Juli 1970 ebenda) war ein amerikanischer Maler und Bildhauer. Er war der Vertreter eines meditativen Expressionismus und prägte das Colour Field Painting (Farbfeldmalerei).</abstract>
-<wikilink>http://en.wikipedia.org/wiki/Barnett_Newman?oldid=606331279</wikilink>
+<buildings />
+<books />
 </Person>

@@ -1,0 +1,23 @@
+<Person>
+<name>Giorgio Morandi</name>
+<variantName>
+<XML_Serializer_Tag>Qiao zhi Mo lan di</XML_Serializer_Tag>
+<XML_Serializer_Tag>Qiaozhi-Molandi</XML_Serializer_Tag>
+</variantName>
+<thumbnail>https://en.wikipedia.org/wiki/Special:FilePath/&apos;Natura_Morta&apos;,_oil_on_canvas_painting_by_Giorgio_Morandi,_1956,_private_collection.jpg?width=270</thumbnail>
+<birthEN>1890</birthEN>
+<birthDE>1890</birthDE>
+<deathEN>1964</deathEN>
+<deathDE>1964</deathDE>
+<birthPlace />
+<deathPlace />
+<professionOrOccupation>
+<XML_Serializer_Tag>Künstler</XML_Serializer_Tag>
+</professionOrOccupation>
+<dbpResource>http://dbpedia.org/resource/Giorgio_Morandi</dbpResource>
+<abstract>Giorgio Morandi (* 20. Juli 1890 in Bologna; † 18. Juni 1964 ebenda.) war ein italienischer Maler und Grafiker, der vor allem für seine Stillleben zu weltweiter Anerkennung gelangte.</abstract>
+<wikilink>http://en.wikipedia.org/wiki/Giorgio_Morandi?oldid=602487725</wikilink>
+<artworks />
+<buildings />
+<books />
+</Person>

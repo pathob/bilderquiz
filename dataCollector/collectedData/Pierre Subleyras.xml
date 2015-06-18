@@ -15,8 +15,10 @@
 <XML_Serializer_Tag>Maler</XML_Serializer_Tag>
 <XML_Serializer_Tag>Radierer</XML_Serializer_Tag>
 </professionOrOccupation>
-<artworks />
 <dbpResource>http://dbpedia.org/resource/Pierre_Subleyras</dbpResource>
 <abstract>Pierre Subleyras (* 25. November 1699 in Saint-Gilles du Gard; † 28. Mai 1749 in Rom) war ein französischer Maler des Spätbarock und des klassizistischen Barock.</abstract>
 <wikilink>http://en.wikipedia.org/wiki/Pierre_Subleyras?oldid=601169797</wikilink>
+<artworks />
+<buildings />
+<books />
 </Person>

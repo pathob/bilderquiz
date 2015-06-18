@@ -1,0 +1,32 @@
+<Person>
+<name>Joseph Joffre</name>
+<variantName>
+<XML_Serializer_Tag>Joseph Jacques Césaire Joffre</XML_Serializer_Tag>
+<XML_Serializer_Tag>Joseph J. Joffre</XML_Serializer_Tag>
+<XML_Serializer_Tag>Josep Joffre</XML_Serializer_Tag>
+<XML_Serializer_Tag>Josep Joffre i Plas</XML_Serializer_Tag>
+<XML_Serializer_Tag>... Joffre</XML_Serializer_Tag>
+</variantName>
+<thumbnail>https://commons.wikimedia.org/wiki/Special:FilePath/Joseph_Joffre_Nw_joffre_02_nw.png?width=270</thumbnail>
+<birthEN>January 12, 1852</birthEN>
+<birthDE>12. Januar 1852</birthDE>
+<deathEN>January 3, 1931</deathEN>
+<deathDE>3. Januar 1931</deathDE>
+<birthPlace>
+<XML_Serializer_Tag>Rivesaltes</XML_Serializer_Tag>
+</birthPlace>
+<deathPlace>
+<XML_Serializer_Tag>Paris</XML_Serializer_Tag>
+</deathPlace>
+<professionOrOccupation>
+<XML_Serializer_Tag>Offizier</XML_Serializer_Tag>
+<XML_Serializer_Tag>General</XML_Serializer_Tag>
+<XML_Serializer_Tag>Autor</XML_Serializer_Tag>
+</professionOrOccupation>
+<dbpResource>http://dbpedia.org/resource/Joseph_Joffre</dbpResource>
+<abstract>Joseph Jacques Césaire Joffre (* 12. Januar 1852 in Rivesaltes, Département Hautes-Pyrénées; † 3. Januar 1931 in Paris) war ein französischer General und Mitglied der Académie française.</abstract>
+<wikilink>http://en.wikipedia.org/wiki/Joseph_Joffre?oldid=601247674</wikilink>
+<artworks />
+<buildings />
+<books />
+</Person>

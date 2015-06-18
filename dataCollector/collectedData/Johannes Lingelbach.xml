@@ -15,8 +15,10 @@
 <XML_Serializer_Tag>Künstler</XML_Serializer_Tag>
 <XML_Serializer_Tag>Maler</XML_Serializer_Tag>
 </professionOrOccupation>
-<artworks />
 <dbpResource>http://dbpedia.org/resource/Johannes_Lingelbach</dbpResource>
 <abstract>Johann(es) Lingelbach (getauft 10. Oktober 1622 in Frankfurt am Main; † 1674 in Amsterdam) war ein deutscher Maler.</abstract>
 <wikilink>http://en.wikipedia.org/wiki/Johannes_Lingelbach?oldid=567721369</wikilink>
+<artworks />
+<buildings />
+<books />
 </Person>

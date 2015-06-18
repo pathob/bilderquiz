@@ -1,0 +1,32 @@
+<Person>
+<name>Eduard Schwartz</name>
+<variantName>
+<XML_Serializer_Tag>Edvardus Schwartz</XML_Serializer_Tag>
+<XML_Serializer_Tag>Eduardo Schwartz</XML_Serializer_Tag>
+<XML_Serializer_Tag>Eduardus Schwartz</XML_Serializer_Tag>
+<XML_Serializer_Tag>E. Schwartz</XML_Serializer_Tag>
+<XML_Serializer_Tag>... Schwartz</XML_Serializer_Tag>
+</variantName>
+<thumbnail>https://de.wikipedia.org/wiki/Special:FilePath/Eduard_Schwartz.jpg?width=270</thumbnail>
+<birthEN>August 22, 1858</birthEN>
+<birthDE>22. August 1858</birthDE>
+<deathEN>February 13, 1940</deathEN>
+<deathDE>13. Februar 1940</deathDE>
+<birthPlace>
+<XML_Serializer_Tag>Kiel</XML_Serializer_Tag>
+</birthPlace>
+<deathPlace>
+<XML_Serializer_Tag>München</XML_Serializer_Tag>
+</deathPlace>
+<professionOrOccupation>
+<XML_Serializer_Tag>Philosoph</XML_Serializer_Tag>
+<XML_Serializer_Tag>Klassischer Philologe</XML_Serializer_Tag>
+<XML_Serializer_Tag>Kirchenhistoriker</XML_Serializer_Tag>
+</professionOrOccupation>
+<dbpResource>http://dbpedia.org/resource/Eduard_Schwartz</dbpResource>
+<abstract>Eduard Schwartz (* 22. August 1858 in Kiel; † 13. Februar 1940 in München) war ein deutscher klassischer Philologe.</abstract>
+<wikilink>http://en.wikipedia.org/wiki/Eduard_Schwartz?oldid=558674334</wikilink>
+<artworks />
+<buildings />
+<books />
+</Person>

@@ -1,0 +1,28 @@
+<Person>
+<name>Hans-Joachim Gehrke</name>
+<variantName>
+<XML_Serializer_Tag>Hans J. Gehrke</XML_Serializer_Tag>
+<XML_Serializer_Tag>Ge er ke</XML_Serializer_Tag>
+<XML_Serializer_Tag>Geerke</XML_Serializer_Tag>
+</variantName>
+<thumbnail>https://commons.wikimedia.org/wiki/Special:FilePath/Hans-Joachim_Gehrke.jpg?width=270</thumbnail>
+<birthEN>1945</birthEN>
+<birthDE>1945</birthDE>
+<deathEN />
+<deathDE />
+<birthPlace>
+<XML_Serializer_Tag>Salzgitter-Lebenstedt</XML_Serializer_Tag>
+</birthPlace>
+<deathPlace />
+<professionOrOccupation>
+<XML_Serializer_Tag>Historiker</XML_Serializer_Tag>
+<XML_Serializer_Tag>Philologe</XML_Serializer_Tag>
+<XML_Serializer_Tag>Philosoph</XML_Serializer_Tag>
+</professionOrOccupation>
+<dbpResource>http://dbpedia.org/resource/Hans-Joachim_Gehrke</dbpResource>
+<abstract>Hans-Joachim Gehrke (* 28. Oktober 1945 in Salzgitter-Lebenstedt) ist ein deutscher Althistoriker. Er war von 2008 bis 2011 Präsident des Deutschen Archäologischen Instituts.</abstract>
+<wikilink>http://en.wikipedia.org/wiki/Hans-Joachim_Gehrke?oldid=600665752</wikilink>
+<artworks />
+<buildings />
+<books />
+</Person>

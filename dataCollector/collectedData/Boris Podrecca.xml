@@ -1,0 +1,55 @@
+<Person>
+<name>Boris Podrecca</name>
+<variantName>
+<XML_Serializer_Tag>Boris Podreka</XML_Serializer_Tag>
+</variantName>
+<thumbnail>https://commons.wikimedia.org/wiki/Special:FilePath/BPodreccaNbf.jpg?width=270</thumbnail>
+<birthEN>1940</birthEN>
+<birthDE>1940</birthDE>
+<deathEN />
+<deathDE />
+<birthPlace />
+<deathPlace />
+<professionOrOccupation>
+<XML_Serializer_Tag>Architekt</XML_Serializer_Tag>
+</professionOrOccupation>
+<dbpResource>http://dbpedia.org/resource/Boris_Podrecca</dbpResource>
+<abstract>Boris Podrecca (* 30. Januar 1940 in Belgrad) ist ein in Wien lebender Architekt mit Büros in Wien, Stuttgart und Venedig.</abstract>
+<wikilink>http://en.wikipedia.org/wiki/Boris_Podrecca?oldid=579528219</wikilink>
+<artworks />
+<buildings>
+<XML_Serializer_Tag>
+<building>
+<type>uri</type>
+<value>http://dbpedia.org/resource/Millennium_Tower_(Vienna)</value>
+</building>
+<name>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>Millennium Tower</value>
+</name>
+<architect>
+<type>uri</type>
+<value>http://dbpedia.org/resource/Boris_Podrecca</value>
+</architect>
+<thumbnail>
+<type>uri</type>
+<value>http://commons.wikimedia.org/wiki/Special:FilePath/Vienna_2006-11-02_099.jpg?width=300</value>
+</thumbnail>
+<wikilink>
+<type>uri</type>
+<value>http://en.wikipedia.org/wiki/Millennium_Tower_(Vienna)?oldid=586798447</value>
+</wikilink>
+<location>
+<type>uri</type>
+<value>http://dbpedia.org/resource/Vienna</value>
+</location>
+<abstract>
+<type>literal</type>
+<xml:lang>de</xml:lang>
+<value>Der Büroturm Millennium Tower am Handelskai 94-96 im 20. Wiener Gemeindebezirk Brigittenau war mit einer Höhe von 171 m (Gebäudesubstanz) und einer Gesamthöhe von 202 m (inkl. Dachkonstruktion) bis zur Fertigstellung des DC Tower 1 das höchste Bürogebäude Österreichs. Auf 50 Geschossen umfasst er eine Bruttogeschoßfläche von 47.200 m², wovon 38.500 m² als Bürofläche genutzt werden. Die restliche Fläche ist bis zum 2. Geschoß allgemein zugänglich und wird unter anderem für ein Einkaufszentrum, Restaurants und ein Multiplex-Kino (UCI) genutzt.</value>
+</abstract>
+</XML_Serializer_Tag>
+</buildings>
+<books />
+</Person>

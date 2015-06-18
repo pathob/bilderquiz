@@ -1,0 +1,32 @@
+<Person>
+<name>Johann Jakob Breitinger</name>
+<variantName>
+<XML_Serializer_Tag>... B.</XML_Serializer_Tag>
+<XML_Serializer_Tag>J. J. B.</XML_Serializer_Tag>
+<XML_Serializer_Tag>J. J. B.</XML_Serializer_Tag>
+<XML_Serializer_Tag>Joannes Jacobus Breitingerus</XML_Serializer_Tag>
+<XML_Serializer_Tag>Iohannes Iacobus Breitingerus</XML_Serializer_Tag>
+<XML_Serializer_Tag>Johannes Jacobus Breitingerus</XML_Serializer_Tag>
+<XML_Serializer_Tag>Johann Jacob Breitinger</XML_Serializer_Tag>
+<XML_Serializer_Tag>J. J. Breitinger</XML_Serializer_Tag>
+</variantName>
+<thumbnail>https://commons.wikimedia.org/wiki/Special:FilePath/Johann_Jakob_Breitinger.jpg?width=270</thumbnail>
+<birthEN>1701</birthEN>
+<birthDE>1701</birthDE>
+<deathEN>1776</deathEN>
+<deathDE>1776</deathDE>
+<birthPlace />
+<deathPlace />
+<professionOrOccupation>
+<XML_Serializer_Tag>Philologe</XML_Serializer_Tag>
+<XML_Serializer_Tag>Klassischer Philologe</XML_Serializer_Tag>
+<XML_Serializer_Tag>Philosoph</XML_Serializer_Tag>
+<XML_Serializer_Tag>Theologe</XML_Serializer_Tag>
+</professionOrOccupation>
+<dbpResource>http://dbpedia.org/resource/Johann_Jakob_Breitinger</dbpResource>
+<abstract>Johann Jakob Breitinger (* 1. März 1701 in Zürich; † 14. Dezember 1776 ebd.) war ein Schweizer Philologe und Autor.</abstract>
+<wikilink>http://en.wikipedia.org/wiki/Johann_Jakob_Breitinger?oldid=573868193</wikilink>
+<artworks />
+<buildings />
+<books />
+</Person>

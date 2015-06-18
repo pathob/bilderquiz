@@ -1,0 +1,29 @@
+<Person>
+<name>Giuseppe Longhi</name>
+<variantName>
+<XML_Serializer_Tag>Joseph Longhi</XML_Serializer_Tag>
+</variantName>
+<thumbnail>https://commons.wikimedia.org/wiki/Special:FilePath/5622_-_Palazzo_di_Brera,_Milano_-_Busto_a_Giuseppe_Longhi_-_Foto_Giovanni_Dall&apos;Orto,_1-Oct-2011.jpg?width=270</thumbnail>
+<birthEN>1766</birthEN>
+<birthDE>1766</birthDE>
+<deathEN>1831</deathEN>
+<deathDE>1831</deathDE>
+<birthPlace>
+<XML_Serializer_Tag>Monza</XML_Serializer_Tag>
+</birthPlace>
+<deathPlace>
+<XML_Serializer_Tag>Mailand</XML_Serializer_Tag>
+</deathPlace>
+<professionOrOccupation>
+<XML_Serializer_Tag>Schriftsteller</XML_Serializer_Tag>
+<XML_Serializer_Tag>Kupferstecher</XML_Serializer_Tag>
+<XML_Serializer_Tag>Zeichner</XML_Serializer_Tag>
+<XML_Serializer_Tag>Lithograph</XML_Serializer_Tag>
+</professionOrOccupation>
+<dbpResource>http://dbpedia.org/resource/Giuseppe_Longhi</dbpResource>
+<abstract>Giuseppe Longhi (* 13. Oktober 1766 in Monza; † 2. Januar 1831 in Mailand) war ein italienischer Kupferstecher.</abstract>
+<wikilink>http://en.wikipedia.org/wiki/Giuseppe_Longhi?oldid=604528742</wikilink>
+<artworks />
+<buildings />
+<books />
+</Person>

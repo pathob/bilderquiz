@@ -1,0 +1,30 @@
+<Person>
+<name>Andreas Joseph Hofmann</name>
+<variantName>
+<XML_Serializer_Tag>A. J. Hofmann</XML_Serializer_Tag>
+<XML_Serializer_Tag>Josef Andreas Hofmann</XML_Serializer_Tag>
+<XML_Serializer_Tag>Andreas Josef Hofmann</XML_Serializer_Tag>
+</variantName>
+<thumbnail>https://commons.wikimedia.org/wiki/Special:FilePath/Landtag_Rheinland-Pfalz_Mainz_May_2004.JPG?width=270</thumbnail>
+<birthEN>July 14, 1752</birthEN>
+<birthDE>14. Juli 1752</birthDE>
+<deathEN>September 6, 1849</deathEN>
+<deathDE>6. September 1849</deathDE>
+<birthPlace>
+<XML_Serializer_Tag>Zell a. Main</XML_Serializer_Tag>
+</birthPlace>
+<deathPlace>
+<XML_Serializer_Tag>Winkel (Rheingaukreis)</XML_Serializer_Tag>
+</deathPlace>
+<professionOrOccupation>
+<XML_Serializer_Tag>Jurist</XML_Serializer_Tag>
+<XML_Serializer_Tag>Politiker</XML_Serializer_Tag>
+<XML_Serializer_Tag>Philosoph</XML_Serializer_Tag>
+</professionOrOccupation>
+<dbpResource>http://dbpedia.org/resource/Andreas_Joseph_Hofmann</dbpResource>
+<abstract>Andreas Joseph Hofmann (* 14. Juli 1752 in Zell am Main; † 6. September 1849 in Winkel (Rheingau)) war ein deutscher Philosoph und Revolutionär und einer der Hauptakteure der Mainzer Republik. Als Vorsitzender des Rheinisch-deutschen Nationalkonvents rief er am 18. März 1793 die erste Republik in Deutschland aus, den Rheinisch-Deutschen Freistaat. Er war ein überzeugter Befürworter der Französischen Revolution, propagierte den Rhein als natürliche deutsch-französische Grenze und war später unter dem Direktorium und dem Konsulat in der Verwaltung des Département Donnersberg tätig.</abstract>
+<wikilink>http://en.wikipedia.org/wiki/Andreas_Joseph_Hofmann?oldid=599718594</wikilink>
+<artworks />
+<buildings />
+<books />
+</Person>

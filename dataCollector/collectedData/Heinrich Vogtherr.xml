@@ -29,8 +29,10 @@
 <XML_Serializer_Tag>Schriftsteller</XML_Serializer_Tag>
 <XML_Serializer_Tag>Arzt</XML_Serializer_Tag>
 </professionOrOccupation>
-<artworks />
 <dbpResource>http://dbpedia.org/resource/Heinrich_Vogtherr</dbpResource>
 <abstract>Heinrich Vogtherr (der Ältere) (* 1490 in Dillingen an der Donau; † 1556 in Wien) war ein Künstler der Reformationszeit. Er war Maler, Zeichner, Holzschneider, Radierer, Buchdrucker, Verleger, Verfasser von Flugschriften, Dichter geistlicher Lieder, Autor medizinischer Schriften und Augenarzt.</abstract>
 <wikilink>http://en.wikipedia.org/wiki/Heinrich_Vogtherr?oldid=602031617</wikilink>
+<artworks />
+<buildings />
+<books />
 </Person>

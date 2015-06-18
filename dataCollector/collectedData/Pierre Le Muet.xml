@@ -1,0 +1,28 @@
+<Person>
+<name>Pierre Le Muet</name>
+<variantName>
+<XML_Serializer_Tag>Pierre le Muet</XML_Serializer_Tag>
+<XML_Serializer_Tag>Pierre LeMuet</XML_Serializer_Tag>
+<XML_Serializer_Tag>... Le Muet</XML_Serializer_Tag>
+</variantName>
+<thumbnail>https://commons.wikimedia.org/wiki/Special:FilePath/Tanlay_Chateau_03.jpg?width=270</thumbnail>
+<birthEN>October 7, 1591</birthEN>
+<birthDE>7. Oktober 1591</birthDE>
+<deathEN>September 28, 1669</deathEN>
+<deathDE>28. September 1669</deathDE>
+<birthPlace>
+<XML_Serializer_Tag>Dijon</XML_Serializer_Tag>
+</birthPlace>
+<deathPlace>
+<XML_Serializer_Tag>Paris</XML_Serializer_Tag>
+</deathPlace>
+<professionOrOccupation>
+<XML_Serializer_Tag>Architekt</XML_Serializer_Tag>
+</professionOrOccupation>
+<dbpResource>http://dbpedia.org/resource/Pierre_Le_Muet</dbpResource>
+<abstract>Pierre Le Muet (* 1591 in Dijon; † 1669) war ein französischer Architekt unter mehreren absolutistischen Königen wie Ludwig XIV. und baute mehrere Adelspaläste.</abstract>
+<wikilink>http://en.wikipedia.org/wiki/Pierre_Le_Muet?oldid=551187065</wikilink>
+<artworks />
+<buildings />
+<books />
+</Person>

@@ -1,0 +1,25 @@
+<Person>
+<name>Hermann Kasack</name>
+<variantName />
+<thumbnail>https://commons.wikimedia.org/wiki/Special:FilePath/Bundesarchiv_Bild_183-R76032,_Hamburg,_Tagung_PEN-Zentrum.jpg?width=270</thumbnail>
+<birthEN>July 24, 1896</birthEN>
+<birthDE>24. Juli 1896</birthDE>
+<deathEN>January 10, 1966</deathEN>
+<deathDE>10. Januar 1966</deathDE>
+<birthPlace>
+<XML_Serializer_Tag>Potsdam</XML_Serializer_Tag>
+</birthPlace>
+<deathPlace>
+<XML_Serializer_Tag>Stuttgart</XML_Serializer_Tag>
+</deathPlace>
+<professionOrOccupation>
+<XML_Serializer_Tag>Schriftsteller</XML_Serializer_Tag>
+<XML_Serializer_Tag>Lyriker</XML_Serializer_Tag>
+</professionOrOccupation>
+<dbpResource>http://dbpedia.org/resource/Hermann_Kasack</dbpResource>
+<abstract>Hermann Kasack (* 24. Juli 1896 in Potsdam; † 10. Januar 1966 in Stuttgart) war ein deutscher Schriftsteller und Dichter. Außerdem war er ein Pionier in der Vermittlung literarischer Inhalte in der Anfangszeit des Rundfunks. Er veröffentlichte einige Hörspiele auch unter den Pseudonymen Hermann Wilhelm und Hermann Merten.</abstract>
+<wikilink>http://en.wikipedia.org/wiki/Hermann_Kasack?oldid=580755407</wikilink>
+<artworks />
+<buildings />
+<books />
+</Person>

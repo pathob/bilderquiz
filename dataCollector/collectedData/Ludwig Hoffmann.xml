@@ -1,0 +1,60 @@
+<Person>
+<name>Ludwig Hoffmann</name>
+<variantName>
+<XML_Serializer_Tag>Ludwig Ernst Emil Hoffmann</XML_Serializer_Tag>
+</variantName>
+<thumbnail>https://commons.wikimedia.org/wiki/Special:FilePath/Ludwig_Hoffmann_1.png?width=270</thumbnail>
+<birthEN>July 30, 1852</birthEN>
+<birthDE>30. Juli 1852</birthDE>
+<deathEN>November 11, 1932</deathEN>
+<deathDE>11. November 1932</deathDE>
+<birthPlace>
+<XML_Serializer_Tag>Darmstadt</XML_Serializer_Tag>
+</birthPlace>
+<deathPlace>
+<XML_Serializer_Tag>Berlin</XML_Serializer_Tag>
+</deathPlace>
+<professionOrOccupation>
+<XML_Serializer_Tag>Architekt</XML_Serializer_Tag>
+<XML_Serializer_Tag>Stadtbaurat</XML_Serializer_Tag>
+</professionOrOccupation>
+<dbpResource>http://dbpedia.org/resource/Ludwig_Hoffmann_(architect)</dbpResource>
+<abstract>Ludwig Hoffmann (* 30. Juli 1852 in Darmstadt; † 11. November 1932 in Berlin; vollständiger Name Ludwig Ernst Emil Hoffmann) war ein deutscher Architekt und Stadtbaurat in Berlin.</abstract>
+<wikilink>http://en.wikipedia.org/wiki/Ludwig_Hoffmann_(architect)?oldid=605911619</wikilink>
+<artworks />
+<buildings>
+<XML_Serializer_Tag>
+<building>
+<type>uri</type>
+<value>http://dbpedia.org/resource/Altes_Stadthaus,_Berlin</value>
+</building>
+<name>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>Altes Stadthaus</value>
+</name>
+<architect>
+<type>uri</type>
+<value>http://dbpedia.org/resource/Ludwig_Hoffmann_(architect)</value>
+</architect>
+<thumbnail>
+<type>uri</type>
+<value>http://commons.wikimedia.org/wiki/Special:FilePath/Berlin-Stadthaus-gp.jpg?width=300</value>
+</thumbnail>
+<wikilink>
+<type>uri</type>
+<value>http://en.wikipedia.org/wiki/Altes_Stadthaus,_Berlin?oldid=601282792</value>
+</wikilink>
+<location>
+<type>uri</type>
+<value>http://dbpedia.org/resource/Berlin</value>
+</location>
+<abstract>
+<type>literal</type>
+<xml:lang>de</xml:lang>
+<value>Das Alte Stadthaus ist der Name eines repräsentativen Verwaltungsgebäudes im Berliner Stadtteil Mitte, das die damalige Stadtregierung Magistrat von Berlin zur Entlastung des Roten Rathauses in den Jahren 1902 bis 1911 nach Entwürfen des Stadtbaurats Ludwig Hoffmann für sieben Millionen Goldmark errichten ließ. Es befindet sich am Molkenmarkt zwischen der Jüden-, Kloster-, Parochial- und Stralauer Straße und wurde nach seiner Fertigstellung 1911 zunächst als Neues Stadthaus bezeichnet.Nach dem Zweiten Weltkrieg begann für das im Gegensatz zum Roten Rathaus weniger zerstörte Gebäude des Stadthauses eine Zeit unterschiedlicher Nutzungen. Bis 1956 war es noch ein Verwaltungsbau des Magistrat von Groß-Berlin. Dieser nutzte zusätzlich ein benachbartes Gebäude in der Parochialstraße, erbaut Mitte der 1930er Jahre und geplant durch Kurt Starcks und Franz Arnous als Geschäftshaus der Versicherung Städtische Feuersozietät. Das Haus in der Parochialstraße übernahm damit die Funktion des Stadthauses als erweiterter Dienstsitz verschiedener Berliner Magistratsverwaltungen und so auch die Bezeichnung „Neues Stadthaus“. Das ursprüngliche Neue Stadthaus hieß dagegen zur Unterscheidung von nun an Altes Stadthaus, so dass in der Literatur immer wieder Verwechslungen der Bauwerke zu finden sind.Von 1956 bis zum Ende der DDR diente das Alte Stadthaus unter anderem dem ersten Ministerpräsidenten der DDR Otto Grotewohl und dem letzten Lothar de Maizière als Amtssitz. Ab 1992 waren hier zwei Berliner Außenstellen der Bonner Bundesregierung untergebracht. Mitte der 1990er Jahre begann eine umfassende Renovierung und das Alte Stadthaus diente danach wieder seiner ursprünglichen Verwendung als ein Gebäude der Stadtverwaltung, indem es seitdem die Berliner Senatsverwaltung für Inneres beherbergt.</value>
+</abstract>
+</XML_Serializer_Tag>
+</buildings>
+<books />
+</Person>

@@ -1,0 +1,55 @@
+<Person>
+<name>Elsa Morante</name>
+<variantName>
+<XML_Serializer_Tag>Ėl&apos;za Morante</XML_Serializer_Tag>
+</variantName>
+<thumbnail>https://en.wikipedia.org/wiki/Special:FilePath/Moravia_and_Morante.jpg?width=270</thumbnail>
+<birthEN>August 18, 1912</birthEN>
+<birthDE>18. August 1912</birthDE>
+<deathEN>November 25, 1985</deathEN>
+<deathDE>25. November 1985</deathDE>
+<birthPlace>
+<XML_Serializer_Tag>Rom</XML_Serializer_Tag>
+</birthPlace>
+<deathPlace>
+<XML_Serializer_Tag>Rom</XML_Serializer_Tag>
+</deathPlace>
+<professionOrOccupation>
+<XML_Serializer_Tag>Schriftstellerin</XML_Serializer_Tag>
+</professionOrOccupation>
+<dbpResource>http://dbpedia.org/resource/Elsa_Morante</dbpResource>
+<abstract>Elsa Morante (* 18. August 1912 in Rom; † 25. November 1985 ebenda) war eine italienische Schriftstellerin, die zu den wichtigsten Vertreterinnen der Nachkriegsliteratur gezählt wird.</abstract>
+<wikilink>http://en.wikipedia.org/wiki/Elsa_Morante?oldid=606666529</wikilink>
+<artworks />
+<buildings />
+<books>
+<XML_Serializer_Tag>
+<book>
+<type>uri</type>
+<value>http://dbpedia.org/resource/L&apos;isola_di_Arturo</value>
+</book>
+<author>
+<type>uri</type>
+<value>http://dbpedia.org/resource/Elsa_Morante</value>
+</author>
+<wikilink>
+<type>uri</type>
+<value>http://en.wikipedia.org/wiki/L&apos;isola_di_Arturo?oldid=598114598</value>
+</wikilink>
+</XML_Serializer_Tag>
+<XML_Serializer_Tag>
+<book>
+<type>uri</type>
+<value>http://dbpedia.org/resource/History_(novel)</value>
+</book>
+<author>
+<type>uri</type>
+<value>http://dbpedia.org/resource/Elsa_Morante</value>
+</author>
+<wikilink>
+<type>uri</type>
+<value>http://en.wikipedia.org/wiki/History_(novel)?oldid=604592082</value>
+</wikilink>
+</XML_Serializer_Tag>
+</books>
+</Person>

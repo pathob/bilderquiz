@@ -1,0 +1,24 @@
+<Person>
+<name>Tullia d&apos; Aragona</name>
+<variantName>
+<XML_Serializer_Tag>Tullia, d&apos;Aragona</XML_Serializer_Tag>
+<XML_Serializer_Tag>Tullia D&apos;Aragona</XML_Serializer_Tag>
+<XML_Serializer_Tag>Tullia di Aragona</XML_Serializer_Tag>
+</variantName>
+<thumbnail>https://commons.wikimedia.org/wiki/Special:FilePath/Courtesan.jpg?width=270</thumbnail>
+<birthEN>1510</birthEN>
+<birthDE>1510</birthDE>
+<deathEN>1556</deathEN>
+<deathDE>1556</deathDE>
+<birthPlace />
+<deathPlace />
+<professionOrOccupation>
+<XML_Serializer_Tag>Schriftstellerin</XML_Serializer_Tag>
+</professionOrOccupation>
+<dbpResource>http://dbpedia.org/resource/Tullia_d&apos;Aragona</dbpResource>
+<abstract>Tullia d’Aragona (* 1510 in Rom; † 1556 ebendort) galt als eine der berühmtesten Kurtisanen der Renaissance; sowie eine bewunderte Dichterin und Philosophin in Italien des 16. Jahrhunderts.</abstract>
+<wikilink>http://en.wikipedia.org/wiki/Tullia_d&apos;Aragona?oldid=593474130</wikilink>
+<artworks />
+<buildings />
+<books />
+</Person>

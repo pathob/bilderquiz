@@ -1,0 +1,85 @@
+<Person>
+<name>Thomas Hobbes</name>
+<variantName>
+<XML_Serializer_Tag>Thomas Gobbes</XML_Serializer_Tag>
+<XML_Serializer_Tag>Tomas Gobbs</XML_Serializer_Tag>
+<XML_Serializer_Tag>T. H.</XML_Serializer_Tag>
+<XML_Serializer_Tag>Thom. Hobbes</XML_Serializer_Tag>
+<XML_Serializer_Tag>Tom Hobbes</XML_Serializer_Tag>
+<XML_Serializer_Tag>Thomas Hobbius</XML_Serializer_Tag>
+<XML_Serializer_Tag>Thomas Hobbesius</XML_Serializer_Tag>
+<XML_Serializer_Tag>Thomas Hobbs</XML_Serializer_Tag>
+<XML_Serializer_Tag>Thomas Hobs</XML_Serializer_Tag>
+<XML_Serializer_Tag>Huobusi</XML_Serializer_Tag>
+<XML_Serializer_Tag>Hobbes of Malmesbury</XML_Serializer_Tag>
+<XML_Serializer_Tag>T. H.</XML_Serializer_Tag>
+<XML_Serializer_Tag>Tomáše Hobbesa</XML_Serializer_Tag>
+</variantName>
+<thumbnail>https://commons.wikimedia.org/wiki/Special:FilePath/Thomas_Hobbes_(portrait).jpg?width=270</thumbnail>
+<birthEN>April 5, 1588</birthEN>
+<birthDE>5. April 1588</birthDE>
+<deathEN>December 4, 1679</deathEN>
+<deathDE>4. Dezember 1679</deathDE>
+<birthPlace>
+<XML_Serializer_Tag>Westport</XML_Serializer_Tag>
+</birthPlace>
+<deathPlace>
+<XML_Serializer_Tag>Hardwick Hall</XML_Serializer_Tag>
+</deathPlace>
+<professionOrOccupation>
+<XML_Serializer_Tag>Philosoph</XML_Serializer_Tag>
+</professionOrOccupation>
+<dbpResource>http://dbpedia.org/resource/Thomas_Hobbes</dbpResource>
+<abstract>Thomas Hobbes ([hɔbz]; * 5. April 1588 in Westport, Wiltshire; † 4. Dezember 1679 in Hardwick Hall, Derbyshire) war ein englischer Mathematiker, Staatstheoretiker und Philosoph. Er wurde durch sein Hauptwerk Leviathan bekannt, in dem er eine Theorie des „Absolutismus“ entwickelte. Er gilt als Begründer des „aufgeklärten Absolutismus“.Des Weiteren ist er neben John Locke und Jean-Jacques Rousseau einer der bedeutendsten Theoretiker des Gesellschaftsvertrags.</abstract>
+<wikilink>http://en.wikipedia.org/wiki/Thomas_Hobbes?oldid=605797748</wikilink>
+<artworks />
+<buildings />
+<books>
+<XML_Serializer_Tag>
+<book>
+<type>uri</type>
+<value>http://dbpedia.org/resource/Leviathan_(book)</value>
+</book>
+<author>
+<type>uri</type>
+<value>http://dbpedia.org/resource/Thomas_Hobbes</value>
+</author>
+<thumbnail>
+<type>uri</type>
+<value>http://commons.wikimedia.org/wiki/Special:FilePath/Leviathan_by_Thomas_Hobbes.jpg?width=300</value>
+</thumbnail>
+<wikilink>
+<type>uri</type>
+<value>http://en.wikipedia.org/wiki/Leviathan_(book)?oldid=606298079</value>
+</wikilink>
+<abstract>
+<type>literal</type>
+<xml:lang>de</xml:lang>
+<value>Leviathan or the Matter, Forme and Power of a Commonwealth Ecclesiastical and Civil (Leviathan oder Stoff, Form und Gewalt eines kirchlichen und staatlichen Gemeinwesens) ist der Titel einer staatstheoretischen Schrift des Engländers Thomas Hobbes aus dem Jahr 1651. Sie ist eines der bedeutendsten Werke der westlichen politischen Philosophie und eine der theoretischen Grundlagen neuzeitlicher Politikwissenschaft.Der Titel des Werkes lehnt sich an das biblisch-mythologische Seeungeheuer Leviathan an, vor dessen Allmacht jeglicher menschliche Widerstand zuschanden werden muss. Eine ähnliche Rolle kommt in Hobbes&apos; absolutistischem Politikverständnis dem Staat zu, der damit zum Gegenstück des durch das Ungeheuer Behemoth personifizierten Naturzustandes wird.</value>
+</abstract>
+</XML_Serializer_Tag>
+<XML_Serializer_Tag>
+<book>
+<type>uri</type>
+<value>http://dbpedia.org/resource/De_Cive</value>
+</book>
+<author>
+<type>uri</type>
+<value>http://dbpedia.org/resource/Thomas_Hobbes</value>
+</author>
+<thumbnail>
+<type>uri</type>
+<value>http://commons.wikimedia.org/wiki/Special:FilePath/Hobbes_de_cive.jpg?width=300</value>
+</thumbnail>
+<wikilink>
+<type>uri</type>
+<value>http://en.wikipedia.org/wiki/De_Cive?oldid=605386094</value>
+</wikilink>
+<abstract>
+<type>literal</type>
+<xml:lang>de</xml:lang>
+<value>De Cive (lat. Über den Bürger) ist der Kurztitel eines der Hauptwerke von Thomas Hobbes.Diese Schrift trug in der ersten Ausgabe von 1642 den Titel Elementorum philosophiae sectio tertia de cive. Die späteren Ausgaben trugen den Titel Elementa philosophica de cive.</value>
+</abstract>
+</XML_Serializer_Tag>
+</books>
+</Person>

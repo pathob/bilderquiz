@@ -1,0 +1,30 @@
+<Person>
+<name>Hermann Muthesius</name>
+<variantName>
+<XML_Serializer_Tag>Adam Gottlieb Hermann Muthesius</XML_Serializer_Tag>
+<XML_Serializer_Tag>H. Muthesius</XML_Serializer_Tag>
+</variantName>
+<thumbnail>https://commons.wikimedia.org/wiki/Special:FilePath/Anna_und_Hermann_Muthesius_in_ihrem_Haus_The_Priory_,_Hammersmith,_um_1900.jpg?width=270</thumbnail>
+<birthEN>April 20, 1861</birthEN>
+<birthDE>20. April 1861</birthDE>
+<deathEN>October 26, 1927</deathEN>
+<deathDE>26. Oktober 1927</deathDE>
+<birthPlace>
+<XML_Serializer_Tag>Großneuhausen</XML_Serializer_Tag>
+</birthPlace>
+<deathPlace>
+<XML_Serializer_Tag>Berlin</XML_Serializer_Tag>
+</deathPlace>
+<professionOrOccupation>
+<XML_Serializer_Tag>Architekt</XML_Serializer_Tag>
+<XML_Serializer_Tag>Kunsthistoriker</XML_Serializer_Tag>
+<XML_Serializer_Tag>Baubeamter</XML_Serializer_Tag>
+<XML_Serializer_Tag>Autor</XML_Serializer_Tag>
+</professionOrOccupation>
+<dbpResource>http://dbpedia.org/resource/Hermann_Muthesius</dbpResource>
+<abstract>Hermann Muthesius (* 20. April 1861 in Großneuhausen; † 26. Oktober 1927 in Berlin; vollständiger Name Adam Gottlieb Hermann Muthesius) war ein deutscher Architekt. Er war Autor, Geheimrat im Preußischen Handelsministerium, einflussreicher Theoretiker der „modernen“ Architektur und des „Industrial Designs“, Kritiker des Jugendstils und Mitbegründer des Deutschen Werkbundes.</abstract>
+<wikilink>http://en.wikipedia.org/wiki/Hermann_Muthesius?oldid=577858255</wikilink>
+<artworks />
+<buildings />
+<books />
+</Person>

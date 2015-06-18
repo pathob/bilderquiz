@@ -1,0 +1,25 @@
+<Person>
+<name>Roland Rainer</name>
+<variantName>
+<XML_Serializer_Tag>Ruland Raynar</XML_Serializer_Tag>
+<XML_Serializer_Tag>رولاند راينر</XML_Serializer_Tag>
+</variantName>
+<thumbnail>https://commons.wikimedia.org/wiki/Special:FilePath/Stadthallenbad,_19._Ströck_Austria_Meeting_2007.jpg?width=270</thumbnail>
+<birthEN>May 1, 1910</birthEN>
+<birthDE>1. Mai 1910</birthDE>
+<deathEN>April 10, 2004</deathEN>
+<deathDE>10. April 2004</deathDE>
+<birthPlace>
+<XML_Serializer_Tag>Klagenfurt</XML_Serializer_Tag>
+</birthPlace>
+<deathPlace />
+<professionOrOccupation>
+<XML_Serializer_Tag>Architekt</XML_Serializer_Tag>
+</professionOrOccupation>
+<dbpResource>http://dbpedia.org/resource/Roland_Rainer</dbpResource>
+<abstract>Roland Rainer (* 1. Mai 1910 in Klagenfurt; † 10. April 2004 in Wien) war ein österreichischer Architekt.</abstract>
+<wikilink>http://en.wikipedia.org/wiki/Roland_Rainer?oldid=589274746</wikilink>
+<artworks />
+<buildings />
+<books />
+</Person>

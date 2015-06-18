@@ -1,0 +1,40 @@
+<Person>
+<name>Bret Harte</name>
+<variantName>
+<XML_Serializer_Tag>Brett Harte</XML_Serializer_Tag>
+<XML_Serializer_Tag>Francis Harte</XML_Serializer_Tag>
+<XML_Serializer_Tag>F. B. Harte</XML_Serializer_Tag>
+<XML_Serializer_Tag>Francis Bret Harte</XML_Serializer_Tag>
+<XML_Serializer_Tag>Francis Bret-Harte</XML_Serializer_Tag>
+<XML_Serializer_Tag>Francis Brett Harte</XML_Serializer_Tag>
+<XML_Serializer_Tag>Francis B. Harte</XML_Serializer_Tag>
+<XML_Serializer_Tag>Francis Bret Harte</XML_Serializer_Tag>
+<XML_Serializer_Tag>Francis Bret-Harte</XML_Serializer_Tag>
+<XML_Serializer_Tag>Bret Chart</XML_Serializer_Tag>
+<XML_Serializer_Tag>Bret Gart</XML_Serializer_Tag>
+<XML_Serializer_Tag>Frėnsis Bret Gart</XML_Serializer_Tag>
+</variantName>
+<thumbnail>https://commons.wikimedia.org/wiki/Special:FilePath/BretHarte.jpg?width=270</thumbnail>
+<birthEN>August 25, 1836</birthEN>
+<birthDE>25. August 1836</birthDE>
+<deathEN>May 5, 1902</deathEN>
+<deathDE>5. Mai 1902</deathDE>
+<birthPlace>
+<XML_Serializer_Tag>Albany, NY</XML_Serializer_Tag>
+</birthPlace>
+<deathPlace>
+<XML_Serializer_Tag>Camberley</XML_Serializer_Tag>
+</deathPlace>
+<professionOrOccupation>
+<XML_Serializer_Tag>Schriftsteller</XML_Serializer_Tag>
+<XML_Serializer_Tag>Lehrer</XML_Serializer_Tag>
+<XML_Serializer_Tag>Journalist</XML_Serializer_Tag>
+<XML_Serializer_Tag>Herausgeber</XML_Serializer_Tag>
+</professionOrOccupation>
+<dbpResource>http://dbpedia.org/resource/Bret_Harte</dbpResource>
+<abstract>Francis Bret Harte (* 25. August 1836 in Albany, New York; † 5. Mai 1902 in Camberley, Großbritannien) war ein US-amerikanischer Schriftsteller.</abstract>
+<wikilink>http://en.wikipedia.org/wiki/Bret_Harte?oldid=606459100</wikilink>
+<artworks />
+<buildings />
+<books />
+</Person>

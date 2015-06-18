@@ -25,8 +25,10 @@
 <XML_Serializer_Tag>Maler</XML_Serializer_Tag>
 <XML_Serializer_Tag>Künstler</XML_Serializer_Tag>
 </professionOrOccupation>
-<artworks />
 <dbpResource>http://dbpedia.org/resource/Hans_Rottenhammer</dbpResource>
 <abstract>Johannes Rottenhammer der Ältere (* 1564 in München; † 14. August 1625 in Augsburg) war ein deutscher Zeichner und Maler des Manierismus und des Frühbarock. Seine auf Kupfer gemalten Kabinettbilder hängen in vielen bedeutenden Galerien Europas.</abstract>
 <wikilink>http://en.wikipedia.org/wiki/Hans_Rottenhammer?oldid=604742513</wikilink>
+<artworks />
+<buildings />
+<books />
 </Person>

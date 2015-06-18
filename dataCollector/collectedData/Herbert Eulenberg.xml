@@ -1,0 +1,28 @@
+<Person>
+<name>Herbert Eulenberg</name>
+<variantName>
+<XML_Serializer_Tag>Herbert Eulenburg</XML_Serializer_Tag>
+</variantName>
+<thumbnail>https://commons.wikimedia.org/wiki/Special:FilePath/Portraet_Herbert_Eulenberg.jpg?width=270</thumbnail>
+<birthEN>January 25, 1876</birthEN>
+<birthDE>25. Januar 1876</birthDE>
+<deathEN>September 4, 1949</deathEN>
+<deathDE>4. September 1949</deathDE>
+<birthPlace>
+<XML_Serializer_Tag>Mülheim, Rhein</XML_Serializer_Tag>
+</birthPlace>
+<deathPlace>
+<XML_Serializer_Tag>Düsseldorf</XML_Serializer_Tag>
+</deathPlace>
+<professionOrOccupation>
+<XML_Serializer_Tag>Schriftsteller</XML_Serializer_Tag>
+<XML_Serializer_Tag>Dramatiker</XML_Serializer_Tag>
+<XML_Serializer_Tag>Kritiker</XML_Serializer_Tag>
+</professionOrOccupation>
+<dbpResource>http://dbpedia.org/resource/Herbert_Eulenberg</dbpResource>
+<abstract>Herbert Eulenberg (* 25. Januar 1876 in Mülheim am Rhein; † 4. September 1949 in Düsseldorf-Kaiserswerth) war ein deutscher Schriftsteller und kämpferischer Humanist. Während er vor 1920 mit einigen Dramen Beachtung erzielte, ist sein Nachruhm eher in seiner schillernden Lebensführung begründet. Dem Anpassungsdruck während der Zeit des Nationalsozialismus widersetzte er sich erfolgreich.</abstract>
+<wikilink>http://en.wikipedia.org/wiki/Herbert_Eulenberg?oldid=596369205</wikilink>
+<artworks />
+<buildings />
+<books />
+</Person>

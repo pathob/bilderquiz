@@ -1,0 +1,29 @@
+<Person>
+<name>Anita Augspurg</name>
+<variantName>
+<XML_Serializer_Tag>Anita Johanna Theodora Sophie Augspurg</XML_Serializer_Tag>
+</variantName>
+<thumbnail>https://commons.wikimedia.org/wiki/Special:FilePath/Anita_Augspurg.jpg?width=270</thumbnail>
+<birthEN>September 22, 1857</birthEN>
+<birthDE>22. September 1857</birthDE>
+<deathEN>December 20, 1943</deathEN>
+<deathDE>20. Dezember 1943</deathDE>
+<birthPlace>
+<XML_Serializer_Tag>Verden, Aller</XML_Serializer_Tag>
+</birthPlace>
+<deathPlace>
+<XML_Serializer_Tag>Zürich</XML_Serializer_Tag>
+</deathPlace>
+<professionOrOccupation>
+<XML_Serializer_Tag>Pädagogin</XML_Serializer_Tag>
+<XML_Serializer_Tag>Schauspielerin</XML_Serializer_Tag>
+<XML_Serializer_Tag>Schriftstellerin</XML_Serializer_Tag>
+<XML_Serializer_Tag>Juristin</XML_Serializer_Tag>
+</professionOrOccupation>
+<dbpResource>http://dbpedia.org/resource/Anita_Augspurg</dbpResource>
+<abstract>Anita Augspurg (* 22. September 1857 in Verden (Aller); † 20. Dezember 1943 in Zürich) war eine deutsche Juristin, Aktivistin der bürgerlich-radikalen Frauenbewegung sowie Pazifistin.</abstract>
+<wikilink>http://en.wikipedia.org/wiki/Anita_Augspurg?oldid=598907417</wikilink>
+<artworks />
+<buildings />
+<books />
+</Person>

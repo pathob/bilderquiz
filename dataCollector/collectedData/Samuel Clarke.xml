@@ -1,0 +1,35 @@
+<Person>
+<name>Samuel Clarke</name>
+<variantName>
+<XML_Serializer_Tag>... Kela</XML_Serializer_Tag>
+<XML_Serializer_Tag>Samuel Clarcke</XML_Serializer_Tag>
+<XML_Serializer_Tag>Samuel Clark</XML_Serializer_Tag>
+<XML_Serializer_Tag>Samuelis Clarke</XML_Serializer_Tag>
+<XML_Serializer_Tag>Samuel Clarckius</XML_Serializer_Tag>
+<XML_Serializer_Tag>... Clarcke</XML_Serializer_Tag>
+<XML_Serializer_Tag>... Clark</XML_Serializer_Tag>
+<XML_Serializer_Tag>Samuel Clarkius</XML_Serializer_Tag>
+<XML_Serializer_Tag>D. Clarcke</XML_Serializer_Tag>
+<XML_Serializer_Tag>Keul la keu ui</XML_Serializer_Tag>
+<XML_Serializer_Tag>Keullakeuui</XML_Serializer_Tag>
+</variantName>
+<thumbnail>https://commons.wikimedia.org/wiki/Special:FilePath/Samuel_Clarke_NPG_extract.jpg?width=270</thumbnail>
+<birthEN>1675</birthEN>
+<birthDE>1675</birthDE>
+<deathEN>1729</deathEN>
+<deathDE>1729</deathDE>
+<birthPlace>
+<XML_Serializer_Tag>Norwich</XML_Serializer_Tag>
+</birthPlace>
+<deathPlace />
+<professionOrOccupation>
+<XML_Serializer_Tag>Theologe</XML_Serializer_Tag>
+<XML_Serializer_Tag>Philosoph</XML_Serializer_Tag>
+</professionOrOccupation>
+<dbpResource>http://dbpedia.org/resource/Samuel_Clarke</dbpResource>
+<abstract>Samuel Clarke (* 11. Oktober 1675 in Norwich; † 17. Mai 1729 in London) war ein englischer Philosoph und Theologe in der frühen Aufklärungszeit.</abstract>
+<wikilink>http://en.wikipedia.org/wiki/Samuel_Clarke?oldid=604490010</wikilink>
+<artworks />
+<buildings />
+<books />
+</Person>

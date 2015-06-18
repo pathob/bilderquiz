@@ -1,0 +1,35 @@
+<Person>
+<name>Daniel Cramer</name>
+<variantName>
+<XML_Serializer_Tag>Daniel Candidus</XML_Serializer_Tag>
+<XML_Serializer_Tag>Daniel Cramerus</XML_Serializer_Tag>
+<XML_Serializer_Tag>Daniel Kramer</XML_Serializer_Tag>
+<XML_Serializer_Tag>Daniel Cramer</XML_Serializer_Tag>
+<XML_Serializer_Tag>D. C. D.</XML_Serializer_Tag>
+</variantName>
+<thumbnail>https://commons.wikimedia.org/wiki/Special:FilePath/CramerD.JPG?width=270</thumbnail>
+<birthEN>January 20, 1568</birthEN>
+<birthDE>20. Januar 1568</birthDE>
+<deathEN>October 5, 1637</deathEN>
+<deathDE>5. Oktober 1637</deathDE>
+<birthPlace>
+<XML_Serializer_Tag>Reetz, Neumark</XML_Serializer_Tag>
+</birthPlace>
+<deathPlace>
+<XML_Serializer_Tag>Stettin</XML_Serializer_Tag>
+</deathPlace>
+<professionOrOccupation>
+<XML_Serializer_Tag>Evangelischer Theologe</XML_Serializer_Tag>
+<XML_Serializer_Tag>Pfarrer</XML_Serializer_Tag>
+<XML_Serializer_Tag>Generalsuperintendent</XML_Serializer_Tag>
+<XML_Serializer_Tag>Hofprediger</XML_Serializer_Tag>
+<XML_Serializer_Tag>Historiker</XML_Serializer_Tag>
+<XML_Serializer_Tag>Lyriker</XML_Serializer_Tag>
+</professionOrOccupation>
+<dbpResource>http://dbpedia.org/resource/Daniel_Cramer</dbpResource>
+<abstract>Daniel Cramer, auch: Candidus (* 20. Januar 1568 in Reetz; † 5. Oktober 1637 in Stettin) war ein deutscher lutherischer Theologe, Chronist und Autor.</abstract>
+<wikilink>http://en.wikipedia.org/wiki/Daniel_Cramer?oldid=546253184</wikilink>
+<artworks />
+<buildings />
+<books />
+</Person>

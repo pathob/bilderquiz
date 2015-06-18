@@ -25,8 +25,10 @@
 <XML_Serializer_Tag>Lithograph</XML_Serializer_Tag>
 <XML_Serializer_Tag>Illustrator</XML_Serializer_Tag>
 </professionOrOccupation>
-<artworks />
 <dbpResource>http://dbpedia.org/resource/Victor_Adam</dbpResource>
 <abstract>Jean Victor Vincent Adam (* 28. Januar 1801 in Paris; † 30. Dezember 1866 in Viroflay bei Paris) war ein französischer Historienmaler und Lithograf.</abstract>
 <wikilink>http://en.wikipedia.org/wiki/Victor_Adam?oldid=555087733</wikilink>
+<artworks />
+<buildings />
+<books />
 </Person>

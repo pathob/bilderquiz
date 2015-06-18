@@ -1,0 +1,27 @@
+<Person>
+<name>Jaroslav Foglar</name>
+<variantName>
+<XML_Serializer_Tag>Jaroslav Foglar-Jestřáb</XML_Serializer_Tag>
+<XML_Serializer_Tag>Jaroslav Foglar-Jestřáb</XML_Serializer_Tag>
+</variantName>
+<thumbnail>https://commons.wikimedia.org/wiki/Special:FilePath/Jaroslav_Foglar.jpg?width=270</thumbnail>
+<birthEN>1907</birthEN>
+<birthDE>1907</birthDE>
+<deathEN>1999</deathEN>
+<deathDE>1999</deathDE>
+<birthPlace>
+<XML_Serializer_Tag>Prag</XML_Serializer_Tag>
+</birthPlace>
+<deathPlace>
+<XML_Serializer_Tag>Prag</XML_Serializer_Tag>
+</deathPlace>
+<professionOrOccupation>
+<XML_Serializer_Tag>Schriftsteller</XML_Serializer_Tag>
+</professionOrOccupation>
+<dbpResource>http://dbpedia.org/resource/Jaroslav_Foglar</dbpResource>
+<abstract>Jaroslav Foglar (* 6. Juli 1907 in Prag; † 23. Januar 1999 ebenda) war mit 29 Büchern und weiteren Veröffentlichungen der bedeutendste tschechische Verfasser von Jugendbüchern des 20. Jahrhunderts. Unter der Bezeichnung Jestřáb (Habicht) leitete er sein ganzes Leben Gruppen von Pfadfindern (tschechisch Skaut, abgeleitet von Scout).</abstract>
+<wikilink>http://en.wikipedia.org/wiki/Jaroslav_Foglar?oldid=599857644</wikilink>
+<artworks />
+<buildings />
+<books />
+</Person>

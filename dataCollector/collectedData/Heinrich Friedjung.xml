@@ -1,0 +1,29 @@
+<Person>
+<name>Heinrich Friedjung</name>
+<variantName>
+<XML_Serializer_Tag>H. Friedjung</XML_Serializer_Tag>
+</variantName>
+<thumbnail>https://commons.wikimedia.org/wiki/Special:FilePath/Heinrich_Friedjung.jpg?width=270</thumbnail>
+<birthEN>January 18, 1851</birthEN>
+<birthDE>18. Januar 1851</birthDE>
+<deathEN>July 14, 1920</deathEN>
+<deathDE>14. Juli 1920</deathDE>
+<birthPlace>
+<XML_Serializer_Tag>Roschtin</XML_Serializer_Tag>
+</birthPlace>
+<deathPlace>
+<XML_Serializer_Tag>Wien</XML_Serializer_Tag>
+</deathPlace>
+<professionOrOccupation>
+<XML_Serializer_Tag>Historiker</XML_Serializer_Tag>
+<XML_Serializer_Tag>Redakteur</XML_Serializer_Tag>
+<XML_Serializer_Tag>Schriftsteller</XML_Serializer_Tag>
+<XML_Serializer_Tag>Publizist</XML_Serializer_Tag>
+</professionOrOccupation>
+<dbpResource>http://dbpedia.org/resource/Heinrich_Friedjung</dbpResource>
+<abstract>Heinrich Friedjung (* 18. Januar 1851 in Roschtin, Mähren; † 14. Juli 1920 in Wien) war ein österreichischer, deutschnationaler Historiker, Publizist und Journalist.</abstract>
+<wikilink>http://en.wikipedia.org/wiki/Heinrich_Friedjung?oldid=545866908</wikilink>
+<artworks />
+<buildings />
+<books />
+</Person>

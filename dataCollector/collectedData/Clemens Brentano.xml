@@ -1,0 +1,36 @@
+<Person>
+<name>Clemens Brentano</name>
+<variantName>
+<XML_Serializer_Tag>Clemens M. Brentano</XML_Serializer_Tag>
+<XML_Serializer_Tag>Clemens Maria Brentano</XML_Serializer_Tag>
+<XML_Serializer_Tag>Klemens Brentano</XML_Serializer_Tag>
+<XML_Serializer_Tag>Clement Brentano</XML_Serializer_Tag>
+<XML_Serializer_Tag>Clemens von Brentano</XML_Serializer_Tag>
+<XML_Serializer_Tag>Clemens Wenzel Maria Brentano</XML_Serializer_Tag>
+<XML_Serializer_Tag>Klemens von Brentano</XML_Serializer_Tag>
+<XML_Serializer_Tag>Clemens Von Brentano</XML_Serializer_Tag>
+<XML_Serializer_Tag>Clemens W. Brentano</XML_Serializer_Tag>
+<XML_Serializer_Tag>Bonaventura</XML_Serializer_Tag>
+<XML_Serializer_Tag>クレメンス ブレンターノ</XML_Serializer_Tag>
+</variantName>
+<thumbnail>https://commons.wikimedia.org/wiki/Special:FilePath/Brentano2.jpg?width=270</thumbnail>
+<birthEN>September 9, 1778</birthEN>
+<birthDE>9. September 1778</birthDE>
+<deathEN>July 28, 1842</deathEN>
+<deathDE>28. Juli 1842</deathDE>
+<birthPlace>
+<XML_Serializer_Tag>Koblenz-Ehrenbreitstein</XML_Serializer_Tag>
+</birthPlace>
+<deathPlace>
+<XML_Serializer_Tag>Aschaffenburg</XML_Serializer_Tag>
+</deathPlace>
+<professionOrOccupation>
+<XML_Serializer_Tag>Schriftsteller</XML_Serializer_Tag>
+</professionOrOccupation>
+<dbpResource>http://dbpedia.org/resource/Clemens_Brentano</dbpResource>
+<abstract>Clemens Wenzeslaus Brentano de La Roche (* 9. September 1778 in Ehrenbreitstein (heute Koblenz); † 28. Juli 1842 in Aschaffenburg) war ein deutscher Schriftsteller und neben Achim von Arnim der Hauptvertreter der sogenannten Heidelberger Romantik.</abstract>
+<wikilink>http://en.wikipedia.org/wiki/Clemens_Brentano?oldid=605056060</wikilink>
+<artworks />
+<buildings />
+<books />
+</Person>

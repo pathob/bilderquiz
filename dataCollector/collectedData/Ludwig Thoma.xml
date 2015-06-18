@@ -1,0 +1,32 @@
+<Person>
+<name>Ludwig Thoma</name>
+<variantName>
+<XML_Serializer_Tag>Peter Schlemihl</XML_Serializer_Tag>
+<XML_Serializer_Tag>Hans Rauchenberger</XML_Serializer_Tag>
+<XML_Serializer_Tag>Ludvigs Tomā</XML_Serializer_Tag>
+<XML_Serializer_Tag>루드비히 토마</XML_Serializer_Tag>
+<XML_Serializer_Tag>ルウドヰヒ・トオマ</XML_Serializer_Tag>
+</variantName>
+<thumbnail>https://commons.wikimedia.org/wiki/Special:FilePath/Ludwig_thoma_karl_klimsch1909.jpg?width=270</thumbnail>
+<birthEN>January 21, 1867</birthEN>
+<birthDE>21. Januar 1867</birthDE>
+<deathEN>August 26, 1921</deathEN>
+<deathDE>26. August 1921</deathDE>
+<birthPlace>
+<XML_Serializer_Tag>Oberammergau</XML_Serializer_Tag>
+</birthPlace>
+<deathPlace>
+<XML_Serializer_Tag>Rottach</XML_Serializer_Tag>
+</deathPlace>
+<professionOrOccupation>
+<XML_Serializer_Tag>Redakteur</XML_Serializer_Tag>
+<XML_Serializer_Tag>Rechtsanwalt</XML_Serializer_Tag>
+<XML_Serializer_Tag>Schriftsteller</XML_Serializer_Tag>
+</professionOrOccupation>
+<dbpResource>http://dbpedia.org/resource/Ludwig_Thoma</dbpResource>
+<abstract>Ludwig Thoma (* 21. Januar 1867 in Oberammergau; † 26. August 1921 in Tegernsee) war ein deutscher Schriftsteller, der durch seine ebenso realistischen wie satirischen Schilderungen des bayerischen Alltags und der politischen Geschehnisse seiner Zeit populär wurde.</abstract>
+<wikilink>http://en.wikipedia.org/wiki/Ludwig_Thoma?oldid=597252050</wikilink>
+<artworks />
+<buildings />
+<books />
+</Person>

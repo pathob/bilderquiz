@@ -1,0 +1,49 @@
+<Person>
+<name>Sylvia Plath</name>
+<variantName>
+<XML_Serializer_Tag>Victoria Lucas</XML_Serializer_Tag>
+<XML_Serializer_Tag>Sylvia Hughes</XML_Serializer_Tag>
+<XML_Serializer_Tag>Silʹvija Plat</XML_Serializer_Tag>
+</variantName>
+<thumbnail>https://commons.wikimedia.org/wiki/Special:FilePath/Newnham_College,_Cambridge.jpg?width=270</thumbnail>
+<birthEN>October 27, 1932</birthEN>
+<birthDE>27. Oktober 1932</birthDE>
+<deathEN>February 11, 1963</deathEN>
+<deathDE>11. Februar 1963</deathDE>
+<birthPlace />
+<deathPlace />
+<professionOrOccupation>
+<XML_Serializer_Tag>Schriftstellerin</XML_Serializer_Tag>
+</professionOrOccupation>
+<dbpResource>http://dbpedia.org/resource/Sylvia_Plath</dbpResource>
+<abstract>Sylvia Plath (* 27. Oktober 1932 in Jamaica Plain bei Boston, Massachusetts; † 11. Februar 1963 in Primrose Hill, London) war eine amerikanische Schriftstellerin. Als Plaths Hauptwerk gilt ihre Lyrik, insbesondere der nachgelassene Lyrikband Ariel, sowie ihr einziger Roman Die Glasglocke. Daneben schrieb Plath Kurzgeschichten und Kinderbücher.Sylvia Plaths Literatur wird zumeist im Kontext ihrer Lebensgeschichte gewertet. Ihre Gedichte gelten als Confessional Poetry (Bekenntnislyrik), und auch in ihrer Prosa verarbeitete sie autobiografische Erlebnisse wie einen Suizid­versuch oder die Beziehung zu ihrem Ehemann Ted Hughes. Erste Arbeiten veröffentlichte Plath bereits zu Lebzeiten, der literarische Erfolg setzte aber erst postum nach ihrem Suizid mit der Veröffentlichung nachgelassener Gedichte sowie der US-Publikation ihres Romans in den späten 1960er und frühen 1970er Jahren ein. Neben ihrem Werk wurde auch Plaths Leben und ihr früher Tod zum Gegenstand des öffentlichen Interesses. Plath wurde zu einer Symbolfigur der Frauenbewegung stilisiert und ihre Lebensgeschichte als Spiegelbild der Rolle der Frau in der Gesellschaft verstanden.</abstract>
+<wikilink>http://en.wikipedia.org/wiki/Sylvia_Plath?oldid=606402357</wikilink>
+<artworks />
+<buildings />
+<books>
+<XML_Serializer_Tag>
+<book>
+<type>uri</type>
+<value>http://dbpedia.org/resource/The_Bell_Jar</value>
+</book>
+<author>
+<type>uri</type>
+<value>http://dbpedia.org/resource/Sylvia_Plath</value>
+</author>
+<released>
+<type>typed-literal</type>
+<datatype>http://www.w3.org/2001/XMLSchema#date</datatype>
+<value>1963-01-14+02:00</value>
+</released>
+<wikilink>
+<type>uri</type>
+<value>http://en.wikipedia.org/wiki/The_Bell_Jar?oldid=600696202</value>
+</wikilink>
+<abstract>
+<type>literal</type>
+<xml:lang>de</xml:lang>
+<value>Die Glasglocke (englisch The Bell Jar) ist der einzige Roman der amerikanischen Schriftstellerin Sylvia Plath, die vor allem als Lyrikerin bekannt wurde. Er begleitet seine Protagonistin Esther Greenwood durch den Sommer des Jahres 1953, der mit einem ereignisreichen Volontariat bei einem New Yorker Modemagazin beginnt und in eine schwere Depression und einen Suizidversuch Esthers samt anschließender Behandlung in einer psychiatrischen Klinik mündet.Der unter dem Pseudonym Victoria Lucas veröffentlichte Roman trägt autobiografische Züge. Sylvia Plath arbeitete 1953 selbst einen Monat in New York und versuchte im späteren Verlauf des Jahres, sich das Leben zu nehmen. Zehn Jahre nach den im Roman verarbeiteten Geschehnissen und vier Wochen nach seiner Publikation am 14. Januar 1963 beging Sylvia Plath Suizid. Nach der späten Veröffentlichung des Romans in den Vereinigten Staaten wurde Die Glasglocke in den 1970er Jahren zu einem Kultbuch. Die Zerrissenheit seiner Protagonistin im Spannungsfeld der gesellschaftlichen Anforderungen traf die Stimmungslage vieler Frauen und trug dazu bei, dass die Autorin postum zu einer Ikone der Frauenbewegung wurde.</value>
+</abstract>
+</XML_Serializer_Tag>
+</books>
+</Person>

@@ -1,0 +1,32 @@
+<Person>
+<name>Hermann Bahr</name>
+<variantName />
+<thumbnail>https://commons.wikimedia.org/wiki/Special:FilePath/Hermann_Bahr_1891.jpg?width=270</thumbnail>
+<birthEN>July 19, 1863</birthEN>
+<birthDE>19. Juli 1863</birthDE>
+<deathEN>January 15, 1934</deathEN>
+<deathDE>15. Januar 1934</deathDE>
+<birthPlace>
+<XML_Serializer_Tag>Linz</XML_Serializer_Tag>
+</birthPlace>
+<deathPlace>
+<XML_Serializer_Tag>München</XML_Serializer_Tag>
+</deathPlace>
+<professionOrOccupation>
+<XML_Serializer_Tag>Journalist</XML_Serializer_Tag>
+<XML_Serializer_Tag>Klassischer Philologe</XML_Serializer_Tag>
+<XML_Serializer_Tag>Jurist</XML_Serializer_Tag>
+<XML_Serializer_Tag>Regisseur</XML_Serializer_Tag>
+<XML_Serializer_Tag>Dramaturg</XML_Serializer_Tag>
+<XML_Serializer_Tag>Literaturkritiker</XML_Serializer_Tag>
+<XML_Serializer_Tag>Schriftsteller</XML_Serializer_Tag>
+<XML_Serializer_Tag>Schriftsteller</XML_Serializer_Tag>
+<XML_Serializer_Tag>Lektor</XML_Serializer_Tag>
+</professionOrOccupation>
+<dbpResource>http://dbpedia.org/resource/Hermann_Bahr</dbpResource>
+<abstract>Hermann Anastas Bahr (* 19. Juli 1863 in Linz; † 15. Januar 1934 in München) war ein österreichischer Schriftsteller, Dramatiker sowie Theater- und Literaturkritiker. Er gilt als geistreicher Wortführer bürgerlich-literarischer Strömungen vom Naturalismus, über die Wiener Moderne bis hin zum Expressionismus.</abstract>
+<wikilink>http://en.wikipedia.org/wiki/Hermann_Bahr?oldid=606658122</wikilink>
+<artworks />
+<buildings />
+<books />
+</Person>

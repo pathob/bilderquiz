@@ -1,0 +1,30 @@
+<Person>
+<name>Johann Peter Uz</name>
+<variantName>
+<XML_Serializer_Tag>Johannes Peter Uz</XML_Serializer_Tag>
+<XML_Serializer_Tag>Peter Uz</XML_Serializer_Tag>
+<XML_Serializer_Tag>Johann P. Uz</XML_Serializer_Tag>
+<XML_Serializer_Tag>J. P. Uz</XML_Serializer_Tag>
+<XML_Serializer_Tag>I. P. Uz</XML_Serializer_Tag>
+</variantName>
+<thumbnail>https://commons.wikimedia.org/wiki/Special:FilePath/UzJP.jpg?width=270</thumbnail>
+<birthEN>October 3, 1720</birthEN>
+<birthDE>3. Oktober 1720</birthDE>
+<deathEN>May 12, 1796</deathEN>
+<deathDE>12. Mai 1796</deathDE>
+<birthPlace>
+<XML_Serializer_Tag>Ansbach</XML_Serializer_Tag>
+</birthPlace>
+<deathPlace>
+<XML_Serializer_Tag>Ansbach</XML_Serializer_Tag>
+</deathPlace>
+<professionOrOccupation>
+<XML_Serializer_Tag>Schriftsteller</XML_Serializer_Tag>
+</professionOrOccupation>
+<dbpResource>http://dbpedia.org/resource/Johann_Uz</dbpResource>
+<abstract>Johann Peter Uz (* 3. Oktober 1720 in Ansbach; † 12. Mai 1796 ebenda) war ein deutscher Dichter. Als ausdrucksstarkes Talent des Dichterkreises in Halle (Saale) verkörperte Uz die bürgerliche Ausformung der teils höfisch beeinflussten Rokokokultur.</abstract>
+<wikilink>http://en.wikipedia.org/wiki/Johann_Uz?oldid=600822912</wikilink>
+<artworks />
+<buildings />
+<books />
+</Person>

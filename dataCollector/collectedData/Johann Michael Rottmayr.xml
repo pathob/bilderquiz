@@ -21,8 +21,10 @@
 <XML_Serializer_Tag>Künstler</XML_Serializer_Tag>
 <XML_Serializer_Tag>Maler</XML_Serializer_Tag>
 </professionOrOccupation>
-<artworks />
 <dbpResource>http://dbpedia.org/resource/Johann_Michael_Rottmayr</dbpResource>
 <abstract>Johann Michael Rottmayr (getauft 11. Dezember 1654 in Laufen an der Salzach; † 25. Oktober 1730 in Wien) war ein Salzburger Barockmaler. Er gilt neben Martino Altomonte als erster aus Mitteleuropa stammender Meister dieses Stils im heutigen Österreich.</abstract>
 <wikilink>http://en.wikipedia.org/wiki/Johann_Michael_Rottmayr?oldid=601148053</wikilink>
+<artworks />
+<buildings />
+<books />
 </Person>

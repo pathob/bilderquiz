@@ -1,0 +1,67 @@
+<Person>
+<name>Paul Feyerabend</name>
+<variantName>
+<XML_Serializer_Tag>Paul Karl Feyerabend</XML_Serializer_Tag>
+<XML_Serializer_Tag>Paul K. Feyerabend</XML_Serializer_Tag>
+<XML_Serializer_Tag>P. K. Feyerabend</XML_Serializer_Tag>
+<XML_Serializer_Tag>Paul Fajerabend</XML_Serializer_Tag>
+<XML_Serializer_Tag>Bao luo Fei ye a ben de</XML_Serializer_Tag>
+<XML_Serializer_Tag>Baoluo-Feiyeabende</XML_Serializer_Tag>
+<XML_Serializer_Tag>Baoluo Feiyeabende</XML_Serializer_Tag>
+</variantName>
+<thumbnail>https://commons.wikimedia.org/wiki/Special:FilePath/Paul_Feyerabend_Berkeley.jpg?width=270</thumbnail>
+<birthEN>January 13, 1924</birthEN>
+<birthDE>13. Januar 1924</birthDE>
+<deathEN>February 11, 1994</deathEN>
+<deathDE>11. Februar 1994</deathDE>
+<birthPlace>
+<XML_Serializer_Tag>Wien</XML_Serializer_Tag>
+</birthPlace>
+<deathPlace>
+<XML_Serializer_Tag>Genolier</XML_Serializer_Tag>
+</deathPlace>
+<professionOrOccupation>
+<XML_Serializer_Tag>Philosoph</XML_Serializer_Tag>
+<XML_Serializer_Tag>Gelehrter</XML_Serializer_Tag>
+</professionOrOccupation>
+<dbpResource>http://dbpedia.org/resource/Paul_Feyerabend</dbpResource>
+<abstract>Paul Karl Feyerabend (* 13. Januar 1924 in Wien; † 11. Februar 1994 in Genolier im schweizerischen Waadtland) war ein österreichischer Philosoph und Wissenschaftstheoretiker. Er war von 1958 bis 1989 Philosophieprofessor an der Universität von Kalifornien in Berkeley und lebte zeitweilig in England, Deutschland, Neuseeland, Italien, zuletzt in der Schweiz, wo er als Hochschullehrer an der ETH Zürich tätig war.Bekannt wurde Feyerabend durch seinen wissenschaftstheoretischen Anarchismus. Nach Feyerabend lassen sich keine universellen und ahistorischen wissenschaftlichen Methoden formulieren, produktive Wissenschaft müsse vielmehr Methoden nach Belieben verändern, einführen und aufgeben dürfen. Zudem gebe es keine allgemeinen Maßstäbe, mit denen man verschiedene wissenschaftliche Methoden oder Traditionen bewerten könne. Das Fehlen allgemeiner Bewertungsmaßstäbe führt Feyerabend zu einem philosophischen Relativismus, nach dem keine Theorie allgemein wahr oder falsch ist.</abstract>
+<wikilink>http://en.wikipedia.org/wiki/Paul_Feyerabend?oldid=600746271</wikilink>
+<artworks />
+<buildings />
+<books>
+<XML_Serializer_Tag>
+<book>
+<type>uri</type>
+<value>http://dbpedia.org/resource/Against_Method</value>
+</book>
+<author>
+<type>uri</type>
+<value>http://dbpedia.org/resource/Paul_Feyerabend</value>
+</author>
+<released>
+<type>typed-literal</type>
+<datatype>http://www.w3.org/2001/XMLSchema#integer</datatype>
+<value>1975</value>
+</released>
+<wikilink>
+<type>uri</type>
+<value>http://en.wikipedia.org/wiki/Against_Method?oldid=606087232</value>
+</wikilink>
+</XML_Serializer_Tag>
+<XML_Serializer_Tag>
+<book>
+<type>uri</type>
+<value>http://dbpedia.org/resource/Killing_Time_(book)</value>
+</book>
+<author>
+<type>uri</type>
+<value>http://dbpedia.org/resource/Paul_Feyerabend</value>
+</author>
+<wikilink>
+<type>uri</type>
+<value>http://en.wikipedia.org/wiki/Killing_Time_(book)?oldid=595562997</value>
+</wikilink>
+</XML_Serializer_Tag>
+</books>
+</Person>

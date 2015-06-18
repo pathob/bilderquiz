@@ -1,0 +1,33 @@
+<Person>
+<name>Ruth Berlau</name>
+<variantName>
+<XML_Serializer_Tag>Maria Sten</XML_Serializer_Tag>
+<XML_Serializer_Tag>Ruth Hamlet</XML_Serializer_Tag>
+<XML_Serializer_Tag>露特·贝尔劳</XML_Serializer_Tag>
+<XML_Serializer_Tag>露特 贝尔劳</XML_Serializer_Tag>
+</variantName>
+<thumbnail>https://commons.wikimedia.org/wiki/Special:FilePath/Tombstone_Ruth_Berlau.jpg?width=270</thumbnail>
+<birthEN>August 24, 1906</birthEN>
+<birthDE>24. August 1906</birthDE>
+<deathEN>January 16, 1974</deathEN>
+<deathDE>16. Januar 1974</deathDE>
+<birthPlace>
+<XML_Serializer_Tag>Kopenhagen</XML_Serializer_Tag>
+</birthPlace>
+<deathPlace>
+<XML_Serializer_Tag>Berlin</XML_Serializer_Tag>
+</deathPlace>
+<professionOrOccupation>
+<XML_Serializer_Tag>Schauspielerin</XML_Serializer_Tag>
+<XML_Serializer_Tag>Regisseurin</XML_Serializer_Tag>
+<XML_Serializer_Tag>Schriftstellerin</XML_Serializer_Tag>
+<XML_Serializer_Tag>Übersetzerin</XML_Serializer_Tag>
+<XML_Serializer_Tag>Photographin</XML_Serializer_Tag>
+</professionOrOccupation>
+<dbpResource>http://dbpedia.org/resource/Ruth_Berlau</dbpResource>
+<abstract>Ruth Berlau (* 24. August 1906 in Kopenhagen; † 15. Januar 1974 in Ost-Berlin) war eine dänische Schauspielerin, Regisseurin, Fotografin und Schriftstellerin. Sie wurde bekannt durch ihre Zusammenarbeit mit Bertolt Brecht an verschiedenen Theaterstücken und Aufführungen.</abstract>
+<wikilink>http://en.wikipedia.org/wiki/Ruth_Berlau?oldid=605001852</wikilink>
+<artworks />
+<buildings />
+<books />
+</Person>

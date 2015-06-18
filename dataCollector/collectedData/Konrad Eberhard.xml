@@ -15,8 +15,10 @@
 <XML_Serializer_Tag>Maler</XML_Serializer_Tag>
 <XML_Serializer_Tag>Lithograph</XML_Serializer_Tag>
 </professionOrOccupation>
-<artworks />
 <dbpResource>http://dbpedia.org/resource/Konrad_Eberhard</dbpResource>
 <abstract>Konrad Eberhard (* 25. November 1768 in Hindelang; † 12. März 1859 in München) war ein deutscher Bildhauer und Maler.</abstract>
 <wikilink>http://en.wikipedia.org/wiki/Konrad_Eberhard?oldid=600027485</wikilink>
+<artworks />
+<buildings />
+<books />
 </Person>

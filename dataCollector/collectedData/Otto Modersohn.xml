@@ -17,8 +17,10 @@
 <XML_Serializer_Tag>Graphiker</XML_Serializer_Tag>
 <XML_Serializer_Tag>Landschaftsmaler</XML_Serializer_Tag>
 </professionOrOccupation>
-<artworks />
 <dbpResource>http://dbpedia.org/resource/Otto_Modersohn</dbpResource>
 <abstract>Friedrich Wilhelm Otto Modersohn (* 22. Februar 1865 in Soest, Westfalen; † 10. März 1943 in Rotenburg, Wümme) war ein deutscher Landschaftsmaler.</abstract>
 <wikilink>http://en.wikipedia.org/wiki/Otto_Modersohn?oldid=606663141</wikilink>
+<artworks />
+<buildings />
+<books />
 </Person>

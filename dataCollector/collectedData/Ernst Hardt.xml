@@ -1,0 +1,29 @@
+<Person>
+<name>Ernst Hardt</name>
+<variantName>
+<XML_Serializer_Tag>E. Hardt</XML_Serializer_Tag>
+<XML_Serializer_Tag>Ernst Friedrich Wilhelm Hardt</XML_Serializer_Tag>
+<XML_Serializer_Tag>Prosper Hardt</XML_Serializer_Tag>
+<XML_Serializer_Tag>Ernst Stöckhardt</XML_Serializer_Tag>
+<XML_Serializer_Tag>Friedrich Wilhelm Ernst Hardt</XML_Serializer_Tag>
+</variantName>
+<thumbnail>https://de.wikipedia.org/wiki/Special:FilePath/WP_Ernst_Hardt.jpg?width=270</thumbnail>
+<birthEN>May 9, 1876</birthEN>
+<birthDE>9. Mai 1876</birthDE>
+<deathEN>January 3, 1947</deathEN>
+<deathDE>3. Januar 1947</deathDE>
+<birthPlace />
+<deathPlace />
+<professionOrOccupation>
+<XML_Serializer_Tag>Schriftsteller</XML_Serializer_Tag>
+<XML_Serializer_Tag>Dramatiker</XML_Serializer_Tag>
+<XML_Serializer_Tag>Übersetzer</XML_Serializer_Tag>
+<XML_Serializer_Tag>Theaterintendant</XML_Serializer_Tag>
+</professionOrOccupation>
+<dbpResource>http://dbpedia.org/resource/Ernst_Hardt</dbpResource>
+<abstract>Friedrich Wilhelm Ernst Hardt, falsch auch Ernst Stöckhardt, (* 9. Mai 1876 in Graudenz, Westpreußen; † 3. Januar 1947 in Ichenhausen bei Günzburg) war ein deutscher Schriftsteller, Übersetzer, Theater- und Rundfunkintendant.</abstract>
+<wikilink>http://en.wikipedia.org/wiki/Ernst_Hardt?oldid=604420041</wikilink>
+<artworks />
+<buildings />
+<books />
+</Person>

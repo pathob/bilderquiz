@@ -1,0 +1,202 @@
+<Person>
+<name>Louisa May Alcott</name>
+<variantName>
+<XML_Serializer_Tag>Jo</XML_Serializer_Tag>
+<XML_Serializer_Tag>Louisa May Alcott</XML_Serializer_Tag>
+<XML_Serializer_Tag>Louisa Alcott</XML_Serializer_Tag>
+<XML_Serializer_Tag>A. M. Barnard</XML_Serializer_Tag>
+<XML_Serializer_Tag>Luisa May Alcott</XML_Serializer_Tag>
+<XML_Serializer_Tag>Louise Alcott</XML_Serializer_Tag>
+<XML_Serializer_Tag>Louise M. Alcott</XML_Serializer_Tag>
+<XML_Serializer_Tag>Louisa M. Alcott</XML_Serializer_Tag>
+<XML_Serializer_Tag>L. M. Ōrukotto</XML_Serializer_Tag>
+<XML_Serializer_Tag>Louisa-M. Alcott</XML_Serializer_Tag>
+<XML_Serializer_Tag>L. M. Alcott</XML_Serializer_Tag>
+<XML_Serializer_Tag>May Alcott</XML_Serializer_Tag>
+<XML_Serializer_Tag>... Aoerkete</XML_Serializer_Tag>
+<XML_Serializer_Tag>Ruiza Mei Orukotto</XML_Serializer_Tag>
+</variantName>
+<thumbnail>https://commons.wikimedia.org/wiki/Special:FilePath/Louisa_May_Alcott.jpg?width=270</thumbnail>
+<birthEN>November 29, 1832</birthEN>
+<birthDE>29. November 1832</birthDE>
+<deathEN>March 6, 1888</deathEN>
+<deathDE>6. März 1888</deathDE>
+<birthPlace>
+<XML_Serializer_Tag>Germantown, Pa.</XML_Serializer_Tag>
+</birthPlace>
+<deathPlace>
+<XML_Serializer_Tag>Boston-Roxbury</XML_Serializer_Tag>
+</deathPlace>
+<professionOrOccupation>
+<XML_Serializer_Tag>Schriftstellerin</XML_Serializer_Tag>
+</professionOrOccupation>
+<dbpResource>http://dbpedia.org/resource/Louisa_May_Alcott</dbpResource>
+<abstract>Louisa May Alcott (* 29. November 1832 in Germantown, Pennsylvania; † 6. März 1888 in Roxbury, Massachusetts) war eine US-amerikanische Schriftstellerin. Weltweit berühmt wurde sie als Autorin der Jugendbuch-Tetralogie Little Women, die auf Kindheitserlebnissen mit ihren drei Schwestern beruht.</abstract>
+<wikilink>http://en.wikipedia.org/wiki/Louisa_May_Alcott?oldid=606372691</wikilink>
+<artworks />
+<buildings />
+<books>
+<XML_Serializer_Tag>
+<book>
+<type>uri</type>
+<value>http://dbpedia.org/resource/Work:_A_Story_of_Experience</value>
+</book>
+<author>
+<type>uri</type>
+<value>http://dbpedia.org/resource/Louisa_May_Alcott</value>
+</author>
+<thumbnail>
+<type>uri</type>
+<value>http://commons.wikimedia.org/wiki/Special:FilePath/Work_1st_ed_title_pg.jpg?width=300</value>
+</thumbnail>
+<released>
+<type>typed-literal</type>
+<datatype>http://www.w3.org/2001/XMLSchema#integer</datatype>
+<value>1873</value>
+</released>
+<wikilink>
+<type>uri</type>
+<value>http://en.wikipedia.org/wiki/Work:_A_Story_of_Experience?oldid=544942471</value>
+</wikilink>
+</XML_Serializer_Tag>
+<XML_Serializer_Tag>
+<book>
+<type>uri</type>
+<value>http://dbpedia.org/resource/Little_Men</value>
+</book>
+<author>
+<type>uri</type>
+<value>http://dbpedia.org/resource/Louisa_May_Alcott</value>
+</author>
+<thumbnail>
+<type>uri</type>
+<value>http://commons.wikimedia.org/wiki/Special:FilePath/Little_Men_1st_ed.jpg?width=300</value>
+</thumbnail>
+<released>
+<type>typed-literal</type>
+<datatype>http://www.w3.org/2001/XMLSchema#integer</datatype>
+<value>1871</value>
+</released>
+<wikilink>
+<type>uri</type>
+<value>http://en.wikipedia.org/wiki/Little_Men?oldid=592078231</value>
+</wikilink>
+</XML_Serializer_Tag>
+<XML_Serializer_Tag>
+<book>
+<type>uri</type>
+<value>http://dbpedia.org/resource/An_Old-Fashioned_Girl</value>
+</book>
+<author>
+<type>uri</type>
+<value>http://dbpedia.org/resource/Louisa_May_Alcott</value>
+</author>
+<thumbnail>
+<type>uri</type>
+<value>http://commons.wikimedia.org/wiki/Special:FilePath/1870_Polly_OldFashionedGirl_byLMAlcott_RobertsBros.png?width=300</value>
+</thumbnail>
+<wikilink>
+<type>uri</type>
+<value>http://en.wikipedia.org/wiki/An_Old-Fashioned_Girl?oldid=592657101</value>
+</wikilink>
+</XML_Serializer_Tag>
+<XML_Serializer_Tag>
+<book>
+<type>uri</type>
+<value>http://dbpedia.org/resource/Under_the_Lilacs</value>
+</book>
+<author>
+<type>uri</type>
+<value>http://dbpedia.org/resource/Louisa_May_Alcott</value>
+</author>
+<thumbnail>
+<type>uri</type>
+<value>http://commons.wikimedia.org/wiki/Special:FilePath/Under_the_Lilacs_Illus.jpg?width=300</value>
+</thumbnail>
+<wikilink>
+<type>uri</type>
+<value>http://en.wikipedia.org/wiki/Under_the_Lilacs?oldid=572916462</value>
+</wikilink>
+</XML_Serializer_Tag>
+<XML_Serializer_Tag>
+<book>
+<type>uri</type>
+<value>http://dbpedia.org/resource/Jack_and_Jill:_A_Village_Story</value>
+</book>
+<author>
+<type>uri</type>
+<value>http://dbpedia.org/resource/Louisa_May_Alcott</value>
+</author>
+<thumbnail>
+<type>uri</type>
+<value>http://commons.wikimedia.org/wiki/Special:FilePath/Jack_and_Jill_A_Village_Story.jpg?width=300</value>
+</thumbnail>
+<wikilink>
+<type>uri</type>
+<value>http://en.wikipedia.org/wiki/Jack_and_Jill:_A_Village_Story?oldid=551795458</value>
+</wikilink>
+</XML_Serializer_Tag>
+<XML_Serializer_Tag>
+<book>
+<type>uri</type>
+<value>http://dbpedia.org/resource/Little_Women</value>
+</book>
+<author>
+<type>uri</type>
+<value>http://dbpedia.org/resource/Louisa_May_Alcott</value>
+</author>
+<released>
+<type>typed-literal</type>
+<datatype>http://www.w3.org/2001/XMLSchema#integer</datatype>
+<value>1868</value>
+</released>
+<wikilink>
+<type>uri</type>
+<value>http://en.wikipedia.org/wiki/Little_Women?oldid=606692287</value>
+</wikilink>
+<abstract>
+<type>literal</type>
+<xml:lang>de</xml:lang>
+<value>Little Women ist ein 1868/1869 in zwei Teilen veröffentlichter Roman der US-amerikanischen Schriftstellerin Louisa May Alcott.Little Women I und II, die in England unter den Titeln Little Women und Good Wives veröffentlicht wurden, bildeten den Auftakt von Louisa May Alcotts Kinder- und Jugendliteratur (die letzten Teile der March-Trilogie Little Men und Jo’s Boys sowie die Romane An Old-Fashioned Girl, Eight Cousins, Rose in Bloom, Under the Lilacs und Jack and Jill wurden zwischen 1869 und 1886 verfasst). Little Women I verfasste Louisa May Alcott zwischen Mai und Juli 1868; die Veröffentlichung folgte im Oktober desselben Jahres. Aufgrund des für die Autorin sehr überraschenden einschlagenden Erfolges begann sie schon im November den zweiten Teil von Little Women, den sie im Januar 1869 fertigstellte und im April veröffentlichte. Die Handlung und Thematik des ersten, stark autobiographisch geprägten Teils von Little Women ist eher in den 1840er und 1850er Jahren anzusiedeln. Da er aber aus der Sicht der späten 1860er, also nach Beendigung des amerikanischen Bürgerkriegs (Sezessionskrieg), erzählt wird, wurden auch Elemente der 1860er Jahre integriert.</value>
+</abstract>
+</XML_Serializer_Tag>
+<XML_Serializer_Tag>
+<book>
+<type>uri</type>
+<value>http://dbpedia.org/resource/A_Long_Fatal_Love_Chase</value>
+</book>
+<author>
+<type>uri</type>
+<value>http://dbpedia.org/resource/Louisa_May_Alcott</value>
+</author>
+<released>
+<type>typed-literal</type>
+<datatype>http://www.w3.org/2001/XMLSchema#integer</datatype>
+<value>1995</value>
+</released>
+<wikilink>
+<type>uri</type>
+<value>http://en.wikipedia.org/wiki/A_Long_Fatal_Love_Chase?oldid=544880382</value>
+</wikilink>
+</XML_Serializer_Tag>
+<XML_Serializer_Tag>
+<book>
+<type>uri</type>
+<value>http://dbpedia.org/resource/Jo&apos;s_Boys</value>
+</book>
+<author>
+<type>uri</type>
+<value>http://dbpedia.org/resource/Louisa_May_Alcott</value>
+</author>
+<released>
+<type>typed-literal</type>
+<datatype>http://www.w3.org/2001/XMLSchema#integer</datatype>
+<value>1886</value>
+</released>
+<wikilink>
+<type>uri</type>
+<value>http://en.wikipedia.org/wiki/Jo&apos;s_Boys?oldid=603940435</value>
+</wikilink>
+</XML_Serializer_Tag>
+</books>
+</Person>

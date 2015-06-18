@@ -1,0 +1,113 @@
+<Person>
+<name>Heinrich Mann</name>
+<variantName>
+<XML_Serializer_Tag>Chajnrich Mann</XML_Serializer_Tag>
+<XML_Serializer_Tag>Genrich Mann</XML_Serializer_Tag>
+<XML_Serializer_Tag>Heinrihs Mann</XML_Serializer_Tag>
+<XML_Serializer_Tag>Henrich Mann</XML_Serializer_Tag>
+<XML_Serializer_Tag>Henryk Mann</XML_Serializer_Tag>
+<XML_Serializer_Tag>H. Mann</XML_Serializer_Tag>
+<XML_Serializer_Tag>Luiz Heinrich Mann</XML_Serializer_Tag>
+<XML_Serializer_Tag>Heinrihs Manns</XML_Serializer_Tag>
+<XML_Serializer_Tag>Chai͏̈nrich Man</XML_Serializer_Tag>
+<XML_Serializer_Tag>Chajnrich Man</XML_Serializer_Tag>
+<XML_Serializer_Tag>Genrich Man</XML_Serializer_Tag>
+<XML_Serializer_Tag>Hajnrich Man</XML_Serializer_Tag>
+<XML_Serializer_Tag>Hajnrih Man</XML_Serializer_Tag>
+<XML_Serializer_Tag>Hainrihi Man</XML_Serializer_Tag>
+<XML_Serializer_Tag>Hainrikh Man</XML_Serializer_Tag>
+<XML_Serializer_Tag>Hāynrīš Mān</XML_Serializer_Tag>
+<XML_Serializer_Tag>Heinrich Man</XML_Serializer_Tag>
+<XML_Serializer_Tag>Hsiang-li-hsi Man</XML_Serializer_Tag>
+<XML_Serializer_Tag>Henglix Man</XML_Serializer_Tag>
+<XML_Serializer_Tag>H. Man</XML_Serializer_Tag>
+<XML_Serializer_Tag>... Mān</XML_Serializer_Tag>
+<XML_Serializer_Tag>Heinrichas Manas</XML_Serializer_Tag>
+<XML_Serializer_Tag>Hainrih Mani</XML_Serializer_Tag>
+<XML_Serializer_Tag>하인리히 만</XML_Serializer_Tag>
+<XML_Serializer_Tag>היינרוך מאן</XML_Serializer_Tag>
+<XML_Serializer_Tag>亨利希·曼</XML_Serializer_Tag>
+<XML_Serializer_Tag>ハインリヒ・マン</XML_Serializer_Tag>
+<XML_Serializer_Tag>亨利希 曼</XML_Serializer_Tag>
+</variantName>
+<thumbnail>https://commons.wikimedia.org/wiki/Special:FilePath/Bundesarchiv_Bild_183-R98911,_Heinrich_Mann.jpg?width=270</thumbnail>
+<birthEN>March 27, 1871</birthEN>
+<birthDE>27. März 1871</birthDE>
+<deathEN>March 12, 1950</deathEN>
+<deathDE>12. März 1950</deathDE>
+<birthPlace>
+<XML_Serializer_Tag>Lübeck</XML_Serializer_Tag>
+</birthPlace>
+<deathPlace>
+<XML_Serializer_Tag>Santa Monica, Calif.</XML_Serializer_Tag>
+</deathPlace>
+<professionOrOccupation>
+<XML_Serializer_Tag>Dramatiker</XML_Serializer_Tag>
+<XML_Serializer_Tag>Übersetzer</XML_Serializer_Tag>
+<XML_Serializer_Tag>Zeichner</XML_Serializer_Tag>
+<XML_Serializer_Tag>Schriftsteller</XML_Serializer_Tag>
+</professionOrOccupation>
+<dbpResource>http://dbpedia.org/resource/Heinrich_Mann</dbpResource>
+<abstract>Luiz Heinrich Mann (* 27. März 1871 in Lübeck; † 11. März 1950 in Santa Monica, Kalifornien) war ein deutscher Schriftsteller und der ältere Bruder von Thomas Mann, in dessen Schatten er stets stand.Ab 1930 war er Präsident der Preußischen Akademie der Künste, aus der er nach der nationalsozialistischen Machtergreifung ausgeschlossen wurde. Mann, der bis 1933 meist in München gelebt hatte, emigrierte zunächst nach Frankreich, dann in die USA. Im Exil verfasste er zahlreiche Arbeiten, darunter viele antifaschistische Texte.Seine Erzählkunst war vom französischen Roman des 19. Jahrhunderts geprägt. Seine Werke hatten oft gesellschaftskritische Intentionen. Die Frühwerke sind zumal oft beißende Satiren auf bürgerliche Scheinmoral, der Mann – inspiriert von Friedrich Nietzsche und Gabriele D’Annunzio – eine Welt der Schönheit und Kunst entgegensetzte.Mann analysierte in den folgenden Werken die autoritären Strukturen des Deutschen Kaiserreichs im Zeitalter des Wilhelminismus. Resultat waren drei Romane, die heute als die Kaiserreich-Trilogie bekannt sind, deren erster Teil Der Untertan künstlerisch am meisten überzeugt.Im Exil verfasste er sein Hauptwerk, die Romane Die Jugend des Königs Henri Quatre und Die Vollendung des Königs Henri Quatre. Sein erzählerisches Werk steht neben einer reichen Betätigung als Essayist und Publizist. Er tendierte schon sehr früh zur Demokratie und positionierte sich sofort gegen den Nationalsozialismus, dessen Anhänger Manns Werke öffentlich verbrannten.</abstract>
+<wikilink>http://en.wikipedia.org/wiki/Heinrich_Mann?oldid=593151909</wikilink>
+<artworks />
+<buildings />
+<books>
+<XML_Serializer_Tag>
+<book>
+<type>uri</type>
+<value>http://dbpedia.org/resource/Der_Untertan</value>
+</book>
+<author>
+<type>uri</type>
+<value>http://dbpedia.org/resource/Heinrich_Mann</value>
+</author>
+<thumbnail>
+<type>uri</type>
+<value>http://commons.wikimedia.org/wiki/Special:FilePath/Heinrich_Mann_Der_Untertan_(1918).jpg?width=300</value>
+</thumbnail>
+<released>
+<type>typed-literal</type>
+<datatype>http://www.w3.org/2001/XMLSchema#integer</datatype>
+<value>1918</value>
+</released>
+<wikilink>
+<type>uri</type>
+<value>http://en.wikipedia.org/wiki/Der_Untertan?oldid=595577260</value>
+</wikilink>
+<abstract>
+<type>literal</type>
+<xml:lang>de</xml:lang>
+<value>Der Untertan ist ein Roman von Heinrich Mann. Das Manuskript wurde einen Monat vor Beginn des Ersten Weltkrieges 1914 abgeschlossen. Der Roman erschien von Januar 1914 bis kurz nach Kriegsbeginn als Vorabdruck in Fortsetzungen in der Zeitschrift Zeit im Bild und als Buchausgabe erst 1918 bei Kurt Wolff (Einbandgestaltung: Emil Preetorius) in Leipzig; nach seiner Veröffentlichung kam es zu heftigen Kontroversen.</value>
+</abstract>
+</XML_Serializer_Tag>
+<XML_Serializer_Tag>
+<book>
+<type>uri</type>
+<value>http://dbpedia.org/resource/Professor_Unrat</value>
+</book>
+<author>
+<type>uri</type>
+<value>http://dbpedia.org/resource/Heinrich_Mann</value>
+</author>
+<thumbnail>
+<type>uri</type>
+<value>http://commons.wikimedia.org/wiki/Special:FilePath/Professor_Unrat_Titel.JPG?width=300</value>
+</thumbnail>
+<released>
+<type>typed-literal</type>
+<datatype>http://www.w3.org/2001/XMLSchema#integer</datatype>
+<value>1905</value>
+</released>
+<wikilink>
+<type>uri</type>
+<value>http://en.wikipedia.org/wiki/Professor_Unrat?oldid=599915318</value>
+</wikilink>
+<abstract>
+<type>literal</type>
+<xml:lang>de</xml:lang>
+<value>Professor Unrat oder Das Ende eines Tyrannen ist eines der wichtigsten Werke Heinrich Manns.Professor Unrat entstand in einigen Monaten des Jahres 1904 und erschien ein Jahr später. In Manns Heimatstadt Lübeck, deren Einwohner für den Roman herhalten mussten, wurde das Buch möglichst totgeschwiegen und, wenn das nichts half, negativ kritisiert. Es herrschte faktisch ein Verbot des Buches. Durch die zahlreichen Übersetzungen und durch die Verfilmung als Der blaue Engel mit Marlene Dietrich erlangte das Buch Weltruhm. Manche sahen im Professor Unrat eine Karikatur des deutschen Bildungsbürgers der Wilhelminischen Epoche. Es zeigte, welche Höhe die Doppelmoral des Bürgertums erreichen kann, wenn es sich von Sekundärtugenden bestimmen lässt, und ist ein Dokument für die Mentalität in Deutschland vor den Weltkriegen.</value>
+</abstract>
+</XML_Serializer_Tag>
+</books>
+</Person>

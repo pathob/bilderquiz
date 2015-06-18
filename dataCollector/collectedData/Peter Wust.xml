@@ -1,0 +1,29 @@
+<Person>
+<name>Peter Wust</name>
+<variantName>
+<XML_Serializer_Tag>Peteris Wustas</XML_Serializer_Tag>
+<XML_Serializer_Tag>Peter Josef Wust</XML_Serializer_Tag>
+<XML_Serializer_Tag>P. Wust</XML_Serializer_Tag>
+</variantName>
+<thumbnail>https://commons.wikimedia.org/wiki/Special:FilePath/Saar_1950_290_Peter_Wust.jpg?width=270</thumbnail>
+<birthEN>August 28, 1884</birthEN>
+<birthDE>28. August 1884</birthDE>
+<deathEN>April 3, 1940</deathEN>
+<deathDE>3. April 1940</deathDE>
+<birthPlace>
+<XML_Serializer_Tag>Rissenthal</XML_Serializer_Tag>
+</birthPlace>
+<deathPlace>
+<XML_Serializer_Tag>Münster (Westf)</XML_Serializer_Tag>
+</deathPlace>
+<professionOrOccupation>
+<XML_Serializer_Tag>Philosoph</XML_Serializer_Tag>
+<XML_Serializer_Tag>Schriftsteller</XML_Serializer_Tag>
+</professionOrOccupation>
+<dbpResource>http://dbpedia.org/resource/Peter_Wust</dbpResource>
+<abstract>Peter Wust (* 28. August 1884 in Rissenthal; † 3. April 1940 in Münster) war ein deutscher christlicher Existenzphilosoph.</abstract>
+<wikilink>http://en.wikipedia.org/wiki/Peter_Wust?oldid=565067794</wikilink>
+<artworks />
+<buildings />
+<books />
+</Person>

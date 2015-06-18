@@ -1,0 +1,68 @@
+<Person>
+<name>Sid Fleischman</name>
+<variantName>
+<XML_Serializer_Tag>Sid Filāīšmān</XML_Serializer_Tag>
+<XML_Serializer_Tag>Shido Furaishuman</XML_Serializer_Tag>
+<XML_Serializer_Tag>A. S. Fleischman</XML_Serializer_Tag>
+<XML_Serializer_Tag>Max Brindle</XML_Serializer_Tag>
+<XML_Serializer_Tag>Albert Sidney Fleischman</XML_Serializer_Tag>
+<XML_Serializer_Tag>Max Brindle</XML_Serializer_Tag>
+</variantName>
+<thumbnail>https://en.wikipedia.org/wiki/Special:FilePath/Sid_Fleischman.jpg?width=270</thumbnail>
+<birthEN>March 16, 1920</birthEN>
+<birthDE>16. März 1920</birthDE>
+<deathEN>March 17, 2010</deathEN>
+<deathDE>17. März 2010</deathDE>
+<birthPlace>
+<XML_Serializer_Tag>New York- Brooklyn</XML_Serializer_Tag>
+</birthPlace>
+<deathPlace>
+<XML_Serializer_Tag>Santa Monica, Calif.</XML_Serializer_Tag>
+</deathPlace>
+<professionOrOccupation>
+<XML_Serializer_Tag>Kinderbuchautor</XML_Serializer_Tag>
+<XML_Serializer_Tag>Autor</XML_Serializer_Tag>
+<XML_Serializer_Tag>Drehbuchautor</XML_Serializer_Tag>
+<XML_Serializer_Tag>Schriftsteller</XML_Serializer_Tag>
+</professionOrOccupation>
+<dbpResource>http://dbpedia.org/resource/Sid_Fleischman</dbpResource>
+<abstract>Albert Sidney Fleischman, gebürtig Avron Zalmon Fleischman (* 16. März 1920 in Brooklyn, New York City; † 17. März 2010 in Santa Monica, Kalifornien) war ein US-amerikanischer Schriftsteller. Er schrieb hauptsächlich Kinderliteratur und gemeinsam mit seinem Sohn, dem Schriftsteller Paul Fleischman, sind sie das einzige Vater-Sohn-Gespann, welches die Newbery Medal gewann.</abstract>
+<wikilink>http://en.wikipedia.org/wiki/Sid_Fleischman?oldid=606064127</wikilink>
+<artworks />
+<buildings />
+<books>
+<XML_Serializer_Tag>
+<book>
+<type>uri</type>
+<value>http://dbpedia.org/resource/The_Whipping_Boy</value>
+</book>
+<author>
+<type>uri</type>
+<value>http://dbpedia.org/resource/Sid_Fleischman</value>
+</author>
+<released>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>April 1986</value>
+</released>
+<wikilink>
+<type>uri</type>
+<value>http://en.wikipedia.org/wiki/The_Whipping_Boy?oldid=584398291</value>
+</wikilink>
+</XML_Serializer_Tag>
+<XML_Serializer_Tag>
+<book>
+<type>uri</type>
+<value>http://dbpedia.org/resource/By_the_Great_Horn_Spoon!</value>
+</book>
+<author>
+<type>uri</type>
+<value>http://dbpedia.org/resource/Sid_Fleischman</value>
+</author>
+<wikilink>
+<type>uri</type>
+<value>http://en.wikipedia.org/wiki/By_the_Great_Horn_Spoon!?oldid=604528240</value>
+</wikilink>
+</XML_Serializer_Tag>
+</books>
+</Person>

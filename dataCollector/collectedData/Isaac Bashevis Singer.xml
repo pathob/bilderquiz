@@ -1,0 +1,105 @@
+<Person>
+<name>Isaac Bashevis Singer</name>
+<variantName>
+<XML_Serializer_Tag>I. B. Singer</XML_Serializer_Tag>
+<XML_Serializer_Tag>Isak B. Singer</XML_Serializer_Tag>
+<XML_Serializer_Tag>Isaac B. Singer</XML_Serializer_Tag>
+<XML_Serializer_Tag>Isaak B. Singer</XML_Serializer_Tag>
+<XML_Serializer_Tag>Itzhak B. Singer</XML_Serializer_Tag>
+<XML_Serializer_Tag>Itzhak Bashevis Singer</XML_Serializer_Tag>
+<XML_Serializer_Tag>Icchok Baszewis Singer</XML_Serializer_Tag>
+<XML_Serializer_Tag>Isaac Bashevis</XML_Serializer_Tag>
+<XML_Serializer_Tag>Yitshak Bashevits</XML_Serializer_Tag>
+<XML_Serializer_Tag>Isaac Bashevis Singer</XML_Serializer_Tag>
+<XML_Serializer_Tag>J. Bashevis-Singer</XML_Serializer_Tag>
+<XML_Serializer_Tag>Isaac Bashevis-Singer</XML_Serializer_Tag>
+<XML_Serializer_Tag>Yitshak Bashevis-Zinger</XML_Serializer_Tag>
+<XML_Serializer_Tag>Yiṣḥāq Bašewis</XML_Serializer_Tag>
+<XML_Serializer_Tag>Yiṣḥāq Bašewis-Zinger</XML_Serializer_Tag>
+<XML_Serializer_Tag>Y. Bašewis-Zinger</XML_Serializer_Tag>
+<XML_Serializer_Tag>Jitzchok Bašewis-Zinger</XML_Serializer_Tag>
+<XML_Serializer_Tag>Yiṣḥāq B. Zinger</XML_Serializer_Tag>
+<XML_Serializer_Tag>Yiṣḥāq Baševîs Zînger</XML_Serializer_Tag>
+<XML_Serializer_Tag>Yitshak Bashevis-Zinger</XML_Serializer_Tag>
+<XML_Serializer_Tag>Isak B. Zinger</XML_Serializer_Tag>
+<XML_Serializer_Tag>Jiṣḥaq B&apos;aš&quot;ewwis</XML_Serializer_Tag>
+<XML_Serializer_Tag>Icek-Hersz Zynger</XML_Serializer_Tag>
+<XML_Serializer_Tag>Yisa Xinge</XML_Serializer_Tag>
+<XML_Serializer_Tag>Yitsḥaḳ Bashvis-Zinger</XML_Serializer_Tag>
+<XML_Serializer_Tag>Isaak Mpasebis Sinker</XML_Serializer_Tag>
+<XML_Serializer_Tag>Jitzchok Bašewis</XML_Serializer_Tag>
+<XML_Serializer_Tag>Itzhak Bašewis Zsinger</XML_Serializer_Tag>
+<XML_Serializer_Tag>Itzhak Bashevis Singer</XML_Serializer_Tag>
+<XML_Serializer_Tag>IBS</XML_Serializer_Tag>
+<XML_Serializer_Tag>יצחק בשביס זינגר</XML_Serializer_Tag>
+</variantName>
+<thumbnail>https://commons.wikimedia.org/wiki/Special:FilePath/Isaac_Bashevis_Singer_crop.jpg?width=270</thumbnail>
+<birthEN>November 21, 1902</birthEN>
+<birthDE>21. November 1902</birthDE>
+<deathEN>July 24, 1991</deathEN>
+<deathDE>24. Juli 1991</deathDE>
+<birthPlace>
+<XML_Serializer_Tag>Radzymin</XML_Serializer_Tag>
+</birthPlace>
+<deathPlace>
+<XML_Serializer_Tag>Miami, Fla.</XML_Serializer_Tag>
+</deathPlace>
+<professionOrOccupation>
+<XML_Serializer_Tag>Journalist</XML_Serializer_Tag>
+<XML_Serializer_Tag>Schriftsteller</XML_Serializer_Tag>
+</professionOrOccupation>
+<dbpResource>http://dbpedia.org/resource/Isaac_Bashevis_Singer</dbpResource>
+<abstract>Isaac Bashevis Singer (auch: Isaak Baschewis Singer; jiddisch יצחק באַשעוויס זינגער; Pseudonyme, die er – neben Bashevis – zeitweilig verwendete, waren Varshavsky oder D. Segal; * 21. November 1902 in Leoncin, heute im Powiat Nowodworski (Masowien), Polen; † 24. Juli 1991 in Surfside, Miami-Dade County, Florida) war ein polnisch-US-amerikanischer jiddischer Schriftsteller. Als erster und bislang einziger jiddischer Schriftsteller erhielt er im Jahr 1978 den Nobelpreis für Literatur.</abstract>
+<wikilink>http://en.wikipedia.org/wiki/Isaac_Bashevis_Singer?oldid=605613109</wikilink>
+<artworks />
+<buildings />
+<books>
+<XML_Serializer_Tag>
+<book>
+<type>uri</type>
+<value>http://dbpedia.org/resource/Enemies,_A_Love_Story</value>
+</book>
+<author>
+<type>uri</type>
+<value>http://dbpedia.org/resource/Isaac_Bashevis_Singer</value>
+</author>
+<released>
+<type>typed-literal</type>
+<datatype>http://www.w3.org/2001/XMLSchema#integer</datatype>
+<value>1966</value>
+</released>
+<wikilink>
+<type>uri</type>
+<value>http://en.wikipedia.org/wiki/Enemies,_A_Love_Story?oldid=585926278</value>
+</wikilink>
+</XML_Serializer_Tag>
+<XML_Serializer_Tag>
+<book>
+<type>uri</type>
+<value>http://dbpedia.org/resource/The_Slave_(novel)</value>
+</book>
+<author>
+<type>uri</type>
+<value>http://dbpedia.org/resource/Isaac_Bashevis_Singer</value>
+</author>
+<wikilink>
+<type>uri</type>
+<value>http://en.wikipedia.org/wiki/The_Slave_(novel)?oldid=600136072</value>
+</wikilink>
+</XML_Serializer_Tag>
+<XML_Serializer_Tag>
+<book>
+<type>uri</type>
+<value>http://dbpedia.org/resource/Shosha_(novel)</value>
+</book>
+<author>
+<type>uri</type>
+<value>http://dbpedia.org/resource/Isaac_Bashevis_Singer</value>
+</author>
+<wikilink>
+<type>uri</type>
+<value>http://en.wikipedia.org/wiki/Shosha_(novel)?oldid=606771347</value>
+</wikilink>
+</XML_Serializer_Tag>
+</books>
+</Person>

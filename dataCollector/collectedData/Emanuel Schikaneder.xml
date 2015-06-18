@@ -1,0 +1,35 @@
+<Person>
+<name>Emanuel Schikaneder</name>
+<variantName>
+<XML_Serializer_Tag>Emanuel Schickaneder</XML_Serializer_Tag>
+<XML_Serializer_Tag>Johann Joseph Emanuel Schikaneder</XML_Serializer_Tag>
+<XML_Serializer_Tag>Emanuela Schikanedra</XML_Serializer_Tag>
+<XML_Serializer_Tag>Johann Joseph Emanuel Schickaneder</XML_Serializer_Tag>
+<XML_Serializer_Tag>Johann Emanuel Schickaneder</XML_Serializer_Tag>
+<XML_Serializer_Tag>Johann Emanuel Schikaneder</XML_Serializer_Tag>
+<XML_Serializer_Tag>Emmanuel Schikaneder</XML_Serializer_Tag>
+<XML_Serializer_Tag>Johann E. Schikaneder</XML_Serializer_Tag>
+<XML_Serializer_Tag>Immanuel Schikaneder</XML_Serializer_Tag>
+<XML_Serializer_Tag>Johann Joseph Schickeneder</XML_Serializer_Tag>
+</variantName>
+<thumbnail>https://commons.wikimedia.org/wiki/Special:FilePath/Emanuel_Schikaneder.jpg?width=270</thumbnail>
+<birthEN>September 1, 1751</birthEN>
+<birthDE>1. September 1751</birthDE>
+<deathEN>September 21, 1812</deathEN>
+<deathDE>21. September 1812</deathDE>
+<birthPlace>
+<XML_Serializer_Tag>Straubing</XML_Serializer_Tag>
+</birthPlace>
+<deathPlace>
+<XML_Serializer_Tag>Wien</XML_Serializer_Tag>
+</deathPlace>
+<professionOrOccupation>
+<XML_Serializer_Tag>Schriftsteller</XML_Serializer_Tag>
+</professionOrOccupation>
+<dbpResource>http://dbpedia.org/resource/Emanuel_Schikaneder</dbpResource>
+<abstract>Emanuel Schikaneder (eigentlich Johann Joseph Schickeneder; * 1. September 1751 in Straubing; † 21. September 1812 in Wien) war Schauspieler, Sänger, Regisseur, Dichter und Theaterdirektor.</abstract>
+<wikilink>http://en.wikipedia.org/wiki/Emanuel_Schikaneder?oldid=599695232</wikilink>
+<artworks />
+<buildings />
+<books />
+</Person>

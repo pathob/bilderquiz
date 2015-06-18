@@ -1,0 +1,27 @@
+<Person>
+<name>Norman Angell</name>
+<variantName>
+<XML_Serializer_Tag>Norman L. Angell</XML_Serializer_Tag>
+<XML_Serializer_Tag>Ralph Norman Angell</XML_Serializer_Tag>
+<XML_Serializer_Tag>Ralph Lane</XML_Serializer_Tag>
+<XML_Serializer_Tag>Ralph N. Lane</XML_Serializer_Tag>
+<XML_Serializer_Tag>Ralph Norman Angell Lane</XML_Serializer_Tag>
+</variantName>
+<thumbnail>https://commons.wikimedia.org/wiki/Special:FilePath/Norman_Angell_01.jpg?width=270</thumbnail>
+<birthEN>December 26, 1874</birthEN>
+<birthDE>26. Dezember 1874</birthDE>
+<deathEN>October 7, 1967</deathEN>
+<deathDE>7. Oktober 1967</deathDE>
+<birthPlace />
+<deathPlace />
+<professionOrOccupation>
+<XML_Serializer_Tag>Journalist</XML_Serializer_Tag>
+<XML_Serializer_Tag>Schriftsteller</XML_Serializer_Tag>
+</professionOrOccupation>
+<dbpResource>http://dbpedia.org/resource/Norman_Angell</dbpResource>
+<abstract>Sir Ralph Norman Angell (* 26. Dezember 1874 in Holbeach als Ralph Norman Angell Lane; † 7. Oktober 1967 in Croydon) war ein britischer Schriftsteller und Publizist. Er erhielt 1933 den Friedensnobelpreis als Mitglied der Exekutivkommission des Völkerbunds und des Nationalen Friedensrats.</abstract>
+<wikilink>http://en.wikipedia.org/wiki/Norman_Angell?oldid=601064653</wikilink>
+<artworks />
+<buildings />
+<books />
+</Person>

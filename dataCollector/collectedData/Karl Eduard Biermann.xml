@@ -15,8 +15,10 @@
 <XML_Serializer_Tag>Maler</XML_Serializer_Tag>
 <XML_Serializer_Tag>Künstler</XML_Serializer_Tag>
 </professionOrOccupation>
-<artworks />
 <dbpResource>http://dbpedia.org/resource/Karl_Eduard_Biermann</dbpResource>
 <abstract>Karl Eduard Biermann (* 26. Juli 1803 in Berlin; † 16. Juni 1892 in Berlin) war ein deutscher Maler.</abstract>
 <wikilink>http://en.wikipedia.org/wiki/Karl_Eduard_Biermann?oldid=581945245</wikilink>
+<artworks />
+<buildings />
+<books />
 </Person>

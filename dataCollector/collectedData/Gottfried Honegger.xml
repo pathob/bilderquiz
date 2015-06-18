@@ -17,8 +17,10 @@
 <XML_Serializer_Tag>Maler</XML_Serializer_Tag>
 <XML_Serializer_Tag>Bildhauer</XML_Serializer_Tag>
 </professionOrOccupation>
-<artworks />
 <dbpResource>http://dbpedia.org/resource/Gottfried_Honegger</dbpResource>
 <abstract>Gottfried Honegger (* 12. Juni 1917 in Zürich) ist ein Schweizer Grafiker, Maler und Plastiker.</abstract>
 <wikilink>http://en.wikipedia.org/wiki/Gottfried_Honegger?oldid=599501840</wikilink>
+<artworks />
+<buildings />
+<books />
 </Person>

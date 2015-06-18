@@ -15,8 +15,10 @@
 <professionOrOccupation>
 <XML_Serializer_Tag>Maler</XML_Serializer_Tag>
 </professionOrOccupation>
-<artworks />
 <dbpResource>http://dbpedia.org/resource/Aris_Kalaizis</dbpResource>
 <abstract>Aris Kalaizis (* 1966 in Leipzig) ist ein deutsch-griechischer Maler.</abstract>
 <wikilink>http://en.wikipedia.org/wiki/Aris_Kalaizis?oldid=585177387</wikilink>
+<artworks />
+<buildings />
+<books />
 </Person>

@@ -1,0 +1,36 @@
+<Person>
+<name>Johann Adolf Schlegel</name>
+<variantName>
+<XML_Serializer_Tag>Hanns Görg</XML_Serializer_Tag>
+<XML_Serializer_Tag>Johann A. Schlegel</XML_Serializer_Tag>
+<XML_Serializer_Tag>Johann Adolph Schlegel</XML_Serializer_Tag>
+<XML_Serializer_Tag>Joannes Adolphus Schlegel</XML_Serializer_Tag>
+<XML_Serializer_Tag>Johann Adolph Schlegeln</XML_Serializer_Tag>
+<XML_Serializer_Tag>Nisus</XML_Serializer_Tag>
+<XML_Serializer_Tag>... Schlegel</XML_Serializer_Tag>
+<XML_Serializer_Tag>Hanns Görgen</XML_Serializer_Tag>
+</variantName>
+<thumbnail>https://commons.wikimedia.org/wiki/Special:FilePath/Johann_Adolf_Schlegel.jpg?width=270</thumbnail>
+<birthEN>September 18, 1721</birthEN>
+<birthDE>18. September 1721</birthDE>
+<deathEN>September 16, 1793</deathEN>
+<deathDE>16. September 1793</deathDE>
+<birthPlace>
+<XML_Serializer_Tag>Meißen</XML_Serializer_Tag>
+</birthPlace>
+<deathPlace>
+<XML_Serializer_Tag>Hannover</XML_Serializer_Tag>
+</deathPlace>
+<professionOrOccupation>
+<XML_Serializer_Tag>Konsistorialrat</XML_Serializer_Tag>
+<XML_Serializer_Tag>Superintendent</XML_Serializer_Tag>
+<XML_Serializer_Tag>Schriftsteller</XML_Serializer_Tag>
+<XML_Serializer_Tag>Kirchenlieddichter</XML_Serializer_Tag>
+</professionOrOccupation>
+<dbpResource>http://dbpedia.org/resource/Johann_Adolf_Schlegel</dbpResource>
+<abstract>Johann Adolf Schlegel (* 17. September 1721 in Meißen; † 16. September 1793 in Hannover) war ein deutscher Dichter und evangelischer Geistlicher, Bruder des Johann Elias Schlegel.</abstract>
+<wikilink>http://en.wikipedia.org/wiki/Johann_Adolf_Schlegel?oldid=591236652</wikilink>
+<artworks />
+<buildings />
+<books />
+</Person>

@@ -1,0 +1,31 @@
+<Person>
+<name>Joachim Jungius</name>
+<variantName>
+<XML_Serializer_Tag>Joachimus Iungius</XML_Serializer_Tag>
+<XML_Serializer_Tag>Joachimus Jungius</XML_Serializer_Tag>
+<XML_Serializer_Tag>Joachim Junge</XML_Serializer_Tag>
+<XML_Serializer_Tag>Joachim Jung</XML_Serializer_Tag>
+</variantName>
+<thumbnail>https://commons.wikimedia.org/wiki/Special:FilePath/Joachim-Jung-1587-1657.jpg?width=270</thumbnail>
+<birthEN>1587</birthEN>
+<birthDE>1587</birthDE>
+<deathEN>1657</deathEN>
+<deathDE>1657</deathDE>
+<birthPlace>
+<XML_Serializer_Tag>Lübeck</XML_Serializer_Tag>
+</birthPlace>
+<deathPlace>
+<XML_Serializer_Tag>Hamburg</XML_Serializer_Tag>
+</deathPlace>
+<professionOrOccupation>
+<XML_Serializer_Tag>Mathematiker</XML_Serializer_Tag>
+<XML_Serializer_Tag>Physiker</XML_Serializer_Tag>
+<XML_Serializer_Tag>Philosoph</XML_Serializer_Tag>
+</professionOrOccupation>
+<dbpResource>http://dbpedia.org/resource/Joachim_Jungius</dbpResource>
+<abstract>Joachim Jungius (* 22. Oktober 1587 in Lübeck; † 23. September 1657 in Hamburg) war ein deutscher Mathematiker, Physiker und Philosoph.</abstract>
+<wikilink>http://en.wikipedia.org/wiki/Joachim_Jungius?oldid=559105992</wikilink>
+<artworks />
+<buildings />
+<books />
+</Person>

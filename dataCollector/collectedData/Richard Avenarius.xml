@@ -1,0 +1,28 @@
+<Person>
+<name>Richard Avenarius</name>
+<variantName>
+<XML_Serializer_Tag>Richard Heinrich Ludwig Avenarius</XML_Serializer_Tag>
+<XML_Serializer_Tag>Richard Habermann</XML_Serializer_Tag>
+<XML_Serializer_Tag>Richard Heinrich Ludwig Habermann</XML_Serializer_Tag>
+</variantName>
+<thumbnail>https://commons.wikimedia.org/wiki/Special:FilePath/Avenarius_Richard_philosopher.gif?width=270</thumbnail>
+<birthEN>November 19, 1843</birthEN>
+<birthDE>19. November 1843</birthDE>
+<deathEN>August 18, 1896</deathEN>
+<deathDE>18. August 1896</deathDE>
+<birthPlace>
+<XML_Serializer_Tag>Paris</XML_Serializer_Tag>
+</birthPlace>
+<deathPlace>
+<XML_Serializer_Tag>Zürich</XML_Serializer_Tag>
+</deathPlace>
+<professionOrOccupation>
+<XML_Serializer_Tag>Philosoph</XML_Serializer_Tag>
+</professionOrOccupation>
+<dbpResource>http://dbpedia.org/resource/Richard_Avenarius</dbpResource>
+<abstract>Richard Avenarius (* 19. November 1843 in Paris; † 18. August 1896 in Zürich), eigentlich Richard Habermann, war ein deutscher Philosoph. Er bezeichnete seine Lehre als Empiriokritizismus.</abstract>
+<wikilink>http://en.wikipedia.org/wiki/Richard_Avenarius?oldid=598674469</wikilink>
+<artworks />
+<buildings />
+<books />
+</Person>

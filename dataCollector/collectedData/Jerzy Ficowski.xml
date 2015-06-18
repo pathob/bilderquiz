@@ -1,0 +1,32 @@
+<Person>
+<name>Jerzy Ficowski</name>
+<variantName>
+<XML_Serializer_Tag>Jerzši Fitzowski</XML_Serializer_Tag>
+<XML_Serializer_Tag>Jerzy Ficowski</XML_Serializer_Tag>
+<XML_Serializer_Tag>Eži Ficovskij</XML_Serializer_Tag>
+<XML_Serializer_Tag>Ježy Ficovsʹkyj</XML_Serializer_Tag>
+<XML_Serializer_Tag>Marcin Komięga</XML_Serializer_Tag>
+<XML_Serializer_Tag>Yezshi Fitsoṿsḳi</XML_Serializer_Tag>
+</variantName>
+<thumbnail>https://commons.wikimedia.org/wiki/Special:FilePath/Jerzy_Ficowski_2002.jpg?width=270</thumbnail>
+<birthEN>September 4, 1924</birthEN>
+<birthDE>4. September 1924</birthDE>
+<deathEN>May 9, 2006</deathEN>
+<deathDE>9. Mai 2006</deathDE>
+<birthPlace>
+<XML_Serializer_Tag>Warschau</XML_Serializer_Tag>
+</birthPlace>
+<deathPlace>
+<XML_Serializer_Tag>Warschau</XML_Serializer_Tag>
+</deathPlace>
+<professionOrOccupation>
+<XML_Serializer_Tag>Schriftsteller</XML_Serializer_Tag>
+<XML_Serializer_Tag>Übersetzer</XML_Serializer_Tag>
+</professionOrOccupation>
+<dbpResource>http://dbpedia.org/resource/Jerzy_Ficowski</dbpResource>
+<abstract>Jerzy Ficowski (* 4. Oktober 1924 in Warschau, Polen; † 9. Mai 2006 ebenda) war ein polnischer Schriftsteller, Dichter, Übersetzer und Ethnologe.</abstract>
+<wikilink>http://en.wikipedia.org/wiki/Jerzy_Ficowski?oldid=594109448</wikilink>
+<artworks />
+<buildings />
+<books />
+</Person>

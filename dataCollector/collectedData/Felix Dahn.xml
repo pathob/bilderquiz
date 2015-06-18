@@ -1,0 +1,56 @@
+<Person>
+<name>Felix Dahn</name>
+<variantName>
+<XML_Serializer_Tag>Ludwig Julius Sophus Felix Dahn</XML_Serializer_Tag>
+<XML_Serializer_Tag>Felix L. Dahn</XML_Serializer_Tag>
+<XML_Serializer_Tag>Ludwig Sophus</XML_Serializer_Tag>
+<XML_Serializer_Tag>Felix Ludwig Julius Dahn</XML_Serializer_Tag>
+<XML_Serializer_Tag>Felix Ludwig Sophus Dahn</XML_Serializer_Tag>
+<XML_Serializer_Tag>Ludwig J. Dahn</XML_Serializer_Tag>
+<XML_Serializer_Tag>F. Dahn</XML_Serializer_Tag>
+<XML_Serializer_Tag>Feliks Dan</XML_Serializer_Tag>
+</variantName>
+<thumbnail>https://commons.wikimedia.org/wiki/Special:FilePath/Felix_Dahn_pre_1912.jpg?width=270</thumbnail>
+<birthEN>February 9, 1834</birthEN>
+<birthDE>9. Februar 1834</birthDE>
+<deathEN>January 3, 1912</deathEN>
+<deathDE>3. Januar 1912</deathDE>
+<birthPlace>
+<XML_Serializer_Tag>Hamburg</XML_Serializer_Tag>
+</birthPlace>
+<deathPlace>
+<XML_Serializer_Tag>Breslau</XML_Serializer_Tag>
+</deathPlace>
+<professionOrOccupation>
+<XML_Serializer_Tag>Historiker</XML_Serializer_Tag>
+<XML_Serializer_Tag>Jurist</XML_Serializer_Tag>
+<XML_Serializer_Tag>Hochschullehrer</XML_Serializer_Tag>
+<XML_Serializer_Tag>Schriftsteller</XML_Serializer_Tag>
+</professionOrOccupation>
+<dbpResource>http://dbpedia.org/resource/Felix_Dahn</dbpResource>
+<abstract>Felix Dahn (auch Ludwig Sophus; * 9. Februar 1834 in Hamburg; † 3. Januar 1912 in Breslau) war ein deutscher Professor für Rechtswissenschaften, Schriftsteller und Historiker.</abstract>
+<wikilink>http://en.wikipedia.org/wiki/Felix_Dahn?oldid=590266615</wikilink>
+<artworks />
+<buildings />
+<books>
+<XML_Serializer_Tag>
+<book>
+<type>uri</type>
+<value>http://dbpedia.org/resource/A_Struggle_for_Rome</value>
+</book>
+<author>
+<type>uri</type>
+<value>http://dbpedia.org/resource/Felix_Dahn</value>
+</author>
+<wikilink>
+<type>uri</type>
+<value>http://en.wikipedia.org/wiki/A_Struggle_for_Rome?oldid=604358214</value>
+</wikilink>
+<abstract>
+<type>literal</type>
+<xml:lang>de</xml:lang>
+<value>Ein Kampf um Rom ist ein seinerzeit sehr populärer historischer Roman von Felix Dahn, der 1876 veröffentlicht wurde.</value>
+</abstract>
+</XML_Serializer_Tag>
+</books>
+</Person>

@@ -1,0 +1,25 @@
+<Person>
+<name>Otto Gildemeister</name>
+<variantName>
+<XML_Serializer_Tag>Giotto</XML_Serializer_Tag>
+</variantName>
+<thumbnail>https://commons.wikimedia.org/wiki/Special:FilePath/Otto_Gildemeister_-_Gottfried_Joseph_Hofer_-_1898.jpg?width=270</thumbnail>
+<birthEN>1823</birthEN>
+<birthDE>1823</birthDE>
+<deathEN>1902</deathEN>
+<deathDE>1902</deathDE>
+<birthPlace />
+<deathPlace />
+<professionOrOccupation>
+<XML_Serializer_Tag>Journalist</XML_Serializer_Tag>
+<XML_Serializer_Tag>Politiker</XML_Serializer_Tag>
+<XML_Serializer_Tag>Übersetzer</XML_Serializer_Tag>
+<XML_Serializer_Tag>Schriftsteller</XML_Serializer_Tag>
+</professionOrOccupation>
+<dbpResource>http://dbpedia.org/resource/Otto_Gildemeister</dbpResource>
+<abstract>Otto Gildemeister (* 13. März 1823 in Bremen; † 26. August 1902 in Bremen) war Journalist, Schriftsteller, Übersetzer, liberal-konservativer Politiker, Senator und Bremer Bürgermeister.</abstract>
+<wikilink>http://en.wikipedia.org/wiki/Otto_Gildemeister?oldid=599774904</wikilink>
+<artworks />
+<buildings />
+<books />
+</Person>

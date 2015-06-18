@@ -25,8 +25,10 @@
 <XML_Serializer_Tag>Lyriker</XML_Serializer_Tag>
 <XML_Serializer_Tag>Schriftsteller</XML_Serializer_Tag>
 </professionOrOccupation>
-<artworks />
 <dbpResource>http://dbpedia.org/resource/Lucebert</dbpResource>
 <abstract>Lucebert (* 15. September 1924 in Amsterdam; † 10. Mai 1994 in Alkmaar; eigentlich Lubertus Jacobus Swaanswijk) war ein niederländischer Maler, Grafiker, Lyriker und Schriftsteller.</abstract>
 <wikilink>http://en.wikipedia.org/wiki/Lucebert?oldid=600503510</wikilink>
+<artworks />
+<buildings />
+<books />
 </Person>

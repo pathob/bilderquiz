@@ -1,0 +1,34 @@
+<Person>
+<name>Georg Friedrich von Martens</name>
+<variantName>
+<XML_Serializer_Tag>Georg F. de Martens</XML_Serializer_Tag>
+<XML_Serializer_Tag>Georg Fr. von Martens</XML_Serializer_Tag>
+<XML_Serializer_Tag>George F. de Martens</XML_Serializer_Tag>
+<XML_Serializer_Tag>Georg Friedrich Martens</XML_Serializer_Tag>
+<XML_Serializer_Tag>Georgius Fridericus Martens</XML_Serializer_Tag>
+<XML_Serializer_Tag>... Martens</XML_Serializer_Tag>
+<XML_Serializer_Tag>G. F. de Martens</XML_Serializer_Tag>
+<XML_Serializer_Tag>Geo. Frid. Martens</XML_Serializer_Tag>
+<XML_Serializer_Tag>George Fréderic de Martens</XML_Serializer_Tag>
+<XML_Serializer_Tag>G. F. von Martens</XML_Serializer_Tag>
+</variantName>
+<thumbnail>https://commons.wikimedia.org/wiki/Special:FilePath/Georg_Friedrich_von_Martens.jpg?width=270</thumbnail>
+<birthEN>February 22, 1756</birthEN>
+<birthDE>22. Februar 1756</birthDE>
+<deathEN>February 21, 1821</deathEN>
+<deathDE>21. Februar 1821</deathDE>
+<birthPlace />
+<deathPlace />
+<professionOrOccupation>
+<XML_Serializer_Tag>Diplomat</XML_Serializer_Tag>
+<XML_Serializer_Tag>Schriftsteller</XML_Serializer_Tag>
+<XML_Serializer_Tag>Völkerrechtler</XML_Serializer_Tag>
+<XML_Serializer_Tag>Politiker</XML_Serializer_Tag>
+</professionOrOccupation>
+<dbpResource>http://dbpedia.org/resource/Georg_Friedrich_von_Martens</dbpResource>
+<abstract>Georg Friedrich von Martens (* 22. Februar 1756 in Hamburg; † 21. Februar 1821 in Frankfurt am Main) war ein deutscher Natur- und Völkerrechtler, Diplomat und Publizist.</abstract>
+<wikilink>http://en.wikipedia.org/wiki/Georg_Friedrich_von_Martens?oldid=599811055</wikilink>
+<artworks />
+<buildings />
+<books />
+</Person>

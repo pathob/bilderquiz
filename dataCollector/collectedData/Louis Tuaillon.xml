@@ -1,0 +1,22 @@
+<Person>
+<name>Louis Tuaillon</name>
+<variantName>
+<XML_Serializer_Tag>Ludwig Tuaillon</XML_Serializer_Tag>
+</variantName>
+<thumbnail>https://commons.wikimedia.org/wiki/Special:FilePath/Louis_Tuaillon_um_1905.jpg?width=270</thumbnail>
+<birthEN>September 7, 1862</birthEN>
+<birthDE>7. September 1862</birthDE>
+<deathEN>February 21, 1919</deathEN>
+<deathDE>21. Februar 1919</deathDE>
+<birthPlace />
+<deathPlace />
+<professionOrOccupation>
+<XML_Serializer_Tag>Bildhauer</XML_Serializer_Tag>
+</professionOrOccupation>
+<dbpResource>http://dbpedia.org/resource/Louis_Tuaillon</dbpResource>
+<abstract>Louis Tuaillon (* 7. September 1862 in Berlin; † 21. Februar 1919 ebenda) war ein deutscher Bildhauer.</abstract>
+<wikilink>http://en.wikipedia.org/wiki/Louis_Tuaillon?oldid=541490396</wikilink>
+<artworks />
+<buildings />
+<books />
+</Person>

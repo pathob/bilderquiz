@@ -17,8 +17,10 @@
 <XML_Serializer_Tag>Maler</XML_Serializer_Tag>
 <XML_Serializer_Tag>Landschaftsmaler</XML_Serializer_Tag>
 </professionOrOccupation>
-<artworks />
 <dbpResource>http://dbpedia.org/resource/Anton_Hansch</dbpResource>
 <abstract>Anton Hansch (* 24. März 1813 in Wien; † 8. Dezember 1876 in Salzburg) war ein österreichischer Landschaftsmaler.</abstract>
 <wikilink>http://en.wikipedia.org/wiki/Anton_Hansch?oldid=567075935</wikilink>
+<artworks />
+<buildings />
+<books />
 </Person>

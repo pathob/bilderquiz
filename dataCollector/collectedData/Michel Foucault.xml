@@ -1,0 +1,189 @@
+<Person>
+<name>Michel Foucault</name>
+<variantName>
+<XML_Serializer_Tag>M. Foucault</XML_Serializer_Tag>
+<XML_Serializer_Tag>M. M. Foucault</XML_Serializer_Tag>
+<XML_Serializer_Tag>Mīshīl Fūkūh</XML_Serializer_Tag>
+<XML_Serializer_Tag>Michael Foucault</XML_Serializer_Tag>
+<XML_Serializer_Tag>Mišel Fuko</XML_Serializer_Tag>
+<XML_Serializer_Tag>Pʿukʿo</XML_Serializer_Tag>
+<XML_Serializer_Tag>Misyel Pʿukʿo</XML_Serializer_Tag>
+<XML_Serializer_Tag>Misel Phoukō</XML_Serializer_Tag>
+<XML_Serializer_Tag>Mishel Fuko</XML_Serializer_Tag>
+<XML_Serializer_Tag>M. Foucault</XML_Serializer_Tag>
+<XML_Serializer_Tag>Mišelʹ Fuko</XML_Serializer_Tag>
+<XML_Serializer_Tag>Mišel&apos; Fuko</XML_Serializer_Tag>
+<XML_Serializer_Tag>Mīšil Fūkū</XML_Serializer_Tag>
+</variantName>
+<thumbnail>https://commons.wikimedia.org/wiki/Special:FilePath/Michel_Foucault_Dibujo.jpg?width=270</thumbnail>
+<birthEN>1926</birthEN>
+<birthDE>1926</birthDE>
+<deathEN>1984</deathEN>
+<deathDE>1984</deathDE>
+<birthPlace>
+<XML_Serializer_Tag>Poitiers</XML_Serializer_Tag>
+</birthPlace>
+<deathPlace>
+<XML_Serializer_Tag>Paris</XML_Serializer_Tag>
+</deathPlace>
+<professionOrOccupation>
+<XML_Serializer_Tag>Philosoph</XML_Serializer_Tag>
+</professionOrOccupation>
+<dbpResource>http://dbpedia.org/resource/Michel_Foucault</dbpResource>
+<abstract>Paul-Michel Foucault [miˈʃɛl fuˈko] (* 15. Oktober 1926 in Poitiers; † 25. Juni 1984 in Paris) war ein französischer Philosoph des Poststrukturalismus, Psychologe, Historiker, Soziologe und Begründer der Diskursanalyse. Er war zwischen 1970 und 1984 Inhaber des Lehrstuhls für die Geschichte der Denksysteme am Collège de France in Paris.Am 25. Juni 1984 starb Foucault in Paris an den Folgen von AIDS, einer Krankheit, die zu diesem Zeitpunkt noch kaum bekannt war.Foucault untersuchte, wie Wissen entsteht und Geltung erlangt, wie Macht ausgeübt wird und wie Subjekte konstituiert und diszipliniert werden. Bekannt ist Foucault auch für die Einführung neuer Begriffe wie „Dispositiv“, „Bio-Macht“ und „Gouvernementalität“ oder die Präzisierung und terminologische Verwendung von Ausdrücken wie „Macht“, „Wissen“, „Diskurs“ oder „Archiv“. Seine Analysen richteten sich auf die „Geschichte der Gegenwart“, „Ethnologie unserer Kultur“ und die geschichtliche Entwicklung von „Wahrheitsspielen“. Konkret untersuchte er unter anderem die Geschichte des Begriffs „Wahnsinn“ und die damit einhergehenden gesellschaftlichen Praktiken, insbesondere des Ausschlusses; ferner den Begriff der Krankheit und die Entwicklung medizinischer Techniken, die Entstehung der Humanwissenschaften und ihrer Grundbegriffe, die Institutionen des Gefängnisses und der Bestrafungsverfahren und die Anheizung der Rede über Sexualität.Foucault äußerte sich auch zu grenzüberschreitenden Formen der Literatur, insbesondere bezüglich Stéphane Mallarmé, Georges Bataille, Raymond Roussel und Marquis de Sade.Er beschäftigte sich außerdem mit den Möglichkeiten politischer Intervention und der Möglichkeit des Selbstentwurfs von Subjekten, vor allem beim „Gebrauch der Lüste“.</abstract>
+<wikilink>http://en.wikipedia.org/wiki/Michel_Foucault?oldid=606379204</wikilink>
+<artworks />
+<buildings />
+<books>
+<XML_Serializer_Tag>
+<book>
+<type>uri</type>
+<value>http://dbpedia.org/resource/Discipline_and_Punish</value>
+</book>
+<author>
+<type>uri</type>
+<value>http://dbpedia.org/resource/Michel_Foucault</value>
+</author>
+<published>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>*1975 
+*1977</value>
+</published>
+<wikilink>
+<type>uri</type>
+<value>http://en.wikipedia.org/wiki/Discipline_and_Punish?oldid=600388266</value>
+</wikilink>
+<abstract>
+<type>literal</type>
+<xml:lang>de</xml:lang>
+<value>Überwachen und Strafen: Die Geburt des Gefängnisses ist ein Buch des französischen Philosophen Michel Foucault. Das 1975 unter dem Titel Surveiller et punir veröffentlichte Werk wurde 1976 auf Deutsch publiziert. Es steht im engen Zusammenhang mit der Arbeit des Autors in der Groupe d´information sur les prisons, G.I.P. (Gruppe Gefängnisinformation), die sich ab 1971 dafür engagierte, den Gefangenen in den französischen Gefängnissen die Möglichkeit zu geben, ihre Situation in der Öffentlichkeit darzustellen.</value>
+</abstract>
+</XML_Serializer_Tag>
+<XML_Serializer_Tag>
+<book>
+<type>uri</type>
+<value>http://dbpedia.org/resource/The_Order_of_Things</value>
+</book>
+<author>
+<type>uri</type>
+<value>http://dbpedia.org/resource/Michel_Foucault</value>
+</author>
+<published>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>*1966 
+*1970</value>
+</published>
+<wikilink>
+<type>uri</type>
+<value>http://en.wikipedia.org/wiki/The_Order_of_Things?oldid=605570757</value>
+</wikilink>
+<abstract>
+<type>literal</type>
+<xml:lang>de</xml:lang>
+<value>Die Ordnung der Dinge (frz. Originaltitel: Les Mots et les choses. Une archéologie des sciences humaines) ist eine 1966 erschienene philosophische und historische Abhandlung von Michel Foucault zur Wissenschaftsgeschichte bzw. Épistémologie und Diskurstheorie.Der Autor will ausdrücklich keine Geschichte der Wissenschaften liefern. Es geht ihm stattdessen um die Analyse von unbewussten Grundeinstellungen der wissenschaftlich Tätigen in der Zeit von der Renaissance bis zu Foucaults Zeit. Er sieht für diese fünf Jahrhunderte keine Kontinuität in der wissenschaftlichen Fragestellung, sondern zwei vollständige Brüche, und zwar einmal in der ersten Hälfte des 17. Jahrhunderts und das andere Mal um das Jahr 1800. Foucaults Untersuchungen zeigen das jeweils völlig neuartige Denken auf drei charakteristischen Wissensgebieten: Menschliche Sprache, Vielfalt der Lebewesen und das Wirtschaften der Menschen.Das 2. Kapitel ist der Denkweise der Renaissance (in Frankreich: das 16. Jahrhundert) gewidmet. Die damaligen Forscher suchen nach äußerlich offensichtlichen Ähnlichkeiten zwischen den Dingen, die sich grundsätzlich im gesamten Universum befinden können. Die Analogien zwischen Makrokosmos und Mikrokosmos sind beispielsweise eine der leitenden Ideen.In den Kapiteln 3 bis 6 zeigt Foucault für das klassische Zeitalter im Frankreich des 17. und 18. Jahrhunderts (sozusagen für die Barockzeit) das wissenschaftliche Bemühen um vollständige Übersichten aller Kenntnisse in einer Art Tableau. Stichwörter sind Taxonomie und Klassifikation. Das bisherige Anhäufen von naturgemäß ungenauen Ähnlichkeitsbeziehungen genügt nicht mehr; stattdessen steht der Sinn nach eindeutigen „Identitäten oder Differenzen“.Das bedeutet für die Untersuchung der eigenen Nationalsprache eine sogenannte „allgemeine Grammatik“: Wörter und Sätze sollen die Dinge exakt „repräsentieren“, eine sprachliche Ordnung soll den Weltdingen klare Merkmale zuordnen. Naturforscher ihrerseits entwickeln ordentliche, fixe Systematiken, wo jedes Lebewesen seine präzise Stelle zugewiesen bekommt (exemplarisch: das Werk von Carl von Linné). Entsprechend für die Analyse der Reichtümer werden diese nun genau in Geldwerten ausgedrückt (egal, ob es die Theorien von Merkantilismus oder Physiokratismus sind).Die Kapitel 7 und 8 stellen dar, wie um 1800 anstelle der „allgemeinen“ Grammatik, der sogenannten „Naturgeschichte“ und der traditionellen Analyse der Reichtümer grundlegend neue Wissenschaften entstehen, und zwar die Philologie, die eigentliche Biologie und die Politische Ökonomie. Die Philologen untersuchen nunmehr sehr genau das Funktionieren der verschiedenen Sprachen mit ihren Konjugations- und Deklinationsendungen, mit historischen Lautverschiebungen und Ablautreihen. So erkennen sie die Geschichtlichkeit und Verwandtschaft der Sprachen. Die Biologen starren nicht mehr auf oberflächliche Unterschiede der Tiere, sondern sie vergleichen sie anatomisch und untersuchen deren verborgene Organsysteme. Dabei bemerken sie ebenfalls die Geschichtlichkeit des Lebens. Die Ökonomen entdecken endlich die zentrale Bedeutung der menschlichen Arbeit als die Quelle jedes Wertes und zugleich die historischen Formen der Produktion. So rückt zu dieser Zeit mehr und mehr der Mensch selber – als derjenige, der spricht und lebt und arbeitet – in das Blickfeld der Forscher.Erst im 9. und 10. (und letzten) Kapitel kommt Foucault deshalb auf den Menschen als wissenschaftliches Thema und auf die im 19. Jahrhundert entstehenden „Humanwissenschaften“ zu sprechen, von denen im Untertitel des Buches die Rede ist, und worunter Foucault Psychologie, Soziologie und Kultur-, Ideen- sowie Wissenschaftsgeschichte versteht. Im 20. Jahrhundert konstituieren sich weitere Wissensformen: die Linguistik, die Ethnologie und die Psychoanalyse. Diese zeigen einerseits die eigentlich anonymen Strukturen von Sprachen und Kulturen und andererseits das Unbewusste im Handeln der Menschen, sodass von einem freien, selbstbestimmten Individuum beziehungsweise einem souveränen Subjekt kaum mehr gesprochen werden kann. Deshalb spricht Foucault in den letzten Worten des Buches vom Verschwinden des Menschen „wie am Meeresufer ein Gesicht im Sand.“Die zugrundegelegte diskursanalytische Methode hat Foucault später mehrfach – am ausführlichsten in Archäologie des Wissens (1969) – dargestellt.</value>
+</abstract>
+</XML_Serializer_Tag>
+<XML_Serializer_Tag>
+<book>
+<type>uri</type>
+<value>http://dbpedia.org/resource/Introduction_to_Kant&apos;s_Anthropology</value>
+</book>
+<author>
+<type>uri</type>
+<value>http://dbpedia.org/resource/Michel_Foucault</value>
+</author>
+<published>
+<type>typed-literal</type>
+<datatype>http://www.w3.org/2001/XMLSchema#integer</datatype>
+<value>2008</value>
+</published>
+<wikilink>
+<type>uri</type>
+<value>http://en.wikipedia.org/wiki/Introduction_to_Kant&apos;s_Anthropology?oldid=593488850</value>
+</wikilink>
+</XML_Serializer_Tag>
+<XML_Serializer_Tag>
+<book>
+<type>uri</type>
+<value>http://dbpedia.org/resource/Madness_and_Civilization</value>
+</book>
+<author>
+<type>uri</type>
+<value>http://dbpedia.org/resource/Michel_Foucault</value>
+</author>
+<published>
+<type>typed-literal</type>
+<datatype>http://www.w3.org/2001/XMLSchema#integer</datatype>
+<value>1964</value>
+</published>
+<wikilink>
+<type>uri</type>
+<value>http://en.wikipedia.org/wiki/Madness_and_Civilization?oldid=597853597</value>
+</wikilink>
+</XML_Serializer_Tag>
+<XML_Serializer_Tag>
+<book>
+<type>uri</type>
+<value>http://dbpedia.org/resource/The_Birth_of_the_Clinic</value>
+</book>
+<author>
+<type>uri</type>
+<value>http://dbpedia.org/resource/Michel_Foucault</value>
+</author>
+<published>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>*1963 
+*1973</value>
+</published>
+<wikilink>
+<type>uri</type>
+<value>http://en.wikipedia.org/wiki/The_Birth_of_the_Clinic?oldid=590021161</value>
+</wikilink>
+</XML_Serializer_Tag>
+<XML_Serializer_Tag>
+<book>
+<type>uri</type>
+<value>http://dbpedia.org/resource/Herculine_Barbin:_Being_the_Recently_Discovered_Memoirs_of_a_Nineteenth-century_French_Hermaphrodite</value>
+</book>
+<author>
+<type>uri</type>
+<value>http://dbpedia.org/resource/Michel_Foucault</value>
+</author>
+<wikilink>
+<type>uri</type>
+<value>http://en.wikipedia.org/wiki/Herculine_Barbin:_Being_the_Recently_Discovered_Memoirs_of_a_Nineteenth-century_French_Hermaphrodite?oldid=593050103</value>
+</wikilink>
+</XML_Serializer_Tag>
+<XML_Serializer_Tag>
+<book>
+<type>uri</type>
+<value>http://dbpedia.org/resource/The_History_of_Sexuality</value>
+</book>
+<author>
+<type>uri</type>
+<value>http://dbpedia.org/resource/Michel_Foucault</value>
+</author>
+<wikilink>
+<type>uri</type>
+<value>http://en.wikipedia.org/wiki/The_History_of_Sexuality?oldid=601783957</value>
+</wikilink>
+</XML_Serializer_Tag>
+<XML_Serializer_Tag>
+<book>
+<type>uri</type>
+<value>http://dbpedia.org/resource/The_Archaeology_of_Knowledge</value>
+</book>
+<author>
+<type>uri</type>
+<value>http://dbpedia.org/resource/Michel_Foucault</value>
+</author>
+<wikilink>
+<type>uri</type>
+<value>http://en.wikipedia.org/wiki/The_Archaeology_of_Knowledge?oldid=590000566</value>
+</wikilink>
+</XML_Serializer_Tag>
+</books>
+</Person>

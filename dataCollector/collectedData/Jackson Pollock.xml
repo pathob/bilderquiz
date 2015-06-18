@@ -20,8 +20,10 @@
 <XML_Serializer_Tag>Graphiker</XML_Serializer_Tag>
 <XML_Serializer_Tag>Aktionskünstler</XML_Serializer_Tag>
 </professionOrOccupation>
-<artworks />
 <dbpResource>http://dbpedia.org/resource/Jackson_Pollock</dbpResource>
 <abstract>Paul Jackson Pollock (* 28. Januar 1912 in Cody, Wyoming; † 11. August 1956 in Springs-East Hampton, New York) war ein US-amerikanischer Maler des abstrakten Expressionismus der New York School. Pollock wurde bekannt mit der von ihm begründeten Stilrichtung des Action Painting. Seine im Drip-Painting-Verfahren angefertigten großformatigen Werke brachten ihm bereits zu Lebzeiten den Spitznamen „Jack the Dripper“ ein.Pollock war mit der Malerin Lee Krasner verheiratet, mit der er eine Ateliergemeinschaft hatte.</abstract>
 <wikilink>http://en.wikipedia.org/wiki/Jackson_Pollock?oldid=606554349</wikilink>
+<artworks />
+<buildings />
+<books />
 </Person>

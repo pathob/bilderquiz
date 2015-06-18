@@ -1,0 +1,27 @@
+<Person>
+<name>Leopold Schwarzschild</name>
+<variantName>
+<XML_Serializer_Tag>Argus</XML_Serializer_Tag>
+</variantName>
+<thumbnail>https://commons.wikimedia.org/wiki/Special:FilePath/Thomas_Mann_Bruder_Hitler_1939.jpg?width=270</thumbnail>
+<birthEN>December 8, 1891</birthEN>
+<birthDE>8. Dezember 1891</birthDE>
+<deathEN>October 2, 1950</deathEN>
+<deathDE>2. Oktober 1950</deathDE>
+<birthPlace>
+<XML_Serializer_Tag>Frankfurt am Main</XML_Serializer_Tag>
+</birthPlace>
+<deathPlace>
+<XML_Serializer_Tag>Santa Margherita Ligure</XML_Serializer_Tag>
+</deathPlace>
+<professionOrOccupation>
+<XML_Serializer_Tag>Schriftsteller</XML_Serializer_Tag>
+<XML_Serializer_Tag>Journalist</XML_Serializer_Tag>
+</professionOrOccupation>
+<dbpResource>http://dbpedia.org/resource/Leopold_Schwarzschild</dbpResource>
+<abstract>Leopold Schwarzschild (* 8. Dezember 1891 in Frankfurt am Main; † 2. Oktober 1950 in Santa Margherita Ligure in Italien) war ein deutscher Publizist und Soziologe.</abstract>
+<wikilink>http://en.wikipedia.org/wiki/Leopold_Schwarzschild?oldid=597659426</wikilink>
+<artworks />
+<buildings />
+<books />
+</Person>

@@ -1,0 +1,65 @@
+<Person>
+<name>Assia Djebar</name>
+<variantName>
+<XML_Serializer_Tag>Asija ǅebbar</XML_Serializer_Tag>
+<XML_Serializer_Tag>Fatima-Zohra Imalayène</XML_Serializer_Tag>
+<XML_Serializer_Tag>Fatima Zohra</XML_Serializer_Tag>
+<XML_Serializer_Tag>Assia Djebbar</XML_Serializer_Tag>
+<XML_Serializer_Tag>Āsiyā Jabbār</XML_Serializer_Tag>
+</variantName>
+<thumbnail>https://commons.wikimedia.org/wiki/Special:FilePath/Assia_Djebar.jpg?width=270</thumbnail>
+<birthEN>June 30, 1936</birthEN>
+<birthDE>30. Juni 1936</birthDE>
+<deathEN>February 6, 2015</deathEN>
+<deathDE>6. Februar 2015</deathDE>
+<birthPlace>
+<XML_Serializer_Tag>Cherchell</XML_Serializer_Tag>
+</birthPlace>
+<deathPlace>
+<XML_Serializer_Tag>Paris</XML_Serializer_Tag>
+</deathPlace>
+<professionOrOccupation>
+<XML_Serializer_Tag>Schriftstellerin</XML_Serializer_Tag>
+<XML_Serializer_Tag>Historikerin</XML_Serializer_Tag>
+</professionOrOccupation>
+<dbpResource>http://dbpedia.org/resource/Assia_Djebar</dbpResource>
+<abstract>Assia Djebar (bürgerlich Fatima-Zohra Imalayène; * 30. Juni 1936 in Cherchell bei Algier) ist eine in französischer Sprache schreibende algerische Schriftstellerin, Regisseurin, Historikerin und Hochschullehrerin. Sie gilt als eine der renommiertesten Autorinnen aus dem Maghreb. Ihre Werke sind in mehr als 15 Sprachen übersetzt worden.</abstract>
+<wikilink>http://en.wikipedia.org/wiki/Assia_Djebar?oldid=603735420</wikilink>
+<artworks />
+<buildings />
+<books>
+<XML_Serializer_Tag>
+<book>
+<type>uri</type>
+<value>http://dbpedia.org/resource/Women_of_Algiers_in_Their_Apartment</value>
+</book>
+<author>
+<type>uri</type>
+<value>http://dbpedia.org/resource/Assia_Djebar</value>
+</author>
+<released>
+<type>typed-literal</type>
+<datatype>http://www.w3.org/2001/XMLSchema#integer</datatype>
+<value>1980</value>
+</released>
+<wikilink>
+<type>uri</type>
+<value>http://en.wikipedia.org/wiki/Women_of_Algiers_in_Their_Apartment?oldid=577493521</value>
+</wikilink>
+</XML_Serializer_Tag>
+<XML_Serializer_Tag>
+<book>
+<type>uri</type>
+<value>http://dbpedia.org/resource/Far_from_Medina</value>
+</book>
+<author>
+<type>uri</type>
+<value>http://dbpedia.org/resource/Assia_Djebar</value>
+</author>
+<wikilink>
+<type>uri</type>
+<value>http://en.wikipedia.org/wiki/Far_from_Medina?oldid=522919180</value>
+</wikilink>
+</XML_Serializer_Tag>
+</books>
+</Person>

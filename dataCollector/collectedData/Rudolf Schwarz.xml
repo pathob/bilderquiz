@@ -1,0 +1,24 @@
+<Person>
+<name>Rudolf Schwarz</name>
+<variantName />
+<thumbnail>https://commons.wikimedia.org/wiki/Special:FilePath/St._Michael_-_Frankfurt_am_Main.jpg?width=270</thumbnail>
+<birthEN>May 15, 1897</birthEN>
+<birthDE>15. Mai 1897</birthDE>
+<deathEN>April 3, 1961</deathEN>
+<deathDE>3. April 1961</deathDE>
+<birthPlace>
+<XML_Serializer_Tag>Straßburg</XML_Serializer_Tag>
+</birthPlace>
+<deathPlace>
+<XML_Serializer_Tag>Köln</XML_Serializer_Tag>
+</deathPlace>
+<professionOrOccupation>
+<XML_Serializer_Tag>Architekt</XML_Serializer_Tag>
+</professionOrOccupation>
+<dbpResource>http://dbpedia.org/resource/Rudolf_Schwarz_(architect)</dbpResource>
+<abstract>Rudolf Schwarz (* 15. Mai 1897 in Straßburg; † 3. April 1961 in Köln) war ein deutscher Architekt, der vor allem durch seine Entwürfe für katholische Kirchenbauten bekannt wurde. Er wurde der rheinische Mystiker genannt. In Köln nahm er wesentlichen Einfluss auf die Stadtentwicklung durch seine Planungen zum Wiederaufbau der kriegszerstörten Stadt.</abstract>
+<wikilink>http://en.wikipedia.org/wiki/Rudolf_Schwarz_(architect)?oldid=599631128</wikilink>
+<artworks />
+<buildings />
+<books />
+</Person>

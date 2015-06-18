@@ -1,0 +1,68 @@
+<Person>
+<name>Gudrun Pausewang</name>
+<variantName>
+<XML_Serializer_Tag>Kudŭrun P&apos;aujebang</XML_Serializer_Tag>
+<XML_Serializer_Tag>Gudrun Wilcke</XML_Serializer_Tag>
+<XML_Serializer_Tag>Gudrun Pausewangová</XML_Serializer_Tag>
+<XML_Serializer_Tag>Gūdorun Pauzebangu</XML_Serializer_Tag>
+<XML_Serializer_Tag>Gūdorun Pauzebanku</XML_Serializer_Tag>
+<XML_Serializer_Tag>Gkuntrun Pauzebank</XML_Serializer_Tag>
+<XML_Serializer_Tag>Gūdorun Pauzevangu</XML_Serializer_Tag>
+<XML_Serializer_Tag>Gu de long Bao se wang</XML_Serializer_Tag>
+<XML_Serializer_Tag>Gudelong-Baosewang</XML_Serializer_Tag>
+<XML_Serializer_Tag>Gudelong Baosewang</XML_Serializer_Tag>
+<XML_Serializer_Tag>Gu de long Bo si wang</XML_Serializer_Tag>
+<XML_Serializer_Tag>Gudelong-Bosiwang</XML_Serializer_Tag>
+<XML_Serializer_Tag>Gudelong Bosiwang</XML_Serializer_Tag>
+<XML_Serializer_Tag>Gu de lun Bao se wang</XML_Serializer_Tag>
+<XML_Serializer_Tag>Gudelun-Baosewang</XML_Serializer_Tag>
+<XML_Serializer_Tag>Gudelun Baosewang</XML_Serializer_Tag>
+<XML_Serializer_Tag>구드룬 파우제방</XML_Serializer_Tag>
+</variantName>
+<thumbnail>https://commons.wikimedia.org/wiki/Special:FilePath/Gudrun_Pausewang_Bielefeld_1.jpg?width=270</thumbnail>
+<birthEN>1928</birthEN>
+<birthDE>1928</birthDE>
+<deathEN />
+<deathDE />
+<birthPlace>
+<XML_Serializer_Tag>Mladkov (Králíky)</XML_Serializer_Tag>
+</birthPlace>
+<deathPlace />
+<professionOrOccupation>
+<XML_Serializer_Tag>Lehrerin</XML_Serializer_Tag>
+<XML_Serializer_Tag>Kinderbuchautorin</XML_Serializer_Tag>
+<XML_Serializer_Tag>Jugendbuchautorin</XML_Serializer_Tag>
+<XML_Serializer_Tag>Schriftstellerin</XML_Serializer_Tag>
+</professionOrOccupation>
+<dbpResource>http://dbpedia.org/resource/Gudrun_Pausewang</dbpResource>
+<abstract>Gudrun Pausewang (* 3. März 1928 in Wichstadtl, Tschechoslowakei; bürgerlicher Name Gudrun Wilcke) ist eine deutsche Schriftstellerin.</abstract>
+<wikilink>http://en.wikipedia.org/wiki/Gudrun_Pausewang?oldid=606361565</wikilink>
+<artworks />
+<buildings />
+<books>
+<XML_Serializer_Tag>
+<book>
+<type>uri</type>
+<value>http://dbpedia.org/resource/The_Last_Children_of_Schewenborn</value>
+</book>
+<author>
+<type>uri</type>
+<value>http://dbpedia.org/resource/Gudrun_Pausewang</value>
+</author>
+<released>
+<type>typed-literal</type>
+<datatype>http://www.w3.org/2001/XMLSchema#integer</datatype>
+<value>1983</value>
+</released>
+<wikilink>
+<type>uri</type>
+<value>http://en.wikipedia.org/wiki/The_Last_Children_of_Schewenborn?oldid=544894063</value>
+</wikilink>
+<abstract>
+<type>literal</type>
+<xml:lang>de</xml:lang>
+<value>„Die letzten Kinder von Schewenborn oder … sieht so unsere Zukunft aus?“ ist der Titel eines 1983 veröffentlichten Romans von Gudrun Pausewang, in dem sie das Szenario eines Deutschlands nach einem Atomkrieg entwickelt. Die Geschichte selbst ist fiktiv, der Ort Schewenborn hat, wie die Autorin im Nachwort des Buchs beschreibt, jedoch ein reales Vorbild: Schlitz in Osthessen, Pausewangs Heimatort.</value>
+</abstract>
+</XML_Serializer_Tag>
+</books>
+</Person>

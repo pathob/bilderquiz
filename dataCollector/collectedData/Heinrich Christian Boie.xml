@@ -1,0 +1,25 @@
+<Person>
+<name>Heinrich Christian Boie</name>
+<variantName>
+<XML_Serializer_Tag>Heinrich Cristian Boie</XML_Serializer_Tag>
+<XML_Serializer_Tag>Heinrich C. Boie</XML_Serializer_Tag>
+</variantName>
+<thumbnail>https://commons.wikimedia.org/wiki/Special:FilePath/Heinrich_Christian_Boie.jpg?width=270</thumbnail>
+<birthEN>July 19, 1744</birthEN>
+<birthDE>19. Juli 1744</birthDE>
+<deathEN>March 3, 1806</deathEN>
+<deathDE>3. März 1806</deathDE>
+<birthPlace />
+<deathPlace />
+<professionOrOccupation>
+<XML_Serializer_Tag>Schriftsteller</XML_Serializer_Tag>
+<XML_Serializer_Tag>Jurist</XML_Serializer_Tag>
+<XML_Serializer_Tag>Dichter</XML_Serializer_Tag>
+</professionOrOccupation>
+<dbpResource>http://dbpedia.org/resource/Heinrich_Christian_Boie</dbpResource>
+<abstract>Heinrich Christian Boie (* 19. Juli 1744 in Meldorf; † 25. Februar 1806 ebenda) war ein deutscher Dichter und Herausgeber.</abstract>
+<wikilink>http://en.wikipedia.org/wiki/Heinrich_Christian_Boie?oldid=600901149</wikilink>
+<artworks />
+<buildings />
+<books />
+</Person>

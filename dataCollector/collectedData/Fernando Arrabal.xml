@@ -1,0 +1,30 @@
+<Person>
+<name>Fernando Arrabal</name>
+<variantName>
+<XML_Serializer_Tag>Férnand Arrabal</XML_Serializer_Tag>
+<XML_Serializer_Tag>Fernando Arrabal Terán</XML_Serializer_Tag>
+<XML_Serializer_Tag>Fernando A. Terán</XML_Serializer_Tag>
+<XML_Serializer_Tag>Arrabal</XML_Serializer_Tag>
+</variantName>
+<thumbnail>https://commons.wikimedia.org/wiki/Special:FilePath/Fernando_Arrabal.jpg?width=270</thumbnail>
+<birthEN>1932</birthEN>
+<birthDE>1932</birthDE>
+<deathEN />
+<deathDE />
+<birthPlace>
+<XML_Serializer_Tag>Melilla, Spanisch-Marokko</XML_Serializer_Tag>
+</birthPlace>
+<deathPlace />
+<professionOrOccupation>
+<XML_Serializer_Tag>Schriftsteller</XML_Serializer_Tag>
+<XML_Serializer_Tag>Lyriker</XML_Serializer_Tag>
+<XML_Serializer_Tag>Dramatiker</XML_Serializer_Tag>
+<XML_Serializer_Tag>Schauspieler</XML_Serializer_Tag>
+</professionOrOccupation>
+<dbpResource>http://dbpedia.org/resource/Fernando_Arrabal</dbpResource>
+<abstract>Fernando Arrabal Terán (* 11. August 1932 in Melilla, Spanien) ist ein spanisch-französischer Schriftsteller, Dichter und Dramatiker des absurden Theaters.</abstract>
+<wikilink>http://en.wikipedia.org/wiki/Fernando_Arrabal?oldid=603850281</wikilink>
+<artworks />
+<buildings />
+<books />
+</Person>

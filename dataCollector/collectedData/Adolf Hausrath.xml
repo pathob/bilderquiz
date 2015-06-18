@@ -1,0 +1,25 @@
+<Person>
+<name>Adolf Hausrath</name>
+<variantName>
+<XML_Serializer_Tag>A. Hausrath</XML_Serializer_Tag>
+<XML_Serializer_Tag>George Taylor</XML_Serializer_Tag>
+<XML_Serializer_Tag>Adolph Hausrath</XML_Serializer_Tag>
+</variantName>
+<thumbnail>https://commons.wikimedia.org/wiki/Special:FilePath/Adolf_Hausrath.jpg?width=270</thumbnail>
+<birthEN>1837</birthEN>
+<birthDE>1837</birthDE>
+<deathEN>1909</deathEN>
+<deathDE>1909</deathDE>
+<birthPlace />
+<deathPlace />
+<professionOrOccupation>
+<XML_Serializer_Tag>Theologe</XML_Serializer_Tag>
+<XML_Serializer_Tag>Schriftsteller</XML_Serializer_Tag>
+</professionOrOccupation>
+<dbpResource>http://dbpedia.org/resource/Adolph_Hausrath</dbpResource>
+<abstract>Adolf Hausrath (Pseudonym George Taylor; * 13. Januar 1837 in Karlsruhe; † 2. August 1909 in Heidelberg) war ein protestantischer Theologe und Schriftsteller. Hausrath gilt neben Felix Dahn und Georg Ebers als Hauptvertreter des sogenannten &quot;Professorenromans&quot;.</abstract>
+<wikilink>http://en.wikipedia.org/wiki/Adolph_Hausrath?oldid=594847717</wikilink>
+<artworks />
+<buildings />
+<books />
+</Person>

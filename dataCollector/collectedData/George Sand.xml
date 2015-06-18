@@ -1,0 +1,150 @@
+<Person>
+<name>George Sand</name>
+<variantName>
+<XML_Serializer_Tag>Amandine Aurore-Lucie Dudevant</XML_Serializer_Tag>
+<XML_Serializer_Tag>Amantine Lucile Aurore Dudevant</XML_Serializer_Tag>
+<XML_Serializer_Tag>Amantine L. Dudevant</XML_Serializer_Tag>
+<XML_Serializer_Tag>Aurore Dudevant</XML_Serializer_Tag>
+<XML_Serializer_Tag>Aurore A. Dudevant</XML_Serializer_Tag>
+<XML_Serializer_Tag>Lucile-Aurore Dudevant</XML_Serializer_Tag>
+<XML_Serializer_Tag>Amandine Aurore-Lucie Dupin</XML_Serializer_Tag>
+<XML_Serializer_Tag>Amandine-Lucie-Aurore Dupin</XML_Serializer_Tag>
+<XML_Serializer_Tag>Amandine A. Dupin</XML_Serializer_Tag>
+<XML_Serializer_Tag>Amantine-Aurore-Lucile Dupin</XML_Serializer_Tag>
+<XML_Serializer_Tag>Amantine-Lucile-Aurore Dupin</XML_Serializer_Tag>
+<XML_Serializer_Tag>Armandine-Lucile-Aurore Dupin</XML_Serializer_Tag>
+<XML_Serializer_Tag>Aurore Dupin</XML_Serializer_Tag>
+<XML_Serializer_Tag>Lucie-Aurore-Amentine Dupin</XML_Serializer_Tag>
+<XML_Serializer_Tag>... Sand</XML_Serializer_Tag>
+<XML_Serializer_Tag>Amandine Aurore-Lucie Dupin Sand</XML_Serializer_Tag>
+<XML_Serializer_Tag>Amandine-Aurore-Lucie D. Sand</XML_Serializer_Tag>
+<XML_Serializer_Tag>Georg Sand</XML_Serializer_Tag>
+<XML_Serializer_Tag>Georges Sand</XML_Serializer_Tag>
+<XML_Serializer_Tag>Giorgio Sand</XML_Serializer_Tag>
+<XML_Serializer_Tag>G. Sand</XML_Serializer_Tag>
+<XML_Serializer_Tag>Jerzy Sand</XML_Serializer_Tag>
+<XML_Serializer_Tag>Žorž Sand</XML_Serializer_Tag>
+<XML_Serializer_Tag>Amandine Lucie Aurore Dudevant</XML_Serializer_Tag>
+<XML_Serializer_Tag>Žôrž Sand</XML_Serializer_Tag>
+<XML_Serializer_Tag>Ž. San</XML_Serializer_Tag>
+<XML_Serializer_Tag>Aurore Amantine Dudevant</XML_Serializer_Tag>
+<XML_Serializer_Tag>Amantine Aurore Dupin</XML_Serializer_Tag>
+<XML_Serializer_Tag>Amantine Aurore Lucile Dudevant</XML_Serializer_Tag>
+<XML_Serializer_Tag>Amantine Lucille Dudevant</XML_Serializer_Tag>
+<XML_Serializer_Tag>Amandine Lucile Dudevant</XML_Serializer_Tag>
+<XML_Serializer_Tag>Amantine Aurore Lucile de Dudewant</XML_Serializer_Tag>
+<XML_Serializer_Tag>Amantine Aurore Lucille de Dudevant</XML_Serializer_Tag>
+<XML_Serializer_Tag>Aurore von Dudewant</XML_Serializer_Tag>
+<XML_Serializer_Tag>Mantine Aurore Lucile Dupin</XML_Serializer_Tag>
+<XML_Serializer_Tag>A. Dupin</XML_Serializer_Tag>
+<XML_Serializer_Tag>George Sandová</XML_Serializer_Tag>
+<XML_Serializer_Tag>Amandine-Aurore-Lucile Dupin</XML_Serializer_Tag>
+<XML_Serializer_Tag>Amandine-Aurore-Lucile Dudevant</XML_Serializer_Tag>
+<XML_Serializer_Tag>Amandine Aurore Lucile Dupin</XML_Serializer_Tag>
+</variantName>
+<thumbnail>https://commons.wikimedia.org/wiki/Special:FilePath/George_Sand_photo.jpg?width=270</thumbnail>
+<birthEN>July 1, 1804</birthEN>
+<birthDE>1. Juli 1804</birthDE>
+<deathEN>June 8, 1876</deathEN>
+<deathDE>8. Juni 1876</deathDE>
+<birthPlace>
+<XML_Serializer_Tag>Paris</XML_Serializer_Tag>
+</birthPlace>
+<deathPlace>
+<XML_Serializer_Tag>Nohant-Vic</XML_Serializer_Tag>
+</deathPlace>
+<professionOrOccupation>
+<XML_Serializer_Tag>Schriftstellerin</XML_Serializer_Tag>
+</professionOrOccupation>
+<dbpResource>http://dbpedia.org/resource/George_Sand</dbpResource>
+<abstract>George Sand (* 1. Juli 1804 in Paris; † 8. Juni 1876 in Nohant, Département Indre; eigentlich Amandine Aurore Lucile Dupin de Francueil) war eine französische Schriftstellerin, die neben Romanen auch zahlreiche gesellschaftskritische Beiträge veröffentlichte. Sie setzte sich durch ihre Lebensweise und mit ihren Werken sowohl für feministische als auch für sozialkritische Ziele ein. So rebellierte sie beispielsweise gegen die Beschränkungen, die den Frauen im 19. Jahrhundert durch die Ehe als Institution auferlegt waren, und forderte an anderer Stelle die gleichberechtigte Teilhabe aller Klassen an gesellschaftlichen Gütern ein. George Sand rief bei ihren Zeitgenossen und späteren Denkern oft polarisierende Reaktionen hervor. So wurde sie von Friedrich Nietzsche als „Milchkuh mit schönem Stil“ bezeichnet, während sie für André Maurois „die Stimme der Frau in einer Zeit war, da die Frau schwieg“.</abstract>
+<wikilink>http://en.wikipedia.org/wiki/George_Sand?oldid=606535675</wikilink>
+<artworks />
+<buildings />
+<books>
+<XML_Serializer_Tag>
+<book>
+<type>uri</type>
+<value>http://dbpedia.org/resource/Consuelo_(novel)</value>
+</book>
+<author>
+<type>uri</type>
+<value>http://dbpedia.org/resource/George_Sand</value>
+</author>
+<thumbnail>
+<type>uri</type>
+<value>http://en.wikipedia.org/wiki/Special:FilePath/Pauline_Viardot.JPG?width=300</value>
+</thumbnail>
+<released>
+<type>typed-literal</type>
+<datatype>http://www.w3.org/2001/XMLSchema#integer</datatype>
+<value>1842</value>
+</released>
+<wikilink>
+<type>uri</type>
+<value>http://en.wikipedia.org/wiki/Consuelo_(novel)?oldid=588504465</value>
+</wikilink>
+</XML_Serializer_Tag>
+<XML_Serializer_Tag>
+<book>
+<type>uri</type>
+<value>http://dbpedia.org/resource/Indiana_(novel)</value>
+</book>
+<author>
+<type>uri</type>
+<value>http://dbpedia.org/resource/George_Sand</value>
+</author>
+<thumbnail>
+<type>uri</type>
+<value>http://commons.wikimedia.org/wiki/Special:FilePath/Indiana,_George_Sand_(1870).jpg?width=300</value>
+</thumbnail>
+<released>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>April 1832</value>
+</released>
+<wikilink>
+<type>uri</type>
+<value>http://en.wikipedia.org/wiki/Indiana_(novel)?oldid=591002476</value>
+</wikilink>
+</XML_Serializer_Tag>
+<XML_Serializer_Tag>
+<book>
+<type>uri</type>
+<value>http://dbpedia.org/resource/La_Petite_Fadette</value>
+</book>
+<author>
+<type>uri</type>
+<value>http://dbpedia.org/resource/George_Sand</value>
+</author>
+<released>
+<type>typed-literal</type>
+<datatype>http://www.w3.org/2001/XMLSchema#integer</datatype>
+<value>1849</value>
+</released>
+<wikilink>
+<type>uri</type>
+<value>http://en.wikipedia.org/wiki/La_Petite_Fadette?oldid=602962229</value>
+</wikilink>
+</XML_Serializer_Tag>
+<XML_Serializer_Tag>
+<book>
+<type>uri</type>
+<value>http://dbpedia.org/resource/Mauprat</value>
+</book>
+<author>
+<type>uri</type>
+<value>http://dbpedia.org/resource/George_Sand</value>
+</author>
+<released>
+<type>typed-literal</type>
+<datatype>http://www.w3.org/2001/XMLSchema#integer</datatype>
+<value>1837</value>
+</released>
+<wikilink>
+<type>uri</type>
+<value>http://en.wikipedia.org/wiki/Mauprat?oldid=579140017</value>
+</wikilink>
+</XML_Serializer_Tag>
+</books>
+</Person>

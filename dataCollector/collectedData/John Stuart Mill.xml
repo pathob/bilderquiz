@@ -1,0 +1,126 @@
+<Person>
+<name>John Stuart Mill</name>
+<variantName>
+<XML_Serializer_Tag>John Stuart Mill</XML_Serializer_Tag>
+<XML_Serializer_Tag>John S. Mill</XML_Serializer_Tag>
+<XML_Serializer_Tag>J. S. Mill</XML_Serializer_Tag>
+<XML_Serializer_Tag>Ğān İstuwārt Mīl</XML_Serializer_Tag>
+<XML_Serializer_Tag>John-Stuart Mill</XML_Serializer_Tag>
+<XML_Serializer_Tag>Džon Stjuart Mil</XML_Serializer_Tag>
+<XML_Serializer_Tag>Милль, Джон Стюарт</XML_Serializer_Tag>
+<XML_Serializer_Tag>Джон Стюарт Мілль</XML_Serializer_Tag>
+<XML_Serializer_Tag>Τζον Στιούαρτ Μιλ</XML_Serializer_Tag>
+</variantName>
+<thumbnail>https://commons.wikimedia.org/wiki/Special:FilePath/JohnStuartMill.JPG?width=270</thumbnail>
+<birthEN>May 20, 1806</birthEN>
+<birthDE>20. Mai 1806</birthDE>
+<deathEN>May 8, 1873</deathEN>
+<deathDE>8. Mai 1873</deathDE>
+<birthPlace>
+<XML_Serializer_Tag>London</XML_Serializer_Tag>
+</birthPlace>
+<deathPlace>
+<XML_Serializer_Tag>Avignon</XML_Serializer_Tag>
+</deathPlace>
+<professionOrOccupation>
+<XML_Serializer_Tag>Philosoph</XML_Serializer_Tag>
+<XML_Serializer_Tag>Nationalökonom</XML_Serializer_Tag>
+<XML_Serializer_Tag>Schriftsteller</XML_Serializer_Tag>
+</professionOrOccupation>
+<dbpResource>http://dbpedia.org/resource/John_Stuart_Mill</dbpResource>
+<abstract>John Stuart Mill (* 20. Mai 1806 in Pentonville; † 8. Mai 1873 in Avignon) war ein englischer Philosoph und Ökonom und einer der einflussreichsten liberalen Denker des 19. Jahrhunderts. Er war Anhänger des Utilitarismus, der von Jeremy Bentham, dem Lehrer und Freund seines Vaters James Mill, entwickelt wurde. Seine wirtschaftlichen Werke zählen zu den Grundlagen der klassischen Nationalökonomie, und Mill selbst gilt als Vollender des klassischen Systems und zugleich als sozialer Reformer.Der von ihm als Gegenentwurf zu Thomas Morus’ Utopia geprägte Begriff Dystopia bezeichnet einen pessimistischen Zukunftsentwurf in Philosophie und Literatur.</abstract>
+<wikilink>http://en.wikipedia.org/wiki/John_Stuart_Mill?oldid=606605193</wikilink>
+<artworks />
+<buildings />
+<books>
+<XML_Serializer_Tag>
+<book>
+<type>uri</type>
+<value>http://dbpedia.org/resource/Considerations_on_Representative_Government</value>
+</book>
+<author>
+<type>uri</type>
+<value>http://dbpedia.org/resource/John_Stuart_Mill</value>
+</author>
+<thumbnail>
+<type>uri</type>
+<value>http://commons.wikimedia.org/wiki/Special:FilePath/John_Stuart_Mill,_Considerations_on_Representative_Government_(1st_ed,_1861,_title_page).jpg?width=300</value>
+</thumbnail>
+<released>
+<type>typed-literal</type>
+<datatype>http://www.w3.org/2001/XMLSchema#integer</datatype>
+<value>1861</value>
+</released>
+<wikilink>
+<type>uri</type>
+<value>http://en.wikipedia.org/wiki/Considerations_on_Representative_Government?oldid=590375359</value>
+</wikilink>
+</XML_Serializer_Tag>
+<XML_Serializer_Tag>
+<book>
+<type>uri</type>
+<value>http://dbpedia.org/resource/On_Social_Freedom</value>
+</book>
+<author>
+<type>uri</type>
+<value>http://dbpedia.org/resource/John_Stuart_Mill</value>
+</author>
+<thumbnail>
+<type>uri</type>
+<value>http://commons.wikimedia.org/wiki/Special:FilePath/On_Social_Freedom_in_Oxford_and_Cambridge_Review_1907.jpg?width=300</value>
+</thumbnail>
+<released>
+<type>typed-literal</type>
+<datatype>http://www.w3.org/2001/XMLSchema#integer</datatype>
+<value>1907</value>
+</released>
+<wikilink>
+<type>uri</type>
+<value>http://en.wikipedia.org/wiki/On_Social_Freedom?oldid=573357898</value>
+</wikilink>
+</XML_Serializer_Tag>
+<XML_Serializer_Tag>
+<book>
+<type>uri</type>
+<value>http://dbpedia.org/resource/On_Liberty</value>
+</book>
+<author>
+<type>uri</type>
+<value>http://dbpedia.org/resource/John_Stuart_Mill</value>
+</author>
+<released>
+<type>typed-literal</type>
+<datatype>http://www.w3.org/2001/XMLSchema#integer</datatype>
+<value>1859</value>
+</released>
+<wikilink>
+<type>uri</type>
+<value>http://en.wikipedia.org/wiki/On_Liberty?oldid=603629913</value>
+</wikilink>
+<abstract>
+<type>literal</type>
+<xml:lang>de</xml:lang>
+<value>On Liberty ist ein philosophisches Werk des englischen Philosophen John Stuart Mill, das erstmals 1859 veröffentlicht wurde. Für den damaligen viktorianischen Leser war es ein radikales Werk, das moralische und ökonomische Freiheit von Individuen gegenüber dem souveränen Staat forderte.Ein wichtiger Punkt des Werks ist sein Grundsatz für Freiheit: „Over himself, over his own body and mind, the individual is sovereign.“ (Dt.: „Über sich selbst, über seinen eigenen Körper und Geist, ist ein Individuum souverän.“) Mill sagt das als Gegensatz zur Tyrannei der Mehrheit. „Tyrannei der Mehrheit“ nennt er die ungewählte Macht der Mehrheit, die durch Kontrolle der Etiquette und Moral schreckliche Dinge tun kann. Ein zweiter wichtiger Punkt des Werks ist das Harm Principle (Prinzip des Schadens): Jeder kann alles tun was er will, solange er niemandem direkt schadet. Alle Zweige des Liberalismus, und auch andere politische Lehren, verstehen dies als ihr Grundprinzip, sie widersprechen sich jedoch darin, was Schaden ist und was direkt ist.On Liberty war ein enorm einflussreiches Werk. Die präsentierten Ideen waren die Basis vieler politischer Gedanken. Das Werk ist recht kurz und auch durch Nicht-Experten leicht lesbar. Es blieb seit seiner ersten Veröffentlichung kontinuierlich in Druck. Bis heute wird eine Kopie des Werks dem Präsidenten der britischen liberalen Demokraten, früher die liberale Partei, gegeben, als Zeichen der Nachfolge der Partei, die Mill gründen half.</value>
+</abstract>
+</XML_Serializer_Tag>
+<XML_Serializer_Tag>
+<book>
+<type>uri</type>
+<value>http://dbpedia.org/resource/Principles_of_Political_Economy</value>
+</book>
+<author>
+<type>uri</type>
+<value>http://dbpedia.org/resource/John_Stuart_Mill</value>
+</author>
+<released>
+<type>typed-literal</type>
+<datatype>http://www.w3.org/2001/XMLSchema#integer</datatype>
+<value>1848</value>
+</released>
+<wikilink>
+<type>uri</type>
+<value>http://en.wikipedia.org/wiki/Principles_of_Political_Economy?oldid=571753035</value>
+</wikilink>
+</XML_Serializer_Tag>
+</books>
+</Person>

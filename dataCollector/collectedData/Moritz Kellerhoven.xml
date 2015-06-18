@@ -14,8 +14,10 @@
 <XML_Serializer_Tag>Maler</XML_Serializer_Tag>
 <XML_Serializer_Tag>Radierer</XML_Serializer_Tag>
 </professionOrOccupation>
-<artworks />
 <dbpResource>http://dbpedia.org/resource/Moritz_Kellerhoven</dbpResource>
 <abstract>Moritz Kellerhoven (* 1758 in Altenrath; † 15. Dezember 1830 in München) war ein deutscher Porträtmaler und Radierer.</abstract>
 <wikilink>http://en.wikipedia.org/wiki/Moritz_Kellerhoven?oldid=597433448</wikilink>
+<artworks />
+<buildings />
+<books />
 </Person>

@@ -1,0 +1,30 @@
+<Person>
+<name>Johann Peter Krafft</name>
+<variantName>
+<XML_Serializer_Tag>Peter Johann Krafft</XML_Serializer_Tag>
+<XML_Serializer_Tag>Peter Krafft</XML_Serializer_Tag>
+<XML_Serializer_Tag>Peter von Krafft</XML_Serializer_Tag>
+<XML_Serializer_Tag>P. Krafft</XML_Serializer_Tag>
+<XML_Serializer_Tag>Johann Peter Kraft</XML_Serializer_Tag>
+<XML_Serializer_Tag>Peter Kraft</XML_Serializer_Tag>
+<XML_Serializer_Tag>P. Kraft</XML_Serializer_Tag>
+</variantName>
+<thumbnail>https://commons.wikimedia.org/wiki/Special:FilePath/Josef_Danhauser,_Johann_Peter_Krafft.jpg?width=270</thumbnail>
+<birthEN>1780</birthEN>
+<birthDE>1780</birthDE>
+<deathEN>1856</deathEN>
+<deathDE>1856</deathDE>
+<birthPlace />
+<deathPlace />
+<professionOrOccupation>
+<XML_Serializer_Tag>Künstler</XML_Serializer_Tag>
+<XML_Serializer_Tag>Historienmaler</XML_Serializer_Tag>
+<XML_Serializer_Tag>Galeriedirektor</XML_Serializer_Tag>
+</professionOrOccupation>
+<dbpResource>http://dbpedia.org/resource/Johann_Peter_Krafft</dbpResource>
+<abstract>Johann Peter Krafft (auch Jean-Pierre) (* 15. September 1780 in Hanau, Hessen; † 28. Oktober 1856 in Wien) war ein deutscher Genre-, Historien- und Porträtmaler.</abstract>
+<wikilink>http://en.wikipedia.org/wiki/Johann_Peter_Krafft?oldid=567468506</wikilink>
+<artworks />
+<buildings />
+<books />
+</Person>

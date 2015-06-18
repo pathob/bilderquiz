@@ -1,0 +1,31 @@
+<Person>
+<name>August von Mackensen</name>
+<variantName>
+<XML_Serializer_Tag>Anton Ludwig Friedrich August Mackensen</XML_Serializer_Tag>
+<XML_Serializer_Tag>August Mackensen</XML_Serializer_Tag>
+<XML_Serializer_Tag>... von Mackensen</XML_Serializer_Tag>
+<XML_Serializer_Tag>... Mackensen</XML_Serializer_Tag>
+</variantName>
+<thumbnail>https://commons.wikimedia.org/wiki/Special:FilePath/August_von_Mackensen_fieldmarshal.jpg?width=270</thumbnail>
+<birthEN>December 6, 1849</birthEN>
+<birthDE>6. Dezember 1849</birthDE>
+<deathEN>November 8, 1945</deathEN>
+<deathDE>8. November 1945</deathDE>
+<birthPlace>
+<XML_Serializer_Tag>Dahlenberg</XML_Serializer_Tag>
+</birthPlace>
+<deathPlace>
+<XML_Serializer_Tag>Burghorn</XML_Serializer_Tag>
+</deathPlace>
+<professionOrOccupation>
+<XML_Serializer_Tag>General</XML_Serializer_Tag>
+<XML_Serializer_Tag>Generalfeldmarschall</XML_Serializer_Tag>
+<XML_Serializer_Tag>Autor</XML_Serializer_Tag>
+</professionOrOccupation>
+<dbpResource>http://dbpedia.org/resource/August_von_Mackensen</dbpResource>
+<abstract>August von Mackensen (* 6. Dezember 1849 in Haus Leipnitz in Dahlenberg als Anton Ludwig Friedrich August Mackensen; † 8. November 1945 in Burghorn) war ein preußischer Generalfeldmarschall. Aus bürgerlichen Verhältnissen stammend, stieg er als Offizier bis zum Adjutanten des Kaisers Wilhelm II. auf und wurde von diesem 1899 geadelt. Im Ersten Weltkrieg war er ein erfolgreicher Heerführer und wurde später, zur Symbolfigur geworden, von den Nationalsozialisten als Anhänger Hitlers für Propagandazwecke eingesetzt.</abstract>
+<wikilink>http://en.wikipedia.org/wiki/August_von_Mackensen?oldid=606034341</wikilink>
+<artworks />
+<buildings />
+<books />
+</Person>

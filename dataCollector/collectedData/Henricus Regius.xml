@@ -1,0 +1,43 @@
+<Person>
+<name>Henricus Regius</name>
+<variantName>
+<XML_Serializer_Tag>Hendrik de Roy</XML_Serializer_Tag>
+<XML_Serializer_Tag>Hendrik De Roy</XML_Serializer_Tag>
+<XML_Serializer_Tag>Henricus De Roy</XML_Serializer_Tag>
+<XML_Serializer_Tag>Henricus Du Roy</XML_Serializer_Tag>
+<XML_Serializer_Tag>Henry Desroy</XML_Serializer_Tag>
+<XML_Serializer_Tag>Henry Duroy</XML_Serializer_Tag>
+<XML_Serializer_Tag>Henri Le Roy</XML_Serializer_Tag>
+<XML_Serializer_Tag>Henrikus Regius</XML_Serializer_Tag>
+<XML_Serializer_Tag>Henri Duroy</XML_Serializer_Tag>
+<XML_Serializer_Tag>Henricus de Roy</XML_Serializer_Tag>
+<XML_Serializer_Tag>Henricus du Roy</XML_Serializer_Tag>
+<XML_Serializer_Tag>Henri le Roy</XML_Serializer_Tag>
+<XML_Serializer_Tag>Hendrik DeRoy</XML_Serializer_Tag>
+<XML_Serializer_Tag>Henricus DeRoy</XML_Serializer_Tag>
+<XML_Serializer_Tag>Henricus DuRoy</XML_Serializer_Tag>
+<XML_Serializer_Tag>Henri LeRoy</XML_Serializer_Tag>
+<XML_Serializer_Tag>Hendrik van Roy</XML_Serializer_Tag>
+<XML_Serializer_Tag>Henricus van Roy</XML_Serializer_Tag>
+<XML_Serializer_Tag>Hendrik de Rol</XML_Serializer_Tag>
+</variantName>
+<thumbnail>https://commons.wikimedia.org/wiki/Special:FilePath/Henricus_regius.jpg?width=270</thumbnail>
+<birthEN>1598</birthEN>
+<birthDE>1598</birthDE>
+<deathEN>1679</deathEN>
+<deathDE>1679</deathDE>
+<birthPlace>
+<XML_Serializer_Tag>Utrecht</XML_Serializer_Tag>
+</birthPlace>
+<deathPlace />
+<professionOrOccupation>
+<XML_Serializer_Tag>Arzt</XML_Serializer_Tag>
+<XML_Serializer_Tag>Philosoph</XML_Serializer_Tag>
+</professionOrOccupation>
+<dbpResource>http://dbpedia.org/resource/Henricus_Regius</dbpResource>
+<abstract>Henricus Regius (auch Hendrik de Roy oder Henry de Roy; * 29. Juli 1598 in Utrecht; † 19. Februar 1679 ebenda) war ein niederländischer Philosoph und Mediziner.</abstract>
+<wikilink>http://en.wikipedia.org/wiki/Henricus_Regius?oldid=571566648</wikilink>
+<artworks />
+<buildings />
+<books />
+</Person>

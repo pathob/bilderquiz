@@ -16,8 +16,10 @@
 <professionOrOccupation>
 <XML_Serializer_Tag>Maler</XML_Serializer_Tag>
 </professionOrOccupation>
-<artworks />
 <dbpResource>http://dbpedia.org/resource/Giovanni_Battista_Moroni</dbpResource>
 <abstract>Giovanni Battista Moroni (* zwischen 1521 und 1524 in Albino; † um 1580) war ein italienischer Maler der Renaissance. Moroni malte hauptsächlich Portraits. Er erlangte bereits zu Lebzeiten Berühmtheit, wurde aber besonders im 19. Jahrhundert in England geschätzt, wo sich auch heute noch in der National Gallery die größte Sammlung seiner Werke außerhalb Italiens befindet.</abstract>
 <wikilink>http://en.wikipedia.org/wiki/Giovanni_Battista_Moroni?oldid=602500294</wikilink>
+<artworks />
+<buildings />
+<books />
 </Person>

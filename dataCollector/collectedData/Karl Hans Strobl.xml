@@ -1,0 +1,29 @@
+<Person>
+<name>Karl Hans Strobl</name>
+<variantName>
+<XML_Serializer_Tag>Karl Heinz Strobl</XML_Serializer_Tag>
+<XML_Serializer_Tag>Karl H. Strobl</XML_Serializer_Tag>
+<XML_Serializer_Tag>K. H. Strobl</XML_Serializer_Tag>
+</variantName>
+<thumbnail>https://commons.wikimedia.org/wiki/Special:FilePath/Karl_Hans_Strobl.jpg?width=270</thumbnail>
+<birthEN>January 18, 1877</birthEN>
+<birthDE>18. Januar 1877</birthDE>
+<deathEN>March 10, 1946</deathEN>
+<deathDE>10. März 1946</deathDE>
+<birthPlace>
+<XML_Serializer_Tag>Iglau</XML_Serializer_Tag>
+</birthPlace>
+<deathPlace>
+<XML_Serializer_Tag>Perchtoldsdorf</XML_Serializer_Tag>
+</deathPlace>
+<professionOrOccupation>
+<XML_Serializer_Tag>Schriftsteller</XML_Serializer_Tag>
+<XML_Serializer_Tag>Drehbuchautor</XML_Serializer_Tag>
+</professionOrOccupation>
+<dbpResource>http://dbpedia.org/resource/Karl_Hans_Strobl</dbpResource>
+<abstract>Karl Hans Strobl (* 18. Januar 1877 in Iglau (Jihlava), Mähren; † 10. März 1946 in Perchtoldsdorf bei Wien) war ein österreichischer Schriftsteller.</abstract>
+<wikilink>http://en.wikipedia.org/wiki/Karl_Hans_Strobl?oldid=602861905</wikilink>
+<artworks />
+<buildings />
+<books />
+</Person>

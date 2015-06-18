@@ -11,12 +11,15 @@
 <professionOrOccupation>
 <XML_Serializer_Tag>Maler</XML_Serializer_Tag>
 </professionOrOccupation>
+<dbpResource>http://dbpedia.org/resource/Gentile_Bellini</dbpResource>
+<abstract>Gentile Bellini (* um 1429 in Venedig; † 23. Februar 1507 ebenda) war ein venezianischer Maler und Medailleur.</abstract>
+<wikilink>http://en.wikipedia.org/wiki/Gentile_Bellini?oldid=605465929</wikilink>
 <artworks>
 <XML_Serializer_Tag>
-<painting>
+<artwork>
 <type>uri</type>
 <value>http://dbpedia.org/resource/Procession_in_St._Mark&apos;s_Square</value>
-</painting>
+</artwork>
 <thumbnail>
 <type>uri</type>
 <value>http://commons.wikimedia.org/wiki/Special:FilePath/Gentile_bellini,_processione_in_piazza_san_marco_01.jpg?width=300</value>
@@ -35,12 +38,17 @@
 <type>uri</type>
 <value>http://en.wikipedia.org/wiki/Procession_in_St._Mark&apos;s_Square?oldid=590548874</value>
 </wikilink>
+<type>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>Tempera on canvas</value>
+</type>
 </XML_Serializer_Tag>
 <XML_Serializer_Tag>
-<painting>
+<artwork>
 <type>uri</type>
 <value>http://dbpedia.org/resource/Miracle_of_the_Cross_at_the_Bridge_of_S._Lorenzo</value>
-</painting>
+</artwork>
 <thumbnail>
 <type>uri</type>
 <value>http://commons.wikimedia.org/wiki/Special:FilePath/1500_Gentile_Bellini,_Miracle_of_the_Cross_at_the_Bridge_of_S._Lorenzo_Galleria_dell&apos;Accademia,_Venice.jpg?width=300</value>
@@ -59,9 +67,13 @@
 <type>uri</type>
 <value>http://en.wikipedia.org/wiki/Miracle_of_the_Cross_at_the_Bridge_of_S._Lorenzo?oldid=590149296</value>
 </wikilink>
+<type>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>Tempera on canvas</value>
+</type>
 </XML_Serializer_Tag>
 </artworks>
-<dbpResource>http://dbpedia.org/resource/Gentile_Bellini</dbpResource>
-<abstract>Gentile Bellini (* um 1429 in Venedig; † 23. Februar 1507 ebenda) war ein venezianischer Maler und Medailleur.</abstract>
-<wikilink>http://en.wikipedia.org/wiki/Gentile_Bellini?oldid=605465929</wikilink>
+<buildings />
+<books />
 </Person>

@@ -1,0 +1,50 @@
+<Person>
+<name>Hannes Meyer</name>
+<variantName>
+<XML_Serializer_Tag>Hans Emil Meyer</XML_Serializer_Tag>
+</variantName>
+<thumbnail>https://commons.wikimedia.org/wiki/Special:FilePath/Bernau_bei_Berlin_ADGB_Schule_Wohntrakte_hinten.jpg?width=270</thumbnail>
+<birthEN>November 18, 1889</birthEN>
+<birthDE>18. November 1889</birthDE>
+<deathEN>July 19, 1954</deathEN>
+<deathDE>19. Juli 1954</deathDE>
+<birthPlace />
+<deathPlace />
+<professionOrOccupation>
+<XML_Serializer_Tag>Architekt</XML_Serializer_Tag>
+</professionOrOccupation>
+<dbpResource>http://dbpedia.org/resource/Hannes_Meyer</dbpResource>
+<abstract>Hans Emil Meyer, gen. Hannes Meyer (* 18. November 1889 in Basel; † 19. Juli 1954 in Crossifisso di Lugano) war ein Schweizer Architekt und Urbanist, der auch in Deutschland arbeitete und dort als Lehrer und Direktor am Bauhaus großen Einfluss ausübte.</abstract>
+<wikilink>http://en.wikipedia.org/wiki/Hannes_Meyer?oldid=601805184</wikilink>
+<artworks />
+<buildings>
+<XML_Serializer_Tag>
+<building>
+<type>uri</type>
+<value>http://dbpedia.org/resource/ADGB_Trade_Union_School</value>
+</building>
+<name>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>ADGB Trade Union School</value>
+</name>
+<architect>
+<type>uri</type>
+<value>http://dbpedia.org/resource/Hannes_Meyer</value>
+</architect>
+<thumbnail>
+<type>uri</type>
+<value>http://commons.wikimedia.org/wiki/Special:FilePath/Gewerkschaftsschule-Bernau_2007-08-19_AMA_fec5.JPG?width=300</value>
+</thumbnail>
+<wikilink>
+<type>uri</type>
+<value>http://en.wikipedia.org/wiki/ADGB_Trade_Union_School?oldid=598231017</value>
+</wikilink>
+<location>
+<type>uri</type>
+<value>http://dbpedia.org/resource/Bernau_bei_Berlin</value>
+</location>
+</XML_Serializer_Tag>
+</buildings>
+<books />
+</Person>

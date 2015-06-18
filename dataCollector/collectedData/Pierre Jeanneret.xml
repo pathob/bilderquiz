@@ -1,0 +1,55 @@
+<Person>
+<name>Pierre Jeanneret</name>
+<variantName>
+<XML_Serializer_Tag>Pierre André Jeanneret</XML_Serializer_Tag>
+</variantName>
+<thumbnail>https://commons.wikimedia.org/wiki/Special:FilePath/Gandhi_Bhawan_at_Punjab_University.jpg?width=270</thumbnail>
+<birthEN>March 22, 1896</birthEN>
+<birthDE>22. März 1896</birthDE>
+<deathEN>December 4, 1967</deathEN>
+<deathDE>4. Dezember 1967</deathDE>
+<birthPlace />
+<deathPlace />
+<professionOrOccupation>
+<XML_Serializer_Tag>Architekt</XML_Serializer_Tag>
+</professionOrOccupation>
+<dbpResource>http://dbpedia.org/resource/Pierre_Jeanneret</dbpResource>
+<abstract>Pierre Jeanneret (* 22. März 1896 in Genf; † 4. Dezember 1967 ebenda) war ein Schweizer Architekt.Pierre Jeanneret war viele Jahre Partner seines berühmten Vetters (zweiten Grades) Le Corbusier (Charles Edouard Jeanneret). Beide gründeten 1923 in Paris ein gemeinsames Architekturbüro, Jeanneret war an vielen der in diesem Büro entworfenen, für die Entwicklung der modernen Architektur bedeutenden Projekte beteiligt. Das gemeinsame Büro wurde 1940 aufgelöst. In den 1950er Jahren arbeiteten sie beim Bau der indischen Stadt Chandigarh noch einmal zusammen an einem Projekt.</abstract>
+<wikilink>http://en.wikipedia.org/wiki/Pierre_Jeanneret?oldid=595562179</wikilink>
+<artworks />
+<buildings>
+<XML_Serializer_Tag>
+<building>
+<type>uri</type>
+<value>http://dbpedia.org/resource/Villa_Savoye</value>
+</building>
+<name>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>Villa Savoye</value>
+</name>
+<architect>
+<type>uri</type>
+<value>http://dbpedia.org/resource/Pierre_Jeanneret</value>
+</architect>
+<thumbnail>
+<type>uri</type>
+<value>http://en.wikipedia.org/wiki/Special:FilePath/VillaSavoye.jpg?width=300</value>
+</thumbnail>
+<wikilink>
+<type>uri</type>
+<value>http://en.wikipedia.org/wiki/Villa_Savoye?oldid=602220842</value>
+</wikilink>
+<location>
+<type>uri</type>
+<value>http://dbpedia.org/resource/Yvelines</value>
+</location>
+<abstract>
+<type>literal</type>
+<xml:lang>de</xml:lang>
+<value>Die Villa Savoye, manchmal auch Villa les Heures Claires genannt, wurde von Le Corbusier entworfen und von 1928 bis 1931 in Poissy nordwestlich von Paris erbaut.</value>
+</abstract>
+</XML_Serializer_Tag>
+</buildings>
+<books />
+</Person>

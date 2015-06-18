@@ -1,0 +1,76 @@
+<Person>
+<name>Johanna Spyri</name>
+<variantName>
+<XML_Serializer_Tag>Joana Spyri</XML_Serializer_Tag>
+<XML_Serializer_Tag>Joanna Spyri</XML_Serializer_Tag>
+<XML_Serializer_Tag>Johana Spyri</XML_Serializer_Tag>
+<XML_Serializer_Tag>Johanna Heusser Spyri</XML_Serializer_Tag>
+<XML_Serializer_Tag>Johanna Louise Spyri</XML_Serializer_Tag>
+<XML_Serializer_Tag>Johanne Spyri</XML_Serializer_Tag>
+<XML_Serializer_Tag>Juana Spyri</XML_Serializer_Tag>
+<XML_Serializer_Tag>J. Spyri</XML_Serializer_Tag>
+<XML_Serializer_Tag>Johanna Heusser</XML_Serializer_Tag>
+<XML_Serializer_Tag>Johanna Häusser</XML_Serializer_Tag>
+<XML_Serializer_Tag>Yūhān Ispīrī</XML_Serializer_Tag>
+<XML_Serializer_Tag>J. S.</XML_Serializer_Tag>
+<XML_Serializer_Tag>Yohannā Spāyarī</XML_Serializer_Tag>
+<XML_Serializer_Tag>Džoanna Spairija</XML_Serializer_Tag>
+<XML_Serializer_Tag>Iochanna Spiri</XML_Serializer_Tag>
+<XML_Serializer_Tag>Jochana Spiri</XML_Serializer_Tag>
+<XML_Serializer_Tag>Jochanna Spiri</XML_Serializer_Tag>
+<XML_Serializer_Tag>Johana Špiri</XML_Serializer_Tag>
+<XML_Serializer_Tag>Yohanna Supiri</XML_Serializer_Tag>
+<XML_Serializer_Tag>... Supiri</XML_Serializer_Tag>
+<XML_Serializer_Tag>Johanna Sypri</XML_Serializer_Tag>
+<XML_Serializer_Tag>J. S.</XML_Serializer_Tag>
+<XML_Serializer_Tag>Liqiaona Shipi</XML_Serializer_Tag>
+<XML_Serializer_Tag>Yohanna Siperri</XML_Serializer_Tag>
+<XML_Serializer_Tag>Johanna Spyriová</XML_Serializer_Tag>
+<XML_Serializer_Tag>Johanna Louise Heusser</XML_Serializer_Tag>
+<XML_Serializer_Tag>יוהנה ספירי</XML_Serializer_Tag>
+</variantName>
+<thumbnail>https://commons.wikimedia.org/wiki/Special:FilePath/Johanna-spyri.jpg?width=270</thumbnail>
+<birthEN>June 12, 1827</birthEN>
+<birthDE>12. Juni 1827</birthDE>
+<deathEN>July 7, 1901</deathEN>
+<deathDE>7. Juli 1901</deathDE>
+<birthPlace>
+<XML_Serializer_Tag>Hirzel</XML_Serializer_Tag>
+</birthPlace>
+<deathPlace>
+<XML_Serializer_Tag>Zürich</XML_Serializer_Tag>
+</deathPlace>
+<professionOrOccupation>
+<XML_Serializer_Tag>Schriftstellerin</XML_Serializer_Tag>
+</professionOrOccupation>
+<dbpResource>http://dbpedia.org/resource/Johanna_Spyri</dbpResource>
+<abstract>Johanna Spyri [ˈʃpiːri], gebürtig Johanna Louise Heusser (* 12. Juni 1827 in Hirzel, Kanton Zürich; † 7. Juli 1901 in Zürich) war eine Schweizer Jugendschriftstellerin und die Schöpferin der bekannten Romanfigur Heidi.</abstract>
+<wikilink>http://en.wikipedia.org/wiki/Johanna_Spyri?oldid=603792856</wikilink>
+<artworks />
+<buildings />
+<books>
+<XML_Serializer_Tag>
+<book>
+<type>uri</type>
+<value>http://dbpedia.org/resource/Heidi</value>
+</book>
+<author>
+<type>uri</type>
+<value>http://dbpedia.org/resource/Johanna_Spyri</value>
+</author>
+<thumbnail>
+<type>uri</type>
+<value>http://commons.wikimedia.org/wiki/Special:FilePath/Spyri_Heidi_Cover_1887.jpg?width=300</value>
+</thumbnail>
+<wikilink>
+<type>uri</type>
+<value>http://en.wikipedia.org/wiki/Heidi?oldid=603817564</value>
+</wikilink>
+<abstract>
+<type>literal</type>
+<xml:lang>de</xml:lang>
+<value>Die beiden Kinderbücher Heidis Lehr- und Wanderjahre und Heidi kann brauchen, was es gelernt hat der Schweizer Autorin Johanna Spyri (1827–1901) aus den Jahren 1880 und 1881 gehören zu den bekanntesten Kinderbüchern der Welt. Mit ihren Heidi-Büchern schuf Johanna Spyri ein noch heute weit verbreitetes romantisches und idealtypisches Bild der Schweiz.</value>
+</abstract>
+</XML_Serializer_Tag>
+</books>
+</Person>

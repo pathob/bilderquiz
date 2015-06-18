@@ -1,0 +1,32 @@
+<Person>
+<name>Samuel Taylor Coleridge</name>
+<variantName>
+<XML_Serializer_Tag>... Coleridge</XML_Serializer_Tag>
+<XML_Serializer_Tag>S. T. Coleridge</XML_Serializer_Tag>
+<XML_Serializer_Tag>Samuel Taylor Coleridge</XML_Serializer_Tag>
+<XML_Serializer_Tag>Semjuel Tejlor Kolʹridž</XML_Serializer_Tag>
+<XML_Serializer_Tag>Sėmjuėl Tėjlor Kolʹridž</XML_Serializer_Tag>
+<XML_Serializer_Tag>Samuel T. Coleridge</XML_Serializer_Tag>
+<XML_Serializer_Tag>Samuel Taylor-Coleridge</XML_Serializer_Tag>
+<XML_Serializer_Tag>S.T.C.</XML_Serializer_Tag>
+<XML_Serializer_Tag>Samuel T. C.</XML_Serializer_Tag>
+</variantName>
+<thumbnail>https://commons.wikimedia.org/wiki/Special:FilePath/Samuel_Taylor_Coleridge_1795.gif?width=270</thumbnail>
+<birthEN>October 21, 1772</birthEN>
+<birthDE>21. Oktober 1772</birthDE>
+<deathEN>July 25, 1834</deathEN>
+<deathDE>25. Juli 1834</deathDE>
+<birthPlace>
+<XML_Serializer_Tag>Ottery Saint Mary</XML_Serializer_Tag>
+</birthPlace>
+<deathPlace />
+<professionOrOccupation>
+<XML_Serializer_Tag>Schriftsteller</XML_Serializer_Tag>
+</professionOrOccupation>
+<dbpResource>http://dbpedia.org/resource/Samuel_Taylor_Coleridge</dbpResource>
+<abstract>Samuel Taylor Coleridge [ˈkoʊlərɪdʒ oder ˈkoʊlrɪdʒ] (* 21. Oktober 1772 in Ottery St Mary, Devon; † 25. Juli 1834 in Highgate, London) war ein englischer Dichter der Romantik, Kritiker und Philosoph. Zusammen mit William Wordsworth und Robert Southey gehörte er den sogenannten Lake Poets an. Sein bekanntestes Werk ist die Ballade The Rime of the Ancient Mariner (dt. Ballade vom alten Seemann oder Der alte Matrose) – veröffentlicht 1798 in der gemeinsam mit Wordsworth herausgegebenen Sammlung Lyrical Ballads, die nach traditioneller Auffassung die englische Romantik begründete.Coleridge prägte die Formel von der willentlichen Aussetzung der Ungläubigkeit.</abstract>
+<wikilink>http://en.wikipedia.org/wiki/Samuel_Taylor_Coleridge?oldid=604309406</wikilink>
+<artworks />
+<buildings />
+<books />
+</Person>

@@ -1,0 +1,30 @@
+<Person>
+<name>Roderich Benedix</name>
+<variantName>
+<XML_Serializer_Tag>Julius Roderich Benedix</XML_Serializer_Tag>
+<XML_Serializer_Tag>Jules Roderich Benedix</XML_Serializer_Tag>
+<XML_Serializer_Tag>Roderich Julius Benedict</XML_Serializer_Tag>
+<XML_Serializer_Tag>Robert Benedix</XML_Serializer_Tag>
+</variantName>
+<thumbnail>https://commons.wikimedia.org/wiki/Special:FilePath/Roderich_Benedix.jpg?width=270</thumbnail>
+<birthEN>January 21, 1811</birthEN>
+<birthDE>21. Januar 1811</birthDE>
+<deathEN>September 26, 1873</deathEN>
+<deathDE>26. September 1873</deathDE>
+<birthPlace>
+<XML_Serializer_Tag>Leipzig</XML_Serializer_Tag>
+</birthPlace>
+<deathPlace>
+<XML_Serializer_Tag>Leipzig</XML_Serializer_Tag>
+</deathPlace>
+<professionOrOccupation>
+<XML_Serializer_Tag>Schriftsteller</XML_Serializer_Tag>
+<XML_Serializer_Tag>Theaterleiter</XML_Serializer_Tag>
+</professionOrOccupation>
+<dbpResource>http://dbpedia.org/resource/Roderich_Benedix</dbpResource>
+<abstract>Julius Roderich Benedix (* 21. Januar 1811 in Leipzig; † 26. September 1873 ebenda) war ein deutscher Komödiendichter, Schauspieler und Theaterdirektor.</abstract>
+<wikilink>http://en.wikipedia.org/wiki/Roderich_Benedix?oldid=541706670</wikilink>
+<artworks />
+<buildings />
+<books />
+</Person>

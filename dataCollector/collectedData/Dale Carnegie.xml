@@ -1,0 +1,70 @@
+<Person>
+<name>Dale Carnegie</name>
+<variantName>
+<XML_Serializer_Tag>D. Carnegie</XML_Serializer_Tag>
+<XML_Serializer_Tag>Dejl Karnegi</XML_Serializer_Tag>
+<XML_Serializer_Tag>Dale Karneg</XML_Serializer_Tag>
+<XML_Serializer_Tag>Dali Karnik</XML_Serializer_Tag>
+<XML_Serializer_Tag>Del K’arnegi</XML_Serializer_Tag>
+<XML_Serializer_Tag>Del Ḳarnegi</XML_Serializer_Tag>
+<XML_Serializer_Tag>Kanaiji</XML_Serializer_Tag>
+<XML_Serializer_Tag>Dority Karneg</XML_Serializer_Tag>
+<XML_Serializer_Tag>Dale Karnyg</XML_Serializer_Tag>
+</variantName>
+<thumbnail>https://en.wikipedia.org/wiki/Special:FilePath/Dale_Carnegie.jpg?width=270</thumbnail>
+<birthEN>1888</birthEN>
+<birthDE>1888</birthDE>
+<deathEN>1955</deathEN>
+<deathDE>1955</deathDE>
+<birthPlace />
+<deathPlace />
+<professionOrOccupation>
+<XML_Serializer_Tag>Schriftsteller</XML_Serializer_Tag>
+<XML_Serializer_Tag>Seminarleiter</XML_Serializer_Tag>
+</professionOrOccupation>
+<dbpResource>http://dbpedia.org/resource/Dale_Carnegie</dbpResource>
+<abstract>Dale Carnegie (* 24. November 1888 in Maryville, Missouri; † 1. November 1955 in Forest Hills, New York) war ein US-amerikanischer Kommunikations- und Motivationstrainer im Bereich des Positiven Denkens.</abstract>
+<wikilink>http://en.wikipedia.org/wiki/Dale_Carnegie?oldid=606700790</wikilink>
+<artworks />
+<buildings />
+<books>
+<XML_Serializer_Tag>
+<book>
+<type>uri</type>
+<value>http://dbpedia.org/resource/How_to_Win_Friends_and_Influence_People</value>
+</book>
+<author>
+<type>uri</type>
+<value>http://dbpedia.org/resource/Dale_Carnegie</value>
+</author>
+<released>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>October 1936</value>
+</released>
+<wikilink>
+<type>uri</type>
+<value>http://en.wikipedia.org/wiki/How_to_Win_Friends_and_Influence_People?oldid=606612379</value>
+</wikilink>
+</XML_Serializer_Tag>
+<XML_Serializer_Tag>
+<book>
+<type>uri</type>
+<value>http://dbpedia.org/resource/How_to_Stop_Worrying_and_Start_Living</value>
+</book>
+<author>
+<type>uri</type>
+<value>http://dbpedia.org/resource/Dale_Carnegie</value>
+</author>
+<released>
+<type>typed-literal</type>
+<datatype>http://www.w3.org/2001/XMLSchema#integer</datatype>
+<value>1948</value>
+</released>
+<wikilink>
+<type>uri</type>
+<value>http://en.wikipedia.org/wiki/How_to_Stop_Worrying_and_Start_Living?oldid=602716245</value>
+</wikilink>
+</XML_Serializer_Tag>
+</books>
+</Person>

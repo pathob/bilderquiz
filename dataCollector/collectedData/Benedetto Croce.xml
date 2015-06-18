@@ -1,0 +1,31 @@
+<Person>
+<name>Benedetto Croce</name>
+<variantName>
+<XML_Serializer_Tag>B. Croce</XML_Serializer_Tag>
+<XML_Serializer_Tag>... Croce-Mann</XML_Serializer_Tag>
+</variantName>
+<thumbnail>https://commons.wikimedia.org/wiki/Special:FilePath/B.Croce.jpg?width=270</thumbnail>
+<birthEN>February 25, 1866</birthEN>
+<birthDE>25. Februar 1866</birthDE>
+<deathEN>November 20, 1952</deathEN>
+<deathDE>20. November 1952</deathDE>
+<birthPlace>
+<XML_Serializer_Tag>Pescasseroli</XML_Serializer_Tag>
+</birthPlace>
+<deathPlace>
+<XML_Serializer_Tag>Neapel</XML_Serializer_Tag>
+</deathPlace>
+<professionOrOccupation>
+<XML_Serializer_Tag>Philosoph</XML_Serializer_Tag>
+<XML_Serializer_Tag>Kritiker</XML_Serializer_Tag>
+<XML_Serializer_Tag>Historiker</XML_Serializer_Tag>
+<XML_Serializer_Tag>Politiker</XML_Serializer_Tag>
+<XML_Serializer_Tag>Literaturwissenschaftler</XML_Serializer_Tag>
+</professionOrOccupation>
+<dbpResource>http://dbpedia.org/resource/Benedetto_Croce</dbpResource>
+<abstract>Benedetto Croce [&apos;kro:tʃe] ital. Aussprache?/i (* 25. Februar 1866 in Pescasseroli, Provinz L’Aquila; † 20. November 1952 in Neapel) war ein italienischer idealistischer Philosoph, Humanist, Historiker, Politiker, Kunsthistoriker und Kritiker.</abstract>
+<wikilink>http://en.wikipedia.org/wiki/Benedetto_Croce?oldid=600164947</wikilink>
+<artworks />
+<buildings />
+<books />
+</Person>

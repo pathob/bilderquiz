@@ -1,0 +1,26 @@
+<Person>
+<name>Johann Anton Leisewitz</name>
+<variantName>
+<XML_Serializer_Tag>Johann A. Leisewitz</XML_Serializer_Tag>
+<XML_Serializer_Tag>Johann Anton von Leisewitz</XML_Serializer_Tag>
+<XML_Serializer_Tag>... Leisewiz</XML_Serializer_Tag>
+<XML_Serializer_Tag>... Leisewitz</XML_Serializer_Tag>
+<XML_Serializer_Tag>Johann A. Leisewiz</XML_Serializer_Tag>
+</variantName>
+<thumbnail>https://commons.wikimedia.org/wiki/Special:FilePath/JALeisewitz.jpg?width=270</thumbnail>
+<birthEN>May 9, 1752</birthEN>
+<birthDE>9. Mai 1752</birthDE>
+<deathEN>September 10, 1806</deathEN>
+<deathDE>10. September 1806</deathDE>
+<birthPlace />
+<deathPlace />
+<professionOrOccupation>
+<XML_Serializer_Tag>Schriftsteller</XML_Serializer_Tag>
+</professionOrOccupation>
+<dbpResource>http://dbpedia.org/resource/Johann_Anton_Leisewitz</dbpResource>
+<abstract>Johann Anton Leisewitz (* 9. Mai 1752 in Hannover; † 10. September 1806 in Braunschweig) war ein deutscher Schriftsteller und Jurist.</abstract>
+<wikilink>http://en.wikipedia.org/wiki/Johann_Anton_Leisewitz?oldid=599723145</wikilink>
+<artworks />
+<buildings />
+<books />
+</Person>

@@ -1,0 +1,47 @@
+<Person>
+<name>Helen Keller</name>
+<variantName>
+<XML_Serializer_Tag>Helen Adams Keller</XML_Serializer_Tag>
+<XML_Serializer_Tag>Helen A. Keller</XML_Serializer_Tag>
+<XML_Serializer_Tag>Ellen Ker</XML_Serializer_Tag>
+<XML_Serializer_Tag>Ellen Ḳeller</XML_Serializer_Tag>
+</variantName>
+<thumbnail>https://commons.wikimedia.org/wiki/Special:FilePath/Helen_KellerA.jpg?width=270</thumbnail>
+<birthEN>June 27, 1880</birthEN>
+<birthDE>27. Juni 1880</birthDE>
+<deathEN>June 1, 1968</deathEN>
+<deathDE>1. Juni 1968</deathDE>
+<birthPlace>
+<XML_Serializer_Tag>Tuscumbia, Ala.</XML_Serializer_Tag>
+</birthPlace>
+<deathPlace />
+<professionOrOccupation>
+<XML_Serializer_Tag>Schriftstellerin</XML_Serializer_Tag>
+</professionOrOccupation>
+<dbpResource>http://dbpedia.org/resource/Helen_Keller</dbpResource>
+<abstract>Helen Adams Keller (* 27. Juni 1880 in Tuscumbia, Alabama; † 1. Juni 1968 in Easton, Connecticut) war eine taubblinde amerikanische Schriftstellerin.</abstract>
+<wikilink>http://en.wikipedia.org/wiki/Helen_Keller?oldid=605089127</wikilink>
+<artworks />
+<buildings />
+<books>
+<XML_Serializer_Tag>
+<book>
+<type>uri</type>
+<value>http://dbpedia.org/resource/The_Story_of_My_Life_(biography)</value>
+</book>
+<author>
+<type>uri</type>
+<value>http://dbpedia.org/resource/Helen_Keller</value>
+</author>
+<published>
+<type>typed-literal</type>
+<datatype>http://www.w3.org/2001/XMLSchema#integer</datatype>
+<value>1903</value>
+</published>
+<wikilink>
+<type>uri</type>
+<value>http://en.wikipedia.org/wiki/The_Story_of_My_Life_(biography)?oldid=602697103</value>
+</wikilink>
+</XML_Serializer_Tag>
+</books>
+</Person>

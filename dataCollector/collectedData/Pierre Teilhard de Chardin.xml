@@ -1,0 +1,49 @@
+<Person>
+<name>Pierre Teilhard de Chardin</name>
+<variantName>
+<XML_Serializer_Tag>Marie-Joseph Pierre Teilhard de Chardin</XML_Serializer_Tag>
+<XML_Serializer_Tag>Pierre Teilhard de Chardin</XML_Serializer_Tag>
+<XML_Serializer_Tag>Teilhard de Chardin</XML_Serializer_Tag>
+<XML_Serializer_Tag>P&apos;er Tejjar de Šarden</XML_Serializer_Tag>
+<XML_Serializer_Tag>P. Teilhard de Chardin</XML_Serializer_Tag>
+</variantName>
+<thumbnail>https://commons.wikimedia.org/wiki/Special:FilePath/Pierre_Teilhard_de_Chardin_01.jpg?width=270</thumbnail>
+<birthEN>May 1, 1881</birthEN>
+<birthDE>1. Mai 1881</birthDE>
+<deathEN>April 10, 1955</deathEN>
+<deathDE>10. April 1955</deathDE>
+<birthPlace>
+<XML_Serializer_Tag>Sarcenat/Auvergne</XML_Serializer_Tag>
+</birthPlace>
+<deathPlace>
+<XML_Serializer_Tag>New York, NY</XML_Serializer_Tag>
+</deathPlace>
+<professionOrOccupation>
+<XML_Serializer_Tag>Geologe</XML_Serializer_Tag>
+<XML_Serializer_Tag>Paläontologe</XML_Serializer_Tag>
+<XML_Serializer_Tag>Anthropologe</XML_Serializer_Tag>
+<XML_Serializer_Tag>Philosoph</XML_Serializer_Tag>
+<XML_Serializer_Tag>Katholischer Theologe</XML_Serializer_Tag>
+</professionOrOccupation>
+<dbpResource>http://dbpedia.org/resource/Pierre_Teilhard_de_Chardin</dbpResource>
+<abstract>Marie-Joseph Pierre Teilhard de Chardin [maʁi ʒɔzɛf pjɛʁ tejaʁ də ʃaʁdɛ̃] (* 1. Mai 1881 auf Schloss Sarcenat bei Clermont-Ferrand; † 10. April 1955 in New York) war ein französischer Jesuit, Theologe, Philosoph, Anthropologe, Geologe und Paläontologe. Er steht mit für Bestrebungen, Religion und Wissenschaft zu verschmelzen und auszusöhnen. Teilhard und sein Werk haben eine bleibende Wirkung auf Kunst, Kultur und Literatur.</abstract>
+<wikilink>http://en.wikipedia.org/wiki/Pierre_Teilhard_de_Chardin?oldid=606530485</wikilink>
+<artworks />
+<buildings />
+<books>
+<XML_Serializer_Tag>
+<book>
+<type>uri</type>
+<value>http://dbpedia.org/resource/The_Phenomenon_of_Man</value>
+</book>
+<author>
+<type>uri</type>
+<value>http://dbpedia.org/resource/Pierre_Teilhard_de_Chardin</value>
+</author>
+<wikilink>
+<type>uri</type>
+<value>http://en.wikipedia.org/wiki/The_Phenomenon_of_Man?oldid=602700748</value>
+</wikilink>
+</XML_Serializer_Tag>
+</books>
+</Person>

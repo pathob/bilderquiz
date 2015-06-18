@@ -1,0 +1,23 @@
+<Person>
+<name>Arthur Achleitner</name>
+<variantName>
+<XML_Serializer_Tag>Artur Achleitner</XML_Serializer_Tag>
+</variantName>
+<thumbnail>https://commons.wikimedia.org/wiki/Special:FilePath/Arthur_Achleitner_1.jpg?width=270</thumbnail>
+<birthEN>August 16, 1858</birthEN>
+<birthDE>16. August 1858</birthDE>
+<deathEN>September 29, 1927</deathEN>
+<deathDE>29. September 1927</deathDE>
+<birthPlace />
+<deathPlace />
+<professionOrOccupation>
+<XML_Serializer_Tag>Schriftsteller</XML_Serializer_Tag>
+<XML_Serializer_Tag>Redakteur</XML_Serializer_Tag>
+</professionOrOccupation>
+<dbpResource>http://dbpedia.org/resource/Arthur_Achleitner</dbpResource>
+<abstract>Arthur Achleitner (* 16. August 1858 in Straubing; † 29. September 1927 in München) war ein deutscher Schriftsteller.</abstract>
+<wikilink>http://en.wikipedia.org/wiki/Arthur_Achleitner?oldid=541290610</wikilink>
+<artworks />
+<buildings />
+<books />
+</Person>

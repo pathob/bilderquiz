@@ -1,0 +1,29 @@
+<Person>
+<name>Isolde Kurz</name>
+<variantName>
+<XML_Serializer_Tag>I. Kurz</XML_Serializer_Tag>
+<XML_Serializer_Tag>Maria Clara Isolde Kurz</XML_Serializer_Tag>
+<XML_Serializer_Tag>Isolde K. Kurz</XML_Serializer_Tag>
+<XML_Serializer_Tag>Isolde Maria Clara Kurz</XML_Serializer_Tag>
+</variantName>
+<thumbnail>https://commons.wikimedia.org/wiki/Special:FilePath/Isolde_Kurz.jpg?width=270</thumbnail>
+<birthEN>December 21, 1853</birthEN>
+<birthDE>21. Dezember 1853</birthDE>
+<deathEN>April 5, 1944</deathEN>
+<deathDE>5. April 1944</deathDE>
+<birthPlace>
+<XML_Serializer_Tag>Stuttgart</XML_Serializer_Tag>
+</birthPlace>
+<deathPlace>
+<XML_Serializer_Tag>Tübingen</XML_Serializer_Tag>
+</deathPlace>
+<professionOrOccupation>
+<XML_Serializer_Tag>Schriftstellerin</XML_Serializer_Tag>
+</professionOrOccupation>
+<dbpResource>http://dbpedia.org/resource/Isolde_Kurz</dbpResource>
+<abstract>Isolde Maria Klara Kurz (* 21. Dezember 1853 in Stuttgart; † 6. April 1944 in Tübingen) war eine deutsche Schriftstellerin und Übersetzerin.</abstract>
+<wikilink>http://en.wikipedia.org/wiki/Isolde_Kurz?oldid=599645451</wikilink>
+<artworks />
+<buildings />
+<books />
+</Person>

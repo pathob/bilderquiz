@@ -18,8 +18,10 @@
 <XML_Serializer_Tag>Baumeister</XML_Serializer_Tag>
 <XML_Serializer_Tag>Maler</XML_Serializer_Tag>
 </professionOrOccupation>
-<artworks />
 <dbpResource>http://dbpedia.org/resource/Pirro_Ligorio</dbpResource>
 <abstract>Pirro Ligorio (* 1514 in Neapel; † 30. Oktober 1583 in Ferrara) war ein italienischer Maler, Antiquar, Architekt und Gartenarchitekt des Manierismus.</abstract>
 <wikilink>http://en.wikipedia.org/wiki/Pirro_Ligorio?oldid=602499865</wikilink>
+<artworks />
+<buildings />
+<books />
 </Person>

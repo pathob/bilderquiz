@@ -1,0 +1,23 @@
+<Person>
+<name>Andreas Munch</name>
+<variantName>
+<XML_Serializer_Tag>Anders Munch</XML_Serializer_Tag>
+<XML_Serializer_Tag>A. Munch</XML_Serializer_Tag>
+</variantName>
+<thumbnail>https://commons.wikimedia.org/wiki/Special:FilePath/Andreas_Munch.png?width=270</thumbnail>
+<birthEN>1811</birthEN>
+<birthDE>1811</birthDE>
+<deathEN>1884</deathEN>
+<deathDE>1884</deathDE>
+<birthPlace />
+<deathPlace />
+<professionOrOccupation>
+<XML_Serializer_Tag>Schriftsteller</XML_Serializer_Tag>
+</professionOrOccupation>
+<dbpResource>http://dbpedia.org/resource/Andreas_Munch</dbpResource>
+<abstract>Andreas Munch, (* 19. Oktober 1811 in Christiania; † 27. Juni 1884 in Vedbæk (heute Søllerød) in Dänemark) war ein norwegischer Schriftsteller.</abstract>
+<wikilink>http://en.wikipedia.org/wiki/Andreas_Munch?oldid=590361451</wikilink>
+<artworks />
+<buildings />
+<books />
+</Person>

@@ -1,0 +1,25 @@
+<Person>
+<name>Michael Gold</name>
+<variantName>
+<XML_Serializer_Tag>Mike Gold</XML_Serializer_Tag>
+<XML_Serializer_Tag>Irving Granich</XML_Serializer_Tag>
+<XML_Serializer_Tag>Itzok Isaac Granich</XML_Serializer_Tag>
+</variantName>
+<thumbnail>https://commons.wikimedia.org/wiki/Special:FilePath/Gold-michael.jpg?width=270</thumbnail>
+<birthEN>April 12, 1893</birthEN>
+<birthDE>12. April 1893</birthDE>
+<deathEN>May 14, 1967</deathEN>
+<deathDE>14. Mai 1967</deathDE>
+<birthPlace />
+<deathPlace />
+<professionOrOccupation>
+<XML_Serializer_Tag>Journalist</XML_Serializer_Tag>
+<XML_Serializer_Tag>Schriftsteller</XML_Serializer_Tag>
+</professionOrOccupation>
+<dbpResource>http://dbpedia.org/resource/Mike_Gold</dbpResource>
+<abstract>Michael Gold (geboren als Itzok Isaac Granich, auch „Mike“ genannt) (* 12. April 1894 in New York City; † 14. Mai 1967 in Terra Linda, Kalifornien) war ein US-amerikanischer Schriftsteller und Literaturkritiker.</abstract>
+<wikilink>http://en.wikipedia.org/wiki/Mike_Gold?oldid=606597455</wikilink>
+<artworks />
+<buildings />
+<books />
+</Person>

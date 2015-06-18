@@ -1,0 +1,33 @@
+<Person>
+<name>Henry Thomas Buckle</name>
+<variantName>
+<XML_Serializer_Tag>Henry T. Buckle</XML_Serializer_Tag>
+<XML_Serializer_Tag>Heinrich Thomas Buckle</XML_Serializer_Tag>
+<XML_Serializer_Tag>G. T. Bokl&apos;</XML_Serializer_Tag>
+<XML_Serializer_Tag>Genri Tomas Bokl&apos;</XML_Serializer_Tag>
+<XML_Serializer_Tag>H. T. Bakil</XML_Serializer_Tag>
+<XML_Serializer_Tag>Бокль, Генри Томас</XML_Serializer_Tag>
+</variantName>
+<thumbnail>https://commons.wikimedia.org/wiki/Special:FilePath/Henry_Thomas_Buckle_(1857).jpg?width=270</thumbnail>
+<birthEN>1821</birthEN>
+<birthDE>1821</birthDE>
+<deathEN>1862</deathEN>
+<deathDE>1862</deathDE>
+<birthPlace>
+<XML_Serializer_Tag>Kent</XML_Serializer_Tag>
+</birthPlace>
+<deathPlace>
+<XML_Serializer_Tag>Damaskus</XML_Serializer_Tag>
+</deathPlace>
+<professionOrOccupation>
+<XML_Serializer_Tag>Historiker</XML_Serializer_Tag>
+<XML_Serializer_Tag>Soziologe</XML_Serializer_Tag>
+<XML_Serializer_Tag>Autor</XML_Serializer_Tag>
+</professionOrOccupation>
+<dbpResource>http://dbpedia.org/resource/Henry_Thomas_Buckle</dbpResource>
+<abstract>Henry Thomas Buckle (* 24. November 1821 in Lee, Kent; † 29. Mai 1862 in Damaskus) war ein englischer Historiker und einer der besten englischen Schachspieler seiner Zeit.</abstract>
+<wikilink>http://en.wikipedia.org/wiki/Henry_Thomas_Buckle?oldid=599914121</wikilink>
+<artworks />
+<buildings />
+<books />
+</Person>

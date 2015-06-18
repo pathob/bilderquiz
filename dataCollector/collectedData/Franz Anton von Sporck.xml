@@ -1,0 +1,36 @@
+<Person>
+<name>Franz Anton von Sporck</name>
+<variantName>
+<XML_Serializer_Tag>Franz A. von Sporck</XML_Serializer_Tag>
+<XML_Serializer_Tag>Frantz A. von Sporck</XML_Serializer_Tag>
+<XML_Serializer_Tag>Franz Anton, Böhmen, Statthalter</XML_Serializer_Tag>
+<XML_Serializer_Tag>Franciscus Antonius de Sporck</XML_Serializer_Tag>
+<XML_Serializer_Tag>Franciscus Antonius von Sporck</XML_Serializer_Tag>
+<XML_Serializer_Tag>Franz Anton von Spork</XML_Serializer_Tag>
+<XML_Serializer_Tag>František Antonín Špork</XML_Serializer_Tag>
+<XML_Serializer_Tag>František A. Špork</XML_Serializer_Tag>
+<XML_Serializer_Tag>F. A. Špork</XML_Serializer_Tag>
+<XML_Serializer_Tag>František Antonín Hrabě Špork</XML_Serializer_Tag>
+<XML_Serializer_Tag>Frantz Antonius Sporck</XML_Serializer_Tag>
+<XML_Serializer_Tag>François Antoin de Sporck</XML_Serializer_Tag>
+<XML_Serializer_Tag>Franz Anton von Spörken</XML_Serializer_Tag>
+</variantName>
+<thumbnail>https://commons.wikimedia.org/wiki/Special:FilePath/Sporck01.jpg?width=270</thumbnail>
+<birthEN>1662</birthEN>
+<birthDE>1662</birthDE>
+<deathEN>1738</deathEN>
+<deathDE>1738</deathDE>
+<birthPlace />
+<deathPlace>
+<XML_Serializer_Tag>Lysá</XML_Serializer_Tag>
+</deathPlace>
+<professionOrOccupation>
+<XML_Serializer_Tag>Schriftsteller</XML_Serializer_Tag>
+</professionOrOccupation>
+<dbpResource>http://dbpedia.org/resource/Franz_Anton_von_Sporck</dbpResource>
+<abstract>Franz Anton Reichsgraf von Sporck (* 9. März 1662 in Lissa an der Elbe oder Hermannstädtel; † 30. März 1738 in Lissa an der Elbe) war ein bedeutender Kunstmäzen und Verleger.</abstract>
+<wikilink>http://en.wikipedia.org/wiki/Franz_Anton_von_Sporck?oldid=574683762</wikilink>
+<artworks />
+<buildings />
+<books />
+</Person>

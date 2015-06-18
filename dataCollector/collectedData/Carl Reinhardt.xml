@@ -24,8 +24,10 @@
 <XML_Serializer_Tag>Maler</XML_Serializer_Tag>
 <XML_Serializer_Tag>Zeichner</XML_Serializer_Tag>
 </professionOrOccupation>
-<artworks />
 <dbpResource>http://dbpedia.org/resource/Carl_Reinhardt</dbpResource>
 <abstract>Carl August Reinhardt (auch Karl Reinhardt; * 25. April 1818 in Leipzig; † 11. August 1877 in Kötzschenbroda) war ein deutscher Schriftsteller, Maler, Zeichner und Karikaturist.</abstract>
 <wikilink>http://en.wikipedia.org/wiki/Carl_Reinhardt?oldid=577872652</wikilink>
+<artworks />
+<buildings />
+<books />
 </Person>

@@ -1,0 +1,25 @@
+<Person>
+<name>Siegfried Kapper</name>
+<variantName>
+<XML_Serializer_Tag>Sigfrid Kaper</XML_Serializer_Tag>
+<XML_Serializer_Tag>Sigfrid Kapper</XML_Serializer_Tag>
+</variantName>
+<thumbnail>https://commons.wikimedia.org/wiki/Special:FilePath/Siegfried_Kapper.jpg?width=270</thumbnail>
+<birthEN>1821</birthEN>
+<birthDE>1821</birthDE>
+<deathEN>1879</deathEN>
+<deathDE>1879</deathDE>
+<birthPlace />
+<deathPlace />
+<professionOrOccupation>
+<XML_Serializer_Tag>Arzt</XML_Serializer_Tag>
+<XML_Serializer_Tag>Schriftsteller</XML_Serializer_Tag>
+<XML_Serializer_Tag>Übersetzer</XML_Serializer_Tag>
+</professionOrOccupation>
+<dbpResource>http://dbpedia.org/resource/Siegfried_Kapper</dbpResource>
+<abstract>Siegfried Kapper (Isaac Salomon Kapper) (* 21. März 1820 Smíchov; † 7. Juni 1879 in Pisa), war ein deutsch-tschechischer Schriftsteller, Übersetzer und Arzt jüdischer Herkunft.</abstract>
+<wikilink>http://en.wikipedia.org/wiki/Siegfried_Kapper?oldid=605223712</wikilink>
+<artworks />
+<buildings />
+<books />
+</Person>

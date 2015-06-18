@@ -1,0 +1,27 @@
+<Person>
+<name>William Ames</name>
+<variantName>
+<XML_Serializer_Tag>Guilielmus Amesius</XML_Serializer_Tag>
+<XML_Serializer_Tag>Gulielmus Amesius</XML_Serializer_Tag>
+<XML_Serializer_Tag>Wilhelmus Amesius</XML_Serializer_Tag>
+<XML_Serializer_Tag>Wilhelm Amesius</XML_Serializer_Tag>
+<XML_Serializer_Tag>Wilhelm Ames</XML_Serializer_Tag>
+</variantName>
+<thumbnail>https://commons.wikimedia.org/wiki/Special:FilePath/DrAmes.jpg?width=270</thumbnail>
+<birthEN>1576</birthEN>
+<birthDE>1576</birthDE>
+<deathEN>1633</deathEN>
+<deathDE>1633</deathDE>
+<birthPlace />
+<deathPlace />
+<professionOrOccupation>
+<XML_Serializer_Tag>Theologe</XML_Serializer_Tag>
+<XML_Serializer_Tag>Philosoph</XML_Serializer_Tag>
+</professionOrOccupation>
+<dbpResource>http://dbpedia.org/resource/William_Ames</dbpResource>
+<abstract>William Ames, latinisiert auch Guilielmus Amesius (* 1576 in Ipswich; † 14. November 1633 in Rotterdam) war ein englischer reformierter Theologe, der vor allem in den Niederlanden wirkte. Er ist nicht zu verwechseln mit dem ebenfalls lange in den Niederlanden wirkenden Quäker William Ames († 1662).</abstract>
+<wikilink>http://en.wikipedia.org/wiki/William_Ames?oldid=600710849</wikilink>
+<artworks />
+<buildings />
+<books />
+</Person>

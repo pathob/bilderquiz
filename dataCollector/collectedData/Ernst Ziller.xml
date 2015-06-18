@@ -1,0 +1,63 @@
+<Person>
+<name>Ernst Ziller</name>
+<variantName>
+<XML_Serializer_Tag>Ernst Moritz Theodor Ziller</XML_Serializer_Tag>
+<XML_Serializer_Tag>Ernst Tsiller</XML_Serializer_Tag>
+<XML_Serializer_Tag>Ernestos Tsiller</XML_Serializer_Tag>
+</variantName>
+<thumbnail>https://de.wikipedia.org/wiki/Special:FilePath/Ernst_Ziller1.jpg?width=270</thumbnail>
+<birthEN>1837</birthEN>
+<birthDE>1837</birthDE>
+<deathEN>1923</deathEN>
+<deathDE>1923</deathDE>
+<birthPlace>
+<XML_Serializer_Tag>Oberlößnitz,. Sachsen</XML_Serializer_Tag>
+</birthPlace>
+<deathPlace>
+<XML_Serializer_Tag>Athen</XML_Serializer_Tag>
+</deathPlace>
+<professionOrOccupation>
+<XML_Serializer_Tag>Bauforscher</XML_Serializer_Tag>
+<XML_Serializer_Tag>Archäologe</XML_Serializer_Tag>
+<XML_Serializer_Tag>Architekt</XML_Serializer_Tag>
+</professionOrOccupation>
+<dbpResource>http://dbpedia.org/resource/Ernst_Ziller</dbpResource>
+<abstract>Ernst Moritz Theodor Ziller (griechisch Ernestos Tsiller; Ερνέστος Τσίλλερ; * 22. Juni 1837 in Serkowitz, heute Radebeul-Oberlößnitz; † 4. November 1923 in Athen) war ein deutsch-griechischer Architekt, Bauforscher und Archäologe, der fast ausschließlich in Griechenland gearbeitet hat. Mit über 500 privaten und öffentlichen Bauten zwischen 1870 und 1914 prägte Ziller die historistische Architektur des späten 19. Jahrhunderts in Griechenland nachhaltig. Das wohl einflussreichste Mitglied der ursprünglich sächsischen Baumeisterfamilie Ziller erwarb in späteren Jahren, im Zusammenhang mit seiner Heirat, die griechische Staatsangehörigkeit.Den weitaus größten Teil seiner Bauten entwarf Ziller für Athen, das seit 1834 Hauptstadt des modernen Griechenlands war. Der Ausbau der zuvor nur rund 12.000 Einwohner zählenden Stadt zur rapide wachsenden, repräsentativen Hauptstadt war nach einem Plan von 1831 von Schaubert und Kleanthis im Stil eines griechisch geprägten Klassizismus im Sinne ihres Lehrers Schinkel (von dem der Entwurf zu einem Palast auf der Akropolis stammte) begonnen worden. Die dänischen Brüder Hans Christian und Theophil von Hansen setzten unter König Otto diese Arbeiten fort. Ziller verband deren griechischen Klassizismus mit Stilelementen einer norditalienischen Neorenaissance und – in seinen Kirchenbauten – byzantinischen Architekturelementen und prägte während der Regierungszeit König Georgs I. das Aussehen der Hauptstadt als moderne europäische Metropole mit repräsentativen öffentlichen Gebäuden und prächtigen Privathäusern. Die National Hellenic Research Foundation bezeichnet dieses „eklektische Athen“ der zweiten Hälfte des 19. Jahrhunderts aus Klassizismus und norditalienischer Neorenaissance, ergänzt durch neuzeitliche Ideen aus Wien und Dresden, als das „Athen von Ziller“, in dem er „das herrschaftliche Profil der späten griechischen bürgerlichen Gesellschaft am Ende des 19. und zu Beginn des 20. Jahrhunderts [bestimmte]“.Das Werk von Ziller wurde erstmals 1942 von Hans Hermann Russack in seinem grundlegenden Buch Deutsche bauen in Athen gewürdigt. Der in Griechenland fast vergessene und in Deutschland kaum bekannte Architekt wurde 1973 von Dimitrios Papastamos zu seinem 50. Todestag durch dessen Versuch einer Monografie (Prospatheia Monographias) der Öffentlichkeit wieder ins Gedächtnis gebracht, basierend auf den von Zillers Tochter Josefine (Fifi) Dima-Ziller an die Nationalgalerie übergebenen Original-Unterlagen. Insbesondere Maro Kardamitsi-Adami von der Nationalen Technischen Universität Athen würdigte dann Zillers Werk in Griechenland wieder in mehreren Veröffentlichungen. Eine Ausstellung von Entwürfen Zillers in der Nationalen Pinakothek Athen führte Ziller 2010 auch einem breiteren Publikum wieder ins Gedächtnis.</abstract>
+<wikilink>http://en.wikipedia.org/wiki/Ernst_Ziller?oldid=602852484</wikilink>
+<artworks />
+<buildings>
+<XML_Serializer_Tag>
+<building>
+<type>uri</type>
+<value>http://dbpedia.org/resource/Presidential_Mansion,_Athens</value>
+</building>
+<name>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>Presidential Mansion of Athens (Προεδρικό Μέγαρο)</value>
+</name>
+<architect>
+<type>uri</type>
+<value>http://dbpedia.org/resource/Ernst_Ziller</value>
+</architect>
+<thumbnail>
+<type>uri</type>
+<value>http://commons.wikimedia.org/wiki/Special:FilePath/Palais_présidentiel_d&apos;Athènes.jpg?width=300</value>
+</thumbnail>
+<wikilink>
+<type>uri</type>
+<value>http://en.wikipedia.org/wiki/Presidential_Mansion,_Athens?oldid=594479454</value>
+</wikilink>
+<location>
+<type>uri</type>
+<value>http://dbpedia.org/resource/Athens</value>
+</location>
+<abstract>
+<type>literal</type>
+<xml:lang>de</xml:lang>
+<value>Das Präsidenten-Palais oder Kronprinzenpalais griechisch Προεδρικό Μέγαρο in Athen ist der Amtssitz des Präsidenten und dient seit über 100 Jahren den Staatsoberhäuptern Griechenlands</value>
+</abstract>
+</XML_Serializer_Tag>
+</buildings>
+<books />
+</Person>

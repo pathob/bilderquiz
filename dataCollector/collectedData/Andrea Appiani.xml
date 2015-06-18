@@ -18,8 +18,10 @@
 <XML_Serializer_Tag>Maler</XML_Serializer_Tag>
 <XML_Serializer_Tag>Bildnismaler</XML_Serializer_Tag>
 </professionOrOccupation>
-<artworks />
 <dbpResource>http://dbpedia.org/resource/Andrea_Appiani</dbpResource>
 <abstract>Andrea Appiani (* 23. Mai 1754 in Mailand; † 8. November 1817 ebenda) war ein italienischer Maler des Klassizismus, der von seinen Zeitgenossen der Maler der Grazien genannt wurde.</abstract>
 <wikilink>http://en.wikipedia.org/wiki/Andrea_Appiani?oldid=606007247</wikilink>
+<artworks />
+<buildings />
+<books />
 </Person>

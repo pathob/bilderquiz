@@ -1,0 +1,30 @@
+<Person>
+<name>Alexander Gottlieb Baumgarten</name>
+<variantName>
+<XML_Serializer_Tag>Aletheophilus</XML_Serializer_Tag>
+<XML_Serializer_Tag>A. G. Baumgarten</XML_Serializer_Tag>
+<XML_Serializer_Tag>Alexander G. Baumgarten</XML_Serializer_Tag>
+<XML_Serializer_Tag>Alexandre Gottlieb Baumgarten</XML_Serializer_Tag>
+<XML_Serializer_Tag>Alexandro Gottlieb Baumgarten</XML_Serializer_Tag>
+<XML_Serializer_Tag>Alexandrus Gottlieb Baumgarten</XML_Serializer_Tag>
+<XML_Serializer_Tag>Alexander G. Baumgartensius</XML_Serializer_Tag>
+</variantName>
+<thumbnail>https://commons.wikimedia.org/wiki/Special:FilePath/Aesthetica.png?width=270</thumbnail>
+<birthEN>July 17, 1714</birthEN>
+<birthDE>17. Juli 1714</birthDE>
+<deathEN>May 26, 1762</deathEN>
+<deathDE>26. Mai 1762</deathDE>
+<birthPlace>
+<XML_Serializer_Tag>Berlin</XML_Serializer_Tag>
+</birthPlace>
+<deathPlace />
+<professionOrOccupation>
+<XML_Serializer_Tag>Philosoph</XML_Serializer_Tag>
+</professionOrOccupation>
+<dbpResource>http://dbpedia.org/resource/Alexander_Gottlieb_Baumgarten</dbpResource>
+<abstract>Alexander Gottlieb Baumgarten (* 17. Juli 1714 in Berlin; † 27. Mai 1762 in Frankfurt (Oder)) war ein deutscher Philosoph, der in der Tradition der Leibniz-Wolff’schen Aufklärungsphilosophie stand.</abstract>
+<wikilink>http://en.wikipedia.org/wiki/Alexander_Gottlieb_Baumgarten?oldid=604719218</wikilink>
+<artworks />
+<buildings />
+<books />
+</Person>

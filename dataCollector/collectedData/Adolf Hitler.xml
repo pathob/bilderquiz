@@ -40,8 +40,58 @@
 <XML_Serializer_Tag>Reichskanzler</XML_Serializer_Tag>
 <XML_Serializer_Tag>Gefreiter</XML_Serializer_Tag>
 </professionOrOccupation>
-<artworks />
 <dbpResource>http://dbpedia.org/resource/Adolf_Hitler</dbpResource>
 <abstract>Adolf Hitler (* 20. April 1889 in Braunau am Inn (Oberösterreich); † 30. April 1945 in Berlin) war von 1933 bis 1945 Diktator des Deutschen Reiches.Ab Juli 1921 Vorsitzender der NSDAP, versuchte er im November 1923 mit einem Putsch von Bayern aus die Weimarer Republik zu stürzen. Mit dem ersten Band seiner Schrift „Mein Kampf“ (erschienen 1925) prägte er die antisemitische und rassistische Ideologie des Nationalsozialismus.Am 30. Januar 1933 wurde Hitler von Reichspräsident Paul von Hindenburg zum deutschen Reichskanzler ernannt. In wenigen Monaten beseitigte sein Regime mit Terror, Notverordnungen, Gleichschaltungsgesetzen, Organisations- und Parteiverboten die pluralistische Demokratie, den Föderalismus und den Rechtsstaat. Politische Gegner wurden in Konzentrationslagern inhaftiert, gefoltert und ermordet. Hitler ließ anlässlich des sogenannten Röhm-Putsches auch potentielle Rivalen in den eigenen Reihen ermorden. Hindenburgs Tod am 2. August 1934 nutzte er, um das Amt des Reichspräsidenten mit dem des Reichskanzlers vereinen zu lassen.Die deutschen Juden wurden ab 1933 zunehmend ausgegrenzt und entrechtet, insbesondere durch die Nürnberger Gesetze vom September 1935. Mit seinen Befehlen zur Aufrüstung der Wehrmacht und Rheinlandbesetzung brach Hitler 1936 den Versailler Vertrag. Die NS-Propaganda stellte seine Wirtschafts-, Sozial- und Außenpolitik als große Erfolge dar und verschaffte ihm so in Deutschland zumindest bis 1939 enorme Popularität.1938 übernahm er die unmittelbare Befehlsgewalt über die Wehrmacht und setzte den Anschluss Österreichs durch. Über das Münchner Abkommen (30. September 1938), das ihm die Angliederung des Sudetenlandes an das Reich gestattete, setzte er sich mit der „Zerschlagung der Rest-Tschechei“ bereits am 15. März 1939 hinweg. Mit dem Befehl zum Überfall auf Polen im September 1939 löste er den Zweiten Weltkrieg in Europa aus. Am 31. Juli 1940 teilte er Vertretern des Oberkommandos der Wehrmacht seinen Entschluss mit, die Sowjetunion anzugreifen. Den am 22. Juni 1941 eröffneten Krieg gegen die Sowjetunion ließ er unter dem Decknamen „Unternehmen Barbarossa“ als Vernichtungskrieg zur Eroberung von „Lebensraum im Osten“ vorbereiten und führen.Im Zweiten Weltkrieg verübten die Nationalsozialisten und ihre Helfershelfer zahlreiche Massenverbrechen und Völkermorde. Schon im Sommer 1939 gab Hitler den Auftrag, die „Erwachseneneuthanasie“ vorzubereiten. In der „Aktion T4“ (September 1939 bis August 1941) wurden über 70.000 psychisch kranke sowie geistig und körperlich behinderte Menschen, bei weiteren Formen der NS-Euthanasie mindestens 190.000 Menschen systematisch ermordet. Im Holocaust wurden etwa 5,6 bis 6,3 Millionen Juden, im Porajmos bis zu 500.000 Sinti und Roma ermordet. Hitler autorisierte die wichtigsten Schritte des Judenmordes und ließ sich über den Verlauf informieren. Seine verbrecherische Politik forderte Millionen Kriegstote und führte zur Zerstörung weiter Teile Deutschlands und Europas.</abstract>
 <wikilink>http://en.wikipedia.org/wiki/Adolf_Hitler?oldid=606568676</wikilink>
+<artworks />
+<buildings />
+<books>
+<XML_Serializer_Tag>
+<book>
+<type>uri</type>
+<value>http://dbpedia.org/resource/Mein_Kampf</value>
+</book>
+<author>
+<type>uri</type>
+<value>http://dbpedia.org/resource/Adolf_Hitler</value>
+</author>
+<thumbnail>
+<type>uri</type>
+<value>http://commons.wikimedia.org/wiki/Special:FilePath/Mein_Kampf_dust_jacket.jpeg?width=300</value>
+</thumbnail>
+<released>
+<type>typed-literal</type>
+<datatype>http://www.w3.org/2001/XMLSchema#date</datatype>
+<value>1925-07-18+02:00</value>
+</released>
+<wikilink>
+<type>uri</type>
+<value>http://en.wikipedia.org/wiki/Mein_Kampf?oldid=606785100</value>
+</wikilink>
+<abstract>
+<type>literal</type>
+<xml:lang>de</xml:lang>
+<value>Mein Kampf ist eine politisch-ideologische Programmschrift Adolf Hitlers. Sie erschien in zwei Teilen. Hitler stellte darin seinen Werdegang zum Politiker und seine Weltanschauung dar. Das Buch ist weder eine Autobiografie noch ein neues Parteiprogramm, sondern eine zweckgerichtete Kampf- und Propagandaschrift, die zum Neuaufbau der NSDAP als zentral gelenkter Partei unter Hitlers Führung dienen sollte.Der erste Band entstand in Hitlers Haftzeit 1924 und wurde erstmals 1925, der zweite 1926 veröffentlicht. Vor allem der erste Band wurde bis 1932 in der Weimarer Republik zu einem viel diskutierten Bestseller.</value>
+</abstract>
+</XML_Serializer_Tag>
+<XML_Serializer_Tag>
+<book>
+<type>uri</type>
+<value>http://dbpedia.org/resource/Zweites_Buch</value>
+</book>
+<author>
+<type>uri</type>
+<value>http://dbpedia.org/resource/Adolf_Hitler</value>
+</author>
+<wikilink>
+<type>uri</type>
+<value>http://en.wikipedia.org/wiki/Zweites_Buch?oldid=602701208</value>
+</wikilink>
+<abstract>
+<type>literal</type>
+<xml:lang>de</xml:lang>
+<value>Hitlers Zweites Buch ist ein zu Lebzeiten unveröffentlichtes Manuskript Adolf Hitlers, das 1928 entstand. Es handelt sich um einen Entwurf für eine Fortsetzung von Mein Kampf, in dem Hitler sich zum Teil mit neuen Themen befasst.</value>
+</abstract>
+</XML_Serializer_Tag>
+</books>
 </Person>

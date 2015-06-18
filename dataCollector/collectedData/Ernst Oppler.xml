@@ -12,8 +12,10 @@
 <XML_Serializer_Tag>Maler</XML_Serializer_Tag>
 <XML_Serializer_Tag>Radierer</XML_Serializer_Tag>
 </professionOrOccupation>
-<artworks />
 <dbpResource>http://dbpedia.org/resource/Ernst_Oppler</dbpResource>
 <abstract>Ernst Oppler (* 9. September 1867 in Hannover; † 1. März 1929 in Berlin) war ein deutsch-jüdischer Maler des deutschen Impressionismus, sowie Radierer und Erfinder. Er war eines der Gründungsmitglieder der Berliner Secession, große Verbreitung fanden seine Radierungen mit Ballet-Motiven.</abstract>
 <wikilink>http://en.wikipedia.org/wiki/Ernst_Oppler?oldid=603633925</wikilink>
+<artworks />
+<buildings />
+<books />
 </Person>

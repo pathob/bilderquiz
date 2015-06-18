@@ -1,0 +1,22 @@
+<Person>
+<name>Peter Noever</name>
+<variantName>
+<XML_Serializer_Tag>Peter Never</XML_Serializer_Tag>
+</variantName>
+<thumbnail>https://commons.wikimedia.org/wiki/Special:FilePath/Portrait_peter_noever.jpg?width=270</thumbnail>
+<birthEN>1941</birthEN>
+<birthDE>1941</birthDE>
+<deathEN />
+<deathDE />
+<birthPlace />
+<deathPlace />
+<professionOrOccupation>
+<XML_Serializer_Tag>Architekt</XML_Serializer_Tag>
+</professionOrOccupation>
+<dbpResource>http://dbpedia.org/resource/Peter_Noever</dbpResource>
+<abstract>Peter Noever (* 1. Mai 1941 in Innsbruck), ist ein österreichischer Designer und Kurator für Kunst, Architektur und Media. Ab 1986 war er künstlerischer Leiter und CEO des MAK - Österreichischen Museums für angewandte Kunst / Gegenwartskunst in Wien; im Jahr 2011 trat er nach einer Affäre zurück.</abstract>
+<wikilink>http://en.wikipedia.org/wiki/Peter_Noever?oldid=605477597</wikilink>
+<artworks />
+<buildings />
+<books />
+</Person>

@@ -1,0 +1,45 @@
+<Person>
+<name>Valerie Solanas</name>
+<variantName />
+<thumbnail>https://en.wikipedia.org/wiki/Special:FilePath/Valerie_Solanas.jpg?width=270</thumbnail>
+<birthEN>April 9, 1936</birthEN>
+<birthDE>9. April 1936</birthDE>
+<deathEN>April 26, 1988</deathEN>
+<deathDE>26. April 1988</deathDE>
+<birthPlace>
+<XML_Serializer_Tag>Atlantic City, NJ</XML_Serializer_Tag>
+</birthPlace>
+<deathPlace>
+<XML_Serializer_Tag>San Francisco, Calif.</XML_Serializer_Tag>
+</deathPlace>
+<professionOrOccupation>
+<XML_Serializer_Tag>Feministin</XML_Serializer_Tag>
+<XML_Serializer_Tag>Schriftstellerin</XML_Serializer_Tag>
+</professionOrOccupation>
+<dbpResource>http://dbpedia.org/resource/Valerie_Solanas</dbpResource>
+<abstract>Valerie Jean Solanas (* 9. April 1936 in Atlantic City, New Jersey; † 26. April 1988 in San Francisco) war eine US-amerikanische radikal-feministische Schriftstellerin, die durch ihren Mordversuch an Andy Warhol sowie als Autorin des SCUM Manifesto bekannt wurde.</abstract>
+<wikilink>http://en.wikipedia.org/wiki/Valerie_Solanas?oldid=606173284</wikilink>
+<artworks />
+<buildings />
+<books>
+<XML_Serializer_Tag>
+<book>
+<type>uri</type>
+<value>http://dbpedia.org/resource/SCUM_Manifesto</value>
+</book>
+<author>
+<type>uri</type>
+<value>http://dbpedia.org/resource/Valerie_Solanas</value>
+</author>
+<released>
+<type>typed-literal</type>
+<datatype>http://www.w3.org/2001/XMLSchema#integer</datatype>
+<value>1967</value>
+</released>
+<wikilink>
+<type>uri</type>
+<value>http://en.wikipedia.org/wiki/SCUM_Manifesto?oldid=605550612</value>
+</wikilink>
+</XML_Serializer_Tag>
+</books>
+</Person>

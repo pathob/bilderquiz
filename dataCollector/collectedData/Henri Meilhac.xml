@@ -1,0 +1,36 @@
+<Person>
+<name>Henri Meilhac</name>
+<variantName>
+<XML_Serializer_Tag>Enrico Meilhac</XML_Serializer_Tag>
+<XML_Serializer_Tag>... Meilhac</XML_Serializer_Tag>
+<XML_Serializer_Tag>H. Meilhac</XML_Serializer_Tag>
+<XML_Serializer_Tag>Henry Meilhac</XML_Serializer_Tag>
+<XML_Serializer_Tag>Henri Melhac</XML_Serializer_Tag>
+<XML_Serializer_Tag>Henri Mailhac</XML_Serializer_Tag>
+<XML_Serializer_Tag>Henricques Meilhac</XML_Serializer_Tag>
+<XML_Serializer_Tag>Talin</XML_Serializer_Tag>
+</variantName>
+<thumbnail>https://de.wikipedia.org/wiki/Special:FilePath/WP_Henri_Meilhac.jpg?width=270</thumbnail>
+<birthEN>February 21, 1831</birthEN>
+<birthDE>21. Februar 1831</birthDE>
+<deathEN>July 6, 1897</deathEN>
+<deathDE>6. Juli 1897</deathDE>
+<birthPlace>
+<XML_Serializer_Tag>Paris</XML_Serializer_Tag>
+</birthPlace>
+<deathPlace>
+<XML_Serializer_Tag>Paris</XML_Serializer_Tag>
+</deathPlace>
+<professionOrOccupation>
+<XML_Serializer_Tag>Librettist</XML_Serializer_Tag>
+<XML_Serializer_Tag>Dramatiker</XML_Serializer_Tag>
+<XML_Serializer_Tag>Schriftsteller</XML_Serializer_Tag>
+<XML_Serializer_Tag>Drehbuchautor</XML_Serializer_Tag>
+</professionOrOccupation>
+<dbpResource>http://dbpedia.org/resource/Henri_Meilhac</dbpResource>
+<abstract>Henri Meilhac (* 21. Februar 1831 in Paris; † 6. Juli 1897 ebenda) war ein französischer Bühnendichter und Librettist.</abstract>
+<wikilink>http://en.wikipedia.org/wiki/Henri_Meilhac?oldid=553485016</wikilink>
+<artworks />
+<buildings />
+<books />
+</Person>

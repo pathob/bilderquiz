@@ -20,8 +20,10 @@
 <XML_Serializer_Tag>Schriftsteller</XML_Serializer_Tag>
 <XML_Serializer_Tag>Filmarchitekt</XML_Serializer_Tag>
 </professionOrOccupation>
-<artworks />
 <dbpResource>http://dbpedia.org/resource/Ludwig_Meidner</dbpResource>
 <abstract>Ludwig Meidner (* 18. April 1884 in Bernstadt an der Weide (Schlesien); † 14. Mai 1966 in Darmstadt) war ein deutscher Maler des Expressionismus sowie Dichter und Grafiker.</abstract>
 <wikilink>http://en.wikipedia.org/wiki/Ludwig_Meidner?oldid=586345150</wikilink>
+<artworks />
+<buildings />
+<books />
 </Person>

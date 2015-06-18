@@ -1,0 +1,26 @@
+<Person>
+<name>Antoine-Vincent Arnault</name>
+<variantName>
+<XML_Serializer_Tag>Antoine Vincent Arnault</XML_Serializer_Tag>
+<XML_Serializer_Tag>A.-V. Arnault</XML_Serializer_Tag>
+<XML_Serializer_Tag>Vincent Arnault</XML_Serializer_Tag>
+<XML_Serializer_Tag>V. Arnault</XML_Serializer_Tag>
+<XML_Serializer_Tag>... Arnault</XML_Serializer_Tag>
+</variantName>
+<thumbnail>https://commons.wikimedia.org/wiki/Special:FilePath/Antoine-Vincent_Arnault.jpg?width=270</thumbnail>
+<birthEN>1766</birthEN>
+<birthDE>1766</birthDE>
+<deathEN>1834</deathEN>
+<deathDE>1834</deathDE>
+<birthPlace />
+<deathPlace />
+<professionOrOccupation>
+<XML_Serializer_Tag>Schriftsteller</XML_Serializer_Tag>
+</professionOrOccupation>
+<dbpResource>http://dbpedia.org/resource/Antoine-Vincent_Arnault</dbpResource>
+<abstract>Antoine-Vincent Arnault (* 1. Januar 1766 in Paris; † 16. Dezember 1834 in Goderville bei Le Havre) war ein französischer Dramatiker und Lyriker.</abstract>
+<wikilink>http://en.wikipedia.org/wiki/Antoine-Vincent_Arnault?oldid=599999233</wikilink>
+<artworks />
+<buildings />
+<books />
+</Person>

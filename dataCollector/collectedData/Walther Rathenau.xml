@@ -1,0 +1,31 @@
+<Person>
+<name>Walther Rathenau</name>
+<variantName>
+<XML_Serializer_Tag>Walter Rathenau</XML_Serializer_Tag>
+<XML_Serializer_Tag>, Pseud.</XML_Serializer_Tag>
+</variantName>
+<thumbnail>https://commons.wikimedia.org/wiki/Special:FilePath/Walther_Rathenau.jpg?width=270</thumbnail>
+<birthEN>September 29, 1867</birthEN>
+<birthDE>29. September 1867</birthDE>
+<deathEN>June 24, 1922</deathEN>
+<deathDE>24. Juni 1922</deathDE>
+<birthPlace>
+<XML_Serializer_Tag>Berlin</XML_Serializer_Tag>
+</birthPlace>
+<deathPlace>
+<XML_Serializer_Tag>Berlin</XML_Serializer_Tag>
+</deathPlace>
+<professionOrOccupation>
+<XML_Serializer_Tag>Außenminister</XML_Serializer_Tag>
+<XML_Serializer_Tag>Publizist</XML_Serializer_Tag>
+<XML_Serializer_Tag>Philosoph</XML_Serializer_Tag>
+<XML_Serializer_Tag>Politiker</XML_Serializer_Tag>
+<XML_Serializer_Tag>Großindustrieller</XML_Serializer_Tag>
+</professionOrOccupation>
+<dbpResource>http://dbpedia.org/resource/Walther_Rathenau</dbpResource>
+<abstract>Walther Rathenau (* 29. September 1867 in Berlin; † 24. Juni 1922 in Berlin-Grunewald) war ein deutscher Industrieller, Schriftsteller und liberaler Politiker (DDP). Er wurde als Reichsaußenminister Opfer eines politisch motivierten Attentats der Organisation Consul.</abstract>
+<wikilink>http://en.wikipedia.org/wiki/Walther_Rathenau?oldid=590020780</wikilink>
+<artworks />
+<buildings />
+<books />
+</Person>

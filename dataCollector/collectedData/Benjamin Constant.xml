@@ -1,0 +1,64 @@
+<Person>
+<name>Benjamin Constant</name>
+<variantName>
+<XML_Serializer_Tag>Benjamin de Constant</XML_Serializer_Tag>
+<XML_Serializer_Tag>Benjamin von Constant</XML_Serializer_Tag>
+<XML_Serializer_Tag>Benj. Constant</XML_Serializer_Tag>
+<XML_Serializer_Tag>B. Constant</XML_Serializer_Tag>
+<XML_Serializer_Tag>... Constant</XML_Serializer_Tag>
+<XML_Serializer_Tag>Henri Benjamin Constant</XML_Serializer_Tag>
+<XML_Serializer_Tag>Benjamin de Constant de Rebecque</XML_Serializer_Tag>
+<XML_Serializer_Tag>Benjamin Constant de Rebecque</XML_Serializer_Tag>
+<XML_Serializer_Tag>Henri Benjamin de Constant de Rebecque</XML_Serializer_Tag>
+<XML_Serializer_Tag>Benjamin Constant-Rebecque</XML_Serializer_Tag>
+<XML_Serializer_Tag>Benžamen Konstan</XML_Serializer_Tag>
+<XML_Serializer_Tag>Benjamin H. de Rebecque</XML_Serializer_Tag>
+<XML_Serializer_Tag>Benjamin de C. de Rebecque</XML_Serializer_Tag>
+<XML_Serializer_Tag>Benjamin de C.-Rebecque</XML_Serializer_Tag>
+<XML_Serializer_Tag>Benjamin de Constant de Rebecque</XML_Serializer_Tag>
+<XML_Serializer_Tag>Constant de Rebecque</XML_Serializer_Tag>
+<XML_Serializer_Tag>Henri B. Rebecque</XML_Serializer_Tag>
+<XML_Serializer_Tag>Henri Benjamin Constant de Rebecque</XML_Serializer_Tag>
+</variantName>
+<thumbnail>https://commons.wikimedia.org/wiki/Special:FilePath/Benjamin_Constant.jpg?width=270</thumbnail>
+<birthEN>October 25, 1767</birthEN>
+<birthDE>25. Oktober 1767</birthDE>
+<deathEN>December 10, 1830</deathEN>
+<deathDE>10. Dezember 1830</deathDE>
+<birthPlace />
+<deathPlace />
+<professionOrOccupation>
+<XML_Serializer_Tag>Schriftsteller</XML_Serializer_Tag>
+<XML_Serializer_Tag>Politiker</XML_Serializer_Tag>
+</professionOrOccupation>
+<dbpResource>http://dbpedia.org/resource/Benjamin_Constant</dbpResource>
+<abstract>Benjamin Constant, eigentlich Henri-Benjamin Constant de Rebecque (* 25. Oktober 1767 in Lausanne; † 8. Dezember 1830 in Paris) war ein frankophoner Schriftsteller, liberaler Politiker und Staatstheoretiker Schweizer Herkunft, der das in der Französischen Revolution problematisch gewordene Verhältnis von Staatsmacht und Individuum untersuchte. 1802 wurde er von Napoleon kaltgestellt, wurde aber 1815 von ihm eingeladen, einen Zusatz zur Verfassung Frankreichs zu schreiben. Constant beeinflusste mit seinen Ideen u.a. den Novemberaufstand, die Griechische Revolution, die Liberale Revolution in Portugal und die Belgische Revolution.</abstract>
+<wikilink>http://en.wikipedia.org/wiki/Benjamin_Constant?oldid=606353950</wikilink>
+<artworks />
+<buildings />
+<books>
+<XML_Serializer_Tag>
+<book>
+<type>uri</type>
+<value>http://dbpedia.org/resource/Adolphe</value>
+</book>
+<author>
+<type>uri</type>
+<value>http://dbpedia.org/resource/Benjamin_Constant</value>
+</author>
+<thumbnail>
+<type>uri</type>
+<value>http://commons.wikimedia.org/wiki/Special:FilePath/Adolphe_novel_1842_title.jpg?width=300</value>
+</thumbnail>
+<released>
+<type>typed-literal</type>
+<datatype>http://www.w3.org/2001/XMLSchema#integer</datatype>
+<value>1816</value>
+</released>
+<wikilink>
+<type>uri</type>
+<value>http://en.wikipedia.org/wiki/Adolphe?oldid=606098955</value>
+</wikilink>
+</XML_Serializer_Tag>
+</books>
+</Person>

@@ -1,0 +1,53 @@
+<Person>
+<name>Elias Holl</name>
+<variantName />
+<thumbnail>https://commons.wikimedia.org/wiki/Special:FilePath/Elias_Holl.jpg?width=270</thumbnail>
+<birthEN>February 28, 1573</birthEN>
+<birthDE>28. Februar 1573</birthDE>
+<deathEN>January 6, 1646</deathEN>
+<deathDE>6. Januar 1646</deathDE>
+<birthPlace />
+<deathPlace />
+<professionOrOccupation>
+<XML_Serializer_Tag>Baumeister</XML_Serializer_Tag>
+</professionOrOccupation>
+<dbpResource>http://dbpedia.org/resource/Elias_Holl</dbpResource>
+<abstract>Elias Holl (* 28. Februar 1573 in Augsburg; † 6. Januar 1646 ebenda) war ein Augsburger Baumeister der deutschen Renaissance. Holl setzte sich in seiner Architektur vor allem mit der von Andrea Palladio geprägten Tradition Oberitaliens auseinander.</abstract>
+<wikilink>http://en.wikipedia.org/wiki/Elias_Holl?oldid=601599253</wikilink>
+<artworks />
+<buildings>
+<XML_Serializer_Tag>
+<building>
+<type>uri</type>
+<value>http://dbpedia.org/resource/Augsburg_Town_Hall</value>
+</building>
+<name>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>Augsburg Town Hall</value>
+</name>
+<architect>
+<type>uri</type>
+<value>http://dbpedia.org/resource/Elias_Holl</value>
+</architect>
+<thumbnail>
+<type>uri</type>
+<value>http://commons.wikimedia.org/wiki/Special:FilePath/Rathaus_Augsburg_perspective.jpg?width=300</value>
+</thumbnail>
+<wikilink>
+<type>uri</type>
+<value>http://en.wikipedia.org/wiki/Augsburg_Town_Hall?oldid=594835430</value>
+</wikilink>
+<location>
+<type>uri</type>
+<value>http://dbpedia.org/resource/Augsburg</value>
+</location>
+<abstract>
+<type>literal</type>
+<xml:lang>de</xml:lang>
+<value>Das Augsburger Rathaus gehört zu den eindrucksvollsten Rathäusern Deutschlands und gilt als einer der bedeutendsten Profanbauten der Renaissance nördlich der Alpen. Zusammen mit dem Perlachturm ist es das Wahrzeichen der Stadt Augsburg.Aufgrund seiner historischen Bedeutung untersteht es der Haager Konvention zum Schutz von Kulturgut bei bewaffneten Konflikten.</value>
+</abstract>
+</XML_Serializer_Tag>
+</buildings>
+<books />
+</Person>

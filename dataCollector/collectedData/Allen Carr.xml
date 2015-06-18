@@ -1,0 +1,36 @@
+<Person>
+<name>Allen Carr</name>
+<variantName />
+<thumbnail>https://en.wikipedia.org/wiki/Special:FilePath/Allen_Carr.jpeg?width=270</thumbnail>
+<birthEN>September 2, 1934</birthEN>
+<birthDE>2. September 1934</birthDE>
+<deathEN>November 29, 2006</deathEN>
+<deathDE>29. November 2006</deathDE>
+<birthPlace />
+<deathPlace />
+<professionOrOccupation>
+<XML_Serializer_Tag>Wirtschaftsprüfer</XML_Serializer_Tag>
+<XML_Serializer_Tag>Autor</XML_Serializer_Tag>
+</professionOrOccupation>
+<dbpResource>http://dbpedia.org/resource/Allen_Carr</dbpResource>
+<abstract>Allen Carr (* 2. September 1934 in London; † 29. November 2006 bei Málaga) war ein britischer Schriftsteller und Autor von Büchern zum Thema Lebenshilfe. Carr schrieb Ratgeber und veranstaltete daran angegliederte Selbsthilfekurse und Seminare. Carrs Methoden und Theorien zur Überwindung von Sucht sind teilweise umstritten.Sein erstes und gleichzeitig erfolgreichstes Werk ist das Buch Endlich Nichtraucher! (Originaltitel: Easy way to stop smoking). In diesem Buch stellt der ehemalige Kettenraucher die durch eigene Erfahrungen entwickelte Methode Easy Way vor, mit der selbst langjährige Raucher in kürzester Zeit mit dem Rauchen aufhören können sollen. Die Carr&apos;sche Methode unterscheidet sich von anderen Entwöhnungsmethoden unter anderem dadurch, dass während der Entwöhnung durch die Lektüre des Buches oder durch den Besuch eines Carr-Seminars der Raucher zunächst weiterrauchen soll. Erst nach Ende der Lektüre bzw. am Ende des Seminars rührt der Raucher „wie von selbst“ keine weitere Zigarette mehr an, da das „positive brainwashing“ (Carr selbst in seinem Buch), also die mentale Befreiung von emotionalen und psychologischen Assoziationen mit dem Rauchen, dann bereits wirkt. Prominente Befürworter der Methode sind unter anderem Anthony Hopkins und Richard Branson.Carrs Methode ist nach seinen Aussagen für jede Sucht anwendbar. In Endlich ohne Alkohol bestreitet er die Existenz von Alkoholismus, wie die Gesellschaft ihn sieht (S. 577, 1). und stellt die Behauptung auf, dass die Ursache der Panik, die Alkoholiker beim Verzicht auf Alkohol erleiden, nicht der körperliche Entzug sei. (S. 606). Ende Juli 2006 wurde bei einer Routineuntersuchung festgestellt, dass Allen Carr an Lungenkrebs erkrankt war. Nach eigener Auskunft hatte er selbst seit über 23 Jahren nicht mehr geraucht. Wie unter Experten bekannt, dauert es Jahre bis Jahrzehnte, bis sich das Krebsrisiko nach dem Aufhören des Rauchens wesentlich verringert. „Wenn das der Preis war, den ich zahlen muss, um so vielen Rauchern geholfen zu haben,“ sagte er, „dann zahle ich ihn gerne. Ich bin mir sicher, dass ich bereits vor 20 Jahren gestorben wäre, wenn ich nicht die letzten 23 Jahre als Nichtraucher verbracht hätte. Ich schätze diese Jahre als die wertvollsten meines Lebens ein.“Am 29. November 2006 verstarb Carr im Alter von 72 Jahren an den Folgen des Lungenkrebses.</abstract>
+<wikilink>http://en.wikipedia.org/wiki/Allen_Carr?oldid=595628155</wikilink>
+<artworks />
+<buildings />
+<books>
+<XML_Serializer_Tag>
+<book>
+<type>uri</type>
+<value>http://dbpedia.org/resource/The_Easy_Way_to_Stop_Smoking</value>
+</book>
+<author>
+<type>uri</type>
+<value>http://dbpedia.org/resource/Allen_Carr</value>
+</author>
+<wikilink>
+<type>uri</type>
+<value>http://en.wikipedia.org/wiki/The_Easy_Way_to_Stop_Smoking?oldid=606217132</value>
+</wikilink>
+</XML_Serializer_Tag>
+</books>
+</Person>

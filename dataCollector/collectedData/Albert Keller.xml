@@ -1,0 +1,27 @@
+<Person>
+<name>Albert Keller</name>
+<variantName />
+<thumbnail>https://commons.wikimedia.org/wiki/Special:FilePath/Albert_Keller.jpg?width=270</thumbnail>
+<birthEN>April 30, 1932</birthEN>
+<birthDE>30. April 1932</birthDE>
+<deathEN>July 5, 2010</deathEN>
+<deathDE>5. Juli 2010</deathDE>
+<birthPlace>
+<XML_Serializer_Tag>Nieder-Roden</XML_Serializer_Tag>
+</birthPlace>
+<deathPlace>
+<XML_Serializer_Tag>München</XML_Serializer_Tag>
+</deathPlace>
+<professionOrOccupation>
+<XML_Serializer_Tag>Katholischer Theologe</XML_Serializer_Tag>
+<XML_Serializer_Tag>Philosoph</XML_Serializer_Tag>
+<XML_Serializer_Tag>Hochschullehrer</XML_Serializer_Tag>
+<XML_Serializer_Tag>Jesuit</XML_Serializer_Tag>
+</professionOrOccupation>
+<dbpResource>http://dbpedia.org/resource/Albert_von_Keller</dbpResource>
+<abstract>Albert von Keller (* 27. April 1844 in Gais; † 14. Juli 1920 in München) war ein Schweizer Maler.</abstract>
+<wikilink>http://en.wikipedia.org/wiki/Albert_von_Keller?oldid=596825065</wikilink>
+<artworks />
+<buildings />
+<books />
+</Person>

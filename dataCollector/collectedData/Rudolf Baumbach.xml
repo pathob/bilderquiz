@@ -1,0 +1,30 @@
+<Person>
+<name>Rudolf Baumbach</name>
+<variantName>
+<XML_Serializer_Tag>Paul Bach</XML_Serializer_Tag>
+<XML_Serializer_Tag>Rudolph Baumbach</XML_Serializer_Tag>
+<XML_Serializer_Tag>R. Baumbach</XML_Serializer_Tag>
+<XML_Serializer_Tag>Rud. Baumbach</XML_Serializer_Tag>
+</variantName>
+<thumbnail>https://de.wikipedia.org/wiki/Special:FilePath/Rudolf_Baumbach.jpg?width=270</thumbnail>
+<birthEN>September 28, 1840</birthEN>
+<birthDE>28. September 1840</birthDE>
+<deathEN>September 21, 1905</deathEN>
+<deathDE>21. September 1905</deathDE>
+<birthPlace>
+<XML_Serializer_Tag>Kranichfeld</XML_Serializer_Tag>
+</birthPlace>
+<deathPlace>
+<XML_Serializer_Tag>Meiningen</XML_Serializer_Tag>
+</deathPlace>
+<professionOrOccupation>
+<XML_Serializer_Tag>Schriftsteller</XML_Serializer_Tag>
+<XML_Serializer_Tag>Pädagoge</XML_Serializer_Tag>
+</professionOrOccupation>
+<dbpResource>http://dbpedia.org/resource/Rudolf_Baumbach</dbpResource>
+<abstract>Rudolf Baumbach (* 28. September 1840 in Kranichfeld; † 21. September 1905 in Meiningen; Pseudonym Paul Bach) war ein deutscher Dichter.</abstract>
+<wikilink>http://en.wikipedia.org/wiki/Rudolf_Baumbach?oldid=593022426</wikilink>
+<artworks />
+<buildings />
+<books />
+</Person>

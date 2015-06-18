@@ -1,0 +1,28 @@
+<Person>
+<name>Richard Voss</name>
+<variantName>
+<XML_Serializer_Tag>Ricardo Voss</XML_Serializer_Tag>
+<XML_Serializer_Tag>Richard Voß</XML_Serializer_Tag>
+</variantName>
+<thumbnail>https://de.wikipedia.org/wiki/Special:FilePath/Bühnenschriftsteller_Richard_Voß.jpg?width=270</thumbnail>
+<birthEN>September 2, 1851</birthEN>
+<birthDE>2. September 1851</birthDE>
+<deathEN>June 10, 1918</deathEN>
+<deathDE>10. Juni 1918</deathDE>
+<birthPlace>
+<XML_Serializer_Tag>Neu-Grape, Pommern</XML_Serializer_Tag>
+</birthPlace>
+<deathPlace>
+<XML_Serializer_Tag>Berchtesgaden</XML_Serializer_Tag>
+</deathPlace>
+<professionOrOccupation>
+<XML_Serializer_Tag>Bibliothekar</XML_Serializer_Tag>
+<XML_Serializer_Tag>Schriftsteller</XML_Serializer_Tag>
+</professionOrOccupation>
+<dbpResource>http://dbpedia.org/resource/Richard_Voss</dbpResource>
+<abstract>Richard Voß (* 2. September 1851, Gut Neugrape, Kreis Pyritz, Pommern; † 10. Juni 1918 in Berchtesgaden) war ein deutscher Schriftsteller.</abstract>
+<wikilink>http://en.wikipedia.org/wiki/Richard_Voss?oldid=589769675</wikilink>
+<artworks />
+<buildings />
+<books />
+</Person>

@@ -15,8 +15,10 @@
 <XML_Serializer_Tag>Künstler</XML_Serializer_Tag>
 <XML_Serializer_Tag>Maler</XML_Serializer_Tag>
 </professionOrOccupation>
-<artworks />
 <dbpResource>http://dbpedia.org/resource/Thomas_Struth</dbpResource>
 <abstract>Thomas Struth (* 1954 in Geldern, Niederrhein) ist ein deutscher Fotograf der Düsseldorfer Photoschule. Er gehört zu den bekanntesten Fotografen der Gegenwart.</abstract>
 <wikilink>http://en.wikipedia.org/wiki/Thomas_Struth?oldid=599767180</wikilink>
+<artworks />
+<buildings />
+<books />
 </Person>

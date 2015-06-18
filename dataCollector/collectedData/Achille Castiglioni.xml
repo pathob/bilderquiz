@@ -1,0 +1,25 @@
+<Person>
+<name>Achille Castiglioni</name>
+<variantName />
+<thumbnail>https://commons.wikimedia.org/wiki/Special:FilePath/Mezzadro_1957.jpg?width=270</thumbnail>
+<birthEN>February 16, 1918</birthEN>
+<birthDE>16. Februar 1918</birthDE>
+<deathEN>December 6, 2002</deathEN>
+<deathDE>6. Dezember 2002</deathDE>
+<birthPlace>
+<XML_Serializer_Tag>133464261</XML_Serializer_Tag>
+</birthPlace>
+<deathPlace>
+<XML_Serializer_Tag>133464261</XML_Serializer_Tag>
+</deathPlace>
+<professionOrOccupation>
+<XML_Serializer_Tag>Architekt</XML_Serializer_Tag>
+<XML_Serializer_Tag>Designer</XML_Serializer_Tag>
+</professionOrOccupation>
+<dbpResource>http://dbpedia.org/resource/Achille_Castiglioni</dbpResource>
+<abstract>Achille Castiglioni (* 16. Februar 1918 in Mailand; † 6. Dezember 2002 ebenda) war ein italienischer Industriedesigner.</abstract>
+<wikilink>http://en.wikipedia.org/wiki/Achille_Castiglioni?oldid=606364823</wikilink>
+<artworks />
+<buildings />
+<books />
+</Person>

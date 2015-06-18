@@ -23,12 +23,15 @@
 <XML_Serializer_Tag>Maler</XML_Serializer_Tag>
 <XML_Serializer_Tag>Graphiker</XML_Serializer_Tag>
 </professionOrOccupation>
+<dbpResource>http://dbpedia.org/resource/Aristide_Maillol</dbpResource>
+<abstract>Aristide Joseph Bonaventure Jean Maillol (* 8. Dezember 1861 in Banyuls-sur-Mer, Pyrénées-Orientales; † 27. September 1944 ebenda) war ein französischer Bildhauer, Maler und Grafiker. Er galt in Frankreich als der wichtigste Antipode Auguste Rodins und beeinflusste die europäische Plastik in der ersten Hälfte des 20. Jahrhunderts nachhaltig.</abstract>
+<wikilink>http://en.wikipedia.org/wiki/Aristide_Maillol?oldid=586733738</wikilink>
 <artworks>
 <XML_Serializer_Tag>
-<painting>
+<artwork>
 <type>uri</type>
 <value>http://dbpedia.org/resource/Air_(Maillol)</value>
-</painting>
+</artwork>
 <thumbnail>
 <type>uri</type>
 <value>http://commons.wikimedia.org/wiki/Special:FilePath/KMM_Maillol.JPG?width=300</value>
@@ -47,12 +50,17 @@
 <type>uri</type>
 <value>http://en.wikipedia.org/wiki/Air_(Maillol)?oldid=591034197</value>
 </wikilink>
+<type>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>lead</value>
+</type>
 </XML_Serializer_Tag>
 <XML_Serializer_Tag>
-<painting>
+<artwork>
 <type>uri</type>
 <value>http://dbpedia.org/resource/La_Rivi%C3%A8re_(Maillol)</value>
-</painting>
+</artwork>
 <thumbnail>
 <type>uri</type>
 <value>http://commons.wikimedia.org/wiki/Special:FilePath/La_riviere-maillol.jpg?width=300</value>
@@ -71,12 +79,17 @@
 <type>uri</type>
 <value>http://en.wikipedia.org/wiki/La_Rivière_(Maillol)?oldid=605994425</value>
 </wikilink>
+<type>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>lead</value>
+</type>
 </XML_Serializer_Tag>
 <XML_Serializer_Tag>
-<painting>
+<artwork>
 <type>uri</type>
 <value>http://dbpedia.org/resource/Nymph_(Central_Figure_for_%22The_Three_Graces%22)</value>
-</painting>
+</artwork>
 <thumbnail>
 <type>uri</type>
 <value>http://commons.wikimedia.org/wiki/Special:FilePath/Nymph_Central_Figure_forThe_Three_Nymphs.jpg?width=300</value>
@@ -90,9 +103,12 @@
 <type>uri</type>
 <value>http://en.wikipedia.org/wiki/Nymph_(Central_Figure_for_%22The_Three_Graces%22)?oldid=596557722</value>
 </wikilink>
+<type>
+<type>uri</type>
+<value>http://dbpedia.org/resource/Bronze</value>
+</type>
 </XML_Serializer_Tag>
 </artworks>
-<dbpResource>http://dbpedia.org/resource/Aristide_Maillol</dbpResource>
-<abstract>Aristide Joseph Bonaventure Jean Maillol (* 8. Dezember 1861 in Banyuls-sur-Mer, Pyrénées-Orientales; † 27. September 1944 ebenda) war ein französischer Bildhauer, Maler und Grafiker. Er galt in Frankreich als der wichtigste Antipode Auguste Rodins und beeinflusste die europäische Plastik in der ersten Hälfte des 20. Jahrhunderts nachhaltig.</abstract>
-<wikilink>http://en.wikipedia.org/wiki/Aristide_Maillol?oldid=586733738</wikilink>
+<buildings />
+<books />
 </Person>

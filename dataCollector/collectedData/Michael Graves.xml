@@ -1,0 +1,49 @@
+<Person>
+<name>Michael Graves</name>
+<variantName />
+<thumbnail>https://commons.wikimedia.org/wiki/Special:FilePath/Graves_kittel_1984.jpg?width=270</thumbnail>
+<birthEN>1934</birthEN>
+<birthDE>1934</birthDE>
+<deathEN>2015</deathEN>
+<deathDE>2015</deathDE>
+<birthPlace />
+<deathPlace />
+<professionOrOccupation>
+<XML_Serializer_Tag>Architekt</XML_Serializer_Tag>
+<XML_Serializer_Tag>Designer</XML_Serializer_Tag>
+</professionOrOccupation>
+<dbpResource>http://dbpedia.org/resource/Michael_Graves</dbpResource>
+<abstract>Michael Graves (* 9. Juli 1934 in Indianapolis, Indiana) ist ein US-amerikanischer Architekt.</abstract>
+<wikilink>http://en.wikipedia.org/wiki/Michael_Graves?oldid=603144405</wikilink>
+<artworks />
+<buildings>
+<XML_Serializer_Tag>
+<building>
+<type>uri</type>
+<value>http://dbpedia.org/resource/Portland_Building</value>
+</building>
+<name>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>The Portland Building</value>
+</name>
+<architect>
+<type>uri</type>
+<value>http://dbpedia.org/resource/Michael_Graves</value>
+</architect>
+<thumbnail>
+<type>uri</type>
+<value>http://commons.wikimedia.org/wiki/Special:FilePath/Portland_Building_1982.jpg?width=300</value>
+</thumbnail>
+<wikilink>
+<type>uri</type>
+<value>http://en.wikipedia.org/wiki/Portland_Building?oldid=594070148</value>
+</wikilink>
+<location>
+<type>uri</type>
+<value>http://dbpedia.org/resource/Portland,_Oregon</value>
+</location>
+</XML_Serializer_Tag>
+</buildings>
+<books />
+</Person>

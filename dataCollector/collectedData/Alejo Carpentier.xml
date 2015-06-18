@@ -1,0 +1,69 @@
+<Person>
+<name>Alejo Carpentier</name>
+<variantName>
+<XML_Serializer_Tag>A. Karpent&apos;er</XML_Serializer_Tag>
+<XML_Serializer_Tag>Alecho Karpent&apos;er</XML_Serializer_Tag>
+<XML_Serializer_Tag>Alejo Carpentier y Valmont</XML_Serializer_Tag>
+<XML_Serializer_Tag>Alejo Carpentier y Valmont</XML_Serializer_Tag>
+</variantName>
+<thumbnail>https://commons.wikimedia.org/wiki/Special:FilePath/Alejocarpentier.jpg?width=270</thumbnail>
+<birthEN>December 26, 1904</birthEN>
+<birthDE>26. Dezember 1904</birthDE>
+<deathEN>April 24, 1980</deathEN>
+<deathDE>24. April 1980</deathDE>
+<birthPlace>
+<XML_Serializer_Tag>Lausanne</XML_Serializer_Tag>
+</birthPlace>
+<deathPlace>
+<XML_Serializer_Tag>Paris</XML_Serializer_Tag>
+</deathPlace>
+<professionOrOccupation>
+<XML_Serializer_Tag>Schriftsteller</XML_Serializer_Tag>
+<XML_Serializer_Tag>Journalist</XML_Serializer_Tag>
+<XML_Serializer_Tag>Musikwissenschaftler</XML_Serializer_Tag>
+</professionOrOccupation>
+<dbpResource>http://dbpedia.org/resource/Alejo_Carpentier</dbpResource>
+<abstract>Alejo Carpentier Valmont (* 26. Dezember 1904 in Lausanne, Schweiz; † 24. April 1980 in Paris) war ein kubanisch-französischer Schriftsteller.</abstract>
+<wikilink>http://en.wikipedia.org/wiki/Alejo_Carpentier?oldid=604026219</wikilink>
+<artworks />
+<buildings />
+<books>
+<XML_Serializer_Tag>
+<book>
+<type>uri</type>
+<value>http://dbpedia.org/resource/The_Kingdom_of_this_World</value>
+</book>
+<author>
+<type>uri</type>
+<value>http://dbpedia.org/resource/Alejo_Carpentier</value>
+</author>
+<thumbnail>
+<type>uri</type>
+<value>http://commons.wikimedia.org/wiki/Special:FilePath/Haiti_map.png?width=300</value>
+</thumbnail>
+<wikilink>
+<type>uri</type>
+<value>http://en.wikipedia.org/wiki/The_Kingdom_of_this_World?oldid=605306149</value>
+</wikilink>
+<abstract>
+<type>literal</type>
+<xml:lang>de</xml:lang>
+<value>Das Reich von dieser Welt (spanischer Originaltitel: El reino de este mundo) ist der zweite Roman des kubanisch-französischen Schriftstellers Alejo Carpentier. Es ist eines der wichtigsten Werke des Magischen Realismus in der karibischen und südamerikanischen Literatur.Die spanische Originalausgabe erschien 1949 unter dem Titel El reino de este mundo. Die deutsche Erstausgabe erschien 1964 im Insel Verlag Frankfurt am Main.</value>
+</abstract>
+</XML_Serializer_Tag>
+<XML_Serializer_Tag>
+<book>
+<type>uri</type>
+<value>http://dbpedia.org/resource/Explosion_in_a_Cathedral</value>
+</book>
+<author>
+<type>uri</type>
+<value>http://dbpedia.org/resource/Alejo_Carpentier</value>
+</author>
+<wikilink>
+<type>uri</type>
+<value>http://en.wikipedia.org/wiki/Explosion_in_a_Cathedral?oldid=544981063</value>
+</wikilink>
+</XML_Serializer_Tag>
+</books>
+</Person>

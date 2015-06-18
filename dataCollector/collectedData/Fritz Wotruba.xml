@@ -17,8 +17,10 @@
 <XML_Serializer_Tag>Bildhauer</XML_Serializer_Tag>
 <XML_Serializer_Tag>Maler</XML_Serializer_Tag>
 </professionOrOccupation>
-<artworks />
 <dbpResource>http://dbpedia.org/resource/Fritz_Wotruba</dbpResource>
 <abstract>Fritz Wotruba (* 23. April 1907 in Wien; † 28. August 1975 ebenda) gilt als einer der bedeutendsten österreichischen Bildhauer des 20. Jahrhunderts. In seinem Werk löst er zunehmend die figürlichen Komponenten zugunsten geometrischer Abstraktion auf.</abstract>
 <wikilink>http://en.wikipedia.org/wiki/Fritz_Wotruba?oldid=540575368</wikilink>
+<artworks />
+<buildings />
+<books />
 </Person>

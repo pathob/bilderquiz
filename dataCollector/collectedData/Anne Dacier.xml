@@ -1,0 +1,46 @@
+<Person>
+<name>Anne Dacier</name>
+<variantName>
+<XML_Serializer_Tag>Anne Lefèvre de Dacier</XML_Serializer_Tag>
+<XML_Serializer_Tag>Anne Lefèvre Dacier</XML_Serializer_Tag>
+<XML_Serializer_Tag>Anne Tanneguy-Lefebvre</XML_Serializer_Tag>
+<XML_Serializer_Tag>Anne Lefebvre</XML_Serializer_Tag>
+<XML_Serializer_Tag>Anne Le Fevre</XML_Serializer_Tag>
+<XML_Serializer_Tag>Anne Lefèvre</XML_Serializer_Tag>
+<XML_Serializer_Tag>Anne L. Dacier</XML_Serializer_Tag>
+<XML_Serializer_Tag>Anne Le Fèvre</XML_Serializer_Tag>
+<XML_Serializer_Tag>Anne Le Fèbvre</XML_Serializer_Tag>
+<XML_Serializer_Tag>Anne LeFevre</XML_Serializer_Tag>
+<XML_Serializer_Tag>Anne LeFèvre</XML_Serializer_Tag>
+<XML_Serializer_Tag>Anne LeFèbvre</XML_Serializer_Tag>
+<XML_Serializer_Tag>Anna Faber</XML_Serializer_Tag>
+<XML_Serializer_Tag>Anna Fabri</XML_Serializer_Tag>
+<XML_Serializer_Tag>Anna Fabrus</XML_Serializer_Tag>
+<XML_Serializer_Tag>Anna Fabra</XML_Serializer_Tag>
+<XML_Serializer_Tag>Anna Fabra Daceria</XML_Serializer_Tag>
+<XML_Serializer_Tag>Anna Daceria</XML_Serializer_Tag>
+<XML_Serializer_Tag>Anna Fabra Daceria</XML_Serializer_Tag>
+<XML_Serializer_Tag>Anna Dacieria</XML_Serializer_Tag>
+</variantName>
+<thumbnail>https://commons.wikimedia.org/wiki/Special:FilePath/Anne_Dacier.JPG?width=270</thumbnail>
+<birthEN>1654</birthEN>
+<birthDE>1654</birthDE>
+<deathEN>1720</deathEN>
+<deathDE>1720</deathDE>
+<birthPlace>
+<XML_Serializer_Tag>Preuilly-sur-Claise</XML_Serializer_Tag>
+</birthPlace>
+<deathPlace>
+<XML_Serializer_Tag>Paris</XML_Serializer_Tag>
+</deathPlace>
+<professionOrOccupation>
+<XML_Serializer_Tag>Übersetzerin</XML_Serializer_Tag>
+<XML_Serializer_Tag>Schriftstellerin</XML_Serializer_Tag>
+</professionOrOccupation>
+<dbpResource>http://dbpedia.org/resource/Anne_Dacier</dbpResource>
+<abstract>Anne Dacier geborene Le Fèvre (* März 1654 in Preuilly-sur-Claise, Saumur; † 17. August 1720 in Paris) war eine französische Übersetzerin und Schriftstellerin hugenottischer Abstammung.</abstract>
+<wikilink>http://en.wikipedia.org/wiki/Anne_Dacier?oldid=603237805</wikilink>
+<artworks />
+<buildings />
+<books />
+</Person>

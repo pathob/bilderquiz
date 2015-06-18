@@ -1,0 +1,24 @@
+<Person>
+<name>Peter Berling</name>
+<variantName>
+<XML_Serializer_Tag>Peter Mperlinnk</XML_Serializer_Tag>
+</variantName>
+<thumbnail>https://commons.wikimedia.org/wiki/Special:FilePath/Peter_Berling_(1996)_by_Erling_Mandelmann.jpg?width=270</thumbnail>
+<birthEN>1934</birthEN>
+<birthDE>1934</birthDE>
+<deathEN />
+<deathDE />
+<birthPlace />
+<deathPlace />
+<professionOrOccupation>
+<XML_Serializer_Tag>Schriftsteller</XML_Serializer_Tag>
+<XML_Serializer_Tag>Filmproduzent</XML_Serializer_Tag>
+<XML_Serializer_Tag>Schauspieler</XML_Serializer_Tag>
+</professionOrOccupation>
+<dbpResource>http://dbpedia.org/resource/Peter_Berling</dbpResource>
+<abstract>Peter Berling (* 20. März 1934 in Meseritz-Obrawalde) ist ein deutscher Filmproduzent, Schriftsteller und Schauspieler.</abstract>
+<wikilink>http://en.wikipedia.org/wiki/Peter_Berling?oldid=585654931</wikilink>
+<artworks />
+<buildings />
+<books />
+</Person>

@@ -1,0 +1,36 @@
+<Person>
+<name>Georg von Hertling</name>
+<variantName>
+<XML_Serializer_Tag>Georg Friedrich Karl von Hertling</XML_Serializer_Tag>
+<XML_Serializer_Tag>G. F. von Hoffweiler</XML_Serializer_Tag>
+<XML_Serializer_Tag>Georg F. von Hertling</XML_Serializer_Tag>
+<XML_Serializer_Tag>Georg Friedrich von Hertling</XML_Serializer_Tag>
+<XML_Serializer_Tag>Georg Friedrich Freiherr von Hertling</XML_Serializer_Tag>
+<XML_Serializer_Tag>... Hertlin</XML_Serializer_Tag>
+</variantName>
+<thumbnail>https://commons.wikimedia.org/wiki/Special:FilePath/GeorgvonHertling.jpg?width=270</thumbnail>
+<birthEN>August 31, 1843</birthEN>
+<birthDE>31. August 1843</birthDE>
+<deathEN>January 4, 1919</deathEN>
+<deathDE>4. Januar 1919</deathDE>
+<birthPlace>
+<XML_Serializer_Tag>Darmstadt</XML_Serializer_Tag>
+</birthPlace>
+<deathPlace>
+<XML_Serializer_Tag>Ruhpolding</XML_Serializer_Tag>
+</deathPlace>
+<professionOrOccupation>
+<XML_Serializer_Tag>Reichskanzler</XML_Serializer_Tag>
+<XML_Serializer_Tag>Philosoph</XML_Serializer_Tag>
+<XML_Serializer_Tag>Autor</XML_Serializer_Tag>
+<XML_Serializer_Tag>Politiker</XML_Serializer_Tag>
+<XML_Serializer_Tag>Minister</XML_Serializer_Tag>
+<XML_Serializer_Tag>Regierungschef</XML_Serializer_Tag>
+</professionOrOccupation>
+<dbpResource>http://dbpedia.org/resource/Georg_von_Hertling</dbpResource>
+<abstract>Georg Friedrich Karl Freiherr (seit 1914: Graf) von Hertling (* 31. August 1843 in Darmstadt; † 4. Januar 1919 in Ruhpolding, Oberbayern) war ein deutscher Politiker der Zentrumspartei.Während des Ersten Weltkrieges war Hertling vom 1. November 1917 bis zum 30. September 1918 Reichskanzler des Deutschen Kaiserreichs. Obwohl er selbst gegen eine Parlamentarisierung des Reiches war, war sein Kabinett doch in Abstimmung mit den Mehrheitsparteien aus dem Interfraktionellen Ausschuss zustande gekommen.</abstract>
+<wikilink>http://en.wikipedia.org/wiki/Georg_von_Hertling?oldid=605613096</wikilink>
+<artworks />
+<buildings />
+<books />
+</Person>

@@ -1,0 +1,49 @@
+<Person>
+<name>Jacques Cazotte</name>
+<variantName>
+<XML_Serializer_Tag>J. Cazotte</XML_Serializer_Tag>
+<XML_Serializer_Tag>... Cazotte</XML_Serializer_Tag>
+<XML_Serializer_Tag>M.*******</XML_Serializer_Tag>
+<XML_Serializer_Tag>C***</XML_Serializer_Tag>
+</variantName>
+<thumbnail>https://commons.wikimedia.org/wiki/Special:FilePath/Portrait_of_Jacques_Cazotte.jpg?width=270</thumbnail>
+<birthEN>October 7, 1719</birthEN>
+<birthDE>7. Oktober 1719</birthDE>
+<deathEN>September 25, 1792</deathEN>
+<deathDE>25. September 1792</deathDE>
+<birthPlace>
+<XML_Serializer_Tag>Dijon</XML_Serializer_Tag>
+</birthPlace>
+<deathPlace>
+<XML_Serializer_Tag>Paris</XML_Serializer_Tag>
+</deathPlace>
+<professionOrOccupation>
+<XML_Serializer_Tag>Schriftsteller</XML_Serializer_Tag>
+</professionOrOccupation>
+<dbpResource>http://dbpedia.org/resource/Jacques_Cazotte</dbpResource>
+<abstract>Jacques Cazotte (* 7. Oktober 1719 in Dijon, Dépt. Côte-d&apos;Or; † 25. September 1792 in Paris) war ein französischer Romancier, der die Französische Revolution vorhergesagt haben soll.</abstract>
+<wikilink>http://en.wikipedia.org/wiki/Jacques_Cazotte?oldid=601033179</wikilink>
+<artworks />
+<buildings />
+<books>
+<XML_Serializer_Tag>
+<book>
+<type>uri</type>
+<value>http://dbpedia.org/resource/The_Devil_in_Love_(novel)</value>
+</book>
+<author>
+<type>uri</type>
+<value>http://dbpedia.org/resource/Jacques_Cazotte</value>
+</author>
+<released>
+<type>typed-literal</type>
+<datatype>http://www.w3.org/2001/XMLSchema#integer</datatype>
+<value>1772</value>
+</released>
+<wikilink>
+<type>uri</type>
+<value>http://en.wikipedia.org/wiki/The_Devil_in_Love_(novel)?oldid=595308256</value>
+</wikilink>
+</XML_Serializer_Tag>
+</books>
+</Person>

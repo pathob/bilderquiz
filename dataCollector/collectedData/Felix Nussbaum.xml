@@ -1,0 +1,24 @@
+<Person>
+<name>Felix Nussbaum</name>
+<variantName />
+<thumbnail>https://commons.wikimedia.org/wiki/Special:FilePath/Berlin_GTafel_Nussbaum.jpg?width=270</thumbnail>
+<birthEN>1904</birthEN>
+<birthDE>1904</birthDE>
+<deathEN>1944</deathEN>
+<deathDE>1944</deathDE>
+<birthPlace>
+<XML_Serializer_Tag>Osnabrück</XML_Serializer_Tag>
+</birthPlace>
+<deathPlace>
+<XML_Serializer_Tag>Auschwitz</XML_Serializer_Tag>
+</deathPlace>
+<professionOrOccupation>
+<XML_Serializer_Tag>Künstler</XML_Serializer_Tag>
+</professionOrOccupation>
+<dbpResource>http://dbpedia.org/resource/Felix_Nussbaum</dbpResource>
+<abstract>Felix Nussbaum (* 11. Dezember 1904 in Osnabrück; † 2. August 1944 in Auschwitz-Birkenau) war ein deutscher Maler der Neuen Sachlichkeit. 1932 durch Brandstiftung eines Großteils seiner Arbeiten beraubt, wurde er wegen seiner jüdischen Abstammung ins Exil getrieben und im KZ Auschwitz ermordet.</abstract>
+<wikilink>http://en.wikipedia.org/wiki/Felix_Nussbaum?oldid=604021555</wikilink>
+<artworks />
+<buildings />
+<books />
+</Person>

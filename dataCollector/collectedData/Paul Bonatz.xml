@@ -1,0 +1,24 @@
+<Person>
+<name>Paul Bonatz</name>
+<variantName>
+<XML_Serializer_Tag>Paul Michael Nikolaus Bonatz</XML_Serializer_Tag>
+</variantName>
+<thumbnail>https://commons.wikimedia.org/wiki/Special:FilePath/Hbf-stuttgart-2004.jpg?width=270</thumbnail>
+<birthEN>February 6, 1877</birthEN>
+<birthDE>6. Februar 1877</birthDE>
+<deathEN>December 20, 1956</deathEN>
+<deathDE>20. Dezember 1956</deathDE>
+<birthPlace />
+<deathPlace>
+<XML_Serializer_Tag>Stuttgart</XML_Serializer_Tag>
+</deathPlace>
+<professionOrOccupation>
+<XML_Serializer_Tag>Architekt</XML_Serializer_Tag>
+</professionOrOccupation>
+<dbpResource>http://dbpedia.org/resource/Paul_Bonatz</dbpResource>
+<abstract>Paul Bonatz (* 6. Dezember 1877 in Solgen (Lothringen, Reichsland Elsaß-Lothringen, heute Solgne, Département Moselle, Frankreich); † 20. Dezember 1956 in Stuttgart; vollständiger Name: Paul Michael Nikolaus Bonatz) war ein deutscher Architekt, einflussreicher Hochschullehrer und Brückengestalter. Er zählt neben Paul Schmitthenner zu den Hauptvertretern der Stuttgarter Schule und – international gesehen – zu den bedeutendsten Architekten des Traditionalismus.</abstract>
+<wikilink>http://en.wikipedia.org/wiki/Paul_Bonatz?oldid=598113712</wikilink>
+<artworks />
+<buildings />
+<books />
+</Person>

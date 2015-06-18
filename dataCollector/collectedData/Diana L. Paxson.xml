@@ -1,0 +1,45 @@
+<Person>
+<name>Diana L. Paxson</name>
+<variantName />
+<thumbnail>https://commons.wikimedia.org/wiki/Special:FilePath/Diana_L_Paxson_4069.png?width=270</thumbnail>
+<birthEN>1943</birthEN>
+<birthDE>1943</birthDE>
+<deathEN />
+<deathDE />
+<birthPlace />
+<deathPlace />
+<professionOrOccupation>
+<XML_Serializer_Tag>Schriftstellerin</XML_Serializer_Tag>
+</professionOrOccupation>
+<dbpResource>http://dbpedia.org/resource/Diana_L._Paxson</dbpResource>
+<abstract>Diana L. Paxson (* 20. Februar 1943 in Detroit, Michigan) ist eine US-amerikanische Schriftstellerin von historischen Fantasy-Romanen.Mit ihrer Schwägerin Marion Zimmer Bradley schrieb sie an dem fünften Band der Avalonsaga und beendete nach dem Tod ihrer Schwägerin die Fortsetzung Die Ahnen von Avalon. Selbst wurde sie bekannt durch ihren Westria-Zyklus. Eher in die Richtung historischer Roman ging das Werk Die Töchter der Nibelungen, in denen sie die Nibelungensaga nacherzählte. Neben ihren historischen Romanen und Fantasy-Romanen, schrieb die bekennende Asatru auch über Runen und die Asatru-Religion. Sie wohnt in Greyhaven, einem Künstlerhaus in Berkeley, Kalifornien, wo auch schon Marion Zimmer Bradley gelebt hat.</abstract>
+<wikilink>http://en.wikipedia.org/wiki/Diana_L._Paxson?oldid=600734176</wikilink>
+<artworks />
+<buildings />
+<books>
+<XML_Serializer_Tag>
+<book>
+<type>uri</type>
+<value>http://dbpedia.org/resource/Lady_of_Avalon</value>
+</book>
+<author>
+<type>uri</type>
+<value>http://dbpedia.org/resource/Diana_L._Paxson</value>
+</author>
+<released>
+<type>typed-literal</type>
+<datatype>http://www.w3.org/2001/XMLSchema#date</datatype>
+<value>1997-11-06+02:00</value>
+</released>
+<wikilink>
+<type>uri</type>
+<value>http://en.wikipedia.org/wiki/Lady_of_Avalon?oldid=567419751</value>
+</wikilink>
+<abstract>
+<type>literal</type>
+<xml:lang>de</xml:lang>
+<value>Die Herrin von Avalon ist ein Fantasy-Roman von Marion Zimmer Bradley aus dem Jahr 1996. Sein englischer Originaltitel lautet Lady of Avalon. Er behandelt neben mehreren anderen Romanen einen Teil der Vorgeschichte des Bestsellers Die Nebel von Avalon, in dem die Artus-Sage nacherzählt wird. Dieser Roman war nicht so erfolgreich wie die übrigen Romane dieser Reihe.</value>
+</abstract>
+</XML_Serializer_Tag>
+</books>
+</Person>

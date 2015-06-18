@@ -1,0 +1,94 @@
+<Person>
+<name>John Dewey</name>
+<variantName>
+<XML_Serializer_Tag>Tu-wei</XML_Serializer_Tag>
+<XML_Serializer_Tag>Yüeh-han Tu-wei</XML_Serializer_Tag>
+<XML_Serializer_Tag>Džon Dʹjui</XML_Serializer_Tag>
+<XML_Serializer_Tag>... Dyui</XML_Serializer_Tag>
+<XML_Serializer_Tag>Dzhon Dʹi︠u︡i</XML_Serializer_Tag>
+<XML_Serializer_Tag>G&apos;on Dyuʾi</XML_Serializer_Tag>
+<XML_Serializer_Tag>... Dewey-Kilpatrick</XML_Serializer_Tag>
+<XML_Serializer_Tag>ジョン・デューイ</XML_Serializer_Tag>
+<XML_Serializer_Tag>杜威</XML_Serializer_Tag>
+</variantName>
+<thumbnail>https://commons.wikimedia.org/wiki/Special:FilePath/John_Dewey_in_1902.jpg?width=270</thumbnail>
+<birthEN>October 20, 1859</birthEN>
+<birthDE>20. Oktober 1859</birthDE>
+<deathEN>June 1, 1952</deathEN>
+<deathDE>1. Juni 1952</deathDE>
+<birthPlace>
+<XML_Serializer_Tag>Burlington, Vt.</XML_Serializer_Tag>
+</birthPlace>
+<deathPlace>
+<XML_Serializer_Tag>New York, NY</XML_Serializer_Tag>
+</deathPlace>
+<professionOrOccupation>
+<XML_Serializer_Tag>Philosoph</XML_Serializer_Tag>
+<XML_Serializer_Tag>Pädagoge</XML_Serializer_Tag>
+<XML_Serializer_Tag>Psychologe</XML_Serializer_Tag>
+</professionOrOccupation>
+<dbpResource>http://dbpedia.org/resource/John_Dewey</dbpResource>
+<abstract>John Dewey (* 20. Oktober 1859 in Burlington, Vermont; † 1. Juni 1952 in New York) war ein US-amerikanischer Philosoph und Pädagoge.</abstract>
+<wikilink>http://en.wikipedia.org/wiki/John_Dewey?oldid=606762599</wikilink>
+<artworks />
+<buildings />
+<books>
+<XML_Serializer_Tag>
+<book>
+<type>uri</type>
+<value>http://dbpedia.org/resource/The_Public_and_its_Problems</value>
+</book>
+<author>
+<type>uri</type>
+<value>http://dbpedia.org/resource/John_Dewey</value>
+</author>
+<released>
+<type>typed-literal</type>
+<datatype>http://www.w3.org/2001/XMLSchema#integer</datatype>
+<value>1927</value>
+</released>
+<wikilink>
+<type>uri</type>
+<value>http://en.wikipedia.org/wiki/The_Public_and_its_Problems?oldid=587809805</value>
+</wikilink>
+</XML_Serializer_Tag>
+<XML_Serializer_Tag>
+<book>
+<type>uri</type>
+<value>http://dbpedia.org/resource/Experience_and_Education_(book)</value>
+</book>
+<author>
+<type>uri</type>
+<value>http://dbpedia.org/resource/John_Dewey</value>
+</author>
+<released>
+<type>typed-literal</type>
+<datatype>http://www.w3.org/2001/XMLSchema#integer</datatype>
+<value>1938</value>
+</released>
+<wikilink>
+<type>uri</type>
+<value>http://en.wikipedia.org/wiki/Experience_and_Education_(book)?oldid=603642747</value>
+</wikilink>
+</XML_Serializer_Tag>
+<XML_Serializer_Tag>
+<book>
+<type>uri</type>
+<value>http://dbpedia.org/resource/Democracy_and_Education</value>
+</book>
+<author>
+<type>uri</type>
+<value>http://dbpedia.org/resource/John_Dewey</value>
+</author>
+<released>
+<type>typed-literal</type>
+<datatype>http://www.w3.org/2001/XMLSchema#integer</datatype>
+<value>1916</value>
+</released>
+<wikilink>
+<type>uri</type>
+<value>http://en.wikipedia.org/wiki/Democracy_and_Education?oldid=602063935</value>
+</wikilink>
+</XML_Serializer_Tag>
+</books>
+</Person>

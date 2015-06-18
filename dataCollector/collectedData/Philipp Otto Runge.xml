@@ -21,8 +21,10 @@
 <XML_Serializer_Tag>Maler</XML_Serializer_Tag>
 <XML_Serializer_Tag>Schriftsteller</XML_Serializer_Tag>
 </professionOrOccupation>
-<artworks />
 <dbpResource>http://dbpedia.org/resource/Philipp_Otto_Runge</dbpResource>
 <abstract>Philipp Otto Runge (* 23. Juli 1777 in Wolgast; † 2. Dezember 1810 in Hamburg) war neben Caspar David Friedrich der bedeutendste deutsche Maler der Frühromantik.</abstract>
 <wikilink>http://en.wikipedia.org/wiki/Philipp_Otto_Runge?oldid=600275021</wikilink>
+<artworks />
+<buildings />
+<books />
 </Person>

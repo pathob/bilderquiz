@@ -1,0 +1,79 @@
+<Person>
+<name>Carlos Fuentes</name>
+<variantName>
+<XML_Serializer_Tag>Carlos Manuel Fuentes Macías</XML_Serializer_Tag>
+<XML_Serializer_Tag>Carlos Manuel Fuentes Macías</XML_Serializer_Tag>
+<XML_Serializer_Tag>Karlos Fuentes</XML_Serializer_Tag>
+<XML_Serializer_Tag>Karlos Phouentes</XML_Serializer_Tag>
+<XML_Serializer_Tag>Ka-lo-ssu Fu-en-te-ssu</XML_Serializer_Tag>
+</variantName>
+<thumbnail>https://commons.wikimedia.org/wiki/Special:FilePath/Carlos_Fuentes.jpg?width=270</thumbnail>
+<birthEN>November 11, 1928</birthEN>
+<birthDE>11. November 1928</birthDE>
+<deathEN>May 15, 2012</deathEN>
+<deathDE>15. Mai 2012</deathDE>
+<birthPlace>
+<XML_Serializer_Tag>Panama (Stadt)</XML_Serializer_Tag>
+</birthPlace>
+<deathPlace>
+<XML_Serializer_Tag>Mexiko (Stadt)</XML_Serializer_Tag>
+</deathPlace>
+<professionOrOccupation>
+<XML_Serializer_Tag>Schriftsteller</XML_Serializer_Tag>
+<XML_Serializer_Tag>Botschafter</XML_Serializer_Tag>
+</professionOrOccupation>
+<dbpResource>http://dbpedia.org/resource/Carlos_Fuentes</dbpResource>
+<abstract>Carlos Fuentes Macías (* 11. November 1928 in Panama-Stadt, Panama; † 15. Mai 2012 in Mexiko-Stadt, Mexiko) war ein mexikanischer Schriftsteller.</abstract>
+<wikilink>http://en.wikipedia.org/wiki/Carlos_Fuentes?oldid=604911196</wikilink>
+<artworks />
+<buildings />
+<books>
+<XML_Serializer_Tag>
+<book>
+<type>uri</type>
+<value>http://dbpedia.org/resource/The_Crystal_Frontier</value>
+</book>
+<author>
+<type>uri</type>
+<value>http://dbpedia.org/resource/Carlos_Fuentes</value>
+</author>
+<released>
+<type>typed-literal</type>
+<datatype>http://www.w3.org/2001/XMLSchema#integer</datatype>
+<value>1995</value>
+</released>
+<wikilink>
+<type>uri</type>
+<value>http://en.wikipedia.org/wiki/The_Crystal_Frontier?oldid=568293246</value>
+</wikilink>
+</XML_Serializer_Tag>
+<XML_Serializer_Tag>
+<book>
+<type>uri</type>
+<value>http://dbpedia.org/resource/Terra_Nostra_(novel)</value>
+</book>
+<author>
+<type>uri</type>
+<value>http://dbpedia.org/resource/Carlos_Fuentes</value>
+</author>
+<wikilink>
+<type>uri</type>
+<value>http://en.wikipedia.org/wiki/Terra_Nostra_(novel)?oldid=603512748</value>
+</wikilink>
+</XML_Serializer_Tag>
+<XML_Serializer_Tag>
+<book>
+<type>uri</type>
+<value>http://dbpedia.org/resource/Christopher_Unborn</value>
+</book>
+<author>
+<type>uri</type>
+<value>http://dbpedia.org/resource/Carlos_Fuentes</value>
+</author>
+<wikilink>
+<type>uri</type>
+<value>http://en.wikipedia.org/wiki/Christopher_Unborn?oldid=562508496</value>
+</wikilink>
+</XML_Serializer_Tag>
+</books>
+</Person>

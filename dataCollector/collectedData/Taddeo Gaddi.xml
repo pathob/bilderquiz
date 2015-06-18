@@ -11,8 +11,10 @@
 <professionOrOccupation>
 <XML_Serializer_Tag>Maler</XML_Serializer_Tag>
 </professionOrOccupation>
-<artworks />
 <dbpResource>http://dbpedia.org/resource/Taddeo_Gaddi</dbpResource>
 <abstract>Taddeo Gaddi (* 1290 in Florenz; † 1366 ebenda) war ein italienischer Maler und Vater von Agnolo Gaddi.</abstract>
 <wikilink>http://en.wikipedia.org/wiki/Taddeo_Gaddi?oldid=602503703</wikilink>
+<artworks />
+<buildings />
+<books />
 </Person>

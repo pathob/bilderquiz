@@ -19,8 +19,43 @@
 <XML_Serializer_Tag>Hochschullehrer</XML_Serializer_Tag>
 <XML_Serializer_Tag>Filmarchitekt</XML_Serializer_Tag>
 </professionOrOccupation>
-<artworks />
 <dbpResource>http://dbpedia.org/resource/Hans_Poelzig</dbpResource>
 <abstract>Hans Poelzig (* 30. April 1869 in Berlin; † 14. Juni 1936 ebenda) war ein deutscher Architekt, Maler, Bühnenbildner, Filmarchitekt und Hochschullehrer. Vor allem seine Beiträge zur expressionistischen Architektur und zur Neuen Sachlichkeit machten ihn bekannt.Seine Kinder waren der Architekt Peter Poelzig, die Schauspielerin Ruth Poelzig sowie aus seiner zweiten Ehe mit Marlene Moeschke-Poelzig der Schauspieler und Darmstädter Schauspieldirektor Jochen Poelzig.</abstract>
 <wikilink>http://en.wikipedia.org/wiki/Hans_Poelzig?oldid=598777600</wikilink>
+<artworks />
+<buildings>
+<XML_Serializer_Tag>
+<building>
+<type>uri</type>
+<value>http://dbpedia.org/resource/Haus_des_Rundfunks</value>
+</building>
+<name>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>Haus des Rundfunks</value>
+</name>
+<architect>
+<type>uri</type>
+<value>http://dbpedia.org/resource/Hans_Poelzig</value>
+</architect>
+<thumbnail>
+<type>uri</type>
+<value>http://commons.wikimedia.org/wiki/Special:FilePath/WestendMasurenalleeHausdesRundfunks.JPG?width=300</value>
+</thumbnail>
+<wikilink>
+<type>uri</type>
+<value>http://en.wikipedia.org/wiki/Haus_des_Rundfunks?oldid=551417834</value>
+</wikilink>
+<location>
+<type>uri</type>
+<value>http://dbpedia.org/resource/Berlin</value>
+</location>
+<abstract>
+<type>literal</type>
+<xml:lang>de</xml:lang>
+<value>Das Haus des Rundfunks ist ein architektonisch und rundfunkgeschichtlich bedeutendes Gebäude gegenüber dem Funkturm im Berliner Ortsteil Westend des Bezirks Charlottenburg-Wilmersdorf. Seine Hauptfassade erstreckt sich entlang der Masurenallee. Seit Mai 2003 ist es Sitz des Rundfunks Berlin-Brandenburg (RBB). Im Haus des Rundfunks werden die Hörfunkprogramme Radio Berlin 88,8, Kulturradio und Inforadio produziert. Die beiden Sendesäle dienen auch für öffentliche Konzerte.</value>
+</abstract>
+</XML_Serializer_Tag>
+</buildings>
+<books />
 </Person>

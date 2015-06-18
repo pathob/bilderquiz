@@ -19,8 +19,10 @@
 <XML_Serializer_Tag>Graphiker</XML_Serializer_Tag>
 <XML_Serializer_Tag>Kunstgewerbler</XML_Serializer_Tag>
 </professionOrOccupation>
-<artworks />
 <dbpResource>http://dbpedia.org/resource/Otto_Eckmann</dbpResource>
 <abstract>Otto Eckmann (* 19. November 1865 in Hamburg; † 11. Juni 1902 in Badenweiler) war ein deutscher Maler, Grafiker und Typograf.</abstract>
 <wikilink>http://en.wikipedia.org/wiki/Otto_Eckmann?oldid=601628413</wikilink>
+<artworks />
+<buildings />
+<books />
 </Person>

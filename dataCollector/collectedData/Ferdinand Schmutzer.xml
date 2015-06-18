@@ -17,8 +17,10 @@
 <XML_Serializer_Tag>Maler</XML_Serializer_Tag>
 <XML_Serializer_Tag>Radierer</XML_Serializer_Tag>
 </professionOrOccupation>
-<artworks />
 <dbpResource>http://dbpedia.org/resource/Ferdinand_Schmutzer</dbpResource>
 <abstract>Ferdinand Schmutzer (* 21. Mai 1870 in Wien; † 26. Oktober 1928 ebenda) war ein österreichischer Druckgrafiker, Fotograf und Porträtmaler.</abstract>
 <wikilink>http://en.wikipedia.org/wiki/Ferdinand_Schmutzer?oldid=591064271</wikilink>
+<artworks />
+<buildings />
+<books />
 </Person>

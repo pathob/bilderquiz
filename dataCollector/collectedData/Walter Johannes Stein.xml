@@ -1,0 +1,29 @@
+<Person>
+<name>Walter Johannes Stein</name>
+<variantName>
+<XML_Serializer_Tag>Walter J. Stein</XML_Serializer_Tag>
+<XML_Serializer_Tag>W. J. Stein</XML_Serializer_Tag>
+</variantName>
+<thumbnail>https://commons.wikimedia.org/wiki/Special:FilePath/Stein-Walter_Johannes.jpg?width=270</thumbnail>
+<birthEN>1891</birthEN>
+<birthDE>1891</birthDE>
+<deathEN>1957</deathEN>
+<deathDE>1957</deathDE>
+<birthPlace>
+<XML_Serializer_Tag>Wien</XML_Serializer_Tag>
+</birthPlace>
+<deathPlace />
+<professionOrOccupation>
+<XML_Serializer_Tag>Anthroposoph</XML_Serializer_Tag>
+<XML_Serializer_Tag>Heilpraktiker</XML_Serializer_Tag>
+<XML_Serializer_Tag>Schriftsteller</XML_Serializer_Tag>
+<XML_Serializer_Tag>Lehrer</XML_Serializer_Tag>
+<XML_Serializer_Tag>Waldorflehrer</XML_Serializer_Tag>
+</professionOrOccupation>
+<dbpResource>http://dbpedia.org/resource/Walter_Johannes_Stein</dbpResource>
+<abstract>Walter Johannes Stein (* 6. Februar 1891 in Wien; † 7. Juli 1957 in London) war ein österreichischer Anthroposoph, Waldorflehrer, Heilpraktiker und Schriftsteller.</abstract>
+<wikilink>http://en.wikipedia.org/wiki/Walter_Johannes_Stein?oldid=606792329</wikilink>
+<artworks />
+<buildings />
+<books />
+</Person>

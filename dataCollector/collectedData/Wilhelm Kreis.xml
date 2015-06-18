@@ -1,0 +1,28 @@
+<Person>
+<name>Wilhelm Kreis</name>
+<variantName>
+<XML_Serializer_Tag>Wilhelm Heinrich Kreis</XML_Serializer_Tag>
+<XML_Serializer_Tag>Wilhelm H. Kreis</XML_Serializer_Tag>
+</variantName>
+<thumbnail>https://commons.wikimedia.org/wiki/Special:FilePath/Bundesarchiv_Bild_146-1971-016-21,_Wilhelm_Kreis_erhält_das_Adlerschild.jpg?width=270</thumbnail>
+<birthEN>March 17, 1873</birthEN>
+<birthDE>17. März 1873</birthDE>
+<deathEN>August 13, 1955</deathEN>
+<deathDE>13. August 1955</deathDE>
+<birthPlace>
+<XML_Serializer_Tag>Eltville am Rhein</XML_Serializer_Tag>
+</birthPlace>
+<deathPlace>
+<XML_Serializer_Tag>Bad Honnef</XML_Serializer_Tag>
+</deathPlace>
+<professionOrOccupation>
+<XML_Serializer_Tag>Architekt</XML_Serializer_Tag>
+<XML_Serializer_Tag>Hochschullehrer</XML_Serializer_Tag>
+</professionOrOccupation>
+<dbpResource>http://dbpedia.org/resource/Wilhelm_Kreis</dbpResource>
+<abstract>Wilhelm Kreis (* 17. März 1873 in Eltville am Rhein; † 13. August 1955 in Bad Honnef; vollständiger Name: Wilhelm Heinrich Kreis) war ein bedeutender deutscher Architekt in der ersten Hälfte des 20. Jahrhunderts. Er wirkte als Hochschullehrer an den Kunstakademien in Düsseldorf und Dresden.</abstract>
+<wikilink>http://en.wikipedia.org/wiki/Wilhelm_Kreis?oldid=557009973</wikilink>
+<artworks />
+<buildings />
+<books />
+</Person>

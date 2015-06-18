@@ -1,0 +1,168 @@
+<Person>
+<name>Ann Radcliffe</name>
+<variantName>
+<XML_Serializer_Tag>Ann Ward Radcliffe</XML_Serializer_Tag>
+<XML_Serializer_Tag>Ann W. Radcliffe</XML_Serializer_Tag>
+<XML_Serializer_Tag>Anne Radcliffe</XML_Serializer_Tag>
+<XML_Serializer_Tag>Anne Rattcliffe</XML_Serializer_Tag>
+<XML_Serializer_Tag>Ann Rattcliffe</XML_Serializer_Tag>
+<XML_Serializer_Tag>Ann Ratcliffe</XML_Serializer_Tag>
+<XML_Serializer_Tag>Mary A. Radcliffe</XML_Serializer_Tag>
+<XML_Serializer_Tag>Mary Anne Radcliffe</XML_Serializer_Tag>
+<XML_Serializer_Tag>Mary-Anne Radcliffe</XML_Serializer_Tag>
+<XML_Serializer_Tag>Ann Radcliff</XML_Serializer_Tag>
+<XML_Serializer_Tag>Anne Radcliff</XML_Serializer_Tag>
+<XML_Serializer_Tag>Anna Radcliff</XML_Serializer_Tag>
+<XML_Serializer_Tag>Ann Ward</XML_Serializer_Tag>
+<XML_Serializer_Tag>Anna Radcliffe</XML_Serializer_Tag>
+<XML_Serializer_Tag>Anne Ward Radcliffe</XML_Serializer_Tag>
+<XML_Serializer_Tag>Ann Radclief</XML_Serializer_Tag>
+<XML_Serializer_Tag>Anna Radclif</XML_Serializer_Tag>
+</variantName>
+<thumbnail>https://commons.wikimedia.org/wiki/Special:FilePath/Ann_Radcliffe.jpg?width=270</thumbnail>
+<birthEN>1764</birthEN>
+<birthDE>1764</birthDE>
+<deathEN>1823</deathEN>
+<deathDE>1823</deathDE>
+<birthPlace />
+<deathPlace />
+<professionOrOccupation>
+<XML_Serializer_Tag>Schriftstellerin</XML_Serializer_Tag>
+</professionOrOccupation>
+<dbpResource>http://dbpedia.org/resource/Ann_Radcliffe</dbpResource>
+<abstract>Ann Radcliffe (* 9. Juli 1764 als Ann Ward in London, England; † 7. Februar 1823 ebenda) war eine englische Schriftstellerin, eine der populärsten Vertreterinnen des Schauerromans (Gothic Novel) ihrer Zeit.</abstract>
+<wikilink>http://en.wikipedia.org/wiki/Ann_Radcliffe?oldid=601859383</wikilink>
+<artworks />
+<buildings />
+<books>
+<XML_Serializer_Tag>
+<book>
+<type>uri</type>
+<value>http://dbpedia.org/resource/Gaston_de_Blondeville</value>
+</book>
+<author>
+<type>uri</type>
+<value>http://dbpedia.org/resource/Ann_Radcliffe</value>
+</author>
+<thumbnail>
+<type>uri</type>
+<value>http://commons.wikimedia.org/wiki/Special:FilePath/Gaston_de_Blondeville_1826.jpg?width=300</value>
+</thumbnail>
+<released>
+<type>typed-literal</type>
+<datatype>http://www.w3.org/2001/XMLSchema#integer</datatype>
+<value>1826</value>
+</released>
+<wikilink>
+<type>uri</type>
+<value>http://en.wikipedia.org/wiki/Gaston_de_Blondeville?oldid=544780489</value>
+</wikilink>
+</XML_Serializer_Tag>
+<XML_Serializer_Tag>
+<book>
+<type>uri</type>
+<value>http://dbpedia.org/resource/The_Mysteries_of_Udolpho</value>
+</book>
+<author>
+<type>uri</type>
+<value>http://dbpedia.org/resource/Ann_Radcliffe</value>
+</author>
+<thumbnail>
+<type>uri</type>
+<value>http://commons.wikimedia.org/wiki/Special:FilePath/MysteriesOfUdolpho_cp.jpeg?width=300</value>
+</thumbnail>
+<released>
+<type>typed-literal</type>
+<datatype>http://www.w3.org/2001/XMLSchema#date</datatype>
+<value>1794-05-08+02:00</value>
+</released>
+<wikilink>
+<type>uri</type>
+<value>http://en.wikipedia.org/wiki/The_Mysteries_of_Udolpho?oldid=576316629</value>
+</wikilink>
+</XML_Serializer_Tag>
+<XML_Serializer_Tag>
+<book>
+<type>uri</type>
+<value>http://dbpedia.org/resource/The_Italian_(novel)</value>
+</book>
+<author>
+<type>uri</type>
+<value>http://dbpedia.org/resource/Ann_Radcliffe</value>
+</author>
+<thumbnail>
+<type>uri</type>
+<value>http://commons.wikimedia.org/wiki/Special:FilePath/The_Italian_1st_ed.jpg?width=300</value>
+</thumbnail>
+<released>
+<type>typed-literal</type>
+<datatype>http://www.w3.org/2001/XMLSchema#integer</datatype>
+<value>1797</value>
+</released>
+<wikilink>
+<type>uri</type>
+<value>http://en.wikipedia.org/wiki/The_Italian_(novel)?oldid=593159231</value>
+</wikilink>
+</XML_Serializer_Tag>
+<XML_Serializer_Tag>
+<book>
+<type>uri</type>
+<value>http://dbpedia.org/resource/The_Castles_of_Athlin_and_Dunbayne</value>
+</book>
+<author>
+<type>uri</type>
+<value>http://dbpedia.org/resource/Ann_Radcliffe</value>
+</author>
+<thumbnail>
+<type>uri</type>
+<value>http://commons.wikimedia.org/wiki/Special:FilePath/The_Castles_of_Athlin_and_Dunbayne.jpg?width=300</value>
+</thumbnail>
+<released>
+<type>typed-literal</type>
+<datatype>http://www.w3.org/2001/XMLSchema#integer</datatype>
+<value>1789</value>
+</released>
+<wikilink>
+<type>uri</type>
+<value>http://en.wikipedia.org/wiki/The_Castles_of_Athlin_and_Dunbayne?oldid=596242071</value>
+</wikilink>
+</XML_Serializer_Tag>
+<XML_Serializer_Tag>
+<book>
+<type>uri</type>
+<value>http://dbpedia.org/resource/A_Sicilian_Romance</value>
+</book>
+<author>
+<type>uri</type>
+<value>http://dbpedia.org/resource/Ann_Radcliffe</value>
+</author>
+<thumbnail>
+<type>uri</type>
+<value>http://commons.wikimedia.org/wiki/Special:FilePath/A_Sicilian_Romance.jpg?width=300</value>
+</thumbnail>
+<published>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>Hookham and Carpenter, 1790</value>
+</published>
+<wikilink>
+<type>uri</type>
+<value>http://en.wikipedia.org/wiki/A_Sicilian_Romance?oldid=585349043</value>
+</wikilink>
+</XML_Serializer_Tag>
+<XML_Serializer_Tag>
+<book>
+<type>uri</type>
+<value>http://dbpedia.org/resource/The_Romance_of_the_Forest</value>
+</book>
+<author>
+<type>uri</type>
+<value>http://dbpedia.org/resource/Ann_Radcliffe</value>
+</author>
+<wikilink>
+<type>uri</type>
+<value>http://en.wikipedia.org/wiki/The_Romance_of_the_Forest?oldid=574781232</value>
+</wikilink>
+</XML_Serializer_Tag>
+</books>
+</Person>

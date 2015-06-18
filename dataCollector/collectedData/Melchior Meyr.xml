@@ -1,0 +1,22 @@
+<Person>
+<name>Melchior Meyr</name>
+<variantName />
+<thumbnail>https://commons.wikimedia.org/wiki/Special:FilePath/Grave_of_Melchior_Meyr_(1810-1871).jpg?width=270</thumbnail>
+<birthEN>June 28, 1810</birthEN>
+<birthDE>28. Juni 1810</birthDE>
+<deathEN>April 22, 1871</deathEN>
+<deathDE>22. April 1871</deathDE>
+<birthPlace />
+<deathPlace>
+<XML_Serializer_Tag>München</XML_Serializer_Tag>
+</deathPlace>
+<professionOrOccupation>
+<XML_Serializer_Tag>Schriftsteller</XML_Serializer_Tag>
+</professionOrOccupation>
+<dbpResource>http://dbpedia.org/resource/Melchior_Meyr</dbpResource>
+<abstract>Melchior Meyr (* 28. Juni 1810 in Ehringen; † 22. April 1871 in München) war ein deutscher Dichter und Philosoph.</abstract>
+<wikilink>http://en.wikipedia.org/wiki/Melchior_Meyr?oldid=544055467</wikilink>
+<artworks />
+<buildings />
+<books />
+</Person>

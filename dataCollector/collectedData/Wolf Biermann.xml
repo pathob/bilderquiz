@@ -1,0 +1,29 @@
+<Person>
+<name>Wolf Biermann</name>
+<variantName>
+<XML_Serializer_Tag>Karl-Wolf Biermann</XML_Serializer_Tag>
+<XML_Serializer_Tag>... Biermann-Ungeheuer</XML_Serializer_Tag>
+</variantName>
+<thumbnail>https://commons.wikimedia.org/wiki/Special:FilePath/Wolf_Biermann_Lauter_Lyrik.jpg?width=270</thumbnail>
+<birthEN>1936</birthEN>
+<birthDE>1936</birthDE>
+<deathEN />
+<deathDE />
+<birthPlace>
+<XML_Serializer_Tag>Hamburg</XML_Serializer_Tag>
+</birthPlace>
+<deathPlace />
+<professionOrOccupation>
+<XML_Serializer_Tag>Komponist</XML_Serializer_Tag>
+<XML_Serializer_Tag>Musiker</XML_Serializer_Tag>
+<XML_Serializer_Tag>Lyriker</XML_Serializer_Tag>
+<XML_Serializer_Tag>Schauspieler</XML_Serializer_Tag>
+<XML_Serializer_Tag>Sänger</XML_Serializer_Tag>
+</professionOrOccupation>
+<dbpResource>http://dbpedia.org/resource/Wolf_Biermann</dbpResource>
+<abstract>Karl Wolf Biermann (* 15. November 1936 in Hamburg) ist ein deutscher Liedermacher und Lyriker. Er siedelte 1953 in die DDR über und veröffentlichte ab 1960 erste Lieder und Gedichte. Gegen den scharfen Kritiker der DDR-Parteidiktatur wurde 1965 ein totales Auftritts- und Publikationsverbot verhängt. 1976 wurde er ausgebürgert und ging nach Hamburg zurück. Die Ausbürgerung Biermanns löste in Ost- und Westdeutschland große Proteste aus. Seine Gedichtbände zählen zu den meistverkauften der deutschen Nachkriegsliteratur. Biermann wurde mit zahlreichen großen Literaturpreisen Deutschlands geehrt.</abstract>
+<wikilink>http://en.wikipedia.org/wiki/Wolf_Biermann?oldid=604192975</wikilink>
+<artworks />
+<buildings />
+<books />
+</Person>

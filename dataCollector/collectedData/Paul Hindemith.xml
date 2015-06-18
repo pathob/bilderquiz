@@ -1,0 +1,36 @@
+<Person>
+<name>Paul Hindemith</name>
+<variantName>
+<XML_Serializer_Tag>Paulʹ Chindemit</XML_Serializer_Tag>
+<XML_Serializer_Tag>P. Hindemith</XML_Serializer_Tag>
+<XML_Serializer_Tag>... Hindemith</XML_Serializer_Tag>
+<XML_Serializer_Tag>Pauru Hindemitto</XML_Serializer_Tag>
+<XML_Serializer_Tag>Paul Merano</XML_Serializer_Tag>
+<XML_Serializer_Tag>P. Merano</XML_Serializer_Tag>
+</variantName>
+<thumbnail>https://commons.wikimedia.org/wiki/Special:FilePath/Paul_Hindemith_1923.jpg?width=270</thumbnail>
+<birthEN>November 16, 1895</birthEN>
+<birthDE>16. November 1895</birthDE>
+<deathEN>December 28, 1963</deathEN>
+<deathDE>28. Dezember 1963</deathDE>
+<birthPlace>
+<XML_Serializer_Tag>Hanau</XML_Serializer_Tag>
+</birthPlace>
+<deathPlace>
+<XML_Serializer_Tag>Frankfurt am Main</XML_Serializer_Tag>
+</deathPlace>
+<professionOrOccupation>
+<XML_Serializer_Tag>Musikwissenschaftler</XML_Serializer_Tag>
+<XML_Serializer_Tag>Künstler</XML_Serializer_Tag>
+<XML_Serializer_Tag>Pianist</XML_Serializer_Tag>
+<XML_Serializer_Tag>Bratschist</XML_Serializer_Tag>
+<XML_Serializer_Tag>Dirigent</XML_Serializer_Tag>
+<XML_Serializer_Tag>Komponist</XML_Serializer_Tag>
+</professionOrOccupation>
+<dbpResource>http://dbpedia.org/resource/Paul_Hindemith</dbpResource>
+<abstract>Paul Hindemith (* 16. November 1895 in Hanau; † 28. Dezember 1963 in Frankfurt am Main) war ein deutscher Komponist der Moderne (Neue Musik) und Bratschist.</abstract>
+<wikilink>http://en.wikipedia.org/wiki/Paul_Hindemith?oldid=606609421</wikilink>
+<artworks />
+<buildings />
+<books />
+</Person>

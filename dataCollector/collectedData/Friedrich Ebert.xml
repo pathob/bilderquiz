@@ -1,0 +1,34 @@
+<Person>
+<name>Friedrich Ebert</name>
+<variantName />
+<thumbnail>https://commons.wikimedia.org/wiki/Special:FilePath/Bundesarchiv_Bild_102-00015,_Friedrich_Ebert.jpg?width=270</thumbnail>
+<birthEN>February 4, 1871</birthEN>
+<birthDE>4. Februar 1871</birthDE>
+<deathEN>February 25, 1925</deathEN>
+<deathDE>25. Februar 1925</deathDE>
+<birthPlace>
+<XML_Serializer_Tag>Heidelberg</XML_Serializer_Tag>
+</birthPlace>
+<deathPlace>
+<XML_Serializer_Tag>Berlin</XML_Serializer_Tag>
+</deathPlace>
+<professionOrOccupation>
+<XML_Serializer_Tag>Sozialdemokrat</XML_Serializer_Tag>
+<XML_Serializer_Tag>Parteivorsitzender</XML_Serializer_Tag>
+<XML_Serializer_Tag>Abgeordneter</XML_Serializer_Tag>
+<XML_Serializer_Tag>Sattler</XML_Serializer_Tag>
+<XML_Serializer_Tag>Gastwirt</XML_Serializer_Tag>
+<XML_Serializer_Tag>Redakteur</XML_Serializer_Tag>
+<XML_Serializer_Tag>Autor</XML_Serializer_Tag>
+<XML_Serializer_Tag>Politiker</XML_Serializer_Tag>
+<XML_Serializer_Tag>Parteisekretär</XML_Serializer_Tag>
+<XML_Serializer_Tag>Reichskanzler</XML_Serializer_Tag>
+<XML_Serializer_Tag>Reichspräsident</XML_Serializer_Tag>
+</professionOrOccupation>
+<dbpResource>http://dbpedia.org/resource/Friedrich_Ebert</dbpResource>
+<abstract>Friedrich Ebert (* 4. Februar 1871 in Heidelberg; † 28. Februar 1925 in Berlin) war ein deutscher Sozialdemokrat und Politiker. Er war seit 1913 Vorsitzender der Sozialdemokratischen Partei Deutschlands und amtierte von 1919 bis zu seinem Tode als erster Reichspräsident der Weimarer Republik.Nach dem Tod August Bebels wurde Ebert neben Hugo Haase zum Vorsitzenden der angesichts des drohenden Krieges zerstrittenen SPD gewählt. Während des Krieges vertrat er nachdrücklich und bis zum Schluss die Politik der „Vaterlandsverteidigung“ und des innenpolitischen Stillhaltens (Burgfriedenspolitik) gegen jene Sozialdemokraten, die diese Politik ablehnten. In der Novemberrevolution 1918 übernahmen seine Partei sowie die von ihr abgespaltene USPD die Regierung. Die Weimarer Nationalversammlung wählte Ebert am 11. Februar 1919 zum ersten Reichspräsidenten. In den Jahren 1919 bis 1923 ließ Ebert mehrere Aufstände von revolutionären Sozialisten mit Waffengewalt niederschlagen. Auch gegen Putschversuche von rechts ging er 1920 und 1923 entschieden vor. Ansonsten trat er als ein Politiker des Interessenausgleichs auf. Sein früher Tod mit 54 Jahren und die darauffolgende Wahl des monarchistisch gesinnten Paul von Hindenburg an die Staatsspitze stellen eine Zäsur in der Weimarer Republik dar.Kurz nach seinem Tod 1925 wurde die SPD-nahe und nach ihm benannte Friedrich-Ebert-Stiftung gegründet.</abstract>
+<wikilink>http://en.wikipedia.org/wiki/Friedrich_Ebert?oldid=605613433</wikilink>
+<artworks />
+<buildings />
+<books />
+</Person>

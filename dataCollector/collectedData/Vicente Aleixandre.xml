@@ -1,0 +1,25 @@
+<Person>
+<name>Vicente Aleixandre</name>
+<variantName>
+<XML_Serializer_Tag>Vicente Aleixandre y Merlo</XML_Serializer_Tag>
+<XML_Serializer_Tag>Vicente Alexandre y Merlo</XML_Serializer_Tag>
+<XML_Serializer_Tag>Vicente Alexandre</XML_Serializer_Tag>
+<XML_Serializer_Tag>V. Aleixandre</XML_Serializer_Tag>
+</variantName>
+<thumbnail>https://commons.wikimedia.org/wiki/Special:FilePath/Vicentealeixandre.jpg?width=270</thumbnail>
+<birthEN>April 26, 1898</birthEN>
+<birthDE>26. April 1898</birthDE>
+<deathEN>December 14, 1984</deathEN>
+<deathDE>14. Dezember 1984</deathDE>
+<birthPlace />
+<deathPlace />
+<professionOrOccupation>
+<XML_Serializer_Tag>Schriftsteller</XML_Serializer_Tag>
+</professionOrOccupation>
+<dbpResource>http://dbpedia.org/resource/Vicente_Aleixandre</dbpResource>
+<abstract>Vicente Aleixandre y Merlos (* 26. April 1898 in Sevilla; † 14. Dezember 1984 in Madrid) war ein spanischer Lyriker und Träger des Nobelpreises für Literatur 1977.</abstract>
+<wikilink>http://en.wikipedia.org/wiki/Vicente_Aleixandre?oldid=584000622</wikilink>
+<artworks />
+<buildings />
+<books />
+</Person>

@@ -25,8 +25,10 @@
 <XML_Serializer_Tag>Maler</XML_Serializer_Tag>
 <XML_Serializer_Tag>Schriftsteller</XML_Serializer_Tag>
 </professionOrOccupation>
-<artworks />
 <dbpResource>http://dbpedia.org/resource/Alfred_Kubin</dbpResource>
 <abstract>Alfred Leopold Isidor Kubin (* 10. April 1877 in Leitmeritz (Litoměřice), Böhmen; † 20. August 1959 in Zwickledt, Gemeinde Wernstein am Inn) war ein österreichischer Grafiker, Schriftsteller und Buchillustrator.</abstract>
 <wikilink>http://en.wikipedia.org/wiki/Alfred_Kubin?oldid=606176617</wikilink>
+<artworks />
+<buildings />
+<books />
 </Person>

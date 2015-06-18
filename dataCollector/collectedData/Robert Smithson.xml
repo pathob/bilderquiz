@@ -1,0 +1,50 @@
+<Person>
+<name>Robert Smithson</name>
+<variantName />
+<thumbnail>https://commons.wikimedia.org/wiki/Special:FilePath/Spiral-jetty-from-rozel-point.png?width=270</thumbnail>
+<birthEN>1938</birthEN>
+<birthDE>1938</birthDE>
+<deathEN>1973</deathEN>
+<deathDE>1973</deathDE>
+<birthPlace />
+<deathPlace />
+<professionOrOccupation>
+<XML_Serializer_Tag>Künstler</XML_Serializer_Tag>
+</professionOrOccupation>
+<dbpResource>http://dbpedia.org/resource/Robert_Smithson</dbpResource>
+<abstract>Robert Smithson (* 2. Januar 1938 in Passaic, New Jersey; † 20. Juli 1973 in New Mexico) war ein US-amerikanischer Maler und Land-Art-Künstler.</abstract>
+<wikilink>http://en.wikipedia.org/wiki/Robert_Smithson?oldid=605266881</wikilink>
+<artworks>
+<XML_Serializer_Tag>
+<artwork>
+<type>uri</type>
+<value>http://dbpedia.org/resource/Spiral_Jetty</value>
+</artwork>
+<thumbnail>
+<type>uri</type>
+<value>http://commons.wikimedia.org/wiki/Special:FilePath/Spiral-jetty-from-rozel-point.png?width=300</value>
+</thumbnail>
+<name>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>Spiral Jetty</value>
+</name>
+<abstract>
+<type>literal</type>
+<xml:lang>de</xml:lang>
+<value>Die Spiral Jetty (Spiral-Mole) ist eine riesige für eine bestimmte Zeit erbaute Spirale. Das Naturkunstwerk wurde 1970 von Robert Smithson in der Wüste von Utah am Rande des Großen Salzsees mit Hilfe von schwerem Gerät erbaut. Das Kunstwerk ist nur schwer zugänglich. Ganz besonders ist Spiral Jetty vom temporären Aspekt geprägt: Die Spirale ist Wind und Wetter ausgesetzt und wird somit natürlich nach und nach zerstört. Aufgrund des Wüstenklimas geschieht dies jedoch relativ langsam, so dass die Spirale nach 40 Jahren noch deutlich erkennbar ist.Es handelt sich dabei um ein Projekt, das wohl der Land Art zugeschrieben werden kann. Die Abgelegenheit, die Verwendung von ausschließlich natureigenen Materialien und die Vergänglichkeit unterstreichen dies.Über die Spiral Jetty hat Robert Smithson selbst einen gleichnamigen Dokumentarfilm produziert. Dieser Film ist ebenfalls Teil des Werkes. Die Skulptur, der Film und die zugehörigen Skizzen und Texte sind als mehrschichtiges Gesamtkunstwerk zu verstehen.</value>
+</abstract>
+<wikilink>
+<type>uri</type>
+<value>http://en.wikipedia.org/wiki/Spiral_Jetty?oldid=606455941</value>
+</wikilink>
+<type>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>Sculpture</value>
+</type>
+</XML_Serializer_Tag>
+</artworks>
+<buildings />
+<books />
+</Person>

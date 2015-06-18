@@ -1,0 +1,27 @@
+<Person>
+<name>John Quincy Adams</name>
+<variantName>
+<XML_Serializer_Tag>Johann Adams</XML_Serializer_Tag>
+<XML_Serializer_Tag>John Q. Adams</XML_Serializer_Tag>
+</variantName>
+<thumbnail>https://commons.wikimedia.org/wiki/Special:FilePath/John_Quincy_Adams_Signatures.jpg?width=270</thumbnail>
+<birthEN>December 23, 1873</birthEN>
+<birthDE>23. Dezember 1873</birthDE>
+<deathEN>March 15, 1933</deathEN>
+<deathDE>15. März 1933</deathDE>
+<birthPlace>
+<XML_Serializer_Tag>Wien</XML_Serializer_Tag>
+</birthPlace>
+<deathPlace>
+<XML_Serializer_Tag>Wien</XML_Serializer_Tag>
+</deathPlace>
+<professionOrOccupation>
+<XML_Serializer_Tag>Künstler</XML_Serializer_Tag>
+</professionOrOccupation>
+<dbpResource>http://dbpedia.org/resource/John_Quincy_Adams</dbpResource>
+<abstract>John Quincy Adams (* 11. Juli 1767 in Braintree (heute: Quincy), Norfolk County, Massachusetts; † 23. Februar 1848 in Washington, D.C.) war Rechtsanwalt, amerikanischer Diplomat in Europa und der sechste Präsident der Vereinigten Staaten vom 4. März 1825 bis zum 4. März 1829. Sein Vater John Adams war der zweite Präsident des Landes. Er war Mitglied der bekannten Adams-Familie.</abstract>
+<wikilink>http://en.wikipedia.org/wiki/John_Quincy_Adams?oldid=606593534</wikilink>
+<artworks />
+<buildings />
+<books />
+</Person>

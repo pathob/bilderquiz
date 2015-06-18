@@ -17,8 +17,10 @@
 <professionOrOccupation>
 <XML_Serializer_Tag>Maler</XML_Serializer_Tag>
 </professionOrOccupation>
-<artworks />
 <dbpResource>http://dbpedia.org/resource/Alexandre_Calame</dbpResource>
 <abstract>Alexandre Calame (* 28. Mai 1810 in Arabie, Gemeinde Corsier-sur-Vevey, heute Teil von Vevey; † 19. März 1864 in Menton) war ein Schweizer Maler.</abstract>
 <wikilink>http://en.wikipedia.org/wiki/Alexandre_Calame?oldid=582326754</wikilink>
+<artworks />
+<buildings />
+<books />
 </Person>

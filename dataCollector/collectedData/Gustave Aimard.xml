@@ -1,0 +1,29 @@
+<Person>
+<name>Gustave Aimard</name>
+<variantName>
+<XML_Serializer_Tag>Gustav Aimard</XML_Serializer_Tag>
+<XML_Serializer_Tag>Olivier Gloux</XML_Serializer_Tag>
+<XML_Serializer_Tag>Gustav Amar</XML_Serializer_Tag>
+<XML_Serializer_Tag>Gustav Emar</XML_Serializer_Tag>
+</variantName>
+<thumbnail>https://commons.wikimedia.org/wiki/Special:FilePath/Aimard.jpg?width=270</thumbnail>
+<birthEN>September 13, 1818</birthEN>
+<birthDE>13. September 1818</birthDE>
+<deathEN>June 20, 1883</deathEN>
+<deathDE>20. Juni 1883</deathDE>
+<birthPlace>
+<XML_Serializer_Tag>Paris</XML_Serializer_Tag>
+</birthPlace>
+<deathPlace>
+<XML_Serializer_Tag>Paris</XML_Serializer_Tag>
+</deathPlace>
+<professionOrOccupation>
+<XML_Serializer_Tag>Schriftsteller</XML_Serializer_Tag>
+</professionOrOccupation>
+<dbpResource>http://dbpedia.org/resource/Gustave_Aimard</dbpResource>
+<abstract>Gustave Aimard (* 13. September 1818 in Paris; † 20. Juni 1883 ebenda) war ein französischer Autor von Abenteuerromanen, der ähnlich wie der Deutsche Karl May oder der Italiener Emilio Salgari durch seine Bücher das Bild der Indianer und des Wilden Westens maßgeblich beeinflusste.</abstract>
+<wikilink>http://en.wikipedia.org/wiki/Gustave_Aimard?oldid=606186960</wikilink>
+<artworks />
+<buildings />
+<books />
+</Person>

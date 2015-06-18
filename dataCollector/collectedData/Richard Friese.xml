@@ -19,8 +19,10 @@
 <XML_Serializer_Tag>Maler</XML_Serializer_Tag>
 <XML_Serializer_Tag>Zeichner</XML_Serializer_Tag>
 </professionOrOccupation>
-<artworks />
 <dbpResource>http://dbpedia.org/resource/Richard_Friese</dbpResource>
 <abstract>Richard Bernhard Louis Friese (* 15. Dezember 1854 in Gumbinnen; † 29. Juni 1918 in Bad Zwischenahn) war ein deutscher Tiermaler und Präparator.</abstract>
 <wikilink>http://en.wikipedia.org/wiki/Richard_Friese?oldid=586220156</wikilink>
+<artworks />
+<buildings />
+<books />
 </Person>

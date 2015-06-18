@@ -14,8 +14,10 @@
 <XML_Serializer_Tag>Künstler</XML_Serializer_Tag>
 <XML_Serializer_Tag>Maler</XML_Serializer_Tag>
 </professionOrOccupation>
-<artworks />
 <dbpResource>http://dbpedia.org/resource/Johann_Gottfried_Steffan</dbpResource>
 <abstract>Johann Gottfried Steffan (* 13. Dezember 1815 in Wädenswil; † 16. Juni 1905 in München) war einer der bedeutendsten Schweizer Landschaftsmaler des 19. Jahrhunderts. Er gehört zu den bekannten Vertretern der Münchner Schule.</abstract>
 <wikilink>http://en.wikipedia.org/wiki/Johann_Gottfried_Steffan?oldid=583491025</wikilink>
+<artworks />
+<buildings />
+<books />
 </Person>

@@ -1,0 +1,31 @@
+<Person>
+<name>Maximilian Ronge</name>
+<variantName>
+<XML_Serializer_Tag>Max Ronge</XML_Serializer_Tag>
+<XML_Serializer_Tag>Maksimilian Ronge</XML_Serializer_Tag>
+<XML_Serializer_Tag>Maks Ronge</XML_Serializer_Tag>
+</variantName>
+<thumbnail>https://en.wikipedia.org/wiki/Special:FilePath/Oberst_Maximilian_Ronge.jpg?width=270</thumbnail>
+<birthEN>1874</birthEN>
+<birthDE>1874</birthDE>
+<deathEN>1953</deathEN>
+<deathDE>1953</deathDE>
+<birthPlace>
+<XML_Serializer_Tag>Wien</XML_Serializer_Tag>
+</birthPlace>
+<deathPlace>
+<XML_Serializer_Tag>Wien</XML_Serializer_Tag>
+</deathPlace>
+<professionOrOccupation>
+<XML_Serializer_Tag>Offizier</XML_Serializer_Tag>
+<XML_Serializer_Tag>Oberst</XML_Serializer_Tag>
+<XML_Serializer_Tag>Spion</XML_Serializer_Tag>
+<XML_Serializer_Tag>Autor</XML_Serializer_Tag>
+</professionOrOccupation>
+<dbpResource>http://dbpedia.org/resource/Maximilian_Ronge</dbpResource>
+<abstract>Oberst Maximilian Ronge (* 9. November 1874 in Wien; † 10. September 1953 ebenda) war der letzte Chef des Evidenzbüros, des Militärgeheimdienstes der k.u.k. Monarchie.</abstract>
+<wikilink>http://en.wikipedia.org/wiki/Maximilian_Ronge?oldid=603619272</wikilink>
+<artworks />
+<buildings />
+<books />
+</Person>

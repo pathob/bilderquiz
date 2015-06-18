@@ -1,0 +1,56 @@
+<Person>
+<name>Peter Stamm</name>
+<variantName>
+<XML_Serializer_Tag>Peter Štam</XML_Serializer_Tag>
+<XML_Serializer_Tag>Peter Štami</XML_Serializer_Tag>
+<XML_Serializer_Tag>Peter Štamm</XML_Serializer_Tag>
+<XML_Serializer_Tag>Bi de Shi ta mu</XML_Serializer_Tag>
+<XML_Serializer_Tag>Bide-Shitamu</XML_Serializer_Tag>
+<XML_Serializer_Tag>Bide Shitamu</XML_Serializer_Tag>
+<XML_Serializer_Tag>ペーター・シュタム</XML_Serializer_Tag>
+<XML_Serializer_Tag>彼得・施塔姆</XML_Serializer_Tag>
+<XML_Serializer_Tag>ペーター シュタム</XML_Serializer_Tag>
+<XML_Serializer_Tag>彼得 施塔姆</XML_Serializer_Tag>
+</variantName>
+<thumbnail>https://commons.wikimedia.org/wiki/Special:FilePath/Peter_Stamm_-_salon_du_livre_Genève_2012.jpg?width=270</thumbnail>
+<birthEN>1963</birthEN>
+<birthDE>1963</birthDE>
+<deathEN />
+<deathDE />
+<birthPlace>
+<XML_Serializer_Tag>Scherzingen</XML_Serializer_Tag>
+</birthPlace>
+<deathPlace />
+<professionOrOccupation>
+<XML_Serializer_Tag>Schriftsteller</XML_Serializer_Tag>
+<XML_Serializer_Tag>Dramatiker</XML_Serializer_Tag>
+<XML_Serializer_Tag>Hörspielautor</XML_Serializer_Tag>
+<XML_Serializer_Tag>Journalist</XML_Serializer_Tag>
+</professionOrOccupation>
+<dbpResource>http://dbpedia.org/resource/Peter_Stamm</dbpResource>
+<abstract>Peter Stamm (* 18. Januar 1963 in Scherzingen, Kanton Thurgau) ist ein Schweizer Schriftsteller.</abstract>
+<wikilink>http://en.wikipedia.org/wiki/Peter_Stamm?oldid=571324928</wikilink>
+<artworks />
+<buildings />
+<books>
+<XML_Serializer_Tag>
+<book>
+<type>uri</type>
+<value>http://dbpedia.org/resource/Agnes_(novel)</value>
+</book>
+<author>
+<type>uri</type>
+<value>http://dbpedia.org/resource/Peter_Stamm</value>
+</author>
+<wikilink>
+<type>uri</type>
+<value>http://en.wikipedia.org/wiki/Agnes_(novel)?oldid=596674513</value>
+</wikilink>
+<abstract>
+<type>literal</type>
+<xml:lang>de</xml:lang>
+<value>Agnes ist ein 1998 erschienener Roman von Peter Stamm.Er erzählt aus der personalen Perspektive des Erzählers die Liebesgeschichte zwischen dem namenlosen Ich-Erzähler und Agnes, einer jüngeren Physikerin. Der Roman ist gegliedert in 36 kurze Kapitel, die den Beginn, die Entwicklung und das Ende dieser Beziehung beschreiben und dabei die Themen Liebe und Tod, Nähe und Fremdheit, Freiheit und Verantwortung ansprechen.Der Roman gehört zur Pflichtlektüre für das Abitur 2013 an beruflichen und ab 2014 an allgemeinbildenden Gymnasien in Baden-Württemberg.</value>
+</abstract>
+</XML_Serializer_Tag>
+</books>
+</Person>

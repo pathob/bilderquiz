@@ -14,12 +14,15 @@
 <XML_Serializer_Tag>Maler</XML_Serializer_Tag>
 <XML_Serializer_Tag>Graphiker</XML_Serializer_Tag>
 </professionOrOccupation>
+<dbpResource>http://dbpedia.org/resource/Roy_Lichtenstein</dbpResource>
+<abstract>Roy Fox Lichtenstein (* 27. Oktober 1923 in Manhattan; † 29. September 1997 ebenda) war ein US-amerikanischer Lehrer und Maler der Pop Art. Neben Andy Warhol war er der wohl bekannteste Vertreter dieser Kunstrichtung. Der Durchbruch gelang ihm 1961 mit dem Bild Look Mickey (dt. Schau mal Micky), sein Stil wurde der industrielle Stil des gedruckten Comics. In seinen späteren Arbeiten orientierte Lichtenstein sich dagegen wieder an seinen expressionistischen und surrealen Wurzeln. Mit dem Kyoto-Preis wurde ihm 1995 eine der höchsten Auszeichnungen für Verdienste um Wissenschaft und Kultur verliehen.</abstract>
+<wikilink>http://en.wikipedia.org/wiki/Roy_Lichtenstein?oldid=606624208</wikilink>
 <artworks>
 <XML_Serializer_Tag>
-<painting>
+<artwork>
 <type>uri</type>
 <value>http://dbpedia.org/resource/Artist&apos;s_Studio%E2%80%94Look_Mickey</value>
-</painting>
+</artwork>
 <thumbnail>
 <type>uri</type>
 <value>http://en.wikipedia.org/wiki/Special:FilePath/Atelier_rouge_matisse_1.jpg?width=300</value>
@@ -38,12 +41,17 @@
 <type>uri</type>
 <value>http://en.wikipedia.org/wiki/Artist&apos;s_Studio—Look_Mickey?oldid=564612995</value>
 </wikilink>
+<type>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>oil, Magna, sand on canvas</value>
+</type>
 </XML_Serializer_Tag>
 <XML_Serializer_Tag>
-<painting>
+<artwork>
 <type>uri</type>
 <value>http://dbpedia.org/resource/Ten_Dollar_Bill_(Roy_Lichtenstein)</value>
-</painting>
+</artwork>
 <thumbnail>
 <type>uri</type>
 <value>http://commons.wikimedia.org/wiki/Special:FilePath/US_$10_1934_Note_Front.jpg?width=300</value>
@@ -62,12 +70,17 @@
 <type>uri</type>
 <value>http://en.wikipedia.org/wiki/Ten_Dollar_Bill_(Roy_Lichtenstein)?oldid=586400607</value>
 </wikilink>
+<type>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>Proto-Pop art</value>
+</type>
 </XML_Serializer_Tag>
 <XML_Serializer_Tag>
-<painting>
+<artwork>
 <type>uri</type>
 <value>http://dbpedia.org/resource/Bedroom_at_Arles</value>
-</painting>
+</artwork>
 <thumbnail>
 <type>uri</type>
 <value>http://commons.wikimedia.org/wiki/Special:FilePath/Vincent_Willem_van_Gogh_135.jpg?width=300</value>
@@ -86,12 +99,17 @@
 <type>uri</type>
 <value>http://en.wikipedia.org/wiki/Bedroom_at_Arles?oldid=572253309</value>
 </wikilink>
+<type>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>Oil and Magna on canvas</value>
+</type>
 </XML_Serializer_Tag>
 <XML_Serializer_Tag>
-<painting>
+<artwork>
 <type>uri</type>
 <value>http://dbpedia.org/resource/Portrait_of_Madame_C%C3%A9zanne</value>
-</painting>
+</artwork>
 <thumbnail>
 <type>uri</type>
 <value>http://en.wikipedia.org/wiki/Special:FilePath/Paul_Cezanne_Portrait_de_Madame_Cezanne.jpg?width=300</value>
@@ -110,12 +128,17 @@
 <type>uri</type>
 <value>http://en.wikipedia.org/wiki/Portrait_of_Madame_Cézanne?oldid=573333045</value>
 </wikilink>
+<type>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>Magna on canvas</value>
+</type>
 </XML_Serializer_Tag>
 <XML_Serializer_Tag>
-<painting>
+<artwork>
 <type>uri</type>
 <value>http://dbpedia.org/resource/I_Know...Brad</value>
-</painting>
+</artwork>
 <thumbnail>
 <type>uri</type>
 <value>http://en.wikipedia.org/wiki/Special:FilePath/Jean_Auguste_Dominique_Ingres_011.jpg?width=300</value>
@@ -134,12 +157,16 @@
 <type>uri</type>
 <value>http://en.wikipedia.org/wiki/I_Know...Brad?oldid=581904667</value>
 </wikilink>
+<type>
+<type>uri</type>
+<value>http://dbpedia.org/resource/Pop_art</value>
+</type>
 </XML_Serializer_Tag>
 <XML_Serializer_Tag>
-<painting>
+<artwork>
 <type>uri</type>
 <value>http://dbpedia.org/resource/Golf_Ball</value>
-</painting>
+</artwork>
 <thumbnail>
 <type>uri</type>
 <value>http://en.wikipedia.org/wiki/Special:FilePath/Composition_in_Black_and_White,_1917.jpg?width=300</value>
@@ -158,12 +185,16 @@
 <type>uri</type>
 <value>http://en.wikipedia.org/wiki/Golf_Ball?oldid=600160324</value>
 </wikilink>
+<type>
+<type>uri</type>
+<value>http://dbpedia.org/resource/Pop_art</value>
+</type>
 </XML_Serializer_Tag>
 <XML_Serializer_Tag>
-<painting>
+<artwork>
 <type>uri</type>
 <value>http://dbpedia.org/resource/Brushstrokes_(sculpture)</value>
-</painting>
+</artwork>
 <thumbnail>
 <type>uri</type>
 <value>http://commons.wikimedia.org/wiki/Special:FilePath/Portland_Art_Museum_Mark_Building_-_Oregon.JPG?width=300</value>
@@ -177,12 +208,17 @@
 <type>uri</type>
 <value>http://en.wikipedia.org/wiki/Brushstrokes_(sculpture)?oldid=588409549</value>
 </wikilink>
+<type>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>Sculpture</value>
+</type>
 </XML_Serializer_Tag>
 <XML_Serializer_Tag>
-<painting>
+<artwork>
 <type>uri</type>
 <value>http://dbpedia.org/resource/Takka_Takka_(Roy_Lichtenstein)</value>
-</painting>
+</artwork>
 <thumbnail>
 <type>uri</type>
 <value>http://commons.wikimedia.org/wiki/Special:FilePath/GuadLandingsLunga.jpg?width=300</value>
@@ -196,9 +232,12 @@
 <type>uri</type>
 <value>http://en.wikipedia.org/wiki/Takka_Takka_(Roy_Lichtenstein)?oldid=561852338</value>
 </wikilink>
+<type>
+<type>uri</type>
+<value>http://dbpedia.org/resource/Oil_painting</value>
+</type>
 </XML_Serializer_Tag>
 </artworks>
-<dbpResource>http://dbpedia.org/resource/Roy_Lichtenstein</dbpResource>
-<abstract>Roy Fox Lichtenstein (* 27. Oktober 1923 in Manhattan; † 29. September 1997 ebenda) war ein US-amerikanischer Lehrer und Maler der Pop Art. Neben Andy Warhol war er der wohl bekannteste Vertreter dieser Kunstrichtung. Der Durchbruch gelang ihm 1961 mit dem Bild Look Mickey (dt. Schau mal Micky), sein Stil wurde der industrielle Stil des gedruckten Comics. In seinen späteren Arbeiten orientierte Lichtenstein sich dagegen wieder an seinen expressionistischen und surrealen Wurzeln. Mit dem Kyoto-Preis wurde ihm 1995 eine der höchsten Auszeichnungen für Verdienste um Wissenschaft und Kultur verliehen.</abstract>
-<wikilink>http://en.wikipedia.org/wiki/Roy_Lichtenstein?oldid=606624208</wikilink>
+<buildings />
+<books />
 </Person>

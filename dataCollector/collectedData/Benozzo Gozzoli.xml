@@ -19,8 +19,10 @@
 <professionOrOccupation>
 <XML_Serializer_Tag>Maler</XML_Serializer_Tag>
 </professionOrOccupation>
-<artworks />
 <dbpResource>http://dbpedia.org/resource/Benozzo_Gozzoli</dbpResource>
 <abstract>Benozzo Gozzoli (* um 1420 in Florenz; † 4. Oktober 1497 in Pistoia; eigentlich Benozzo di Lese di Sandro) war ein italienischer Maler der Renaissance.</abstract>
 <wikilink>http://en.wikipedia.org/wiki/Benozzo_Gozzoli?oldid=602765278</wikilink>
+<artworks />
+<buildings />
+<books />
 </Person>

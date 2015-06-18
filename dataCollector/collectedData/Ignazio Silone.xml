@@ -1,0 +1,53 @@
+<Person>
+<name>Ignazio Silone</name>
+<variantName>
+<XML_Serializer_Tag>Īnyātsyū Sīlūna</XML_Serializer_Tag>
+<XML_Serializer_Tag>Secundo Tranquilli</XML_Serializer_Tag>
+<XML_Serializer_Tag>Secondo Tranquilli</XML_Serializer_Tag>
+<XML_Serializer_Tag>Secondino Tranquilli</XML_Serializer_Tag>
+</variantName>
+<thumbnail>https://commons.wikimedia.org/wiki/Special:FilePath/Casa_natìa_di_Ignazio_Silone.JPG?width=270</thumbnail>
+<birthEN>May 1, 1900</birthEN>
+<birthDE>1. Mai 1900</birthDE>
+<deathEN>August 22, 1978</deathEN>
+<deathDE>22. August 1978</deathDE>
+<birthPlace>
+<XML_Serializer_Tag>Pescina</XML_Serializer_Tag>
+</birthPlace>
+<deathPlace>
+<XML_Serializer_Tag>Genf</XML_Serializer_Tag>
+</deathPlace>
+<professionOrOccupation>
+<XML_Serializer_Tag>Schriftsteller</XML_Serializer_Tag>
+</professionOrOccupation>
+<dbpResource>http://dbpedia.org/resource/Ignazio_Silone</dbpResource>
+<abstract>Ignazio Silone (* 1. Mai 1900 in Pescina dei Marsi/Abruzzen; † 22. August 1978 in Genf; Geburtsname Secondino Tranquilli) war ein politisch engagierter italienischer Schriftsteller.</abstract>
+<wikilink>http://en.wikipedia.org/wiki/Ignazio_Silone?oldid=593022013</wikilink>
+<artworks />
+<buildings />
+<books>
+<XML_Serializer_Tag>
+<book>
+<type>uri</type>
+<value>http://dbpedia.org/resource/Fontamara</value>
+</book>
+<author>
+<type>uri</type>
+<value>http://dbpedia.org/resource/Ignazio_Silone</value>
+</author>
+<thumbnail>
+<type>uri</type>
+<value>http://en.wikipedia.org/wiki/Special:FilePath/IMG_0350Imperatore.jpg?width=300</value>
+</thumbnail>
+<wikilink>
+<type>uri</type>
+<value>http://en.wikipedia.org/wiki/Fontamara?oldid=604313274</value>
+</wikilink>
+<abstract>
+<type>literal</type>
+<xml:lang>de</xml:lang>
+<value>Fontamara (Originaltitel: Fontamara) ist ein Roman des italienischen Schriftstellers Ignazio Silone.Fontamara ist der Name eines fiktiven Dorfes in den Abruzzen und Ort der Handlung. Das Buch entstand 1930 im schweizerischen Exil und erschien 1933 als Übersetzung in der Schweiz. 1961 überarbeitete Silone den Text.Die deutsche Übersetzung dieser Ausgabe erschien 1962 bei Kiepenheuer &amp; Witsch.</value>
+</abstract>
+</XML_Serializer_Tag>
+</books>
+</Person>

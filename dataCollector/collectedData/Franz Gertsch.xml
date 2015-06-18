@@ -13,8 +13,10 @@
 <XML_Serializer_Tag>Maler</XML_Serializer_Tag>
 <XML_Serializer_Tag>Graphiker</XML_Serializer_Tag>
 </professionOrOccupation>
-<artworks />
 <dbpResource>http://dbpedia.org/resource/Franz_Gertsch</dbpResource>
 <abstract>Franz Gertsch (* 8. März 1930 in Mörigen) ist ein Schweizer Maler.</abstract>
 <wikilink>http://en.wikipedia.org/wiki/Franz_Gertsch?oldid=592427228</wikilink>
+<artworks />
+<buildings />
+<books />
 </Person>

@@ -13,8 +13,10 @@
 <professionOrOccupation>
 <XML_Serializer_Tag>Maler</XML_Serializer_Tag>
 </professionOrOccupation>
-<artworks />
 <dbpResource>http://dbpedia.org/resource/Rudolf_Hausner</dbpResource>
 <abstract>Rudolf Hausner (* 4. Dezember 1914 in Wien; † 25. Februar 1995 in Mödling, Niederösterreich) war ein österreichischer Maler, Grafiker und bedeutender Vertreter der Wiener Schule des Phantastischen Realismus. Er ist Vater der Malerin und Bühnenbildnerin Xenia Hausner und der Filmregisseurin Jessica Hausner.</abstract>
 <wikilink>http://en.wikipedia.org/wiki/Rudolf_Hausner?oldid=541198327</wikilink>
+<artworks />
+<buildings />
+<books />
 </Person>

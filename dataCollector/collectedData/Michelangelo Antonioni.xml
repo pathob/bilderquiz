@@ -21,8 +21,10 @@
 <XML_Serializer_Tag>Regisseur</XML_Serializer_Tag>
 <XML_Serializer_Tag>Drehbuchautor</XML_Serializer_Tag>
 </professionOrOccupation>
-<artworks />
 <dbpResource>http://dbpedia.org/resource/Michelangelo_Antonioni</dbpResource>
 <abstract>Michelangelo Antonioni (* 29. September 1912 in Ferrara, Italien; † 30. Juli 2007 in Rom) war ein italienischer Filmregisseur, Autor und Maler.</abstract>
 <wikilink>http://en.wikipedia.org/wiki/Michelangelo_Antonioni?oldid=602938790</wikilink>
+<artworks />
+<buildings />
+<books />
 </Person>

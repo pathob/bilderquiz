@@ -1,0 +1,58 @@
+<Person>
+<name>Klaus Mann</name>
+<variantName>
+<XML_Serializer_Tag>Klaus Heinrich Thomas Mann</XML_Serializer_Tag>
+<XML_Serializer_Tag>Klaus Man</XML_Serializer_Tag>
+<XML_Serializer_Tag>Kelaosi Man</XML_Serializer_Tag>
+<XML_Serializer_Tag>Kelaosi-Man</XML_Serializer_Tag>
+<XML_Serializer_Tag>Kurausu Man</XML_Serializer_Tag>
+<XML_Serializer_Tag>Vincenz Hofer</XML_Serializer_Tag>
+<XML_Serializer_Tag>Klāʾūs Mān</XML_Serializer_Tag>
+<XML_Serializer_Tag>Klaŭs Man</XML_Serializer_Tag>
+<XML_Serializer_Tag>Klaus Heinrich Thomas Mann</XML_Serializer_Tag>
+<XML_Serializer_Tag>클라우스 만</XML_Serializer_Tag>
+<XML_Serializer_Tag>קלאוס מאן</XML_Serializer_Tag>
+</variantName>
+<thumbnail>https://commons.wikimedia.org/wiki/Special:FilePath/Klaus_Mann.jpg?width=270</thumbnail>
+<birthEN>November 18, 1906</birthEN>
+<birthDE>18. November 1906</birthDE>
+<deathEN>May 22, 1949</deathEN>
+<deathDE>22. Mai 1949</deathDE>
+<birthPlace>
+<XML_Serializer_Tag>München</XML_Serializer_Tag>
+</birthPlace>
+<deathPlace>
+<XML_Serializer_Tag>Cannes</XML_Serializer_Tag>
+</deathPlace>
+<professionOrOccupation>
+<XML_Serializer_Tag>Journalist</XML_Serializer_Tag>
+<XML_Serializer_Tag>Theaterkritiker</XML_Serializer_Tag>
+<XML_Serializer_Tag>Schriftsteller</XML_Serializer_Tag>
+</professionOrOccupation>
+<dbpResource>http://dbpedia.org/resource/Klaus_Mann</dbpResource>
+<abstract>Klaus Heinrich Thomas Mann (* 18. November 1906 in München; † 21. Mai 1949 in Cannes, Frankreich) war ein deutschsprachiger Schriftsteller.Der Sohn von Thomas Mann begann seine literarische Laufbahn in der Zeit der Weimarer Republik als Außenseiter, da er in seinem frühen Werk Themen verarbeitete, die zur damaligen Zeit als Tabubruch galten. Nach seiner Emigration aus Deutschland im Jahr 1933 fand eine wesentliche Neuorientierung in der Thematik seiner Werke statt: Klaus Mann wurde zum kämpferischen Literaten gegen den Nationalsozialismus. Als Exilant nahm er 1943 die US-amerikanische Staatsbürgerschaft an. Die Neuentdeckung seines Werkes in Deutschland fand erst viele Jahre nach seinem Tod statt. Klaus Mann gilt heute als einer der wichtigsten Repräsentanten der deutschsprachigen Exilliteratur nach 1933.</abstract>
+<wikilink>http://en.wikipedia.org/wiki/Klaus_Mann?oldid=603227397</wikilink>
+<artworks />
+<buildings />
+<books>
+<XML_Serializer_Tag>
+<book>
+<type>uri</type>
+<value>http://dbpedia.org/resource/Mephisto_(novel)</value>
+</book>
+<author>
+<type>uri</type>
+<value>http://dbpedia.org/resource/Klaus_Mann</value>
+</author>
+<wikilink>
+<type>uri</type>
+<value>http://en.wikipedia.org/wiki/Mephisto_(novel)?oldid=598912259</value>
+</wikilink>
+<abstract>
+<type>literal</type>
+<xml:lang>de</xml:lang>
+<value>Mephisto – Roman einer Karriere ist der sechste Roman des Schriftstellers Klaus Mann, der 1936 im Exilverlag Querido in Amsterdam erschienen ist. Er wurde 1956 erstmals in Deutschland im Ostberliner Aufbau-Verlag verlegt. Der Roman, in dem der Schauspieler Gustaf Gründgens eine zentrale Rolle als die Romanfigur Hendrik Höfgen spielt, zählt neben dem Tschaikowsky-Roman Symphonie Pathétique und dem Emigranten-Roman Der Vulkan zu Klaus Manns drei bedeutendsten Romanen. Mephisto wird oft als Schlüsselroman gesehen, ist dies nach Aussage Klaus Manns allerdings nicht.</value>
+</abstract>
+</XML_Serializer_Tag>
+</books>
+</Person>

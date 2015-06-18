@@ -1,0 +1,26 @@
+<Person>
+<name>Leo Navratil</name>
+<variantName />
+<thumbnail>https://commons.wikimedia.org/wiki/Special:FilePath/Haus_der_Künstler_vom_Osten.jpg?width=270</thumbnail>
+<birthEN>July 3, 1921</birthEN>
+<birthDE>3. Juli 1921</birthDE>
+<deathEN>September 18, 2006</deathEN>
+<deathDE>18. September 2006</deathDE>
+<birthPlace>
+<XML_Serializer_Tag>Türnitz</XML_Serializer_Tag>
+</birthPlace>
+<deathPlace>
+<XML_Serializer_Tag>Wien</XML_Serializer_Tag>
+</deathPlace>
+<professionOrOccupation>
+<XML_Serializer_Tag>Arzt</XML_Serializer_Tag>
+<XML_Serializer_Tag>Psychiater</XML_Serializer_Tag>
+<XML_Serializer_Tag>Schriftsteller</XML_Serializer_Tag>
+</professionOrOccupation>
+<dbpResource>http://dbpedia.org/resource/Leo_Navratil</dbpResource>
+<abstract>Leo Navratil (* 3. Juli 1921 in Türnitz; † 18. September 2006 in Wien) war ein österreichischer Psychiater. Navratil hat sich um die Erforschung, Förderung und Würdigung der so genannten „zustandsgebundenen Kunst“ in den künstlerischen Ausdrucksformen der Patienten psychiatrischer Heilanstalten verdient gemacht, deren Werke häufig unter dem Begriff Art Brut subsumiert werden.</abstract>
+<wikilink>http://en.wikipedia.org/wiki/Leo_Navratil?oldid=543788849</wikilink>
+<artworks />
+<buildings />
+<books />
+</Person>

@@ -19,8 +19,10 @@
 <XML_Serializer_Tag>Bildhauer</XML_Serializer_Tag>
 <XML_Serializer_Tag>Maler</XML_Serializer_Tag>
 </professionOrOccupation>
-<artworks />
 <dbpResource>http://dbpedia.org/resource/Heinz_Mack</dbpResource>
 <abstract>Otto Heinz Mack (* 8. März 1931 in Lollar, Hessen), ist ein deutscher Künstler und Mitbegründer der international einflussreichen ZERO Gruppe. Bekannt geworden ist Mack durch seine experimentellen Lichtreliefs sowie seine Licht-Installationen in der Wüste, die zu den frühesten Beispielen der Land Art zählen. Er ist mehrfacher documenta-Teilnehmer und vertrat 1970 Deutschland auf der Biennale in Venedig.</abstract>
 <wikilink>http://en.wikipedia.org/wiki/Heinz_Mack?oldid=596346477</wikilink>
+<artworks />
+<buildings />
+<books />
 </Person>

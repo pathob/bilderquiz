@@ -15,8 +15,10 @@
 <XML_Serializer_Tag>Maler</XML_Serializer_Tag>
 <XML_Serializer_Tag>Bildhauer</XML_Serializer_Tag>
 </professionOrOccupation>
-<artworks />
 <dbpResource>http://dbpedia.org/resource/August_von_Kreling</dbpResource>
 <abstract>August von Kreling (* 23. Mai 1819 in Osnabrück; † 22. April 1876 in Nürnberg) war ein deutscher Maler und Bildhauer.</abstract>
 <wikilink>http://en.wikipedia.org/wiki/August_von_Kreling?oldid=597186549</wikilink>
+<artworks />
+<buildings />
+<books />
 </Person>

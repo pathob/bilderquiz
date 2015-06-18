@@ -15,8 +15,10 @@
 <XML_Serializer_Tag>Maler</XML_Serializer_Tag>
 <XML_Serializer_Tag>Graphiker</XML_Serializer_Tag>
 </professionOrOccupation>
-<artworks />
 <dbpResource>http://dbpedia.org/resource/Adolf_Born</dbpResource>
 <abstract>Adolf Born (* 12. Juni 1930 in České Velenice) ist ein tschechischer Karikaturist und Grafiker. Er hat etwa 230 Bücher illustriert, bei 22 Zeichentrickfilmen und an 50 Film- bzw. Serienproduktionen mitgewirkt.</abstract>
 <wikilink>http://en.wikipedia.org/wiki/Adolf_Born?oldid=600915920</wikilink>
+<artworks />
+<buildings />
+<books />
 </Person>

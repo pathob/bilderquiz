@@ -1,0 +1,29 @@
+<Person>
+<name>Joseph Addison</name>
+<variantName>
+<XML_Serializer_Tag>Guiseppe Addison</XML_Serializer_Tag>
+<XML_Serializer_Tag>... Addison</XML_Serializer_Tag>
+<XML_Serializer_Tag>G. Addison</XML_Serializer_Tag>
+<XML_Serializer_Tag>... Adisson</XML_Serializer_Tag>
+<XML_Serializer_Tag>Joseph Addisson</XML_Serializer_Tag>
+<XML_Serializer_Tag>J. Addison</XML_Serializer_Tag>
+</variantName>
+<thumbnail>https://commons.wikimedia.org/wiki/Special:FilePath/Joseph_Addison_(1672-1719).jpg?width=270</thumbnail>
+<birthEN>May 1, 1672</birthEN>
+<birthDE>1. Mai 1672</birthDE>
+<deathEN>June 17, 1719</deathEN>
+<deathDE>17. Juni 1719</deathDE>
+<birthPlace />
+<deathPlace />
+<professionOrOccupation>
+<XML_Serializer_Tag>Politiker</XML_Serializer_Tag>
+<XML_Serializer_Tag>Schriftsteller</XML_Serializer_Tag>
+<XML_Serializer_Tag>Kritiker</XML_Serializer_Tag>
+</professionOrOccupation>
+<dbpResource>http://dbpedia.org/resource/Joseph_Addison</dbpResource>
+<abstract>Joseph Addison (* 1. Mai 1672 in Milston, Wiltshire; † 17. Juni 1719 in Kensington) war ein englischer Dichter, Politiker und Journalist in der Frühzeit der Aufklärung.</abstract>
+<wikilink>http://en.wikipedia.org/wiki/Joseph_Addison?oldid=599897340</wikilink>
+<artworks />
+<buildings />
+<books />
+</Person>

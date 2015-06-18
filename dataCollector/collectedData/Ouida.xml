@@ -1,0 +1,61 @@
+<Person>
+<name>Ouida</name>
+<variantName>
+<XML_Serializer_Tag>Marie Louise De la Ramée</XML_Serializer_Tag>
+<XML_Serializer_Tag>Marie Louise de La Ramée</XML_Serializer_Tag>
+<XML_Serializer_Tag>Marie Louise de la Ramée</XML_Serializer_Tag>
+<XML_Serializer_Tag>Louise De la Ramée</XML_Serializer_Tag>
+<XML_Serializer_Tag>Louise de La Ramée</XML_Serializer_Tag>
+<XML_Serializer_Tag>Louise de la Ramée</XML_Serializer_Tag>
+<XML_Serializer_Tag>Marie Louise DeLaRamée</XML_Serializer_Tag>
+<XML_Serializer_Tag>Marie Louise de LaRamée</XML_Serializer_Tag>
+<XML_Serializer_Tag>Louise DeLaRamée</XML_Serializer_Tag>
+<XML_Serializer_Tag>Louise de LaRamée</XML_Serializer_Tag>
+<XML_Serializer_Tag>Wīda</XML_Serializer_Tag>
+<XML_Serializer_Tag>Quida</XML_Serializer_Tag>
+<XML_Serializer_Tag>Louise Ramé</XML_Serializer_Tag>
+<XML_Serializer_Tag>Louisa de LaRamée</XML_Serializer_Tag>
+<XML_Serializer_Tag>Louisa de La Ramée</XML_Serializer_Tag>
+<XML_Serializer_Tag>ウィーダ</XML_Serializer_Tag>
+</variantName>
+<thumbnail>https://commons.wikimedia.org/wiki/Special:FilePath/Ouida_from_Cabinet_Card.jpg?width=270</thumbnail>
+<birthEN>1839</birthEN>
+<birthDE>1839</birthDE>
+<deathEN>1908</deathEN>
+<deathDE>1908</deathDE>
+<birthPlace />
+<deathPlace />
+<professionOrOccupation>
+<XML_Serializer_Tag>Schriftstellerin</XML_Serializer_Tag>
+</professionOrOccupation>
+<dbpResource>http://dbpedia.org/resource/Ouida</dbpResource>
+<abstract>Ouida, eigentlich Maria Louise [de la] Ramée, manchmal auch in der Schreibweise Oui´da, (* 1. Januar 1839 in Bury St Edmunds, Suffolk, England; † 25. Januar 1908 in Viareggio, Italien) war eine britische Schriftstellerin.Maria Louise Ramée war die Tochter eines französischen Vaters und einer englischen Mutter.In ihrer Jugend zog Ramée nach London, wo sie zunächst bei den Magazinen New Monthly und Bentley&apos;s Magazine arbeitete. Ihre erste Geschichte, Granville de Vigne (später neu veröffentlicht unter dem Titel Held in Bondage), erschien im Jahre 1860 bei New Monthly, gefolgt von weiteren Novellen.Under two flags und Moths gelten als ihre charakteristischsten Werke.1874 zog Ouida nach Florenz; ihre folgenden Werke waren daher zumeist italienisch geprägt. Gelegentlich war sie auch in Italien für Magazine tätig.Ouida hatte zwar eine nicht unerhebliche Summe durch den Verkauf ihrer Bücher verdient, dieses Geld aber ohne Rücklagenbildung ausgegeben, sodass sie zur Empfängerin einer kleinen Rente wurde und Anfang 1908 verarmt in Viareggio starb.Ihr Titel A Dog of Flanders wurde im Jahre 1975 unter dem japanischen Titel Flanders no Inu als 52-teilige Anime-Reihe verfilmt, in Deutschland bekannt unter dem Titel Niklaas, ein Junge aus Flandern.</abstract>
+<wikilink>http://en.wikipedia.org/wiki/Ouida?oldid=605999129</wikilink>
+<artworks />
+<buildings />
+<books>
+<XML_Serializer_Tag>
+<book>
+<type>uri</type>
+<value>http://dbpedia.org/resource/A_Dog_of_Flanders</value>
+</book>
+<author>
+<type>uri</type>
+<value>http://dbpedia.org/resource/Ouida</value>
+</author>
+<thumbnail>
+<type>uri</type>
+<value>http://en.wikipedia.org/wiki/Special:FilePath/NelloPatrache.jpg?width=300</value>
+</thumbnail>
+<published>
+<type>typed-literal</type>
+<datatype>http://www.w3.org/2001/XMLSchema#integer</datatype>
+<value>1872</value>
+</published>
+<wikilink>
+<type>uri</type>
+<value>http://en.wikipedia.org/wiki/A_Dog_of_Flanders?oldid=605806171</value>
+</wikilink>
+</XML_Serializer_Tag>
+</books>
+</Person>

@@ -1,0 +1,26 @@
+<Person>
+<name>Philippe Jaccottet</name>
+<variantName>
+<XML_Serializer_Tag>Philippe Jacottet</XML_Serializer_Tag>
+</variantName>
+<thumbnail>https://commons.wikimedia.org/wiki/Special:FilePath/Philippe_Jaccottet_(1991)_by_Erling_Mandelmann_-_2.jpg?width=270</thumbnail>
+<birthEN>1925</birthEN>
+<birthDE>1925</birthDE>
+<deathEN />
+<deathDE />
+<birthPlace>
+<XML_Serializer_Tag>Moudon</XML_Serializer_Tag>
+</birthPlace>
+<deathPlace />
+<professionOrOccupation>
+<XML_Serializer_Tag>Schriftsteller</XML_Serializer_Tag>
+<XML_Serializer_Tag>Essayist</XML_Serializer_Tag>
+<XML_Serializer_Tag>Übersetzer</XML_Serializer_Tag>
+</professionOrOccupation>
+<dbpResource>http://dbpedia.org/resource/Philippe_Jaccottet</dbpResource>
+<abstract>Philippe Jaccottet (* 30. Juni 1925 in Moudon, Schweiz) ist ein französisch schreibender Lyriker, Essayist und Übersetzer.</abstract>
+<wikilink>http://en.wikipedia.org/wiki/Philippe_Jaccottet?oldid=595575157</wikilink>
+<artworks />
+<buildings />
+<books />
+</Person>

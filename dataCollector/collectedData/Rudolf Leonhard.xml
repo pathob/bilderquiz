@@ -1,0 +1,31 @@
+<Person>
+<name>Rudolf Leonhard</name>
+<variantName>
+<XML_Serializer_Tag>Rudolph Leonhard</XML_Serializer_Tag>
+<XML_Serializer_Tag>Rudolf Lanzer</XML_Serializer_Tag>
+<XML_Serializer_Tag>Robert Lanzer</XML_Serializer_Tag>
+<XML_Serializer_Tag>Rudolf Leonhardt</XML_Serializer_Tag>
+</variantName>
+<thumbnail>https://commons.wikimedia.org/wiki/Special:FilePath/Bundesarchiv_Bild_183-12628-0001,_Berlin,_Tagung_deutscher_Verleger,_R._Leonhard.jpg?width=270</thumbnail>
+<birthEN>October 27, 1889</birthEN>
+<birthDE>27. Oktober 1889</birthDE>
+<deathEN>December 19, 1953</deathEN>
+<deathDE>19. Dezember 1953</deathDE>
+<birthPlace>
+<XML_Serializer_Tag>Lissa</XML_Serializer_Tag>
+</birthPlace>
+<deathPlace>
+<XML_Serializer_Tag>Berlin (Ost)</XML_Serializer_Tag>
+</deathPlace>
+<professionOrOccupation>
+<XML_Serializer_Tag>Schriftsteller</XML_Serializer_Tag>
+<XML_Serializer_Tag>Drehbuchautor</XML_Serializer_Tag>
+<XML_Serializer_Tag>Lektor</XML_Serializer_Tag>
+</professionOrOccupation>
+<dbpResource>http://dbpedia.org/resource/Rudolf_Leonhard</dbpResource>
+<abstract>Rudolf Leonhard (* 27. Oktober 1889 in Lissa (heute Leszno, Polen); † 19. Dezember 1953 in Ost-Berlin, DDR) (Alternativnamen: Raoul Lombat (nom de guerre), Roger Lehardon, Robert Lewandowski, Robert Lanzer) war ein deutscher Schriftsteller und Kommunist.</abstract>
+<wikilink>http://en.wikipedia.org/wiki/Rudolf_Leonhard?oldid=543106346</wikilink>
+<artworks />
+<buildings />
+<books />
+</Person>

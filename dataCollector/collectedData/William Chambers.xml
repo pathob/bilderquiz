@@ -1,0 +1,119 @@
+<Person>
+<name>William Chambers</name>
+<variantName>
+<XML_Serializer_Tag>Tan Chet-Qua</XML_Serializer_Tag>
+<XML_Serializer_Tag>Chet-Qua Tan</XML_Serializer_Tag>
+</variantName>
+<thumbnail>https://commons.wikimedia.org/wiki/Special:FilePath/Sir_William_Chambers.jpg?width=270</thumbnail>
+<birthEN>February 23, 1723</birthEN>
+<birthDE>23. Februar 1723</birthDE>
+<deathEN>March 10, 1796</deathEN>
+<deathDE>10. März 1796</deathDE>
+<birthPlace>
+<XML_Serializer_Tag>Göteborg</XML_Serializer_Tag>
+</birthPlace>
+<deathPlace>
+<XML_Serializer_Tag>London</XML_Serializer_Tag>
+</deathPlace>
+<professionOrOccupation>
+<XML_Serializer_Tag>Architekt</XML_Serializer_Tag>
+</professionOrOccupation>
+<dbpResource>http://dbpedia.org/resource/William_Chambers_(architect)</dbpResource>
+<abstract>Sir William Chambers RA (* um 1723 in Göteborg, damals Gotenburg; † 8. März 1796 in London) war ein schottischer Architekt.</abstract>
+<wikilink>http://en.wikipedia.org/wiki/William_Chambers_(architect)?oldid=603507676</wikilink>
+<artworks />
+<buildings>
+<XML_Serializer_Tag>
+<building>
+<type>uri</type>
+<value>http://dbpedia.org/resource/Albany_(London)</value>
+</building>
+<name>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>The Albany</value>
+</name>
+<architect>
+<type>uri</type>
+<value>http://dbpedia.org/resource/William_Chambers_(architect)</value>
+</architect>
+<thumbnail>
+<type>uri</type>
+<value>http://commons.wikimedia.org/wiki/Special:FilePath/Albany_London.jpg?width=300</value>
+</thumbnail>
+<wikilink>
+<type>uri</type>
+<value>http://en.wikipedia.org/wiki/Albany_(London)?oldid=596771214</value>
+</wikilink>
+<location>
+<type>uri</type>
+<value>http://dbpedia.org/resource/London</value>
+</location>
+<abstract>
+<type>literal</type>
+<xml:lang>de</xml:lang>
+<value>Albany ist eine der exklusivsten Wohnanlagen in der britischen Hauptstadt London. Sie liegt westlich des Piccadilly Circus an einer der Hauptarterien des Londoner Westends, Piccadilly, und zwar nördlich des Palastviertels um den St. James&apos;s Palace.</value>
+</abstract>
+</XML_Serializer_Tag>
+<XML_Serializer_Tag>
+<building>
+<type>uri</type>
+<value>http://dbpedia.org/resource/Somerset_House</value>
+</building>
+<name>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>Somerset House</value>
+</name>
+<architect>
+<type>uri</type>
+<value>http://dbpedia.org/resource/William_Chambers_(architect)</value>
+</architect>
+<thumbnail>
+<type>uri</type>
+<value>http://commons.wikimedia.org/wiki/Special:FilePath/The_courtyard_of_Somerset_House,_Strand,_London_-_geograph.org.uk_-_1601172.jpg?width=300</value>
+</thumbnail>
+<wikilink>
+<type>uri</type>
+<value>http://en.wikipedia.org/wiki/Somerset_House?oldid=586248512</value>
+</wikilink>
+<location>
+<type>uri</type>
+<value>http://dbpedia.org/resource/City_of_Westminster</value>
+</location>
+<abstract>
+<type>literal</type>
+<xml:lang>de</xml:lang>
+<value>Somerset House ist ein großes Gebäude, das sich auf der südlichen Seite von The Strand im Zentrum Londons befindet. Es überblickt die Themse in unmittelbarer Nähe zur Waterloo Bridge. Der zentrale Teil des klassizistischen Gebäudes, ein Projekt des Architekten Sir William Chambers, wurde 1776 und 1796 errichtet. Später wurde es um nördliche und südliche Flügel im viktorianischen Stil erweitert.Ein Gebäude gleichen Namens wurde bereits an gleicher Stelle zwei Jahrhunderte vorher gebaut. Der Ostflügel des Gebäudes ist Teil des King&apos;s College London.</value>
+</abstract>
+</XML_Serializer_Tag>
+<XML_Serializer_Tag>
+<building>
+<type>uri</type>
+<value>http://dbpedia.org/resource/Wick_House,_Richmond_Hill</value>
+</building>
+<name>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>Wick House</value>
+</name>
+<architect>
+<type>uri</type>
+<value>http://dbpedia.org/resource/William_Chambers_(architect)</value>
+</architect>
+<thumbnail>
+<type>uri</type>
+<value>http://commons.wikimedia.org/wiki/Special:FilePath/Wick_House,_Richmond_Hill.jpg?width=300</value>
+</thumbnail>
+<wikilink>
+<type>uri</type>
+<value>http://en.wikipedia.org/wiki/Wick_House,_Richmond_Hill?oldid=593313246</value>
+</wikilink>
+<location>
+<type>uri</type>
+<value>http://dbpedia.org/resource/Richmond_Hill,_London</value>
+</location>
+</XML_Serializer_Tag>
+</buildings>
+<books />
+</Person>

@@ -1,0 +1,72 @@
+<Person>
+<name>Siegfried Lenz</name>
+<variantName>
+<XML_Serializer_Tag>Sigfried Lenz</XML_Serializer_Tag>
+<XML_Serializer_Tag>Zigfrid Lenc</XML_Serializer_Tag>
+<XML_Serializer_Tag>Zîgfrîd Lenṣ</XML_Serializer_Tag>
+<XML_Serializer_Tag>Sīkprīṭ Leṉs</XML_Serializer_Tag>
+<XML_Serializer_Tag>Zygfrydas Lencas</XML_Serializer_Tag>
+<XML_Serializer_Tag>Ziegfried Lenz</XML_Serializer_Tag>
+<XML_Serializer_Tag>Zigfrid Lents</XML_Serializer_Tag>
+<XML_Serializer_Tag>Zinkphrint Lents</XML_Serializer_Tag>
+<XML_Serializer_Tag>Xi ge fu li de Lun ci</XML_Serializer_Tag>
+<XML_Serializer_Tag>Xigefulide-Lunci</XML_Serializer_Tag>
+<XML_Serializer_Tag>Xigefulide Lunci</XML_Serializer_Tag>
+<XML_Serializer_Tag>Qi ge fei Lan ci</XML_Serializer_Tag>
+<XML_Serializer_Tag>Qigefei-Lanci</XML_Serializer_Tag>
+<XML_Serializer_Tag>Qigefei Lanci</XML_Serializer_Tag>
+<XML_Serializer_Tag>지그프리트 렌츠</XML_Serializer_Tag>
+<XML_Serializer_Tag>זיגפריד לנץ</XML_Serializer_Tag>
+<XML_Serializer_Tag>西格弗里德・伦茨</XML_Serializer_Tag>
+<XML_Serializer_Tag>ジークフリート・レンツ</XML_Serializer_Tag>
+<XML_Serializer_Tag>西格弗里德 伦茨</XML_Serializer_Tag>
+<XML_Serializer_Tag>ジークフリート レンツ</XML_Serializer_Tag>
+</variantName>
+<thumbnail>https://commons.wikimedia.org/wiki/Special:FilePath/Bundesarchiv_B_145_Bild-F030757-0015,_Siegfried_Lenz.jpg?width=270</thumbnail>
+<birthEN>March 17, 1926</birthEN>
+<birthDE>17. März 1926</birthDE>
+<deathEN>October 7, 2014</deathEN>
+<deathDE>7. Oktober 2014</deathDE>
+<birthPlace>
+<XML_Serializer_Tag>Lyck</XML_Serializer_Tag>
+</birthPlace>
+<deathPlace>
+<XML_Serializer_Tag>Hamburg</XML_Serializer_Tag>
+</deathPlace>
+<professionOrOccupation>
+<XML_Serializer_Tag>Redakteur</XML_Serializer_Tag>
+<XML_Serializer_Tag>Schriftsteller</XML_Serializer_Tag>
+<XML_Serializer_Tag>Drehbuchautor</XML_Serializer_Tag>
+</professionOrOccupation>
+<dbpResource>http://dbpedia.org/resource/Siegfried_Lenz</dbpResource>
+<abstract>Siegfried Lenz (* 17. März 1926 in Lyck, Ostpreußen) ist ein deutscher Schriftsteller und einer der bekanntesten deutschsprachigen Erzähler der Nachkriegs- und Gegenwartsliteratur.</abstract>
+<wikilink>http://en.wikipedia.org/wiki/Siegfried_Lenz?oldid=583369781</wikilink>
+<artworks />
+<buildings />
+<books>
+<XML_Serializer_Tag>
+<book>
+<type>uri</type>
+<value>http://dbpedia.org/resource/The_German_Lesson</value>
+</book>
+<author>
+<type>uri</type>
+<value>http://dbpedia.org/resource/Siegfried_Lenz</value>
+</author>
+<released>
+<type>typed-literal</type>
+<datatype>http://www.w3.org/2001/XMLSchema#integer</datatype>
+<value>1968</value>
+</released>
+<wikilink>
+<type>uri</type>
+<value>http://en.wikipedia.org/wiki/The_German_Lesson?oldid=602725398</value>
+</wikilink>
+<abstract>
+<type>literal</type>
+<xml:lang>de</xml:lang>
+<value>Der Roman Deutschstunde von Siegfried Lenz erschien 1968. Lenz bringt in diesem Werk das zentrale Thema der deutschen Nachkriegsliteratur auf den Punkt: Die Verquickung von Schuld und Pflicht in der Zeit des Nationalsozialismus. Die oft gehörte Entschuldigung, man habe ja nur „seine Pflicht getan“, wird hier kritisch durchleuchtet.Formal ist der Roman durch zwei verschiedene Zeitebenen strukturiert: Die erste Ebene ist die Gegenwart des Ich-Erzählers Siggi Jepsen, der sich in einer Anstalt für schwer erziehbare Jugendliche befindet; die zweite Ebene ist Siggis „Aufsatz“, in dem er in Rückblenden seine Geschichte erzählt. Hinzu kommen außerdem gelegentliche Perspektivewechsel durch psychologische Studien über Siggi, die von ihm gelesen und skeptisch kommentiert werden.</value>
+</abstract>
+</XML_Serializer_Tag>
+</books>
+</Person>

@@ -1,0 +1,224 @@
+<Person>
+<name>Henryk Sienkiewicz</name>
+<variantName>
+<XML_Serializer_Tag>Henryk Adam Aleksander Pius Sienkiewicz</XML_Serializer_Tag>
+<XML_Serializer_Tag>Litwos</XML_Serializer_Tag>
+<XML_Serializer_Tag>Heinrik Sienkiewicz</XML_Serializer_Tag>
+<XML_Serializer_Tag>Heinrich Sienkiewicz</XML_Serializer_Tag>
+<XML_Serializer_Tag>Henrik Sienkiewicz</XML_Serializer_Tag>
+<XML_Serializer_Tag>Henry Sienkiewicz</XML_Serializer_Tag>
+<XML_Serializer_Tag>Henri Sienkiewicz</XML_Serializer_Tag>
+<XML_Serializer_Tag>H. Sienkiewicz</XML_Serializer_Tag>
+<XML_Serializer_Tag>Hendrich Siȩkiewicz</XML_Serializer_Tag>
+<XML_Serializer_Tag>Enric Sienkiewicz</XML_Serializer_Tag>
+<XML_Serializer_Tag>Enrico Sienkiewicz</XML_Serializer_Tag>
+<XML_Serializer_Tag>Enrique Sienkiewicz</XML_Serializer_Tag>
+<XML_Serializer_Tag>Genrich Senkevič</XML_Serializer_Tag>
+<XML_Serializer_Tag>G. Senkevich</XML_Serializer_Tag>
+<XML_Serializer_Tag>Genrik Senkevich</XML_Serializer_Tag>
+<XML_Serializer_Tag>Genrikh Senkevich</XML_Serializer_Tag>
+<XML_Serializer_Tag>H. Senkìevich</XML_Serializer_Tag>
+<XML_Serializer_Tag>Hanrik Senkyeviç</XML_Serializer_Tag>
+<XML_Serializer_Tag>Henrik Senkyeviç</XML_Serializer_Tag>
+<XML_Serializer_Tag>Henrik Šenkewiṭš</XML_Serializer_Tag>
+<XML_Serializer_Tag>Henryk Shenkyebitchi</XML_Serializer_Tag>
+<XML_Serializer_Tag>Hsien-kò-wei-chih</XML_Serializer_Tag>
+<XML_Serializer_Tag>Henryk Adam Aleksander Pius Sienkiewicz</XML_Serializer_Tag>
+<XML_Serializer_Tag>Сенкевич, Генрик</XML_Serializer_Tag>
+<XML_Serializer_Tag>Хенрик Сенкевич</XML_Serializer_Tag>
+<XML_Serializer_Tag>Χένρικ Σιενκιέβιτς</XML_Serializer_Tag>
+</variantName>
+<thumbnail>https://commons.wikimedia.org/wiki/Special:FilePath/Henryk_Sienkiewicz.PNG?width=270</thumbnail>
+<birthEN>May 5, 1846</birthEN>
+<birthDE>5. Mai 1846</birthDE>
+<deathEN>November 15, 1916</deathEN>
+<deathDE>15. November 1916</deathDE>
+<birthPlace>
+<XML_Serializer_Tag>Wola Okrzejska, Russland (heute Polen)</XML_Serializer_Tag>
+</birthPlace>
+<deathPlace>
+<XML_Serializer_Tag>Vevey</XML_Serializer_Tag>
+</deathPlace>
+<professionOrOccupation>
+<XML_Serializer_Tag>Nobelpreisträger</XML_Serializer_Tag>
+<XML_Serializer_Tag>Schriftsteller</XML_Serializer_Tag>
+<XML_Serializer_Tag>Drehbuchautor</XML_Serializer_Tag>
+</professionOrOccupation>
+<dbpResource>http://dbpedia.org/resource/Henryk_Sienkiewicz</dbpResource>
+<abstract>Henryk Adam Aleksander Pius Sienkiewicz [ɕɛnˈkʲevʲit͡ʂ], Pseudonym: Litwos, (* 5. Mai 1846 in Wola Okrzejska, Woiwodschaft Lublin, Polen (damals Russisches Reich); † 15. November 1916 in Vevey, Schweiz) war ein polnischer Schriftsteller und Träger des Nobelpreises für Literatur.</abstract>
+<wikilink>http://en.wikipedia.org/wiki/Henryk_Sienkiewicz?oldid=605794182</wikilink>
+<artworks />
+<buildings />
+<books>
+<XML_Serializer_Tag>
+<book>
+<type>uri</type>
+<value>http://dbpedia.org/resource/The_Deluge_(novel)</value>
+</book>
+<author>
+<type>uri</type>
+<value>http://dbpedia.org/resource/Henryk_Sienkiewicz</value>
+</author>
+<thumbnail>
+<type>uri</type>
+<value>http://commons.wikimedia.org/wiki/Special:FilePath/Kmicicowa_kompania.jpg?width=300</value>
+</thumbnail>
+<released>
+<type>typed-literal</type>
+<datatype>http://www.w3.org/2001/XMLSchema#integer</datatype>
+<value>1886</value>
+</released>
+<wikilink>
+<type>uri</type>
+<value>http://en.wikipedia.org/wiki/The_Deluge_(novel)?oldid=573670993</value>
+</wikilink>
+<abstract>
+<type>literal</type>
+<xml:lang>de</xml:lang>
+<value>Sintflut (polnisch Potop) ist ein Historischer Roman des polnischen Schriftstellers Henryk Sienkiewicz aus dem Jahr 1886.</value>
+</abstract>
+</XML_Serializer_Tag>
+<XML_Serializer_Tag>
+<book>
+<type>uri</type>
+<value>http://dbpedia.org/resource/Quo_Vadis_(novel)</value>
+</book>
+<author>
+<type>uri</type>
+<value>http://dbpedia.org/resource/Henryk_Sienkiewicz</value>
+</author>
+<thumbnail>
+<type>uri</type>
+<value>http://commons.wikimedia.org/wiki/Special:FilePath/Quo_Vadis_1897_Edition.jpg?width=300</value>
+</thumbnail>
+<released>
+<type>typed-literal</type>
+<datatype>http://www.w3.org/2001/XMLSchema#integer</datatype>
+<value>1895</value>
+</released>
+<wikilink>
+<type>uri</type>
+<value>http://en.wikipedia.org/wiki/Quo_Vadis_(novel)?oldid=595256511</value>
+</wikilink>
+<abstract>
+<type>literal</type>
+<xml:lang>de</xml:lang>
+<value>Quo Vadis ist ein Roman des polnischen Schriftstellers Henryk Sienkiewicz, der die Anfänge des Christentums in Rom zur Zeit Neros beschreibt. Er wurde 1895 erstmals veröffentlicht. Inspiriert wurde Sienkiewicz von einer alten Legende über eine Begegnung des Apostels Petrus mit Jesus (siehe Quo vadis).</value>
+</abstract>
+</XML_Serializer_Tag>
+<XML_Serializer_Tag>
+<book>
+<type>uri</type>
+<value>http://dbpedia.org/resource/The_Knights_of_the_Cross</value>
+</book>
+<author>
+<type>uri</type>
+<value>http://dbpedia.org/resource/Henryk_Sienkiewicz</value>
+</author>
+<thumbnail>
+<type>uri</type>
+<value>http://commons.wikimedia.org/wiki/Special:FilePath/PL_Henryk_Sienkiewicz-Krzyżacy_0005.jpeg?width=300</value>
+</thumbnail>
+<released>
+<type>typed-literal</type>
+<datatype>http://www.w3.org/2001/XMLSchema#integer</datatype>
+<value>1900</value>
+</released>
+<wikilink>
+<type>uri</type>
+<value>http://en.wikipedia.org/wiki/The_Knights_of_the_Cross?oldid=599930573</value>
+</wikilink>
+<abstract>
+<type>literal</type>
+<xml:lang>de</xml:lang>
+<value>Die Kreuzritter (poln. &apos;Krzyżacy&apos; – wörtlich: „Kreuzträger“, im Sprachgebrauch: „Kreuzritter“) ist ein Roman des polnischen Schriftstellers Henryk Sienkiewicz. Er wurde 1900 erstmals veröffentlicht und seither in 25 Sprachen übersetzt.Durch die Teilungen Polens existierte seit über 100 Jahren kein polnischer Staat mehr, als Sienkiewicz den Roman über den Deutschen Orden des 14. Jahrhunderts verfasste, der 1410 in der Schlacht bei Tannenberg eine Niederlage gegen ein vereintes Heer aus Polen, Litauern, Weißrussen und Tataren erlitt.Die Bedeutung von Krzyżacy wird durch den Umstand beschrieben, dass es als erstes Buch in Polen nach 1945 gedruckt wurde, zur Erbauung der polnischen Bevölkerung, deren Bild der Deutschritter und der Deutschen allgemein durch dieses Werk ähnlich stark beeinflusst wurde wie bei den Deutschen das der Indianer durch Karl May, wenn auch in einer umgekehrten Weise.Im Jahre 1960 wurde der Roman in Polen von Aleksander Ford verfilmt.</value>
+</abstract>
+</XML_Serializer_Tag>
+<XML_Serializer_Tag>
+<book>
+<type>uri</type>
+<value>http://dbpedia.org/resource/Fire_in_the_Steppe</value>
+</book>
+<author>
+<type>uri</type>
+<value>http://dbpedia.org/resource/Henryk_Sienkiewicz</value>
+</author>
+<released>
+<type>typed-literal</type>
+<datatype>http://www.w3.org/2001/XMLSchema#integer</datatype>
+<value>1888</value>
+</released>
+<wikilink>
+<type>uri</type>
+<value>http://en.wikipedia.org/wiki/Fire_in_the_Steppe?oldid=596921848</value>
+</wikilink>
+<abstract>
+<type>literal</type>
+<xml:lang>de</xml:lang>
+<value>Pan Wołodyjowski ([pɑn wou̯odɨjowski], dt. auch Herr Wolodyjowski oder Der kleine Ritter) ist ein Historischer Roman des polnischen Schriftstellers Henryk Sienkiewicz aus dem Jahr 1888 und der dritte Teil seiner großen Trilogie, die aus den Werken Mit Feuer und Schwert (1884), Sintflut (1886) und diesem Buch besteht.</value>
+</abstract>
+</XML_Serializer_Tag>
+<XML_Serializer_Tag>
+<book>
+<type>uri</type>
+<value>http://dbpedia.org/resource/With_Fire_and_Sword</value>
+</book>
+<author>
+<type>uri</type>
+<value>http://dbpedia.org/resource/Henryk_Sienkiewicz</value>
+</author>
+<released>
+<type>typed-literal</type>
+<datatype>http://www.w3.org/2001/XMLSchema#integer</datatype>
+<value>1884</value>
+</released>
+<wikilink>
+<type>uri</type>
+<value>http://en.wikipedia.org/wiki/With_Fire_and_Sword?oldid=602060799</value>
+</wikilink>
+<abstract>
+<type>literal</type>
+<xml:lang>de</xml:lang>
+<value>Mit Feuer und Schwert (polnisch Ogniem i Mieczem) ist ein historischer Roman des polnischen Schriftstellers Henryk Sienkiewicz und der erste Teil einer Trilogie, die durch die Romane Sintflut (1886) und Herr Wołodyjowski (1888) fortgesetzt wird.</value>
+</abstract>
+</XML_Serializer_Tag>
+<XML_Serializer_Tag>
+<book>
+<type>uri</type>
+<value>http://dbpedia.org/resource/In_Desert_and_Wilderness</value>
+</book>
+<author>
+<type>uri</type>
+<value>http://dbpedia.org/resource/Henryk_Sienkiewicz</value>
+</author>
+<released>
+<type>typed-literal</type>
+<datatype>http://www.w3.org/2001/XMLSchema#integer</datatype>
+<value>1912</value>
+</released>
+<wikilink>
+<type>uri</type>
+<value>http://en.wikipedia.org/wiki/In_Desert_and_Wilderness?oldid=604377706</value>
+</wikilink>
+</XML_Serializer_Tag>
+<XML_Serializer_Tag>
+<book>
+<type>uri</type>
+<value>http://dbpedia.org/resource/On_the_Field_of_Glory</value>
+</book>
+<author>
+<type>uri</type>
+<value>http://dbpedia.org/resource/Henryk_Sienkiewicz</value>
+</author>
+<released>
+<type>typed-literal</type>
+<datatype>http://www.w3.org/2001/XMLSchema#integer</datatype>
+<value>1906</value>
+</released>
+<wikilink>
+<type>uri</type>
+<value>http://en.wikipedia.org/wiki/On_the_Field_of_Glory?oldid=596711197</value>
+</wikilink>
+</XML_Serializer_Tag>
+</books>
+</Person>

@@ -17,12 +17,49 @@
 <professionOrOccupation>
 <XML_Serializer_Tag>Maler</XML_Serializer_Tag>
 </professionOrOccupation>
+<dbpResource>http://dbpedia.org/resource/Gustav_Klimt</dbpResource>
+<abstract>Gustav Klimt (* 14. Juli 1862 in Baumgarten bei Wien, heute 14. Bezirk; † 6. Februar 1918 in Wien, 9. Bezirk) war ein bedeutender österreichischer Maler und einer der bekanntesten Vertreter des Wiener Jugendstils, auch Wiener Secession genannt.</abstract>
+<wikilink>http://en.wikipedia.org/wiki/Gustav_Klimt?oldid=606703266</wikilink>
 <artworks>
 <XML_Serializer_Tag>
-<painting>
+<artwork>
+<type>uri</type>
+<value>http://dbpedia.org/resource/Portrait_of_Adele_Bloch-Bauer_I</value>
+</artwork>
+<thumbnail>
+<type>uri</type>
+<value>http://commons.wikimedia.org/wiki/Special:FilePath/Gustav_Klimt_046.jpg?width=300</value>
+</thumbnail>
+<name>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>Portrait of Adele Bloch-Bauer I</value>
+</name>
+<year>
+<type>typed-literal</type>
+<datatype>http://www.w3.org/2001/XMLSchema#integer</datatype>
+<value>1907</value>
+</year>
+<abstract>
+<type>literal</type>
+<xml:lang>de</xml:lang>
+<value>Das Bildnis Adele Bloch-Bauer I, auch „Goldene Adele“ genannt, ist ein Gemälde des Malers Gustav Klimt (1862–1918). Das Bild gilt als eines der bedeutendsten Werke Klimts, wie auch des österreichischen Jugendstils (Wiener Secession) insgesamt. Im Zuge der Medienberichterstattung rund um die Rückgabe des Gemäldes an die Erben durch die Republik Österreich wurde sie mitunter als „Ikone“ der kulturellen Identität des Landes bezeichnet.Nach Pressemitteilungen wurde es 2006 für den Rekordpreis von 135 Millionen Dollar (106,7 Mio. Euro), dem bis dahin höchsten Preis, der je für ein Gemälde gezahlt wurde, von dem US-amerikanischen Unternehmer Ronald Lauder für die von ihm gegründete Neue Galerie in Manhattan (New York) erworben.</value>
+</abstract>
+<wikilink>
+<type>uri</type>
+<value>http://en.wikipedia.org/wiki/Portrait_of_Adele_Bloch-Bauer_I?oldid=605170963</value>
+</wikilink>
+<type>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>Oil, silver, and gold on canvas</value>
+</type>
+</XML_Serializer_Tag>
+<XML_Serializer_Tag>
+<artwork>
 <type>uri</type>
 <value>http://dbpedia.org/resource/Klimt_University_of_Vienna_Ceiling_Paintings</value>
-</painting>
+</artwork>
 <thumbnail>
 <type>uri</type>
 <value>http://commons.wikimedia.org/wiki/Special:FilePath/Klimt_hygeia.jpg?width=300</value>
@@ -48,39 +85,10 @@
 </wikilink>
 </XML_Serializer_Tag>
 <XML_Serializer_Tag>
-<painting>
-<type>uri</type>
-<value>http://dbpedia.org/resource/Portrait_of_Adele_Bloch-Bauer_I</value>
-</painting>
-<thumbnail>
-<type>uri</type>
-<value>http://commons.wikimedia.org/wiki/Special:FilePath/Gustav_Klimt_046.jpg?width=300</value>
-</thumbnail>
-<name>
-<type>literal</type>
-<xml:lang>en</xml:lang>
-<value>Portrait of Adele Bloch-Bauer I</value>
-</name>
-<year>
-<type>typed-literal</type>
-<datatype>http://www.w3.org/2001/XMLSchema#integer</datatype>
-<value>1907</value>
-</year>
-<abstract>
-<type>literal</type>
-<xml:lang>de</xml:lang>
-<value>Das Bildnis Adele Bloch-Bauer I, auch „Goldene Adele“ genannt, ist ein Gemälde des Malers Gustav Klimt (1862–1918). Das Bild gilt als eines der bedeutendsten Werke Klimts, wie auch des österreichischen Jugendstils (Wiener Secession) insgesamt. Im Zuge der Medienberichterstattung rund um die Rückgabe des Gemäldes an die Erben durch die Republik Österreich wurde sie mitunter als „Ikone“ der kulturellen Identität des Landes bezeichnet.Nach Pressemitteilungen wurde es 2006 für den Rekordpreis von 135 Millionen Dollar (106,7 Mio. Euro), dem bis dahin höchsten Preis, der je für ein Gemälde gezahlt wurde, von dem US-amerikanischen Unternehmer Ronald Lauder für die von ihm gegründete Neue Galerie in Manhattan (New York) erworben.</value>
-</abstract>
-<wikilink>
-<type>uri</type>
-<value>http://en.wikipedia.org/wiki/Portrait_of_Adele_Bloch-Bauer_I?oldid=605170963</value>
-</wikilink>
-</XML_Serializer_Tag>
-<XML_Serializer_Tag>
-<painting>
+<artwork>
 <type>uri</type>
 <value>http://dbpedia.org/resource/Beethoven_Frieze</value>
-</painting>
+</artwork>
 <thumbnail>
 <type>uri</type>
 <value>http://commons.wikimedia.org/wiki/Special:FilePath/Gustav_Klimt_014.jpg?width=300</value>
@@ -101,10 +109,10 @@
 </wikilink>
 </XML_Serializer_Tag>
 <XML_Serializer_Tag>
-<painting>
+<artwork>
 <type>uri</type>
 <value>http://dbpedia.org/resource/Birnbaum_(painting)</value>
-</painting>
+</artwork>
 <thumbnail>
 <type>uri</type>
 <value>http://commons.wikimedia.org/wiki/Special:FilePath/Pear_Tree.jpg?width=300</value>
@@ -123,12 +131,17 @@
 <type>uri</type>
 <value>http://en.wikipedia.org/wiki/Birnbaum_(painting)?oldid=576508282</value>
 </wikilink>
+<type>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>Oil and gold leaf on canvas</value>
+</type>
 </XML_Serializer_Tag>
 <XML_Serializer_Tag>
-<painting>
+<artwork>
 <type>uri</type>
 <value>http://dbpedia.org/resource/Judith_and_the_Head_of_Holofernes</value>
-</painting>
+</artwork>
 <thumbnail>
 <type>uri</type>
 <value>http://commons.wikimedia.org/wiki/Special:FilePath/Gustav_Klimt_039.jpg?width=300</value>
@@ -147,12 +160,16 @@
 <type>uri</type>
 <value>http://en.wikipedia.org/wiki/Judith_and_the_Head_of_Holofernes?oldid=591969300</value>
 </wikilink>
+<type>
+<type>uri</type>
+<value>http://dbpedia.org/resource/Oil_painting</value>
+</type>
 </XML_Serializer_Tag>
 <XML_Serializer_Tag>
-<painting>
+<artwork>
 <type>uri</type>
 <value>http://dbpedia.org/resource/Death_and_Life</value>
-</painting>
+</artwork>
 <thumbnail>
 <type>uri</type>
 <value>http://commons.wikimedia.org/wiki/Special:FilePath/Gustav_Klimt_-_Death_and_Life_-_Google_Art_Project.jpg?width=300</value>
@@ -171,12 +188,17 @@
 <type>uri</type>
 <value>http://en.wikipedia.org/wiki/Death_and_Life?oldid=587150506</value>
 </wikilink>
+<type>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>Oil on canvas</value>
+</type>
 </XML_Serializer_Tag>
 <XML_Serializer_Tag>
-<painting>
+<artwork>
 <type>uri</type>
 <value>http://dbpedia.org/resource/The_Tree_of_Life,_Stoclet_Frieze</value>
-</painting>
+</artwork>
 <thumbnail>
 <type>uri</type>
 <value>http://commons.wikimedia.org/wiki/Special:FilePath/Gustav_Klimt_032.jpg?width=300</value>
@@ -195,12 +217,17 @@
 <type>uri</type>
 <value>http://en.wikipedia.org/wiki/The_Tree_of_Life,_Stoclet_Frieze?oldid=605148893</value>
 </wikilink>
+<type>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>Oil on canvas</value>
+</type>
 </XML_Serializer_Tag>
 <XML_Serializer_Tag>
-<painting>
+<artwork>
 <type>uri</type>
 <value>http://dbpedia.org/resource/Adele_Bloch-Bauer_II</value>
-</painting>
+</artwork>
 <thumbnail>
 <type>uri</type>
 <value>http://commons.wikimedia.org/wiki/Special:FilePath/Gustav_Klimt_047.jpg?width=300</value>
@@ -219,12 +246,17 @@
 <type>uri</type>
 <value>http://en.wikipedia.org/wiki/Adele_Bloch-Bauer_II?oldid=586523453</value>
 </wikilink>
+<type>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>Oil on canvas</value>
+</type>
 </XML_Serializer_Tag>
 <XML_Serializer_Tag>
-<painting>
+<artwork>
 <type>uri</type>
 <value>http://dbpedia.org/resource/Dana%C3%AB_(Klimt_painting)</value>
-</painting>
+</artwork>
 <thumbnail>
 <type>uri</type>
 <value>http://commons.wikimedia.org/wiki/Special:FilePath/Gustav_Klimt_010.jpg?width=300</value>
@@ -240,7 +272,6 @@
 </wikilink>
 </XML_Serializer_Tag>
 </artworks>
-<dbpResource>http://dbpedia.org/resource/Gustav_Klimt</dbpResource>
-<abstract>Gustav Klimt (* 14. Juli 1862 in Baumgarten bei Wien, heute 14. Bezirk; † 6. Februar 1918 in Wien, 9. Bezirk) war ein bedeutender österreichischer Maler und einer der bekanntesten Vertreter des Wiener Jugendstils, auch Wiener Secession genannt.</abstract>
-<wikilink>http://en.wikipedia.org/wiki/Gustav_Klimt?oldid=606703266</wikilink>
+<buildings />
+<books />
 </Person>

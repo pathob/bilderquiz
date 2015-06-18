@@ -1,0 +1,32 @@
+<Person>
+<name>Heinrich von Treitschke</name>
+<variantName>
+<XML_Serializer_Tag>Heinrich Gotthard von Treitschke</XML_Serializer_Tag>
+<XML_Serializer_Tag>Heinrich v. Treitschke</XML_Serializer_Tag>
+<XML_Serializer_Tag>H. Treitschke</XML_Serializer_Tag>
+<XML_Serializer_Tag>Heinrich Gotthard von Treitschke</XML_Serializer_Tag>
+</variantName>
+<thumbnail>https://commons.wikimedia.org/wiki/Special:FilePath/Heinrich_von_Treitschke.jpg?width=270</thumbnail>
+<birthEN>September 15, 1834</birthEN>
+<birthDE>15. September 1834</birthDE>
+<deathEN>April 28, 1896</deathEN>
+<deathDE>28. April 1896</deathDE>
+<birthPlace>
+<XML_Serializer_Tag>Dresden</XML_Serializer_Tag>
+</birthPlace>
+<deathPlace>
+<XML_Serializer_Tag>Berlin</XML_Serializer_Tag>
+</deathPlace>
+<professionOrOccupation>
+<XML_Serializer_Tag>Politiker</XML_Serializer_Tag>
+<XML_Serializer_Tag>Historiker</XML_Serializer_Tag>
+<XML_Serializer_Tag>Geheimrat</XML_Serializer_Tag>
+<XML_Serializer_Tag>Schriftsteller</XML_Serializer_Tag>
+</professionOrOccupation>
+<dbpResource>http://dbpedia.org/resource/Heinrich_von_Treitschke</dbpResource>
+<abstract>Heinrich Gotthardt von Treitschke (* 15. September 1834 in Dresden; † 28. April 1896 in Berlin) war ein deutscher Historiker, politischer Publizist und Mitglied des Reichstags von 1871 bis 1884, zunächst als nationalliberaler Abgeordneter, seit 1879 ohne Parteizugehörigkeit.Mit einem 1879 veröffentlichen Aufsatz löste Treitschke den Berliner Antisemitismusstreit aus. Dieser Aufsatz enthält u. a. den Satz „Die Juden sind unser Unglück“, der später zum Schlagwort des nationalsozialistischen Hetzblattes Der Stürmer wurde.</abstract>
+<wikilink>http://en.wikipedia.org/wiki/Heinrich_von_Treitschke?oldid=606049809</wikilink>
+<artworks />
+<buildings />
+<books />
+</Person>

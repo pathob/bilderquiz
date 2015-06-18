@@ -1,0 +1,26 @@
+<Person>
+<name>Friederike Kempner</name>
+<variantName>
+<XML_Serializer_Tag>Friderike Kempner</XML_Serializer_Tag>
+</variantName>
+<thumbnail>https://commons.wikimedia.org/wiki/Special:FilePath/Friederike_Kempner.jpg?width=270</thumbnail>
+<birthEN>June 25, 1828</birthEN>
+<birthDE>25. Juni 1828</birthDE>
+<deathEN>February 23, 1904</deathEN>
+<deathDE>23. Februar 1904</deathDE>
+<birthPlace>
+<XML_Serializer_Tag>Opatow. Posen</XML_Serializer_Tag>
+</birthPlace>
+<deathPlace>
+<XML_Serializer_Tag>Reichsthal, Schlesien</XML_Serializer_Tag>
+</deathPlace>
+<professionOrOccupation>
+<XML_Serializer_Tag>Schriftstellerin</XML_Serializer_Tag>
+</professionOrOccupation>
+<dbpResource>http://dbpedia.org/resource/Friederike_Kempner</dbpResource>
+<abstract>Friederike Kempner (* 25. Juni 1828 in Opatów, Provinz Posen; † 23. Februar 1904 auf Gut Friederikenhof bei Reichthal, Schlesien) war eine deutsche Dichterin.</abstract>
+<wikilink>http://en.wikipedia.org/wiki/Friederike_Kempner?oldid=591531126</wikilink>
+<artworks />
+<buildings />
+<books />
+</Person>

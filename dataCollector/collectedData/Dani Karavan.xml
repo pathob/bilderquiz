@@ -19,8 +19,10 @@
 <XML_Serializer_Tag>Maler</XML_Serializer_Tag>
 <XML_Serializer_Tag>Landschaftsmaler</XML_Serializer_Tag>
 </professionOrOccupation>
-<artworks />
 <dbpResource>http://dbpedia.org/resource/Dani_Karavan</dbpResource>
 <abstract>Dani Karavan hebräisch ‏דני קרוון‎ (* 7. Dezember 1930 in Tel Aviv) ist ein international renommierter Bildhauer und Gestalter von großformatigen, begehbaren Kunstwerken, die zuweilen der Land Art zugerechnet werden.</abstract>
 <wikilink>http://en.wikipedia.org/wiki/Dani_Karavan?oldid=582799110</wikilink>
+<artworks />
+<buildings />
+<books />
 </Person>

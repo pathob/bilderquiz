@@ -39,8 +39,10 @@
 <XML_Serializer_Tag>Musiker</XML_Serializer_Tag>
 <XML_Serializer_Tag>Installationskünstler</XML_Serializer_Tag>
 </professionOrOccupation>
-<artworks />
 <dbpResource>http://dbpedia.org/resource/Dieter_Roth</dbpResource>
 <abstract>Karl-Dietrich Roth (* 21. April 1930 in Hannover; † 5. Juni 1998 in Basel) war ein Schweizer Dichter, Grafiker und intermedial arbeitender Aktions- und Objektkünstler deutscher Abstammung. Er gilt als Vertreter der Konkreten Poesie. Als Künstler signierte er zeitweise als Diter Rot, mit frei erfundenen anderen Namen und einfach als Dieter Roth.</abstract>
 <wikilink>http://en.wikipedia.org/wiki/Dieter_Roth?oldid=599233893</wikilink>
+<artworks />
+<buildings />
+<books />
 </Person>

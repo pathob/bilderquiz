@@ -1,0 +1,25 @@
+<Person>
+<name>Lothar Fischer</name>
+<variantName>
+<XML_Serializer_Tag>Rōtā Fisshā</XML_Serializer_Tag>
+</variantName>
+<thumbnail>https://commons.wikimedia.org/wiki/Special:FilePath/Fischer_3_reiter.jpg?width=270</thumbnail>
+<birthEN>November 8, 1933</birthEN>
+<birthDE>8. November 1933</birthDE>
+<deathEN>June 16, 2004</deathEN>
+<deathDE>16. Juni 2004</deathDE>
+<birthPlace>
+<XML_Serializer_Tag>Germersheim (Pfalz)</XML_Serializer_Tag>
+</birthPlace>
+<deathPlace />
+<professionOrOccupation>
+<XML_Serializer_Tag>Künstler</XML_Serializer_Tag>
+<XML_Serializer_Tag>Bildhauer</XML_Serializer_Tag>
+</professionOrOccupation>
+<dbpResource>http://dbpedia.org/resource/Lothar_Fischer</dbpResource>
+<abstract>Lothar Fischer (* 8. November 1933 in Germersheim; † 15. Juni 2004 in Baierbrunn bei München) war ein deutscher Bildhauer.</abstract>
+<wikilink>http://en.wikipedia.org/wiki/Lothar_Fischer?oldid=602540914</wikilink>
+<artworks />
+<buildings />
+<books />
+</Person>

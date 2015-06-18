@@ -1,0 +1,75 @@
+<Person>
+<name>Marcel Proust</name>
+<variantName>
+<XML_Serializer_Tag>Marsel&apos; Prust</XML_Serializer_Tag>
+<XML_Serializer_Tag>Valentin Louis Georges Eugène Marcel Proust</XML_Serializer_Tag>
+</variantName>
+<thumbnail>https://commons.wikimedia.org/wiki/Special:FilePath/Marcel_Proust_1900.jpg?width=270</thumbnail>
+<birthEN>July 10, 1871</birthEN>
+<birthDE>10. Juli 1871</birthDE>
+<deathEN>November 18, 1922</deathEN>
+<deathDE>18. November 1922</deathDE>
+<birthPlace>
+<XML_Serializer_Tag>Paris-Auteuil, Frankreich</XML_Serializer_Tag>
+</birthPlace>
+<deathPlace>
+<XML_Serializer_Tag>Paris</XML_Serializer_Tag>
+</deathPlace>
+<professionOrOccupation>
+<XML_Serializer_Tag>Schriftsteller</XML_Serializer_Tag>
+</professionOrOccupation>
+<dbpResource>http://dbpedia.org/resource/Marcel_Proust</dbpResource>
+<abstract>Valentin Louis Georges Eugène Marcel Proust [pru:st], (* 10. Juli 1871 in Paris; † 18. November 1922 ebenda) war ein französischer Schriftsteller und Kritiker.</abstract>
+<wikilink>http://en.wikipedia.org/wiki/Marcel_Proust?oldid=602307382</wikilink>
+<artworks />
+<buildings />
+<books>
+<XML_Serializer_Tag>
+<book>
+<type>uri</type>
+<value>http://dbpedia.org/resource/In_Search_of_Lost_Time</value>
+</book>
+<author>
+<type>uri</type>
+<value>http://dbpedia.org/resource/Marcel_Proust</value>
+</author>
+<thumbnail>
+<type>uri</type>
+<value>http://commons.wikimedia.org/wiki/Special:FilePath/MS_A_la_recherche_du_temps_perdu.jpg?width=300</value>
+</thumbnail>
+<released>
+<type>typed-literal</type>
+<datatype>http://www.w3.org/2001/XMLSchema#integer</datatype>
+<value>1913</value>
+</released>
+<wikilink>
+<type>uri</type>
+<value>http://en.wikipedia.org/wiki/In_Search_of_Lost_Time?oldid=605695632</value>
+</wikilink>
+<abstract>
+<type>literal</type>
+<xml:lang>de</xml:lang>
+<value>Der Roman Auf der Suche nach der verlorenen Zeit (frz. Originaltitel: À la recherche du temps perdu, geschrieben 1908/09 bis 1922 und erschienen zwischen 1913 und 1927) ist das Hauptwerk von Marcel Proust.Das Werk besteht aus sieben Bänden: In Swanns Welt Im Schatten junger Mädchenblüte Die Welt der Guermantes Sodom und Gomorra Die Gefangene Die Entflohene Die wiedergefundene Zeit</value>
+</abstract>
+</XML_Serializer_Tag>
+<XML_Serializer_Tag>
+<book>
+<type>uri</type>
+<value>http://dbpedia.org/resource/Albertine_disparue</value>
+</book>
+<author>
+<type>uri</type>
+<value>http://dbpedia.org/resource/Marcel_Proust</value>
+</author>
+<released>
+<type>typed-literal</type>
+<datatype>http://www.w3.org/2001/XMLSchema#integer</datatype>
+<value>1927</value>
+</released>
+<wikilink>
+<type>uri</type>
+<value>http://en.wikipedia.org/wiki/Albertine_disparue?oldid=585919283</value>
+</wikilink>
+</XML_Serializer_Tag>
+</books>
+</Person>

@@ -1,0 +1,33 @@
+<Person>
+<name>Raymond Aron</name>
+<variantName>
+<XML_Serializer_Tag>Raymond Claude Ferdinand Aron</XML_Serializer_Tag>
+<XML_Serializer_Tag>R. Aron</XML_Serializer_Tag>
+<XML_Serializer_Tag>Raimūn Ārūn</XML_Serializer_Tag>
+<XML_Serializer_Tag>Rajmon Aron</XML_Serializer_Tag>
+</variantName>
+<thumbnail>https://commons.wikimedia.org/wiki/Special:FilePath/Raymond_Aron_(1966)_by_Erling_Mandelmann.jpg?width=270</thumbnail>
+<birthEN>March 14, 1905</birthEN>
+<birthDE>14. März 1905</birthDE>
+<deathEN>October 17, 1983</deathEN>
+<deathDE>17. Oktober 1983</deathDE>
+<birthPlace>
+<XML_Serializer_Tag>Paris</XML_Serializer_Tag>
+</birthPlace>
+<deathPlace>
+<XML_Serializer_Tag>Paris</XML_Serializer_Tag>
+</deathPlace>
+<professionOrOccupation>
+<XML_Serializer_Tag>Soziologe</XML_Serializer_Tag>
+<XML_Serializer_Tag>Philosoph</XML_Serializer_Tag>
+<XML_Serializer_Tag>Politologe</XML_Serializer_Tag>
+<XML_Serializer_Tag>Autor</XML_Serializer_Tag>
+<XML_Serializer_Tag>Hochschullehrer</XML_Serializer_Tag>
+</professionOrOccupation>
+<dbpResource>http://dbpedia.org/resource/Raymond_Aron</dbpResource>
+<abstract>Raymond Aron (* 14. März 1905 in Paris; † 17. Oktober 1983 ebenda) war ein französischer Philosoph und Soziologe. Seine Hauptarbeitsgebiete waren die Geschichtsphilosophie und Erkenntnistheorie, die Kritik des Totalitarismus, die Auseinandersetzung mit den Internationalen Beziehungen, vor allem mit der Dialektik von Frieden und Krieg, und die Analyse der modernen Industriegesellschaften. Aron gilt als einer der bedeutendsten politischen Denker des 20. Jahrhunderts, als Vertreter eines politischen Liberalismus in der Tradition Montesquieus und Alexis de Tocquevilles.</abstract>
+<wikilink>http://en.wikipedia.org/wiki/Raymond_Aron?oldid=593600753</wikilink>
+<artworks />
+<buildings />
+<books />
+</Person>

@@ -1,0 +1,23 @@
+<Person>
+<name>Nicolas Bouvier</name>
+<variantName>
+<XML_Serializer_Tag>Nikola Bowvye</XML_Serializer_Tag>
+</variantName>
+<thumbnail>https://commons.wikimedia.org/wiki/Special:FilePath/Nicolas_Bouvier_(1987)_by_Erling_Mandelmann.jpg?width=270</thumbnail>
+<birthEN>1929</birthEN>
+<birthDE>1929</birthDE>
+<deathEN>1998</deathEN>
+<deathDE>1998</deathDE>
+<birthPlace />
+<deathPlace />
+<professionOrOccupation>
+<XML_Serializer_Tag>Schriftsteller</XML_Serializer_Tag>
+<XML_Serializer_Tag>Reiseschriftsteller</XML_Serializer_Tag>
+</professionOrOccupation>
+<dbpResource>http://dbpedia.org/resource/Nicolas_Bouvier</dbpResource>
+<abstract>Nicolas Bouvier (* 6. März 1929 in Lancy, Schweiz; † 17. Februar 1998 in Genf) war ein Schweizer Schriftsteller, Reiseautor, Fotograf und Journalist. Mit seinen Reisebeschreibungen wurde er zum Kultautor dieses Genres.</abstract>
+<wikilink>http://en.wikipedia.org/wiki/Nicolas_Bouvier?oldid=605320833</wikilink>
+<artworks />
+<buildings />
+<books />
+</Person>

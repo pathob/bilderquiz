@@ -1,0 +1,27 @@
+<Person>
+<name>Miranda July</name>
+<variantName />
+<thumbnail>https://commons.wikimedia.org/wiki/Special:FilePath/Miranda_July_by_Steve_Rhodes.png?width=270</thumbnail>
+<birthEN>1974</birthEN>
+<birthDE>1974</birthDE>
+<deathEN />
+<deathDE />
+<birthPlace>
+<XML_Serializer_Tag>Barre, Vt.</XML_Serializer_Tag>
+</birthPlace>
+<deathPlace />
+<professionOrOccupation>
+<XML_Serializer_Tag>Künstlerin</XML_Serializer_Tag>
+<XML_Serializer_Tag>Schriftstellerin</XML_Serializer_Tag>
+<XML_Serializer_Tag>Regisseurin</XML_Serializer_Tag>
+<XML_Serializer_Tag>Drehbuchautorin</XML_Serializer_Tag>
+<XML_Serializer_Tag>Schauspielerin</XML_Serializer_Tag>
+<XML_Serializer_Tag>Filmemacherin</XML_Serializer_Tag>
+</professionOrOccupation>
+<dbpResource>http://dbpedia.org/resource/Miranda_July</dbpResource>
+<abstract>Miranda July (* 15. Februar 1974 als Miranda Jennifer Grossinger in Barre, Washington County, Vermont) ist eine US-amerikanische Künstlerin, Regisseurin, Drehbuchschreiberin, Schauspielerin, Schriftstellerin und Musikerin.</abstract>
+<wikilink>http://en.wikipedia.org/wiki/Miranda_July?oldid=604568448</wikilink>
+<artworks />
+<buildings />
+<books />
+</Person>

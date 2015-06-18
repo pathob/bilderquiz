@@ -13,8 +13,10 @@
 <XML_Serializer_Tag>Maler</XML_Serializer_Tag>
 <XML_Serializer_Tag>Bildhauer</XML_Serializer_Tag>
 </professionOrOccupation>
-<artworks />
 <dbpResource>http://dbpedia.org/resource/Norbert_Kricke</dbpResource>
 <abstract>Norbert Kricke (* 30. November 1922 in Düsseldorf; † 28. Juni 1984 ebenda) war ein deutscher Bildhauer. Sein Hauptwerk sind die so genannten Raumplastiken aus metallischen Linien, die den Raum dynamisch durchfahren. Kricke wollte durch die Darstellung von Raum und Bewegung dem Menschen ein Gefühl von Freiheit vermitteln. Ab den ersten abstrakten Plastiken in den frühen 1950er Jahren bis zu seinem Tod ist er der Linie als Gestaltungsmittel treu geblieben.Er gehört zu den wichtigsten Vertretern der deutschen Nachkriegsmoderne.</abstract>
 <wikilink>http://en.wikipedia.org/wiki/Norbert_Kricke?oldid=574594393</wikilink>
+<artworks />
+<buildings />
+<books />
 </Person>

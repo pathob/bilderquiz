@@ -1,0 +1,27 @@
+<Person>
+<name>Harold Pinter</name>
+<variantName>
+<XML_Serializer_Tag>Haruld Bintar</XML_Serializer_Tag>
+</variantName>
+<thumbnail>https://commons.wikimedia.org/wiki/Special:FilePath/Harold-pinter-atp.jpg?width=270</thumbnail>
+<birthEN>October 10, 1930</birthEN>
+<birthDE>10. Oktober 1930</birthDE>
+<deathEN>December 24, 2008</deathEN>
+<deathDE>24. Dezember 2008</deathDE>
+<birthPlace>
+<XML_Serializer_Tag>London</XML_Serializer_Tag>
+</birthPlace>
+<deathPlace>
+<XML_Serializer_Tag>London</XML_Serializer_Tag>
+</deathPlace>
+<professionOrOccupation>
+<XML_Serializer_Tag>Schriftsteller</XML_Serializer_Tag>
+<XML_Serializer_Tag>Drehbuchautor</XML_Serializer_Tag>
+</professionOrOccupation>
+<dbpResource>http://dbpedia.org/resource/Harold_Pinter</dbpResource>
+<abstract>Harold Pinter, CH, CBE (* 10. Oktober 1930 in London; † 24. Dezember 2008 ebenda) war ein britischer Theaterautor, Regisseur und Träger des Literaturnobelpreises 2005. Er hat für Theater, Hörfunk, Fernsehen und Kinofilme geschrieben. Viele seiner frühen Werke werden zum Absurden Theater gezählt.</abstract>
+<wikilink>http://en.wikipedia.org/wiki/Harold_Pinter?oldid=606712651</wikilink>
+<artworks />
+<buildings />
+<books />
+</Person>

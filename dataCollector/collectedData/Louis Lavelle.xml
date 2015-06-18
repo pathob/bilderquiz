@@ -1,0 +1,26 @@
+<Person>
+<name>Louis Lavelle</name>
+<variantName>
+<XML_Serializer_Tag>L. Lavelle</XML_Serializer_Tag>
+</variantName>
+<thumbnail>https://commons.wikimedia.org/wiki/Special:FilePath/Louislavelle.jpg?width=270</thumbnail>
+<birthEN>1883</birthEN>
+<birthDE>1883</birthDE>
+<deathEN>1951</deathEN>
+<deathDE>1951</deathDE>
+<birthPlace>
+<XML_Serializer_Tag>Saint-Martin de Villeréal</XML_Serializer_Tag>
+</birthPlace>
+<deathPlace>
+<XML_Serializer_Tag>Saint-Martin de Villeréal</XML_Serializer_Tag>
+</deathPlace>
+<professionOrOccupation>
+<XML_Serializer_Tag>Philosoph</XML_Serializer_Tag>
+</professionOrOccupation>
+<dbpResource>http://dbpedia.org/resource/Louis_Lavelle</dbpResource>
+<abstract>Louis Lavelle (* 15. Juli 1883 in Saint-Martin-de-Villeréal, Département Lot-et-Garonne; † 1. September 1951 ebenda) war ein französischer Philosoph, der der Lebensphilosophie und der Existenzphilosophie zuzurechnen ist.Lavelle unterrichtete am Lycée Louis-le-Grand und war als Professor am College de France tätig. Er zählt mit seinem personalistischen Spiritualismus zu den Vertretern der „Neuen Metaphysik“. Für Lavelle ist der Mensch mit dem absoluten Geist als schöpferischer Wirklichkeit verbunden. Dies wird im aber nur in Momenten, in denen die Grenzen der Zeit aufgehoben sind, bewusst.</abstract>
+<wikilink>http://en.wikipedia.org/wiki/Louis_Lavelle?oldid=595907002</wikilink>
+<artworks />
+<buildings />
+<books />
+</Person>

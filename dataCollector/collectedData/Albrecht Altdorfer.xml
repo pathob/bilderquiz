@@ -1,0 +1,87 @@
+<Person>
+<name>Albrecht Altdorfer</name>
+<variantName>
+<XML_Serializer_Tag>A. Altdorfer</XML_Serializer_Tag>
+<XML_Serializer_Tag>... Altdorfer</XML_Serializer_Tag>
+<XML_Serializer_Tag>Albert Altorfer</XML_Serializer_Tag>
+</variantName>
+<thumbnail>https://commons.wikimedia.org/wiki/Special:FilePath/Altdorfer.jpg?width=270</thumbnail>
+<birthEN>1480</birthEN>
+<birthDE>1480</birthDE>
+<deathEN>1538</deathEN>
+<deathDE>1538</deathDE>
+<birthPlace />
+<deathPlace />
+<professionOrOccupation>
+<XML_Serializer_Tag>Künstler</XML_Serializer_Tag>
+</professionOrOccupation>
+<dbpResource>http://dbpedia.org/resource/Albrecht_Altdorfer</dbpResource>
+<abstract>Albrecht Altdorfer (* um 1480 vielleicht in Altdorf bei Landshut oder in Regensburg; † 12. Februar 1538 in Regensburg) war ein deutscher Maler, Kupferstecher und Baumeister der Renaissance. Er gilt neben Wolf Huber als Hauptmeister der sogenannten Donauschule, einer Stilbewegung entlang der Donau in Bayern und Österreich. Die Künstler der Kunstrichtung sind auch als „wilde Maler von der Donau“ bekannt. Zusammen mit Albrecht Dürer, als dessen Schüler er gilt, wird er als Begründer der Nürnberger Kleinmeister gesehen.</abstract>
+<wikilink>http://en.wikipedia.org/wiki/Albrecht_Altdorfer?oldid=594710108</wikilink>
+<artworks>
+<XML_Serializer_Tag>
+<artwork>
+<type>uri</type>
+<value>http://dbpedia.org/resource/The_Battle_of_Alexander_at_Issus</value>
+</artwork>
+<thumbnail>
+<type>uri</type>
+<value>http://commons.wikimedia.org/wiki/Special:FilePath/Albrecht_Altdorfer,_The_Battle_of_Alexander_at_Issus.jpg?width=300</value>
+</thumbnail>
+<name>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>The Battle of Alexander at Issus</value>
+</name>
+<year>
+<type>typed-literal</type>
+<datatype>http://www.w3.org/2001/XMLSchema#integer</datatype>
+<value>1529</value>
+</year>
+<abstract>
+<type>literal</type>
+<xml:lang>de</xml:lang>
+<value>Die Alexanderschlacht (Schlacht bei Issos) gilt als berühmtestes großes Gemälde des deutschen Malers Albrecht Altdorfer.</value>
+</abstract>
+<wikilink>
+<type>uri</type>
+<value>http://en.wikipedia.org/wiki/The_Battle_of_Alexander_at_Issus?oldid=600307409</value>
+</wikilink>
+<type>
+<type>uri</type>
+<value>http://dbpedia.org/resource/Panel_painting</value>
+</type>
+</XML_Serializer_Tag>
+<XML_Serializer_Tag>
+<artwork>
+<type>uri</type>
+<value>http://dbpedia.org/resource/Nativity_of_the_Virgin_(Altdorfer)</value>
+</artwork>
+<thumbnail>
+<type>uri</type>
+<value>http://commons.wikimedia.org/wiki/Special:FilePath/Albrecht_Altdorfer_012.jpg?width=300</value>
+</thumbnail>
+<name>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>Nativity of the Virgin</value>
+</name>
+<year>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>c. 1520</value>
+</year>
+<wikilink>
+<type>uri</type>
+<value>http://en.wikipedia.org/wiki/Nativity_of_the_Virgin_(Altdorfer)?oldid=585962357</value>
+</wikilink>
+<type>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>Oil on panel</value>
+</type>
+</XML_Serializer_Tag>
+</artworks>
+<buildings />
+<books />
+</Person>

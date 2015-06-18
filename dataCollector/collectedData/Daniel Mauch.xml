@@ -1,0 +1,27 @@
+<Person>
+<name>Daniel Mauch</name>
+<variantName>
+<XML_Serializer_Tag>Daniel Mauchius</XML_Serializer_Tag>
+<XML_Serializer_Tag>Daniel Moch</XML_Serializer_Tag>
+</variantName>
+<thumbnail>https://commons.wikimedia.org/wiki/Special:FilePath/Daniel_Mauch_Heilige_Sippe.jpg?width=270</thumbnail>
+<birthEN>1477</birthEN>
+<birthDE>1477</birthDE>
+<deathEN>November 16, 1540</deathEN>
+<deathDE>16. November 1540</deathDE>
+<birthPlace>
+<XML_Serializer_Tag>Ulm</XML_Serializer_Tag>
+</birthPlace>
+<deathPlace>
+<XML_Serializer_Tag>Lüttich</XML_Serializer_Tag>
+</deathPlace>
+<professionOrOccupation>
+<XML_Serializer_Tag>Bildhauer</XML_Serializer_Tag>
+</professionOrOccupation>
+<dbpResource>http://dbpedia.org/resource/Daniel_Mauch</dbpResource>
+<abstract>Daniel Mauch (* um 1477 Ulm; † 1540 in Lüttich) ist der letzte große Künstler in der langen Reihe der Ulmer Schule. Er arbeitete als Bildschnitzer in Ulm an verschiedenen spätgotischen Altarprojekten mit.</abstract>
+<wikilink>http://en.wikipedia.org/wiki/Daniel_Mauch?oldid=556582019</wikilink>
+<artworks />
+<buildings />
+<books />
+</Person>

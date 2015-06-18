@@ -1,0 +1,73 @@
+<Person>
+<name>Elizabeth Gilbert</name>
+<variantName>
+<XML_Serializer_Tag>Elisabeth Gilbert</XML_Serializer_Tag>
+</variantName>
+<thumbnail>https://commons.wikimedia.org/wiki/Special:FilePath/Amusing_Muses.jpg?width=270</thumbnail>
+<birthEN>1969</birthEN>
+<birthDE>1969</birthDE>
+<deathEN />
+<deathDE />
+<birthPlace>
+<XML_Serializer_Tag>Waterbury, Conn.</XML_Serializer_Tag>
+</birthPlace>
+<deathPlace />
+<professionOrOccupation>
+<XML_Serializer_Tag>Journalistin</XML_Serializer_Tag>
+<XML_Serializer_Tag>Schriftstellerin</XML_Serializer_Tag>
+</professionOrOccupation>
+<dbpResource>http://dbpedia.org/resource/Elizabeth_Gilbert</dbpResource>
+<abstract>Elizabeth Gilbert (* 18. Juli 1969 in Waterbury) ist eine US-amerikanische Schriftstellerin.Gilbert wuchs in Connecticut auf, wo ihre Eltern eine Weihnachtsbaumschule bewirtschaften. Ihre große Schwester Catherine Murdock ist ebenfalls Schriftstellerin. Sie machte einen Bachelor-Abschluss in Politikwissenschaften an der New York University.Für die Zeitschriften Spin und Gentlemen’s Quarterly (GQ) arbeitete sie als Kolumnistin. Der New Yorker Bar Coyote Ugly verhalf sie zu großer Aufmerksamkeit, als sie für GQ von ihren dortigen Erlebnissen als Barkeeperin berichtete. Ein Nachspiel war der Film Coyote Ugly.Ihre literarische Karriere begann 1993, als Esquire eine ihrer Kurzgeschichten abdruckte. 1997 erschien der Kurzgeschichtenband Pilgrims (deutsch: Elchgeflüster, 1999), der mit dem Pushcart Prize ausgezeichnet wurde. Es folgte der Roman Der Hummerkrieg (Stern Men, 2000). The Last American Man, ihre Biographie des Naturabenteurers Eustace Conway, schaffte es ins Finale des National Book Award von 2002. Ihr Reisebericht Eat Pray Love (Untertitel der deutschen Ausgabe: Eine Frau auf der Suche nach allem quer durch Italien, Indien und Indonesien) von 2006 verkaufte sich über sieben Millionen mal und wurde in über 30 Sprachen übersetzt. Das Buch wurde 2010 mit Julia Roberts als Elizabeth in der Hauptrolle verfilmt. Elizabeth Gilbert lebt, nachdem sie eine Zeit in Philadelphia wohnte, in Hudson Valley.</abstract>
+<wikilink>http://en.wikipedia.org/wiki/Elizabeth_Gilbert?oldid=606311583</wikilink>
+<artworks />
+<buildings />
+<books>
+<XML_Serializer_Tag>
+<book>
+<type>uri</type>
+<value>http://dbpedia.org/resource/Pilgrims_(short_story_collection)</value>
+</book>
+<author>
+<type>uri</type>
+<value>http://dbpedia.org/resource/Elizabeth_Gilbert</value>
+</author>
+<released>
+<type>typed-literal</type>
+<datatype>http://www.w3.org/2001/XMLSchema#integer</datatype>
+<value>1997</value>
+</released>
+<wikilink>
+<type>uri</type>
+<value>http://en.wikipedia.org/wiki/Pilgrims_(short_story_collection)?oldid=544903126</value>
+</wikilink>
+</XML_Serializer_Tag>
+<XML_Serializer_Tag>
+<book>
+<type>uri</type>
+<value>http://dbpedia.org/resource/Eat,_Pray,_Love</value>
+</book>
+<author>
+<type>uri</type>
+<value>http://dbpedia.org/resource/Elizabeth_Gilbert</value>
+</author>
+<wikilink>
+<type>uri</type>
+<value>http://en.wikipedia.org/wiki/Eat,_Pray,_Love?oldid=606292468</value>
+</wikilink>
+</XML_Serializer_Tag>
+<XML_Serializer_Tag>
+<book>
+<type>uri</type>
+<value>http://dbpedia.org/resource/Committed:_A_Skeptic_Makes_Peace_with_Marriage</value>
+</book>
+<author>
+<type>uri</type>
+<value>http://dbpedia.org/resource/Elizabeth_Gilbert</value>
+</author>
+<wikilink>
+<type>uri</type>
+<value>http://en.wikipedia.org/wiki/Committed:_A_Skeptic_Makes_Peace_with_Marriage?oldid=600890591</value>
+</wikilink>
+</XML_Serializer_Tag>
+</books>
+</Person>

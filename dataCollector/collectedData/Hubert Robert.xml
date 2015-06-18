@@ -14,8 +14,10 @@
 <professionOrOccupation>
 <XML_Serializer_Tag>Maler</XML_Serializer_Tag>
 </professionOrOccupation>
-<artworks />
 <dbpResource>http://dbpedia.org/resource/Hubert_Robert</dbpResource>
 <abstract>Hubert Robert (* 22. Mai 1733 in Paris; † 15. April 1808 ebenda) war ein französischer Maler.</abstract>
 <wikilink>http://en.wikipedia.org/wiki/Hubert_Robert?oldid=601733598</wikilink>
+<artworks />
+<buildings />
+<books />
 </Person>

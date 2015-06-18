@@ -1,0 +1,87 @@
+<Person>
+<name>Bruno Schmitz</name>
+<variantName />
+<thumbnail>https://commons.wikimedia.org/wiki/Special:FilePath/Battle_Of_The_Nations-Monument.jpg?width=270</thumbnail>
+<birthEN>November 21, 1858</birthEN>
+<birthDE>21. November 1858</birthDE>
+<deathEN>April 27, 1916</deathEN>
+<deathDE>27. April 1916</deathDE>
+<birthPlace />
+<deathPlace />
+<professionOrOccupation>
+<XML_Serializer_Tag>Architekt</XML_Serializer_Tag>
+</professionOrOccupation>
+<dbpResource>http://dbpedia.org/resource/Bruno_Schmitz</dbpResource>
+<abstract>Bruno Schmitz (* 21. November 1858 in Düsseldorf; † 27. April 1916 in Berlin) war ein deutscher Architekt. Er erlangte insbesondere durch seine repräsentativen Denkmalbauten weltweite Anerkennung.</abstract>
+<wikilink>http://en.wikipedia.org/wiki/Bruno_Schmitz?oldid=556207985</wikilink>
+<artworks>
+<XML_Serializer_Tag>
+<artwork>
+<type>uri</type>
+<value>http://dbpedia.org/resource/Soldiers_and_Sailors_Monument_(Delphi,_Indiana)</value>
+</artwork>
+<thumbnail>
+<type>uri</type>
+<value>http://commons.wikimedia.org/wiki/Special:FilePath/Carroll_County_Courthouse,_Indiana.jpg?width=300</value>
+</thumbnail>
+<name>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>Soldiers and Sailors Monument</value>
+</name>
+<year>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>-</value>
+</year>
+<wikilink>
+<type>uri</type>
+<value>http://en.wikipedia.org/wiki/Soldiers_and_Sailors_Monument_(Delphi,_Indiana)?oldid=602018288</value>
+</wikilink>
+<type>
+<type>uri</type>
+<value>http://dbpedia.org/resource/Bronze</value>
+</type>
+</XML_Serializer_Tag>
+</artworks>
+<buildings>
+<XML_Serializer_Tag>
+<building>
+<type>uri</type>
+<value>http://dbpedia.org/resource/Soldiers&apos;_and_Sailors&apos;_Monument_(Indianapolis)</value>
+</building>
+<name>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>State Soldiers and Sailors Monument</value>
+</name>
+<architect>
+<type>uri</type>
+<value>http://dbpedia.org/resource/Bruno_Schmitz</value>
+</architect>
+<thumbnail>
+<type>uri</type>
+<value>http://commons.wikimedia.org/wiki/Special:FilePath/IndySoldiersandSailers_02.jpg?width=300</value>
+</thumbnail>
+<wikilink>
+<type>uri</type>
+<value>http://en.wikipedia.org/wiki/Soldiers&apos;_and_Sailors&apos;_Monument_(Indianapolis)?oldid=605673500</value>
+</wikilink>
+<location>
+<type>uri</type>
+<value>http://dbpedia.org/resource/Indianapolis</value>
+</location>
+<built>
+<type>typed-literal</type>
+<datatype>http://www.w3.org/2001/XMLSchema#integer</datatype>
+<value>1888</value>
+</built>
+<abstract>
+<type>literal</type>
+<xml:lang>de</xml:lang>
+<value>Das Soldiers&apos; and Sailors&apos; Monument in Indianapolis, Indiana, USA, ist ein 87 Meter hohes neoklassizistisches Kriegerdenkmal, das von 1888 bis 1901 zu Ehren der gefallenen Hoosier errichtet wurde. Es soll an die Söhne Indianas erinnern, die von der Unabhängigkeitserklärung 1776 bis zum Ende des amerikanischen Bürgerkriegs, 1865 gefallen sind. Das Denkmal aus oolithischem Kalkstein und Bronze steht auf dem Monument Circle in der Mitte der Stadt, die später um das Monument herum gebaut wurde. Es ist ein Werk des auf Monumentalbauten spezialisierten deutschen Architekten Bruno Schmitz. Einige Figuren stammen von dem österreichischen Bildhauer Rudolf Schwarz (1866–1912), der Fries aus Bronze von dem aus Bayern gebürtigen späteren Professor an der Akademie der Künste Berlin, Nikolaus Geiger. Das Monument wurde 1973 in das National Register of Historic Places eingetragen. In der unteren Ebene befindet sich das Colonel Eli Lilly Civil War Museum.</value>
+</abstract>
+</XML_Serializer_Tag>
+</buildings>
+<books />
+</Person>

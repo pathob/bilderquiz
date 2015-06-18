@@ -1,0 +1,24 @@
+<Person>
+<name>Max Valier</name>
+<variantName>
+<XML_Serializer_Tag>Maximilian Valier</XML_Serializer_Tag>
+<XML_Serializer_Tag>M. E. Valier</XML_Serializer_Tag>
+</variantName>
+<thumbnail>https://commons.wikimedia.org/wiki/Special:FilePath/Bundesarchiv_Bild_102-01338,_Max_Valier_im_Raketenauto.jpg?width=270</thumbnail>
+<birthEN>1895</birthEN>
+<birthDE>1895</birthDE>
+<deathEN>1930</deathEN>
+<deathDE>1930</deathDE>
+<birthPlace />
+<deathPlace />
+<professionOrOccupation>
+<XML_Serializer_Tag>Schriftsteller</XML_Serializer_Tag>
+<XML_Serializer_Tag>Astronom</XML_Serializer_Tag>
+</professionOrOccupation>
+<dbpResource>http://dbpedia.org/resource/Max_Valier</dbpResource>
+<abstract>Max Valier (* 9. Februar 1895 in Bozen; † 17. Mai 1930 in Berlin) war ein Astronom und Schriftsteller. Er gilt als bedeutender Wegbereiter der Raketentechnik, und gleichzeitig als ihr erstes Todesopfer.</abstract>
+<wikilink>http://en.wikipedia.org/wiki/Max_Valier?oldid=581656801</wikilink>
+<artworks />
+<buildings />
+<books />
+</Person>

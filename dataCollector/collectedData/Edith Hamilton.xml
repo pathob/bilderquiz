@@ -1,0 +1,28 @@
+<Person>
+<name>Edith Hamilton</name>
+<variantName>
+<XML_Serializer_Tag>Hanmi&apos;erdun</XML_Serializer_Tag>
+<XML_Serializer_Tag>Han mi er dunn</XML_Serializer_Tag>
+</variantName>
+<thumbnail>https://commons.wikimedia.org/wiki/Special:FilePath/Edith_Hamilton.jpg?width=270</thumbnail>
+<birthEN>August 12, 1867</birthEN>
+<birthDE>12. August 1867</birthDE>
+<deathEN>May 31, 1963</deathEN>
+<deathDE>31. Mai 1963</deathDE>
+<birthPlace>
+<XML_Serializer_Tag>Dresden</XML_Serializer_Tag>
+</birthPlace>
+<deathPlace>
+<XML_Serializer_Tag>Washington, D.C.</XML_Serializer_Tag>
+</deathPlace>
+<professionOrOccupation>
+<XML_Serializer_Tag>Schriftstellerin</XML_Serializer_Tag>
+<XML_Serializer_Tag>Lehrerin</XML_Serializer_Tag>
+</professionOrOccupation>
+<dbpResource>http://dbpedia.org/resource/Edith_Hamilton</dbpResource>
+<abstract>Edith Hamilton (* 12. August 1867 in Dresden; † 31. Mai 1963 in Washington, D.C.) war eine deutsch-amerikanische Lehrerin und Schriftstellerin. Sie gilt als bedeutende Vermittlerin des antiken Erbes in den USA des 20. Jahrhunderts.</abstract>
+<wikilink>http://en.wikipedia.org/wiki/Edith_Hamilton?oldid=602004145</wikilink>
+<artworks />
+<buildings />
+<books />
+</Person>

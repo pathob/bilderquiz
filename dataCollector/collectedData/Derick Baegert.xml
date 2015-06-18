@@ -14,8 +14,10 @@
 <XML_Serializer_Tag>Künstler</XML_Serializer_Tag>
 <XML_Serializer_Tag>Maler</XML_Serializer_Tag>
 </professionOrOccupation>
-<artworks />
 <dbpResource>http://dbpedia.org/resource/Derick_Baegert</dbpResource>
 <abstract>Derick Baegert [ˈbaːgərt] (* um 1440 in Wesel; † nach 1502 in Wesel) war ein bedeutender deutscher Maler der Spätgotik. Unter flämischem, westfälischem und rheinischem Einfluss entwickelte er seinen ganz eigenen Stil von außerordentlicher Qualität. Seine Werke zeichnen sich durch einen hohen Detailreichtum in der Malerei aus.</abstract>
 <wikilink>http://en.wikipedia.org/wiki/Derick_Baegert?oldid=592730032</wikilink>
+<artworks />
+<buildings />
+<books />
 </Person>

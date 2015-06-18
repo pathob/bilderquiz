@@ -1,0 +1,33 @@
+<Person>
+<name>Ricarda Huch</name>
+<variantName>
+<XML_Serializer_Tag>Ricarda O. Huch</XML_Serializer_Tag>
+<XML_Serializer_Tag>Richard Hugo</XML_Serializer_Tag>
+<XML_Serializer_Tag>Ricarda Ceconi</XML_Serializer_Tag>
+<XML_Serializer_Tag>Ricarda Zecconi</XML_Serializer_Tag>
+<XML_Serializer_Tag>Ricarda Octavia Huch</XML_Serializer_Tag>
+<XML_Serializer_Tag>Rikarda Chuch</XML_Serializer_Tag>
+</variantName>
+<thumbnail>https://commons.wikimedia.org/wiki/Special:FilePath/Ricarda-Huch.jpg?width=270</thumbnail>
+<birthEN>July 18, 1864</birthEN>
+<birthDE>18. Juli 1864</birthDE>
+<deathEN>November 17, 1947</deathEN>
+<deathDE>17. November 1947</deathDE>
+<birthPlace>
+<XML_Serializer_Tag>Braunschweig</XML_Serializer_Tag>
+</birthPlace>
+<deathPlace>
+<XML_Serializer_Tag>Kronberg-Schönberg</XML_Serializer_Tag>
+</deathPlace>
+<professionOrOccupation>
+<XML_Serializer_Tag>Philosophin</XML_Serializer_Tag>
+<XML_Serializer_Tag>Historikerin</XML_Serializer_Tag>
+<XML_Serializer_Tag>Schriftstellerin</XML_Serializer_Tag>
+</professionOrOccupation>
+<dbpResource>http://dbpedia.org/resource/Ricarda_Huch</dbpResource>
+<abstract>Ricarda Octavia Huch (* 18. Juli 1864 in Braunschweig; † 17. November 1947 in Schönberg im Taunus, heute Stadtteil von Kronberg; Pseudonym: Richard Hugo) war eine deutsche Schriftstellerin, Dichterin, Philosophin und Historikerin.</abstract>
+<wikilink>http://en.wikipedia.org/wiki/Ricarda_Huch?oldid=605089025</wikilink>
+<artworks />
+<buildings />
+<books />
+</Person>

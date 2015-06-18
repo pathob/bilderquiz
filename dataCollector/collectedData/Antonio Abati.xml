@@ -1,0 +1,22 @@
+<Person>
+<name>Antonio Abati</name>
+<variantName>
+<XML_Serializer_Tag>A. Abati</XML_Serializer_Tag>
+</variantName>
+<thumbnail>https://commons.wikimedia.org/wiki/Special:FilePath/SPSalvatorRosa.jpg?width=270</thumbnail>
+<birthEN>1600</birthEN>
+<birthDE>1600</birthDE>
+<deathEN>1667</deathEN>
+<deathDE>1667</deathDE>
+<birthPlace />
+<deathPlace />
+<professionOrOccupation>
+<XML_Serializer_Tag>Schriftsteller</XML_Serializer_Tag>
+</professionOrOccupation>
+<dbpResource>http://dbpedia.org/resource/Antonio_Abati</dbpResource>
+<abstract>Antonio Abati (* um 1600 in Gubbio; † Oktober 1667 in Senigallia) war ein italienischer Dichter.</abstract>
+<wikilink>http://en.wikipedia.org/wiki/Antonio_Abati?oldid=541196497</wikilink>
+<artworks />
+<buildings />
+<books />
+</Person>

@@ -1,0 +1,41 @@
+<Person>
+<name>Wilhelm Gesenius</name>
+<variantName>
+<XML_Serializer_Tag>Friedrich Heinrich Wilhelm Gesenius</XML_Serializer_Tag>
+<XML_Serializer_Tag>Friedrich Heinrich Gesenius</XML_Serializer_Tag>
+<XML_Serializer_Tag>Guilelmus Gesenius</XML_Serializer_Tag>
+<XML_Serializer_Tag>... Gesenius</XML_Serializer_Tag>
+<XML_Serializer_Tag>Fridrich Heinrich Gesenius</XML_Serializer_Tag>
+<XML_Serializer_Tag>Guilielmus Gesenius</XML_Serializer_Tag>
+<XML_Serializer_Tag>Gvilielmvs Gesenivs</XML_Serializer_Tag>
+<XML_Serializer_Tag>Guilelmo Gesenius</XML_Serializer_Tag>
+<XML_Serializer_Tag>Willem Gesenius</XML_Serializer_Tag>
+<XML_Serializer_Tag>Heinrich Friedrich Wilhelm Gesenius</XML_Serializer_Tag>
+<XML_Serializer_Tag>... Gesenius-Kautzsch-Bergsträsser</XML_Serializer_Tag>
+<XML_Serializer_Tag>William Gesenius</XML_Serializer_Tag>
+<XML_Serializer_Tag>... Gesenius-Kautzsch</XML_Serializer_Tag>
+</variantName>
+<thumbnail>https://commons.wikimedia.org/wiki/Special:FilePath/Gesenius.jpg?width=270</thumbnail>
+<birthEN>February 3, 1786</birthEN>
+<birthDE>3. Februar 1786</birthDE>
+<deathEN>October 23, 1842</deathEN>
+<deathDE>23. Oktober 1842</deathDE>
+<birthPlace>
+<XML_Serializer_Tag>Nordhausen</XML_Serializer_Tag>
+</birthPlace>
+<deathPlace>
+<XML_Serializer_Tag>Halle (Saale)</XML_Serializer_Tag>
+</deathPlace>
+<professionOrOccupation>
+<XML_Serializer_Tag>Theologe</XML_Serializer_Tag>
+<XML_Serializer_Tag>Lehrer</XML_Serializer_Tag>
+<XML_Serializer_Tag>Orientalist</XML_Serializer_Tag>
+<XML_Serializer_Tag>Schriftsteller</XML_Serializer_Tag>
+</professionOrOccupation>
+<dbpResource>http://dbpedia.org/resource/Wilhelm_Gesenius</dbpResource>
+<abstract>Heinrich Friedrich Wilhelm Gesenius (* 3. Februar 1786 in Nordhausen; † 23. Oktober 1842 in Halle an der Saale) war Theologe, Gelehrter der Kulturen und Geschichte des Nahen Ostens und einer der bedeutendsten Gelehrten der alten Sprachen, besonders des Hebräischen.</abstract>
+<wikilink>http://en.wikipedia.org/wiki/Wilhelm_Gesenius?oldid=599776214</wikilink>
+<artworks />
+<buildings />
+<books />
+</Person>

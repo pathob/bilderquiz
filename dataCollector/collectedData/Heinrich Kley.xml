@@ -16,8 +16,10 @@
 <XML_Serializer_Tag>Radierer</XML_Serializer_Tag>
 <XML_Serializer_Tag>Karikaturist</XML_Serializer_Tag>
 </professionOrOccupation>
-<artworks />
 <dbpResource>http://dbpedia.org/resource/Heinrich_Kley</dbpResource>
 <abstract>Heinrich Kley (* 15. April 1863 in Karlsruhe; † 8. Februar 1945 in München) war ein deutscher Zeichner und Maler.</abstract>
 <wikilink>http://en.wikipedia.org/wiki/Heinrich_Kley?oldid=605205218</wikilink>
+<artworks />
+<buildings />
+<books />
 </Person>

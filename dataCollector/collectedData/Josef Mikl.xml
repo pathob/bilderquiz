@@ -17,8 +17,10 @@
 <professionOrOccupation>
 <XML_Serializer_Tag>Maler</XML_Serializer_Tag>
 </professionOrOccupation>
-<artworks />
 <dbpResource>http://dbpedia.org/resource/Josef_Mikl</dbpResource>
 <abstract>Josef Mikl (* 8. August 1929 in Wien; † 29. März 2008 ebenda) war ein österreichischer Maler und Grafiker.</abstract>
 <wikilink>http://en.wikipedia.org/wiki/Josef_Mikl?oldid=599774531</wikilink>
+<artworks />
+<buildings />
+<books />
 </Person>

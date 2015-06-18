@@ -1,0 +1,32 @@
+<Person>
+<name>Wilhelm Hoffmann</name>
+<variantName>
+<XML_Serializer_Tag>Ludwig Friedrich Wilhelm Hoffmann</XML_Serializer_Tag>
+<XML_Serializer_Tag>Wilhelm Ludwig Friedrich Hoffmann</XML_Serializer_Tag>
+<XML_Serializer_Tag>Ludwig F. W. Hoffmann</XML_Serializer_Tag>
+<XML_Serializer_Tag>W. Hoffmann</XML_Serializer_Tag>
+</variantName>
+<thumbnail>https://commons.wikimedia.org/wiki/Special:FilePath/Calandrelli-Prediger_Hoffmann.jpg?width=270</thumbnail>
+<birthEN>October 30, 1806</birthEN>
+<birthDE>30. Oktober 1806</birthDE>
+<deathEN>August 28, 1873</deathEN>
+<deathDE>28. August 1873</deathDE>
+<birthPlace>
+<XML_Serializer_Tag>Leonberg</XML_Serializer_Tag>
+</birthPlace>
+<deathPlace>
+<XML_Serializer_Tag>Berlin</XML_Serializer_Tag>
+</deathPlace>
+<professionOrOccupation>
+<XML_Serializer_Tag>Theologe</XML_Serializer_Tag>
+<XML_Serializer_Tag>Superintendent</XML_Serializer_Tag>
+<XML_Serializer_Tag>Schriftsteller</XML_Serializer_Tag>
+<XML_Serializer_Tag>Hofprediger</XML_Serializer_Tag>
+</professionOrOccupation>
+<dbpResource>http://dbpedia.org/resource/Wilhelm_Hoffmann</dbpResource>
+<abstract>Wilhelm Hoffmann (* 23. März 1948 in Bartenbach) ist ein ehemaliger deutscher Fußballspieler.</abstract>
+<wikilink>http://en.wikipedia.org/wiki/Wilhelm_Hoffmann?oldid=570053167</wikilink>
+<artworks />
+<buildings />
+<books />
+</Person>

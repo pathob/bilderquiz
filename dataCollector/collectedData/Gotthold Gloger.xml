@@ -18,8 +18,10 @@
 <XML_Serializer_Tag>Schauspieler</XML_Serializer_Tag>
 <XML_Serializer_Tag>Drehbuchautor</XML_Serializer_Tag>
 </professionOrOccupation>
-<artworks />
 <dbpResource>http://dbpedia.org/resource/Gotthold_Gloger</dbpResource>
 <abstract>Gotthold Gloger (* 17. Juni 1924 in Königsberg, Ostpreußen; † 16. Oktober 2001 in Kraatz bei Gransee), war ein deutscher Schriftsteller und Maler.</abstract>
 <wikilink>http://en.wikipedia.org/wiki/Gotthold_Gloger?oldid=605391532</wikilink>
+<artworks />
+<buildings />
+<books />
 </Person>

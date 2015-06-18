@@ -15,8 +15,10 @@
 <professionOrOccupation>
 <XML_Serializer_Tag>Maler</XML_Serializer_Tag>
 </professionOrOccupation>
-<artworks />
 <dbpResource>http://dbpedia.org/resource/Cesare_da_Sesto</dbpResource>
 <abstract>Cesare da Sesto (* 1477 in Sesto Calende; † 1523 in Mailand) war ein italienischer Maler der Hochrenaissance aus der Schule des Leonardo da Vinci (1452−1519).</abstract>
 <wikilink>http://en.wikipedia.org/wiki/Cesare_da_Sesto?oldid=602503184</wikilink>
+<artworks />
+<buildings />
+<books />
 </Person>

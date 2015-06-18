@@ -1,0 +1,50 @@
+<Person>
+<name>Gunnar Birkerts</name>
+<variantName />
+<thumbnail>https://commons.wikimedia.org/wiki/Special:FilePath/Kemper_Museum_of_Contemporary_Art.jpg?width=270</thumbnail>
+<birthEN>1925</birthEN>
+<birthDE>1925</birthDE>
+<deathEN />
+<deathDE />
+<birthPlace>
+<XML_Serializer_Tag>Riga</XML_Serializer_Tag>
+</birthPlace>
+<deathPlace />
+<professionOrOccupation>
+<XML_Serializer_Tag>Architekt</XML_Serializer_Tag>
+</professionOrOccupation>
+<dbpResource>http://dbpedia.org/resource/Gunnar_Birkerts</dbpResource>
+<abstract>Gunnar Birkerts, lettisch Gunārs Birkerts (* 17. Januar 1925 in Riga) ist ein US-amerikanischer Architekt lettischer Herkunft.</abstract>
+<wikilink>http://en.wikipedia.org/wiki/Gunnar_Birkerts?oldid=602639014</wikilink>
+<artworks />
+<buildings>
+<XML_Serializer_Tag>
+<building>
+<type>uri</type>
+<value>http://dbpedia.org/resource/Tom_Monaghan&apos;s_Leaning_Tower_of_Pizza</value>
+</building>
+<name>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>Leaning Tower of Pizza</value>
+</name>
+<architect>
+<type>uri</type>
+<value>http://dbpedia.org/resource/Gunnar_Birkerts</value>
+</architect>
+<thumbnail>
+<type>uri</type>
+<value>http://en.wikipedia.org/wiki/Special:FilePath/Tom_Monaghans_Leaning_Tower_of_Pizza.jpg?width=300</value>
+</thumbnail>
+<wikilink>
+<type>uri</type>
+<value>http://en.wikipedia.org/wiki/Tom_Monaghan&apos;s_Leaning_Tower_of_Pizza?oldid=594547348</value>
+</wikilink>
+<location>
+<type>uri</type>
+<value>http://dbpedia.org/resource/Michigan</value>
+</location>
+</XML_Serializer_Tag>
+</buildings>
+<books />
+</Person>

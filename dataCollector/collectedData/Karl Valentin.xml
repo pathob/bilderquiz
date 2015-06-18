@@ -1,0 +1,35 @@
+<Person>
+<name>Karl Valentin</name>
+<variantName>
+<XML_Serializer_Tag>Valentin Fey</XML_Serializer_Tag>
+<XML_Serializer_Tag>Karl Ludwig Fey</XML_Serializer_Tag>
+<XML_Serializer_Tag>Charles Fey</XML_Serializer_Tag>
+<XML_Serializer_Tag>Valentin Ludwig Fey</XML_Serializer_Tag>
+<XML_Serializer_Tag>칼 발렌틴</XML_Serializer_Tag>
+</variantName>
+<thumbnail>https://commons.wikimedia.org/wiki/Special:FilePath/Karl_Valentin_by_Eugen_Rosenfeld_(1870_-_1940).jpg?width=270</thumbnail>
+<birthEN>June 4, 1882</birthEN>
+<birthDE>4. Juni 1882</birthDE>
+<deathEN>February 9, 1948</deathEN>
+<deathDE>9. Februar 1948</deathDE>
+<birthPlace>
+<XML_Serializer_Tag>München</XML_Serializer_Tag>
+</birthPlace>
+<deathPlace>
+<XML_Serializer_Tag>Planegg</XML_Serializer_Tag>
+</deathPlace>
+<professionOrOccupation>
+<XML_Serializer_Tag>Komiker</XML_Serializer_Tag>
+<XML_Serializer_Tag>Schriftsteller</XML_Serializer_Tag>
+<XML_Serializer_Tag>Autor</XML_Serializer_Tag>
+<XML_Serializer_Tag>Schauspieler</XML_Serializer_Tag>
+<XML_Serializer_Tag>Drehbuchautor</XML_Serializer_Tag>
+<XML_Serializer_Tag>Regisseur</XML_Serializer_Tag>
+</professionOrOccupation>
+<dbpResource>http://dbpedia.org/resource/Karl_Valentin</dbpResource>
+<abstract>Karl Valentin [&apos;faləntin] (* 4. Juni 1882 in München; † 9. Februar 1948 in Planegg bei München), mit bürgerlichem Namen Valentin Ludwig Fey, war ein deutscher Komiker, Volkssänger, Autor und Filmproduzent. Er beeinflusste mit seinem dialektischen Humor zahlreiche nachfolgende Künstler, darunter Bertolt Brecht, Samuel Beckett, Loriot, Gerhard Polt und Helge Schneider.</abstract>
+<wikilink>http://en.wikipedia.org/wiki/Karl_Valentin?oldid=596861339</wikilink>
+<artworks />
+<buildings />
+<books />
+</Person>

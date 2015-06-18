@@ -17,12 +17,15 @@
 <professionOrOccupation>
 <XML_Serializer_Tag>Maler</XML_Serializer_Tag>
 </professionOrOccupation>
+<dbpResource>http://dbpedia.org/resource/Gerard_David</dbpResource>
+<abstract>Gerard David (* um 1460 in Oudewater bei Gouda; † 13. August 1523 in Brügge) war ein altniederländischer Maler.</abstract>
+<wikilink>http://en.wikipedia.org/wiki/Gerard_David?oldid=604782103</wikilink>
 <artworks>
 <XML_Serializer_Tag>
-<painting>
+<artwork>
 <type>uri</type>
 <value>http://dbpedia.org/resource/The_Judgement_of_Cambyses</value>
-</painting>
+</artwork>
 <thumbnail>
 <type>uri</type>
 <value>http://commons.wikimedia.org/wiki/Special:FilePath/David_Diptych_The_Judgment_of_Cambyses.jpg?width=300</value>
@@ -41,9 +44,12 @@
 <type>uri</type>
 <value>http://en.wikipedia.org/wiki/The_Judgement_of_Cambyses?oldid=595567953</value>
 </wikilink>
+<type>
+<type>uri</type>
+<value>http://dbpedia.org/resource/Panel_painting</value>
+</type>
 </XML_Serializer_Tag>
 </artworks>
-<dbpResource>http://dbpedia.org/resource/Gerard_David</dbpResource>
-<abstract>Gerard David (* um 1460 in Oudewater bei Gouda; † 13. August 1523 in Brügge) war ein altniederländischer Maler.</abstract>
-<wikilink>http://en.wikipedia.org/wiki/Gerard_David?oldid=604782103</wikilink>
+<buildings />
+<books />
 </Person>

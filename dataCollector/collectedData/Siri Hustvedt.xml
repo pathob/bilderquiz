@@ -1,0 +1,61 @@
+<Person>
+<name>Siri Hustvedt</name>
+<variantName />
+<thumbnail>https://commons.wikimedia.org/wiki/Special:FilePath/Siri_Hustvedt_1.jpg?width=270</thumbnail>
+<birthEN>1955</birthEN>
+<birthDE>1955</birthDE>
+<deathEN />
+<deathDE />
+<birthPlace>
+<XML_Serializer_Tag>Northfield, Minn.</XML_Serializer_Tag>
+</birthPlace>
+<deathPlace />
+<professionOrOccupation>
+<XML_Serializer_Tag>Schriftstellerin</XML_Serializer_Tag>
+</professionOrOccupation>
+<dbpResource>http://dbpedia.org/resource/Siri_Hustvedt</dbpResource>
+<abstract>Siri Hustvedt [ˈsɪɹɪ ˈhʊstvət] (* 19. Februar 1955 in Northfield, Minnesota) ist eine US-amerikanische Schriftstellerin.</abstract>
+<wikilink>http://en.wikipedia.org/wiki/Siri_Hustvedt?oldid=605978261</wikilink>
+<artworks />
+<buildings />
+<books>
+<XML_Serializer_Tag>
+<book>
+<type>uri</type>
+<value>http://dbpedia.org/resource/The_Sorrows_of_an_American</value>
+</book>
+<author>
+<type>uri</type>
+<value>http://dbpedia.org/resource/Siri_Hustvedt</value>
+</author>
+<released>
+<type>typed-literal</type>
+<datatype>http://www.w3.org/2001/XMLSchema#integer</datatype>
+<value>2008</value>
+</released>
+<wikilink>
+<type>uri</type>
+<value>http://en.wikipedia.org/wiki/The_Sorrows_of_an_American?oldid=545325296</value>
+</wikilink>
+</XML_Serializer_Tag>
+<XML_Serializer_Tag>
+<book>
+<type>uri</type>
+<value>http://dbpedia.org/resource/What_I_Loved</value>
+</book>
+<author>
+<type>uri</type>
+<value>http://dbpedia.org/resource/Siri_Hustvedt</value>
+</author>
+<wikilink>
+<type>uri</type>
+<value>http://en.wikipedia.org/wiki/What_I_Loved?oldid=581884229</value>
+</wikilink>
+<abstract>
+<type>literal</type>
+<xml:lang>de</xml:lang>
+<value>Was ich liebte ist ein Roman der amerikanischen Schriftstellerin Siri Hustvedt, der 2003 in London veröffentlicht wurde. Auf deutsch erschien er im gleichen Jahr im Rowohlt-Verlag. Er erzählt aus der Perspektive von Leo Hertzberg, einem in New York lebenden Kunsthistoriker. Die Autorin lebte selbst ab 1978 in New York. In einer Diskussion über 9/11 beschrieb sie New York als &quot;ebenso sehr eine Idee wie ein tatsächlicher Ort&quot;.Das Buch folgt der Beziehung zwischen Leo und Bill Wechsler und der engen Verbindung ihrer beiden Familien. Im Mittelpunkt stehen die Themen Liebe, Verlust, Kunst und Psychologie.</value>
+</abstract>
+</XML_Serializer_Tag>
+</books>
+</Person>

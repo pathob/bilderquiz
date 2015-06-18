@@ -1,0 +1,25 @@
+<Person>
+<name>Sascha Schneider</name>
+<variantName>
+<XML_Serializer_Tag>Sascha Alexander Schneider</XML_Serializer_Tag>
+<XML_Serializer_Tag>Rudolph Karl Alexander Schneider</XML_Serializer_Tag>
+</variantName>
+<thumbnail>https://commons.wikimedia.org/wiki/Special:FilePath/Karl_May_with_Sascha_Schneider,_1904.jpg?width=270</thumbnail>
+<birthEN>September 21, 1870</birthEN>
+<birthDE>21. September 1870</birthDE>
+<deathEN>August 18, 1927</deathEN>
+<deathDE>18. August 1927</deathDE>
+<birthPlace>
+<XML_Serializer_Tag>Sankt Petersburg</XML_Serializer_Tag>
+</birthPlace>
+<deathPlace />
+<professionOrOccupation>
+<XML_Serializer_Tag>Künstler</XML_Serializer_Tag>
+</professionOrOccupation>
+<dbpResource>http://dbpedia.org/resource/Sascha_Schneider</dbpResource>
+<abstract>Sascha Schneider (* 21. September 1870 in Sankt Petersburg; † 18. August 1927 in Swinemünde; eigentlich Rudolph Karl Alexander Schneider) war ein deutscher Professor, Bildhauer und Maler, der vor allem als Illustrator der Deckelbilder der Reiseerzählungen von Karl May bekannt wurde.</abstract>
+<wikilink>http://en.wikipedia.org/wiki/Sascha_Schneider?oldid=602214023</wikilink>
+<artworks />
+<buildings />
+<books />
+</Person>

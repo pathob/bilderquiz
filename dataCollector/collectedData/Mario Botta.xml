@@ -1,0 +1,77 @@
+<Person>
+<name>Mario Botta</name>
+<variantName />
+<thumbnail>https://commons.wikimedia.org/wiki/Special:FilePath/Lugano_Banca_del_Gottardo.jpg?width=270</thumbnail>
+<birthEN>1943</birthEN>
+<birthDE>1943</birthDE>
+<deathEN />
+<deathDE />
+<birthPlace>
+<XML_Serializer_Tag>Mendrisio</XML_Serializer_Tag>
+</birthPlace>
+<deathPlace />
+<professionOrOccupation>
+<XML_Serializer_Tag>Architekt</XML_Serializer_Tag>
+</professionOrOccupation>
+<dbpResource>http://dbpedia.org/resource/Mario_Botta</dbpResource>
+<abstract>Mario Botta (* 1. April 1943 in Mendrisio, Kanton Tessin) ist ein Schweizer Architekt und Professor für Architektur.</abstract>
+<wikilink>http://en.wikipedia.org/wiki/Mario_Botta?oldid=603794499</wikilink>
+<artworks />
+<buildings>
+<XML_Serializer_Tag>
+<building>
+<type>uri</type>
+<value>http://dbpedia.org/resource/Deccan_Park_(building)</value>
+</building>
+<name>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>Deccan Park</value>
+</name>
+<architect>
+<type>uri</type>
+<value>http://dbpedia.org/resource/Mario_Botta</value>
+</architect>
+<thumbnail>
+<type>uri</type>
+<value>http://en.wikipedia.org/wiki/Special:FilePath/TCS_Front_View_Hyd.jpg?width=300</value>
+</thumbnail>
+<wikilink>
+<type>uri</type>
+<value>http://en.wikipedia.org/wiki/Deccan_Park_(building)?oldid=604149372</value>
+</wikilink>
+<location>
+<type>uri</type>
+<value>http://dbpedia.org/resource/Hyderabad</value>
+</location>
+</XML_Serializer_Tag>
+<XML_Serializer_Tag>
+<building>
+<type>uri</type>
+<value>http://dbpedia.org/resource/Leeum,_Samsung_Museum_of_Art</value>
+</building>
+<name>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>Leeum, Samsung Museum of Art</value>
+</name>
+<architect>
+<type>uri</type>
+<value>http://dbpedia.org/resource/Mario_Botta</value>
+</architect>
+<thumbnail>
+<type>uri</type>
+<value>http://commons.wikimedia.org/wiki/Special:FilePath/Leeum,_Samsung_Museum_of_Art.jpg?width=300</value>
+</thumbnail>
+<wikilink>
+<type>uri</type>
+<value>http://en.wikipedia.org/wiki/Leeum,_Samsung_Museum_of_Art?oldid=601602863</value>
+</wikilink>
+<location>
+<type>uri</type>
+<value>http://dbpedia.org/resource/Seoul</value>
+</location>
+</XML_Serializer_Tag>
+</buildings>
+<books />
+</Person>

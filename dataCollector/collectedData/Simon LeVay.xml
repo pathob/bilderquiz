@@ -1,0 +1,87 @@
+<Person>
+<name>Simon LeVay</name>
+<variantName>
+<XML_Serializer_Tag>Simon le Vay</XML_Serializer_Tag>
+<XML_Serializer_Tag>Simon Le Vay</XML_Serializer_Tag>
+<XML_Serializer_Tag>Simon Dennison LeVay</XML_Serializer_Tag>
+<XML_Serializer_Tag>Simon Dennison Le Vay</XML_Serializer_Tag>
+</variantName>
+<thumbnail>https://commons.wikimedia.org/wiki/Special:FilePath/Simon_levay_2010.jpg?width=270</thumbnail>
+<birthEN>1943</birthEN>
+<birthDE>1943</birthDE>
+<deathEN />
+<deathDE />
+<birthPlace>
+<XML_Serializer_Tag>Oxford</XML_Serializer_Tag>
+</birthPlace>
+<deathPlace />
+<professionOrOccupation>
+<XML_Serializer_Tag>Neurowissenschaftler</XML_Serializer_Tag>
+<XML_Serializer_Tag>Biologe</XML_Serializer_Tag>
+<XML_Serializer_Tag>Autor</XML_Serializer_Tag>
+</professionOrOccupation>
+<dbpResource>http://dbpedia.org/resource/Simon_LeVay</dbpResource>
+<abstract>Simon LeVay (* 28. August 1943 in Oxford, England) ist ein Neurowissenschaftler und Autor. Er ist für seine Studien über Gehirnstrukturen und sexuelle Orientierung bekannt. Er ist Mitautor des Buches über die sexuelle Orientierung von Menschen und hat an Büchern über Erdbeben, Vulkane und außerirdisches Leben als Koautor mitgewirkt.</abstract>
+<wikilink>http://en.wikipedia.org/wiki/Simon_LeVay?oldid=603496567</wikilink>
+<artworks />
+<buildings />
+<books>
+<XML_Serializer_Tag>
+<book>
+<type>uri</type>
+<value>http://dbpedia.org/resource/Gay,_Straight,_and_the_Reason_Why</value>
+</book>
+<author>
+<type>uri</type>
+<value>http://dbpedia.org/resource/Simon_LeVay</value>
+</author>
+<published>
+<type>typed-literal</type>
+<datatype>http://www.w3.org/2001/XMLSchema#integer</datatype>
+<value>2011</value>
+</published>
+<wikilink>
+<type>uri</type>
+<value>http://en.wikipedia.org/wiki/Gay,_Straight,_and_the_Reason_Why?oldid=605414912</value>
+</wikilink>
+</XML_Serializer_Tag>
+<XML_Serializer_Tag>
+<book>
+<type>uri</type>
+<value>http://dbpedia.org/resource/The_Sexual_Brain</value>
+</book>
+<author>
+<type>uri</type>
+<value>http://dbpedia.org/resource/Simon_LeVay</value>
+</author>
+<published>
+<type>typed-literal</type>
+<datatype>http://www.w3.org/2001/XMLSchema#integer</datatype>
+<value>1993</value>
+</published>
+<wikilink>
+<type>uri</type>
+<value>http://en.wikipedia.org/wiki/The_Sexual_Brain?oldid=605414448</value>
+</wikilink>
+</XML_Serializer_Tag>
+<XML_Serializer_Tag>
+<book>
+<type>uri</type>
+<value>http://dbpedia.org/resource/Human_Sexuality_(book)</value>
+</book>
+<author>
+<type>uri</type>
+<value>http://dbpedia.org/resource/Simon_LeVay</value>
+</author>
+<published>
+<type>typed-literal</type>
+<datatype>http://www.w3.org/2001/XMLSchema#integer</datatype>
+<value>2003</value>
+</published>
+<wikilink>
+<type>uri</type>
+<value>http://en.wikipedia.org/wiki/Human_Sexuality_(book)?oldid=606413232</value>
+</wikilink>
+</XML_Serializer_Tag>
+</books>
+</Person>

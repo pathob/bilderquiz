@@ -1,0 +1,44 @@
+<Person>
+<name>Zelda Fitzgerald</name>
+<variantName>
+<XML_Serializer_Tag>Zelda Sayre</XML_Serializer_Tag>
+<XML_Serializer_Tag>Zelda Sayre Fitzgerald</XML_Serializer_Tag>
+<XML_Serializer_Tag>... Fitzgeraldovi</XML_Serializer_Tag>
+</variantName>
+<thumbnail>https://commons.wikimedia.org/wiki/Special:FilePath/Zelda_Fitzgerald_portrait.jpg?width=270</thumbnail>
+<birthEN>1900</birthEN>
+<birthDE>1900</birthDE>
+<deathEN>1948</deathEN>
+<deathDE>1948</deathDE>
+<birthPlace />
+<deathPlace />
+<professionOrOccupation>
+<XML_Serializer_Tag>Schriftstellerin</XML_Serializer_Tag>
+</professionOrOccupation>
+<dbpResource>http://dbpedia.org/resource/Zelda_Fitzgerald</dbpResource>
+<abstract>Zelda Sayre Fitzgerald (* 24. Juli 1900 in Montgomery, Alabama, als Zelda Sayre; † 10. März 1948 in Asheville) war eine US-amerikanische Autorin und Ehefrau des Schriftstellers F. Scott Fitzgerald, den sie 1920 heiratete.1932 veröffentlichte sie den autobiographischen Roman Save Me the Waltz (dt. Darf ich um den Walzer bitten?, 1972 bzw. Ein Walzer für mich, 2011). Fitzgerald, die vielen Zeitgenossen als Verkörperung des typischen „flapper girls“ galt, wurde sowohl aufgrund ihrer eigenen Lebensgeschichte als auch wegen der Rolle berühmt und berüchtigt, die sie als Muse ihres Ehemanns und Vorlage einiger seiner berühmtesten Figuren spielte, insbesondere der Nicole Diver aus Tender is the Night (dt. Zärtlich ist die Nacht).1930 erlitt sie einen ersten Nervenzusammenbruch. Die schweizerische Nervenheilanstalt Les Rives de Prangins betrat Zelda Fitzgerald freiwillig. Im Alter von 47 Jahren starb sie bei einem Brand im Highland Mental Hospital in Asheville, North Carolina, bei dem acht weitere Patienten ihr Leben verloren.</abstract>
+<wikilink>http://en.wikipedia.org/wiki/Zelda_Fitzgerald?oldid=605979624</wikilink>
+<artworks />
+<buildings />
+<books>
+<XML_Serializer_Tag>
+<book>
+<type>uri</type>
+<value>http://dbpedia.org/resource/Save_Me_the_Waltz</value>
+</book>
+<author>
+<type>uri</type>
+<value>http://dbpedia.org/resource/Zelda_Fitzgerald</value>
+</author>
+<released>
+<type>typed-literal</type>
+<datatype>http://www.w3.org/2001/XMLSchema#integer</datatype>
+<value>1932</value>
+</released>
+<wikilink>
+<type>uri</type>
+<value>http://en.wikipedia.org/wiki/Save_Me_the_Waltz?oldid=585816764</value>
+</wikilink>
+</XML_Serializer_Tag>
+</books>
+</Person>

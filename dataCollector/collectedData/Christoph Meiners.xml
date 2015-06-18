@@ -1,0 +1,30 @@
+<Person>
+<name>Christoph Meiners</name>
+<variantName>
+<XML_Serializer_Tag>Christophorus Meiners</XML_Serializer_Tag>
+<XML_Serializer_Tag>C. Meiners</XML_Serializer_Tag>
+</variantName>
+<thumbnail>https://commons.wikimedia.org/wiki/Special:FilePath/MeinersC.jpg?width=270</thumbnail>
+<birthEN>July 31, 1747</birthEN>
+<birthDE>31. Juli 1747</birthDE>
+<deathEN>May 1, 1810</deathEN>
+<deathDE>1. Mai 1810</deathDE>
+<birthPlace>
+<XML_Serializer_Tag>Warstade</XML_Serializer_Tag>
+</birthPlace>
+<deathPlace>
+<XML_Serializer_Tag>Göttingen</XML_Serializer_Tag>
+</deathPlace>
+<professionOrOccupation>
+<XML_Serializer_Tag>Philosoph</XML_Serializer_Tag>
+<XML_Serializer_Tag>Ethnologe</XML_Serializer_Tag>
+<XML_Serializer_Tag>Kulturwissenschaftler</XML_Serializer_Tag>
+<XML_Serializer_Tag>Historiker</XML_Serializer_Tag>
+</professionOrOccupation>
+<dbpResource>http://dbpedia.org/resource/Christoph_Meiners</dbpResource>
+<abstract>Christoph Meiners (* 31. Juli 1747 in Warstade (Hemmoor); † 1. Mai 1810 in Göttingen) war Philosoph, Ethnograph, Professor der Weltweisheit in Göttingen und ein Vertreter der Popularphilosophie.</abstract>
+<wikilink>http://en.wikipedia.org/wiki/Christoph_Meiners?oldid=606470452</wikilink>
+<artworks />
+<buildings />
+<books />
+</Person>

@@ -1,0 +1,65 @@
+<Person>
+<name>Katherine Anne Porter</name>
+<variantName>
+<XML_Serializer_Tag>Katherine A. Porter</XML_Serializer_Tag>
+</variantName>
+<thumbnail>https://commons.wikimedia.org/wiki/Special:FilePath/Katherine_anne_porter_house_2009.jpg?width=270</thumbnail>
+<birthEN>1890</birthEN>
+<birthDE>1890</birthDE>
+<deathEN>1980</deathEN>
+<deathDE>1980</deathDE>
+<birthPlace />
+<deathPlace />
+<professionOrOccupation>
+<XML_Serializer_Tag>Schriftstellerin</XML_Serializer_Tag>
+</professionOrOccupation>
+<dbpResource>http://dbpedia.org/resource/Katherine_Anne_Porter</dbpResource>
+<abstract>Katherine Anne Porter (* 15. Mai 1890 in Indian Creek, Texas; † 18. September 1980 in Silver Spring, Maryland; gebürtig Callie Russell Porter) war eine US-amerikanische Journalistin und Schriftstellerin. 1966 wurde sie für die Anthologie The Collected Stories mit dem Pulitzer-Preis ausgezeichnet.</abstract>
+<wikilink>http://en.wikipedia.org/wiki/Katherine_Anne_Porter?oldid=604959872</wikilink>
+<artworks />
+<buildings />
+<books>
+<XML_Serializer_Tag>
+<book>
+<type>uri</type>
+<value>http://dbpedia.org/resource/Ship_of_Fools_(Porter_novel)</value>
+</book>
+<author>
+<type>uri</type>
+<value>http://dbpedia.org/resource/Katherine_Anne_Porter</value>
+</author>
+<thumbnail>
+<type>uri</type>
+<value>http://en.wikipedia.org/wiki/Special:FilePath/ShipOfFools.JPG?width=300</value>
+</thumbnail>
+<released>
+<type>typed-literal</type>
+<datatype>http://www.w3.org/2001/XMLSchema#integer</datatype>
+<value>1962</value>
+</released>
+<wikilink>
+<type>uri</type>
+<value>http://en.wikipedia.org/wiki/Ship_of_Fools_(Porter_novel)?oldid=599425967</value>
+</wikilink>
+<abstract>
+<type>literal</type>
+<xml:lang>de</xml:lang>
+<value>Das Narrenschiff (Originaltitel: Ship of Fools) ist ein Roman von Katherine Anne Porter, der 1962 veröffentlicht wurde. Inspiriert wurde die Autorin durch eine Schiffsreise nach Europa, die sie 1931 unternahm, sowie durch die Lektüre von Sebastian Brants Narrenschiff (1494). Von Brant übernahm sie sowohl den Titel als auch das archetypische Bild der Schiffsreise als Lebensreise. In einem Interview mit der Paris Review erklärte sie: &quot;Das menschliche Leben selbst ist ein einziges Chaos. Jeder behauptet seinen Platz, besteht auf seinen Rechten und Gefühlen, missversteht die Motive der anderen und seine eigenen. Niemand weiß vorher, wie das Leben, das er führt, endet, auch ich nicht - vergessen Sie nicht, dass auch ich ein Passagier auf diesem Schiff bin. Es sind keineswegs nur die anderen, die die Narren abgeben! Mangel an Verständnis und Isolierung sind die natürlichen Lebensbedingungen des Menschen. Wir sind alle Passagiere auf diesem Schiff, doch wenn es ankommt, ist jeder allein.&quot;Katherine Anne Porter, die nach der Veröffentlichung ihrer Kurzgeschichten bereits eine renommierte und beliebte Autorin war, begann 1941 mit der Niederschrift ihres ersten und einzigen Romans und arbeitete zwanzig Jahre daran. Immer wieder wurde das mit Spannung erwartete Buch vom Verlag angekündigt, das Erscheinungsdatum jedoch immer wieder verschoben. Als das Narrenschiff 1962 erschien, nannte es die New York Times den «Roman, auf den eine ganze Generation dreißig Jahre lang gewartet hat». Das Buch wurde umgehend ein großer Erfolg in den USA: Drei Tage nach Erscheinen stand es auf Platz 1 der Bestsellerliste und wurde zum meistverkauften Buch der 1960er Jahre in den USA. Dazu trug auch Stanley Kramers Verfilmung von 1965 bei, in der eine internationale Besetzung um Vivien Leigh, Heinz Rühmann, Simone Signoret, José Ferrer und Oskar Werner agierte.</value>
+</abstract>
+</XML_Serializer_Tag>
+<XML_Serializer_Tag>
+<book>
+<type>uri</type>
+<value>http://dbpedia.org/resource/The_Collected_Stories_of_Katherine_Anne_Porter</value>
+</book>
+<author>
+<type>uri</type>
+<value>http://dbpedia.org/resource/Katherine_Anne_Porter</value>
+</author>
+<wikilink>
+<type>uri</type>
+<value>http://en.wikipedia.org/wiki/The_Collected_Stories_of_Katherine_Anne_Porter?oldid=584193275</value>
+</wikilink>
+</XML_Serializer_Tag>
+</books>
+</Person>

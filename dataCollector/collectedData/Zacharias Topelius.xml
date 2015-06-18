@@ -1,0 +1,35 @@
+<Person>
+<name>Zacharias Topelius</name>
+<variantName>
+<XML_Serializer_Tag>Zachris Topelius</XML_Serializer_Tag>
+<XML_Serializer_Tag>Zakris Topelius</XML_Serializer_Tag>
+<XML_Serializer_Tag>Zacharius Topelius</XML_Serializer_Tag>
+<XML_Serializer_Tag>Zakarias Topelius</XML_Serializer_Tag>
+<XML_Serializer_Tag>Z. Topelius</XML_Serializer_Tag>
+<XML_Serializer_Tag>Sakari Topelius</XML_Serializer_Tag>
+<XML_Serializer_Tag>Sakariasu Toperiusu</XML_Serializer_Tag>
+</variantName>
+<thumbnail>https://de.wikipedia.org/wiki/Special:FilePath/Zacharias-topelius-1856.jpg?width=270</thumbnail>
+<birthEN>January 14, 1818</birthEN>
+<birthDE>14. Januar 1818</birthDE>
+<deathEN>March 12, 1898</deathEN>
+<deathDE>12. März 1898</deathDE>
+<birthPlace>
+<XML_Serializer_Tag>Nykarleby</XML_Serializer_Tag>
+</birthPlace>
+<deathPlace>
+<XML_Serializer_Tag>Sipoo</XML_Serializer_Tag>
+</deathPlace>
+<professionOrOccupation>
+<XML_Serializer_Tag>Schriftsteller</XML_Serializer_Tag>
+<XML_Serializer_Tag>Historiker</XML_Serializer_Tag>
+<XML_Serializer_Tag>Redakteur</XML_Serializer_Tag>
+<XML_Serializer_Tag>Kinderbuchautor</XML_Serializer_Tag>
+</professionOrOccupation>
+<dbpResource>http://dbpedia.org/resource/Zachris_Topelius</dbpResource>
+<abstract>Zacharias Topelius [sakaˈriːas tɔˈpeːlɪʊs] (auch Zachris Topelius oder Z. Topelius, * 14. Januar 1818 auf Kuddnäs Gård bei Nykarleby; † 12. März 1898 in Björkudden, Sibbo) war ein finnlandschwedischer Schriftsteller, Dichter, Journalist, Historiker und Rektor der Universität Helsinki.</abstract>
+<wikilink>http://en.wikipedia.org/wiki/Zachris_Topelius?oldid=594655842</wikilink>
+<artworks />
+<buildings />
+<books />
+</Person>

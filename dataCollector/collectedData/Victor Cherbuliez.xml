@@ -1,0 +1,27 @@
+<Person>
+<name>Victor Cherbuliez</name>
+<variantName>
+<XML_Serializer_Tag>Charles Victor Cherbuliez</XML_Serializer_Tag>
+<XML_Serializer_Tag>G. Valbert</XML_Serializer_Tag>
+</variantName>
+<thumbnail>https://commons.wikimedia.org/wiki/Special:FilePath/Victor_Cherbuliez_par_Eugène_Pirou.jpg?width=270</thumbnail>
+<birthEN>July 19, 1829</birthEN>
+<birthDE>19. Juli 1829</birthDE>
+<deathEN>July 1, 1899</deathEN>
+<deathDE>1. Juli 1899</deathDE>
+<birthPlace>
+<XML_Serializer_Tag>Genf</XML_Serializer_Tag>
+</birthPlace>
+<deathPlace>
+<XML_Serializer_Tag>Combs-la-Ville, Frankreich</XML_Serializer_Tag>
+</deathPlace>
+<professionOrOccupation>
+<XML_Serializer_Tag>Schriftsteller</XML_Serializer_Tag>
+</professionOrOccupation>
+<dbpResource>http://dbpedia.org/resource/Victor_Cherbuliez</dbpResource>
+<abstract>Victor Cherbuliez (* 19. Juli 1829 in Genf, Schweiz; † 1. Juli 1899 in Combs-la-Ville, Dept. Seine-et-Marne) war ein schweizerisch-französischer Schriftsteller.</abstract>
+<wikilink>http://en.wikipedia.org/wiki/Victor_Cherbuliez?oldid=559910473</wikilink>
+<artworks />
+<buildings />
+<books />
+</Person>

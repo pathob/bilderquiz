@@ -1,0 +1,107 @@
+<Person>
+<name>Judith Butler</name>
+<variantName>
+<XML_Serializer_Tag>Judith P. Butler</XML_Serializer_Tag>
+<XML_Serializer_Tag>J. Butler</XML_Serializer_Tag>
+<XML_Serializer_Tag>J. P. Butler</XML_Serializer_Tag>
+</variantName>
+<thumbnail>https://commons.wikimedia.org/wiki/Special:FilePath/Judith_butler_2011-b.jpg?width=270</thumbnail>
+<birthEN>1956</birthEN>
+<birthDE>1956</birthDE>
+<deathEN />
+<deathDE />
+<birthPlace />
+<deathPlace />
+<professionOrOccupation>
+<XML_Serializer_Tag>Sozialwissenschaftlerin</XML_Serializer_Tag>
+<XML_Serializer_Tag>Philosophin</XML_Serializer_Tag>
+</professionOrOccupation>
+<dbpResource>http://dbpedia.org/resource/Judith_Butler</dbpResource>
+<abstract>Judith Butler (* 24. Februar 1956 in Cleveland) ist eine US-amerikanische Philosophin und Philologin. Sie ist Professorin für Rhetorik und Komparatistik an der University of California, Berkeley. Ihre sozialwissenschaftlich-philosophischen Arbeiten werden dem Poststrukturalismus zugeordnet.Seit Ende der 1980er Jahre finden Butlers Arbeiten zur feministischen Theorie internationale Aufmerksamkeit. Mit ihrer Schrift Das Unbehagen der Geschlechter stieß sie 1990 die Diskussionen um die Queer-Theorie an. Einer von Butlers signifikanten Beiträgen ist das performative Modell von Geschlecht. Demnach werden die Kategorien männlich und weiblich als Wiederholung von Sprechakten verstanden, und nicht als natürliche oder unausweichliche Absolutheiten. Über Geschlechterthemen hinaus hat sie sich mit Fragen von Macht und Subjekttheorien beschäftigt, seit 2002 zudem mit der Ethik der Gewaltlosigkeit.</abstract>
+<wikilink>http://en.wikipedia.org/wiki/Judith_Butler?oldid=606677732</wikilink>
+<artworks />
+<buildings />
+<books>
+<XML_Serializer_Tag>
+<book>
+<type>uri</type>
+<value>http://dbpedia.org/resource/Undoing_Gender</value>
+</book>
+<author>
+<type>uri</type>
+<value>http://dbpedia.org/resource/Judith_Butler</value>
+</author>
+<published>
+<type>typed-literal</type>
+<datatype>http://www.w3.org/2001/XMLSchema#integer</datatype>
+<value>2004</value>
+</published>
+<wikilink>
+<type>uri</type>
+<value>http://en.wikipedia.org/wiki/Undoing_Gender?oldid=603547442</value>
+</wikilink>
+<abstract>
+<type>literal</type>
+<xml:lang>de</xml:lang>
+<value>Das Konzept des Undoing Gender (dt. Geschlechtsaufweichung) wurde zuerst von dem Soziologen Stefan Hirschauer systematisch ausformuliert. Hirschauer begreift das Geschlecht als Effekt von Interaktionen, wobei er sich dabei an Harold Garfinkels Ethnomethodologie anlehnt, und zugleich als Effekt von Institutionen, wobei er sich stark auf Goffmans Konzept der Institutional Reflexivity bezieht. Aus dieser Perspektive entwickelt er einen Praxisbegriff, der sowohl für die Möglichkeiten der Relevantsetzung / Aktualisierung als auch der Neutralisierung / Vergessen des Geschlechts offen ist - und dieses so nicht nur als stetigen Prozess (andauerndes Doing Gender), sondern auch als „diskontinuierliche Episode“ fassen lässt, was mit dem Konzept des Doing Gender nicht möglich ist.In einem elementaren Sinn gibt Hirschauer dem Konzept des Doing Gender dennoch recht: Es herrscht ein grundlegender „Ausweiszwang“, d.h. Personen müssen stets als Personen einer Geschlechtskategorie erkennbar und klassifizierbar sein. Aber es gibt ein Kontinuum der &apos;Salience&apos;, also variable Grade der Relevantsetzung dieser Kategorie, was das Doing Gender-Konzept nicht zu fassen vermag. Es ist möglich, dass Personen das Geschlecht lediglich registrieren und in der Interaktion formelhaft ‚mitlaufen lassen’, sich aber nicht als Männer bzw. Frauen adressieren und entsprechende Interaktionsskripte in Anschlag bringen. Weiter können angelaufene Interaktionsskripte, die das Geschlecht relevant setzen, leer laufen und Anschlusspunkte können vermieden werden. Aus institutioneller Perspektive ist zudem möglich, dass gerade Institutionen, welche die Hervorbringung des Geschlechts anreizen , auch dessen Neutralisierung anleiten können. Die Naturalisierung der Geschlechterdifferenz in institutionellen Arrangements, die vielfältige Sexuierung von Zeichensystemen und die Bildförmigkeit und Offensichtlichkeit der Geschlechter-Darstellungen stellen eine derart umfassende und ultrastabile Struktur dar, dass die enorme Selbstverständlichkeit („informationelle Redundanz“) des Geschlechts auch zu einer Irrelevanz desselben führen kann . Außerdem ist die Vergeschlechtlichung von Personen oft ein Produkt der Vernetzung institutioneller Strukturen; z.B. sind Segregationsprozesse auf dem Arbeitsmarkt weniger auf diesen selbst als auf die Paarbildungsregeln und die Arbeitsteilung in Partnerschaften zurückzuführen. Ein sozialer Wandel im privaten Bereich kann somit einen Wandel im öffentlichen Arbeitsmarkt nach sich ziehen. Letztendlich ist also nach dem Konzept des Undoing Gender das Geschlecht auf seine konkrete Relevantsetzung in Interaktionen in bestimmten Kontexten unter der Bedingung unterschiedlicher kultureller Konfigurationen und institutioneller Arrangements zu untersuchen („kontextuelle Kontingenz“).Undoing Gender (deutsch Die Macht der Geschlechternormen und die Grenzen des Menschlichen&apos;) ist zudem der Titel eines 2004 erschienenen Buchs von Judith Butler. Butler bemüht sich dabei, ihren Begriff der Performativität an konkreten Beispielen darzulegen, darunter auch dem Schicksal David Reimers.</value>
+</abstract>
+</XML_Serializer_Tag>
+<XML_Serializer_Tag>
+<book>
+<type>uri</type>
+<value>http://dbpedia.org/resource/Gender_Trouble</value>
+</book>
+<author>
+<type>uri</type>
+<value>http://dbpedia.org/resource/Judith_Butler</value>
+</author>
+<published>
+<type>typed-literal</type>
+<datatype>http://www.w3.org/2001/XMLSchema#integer</datatype>
+<value>1990</value>
+</published>
+<wikilink>
+<type>uri</type>
+<value>http://en.wikipedia.org/wiki/Gender_Trouble?oldid=606640242</value>
+</wikilink>
+<abstract>
+<type>literal</type>
+<xml:lang>de</xml:lang>
+<value>Das Unbehagen der Geschlechter, englischsprachiger Originaltitel Gender Trouble, erschienen 1990, ist die erste Buchveröffentlichung der amerikanischen Philosophin Judith Butler. Sie gilt zugleich als ihre bekannteste Schrift mit großem Einfluss auf die feministische Philosophie und die Gender Studies. Die deutsche Übersetzung kam in der ersten Auflage 1991 heraus.</value>
+</abstract>
+</XML_Serializer_Tag>
+<XML_Serializer_Tag>
+<book>
+<type>uri</type>
+<value>http://dbpedia.org/resource/Contingency,_Hegemony,_Universality</value>
+</book>
+<author>
+<type>uri</type>
+<value>http://dbpedia.org/resource/Judith_Butler</value>
+</author>
+<published>
+<type>typed-literal</type>
+<datatype>http://www.w3.org/2001/XMLSchema#integer</datatype>
+<value>2000</value>
+</published>
+<wikilink>
+<type>uri</type>
+<value>http://en.wikipedia.org/wiki/Contingency,_Hegemony,_Universality?oldid=602466558</value>
+</wikilink>
+</XML_Serializer_Tag>
+<XML_Serializer_Tag>
+<book>
+<type>uri</type>
+<value>http://dbpedia.org/resource/Against_Sadomasochism</value>
+</book>
+<author>
+<type>uri</type>
+<value>http://dbpedia.org/resource/Judith_Butler</value>
+</author>
+<wikilink>
+<type>uri</type>
+<value>http://en.wikipedia.org/wiki/Against_Sadomasochism?oldid=603939158</value>
+</wikilink>
+</XML_Serializer_Tag>
+</books>
+</Person>

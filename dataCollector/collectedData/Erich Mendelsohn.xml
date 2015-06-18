@@ -1,0 +1,28 @@
+<Person>
+<name>Erich Mendelsohn</name>
+<variantName>
+<XML_Serializer_Tag>Eric Mendelsohn</XML_Serializer_Tag>
+<XML_Serializer_Tag>Erikh Mendelsohn</XML_Serializer_Tag>
+<XML_Serializer_Tag>Erich Mendelssohn</XML_Serializer_Tag>
+</variantName>
+<thumbnail>https://commons.wikimedia.org/wiki/Special:FilePath/Erich_Mendelsohn_cropped.jpg?width=270</thumbnail>
+<birthEN>March 21, 1887</birthEN>
+<birthDE>21. März 1887</birthDE>
+<deathEN>September 15, 1953</deathEN>
+<deathDE>15. September 1953</deathDE>
+<birthPlace>
+<XML_Serializer_Tag>Allenstein</XML_Serializer_Tag>
+</birthPlace>
+<deathPlace>
+<XML_Serializer_Tag>San Francisco, Calif.</XML_Serializer_Tag>
+</deathPlace>
+<professionOrOccupation>
+<XML_Serializer_Tag>Architekt</XML_Serializer_Tag>
+</professionOrOccupation>
+<dbpResource>http://dbpedia.org/resource/Erich_Mendelsohn</dbpResource>
+<abstract>Erich Mendelsohn (* 21. März 1887 in Allenstein (Ostpreußen); † 15. September 1953 in San Francisco, Kalifornien) war ein bedeutender Architekt des 20. Jahrhunderts. Am bekanntesten sind seine Werke der 1920er Jahre, die sich am ehesten als expressionistisch und organisch bezeichnen lassen. Viele seiner Skizzen und realisierten Bauvorhaben lassen ihn als Vorreiter der Streamline-Architektur dastehen. Vollendete Beispiele sind der Einsteinturm in Potsdam oder das Mossehaus in Berlin.</abstract>
+<wikilink>http://en.wikipedia.org/wiki/Erich_Mendelsohn?oldid=603126717</wikilink>
+<artworks />
+<buildings />
+<books />
+</Person>

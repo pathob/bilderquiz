@@ -1,0 +1,31 @@
+<Person>
+<name>Will Vesper</name>
+<variantName>
+<XML_Serializer_Tag>Wilhelm Vesper</XML_Serializer_Tag>
+<XML_Serializer_Tag>Willi Vesper</XML_Serializer_Tag>
+<XML_Serializer_Tag>W. Vesper</XML_Serializer_Tag>
+</variantName>
+<thumbnail>https://commons.wikimedia.org/wiki/Special:FilePath/Will_Vesper.jpg?width=270</thumbnail>
+<birthEN>October 11, 1882</birthEN>
+<birthDE>11. Oktober 1882</birthDE>
+<deathEN>March 11, 1962</deathEN>
+<deathDE>11. März 1962</deathDE>
+<birthPlace>
+<XML_Serializer_Tag>Barmen</XML_Serializer_Tag>
+</birthPlace>
+<deathPlace>
+<XML_Serializer_Tag>Gut Triangel bei Gifhorn</XML_Serializer_Tag>
+</deathPlace>
+<professionOrOccupation>
+<XML_Serializer_Tag>Schriftsteller</XML_Serializer_Tag>
+<XML_Serializer_Tag>Landwirt</XML_Serializer_Tag>
+<XML_Serializer_Tag>Übersetzer</XML_Serializer_Tag>
+<XML_Serializer_Tag>Herausgeber</XML_Serializer_Tag>
+</professionOrOccupation>
+<dbpResource>http://dbpedia.org/resource/Will_Vesper</dbpResource>
+<abstract>Will Vesper (* 11. Oktober 1882 in Barmen; † 11. März 1962 auf Gut Triangel bei Gifhorn) war ein deutscher Schriftsteller und Literaturkritiker.</abstract>
+<wikilink>http://en.wikipedia.org/wiki/Will_Vesper?oldid=595480579</wikilink>
+<artworks />
+<buildings />
+<books />
+</Person>

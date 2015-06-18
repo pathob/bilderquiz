@@ -1,0 +1,60 @@
+<Person>
+<name>Paul Wallot</name>
+<variantName>
+<XML_Serializer_Tag>P. Wallot</XML_Serializer_Tag>
+<XML_Serializer_Tag>Johann Paul Wallot</XML_Serializer_Tag>
+</variantName>
+<thumbnail>https://commons.wikimedia.org/wiki/Special:FilePath/1894_Paul_Wallot.jpg?width=270</thumbnail>
+<birthEN>June 26, 1841</birthEN>
+<birthDE>26. Juni 1841</birthDE>
+<deathEN>August 10, 1912</deathEN>
+<deathDE>10. August 1912</deathDE>
+<birthPlace>
+<XML_Serializer_Tag>Oppenheim</XML_Serializer_Tag>
+</birthPlace>
+<deathPlace>
+<XML_Serializer_Tag>Bad Schwalbach</XML_Serializer_Tag>
+</deathPlace>
+<professionOrOccupation>
+<XML_Serializer_Tag>Architekt</XML_Serializer_Tag>
+</professionOrOccupation>
+<dbpResource>http://dbpedia.org/resource/Paul_Wallot</dbpResource>
+<abstract>Johann Paul Wallot (* 26. Juni 1841 in Oppenheim; † 10. August 1912 in Langenschwalbach) war ein deutscher Architekt und Hochschullehrer.</abstract>
+<wikilink>http://en.wikipedia.org/wiki/Paul_Wallot?oldid=581029915</wikilink>
+<artworks />
+<buildings>
+<XML_Serializer_Tag>
+<building>
+<type>uri</type>
+<value>http://dbpedia.org/resource/Reichstag_building</value>
+</building>
+<name>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>Reichstag</value>
+</name>
+<architect>
+<type>uri</type>
+<value>http://dbpedia.org/resource/Paul_Wallot</value>
+</architect>
+<thumbnail>
+<type>uri</type>
+<value>http://commons.wikimedia.org/wiki/Special:FilePath/Reichstag_building_Berlin_view_from_west_before_sunset.jpg?width=300</value>
+</thumbnail>
+<wikilink>
+<type>uri</type>
+<value>http://en.wikipedia.org/wiki/Reichstag_building?oldid=606070817</value>
+</wikilink>
+<location>
+<type>uri</type>
+<value>http://dbpedia.org/resource/Berlin</value>
+</location>
+<abstract>
+<type>literal</type>
+<xml:lang>de</xml:lang>
+<value>Das Reichstagsgebäude (kurz Reichstag; offiziell Plenarbereich Reichstagsgebäude) am Platz der Republik in Berlin ist seit 1999 Sitz des Deutschen Bundestages. Die Bundesversammlung tritt hier seit 1994 zur Wahl des deutschen Bundespräsidenten zusammen.Der Bau wurde von dem Architekten Paul Wallot 1884 bis 1894 im Stil der Neorenaissance im Ortsteil Tiergarten (heute zum Bezirk Mitte gehörend) errichtet. Er beherbergte sowohl den Reichstag des Deutschen Kaiserreiches als auch den Reichstag der Weimarer Republik. Durch den Reichstagsbrand von 1933 und durch Auswirkungen des Zweiten Weltkriegs schwer beschädigt, wurde das Gebäude in den 1960er Jahren in modernisierter Form wiederhergestellt und von 1991 bis 1999 noch einmal grundlegend umgestaltet.</value>
+</abstract>
+</XML_Serializer_Tag>
+</buildings>
+<books />
+</Person>

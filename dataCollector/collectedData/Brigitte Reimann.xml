@@ -1,0 +1,52 @@
+<Person>
+<name>Brigitte Reimann</name>
+<variantName>
+<XML_Serializer_Tag>Brigitta Rejman</XML_Serializer_Tag>
+<XML_Serializer_Tag>Brigita Rejmenn</XML_Serializer_Tag>
+</variantName>
+<thumbnail>https://commons.wikimedia.org/wiki/Special:FilePath/Bundesarchiv_Bild_183-E1209-0026-001,_Berlin,_Lesung_Brigitte_Reimann,_Walter_Lewerenz.jpg?width=270</thumbnail>
+<birthEN>July 21, 1933</birthEN>
+<birthDE>21. Juli 1933</birthDE>
+<deathEN>February 20, 1973</deathEN>
+<deathDE>20. Februar 1973</deathDE>
+<birthPlace>
+<XML_Serializer_Tag>Burg b. Magdeburg</XML_Serializer_Tag>
+</birthPlace>
+<deathPlace>
+<XML_Serializer_Tag>Berlin (Ost)</XML_Serializer_Tag>
+</deathPlace>
+<professionOrOccupation>
+<XML_Serializer_Tag>Schriftstellerin</XML_Serializer_Tag>
+</professionOrOccupation>
+<dbpResource>http://dbpedia.org/resource/Brigitte_Reimann</dbpResource>
+<abstract>Brigitte Reimann (* 21. Juli 1933 in Burg (bei Magdeburg); † 20. Februar 1973 in Ost-Berlin) war eine deutsche Schriftstellerin.</abstract>
+<wikilink>http://en.wikipedia.org/wiki/Brigitte_Reimann?oldid=580960206</wikilink>
+<artworks />
+<buildings />
+<books>
+<XML_Serializer_Tag>
+<book>
+<type>uri</type>
+<value>http://dbpedia.org/resource/Franziska_Linkerhand</value>
+</book>
+<author>
+<type>uri</type>
+<value>http://dbpedia.org/resource/Brigitte_Reimann</value>
+</author>
+<released>
+<type>typed-literal</type>
+<datatype>http://www.w3.org/2001/XMLSchema#integer</datatype>
+<value>1974</value>
+</released>
+<wikilink>
+<type>uri</type>
+<value>http://en.wikipedia.org/wiki/Franziska_Linkerhand?oldid=591769475</value>
+</wikilink>
+<abstract>
+<type>literal</type>
+<xml:lang>de</xml:lang>
+<value>Franziska Linkerhand ist ein unvollendeter Roman von Brigitte Reimann, der 1974 postum in Ost-Berlin erschien. In einem Schreiben vom 5. Januar 1970 an Annemarie Auer nennt die Verfasserin den Entwicklungsroman ihr „Unglücksbuch“. Nach Heinz Plavius liegt ein Architektur- und Liebesroman vor. Karin Hirdina bescheinigt Brigitte Reimann Ehrlichkeit und Tiefe bei der Wiedergabe eines Ausschnittes der DDR-Wirklichkeit. Zwanzig Jahre hat die Autorin geschrieben; davon die letzten zehn an dem Roman: Die junge, das Leben bejahende Architektin Franziska Linkerhand scheitert bei ihrem Aufbau des Sozialismus auf der fiktiven Großbaustelle Neustadt, dieser „Bankrotterklärung der Architektur“ im äußersten Osten der DDR.</value>
+</abstract>
+</XML_Serializer_Tag>
+</books>
+</Person>

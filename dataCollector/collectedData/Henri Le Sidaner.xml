@@ -18,8 +18,10 @@
 <XML_Serializer_Tag>Künstler</XML_Serializer_Tag>
 <XML_Serializer_Tag>Maler</XML_Serializer_Tag>
 </professionOrOccupation>
-<artworks />
 <dbpResource>http://dbpedia.org/resource/Henri_Le_Sidaner</dbpResource>
 <abstract>Henri Le Sidaner (* 7. August 1862 in Port Louis, Mauritius; † 16. Juli 1939 in Paris) war ein französischer Maler.</abstract>
 <wikilink>http://en.wikipedia.org/wiki/Henri_Le_Sidaner?oldid=586017803</wikilink>
+<artworks />
+<buildings />
+<books />
 </Person>

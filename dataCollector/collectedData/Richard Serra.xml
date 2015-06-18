@@ -1,0 +1,53 @@
+<Person>
+<name>Richard Serra</name>
+<variantName>
+<XML_Serializer_Tag>Richard Anthony Serra</XML_Serializer_Tag>
+</variantName>
+<thumbnail>https://commons.wikimedia.org/wiki/Special:FilePath/RichardSerra_Fulcrum2.jpg?width=270</thumbnail>
+<birthEN>1939</birthEN>
+<birthDE>1939</birthDE>
+<deathEN />
+<deathDE />
+<birthPlace>
+<XML_Serializer_Tag>San Francisco, Calif.</XML_Serializer_Tag>
+</birthPlace>
+<deathPlace />
+<professionOrOccupation>
+<XML_Serializer_Tag>Bildhauer</XML_Serializer_Tag>
+<XML_Serializer_Tag>Photograph</XML_Serializer_Tag>
+<XML_Serializer_Tag>Künstler</XML_Serializer_Tag>
+<XML_Serializer_Tag>Regisseur</XML_Serializer_Tag>
+<XML_Serializer_Tag>Kameramann</XML_Serializer_Tag>
+<XML_Serializer_Tag>Cutter</XML_Serializer_Tag>
+</professionOrOccupation>
+<dbpResource>http://dbpedia.org/resource/Richard_Serra</dbpResource>
+<abstract>Richard Serra (* 2. November 1939 in San Francisco) ist einer der bedeutendsten lebenden US-amerikanischen Bildhauer. Mitte der 1960er Jahre experimentieren Richard Serra und andere amerikanische Künstler mit industriellen Werkstoffen wie Blei und Gummi. Die Materialien werden mit einfachen Eingriffen bearbeitet und in einen Bezug zum Raum gesetzt. Im Laufe der Jahre erweiterte Serra seinen räumlichen Ansatz, indem er bis heute mit wetterfestem Stahl arbeitet. Außerdem umfasst das Œuvre des Künstlers eine Vielzahl von Malereien und Druckgraphiken.</abstract>
+<wikilink>http://en.wikipedia.org/wiki/Richard_Serra?oldid=605518430</wikilink>
+<artworks>
+<XML_Serializer_Tag>
+<artwork>
+<type>uri</type>
+<value>http://dbpedia.org/resource/The_Hedgehog_and_the_Fox_(sculpture)</value>
+</artwork>
+<thumbnail>
+<type>uri</type>
+<value>http://commons.wikimedia.org/wiki/Special:FilePath/Serra_Fox2.jpg?width=300</value>
+</thumbnail>
+<name>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>The Hedgehog and the Fox</value>
+</name>
+<wikilink>
+<type>uri</type>
+<value>http://en.wikipedia.org/wiki/The_Hedgehog_and_the_Fox_(sculpture)?oldid=565072700</value>
+</wikilink>
+<type>
+<type>uri</type>
+<value>http://dbpedia.org/resource/Weathering_steel</value>
+</type>
+</XML_Serializer_Tag>
+</artworks>
+<buildings />
+<books />
+</Person>

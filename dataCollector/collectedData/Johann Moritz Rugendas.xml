@@ -23,8 +23,10 @@
 <XML_Serializer_Tag>Maler</XML_Serializer_Tag>
 <XML_Serializer_Tag>Zeichner</XML_Serializer_Tag>
 </professionOrOccupation>
-<artworks />
 <dbpResource>http://dbpedia.org/resource/Johann_Moritz_Rugendas</dbpResource>
 <abstract>Johann Moritz Rugendas (* 29. März 1802 in Augsburg; † 29. Mai 1858 in Weilheim an der Teck in Württemberg) ist ein aus Augsburg stammender Künstler des 19. Jahrhunderts und ein Abkömmling der bedeutenden Künstlerfamilie Rugendas. Er bereiste über mehrere Jahre Mittel- und Südamerika. Angeregt von Alexander von Humboldt war es sein Ziel, neben der Darstellung der exotischen Natur Südamerikas auch die Menschen und deren Sitten darzustellen.</abstract>
 <wikilink>http://en.wikipedia.org/wiki/Johann_Moritz_Rugendas?oldid=584652822</wikilink>
+<artworks />
+<buildings />
+<books />
 </Person>

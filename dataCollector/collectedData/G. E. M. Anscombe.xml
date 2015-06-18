@@ -1,0 +1,54 @@
+<Person>
+<name>G. E. M. Anscombe</name>
+<variantName>
+<XML_Serializer_Tag>Gertrude E. M. Anscombe</XML_Serializer_Tag>
+<XML_Serializer_Tag>Gertrude Elizabeth Anscombe</XML_Serializer_Tag>
+<XML_Serializer_Tag>Gertrude Elizabeth Margaret Anscombe</XML_Serializer_Tag>
+<XML_Serializer_Tag>Elisabeth Anscombe</XML_Serializer_Tag>
+<XML_Serializer_Tag>G. E. M. Enskom</XML_Serializer_Tag>
+<XML_Serializer_Tag>G. E. Anscombe</XML_Serializer_Tag>
+<XML_Serializer_Tag>Gertrude E. Anscombe</XML_Serializer_Tag>
+<XML_Serializer_Tag>... Anscombe</XML_Serializer_Tag>
+<XML_Serializer_Tag>... Anscombe-Berglar-Clark</XML_Serializer_Tag>
+</variantName>
+<thumbnail>https://commons.wikimedia.org/wiki/Special:FilePath/Younganscombe.jpg?width=270</thumbnail>
+<birthEN>March 18, 1919</birthEN>
+<birthDE>18. März 1919</birthDE>
+<deathEN>January 5, 2001</deathEN>
+<deathDE>5. Januar 2001</deathDE>
+<birthPlace>
+<XML_Serializer_Tag>Limerick (Shannon)</XML_Serializer_Tag>
+</birthPlace>
+<deathPlace>
+<XML_Serializer_Tag>Cambridge</XML_Serializer_Tag>
+</deathPlace>
+<professionOrOccupation>
+<XML_Serializer_Tag>Philosophin</XML_Serializer_Tag>
+</professionOrOccupation>
+<dbpResource>http://dbpedia.org/resource/G._E._M._Anscombe</dbpResource>
+<abstract>Gertrude Elizabeth Margaret Anscombe (* 18. März 1919 in Limerick, Irland; † 5. Januar 2001 in Cambridge) (Veröffentlichungen unter G.E.M. Anscombe) war eine britische Philosophin, die wichtige Beiträge zur Handlungstheorie sowie Tugendethik leistete, und Schülerin Ludwig Wittgensteins.</abstract>
+<wikilink>http://en.wikipedia.org/wiki/G._E._M._Anscombe?oldid=606590408</wikilink>
+<artworks />
+<buildings />
+<books>
+<XML_Serializer_Tag>
+<book>
+<type>uri</type>
+<value>http://dbpedia.org/resource/Intention_(book)</value>
+</book>
+<author>
+<type>uri</type>
+<value>http://dbpedia.org/resource/G._E._M._Anscombe</value>
+</author>
+<published>
+<type>typed-literal</type>
+<datatype>http://www.w3.org/2001/XMLSchema#integer</datatype>
+<value>1957</value>
+</published>
+<wikilink>
+<type>uri</type>
+<value>http://en.wikipedia.org/wiki/Intention_(book)?oldid=603938540</value>
+</wikilink>
+</XML_Serializer_Tag>
+</books>
+</Person>

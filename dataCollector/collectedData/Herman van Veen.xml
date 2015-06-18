@@ -23,8 +23,10 @@
 <XML_Serializer_Tag>Musiker</XML_Serializer_Tag>
 <XML_Serializer_Tag>Schauspieler</XML_Serializer_Tag>
 </professionOrOccupation>
-<artworks />
 <dbpResource>http://dbpedia.org/resource/Herman_van_Veen</dbpResource>
 <abstract>Herman van Veen (* 14. März 1945 in Utrecht, Niederlande; mit vollem Namen Hermannus Jantinus van Veen) ist ein niederländischer Sänger, Violinist, Schriftsteller, Clown, Liedertexter und Liederkomponist. In Deutschland wurde er unter anderem mit dem Lied Ich hab&apos; ein zärtliches Gefühl sowie als geistiger Vater der Zeichentrick-Ente Alfred Jodocus Kwak bekannt.</abstract>
 <wikilink>http://en.wikipedia.org/wiki/Herman_van_Veen?oldid=605915666</wikilink>
+<artworks />
+<buildings />
+<books />
 </Person>

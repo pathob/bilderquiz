@@ -1,0 +1,41 @@
+<Person>
+<name>Ludwig Bechstein</name>
+<variantName>
+<XML_Serializer_Tag>L. Bechstein</XML_Serializer_Tag>
+<XML_Serializer_Tag>C. Bechstein</XML_Serializer_Tag>
+<XML_Serializer_Tag>L. Beckstein</XML_Serializer_Tag>
+<XML_Serializer_Tag>C. Beckstein</XML_Serializer_Tag>
+<XML_Serializer_Tag>Ludvig Bechštejn</XML_Serializer_Tag>
+<XML_Serializer_Tag>Ljudvig Bechštejn</XML_Serializer_Tag>
+<XML_Serializer_Tag>Ludvig Bechštajn</XML_Serializer_Tag>
+<XML_Serializer_Tag>Lindvigas Bechṡteinas</XML_Serializer_Tag>
+<XML_Serializer_Tag>L. Behhishutain</XML_Serializer_Tag>
+<XML_Serializer_Tag>L. B.</XML_Serializer_Tag>
+<XML_Serializer_Tag>D. G. Th. Legis</XML_Serializer_Tag>
+<XML_Serializer_Tag>Louis Dupontreau</XML_Serializer_Tag>
+<XML_Serializer_Tag>루드비히 베히슈타인</XML_Serializer_Tag>
+</variantName>
+<thumbnail>https://commons.wikimedia.org/wiki/Special:FilePath/Ludwig-Bechstein.jpg?width=270</thumbnail>
+<birthEN>November 24, 1801</birthEN>
+<birthDE>24. November 1801</birthDE>
+<deathEN>May 14, 1860</deathEN>
+<deathDE>14. Mai 1860</deathDE>
+<birthPlace>
+<XML_Serializer_Tag>Weimar</XML_Serializer_Tag>
+</birthPlace>
+<deathPlace>
+<XML_Serializer_Tag>Meiningen</XML_Serializer_Tag>
+</deathPlace>
+<professionOrOccupation>
+<XML_Serializer_Tag>Historiker</XML_Serializer_Tag>
+<XML_Serializer_Tag>Bibliothekar</XML_Serializer_Tag>
+<XML_Serializer_Tag>Apotheker</XML_Serializer_Tag>
+<XML_Serializer_Tag>Schriftsteller</XML_Serializer_Tag>
+</professionOrOccupation>
+<dbpResource>http://dbpedia.org/resource/Ludwig_Bechstein</dbpResource>
+<abstract>Ludwig Bechstein (* 24. November 1801 in Weimar; † 14. Mai 1860 in Meiningen) war ein deutscher Schriftsteller, Bibliothekar, Archivar und Apotheker. Er ist heute vor allem durch die von ihm herausgegebene Sammlung deutscher Volksmärchen bekannt.</abstract>
+<wikilink>http://en.wikipedia.org/wiki/Ludwig_Bechstein?oldid=588147436</wikilink>
+<artworks />
+<buildings />
+<books />
+</Person>

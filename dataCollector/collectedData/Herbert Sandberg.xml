@@ -1,0 +1,26 @@
+<Person>
+<name>Herbert Sandberg</name>
+<variantName>
+<XML_Serializer_Tag>H. Sandberg</XML_Serializer_Tag>
+</variantName>
+<thumbnail>https://commons.wikimedia.org/wiki/Special:FilePath/Tombstone_Herbert_Sandberg.jpg?width=270</thumbnail>
+<birthEN>April 14, 1908</birthEN>
+<birthDE>14. April 1908</birthDE>
+<deathEN>March 19, 1991</deathEN>
+<deathDE>19. März 1991</deathDE>
+<birthPlace>
+<XML_Serializer_Tag>Posen</XML_Serializer_Tag>
+</birthPlace>
+<deathPlace>
+<XML_Serializer_Tag>Berlin</XML_Serializer_Tag>
+</deathPlace>
+<professionOrOccupation>
+<XML_Serializer_Tag>Künstler</XML_Serializer_Tag>
+</professionOrOccupation>
+<dbpResource>http://dbpedia.org/resource/Herbert_Sandberg</dbpResource>
+<abstract>Herbert Sandberg (* 18. April 1908 in Posen; † 18. März 1991 in Berlin) war ein Grafiker und Karikaturist. Er wurde vor allem durch Karikaturen in der von ihm geleiteten Zeitschrift Ulenspiegel, seine Brecht-Skizzen und seine Kolumne Der freche Zeichenstift in der Zeitschrift Das Magazin bekannt.</abstract>
+<wikilink>http://en.wikipedia.org/wiki/Herbert_Sandberg?oldid=592461217</wikilink>
+<artworks />
+<buildings />
+<books />
+</Person>

@@ -1,0 +1,85 @@
+<Person>
+<name>Anatole France</name>
+<variantName>
+<XML_Serializer_Tag>A. France</XML_Serializer_Tag>
+<XML_Serializer_Tag>François A. Thibault</XML_Serializer_Tag>
+<XML_Serializer_Tag>Jacques Anatole Thibault</XML_Serializer_Tag>
+<XML_Serializer_Tag>Anatole Jacques Thibault</XML_Serializer_Tag>
+<XML_Serializer_Tag>Anatole-Jacques Thibault</XML_Serializer_Tag>
+<XML_Serializer_Tag>Jacques-Anatole Thibault</XML_Serializer_Tag>
+<XML_Serializer_Tag>Jacques A. Thibault</XML_Serializer_Tag>
+<XML_Serializer_Tag>Jacques François Anatole Thibault</XML_Serializer_Tag>
+<XML_Serializer_Tag>Anatol France</XML_Serializer_Tag>
+<XML_Serializer_Tag>Anatole Thibault</XML_Serializer_Tag>
+<XML_Serializer_Tag>François-Anatole Thibault</XML_Serializer_Tag>
+<XML_Serializer_Tag>Anatol&apos; Frans</XML_Serializer_Tag>
+<XML_Serializer_Tag>Anatol Phrans</XML_Serializer_Tag>
+<XML_Serializer_Tag>Anātola Phraṃsa</XML_Serializer_Tag>
+<XML_Serializer_Tag>Ānātūl Frāns</XML_Serializer_Tag>
+<XML_Serializer_Tag>Gérôme</XML_Serializer_Tag>
+</variantName>
+<thumbnail>https://commons.wikimedia.org/wiki/Special:FilePath/Anders_Zorn_-_Anatole_France.jpg?width=270</thumbnail>
+<birthEN>1844</birthEN>
+<birthDE>1844</birthDE>
+<deathEN>1924</deathEN>
+<deathDE>1924</deathDE>
+<birthPlace />
+<deathPlace />
+<professionOrOccupation>
+<XML_Serializer_Tag>Schriftsteller</XML_Serializer_Tag>
+</professionOrOccupation>
+<dbpResource>http://dbpedia.org/resource/Anatole_France</dbpResource>
+<abstract>Anatole France (François Anatole Thibault; * 16. April 1844 in Paris; † 12. Oktober 1924 in Saint-Cyr-sur-Loire) war ein französischer Schriftsteller. 1921 erhielt er den Literaturnobelpreis.</abstract>
+<wikilink>http://en.wikipedia.org/wiki/Anatole_France?oldid=605238741</wikilink>
+<artworks />
+<buildings />
+<books>
+<XML_Serializer_Tag>
+<book>
+<type>uri</type>
+<value>http://dbpedia.org/resource/The_Gods_Are_Athirst</value>
+</book>
+<author>
+<type>uri</type>
+<value>http://dbpedia.org/resource/Anatole_France</value>
+</author>
+<thumbnail>
+<type>uri</type>
+<value>http://commons.wikimedia.org/wiki/Special:FilePath/FranceGodsAthirst.jpg?width=300</value>
+</thumbnail>
+<published>
+<type>typed-literal</type>
+<datatype>http://www.w3.org/2001/XMLSchema#integer</datatype>
+<value>1912</value>
+</published>
+<wikilink>
+<type>uri</type>
+<value>http://en.wikipedia.org/wiki/The_Gods_Are_Athirst?oldid=601934694</value>
+</wikilink>
+</XML_Serializer_Tag>
+<XML_Serializer_Tag>
+<book>
+<type>uri</type>
+<value>http://dbpedia.org/resource/Penguin_Island_(novel)</value>
+</book>
+<author>
+<type>uri</type>
+<value>http://dbpedia.org/resource/Anatole_France</value>
+</author>
+<released>
+<type>typed-literal</type>
+<datatype>http://www.w3.org/2001/XMLSchema#integer</datatype>
+<value>1908</value>
+</released>
+<wikilink>
+<type>uri</type>
+<value>http://en.wikipedia.org/wiki/Penguin_Island_(novel)?oldid=606568462</value>
+</wikilink>
+<abstract>
+<type>literal</type>
+<xml:lang>de</xml:lang>
+<value>Die Insel der Pinguine (französisch L’Île des Pingouins) ist ein 1908 erschienener historischer Roman des französischen Autors Anatole France. Vorgeblich eine Chronik des fiktiven Landes Alka in acht Büchern, ist der Roman eine Satire auf die Geschichte Frankreichs im Besonderen und die Geschichte des christlichen Abendlandes im Allgemeinen.</value>
+</abstract>
+</XML_Serializer_Tag>
+</books>
+</Person>

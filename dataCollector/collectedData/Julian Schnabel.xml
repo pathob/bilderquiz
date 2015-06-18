@@ -14,8 +14,10 @@
 <XML_Serializer_Tag>Maler</XML_Serializer_Tag>
 <XML_Serializer_Tag>Filmregisseur</XML_Serializer_Tag>
 </professionOrOccupation>
-<artworks />
 <dbpResource>http://dbpedia.org/resource/Julian_Schnabel</dbpResource>
 <abstract>Julian Schnabel (* 26. Oktober 1951 in New York City, New York) ist ein US-amerikanischer Maler und Filmregisseur.</abstract>
 <wikilink>http://en.wikipedia.org/wiki/Julian_Schnabel?oldid=606627209</wikilink>
+<artworks />
+<buildings />
+<books />
 </Person>

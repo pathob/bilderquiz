@@ -19,8 +19,10 @@
 <XML_Serializer_Tag>Maler</XML_Serializer_Tag>
 <XML_Serializer_Tag>Graphiker</XML_Serializer_Tag>
 </professionOrOccupation>
-<artworks />
 <dbpResource>http://dbpedia.org/resource/Erich_Heckel</dbpResource>
 <abstract>Erich Heckel (* 31. Juli 1883 in Döbeln; † 27. Januar 1970 in Radolfzell am Bodensee) war ein deutscher Maler und Grafiker des Expressionismus.</abstract>
 <wikilink>http://en.wikipedia.org/wiki/Erich_Heckel?oldid=587292216</wikilink>
+<artworks />
+<buildings />
+<books />
 </Person>

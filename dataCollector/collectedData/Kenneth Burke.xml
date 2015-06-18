@@ -1,0 +1,25 @@
+<Person>
+<name>Kenneth Burke</name>
+<variantName>
+<XML_Serializer_Tag>Kenneth Duva Burke</XML_Serializer_Tag>
+</variantName>
+<thumbnail>https://en.wikipedia.org/wiki/Special:FilePath/Kenneth_Burke.jpg?width=270</thumbnail>
+<birthEN>May 5, 1897</birthEN>
+<birthDE>5. Mai 1897</birthDE>
+<deathEN>November 19, 1993</deathEN>
+<deathDE>19. November 1993</deathDE>
+<birthPlace>
+<XML_Serializer_Tag>Pittsburgh, Pa.</XML_Serializer_Tag>
+</birthPlace>
+<deathPlace />
+<professionOrOccupation>
+<XML_Serializer_Tag>Schriftsteller</XML_Serializer_Tag>
+<XML_Serializer_Tag>Literaturkritiker</XML_Serializer_Tag>
+</professionOrOccupation>
+<dbpResource>http://dbpedia.org/resource/Kenneth_Burke</dbpResource>
+<abstract>Kenneth Duva Burke (* 5. Mai 1897 in Pittsburgh, Pennsylvania; † 19. November 1993 in Andover) war ein amerikanischer Schriftsteller, Literatur- und Kommunikationstheoretiker.</abstract>
+<wikilink>http://en.wikipedia.org/wiki/Kenneth_Burke?oldid=606126378</wikilink>
+<artworks />
+<buildings />
+<books />
+</Person>

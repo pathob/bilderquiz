@@ -1,0 +1,41 @@
+<Person>
+<name>Frank Wedekind</name>
+<variantName>
+<XML_Serializer_Tag>Frank Vedekind</XML_Serializer_Tag>
+<XML_Serializer_Tag>Phrank Bentekint</XML_Serializer_Tag>
+<XML_Serializer_Tag>... Vēdekinto</XML_Serializer_Tag>
+<XML_Serializer_Tag>F. Vedekinto</XML_Serializer_Tag>
+<XML_Serializer_Tag>Franklin Wedekind</XML_Serializer_Tag>
+<XML_Serializer_Tag>Hugo von Trenck</XML_Serializer_Tag>
+<XML_Serializer_Tag>Benjamin Franklin Wedekind</XML_Serializer_Tag>
+<XML_Serializer_Tag>Benjamin F. Wedekind</XML_Serializer_Tag>
+<XML_Serializer_Tag>프랑크 베데킨트</XML_Serializer_Tag>
+<XML_Serializer_Tag>פרנק וודקינד</XML_Serializer_Tag>
+<XML_Serializer_Tag>F.ヴェデキント</XML_Serializer_Tag>
+<XML_Serializer_Tag>フランク ヴェデキント</XML_Serializer_Tag>
+</variantName>
+<thumbnail>https://commons.wikimedia.org/wiki/Special:FilePath/Frank_Wedekind.jpg?width=270</thumbnail>
+<birthEN>July 24, 1864</birthEN>
+<birthDE>24. Juli 1864</birthDE>
+<deathEN>March 9, 1918</deathEN>
+<deathDE>9. März 1918</deathDE>
+<birthPlace>
+<XML_Serializer_Tag>Hannover</XML_Serializer_Tag>
+</birthPlace>
+<deathPlace>
+<XML_Serializer_Tag>München</XML_Serializer_Tag>
+</deathPlace>
+<professionOrOccupation>
+<XML_Serializer_Tag>Komponist</XML_Serializer_Tag>
+<XML_Serializer_Tag>Dramatiker</XML_Serializer_Tag>
+<XML_Serializer_Tag>Schauspieler</XML_Serializer_Tag>
+<XML_Serializer_Tag>Schriftsteller</XML_Serializer_Tag>
+<XML_Serializer_Tag>Liederdichter</XML_Serializer_Tag>
+</professionOrOccupation>
+<dbpResource>http://dbpedia.org/resource/Frank_Wedekind</dbpResource>
+<abstract>Frank Wedekind (eigentlich Benjamin Franklin Wedekind; * 24. Juli 1864 in Hannover; † 9. März 1918 in München) war ein deutscher Schriftsteller, Dramatiker und Schauspieler. Mit seinen gesellschaftskritischen Theaterstücken gehörte er zu den meistgespielten Dramatikern seiner Epoche.</abstract>
+<wikilink>http://en.wikipedia.org/wiki/Frank_Wedekind?oldid=604845836</wikilink>
+<artworks />
+<buildings />
+<books />
+</Person>

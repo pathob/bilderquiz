@@ -1,0 +1,36 @@
+<Person>
+<name>Peter Hacks</name>
+<variantName>
+<XML_Serializer_Tag>Pasiphae</XML_Serializer_Tag>
+<XML_Serializer_Tag>Peter Chaks</XML_Serializer_Tag>
+<XML_Serializer_Tag>Peter Hachs</XML_Serializer_Tag>
+<XML_Serializer_Tag>Peter Hackens</XML_Serializer_Tag>
+<XML_Serializer_Tag>페터 학스</XML_Serializer_Tag>
+</variantName>
+<thumbnail>https://commons.wikimedia.org/wiki/Special:FilePath/Bundesarchiv_Bild_183-R1202-328,_Peter_Hacks.jpg?width=270</thumbnail>
+<birthEN>March 21, 1928</birthEN>
+<birthDE>21. März 1928</birthDE>
+<deathEN>August 23, 2003</deathEN>
+<deathDE>23. August 2003</deathDE>
+<birthPlace>
+<XML_Serializer_Tag>Breslau</XML_Serializer_Tag>
+</birthPlace>
+<deathPlace>
+<XML_Serializer_Tag>Groß Machnow</XML_Serializer_Tag>
+</deathPlace>
+<professionOrOccupation>
+<XML_Serializer_Tag>Lyriker</XML_Serializer_Tag>
+<XML_Serializer_Tag>Dramatiker</XML_Serializer_Tag>
+<XML_Serializer_Tag>Kinderbuchautor</XML_Serializer_Tag>
+<XML_Serializer_Tag>Erzähler</XML_Serializer_Tag>
+<XML_Serializer_Tag>Dramaturg</XML_Serializer_Tag>
+<XML_Serializer_Tag>Übersetzer</XML_Serializer_Tag>
+<XML_Serializer_Tag>Schriftsteller</XML_Serializer_Tag>
+</professionOrOccupation>
+<dbpResource>http://dbpedia.org/resource/Peter_Hacks</dbpResource>
+<abstract>Peter Hacks (* 21. März 1928 in Breslau; † 28. August 2003 bei Groß Machnow) war ein deutscher Dramatiker, Lyriker, Erzähler und Essayist. Er begründete in den sechziger Jahren die „sozialistische Klassik“ und gilt als einer der bedeutendsten Dramatiker der DDR. Lange Zeit war er der einzige Gegenwartsdichter, der sowohl auf den Bühnen der DDR als auch auf denen der Bundesrepublik Deutschland stark präsent war. Der Erfolg seines Stückes Ein Gespräch im Hause Stein über den abwesenden Herrn von Goethe ist auf den deutschen Bühnen des 20. Jahrhunderts beispiellos.</abstract>
+<wikilink>http://en.wikipedia.org/wiki/Peter_Hacks?oldid=540654678</wikilink>
+<artworks />
+<buildings />
+<books />
+</Person>

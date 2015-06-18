@@ -19,8 +19,10 @@
 <XML_Serializer_Tag>Zeichner</XML_Serializer_Tag>
 <XML_Serializer_Tag>Maler</XML_Serializer_Tag>
 </professionOrOccupation>
-<artworks />
 <dbpResource>http://dbpedia.org/resource/Oswald_Achenbach</dbpResource>
 <abstract>Oswald Achenbach (* 2. Februar 1827 in Düsseldorf; † 1. Februar 1905 in Düsseldorf) war ein deutscher Maler, welcher der Düsseldorfer Malerschule zugerechnet wird. Der heute weniger bekannte Künstler zählte zu seinen Lebzeiten zu den bedeutenden Landschaftsmalern Europas und prägte während seiner Lehrtätigkeit die Düsseldorfer Kunstakademie.Sein Bruder war der zwölf Jahre ältere Andreas Achenbach, der gleichfalls zu den bedeutenden deutschen Landschaftsmalern des 19. Jahrhunderts gehörte. Die beiden Brüder wurden ironisch auch das „A und O der Landschaft“ genannt.</abstract>
 <wikilink>http://en.wikipedia.org/wiki/Oswald_Achenbach?oldid=591869934</wikilink>
+<artworks />
+<buildings />
+<books />
 </Person>

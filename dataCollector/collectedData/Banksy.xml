@@ -1,0 +1,22 @@
+<Person>
+<name>Banksy</name>
+<variantName>
+<XML_Serializer_Tag>Robin Banksy</XML_Serializer_Tag>
+</variantName>
+<thumbnail>https://commons.wikimedia.org/wiki/Special:FilePath/Banksy_Hitchhiker_to_Anywhere_Archway_2005.jpg?width=270</thumbnail>
+<birthEN>1974</birthEN>
+<birthDE>1974</birthDE>
+<deathEN />
+<deathDE />
+<birthPlace />
+<deathPlace />
+<professionOrOccupation>
+<XML_Serializer_Tag>Künstler</XML_Serializer_Tag>
+</professionOrOccupation>
+<dbpResource>http://dbpedia.org/resource/Banksy</dbpResource>
+<abstract>Banksy [ˈbæŋkzi] (* vermutlich 1974 in Bristol, Großbritannien) ist ein britischer Streetart-Künstler. Seine Schablonengraffiti wurden in Bristol und London bekannt. Er ist zudem weltweit in anderen Ländern aktiv geworden, unter anderem in Australien, Deutschland, Israel, Italien, Jamaika, Kuba, Mali, Mexiko, Japan, Palästina, Spanien, Österreich, Kanada und den USA. Banksy bemüht sich, seinen Namen sowie seine Identität geheim zu halten.</abstract>
+<wikilink>http://en.wikipedia.org/wiki/Banksy?oldid=606439189</wikilink>
+<artworks />
+<buildings />
+<books />
+</Person>

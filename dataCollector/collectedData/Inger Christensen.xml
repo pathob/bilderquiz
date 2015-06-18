@@ -1,0 +1,68 @@
+<Person>
+<name>Inger Christensen</name>
+<variantName />
+<thumbnail>https://commons.wikimedia.org/wiki/Special:FilePath/Inger_Christensen_laser_ur_ett_av_sina_verk_vid_lanseringen_av_Nordisk_litteratur_til_tjeneste_pa_Sorte_diamant_i_Kopenhamn_2008-03-05.jpg?width=270</thumbnail>
+<birthEN>January 16, 1935</birthEN>
+<birthDE>16. Januar 1935</birthDE>
+<deathEN>January 2, 2009</deathEN>
+<deathDE>2. Januar 2009</deathDE>
+<birthPlace>
+<XML_Serializer_Tag>Vejle</XML_Serializer_Tag>
+</birthPlace>
+<deathPlace>
+<XML_Serializer_Tag>Kopenhagen</XML_Serializer_Tag>
+</deathPlace>
+<professionOrOccupation>
+<XML_Serializer_Tag>Schriftstellerin</XML_Serializer_Tag>
+<XML_Serializer_Tag>Lyrikerin</XML_Serializer_Tag>
+</professionOrOccupation>
+<dbpResource>http://dbpedia.org/resource/Inger_Christensen</dbpResource>
+<abstract>Inger Christensen (* 16. Januar 1935 in Vejle, Dänemark; † 2. Januar 2009 in Kopenhagen) war eine dänische Schriftstellerin. Sie zählte zu den bedeutendsten europäischen Lyrikerinnen ihrer Generation und galt jahrzehntelang als Kandidatin für den Nobelpreis.</abstract>
+<wikilink>http://en.wikipedia.org/wiki/Inger_Christensen?oldid=594855367</wikilink>
+<artworks />
+<buildings />
+<books>
+<XML_Serializer_Tag>
+<book>
+<type>uri</type>
+<value>http://dbpedia.org/resource/It_(poetry)</value>
+</book>
+<author>
+<type>uri</type>
+<value>http://dbpedia.org/resource/Inger_Christensen</value>
+</author>
+<wikilink>
+<type>uri</type>
+<value>http://en.wikipedia.org/wiki/It_(poetry)?oldid=559106215</value>
+</wikilink>
+</XML_Serializer_Tag>
+<XML_Serializer_Tag>
+<book>
+<type>uri</type>
+<value>http://dbpedia.org/resource/Alphabet_(book)</value>
+</book>
+<author>
+<type>uri</type>
+<value>http://dbpedia.org/resource/Inger_Christensen</value>
+</author>
+<wikilink>
+<type>uri</type>
+<value>http://en.wikipedia.org/wiki/Alphabet_(book)?oldid=585227437</value>
+</wikilink>
+</XML_Serializer_Tag>
+<XML_Serializer_Tag>
+<book>
+<type>uri</type>
+<value>http://dbpedia.org/resource/Butterfly_Valley:_A_Requiem</value>
+</book>
+<author>
+<type>uri</type>
+<value>http://dbpedia.org/resource/Inger_Christensen</value>
+</author>
+<wikilink>
+<type>uri</type>
+<value>http://en.wikipedia.org/wiki/Butterfly_Valley:_A_Requiem?oldid=588902590</value>
+</wikilink>
+</XML_Serializer_Tag>
+</books>
+</Person>

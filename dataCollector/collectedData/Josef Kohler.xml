@@ -1,0 +1,30 @@
+<Person>
+<name>Josef Kohler</name>
+<variantName>
+<XML_Serializer_Tag>Joseph Kohler</XML_Serializer_Tag>
+<XML_Serializer_Tag>J. Kohler</XML_Serializer_Tag>
+<XML_Serializer_Tag>Jos. Kohler</XML_Serializer_Tag>
+<XML_Serializer_Tag>Jozef Koler</XML_Serializer_Tag>
+</variantName>
+<thumbnail>https://commons.wikimedia.org/wiki/Special:FilePath/JosefKohler.jpg?width=270</thumbnail>
+<birthEN>March 9, 1849</birthEN>
+<birthDE>9. März 1849</birthDE>
+<deathEN>August 3, 1919</deathEN>
+<deathDE>3. August 1919</deathDE>
+<birthPlace>
+<XML_Serializer_Tag>Offenburg</XML_Serializer_Tag>
+</birthPlace>
+<deathPlace>
+<XML_Serializer_Tag>Berlin-Charlottenburg</XML_Serializer_Tag>
+</deathPlace>
+<professionOrOccupation>
+<XML_Serializer_Tag>Jurist</XML_Serializer_Tag>
+<XML_Serializer_Tag>Schriftsteller</XML_Serializer_Tag>
+</professionOrOccupation>
+<dbpResource>http://dbpedia.org/resource/Josef_Kohler</dbpResource>
+<abstract>Josef Kohler (* 9. März 1849 in Offenburg; † 3. August 1919 in Charlottenburg) war ein deutscher Jurist.</abstract>
+<wikilink>http://en.wikipedia.org/wiki/Josef_Kohler?oldid=592869382</wikilink>
+<artworks />
+<buildings />
+<books />
+</Person>

@@ -1,0 +1,92 @@
+<Person>
+<name>Mary McCarthy</name>
+<variantName>
+<XML_Serializer_Tag>Mary MacCarthy</XML_Serializer_Tag>
+<XML_Serializer_Tag>Mary Mc Carthy</XML_Serializer_Tag>
+<XML_Serializer_Tag>Mary T. McCarthy</XML_Serializer_Tag>
+<XML_Serializer_Tag>Mary Therese McCarthy</XML_Serializer_Tag>
+<XML_Serializer_Tag>Mary Therese Wilson</XML_Serializer_Tag>
+<XML_Serializer_Tag>Mary Therese West</XML_Serializer_Tag>
+</variantName>
+<thumbnail>https://commons.wikimedia.org/wiki/Special:FilePath/Mary_Therese_McCarthy_NYWTS.jpg?width=270</thumbnail>
+<birthEN>June 21, 1912</birthEN>
+<birthDE>21. Juni 1912</birthDE>
+<deathEN>October 25, 1989</deathEN>
+<deathDE>25. Oktober 1989</deathDE>
+<birthPlace>
+<XML_Serializer_Tag>Seattle, Wash.</XML_Serializer_Tag>
+</birthPlace>
+<deathPlace />
+<professionOrOccupation>
+<XML_Serializer_Tag>Schriftstellerin</XML_Serializer_Tag>
+<XML_Serializer_Tag>Theaterkritikerin</XML_Serializer_Tag>
+</professionOrOccupation>
+<dbpResource>http://dbpedia.org/resource/Mary_McCarthy_(author)</dbpResource>
+<abstract>Mary Therese McCarthy (* 21. Juni 1912 in Seattle; † 25. Oktober 1989 in New York City) war eine US-amerikanische Schriftstellerin und Frauenrechtlerin.</abstract>
+<wikilink>http://en.wikipedia.org/wiki/Mary_McCarthy_(author)?oldid=604791959</wikilink>
+<artworks />
+<buildings />
+<books>
+<XML_Serializer_Tag>
+<book>
+<type>uri</type>
+<value>http://dbpedia.org/resource/The_Group_(novel)</value>
+</book>
+<author>
+<type>uri</type>
+<value>http://dbpedia.org/resource/Mary_McCarthy_(author)</value>
+</author>
+<wikilink>
+<type>uri</type>
+<value>http://en.wikipedia.org/wiki/The_Group_(novel)?oldid=592514631</value>
+</wikilink>
+<abstract>
+<type>literal</type>
+<xml:lang>de</xml:lang>
+<value>Die Clique (engl. Originaltitel: The Group) ist ein 1963 erschienener Roman der Schriftstellerin Mary McCarthy. Er stand auf der New York Times Bestseller-Liste und wurde 1966 erfolgreich verfilmt.</value>
+</abstract>
+</XML_Serializer_Tag>
+<XML_Serializer_Tag>
+<book>
+<type>uri</type>
+<value>http://dbpedia.org/resource/The_Oasis_(novel)</value>
+</book>
+<author>
+<type>uri</type>
+<value>http://dbpedia.org/resource/Mary_McCarthy_(author)</value>
+</author>
+<wikilink>
+<type>uri</type>
+<value>http://en.wikipedia.org/wiki/The_Oasis_(novel)?oldid=606774288</value>
+</wikilink>
+</XML_Serializer_Tag>
+<XML_Serializer_Tag>
+<book>
+<type>uri</type>
+<value>http://dbpedia.org/resource/A_Charmed_Life</value>
+</book>
+<author>
+<type>uri</type>
+<value>http://dbpedia.org/resource/Mary_McCarthy_(author)</value>
+</author>
+<wikilink>
+<type>uri</type>
+<value>http://en.wikipedia.org/wiki/A_Charmed_Life?oldid=546517297</value>
+</wikilink>
+</XML_Serializer_Tag>
+<XML_Serializer_Tag>
+<book>
+<type>uri</type>
+<value>http://dbpedia.org/resource/The_Groves_of_Academe</value>
+</book>
+<author>
+<type>uri</type>
+<value>http://dbpedia.org/resource/Mary_McCarthy_(author)</value>
+</author>
+<wikilink>
+<type>uri</type>
+<value>http://en.wikipedia.org/wiki/The_Groves_of_Academe?oldid=597944354</value>
+</wikilink>
+</XML_Serializer_Tag>
+</books>
+</Person>

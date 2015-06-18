@@ -19,8 +19,10 @@
 <XML_Serializer_Tag>Architekt</XML_Serializer_Tag>
 <XML_Serializer_Tag>Maler</XML_Serializer_Tag>
 </professionOrOccupation>
-<artworks />
 <dbpResource>http://dbpedia.org/resource/Dominikus_Zimmermann</dbpResource>
 <abstract>Dominikus Zimmermann (* 30. Juni 1685 in Gaispoint, heute Wessobrunn; † 16. November 1766 in Wies bei Steingaden) war ein kurbayerischer Stuckateur und Baumeister des Rokoko. Er gilt als einer der bedeutendsten deutschen Rokokobaumeister. Wie sein älterer Bruder Johann Baptist Zimmermann, mit dem er häufig zusammenarbeitete, wird er der Wessobrunner Schule zugerechnet. Dominikus Zimmermanns Hauptwerk, die Wieskirche, zählt zum UNESCO-Welterbe.</abstract>
 <wikilink>http://en.wikipedia.org/wiki/Dominikus_Zimmermann?oldid=578781645</wikilink>
+<artworks />
+<buildings />
+<books />
 </Person>

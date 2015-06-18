@@ -1,0 +1,103 @@
+<Person>
+<name>Gertrude Stein</name>
+<variantName>
+<XML_Serializer_Tag>Gertruda Stein</XML_Serializer_Tag>
+<XML_Serializer_Tag>Gertruda Stain</XML_Serializer_Tag>
+</variantName>
+<thumbnail>https://commons.wikimedia.org/wiki/Special:FilePath/Gertrude_Stein_1935-01-04.jpg?width=270</thumbnail>
+<birthEN>February 3, 1874</birthEN>
+<birthDE>3. Februar 1874</birthDE>
+<deathEN>July 27, 1946</deathEN>
+<deathDE>27. Juli 1946</deathDE>
+<birthPlace>
+<XML_Serializer_Tag>Allegheny</XML_Serializer_Tag>
+</birthPlace>
+<deathPlace>
+<XML_Serializer_Tag>Paris</XML_Serializer_Tag>
+</deathPlace>
+<professionOrOccupation>
+<XML_Serializer_Tag>Schriftstellerin</XML_Serializer_Tag>
+</professionOrOccupation>
+<dbpResource>http://dbpedia.org/resource/Gertrude_Stein</dbpResource>
+<abstract>Gertrude Stein (* 3. Februar 1874 in Allegheny, heute Pittsburgh, Pennsylvania; † 27. Juli 1946 in Paris) war eine amerikanische Schriftstellerin, Verlegerin und Kunstsammlerin.Sie ließ sich 1903 in Paris nieder und teilte ihren berühmten, mit zeitgenössischer Kunst ausgestatteten Salon in der Rue de Fleurus 27 zuerst mit ihrem Bruder, dem Kunstsammler und -kritiker Leo Stein, und ab 1913 mit ihrer Lebensgefährtin Alice B. Toklas. Auf Steins Einladungen hin trafen sich dort zu der Zeit unbekannte Persönlichkeiten der künstlerischen Avantgarde wie Pablo Picasso, Henri Matisse, Georges Braque und Juan Gris, deren Werke die Geschwister Stein erwarben. Nach dem Ersten Weltkrieg, ab den frühen 1920er-Jahren, suchten junge US-amerikanische Schriftsteller der Moderne wie beispielsweise F. Scott Fitzgerald, Sherwood Anderson und Ernest Hemingway den Salon auf, deren literarisches Werk vom experimentellen Schreibstil Steins beeinflusst wurde.Gertrude Stein zählt wie Virginia Woolf zu den ersten Frauen der klassischen literarischen Moderne. Sie schrieb experimentelle Romane, Novellen, Essays, Gedichte, literarische Porträts und Bühnenwerke, in denen sie sich über sprachliche und literarische Konventionen hinwegsetzte, sodass viele Kritiker und Leser ihr Werk als zu schwierig empfanden, sich darüber belustigten oder es ignorierten. Erst ihr mehr im konventionellen Stil verfasstes Buch The Autobiography of Alice B. Toklas, 1933 in New York veröffentlicht, erreichte einen hohen Bekanntheitsgrad und machte sie zu einer literarischen Berühmtheit. Stein prägte den häufig in Abwandlungen zitierten Satz „Rose is a rose is a rose is a rose“, der aus dem Gedicht Sacred Emily in dem 1922 veröffentlichten Buch Geography and Plays stammt.</abstract>
+<wikilink>http://en.wikipedia.org/wiki/Gertrude_Stein?oldid=605717934</wikilink>
+<artworks />
+<buildings />
+<books>
+<XML_Serializer_Tag>
+<book>
+<type>uri</type>
+<value>http://dbpedia.org/resource/The_Autobiography_of_Alice_B._Toklas</value>
+</book>
+<author>
+<type>uri</type>
+<value>http://dbpedia.org/resource/Gertrude_Stein</value>
+</author>
+<thumbnail>
+<type>uri</type>
+<value>http://commons.wikimedia.org/wiki/Special:FilePath/Alice_B._Toklas,_by_Carl_Van_Vechten_-_1949.jpg?width=300</value>
+</thumbnail>
+<released>
+<type>typed-literal</type>
+<datatype>http://www.w3.org/2001/XMLSchema#integer</datatype>
+<value>1933</value>
+</released>
+<wikilink>
+<type>uri</type>
+<value>http://en.wikipedia.org/wiki/The_Autobiography_of_Alice_B._Toklas?oldid=602114958</value>
+</wikilink>
+</XML_Serializer_Tag>
+<XML_Serializer_Tag>
+<book>
+<type>uri</type>
+<value>http://dbpedia.org/resource/Ida:_A_Novel</value>
+</book>
+<author>
+<type>uri</type>
+<value>http://dbpedia.org/resource/Gertrude_Stein</value>
+</author>
+<released>
+<type>typed-literal</type>
+<datatype>http://www.w3.org/2001/XMLSchema#date</datatype>
+<value>1941-02-15+02:00</value>
+</released>
+<wikilink>
+<type>uri</type>
+<value>http://en.wikipedia.org/wiki/Ida:_A_Novel?oldid=594224355</value>
+</wikilink>
+</XML_Serializer_Tag>
+<XML_Serializer_Tag>
+<book>
+<type>uri</type>
+<value>http://dbpedia.org/resource/Three_Lives</value>
+</book>
+<author>
+<type>uri</type>
+<value>http://dbpedia.org/resource/Gertrude_Stein</value>
+</author>
+<released>
+<type>typed-literal</type>
+<datatype>http://www.w3.org/2001/XMLSchema#integer</datatype>
+<value>1909</value>
+</released>
+<wikilink>
+<type>uri</type>
+<value>http://en.wikipedia.org/wiki/Three_Lives?oldid=603765406</value>
+</wikilink>
+</XML_Serializer_Tag>
+<XML_Serializer_Tag>
+<book>
+<type>uri</type>
+<value>http://dbpedia.org/resource/The_Making_of_Americans</value>
+</book>
+<author>
+<type>uri</type>
+<value>http://dbpedia.org/resource/Gertrude_Stein</value>
+</author>
+<wikilink>
+<type>uri</type>
+<value>http://en.wikipedia.org/wiki/The_Making_of_Americans?oldid=544887585</value>
+</wikilink>
+</XML_Serializer_Tag>
+</books>
+</Person>

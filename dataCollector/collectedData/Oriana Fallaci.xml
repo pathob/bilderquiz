@@ -1,0 +1,96 @@
+<Person>
+<name>Oriana Fallaci</name>
+<variantName>
+<XML_Serializer_Tag>Ao-li-ya-na Fa-la-chì</XML_Serializer_Tag>
+<XML_Serializer_Tag>Oriana Phalatsi</XML_Serializer_Tag>
+</variantName>
+<thumbnail>https://commons.wikimedia.org/wiki/Special:FilePath/Banisadr_Fallaci_Tehran_1979.jpg?width=270</thumbnail>
+<birthEN>June 29, 1929</birthEN>
+<birthDE>29. Juni 1929</birthDE>
+<deathEN>September 15, 2006</deathEN>
+<deathDE>15. September 2006</deathDE>
+<birthPlace />
+<deathPlace />
+<professionOrOccupation>
+<XML_Serializer_Tag>Journalistin</XML_Serializer_Tag>
+<XML_Serializer_Tag>Schriftstellerin</XML_Serializer_Tag>
+</professionOrOccupation>
+<dbpResource>http://dbpedia.org/resource/Oriana_Fallaci</dbpResource>
+<abstract>Oriana Fallaci (* 29. Juni 1929 in Florenz; † 15. September 2006 ebenda) war eine italienische Journalistin und Schriftstellerin.</abstract>
+<wikilink>http://en.wikipedia.org/wiki/Oriana_Fallaci?oldid=601932016</wikilink>
+<artworks />
+<buildings />
+<books>
+<XML_Serializer_Tag>
+<book>
+<type>uri</type>
+<value>http://dbpedia.org/resource/Inshallah_(novel)</value>
+</book>
+<author>
+<type>uri</type>
+<value>http://dbpedia.org/resource/Oriana_Fallaci</value>
+</author>
+<released>
+<type>typed-literal</type>
+<datatype>http://www.w3.org/2001/XMLSchema#integer</datatype>
+<value>1992</value>
+</released>
+<wikilink>
+<type>uri</type>
+<value>http://en.wikipedia.org/wiki/Inshallah_(novel)?oldid=603439687</value>
+</wikilink>
+<abstract>
+<type>literal</type>
+<xml:lang>de</xml:lang>
+<value>Inschallah (Originaltitel: Insciallah) ist ein Roman der italienischen Journalistin und Schriftstellerin Oriana Fallaci. Der Roman thematisiert den Einsatz des italienischen Kontingents der multinationalen Streitkräfte während des Libanesischen Bürgerkriegs im Zeitraum von Ende 1983 bis Anfang 1984. Den Hintergrund der Handlung bilden das Massaker von Sabra und Schatila sowie der Anschlag auf den US-Stützpunkt in Beirut 1983 und das Hauptquartier der französischen Fallschirmjäger im Oktober 1983.</value>
+</abstract>
+</XML_Serializer_Tag>
+<XML_Serializer_Tag>
+<book>
+<type>uri</type>
+<value>http://dbpedia.org/resource/A_Man</value>
+</book>
+<author>
+<type>uri</type>
+<value>http://dbpedia.org/resource/Oriana_Fallaci</value>
+</author>
+<wikilink>
+<type>uri</type>
+<value>http://en.wikipedia.org/wiki/A_Man?oldid=583380201</value>
+</wikilink>
+<abstract>
+<type>literal</type>
+<xml:lang>de</xml:lang>
+<value>Ein Mann (Originaltitel: Un Uomo) ist ein 1979 erschienener autobiographischer Roman der Journalistin und Schriftstellerin Oriana Fallaci, in dem sie ihre Beziehung zu dem griechischen Widerstandskämpfer, Politiker und Dichter Alekos Panagoulis verarbeitet.Fallaci lernte Panagoulis im Rahmen eines Interviews nach dessen Freilassung aus dem Gefängnis 1973 kennen und wurde seine Gefährtin bis zu seinem Tod im Jahr 1976. Der Roman ist eine in der Du-Form an den verstorbenen Geliebten gerichtete Erzählung. Panagoulis wird von Fallaci als sehr komplexe Persönlichkeit beschrieben, die hochintelligent, humor- und phantasievoll, exzentrisch und impulsiv ist und außerdem mit der Fähigkeit ausgestattet ist, andere zu begeistern und mitzureißen, andererseits aber auch als stur, hochmütig, autoritär, unstet, jähzornig, gewalttätig und von einer diffusen Todessehnsucht gepeinigt.</value>
+</abstract>
+</XML_Serializer_Tag>
+<XML_Serializer_Tag>
+<book>
+<type>uri</type>
+<value>http://dbpedia.org/resource/Interview_with_History</value>
+</book>
+<author>
+<type>uri</type>
+<value>http://dbpedia.org/resource/Oriana_Fallaci</value>
+</author>
+<wikilink>
+<type>uri</type>
+<value>http://en.wikipedia.org/wiki/Interview_with_History?oldid=592059643</value>
+</wikilink>
+</XML_Serializer_Tag>
+<XML_Serializer_Tag>
+<book>
+<type>uri</type>
+<value>http://dbpedia.org/resource/Letter_to_a_Child_Never_Born</value>
+</book>
+<author>
+<type>uri</type>
+<value>http://dbpedia.org/resource/Oriana_Fallaci</value>
+</author>
+<wikilink>
+<type>uri</type>
+<value>http://en.wikipedia.org/wiki/Letter_to_a_Child_Never_Born?oldid=549119590</value>
+</wikilink>
+</XML_Serializer_Tag>
+</books>
+</Person>

@@ -22,8 +22,10 @@
 <XML_Serializer_Tag>Künstler</XML_Serializer_Tag>
 <XML_Serializer_Tag>Maler</XML_Serializer_Tag>
 </professionOrOccupation>
-<artworks />
 <dbpResource>http://dbpedia.org/resource/Anthon_van_Rappard</dbpResource>
 <abstract>Anton Gerard Alexander van Rappard (* 14. Mai 1858 in Zeist; † 21. März 1892 in Santpoort) war ein niederländischer Maler und Zeichner. Er war Schüler von Lawrence Alma-Tadema und für etwa vier Jahre in Brüssel Freund und Mentor von Vincent van Gogh, der ihn unter anderem wegen seines sozialen Engagements wertschätzte. Die Briefe, die van Gogh an van Rappard schrieb, sind eine wichtige Quelle über Leben und Werk van Goghs.Zwischenzeitlich arbeitete van Rappard im Studio des Historienmalers Jean-Léon Gérôme.Heute sind van Rappards Werke, nicht zuletzt wegen seines kurzen Lebens, selten und erzielen hohe Preise.</abstract>
 <wikilink>http://en.wikipedia.org/wiki/Anthon_van_Rappard?oldid=557089424</wikilink>
+<artworks />
+<buildings />
+<books />
 </Person>

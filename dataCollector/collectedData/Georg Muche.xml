@@ -15,8 +15,10 @@
 <XML_Serializer_Tag>Maler</XML_Serializer_Tag>
 <XML_Serializer_Tag>Zeichner</XML_Serializer_Tag>
 </professionOrOccupation>
-<artworks />
 <dbpResource>http://dbpedia.org/resource/Georg_Muche</dbpResource>
 <abstract>Georg Muche (* 8. Mai 1895 in Querfurt; † 26. März 1987 in Lindau) war ein deutscher Maler, Grafiker und Hochschullehrer.</abstract>
 <wikilink>http://en.wikipedia.org/wiki/Georg_Muche?oldid=565516518</wikilink>
+<artworks />
+<buildings />
+<books />
 </Person>

@@ -1,0 +1,26 @@
+<Person>
+<name>Heinrich Breloer</name>
+<variantName />
+<thumbnail>https://commons.wikimedia.org/wiki/Special:FilePath/Heinrich_Breloer_2005.jpg?width=270</thumbnail>
+<birthEN>1942</birthEN>
+<birthDE>1942</birthDE>
+<deathEN />
+<deathDE />
+<birthPlace>
+<XML_Serializer_Tag>Gelsenkirchen</XML_Serializer_Tag>
+</birthPlace>
+<deathPlace />
+<professionOrOccupation>
+<XML_Serializer_Tag>Filmregisseur</XML_Serializer_Tag>
+<XML_Serializer_Tag>Autor</XML_Serializer_Tag>
+<XML_Serializer_Tag>Regisseur</XML_Serializer_Tag>
+<XML_Serializer_Tag>Drehbuchautor</XML_Serializer_Tag>
+<XML_Serializer_Tag>Filmproduzent</XML_Serializer_Tag>
+</professionOrOccupation>
+<dbpResource>http://dbpedia.org/resource/Heinrich_Breloer</dbpResource>
+<abstract>Heinrich Breloer (* 17. Februar 1942 in Gelsenkirchen) ist ein deutscher Autor und Filmregisseur. Breloer konzipierte maßgeblich das Film-Genre Doku-Drama, damit behandelte er in einer Verbindung von Spielfilm und Dokumentarfilm vor allem Themen zur neueren deutschen Geschichte und wurde dafür vielfach ausgezeichnet.</abstract>
+<wikilink>http://en.wikipedia.org/wiki/Heinrich_Breloer?oldid=587656425</wikilink>
+<artworks />
+<buildings />
+<books />
+</Person>

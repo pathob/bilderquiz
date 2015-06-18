@@ -1,0 +1,38 @@
+<Person>
+<name>Iannis Xenakis</name>
+<variantName>
+<XML_Serializer_Tag>Yannis Xenakis</XML_Serializer_Tag>
+<XML_Serializer_Tag>Giannēs Xenakēs</XML_Serializer_Tag>
+<XML_Serializer_Tag>... Xenakis</XML_Serializer_Tag>
+<XML_Serializer_Tag>I. Xenakis</XML_Serializer_Tag>
+<XML_Serializer_Tag>Iannis Ksenakis</XML_Serializer_Tag>
+<XML_Serializer_Tag>Ianisu Kusenakisu</XML_Serializer_Tag>
+<XML_Serializer_Tag>Iannes Xenakes</XML_Serializer_Tag>
+<XML_Serializer_Tag>Ianēs Xenakēs</XML_Serializer_Tag>
+<XML_Serializer_Tag>Jannis Xenakis</XML_Serializer_Tag>
+<XML_Serializer_Tag>Giannes Klearchu Xenakes</XML_Serializer_Tag>
+<XML_Serializer_Tag>Giannēs Klearchu Xenakēs</XML_Serializer_Tag>
+<XML_Serializer_Tag>Γιάννης Ξενάκης</XML_Serializer_Tag>
+</variantName>
+<thumbnail>https://commons.wikimedia.org/wiki/Special:FilePath/Iannis_Xenakis_1975.jpg?width=270</thumbnail>
+<birthEN>May 29, 1922</birthEN>
+<birthDE>29. Mai 1922</birthDE>
+<deathEN>February 4, 2001</deathEN>
+<deathDE>4. Februar 2001</deathDE>
+<birthPlace>
+<XML_Serializer_Tag>Brǎila</XML_Serializer_Tag>
+</birthPlace>
+<deathPlace>
+<XML_Serializer_Tag>Paris</XML_Serializer_Tag>
+</deathPlace>
+<professionOrOccupation>
+<XML_Serializer_Tag>Komponist</XML_Serializer_Tag>
+<XML_Serializer_Tag>Architekt</XML_Serializer_Tag>
+</professionOrOccupation>
+<dbpResource>http://dbpedia.org/resource/Iannis_Xenakis</dbpResource>
+<abstract>Iannis Xenakis (griechisch Ιάννης Ξενάκης, * 29. Mai 1922 in Brăila, Rumänien; † 4. Februar 2001 in Paris) war ein Komponist und Architekt griechischer Herkunft, der größtenteils in Frankreich gelebt hat. Xenakis&apos; Musik ist stark von seinem Interesse an mathematischen und akustischen Gesetzmäßigkeiten geprägt. Aus zufälligen (stochastischen) Phänomenen wie Regen, einer Menschenmasse oder einem Bienenschwarm, entwickelte er ab 1954 einen eigenen Musikstil: die stochastische Musik. Darüber hinaus versuchte Xenakis, Verfahren und Erkenntnisse der Spieltheorie, Mengenlehre und der Zahlentheorie in seinen Kompositionen umzusetzen.1997 erhielt er den Kyoto-Preis, 1999 den Polar Music Prize, der als inoffizieller Nobelpreis für Musik angesehen wird.</abstract>
+<wikilink>http://en.wikipedia.org/wiki/Iannis_Xenakis?oldid=605519827</wikilink>
+<artworks />
+<buildings />
+<books />
+</Person>

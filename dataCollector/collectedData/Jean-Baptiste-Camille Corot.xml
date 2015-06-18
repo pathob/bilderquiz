@@ -25,12 +25,15 @@
 <XML_Serializer_Tag>Zeichner</XML_Serializer_Tag>
 <XML_Serializer_Tag>Radierer</XML_Serializer_Tag>
 </professionOrOccupation>
+<dbpResource>http://dbpedia.org/resource/Jean-Baptiste-Camille_Corot</dbpResource>
+<abstract>Jean-Baptiste Camille Corot (* 16. Juli 1796 in Paris; † 22. Februar 1875 ebenda) war ein bedeutender französischer Landschaftsmaler. Er ist einer der Hauptvertreter der Schule von Barbizon.</abstract>
+<wikilink>http://en.wikipedia.org/wiki/Jean-Baptiste-Camille_Corot?oldid=597474442</wikilink>
 <artworks>
 <XML_Serializer_Tag>
-<painting>
+<artwork>
 <type>uri</type>
 <value>http://dbpedia.org/resource/Le_concert_champ%C3%AAtre</value>
-</painting>
+</artwork>
 <thumbnail>
 <type>uri</type>
 <value>http://commons.wikimedia.org/wiki/Special:FilePath/Corot_concert_champêtre_Condé_Chantilly.jpg?width=300</value>
@@ -54,12 +57,17 @@
 <type>uri</type>
 <value>http://en.wikipedia.org/wiki/Le_concert_champêtre?oldid=589487383</value>
 </wikilink>
+<type>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>oil on canvas</value>
+</type>
 </XML_Serializer_Tag>
 <XML_Serializer_Tag>
-<painting>
+<artwork>
 <type>uri</type>
 <value>http://dbpedia.org/resource/The_Bridge_at_Narni</value>
-</painting>
+</artwork>
 <thumbnail>
 <type>uri</type>
 <value>http://commons.wikimedia.org/wiki/Special:FilePath/Jean-Baptiste-Camille_Corot_006.jpg?width=300</value>
@@ -78,12 +86,17 @@
 <type>uri</type>
 <value>http://en.wikipedia.org/wiki/The_Bridge_at_Narni?oldid=586574806</value>
 </wikilink>
+<type>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>Oil on paper mounted on canvas</value>
+</type>
 </XML_Serializer_Tag>
 <XML_Serializer_Tag>
-<painting>
+<artwork>
 <type>uri</type>
 <value>http://dbpedia.org/resource/Venise,_La_Piazetta</value>
-</painting>
+</artwork>
 <thumbnail>
 <type>uri</type>
 <value>http://commons.wikimedia.org/wiki/Special:FilePath/Venise,_La_Piazetta_(Camille_Corot).jpg?width=300</value>
@@ -102,12 +115,17 @@
 <type>uri</type>
 <value>http://en.wikipedia.org/wiki/Venise,_La_Piazetta?oldid=603233835</value>
 </wikilink>
+<type>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>oil on canvas</value>
+</type>
 </XML_Serializer_Tag>
 <XML_Serializer_Tag>
-<painting>
+<artwork>
 <type>uri</type>
 <value>http://dbpedia.org/resource/Souvenir_de_Mortefontaine</value>
-</painting>
+</artwork>
 <thumbnail>
 <type>uri</type>
 <value>http://commons.wikimedia.org/wiki/Special:FilePath/Jean-Baptiste-Camille_Corot_012.jpg?width=300</value>
@@ -126,12 +144,17 @@
 <type>uri</type>
 <value>http://en.wikipedia.org/wiki/Souvenir_de_Mortefontaine?oldid=590949793</value>
 </wikilink>
+<type>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>Oil-on-canvas</value>
+</type>
 </XML_Serializer_Tag>
 <XML_Serializer_Tag>
-<painting>
+<artwork>
 <type>uri</type>
 <value>http://dbpedia.org/resource/Femme_Lisant</value>
-</painting>
+</artwork>
 <thumbnail>
 <type>uri</type>
 <value>http://commons.wikimedia.org/wiki/Special:FilePath/Jean-Baptiste-Camille_Corot_031.jpg?width=300</value>
@@ -150,12 +173,17 @@
 <type>uri</type>
 <value>http://en.wikipedia.org/wiki/Femme_Lisant?oldid=586440577</value>
 </wikilink>
+<type>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>oil on paper</value>
+</type>
 </XML_Serializer_Tag>
 <XML_Serializer_Tag>
-<painting>
+<artwork>
 <type>uri</type>
 <value>http://dbpedia.org/resource/Ville_d&apos;Avray_(painting)</value>
-</painting>
+</artwork>
 <thumbnail>
 <type>uri</type>
 <value>http://commons.wikimedia.org/wiki/Special:FilePath/Corot.villedavray.750pix.jpg?width=300</value>
@@ -174,9 +202,13 @@
 <type>uri</type>
 <value>http://en.wikipedia.org/wiki/Ville_d&apos;Avray_(painting)?oldid=591096500</value>
 </wikilink>
+<type>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>oil on canvas</value>
+</type>
 </XML_Serializer_Tag>
 </artworks>
-<dbpResource>http://dbpedia.org/resource/Jean-Baptiste-Camille_Corot</dbpResource>
-<abstract>Jean-Baptiste Camille Corot (* 16. Juli 1796 in Paris; † 22. Februar 1875 ebenda) war ein bedeutender französischer Landschaftsmaler. Er ist einer der Hauptvertreter der Schule von Barbizon.</abstract>
-<wikilink>http://en.wikipedia.org/wiki/Jean-Baptiste-Camille_Corot?oldid=597474442</wikilink>
+<buildings />
+<books />
 </Person>

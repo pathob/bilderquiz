@@ -12,12 +12,15 @@
 <XML_Serializer_Tag>Maler</XML_Serializer_Tag>
 <XML_Serializer_Tag>Bildhauer</XML_Serializer_Tag>
 </professionOrOccupation>
+<dbpResource>http://dbpedia.org/resource/Michael_Heizer</dbpResource>
+<abstract>Michael &quot;Mike&quot; Heizer (* 4. November 1944 in Berkeley, Kalifornien) ist ein international anerkannter Künstler und Gestalter von Kunstwerken, die der Land Art zugerechnet werden.</abstract>
+<wikilink>http://en.wikipedia.org/wiki/Michael_Heizer?oldid=605560404</wikilink>
 <artworks>
 <XML_Serializer_Tag>
-<painting>
+<artwork>
 <type>uri</type>
 <value>http://dbpedia.org/resource/Levitated_Mass</value>
-</painting>
+</artwork>
 <thumbnail>
 <type>uri</type>
 <value>http://commons.wikimedia.org/wiki/Special:FilePath/The_Rock_at_LACMA_sharp.jpg?width=300</value>
@@ -36,9 +39,12 @@
 <type>uri</type>
 <value>http://en.wikipedia.org/wiki/Levitated_Mass?oldid=602518115</value>
 </wikilink>
+<type>
+<type>uri</type>
+<value>http://dbpedia.org/resource/Sculpture</value>
+</type>
 </XML_Serializer_Tag>
 </artworks>
-<dbpResource>http://dbpedia.org/resource/Michael_Heizer</dbpResource>
-<abstract>Michael &quot;Mike&quot; Heizer (* 4. November 1944 in Berkeley, Kalifornien) ist ein international anerkannter Künstler und Gestalter von Kunstwerken, die der Land Art zugerechnet werden.</abstract>
-<wikilink>http://en.wikipedia.org/wiki/Michael_Heizer?oldid=605560404</wikilink>
+<buildings />
+<books />
 </Person>

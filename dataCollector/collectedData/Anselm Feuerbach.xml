@@ -18,8 +18,10 @@
 <XML_Serializer_Tag>Künstler</XML_Serializer_Tag>
 <XML_Serializer_Tag>Maler</XML_Serializer_Tag>
 </professionOrOccupation>
-<artworks />
 <dbpResource>http://dbpedia.org/resource/Anselm_Feuerbach</dbpResource>
 <abstract>Anselm Feuerbach (* 12. September 1829 in Speyer; † 4. Januar 1880 in Venedig) war ein deutscher Maler. Er gehört zu den bedeutendsten deutschen Malern der zweiten Hälfte des 19. Jahrhunderts.</abstract>
 <wikilink>http://en.wikipedia.org/wiki/Anselm_Feuerbach?oldid=603168207</wikilink>
+<artworks />
+<buildings />
+<books />
 </Person>

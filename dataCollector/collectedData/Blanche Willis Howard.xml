@@ -1,0 +1,29 @@
+<Person>
+<name>Blanche Willis Howard</name>
+<variantName>
+<XML_Serializer_Tag>Blanche Willis Howard von Teuffel</XML_Serializer_Tag>
+<XML_Serializer_Tag>Blanche Willis von Teuffel</XML_Serializer_Tag>
+</variantName>
+<thumbnail>https://de.wikipedia.org/wiki/Special:FilePath/Blanche_Willis_Howard.jpg?width=270</thumbnail>
+<birthEN>July 21, 1847</birthEN>
+<birthDE>21. Juli 1847</birthDE>
+<deathEN>October 7, 1898</deathEN>
+<deathDE>7. Oktober 1898</deathDE>
+<birthPlace>
+<XML_Serializer_Tag>Bangor, Maine</XML_Serializer_Tag>
+</birthPlace>
+<deathPlace>
+<XML_Serializer_Tag>München</XML_Serializer_Tag>
+</deathPlace>
+<professionOrOccupation>
+<XML_Serializer_Tag>Schriftstellerin</XML_Serializer_Tag>
+<XML_Serializer_Tag>Journalistin</XML_Serializer_Tag>
+<XML_Serializer_Tag>Erzieherin</XML_Serializer_Tag>
+</professionOrOccupation>
+<dbpResource>http://dbpedia.org/resource/Blanche_Willis_Howard</dbpResource>
+<abstract>Blanche Willis Howard (* 21. Juli 1847 in Bangor (Maine); † 7. Oktober 1898 in München), war eine amerikanische Schriftstellerin, die die produktivsten Jahre ihres Lebens in Deutschland verbracht hat.</abstract>
+<wikilink>http://en.wikipedia.org/wiki/Blanche_Willis_Howard?oldid=587100635</wikilink>
+<artworks />
+<buildings />
+<books />
+</Person>

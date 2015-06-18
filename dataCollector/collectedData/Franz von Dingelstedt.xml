@@ -1,0 +1,30 @@
+<Person>
+<name>Franz von Dingelstedt</name>
+<variantName>
+<XML_Serializer_Tag>Franz Dingelstedt</XML_Serializer_Tag>
+<XML_Serializer_Tag>F. Dingelstedt</XML_Serializer_Tag>
+<XML_Serializer_Tag>... Dingelstedt</XML_Serializer_Tag>
+<XML_Serializer_Tag>Franz Ferdinand von Dingelstedt</XML_Serializer_Tag>
+</variantName>
+<thumbnail>https://commons.wikimedia.org/wiki/Special:FilePath/Dingelstedt10001.jpg?width=270</thumbnail>
+<birthEN>June 30, 1814</birthEN>
+<birthDE>30. Juni 1814</birthDE>
+<deathEN>May 15, 1881</deathEN>
+<deathDE>15. Mai 1881</deathDE>
+<birthPlace>
+<XML_Serializer_Tag>Halsdorf</XML_Serializer_Tag>
+</birthPlace>
+<deathPlace>
+<XML_Serializer_Tag>Wien</XML_Serializer_Tag>
+</deathPlace>
+<professionOrOccupation>
+<XML_Serializer_Tag>Schriftsteller</XML_Serializer_Tag>
+<XML_Serializer_Tag>Theaterintendant</XML_Serializer_Tag>
+</professionOrOccupation>
+<dbpResource>http://dbpedia.org/resource/Franz_von_Dingelstedt</dbpResource>
+<abstract>Franz Freiherr von Dingelstedt (* 30. Juni 1814 in Halsdorf (Wohratal); † 15. Mai 1881 in Wien) war ein deutscher Dichter, Journalist und Theaterintendant. Er gilt als bedeutender Theaterleiter des späten 19. Jahrhunderts; zuletzt war er Direktor des Wiener Burgtheaters. Berühmt wurde er durch das von ihm gedichtete Weserlied, das von Gustav Pressel vertont wurde. Sein bekanntestes literarisches Werk sind die Lieder eines kosmopolitischen Nachtwächters.</abstract>
+<wikilink>http://en.wikipedia.org/wiki/Franz_von_Dingelstedt?oldid=594405805</wikilink>
+<artworks />
+<buildings />
+<books />
+</Person>

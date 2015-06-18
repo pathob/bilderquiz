@@ -1,0 +1,26 @@
+<Person>
+<name>Stefan Aust</name>
+<variantName />
+<thumbnail>https://commons.wikimedia.org/wiki/Special:FilePath/Stefan_Aust_006_new.jpg?width=270</thumbnail>
+<birthEN>1946</birthEN>
+<birthDE>1946</birthDE>
+<deathEN />
+<deathDE />
+<birthPlace>
+<XML_Serializer_Tag>Stade</XML_Serializer_Tag>
+</birthPlace>
+<deathPlace />
+<professionOrOccupation>
+<XML_Serializer_Tag>Journalist</XML_Serializer_Tag>
+<XML_Serializer_Tag>Chefredakteur</XML_Serializer_Tag>
+<XML_Serializer_Tag>Regisseur</XML_Serializer_Tag>
+<XML_Serializer_Tag>Drehbuchautor</XML_Serializer_Tag>
+<XML_Serializer_Tag>Schriftsteller</XML_Serializer_Tag>
+</professionOrOccupation>
+<dbpResource>http://dbpedia.org/resource/Stefan_Aust</dbpResource>
+<abstract>Stefan Aust (* 1. Juli 1946 in Stade) ist ein deutscher Journalist. Er war von 1994 bis 2008 Chefredakteur des deutschen Nachrichtenmagazins Der Spiegel und ist seit 2014 Herausgeber der Tageszeitung Die Welt.</abstract>
+<wikilink>http://en.wikipedia.org/wiki/Stefan_Aust?oldid=602638524</wikilink>
+<artworks />
+<buildings />
+<books />
+</Person>

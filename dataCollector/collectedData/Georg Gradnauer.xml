@@ -1,0 +1,29 @@
+<Person>
+<name>Georg Gradnauer</name>
+<variantName />
+<thumbnail>https://de.wikipedia.org/wiki/Special:FilePath/GradnauerGeorg.jpg?width=270</thumbnail>
+<birthEN>November 16, 1866</birthEN>
+<birthDE>16. November 1866</birthDE>
+<deathEN>November 18, 1946</deathEN>
+<deathDE>18. November 1946</deathDE>
+<birthPlace>
+<XML_Serializer_Tag>Magdeburg</XML_Serializer_Tag>
+</birthPlace>
+<deathPlace>
+<XML_Serializer_Tag>Berlin</XML_Serializer_Tag>
+</deathPlace>
+<professionOrOccupation>
+<XML_Serializer_Tag>Redakteur</XML_Serializer_Tag>
+<XML_Serializer_Tag>Politiker</XML_Serializer_Tag>
+<XML_Serializer_Tag>Diplomat</XML_Serializer_Tag>
+<XML_Serializer_Tag>Publizist</XML_Serializer_Tag>
+<XML_Serializer_Tag>Autor</XML_Serializer_Tag>
+<XML_Serializer_Tag>Abgeordneter</XML_Serializer_Tag>
+</professionOrOccupation>
+<dbpResource>http://dbpedia.org/resource/Georg_Gradnauer</dbpResource>
+<abstract>Georg Gradnauer (* 16. November 1866 in Magdeburg; † 18. November 1946 in Berlin-Schlachtensee) war ein deutscher Politiker (SPD).</abstract>
+<wikilink>http://en.wikipedia.org/wiki/Georg_Gradnauer?oldid=542802241</wikilink>
+<artworks />
+<buildings />
+<books />
+</Person>

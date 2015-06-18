@@ -13,8 +13,10 @@
 <XML_Serializer_Tag>Maler</XML_Serializer_Tag>
 <XML_Serializer_Tag>Installationskünstler</XML_Serializer_Tag>
 </professionOrOccupation>
-<artworks />
 <dbpResource>http://dbpedia.org/resource/David_Reed_(artist)</dbpResource>
 <abstract>David Reed (* 1946 in San Diego, Kalifornien) ist ein US-amerikanischer Maler und Multimedia-Künstler. Er lebt in New York.</abstract>
 <wikilink>http://en.wikipedia.org/wiki/David_Reed_(artist)?oldid=604984252</wikilink>
+<artworks />
+<buildings />
+<books />
 </Person>

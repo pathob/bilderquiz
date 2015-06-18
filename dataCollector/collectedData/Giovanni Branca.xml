@@ -1,0 +1,25 @@
+<Person>
+<name>Giovanni Branca</name>
+<variantName>
+<XML_Serializer_Tag>Gio. Branca</XML_Serializer_Tag>
+</variantName>
+<thumbnail>https://commons.wikimedia.org/wiki/Special:FilePath/BracaDampturbin.jpg?width=270</thumbnail>
+<birthEN>April 22, 1571</birthEN>
+<birthDE>22. April 1571</birthDE>
+<deathEN>January 24, 1640</deathEN>
+<deathDE>24. Januar 1640</deathDE>
+<birthPlace />
+<deathPlace>
+<XML_Serializer_Tag>Loreto</XML_Serializer_Tag>
+</deathPlace>
+<professionOrOccupation>
+<XML_Serializer_Tag>Ingenieur</XML_Serializer_Tag>
+<XML_Serializer_Tag>Architekt</XML_Serializer_Tag>
+</professionOrOccupation>
+<dbpResource>http://dbpedia.org/resource/Giovanni_Branca</dbpResource>
+<abstract>Giovanni Branca (* 22. April 1571 in Sant’Angelo in Lizzola; † 24. Januar 1645 in Loreto) war ein italienischer Ingenieur, Architekt und Architekturtheoretiker.1629 beschrieb er im Abendland als erster eine Dampfturbine, jedoch hatte der osmanisch-türkische Universalgelehrte Taqi al-Din bereits vor Branca 1551 eine Dampfturbine in einem seiner Werke beschrieben. Sein ebenfalls 1629 erschienenes Handbuch der Architektur wurde bis 1772 mehrfach aufgelegt und galt als besonders beliebtes Werk seiner Art.</abstract>
+<wikilink>http://en.wikipedia.org/wiki/Giovanni_Branca?oldid=599721949</wikilink>
+<artworks />
+<buildings />
+<books />
+</Person>

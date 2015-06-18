@@ -1,0 +1,82 @@
+<Person>
+<name>Shigeru Ban</name>
+<variantName />
+<thumbnail>https://commons.wikimedia.org/wiki/Special:FilePath/Centre_Pompidou-Metz_-_Pose_de_la_première_pierre_-2.jpg?width=270</thumbnail>
+<birthEN>1957</birthEN>
+<birthDE>1957</birthDE>
+<deathEN />
+<deathDE />
+<birthPlace>
+<XML_Serializer_Tag>Tokio</XML_Serializer_Tag>
+</birthPlace>
+<deathPlace />
+<professionOrOccupation>
+<XML_Serializer_Tag>Architekt</XML_Serializer_Tag>
+</professionOrOccupation>
+<dbpResource>http://dbpedia.org/resource/Shigeru_Ban</dbpResource>
+<abstract>Shigeru Ban (jap. 坂 茂 Ban Shigeru; * 1957 in der Präfektur Tokio, Japan) ist ein zeitgenössischer japanischer Architekt.</abstract>
+<wikilink>http://en.wikipedia.org/wiki/Shigeru_Ban?oldid=605599188</wikilink>
+<artworks />
+<buildings>
+<XML_Serializer_Tag>
+<building>
+<type>uri</type>
+<value>http://dbpedia.org/resource/Centre_Pompidou-Metz</value>
+</building>
+<name>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>Centre Pompidou-Metz</value>
+</name>
+<architect>
+<type>uri</type>
+<value>http://dbpedia.org/resource/Shigeru_Ban</value>
+</architect>
+<thumbnail>
+<type>uri</type>
+<value>http://en.wikipedia.org/wiki/Special:FilePath/Metz_(F)_-_Centre_Pompidou_-_Außenansicht.jpg?width=300</value>
+</thumbnail>
+<wikilink>
+<type>uri</type>
+<value>http://en.wikipedia.org/wiki/Centre_Pompidou-Metz?oldid=604595018</value>
+</wikilink>
+<location>
+<type>uri</type>
+<value>http://dbpedia.org/resource/Metz</value>
+</location>
+<abstract>
+<type>literal</type>
+<xml:lang>de</xml:lang>
+<value>Das Centre Pompidou-Metz in Metz ist als Zentrum für alle Formen zeitgenössischer Kunst eine Dependance des Centre Georges Pompidou in Paris, mit dem es Sammlungen und Gründungsphilosophie teilt. Es besteht seit 2010.</value>
+</abstract>
+</XML_Serializer_Tag>
+<XML_Serializer_Tag>
+<building>
+<type>uri</type>
+<value>http://dbpedia.org/resource/Cardboard_Cathedral</value>
+</building>
+<name>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>Cardboard Cathedral</value>
+</name>
+<architect>
+<type>uri</type>
+<value>http://dbpedia.org/resource/Shigeru_Ban</value>
+</architect>
+<thumbnail>
+<type>uri</type>
+<value>http://commons.wikimedia.org/wiki/Special:FilePath/Cardboard_Cathedral_09.JPG?width=300</value>
+</thumbnail>
+<wikilink>
+<type>uri</type>
+<value>http://en.wikipedia.org/wiki/Cardboard_Cathedral?oldid=605115778</value>
+</wikilink>
+<location>
+<type>uri</type>
+<value>http://dbpedia.org/resource/Christchurch_Central_City</value>
+</location>
+</XML_Serializer_Tag>
+</buildings>
+<books />
+</Person>

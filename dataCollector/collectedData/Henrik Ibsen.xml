@@ -1,0 +1,42 @@
+<Person>
+<name>Henrik Ibsen</name>
+<variantName>
+<XML_Serializer_Tag>Henrik Johann Ibsen</XML_Serializer_Tag>
+<XML_Serializer_Tag>Brynjolf Bjarme</XML_Serializer_Tag>
+<XML_Serializer_Tag>Heinrich Ibsen</XML_Serializer_Tag>
+<XML_Serializer_Tag>Henryk Ibsen</XML_Serializer_Tag>
+<XML_Serializer_Tag>Enrique Ibsen</XML_Serializer_Tag>
+<XML_Serializer_Tag>Ipceṉ</XML_Serializer_Tag>
+<XML_Serializer_Tag>Ibsana</XML_Serializer_Tag>
+<XML_Serializer_Tag>Genrik Ibsen</XML_Serializer_Tag>
+<XML_Serializer_Tag>... Ibsė̲n</XML_Serializer_Tag>
+<XML_Serializer_Tag>H. Ibsen</XML_Serializer_Tag>
+<XML_Serializer_Tag>Enrico Ibsen</XML_Serializer_Tag>
+<XML_Serializer_Tag>... Ibsen</XML_Serializer_Tag>
+<XML_Serializer_Tag>E. Ibsen</XML_Serializer_Tag>
+<XML_Serializer_Tag>Enric Ibsen</XML_Serializer_Tag>
+<XML_Serializer_Tag>... Yibusheng</XML_Serializer_Tag>
+<XML_Serializer_Tag>G. Ibsen</XML_Serializer_Tag>
+<XML_Serializer_Tag>イプセン、ヘンリック・ヨーハン</XML_Serializer_Tag>
+</variantName>
+<thumbnail>https://commons.wikimedia.org/wiki/Special:FilePath/Henrik_Ibsen.jpg?width=270</thumbnail>
+<birthEN>March 20, 1828</birthEN>
+<birthDE>20. März 1828</birthDE>
+<deathEN>May 23, 1906</deathEN>
+<deathDE>23. Mai 1906</deathDE>
+<birthPlace>
+<XML_Serializer_Tag>Skien</XML_Serializer_Tag>
+</birthPlace>
+<deathPlace>
+<XML_Serializer_Tag>Oslo</XML_Serializer_Tag>
+</deathPlace>
+<professionOrOccupation>
+<XML_Serializer_Tag>Schriftsteller</XML_Serializer_Tag>
+</professionOrOccupation>
+<dbpResource>http://dbpedia.org/resource/Henrik_Ibsen</dbpResource>
+<abstract>Henrik Johan Ibsen (* 20. März 1828 in Skien; † 23. Mai 1906 in Kristiania) war ein norwegischer Schriftsteller und Dramatiker.</abstract>
+<wikilink>http://en.wikipedia.org/wiki/Henrik_Ibsen?oldid=606698742</wikilink>
+<artworks />
+<buildings />
+<books />
+</Person>

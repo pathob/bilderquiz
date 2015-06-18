@@ -1,0 +1,80 @@
+<Person>
+<name>Robert Fisk</name>
+<variantName />
+<thumbnail>https://commons.wikimedia.org/wiki/Special:FilePath/Fisk.jpg?width=270</thumbnail>
+<birthEN>1946</birthEN>
+<birthDE>1946</birthDE>
+<deathEN />
+<deathDE />
+<birthPlace>
+<XML_Serializer_Tag>Maidstone</XML_Serializer_Tag>
+</birthPlace>
+<deathPlace />
+<professionOrOccupation>
+<XML_Serializer_Tag>Journalist</XML_Serializer_Tag>
+<XML_Serializer_Tag>Autor</XML_Serializer_Tag>
+</professionOrOccupation>
+<dbpResource>http://dbpedia.org/resource/Robert_Fisk</dbpResource>
+<abstract>Robert Fisk (* 1946 in Maidstone, Kent) ist ein britischer Journalist, der gegenwärtig als Nah-Ost-Korrespondent für die britische Zeitung The Independent arbeitet. Er lebt seit über 25 Jahren in der libanesischen Hauptstadt Beirut.</abstract>
+<wikilink>http://en.wikipedia.org/wiki/Robert_Fisk?oldid=604741015</wikilink>
+<artworks />
+<buildings />
+<books>
+<XML_Serializer_Tag>
+<book>
+<type>uri</type>
+<value>http://dbpedia.org/resource/The_Great_War_for_Civilisation</value>
+</book>
+<author>
+<type>uri</type>
+<value>http://dbpedia.org/resource/Robert_Fisk</value>
+</author>
+<thumbnail>
+<type>uri</type>
+<value>http://commons.wikimedia.org/wiki/Special:FilePath/Evstafiev-spetsnaz-prepare-for-mission.jpg?width=300</value>
+</thumbnail>
+<released>
+<type>typed-literal</type>
+<datatype>http://www.w3.org/2001/XMLSchema#integer</datatype>
+<value>2005</value>
+</released>
+<wikilink>
+<type>uri</type>
+<value>http://en.wikipedia.org/wiki/The_Great_War_for_Civilisation?oldid=606030825</value>
+</wikilink>
+</XML_Serializer_Tag>
+<XML_Serializer_Tag>
+<book>
+<type>uri</type>
+<value>http://dbpedia.org/resource/Pity_the_Nation</value>
+</book>
+<author>
+<type>uri</type>
+<value>http://dbpedia.org/resource/Robert_Fisk</value>
+</author>
+<released>
+<type>typed-literal</type>
+<datatype>http://www.w3.org/2001/XMLSchema#integer</datatype>
+<value>1990</value>
+</released>
+<wikilink>
+<type>uri</type>
+<value>http://en.wikipedia.org/wiki/Pity_the_Nation?oldid=598303407</value>
+</wikilink>
+</XML_Serializer_Tag>
+<XML_Serializer_Tag>
+<book>
+<type>uri</type>
+<value>http://dbpedia.org/resource/The_Politics_of_Anti-Semitism</value>
+</book>
+<author>
+<type>uri</type>
+<value>http://dbpedia.org/resource/Robert_Fisk</value>
+</author>
+<wikilink>
+<type>uri</type>
+<value>http://en.wikipedia.org/wiki/The_Politics_of_Anti-Semitism?oldid=556317461</value>
+</wikilink>
+</XML_Serializer_Tag>
+</books>
+</Person>

@@ -1,0 +1,22 @@
+<Person>
+<name>Justus Dahinden</name>
+<variantName />
+<thumbnail>https://commons.wikimedia.org/wiki/Special:FilePath/Zürich_-_Seefeld_-_Klinik_Pyramide_IMG_1792.jpg?width=270</thumbnail>
+<birthEN>1925</birthEN>
+<birthDE>1925</birthDE>
+<deathEN />
+<deathDE />
+<birthPlace>
+<XML_Serializer_Tag>Zürich</XML_Serializer_Tag>
+</birthPlace>
+<deathPlace />
+<professionOrOccupation>
+<XML_Serializer_Tag>Architekt</XML_Serializer_Tag>
+</professionOrOccupation>
+<dbpResource>http://dbpedia.org/resource/Justus_Dahinden</dbpResource>
+<abstract>Justus Dahinden (* 18. Mai 1925 in Zürich) ist ein Schweizer Architekt, emeritierter Professor der Technischen Universität Wien und einer der wichtigsten Vertreter der Nachkriegsarchitektur in der Schweiz.</abstract>
+<wikilink>http://en.wikipedia.org/wiki/Justus_Dahinden?oldid=583013034</wikilink>
+<artworks />
+<buildings />
+<books />
+</Person>

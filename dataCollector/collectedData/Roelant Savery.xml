@@ -20,8 +20,10 @@
 <XML_Serializer_Tag>Zeichner</XML_Serializer_Tag>
 <XML_Serializer_Tag>Radierer</XML_Serializer_Tag>
 </professionOrOccupation>
-<artworks />
 <dbpResource>http://dbpedia.org/resource/Roelant_Savery</dbpResource>
 <abstract>Roelant Savery (* 1576 oder 1578 in Kortrijk; † vor 25. Februar 1639 in Utrecht) war ein niederländischer Maler und Radierer.</abstract>
 <wikilink>http://en.wikipedia.org/wiki/Roelant_Savery?oldid=606681375</wikilink>
+<artworks />
+<buildings />
+<books />
 </Person>

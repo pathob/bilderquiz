@@ -1,0 +1,29 @@
+<Person>
+<name>Jan Neruda</name>
+<variantName>
+<XML_Serializer_Tag>I︠A︡n Neruda</XML_Serializer_Tag>
+<XML_Serializer_Tag>Jan Nepomuk Neruda</XML_Serializer_Tag>
+<XML_Serializer_Tag>J. Drn.</XML_Serializer_Tag>
+</variantName>
+<thumbnail>https://commons.wikimedia.org/wiki/Special:FilePath/Jan_Neruda.jpg?width=270</thumbnail>
+<birthEN>July 9, 1834</birthEN>
+<birthDE>9. Juli 1834</birthDE>
+<deathEN>August 22, 1891</deathEN>
+<deathDE>22. August 1891</deathDE>
+<birthPlace>
+<XML_Serializer_Tag>Prag</XML_Serializer_Tag>
+</birthPlace>
+<deathPlace>
+<XML_Serializer_Tag>Prag</XML_Serializer_Tag>
+</deathPlace>
+<professionOrOccupation>
+<XML_Serializer_Tag>Schriftsteller</XML_Serializer_Tag>
+<XML_Serializer_Tag>Journalist</XML_Serializer_Tag>
+</professionOrOccupation>
+<dbpResource>http://dbpedia.org/resource/Jan_Neruda</dbpResource>
+<abstract>Jan (Nepomuk) Neruda (* 9. Juli 1834 in Prag; † 22. August 1891 in Prag) war ein tschechischer Journalist und Schriftsteller von internationalem Rang.</abstract>
+<wikilink>http://en.wikipedia.org/wiki/Jan_Neruda?oldid=593626949</wikilink>
+<artworks />
+<buildings />
+<books />
+</Person>

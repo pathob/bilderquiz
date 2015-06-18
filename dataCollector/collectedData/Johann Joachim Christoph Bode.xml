@@ -1,0 +1,41 @@
+<Person>
+<name>Johann Joachim Christoph Bode</name>
+<variantName>
+<XML_Serializer_Tag>Johann Joachim Bode</XML_Serializer_Tag>
+<XML_Serializer_Tag>Johann J. Bode</XML_Serializer_Tag>
+<XML_Serializer_Tag>Johann Bode</XML_Serializer_Tag>
+<XML_Serializer_Tag>J. J. Christoph Bode</XML_Serializer_Tag>
+<XML_Serializer_Tag>Christoph Bode</XML_Serializer_Tag>
+<XML_Serializer_Tag>J. J. C. Bode</XML_Serializer_Tag>
+<XML_Serializer_Tag>J. J. Chr. Bode</XML_Serializer_Tag>
+<XML_Serializer_Tag>J. J. Bode</XML_Serializer_Tag>
+<XML_Serializer_Tag>Joachim C. Bode</XML_Serializer_Tag>
+<XML_Serializer_Tag>... Bode</XML_Serializer_Tag>
+<XML_Serializer_Tag>... B...</XML_Serializer_Tag>
+</variantName>
+<thumbnail>https://commons.wikimedia.org/wiki/Special:FilePath/Johann_Bode_2.jpg?width=270</thumbnail>
+<birthEN>January 16, 1731</birthEN>
+<birthDE>16. Januar 1731</birthDE>
+<deathEN>December 13, 1793</deathEN>
+<deathDE>13. Dezember 1793</deathDE>
+<birthPlace>
+<XML_Serializer_Tag>Braunschweig</XML_Serializer_Tag>
+</birthPlace>
+<deathPlace>
+<XML_Serializer_Tag>Weimar</XML_Serializer_Tag>
+</deathPlace>
+<professionOrOccupation>
+<XML_Serializer_Tag>Übersetzer</XML_Serializer_Tag>
+<XML_Serializer_Tag>Philosoph</XML_Serializer_Tag>
+<XML_Serializer_Tag>Schriftsteller</XML_Serializer_Tag>
+<XML_Serializer_Tag>Musiker</XML_Serializer_Tag>
+<XML_Serializer_Tag>Buchdrucker</XML_Serializer_Tag>
+<XML_Serializer_Tag>Verleger</XML_Serializer_Tag>
+</professionOrOccupation>
+<dbpResource>http://dbpedia.org/resource/Johann_Joachim_Christoph_Bode</dbpResource>
+<abstract>Johann Joachim Christoph Bode (* 16. Januar 1731 in Braunschweig; † 13. Dezember 1793 in Weimar) war ein deutscher Militäroboist, Musiklehrer, Journalist, Hamburger Verleger und einer der bedeutendsten Übersetzer in der Zeit der Aufklärung. Der Freund und Verlagsbuchhändler Klopstocks und Gotthold Ephraim Lessings war selbst Aufklärer und führende Persönlichkeit in der Freimaurerei sowie bei den Illuminaten.</abstract>
+<wikilink>http://en.wikipedia.org/wiki/Johann_Joachim_Christoph_Bode?oldid=599771600</wikilink>
+<artworks />
+<buildings />
+<books />
+</Person>

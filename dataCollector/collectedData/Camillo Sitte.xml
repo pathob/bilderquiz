@@ -1,0 +1,29 @@
+<Person>
+<name>Camillo Sitte</name>
+<variantName>
+<XML_Serializer_Tag>Kamillo Zitte</XML_Serializer_Tag>
+<XML_Serializer_Tag>Kamillo Sitte</XML_Serializer_Tag>
+<XML_Serializer_Tag>Kamilo Zite</XML_Serializer_Tag>
+</variantName>
+<thumbnail>https://commons.wikimedia.org/wiki/Special:FilePath/Sitte.jpg?width=270</thumbnail>
+<birthEN>April 17, 1843</birthEN>
+<birthDE>17. April 1843</birthDE>
+<deathEN>November 16, 1903</deathEN>
+<deathDE>16. November 1903</deathDE>
+<birthPlace>
+<XML_Serializer_Tag>Wien</XML_Serializer_Tag>
+</birthPlace>
+<deathPlace>
+<XML_Serializer_Tag>Wien</XML_Serializer_Tag>
+</deathPlace>
+<professionOrOccupation>
+<XML_Serializer_Tag>Architekt</XML_Serializer_Tag>
+<XML_Serializer_Tag>Baumeister</XML_Serializer_Tag>
+</professionOrOccupation>
+<dbpResource>http://dbpedia.org/resource/Camillo_Sitte</dbpResource>
+<abstract>Camillo Sitte (* 17. April 1843 in Wien; † 16. November 1903 ebenda) war ein österreichischer Architekt, Stadtplaner, Städtebau- und Kulturtheoretiker sowie Maler. Mit seinem international beachteten Buch Der Städtebau nach seinen künstlerischen Grundsätzen war er einer der ersten Autoren, die sich theoretisch und kritisch mit der Stadtplanung des Industriezeitalters auseinandersetzten. Wegen seiner baulich-ästhetischen Vorschläge zur Stadtgestaltung gilt Sitte als „Wiederbegründer der Stadtbaukunst“.</abstract>
+<wikilink>http://en.wikipedia.org/wiki/Camillo_Sitte?oldid=594091662</wikilink>
+<artworks />
+<buildings />
+<books />
+</Person>

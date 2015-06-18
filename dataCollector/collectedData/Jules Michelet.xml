@@ -1,0 +1,28 @@
+<Person>
+<name>Jules Michelet</name>
+<variantName>
+<XML_Serializer_Tag>Giulio Michelet</XML_Serializer_Tag>
+<XML_Serializer_Tag>Gyula Michelet</XML_Serializer_Tag>
+<XML_Serializer_Tag>... Michelet</XML_Serializer_Tag>
+<XML_Serializer_Tag>Michelet</XML_Serializer_Tag>
+<XML_Serializer_Tag>J. Michelet</XML_Serializer_Tag>
+</variantName>
+<thumbnail>https://commons.wikimedia.org/wiki/Special:FilePath/Jules_Michelet.jpg?width=270</thumbnail>
+<birthEN>1798</birthEN>
+<birthDE>1798</birthDE>
+<deathEN>1874</deathEN>
+<deathDE>1874</deathDE>
+<birthPlace />
+<deathPlace />
+<professionOrOccupation>
+<XML_Serializer_Tag>Philosoph</XML_Serializer_Tag>
+<XML_Serializer_Tag>Schriftsteller</XML_Serializer_Tag>
+<XML_Serializer_Tag>Historiker</XML_Serializer_Tag>
+</professionOrOccupation>
+<dbpResource>http://dbpedia.org/resource/Jules_Michelet</dbpResource>
+<abstract>Jules Michelet (* 21. August 1798 in Paris; † 9. Februar 1874 auf Hyères, Frankreich) war ein französischer Historiker des 19. Jahrhunderts.</abstract>
+<wikilink>http://en.wikipedia.org/wiki/Jules_Michelet?oldid=606042562</wikilink>
+<artworks />
+<buildings />
+<books />
+</Person>

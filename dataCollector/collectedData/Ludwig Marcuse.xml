@@ -1,0 +1,33 @@
+<Person>
+<name>Ludwig Marcuse</name>
+<variantName>
+<XML_Serializer_Tag>Ludvík Marcuse</XML_Serializer_Tag>
+<XML_Serializer_Tag>L. Marcuse</XML_Serializer_Tag>
+<XML_Serializer_Tag>Ludvig Markuze</XML_Serializer_Tag>
+<XML_Serializer_Tag>Ludwig Markūzēh</XML_Serializer_Tag>
+<XML_Serializer_Tag>Heinz Raabe</XML_Serializer_Tag>
+</variantName>
+<thumbnail>https://commons.wikimedia.org/wiki/Special:FilePath/Gedenktafel_für_die_deutschen_u._österreichischen_Flüchtline_am_Fremdenverkehrsbüro_in_Sanary-sur-Mer1.JPG?width=270</thumbnail>
+<birthEN>February 8, 1894</birthEN>
+<birthDE>8. Februar 1894</birthDE>
+<deathEN>August 2, 1971</deathEN>
+<deathDE>2. August 1971</deathDE>
+<birthPlace>
+<XML_Serializer_Tag>Berlin</XML_Serializer_Tag>
+</birthPlace>
+<deathPlace>
+<XML_Serializer_Tag>München</XML_Serializer_Tag>
+</deathPlace>
+<professionOrOccupation>
+<XML_Serializer_Tag>Philosoph</XML_Serializer_Tag>
+<XML_Serializer_Tag>Literaturkritiker</XML_Serializer_Tag>
+<XML_Serializer_Tag>Journalist</XML_Serializer_Tag>
+<XML_Serializer_Tag>Übersetzer</XML_Serializer_Tag>
+</professionOrOccupation>
+<dbpResource>http://dbpedia.org/resource/Ludwig_Marcuse</dbpResource>
+<abstract>Ludwig Marcuse (* 8. Februar 1894 in Berlin; † 2. August 1971 in Bad Wiessee) war ein deutsch-amerikanischer Philosoph und Schriftsteller.</abstract>
+<wikilink>http://en.wikipedia.org/wiki/Ludwig_Marcuse?oldid=598673225</wikilink>
+<artworks />
+<buildings />
+<books />
+</Person>

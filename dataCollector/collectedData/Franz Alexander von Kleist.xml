@@ -1,0 +1,22 @@
+<Person>
+<name>Franz Alexander von Kleist</name>
+<variantName>
+<XML_Serializer_Tag>Franz von Kleist</XML_Serializer_Tag>
+</variantName>
+<thumbnail>https://de.wikipedia.org/wiki/Special:FilePath/FranzAlexandervonKleist.JPG?width=270</thumbnail>
+<birthEN>1769</birthEN>
+<birthDE>1769</birthDE>
+<deathEN>1797</deathEN>
+<deathDE>1797</deathDE>
+<birthPlace />
+<deathPlace />
+<professionOrOccupation>
+<XML_Serializer_Tag>Schriftsteller</XML_Serializer_Tag>
+</professionOrOccupation>
+<dbpResource>http://dbpedia.org/resource/Franz_Alexander_von_Kleist</dbpResource>
+<abstract>Franz Alexander von Kleist (* 24. Dezember 1769 in Potsdam; † 8. August 1797 in Ringenwalde in der Neumark) war ein deutscher Dichter des ausgehenden 18. Jahrhunderts.</abstract>
+<wikilink>http://en.wikipedia.org/wiki/Franz_Alexander_von_Kleist?oldid=606491036</wikilink>
+<artworks />
+<buildings />
+<books />
+</Person>

@@ -1,0 +1,59 @@
+<Person>
+<name>Scott Adams</name>
+<variantName />
+<thumbnail>https://commons.wikimedia.org/wiki/Special:FilePath/Scott_Adams.jpg?width=270</thumbnail>
+<birthEN>1957</birthEN>
+<birthDE>1957</birthDE>
+<deathEN />
+<deathDE />
+<birthPlace />
+<deathPlace />
+<professionOrOccupation>
+<XML_Serializer_Tag>Künstler</XML_Serializer_Tag>
+</professionOrOccupation>
+<dbpResource>http://dbpedia.org/resource/Scott_Adams</dbpResource>
+<abstract>Scott Adams (* 8. Juni 1957) ist ein US-amerikanischer Comiczeichner und Buchautor. Bekannt wurde er durch die Dilbert-Comics und -Bücher.</abstract>
+<wikilink>http://en.wikipedia.org/wiki/Scott_Adams?oldid=605250157</wikilink>
+<artworks />
+<buildings />
+<books>
+<XML_Serializer_Tag>
+<book>
+<type>uri</type>
+<value>http://dbpedia.org/resource/Stick_to_Drawing_Comics,_Monkey_Brain!</value>
+</book>
+<author>
+<type>uri</type>
+<value>http://dbpedia.org/resource/Scott_Adams</value>
+</author>
+<released>
+<type>typed-literal</type>
+<datatype>http://www.w3.org/2001/XMLSchema#integer</datatype>
+<value>2007</value>
+</released>
+<wikilink>
+<type>uri</type>
+<value>http://en.wikipedia.org/wiki/Stick_to_Drawing_Comics,_Monkey_Brain!?oldid=505380989</value>
+</wikilink>
+</XML_Serializer_Tag>
+<XML_Serializer_Tag>
+<book>
+<type>uri</type>
+<value>http://dbpedia.org/resource/God&apos;s_Debris</value>
+</book>
+<author>
+<type>uri</type>
+<value>http://dbpedia.org/resource/Scott_Adams</value>
+</author>
+<released>
+<type>typed-literal</type>
+<datatype>http://www.w3.org/2001/XMLSchema#integer</datatype>
+<value>2001</value>
+</released>
+<wikilink>
+<type>uri</type>
+<value>http://en.wikipedia.org/wiki/God&apos;s_Debris?oldid=602560726</value>
+</wikilink>
+</XML_Serializer_Tag>
+</books>
+</Person>

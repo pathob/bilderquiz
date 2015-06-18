@@ -1,0 +1,30 @@
+<Person>
+<name>Peter Altenberg</name>
+<variantName>
+<XML_Serializer_Tag>Richard Engländer</XML_Serializer_Tag>
+<XML_Serializer_Tag>P. Altenberg</XML_Serializer_Tag>
+</variantName>
+<thumbnail>https://commons.wikimedia.org/wiki/Special:FilePath/Peter_Altenberg1.jpg?width=270</thumbnail>
+<birthEN>March 9, 1859</birthEN>
+<birthDE>9. März 1859</birthDE>
+<deathEN>January 8, 1919</deathEN>
+<deathDE>8. Januar 1919</deathDE>
+<birthPlace>
+<XML_Serializer_Tag>Wien</XML_Serializer_Tag>
+</birthPlace>
+<deathPlace>
+<XML_Serializer_Tag>Wien</XML_Serializer_Tag>
+</deathPlace>
+<professionOrOccupation>
+<XML_Serializer_Tag>Arzt</XML_Serializer_Tag>
+<XML_Serializer_Tag>Schriftsteller</XML_Serializer_Tag>
+<XML_Serializer_Tag>Jurist</XML_Serializer_Tag>
+<XML_Serializer_Tag>Buchhändler</XML_Serializer_Tag>
+</professionOrOccupation>
+<dbpResource>http://dbpedia.org/resource/Peter_Altenberg</dbpResource>
+<abstract>Peter Altenberg (* 9. März 1859 in Wien; † 8. Jänner 1919 in Wien; eigentlich Richard Engländer) war ein österreichischer Schriftsteller. Sein Pseudonym wählte er nach dem Rufnamen „Peter“ seiner Jugendliebe Berta Lecher, die in Altenberg an der Donau (heute Ortsteil der Gemeinde St. Andrä-Wördern) wohnte.</abstract>
+<wikilink>http://en.wikipedia.org/wiki/Peter_Altenberg?oldid=578406410</wikilink>
+<artworks />
+<buildings />
+<books />
+</Person>

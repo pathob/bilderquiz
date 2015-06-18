@@ -1,0 +1,23 @@
+<Person>
+<name>Leonardo Boff</name>
+<variantName>
+<XML_Serializer_Tag>L. Boff</XML_Serializer_Tag>
+</variantName>
+<thumbnail>https://commons.wikimedia.org/wiki/Special:FilePath/Leonardo_boff.jpeg?width=270</thumbnail>
+<birthEN>1938</birthEN>
+<birthDE>1938</birthDE>
+<deathEN />
+<deathDE />
+<birthPlace />
+<deathPlace />
+<professionOrOccupation>
+<XML_Serializer_Tag>Theologe</XML_Serializer_Tag>
+<XML_Serializer_Tag>Philosoph</XML_Serializer_Tag>
+</professionOrOccupation>
+<dbpResource>http://dbpedia.org/resource/Leonardo_Boff</dbpResource>
+<abstract>Leonardo Boff (* 14. Dezember 1938 in Concordia, Santa Catarina) ist ein brasilianischer katholischer Theologe. Er ist einer der Hauptvertreter der Befreiungstheologie und versucht, seine Kirche auf die Verteidigung der Menschenrechte für die Armen zu verpflichten.</abstract>
+<wikilink>http://en.wikipedia.org/wiki/Leonardo_Boff?oldid=592895555</wikilink>
+<artworks />
+<buildings />
+<books />
+</Person>

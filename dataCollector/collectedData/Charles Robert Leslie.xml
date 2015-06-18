@@ -15,8 +15,10 @@
 <professionOrOccupation>
 <XML_Serializer_Tag>Maler</XML_Serializer_Tag>
 </professionOrOccupation>
-<artworks />
 <dbpResource>http://dbpedia.org/resource/Charles_Robert_Leslie</dbpResource>
 <abstract>Charles Robert Leslie (* 19. Oktober 1794 in London; † 5. Mai 1859) war ein englisch-US-amerikanischer Genremaler.</abstract>
 <wikilink>http://en.wikipedia.org/wiki/Charles_Robert_Leslie?oldid=604457977</wikilink>
+<artworks />
+<buildings />
+<books />
 </Person>

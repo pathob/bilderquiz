@@ -1,0 +1,24 @@
+<Person>
+<name>Jan Erik Vold</name>
+<variantName>
+<XML_Serializer_Tag>Jan E. Vold</XML_Serializer_Tag>
+</variantName>
+<thumbnail>https://commons.wikimedia.org/wiki/Special:FilePath/Jan_Erik_Vold.jpg?width=270</thumbnail>
+<birthEN>1939</birthEN>
+<birthDE>1939</birthDE>
+<deathEN />
+<deathDE />
+<birthPlace />
+<deathPlace />
+<professionOrOccupation>
+<XML_Serializer_Tag>Schriftsteller</XML_Serializer_Tag>
+<XML_Serializer_Tag>Lyriker</XML_Serializer_Tag>
+<XML_Serializer_Tag>Musiker</XML_Serializer_Tag>
+</professionOrOccupation>
+<dbpResource>http://dbpedia.org/resource/Jan_Erik_Vold</dbpResource>
+<abstract>Jan Erik Vold (* 18. Oktober 1939 in Oslo) ist ein norwegischer Lyriker, Übersetzer, Literaturvermittler und Musiker. Seit 1977 lebt er überwiegend in Stockholm.</abstract>
+<wikilink>http://en.wikipedia.org/wiki/Jan_Erik_Vold?oldid=540451708</wikilink>
+<artworks />
+<buildings />
+<books />
+</Person>

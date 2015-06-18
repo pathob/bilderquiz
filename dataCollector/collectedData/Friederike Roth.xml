@@ -1,0 +1,26 @@
+<Person>
+<name>Friederike Roth</name>
+<variantName>
+<XML_Serializer_Tag>프리드리케 로프</XML_Serializer_Tag>
+</variantName>
+<thumbnail>https://commons.wikimedia.org/wiki/Special:FilePath/Friederikeroth001.jpg?width=270</thumbnail>
+<birthEN>1948</birthEN>
+<birthDE>1948</birthDE>
+<deathEN />
+<deathDE />
+<birthPlace>
+<XML_Serializer_Tag>Sindelfingen</XML_Serializer_Tag>
+</birthPlace>
+<deathPlace />
+<professionOrOccupation>
+<XML_Serializer_Tag>Schriftstellerin</XML_Serializer_Tag>
+<XML_Serializer_Tag>Übersetzerin</XML_Serializer_Tag>
+<XML_Serializer_Tag>Hörspieldramaturgin</XML_Serializer_Tag>
+</professionOrOccupation>
+<dbpResource>http://dbpedia.org/resource/Friederike_Roth</dbpResource>
+<abstract>Friederike Roth (* 6. April 1948 in Sindelfingen) ist eine deutsche Schriftstellerin.</abstract>
+<wikilink>http://en.wikipedia.org/wiki/Friederike_Roth?oldid=559293480</wikilink>
+<artworks />
+<buildings />
+<books />
+</Person>

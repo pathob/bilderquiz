@@ -1,0 +1,31 @@
+<Person>
+<name>Willi Bredel</name>
+<variantName>
+<XML_Serializer_Tag>V. Bredel</XML_Serializer_Tag>
+<XML_Serializer_Tag>V. Bredelʹ</XML_Serializer_Tag>
+<XML_Serializer_Tag>Villi Bredlʹ</XML_Serializer_Tag>
+<XML_Serializer_Tag>Willy Bredel</XML_Serializer_Tag>
+</variantName>
+<thumbnail>https://commons.wikimedia.org/wiki/Special:FilePath/Stamps_of_Germany_(DDR)_1971,_MiNr_1647.jpg?width=270</thumbnail>
+<birthEN>May 2, 1901</birthEN>
+<birthDE>2. Mai 1901</birthDE>
+<deathEN>October 27, 1964</deathEN>
+<deathDE>27. Oktober 1964</deathDE>
+<birthPlace>
+<XML_Serializer_Tag>Hamburg</XML_Serializer_Tag>
+</birthPlace>
+<deathPlace>
+<XML_Serializer_Tag>Berlin (Ost)</XML_Serializer_Tag>
+</deathPlace>
+<professionOrOccupation>
+<XML_Serializer_Tag>Redakteur</XML_Serializer_Tag>
+<XML_Serializer_Tag>Schriftsteller</XML_Serializer_Tag>
+<XML_Serializer_Tag>Drehbuchautor</XML_Serializer_Tag>
+</professionOrOccupation>
+<dbpResource>http://dbpedia.org/resource/Willi_Bredel</dbpResource>
+<abstract>Willi Bredel (* 2. Mai 1901 in Hamburg; † 27. Oktober 1964 in Berlin) war ein deutscher Schriftsteller und Präsident der Akademie der Künste der DDR. Er gehörte zu den Pionieren der sozialistisch-realistischen Literatur.</abstract>
+<wikilink>http://en.wikipedia.org/wiki/Willi_Bredel?oldid=586814393</wikilink>
+<artworks />
+<buildings />
+<books />
+</Person>

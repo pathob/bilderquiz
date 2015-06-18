@@ -1,0 +1,112 @@
+<Person>
+<name>Farley Mowat</name>
+<variantName />
+<thumbnail>https://commons.wikimedia.org/wiki/Special:FilePath/Farley_Mowat.jpg?width=270</thumbnail>
+<birthEN>May 12, 1921</birthEN>
+<birthDE>12. Mai 1921</birthDE>
+<deathEN>May 6, 2014</deathEN>
+<deathDE>6. Mai 2014</deathDE>
+<birthPlace>
+<XML_Serializer_Tag>Belleville (Ontario)</XML_Serializer_Tag>
+</birthPlace>
+<deathPlace />
+<professionOrOccupation>
+<XML_Serializer_Tag>Schriftsteller</XML_Serializer_Tag>
+</professionOrOccupation>
+<dbpResource>http://dbpedia.org/resource/Farley_Mowat</dbpResource>
+<abstract>Farley McGill Mowat OC (* 12. Mai 1921 in Belleville, Ontario; † 6. Mai 2014 in Port Hope, Ontario) war ein kanadischer Schriftsteller, dessen Bücher in mehr als 50 Sprachen übersetzt wurden. Viele seiner erfolgreichsten Werke handeln von Erinnerungen an seine Kindheit, seinen Militärdienst und seine Arbeit als Naturforscher. Sein Urgroßonkel war der Politiker Oliver Mowat.</abstract>
+<wikilink>http://en.wikipedia.org/wiki/Farley_Mowat?oldid=603906020</wikilink>
+<artworks />
+<buildings />
+<books>
+<XML_Serializer_Tag>
+<book>
+<type>uri</type>
+<value>http://dbpedia.org/resource/Never_Cry_Wolf</value>
+</book>
+<author>
+<type>uri</type>
+<value>http://dbpedia.org/resource/Farley_Mowat</value>
+</author>
+<released>
+<type>typed-literal</type>
+<datatype>http://www.w3.org/2001/XMLSchema#integer</datatype>
+<value>1963</value>
+</released>
+<wikilink>
+<type>uri</type>
+<value>http://en.wikipedia.org/wiki/Never_Cry_Wolf?oldid=603900914</value>
+</wikilink>
+</XML_Serializer_Tag>
+<XML_Serializer_Tag>
+<book>
+<type>uri</type>
+<value>http://dbpedia.org/resource/Woman_in_the_Mists</value>
+</book>
+<author>
+<type>uri</type>
+<value>http://dbpedia.org/resource/Farley_Mowat</value>
+</author>
+<wikilink>
+<type>uri</type>
+<value>http://en.wikipedia.org/wiki/Woman_in_the_Mists?oldid=599387280</value>
+</wikilink>
+</XML_Serializer_Tag>
+<XML_Serializer_Tag>
+<book>
+<type>uri</type>
+<value>http://dbpedia.org/resource/People_of_the_Deer</value>
+</book>
+<author>
+<type>uri</type>
+<value>http://dbpedia.org/resource/Farley_Mowat</value>
+</author>
+<wikilink>
+<type>uri</type>
+<value>http://en.wikipedia.org/wiki/People_of_the_Deer?oldid=602336818</value>
+</wikilink>
+</XML_Serializer_Tag>
+<XML_Serializer_Tag>
+<book>
+<type>uri</type>
+<value>http://dbpedia.org/resource/Curse_of_the_Viking_Grave</value>
+</book>
+<author>
+<type>uri</type>
+<value>http://dbpedia.org/resource/Farley_Mowat</value>
+</author>
+<wikilink>
+<type>uri</type>
+<value>http://en.wikipedia.org/wiki/Curse_of_the_Viking_Grave?oldid=578622940</value>
+</wikilink>
+</XML_Serializer_Tag>
+<XML_Serializer_Tag>
+<book>
+<type>uri</type>
+<value>http://dbpedia.org/resource/Owls_in_the_Family</value>
+</book>
+<author>
+<type>uri</type>
+<value>http://dbpedia.org/resource/Farley_Mowat</value>
+</author>
+<wikilink>
+<type>uri</type>
+<value>http://en.wikipedia.org/wiki/Owls_in_the_Family?oldid=599899088</value>
+</wikilink>
+</XML_Serializer_Tag>
+<XML_Serializer_Tag>
+<book>
+<type>uri</type>
+<value>http://dbpedia.org/resource/Lost_in_the_Barrens</value>
+</book>
+<author>
+<type>uri</type>
+<value>http://dbpedia.org/resource/Farley_Mowat</value>
+</author>
+<wikilink>
+<type>uri</type>
+<value>http://en.wikipedia.org/wiki/Lost_in_the_Barrens?oldid=606547285</value>
+</wikilink>
+</XML_Serializer_Tag>
+</books>
+</Person>

@@ -1,0 +1,115 @@
+<Person>
+<name>Witold Gombrowicz</name>
+<variantName>
+<XML_Serializer_Tag>Witold Marian Gombrowicz</XML_Serializer_Tag>
+<XML_Serializer_Tag>Vitolʹd Gombrovič</XML_Serializer_Tag>
+<XML_Serializer_Tag>Z. Niewieski</XML_Serializer_Tag>
+<XML_Serializer_Tag>Z. Niwieski</XML_Serializer_Tag>
+</variantName>
+<thumbnail>https://commons.wikimedia.org/wiki/Special:FilePath/Witold_Gombrowicz_by_Bohdan_Paczowski_-_detail.jpg?width=270</thumbnail>
+<birthEN>August 4, 1904</birthEN>
+<birthDE>4. August 1904</birthDE>
+<deathEN>July 25, 1969</deathEN>
+<deathDE>25. Juli 1969</deathDE>
+<birthPlace>
+<XML_Serializer_Tag>Małoszyce</XML_Serializer_Tag>
+</birthPlace>
+<deathPlace>
+<XML_Serializer_Tag>Vence</XML_Serializer_Tag>
+</deathPlace>
+<professionOrOccupation>
+<XML_Serializer_Tag>Jurist</XML_Serializer_Tag>
+<XML_Serializer_Tag>Schriftsteller</XML_Serializer_Tag>
+</professionOrOccupation>
+<dbpResource>http://dbpedia.org/resource/Witold_Gombrowicz</dbpResource>
+<abstract>Witold Marian Gombrowicz (* 4. August 1904 in Małoszyce, Russisches Kaiserreich; † 25. Juli 1969 in Vence, Frankreich) war einer der bedeutendsten polnischen Schriftsteller des 20. Jahrhunderts. Seit seinem 34. Lebensjahr lebte er im Exil.</abstract>
+<wikilink>http://en.wikipedia.org/wiki/Witold_Gombrowicz?oldid=605970097</wikilink>
+<artworks />
+<buildings />
+<books>
+<XML_Serializer_Tag>
+<book>
+<type>uri</type>
+<value>http://dbpedia.org/resource/Ferdydurke</value>
+</book>
+<author>
+<type>uri</type>
+<value>http://dbpedia.org/resource/Witold_Gombrowicz</value>
+</author>
+<thumbnail>
+<type>uri</type>
+<value>http://commons.wikimedia.org/wiki/Special:FilePath/Ferdydurke.Rój.jpg?width=300</value>
+</thumbnail>
+<released>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>Oct 1937</value>
+</released>
+<wikilink>
+<type>uri</type>
+<value>http://en.wikipedia.org/wiki/Ferdydurke?oldid=580953014</value>
+</wikilink>
+</XML_Serializer_Tag>
+<XML_Serializer_Tag>
+<book>
+<type>uri</type>
+<value>http://dbpedia.org/resource/Trans-Atlantyk</value>
+</book>
+<author>
+<type>uri</type>
+<value>http://dbpedia.org/resource/Witold_Gombrowicz</value>
+</author>
+<released>
+<type>typed-literal</type>
+<datatype>http://www.w3.org/2001/XMLSchema#integer</datatype>
+<value>1953</value>
+</released>
+<wikilink>
+<type>uri</type>
+<value>http://en.wikipedia.org/wiki/Trans-Atlantyk?oldid=546157882</value>
+</wikilink>
+</XML_Serializer_Tag>
+<XML_Serializer_Tag>
+<book>
+<type>uri</type>
+<value>http://dbpedia.org/resource/Possessed_(novel)</value>
+</book>
+<author>
+<type>uri</type>
+<value>http://dbpedia.org/resource/Witold_Gombrowicz</value>
+</author>
+<wikilink>
+<type>uri</type>
+<value>http://en.wikipedia.org/wiki/Possessed_(novel)?oldid=546250121</value>
+</wikilink>
+</XML_Serializer_Tag>
+<XML_Serializer_Tag>
+<book>
+<type>uri</type>
+<value>http://dbpedia.org/resource/Pornografia</value>
+</book>
+<author>
+<type>uri</type>
+<value>http://dbpedia.org/resource/Witold_Gombrowicz</value>
+</author>
+<wikilink>
+<type>uri</type>
+<value>http://en.wikipedia.org/wiki/Pornografia?oldid=555920232</value>
+</wikilink>
+</XML_Serializer_Tag>
+<XML_Serializer_Tag>
+<book>
+<type>uri</type>
+<value>http://dbpedia.org/resource/Bacacay_(book)</value>
+</book>
+<author>
+<type>uri</type>
+<value>http://dbpedia.org/resource/Witold_Gombrowicz</value>
+</author>
+<wikilink>
+<type>uri</type>
+<value>http://en.wikipedia.org/wiki/Bacacay_(book)?oldid=546246601</value>
+</wikilink>
+</XML_Serializer_Tag>
+</books>
+</Person>

@@ -1,0 +1,35 @@
+<Person>
+<name>Carl Vogt</name>
+<variantName>
+<XML_Serializer_Tag>Karl Vogt</XML_Serializer_Tag>
+<XML_Serializer_Tag>Carl Christoph Vogt</XML_Serializer_Tag>
+<XML_Serializer_Tag>C. Vogt</XML_Serializer_Tag>
+<XML_Serializer_Tag>Carlo Vogt</XML_Serializer_Tag>
+<XML_Serializer_Tag>Charles Vogt</XML_Serializer_Tag>
+</variantName>
+<thumbnail>https://de.wikipedia.org/wiki/Special:FilePath/Vogt,_Carl_(1817-1895).jpg?width=270</thumbnail>
+<birthEN>July 5, 1817</birthEN>
+<birthDE>5. Juli 1817</birthDE>
+<deathEN>May 5, 1895</deathEN>
+<deathDE>5. Mai 1895</deathDE>
+<birthPlace>
+<XML_Serializer_Tag>Gießen</XML_Serializer_Tag>
+</birthPlace>
+<deathPlace>
+<XML_Serializer_Tag>Genf</XML_Serializer_Tag>
+</deathPlace>
+<professionOrOccupation>
+<XML_Serializer_Tag>Naturwissenschaftler</XML_Serializer_Tag>
+<XML_Serializer_Tag>Zoologe</XML_Serializer_Tag>
+<XML_Serializer_Tag>Geologe</XML_Serializer_Tag>
+<XML_Serializer_Tag>Politiker</XML_Serializer_Tag>
+<XML_Serializer_Tag>Schriftsteller</XML_Serializer_Tag>
+<XML_Serializer_Tag>Arzt</XML_Serializer_Tag>
+</professionOrOccupation>
+<dbpResource>http://dbpedia.org/resource/Karl_Vogt</dbpResource>
+<abstract>August Christoph Carl Vogt (* 5. Juli 1817 in Gießen; † 5. Mai 1895 in Plainpalais) war ein deutsch-schweizerischer Naturwissenschaftler sowie ein demokratischer Politiker, der nach seiner Einbürgerung in der Schweiz als Reformer der Universität Genf wirkte. Im Materialismusstreit war Vogt ein wesentlicher Vertreter des naturwissenschaftlichen Materialismus. Er trat entschieden für Darwins Evolutionstheorie ein und wird von diesem in der Einleitung seines Buchs Die Abstammung des Menschen und die geschlechtliche Zuchtwahl namentlich erwähnt.</abstract>
+<wikilink>http://en.wikipedia.org/wiki/Karl_Vogt?oldid=605880993</wikilink>
+<artworks />
+<buildings />
+<books />
+</Person>

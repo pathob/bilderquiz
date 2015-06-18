@@ -18,8 +18,10 @@
 <XML_Serializer_Tag>Zeichner</XML_Serializer_Tag>
 <XML_Serializer_Tag>Maler</XML_Serializer_Tag>
 </professionOrOccupation>
-<artworks />
 <dbpResource>http://dbpedia.org/resource/Henri_Michaux</dbpResource>
 <abstract>Henri Michaux (* 24. Mai 1899 in Namur (Belgien); † 19. Oktober 1984 in Paris) war ein französischsprachiger Dichter und Maler. Michaux gilt als einer der großen Einzelgänger in der Kunst des 20. Jahrhunderts.</abstract>
 <wikilink>http://en.wikipedia.org/wiki/Henri_Michaux?oldid=588948877</wikilink>
+<artworks />
+<buildings />
+<books />
 </Person>

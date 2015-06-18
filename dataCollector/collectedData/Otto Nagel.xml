@@ -17,8 +17,10 @@
 <professionOrOccupation>
 <XML_Serializer_Tag>Maler</XML_Serializer_Tag>
 </professionOrOccupation>
-<artworks />
 <dbpResource>http://dbpedia.org/resource/Otto_Nagel</dbpResource>
 <abstract>Otto Nagel (* 27. September 1894 in Berlin-Wedding; † 12. Juli 1967 in Berlin-Biesdorf) war ein Berliner Maler. Er wurde 1970 posthum Ehrenbürger von Berlin.</abstract>
 <wikilink>http://en.wikipedia.org/wiki/Otto_Nagel?oldid=585421581</wikilink>
+<artworks />
+<buildings />
+<books />
 </Person>

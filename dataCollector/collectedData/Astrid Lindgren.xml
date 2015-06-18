@@ -1,0 +1,179 @@
+<Person>
+<name>Astrid Lindgren</name>
+<variantName>
+<XML_Serializer_Tag>Astrid Ericsson</XML_Serializer_Tag>
+<XML_Serializer_Tag>A Lingelun</XML_Serializer_Tag>
+<XML_Serializer_Tag>Alingelun</XML_Serializer_Tag>
+<XML_Serializer_Tag>Asutoriddo Rindogurēn</XML_Serializer_Tag>
+<XML_Serializer_Tag>Astrīd Landǧrīn</XML_Serializer_Tag>
+<XML_Serializer_Tag>Astrint Lintnkren</XML_Serializer_Tag>
+<XML_Serializer_Tag>Astrida Lindgrēne</XML_Serializer_Tag>
+<XML_Serializer_Tag>A. Lindgrēne</XML_Serializer_Tag>
+<XML_Serializer_Tag>Astrīd Līndġrīn</XML_Serializer_Tag>
+<XML_Serializer_Tag>Astrid Ericsson</XML_Serializer_Tag>
+</variantName>
+<thumbnail>https://commons.wikimedia.org/wiki/Special:FilePath/AstridLindgrenRightLivelihoodAward.jpg?width=270</thumbnail>
+<birthEN>November 14, 1907</birthEN>
+<birthDE>14. November 1907</birthDE>
+<deathEN>January 28, 2002</deathEN>
+<deathDE>28. Januar 2002</deathDE>
+<birthPlace>
+<XML_Serializer_Tag>Vimmerby</XML_Serializer_Tag>
+</birthPlace>
+<deathPlace>
+<XML_Serializer_Tag>Stockholm</XML_Serializer_Tag>
+</deathPlace>
+<professionOrOccupation>
+<XML_Serializer_Tag>Kinderbuchautorin</XML_Serializer_Tag>
+<XML_Serializer_Tag>Schriftstellerin</XML_Serializer_Tag>
+<XML_Serializer_Tag>Drehbuchautorin</XML_Serializer_Tag>
+</professionOrOccupation>
+<dbpResource>http://dbpedia.org/resource/Astrid_Lindgren</dbpResource>
+<abstract>Astrid Lindgren (* 14. November 1907 auf Näs bei Vimmerby als Astrid Anna Emilia Ericsson; † 28. Januar 2002 in Stockholm) war eine schwedische Schriftstellerin.Astrid Lindgren gehört mit einer Gesamtauflage von über 145 Millionen Büchern zu den bekanntesten Kinderbuchautoren der Welt. Sie ist in Deutschland mit einer Gesamtauflage von weit über 20 Millionen Exemplaren erfolgreich wie kaum ein anderer Kinder- und Jugendbuchautor. Die Schriftstellerin ist die geistige Mutter von Pippi Langstrumpf, Michel aus Lönneberga, Ronja Räubertochter, Madita, Mio, Kalle Blomquist, Karlsson vom Dach, den Kindern aus Bullerbü und vielen anderen Figuren.</abstract>
+<wikilink>http://en.wikipedia.org/wiki/Astrid_Lindgren?oldid=606197698</wikilink>
+<artworks />
+<buildings />
+<books>
+<XML_Serializer_Tag>
+<book>
+<type>uri</type>
+<value>http://dbpedia.org/resource/Mio,_My_Son</value>
+</book>
+<author>
+<type>uri</type>
+<value>http://dbpedia.org/resource/Astrid_Lindgren</value>
+</author>
+<wikilink>
+<type>uri</type>
+<value>http://en.wikipedia.org/wiki/Mio,_My_Son?oldid=568288289</value>
+</wikilink>
+<abstract>
+<type>literal</type>
+<xml:lang>de</xml:lang>
+<value>Mio, mein Mio ist ein Kinderbuch von Astrid Lindgren.Die Originalausgabe von Mio, mein Mio erschien 1954 in Schweden unter dem Titel Mio, min Mio. Sie wurde von Ilon Wikland illustriert und später von Karl Kurt Peters ins Deutsche übersetzt.Mio, mein Mio ist in einem märchenhaften Stil erzählt und gilt als kleines literarisches Kunstwerk. Eine besondere eindringliche Wirkung erzielt Lindgren auf sprachlicher Ebene dadurch, dass sie oft stets wiederkehrende Formulierungen verwendet. So spricht Mio immer von „mein Vater, der König“, und dieser wiederum immer von „Mio, mein Mio“; und auf der Reise durch das Land Außerhalb haben die Kinder immer wieder „Angst, große, große Angst“.</value>
+</abstract>
+</XML_Serializer_Tag>
+<XML_Serializer_Tag>
+<book>
+<type>uri</type>
+<value>http://dbpedia.org/resource/Ronia_the_Robber&apos;s_Daughter</value>
+</book>
+<author>
+<type>uri</type>
+<value>http://dbpedia.org/resource/Astrid_Lindgren</value>
+</author>
+<wikilink>
+<type>uri</type>
+<value>http://en.wikipedia.org/wiki/Ronia_the_Robber&apos;s_Daughter?oldid=604997933</value>
+</wikilink>
+<abstract>
+<type>literal</type>
+<xml:lang>de</xml:lang>
+<value>Ronja Räubertochter (Originaltitel: Ronja Rövardotter) ist ein Kinderbuch der schwedischen Autorin Astrid Lindgren, das 1981 erschien. Die Originalillustrationen stammen von Ilon Wikland. Das Buch wurde in zahlreiche Sprachen übersetzt und zu einem Welterfolg.</value>
+</abstract>
+</XML_Serializer_Tag>
+<XML_Serializer_Tag>
+<book>
+<type>uri</type>
+<value>http://dbpedia.org/resource/The_Brothers_Lionheart</value>
+</book>
+<author>
+<type>uri</type>
+<value>http://dbpedia.org/resource/Astrid_Lindgren</value>
+</author>
+<wikilink>
+<type>uri</type>
+<value>http://en.wikipedia.org/wiki/The_Brothers_Lionheart?oldid=604006212</value>
+</wikilink>
+<abstract>
+<type>literal</type>
+<xml:lang>de</xml:lang>
+<value>Die Brüder Löwenherz (schwedisch Bröderna Lejonhjärta) ist der Titel eines erstmals 1973 veröffentlichten Romans von Astrid Lindgren. Die Illustrationen der Originalausgabe stammen von Ilon Wikland.</value>
+</abstract>
+</XML_Serializer_Tag>
+<XML_Serializer_Tag>
+<book>
+<type>uri</type>
+<value>http://dbpedia.org/resource/Sia_lives_on_Kilimanjaro</value>
+</book>
+<author>
+<type>uri</type>
+<value>http://dbpedia.org/resource/Astrid_Lindgren</value>
+</author>
+<wikilink>
+<type>uri</type>
+<value>http://en.wikipedia.org/wiki/Sia_lives_on_Kilimanjaro?oldid=583800056</value>
+</wikilink>
+</XML_Serializer_Tag>
+<XML_Serializer_Tag>
+<book>
+<type>uri</type>
+<value>http://dbpedia.org/resource/Bill_Bergson_and_the_White_Rose_Rescue</value>
+</book>
+<author>
+<type>uri</type>
+<value>http://dbpedia.org/resource/Astrid_Lindgren</value>
+</author>
+<wikilink>
+<type>uri</type>
+<value>http://en.wikipedia.org/wiki/Bill_Bergson_and_the_White_Rose_Rescue?oldid=568286892</value>
+</wikilink>
+</XML_Serializer_Tag>
+<XML_Serializer_Tag>
+<book>
+<type>uri</type>
+<value>http://dbpedia.org/resource/Pippi_Goes_on_Board_(book)</value>
+</book>
+<author>
+<type>uri</type>
+<value>http://dbpedia.org/resource/Astrid_Lindgren</value>
+</author>
+<wikilink>
+<type>uri</type>
+<value>http://en.wikipedia.org/wiki/Pippi_Goes_on_Board_(book)?oldid=567991920</value>
+</wikilink>
+</XML_Serializer_Tag>
+<XML_Serializer_Tag>
+<book>
+<type>uri</type>
+<value>http://dbpedia.org/resource/Pippi_in_the_South_Seas_(book)</value>
+</book>
+<author>
+<type>uri</type>
+<value>http://dbpedia.org/resource/Astrid_Lindgren</value>
+</author>
+<wikilink>
+<type>uri</type>
+<value>http://en.wikipedia.org/wiki/Pippi_in_the_South_Seas_(book)?oldid=576239610</value>
+</wikilink>
+</XML_Serializer_Tag>
+<XML_Serializer_Tag>
+<book>
+<type>uri</type>
+<value>http://dbpedia.org/resource/Pippi_Longstocking_(novel)</value>
+</book>
+<author>
+<type>uri</type>
+<value>http://dbpedia.org/resource/Astrid_Lindgren</value>
+</author>
+<wikilink>
+<type>uri</type>
+<value>http://en.wikipedia.org/wiki/Pippi_Longstocking_(novel)?oldid=598231169</value>
+</wikilink>
+</XML_Serializer_Tag>
+<XML_Serializer_Tag>
+<book>
+<type>uri</type>
+<value>http://dbpedia.org/resource/Bill_Bergson_Lives_Dangerously</value>
+</book>
+<author>
+<type>uri</type>
+<value>http://dbpedia.org/resource/Astrid_Lindgren</value>
+</author>
+<wikilink>
+<type>uri</type>
+<value>http://en.wikipedia.org/wiki/Bill_Bergson_Lives_Dangerously?oldid=598613471</value>
+</wikilink>
+</XML_Serializer_Tag>
+</books>
+</Person>

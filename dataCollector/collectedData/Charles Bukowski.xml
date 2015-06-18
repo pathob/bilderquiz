@@ -1,0 +1,128 @@
+<Person>
+<name>Charles Bukowski</name>
+<variantName>
+<XML_Serializer_Tag>BUK</XML_Serializer_Tag>
+<XML_Serializer_Tag>Charles Bubowski</XML_Serializer_Tag>
+<XML_Serializer_Tag>Čarlz Bukovski</XML_Serializer_Tag>
+<XML_Serializer_Tag>Charlʹz Bukovski</XML_Serializer_Tag>
+<XML_Serializer_Tag>Ch. Bukowski</XML_Serializer_Tag>
+<XML_Serializer_Tag>Heinrich Karl Bukowski</XML_Serializer_Tag>
+<XML_Serializer_Tag>Henry Charles Bukowski</XML_Serializer_Tag>
+<XML_Serializer_Tag>... Bukowski-Weissner</XML_Serializer_Tag>
+<XML_Serializer_Tag>Heinrich Karl Bukowski</XML_Serializer_Tag>
+</variantName>
+<thumbnail>https://commons.wikimedia.org/wiki/Special:FilePath/CharlesBukowski-2.jpg?width=270</thumbnail>
+<birthEN>August 16, 1920</birthEN>
+<birthDE>16. August 1920</birthDE>
+<deathEN>March 9, 1994</deathEN>
+<deathDE>9. März 1994</deathDE>
+<birthPlace>
+<XML_Serializer_Tag>Andernach</XML_Serializer_Tag>
+</birthPlace>
+<deathPlace>
+<XML_Serializer_Tag>San Pedro, Kalifornien, USA</XML_Serializer_Tag>
+</deathPlace>
+<professionOrOccupation>
+<XML_Serializer_Tag>Schriftsteller</XML_Serializer_Tag>
+</professionOrOccupation>
+<dbpResource>http://dbpedia.org/resource/Charles_Bukowski</dbpResource>
+<abstract>Henry Charles Bukowski jr. (* 16. August 1920 in Andernach als Heinrich Karl Bukowski; † 9. März 1994 in Los Angeles) war ein US-amerikanischer Dichter und Schriftsteller deutscher Abstammung. Er veröffentlichte zwischen 1960 und den frühen 1990er-Jahren über vierzig Bücher mit Gedichten und Prosa.</abstract>
+<wikilink>http://en.wikipedia.org/wiki/Charles_Bukowski?oldid=604654000</wikilink>
+<artworks />
+<buildings />
+<books>
+<XML_Serializer_Tag>
+<book>
+<type>uri</type>
+<value>http://dbpedia.org/resource/The_Most_Beautiful_Woman_in_Town</value>
+</book>
+<author>
+<type>uri</type>
+<value>http://dbpedia.org/resource/Charles_Bukowski</value>
+</author>
+<thumbnail>
+<type>uri</type>
+<value>http://en.wikipedia.org/wiki/Special:FilePath/MostBeautifulWoman.jpg?width=300</value>
+</thumbnail>
+<released>
+<type>typed-literal</type>
+<datatype>http://www.w3.org/2001/XMLSchema#integer</datatype>
+<value>1983</value>
+</released>
+<wikilink>
+<type>uri</type>
+<value>http://en.wikipedia.org/wiki/The_Most_Beautiful_Woman_in_Town?oldid=595126036</value>
+</wikilink>
+</XML_Serializer_Tag>
+<XML_Serializer_Tag>
+<book>
+<type>uri</type>
+<value>http://dbpedia.org/resource/Tales_of_Ordinary_Madness_(book)</value>
+</book>
+<author>
+<type>uri</type>
+<value>http://dbpedia.org/resource/Charles_Bukowski</value>
+</author>
+<thumbnail>
+<type>uri</type>
+<value>http://en.wikipedia.org/wiki/Special:FilePath/OrdinaryMadness.jpg?width=300</value>
+</thumbnail>
+<released>
+<type>typed-literal</type>
+<datatype>http://www.w3.org/2001/XMLSchema#integer</datatype>
+<value>1983</value>
+</released>
+<wikilink>
+<type>uri</type>
+<value>http://en.wikipedia.org/wiki/Tales_of_Ordinary_Madness_(book)?oldid=600680048</value>
+</wikilink>
+</XML_Serializer_Tag>
+<XML_Serializer_Tag>
+<book>
+<type>uri</type>
+<value>http://dbpedia.org/resource/Erections,_Ejaculations,_Exhibitions,_and_General_Tales_of_Ordinary_Madness</value>
+</book>
+<author>
+<type>uri</type>
+<value>http://dbpedia.org/resource/Charles_Bukowski</value>
+</author>
+<released>
+<type>typed-literal</type>
+<datatype>http://www.w3.org/2001/XMLSchema#integer</datatype>
+<value>1972</value>
+</released>
+<wikilink>
+<type>uri</type>
+<value>http://en.wikipedia.org/wiki/Erections,_Ejaculations,_Exhibitions,_and_General_Tales_of_Ordinary_Madness?oldid=583720150</value>
+</wikilink>
+</XML_Serializer_Tag>
+<XML_Serializer_Tag>
+<book>
+<type>uri</type>
+<value>http://dbpedia.org/resource/Women_(novel)</value>
+</book>
+<author>
+<type>uri</type>
+<value>http://dbpedia.org/resource/Charles_Bukowski</value>
+</author>
+<wikilink>
+<type>uri</type>
+<value>http://en.wikipedia.org/wiki/Women_(novel)?oldid=605629586</value>
+</wikilink>
+</XML_Serializer_Tag>
+<XML_Serializer_Tag>
+<book>
+<type>uri</type>
+<value>http://dbpedia.org/resource/Ham_on_Rye</value>
+</book>
+<author>
+<type>uri</type>
+<value>http://dbpedia.org/resource/Charles_Bukowski</value>
+</author>
+<wikilink>
+<type>uri</type>
+<value>http://en.wikipedia.org/wiki/Ham_on_Rye?oldid=599958256</value>
+</wikilink>
+</XML_Serializer_Tag>
+</books>
+</Person>

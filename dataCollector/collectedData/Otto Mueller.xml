@@ -19,8 +19,10 @@
 <XML_Serializer_Tag>Maler</XML_Serializer_Tag>
 <XML_Serializer_Tag>Lithograph</XML_Serializer_Tag>
 </professionOrOccupation>
-<artworks />
 <dbpResource>http://dbpedia.org/resource/Otto_Mueller</dbpResource>
 <abstract>Otto Mueller (* 16. Oktober 1874 in Liebau, Schlesien; † 24. September 1930 in Obernigk bei Breslau) war ein deutscher Maler und Lithograf des Expressionismus. Er gilt heute als einer der bedeutendsten Expressionisten.</abstract>
 <wikilink>http://en.wikipedia.org/wiki/Otto_Mueller?oldid=591556546</wikilink>
+<artworks />
+<buildings />
+<books />
 </Person>

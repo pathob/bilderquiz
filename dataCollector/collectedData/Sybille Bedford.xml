@@ -1,0 +1,25 @@
+<Person>
+<name>Sybille Bedford</name>
+<variantName>
+<XML_Serializer_Tag>Sybille Aleid Elsa von Schoenebeck</XML_Serializer_Tag>
+</variantName>
+<thumbnail>https://en.wikipedia.org/wiki/Special:FilePath/Sybille_Bedford_1989.jpg?width=270</thumbnail>
+<birthEN>March 16, 1911</birthEN>
+<birthDE>16. März 1911</birthDE>
+<deathEN>February 17, 2006</deathEN>
+<deathDE>17. Februar 2006</deathDE>
+<birthPlace>
+<XML_Serializer_Tag>Berlin</XML_Serializer_Tag>
+</birthPlace>
+<deathPlace />
+<professionOrOccupation>
+<XML_Serializer_Tag>Schriftstellerin</XML_Serializer_Tag>
+<XML_Serializer_Tag>Journalistin</XML_Serializer_Tag>
+</professionOrOccupation>
+<dbpResource>http://dbpedia.org/resource/Sybille_Bedford</dbpResource>
+<abstract>Sybille Bedford OBE (* 16. März 1911 in Charlottenburg; † 17. Februar 2006 in London), geborene Freiin Sybille Aleid Elsa von Schoenebeck, war eine deutsch-britische Journalistin und Schriftstellerin.</abstract>
+<wikilink>http://en.wikipedia.org/wiki/Sybille_Bedford?oldid=605934700</wikilink>
+<artworks />
+<buildings />
+<books />
+</Person>

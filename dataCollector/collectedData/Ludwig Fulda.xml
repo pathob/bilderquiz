@@ -1,0 +1,31 @@
+<Person>
+<name>Ludwig Fulda</name>
+<variantName>
+<XML_Serializer_Tag>Ludwig Anton Salomon Fulda</XML_Serializer_Tag>
+<XML_Serializer_Tag>L. Fulda</XML_Serializer_Tag>
+<XML_Serializer_Tag>Ludw. Fulda</XML_Serializer_Tag>
+<XML_Serializer_Tag>Ludwig Anton Salomon Fulda</XML_Serializer_Tag>
+</variantName>
+<thumbnail>https://commons.wikimedia.org/wiki/Special:FilePath/Ludwig_Fulda.jpg?width=270</thumbnail>
+<birthEN>July 15, 1862</birthEN>
+<birthDE>15. Juli 1862</birthDE>
+<deathEN>March 30, 1939</deathEN>
+<deathDE>30. März 1939</deathDE>
+<birthPlace>
+<XML_Serializer_Tag>Frankfurt am Main</XML_Serializer_Tag>
+</birthPlace>
+<deathPlace>
+<XML_Serializer_Tag>Berlin</XML_Serializer_Tag>
+</deathPlace>
+<professionOrOccupation>
+<XML_Serializer_Tag>Dramatiker</XML_Serializer_Tag>
+<XML_Serializer_Tag>Übersetzer</XML_Serializer_Tag>
+<XML_Serializer_Tag>Schriftsteller</XML_Serializer_Tag>
+</professionOrOccupation>
+<dbpResource>http://dbpedia.org/resource/Ludwig_Fulda</dbpResource>
+<abstract>Ludwig Anton Salomon Fulda (* 15. Juli 1862 in Frankfurt am Main; † 30. März 1939 in Berlin) war ein erfolgreicher deutscher Bühnenautor und Übersetzer.</abstract>
+<wikilink>http://en.wikipedia.org/wiki/Ludwig_Fulda?oldid=580867713</wikilink>
+<artworks />
+<buildings />
+<books />
+</Person>

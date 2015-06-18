@@ -1,0 +1,31 @@
+<Person>
+<name>Isaac Deutscher</name>
+<variantName>
+<XML_Serializer_Tag>Isaak Deutscher</XML_Serializer_Tag>
+<XML_Serializer_Tag>I. Deutscher</XML_Serializer_Tag>
+<XML_Serializer_Tag>Isaak Dojčer</XML_Serializer_Tag>
+<XML_Serializer_Tag>Aizakku Doichā</XML_Serializer_Tag>
+</variantName>
+<thumbnail>https://en.wikipedia.org/wiki/Special:FilePath/Isaac_Deutscher.jpg?width=270</thumbnail>
+<birthEN>1907</birthEN>
+<birthDE>1907</birthDE>
+<deathEN>1967</deathEN>
+<deathDE>1967</deathDE>
+<birthPlace>
+<XML_Serializer_Tag>Schidlow</XML_Serializer_Tag>
+</birthPlace>
+<deathPlace>
+<XML_Serializer_Tag>Rom</XML_Serializer_Tag>
+</deathPlace>
+<professionOrOccupation>
+<XML_Serializer_Tag>Schriftsteller</XML_Serializer_Tag>
+<XML_Serializer_Tag>Journalist</XML_Serializer_Tag>
+<XML_Serializer_Tag>Historiker</XML_Serializer_Tag>
+</professionOrOccupation>
+<dbpResource>http://dbpedia.org/resource/Isaac_Deutscher</dbpResource>
+<abstract>Isaac Deutscher (auch: Isaak Deutscher; * 3. April 1907 in Chrzanów, Galizien, Österreich-Ungarn; † 19. August 1967 in Rom) war ein trotzkistischer Schriftsteller, Journalist und Historiker des Kommunismus.</abstract>
+<wikilink>http://en.wikipedia.org/wiki/Isaac_Deutscher?oldid=603830486</wikilink>
+<artworks />
+<buildings />
+<books />
+</Person>

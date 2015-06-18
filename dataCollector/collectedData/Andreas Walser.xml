@@ -11,8 +11,10 @@
 <professionOrOccupation>
 <XML_Serializer_Tag>Maler</XML_Serializer_Tag>
 </professionOrOccupation>
-<artworks />
 <dbpResource>http://dbpedia.org/resource/Andreas_Walser</dbpResource>
 <abstract>Andreas Walser (* 13. April 1908 in Chur, Kanton Graubünden; † 19. März 1930 in Paris) war ein Schweizer Maler, Schriftsteller und Fotograf.</abstract>
 <wikilink>http://en.wikipedia.org/wiki/Andreas_Walser?oldid=582303382</wikilink>
+<artworks />
+<buildings />
+<books />
 </Person>

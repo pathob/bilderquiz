@@ -1,0 +1,30 @@
+<Person>
+<name>Wolf Vostell</name>
+<variantName>
+<XML_Serializer_Tag>Vostell</XML_Serializer_Tag>
+</variantName>
+<thumbnail>https://commons.wikimedia.org/wiki/Special:FilePath/Wolf_Vostell_1985_West_Berlin_Foto_Maren_Detering.jpg?width=270</thumbnail>
+<birthEN>October 14, 1932</birthEN>
+<birthDE>14. Oktober 1932</birthDE>
+<deathEN>April 3, 1998</deathEN>
+<deathDE>3. April 1998</deathDE>
+<birthPlace>
+<XML_Serializer_Tag>Leverkusen</XML_Serializer_Tag>
+</birthPlace>
+<deathPlace>
+<XML_Serializer_Tag>Berlin</XML_Serializer_Tag>
+</deathPlace>
+<professionOrOccupation>
+<XML_Serializer_Tag>Künstler</XML_Serializer_Tag>
+<XML_Serializer_Tag>Aktionskünstler</XML_Serializer_Tag>
+<XML_Serializer_Tag>Komponist</XML_Serializer_Tag>
+<XML_Serializer_Tag>Schauspieler</XML_Serializer_Tag>
+<XML_Serializer_Tag>Regisseur</XML_Serializer_Tag>
+</professionOrOccupation>
+<dbpResource>http://dbpedia.org/resource/Wolf_Vostell</dbpResource>
+<abstract>Wolf Vostell (* 14. Oktober 1932 in Leverkusen; † 3. April 1998 in Berlin) war ein deutscher Maler, Bildhauer und Happeningkünstler der zweiten Hälfte des 20. Jahrhunderts.Wolf Vostell gilt als einer der Pioniere des Environment, der Videokunst, des Happening und der Fluxus-Bewegung. Techniken wie die Verwischung oder die Décollage sind ebenso ein Kennzeichen der Werke von Wolf Vostell wie das Einbetonieren.</abstract>
+<wikilink>http://en.wikipedia.org/wiki/Wolf_Vostell?oldid=598407549</wikilink>
+<artworks />
+<buildings />
+<books />
+</Person>

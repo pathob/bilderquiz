@@ -19,8 +19,10 @@
 <XML_Serializer_Tag>Graphiker</XML_Serializer_Tag>
 <XML_Serializer_Tag>Maler</XML_Serializer_Tag>
 </professionOrOccupation>
-<artworks />
 <dbpResource>http://dbpedia.org/resource/Otto_Richard_Bossert</dbpResource>
 <abstract>Otto Richard Bossert (* 23. April 1874 in Heidelberg; † 14. Januar 1919 in Leipzig) war ein deutscher Grafiker und Maler. Seine Frühwerke lehnen sich an Max Klinger an.</abstract>
 <wikilink>http://en.wikipedia.org/wiki/Otto_Richard_Bossert?oldid=581942908</wikilink>
+<artworks />
+<buildings />
+<books />
 </Person>

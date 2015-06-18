@@ -16,8 +16,10 @@
 <XML_Serializer_Tag>Künstler</XML_Serializer_Tag>
 <XML_Serializer_Tag>Maler</XML_Serializer_Tag>
 </professionOrOccupation>
-<artworks />
 <dbpResource>http://dbpedia.org/resource/Michael_Wolgemut</dbpResource>
 <abstract>Michael Wolgemut (* 1434 in Nürnberg; † 30. November1519 ebenda; auch Michael Wohlgemut oder Michael Wohlgemuth) war ein Maler und ein Meister des Holzschnitts. Er war Schüler von Hans Pleydenwurff und der wichtigste Vertreter der älteren fränkischen Schule.Auch arbeitete er im Auftrage des sächsischen Kurfürsten Friedrichs des Weisen bei der Ausgestaltung seines Schlosses in Wittenberg mit. Durch Kriegseinwirkungen ist sein Schaffenswerk in Wittenberg verlorengegangen. So auch ein Bildnis seines Auftraggebers, des Kurfürsten Friedrich des Weisen.</abstract>
 <wikilink>http://en.wikipedia.org/wiki/Michael_Wolgemut?oldid=601491122</wikilink>
+<artworks />
+<buildings />
+<books />
 </Person>

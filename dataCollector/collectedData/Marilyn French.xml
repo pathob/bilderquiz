@@ -1,0 +1,43 @@
+<Person>
+<name>Marilyn French</name>
+<variantName>
+<XML_Serializer_Tag>Mara Solwoska</XML_Serializer_Tag>
+<XML_Serializer_Tag>Marilyn Edwards</XML_Serializer_Tag>
+</variantName>
+<thumbnail>https://en.wikipedia.org/wiki/Special:FilePath/Marilyn_French.jpg?width=270</thumbnail>
+<birthEN>November 21, 1929</birthEN>
+<birthDE>21. November 1929</birthDE>
+<deathEN>May 2, 2009</deathEN>
+<deathDE>2. Mai 2009</deathDE>
+<birthPlace>
+<XML_Serializer_Tag>New York, NY</XML_Serializer_Tag>
+</birthPlace>
+<deathPlace>
+<XML_Serializer_Tag>New York, NY</XML_Serializer_Tag>
+</deathPlace>
+<professionOrOccupation>
+<XML_Serializer_Tag>Feministin</XML_Serializer_Tag>
+<XML_Serializer_Tag>Schriftstellerin</XML_Serializer_Tag>
+</professionOrOccupation>
+<dbpResource>http://dbpedia.org/resource/Marilyn_French</dbpResource>
+<abstract>Marilyn French (* 21. November 1929 in New York City; † 2. Mai 2009 ebenda) war eine US-amerikanische Schriftstellerin, Literaturwissenschaftlerin und Feministin.Seit 1964 unterrichtete sie englische Literatur. 1972 wurde sie mit einer Arbeit über James Joyce promoviert. In ihrem Streben um die Emanzipation der Frau wurde sie vornehmlich von Simone de Beauvoir beeinflusst.Ihr Credo lautete: „My goal in life is to change the entire social and economic structure of western civilization, to make it a feminist world.“ (dt. sinngemäß: „Mein Lebensziel ist es, die gesamte soziale und wirtschaftliche Struktur der westlichen Zivilisation zu verändern, um sie zu einer feministischen Welt zu machen.“)Ergänzend fügte sie hinzu:„It‘s a kind of moral view.“ (dt. sinngemäß: „Es ist so etwas wie eine moralische Sichtweise.“)Ihr bekanntestes Werk Frauen (The Women‘s Room), in dem sie den umstrittenen und vielzitierten Satz „Alle Männer sind Vergewaltiger und sonst gar nichts“ prägte, erschien erstmals 1977 und wurde eine „Art feministisches Kultbuch“. Der Roman schildert das Schicksal der nur auf ihre traditionelle Rolle als Frau vorbereiteten Mira nach ihrer Scheidung als „zwar freies, aber alleingelassenes Opfer der Männerwelt“.1980 erschien ihr Roman The Bleeding Heart (dt. Das blutende Herz), in dem sich die Beziehung der Protagonistin Professorin Dolores zu ihrem Geliebten, dem unglücklich verheirateten Viktor, zwischen Liebe und Verzweiflung in ähnlich schwieriger Weise gestaltet.Auch in ihren beiden späteren Romane Her Mother’s Daughter (1987, dt. Tochter ihrer Mutter) und Our Father (1994, dt. Vater unser) wird vor allem die Unterdrückung der Frau thematisiert. Anastasia, die Protagonistin in Her Mother’s Daughter erzählt die Geschichte von vier Generationen einer Einwandererfamilie, in denen das geistig-spirituelle Erbe an die Töchter weitergegeben wird. Anastasia wünscht sich, frei wie ein Mann zu leben und sich in einer Welt zu emanzipieren, in der die Unterdrückung der Frau eine Art Erblast darstellt. Our Father schildert in noch bedrückenderer Form das Leben von vier Halbwaisen desselben Vaters, die nach einem Schlaganfall ihres Vaters bei einem Zusammentreffen feststellen, dass sie alle als junge Mädchen von ihrem Vater missbraucht worden sind.Verschiedentlich arbeitete Marilyn French mit anderen Autorinnen zusammen, wie z. B. mit Florence Howe und Rosalind Miles.Marilyn French hatte einen Sohn und eine Tochter und lebte in New York.Die schwedische Popgruppe ABBA erwähnte Marilyn French in ihrem 1982 veröffentlichten Song The Day Before You Came in der Textzeile: „I must have read a while, the latest one by Marilyn French or something in that style“.</abstract>
+<wikilink>http://en.wikipedia.org/wiki/Marilyn_French?oldid=594932724</wikilink>
+<artworks />
+<buildings />
+<books>
+<XML_Serializer_Tag>
+<book>
+<type>uri</type>
+<value>http://dbpedia.org/resource/The_Women&apos;s_Room</value>
+</book>
+<author>
+<type>uri</type>
+<value>http://dbpedia.org/resource/Marilyn_French</value>
+</author>
+<wikilink>
+<type>uri</type>
+<value>http://en.wikipedia.org/wiki/The_Women&apos;s_Room?oldid=573431799</value>
+</wikilink>
+</XML_Serializer_Tag>
+</books>
+</Person>

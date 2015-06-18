@@ -1,0 +1,34 @@
+<Person>
+<name>Paul Eluard</name>
+<variantName>
+<XML_Serializer_Tag>Eugène Grindel</XML_Serializer_Tag>
+<XML_Serializer_Tag>Didier Desroches</XML_Serializer_Tag>
+<XML_Serializer_Tag>Paul Grindel</XML_Serializer_Tag>
+<XML_Serializer_Tag>Maurice Hervent</XML_Serializer_Tag>
+<XML_Serializer_Tag>Jean Du Haut</XML_Serializer_Tag>
+<XML_Serializer_Tag>Jean du Haut</XML_Serializer_Tag>
+<XML_Serializer_Tag>Pol Eliuar</XML_Serializer_Tag>
+<XML_Serializer_Tag>Paul Éluard</XML_Serializer_Tag>
+<XML_Serializer_Tag>Pooru Eruaru</XML_Serializer_Tag>
+<XML_Serializer_Tag>Polʹ Eluar</XML_Serializer_Tag>
+<XML_Serializer_Tag>Paulʹ Ėljuar</XML_Serializer_Tag>
+<XML_Serializer_Tag>Paul-Eugène Grindel</XML_Serializer_Tag>
+<XML_Serializer_Tag>Jean DuHaut</XML_Serializer_Tag>
+</variantName>
+<thumbnail>https://commons.wikimedia.org/wiki/Special:FilePath/Paul_Éluard.jpg?width=270</thumbnail>
+<birthEN>December 14, 1895</birthEN>
+<birthDE>14. Dezember 1895</birthDE>
+<deathEN>November 18, 1952</deathEN>
+<deathDE>18. November 1952</deathDE>
+<birthPlace />
+<deathPlace />
+<professionOrOccupation>
+<XML_Serializer_Tag>Schriftsteller</XML_Serializer_Tag>
+</professionOrOccupation>
+<dbpResource>http://dbpedia.org/resource/Paul_%C3%89luard</dbpResource>
+<abstract>Paul Éluard (eigentlich Eugène-Émile-Paul Grindel; * 14. Dezember 1895 in Saint Denis bei Paris; † 18. November 1952 in Charenton-le-Pont bei Paris) war ein französischer Lyriker und einer der bekanntesten Dichter des Surrealismus.</abstract>
+<wikilink>http://en.wikipedia.org/wiki/Paul_Éluard?oldid=589602535</wikilink>
+<artworks />
+<buildings />
+<books />
+</Person>

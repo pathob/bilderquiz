@@ -1,0 +1,34 @@
+<Person>
+<name>Horst Janssen</name>
+<variantName>
+<XML_Serializer_Tag>Gorst Janssen</XML_Serializer_Tag>
+<XML_Serializer_Tag>Chorst Janssen</XML_Serializer_Tag>
+<XML_Serializer_Tag>Horusuto Yansen</XML_Serializer_Tag>
+<XML_Serializer_Tag>ホルスト・ヤンセン</XML_Serializer_Tag>
+<XML_Serializer_Tag>Horusuto Yansen</XML_Serializer_Tag>
+<XML_Serializer_Tag>ホルスト ヤンセン</XML_Serializer_Tag>
+</variantName>
+<thumbnail>https://commons.wikimedia.org/wiki/Special:FilePath/JanssenMuseumOldenburg.jpg?width=270</thumbnail>
+<birthEN>November 14, 1929</birthEN>
+<birthDE>14. November 1929</birthDE>
+<deathEN>August 31, 1995</deathEN>
+<deathDE>31. August 1995</deathDE>
+<birthPlace>
+<XML_Serializer_Tag>Hamburg</XML_Serializer_Tag>
+</birthPlace>
+<deathPlace>
+<XML_Serializer_Tag>Hamburg</XML_Serializer_Tag>
+</deathPlace>
+<professionOrOccupation>
+<XML_Serializer_Tag>Schriftsteller</XML_Serializer_Tag>
+<XML_Serializer_Tag>Graphiker</XML_Serializer_Tag>
+<XML_Serializer_Tag>Zeichner</XML_Serializer_Tag>
+<XML_Serializer_Tag>Künstler</XML_Serializer_Tag>
+</professionOrOccupation>
+<dbpResource>http://dbpedia.org/resource/Horst_Janssen</dbpResource>
+<abstract>Horst Janssen (* 14. November 1929 in Hamburg; † 31. August 1995 ebenda) war ein deutscher Zeichner und Grafiker, der in seinen Arbeiten sowohl künstlerisch-technische Experimentierfreudigkeit pflegte als auch deutlich traditionelle grafische Elemente einbezog.</abstract>
+<wikilink>http://en.wikipedia.org/wiki/Horst_Janssen?oldid=587041263</wikilink>
+<artworks />
+<buildings />
+<books />
+</Person>

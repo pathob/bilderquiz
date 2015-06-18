@@ -1,0 +1,26 @@
+<Person>
+<name>Egon Eiermann</name>
+<variantName>
+<XML_Serializer_Tag>Egon Fritz Eiermann</XML_Serializer_Tag>
+</variantName>
+<thumbnail>https://commons.wikimedia.org/wiki/Special:FilePath/Stamp_Germany_2004_MiNr2421_Egon_Eiermann.jpg?width=270</thumbnail>
+<birthEN>September 29, 1904</birthEN>
+<birthDE>29. September 1904</birthDE>
+<deathEN>July 19, 1970</deathEN>
+<deathDE>19. Juli 1970</deathDE>
+<birthPlace>
+<XML_Serializer_Tag>Neuendorf, Kreis Teltow</XML_Serializer_Tag>
+</birthPlace>
+<deathPlace>
+<XML_Serializer_Tag>Baden-Baden</XML_Serializer_Tag>
+</deathPlace>
+<professionOrOccupation>
+<XML_Serializer_Tag>Architekt</XML_Serializer_Tag>
+</professionOrOccupation>
+<dbpResource>http://dbpedia.org/resource/Egon_Eiermann</dbpResource>
+<abstract>Egon Eiermann (* 29. September 1904 in Nowawes (heute Teil von Potsdam-Babelsberg); † 19. Juli 1970 in Baden-Baden; vollständiger Name: Egon Fritz Wilhelm Eiermann) war ein deutscher Architekt, Möbeldesigner und Hochschullehrer. Er gilt als einer der bedeutendsten deutschen Architekten der Nachkriegsmoderne. Eiermann war ordentlicher Professor an der Architekturfakultät der Technischen Hochschule Karlsruhe.</abstract>
+<wikilink>http://en.wikipedia.org/wiki/Egon_Eiermann?oldid=605612622</wikilink>
+<artworks />
+<buildings />
+<books />
+</Person>

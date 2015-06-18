@@ -1,0 +1,31 @@
+<Person>
+<name>Tommy Jaud</name>
+<variantName>
+<XML_Serializer_Tag>Tomi Jaud</XML_Serializer_Tag>
+<XML_Serializer_Tag>Ṭomi Yeʾud</XML_Serializer_Tag>
+<XML_Serializer_Tag>Tang mi Yao de</XML_Serializer_Tag>
+<XML_Serializer_Tag>Tangmi-Yaode</XML_Serializer_Tag>
+<XML_Serializer_Tag>Tangmi Yaode</XML_Serializer_Tag>
+<XML_Serializer_Tag>汤米 尧德</XML_Serializer_Tag>
+</variantName>
+<thumbnail>https://commons.wikimedia.org/wiki/Special:FilePath/Tommy_Jaud_Buchmesse_1.jpg?width=270</thumbnail>
+<birthEN>1970</birthEN>
+<birthDE>1970</birthDE>
+<deathEN />
+<deathDE />
+<birthPlace>
+<XML_Serializer_Tag>Schweinfurt</XML_Serializer_Tag>
+</birthPlace>
+<deathPlace />
+<professionOrOccupation>
+<XML_Serializer_Tag>Regisseur</XML_Serializer_Tag>
+<XML_Serializer_Tag>Drehbuchautor</XML_Serializer_Tag>
+<XML_Serializer_Tag>Schriftsteller</XML_Serializer_Tag>
+</professionOrOccupation>
+<dbpResource>http://dbpedia.org/resource/Tommy_Jaud</dbpResource>
+<abstract>Tommy Jaud (* 16. Juli 1970 in Schweinfurt) ist ein deutscher Schriftsteller, Drehbuchautor und freier Autor für verschiedene Fernsehproduktionen.</abstract>
+<wikilink>http://en.wikipedia.org/wiki/Tommy_Jaud?oldid=570953913</wikilink>
+<artworks />
+<buildings />
+<books />
+</Person>

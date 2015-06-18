@@ -1,0 +1,101 @@
+<Person>
+<name>Raymond Queneau</name>
+<variantName>
+<XML_Serializer_Tag>Sally Mara</XML_Serializer_Tag>
+<XML_Serializer_Tag>Jean Raymond</XML_Serializer_Tag>
+<XML_Serializer_Tag>Reimon Keno</XML_Serializer_Tag>
+<XML_Serializer_Tag>Raimond Queneau</XML_Serializer_Tag>
+<XML_Serializer_Tag>Michel Presle</XML_Serializer_Tag>
+<XML_Serializer_Tag>Remon Keno</XML_Serializer_Tag>
+<XML_Serializer_Tag>R. Queneau</XML_Serializer_Tag>
+<XML_Serializer_Tag>Raymond Auguste Queneau</XML_Serializer_Tag>
+</variantName>
+<thumbnail>https://en.wikipedia.org/wiki/Special:FilePath/Raymond_Queneau.jpg?width=270</thumbnail>
+<birthEN>February 21, 1903</birthEN>
+<birthDE>21. Februar 1903</birthDE>
+<deathEN>October 25, 1976</deathEN>
+<deathDE>25. Oktober 1976</deathDE>
+<birthPlace>
+<XML_Serializer_Tag>Le Havre</XML_Serializer_Tag>
+</birthPlace>
+<deathPlace>
+<XML_Serializer_Tag>Neuilly-sur-Seine</XML_Serializer_Tag>
+</deathPlace>
+<professionOrOccupation>
+<XML_Serializer_Tag>Dramatiker</XML_Serializer_Tag>
+<XML_Serializer_Tag>Schriftsteller</XML_Serializer_Tag>
+</professionOrOccupation>
+<dbpResource>http://dbpedia.org/resource/Raymond_Queneau</dbpResource>
+<abstract>Raymond Queneau (* 21. Februar 1903 in Le Havre; † 25. Oktober 1976 in Neuilly bei Paris) war ein französischer Dichter und Schriftsteller. Sein bekanntestes Werk ist der Roman Zazie dans le métro.</abstract>
+<wikilink>http://en.wikipedia.org/wiki/Raymond_Queneau?oldid=599223915</wikilink>
+<artworks />
+<buildings />
+<books>
+<XML_Serializer_Tag>
+<book>
+<type>uri</type>
+<value>http://dbpedia.org/resource/The_Blue_Flowers</value>
+</book>
+<author>
+<type>uri</type>
+<value>http://dbpedia.org/resource/Raymond_Queneau</value>
+</author>
+<released>
+<type>typed-literal</type>
+<datatype>http://www.w3.org/2001/XMLSchema#integer</datatype>
+<value>1965</value>
+</released>
+<wikilink>
+<type>uri</type>
+<value>http://en.wikipedia.org/wiki/The_Blue_Flowers?oldid=541192633</value>
+</wikilink>
+<abstract>
+<type>literal</type>
+<xml:lang>de</xml:lang>
+<value>Die blauen Blumen (französischer Originaltitel: Les Fleurs bleues) ist ein 1965 erschienener Roman von Raymond Queneau.Ins Deutsche übersetzt wurde er von Eugen Helmlé, eine italienische Übersetzung gibt es von Italo Calvino.</value>
+</abstract>
+</XML_Serializer_Tag>
+<XML_Serializer_Tag>
+<book>
+<type>uri</type>
+<value>http://dbpedia.org/resource/Exercises_in_Style</value>
+</book>
+<author>
+<type>uri</type>
+<value>http://dbpedia.org/resource/Raymond_Queneau</value>
+</author>
+<released>
+<type>typed-literal</type>
+<datatype>http://www.w3.org/2001/XMLSchema#integer</datatype>
+<value>1947</value>
+</released>
+<wikilink>
+<type>uri</type>
+<value>http://en.wikipedia.org/wiki/Exercises_in_Style?oldid=596620235</value>
+</wikilink>
+</XML_Serializer_Tag>
+<XML_Serializer_Tag>
+<book>
+<type>uri</type>
+<value>http://dbpedia.org/resource/Zazie_in_the_Metro</value>
+</book>
+<author>
+<type>uri</type>
+<value>http://dbpedia.org/resource/Raymond_Queneau</value>
+</author>
+<published>
+<type>uri</type>
+<value>http://dbpedia.org/resource/Olympia_Press</value>
+</published>
+<wikilink>
+<type>uri</type>
+<value>http://en.wikipedia.org/wiki/Zazie_in_the_Metro?oldid=605641606</value>
+</wikilink>
+<abstract>
+<type>literal</type>
+<xml:lang>de</xml:lang>
+<value>Zazie in der Metro (französisch: Zazie dans le métro) ist ein Roman des französischen Schriftstellers Raymond Queneau. Er wurde erstmals 1959 bei Éditions Gallimard veröffentlicht und erschien 1960 in der deutschen Übersetzung von Eugen Helmlé beim Suhrkamp Verlag.Die Titelheldin des Romans, das Mädchen Zazie, verbringt ein Wochenende bei ihrem Onkel in Paris und gerät in einen Strudel von immer absurderen Ereignissen. Zur titelgebenden Fahrt Zazies in der Pariser Metro kommt es erst am Ende des Romans: sie wird von dem Mädchen verschlafen. Kennzeichnend für den Roman sind Wortwitz, zahlreiche Zitate und Anspielungen sowie das Nebeneinander verschiedener Sprachstile; insbesondere ragen Queneaus der Umgangssprache nachempfundene Wortschöpfungen heraus. Zazie in der Metro wurde zum Bestseller, der gleichermaßen beim Publikum wie bei der Kritik erfolgreich war, und blieb Queneaus bekanntestes Werk. Die Verfilmung von Louis Malle aus dem Jahr 1960 kam in Deutschland unter dem Titel Zazie in die Kinos.</value>
+</abstract>
+</XML_Serializer_Tag>
+</books>
+</Person>

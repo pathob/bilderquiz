@@ -21,8 +21,10 @@
 <XML_Serializer_Tag>Künstler</XML_Serializer_Tag>
 <XML_Serializer_Tag>Maler</XML_Serializer_Tag>
 </professionOrOccupation>
-<artworks />
 <dbpResource>http://dbpedia.org/resource/Francesco_Albani</dbpResource>
 <abstract>Francesco Albani (* 17. August 1578 in Bologna; † 4. Oktober 1660 ebenda) war ein italienischer Maler der Bologneser Schule.Albani hatte zu Lehrmeistern den Niederländer Denys Calvaert, dann Lodovico Carracci und zum Jugendfreund und Mitschüler Guido Reni, der ihm aber dann als Rivale entgegentrat. Albani fertigte rund 45 Altarbilder, die im Stil der Schule der Carracci gehalten sind. Am liebsten malte er jedoch idyllische Gegenstände der antiken Mythe oder Darstellungen, wie sie ihm die gleichzeitige Schäferpoesie, namentlich Torquato Tassos und Guarino Guarinis, an die Hand gab. Er soll von seiner zweiten, sehr schönen Gattin zwölf Kinder von solcher Schönheit gehabt haben, dass ihm dieselben als die geeignetsten Modelle für seine Venus-, Galatea-, Amorinen- und Engelsgestalten dienen konnten. Voll Heiterkeit und Anmut sind auch die Landschaften, die oft einen wesentlichen Teil seiner Bilder ausmachen. Doch schätzten schon Albanis Zeitgenossen dieses Einerlei gegen Ende seines Lebens nicht mehr so sehr wie früher.</abstract>
 <wikilink>http://en.wikipedia.org/wiki/Francesco_Albani?oldid=602497602</wikilink>
+<artworks />
+<buildings />
+<books />
 </Person>

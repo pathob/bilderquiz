@@ -1,0 +1,102 @@
+<Person>
+<name>Jean Genet</name>
+<variantName>
+<XML_Serializer_Tag>Jang Jih-nai</XML_Serializer_Tag>
+</variantName>
+<thumbnail>https://commons.wikimedia.org/wiki/Special:FilePath/JeanGenet-HansKoechler1983-cropped.jpg?width=270</thumbnail>
+<birthEN>December 19, 1910</birthEN>
+<birthDE>19. Dezember 1910</birthDE>
+<deathEN>April 15, 1986</deathEN>
+<deathDE>15. April 1986</deathDE>
+<birthPlace>
+<XML_Serializer_Tag>Paris</XML_Serializer_Tag>
+</birthPlace>
+<deathPlace>
+<XML_Serializer_Tag>Paris</XML_Serializer_Tag>
+</deathPlace>
+<professionOrOccupation>
+<XML_Serializer_Tag>Schriftsteller</XML_Serializer_Tag>
+</professionOrOccupation>
+<dbpResource>http://dbpedia.org/resource/Jean_Genet</dbpResource>
+<abstract>Jean Genet (ʒɑ̃ ʒəˈnɛ) (* 19. Dezember 1910 in Paris; † 15. April 1986 ebenda) war ein französischer Romanautor, Dramatiker und Dichter.</abstract>
+<wikilink>http://en.wikipedia.org/wiki/Jean_Genet?oldid=603608647</wikilink>
+<artworks />
+<buildings />
+<books>
+<XML_Serializer_Tag>
+<book>
+<type>uri</type>
+<value>http://dbpedia.org/resource/Querelle_of_Brest</value>
+</book>
+<author>
+<type>uri</type>
+<value>http://dbpedia.org/resource/Jean_Genet</value>
+</author>
+<wikilink>
+<type>uri</type>
+<value>http://en.wikipedia.org/wiki/Querelle_of_Brest?oldid=572362501</value>
+</wikilink>
+<abstract>
+<type>literal</type>
+<xml:lang>de</xml:lang>
+<value>Querelle (frz. Streit) ist ein Roman von Jean Genet, der 1947 unter dem französischen Originaltitel Querelle de Brest veröffentlicht wurde.</value>
+</abstract>
+</XML_Serializer_Tag>
+<XML_Serializer_Tag>
+<book>
+<type>uri</type>
+<value>http://dbpedia.org/resource/The_Thief&apos;s_Journal</value>
+</book>
+<author>
+<type>uri</type>
+<value>http://dbpedia.org/resource/Jean_Genet</value>
+</author>
+<wikilink>
+<type>uri</type>
+<value>http://en.wikipedia.org/wiki/The_Thief&apos;s_Journal?oldid=547012020</value>
+</wikilink>
+</XML_Serializer_Tag>
+<XML_Serializer_Tag>
+<book>
+<type>uri</type>
+<value>http://dbpedia.org/resource/Our_Lady_of_the_Flowers</value>
+</book>
+<author>
+<type>uri</type>
+<value>http://dbpedia.org/resource/Jean_Genet</value>
+</author>
+<wikilink>
+<type>uri</type>
+<value>http://en.wikipedia.org/wiki/Our_Lady_of_the_Flowers?oldid=592190435</value>
+</wikilink>
+</XML_Serializer_Tag>
+<XML_Serializer_Tag>
+<book>
+<type>uri</type>
+<value>http://dbpedia.org/resource/The_Miracle_of_the_Rose</value>
+</book>
+<author>
+<type>uri</type>
+<value>http://dbpedia.org/resource/Jean_Genet</value>
+</author>
+<wikilink>
+<type>uri</type>
+<value>http://en.wikipedia.org/wiki/The_Miracle_of_the_Rose?oldid=604240488</value>
+</wikilink>
+</XML_Serializer_Tag>
+<XML_Serializer_Tag>
+<book>
+<type>uri</type>
+<value>http://dbpedia.org/resource/Funeral_Rites_(novel)</value>
+</book>
+<author>
+<type>uri</type>
+<value>http://dbpedia.org/resource/Jean_Genet</value>
+</author>
+<wikilink>
+<type>uri</type>
+<value>http://en.wikipedia.org/wiki/Funeral_Rites_(novel)?oldid=491321718</value>
+</wikilink>
+</XML_Serializer_Tag>
+</books>
+</Person>

@@ -1,0 +1,117 @@
+<Person>
+<name>Jaan Kross</name>
+<variantName>
+<XML_Serializer_Tag>Jan Kross</XML_Serializer_Tag>
+</variantName>
+<thumbnail>https://commons.wikimedia.org/wiki/Special:FilePath/Jaan_Kross_(1987)_by_Guenter_Prust.jpg?width=270</thumbnail>
+<birthEN>February 19, 1920</birthEN>
+<birthDE>19. Februar 1920</birthDE>
+<deathEN>December 27, 2007</deathEN>
+<deathDE>27. Dezember 2007</deathDE>
+<birthPlace>
+<XML_Serializer_Tag>Reval</XML_Serializer_Tag>
+</birthPlace>
+<deathPlace>
+<XML_Serializer_Tag>Reval</XML_Serializer_Tag>
+</deathPlace>
+<professionOrOccupation>
+<XML_Serializer_Tag>Schriftsteller</XML_Serializer_Tag>
+</professionOrOccupation>
+<dbpResource>http://dbpedia.org/resource/Jaan_Kross</dbpResource>
+<abstract>Jaan Kross (* 19. Februar 1920 in Tallinn; † 27. Dezember 2007 ebenda) war ein estnischer Schriftsteller.</abstract>
+<wikilink>http://en.wikipedia.org/wiki/Jaan_Kross?oldid=587695235</wikilink>
+<artworks />
+<buildings />
+<books>
+<XML_Serializer_Tag>
+<book>
+<type>uri</type>
+<value>http://dbpedia.org/resource/Professor_Martens&apos;_Departure</value>
+</book>
+<author>
+<type>uri</type>
+<value>http://dbpedia.org/resource/Jaan_Kross</value>
+</author>
+<released>
+<type>typed-literal</type>
+<datatype>http://www.w3.org/2001/XMLSchema#integer</datatype>
+<value>1984</value>
+</released>
+<wikilink>
+<type>uri</type>
+<value>http://en.wikipedia.org/wiki/Professor_Martens&apos;_Departure?oldid=544930817</value>
+</wikilink>
+<abstract>
+<type>literal</type>
+<xml:lang>de</xml:lang>
+<value>Professor Martens’ Abreise (estnisch Professor Martensi ärasõit) ist der Titel eines historischen Romans des estnischen Schriftstellers Jaan Kross (1920–2007).</value>
+</abstract>
+</XML_Serializer_Tag>
+<XML_Serializer_Tag>
+<book>
+<type>uri</type>
+<value>http://dbpedia.org/resource/The_Czar&apos;s_Madman</value>
+</book>
+<author>
+<type>uri</type>
+<value>http://dbpedia.org/resource/Jaan_Kross</value>
+</author>
+<wikilink>
+<type>uri</type>
+<value>http://en.wikipedia.org/wiki/The_Czar&apos;s_Madman?oldid=544716712</value>
+</wikilink>
+<abstract>
+<type>literal</type>
+<xml:lang>de</xml:lang>
+<value>Keisri hull (deutsche Übersetzung: Der Verrückte des Zaren, 1988) ist der Titel eines historischen Romans des estnischen Schriftstellers Jaan Kross (1920–2007).</value>
+</abstract>
+</XML_Serializer_Tag>
+<XML_Serializer_Tag>
+<book>
+<type>uri</type>
+<value>http://dbpedia.org/resource/Treading_Air</value>
+</book>
+<author>
+<type>uri</type>
+<value>http://dbpedia.org/resource/Jaan_Kross</value>
+</author>
+<wikilink>
+<type>uri</type>
+<value>http://en.wikipedia.org/wiki/Treading_Air?oldid=545056224</value>
+</wikilink>
+<abstract>
+<type>literal</type>
+<xml:lang>de</xml:lang>
+<value>Paigallend (zu deutsch etwa „auf der Stelle Fliegen“) ist der Titel eines Romans des estnischen Schriftstellers Jaan Kross (1920–2007). Es war Kross&apos; vorletzter Roman.</value>
+</abstract>
+</XML_Serializer_Tag>
+<XML_Serializer_Tag>
+<book>
+<type>uri</type>
+<value>http://dbpedia.org/resource/Wikmani_poisid</value>
+</book>
+<author>
+<type>uri</type>
+<value>http://dbpedia.org/resource/Jaan_Kross</value>
+</author>
+<wikilink>
+<type>uri</type>
+<value>http://en.wikipedia.org/wiki/Wikmani_poisid?oldid=546405245</value>
+</wikilink>
+</XML_Serializer_Tag>
+<XML_Serializer_Tag>
+<book>
+<type>uri</type>
+<value>http://dbpedia.org/resource/Rakvere_romaan</value>
+</book>
+<author>
+<type>uri</type>
+<value>http://dbpedia.org/resource/Jaan_Kross</value>
+</author>
+<wikilink>
+<type>uri</type>
+<value>http://en.wikipedia.org/wiki/Rakvere_romaan?oldid=545942961</value>
+</wikilink>
+</XML_Serializer_Tag>
+</books>
+</Person>

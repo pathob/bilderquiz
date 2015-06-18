@@ -1,0 +1,31 @@
+<Person>
+<name>Katherine Mansfield</name>
+<variantName>
+<XML_Serializer_Tag>Cathleen Beauchamp</XML_Serializer_Tag>
+<XML_Serializer_Tag>Kathleen M. Beauchamp</XML_Serializer_Tag>
+<XML_Serializer_Tag>Kathleen Beauchamp</XML_Serializer_Tag>
+<XML_Serializer_Tag>Kathleen Beauchamp Murry</XML_Serializer_Tag>
+<XML_Serializer_Tag>Matilda Berry</XML_Serializer_Tag>
+<XML_Serializer_Tag>Kathleen Mansfield Beauchamp</XML_Serializer_Tag>
+</variantName>
+<thumbnail>https://commons.wikimedia.org/wiki/Special:FilePath/Katherinemansfield.jpg?width=270</thumbnail>
+<birthEN>October 14, 1888</birthEN>
+<birthDE>14. Oktober 1888</birthDE>
+<deathEN>January 9, 1923</deathEN>
+<deathDE>9. Januar 1923</deathDE>
+<birthPlace>
+<XML_Serializer_Tag>Wellington</XML_Serializer_Tag>
+</birthPlace>
+<deathPlace>
+<XML_Serializer_Tag>Fontainebleau</XML_Serializer_Tag>
+</deathPlace>
+<professionOrOccupation>
+<XML_Serializer_Tag>Schriftstellerin</XML_Serializer_Tag>
+</professionOrOccupation>
+<dbpResource>http://dbpedia.org/resource/Katherine_Mansfield</dbpResource>
+<abstract>Katherine Mansfield, Geburtsname Kathleen Mansfield Beauchamp (* 14. Oktober 1888 in Wellington Neuseeland; † 9. Januar 1923 in Fontainebleau, Île-de-France) war eine neuseeländisch-britische Schriftstellerin, die bereits mit 34 Jahren an Tuberkulose starb. Neben 73 in der Regel kurzen Erzählungen hinterließ sie zahlreiche Briefe und Notizen. Die Resonanz auf ihr eher schmales Werk war und ist auffallend breit.</abstract>
+<wikilink>http://en.wikipedia.org/wiki/Katherine_Mansfield?oldid=606675100</wikilink>
+<artworks />
+<buildings />
+<books />
+</Person>

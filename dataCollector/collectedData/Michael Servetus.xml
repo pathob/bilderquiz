@@ -1,0 +1,50 @@
+<Person>
+<name>Michael Servetus</name>
+<variantName>
+<XML_Serializer_Tag>Michel Servet</XML_Serializer_Tag>
+<XML_Serializer_Tag>Miguel Servet</XML_Serializer_Tag>
+<XML_Serializer_Tag>Miguel Serveto</XML_Serializer_Tag>
+<XML_Serializer_Tag>Michael Servet</XML_Serializer_Tag>
+<XML_Serializer_Tag>Michael Villanovanus</XML_Serializer_Tag>
+<XML_Serializer_Tag>Michel de Villeneuve</XML_Serializer_Tag>
+<XML_Serializer_Tag>Michel Villanovanus</XML_Serializer_Tag>
+<XML_Serializer_Tag>Michael Villanouanus</XML_Serializer_Tag>
+<XML_Serializer_Tag>Miguel de Villanova</XML_Serializer_Tag>
+<XML_Serializer_Tag>Miguel de Villanueva</XML_Serializer_Tag>
+<XML_Serializer_Tag>Miguel Servede</XML_Serializer_Tag>
+<XML_Serializer_Tag>Miguel Rèves</XML_Serializer_Tag>
+<XML_Serializer_Tag>Michaele Villanovano</XML_Serializer_Tag>
+<XML_Serializer_Tag>Michael Reves</XML_Serializer_Tag>
+<XML_Serializer_Tag>Miguel Servet y Reves</XML_Serializer_Tag>
+<XML_Serializer_Tag>Miguel Servet y Revés</XML_Serializer_Tag>
+<XML_Serializer_Tag>Miguel Serveto y Revés</XML_Serializer_Tag>
+<XML_Serializer_Tag>Miguel Servatus</XML_Serializer_Tag>
+<XML_Serializer_Tag>Miguel Villanovano</XML_Serializer_Tag>
+<XML_Serializer_Tag>Michael Serveto</XML_Serializer_Tag>
+<XML_Serializer_Tag>Miguel Serveto y Conesa</XML_Serializer_Tag>
+<XML_Serializer_Tag>Miguel Serveto y Conesa</XML_Serializer_Tag>
+<XML_Serializer_Tag>Reves</XML_Serializer_Tag>
+<XML_Serializer_Tag>Michael, Villanovanus</XML_Serializer_Tag>
+<XML_Serializer_Tag>Michał Servet</XML_Serializer_Tag>
+</variantName>
+<thumbnail>https://commons.wikimedia.org/wiki/Special:FilePath/Michael_Servetus.jpg?width=270</thumbnail>
+<birthEN>September 29, 1511</birthEN>
+<birthDE>29. September 1511</birthDE>
+<deathEN>October 27, 1553</deathEN>
+<deathDE>27. Oktober 1553</deathDE>
+<birthPlace />
+<deathPlace>
+<XML_Serializer_Tag>Genf</XML_Serializer_Tag>
+</deathPlace>
+<professionOrOccupation>
+<XML_Serializer_Tag>Arzt</XML_Serializer_Tag>
+<XML_Serializer_Tag>Theologe</XML_Serializer_Tag>
+<XML_Serializer_Tag>Philosoph</XML_Serializer_Tag>
+</professionOrOccupation>
+<dbpResource>http://dbpedia.org/resource/Michael_Servetus</dbpResource>
+<abstract>Michael Servetus auch Michel Servet (eigentlich Miguel Serveto y Reves; * 1511 in Villanueva de Sigena (Huesca) in Aragón; † 27. Oktober 1553 in Genf; hingerichtet) war ein spanischer Arzt, humanistischer Gelehrter und antitrinitarischer Theologe.</abstract>
+<wikilink>http://en.wikipedia.org/wiki/Michael_Servetus?oldid=605914689</wikilink>
+<artworks />
+<buildings />
+<books />
+</Person>

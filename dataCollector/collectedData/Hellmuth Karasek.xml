@@ -1,0 +1,29 @@
+<Person>
+<name>Hellmuth Karasek</name>
+<variantName>
+<XML_Serializer_Tag>Daniel Doppler</XML_Serializer_Tag>
+</variantName>
+<thumbnail>https://commons.wikimedia.org/wiki/Special:FilePath/Karasek2012.JPG?width=270</thumbnail>
+<birthEN>1934</birthEN>
+<birthDE>1934</birthDE>
+<deathEN />
+<deathDE />
+<birthPlace>
+<XML_Serializer_Tag>Brünn</XML_Serializer_Tag>
+</birthPlace>
+<deathPlace />
+<professionOrOccupation>
+<XML_Serializer_Tag>Literaturkritiker</XML_Serializer_Tag>
+<XML_Serializer_Tag>Theaterkritiker</XML_Serializer_Tag>
+<XML_Serializer_Tag>Schriftsteller</XML_Serializer_Tag>
+<XML_Serializer_Tag>Journalist</XML_Serializer_Tag>
+<XML_Serializer_Tag>Drehbuchautor</XML_Serializer_Tag>
+<XML_Serializer_Tag>Schauspieler</XML_Serializer_Tag>
+</professionOrOccupation>
+<dbpResource>http://dbpedia.org/resource/Hellmuth_Karasek</dbpResource>
+<abstract>Hellmuth Karasek (* 4. Januar 1934 in Brünn, Mähren, Tschechoslowakei) ist ein deutscher Journalist, Buchautor, Film- und Literaturkritiker und Professor für Theaterwissenschaft. Karasek schrieb auch drei Theaterstücke unter dem Pseudonym „Daniel Doppler“.</abstract>
+<wikilink>http://en.wikipedia.org/wiki/Hellmuth_Karasek?oldid=580854185</wikilink>
+<artworks />
+<buildings />
+<books />
+</Person>

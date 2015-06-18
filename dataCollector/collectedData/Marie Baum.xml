@@ -1,0 +1,26 @@
+<Person>
+<name>Marie Baum</name>
+<variantName />
+<thumbnail>https://de.wikipedia.org/wiki/Special:FilePath/BaumMarie.jpg?width=270</thumbnail>
+<birthEN>March 23, 1874</birthEN>
+<birthDE>23. März 1874</birthDE>
+<deathEN>August 8, 1964</deathEN>
+<deathDE>8. August 1964</deathDE>
+<birthPlace>
+<XML_Serializer_Tag>Danzig</XML_Serializer_Tag>
+</birthPlace>
+<deathPlace>
+<XML_Serializer_Tag>Heidelberg</XML_Serializer_Tag>
+</deathPlace>
+<professionOrOccupation>
+<XML_Serializer_Tag>Politikerin</XML_Serializer_Tag>
+<XML_Serializer_Tag>Schriftstellerin</XML_Serializer_Tag>
+<XML_Serializer_Tag>Sozialwissenschaftlerin</XML_Serializer_Tag>
+</professionOrOccupation>
+<dbpResource>http://dbpedia.org/resource/Marie_Baum</dbpResource>
+<abstract>Marie Baum (* 23. März 1874 in Danzig; † 8. August 1964 in Heidelberg) war eine Sozialpolitikerin der Weimarer Republik und gilt heute als Wegbereiterin der sozialen Arbeit.</abstract>
+<wikilink>http://en.wikipedia.org/wiki/Marie_Baum?oldid=574134083</wikilink>
+<artworks />
+<buildings />
+<books />
+</Person>

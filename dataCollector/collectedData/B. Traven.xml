@@ -1,0 +1,102 @@
+<Person>
+<name>B. Traven</name>
+<variantName>
+<XML_Serializer_Tag>Robert Bek-gran</XML_Serializer_Tag>
+<XML_Serializer_Tag>Hal Croves</XML_Serializer_Tag>
+<XML_Serializer_Tag>Ret Marut</XML_Serializer_Tag>
+<XML_Serializer_Tag>Richard Maurhut</XML_Serializer_Tag>
+<XML_Serializer_Tag>Traven Torsvan</XML_Serializer_Tag>
+<XML_Serializer_Tag>Bruno Traven</XML_Serializer_Tag>
+<XML_Serializer_Tag>Bašful Traven</XML_Serializer_Tag>
+<XML_Serializer_Tag>Heinrich Otto Becker</XML_Serializer_Tag>
+<XML_Serializer_Tag>Adolf Rudolf Feige</XML_Serializer_Tag>
+<XML_Serializer_Tag>Hermann Albert Otto Max Feige</XML_Serializer_Tag>
+<XML_Serializer_Tag>Otto Feige</XML_Serializer_Tag>
+<XML_Serializer_Tag>Fred Gaudet</XML_Serializer_Tag>
+<XML_Serializer_Tag>Fred Mareth</XML_Serializer_Tag>
+<XML_Serializer_Tag>Bruno Marhut</XML_Serializer_Tag>
+<XML_Serializer_Tag>Red Marut</XML_Serializer_Tag>
+<XML_Serializer_Tag>Rex Marut</XML_Serializer_Tag>
+<XML_Serializer_Tag>Robert Marut</XML_Serializer_Tag>
+<XML_Serializer_Tag>Fred Maruth</XML_Serializer_Tag>
+<XML_Serializer_Tag>Goetz Öhly</XML_Serializer_Tag>
+<XML_Serializer_Tag>Anton Raderscheidt</XML_Serializer_Tag>
+<XML_Serializer_Tag>Wilhelm Scheider</XML_Serializer_Tag>
+<XML_Serializer_Tag>Jacob Torice</XML_Serializer_Tag>
+<XML_Serializer_Tag>B. T. Torsvan</XML_Serializer_Tag>
+<XML_Serializer_Tag>Berick Traven Torsvan</XML_Serializer_Tag>
+<XML_Serializer_Tag>T. Torsvan</XML_Serializer_Tag>
+<XML_Serializer_Tag>Traves Torsvan</XML_Serializer_Tag>
+<XML_Serializer_Tag>Albert Otto Max Wienecke</XML_Serializer_Tag>
+<XML_Serializer_Tag>Otto Wienecke</XML_Serializer_Tag>
+<XML_Serializer_Tag>Bendrich Torsvan</XML_Serializer_Tag>
+<XML_Serializer_Tag>Hal Groves</XML_Serializer_Tag>
+<XML_Serializer_Tag>Ret Marut</XML_Serializer_Tag>
+<XML_Serializer_Tag>Ben Traven</XML_Serializer_Tag>
+<XML_Serializer_Tag>Bernhard Traven Torsvan</XML_Serializer_Tag>
+<XML_Serializer_Tag>ב. טראון</XML_Serializer_Tag>
+<XML_Serializer_Tag>ב. טראוון</XML_Serializer_Tag>
+</variantName>
+<thumbnail>https://commons.wikimedia.org/wiki/Special:FilePath/B._Traven_aka_Red_Marut_arrest_photo_in_London_1923.jpg?width=270</thumbnail>
+<birthEN>February 25, 1882</birthEN>
+<birthDE>25. Februar 1882</birthDE>
+<deathEN>March 4, 1969</deathEN>
+<deathDE>4. März 1969</deathDE>
+<birthPlace />
+<deathPlace>
+<XML_Serializer_Tag>Chiapas, Mexiko</XML_Serializer_Tag>
+</deathPlace>
+<professionOrOccupation>
+<XML_Serializer_Tag>Schriftsteller</XML_Serializer_Tag>
+</professionOrOccupation>
+<dbpResource>http://dbpedia.org/resource/B._Traven</dbpResource>
+<abstract>B. Traven (* um 1882; † 26. März 1969 in Mexiko-Stadt) ist das Pseudonym eines deutschen Schriftstellers, dessen echter Name, Geburtsdatum und -ort sowie Einzelheiten des Lebens Streitgegenstand unter Literaturwissenschaftlern sind. Es ist aber sicher, dass B. Traven die längste Zeit seines Lebens in Mexiko wohnte, wo auch die meisten seiner Romane und Erzählungen spielen.Die Identität von B. Traven war lange Zeit Gegenstand spekulativer Hypothesen. Seit längerem wird er sicher mit dem Theaterschauspieler und Anarchisten Ret Marut identifiziert, der 1924 nach Mexiko floh. Es gibt gute Gründe für die Vermutung, dass Ret Marut ein Pseudonym von Otto Feige war, der aus Schwiebus in der Provinz Brandenburg, heute Świebodzin (Polen), stammte. Zwei weitere Namen wurden nach dem Zweiten Weltkrieg mit Traven in Verbindung gebracht – Berick Traven Torsvan und Hal Croves. Beide gaben sich als seine literarischen Agenten aus, bestritten aber immer, selbst B. Traven zu sein.Traven ist Autor von zwölf Romanen, einem Reisebericht und vielen Erzählungen, in denen sich sensationelle Abenteuerthematik und ironischer Humor mit der kritischen Einstellung zum Kapitalismus verbinden, die sozialistische und anarchistische Sympathien verraten. Zu den bekanntesten Werken B. Travens gehören die Romane Das Totenschiff von 1926, Der Schatz der Sierra Madre von 1927 und der sogenannte Caoba-Zyklus, eine Gruppe von sechs Romanen aus den Jahren 1930 bis 1939, deren Handlung kurz vor und während der Mexikanischen Revolution Anfang des 20. Jahrhunderts spielt. B. Travens Romane und Erzählungen genossen schon in der Zwischenkriegsperiode große Popularität und behielten sie auch nach dem Zweiten Weltkrieg. Seine Werke wurden in über 24 Sprachen übersetzt und erreichten eine geschätzte Gesamtauflage von über 30 Millionen.</abstract>
+<wikilink>http://en.wikipedia.org/wiki/B._Traven?oldid=597056558</wikilink>
+<artworks />
+<buildings />
+<books>
+<XML_Serializer_Tag>
+<book>
+<type>uri</type>
+<value>http://dbpedia.org/resource/The_Death_Ship</value>
+</book>
+<author>
+<type>uri</type>
+<value>http://dbpedia.org/resource/B._Traven</value>
+</author>
+<released>
+<type>typed-literal</type>
+<datatype>http://www.w3.org/2001/XMLSchema#integer</datatype>
+<value>1926</value>
+</released>
+<wikilink>
+<type>uri</type>
+<value>http://en.wikipedia.org/wiki/The_Death_Ship?oldid=589027074</value>
+</wikilink>
+<abstract>
+<type>literal</type>
+<xml:lang>de</xml:lang>
+<value>Das Totenschiff, Die Geschichte eines amerikanischen Seemanns, ist ein 1926 in der Büchergilde Gutenberg erschienener Roman von B. Traven. „Zwei Themenstränge ergänzen sich zum Totenschiff als Bild vom untergehenden Spätkapitalismus: die Verdinglichung des Menschen zum Schatten seiner Pässe und Berechtigungsnachweise. Der lebenslange Emigrant Traven schuf wenige Jahre vor der geistigen Ausblutung Deutschlands und dem großen bürokratischen Völkermord ein Sinnbild der Opfer des Faschismus. Der zweite Themenstrang sind die unverändert aktuellen Profit-Praktiken der kapitalistischen Seefahrt“.</value>
+</abstract>
+</XML_Serializer_Tag>
+<XML_Serializer_Tag>
+<book>
+<type>uri</type>
+<value>http://dbpedia.org/resource/The_Treasure_of_the_Sierra_Madre</value>
+</book>
+<author>
+<type>uri</type>
+<value>http://dbpedia.org/resource/B._Traven</value>
+</author>
+<released>
+<type>typed-literal</type>
+<datatype>http://www.w3.org/2001/XMLSchema#integer</datatype>
+<value>1927</value>
+</released>
+<wikilink>
+<type>uri</type>
+<value>http://en.wikipedia.org/wiki/The_Treasure_of_the_Sierra_Madre?oldid=605303845</value>
+</wikilink>
+</XML_Serializer_Tag>
+</books>
+</Person>

@@ -1,0 +1,29 @@
+<Person>
+<name>Erich Schmidt</name>
+<variantName>
+<XML_Serializer_Tag>E. Schmidt</XML_Serializer_Tag>
+</variantName>
+<thumbnail>https://commons.wikimedia.org/wiki/Special:FilePath/Erich_Schmidt.jpg?width=270</thumbnail>
+<birthEN>June 20, 1853</birthEN>
+<birthDE>20. Juni 1853</birthDE>
+<deathEN>April 29, 1913</deathEN>
+<deathDE>29. April 1913</deathDE>
+<birthPlace>
+<XML_Serializer_Tag>Jena</XML_Serializer_Tag>
+</birthPlace>
+<deathPlace>
+<XML_Serializer_Tag>Berlin</XML_Serializer_Tag>
+</deathPlace>
+<professionOrOccupation>
+<XML_Serializer_Tag>Philologe</XML_Serializer_Tag>
+<XML_Serializer_Tag>Literaturwissenschaftler</XML_Serializer_Tag>
+<XML_Serializer_Tag>Schriftsteller</XML_Serializer_Tag>
+<XML_Serializer_Tag>Literarhistoriker</XML_Serializer_Tag>
+</professionOrOccupation>
+<dbpResource>http://dbpedia.org/resource/Erich_Schmidt_(archaeologist)</dbpResource>
+<abstract>Erich Friedrich Schmidt (* 13. September 1897 in Baden-Baden; † 3. Oktober 1964 in Santa Barbara (Kalifornien)) war ein amerikanischer Vorderasiatischer Archäologe deutscher Herkunft, der vor allem durch seine Ausgrabungstätigkeit in Persepolis berühmt wurde.</abstract>
+<wikilink>http://en.wikipedia.org/wiki/Erich_Schmidt_(archaeologist)?oldid=540954869</wikilink>
+<artworks />
+<buildings />
+<books />
+</Person>

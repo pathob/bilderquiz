@@ -1,0 +1,30 @@
+<Person>
+<name>Wilhelm Schulz</name>
+<variantName>
+<XML_Serializer_Tag>Wilhelm Schulz-Bodmer</XML_Serializer_Tag>
+<XML_Serializer_Tag>Wilhelm Schulz Bodmer</XML_Serializer_Tag>
+<XML_Serializer_Tag>Wilhelm Schulz-Bodmer</XML_Serializer_Tag>
+<XML_Serializer_Tag>Wilhelm Schulze</XML_Serializer_Tag>
+<XML_Serializer_Tag>Wilhelm Friedrich Schulz</XML_Serializer_Tag>
+<XML_Serializer_Tag>Wilhelm Friedrich Schulz-Bodmer</XML_Serializer_Tag>
+</variantName>
+<thumbnail>https://commons.wikimedia.org/wiki/Special:FilePath/Friedrich_Wilhelm_Schulz-Bodmer.jpg?width=270</thumbnail>
+<birthEN>March 13, 1797</birthEN>
+<birthDE>13. März 1797</birthDE>
+<deathEN>January 9, 1860</deathEN>
+<deathDE>9. Januar 1860</deathDE>
+<birthPlace />
+<deathPlace />
+<professionOrOccupation>
+<XML_Serializer_Tag>Publizist</XML_Serializer_Tag>
+<XML_Serializer_Tag>Schriftsteller</XML_Serializer_Tag>
+<XML_Serializer_Tag>Arzt</XML_Serializer_Tag>
+<XML_Serializer_Tag>Privatdozent</XML_Serializer_Tag>
+</professionOrOccupation>
+<dbpResource>http://dbpedia.org/resource/Willi_Schulz</dbpResource>
+<abstract>Willi Schulz (* 4. Oktober 1938 in Wattenscheid) ist ein ehemaliger deutscher Fußballspieler.</abstract>
+<wikilink>http://en.wikipedia.org/wiki/Willi_Schulz?oldid=566961302</wikilink>
+<artworks />
+<buildings />
+<books />
+</Person>

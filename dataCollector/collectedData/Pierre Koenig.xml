@@ -1,0 +1,60 @@
+<Person>
+<name>Pierre Koenig</name>
+<variantName>
+<XML_Serializer_Tag>Pierre Francis Koenig</XML_Serializer_Tag>
+</variantName>
+<thumbnail>https://commons.wikimedia.org/wiki/Special:FilePath/Case_Study_21.jpg?width=270</thumbnail>
+<birthEN>1925</birthEN>
+<birthDE>1925</birthDE>
+<deathEN>2004</deathEN>
+<deathDE>2004</deathDE>
+<birthPlace>
+<XML_Serializer_Tag>San Francisco</XML_Serializer_Tag>
+</birthPlace>
+<deathPlace>
+<XML_Serializer_Tag>Los Angeles</XML_Serializer_Tag>
+</deathPlace>
+<professionOrOccupation>
+<XML_Serializer_Tag>Architekt</XML_Serializer_Tag>
+</professionOrOccupation>
+<dbpResource>http://dbpedia.org/resource/Pierre_Koenig</dbpResource>
+<abstract>Pierre Koenig (* 17. Oktober 1925 in San Francisco; † 4. April 2004 in Los Angeles) war ein US-amerikanischer Architekt. Er zählt zu den Vätern der kalifornischen Moderne und wurde in den Nachkriegsjahren mit seinen leichten, eleganten Stahl- und Glaskonstruktionen bekannt.</abstract>
+<wikilink>http://en.wikipedia.org/wiki/Pierre_Koenig?oldid=600723424</wikilink>
+<artworks />
+<buildings>
+<XML_Serializer_Tag>
+<building>
+<type>uri</type>
+<value>http://dbpedia.org/resource/Stahl_House</value>
+</building>
+<name>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>Case Study House #22</value>
+</name>
+<architect>
+<type>uri</type>
+<value>http://dbpedia.org/resource/Pierre_Koenig</value>
+</architect>
+<thumbnail>
+<type>uri</type>
+<value>http://commons.wikimedia.org/wiki/Special:FilePath/Case_Study_House_No._22.JPG?width=300</value>
+</thumbnail>
+<wikilink>
+<type>uri</type>
+<value>http://en.wikipedia.org/wiki/Stahl_House?oldid=594247236</value>
+</wikilink>
+<built>
+<type>typed-literal</type>
+<datatype>http://www.w3.org/2001/XMLSchema#integer</datatype>
+<value>1960</value>
+</built>
+<abstract>
+<type>literal</type>
+<xml:lang>de</xml:lang>
+<value>Das Stahl House (auch Case Study House Nr. 22), benannt nach dem Bauherrn, ist ein moderner Bau in den Hollywood Hills in Los Angeles.Pierre Koenig entwarf das Haus für den früheren American-Football-Spieler C. H. „Buck“ Stahl 1959. Der Bauherr, der das Grundstück 1954 erwarb, hatte schon vor der Begegnung mit Koenig an Modellen für sein Haus gearbeitet, die großflächige Verglasungen vorsahen. Das Haus nahm wie das im Vorjahr gebaute Bailey House (Nr. 21) am Case Study Houses-Programm des Magazins Arts &amp; Architecture für experimentelle Wohnhaus-Architektur teil, dessen Juni-Ausgabe 1960 das Gebäude der Öffentlichkeit vorstellte. Begonnen hatten die Bauarbeiten 1959, nachdem Buck Stahl das Grundstück mit Terrassen über mehrere Jahre für den Bau vorbereitete. Nach neun Monaten waren die Bauarbeiten im Juni 1960 beendet. Koenig versuchte mit dem Haus zu zeigen, dass industrielle Materialien wie Stahl für den Wohnbau geeignet sind.Durch zahlreiche Zeitschriften- und Zeitungsartikel sowie Berichte in Fachmagazinen und Büchern erlangte das Gebäude eine weltweite Bekanntheit und gilt als Ikone der Modernen Architektur Kaliforniens. Zusätzlich sorgten Fotografien von Julius Shulman für weiteres Aufsehen. Auch als Produktionsort von Film- und Fotoaufnahmen diente das Stahl Haus. Das Gebäude, das sich in Privatbesitz der Bauherrenfamilie befindet, wurde mehrfach ausgezeichnet und in Listen bedeutender Architektur aufgenommen („America&apos;s Favorite Architecture“ – AIA 2007, „The best houses of all time in L.A.“ – Los Angeles Times 2008).Der L-förmige Baukörper ist auf einem Hang errichtet, der vorher als unbebaubar angesehen wurde. Der südliche Gebäudeflügel ist vom Boden bis zum Stahldach vollständig verglast und bietet so von allen Räumen Ausblick über die Stadt. Die ursprüngliche einfache Verglasung zerbrach leicht und wurde später durch bruchsicheres Glas ersetzt. Der um das Wohnzimmer laufende Balkon ohne Geländer ist ebenfalls eine spätere Veränderung des Entwurfs.</value>
+</abstract>
+</XML_Serializer_Tag>
+</buildings>
+<books />
+</Person>

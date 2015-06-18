@@ -20,8 +20,10 @@
 <XML_Serializer_Tag>Graphiker</XML_Serializer_Tag>
 <XML_Serializer_Tag>Bildhauer</XML_Serializer_Tag>
 </professionOrOccupation>
-<artworks />
 <dbpResource>http://dbpedia.org/resource/Georges_Braque</dbpResource>
 <abstract>Georges Braque (* 13. Mai 1882 in Argenteuil, Département; † 31. August 1963 in Paris) war ein französischer Maler, Grafiker und Bildhauer. Nach einer frühen fauvistischen Schaffensphase war Braque zusammen mit Pablo Picasso der Mitbegründer des Kubismus.</abstract>
 <wikilink>http://en.wikipedia.org/wiki/Georges_Braque?oldid=605867783</wikilink>
+<artworks />
+<buildings />
+<books />
 </Person>

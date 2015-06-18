@@ -1,0 +1,31 @@
+<Person>
+<name>Patrick Moore</name>
+<variantName>
+<XML_Serializer_Tag>Patrick Alfred Caldwell-Moore</XML_Serializer_Tag>
+<XML_Serializer_Tag>Patrick Alfred Caldwell Moore</XML_Serializer_Tag>
+<XML_Serializer_Tag>Patrick Caldwell-Moore</XML_Serializer_Tag>
+<XML_Serializer_Tag>P. Moore</XML_Serializer_Tag>
+<XML_Serializer_Tag>R. T. Fishall</XML_Serializer_Tag>
+<XML_Serializer_Tag>Sir Patrick Moore</XML_Serializer_Tag>
+</variantName>
+<thumbnail>https://commons.wikimedia.org/wiki/Special:FilePath/Sir_Patrick_Moore.jpg?width=270</thumbnail>
+<birthEN>March 4, 1923</birthEN>
+<birthDE>4. März 1923</birthDE>
+<deathEN>December 9, 2012</deathEN>
+<deathDE>9. Dezember 2012</deathDE>
+<birthPlace>
+<XML_Serializer_Tag>Pinner, Middlesex</XML_Serializer_Tag>
+</birthPlace>
+<deathPlace />
+<professionOrOccupation>
+<XML_Serializer_Tag>Astronom</XML_Serializer_Tag>
+<XML_Serializer_Tag>Schriftsteller</XML_Serializer_Tag>
+<XML_Serializer_Tag>Moderator</XML_Serializer_Tag>
+</professionOrOccupation>
+<dbpResource>http://dbpedia.org/resource/Patrick_Moore</dbpResource>
+<abstract>Sir Patrick Alfred Caldwell-Moore (CBE, FRS, FRAS; * 4. März 1923 in Pinner, Middlesex; † 9. Dezember 2012 in Selsey, West Sussex) war ein englischer Astronom, Autor zahlreicher populärwissenschaftlicher und einiger Science-Fiction-Bücher und Fernsehmoderator.</abstract>
+<wikilink>http://en.wikipedia.org/wiki/Patrick_Moore?oldid=606527092</wikilink>
+<artworks />
+<buildings />
+<books />
+</Person>

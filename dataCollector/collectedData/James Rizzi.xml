@@ -15,8 +15,10 @@
 <professionOrOccupation>
 <XML_Serializer_Tag>Maler</XML_Serializer_Tag>
 </professionOrOccupation>
-<artworks />
 <dbpResource>http://dbpedia.org/resource/James_Rizzi</dbpResource>
 <abstract>James Rizzi (* 5. Oktober 1950 in New York City; † 26. Dezember 2011 ebenda) war ein US-amerikanischer Künstler und Maler der Pop-Art.</abstract>
 <wikilink>http://en.wikipedia.org/wiki/James_Rizzi?oldid=603719408</wikilink>
+<artworks />
+<buildings />
+<books />
 </Person>

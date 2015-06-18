@@ -1,0 +1,31 @@
+<Person>
+<name>Silvio Pellico</name>
+<variantName>
+<XML_Serializer_Tag>Silvio Pellico da Saluzzo</XML_Serializer_Tag>
+<XML_Serializer_Tag>Sylbios Pellikos</XML_Serializer_Tag>
+<XML_Serializer_Tag>Silvio Pellico DaSaluzzo</XML_Serializer_Tag>
+<XML_Serializer_Tag>Silvio Pellico DaSaluzzo</XML_Serializer_Tag>
+<XML_Serializer_Tag>Silvio Pellico von Saluzzo</XML_Serializer_Tag>
+<XML_Serializer_Tag>Silvio Pellico von Saluzzo</XML_Serializer_Tag>
+</variantName>
+<thumbnail>https://commons.wikimedia.org/wiki/Special:FilePath/Silvio_Pellico.jpg?width=270</thumbnail>
+<birthEN>June 25, 1789</birthEN>
+<birthDE>25. Juni 1789</birthDE>
+<deathEN>February 1, 1854</deathEN>
+<deathDE>1. Februar 1854</deathDE>
+<birthPlace>
+<XML_Serializer_Tag>Saluzzo</XML_Serializer_Tag>
+</birthPlace>
+<deathPlace>
+<XML_Serializer_Tag>Turin</XML_Serializer_Tag>
+</deathPlace>
+<professionOrOccupation>
+<XML_Serializer_Tag>Schriftsteller</XML_Serializer_Tag>
+</professionOrOccupation>
+<dbpResource>http://dbpedia.org/resource/Silvio_Pellico</dbpResource>
+<abstract>Silvio Pellico (* 24. Juni 1789 zu Saluzzo in Piemont; † 1. Februar 1854 in Turin) war ein italienischer Schriftsteller.</abstract>
+<wikilink>http://en.wikipedia.org/wiki/Silvio_Pellico?oldid=606649487</wikilink>
+<artworks />
+<buildings />
+<books />
+</Person>

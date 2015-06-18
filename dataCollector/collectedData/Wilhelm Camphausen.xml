@@ -22,8 +22,10 @@
 <XML_Serializer_Tag>Illustrator</XML_Serializer_Tag>
 <XML_Serializer_Tag>Radierer</XML_Serializer_Tag>
 </professionOrOccupation>
-<artworks />
 <dbpResource>http://dbpedia.org/resource/Wilhelm_Camphausen</dbpResource>
 <abstract>Wilhelm Camphausen (* 8. Februar 1818 in Düsseldorf; † 18. Juni 1885 ebenda) war ein deutscher Militär- und Schlachtenmaler, die im 19. Jahrhundert ihren Höhepunkt erreichte. Weitere wichtige Vertreter neben Camphausen waren sein Schüler und Kollege Emil Hünten, sowie Adolf Menzel, und Georg Bleibtreu.</abstract>
 <wikilink>http://en.wikipedia.org/wiki/Wilhelm_Camphausen?oldid=582036018</wikilink>
+<artworks />
+<buildings />
+<books />
 </Person>

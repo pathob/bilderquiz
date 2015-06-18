@@ -1,0 +1,50 @@
+<Person>
+<name>Erdmann Neumeister</name>
+<variantName>
+<XML_Serializer_Tag>Adam Francke</XML_Serializer_Tag>
+<XML_Serializer_Tag>Orthodoxophilus</XML_Serializer_Tag>
+<XML_Serializer_Tag>Erdman Neumeister</XML_Serializer_Tag>
+<XML_Serializer_Tag>M. E. N.</XML_Serializer_Tag>
+<XML_Serializer_Tag>E. M. N.</XML_Serializer_Tag>
+<XML_Serializer_Tag>M. E. N.</XML_Serializer_Tag>
+<XML_Serializer_Tag>Menippus</XML_Serializer_Tag>
+<XML_Serializer_Tag>Lobesan</XML_Serializer_Tag>
+<XML_Serializer_Tag>Orthodoxus Symbolophilus Saxo</XML_Serializer_Tag>
+<XML_Serializer_Tag>Petrus Malchiel</XML_Serializer_Tag>
+<XML_Serializer_Tag>Hildebrand Eschinger</XML_Serializer_Tag>
+<XML_Serializer_Tag>Adam Martini</XML_Serializer_Tag>
+<XML_Serializer_Tag>Georg Franck</XML_Serializer_Tag>
+<XML_Serializer_Tag>George Francke</XML_Serializer_Tag>
+<XML_Serializer_Tag>Johannes Georgius Adami</XML_Serializer_Tag>
+<XML_Serializer_Tag>Johann Georg Adami</XML_Serializer_Tag>
+<XML_Serializer_Tag>Menantes</XML_Serializer_Tag>
+<XML_Serializer_Tag>Christian Lauterwahr</XML_Serializer_Tag>
+</variantName>
+<thumbnail>https://commons.wikimedia.org/wiki/Special:FilePath/Erdmann_neumeister.jpg?width=270</thumbnail>
+<birthEN>May 12, 1671</birthEN>
+<birthDE>12. Mai 1671</birthDE>
+<deathEN>August 18, 1756</deathEN>
+<deathDE>18. August 1756</deathDE>
+<birthPlace>
+<XML_Serializer_Tag>Uichteritz</XML_Serializer_Tag>
+</birthPlace>
+<deathPlace>
+<XML_Serializer_Tag>Hamburg</XML_Serializer_Tag>
+</deathPlace>
+<professionOrOccupation>
+<XML_Serializer_Tag>Theologe</XML_Serializer_Tag>
+<XML_Serializer_Tag>Pfarrer</XML_Serializer_Tag>
+<XML_Serializer_Tag>Superintendent</XML_Serializer_Tag>
+<XML_Serializer_Tag>Hofprediger</XML_Serializer_Tag>
+<XML_Serializer_Tag>Konsistorialrat</XML_Serializer_Tag>
+<XML_Serializer_Tag>Kirchenrat</XML_Serializer_Tag>
+<XML_Serializer_Tag>Schriftsteller</XML_Serializer_Tag>
+<XML_Serializer_Tag>Kirchenlieddichter</XML_Serializer_Tag>
+</professionOrOccupation>
+<dbpResource>http://dbpedia.org/resource/Erdmann_Neumeister</dbpResource>
+<abstract>Erdmann Neumeister (* 12. Mai 1671 in Uichteritz; † 18. August 1756 in Hamburg) war ein deutscher Kirchenliederdichter, Poetiker und Theologe der Barockzeit.</abstract>
+<wikilink>http://en.wikipedia.org/wiki/Erdmann_Neumeister?oldid=605114357</wikilink>
+<artworks />
+<buildings />
+<books />
+</Person>

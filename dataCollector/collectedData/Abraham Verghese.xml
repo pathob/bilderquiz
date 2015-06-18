@@ -1,0 +1,48 @@
+<Person>
+<name>Abraham Verghese</name>
+<variantName>
+<XML_Serializer_Tag>A. Verghese</XML_Serializer_Tag>
+</variantName>
+<thumbnail>https://commons.wikimedia.org/wiki/Special:FilePath/Abraham_Verghese_(c)_Barbi_Reed.jpg?width=270</thumbnail>
+<birthEN>1955</birthEN>
+<birthDE>1955</birthDE>
+<deathEN />
+<deathDE />
+<birthPlace />
+<deathPlace />
+<professionOrOccupation>
+<XML_Serializer_Tag>Arzt</XML_Serializer_Tag>
+<XML_Serializer_Tag>Autor</XML_Serializer_Tag>
+</professionOrOccupation>
+<dbpResource>http://dbpedia.org/resource/Abraham_Verghese</dbpResource>
+<abstract>Abraham Verghese (* 1955 in Äthiopien) ist ein indisch-amerikanischer Arzt und Bestsellerautor.</abstract>
+<wikilink>http://en.wikipedia.org/wiki/Abraham_Verghese?oldid=603504364</wikilink>
+<artworks />
+<buildings />
+<books>
+<XML_Serializer_Tag>
+<book>
+<type>uri</type>
+<value>http://dbpedia.org/resource/Cutting_for_Stone</value>
+</book>
+<author>
+<type>uri</type>
+<value>http://dbpedia.org/resource/Abraham_Verghese</value>
+</author>
+<released>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>February 2009</value>
+</released>
+<wikilink>
+<type>uri</type>
+<value>http://en.wikipedia.org/wiki/Cutting_for_Stone?oldid=606207791</value>
+</wikilink>
+<abstract>
+<type>literal</type>
+<xml:lang>de</xml:lang>
+<value>Rückkehr nach Missing (Originaltitel: Cutting for Stone ) ist der Debütroman des indisch-amerikanischen Arztes Abraham Verghese aus dem Jahr 2009. Verghese lässt wie schon in seinen beiden autobiographisch geprägten Sachbüchern persönliche Erlebnisse, hier seine Jugend in Äthiopien, in die Familiensaga einfließen, wenn er auch betont, dass das Werk nicht ganz autobiographisch ist.</value>
+</abstract>
+</XML_Serializer_Tag>
+</books>
+</Person>

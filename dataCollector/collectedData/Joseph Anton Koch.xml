@@ -27,8 +27,10 @@
 <XML_Serializer_Tag>Radierer</XML_Serializer_Tag>
 <XML_Serializer_Tag>Lithograph</XML_Serializer_Tag>
 </professionOrOccupation>
-<artworks />
 <dbpResource>http://dbpedia.org/resource/Joseph_Anton_Koch</dbpResource>
 <abstract>Joseph Anton Koch (* 27. Juli 1768 in Obergiblen bei Elbigenalp im Lechtal, Tirol; † 12. Januar 1839 in Rom, ± Campo Santo Teutonico) war ein österreichischer Maler der Biedermeierzeit.</abstract>
 <wikilink>http://en.wikipedia.org/wiki/Joseph_Anton_Koch?oldid=600026974</wikilink>
+<artworks />
+<buildings />
+<books />
 </Person>

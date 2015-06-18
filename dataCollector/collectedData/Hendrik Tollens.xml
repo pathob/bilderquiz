@@ -1,0 +1,32 @@
+<Person>
+<name>Hendrik Tollens</name>
+<variantName>
+<XML_Serializer_Tag>H. Tollens</XML_Serializer_Tag>
+<XML_Serializer_Tag>Henricus Franciscus Tollens</XML_Serializer_Tag>
+<XML_Serializer_Tag>H.F.J. Tollens</XML_Serializer_Tag>
+<XML_Serializer_Tag>Hendricus Franciscus Caroluszoon Tollens</XML_Serializer_Tag>
+<XML_Serializer_Tag>Hendrik Franciscus Tollens Caroluszoon</XML_Serializer_Tag>
+<XML_Serializer_Tag>Henricus Franciscus Caroluszoon Tollens</XML_Serializer_Tag>
+</variantName>
+<thumbnail>https://commons.wikimedia.org/wiki/Special:FilePath/Tollens.gif?width=270</thumbnail>
+<birthEN>September 24, 1780</birthEN>
+<birthDE>24. September 1780</birthDE>
+<deathEN>October 21, 1856</deathEN>
+<deathDE>21. Oktober 1856</deathDE>
+<birthPlace>
+<XML_Serializer_Tag>Rotterdam</XML_Serializer_Tag>
+</birthPlace>
+<deathPlace>
+<XML_Serializer_Tag>Rijswijk</XML_Serializer_Tag>
+</deathPlace>
+<professionOrOccupation>
+<XML_Serializer_Tag>Schriftsteller</XML_Serializer_Tag>
+<XML_Serializer_Tag>Kaufmann</XML_Serializer_Tag>
+</professionOrOccupation>
+<dbpResource>http://dbpedia.org/resource/Hendrik_Tollens</dbpResource>
+<abstract>Hendrik Tollens (eigentlich Hendricus Franciscus Caroluszoon Tollens; * 24. September 1780 in Rotterdam; † 21. Oktober 1856 in Rijswijk) war ein niederländischer Schriftsteller flämischer Herkunft.</abstract>
+<wikilink>http://en.wikipedia.org/wiki/Hendrik_Tollens?oldid=600211337</wikilink>
+<artworks />
+<buildings />
+<books />
+</Person>

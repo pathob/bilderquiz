@@ -1,0 +1,54 @@
+<Person>
+<name>Peter Eisenman</name>
+<variantName>
+<XML_Serializer_Tag>Peter D. Eisenman</XML_Serializer_Tag>
+<XML_Serializer_Tag>Peter David Eisenman</XML_Serializer_Tag>
+<XML_Serializer_Tag>Pītā Aizenman</XML_Serializer_Tag>
+</variantName>
+<thumbnail>https://commons.wikimedia.org/wiki/Special:FilePath/All_of_peter_eisenman.jpg?width=270</thumbnail>
+<birthEN>1932</birthEN>
+<birthDE>1932</birthDE>
+<deathEN />
+<deathDE />
+<birthPlace>
+<XML_Serializer_Tag>Newark, NJ</XML_Serializer_Tag>
+</birthPlace>
+<deathPlace />
+<professionOrOccupation>
+<XML_Serializer_Tag>Architekt</XML_Serializer_Tag>
+</professionOrOccupation>
+<dbpResource>http://dbpedia.org/resource/Peter_Eisenman</dbpResource>
+<abstract>Peter Eisenman (* 11. August 1932 in Newark, New Jersey) ist ein US-amerikanischer Architekt von internationalem Rang.</abstract>
+<wikilink>http://en.wikipedia.org/wiki/Peter_Eisenman?oldid=595182942</wikilink>
+<artworks />
+<buildings>
+<XML_Serializer_Tag>
+<building>
+<type>uri</type>
+<value>http://dbpedia.org/resource/House_VI</value>
+</building>
+<name>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>Frank Residence (House VI)</value>
+</name>
+<architect>
+<type>uri</type>
+<value>http://dbpedia.org/resource/Peter_Eisenman</value>
+</architect>
+<thumbnail>
+<type>uri</type>
+<value>http://commons.wikimedia.org/wiki/Special:FilePath/House_VI_024.JPG?width=300</value>
+</thumbnail>
+<wikilink>
+<type>uri</type>
+<value>http://en.wikipedia.org/wiki/House_VI?oldid=545137670</value>
+</wikilink>
+<location>
+<type>uri</type>
+<value>http://dbpedia.org/resource/Cornwall,_Connecticut</value>
+</location>
+</XML_Serializer_Tag>
+</buildings>
+<books />
+</Person>

@@ -16,8 +16,10 @@
 <professionOrOccupation>
 <XML_Serializer_Tag>Maler</XML_Serializer_Tag>
 </professionOrOccupation>
-<artworks />
 <dbpResource>http://dbpedia.org/resource/Hans_von_Kulmbach</dbpResource>
 <abstract>Hans von Kulmbach, eigentlich Hans Suess, auch Süß geschrieben, (* um 1480 in Kulmbach; † um 1522 in Nürnberg) war ein deutscher Maler, Zeichner und Grafiker.Er war Schüler des Malers Jacopo de Barbari und ging dann nach Nürnberg, wo er sich als Assistent Albrecht Dürers eng mit diesem anfreundete. 1514 war er in Krakau, wo er die Szenen aus dem Leben der Heiligen Jungfrau schuf. Später hatte er seine eigene Werkstatt in Nürnberg. Zu seinen Förderern zählte unter anderem der Händler und Mäzen Hans Boner.</abstract>
 <wikilink>http://en.wikipedia.org/wiki/Hans_von_Kulmbach?oldid=598692317</wikilink>
+<artworks />
+<buildings />
+<books />
 </Person>

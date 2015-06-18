@@ -17,8 +17,10 @@
 <professionOrOccupation>
 <XML_Serializer_Tag>Maler</XML_Serializer_Tag>
 </professionOrOccupation>
-<artworks />
 <dbpResource>http://dbpedia.org/resource/Albert_Anker</dbpResource>
 <abstract>Albert Samuel Anker (* 1. April 1831 in Ins, Kanton Bern, Schweiz; † 16. Juli 1910 ebenda) war ein Schweizer Maler, Grafiker und Genremaler des schweizerischen Volkslebens.</abstract>
 <wikilink>http://en.wikipedia.org/wiki/Albert_Anker?oldid=591895676</wikilink>
+<artworks />
+<buildings />
+<books />
 </Person>

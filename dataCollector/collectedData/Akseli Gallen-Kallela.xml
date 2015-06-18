@@ -23,12 +23,15 @@
 <XML_Serializer_Tag>Maler</XML_Serializer_Tag>
 <XML_Serializer_Tag>Graphiker</XML_Serializer_Tag>
 </professionOrOccupation>
+<dbpResource>http://dbpedia.org/resource/Akseli_Gallen-Kallela</dbpResource>
+<abstract>Akseli Gallen-Kallela (* 26. April 1865 in Pori als Axél Waldemar Gallén; † 7. März 1931 in Stockholm) war ein finnischer Maler, Architekt und Designer. Er ist besonders für seine Illustrationen zum finnischen Nationalepos Kalevala bekannt und ist der wohl bedeutendste Vertreter der finnischen Nationalromantik in der bildenden Kunst.</abstract>
+<wikilink>http://en.wikipedia.org/wiki/Akseli_Gallen-Kallela?oldid=594589478</wikilink>
 <artworks>
 <XML_Serializer_Tag>
-<painting>
+<artwork>
 <type>uri</type>
 <value>http://dbpedia.org/resource/Lemmink%C3%A4inen&apos;s_Mother</value>
-</painting>
+</artwork>
 <thumbnail>
 <type>uri</type>
 <value>http://commons.wikimedia.org/wiki/Special:FilePath/Gallen_Kallela_Lemminkainens_Mother.jpg?width=300</value>
@@ -47,12 +50,17 @@
 <type>uri</type>
 <value>http://en.wikipedia.org/wiki/Lemminkäinen&apos;s_Mother?oldid=590787715</value>
 </wikilink>
+<type>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>Tempera</value>
+</type>
 </XML_Serializer_Tag>
 <XML_Serializer_Tag>
-<painting>
+<artwork>
 <type>uri</type>
 <value>http://dbpedia.org/resource/The_Defense_of_the_Sampo</value>
-</painting>
+</artwork>
 <thumbnail>
 <type>uri</type>
 <value>http://commons.wikimedia.org/wiki/Special:FilePath/Sammon_puolustus.jpg?width=300</value>
@@ -71,9 +79,13 @@
 <type>uri</type>
 <value>http://en.wikipedia.org/wiki/The_Defense_of_the_Sampo?oldid=591021882</value>
 </wikilink>
+<type>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>Tempera</value>
+</type>
 </XML_Serializer_Tag>
 </artworks>
-<dbpResource>http://dbpedia.org/resource/Akseli_Gallen-Kallela</dbpResource>
-<abstract>Akseli Gallen-Kallela (* 26. April 1865 in Pori als Axél Waldemar Gallén; † 7. März 1931 in Stockholm) war ein finnischer Maler, Architekt und Designer. Er ist besonders für seine Illustrationen zum finnischen Nationalepos Kalevala bekannt und ist der wohl bedeutendste Vertreter der finnischen Nationalromantik in der bildenden Kunst.</abstract>
-<wikilink>http://en.wikipedia.org/wiki/Akseli_Gallen-Kallela?oldid=594589478</wikilink>
+<buildings />
+<books />
 </Person>

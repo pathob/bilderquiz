@@ -11,8 +11,10 @@
 <professionOrOccupation>
 <XML_Serializer_Tag>Maler</XML_Serializer_Tag>
 </professionOrOccupation>
-<artworks />
 <dbpResource>http://dbpedia.org/resource/Ferdinand_Gehr</dbpResource>
 <abstract>Ferdinand Gehr (* 6. Januar 1896 in Niederglatt SG, Gemeinde Oberuzwil; † 10. Juli 1996 in Altstätten SG) war ein Schweizer Maler. Er gilt als der wichtigste sakrale Maler der Schweiz im 20. Jahrhundert.</abstract>
 <wikilink>http://en.wikipedia.org/wiki/Ferdinand_Gehr?oldid=582341848</wikilink>
+<artworks />
+<buildings />
+<books />
 </Person>

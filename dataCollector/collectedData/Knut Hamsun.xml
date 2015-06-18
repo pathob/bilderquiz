@@ -1,0 +1,87 @@
+<Person>
+<name>Knut Hamsun</name>
+<variantName>
+<XML_Serializer_Tag>Knut Pedersen</XML_Serializer_Tag>
+<XML_Serializer_Tag>Knud Pedersen</XML_Serializer_Tag>
+<XML_Serializer_Tag>Knut Gamsun</XML_Serializer_Tag>
+<XML_Serializer_Tag>Knutas Hamsunas</XML_Serializer_Tag>
+<XML_Serializer_Tag>Knuts Hamsuns</XML_Serializer_Tag>
+<XML_Serializer_Tag>K. Hamsun</XML_Serializer_Tag>
+<XML_Serializer_Tag>Knut Hams-un</XML_Serializer_Tag>
+<XML_Serializer_Tag>Knud Pedersen</XML_Serializer_Tag>
+<XML_Serializer_Tag>Кнут Гамсун</XML_Serializer_Tag>
+</variantName>
+<thumbnail>https://commons.wikimedia.org/wiki/Special:FilePath/Knut_hamsun_1890.jpg?width=270</thumbnail>
+<birthEN>August 4, 1859</birthEN>
+<birthDE>4. August 1859</birthDE>
+<deathEN>February 19, 1952</deathEN>
+<deathDE>19. Februar 1952</deathDE>
+<birthPlace>
+<XML_Serializer_Tag>Lom (Oppland)</XML_Serializer_Tag>
+</birthPlace>
+<deathPlace>
+<XML_Serializer_Tag>Nørholm, Norwegen</XML_Serializer_Tag>
+</deathPlace>
+<professionOrOccupation>
+<XML_Serializer_Tag>Schriftsteller</XML_Serializer_Tag>
+</professionOrOccupation>
+<dbpResource>http://dbpedia.org/resource/Knut_Hamsun</dbpResource>
+<abstract>Knut Hamsun (gebürtig Knud Pedersen, * 4. August 1859 in Garmo / Garmostrædet bei Lom oder in Vågå, Fylke Oppland, Norwegen; † 19. Februar 1952 in Nørholm bei Grimstad) war einer der bedeutendsten norwegischen Schriftsteller des frühen 20. Jahrhunderts. Er erhielt 1920 den Literaturnobelpreis für sein Werk Segen der Erde, das 1917 als Markens Grøde in Norwegen erschienen war.</abstract>
+<wikilink>http://en.wikipedia.org/wiki/Knut_Hamsun?oldid=602301612</wikilink>
+<artworks />
+<buildings />
+<books>
+<XML_Serializer_Tag>
+<book>
+<type>uri</type>
+<value>http://dbpedia.org/resource/Hunger_(Hamsun_novel)</value>
+</book>
+<author>
+<type>uri</type>
+<value>http://dbpedia.org/resource/Knut_Hamsun</value>
+</author>
+<thumbnail>
+<type>uri</type>
+<value>http://commons.wikimedia.org/wiki/Special:FilePath/Hunger_first_edition.jpg?width=300</value>
+</thumbnail>
+<released>
+<type>typed-literal</type>
+<datatype>http://www.w3.org/2001/XMLSchema#integer</datatype>
+<value>1890</value>
+</released>
+<wikilink>
+<type>uri</type>
+<value>http://en.wikipedia.org/wiki/Hunger_(Hamsun_novel)?oldid=594662952</value>
+</wikilink>
+<abstract>
+<type>literal</type>
+<xml:lang>de</xml:lang>
+<value>Hunger (norwegisch: Sult) ist der erste Roman von Knut Hamsun. Mit ihm schaffte er seinen literarischen Durchbruch.</value>
+</abstract>
+</XML_Serializer_Tag>
+<XML_Serializer_Tag>
+<book>
+<type>uri</type>
+<value>http://dbpedia.org/resource/On_Overgrown_Paths</value>
+</book>
+<author>
+<type>uri</type>
+<value>http://dbpedia.org/resource/Knut_Hamsun</value>
+</author>
+<released>
+<type>typed-literal</type>
+<datatype>http://www.w3.org/2001/XMLSchema#integer</datatype>
+<value>1949</value>
+</released>
+<wikilink>
+<type>uri</type>
+<value>http://en.wikipedia.org/wiki/On_Overgrown_Paths?oldid=574188264</value>
+</wikilink>
+<abstract>
+<type>literal</type>
+<xml:lang>de</xml:lang>
+<value>Auf überwachsenen Pfaden ist das 1949 erschienene Alterswerk des norwegischen Schriftstellers und Nobelpreisträgers Knut Hamsun (1859–1952). Nach Kriegsende wurde Hamsun wegen seiner Kollaboration mit der deutschen Besatzung angeklagt und zeitweise in eine psychiatrische Anstalt eingewiesen. Erst nach drei Jahren konnte er auf sein Gut zurückkehren. Über diese von ihm als demütigend empfundene Zeit berichtet er in Form eines Tagebuchs, worin er auch mit dem untersuchenden Psychiater abrechnet, der ihn als Menschen „mit nachhaltig geschwächten geistigen Fähigkeiten“ beurteilt hatte.</value>
+</abstract>
+</XML_Serializer_Tag>
+</books>
+</Person>

@@ -1,0 +1,68 @@
+<Person>
+<name>Max Brooks</name>
+<variantName />
+<thumbnail>https://commons.wikimedia.org/wiki/Special:FilePath/Max_Brooks_Rocket_Llama.jpg?width=270</thumbnail>
+<birthEN>1972</birthEN>
+<birthDE>1972</birthDE>
+<deathEN />
+<deathDE />
+<birthPlace />
+<deathPlace />
+<professionOrOccupation>
+<XML_Serializer_Tag>Comedy-Autor</XML_Serializer_Tag>
+</professionOrOccupation>
+<dbpResource>http://dbpedia.org/resource/Max_Brooks</dbpResource>
+<abstract>Maximillian Michael Brooks (* 22. Mai 1972 in New York City) ist ein US-amerikanischer Schriftsteller und Drehbuchautor. Er ist der Sohn des Regisseurs Mel Brooks und der Schauspielerin Anne Bancroft.</abstract>
+<wikilink>http://en.wikipedia.org/wiki/Max_Brooks?oldid=606522032</wikilink>
+<artworks />
+<buildings />
+<books>
+<XML_Serializer_Tag>
+<book>
+<type>uri</type>
+<value>http://dbpedia.org/resource/World_War_Z</value>
+</book>
+<author>
+<type>uri</type>
+<value>http://dbpedia.org/resource/Max_Brooks</value>
+</author>
+<thumbnail>
+<type>uri</type>
+<value>http://commons.wikimedia.org/wiki/Special:FilePath/Brook-right_Romero_left.JPG?width=300</value>
+</thumbnail>
+<published>
+<type>typed-literal</type>
+<datatype>http://www.w3.org/2001/XMLSchema#integer</datatype>
+<value>2006</value>
+</published>
+<wikilink>
+<type>uri</type>
+<value>http://en.wikipedia.org/wiki/World_War_Z?oldid=606116523</value>
+</wikilink>
+<abstract>
+<type>literal</type>
+<xml:lang>de</xml:lang>
+<value>Operation Zombie: Wer länger lebt, ist später tot (englischer Originaltitel: World War Z: An Oral History of the Zombie War) ist ein am 12. September 2006 in den Vereinigten Staaten veröffentlichter apokalyptischer Horrorroman von Max Brooks. Es ist der Nachfolger seines im Jahr 2003 veröffentlichten, satirischen Zombie Survival Guides.</value>
+</abstract>
+</XML_Serializer_Tag>
+<XML_Serializer_Tag>
+<book>
+<type>uri</type>
+<value>http://dbpedia.org/resource/The_Zombie_Survival_Guide</value>
+</book>
+<author>
+<type>uri</type>
+<value>http://dbpedia.org/resource/Max_Brooks</value>
+</author>
+<released>
+<type>typed-literal</type>
+<datatype>http://www.w3.org/2001/XMLSchema#date</datatype>
+<value>2003-09-16+02:00</value>
+</released>
+<wikilink>
+<type>uri</type>
+<value>http://en.wikipedia.org/wiki/The_Zombie_Survival_Guide?oldid=606167657</value>
+</wikilink>
+</XML_Serializer_Tag>
+</books>
+</Person>

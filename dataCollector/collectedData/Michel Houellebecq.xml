@@ -1,0 +1,57 @@
+<Person>
+<name>Michel Houellebecq</name>
+<variantName />
+<thumbnail>https://commons.wikimedia.org/wiki/Special:FilePath/2008.06.09._Michel_Houellebecq_Fot_Mariusz_Kubik_01.jpg?width=270</thumbnail>
+<birthEN>1958</birthEN>
+<birthDE>1958</birthDE>
+<deathEN />
+<deathDE />
+<birthPlace>
+<XML_Serializer_Tag>Réunion</XML_Serializer_Tag>
+</birthPlace>
+<deathPlace />
+<professionOrOccupation>
+<XML_Serializer_Tag>Schriftsteller</XML_Serializer_Tag>
+<XML_Serializer_Tag>Photograph</XML_Serializer_Tag>
+</professionOrOccupation>
+<dbpResource>http://dbpedia.org/resource/Michel_Houellebecq</dbpResource>
+<abstract>Michel Houellebecq [wɛlˈbɛk] (eigentlich Michel Thomas; * 26. Februar 1956 oder 1958 auf Réunion) ist ein französischer Schriftsteller. Bis vor kurzem lebte er in Irland und auf Lanzarote, seit 2013 befindet sich sein Wohnort in Paris. Houellebecq gilt in Frankreich zurzeit als der meistgelesene, aber auch umstrittenste Autor seiner Generation.</abstract>
+<wikilink>http://en.wikipedia.org/wiki/Michel_Houellebecq?oldid=605322906</wikilink>
+<artworks />
+<buildings />
+<books>
+<XML_Serializer_Tag>
+<book>
+<type>uri</type>
+<value>http://dbpedia.org/resource/The_Map_and_the_Territory</value>
+</book>
+<author>
+<type>uri</type>
+<value>http://dbpedia.org/resource/Michel_Houellebecq</value>
+</author>
+<wikilink>
+<type>uri</type>
+<value>http://en.wikipedia.org/wiki/The_Map_and_the_Territory?oldid=540841494</value>
+</wikilink>
+<abstract>
+<type>literal</type>
+<xml:lang>de</xml:lang>
+<value>Karte und Gebiet ist ein Roman des französischen Schriftstellers Michel Houellebecq. Er erschien 2010 unter dem Originaltitel La carte et le territoire und wurde mit dem Prix Goncourt ausgezeichnet. Die deutsche Übersetzung von Uli Wittmann wurde 2011 im DuMont Buchverlag veröffentlicht.</value>
+</abstract>
+</XML_Serializer_Tag>
+<XML_Serializer_Tag>
+<book>
+<type>uri</type>
+<value>http://dbpedia.org/resource/H._P._Lovecraft:_Against_the_World,_Against_Life</value>
+</book>
+<author>
+<type>uri</type>
+<value>http://dbpedia.org/resource/Michel_Houellebecq</value>
+</author>
+<wikilink>
+<type>uri</type>
+<value>http://en.wikipedia.org/wiki/H._P._Lovecraft:_Against_the_World,_Against_Life?oldid=595009239</value>
+</wikilink>
+</XML_Serializer_Tag>
+</books>
+</Person>

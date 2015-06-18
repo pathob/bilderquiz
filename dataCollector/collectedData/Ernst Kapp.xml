@@ -1,0 +1,28 @@
+<Person>
+<name>Ernst Kapp</name>
+<variantName>
+<XML_Serializer_Tag>Ernst Christian Kapp</XML_Serializer_Tag>
+</variantName>
+<thumbnail>https://commons.wikimedia.org/wiki/Special:FilePath/Ernst_Kapp.jpg?width=270</thumbnail>
+<birthEN>October 15, 1808</birthEN>
+<birthDE>15. Oktober 1808</birthDE>
+<deathEN>January 30, 1896</deathEN>
+<deathDE>30. Januar 1896</deathDE>
+<birthPlace>
+<XML_Serializer_Tag>Ludwigsstadt</XML_Serializer_Tag>
+</birthPlace>
+<deathPlace>
+<XML_Serializer_Tag>Düsseldorf</XML_Serializer_Tag>
+</deathPlace>
+<professionOrOccupation>
+<XML_Serializer_Tag>Philosoph</XML_Serializer_Tag>
+<XML_Serializer_Tag>Geograph</XML_Serializer_Tag>
+<XML_Serializer_Tag>Lehrer</XML_Serializer_Tag>
+</professionOrOccupation>
+<dbpResource>http://dbpedia.org/resource/Ernst_Kapp</dbpResource>
+<abstract>Ernst Christian Kapp (* 15. Oktober 1808 in Ludwigsstadt, Oberfranken; † 30. Januar 1896 in Düsseldorf) war Pädagoge, Geograph und Philosoph. Mit seinem Werk Grundlinien einer Philosophie der Technik von 1877 gilt er als einer der Begründer der modernen Technikphilosophie.</abstract>
+<wikilink>http://en.wikipedia.org/wiki/Ernst_Kapp?oldid=587897914</wikilink>
+<artworks />
+<buildings />
+<books />
+</Person>

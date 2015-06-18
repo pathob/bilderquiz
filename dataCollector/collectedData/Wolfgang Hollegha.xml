@@ -13,8 +13,10 @@
 <professionOrOccupation>
 <XML_Serializer_Tag>Maler</XML_Serializer_Tag>
 </professionOrOccupation>
-<artworks />
 <dbpResource>http://dbpedia.org/resource/Wolfgang_Hollegha</dbpResource>
 <abstract>Wolfgang Hollegha (* 4. März 1929 in Klagenfurt, Kärnten) ist ein österreichischer Maler.</abstract>
 <wikilink>http://en.wikipedia.org/wiki/Wolfgang_Hollegha?oldid=567294414</wikilink>
+<artworks />
+<buildings />
+<books />
 </Person>

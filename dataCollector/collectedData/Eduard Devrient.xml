@@ -1,0 +1,33 @@
+<Person>
+<name>Eduard Devrient</name>
+<variantName>
+<XML_Serializer_Tag>Philipp E. Devrient</XML_Serializer_Tag>
+<XML_Serializer_Tag>Philipp Eduard Devrient</XML_Serializer_Tag>
+<XML_Serializer_Tag>d. jüng. Devrient</XML_Serializer_Tag>
+<XML_Serializer_Tag>d.j. Devrient</XML_Serializer_Tag>
+</variantName>
+<thumbnail>https://commons.wikimedia.org/wiki/Special:FilePath/Eduard_Devrient.jpg?width=270</thumbnail>
+<birthEN>August 11, 1801</birthEN>
+<birthDE>11. August 1801</birthDE>
+<deathEN>October 4, 1877</deathEN>
+<deathDE>4. Oktober 1877</deathDE>
+<birthPlace>
+<XML_Serializer_Tag>Berlin</XML_Serializer_Tag>
+</birthPlace>
+<deathPlace>
+<XML_Serializer_Tag>Karlsruhe</XML_Serializer_Tag>
+</deathPlace>
+<professionOrOccupation>
+<XML_Serializer_Tag>Schauspieler</XML_Serializer_Tag>
+<XML_Serializer_Tag>Regisseur</XML_Serializer_Tag>
+<XML_Serializer_Tag>Schriftsteller</XML_Serializer_Tag>
+<XML_Serializer_Tag>Theaterdirektor</XML_Serializer_Tag>
+<XML_Serializer_Tag>Dramaturg</XML_Serializer_Tag>
+</professionOrOccupation>
+<dbpResource>http://dbpedia.org/resource/Eduard_Devrient</dbpResource>
+<abstract>Philipp Eduard Devrient (* 11. August 1801 in Berlin; † 4. Oktober 1877 in Karlsruhe) war ein deutscher Schauspieler, Sänger und Theaterleiter.</abstract>
+<wikilink>http://en.wikipedia.org/wiki/Eduard_Devrient?oldid=587375485</wikilink>
+<artworks />
+<buildings />
+<books />
+</Person>

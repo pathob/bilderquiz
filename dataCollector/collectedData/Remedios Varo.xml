@@ -1,0 +1,25 @@
+<Person>
+<name>Remedios Varo</name>
+<variantName>
+<XML_Serializer_Tag>Maria de los Remedios Varo y Uranga</XML_Serializer_Tag>
+</variantName>
+<thumbnail>https://en.wikipedia.org/wiki/Special:FilePath/Useless_Science.jpg?width=270</thumbnail>
+<birthEN>December 16, 1908</birthEN>
+<birthDE>16. Dezember 1908</birthDE>
+<deathEN>October 8, 1963</deathEN>
+<deathDE>8. Oktober 1963</deathDE>
+<birthPlace />
+<deathPlace>
+<XML_Serializer_Tag>Mexiko (Stadt)</XML_Serializer_Tag>
+</deathPlace>
+<professionOrOccupation>
+<XML_Serializer_Tag>Malerin</XML_Serializer_Tag>
+<XML_Serializer_Tag>Schriftstellerin</XML_Serializer_Tag>
+</professionOrOccupation>
+<dbpResource>http://dbpedia.org/resource/Remedios_Varo</dbpResource>
+<abstract>Remedios Varo (* 16. Dezember 1908 in Anglès; † 8. Oktober 1963 in Mexiko-Stadt) war eine spanische surrealistische Malerin.</abstract>
+<wikilink>http://en.wikipedia.org/wiki/Remedios_Varo?oldid=606739225</wikilink>
+<artworks />
+<buildings />
+<books />
+</Person>

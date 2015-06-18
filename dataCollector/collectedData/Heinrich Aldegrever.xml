@@ -29,8 +29,10 @@
 <XML_Serializer_Tag>Zeichner</XML_Serializer_Tag>
 <XML_Serializer_Tag>Goldschmied</XML_Serializer_Tag>
 </professionOrOccupation>
-<artworks />
 <dbpResource>http://dbpedia.org/resource/Heinrich_Aldegrever</dbpResource>
 <abstract>Heinrich Aldegrever, in der niederdeutschen Sprache seiner Heimat eigentlich Hinrik Trippenmäker, (* 1502 in Paderborn; † zwischen 1555 und 1561 in Soest) war bedeutender deutscher Kupferstecher, Maler und Siegelschneider der Renaissance.</abstract>
 <wikilink>http://en.wikipedia.org/wiki/Heinrich_Aldegrever?oldid=601898416</wikilink>
+<artworks />
+<buildings />
+<books />
 </Person>

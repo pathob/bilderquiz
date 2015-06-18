@@ -1,0 +1,31 @@
+<Person>
+<name>O. W. Fischer</name>
+<variantName>
+<XML_Serializer_Tag>Otto Wilhelm Fischer</XML_Serializer_Tag>
+<XML_Serializer_Tag>Otto W. Fischer</XML_Serializer_Tag>
+<XML_Serializer_Tag>Otto Wilhelm Fischer</XML_Serializer_Tag>
+</variantName>
+<thumbnail>https://commons.wikimedia.org/wiki/Special:FilePath/Verträumte_Tage,_L&apos;Aiguille_rouge_(1951).jpg?width=270</thumbnail>
+<birthEN>April 1, 1915</birthEN>
+<birthDE>1. April 1915</birthDE>
+<deathEN>January 29, 2004</deathEN>
+<deathDE>29. Januar 2004</deathDE>
+<birthPlace>
+<XML_Serializer_Tag>Klosterneuburg</XML_Serializer_Tag>
+</birthPlace>
+<deathPlace>
+<XML_Serializer_Tag>Lugano</XML_Serializer_Tag>
+</deathPlace>
+<professionOrOccupation>
+<XML_Serializer_Tag>Schriftsteller</XML_Serializer_Tag>
+<XML_Serializer_Tag>Privatgelehrter</XML_Serializer_Tag>
+<XML_Serializer_Tag>Schauspieler</XML_Serializer_Tag>
+<XML_Serializer_Tag>Regisseur</XML_Serializer_Tag>
+</professionOrOccupation>
+<dbpResource>http://dbpedia.org/resource/O._W._Fischer</dbpResource>
+<abstract>O. W. Fischer (* 1. April 1915 in Klosterneuburg, Niederösterreich als Otto Wilhelm Fischer; † 29. Januar 2004 in Lugano, Schweiz) war ein österreichischer Schauspieler.</abstract>
+<wikilink>http://en.wikipedia.org/wiki/O._W._Fischer?oldid=585595952</wikilink>
+<artworks />
+<buildings />
+<books />
+</Person>

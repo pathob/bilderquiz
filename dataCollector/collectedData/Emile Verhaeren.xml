@@ -1,0 +1,32 @@
+<Person>
+<name>Emile Verhaeren</name>
+<variantName>
+<XML_Serializer_Tag>Émile Verhaeren</XML_Serializer_Tag>
+<XML_Serializer_Tag>Émile Adolphe Gustave Verhaeren</XML_Serializer_Tag>
+<XML_Serializer_Tag>Ėmilʹ Vercharn</XML_Serializer_Tag>
+<XML_Serializer_Tag>Emile Adolphe Gustave Verhaeren</XML_Serializer_Tag>
+<XML_Serializer_Tag>Emil Beraren</XML_Serializer_Tag>
+<XML_Serializer_Tag>Emil Verhaeren</XML_Serializer_Tag>
+<XML_Serializer_Tag>E. Verkharn</XML_Serializer_Tag>
+</variantName>
+<thumbnail>https://commons.wikimedia.org/wiki/Special:FilePath/Emile_Verhaeren01.jpg?width=270</thumbnail>
+<birthEN>1855</birthEN>
+<birthDE>1855</birthDE>
+<deathEN>1916</deathEN>
+<deathDE>1916</deathDE>
+<birthPlace>
+<XML_Serializer_Tag>Sint-Amands</XML_Serializer_Tag>
+</birthPlace>
+<deathPlace>
+<XML_Serializer_Tag>Rouen</XML_Serializer_Tag>
+</deathPlace>
+<professionOrOccupation>
+<XML_Serializer_Tag>Schriftsteller</XML_Serializer_Tag>
+</professionOrOccupation>
+<dbpResource>http://dbpedia.org/resource/Emile_Verhaeren</dbpResource>
+<abstract>Emile Adolphe Gustave Verhaeren (* 21. Mai 1855 in Sint-Amands bei Antwerpen; † 27. November 1916 in Rouen) war ein belgischer Dichter, der in französischer Sprache schrieb. In seinen vom Symbolismus ausgehenden, in freiem Versmaß verfassten Gedichten entwickelte er eine von sozialem Bewusstsein geprägte großstädtische Lyrik von großer Musikalität.</abstract>
+<wikilink>http://en.wikipedia.org/wiki/Emile_Verhaeren?oldid=594359778</wikilink>
+<artworks />
+<buildings />
+<books />
+</Person>

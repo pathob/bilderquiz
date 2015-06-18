@@ -1,0 +1,29 @@
+<Person>
+<name>Anton Wilhelm Amo</name>
+<variantName>
+<XML_Serializer_Tag>Anton W. Amo</XML_Serializer_Tag>
+<XML_Serializer_Tag>Antonius Guilelmus Amo</XML_Serializer_Tag>
+<XML_Serializer_Tag>Antonius Guilielmus Amo</XML_Serializer_Tag>
+<XML_Serializer_Tag>Antoine Guillaume Amo</XML_Serializer_Tag>
+<XML_Serializer_Tag>Anton Wilhelm Amo Afer</XML_Serializer_Tag>
+<XML_Serializer_Tag>Wilhelm Anton Amo</XML_Serializer_Tag>
+</variantName>
+<thumbnail>https://de.wikipedia.org/wiki/Special:FilePath/Denkmal_Amo.png?width=270</thumbnail>
+<birthEN>1703</birthEN>
+<birthDE>1703</birthDE>
+<deathEN>1753</deathEN>
+<deathDE>1753</deathDE>
+<birthPlace>
+<XML_Serializer_Tag>Nkubeam bei Axim (heute in Ghana)</XML_Serializer_Tag>
+</birthPlace>
+<deathPlace />
+<professionOrOccupation>
+<XML_Serializer_Tag>Philosoph</XML_Serializer_Tag>
+</professionOrOccupation>
+<dbpResource>http://dbpedia.org/resource/Anton_Wilhelm_Amo</dbpResource>
+<abstract>Anton Wilhelm Amo (* um 1703 in Nkubeam bei Axim, heute Ghana; † nach 1753 vermutlich im heutigen Ghana) ist der erste bekannte Philosoph und Rechtswissenschaftler afrikanischer Herkunft in Deutschland.</abstract>
+<wikilink>http://en.wikipedia.org/wiki/Anton_Wilhelm_Amo?oldid=603578967</wikilink>
+<artworks />
+<buildings />
+<books />
+</Person>

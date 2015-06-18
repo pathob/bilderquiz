@@ -1,0 +1,156 @@
+<Person>
+<name>Inigo Jones</name>
+<variantName>
+<XML_Serializer_Tag>Henygo Jones</XML_Serializer_Tag>
+<XML_Serializer_Tag>Inigo Iones</XML_Serializer_Tag>
+</variantName>
+<thumbnail>https://commons.wikimedia.org/wiki/Special:FilePath/PortraitInigoJones.jpg?width=270</thumbnail>
+<birthEN>XX.07.1573</birthEN>
+<birthDE>XX.07.1573</birthDE>
+<deathEN>June 21, 1652</deathEN>
+<deathDE>21. Juni 1652</deathDE>
+<birthPlace />
+<deathPlace />
+<professionOrOccupation>
+<XML_Serializer_Tag>Architekt</XML_Serializer_Tag>
+</professionOrOccupation>
+<dbpResource>http://dbpedia.org/resource/Inigo_Jones</dbpResource>
+<abstract>Inigo Jones (* 15. Juli 1573 in London; † 21. Juni 1652 ebenda) gilt als der erste bedeutende englische Architekt des Klassizismus.</abstract>
+<wikilink>http://en.wikipedia.org/wiki/Inigo_Jones?oldid=605066478</wikilink>
+<artworks />
+<buildings>
+<XML_Serializer_Tag>
+<building>
+<type>uri</type>
+<value>http://dbpedia.org/resource/St_Paul&apos;s,_Covent_Garden</value>
+</building>
+<name>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>St. Paul&apos;s, Covent Garden</value>
+</name>
+<architect>
+<type>uri</type>
+<value>http://dbpedia.org/resource/Inigo_Jones</value>
+</architect>
+<thumbnail>
+<type>uri</type>
+<value>http://commons.wikimedia.org/wiki/Special:FilePath/St._Paul&apos;s_Church,_Covent_Garden,_London.jpg?width=300</value>
+</thumbnail>
+<wikilink>
+<type>uri</type>
+<value>http://en.wikipedia.org/wiki/St_Paul&apos;s,_Covent_Garden?oldid=605969106</value>
+</wikilink>
+<abstract>
+<type>literal</type>
+<xml:lang>de</xml:lang>
+<value>51.511812-0.12334St. Paul’s Church in Covent Garden in London wurde von 1631 bis 1634 von Inigo Jones im Auftrag von Francis Russell, 4. Earl von Bedford errichtet.</value>
+</abstract>
+</XML_Serializer_Tag>
+<XML_Serializer_Tag>
+<building>
+<type>uri</type>
+<value>http://dbpedia.org/resource/Brymbo_Hall</value>
+</building>
+<name>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>Brymbo Hall</value>
+</name>
+<architect>
+<type>uri</type>
+<value>http://dbpedia.org/resource/Inigo_Jones</value>
+</architect>
+<thumbnail>
+<type>uri</type>
+<value>http://en.wikipedia.org/wiki/Special:FilePath/Brymbo_hall.jpg?width=300</value>
+</thumbnail>
+<wikilink>
+<type>uri</type>
+<value>http://en.wikipedia.org/wiki/Brymbo_Hall?oldid=563826833</value>
+</wikilink>
+<location>
+<type>uri</type>
+<value>http://dbpedia.org/resource/Brymbo</value>
+</location>
+</XML_Serializer_Tag>
+<XML_Serializer_Tag>
+<building>
+<type>uri</type>
+<value>http://dbpedia.org/resource/Pynes_House</value>
+</building>
+<name>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>Pynes House</value>
+</name>
+<architect>
+<type>uri</type>
+<value>http://dbpedia.org/resource/Inigo_Jones</value>
+</architect>
+<thumbnail>
+<type>uri</type>
+<value>http://commons.wikimedia.org/wiki/Special:FilePath/Pynes_-_geograph.org.uk_-_137673.jpg?width=300</value>
+</thumbnail>
+<wikilink>
+<type>uri</type>
+<value>http://en.wikipedia.org/wiki/Pynes_House?oldid=527710973</value>
+</wikilink>
+<location>
+<type>uri</type>
+<value>http://dbpedia.org/resource/Devon</value>
+</location>
+</XML_Serializer_Tag>
+<XML_Serializer_Tag>
+<building>
+<type>uri</type>
+<value>http://dbpedia.org/resource/St_Giles_House,_Wimborne_St_Giles</value>
+</building>
+<name>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>St Giles House</value>
+</name>
+<architect>
+<type>uri</type>
+<value>http://dbpedia.org/resource/Inigo_Jones</value>
+</architect>
+<thumbnail>
+<type>uri</type>
+<value>http://commons.wikimedia.org/wiki/Special:FilePath/St_Giles_House_Dorset.png?width=300</value>
+</thumbnail>
+<wikilink>
+<type>uri</type>
+<value>http://en.wikipedia.org/wiki/St_Giles_House,_Wimborne_St_Giles?oldid=599048889</value>
+</wikilink>
+<location>
+<type>uri</type>
+<value>http://dbpedia.org/resource/Wimborne_St_Giles</value>
+</location>
+</XML_Serializer_Tag>
+<XML_Serializer_Tag>
+<building>
+<type>uri</type>
+<value>http://dbpedia.org/resource/Queen&apos;s_Chapel</value>
+</building>
+<name>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>Queen&apos;s Chapel</value>
+</name>
+<architect>
+<type>uri</type>
+<value>http://dbpedia.org/resource/Inigo_Jones</value>
+</architect>
+<thumbnail>
+<type>uri</type>
+<value>http://commons.wikimedia.org/wiki/Special:FilePath/Geograph-2206967-by-Basher-Eyre.jpg?width=300</value>
+</thumbnail>
+<wikilink>
+<type>uri</type>
+<value>http://en.wikipedia.org/wiki/Queen&apos;s_Chapel?oldid=603048176</value>
+</wikilink>
+</XML_Serializer_Tag>
+</buildings>
+<books />
+</Person>

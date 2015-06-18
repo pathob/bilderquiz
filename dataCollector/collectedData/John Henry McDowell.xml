@@ -1,0 +1,30 @@
+<Person>
+<name>John Henry McDowell</name>
+<variantName>
+<XML_Serializer_Tag>John Henry MacDowell</XML_Serializer_Tag>
+<XML_Serializer_Tag>John McDowell</XML_Serializer_Tag>
+<XML_Serializer_Tag>John H. MacDowell</XML_Serializer_Tag>
+<XML_Serializer_Tag>John H. McDowell</XML_Serializer_Tag>
+<XML_Serializer_Tag>John Henry Mc Dowell</XML_Serializer_Tag>
+<XML_Serializer_Tag>John Henry Mac Dowell</XML_Serializer_Tag>
+<XML_Serializer_Tag>John Mac Dowell</XML_Serializer_Tag>
+<XML_Serializer_Tag>John MacDowell</XML_Serializer_Tag>
+<XML_Serializer_Tag>John Mc Dowell</XML_Serializer_Tag>
+</variantName>
+<thumbnail>https://commons.wikimedia.org/wiki/Special:FilePath/John_McDowell.JPG?width=270</thumbnail>
+<birthEN>1942</birthEN>
+<birthDE>1942</birthDE>
+<deathEN />
+<deathDE />
+<birthPlace />
+<deathPlace />
+<professionOrOccupation>
+<XML_Serializer_Tag>Philosoph</XML_Serializer_Tag>
+</professionOrOccupation>
+<dbpResource>http://dbpedia.org/resource/John_McDowell</dbpResource>
+<abstract>John McDowell (* 7. März 1942 in Boksburg, Südafrika) ist ein südafrikanischer Philosoph der Gegenwart.</abstract>
+<wikilink>http://en.wikipedia.org/wiki/John_McDowell?oldid=604403654</wikilink>
+<artworks />
+<buildings />
+<books />
+</Person>

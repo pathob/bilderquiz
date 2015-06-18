@@ -15,8 +15,10 @@
 <XML_Serializer_Tag>Maler</XML_Serializer_Tag>
 <XML_Serializer_Tag>Radierer</XML_Serializer_Tag>
 </professionOrOccupation>
-<artworks />
 <dbpResource>http://dbpedia.org/resource/Heinrich_Adam</dbpResource>
 <abstract>Heinrich Adam (* 27. März 1787 in Nördlingen; † 15. Februar 1862 in München) war ein deutscher Radierer und Landschaftsmaler.</abstract>
 <wikilink>http://en.wikipedia.org/wiki/Heinrich_Adam?oldid=599129755</wikilink>
+<artworks />
+<buildings />
+<books />
 </Person>

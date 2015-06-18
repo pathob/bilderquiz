@@ -35,8 +35,10 @@
 <XML_Serializer_Tag>Verleger</XML_Serializer_Tag>
 <XML_Serializer_Tag>Maler</XML_Serializer_Tag>
 </professionOrOccupation>
-<artworks />
 <dbpResource>http://dbpedia.org/resource/Hieronymus_Cock</dbpResource>
 <abstract>Hieronymus Jérôme Cock (* ca. 1510; † 1570) war ein niederländischer Verleger.Cock, der als einer der bedeutendsten Verleger von Stichen im 16. Jahrhundert gilt, betätigte sich auch selbst als Maler und Kupferstecher. Pieter Bruegel der Ältere absolvierte seine Lehrzeit bei Cock, der die Zeichnungen Bruegels verbreitete, indem er sie als Stichreproduktionen veröffentlichte.</abstract>
 <wikilink>http://en.wikipedia.org/wiki/Hieronymus_Cock?oldid=601753723</wikilink>
+<artworks />
+<buildings />
+<books />
 </Person>

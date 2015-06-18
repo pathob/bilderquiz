@@ -1,0 +1,219 @@
+<Person>
+<name>Boris Akunin</name>
+<variantName>
+<XML_Serializer_Tag>B. Akunin</XML_Serializer_Tag>
+<XML_Serializer_Tag>G. Čchartišvili</XML_Serializer_Tag>
+<XML_Serializer_Tag>Grigorij Čchartišvili</XML_Serializer_Tag>
+<XML_Serializer_Tag>Grigorij Š. Čchartišvili</XML_Serializer_Tag>
+<XML_Serializer_Tag>Grigorij Šalʹvovič Čchartišvili</XML_Serializer_Tag>
+<XML_Serializer_Tag>Grigol Šalvas je Č&apos;xartišvili</XML_Serializer_Tag>
+<XML_Serializer_Tag>Grigori Č&apos;xartišvili</XML_Serializer_Tag>
+<XML_Serializer_Tag>Grigori Tschchartischwili</XML_Serializer_Tag>
+<XML_Serializer_Tag>Grigori Tschtschartischwili</XML_Serializer_Tag>
+<XML_Serializer_Tag>... Akunin-Čchartišvili</XML_Serializer_Tag>
+<XML_Serializer_Tag>Chkhartishvili Grigoriĭ Shalvovich</XML_Serializer_Tag>
+<XML_Serializer_Tag>Grigorij Czchartiszwili</XML_Serializer_Tag>
+</variantName>
+<thumbnail>https://commons.wikimedia.org/wiki/Special:FilePath/Akunin,_Boriss.IMG_3646.JPG?width=270</thumbnail>
+<birthEN>1956</birthEN>
+<birthDE>1956</birthDE>
+<deathEN />
+<deathDE />
+<birthPlace />
+<deathPlace />
+<professionOrOccupation>
+<XML_Serializer_Tag>Schriftsteller</XML_Serializer_Tag>
+<XML_Serializer_Tag>Übersetzer</XML_Serializer_Tag>
+<XML_Serializer_Tag>Kritiker</XML_Serializer_Tag>
+</professionOrOccupation>
+<dbpResource>http://dbpedia.org/resource/Boris_Akunin</dbpResource>
+<abstract>Boris Akunin (russisch Борис Акунин) ist das Pseudonym von Grigori Schalwowitsch Tschchartischwili (georgisch გრიგოლ შალვას ძე ჩხარტიშვილი, russ. Григо́рий Ша́лвович Чхартишви́ли; * 20. Mai 1956 in Tiflis, Georgische SSR), einem russischen Japanologen, Literaturwissenschaftler, Übersetzer und Kriminalschriftsteller georgischer Abstammung, der in den 1990er Jahren zum führenden Genreautor in Russland wurde.</abstract>
+<wikilink>http://en.wikipedia.org/wiki/Boris_Akunin?oldid=603331916</wikilink>
+<artworks />
+<buildings />
+<books>
+<XML_Serializer_Tag>
+<book>
+<type>uri</type>
+<value>http://dbpedia.org/resource/The_Death_of_Achilles</value>
+</book>
+<author>
+<type>uri</type>
+<value>http://dbpedia.org/resource/Boris_Akunin</value>
+</author>
+<thumbnail>
+<type>uri</type>
+<value>http://commons.wikimedia.org/wiki/Special:FilePath/General_Skobelev_(Dimitriev-Orenburgsky).jpg?width=300</value>
+</thumbnail>
+<released>
+<type>typed-literal</type>
+<datatype>http://www.w3.org/2001/XMLSchema#integer</datatype>
+<value>19982005</value>
+</released>
+<wikilink>
+<type>uri</type>
+<value>http://en.wikipedia.org/wiki/The_Death_of_Achilles?oldid=590609447</value>
+</wikilink>
+</XML_Serializer_Tag>
+<XML_Serializer_Tag>
+<book>
+<type>uri</type>
+<value>http://dbpedia.org/resource/The_Coronation_(novel)</value>
+</book>
+<author>
+<type>uri</type>
+<value>http://dbpedia.org/resource/Boris_Akunin</value>
+</author>
+<thumbnail>
+<type>uri</type>
+<value>http://commons.wikimedia.org/wiki/Special:FilePath/SerovV_MiropomazanNikolAlek.jpg?width=300</value>
+</thumbnail>
+<released>
+<type>typed-literal</type>
+<datatype>http://www.w3.org/2001/XMLSchema#integer</datatype>
+<value>2000</value>
+</released>
+<wikilink>
+<type>uri</type>
+<value>http://en.wikipedia.org/wiki/The_Coronation_(novel)?oldid=581988242</value>
+</wikilink>
+</XML_Serializer_Tag>
+<XML_Serializer_Tag>
+<book>
+<type>uri</type>
+<value>http://dbpedia.org/resource/Murder_on_the_Leviathan</value>
+</book>
+<author>
+<type>uri</type>
+<value>http://dbpedia.org/resource/Boris_Akunin</value>
+</author>
+<released>
+<type>typed-literal</type>
+<datatype>http://www.w3.org/2001/XMLSchema#integer</datatype>
+<value>1998</value>
+</released>
+<wikilink>
+<type>uri</type>
+<value>http://en.wikipedia.org/wiki/Murder_on_the_Leviathan?oldid=606641070</value>
+</wikilink>
+</XML_Serializer_Tag>
+<XML_Serializer_Tag>
+<book>
+<type>uri</type>
+<value>http://dbpedia.org/resource/The_Diamond_Chariot</value>
+</book>
+<author>
+<type>uri</type>
+<value>http://dbpedia.org/resource/Boris_Akunin</value>
+</author>
+<released>
+<type>typed-literal</type>
+<datatype>http://www.w3.org/2001/XMLSchema#integer</datatype>
+<value>2003</value>
+</released>
+<wikilink>
+<type>uri</type>
+<value>http://en.wikipedia.org/wiki/The_Diamond_Chariot?oldid=601803861</value>
+</wikilink>
+</XML_Serializer_Tag>
+<XML_Serializer_Tag>
+<book>
+<type>uri</type>
+<value>http://dbpedia.org/resource/F.M._(novel)</value>
+</book>
+<author>
+<type>uri</type>
+<value>http://dbpedia.org/resource/Boris_Akunin</value>
+</author>
+<released>
+<type>typed-literal</type>
+<datatype>http://www.w3.org/2001/XMLSchema#integer</datatype>
+<value>2006</value>
+</released>
+<wikilink>
+<type>uri</type>
+<value>http://en.wikipedia.org/wiki/F.M._(novel)?oldid=544378654</value>
+</wikilink>
+</XML_Serializer_Tag>
+<XML_Serializer_Tag>
+<book>
+<type>uri</type>
+<value>http://dbpedia.org/resource/The_Winter_Queen_(novel)</value>
+</book>
+<author>
+<type>uri</type>
+<value>http://dbpedia.org/resource/Boris_Akunin</value>
+</author>
+<released>
+<type>typed-literal</type>
+<datatype>http://www.w3.org/2001/XMLSchema#integer</datatype>
+<value>1998</value>
+</released>
+<wikilink>
+<type>uri</type>
+<value>http://en.wikipedia.org/wiki/The_Winter_Queen_(novel)?oldid=606648013</value>
+</wikilink>
+</XML_Serializer_Tag>
+<XML_Serializer_Tag>
+<book>
+<type>uri</type>
+<value>http://dbpedia.org/resource/The_Turkish_Gambit</value>
+</book>
+<author>
+<type>uri</type>
+<value>http://dbpedia.org/resource/Boris_Akunin</value>
+</author>
+<wikilink>
+<type>uri</type>
+<value>http://en.wikipedia.org/wiki/The_Turkish_Gambit?oldid=606648105</value>
+</wikilink>
+<abstract>
+<type>literal</type>
+<xml:lang>de</xml:lang>
+<value>Türkisches Gambit ist der zweite Fandorin-Roman von Boris Akunin. Der Titel des Romans ist eine Anlehnung an das Gambit, einer Eröffnung im Schach.</value>
+</abstract>
+</XML_Serializer_Tag>
+<XML_Serializer_Tag>
+<book>
+<type>uri</type>
+<value>http://dbpedia.org/resource/The_State_Counsellor</value>
+</book>
+<author>
+<type>uri</type>
+<value>http://dbpedia.org/resource/Boris_Akunin</value>
+</author>
+<wikilink>
+<type>uri</type>
+<value>http://en.wikipedia.org/wiki/The_State_Counsellor?oldid=606648262</value>
+</wikilink>
+</XML_Serializer_Tag>
+<XML_Serializer_Tag>
+<book>
+<type>uri</type>
+<value>http://dbpedia.org/resource/She_Lover_of_Death</value>
+</book>
+<author>
+<type>uri</type>
+<value>http://dbpedia.org/resource/Boris_Akunin</value>
+</author>
+<wikilink>
+<type>uri</type>
+<value>http://en.wikipedia.org/wiki/She_Lover_of_Death?oldid=601995369</value>
+</wikilink>
+</XML_Serializer_Tag>
+<XML_Serializer_Tag>
+<book>
+<type>uri</type>
+<value>http://dbpedia.org/resource/Special_Assignments</value>
+</book>
+<author>
+<type>uri</type>
+<value>http://dbpedia.org/resource/Boris_Akunin</value>
+</author>
+<wikilink>
+<type>uri</type>
+<value>http://en.wikipedia.org/wiki/Special_Assignments?oldid=581988020</value>
+</wikilink>
+</XML_Serializer_Tag>
+</books>
+</Person>

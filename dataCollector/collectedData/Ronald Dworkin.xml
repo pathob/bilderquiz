@@ -1,0 +1,45 @@
+<Person>
+<name>Ronald Dworkin</name>
+<variantName>
+<XML_Serializer_Tag>Ronald M. Dworkin</XML_Serializer_Tag>
+<XML_Serializer_Tag>Ronald Myles Dworkin</XML_Serializer_Tag>
+<XML_Serializer_Tag>Ronalʹd Dvorkin</XML_Serializer_Tag>
+<XML_Serializer_Tag>Ronald Duorkin</XML_Serializer_Tag>
+</variantName>
+<thumbnail>https://commons.wikimedia.org/wiki/Special:FilePath/Ronald_Dworkin_at_the_Brooklyn_Book_Festival.jpg?width=270</thumbnail>
+<birthEN>December 11, 1931</birthEN>
+<birthDE>11. Dezember 1931</birthDE>
+<deathEN>February 14, 2013</deathEN>
+<deathDE>14. Februar 2013</deathDE>
+<birthPlace>
+<XML_Serializer_Tag>Worcester, Mass.</XML_Serializer_Tag>
+</birthPlace>
+<deathPlace>
+<XML_Serializer_Tag>London</XML_Serializer_Tag>
+</deathPlace>
+<professionOrOccupation>
+<XML_Serializer_Tag>Jurist</XML_Serializer_Tag>
+<XML_Serializer_Tag>Philosoph</XML_Serializer_Tag>
+</professionOrOccupation>
+<dbpResource>http://dbpedia.org/resource/Ronald_Dworkin</dbpResource>
+<abstract>Ronald M. Dworkin (* 11. Dezember 1931 in Worcester, Massachusetts; † 14. Februar 2013 in London) war ein US-amerikanischer Philosoph, der in erster Linie durch seine Beiträge zur Rechtsphilosophie, politischen Philosophie und Moralphilosophie bekannt ist. Seine Theorie des law as integrity gehört zu den anerkannten zeitgenössischen Theorien über die Natur des Rechts.</abstract>
+<wikilink>http://en.wikipedia.org/wiki/Ronald_Dworkin?oldid=604902682</wikilink>
+<artworks />
+<buildings />
+<books>
+<XML_Serializer_Tag>
+<book>
+<type>uri</type>
+<value>http://dbpedia.org/resource/Taking_Rights_Seriously</value>
+</book>
+<author>
+<type>uri</type>
+<value>http://dbpedia.org/resource/Ronald_Dworkin</value>
+</author>
+<wikilink>
+<type>uri</type>
+<value>http://en.wikipedia.org/wiki/Taking_Rights_Seriously?oldid=596286023</value>
+</wikilink>
+</XML_Serializer_Tag>
+</books>
+</Person>

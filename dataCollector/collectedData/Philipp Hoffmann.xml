@@ -1,0 +1,54 @@
+<Person>
+<name>Philipp Hoffmann</name>
+<variantName />
+<thumbnail>https://commons.wikimedia.org/wiki/Special:FilePath/Russische_Kirche_Wiesbaden2.jpg?width=270</thumbnail>
+<birthEN>1806</birthEN>
+<birthDE>1806</birthDE>
+<deathEN>1889</deathEN>
+<deathDE>1889</deathDE>
+<birthPlace />
+<deathPlace />
+<professionOrOccupation>
+<XML_Serializer_Tag>Architekt</XML_Serializer_Tag>
+<XML_Serializer_Tag>Oberbaurat</XML_Serializer_Tag>
+</professionOrOccupation>
+<dbpResource>http://dbpedia.org/resource/Philipp_Hoffmann_(architect)</dbpResource>
+<abstract>Philipp Hoffmann (* 23. November 1806 in Geisenheim; † 3. Januar 1889 in San Remo) war ein Architekt und Stadtbaumeister, der vor allem in der nassauischen Residenz Wiesbaden tätig war.</abstract>
+<wikilink>http://en.wikipedia.org/wiki/Philipp_Hoffmann_(architect)?oldid=601988136</wikilink>
+<artworks />
+<buildings>
+<XML_Serializer_Tag>
+<building>
+<type>uri</type>
+<value>http://dbpedia.org/resource/St._Bonifatius,_Wiesbaden</value>
+</building>
+<name>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>St. Bonifatius</value>
+</name>
+<architect>
+<type>uri</type>
+<value>http://dbpedia.org/resource/Philipp_Hoffmann_(architect)</value>
+</architect>
+<thumbnail>
+<type>uri</type>
+<value>http://commons.wikimedia.org/wiki/Special:FilePath/BD_20100423-Bonifatiuskirche-A0065.jpg?width=300</value>
+</thumbnail>
+<wikilink>
+<type>uri</type>
+<value>http://en.wikipedia.org/wiki/St._Bonifatius,_Wiesbaden?oldid=590505144</value>
+</wikilink>
+<location>
+<type>uri</type>
+<value>http://dbpedia.org/resource/Wiesbaden</value>
+</location>
+<abstract>
+<type>literal</type>
+<xml:lang>de</xml:lang>
+<value>Die Kirche St. Bonifatius in der hessischen Landeshauptstadt Wiesbaden ist die katholische Hauptkirche der Stadt. Sie ist dem heiligen Bonifatius geweiht. Die in den Jahren 1844 bis 1849 von Philipp Hoffmann errichtete neogotische dreischiffige Hallenkirche beherrscht mit ihren beiden 68 m hohen Türmen die klassizistische Anlage des Luisenplatzes.</value>
+</abstract>
+</XML_Serializer_Tag>
+</buildings>
+<books />
+</Person>

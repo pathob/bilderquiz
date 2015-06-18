@@ -1,0 +1,41 @@
+<Person>
+<name>Achim von Arnim</name>
+<variantName>
+<XML_Serializer_Tag>Ludwig J. von Arnim</XML_Serializer_Tag>
+<XML_Serializer_Tag>Ludwig A. von Arnim</XML_Serializer_Tag>
+<XML_Serializer_Tag>Ludwig Joachim von Arnim</XML_Serializer_Tag>
+<XML_Serializer_Tag>Ludwig Achim von Arnim</XML_Serializer_Tag>
+<XML_Serializer_Tag>Ludwig Achim Arnim</XML_Serializer_Tag>
+<XML_Serializer_Tag>Ludwig von Arnim</XML_Serializer_Tag>
+<XML_Serializer_Tag>Achim Ludwig von Arnim</XML_Serializer_Tag>
+<XML_Serializer_Tag>Joachim Ludwig Arnim</XML_Serializer_Tag>
+<XML_Serializer_Tag>... Arnim-Brentano</XML_Serializer_Tag>
+<XML_Serializer_Tag>Karl J. von Arnim</XML_Serializer_Tag>
+<XML_Serializer_Tag>Karl Joachim Friedrich Ludwig von Arnim</XML_Serializer_Tag>
+<XML_Serializer_Tag>Carl Joachim Friedrich Ludwig von Arnim</XML_Serializer_Tag>
+<XML_Serializer_Tag>L. Achim von Arnim</XML_Serializer_Tag>
+<XML_Serializer_Tag>Achim phon Arnim</XML_Serializer_Tag>
+</variantName>
+<thumbnail>https://commons.wikimedia.org/wiki/Special:FilePath/Ludwig_Achim_von_Arnim.jpg?width=270</thumbnail>
+<birthEN>January 26, 1781</birthEN>
+<birthDE>26. Januar 1781</birthDE>
+<deathEN>January 21, 1831</deathEN>
+<deathDE>21. Januar 1831</deathDE>
+<birthPlace>
+<XML_Serializer_Tag>Berlin</XML_Serializer_Tag>
+</birthPlace>
+<deathPlace>
+<XML_Serializer_Tag>Wiepersdorf (Landkreis Teltow-Fläming)</XML_Serializer_Tag>
+</deathPlace>
+<professionOrOccupation>
+<XML_Serializer_Tag>Liederdichter</XML_Serializer_Tag>
+<XML_Serializer_Tag>Dramatiker</XML_Serializer_Tag>
+<XML_Serializer_Tag>Schriftsteller</XML_Serializer_Tag>
+</professionOrOccupation>
+<dbpResource>http://dbpedia.org/resource/Ludwig_Achim_von_Arnim</dbpResource>
+<abstract>Achim von Arnim (eigentlich Carl Joachim Friedrich Ludwig von Arnim; * 26. Januar 1781 in Berlin; † 21. Januar 1831 in Wiepersdorf, Kreis Jüterbog) war ein deutscher Schriftsteller. Neben Clemens Brentano und Joseph von Eichendorff gilt er als wichtigster Vertreter der Heidelberger Romantik.</abstract>
+<wikilink>http://en.wikipedia.org/wiki/Ludwig_Achim_von_Arnim?oldid=580822693</wikilink>
+<artworks />
+<buildings />
+<books />
+</Person>

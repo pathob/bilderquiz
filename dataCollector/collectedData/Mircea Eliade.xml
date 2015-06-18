@@ -1,0 +1,143 @@
+<Person>
+<name>Mircea Eliade</name>
+<variantName>
+<XML_Serializer_Tag>Mirča Elijade</XML_Serializer_Tag>
+<XML_Serializer_Tag>Mirsea Eliant</XML_Serializer_Tag>
+<XML_Serializer_Tag>Mircae Eliade</XML_Serializer_Tag>
+<XML_Serializer_Tag>Mi&apos;erqia-Yiliyade</XML_Serializer_Tag>
+<XML_Serializer_Tag>Mi&apos;erqia Yiliyade</XML_Serializer_Tag>
+<XML_Serializer_Tag>Mirca Ėliade</XML_Serializer_Tag>
+<XML_Serializer_Tag>Mīrčā Iliyāda</XML_Serializer_Tag>
+</variantName>
+<thumbnail>https://commons.wikimedia.org/wiki/Special:FilePath/Stamp_of_Moldova_038.jpg?width=270</thumbnail>
+<birthEN>March 8, 1907</birthEN>
+<birthDE>8. März 1907</birthDE>
+<deathEN>April 22, 1986</deathEN>
+<deathDE>22. April 1986</deathDE>
+<birthPlace>
+<XML_Serializer_Tag>Bukarest</XML_Serializer_Tag>
+</birthPlace>
+<deathPlace>
+<XML_Serializer_Tag>Chicago, Ill.</XML_Serializer_Tag>
+</deathPlace>
+<professionOrOccupation>
+<XML_Serializer_Tag>Religionswissenschaftler</XML_Serializer_Tag>
+<XML_Serializer_Tag>Indologe</XML_Serializer_Tag>
+<XML_Serializer_Tag>Schriftsteller</XML_Serializer_Tag>
+<XML_Serializer_Tag>Philosoph</XML_Serializer_Tag>
+</professionOrOccupation>
+<dbpResource>http://dbpedia.org/resource/Mircea_Eliade</dbpResource>
+<abstract>Mircea Eliade [ˈmirtʃa eliˈade] (* 24. Februarjul./ 9. März 1907greg. in Bukarest; † 22. April 1986 in Chicago) war ein rumänischer Religionswissenschaftler, Philosoph und Schriftsteller.</abstract>
+<wikilink>http://en.wikipedia.org/wiki/Mircea_Eliade?oldid=604916452</wikilink>
+<artworks />
+<buildings />
+<books>
+<XML_Serializer_Tag>
+<book>
+<type>uri</type>
+<value>http://dbpedia.org/resource/Bengal_Nights</value>
+</book>
+<author>
+<type>uri</type>
+<value>http://dbpedia.org/resource/Mircea_Eliade</value>
+</author>
+<thumbnail>
+<type>uri</type>
+<value>http://commons.wikimedia.org/wiki/Special:FilePath/Flag_of_Esperanto.svg?width=300</value>
+</thumbnail>
+<released>
+<type>typed-literal</type>
+<datatype>http://www.w3.org/2001/XMLSchema#integer</datatype>
+<value>1933</value>
+</released>
+<wikilink>
+<type>uri</type>
+<value>http://en.wikipedia.org/wiki/Bengal_Nights?oldid=596067439</value>
+</wikilink>
+</XML_Serializer_Tag>
+<XML_Serializer_Tag>
+<book>
+<type>uri</type>
+<value>http://dbpedia.org/resource/The_Secret_of_Dr._Honigberger</value>
+</book>
+<author>
+<type>uri</type>
+<value>http://dbpedia.org/resource/Mircea_Eliade</value>
+</author>
+<thumbnail>
+<type>uri</type>
+<value>http://commons.wikimedia.org/wiki/Special:FilePath/Johann_Martin_Honigberger.jpg?width=300</value>
+</thumbnail>
+<wikilink>
+<type>uri</type>
+<value>http://en.wikipedia.org/wiki/The_Secret_of_Dr._Honigberger?oldid=586914872</value>
+</wikilink>
+</XML_Serializer_Tag>
+<XML_Serializer_Tag>
+<book>
+<type>uri</type>
+<value>http://dbpedia.org/resource/Youth_Without_Youth_(novella)</value>
+</book>
+<author>
+<type>uri</type>
+<value>http://dbpedia.org/resource/Mircea_Eliade</value>
+</author>
+<published>
+<type>typed-literal</type>
+<datatype>http://www.w3.org/2001/XMLSchema#integer</datatype>
+<value>2007</value>
+</published>
+<wikilink>
+<type>uri</type>
+<value>http://en.wikipedia.org/wiki/Youth_Without_Youth_(novella)?oldid=586648571</value>
+</wikilink>
+</XML_Serializer_Tag>
+<XML_Serializer_Tag>
+<book>
+<type>uri</type>
+<value>http://dbpedia.org/resource/The_Old_Man_and_the_Bureaucrats</value>
+</book>
+<author>
+<type>uri</type>
+<value>http://dbpedia.org/resource/Mircea_Eliade</value>
+</author>
+<wikilink>
+<type>uri</type>
+<value>http://en.wikipedia.org/wiki/The_Old_Man_and_the_Bureaucrats?oldid=576247680</value>
+</wikilink>
+<abstract>
+<type>literal</type>
+<xml:lang>de</xml:lang>
+<value>Auf der Mântuleasa-Straße (rumänisch: „Pe strada Mantuleasa“) ist ein von Mircea Eliade verfasster Roman aus dem Jahr 1967.</value>
+</abstract>
+</XML_Serializer_Tag>
+<XML_Serializer_Tag>
+<book>
+<type>uri</type>
+<value>http://dbpedia.org/resource/The_Forbidden_Forest</value>
+</book>
+<author>
+<type>uri</type>
+<value>http://dbpedia.org/resource/Mircea_Eliade</value>
+</author>
+<wikilink>
+<type>uri</type>
+<value>http://en.wikipedia.org/wiki/The_Forbidden_Forest?oldid=568698075</value>
+</wikilink>
+</XML_Serializer_Tag>
+<XML_Serializer_Tag>
+<book>
+<type>uri</type>
+<value>http://dbpedia.org/resource/Shamanism:_Archaic_Techniques_of_Ecstasy</value>
+</book>
+<author>
+<type>uri</type>
+<value>http://dbpedia.org/resource/Mircea_Eliade</value>
+</author>
+<wikilink>
+<type>uri</type>
+<value>http://en.wikipedia.org/wiki/Shamanism:_Archaic_Techniques_of_Ecstasy?oldid=589346447</value>
+</wikilink>
+</XML_Serializer_Tag>
+</books>
+</Person>

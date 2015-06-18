@@ -1,0 +1,27 @@
+<Person>
+<name>Cesare Pavese</name>
+<variantName>
+<XML_Serializer_Tag>Čezare Paveze</XML_Serializer_Tag>
+<XML_Serializer_Tag>Chezare Paveze</XML_Serializer_Tag>
+</variantName>
+<thumbnail>https://commons.wikimedia.org/wiki/Special:FilePath/Cesare_pavese.jpg?width=270</thumbnail>
+<birthEN>September 9, 1908</birthEN>
+<birthDE>9. September 1908</birthDE>
+<deathEN>August 27, 1950</deathEN>
+<deathDE>27. August 1950</deathDE>
+<birthPlace>
+<XML_Serializer_Tag>Santo Stefano Belbo</XML_Serializer_Tag>
+</birthPlace>
+<deathPlace>
+<XML_Serializer_Tag>Turin</XML_Serializer_Tag>
+</deathPlace>
+<professionOrOccupation>
+<XML_Serializer_Tag>Schriftsteller</XML_Serializer_Tag>
+</professionOrOccupation>
+<dbpResource>http://dbpedia.org/resource/Cesare_Pavese</dbpResource>
+<abstract>Cesare Pavese (* 9. September 1908 in Santo Stefano Belbo; † 27. August 1950 in Turin) war ein italienischer Schriftsteller.</abstract>
+<wikilink>http://en.wikipedia.org/wiki/Cesare_Pavese?oldid=605012665</wikilink>
+<artworks />
+<buildings />
+<books />
+</Person>

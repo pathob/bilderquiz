@@ -1,0 +1,24 @@
+<Person>
+<name>Gabriel Wagner</name>
+<variantName>
+<XML_Serializer_Tag>Realis, de Vienna</XML_Serializer_Tag>
+<XML_Serializer_Tag>Realis de Vienna</XML_Serializer_Tag>
+</variantName>
+<thumbnail>https://commons.wikimedia.org/wiki/Special:FilePath/Discursusetdubia.jpg?width=270</thumbnail>
+<birthEN>1660</birthEN>
+<birthDE>1660</birthDE>
+<deathEN>1717</deathEN>
+<deathDE>1717</deathDE>
+<birthPlace />
+<deathPlace />
+<professionOrOccupation>
+<XML_Serializer_Tag>Jurist</XML_Serializer_Tag>
+<XML_Serializer_Tag>Philosoph</XML_Serializer_Tag>
+</professionOrOccupation>
+<dbpResource>http://dbpedia.org/resource/Gabriel_Wagner</dbpResource>
+<abstract>Gabriel Wagner (* wohl um 1660 in Quedlinburg; † um 1717) war ein deutscher Philosoph, Mathematiker und Naturwissenschaftler.Wagner war Freidenker in der deutschen Aufklärung und trat für eine strenge Trennung von Philosophie und Theologie ein. Ferner war er für die Befreiung vom Aristotelismus und bekannte sich zum Eklektizismus.</abstract>
+<wikilink>http://en.wikipedia.org/wiki/Gabriel_Wagner?oldid=601076796</wikilink>
+<artworks />
+<buildings />
+<books />
+</Person>

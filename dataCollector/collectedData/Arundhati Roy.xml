@@ -1,0 +1,75 @@
+<Person>
+<name>Arundhati Roy</name>
+<variantName>
+<XML_Serializer_Tag>Suzanne Arundhati Roy</XML_Serializer_Tag>
+<XML_Serializer_Tag>Arundhati Roy</XML_Serializer_Tag>
+<XML_Serializer_Tag>Aruntati Raȳ</XML_Serializer_Tag>
+<XML_Serializer_Tag>Aruntati Raȳ</XML_Serializer_Tag>
+<XML_Serializer_Tag>Arundhati Rôya</XML_Serializer_Tag>
+<XML_Serializer_Tag>Arundhati Rāya</XML_Serializer_Tag>
+<XML_Serializer_Tag>Arundhati Rāẏa</XML_Serializer_Tag>
+</variantName>
+<thumbnail>https://commons.wikimedia.org/wiki/Special:FilePath/Arundhati_Roy.jpg?width=270</thumbnail>
+<birthEN>1961</birthEN>
+<birthDE>1961</birthDE>
+<deathEN />
+<deathDE />
+<birthPlace>
+<XML_Serializer_Tag>Shillong, Meghalaya</XML_Serializer_Tag>
+</birthPlace>
+<deathPlace />
+<professionOrOccupation>
+<XML_Serializer_Tag>Schriftstellerin</XML_Serializer_Tag>
+<XML_Serializer_Tag>Drehbuchautorin</XML_Serializer_Tag>
+<XML_Serializer_Tag>Filmschauspielerin</XML_Serializer_Tag>
+</professionOrOccupation>
+<dbpResource>http://dbpedia.org/resource/Arundhati_Roy</dbpResource>
+<abstract>Suzanna Arundhati Roy (* 24. November 1961 in Shillong, Meghalaya) ist eine indische Schriftstellerin, politische Aktivistin und Globalisierungskritikerin. Ihr literarisches Werk umfasst den Roman „Der Gott der kleinen Dinge“, mehrere politische Sachbücher und zahlreiche Essays .</abstract>
+<wikilink>http://en.wikipedia.org/wiki/Arundhati_Roy?oldid=606563425</wikilink>
+<artworks />
+<buildings />
+<books>
+<XML_Serializer_Tag>
+<book>
+<type>uri</type>
+<value>http://dbpedia.org/resource/The_God_of_Small_Things</value>
+</book>
+<author>
+<type>uri</type>
+<value>http://dbpedia.org/resource/Arundhati_Roy</value>
+</author>
+<thumbnail>
+<type>uri</type>
+<value>http://en.wikipedia.org/wiki/Special:FilePath/Arundhati_Roy_W.jpg?width=300</value>
+</thumbnail>
+<released>
+<type>typed-literal</type>
+<datatype>http://www.w3.org/2001/XMLSchema#integer</datatype>
+<value>1997</value>
+</released>
+<wikilink>
+<type>uri</type>
+<value>http://en.wikipedia.org/wiki/The_God_of_Small_Things?oldid=606565534</value>
+</wikilink>
+<abstract>
+<type>literal</type>
+<xml:lang>de</xml:lang>
+<value>„Der Gott der kleinen Dinge“ ist ein halb-autobiografisches Buch der indischen Schriftstellerin und politischen Aktivistin Arundhati Roy. Es ist ihr bislang einziger Roman.Am 4. April 1997 erschien in Neu-Delhi die englische Fassung des Buchs unter dem Titel „The God of Small Things“; 1999 folgte die deutsche Übersetzung.Seit der Roman 1997 den Booker-Preis gewonnen hat, nutzt Arundhati Roy ihre Bekanntheit, um auf soziale, ökologische und politische Themen aufmerksam zu machen. Das Booker-Preisgeld und die Tantiemen an einigen Auflagen ihres Romans in indischen Sprachen stellte die Autorin der Bürgerrechtsbewegung gegen den Narmada-Staudamm zur Verfügung – auch nachfolgende Preisgelder stiftete sie mehrheitlich für soziale Anliegen und Projekte.</value>
+</abstract>
+</XML_Serializer_Tag>
+<XML_Serializer_Tag>
+<book>
+<type>uri</type>
+<value>http://dbpedia.org/resource/Kashmir:_The_Case_for_Freedom</value>
+</book>
+<author>
+<type>uri</type>
+<value>http://dbpedia.org/resource/Arundhati_Roy</value>
+</author>
+<wikilink>
+<type>uri</type>
+<value>http://en.wikipedia.org/wiki/Kashmir:_The_Case_for_Freedom?oldid=587570448</value>
+</wikilink>
+</XML_Serializer_Tag>
+</books>
+</Person>

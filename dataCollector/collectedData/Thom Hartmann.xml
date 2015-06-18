@@ -1,0 +1,26 @@
+<Person>
+<name>Thom Hartmann</name>
+<variantName>
+<XML_Serializer_Tag>Thomas Hartmann</XML_Serializer_Tag>
+</variantName>
+<thumbnail>https://commons.wikimedia.org/wiki/Special:FilePath/Thom_Hartmann_at_Santa_Fe,_2004.jpg?width=270</thumbnail>
+<birthEN>1951</birthEN>
+<birthDE>1951</birthDE>
+<deathEN />
+<deathDE />
+<birthPlace>
+<XML_Serializer_Tag>Lansing, Michigan</XML_Serializer_Tag>
+</birthPlace>
+<deathPlace />
+<professionOrOccupation>
+<XML_Serializer_Tag>Psychotherapeut</XML_Serializer_Tag>
+<XML_Serializer_Tag>Journalist</XML_Serializer_Tag>
+<XML_Serializer_Tag>Autor</XML_Serializer_Tag>
+</professionOrOccupation>
+<dbpResource>http://dbpedia.org/resource/Thom_Hartmann</dbpResource>
+<abstract>Thom Hartmann (* 1951 in Lansing, Michigan) ist ein US-amerikanischer Journalist und Autor.</abstract>
+<wikilink>http://en.wikipedia.org/wiki/Thom_Hartmann?oldid=606419106</wikilink>
+<artworks />
+<buildings />
+<books />
+</Person>

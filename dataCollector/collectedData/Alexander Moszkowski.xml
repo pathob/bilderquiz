@@ -1,0 +1,27 @@
+<Person>
+<name>Alexander Moszkowski</name>
+<variantName>
+<XML_Serializer_Tag>A. Moszkowski</XML_Serializer_Tag>
+</variantName>
+<thumbnail>https://commons.wikimedia.org/wiki/Special:FilePath/Alexander_Moszkowski.jpg?width=270</thumbnail>
+<birthEN>January 15, 1851</birthEN>
+<birthDE>15. Januar 1851</birthDE>
+<deathEN>September 26, 1934</deathEN>
+<deathDE>26. September 1934</deathDE>
+<birthPlace>
+<XML_Serializer_Tag>Pilica</XML_Serializer_Tag>
+</birthPlace>
+<deathPlace>
+<XML_Serializer_Tag>Berlin</XML_Serializer_Tag>
+</deathPlace>
+<professionOrOccupation>
+<XML_Serializer_Tag>Redakteur</XML_Serializer_Tag>
+<XML_Serializer_Tag>Schriftsteller</XML_Serializer_Tag>
+</professionOrOccupation>
+<dbpResource>http://dbpedia.org/resource/Alexander_Moszkowski</dbpResource>
+<abstract>Alexander Moszkowski (* 15. Januar 1851 in Pilica; † 26. September 1934 in Berlin) war ein deutscher Schriftsteller und Satiriker polnischer Herkunft. Er ist der Bruder des Komponisten und Pianisten Moritz Moszkowski.</abstract>
+<wikilink>http://en.wikipedia.org/wiki/Alexander_Moszkowski?oldid=597482789</wikilink>
+<artworks />
+<buildings />
+<books />
+</Person>

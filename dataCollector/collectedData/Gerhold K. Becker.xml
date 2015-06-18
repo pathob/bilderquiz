@@ -1,0 +1,25 @@
+<Person>
+<name>Gerhold K. Becker</name>
+<variantName>
+<XML_Serializer_Tag>Gerhold Becker</XML_Serializer_Tag>
+</variantName>
+<thumbnail>https://commons.wikimedia.org/wiki/Special:FilePath/Gerhold_K._Becker.jpg?width=270</thumbnail>
+<birthEN>1943</birthEN>
+<birthDE>1943</birthDE>
+<deathEN />
+<deathDE />
+<birthPlace>
+<XML_Serializer_Tag>Bad Salzschlirf</XML_Serializer_Tag>
+</birthPlace>
+<deathPlace />
+<professionOrOccupation>
+<XML_Serializer_Tag>Philosoph</XML_Serializer_Tag>
+<XML_Serializer_Tag>Theologe</XML_Serializer_Tag>
+</professionOrOccupation>
+<dbpResource>http://dbpedia.org/resource/Gerhold_K._Becker</dbpResource>
+<abstract>Gerhold K. Becker (* 22. Juli 1943 in Bad Salzschlirf, Hessen) ist ein deutscher Philosoph.</abstract>
+<wikilink>http://en.wikipedia.org/wiki/Gerhold_K._Becker?oldid=598671380</wikilink>
+<artworks />
+<buildings />
+<books />
+</Person>

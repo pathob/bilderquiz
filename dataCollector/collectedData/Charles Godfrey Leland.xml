@@ -1,0 +1,49 @@
+<Person>
+<name>Charles Godfrey Leland</name>
+<variantName>
+<XML_Serializer_Tag>Charles-Godfrey Leland</XML_Serializer_Tag>
+<XML_Serializer_Tag>Charles G. Leland</XML_Serializer_Tag>
+<XML_Serializer_Tag>Hans Breitmann</XML_Serializer_Tag>
+<XML_Serializer_Tag>Charles Godfrey Leland</XML_Serializer_Tag>
+</variantName>
+<thumbnail>https://commons.wikimedia.org/wiki/Special:FilePath/Charles_Godfrey_Leland_portrait.jpg?width=270</thumbnail>
+<birthEN>1824</birthEN>
+<birthDE>1824</birthDE>
+<deathEN>1903</deathEN>
+<deathDE>1903</deathDE>
+<birthPlace />
+<deathPlace />
+<professionOrOccupation>
+<XML_Serializer_Tag>Schriftsteller</XML_Serializer_Tag>
+</professionOrOccupation>
+<dbpResource>http://dbpedia.org/resource/Charles_Godfrey_Leland</dbpResource>
+<abstract>Charles Godfrey Leland (* 15. August 1824 in Philadelphia; † 20. März 1903 in Florenz) war ein amerikanischer Abenteurer, Künstler, Dichter, Kritiker,Folklorist, Mythenforscher, Philologe, Archäologe, Journalist, Humorist, Columnist, Soldat, Herausgeber, Reformer und Erzieher.Er wurde in Philadelphia, Pennsylvania, geboren und studierte an der Princeton University sowie in Heidelberg und München. Leland arbeitete als Journalist, reiste intensiv und war interessiert an Folklore und Linguistik, veröffentlichte Bücher und Artikel über amerikanische und europäische Sprachen und folkloristische Traditionen. Leland veröffentlichte über 24 Bücher, war als Autor der Komödie Hans Breitmann Ballade bekannt, hatte an zwei militärischen Konflikten aktiv teilgenommen und das Buch Aradia - Die Lehren der Hexen geschrieben. Dieses Buch ist die Urquelle des rund 50 Jahre später auftretenden Neopaganismus und hat die englische Literatur, insbesondere Gerald Gardner, zum Thema Hexen und Wicca maßgebend beeinflusst.</abstract>
+<wikilink>http://en.wikipedia.org/wiki/Charles_Godfrey_Leland?oldid=605887416</wikilink>
+<artworks />
+<buildings />
+<books>
+<XML_Serializer_Tag>
+<book>
+<type>uri</type>
+<value>http://dbpedia.org/resource/Aradia,_or_the_Gospel_of_the_Witches</value>
+</book>
+<author>
+<type>uri</type>
+<value>http://dbpedia.org/resource/Charles_Godfrey_Leland</value>
+</author>
+<thumbnail>
+<type>uri</type>
+<value>http://commons.wikimedia.org/wiki/Special:FilePath/Aradia-title-page.jpg?width=300</value>
+</thumbnail>
+<published>
+<type>typed-literal</type>
+<datatype>http://www.w3.org/2001/XMLSchema#integer</datatype>
+<value>1899</value>
+</published>
+<wikilink>
+<type>uri</type>
+<value>http://en.wikipedia.org/wiki/Aradia,_or_the_Gospel_of_the_Witches?oldid=602391346</value>
+</wikilink>
+</XML_Serializer_Tag>
+</books>
+</Person>

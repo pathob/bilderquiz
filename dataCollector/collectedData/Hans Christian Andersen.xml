@@ -1,0 +1,210 @@
+<Person>
+<name>Hans Christian Andersen</name>
+<variantName>
+<XML_Serializer_Tag>Hans-Christian Andersen</XML_Serializer_Tag>
+<XML_Serializer_Tag>Hans-Chr. Andersen</XML_Serializer_Tag>
+<XML_Serializer_Tag>Hans Christiaan Andersen</XML_Serializer_Tag>
+<XML_Serializer_Tag>Hans Ch. Andersen</XML_Serializer_Tag>
+<XML_Serializer_Tag>Hans C. Andersen</XML_Serializer_Tag>
+<XML_Serializer_Tag>Hans Andersen</XML_Serializer_Tag>
+<XML_Serializer_Tag>Āndarsan</XML_Serializer_Tag>
+<XML_Serializer_Tag>Andersin</XML_Serializer_Tag>
+<XML_Serializer_Tag>Andersen</XML_Serializer_Tag>
+<XML_Serializer_Tag>H. Chr. Andersen</XML_Serializer_Tag>
+<XML_Serializer_Tag>H. Ch. Andersen</XML_Serializer_Tag>
+<XML_Serializer_Tag>Chans Christijan Andersen</XML_Serializer_Tag>
+<XML_Serializer_Tag>Chans Kristian Andersen</XML_Serializer_Tag>
+<XML_Serializer_Tag>Chans K. Andersen</XML_Serializer_Tag>
+<XML_Serializer_Tag>Ch. K. Andersen</XML_Serializer_Tag>
+<XML_Serializer_Tag>Christian Andersen</XML_Serializer_Tag>
+<XML_Serializer_Tag>Chr. Andersen</XML_Serializer_Tag>
+<XML_Serializer_Tag>C. H. Andersen</XML_Serializer_Tag>
+<XML_Serializer_Tag>Gans-Christian Andersen</XML_Serializer_Tag>
+<XML_Serializer_Tag>Gans Christian Andersen</XML_Serializer_Tag>
+<XML_Serializer_Tag>Gans Chrystijan Andersen</XML_Serializer_Tag>
+<XML_Serializer_Tag>Gans C. Andersen</XML_Serializer_Tag>
+<XML_Serializer_Tag>G.-Ch. Andersen</XML_Serializer_Tag>
+<XML_Serializer_Tag>G. Ch. Andersen</XML_Serializer_Tag>
+<XML_Serializer_Tag>Chans Kristian Anderen</XML_Serializer_Tag>
+<XML_Serializer_Tag>G. Andersen</XML_Serializer_Tag>
+<XML_Serializer_Tag>Jan Krystjan Andersen</XML_Serializer_Tag>
+<XML_Serializer_Tag>Johannes C. Andersen</XML_Serializer_Tag>
+<XML_Serializer_Tag>Chans Kristijan Andersen</XML_Serializer_Tag>
+<XML_Serializer_Tag>J. Chr. Andersen</XML_Serializer_Tag>
+<XML_Serializer_Tag>Gans Chrystijan Anderzen</XML_Serializer_Tag>
+<XML_Serializer_Tag>... Andersen-Eversmann</XML_Serializer_Tag>
+<XML_Serializer_Tag>H. C. Anderusen</XML_Serializer_Tag>
+<XML_Serializer_Tag>Anderusen</XML_Serializer_Tag>
+<XML_Serializer_Tag>Hansu Kurisuchan Anderusen</XML_Serializer_Tag>
+<XML_Serializer_Tag>Chans Kristian Antersen</XML_Serializer_Tag>
+<XML_Serializer_Tag>Chans C. Antersen</XML_Serializer_Tag>
+<XML_Serializer_Tag>Hansŭ K&apos;risŭch&apos;an Anterŭsen</XML_Serializer_Tag>
+<XML_Serializer_Tag>Han-si Ke-li-si-di-an An-tu-sheng</XML_Serializer_Tag>
+<XML_Serializer_Tag>X. K. Andersen</XML_Serializer_Tag>
+<XML_Serializer_Tag>Anderson</XML_Serializer_Tag>
+<XML_Serializer_Tag>安徒生</XML_Serializer_Tag>
+</variantName>
+<thumbnail>https://commons.wikimedia.org/wiki/Special:FilePath/HCA_by_Thora_Hallager_1869.jpg?width=270</thumbnail>
+<birthEN>April 2, 1805</birthEN>
+<birthDE>2. April 1805</birthDE>
+<deathEN>August 4, 1875</deathEN>
+<deathDE>4. August 1875</deathDE>
+<birthPlace>
+<XML_Serializer_Tag>Odense</XML_Serializer_Tag>
+</birthPlace>
+<deathPlace>
+<XML_Serializer_Tag>Odense</XML_Serializer_Tag>
+</deathPlace>
+<professionOrOccupation>
+<XML_Serializer_Tag>Schriftsteller</XML_Serializer_Tag>
+</professionOrOccupation>
+<dbpResource>http://dbpedia.org/resource/Hans_Christian_Andersen</dbpResource>
+<abstract>Hans Christian Andersen anhören?/i (* 2. April 1805 in Odense; † 4. August 1875 in Kopenhagen) ist der bekannteste Dichter und Schriftsteller Dänemarks. Berühmt wurde er durch seine zahlreichen Märchen.</abstract>
+<wikilink>http://en.wikipedia.org/wiki/Hans_Christian_Andersen?oldid=606536200</wikilink>
+<artworks />
+<buildings />
+<books>
+<XML_Serializer_Tag>
+<book>
+<type>uri</type>
+<value>http://dbpedia.org/resource/New_Fairy_Tales_(1844)</value>
+</book>
+<author>
+<type>uri</type>
+<value>http://dbpedia.org/resource/Hans_Christian_Andersen</value>
+</author>
+<thumbnail>
+<type>uri</type>
+<value>http://commons.wikimedia.org/wiki/Special:FilePath/HC_Andersen_Nye_Eventyr.jpg?width=300</value>
+</thumbnail>
+<released>
+<type>typed-literal</type>
+<datatype>http://www.w3.org/2001/XMLSchema#date</datatype>
+<value>1843-11-10+02:00</value>
+</released>
+<wikilink>
+<type>uri</type>
+<value>http://en.wikipedia.org/wiki/New_Fairy_Tales_(1844)?oldid=561607766</value>
+</wikilink>
+</XML_Serializer_Tag>
+<XML_Serializer_Tag>
+<book>
+<type>uri</type>
+<value>http://dbpedia.org/resource/Fairy_Tales_Told_for_Children_(1838)</value>
+</book>
+<author>
+<type>uri</type>
+<value>http://dbpedia.org/resource/Hans_Christian_Andersen</value>
+</author>
+<thumbnail>
+<type>uri</type>
+<value>http://commons.wikimedia.org/wiki/Special:FilePath/Constantin_Hansen_1836_-_HC_Andersen.jpg?width=300</value>
+</thumbnail>
+<released>
+<type>typed-literal</type>
+<datatype>http://www.w3.org/2001/XMLSchema#date</datatype>
+<value>1838-10-02+02:00</value>
+</released>
+<wikilink>
+<type>uri</type>
+<value>http://en.wikipedia.org/wiki/Fairy_Tales_Told_for_Children_(1838)?oldid=588800442</value>
+</wikilink>
+</XML_Serializer_Tag>
+<XML_Serializer_Tag>
+<book>
+<type>uri</type>
+<value>http://dbpedia.org/resource/The_Improvisatore</value>
+</book>
+<author>
+<type>uri</type>
+<value>http://dbpedia.org/resource/Hans_Christian_Andersen</value>
+</author>
+<thumbnail>
+<type>uri</type>
+<value>http://commons.wikimedia.org/wiki/Special:FilePath/The_improvisatore_cover.jpg?width=300</value>
+</thumbnail>
+<released>
+<type>typed-literal</type>
+<datatype>http://www.w3.org/2001/XMLSchema#integer</datatype>
+<value>1835</value>
+</released>
+<wikilink>
+<type>uri</type>
+<value>http://en.wikipedia.org/wiki/The_Improvisatore?oldid=545891282</value>
+</wikilink>
+</XML_Serializer_Tag>
+<XML_Serializer_Tag>
+<book>
+<type>uri</type>
+<value>http://dbpedia.org/resource/The_Shadow_(fairy_tale)</value>
+</book>
+<author>
+<type>uri</type>
+<value>http://dbpedia.org/resource/Hans_Christian_Andersen</value>
+</author>
+<thumbnail>
+<type>uri</type>
+<value>http://commons.wikimedia.org/wiki/Special:FilePath/Shadow_Pedersen.jpg?width=300</value>
+</thumbnail>
+<wikilink>
+<type>uri</type>
+<value>http://en.wikipedia.org/wiki/The_Shadow_(fairy_tale)?oldid=568480318</value>
+</wikilink>
+<abstract>
+<type>literal</type>
+<xml:lang>de</xml:lang>
+<value>Der Schatten (dänisch: Skyggen) ist ein Märchen des dänischen Dichters und Schriftstellers Hans Christian Andersen.Das Märchen wurde erstmals 1847 veröffentlicht.</value>
+</abstract>
+</XML_Serializer_Tag>
+<XML_Serializer_Tag>
+<book>
+<type>uri</type>
+<value>http://dbpedia.org/resource/Fairy_Tales_Told_for_Children._First_Collection.</value>
+</book>
+<author>
+<type>uri</type>
+<value>http://dbpedia.org/resource/Hans_Christian_Andersen</value>
+</author>
+<thumbnail>
+<type>uri</type>
+<value>http://commons.wikimedia.org/wiki/Special:FilePath/Hans_Christian_Andersen_(1834_painting).jpg?width=300</value>
+</thumbnail>
+<wikilink>
+<type>uri</type>
+<value>http://en.wikipedia.org/wiki/Fairy_Tales_Told_for_Children._First_Collection.?oldid=572285563</value>
+</wikilink>
+</XML_Serializer_Tag>
+<XML_Serializer_Tag>
+<book>
+<type>uri</type>
+<value>http://dbpedia.org/resource/The_Flying_Trunk</value>
+</book>
+<author>
+<type>uri</type>
+<value>http://dbpedia.org/resource/Hans_Christian_Andersen</value>
+</author>
+<thumbnail>
+<type>uri</type>
+<value>http://en.wikipedia.org/wiki/Special:FilePath/Flying_Trunk_01.jpg?width=300</value>
+</thumbnail>
+<wikilink>
+<type>uri</type>
+<value>http://en.wikipedia.org/wiki/The_Flying_Trunk?oldid=544770842</value>
+</wikilink>
+</XML_Serializer_Tag>
+<XML_Serializer_Tag>
+<book>
+<type>uri</type>
+<value>http://dbpedia.org/resource/The_Red_Shoes_(fairy_tale)</value>
+</book>
+<author>
+<type>uri</type>
+<value>http://dbpedia.org/resource/Hans_Christian_Andersen</value>
+</author>
+<wikilink>
+<type>uri</type>
+<value>http://en.wikipedia.org/wiki/The_Red_Shoes_(fairy_tale)?oldid=606698731</value>
+</wikilink>
+</XML_Serializer_Tag>
+</books>
+</Person>

@@ -1,0 +1,24 @@
+<Person>
+<name>Imre Makovecz</name>
+<variantName />
+<thumbnail>https://commons.wikimedia.org/wiki/Special:FilePath/Makovecz_beszél.JPG?width=270</thumbnail>
+<birthEN>November 20, 1935</birthEN>
+<birthDE>20. November 1935</birthDE>
+<deathEN>September 27, 2011</deathEN>
+<deathDE>27. September 2011</deathDE>
+<birthPlace>
+<XML_Serializer_Tag>Budapest</XML_Serializer_Tag>
+</birthPlace>
+<deathPlace>
+<XML_Serializer_Tag>Budapest</XML_Serializer_Tag>
+</deathPlace>
+<professionOrOccupation>
+<XML_Serializer_Tag>Architekt</XML_Serializer_Tag>
+</professionOrOccupation>
+<dbpResource>http://dbpedia.org/resource/Imre_Makovecz</dbpResource>
+<abstract>Imre Makovecz (* 20. November 1935 in Budapest; † 27. September 2011 ebenda) war ein ungarischer Architekt.</abstract>
+<wikilink>http://en.wikipedia.org/wiki/Imre_Makovecz?oldid=603022667</wikilink>
+<artworks />
+<buildings />
+<books />
+</Person>

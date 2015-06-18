@@ -22,8 +22,10 @@
 <XML_Serializer_Tag>Zeichner</XML_Serializer_Tag>
 <XML_Serializer_Tag>Bildhauer</XML_Serializer_Tag>
 </professionOrOccupation>
-<artworks />
 <dbpResource>http://dbpedia.org/resource/Paul_Wunderlich</dbpResource>
 <abstract>Paul Wunderlich (* 10. März 1927 in Eberswalde; † 6. Juni 2010 in Saint-Pierre-de-Vassols, Kanton Mormoiron, Provence) war ein deutscher Maler, Zeichner, Bildhauer und Grafiker. Er gestaltete in seinen neusurrealistischen Bildern und Skulpturen überwiegend erotische Themen. Dabei bezog er sich häufig auf mythologische Sagen.</abstract>
 <wikilink>http://en.wikipedia.org/wiki/Paul_Wunderlich?oldid=569172050</wikilink>
+<artworks />
+<buildings />
+<books />
 </Person>

@@ -1,0 +1,34 @@
+<Person>
+<name>Gottfried Kinkel</name>
+<variantName>
+<XML_Serializer_Tag>Johann Gottfried Kinkel</XML_Serializer_Tag>
+<XML_Serializer_Tag>Joh. Gottfried Kinkel</XML_Serializer_Tag>
+<XML_Serializer_Tag>, der Ältere</XML_Serializer_Tag>
+<XML_Serializer_Tag>Godofredus Kinkel</XML_Serializer_Tag>
+<XML_Serializer_Tag>Ioannes Godofredus Kinkel</XML_Serializer_Tag>
+<XML_Serializer_Tag>Joannes Godofredus Kinkel</XML_Serializer_Tag>
+<XML_Serializer_Tag>G. Kinkel</XML_Serializer_Tag>
+</variantName>
+<thumbnail>https://commons.wikimedia.org/wiki/Special:FilePath/Johann_Gottfried_Kinkel.jpg?width=270</thumbnail>
+<birthEN>August 11, 1815</birthEN>
+<birthDE>11. August 1815</birthDE>
+<deathEN>November 13, 1882</deathEN>
+<deathDE>13. November 1882</deathDE>
+<birthPlace>
+<XML_Serializer_Tag>Oberkassel (Siegkreis)</XML_Serializer_Tag>
+</birthPlace>
+<deathPlace>
+<XML_Serializer_Tag>Zürich</XML_Serializer_Tag>
+</deathPlace>
+<professionOrOccupation>
+<XML_Serializer_Tag>Schriftsteller</XML_Serializer_Tag>
+<XML_Serializer_Tag>Kunsthistoriker</XML_Serializer_Tag>
+<XML_Serializer_Tag>Politiker</XML_Serializer_Tag>
+</professionOrOccupation>
+<dbpResource>http://dbpedia.org/resource/Gottfried_Kinkel</dbpResource>
+<abstract>(Johann) Gottfried Kinkel (* 11. August 1815 in Oberkassel; † 13. November 1882 in Zürich) war ein deutscher evangelischer Theologe, Schriftsteller, Kirchenlieddichter und demokratisch gesinnter Politiker.</abstract>
+<wikilink>http://en.wikipedia.org/wiki/Gottfried_Kinkel?oldid=605183439</wikilink>
+<artworks />
+<buildings />
+<books />
+</Person>

@@ -1,0 +1,49 @@
+<Person>
+<name>Johann Gottfried von Herder</name>
+<variantName>
+<XML_Serializer_Tag>J. G. Herder</XML_Serializer_Tag>
+<XML_Serializer_Tag>J. G. von Herder</XML_Serializer_Tag>
+<XML_Serializer_Tag>Joh. Gottfried Herder</XML_Serializer_Tag>
+<XML_Serializer_Tag>Johan Gotfrid Herder</XML_Serializer_Tag>
+<XML_Serializer_Tag>... Herder</XML_Serializer_Tag>
+<XML_Serializer_Tag>John Godfrey Herder</XML_Serializer_Tag>
+<XML_Serializer_Tag>Yôhan Gôtfrîd fôn Herder</XML_Serializer_Tag>
+<XML_Serializer_Tag>Juan Godofredo de Herder</XML_Serializer_Tag>
+<XML_Serializer_Tag>Iongann Gotfrid Gerder</XML_Serializer_Tag>
+<XML_Serializer_Tag>... Gerder</XML_Serializer_Tag>
+<XML_Serializer_Tag>Johann Gottfried Herder</XML_Serializer_Tag>
+<XML_Serializer_Tag>Johann Herder</XML_Serializer_Tag>
+<XML_Serializer_Tag>Joh. Gottfr. Herder</XML_Serializer_Tag>
+<XML_Serializer_Tag>J. J. Herder</XML_Serializer_Tag>
+<XML_Serializer_Tag>M. J. J. Herder</XML_Serializer_Tag>
+<XML_Serializer_Tag>... Heerder</XML_Serializer_Tag>
+<XML_Serializer_Tag>J. G. Heerde</XML_Serializer_Tag>
+<XML_Serializer_Tag>יוהאן גוטפריד הרדר</XML_Serializer_Tag>
+<XML_Serializer_Tag>约翰·哥特弗里特·赫尔德</XML_Serializer_Tag>
+<XML_Serializer_Tag>ヨハン・ゴットフリート・フォン・ヘルダー</XML_Serializer_Tag>
+<XML_Serializer_Tag>约翰·哥特弗里特 赫尔德</XML_Serializer_Tag>
+<XML_Serializer_Tag>ヨハン　ゴットフリート　フォン ヘルダー</XML_Serializer_Tag>
+</variantName>
+<thumbnail>https://commons.wikimedia.org/wiki/Special:FilePath/Johann_Gottfried_Herder_2.jpg?width=270</thumbnail>
+<birthEN>August 25, 1744</birthEN>
+<birthDE>25. August 1744</birthDE>
+<deathEN>December 18, 1803</deathEN>
+<deathDE>18. Dezember 1803</deathDE>
+<birthPlace>
+<XML_Serializer_Tag>Mohrungen</XML_Serializer_Tag>
+</birthPlace>
+<deathPlace>
+<XML_Serializer_Tag>Weimar</XML_Serializer_Tag>
+</deathPlace>
+<professionOrOccupation>
+<XML_Serializer_Tag>Philosoph</XML_Serializer_Tag>
+<XML_Serializer_Tag>Schriftsteller</XML_Serializer_Tag>
+<XML_Serializer_Tag>Theologe</XML_Serializer_Tag>
+</professionOrOccupation>
+<dbpResource>http://dbpedia.org/resource/Johann_Gottfried_Herder</dbpResource>
+<abstract>Johann Gottfried von Herder, geadelt 1802, (* 25. August 1744 in Mohrungen, Preußen; † 18. Dezember 1803 in Weimar, Sachsen-Weimar) war ein deutscher Dichter, Übersetzer, Theologe sowie Geschichts- und Kultur-Philosoph der Weimarer Klassik.Er war einer der einflussreichsten Schriftsteller und Denker deutscher Sprache im Zeitalter der Aufklärung und zählt mit Christoph Martin Wieland, Johann Wolfgang Goethe und Friedrich Schiller zum klassischen Viergestirn von Weimar.</abstract>
+<wikilink>http://en.wikipedia.org/wiki/Johann_Gottfried_Herder?oldid=605915915</wikilink>
+<artworks />
+<buildings />
+<books />
+</Person>

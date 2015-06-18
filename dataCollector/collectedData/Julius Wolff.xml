@@ -1,0 +1,27 @@
+<Person>
+<name>Julius Wolff</name>
+<variantName>
+<XML_Serializer_Tag>Iulius Wolff</XML_Serializer_Tag>
+<XML_Serializer_Tag>Julius Wolf</XML_Serializer_Tag>
+</variantName>
+<thumbnail>https://commons.wikimedia.org/wiki/Special:FilePath/Julius_Wolff_Schriftsteller_-_von_Wilhelm_Rohr.jpg?width=270</thumbnail>
+<birthEN>September 16, 1834</birthEN>
+<birthDE>16. September 1834</birthDE>
+<deathEN>June 3, 1910</deathEN>
+<deathDE>3. Juni 1910</deathDE>
+<birthPlace>
+<XML_Serializer_Tag>Quedlinburg</XML_Serializer_Tag>
+</birthPlace>
+<deathPlace>
+<XML_Serializer_Tag>Charlottenburg (Berlin)</XML_Serializer_Tag>
+</deathPlace>
+<professionOrOccupation>
+<XML_Serializer_Tag>Schriftsteller</XML_Serializer_Tag>
+</professionOrOccupation>
+<dbpResource>http://dbpedia.org/resource/Julius_Wolff</dbpResource>
+<abstract>Julius Wolff (* 21. März 1836 in Märkisch Friedland/Westpreußen; † 18. Februar 1902 in Berlin) war ein deutscher Arzt.</abstract>
+<wikilink>http://en.wikipedia.org/wiki/Julius_Wolff?oldid=600136147</wikilink>
+<artworks />
+<buildings />
+<books />
+</Person>

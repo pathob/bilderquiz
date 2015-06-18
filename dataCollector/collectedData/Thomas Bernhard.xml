@@ -1,0 +1,273 @@
+<Person>
+<name>Thomas Bernhard</name>
+<variantName>
+<XML_Serializer_Tag>Tomas Bernhard</XML_Serializer_Tag>
+<XML_Serializer_Tag>Tômâs Bernhârd</XML_Serializer_Tag>
+<XML_Serializer_Tag>Tômâs Bernard</XML_Serializer_Tag>
+<XML_Serializer_Tag>Tomas Bernchard</XML_Serializer_Tag>
+<XML_Serializer_Tag>Tōmasu Berunharuto</XML_Serializer_Tag>
+<XML_Serializer_Tag>T&apos;omasŭ Perŭnharŭt&apos;ŭ</XML_Serializer_Tag>
+<XML_Serializer_Tag>Tomas Mperncharnt</XML_Serializer_Tag>
+<XML_Serializer_Tag>Tūmas̄ Birnhārt</XML_Serializer_Tag>
+<XML_Serializer_Tag>Tuo ma si Bo en ha de</XML_Serializer_Tag>
+<XML_Serializer_Tag>Tuomasi-Boenhade</XML_Serializer_Tag>
+<XML_Serializer_Tag>Tuomasi Boenhade</XML_Serializer_Tag>
+<XML_Serializer_Tag>トーマス ベルンハルト</XML_Serializer_Tag>
+<XML_Serializer_Tag>托马斯·伯恩哈德</XML_Serializer_Tag>
+<XML_Serializer_Tag>托马斯 伯恩哈德</XML_Serializer_Tag>
+<XML_Serializer_Tag>토마스 베른하르트</XML_Serializer_Tag>
+<XML_Serializer_Tag>תומס ברנהרד</XML_Serializer_Tag>
+<XML_Serializer_Tag>תומס ברנהרד</XML_Serializer_Tag>
+</variantName>
+<thumbnail>https://commons.wikimedia.org/wiki/Special:FilePath/Thomas_Bernhard.jpg?width=270</thumbnail>
+<birthEN>February 9, 1931</birthEN>
+<birthDE>9. Februar 1931</birthDE>
+<deathEN>February 12, 1989</deathEN>
+<deathDE>12. Februar 1989</deathDE>
+<birthPlace>
+<XML_Serializer_Tag>Heerlen</XML_Serializer_Tag>
+</birthPlace>
+<deathPlace>
+<XML_Serializer_Tag>Gmunden</XML_Serializer_Tag>
+</deathPlace>
+<professionOrOccupation>
+<XML_Serializer_Tag>Schriftsteller</XML_Serializer_Tag>
+<XML_Serializer_Tag>Dramatiker</XML_Serializer_Tag>
+</professionOrOccupation>
+<dbpResource>http://dbpedia.org/resource/Thomas_Bernhard</dbpResource>
+<abstract>Nicolas Thomas Bernhard (* 9. Februar 1931 in Heerlen, Niederlande; † 12. Februar 1989 in Gmunden, Österreich) war ein österreichischer Schriftsteller. 1970 erhielt Bernhard den Georg-Büchner-Preis; seit den 1980er Jahren wird er international zu den bedeutendsten österreichischen und deutschsprachigen Autoren gerechnet.</abstract>
+<wikilink>http://en.wikipedia.org/wiki/Thomas_Bernhard?oldid=598235957</wikilink>
+<artworks />
+<buildings />
+<books>
+<XML_Serializer_Tag>
+<book>
+<type>uri</type>
+<value>http://dbpedia.org/resource/Wittgenstein&apos;s_Nephew</value>
+</book>
+<author>
+<type>uri</type>
+<value>http://dbpedia.org/resource/Thomas_Bernhard</value>
+</author>
+<released>
+<type>typed-literal</type>
+<datatype>http://www.w3.org/2001/XMLSchema#integer</datatype>
+<value>1982</value>
+</released>
+<wikilink>
+<type>uri</type>
+<value>http://en.wikipedia.org/wiki/Wittgenstein&apos;s_Nephew?oldid=542836911</value>
+</wikilink>
+<abstract>
+<type>literal</type>
+<xml:lang>de</xml:lang>
+<value>Wittgensteins Neffe. Eine Freundschaft ist eine Erzählung von Thomas Bernhard aus dem Jahr 1982.Thema ist Bernhards Freundschaft mit Paul Wittgenstein, Neffe von Ludwig Wittgenstein und Mitglied der reichen Wiener Industriellen-Familie Wittgenstein. Paul leidet an einer nicht näher spezifizierten Krankheit, die wiederholt Aufenthalte in der Psychiatrie zur Folge hat, während Bernhard selbst mit einem chronischen Lungenleiden kämpft.Der Titel ist angelehnt an Diderots Werk Rameaus Neffe, dessen Protagonist ebenso wie Paul Wittgenstein im übermächtigen Schatten eines berühmten Verwandten steht.</value>
+</abstract>
+</XML_Serializer_Tag>
+<XML_Serializer_Tag>
+<book>
+<type>uri</type>
+<value>http://dbpedia.org/resource/The_Lime_Works</value>
+</book>
+<author>
+<type>uri</type>
+<value>http://dbpedia.org/resource/Thomas_Bernhard</value>
+</author>
+<released>
+<type>typed-literal</type>
+<datatype>http://www.w3.org/2001/XMLSchema#integer</datatype>
+<value>1973</value>
+</released>
+<wikilink>
+<type>uri</type>
+<value>http://en.wikipedia.org/wiki/The_Lime_Works?oldid=542840010</value>
+</wikilink>
+<abstract>
+<type>literal</type>
+<xml:lang>de</xml:lang>
+<value>Das Kalkwerk ist ein Roman von Thomas Bernhard aus dem Jahr 1970. In dem Roman geht es um den Protagonisten Konrad, der gemeinsam mit seiner Frau in ein abgeschiedenes altes Kalkwerk einzieht, um dort ungestört eine Studie über Das Gehör niederzuschreiben. Der Roman erschien 1970 im Suhrkamp Verlag. Der Hörverlag veröffentlichte 2002 eine inszenierte Lesung in der Regie von Ulrich Gerhardt, gesprochen von Ulrich Matthes.</value>
+</abstract>
+</XML_Serializer_Tag>
+<XML_Serializer_Tag>
+<book>
+<type>uri</type>
+<value>http://dbpedia.org/resource/Correction_(novel)</value>
+</book>
+<author>
+<type>uri</type>
+<value>http://dbpedia.org/resource/Thomas_Bernhard</value>
+</author>
+<released>
+<type>typed-literal</type>
+<datatype>http://www.w3.org/2001/XMLSchema#integer</datatype>
+<value>1975</value>
+</released>
+<wikilink>
+<type>uri</type>
+<value>http://en.wikipedia.org/wiki/Correction_(novel)?oldid=583006235</value>
+</wikilink>
+<abstract>
+<type>literal</type>
+<xml:lang>de</xml:lang>
+<value>Korrektur ist ein 1975 erschienener Roman Thomas Bernhards. Im Mittelpunkt steht der Nachlass eines Mannes, der Selbstmord begangen hat – diesen soll ein Freund „sichten und ordnen“.</value>
+</abstract>
+</XML_Serializer_Tag>
+<XML_Serializer_Tag>
+<book>
+<type>uri</type>
+<value>http://dbpedia.org/resource/Old_Masters_(novel)</value>
+</book>
+<author>
+<type>uri</type>
+<value>http://dbpedia.org/resource/Thomas_Bernhard</value>
+</author>
+<released>
+<type>typed-literal</type>
+<datatype>http://www.w3.org/2001/XMLSchema#integer</datatype>
+<value>1985</value>
+</released>
+<wikilink>
+<type>uri</type>
+<value>http://en.wikipedia.org/wiki/Old_Masters_(novel)?oldid=541515830</value>
+</wikilink>
+<abstract>
+<type>literal</type>
+<xml:lang>de</xml:lang>
+<value>Alte Meister. Komödie ist ein im Jahr 1985 erschienener Roman des österreichischen Schriftstellers Thomas Bernhard.Der Name des Buches bezieht sich auf die Maler der Bilder im kunsthistorischen Museum in Wien, die vom Protagonisten des Werkes, dem 82-jährigen Reger, unablässig auf Fehler untersucht werden.</value>
+</abstract>
+</XML_Serializer_Tag>
+<XML_Serializer_Tag>
+<book>
+<type>uri</type>
+<value>http://dbpedia.org/resource/On_the_Mountain</value>
+</book>
+<author>
+<type>uri</type>
+<value>http://dbpedia.org/resource/Thomas_Bernhard</value>
+</author>
+<released>
+<type>typed-literal</type>
+<datatype>http://www.w3.org/2001/XMLSchema#integer</datatype>
+<value>1991</value>
+</released>
+<wikilink>
+<type>uri</type>
+<value>http://en.wikipedia.org/wiki/On_the_Mountain?oldid=532013780</value>
+</wikilink>
+</XML_Serializer_Tag>
+<XML_Serializer_Tag>
+<book>
+<type>uri</type>
+<value>http://dbpedia.org/resource/Extinction_(Bernhard_novel)</value>
+</book>
+<author>
+<type>uri</type>
+<value>http://dbpedia.org/resource/Thomas_Bernhard</value>
+</author>
+<wikilink>
+<type>uri</type>
+<value>http://en.wikipedia.org/wiki/Extinction_(Bernhard_novel)?oldid=595642795</value>
+</wikilink>
+<abstract>
+<type>literal</type>
+<xml:lang>de</xml:lang>
+<value>Auslöschung. Ein Zerfall ist ein Roman des österreichischen Schriftstellers Thomas Bernhard (1931–1989). Er erschien im Jahr 1986 und ist Bernhards letztes großes Prosawerk. Auslöschung ist neben dem noch unveröffentlichtem Manuskript Schwarzach St. Veit sein &quot;umfangreichster und bedeutendster Roman&quot;.Der Roman besteht ausschließlich aus einem inneren Monolog, einer Niederschrift des Protagonisten und Ich-Erzählers Franz-Josef Murau, der seine Gedanken anlässlich des Unfalltodes seiner Eltern und seines Bruders schildert.Im Mittelpunkt stehen dabei die Erinnerungen Muraus an seine Jugend auf dem Familiensitz Schloss Wolfsegg in der gleichnamigen Gemeinde bei Vöcklabruck in Oberösterreich. Mit Hilfe der Niederschrift will Murau sich mit den Verhältnissen in Wolfsegg, die ihn schließlich zur Flucht nach Paris, Lissabon und Rom gezwungen haben, auseinandersetzen. So sollen sein &quot;Herkunftskomplex&quot; (S. 201) verarbeitet und seine Erinnerungen &quot;ausgelöscht&quot; werden: &quot;mein Bericht ist nur dazu da, das in ihm Beschriebene auszulöschen&quot; (S. 199).</value>
+</abstract>
+</XML_Serializer_Tag>
+<XML_Serializer_Tag>
+<book>
+<type>uri</type>
+<value>http://dbpedia.org/resource/Gargoyles_(novel)</value>
+</book>
+<author>
+<type>uri</type>
+<value>http://dbpedia.org/resource/Thomas_Bernhard</value>
+</author>
+<wikilink>
+<type>uri</type>
+<value>http://en.wikipedia.org/wiki/Gargoyles_(novel)?oldid=542836757</value>
+</wikilink>
+<abstract>
+<type>literal</type>
+<xml:lang>de</xml:lang>
+<value>Verstörung ist ein 1967 erschienener Roman des österreichischen Schriftstellers Thomas Bernhard. Die Erstveröffentlichung erfolgte im Insel-Verlag. Wie bereits durch den Titel angedeutet, stehen die für Bernhards frühe Prosa typischen Motivkomplexe „Krankheit und Tod“ und „Wahnsinn und Selbstmord“ im Zentrum dieses Textes.</value>
+</abstract>
+</XML_Serializer_Tag>
+<XML_Serializer_Tag>
+<book>
+<type>uri</type>
+<value>http://dbpedia.org/resource/Frost_(novel)</value>
+</book>
+<author>
+<type>uri</type>
+<value>http://dbpedia.org/resource/Thomas_Bernhard</value>
+</author>
+<wikilink>
+<type>uri</type>
+<value>http://en.wikipedia.org/wiki/Frost_(novel)?oldid=543213581</value>
+</wikilink>
+<abstract>
+<type>literal</type>
+<xml:lang>de</xml:lang>
+<value>Frost ist der erste Roman des österreichischen Schriftstellers Thomas Bernhard. Der Roman wurde 1963 veröffentlicht und 2006 von Michael Hofmann ins Englische übersetzt. 2013 gaben Raimund Fellinger und Martin Huber unter dem Titel Argumente eines Winterspaziergängers zwei Vorarbeiten zu Frost heraus.</value>
+</abstract>
+</XML_Serializer_Tag>
+<XML_Serializer_Tag>
+<book>
+<type>uri</type>
+<value>http://dbpedia.org/resource/Woodcutters_(novel)</value>
+</book>
+<author>
+<type>uri</type>
+<value>http://dbpedia.org/resource/Thomas_Bernhard</value>
+</author>
+<wikilink>
+<type>uri</type>
+<value>http://en.wikipedia.org/wiki/Woodcutters_(novel)?oldid=543217080</value>
+</wikilink>
+<abstract>
+<type>literal</type>
+<xml:lang>de</xml:lang>
+<value>Holzfällen. Eine Erregung ist ein 1984 erschienener Roman Thomas Bernhards, der von einer Wiener Abendgesellschaft handelt, die der Ich-Erzähler, ein unverkennbares Alter Ego Bernhards, auf einem Ohrensessel sitzend monologisch kommentiert.</value>
+</abstract>
+</XML_Serializer_Tag>
+<XML_Serializer_Tag>
+<book>
+<type>uri</type>
+<value>http://dbpedia.org/resource/The_Loser</value>
+</book>
+<author>
+<type>uri</type>
+<value>http://dbpedia.org/resource/Thomas_Bernhard</value>
+</author>
+<wikilink>
+<type>uri</type>
+<value>http://en.wikipedia.org/wiki/The_Loser?oldid=578282762</value>
+</wikilink>
+<abstract>
+<type>literal</type>
+<xml:lang>de</xml:lang>
+<value>Der Untergeher ist ein Roman des österreichischen Schriftstellers Thomas Bernhard aus dem Jahr 1983. Erzählt wird der berufliche und private Werdegang dreier angehender Konzertpianisten, von denen einer – Glenn Gould – tatsächlich gelebt hat, sowie ihre lebenslange Auseinandersetzung mit dem Anspruch höchster Perfektion im Klavierspiel.</value>
+</abstract>
+</XML_Serializer_Tag>
+<XML_Serializer_Tag>
+<book>
+<type>uri</type>
+<value>http://dbpedia.org/resource/Yes_(novel)</value>
+</book>
+<author>
+<type>uri</type>
+<value>http://dbpedia.org/resource/Thomas_Bernhard</value>
+</author>
+<wikilink>
+<type>uri</type>
+<value>http://en.wikipedia.org/wiki/Yes_(novel)?oldid=543217321</value>
+</wikilink>
+<abstract>
+<type>literal</type>
+<xml:lang>de</xml:lang>
+<value>Ja ist eine Erzählung von Thomas Bernhard aus dem Jahr 1978 (geschrieben 1977), in der ein namenloser Ich-Erzähler die Bekanntschaft einer Perserin macht, die Suizid begeht.</value>
+</abstract>
+</XML_Serializer_Tag>
+</books>
+</Person>

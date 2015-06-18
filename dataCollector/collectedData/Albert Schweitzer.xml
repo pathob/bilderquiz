@@ -1,0 +1,65 @@
+<Person>
+<name>Albert Schweitzer</name>
+<variantName>
+<XML_Serializer_Tag>Al&apos;bert Švejcer</XML_Serializer_Tag>
+<XML_Serializer_Tag>Albert Švajcer</XML_Serializer_Tag>
+<XML_Serializer_Tag>Albert Schweizer</XML_Serializer_Tag>
+<XML_Serializer_Tag>A&apos;erbeite Shihuaize</XML_Serializer_Tag>
+<XML_Serializer_Tag>... Shuvaitsā</XML_Serializer_Tag>
+<XML_Serializer_Tag>... Schweitzer-Wildikann</XML_Serializer_Tag>
+<XML_Serializer_Tag>A&apos;erbeite Shiweize</XML_Serializer_Tag>
+<XML_Serializer_Tag>A er bei te Shi wei ze</XML_Serializer_Tag>
+<XML_Serializer_Tag>Aerbeite-Shiweize</XML_Serializer_Tag>
+<XML_Serializer_Tag>Aerbeite Shiweize</XML_Serializer_Tag>
+<XML_Serializer_Tag>Shi huai zhe</XML_Serializer_Tag>
+<XML_Serializer_Tag>Shihuaizhe</XML_Serializer_Tag>
+<XML_Serializer_Tag>シュヴァイツェル</XML_Serializer_Tag>
+<XML_Serializer_Tag>シュワイツェル</XML_Serializer_Tag>
+<XML_Serializer_Tag>Альберт Швейцер</XML_Serializer_Tag>
+<XML_Serializer_Tag>Альберт Швейцер</XML_Serializer_Tag>
+<XML_Serializer_Tag>Алберт Швайцер</XML_Serializer_Tag>
+<XML_Serializer_Tag>Άλμπερτ Σβάιτσερ</XML_Serializer_Tag>
+</variantName>
+<thumbnail>https://commons.wikimedia.org/wiki/Special:FilePath/Bundesarchiv_Bild_183-D0116-0041-019,_Albert_Schweitzer.jpg?width=270</thumbnail>
+<birthEN>January 14, 1875</birthEN>
+<birthDE>14. Januar 1875</birthDE>
+<deathEN>September 4, 1965</deathEN>
+<deathDE>4. September 1965</deathDE>
+<birthPlace>
+<XML_Serializer_Tag>Kaysersberg</XML_Serializer_Tag>
+</birthPlace>
+<deathPlace>
+<XML_Serializer_Tag>Lambaréné</XML_Serializer_Tag>
+</deathPlace>
+<professionOrOccupation>
+<XML_Serializer_Tag>Philosoph</XML_Serializer_Tag>
+<XML_Serializer_Tag>Theologe</XML_Serializer_Tag>
+<XML_Serializer_Tag>Musikwissenschaftler</XML_Serializer_Tag>
+<XML_Serializer_Tag>Musiker</XML_Serializer_Tag>
+<XML_Serializer_Tag>Nobelpreisträger</XML_Serializer_Tag>
+<XML_Serializer_Tag>Pazifist</XML_Serializer_Tag>
+<XML_Serializer_Tag>Autor</XML_Serializer_Tag>
+<XML_Serializer_Tag>Arzt</XML_Serializer_Tag>
+</professionOrOccupation>
+<dbpResource>http://dbpedia.org/resource/Albert_Schweitzer</dbpResource>
+<abstract>Albert Schweitzer (* 14. Januar 1875 in Kaysersberg im Oberelsass bei Colmar; † 4. September 1965 in Lambaréné, Gabun) war ein deutsch-französischer Arzt, evangelischer Theologe, Organist, Philosoph und Pazifist.Schweitzer gründete ein Krankenhaus in Lambaréné im zentralafrikanischen Gabun. Er veröffentlichte theologische und philosophische Schriften, Arbeiten zur Musik, insbesondere zu Johann Sebastian Bach, sowie autobiographische Schriften in zahlreichen und vielbeachteten Werken. 1953 wurde ihm der Friedensnobelpreis für das Jahr 1952 zuerkannt, den er 1954 entgegennahm.</abstract>
+<wikilink>http://en.wikipedia.org/wiki/Albert_Schweitzer?oldid=604762428</wikilink>
+<artworks />
+<buildings />
+<books>
+<XML_Serializer_Tag>
+<book>
+<type>uri</type>
+<value>http://dbpedia.org/resource/The_Quest_of_the_Historical_Jesus</value>
+</book>
+<author>
+<type>uri</type>
+<value>http://dbpedia.org/resource/Albert_Schweitzer</value>
+</author>
+<wikilink>
+<type>uri</type>
+<value>http://en.wikipedia.org/wiki/The_Quest_of_the_Historical_Jesus?oldid=602696988</value>
+</wikilink>
+</XML_Serializer_Tag>
+</books>
+</Person>

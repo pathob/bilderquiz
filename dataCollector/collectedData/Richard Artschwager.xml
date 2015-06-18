@@ -21,8 +21,10 @@
 <XML_Serializer_Tag>Graphiker</XML_Serializer_Tag>
 <XML_Serializer_Tag>Bildhauer</XML_Serializer_Tag>
 </professionOrOccupation>
-<artworks />
 <dbpResource>http://dbpedia.org/resource/Richard_Artschwager</dbpResource>
 <abstract>Richard Artschwager (* 26. Dezember 1923 in Washington, D.C.; † 9. Februar 2013 in Albany, New York) war ein US-amerikanischer Objektkünstler, Maler, Grafiker und Bildhauer. Er gehörte zu den wichtigsten Vertretern der Minimal Art.</abstract>
 <wikilink>http://en.wikipedia.org/wiki/Richard_Artschwager?oldid=602492320</wikilink>
+<artworks />
+<buildings />
+<books />
 </Person>

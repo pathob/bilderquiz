@@ -1,0 +1,26 @@
+<Person>
+<name>Rudolf Koch</name>
+<variantName />
+<thumbnail>https://commons.wikimedia.org/wiki/Special:FilePath/Buchrainweg29.jpg?width=270</thumbnail>
+<birthEN>November 20, 1876</birthEN>
+<birthDE>20. November 1876</birthDE>
+<deathEN>March 9, 1934</deathEN>
+<deathDE>9. März 1934</deathDE>
+<birthPlace>
+<XML_Serializer_Tag>Nürnberg</XML_Serializer_Tag>
+</birthPlace>
+<deathPlace>
+<XML_Serializer_Tag>Offenbach am Main</XML_Serializer_Tag>
+</deathPlace>
+<professionOrOccupation>
+<XML_Serializer_Tag>Schriftkünstler</XML_Serializer_Tag>
+<XML_Serializer_Tag>Künstler</XML_Serializer_Tag>
+<XML_Serializer_Tag>Graphiker</XML_Serializer_Tag>
+</professionOrOccupation>
+<dbpResource>http://dbpedia.org/resource/Rudolf_Koch</dbpResource>
+<abstract>Rudolf Koch (* 20. November 1876 in Nürnberg; † 9. April 1934 in Offenbach am Main) war ein Typograf, Grafiker und Kalligraf.</abstract>
+<wikilink>http://en.wikipedia.org/wiki/Rudolf_Koch?oldid=589766963</wikilink>
+<artworks />
+<buildings />
+<books />
+</Person>

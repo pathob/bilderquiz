@@ -1,0 +1,83 @@
+<Person>
+<name>Ignacy Krasicki</name>
+<variantName>
+<XML_Serializer_Tag>Ignacy Krasicky</XML_Serializer_Tag>
+<XML_Serializer_Tag>Ignaz Krasicki</XML_Serializer_Tag>
+<XML_Serializer_Tag>Ignatius Krasicki</XML_Serializer_Tag>
+<XML_Serializer_Tag>Ignace Krasicki</XML_Serializer_Tag>
+<XML_Serializer_Tag>Ignaci Krasicki</XML_Serializer_Tag>
+<XML_Serializer_Tag>Ignaz Krasitzki</XML_Serializer_Tag>
+<XML_Serializer_Tag>Ignacy Krasickij</XML_Serializer_Tag>
+<XML_Serializer_Tag>Ignatij Krasickij</XML_Serializer_Tag>
+</variantName>
+<thumbnail>https://commons.wikimedia.org/wiki/Special:FilePath/Ignacy_Krasicki_111.PNG?width=270</thumbnail>
+<birthEN>February 3, 1735</birthEN>
+<birthDE>3. Februar 1735</birthDE>
+<deathEN>March 14, 1801</deathEN>
+<deathDE>14. März 1801</deathDE>
+<birthPlace>
+<XML_Serializer_Tag>Dubiecko</XML_Serializer_Tag>
+</birthPlace>
+<deathPlace>
+<XML_Serializer_Tag>Berlin</XML_Serializer_Tag>
+</deathPlace>
+<professionOrOccupation>
+<XML_Serializer_Tag>Schriftsteller</XML_Serializer_Tag>
+<XML_Serializer_Tag>Dramatiker</XML_Serializer_Tag>
+<XML_Serializer_Tag>Übersetzer</XML_Serializer_Tag>
+<XML_Serializer_Tag>Bischof</XML_Serializer_Tag>
+</professionOrOccupation>
+<dbpResource>http://dbpedia.org/resource/Ignacy_Krasicki</dbpResource>
+<abstract>Ignacy Krasicki (auch: Graf Ignatius Krasicki) (* 3. Februar 1735 in Dubiecko, Polen; † 14. März 1801 in Berlin) war der Fürstbischof von Ermland, der Erzbischof von Gniezno sowie Primas von Polen. Darüber hinaus war er ein bekannter polnischer Schriftsteller der Aufklärung.</abstract>
+<wikilink>http://en.wikipedia.org/wiki/Ignacy_Krasicki?oldid=603988991</wikilink>
+<artworks />
+<buildings />
+<books>
+<XML_Serializer_Tag>
+<book>
+<type>uri</type>
+<value>http://dbpedia.org/resource/The_Adventures_of_Mr._Nicholas_Wisdom</value>
+</book>
+<author>
+<type>uri</type>
+<value>http://dbpedia.org/resource/Ignacy_Krasicki</value>
+</author>
+<thumbnail>
+<type>uri</type>
+<value>http://commons.wikimedia.org/wiki/Special:FilePath/Adventures_of_Mr_Nicholas_Wisdom_Cover.jpg?width=300</value>
+</thumbnail>
+<released>
+<type>typed-literal</type>
+<datatype>http://www.w3.org/2001/XMLSchema#integer</datatype>
+<value>1776</value>
+</released>
+<wikilink>
+<type>uri</type>
+<value>http://en.wikipedia.org/wiki/The_Adventures_of_Mr._Nicholas_Wisdom?oldid=544685212</value>
+</wikilink>
+</XML_Serializer_Tag>
+<XML_Serializer_Tag>
+<book>
+<type>uri</type>
+<value>http://dbpedia.org/resource/Pan_Podstoli</value>
+</book>
+<author>
+<type>uri</type>
+<value>http://dbpedia.org/resource/Ignacy_Krasicki</value>
+</author>
+<thumbnail>
+<type>uri</type>
+<value>http://commons.wikimedia.org/wiki/Special:FilePath/Ignacy_Krasicki_111.PNG?width=300</value>
+</thumbnail>
+<released>
+<type>typed-literal</type>
+<datatype>http://www.w3.org/2001/XMLSchema#integer</datatype>
+<value>1778</value>
+</released>
+<wikilink>
+<type>uri</type>
+<value>http://en.wikipedia.org/wiki/Pan_Podstoli?oldid=551896205</value>
+</wikilink>
+</XML_Serializer_Tag>
+</books>
+</Person>

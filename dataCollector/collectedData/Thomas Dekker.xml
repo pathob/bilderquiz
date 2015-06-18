@@ -1,0 +1,28 @@
+<Person>
+<name>Thomas Dekker</name>
+<variantName>
+<XML_Serializer_Tag>Thomas Decker</XML_Serializer_Tag>
+<XML_Serializer_Tag>Thomas Dekkar</XML_Serializer_Tag>
+</variantName>
+<thumbnail>https://commons.wikimedia.org/wiki/Special:FilePath/Dekker_his_dreame_(1620).jpg?width=270</thumbnail>
+<birthEN>1572</birthEN>
+<birthDE>1572</birthDE>
+<deathEN>August 25, 1632</deathEN>
+<deathDE>25. August 1632</deathDE>
+<birthPlace>
+<XML_Serializer_Tag>London</XML_Serializer_Tag>
+</birthPlace>
+<deathPlace>
+<XML_Serializer_Tag>London</XML_Serializer_Tag>
+</deathPlace>
+<professionOrOccupation>
+<XML_Serializer_Tag>Schriftsteller</XML_Serializer_Tag>
+<XML_Serializer_Tag>Dramatiker</XML_Serializer_Tag>
+</professionOrOccupation>
+<dbpResource>http://dbpedia.org/resource/Thomas_Dekker_(actor)</dbpResource>
+<abstract>Thomas Alexander Dekker (* 28. Dezember 1987 in Las Vegas, Nevada) ist ein US-amerikanischer Schauspieler, der mit seiner Rolle des John Connor in der Serie Terminator: The Sarah Connor Chronicles größere Bekanntheit erlangte.</abstract>
+<wikilink>http://en.wikipedia.org/wiki/Thomas_Dekker_(actor)?oldid=593406956</wikilink>
+<artworks />
+<buildings />
+<books />
+</Person>

@@ -1,0 +1,29 @@
+<Person>
+<name>Casimir Delavigne</name>
+<variantName>
+<XML_Serializer_Tag>... Delavigne</XML_Serializer_Tag>
+<XML_Serializer_Tag>Jean F. Delavigne</XML_Serializer_Tag>
+<XML_Serializer_Tag>C. Delavigne</XML_Serializer_Tag>
+<XML_Serializer_Tag>Casimir-Jean-François Delavigne</XML_Serializer_Tag>
+<XML_Serializer_Tag>Casimir Jean François Delavigne</XML_Serializer_Tag>
+<XML_Serializer_Tag>Jean François Casimir Delavigne</XML_Serializer_Tag>
+<XML_Serializer_Tag>Jean-François-Casimir Delavigne</XML_Serializer_Tag>
+<XML_Serializer_Tag>Kazimierz Delavigne</XML_Serializer_Tag>
+</variantName>
+<thumbnail>https://commons.wikimedia.org/wiki/Special:FilePath/CasimirDelavigne.jpg?width=270</thumbnail>
+<birthEN>March 16, 1793</birthEN>
+<birthDE>16. März 1793</birthDE>
+<deathEN>December 10, 1843</deathEN>
+<deathDE>10. Dezember 1843</deathDE>
+<birthPlace />
+<deathPlace />
+<professionOrOccupation>
+<XML_Serializer_Tag>Schriftsteller</XML_Serializer_Tag>
+</professionOrOccupation>
+<dbpResource>http://dbpedia.org/resource/Casimir_Delavigne</dbpResource>
+<abstract>Jean François Casimir Delavigne (* 4. April 1793 in Le Havre; † 11. Dezember 1843 in Lyon) war ein französischer Dichter.</abstract>
+<wikilink>http://en.wikipedia.org/wiki/Casimir_Delavigne?oldid=606038366</wikilink>
+<artworks />
+<buildings />
+<books />
+</Person>

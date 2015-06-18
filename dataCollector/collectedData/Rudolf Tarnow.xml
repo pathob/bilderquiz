@@ -1,0 +1,26 @@
+<Person>
+<name>Rudolf Tarnow</name>
+<variantName />
+<thumbnail>https://en.wikipedia.org/wiki/Special:FilePath/Rudolf_Tarnow_01.jpg?width=270</thumbnail>
+<birthEN>February 25, 1867</birthEN>
+<birthDE>25. Februar 1867</birthDE>
+<deathEN>May 19, 1933</deathEN>
+<deathDE>19. Mai 1933</deathDE>
+<birthPlace>
+<XML_Serializer_Tag>Parchim</XML_Serializer_Tag>
+</birthPlace>
+<deathPlace>
+<XML_Serializer_Tag>Schwerin</XML_Serializer_Tag>
+</deathPlace>
+<professionOrOccupation>
+<XML_Serializer_Tag>Schriftsteller</XML_Serializer_Tag>
+<XML_Serializer_Tag>Mundartschriftsteller</XML_Serializer_Tag>
+<XML_Serializer_Tag>Verwaltungsangestellter</XML_Serializer_Tag>
+</professionOrOccupation>
+<dbpResource>http://dbpedia.org/resource/Rudolf_Tarnow</dbpResource>
+<abstract>Rudolf Tarnow (* 25. Februar 1867 in Parchim; † 19. Mai 1933 in Sachsenberg bei Schwerin) war ein niederdeutscher Schriftsteller.</abstract>
+<wikilink>http://en.wikipedia.org/wiki/Rudolf_Tarnow?oldid=579923310</wikilink>
+<artworks />
+<buildings />
+<books />
+</Person>

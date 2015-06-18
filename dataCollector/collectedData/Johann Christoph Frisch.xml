@@ -19,8 +19,10 @@
 <professionOrOccupation>
 <XML_Serializer_Tag>Maler</XML_Serializer_Tag>
 </professionOrOccupation>
-<artworks />
 <dbpResource>http://dbpedia.org/resource/Johann_Christoph_Frisch</dbpResource>
 <abstract>Johann Christoph Frisch (* 9. Februar 1738 in Berlin; † 28. Februar 1815 ebenda) war ein Berliner Hofmaler, Zeichner und Radierer unter Friedrich II..</abstract>
 <wikilink>http://en.wikipedia.org/wiki/Johann_Christoph_Frisch?oldid=586220305</wikilink>
+<artworks />
+<buildings />
+<books />
 </Person>

@@ -1,0 +1,26 @@
+<Person>
+<name>Henry Wotton</name>
+<variantName>
+<XML_Serializer_Tag>H. Wotton</XML_Serializer_Tag>
+<XML_Serializer_Tag>Heinrich Wotton</XML_Serializer_Tag>
+<XML_Serializer_Tag>Henricus Wotton</XML_Serializer_Tag>
+<XML_Serializer_Tag>Henricus Wottonius</XML_Serializer_Tag>
+</variantName>
+<thumbnail>https://commons.wikimedia.org/wiki/Special:FilePath/Sir_Henry_Wotton_(1568-1639),_Studio_of_Michiel_Jansz_van_Mierevelt.jpg?width=270</thumbnail>
+<birthEN>1568</birthEN>
+<birthDE>1568</birthDE>
+<deathEN>1639</deathEN>
+<deathDE>1639</deathDE>
+<birthPlace />
+<deathPlace />
+<professionOrOccupation>
+<XML_Serializer_Tag>Diplomat</XML_Serializer_Tag>
+<XML_Serializer_Tag>Schriftsteller</XML_Serializer_Tag>
+</professionOrOccupation>
+<dbpResource>http://dbpedia.org/resource/Henry_Wotton</dbpResource>
+<abstract>Sir Henry Wotton (* 30. März 1568 in Bocton Hall; † Dezember 1639) war ein englischer Diplomat, Dichter und Kunstkenner.</abstract>
+<wikilink>http://en.wikipedia.org/wiki/Henry_Wotton?oldid=602814469</wikilink>
+<artworks />
+<buildings />
+<books />
+</Person>

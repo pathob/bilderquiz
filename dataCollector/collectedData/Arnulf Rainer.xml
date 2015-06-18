@@ -15,8 +15,10 @@
 <XML_Serializer_Tag>Photograph</XML_Serializer_Tag>
 <XML_Serializer_Tag>Künstler</XML_Serializer_Tag>
 </professionOrOccupation>
-<artworks />
 <dbpResource>http://dbpedia.org/resource/Arnulf_Rainer</dbpResource>
 <abstract>Arnulf Rainer (* 8. Dezember 1929 in Baden bei Wien) ist ein zeitgenössischer österreichischer Maler. Bekannt sind seine Übermalungen.</abstract>
 <wikilink>http://en.wikipedia.org/wiki/Arnulf_Rainer?oldid=601659684</wikilink>
+<artworks />
+<buildings />
+<books />
 </Person>

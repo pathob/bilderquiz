@@ -1,0 +1,27 @@
+<Person>
+<name>Luciano De Crescenzo</name>
+<variantName>
+<XML_Serializer_Tag>Luciano DeCrescenzo</XML_Serializer_Tag>
+<XML_Serializer_Tag>Luciano de Crescenzo</XML_Serializer_Tag>
+</variantName>
+<thumbnail>https://commons.wikimedia.org/wiki/Special:FilePath/Decrescenzo2.jpg?width=270</thumbnail>
+<birthEN>1928</birthEN>
+<birthDE>1928</birthDE>
+<deathEN />
+<deathDE />
+<birthPlace>
+<XML_Serializer_Tag>Neapel</XML_Serializer_Tag>
+</birthPlace>
+<deathPlace />
+<professionOrOccupation>
+<XML_Serializer_Tag>Schriftsteller</XML_Serializer_Tag>
+<XML_Serializer_Tag>Regisseur</XML_Serializer_Tag>
+<XML_Serializer_Tag>Talkmaster</XML_Serializer_Tag>
+</professionOrOccupation>
+<dbpResource>http://dbpedia.org/resource/Luciano_De_Crescenzo</dbpResource>
+<abstract>Luciano De Crescenzo (* 20. August 1928 in Neapel) ist ein italienischer Schriftsteller und Ingenieur.</abstract>
+<wikilink>http://en.wikipedia.org/wiki/Luciano_De_Crescenzo?oldid=601401429</wikilink>
+<artworks />
+<buildings />
+<books />
+</Person>

@@ -1,0 +1,83 @@
+<Person>
+<name>Manuel Puig</name>
+<variantName />
+<thumbnail>https://commons.wikimedia.org/wiki/Special:FilePath/Manuel_Puig.JPG?width=270</thumbnail>
+<birthEN>1932</birthEN>
+<birthDE>1932</birthDE>
+<deathEN>1990</deathEN>
+<deathDE>1990</deathDE>
+<birthPlace />
+<deathPlace />
+<professionOrOccupation>
+<XML_Serializer_Tag>Schriftsteller</XML_Serializer_Tag>
+</professionOrOccupation>
+<dbpResource>http://dbpedia.org/resource/Manuel_Puig</dbpResource>
+<abstract>Juan Manuel Puig Delledonne, besser bekannt als Manuel Puig (* 28. Dezember 1932 in General Villegas, Argentinien; † 22. Juli 1990 in Cuernavaca, Mexiko) war ein argentinischer Schriftsteller und Filmschaffender.</abstract>
+<wikilink>http://en.wikipedia.org/wiki/Manuel_Puig?oldid=595768769</wikilink>
+<artworks />
+<buildings />
+<books>
+<XML_Serializer_Tag>
+<book>
+<type>uri</type>
+<value>http://dbpedia.org/resource/Kiss_of_the_Spider_Woman_(novel)</value>
+</book>
+<author>
+<type>uri</type>
+<value>http://dbpedia.org/resource/Manuel_Puig</value>
+</author>
+<released>
+<type>typed-literal</type>
+<datatype>http://www.w3.org/2001/XMLSchema#integer</datatype>
+<value>1976</value>
+</released>
+<wikilink>
+<type>uri</type>
+<value>http://en.wikipedia.org/wiki/Kiss_of_the_Spider_Woman_(novel)?oldid=592690987</value>
+</wikilink>
+<abstract>
+<type>literal</type>
+<xml:lang>de</xml:lang>
+<value>Der Kuss der Spinnenfrau (spanischer Originaltitel: El beso de la mujer araña) ist der erfolgreichste Roman des argentinischen Schriftstellers Manuel Puig und erschien 1976.In dem Roman sitzen der homo- oder transsexuelle Molina und der marxistische Revolutionär Valentín in einer Gefängniszelle und Molina erzählt Valentín Arregui Filme, vor allem Hollywoodfilme der 1930er und 1940er Jahre. Dabei verliebt sich Molina in Valentín. Beide Männer nähern sich einander an, und die starren Geschlechterrollen lösen sich auf. Molina wird schließlich entlassen, führt dann aber einen Auftrag für die Widerstandskämpfer von Valentín aus und wird dabei erschossen. Valentín bleibt im Gefängnis, sein Ende ist unklar. Im letzten Kapitel deliriert er jedoch unter den Folgen der Folter. Sein Tod ist also nur noch eine Frage der Zeit.Auffallend ist dabei die völlige Abwesenheit eines Erzählers, vielmehr besteht der Roman nur aus gesprochener Rede, Bewusstseinsströmen und gegen Ende aus Polizeiberichten. Völlig von der Handlung losgelöst erfolgt in 9 Fußnoten eine wissenschaftliche Abhandlung über das Wesen und die Ursachen der Homosexualität. Der Erzähler tritt also nur durch die Auswahl der Textstücke zutage. Wie im filmischen Verfahren der Montage werden sie so von ihm geordnet und gegenübergestellt.Valentín und Molina kommunizieren über die Filme, die in gewissem Sinne eine Allegorie zu ihrer eigenen Situation darstellen. Es werden schwierige Liebesverhältnissse dargestellt, die Opferbereitschaft der liebenden Frau, die Situation der Unterdrückung und das Gefangensein.</value>
+</abstract>
+</XML_Serializer_Tag>
+<XML_Serializer_Tag>
+<book>
+<type>uri</type>
+<value>http://dbpedia.org/resource/Pubis_Angelical</value>
+</book>
+<author>
+<type>uri</type>
+<value>http://dbpedia.org/resource/Manuel_Puig</value>
+</author>
+<released>
+<type>typed-literal</type>
+<datatype>http://www.w3.org/2001/XMLSchema#integer</datatype>
+<value>1979</value>
+</released>
+<wikilink>
+<type>uri</type>
+<value>http://en.wikipedia.org/wiki/Pubis_Angelical?oldid=590149513</value>
+</wikilink>
+</XML_Serializer_Tag>
+<XML_Serializer_Tag>
+<book>
+<type>uri</type>
+<value>http://dbpedia.org/resource/Eternal_Curse_on_the_Reader_of_These_Pages</value>
+</book>
+<author>
+<type>uri</type>
+<value>http://dbpedia.org/resource/Manuel_Puig</value>
+</author>
+<released>
+<type>typed-literal</type>
+<datatype>http://www.w3.org/2001/XMLSchema#integer</datatype>
+<value>1980</value>
+</released>
+<wikilink>
+<type>uri</type>
+<value>http://en.wikipedia.org/wiki/Eternal_Curse_on_the_Reader_of_These_Pages?oldid=590150373</value>
+</wikilink>
+</XML_Serializer_Tag>
+</books>
+</Person>

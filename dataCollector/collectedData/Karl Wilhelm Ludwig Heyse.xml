@@ -1,0 +1,30 @@
+<Person>
+<name>Karl Wilhelm Ludwig Heyse</name>
+<variantName>
+<XML_Serializer_Tag>Karl Heyse</XML_Serializer_Tag>
+<XML_Serializer_Tag>Carl W. Heyse</XML_Serializer_Tag>
+<XML_Serializer_Tag>Carolus G. Heyse</XML_Serializer_Tag>
+<XML_Serializer_Tag>Carl Wilhelm Ludwig Heyse</XML_Serializer_Tag>
+<XML_Serializer_Tag>K. W. L. Heyse</XML_Serializer_Tag>
+<XML_Serializer_Tag>Karl W. Heyse</XML_Serializer_Tag>
+</variantName>
+<thumbnail>https://commons.wikimedia.org/wiki/Special:FilePath/Karl_Wilhelm_Ludwig_Heyse.jpg?width=270</thumbnail>
+<birthEN>October 15, 1797</birthEN>
+<birthDE>15. Oktober 1797</birthDE>
+<deathEN>November 25, 1855</deathEN>
+<deathDE>25. November 1855</deathDE>
+<birthPlace>
+<XML_Serializer_Tag>Oldenburg (Oldenburg)</XML_Serializer_Tag>
+</birthPlace>
+<deathPlace />
+<professionOrOccupation>
+<XML_Serializer_Tag>Philologe</XML_Serializer_Tag>
+<XML_Serializer_Tag>Philosoph</XML_Serializer_Tag>
+</professionOrOccupation>
+<dbpResource>http://dbpedia.org/resource/Karl_Wilhelm_Ludwig_Heyse</dbpResource>
+<abstract>Karl Wilhelm Ludwig Heyse (* 15. Oktober 1797 in Oldenburg; † 25. November 1855 in Berlin) war ein deutscher Altphilologe und Sprachwissenschaftler.</abstract>
+<wikilink>http://en.wikipedia.org/wiki/Karl_Wilhelm_Ludwig_Heyse?oldid=599774123</wikilink>
+<artworks />
+<buildings />
+<books />
+</Person>

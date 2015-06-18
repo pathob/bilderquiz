@@ -1,0 +1,28 @@
+<Person>
+<name>Philipp von Nathusius</name>
+<variantName>
+<XML_Serializer_Tag>Philipp Nathusius</XML_Serializer_Tag>
+<XML_Serializer_Tag>Ph. von Nathusius</XML_Serializer_Tag>
+<XML_Serializer_Tag>Philipp Engelhard Nathusius</XML_Serializer_Tag>
+<XML_Serializer_Tag>Philipp von Rathusius</XML_Serializer_Tag>
+</variantName>
+<thumbnail>https://commons.wikimedia.org/wiki/Special:FilePath/PhilippvN,_portrait,_Julius_P.JPG?width=270</thumbnail>
+<birthEN>November 5, 1815</birthEN>
+<birthDE>5. November 1815</birthDE>
+<deathEN>August 16, 1872</deathEN>
+<deathDE>16. August 1872</deathDE>
+<birthPlace />
+<deathPlace />
+<professionOrOccupation>
+<XML_Serializer_Tag>Kaufmann</XML_Serializer_Tag>
+<XML_Serializer_Tag>Schriftsteller</XML_Serializer_Tag>
+<XML_Serializer_Tag>Lyriker</XML_Serializer_Tag>
+<XML_Serializer_Tag>Landwirt</XML_Serializer_Tag>
+</professionOrOccupation>
+<dbpResource>http://dbpedia.org/resource/Philipp_von_Nathusius_(publisher)</dbpResource>
+<abstract>Philipp Engelhard Nathusius, seit 1861 von Nathusius (* 5. November 1815 in Althaldensleben; † 16. August 1872 in Luzern), war ein deutscher Publizist und Gründer der Nathusius’schen Stiftung in Neinstedt, den späteren Neinstedter Anstalten.</abstract>
+<wikilink>http://en.wikipedia.org/wiki/Philipp_von_Nathusius_(publisher)?oldid=551812744</wikilink>
+<artworks />
+<buildings />
+<books />
+</Person>

@@ -1,0 +1,29 @@
+<Person>
+<name>Erwin Panofsky</name>
+<variantName>
+<XML_Serializer_Tag>A. F. Synkop</XML_Serializer_Tag>
+<XML_Serializer_Tag>Ėrvin Panofski</XML_Serializer_Tag>
+<XML_Serializer_Tag>E. Panofsky</XML_Serializer_Tag>
+</variantName>
+<thumbnail>https://en.wikipedia.org/wiki/Special:FilePath/Erwin_Panofsky.jpg?width=270</thumbnail>
+<birthEN>March 30, 1892</birthEN>
+<birthDE>30. März 1892</birthDE>
+<deathEN>March 14, 1968</deathEN>
+<deathDE>14. März 1968</deathDE>
+<birthPlace>
+<XML_Serializer_Tag>Hannover</XML_Serializer_Tag>
+</birthPlace>
+<deathPlace>
+<XML_Serializer_Tag>Princeton, NJ</XML_Serializer_Tag>
+</deathPlace>
+<professionOrOccupation>
+<XML_Serializer_Tag>Kunsthistoriker</XML_Serializer_Tag>
+<XML_Serializer_Tag>Schriftsteller</XML_Serializer_Tag>
+</professionOrOccupation>
+<dbpResource>http://dbpedia.org/resource/Erwin_Panofsky</dbpResource>
+<abstract>Erwin Panofsky (* 30. März 1892 in Hannover; † 14. März 1968 in Princeton, New Jersey, USA) gilt als einer der bedeutendsten Kunsthistoriker des 20. Jahrhunderts und als Mitbegründer der Ikonologie.</abstract>
+<wikilink>http://en.wikipedia.org/wiki/Erwin_Panofsky?oldid=593660304</wikilink>
+<artworks />
+<buildings />
+<books />
+</Person>

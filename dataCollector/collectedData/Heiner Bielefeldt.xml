@@ -1,0 +1,27 @@
+<Person>
+<name>Heiner Bielefeldt</name>
+<variantName>
+<XML_Serializer_Tag>Hāyīnir Bīlīfīld</XML_Serializer_Tag>
+</variantName>
+<thumbnail>https://commons.wikimedia.org/wiki/Special:FilePath/Bielefeldt_og_Gunn,_print.jpg?width=270</thumbnail>
+<birthEN>1958</birthEN>
+<birthDE>1958</birthDE>
+<deathEN />
+<deathDE />
+<birthPlace>
+<XML_Serializer_Tag>Opherten</XML_Serializer_Tag>
+</birthPlace>
+<deathPlace />
+<professionOrOccupation>
+<XML_Serializer_Tag>Philosoph</XML_Serializer_Tag>
+<XML_Serializer_Tag>Katholischer Theologe</XML_Serializer_Tag>
+<XML_Serializer_Tag>Historiker</XML_Serializer_Tag>
+<XML_Serializer_Tag>Hochschullehrer</XML_Serializer_Tag>
+</professionOrOccupation>
+<dbpResource>http://dbpedia.org/resource/Heiner_Bielefeldt</dbpResource>
+<abstract>Heiner Bielefeldt (* 12. April 1958 in Titz-Opherten) ist ein deutscher Theologe, Philosoph und Historiker. Er ist Inhaber des Lehrstuhls für Menschenrechte und Menschenrechtspolitik der Friedrich-Alexander-Universität Erlangen-Nürnberg. Seit Juni 2010 ist Bielefeldt Sonderberichterstatter für Religions- und Weltanschauungsfreiheit des UN-Menschenrechtsrats.</abstract>
+<wikilink>http://en.wikipedia.org/wiki/Heiner_Bielefeldt?oldid=546294489</wikilink>
+<artworks />
+<buildings />
+<books />
+</Person>

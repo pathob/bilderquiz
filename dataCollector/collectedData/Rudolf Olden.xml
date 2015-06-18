@@ -1,0 +1,31 @@
+<Person>
+<name>Rudolf Olden</name>
+<variantName>
+<XML_Serializer_Tag>Rudi Olden</XML_Serializer_Tag>
+<XML_Serializer_Tag>Gunter Rudolf Olden</XML_Serializer_Tag>
+<XML_Serializer_Tag>Rudolf Olmen</XML_Serializer_Tag>
+<XML_Serializer_Tag>Rudolf Günther</XML_Serializer_Tag>
+<XML_Serializer_Tag>Rudolf Gunther</XML_Serializer_Tag>
+<XML_Serializer_Tag>Adriaen</XML_Serializer_Tag>
+</variantName>
+<thumbnail>https://commons.wikimedia.org/wiki/Special:FilePath/Olden-Ascona-1920s.jpg?width=270</thumbnail>
+<birthEN>January 14, 1885</birthEN>
+<birthDE>14. Januar 1885</birthDE>
+<deathEN>September 17, 1940</deathEN>
+<deathDE>17. September 1940</deathDE>
+<birthPlace>
+<XML_Serializer_Tag>Stettin</XML_Serializer_Tag>
+</birthPlace>
+<deathPlace />
+<professionOrOccupation>
+<XML_Serializer_Tag>Jurist</XML_Serializer_Tag>
+<XML_Serializer_Tag>Journalist</XML_Serializer_Tag>
+<XML_Serializer_Tag>Schriftsteller</XML_Serializer_Tag>
+</professionOrOccupation>
+<dbpResource>http://dbpedia.org/resource/Rudolf_Olden</dbpResource>
+<abstract>Rudolf Olden (* 14. Januar 1885 in Stettin; † 18. September 1940 im Atlantik) war ein deutscher Journalist und Rechtsanwalt. Er war eine Persönlichkeit des öffentlichen Lebens der Weimarer Republik.</abstract>
+<wikilink>http://en.wikipedia.org/wiki/Rudolf_Olden?oldid=605001148</wikilink>
+<artworks />
+<buildings />
+<books />
+</Person>

@@ -1,0 +1,39 @@
+<Person>
+<name>Anacreon</name>
+<variantName>
+<XML_Serializer_Tag>Anacreon, Lyricus</XML_Serializer_Tag>
+<XML_Serializer_Tag>Anacreon, Teius</XML_Serializer_Tag>
+<XML_Serializer_Tag>Anakreion</XML_Serializer_Tag>
+<XML_Serializer_Tag>Anakreon, Lyriker</XML_Serializer_Tag>
+<XML_Serializer_Tag>Anakreon, von Teos</XML_Serializer_Tag>
+<XML_Serializer_Tag>Anacréon, de Théos</XML_Serializer_Tag>
+<XML_Serializer_Tag>Anacreon, of Teos</XML_Serializer_Tag>
+<XML_Serializer_Tag>Anacréon</XML_Serializer_Tag>
+<XML_Serializer_Tag>Anakreon</XML_Serializer_Tag>
+<XML_Serializer_Tag>Ανακρέων</XML_Serializer_Tag>
+<XML_Serializer_Tag>Ανακρέων ο Τήιος</XML_Serializer_Tag>
+<XML_Serializer_Tag>Anacreo, Lyricus</XML_Serializer_Tag>
+<XML_Serializer_Tag>Anacreonte</XML_Serializer_Tag>
+<XML_Serializer_Tag>Anacreonte, di Teo</XML_Serializer_Tag>
+<XML_Serializer_Tag>Anacréon, de Téos</XML_Serializer_Tag>
+<XML_Serializer_Tag>Anakreonte</XML_Serializer_Tag>
+<XML_Serializer_Tag>Anakreon, Tēios</XML_Serializer_Tag>
+<XML_Serializer_Tag>Anakreon</XML_Serializer_Tag>
+</variantName>
+<thumbnail>https://commons.wikimedia.org/wiki/Special:FilePath/Anacreon_-_Project_Gutenberg_eText_12788.png?width=270</thumbnail>
+<birthEN />
+<birthDE />
+<deathEN />
+<deathDE />
+<birthPlace />
+<deathPlace />
+<professionOrOccupation>
+<XML_Serializer_Tag>Schriftsteller</XML_Serializer_Tag>
+</professionOrOccupation>
+<dbpResource>http://dbpedia.org/resource/Anacreon</dbpResource>
+<abstract>Anakreon (griechisch Ἀνακρέων Anakréōn; * um 575/570 v. Chr. in Teos in Ionien, heute Sıgacık in der Türkei; † 495 v. Chr. in Athen) war ein griechischer Lyriker, der zum Kanon der neun Lyriker gezählt wird.</abstract>
+<wikilink>http://en.wikipedia.org/wiki/Anacreon?oldid=575730583</wikilink>
+<artworks />
+<buildings />
+<books />
+</Person>

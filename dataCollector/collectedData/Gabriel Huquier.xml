@@ -1,0 +1,28 @@
+<Person>
+<name>Gabriel Huquier</name>
+<variantName>
+<XML_Serializer_Tag>... Huquier</XML_Serializer_Tag>
+<XML_Serializer_Tag>Gabriel Buquier</XML_Serializer_Tag>
+</variantName>
+<thumbnail>https://commons.wikimedia.org/wiki/Special:FilePath/Gabriel-huquier-jean-baptiste-perronneau.jpg?width=270</thumbnail>
+<birthEN>May 9, 1695</birthEN>
+<birthDE>9. Mai 1695</birthDE>
+<deathEN>June 11, 1772</deathEN>
+<deathDE>11. Juni 1772</deathDE>
+<birthPlace>
+<XML_Serializer_Tag>Orléans</XML_Serializer_Tag>
+</birthPlace>
+<deathPlace>
+<XML_Serializer_Tag>Paris</XML_Serializer_Tag>
+</deathPlace>
+<professionOrOccupation>
+<XML_Serializer_Tag>Künstler</XML_Serializer_Tag>
+<XML_Serializer_Tag>Graphiker</XML_Serializer_Tag>
+</professionOrOccupation>
+<dbpResource>http://dbpedia.org/resource/Gabriel_Huquier</dbpResource>
+<abstract>Gabriel Huquier, auch Jacques Gabriel Huquier (* 9. Mai 1695 in Orléans; † 11. Juni 1772), war ein französischer Zeichner, Radierer, Kupferstecher, Kunsthändler und Kunstsammler, dem eine bedeutende Rolle in der Verbreitung des Rokokostils zugeschrieben wird.</abstract>
+<wikilink>http://en.wikipedia.org/wiki/Gabriel_Huquier?oldid=603982388</wikilink>
+<artworks />
+<buildings />
+<books />
+</Person>

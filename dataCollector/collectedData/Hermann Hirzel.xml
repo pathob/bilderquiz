@@ -22,8 +22,10 @@
 <XML_Serializer_Tag>Graphiker</XML_Serializer_Tag>
 <XML_Serializer_Tag>Zeichner</XML_Serializer_Tag>
 </professionOrOccupation>
-<artworks />
 <dbpResource>http://dbpedia.org/resource/Hermann_Hirzel</dbpResource>
 <abstract>Hermann Robert Catumby Hirzel (* 6. Juli 1864 in Buenos Aires, Argentinien; † 7. Juni 1939 in Berlin) war ein Apotheker sowie Maler, Radierer, Grafiker und Zeichner Schweizer Herkunft.</abstract>
 <wikilink>http://en.wikipedia.org/wiki/Hermann_Hirzel?oldid=583581823</wikilink>
+<artworks />
+<buildings />
+<books />
 </Person>

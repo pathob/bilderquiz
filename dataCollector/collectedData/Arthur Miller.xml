@@ -1,0 +1,29 @@
+<Person>
+<name>Arthur Miller</name>
+<variantName>
+<XML_Serializer_Tag>Arthur Asher Miller</XML_Serializer_Tag>
+<XML_Serializer_Tag>Artur Miler</XML_Serializer_Tag>
+<XML_Serializer_Tag>阿瑟·米勒</XML_Serializer_Tag>
+</variantName>
+<thumbnail>https://commons.wikimedia.org/wiki/Special:FilePath/Arthur-miller.jpg?width=270</thumbnail>
+<birthEN>October 17, 1915</birthEN>
+<birthDE>17. Oktober 1915</birthDE>
+<deathEN>February 10, 2005</deathEN>
+<deathDE>10. Februar 2005</deathDE>
+<birthPlace>
+<XML_Serializer_Tag>New York, NY</XML_Serializer_Tag>
+</birthPlace>
+<deathPlace>
+<XML_Serializer_Tag>Roxbury, Connecticut, USA</XML_Serializer_Tag>
+</deathPlace>
+<professionOrOccupation>
+<XML_Serializer_Tag>Dramatiker</XML_Serializer_Tag>
+<XML_Serializer_Tag>Schriftsteller</XML_Serializer_Tag>
+</professionOrOccupation>
+<dbpResource>http://dbpedia.org/resource/Arthur_Miller</dbpResource>
+<abstract>Arthur Asher Miller (* 17. Oktober 1915 in New York City; † 10. Februar 2005 in Roxbury, Connecticut) war ein US-amerikanischer Schriftsteller. Arthur Miller gilt als wichtiger gesellschaftskritischer Dramatiker der neueren Zeit. Seine sozial- und zeitkritischen Dramen wenden sich gegen den so genannten American Way of Life, bei dem der berufliche Erfolg im Mittelpunkt steht. Immer wieder stellte Miller die ethische Verpflichtung des Einzelnen in den Vordergrund.</abstract>
+<wikilink>http://en.wikipedia.org/wiki/Arthur_Miller?oldid=606779721</wikilink>
+<artworks />
+<buildings />
+<books />
+</Person>

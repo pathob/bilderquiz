@@ -1,0 +1,74 @@
+<Person>
+<name>Alexis de Tocqueville</name>
+<variantName>
+<XML_Serializer_Tag>Alexis Charles Henry de Tocqueville</XML_Serializer_Tag>
+<XML_Serializer_Tag>Alexis-Charles-Henri C. de Tocqueville</XML_Serializer_Tag>
+<XML_Serializer_Tag>Alexis-Charles-Henri Clérel de Tocqueville</XML_Serializer_Tag>
+<XML_Serializer_Tag>Alexis Clérel de Tocqueville</XML_Serializer_Tag>
+<XML_Serializer_Tag>Alexis Clerel de Tocqueville</XML_Serializer_Tag>
+<XML_Serializer_Tag>Alexis Charles Henri de Tocqueville</XML_Serializer_Tag>
+<XML_Serializer_Tag>Alexis Charles Henri Maurice Clérel de Tocqueville</XML_Serializer_Tag>
+<XML_Serializer_Tag>Alexis Charles Henri Clérel de Tocqueville</XML_Serializer_Tag>
+<XML_Serializer_Tag>Charles Alexis Henry Maurice Clerel de Tocqueville</XML_Serializer_Tag>
+<XML_Serializer_Tag>Ch. Alexis de Tocqueville</XML_Serializer_Tag>
+<XML_Serializer_Tag>Charles Alexis Clérel de Tocqueville</XML_Serializer_Tag>
+<XML_Serializer_Tag>Charles A. de Tocqueville</XML_Serializer_Tag>
+<XML_Serializer_Tag>Charles A. Tocqueville</XML_Serializer_Tag>
+<XML_Serializer_Tag>Aleksej de Tokvil&apos;</XML_Serializer_Tag>
+<XML_Serializer_Tag>Aleksis de Tokvilʹ</XML_Serializer_Tag>
+<XML_Serializer_Tag>Alexis De Tocqueville</XML_Serializer_Tag>
+<XML_Serializer_Tag>Alexis de Tokuviru</XML_Serializer_Tag>
+<XML_Serializer_Tag>Alexis C. H. Clérel</XML_Serializer_Tag>
+<XML_Serializer_Tag>Alexis de Toqueville</XML_Serializer_Tag>
+<XML_Serializer_Tag>Alexis Charles Clérel de Tocqueville</XML_Serializer_Tag>
+<XML_Serializer_Tag>Alexis DeTocqueville</XML_Serializer_Tag>
+<XML_Serializer_Tag>Charles A. Clérel de Tocqueville</XML_Serializer_Tag>
+<XML_Serializer_Tag>Charles Alexis Henri Maurice Clérel de Tocqueville</XML_Serializer_Tag>
+<XML_Serializer_Tag>Alexis Clérel de Tocqueville</XML_Serializer_Tag>
+<XML_Serializer_Tag>Alexis C. Clérel de Tocqueville</XML_Serializer_Tag>
+<XML_Serializer_Tag>Alexis-Henri-Charles-Maurice Clérel</XML_Serializer_Tag>
+<XML_Serializer_Tag>Alexis Charles Henri DeTocqueville</XML_Serializer_Tag>
+</variantName>
+<thumbnail>https://commons.wikimedia.org/wiki/Special:FilePath/DeTocque.jpg?width=270</thumbnail>
+<birthEN>July 29, 1805</birthEN>
+<birthDE>29. Juli 1805</birthDE>
+<deathEN>April 16, 1859</deathEN>
+<deathDE>16. April 1859</deathDE>
+<birthPlace>
+<XML_Serializer_Tag>Paris</XML_Serializer_Tag>
+</birthPlace>
+<deathPlace>
+<XML_Serializer_Tag>Cannes</XML_Serializer_Tag>
+</deathPlace>
+<professionOrOccupation>
+<XML_Serializer_Tag>Publizist</XML_Serializer_Tag>
+<XML_Serializer_Tag>Politiker</XML_Serializer_Tag>
+<XML_Serializer_Tag>Schriftsteller</XML_Serializer_Tag>
+<XML_Serializer_Tag>Historiker</XML_Serializer_Tag>
+</professionOrOccupation>
+<dbpResource>http://dbpedia.org/resource/Alexis_de_Tocqueville</dbpResource>
+<abstract>Charles Alexis Henri Maurice Clérel de Tocqueville [ʃaʀl alɛkˈsi ɑ̃ˈʀi mɔˈʀis kleˈʀɛl dətɔkˈvil] (* 29. Juli 1805 in Verneuil-sur-Seine; † 16. April 1859 in Cannes) war ein französischer Publizist, Politiker und Historiker. Er gilt als Begründer der vergleichenden Politikwissenschaft.</abstract>
+<wikilink>http://en.wikipedia.org/wiki/Alexis_de_Tocqueville?oldid=605917753</wikilink>
+<artworks />
+<buildings />
+<books>
+<XML_Serializer_Tag>
+<book>
+<type>uri</type>
+<value>http://dbpedia.org/resource/Democracy_in_America</value>
+</book>
+<author>
+<type>uri</type>
+<value>http://dbpedia.org/resource/Alexis_de_Tocqueville</value>
+</author>
+<thumbnail>
+<type>uri</type>
+<value>http://commons.wikimedia.org/wiki/Special:FilePath/Democracy_in_America_by_Alexis_de_Tocqueville_title_page.jpg?width=300</value>
+</thumbnail>
+<wikilink>
+<type>uri</type>
+<value>http://en.wikipedia.org/wiki/Democracy_in_America?oldid=605106107</value>
+</wikilink>
+</XML_Serializer_Tag>
+</books>
+</Person>

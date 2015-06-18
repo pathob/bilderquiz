@@ -1,0 +1,55 @@
+<Person>
+<name>Patrick Leigh Fermor</name>
+<variantName>
+<XML_Serializer_Tag>Patrick L. Fermor</XML_Serializer_Tag>
+<XML_Serializer_Tag>Patrik L. Phermor</XML_Serializer_Tag>
+<XML_Serializer_Tag>Patrick Leigh Fermor</XML_Serializer_Tag>
+<XML_Serializer_Tag>Patrick Michael Leigh Fermor</XML_Serializer_Tag>
+<XML_Serializer_Tag>Patrick Michael Leigh Fermor</XML_Serializer_Tag>
+<XML_Serializer_Tag>Paddy</XML_Serializer_Tag>
+<XML_Serializer_Tag>Patrik Le-Phermor</XML_Serializer_Tag>
+<XML_Serializer_Tag>Patrik Le-Phermor</XML_Serializer_Tag>
+<XML_Serializer_Tag>Patrick Leigh-Fermor</XML_Serializer_Tag>
+</variantName>
+<thumbnail>https://en.wikipedia.org/wiki/Special:FilePath/Patrick_Leigh_Fermor_in_1966.jpg?width=270</thumbnail>
+<birthEN>February 11, 1915</birthEN>
+<birthDE>11. Februar 1915</birthDE>
+<deathEN>June 10, 2011</deathEN>
+<deathDE>10. Juni 2011</deathDE>
+<birthPlace>
+<XML_Serializer_Tag>London</XML_Serializer_Tag>
+</birthPlace>
+<deathPlace>
+<XML_Serializer_Tag>Dumbleton</XML_Serializer_Tag>
+</deathPlace>
+<professionOrOccupation>
+<XML_Serializer_Tag>Schriftsteller</XML_Serializer_Tag>
+<XML_Serializer_Tag>Spion</XML_Serializer_Tag>
+</professionOrOccupation>
+<dbpResource>http://dbpedia.org/resource/Patrick_Leigh_Fermor</dbpResource>
+<abstract>Sir Patrick Leigh Fermor DSO, OBE (* 11. Februar 1915 in London; † 10. Juni 2011 in Worcestershire) war ein britischer Schriftsteller und SOE-Agent. 1944 war er eine der Schlüsselfiguren bei der Entführung des deutschen Befehlshabers auf Kreta, Heinrich Kreipe.</abstract>
+<wikilink>http://en.wikipedia.org/wiki/Patrick_Leigh_Fermor?oldid=606742096</wikilink>
+<artworks />
+<buildings />
+<books>
+<XML_Serializer_Tag>
+<book>
+<type>uri</type>
+<value>http://dbpedia.org/resource/Mani:_Travels_in_the_Southern_Peloponnese</value>
+</book>
+<author>
+<type>uri</type>
+<value>http://dbpedia.org/resource/Patrick_Leigh_Fermor</value>
+</author>
+<released>
+<type>typed-literal</type>
+<datatype>http://www.w3.org/2001/XMLSchema#integer</datatype>
+<value>1958</value>
+</released>
+<wikilink>
+<type>uri</type>
+<value>http://en.wikipedia.org/wiki/Mani:_Travels_in_the_Southern_Peloponnese?oldid=589809779</value>
+</wikilink>
+</XML_Serializer_Tag>
+</books>
+</Person>

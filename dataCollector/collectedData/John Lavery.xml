@@ -11,8 +11,10 @@
 <professionOrOccupation>
 <XML_Serializer_Tag>Maler</XML_Serializer_Tag>
 </professionOrOccupation>
-<artworks />
 <dbpResource>http://dbpedia.org/resource/John_Lavery</dbpResource>
 <abstract>Sir John Lavery RA (* 20. März 1856 in Belfast; † 10. Januar 1941 County Kilkenny) war ein irischer Porträtist und Landschaftsmaler.</abstract>
 <wikilink>http://en.wikipedia.org/wiki/John_Lavery?oldid=603167150</wikilink>
+<artworks />
+<buildings />
+<books />
 </Person>

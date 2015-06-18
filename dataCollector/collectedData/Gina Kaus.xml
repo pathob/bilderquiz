@@ -1,0 +1,38 @@
+<Person>
+<name>Gina Kaus</name>
+<variantName>
+<XML_Serializer_Tag>Regina Wiener</XML_Serializer_Tag>
+<XML_Serializer_Tag>Gina Wiener</XML_Serializer_Tag>
+<XML_Serializer_Tag>Gina Zirner-Kranz</XML_Serializer_Tag>
+<XML_Serializer_Tag>Regina Zirner</XML_Serializer_Tag>
+<XML_Serializer_Tag>Regina Kaus</XML_Serializer_Tag>
+<XML_Serializer_Tag>Gina Frischauer</XML_Serializer_Tag>
+<XML_Serializer_Tag>Andreas Eckbrecht</XML_Serializer_Tag>
+<XML_Serializer_Tag>Gina Kausová</XML_Serializer_Tag>
+<XML_Serializer_Tag>Gina Zinner</XML_Serializer_Tag>
+<XML_Serializer_Tag>Gina Kauss</XML_Serializer_Tag>
+<XML_Serializer_Tag>Regina Wiener</XML_Serializer_Tag>
+</variantName>
+<thumbnail>https://en.wikipedia.org/wiki/Special:FilePath/Gina_Kaus.jpg?width=270</thumbnail>
+<birthEN>November 21, 1894</birthEN>
+<birthDE>21. November 1894</birthDE>
+<deathEN>December 23, 1985</deathEN>
+<deathDE>23. Dezember 1985</deathDE>
+<birthPlace>
+<XML_Serializer_Tag>Wien</XML_Serializer_Tag>
+</birthPlace>
+<deathPlace>
+<XML_Serializer_Tag>Los Angeles, Calif.</XML_Serializer_Tag>
+</deathPlace>
+<professionOrOccupation>
+<XML_Serializer_Tag>Schriftstellerin</XML_Serializer_Tag>
+<XML_Serializer_Tag>Übersetzerin</XML_Serializer_Tag>
+<XML_Serializer_Tag>Drehbuchautorin</XML_Serializer_Tag>
+</professionOrOccupation>
+<dbpResource>http://dbpedia.org/resource/Gina_Kaus</dbpResource>
+<abstract>Gina Kaus (* 21. Oktober 1893 in Wien; † 23. Dezember 1985 in Los Angeles; eigentlich Regina Wiener) war eine österreichische Schriftstellerin, Übersetzerin und Drehbuchautorin.</abstract>
+<wikilink>http://en.wikipedia.org/wiki/Gina_Kaus?oldid=592466095</wikilink>
+<artworks />
+<buildings />
+<books />
+</Person>

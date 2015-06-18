@@ -1,0 +1,62 @@
+<Person>
+<name>Johann Beer</name>
+<variantName>
+<XML_Serializer_Tag>Johannes Beer</XML_Serializer_Tag>
+<XML_Serializer_Tag>... von Amandus</XML_Serializer_Tag>
+<XML_Serializer_Tag>... Amandus</XML_Serializer_Tag>
+<XML_Serializer_Tag>Amandus de Amanto</XML_Serializer_Tag>
+<XML_Serializer_Tag>Amanto</XML_Serializer_Tag>
+<XML_Serializer_Tag>Johann Bähr</XML_Serializer_Tag>
+<XML_Serializer_Tag>Johannes Bähr</XML_Serializer_Tag>
+<XML_Serializer_Tag>Johann Baer</XML_Serializer_Tag>
+<XML_Serializer_Tag>Johannes Baer</XML_Serializer_Tag>
+<XML_Serializer_Tag>Johann Beehr</XML_Serializer_Tag>
+<XML_Serializer_Tag>Johann Beerens</XML_Serializer_Tag>
+<XML_Serializer_Tag>Johann Bär</XML_Serializer_Tag>
+<XML_Serializer_Tag>Johannes Bär</XML_Serializer_Tag>
+<XML_Serializer_Tag>Johann Behr</XML_Serializer_Tag>
+<XML_Serializer_Tag>Johannes Behr</XML_Serializer_Tag>
+<XML_Serializer_Tag>Johann Ursus</XML_Serializer_Tag>
+<XML_Serializer_Tag>Johannes Ursus</XML_Serializer_Tag>
+<XML_Serializer_Tag>Johannes Beerius</XML_Serializer_Tag>
+<XML_Serializer_Tag>Johann Behrens</XML_Serializer_Tag>
+<XML_Serializer_Tag>Antoninus Caminerus</XML_Serializer_Tag>
+<XML_Serializer_Tag>Jucundus Jucundissimus</XML_Serializer_Tag>
+<XML_Serializer_Tag>Der Neue Ehemann</XML_Serializer_Tag>
+<XML_Serializer_Tag>Expert R. Ländler</XML_Serializer_Tag>
+<XML_Serializer_Tag>Expertus Rupertus Ländler</XML_Serializer_Tag>
+<XML_Serializer_Tag>Expertus R. Ländler</XML_Serializer_Tag>
+<XML_Serializer_Tag>Der Neue Ehemann</XML_Serializer_Tag>
+<XML_Serializer_Tag>Alamodo Pickelhering</XML_Serializer_Tag>
+<XML_Serializer_Tag>Alamodus Pickelhering</XML_Serializer_Tag>
+<XML_Serializer_Tag>Jan Rebhu</XML_Serializer_Tag>
+<XML_Serializer_Tag>Franciscus Sambelle</XML_Serializer_Tag>
+<XML_Serializer_Tag>Johann Ursinus</XML_Serializer_Tag>
+<XML_Serializer_Tag>Wolfgang von Willenhag</XML_Serializer_Tag>
+<XML_Serializer_Tag>Zendorius à Zendoriis</XML_Serializer_Tag>
+</variantName>
+<thumbnail>https://commons.wikimedia.org/wiki/Special:FilePath/Johann_Beer.jpg?width=270</thumbnail>
+<birthEN>March 18, 1655</birthEN>
+<birthDE>18. März 1655</birthDE>
+<deathEN>August 6, 1700</deathEN>
+<deathDE>6. August 1700</deathDE>
+<birthPlace>
+<XML_Serializer_Tag>Sankt Georgen im Attergau</XML_Serializer_Tag>
+</birthPlace>
+<deathPlace>
+<XML_Serializer_Tag>Weißenfels (Burgenlandkreis)</XML_Serializer_Tag>
+</deathPlace>
+<professionOrOccupation>
+<XML_Serializer_Tag>Komponist</XML_Serializer_Tag>
+<XML_Serializer_Tag>Musiker</XML_Serializer_Tag>
+<XML_Serializer_Tag>Schriftsteller</XML_Serializer_Tag>
+<XML_Serializer_Tag>Romancier</XML_Serializer_Tag>
+<XML_Serializer_Tag>Bibliothekar</XML_Serializer_Tag>
+</professionOrOccupation>
+<dbpResource>http://dbpedia.org/resource/Johann_Beer</dbpResource>
+<abstract>Johann Beer, auch Behr oder Bär, (* 28. Februar 1655 in St. Georgen im Attergau, Oberösterreich; † 6. August 1700 in Weißenfels) war ein Schriftsteller und Komponist.</abstract>
+<wikilink>http://en.wikipedia.org/wiki/Johann_Beer?oldid=566989598</wikilink>
+<artworks />
+<buildings />
+<books />
+</Person>

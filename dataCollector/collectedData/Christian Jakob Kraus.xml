@@ -1,0 +1,29 @@
+<Person>
+<name>Christian Jakob Kraus</name>
+<variantName>
+<XML_Serializer_Tag>Christian J. Kraus</XML_Serializer_Tag>
+<XML_Serializer_Tag>Chr. Jac. Kraus</XML_Serializer_Tag>
+<XML_Serializer_Tag>Christian Jacob Kraus</XML_Serializer_Tag>
+<XML_Serializer_Tag>Christian J. Krauss</XML_Serializer_Tag>
+</variantName>
+<thumbnail>https://commons.wikimedia.org/wiki/Special:FilePath/Christian_Jakob_Kraus.jpg?width=270</thumbnail>
+<birthEN>July 27, 1753</birthEN>
+<birthDE>27. Juli 1753</birthDE>
+<deathEN>1807</deathEN>
+<deathDE>1807</deathDE>
+<birthPlace>
+<XML_Serializer_Tag>Osterode (Ostpreußen)</XML_Serializer_Tag>
+</birthPlace>
+<deathPlace>
+<XML_Serializer_Tag>Königsberg</XML_Serializer_Tag>
+</deathPlace>
+<professionOrOccupation>
+<XML_Serializer_Tag>Philosoph</XML_Serializer_Tag>
+</professionOrOccupation>
+<dbpResource>http://dbpedia.org/resource/Christian_Jakob_Kraus</dbpResource>
+<abstract>Christian Jakob Kraus (* 27. Juli 1753 in Osterode am Harz; † 25. August 1807 in Königsberg i. Pr.) war ein deutscher Philosoph und Kameralwissenschaftler in der ausgehenden Aufklärung.</abstract>
+<wikilink>http://en.wikipedia.org/wiki/Christian_Jakob_Kraus?oldid=599734378</wikilink>
+<artworks />
+<buildings />
+<books />
+</Person>

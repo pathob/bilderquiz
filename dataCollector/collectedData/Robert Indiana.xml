@@ -11,12 +11,15 @@
 <professionOrOccupation>
 <XML_Serializer_Tag>Maler</XML_Serializer_Tag>
 </professionOrOccupation>
+<dbpResource>http://dbpedia.org/resource/Robert_Indiana</dbpResource>
+<abstract>Robert Indiana (* 13. September 1928 in New Castle, Indiana; ursprünglich Robert Clark) ist ein US-amerikanischer Maler sowie ein Hauptvertreter der Pop Art und der Signalkunst. Bekannt wurde er durch seine plakativen Zeichenbilder, die zu den radikalsten Äußerungen in der Pop Art zählen. Ebenso einfach wie Indianas 1966 entstandenes Werk LOVE mit seinen Buchstaben L und O, darunter V und E – in den Farben Rot, Blau und Grün –, erscheinen seine anderen Arbeiten aus Zahlen, Buchstaben und fünfstrahligen Sternen. Diese Einfachheit, die Komprimierung auf das Wesentlichste, aus der Werbung entlehnt, hatte dazu geführt, dass seine Bilder zu einem Logo, einer lettristisch-emblematischen Bildfigur , werden konnten und wurden, was in der amerikanischen Pop Art zu einer Apotheose führte.</abstract>
+<wikilink>http://en.wikipedia.org/wiki/Robert_Indiana?oldid=601616479</wikilink>
 <artworks>
 <XML_Serializer_Tag>
-<painting>
+<artwork>
 <type>uri</type>
 <value>http://dbpedia.org/resource/Numbers_1-0</value>
-</painting>
+</artwork>
 <thumbnail>
 <type>uri</type>
 <value>http://commons.wikimedia.org/wiki/Special:FilePath/The_Life_and_Age_of_Man-Stages_of_Man&apos;s_Life,_from_the_Cradle_to_the_Grave_(B&amp;W)_by_James_Baillie.jpg?width=300</value>
@@ -35,9 +38,13 @@
 <type>uri</type>
 <value>http://en.wikipedia.org/wiki/Numbers_1-0?oldid=519934738</value>
 </wikilink>
+<type>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>Painted aluminum</value>
+</type>
 </XML_Serializer_Tag>
 </artworks>
-<dbpResource>http://dbpedia.org/resource/Robert_Indiana</dbpResource>
-<abstract>Robert Indiana (* 13. September 1928 in New Castle, Indiana; ursprünglich Robert Clark) ist ein US-amerikanischer Maler sowie ein Hauptvertreter der Pop Art und der Signalkunst. Bekannt wurde er durch seine plakativen Zeichenbilder, die zu den radikalsten Äußerungen in der Pop Art zählen. Ebenso einfach wie Indianas 1966 entstandenes Werk LOVE mit seinen Buchstaben L und O, darunter V und E – in den Farben Rot, Blau und Grün –, erscheinen seine anderen Arbeiten aus Zahlen, Buchstaben und fünfstrahligen Sternen. Diese Einfachheit, die Komprimierung auf das Wesentlichste, aus der Werbung entlehnt, hatte dazu geführt, dass seine Bilder zu einem Logo, einer lettristisch-emblematischen Bildfigur , werden konnten und wurden, was in der amerikanischen Pop Art zu einer Apotheose führte.</abstract>
-<wikilink>http://en.wikipedia.org/wiki/Robert_Indiana?oldid=601616479</wikilink>
+<buildings />
+<books />
 </Person>

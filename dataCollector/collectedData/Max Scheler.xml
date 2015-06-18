@@ -1,0 +1,47 @@
+<Person>
+<name>Max Scheler</name>
+<variantName>
+<XML_Serializer_Tag>Max Ferdinand Scheler</XML_Serializer_Tag>
+<XML_Serializer_Tag>Max F. Scheler</XML_Serializer_Tag>
+<XML_Serializer_Tag>Makesi-Shele</XML_Serializer_Tag>
+<XML_Serializer_Tag>Makesi Shele</XML_Serializer_Tag>
+<XML_Serializer_Tag>Max Seler</XML_Serializer_Tag>
+<XML_Serializer_Tag>Maks Šeler</XML_Serializer_Tag>
+<XML_Serializer_Tag>Makss Šēlers</XML_Serializer_Tag>
+</variantName>
+<thumbnail>https://commons.wikimedia.org/wiki/Special:FilePath/Scheler_max.jpg?width=270</thumbnail>
+<birthEN>August 22, 1874</birthEN>
+<birthDE>22. August 1874</birthDE>
+<deathEN>May 19, 1928</deathEN>
+<deathDE>19. Mai 1928</deathDE>
+<birthPlace>
+<XML_Serializer_Tag>München</XML_Serializer_Tag>
+</birthPlace>
+<deathPlace>
+<XML_Serializer_Tag>Frankfurt am Main</XML_Serializer_Tag>
+</deathPlace>
+<professionOrOccupation>
+<XML_Serializer_Tag>Philosoph</XML_Serializer_Tag>
+</professionOrOccupation>
+<dbpResource>http://dbpedia.org/resource/Max_Scheler</dbpResource>
+<abstract>Max Scheler (* 22. August 1874 in München; † 19. Mai 1928 in Frankfurt am Main) war ein deutscher Philosoph, Anthropologe und Soziologe.</abstract>
+<wikilink>http://en.wikipedia.org/wiki/Max_Scheler?oldid=605617490</wikilink>
+<artworks />
+<buildings />
+<books>
+<XML_Serializer_Tag>
+<book>
+<type>uri</type>
+<value>http://dbpedia.org/resource/Problems_of_a_Sociology_of_Knowledge</value>
+</book>
+<author>
+<type>uri</type>
+<value>http://dbpedia.org/resource/Max_Scheler</value>
+</author>
+<wikilink>
+<type>uri</type>
+<value>http://en.wikipedia.org/wiki/Problems_of_a_Sociology_of_Knowledge?oldid=593571993</value>
+</wikilink>
+</XML_Serializer_Tag>
+</books>
+</Person>

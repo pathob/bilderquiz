@@ -1,0 +1,26 @@
+<Person>
+<name>Caspar Wolf</name>
+<variantName>
+<XML_Serializer_Tag>Caspar Wolff</XML_Serializer_Tag>
+</variantName>
+<thumbnail>https://commons.wikimedia.org/wiki/Special:FilePath/Caspar_Wolf_1774.jpg?width=270</thumbnail>
+<birthEN>May 3, 1735</birthEN>
+<birthDE>3. Mai 1735</birthDE>
+<deathEN>October 6, 1783</deathEN>
+<deathDE>6. Oktober 1783</deathDE>
+<birthPlace>
+<XML_Serializer_Tag>Muri (Aargau)</XML_Serializer_Tag>
+</birthPlace>
+<deathPlace>
+<XML_Serializer_Tag>Heidelberg</XML_Serializer_Tag>
+</deathPlace>
+<professionOrOccupation>
+<XML_Serializer_Tag>Künstler</XML_Serializer_Tag>
+</professionOrOccupation>
+<dbpResource>http://dbpedia.org/resource/Caspar_Wolf</dbpResource>
+<abstract>Caspar Wolf (* 3. Mai 1735 in Muri AG; † 6. Oktober 1783 in Heidelberg) zählt zu den wichtigsten Schweizer Malern der Vorromantik und gilt als Pionier der Hochgebirgsmalerei. Die europäische Kunstwissenschaft schenkt ihm zunehmend Aufmerksamkeit als einem bedeutenden Vertreter der Aufbruchszeit zwischen Aufklärung und Romantik.</abstract>
+<wikilink>http://en.wikipedia.org/wiki/Caspar_Wolf?oldid=600859045</wikilink>
+<artworks />
+<buildings />
+<books />
+</Person>

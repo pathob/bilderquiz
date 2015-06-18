@@ -41,8 +41,10 @@
 <XML_Serializer_Tag>Bildhauer</XML_Serializer_Tag>
 <XML_Serializer_Tag>Architekt</XML_Serializer_Tag>
 </professionOrOccupation>
-<artworks />
 <dbpResource>http://dbpedia.org/resource/Rudolf_Steiner</dbpResource>
 <abstract>Rudolf Joseph Lorenz Steiner (* 27. Februar 1861 in Kraljevec, Kaisertum Österreich, heute Kroatien; † 30. März 1925 in Dornach, Schweiz) war ein österreichischer Esoteriker und Philosoph. Er begründete die Anthroposophie, eine esoterische Weltanschauung, die an die Theosophie, das Rosenkreuzertum, die Gnosis sowie die idealistische Philosophie anschließt und zu den neumystischen Einheitskonzeptionen der Zeit um 1900 gezählt wird. Auf Grundlage dieser Lehre gab Steiner einflussreiche Anregungen für verschiedene Lebensbereiche, etwa Pädagogik (Waldorfpädagogik), Kunst (Eurythmie, anthroposophische Architektur), Medizin (anthroposophische Medizin), Religion (die Christengemeinschaft) oder Landwirtschaft (biologisch-dynamische Landwirtschaft).</abstract>
 <wikilink>http://en.wikipedia.org/wiki/Rudolf_Steiner?oldid=606756926</wikilink>
+<artworks />
+<buildings />
+<books />
 </Person>

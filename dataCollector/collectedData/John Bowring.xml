@@ -1,0 +1,31 @@
+<Person>
+<name>John Bowring</name>
+<variantName>
+<XML_Serializer_Tag>Edgar Alfred Bowring</XML_Serializer_Tag>
+<XML_Serializer_Tag>Edgar Alfred John Bowring</XML_Serializer_Tag>
+</variantName>
+<thumbnail>https://commons.wikimedia.org/wiki/Special:FilePath/JohnBowring1826.PNG?width=270</thumbnail>
+<birthEN>October 17, 1792</birthEN>
+<birthDE>17. Oktober 1792</birthDE>
+<deathEN>November 23, 1872</deathEN>
+<deathDE>23. November 1872</deathDE>
+<birthPlace>
+<XML_Serializer_Tag>Exeter</XML_Serializer_Tag>
+</birthPlace>
+<deathPlace>
+<XML_Serializer_Tag>Claremont</XML_Serializer_Tag>
+</deathPlace>
+<professionOrOccupation>
+<XML_Serializer_Tag>Philosoph</XML_Serializer_Tag>
+<XML_Serializer_Tag>Linguist</XML_Serializer_Tag>
+<XML_Serializer_Tag>Schriftsteller</XML_Serializer_Tag>
+<XML_Serializer_Tag>Diplomat</XML_Serializer_Tag>
+<XML_Serializer_Tag>Politiker</XML_Serializer_Tag>
+</professionOrOccupation>
+<dbpResource>http://dbpedia.org/resource/John_Bowring</dbpResource>
+<abstract>Sir John Bowring KCB (* 17. Oktober 1792 in Exeter; † 23. November 1872 in Claremont bei Exeter) war ein britischer Staatsmann, Reisender, Schriftsteller und Polyglott.</abstract>
+<wikilink>http://en.wikipedia.org/wiki/John_Bowring?oldid=606604824</wikilink>
+<artworks />
+<buildings />
+<books />
+</Person>

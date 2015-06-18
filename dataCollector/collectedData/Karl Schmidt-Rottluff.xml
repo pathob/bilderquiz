@@ -22,8 +22,10 @@
 <XML_Serializer_Tag>Graphiker</XML_Serializer_Tag>
 <XML_Serializer_Tag>Bildhauer</XML_Serializer_Tag>
 </professionOrOccupation>
-<artworks />
 <dbpResource>http://dbpedia.org/resource/Karl_Schmidt-Rottluff</dbpResource>
 <abstract>Karl Schmidt-Rottluff (* 1. Dezember 1884 in Rottluff (heute Stadtteil von Chemnitz); † 10. August 1976 in Berlin; eigentlich Karl Schmidt) war ein deutscher Maler, Grafiker und Plastiker. Er gilt als einer der Klassiker der Moderne und als einer der wichtigsten Vertreter des Expressionismus.</abstract>
 <wikilink>http://en.wikipedia.org/wiki/Karl_Schmidt-Rottluff?oldid=585842889</wikilink>
+<artworks />
+<buildings />
+<books />
 </Person>

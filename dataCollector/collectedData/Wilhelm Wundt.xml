@@ -1,0 +1,35 @@
+<Person>
+<name>Wilhelm Wundt</name>
+<variantName>
+<XML_Serializer_Tag>Wilhelm M. Wundt</XML_Serializer_Tag>
+<XML_Serializer_Tag>Wilhelm Max Wundt</XML_Serializer_Tag>
+<XML_Serializer_Tag>W. Wundt</XML_Serializer_Tag>
+<XML_Serializer_Tag>Wei lian Feng te</XML_Serializer_Tag>
+<XML_Serializer_Tag>Weilian-Fengte</XML_Serializer_Tag>
+<XML_Serializer_Tag>Weilian Fengte</XML_Serializer_Tag>
+</variantName>
+<thumbnail>https://commons.wikimedia.org/wiki/Special:FilePath/Wilhelm_Wundt.jpg?width=270</thumbnail>
+<birthEN>August 16, 1832</birthEN>
+<birthDE>16. August 1832</birthDE>
+<deathEN>August 31, 1920</deathEN>
+<deathDE>31. August 1920</deathDE>
+<birthPlace>
+<XML_Serializer_Tag>Mannheim-Neckarau</XML_Serializer_Tag>
+</birthPlace>
+<deathPlace>
+<XML_Serializer_Tag>Großbothen</XML_Serializer_Tag>
+</deathPlace>
+<professionOrOccupation>
+<XML_Serializer_Tag>Philosoph</XML_Serializer_Tag>
+<XML_Serializer_Tag>Physiologe</XML_Serializer_Tag>
+<XML_Serializer_Tag>Anthropologe</XML_Serializer_Tag>
+<XML_Serializer_Tag>Rektor</XML_Serializer_Tag>
+<XML_Serializer_Tag>Psychologe</XML_Serializer_Tag>
+</professionOrOccupation>
+<dbpResource>http://dbpedia.org/resource/Wilhelm_Wundt</dbpResource>
+<abstract>Wilhelm Maximilian Wundt, als Autor meist Wilhelm Wundt, (* 16. August 1832 in Neckarau (heute zu Mannheim); † 31. August 1920 in Großbothen bei Leipzig) war Physiologe, Psychologe und Philosoph. Er gründete 1879 das erste Institut für experimentelle Psychologie mit einem systematischen Forschungsprogramm. Wundt gilt als Begründer der Psychologie als eigenständiger Wissenschaft und als Mitbegründer der Völkerpsychologie (Kulturpsychologie).</abstract>
+<wikilink>http://en.wikipedia.org/wiki/Wilhelm_Wundt?oldid=605967183</wikilink>
+<artworks />
+<buildings />
+<books />
+</Person>

@@ -21,8 +21,10 @@
 <XML_Serializer_Tag>Künstler</XML_Serializer_Tag>
 <XML_Serializer_Tag>Maler</XML_Serializer_Tag>
 </professionOrOccupation>
-<artworks />
 <dbpResource>http://dbpedia.org/resource/Federico_Barocci</dbpResource>
 <abstract>Federico Barocci oder auch Federigo Barocci, eigentlich Federico Fiori, genannt auch „Fiori da Urbino“ (* 1526/1535 in Urbino; † 1612 ebenda) war ein italienischer Maler, Zeichner und Grafiker zwischen Manierismus und Barock.</abstract>
 <wikilink>http://en.wikipedia.org/wiki/Federico_Barocci?oldid=606288610</wikilink>
+<artworks />
+<buildings />
+<books />
 </Person>

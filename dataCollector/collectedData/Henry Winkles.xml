@@ -1,0 +1,25 @@
+<Person>
+<name>Henry Winkles</name>
+<variantName>
+<XML_Serializer_Tag>H. Winckles</XML_Serializer_Tag>
+<XML_Serializer_Tag>H. Winkles</XML_Serializer_Tag>
+</variantName>
+<thumbnail>https://commons.wikimedia.org/wiki/Special:FilePath/Botanischer-Garten-am-Dom-um-1820.JPG?width=270</thumbnail>
+<birthEN>1800</birthEN>
+<birthDE>1800</birthDE>
+<deathEN>1860</deathEN>
+<deathDE>1860</deathDE>
+<birthPlace />
+<deathPlace />
+<professionOrOccupation>
+<XML_Serializer_Tag>Künstler</XML_Serializer_Tag>
+<XML_Serializer_Tag>Architekturmaler</XML_Serializer_Tag>
+<XML_Serializer_Tag>Stahlstecher</XML_Serializer_Tag>
+</professionOrOccupation>
+<dbpResource>http://dbpedia.org/resource/Henry_Winkles</dbpResource>
+<abstract>Henry Winkles (* um 1801; † um 1860) war ein englischer Zeichner, Drucker, und Stahlstecher, der mit Carl Ludwig Frommel bei Karlsruhe das erste Stahlstichstudio in Deutschland gründete.Zusammen mit Benjamin Winkles produzierte und illustrierte Henry Winkles 1836 ein mehrbändiges Werk zu Kathedralen in England und Wales, welches Einfluss auf britische Neugotik im 19. Jahrhundert hatte. 1852 besuchte Winkles seinen Sohn in Ballarat, Australien, bevor er 1854 wieder nach England zurückkehrte.</abstract>
+<wikilink>http://en.wikipedia.org/wiki/Henry_Winkles?oldid=591924503</wikilink>
+<artworks />
+<buildings />
+<books />
+</Person>

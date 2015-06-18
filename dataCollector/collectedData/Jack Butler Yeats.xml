@@ -16,8 +16,10 @@
 <professionOrOccupation>
 <XML_Serializer_Tag>Maler</XML_Serializer_Tag>
 </professionOrOccupation>
-<artworks />
 <dbpResource>http://dbpedia.org/resource/Jack_Butler_Yeats</dbpResource>
 <abstract>Jack Butler Yeats [jeɪts] (* 29. August 1871 in London; † 28. März 1957 in Dublin) war ein irischer Künstler und Autor. Er war ein Sohn des Malers John Butler Yeats und der Bruder des Dichters William Butler Yeats.</abstract>
 <wikilink>http://en.wikipedia.org/wiki/Jack_Butler_Yeats?oldid=593595312</wikilink>
+<artworks />
+<buildings />
+<books />
 </Person>

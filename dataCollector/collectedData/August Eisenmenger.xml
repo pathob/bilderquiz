@@ -16,8 +16,10 @@
 <XML_Serializer_Tag>Maler</XML_Serializer_Tag>
 <XML_Serializer_Tag>Lehrer</XML_Serializer_Tag>
 </professionOrOccupation>
-<artworks />
 <dbpResource>http://dbpedia.org/resource/August_Eisenmenger</dbpResource>
 <abstract>August Eisenmenger (* 11. Februar 1830 in Wien; † 7. Dezember 1907 ebenda) war ein österreichischer Historien- und Porträtmaler in der Epoche der Ringstraßen- bzw. Gründerzeit.</abstract>
 <wikilink>http://en.wikipedia.org/wiki/August_Eisenmenger?oldid=598628262</wikilink>
+<artworks />
+<buildings />
+<books />
 </Person>

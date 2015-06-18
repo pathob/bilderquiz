@@ -1,0 +1,31 @@
+<Person>
+<name>Helene Lange</name>
+<variantName>
+<XML_Serializer_Tag>Elena Lange</XML_Serializer_Tag>
+<XML_Serializer_Tag>Helene Henriette Elisabeth Lange</XML_Serializer_Tag>
+</variantName>
+<thumbnail>https://commons.wikimedia.org/wiki/Special:FilePath/Helene_Lange_vor_1899.jpg?width=270</thumbnail>
+<birthEN>April 9, 1848</birthEN>
+<birthDE>9. April 1848</birthDE>
+<deathEN>May 13, 1930</deathEN>
+<deathDE>13. Mai 1930</deathDE>
+<birthPlace>
+<XML_Serializer_Tag>Oldenburg</XML_Serializer_Tag>
+</birthPlace>
+<deathPlace>
+<XML_Serializer_Tag>Berlin</XML_Serializer_Tag>
+</deathPlace>
+<professionOrOccupation>
+<XML_Serializer_Tag>Feministin</XML_Serializer_Tag>
+<XML_Serializer_Tag>Schriftstellerin</XML_Serializer_Tag>
+<XML_Serializer_Tag>Herausgeberin</XML_Serializer_Tag>
+<XML_Serializer_Tag>Schulleiterin</XML_Serializer_Tag>
+<XML_Serializer_Tag>Lehrerin</XML_Serializer_Tag>
+</professionOrOccupation>
+<dbpResource>http://dbpedia.org/resource/Helene_Lange</dbpResource>
+<abstract>Helene Lange (* 9. April 1848 in Oldenburg; † 13. Mai 1930 in Berlin) war eine Pädagogin und Frauenrechtlerin. Sie ist eine Symbolfigur der deutschen Frauenbewegung. In den Jahren 1919 bis 1921 war sie Mitglied der Hamburgischen Bürgerschaft.</abstract>
+<wikilink>http://en.wikipedia.org/wiki/Helene_Lange?oldid=550431797</wikilink>
+<artworks />
+<buildings />
+<books />
+</Person>

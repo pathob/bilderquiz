@@ -27,8 +27,10 @@
 <XML_Serializer_Tag>Dramatiker</XML_Serializer_Tag>
 <XML_Serializer_Tag>Zeichner</XML_Serializer_Tag>
 </professionOrOccupation>
-<artworks />
 <dbpResource>http://dbpedia.org/resource/Ernst_Barlach</dbpResource>
 <abstract>Ernst Barlach (* 2. Januar 1870 in Wedel; † 24. Oktober 1938 in Rostock; vollständiger Name: Ernst Heinrich Barlach) war ein deutscher Bildhauer, Schriftsteller und Zeichner. Barlach ist besonders bekannt für seine Holzplastiken und Bronzen. Außerdem hinterließ er ein vielgestaltiges druckgraphisches, zeichnerisches und literarisches Werk. Seine künstlerische Handschrift, sowohl in der bildnerischen, als auch in der literarischen Arbeit ist zwischen Realismus und Expressionismus angesiedelt. Sein Werk wird seit 1949 von der Ernst Barlach Gesellschaft in Hamburg erforscht, betreut und international ausgestellt.</abstract>
 <wikilink>http://en.wikipedia.org/wiki/Ernst_Barlach?oldid=602836576</wikilink>
+<artworks />
+<buildings />
+<books />
 </Person>

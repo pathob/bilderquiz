@@ -1,0 +1,27 @@
+<Person>
+<name>Erik Simon</name>
+<variantName>
+<XML_Serializer_Tag>Eric Simon</XML_Serializer_Tag>
+</variantName>
+<thumbnail>https://commons.wikimedia.org/wiki/Special:FilePath/Erik_Simon.jpg?width=270</thumbnail>
+<birthEN>1950</birthEN>
+<birthDE>1950</birthDE>
+<deathEN />
+<deathDE />
+<birthPlace>
+<XML_Serializer_Tag>Dresden</XML_Serializer_Tag>
+</birthPlace>
+<deathPlace />
+<professionOrOccupation>
+<XML_Serializer_Tag>Physiker</XML_Serializer_Tag>
+<XML_Serializer_Tag>Übersetzer</XML_Serializer_Tag>
+<XML_Serializer_Tag>Schriftsteller</XML_Serializer_Tag>
+<XML_Serializer_Tag>Lektor (Verlag)</XML_Serializer_Tag>
+</professionOrOccupation>
+<dbpResource>http://dbpedia.org/resource/Erik_Simon</dbpResource>
+<abstract>Erik Simon (* 21. August 1987 in Karl-Marx-Stadt) ist ein deutscher Skispringer.</abstract>
+<wikilink>http://en.wikipedia.org/wiki/Erik_Simon?oldid=565921484</wikilink>
+<artworks />
+<buildings />
+<books />
+</Person>

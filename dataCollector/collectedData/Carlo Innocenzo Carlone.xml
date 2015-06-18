@@ -21,8 +21,10 @@
 <XML_Serializer_Tag>Maler</XML_Serializer_Tag>
 <XML_Serializer_Tag>Zeichner</XML_Serializer_Tag>
 </professionOrOccupation>
-<artworks />
 <dbpResource>http://dbpedia.org/resource/Carlo_Carlone</dbpResource>
 <abstract>Carlo Innocenzo Carlone, auch Carlo Innocenzo Carloni, meistens genannt als Carlo Carlone, (* November 1686 in Scaria; † 17. Mai 1775 ebenda) war ein lombardischer Maler und Freskant.</abstract>
 <wikilink>http://en.wikipedia.org/wiki/Carlo_Carlone?oldid=605284643</wikilink>
+<artworks />
+<buildings />
+<books />
 </Person>

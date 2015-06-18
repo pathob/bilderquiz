@@ -21,8 +21,10 @@
 <XML_Serializer_Tag>Franziskaner</XML_Serializer_Tag>
 <XML_Serializer_Tag>Jesuit</XML_Serializer_Tag>
 </professionOrOccupation>
-<artworks />
 <dbpResource>http://dbpedia.org/resource/Albert_Chmielowski</dbpResource>
 <abstract>Albert Chmielowski (Geburtsname: Adam Chmielowski, * 20. August 1845 in Igołomia, Polen; † 25. Dezember 1916 in Krakau) war ein Maler und polnischer Ordensgründer. Er ist ein Heiliger der katholischen Kirche.</abstract>
 <wikilink>http://en.wikipedia.org/wiki/Albert_Chmielowski?oldid=588063689</wikilink>
+<artworks />
+<buildings />
+<books />
 </Person>

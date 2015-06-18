@@ -1,0 +1,27 @@
+<Person>
+<name>Max Berg</name>
+<variantName>
+<XML_Serializer_Tag>Max Paul Eduard Berg</XML_Serializer_Tag>
+</variantName>
+<thumbnail>https://en.wikipedia.org/wiki/Special:FilePath/Wroclaw_hala_ludowa.jpg?width=270</thumbnail>
+<birthEN>1870</birthEN>
+<birthDE>1870</birthDE>
+<deathEN>1947</deathEN>
+<deathDE>1947</deathDE>
+<birthPlace>
+<XML_Serializer_Tag>Stettin</XML_Serializer_Tag>
+</birthPlace>
+<deathPlace>
+<XML_Serializer_Tag>Baden-Baden</XML_Serializer_Tag>
+</deathPlace>
+<professionOrOccupation>
+<XML_Serializer_Tag>Architekt</XML_Serializer_Tag>
+<XML_Serializer_Tag>Stadtbaumeister</XML_Serializer_Tag>
+</professionOrOccupation>
+<dbpResource>http://dbpedia.org/resource/Max_Berg</dbpResource>
+<abstract>Max Berg (* 17. April 1870 in Stettin; † 22. Januar 1947 in Baden-Baden; vollständiger Name: Max Paul Eduard Berg) war ein deutscher Architekt und Baubeamter. Sein bedeutendstes Werk ist die Jahrhunderthalle in Breslau, die 1913 fertiggestellt wurde.</abstract>
+<wikilink>http://en.wikipedia.org/wiki/Max_Berg?oldid=593331452</wikilink>
+<artworks />
+<buildings />
+<books />
+</Person>

@@ -1,0 +1,44 @@
+<Person>
+<name>Heinrich Hoffmann</name>
+<variantName>
+<XML_Serializer_Tag>Heinrich Hoffmann-Donner</XML_Serializer_Tag>
+<XML_Serializer_Tag>Polykarpus Gastfenger</XML_Serializer_Tag>
+<XML_Serializer_Tag>Heulalius von Heulenburg</XML_Serializer_Tag>
+<XML_Serializer_Tag>Reimerich Kinderlieb</XML_Serializer_Tag>
+<XML_Serializer_Tag>Peter Struwwel</XML_Serializer_Tag>
+<XML_Serializer_Tag>Genrich Gofman</XML_Serializer_Tag>
+<XML_Serializer_Tag>Henricus Hoffmann</XML_Serializer_Tag>
+<XML_Serializer_Tag>H. Hoffmann-Donner</XML_Serializer_Tag>
+<XML_Serializer_Tag>Heinrich H.-Donner</XML_Serializer_Tag>
+<XML_Serializer_Tag>Haynrikh Hofman</XML_Serializer_Tag>
+<XML_Serializer_Tag>Heinr. Hoffmann</XML_Serializer_Tag>
+<XML_Serializer_Tag>Hainorihu Hofuman</XML_Serializer_Tag>
+<XML_Serializer_Tag>Hainrihi Hofuman</XML_Serializer_Tag>
+<XML_Serializer_Tag>Ha-in-ri-hi Ho-u-ma-n</XML_Serializer_Tag>
+<XML_Serializer_Tag>Heinrich Hoffmann</XML_Serializer_Tag>
+<XML_Serializer_Tag>הינריך הופמן</XML_Serializer_Tag>
+<XML_Serializer_Tag>ハインリヒ・ホフマン</XML_Serializer_Tag>
+</variantName>
+<thumbnail>https://de.wikipedia.org/wiki/Special:FilePath/Heinrich_Hoffmann.jpg?width=270</thumbnail>
+<birthEN>June 13, 1809</birthEN>
+<birthDE>13. Juni 1809</birthDE>
+<deathEN>September 20, 1894</deathEN>
+<deathDE>20. September 1894</deathDE>
+<birthPlace>
+<XML_Serializer_Tag>Frankfurt am Main</XML_Serializer_Tag>
+</birthPlace>
+<deathPlace>
+<XML_Serializer_Tag>Frankfurt am Main</XML_Serializer_Tag>
+</deathPlace>
+<professionOrOccupation>
+<XML_Serializer_Tag>Arzt</XML_Serializer_Tag>
+<XML_Serializer_Tag>Psychiater</XML_Serializer_Tag>
+<XML_Serializer_Tag>Schriftsteller</XML_Serializer_Tag>
+</professionOrOccupation>
+<dbpResource>http://dbpedia.org/resource/Heinrich_Hoffmann</dbpResource>
+<abstract>Heinrich Hoffmann (* 12. September 1885 in Fürth; † 16. Dezember 1957 in München) wurde als Fotograf Adolf Hitlers bekannt.</abstract>
+<wikilink>http://en.wikipedia.org/wiki/Heinrich_Hoffmann?oldid=605014759</wikilink>
+<artworks />
+<buildings />
+<books />
+</Person>

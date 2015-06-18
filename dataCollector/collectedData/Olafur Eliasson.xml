@@ -1,0 +1,31 @@
+<Person>
+<name>Olafur Eliasson</name>
+<variantName>
+<XML_Serializer_Tag>Ólafur Elíasson</XML_Serializer_Tag>
+<XML_Serializer_Tag>Olafur Eliasson</XML_Serializer_Tag>
+<XML_Serializer_Tag>Olaf Eliasson</XML_Serializer_Tag>
+<XML_Serializer_Tag>Ao la wei er Ai li ya song</XML_Serializer_Tag>
+<XML_Serializer_Tag>Aolaweier-Ailiyasong</XML_Serializer_Tag>
+<XML_Serializer_Tag>Aolaweier Ailiyasong</XML_Serializer_Tag>
+</variantName>
+<thumbnail>https://commons.wikimedia.org/wiki/Special:FilePath/The_Future_of_Art_-_Olafur_Eliasson.jpg?width=270</thumbnail>
+<birthEN>1967</birthEN>
+<birthDE>1967</birthDE>
+<deathEN />
+<deathDE />
+<birthPlace>
+<XML_Serializer_Tag>Kopenhagen</XML_Serializer_Tag>
+</birthPlace>
+<deathPlace />
+<professionOrOccupation>
+<XML_Serializer_Tag>Künstler</XML_Serializer_Tag>
+<XML_Serializer_Tag>Photograph</XML_Serializer_Tag>
+<XML_Serializer_Tag>Installationskünstler</XML_Serializer_Tag>
+</professionOrOccupation>
+<dbpResource>http://dbpedia.org/resource/Olafur_Eliasson</dbpResource>
+<abstract>Ólafur Elíasson (* 5. Februar 1967 in Kopenhagen) ist ein dänischer Künstler isländischer Herkunft. Er lebt in Berlin und Kopenhagen. Er beschäftigt sich vornehmlich mit physikalischen Phänomenen in der Natur (wie Licht und Wasser, Bewegung und Reflexion).</abstract>
+<wikilink>http://en.wikipedia.org/wiki/Olafur_Eliasson?oldid=606746645</wikilink>
+<artworks />
+<buildings />
+<books />
+</Person>

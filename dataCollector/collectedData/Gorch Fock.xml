@@ -1,0 +1,28 @@
+<Person>
+<name>Gorch Fock</name>
+<variantName>
+<XML_Serializer_Tag>Gorch Fock</XML_Serializer_Tag>
+<XML_Serializer_Tag>Hans Kinau</XML_Serializer_Tag>
+<XML_Serializer_Tag>Johann Kinau</XML_Serializer_Tag>
+<XML_Serializer_Tag>Johann Wilhelm Kinau</XML_Serializer_Tag>
+<XML_Serializer_Tag>Hans Kienau</XML_Serializer_Tag>
+<XML_Serializer_Tag>Johannes Kinau</XML_Serializer_Tag>
+</variantName>
+<thumbnail>https://commons.wikimedia.org/wiki/Special:FilePath/GorchFock.jpg?width=270</thumbnail>
+<birthEN>August 22, 1880</birthEN>
+<birthDE>22. August 1880</birthDE>
+<deathEN>May 31, 1916</deathEN>
+<deathDE>31. Mai 1916</deathDE>
+<birthPlace />
+<deathPlace />
+<professionOrOccupation>
+<XML_Serializer_Tag>Schriftsteller</XML_Serializer_Tag>
+<XML_Serializer_Tag>Seemann</XML_Serializer_Tag>
+</professionOrOccupation>
+<dbpResource>http://dbpedia.org/resource/Gorch_Fock_(author)</dbpResource>
+<abstract>Gorch Fock (* 22. August 1880 in Finkenwerder; † 31. Mai 1916 in der Seeschlacht am Skagerrak; eigentlich Johann Wilhelm Kinau) war ein deutscher Schriftsteller. 1917 wurde das Vorpostenboot Gorch Fock nach ihm benannt, später zwei Segelschulschiffe der deutschen Marine, die 1933 gebaute Gorch Fock und die 1958 gebaute Gorch Fock. Weitere Pseudonyme des Autors sind Jakob Holst und Giorgio Focco.</abstract>
+<wikilink>http://en.wikipedia.org/wiki/Gorch_Fock_(author)?oldid=592868415</wikilink>
+<artworks />
+<buildings />
+<books />
+</Person>

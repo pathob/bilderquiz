@@ -1,0 +1,29 @@
+<Person>
+<name>Maria Lassnig</name>
+<variantName>
+<XML_Serializer_Tag>Maria Eleonore Gregorz</XML_Serializer_Tag>
+<XML_Serializer_Tag>Maria Eleonore Lassnig</XML_Serializer_Tag>
+</variantName>
+<thumbnail>https://commons.wikimedia.org/wiki/Special:FilePath/Atelier_von_Maria_Lassnig_in_Klagenfurt.jpg?width=270</thumbnail>
+<birthEN>September 8, 1919</birthEN>
+<birthDE>8. September 1919</birthDE>
+<deathEN>May 6, 2014</deathEN>
+<deathDE>6. Mai 2014</deathDE>
+<birthPlace>
+<XML_Serializer_Tag>Kappel am Krappfeld, Kärnten, Österreich</XML_Serializer_Tag>
+</birthPlace>
+<deathPlace>
+<XML_Serializer_Tag>Wien</XML_Serializer_Tag>
+</deathPlace>
+<professionOrOccupation>
+<XML_Serializer_Tag>Künstlerin</XML_Serializer_Tag>
+<XML_Serializer_Tag>Malerin</XML_Serializer_Tag>
+<XML_Serializer_Tag>Künstler</XML_Serializer_Tag>
+</professionOrOccupation>
+<dbpResource>http://dbpedia.org/resource/Maria_Lassnig</dbpResource>
+<abstract>Maria Lassnig (* 8. September 1919 in Kappel am Krappfeld, Kärnten; † 6. Mai 2014 in Wien) war eine österreichische Malerin und Medienkünstlerin.</abstract>
+<wikilink>http://en.wikipedia.org/wiki/Maria_Lassnig?oldid=604686999</wikilink>
+<artworks />
+<buildings />
+<books />
+</Person>

@@ -1,0 +1,53 @@
+<Person>
+<name>Ralph Erskine</name>
+<variantName />
+<thumbnail>https://commons.wikimedia.org/wiki/Special:FilePath/Ralph_and_Ruth_Erskine.jpg?width=270</thumbnail>
+<birthEN>1914</birthEN>
+<birthDE>1914</birthDE>
+<deathEN>2005</deathEN>
+<deathDE>2005</deathDE>
+<birthPlace />
+<deathPlace />
+<professionOrOccupation>
+<XML_Serializer_Tag>Architekt</XML_Serializer_Tag>
+</professionOrOccupation>
+<dbpResource>http://dbpedia.org/resource/Ralph_Erskine_(architect)</dbpResource>
+<abstract>Ralph Erskine (* 24. Februar 1914 in Mill Hill/London, Großbritannien; † 16. März 2005 auf Lovön, Gemeinde Ekerö, Schweden) war ein britisch-schwedischer Architekt.</abstract>
+<wikilink>http://en.wikipedia.org/wiki/Ralph_Erskine_(architect)?oldid=604044994</wikilink>
+<artworks />
+<buildings>
+<XML_Serializer_Tag>
+<building>
+<type>uri</type>
+<value>http://dbpedia.org/resource/Lilla_Bommen</value>
+</building>
+<name>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>Lilla Bommen</value>
+</name>
+<architect>
+<type>uri</type>
+<value>http://dbpedia.org/resource/Ralph_Erskine_(architect)</value>
+</architect>
+<thumbnail>
+<type>uri</type>
+<value>http://commons.wikimedia.org/wiki/Special:FilePath/Skanskaskrapan_september_2010.jpg?width=300</value>
+</thumbnail>
+<wikilink>
+<type>uri</type>
+<value>http://en.wikipedia.org/wiki/Lilla_Bommen?oldid=600654404</value>
+</wikilink>
+<location>
+<type>uri</type>
+<value>http://dbpedia.org/resource/Gothenburg</value>
+</location>
+<abstract>
+<type>literal</type>
+<xml:lang>de</xml:lang>
+<value>Skanskaskrapan (deutsch „Der Skanska-(Wolken)Kratzer”) ist ein 22stöckiges, 86 Meter hohes, rotweißgestreiftes Hochhaus am Fluss Göta älv im Zentrum der schwedischen Großstadt Göteborg, in dessen Nähe die Viermastbark Viking und die Brücke Göta Älvbron liegen. Von offizieller Seite wird das Bauwerk auch als Lilla Bommen bezeichnet, benannt nach dem gleichnamigen Hafengebiet Lilla Bommen um den benachbarten Gästehafen. Der Volksmund gab dem Skanskaskrapan den Spitznamen Läppstiftet (dt. „Der Lippenstift”), der sich zum einen auf die rote Farbgebung und die abgeschrägte Spitze des Gebäudes bezieht, während andere Quellen den Namen auf das Bistum Göteborg (schwedisch Göteborgs stift) zurückführen, das ein Büro im Skanskaskrapan unterhält. Ein anderer Spitzname ist Vattenståndet (dt. „Der Wasser-” bzw. „Der Pegelstand”), da es genau an der Wasserlinie liegt und zudem Züge eines Phallus in seiner Formgebung trägt.Die Idee zum Bau entstand 1983, als die Göteborger Gemeinde damit für Beschäftigung und Entwicklung in der Region sorgen wollte und das Bauunternehmen Skanska beabsichtigte, seine Marktposition als Hausbauer und Grundstückseigentümer zu stärken. Hierauf wurde Skanskaskrapan vom britisch-schwedischen Architekten Ralph Erskine entworfen und von Skanska unter der Leitung von Gösta Backmark gebaut. Wegen des lehmigen Bodens in Göteborg waren für das Fundament des Hauses bis zu 90 m lange, stabilisierende Pfähle erforderlich.Als es 1989 offiziell eingeweiht wurde, enthielt es noch die Hauptgeschäftsstelle von Skanska in Göteborg, in dessen Besitz sich es heute nicht mehr befindet. Gegenwärtiger Eigentümer ist die schwedische Immobiliengesellschaft Vasakronan AB.Das Gebäude besteht aus einem Hochhaus und einem niedriggeschossigen Anbau, in denen Büroräume für zahlreiche Unternehmen beherbergt sind. Auf einer Fläche von 31.625 m² sind auf 27.596 m² Büros untergebracht. 2501 m² sind Geschäften und 1528 m² für andere Zwecke vorbehalten.In der obersten Etage befindet sich die geschlossen verglaste Aussichtsplattform Götheborgs Utkiken, von der sich eine weite Aussicht über die Stadt und ihre Umgebung sowie auf den Hafen bietet.Der schwedische Bildhauer und Künstler Claes Hake (*1945) erschuf eine Skulpturgruppe aus Stein, die zwischen dem Kai und dem Foyer des Hauses platziert wurde.</value>
+</abstract>
+</XML_Serializer_Tag>
+</buildings>
+<books />
+</Person>

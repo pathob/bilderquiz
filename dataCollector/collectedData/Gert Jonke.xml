@@ -1,0 +1,31 @@
+<Person>
+<name>Gert Jonke</name>
+<variantName>
+<XML_Serializer_Tag>Gerd Jonke</XML_Serializer_Tag>
+<XML_Serializer_Tag>Gert Friedrich Jonke</XML_Serializer_Tag>
+<XML_Serializer_Tag>Gerd Friedrich Jonke</XML_Serializer_Tag>
+<XML_Serializer_Tag>Gert F. Jonke</XML_Serializer_Tag>
+<XML_Serializer_Tag>Gerd F. Jonke</XML_Serializer_Tag>
+<XML_Serializer_Tag>G. F. Jonke</XML_Serializer_Tag>
+</variantName>
+<thumbnail>https://commons.wikimedia.org/wiki/Special:FilePath/Gert_Jonke_und_André_Pohl_Nestroy-Theaterpreis2008.jpg?width=270</thumbnail>
+<birthEN>February 8, 1946</birthEN>
+<birthDE>8. Februar 1946</birthDE>
+<deathEN>January 4, 2009</deathEN>
+<deathDE>4. Januar 2009</deathDE>
+<birthPlace>
+<XML_Serializer_Tag>Klagenfurt</XML_Serializer_Tag>
+</birthPlace>
+<deathPlace>
+<XML_Serializer_Tag>Wien</XML_Serializer_Tag>
+</deathPlace>
+<professionOrOccupation>
+<XML_Serializer_Tag>Schriftsteller</XML_Serializer_Tag>
+</professionOrOccupation>
+<dbpResource>http://dbpedia.org/resource/Gert_Jonke</dbpResource>
+<abstract>Gert Friedrich Jonke (* 8. Februar 1946 in Klagenfurt; † 4. Jänner 2009 in Wien) war ein österreichischer Lyriker, Dramatiker, Erzähler und Hörspielautor.</abstract>
+<wikilink>http://en.wikipedia.org/wiki/Gert_Jonke?oldid=571319445</wikilink>
+<artworks />
+<buildings />
+<books />
+</Person>

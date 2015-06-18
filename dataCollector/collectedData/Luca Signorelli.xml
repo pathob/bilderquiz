@@ -17,12 +17,15 @@
 <professionOrOccupation>
 <XML_Serializer_Tag>Maler</XML_Serializer_Tag>
 </professionOrOccupation>
+<dbpResource>http://dbpedia.org/resource/Luca_Signorelli</dbpResource>
+<abstract>Luca Signorelli (* 1445/53 zu Cortona; † 16. Oktober 1523 ebenda) war ein italienischer Maler (Gemälde und Fresken) und Hauptmeister der Florentinischen Schule.Signorelli war Schüler von Pietro dei Franceschi in Arezzo, bei welchem er besonders die Perspektive und die Darstellung des Nackten lernte, und bildete sich dann nach den Meistern in Florenz, wo er eine Zeit lang tätig war und unter anderem für Lorenzo I. de’ Medici Pan unter den Hirten, ausgezeichnet in der Behandlung der nackten Körper (im Kaiser-Friedrich-Museum zu Berlin, zerstört im Zweiten Weltkrieg) und ein Madonnenbild (jetzt in den Uffizien zu Florenz) malte.Von 1482 bis 1484 war er in Rom, wo er in der Sixtinischen Kapelle ein Fresko zur Geschichte des biblischen Moses ausführte. Um dieselbe Zeit etwa malte er in Loreto die achteckige Sakristei an der Kirche mit Figuren von Engeln, Aposteln, Evangelisten etc. aus. Im Kloster Monte Oliveto Maggiore bei Buonconvento in der Nähe von Montalcino in der Provinz Siena malte er um 1498 den Freskenzyklus aus der Legende vom heiligen Benedikt.1499 verweilte Signorelli in Orvieto und schmückte hier die Cappella della Madonna im Dom mit weltberühmten Wandmalereien, die Letzten Dinge zusammen mit dem Jüngsten Gericht darstellend, welch letzteres das Weltgerichts-Fresko von Michelangelo in der Sixtinischen Kapelle beeinflusste. Kurzen Aufenthalt nahm Signorelli 1508 und 1512 in Florenz, 1508 und 1517 in Rom.Berlin besitzt außer dem genannten Bild noch zwei schöne Altarflügel, die Nationalgalerie zu London ein auf Leinwand übertragenes Fresko: Der Triumph der Keuschheit mit der Züchtigung Amors, der Dom zu Perugia eine thronende Madonna mit Heiligen, die Kirche San Domenico zu Città di Castello ein Martyrium des heiligen Sebastian (1496), die Akademie zu Florenz eine unter der Dreifaltigkeit thronende Madonna mit Heiligen und der Dom zu Cortona ein Abendmahl.Mit Originalität und Größe der Erfindung und Kühnheit der Phantasie verband Signorelli Herbheit und Strenge der Formengebung. In der oft gewaltsamen Bewegung seiner Figuren war Signorelli ein Vorläufer Michelangelos.</abstract>
+<wikilink>http://en.wikipedia.org/wiki/Luca_Signorelli?oldid=604479872</wikilink>
 <artworks>
 <XML_Serializer_Tag>
-<painting>
+<artwork>
 <type>uri</type>
 <value>http://dbpedia.org/resource/Portrait_of_a_Man_(Signorelli)</value>
-</painting>
+</artwork>
 <thumbnail>
 <type>uri</type>
 <value>http://commons.wikimedia.org/wiki/Special:FilePath/Luca_Signorelli_099.jpg?width=300</value>
@@ -41,12 +44,17 @@
 <type>uri</type>
 <value>http://en.wikipedia.org/wiki/Portrait_of_a_Man_(Signorelli)?oldid=590287966</value>
 </wikilink>
+<type>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>Tempera on panel</value>
+</type>
 </XML_Serializer_Tag>
 <XML_Serializer_Tag>
-<painting>
+<artwork>
 <type>uri</type>
 <value>http://dbpedia.org/resource/Virgin_Enthroned_with_Saints_(Signorelli)</value>
-</painting>
+</artwork>
 <thumbnail>
 <type>uri</type>
 <value>http://commons.wikimedia.org/wiki/Special:FilePath/Luca_signorelli,_vergine_in_trono_e_santi,_volterra.jpg?width=300</value>
@@ -65,12 +73,17 @@
 <type>uri</type>
 <value>http://en.wikipedia.org/wiki/Virgin_Enthroned_with_Saints_(Signorelli)?oldid=588304732</value>
 </wikilink>
+<type>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>Tempera on panel</value>
+</type>
 </XML_Serializer_Tag>
 <XML_Serializer_Tag>
-<painting>
+<artwork>
 <type>uri</type>
 <value>http://dbpedia.org/resource/Madonna_and_Child_with_Saints_(Signorelli,_Arezzo)</value>
-</painting>
+</artwork>
 <thumbnail>
 <type>uri</type>
 <value>http://commons.wikimedia.org/wiki/Special:FilePath/Luca_signorelli,_madonna_col_bambino_e_santi,_arezzo.jpg?width=300</value>
@@ -89,12 +102,16 @@
 <type>uri</type>
 <value>http://en.wikipedia.org/wiki/Madonna_and_Child_with_Saints_(Signorelli,_Arezzo)?oldid=587321702</value>
 </wikilink>
+<type>
+<type>uri</type>
+<value>http://dbpedia.org/resource/Tempera</value>
+</type>
 </XML_Serializer_Tag>
 <XML_Serializer_Tag>
-<painting>
+<artwork>
 <type>uri</type>
 <value>http://dbpedia.org/resource/Testament_and_Death_of_Moses</value>
-</painting>
+</artwork>
 <thumbnail>
 <type>uri</type>
 <value>http://commons.wikimedia.org/wiki/Special:FilePath/Signorelli,_Luca_-_Moses&apos;s_Testament_and_Death_-_1481-82.jpg?width=300</value>
@@ -113,12 +130,17 @@
 <type>uri</type>
 <value>http://en.wikipedia.org/wiki/Testament_and_Death_of_Moses?oldid=601292418</value>
 </wikilink>
+<type>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>Fresco</value>
+</type>
 </XML_Serializer_Tag>
 <XML_Serializer_Tag>
-<painting>
+<artwork>
 <type>uri</type>
 <value>http://dbpedia.org/resource/The_Circumcision_(Signorelli)</value>
-</painting>
+</artwork>
 <thumbnail>
 <type>uri</type>
 <value>http://commons.wikimedia.org/wiki/Special:FilePath/The_Circumcision,_by_Luca_Signorelli.jpg?width=300</value>
@@ -137,12 +159,17 @@
 <type>uri</type>
 <value>http://en.wikipedia.org/wiki/The_Circumcision_(Signorelli)?oldid=592096810</value>
 </wikilink>
+<type>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>Oil on panel transferred to canvas and then to panel</value>
+</type>
 </XML_Serializer_Tag>
 <XML_Serializer_Tag>
-<painting>
+<artwork>
 <type>uri</type>
 <value>http://dbpedia.org/resource/Sant&apos;Onofrio_Altarpiece</value>
-</painting>
+</artwork>
 <thumbnail>
 <type>uri</type>
 <value>http://commons.wikimedia.org/wiki/Special:FilePath/Pala-sant-onofrio_luca-signorelli.jpg?width=300</value>
@@ -161,12 +188,17 @@
 <type>uri</type>
 <value>http://en.wikipedia.org/wiki/Sant&apos;Onofrio_Altarpiece?oldid=592096809</value>
 </wikilink>
+<type>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>Finger and paint by number</value>
+</type>
 </XML_Serializer_Tag>
 <XML_Serializer_Tag>
-<painting>
+<artwork>
 <type>uri</type>
 <value>http://dbpedia.org/resource/Communion_of_the_Apostles_(Signorelli)</value>
-</painting>
+</artwork>
 <thumbnail>
 <type>uri</type>
 <value>http://commons.wikimedia.org/wiki/Special:FilePath/Luca_signorelli,_comunione_con_gli_apostoli,_cortona.jpg?width=300</value>
@@ -185,9 +217,13 @@
 <type>uri</type>
 <value>http://en.wikipedia.org/wiki/Communion_of_the_Apostles_(Signorelli)?oldid=589486387</value>
 </wikilink>
+<type>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>Oil on panel</value>
+</type>
 </XML_Serializer_Tag>
 </artworks>
-<dbpResource>http://dbpedia.org/resource/Luca_Signorelli</dbpResource>
-<abstract>Luca Signorelli (* 1445/53 zu Cortona; † 16. Oktober 1523 ebenda) war ein italienischer Maler (Gemälde und Fresken) und Hauptmeister der Florentinischen Schule.Signorelli war Schüler von Pietro dei Franceschi in Arezzo, bei welchem er besonders die Perspektive und die Darstellung des Nackten lernte, und bildete sich dann nach den Meistern in Florenz, wo er eine Zeit lang tätig war und unter anderem für Lorenzo I. de’ Medici Pan unter den Hirten, ausgezeichnet in der Behandlung der nackten Körper (im Kaiser-Friedrich-Museum zu Berlin, zerstört im Zweiten Weltkrieg) und ein Madonnenbild (jetzt in den Uffizien zu Florenz) malte.Von 1482 bis 1484 war er in Rom, wo er in der Sixtinischen Kapelle ein Fresko zur Geschichte des biblischen Moses ausführte. Um dieselbe Zeit etwa malte er in Loreto die achteckige Sakristei an der Kirche mit Figuren von Engeln, Aposteln, Evangelisten etc. aus. Im Kloster Monte Oliveto Maggiore bei Buonconvento in der Nähe von Montalcino in der Provinz Siena malte er um 1498 den Freskenzyklus aus der Legende vom heiligen Benedikt.1499 verweilte Signorelli in Orvieto und schmückte hier die Cappella della Madonna im Dom mit weltberühmten Wandmalereien, die Letzten Dinge zusammen mit dem Jüngsten Gericht darstellend, welch letzteres das Weltgerichts-Fresko von Michelangelo in der Sixtinischen Kapelle beeinflusste. Kurzen Aufenthalt nahm Signorelli 1508 und 1512 in Florenz, 1508 und 1517 in Rom.Berlin besitzt außer dem genannten Bild noch zwei schöne Altarflügel, die Nationalgalerie zu London ein auf Leinwand übertragenes Fresko: Der Triumph der Keuschheit mit der Züchtigung Amors, der Dom zu Perugia eine thronende Madonna mit Heiligen, die Kirche San Domenico zu Città di Castello ein Martyrium des heiligen Sebastian (1496), die Akademie zu Florenz eine unter der Dreifaltigkeit thronende Madonna mit Heiligen und der Dom zu Cortona ein Abendmahl.Mit Originalität und Größe der Erfindung und Kühnheit der Phantasie verband Signorelli Herbheit und Strenge der Formengebung. In der oft gewaltsamen Bewegung seiner Figuren war Signorelli ein Vorläufer Michelangelos.</abstract>
-<wikilink>http://en.wikipedia.org/wiki/Luca_Signorelli?oldid=604479872</wikilink>
+<buildings />
+<books />
 </Person>

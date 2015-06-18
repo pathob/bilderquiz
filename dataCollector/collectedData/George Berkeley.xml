@@ -1,0 +1,26 @@
+<Person>
+<name>George Berkeley</name>
+<variantName>
+<XML_Serializer_Tag>George Berkley</XML_Serializer_Tag>
+</variantName>
+<thumbnail>https://commons.wikimedia.org/wiki/Special:FilePath/George_Berkeley_by_John_Smibert.jpg?width=270</thumbnail>
+<birthEN>1685</birthEN>
+<birthDE>1685</birthDE>
+<deathEN>1753</deathEN>
+<deathDE>1753</deathDE>
+<birthPlace />
+<deathPlace>
+<XML_Serializer_Tag>Oxford</XML_Serializer_Tag>
+</deathPlace>
+<professionOrOccupation>
+<XML_Serializer_Tag>Philosoph</XML_Serializer_Tag>
+<XML_Serializer_Tag>Theologe</XML_Serializer_Tag>
+<XML_Serializer_Tag>Bischof</XML_Serializer_Tag>
+</professionOrOccupation>
+<dbpResource>http://dbpedia.org/resource/George_Berkeley</dbpResource>
+<abstract>George Berkeley [ˈbɑrkli] (* 12. März 1685 in der Grafschaft Kilkenny (Irland); † 14. Januar 1753 in Oxford) war ein anglikanischer Theologe, Sensualist und Philosoph der Aufklärung. Er entstammte einer royalistisch-protestantischen Familie der anglo-irischen Oberschicht. Berkeley kann als das Bindeglied zwischen Locke und Hume angesehen werden. Er leistete seine Beiträge aus der Sicht eines Denkers, der von den Gegenständen seines Wahrnehmens ausging, daraus seine jeweils eigenen Schlussfolgerungen zog und diese gegen Theorien setzte, die aus seiner Sicht nicht zutreffend waren. In der Folge seiner zetetischen Annahmen vertrat er eine nominalistische Philosophie. Sehr viele Philosophen bezeichneten ihn als Immaterialist.</abstract>
+<wikilink>http://en.wikipedia.org/wiki/George_Berkeley?oldid=605111488</wikilink>
+<artworks />
+<buildings />
+<books />
+</Person>

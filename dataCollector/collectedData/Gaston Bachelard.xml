@@ -1,0 +1,41 @@
+<Person>
+<name>Gaston Bachelard</name>
+<variantName />
+<thumbnail>https://commons.wikimedia.org/wiki/Special:FilePath/SignatureGastonBachelard.jpg?width=270</thumbnail>
+<birthEN>June 27, 1884</birthEN>
+<birthDE>27. Juni 1884</birthDE>
+<deathEN>October 16, 1962</deathEN>
+<deathDE>16. Oktober 1962</deathDE>
+<birthPlace />
+<deathPlace />
+<professionOrOccupation>
+<XML_Serializer_Tag>Philosoph</XML_Serializer_Tag>
+<XML_Serializer_Tag>Essayist</XML_Serializer_Tag>
+</professionOrOccupation>
+<dbpResource>http://dbpedia.org/resource/Gaston_Bachelard</dbpResource>
+<abstract>Gaston Bachelard (* 27. Juni 1884 in Bar-sur-Aube; † 16. Oktober 1962 in Paris) war ein französischer Philosoph, der sich mit Wissenschaftstheorie und Dichtung gleichermaßen beschäftigte. In Wissenschaft wie künstlerischer Imagination sah Bachelard zwei unterschiedliche, aber gleichwertige Möglichkeiten, sich der Differenz des Neuen zu öffnen, als Mensch zu wachsen. Im Bereich der Wissenschaftstheorie sind seine Begriffe Erkenntnishindernis und epistemologisches Profil von Bedeutung.</abstract>
+<wikilink>http://en.wikipedia.org/wiki/Gaston_Bachelard?oldid=599922015</wikilink>
+<artworks />
+<buildings />
+<books>
+<XML_Serializer_Tag>
+<book>
+<type>uri</type>
+<value>http://dbpedia.org/resource/The_Poetics_of_Space</value>
+</book>
+<author>
+<type>uri</type>
+<value>http://dbpedia.org/resource/Gaston_Bachelard</value>
+</author>
+<released>
+<type>typed-literal</type>
+<datatype>http://www.w3.org/2001/XMLSchema#integer</datatype>
+<value>1958</value>
+</released>
+<wikilink>
+<type>uri</type>
+<value>http://en.wikipedia.org/wiki/The_Poetics_of_Space?oldid=589809922</value>
+</wikilink>
+</XML_Serializer_Tag>
+</books>
+</Person>

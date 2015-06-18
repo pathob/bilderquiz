@@ -1,0 +1,129 @@
+<Person>
+<name>Edmund Husserl</name>
+<variantName>
+<XML_Serializer_Tag>Edmund G. Husserl</XML_Serializer_Tag>
+<XML_Serializer_Tag>E. Husserl</XML_Serializer_Tag>
+<XML_Serializer_Tag>E. G. Huserl</XML_Serializer_Tag>
+<XML_Serializer_Tag>Ĕdmund Gusserl&apos;</XML_Serializer_Tag>
+<XML_Serializer_Tag>Edmund Chuserl</XML_Serializer_Tag>
+<XML_Serializer_Tag>... Husserl-Twardowski</XML_Serializer_Tag>
+<XML_Serializer_Tag>Edmund Huserl</XML_Serializer_Tag>
+<XML_Serializer_Tag>... Husai&apos;er</XML_Serializer_Tag>
+<XML_Serializer_Tag>Aidemengde-Husai&apos;er</XML_Serializer_Tag>
+<XML_Serializer_Tag>Aidemengde Husai&apos;er</XML_Serializer_Tag>
+<XML_Serializer_Tag>E. Hutusāru</XML_Serializer_Tag>
+<XML_Serializer_Tag>Entmunt Chuserl</XML_Serializer_Tag>
+<XML_Serializer_Tag>Edŭmunt&apos;ŭ Husŏl</XML_Serializer_Tag>
+<XML_Serializer_Tag>Edmond Huserl</XML_Serializer_Tag>
+<XML_Serializer_Tag>Edmundo Husserl</XML_Serializer_Tag>
+<XML_Serializer_Tag>Ė. Gusserlʹ</XML_Serializer_Tag>
+<XML_Serializer_Tag>Ai de meng de Hu sai er</XML_Serializer_Tag>
+<XML_Serializer_Tag>Aidemengde-Husaier</XML_Serializer_Tag>
+<XML_Serializer_Tag>Aidemengde Husaier</XML_Serializer_Tag>
+<XML_Serializer_Tag>Hu sai er</XML_Serializer_Tag>
+<XML_Serializer_Tag>Husaier</XML_Serializer_Tag>
+<XML_Serializer_Tag>אדמונד הוסרל</XML_Serializer_Tag>
+<XML_Serializer_Tag>埃德蒙德·胡塞尔</XML_Serializer_Tag>
+<XML_Serializer_Tag>埃德蒙德 胡塞尔</XML_Serializer_Tag>
+<XML_Serializer_Tag>エトムント フッサール</XML_Serializer_Tag>
+</variantName>
+<thumbnail>https://commons.wikimedia.org/wiki/Special:FilePath/Edmund_Husserl_1900.jpg?width=270</thumbnail>
+<birthEN>April 8, 1859</birthEN>
+<birthDE>8. April 1859</birthDE>
+<deathEN>April 27, 1938</deathEN>
+<deathDE>27. April 1938</deathDE>
+<birthPlace>
+<XML_Serializer_Tag>Proßnitz</XML_Serializer_Tag>
+</birthPlace>
+<deathPlace>
+<XML_Serializer_Tag>Freiburg im Breisgau</XML_Serializer_Tag>
+</deathPlace>
+<professionOrOccupation>
+<XML_Serializer_Tag>Philosoph</XML_Serializer_Tag>
+</professionOrOccupation>
+<dbpResource>http://dbpedia.org/resource/Edmund_Husserl</dbpResource>
+<abstract>Edmund Husserl (* 8. April 1859 in Proßnitz, Österreich-Ungarn; † 27. April 1938 in Freiburg im Breisgau, Deutsches Reich) war ein Philosoph und Mathematiker. Husserl gilt als Begründer der Phänomenologie, mit deren Hilfe er die Philosophie als strenge Wissenschaft (Titel einer programmatischen Schrift von 1910/11) zu begründen suchte. Er ist einer der einflussreichsten Denker des 20. Jahrhunderts.Husserl forderte von der Philosophie, sich vorschneller Weltdeutungen zu enthalten und sich bei der analytischen Betrachtung der Dinge an das zu halten, was dem Bewusstsein unmittelbar (phänomenal) erscheint. Damit brach er mit dem um 1900 vorherrschenden Psychologismus, der die Gesetze der Logik als Ausdruck bloßer psychischer Gegebenheiten sah, wodurch Objektivität prinzipiell unerreichbar sei. Etwa ab 1907 verband er seine Phänomenologie mit der Transzendentalphilosophie, eine Wendung, der einige seiner Schüler nicht folgten.Husserl war äußerst produktiv. Der Nachlass umfasst etwa 40.000 Seiten; seit 1950 wird das Werk im Rahmen der Husserliana (Gesammelte Werke) herausgegeben. Den größten Einfluss übte Husserl auf die Existenzphilosophen Maurice Merleau-Ponty, Jean-Paul Sartre und Martin Heidegger aus. Aber auch Theodor W. Adorno baute auf seinem Schaffen auf. Für die Soziologie machten besonders Alfred Schütz und Niklas Luhmann den Husserlschen Ansatz fruchtbar.Der Geburt nach Österreicher, erwarb Husserl 1896 die preußische Staatsangehörigkeit.</abstract>
+<wikilink>http://en.wikipedia.org/wiki/Edmund_Husserl?oldid=605613426</wikilink>
+<artworks />
+<buildings />
+<books>
+<XML_Serializer_Tag>
+<book>
+<type>uri</type>
+<value>http://dbpedia.org/resource/Philosophy_of_Arithmetic_(book)</value>
+</book>
+<author>
+<type>uri</type>
+<value>http://dbpedia.org/resource/Edmund_Husserl</value>
+</author>
+<released>
+<type>typed-literal</type>
+<datatype>http://www.w3.org/2001/XMLSchema#integer</datatype>
+<value>1891</value>
+</released>
+<wikilink>
+<type>uri</type>
+<value>http://en.wikipedia.org/wiki/Philosophy_of_Arithmetic_(book)?oldid=605720176</value>
+</wikilink>
+</XML_Serializer_Tag>
+<XML_Serializer_Tag>
+<book>
+<type>uri</type>
+<value>http://dbpedia.org/resource/Cartesian_Meditations</value>
+</book>
+<author>
+<type>uri</type>
+<value>http://dbpedia.org/resource/Edmund_Husserl</value>
+</author>
+<published>
+<type>typed-literal</type>
+<datatype>http://www.w3.org/2001/XMLSchema#integer</datatype>
+<value>1931</value>
+</published>
+<wikilink>
+<type>uri</type>
+<value>http://en.wikipedia.org/wiki/Cartesian_Meditations?oldid=606711180</value>
+</wikilink>
+</XML_Serializer_Tag>
+<XML_Serializer_Tag>
+<book>
+<type>uri</type>
+<value>http://dbpedia.org/resource/Logical_Investigations_(Husserl)</value>
+</book>
+<author>
+<type>uri</type>
+<value>http://dbpedia.org/resource/Edmund_Husserl</value>
+</author>
+<published>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>*1900 
+*1970</value>
+</published>
+<wikilink>
+<type>uri</type>
+<value>http://en.wikipedia.org/wiki/Logical_Investigations_(Husserl)?oldid=605715623</value>
+</wikilink>
+</XML_Serializer_Tag>
+<XML_Serializer_Tag>
+<book>
+<type>uri</type>
+<value>http://dbpedia.org/resource/The_Crisis_of_European_Sciences_and_Transcendental_Phenomenology</value>
+</book>
+<author>
+<type>uri</type>
+<value>http://dbpedia.org/resource/Edmund_Husserl</value>
+</author>
+<published>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>*1936 
+*1954</value>
+</published>
+<wikilink>
+<type>uri</type>
+<value>http://en.wikipedia.org/wiki/The_Crisis_of_European_Sciences_and_Transcendental_Phenomenology?oldid=605243931</value>
+</wikilink>
+</XML_Serializer_Tag>
+</books>
+</Person>

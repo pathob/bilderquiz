@@ -1,0 +1,47 @@
+<Person>
+<name>Paul Ricoeur</name>
+<variantName>
+<XML_Serializer_Tag>Lü-ko-erh</XML_Serializer_Tag>
+<XML_Serializer_Tag>Pao-lo Li-k&apos;o</XML_Serializer_Tag>
+<XML_Serializer_Tag>P. Ricoeur</XML_Serializer_Tag>
+<XML_Serializer_Tag>Paul Ricoeurs</XML_Serializer_Tag>
+<XML_Serializer_Tag>Pol&apos; Rike͏̈r</XML_Serializer_Tag>
+</variantName>
+<thumbnail>https://commons.wikimedia.org/wiki/Special:FilePath/Paul_Ricoeur.jpg?width=270</thumbnail>
+<birthEN>February 27, 1913</birthEN>
+<birthDE>27. Februar 1913</birthDE>
+<deathEN>May 20, 2005</deathEN>
+<deathDE>20. Mai 2005</deathDE>
+<birthPlace />
+<deathPlace />
+<professionOrOccupation>
+<XML_Serializer_Tag>Philosoph</XML_Serializer_Tag>
+</professionOrOccupation>
+<dbpResource>http://dbpedia.org/resource/Paul_Ric%C5%93ur</dbpResource>
+<abstract>Paul Ricœur (* 27. Februar 1913 in Valence; † 20. Mai 2005 in Châtenay-Malabry) war ein französischer Philosoph.Ricœur beschäftigte sich vor allem aus phänomenologischer und psychoanalytischer Perspektive, in immer neuen Bewegungen hermeneutischen Erschließens, mit dem menschlichen Wollen; mit den Symbolen, in denen es sich ausdrückt; mit der sprachlichen Produktion in Dichtung und Erzählung und schließlich mit den Grundbegriffen der Geschichtswissenschaft. Sein Denken war stark von Gabriel Marcel, Edmund Husserl, Karl Jaspers, Martin Heidegger und Sigmund Freud beeinflusst, nahm aber ebenso die Anregungen verschiedener Spielarten des Strukturalismus und der angelsächsischen sprachanalytischen Philosophie auf.</abstract>
+<wikilink>http://en.wikipedia.org/wiki/Paul_Ricœur?oldid=606322274</wikilink>
+<artworks />
+<buildings />
+<books>
+<XML_Serializer_Tag>
+<book>
+<type>uri</type>
+<value>http://dbpedia.org/resource/Freud_and_Philosophy</value>
+</book>
+<author>
+<type>uri</type>
+<value>http://dbpedia.org/resource/Paul_Ric%C5%93ur</value>
+</author>
+<published>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>*1965 
+*1970</value>
+</published>
+<wikilink>
+<type>uri</type>
+<value>http://en.wikipedia.org/wiki/Freud_and_Philosophy?oldid=605540064</value>
+</wikilink>
+</XML_Serializer_Tag>
+</books>
+</Person>

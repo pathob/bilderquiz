@@ -16,12 +16,15 @@
 <XML_Serializer_Tag>Maler</XML_Serializer_Tag>
 <XML_Serializer_Tag>Radierer</XML_Serializer_Tag>
 </professionOrOccupation>
+<dbpResource>http://dbpedia.org/resource/Gustave_Caillebotte</dbpResource>
+<abstract>Gustave Caillebotte (* 19. August 1848 in Paris; † 21. Februar 1894 in Gennevilliers, Département Hauts-de-Seine) war ein französischer Maler des Impressionismus, Kunstsammler, Mäzen und Bootsbauer.</abstract>
+<wikilink>http://en.wikipedia.org/wiki/Gustave_Caillebotte?oldid=606409894</wikilink>
 <artworks>
 <XML_Serializer_Tag>
-<painting>
+<artwork>
 <type>uri</type>
 <value>http://dbpedia.org/resource/Vue_de_toits_(Effet_de_neige)</value>
-</painting>
+</artwork>
 <thumbnail>
 <type>uri</type>
 <value>http://commons.wikimedia.org/wiki/Special:FilePath/Gustave_Caillebotte_-_Rooftops_in_the_Snow_(snow_effect)_-_Google_Art_Project.jpg?width=300</value>
@@ -45,12 +48,17 @@
 <type>uri</type>
 <value>http://en.wikipedia.org/wiki/Vue_de_toits_(Effet_de_neige)?oldid=588332643</value>
 </wikilink>
+<type>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>Oil on canvas</value>
+</type>
 </XML_Serializer_Tag>
 <XML_Serializer_Tag>
-<painting>
+<artwork>
 <type>uri</type>
 <value>http://dbpedia.org/resource/Le_Pont_de_l&apos;Europe</value>
-</painting>
+</artwork>
 <thumbnail>
 <type>uri</type>
 <value>http://en.wikipedia.org/wiki/Special:FilePath/Caillebotte-PontdeL&apos;Europe-Geneva.jpg?width=300</value>
@@ -69,12 +77,17 @@
 <type>uri</type>
 <value>http://en.wikipedia.org/wiki/Le_Pont_de_l&apos;Europe?oldid=594711777</value>
 </wikilink>
+<type>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>Oil on canvas</value>
+</type>
 </XML_Serializer_Tag>
 <XML_Serializer_Tag>
-<painting>
+<artwork>
 <type>uri</type>
 <value>http://dbpedia.org/resource/A_Balcony_in_Paris</value>
-</painting>
+</artwork>
 <thumbnail>
 <type>uri</type>
 <value>http://commons.wikimedia.org/wiki/Special:FilePath/Caillebotte_a-balcony-in-paris-1881.jpg?width=300</value>
@@ -93,12 +106,17 @@
 <type>uri</type>
 <value>http://en.wikipedia.org/wiki/A_Balcony_in_Paris?oldid=586569751</value>
 </wikilink>
+<type>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>Oil on canvas</value>
+</type>
 </XML_Serializer_Tag>
 <XML_Serializer_Tag>
-<painting>
+<artwork>
 <type>uri</type>
 <value>http://dbpedia.org/resource/Homme_au_bain_(painting)</value>
-</painting>
+</artwork>
 <thumbnail>
 <type>uri</type>
 <value>http://en.wikipedia.org/wiki/Special:FilePath/Gustave_Caillebotte_-Man_at_His_Bath.jpg?width=300</value>
@@ -117,12 +135,17 @@
 <type>uri</type>
 <value>http://en.wikipedia.org/wiki/Homme_au_bain_(painting)?oldid=602052443</value>
 </wikilink>
+<type>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>Oil on canvas</value>
+</type>
 </XML_Serializer_Tag>
 <XML_Serializer_Tag>
-<painting>
+<artwork>
 <type>uri</type>
 <value>http://dbpedia.org/resource/Young_Man_at_His_Window</value>
-</painting>
+</artwork>
 <thumbnail>
 <type>uri</type>
 <value>http://en.wikipedia.org/wiki/Special:FilePath/G._Caillebotte_-_Jeune_homme_à_la_fenêtre.jpg?width=300</value>
@@ -141,12 +164,17 @@
 <type>uri</type>
 <value>http://en.wikipedia.org/wiki/Young_Man_at_His_Window?oldid=599683599</value>
 </wikilink>
+<type>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>Oil on canvas</value>
+</type>
 </XML_Serializer_Tag>
 <XML_Serializer_Tag>
-<painting>
+<artwork>
 <type>uri</type>
 <value>http://dbpedia.org/resource/Les_raboteurs_de_parquet</value>
-</painting>
+</artwork>
 <thumbnail>
 <type>uri</type>
 <value>http://en.wikipedia.org/wiki/Special:FilePath/Gustave_Caillebotte_-_The_Floor_Planers_-_Google_Art_Project.jpg?width=300</value>
@@ -165,9 +193,13 @@
 <type>uri</type>
 <value>http://en.wikipedia.org/wiki/Les_raboteurs_de_parquet?oldid=596911109</value>
 </wikilink>
+<type>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>Oil on canvas</value>
+</type>
 </XML_Serializer_Tag>
 </artworks>
-<dbpResource>http://dbpedia.org/resource/Gustave_Caillebotte</dbpResource>
-<abstract>Gustave Caillebotte (* 19. August 1848 in Paris; † 21. Februar 1894 in Gennevilliers, Département Hauts-de-Seine) war ein französischer Maler des Impressionismus, Kunstsammler, Mäzen und Bootsbauer.</abstract>
-<wikilink>http://en.wikipedia.org/wiki/Gustave_Caillebotte?oldid=606409894</wikilink>
+<buildings />
+<books />
 </Person>

@@ -1,0 +1,100 @@
+<Person>
+<name>Ken Wilber</name>
+<variantName>
+<XML_Serializer_Tag>Kenneth Wilber</XML_Serializer_Tag>
+</variantName>
+<thumbnail>https://commons.wikimedia.org/wiki/Special:FilePath/Ken_Wilber_10.JPG?width=270</thumbnail>
+<birthEN>1949</birthEN>
+<birthDE>1949</birthDE>
+<deathEN />
+<deathDE />
+<birthPlace />
+<deathPlace />
+<professionOrOccupation>
+<XML_Serializer_Tag>Psychologe</XML_Serializer_Tag>
+<XML_Serializer_Tag>Philosoph</XML_Serializer_Tag>
+</professionOrOccupation>
+<dbpResource>http://dbpedia.org/resource/Ken_Wilber</dbpResource>
+<abstract>Kenneth &quot;Ken&quot; Earl Wilber Jr. (* 31. Januar 1949 in Oklahoma City) ist ein US-amerikanischer Autor im Bereich der Integralen Theorie, der vor allem über Psychologie, Philosophie, Mystik und Spirituelle Evolution schreibt. Er leidet seit Mitte der 1980er Jahre an einer Stoffwechselerkrankung. Im Jahr 1998 gründete er das Integrale Institut. Er lebt und arbeitet in Denver.</abstract>
+<wikilink>http://en.wikipedia.org/wiki/Ken_Wilber?oldid=606593653</wikilink>
+<artworks />
+<buildings />
+<books>
+<XML_Serializer_Tag>
+<book>
+<type>uri</type>
+<value>http://dbpedia.org/resource/A_Theory_of_Everything</value>
+</book>
+<author>
+<type>uri</type>
+<value>http://dbpedia.org/resource/Ken_Wilber</value>
+</author>
+<published>
+<type>typed-literal</type>
+<datatype>http://www.w3.org/2001/XMLSchema#integer</datatype>
+<value>2001</value>
+</published>
+<wikilink>
+<type>uri</type>
+<value>http://en.wikipedia.org/wiki/A_Theory_of_Everything?oldid=606416041</value>
+</wikilink>
+</XML_Serializer_Tag>
+<XML_Serializer_Tag>
+<book>
+<type>uri</type>
+<value>http://dbpedia.org/resource/The_Marriage_of_Sense_and_Soul</value>
+</book>
+<author>
+<type>uri</type>
+<value>http://dbpedia.org/resource/Ken_Wilber</value>
+</author>
+<published>
+<type>typed-literal</type>
+<datatype>http://www.w3.org/2001/XMLSchema#integer</datatype>
+<value>1998</value>
+</published>
+<wikilink>
+<type>uri</type>
+<value>http://en.wikipedia.org/wiki/The_Marriage_of_Sense_and_Soul?oldid=606414647</value>
+</wikilink>
+</XML_Serializer_Tag>
+<XML_Serializer_Tag>
+<book>
+<type>uri</type>
+<value>http://dbpedia.org/resource/Boomeritis</value>
+</book>
+<author>
+<type>uri</type>
+<value>http://dbpedia.org/resource/Ken_Wilber</value>
+</author>
+<published>
+<type>typed-literal</type>
+<datatype>http://www.w3.org/2001/XMLSchema#integer</datatype>
+<value>2002</value>
+</published>
+<wikilink>
+<type>uri</type>
+<value>http://en.wikipedia.org/wiki/Boomeritis?oldid=606441485</value>
+</wikilink>
+</XML_Serializer_Tag>
+<XML_Serializer_Tag>
+<book>
+<type>uri</type>
+<value>http://dbpedia.org/resource/Sex,_Ecology,_Spirituality</value>
+</book>
+<author>
+<type>uri</type>
+<value>http://dbpedia.org/resource/Ken_Wilber</value>
+</author>
+<published>
+<type>typed-literal</type>
+<datatype>http://www.w3.org/2001/XMLSchema#integer</datatype>
+<value>1995</value>
+</published>
+<wikilink>
+<type>uri</type>
+<value>http://en.wikipedia.org/wiki/Sex,_Ecology,_Spirituality?oldid=606627488</value>
+</wikilink>
+</XML_Serializer_Tag>
+</books>
+</Person>

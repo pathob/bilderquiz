@@ -13,8 +13,10 @@
 <XML_Serializer_Tag>Maler</XML_Serializer_Tag>
 <XML_Serializer_Tag>Radierer</XML_Serializer_Tag>
 </professionOrOccupation>
-<artworks />
 <dbpResource>http://dbpedia.org/resource/Franz_Bunke</dbpResource>
 <abstract>Franz Bunke (* 3. Dezember 1857 in Schwaan; † 6. Juli 1939 in Weimar; vollständiger Name: Franz Wilhelm Johann Bunke) war ein deutscher Maler.</abstract>
 <wikilink>http://en.wikipedia.org/wiki/Franz_Bunke?oldid=606802774</wikilink>
+<artworks />
+<buildings />
+<books />
 </Person>

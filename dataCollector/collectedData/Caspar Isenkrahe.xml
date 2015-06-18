@@ -1,0 +1,31 @@
+<Person>
+<name>Caspar Isenkrahe</name>
+<variantName>
+<XML_Serializer_Tag>C. Isenkrahe</XML_Serializer_Tag>
+<XML_Serializer_Tag>Kaspar Isenkrahe</XML_Serializer_Tag>
+<XML_Serializer_Tag>Mathias Caspar Hubert Isenkrahe</XML_Serializer_Tag>
+<XML_Serializer_Tag>Kaspar Isenkrahe</XML_Serializer_Tag>
+</variantName>
+<thumbnail>https://commons.wikimedia.org/wiki/Special:FilePath/Isenkr1.jpg?width=270</thumbnail>
+<birthEN>May 12, 1844</birthEN>
+<birthDE>12. Mai 1844</birthDE>
+<deathEN>August 12, 1921</deathEN>
+<deathDE>12. August 1921</deathDE>
+<birthPlace>
+<XML_Serializer_Tag>Jülich</XML_Serializer_Tag>
+</birthPlace>
+<deathPlace>
+<XML_Serializer_Tag>Trier</XML_Serializer_Tag>
+</deathPlace>
+<professionOrOccupation>
+<XML_Serializer_Tag>Mathematiker</XML_Serializer_Tag>
+<XML_Serializer_Tag>Physiker</XML_Serializer_Tag>
+<XML_Serializer_Tag>Philosoph</XML_Serializer_Tag>
+</professionOrOccupation>
+<dbpResource>http://dbpedia.org/resource/Caspar_Isenkrahe</dbpResource>
+<abstract>Mathias Caspar Hubert Isenkrahe (* 12. Mai 1844 in Müntz bei Jülich; † 12. August 1921 in Trier) war ein deutscher Mathematiker, Physiker und katholischer Naturphilosoph.</abstract>
+<wikilink>http://en.wikipedia.org/wiki/Caspar_Isenkrahe?oldid=590864664</wikilink>
+<artworks />
+<buildings />
+<books />
+</Person>

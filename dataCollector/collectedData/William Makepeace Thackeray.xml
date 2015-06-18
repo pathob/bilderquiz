@@ -1,0 +1,178 @@
+<Person>
+<name>William Makepeace Thackeray</name>
+<variantName>
+<XML_Serializer_Tag>William M. Thackeray</XML_Serializer_Tag>
+<XML_Serializer_Tag>Wîllîam M. Taqeray</XML_Serializer_Tag>
+<XML_Serializer_Tag>Michael Angelo Titmarsh</XML_Serializer_Tag>
+<XML_Serializer_Tag>M. A. Titmarsh</XML_Serializer_Tag>
+<XML_Serializer_Tag>M. W. Thackeray</XML_Serializer_Tag>
+<XML_Serializer_Tag>W. M. Thackeray</XML_Serializer_Tag>
+<XML_Serializer_Tag>William Thackeray</XML_Serializer_Tag>
+<XML_Serializer_Tag>William Thackery</XML_Serializer_Tag>
+<XML_Serializer_Tag>Michael A. Titmarsh</XML_Serializer_Tag>
+<XML_Serializer_Tag>Arthur Pendennis</XML_Serializer_Tag>
+<XML_Serializer_Tag>Fitz-Boodle</XML_Serializer_Tag>
+<XML_Serializer_Tag>Ikey Solomons</XML_Serializer_Tag>
+<XML_Serializer_Tag>Charles James Yellowplush</XML_Serializer_Tag>
+<XML_Serializer_Tag>Theophile Wagstaffe</XML_Serializer_Tag>
+<XML_Serializer_Tag>Sakkare</XML_Serializer_Tag>
+<XML_Serializer_Tag>Jeames</XML_Serializer_Tag>
+<XML_Serializer_Tag>Uil&apos;jam Tekkerej</XML_Serializer_Tag>
+<XML_Serializer_Tag>Sakkarē</XML_Serializer_Tag>
+<XML_Serializer_Tag>William Makepeace Thackeray</XML_Serializer_Tag>
+</variantName>
+<thumbnail>https://commons.wikimedia.org/wiki/Special:FilePath/William_Makepeace_Thackeray_by_Jesse_Harrison_Whitehurst-crop.jpg?width=270</thumbnail>
+<birthEN>July 16, 1811</birthEN>
+<birthDE>16. Juli 1811</birthDE>
+<deathEN>December 24, 1863</deathEN>
+<deathDE>24. Dezember 1863</deathDE>
+<birthPlace>
+<XML_Serializer_Tag>Kalkutta</XML_Serializer_Tag>
+</birthPlace>
+<deathPlace>
+<XML_Serializer_Tag>London</XML_Serializer_Tag>
+</deathPlace>
+<professionOrOccupation>
+<XML_Serializer_Tag>Schriftsteller</XML_Serializer_Tag>
+</professionOrOccupation>
+<dbpResource>http://dbpedia.org/resource/William_Makepeace_Thackeray</dbpResource>
+<abstract>William Makepeace Thackeray (* 18. Juli 1811 in Kalkutta; † 24. Dezember 1863 in London) war ein englischer Schriftsteller und gilt neben Charles Dickens und George Eliot als bedeutendster englischsprachiger Romancier des Viktorianischen Zeitalters.</abstract>
+<wikilink>http://en.wikipedia.org/wiki/William_Makepeace_Thackeray?oldid=606001149</wikilink>
+<artworks />
+<buildings />
+<books>
+<XML_Serializer_Tag>
+<book>
+<type>uri</type>
+<value>http://dbpedia.org/resource/Vanity_Fair_(novel)</value>
+</book>
+<author>
+<type>uri</type>
+<value>http://dbpedia.org/resource/William_Makepeace_Thackeray</value>
+</author>
+<thumbnail>
+<type>uri</type>
+<value>http://commons.wikimedia.org/wiki/Special:FilePath/Vanity_Fair.jpg?width=300</value>
+</thumbnail>
+<released>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>January 1847 and July 1848</value>
+</released>
+<wikilink>
+<type>uri</type>
+<value>http://en.wikipedia.org/wiki/Vanity_Fair_(novel)?oldid=605590609</value>
+</wikilink>
+<abstract>
+<type>literal</type>
+<xml:lang>de</xml:lang>
+<value>Jahrmarkt der Eitelkeit (Originaltitel: Vanity Fair, or, a Novel without a Hero, 1847/1848 in Fortsetzungen im Londoner Satiremagazin „Punch“ erschienen; deutsch 1849) ist ein wichtiges Werk des englischen Schriftstellers William Makepeace Thackeray, der neben Charles Dickens als der bedeutendste Vertreter der Literatur des Viktorianischen Zeitalters gilt. Der Gesellschaftsroman bietet ein facettenreiches, alle sozialen Klassen einschließendes Bild der Londoner Gesellschaft zu Anfang des 19. Jahrhunderts und zeichnet sich durch seinen ironischen Stil und seine präzise Darstellung der handelnden Figuren und ihrer Charaktere aus.</value>
+</abstract>
+</XML_Serializer_Tag>
+<XML_Serializer_Tag>
+<book>
+<type>uri</type>
+<value>http://dbpedia.org/resource/The_Adventures_of_Philip</value>
+</book>
+<author>
+<type>uri</type>
+<value>http://dbpedia.org/resource/William_Makepeace_Thackeray</value>
+</author>
+<thumbnail>
+<type>uri</type>
+<value>http://commons.wikimedia.org/wiki/Special:FilePath/1862_CorhillMagazine_January_p1.png?width=300</value>
+</thumbnail>
+<released>
+<type>typed-literal</type>
+<datatype>http://www.w3.org/2001/XMLSchema#integer</datatype>
+<value>1861</value>
+</released>
+<wikilink>
+<type>uri</type>
+<value>http://en.wikipedia.org/wiki/The_Adventures_of_Philip?oldid=551965055</value>
+</wikilink>
+</XML_Serializer_Tag>
+<XML_Serializer_Tag>
+<book>
+<type>uri</type>
+<value>http://dbpedia.org/resource/The_Virginians</value>
+</book>
+<author>
+<type>uri</type>
+<value>http://dbpedia.org/resource/William_Makepeace_Thackeray</value>
+</author>
+<thumbnail>
+<type>uri</type>
+<value>http://commons.wikimedia.org/wiki/Special:FilePath/The_Virginians_Thackeray.jpg?width=300</value>
+</thumbnail>
+<released>
+<type>typed-literal</type>
+<datatype>http://www.w3.org/2001/XMLSchema#integer</datatype>
+<value>1857</value>
+</released>
+<wikilink>
+<type>uri</type>
+<value>http://en.wikipedia.org/wiki/The_Virginians?oldid=593506059</value>
+</wikilink>
+</XML_Serializer_Tag>
+<XML_Serializer_Tag>
+<book>
+<type>uri</type>
+<value>http://dbpedia.org/resource/The_Book_of_Snobs</value>
+</book>
+<author>
+<type>uri</type>
+<value>http://dbpedia.org/resource/William_Makepeace_Thackeray</value>
+</author>
+<thumbnail>
+<type>uri</type>
+<value>http://commons.wikimedia.org/wiki/Special:FilePath/Book_of_Snobs-Première_de_couverture.jpg?width=300</value>
+</thumbnail>
+<released>
+<type>typed-literal</type>
+<datatype>http://www.w3.org/2001/XMLSchema#integer</datatype>
+<value>1848</value>
+</released>
+<wikilink>
+<type>uri</type>
+<value>http://en.wikipedia.org/wiki/The_Book_of_Snobs?oldid=544726855</value>
+</wikilink>
+</XML_Serializer_Tag>
+<XML_Serializer_Tag>
+<book>
+<type>uri</type>
+<value>http://dbpedia.org/resource/The_Newcomes</value>
+</book>
+<author>
+<type>uri</type>
+<value>http://dbpedia.org/resource/William_Makepeace_Thackeray</value>
+</author>
+<thumbnail>
+<type>uri</type>
+<value>http://commons.wikimedia.org/wiki/Special:FilePath/The_Newcomes.jpg?width=300</value>
+</thumbnail>
+<wikilink>
+<type>uri</type>
+<value>http://en.wikipedia.org/wiki/The_Newcomes?oldid=544913042</value>
+</wikilink>
+</XML_Serializer_Tag>
+<XML_Serializer_Tag>
+<book>
+<type>uri</type>
+<value>http://dbpedia.org/resource/The_History_of_Henry_Esmond</value>
+</book>
+<author>
+<type>uri</type>
+<value>http://dbpedia.org/resource/William_Makepeace_Thackeray</value>
+</author>
+<thumbnail>
+<type>uri</type>
+<value>http://commons.wikimedia.org/wiki/Special:FilePath/The_History_of_Henry_Esmond_1st_ed.jpg?width=300</value>
+</thumbnail>
+<wikilink>
+<type>uri</type>
+<value>http://en.wikipedia.org/wiki/The_History_of_Henry_Esmond?oldid=596982847</value>
+</wikilink>
+</XML_Serializer_Tag>
+</books>
+</Person>

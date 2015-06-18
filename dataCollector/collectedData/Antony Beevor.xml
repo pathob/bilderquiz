@@ -1,0 +1,81 @@
+<Person>
+<name>Antony Beevor</name>
+<variantName>
+<XML_Serializer_Tag>אנטוני ביוור</XML_Serializer_Tag>
+<XML_Serializer_Tag>アントニー・ビーヴァー</XML_Serializer_Tag>
+</variantName>
+<thumbnail>https://commons.wikimedia.org/wiki/Special:FilePath/Antony_Beevor_0008.jpg?width=270</thumbnail>
+<birthEN>1946</birthEN>
+<birthDE>1946</birthDE>
+<deathEN />
+<deathDE />
+<birthPlace />
+<deathPlace />
+<professionOrOccupation>
+<XML_Serializer_Tag>Schriftsteller</XML_Serializer_Tag>
+</professionOrOccupation>
+<dbpResource>http://dbpedia.org/resource/Antony_Beevor</dbpResource>
+<abstract>Antony James Beevor (* 14. Dezember 1946) ist ein britischer Historiker, der unter anderem verschiedene Werke über den Zweiten Weltkrieg verfasst hat, so über die Schlacht von Stalingrad, die Luftlandeschlacht um Kreta, die Landung in der Normandie und die Schlacht um Berlin, als auch ein Werk zum Spanischen Bürgerkrieg.Beevor besuchte das Winchester College und studierte an der Royal Military Academy Sandhurst, unter anderem bei dem berühmten Historiker des Zweiten Weltkrieges John Keegan. Er ist Chevalier de l’Ordre des Arts et Lettres, Ehrendoktor der University of Kent und Mitglied der Royal Society of Literature.</abstract>
+<wikilink>http://en.wikipedia.org/wiki/Antony_Beevor?oldid=601971498</wikilink>
+<artworks />
+<buildings />
+<books>
+<XML_Serializer_Tag>
+<book>
+<type>uri</type>
+<value>http://dbpedia.org/resource/Berlin:_The_Downfall_1945</value>
+</book>
+<author>
+<type>uri</type>
+<value>http://dbpedia.org/resource/Antony_Beevor</value>
+</author>
+<released>
+<type>typed-literal</type>
+<datatype>http://www.w3.org/2001/XMLSchema#integer</datatype>
+<value>2002</value>
+</released>
+<wikilink>
+<type>uri</type>
+<value>http://en.wikipedia.org/wiki/Berlin:_The_Downfall_1945?oldid=600848508</value>
+</wikilink>
+</XML_Serializer_Tag>
+<XML_Serializer_Tag>
+<book>
+<type>uri</type>
+<value>http://dbpedia.org/resource/Stalingrad_(book)</value>
+</book>
+<author>
+<type>uri</type>
+<value>http://dbpedia.org/resource/Antony_Beevor</value>
+</author>
+<released>
+<type>typed-literal</type>
+<datatype>http://www.w3.org/2001/XMLSchema#date</datatype>
+<value>1999-05-06+02:00</value>
+</released>
+<wikilink>
+<type>uri</type>
+<value>http://en.wikipedia.org/wiki/Stalingrad_(book)?oldid=600795859</value>
+</wikilink>
+</XML_Serializer_Tag>
+<XML_Serializer_Tag>
+<book>
+<type>uri</type>
+<value>http://dbpedia.org/resource/The_Second_World_War_(book)</value>
+</book>
+<author>
+<type>uri</type>
+<value>http://dbpedia.org/resource/Antony_Beevor</value>
+</author>
+<released>
+<type>typed-literal</type>
+<datatype>http://www.w3.org/2001/XMLSchema#integer</datatype>
+<value>2012</value>
+</released>
+<wikilink>
+<type>uri</type>
+<value>http://en.wikipedia.org/wiki/The_Second_World_War_(book)?oldid=606617620</value>
+</wikilink>
+</XML_Serializer_Tag>
+</books>
+</Person>

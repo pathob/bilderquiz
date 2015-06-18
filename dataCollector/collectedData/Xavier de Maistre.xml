@@ -1,0 +1,26 @@
+<Person>
+<name>Xavier de Maistre</name>
+<variantName>
+<XML_Serializer_Tag>François X. de Maistre</XML_Serializer_Tag>
+<XML_Serializer_Tag>François Xavier de Maistre</XML_Serializer_Tag>
+<XML_Serializer_Tag>Xaver de Maistre</XML_Serializer_Tag>
+</variantName>
+<thumbnail>https://commons.wikimedia.org/wiki/Special:FilePath/Xavier_de_Maistre.jpg?width=270</thumbnail>
+<birthEN>November 8, 1763</birthEN>
+<birthDE>8. November 1763</birthDE>
+<deathEN>June 12, 1852</deathEN>
+<deathDE>12. Juni 1852</deathDE>
+<birthPlace>
+<XML_Serializer_Tag>Chambéry</XML_Serializer_Tag>
+</birthPlace>
+<deathPlace />
+<professionOrOccupation>
+<XML_Serializer_Tag>Schriftsteller</XML_Serializer_Tag>
+</professionOrOccupation>
+<dbpResource>http://dbpedia.org/resource/Xavier_de_Maistre</dbpResource>
+<abstract>Xavier de Maistre (* 10. Oktober 1763 in Chambery; † 12. Juni 1852 in St. Petersburg) aus Savoyen diente lange Zeit in seinem Leben als Offizier im Militär, wurde allerdings als französischer Schriftsteller bekannt. Als der jüngere Bruder des Philosophen und Staatsmannes Joseph de Maistre wurde Xavier in eine aristokratische Familie in Chambéry geboren. Als junger Mann diente er in der Armee des Königreichs Piemont-Sardinien, später in der zaristischen Armee Russlands. 1790 schrieb er seinen Roman Voyage autour de ma chambre („Reise um mein Zimmer“, 1795 anonym in Lausanne veröffentlicht) während eines Arrestaufenthalts von 42 Tagen in der Stadt Turin infolge eines unerlaubten Duells.</abstract>
+<wikilink>http://en.wikipedia.org/wiki/Xavier_de_Maistre?oldid=604323699</wikilink>
+<artworks />
+<buildings />
+<books />
+</Person>

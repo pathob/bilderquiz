@@ -1,0 +1,29 @@
+<Person>
+<name>Wilhelm Waiblinger</name>
+<variantName>
+<XML_Serializer_Tag>Friedrich W. Waiblinger</XML_Serializer_Tag>
+<XML_Serializer_Tag>Wilhelm Friedrich Waiblinger</XML_Serializer_Tag>
+<XML_Serializer_Tag>Wilhelm F. Waiblinger</XML_Serializer_Tag>
+<XML_Serializer_Tag>Friedrich Wilhelm Waiblinger</XML_Serializer_Tag>
+</variantName>
+<thumbnail>https://commons.wikimedia.org/wiki/Special:FilePath/Wilhelm_Waiblinger_-_Selbstbildnis.jpg?width=270</thumbnail>
+<birthEN>November 21, 1804</birthEN>
+<birthDE>21. November 1804</birthDE>
+<deathEN>January 17, 1830</deathEN>
+<deathDE>17. Januar 1830</deathDE>
+<birthPlace>
+<XML_Serializer_Tag>Heilbronn</XML_Serializer_Tag>
+</birthPlace>
+<deathPlace>
+<XML_Serializer_Tag>Rom</XML_Serializer_Tag>
+</deathPlace>
+<professionOrOccupation>
+<XML_Serializer_Tag>Schriftsteller</XML_Serializer_Tag>
+</professionOrOccupation>
+<dbpResource>http://dbpedia.org/resource/Wilhelm_Waiblinger</dbpResource>
+<abstract>Wilhelm Friedrich Waiblinger (* 21. November 1804 in Heilbronn; † 17. Januar 1830 in Rom) war ein deutscher Dichter und Schriftsteller, der vor allem durch seine Freundschaft zu Friedrich Hölderlin und Eduard Mörike bekannt wurde.</abstract>
+<wikilink>http://en.wikipedia.org/wiki/Wilhelm_Waiblinger?oldid=564178601</wikilink>
+<artworks />
+<buildings />
+<books />
+</Person>

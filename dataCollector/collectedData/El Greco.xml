@@ -28,12 +28,15 @@
 <XML_Serializer_Tag>Bildhauer</XML_Serializer_Tag>
 <XML_Serializer_Tag>Maler</XML_Serializer_Tag>
 </professionOrOccupation>
+<dbpResource>http://dbpedia.org/resource/El_Greco</dbpResource>
+<abstract>El Greco (spanisch el ‚der‘, italienisch Greco ‚Grieche‘; * 1541 auf Kreta in Candia (heute Iraklio); † 7. April 1614 in Toledo; eigentlich Domínikos Theotokópoulos, griechisch Δομήνικος Θεοτοκόπουλος) war ein Maler griechischer Herkunft und Hauptmeister des spanischen Manierismus beziehungsweise der ausklingenden Renaissance. Er war auch als Bildhauer und Architekt tätig. Seine künstlerische Arbeit begann auf Kreta mit der Ausbildung zum Ikonenmaler in der byzantinischen Tradition. Er siedelte nach Venedig über und kam mit der Kunst Tizians in Berührung, bevor er sich in Rom niederließ. Anschließend gelangte El Greco auf ungeklärte Weise nach Spanien und zog nach Toledo. Trotz einiger Konflikte konnte er sich dort durchsetzen und blieb bis zu seinem Lebensende.El Greco malte hauptsächlich Bilder mit religiösen Themen und Porträts. Hinzu kommen einige wenige Landschaften und Genrebilder. In Venedig und Rom adaptierte er westliche Bildthemen und künstlerische Techniken. So wandte er sich der Ölmalerei und Leinwänden als Malgrund zu. Gegen Ende seines Italienaufenthaltes fand El Greco zu einer starken Körperlichkeit seiner Figuren, was sich in Spanien fortsetzte. Dort arbeitete er an großen Altarprojekten und fertigte Porträts einflussreicher Personen an. Für seine Altarbilder entwarf El Greco oft auch das architektonische Rahmenwerk. Seine Malerei entwickelte sich weg vom Naturalismus hin zu einem Individualstil, indem er versuchte, einen neuen Ausdruck für spirituelle Phänomene zu suchen, und sich in seinem Spätwerk zunehmend auch wieder auf seine Herkunft als Ikonenmaler bezog. El Greco bereicherte die katholische Bilderwelt um neue Themen und um eine Neuinterpretation bekannter Ikonographien. Seine Kunst wurde weniger vom Adel gefördert, sondern von Intellektuellen, Geistlichen und Humanisten unterstützt.Die Rezeption El Grecos fiel über die Zeit sehr unterschiedlich aus. Mit seinem Individualstil ging er einen sehr eigenen Weg, der von der Entwicklung der Malerei in Spanien weitestgehend unabhängig war. Nach seinem Tod wurde seiner Kunst wenig Wertschätzung zuteil und sie wurde zum Teil gar nicht beachtet. Die langsame Wiederentdeckung El Grecos setzte im 19. Jahrhundert ein, um 1900 hatte er dann seinen Durchbruch. Dieser war weniger von der Kunstwissenschaft getragen, sondern von Schriftstellern, der Kunstkritik und der künstlerischen Avantgarde. Er wurde von Künstlern der Moderne, besonders des Expressionismus, als ein wichtiger Bezugspunkt gesehen und in Werken rezipiert. Zudem wurde er von spanischen Künstlern und Intellektuellen zur Stärkung der nationalen Identität herangezogen.</abstract>
+<wikilink>http://en.wikipedia.org/wiki/El_Greco?oldid=603768847</wikilink>
 <artworks>
 <XML_Serializer_Tag>
-<painting>
+<artwork>
 <type>uri</type>
 <value>http://dbpedia.org/resource/The_Burial_of_the_Count_of_Orgaz</value>
-</painting>
+</artwork>
 <thumbnail>
 <type>uri</type>
 <value>http://commons.wikimedia.org/wiki/Special:FilePath/El_Greco_-_The_Burial_of_the_Count_of_Orgaz.JPG?width=300</value>
@@ -57,12 +60,17 @@
 <type>uri</type>
 <value>http://en.wikipedia.org/wiki/The_Burial_of_the_Count_of_Orgaz?oldid=602202333</value>
 </wikilink>
+<type>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>Oil on canvas</value>
+</type>
 </XML_Serializer_Tag>
 <XML_Serializer_Tag>
-<painting>
+<artwork>
 <type>uri</type>
 <value>http://dbpedia.org/resource/View_of_Toledo</value>
-</painting>
+</artwork>
 <thumbnail>
 <type>uri</type>
 <value>http://commons.wikimedia.org/wiki/Special:FilePath/El_Greco_-_View_of_Toledo_-_Google_Art_Project.jpg?width=300</value>
@@ -86,12 +94,17 @@
 <type>uri</type>
 <value>http://en.wikipedia.org/wiki/View_of_Toledo?oldid=606738373</value>
 </wikilink>
+<type>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>Oil on canvas</value>
+</type>
 </XML_Serializer_Tag>
 <XML_Serializer_Tag>
-<painting>
+<artwork>
 <type>uri</type>
 <value>http://dbpedia.org/resource/The_Disrobing_of_Christ</value>
-</painting>
+</artwork>
 <thumbnail>
 <type>uri</type>
 <value>http://commons.wikimedia.org/wiki/Special:FilePath/El_Expolio_del_Greco_Catedral_de_Toledo.jpg?width=300</value>
@@ -110,12 +123,17 @@
 <type>uri</type>
 <value>http://en.wikipedia.org/wiki/The_Disrobing_of_Christ?oldid=587135174</value>
 </wikilink>
+<type>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>oil on canvas</value>
+</type>
 </XML_Serializer_Tag>
 <XML_Serializer_Tag>
-<painting>
+<artwork>
 <type>uri</type>
 <value>http://dbpedia.org/resource/Christ_Driving_the_Money_Changers_from_the_Temple_(El_Greco,_Washington)</value>
-</painting>
+</artwork>
 <thumbnail>
 <type>uri</type>
 <value>http://commons.wikimedia.org/wiki/Special:FilePath/El_Greco_059.jpg?width=300</value>
@@ -134,12 +152,16 @@
 <type>uri</type>
 <value>http://en.wikipedia.org/wiki/Christ_Driving_the_Money_Changers_from_the_Temple_(El_Greco,_Washington)?oldid=598765029</value>
 </wikilink>
+<type>
+<type>uri</type>
+<value>http://dbpedia.org/resource/Oil_painting</value>
+</type>
 </XML_Serializer_Tag>
 <XML_Serializer_Tag>
-<painting>
+<artwork>
 <type>uri</type>
 <value>http://dbpedia.org/resource/Saint_Peter_and_Saint_Paul_(El_Greco)</value>
-</painting>
+</artwork>
 <thumbnail>
 <type>uri</type>
 <value>http://commons.wikimedia.org/wiki/Special:FilePath/Col_renaixement_ambit_47_2_big.jpg?width=300</value>
@@ -158,12 +180,17 @@
 <type>uri</type>
 <value>http://en.wikipedia.org/wiki/Saint_Peter_and_Saint_Paul_(El_Greco)?oldid=590567196</value>
 </wikilink>
+<type>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>Oil on canvas</value>
+</type>
 </XML_Serializer_Tag>
 <XML_Serializer_Tag>
-<painting>
+<artwork>
 <type>uri</type>
 <value>http://dbpedia.org/resource/The_Adoration_of_the_Shepherds_(El_Greco)</value>
-</painting>
+</artwork>
 <thumbnail>
 <type>uri</type>
 <value>http://commons.wikimedia.org/wiki/Special:FilePath/Adoracion_de_los_Reyes_magos1.jpg?width=300</value>
@@ -182,12 +209,17 @@
 <type>uri</type>
 <value>http://en.wikipedia.org/wiki/The_Adoration_of_the_Shepherds_(El_Greco)?oldid=586518483</value>
 </wikilink>
+<type>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>oil on canvas</value>
+</type>
 </XML_Serializer_Tag>
 <XML_Serializer_Tag>
-<painting>
+<artwork>
 <type>uri</type>
 <value>http://dbpedia.org/resource/Christ_Driving_the_Money_Changers_from_the_Temple_(El_Greco,_Minneapolis)</value>
-</painting>
+</artwork>
 <thumbnail>
 <type>uri</type>
 <value>http://commons.wikimedia.org/wiki/Special:FilePath/El_Greco_(Domenikos_Theotokopoulos)_-_Christ_Driving_the_Money_Changers_from_the_Temple_-_Google_Art_Project.jpg?width=300</value>
@@ -206,12 +238,16 @@
 <type>uri</type>
 <value>http://en.wikipedia.org/wiki/Christ_Driving_the_Money_Changers_from_the_Temple_(El_Greco,_Minneapolis)?oldid=598765037</value>
 </wikilink>
+<type>
+<type>uri</type>
+<value>http://dbpedia.org/resource/Oil_painting</value>
+</type>
 </XML_Serializer_Tag>
 <XML_Serializer_Tag>
-<painting>
+<artwork>
 <type>uri</type>
 <value>http://dbpedia.org/resource/Laoco%C3%B6n_(El_Greco)</value>
-</painting>
+</artwork>
 <thumbnail>
 <type>uri</type>
 <value>http://commons.wikimedia.org/wiki/Special:FilePath/El_Greco_-_Laocoon.jpg?width=300</value>
@@ -230,12 +266,17 @@
 <type>uri</type>
 <value>http://en.wikipedia.org/wiki/Laocoön_(El_Greco)?oldid=589182072</value>
 </wikilink>
+<type>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>Oil painting</value>
+</type>
 </XML_Serializer_Tag>
 <XML_Serializer_Tag>
-<painting>
+<artwork>
 <type>uri</type>
 <value>http://dbpedia.org/resource/Christ_Driving_the_Money_Changers_from_the_Temple_(El_Greco,_London)</value>
-</painting>
+</artwork>
 <thumbnail>
 <type>uri</type>
 <value>http://commons.wikimedia.org/wiki/Special:FilePath/El_Greco_016.jpg?width=300</value>
@@ -254,12 +295,16 @@
 <type>uri</type>
 <value>http://en.wikipedia.org/wiki/Christ_Driving_the_Money_Changers_from_the_Temple_(El_Greco,_London)?oldid=598765022</value>
 </wikilink>
+<type>
+<type>uri</type>
+<value>http://dbpedia.org/resource/Oil_painting</value>
+</type>
 </XML_Serializer_Tag>
 <XML_Serializer_Tag>
-<painting>
+<artwork>
 <type>uri</type>
 <value>http://dbpedia.org/resource/Christ_Driving_the_Money_Changers_from_the_Temple_(El_Greco,_New_York)</value>
-</painting>
+</artwork>
 <thumbnail>
 <type>uri</type>
 <value>http://commons.wikimedia.org/wiki/Special:FilePath/El_Greco_016.jpg?width=300</value>
@@ -278,12 +323,16 @@
 <type>uri</type>
 <value>http://en.wikipedia.org/wiki/Christ_Driving_the_Money_Changers_from_the_Temple_(El_Greco,_New_York)?oldid=598765012</value>
 </wikilink>
+<type>
+<type>uri</type>
+<value>http://dbpedia.org/resource/Oil_painting</value>
+</type>
 </XML_Serializer_Tag>
 <XML_Serializer_Tag>
-<painting>
+<artwork>
 <type>uri</type>
 <value>http://dbpedia.org/resource/Portrait_of_Vincenzo_Anastagi</value>
-</painting>
+</artwork>
 <thumbnail>
 <type>uri</type>
 <value>http://commons.wikimedia.org/wiki/Special:FilePath/Retrato_de_Vincenzo_Anastagi_Greco.jpg?width=300</value>
@@ -302,12 +351,17 @@
 <type>uri</type>
 <value>http://en.wikipedia.org/wiki/Portrait_of_Vincenzo_Anastagi?oldid=590547265</value>
 </wikilink>
+<type>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>oil on canvas</value>
+</type>
 </XML_Serializer_Tag>
 <XML_Serializer_Tag>
-<painting>
+<artwork>
 <type>uri</type>
 <value>http://dbpedia.org/resource/Dormition_of_the_Virgin_(El_Greco)</value>
-</painting>
+</artwork>
 <thumbnail>
 <type>uri</type>
 <value>http://commons.wikimedia.org/wiki/Special:FilePath/Dormition_El_Greco.jpg?width=300</value>
@@ -326,9 +380,13 @@
 <type>uri</type>
 <value>http://en.wikipedia.org/wiki/Dormition_of_the_Virgin_(El_Greco)?oldid=605436287</value>
 </wikilink>
+<type>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>Tempera and gold on panel</value>
+</type>
 </XML_Serializer_Tag>
 </artworks>
-<dbpResource>http://dbpedia.org/resource/El_Greco</dbpResource>
-<abstract>El Greco (spanisch el ‚der‘, italienisch Greco ‚Grieche‘; * 1541 auf Kreta in Candia (heute Iraklio); † 7. April 1614 in Toledo; eigentlich Domínikos Theotokópoulos, griechisch Δομήνικος Θεοτοκόπουλος) war ein Maler griechischer Herkunft und Hauptmeister des spanischen Manierismus beziehungsweise der ausklingenden Renaissance. Er war auch als Bildhauer und Architekt tätig. Seine künstlerische Arbeit begann auf Kreta mit der Ausbildung zum Ikonenmaler in der byzantinischen Tradition. Er siedelte nach Venedig über und kam mit der Kunst Tizians in Berührung, bevor er sich in Rom niederließ. Anschließend gelangte El Greco auf ungeklärte Weise nach Spanien und zog nach Toledo. Trotz einiger Konflikte konnte er sich dort durchsetzen und blieb bis zu seinem Lebensende.El Greco malte hauptsächlich Bilder mit religiösen Themen und Porträts. Hinzu kommen einige wenige Landschaften und Genrebilder. In Venedig und Rom adaptierte er westliche Bildthemen und künstlerische Techniken. So wandte er sich der Ölmalerei und Leinwänden als Malgrund zu. Gegen Ende seines Italienaufenthaltes fand El Greco zu einer starken Körperlichkeit seiner Figuren, was sich in Spanien fortsetzte. Dort arbeitete er an großen Altarprojekten und fertigte Porträts einflussreicher Personen an. Für seine Altarbilder entwarf El Greco oft auch das architektonische Rahmenwerk. Seine Malerei entwickelte sich weg vom Naturalismus hin zu einem Individualstil, indem er versuchte, einen neuen Ausdruck für spirituelle Phänomene zu suchen, und sich in seinem Spätwerk zunehmend auch wieder auf seine Herkunft als Ikonenmaler bezog. El Greco bereicherte die katholische Bilderwelt um neue Themen und um eine Neuinterpretation bekannter Ikonographien. Seine Kunst wurde weniger vom Adel gefördert, sondern von Intellektuellen, Geistlichen und Humanisten unterstützt.Die Rezeption El Grecos fiel über die Zeit sehr unterschiedlich aus. Mit seinem Individualstil ging er einen sehr eigenen Weg, der von der Entwicklung der Malerei in Spanien weitestgehend unabhängig war. Nach seinem Tod wurde seiner Kunst wenig Wertschätzung zuteil und sie wurde zum Teil gar nicht beachtet. Die langsame Wiederentdeckung El Grecos setzte im 19. Jahrhundert ein, um 1900 hatte er dann seinen Durchbruch. Dieser war weniger von der Kunstwissenschaft getragen, sondern von Schriftstellern, der Kunstkritik und der künstlerischen Avantgarde. Er wurde von Künstlern der Moderne, besonders des Expressionismus, als ein wichtiger Bezugspunkt gesehen und in Werken rezipiert. Zudem wurde er von spanischen Künstlern und Intellektuellen zur Stärkung der nationalen Identität herangezogen.</abstract>
-<wikilink>http://en.wikipedia.org/wiki/El_Greco?oldid=603768847</wikilink>
+<buildings />
+<books />
 </Person>

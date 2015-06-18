@@ -1,0 +1,159 @@
+<Person>
+<name>Auguste Maquet</name>
+<variantName>
+<XML_Serializer_Tag>Ôkiwst&apos; Magê</XML_Serializer_Tag>
+<XML_Serializer_Tag>Ô. Magê</XML_Serializer_Tag>
+<XML_Serializer_Tag>A. Maquet</XML_Serializer_Tag>
+</variantName>
+<thumbnail>https://commons.wikimedia.org/wiki/Special:FilePath/Auguste_Maquet_1847.jpg?width=270</thumbnail>
+<birthEN>1813</birthEN>
+<birthDE>1813</birthDE>
+<deathEN>1888</deathEN>
+<deathDE>1888</deathDE>
+<birthPlace />
+<deathPlace />
+<professionOrOccupation>
+<XML_Serializer_Tag>Schriftsteller</XML_Serializer_Tag>
+</professionOrOccupation>
+<dbpResource>http://dbpedia.org/resource/Auguste_Maquet</dbpResource>
+<abstract>Auguste Maquet (* 13. September 1813 in Paris; † 8. Januar 1888 ebenda) war ein französischer Schriftsteller und Librettist.Auguste Maquet studierte am Lycée Charlemagne und wurde dort im Alter von achtzehn Jahren Professor für Geschichte. Er verfasste einige Essays mit Gérard de Nerval, der sein Theaterstück Soir de carnaval an Alexandre Dumas gab. Dieser regte eine Überarbeitung des Stückes an, das 1839 unter dem Titel Bathilde mit Erfolg aufgeführt wurde.Dumas interessierte sich für den produktiven jungen Schriftsteller und gewann ihn als Mitarbeiter für seine eigenen Romanproduktionen, die jedoch stets unter seinem Namen erschienen. So war Maquet Koautor von bekannten Werken wie Der Graf von Monte Christo, Die drei Musketiere und Der Mann mit der eisernen Maske.Nach dem Ende der Zusammenarbeit mit Dumas veröffentlichte Maquet seit den 1850er Jahren auch Werke unter eigenem Namen. Mit William Busnach verfasste er das Libretto zu Isidore Legouix&apos; Oper L&apos;Ours et l&apos;amateur de jardins (1869). 1861 wurde er als Offizier der Ehrenlegion ausgezeichnet.</abstract>
+<wikilink>http://en.wikipedia.org/wiki/Auguste_Maquet?oldid=590207530</wikilink>
+<artworks />
+<buildings />
+<books>
+<XML_Serializer_Tag>
+<book>
+<type>uri</type>
+<value>http://dbpedia.org/resource/The_Three_Musketeers</value>
+</book>
+<author>
+<type>uri</type>
+<value>http://dbpedia.org/resource/Auguste_Maquet</value>
+</author>
+<thumbnail>
+<type>uri</type>
+<value>http://commons.wikimedia.org/wiki/Special:FilePath/Dartagnan-musketeers.jpg?width=300</value>
+</thumbnail>
+<released>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>March–July 1844</value>
+</released>
+<wikilink>
+<type>uri</type>
+<value>http://en.wikipedia.org/wiki/The_Three_Musketeers?oldid=605442063</value>
+</wikilink>
+<abstract>
+<type>literal</type>
+<xml:lang>de</xml:lang>
+<value>Die drei Musketiere ist ein Roman von Alexandre Dumas in Zusammenarbeit mit Auguste Maquet. Er ist der erste Teil einer Trilogie über d’Artagnan und seine drei Freunde Athos, Porthos und Aramis. Die Folgebände heißen Zwanzig Jahre danach und Der Vicomte von Bragelonne oder Zehn Jahre später.</value>
+</abstract>
+</XML_Serializer_Tag>
+<XML_Serializer_Tag>
+<book>
+<type>uri</type>
+<value>http://dbpedia.org/resource/Twenty_Years_After</value>
+</book>
+<author>
+<type>uri</type>
+<value>http://dbpedia.org/resource/Auguste_Maquet</value>
+</author>
+<thumbnail>
+<type>uri</type>
+<value>http://commons.wikimedia.org/wiki/Special:FilePath/Leloir_Musketeers2.jpg?width=300</value>
+</thumbnail>
+<released>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>French, Serialized 1845</value>
+</released>
+<wikilink>
+<type>uri</type>
+<value>http://en.wikipedia.org/wiki/Twenty_Years_After?oldid=600531650</value>
+</wikilink>
+</XML_Serializer_Tag>
+<XML_Serializer_Tag>
+<book>
+<type>uri</type>
+<value>http://dbpedia.org/resource/The_Queen&apos;s_Necklace</value>
+</book>
+<author>
+<type>uri</type>
+<value>http://dbpedia.org/resource/Auguste_Maquet</value>
+</author>
+<thumbnail>
+<type>uri</type>
+<value>http://commons.wikimedia.org/wiki/Special:FilePath/Marie_Antoinette_Adult9.jpg?width=300</value>
+</thumbnail>
+<wikilink>
+<type>uri</type>
+<value>http://en.wikipedia.org/wiki/The_Queen&apos;s_Necklace?oldid=602906413</value>
+</wikilink>
+<abstract>
+<type>literal</type>
+<xml:lang>de</xml:lang>
+<value>Das Halsband der Königin ist der zweite Teil der vierbändigen Romanreihe Memoiren eines Arztes des französischen Autoren Alexandre Dumas d. Ä., zu der auch Joseph Balsamo, Ange Pitou und Die Gräfin von Charny gehören, die Dumas, beginnend mit Joseph Balsamo, zwischen 1846 und 1855 in den Feuilletons der Pariser Zeitung La Presse veröffentlichte.Er behandelt in nicht ganz authentischer Weise die Halsbandaffäre rund um Marie Antoinette, Kardinal de Rohan, die Gräfin de la Motte und den Grafen Cagliostro im Jahr 1785. Dumas veröffentlichte dieses Werk mit dem Originaltitel Le Collier de la reine ab 1849.</value>
+</abstract>
+</XML_Serializer_Tag>
+<XML_Serializer_Tag>
+<book>
+<type>uri</type>
+<value>http://dbpedia.org/resource/The_Count_of_Monte_Cristo</value>
+</book>
+<author>
+<type>uri</type>
+<value>http://dbpedia.org/resource/Auguste_Maquet</value>
+</author>
+<thumbnail>
+<type>uri</type>
+<value>http://commons.wikimedia.org/wiki/Special:FilePath/Louis_Français-Dantès_sur_son_rocher.jpg?width=300</value>
+</thumbnail>
+<wikilink>
+<type>uri</type>
+<value>http://en.wikipedia.org/wiki/The_Count_of_Monte_Cristo?oldid=605999642</value>
+</wikilink>
+<abstract>
+<type>literal</type>
+<xml:lang>de</xml:lang>
+<value>Der Graf von Monte Christo (orig. Le Comte de Monte-Cristo) ist ein Abenteuerroman von Alexandre Dumas.Zwischen 1844 und 1846 veröffentlichte Dumas den Graf von Monte Christo als Fortsetzungsroman in der Zeitschrift Le Journal des débats und erzielte damit ungeahnten Erfolg. Noch bevor der Roman fertiggestellt war, erschienen bereits die ersten Nachdrucke.Die Geschichte spielt in der Zeit nach der Französischen Revolution in den Jahren 1814 bis 1838. Napoleons Stern ist untergegangen, und die Restauration unter den Königen Ludwig XVIII. und Karl X. hat stattgefunden. Dann folgt die Julirevolution von 1830, durch die der „Bürgerkönig“ Louis-Philippe I. auf den Thron kommt.</value>
+</abstract>
+</XML_Serializer_Tag>
+<XML_Serializer_Tag>
+<book>
+<type>uri</type>
+<value>http://dbpedia.org/resource/La_Reine_Margot_(novel)</value>
+</book>
+<author>
+<type>uri</type>
+<value>http://dbpedia.org/resource/Auguste_Maquet</value>
+</author>
+<thumbnail>
+<type>uri</type>
+<value>http://commons.wikimedia.org/wiki/Special:FilePath/SchlafzimmerBartholomaeusnacht.jpg?width=300</value>
+</thumbnail>
+<wikilink>
+<type>uri</type>
+<value>http://en.wikipedia.org/wiki/La_Reine_Margot_(novel)?oldid=586757044</value>
+</wikilink>
+</XML_Serializer_Tag>
+<XML_Serializer_Tag>
+<book>
+<type>uri</type>
+<value>http://dbpedia.org/resource/The_Vicomte_of_Bragelonne:_Ten_Years_Later</value>
+</book>
+<author>
+<type>uri</type>
+<value>http://dbpedia.org/resource/Auguste_Maquet</value>
+</author>
+<released>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>French, Serialized 1847–1850</value>
+</released>
+<wikilink>
+<type>uri</type>
+<value>http://en.wikipedia.org/wiki/The_Vicomte_of_Bragelonne:_Ten_Years_Later?oldid=596997338</value>
+</wikilink>
+</XML_Serializer_Tag>
+</books>
+</Person>

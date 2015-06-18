@@ -1,0 +1,32 @@
+<Person>
+<name>Arnold Ruge</name>
+<variantName>
+<XML_Serializer_Tag>Arnoldus Rugius</XML_Serializer_Tag>
+<XML_Serializer_Tag>M. Karlstein</XML_Serializer_Tag>
+<XML_Serializer_Tag>Agnes W. Stein</XML_Serializer_Tag>
+<XML_Serializer_Tag>R. Durangelo</XML_Serializer_Tag>
+<XML_Serializer_Tag>Dr. Adolph</XML_Serializer_Tag>
+</variantName>
+<thumbnail>https://commons.wikimedia.org/wiki/Special:FilePath/Arnold_Ruge_Schriftsteller.jpg?width=270</thumbnail>
+<birthEN>September 13, 1802</birthEN>
+<birthDE>13. September 1802</birthDE>
+<deathEN>December 31, 1880</deathEN>
+<deathDE>31. Dezember 1880</deathDE>
+<birthPlace>
+<XML_Serializer_Tag>Bergen auf Rügen</XML_Serializer_Tag>
+</birthPlace>
+<deathPlace>
+<XML_Serializer_Tag>Brighton</XML_Serializer_Tag>
+</deathPlace>
+<professionOrOccupation>
+<XML_Serializer_Tag>Politiker</XML_Serializer_Tag>
+<XML_Serializer_Tag>Schriftsteller</XML_Serializer_Tag>
+<XML_Serializer_Tag>Publizist</XML_Serializer_Tag>
+</professionOrOccupation>
+<dbpResource>http://dbpedia.org/resource/Arnold_Ruge</dbpResource>
+<abstract>Arnold Ruge (* 13. September 1802 in Bergen auf Rügen; † 31. Dezember 1880 in Brighton) war ein deutscher Schriftsteller.</abstract>
+<wikilink>http://en.wikipedia.org/wiki/Arnold_Ruge?oldid=565761693</wikilink>
+<artworks />
+<buildings />
+<books />
+</Person>

@@ -1,0 +1,23 @@
+<Person>
+<name>Javier Cercas</name>
+<variantName />
+<thumbnail>https://commons.wikimedia.org/wiki/Special:FilePath/Javier_Cercas_en_la_Feria_del_Libro_de_Madrid_2009.jpg?width=270</thumbnail>
+<birthEN>1962</birthEN>
+<birthDE>1962</birthDE>
+<deathEN />
+<deathDE />
+<birthPlace>
+<XML_Serializer_Tag>Ibahernando</XML_Serializer_Tag>
+</birthPlace>
+<deathPlace />
+<professionOrOccupation>
+<XML_Serializer_Tag>Schriftsteller</XML_Serializer_Tag>
+<XML_Serializer_Tag>Publizist</XML_Serializer_Tag>
+</professionOrOccupation>
+<dbpResource>http://dbpedia.org/resource/Javier_Cercas</dbpResource>
+<abstract>Javier Cercas (* 1962 in Ibahernando, Provinz Cáceres/Extremadura) ist ein spanischer Schriftsteller und Journalist.</abstract>
+<wikilink>http://en.wikipedia.org/wiki/Javier_Cercas?oldid=590343082</wikilink>
+<artworks />
+<buildings />
+<books />
+</Person>

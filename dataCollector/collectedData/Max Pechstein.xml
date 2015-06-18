@@ -22,8 +22,10 @@
 <XML_Serializer_Tag>Graphiker</XML_Serializer_Tag>
 <XML_Serializer_Tag>Künstler</XML_Serializer_Tag>
 </professionOrOccupation>
-<artworks />
 <dbpResource>http://dbpedia.org/resource/Max_Pechstein</dbpResource>
 <abstract>Hermann Max Pechstein (* 31. Dezember 1881 in Zwickau; † 29. Juni 1955 in West-Berlin) war ein deutscher Maler, Grafiker und zeitweise Mitglied der Künstlervereinigung „Brücke“. Pechstein war ein Vertreter des deutschen Expressionismus. Er schuf vor allem Figurenbilder, teilweise mit exotischen Motiven von den Palauinseln, Stillleben sowie Landschaften (u.a. vom Lebasee in Hinterpommern) und von der Kurischen Nehrung, wo er die Künstlerkolonie Nidden während seiner mehrmonatigen Aufenthalte zwischen 1909 und 1939 maßgeblich beeinflusste.</abstract>
 <wikilink>http://en.wikipedia.org/wiki/Max_Pechstein?oldid=599360714</wikilink>
+<artworks />
+<buildings />
+<books />
 </Person>

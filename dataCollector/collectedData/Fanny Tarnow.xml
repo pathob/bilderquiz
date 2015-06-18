@@ -1,0 +1,34 @@
+<Person>
+<name>Fanny Tarnow</name>
+<variantName>
+<XML_Serializer_Tag>Fanny F. Tarnow</XML_Serializer_Tag>
+<XML_Serializer_Tag>Fanny von Tarnow</XML_Serializer_Tag>
+<XML_Serializer_Tag>Fanny</XML_Serializer_Tag>
+<XML_Serializer_Tag>Franciska C. Tarnow</XML_Serializer_Tag>
+<XML_Serializer_Tag>Franziska Christiane Johanna Friederike Tarnow</XML_Serializer_Tag>
+<XML_Serializer_Tag>Franziska Christine Johanna Friederike Tarnow</XML_Serializer_Tag>
+<XML_Serializer_Tag>Franziska C. Tarnow</XML_Serializer_Tag>
+<XML_Serializer_Tag>Franziska Tarnow</XML_Serializer_Tag>
+</variantName>
+<thumbnail>https://commons.wikimedia.org/wiki/Special:FilePath/Fanny_von_Tarnow,_Neuer_Begräbnisplatz,_Dessau-Roßlau.jpg?width=270</thumbnail>
+<birthEN>December 17, 1779</birthEN>
+<birthDE>17. Dezember 1779</birthDE>
+<deathEN>June 20, 1862</deathEN>
+<deathDE>20. Juni 1862</deathDE>
+<birthPlace>
+<XML_Serializer_Tag>Güstrow</XML_Serializer_Tag>
+</birthPlace>
+<deathPlace>
+<XML_Serializer_Tag>Dessau</XML_Serializer_Tag>
+</deathPlace>
+<professionOrOccupation>
+<XML_Serializer_Tag>Schriftstellerin</XML_Serializer_Tag>
+<XML_Serializer_Tag>Erzieherin</XML_Serializer_Tag>
+</professionOrOccupation>
+<dbpResource>http://dbpedia.org/resource/Fanny_Tarnow</dbpResource>
+<abstract>Fanny Tarnow, eigentl. Franziska Christiane Johanna Friederike Tarnow (* 17. Dezember 1779 in Güstrow; † 4. Juli 1862 in Dessau; Pseudonyme Fanny, F.T.) war eine deutsche Schriftstellerin.</abstract>
+<wikilink>http://en.wikipedia.org/wiki/Fanny_Tarnow?oldid=549299218</wikilink>
+<artworks />
+<buildings />
+<books />
+</Person>

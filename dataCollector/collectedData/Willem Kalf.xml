@@ -15,12 +15,15 @@
 <XML_Serializer_Tag>Künstler</XML_Serializer_Tag>
 <XML_Serializer_Tag>Maler</XML_Serializer_Tag>
 </professionOrOccupation>
+<dbpResource>http://dbpedia.org/resource/Willem_Kalf</dbpResource>
+<abstract>Willem Kalf (getauft 3. November 1619 Rotterdam; † 31. Juli 1693 Amsterdam) war einer der bedeutendsten Stilllebenmaler der Niederlande im 17. Jahrhundert.</abstract>
+<wikilink>http://en.wikipedia.org/wiki/Willem_Kalf?oldid=606394561</wikilink>
 <artworks>
 <XML_Serializer_Tag>
-<painting>
+<artwork>
 <type>uri</type>
 <value>http://dbpedia.org/resource/Still_Life_with_a_Chinese_Porcelain_Jar</value>
-</painting>
+</artwork>
 <thumbnail>
 <type>uri</type>
 <value>http://commons.wikimedia.org/wiki/Special:FilePath/Willem_Kalf_-_Still-Life_with_a_Late_Ming_Ginger_Jar_-_WGA12080.jpg?width=300</value>
@@ -39,9 +42,13 @@
 <type>uri</type>
 <value>http://en.wikipedia.org/wiki/Still_Life_with_a_Chinese_Porcelain_Jar?oldid=537894523</value>
 </wikilink>
+<type>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>Oil painting on canvas</value>
+</type>
 </XML_Serializer_Tag>
 </artworks>
-<dbpResource>http://dbpedia.org/resource/Willem_Kalf</dbpResource>
-<abstract>Willem Kalf (getauft 3. November 1619 Rotterdam; † 31. Juli 1693 Amsterdam) war einer der bedeutendsten Stilllebenmaler der Niederlande im 17. Jahrhundert.</abstract>
-<wikilink>http://en.wikipedia.org/wiki/Willem_Kalf?oldid=606394561</wikilink>
+<buildings />
+<books />
 </Person>

@@ -1,0 +1,62 @@
+<Person>
+<name>Dava Sobel</name>
+<variantName />
+<thumbnail>https://commons.wikimedia.org/wiki/Special:FilePath/Dava_Sobel_with_hands_folded,_November_8,_2007.jpg?width=270</thumbnail>
+<birthEN>1947</birthEN>
+<birthDE>1947</birthDE>
+<deathEN />
+<deathDE />
+<birthPlace />
+<deathPlace />
+<professionOrOccupation>
+<XML_Serializer_Tag>Schriftstellerin</XML_Serializer_Tag>
+<XML_Serializer_Tag>Journalistin</XML_Serializer_Tag>
+<XML_Serializer_Tag>Autorin</XML_Serializer_Tag>
+<XML_Serializer_Tag>Wissenschaftsredakteurin</XML_Serializer_Tag>
+<XML_Serializer_Tag>Wissenschaftsreporterin</XML_Serializer_Tag>
+</professionOrOccupation>
+<dbpResource>http://dbpedia.org/resource/Dava_Sobel</dbpResource>
+<abstract>Dava Sobel (* 15. Juni 1947 in der Bronx, New York City) ist eine US-amerikanische Schriftstellerin. Sie arbeitet als Wissenschaftsredakteurin bei der New York Times und ist durch ihre populärwissenschaftlichen Bücher auch in Europa bekannt geworden. Sie veröffentlichte zahlreiche Artikel in Zeitschriften wie Harvard Magazine, Life und The New Yorker. Dava Sobel lebt in New York City.Galileos Tochter beschreibt die Beziehung zwischen Galileo Galilei und seiner Tochter Celeste, die in einem Kloster lebte. Die erhalten gebliebenen Briefe von Vater und Tochter dokumentieren die Widersprüche zwischen Wissenschaft und Religion. Für dieses Buch wurde sie mit dem Los Angeles Times Book Prize ausgezeichnet.Längengrad beschreibt die Geschichte des Uhrmachers John Harrison, der es sich zum Ziel gesetzt hatte, eine auf See ausreichend genau gehende Uhr zu konstruieren. Das Buch wurde mit Michael Gambon und Jeremy Irons 1999 für das Fernsehen verfilmt.Der Asteroid (30935) Davasobel wurde 2005 nach ihr benannt.</abstract>
+<wikilink>http://en.wikipedia.org/wiki/Dava_Sobel?oldid=587748529</wikilink>
+<artworks />
+<buildings />
+<books>
+<XML_Serializer_Tag>
+<book>
+<type>uri</type>
+<value>http://dbpedia.org/resource/Longitude_(book)</value>
+</book>
+<author>
+<type>uri</type>
+<value>http://dbpedia.org/resource/Dava_Sobel</value>
+</author>
+<thumbnail>
+<type>uri</type>
+<value>http://commons.wikimedia.org/wiki/Special:FilePath/John_Harrison_Uhrmacher.jpg?width=300</value>
+</thumbnail>
+<wikilink>
+<type>uri</type>
+<value>http://en.wikipedia.org/wiki/Longitude_(book)?oldid=599918850</value>
+</wikilink>
+</XML_Serializer_Tag>
+<XML_Serializer_Tag>
+<book>
+<type>uri</type>
+<value>http://dbpedia.org/resource/Galileo&apos;s_Daughter</value>
+</book>
+<author>
+<type>uri</type>
+<value>http://dbpedia.org/resource/Dava_Sobel</value>
+</author>
+<released>
+<type>typed-literal</type>
+<datatype>http://www.w3.org/2001/XMLSchema#integer</datatype>
+<value>1999</value>
+</released>
+<wikilink>
+<type>uri</type>
+<value>http://en.wikipedia.org/wiki/Galileo&apos;s_Daughter?oldid=598301860</value>
+</wikilink>
+</XML_Serializer_Tag>
+</books>
+</Person>

@@ -13,8 +13,10 @@
 <professionOrOccupation>
 <XML_Serializer_Tag>Maler</XML_Serializer_Tag>
 </professionOrOccupation>
-<artworks />
 <dbpResource>http://dbpedia.org/resource/Luis_de_Morales</dbpResource>
 <abstract>Luis de Morales, genannt El Divino (* um 1509 in Badajoz; † 9. Mai 1586 ebenda) war ein spanischer Maler.</abstract>
 <wikilink>http://en.wikipedia.org/wiki/Luis_de_Morales?oldid=565980765</wikilink>
+<artworks />
+<buildings />
+<books />
 </Person>

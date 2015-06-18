@@ -1,0 +1,35 @@
+<Person>
+<name>Jacques Paul Migne</name>
+<variantName>
+<XML_Serializer_Tag>J.-P. Migne</XML_Serializer_Tag>
+<XML_Serializer_Tag>J. P. Migne</XML_Serializer_Tag>
+<XML_Serializer_Tag>... Migne</XML_Serializer_Tag>
+<XML_Serializer_Tag>, Abbé</XML_Serializer_Tag>
+<XML_Serializer_Tag>M. L&apos;Abbé Migne</XML_Serializer_Tag>
+<XML_Serializer_Tag>Jacques-Paul Migne</XML_Serializer_Tag>
+<XML_Serializer_Tag>Jacobus Paulus Migne</XML_Serializer_Tag>
+<XML_Serializer_Tag>L. Migne</XML_Serializer_Tag>
+<XML_Serializer_Tag>M. L. Migne</XML_Serializer_Tag>
+<XML_Serializer_Tag>Jacques P. Migne</XML_Serializer_Tag>
+</variantName>
+<thumbnail>https://commons.wikimedia.org/wiki/Special:FilePath/Migne.jpg?width=270</thumbnail>
+<birthEN>1800</birthEN>
+<birthDE>1800</birthDE>
+<deathEN>1875</deathEN>
+<deathDE>1875</deathDE>
+<birthPlace />
+<deathPlace />
+<professionOrOccupation>
+<XML_Serializer_Tag>Theologe</XML_Serializer_Tag>
+<XML_Serializer_Tag>Katholischer Theologe</XML_Serializer_Tag>
+<XML_Serializer_Tag>Verleger</XML_Serializer_Tag>
+<XML_Serializer_Tag>Journalist</XML_Serializer_Tag>
+<XML_Serializer_Tag>Schriftsteller</XML_Serializer_Tag>
+</professionOrOccupation>
+<dbpResource>http://dbpedia.org/resource/Jacques_Paul_Migne</dbpResource>
+<abstract>Jacques Paul Migne genannt Abbé Migne (* 25. Oktober 1800 in Saint-Flour, Département Cantal; † 25. Oktober 1875 in Paris) war ein französischer Priester, der preiswerte und weit verbreitete Ausgaben von theologischen Werken, Enzyklopädien und Texten der Kirchenväter veröffentlichte (Patrologia Latina).</abstract>
+<wikilink>http://en.wikipedia.org/wiki/Jacques_Paul_Migne?oldid=596326333</wikilink>
+<artworks />
+<buildings />
+<books />
+</Person>

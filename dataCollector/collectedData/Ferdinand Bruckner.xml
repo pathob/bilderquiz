@@ -1,0 +1,33 @@
+<Person>
+<name>Ferdinand Bruckner</name>
+<variantName>
+<XML_Serializer_Tag>F. Bruckner</XML_Serializer_Tag>
+<XML_Serializer_Tag>Fernando Bruckner</XML_Serializer_Tag>
+</variantName>
+<thumbnail>https://commons.wikimedia.org/wiki/Special:FilePath/Gedenktafel_Kaiserdamm_102_(Charl)_Ferdinand_Bruckner.JPG?width=270</thumbnail>
+<birthEN>August 26, 1891</birthEN>
+<birthDE>26. August 1891</birthDE>
+<deathEN>December 5, 1958</deathEN>
+<deathDE>5. Dezember 1958</deathDE>
+<birthPlace>
+<XML_Serializer_Tag>Wien</XML_Serializer_Tag>
+</birthPlace>
+<deathPlace>
+<XML_Serializer_Tag>Berlin</XML_Serializer_Tag>
+</deathPlace>
+<professionOrOccupation>
+<XML_Serializer_Tag>Schriftsteller</XML_Serializer_Tag>
+<XML_Serializer_Tag>Dramatiker</XML_Serializer_Tag>
+<XML_Serializer_Tag>Dramaturg</XML_Serializer_Tag>
+<XML_Serializer_Tag>Theaterdirektor</XML_Serializer_Tag>
+<XML_Serializer_Tag>Herausgeber</XML_Serializer_Tag>
+<XML_Serializer_Tag>Intendant</XML_Serializer_Tag>
+<XML_Serializer_Tag>Lektor</XML_Serializer_Tag>
+</professionOrOccupation>
+<dbpResource>http://dbpedia.org/resource/Ferdinand_Bruckner</dbpResource>
+<abstract>Ferdinand Bruckner (* 26. August 1891 in Sofia, Bulgarien; † 5. Dezember 1958 in Berlin; eigentlich Theodor Tagger) war ein österreichisch-deutscher Schriftsteller und Theaterleiter.</abstract>
+<wikilink>http://en.wikipedia.org/wiki/Ferdinand_Bruckner?oldid=606003822</wikilink>
+<artworks />
+<buildings />
+<books />
+</Person>

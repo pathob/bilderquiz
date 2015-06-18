@@ -15,12 +15,15 @@
 <XML_Serializer_Tag>Maler</XML_Serializer_Tag>
 <XML_Serializer_Tag>Bildhauer</XML_Serializer_Tag>
 </professionOrOccupation>
+<dbpResource>http://dbpedia.org/resource/Anish_Kapoor</dbpResource>
+<abstract>Sir Anish Kapoor (* 12. März 1954 in Mumbai, Indien) ist ein in Indien geborener, in London ansässiger britischer Bildhauer. Als Gewinner einiger der begehrtesten Kunstpreise und Träger hoher ziviler Auszeichnungen gehört er zu den weltweit angesehensten Künstlern seiner Zeit.</abstract>
+<wikilink>http://en.wikipedia.org/wiki/Anish_Kapoor?oldid=605848270</wikilink>
 <artworks>
 <XML_Serializer_Tag>
-<painting>
+<artwork>
 <type>uri</type>
 <value>http://dbpedia.org/resource/Cloud_Gate</value>
-</painting>
+</artwork>
 <thumbnail>
 <type>uri</type>
 <value>http://commons.wikimedia.org/wiki/Special:FilePath/Kapoor_cropped.jpg?width=300</value>
@@ -44,9 +47,45 @@
 <type>uri</type>
 <value>http://en.wikipedia.org/wiki/Cloud_Gate?oldid=604339215</value>
 </wikilink>
+<type>
+<type>uri</type>
+<value>http://dbpedia.org/resource/Stainless_steel</value>
+</type>
 </XML_Serializer_Tag>
 </artworks>
-<dbpResource>http://dbpedia.org/resource/Anish_Kapoor</dbpResource>
-<abstract>Sir Anish Kapoor (* 12. März 1954 in Mumbai, Indien) ist ein in Indien geborener, in London ansässiger britischer Bildhauer. Als Gewinner einiger der begehrtesten Kunstpreise und Träger hoher ziviler Auszeichnungen gehört er zu den weltweit angesehensten Künstlern seiner Zeit.</abstract>
-<wikilink>http://en.wikipedia.org/wiki/Anish_Kapoor?oldid=605848270</wikilink>
+<buildings>
+<XML_Serializer_Tag>
+<building>
+<type>uri</type>
+<value>http://dbpedia.org/resource/ArcelorMittal_Orbit</value>
+</building>
+<name>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>ArcelorMittal Orbit</value>
+</name>
+<architect>
+<type>uri</type>
+<value>http://dbpedia.org/resource/Anish_Kapoor</value>
+</architect>
+<thumbnail>
+<type>uri</type>
+<value>http://commons.wikimedia.org/wiki/Special:FilePath/ArcelorMittal_Orbit_at_night.jpg?width=300</value>
+</thumbnail>
+<wikilink>
+<type>uri</type>
+<value>http://en.wikipedia.org/wiki/ArcelorMittal_Orbit?oldid=605666630</value>
+</wikilink>
+<location>
+<type>uri</type>
+<value>http://dbpedia.org/resource/Queen_Elizabeth_Olympic_Park</value>
+</location>
+<abstract>
+<type>literal</type>
+<xml:lang>de</xml:lang>
+<value>Der ArcelorMittal Orbit ist ein 115 Meter hoher Aussichtsturm im Olympiapark in Stratford, London. Die Stahlskulptur ist Großbritanniens größtes Kunstwerk im öffentlichen Raum und soll zu einer dauerhaften Erinnerung an die Olympischen Spiele 2012 werden. Der Turm wurde zwischen dem Olympiastadion und dem Aquatics Centre errichtet. Die Besucher werden von dort den ganzen Olympic Park von zwei Aussichtsplattformen aus überblicken können.</value>
+</abstract>
+</XML_Serializer_Tag>
+</buildings>
+<books />
 </Person>

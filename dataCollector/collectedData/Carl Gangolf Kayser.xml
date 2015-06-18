@@ -1,0 +1,62 @@
+<Person>
+<name>Carl Gangolf Kayser</name>
+<variantName>
+<XML_Serializer_Tag>Carl Gangolph Kayser</XML_Serializer_Tag>
+<XML_Serializer_Tag>Karl Gangolf Kayser</XML_Serializer_Tag>
+<XML_Serializer_Tag>Carl Kaiser</XML_Serializer_Tag>
+<XML_Serializer_Tag>Karl Borromäus Kaiser</XML_Serializer_Tag>
+</variantName>
+<thumbnail>https://commons.wikimedia.org/wiki/Special:FilePath/KayserbyTilgner.jpg?width=270</thumbnail>
+<birthEN>February 12, 1837</birthEN>
+<birthDE>12. Februar 1837</birthDE>
+<deathEN>September 2, 1895</deathEN>
+<deathDE>2. September 1895</deathDE>
+<birthPlace>
+<XML_Serializer_Tag>Wien</XML_Serializer_Tag>
+</birthPlace>
+<deathPlace>
+<XML_Serializer_Tag>Wien</XML_Serializer_Tag>
+</deathPlace>
+<professionOrOccupation>
+<XML_Serializer_Tag>Architekt</XML_Serializer_Tag>
+</professionOrOccupation>
+<dbpResource>http://dbpedia.org/resource/Carl_Gangolf_Kayser</dbpResource>
+<abstract>Carl Gangolf Kayser (andere Schreibweise: Carl Gangolph Kaiser, * 12. Februar 1837 in Wien; † 2. September 1895 in Inzersdorf (Wien)) war ein österreichischer Architekt.</abstract>
+<wikilink>http://en.wikipedia.org/wiki/Carl_Gangolf_Kayser?oldid=601696098</wikilink>
+<artworks />
+<buildings>
+<XML_Serializer_Tag>
+<building>
+<type>uri</type>
+<value>http://dbpedia.org/resource/Chapultepec_Castle</value>
+</building>
+<name>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>Chapultepec Castle</value>
+</name>
+<architect>
+<type>uri</type>
+<value>http://dbpedia.org/resource/Carl_Gangolf_Kayser</value>
+</architect>
+<thumbnail>
+<type>uri</type>
+<value>http://commons.wikimedia.org/wiki/Special:FilePath/Castillo_de_Chapultepec_(Museo_Nacional_de_Historia).JPG?width=300</value>
+</thumbnail>
+<wikilink>
+<type>uri</type>
+<value>http://en.wikipedia.org/wiki/Chapultepec_Castle?oldid=606125671</value>
+</wikilink>
+<location>
+<type>uri</type>
+<value>http://dbpedia.org/resource/Mexico_City</value>
+</location>
+<abstract>
+<type>literal</type>
+<xml:lang>de</xml:lang>
+<value>Schloss Chapultepec liegt auf dem Gipfel des Chapultepec („Heuschreckenhügel“ auf Nahuatl) im Westen von Mexiko-Stadt. Die heutige Erscheinungsform geht im Wesentlichen auf Umbauten während des Zweiten Kaiserreiches zurück.</value>
+</abstract>
+</XML_Serializer_Tag>
+</buildings>
+<books />
+</Person>

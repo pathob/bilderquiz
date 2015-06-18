@@ -1,0 +1,32 @@
+<Person>
+<name>Thomas Abbt</name>
+<variantName>
+<XML_Serializer_Tag>, junior</XML_Serializer_Tag>
+<XML_Serializer_Tag>T. Abbt</XML_Serializer_Tag>
+<XML_Serializer_Tag>Thomas Abt</XML_Serializer_Tag>
+</variantName>
+<thumbnail>https://commons.wikimedia.org/wiki/Special:FilePath/Thomas_Abbt.jpg?width=270</thumbnail>
+<birthEN>November 25, 1738</birthEN>
+<birthDE>25. November 1738</birthDE>
+<deathEN>November 3, 1766</deathEN>
+<deathDE>3. November 1766</deathDE>
+<birthPlace>
+<XML_Serializer_Tag>Ulm</XML_Serializer_Tag>
+</birthPlace>
+<deathPlace>
+<XML_Serializer_Tag>Bückeburg</XML_Serializer_Tag>
+</deathPlace>
+<professionOrOccupation>
+<XML_Serializer_Tag>Philosoph</XML_Serializer_Tag>
+<XML_Serializer_Tag>Schriftsteller</XML_Serializer_Tag>
+<XML_Serializer_Tag>Theologe</XML_Serializer_Tag>
+<XML_Serializer_Tag>Mathematiker</XML_Serializer_Tag>
+<XML_Serializer_Tag>Historiker</XML_Serializer_Tag>
+</professionOrOccupation>
+<dbpResource>http://dbpedia.org/resource/Thomas_Abbt</dbpResource>
+<abstract>Thomas Abbt (* 25. November 1738 in Ulm; † 3. November 1766 in Bückeburg) war ein deutscher Schriftsteller und Philosoph der Aufklärung.</abstract>
+<wikilink>http://en.wikipedia.org/wiki/Thomas_Abbt?oldid=570876818</wikilink>
+<artworks />
+<buildings />
+<books />
+</Person>

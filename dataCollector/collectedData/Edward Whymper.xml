@@ -1,0 +1,27 @@
+<Person>
+<name>Edward Whymper</name>
+<variantName />
+<thumbnail>https://commons.wikimedia.org/wiki/Special:FilePath/Edward_Whymper_1910.jpg?width=270</thumbnail>
+<birthEN>April 27, 1840</birthEN>
+<birthDE>27. April 1840</birthDE>
+<deathEN>September 16, 1911</deathEN>
+<deathDE>16. September 1911</deathDE>
+<birthPlace>
+<XML_Serializer_Tag>London</XML_Serializer_Tag>
+</birthPlace>
+<deathPlace>
+<XML_Serializer_Tag>Chamonix-Mont-Blanc</XML_Serializer_Tag>
+</deathPlace>
+<professionOrOccupation>
+<XML_Serializer_Tag>Schriftsteller</XML_Serializer_Tag>
+<XML_Serializer_Tag>Reisender</XML_Serializer_Tag>
+<XML_Serializer_Tag>Illustrator</XML_Serializer_Tag>
+<XML_Serializer_Tag>Schriftsteller</XML_Serializer_Tag>
+</professionOrOccupation>
+<dbpResource>http://dbpedia.org/resource/Edward_Whymper</dbpResource>
+<abstract>Edward Whymper (* 27. April 1840 in London; † 16. September 1911 in Chamonix, Frankreich) war ein englischer Bergsteiger. Bekanntheit erlangte er insbesondere durch die Erstbesteigung des Matterhorns.</abstract>
+<wikilink>http://en.wikipedia.org/wiki/Edward_Whymper?oldid=605783312</wikilink>
+<artworks />
+<buildings />
+<books />
+</Person>

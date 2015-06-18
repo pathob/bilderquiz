@@ -1,0 +1,24 @@
+<Person>
+<name>Guy Patin</name>
+<variantName>
+<XML_Serializer_Tag>Guido Patinus</XML_Serializer_Tag>
+<XML_Serializer_Tag>Gui Patin</XML_Serializer_Tag>
+</variantName>
+<thumbnail>https://commons.wikimedia.org/wiki/Special:FilePath/Gui_Patin.jpg?width=270</thumbnail>
+<birthEN>1602</birthEN>
+<birthDE>1602</birthDE>
+<deathEN>1672</deathEN>
+<deathDE>1672</deathDE>
+<birthPlace />
+<deathPlace />
+<professionOrOccupation>
+<XML_Serializer_Tag>Arzt</XML_Serializer_Tag>
+<XML_Serializer_Tag>Schriftsteller</XML_Serializer_Tag>
+</professionOrOccupation>
+<dbpResource>http://dbpedia.org/resource/Guy_Patin</dbpResource>
+<abstract>Guy Patin (auch in der Schreibweise Gui Patin; * 1601 in Hodenc-en-Bray, Département Oise; † 30. August 1672 in Paris) war ein französischer Gelehrter und Arzt.</abstract>
+<wikilink>http://en.wikipedia.org/wiki/Guy_Patin?oldid=603797633</wikilink>
+<artworks />
+<buildings />
+<books />
+</Person>

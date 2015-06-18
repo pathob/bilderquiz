@@ -1,0 +1,31 @@
+<Person>
+<name>Georg Groddeck</name>
+<variantName>
+<XML_Serializer_Tag>Georg Walther Groddeck</XML_Serializer_Tag>
+<XML_Serializer_Tag>Wolfgang Guntram</XML_Serializer_Tag>
+<XML_Serializer_Tag>Walter Georg Groddeck</XML_Serializer_Tag>
+<XML_Serializer_Tag>Georg Walter Groddeck</XML_Serializer_Tag>
+</variantName>
+<thumbnail>https://commons.wikimedia.org/wiki/Special:FilePath/Grab_Dr._med._Georg_Groddeck_in_Baden-Baden.JPG?width=270</thumbnail>
+<birthEN>October 13, 1866</birthEN>
+<birthDE>13. Oktober 1866</birthDE>
+<deathEN>June 10, 1934</deathEN>
+<deathDE>10. Juni 1934</deathDE>
+<birthPlace>
+<XML_Serializer_Tag>Bad Kösen</XML_Serializer_Tag>
+</birthPlace>
+<deathPlace>
+<XML_Serializer_Tag>Knonau</XML_Serializer_Tag>
+</deathPlace>
+<professionOrOccupation>
+<XML_Serializer_Tag>Arzt</XML_Serializer_Tag>
+<XML_Serializer_Tag>Psychoanalytiker</XML_Serializer_Tag>
+<XML_Serializer_Tag>Schriftsteller</XML_Serializer_Tag>
+</professionOrOccupation>
+<dbpResource>http://dbpedia.org/resource/Georg_Groddeck</dbpResource>
+<abstract>Georg Walther Groddeck (* 13. Oktober 1866 in Kösen; † 11. Juni 1934 in Knonau, Schweiz) war ein deutscher Arzt, Schriftsteller und Wegbereiter der Psychosomatik.</abstract>
+<wikilink>http://en.wikipedia.org/wiki/Georg_Groddeck?oldid=598608002</wikilink>
+<artworks />
+<buildings />
+<books />
+</Person>

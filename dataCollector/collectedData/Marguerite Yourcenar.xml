@@ -1,0 +1,127 @@
+<Person>
+<name>Marguerite Yourcenar</name>
+<variantName>
+<XML_Serializer_Tag>Marguerite Cleenewerck de Crayencour</XML_Serializer_Tag>
+<XML_Serializer_Tag>Marguerite Cleenewerck de Crayencour</XML_Serializer_Tag>
+<XML_Serializer_Tag>Marguerite C. de Crayencour</XML_Serializer_Tag>
+<XML_Serializer_Tag>Margarita Giursenar</XML_Serializer_Tag>
+<XML_Serializer_Tag>Marguerite Crogencourt</XML_Serializer_Tag>
+<XML_Serializer_Tag>Margaret Jursenar</XML_Serializer_Tag>
+<XML_Serializer_Tag>Marguerite Jourcenar</XML_Serializer_Tag>
+</variantName>
+<thumbnail>https://commons.wikimedia.org/wiki/Special:FilePath/Marguerite_Yourcenar.jpg?width=270</thumbnail>
+<birthEN>June 8, 1903</birthEN>
+<birthDE>8. Juni 1903</birthDE>
+<deathEN>December 17, 1987</deathEN>
+<deathDE>17. Dezember 1987</deathDE>
+<birthPlace>
+<XML_Serializer_Tag>Brüssel</XML_Serializer_Tag>
+</birthPlace>
+<deathPlace>
+<XML_Serializer_Tag>Mount Desert Island, Maine, USA</XML_Serializer_Tag>
+</deathPlace>
+<professionOrOccupation>
+<XML_Serializer_Tag>Schriftstellerin</XML_Serializer_Tag>
+</professionOrOccupation>
+<dbpResource>http://dbpedia.org/resource/Marguerite_Yourcenar</dbpResource>
+<abstract>Marguerite Yourcenar (* 8. Juni 1903 in Brüssel; † 17. Dezember 1987 in Bar Harbor, Mount Desert Island, Maine, USA) war das Pseudonym der unter dem Namen Marguerite Antoinette Jeanne Marie Ghislaine Cleenewerck de Crayencour geborenen Schriftstellerin.</abstract>
+<wikilink>http://en.wikipedia.org/wiki/Marguerite_Yourcenar?oldid=600833761</wikilink>
+<artworks />
+<buildings />
+<books>
+<XML_Serializer_Tag>
+<book>
+<type>uri</type>
+<value>http://dbpedia.org/resource/Memoirs_of_Hadrian</value>
+</book>
+<author>
+<type>uri</type>
+<value>http://dbpedia.org/resource/Marguerite_Yourcenar</value>
+</author>
+<released>
+<type>typed-literal</type>
+<datatype>http://www.w3.org/2001/XMLSchema#integer</datatype>
+<value>1951</value>
+</released>
+<wikilink>
+<type>uri</type>
+<value>http://en.wikipedia.org/wiki/Memoirs_of_Hadrian?oldid=597232906</value>
+</wikilink>
+</XML_Serializer_Tag>
+<XML_Serializer_Tag>
+<book>
+<type>uri</type>
+<value>http://dbpedia.org/resource/Coup_de_Gr%C3%A2ce_(novel)</value>
+</book>
+<author>
+<type>uri</type>
+<value>http://dbpedia.org/resource/Marguerite_Yourcenar</value>
+</author>
+<wikilink>
+<type>uri</type>
+<value>http://en.wikipedia.org/wiki/Coup_de_Grâce_(novel)?oldid=582278840</value>
+</wikilink>
+<abstract>
+<type>literal</type>
+<xml:lang>de</xml:lang>
+<value>Der Fangschuss (Originaltitel: Le Coup de Grâce) ist ein Roman, den Marguerite Yourcenar 1938 in Sorrent schrieb und der 1939 veröffentlicht wurde; auf Deutsch erschien er 1968 in der Übersetzung von Richard Moering. Zur Definition des Begriffs siehe auch Fangschuss.</value>
+</abstract>
+</XML_Serializer_Tag>
+<XML_Serializer_Tag>
+<book>
+<type>uri</type>
+<value>http://dbpedia.org/resource/Fires_(book)</value>
+</book>
+<author>
+<type>uri</type>
+<value>http://dbpedia.org/resource/Marguerite_Yourcenar</value>
+</author>
+<wikilink>
+<type>uri</type>
+<value>http://en.wikipedia.org/wiki/Fires_(book)?oldid=477198752</value>
+</wikilink>
+</XML_Serializer_Tag>
+<XML_Serializer_Tag>
+<book>
+<type>uri</type>
+<value>http://dbpedia.org/resource/The_Abyss_(Marguerite_Yourcenar_novel)</value>
+</book>
+<author>
+<type>uri</type>
+<value>http://dbpedia.org/resource/Marguerite_Yourcenar</value>
+</author>
+<wikilink>
+<type>uri</type>
+<value>http://en.wikipedia.org/wiki/The_Abyss_(Marguerite_Yourcenar_novel)?oldid=554004689</value>
+</wikilink>
+</XML_Serializer_Tag>
+<XML_Serializer_Tag>
+<book>
+<type>uri</type>
+<value>http://dbpedia.org/resource/A_Coin_in_Nine_Hands</value>
+</book>
+<author>
+<type>uri</type>
+<value>http://dbpedia.org/resource/Marguerite_Yourcenar</value>
+</author>
+<wikilink>
+<type>uri</type>
+<value>http://en.wikipedia.org/wiki/A_Coin_in_Nine_Hands?oldid=546515997</value>
+</wikilink>
+</XML_Serializer_Tag>
+<XML_Serializer_Tag>
+<book>
+<type>uri</type>
+<value>http://dbpedia.org/resource/Oriental_Tales_(book)</value>
+</book>
+<author>
+<type>uri</type>
+<value>http://dbpedia.org/resource/Marguerite_Yourcenar</value>
+</author>
+<wikilink>
+<type>uri</type>
+<value>http://en.wikipedia.org/wiki/Oriental_Tales_(book)?oldid=567191348</value>
+</wikilink>
+</XML_Serializer_Tag>
+</books>
+</Person>

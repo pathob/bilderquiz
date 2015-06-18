@@ -1,0 +1,83 @@
+<Person>
+<name>Hugo Gernsback</name>
+<variantName />
+<thumbnail>https://commons.wikimedia.org/wiki/Special:FilePath/Radio_News_Nov_1928_Cover.jpg?width=270</thumbnail>
+<birthEN>August 16, 1884</birthEN>
+<birthDE>16. August 1884</birthDE>
+<deathEN>August 19, 1967</deathEN>
+<deathDE>19. August 1967</deathDE>
+<birthPlace>
+<XML_Serializer_Tag>Luxemburg</XML_Serializer_Tag>
+</birthPlace>
+<deathPlace>
+<XML_Serializer_Tag>New York, NY</XML_Serializer_Tag>
+</deathPlace>
+<professionOrOccupation>
+<XML_Serializer_Tag>Schriftsteller</XML_Serializer_Tag>
+<XML_Serializer_Tag>Verleger</XML_Serializer_Tag>
+<XML_Serializer_Tag>Science-fiction Autor</XML_Serializer_Tag>
+</professionOrOccupation>
+<dbpResource>http://dbpedia.org/resource/Hugo_Gernsback</dbpResource>
+<abstract>Hugo Gernsback (* 16. August 1884 in Luxemburg; † 19. August 1967 in New York City) war ein US-amerikanischer Verleger und Science-Fiction-Autor.</abstract>
+<wikilink>http://en.wikipedia.org/wiki/Hugo_Gernsback?oldid=605669054</wikilink>
+<artworks />
+<buildings />
+<books>
+<XML_Serializer_Tag>
+<book>
+<type>uri</type>
+<value>http://dbpedia.org/resource/Timeline_of_science_fiction</value>
+</book>
+<author>
+<type>uri</type>
+<value>http://dbpedia.org/resource/Hugo_Gernsback</value>
+</author>
+<thumbnail>
+<type>uri</type>
+<value>http://en.wikipedia.org/wiki/Special:FilePath/Chessmen_of_Mars.jpg?width=300</value>
+</thumbnail>
+<published>
+<type>typed-literal</type>
+<datatype>http://www.w3.org/2001/XMLSchema#integer</datatype>
+<value>1868</value>
+</published>
+<released>
+<type>typed-literal</type>
+<datatype>http://www.w3.org/2001/XMLSchema#integer</datatype>
+<value>1922</value>
+</released>
+<wikilink>
+<type>uri</type>
+<value>http://en.wikipedia.org/wiki/Timeline_of_science_fiction?oldid=602995030</value>
+</wikilink>
+</XML_Serializer_Tag>
+<XML_Serializer_Tag>
+<book>
+<type>uri</type>
+<value>http://dbpedia.org/resource/Ralph_124C_41+</value>
+</book>
+<author>
+<type>uri</type>
+<value>http://dbpedia.org/resource/Hugo_Gernsback</value>
+</author>
+<thumbnail>
+<type>uri</type>
+<value>http://commons.wikimedia.org/wiki/Special:FilePath/ModernElectrics1912-02.jpg?width=300</value>
+</thumbnail>
+<released>
+<type>typed-literal</type>
+<datatype>http://www.w3.org/2001/XMLSchema#integer</datatype>
+<value>1911</value>
+</released>
+<wikilink>
+<type>uri</type>
+<value>http://en.wikipedia.org/wiki/Ralph_124C_41+?oldid=604723893</value>
+</wikilink>
+<abstract>
+<type>literal</type>
+<xml:lang>de</xml:lang>
+<value>Ralph 124C 41+ ist ein Science Fiction-Roman von Hugo Gernsback. Er wurde ab 1911 kapitelweise im Modern Electrics-Magazin veröffentlicht, bevor er 1925 erstmals als zusammenhängendes Buch publiziert wurde. Aufgrund seiner konsequenten Extrapolation gilt es als eines der ersten modernen SF-Werke.</value>
+</abstract>
+</XML_Serializer_Tag>
+</books>
+</Person>

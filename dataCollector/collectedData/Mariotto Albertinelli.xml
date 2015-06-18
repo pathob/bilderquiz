@@ -11,8 +11,10 @@
 <professionOrOccupation>
 <XML_Serializer_Tag>Maler</XML_Serializer_Tag>
 </professionOrOccupation>
-<artworks />
 <dbpResource>http://dbpedia.org/resource/Mariotto_Albertinelli</dbpResource>
 <abstract>Mariotto Albertinelli, eigentlich Mariotto di Biagio di Bindo Albertinelli, Namensvariante Biagio di Bindo Albertinell (* 13. Oktober 1474 in Florenz; † 5. November 1515 ebenda) war ein italienischer Maler.</abstract>
 <wikilink>http://en.wikipedia.org/wiki/Mariotto_Albertinelli?oldid=602501536</wikilink>
+<artworks />
+<buildings />
+<books />
 </Person>

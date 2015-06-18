@@ -20,8 +20,10 @@
 <XML_Serializer_Tag>Maler</XML_Serializer_Tag>
 <XML_Serializer_Tag>Galeriedirektor</XML_Serializer_Tag>
 </professionOrOccupation>
-<artworks />
 <dbpResource>http://dbpedia.org/resource/Philipp_Veit</dbpResource>
 <abstract>Philipp Veit (* 13. Februar 1793 in Berlin; † 18. Dezember 1877 in Mainz) war ein deutscher Maler, der Richtung der Nazarener angehörend.</abstract>
 <wikilink>http://en.wikipedia.org/wiki/Philipp_Veit?oldid=564740796</wikilink>
+<artworks />
+<buildings />
+<books />
 </Person>

@@ -1,0 +1,33 @@
+<Person>
+<name>Rudolf Bultmann</name>
+<variantName>
+<XML_Serializer_Tag>Rudolf Karl Bultmann</XML_Serializer_Tag>
+<XML_Serializer_Tag>R. Bultmann</XML_Serializer_Tag>
+<XML_Serializer_Tag>R. Burutoman</XML_Serializer_Tag>
+<XML_Serializer_Tag>Rudolʹf Bulʹtman</XML_Serializer_Tag>
+<XML_Serializer_Tag>Bu er te man</XML_Serializer_Tag>
+<XML_Serializer_Tag>Buerteman</XML_Serializer_Tag>
+</variantName>
+<thumbnail>https://commons.wikimedia.org/wiki/Special:FilePath/Rudolf_Bultmann_Portrait.jpg?width=270</thumbnail>
+<birthEN>August 20, 1884</birthEN>
+<birthDE>20. August 1884</birthDE>
+<deathEN>July 30, 1976</deathEN>
+<deathDE>30. Juli 1976</deathDE>
+<birthPlace>
+<XML_Serializer_Tag>Wiefelstede</XML_Serializer_Tag>
+</birthPlace>
+<deathPlace>
+<XML_Serializer_Tag>Marburg</XML_Serializer_Tag>
+</deathPlace>
+<professionOrOccupation>
+<XML_Serializer_Tag>Theologe</XML_Serializer_Tag>
+<XML_Serializer_Tag>Schriftsteller</XML_Serializer_Tag>
+<XML_Serializer_Tag>Hochschullehrer</XML_Serializer_Tag>
+</professionOrOccupation>
+<dbpResource>http://dbpedia.org/resource/Rudolf_Bultmann</dbpResource>
+<abstract>Rudolf Karl Bultmann (* 20. August 1884 in Wiefelstede; † 30. Juli 1976 in Marburg) war ein deutscher evangelischer Theologe und Professor für Neues Testament. Bekannt wurde er durch sein Programm der Entmythologisierung der neutestamentlichen Verkündigung. Seine Auffassungen wurden von der Systematischen Theologie und der Philosophie aufgegriffen.</abstract>
+<wikilink>http://en.wikipedia.org/wiki/Rudolf_Bultmann?oldid=600181941</wikilink>
+<artworks />
+<buildings />
+<books />
+</Person>

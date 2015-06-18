@@ -1,0 +1,32 @@
+<Person>
+<name>Arnold Zweig</name>
+<variantName>
+<XML_Serializer_Tag>Arnôld Ṣwayg</XML_Serializer_Tag>
+<XML_Serializer_Tag>Arnol&apos;d Cvejg</XML_Serializer_Tag>
+<XML_Serializer_Tag>ארנולד צוויג</XML_Serializer_Tag>
+</variantName>
+<thumbnail>https://commons.wikimedia.org/wiki/Special:FilePath/Bundesarchiv_Bild_183-28224-0009,_Berlin,_Ausstellung_sowjetischer_Grafik.jpg?width=270</thumbnail>
+<birthEN>November 10, 1887</birthEN>
+<birthDE>10. November 1887</birthDE>
+<deathEN>November 26, 1968</deathEN>
+<deathDE>26. November 1968</deathDE>
+<birthPlace>
+<XML_Serializer_Tag>Glogau</XML_Serializer_Tag>
+</birthPlace>
+<deathPlace>
+<XML_Serializer_Tag>Berlin</XML_Serializer_Tag>
+</deathPlace>
+<professionOrOccupation>
+<XML_Serializer_Tag>Germanist</XML_Serializer_Tag>
+<XML_Serializer_Tag>Philosoph</XML_Serializer_Tag>
+<XML_Serializer_Tag>Psychologe</XML_Serializer_Tag>
+<XML_Serializer_Tag>Dramatiker</XML_Serializer_Tag>
+<XML_Serializer_Tag>Schriftsteller</XML_Serializer_Tag>
+</professionOrOccupation>
+<dbpResource>http://dbpedia.org/resource/Arnold_Zweig</dbpResource>
+<abstract>Arnold Zweig (* 10. November 1887 in Glogau, Provinz Schlesien; † 26. November 1968 in Ost-Berlin) war ein deutscher Schriftsteller.</abstract>
+<wikilink>http://en.wikipedia.org/wiki/Arnold_Zweig?oldid=605444166</wikilink>
+<artworks />
+<buildings />
+<books />
+</Person>

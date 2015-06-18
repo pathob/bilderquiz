@@ -16,8 +16,10 @@
 <XML_Serializer_Tag>Maler</XML_Serializer_Tag>
 <XML_Serializer_Tag>Zeichner</XML_Serializer_Tag>
 </professionOrOccupation>
-<artworks />
 <dbpResource>http://dbpedia.org/resource/Ludwig_Lange_(architect)</dbpResource>
 <abstract>Ludwig Lange (* 22. März 1808 in Darmstadt; † 31. März 1868 in München) war ein deutscher Architekt, Architektur- und Landschaftszeichner.</abstract>
 <wikilink>http://en.wikipedia.org/wiki/Ludwig_Lange_(architect)?oldid=598155694</wikilink>
+<artworks />
+<buildings />
+<books />
 </Person>

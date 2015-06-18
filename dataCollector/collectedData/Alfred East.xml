@@ -11,8 +11,10 @@
 <professionOrOccupation>
 <XML_Serializer_Tag>Maler</XML_Serializer_Tag>
 </professionOrOccupation>
-<artworks />
 <dbpResource>http://dbpedia.org/resource/Alfred_East</dbpResource>
 <abstract>Sir Alfred East (* 15. Dezember 1849 in Kettering, Northamptonshire; † 28. September 1913 in London) war ein britischer Maler.</abstract>
 <wikilink>http://en.wikipedia.org/wiki/Alfred_East?oldid=605342015</wikilink>
+<artworks />
+<buildings />
+<books />
 </Person>

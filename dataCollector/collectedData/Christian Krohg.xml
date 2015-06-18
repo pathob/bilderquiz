@@ -1,0 +1,59 @@
+<Person>
+<name>Christian Krohg</name>
+<variantName>
+<XML_Serializer_Tag>Kristian Krohg</XML_Serializer_Tag>
+<XML_Serializer_Tag>C. K.</XML_Serializer_Tag>
+<XML_Serializer_Tag>C. K.</XML_Serializer_Tag>
+<XML_Serializer_Tag>Christian Krogh</XML_Serializer_Tag>
+</variantName>
+<thumbnail>https://commons.wikimedia.org/wiki/Special:FilePath/Christian_Krohg_-_self-portrait_(1912).jpg?width=270</thumbnail>
+<birthEN>August 13, 1852</birthEN>
+<birthDE>13. August 1852</birthDE>
+<deathEN>October 16, 1925</deathEN>
+<deathDE>16. Oktober 1925</deathDE>
+<birthPlace>
+<XML_Serializer_Tag>Oslo</XML_Serializer_Tag>
+</birthPlace>
+<deathPlace>
+<XML_Serializer_Tag>Oslo</XML_Serializer_Tag>
+</deathPlace>
+<professionOrOccupation>
+<XML_Serializer_Tag>Künstler</XML_Serializer_Tag>
+</professionOrOccupation>
+<dbpResource>http://dbpedia.org/resource/Christian_Krohg</dbpResource>
+<abstract>Christian Krohg (* 13. August 1852 in Vestre Aker bei Oslo; † 16. Oktober 1925 in Oslo) war ein norwegischer Genremaler, Autor und Journalist.</abstract>
+<wikilink>http://en.wikipedia.org/wiki/Christian_Krohg?oldid=593757061</wikilink>
+<artworks>
+<XML_Serializer_Tag>
+<artwork>
+<type>uri</type>
+<value>http://dbpedia.org/resource/Albertine_i_politil%C3%A6gens_ventev%C3%A6relse</value>
+</artwork>
+<thumbnail>
+<type>uri</type>
+<value>http://en.wikipedia.org/wiki/Special:FilePath/Christian_Krogh-Albertine_i_politilægens_venteværelse2.jpg?width=300</value>
+</thumbnail>
+<name>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>Albertine at the Police Doctor&apos;s Waiting Room</value>
+</name>
+<year>
+<type>typed-literal</type>
+<datatype>http://www.w3.org/2001/XMLSchema#integer</datatype>
+<value>1887</value>
+</year>
+<wikilink>
+<type>uri</type>
+<value>http://en.wikipedia.org/wiki/Albertine_i_politilægens_venteværelse?oldid=587972230</value>
+</wikilink>
+<type>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>Oil on canvas</value>
+</type>
+</XML_Serializer_Tag>
+</artworks>
+<buildings />
+<books />
+</Person>

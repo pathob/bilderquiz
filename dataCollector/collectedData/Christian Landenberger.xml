@@ -18,8 +18,10 @@
 <professionOrOccupation>
 <XML_Serializer_Tag>Maler</XML_Serializer_Tag>
 </professionOrOccupation>
-<artworks />
 <dbpResource>http://dbpedia.org/resource/Christian_Landenberger</dbpResource>
 <abstract>Christian Adam Landenberger (* 7. April 1862 in Ebingen; † 13. Februar 1927 in Stuttgart) war ein impressionistischer Maler und Professor an der Stuttgarter Kunstakademie. Landenberger ist besonders durch seine Landschaftsbilder bekannt geworden.</abstract>
 <wikilink>http://en.wikipedia.org/wiki/Christian_Landenberger?oldid=603523372</wikilink>
+<artworks />
+<buildings />
+<books />
 </Person>

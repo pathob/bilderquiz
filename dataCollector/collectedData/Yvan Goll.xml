@@ -1,0 +1,40 @@
+<Person>
+<name>Yvan Goll</name>
+<variantName>
+<XML_Serializer_Tag>Ivan Goll</XML_Serializer_Tag>
+<XML_Serializer_Tag>Iwan Goll</XML_Serializer_Tag>
+<XML_Serializer_Tag>Yban Gkoll</XML_Serializer_Tag>
+<XML_Serializer_Tag>Isaac Lang</XML_Serializer_Tag>
+<XML_Serializer_Tag>Isaak Lang</XML_Serializer_Tag>
+<XML_Serializer_Tag>Iwan Lassang</XML_Serializer_Tag>
+<XML_Serializer_Tag>Iwan Lazang</XML_Serializer_Tag>
+<XML_Serializer_Tag>Jean Longeville</XML_Serializer_Tag>
+<XML_Serializer_Tag>Johannes Thor</XML_Serializer_Tag>
+<XML_Serializer_Tag>Tristan Thor</XML_Serializer_Tag>
+<XML_Serializer_Tag>Johannes Torsi</XML_Serializer_Tag>
+<XML_Serializer_Tag>Tristan Torsi</XML_Serializer_Tag>
+</variantName>
+<thumbnail>https://en.wikipedia.org/wiki/Special:FilePath/Yvan_Goll_Italy_1924.jpeg?width=270</thumbnail>
+<birthEN>March 29, 1891</birthEN>
+<birthDE>29. März 1891</birthDE>
+<deathEN>February 27, 1950</deathEN>
+<deathDE>27. Februar 1950</deathDE>
+<birthPlace>
+<XML_Serializer_Tag>Saint-Dié</XML_Serializer_Tag>
+</birthPlace>
+<deathPlace>
+<XML_Serializer_Tag>Paris</XML_Serializer_Tag>
+</deathPlace>
+<professionOrOccupation>
+<XML_Serializer_Tag>Schriftsteller</XML_Serializer_Tag>
+<XML_Serializer_Tag>Librettist</XML_Serializer_Tag>
+<XML_Serializer_Tag>Herausgeber</XML_Serializer_Tag>
+<XML_Serializer_Tag>Jurist</XML_Serializer_Tag>
+</professionOrOccupation>
+<dbpResource>http://dbpedia.org/resource/Yvan_Goll</dbpResource>
+<abstract>Yvan Goll (auch Iwan oder Ivan Goll, eigentlich Isaac Lang; * 29. März 1891 in Saint-Dié, Frankreich; † 27. Februar 1950 bei Paris) war ein deutsch-französischer Dichter und der Ehemann der deutsch-französischen Schriftstellerin und Journalistin Claire Goll. Einige seiner Werke veröffentlichte der Schriftsteller unter dem Pseudonym Iwan Lassang.</abstract>
+<wikilink>http://en.wikipedia.org/wiki/Yvan_Goll?oldid=593723239</wikilink>
+<artworks />
+<buildings />
+<books />
+</Person>

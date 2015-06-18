@@ -1,0 +1,57 @@
+<Person>
+<name>Karl Schwanzer</name>
+<variantName />
+<thumbnail>https://commons.wikimedia.org/wiki/Special:FilePath/BMW_building_munich.jpg?width=270</thumbnail>
+<birthEN>1918</birthEN>
+<birthDE>1918</birthDE>
+<deathEN>1975</deathEN>
+<deathDE>1975</deathDE>
+<birthPlace>
+<XML_Serializer_Tag>Wien</XML_Serializer_Tag>
+</birthPlace>
+<deathPlace>
+<XML_Serializer_Tag>Wien</XML_Serializer_Tag>
+</deathPlace>
+<professionOrOccupation>
+<XML_Serializer_Tag>Architekt</XML_Serializer_Tag>
+</professionOrOccupation>
+<dbpResource>http://dbpedia.org/resource/Karl_Schwanzer</dbpResource>
+<abstract>Karl Schwanzer (* 21. Mai 1918 in Wien; † 20. August 1975 in Wien) war ein österreichischer Architekt. Er war ein wichtiger Vertreter der Nachkriegsarchitektur, nicht nur in Österreich.</abstract>
+<wikilink>http://en.wikipedia.org/wiki/Karl_Schwanzer?oldid=542725062</wikilink>
+<artworks />
+<buildings>
+<XML_Serializer_Tag>
+<building>
+<type>uri</type>
+<value>http://dbpedia.org/resource/BMW_Headquarters</value>
+</building>
+<name>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>BMW Headquarters</value>
+</name>
+<architect>
+<type>uri</type>
+<value>http://dbpedia.org/resource/Karl_Schwanzer</value>
+</architect>
+<thumbnail>
+<type>uri</type>
+<value>http://en.wikipedia.org/wiki/Special:FilePath/4_cilindros_y_museo_BMW,_Múnich,_Alemania_2012-04-28,_DD_02.JPG?width=300</value>
+</thumbnail>
+<wikilink>
+<type>uri</type>
+<value>http://en.wikipedia.org/wiki/BMW_Headquarters?oldid=599112626</value>
+</wikilink>
+<location>
+<type>uri</type>
+<value>http://dbpedia.org/resource/Germany</value>
+</location>
+<abstract>
+<type>literal</type>
+<xml:lang>de</xml:lang>
+<value>Der BMW-Vierzylinder (auch: BMW-Turm, BMW-Hochhaus) ist das Hauptverwaltungsgebäude und Wahrzeichen des Fahrzeugherstellers BMW in München.Es wurde im Zeitraum von 1968 bis 1973 erbaut, äußerlich pünktlich zu den Olympischen Sommerspielen 1972 fertiggestellt und am 18. Mai 1973 eingeweiht. Es ist 99,5 m hoch, steht in unmittelbarer Nähe zum Münchner Olympiagelände und ist wie dieses eines der sehenswürdigen Beispiele moderner Architektur in München. Direkt daneben steht das im Volksmund als Salatschüssel, Müslischüssel oder Weißwurstkessel bekannte BMW-Museum. Der Architekt ist Karl Schwanzer.Das Gebäude besteht aus vier in Kreuzform nebeneinander angeordneten senkrechten Zylindern, wobei jeder Zylinder nochmals durch ein Zurückziehen der Fassade oberhalb der Mitte vertikal geteilt wird. Die Statik des Gebäudes ist insofern bemerkenswert, als diese Zylinder nicht auf dem Boden stehen, sondern an den markanten Kragarmen hängen, die aus den vier Stahlbetonrohren herausragen, die den Kern des Gebäudes bilden und in denen Leitungen, Aufzüge und Treppenhäuser untergebracht sind. Die einzelnen Stockwerke wurden am Boden im Rohbau samt Fassade und Verglasung gebaut und dann nach oben gezogen, so dass die Ausbauarbeiten erfolgen konnten, während darunter das nächste Stockwerk entstand. Dadurch wurden riesige Gerüste gespart und ein erheblicher Zeitgewinn erzielt. Der Turm hat einen Durchmesser von 52,30 Meter.Das Gebäude hat insgesamt 22 Geschosse, davon zwei Kellergeschosse und 18 Bürogeschosse. Das BMW-Hochhaus war bei Fertigstellung Münchens höchstes Bürogebäude, wurde jedoch einige Jahre später vom 114 Meter hohen Hypo-Hochhaus übertroffen.Während der Olympischen Spiele 1972 mussten sämtliche BMW-Logos von den Gebäuden entfernt werden, um unerwünschte Schleichwerbung zu vermeiden. Das galt auch für die BMW-2002-Modelle mit Elektroantrieb, die die olympischen Marathon-Läufer auf ihrer Strecke begleiteten.Das seit 1999 unter Denkmalschutz stehende Gebäude wurde von 2004 bis August 2006 saniert.</value>
+</abstract>
+</XML_Serializer_Tag>
+</buildings>
+<books />
+</Person>

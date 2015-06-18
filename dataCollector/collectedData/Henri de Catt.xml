@@ -1,0 +1,29 @@
+<Person>
+<name>Henri de Catt</name>
+<variantName>
+<XML_Serializer_Tag>Henri Alexandre de Catt</XML_Serializer_Tag>
+<XML_Serializer_Tag>Henri-Alexandre de Catt</XML_Serializer_Tag>
+<XML_Serializer_Tag>Heinrich Alexander von Catt</XML_Serializer_Tag>
+<XML_Serializer_Tag>Heinrich de Catt</XML_Serializer_Tag>
+<XML_Serializer_Tag>Henri A. de Catt</XML_Serializer_Tag>
+<XML_Serializer_Tag>Heinrich A. de Catt</XML_Serializer_Tag>
+</variantName>
+<thumbnail>https://commons.wikimedia.org/wiki/Special:FilePath/DeCatt.jpg?width=270</thumbnail>
+<birthEN>1725</birthEN>
+<birthDE>1725</birthDE>
+<deathEN>1795</deathEN>
+<deathDE>1795</deathDE>
+<birthPlace>
+<XML_Serializer_Tag>Genf</XML_Serializer_Tag>
+</birthPlace>
+<deathPlace />
+<professionOrOccupation>
+<XML_Serializer_Tag>Schriftsteller</XML_Serializer_Tag>
+</professionOrOccupation>
+<dbpResource>http://dbpedia.org/resource/Henri_de_Catt</dbpResource>
+<abstract>Henri Alexandre de Catt (* 25. Juni 1725 in Morges; † 23. November 1795 in Potsdam) war ein schweizerischer Gelehrter und seit 1758 Privatsekretär und enger Vertrauter von Friedrich II. von Preußen. Er wurde berühmt als dessen „Vorleser“. Dabei las de Catt Friedrich nicht wirklich vor, sondern hatte im Wesentlichen die Aufgabe, Aussprache und schriftliche Äußerungen des Monarchen im Französischen – der von Friedrich bevorzugten Umgangssprache – zu korrigieren. De Catt verfasste während dieser Zeit ein Tagebuch, auf dessen Schilderungen bis heute zahlreiche Episoden und Aussprüche Friedrichs beruhen.</abstract>
+<wikilink>http://en.wikipedia.org/wiki/Henri_de_Catt?oldid=562957052</wikilink>
+<artworks />
+<buildings />
+<books />
+</Person>

@@ -1,0 +1,38 @@
+<Person>
+<name>Stefan George</name>
+<variantName>
+<XML_Serializer_Tag>Stefan A. George</XML_Serializer_Tag>
+<XML_Serializer_Tag>Stefan Anton George</XML_Serializer_Tag>
+<XML_Serializer_Tag>Stephan George</XML_Serializer_Tag>
+<XML_Serializer_Tag>Etienne George</XML_Serializer_Tag>
+<XML_Serializer_Tag>Shutefan Georuge</XML_Serializer_Tag>
+<XML_Serializer_Tag>Georuge</XML_Serializer_Tag>
+<XML_Serializer_Tag>Ge ao er ge</XML_Serializer_Tag>
+<XML_Serializer_Tag>Geaoerge</XML_Serializer_Tag>
+<XML_Serializer_Tag>ゲオルゲ</XML_Serializer_Tag>
+</variantName>
+<thumbnail>https://commons.wikimedia.org/wiki/Special:FilePath/Stefan_George.jpg?width=270</thumbnail>
+<birthEN>July 12, 1868</birthEN>
+<birthDE>12. Juli 1868</birthDE>
+<deathEN>December 4, 1933</deathEN>
+<deathDE>4. Dezember 1933</deathDE>
+<birthPlace>
+<XML_Serializer_Tag>Bingen-Büdesheim</XML_Serializer_Tag>
+</birthPlace>
+<deathPlace>
+<XML_Serializer_Tag>Minusio</XML_Serializer_Tag>
+</deathPlace>
+<professionOrOccupation>
+<XML_Serializer_Tag>Schriftsteller</XML_Serializer_Tag>
+<XML_Serializer_Tag>Übersetzer</XML_Serializer_Tag>
+<XML_Serializer_Tag>Herausgeber</XML_Serializer_Tag>
+<XML_Serializer_Tag>Verleger</XML_Serializer_Tag>
+<XML_Serializer_Tag>Buchgestalter</XML_Serializer_Tag>
+</professionOrOccupation>
+<dbpResource>http://dbpedia.org/resource/Stefan_George</dbpResource>
+<abstract>Stefan Anton George (* 12. Juli 1868 in Büdesheim, heute Stadtteil von Bingen am Rhein; † 4. Dezember 1933 in Minusio bei Locarno) war ein deutscher Lyriker. Zunächst vor allem dem Symbolismus verpflichtet, wandte er sich nach der Jahrhundertwende vom reinen Ästhetizismus der zuvor in den Blättern für die Kunst propagierten „kunst für die kunst“ ab und wurde zum Mittelpunkt des nach ihm benannten, auf eigenen ästhetischen, philosophischen und lebensreformerischen Vorstellungen beruhenden George-Kreises.</abstract>
+<wikilink>http://en.wikipedia.org/wiki/Stefan_George?oldid=596094736</wikilink>
+<artworks />
+<buildings />
+<books />
+</Person>

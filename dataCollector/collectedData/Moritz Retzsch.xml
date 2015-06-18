@@ -20,8 +20,10 @@
 <XML_Serializer_Tag>Zeichner</XML_Serializer_Tag>
 <XML_Serializer_Tag>Radierer</XML_Serializer_Tag>
 </professionOrOccupation>
-<artworks />
 <dbpResource>http://dbpedia.org/resource/Moritz_Retzsch</dbpResource>
 <abstract>Friedrich August Moritz Retzsch (* 9. Dezember 1779 in Dresden; † 11. Juni 1857 in Oberlößnitz) war ein deutscher Zeichner, Maler und Radierer. Er war der jüngere Bruder des Landschaftsmalers August Retzsch (1777–1835).</abstract>
 <wikilink>http://en.wikipedia.org/wiki/Moritz_Retzsch?oldid=592283786</wikilink>
+<artworks />
+<buildings />
+<books />
 </Person>

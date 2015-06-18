@@ -1,0 +1,31 @@
+<Person>
+<name>Harry Rowohlt</name>
+<variantName>
+<XML_Serializer_Tag>Harry Rupp</XML_Serializer_Tag>
+<XML_Serializer_Tag>Harry &quot;Der Bär&quot; Rowohlt</XML_Serializer_Tag>
+<XML_Serializer_Tag>Ilya Yaroff</XML_Serializer_Tag>
+<XML_Serializer_Tag>Harry Rupp</XML_Serializer_Tag>
+</variantName>
+<thumbnail>https://de.wikipedia.org/wiki/Special:FilePath/Harry_Rowohlt_2009.jpg?width=270</thumbnail>
+<birthEN>1945</birthEN>
+<birthDE>1945</birthDE>
+<deathEN />
+<deathDE />
+<birthPlace>
+<XML_Serializer_Tag>Hamburg</XML_Serializer_Tag>
+</birthPlace>
+<deathPlace />
+<professionOrOccupation>
+<XML_Serializer_Tag>Schriftsteller</XML_Serializer_Tag>
+<XML_Serializer_Tag>Lyriker</XML_Serializer_Tag>
+<XML_Serializer_Tag>Verleger</XML_Serializer_Tag>
+<XML_Serializer_Tag>Journalist</XML_Serializer_Tag>
+<XML_Serializer_Tag>Sprecher</XML_Serializer_Tag>
+</professionOrOccupation>
+<dbpResource>http://dbpedia.org/resource/Harry_Rowohlt</dbpResource>
+<abstract>Harry Rowohlt (* 27. März 1945 in Hamburg als Harry Rupp) ist ein deutscher Schriftsteller, Kolumnist, Übersetzer, Rezitator und Schauspieler.</abstract>
+<wikilink>http://en.wikipedia.org/wiki/Harry_Rowohlt?oldid=585673765</wikilink>
+<artworks />
+<buildings />
+<books />
+</Person>

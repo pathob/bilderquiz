@@ -1,0 +1,115 @@
+<Person>
+<name>Martin Haller</name>
+<variantName>
+<XML_Serializer_Tag>Martin Emil Ferdinand Haller</XML_Serializer_Tag>
+</variantName>
+<thumbnail>https://commons.wikimedia.org/wiki/Special:FilePath/Hamburger_Rathaus_Baumeister_1.jpg?width=270</thumbnail>
+<birthEN>December 1, 1835</birthEN>
+<birthDE>1. Dezember 1835</birthDE>
+<deathEN>October 24, 1925</deathEN>
+<deathDE>24. Oktober 1925</deathDE>
+<birthPlace>
+<XML_Serializer_Tag>Hamburg</XML_Serializer_Tag>
+</birthPlace>
+<deathPlace>
+<XML_Serializer_Tag>Hamburg</XML_Serializer_Tag>
+</deathPlace>
+<professionOrOccupation>
+<XML_Serializer_Tag>Architekt</XML_Serializer_Tag>
+<XML_Serializer_Tag>Politiker</XML_Serializer_Tag>
+</professionOrOccupation>
+<dbpResource>http://dbpedia.org/resource/Martin_Haller</dbpResource>
+<abstract>Martin Haller (* 1. Dezember 1835 in Hamburg; † 25. Oktober 1925 ebenda; vollständiger Name: Martin Emil Ferdinand Haller) war ein deutscher Architekt.</abstract>
+<wikilink>http://en.wikipedia.org/wiki/Martin_Haller?oldid=557009410</wikilink>
+<artworks />
+<buildings>
+<XML_Serializer_Tag>
+<building>
+<type>uri</type>
+<value>http://dbpedia.org/resource/Consulate_General_of_the_United_States,_Hamburg</value>
+</building>
+<name>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>Consulate General of the United States in Hamburg</value>
+</name>
+<architect>
+<type>uri</type>
+<value>http://dbpedia.org/resource/Martin_Haller</value>
+</architect>
+<thumbnail>
+<type>uri</type>
+<value>http://commons.wikimedia.org/wiki/Special:FilePath/Consulate_General_USA_Hamburg_2.jpg?width=300</value>
+</thumbnail>
+<wikilink>
+<type>uri</type>
+<value>http://en.wikipedia.org/wiki/Consulate_General_of_the_United_States,_Hamburg?oldid=587209661</value>
+</wikilink>
+<location>
+<type>uri</type>
+<value>http://dbpedia.org/resource/Germany</value>
+</location>
+<abstract>
+<type>literal</type>
+<xml:lang>de</xml:lang>
+<value>Das Amerikanische Generalkonsulat in Hamburg am Alsterufer 27/28 im Stadtteil Rotherbaum an der Alster ist unter den fast hundert Konsulaten und Handelsvertretungen in der Freien und Hansestadt Hamburg besonders bekannt. Derzeitige Generalkonsulin seit Oktober 2013 ist Nancy Corbett. Das Generalkonsulat vertritt außer Hamburg die weiteren norddeutschen Bundesländer Niedersachsen, Bremen, Schleswig-Holstein und Mecklenburg-Vorpommern. In diesen Ländern leben etwa 20.000 US-amerikanische Staatsbürger, davon 2.800 in Hamburg (Stand 2010).</value>
+</abstract>
+</XML_Serializer_Tag>
+<XML_Serializer_Tag>
+<building>
+<type>uri</type>
+<value>http://dbpedia.org/resource/Laeiszhalle</value>
+</building>
+<name>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>Laeiszhalle</value>
+</name>
+<architect>
+<type>uri</type>
+<value>http://dbpedia.org/resource/Martin_Haller</value>
+</architect>
+<thumbnail>
+<type>uri</type>
+<value>http://commons.wikimedia.org/wiki/Special:FilePath/Laiszhalle_in_Hamburg-Neustadt.jpg?width=300</value>
+</thumbnail>
+<wikilink>
+<type>uri</type>
+<value>http://en.wikipedia.org/wiki/Laeiszhalle?oldid=589738919</value>
+</wikilink>
+<abstract>
+<type>literal</type>
+<xml:lang>de</xml:lang>
+<value>Die Laeiszhalle (sprich: „Leißhalle“), auch Musikhalle Hamburg, ist das traditionsreiche Konzerthaus Hamburgs am (heutigen) Johannes-Brahms-Platz. Sie ist in dem durch die 2025 Plätze des Großen Saals gesetzten Rahmen mit ihrer großen Orgel und ihrer prachtvollen Architektur seit mehr als hundert Jahren Hamburgs erste Adresse für Konzertveranstaltungen. Generalintendant der Laeiszhalle sowie der entstehenden Elbphilharmonie ist seit 2007 Christoph Lieben-Seutter.Seit der Saison 2009/2010 werden neben den Konzerten verschiedener Musikveranstalter, Orchester und Ensembles in der Laeiszhalle hauseigene Konzerte der HamburgMusik gGmbH als „Elbphilharmonie Konzerte“ veranstaltet. Mit Eröffnung der Elbphilharmonie werden die Hamburger Symphoniker das Residenzorchester der Laeiszhalle. Das Ensemble Resonanz ist Residenzensemble der Laeiszhalle.</value>
+</abstract>
+</XML_Serializer_Tag>
+<XML_Serializer_Tag>
+<building>
+<type>uri</type>
+<value>http://dbpedia.org/resource/Hamburg_Rathaus</value>
+</building>
+<architect>
+<type>uri</type>
+<value>http://dbpedia.org/resource/Martin_Haller</value>
+</architect>
+<thumbnail>
+<type>uri</type>
+<value>http://en.wikipedia.org/wiki/Special:FilePath/HH_Rathaus_pano1.jpg?width=300</value>
+</thumbnail>
+<wikilink>
+<type>uri</type>
+<value>http://en.wikipedia.org/wiki/Hamburg_Rathaus?oldid=584918925</value>
+</wikilink>
+<location>
+<type>uri</type>
+<value>http://dbpedia.org/resource/Germany</value>
+</location>
+<abstract>
+<type>literal</type>
+<xml:lang>de</xml:lang>
+<value>Das Hamburger Rathaus ist der Sitz der Bürgerschaft (Parlament) und des Senats (Landesregierung) der Freien und Hansestadt Hamburg.Das architektonisch prachtvolle Gebäude an der Binnenalster wurde 1897 durch verschiedene Baumeister im historistischen Stil der Neorenaissance errichtet. Der Turm hat eine Höhe von 112 m und ist damit eine markante Landmarke im Hamburger Stadtbild.</value>
+</abstract>
+</XML_Serializer_Tag>
+</buildings>
+<books />
+</Person>

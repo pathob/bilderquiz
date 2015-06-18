@@ -1,0 +1,61 @@
+<Person>
+<name>Ted Chiang</name>
+<variantName />
+<thumbnail>https://commons.wikimedia.org/wiki/Special:FilePath/Chiang,_Ted_(WFA).jpg?width=270</thumbnail>
+<birthEN />
+<birthDE />
+<deathEN />
+<deathDE />
+<birthPlace />
+<deathPlace />
+<professionOrOccupation>
+<XML_Serializer_Tag>Informatiker</XML_Serializer_Tag>
+<XML_Serializer_Tag>Schriftsteller</XML_Serializer_Tag>
+<XML_Serializer_Tag>SF-Autor</XML_Serializer_Tag>
+</professionOrOccupation>
+<dbpResource>http://dbpedia.org/resource/Ted_Chiang</dbpResource>
+<abstract>Ted Chiang (* 1967 in Port Jefferson, Long Island, New York) ist ein US-amerikanischer Science-Fiction-Autor.</abstract>
+<wikilink>http://en.wikipedia.org/wiki/Ted_Chiang?oldid=606042981</wikilink>
+<artworks />
+<buildings />
+<books>
+<XML_Serializer_Tag>
+<book>
+<type>uri</type>
+<value>http://dbpedia.org/resource/Stories_of_Your_Life_and_Others</value>
+</book>
+<author>
+<type>uri</type>
+<value>http://dbpedia.org/resource/Ted_Chiang</value>
+</author>
+<released>
+<type>typed-literal</type>
+<datatype>http://www.w3.org/2001/XMLSchema#integer</datatype>
+<value>2002</value>
+</released>
+<wikilink>
+<type>uri</type>
+<value>http://en.wikipedia.org/wiki/Stories_of_Your_Life_and_Others?oldid=579005553</value>
+</wikilink>
+</XML_Serializer_Tag>
+<XML_Serializer_Tag>
+<book>
+<type>uri</type>
+<value>http://dbpedia.org/resource/The_Lifecycle_of_Software_Objects</value>
+</book>
+<author>
+<type>uri</type>
+<value>http://dbpedia.org/resource/Ted_Chiang</value>
+</author>
+<released>
+<type>typed-literal</type>
+<datatype>http://www.w3.org/2001/XMLSchema#integer</datatype>
+<value>2010</value>
+</released>
+<wikilink>
+<type>uri</type>
+<value>http://en.wikipedia.org/wiki/The_Lifecycle_of_Software_Objects?oldid=605890306</value>
+</wikilink>
+</XML_Serializer_Tag>
+</books>
+</Person>

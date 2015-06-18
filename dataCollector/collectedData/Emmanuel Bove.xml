@@ -1,0 +1,28 @@
+<Person>
+<name>Emmanuel Bove</name>
+<variantName>
+<XML_Serializer_Tag>Emmanuel Bobovnikoff</XML_Serializer_Tag>
+</variantName>
+<thumbnail>https://commons.wikimedia.org/wiki/Special:FilePath/Emmanuel_Bove_1928.jpg?width=270</thumbnail>
+<birthEN>April 20, 1898</birthEN>
+<birthDE>20. April 1898</birthDE>
+<deathEN>July 13, 1945</deathEN>
+<deathDE>13. Juli 1945</deathDE>
+<birthPlace>
+<XML_Serializer_Tag>Paris</XML_Serializer_Tag>
+</birthPlace>
+<deathPlace>
+<XML_Serializer_Tag>Paris</XML_Serializer_Tag>
+</deathPlace>
+<professionOrOccupation>
+<XML_Serializer_Tag>Schriftsteller</XML_Serializer_Tag>
+<XML_Serializer_Tag>Schriftsteller</XML_Serializer_Tag>
+<XML_Serializer_Tag>Journalist</XML_Serializer_Tag>
+</professionOrOccupation>
+<dbpResource>http://dbpedia.org/resource/Emmanuel_Bove</dbpResource>
+<abstract>Emmanuel Bove, bürgerlich Emmanuel Bobovnikoff (* 20. April 1898 in Paris; † 13. Juli 1945 ebenda), war ein französischer Schriftsteller jüdischer Herkunft.</abstract>
+<wikilink>http://en.wikipedia.org/wiki/Emmanuel_Bove?oldid=566585738</wikilink>
+<artworks />
+<buildings />
+<books />
+</Person>

@@ -11,8 +11,10 @@
 <professionOrOccupation>
 <XML_Serializer_Tag>Maler</XML_Serializer_Tag>
 </professionOrOccupation>
-<artworks />
 <dbpResource>http://dbpedia.org/resource/Robert_Motherwell</dbpResource>
 <abstract>Robert Motherwell (* 24. Januar 1915 in Aberdeen, Washington; † 16. Juli 1991 in Provincetown, Massachusetts) war ein US-amerikanischer Maler des Surrealismus und Abstrakten Expressionismus.</abstract>
 <wikilink>http://en.wikipedia.org/wiki/Robert_Motherwell?oldid=606538300</wikilink>
+<artworks />
+<buildings />
+<books />
 </Person>

@@ -1,0 +1,81 @@
+<Person>
+<name>Henri Fantin-Latour</name>
+<variantName>
+<XML_Serializer_Tag>Henri Fantin-Latour</XML_Serializer_Tag>
+<XML_Serializer_Tag>Ignace-Henri-Jean-Théodore Fantin-Latour</XML_Serializer_Tag>
+<XML_Serializer_Tag>Henri Fantin Latour</XML_Serializer_Tag>
+</variantName>
+<thumbnail>https://commons.wikimedia.org/wiki/Special:FilePath/Henri_Fantin-Latour_autoportrait.jpg?width=270</thumbnail>
+<birthEN>1836</birthEN>
+<birthDE>1836</birthDE>
+<deathEN>1904</deathEN>
+<deathDE>1904</deathDE>
+<birthPlace />
+<deathPlace />
+<professionOrOccupation>
+<XML_Serializer_Tag>Künstler</XML_Serializer_Tag>
+</professionOrOccupation>
+<dbpResource>http://dbpedia.org/resource/Henri_Fantin-Latour</dbpResource>
+<abstract>Ignace Henri Jean Théodore Fantin-Latour, genannt Henri Fantin-Latour (* 14. Januar 1836 in Grenoble; † 25. August 1904 in Buré (Orne)) war ein französischer Maler und Lithograf.</abstract>
+<wikilink>http://en.wikipedia.org/wiki/Henri_Fantin-Latour?oldid=601055503</wikilink>
+<artworks>
+<XML_Serializer_Tag>
+<artwork>
+<type>uri</type>
+<value>http://dbpedia.org/resource/The_Reading_(Fantin-Latour_painting)</value>
+</artwork>
+<thumbnail>
+<type>uri</type>
+<value>http://en.wikipedia.org/wiki/Special:FilePath/La_Lecture_(Fantin-Latour).jpg?width=300</value>
+</thumbnail>
+<name>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>The Reading</value>
+</name>
+<year>
+<type>typed-literal</type>
+<datatype>http://www.w3.org/2001/XMLSchema#integer</datatype>
+<value>1877</value>
+</year>
+<wikilink>
+<type>uri</type>
+<value>http://en.wikipedia.org/wiki/The_Reading_(Fantin-Latour_painting)?oldid=587553217</value>
+</wikilink>
+<type>
+<type>uri</type>
+<value>http://dbpedia.org/resource/Oil_painting</value>
+</type>
+</XML_Serializer_Tag>
+<XML_Serializer_Tag>
+<artwork>
+<type>uri</type>
+<value>http://dbpedia.org/resource/Around_the_Piano</value>
+</artwork>
+<thumbnail>
+<type>uri</type>
+<value>http://commons.wikimedia.org/wiki/Special:FilePath/Fantin-Latour_Autour_du_piano.jpg?width=300</value>
+</thumbnail>
+<name>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>Around the Piano</value>
+</name>
+<year>
+<type>typed-literal</type>
+<datatype>http://www.w3.org/2001/XMLSchema#integer</datatype>
+<value>1885</value>
+</year>
+<wikilink>
+<type>uri</type>
+<value>http://en.wikipedia.org/wiki/Around_the_Piano?oldid=588012598</value>
+</wikilink>
+<type>
+<type>uri</type>
+<value>http://dbpedia.org/resource/Oil_painting</value>
+</type>
+</XML_Serializer_Tag>
+</artworks>
+<buildings />
+<books />
+</Person>

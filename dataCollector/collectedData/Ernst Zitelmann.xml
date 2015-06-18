@@ -1,0 +1,24 @@
+<Person>
+<name>Ernst Zitelmann</name>
+<variantName>
+<XML_Serializer_Tag>Ernestus Zitelmann</XML_Serializer_Tag>
+</variantName>
+<thumbnail>https://commons.wikimedia.org/wiki/Special:FilePath/Bonn_Villa_Sell_Zitelmann_1893.jpg?width=270</thumbnail>
+<birthEN>August 7, 1852</birthEN>
+<birthDE>7. August 1852</birthDE>
+<deathEN>November 25, 1923</deathEN>
+<deathDE>25. November 1923</deathDE>
+<birthPlace />
+<deathPlace />
+<professionOrOccupation>
+<XML_Serializer_Tag>Jurist</XML_Serializer_Tag>
+<XML_Serializer_Tag>Schriftsteller</XML_Serializer_Tag>
+<XML_Serializer_Tag>Rechtsphilosoph</XML_Serializer_Tag>
+</professionOrOccupation>
+<dbpResource>http://dbpedia.org/resource/Ernst_Zitelmann</dbpResource>
+<abstract>Ernst Zitelmann (* 7. August 1852 in Stettin; † 28. November 1923 in Bonn) war ein deutscher Jurist und Schriftsteller.</abstract>
+<wikilink>http://en.wikipedia.org/wiki/Ernst_Zitelmann?oldid=596045129</wikilink>
+<artworks />
+<buildings />
+<books />
+</Person>

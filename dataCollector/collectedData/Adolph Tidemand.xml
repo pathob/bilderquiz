@@ -22,8 +22,10 @@
 <XML_Serializer_Tag>Graphiker</XML_Serializer_Tag>
 <XML_Serializer_Tag>Illustrator</XML_Serializer_Tag>
 </professionOrOccupation>
-<artworks />
 <dbpResource>http://dbpedia.org/resource/Adolph_Tidemand</dbpResource>
 <abstract>Adolph Tidemand (* 14. August 1814 in Mandal; † 25. August 1876 in Christiania) war ein norwegischer Maler der Düsseldorfer Schule und der führende Genremaler der Norwegischen Nationalromantik.</abstract>
 <wikilink>http://en.wikipedia.org/wiki/Adolph_Tidemand?oldid=588514186</wikilink>
+<artworks />
+<buildings />
+<books />
 </Person>

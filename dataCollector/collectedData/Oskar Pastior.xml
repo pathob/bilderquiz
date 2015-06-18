@@ -1,0 +1,26 @@
+<Person>
+<name>Oskar Pastior</name>
+<variantName />
+<thumbnail>https://de.wikipedia.org/wiki/Special:FilePath/Oskar_pastior.jpg?width=270</thumbnail>
+<birthEN>October 20, 1927</birthEN>
+<birthDE>20. Oktober 1927</birthDE>
+<deathEN>October 4, 2006</deathEN>
+<deathDE>4. Oktober 2006</deathDE>
+<birthPlace>
+<XML_Serializer_Tag>Hermannstadt</XML_Serializer_Tag>
+</birthPlace>
+<deathPlace>
+<XML_Serializer_Tag>Frankfurt am Main</XML_Serializer_Tag>
+</deathPlace>
+<professionOrOccupation>
+<XML_Serializer_Tag>Schriftsteller</XML_Serializer_Tag>
+<XML_Serializer_Tag>Lyriker</XML_Serializer_Tag>
+<XML_Serializer_Tag>Übersetzer</XML_Serializer_Tag>
+</professionOrOccupation>
+<dbpResource>http://dbpedia.org/resource/Oskar_Pastior</dbpResource>
+<abstract>Oskar Pastior (* 20. Oktober 1927 in Hermannstadt, Siebenbürgen; † 4. Oktober 2006 in Frankfurt am Main) war ein rumäniendeutscher Lyriker und Übersetzer.</abstract>
+<wikilink>http://en.wikipedia.org/wiki/Oskar_Pastior?oldid=606775516</wikilink>
+<artworks />
+<buildings />
+<books />
+</Person>

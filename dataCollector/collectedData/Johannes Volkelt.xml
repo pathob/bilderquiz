@@ -1,0 +1,25 @@
+<Person>
+<name>Johannes Volkelt</name>
+<variantName>
+<XML_Serializer_Tag>Johannes Immanuel Volkelt</XML_Serializer_Tag>
+<XML_Serializer_Tag>Johann Volkelt</XML_Serializer_Tag>
+</variantName>
+<thumbnail>https://de.wikipedia.org/wiki/Special:FilePath/Johannes_Volkelt.JPG?width=270</thumbnail>
+<birthEN>July 21, 1848</birthEN>
+<birthDE>21. Juli 1848</birthDE>
+<deathEN>May 8, 1930</deathEN>
+<deathDE>8. Mai 1930</deathDE>
+<birthPlace />
+<deathPlace>
+<XML_Serializer_Tag>Leipzig</XML_Serializer_Tag>
+</deathPlace>
+<professionOrOccupation>
+<XML_Serializer_Tag>Philosoph</XML_Serializer_Tag>
+</professionOrOccupation>
+<dbpResource>http://dbpedia.org/resource/Johannes_Volkelt</dbpResource>
+<abstract>Johannes Volkelt (* 21. Juli 1848 in Kunzendorf (Lipnik) bei Bielitz-Biala (Galizien); † 8. Mai 1930 in Leipzig) war ein deutscher Philosoph.</abstract>
+<wikilink>http://en.wikipedia.org/wiki/Johannes_Volkelt?oldid=563980299</wikilink>
+<artworks />
+<buildings />
+<books />
+</Person>

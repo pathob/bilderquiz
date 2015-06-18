@@ -1,0 +1,31 @@
+<Person>
+<name>Karl Gjellerup</name>
+<variantName>
+<XML_Serializer_Tag>Karl Adolph Gjellerup</XML_Serializer_Tag>
+<XML_Serializer_Tag>Carl Gjellerup</XML_Serializer_Tag>
+<XML_Serializer_Tag>Karl A. Gjellerup</XML_Serializer_Tag>
+<XML_Serializer_Tag>K. Gjellerup</XML_Serializer_Tag>
+<XML_Serializer_Tag>Karl Adolph Gjellerup</XML_Serializer_Tag>
+<XML_Serializer_Tag>Karl Gjelerup</XML_Serializer_Tag>
+</variantName>
+<thumbnail>https://commons.wikimedia.org/wiki/Special:FilePath/Karl_Gjellerup.jpg?width=270</thumbnail>
+<birthEN>June 2, 1857</birthEN>
+<birthDE>2. Juni 1857</birthDE>
+<deathEN>October 11, 1919</deathEN>
+<deathDE>11. Oktober 1919</deathDE>
+<birthPlace>
+<XML_Serializer_Tag>Roholte, Dänemark</XML_Serializer_Tag>
+</birthPlace>
+<deathPlace>
+<XML_Serializer_Tag>Klotzsche (Dresden)</XML_Serializer_Tag>
+</deathPlace>
+<professionOrOccupation>
+<XML_Serializer_Tag>Schriftsteller</XML_Serializer_Tag>
+</professionOrOccupation>
+<dbpResource>http://dbpedia.org/resource/Karl_Adolph_Gjellerup</dbpResource>
+<abstract>Karl Adolf Gjellerup (* 2. Juni 1857 in Roholte; † 11. Oktober 1919 in Klotzsche bei Dresden) war ein dänischer Schriftsteller und Literaturnobelpreisträger.</abstract>
+<wikilink>http://en.wikipedia.org/wiki/Karl_Adolph_Gjellerup?oldid=604800985</wikilink>
+<artworks />
+<buildings />
+<books />
+</Person>

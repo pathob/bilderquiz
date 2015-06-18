@@ -1,0 +1,40 @@
+<Person>
+<name>Johann Georg Heinrich Feder</name>
+<variantName>
+<XML_Serializer_Tag>Johan G. Feder</XML_Serializer_Tag>
+<XML_Serializer_Tag>Ioannes G. Federus</XML_Serializer_Tag>
+<XML_Serializer_Tag>Ioannes G. Feder</XML_Serializer_Tag>
+<XML_Serializer_Tag>John G. Feder</XML_Serializer_Tag>
+<XML_Serializer_Tag>J. G. H. Feder</XML_Serializer_Tag>
+<XML_Serializer_Tag>Johann Georg Feder</XML_Serializer_Tag>
+<XML_Serializer_Tag>Johann Heinrich Feder</XML_Serializer_Tag>
+<XML_Serializer_Tag>Joh. Georg Heinr. Feder</XML_Serializer_Tag>
+<XML_Serializer_Tag>Johannes Georgius Henricus Feder</XML_Serializer_Tag>
+<XML_Serializer_Tag>Iohannes Georgius Henricus Feder</XML_Serializer_Tag>
+<XML_Serializer_Tag>Jo. Georg. Henricus Feder</XML_Serializer_Tag>
+<XML_Serializer_Tag>Joannes Georgius Henricus Federus</XML_Serializer_Tag>
+<XML_Serializer_Tag>Joannes Georgius Henricus Feder</XML_Serializer_Tag>
+<XML_Serializer_Tag>Johan Georg Heinrich Feder</XML_Serializer_Tag>
+<XML_Serializer_Tag>John George Henry Feder</XML_Serializer_Tag>
+</variantName>
+<thumbnail>https://commons.wikimedia.org/wiki/Special:FilePath/FederJGH.jpg?width=270</thumbnail>
+<birthEN>May 15, 1740</birthEN>
+<birthDE>15. Mai 1740</birthDE>
+<deathEN>May 22, 1821</deathEN>
+<deathDE>22. Mai 1821</deathDE>
+<birthPlace />
+<deathPlace />
+<professionOrOccupation>
+<XML_Serializer_Tag>Oberfinanzrat</XML_Serializer_Tag>
+<XML_Serializer_Tag>Philosoph</XML_Serializer_Tag>
+<XML_Serializer_Tag>Bibliothekar</XML_Serializer_Tag>
+<XML_Serializer_Tag>Pädagoge</XML_Serializer_Tag>
+<XML_Serializer_Tag>Schriftsteller</XML_Serializer_Tag>
+</professionOrOccupation>
+<dbpResource>http://dbpedia.org/resource/Johann_Georg_Heinrich_Feder</dbpResource>
+<abstract>Johann Georg Heinrich Feder (* 15. Mai 1740 in Schornweisach; † 22. Februar 1821 in Hannover) war ein deutscher Philosoph.</abstract>
+<wikilink>http://en.wikipedia.org/wiki/Johann_Georg_Heinrich_Feder?oldid=598672322</wikilink>
+<artworks />
+<buildings />
+<books />
+</Person>

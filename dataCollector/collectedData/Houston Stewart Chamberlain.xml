@@ -1,0 +1,31 @@
+<Person>
+<name>Houston Stewart Chamberlain</name>
+<variantName>
+<XML_Serializer_Tag>H. St. Chamberlain</XML_Serializer_Tag>
+<XML_Serializer_Tag>Houston Stewart Chamberlain</XML_Serializer_Tag>
+<XML_Serializer_Tag>Houston Stewart-Chamberlain</XML_Serializer_Tag>
+</variantName>
+<thumbnail>https://commons.wikimedia.org/wiki/Special:FilePath/Bundesarchiv_Bild_119-1600-06,_Houston_Stewart_Chamberlain.jpg?width=270</thumbnail>
+<birthEN>September 9, 1855</birthEN>
+<birthDE>9. September 1855</birthDE>
+<deathEN>January 9, 1927</deathEN>
+<deathDE>9. Januar 1927</deathDE>
+<birthPlace>
+<XML_Serializer_Tag>Portsmouth (Hampshire)</XML_Serializer_Tag>
+</birthPlace>
+<deathPlace>
+<XML_Serializer_Tag>Bayreuth</XML_Serializer_Tag>
+</deathPlace>
+<professionOrOccupation>
+<XML_Serializer_Tag>Philosoph</XML_Serializer_Tag>
+<XML_Serializer_Tag>Naturwissenschaftler</XML_Serializer_Tag>
+<XML_Serializer_Tag>Schriftsteller</XML_Serializer_Tag>
+<XML_Serializer_Tag>Historiker</XML_Serializer_Tag>
+</professionOrOccupation>
+<dbpResource>http://dbpedia.org/resource/Houston_Stewart_Chamberlain</dbpResource>
+<abstract>Houston Stewart Chamberlain (* 9. September 1855 in Portsmouth, England; † 9. Januar 1927 in Bayreuth) war ein Schriftsteller, Verfasser zahlreicher populärwissenschaftlicher Werke, unter anderem zu Richard Wagner, Immanuel Kant und Johann Wolfgang von Goethe, mit pangermanischen und antisemitischen Einstellungen. Sein bekanntestes Werk sind die Grundlagen des neunzehnten Jahrhunderts (1899), das zu einem Standardwerk des rassischen und ideologischen Antisemitismus in Deutschland avancierte.</abstract>
+<wikilink>http://en.wikipedia.org/wiki/Houston_Stewart_Chamberlain?oldid=606616759</wikilink>
+<artworks />
+<buildings />
+<books />
+</Person>

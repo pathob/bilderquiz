@@ -1,0 +1,35 @@
+<Person>
+<name>Willibald Alexis</name>
+<variantName>
+<XML_Serializer_Tag>Georg Wilhelm Heinrich Häring</XML_Serializer_Tag>
+<XML_Serializer_Tag>Wilhelm Häring</XML_Serializer_Tag>
+<XML_Serializer_Tag>W. Häring</XML_Serializer_Tag>
+<XML_Serializer_Tag>Wilibald Alexis</XML_Serializer_Tag>
+<XML_Serializer_Tag>W. Alexis</XML_Serializer_Tag>
+<XML_Serializer_Tag>Georg W. Häring</XML_Serializer_Tag>
+<XML_Serializer_Tag>Heinrich Georg Wilhelm Häring</XML_Serializer_Tag>
+</variantName>
+<thumbnail>https://commons.wikimedia.org/wiki/Special:FilePath/Willibald_Alexis.jpg?width=270</thumbnail>
+<birthEN>June 29, 1798</birthEN>
+<birthDE>29. Juni 1798</birthDE>
+<deathEN>December 16, 1871</deathEN>
+<deathDE>16. Dezember 1871</deathDE>
+<birthPlace>
+<XML_Serializer_Tag>Breslau</XML_Serializer_Tag>
+</birthPlace>
+<deathPlace>
+<XML_Serializer_Tag>Arnstadt</XML_Serializer_Tag>
+</deathPlace>
+<professionOrOccupation>
+<XML_Serializer_Tag>Schriftsteller</XML_Serializer_Tag>
+<XML_Serializer_Tag>Jurist</XML_Serializer_Tag>
+<XML_Serializer_Tag>Redakteur</XML_Serializer_Tag>
+<XML_Serializer_Tag>Buchhändler</XML_Serializer_Tag>
+</professionOrOccupation>
+<dbpResource>http://dbpedia.org/resource/Willibald_Alexis</dbpResource>
+<abstract>Willibald Alexis (eigentlich Georg Wilhelm Heinrich Häring; * 29. Juni 1798 in Breslau; † 16. Dezember 1871 in Arnstadt) war ein deutscher Schriftsteller, der als Begründer des realistischen historischen Romans in der deutschen Literatur gilt.</abstract>
+<wikilink>http://en.wikipedia.org/wiki/Willibald_Alexis?oldid=552811998</wikilink>
+<artworks />
+<buildings />
+<books />
+</Person>

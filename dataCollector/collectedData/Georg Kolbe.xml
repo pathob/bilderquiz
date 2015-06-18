@@ -1,0 +1,26 @@
+<Person>
+<name>Georg Kolbe</name>
+<variantName />
+<thumbnail>https://commons.wikimedia.org/wiki/Special:FilePath/Georg_Kolbe.jpg?width=270</thumbnail>
+<birthEN>April 15, 1877</birthEN>
+<birthDE>15. April 1877</birthDE>
+<deathEN>November 15, 1947</deathEN>
+<deathDE>15. November 1947</deathDE>
+<birthPlace>
+<XML_Serializer_Tag>Waldheim</XML_Serializer_Tag>
+</birthPlace>
+<deathPlace>
+<XML_Serializer_Tag>Berlin</XML_Serializer_Tag>
+</deathPlace>
+<professionOrOccupation>
+<XML_Serializer_Tag>Künstler</XML_Serializer_Tag>
+<XML_Serializer_Tag>Bildhauer</XML_Serializer_Tag>
+<XML_Serializer_Tag>Graphiker</XML_Serializer_Tag>
+</professionOrOccupation>
+<dbpResource>http://dbpedia.org/resource/Georg_Kolbe</dbpResource>
+<abstract>Georg Kolbe (* 15. April 1877 in Waldheim, Sachsen; † 20. November 1947 in Berlin) war ein figürlicher Bildhauer. Nach ihm ist der Georg-Kolbe-Preis benannt.</abstract>
+<wikilink>http://en.wikipedia.org/wiki/Georg_Kolbe?oldid=575730558</wikilink>
+<artworks />
+<buildings />
+<books />
+</Person>

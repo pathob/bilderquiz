@@ -22,8 +22,10 @@
 <XML_Serializer_Tag>Zeichner</XML_Serializer_Tag>
 <XML_Serializer_Tag>Architekt</XML_Serializer_Tag>
 </professionOrOccupation>
-<artworks />
 <dbpResource>http://dbpedia.org/resource/Januarius_Zick</dbpResource>
 <abstract>Johann Rasso Januarius Zick (* 6. Februar 1730 in München; † 14. November 1797 in Ehrenbreitstein, heute zu Koblenz) war ein deutscher Maler und Architekt. Er gilt als Hauptmeister der deutschen Malerei des Spätbarocks.</abstract>
 <wikilink>http://en.wikipedia.org/wiki/Januarius_Zick?oldid=563246951</wikilink>
+<artworks />
+<buildings />
+<books />
 </Person>

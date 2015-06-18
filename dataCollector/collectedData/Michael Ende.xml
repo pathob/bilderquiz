@@ -1,0 +1,156 @@
+<Person>
+<name>Michael Ende</name>
+<variantName>
+<XML_Serializer_Tag>Michaėlʹ Ėnde</XML_Serializer_Tag>
+<XML_Serializer_Tag>Michaėlʹ Ende</XML_Serializer_Tag>
+<XML_Serializer_Tag>Michaėl Ėnde</XML_Serializer_Tag>
+<XML_Serializer_Tag>Michaelis Endė</XML_Serializer_Tag>
+<XML_Serializer_Tag>Mihael Ende</XML_Serializer_Tag>
+<XML_Serializer_Tag>Mihaels Ende</XML_Serializer_Tag>
+<XML_Serializer_Tag>Mihaeru Ende</XML_Serializer_Tag>
+<XML_Serializer_Tag>Mihyaeru Ende</XML_Serializer_Tag>
+<XML_Serializer_Tag>Mik&apos;ael Ende</XML_Serializer_Tag>
+<XML_Serializer_Tag>Mîḵāʾēl Ende</XML_Serializer_Tag>
+<XML_Serializer_Tag>Miqieer Ende</XML_Serializer_Tag>
+<XML_Serializer_Tag>Mixael Ende</XML_Serializer_Tag>
+<XML_Serializer_Tag>Miyaeru Ende</XML_Serializer_Tag>
+<XML_Serializer_Tag>Mi Ende</XML_Serializer_Tag>
+<XML_Serializer_Tag>M. Ėnde</XML_Serializer_Tag>
+<XML_Serializer_Tag>Michael Ente</XML_Serializer_Tag>
+<XML_Serializer_Tag>Mai ke An di</XML_Serializer_Tag>
+<XML_Serializer_Tag>Maike-Andi</XML_Serializer_Tag>
+<XML_Serializer_Tag>Mi qie er En de</XML_Serializer_Tag>
+<XML_Serializer_Tag>En de</XML_Serializer_Tag>
+<XML_Serializer_Tag>Ende</XML_Serializer_Tag>
+<XML_Serializer_Tag>Miqieer-Ende</XML_Serializer_Tag>
+<XML_Serializer_Tag>Michaelio Endės</XML_Serializer_Tag>
+<XML_Serializer_Tag>Mikhaʾel Endeh</XML_Serializer_Tag>
+<XML_Serializer_Tag>Mighā&apos;ael &apos;Aente</XML_Serializer_Tag>
+<XML_Serializer_Tag>Miḳhā&apos;ael &apos;Aente</XML_Serializer_Tag>
+<XML_Serializer_Tag>Mai ke An di</XML_Serializer_Tag>
+<XML_Serializer_Tag>Maike-Andi</XML_Serializer_Tag>
+<XML_Serializer_Tag>Maike Andi</XML_Serializer_Tag>
+<XML_Serializer_Tag>Mīšāʾīl Inda</XML_Serializer_Tag>
+<XML_Serializer_Tag>Mīšīl Indih</XML_Serializer_Tag>
+<XML_Serializer_Tag>Mīšīl Indah</XML_Serializer_Tag>
+<XML_Serializer_Tag>Mi En de</XML_Serializer_Tag>
+<XML_Serializer_Tag>Mi-Ende</XML_Serializer_Tag>
+<XML_Serializer_Tag>Mi qie er En de</XML_Serializer_Tag>
+<XML_Serializer_Tag>Miqieer-Ende</XML_Serializer_Tag>
+<XML_Serializer_Tag>Miqieer Ende</XML_Serializer_Tag>
+<XML_Serializer_Tag>Mai ke An di</XML_Serializer_Tag>
+<XML_Serializer_Tag>Maike-Andi</XML_Serializer_Tag>
+<XML_Serializer_Tag>Maike Andi</XML_Serializer_Tag>
+<XML_Serializer_Tag>Mi xia ai er En de</XML_Serializer_Tag>
+<XML_Serializer_Tag>Mixiaaier-Ende</XML_Serializer_Tag>
+<XML_Serializer_Tag>Mixiaaier Ende</XML_Serializer_Tag>
+<XML_Serializer_Tag>Mi qie er En de</XML_Serializer_Tag>
+<XML_Serializer_Tag>Miqieer-Ende</XML_Serializer_Tag>
+<XML_Serializer_Tag>Miqieer Ende</XML_Serializer_Tag>
+<XML_Serializer_Tag>미하엘 엔데</XML_Serializer_Tag>
+<XML_Serializer_Tag>מיכאל אנדה</XML_Serializer_Tag>
+<XML_Serializer_Tag>米夏埃尔‧恩德</XML_Serializer_Tag>
+<XML_Serializer_Tag>米夏埃爾‧恩德</XML_Serializer_Tag>
+<XML_Serializer_Tag>米夏埃爾 恩德</XML_Serializer_Tag>
+<XML_Serializer_Tag>米夏埃尔 恩德</XML_Serializer_Tag>
+<XML_Serializer_Tag>ミヒャエル エンデ</XML_Serializer_Tag>
+<XML_Serializer_Tag>ミヒャエル・エンデ</XML_Serializer_Tag>
+</variantName>
+<thumbnail>https://commons.wikimedia.org/wiki/Special:FilePath/Michael_Endes_Grab.jpg?width=270</thumbnail>
+<birthEN>November 12, 1929</birthEN>
+<birthDE>12. November 1929</birthDE>
+<deathEN>August 28, 1995</deathEN>
+<deathDE>28. August 1995</deathDE>
+<birthPlace>
+<XML_Serializer_Tag>Garmisch</XML_Serializer_Tag>
+</birthPlace>
+<deathPlace>
+<XML_Serializer_Tag>Stuttgart</XML_Serializer_Tag>
+</deathPlace>
+<professionOrOccupation>
+<XML_Serializer_Tag>Schriftsteller</XML_Serializer_Tag>
+<XML_Serializer_Tag>Lyriker</XML_Serializer_Tag>
+<XML_Serializer_Tag>Drehbuchautor</XML_Serializer_Tag>
+<XML_Serializer_Tag>Schauspieler</XML_Serializer_Tag>
+<XML_Serializer_Tag>Rundfunkmitarbeiter</XML_Serializer_Tag>
+<XML_Serializer_Tag>Liedermacher</XML_Serializer_Tag>
+</professionOrOccupation>
+<dbpResource>http://dbpedia.org/resource/Michael_Ende</dbpResource>
+<abstract>Michael Andreas Helmuth Ende (* 12. November 1929 in Garmisch; † 28. August 1995 in Filderstadt-Bonlanden) war ein deutscher Schriftsteller.</abstract>
+<wikilink>http://en.wikipedia.org/wiki/Michael_Ende?oldid=604357638</wikilink>
+<artworks />
+<buildings />
+<books>
+<XML_Serializer_Tag>
+<book>
+<type>uri</type>
+<value>http://dbpedia.org/resource/Jim_Button_and_Luke_the_Engine_Driver</value>
+</book>
+<author>
+<type>uri</type>
+<value>http://dbpedia.org/resource/Michael_Ende</value>
+</author>
+<thumbnail>
+<type>uri</type>
+<value>http://commons.wikimedia.org/wiki/Special:FilePath/Jim_Knopf_Marke.jpg?width=300</value>
+</thumbnail>
+<wikilink>
+<type>uri</type>
+<value>http://en.wikipedia.org/wiki/Jim_Button_and_Luke_the_Engine_Driver?oldid=577126631</value>
+</wikilink>
+<abstract>
+<type>literal</type>
+<xml:lang>de</xml:lang>
+<value>Jim Knopf und Lukas der Lokomotivführer ist ein Kinderbuch des deutschen Schriftstellers Michael Ende aus dem Jahr 1960. Der Folgeband aus dem Jahr 1962 heißt Jim Knopf und die Wilde 13. Die Illustrationen der Originalausgabe stammen von Franz Josef Tripp; 1983 schuf Reinhard Michl für eine Neuausgabe neue Illustrationen.Beide Bücher gehören zu den erfolgreichsten und beliebtesten Kinderbüchern im deutschsprachigen Raum. Jim Knopf gewann 1960 den Deutschen Jugendbuchpreis sowie eine Würdigung in der Ehrenliste 1962 des Hans Christian Andersen-Preises. Übersetzungen werden unter anderem in Großbritannien, Israel, Italien, Japan, den Niederlanden, Portugal, Spanien, Schweden und den USA verkauft.Von beiden Büchern gibt es sehr bekannte Adaptionen durch die Augsburger Puppenkiste. Während die ersten Fassungen von 1961/1962, noch in Schwarzweiß, aus je fünf Teilen bestanden, wurden die Geschichten in einer Neuverfilmung 1977/1978, diesmal in Farbe, zu je vier Teilen zusammengefasst. Daneben wurde 1999 erstmals eine Zeichentrickserie mit 52 Folgen ausgestrahlt.</value>
+</abstract>
+</XML_Serializer_Tag>
+<XML_Serializer_Tag>
+<book>
+<type>uri</type>
+<value>http://dbpedia.org/resource/Momo_(novel)</value>
+</book>
+<author>
+<type>uri</type>
+<value>http://dbpedia.org/resource/Michael_Ende</value>
+</author>
+<released>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>January 1973</value>
+</released>
+<wikilink>
+<type>uri</type>
+<value>http://en.wikipedia.org/wiki/Momo_(novel)?oldid=606547668</value>
+</wikilink>
+<abstract>
+<type>literal</type>
+<xml:lang>de</xml:lang>
+<value>Momo ist ein 1973 erschienener Roman von Michael Ende. Der Titel bezeichnet die Hauptperson, der Untertitel lautet: Die seltsame Geschichte von den Zeit-Dieben und von dem Kind, das den Menschen die gestohlene Zeit zurückbrachte. Das Buch ist mit weltweit über sieben Millionen verkauften Exemplaren nach der Unendlichen Geschichte das erfolgreichste Werk Endes. Momo wurde 1974 mit dem Deutschen Jugendbuchpreis ausgezeichnet.</value>
+</abstract>
+</XML_Serializer_Tag>
+<XML_Serializer_Tag>
+<book>
+<type>uri</type>
+<value>http://dbpedia.org/resource/The_Neverending_Story</value>
+</book>
+<author>
+<type>uri</type>
+<value>http://dbpedia.org/resource/Michael_Ende</value>
+</author>
+<released>
+<type>typed-literal</type>
+<datatype>http://www.w3.org/2001/XMLSchema#integer</datatype>
+<value>1979</value>
+</released>
+<wikilink>
+<type>uri</type>
+<value>http://en.wikipedia.org/wiki/The_Neverending_Story?oldid=606548134</value>
+</wikilink>
+<abstract>
+<type>literal</type>
+<xml:lang>de</xml:lang>
+<value>Die unendliche Geschichte ist der Titel eines erstmals 1979 im K. Thienemanns Verlag erschienenen Romans von Michael Ende. Das Werk ist ein zugleich märchenhafter, phantastischer und romantischer Bildungsroman und gehört inzwischen zu den neuen Klassikern der Kinder- und Jugendliteratur. Obwohl als Jugendbuch veröffentlicht, wird Die unendliche Geschichte auch von Erwachsenen aller Bevölkerungs- und Bildungsschichten gelesen.Der Großteil der Handlung spielt in einer parallelen Welt, Phantásien genannt, die durch das „Nichts“ zerstört wird – immer größere Teile des Reiches verschwinden einfach, ohne dass etwas davon zurückbleibt. Es gibt aber auch Sequenzen, die in der Menschenwelt angesiedelt sind. Jede dieser Welten stellt eine der beiden Hauptpersonen des Romans. Bastian Balthasar Bux ist ein Menschenjunge, der zunächst nur einen Roman über das Land Phantásien liest, doch die Geschichte wird für ihn mehr und mehr zur Wirklichkeit. Schließlich wird er selbst ein Teil davon, bis er kurz davorsteht, sich in der Phantasiewelt zu verlieren. Atréju hingegen ist ein junger phantásischer Jäger, der im Auftrag der kranken Herrscherin des Reiches, der Kindlichen Kaiserin, nach der Ursache für ihre Krankheit sucht, um dadurch Phantásien zu retten. Er wird später zu Bastians Freund und hilft ihm, den Weg zurück nach Hause zu finden.</value>
+</abstract>
+</XML_Serializer_Tag>
+</books>
+</Person>

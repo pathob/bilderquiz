@@ -1,0 +1,62 @@
+<Person>
+<name>Carlo Collodi</name>
+<variantName>
+<XML_Serializer_Tag>C. Collodi</XML_Serializer_Tag>
+<XML_Serializer_Tag>C. Calloodi</XML_Serializer_Tag>
+<XML_Serializer_Tag>... Keluodi</XML_Serializer_Tag>
+<XML_Serializer_Tag>... Keluodiyuan</XML_Serializer_Tag>
+<XML_Serializer_Tag>... G&apos;ollodi</XML_Serializer_Tag>
+<XML_Serializer_Tag>Carlo Lorenzini Collodi</XML_Serializer_Tag>
+<XML_Serializer_Tag>R. Collodi</XML_Serializer_Tag>
+<XML_Serializer_Tag>... Collodi-Grumann</XML_Serializer_Tag>
+<XML_Serializer_Tag>K&apos;arŭllo K&apos;ollodi</XML_Serializer_Tag>
+<XML_Serializer_Tag>Karlo Kollodi</XML_Serializer_Tag>
+<XML_Serializer_Tag>... Kolodi</XML_Serializer_Tag>
+<XML_Serializer_Tag>Carlo Lorenzini</XML_Serializer_Tag>
+</variantName>
+<thumbnail>https://commons.wikimedia.org/wiki/Special:FilePath/Carlo_Collodi.jpg?width=270</thumbnail>
+<birthEN>November 24, 1826</birthEN>
+<birthDE>24. November 1826</birthDE>
+<deathEN>October 26, 1890</deathEN>
+<deathDE>26. Oktober 1890</deathDE>
+<birthPlace>
+<XML_Serializer_Tag>Florenz</XML_Serializer_Tag>
+</birthPlace>
+<deathPlace>
+<XML_Serializer_Tag>Florenz</XML_Serializer_Tag>
+</deathPlace>
+<professionOrOccupation>
+<XML_Serializer_Tag>Journalist</XML_Serializer_Tag>
+<XML_Serializer_Tag>Schriftsteller</XML_Serializer_Tag>
+</professionOrOccupation>
+<dbpResource>http://dbpedia.org/resource/Carlo_Collodi</dbpResource>
+<abstract>Carlo Collodi, eigentlich Carlo Lorenzini (* 24. November 1826 in Florenz; † 26. Oktober 1890 ebenda) war ein italienischer Schriftsteller und Journalist. Er ist der Autor des weltberühmten Romans Die Abenteuer des Pinocchio.Sein Nachnamens-Pseudonym leitet sich vom Dorf Collodi ab. Dort, zwischen Lucca und Pistoia gelegen, wurde seine Mutter, Angela Orzali, geboren. Auch Collodi selbst verbrachte einen großen Teil seiner Kindheit dort. Neben seiner Tätigkeit als Schriftsteller arbeitete er auch als Journalist und Präfekturangestellter. Er engagierte sich für die Unabhängigkeitsbewegung Italiens und blieb unverheiratet.Der große Erfolg seines Romans Die Abenteuer des Pinocchio stellte sich erst nach seinem Tode ein. Die erste Geschichte über Pinocchio erschien am 7. Juli 1881 in der neuen Kinderzeitschrift Giornale per i bambini in Rom. Erst im 20. Jahrhundert wurde der literarische Wert des Werkes auch von der Fachöffentlichkeit vollständig anerkannt. Entscheidenden Einfluss hatte sein Werk aufgrund seiner großen Verbreitung auch auf die Entwicklung der italienischen Sprache.Er ist in seiner Heimatstadt auf dem Friedhof Cimitero delle Porte Sante begraben.</abstract>
+<wikilink>http://en.wikipedia.org/wiki/Carlo_Collodi?oldid=599860361</wikilink>
+<artworks />
+<buildings />
+<books>
+<XML_Serializer_Tag>
+<book>
+<type>uri</type>
+<value>http://dbpedia.org/resource/The_Adventures_of_Pinocchio</value>
+</book>
+<author>
+<type>uri</type>
+<value>http://dbpedia.org/resource/Carlo_Collodi</value>
+</author>
+<thumbnail>
+<type>uri</type>
+<value>http://en.wikipedia.org/wiki/Special:FilePath/AdvPinocchio.jpg?width=300</value>
+</thumbnail>
+<released>
+<type>typed-literal</type>
+<datatype>http://www.w3.org/2001/XMLSchema#integer</datatype>
+<value>1883</value>
+</released>
+<wikilink>
+<type>uri</type>
+<value>http://en.wikipedia.org/wiki/The_Adventures_of_Pinocchio?oldid=606762273</value>
+</wikilink>
+</XML_Serializer_Tag>
+</books>
+</Person>

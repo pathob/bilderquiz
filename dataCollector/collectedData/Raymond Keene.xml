@@ -1,0 +1,23 @@
+<Person>
+<name>Raymond Keene</name>
+<variantName>
+<XML_Serializer_Tag>Raymond D. Keene</XML_Serializer_Tag>
+<XML_Serializer_Tag>Ray Keene</XML_Serializer_Tag>
+</variantName>
+<thumbnail>https://commons.wikimedia.org/wiki/Special:FilePath/Raymond_Keene_1981_Bochum.jpg?width=270</thumbnail>
+<birthEN>1948</birthEN>
+<birthDE>1948</birthDE>
+<deathEN />
+<deathDE />
+<birthPlace />
+<deathPlace />
+<professionOrOccupation>
+<XML_Serializer_Tag>Autor</XML_Serializer_Tag>
+</professionOrOccupation>
+<dbpResource>http://dbpedia.org/resource/Raymond_Keene</dbpResource>
+<abstract>Raymond Dennis Keene (* 29. Januar 1948 in London) ist ein englischer Schachmeister, Schachbuchautor und Schachjournalist.</abstract>
+<wikilink>http://en.wikipedia.org/wiki/Raymond_Keene?oldid=603191690</wikilink>
+<artworks />
+<buildings />
+<books />
+</Person>

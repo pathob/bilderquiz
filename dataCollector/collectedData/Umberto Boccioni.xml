@@ -12,12 +12,15 @@
 <XML_Serializer_Tag>Maler</XML_Serializer_Tag>
 <XML_Serializer_Tag>Bildhauer</XML_Serializer_Tag>
 </professionOrOccupation>
+<dbpResource>http://dbpedia.org/resource/Umberto_Boccioni</dbpResource>
+<abstract>Umberto Boccioni (* 19. Oktober 1882 in Reggio Calabria (Italien); † 17. August 1916 bei Verona) war ein italienischer Maler und Bildhauer des Futurismus.</abstract>
+<wikilink>http://en.wikipedia.org/wiki/Umberto_Boccioni?oldid=605129159</wikilink>
 <artworks>
 <XML_Serializer_Tag>
-<painting>
+<artwork>
 <type>uri</type>
 <value>http://dbpedia.org/resource/Unique_Forms_of_Continuity_in_Space</value>
-</painting>
+</artwork>
 <thumbnail>
 <type>uri</type>
 <value>http://commons.wikimedia.org/wiki/Special:FilePath/&apos;Unique_Forms_of_Continuity_in_Space&apos;,_1913_bronze_by_Umberto_Boccioni.jpg?width=300</value>
@@ -41,12 +44,16 @@
 <type>uri</type>
 <value>http://en.wikipedia.org/wiki/Unique_Forms_of_Continuity_in_Space?oldid=603360634</value>
 </wikilink>
+<type>
+<type>uri</type>
+<value>http://dbpedia.org/resource/Bronze</value>
+</type>
 </XML_Serializer_Tag>
 <XML_Serializer_Tag>
-<painting>
+<artwork>
 <type>uri</type>
 <value>http://dbpedia.org/resource/The_Street_Enters_the_House</value>
-</painting>
+</artwork>
 <thumbnail>
 <type>uri</type>
 <value>http://commons.wikimedia.org/wiki/Special:FilePath/Umberto_Boccioni_-_A_strada_entra_nella_casa.jpg?width=300</value>
@@ -70,12 +77,16 @@
 <type>uri</type>
 <value>http://en.wikipedia.org/wiki/The_Street_Enters_the_House?oldid=591174154</value>
 </wikilink>
+<type>
+<type>uri</type>
+<value>http://dbpedia.org/resource/Oil_painting</value>
+</type>
 </XML_Serializer_Tag>
 <XML_Serializer_Tag>
-<painting>
+<artwork>
 <type>uri</type>
 <value>http://dbpedia.org/resource/Development_of_a_Bottle_in_Space</value>
-</painting>
+</artwork>
 <thumbnail>
 <type>uri</type>
 <value>http://commons.wikimedia.org/wiki/Special:FilePath/&apos;Development_of_a_Bottle_in_Space&apos;,_bronze_sculpture_by_Umberto_Boccioni,_1913,_Metropolitan_Museum_of_Art.jpg?width=300</value>
@@ -94,12 +105,16 @@
 <type>uri</type>
 <value>http://en.wikipedia.org/wiki/Development_of_a_Bottle_in_Space?oldid=599056338</value>
 </wikilink>
+<type>
+<type>uri</type>
+<value>http://dbpedia.org/resource/Bronze</value>
+</type>
 </XML_Serializer_Tag>
 <XML_Serializer_Tag>
-<painting>
+<artwork>
 <type>uri</type>
 <value>http://dbpedia.org/resource/The_City_Rises_(Boccioni)</value>
-</painting>
+</artwork>
 <thumbnail>
 <type>uri</type>
 <value>http://commons.wikimedia.org/wiki/Special:FilePath/Immagine-Umberto_boccioni_la_città_che_sale.jpg?width=300</value>
@@ -115,7 +130,6 @@
 </wikilink>
 </XML_Serializer_Tag>
 </artworks>
-<dbpResource>http://dbpedia.org/resource/Umberto_Boccioni</dbpResource>
-<abstract>Umberto Boccioni (* 19. Oktober 1882 in Reggio Calabria (Italien); † 17. August 1916 bei Verona) war ein italienischer Maler und Bildhauer des Futurismus.</abstract>
-<wikilink>http://en.wikipedia.org/wiki/Umberto_Boccioni?oldid=605129159</wikilink>
+<buildings />
+<books />
 </Person>

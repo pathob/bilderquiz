@@ -16,8 +16,10 @@
 <XML_Serializer_Tag>Künstler</XML_Serializer_Tag>
 <XML_Serializer_Tag>Maler</XML_Serializer_Tag>
 </professionOrOccupation>
-<artworks />
 <dbpResource>http://dbpedia.org/resource/Hans_Sandreuter</dbpResource>
 <abstract>Hans Sandreuter (* 11. Mai 1850 in Basel; † 1. Juni 1901 in Riehen) war ein Schweizer Künstler des Symbolismus und des Fin de siècle.</abstract>
 <wikilink>http://en.wikipedia.org/wiki/Hans_Sandreuter?oldid=582317868</wikilink>
+<artworks />
+<buildings />
+<books />
 </Person>

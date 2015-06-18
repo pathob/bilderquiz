@@ -14,8 +14,10 @@
 <XML_Serializer_Tag>Künstler</XML_Serializer_Tag>
 <XML_Serializer_Tag>Maler</XML_Serializer_Tag>
 </professionOrOccupation>
-<artworks />
 <dbpResource>http://dbpedia.org/resource/Ferdinand_Keller_(antiquity_scholar)</dbpResource>
 <abstract>Ferdinand Keller (* 24. Dezember 1800 in Marthalen; † 21. Juli 1881 in Zürich) war ein Schweizer Archäologe und Altertumsforscher. Er begründete die urgeschichtliche Forschung in der Schweiz.</abstract>
 <wikilink>http://en.wikipedia.org/wiki/Ferdinand_Keller_(antiquity_scholar)?oldid=563937623</wikilink>
+<artworks />
+<buildings />
+<books />
 </Person>

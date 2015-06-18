@@ -1,0 +1,30 @@
+<Person>
+<name>Carl Zuckmayer</name>
+<variantName>
+<XML_Serializer_Tag>... Zuckmayer-Barth</XML_Serializer_Tag>
+<XML_Serializer_Tag>Karl Zuckmayer</XML_Serializer_Tag>
+<XML_Serializer_Tag>Karl Cukmajer</XML_Serializer_Tag>
+<XML_Serializer_Tag>Kurt Alexander</XML_Serializer_Tag>
+</variantName>
+<thumbnail>https://commons.wikimedia.org/wiki/Special:FilePath/Bundesarchiv_Bild_146-2005-0008,_Carl_Zuckmayer.jpg?width=270</thumbnail>
+<birthEN>December 27, 1896</birthEN>
+<birthDE>27. Dezember 1896</birthDE>
+<deathEN>January 18, 1977</deathEN>
+<deathDE>18. Januar 1977</deathDE>
+<birthPlace>
+<XML_Serializer_Tag>Nackenheim</XML_Serializer_Tag>
+</birthPlace>
+<deathPlace>
+<XML_Serializer_Tag>Visp</XML_Serializer_Tag>
+</deathPlace>
+<professionOrOccupation>
+<XML_Serializer_Tag>Schriftsteller</XML_Serializer_Tag>
+<XML_Serializer_Tag>Drehbuchautor</XML_Serializer_Tag>
+</professionOrOccupation>
+<dbpResource>http://dbpedia.org/resource/Carl_Zuckmayer</dbpResource>
+<abstract>Carl Zuckmayer (* 27. Dezember 1896 in Nackenheim, Rheinhessen; † 18. Januar 1977 in Visp, Schweiz, Grab in Saas-Fee) war ein deutscher Schriftsteller.</abstract>
+<wikilink>http://en.wikipedia.org/wiki/Carl_Zuckmayer?oldid=605705840</wikilink>
+<artworks />
+<buildings />
+<books />
+</Person>

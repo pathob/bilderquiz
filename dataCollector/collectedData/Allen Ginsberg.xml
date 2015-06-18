@@ -1,0 +1,51 @@
+<Person>
+<name>Allen Ginsberg</name>
+<variantName>
+<XML_Serializer_Tag>Allan Ginsberg</XML_Serializer_Tag>
+<XML_Serializer_Tag>Alen Ginzberg</XML_Serializer_Tag>
+<XML_Serializer_Tag>Irwin Allen Ginsberg</XML_Serializer_Tag>
+<XML_Serializer_Tag>Irwin Allen Ginsberg</XML_Serializer_Tag>
+</variantName>
+<thumbnail>https://commons.wikimedia.org/wiki/Special:FilePath/Allen_Ginsberg_und_Peter_Orlowski_ArM.jpg?width=270</thumbnail>
+<birthEN>June 3, 1926</birthEN>
+<birthDE>3. Juni 1926</birthDE>
+<deathEN>April 5, 1997</deathEN>
+<deathDE>5. April 1997</deathDE>
+<birthPlace>
+<XML_Serializer_Tag>Paterson, NJ</XML_Serializer_Tag>
+</birthPlace>
+<deathPlace>
+<XML_Serializer_Tag>New York, NY</XML_Serializer_Tag>
+</deathPlace>
+<professionOrOccupation>
+<XML_Serializer_Tag>Musiker</XML_Serializer_Tag>
+<XML_Serializer_Tag>Lyriker</XML_Serializer_Tag>
+<XML_Serializer_Tag>Schriftsteller</XML_Serializer_Tag>
+</professionOrOccupation>
+<dbpResource>http://dbpedia.org/resource/Allen_Ginsberg</dbpResource>
+<abstract>Allen Ginsberg [ˈælən ˈgɪnzˌbɝg] (* 3. Juni 1926 in Paterson, New Jersey als Irwin Allen Ginsberg ; † 5. April 1997 in New York City) war ein US-amerikanischer Dichter der Beat Generation.</abstract>
+<wikilink>http://en.wikipedia.org/wiki/Allen_Ginsberg?oldid=605760457</wikilink>
+<artworks />
+<buildings />
+<books>
+<XML_Serializer_Tag>
+<book>
+<type>uri</type>
+<value>http://dbpedia.org/resource/The_Yage_Letters</value>
+</book>
+<author>
+<type>uri</type>
+<value>http://dbpedia.org/resource/Allen_Ginsberg</value>
+</author>
+<released>
+<type>typed-literal</type>
+<datatype>http://www.w3.org/2001/XMLSchema#integer</datatype>
+<value>1963</value>
+</released>
+<wikilink>
+<type>uri</type>
+<value>http://en.wikipedia.org/wiki/The_Yage_Letters?oldid=605638800</value>
+</wikilink>
+</XML_Serializer_Tag>
+</books>
+</Person>

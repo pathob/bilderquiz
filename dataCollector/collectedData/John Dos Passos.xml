@@ -1,0 +1,49 @@
+<Person>
+<name>John Dos Passos</name>
+<variantName>
+<XML_Serializer_Tag>John dos Passos</XML_Serializer_Tag>
+<XML_Serializer_Tag>John R. Dos Passos</XML_Serializer_Tag>
+<XML_Serializer_Tag>John Roderigo Dos Passos</XML_Serializer_Tag>
+<XML_Serializer_Tag>John DosPassos</XML_Serializer_Tag>
+<XML_Serializer_Tag>John R. DosPassos</XML_Serializer_Tag>
+<XML_Serializer_Tag>Dzhon Dos Passos</XML_Serializer_Tag>
+<XML_Serializer_Tag>Dzhon Dos Passos</XML_Serializer_Tag>
+<XML_Serializer_Tag>Džon Dos Passos</XML_Serializer_Tag>
+<XML_Serializer_Tag>Džon dos Passos</XML_Serializer_Tag>
+</variantName>
+<thumbnail>https://commons.wikimedia.org/wiki/Special:FilePath/John_dos_Passos.jpg?width=270</thumbnail>
+<birthEN>January 14, 1896</birthEN>
+<birthDE>14. Januar 1896</birthDE>
+<deathEN>September 28, 1970</deathEN>
+<deathDE>28. September 1970</deathDE>
+<birthPlace>
+<XML_Serializer_Tag>Chicago, Ill.</XML_Serializer_Tag>
+</birthPlace>
+<deathPlace>
+<XML_Serializer_Tag>Baltimore, Md.</XML_Serializer_Tag>
+</deathPlace>
+<professionOrOccupation>
+<XML_Serializer_Tag>Schriftsteller</XML_Serializer_Tag>
+</professionOrOccupation>
+<dbpResource>http://dbpedia.org/resource/John_Dos_Passos</dbpResource>
+<abstract>John Dos Passos (* 14. Januar 1896 in Chicago; † 28. September 1970 in Baltimore) war ein amerikanischer Schriftsteller. Er gilt neben Ernest Hemingway, William Faulkner und F. Scott Fitzgerald als einer der Hauptvertreter der amerikanischen Moderne.</abstract>
+<wikilink>http://en.wikipedia.org/wiki/John_Dos_Passos?oldid=603202765</wikilink>
+<artworks />
+<buildings />
+<books>
+<XML_Serializer_Tag>
+<book>
+<type>uri</type>
+<value>http://dbpedia.org/resource/U.S.A._trilogy</value>
+</book>
+<author>
+<type>uri</type>
+<value>http://dbpedia.org/resource/John_Dos_Passos</value>
+</author>
+<wikilink>
+<type>uri</type>
+<value>http://en.wikipedia.org/wiki/U.S.A._trilogy?oldid=580912607</value>
+</wikilink>
+</XML_Serializer_Tag>
+</books>
+</Person>

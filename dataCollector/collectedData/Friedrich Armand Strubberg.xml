@@ -1,0 +1,29 @@
+<Person>
+<name>Friedrich Armand Strubberg</name>
+<variantName>
+<XML_Serializer_Tag>Armand</XML_Serializer_Tag>
+<XML_Serializer_Tag>Frédéric Armand Strubberg</XML_Serializer_Tag>
+<XML_Serializer_Tag>Fritz Armand Strubberg</XML_Serializer_Tag>
+<XML_Serializer_Tag>Friedrich August Strubberg</XML_Serializer_Tag>
+</variantName>
+<thumbnail>https://commons.wikimedia.org/wiki/Special:FilePath/Strubberg_Portrait.jpg?width=270</thumbnail>
+<birthEN>March 18, 1806</birthEN>
+<birthDE>18. März 1806</birthDE>
+<deathEN>April 3, 1889</deathEN>
+<deathDE>3. April 1889</deathDE>
+<birthPlace>
+<XML_Serializer_Tag>Kassel</XML_Serializer_Tag>
+</birthPlace>
+<deathPlace>
+<XML_Serializer_Tag>Linsengericht-Altenhaßlau</XML_Serializer_Tag>
+</deathPlace>
+<professionOrOccupation>
+<XML_Serializer_Tag>Schriftsteller</XML_Serializer_Tag>
+</professionOrOccupation>
+<dbpResource>http://dbpedia.org/resource/Friedrich_Armand_Strubberg</dbpResource>
+<abstract>Fredéric Armand (auch: Friedrich Armand / Friedrich August) Strubberg (* 18. März 1806 in Kassel; † 3. April 1889 in Altenhaßlau) war ein deutscher Amerikareisender und Schriftsteller. Er veröffentlichte unter dem Prenonym Armand zahlreiche in Nordamerika spielende Abenteuerromane und Jugenderzählungen und war neben Friedrich Gerstäcker und Balduin Möllhausen ein wichtiger Vertreter des deutschsprachigen ethnographischen Gesellschaftsromans.</abstract>
+<wikilink>http://en.wikipedia.org/wiki/Friedrich_Armand_Strubberg?oldid=584315235</wikilink>
+<artworks />
+<buildings />
+<books />
+</Person>

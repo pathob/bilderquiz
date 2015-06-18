@@ -1,0 +1,69 @@
+<Person>
+<name>Louis Aragon</name>
+<variantName>
+<XML_Serializer_Tag>Albert de Routisie</XML_Serializer_Tag>
+<XML_Serializer_Tag>François La Colère</XML_Serializer_Tag>
+<XML_Serializer_Tag>Saint Romain Arnaud</XML_Serializer_Tag>
+<XML_Serializer_Tag>Saint Romain Arnaud</XML_Serializer_Tag>
+<XML_Serializer_Tag>Témoin des martyrs</XML_Serializer_Tag>
+<XML_Serializer_Tag>Arankon</XML_Serializer_Tag>
+<XML_Serializer_Tag>François la Colère</XML_Serializer_Tag>
+<XML_Serializer_Tag>Arāghūn</XML_Serializer_Tag>
+<XML_Serializer_Tag>A-la-kung</XML_Serializer_Tag>
+<XML_Serializer_Tag>Aragông</XML_Serializer_Tag>
+<XML_Serializer_Tag>Lui Aragông</XML_Serializer_Tag>
+<XML_Serializer_Tag>Lui Aragon</XML_Serializer_Tag>
+<XML_Serializer_Tag>François LaColère</XML_Serializer_Tag>
+<XML_Serializer_Tag>Louis Marie Antoine Alfred Aragon</XML_Serializer_Tag>
+<XML_Serializer_Tag>Louis-Marie Andrieux</XML_Serializer_Tag>
+</variantName>
+<thumbnail>https://commons.wikimedia.org/wiki/Special:FilePath/Tombeau_Triolet_Aragon.jpg?width=270</thumbnail>
+<birthEN>October 3, 1897</birthEN>
+<birthDE>3. Oktober 1897</birthDE>
+<deathEN>December 24, 1982</deathEN>
+<deathDE>24. Dezember 1982</deathDE>
+<birthPlace>
+<XML_Serializer_Tag>Paris</XML_Serializer_Tag>
+</birthPlace>
+<deathPlace>
+<XML_Serializer_Tag>Paris</XML_Serializer_Tag>
+</deathPlace>
+<professionOrOccupation>
+<XML_Serializer_Tag>Schriftsteller</XML_Serializer_Tag>
+</professionOrOccupation>
+<dbpResource>http://dbpedia.org/resource/Louis_Aragon</dbpResource>
+<abstract>Louis Aragon (* 3. Oktober 1897 als Louis-Marie Andrieux in Paris; † 24. Dezember 1982 ebenda) war ein französischer Dichter und Schriftsteller. Beeinflusst von Charles Dickens, Comte de Lautréamont, Leo Tolstoi, Maxim Gorki, ist er einer der Vertreter des sozialistischen Realismus. Zusammen mit André Breton und Philippe Soupault begründete er 1924 den Surrealismus.</abstract>
+<wikilink>http://en.wikipedia.org/wiki/Louis_Aragon?oldid=602519186</wikilink>
+<artworks />
+<buildings />
+<books>
+<XML_Serializer_Tag>
+<book>
+<type>uri</type>
+<value>http://dbpedia.org/resource/Le_Paysan_de_Paris</value>
+</book>
+<author>
+<type>uri</type>
+<value>http://dbpedia.org/resource/Louis_Aragon</value>
+</author>
+<wikilink>
+<type>uri</type>
+<value>http://en.wikipedia.org/wiki/Le_Paysan_de_Paris?oldid=598620186</value>
+</wikilink>
+</XML_Serializer_Tag>
+<XML_Serializer_Tag>
+<book>
+<type>uri</type>
+<value>http://dbpedia.org/resource/La_Semaine_Sainte</value>
+</book>
+<author>
+<type>uri</type>
+<value>http://dbpedia.org/resource/Louis_Aragon</value>
+</author>
+<wikilink>
+<type>uri</type>
+<value>http://en.wikipedia.org/wiki/La_Semaine_Sainte?oldid=545137940</value>
+</wikilink>
+</XML_Serializer_Tag>
+</books>
+</Person>

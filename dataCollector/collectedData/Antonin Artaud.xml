@@ -24,8 +24,10 @@
 <XML_Serializer_Tag>Dramatiker</XML_Serializer_Tag>
 <XML_Serializer_Tag>Zeichner</XML_Serializer_Tag>
 </professionOrOccupation>
-<artworks />
 <dbpResource>http://dbpedia.org/resource/Antonin_Artaud</dbpResource>
 <abstract>Antonin Artaud (* 4. September 1896 in Marseille; † 4. März 1948 in Ivry-sur-Seine) war ein französischer Schauspieler, Dramatiker, Regisseur, Zeichner, Dichter und Theater-Theoretiker.</abstract>
 <wikilink>http://en.wikipedia.org/wiki/Antonin_Artaud?oldid=606747200</wikilink>
+<artworks />
+<buildings />
+<books />
 </Person>

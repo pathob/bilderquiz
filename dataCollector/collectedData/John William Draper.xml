@@ -1,0 +1,27 @@
+<Person>
+<name>John William Draper</name>
+<variantName>
+<XML_Serializer_Tag>Juan Guillermo Draper</XML_Serializer_Tag>
+<XML_Serializer_Tag>Dzhon Uiliam Dreper</XML_Serializer_Tag>
+<XML_Serializer_Tag>John W. Draper</XML_Serializer_Tag>
+</variantName>
+<thumbnail>https://commons.wikimedia.org/wiki/Special:FilePath/John_William_Draper.jpg?width=270</thumbnail>
+<birthEN>1811</birthEN>
+<birthDE>1811</birthDE>
+<deathEN>1882</deathEN>
+<deathDE>1882</deathDE>
+<birthPlace>
+<XML_Serializer_Tag>Liverpool</XML_Serializer_Tag>
+</birthPlace>
+<deathPlace />
+<professionOrOccupation>
+<XML_Serializer_Tag>Chemiker</XML_Serializer_Tag>
+<XML_Serializer_Tag>Autor</XML_Serializer_Tag>
+</professionOrOccupation>
+<dbpResource>http://dbpedia.org/resource/John_William_Draper</dbpResource>
+<abstract>John William Draper (* 5. Mai 1811 in St. Helens bei Liverpool; † 4. Januar 1882 in Hastings bei New York) war ein angelsächsischer Naturwissenschaftler, Historiker und Pionier der Fotografie.</abstract>
+<wikilink>http://en.wikipedia.org/wiki/John_William_Draper?oldid=605700875</wikilink>
+<artworks />
+<buildings />
+<books />
+</Person>

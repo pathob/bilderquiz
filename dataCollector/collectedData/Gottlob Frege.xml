@@ -1,0 +1,29 @@
+<Person>
+<name>Gottlob Frege</name>
+<variantName>
+<XML_Serializer_Tag>Friedrich Ludwig Gottlob Frege</XML_Serializer_Tag>
+<XML_Serializer_Tag>Friedrich L. Frege</XML_Serializer_Tag>
+<XML_Serializer_Tag>Gotlob Frege</XML_Serializer_Tag>
+<XML_Serializer_Tag>G. Frege</XML_Serializer_Tag>
+<XML_Serializer_Tag>גוטלוב פרגה</XML_Serializer_Tag>
+</variantName>
+<thumbnail>https://commons.wikimedia.org/wiki/Special:FilePath/Young_frege.jpg?width=270</thumbnail>
+<birthEN>1848</birthEN>
+<birthDE>1848</birthDE>
+<deathEN>1925</deathEN>
+<deathDE>1925</deathDE>
+<birthPlace>
+<XML_Serializer_Tag>Wismar</XML_Serializer_Tag>
+</birthPlace>
+<deathPlace />
+<professionOrOccupation>
+<XML_Serializer_Tag>Mathematiker</XML_Serializer_Tag>
+<XML_Serializer_Tag>Philosoph</XML_Serializer_Tag>
+</professionOrOccupation>
+<dbpResource>http://dbpedia.org/resource/Gottlob_Frege</dbpResource>
+<abstract>Friedrich Ludwig Gottlob Frege (* 8. November 1848 in Wismar; † 26. Juli 1925 in Bad Kleinen) war ein deutscher Logiker, Mathematiker und Philosoph.Seine herausragende Leistung auf dem Gebiet der Logik besteht darin, als erster eine formale Sprache und, damit zusammenhängend, formale Beweise entwickelt zu haben. Er schuf dadurch eine wesentliche Grundlage für die heutige Computertechnik und Informatik, sowie für formale Methoden in der linguistischen Semantik.Im Bereich der Philosophie waren seine sprachphilosophischen Betrachtungen außerordentlich einflussreich. Unmittelbar beeinflusst hat er u. a. Rudolf Carnap, der bei Frege studierte, Bertrand Russell und Ludwig Wittgenstein. Er gilt als einer der hauptsächlichen Wegbereiter der analytischen Philosophie, einer der wichtigsten Strömungen der Philosophie des 20. Jahrhunderts.</abstract>
+<wikilink>http://en.wikipedia.org/wiki/Gottlob_Frege?oldid=604426098</wikilink>
+<artworks />
+<buildings />
+<books />
+</Person>

@@ -1,0 +1,29 @@
+<Person>
+<name>Annibale Caro</name>
+<variantName>
+<XML_Serializer_Tag>Annibal Caro</XML_Serializer_Tag>
+<XML_Serializer_Tag>Agresto, da Ficaruolo</XML_Serializer_Tag>
+<XML_Serializer_Tag>... Agresto da Ficaruolo</XML_Serializer_Tag>
+<XML_Serializer_Tag>Pasquino, Maestro</XML_Serializer_Tag>
+<XML_Serializer_Tag>Pasquino Romano, Maestro</XML_Serializer_Tag>
+<XML_Serializer_Tag>Pasquino, Romano</XML_Serializer_Tag>
+<XML_Serializer_Tag>Hannibal Caro</XML_Serializer_Tag>
+<XML_Serializer_Tag>Hannibal Carus</XML_Serializer_Tag>
+</variantName>
+<thumbnail>https://commons.wikimedia.org/wiki/Special:FilePath/Annibal_Caro.jpg?width=270</thumbnail>
+<birthEN>1507</birthEN>
+<birthDE>1507</birthDE>
+<deathEN>1566</deathEN>
+<deathDE>1566</deathDE>
+<birthPlace />
+<deathPlace />
+<professionOrOccupation>
+<XML_Serializer_Tag>Schriftsteller</XML_Serializer_Tag>
+</professionOrOccupation>
+<dbpResource>http://dbpedia.org/resource/Annibale_Caro</dbpResource>
+<abstract>Annibale Caro (* 19. Juni 1507 in Civitanova Marche, Marken; † 21. November 1566 in Rom) war ein italienischer Dichter.</abstract>
+<wikilink>http://en.wikipedia.org/wiki/Annibale_Caro?oldid=601717961</wikilink>
+<artworks />
+<buildings />
+<books />
+</Person>

@@ -1,0 +1,26 @@
+<Person>
+<name>Hiroshi Sugimoto</name>
+<variantName>
+<XML_Serializer_Tag>Hiroshi Sugimoto</XML_Serializer_Tag>
+<XML_Serializer_Tag>... Sugimoto</XML_Serializer_Tag>
+</variantName>
+<thumbnail>https://commons.wikimedia.org/wiki/Special:FilePath/Hiroshi_Sugimoto_Berlin.jpg?width=270</thumbnail>
+<birthEN>1948</birthEN>
+<birthDE>1948</birthDE>
+<deathEN />
+<deathDE />
+<birthPlace>
+<XML_Serializer_Tag>Tokio</XML_Serializer_Tag>
+</birthPlace>
+<deathPlace />
+<professionOrOccupation>
+<XML_Serializer_Tag>Künstler</XML_Serializer_Tag>
+<XML_Serializer_Tag>Photograph</XML_Serializer_Tag>
+</professionOrOccupation>
+<dbpResource>http://dbpedia.org/resource/Hiroshi_Sugimoto</dbpResource>
+<abstract>Hiroshi Sugimoto (jap. 杉本博司, Sugimoto Hiroshi, * 23. Februar 1948 in Tokio, Japan) ist ein japanischer Fotograf, der in New York, USA, lebt und arbeitet.</abstract>
+<wikilink>http://en.wikipedia.org/wiki/Hiroshi_Sugimoto?oldid=594599755</wikilink>
+<artworks />
+<buildings />
+<books />
+</Person>

@@ -1,0 +1,30 @@
+<Person>
+<name>Karlheinz Deschner</name>
+<variantName>
+<XML_Serializer_Tag>Karl Heinrich Leopold Deschner</XML_Serializer_Tag>
+<XML_Serializer_Tag>Karlchajnc Dešner</XML_Serializer_Tag>
+<XML_Serializer_Tag>Karlhajnc Dešner</XML_Serializer_Tag>
+<XML_Serializer_Tag>Karl H. Deschner</XML_Serializer_Tag>
+</variantName>
+<thumbnail>https://commons.wikimedia.org/wiki/Special:FilePath/Deschner_Albert.JPG?width=270</thumbnail>
+<birthEN>May 23, 1924</birthEN>
+<birthDE>23. Mai 1924</birthDE>
+<deathEN>April 8, 2014</deathEN>
+<deathDE>8. April 2014</deathDE>
+<birthPlace>
+<XML_Serializer_Tag>Bamberg</XML_Serializer_Tag>
+</birthPlace>
+<deathPlace>
+<XML_Serializer_Tag>Haßfurt</XML_Serializer_Tag>
+</deathPlace>
+<professionOrOccupation>
+<XML_Serializer_Tag>Schriftsteller</XML_Serializer_Tag>
+<XML_Serializer_Tag>Kritiker</XML_Serializer_Tag>
+</professionOrOccupation>
+<dbpResource>http://dbpedia.org/resource/Karlheinz_Deschner</dbpResource>
+<abstract>Karlheinz Deschner (* 23. Mai 1924 in Bamberg; † 8. April 2014 in Haßfurt; eigentlich Karl Heinrich Leopold Deschner) war ein deutscher Schriftsteller und Religions- und Kirchenkritiker. Zu seinen Werken zählen Abermals krähte der Hahn (1962) und die 2013 mit dem zehnten Band fertiggestellte Kriminalgeschichte des Christentums.</abstract>
+<wikilink>http://en.wikipedia.org/wiki/Karlheinz_Deschner?oldid=606030072</wikilink>
+<artworks />
+<buildings />
+<books />
+</Person>

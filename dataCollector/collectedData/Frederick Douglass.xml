@@ -1,0 +1,50 @@
+<Person>
+<name>Frederick Douglass</name>
+<variantName>
+<XML_Serializer_Tag>Frederick A. Bailey</XML_Serializer_Tag>
+<XML_Serializer_Tag>Frederick Augustus Washington Bailey</XML_Serializer_Tag>
+<XML_Serializer_Tag>Freddie Bailey</XML_Serializer_Tag>
+<XML_Serializer_Tag>Fred Bailey</XML_Serializer_Tag>
+</variantName>
+<thumbnail>https://commons.wikimedia.org/wiki/Special:FilePath/Frederick_Douglass.jpg?width=270</thumbnail>
+<birthEN>1818</birthEN>
+<birthDE>1818</birthDE>
+<deathEN>1895</deathEN>
+<deathDE>1895</deathDE>
+<birthPlace />
+<deathPlace />
+<professionOrOccupation>
+<XML_Serializer_Tag>Schriftsteller</XML_Serializer_Tag>
+<XML_Serializer_Tag>Journalist</XML_Serializer_Tag>
+</professionOrOccupation>
+<dbpResource>http://dbpedia.org/resource/Frederick_Douglass</dbpResource>
+<abstract>Frederick Douglass (* 1817 oder 1818 im Talbot County, Maryland; † 20. Februar 1895 in Washington, D.C.; gebürtig Frederick Augustus Washington Bailey) war ein ehemaliger Sklave und späterer Abolitionist und Schriftsteller. Er galt als einflussreichster Afroamerikaner des 19. Jahrhunderts.</abstract>
+<wikilink>http://en.wikipedia.org/wiki/Frederick_Douglass?oldid=606051416</wikilink>
+<artworks />
+<buildings />
+<books>
+<XML_Serializer_Tag>
+<book>
+<type>uri</type>
+<value>http://dbpedia.org/resource/Narrative_of_the_Life_of_Frederick_Douglass,_an_American_Slave</value>
+</book>
+<author>
+<type>uri</type>
+<value>http://dbpedia.org/resource/Frederick_Douglass</value>
+</author>
+<thumbnail>
+<type>uri</type>
+<value>http://commons.wikimedia.org/wiki/Special:FilePath/LifeOfFrederickDouglassCover.jpg?width=300</value>
+</thumbnail>
+<released>
+<type>typed-literal</type>
+<datatype>http://www.w3.org/2001/XMLSchema#integer</datatype>
+<value>1845</value>
+</released>
+<wikilink>
+<type>uri</type>
+<value>http://en.wikipedia.org/wiki/Narrative_of_the_Life_of_Frederick_Douglass,_an_American_Slave?oldid=606511492</value>
+</wikilink>
+</XML_Serializer_Tag>
+</books>
+</Person>

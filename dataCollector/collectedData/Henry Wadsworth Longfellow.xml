@@ -1,0 +1,28 @@
+<Person>
+<name>Henry Wadsworth Longfellow</name>
+<variantName>
+<XML_Serializer_Tag>Henry W. Longfellow</XML_Serializer_Tag>
+<XML_Serializer_Tag>Henry Wadsworth Longfellow</XML_Serializer_Tag>
+<XML_Serializer_Tag>Enrico W. Longfellow</XML_Serializer_Tag>
+<XML_Serializer_Tag>H. W. Longfellow</XML_Serializer_Tag>
+<XML_Serializer_Tag>Heinrich W. Longfellow</XML_Serializer_Tag>
+<XML_Serializer_Tag>Genrich Longfello</XML_Serializer_Tag>
+<XML_Serializer_Tag>Genri Uodsuort Longfello</XML_Serializer_Tag>
+</variantName>
+<thumbnail>https://commons.wikimedia.org/wiki/Special:FilePath/Henry_Wadsworth_Longfellow_by_Southworth_&amp;_Hawes_c1850_restored.jpg?width=270</thumbnail>
+<birthEN>February 27, 1807</birthEN>
+<birthDE>27. Februar 1807</birthDE>
+<deathEN>March 24, 1882</deathEN>
+<deathDE>24. März 1882</deathDE>
+<birthPlace />
+<deathPlace />
+<professionOrOccupation>
+<XML_Serializer_Tag>Schriftsteller</XML_Serializer_Tag>
+</professionOrOccupation>
+<dbpResource>http://dbpedia.org/resource/Henry_Wadsworth_Longfellow</dbpResource>
+<abstract>Henry Wadsworth Longfellow (* 27. Februar 1807 in Portland, Massachusetts, heute Maine; † 24. März 1882 in Cambridge, Massachusetts) war ein amerikanischer Schriftsteller, Lyriker, Übersetzer und Dramatiker.</abstract>
+<wikilink>http://en.wikipedia.org/wiki/Henry_Wadsworth_Longfellow?oldid=606479135</wikilink>
+<artworks />
+<buildings />
+<books />
+</Person>

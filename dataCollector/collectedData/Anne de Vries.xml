@@ -1,0 +1,43 @@
+<Person>
+<name>Anne de Vries</name>
+<variantName>
+<XML_Serializer_Tag>Anne De Vries</XML_Serializer_Tag>
+<XML_Serializer_Tag>Margreet Brouwer</XML_Serializer_Tag>
+<XML_Serializer_Tag>, jr.</XML_Serializer_Tag>
+<XML_Serializer_Tag>Daan Deken</XML_Serializer_Tag>
+<XML_Serializer_Tag>J. M. Geldermans</XML_Serializer_Tag>
+<XML_Serializer_Tag>M. de Groot</XML_Serializer_Tag>
+<XML_Serializer_Tag>A. van de Heide</XML_Serializer_Tag>
+<XML_Serializer_Tag>J. de B.</XML_Serializer_Tag>
+<XML_Serializer_Tag>W. Jespers</XML_Serializer_Tag>
+<XML_Serializer_Tag>Hilda de Jong</XML_Serializer_Tag>
+<XML_Serializer_Tag>A. de Klerk</XML_Serializer_Tag>
+<XML_Serializer_Tag>J. Kloosterveen</XML_Serializer_Tag>
+<XML_Serializer_Tag>H. Mast</XML_Serializer_Tag>
+<XML_Serializer_Tag>A. Nassau</XML_Serializer_Tag>
+<XML_Serializer_Tag>C. Vredeling</XML_Serializer_Tag>
+<XML_Serializer_Tag>Anne DeVries</XML_Serializer_Tag>
+</variantName>
+<thumbnail>https://commons.wikimedia.org/wiki/Special:FilePath/Anne_de_Vries_01.PNG?width=270</thumbnail>
+<birthEN>May 22, 1904</birthEN>
+<birthDE>22. Mai 1904</birthDE>
+<deathEN>November 29, 1964</deathEN>
+<deathDE>29. November 1964</deathDE>
+<birthPlace>
+<XML_Serializer_Tag>Assen</XML_Serializer_Tag>
+</birthPlace>
+<deathPlace>
+<XML_Serializer_Tag>Zeist</XML_Serializer_Tag>
+</deathPlace>
+<professionOrOccupation>
+<XML_Serializer_Tag>Schriftsteller</XML_Serializer_Tag>
+<XML_Serializer_Tag>Kinderbuchautor</XML_Serializer_Tag>
+<XML_Serializer_Tag>Lehrer</XML_Serializer_Tag>
+</professionOrOccupation>
+<dbpResource>http://dbpedia.org/resource/Anne_de_Vries</dbpResource>
+<abstract>Anne de Vries (* 22. Mai 1904 in Assen, Niederlande; † 29. November 1964 in Zeist) war ein niederländischer Schriftsteller.In den Niederlanden wurde Anne de Vries vor allem durch zwei Romane um den Drenther Jungen Bartje berühmt. In Deutschland wurde er eher durch seine Kinderbibeln bekannt.</abstract>
+<wikilink>http://en.wikipedia.org/wiki/Anne_de_Vries?oldid=564221377</wikilink>
+<artworks />
+<buildings />
+<books />
+</Person>

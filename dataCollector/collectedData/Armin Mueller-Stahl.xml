@@ -22,8 +22,10 @@
 <XML_Serializer_Tag>Regisseur</XML_Serializer_Tag>
 <XML_Serializer_Tag>Drehbuchautor</XML_Serializer_Tag>
 </professionOrOccupation>
-<artworks />
 <dbpResource>http://dbpedia.org/resource/Armin_Mueller-Stahl</dbpResource>
 <abstract>Armin Mueller-Stahl (* 17. Dezember 1930 in Tilsit, Ostpreußen) ist ein deutscher Schauspieler, Musiker, Maler und Schriftsteller. Als einziger deutscher Filmschauspieler erhielt er in beiden deutschen Staaten und auch in Hollywoods Filmindustrie große Anerkennung.</abstract>
 <wikilink>http://en.wikipedia.org/wiki/Armin_Mueller-Stahl?oldid=604900526</wikilink>
+<artworks />
+<buildings />
+<books />
 </Person>

@@ -20,8 +20,10 @@
 <XML_Serializer_Tag>Künstler</XML_Serializer_Tag>
 <XML_Serializer_Tag>Maler</XML_Serializer_Tag>
 </professionOrOccupation>
-<artworks />
 <dbpResource>http://dbpedia.org/resource/Tom_Wesselmann</dbpResource>
 <abstract>Tom Wesselmann (* 23. Februar 1931 in Cincinnati, Ohio; † 17. Dezember 2004 in New York) war ein US-amerikanischer Maler, Grafiker und Objektkünstler.</abstract>
 <wikilink>http://en.wikipedia.org/wiki/Tom_Wesselmann?oldid=603308044</wikilink>
+<artworks />
+<buildings />
+<books />
 </Person>

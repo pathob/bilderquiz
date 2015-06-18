@@ -14,8 +14,10 @@
 <XML_Serializer_Tag>Maler</XML_Serializer_Tag>
 <XML_Serializer_Tag>Lithograph</XML_Serializer_Tag>
 </professionOrOccupation>
-<artworks />
 <dbpResource>http://dbpedia.org/resource/Franz_von_Seitz</dbpResource>
 <abstract>Franz von Seitz (* 31. Dezember 1817 in München; † 13. April 1883 ebenda) war ein deutscher Maler, Lithograf, Radierer und Kostümbildner sowie Hochschullehrer und Theaterdirektor.</abstract>
 <wikilink>http://en.wikipedia.org/wiki/Franz_von_Seitz?oldid=604293313</wikilink>
+<artworks />
+<buildings />
+<books />
 </Person>

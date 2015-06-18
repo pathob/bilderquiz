@@ -20,8 +20,10 @@
 <XML_Serializer_Tag>Künstler</XML_Serializer_Tag>
 <XML_Serializer_Tag>Maler</XML_Serializer_Tag>
 </professionOrOccupation>
-<artworks />
 <dbpResource>http://dbpedia.org/resource/Chaim_Soutine</dbpResource>
 <abstract>Chaim Soutine (* 1893 in Smilavichy, Weißrussland; † 9. August 1943 in Paris; eigentlich Chaim Soutin) war ein weißrussischer Maler jüdischer Abstammung.</abstract>
 <wikilink>http://en.wikipedia.org/wiki/Chaim_Soutine?oldid=604516824</wikilink>
+<artworks />
+<buildings />
+<books />
 </Person>

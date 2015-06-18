@@ -1,0 +1,31 @@
+<Person>
+<name>Johann Caspar Bagnato</name>
+<variantName>
+<XML_Serializer_Tag>Giovanni Gaspare Bagnato</XML_Serializer_Tag>
+<XML_Serializer_Tag>Hans Kaspar Bagnato</XML_Serializer_Tag>
+<XML_Serializer_Tag>Johann C. Bagnato</XML_Serializer_Tag>
+<XML_Serializer_Tag>Hans Kaspar Bangnato</XML_Serializer_Tag>
+<XML_Serializer_Tag>Giovanni Caspare Pagnato</XML_Serializer_Tag>
+</variantName>
+<thumbnail>https://commons.wikimedia.org/wiki/Special:FilePath/Klingnau_Probstei.jpg?width=270</thumbnail>
+<birthEN>September 13, 1696</birthEN>
+<birthDE>13. September 1696</birthDE>
+<deathEN>June 15, 1757</deathEN>
+<deathDE>15. Juni 1757</deathDE>
+<birthPlace>
+<XML_Serializer_Tag>Landau in der Pfalz</XML_Serializer_Tag>
+</birthPlace>
+<deathPlace>
+<XML_Serializer_Tag>Mainau</XML_Serializer_Tag>
+</deathPlace>
+<professionOrOccupation>
+<XML_Serializer_Tag>Architekt</XML_Serializer_Tag>
+<XML_Serializer_Tag>Steinmetz</XML_Serializer_Tag>
+</professionOrOccupation>
+<dbpResource>http://dbpedia.org/resource/Johann_Caspar_Bagnato</dbpResource>
+<abstract>Johann Caspar Bagnato, auch Giovanni Gaspare Bagnato (* 1696 in Landau in der Pfalz; † 15. Juli 1757 auf der Bodenseeinsel Mainau), war ein Baumeister des Barock in Südwestdeutschland. Er war Baudirektor der Deutschordensballei Schwaben-Elsass-Burgund. Bagnatos Vater stammte aus Peccia im Tessin, seine Mutter Anna Maria Stickelmeyer aus Deutschland. Johann Caspar Bagnatos Sohn Franz (Ignaz) Anton Bagnato (1731–1810) war ebenfalls Baumeister.1729 wurde Bagnato vom Deutschen Orden beauftragt, das Schloss Altshausen in großem Stil umzugestalten. Von den Plänen wurde jedoch nur ein kleiner Teil verwirklicht.</abstract>
+<wikilink>http://en.wikipedia.org/wiki/Johann_Caspar_Bagnato?oldid=590143342</wikilink>
+<artworks />
+<buildings />
+<books />
+</Person>

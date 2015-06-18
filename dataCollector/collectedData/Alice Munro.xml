@@ -1,0 +1,150 @@
+<Person>
+<name>Alice Munro</name>
+<variantName>
+<XML_Serializer_Tag>Alice Laidlaw</XML_Serializer_Tag>
+<XML_Serializer_Tag>Alice Ann Laidlaw</XML_Serializer_Tag>
+</variantName>
+<thumbnail>https://commons.wikimedia.org/wiki/Special:FilePath/Alice_Munro_teikna_av_Andreas_Vartdal_cc-by-sa_).jpg?width=270</thumbnail>
+<birthEN>1931</birthEN>
+<birthDE>1931</birthDE>
+<deathEN />
+<deathDE />
+<birthPlace>
+<XML_Serializer_Tag>Wingham</XML_Serializer_Tag>
+</birthPlace>
+<deathPlace />
+<professionOrOccupation>
+<XML_Serializer_Tag>Schriftstellerin</XML_Serializer_Tag>
+</professionOrOccupation>
+<dbpResource>http://dbpedia.org/resource/Alice_Munro</dbpResource>
+<abstract>Alice Munro (geborene Alice Ann Laidlaw; * 10. Juli 1931 in Wingham, Ontario, Kanada) ist eine kanadische Schriftstellerin und Literaturnobelpreisträgerin, deren Werk mehr als 150 Kurzgeschichten umfasst. Alice Munro hat die Struktur von Kurzgeschichten revolutioniert. Die Geschichten, die sich durch sprachlichen Feinschliff auszeichnen, beginnen oft an einer unerwarteten Stelle, anschließend wird die Erzählung chronologisch rückwärts oder vorwärts entwickelt.Mit ihren Erzählungen knüpft Munro an die angelsächsische Tradition der Short Story an und wird oft mit Anton Tschechow, dem russischen Meister dieser Form, verglichen. In Kanada und im englischsprachigen Raum ist Alice Munro eine Bestsellerautorin. Sie wurde mit zahlreichen Preisen ausgezeichnet, unter anderem 2009 mit dem Man Booker International Prize und 2013 mit dem Nobelpreis für Literatur.</abstract>
+<wikilink>http://en.wikipedia.org/wiki/Alice_Munro?oldid=606182454</wikilink>
+<artworks />
+<buildings />
+<books>
+<XML_Serializer_Tag>
+<book>
+<type>uri</type>
+<value>http://dbpedia.org/resource/Too_Much_Happiness</value>
+</book>
+<author>
+<type>uri</type>
+<value>http://dbpedia.org/resource/Alice_Munro</value>
+</author>
+<released>
+<type>typed-literal</type>
+<datatype>http://www.w3.org/2001/XMLSchema#date</datatype>
+<value>2009-08-25+02:00</value>
+</released>
+<wikilink>
+<type>uri</type>
+<value>http://en.wikipedia.org/wiki/Too_Much_Happiness?oldid=588982563</value>
+</wikilink>
+<abstract>
+<type>literal</type>
+<xml:lang>de</xml:lang>
+<value>Zu viel Glück (im Original To much Happiness, 2009) ist der dreizehnte Band mit Erzählungen von Alice Munro. Einige der enthaltenen Werke wurden mit der Bekanntgabe des Nobelpreises für Alice Munro in der bei The New Yorker erschienenen Fassung frei online lesbar gemacht. Die deutschsprachige Übersetzung von Heidi Zerning, 2011 bei S. Fischer in Frankfurt am Main verlegt, umfasst 362 Seiten. Die Sammlung trägt die Widmung „To David Connelly“. Der Titel der Sammlung könne in seiner Ironie kaum grausamer sein, denn mit einem Zuviel an Glück müssten sich die Menschen, die hier vorkommen, definitiv nicht herumschlagen. Es gebe sieben Morde, einen tödlichen Autounfall, Tode infolge diverser Krankheiten, einen Freitod und eine Selbstverstümmelung, Ehen, die enden, und es würden Leute physisch oder mental gebrandmarkt. So heißt es in Peter Kemps Eröffnung seines Review des Bandes in der Sunday Times im August 2009.Zu viel Glück enthält Stories, die zwar mit Sensationen wie Doppelspiel, Diebstahl und Gewalt aufwarten. Diese sind aber wenig mehr als ein Vorspann für subtile und weitreichende thematische Reflexionen per Nachhall, meint Leah Hager Cohen in ihrer Rezension in der New York Times im November 2009. Sogar die Form der Dinge scheine sich zu wandeln, während wir weiterlesen und derweil überlegen, was wir wichtig finden und warum. Die Überraschungen in der Entwicklung einer Story hätten anfangs einen destabilisierenden Effekt, danach seien sie auf unerwartete Weise bestätigend. Neun der zehn Werke dieses Bandes hätten gemeinsam, dass sie nicht in Zentren großer Städte spielen, sondern in Vorstädten oder auf dem Land. In ihnen gehe es darum, wie physische und subtile Gewalt zum Alltag gehört, wie Menschen miteinander umgehen und das Leben trotzdem weitergeht. Munro erzähle ohne Aufregung und in feinen Nuancierungen von Mord und Totschlag, von Ahnungslosigkeit, Hilflosigkeit, Schuldigwerden und Wehrhaftigkeit. Die Titelgeschichte sei insofern besonders, als an den äußeren Daten nichts erfunden sei, sondern auf historischen Fakten des Lebens der Mathematikerin Sofia Kowalewskaja beruhe, das im 19. Jahrhundert in Russland beginnt und in Stockholm im Alter von 41 Jahren endet. In diesem Band sei „die Tönung der Szenen [...] insgesamt eingedunkelt“, es sei mehr von Abschied die Rede, aber weder sei die Stimmung düster noch der Ausblick pessimistisch oder melancholisch. Meyer-Gosau meint, dass die literarischen Mittel kaum Zweifel darüber ließen, ob das, was erzählt wird, sich tatsächlich so konsequent vollzieht, wie dies suggeriert werde.Die Story „Wenlock Edge“ sei von der Erzähltechnik her in miteinander verschränkten Behältern (emboîtement) konstruiert und stehe auch inhaltlich in enger Beziehung zu dem mittelenglischen Werk Sir Gawain and the Green Knight, schreibt die Literaturwissenschaftlerin Joanna Luft. Ähnlich wie bei Sir Gawain offenbare das emboîtement in Wenlock Edge sowohl Verräterisches als auch Komplizenhaftes bezüglich der Beziehungsarrangements, in die sich die Hauptfigur selbst verwickelt hat.</value>
+</abstract>
+</XML_Serializer_Tag>
+<XML_Serializer_Tag>
+<book>
+<type>uri</type>
+<value>http://dbpedia.org/resource/Runaway_(book)</value>
+</book>
+<author>
+<type>uri</type>
+<value>http://dbpedia.org/resource/Alice_Munro</value>
+</author>
+<released>
+<type>typed-literal</type>
+<datatype>http://www.w3.org/2001/XMLSchema#integer</datatype>
+<value>2004</value>
+</released>
+<wikilink>
+<type>uri</type>
+<value>http://en.wikipedia.org/wiki/Runaway_(book)?oldid=603260616</value>
+</wikilink>
+<abstract>
+<type>literal</type>
+<xml:lang>de</xml:lang>
+<value>Tricks. Acht Erzählungen (im Original Runaway, 2004) ist die elfte Sammlung mit Kurzgeschichten von Alice Munro. In der Titelstory würden Munros Stärken deutlich: wie Schilderungen im Detail und in der Totale sich ergänzen, wie die Figuren beobachtet, aber nicht kritisiert werden, wie unterschwellig die Teilnahme bleibt, so dass Leser sich einlassen können, aber nicht müssen, und wie raffiniert die Handlung aufgebaut sei, deren Konstruiertheit unspürbar ist, so Tilman Spreckelsen, der in seinem Artikel in der FAZ zum Nobelpreis für Alice Munro die Titelstory dieser Sammlung als Beispiel nimmt.Auch Annette Traks in ihrer umfassenden Rezension der Sammlung in The Huffington Post streicht heraus, dass Figuren lediglich durch ihr Reden und Handeln charakterisiert würden, bzw. durch ihr Nichthandeln. Traks resümiert, dass es wohltuend sei, wie Munro auf mündige Leser setze.Jonathan Franzen meint in seinem Review dieses Bandes für The New York Times, dass es in Runaway sogar noch bessere Erzählungen gebe als The Bear Came Over the Mountain (1999 / 2001), denn die hier enthaltenen Werke seien gewagter, blutiger, tiefgründiger und weiter gefasst.Die deutschsprachige Fassung von Heidi Zerning wurde erstmals 2006 bei S. Fischer in Frankfurt am Main verlegt. In der 6. Auflage von 2013 ist der Band 379 Seiten stark. Die Originalausgabe von Runaway umfasst 335 Seiten und wurde 2004 mit dem Giller-Preis ausgezeichnet.</value>
+</abstract>
+</XML_Serializer_Tag>
+<XML_Serializer_Tag>
+<book>
+<type>uri</type>
+<value>http://dbpedia.org/resource/The_Progress_of_Love</value>
+</book>
+<author>
+<type>uri</type>
+<value>http://dbpedia.org/resource/Alice_Munro</value>
+</author>
+<published>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>Douglas Gibson Books , 1986</value>
+</published>
+<wikilink>
+<type>uri</type>
+<value>http://en.wikipedia.org/wiki/The_Progress_of_Love?oldid=597509061</value>
+</wikilink>
+<abstract>
+<type>literal</type>
+<xml:lang>de</xml:lang>
+<value>The Progress of Love (1985/1986) ist eine Short Story von Alice Munro, in der es unter anderem um veränderte Liebesverhältnisse geht.In diesem Werk werden Ereignisse aus drei Generationen miteinander verschränkt. Zum Teil kommen sie erst aus Anlass des Besuchs der weit entfernt wohnenden Schwester der Mutter zur Sprache. Neue Gesprächssituationen ergeben durch einen gemeinsamen Restaurantbesuch, der von den Gästen spendiert wird. Die beiden Schwestern ebenso wie die Tochter der einen, die die Erzählerin ist, merken, dass es von einem erinnerten Ereignis zwei verschiedene Versionen geben kann, die gleichermaßen plausibel zu sein scheinen. Es werden zwei Ereignisse aus verschiedenen Perspektiven beleuchtet, mit denen in einem Fall die Mutter der Erzählerin als Kind zu tun hatte und die beiden Schwestern als Beobachterinnen und im anderen Fall die Erzählerin als Kind als vermeintliche Beobachterin der Mutter, die etwas tut, von dem sie später eine andere Version erzählen wird als die Tochter es zu erinnern meint. Das erste Ereignis handelt vom Verhältnis der Großeltern mütterlicherseits zueinander, das zweite vom Verhältnis der Mutter zu deren Vater und was sie mit der Erbschaft unternimmt, die sie nicht haben will. Die beiden Männer der älteren Generation, zum einen der Ehemann der Mutter und zum anderen der Begleiter der Schwester, scheinen im Verlauf der Geschichte keine große Rolle zu spielen. Als das Elternhaus der Erzählerin in deren Erwachsenenalter erneut den Besitzer wechseln soll, nutzt die Erzählerin die Gelegenheit, einen Arbeitskollegen dorthin zu begleiten, der den Auftrag hat, das Objekt zu begehen. Über erotisch deutbare Aussagen des Kollegen zu den Wandmalereien der Kommunarden, die das Haus zuletzt bewohnt haben, gelangen die Erzählerin und ihr Kollege andeutungsweise zu einem Fortschritt in ihrem Verhältnis. Die Geschichte endet mit einer Verwunderung der Ich-Erzählerin über Paare, die ihre Zeit so unerquicklich miteinander verbrächten als würden sie ewig zu leben haben.Margaret Atwood zitiert in ihrer Würdigung zu Alice Munros Nobelpreis in The Guardian die folgende Passage aus diesem Werk: „How hard it is for me to believe that I made that up. It seems so much the truth it is the truth; it&apos;s what I believe about them. I haven&apos;t stopped believing it“ (Abschnitt 16). James Wood meint, auch in diesem Werk erweise sich Alice Munros scharfes Auge für das Komische im Detail, insbesondere für die Komödie des Verwöhntseins, und er zitiert die Beschreibung des Begleiters der Schwester der Mutter und wie er sein Auto liebt.</value>
+</abstract>
+</XML_Serializer_Tag>
+<XML_Serializer_Tag>
+<book>
+<type>uri</type>
+<value>http://dbpedia.org/resource/Lives_of_Girls_and_Women</value>
+</book>
+<author>
+<type>uri</type>
+<value>http://dbpedia.org/resource/Alice_Munro</value>
+</author>
+<wikilink>
+<type>uri</type>
+<value>http://en.wikipedia.org/wiki/Lives_of_Girls_and_Women?oldid=588982295</value>
+</wikilink>
+<abstract>
+<type>literal</type>
+<xml:lang>de</xml:lang>
+<value>Kleine Aussichten. Ein Roman von Mädchen und Frauen (im Original Lives of Girls and Women, 1971) ist die zweite Kurzgeschichtensammlung von Alice Munro. Eine deutschsprachige Übersetzung von Hildegard Petry erschien erstmals 1983 bei Klett-Cotta in Stuttgart. In der jüngsten Ausgabe beim Berliner Taschenbuch-Verlag 2006 hat die Sammlung einen Umfang von 362 Seiten.Die Hauptfigur Del Jordan besteht von Erzählung zu Erzählung Kämpfe und durchlebt wiederholt Krisen. Anfangs eher dazu geneigt, zwei getrennte Welten zu sehen, stellt sich im Laufe der Sammlung heraus, dass die Grenzen fließend sind und eine Entscheidung für eine der beiden Seiten nicht möglich und auch nicht sinnvoll ist, so Rae McCarthy MacDonald (1978) in einer Analyse der Sammlung, in der es heißt, der Band hätte die Form eines Romans. Jeremy Lalonde (2004) bezeichnet den Band als eine (Ab)Folge von Kurzgeschichten („short story sequence“).</value>
+</abstract>
+</XML_Serializer_Tag>
+<XML_Serializer_Tag>
+<book>
+<type>uri</type>
+<value>http://dbpedia.org/resource/Dear_Life</value>
+</book>
+<author>
+<type>uri</type>
+<value>http://dbpedia.org/resource/Alice_Munro</value>
+</author>
+<wikilink>
+<type>uri</type>
+<value>http://en.wikipedia.org/wiki/Dear_Life?oldid=594451494</value>
+</wikilink>
+<abstract>
+<type>literal</type>
+<xml:lang>de</xml:lang>
+<value>Liebes Leben. 14 Erzählungen (im Original Dear Life. Stories, 2012) ist Alice Munros vierzehnte Sammlung von Kurzgeschichten. In diesen jüngsten Werken der Nobelpreisträgerin für Literatur 2013 wird unter anderem erzählt über Varianten des Umgangs mit dem, was anfangs befremdlich erscheint, sowie über das Versönlichwerden – auch mit sich selbst.Erstmals gibt es in einer Sammlung von Munro eine weitere Gruppierung von Werken. Sie besteht aus vier Geschichten und trägt den Titel Finale. Die eine Hälfte der Geschichten des Bandes umfasst in der Originalsprache zwischen 13 Seiten und 20 Seiten, die andere Hälfte zwischen 23 und 40 Seiten. „Stimmen“ ist mit 13 Seiten das kürzeste, „Zug“ mit einer Länge von 40 Seiten das umfangreichste Werk der Sammlung. Zu den Werken „Amundsen“, „Abschied von Maverly“, „Heimstatt“ und „Zug“ hat sich Alice Munro in einem Interview von November 2012 selbst geäußert.Eine deutschsprachige Fassung des Bandes ist 2013 bei S. Fischer in Frankfurt am Main verlegt worden, in der Übersetzung von Heidi Zerning. Eine Auswahl in der Übersetzung von Reinhild Böhnke ist vorab 2013 als Hörbuch Liebes Leben bei Parlando in Berlin erschienen, gelesen von Christian Brückner und Sophie Rois.</value>
+</abstract>
+</XML_Serializer_Tag>
+<XML_Serializer_Tag>
+<book>
+<type>uri</type>
+<value>http://dbpedia.org/resource/Who_Do_You_Think_You_Are%3F_(book)</value>
+</book>
+<author>
+<type>uri</type>
+<value>http://dbpedia.org/resource/Alice_Munro</value>
+</author>
+<wikilink>
+<type>uri</type>
+<value>http://en.wikipedia.org/wiki/Who_Do_You_Think_You_Are%3F_(book)?oldid=605676727</value>
+</wikilink>
+</XML_Serializer_Tag>
+</books>
+</Person>

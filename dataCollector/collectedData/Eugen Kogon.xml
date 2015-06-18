@@ -1,0 +1,26 @@
+<Person>
+<name>Eugen Kogon</name>
+<variantName />
+<thumbnail>https://commons.wikimedia.org/wiki/Special:FilePath/Eugen_Kogon_1947.jpg?width=270</thumbnail>
+<birthEN>February 2, 1903</birthEN>
+<birthDE>2. Februar 1903</birthDE>
+<deathEN>July 24, 1987</deathEN>
+<deathDE>24. Juli 1987</deathDE>
+<birthPlace>
+<XML_Serializer_Tag>München</XML_Serializer_Tag>
+</birthPlace>
+<deathPlace>
+<XML_Serializer_Tag>Königstein im Taunus</XML_Serializer_Tag>
+</deathPlace>
+<professionOrOccupation>
+<XML_Serializer_Tag>Publizist</XML_Serializer_Tag>
+<XML_Serializer_Tag>Politologe</XML_Serializer_Tag>
+<XML_Serializer_Tag>Schriftsteller</XML_Serializer_Tag>
+</professionOrOccupation>
+<dbpResource>http://dbpedia.org/resource/Eugen_Kogon</dbpResource>
+<abstract>Eugen Kogon (* 2. Februar 1903 in München; † 24. Dezember 1987 in Königstein im Taunus) war ein deutscher Publizist, Soziologe und Politikwissenschaftler. Der christlich geprägte Gegner des Nationalsozialismus gilt als einer der intellektuellen Väter der Bundesrepublik Deutschland und der europäischen Integration in Deutschland.</abstract>
+<wikilink>http://en.wikipedia.org/wiki/Eugen_Kogon?oldid=598413344</wikilink>
+<artworks />
+<buildings />
+<books />
+</Person>

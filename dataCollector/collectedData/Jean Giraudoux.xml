@@ -1,0 +1,30 @@
+<Person>
+<name>Jean Giraudoux</name>
+<variantName>
+<XML_Serializer_Tag>Hippolyte Jean Giraudoux</XML_Serializer_Tag>
+<XML_Serializer_Tag>Jan̄ Jir̄ud̄u ̄</XML_Serializer_Tag>
+<XML_Serializer_Tag>Zan Ziron̄tou</XML_Serializer_Tag>
+<XML_Serializer_Tag>Za̕n Zi̕rodu</XML_Serializer_Tag>
+<XML_Serializer_Tag>Zan Zirodu</XML_Serializer_Tag>
+</variantName>
+<thumbnail>https://commons.wikimedia.org/wiki/Special:FilePath/Jean_Giraudoux_1927.jpg?width=270</thumbnail>
+<birthEN>October 29, 1882</birthEN>
+<birthDE>29. Oktober 1882</birthDE>
+<deathEN>January 31, 1944</deathEN>
+<deathDE>31. Januar 1944</deathDE>
+<birthPlace>
+<XML_Serializer_Tag>Bellac (Hte. Vienne)</XML_Serializer_Tag>
+</birthPlace>
+<deathPlace>
+<XML_Serializer_Tag>Paris</XML_Serializer_Tag>
+</deathPlace>
+<professionOrOccupation>
+<XML_Serializer_Tag>Schriftsteller</XML_Serializer_Tag>
+</professionOrOccupation>
+<dbpResource>http://dbpedia.org/resource/Jean_Giraudoux</dbpResource>
+<abstract>Jean Hyppolyte Giraudoux (* 29. Oktober 1882 in Bellac, Haute-Vienne; † 31. Januar 1944 in Paris) war ein französischer Berufsdiplomat, Drehbuchautor und Schriftsteller. Als solcher war er vor allem für die Entwicklung des französischen Theaters der Zwischenkriegszeit sehr bedeutsam.</abstract>
+<wikilink>http://en.wikipedia.org/wiki/Jean_Giraudoux?oldid=602140527</wikilink>
+<artworks />
+<buildings />
+<books />
+</Person>

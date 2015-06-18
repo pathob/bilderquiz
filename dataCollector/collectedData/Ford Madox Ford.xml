@@ -1,0 +1,177 @@
+<Person>
+<name>Ford Madox Ford</name>
+<variantName>
+<XML_Serializer_Tag>F. Hermann Hueffer</XML_Serializer_Tag>
+<XML_Serializer_Tag>Ford Hermann Hueffer</XML_Serializer_Tag>
+<XML_Serializer_Tag>Joseph Leopold Ford Hermann Madox Hueffer</XML_Serializer_Tag>
+<XML_Serializer_Tag>Ford Madox Hueffer</XML_Serializer_Tag>
+<XML_Serializer_Tag>F. M. Hueffer</XML_Serializer_Tag>
+<XML_Serializer_Tag>Ford Maddox Ford</XML_Serializer_Tag>
+<XML_Serializer_Tag>Ford Maddox Ford</XML_Serializer_Tag>
+<XML_Serializer_Tag>Ford Madox Ford</XML_Serializer_Tag>
+<XML_Serializer_Tag>Ford M. Ford</XML_Serializer_Tag>
+<XML_Serializer_Tag>Ford M. Hueffer</XML_Serializer_Tag>
+</variantName>
+<thumbnail>https://commons.wikimedia.org/wiki/Special:FilePath/Fordmadoxford.jpg?width=270</thumbnail>
+<birthEN>1873</birthEN>
+<birthDE>1873</birthDE>
+<deathEN>1939</deathEN>
+<deathDE>1939</deathDE>
+<birthPlace />
+<deathPlace />
+<professionOrOccupation>
+<XML_Serializer_Tag>Schriftsteller</XML_Serializer_Tag>
+</professionOrOccupation>
+<dbpResource>http://dbpedia.org/resource/Ford_Madox_Ford</dbpResource>
+<abstract>Ford Madox Ford, eigentlich Ford Hermann Hueffer (* 17. Dezember 1873 in Merton, Surrey, England; † 26. Juni 1939 in Deauville, Calvados, Frankreich) war ein englischer Schriftsteller.</abstract>
+<wikilink>http://en.wikipedia.org/wiki/Ford_Madox_Ford?oldid=605366783</wikilink>
+<artworks />
+<buildings />
+<books>
+<XML_Serializer_Tag>
+<book>
+<type>uri</type>
+<value>http://dbpedia.org/resource/The_Good_Soldier</value>
+</book>
+<author>
+<type>uri</type>
+<value>http://dbpedia.org/resource/Ford_Madox_Ford</value>
+</author>
+<thumbnail>
+<type>uri</type>
+<value>http://commons.wikimedia.org/wiki/Special:FilePath/The_Good_Soldier_First_Edition,_Ford_Madox_Ford.jpg?width=300</value>
+</thumbnail>
+<wikilink>
+<type>uri</type>
+<value>http://en.wikipedia.org/wiki/The_Good_Soldier?oldid=602984573</value>
+</wikilink>
+</XML_Serializer_Tag>
+<XML_Serializer_Tag>
+<book>
+<type>uri</type>
+<value>http://dbpedia.org/resource/Ladies_Whose_Bright_Eyes</value>
+</book>
+<author>
+<type>uri</type>
+<value>http://dbpedia.org/resource/Ford_Madox_Ford</value>
+</author>
+<released>
+<type>typed-literal</type>
+<datatype>http://www.w3.org/2001/XMLSchema#integer</datatype>
+<value>1911</value>
+</released>
+<wikilink>
+<type>uri</type>
+<value>http://en.wikipedia.org/wiki/Ladies_Whose_Bright_Eyes?oldid=587085715</value>
+</wikilink>
+</XML_Serializer_Tag>
+<XML_Serializer_Tag>
+<book>
+<type>uri</type>
+<value>http://dbpedia.org/resource/Parade&apos;s_End</value>
+</book>
+<author>
+<type>uri</type>
+<value>http://dbpedia.org/resource/Ford_Madox_Ford</value>
+</author>
+<released>
+<type>typed-literal</type>
+<datatype>http://www.w3.org/2001/XMLSchema#integer</datatype>
+<value>1924</value>
+</released>
+<wikilink>
+<type>uri</type>
+<value>http://en.wikipedia.org/wiki/Parade&apos;s_End?oldid=593882916</value>
+</wikilink>
+</XML_Serializer_Tag>
+<XML_Serializer_Tag>
+<book>
+<type>uri</type>
+<value>http://dbpedia.org/resource/The_Inheritors_(Joseph_Conrad_and_Ford_Madox_Ford)</value>
+</book>
+<author>
+<type>uri</type>
+<value>http://dbpedia.org/resource/Ford_Madox_Ford</value>
+</author>
+<released>
+<type>typed-literal</type>
+<datatype>http://www.w3.org/2001/XMLSchema#integer</datatype>
+<value>1901</value>
+</released>
+<wikilink>
+<type>uri</type>
+<value>http://en.wikipedia.org/wiki/The_Inheritors_(Joseph_Conrad_and_Ford_Madox_Ford)?oldid=592666786</value>
+</wikilink>
+</XML_Serializer_Tag>
+<XML_Serializer_Tag>
+<book>
+<type>uri</type>
+<value>http://dbpedia.org/resource/The_Fifth_Queen</value>
+</book>
+<author>
+<type>uri</type>
+<value>http://dbpedia.org/resource/Ford_Madox_Ford</value>
+</author>
+<wikilink>
+<type>uri</type>
+<value>http://en.wikipedia.org/wiki/The_Fifth_Queen?oldid=588908637</value>
+</wikilink>
+</XML_Serializer_Tag>
+<XML_Serializer_Tag>
+<book>
+<type>uri</type>
+<value>http://dbpedia.org/resource/A_Man_Could_Stand_Up_%E2%80%94</value>
+</book>
+<author>
+<type>uri</type>
+<value>http://dbpedia.org/resource/Ford_Madox_Ford</value>
+</author>
+<wikilink>
+<type>uri</type>
+<value>http://en.wikipedia.org/wiki/A_Man_Could_Stand_Up_—?oldid=579376352</value>
+</wikilink>
+</XML_Serializer_Tag>
+<XML_Serializer_Tag>
+<book>
+<type>uri</type>
+<value>http://dbpedia.org/resource/Some_Do_Not_%E2%80%A6</value>
+</book>
+<author>
+<type>uri</type>
+<value>http://dbpedia.org/resource/Ford_Madox_Ford</value>
+</author>
+<wikilink>
+<type>uri</type>
+<value>http://en.wikipedia.org/wiki/Some_Do_Not_…?oldid=574688572</value>
+</wikilink>
+</XML_Serializer_Tag>
+<XML_Serializer_Tag>
+<book>
+<type>uri</type>
+<value>http://dbpedia.org/resource/No_More_Parades_(novel)</value>
+</book>
+<author>
+<type>uri</type>
+<value>http://dbpedia.org/resource/Ford_Madox_Ford</value>
+</author>
+<wikilink>
+<type>uri</type>
+<value>http://en.wikipedia.org/wiki/No_More_Parades_(novel)?oldid=579376535</value>
+</wikilink>
+</XML_Serializer_Tag>
+<XML_Serializer_Tag>
+<book>
+<type>uri</type>
+<value>http://dbpedia.org/resource/Last_Post_(novel)</value>
+</book>
+<author>
+<type>uri</type>
+<value>http://dbpedia.org/resource/Ford_Madox_Ford</value>
+</author>
+<wikilink>
+<type>uri</type>
+<value>http://en.wikipedia.org/wiki/Last_Post_(novel)?oldid=579376213</value>
+</wikilink>
+</XML_Serializer_Tag>
+</books>
+</Person>

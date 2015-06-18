@@ -1,0 +1,31 @@
+<Person>
+<name>Constantin Brunner</name>
+<variantName>
+<XML_Serializer_Tag>Konstantin Brunner</XML_Serializer_Tag>
+<XML_Serializer_Tag>Leo Wertheimer</XML_Serializer_Tag>
+<XML_Serializer_Tag>Leopold Wertheimer</XML_Serializer_Tag>
+<XML_Serializer_Tag>Arjeh Jehuda Wertheimer</XML_Serializer_Tag>
+</variantName>
+<thumbnail>https://de.wikipedia.org/wiki/Special:FilePath/Constantin_Brunner.jpg?width=270</thumbnail>
+<birthEN>August 28, 1862</birthEN>
+<birthDE>28. August 1862</birthDE>
+<deathEN>August 27, 1937</deathEN>
+<deathDE>27. August 1937</deathDE>
+<birthPlace>
+<XML_Serializer_Tag>Altona</XML_Serializer_Tag>
+</birthPlace>
+<deathPlace>
+<XML_Serializer_Tag>Den Haag</XML_Serializer_Tag>
+</deathPlace>
+<professionOrOccupation>
+<XML_Serializer_Tag>Philosoph</XML_Serializer_Tag>
+<XML_Serializer_Tag>Kritiker</XML_Serializer_Tag>
+<XML_Serializer_Tag>Literarhistoriker</XML_Serializer_Tag>
+</professionOrOccupation>
+<dbpResource>http://dbpedia.org/resource/Constantin_Brunner</dbpResource>
+<abstract>Constantin Brunner (* 27. August 1862 in Altona; † 27. August 1937 in Den Haag) war das Pseudonym des deutsch-jüdischen Philosophen, Schriftstellers, Literaturkritikers und -agenten Arjeh Yehuda Wertheimer (Rufname: Leo Wertheimer). Aufgrund seines Rufnamens findet sich in Darstellungen zu seiner Person auch die falsche Annahme, sein vollständiger Name sei Leopold Wertheimer gewesen. Brunner gilt als Vertreter des Holismus und wandte sich in mehreren Schriften gleichermaßen gegen den Antisemitismus wie den Zionismus, um im gleichen Schritt seine Vorstellung von der Jüdischen Emanzipation zu propagieren.</abstract>
+<wikilink>http://en.wikipedia.org/wiki/Constantin_Brunner?oldid=603515631</wikilink>
+<artworks />
+<buildings />
+<books />
+</Person>

@@ -1,0 +1,27 @@
+<Person>
+<name>Kurt Wolff</name>
+<variantName>
+<XML_Serializer_Tag>Kurt August Paul Wolff</XML_Serializer_Tag>
+</variantName>
+<thumbnail>https://commons.wikimedia.org/wiki/Special:FilePath/Leipzig_Wolff_Verlag_Gedenktafel.jpg?width=270</thumbnail>
+<birthEN>March 3, 1887</birthEN>
+<birthDE>3. März 1887</birthDE>
+<deathEN>October 21, 1963</deathEN>
+<deathDE>21. Oktober 1963</deathDE>
+<birthPlace>
+<XML_Serializer_Tag>Bonn</XML_Serializer_Tag>
+</birthPlace>
+<deathPlace>
+<XML_Serializer_Tag>Ludwigsburg</XML_Serializer_Tag>
+</deathPlace>
+<professionOrOccupation>
+<XML_Serializer_Tag>Verleger</XML_Serializer_Tag>
+<XML_Serializer_Tag>Schriftsteller</XML_Serializer_Tag>
+</professionOrOccupation>
+<dbpResource>http://dbpedia.org/resource/Kurt_Wolff_(publisher)</dbpResource>
+<abstract>Kurt Wolff (* 3. März 1887 in Bonn; † 21. Oktober 1963 in Ludwigsburg) war ein deutscher Verleger. Er gründete den zu seiner Zeit wichtigsten Verlag für expressionistische Literatur in Deutschland: den Kurt Wolff Verlag, der von 1913 bis 1940 existierte.</abstract>
+<wikilink>http://en.wikipedia.org/wiki/Kurt_Wolff_(publisher)?oldid=544531891</wikilink>
+<artworks />
+<buildings />
+<books />
+</Person>

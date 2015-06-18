@@ -1,0 +1,31 @@
+<Person>
+<name>Isaac Watts</name>
+<variantName>
+<XML_Serializer_Tag>Isaak Watts</XML_Serializer_Tag>
+<XML_Serializer_Tag>Isaacus Wattsius</XML_Serializer_Tag>
+<XML_Serializer_Tag>Johann Watts</XML_Serializer_Tag>
+<XML_Serializer_Tag>Isaac Watt</XML_Serializer_Tag>
+</variantName>
+<thumbnail>https://commons.wikimedia.org/wiki/Special:FilePath/Isaac_Watts_from_NPG.jpg?width=270</thumbnail>
+<birthEN>1674</birthEN>
+<birthDE>1674</birthDE>
+<deathEN>1748</deathEN>
+<deathDE>1748</deathDE>
+<birthPlace>
+<XML_Serializer_Tag>Southampton</XML_Serializer_Tag>
+</birthPlace>
+<deathPlace>
+<XML_Serializer_Tag>London- Stoke Newington</XML_Serializer_Tag>
+</deathPlace>
+<professionOrOccupation>
+<XML_Serializer_Tag>Liederdichter</XML_Serializer_Tag>
+<XML_Serializer_Tag>Theologe</XML_Serializer_Tag>
+<XML_Serializer_Tag>Philosoph</XML_Serializer_Tag>
+</professionOrOccupation>
+<dbpResource>http://dbpedia.org/resource/Isaac_Watts</dbpResource>
+<abstract>Isaac Watts (* 17. Juli 1674 in Southampton, England; † 25. November 1748 in London, England) war ein britischer Liederdichter. Watts ist für die vielen von ihm selbstverfassten Hymnen (750) bekannt.</abstract>
+<wikilink>http://en.wikipedia.org/wiki/Isaac_Watts?oldid=604878109</wikilink>
+<artworks />
+<buildings />
+<books />
+</Person>

@@ -1,0 +1,31 @@
+<Person>
+<name>Carl Humann</name>
+<variantName>
+<XML_Serializer_Tag>Karl Humann</XML_Serializer_Tag>
+<XML_Serializer_Tag>Kāru Hūma</XML_Serializer_Tag>
+<XML_Serializer_Tag>Carl Wilhelm Humann</XML_Serializer_Tag>
+<XML_Serializer_Tag>カール フーマ</XML_Serializer_Tag>
+</variantName>
+<thumbnail>https://commons.wikimedia.org/wiki/Special:FilePath/Carl_Humann.JPG?width=270</thumbnail>
+<birthEN>January 4, 1839</birthEN>
+<birthDE>4. Januar 1839</birthDE>
+<deathEN>April 12, 1896</deathEN>
+<deathDE>12. April 1896</deathDE>
+<birthPlace>
+<XML_Serializer_Tag>Steele</XML_Serializer_Tag>
+</birthPlace>
+<deathPlace>
+<XML_Serializer_Tag>Izmir</XML_Serializer_Tag>
+</deathPlace>
+<professionOrOccupation>
+<XML_Serializer_Tag>Archäologe</XML_Serializer_Tag>
+<XML_Serializer_Tag>Ingenieur</XML_Serializer_Tag>
+<XML_Serializer_Tag>Architekt</XML_Serializer_Tag>
+</professionOrOccupation>
+<dbpResource>http://dbpedia.org/resource/Carl_Humann</dbpResource>
+<abstract>Carl Humann (Vorname auch Karl; * 4. Januar 1839 in Steele, heute Stadtteil von Essen; † 12. April 1896 in Smyrna, heute İzmir) war ein deutscher Ingenieur, Architekt und Klassischer Archäologe. Er wurde vor allem bekannt als der Entdecker des Pergamonaltars.</abstract>
+<wikilink>http://en.wikipedia.org/wiki/Carl_Humann?oldid=603237815</wikilink>
+<artworks />
+<buildings />
+<books />
+</Person>

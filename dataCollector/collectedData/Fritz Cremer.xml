@@ -1,0 +1,27 @@
+<Person>
+<name>Fritz Cremer</name>
+<variantName />
+<thumbnail>https://commons.wikimedia.org/wiki/Special:FilePath/Bundesarchiv_Bild_183-29675-0001,_Berlin,_Jugendstunde,_Fritz_Cremer.jpg?width=270</thumbnail>
+<birthEN>October 22, 1906</birthEN>
+<birthDE>22. Oktober 1906</birthDE>
+<deathEN>September 1, 1993</deathEN>
+<deathDE>1. September 1993</deathDE>
+<birthPlace>
+<XML_Serializer_Tag>Arnsberg</XML_Serializer_Tag>
+</birthPlace>
+<deathPlace>
+<XML_Serializer_Tag>Berlin</XML_Serializer_Tag>
+</deathPlace>
+<professionOrOccupation>
+<XML_Serializer_Tag>Künstler</XML_Serializer_Tag>
+<XML_Serializer_Tag>Bildhauer</XML_Serializer_Tag>
+<XML_Serializer_Tag>Graphiker</XML_Serializer_Tag>
+<XML_Serializer_Tag>Zeichner</XML_Serializer_Tag>
+</professionOrOccupation>
+<dbpResource>http://dbpedia.org/resource/Fritz_Cremer</dbpResource>
+<abstract>Fritz Cremer (* 22. Oktober 1906 in Arnsberg; † 1. September 1993 in Berlin) war ein deutscher Bildhauer, Grafiker und Zeichner, später Vizepräsident der Akademie der Künste der DDR.</abstract>
+<wikilink>http://en.wikipedia.org/wiki/Fritz_Cremer?oldid=601969254</wikilink>
+<artworks />
+<buildings />
+<books />
+</Person>

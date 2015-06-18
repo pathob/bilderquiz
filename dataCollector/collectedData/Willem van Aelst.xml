@@ -17,8 +17,10 @@
 <XML_Serializer_Tag>Künstler</XML_Serializer_Tag>
 <XML_Serializer_Tag>Maler</XML_Serializer_Tag>
 </professionOrOccupation>
-<artworks />
 <dbpResource>http://dbpedia.org/resource/Willem_van_Aelst</dbpResource>
 <abstract>Willem van Aelst (* 16. Mai 1627 in Utrecht oder Delft; † nach 1683 in Amsterdam) war ein holländischer Stilllebenmaler.</abstract>
 <wikilink>http://en.wikipedia.org/wiki/Willem_van_Aelst?oldid=606680093</wikilink>
+<artworks />
+<buildings />
+<books />
 </Person>

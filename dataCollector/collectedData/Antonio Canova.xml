@@ -18,12 +18,15 @@
 <XML_Serializer_Tag>Bildhauer</XML_Serializer_Tag>
 <XML_Serializer_Tag>Maler</XML_Serializer_Tag>
 </professionOrOccupation>
+<dbpResource>http://dbpedia.org/resource/Antonio_Canova</dbpResource>
+<abstract>Antonio Canova (* 1. November 1757 in Possagno bei Bassano del Grappa; † 13. Oktober 1822 in Venedig) war ein italienischer Bildhauer. Er gilt als einer der Hauptvertreter des italienischen Klassizismus.</abstract>
+<wikilink>http://en.wikipedia.org/wiki/Antonio_Canova?oldid=599830714</wikilink>
 <artworks>
 <XML_Serializer_Tag>
-<painting>
+<artwork>
 <type>uri</type>
 <value>http://dbpedia.org/resource/Psyche_Revived_by_Cupid&apos;s_Kiss</value>
-</painting>
+</artwork>
 <thumbnail>
 <type>uri</type>
 <value>http://commons.wikimedia.org/wiki/Special:FilePath/Psyché.jpg?width=300</value>
@@ -42,12 +45,16 @@
 <type>uri</type>
 <value>http://en.wikipedia.org/wiki/Psyche_Revived_by_Cupid&apos;s_Kiss?oldid=603282498</value>
 </wikilink>
+<type>
+<type>uri</type>
+<value>http://dbpedia.org/resource/Marble</value>
+</type>
 </XML_Serializer_Tag>
 <XML_Serializer_Tag>
-<painting>
+<artwork>
 <type>uri</type>
 <value>http://dbpedia.org/resource/Venus_Victrix_(Canova)</value>
-</painting>
+</artwork>
 <thumbnail>
 <type>uri</type>
 <value>http://commons.wikimedia.org/wiki/Special:FilePath/VenusVictrix.jpg?width=300</value>
@@ -66,12 +73,16 @@
 <type>uri</type>
 <value>http://en.wikipedia.org/wiki/Venus_Victrix_(Canova)?oldid=541717503</value>
 </wikilink>
+<type>
+<type>uri</type>
+<value>http://dbpedia.org/resource/Marble</value>
+</type>
 </XML_Serializer_Tag>
 <XML_Serializer_Tag>
-<painting>
+<artwork>
 <type>uri</type>
 <value>http://dbpedia.org/resource/Napoleon_as_Mars_the_Peacemaker</value>
-</painting>
+</artwork>
 <thumbnail>
 <type>uri</type>
 <value>http://commons.wikimedia.org/wiki/Special:FilePath/Apsley_House_-_Napoleon&apos;s_statue.JPG?width=300</value>
@@ -90,9 +101,12 @@
 <type>uri</type>
 <value>http://en.wikipedia.org/wiki/Napoleon_as_Mars_the_Peacemaker?oldid=591936059</value>
 </wikilink>
+<type>
+<type>uri</type>
+<value>http://dbpedia.org/resource/Marble</value>
+</type>
 </XML_Serializer_Tag>
 </artworks>
-<dbpResource>http://dbpedia.org/resource/Antonio_Canova</dbpResource>
-<abstract>Antonio Canova (* 1. November 1757 in Possagno bei Bassano del Grappa; † 13. Oktober 1822 in Venedig) war ein italienischer Bildhauer. Er gilt als einer der Hauptvertreter des italienischen Klassizismus.</abstract>
-<wikilink>http://en.wikipedia.org/wiki/Antonio_Canova?oldid=599830714</wikilink>
+<buildings />
+<books />
 </Person>

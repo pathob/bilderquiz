@@ -1,0 +1,40 @@
+<Person>
+<name>Amy Hempel</name>
+<variantName />
+<thumbnail>https://en.wikipedia.org/wiki/Special:FilePath/Hempel_stories.jpg?width=270</thumbnail>
+<birthEN>1951</birthEN>
+<birthDE>1951</birthDE>
+<deathEN />
+<deathDE />
+<birthPlace />
+<deathPlace />
+<professionOrOccupation>
+<XML_Serializer_Tag>Schriftstellerin</XML_Serializer_Tag>
+</professionOrOccupation>
+<dbpResource>http://dbpedia.org/resource/Amy_Hempel</dbpResource>
+<abstract>Amy Hempel (* 14. Dezember, 1951 in Chicago, Illinois, USA) ist eine amerikanische Schriftstellerin, Journalistin und Dozentin am Bennington College. Nach ihrem schriftstellerischen Durchbruch hat sie unter anderem in mehreren Zeitschriften veröffentlicht, darunter GQ, ELLE oder den Playboy. Ihr erstes Buch „Reasons to Live“ veröffentlichte sie 1985 mit Hilfe des Autors Gordon Lish, der sie in einem seiner Workshops für kreatives Schreiben entdeckte. Es folgte 1990 dann das erfolgreichere „At the Gates of the Animal Kingdom“, aus dem auch die berühmte Kurzgeschichte „The Harvest“ (Übersetzung: Die Ernte) stammt. Hempel gilt stilistisch als Minimalistin, ähnlich Raymond Carver oder Chuck Palahniuk. Letzterer lobte ihre Arbeit in folgender Weise:</abstract>
+<wikilink>http://en.wikipedia.org/wiki/Amy_Hempel?oldid=573827814</wikilink>
+<artworks />
+<buildings />
+<books>
+<XML_Serializer_Tag>
+<book>
+<type>uri</type>
+<value>http://dbpedia.org/resource/The_Collected_Stories_of_Amy_Hempel</value>
+</book>
+<author>
+<type>uri</type>
+<value>http://dbpedia.org/resource/Amy_Hempel</value>
+</author>
+<released>
+<type>typed-literal</type>
+<datatype>http://www.w3.org/2001/XMLSchema#date</datatype>
+<value>2006-05-09+02:00</value>
+</released>
+<wikilink>
+<type>uri</type>
+<value>http://en.wikipedia.org/wiki/The_Collected_Stories_of_Amy_Hempel?oldid=544700988</value>
+</wikilink>
+</XML_Serializer_Tag>
+</books>
+</Person>

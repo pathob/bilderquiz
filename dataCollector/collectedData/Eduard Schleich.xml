@@ -14,8 +14,10 @@
 <professionOrOccupation>
 <XML_Serializer_Tag>Maler</XML_Serializer_Tag>
 </professionOrOccupation>
-<artworks />
 <dbpResource>http://dbpedia.org/resource/Eduard_Schleich_the_Elder</dbpResource>
 <abstract>Eduard Schleich (* 14. Oktober 1812 in Schloss Haarbach, Vilsbiburg; † 8. Januar 1874 in München) war ein deutscher Maler.</abstract>
 <wikilink>http://en.wikipedia.org/wiki/Eduard_Schleich_the_Elder?oldid=598734393</wikilink>
+<artworks />
+<buildings />
+<books />
 </Person>

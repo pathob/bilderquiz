@@ -5,19 +5,83 @@ include_once("DDBrequests.php");
 include_once("XML/Serializer.php");
 
 
+global $personCount,$sculptureCount,$paintingCount;
+
 function runMiner(){
+	$GLOBALS['personCount']=0;
+	$GLOBALS['artworkCount']=0;
+	$GLOBALS['buildingCount']=0;
+	$GLOBALS['bookCount']=0;
+
+
 	set_time_limit(0);
 	echo "start datensammlung<br>";
 	$key = "";
 	$professions=array();
-	$professions[0]="maler";
+	$professions[0]="Maler";
+	//collect Maler
 	$persons =getPersonWithProfession($professions,$key);
-	
-	
-	
 	createXmlFromPersons($persons);
 	
-	//collect Maler
+	$professions[0]="Bildhauer";
+	//collect Bildhauer
+	$persons =getPersonWithProfession($professions,$key);
+	createXmlFromPersons($persons);
+	
+	$professions[0]="Architekt";
+	//collect Architekt
+	$persons =getPersonWithProfession($professions,$key);
+	createXmlFromPersons($persons);
+	
+	$professions[0]="Baumeister";
+	//collect Baumeister
+	$persons =getPersonWithProfession($professions,$key);
+	createXmlFromPersons($persons);
+	
+	$professions[0]="Autor";
+	//collect Autor
+	$persons =getPersonWithProfession($professions,$key);
+	createXmlFromPersons($persons);
+
+	
+	$professions[0]="Künstler";
+	//collect Künstler
+	$persons =getPersonWithProfession($professions,$key);
+	createXmlFromPersons($persons);
+	
+	$professions[0]="Lyriker";
+	//collect Lyriker
+	$persons =getPersonWithProfession($professions,$key);
+	createXmlFromPersons($persons);
+	
+	
+	$professions[0]="Philosoph";
+	//collect Philosoph
+	$persons =getPersonWithProfession($professions,$key);
+	createXmlFromPersons($persons);
+	
+	$professions[0]="Philosophin";
+	//collect Philosophin
+	$persons =getPersonWithProfession($professions,$key);
+	createXmlFromPersons($persons);
+	
+	
+	$professions[0]="Schriftsteller";
+	//collect Schriftsteller
+	$persons =getPersonWithProfession($professions,$key);
+	createXmlFromPersons($persons);
+	
+	$professions[0]="Schriftstellerin";
+	//collect Schriftstellerin
+	$persons =getPersonWithProfession($professions,$key);
+	createXmlFromPersons($persons);
+	
+
+	echo "<br>Persons: ".$GLOBALS['personCount']."<br>";
+	echo "<br>Artworks: ".$GLOBALS['artworkCount']."<br>";
+	echo "<br>Buildings: ".$GLOBALS['buildingCount']."<br>";
+	echo "<br>Books: ".$GLOBALS['bookCount']."<br>";
+
 	
 }
 
@@ -27,11 +91,18 @@ function createXmlFromPersons($persons){
 	foreach($persons as $person){
 		$persObj = new Person();
 			
+			
 		if(property_exists($person,"preferredName")){
 			$persObj->name = $person->preferredName;
 		}else{
 			continue;
 		}
+		
+		$path="collectedData/".$persObj->name.".xml";
+		if(file_exists($path)){
+			continue;
+		}
+		
 		if(property_exists($person,"variantName")){
 			$persObj->variantName = $person->variantName;
 		}
@@ -75,28 +146,33 @@ function createXmlFromPersons($persons){
 		$persObj->wikilink=$metadata->wikilink->value;
 		
 		$persObj->artworks=getArtworks($persObj->wikilink);
+		$persObj->buildings=getBuildings($persObj->dbpResource);
+		$persObj->books=getBooks($persObj->dbpResource);
 		
-		$path="collectedData/".$persObj->name.".xml";
-		$i=0;
-		while(file_exists($path)){
-			$path="collectedData/".$persObj->name."$i.xml";
-			$i++;
-		}
+	
+		
+		
 		
 		$xml = obj_to_xml($persObj);
 		
 		
-		
-		$file= fopen($path, "w");
-		fwrite($file, $xml);
-		fclose($file);
+		if($xml!= null){
+			$file= fopen($path, "w");
+			fwrite($file, $xml);
+			fclose($file);
+		}else{
+			continue;
+		}
 	
-		
-		$count++;
+	
+	$GLOBALS['personCount']++;
+	$GLOBALS['artworkCount']+=count($persObj->artworks);
+    $GLOBALS['buildingCount']+=count($persObj->buildings);
+	$GLOBALS['bookCount']+=count($persObj->books);
 			
 	}
 	
-	echo"<br>$count Datensaetze hinzugefuegt.<br>";
+	
 
 }
 function obj_to_xml($obj) {
@@ -121,10 +197,12 @@ public $deathDE;
 public $birthPlace;
 public $deathPlace;
 public $professionOrOccupation;
-public $artworks;
 public $dbpResource;
 public $abstract;
 public $wikilink;
+public $artworks;
+public $buildings;
+public $books;
 
 }
 

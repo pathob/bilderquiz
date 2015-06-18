@@ -1,0 +1,42 @@
+<Person>
+<name>Paul Fleming</name>
+<variantName>
+<XML_Serializer_Tag>Paul Fläming</XML_Serializer_Tag>
+<XML_Serializer_Tag>Paul Flämmig</XML_Serializer_Tag>
+<XML_Serializer_Tag>Paul Flemich</XML_Serializer_Tag>
+<XML_Serializer_Tag>Paul Flemigk</XML_Serializer_Tag>
+<XML_Serializer_Tag>Paull Fleming von Hartenstein</XML_Serializer_Tag>
+<XML_Serializer_Tag>Paulus Flemingus</XML_Serializer_Tag>
+<XML_Serializer_Tag>Paulus Flemingius Hartenstein</XML_Serializer_Tag>
+<XML_Serializer_Tag>Paul Flemming</XML_Serializer_Tag>
+<XML_Serializer_Tag>Paulus Flemming</XML_Serializer_Tag>
+<XML_Serializer_Tag>Paull Flemming</XML_Serializer_Tag>
+<XML_Serializer_Tag>Paullus Flemmingius</XML_Serializer_Tag>
+<XML_Serializer_Tag>Paul Flemming</XML_Serializer_Tag>
+<XML_Serializer_Tag>M. P. F. V. H.</XML_Serializer_Tag>
+<XML_Serializer_Tag>P. F.</XML_Serializer_Tag>
+<XML_Serializer_Tag>P. F. V. H.</XML_Serializer_Tag>
+<XML_Serializer_Tag>P. Fl.</XML_Serializer_Tag>
+</variantName>
+<thumbnail>https://commons.wikimedia.org/wiki/Special:FilePath/Paul_Fleming.jpg?width=270</thumbnail>
+<birthEN>October 5, 1609</birthEN>
+<birthDE>5. Oktober 1609</birthDE>
+<deathEN>April 2, 1640</deathEN>
+<deathDE>2. April 1640</deathDE>
+<birthPlace>
+<XML_Serializer_Tag>Hartenstein (Landkreis Zwickau)</XML_Serializer_Tag>
+</birthPlace>
+<deathPlace>
+<XML_Serializer_Tag>Hamburg</XML_Serializer_Tag>
+</deathPlace>
+<professionOrOccupation>
+<XML_Serializer_Tag>Schriftsteller</XML_Serializer_Tag>
+<XML_Serializer_Tag>Arzt</XML_Serializer_Tag>
+</professionOrOccupation>
+<dbpResource>http://dbpedia.org/resource/Paul_Fleming_(poet)</dbpResource>
+<abstract>Paul Fleming (* 5. Oktober 1609 in Hartenstein; † 2. April 1640 in Hamburg) war ein deutscher Arzt und Schriftsteller. Paul Fleming gilt als einer der bedeutendsten Lyriker des deutschen Barock.</abstract>
+<wikilink>http://en.wikipedia.org/wiki/Paul_Fleming_(poet)?oldid=540649076</wikilink>
+<artworks />
+<buildings />
+<books />
+</Person>

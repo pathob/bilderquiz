@@ -20,12 +20,15 @@
 <XML_Serializer_Tag>Bildhauer</XML_Serializer_Tag>
 <XML_Serializer_Tag>Photograph</XML_Serializer_Tag>
 </professionOrOccupation>
+<dbpResource>http://dbpedia.org/resource/Ernst_Ludwig_Kirchner</dbpResource>
+<abstract>Ernst Ludwig Kirchner (* 6. Mai 1880 in Aschaffenburg; † 15. Juni 1938 in Frauenkirch-Wildboden bei Davos (Schweiz)) war ein deutscher Maler und Grafiker des Expressionismus. Kirchner war ein Gründungsmitglied der Künstlergruppe Brücke. 1937 wurden seine Werke durch die Nazis als „entartet“ gebrandmarkt. Über 600 dieser Werke wurden daraufhin verkauft oder zerstört. Ein Jahr darauf nahm er sich mit einer Schusswaffe das Leben.</abstract>
+<wikilink>http://en.wikipedia.org/wiki/Ernst_Ludwig_Kirchner?oldid=604273463</wikilink>
 <artworks>
 <XML_Serializer_Tag>
-<painting>
+<artwork>
 <type>uri</type>
 <value>http://dbpedia.org/resource/Five_Bathing_Women_at_a_Lake</value>
-</painting>
+</artwork>
 <thumbnail>
 <type>uri</type>
 <value>http://commons.wikimedia.org/wiki/Special:FilePath/Kirchner_-_Fünf_badende_am_See.jpg?width=300</value>
@@ -39,9 +42,13 @@
 <type>uri</type>
 <value>http://en.wikipedia.org/wiki/Five_Bathing_Women_at_a_Lake?oldid=563822394</value>
 </wikilink>
+<type>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>Oil on canvas</value>
+</type>
 </XML_Serializer_Tag>
 </artworks>
-<dbpResource>http://dbpedia.org/resource/Ernst_Ludwig_Kirchner</dbpResource>
-<abstract>Ernst Ludwig Kirchner (* 6. Mai 1880 in Aschaffenburg; † 15. Juni 1938 in Frauenkirch-Wildboden bei Davos (Schweiz)) war ein deutscher Maler und Grafiker des Expressionismus. Kirchner war ein Gründungsmitglied der Künstlergruppe Brücke. 1937 wurden seine Werke durch die Nazis als „entartet“ gebrandmarkt. Über 600 dieser Werke wurden daraufhin verkauft oder zerstört. Ein Jahr darauf nahm er sich mit einer Schusswaffe das Leben.</abstract>
-<wikilink>http://en.wikipedia.org/wiki/Ernst_Ludwig_Kirchner?oldid=604273463</wikilink>
+<buildings />
+<books />
 </Person>

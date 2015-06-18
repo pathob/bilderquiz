@@ -20,12 +20,15 @@
 <professionOrOccupation>
 <XML_Serializer_Tag>Maler</XML_Serializer_Tag>
 </professionOrOccupation>
+<dbpResource>http://dbpedia.org/resource/Andrea_del_Sarto</dbpResource>
+<abstract>Andrea del Sarto, eigentlich Andrea d’Agnolo di Francesco di Luca di Paolo del Migliore, (* 16. Juli 1486 in Gualfonda, Florenz; † 29. September 1530 in Florenz) war ein Maler der italienischen Renaissance.</abstract>
+<wikilink>http://en.wikipedia.org/wiki/Andrea_del_Sarto?oldid=602503163</wikilink>
 <artworks>
 <XML_Serializer_Tag>
-<painting>
+<artwork>
 <type>uri</type>
 <value>http://dbpedia.org/resource/Madonna_of_the_Harpies</value>
-</painting>
+</artwork>
 <thumbnail>
 <type>uri</type>
 <value>http://commons.wikimedia.org/wiki/Special:FilePath/Andrea_del_Sarto_-_Madonna_of_the_Harpies_-_WGA00369.jpg?width=300</value>
@@ -49,9 +52,13 @@
 <type>uri</type>
 <value>http://en.wikipedia.org/wiki/Madonna_of_the_Harpies?oldid=591466417</value>
 </wikilink>
+<type>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>oil on wood</value>
+</type>
 </XML_Serializer_Tag>
 </artworks>
-<dbpResource>http://dbpedia.org/resource/Andrea_del_Sarto</dbpResource>
-<abstract>Andrea del Sarto, eigentlich Andrea d’Agnolo di Francesco di Luca di Paolo del Migliore, (* 16. Juli 1486 in Gualfonda, Florenz; † 29. September 1530 in Florenz) war ein Maler der italienischen Renaissance.</abstract>
-<wikilink>http://en.wikipedia.org/wiki/Andrea_del_Sarto?oldid=602503163</wikilink>
+<buildings />
+<books />
 </Person>

@@ -1,0 +1,27 @@
+<Person>
+<name>Jules Romains</name>
+<variantName>
+<XML_Serializer_Tag>Louis Farigoule</XML_Serializer_Tag>
+<XML_Serializer_Tag>Louis Henri Jean Farigoule</XML_Serializer_Tag>
+</variantName>
+<thumbnail>https://commons.wikimedia.org/wiki/Special:FilePath/Jules_Romains.jpg?width=270</thumbnail>
+<birthEN>August 26, 1885</birthEN>
+<birthDE>26. August 1885</birthDE>
+<deathEN>August 14, 1972</deathEN>
+<deathDE>14. August 1972</deathDE>
+<birthPlace>
+<XML_Serializer_Tag>Saint-Julien-Chapteuil, Frankreich</XML_Serializer_Tag>
+</birthPlace>
+<deathPlace>
+<XML_Serializer_Tag>Paris</XML_Serializer_Tag>
+</deathPlace>
+<professionOrOccupation>
+<XML_Serializer_Tag>Schriftsteller</XML_Serializer_Tag>
+</professionOrOccupation>
+<dbpResource>http://dbpedia.org/resource/Jules_Romains</dbpResource>
+<abstract>Jules Romains (bürgerlich Louis Henri Farigoule; * 26. August 1885 in La Chapuze, heute Saint-Julien-Chapteuil; † 14. August 1972 in Paris) war ein französischer Schriftsteller. Nachdem er zunächst mit Lyrik im Geiste der Lebensphilosophie und satirischen Dramen auf sich aufmerksam gemacht hatte, nahm er um 1930 den seine Epoche spiegelnden großangelegten Romanzyklus Die guten Willens sind in Angriff. Einsichtige „Auserwählte“ sollten die Menschheit von Krieg und Ungerechtigkeit erlösen.</abstract>
+<wikilink>http://en.wikipedia.org/wiki/Jules_Romains?oldid=602894244</wikilink>
+<artworks />
+<buildings />
+<books />
+</Person>

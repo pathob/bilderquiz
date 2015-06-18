@@ -14,8 +14,10 @@
 <professionOrOccupation>
 <XML_Serializer_Tag>Maler</XML_Serializer_Tag>
 </professionOrOccupation>
-<artworks />
 <dbpResource>http://dbpedia.org/resource/Franz_Kline</dbpResource>
 <abstract>Franz Kline (* 23. Mai 1910 in Wilkes-Barre, Pennsylvania; † 13. Mai 1962 in New York) war ein US-amerikanischer Maler.</abstract>
 <wikilink>http://en.wikipedia.org/wiki/Franz_Kline?oldid=596737767</wikilink>
+<artworks />
+<buildings />
+<books />
 </Person>

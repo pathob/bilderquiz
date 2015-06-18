@@ -18,8 +18,10 @@
 <XML_Serializer_Tag>Schauspieler</XML_Serializer_Tag>
 <XML_Serializer_Tag>Maler</XML_Serializer_Tag>
 </professionOrOccupation>
-<artworks />
 <dbpResource>http://dbpedia.org/resource/R._R._McIan</dbpResource>
 <abstract>Robert Ronald McIan (* 1803 in Schottland; † 13. Dezember 1856 in Hampstead (London)) war ein schottischer Maler, der romantische und traditionelle Themen malte.</abstract>
 <wikilink>http://en.wikipedia.org/wiki/R._R._McIan?oldid=603195444</wikilink>
+<artworks />
+<buildings />
+<books />
 </Person>

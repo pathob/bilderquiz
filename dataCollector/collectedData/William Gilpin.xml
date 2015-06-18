@@ -1,0 +1,24 @@
+<Person>
+<name>William Gilpin</name>
+<variantName>
+<XML_Serializer_Tag>Josiah Frampton</XML_Serializer_Tag>
+</variantName>
+<thumbnail>https://commons.wikimedia.org/wiki/Special:FilePath/Rev._William_Gilpin_(Harper&apos;s_Engraving).png?width=270</thumbnail>
+<birthEN>1724</birthEN>
+<birthDE>1724</birthDE>
+<deathEN>1804</deathEN>
+<deathDE>1804</deathDE>
+<birthPlace />
+<deathPlace />
+<professionOrOccupation>
+<XML_Serializer_Tag>Schriftsteller</XML_Serializer_Tag>
+<XML_Serializer_Tag>Künstler</XML_Serializer_Tag>
+<XML_Serializer_Tag>Zeichner</XML_Serializer_Tag>
+</professionOrOccupation>
+<dbpResource>http://dbpedia.org/resource/William_Gilpin_(governor)</dbpResource>
+<abstract>William Gilpin (* 4. Oktober 1813 bei Wilmington, Delaware; † 20. Januar 1894 in Denver, Colorado) war ein US-amerikanischer Politiker und von 1861 bis 1862 der erste Gouverneur des Colorado-Territoriums.</abstract>
+<wikilink>http://en.wikipedia.org/wiki/William_Gilpin_(governor)?oldid=593552124</wikilink>
+<artworks />
+<buildings />
+<books />
+</Person>

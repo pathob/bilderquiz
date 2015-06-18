@@ -1,0 +1,31 @@
+<Person>
+<name>Johannes Stabius</name>
+<variantName>
+<XML_Serializer_Tag>Joannes Stabius</XML_Serializer_Tag>
+<XML_Serializer_Tag>Johann Stabius</XML_Serializer_Tag>
+<XML_Serializer_Tag>Johann Stab</XML_Serializer_Tag>
+<XML_Serializer_Tag>Johannes Stab</XML_Serializer_Tag>
+<XML_Serializer_Tag>Johannes Stab</XML_Serializer_Tag>
+<XML_Serializer_Tag>Johannes Stanbius</XML_Serializer_Tag>
+</variantName>
+<thumbnail>https://commons.wikimedia.org/wiki/Special:FilePath/Stabius_duerer.jpg?width=270</thumbnail>
+<birthEN />
+<birthDE />
+<deathEN>1522</deathEN>
+<deathDE>1522</deathDE>
+<birthPlace />
+<deathPlace />
+<professionOrOccupation>
+<XML_Serializer_Tag>Humanist</XML_Serializer_Tag>
+<XML_Serializer_Tag>Schriftsteller</XML_Serializer_Tag>
+<XML_Serializer_Tag>Mathematiker</XML_Serializer_Tag>
+<XML_Serializer_Tag>Geograph</XML_Serializer_Tag>
+<XML_Serializer_Tag>Astronom</XML_Serializer_Tag>
+</professionOrOccupation>
+<dbpResource>http://dbpedia.org/resource/Johannes_Stabius</dbpResource>
+<abstract>Johannes Stabius (* vor etwa 1468 in Hueb bei Steyr, Herzogtum Österreich; † 1. Januar 1522 in Graz) war ein Humanist, Naturwissenschaftler und Historiograph.</abstract>
+<wikilink>http://en.wikipedia.org/wiki/Johannes_Stabius?oldid=540901780</wikilink>
+<artworks />
+<buildings />
+<books />
+</Person>

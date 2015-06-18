@@ -1,0 +1,33 @@
+<Person>
+<name>Wieland Herzfelde</name>
+<variantName>
+<XML_Serializer_Tag>Wieland Herzfeld</XML_Serializer_Tag>
+<XML_Serializer_Tag>Vilandas Hercfelde</XML_Serializer_Tag>
+<XML_Serializer_Tag>Viland Gercfelʹde</XML_Serializer_Tag>
+</variantName>
+<thumbnail>https://commons.wikimedia.org/wiki/Special:FilePath/Bundesarchiv_Bild_183-73744-0001,_Berlin,_AdK-Ausstellung,_Nagel,_Heartfield,_Herzfelde.jpg?width=270</thumbnail>
+<birthEN>April 11, 1896</birthEN>
+<birthDE>11. April 1896</birthDE>
+<deathEN>November 23, 1988</deathEN>
+<deathDE>23. November 1988</deathDE>
+<birthPlace>
+<XML_Serializer_Tag>Weggis</XML_Serializer_Tag>
+</birthPlace>
+<deathPlace>
+<XML_Serializer_Tag>Berlin</XML_Serializer_Tag>
+</deathPlace>
+<professionOrOccupation>
+<XML_Serializer_Tag>Schriftsteller</XML_Serializer_Tag>
+<XML_Serializer_Tag>Publizist</XML_Serializer_Tag>
+<XML_Serializer_Tag>Verleger</XML_Serializer_Tag>
+<XML_Serializer_Tag>Lyriker</XML_Serializer_Tag>
+<XML_Serializer_Tag>Literaturkritiker</XML_Serializer_Tag>
+<XML_Serializer_Tag>Übersetzer</XML_Serializer_Tag>
+</professionOrOccupation>
+<dbpResource>http://dbpedia.org/resource/Wieland_Herzfelde</dbpResource>
+<abstract>Wieland Herzfelde (eigentlich Herzfeld; * 11. April 1896 in Weggis, Schweiz; † 23. November 1988 in Ost-Berlin) war ein deutscher Publizist, Autor und Verleger. 1916 gründete er den legendären Malik-Verlag, der auf Avantgardekunst sowie kommunistische Literatur spezialisiert war.</abstract>
+<wikilink>http://en.wikipedia.org/wiki/Wieland_Herzfelde?oldid=503012083</wikilink>
+<artworks />
+<buildings />
+<books />
+</Person>

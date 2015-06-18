@@ -15,8 +15,10 @@
 <XML_Serializer_Tag>Maler</XML_Serializer_Tag>
 <XML_Serializer_Tag>Graphiker</XML_Serializer_Tag>
 </professionOrOccupation>
-<artworks />
 <dbpResource>http://dbpedia.org/resource/Abraham_Bosse</dbpResource>
 <abstract>Abraham Bosse (spr. boss&apos;) (* um 1604 in Tours; † 1. oder 14. Februar 1676 in Paris) war ein französischer Kupferstecher und Radierer.Bosse lieferte eine ungeheure Menge Blätter mit kulturhistorisch interessanten Schilderungen von Zeremonien, Festen und Szenen aus dem Volksleben.Er war ein Freund des Architekten und Mathematikers Gérard Desargues und stellte einige von dessen Ideen in populärer Form dar, als dies Desargues selbst vermochte.Bosse stach wahrscheinlich den großen Stadtplan von Paris von Jacques Gomboust.</abstract>
 <wikilink>http://en.wikipedia.org/wiki/Abraham_Bosse?oldid=587642494</wikilink>
+<artworks />
+<buildings />
+<books />
 </Person>

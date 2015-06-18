@@ -1,0 +1,30 @@
+<Person>
+<name>Theodor Ziehen</name>
+<variantName>
+<XML_Serializer_Tag>Th. Ziehen</XML_Serializer_Tag>
+<XML_Serializer_Tag>Georg Theodor Ziehen</XML_Serializer_Tag>
+</variantName>
+<thumbnail>https://commons.wikimedia.org/wiki/Special:FilePath/Ziehen.jpg?width=270</thumbnail>
+<birthEN>November 12, 1862</birthEN>
+<birthDE>12. November 1862</birthDE>
+<deathEN>December 29, 1950</deathEN>
+<deathDE>29. Dezember 1950</deathDE>
+<birthPlace>
+<XML_Serializer_Tag>Frankfurt am Main</XML_Serializer_Tag>
+</birthPlace>
+<deathPlace>
+<XML_Serializer_Tag>Wiesbaden</XML_Serializer_Tag>
+</deathPlace>
+<professionOrOccupation>
+<XML_Serializer_Tag>Psychologe</XML_Serializer_Tag>
+<XML_Serializer_Tag>Arzt</XML_Serializer_Tag>
+<XML_Serializer_Tag>Psychiater</XML_Serializer_Tag>
+<XML_Serializer_Tag>Philosoph</XML_Serializer_Tag>
+</professionOrOccupation>
+<dbpResource>http://dbpedia.org/resource/Theodor_Ziehen</dbpResource>
+<abstract>Georg Theodor Ziehen (* 12. November 1862 in Frankfurt am Main; † 29. Dezember 1950 in Wiesbaden) war ein deutscher Neurologe, Psychiater, Psychologe und Philosoph.</abstract>
+<wikilink>http://en.wikipedia.org/wiki/Theodor_Ziehen?oldid=606260042</wikilink>
+<artworks />
+<buildings />
+<books />
+</Person>

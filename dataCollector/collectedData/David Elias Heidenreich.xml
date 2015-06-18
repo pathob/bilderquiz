@@ -1,0 +1,27 @@
+<Person>
+<name>David Elias Heidenreich</name>
+<variantName>
+<XML_Serializer_Tag>David E. Heidenreich</XML_Serializer_Tag>
+</variantName>
+<thumbnail>https://commons.wikimedia.org/wiki/Special:FilePath/Jägerhof_weißenfels.JPG?width=270</thumbnail>
+<birthEN>January 21, 1638</birthEN>
+<birthDE>21. Januar 1638</birthDE>
+<deathEN>June 6, 1688</deathEN>
+<deathDE>6. Juni 1688</deathDE>
+<birthPlace>
+<XML_Serializer_Tag>Leipzig</XML_Serializer_Tag>
+</birthPlace>
+<deathPlace>
+<XML_Serializer_Tag>Weißenfels (Burgenlandkreis)</XML_Serializer_Tag>
+</deathPlace>
+<professionOrOccupation>
+<XML_Serializer_Tag>Schriftsteller</XML_Serializer_Tag>
+<XML_Serializer_Tag>Jurist</XML_Serializer_Tag>
+</professionOrOccupation>
+<dbpResource>http://dbpedia.org/resource/David_Elias_Heidenreich</dbpResource>
+<abstract>David Elias Heidenreich (* 21. Januar 1638 in Leipzig; † 6. Juni 1688 in Weißenfels) war ein deutscher Dichter, Dramatiker und Übersetzer der Barockzeit.</abstract>
+<wikilink>http://en.wikipedia.org/wiki/David_Elias_Heidenreich?oldid=584347076</wikilink>
+<artworks />
+<buildings />
+<books />
+</Person>

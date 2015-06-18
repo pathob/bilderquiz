@@ -18,8 +18,10 @@
 <XML_Serializer_Tag>Maler</XML_Serializer_Tag>
 <XML_Serializer_Tag>Radierer</XML_Serializer_Tag>
 </professionOrOccupation>
-<artworks />
 <dbpResource>http://dbpedia.org/resource/Theodor_Roos</dbpResource>
 <abstract>Theodor Roos (* 1638 in Wesel; † 1698) war ein deutscher Historienmaler und Porträtmaler.</abstract>
 <wikilink>http://en.wikipedia.org/wiki/Theodor_Roos?oldid=602051904</wikilink>
+<artworks />
+<buildings />
+<books />
 </Person>

@@ -1,0 +1,25 @@
+<Person>
+<name>Alfred Lichtwark</name>
+<variantName>
+<XML_Serializer_Tag>Cstn. Fried. Dang. Alfred Lichtwark</XML_Serializer_Tag>
+</variantName>
+<thumbnail>https://commons.wikimedia.org/wiki/Special:FilePath/Alfred_Lichtwark_1899_001.jpg?width=270</thumbnail>
+<birthEN>January 14, 1852</birthEN>
+<birthDE>14. Januar 1852</birthDE>
+<deathEN>January 13, 1914</deathEN>
+<deathDE>13. Januar 1914</deathDE>
+<birthPlace />
+<deathPlace />
+<professionOrOccupation>
+<XML_Serializer_Tag>Kunsthistoriker</XML_Serializer_Tag>
+<XML_Serializer_Tag>Museumsdirektor</XML_Serializer_Tag>
+<XML_Serializer_Tag>Schriftsteller</XML_Serializer_Tag>
+<XML_Serializer_Tag>Kunstpädagoge</XML_Serializer_Tag>
+</professionOrOccupation>
+<dbpResource>http://dbpedia.org/resource/Alfred_Lichtwark</dbpResource>
+<abstract>Alfred Lichtwark (* 14. November 1852 in Hamburg-Reitbrook; † 13. Januar 1914 in Hamburg) war ein deutscher Kunsthistoriker, Museumsleiter und Kunstpädagoge in Hamburg. Er gehört zu den Begründern der Museumspädagogik und der Kunsterziehungsbewegung.</abstract>
+<wikilink>http://en.wikipedia.org/wiki/Alfred_Lichtwark?oldid=599064566</wikilink>
+<artworks />
+<buildings />
+<books />
+</Person>

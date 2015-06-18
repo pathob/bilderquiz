@@ -1,0 +1,30 @@
+<Person>
+<name>Gustav Freytag</name>
+<variantName>
+<XML_Serializer_Tag>Gustavus Freitag</XML_Serializer_Tag>
+<XML_Serializer_Tag>Gustav Freitag</XML_Serializer_Tag>
+</variantName>
+<thumbnail>https://commons.wikimedia.org/wiki/Special:FilePath/Gustav_Freytag_by_Karl_Stauffer-Bern_1886-1887.jpg?width=270</thumbnail>
+<birthEN>July 13, 1816</birthEN>
+<birthDE>13. Juli 1816</birthDE>
+<deathEN>April 30, 1895</deathEN>
+<deathDE>30. April 1895</deathDE>
+<birthPlace>
+<XML_Serializer_Tag>Kreuzburg (Oberschlesien)</XML_Serializer_Tag>
+</birthPlace>
+<deathPlace>
+<XML_Serializer_Tag>Wiesbaden</XML_Serializer_Tag>
+</deathPlace>
+<professionOrOccupation>
+<XML_Serializer_Tag>Historiker</XML_Serializer_Tag>
+<XML_Serializer_Tag>Publizist</XML_Serializer_Tag>
+<XML_Serializer_Tag>Politiker</XML_Serializer_Tag>
+<XML_Serializer_Tag>Schriftsteller</XML_Serializer_Tag>
+</professionOrOccupation>
+<dbpResource>http://dbpedia.org/resource/Gustav_Freytag</dbpResource>
+<abstract>Gustav Freytag (* 13. Juli 1816 in Kreuzburg, Oberschlesien; † 30. April 1895 in Wiesbaden) war ein deutscher Schriftsteller.I(m Lan</abstract>
+<wikilink>http://en.wikipedia.org/wiki/Gustav_Freytag?oldid=605246989</wikilink>
+<artworks />
+<buildings />
+<books />
+</Person>

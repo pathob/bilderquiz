@@ -1,0 +1,25 @@
+<Person>
+<name>Bob Martens</name>
+<variantName>
+<XML_Serializer_Tag>Robert Martens</XML_Serializer_Tag>
+<XML_Serializer_Tag>B. Martens</XML_Serializer_Tag>
+</variantName>
+<thumbnail>https://commons.wikimedia.org/wiki/Special:FilePath/Martens_P4I4254_k.jpg?width=270</thumbnail>
+<birthEN />
+<birthDE />
+<deathEN />
+<deathDE />
+<birthPlace />
+<deathPlace />
+<professionOrOccupation>
+<XML_Serializer_Tag>Architekt</XML_Serializer_Tag>
+<XML_Serializer_Tag>Informatiker</XML_Serializer_Tag>
+<XML_Serializer_Tag>Hochschullehrer</XML_Serializer_Tag>
+</professionOrOccupation>
+<dbpResource>http://dbpedia.org/resource/Bob_Martens</dbpResource>
+<abstract>Bob Martens (* 11. März 1961 in Eindhoven) ist ein in Österreich niedergelassener Architekt und Hochschullehrer, der sich auf das Fachgebiet Räumliche Simulation und Raumgestaltung spezialisiert hat.</abstract>
+<wikilink>http://en.wikipedia.org/wiki/Bob_Martens?oldid=605356957</wikilink>
+<artworks />
+<buildings />
+<books />
+</Person>

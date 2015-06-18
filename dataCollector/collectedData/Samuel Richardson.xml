@@ -1,0 +1,84 @@
+<Person>
+<name>Samuel Richardson</name>
+<variantName>
+<XML_Serializer_Tag>... Richardson</XML_Serializer_Tag>
+</variantName>
+<thumbnail>https://commons.wikimedia.org/wiki/Special:FilePath/Richardson.jpg?width=270</thumbnail>
+<birthEN>1689</birthEN>
+<birthDE>1689</birthDE>
+<deathEN>July 4, 1761</deathEN>
+<deathDE>4. Juli 1761</deathDE>
+<birthPlace>
+<XML_Serializer_Tag>Mackworth (Derbyshire)</XML_Serializer_Tag>
+</birthPlace>
+<deathPlace>
+<XML_Serializer_Tag>London</XML_Serializer_Tag>
+</deathPlace>
+<professionOrOccupation>
+<XML_Serializer_Tag>Schriftsteller</XML_Serializer_Tag>
+<XML_Serializer_Tag>Buchdrucker</XML_Serializer_Tag>
+</professionOrOccupation>
+<dbpResource>http://dbpedia.org/resource/Samuel_Richardson</dbpResource>
+<abstract>Samuel Richardson (* 19. August 1689 in Mackworth, Derbyshire, England; † 4. Juli 1761 in London) war ein englischer Schriftsteller.</abstract>
+<wikilink>http://en.wikipedia.org/wiki/Samuel_Richardson?oldid=604617168</wikilink>
+<artworks />
+<buildings />
+<books>
+<XML_Serializer_Tag>
+<book>
+<type>uri</type>
+<value>http://dbpedia.org/resource/Clarissa</value>
+</book>
+<author>
+<type>uri</type>
+<value>http://dbpedia.org/resource/Samuel_Richardson</value>
+</author>
+<thumbnail>
+<type>uri</type>
+<value>http://en.wikipedia.org/wiki/Special:FilePath/Clarissa.png?width=300</value>
+</thumbnail>
+<released>
+<type>typed-literal</type>
+<datatype>http://www.w3.org/2001/XMLSchema#integer</datatype>
+<value>1748</value>
+</released>
+<wikilink>
+<type>uri</type>
+<value>http://en.wikipedia.org/wiki/Clarissa?oldid=605861491</value>
+</wikilink>
+<abstract>
+<type>literal</type>
+<xml:lang>de</xml:lang>
+<value>Clarissa. Die Geschichte eines vornehmen Frauenzimmers (engl. Clarissa, or, The History of a Young Lady epistolary novel) ist ein Briefroman des englischer Schriftstellers Samuel Richardson, der im Jahr 1748 bei C. Rivington und J. Osborn in London erschien. In den Jahren 1748–1753 brachte Vandenhoeck in Göttingen die deutsche Übersetzung von Johann David Michaelis heraus.Zum Landadel gehörig und durch Verpacht­ung reich geworden, wollen die Harlowes hoch hinaus. James Harlowe junior, einziger Sohn des Hauses, will aus dem niederen Adel aufsteigen; möchte Lord werden. Die 18-jährige Clarissa, jüngste Tochter des Hauses, muss auf väterlichen Wunsch ihren Beitrag leisten. Der Grundbesitz soll durch Einheirat vergrößert werden. Clarissa möchte ledig bleiben. Es wird ihr nicht gestattet.Eine der frühen Nachahmerinnen dieses Richardsonschen Beitrages zur Empfindsamkeit ist die französische Romancière Jeanne-Marie Leprince de Beaumont mit ihrer „Neuen Clarissa. Eine wahre Geschichte“ aus dem Jahr 1767.Johann Karl Wezel mokiert sich über „die Richardsonschen Romane, diese Gallerien von idealen Charaktern und moralischen Gemeinplätzen“. Zirka zwei Jahrhunderte später nennt die deutschsprachige Literaturgeschichtsschreibung Clarissa ein Meisterwerk.</value>
+</abstract>
+</XML_Serializer_Tag>
+<XML_Serializer_Tag>
+<book>
+<type>uri</type>
+<value>http://dbpedia.org/resource/Pamela;_or,_Virtue_Rewarded</value>
+</book>
+<author>
+<type>uri</type>
+<value>http://dbpedia.org/resource/Samuel_Richardson</value>
+</author>
+<thumbnail>
+<type>uri</type>
+<value>http://commons.wikimedia.org/wiki/Special:FilePath/Richardson_pamela_1741.jpg?width=300</value>
+</thumbnail>
+<released>
+<type>typed-literal</type>
+<datatype>http://www.w3.org/2001/XMLSchema#integer</datatype>
+<value>1740</value>
+</released>
+<wikilink>
+<type>uri</type>
+<value>http://en.wikipedia.org/wiki/Pamela;_or,_Virtue_Rewarded?oldid=606497789</value>
+</wikilink>
+<abstract>
+<type>literal</type>
+<xml:lang>de</xml:lang>
+<value>Pamela, or Virtue Rewarded (dt. Pamela oder die belohnte Tugend) ist ein Briefroman des englischen Schriftstellers Samuel Richardson, der erstmals 1740 herausgegeben wurde.Der Roman schildert die Geschichte einer schönen, jedoch mittellosen 15-jährigen Dienerin namens Pamela Andrews. Ihr Meister, der adlige Mr. B., macht ihr unerwünschte Avancen nach dem Tode seiner Mutter, als deren Magd sie seit dem Alter von zwölf Jahren gearbeitet hatte. Mr. B. ist von ihrem Anblick, ihrer Unschuld und Intelligenz hingerissen, doch seine gesellschaftliche Stellung hindert ihn zunächst daran, ihr eine Heirat vorzuschlagen. Er entführt sie auf eines seiner Güter, wo er sie zu verführen und zu vergewaltigen versucht. Sie widersteht seinen Versuchungen und weigert sich, seine Mätresse zu werden, realisiert jedoch nach und nach, dass sie sich in ihn verliebt. Nachdem er ihre Briefe an ihre Eltern abgefangen und gelesen hat, verliebt er sich noch mehr in ihre unschuldige Intelligenz und ihre ständigen Fluchtversuche. Ihre Tugend wird schließlich belohnt, als er seine Ehrlichkeit beweist und ihr einen Heiratsantrag stellt. Im zweiten Teil des Romans versucht Pamela, sich an das Verhalten der oberen Gesellschaftsschichten anzupassen und eine erfolgreiche Beziehung zu ihrem Mann aufzubauen.Das Buch, ursprünglich als Erziehungsroman angelegt, wurde bald nach seinem Erscheinen zu einem äußerst populären Bestseller, obwohl einige Stellen als anzüglich kritisiert wurden. Es wurde von Abbé Prévost ins Französische übersetzt und von Carlo Goldoni für die italienische Bühne adaptiert. In England regte es zu zahlreichen Parodien an, darunter Shamela und Joseph Andrews von Richardsons Rivale Henry Fielding und Anti-Pamela von Eliza Haywood.</value>
+</abstract>
+</XML_Serializer_Tag>
+</books>
+</Person>

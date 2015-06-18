@@ -1,0 +1,26 @@
+<Person>
+<name>Jean Tinguely</name>
+<variantName>
+<XML_Serializer_Tag>Jeannot</XML_Serializer_Tag>
+</variantName>
+<thumbnail>https://commons.wikimedia.org/wiki/Special:FilePath/Jean_Tinguely_(1963)_by_Erling_Mandelmann_-_2.jpg?width=270</thumbnail>
+<birthEN>May 22, 1925</birthEN>
+<birthDE>22. Mai 1925</birthDE>
+<deathEN>August 30, 1991</deathEN>
+<deathDE>30. August 1991</deathDE>
+<birthPlace>
+<XML_Serializer_Tag>Freiburg im Üechtland</XML_Serializer_Tag>
+</birthPlace>
+<deathPlace>
+<XML_Serializer_Tag>Bern</XML_Serializer_Tag>
+</deathPlace>
+<professionOrOccupation>
+<XML_Serializer_Tag>Künstler</XML_Serializer_Tag>
+</professionOrOccupation>
+<dbpResource>http://dbpedia.org/resource/Jean_Tinguely</dbpResource>
+<abstract>Jean Tinguely (auch: Jeannot; * 22. Mai 1925 in Freiburg/Fribourg; † 30. August 1991 in Bern) war ein Schweizer Maler und Bildhauer des Nouveau Réalisme. Er gilt als einer der Hauptvertreter der kinetischen Kunst. Tinguely wurde vor allem bekannt durch seine beweglichen, maschinenähnlichen Skulpturen.</abstract>
+<wikilink>http://en.wikipedia.org/wiki/Jean_Tinguely?oldid=603044683</wikilink>
+<artworks />
+<buildings />
+<books />
+</Person>

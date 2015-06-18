@@ -1,0 +1,30 @@
+<Person>
+<name>Marc Bloch</name>
+<variantName>
+<XML_Serializer_Tag>Marc Léopold Benjamin Bloch</XML_Serializer_Tag>
+<XML_Serializer_Tag>M. Bloch</XML_Serializer_Tag>
+<XML_Serializer_Tag>Marc L. Bloch</XML_Serializer_Tag>
+<XML_Serializer_Tag>Mark Bloch</XML_Serializer_Tag>
+</variantName>
+<thumbnail>https://commons.wikimedia.org/wiki/Special:FilePath/Marc_Bloch.jpg?width=270</thumbnail>
+<birthEN>July 6, 1886</birthEN>
+<birthDE>6. Juli 1886</birthDE>
+<deathEN>June 16, 1944</deathEN>
+<deathDE>16. Juni 1944</deathDE>
+<birthPlace>
+<XML_Serializer_Tag>Lyon</XML_Serializer_Tag>
+</birthPlace>
+<deathPlace>
+<XML_Serializer_Tag>Saint-Didier-de-Formans</XML_Serializer_Tag>
+</deathPlace>
+<professionOrOccupation>
+<XML_Serializer_Tag>Historiker</XML_Serializer_Tag>
+<XML_Serializer_Tag>Autor</XML_Serializer_Tag>
+</professionOrOccupation>
+<dbpResource>http://dbpedia.org/resource/Marc_Bloch</dbpResource>
+<abstract>Marc Bloch (* 6. Juli 1886 in Lyon; † 16. Juni 1944 in Saint-Didier-de-Formans nahe Lyon) war als Mitbegründer der Annales-Schule einer der bedeutendsten französischen Historiker des 20. Jahrhunderts.</abstract>
+<wikilink>http://en.wikipedia.org/wiki/Marc_Bloch?oldid=605444814</wikilink>
+<artworks />
+<buildings />
+<books />
+</Person>

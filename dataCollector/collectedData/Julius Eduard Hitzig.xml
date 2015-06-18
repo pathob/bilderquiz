@@ -1,0 +1,35 @@
+<Person>
+<name>Julius Eduard Hitzig</name>
+<variantName>
+<XML_Serializer_Tag>Eduard</XML_Serializer_Tag>
+<XML_Serializer_Tag>Julius E. Itzig</XML_Serializer_Tag>
+<XML_Serializer_Tag>J. E. Hitzig</XML_Serializer_Tag>
+<XML_Serializer_Tag>Isaak Elias Itzig</XML_Serializer_Tag>
+<XML_Serializer_Tag>Julius E. Hitzig</XML_Serializer_Tag>
+</variantName>
+<thumbnail>https://commons.wikimedia.org/wiki/Special:FilePath/Julius_Eduard_Hitzig_-_Jurist_und_Verleger.jpg?width=270</thumbnail>
+<birthEN>March 26, 1780</birthEN>
+<birthDE>26. März 1780</birthDE>
+<deathEN>November 26, 1849</deathEN>
+<deathDE>26. November 1849</deathDE>
+<birthPlace>
+<XML_Serializer_Tag>Berlin</XML_Serializer_Tag>
+</birthPlace>
+<deathPlace>
+<XML_Serializer_Tag>Berlin</XML_Serializer_Tag>
+</deathPlace>
+<professionOrOccupation>
+<XML_Serializer_Tag>Jurist</XML_Serializer_Tag>
+<XML_Serializer_Tag>Schriftsteller</XML_Serializer_Tag>
+<XML_Serializer_Tag>Kriminalist</XML_Serializer_Tag>
+<XML_Serializer_Tag>Buchhändler</XML_Serializer_Tag>
+<XML_Serializer_Tag>Verleger</XML_Serializer_Tag>
+<XML_Serializer_Tag>Publizist</XML_Serializer_Tag>
+</professionOrOccupation>
+<dbpResource>http://dbpedia.org/resource/Julius_Eduard_Hitzig</dbpResource>
+<abstract>Julius Eduard Hitzig, ursprünglich Isaac Elias Itzig (* 26. März 1780 in Berlin; † 26. November 1849 ebenda), war ein Jurist, Verleger und Schriftsteller.</abstract>
+<wikilink>http://en.wikipedia.org/wiki/Julius_Eduard_Hitzig?oldid=556452925</wikilink>
+<artworks />
+<buildings />
+<books />
+</Person>

@@ -1,0 +1,34 @@
+<Person>
+<name>Fausto Veranzio</name>
+<variantName>
+<XML_Serializer_Tag>Faust Vrančić</XML_Serializer_Tag>
+<XML_Serializer_Tag>Faustus Verancsics</XML_Serializer_Tag>
+<XML_Serializer_Tag>Faustus Verantius</XML_Serializer_Tag>
+<XML_Serializer_Tag>Faustus Verrantius</XML_Serializer_Tag>
+<XML_Serializer_Tag>Fausto Vrančić</XML_Serializer_Tag>
+</variantName>
+<thumbnail>https://commons.wikimedia.org/wiki/Special:FilePath/Pons_ferrevs_by_Faust_Vran%C4%8Di%C4%87.jpg?width=270</thumbnail>
+<birthEN>1551</birthEN>
+<birthDE>1551</birthDE>
+<deathEN>December 27, 1617</deathEN>
+<deathDE>27. Dezember 1617</deathDE>
+<birthPlace>
+<XML_Serializer_Tag>Prvić</XML_Serializer_Tag>
+</birthPlace>
+<deathPlace>
+<XML_Serializer_Tag>Venedig</XML_Serializer_Tag>
+</deathPlace>
+<professionOrOccupation>
+<XML_Serializer_Tag>Ingenieur</XML_Serializer_Tag>
+<XML_Serializer_Tag>Lexikograph</XML_Serializer_Tag>
+<XML_Serializer_Tag>Philosoph</XML_Serializer_Tag>
+<XML_Serializer_Tag>Geschichtsschreiber</XML_Serializer_Tag>
+<XML_Serializer_Tag>Philologe</XML_Serializer_Tag>
+</professionOrOccupation>
+<dbpResource>http://dbpedia.org/resource/Fausto_Veranzio</dbpResource>
+<abstract>Fausto Veranzio (auch Faustus Verantius, serbokroatisch Faust Vrančić/Фауст Вранчић, ungarisch Verancsics Faustus) (* 1551 in Šibenik, Republik Venedig; † 20. Januar 1617 in Venedig) war ein Diplomat, Geistlicher, Universalgelehrter und Erfinder, der der Nachwelt insbesondere durch sein Werk Machinae Novae bekannt wurde.</abstract>
+<wikilink>http://en.wikipedia.org/wiki/Fausto_Veranzio?oldid=601614397</wikilink>
+<artworks />
+<buildings />
+<books />
+</Person>

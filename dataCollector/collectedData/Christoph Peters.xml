@@ -22,8 +22,10 @@
 <XML_Serializer_Tag>Schriftsteller</XML_Serializer_Tag>
 <XML_Serializer_Tag>Maler</XML_Serializer_Tag>
 </professionOrOccupation>
-<artworks />
 <dbpResource>http://dbpedia.org/resource/Christoph_Peters</dbpResource>
 <abstract>Christoph Peters (* 11. Oktober 1966 in Kalkar) ist ein deutscher Schriftsteller.</abstract>
 <wikilink>http://en.wikipedia.org/wiki/Christoph_Peters?oldid=544820970</wikilink>
+<artworks />
+<buildings />
+<books />
 </Person>

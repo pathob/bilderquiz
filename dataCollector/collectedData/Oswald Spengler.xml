@@ -1,0 +1,65 @@
+<Person>
+<name>Oswald Spengler</name>
+<variantName>
+<XML_Serializer_Tag>Oswald Arnold Gottfried Spengler</XML_Serializer_Tag>
+<XML_Serializer_Tag>Osvald Špengler</XML_Serializer_Tag>
+<XML_Serializer_Tag>Osvalʹd Špengler</XML_Serializer_Tag>
+<XML_Serializer_Tag>O. Špengler</XML_Serializer_Tag>
+<XML_Serializer_Tag>... Shupengurā</XML_Serializer_Tag>
+<XML_Serializer_Tag>Uswāld Išpinglir</XML_Serializer_Tag>
+<XML_Serializer_Tag>Ssu-pin-ko-le</XML_Serializer_Tag>
+<XML_Serializer_Tag>Osvalʹd Shpengler</XML_Serializer_Tag>
+<XML_Serializer_Tag>O. Shpengler</XML_Serializer_Tag>
+<XML_Serializer_Tag>シュペングラー、オスヴァルト</XML_Serializer_Tag>
+<XML_Serializer_Tag>奥斯瓦尔德・斯宾格勒</XML_Serializer_Tag>
+<XML_Serializer_Tag>奥斯瓦尔德 斯宾格勒</XML_Serializer_Tag>
+</variantName>
+<thumbnail>https://commons.wikimedia.org/wiki/Special:FilePath/Bundesarchiv_Bild_183-R06610,_Oswald_Spengler.jpg?width=270</thumbnail>
+<birthEN>May 29, 1880</birthEN>
+<birthDE>29. Mai 1880</birthDE>
+<deathEN>May 8, 1936</deathEN>
+<deathDE>8. Mai 1936</deathDE>
+<birthPlace>
+<XML_Serializer_Tag>Blankenburg (Harz)</XML_Serializer_Tag>
+</birthPlace>
+<deathPlace>
+<XML_Serializer_Tag>München</XML_Serializer_Tag>
+</deathPlace>
+<professionOrOccupation>
+<XML_Serializer_Tag>Kulturphilosoph</XML_Serializer_Tag>
+<XML_Serializer_Tag>Philosoph</XML_Serializer_Tag>
+<XML_Serializer_Tag>Philologe</XML_Serializer_Tag>
+<XML_Serializer_Tag>Historiker</XML_Serializer_Tag>
+<XML_Serializer_Tag>Publizist</XML_Serializer_Tag>
+</professionOrOccupation>
+<dbpResource>http://dbpedia.org/resource/Oswald_Spengler</dbpResource>
+<abstract>Oswald Arnold Gottfried Spengler (* 29. Mai 1880 in Blankenburg, Harz; † 8. Mai 1936 in München) war ein deutscher Geschichtsphilosoph, Kulturhistoriker und antidemokratischer politischer Schriftsteller. In seinem historistischen Hauptwerk Der Untergang des Abendlandes, das 1918 erschien, richtet sich Spengler gegen eine lineare Geschichtsschreibung, welche die Geschichte „der Menschheit“ als Geschichte des Fortschritts erzählt. Stattdessen vertritt er die Zyklentheorie, dass Kulturen immer wieder neu entstehen, eine Blütezeit erleben und nach dieser Vollendung untergehen. Der Titel des Werkes zeigt dabei an, dass die Kultur „des Abendlandes“ im Untergang begriffen sei.Spenglers Werk wird unterschiedlich eingeschätzt, so gilt er zum einen als „Meisterdenker der Konservativen Revolution“, zum anderen als geistiger Wegbereiter des Nationalsozialismus, obwohl er wesentliche Gedanken, wie die Rassenideologie, nicht mittrug und sich vom Nationalsozialismus unter Hitler distanzierte. Spengler hat zwar im Urteil einiger Zeitgenossen Entwicklungen seiner Zeit richtig vorausgesagt und andere Geschichtswissenschaftler stark beeinflusst, darunter Franz Borkenau und vor allem Arnold J. Toynbee, aber sein Werk ist für die heutige Geschichtswissenschaft nicht grundlegend.</abstract>
+<wikilink>http://en.wikipedia.org/wiki/Oswald_Spengler?oldid=605275610</wikilink>
+<artworks />
+<buildings />
+<books>
+<XML_Serializer_Tag>
+<book>
+<type>uri</type>
+<value>http://dbpedia.org/resource/The_Decline_of_the_West</value>
+</book>
+<author>
+<type>uri</type>
+<value>http://dbpedia.org/resource/Oswald_Spengler</value>
+</author>
+<thumbnail>
+<type>uri</type>
+<value>http://en.wikipedia.org/wiki/Special:FilePath/Decline_of_the_West_1922.jpg?width=300</value>
+</thumbnail>
+<wikilink>
+<type>uri</type>
+<value>http://en.wikipedia.org/wiki/The_Decline_of_the_West?oldid=605355843</value>
+</wikilink>
+<abstract>
+<type>literal</type>
+<xml:lang>de</xml:lang>
+<value>Der Untergang des Abendlandes – Umrisse einer Morphologie der Weltgeschichte ist das kulturphilosophische Hauptwerk von Oswald Spengler. Der erste Band (Gestalt und Wirklichkeit) wurde von 1918 an in erster und zweiter Auflage im Verlag Braumüller in Wien herausgegeben, der zweite Band (Welthistorische Perspektiven) 1922 beim Verlag C. H. Beck in München. Die weiteren Auflagen seit 1923 sind sämtlich im Verlag C. H. Beck erschienen und revidieren die älteren Teile des Gesamtwerkes in einigen, meist sprachlichen Punkten. Spengler vergleicht das europäisch-nordamerikanische Abendland unter kulturmorphologischen Gesichtspunkten mit sieben anderen Hochkulturen, zu denen er etwa die ägyptische, chinesische, indische oder aztekische Kultur in Mexiko zählt. Er entwirft so das Panorama einer spezifischen Geschichtsphilosophie. Sie reflektiert die Erfahrungen der Zeit vor und während des Ersten Weltkrieges und zeigt sich von den revolutionären Begleitumständen der Epoche inspiriert. Als Philosoph empfiehlt er indes den „Blick auf die historische Formenwelt von Jahrtausenden […] wenn man wirklich die große Krisis der Gegenwart begreifen will.“Der Autor war schon in seiner Dissertation zu Ansätzen des Vergleiches gelangt. Diese Ansätze betrafen bereits die Entwicklung der antiken bzw. der abendländischen Kultur. Interkulturelle Vergleiche zwischen Ereignissen (auch künstlerischer und geistesgeschichtlicher Art) waren zu Spenglers Zeit zwar keineswegs neu und sogar schon in der einflussreichen Geschichtsphilosophie Hegels angelegt, dessen Einfluss auf Spengler nicht zu unterschätzen ist; aus der Verbindung mit einer eigenen Philosophie entwickelte Spengler indes bereits in seiner Dissertation – und jetzt systematisch in seinem Hauptwerk – ein metaphysisch verwurzeltes System, welches den Anspruch erhebt, die gesamte höhere Kulturgeschichte zu erklären und sogar kommende Entwicklungen vorauszusagen: In seinem Buch werde „zum ersten Mal der Versuch gewagt, Geschichte vorauszubestimmen.“Die Prognose der künftigen Entwicklung des Abendlandes formuliert die berühmte These des „Untergangs“, verstanden als notwendiger und im Grunde „natürlicher“ Abschluss einer vorausgehenden Blüte- und anschließender längerer Abstiegszeit, mit nachfolgender charakteristischer „Fellachen-Unkultur“. Diese Interpretation ersetzt die vor dem Ersten Weltkrieg noch weit verbreitete Vorstellung von der kontinuierlichen und geschichtsnotwendigen Entwicklung zu einem höheren, idealen Endzustand und gab Anlass zu dem ungewöhnlichen Erfolg des Werkes.</value>
+</abstract>
+</XML_Serializer_Tag>
+</books>
+</Person>

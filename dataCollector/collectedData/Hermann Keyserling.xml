@@ -1,0 +1,36 @@
+<Person>
+<name>Hermann Keyserling</name>
+<variantName>
+<XML_Serializer_Tag>Hermann von Keyserling</XML_Serializer_Tag>
+<XML_Serializer_Tag>Hermann Alex. Keyserling</XML_Serializer_Tag>
+<XML_Serializer_Tag>Hermann Alexander von Keyserling</XML_Serializer_Tag>
+<XML_Serializer_Tag>Hermann de Keyserling</XML_Serializer_Tag>
+<XML_Serializer_Tag>Hermann Alexander Keyserling</XML_Serializer_Tag>
+<XML_Serializer_Tag>Herman de Keyserling</XML_Serializer_Tag>
+<XML_Serializer_Tag>G. fon Kejzerling</XML_Serializer_Tag>
+<XML_Serializer_Tag>Hermann von Keyserling</XML_Serializer_Tag>
+<XML_Serializer_Tag>Hermann von Keyserlingk</XML_Serializer_Tag>
+<XML_Serializer_Tag>German Kajzerling</XML_Serializer_Tag>
+</variantName>
+<thumbnail>https://commons.wikimedia.org/wiki/Special:FilePath/Ikeysel001p1.jpg?width=270</thumbnail>
+<birthEN>July 20, 1880</birthEN>
+<birthDE>20. Juli 1880</birthDE>
+<deathEN>April 26, 1946</deathEN>
+<deathDE>26. April 1946</deathDE>
+<birthPlace>
+<XML_Serializer_Tag>Könno</XML_Serializer_Tag>
+</birthPlace>
+<deathPlace>
+<XML_Serializer_Tag>Innsbruck</XML_Serializer_Tag>
+</deathPlace>
+<professionOrOccupation>
+<XML_Serializer_Tag>Philosoph</XML_Serializer_Tag>
+<XML_Serializer_Tag>Schriftsteller</XML_Serializer_Tag>
+</professionOrOccupation>
+<dbpResource>http://dbpedia.org/resource/Hermann_Graf_Keyserling</dbpResource>
+<abstract>Hermann Alexander Graf Keyserling, kurz Hermann Keyserling (* 8. Julijul./ 20. Juli 1880greg. in Könno (estnisch: Kõnnu, heute Gemeinde Kaisma) im damaligen Livland; † 26. April 1946 in Innsbruck), war ein deutschbaltischer Philosoph.</abstract>
+<wikilink>http://en.wikipedia.org/wiki/Hermann_Graf_Keyserling?oldid=597362943</wikilink>
+<artworks />
+<buildings />
+<books />
+</Person>

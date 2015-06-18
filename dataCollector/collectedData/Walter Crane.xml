@@ -15,8 +15,10 @@
 <XML_Serializer_Tag>Künstler</XML_Serializer_Tag>
 <XML_Serializer_Tag>Illustrator</XML_Serializer_Tag>
 </professionOrOccupation>
-<artworks />
 <dbpResource>http://dbpedia.org/resource/Walter_Crane</dbpResource>
 <abstract>Walter Crane (* 15. August 1845 in Liverpool; † 14. März 1915 in Horsham, West Sussex) war ein englischer Maler und Illustrator und einer der führenden Vertreter des Arts and Crafts Movements.</abstract>
 <wikilink>http://en.wikipedia.org/wiki/Walter_Crane?oldid=603959938</wikilink>
+<artworks />
+<buildings />
+<books />
 </Person>

@@ -1,0 +1,35 @@
+<Person>
+<name>Alfred von Tirpitz</name>
+<variantName>
+<XML_Serializer_Tag>Alfred Tirpitz</XML_Serializer_Tag>
+<XML_Serializer_Tag>Alfred Peter Friedrich Tirpitz</XML_Serializer_Tag>
+<XML_Serializer_Tag>Alfredo von Tirpitz</XML_Serializer_Tag>
+<XML_Serializer_Tag>A. von Tirpitz</XML_Serializer_Tag>
+<XML_Serializer_Tag>... von Tirpitz</XML_Serializer_Tag>
+<XML_Serializer_Tag>Alfred Peter Friedrich von Tirpitz</XML_Serializer_Tag>
+</variantName>
+<thumbnail>https://commons.wikimedia.org/wiki/Special:FilePath/Bundesarchiv_Bild_134-C1743,_Alfred_von_Tirpitz.jpg?width=270</thumbnail>
+<birthEN>March 19, 1849</birthEN>
+<birthDE>19. März 1849</birthDE>
+<deathEN>March 6, 1930</deathEN>
+<deathDE>6. März 1930</deathDE>
+<birthPlace>
+<XML_Serializer_Tag>Küstrin</XML_Serializer_Tag>
+</birthPlace>
+<deathPlace>
+<XML_Serializer_Tag>Ebenhausen (München)</XML_Serializer_Tag>
+</deathPlace>
+<professionOrOccupation>
+<XML_Serializer_Tag>Marineoffizier</XML_Serializer_Tag>
+<XML_Serializer_Tag>Großadmiral</XML_Serializer_Tag>
+<XML_Serializer_Tag>Staatssekretär</XML_Serializer_Tag>
+<XML_Serializer_Tag>Politiker</XML_Serializer_Tag>
+<XML_Serializer_Tag>Autor</XML_Serializer_Tag>
+</professionOrOccupation>
+<dbpResource>http://dbpedia.org/resource/Alfred_von_Tirpitz</dbpResource>
+<abstract>Alfred Peter Friedrich Tirpitz, ab 1900 von Tirpitz (* 19. März 1849 in Küstrin; † 6. März 1930 in Ebenhausen bei München), war ein deutscher Großadmiral und Nachfolger des Staatssekretärs des Reichsmarineamts Friedrich von Hollmann.</abstract>
+<wikilink>http://en.wikipedia.org/wiki/Alfred_von_Tirpitz?oldid=605393845</wikilink>
+<artworks />
+<buildings />
+<books />
+</Person>

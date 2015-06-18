@@ -14,12 +14,15 @@
 <professionOrOccupation>
 <XML_Serializer_Tag>Maler</XML_Serializer_Tag>
 </professionOrOccupation>
+<dbpResource>http://dbpedia.org/resource/Cosimo_Rosselli</dbpResource>
+<abstract>Cosimo Rosselli (* 1439 in Florenz; † 7. Januar 1507 ebenda) war ein italienischer Maler der Renaissance.</abstract>
+<wikilink>http://en.wikipedia.org/wiki/Cosimo_Rosselli?oldid=602503082</wikilink>
 <artworks>
 <XML_Serializer_Tag>
-<painting>
+<artwork>
 <type>uri</type>
 <value>http://dbpedia.org/resource/Descent_from_Mount_Sinai_(Sistine_Chapel)</value>
-</painting>
+</artwork>
 <thumbnail>
 <type>uri</type>
 <value>http://commons.wikimedia.org/wiki/Special:FilePath/Moses_Rosselli.jpg?width=300</value>
@@ -38,12 +41,17 @@
 <type>uri</type>
 <value>http://en.wikipedia.org/wiki/Descent_from_Mount_Sinai_(Sistine_Chapel)?oldid=601292366</value>
 </wikilink>
+<type>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>Fresco</value>
+</type>
 </XML_Serializer_Tag>
 <XML_Serializer_Tag>
-<painting>
+<artwork>
 <type>uri</type>
 <value>http://dbpedia.org/resource/Last_Supper_(Rosselli)</value>
-</painting>
+</artwork>
 <thumbnail>
 <type>uri</type>
 <value>http://commons.wikimedia.org/wiki/Special:FilePath/Cosimo_Rosselli_Ultima_cena.jpg?width=300</value>
@@ -62,12 +70,17 @@
 <type>uri</type>
 <value>http://en.wikipedia.org/wiki/Last_Supper_(Rosselli)?oldid=601292647</value>
 </wikilink>
+<type>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>Fresco</value>
+</type>
 </XML_Serializer_Tag>
 <XML_Serializer_Tag>
-<painting>
+<artwork>
 <type>uri</type>
 <value>http://dbpedia.org/resource/The_Crossing_of_the_Red_Sea_(Sistine_Chapel)</value>
-</painting>
+</artwork>
 <thumbnail>
 <type>uri</type>
 <value>http://commons.wikimedia.org/wiki/Special:FilePath/Cosimo_Rosselli_Attraversamento_del_Mar_Rosso.jpg?width=300</value>
@@ -86,9 +99,13 @@
 <type>uri</type>
 <value>http://en.wikipedia.org/wiki/The_Crossing_of_the_Red_Sea_(Sistine_Chapel)?oldid=603421408</value>
 </wikilink>
+<type>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>Fresco</value>
+</type>
 </XML_Serializer_Tag>
 </artworks>
-<dbpResource>http://dbpedia.org/resource/Cosimo_Rosselli</dbpResource>
-<abstract>Cosimo Rosselli (* 1439 in Florenz; † 7. Januar 1507 ebenda) war ein italienischer Maler der Renaissance.</abstract>
-<wikilink>http://en.wikipedia.org/wiki/Cosimo_Rosselli?oldid=602503082</wikilink>
+<buildings />
+<books />
 </Person>

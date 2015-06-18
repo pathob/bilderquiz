@@ -1,0 +1,36 @@
+<Person>
+<name>Luis Trenker</name>
+<variantName>
+<XML_Serializer_Tag>Louis Trenker</XML_Serializer_Tag>
+<XML_Serializer_Tag>Luigi Trenker</XML_Serializer_Tag>
+<XML_Serializer_Tag>Alois Franz Trenker</XML_Serializer_Tag>
+</variantName>
+<thumbnail>https://commons.wikimedia.org/wiki/Special:FilePath/WP_Luis_Trenker.jpg?width=270</thumbnail>
+<birthEN>October 4, 1892</birthEN>
+<birthDE>4. Oktober 1892</birthDE>
+<deathEN>April 12, 1990</deathEN>
+<deathDE>12. April 1990</deathDE>
+<birthPlace>
+<XML_Serializer_Tag>St. Ulrich in Gröden, Österreich-Ungarn (heute Italien)</XML_Serializer_Tag>
+</birthPlace>
+<deathPlace>
+<XML_Serializer_Tag>Bozen</XML_Serializer_Tag>
+</deathPlace>
+<professionOrOccupation>
+<XML_Serializer_Tag>Architekt</XML_Serializer_Tag>
+<XML_Serializer_Tag>Bergsteiger</XML_Serializer_Tag>
+<XML_Serializer_Tag>Schriftsteller</XML_Serializer_Tag>
+<XML_Serializer_Tag>Musiker</XML_Serializer_Tag>
+<XML_Serializer_Tag>Schauspieler</XML_Serializer_Tag>
+<XML_Serializer_Tag>Regisseur</XML_Serializer_Tag>
+<XML_Serializer_Tag>Drehbuchautor</XML_Serializer_Tag>
+<XML_Serializer_Tag>Filmproduzent</XML_Serializer_Tag>
+<XML_Serializer_Tag>Bergführer</XML_Serializer_Tag>
+</professionOrOccupation>
+<dbpResource>http://dbpedia.org/resource/Luis_Trenker</dbpResource>
+<abstract>Luis Trenker, geboren als Alois Franz Trenker (* 4. Oktober 1892 in St. Ulrich in Gröden, Tirol, Österreich-Ungarn, heute Südtirol, Italien; † 12. April 1990 in Bozen, Italien), war ein Bergsteiger, Schauspieler, Regisseur und Schriftsteller, der insbesondere für seine Filme über die Alpen bekannt war.</abstract>
+<wikilink>http://en.wikipedia.org/wiki/Luis_Trenker?oldid=605799001</wikilink>
+<artworks />
+<buildings />
+<books />
+</Person>

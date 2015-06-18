@@ -1,0 +1,28 @@
+<Person>
+<name>Julius Stettenheim</name>
+<variantName>
+<XML_Serializer_Tag>Wippchen</XML_Serializer_Tag>
+</variantName>
+<thumbnail>https://de.wikipedia.org/wiki/Special:FilePath/WP_Julius_Stettenheim.jpg?width=270</thumbnail>
+<birthEN>1831</birthEN>
+<birthDE>1831</birthDE>
+<deathEN>1916</deathEN>
+<deathDE>1916</deathDE>
+<birthPlace>
+<XML_Serializer_Tag>Hamburg</XML_Serializer_Tag>
+</birthPlace>
+<deathPlace>
+<XML_Serializer_Tag>Berlin</XML_Serializer_Tag>
+</deathPlace>
+<professionOrOccupation>
+<XML_Serializer_Tag>Schriftsteller</XML_Serializer_Tag>
+<XML_Serializer_Tag>Journalist</XML_Serializer_Tag>
+<XML_Serializer_Tag>Redakteur</XML_Serializer_Tag>
+</professionOrOccupation>
+<dbpResource>http://dbpedia.org/resource/Julius_Stettenheim</dbpResource>
+<abstract>Julius Stettenheim (* 3. Dezember 1831 in Hamburg; † 30. Oktober 1916 in Lichterfelde) war ein deutscher Schriftsteller.</abstract>
+<wikilink>http://en.wikipedia.org/wiki/Julius_Stettenheim?oldid=588602729</wikilink>
+<artworks />
+<buildings />
+<books />
+</Person>

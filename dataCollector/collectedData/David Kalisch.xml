@@ -1,0 +1,28 @@
+<Person>
+<name>David Kalisch</name>
+<variantName>
+<XML_Serializer_Tag>D. Kalisch</XML_Serializer_Tag>
+<XML_Serializer_Tag>D. K.</XML_Serializer_Tag>
+<XML_Serializer_Tag>D. J. Schalk</XML_Serializer_Tag>
+</variantName>
+<thumbnail>https://de.wikipedia.org/wiki/Special:FilePath/David_Kalisch_(GL_1867-1_S_205_A_Neumann).jpg?width=270</thumbnail>
+<birthEN>February 23, 1820</birthEN>
+<birthDE>23. Februar 1820</birthDE>
+<deathEN>August 21, 1872</deathEN>
+<deathDE>21. August 1872</deathDE>
+<birthPlace>
+<XML_Serializer_Tag>Breslau</XML_Serializer_Tag>
+</birthPlace>
+<deathPlace>
+<XML_Serializer_Tag>Berlin</XML_Serializer_Tag>
+</deathPlace>
+<professionOrOccupation>
+<XML_Serializer_Tag>Schriftsteller</XML_Serializer_Tag>
+</professionOrOccupation>
+<dbpResource>http://dbpedia.org/resource/David_Kalisch</dbpResource>
+<abstract>David Kalisch (* 23. Februar 1820 in Breslau (heute Wrocław); † 21. August 1872 in Berlin) war ein deutscher Schriftsteller.</abstract>
+<wikilink>http://en.wikipedia.org/wiki/David_Kalisch?oldid=603371021</wikilink>
+<artworks />
+<buildings />
+<books />
+</Person>

@@ -1,0 +1,48 @@
+<Person>
+<name>Marcello Piacentini</name>
+<variantName />
+<thumbnail>https://commons.wikimedia.org/wiki/Special:FilePath/MarcelloPiacentini1900.jpg?width=270</thumbnail>
+<birthEN>1881</birthEN>
+<birthDE>1881</birthDE>
+<deathEN>1960</deathEN>
+<deathDE>1960</deathDE>
+<birthPlace />
+<deathPlace />
+<professionOrOccupation>
+<XML_Serializer_Tag>Architekt</XML_Serializer_Tag>
+</professionOrOccupation>
+<dbpResource>http://dbpedia.org/resource/Marcello_Piacentini</dbpResource>
+<abstract>Marcello Piacentini (* 8. Dezember 1881 in Rom; † 19. Mai 1960 in Rom) war ein italienischer Architekt, der während des faschistischen Regimes zum ersten „Staatsarchitekten“ Mussolinis avancierte. Im deutlichen Unterschied jedoch zu Albert Speer und dessen herausragender Position als Architekt Hitlers im nationalsozialistischen Deutschland wurde Piacentini nicht mit Vollmachten oder Sonderrechten ausgestattet.</abstract>
+<wikilink>http://en.wikipedia.org/wiki/Marcello_Piacentini?oldid=602935786</wikilink>
+<artworks />
+<buildings>
+<XML_Serializer_Tag>
+<building>
+<type>uri</type>
+<value>http://dbpedia.org/resource/Generali_Building</value>
+</building>
+<name>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>Generali Building</value>
+</name>
+<architect>
+<type>uri</type>
+<value>http://dbpedia.org/resource/Marcello_Piacentini</value>
+</architect>
+<thumbnail>
+<type>uri</type>
+<value>http://commons.wikimedia.org/wiki/Special:FilePath/בניין_ג&apos;נרלי_נקודת_מבט_רחוקה.JPG?width=300</value>
+</thumbnail>
+<wikilink>
+<type>uri</type>
+<value>http://en.wikipedia.org/wiki/Generali_Building?oldid=603298334</value>
+</wikilink>
+<location>
+<type>uri</type>
+<value>http://dbpedia.org/resource/Jerusalem</value>
+</location>
+</XML_Serializer_Tag>
+</buildings>
+<books />
+</Person>

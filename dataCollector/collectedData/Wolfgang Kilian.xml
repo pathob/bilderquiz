@@ -1,0 +1,34 @@
+<Person>
+<name>Wolfgang Kilian</name>
+<variantName>
+<XML_Serializer_Tag>Wolffgang Kilian</XML_Serializer_Tag>
+<XML_Serializer_Tag>Wolf Kilian</XML_Serializer_Tag>
+<XML_Serializer_Tag>Wolfgangus Kilian</XML_Serializer_Tag>
+<XML_Serializer_Tag>Wolfgangus Kilianus</XML_Serializer_Tag>
+<XML_Serializer_Tag>Wolffgangus Kilianus</XML_Serializer_Tag>
+<XML_Serializer_Tag>W. K.</XML_Serializer_Tag>
+</variantName>
+<thumbnail>https://commons.wikimedia.org/wiki/Special:FilePath/Kilian,_Georg_Christoph_-_Wolfgang_Kilian.jpg?width=270</thumbnail>
+<birthEN>May 10, 1581</birthEN>
+<birthDE>10. Mai 1581</birthDE>
+<deathEN>1662</deathEN>
+<deathDE>1662</deathDE>
+<birthPlace>
+<XML_Serializer_Tag>Augsburg</XML_Serializer_Tag>
+</birthPlace>
+<deathPlace>
+<XML_Serializer_Tag>Augsburg</XML_Serializer_Tag>
+</deathPlace>
+<professionOrOccupation>
+<XML_Serializer_Tag>Kupferstecher</XML_Serializer_Tag>
+<XML_Serializer_Tag>Kartograph</XML_Serializer_Tag>
+<XML_Serializer_Tag>Verleger</XML_Serializer_Tag>
+<XML_Serializer_Tag>Künstler</XML_Serializer_Tag>
+</professionOrOccupation>
+<dbpResource>http://dbpedia.org/resource/Wolfgang_Kilian</dbpResource>
+<abstract>Wolfgang Kilian (* 10. Mai 1581 in Augsburg; † 18. Februar 1663 ebenda) war ein deutscher Kupferstecher.</abstract>
+<wikilink>http://en.wikipedia.org/wiki/Wolfgang_Kilian?oldid=566553739</wikilink>
+<artworks />
+<buildings />
+<books />
+</Person>

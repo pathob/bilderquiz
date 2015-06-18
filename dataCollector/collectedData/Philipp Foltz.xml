@@ -18,8 +18,10 @@
 <XML_Serializer_Tag>Genremaler</XML_Serializer_Tag>
 <XML_Serializer_Tag>Direktor</XML_Serializer_Tag>
 </professionOrOccupation>
-<artworks />
 <dbpResource>http://dbpedia.org/resource/Philipp_Foltz</dbpResource>
 <abstract>Philipp von Foltz (* 11. Mai 1805 in Bingen; † 5. August 1877 in München) war ein deutscher Maler.</abstract>
 <wikilink>http://en.wikipedia.org/wiki/Philipp_Foltz?oldid=586223095</wikilink>
+<artworks />
+<buildings />
+<books />
 </Person>

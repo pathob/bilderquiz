@@ -1,0 +1,30 @@
+<Person>
+<name>Hugh Blair</name>
+<variantName>
+<XML_Serializer_Tag>Hugues Blair</XML_Serializer_Tag>
+<XML_Serializer_Tag>Hugo Blair</XML_Serializer_Tag>
+<XML_Serializer_Tag>... Blair</XML_Serializer_Tag>
+</variantName>
+<thumbnail>https://commons.wikimedia.org/wiki/Special:FilePath/Hugh_Blair.jpg?width=270</thumbnail>
+<birthEN>1718</birthEN>
+<birthDE>1718</birthDE>
+<deathEN>1800</deathEN>
+<deathDE>1800</deathDE>
+<birthPlace>
+<XML_Serializer_Tag>Edinburgh</XML_Serializer_Tag>
+</birthPlace>
+<deathPlace>
+<XML_Serializer_Tag>Edinburgh</XML_Serializer_Tag>
+</deathPlace>
+<professionOrOccupation>
+<XML_Serializer_Tag>Theologe</XML_Serializer_Tag>
+<XML_Serializer_Tag>Prediger</XML_Serializer_Tag>
+<XML_Serializer_Tag>Schriftsteller</XML_Serializer_Tag>
+</professionOrOccupation>
+<dbpResource>http://dbpedia.org/resource/Hugh_Blair</dbpResource>
+<abstract>Hugh Blair (* 7. April 1718; † 27. Dezember 1800) war ein schottischer Geistlicher, Schriftsteller und Rhetoriker. Er gilt als einer der einflussreichsten Autoren der schottischen Aufklärung (Scottish Enlightenment).</abstract>
+<wikilink>http://en.wikipedia.org/wiki/Hugh_Blair?oldid=600746098</wikilink>
+<artworks />
+<buildings />
+<books />
+</Person>

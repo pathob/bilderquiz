@@ -14,8 +14,10 @@
 <XML_Serializer_Tag>Künstler</XML_Serializer_Tag>
 <XML_Serializer_Tag>Maler</XML_Serializer_Tag>
 </professionOrOccupation>
-<artworks />
 <dbpResource>http://dbpedia.org/resource/Max_Weiler</dbpResource>
 <abstract>Max Weiler (* 25. September 1900 in Winterthur; † 1. September 1969) war ein Schweizer Fussballspieler und -trainer.</abstract>
 <wikilink>http://en.wikipedia.org/wiki/Max_Weiler?oldid=606595067</wikilink>
+<artworks />
+<buildings />
+<books />
 </Person>

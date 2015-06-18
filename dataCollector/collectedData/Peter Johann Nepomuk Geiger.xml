@@ -22,8 +22,10 @@
 <XML_Serializer_Tag>Illustrator</XML_Serializer_Tag>
 <XML_Serializer_Tag>Radierer</XML_Serializer_Tag>
 </professionOrOccupation>
-<artworks />
 <dbpResource>http://dbpedia.org/resource/Peter_Johann_Nepomuk_Geiger</dbpResource>
 <abstract>Johann Nepomuk Geiger (* 11. Januar 1805 in Wien; † 29. Oktober 1880 ebenda) war ein österreichischer Maler und Zeichner.</abstract>
 <wikilink>http://en.wikipedia.org/wiki/Peter_Johann_Nepomuk_Geiger?oldid=574014294</wikilink>
+<artworks />
+<buildings />
+<books />
 </Person>

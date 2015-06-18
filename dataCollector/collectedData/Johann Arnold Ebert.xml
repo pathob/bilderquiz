@@ -1,0 +1,26 @@
+<Person>
+<name>Johann Arnold Ebert</name>
+<variantName>
+<XML_Serializer_Tag>Arnold Ebert</XML_Serializer_Tag>
+<XML_Serializer_Tag>Johann A. Ebert</XML_Serializer_Tag>
+<XML_Serializer_Tag>J. A. Ebert</XML_Serializer_Tag>
+</variantName>
+<thumbnail>https://commons.wikimedia.org/wiki/Special:FilePath/Johann_Arnold_Ebert_-_Schriftsteller.jpg?width=270</thumbnail>
+<birthEN>February 8, 1723</birthEN>
+<birthDE>8. Februar 1723</birthDE>
+<deathEN>March 19, 1795</deathEN>
+<deathDE>19. März 1795</deathDE>
+<birthPlace />
+<deathPlace />
+<professionOrOccupation>
+<XML_Serializer_Tag>Schriftsteller</XML_Serializer_Tag>
+<XML_Serializer_Tag>Pädagoge</XML_Serializer_Tag>
+<XML_Serializer_Tag>Übersetzer</XML_Serializer_Tag>
+</professionOrOccupation>
+<dbpResource>http://dbpedia.org/resource/Johann_Arnold_Ebert</dbpResource>
+<abstract>Johann Arnold Ebert (* 8. Februar 1723 in Hamburg; † 19. März 1795 in Braunschweig) war ein deutscher Schriftsteller und Übersetzer.</abstract>
+<wikilink>http://en.wikipedia.org/wiki/Johann_Arnold_Ebert?oldid=600829541</wikilink>
+<artworks />
+<buildings />
+<books />
+</Person>

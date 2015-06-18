@@ -1,0 +1,28 @@
+<Person>
+<name>Fernando Savater</name>
+<variantName>
+<XML_Serializer_Tag>Amador Fernández Savater</XML_Serializer_Tag>
+<XML_Serializer_Tag>Amador Fernández-Savater</XML_Serializer_Tag>
+<XML_Serializer_Tag>Amador Fernández Savater</XML_Serializer_Tag>
+</variantName>
+<thumbnail>https://commons.wikimedia.org/wiki/Special:FilePath/Fernando_savater.jpg?width=270</thumbnail>
+<birthEN>1947</birthEN>
+<birthDE>1947</birthDE>
+<deathEN />
+<deathDE />
+<birthPlace>
+<XML_Serializer_Tag>San Sebastián</XML_Serializer_Tag>
+</birthPlace>
+<deathPlace />
+<professionOrOccupation>
+<XML_Serializer_Tag>Schriftsteller</XML_Serializer_Tag>
+<XML_Serializer_Tag>Kolumnist</XML_Serializer_Tag>
+<XML_Serializer_Tag>Übersetzer</XML_Serializer_Tag>
+</professionOrOccupation>
+<dbpResource>http://dbpedia.org/resource/Fernando_Savater</dbpResource>
+<abstract>Fernando Savater (* 21. Juni 1947 in San Sebastián, Spanien) ist Schriftsteller, Übersetzer und Professor für Philosophie an der Universität Complutense Madrid. Er ist außerdem bekannt für sein politisches Eintreten gegen den baskischen Nationalismus.</abstract>
+<wikilink>http://en.wikipedia.org/wiki/Fernando_Savater?oldid=585604462</wikilink>
+<artworks />
+<buildings />
+<books />
+</Person>

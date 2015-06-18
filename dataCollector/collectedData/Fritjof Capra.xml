@@ -1,0 +1,69 @@
+<Person>
+<name>Fritjof Capra</name>
+<variantName>
+<XML_Serializer_Tag>Fritjof Carpa</XML_Serializer_Tag>
+<XML_Serializer_Tag>Frîṭyôf Qâpra</XML_Serializer_Tag>
+</variantName>
+<thumbnail>https://commons.wikimedia.org/wiki/Special:FilePath/Fritjof_Capra.jpeg?width=270</thumbnail>
+<birthEN>1939</birthEN>
+<birthDE>1939</birthDE>
+<deathEN />
+<deathDE />
+<birthPlace>
+<XML_Serializer_Tag>Wien</XML_Serializer_Tag>
+</birthPlace>
+<deathPlace />
+<professionOrOccupation>
+<XML_Serializer_Tag>Physiker</XML_Serializer_Tag>
+<XML_Serializer_Tag>Philosoph</XML_Serializer_Tag>
+</professionOrOccupation>
+<dbpResource>http://dbpedia.org/resource/Fritjof_Capra</dbpResource>
+<abstract>Fritjof Capra (* 1. Februar 1939 in Wien) ist ein österreichischer Physiker, Systemtheoretiker, Philosoph, Managementtrainer und Autor. Er versucht, mit einem ganzheitlich-systemischen Ansatz eine Verbindung zwischen östlicher Mystik und moderner Physik herzustellen und setzt sich für eine nachhaltige ökologische Lebensweise in einer globalen Zivilgesellschaft ein. Mitte der 1970er bis in die 1980er Jahre galt er als einer der Hauptvertreter der esoterischen „New-Age-Bewegung“, ein Begriff, der später nicht mehr als Selbstbezeichnung verwandt wurde, sondern eine abwertende Bedeutung erhielt. Capra distanzierte sich dementsprechend von der Bewegung.Er ist Gründungsdirektor des Center for Ecoliteracy in Berkeley, Kalifornien, und unterrichtet am Schumacher College, einem internationalen Zentrum für ökologische Studien in England. Er lebt in Berkeley in Kalifornien.</abstract>
+<wikilink>http://en.wikipedia.org/wiki/Fritjof_Capra?oldid=595311469</wikilink>
+<artworks />
+<buildings />
+<books>
+<XML_Serializer_Tag>
+<book>
+<type>uri</type>
+<value>http://dbpedia.org/resource/The_Tao_of_Physics</value>
+</book>
+<author>
+<type>uri</type>
+<value>http://dbpedia.org/resource/Fritjof_Capra</value>
+</author>
+<thumbnail>
+<type>uri</type>
+<value>http://commons.wikimedia.org/wiki/Special:FilePath/The_Tao_of_Physics_by_Fritjof_Capra.jpg?width=300</value>
+</thumbnail>
+<published>
+<type>typed-literal</type>
+<datatype>http://www.w3.org/2001/XMLSchema#integer</datatype>
+<value>1975</value>
+</published>
+<wikilink>
+<type>uri</type>
+<value>http://en.wikipedia.org/wiki/The_Tao_of_Physics?oldid=600201719</value>
+</wikilink>
+</XML_Serializer_Tag>
+<XML_Serializer_Tag>
+<book>
+<type>uri</type>
+<value>http://dbpedia.org/resource/The_Turning_Point_(book)</value>
+</book>
+<author>
+<type>uri</type>
+<value>http://dbpedia.org/resource/Fritjof_Capra</value>
+</author>
+<published>
+<type>typed-literal</type>
+<datatype>http://www.w3.org/2001/XMLSchema#integer</datatype>
+<value>1982</value>
+</published>
+<wikilink>
+<type>uri</type>
+<value>http://en.wikipedia.org/wiki/The_Turning_Point_(book)?oldid=599664893</value>
+</wikilink>
+</XML_Serializer_Tag>
+</books>
+</Person>

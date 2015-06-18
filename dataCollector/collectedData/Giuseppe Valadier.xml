@@ -1,0 +1,22 @@
+<Person>
+<name>Giuseppe Valadier</name>
+<variantName>
+<XML_Serializer_Tag>Giuseppe Valladier</XML_Serializer_Tag>
+</variantName>
+<thumbnail>https://commons.wikimedia.org/wiki/Special:FilePath/Valadier.jpg?width=270</thumbnail>
+<birthEN>1762</birthEN>
+<birthDE>1762</birthDE>
+<deathEN>1839</deathEN>
+<deathDE>1839</deathDE>
+<birthPlace />
+<deathPlace />
+<professionOrOccupation>
+<XML_Serializer_Tag>Architekt</XML_Serializer_Tag>
+</professionOrOccupation>
+<dbpResource>http://dbpedia.org/resource/Giuseppe_Valadier</dbpResource>
+<abstract>Giuseppe Valadier (* 14. April 1762 in Rom; † 1. Februar 1839 in Rom) war ein italienischer Architekt, Städtebauer, Archäologe und Goldschmied.</abstract>
+<wikilink>http://en.wikipedia.org/wiki/Giuseppe_Valadier?oldid=599902449</wikilink>
+<artworks />
+<buildings />
+<books />
+</Person>

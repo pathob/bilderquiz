@@ -1,0 +1,80 @@
+<Person>
+<name>Thomas More</name>
+<variantName>
+<XML_Serializer_Tag>Thomas Morc</XML_Serializer_Tag>
+<XML_Serializer_Tag>Thomas, Morus</XML_Serializer_Tag>
+<XML_Serializer_Tag>Thomas, Moore</XML_Serializer_Tag>
+<XML_Serializer_Tag>Thomas, Moor</XML_Serializer_Tag>
+<XML_Serializer_Tag>Thomas, More</XML_Serializer_Tag>
+<XML_Serializer_Tag>Thomas, Moro</XML_Serializer_Tag>
+<XML_Serializer_Tag>Gulielmus Rossaeus</XML_Serializer_Tag>
+<XML_Serializer_Tag>Gulielmus Rosseus</XML_Serializer_Tag>
+<XML_Serializer_Tag>Thomas Delamore</XML_Serializer_Tag>
+<XML_Serializer_Tag>Thomas de la More</XML_Serializer_Tag>
+<XML_Serializer_Tag>Tomaso Moro</XML_Serializer_Tag>
+<XML_Serializer_Tag>Tommaso Moro</XML_Serializer_Tag>
+<XML_Serializer_Tag>Tomás Moro</XML_Serializer_Tag>
+<XML_Serializer_Tag>Thomas de Eschallers Delamore</XML_Serializer_Tag>
+<XML_Serializer_Tag>Thomas Maure</XML_Serializer_Tag>
+<XML_Serializer_Tag>William Ross</XML_Serializer_Tag>
+<XML_Serializer_Tag>Ferdinandus Baravellus</XML_Serializer_Tag>
+<XML_Serializer_Tag>Ferdinand Baravell</XML_Serializer_Tag>
+<XML_Serializer_Tag>Saint Thomas More</XML_Serializer_Tag>
+<XML_Serializer_Tag>... Morus</XML_Serializer_Tag>
+<XML_Serializer_Tag>Henricus Morus</XML_Serializer_Tag>
+<XML_Serializer_Tag>Thomas Morus</XML_Serializer_Tag>
+<XML_Serializer_Tag>Tomás Morus</XML_Serializer_Tag>
+<XML_Serializer_Tag>Tomas Mor</XML_Serializer_Tag>
+<XML_Serializer_Tag>Thomas More</XML_Serializer_Tag>
+<XML_Serializer_Tag>Tomasz More</XML_Serializer_Tag>
+<XML_Serializer_Tag>Tomas Morus</XML_Serializer_Tag>
+<XML_Serializer_Tag>Tomas More</XML_Serializer_Tag>
+<XML_Serializer_Tag>Thomas Moor</XML_Serializer_Tag>
+<XML_Serializer_Tag>Thomas Mor</XML_Serializer_Tag>
+</variantName>
+<thumbnail>https://commons.wikimedia.org/wiki/Special:FilePath/Hans_Holbein_d._J._065.jpg?width=270</thumbnail>
+<birthEN>February 7, 1478</birthEN>
+<birthDE>7. Februar 1478</birthDE>
+<deathEN>July 6, 1535</deathEN>
+<deathDE>6. Juli 1535</deathDE>
+<birthPlace>
+<XML_Serializer_Tag>London</XML_Serializer_Tag>
+</birthPlace>
+<deathPlace>
+<XML_Serializer_Tag>London</XML_Serializer_Tag>
+</deathPlace>
+<professionOrOccupation>
+<XML_Serializer_Tag>Politiker</XML_Serializer_Tag>
+<XML_Serializer_Tag>Philosoph</XML_Serializer_Tag>
+</professionOrOccupation>
+<dbpResource>http://dbpedia.org/resource/Thomas_More</dbpResource>
+<abstract>Thomas Morus (englisch Thomas More; * wahrscheinlich 7. Februar 1478 in London; † 6. Juli 1535 London) war ein englischer Staatsmann und humanistischer Autor. Er ist ein Heiliger und Märtyrer der römisch-katholischen Kirche (Gedenktag 22. Juni) und Patron der Regierenden, der Politiker sowie der Katholischen jungen Gemeinde (KjG).</abstract>
+<wikilink>http://en.wikipedia.org/wiki/Thomas_More?oldid=606525043</wikilink>
+<artworks />
+<buildings />
+<books>
+<XML_Serializer_Tag>
+<book>
+<type>uri</type>
+<value>http://dbpedia.org/resource/Utopia_(book)</value>
+</book>
+<author>
+<type>uri</type>
+<value>http://dbpedia.org/resource/Thomas_More</value>
+</author>
+<thumbnail>
+<type>uri</type>
+<value>http://commons.wikimedia.org/wiki/Special:FilePath/Isola_di_Utopia_Moro.jpg?width=300</value>
+</thumbnail>
+<wikilink>
+<type>uri</type>
+<value>http://en.wikipedia.org/wiki/Utopia_(book)?oldid=606496977</value>
+</wikilink>
+<abstract>
+<type>literal</type>
+<xml:lang>de</xml:lang>
+<value>Utopia ist der Titel eines 1516 von Thomas Morus in lateinischer Sprache verfassten philosophischen Dialogs. Die Schilderung einer fernen „idealen“ Gesellschaft gab den Anstoß zum Genre der Sozialutopie.Die Erstveröffentlichung geschah auf Betreiben des berühmten Humanisten Erasmus von Rotterdam 1516 in Löwen, weitere Drucke folgten 1517 in Paris und 1518 in Basel. Die erste deutsche Übersetzung – unter dem Titel Von der wunderbarlichen Innsul Utopia genannt, das andere Buch – erschien 1524.Rahmenhandlung sind die Erzählungen eines Seemannes, der eine Zeit lang bei den Utopiern gelebt haben will. Der Roman beschreibt eine auf rationalen Gleichheitsgrundsätzen, Arbeitsamkeit und dem Streben nach Bildung basierende Gesellschaft mit demokratischen Grundzügen. In der Republik ist aller Besitz gemeinschaftlich, Anwälte sind unbekannt, und unabwendbare Kriege werden bevorzugt mit ausländischen Söldnern geführt.Das Buch war so prägend, dass man fortan jeden Roman, in dem eine erfundene, positive Gesellschaft dargestellt wird, als Utopie oder utopischen Roman bezeichnete. Bedeutende Utopien nach Utopia waren A Modern Utopia von H. G. Wells, Ecotopia von Ernest Callenbach und Island von Aldous Huxley.Das Genre des utopischen Romans wird heute oft als Bereich der Science-Fiction aufgefasst.</value>
+</abstract>
+</XML_Serializer_Tag>
+</books>
+</Person>

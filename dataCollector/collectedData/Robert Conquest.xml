@@ -1,0 +1,31 @@
+<Person>
+<name>Robert Conquest</name>
+<variantName>
+<XML_Serializer_Tag>R. Conquest</XML_Serializer_Tag>
+<XML_Serializer_Tag>George Robert Acworth Conquest</XML_Serializer_Tag>
+<XML_Serializer_Tag>George Robert Ackworth Conquest</XML_Serializer_Tag>
+<XML_Serializer_Tag>Robert Konkvest</XML_Serializer_Tag>
+<XML_Serializer_Tag>R. Conquest</XML_Serializer_Tag>
+</variantName>
+<thumbnail>https://commons.wikimedia.org/wiki/Special:FilePath/Aretha_Franklin_honored_with_the_Presidential_Medal_of_Freedom.jpg?width=270</thumbnail>
+<birthEN>1917</birthEN>
+<birthDE>1917</birthDE>
+<deathEN />
+<deathDE />
+<birthPlace>
+<XML_Serializer_Tag>Malvern (Worcester)</XML_Serializer_Tag>
+</birthPlace>
+<deathPlace />
+<professionOrOccupation>
+<XML_Serializer_Tag>Schriftsteller</XML_Serializer_Tag>
+<XML_Serializer_Tag>Historiker</XML_Serializer_Tag>
+<XML_Serializer_Tag>Politologe</XML_Serializer_Tag>
+<XML_Serializer_Tag>Science-Fiction-Autor</XML_Serializer_Tag>
+</professionOrOccupation>
+<dbpResource>http://dbpedia.org/resource/Robert_Conquest</dbpResource>
+<abstract>Robert Conquest mit vollem Namen George Robert Ackworth Conquest (* 15. Juli 1917 in Malvern, Worcestershire, England) ist ein britischer Dichter und Historiker. Er ist seit 1980 als Politologe in konservativen Institutionen tätig. Conquest wurde in England als traditionalistischer Dichter und Science-Fiction-Autor bekannt. Conquest gilt als einer der wichtigsten westlichen Historiker mit Werken über die Stalinzeit.</abstract>
+<wikilink>http://en.wikipedia.org/wiki/Robert_Conquest?oldid=605388377</wikilink>
+<artworks />
+<buildings />
+<books />
+</Person>

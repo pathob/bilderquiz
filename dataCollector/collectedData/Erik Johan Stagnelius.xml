@@ -1,0 +1,24 @@
+<Person>
+<name>Erik Johan Stagnelius</name>
+<variantName>
+<XML_Serializer_Tag>Erik J. Stagnelius</XML_Serializer_Tag>
+</variantName>
+<thumbnail>https://commons.wikimedia.org/wiki/Special:FilePath/Erik_Johan_Stagnelius,_drawing.jpg?width=270</thumbnail>
+<birthEN>October 14, 1793</birthEN>
+<birthDE>14. Oktober 1793</birthDE>
+<deathEN>April 3, 1823</deathEN>
+<deathDE>3. April 1823</deathDE>
+<birthPlace />
+<deathPlace>
+<XML_Serializer_Tag>Stockholm</XML_Serializer_Tag>
+</deathPlace>
+<professionOrOccupation>
+<XML_Serializer_Tag>Lyriker</XML_Serializer_Tag>
+</professionOrOccupation>
+<dbpResource>http://dbpedia.org/resource/Erik_Johan_Stagnelius</dbpResource>
+<abstract>Erik Johan Stagnelius (* 14. Oktober 1793 in Gärdslösa auf Öland; † 3. April 1823 in Stockholm) war ein schwedischer Dichter der Romantik.</abstract>
+<wikilink>http://en.wikipedia.org/wiki/Erik_Johan_Stagnelius?oldid=598844917</wikilink>
+<artworks />
+<buildings />
+<books />
+</Person>

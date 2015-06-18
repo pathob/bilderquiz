@@ -1,0 +1,30 @@
+<Person>
+<name>Elizabeth Shaw</name>
+<variantName>
+<XML_Serializer_Tag>Elizabeth Graetz</XML_Serializer_Tag>
+<XML_Serializer_Tag>Erizabesu Shō</XML_Serializer_Tag>
+<XML_Serializer_Tag>Elisabeth Shaw</XML_Serializer_Tag>
+</variantName>
+<thumbnail>https://commons.wikimedia.org/wiki/Special:FilePath/Elizabeth_Shaw_(1989)_by_Guenter_Prust.jpg?width=270</thumbnail>
+<birthEN>May 4, 1920</birthEN>
+<birthDE>4. Mai 1920</birthDE>
+<deathEN>June 27, 1992</deathEN>
+<deathDE>27. Juni 1992</deathDE>
+<birthPlace>
+<XML_Serializer_Tag>Belfast</XML_Serializer_Tag>
+</birthPlace>
+<deathPlace>
+<XML_Serializer_Tag>Berlin</XML_Serializer_Tag>
+</deathPlace>
+<professionOrOccupation>
+<XML_Serializer_Tag>Illustratorin</XML_Serializer_Tag>
+<XML_Serializer_Tag>Kinderbuchautorin</XML_Serializer_Tag>
+<XML_Serializer_Tag>Schriftstellerin</XML_Serializer_Tag>
+</professionOrOccupation>
+<dbpResource>http://dbpedia.org/resource/Elizabeth_Shaw_(artist)</dbpResource>
+<abstract>Elizabeth Shaw (* 4. Mai 1920 in Belfast; † 27. Juni 1992 in Berlin) war eine irische Grafikerin und Kinderbuchautorin.</abstract>
+<wikilink>http://en.wikipedia.org/wiki/Elizabeth_Shaw_(artist)?oldid=592461266</wikilink>
+<artworks />
+<buildings />
+<books />
+</Person>

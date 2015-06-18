@@ -1,0 +1,31 @@
+<Person>
+<name>Ferdinand Bonn</name>
+<variantName>
+<XML_Serializer_Tag>Ferdinand Franz Josef Bonn</XML_Serializer_Tag>
+<XML_Serializer_Tag>Florian Endli</XML_Serializer_Tag>
+<XML_Serializer_Tag>Franz Baier</XML_Serializer_Tag>
+</variantName>
+<thumbnail>https://commons.wikimedia.org/wiki/Special:FilePath/Bonn_Ferdinand.jpg?width=270</thumbnail>
+<birthEN>December 20, 1861</birthEN>
+<birthDE>20. Dezember 1861</birthDE>
+<deathEN>September 24, 1933</deathEN>
+<deathDE>24. September 1933</deathDE>
+<birthPlace>
+<XML_Serializer_Tag>Donauwörth</XML_Serializer_Tag>
+</birthPlace>
+<deathPlace>
+<XML_Serializer_Tag>Berlin</XML_Serializer_Tag>
+</deathPlace>
+<professionOrOccupation>
+<XML_Serializer_Tag>Schriftsteller</XML_Serializer_Tag>
+<XML_Serializer_Tag>Theaterdirektor</XML_Serializer_Tag>
+<XML_Serializer_Tag>Schauspieler</XML_Serializer_Tag>
+<XML_Serializer_Tag>Drehbuchautor</XML_Serializer_Tag>
+</professionOrOccupation>
+<dbpResource>http://dbpedia.org/resource/Ferdinand_Bonn</dbpResource>
+<abstract>Ferdinand Franz Josef Bonn (* 20. Dezember 1861 in Donauwörth; † 24. September 1933 in Berlin) war ein deutscher Schauspieler, Bühnenautor und Theaterleiter.</abstract>
+<wikilink>http://en.wikipedia.org/wiki/Ferdinand_Bonn?oldid=603235168</wikilink>
+<artworks />
+<buildings />
+<books />
+</Person>

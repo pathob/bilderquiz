@@ -1,0 +1,29 @@
+<Person>
+<name>Charles Robert Maturin</name>
+<variantName>
+<XML_Serializer_Tag>C. Maturin</XML_Serializer_Tag>
+<XML_Serializer_Tag>Dennis Jasper Murphy</XML_Serializer_Tag>
+<XML_Serializer_Tag>Charles R. Maturin</XML_Serializer_Tag>
+<XML_Serializer_Tag>Charles Maturin</XML_Serializer_Tag>
+<XML_Serializer_Tag>Robert C. Maturin</XML_Serializer_Tag>
+<XML_Serializer_Tag>R. C. Maturin</XML_Serializer_Tag>
+<XML_Serializer_Tag>Č. R. Metʹjurin</XML_Serializer_Tag>
+<XML_Serializer_Tag>Čarlz Robert Met&apos;jurin</XML_Serializer_Tag>
+</variantName>
+<thumbnail>https://commons.wikimedia.org/wiki/Special:FilePath/Maturin.jpg?width=270</thumbnail>
+<birthEN>1782</birthEN>
+<birthDE>1782</birthDE>
+<deathEN>1824</deathEN>
+<deathDE>1824</deathDE>
+<birthPlace />
+<deathPlace />
+<professionOrOccupation>
+<XML_Serializer_Tag>Schriftsteller</XML_Serializer_Tag>
+</professionOrOccupation>
+<dbpResource>http://dbpedia.org/resource/Charles_Maturin</dbpResource>
+<abstract>Charles Robert Maturin (* 25. September 1782 in Dublin; † 30. Oktober 1824 ebenda) war ein irischer protestantischer Geistlicher und Verfasser von Schauerromanen und -schauspielen.</abstract>
+<wikilink>http://en.wikipedia.org/wiki/Charles_Maturin?oldid=590339324</wikilink>
+<artworks />
+<buildings />
+<books />
+</Person>

@@ -21,8 +21,10 @@
 <XML_Serializer_Tag>Pazifist</XML_Serializer_Tag>
 <XML_Serializer_Tag>Künstler</XML_Serializer_Tag>
 </professionOrOccupation>
-<artworks />
 <dbpResource>http://dbpedia.org/resource/Otto_Dix</dbpResource>
 <abstract>Wilhelm Heinrich Otto Dix (* 2. Dezember 1891 in Untermhaus, heute Stadtteil von Gera; † 25. Juli 1969 in Singen am Hohentwiel) war ein bedeutender deutscher Maler und Grafiker des 20. Jahrhunderts.Otto Dix’ Werk ist von stilistischer Vielfalt geprägt, bleibt jedoch in seiner künstlerischen Grundhaltung dem Realismus verpflichtet. Am bekanntesten sind diejenigen seiner Gemälde, welche der Neuen Sachlichkeit (Verismus) zugerechnet werden.Dix gilt als exzellenter Zeichner und hinterließ mehr als 6.000 Zeichnungen und Skizzen. Die umfangreichsten Werksammlungen befinden sich im Kunstmuseum Stuttgart und im Museum Gunzenhauser in Chemnitz. Den weltweit größten Bestand an Arbeiten auf Papier besitzt die Galerie Albstadt.</abstract>
 <wikilink>http://en.wikipedia.org/wiki/Otto_Dix?oldid=606606369</wikilink>
+<artworks />
+<buildings />
+<books />
 </Person>

@@ -23,12 +23,15 @@
 <XML_Serializer_Tag>Radierer</XML_Serializer_Tag>
 <XML_Serializer_Tag>Lithograph</XML_Serializer_Tag>
 </professionOrOccupation>
+<dbpResource>http://dbpedia.org/resource/Odilon_Redon</dbpResource>
+<abstract>Odilon Redon, geboren als Bertrand-Jean Redon, (* 22. April 1840 in Bordeaux; † 6. Juli 1916 in Paris) war ein französischer Grafiker und Maler des Symbolismus und Mitbegründer der Société des Artistes Indépendants. Das Werk des Künstler gliedert sich in eine frühe schwarze und eine (späte) farbige Phase.</abstract>
+<wikilink>http://en.wikipedia.org/wiki/Odilon_Redon?oldid=603873182</wikilink>
 <artworks>
 <XML_Serializer_Tag>
-<painting>
+<artwork>
 <type>uri</type>
 <value>http://dbpedia.org/resource/The_Cyclops_(Redon)</value>
-</painting>
+</artwork>
 <thumbnail>
 <type>uri</type>
 <value>http://commons.wikimedia.org/wiki/Special:FilePath/1914_Redon_Zyklop_anagoria.JPG?width=300</value>
@@ -44,7 +47,6 @@
 </wikilink>
 </XML_Serializer_Tag>
 </artworks>
-<dbpResource>http://dbpedia.org/resource/Odilon_Redon</dbpResource>
-<abstract>Odilon Redon, geboren als Bertrand-Jean Redon, (* 22. April 1840 in Bordeaux; † 6. Juli 1916 in Paris) war ein französischer Grafiker und Maler des Symbolismus und Mitbegründer der Société des Artistes Indépendants. Das Werk des Künstler gliedert sich in eine frühe schwarze und eine (späte) farbige Phase.</abstract>
-<wikilink>http://en.wikipedia.org/wiki/Odilon_Redon?oldid=603873182</wikilink>
+<buildings />
+<books />
 </Person>

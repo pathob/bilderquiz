@@ -16,8 +16,10 @@
 <XML_Serializer_Tag>Maler</XML_Serializer_Tag>
 <XML_Serializer_Tag>Graphiker</XML_Serializer_Tag>
 </professionOrOccupation>
-<artworks />
 <dbpResource>http://dbpedia.org/resource/Wilhelm_Lehmbruck</dbpResource>
 <abstract>Wilhelm Lehmbruck (* 4. Januar 1881 in Meiderich bei Duisburg; † 25. März 1919 in Berlin) war ein deutscher Bildhauer und Grafiker.</abstract>
 <wikilink>http://en.wikipedia.org/wiki/Wilhelm_Lehmbruck?oldid=605074465</wikilink>
+<artworks />
+<buildings />
+<books />
 </Person>

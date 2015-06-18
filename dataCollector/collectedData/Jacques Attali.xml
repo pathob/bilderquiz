@@ -1,0 +1,59 @@
+<Person>
+<name>Jacques Attali</name>
+<variantName>
+<XML_Serializer_Tag>J. Attali</XML_Serializer_Tag>
+<XML_Serializer_Tag>Jacques José Attali</XML_Serializer_Tag>
+</variantName>
+<thumbnail>https://commons.wikimedia.org/wiki/Special:FilePath/Jacques_Attali.jpg?width=270</thumbnail>
+<birthEN>1943</birthEN>
+<birthDE>1943</birthDE>
+<deathEN />
+<deathDE />
+<birthPlace />
+<deathPlace />
+<professionOrOccupation>
+<XML_Serializer_Tag>Wirtschaftswissenschaftler</XML_Serializer_Tag>
+<XML_Serializer_Tag>Schriftsteller</XML_Serializer_Tag>
+<XML_Serializer_Tag>Politikberater</XML_Serializer_Tag>
+</professionOrOccupation>
+<dbpResource>http://dbpedia.org/resource/Jacques_Attali</dbpResource>
+<abstract>Jacques Attali (* 1. November 1943 in Algier) ist ein französischer Wirtschaftswissenschaftler, Autor und hoher Beamter. Er war langjähriger Berater des französischen Staatspräsidenten François Mitterrand.</abstract>
+<wikilink>http://en.wikipedia.org/wiki/Jacques_Attali?oldid=603711428</wikilink>
+<artworks />
+<buildings />
+<books>
+<XML_Serializer_Tag>
+<book>
+<type>uri</type>
+<value>http://dbpedia.org/resource/A_Brief_History_of_the_Future</value>
+</book>
+<author>
+<type>uri</type>
+<value>http://dbpedia.org/resource/Jacques_Attali</value>
+</author>
+<published>
+<type>typed-literal</type>
+<datatype>http://www.w3.org/2001/XMLSchema#date</datatype>
+<value>2009-03-11+02:00</value>
+</published>
+<wikilink>
+<type>uri</type>
+<value>http://en.wikipedia.org/wiki/A_Brief_History_of_the_Future?oldid=584470786</value>
+</wikilink>
+</XML_Serializer_Tag>
+<XML_Serializer_Tag>
+<book>
+<type>uri</type>
+<value>http://dbpedia.org/resource/Noise:_The_Political_Economy_of_Music</value>
+</book>
+<author>
+<type>uri</type>
+<value>http://dbpedia.org/resource/Jacques_Attali</value>
+</author>
+<wikilink>
+<type>uri</type>
+<value>http://en.wikipedia.org/wiki/Noise:_The_Political_Economy_of_Music?oldid=592690170</value>
+</wikilink>
+</XML_Serializer_Tag>
+</books>
+</Person>

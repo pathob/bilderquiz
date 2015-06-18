@@ -17,12 +17,15 @@
 <professionOrOccupation>
 <XML_Serializer_Tag>Maler</XML_Serializer_Tag>
 </professionOrOccupation>
+<dbpResource>http://dbpedia.org/resource/Paul_Gauguin</dbpResource>
+<abstract>Eugène Henri Paul Gauguin [øʒˌɛn ɑ̃ˌʁi ˌpol ɡoˈɡɛ̃] (* 7. Juni 1848 in Paris; † 8. Mai 1903 in Atuona auf Hiva Oa, Französisch-Polynesien) war ein französischer Maler. Darüber hinaus fertigte er Keramiken, Holzschnitzereien und Holzschnitte an. In der Öffentlichkeit ist er vor allem durch seine Bilder aus der Südsee bekannt. Gauguins postimpressionistisches Werk beeinflusste stark die Nabis und den Symbolismus; er war Mitbegründer des Synthetismus und wurde zu einem Wegbereiter des Expressionismus. Damit spielte er eine wichtige Rolle in der Entwicklung der europäischen Malerei.</abstract>
+<wikilink>http://en.wikipedia.org/wiki/Paul_Gauguin?oldid=606255372</wikilink>
 <artworks>
 <XML_Serializer_Tag>
-<painting>
+<artwork>
 <type>uri</type>
 <value>http://dbpedia.org/resource/The_Painter_of_Sunflowers</value>
-</painting>
+</artwork>
 <thumbnail>
 <type>uri</type>
 <value>http://commons.wikimedia.org/wiki/Special:FilePath/Paul_Gauguin_104.jpg?width=300</value>
@@ -41,12 +44,17 @@
 <type>uri</type>
 <value>http://en.wikipedia.org/wiki/The_Painter_of_Sunflowers?oldid=590182144</value>
 </wikilink>
+<type>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>Oil on canvas</value>
+</type>
 </XML_Serializer_Tag>
 <XML_Serializer_Tag>
-<painting>
+<artwork>
 <type>uri</type>
 <value>http://dbpedia.org/resource/Tahitian_Women_on_the_Beach</value>
-</painting>
+</artwork>
 <thumbnail>
 <type>uri</type>
 <value>http://commons.wikimedia.org/wiki/Special:FilePath/Paul_Gauguin_056.jpg?width=300</value>
@@ -65,12 +73,17 @@
 <type>uri</type>
 <value>http://en.wikipedia.org/wiki/Tahitian_Women_on_the_Beach?oldid=605519037</value>
 </wikilink>
+<type>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>oil on canvas</value>
+</type>
 </XML_Serializer_Tag>
 <XML_Serializer_Tag>
-<painting>
+<artwork>
 <type>uri</type>
 <value>http://dbpedia.org/resource/Two_Tahitian_Women</value>
-</painting>
+</artwork>
 <thumbnail>
 <type>uri</type>
 <value>http://commons.wikimedia.org/wiki/Special:FilePath/Paul_Gauguin_-_Deux_Tahitiennes.jpg?width=300</value>
@@ -89,12 +102,17 @@
 <type>uri</type>
 <value>http://en.wikipedia.org/wiki/Two_Tahitian_Women?oldid=598915185</value>
 </wikilink>
+<type>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>oil on canvas</value>
+</type>
 </XML_Serializer_Tag>
 <XML_Serializer_Tag>
-<painting>
+<artwork>
 <type>uri</type>
 <value>http://dbpedia.org/resource/Landscape_near_Arles</value>
-</painting>
+</artwork>
 <thumbnail>
 <type>uri</type>
 <value>http://commons.wikimedia.org/wiki/Special:FilePath/Gauguin,_Paul_-_Landscape_near_Arles_-_Google_Art_Project.jpg?width=300</value>
@@ -113,12 +131,17 @@
 <type>uri</type>
 <value>http://en.wikipedia.org/wiki/Landscape_near_Arles?oldid=535222376</value>
 </wikilink>
+<type>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>Oil painting on canvas</value>
+</type>
 </XML_Serializer_Tag>
 <XML_Serializer_Tag>
-<painting>
+<artwork>
 <type>uri</type>
 <value>http://dbpedia.org/resource/Where_Do_We_Come_From%3F_What_Are_We%3F_Where_Are_We_Going%3F</value>
-</painting>
+</artwork>
 <thumbnail>
 <type>uri</type>
 <value>http://commons.wikimedia.org/wiki/Special:FilePath/Woher_kommen_wir_Wer_sind_wir_Wohin_gehen_wir.jpg?width=300</value>
@@ -137,12 +160,17 @@
 <type>uri</type>
 <value>http://en.wikipedia.org/wiki/Where_Do_We_Come_From%3F_What_Are_We%3F_Where_Are_We_Going%3F?oldid=605275533</value>
 </wikilink>
+<type>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>oil on canvas</value>
+</type>
 </XML_Serializer_Tag>
 <XML_Serializer_Tag>
-<painting>
+<artwork>
 <type>uri</type>
 <value>http://dbpedia.org/resource/Vision_After_the_Sermon</value>
-</painting>
+</artwork>
 <thumbnail>
 <type>uri</type>
 <value>http://commons.wikimedia.org/wiki/Special:FilePath/Paul_Gauguin_137.jpg?width=300</value>
@@ -161,12 +189,16 @@
 <type>uri</type>
 <value>http://en.wikipedia.org/wiki/Vision_After_the_Sermon?oldid=588305231</value>
 </wikilink>
+<type>
+<type>uri</type>
+<value>http://dbpedia.org/resource/Oil_painting</value>
+</type>
 </XML_Serializer_Tag>
 <XML_Serializer_Tag>
-<painting>
+<artwork>
 <type>uri</type>
 <value>http://dbpedia.org/resource/The_Green_Christ</value>
-</painting>
+</artwork>
 <thumbnail>
 <type>uri</type>
 <value>http://commons.wikimedia.org/wiki/Special:FilePath/Paul_Gauguin_028.jpg?width=300</value>
@@ -185,12 +217,17 @@
 <type>uri</type>
 <value>http://en.wikipedia.org/wiki/The_Green_Christ?oldid=585966951</value>
 </wikilink>
+<type>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>Oil on canvas</value>
+</type>
 </XML_Serializer_Tag>
 <XML_Serializer_Tag>
-<painting>
+<artwork>
 <type>uri</type>
 <value>http://dbpedia.org/resource/Oviri_(Gauguin)</value>
-</painting>
+</artwork>
 <thumbnail>
 <type>uri</type>
 <value>http://commons.wikimedia.org/wiki/Special:FilePath/Paul_Gauguin,_1894,_Oviri_(Sauvage),_partially_glazed_stoneware,_75_x_19_x_27_cm,_Musée_d&apos;Orsay,_Paris.jpg?width=300</value>
@@ -209,12 +246,17 @@
 <type>uri</type>
 <value>http://en.wikipedia.org/wiki/Oviri_(Gauguin)?oldid=585958368</value>
 </wikilink>
+<type>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>Partially glazed Stoneware</value>
+</type>
 </XML_Serializer_Tag>
 <XML_Serializer_Tag>
-<painting>
+<artwork>
 <type>uri</type>
 <value>http://dbpedia.org/resource/The_Flageolet_Player_on_the_Cliff</value>
-</painting>
+</artwork>
 <thumbnail>
 <type>uri</type>
 <value>http://commons.wikimedia.org/wiki/Special:FilePath/Gauguin,_Paul_-_The_Flageolet_Player_on_the_Cliff_-_Google_Art_Project.jpg?width=300</value>
@@ -233,12 +275,17 @@
 <type>uri</type>
 <value>http://en.wikipedia.org/wiki/The_Flageolet_Player_on_the_Cliff?oldid=535268041</value>
 </wikilink>
+<type>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>Oil painting on canvas</value>
+</type>
 </XML_Serializer_Tag>
 <XML_Serializer_Tag>
-<painting>
+<artwork>
 <type>uri</type>
 <value>http://dbpedia.org/resource/The_Yellow_Christ</value>
-</painting>
+</artwork>
 <thumbnail>
 <type>uri</type>
 <value>http://commons.wikimedia.org/wiki/Special:FilePath/Gauguin_Il_Cristo_giallo.jpg?width=300</value>
@@ -257,12 +304,17 @@
 <type>uri</type>
 <value>http://en.wikipedia.org/wiki/The_Yellow_Christ?oldid=587446085</value>
 </wikilink>
+<type>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>Oil on canvas</value>
+</type>
 </XML_Serializer_Tag>
 <XML_Serializer_Tag>
-<painting>
+<artwork>
 <type>uri</type>
 <value>http://dbpedia.org/resource/When_will_you_marry%3F</value>
-</painting>
+</artwork>
 <thumbnail>
 <type>uri</type>
 <value>http://commons.wikimedia.org/wiki/Special:FilePath/Paul_Gauguin_138.jpg?width=300</value>
@@ -281,12 +333,16 @@
 <type>uri</type>
 <value>http://en.wikipedia.org/wiki/When_will_you_marry%3F?oldid=567945477</value>
 </wikilink>
+<type>
+<type>uri</type>
+<value>http://dbpedia.org/resource/Oil_painting</value>
+</type>
 </XML_Serializer_Tag>
 <XML_Serializer_Tag>
-<painting>
+<artwork>
 <type>uri</type>
 <value>http://dbpedia.org/resource/Still_Life_with_Profile_of_Laval</value>
-</painting>
+</artwork>
 <thumbnail>
 <type>uri</type>
 <value>http://commons.wikimedia.org/wiki/Special:FilePath/Gauguin,_Paul_-_Still_Life_with_Profile_of_Laval_-_Google_Art_Project.jpg?width=300</value>
@@ -305,9 +361,13 @@
 <type>uri</type>
 <value>http://en.wikipedia.org/wiki/Still_Life_with_Profile_of_Laval?oldid=535222306</value>
 </wikilink>
+<type>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>Oil painting on canvas</value>
+</type>
 </XML_Serializer_Tag>
 </artworks>
-<dbpResource>http://dbpedia.org/resource/Paul_Gauguin</dbpResource>
-<abstract>Eugène Henri Paul Gauguin [øʒˌɛn ɑ̃ˌʁi ˌpol ɡoˈɡɛ̃] (* 7. Juni 1848 in Paris; † 8. Mai 1903 in Atuona auf Hiva Oa, Französisch-Polynesien) war ein französischer Maler. Darüber hinaus fertigte er Keramiken, Holzschnitzereien und Holzschnitte an. In der Öffentlichkeit ist er vor allem durch seine Bilder aus der Südsee bekannt. Gauguins postimpressionistisches Werk beeinflusste stark die Nabis und den Symbolismus; er war Mitbegründer des Synthetismus und wurde zu einem Wegbereiter des Expressionismus. Damit spielte er eine wichtige Rolle in der Entwicklung der europäischen Malerei.</abstract>
-<wikilink>http://en.wikipedia.org/wiki/Paul_Gauguin?oldid=606255372</wikilink>
+<buildings />
+<books />
 </Person>

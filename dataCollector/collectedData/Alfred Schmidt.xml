@@ -1,0 +1,27 @@
+<Person>
+<name>Alfred Schmidt</name>
+<variantName>
+<XML_Serializer_Tag>... Shimite</XML_Serializer_Tag>
+</variantName>
+<thumbnail>https://commons.wikimedia.org/wiki/Special:FilePath/Alfredschmidt.jpg?width=270</thumbnail>
+<birthEN>May 19, 1931</birthEN>
+<birthDE>19. Mai 1931</birthDE>
+<deathEN>August 28, 2012</deathEN>
+<deathDE>28. August 2012</deathDE>
+<birthPlace>
+<XML_Serializer_Tag>Berlin</XML_Serializer_Tag>
+</birthPlace>
+<deathPlace>
+<XML_Serializer_Tag>Frankfurt am Main</XML_Serializer_Tag>
+</deathPlace>
+<professionOrOccupation>
+<XML_Serializer_Tag>Philosoph</XML_Serializer_Tag>
+<XML_Serializer_Tag>Soziologe</XML_Serializer_Tag>
+</professionOrOccupation>
+<dbpResource>http://dbpedia.org/resource/Alfred_Schmidt_(footballer)</dbpResource>
+<abstract>Alfred „Aki“ Schmidt (* 5. September 1935 in Dortmund) ist ein ehemaliger deutscher Fußballspieler und Trainer.</abstract>
+<wikilink>http://en.wikipedia.org/wiki/Alfred_Schmidt_(footballer)?oldid=591595728</wikilink>
+<artworks />
+<buildings />
+<books />
+</Person>

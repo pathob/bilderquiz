@@ -1,0 +1,23 @@
+<Person>
+<name>Adolf Burger</name>
+<variantName>
+<XML_Serializer_Tag>Ādūlf Būrgir</XML_Serializer_Tag>
+</variantName>
+<thumbnail>https://commons.wikimedia.org/wiki/Special:FilePath/Adolf-Burger-Faussaires.JPG?width=270</thumbnail>
+<birthEN>1917</birthEN>
+<birthDE>1917</birthDE>
+<deathEN />
+<deathDE />
+<birthPlace />
+<deathPlace />
+<professionOrOccupation>
+<XML_Serializer_Tag>Gefangener</XML_Serializer_Tag>
+<XML_Serializer_Tag>Schriftsteller</XML_Serializer_Tag>
+</professionOrOccupation>
+<dbpResource>http://dbpedia.org/resource/Adolf_Burger</dbpResource>
+<abstract>Adolf Burger (* 12. August 1917 in Großlomnitz, Österreich-Ungarn, heute Slowakei) ist Buchdrucker und Holocaust-Überlebender, der als jüdischer Häftling eine wichtige Rolle als Fälscher im Rahmen des Unternehmens Bernhard im Konzentrationslager Sachsenhausen spielte.</abstract>
+<wikilink>http://en.wikipedia.org/wiki/Adolf_Burger?oldid=548525639</wikilink>
+<artworks />
+<buildings />
+<books />
+</Person>

@@ -1,0 +1,63 @@
+<Person>
+<name>Hans Fallada</name>
+<variantName>
+<XML_Serializer_Tag>Gans Fallada</XML_Serializer_Tag>
+<XML_Serializer_Tag>Hanss Fallada</XML_Serializer_Tag>
+<XML_Serializer_Tag>Chans Fallada</XML_Serializer_Tag>
+<XML_Serializer_Tag>Hansas Falada</XML_Serializer_Tag>
+<XML_Serializer_Tag>Hans Faladah</XML_Serializer_Tag>
+<XML_Serializer_Tag>Hans Falada</XML_Serializer_Tag>
+<XML_Serializer_Tag>Rudolf Ditzen</XML_Serializer_Tag>
+<XML_Serializer_Tag>Rudolf Wilhelm Friedrich Ditzen</XML_Serializer_Tag>
+<XML_Serializer_Tag>Rudolf Dietzen</XML_Serializer_Tag>
+<XML_Serializer_Tag>הנס פאלאדה</XML_Serializer_Tag>
+<XML_Serializer_Tag>ハンス・ファラダ</XML_Serializer_Tag>
+<XML_Serializer_Tag>ハンス ファラダ</XML_Serializer_Tag>
+</variantName>
+<thumbnail>https://commons.wikimedia.org/wiki/Special:FilePath/DBP_1993_1683_Hans_Fallada.jpg?width=270</thumbnail>
+<birthEN>July 21, 1893</birthEN>
+<birthDE>21. Juli 1893</birthDE>
+<deathEN>February 5, 1947</deathEN>
+<deathDE>5. Februar 1947</deathDE>
+<birthPlace>
+<XML_Serializer_Tag>Greifswald</XML_Serializer_Tag>
+</birthPlace>
+<deathPlace>
+<XML_Serializer_Tag>Berlin</XML_Serializer_Tag>
+</deathPlace>
+<professionOrOccupation>
+<XML_Serializer_Tag>Übersetzer</XML_Serializer_Tag>
+<XML_Serializer_Tag>Schriftsteller</XML_Serializer_Tag>
+</professionOrOccupation>
+<dbpResource>http://dbpedia.org/resource/Hans_Fallada</dbpResource>
+<abstract>Rudolf Ditzen (* 21. Juli 1893 in Greifswald; † 5. Februar 1947 in Berlin; vollständiger Name: Rudolf Wilhelm Friedrich Ditzen) – Pseudonym Hans Fallada − war ein deutscher Schriftsteller. In der Literatur sind seine bekanntesten Werke überwiegend der Neuen Sachlichkeit zuzurechnen.</abstract>
+<wikilink>http://en.wikipedia.org/wiki/Hans_Fallada?oldid=606259546</wikilink>
+<artworks />
+<buildings />
+<books>
+<XML_Serializer_Tag>
+<book>
+<type>uri</type>
+<value>http://dbpedia.org/resource/Every_Man_Dies_Alone</value>
+</book>
+<author>
+<type>uri</type>
+<value>http://dbpedia.org/resource/Hans_Fallada</value>
+</author>
+<released>
+<type>typed-literal</type>
+<datatype>http://www.w3.org/2001/XMLSchema#integer</datatype>
+<value>1947</value>
+</released>
+<wikilink>
+<type>uri</type>
+<value>http://en.wikipedia.org/wiki/Every_Man_Dies_Alone?oldid=595811896</value>
+</wikilink>
+<abstract>
+<type>literal</type>
+<xml:lang>de</xml:lang>
+<value>Jeder stirbt für sich allein ist ein Roman des deutschen Schriftstellers Hans Fallada (Rudolf Wilhelm Friedrich Ditzen) aus dem Jahre 1947. Der Roman basiert auf dem authentischen Fall des Ehepaars Otto und Elise Hampel, das 1940 bis 1942 in Berlin Postkarten-Flugblätter gegen Hitler ausgelegt hatte und denunziert worden war. Fallada schrieb den Roman 1946 in kaum vier Wochen. Er gilt als das erste Buch eines deutschen nicht-emigrierten Schriftstellers über den Widerstand gegen den Nationalsozialismus. In den USA, Großbritannien, Israel und Frankreich war das Werk in den Jahren 2002 bis 2009 ein Bestseller. In Deutschland wurde der Roman 2011 in der ungekürzten Originalfassung neu veröffentlicht und erwies sich auch dort als Verkaufserfolg.</value>
+</abstract>
+</XML_Serializer_Tag>
+</books>
+</Person>

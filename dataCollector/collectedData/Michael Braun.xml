@@ -1,0 +1,23 @@
+<Person>
+<name>Michael Braun</name>
+<variantName />
+<thumbnail>https://commons.wikimedia.org/wiki/Special:FilePath/MichaelBraun_600.JPG?width=270</thumbnail>
+<birthEN>1958</birthEN>
+<birthDE>1958</birthDE>
+<deathEN />
+<deathDE />
+<birthPlace>
+<XML_Serializer_Tag>Hauenstein (Landkreis Südwestpfalz)</XML_Serializer_Tag>
+</birthPlace>
+<deathPlace />
+<professionOrOccupation>
+<XML_Serializer_Tag>Schriftsteller</XML_Serializer_Tag>
+<XML_Serializer_Tag>Literaturwissenschaftler</XML_Serializer_Tag>
+</professionOrOccupation>
+<dbpResource>http://dbpedia.org/resource/Michael_Braun_(industrialist)</dbpResource>
+<abstract>Johann Michael Braun (* 5. August 1866 in Heubach; † 21. Juli 1954 ebenda) war ein deutscher Unternehmer.</abstract>
+<wikilink>http://en.wikipedia.org/wiki/Michael_Braun_(industrialist)?oldid=545955781</wikilink>
+<artworks />
+<buildings />
+<books />
+</Person>

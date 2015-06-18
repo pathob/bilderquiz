@@ -1,0 +1,29 @@
+<Person>
+<name>Jochen Klepper</name>
+<variantName>
+<XML_Serializer_Tag>Joachim Klepper</XML_Serializer_Tag>
+</variantName>
+<thumbnail>https://commons.wikimedia.org/wiki/Special:FilePath/DBP_1992_1643-R.JPG?width=270</thumbnail>
+<birthEN>March 22, 1903</birthEN>
+<birthDE>22. März 1903</birthDE>
+<deathEN>December 11, 1942</deathEN>
+<deathDE>11. Dezember 1942</deathDE>
+<birthPlace>
+<XML_Serializer_Tag>Beuthen (Oberschlesien)</XML_Serializer_Tag>
+</birthPlace>
+<deathPlace>
+<XML_Serializer_Tag>Berlin</XML_Serializer_Tag>
+</deathPlace>
+<professionOrOccupation>
+<XML_Serializer_Tag>Schriftsteller</XML_Serializer_Tag>
+<XML_Serializer_Tag>Theologe</XML_Serializer_Tag>
+<XML_Serializer_Tag>Erzähler</XML_Serializer_Tag>
+<XML_Serializer_Tag>Liederdichter</XML_Serializer_Tag>
+</professionOrOccupation>
+<dbpResource>http://dbpedia.org/resource/Jochen_Klepper</dbpResource>
+<abstract>Jochen Klepper (* 22. März 1903 in Beuthen an der Oder; † 11. Dezember 1942 in Berlin) war ein deutscher Theologe, der als Journalist und Schriftsteller arbeitete und ist einer der bedeutendsten Dichter geistlicher Lieder des 20. Jahrhunderts.</abstract>
+<wikilink>http://en.wikipedia.org/wiki/Jochen_Klepper?oldid=592869003</wikilink>
+<artworks />
+<buildings />
+<books />
+</Person>

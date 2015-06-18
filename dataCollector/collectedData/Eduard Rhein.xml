@@ -1,0 +1,31 @@
+<Person>
+<name>Eduard Rhein</name>
+<variantName>
+<XML_Serializer_Tag>Klaus Hellmer</XML_Serializer_Tag>
+<XML_Serializer_Tag>Hans Ulrich Horster</XML_Serializer_Tag>
+<XML_Serializer_Tag>Adrian Hülsen</XML_Serializer_Tag>
+</variantName>
+<thumbnail>https://commons.wikimedia.org/wiki/Special:FilePath/2013-03-26_Haus_Vater_Rhein,_Drachenfelsstraße_69,_Königswinter_IMG_4748.jpg?width=270</thumbnail>
+<birthEN>August 23, 1900</birthEN>
+<birthDE>23. August 1900</birthDE>
+<deathEN>April 15, 1993</deathEN>
+<deathDE>15. April 1993</deathDE>
+<birthPlace>
+<XML_Serializer_Tag>Königswinter</XML_Serializer_Tag>
+</birthPlace>
+<deathPlace>
+<XML_Serializer_Tag>Cannes</XML_Serializer_Tag>
+</deathPlace>
+<professionOrOccupation>
+<XML_Serializer_Tag>Journalist</XML_Serializer_Tag>
+<XML_Serializer_Tag>Kinderbuchautor</XML_Serializer_Tag>
+<XML_Serializer_Tag>Elektroingenieur</XML_Serializer_Tag>
+<XML_Serializer_Tag>Schriftsteller</XML_Serializer_Tag>
+</professionOrOccupation>
+<dbpResource>http://dbpedia.org/resource/Eduard_Rhein</dbpResource>
+<abstract>Eduard Rudolph Rhein (* 23. August 1900 in Königswinter; † 15. April 1993 in Cannes) war ein deutscher Erfinder, Publizist und Schriftsteller, Geigenvirtuose und Journalist. Er veröffentlichte auch unter den Pseudonymen Hans-Ulrich Horster,Klaus Hellmer, Klaus Hellborn (Quelle: Eduard-Rhein-Stiftung), Adrian Hülsen und Claude Borell.</abstract>
+<wikilink>http://en.wikipedia.org/wiki/Eduard_Rhein?oldid=576279624</wikilink>
+<artworks />
+<buildings />
+<books />
+</Person>

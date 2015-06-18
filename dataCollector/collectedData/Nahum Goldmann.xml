@@ -1,0 +1,30 @@
+<Person>
+<name>Nahum Goldmann</name>
+<variantName>
+<XML_Serializer_Tag>Nachum Goldmann</XML_Serializer_Tag>
+<XML_Serializer_Tag>N. Goldmann</XML_Serializer_Tag>
+<XML_Serializer_Tag>Nahum Goldman</XML_Serializer_Tag>
+</variantName>
+<thumbnail>https://commons.wikimedia.org/wiki/Special:FilePath/Nachum_Goldman.jpg?width=270</thumbnail>
+<birthEN>July 10, 1895</birthEN>
+<birthDE>10. Juli 1895</birthDE>
+<deathEN>August 29, 1982</deathEN>
+<deathDE>29. August 1982</deathDE>
+<birthPlace>
+<XML_Serializer_Tag>Wischnewo</XML_Serializer_Tag>
+</birthPlace>
+<deathPlace>
+<XML_Serializer_Tag>Bad Reichenhall</XML_Serializer_Tag>
+</deathPlace>
+<professionOrOccupation>
+<XML_Serializer_Tag>Politiker</XML_Serializer_Tag>
+<XML_Serializer_Tag>Schriftsteller</XML_Serializer_Tag>
+<XML_Serializer_Tag>Herausgeber</XML_Serializer_Tag>
+</professionOrOccupation>
+<dbpResource>http://dbpedia.org/resource/Nahum_Goldmann</dbpResource>
+<abstract>Nahum Goldmann (auch Nachum Goldmann oder Goldman; * 10. Juli 1895 in Wischnewo, heute Wischnewa, Weißrussland; † 29. August 1982 in Bad Reichenhall) war als Gründer und langjähriger Präsident des Jüdischen Weltkongresses (WJC) einer der führenden Zionisten seiner Zeit.</abstract>
+<wikilink>http://en.wikipedia.org/wiki/Nahum_Goldmann?oldid=606600390</wikilink>
+<artworks />
+<buildings />
+<books />
+</Person>

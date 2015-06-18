@@ -1,0 +1,92 @@
+<Person>
+<name>Felix Salten</name>
+<variantName>
+<XML_Serializer_Tag>Félix Salten</XML_Serializer_Tag>
+<XML_Serializer_Tag>Feliks Salten</XML_Serializer_Tag>
+<XML_Serializer_Tag>Felix Zalten</XML_Serializer_Tag>
+<XML_Serializer_Tag>Feliks Sal&apos;ten</XML_Serializer_Tag>
+<XML_Serializer_Tag>Feliks Zal&apos;ten</XML_Serializer_Tag>
+<XML_Serializer_Tag>F. Saltau</XML_Serializer_Tag>
+<XML_Serializer_Tag>Ferdinand Stollberg</XML_Serializer_Tag>
+<XML_Serializer_Tag>Felix Salzmann</XML_Serializer_Tag>
+<XML_Serializer_Tag>Felix Sigmund Salzmann</XML_Serializer_Tag>
+<XML_Serializer_Tag>Josefine Mutzenbacher</XML_Serializer_Tag>
+<XML_Serializer_Tag>Josephine Mutzenbacher</XML_Serializer_Tag>
+<XML_Serializer_Tag>Žozefina Mutcenbacher</XML_Serializer_Tag>
+<XML_Serializer_Tag>Martin Finder</XML_Serializer_Tag>
+<XML_Serializer_Tag>Siegmund Salzmann</XML_Serializer_Tag>
+<XML_Serializer_Tag>פליקס זאלטן</XML_Serializer_Tag>
+</variantName>
+<thumbnail>https://commons.wikimedia.org/wiki/Special:FilePath/Felix_Salten_1910.jpg?width=270</thumbnail>
+<birthEN>September 6, 1869</birthEN>
+<birthDE>6. September 1869</birthDE>
+<deathEN>October 8, 1945</deathEN>
+<deathDE>8. Oktober 1945</deathDE>
+<birthPlace>
+<XML_Serializer_Tag>Pest (Stadt)</XML_Serializer_Tag>
+</birthPlace>
+<deathPlace>
+<XML_Serializer_Tag>Zürich</XML_Serializer_Tag>
+</deathPlace>
+<professionOrOccupation>
+<XML_Serializer_Tag>Schriftsteller</XML_Serializer_Tag>
+<XML_Serializer_Tag>Theaterkritiker</XML_Serializer_Tag>
+<XML_Serializer_Tag>Journalist</XML_Serializer_Tag>
+<XML_Serializer_Tag>Regisseur</XML_Serializer_Tag>
+<XML_Serializer_Tag>Drehbuchautor</XML_Serializer_Tag>
+</professionOrOccupation>
+<dbpResource>http://dbpedia.org/resource/Felix_Salten</dbpResource>
+<abstract>Felix Salten (eigentlich Siegmund Salzmann; * 6. September 1869 in Budapest; † 8. Oktober 1945 in Zürich) war ein österreichisch-ungarischer Schriftsteller und wurde durch seine Tiergeschichte Bambi. Eine Lebensgeschichte aus dem Walde (1923) weltbekannt.</abstract>
+<wikilink>http://en.wikipedia.org/wiki/Felix_Salten?oldid=603547859</wikilink>
+<artworks />
+<buildings />
+<books>
+<XML_Serializer_Tag>
+<book>
+<type>uri</type>
+<value>http://dbpedia.org/resource/Bambi,_a_Life_in_the_Woods</value>
+</book>
+<author>
+<type>uri</type>
+<value>http://dbpedia.org/resource/Felix_Salten</value>
+</author>
+<wikilink>
+<type>uri</type>
+<value>http://en.wikipedia.org/wiki/Bambi,_a_Life_in_the_Woods?oldid=603259944</value>
+</wikilink>
+<abstract>
+<type>literal</type>
+<xml:lang>de</xml:lang>
+<value>Bambi. Eine Lebensgeschichte aus dem Walde ist ein 1923 erschienenes Buch des österreichischen Schriftstellers Felix Salten. Es handelt von einem jungen Reh namens Bambi und wurde 1928 unter dem Titel Bambi. A Life in the Woods ins Englische übersetzt und als Bambi 1942 von Walt Disney verfilmt.</value>
+</abstract>
+</XML_Serializer_Tag>
+<XML_Serializer_Tag>
+<book>
+<type>uri</type>
+<value>http://dbpedia.org/resource/Perri_(novel)</value>
+</book>
+<author>
+<type>uri</type>
+<value>http://dbpedia.org/resource/Felix_Salten</value>
+</author>
+<wikilink>
+<type>uri</type>
+<value>http://en.wikipedia.org/wiki/Perri_(novel)?oldid=597047292</value>
+</wikilink>
+</XML_Serializer_Tag>
+<XML_Serializer_Tag>
+<book>
+<type>uri</type>
+<value>http://dbpedia.org/resource/Bambi&apos;s_Children</value>
+</book>
+<author>
+<type>uri</type>
+<value>http://dbpedia.org/resource/Felix_Salten</value>
+</author>
+<wikilink>
+<type>uri</type>
+<value>http://en.wikipedia.org/wiki/Bambi&apos;s_Children?oldid=593308462</value>
+</wikilink>
+</XML_Serializer_Tag>
+</books>
+</Person>

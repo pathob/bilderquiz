@@ -1,0 +1,30 @@
+<Person>
+<name>Peter Bamm</name>
+<variantName>
+<XML_Serializer_Tag>Curt Emmrich</XML_Serializer_Tag>
+<XML_Serializer_Tag>Curt Emmerich</XML_Serializer_Tag>
+<XML_Serializer_Tag>Kurt Emmrich</XML_Serializer_Tag>
+<XML_Serializer_Tag>Pater Bemm</XML_Serializer_Tag>
+</variantName>
+<thumbnail>https://commons.wikimedia.org/wiki/Special:FilePath/PeterBammGrab.jpg?width=270</thumbnail>
+<birthEN>October 20, 1897</birthEN>
+<birthDE>20. Oktober 1897</birthDE>
+<deathEN>March 30, 1975</deathEN>
+<deathDE>30. März 1975</deathDE>
+<birthPlace>
+<XML_Serializer_Tag>Hochneukirch (Sachsen)</XML_Serializer_Tag>
+</birthPlace>
+<deathPlace>
+<XML_Serializer_Tag>Zürich</XML_Serializer_Tag>
+</deathPlace>
+<professionOrOccupation>
+<XML_Serializer_Tag>Schriftsteller</XML_Serializer_Tag>
+<XML_Serializer_Tag>Arzt</XML_Serializer_Tag>
+</professionOrOccupation>
+<dbpResource>http://dbpedia.org/resource/Peter_Bamm</dbpResource>
+<abstract>Peter Bamm, eigentlich Curt Emmrich (* 20. Oktober 1897 in Hochneukirch, heute: Rhein-Kreis Neuss; † 30. März 1975 in Zollikon, Schweiz), war ein deutscher Arzt, Journalist und Schriftsteller.</abstract>
+<wikilink>http://en.wikipedia.org/wiki/Peter_Bamm?oldid=606015154</wikilink>
+<artworks />
+<buildings />
+<books />
+</Person>

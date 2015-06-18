@@ -23,8 +23,10 @@
 <XML_Serializer_Tag>Maler</XML_Serializer_Tag>
 <XML_Serializer_Tag>Schriftsteller</XML_Serializer_Tag>
 </professionOrOccupation>
-<artworks />
 <dbpResource>http://dbpedia.org/resource/Charles_Lock_Eastlake</dbpResource>
 <abstract>Sir Charles Lock Eastlake PRA (* 17. November 1793 in Plymouth; † 24. Dezember 1865 in Pisa) war ein englischer Maler und Kunstgelehrter und Erster Direktor der National Gallery.</abstract>
 <wikilink>http://en.wikipedia.org/wiki/Charles_Lock_Eastlake?oldid=590527699</wikilink>
+<artworks />
+<buildings />
+<books />
 </Person>

@@ -1,0 +1,26 @@
+<Person>
+<name>Arnold Stadler</name>
+<variantName>
+<XML_Serializer_Tag>Arnolʹd Štadler</XML_Serializer_Tag>
+</variantName>
+<thumbnail>https://commons.wikimedia.org/wiki/Special:FilePath/Arnold_Stadler_2005.jpg?width=270</thumbnail>
+<birthEN>1954</birthEN>
+<birthDE>1954</birthDE>
+<deathEN />
+<deathDE />
+<birthPlace>
+<XML_Serializer_Tag>Meßkirch</XML_Serializer_Tag>
+</birthPlace>
+<deathPlace />
+<professionOrOccupation>
+<XML_Serializer_Tag>Schriftsteller</XML_Serializer_Tag>
+<XML_Serializer_Tag>Germanist</XML_Serializer_Tag>
+<XML_Serializer_Tag>Theologe</XML_Serializer_Tag>
+</professionOrOccupation>
+<dbpResource>http://dbpedia.org/resource/Arnold_Stadler</dbpResource>
+<abstract>Arnold Stadler (* 9. April 1954 in Meßkirch) ist ein deutscher Schriftsteller, Essayist und Übersetzer.</abstract>
+<wikilink>http://en.wikipedia.org/wiki/Arnold_Stadler?oldid=603472636</wikilink>
+<artworks />
+<buildings />
+<books />
+</Person>

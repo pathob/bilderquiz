@@ -1,0 +1,48 @@
+<Person>
+<name>Ernst Neufert</name>
+<variantName>
+<XML_Serializer_Tag>Ernst Nojfert</XML_Serializer_Tag>
+<XML_Serializer_Tag>Hermann Ernst Neufert</XML_Serializer_Tag>
+<XML_Serializer_Tag>Ėrnst Nojfert</XML_Serializer_Tag>
+</variantName>
+<thumbnail>https://commons.wikimedia.org/wiki/Special:FilePath/Abbeanum_Jena.jpg?width=270</thumbnail>
+<birthEN>March 15, 1900</birthEN>
+<birthDE>15. März 1900</birthDE>
+<deathEN>February 23, 1986</deathEN>
+<deathDE>23. Februar 1986</deathDE>
+<birthPlace>
+<XML_Serializer_Tag>Freyburg (Unstrut)</XML_Serializer_Tag>
+</birthPlace>
+<deathPlace>
+<XML_Serializer_Tag>Bugnaux-sur-Rolle &lt;Waadt&gt;</XML_Serializer_Tag>
+</deathPlace>
+<professionOrOccupation>
+<XML_Serializer_Tag>Architekt</XML_Serializer_Tag>
+</professionOrOccupation>
+<dbpResource>http://dbpedia.org/resource/Ernst_Neufert</dbpResource>
+<abstract>Ernst Neufert (* 15. März 1900 in Freyburg an der Unstrut; † 23. Februar 1986 in Rolle in der Schweiz) war ein deutscher Architekt, der neben seiner Lehrtätigkeit und Mitgliedschaft in verschiedenen Normungsgremien vor allem wegen seines Buches Bauentwurfslehre bekannt ist.</abstract>
+<wikilink>http://en.wikipedia.org/wiki/Ernst_Neufert?oldid=605999151</wikilink>
+<artworks />
+<buildings />
+<books>
+<XML_Serializer_Tag>
+<book>
+<type>uri</type>
+<value>http://dbpedia.org/resource/Architects&apos;_data</value>
+</book>
+<author>
+<type>uri</type>
+<value>http://dbpedia.org/resource/Ernst_Neufert</value>
+</author>
+<wikilink>
+<type>uri</type>
+<value>http://en.wikipedia.org/wiki/Architects&apos;_data?oldid=587930851</value>
+</wikilink>
+<abstract>
+<type>literal</type>
+<xml:lang>de</xml:lang>
+<value>Das Buch Bauentwurfslehre von Ernst Neufert ist ein Standardwerk, das sich mit Normung und Bauplanung in der Entwurfsphase auseinandersetzt. Anhand von detaillierten Beispielzeichnungen, die von der Ergonomie des menschlichen Umfelds, über spezifische Anforderungen diverser Bauaufgaben, bis hin zu bautypologischen Betrachtungen allgemeiner Art reichen, wird diese Sammlung von Normen, Maßen und Abstandsflächen veranschaulicht. Konzipiert wurde das Buch als Hilfsmittel für Studenten und Architekten und als Leitfaden für Bauherren und Planer.1936 wurde das Buch zum ersten Mal beim Ullstein Verlag unter dessen Imprint Bauwelt-Verlag in Berlin verlegt und später mehrfach aktualisiert und überarbeitet. 2012 erschien die 40. Auflage. Bis 1986 leitete Ernst Neufert selbst die Redaktion, die später sein Sohn Peter innerhalb der Planungs AG Neufert Mittmann Graf Partner weiterführte. Die Bauentwurfslehre wurde in 18 Sprachen übersetzt und erscheint heute nahezu weltweit. Die Bauentwurfslehre hat eine Auflage von über 300.000 Exemplaren in Deutschland und über 500.000 Exemplaren in der übrigen Welt und ist damit eines der erfolgreichsten Architekturbücher des 20. Jahrhunderts.</value>
+</abstract>
+</XML_Serializer_Tag>
+</books>
+</Person>

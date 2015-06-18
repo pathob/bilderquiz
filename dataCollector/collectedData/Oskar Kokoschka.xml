@@ -19,12 +19,15 @@
 <XML_Serializer_Tag>Maler</XML_Serializer_Tag>
 <XML_Serializer_Tag>Schriftsteller</XML_Serializer_Tag>
 </professionOrOccupation>
+<dbpResource>http://dbpedia.org/resource/Oskar_Kokoschka</dbpResource>
+<abstract>Oskar Kokoschka [&apos;ko:kɔʃkɐ] (* 1. März 1886 in Pöchlarn, Niederösterreich; † 22. Februar 1980 in Montreux, Schweiz), war ein österreichischer Maler, Grafiker und Schriftsteller des Expressionismus und der Wiener Moderne.</abstract>
+<wikilink>http://en.wikipedia.org/wiki/Oskar_Kokoschka?oldid=606605556</wikilink>
 <artworks>
 <XML_Serializer_Tag>
-<painting>
+<artwork>
 <type>uri</type>
 <value>http://dbpedia.org/resource/The_Bride_of_the_Wind</value>
-</painting>
+</artwork>
 <thumbnail>
 <type>uri</type>
 <value>http://en.wikipedia.org/wiki/Special:FilePath/&apos;Bride_of_the_Wind&apos;,_oil_on_canvas_painting_by_Oskar_Kokoschka,_a_self-portrait_expressing_his_unrequited_love_for_Alma_Mahler_(widow_of_composer_Gustav_Mahler),_1913.jpg?width=300</value>
@@ -43,9 +46,13 @@
 <type>uri</type>
 <value>http://en.wikipedia.org/wiki/The_Bride_of_the_Wind?oldid=577025741</value>
 </wikilink>
+<type>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>oil on canvas</value>
+</type>
 </XML_Serializer_Tag>
 </artworks>
-<dbpResource>http://dbpedia.org/resource/Oskar_Kokoschka</dbpResource>
-<abstract>Oskar Kokoschka [&apos;ko:kɔʃkɐ] (* 1. März 1886 in Pöchlarn, Niederösterreich; † 22. Februar 1980 in Montreux, Schweiz), war ein österreichischer Maler, Grafiker und Schriftsteller des Expressionismus und der Wiener Moderne.</abstract>
-<wikilink>http://en.wikipedia.org/wiki/Oskar_Kokoschka?oldid=606605556</wikilink>
+<buildings />
+<books />
 </Person>

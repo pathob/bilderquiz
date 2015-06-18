@@ -1,0 +1,34 @@
+<Person>
+<name>Sophie Mereau</name>
+<variantName>
+<XML_Serializer_Tag>Sophie Friederike Mereau</XML_Serializer_Tag>
+<XML_Serializer_Tag>Sophie Brentano</XML_Serializer_Tag>
+<XML_Serializer_Tag>Sophie Schubert</XML_Serializer_Tag>
+<XML_Serializer_Tag>Sophie Schubart</XML_Serializer_Tag>
+<XML_Serializer_Tag>Seraphine</XML_Serializer_Tag>
+<XML_Serializer_Tag>Sophie Mereau-Brentano</XML_Serializer_Tag>
+<XML_Serializer_Tag>Sophie Brentano-Mereau</XML_Serializer_Tag>
+<XML_Serializer_Tag>Sophie Schubart-Mereau-Brentano</XML_Serializer_Tag>
+</variantName>
+<thumbnail>https://commons.wikimedia.org/wiki/Special:FilePath/Mereau.jpg?width=270</thumbnail>
+<birthEN>March 28, 1770</birthEN>
+<birthDE>28. März 1770</birthDE>
+<deathEN>October 31, 1806</deathEN>
+<deathDE>31. Oktober 1806</deathDE>
+<birthPlace>
+<XML_Serializer_Tag>Altenburg</XML_Serializer_Tag>
+</birthPlace>
+<deathPlace>
+<XML_Serializer_Tag>Heidelberg</XML_Serializer_Tag>
+</deathPlace>
+<professionOrOccupation>
+<XML_Serializer_Tag>Schriftstellerin</XML_Serializer_Tag>
+<XML_Serializer_Tag>Lyrikerin</XML_Serializer_Tag>
+</professionOrOccupation>
+<dbpResource>http://dbpedia.org/resource/Sophie_Mereau</dbpResource>
+<abstract>Sophie Friederike Mereau (* 27. März 1770 in Altenburg; † 31. Oktober 1806 in Heidelberg; gebürtige Schubart, wiederverheiratete Brentano) war eine Schriftstellerin der deutschen Romantik.</abstract>
+<wikilink>http://en.wikipedia.org/wiki/Sophie_Mereau?oldid=586665065</wikilink>
+<artworks />
+<buildings />
+<books />
+</Person>

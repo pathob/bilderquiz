@@ -1,0 +1,30 @@
+<Person>
+<name>Ulrich Tukur</name>
+<variantName>
+<XML_Serializer_Tag>Ulrich Scheurlen</XML_Serializer_Tag>
+<XML_Serializer_Tag>Ulrich Gerhard Tukur</XML_Serializer_Tag>
+</variantName>
+<thumbnail>https://commons.wikimedia.org/wiki/Special:FilePath/Ulrich_Tukur_(Berlin_Film_Festival_2009).jpg?width=270</thumbnail>
+<birthEN>1957</birthEN>
+<birthDE>1957</birthDE>
+<deathEN />
+<deathDE />
+<birthPlace>
+<XML_Serializer_Tag>Viernheim</XML_Serializer_Tag>
+</birthPlace>
+<deathPlace />
+<professionOrOccupation>
+<XML_Serializer_Tag>Musiker</XML_Serializer_Tag>
+<XML_Serializer_Tag>Autor</XML_Serializer_Tag>
+<XML_Serializer_Tag>Sprecher</XML_Serializer_Tag>
+<XML_Serializer_Tag>Sänger</XML_Serializer_Tag>
+<XML_Serializer_Tag>Schauspieler</XML_Serializer_Tag>
+<XML_Serializer_Tag>Intendant</XML_Serializer_Tag>
+</professionOrOccupation>
+<dbpResource>http://dbpedia.org/resource/Ulrich_Tukur</dbpResource>
+<abstract>Ulrich Tukur (* 29. Juli 1957 in Viernheim als Ulrich Gerhard Scheurlen) ist ein deutscher Schauspieler und Musiker. Tukur verkörperte 2006 in dem Oscar-preisgekrönten Film Das Leben der Anderen die Rolle des Oberstleutnants der DDR-Staatssicherheit Anton Grubitz. Tukur gilt heute als einer der renommiertesten Filmschauspieler seiner Generation in Deutschland.</abstract>
+<wikilink>http://en.wikipedia.org/wiki/Ulrich_Tukur?oldid=605790426</wikilink>
+<artworks />
+<buildings />
+<books />
+</Person>

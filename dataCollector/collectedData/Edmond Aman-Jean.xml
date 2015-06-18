@@ -16,8 +16,10 @@
 <professionOrOccupation>
 <XML_Serializer_Tag>Maler</XML_Serializer_Tag>
 </professionOrOccupation>
-<artworks />
 <dbpResource>http://dbpedia.org/resource/Edmond_Aman-Jean</dbpResource>
 <abstract>Edmond François Aman-Jean (* 13. Januar 1858 in Chevry-Cossigny, Seine-et-Marne; † 23. Januar 1936 in Paris) war ein französischer Maler des Fin de siècle und Gründer des Salon des Tuileries.</abstract>
 <wikilink>http://en.wikipedia.org/wiki/Edmond_Aman-Jean?oldid=591661887</wikilink>
+<artworks />
+<buildings />
+<books />
 </Person>

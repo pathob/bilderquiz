@@ -1,0 +1,34 @@
+<Person>
+<name>Verner von Heidenstam</name>
+<variantName>
+<XML_Serializer_Tag>Carl G. Heidenstam</XML_Serializer_Tag>
+<XML_Serializer_Tag>Verner af Heidenstam</XML_Serializer_Tag>
+<XML_Serializer_Tag>Werner von Heidenstam</XML_Serializer_Tag>
+<XML_Serializer_Tag>Carl Gustaf Verner von Heidenstam</XML_Serializer_Tag>
+<XML_Serializer_Tag>Carl Gustaf Werner von Heidenstam</XML_Serializer_Tag>
+<XML_Serializer_Tag>Verner Von Heidenstam</XML_Serializer_Tag>
+<XML_Serializer_Tag>Verner VonHeidenstam</XML_Serializer_Tag>
+</variantName>
+<thumbnail>https://commons.wikimedia.org/wiki/Special:FilePath/Heidenstam,_Verner_von_-_profil_-_AF_-_Beskuren.jpg?width=270</thumbnail>
+<birthEN>July 6, 1859</birthEN>
+<birthDE>6. Juli 1859</birthDE>
+<deathEN>May 20, 1940</deathEN>
+<deathDE>20. Mai 1940</deathDE>
+<birthPlace>
+<XML_Serializer_Tag>Olshammer/Örebro</XML_Serializer_Tag>
+</birthPlace>
+<deathPlace>
+<XML_Serializer_Tag>Övralid</XML_Serializer_Tag>
+</deathPlace>
+<professionOrOccupation>
+<XML_Serializer_Tag>Schriftsteller</XML_Serializer_Tag>
+<XML_Serializer_Tag>Lyriker</XML_Serializer_Tag>
+<XML_Serializer_Tag>Nobelpreisträger</XML_Serializer_Tag>
+</professionOrOccupation>
+<dbpResource>http://dbpedia.org/resource/Verner_von_Heidenstam</dbpResource>
+<abstract>Carl Gustaf Verner von Heidenstam (* 6. Juli 1859 in Olshammar, Gemeinde Askersund; † 20. Mai 1940 in Övralid, Gemeinde Motala) war ein schwedischer Dichter und Nobelpreisträger.</abstract>
+<wikilink>http://en.wikipedia.org/wiki/Verner_von_Heidenstam?oldid=603422388</wikilink>
+<artworks />
+<buildings />
+<books />
+</Person>

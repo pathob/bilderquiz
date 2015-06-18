@@ -23,8 +23,10 @@
 <XML_Serializer_Tag>Maler</XML_Serializer_Tag>
 <XML_Serializer_Tag>Erfinder</XML_Serializer_Tag>
 </professionOrOccupation>
-<artworks />
 <dbpResource>http://dbpedia.org/resource/Godefroy_Engelmann</dbpResource>
 <abstract>Godefroy Engelmann (oder Gottfried Engelmann; * 17. August 1788 in Mülhausen; † 25. April 1839 ebenda) war ein deutsch-französischer Lithograf.</abstract>
 <wikilink>http://en.wikipedia.org/wiki/Godefroy_Engelmann?oldid=600519332</wikilink>
+<artworks />
+<buildings />
+<books />
 </Person>

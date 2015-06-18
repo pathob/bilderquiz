@@ -1,0 +1,38 @@
+<Person>
+<name>Karl Wilhelm Ramler</name>
+<variantName>
+<XML_Serializer_Tag>Karl Ramler</XML_Serializer_Tag>
+<XML_Serializer_Tag>C. W. Ramler</XML_Serializer_Tag>
+<XML_Serializer_Tag>Karl Wilh. Ramler</XML_Serializer_Tag>
+<XML_Serializer_Tag>Karl W. Rammler</XML_Serializer_Tag>
+<XML_Serializer_Tag>Karl Wilhelm Rammler</XML_Serializer_Tag>
+<XML_Serializer_Tag>Karl W. Ramler</XML_Serializer_Tag>
+<XML_Serializer_Tag>Carl W. Ramler</XML_Serializer_Tag>
+<XML_Serializer_Tag>Carl Wilhelm Ramler</XML_Serializer_Tag>
+<XML_Serializer_Tag>... Rammler</XML_Serializer_Tag>
+</variantName>
+<thumbnail>https://commons.wikimedia.org/wiki/Special:FilePath/RamlerKW.jpg?width=270</thumbnail>
+<birthEN>February 25, 1725</birthEN>
+<birthDE>25. Februar 1725</birthDE>
+<deathEN>April 11, 1798</deathEN>
+<deathDE>11. April 1798</deathDE>
+<birthPlace>
+<XML_Serializer_Tag>Kolberg</XML_Serializer_Tag>
+</birthPlace>
+<deathPlace>
+<XML_Serializer_Tag>Berlin</XML_Serializer_Tag>
+</deathPlace>
+<professionOrOccupation>
+<XML_Serializer_Tag>Schriftsteller</XML_Serializer_Tag>
+<XML_Serializer_Tag>Übersetzer</XML_Serializer_Tag>
+<XML_Serializer_Tag>Arzt</XML_Serializer_Tag>
+<XML_Serializer_Tag>Jurist</XML_Serializer_Tag>
+<XML_Serializer_Tag>Lehrer</XML_Serializer_Tag>
+</professionOrOccupation>
+<dbpResource>http://dbpedia.org/resource/Karl_Wilhelm_Ramler</dbpResource>
+<abstract>Karl Wilhelm Ramler (* 25. Februar 1725 in Kolberg; † 11. April 1798 in Berlin), genannt der deutsche Horaz, war ein deutscher Dichter und Philosoph, der der Aufklärung wie auch der Empfindsamkeit zugerechnet wird.</abstract>
+<wikilink>http://en.wikipedia.org/wiki/Karl_Wilhelm_Ramler?oldid=600834520</wikilink>
+<artworks />
+<buildings />
+<books />
+</Person>

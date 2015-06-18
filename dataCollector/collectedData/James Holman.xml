@@ -1,0 +1,25 @@
+<Person>
+<name>James Holman</name>
+<variantName>
+<XML_Serializer_Tag>&quot; The Blind Traveller&quot;</XML_Serializer_Tag>
+<XML_Serializer_Tag>&quot;The Blind Traveller&quot;</XML_Serializer_Tag>
+<XML_Serializer_Tag>James Baptiste Holman</XML_Serializer_Tag>
+</variantName>
+<thumbnail>https://commons.wikimedia.org/wiki/Special:FilePath/James.Holman.by.George.Chinnery.1830.jpg?width=270</thumbnail>
+<birthEN>October 15, 1787</birthEN>
+<birthDE>15. Oktober 1787</birthDE>
+<deathEN>July 28, 1857</deathEN>
+<deathDE>28. Juli 1857</deathDE>
+<birthPlace />
+<deathPlace />
+<professionOrOccupation>
+<XML_Serializer_Tag>Forschungsreisender</XML_Serializer_Tag>
+<XML_Serializer_Tag>Schriftsteller</XML_Serializer_Tag>
+</professionOrOccupation>
+<dbpResource>http://dbpedia.org/resource/James_Holman</dbpResource>
+<abstract>James Holman (* 15. Oktober 1786 in Exeter; † 29. Juli 1857 in London) war ein britischer Reisender, Abenteurer und Autor, der als &quot;Blind Traveller&quot; Europa und die Welt bereiste.</abstract>
+<wikilink>http://en.wikipedia.org/wiki/James_Holman?oldid=595050628</wikilink>
+<artworks />
+<buildings />
+<books />
+</Person>

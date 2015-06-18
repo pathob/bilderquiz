@@ -1,0 +1,22 @@
+<Person>
+<name>Peter Lenk</name>
+<variantName />
+<thumbnail>https://commons.wikimedia.org/wiki/Special:FilePath/Konstanz_Imperia_01.jpg?width=270</thumbnail>
+<birthEN>1947</birthEN>
+<birthDE>1947</birthDE>
+<deathEN />
+<deathDE />
+<birthPlace>
+<XML_Serializer_Tag>Nürnberg</XML_Serializer_Tag>
+</birthPlace>
+<deathPlace />
+<professionOrOccupation>
+<XML_Serializer_Tag>Künstler</XML_Serializer_Tag>
+</professionOrOccupation>
+<dbpResource>http://dbpedia.org/resource/Peter_Lenk</dbpResource>
+<abstract>Peter Lenk (* 6. Juni 1947 in Nürnberg) ist ein deutscher Bildhauer aus Bodman-Ludwigshafen am Bodensee. Er stellt auf satirische Art direkt heraus von ihm empfundene gesellschaftliche Missstände dar.</abstract>
+<wikilink>http://en.wikipedia.org/wiki/Peter_Lenk?oldid=556583845</wikilink>
+<artworks />
+<buildings />
+<books />
+</Person>

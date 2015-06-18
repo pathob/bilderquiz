@@ -1,0 +1,57 @@
+<Person>
+<name>Michael Ignatieff</name>
+<variantName>
+<XML_Serializer_Tag>Michael Grant Ignatieff</XML_Serializer_Tag>
+</variantName>
+<thumbnail>https://commons.wikimedia.org/wiki/Special:FilePath/Victoria,_BC_Liberal_Town_Hall_Forum_public_libéral.jpg?width=270</thumbnail>
+<birthEN>1947</birthEN>
+<birthDE>1947</birthDE>
+<deathEN />
+<deathDE />
+<birthPlace>
+<XML_Serializer_Tag>Toronto</XML_Serializer_Tag>
+</birthPlace>
+<deathPlace />
+<professionOrOccupation>
+<XML_Serializer_Tag>Schriftsteller</XML_Serializer_Tag>
+<XML_Serializer_Tag>Journalist</XML_Serializer_Tag>
+<XML_Serializer_Tag>Historiker</XML_Serializer_Tag>
+<XML_Serializer_Tag>Drehbuchautor</XML_Serializer_Tag>
+<XML_Serializer_Tag>Drehbuchautor</XML_Serializer_Tag>
+</professionOrOccupation>
+<dbpResource>http://dbpedia.org/resource/Michael_Ignatieff</dbpResource>
+<abstract>Michael Grant Ignatieff [ˈmaɪkəl grɑ:nt ɪɡˈnɑːtʃəf] (* 12. Mai 1947 in Toronto, Ontario) ist ein kanadischer Historiker, Autor, Journalist und Politiker. Von 2008 bis 2011 war er der Vorsitzende der Liberalen Partei Kanadas und somit Oppositionsführer.Ignatieff schrieb nach einigen Jahren Forschungstätigkeit Romane und politische Reportagen. Daneben arbeitete er als Publizist und als politischer Kommentator für die British Broadcasting Corporation. Vor seinem Einstieg in die Politik war er darüber hinaus Professor an der University of Cambridge, der University of Oxford, der Harvard University und der University of Toronto.Im Januar 2006 wurde Ignatieff im Wahlkreis Etobicoke—Lakeshore im Südwesten Torontos ins kanadische Unterhaus gewählt. Im Dezember desselben Jahres bewarb er sich um das Amt des Parteivorsitzenden, unterlag aber im vierten Wahlgang Stéphane Dion. Die Unterhauswahlen im Oktober 2008 endeten unter Dions Führung mit einer Niederlage der Liberalen, woraufhin dieser zurücktrat und Ignatieff zum interimistischen Vorsitzenden ernannt wurde. Der Parteitag im Mai 2009 bestätigte diese Ernennung. Bei den Unterhauswahlen im Mai 2011 unterlag er in seinem Wahlkreis, woraufhin er seinen Rücktritt als Parteivorsitzender ankündigte.</abstract>
+<wikilink>http://en.wikipedia.org/wiki/Michael_Ignatieff?oldid=603981179</wikilink>
+<artworks />
+<buildings />
+<books>
+<XML_Serializer_Tag>
+<book>
+<type>uri</type>
+<value>http://dbpedia.org/resource/The_Lesser_Evil:_Political_Ethics_in_an_Age_of_Terror</value>
+</book>
+<author>
+<type>uri</type>
+<value>http://dbpedia.org/resource/Michael_Ignatieff</value>
+</author>
+<wikilink>
+<type>uri</type>
+<value>http://en.wikipedia.org/wiki/The_Lesser_Evil:_Political_Ethics_in_an_Age_of_Terror?oldid=602550694</value>
+</wikilink>
+</XML_Serializer_Tag>
+<XML_Serializer_Tag>
+<book>
+<type>uri</type>
+<value>http://dbpedia.org/resource/Charlie_Johnson_in_the_Flames</value>
+</book>
+<author>
+<type>uri</type>
+<value>http://dbpedia.org/resource/Michael_Ignatieff</value>
+</author>
+<wikilink>
+<type>uri</type>
+<value>http://en.wikipedia.org/wiki/Charlie_Johnson_in_the_Flames?oldid=491942813</value>
+</wikilink>
+</XML_Serializer_Tag>
+</books>
+</Person>

@@ -21,8 +21,10 @@
 <XML_Serializer_Tag>Maler</XML_Serializer_Tag>
 <XML_Serializer_Tag>Bildhauer</XML_Serializer_Tag>
 </professionOrOccupation>
-<artworks />
 <dbpResource>http://dbpedia.org/resource/Domenico_di_Pace_Beccafumi</dbpResource>
 <abstract>Domenico di Giacomo di Pace Beccafumi, genannt il Mecherino (* um 1486 bei Siena, wahrscheinlich in Montaperti (heute Teil der Gemeinde Castelnuovo Berardenga); † 18. Mai 1551 in Siena) war ein italienischer Maler und Bildhauer des Manierismus.</abstract>
 <wikilink>http://en.wikipedia.org/wiki/Domenico_di_Pace_Beccafumi?oldid=605331422</wikilink>
+<artworks />
+<buildings />
+<books />
 </Person>

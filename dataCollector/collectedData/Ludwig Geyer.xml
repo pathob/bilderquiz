@@ -25,8 +25,10 @@
 <XML_Serializer_Tag>Bildnismaler</XML_Serializer_Tag>
 <XML_Serializer_Tag>Intendant</XML_Serializer_Tag>
 </professionOrOccupation>
-<artworks />
 <dbpResource>http://dbpedia.org/resource/Ludwig_Geyer</dbpResource>
 <abstract>Ludwig Heinrich Christian Geyer (* 21. Januar 1779 in Eisleben; † 30. September 1821 in Dresden) war ein deutscher Maler, Schriftsteller und Schauspieler. Er heiratete die verwitwete Mutter von Richard Wagner. Ihre gemeinsame Tochter Cäcilie war die Mutter von Ferdinand Avenarius.</abstract>
 <wikilink>http://en.wikipedia.org/wiki/Ludwig_Geyer?oldid=600405308</wikilink>
+<artworks />
+<buildings />
+<books />
 </Person>

@@ -1,0 +1,25 @@
+<Person>
+<name>Karl Menger</name>
+<variantName />
+<thumbnail>https://commons.wikimedia.org/wiki/Special:FilePath/Menger-Schwamm-einfarbig.jpg?width=270</thumbnail>
+<birthEN>January 13, 1902</birthEN>
+<birthDE>13. Januar 1902</birthDE>
+<deathEN>October 5, 1985</deathEN>
+<deathDE>5. Oktober 1985</deathDE>
+<birthPlace>
+<XML_Serializer_Tag>Wien</XML_Serializer_Tag>
+</birthPlace>
+<deathPlace>
+<XML_Serializer_Tag>Chicago, Ill.</XML_Serializer_Tag>
+</deathPlace>
+<professionOrOccupation>
+<XML_Serializer_Tag>Mathematiker</XML_Serializer_Tag>
+<XML_Serializer_Tag>Philosoph</XML_Serializer_Tag>
+</professionOrOccupation>
+<dbpResource>http://dbpedia.org/resource/Karl_Menger</dbpResource>
+<abstract>Karl Menger (* 13. Januar 1902 in Wien; † 5. Oktober 1985 in Chicago) war ein österreichischer Mathematiker. Er war der Sohn des Ökonomen Carl Menger.Menger arbeitete im Gebiet der Algebra, Topologie, Kurven- und Dimensionstheorie und befasste sich mit der allgemeinen Lehre vom Raum und von räumlichen Gebilden. Außerdem beschäftigte er sich mit ethischen Fragen und formalen Studien menschlicher Beziehungen. Besonders bekannt geworden ist der sogenannte Menger-Schwamm, der nach ihm benannt wurde. Menger lernte bei Hans Hahn und promovierte 1924 an der Universität Wien. Zusammen mit Arthur Cayley begründete er die Distanzgeometrie.1927 konnte Menger eine Aussage aus dem Bereich der Graphentheorie über den Zusammenhang von disjunkten Wegen und trennenden Eckenmengen in einem Graphen beweisen, die als Satz von Menger bekannt wurde. Ferner ist der Satz von Menger-Nöbeling über die Einbettung endlichdimensionaler, kompakter, metrischer Räume in geeignete euklidische Räume mit seinem Namen verbunden.Von 1928 bis 1936 arbeitete Menger als Universitätsprofessor für Geometrie in Wien und war Mitglied des Wiener Kreises. Zwischen 1937 und 1946 war er Professor für Mathematik an der University of Notre Dame in Indiana (USA), ab 1946 Professor am Illinois Institute of Technology in Chicago.Ein weiteres Forschungsgebiet Mengers waren unscharfe Mengen (fuzzy theory).1932 hielt er einen Plenarvortrag auf dem Internationalen Mathematikerkongress in Zürich (Neuere Methoden und Probleme der Geometrie).</abstract>
+<wikilink>http://en.wikipedia.org/wiki/Karl_Menger?oldid=600150713</wikilink>
+<artworks />
+<buildings />
+<books />
+</Person>

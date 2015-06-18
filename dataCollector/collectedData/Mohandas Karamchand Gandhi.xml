@@ -1,0 +1,83 @@
+<Person>
+<name>Mohandas Karamchand Gandhi</name>
+<variantName>
+<XML_Serializer_Tag>Gandhi, Mahatma</XML_Serializer_Tag>
+<XML_Serializer_Tag>Mohamdās Karameand Gandhi</XML_Serializer_Tag>
+<XML_Serializer_Tag>Mohandas Karam Cand Gandhi</XML_Serializer_Tag>
+<XML_Serializer_Tag>Mohandās Karamcand Gandhi</XML_Serializer_Tag>
+<XML_Serializer_Tag>Mohandās Karamcand Gāndhī</XML_Serializer_Tag>
+<XML_Serializer_Tag>Mokhandas K. Gandi</XML_Serializer_Tag>
+<XML_Serializer_Tag>Mūhāndās K. Ghāndī</XML_Serializer_Tag>
+<XML_Serializer_Tag>Kan-ti</XML_Serializer_Tag>
+<XML_Serializer_Tag>Gandhi, Mahātmā</XML_Serializer_Tag>
+<XML_Serializer_Tag>Mohanadāsa Karamacanda Gāndhī</XML_Serializer_Tag>
+<XML_Serializer_Tag>M. K. Gandhi</XML_Serializer_Tag>
+<XML_Serializer_Tag>Mahātma Gandhi</XML_Serializer_Tag>
+<XML_Serializer_Tag>Mahatma Gandhi Mohandās Karamcand</XML_Serializer_Tag>
+<XML_Serializer_Tag>... Ghandhiji</XML_Serializer_Tag>
+<XML_Serializer_Tag>Mahatma Gandhi</XML_Serializer_Tag>
+<XML_Serializer_Tag>Махатма Ганди</XML_Serializer_Tag>
+</variantName>
+<thumbnail>https://commons.wikimedia.org/wiki/Special:FilePath/Portrait_Gandhi.jpg?width=270</thumbnail>
+<birthEN>October 2, 1869</birthEN>
+<birthDE>2. Oktober 1869</birthDE>
+<deathEN>January 30, 1948</deathEN>
+<deathDE>30. Januar 1948</deathDE>
+<birthPlace>
+<XML_Serializer_Tag>Porbandar</XML_Serializer_Tag>
+</birthPlace>
+<deathPlace>
+<XML_Serializer_Tag>Delhi</XML_Serializer_Tag>
+</deathPlace>
+<professionOrOccupation>
+<XML_Serializer_Tag>Rechtsanwalt</XML_Serializer_Tag>
+<XML_Serializer_Tag>Autor</XML_Serializer_Tag>
+<XML_Serializer_Tag>Pazifist</XML_Serializer_Tag>
+<XML_Serializer_Tag>Politiker</XML_Serializer_Tag>
+<XML_Serializer_Tag>Jurist</XML_Serializer_Tag>
+</professionOrOccupation>
+<dbpResource>http://dbpedia.org/resource/Mahatma_Gandhi</dbpResource>
+<abstract>Mohandas Karamchand Gandhi (Gujarati: મોહનદાસ કરમચંદ ગાંધી, Hindi: मोहनदास करमचंद गांधी Mohandās Karamchand Gāndhī; genannt Mahatma Gandhi; * 2. Oktober 1869 in Porbandar, Gujarat; † 30. Januar 1948 in Neu-Delhi, Delhi) war ein indischer Rechtsanwalt, Widerstandskämpfer, Revolutionär, Publizist, Morallehrer, Asket und Pazifist.Zu Beginn des 20. Jahrhunderts setzte sich Gandhi in Südafrika gegen die Rassentrennung und für die Gleichberechtigung der Inder ein. Danach entwickelte er sich ab Ende der 1910er Jahre in Indien zum politischen und geistigen Anführer der indischen Unabhängigkeitsbewegung. Gandhi forderte die Menschenrechte für Unberührbare und Frauen, er trat für die Versöhnung zwischen Hindus und Moslems ein, kämpfte gegen die koloniale Ausbeutung und für ein neues, autarkes, von der bäuerlichen Lebensweise geprägtes Wirtschaftssystem. Die Unabhängigkeitsbewegung führte mit gewaltfreiem Widerstand, zivilem Ungehorsam und Hungerstreiks schließlich das Ende der britischen Kolonialherrschaft über Indien herbei (1947), verbunden mit der Teilung Indiens. Ein halbes Jahr danach fiel Gandhi einem Attentat zum Opfer.Gandhi musste in Südafrika und Indien insgesamt acht Jahre in Gefängnissen verbringen. Seine Grundhaltung Satyagraha, das beharrliche Festhalten an der Wahrheit, umfasst neben Ahimsa, der Gewaltlosigkeit, noch weitere ethische Forderungen wie etwa Swaraj, was sowohl individuelle als auch politische Selbstkontrolle und Selbstbestimmung bedeutet.Schon zu Lebzeiten war Gandhi weltberühmt, für viele ein Vorbild und so anerkannt, dass er mehrmals für den Friedensnobelpreis nominiert wurde. In seinem Todesjahr wurde dieser Nobelpreis symbolisch nicht vergeben.</abstract>
+<wikilink>http://en.wikipedia.org/wiki/Mahatma_Gandhi?oldid=606404899</wikilink>
+<artworks />
+<buildings />
+<books>
+<XML_Serializer_Tag>
+<book>
+<type>uri</type>
+<value>http://dbpedia.org/resource/The_Essential_Gandhi</value>
+</book>
+<author>
+<type>uri</type>
+<value>http://dbpedia.org/resource/Mahatma_Gandhi</value>
+</author>
+<thumbnail>
+<type>uri</type>
+<value>http://commons.wikimedia.org/wiki/Special:FilePath/Gandhi_and_Kasturbhai_1902.jpg?width=300</value>
+</thumbnail>
+<released>
+<type>typed-literal</type>
+<datatype>http://www.w3.org/2001/XMLSchema#integer</datatype>
+<value>1962</value>
+</released>
+<wikilink>
+<type>uri</type>
+<value>http://en.wikipedia.org/wiki/The_Essential_Gandhi?oldid=604878649</value>
+</wikilink>
+</XML_Serializer_Tag>
+<XML_Serializer_Tag>
+<book>
+<type>uri</type>
+<value>http://dbpedia.org/resource/The_Story_of_My_Experiments_with_Truth</value>
+</book>
+<author>
+<type>uri</type>
+<value>http://dbpedia.org/resource/Mahatma_Gandhi</value>
+</author>
+<wikilink>
+<type>uri</type>
+<value>http://en.wikipedia.org/wiki/The_Story_of_My_Experiments_with_Truth?oldid=606445616</value>
+</wikilink>
+</XML_Serializer_Tag>
+</books>
+</Person>

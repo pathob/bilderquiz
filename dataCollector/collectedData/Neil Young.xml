@@ -1,0 +1,44 @@
+<Person>
+<name>Neil Young</name>
+<variantName>
+<XML_Serializer_Tag>Neil Percival Young</XML_Serializer_Tag>
+<XML_Serializer_Tag>Bernard Shakey</XML_Serializer_Tag>
+<XML_Serializer_Tag>Godfather of Grunge</XML_Serializer_Tag>
+</variantName>
+<thumbnail>https://commons.wikimedia.org/wiki/Special:FilePath/Ny-ottawa-jul-2006.jpg?width=270</thumbnail>
+<birthEN>1945</birthEN>
+<birthDE>1945</birthDE>
+<deathEN />
+<deathDE />
+<birthPlace>
+<XML_Serializer_Tag>Toronto</XML_Serializer_Tag>
+</birthPlace>
+<deathPlace />
+<professionOrOccupation>
+<XML_Serializer_Tag>Rockmusiker</XML_Serializer_Tag>
+<XML_Serializer_Tag>Songwriter</XML_Serializer_Tag>
+<XML_Serializer_Tag>Sänger</XML_Serializer_Tag>
+<XML_Serializer_Tag>Autor</XML_Serializer_Tag>
+</professionOrOccupation>
+<dbpResource>http://dbpedia.org/resource/Neil_Young</dbpResource>
+<abstract>Neil Percival Young, OC, OM (* 12. November 1945 in Toronto, Ontario) ist ein kanadischer Rockmusiker, der mit der Band Crazy Horse, aber auch als Solokünstler und mit vielen anderen Bands und Künstlern auftritt, insbesondere mit David Crosby, Stephen Stills und Graham Nash als Crosby, Stills, Nash and Young (CSNY). Zudem gilt er als Godfather of Grunge. Zu seinen populärsten Titeln gehören unter anderem The Needle and the Damage Done, Heart of Gold, Cinnamon Girl, Sugar Mountain, Like a Hurricane, Rockin’ in the Free World und Hey Hey, My My. Youngs Karriere begann 1966 mit der Band Buffalo Springfield und dauert bis heute an.</abstract>
+<wikilink>http://en.wikipedia.org/wiki/Neil_Young?oldid=606442039</wikilink>
+<artworks />
+<buildings />
+<books>
+<XML_Serializer_Tag>
+<book>
+<type>uri</type>
+<value>http://dbpedia.org/resource/Waging_Heavy_Peace</value>
+</book>
+<author>
+<type>uri</type>
+<value>http://dbpedia.org/resource/Neil_Young</value>
+</author>
+<wikilink>
+<type>uri</type>
+<value>http://en.wikipedia.org/wiki/Waging_Heavy_Peace?oldid=603665260</value>
+</wikilink>
+</XML_Serializer_Tag>
+</books>
+</Person>

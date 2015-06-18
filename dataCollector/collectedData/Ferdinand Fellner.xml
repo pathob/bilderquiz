@@ -23,8 +23,10 @@
 <XML_Serializer_Tag>Historienmaler</XML_Serializer_Tag>
 <XML_Serializer_Tag>Jurist</XML_Serializer_Tag>
 </professionOrOccupation>
-<artworks />
 <dbpResource>http://dbpedia.org/resource/Ferdinand_Fellner_(painter)</dbpResource>
 <abstract>Ferdinand Fellner (* 12. Mai 1799 in Frankfurt am Main; † 4. September 1859 in Stuttgart) war ein deutscher Zeichner und Maler.</abstract>
 <wikilink>http://en.wikipedia.org/wiki/Ferdinand_Fellner_(painter)?oldid=586222791</wikilink>
+<artworks />
+<buildings />
+<books />
 </Person>

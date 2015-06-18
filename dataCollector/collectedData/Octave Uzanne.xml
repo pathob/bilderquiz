@@ -1,0 +1,34 @@
+<Person>
+<name>Octave Uzanne</name>
+<variantName>
+<XML_Serializer_Tag>Louis Octave Uzanne</XML_Serializer_Tag>
+<XML_Serializer_Tag>Louis-Octave Uzanne</XML_Serializer_Tag>
+<XML_Serializer_Tag>Jehan Du Guet</XML_Serializer_Tag>
+<XML_Serializer_Tag>... La Cagoule</XML_Serializer_Tag>
+<XML_Serializer_Tag>... La Cagoule</XML_Serializer_Tag>
+<XML_Serializer_Tag>Louis de Villotte</XML_Serializer_Tag>
+</variantName>
+<thumbnail>https://commons.wikimedia.org/wiki/Special:FilePath/Octave_Uzanne_by_Vallotton.jpg?width=270</thumbnail>
+<birthEN>September 14, 1851</birthEN>
+<birthDE>14. September 1851</birthDE>
+<deathEN>October 31, 1931</deathEN>
+<deathDE>31. Oktober 1931</deathDE>
+<birthPlace>
+<XML_Serializer_Tag>Auxerre</XML_Serializer_Tag>
+</birthPlace>
+<deathPlace>
+<XML_Serializer_Tag>Saint-Cloud</XML_Serializer_Tag>
+</deathPlace>
+<professionOrOccupation>
+<XML_Serializer_Tag>Architekt</XML_Serializer_Tag>
+<XML_Serializer_Tag>Bibliophiler</XML_Serializer_Tag>
+<XML_Serializer_Tag>Schriftsteller</XML_Serializer_Tag>
+<XML_Serializer_Tag>Verleger</XML_Serializer_Tag>
+</professionOrOccupation>
+<dbpResource>http://dbpedia.org/resource/Octave_Uzanne</dbpResource>
+<abstract>Louis-Octave Uzanne (* 14. September 1851 in Auxerre; † 31. Oktober 1931 in Saint-Cloud; Pseudonyme: Jehan Du Guet, La Cagoule, Louis de Villotte) war ein französischer Schriftsteller, Bibliophiler und Verleger kostbarer Bücher.</abstract>
+<wikilink>http://en.wikipedia.org/wiki/Octave_Uzanne?oldid=585263562</wikilink>
+<artworks />
+<buildings />
+<books />
+</Person>

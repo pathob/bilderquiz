@@ -1,0 +1,39 @@
+<Person>
+<name>Johannes Scherr</name>
+<variantName>
+<XML_Serializer_Tag>Ilius Pamphilius</XML_Serializer_Tag>
+<XML_Serializer_Tag>Jeremia Sauerampfer</XML_Serializer_Tag>
+<XML_Serializer_Tag>Hans Scherr</XML_Serializer_Tag>
+<XML_Serializer_Tag>Jedediah Semmelziege</XML_Serializer_Tag>
+<XML_Serializer_Tag>I. Šerr</XML_Serializer_Tag>
+<XML_Serializer_Tag>Iogann Šerr</XML_Serializer_Tag>
+<XML_Serializer_Tag>Jogann Sherr</XML_Serializer_Tag>
+<XML_Serializer_Tag>Zacharias Zinnober</XML_Serializer_Tag>
+<XML_Serializer_Tag>Johann Scherr</XML_Serializer_Tag>
+<XML_Serializer_Tag>H. Scherr</XML_Serializer_Tag>
+<XML_Serializer_Tag>Johannes Hieronymus Scherr</XML_Serializer_Tag>
+<XML_Serializer_Tag>Jedediah Sammelziege</XML_Serializer_Tag>
+</variantName>
+<thumbnail>https://commons.wikimedia.org/wiki/Special:FilePath/Johannes_Scherr.jpg?width=270</thumbnail>
+<birthEN>October 3, 1817</birthEN>
+<birthDE>3. Oktober 1817</birthDE>
+<deathEN>November 21, 1886</deathEN>
+<deathDE>21. November 1886</deathDE>
+<birthPlace>
+<XML_Serializer_Tag>Rechberg (Schwäbisch Gmünd)</XML_Serializer_Tag>
+</birthPlace>
+<deathPlace>
+<XML_Serializer_Tag>Zürich</XML_Serializer_Tag>
+</deathPlace>
+<professionOrOccupation>
+<XML_Serializer_Tag>Schriftsteller</XML_Serializer_Tag>
+<XML_Serializer_Tag>Historiker</XML_Serializer_Tag>
+<XML_Serializer_Tag>Literarhistoriker</XML_Serializer_Tag>
+</professionOrOccupation>
+<dbpResource>http://dbpedia.org/resource/Johannes_Scherr</dbpResource>
+<abstract>Johannes Scherr (* 3. Oktober 1817 in Rechberg-Hinterweiler bei Schwäbisch Gmünd; † 21. November 1886 in Zürich) war ein deutscher Kulturhistoriker und Schriftsteller.</abstract>
+<wikilink>http://en.wikipedia.org/wiki/Johannes_Scherr?oldid=565390531</wikilink>
+<artworks />
+<buildings />
+<books />
+</Person>

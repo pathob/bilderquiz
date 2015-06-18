@@ -1,0 +1,28 @@
+<Person>
+<name>Madison Grant</name>
+<variantName />
+<thumbnail>https://commons.wikimedia.org/wiki/Special:FilePath/Madison_Grant.jpg?width=270</thumbnail>
+<birthEN>November 19, 1865</birthEN>
+<birthDE>19. November 1865</birthDE>
+<deathEN>May 30, 1937</deathEN>
+<deathDE>30. Mai 1937</deathDE>
+<birthPlace>
+<XML_Serializer_Tag>New York, NY</XML_Serializer_Tag>
+</birthPlace>
+<deathPlace>
+<XML_Serializer_Tag>New York, NY</XML_Serializer_Tag>
+</deathPlace>
+<professionOrOccupation>
+<XML_Serializer_Tag>Jurist</XML_Serializer_Tag>
+<XML_Serializer_Tag>Rassist</XML_Serializer_Tag>
+<XML_Serializer_Tag>Eugeniker</XML_Serializer_Tag>
+<XML_Serializer_Tag>Zoologe</XML_Serializer_Tag>
+<XML_Serializer_Tag>Autor</XML_Serializer_Tag>
+</professionOrOccupation>
+<dbpResource>http://dbpedia.org/resource/Madison_Grant</dbpResource>
+<abstract>Madison Grant (* 19. November 1865 in New York; † 30. Mai 1937 ebenda) war ein US-amerikanischer Rechtsanwalt und Verfasser rassentheoretischer Werke. Er war u. a. Verwaltungsrat im American Museum of Natural History und Mitgründer des Bronx Zoos.</abstract>
+<wikilink>http://en.wikipedia.org/wiki/Madison_Grant?oldid=606189125</wikilink>
+<artworks />
+<buildings />
+<books />
+</Person>

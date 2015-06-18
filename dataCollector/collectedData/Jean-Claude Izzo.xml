@@ -1,0 +1,64 @@
+<Person>
+<name>Jean-Claude Izzo</name>
+<variantName />
+<thumbnail>https://commons.wikimedia.org/wiki/Special:FilePath/Les_Goudes_1.jpg?width=270</thumbnail>
+<birthEN>1945</birthEN>
+<birthDE>1945</birthDE>
+<deathEN>January 26, 2000</deathEN>
+<deathDE>26. Januar 2000</deathDE>
+<birthPlace />
+<deathPlace />
+<professionOrOccupation>
+<XML_Serializer_Tag>Journalist</XML_Serializer_Tag>
+<XML_Serializer_Tag>Autor</XML_Serializer_Tag>
+</professionOrOccupation>
+<dbpResource>http://dbpedia.org/resource/Jean-Claude_Izzo</dbpResource>
+<abstract>Jean-Claude Izzo (* 20. Juni 1945 in Marseille; † 26. Januar 2000 ebenda) war ein französischer Journalist und Schriftsteller. Seine Bekanntheit verdankte er vor allem den Kriminalromanen der „Marseille-Trilogie“ Total Khéops, Chourmo und Soléa. Er stand in der Tradition des französischen Néo-Polar, Kriminalliteratur mit gesellschaftskritischem Einschlag. Izzo selbst sah sich als einen Schüler Leonardo Sciascias.</abstract>
+<wikilink>http://en.wikipedia.org/wiki/Jean-Claude_Izzo?oldid=585796409</wikilink>
+<artworks />
+<buildings />
+<books>
+<XML_Serializer_Tag>
+<book>
+<type>uri</type>
+<value>http://dbpedia.org/resource/Chourmo</value>
+</book>
+<author>
+<type>uri</type>
+<value>http://dbpedia.org/resource/Jean-Claude_Izzo</value>
+</author>
+<wikilink>
+<type>uri</type>
+<value>http://en.wikipedia.org/wiki/Chourmo?oldid=572177294</value>
+</wikilink>
+</XML_Serializer_Tag>
+<XML_Serializer_Tag>
+<book>
+<type>uri</type>
+<value>http://dbpedia.org/resource/Solea_(novel)</value>
+</book>
+<author>
+<type>uri</type>
+<value>http://dbpedia.org/resource/Jean-Claude_Izzo</value>
+</author>
+<wikilink>
+<type>uri</type>
+<value>http://en.wikipedia.org/wiki/Solea_(novel)?oldid=572177391</value>
+</wikilink>
+</XML_Serializer_Tag>
+<XML_Serializer_Tag>
+<book>
+<type>uri</type>
+<value>http://dbpedia.org/resource/Total_chaos_(novel)</value>
+</book>
+<author>
+<type>uri</type>
+<value>http://dbpedia.org/resource/Jean-Claude_Izzo</value>
+</author>
+<wikilink>
+<type>uri</type>
+<value>http://en.wikipedia.org/wiki/Total_chaos_(novel)?oldid=572177324</value>
+</wikilink>
+</XML_Serializer_Tag>
+</books>
+</Person>

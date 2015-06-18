@@ -15,8 +15,10 @@
 <XML_Serializer_Tag>Zen-Lehrer</XML_Serializer_Tag>
 <XML_Serializer_Tag>Übersetzer</XML_Serializer_Tag>
 </professionOrOccupation>
-<artworks />
 <dbpResource>http://dbpedia.org/resource/Kazuaki_Tanahashi</dbpResource>
 <abstract>Kazuaki Tanahashi (jap. 棚橋 一晃, Tanahashi Kazuaki; * 1933 in Japan) ist ein japanischer Kalligraf, Künstler, Autor, Übersetzer, Friedens- und Umweltaktivist.</abstract>
 <wikilink>http://en.wikipedia.org/wiki/Kazuaki_Tanahashi?oldid=601952542</wikilink>
+<artworks />
+<buildings />
+<books />
 </Person>

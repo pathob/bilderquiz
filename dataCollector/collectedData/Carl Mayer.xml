@@ -22,8 +22,10 @@
 <XML_Serializer_Tag>Graphiker</XML_Serializer_Tag>
 <XML_Serializer_Tag>Verleger</XML_Serializer_Tag>
 </professionOrOccupation>
-<artworks />
 <dbpResource>http://dbpedia.org/resource/Carl_Mayer</dbpResource>
 <abstract>Carl Mayer (* 20. November 1894 in Graz; † 1. Juli 1944 in London) war ein österreichischer Drehbuchautor.</abstract>
 <wikilink>http://en.wikipedia.org/wiki/Carl_Mayer?oldid=589171839</wikilink>
+<artworks />
+<buildings />
+<books />
 </Person>

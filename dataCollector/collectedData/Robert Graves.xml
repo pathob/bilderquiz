@@ -1,0 +1,154 @@
+<Person>
+<name>Robert Graves</name>
+<variantName>
+<XML_Serializer_Tag>Robert von Ranke Graves</XML_Serializer_Tag>
+<XML_Serializer_Tag>Robert von Graves</XML_Serializer_Tag>
+<XML_Serializer_Tag>Robert von Ranke Graves</XML_Serializer_Tag>
+<XML_Serializer_Tag>Robert von R. Graves</XML_Serializer_Tag>
+<XML_Serializer_Tag>Robert Ranke Graves</XML_Serializer_Tag>
+<XML_Serializer_Tag>Robāto Gureibusu</XML_Serializer_Tag>
+<XML_Serializer_Tag>Robert von Ranke-Graves</XML_Serializer_Tag>
+<XML_Serializer_Tag>Robert Ranke-Graves</XML_Serializer_Tag>
+<XML_Serializer_Tag>R. Ranke-Graves</XML_Serializer_Tag>
+<XML_Serializer_Tag>Robert Von Ranke Graves</XML_Serializer_Tag>
+<XML_Serializer_Tag>Robert VonRanke Graves</XML_Serializer_Tag>
+<XML_Serializer_Tag>Robert VonRanke-Graves</XML_Serializer_Tag>
+<XML_Serializer_Tag>Robert Ranke</XML_Serializer_Tag>
+</variantName>
+<thumbnail>https://commons.wikimedia.org/wiki/Special:FilePath/Robert_Graves_home_in_Deià.jpg?width=270</thumbnail>
+<birthEN>July 24, 1895</birthEN>
+<birthDE>24. Juli 1895</birthDE>
+<deathEN>December 7, 1985</deathEN>
+<deathDE>7. Dezember 1985</deathDE>
+<birthPlace>
+<XML_Serializer_Tag>Wimbledon</XML_Serializer_Tag>
+</birthPlace>
+<deathPlace>
+<XML_Serializer_Tag>Deià</XML_Serializer_Tag>
+</deathPlace>
+<professionOrOccupation>
+<XML_Serializer_Tag>Literaturwissenschaftler</XML_Serializer_Tag>
+<XML_Serializer_Tag>Hochschullehrer</XML_Serializer_Tag>
+<XML_Serializer_Tag>Schriftsteller</XML_Serializer_Tag>
+<XML_Serializer_Tag>Publizist</XML_Serializer_Tag>
+<XML_Serializer_Tag>Romancier</XML_Serializer_Tag>
+<XML_Serializer_Tag>Lyriker</XML_Serializer_Tag>
+<XML_Serializer_Tag>Offizier</XML_Serializer_Tag>
+</professionOrOccupation>
+<dbpResource>http://dbpedia.org/resource/Robert_Graves</dbpResource>
+<abstract>Robert Graves, im deutschen Sprachraum Robert von Ranke-Graves (* 24. Juli 1895 in Wimbledon, London; † 7. Dezember 1985 in Deià auf Mallorca), war ein britischer Schriftsteller und Dichter.</abstract>
+<wikilink>http://en.wikipedia.org/wiki/Robert_Graves?oldid=605788075</wikilink>
+<artworks />
+<buildings />
+<books>
+<XML_Serializer_Tag>
+<book>
+<type>uri</type>
+<value>http://dbpedia.org/resource/Good-Bye_to_All_That</value>
+</book>
+<author>
+<type>uri</type>
+<value>http://dbpedia.org/resource/Robert_Graves</value>
+</author>
+<released>
+<type>typed-literal</type>
+<datatype>http://www.w3.org/2001/XMLSchema#integer</datatype>
+<value>1929</value>
+</released>
+<wikilink>
+<type>uri</type>
+<value>http://en.wikipedia.org/wiki/Good-Bye_to_All_That?oldid=586819468</value>
+</wikilink>
+<abstract>
+<type>literal</type>
+<xml:lang>de</xml:lang>
+<value>Strich drunter! (engl. Good-bye to All That) ist eine Autobiographie von Robert Graves. Das 1929 zum ersten Mal veröffentlichte Werk, das den Alltag des Grabenkrieges im Ersten Weltkrieg darstellt, gilt als Meilenstein der englischen Anti-Kriegs-Memoiren. Der Titel drückt Graves&apos; Ernüchterung über die Existenz traditioneller, stabiler Werte in der europäischen und englischen Gesellschaft aus. Graves verfasste das Werk im Alter von 33 Jahren, als er noch ein langes und ereignisreiches Leben vor sich hatte. Das Buch behandelt hauptsächlich seine Kindheit, Jugend und den Militärdienst.Er widmet einen großen Teil des Buches seinen Erfahrungen im Ersten Weltkrieg, in dem er detailliert den Grabenkrieg und insbesondere den Unsinn der Schlacht von Loos beschreibt. Bei dieser Schlacht an der Westfront kam 1915 zum ersten Mal auf britischer Seite Giftgas zum Einsatz. Für viele Leser sind die Erzählungen aus zweiter Hand über die Ermordung deutscher Kriegsgefangener durch britische, kanadische und australische Truppen von Interesse. Obwohl er nicht selbst Zeuge solcher Vorfälle war und von keinen groß angelegen Massakern wusste, war ihm eine Reihe von Vorfällen bekannt, bei denen Gefangene einzeln oder in kleinen Gruppen getötet wurden. Er glaubte, dass viele Deutsche, die sich ergaben, nie in die Kriegsgefangenenlager kamen.Graves war durch seine Kriegserfahrungen traumatisiert. Nachdem er verwundet worden war, musste er während einer Zugfahrt fünf Tage mit schmutzigen und nicht gewechselten Bandagen auskommen. Das Telefon im Graben verängstigte ihn so sehr, dass er sich dieser Technologie nie mehr anvertraute. Auch erlitt er einmal einen elektrischen Schock, weil die Leitung vom Blitz getroffen wurde. Nach seiner Rückkehr nach Hause wurde er nach eigener Aussage von Geistern und Alpträumen verfolgt. Seine Geliebte, die amerikanische Dichterin Laura Riding, preist er als &quot;spirituelle und intellektuelle Geburtshelferin&quot; seines Werkes, welches ihn berühmt gemacht hat.Nach einer starken Überarbeitung veröffentlichte Graves das Buch 1957 erneut. Viele bedeutende Ereignisse und Personen wurden entfernt bzw. hinzugefügt. Eine von Birgit Otte durchgesehene und überarbeitete Übersetzung erschien 1990 im Rowohlt Verlag.</value>
+</abstract>
+</XML_Serializer_Tag>
+<XML_Serializer_Tag>
+<book>
+<type>uri</type>
+<value>http://dbpedia.org/resource/I,_Claudius</value>
+</book>
+<author>
+<type>uri</type>
+<value>http://dbpedia.org/resource/Robert_Graves</value>
+</author>
+<released>
+<type>typed-literal</type>
+<datatype>http://www.w3.org/2001/XMLSchema#integer</datatype>
+<value>1934</value>
+</released>
+<wikilink>
+<type>uri</type>
+<value>http://en.wikipedia.org/wiki/I,_Claudius?oldid=604541994</value>
+</wikilink>
+</XML_Serializer_Tag>
+<XML_Serializer_Tag>
+<book>
+<type>uri</type>
+<value>http://dbpedia.org/resource/The_White_Goddess</value>
+</book>
+<author>
+<type>uri</type>
+<value>http://dbpedia.org/resource/Robert_Graves</value>
+</author>
+<released>
+<type>typed-literal</type>
+<datatype>http://www.w3.org/2001/XMLSchema#integer</datatype>
+<value>1948</value>
+</released>
+<wikilink>
+<type>uri</type>
+<value>http://en.wikipedia.org/wiki/The_White_Goddess?oldid=603102625</value>
+</wikilink>
+</XML_Serializer_Tag>
+<XML_Serializer_Tag>
+<book>
+<type>uri</type>
+<value>http://dbpedia.org/resource/Count_Belisarius</value>
+</book>
+<author>
+<type>uri</type>
+<value>http://dbpedia.org/resource/Robert_Graves</value>
+</author>
+<wikilink>
+<type>uri</type>
+<value>http://en.wikipedia.org/wiki/Count_Belisarius?oldid=604848601</value>
+</wikilink>
+<abstract>
+<type>literal</type>
+<xml:lang>de</xml:lang>
+<value>Count Belisarius ist ein 1938 erschienener Roman des britischen Schriftstellers Robert Graves über das Leben des oströmischen Generals Belisar aus dem 6. Jahrhundert.</value>
+</abstract>
+</XML_Serializer_Tag>
+<XML_Serializer_Tag>
+<book>
+<type>uri</type>
+<value>http://dbpedia.org/resource/Seven_Days_in_New_Crete</value>
+</book>
+<author>
+<type>uri</type>
+<value>http://dbpedia.org/resource/Robert_Graves</value>
+</author>
+<wikilink>
+<type>uri</type>
+<value>http://en.wikipedia.org/wiki/Seven_Days_in_New_Crete?oldid=599029475</value>
+</wikilink>
+</XML_Serializer_Tag>
+<XML_Serializer_Tag>
+<book>
+<type>uri</type>
+<value>http://dbpedia.org/resource/The_Islands_of_Unwisdom</value>
+</book>
+<author>
+<type>uri</type>
+<value>http://dbpedia.org/resource/Robert_Graves</value>
+</author>
+<wikilink>
+<type>uri</type>
+<value>http://en.wikipedia.org/wiki/The_Islands_of_Unwisdom?oldid=591163965</value>
+</wikilink>
+</XML_Serializer_Tag>
+</books>
+</Person>

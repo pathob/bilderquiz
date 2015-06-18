@@ -20,8 +20,10 @@
 <XML_Serializer_Tag>Bildhauer</XML_Serializer_Tag>
 <XML_Serializer_Tag>Graphiker</XML_Serializer_Tag>
 </professionOrOccupation>
-<artworks />
 <dbpResource>http://dbpedia.org/resource/Rupprecht_Geiger</dbpResource>
 <abstract>Rupprecht Geiger (* 26. Januar 1908 in München; † 6. Dezember 2009 in München ) war ein abstrakter deutscher Maler und Bildhauer.</abstract>
 <wikilink>http://en.wikipedia.org/wiki/Rupprecht_Geiger?oldid=586385955</wikilink>
+<artworks />
+<buildings />
+<books />
 </Person>

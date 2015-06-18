@@ -24,8 +24,10 @@
 <XML_Serializer_Tag>Maler</XML_Serializer_Tag>
 <XML_Serializer_Tag>Dichter</XML_Serializer_Tag>
 </professionOrOccupation>
-<artworks />
 <dbpResource>http://dbpedia.org/resource/Agnolo_Firenzuola</dbpResource>
 <abstract>Agnolo Firenzuola (eigentlich Michelangelo Girolamo Giovannini; * 28. September 1493 in Florenz; † 27. Juni 1543 in Prato) war ein italienischer Dichter. Sein Künstlername rührte vom Herkunftsort seiner Familie her, Firenzuola, einer kleinen Stadt am Fuße des Apennin.</abstract>
 <wikilink>http://en.wikipedia.org/wiki/Agnolo_Firenzuola?oldid=602003179</wikilink>
+<artworks />
+<buildings />
+<books />
 </Person>

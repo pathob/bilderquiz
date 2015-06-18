@@ -17,8 +17,10 @@
 <XML_Serializer_Tag>Maler</XML_Serializer_Tag>
 <XML_Serializer_Tag>Tätowierer</XML_Serializer_Tag>
 </professionOrOccupation>
-<artworks />
 <dbpResource>http://dbpedia.org/resource/Don_Ed_Hardy</dbpResource>
 <abstract>Donald Ed Hardy (* 1945 in Newport Beach) ist ein US-amerikanischer Tattookünstler und Designer.</abstract>
 <wikilink>http://en.wikipedia.org/wiki/Don_Ed_Hardy?oldid=605782288</wikilink>
+<artworks />
+<buildings />
+<books />
 </Person>

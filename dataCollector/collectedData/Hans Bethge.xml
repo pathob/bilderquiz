@@ -1,0 +1,28 @@
+<Person>
+<name>Hans Bethge</name>
+<variantName>
+<XML_Serializer_Tag>Johannes Bethge</XML_Serializer_Tag>
+</variantName>
+<thumbnail>https://commons.wikimedia.org/wiki/Special:FilePath/Grabmal_Hans_Bethge_in_Kirchheim_u_Teck.JPG?width=270</thumbnail>
+<birthEN>January 9, 1876</birthEN>
+<birthDE>9. Januar 1876</birthDE>
+<deathEN>February 1, 1946</deathEN>
+<deathDE>1. Februar 1946</deathDE>
+<birthPlace>
+<XML_Serializer_Tag>Dessau</XML_Serializer_Tag>
+</birthPlace>
+<deathPlace>
+<XML_Serializer_Tag>Göppingen</XML_Serializer_Tag>
+</deathPlace>
+<professionOrOccupation>
+<XML_Serializer_Tag>Schriftsteller</XML_Serializer_Tag>
+<XML_Serializer_Tag>Übersetzer</XML_Serializer_Tag>
+<XML_Serializer_Tag>Kritiker</XML_Serializer_Tag>
+</professionOrOccupation>
+<dbpResource>http://dbpedia.org/resource/Hans_Bethge_(aviator)</dbpResource>
+<abstract>Hans Bethge (* 6. Dezember 1890 in Berlin; † 17. März 1918 in Passendale) war ein deutscher Offizier der Fliegertruppe und erzielte im Ersten Weltkrieg als Jagdflieger insgesamt 20 bestätigte Abschüsse. Er wird den „erfolgreichsten deutschen Jagdfliegern“ des Ersten Weltkriegs zugerechnet.</abstract>
+<wikilink>http://en.wikipedia.org/wiki/Hans_Bethge_(aviator)?oldid=579705584</wikilink>
+<artworks />
+<buildings />
+<books />
+</Person>

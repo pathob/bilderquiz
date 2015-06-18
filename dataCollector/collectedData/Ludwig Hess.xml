@@ -17,8 +17,10 @@
 <XML_Serializer_Tag>Maler</XML_Serializer_Tag>
 <XML_Serializer_Tag>Landschaftsmaler</XML_Serializer_Tag>
 </professionOrOccupation>
-<artworks />
 <dbpResource>http://dbpedia.org/resource/Ludwig_Hess</dbpResource>
 <abstract>Ludwig Hess (* 18. Oktober 1760 in Zürich; † 13. April 1800 oder 16. April 1800 ebenda) war ein Schweizer Landschaftsmaler und Kupferstecher.</abstract>
 <wikilink>http://en.wikipedia.org/wiki/Ludwig_Hess?oldid=599875039</wikilink>
+<artworks />
+<buildings />
+<books />
 </Person>

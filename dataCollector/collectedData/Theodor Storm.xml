@@ -1,0 +1,68 @@
+<Person>
+<name>Theodor Storm</name>
+<variantName>
+<XML_Serializer_Tag>Theod. Storm</XML_Serializer_Tag>
+<XML_Serializer_Tag>Th. Storm</XML_Serializer_Tag>
+<XML_Serializer_Tag>... Shidumu</XML_Serializer_Tag>
+<XML_Serializer_Tag>Teodōa Shutorumu</XML_Serializer_Tag>
+<XML_Serializer_Tag>Hans Theodor Woldsen Storm</XML_Serializer_Tag>
+<XML_Serializer_Tag>Teodor Storm</XML_Serializer_Tag>
+<XML_Serializer_Tag>Teodor Štorm</XML_Serializer_Tag>
+<XML_Serializer_Tag>Teodoro Storm</XML_Serializer_Tag>
+<XML_Serializer_Tag>Thoedor Storm</XML_Serializer_Tag>
+<XML_Serializer_Tag>Tiyaḍōr Sṭōrm</XML_Serializer_Tag>
+<XML_Serializer_Tag>Tʹeodor Štormi</XML_Serializer_Tag>
+<XML_Serializer_Tag>Théodore Storm</XML_Serializer_Tag>
+<XML_Serializer_Tag>... Storm-Schmidt</XML_Serializer_Tag>
+<XML_Serializer_Tag>Shi tuo mu</XML_Serializer_Tag>
+<XML_Serializer_Tag>Shituomu</XML_Serializer_Tag>
+<XML_Serializer_Tag>Shi du mu</XML_Serializer_Tag>
+<XML_Serializer_Tag>Shidumu</XML_Serializer_Tag>
+<XML_Serializer_Tag>... Shidumu</XML_Serializer_Tag>
+<XML_Serializer_Tag>테오도르 슈토름</XML_Serializer_Tag>
+<XML_Serializer_Tag>テーオドール・シュトルム</XML_Serializer_Tag>
+<XML_Serializer_Tag>施笃姆</XML_Serializer_Tag>
+</variantName>
+<thumbnail>https://commons.wikimedia.org/wiki/Special:FilePath/Theodor_Storm_1886.JPG?width=270</thumbnail>
+<birthEN>September 14, 1817</birthEN>
+<birthDE>14. September 1817</birthDE>
+<deathEN>July 4, 1888</deathEN>
+<deathDE>4. Juli 1888</deathDE>
+<birthPlace>
+<XML_Serializer_Tag>Husum (Kreis Nordfriesland)</XML_Serializer_Tag>
+</birthPlace>
+<deathPlace>
+<XML_Serializer_Tag>Hademarschen</XML_Serializer_Tag>
+</deathPlace>
+<professionOrOccupation>
+<XML_Serializer_Tag>Lyriker</XML_Serializer_Tag>
+<XML_Serializer_Tag>Jurist</XML_Serializer_Tag>
+<XML_Serializer_Tag>Schriftsteller</XML_Serializer_Tag>
+</professionOrOccupation>
+<dbpResource>http://dbpedia.org/resource/Theodor_Storm</dbpResource>
+<abstract>Hans Theodor Woldsen Storm (* 14. September 1817 in Husum; † 4. Juli 1888 in Hanerau-Hademarschen) war ein deutscher Schriftsteller, der als Lyriker und als Autor von Novellen und Prosa des deutschen Realismus mit norddeutscher Prägung bedeutend war. Im bürgerlichen Beruf war Storm Jurist.</abstract>
+<wikilink>http://en.wikipedia.org/wiki/Theodor_Storm?oldid=606491977</wikilink>
+<artworks />
+<buildings />
+<books>
+<XML_Serializer_Tag>
+<book>
+<type>uri</type>
+<value>http://dbpedia.org/resource/The_Rider_on_the_White_Horse</value>
+</book>
+<author>
+<type>uri</type>
+<value>http://dbpedia.org/resource/Theodor_Storm</value>
+</author>
+<wikilink>
+<type>uri</type>
+<value>http://en.wikipedia.org/wiki/The_Rider_on_the_White_Horse?oldid=546301896</value>
+</wikilink>
+<abstract>
+<type>literal</type>
+<xml:lang>de</xml:lang>
+<value>Der Schimmelreiter ist eine Novelle von Theodor Storm. Das im April 1888 veröffentlichte Werk ist Storms bekannteste Erzählung und zählt zu seinen Spätwerken.Die Novelle, in deren Zentrum der fiktive Deichgraf Hauke Haien steht, basiert auf einer Sage, mit der Storm sich über Jahrzehnte befasste. Mit der Niederschrift der Novelle begann er jedoch erst im Juli 1886 und beendete seine Arbeit daran im Februar 1888, wenige Monate vor seinem Tod. Die Novelle erschien das erste Mal im April 1888 in der Zeitschrift Deutsche Rundschau Bd.55.</value>
+</abstract>
+</XML_Serializer_Tag>
+</books>
+</Person>

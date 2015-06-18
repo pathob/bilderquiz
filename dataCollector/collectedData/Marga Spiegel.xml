@@ -1,0 +1,27 @@
+<Person>
+<name>Marga Spiegel</name>
+<variantName>
+<XML_Serializer_Tag>Marga Rothschild</XML_Serializer_Tag>
+<XML_Serializer_Tag>Marga Rothschild</XML_Serializer_Tag>
+</variantName>
+<thumbnail>https://commons.wikimedia.org/wiki/Special:FilePath/Marga_Spiegel_(revised).jpg?width=270</thumbnail>
+<birthEN>May 21, 1912</birthEN>
+<birthDE>21. Mai 1912</birthDE>
+<deathEN>March 11, 2014</deathEN>
+<deathDE>11. März 2014</deathDE>
+<birthPlace>
+<XML_Serializer_Tag>Oberaula</XML_Serializer_Tag>
+</birthPlace>
+<deathPlace>
+<XML_Serializer_Tag>Münster (Westf)</XML_Serializer_Tag>
+</deathPlace>
+<professionOrOccupation>
+<XML_Serializer_Tag>Schriftstellerin</XML_Serializer_Tag>
+</professionOrOccupation>
+<dbpResource>http://dbpedia.org/resource/Marga_Spiegel</dbpResource>
+<abstract>Marga Spiegel (* 21. Juni 1912 in Oberaula als Marga Rothschild; † 11. März 2014 in Münster) war eine deutsche Überlebende des Holocaust. Die Jüdin tauchte mit ihrem Ehemann und ihrer Tochter von 1943 bis 1945 bei katholischen Bauern im Münsterland unter und entging so der drohenden Deportation. Über diese Zeit veröffentlichte Spiegel unter anderem 1969 ein Buch, das 2009 verfilmt wurde.</abstract>
+<wikilink>http://en.wikipedia.org/wiki/Marga_Spiegel?oldid=603044751</wikilink>
+<artworks />
+<buildings />
+<books />
+</Person>

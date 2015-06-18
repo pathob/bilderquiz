@@ -1,0 +1,28 @@
+<Person>
+<name>Hans Bender</name>
+<variantName>
+<XML_Serializer_Tag>Hans Friedrich Bender</XML_Serializer_Tag>
+<XML_Serializer_Tag>Hansŭ Pendŏ</XML_Serializer_Tag>
+<XML_Serializer_Tag>한스 벤더</XML_Serializer_Tag>
+</variantName>
+<thumbnail>https://commons.wikimedia.org/wiki/Special:FilePath/Eva_Zippel,_097.jpg?width=270</thumbnail>
+<birthEN>July 1, 1919</birthEN>
+<birthDE>1. Juli 1919</birthDE>
+<deathEN>May 28, 2015</deathEN>
+<deathDE>28. Mai 2015</deathDE>
+<birthPlace>
+<XML_Serializer_Tag>Mühlhausen (Rhein-Neckar-Kreis)</XML_Serializer_Tag>
+</birthPlace>
+<deathPlace />
+<professionOrOccupation>
+<XML_Serializer_Tag>Schriftsteller</XML_Serializer_Tag>
+<XML_Serializer_Tag>Lyriker</XML_Serializer_Tag>
+<XML_Serializer_Tag>Herausgeber</XML_Serializer_Tag>
+</professionOrOccupation>
+<dbpResource>http://dbpedia.org/resource/Hans_Bender</dbpResource>
+<abstract>Hans Bender (* 5. Februar 1907 in Freiburg im Breisgau; † 7. Mai 1991 ebenda) war ein deutscher Parapsychologe.</abstract>
+<wikilink>http://en.wikipedia.org/wiki/Hans_Bender?oldid=598608226</wikilink>
+<artworks />
+<buildings />
+<books />
+</Person>

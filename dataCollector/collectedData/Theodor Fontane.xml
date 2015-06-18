@@ -1,0 +1,126 @@
+<Person>
+<name>Theodor Fontane</name>
+<variantName>
+<XML_Serializer_Tag>Teodor Fontane</XML_Serializer_Tag>
+<XML_Serializer_Tag>Theodore Fontane</XML_Serializer_Tag>
+<XML_Serializer_Tag>Henri Théodore Fontane</XML_Serializer_Tag>
+<XML_Serializer_Tag>Lafontaine</XML_Serializer_Tag>
+<XML_Serializer_Tag>Tēodoa Fontāne</XML_Serializer_Tag>
+<XML_Serializer_Tag>Tīyūdūr Fūntāna</XML_Serializer_Tag>
+<XML_Serializer_Tag>Teodōru Fontāne</XML_Serializer_Tag>
+<XML_Serializer_Tag>Th. Fontane</XML_Serializer_Tag>
+<XML_Serializer_Tag>... Fontane-Heyse</XML_Serializer_Tag>
+<XML_Serializer_Tag>Teodors Fontāne</XML_Serializer_Tag>
+<XML_Serializer_Tag>Teodoras Fontanė</XML_Serializer_Tag>
+<XML_Serializer_Tag>Taiaoduoer Fengtana</XML_Serializer_Tag>
+<XML_Serializer_Tag>T̕eodor P̕ontane</XML_Serializer_Tag>
+<XML_Serializer_Tag>테오도어 폰타네</XML_Serializer_Tag>
+<XML_Serializer_Tag>테오도르 폰타네</XML_Serializer_Tag>
+<XML_Serializer_Tag>תיאודור פונטאנה</XML_Serializer_Tag>
+<XML_Serializer_Tag>テオドア フォンターネ</XML_Serializer_Tag>
+<XML_Serializer_Tag>テーオドア フォンターネ</XML_Serializer_Tag>
+<XML_Serializer_Tag>テーオドル フォンターネ</XML_Serializer_Tag>
+<XML_Serializer_Tag>テオドール フォンターネ</XML_Serializer_Tag>
+</variantName>
+<thumbnail>https://commons.wikimedia.org/wiki/Special:FilePath/Fontane1860.jpg?width=270</thumbnail>
+<birthEN>December 30, 1819</birthEN>
+<birthDE>30. Dezember 1819</birthDE>
+<deathEN>September 20, 1898</deathEN>
+<deathDE>20. September 1898</deathDE>
+<birthPlace>
+<XML_Serializer_Tag>Neuruppin</XML_Serializer_Tag>
+</birthPlace>
+<deathPlace>
+<XML_Serializer_Tag>Berlin</XML_Serializer_Tag>
+</deathPlace>
+<professionOrOccupation>
+<XML_Serializer_Tag>Journalist</XML_Serializer_Tag>
+<XML_Serializer_Tag>Kritiker</XML_Serializer_Tag>
+<XML_Serializer_Tag>Theaterkritiker</XML_Serializer_Tag>
+<XML_Serializer_Tag>Kriegsberichterstatter</XML_Serializer_Tag>
+<XML_Serializer_Tag>Apotheker</XML_Serializer_Tag>
+<XML_Serializer_Tag>Schriftsteller</XML_Serializer_Tag>
+</professionOrOccupation>
+<dbpResource>http://dbpedia.org/resource/Theodor_Fontane</dbpResource>
+<abstract>Heinrich Theodor Fontane (* 30. Dezember 1819 in Neuruppin; † 20. September 1898 in Berlin) war ein deutscher Schriftsteller und approbierter Apotheker. Er gilt als bedeutendster deutscher Vertreter des deutschen Realismus.</abstract>
+<wikilink>http://en.wikipedia.org/wiki/Theodor_Fontane?oldid=606148727</wikilink>
+<artworks />
+<buildings />
+<books>
+<XML_Serializer_Tag>
+<book>
+<type>uri</type>
+<value>http://dbpedia.org/resource/Effi_Briest</value>
+</book>
+<author>
+<type>uri</type>
+<value>http://dbpedia.org/resource/Theodor_Fontane</value>
+</author>
+<thumbnail>
+<type>uri</type>
+<value>http://commons.wikimedia.org/wiki/Special:FilePath/Theodor_Fontane_Effi_Briest.jpg?width=300</value>
+</thumbnail>
+<released>
+<type>typed-literal</type>
+<datatype>http://www.w3.org/2001/XMLSchema#integer</datatype>
+<value>1894</value>
+</released>
+<wikilink>
+<type>uri</type>
+<value>http://en.wikipedia.org/wiki/Effi_Briest?oldid=596975115</value>
+</wikilink>
+<abstract>
+<type>literal</type>
+<xml:lang>de</xml:lang>
+<value>Effi Briest ist ein Roman von Theodor Fontane, der von 1894 bis 1895 zunächst als Fortsetzungsroman in der Deutschen Rundschau abgedruckt wurde, bevor er 1896 als Buch erschien. Das Werk gilt als ein Höhe- und Wendepunkt des poetischen Realismus der deutschen Literatur: Höhepunkt, weil der Autor kritische Distanz mit großer schriftstellerischer Eleganz verbindet; Wendepunkt, weil Fontane damit zum bedeutendsten Geburtshelfer des deutschen Gesellschaftsromans wurde, der wenige Jahre später mit Thomas Manns Roman Buddenbrooks erstmals Weltgeltung erlangen sollte. Thomas Mann verdankt Fontanes Stil zahlreiche Anregungen. Auch der Familienname der Buddenbrooks stammt mit hoher Wahrscheinlichkeit aus Effi Briest: In Kapitel 28 wird eine Person namens Buddenbrook erwähnt. Beschrieben wird das Schicksal Effi Briests, die als siebzehnjähriges Mädchen auf Zureden ihrer Mutter den mehr als doppelt so alten Baron von Innstetten heiratet. Dieser behandelt Effi nicht nur wie ein Kind, sondern vernachlässigt sie zugunsten seiner karrierefördernden Dienstreisen. Vereinsamt in dieser Ehe, geht Effi eine flüchtige Liebschaft mit einem Offizier ein. Als Innstetten Jahre später dessen Liebesbriefe entdeckt, ist er außerstande, Effi zu verzeihen. Zwanghaft einem überholten Ehrenkodex verhaftet, tötet er den verflossenen Liebhaber im Duell und lässt sich scheiden. Effi ist fortan gesellschaftlich geächtet und wird sogar von ihren Eltern verstoßen. Erst drei Jahre später sind diese bereit, die inzwischen todkranke Effi wieder aufzunehmen.</value>
+</abstract>
+</XML_Serializer_Tag>
+<XML_Serializer_Tag>
+<book>
+<type>uri</type>
+<value>http://dbpedia.org/resource/Der_Stechlin</value>
+</book>
+<author>
+<type>uri</type>
+<value>http://dbpedia.org/resource/Theodor_Fontane</value>
+</author>
+<thumbnail>
+<type>uri</type>
+<value>http://commons.wikimedia.org/wiki/Special:FilePath/Fontane_der_stechlin_titel.jpg?width=300</value>
+</thumbnail>
+<wikilink>
+<type>uri</type>
+<value>http://en.wikipedia.org/wiki/Der_Stechlin?oldid=544728389</value>
+</wikilink>
+<abstract>
+<type>literal</type>
+<xml:lang>de</xml:lang>
+<value>Der Stechlin ist ein Roman von Theodor Fontane. Er entstand in den Jahren 1895 bis 1897 und wurde erstmals 1897 in der Zeitschrift Über Land und Meer publiziert. Die Buchausgabe erschien 1899. Der Stechlin ist Fontanes letzter großer Roman. Seine Hauptfigur, der alte Dubslav von Stechlin, trägt den gleichen Namen wie der tatsächlich existierende nahegelegene See, der stimmungsvoll in die märkische Landschaft eingebettet ist. Der Roman spielt in der Zeit seiner Niederschrift. Leichthin geführte Unterhaltungen und tiefsinnige Gespräche vermitteln die Melancholie einer Spätzeit, voll Skepsis und doch versöhnlich. Die mit Sympathie gezeichnete Hauptfigur trägt Züge ihres Autors, der im Jahr nach der Veröffentlichung starb.</value>
+</abstract>
+</XML_Serializer_Tag>
+<XML_Serializer_Tag>
+<book>
+<type>uri</type>
+<value>http://dbpedia.org/resource/Irretrievable</value>
+</book>
+<author>
+<type>uri</type>
+<value>http://dbpedia.org/resource/Theodor_Fontane</value>
+</author>
+<released>
+<type>typed-literal</type>
+<datatype>http://www.w3.org/2001/XMLSchema#integer</datatype>
+<value>1892</value>
+</released>
+<wikilink>
+<type>uri</type>
+<value>http://en.wikipedia.org/wiki/Irretrievable?oldid=544569051</value>
+</wikilink>
+<abstract>
+<type>literal</type>
+<xml:lang>de</xml:lang>
+<value>Unwiederbringlich ist der Titel eines Romans von Theodor Fontane.</value>
+</abstract>
+</XML_Serializer_Tag>
+</books>
+</Person>

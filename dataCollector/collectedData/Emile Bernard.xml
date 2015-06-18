@@ -21,12 +21,15 @@
 <XML_Serializer_Tag>Graphiker</XML_Serializer_Tag>
 <XML_Serializer_Tag>Kunstkritiker</XML_Serializer_Tag>
 </professionOrOccupation>
+<dbpResource>http://dbpedia.org/resource/%C3%89mile_Bernard</dbpResource>
+<abstract>Émile Bernard (* 28. April 1868 in Lille; † 16. April 1941 in Paris) war ein französischer Maler, Grafiker, Kunsttheoretiker und Romanautor. Er gehört zu den schillerndsten Figuren am Beginn der modernen Malerei. Als Mitbegründer des Cloisonismus und des Synthetismus war er in den 1880er Jahren an dem Umbruch beteiligt, den die Kunst in der damaligen Zeit erlebte. Seine Schriften und die Korrespondenz mit Vincent van Gogh, Paul Gauguin und Paul Cézanne zählen zu den kunstgeschichtlichen Hauptquellen des ausgehenden 19. Jahrhunderts.</abstract>
+<wikilink>http://en.wikipedia.org/wiki/Émile_Bernard?oldid=598983468</wikilink>
 <artworks>
 <XML_Serializer_Tag>
-<painting>
+<artwork>
 <type>uri</type>
 <value>http://dbpedia.org/resource/Breton_Women_at_a_Wall</value>
-</painting>
+</artwork>
 <thumbnail>
 <type>uri</type>
 <value>http://commons.wikimedia.org/wiki/Special:FilePath/Émile_Bernard_Breton_Women_at_a_Wall.jpg?width=300</value>
@@ -45,9 +48,12 @@
 <type>uri</type>
 <value>http://en.wikipedia.org/wiki/Breton_Women_at_a_Wall?oldid=583868481</value>
 </wikilink>
+<type>
+<type>uri</type>
+<value>http://dbpedia.org/resource/Oil_painting</value>
+</type>
 </XML_Serializer_Tag>
 </artworks>
-<dbpResource>http://dbpedia.org/resource/%C3%89mile_Bernard</dbpResource>
-<abstract>Émile Bernard (* 28. April 1868 in Lille; † 16. April 1941 in Paris) war ein französischer Maler, Grafiker, Kunsttheoretiker und Romanautor. Er gehört zu den schillerndsten Figuren am Beginn der modernen Malerei. Als Mitbegründer des Cloisonismus und des Synthetismus war er in den 1880er Jahren an dem Umbruch beteiligt, den die Kunst in der damaligen Zeit erlebte. Seine Schriften und die Korrespondenz mit Vincent van Gogh, Paul Gauguin und Paul Cézanne zählen zu den kunstgeschichtlichen Hauptquellen des ausgehenden 19. Jahrhunderts.</abstract>
-<wikilink>http://en.wikipedia.org/wiki/Émile_Bernard?oldid=598983468</wikilink>
+<buildings />
+<books />
 </Person>

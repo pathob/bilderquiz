@@ -12,8 +12,10 @@
 <XML_Serializer_Tag>Maler</XML_Serializer_Tag>
 <XML_Serializer_Tag>Graphiker</XML_Serializer_Tag>
 </professionOrOccupation>
-<artworks />
 <dbpResource>http://dbpedia.org/resource/Alexander_Kanoldt</dbpResource>
 <abstract>Alexander Kanoldt (* 29. September 1881 in Karlsruhe; † 24. Januar 1939 in Berlin) war ein deutscher Maler und Professor an der Kunstakademie in Berlin.</abstract>
 <wikilink>http://en.wikipedia.org/wiki/Alexander_Kanoldt?oldid=563327413</wikilink>
+<artworks />
+<buildings />
+<books />
 </Person>

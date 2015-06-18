@@ -1,0 +1,38 @@
+<Person>
+<name>Donato Bramante</name>
+<variantName>
+<XML_Serializer_Tag>Donato dÁgnolo Bramante</XML_Serializer_Tag>
+<XML_Serializer_Tag>Donato d&apos; Angelo</XML_Serializer_Tag>
+<XML_Serializer_Tag>Donato Lazari</XML_Serializer_Tag>
+<XML_Serializer_Tag>Donato Lazzari</XML_Serializer_Tag>
+<XML_Serializer_Tag>Donnino Bramante</XML_Serializer_Tag>
+<XML_Serializer_Tag>Donino Bramante</XML_Serializer_Tag>
+<XML_Serializer_Tag>Donato, di Angelodi Antonio di Renzo</XML_Serializer_Tag>
+<XML_Serializer_Tag>Donato, di Pasuccio d&apos;Antonio</XML_Serializer_Tag>
+<XML_Serializer_Tag>Donato, da Urbino</XML_Serializer_Tag>
+<XML_Serializer_Tag>... Lazzari</XML_Serializer_Tag>
+<XML_Serializer_Tag>Donato D&apos;Angelo</XML_Serializer_Tag>
+<XML_Serializer_Tag>Donato d&apos; Angeli Lazzari</XML_Serializer_Tag>
+<XML_Serializer_Tag>Donato D&apos;Angeli Lazzari</XML_Serializer_Tag>
+<XML_Serializer_Tag>Donato Bramante da Urbino</XML_Serializer_Tag>
+<XML_Serializer_Tag>Donato Da Urbino Bramante</XML_Serializer_Tag>
+<XML_Serializer_Tag>Bramante</XML_Serializer_Tag>
+<XML_Serializer_Tag>Bramante, da Fermignano</XML_Serializer_Tag>
+</variantName>
+<thumbnail>https://de.wikipedia.org/wiki/Special:FilePath/Bramante_bei_raffael.jpg?width=270</thumbnail>
+<birthEN>1444</birthEN>
+<birthDE>1444</birthDE>
+<deathEN>1514</deathEN>
+<deathDE>1514</deathDE>
+<birthPlace />
+<deathPlace />
+<professionOrOccupation>
+<XML_Serializer_Tag>Architekt</XML_Serializer_Tag>
+</professionOrOccupation>
+<dbpResource>http://dbpedia.org/resource/Donato_Bramante</dbpResource>
+<abstract>Bramante (Donato Bramante), eigentlich Donato di Pascuccio d’Antonio (* 1444 in Fermignano; † 11. März 1514 in Rom), war ein italienischer Baumeister und Begründer der Hochrenaissance-Architektur. Von dem Vater seiner Mutter erhielt er den Beinamen Bramante, was „Der heftig Begehrende“ bedeutet (Ital. bramare = begehren).</abstract>
+<wikilink>http://en.wikipedia.org/wiki/Donato_Bramante?oldid=606354093</wikilink>
+<artworks />
+<buildings />
+<books />
+</Person>

@@ -1,0 +1,73 @@
+<Person>
+<name>J. K. Rowling</name>
+<variantName>
+<XML_Serializer_Tag>Joanne Kathleen Rowling</XML_Serializer_Tag>
+<XML_Serializer_Tag>Joanne K. Rowling</XML_Serializer_Tag>
+<XML_Serializer_Tag>Joanne Rowling</XML_Serializer_Tag>
+<XML_Serializer_Tag>Joane K. Rowling</XML_Serializer_Tag>
+<XML_Serializer_Tag>Luolin</XML_Serializer_Tag>
+<XML_Serializer_Tag>Je. Ke. Rauling</XML_Serializer_Tag>
+<XML_Serializer_Tag>Je. Ke. Roliṅga</XML_Serializer_Tag>
+<XML_Serializer_Tag>J. K. Rollin</XML_Serializer_Tag>
+</variantName>
+<thumbnail>https://commons.wikimedia.org/wiki/Special:FilePath/J._K._Rowling_2010.jpg?width=270</thumbnail>
+<birthEN>1965</birthEN>
+<birthDE>1965</birthDE>
+<deathEN />
+<deathDE />
+<birthPlace />
+<deathPlace />
+<professionOrOccupation>
+<XML_Serializer_Tag>Schriftstellerin</XML_Serializer_Tag>
+<XML_Serializer_Tag>Lehrerin</XML_Serializer_Tag>
+</professionOrOccupation>
+<dbpResource>http://dbpedia.org/resource/J._K._Rowling</dbpResource>
+<abstract>Joanne K. Rowling [ˌd͡ʒəʊˈæn ˈkeɪ ˈrəʊlɪŋ] (* 31. Juli 1965 in Yate, South Gloucestershire, England; eigentlich Joanne Rowling), Pseudonym Robert Galbraith, ist eine britische Schriftstellerin, die mit einer Reihe von Romanen um den Zauberschüler Harry Potter berühmt wurde. Die Mittelinitiale „K“ fügte Rowling selbst hinzu. Sie steht für „Kathleen“, den Vornamen ihrer Großmutter.Rowling ist unter den Schriftstellern der Weltgeschichte die erste, die mit ihren Werken eine Milliarde US-Dollar verdiente.</abstract>
+<wikilink>http://en.wikipedia.org/wiki/J._K._Rowling?oldid=606301426</wikilink>
+<artworks />
+<buildings />
+<books>
+<XML_Serializer_Tag>
+<book>
+<type>uri</type>
+<value>http://dbpedia.org/resource/The_Casual_Vacancy</value>
+</book>
+<author>
+<type>uri</type>
+<value>http://dbpedia.org/resource/J._K._Rowling</value>
+</author>
+<thumbnail>
+<type>uri</type>
+<value>http://commons.wikimedia.org/wiki/Special:FilePath/Yate.church.view.arp.jpg?width=300</value>
+</thumbnail>
+<wikilink>
+<type>uri</type>
+<value>http://en.wikipedia.org/wiki/The_Casual_Vacancy?oldid=605558117</value>
+</wikilink>
+<abstract>
+<type>literal</type>
+<xml:lang>de</xml:lang>
+<value>Ein plötzlicher Todesfall (Originaltitel: The Casual Vacancy) ist ein Roman von Joanne K. Rowling, der am 27. September 2012 im Carlsen-Verlag erschien.</value>
+</abstract>
+</XML_Serializer_Tag>
+<XML_Serializer_Tag>
+<book>
+<type>uri</type>
+<value>http://dbpedia.org/resource/The_Cuckoo&apos;s_Calling</value>
+</book>
+<author>
+<type>uri</type>
+<value>http://dbpedia.org/resource/J._K._Rowling</value>
+</author>
+<wikilink>
+<type>uri</type>
+<value>http://en.wikipedia.org/wiki/The_Cuckoo&apos;s_Calling?oldid=605726902</value>
+</wikilink>
+<abstract>
+<type>literal</type>
+<xml:lang>de</xml:lang>
+<value>Der Ruf des Kuckucks (Originaltitel: The Cuckoo&apos;s Calling) ist ein Roman von Joanne K. Rowling, der am 30. April 2013 unter ihrem Pseudonym Robert Galbraith erschienen ist.</value>
+</abstract>
+</XML_Serializer_Tag>
+</books>
+</Person>

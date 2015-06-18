@@ -12,8 +12,10 @@
 <XML_Serializer_Tag>Maler</XML_Serializer_Tag>
 <XML_Serializer_Tag>Radierer</XML_Serializer_Tag>
 </professionOrOccupation>
-<artworks />
 <dbpResource>http://dbpedia.org/resource/Alphonse_Legros</dbpResource>
 <abstract>Alphonse Legros (* 8. Mai 1837 in Dijon; † 7. Dezember 1911 in Watford, Hertfordshire) war ein britischer Maler und Radierer des Realismus und Medailleur mit französischen Wurzeln.</abstract>
 <wikilink>http://en.wikipedia.org/wiki/Alphonse_Legros?oldid=605342119</wikilink>
+<artworks />
+<buildings />
+<books />
 </Person>

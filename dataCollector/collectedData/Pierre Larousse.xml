@@ -1,0 +1,30 @@
+<Person>
+<name>Pierre Larousse</name>
+<variantName>
+<XML_Serializer_Tag>P. Larousse</XML_Serializer_Tag>
+<XML_Serializer_Tag>Pierre Athanase Larousse</XML_Serializer_Tag>
+</variantName>
+<thumbnail>https://commons.wikimedia.org/wiki/Special:FilePath/Pierre_Larousse.jpg?width=270</thumbnail>
+<birthEN>October 23, 1817</birthEN>
+<birthDE>23. Oktober 1817</birthDE>
+<deathEN>January 3, 1875</deathEN>
+<deathDE>3. Januar 1875</deathDE>
+<birthPlace>
+<XML_Serializer_Tag>Toucy</XML_Serializer_Tag>
+</birthPlace>
+<deathPlace>
+<XML_Serializer_Tag>Paris</XML_Serializer_Tag>
+</deathPlace>
+<professionOrOccupation>
+<XML_Serializer_Tag>Schriftsteller</XML_Serializer_Tag>
+<XML_Serializer_Tag>Grammatiker</XML_Serializer_Tag>
+<XML_Serializer_Tag>Lexikograph</XML_Serializer_Tag>
+<XML_Serializer_Tag>Verleger</XML_Serializer_Tag>
+</professionOrOccupation>
+<dbpResource>http://dbpedia.org/resource/Pierre_Larousse</dbpResource>
+<abstract>Pierre Athanase Larousse (* 23. Oktober 1817 in Toucy, Yonne; † 3. Januar 1875 in Paris) war ein französischer pädagogischer Schriftsteller, Lexikograph und Enzyklopädist.</abstract>
+<wikilink>http://en.wikipedia.org/wiki/Pierre_Larousse?oldid=606607303</wikilink>
+<artworks />
+<buildings />
+<books />
+</Person>

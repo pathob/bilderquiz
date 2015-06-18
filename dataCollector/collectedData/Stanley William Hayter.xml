@@ -17,8 +17,10 @@
 <XML_Serializer_Tag>Maler</XML_Serializer_Tag>
 <XML_Serializer_Tag>Schriftsteller</XML_Serializer_Tag>
 </professionOrOccupation>
-<artworks />
 <dbpResource>http://dbpedia.org/resource/Stanley_William_Hayter</dbpResource>
 <abstract>Stanley William Hayter (* 27. Dezember 1901 in London; † 4. Mai 1988 in Paris) war ein britischer Maler, Radierer und Grafiker. Er gründete das Atelier 17 in Paris.</abstract>
 <wikilink>http://en.wikipedia.org/wiki/Stanley_William_Hayter?oldid=604317789</wikilink>
+<artworks />
+<buildings />
+<books />
 </Person>

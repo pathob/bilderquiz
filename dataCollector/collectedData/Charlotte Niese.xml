@@ -1,0 +1,27 @@
+<Person>
+<name>Charlotte Niese</name>
+<variantName>
+<XML_Serializer_Tag>Lucian Bürger</XML_Serializer_Tag>
+</variantName>
+<thumbnail>https://de.wikipedia.org/wiki/Special:FilePath/Charlotte_Niese.jpg?width=270</thumbnail>
+<birthEN>June 7, 1851</birthEN>
+<birthDE>7. Juni 1851</birthDE>
+<deathEN>December 8, 1935</deathEN>
+<deathDE>8. Dezember 1935</deathDE>
+<birthPlace>
+<XML_Serializer_Tag>Burg auf Fehmarn</XML_Serializer_Tag>
+</birthPlace>
+<deathPlace>
+<XML_Serializer_Tag>Altona</XML_Serializer_Tag>
+</deathPlace>
+<professionOrOccupation>
+<XML_Serializer_Tag>Schriftstellerin</XML_Serializer_Tag>
+<XML_Serializer_Tag>Lehrerin</XML_Serializer_Tag>
+</professionOrOccupation>
+<dbpResource>http://dbpedia.org/resource/Charlotte_Niese</dbpResource>
+<abstract>Charlotte Niese (* 7. Juni 1854 in Burg auf Fehmarn, Holstein; † 8. Dezember 1935 in Altona/Elbe) war eine deutsche Schriftstellerin, Heimatdichterin und Lehrerin.</abstract>
+<wikilink>http://en.wikipedia.org/wiki/Charlotte_Niese?oldid=592867563</wikilink>
+<artworks />
+<buildings />
+<books />
+</Person>

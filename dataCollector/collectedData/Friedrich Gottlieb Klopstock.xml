@@ -1,0 +1,46 @@
+<Person>
+<name>Friedrich Gottlieb Klopstock</name>
+<variantName>
+<XML_Serializer_Tag>Friedrich G. Kloppstokk</XML_Serializer_Tag>
+<XML_Serializer_Tag>Fr. Gottl. Klopstock</XML_Serializer_Tag>
+<XML_Serializer_Tag>Fridrich Gotlib Klopštok</XML_Serializer_Tag>
+<XML_Serializer_Tag>F. G. Klopstock</XML_Serializer_Tag>
+<XML_Serializer_Tag>... Klopstock</XML_Serializer_Tag>
+<XML_Serializer_Tag>G. F. Klopstock</XML_Serializer_Tag>
+<XML_Serializer_Tag>Friedrich G. Klopstock</XML_Serializer_Tag>
+<XML_Serializer_Tag>Friedrich G. Klopstok</XML_Serializer_Tag>
+<XML_Serializer_Tag>Frederick Klopstock</XML_Serializer_Tag>
+<XML_Serializer_Tag>Gottlieb Friedrich Klopstock</XML_Serializer_Tag>
+<XML_Serializer_Tag>Gottlieb Friederich Klopstock</XML_Serializer_Tag>
+<XML_Serializer_Tag>... Klopstok</XML_Serializer_Tag>
+<XML_Serializer_Tag>Friedrich Gottlieb Klopstok</XML_Serializer_Tag>
+<XML_Serializer_Tag>Frédéric-Théophile Klopstock</XML_Serializer_Tag>
+<XML_Serializer_Tag>Federico A. Klopstock</XML_Serializer_Tag>
+<XML_Serializer_Tag>Friedrich Gottlob Klopstock</XML_Serializer_Tag>
+</variantName>
+<thumbnail>https://commons.wikimedia.org/wiki/Special:FilePath/Klopstock_(Juel).jpg?width=270</thumbnail>
+<birthEN>July 2, 1724</birthEN>
+<birthDE>2. Juli 1724</birthDE>
+<deathEN>March 4, 1803</deathEN>
+<deathDE>4. März 1803</deathDE>
+<birthPlace>
+<XML_Serializer_Tag>Quedlinburg</XML_Serializer_Tag>
+</birthPlace>
+<deathPlace>
+<XML_Serializer_Tag>Hamburg</XML_Serializer_Tag>
+</deathPlace>
+<professionOrOccupation>
+<XML_Serializer_Tag>Schriftsteller</XML_Serializer_Tag>
+<XML_Serializer_Tag>Schriftsteller</XML_Serializer_Tag>
+<XML_Serializer_Tag>Dramatiker</XML_Serializer_Tag>
+<XML_Serializer_Tag>Lyriker</XML_Serializer_Tag>
+<XML_Serializer_Tag>Literaturtheoretiker</XML_Serializer_Tag>
+<XML_Serializer_Tag>Privatlehrer</XML_Serializer_Tag>
+</professionOrOccupation>
+<dbpResource>http://dbpedia.org/resource/Friedrich_Gottlieb_Klopstock</dbpResource>
+<abstract>Friedrich Gottlieb Klopstock (* 2. Juli 1724 in Quedlinburg; † 14. März 1803 in Hamburg) war ein deutscher Dichter. Er gilt als wichtiger Vertreter der Empfindsamkeit.</abstract>
+<wikilink>http://en.wikipedia.org/wiki/Friedrich_Gottlieb_Klopstock?oldid=600456768</wikilink>
+<artworks />
+<buildings />
+<books />
+</Person>

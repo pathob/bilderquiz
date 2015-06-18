@@ -19,12 +19,15 @@
 <professionOrOccupation>
 <XML_Serializer_Tag>Maler</XML_Serializer_Tag>
 </professionOrOccupation>
+<dbpResource>http://dbpedia.org/resource/Henri_Rousseau</dbpResource>
+<abstract>Henri Julien Félix Rousseau, genannt „Le Douanier“ (* 21. Mai 1844 in Laval (Mayenne); † 2. September 1910 in Paris) war ein autodidaktischer französischer Maler, dessen Stil dem Postimpressionismus und der Naiven Kunst zugeordnet wird. Er gilt als einer der Wegbereiter des Surrealismus.</abstract>
+<wikilink>http://en.wikipedia.org/wiki/Henri_Rousseau?oldid=606642982</wikilink>
 <artworks>
 <XML_Serializer_Tag>
-<painting>
+<artwork>
 <type>uri</type>
 <value>http://dbpedia.org/resource/Post-Impressionism</value>
-</painting>
+</artwork>
 <thumbnail>
 <type>uri</type>
 <value>http://commons.wikimedia.org/wiki/Special:FilePath/Henri_Rousseau_007.jpg?width=300</value>
@@ -48,12 +51,17 @@
 <type>uri</type>
 <value>http://en.wikipedia.org/wiki/Post-Impressionism?oldid=603742876</value>
 </wikilink>
+<type>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>Oil on canvas</value>
+</type>
 </XML_Serializer_Tag>
 <XML_Serializer_Tag>
-<painting>
+<artwork>
 <type>uri</type>
 <value>http://dbpedia.org/resource/The_Sleeping_Gypsy</value>
-</painting>
+</artwork>
 <thumbnail>
 <type>uri</type>
 <value>http://commons.wikimedia.org/wiki/Special:FilePath/Henri_Rousseau_010.jpg?width=300</value>
@@ -72,12 +80,17 @@
 <type>uri</type>
 <value>http://en.wikipedia.org/wiki/The_Sleeping_Gypsy?oldid=598735230</value>
 </wikilink>
+<type>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>oil on canvas</value>
+</type>
 </XML_Serializer_Tag>
 <XML_Serializer_Tag>
-<painting>
+<artwork>
 <type>uri</type>
 <value>http://dbpedia.org/resource/The_Hungry_Lion_Throws_Itself_on_the_Antelope</value>
-</painting>
+</artwork>
 <thumbnail>
 <type>uri</type>
 <value>http://commons.wikimedia.org/wiki/Special:FilePath/Rousseau-Hungry-Lion.jpg?width=300</value>
@@ -96,12 +109,17 @@
 <type>uri</type>
 <value>http://en.wikipedia.org/wiki/The_Hungry_Lion_Throws_Itself_on_the_Antelope?oldid=605359182</value>
 </wikilink>
+<type>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>Oil on canvas</value>
+</type>
 </XML_Serializer_Tag>
 <XML_Serializer_Tag>
-<painting>
+<artwork>
 <type>uri</type>
 <value>http://dbpedia.org/resource/The_Dream_(Rousseau_painting)</value>
-</painting>
+</artwork>
 <thumbnail>
 <type>uri</type>
 <value>http://commons.wikimedia.org/wiki/Special:FilePath/Henri_Rousseau_-_Il_sogno.jpg?width=300</value>
@@ -120,12 +138,16 @@
 <type>uri</type>
 <value>http://en.wikipedia.org/wiki/The_Dream_(Rousseau_painting)?oldid=585967733</value>
 </wikilink>
+<type>
+<type>uri</type>
+<value>http://dbpedia.org/resource/Oil_painting</value>
+</type>
 </XML_Serializer_Tag>
 <XML_Serializer_Tag>
-<painting>
+<artwork>
 <type>uri</type>
 <value>http://dbpedia.org/resource/Tiger_in_a_Tropical_Storm</value>
-</painting>
+</artwork>
 <thumbnail>
 <type>uri</type>
 <value>http://en.wikipedia.org/wiki/Special:FilePath/Surprised-Rousseau.jpg?width=300</value>
@@ -144,9 +166,13 @@
 <type>uri</type>
 <value>http://en.wikipedia.org/wiki/Tiger_in_a_Tropical_Storm?oldid=605146599</value>
 </wikilink>
+<type>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>Oil on canvas</value>
+</type>
 </XML_Serializer_Tag>
 </artworks>
-<dbpResource>http://dbpedia.org/resource/Henri_Rousseau</dbpResource>
-<abstract>Henri Julien Félix Rousseau, genannt „Le Douanier“ (* 21. Mai 1844 in Laval (Mayenne); † 2. September 1910 in Paris) war ein autodidaktischer französischer Maler, dessen Stil dem Postimpressionismus und der Naiven Kunst zugeordnet wird. Er gilt als einer der Wegbereiter des Surrealismus.</abstract>
-<wikilink>http://en.wikipedia.org/wiki/Henri_Rousseau?oldid=606642982</wikilink>
+<buildings />
+<books />
 </Person>

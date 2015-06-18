@@ -1,0 +1,27 @@
+<Person>
+<name>Rainald Goetz</name>
+<variantName>
+<XML_Serializer_Tag>Rainald M. Goetz</XML_Serializer_Tag>
+<XML_Serializer_Tag>Rainald Maria Goetz</XML_Serializer_Tag>
+<XML_Serializer_Tag>ライナルト・ゲッツ</XML_Serializer_Tag>
+<XML_Serializer_Tag>ライナルト ゲッツ</XML_Serializer_Tag>
+</variantName>
+<thumbnail>https://commons.wikimedia.org/wiki/Special:FilePath/Rainald_Goetz.jpg?width=270</thumbnail>
+<birthEN>1954</birthEN>
+<birthDE>1954</birthDE>
+<deathEN />
+<deathDE />
+<birthPlace />
+<deathPlace />
+<professionOrOccupation>
+<XML_Serializer_Tag>Schriftsteller</XML_Serializer_Tag>
+<XML_Serializer_Tag>Kinderpsychologe</XML_Serializer_Tag>
+<XML_Serializer_Tag>Historiker</XML_Serializer_Tag>
+</professionOrOccupation>
+<dbpResource>http://dbpedia.org/resource/Rainald_Goetz</dbpResource>
+<abstract>Rainald Maria Goetz (* 24. Mai 1954 in München) ist ein deutscher Schriftsteller.</abstract>
+<wikilink>http://en.wikipedia.org/wiki/Rainald_Goetz?oldid=603224077</wikilink>
+<artworks />
+<buildings />
+<books />
+</Person>

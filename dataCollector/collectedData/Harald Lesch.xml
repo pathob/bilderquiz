@@ -1,0 +1,33 @@
+<Person>
+<name>Harald Lesch</name>
+<variantName>
+<XML_Serializer_Tag>H. Lesch</XML_Serializer_Tag>
+<XML_Serializer_Tag>Ha lal teu Le swi</XML_Serializer_Tag>
+<XML_Serializer_Tag>Halalteu-Leswi</XML_Serializer_Tag>
+<XML_Serializer_Tag>Halalteu Leswi</XML_Serializer_Tag>
+<XML_Serializer_Tag>Haralt&apos;ŭ Reswi</XML_Serializer_Tag>
+</variantName>
+<thumbnail>https://commons.wikimedia.org/wiki/Special:FilePath/Harald_Lesch_Hannover_1.jpg?width=270</thumbnail>
+<birthEN>1960</birthEN>
+<birthDE>1960</birthDE>
+<deathEN />
+<deathDE />
+<birthPlace>
+<XML_Serializer_Tag>Gießen</XML_Serializer_Tag>
+</birthPlace>
+<deathPlace />
+<professionOrOccupation>
+<XML_Serializer_Tag>Astrophysiker</XML_Serializer_Tag>
+<XML_Serializer_Tag>Physiker</XML_Serializer_Tag>
+<XML_Serializer_Tag>Sachbuchautor</XML_Serializer_Tag>
+<XML_Serializer_Tag>Moderator</XML_Serializer_Tag>
+<XML_Serializer_Tag>Hochschullehrer</XML_Serializer_Tag>
+<XML_Serializer_Tag>Philosoph</XML_Serializer_Tag>
+</professionOrOccupation>
+<dbpResource>http://dbpedia.org/resource/Harald_Lesch</dbpResource>
+<abstract>Harald Lesch (* 28. Juli 1960 in Gießen) ist ein deutscher Astrophysiker, Naturphilosoph, Wissenschaftsjournalist, Fernsehmoderator und Professor für Physik an der LMU München und für Naturphilosophie an der Hochschule für Philosophie München.</abstract>
+<wikilink>http://en.wikipedia.org/wiki/Harald_Lesch?oldid=603227238</wikilink>
+<artworks />
+<buildings />
+<books />
+</Person>

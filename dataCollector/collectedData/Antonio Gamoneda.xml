@@ -1,0 +1,26 @@
+<Person>
+<name>Antonio Gamoneda</name>
+<variantName>
+<XML_Serializer_Tag>Antonio Gamoneda Lobón</XML_Serializer_Tag>
+<XML_Serializer_Tag>Antonio Gamoneda Lobón</XML_Serializer_Tag>
+</variantName>
+<thumbnail>https://commons.wikimedia.org/wiki/Special:FilePath/Antonio_Gamoneda.jpg?width=270</thumbnail>
+<birthEN>1931</birthEN>
+<birthDE>1931</birthDE>
+<deathEN />
+<deathDE />
+<birthPlace>
+<XML_Serializer_Tag>Oviedo</XML_Serializer_Tag>
+</birthPlace>
+<deathPlace />
+<professionOrOccupation>
+<XML_Serializer_Tag>Schriftsteller</XML_Serializer_Tag>
+<XML_Serializer_Tag>Lyriker</XML_Serializer_Tag>
+</professionOrOccupation>
+<dbpResource>http://dbpedia.org/resource/Antonio_Gamoneda</dbpResource>
+<abstract>Antonio Gamoneda (* 30. Mai 1931 in Oviedo, Asturien, Spanien) ist ein spanischer Dichter.</abstract>
+<wikilink>http://en.wikipedia.org/wiki/Antonio_Gamoneda?oldid=592861476</wikilink>
+<artworks />
+<buildings />
+<books />
+</Person>

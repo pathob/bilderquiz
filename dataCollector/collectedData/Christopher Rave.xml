@@ -17,8 +17,10 @@
 <XML_Serializer_Tag>Polarforscher</XML_Serializer_Tag>
 <XML_Serializer_Tag>Naturwissenschaftler</XML_Serializer_Tag>
 </professionOrOccupation>
-<artworks />
 <dbpResource>http://dbpedia.org/resource/Christopher_Rave</dbpResource>
 <abstract>Christopher Rave (* 20. Februar 1881 in Hamburg; † 13. Januar 1933 ebenda) war ein deutscher Maler und Polarforscher sowie Professor.</abstract>
 <wikilink>http://en.wikipedia.org/wiki/Christopher_Rave?oldid=590337940</wikilink>
+<artworks />
+<buildings />
+<books />
 </Person>

@@ -18,8 +18,10 @@
 <professionOrOccupation>
 <XML_Serializer_Tag>Maler</XML_Serializer_Tag>
 </professionOrOccupation>
-<artworks />
 <dbpResource>http://dbpedia.org/resource/Emil_Jakob_Schindler</dbpResource>
 <abstract>Emil Jakob Schindler (* 27. April 1842 in Wien; † 9. August 1892 in Westerland/Sylt) war ein österreichischer Landschaftsmaler.</abstract>
 <wikilink>http://en.wikipedia.org/wiki/Emil_Jakob_Schindler?oldid=574321198</wikilink>
+<artworks />
+<buildings />
+<books />
 </Person>

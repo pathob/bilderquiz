@@ -1,0 +1,60 @@
+<Person>
+<name>Shaun Tan</name>
+<variantName>
+<XML_Serializer_Tag>Shaun Tan</XML_Serializer_Tag>
+</variantName>
+<thumbnail>https://commons.wikimedia.org/wiki/Special:FilePath/Shaun_Tan,_2007_cropped.jpg?width=270</thumbnail>
+<birthEN>1974</birthEN>
+<birthDE>1974</birthDE>
+<deathEN />
+<deathDE />
+<birthPlace>
+<XML_Serializer_Tag>Perth (Westaustralien)</XML_Serializer_Tag>
+</birthPlace>
+<deathPlace />
+<professionOrOccupation>
+<XML_Serializer_Tag>Schriftsteller</XML_Serializer_Tag>
+<XML_Serializer_Tag>Künstler</XML_Serializer_Tag>
+<XML_Serializer_Tag>Illustrator</XML_Serializer_Tag>
+</professionOrOccupation>
+<dbpResource>http://dbpedia.org/resource/Shaun_Tan</dbpResource>
+<abstract>Shaun Tan (* 1974 in Fremantle, Western Australia) ist ein australischer Schriftsteller und Illustrator.</abstract>
+<wikilink>http://en.wikipedia.org/wiki/Shaun_Tan?oldid=606185242</wikilink>
+<artworks />
+<buildings />
+<books>
+<XML_Serializer_Tag>
+<book>
+<type>uri</type>
+<value>http://dbpedia.org/resource/The_Lost_Thing</value>
+</book>
+<author>
+<type>uri</type>
+<value>http://dbpedia.org/resource/Shaun_Tan</value>
+</author>
+<released>
+<type>typed-literal</type>
+<datatype>http://www.w3.org/2001/XMLSchema#integer</datatype>
+<value>2000</value>
+</released>
+<wikilink>
+<type>uri</type>
+<value>http://en.wikipedia.org/wiki/The_Lost_Thing?oldid=601205491</value>
+</wikilink>
+</XML_Serializer_Tag>
+<XML_Serializer_Tag>
+<book>
+<type>uri</type>
+<value>http://dbpedia.org/resource/The_Red_Tree_(Shaun_Tan)</value>
+</book>
+<author>
+<type>uri</type>
+<value>http://dbpedia.org/resource/Shaun_Tan</value>
+</author>
+<wikilink>
+<type>uri</type>
+<value>http://en.wikipedia.org/wiki/The_Red_Tree_(Shaun_Tan)?oldid=550823700</value>
+</wikilink>
+</XML_Serializer_Tag>
+</books>
+</Person>

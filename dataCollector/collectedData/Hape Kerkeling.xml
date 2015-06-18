@@ -1,0 +1,37 @@
+<Person>
+<name>Hape Kerkeling</name>
+<variantName>
+<XML_Serializer_Tag>Hans Peter Kerkeling</XML_Serializer_Tag>
+<XML_Serializer_Tag>Hans P. Kerkeling</XML_Serializer_Tag>
+<XML_Serializer_Tag>Horst Schlämmer</XML_Serializer_Tag>
+<XML_Serializer_Tag>Hans-Peter Wilhelm Kerkeling</XML_Serializer_Tag>
+<XML_Serializer_Tag>Hans Peter Wilhelm Kerkeling</XML_Serializer_Tag>
+<XML_Serializer_Tag>Ha pei Ke ke lin</XML_Serializer_Tag>
+<XML_Serializer_Tag>Hapei-Kekelin</XML_Serializer_Tag>
+<XML_Serializer_Tag>Hapei Kekelin</XML_Serializer_Tag>
+</variantName>
+<thumbnail>https://commons.wikimedia.org/wiki/Special:FilePath/Hape_Kerkeling1.jpg?width=270</thumbnail>
+<birthEN>1964</birthEN>
+<birthDE>1964</birthDE>
+<deathEN />
+<deathDE />
+<birthPlace>
+<XML_Serializer_Tag>Recklinghausen</XML_Serializer_Tag>
+</birthPlace>
+<deathPlace />
+<professionOrOccupation>
+<XML_Serializer_Tag>Komiker</XML_Serializer_Tag>
+<XML_Serializer_Tag>Entertainer</XML_Serializer_Tag>
+<XML_Serializer_Tag>Autor</XML_Serializer_Tag>
+<XML_Serializer_Tag>Sänger</XML_Serializer_Tag>
+<XML_Serializer_Tag>Schauspieler</XML_Serializer_Tag>
+<XML_Serializer_Tag>Regisseur</XML_Serializer_Tag>
+<XML_Serializer_Tag>Liederdichter</XML_Serializer_Tag>
+</professionOrOccupation>
+<dbpResource>http://dbpedia.org/resource/Hape_Kerkeling</dbpResource>
+<abstract>Hape Kerkeling (* 9. Dezember 1964 in Recklinghausen; eigentlich Hans-Peter Wilhelm Kerkeling) ist ein deutscher Komiker, Autor, Moderator, Schauspieler, Sänger und Synchronsprecher.</abstract>
+<wikilink>http://en.wikipedia.org/wiki/Hape_Kerkeling?oldid=589371476</wikilink>
+<artworks />
+<buildings />
+<books />
+</Person>

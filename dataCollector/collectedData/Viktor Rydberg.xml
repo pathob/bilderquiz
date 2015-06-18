@@ -1,0 +1,51 @@
+<Person>
+<name>Viktor Rydberg</name>
+<variantName>
+<XML_Serializer_Tag>Abraham Viktor Rydberg</XML_Serializer_Tag>
+<XML_Serializer_Tag>Victor Rydberg</XML_Serializer_Tag>
+<XML_Serializer_Tag>Vikt. Rydberg</XML_Serializer_Tag>
+<XML_Serializer_Tag>V. Rydberg</XML_Serializer_Tag>
+</variantName>
+<thumbnail>https://commons.wikimedia.org/wiki/Special:FilePath/Viktor_Rydberg_1880.jpg?width=270</thumbnail>
+<birthEN>December 18, 1828</birthEN>
+<birthDE>18. Dezember 1828</birthDE>
+<deathEN>September 21, 1895</deathEN>
+<deathDE>21. September 1895</deathDE>
+<birthPlace>
+<XML_Serializer_Tag>Jönköping</XML_Serializer_Tag>
+</birthPlace>
+<deathPlace>
+<XML_Serializer_Tag>Djursholm</XML_Serializer_Tag>
+</deathPlace>
+<professionOrOccupation>
+<XML_Serializer_Tag>Schriftsteller</XML_Serializer_Tag>
+<XML_Serializer_Tag>Lyriker</XML_Serializer_Tag>
+<XML_Serializer_Tag>Historiker</XML_Serializer_Tag>
+</professionOrOccupation>
+<dbpResource>http://dbpedia.org/resource/Viktor_Rydberg</dbpResource>
+<abstract>Abraham Viktor Rydberg (* 18. Dezember 1828 in Jönköping; † 21. September 1895 in Djursholm) war ein schwedischer Schriftsteller, Dichter und Kulturhistoriker.</abstract>
+<wikilink>http://en.wikipedia.org/wiki/Viktor_Rydberg?oldid=588890099</wikilink>
+<artworks />
+<buildings />
+<books>
+<XML_Serializer_Tag>
+<book>
+<type>uri</type>
+<value>http://dbpedia.org/resource/Investigations_into_Germanic_Mythology</value>
+</book>
+<author>
+<type>uri</type>
+<value>http://dbpedia.org/resource/Viktor_Rydberg</value>
+</author>
+<released>
+<type>typed-literal</type>
+<datatype>http://www.w3.org/2001/XMLSchema#integer</datatype>
+<value>18861889</value>
+</released>
+<wikilink>
+<type>uri</type>
+<value>http://en.wikipedia.org/wiki/Investigations_into_Germanic_Mythology?oldid=503360347</value>
+</wikilink>
+</XML_Serializer_Tag>
+</books>
+</Person>

@@ -1,0 +1,35 @@
+<Person>
+<name>Werner Sombart</name>
+<variantName>
+<XML_Serializer_Tag>Werner Friedrich Wilhelm Carl Sombart</XML_Serializer_Tag>
+<XML_Serializer_Tag>Вернер Зомбарт</XML_Serializer_Tag>
+<XML_Serializer_Tag>V. Zombart</XML_Serializer_Tag>
+<XML_Serializer_Tag>Verner Zombart</XML_Serializer_Tag>
+<XML_Serializer_Tag>Wei er na Sang ba te</XML_Serializer_Tag>
+<XML_Serializer_Tag>Weierna-Sangbate</XML_Serializer_Tag>
+<XML_Serializer_Tag>Weierna Sangbate</XML_Serializer_Tag>
+</variantName>
+<thumbnail>https://commons.wikimedia.org/wiki/Special:FilePath/Nicola_Perscheid_-_Werner_Sombart_vor_1930.jpg?width=270</thumbnail>
+<birthEN>January 19, 1863</birthEN>
+<birthDE>19. Januar 1863</birthDE>
+<deathEN>May 18, 1941</deathEN>
+<deathDE>18. Mai 1941</deathDE>
+<birthPlace>
+<XML_Serializer_Tag>Falkenstein-Ermsleben</XML_Serializer_Tag>
+</birthPlace>
+<deathPlace>
+<XML_Serializer_Tag>Berlin</XML_Serializer_Tag>
+</deathPlace>
+<professionOrOccupation>
+<XML_Serializer_Tag>Hochschullehrer</XML_Serializer_Tag>
+<XML_Serializer_Tag>Wirtschaftswissenschaftler</XML_Serializer_Tag>
+<XML_Serializer_Tag>Soziologe</XML_Serializer_Tag>
+<XML_Serializer_Tag>Autor</XML_Serializer_Tag>
+</professionOrOccupation>
+<dbpResource>http://dbpedia.org/resource/Werner_Sombart</dbpResource>
+<abstract>Werner Sombart (* 19. Januar 1863 in Ermsleben; † 18. Mai 1941 in Berlin) war ein deutscher Soziologe und Volkswirt.</abstract>
+<wikilink>http://en.wikipedia.org/wiki/Werner_Sombart?oldid=605786695</wikilink>
+<artworks />
+<buildings />
+<books />
+</Person>

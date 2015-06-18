@@ -1,0 +1,33 @@
+<Person>
+<name>Max Dessoir</name>
+<variantName>
+<XML_Serializer_Tag>Ludwig Brunn</XML_Serializer_Tag>
+<XML_Serializer_Tag>Edmund W. Rells</XML_Serializer_Tag>
+</variantName>
+<thumbnail>https://commons.wikimedia.org/wiki/Special:FilePath/MaxDessoir.jpg?width=270</thumbnail>
+<birthEN>February 8, 1867</birthEN>
+<birthDE>8. Februar 1867</birthDE>
+<deathEN>July 19, 1947</deathEN>
+<deathDE>19. Juli 1947</deathDE>
+<birthPlace>
+<XML_Serializer_Tag>Berlin</XML_Serializer_Tag>
+</birthPlace>
+<deathPlace>
+<XML_Serializer_Tag>Königstein im Taunus</XML_Serializer_Tag>
+</deathPlace>
+<professionOrOccupation>
+<XML_Serializer_Tag>Philosoph</XML_Serializer_Tag>
+<XML_Serializer_Tag>Psychologe</XML_Serializer_Tag>
+<XML_Serializer_Tag>Schriftsteller</XML_Serializer_Tag>
+<XML_Serializer_Tag>Arzt</XML_Serializer_Tag>
+<XML_Serializer_Tag>Kunsthistoriker</XML_Serializer_Tag>
+<XML_Serializer_Tag>Schauspieler</XML_Serializer_Tag>
+<XML_Serializer_Tag>Drehbuchautor</XML_Serializer_Tag>
+</professionOrOccupation>
+<dbpResource>http://dbpedia.org/resource/Max_Dessoir</dbpResource>
+<abstract>Max Dessoir (* 8. Februar 1867 in Berlin; † 19. Juli 1947 in Königstein im Taunus) war ein deutscher Philosoph, Mediziner, Psychologe und Kunsthistoriker.</abstract>
+<wikilink>http://en.wikipedia.org/wiki/Max_Dessoir?oldid=606294790</wikilink>
+<artworks />
+<buildings />
+<books />
+</Person>

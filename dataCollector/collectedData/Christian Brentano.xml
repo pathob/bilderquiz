@@ -1,0 +1,28 @@
+<Person>
+<name>Christian Brentano</name>
+<variantName>
+<XML_Serializer_Tag>Christian Franz Damian Friedrich Brentano</XML_Serializer_Tag>
+<XML_Serializer_Tag>Chr. Brentano</XML_Serializer_Tag>
+</variantName>
+<thumbnail>https://commons.wikimedia.org/wiki/Special:FilePath/Aschaffenburger_Brentanohaus.jpg?width=270</thumbnail>
+<birthEN>January 24, 1784</birthEN>
+<birthDE>24. Januar 1784</birthDE>
+<deathEN>October 27, 1851</deathEN>
+<deathDE>27. Oktober 1851</deathDE>
+<birthPlace>
+<XML_Serializer_Tag>Frankfurt am Main</XML_Serializer_Tag>
+</birthPlace>
+<deathPlace>
+<XML_Serializer_Tag>Aschaffenburg</XML_Serializer_Tag>
+</deathPlace>
+<professionOrOccupation>
+<XML_Serializer_Tag>Schriftsteller</XML_Serializer_Tag>
+<XML_Serializer_Tag>Theologe</XML_Serializer_Tag>
+</professionOrOccupation>
+<dbpResource>http://dbpedia.org/resource/Christian_Brentano</dbpResource>
+<abstract>Christian Franz Damian Friedrich Brentano (* 24. Januar 1784 in Frankfurt am Main; † 27. Oktober 1851 ebenda) war ein katholischer geistlicher Schriftsteller und Publizist.</abstract>
+<wikilink>http://en.wikipedia.org/wiki/Christian_Brentano?oldid=592867576</wikilink>
+<artworks />
+<buildings />
+<books />
+</Person>

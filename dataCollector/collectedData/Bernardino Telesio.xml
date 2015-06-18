@@ -1,0 +1,29 @@
+<Person>
+<name>Bernardino Telesio</name>
+<variantName>
+<XML_Serializer_Tag>Bernardinus Telesius</XML_Serializer_Tag>
+<XML_Serializer_Tag>Bernhardinus Telesius</XML_Serializer_Tag>
+<XML_Serializer_Tag>B. Telesius</XML_Serializer_Tag>
+</variantName>
+<thumbnail>https://commons.wikimedia.org/wiki/Special:FilePath/Bernardino_Telesio.jpg?width=270</thumbnail>
+<birthEN>1509</birthEN>
+<birthDE>1509</birthDE>
+<deathEN>1588</deathEN>
+<deathDE>1588</deathDE>
+<birthPlace>
+<XML_Serializer_Tag>Cosenza</XML_Serializer_Tag>
+</birthPlace>
+<deathPlace>
+<XML_Serializer_Tag>Cosenza</XML_Serializer_Tag>
+</deathPlace>
+<professionOrOccupation>
+<XML_Serializer_Tag>Philosoph</XML_Serializer_Tag>
+<XML_Serializer_Tag>Naturwissenschaftler</XML_Serializer_Tag>
+</professionOrOccupation>
+<dbpResource>http://dbpedia.org/resource/Bernardino_Telesio</dbpResource>
+<abstract>Bernardino Telesio (lat. Bernardinus Telesius; * 1508 oder 1509 in Cosenza; † 2. Oktober 1588 ebenda) war ein italienischer Philosoph und Naturforscher.</abstract>
+<wikilink>http://en.wikipedia.org/wiki/Bernardino_Telesio?oldid=602298252</wikilink>
+<artworks />
+<buildings />
+<books />
+</Person>

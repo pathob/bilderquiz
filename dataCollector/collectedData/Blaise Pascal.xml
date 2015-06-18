@@ -1,0 +1,42 @@
+<Person>
+<name>Blaise Pascal</name>
+<variantName>
+<XML_Serializer_Tag>Amon Dettonville</XML_Serializer_Tag>
+<XML_Serializer_Tag>Louis de Montalte</XML_Serializer_Tag>
+<XML_Serializer_Tag>Ludovicus Montaltius</XML_Serializer_Tag>
+<XML_Serializer_Tag>Ludovico Montalto</XML_Serializer_Tag>
+<XML_Serializer_Tag>Antonius Montaltus</XML_Serializer_Tag>
+<XML_Serializer_Tag>Antonius Ludovicus Montaltus</XML_Serializer_Tag>
+<XML_Serializer_Tag>Ludovicus Montaltus</XML_Serializer_Tag>
+<XML_Serializer_Tag>... Pascal</XML_Serializer_Tag>
+<XML_Serializer_Tag>Blez Paskalʹ</XML_Serializer_Tag>
+<XML_Serializer_Tag>Blasius Pascal</XML_Serializer_Tag>
+<XML_Serializer_Tag>Blasius Pascalis</XML_Serializer_Tag>
+<XML_Serializer_Tag>... Paskal</XML_Serializer_Tag>
+<XML_Serializer_Tag>Blasius Paskal</XML_Serializer_Tag>
+<XML_Serializer_Tag>Paskāl Blīz</XML_Serializer_Tag>
+<XML_Serializer_Tag>Blaise Paschal</XML_Serializer_Tag>
+</variantName>
+<thumbnail>https://commons.wikimedia.org/wiki/Special:FilePath/Pascal_Blaise.jpeg?width=270</thumbnail>
+<birthEN>June 19, 1623</birthEN>
+<birthDE>19. Juni 1623</birthDE>
+<deathEN>August 19, 1662</deathEN>
+<deathDE>19. August 1662</deathDE>
+<birthPlace />
+<deathPlace>
+<XML_Serializer_Tag>Paris</XML_Serializer_Tag>
+</deathPlace>
+<professionOrOccupation>
+<XML_Serializer_Tag>Theologe</XML_Serializer_Tag>
+<XML_Serializer_Tag>Philosoph</XML_Serializer_Tag>
+<XML_Serializer_Tag>Mathematiker</XML_Serializer_Tag>
+<XML_Serializer_Tag>Physiker</XML_Serializer_Tag>
+<XML_Serializer_Tag>Schriftsteller</XML_Serializer_Tag>
+</professionOrOccupation>
+<dbpResource>http://dbpedia.org/resource/Blaise_Pascal</dbpResource>
+<abstract>Blaise Pascal (* 19. Juni 1623 in Clermont-Ferrand; † 19. August 1662 in Paris) war ein französischer Mathematiker, Physiker, Literat und christlicher Philosoph.</abstract>
+<wikilink>http://en.wikipedia.org/wiki/Blaise_Pascal?oldid=605954845</wikilink>
+<artworks />
+<buildings />
+<books />
+</Person>

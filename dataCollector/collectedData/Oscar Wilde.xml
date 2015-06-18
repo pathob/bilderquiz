@@ -1,0 +1,122 @@
+<Person>
+<name>Oscar Wilde</name>
+<variantName>
+<XML_Serializer_Tag>C. 3. 3.</XML_Serializer_Tag>
+<XML_Serializer_Tag>C. Drei Drei</XML_Serializer_Tag>
+<XML_Serializer_Tag>C. Three Three</XML_Serializer_Tag>
+<XML_Serializer_Tag>Sebastian Melmoth</XML_Serializer_Tag>
+<XML_Serializer_Tag>Oscar Fingal O&apos;Flahertie Wills Wilde</XML_Serializer_Tag>
+<XML_Serializer_Tag>Oscar Fingal O&apos;Flaherty Wills Wilde</XML_Serializer_Tag>
+<XML_Serializer_Tag>Oscar Fingall O&apos;Flahertie Wills Wilde Wilde</XML_Serializer_Tag>
+<XML_Serializer_Tag>Oscar Finegal O&apos;Flahertie Wills Wilde Wilde</XML_Serializer_Tag>
+<XML_Serializer_Tag>Oscar O&apos;Flahertie Wills Wilde</XML_Serializer_Tag>
+<XML_Serializer_Tag>Oscar F. O&apos;Flahertie Wills Wilde</XML_Serializer_Tag>
+<XML_Serializer_Tag>Oskar Waild</XML_Serializer_Tag>
+<XML_Serializer_Tag>Oscar F. Wilde</XML_Serializer_Tag>
+<XML_Serializer_Tag>Oskar Wilde</XML_Serializer_Tag>
+<XML_Serializer_Tag>Oskar F. Wilde</XML_Serializer_Tag>
+<XML_Serializer_Tag>O. Wilde</XML_Serializer_Tag>
+<XML_Serializer_Tag>... Wilde</XML_Serializer_Tag>
+<XML_Serializer_Tag>Oscar O. Wilde</XML_Serializer_Tag>
+<XML_Serializer_Tag>Oscar O. Wills Wilde</XML_Serializer_Tag>
+<XML_Serializer_Tag>Oskar Guailant</XML_Serializer_Tag>
+<XML_Serializer_Tag>Oskar Gualant</XML_Serializer_Tag>
+<XML_Serializer_Tag>Oskar Ouailnt</XML_Serializer_Tag>
+<XML_Serializer_Tag>Oskar Uail&apos;d</XML_Serializer_Tag>
+<XML_Serializer_Tag>Oskar Uaǐl&apos;d</XML_Serializer_Tag>
+<XML_Serializer_Tag>Oskar Uailnt</XML_Serializer_Tag>
+<XML_Serializer_Tag>Oskar Uajl&apos;d</XML_Serializer_Tag>
+<XML_Serializer_Tag>Oskar Uajld</XML_Serializer_Tag>
+<XML_Serializer_Tag>Oskar Uajlld</XML_Serializer_Tag>
+<XML_Serializer_Tag>Oskar Vaild</XML_Serializer_Tag>
+<XML_Serializer_Tag>Ōskar Vaild</XML_Serializer_Tag>
+<XML_Serializer_Tag>Osḳar Ṿaild</XML_Serializer_Tag>
+<XML_Serializer_Tag>Osḳar Ṿayld</XML_Serializer_Tag>
+<XML_Serializer_Tag>Āskara Vāilḍa</XML_Serializer_Tag>
+<XML_Serializer_Tag>Oskaras Vaildas</XML_Serializer_Tag>
+<XML_Serializer_Tag>Oskars Vailds</XML_Serializer_Tag>
+<XML_Serializer_Tag>Oskar Vajld</XML_Serializer_Tag>
+<XML_Serializer_Tag>Oskar Vild</XML_Serializer_Tag>
+<XML_Serializer_Tag>Osḳar Vayld</XML_Serializer_Tag>
+<XML_Serializer_Tag>Erde Wang</XML_Serializer_Tag>
+<XML_Serializer_Tag>Wang&apos;erde</XML_Serializer_Tag>
+<XML_Serializer_Tag>Ôsqar Wayld</XML_Serializer_Tag>
+<XML_Serializer_Tag>Wairudo</XML_Serializer_Tag>
+<XML_Serializer_Tag>王尔德</XML_Serializer_Tag>
+</variantName>
+<thumbnail>https://commons.wikimedia.org/wiki/Special:FilePath/Oscar_Wilde_(1854-1900)_1889,_May_23._Picture_by_W._and_D._Downey.jpg?width=270</thumbnail>
+<birthEN>October 16, 1854</birthEN>
+<birthDE>16. Oktober 1854</birthDE>
+<deathEN>November 30, 1900</deathEN>
+<deathDE>30. November 1900</deathDE>
+<birthPlace>
+<XML_Serializer_Tag>Dublin</XML_Serializer_Tag>
+</birthPlace>
+<deathPlace>
+<XML_Serializer_Tag>Paris</XML_Serializer_Tag>
+</deathPlace>
+<professionOrOccupation>
+<XML_Serializer_Tag>Dramatiker</XML_Serializer_Tag>
+<XML_Serializer_Tag>Lyriker</XML_Serializer_Tag>
+<XML_Serializer_Tag>Schriftsteller</XML_Serializer_Tag>
+</professionOrOccupation>
+<dbpResource>http://dbpedia.org/resource/Oscar_Wilde</dbpResource>
+<abstract>Oscar Fingal O&apos; Flahertie Wills Wilde (* 16. Oktober 1854 in Dublin; † 30. November 1900 in Paris) war ein irischer Schriftsteller.</abstract>
+<wikilink>http://en.wikipedia.org/wiki/Oscar_Wilde?oldid=606709192</wikilink>
+<artworks />
+<buildings />
+<books>
+<XML_Serializer_Tag>
+<book>
+<type>uri</type>
+<value>http://dbpedia.org/resource/The_Picture_of_Dorian_Gray</value>
+</book>
+<author>
+<type>uri</type>
+<value>http://dbpedia.org/resource/Oscar_Wilde</value>
+</author>
+<thumbnail>
+<type>uri</type>
+<value>http://commons.wikimedia.org/wiki/Special:FilePath/Lippincott_doriangray.jpg?width=300</value>
+</thumbnail>
+<released>
+<type>typed-literal</type>
+<datatype>http://www.w3.org/2001/XMLSchema#integer</datatype>
+<value>1890</value>
+</released>
+<wikilink>
+<type>uri</type>
+<value>http://en.wikipedia.org/wiki/The_Picture_of_Dorian_Gray?oldid=602596419</value>
+</wikilink>
+<abstract>
+<type>literal</type>
+<xml:lang>de</xml:lang>
+<value>Das Bildnis des Dorian Gray (Originaltitel: The Picture of Dorian Gray) ist der einzige Roman des irischen Schriftstellers Oscar Wilde. Eine erste Fassung erschien 1890 in Lippincott’s Monthly Magazine aus Philadelphia, 1891 wurde bei dem Londoner Verlag Ward, Lock and Co. die heute bekannte, überarbeitete und erweiterte Fassung in Buchform veröffentlicht. Der seinerzeit als anrüchig geltende Roman war auch Gegenstand des Unzuchtprozesses gegen Wilde.Die Hauptfigur, der reiche und schöne Dorian Gray, besitzt ein Porträt, das statt seiner altert und in das sich die Spuren seiner Sünden einschreiben. Während Gray immer maßloser und grausamer wird, bleibt sein Äußeres dennoch jung und makellos schön.Der Roman gilt als Oscar Wildes Prosahauptwerk. Themen sind die Moralität von Sinnlichkeit und Hedonismus im Viktorianismus und die Dekadenz der englischen Oberschicht. Außerdem lassen sich die Handlung und die eingearbeiteten Kunstbemerkungen sowohl als Proklamation wie auch als Kritik des Ästhetizismus lesen, einer literarischen Strömung des Fin de siècle.</value>
+</abstract>
+</XML_Serializer_Tag>
+<XML_Serializer_Tag>
+<book>
+<type>uri</type>
+<value>http://dbpedia.org/resource/Teleny,_or_The_Reverse_of_the_Medal</value>
+</book>
+<author>
+<type>uri</type>
+<value>http://dbpedia.org/resource/Oscar_Wilde</value>
+</author>
+<released>
+<type>typed-literal</type>
+<datatype>http://www.w3.org/2001/XMLSchema#integer</datatype>
+<value>1893</value>
+</released>
+<wikilink>
+<type>uri</type>
+<value>http://en.wikipedia.org/wiki/Teleny,_or_The_Reverse_of_the_Medal?oldid=578104469</value>
+</wikilink>
+<abstract>
+<type>literal</type>
+<xml:lang>de</xml:lang>
+<value>Teleny ist ein Roman, der 1893 anonym in einer Auflage von nur 200 Exemplaren in London erschien. 1895 folgte eine zweite, ebenfalls anonyme Auflage. Der Roman wird Oscar Wilde (1854-1900) zugeschrieben, dessen Autorschaft gilt aber nicht als gesichert. Das Buch wurde auch unter dem Titel: Teleny, or: The Reverse of the Medal, A Physiological Romance (dt. etwa: Teleny oder Die Kehrseite der Medaille, eine physiologische Romanze) veröffentlicht. Es erzählt die homoerotische Liebesgeschichte zwischen dem französischen Dandy Camille und dem ungarischen Pianisten René (Teleny), deren Liebe an gesellschaftlichen Repressalien zerbricht.</value>
+</abstract>
+</XML_Serializer_Tag>
+</books>
+</Person>

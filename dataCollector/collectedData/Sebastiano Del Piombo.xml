@@ -1,0 +1,100 @@
+<Person>
+<name>Sebastiano Del Piombo</name>
+<variantName>
+<XML_Serializer_Tag>Sebastiano del Piombo</XML_Serializer_Tag>
+<XML_Serializer_Tag>Sebastiano Luciani</XML_Serializer_Tag>
+<XML_Serializer_Tag>Sebastiano, del Piombo</XML_Serializer_Tag>
+<XML_Serializer_Tag>Luciano Del Piombo</XML_Serializer_Tag>
+<XML_Serializer_Tag>Sebastiano Luciani del Piombo</XML_Serializer_Tag>
+<XML_Serializer_Tag>Sebastiano de&apos; Lucianis Piombo</XML_Serializer_Tag>
+<XML_Serializer_Tag>Sebastiano de&apos; Lucianis</XML_Serializer_Tag>
+<XML_Serializer_Tag>Sebastiaan de Piombo</XML_Serializer_Tag>
+<XML_Serializer_Tag>Seb. Dal Piombo</XML_Serializer_Tag>
+<XML_Serializer_Tag>Seb. dal Piombo</XML_Serializer_Tag>
+<XML_Serializer_Tag>Sebastien Del Piombo</XML_Serializer_Tag>
+<XML_Serializer_Tag>Sebastien de Piombo</XML_Serializer_Tag>
+<XML_Serializer_Tag>Sebastiano del Piombo</XML_Serializer_Tag>
+<XML_Serializer_Tag>Luciano DelPiombo</XML_Serializer_Tag>
+<XML_Serializer_Tag>Seb. DalPiombo</XML_Serializer_Tag>
+<XML_Serializer_Tag>Sebastien DelPiombo</XML_Serializer_Tag>
+<XML_Serializer_Tag>Sebastiano DelPiombo</XML_Serializer_Tag>
+<XML_Serializer_Tag>Sebastianus, Venetus</XML_Serializer_Tag>
+<XML_Serializer_Tag>Sebastian Viniziano</XML_Serializer_Tag>
+<XML_Serializer_Tag>Sebastiano DelPiombo</XML_Serializer_Tag>
+</variantName>
+<thumbnail>https://commons.wikimedia.org/wiki/Special:FilePath/Piombo_Heilige_Familie_ca_1530.jpg?width=270</thumbnail>
+<birthEN>1485</birthEN>
+<birthDE>1485</birthDE>
+<deathEN>1547</deathEN>
+<deathDE>1547</deathDE>
+<birthPlace />
+<deathPlace />
+<professionOrOccupation>
+<XML_Serializer_Tag>Künstler</XML_Serializer_Tag>
+</professionOrOccupation>
+<dbpResource>http://dbpedia.org/resource/Sebastiano_del_Piombo</dbpResource>
+<abstract>Sebastiano del Piombo (* um 1485 in Venedig; † 15. Juni 1547 in Rom; Geburtsname Sebastiano Luciani) war ein zu Lebzeiten berühmter italienischer Maler der Renaissance, in Venedig Schüler Giovanni Bellinis und Kollege Giorgiones, in Rom Freund Michelangelos und Konkurrent Raffaels. Nachdem er 450 Jahre lang fast vergessen war, wurde er 2008 in ersten Einzelausstellungen in Rom und Berlin vorgestellt.</abstract>
+<wikilink>http://en.wikipedia.org/wiki/Sebastiano_del_Piombo?oldid=602502995</wikilink>
+<artworks>
+<XML_Serializer_Tag>
+<artwork>
+<type>uri</type>
+<value>http://dbpedia.org/resource/The_Raising_of_Lazarus_(Sebastiano_del_Piombo)</value>
+</artwork>
+<thumbnail>
+<type>uri</type>
+<value>http://commons.wikimedia.org/wiki/Special:FilePath/Sebastiano_del_Piombo,_The_Raising_of_Lazarus.jpg?width=300</value>
+</thumbnail>
+<name>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>The Raising of Lazarus</value>
+</name>
+<year>
+<type>typed-literal</type>
+<datatype>http://www.w3.org/2001/XMLSchema#integer</datatype>
+<value>1517</value>
+</year>
+<wikilink>
+<type>uri</type>
+<value>http://en.wikipedia.org/wiki/The_Raising_of_Lazarus_(Sebastiano_del_Piombo)?oldid=593799198</value>
+</wikilink>
+<type>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>Oil on canvas</value>
+</type>
+</XML_Serializer_Tag>
+<XML_Serializer_Tag>
+<artwork>
+<type>uri</type>
+<value>http://dbpedia.org/resource/Portrait_of_Andrea_Doria_(Sebastiano_del_Piombo)</value>
+</artwork>
+<thumbnail>
+<type>uri</type>
+<value>http://en.wikipedia.org/wiki/Special:FilePath/Doria_del_piombo.jpg?width=300</value>
+</thumbnail>
+<name>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>Portrait of Andrea Doria</value>
+</name>
+<year>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>c. 1526</value>
+</year>
+<wikilink>
+<type>uri</type>
+<value>http://en.wikipedia.org/wiki/Portrait_of_Andrea_Doria_(Sebastiano_del_Piombo)?oldid=590308817</value>
+</wikilink>
+<type>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>Oil on panel</value>
+</type>
+</XML_Serializer_Tag>
+</artworks>
+<buildings />
+<books />
+</Person>

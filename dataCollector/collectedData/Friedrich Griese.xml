@@ -1,0 +1,27 @@
+<Person>
+<name>Friedrich Griese</name>
+<variantName>
+<XML_Serializer_Tag>F. Griese</XML_Serializer_Tag>
+</variantName>
+<thumbnail>https://de.wikipedia.org/wiki/Special:FilePath/Griese_Saatgang.jpg?width=270</thumbnail>
+<birthEN>October 2, 1890</birthEN>
+<birthDE>2. Oktober 1890</birthDE>
+<deathEN>June 1, 1975</deathEN>
+<deathDE>1. Juni 1975</deathDE>
+<birthPlace>
+<XML_Serializer_Tag>Möllenhagen-Lehsten</XML_Serializer_Tag>
+</birthPlace>
+<deathPlace>
+<XML_Serializer_Tag>Lübeck</XML_Serializer_Tag>
+</deathPlace>
+<professionOrOccupation>
+<XML_Serializer_Tag>Schriftsteller</XML_Serializer_Tag>
+<XML_Serializer_Tag>Dramatiker</XML_Serializer_Tag>
+</professionOrOccupation>
+<dbpResource>http://dbpedia.org/resource/Friedrich_Griese</dbpResource>
+<abstract>Friedrich Griese (* 2. Oktober 1890 in Lehsten; † 1. Juni 1975 in Lübeck) war ein deutscher Schriftsteller. Heute weitgehend vergessen, war er in der ersten Hälfte des 20. Jahrhunderts der bedeutendste Schriftsteller Mecklenburgs. Aufgrund seiner heimatbezogenen Thematik wurde er zur NS-Zeit hoch geehrt und später oft der „Blut und Boden“-Literatur des Dritten Reiches zugeordnet, ohne dass in seinen Werken die nationalsozialistische Ideologie direkt zum Ausdruck kommt.</abstract>
+<wikilink>http://en.wikipedia.org/wiki/Friedrich_Griese?oldid=595078360</wikilink>
+<artworks />
+<buildings />
+<books />
+</Person>

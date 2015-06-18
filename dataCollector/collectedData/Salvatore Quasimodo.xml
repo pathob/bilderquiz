@@ -1,0 +1,28 @@
+<Person>
+<name>Salvatore Quasimodo</name>
+<variantName>
+<XML_Serializer_Tag>Totò Quasimodo</XML_Serializer_Tag>
+<XML_Serializer_Tag>Salʹvatore Kvazimodo</XML_Serializer_Tag>
+</variantName>
+<thumbnail>https://commons.wikimedia.org/wiki/Special:FilePath/Salvatore_Quasimodo_1959.jpg?width=270</thumbnail>
+<birthEN>August 20, 1901</birthEN>
+<birthDE>20. August 1901</birthDE>
+<deathEN>June 14, 1968</deathEN>
+<deathDE>14. Juni 1968</deathDE>
+<birthPlace>
+<XML_Serializer_Tag>Modica</XML_Serializer_Tag>
+</birthPlace>
+<deathPlace>
+<XML_Serializer_Tag>Neapel</XML_Serializer_Tag>
+</deathPlace>
+<professionOrOccupation>
+<XML_Serializer_Tag>Schriftsteller</XML_Serializer_Tag>
+<XML_Serializer_Tag>Kritiker</XML_Serializer_Tag>
+</professionOrOccupation>
+<dbpResource>http://dbpedia.org/resource/Salvatore_Quasimodo</dbpResource>
+<abstract>Salvatore Quasimodo (* 20. August 1901 in Modica, Provinz Ragusa, Sizilien; † 14. Juni 1968 in Neapel) war ein italienischer Lyriker und Kritiker. 1959 wurde ihm der Nobelpreis für Literatur verliehen.</abstract>
+<wikilink>http://en.wikipedia.org/wiki/Salvatore_Quasimodo?oldid=570383803</wikilink>
+<artworks />
+<buildings />
+<books />
+</Person>

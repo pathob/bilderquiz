@@ -29,8 +29,10 @@
 <XML_Serializer_Tag>Radierer</XML_Serializer_Tag>
 <XML_Serializer_Tag>Kupferstecher</XML_Serializer_Tag>
 </professionOrOccupation>
-<artworks />
 <dbpResource>http://dbpedia.org/resource/Romeyn_de_Hooghe</dbpResource>
 <abstract>Romeyn de Hooghe (* 10. September 1645 in Amsterdam; † 15. Juni 1708 in Haarlem) war ein niederländischer Kupferstecher des Barock. Besonders bekannt wurde er durch seine Karikaturen von Louis XIV.</abstract>
 <wikilink>http://en.wikipedia.org/wiki/Romeyn_de_Hooghe?oldid=601304139</wikilink>
+<artworks />
+<buildings />
+<books />
 </Person>

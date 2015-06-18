@@ -1,0 +1,27 @@
+<Person>
+<name>Franz Wilhelm Seiwert</name>
+<variantName>
+<XML_Serializer_Tag>F. W. Seiwert</XML_Serializer_Tag>
+<XML_Serializer_Tag>Franz W. Seiwert</XML_Serializer_Tag>
+</variantName>
+<thumbnail>https://commons.wikimedia.org/wiki/Special:FilePath/Franz_Wilhelm_Seiwert_Geschöpfe.jpg?width=270</thumbnail>
+<birthEN>March 9, 1894</birthEN>
+<birthDE>9. März 1894</birthDE>
+<deathEN>July 3, 1933</deathEN>
+<deathDE>3. Juli 1933</deathDE>
+<birthPlace>
+<XML_Serializer_Tag>Köln</XML_Serializer_Tag>
+</birthPlace>
+<deathPlace>
+<XML_Serializer_Tag>Köln</XML_Serializer_Tag>
+</deathPlace>
+<professionOrOccupation>
+<XML_Serializer_Tag>Künstler</XML_Serializer_Tag>
+</professionOrOccupation>
+<dbpResource>http://dbpedia.org/resource/Franz_Wilhelm_Seiwert</dbpResource>
+<abstract>Franz Wilhelm Seiwert (* 9. März 1894 in Köln; † 3. Juli 1933 ebenda) war ein Maler und Bildhauer, Avantgardist und Mitglied der „Kölner Progressiven“.</abstract>
+<wikilink>http://en.wikipedia.org/wiki/Franz_Wilhelm_Seiwert?oldid=606020586</wikilink>
+<artworks />
+<buildings />
+<books />
+</Person>

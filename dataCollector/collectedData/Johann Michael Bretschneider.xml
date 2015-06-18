@@ -17,8 +17,10 @@
 <professionOrOccupation>
 <XML_Serializer_Tag>Maler</XML_Serializer_Tag>
 </professionOrOccupation>
-<artworks />
 <dbpResource>http://dbpedia.org/resource/Johann_Michael_Bretschneider</dbpResource>
 <abstract>Johann Michael Bretschneider (* 15. September 1680 in Schreckenstein bei Aussig; † 27. Oktober 1729 in Wien) (auch: Pretschreider) war ein deutscher Barockmaler.Seine Eltern waren Wentzel und Ludmilla Bretschneider.</abstract>
 <wikilink>http://en.wikipedia.org/wiki/Johann_Michael_Bretschneider?oldid=572263990</wikilink>
+<artworks />
+<buildings />
+<books />
 </Person>

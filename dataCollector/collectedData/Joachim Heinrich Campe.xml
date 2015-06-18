@@ -1,0 +1,38 @@
+<Person>
+<name>Joachim Heinrich Campe</name>
+<variantName>
+<XML_Serializer_Tag>Joach. Heinr. Campe</XML_Serializer_Tag>
+<XML_Serializer_Tag>J. H. Campe</XML_Serializer_Tag>
+<XML_Serializer_Tag>A. H. Campe</XML_Serializer_Tag>
+<XML_Serializer_Tag>J. H. Kampe</XML_Serializer_Tag>
+<XML_Serializer_Tag>... Campe</XML_Serializer_Tag>
+<XML_Serializer_Tag>... Defoe-Campe</XML_Serializer_Tag>
+<XML_Serializer_Tag>I. H. Campe</XML_Serializer_Tag>
+<XML_Serializer_Tag>Joachim Henrik Campe</XML_Serializer_Tag>
+<XML_Serializer_Tag>Joachim H. Campe</XML_Serializer_Tag>
+</variantName>
+<thumbnail>https://commons.wikimedia.org/wiki/Special:FilePath/Joachim_Heinrich_Campe.jpg?width=270</thumbnail>
+<birthEN>June 29, 1746</birthEN>
+<birthDE>29. Juni 1746</birthDE>
+<deathEN>October 22, 1818</deathEN>
+<deathDE>22. Oktober 1818</deathDE>
+<birthPlace>
+<XML_Serializer_Tag>Deensen</XML_Serializer_Tag>
+</birthPlace>
+<deathPlace>
+<XML_Serializer_Tag>Braunschweig</XML_Serializer_Tag>
+</deathPlace>
+<professionOrOccupation>
+<XML_Serializer_Tag>Pädagoge</XML_Serializer_Tag>
+<XML_Serializer_Tag>Theologe</XML_Serializer_Tag>
+<XML_Serializer_Tag>Schriftsteller</XML_Serializer_Tag>
+<XML_Serializer_Tag>Verleger</XML_Serializer_Tag>
+<XML_Serializer_Tag>Sprachforscher</XML_Serializer_Tag>
+</professionOrOccupation>
+<dbpResource>http://dbpedia.org/resource/Joachim_Heinrich_Campe</dbpResource>
+<abstract>Joachim Heinrich Campe (* 29. Juni 1746 in Deensen bei Holzminden; † 22. Oktober 1818 in Braunschweig) war ein deutscher, den Idealen der Aufklärung verpflichteter Schriftsteller, Sprachforscher, Pädagoge und Verleger.</abstract>
+<wikilink>http://en.wikipedia.org/wiki/Joachim_Heinrich_Campe?oldid=599771104</wikilink>
+<artworks />
+<buildings />
+<books />
+</Person>

@@ -1,0 +1,89 @@
+<Person>
+<name>Charles Rennie Mackintosh</name>
+<variantName>
+<XML_Serializer_Tag>Charles R. Mackintosh</XML_Serializer_Tag>
+<XML_Serializer_Tag>C. R. Mackintosh</XML_Serializer_Tag>
+</variantName>
+<thumbnail>https://commons.wikimedia.org/wiki/Special:FilePath/Charles_Rennie_Mackintosh.jpg?width=270</thumbnail>
+<birthEN>1868</birthEN>
+<birthDE>1868</birthDE>
+<deathEN>1928</deathEN>
+<deathDE>1928</deathDE>
+<birthPlace />
+<deathPlace />
+<professionOrOccupation>
+<XML_Serializer_Tag>Architekt</XML_Serializer_Tag>
+<XML_Serializer_Tag>Designer</XML_Serializer_Tag>
+</professionOrOccupation>
+<dbpResource>http://dbpedia.org/resource/Charles_Rennie_Mackintosh</dbpResource>
+<abstract>Charles Rennie Mackintosh (* 7. Juni 1868 in Glasgow; † 10. Dezember 1928 in London) war ein schottischer Architekt, Innenarchitekt, Kunsthandwerker, Designer, Grafiker und Maler. Zusammen mit seiner Frau Margaret MacDonald Mackintosh, deren Schwester Frances MacDonald McNair und James Herbert McNair war er Begründer der Gruppe &quot;The Four&quot;, die unter anderem auch entscheidenden Einfluss auf die Glasgow School ausübte. Er war einer der führenden Persönlichkeiten der Art Nouveau-Bewegung des ausgehenden 19. Jahrhunderts und gab dem modernen Design wichtige Impulse. Mackintosh gilt als einflussreicher Vorläufer der Modern Art.</abstract>
+<wikilink>http://en.wikipedia.org/wiki/Charles_Rennie_Mackintosh?oldid=602303974</wikilink>
+<artworks />
+<buildings>
+<XML_Serializer_Tag>
+<building>
+<type>uri</type>
+<value>http://dbpedia.org/resource/Willow_Tearooms</value>
+</building>
+<name>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>Willow Tearooms</value>
+</name>
+<architect>
+<type>uri</type>
+<value>http://dbpedia.org/resource/Charles_Rennie_Mackintosh</value>
+</architect>
+<thumbnail>
+<type>uri</type>
+<value>http://commons.wikimedia.org/wiki/Special:FilePath/The_Willow_Tearooms_Glasgow.jpg?width=300</value>
+</thumbnail>
+<wikilink>
+<type>uri</type>
+<value>http://en.wikipedia.org/wiki/Willow_Tearooms?oldid=597095624</value>
+</wikilink>
+<location>
+<type>uri</type>
+<value>http://dbpedia.org/resource/Scotland</value>
+</location>
+<abstract>
+<type>literal</type>
+<xml:lang>de</xml:lang>
+<value>Die Willow Tearooms sind ein im schottischen Glasgow (Sauchiehall Street 217) gelegenes Teelokal, das vom schottischen Architekten Charles Rennie Mackintosh gestaltet wurde. Es wurde im Oktober 1903 eröffnet und wurde rasch populär, erlebte aber später einen Niedergang. Der heutige Zustand beruht weitgehend auf Rekonstruktion.</value>
+</abstract>
+</XML_Serializer_Tag>
+<XML_Serializer_Tag>
+<building>
+<type>uri</type>
+<value>http://dbpedia.org/resource/House_for_an_Art_Lover</value>
+</building>
+<name>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>House for an Art Lover</value>
+</name>
+<architect>
+<type>uri</type>
+<value>http://dbpedia.org/resource/Charles_Rennie_Mackintosh</value>
+</architect>
+<thumbnail>
+<type>uri</type>
+<value>http://commons.wikimedia.org/wiki/Special:FilePath/HouseForAnArtLover.jpg?width=300</value>
+</thumbnail>
+<wikilink>
+<type>uri</type>
+<value>http://en.wikipedia.org/wiki/House_for_an_Art_Lover?oldid=603459386</value>
+</wikilink>
+<location>
+<type>uri</type>
+<value>http://dbpedia.org/resource/United_Kingdom</value>
+</location>
+<abstract>
+<type>literal</type>
+<xml:lang>de</xml:lang>
+<value>Das House for an Art Lover im Bellahouston Park, Glasgow, ist ein in den 1990er Jahren nach Plänen von Charles Rennie Mackintosh und seiner Frau Margaret MacDonald Mackintosh errichtetes Gebäude.Das Paar entwarf die Pläne 1901 für den Wettbewerb &quot;Haus eines Kunstfreunds&quot; der deutschen Zeitschrift Innendekoration. Obwohl nicht preisgekrönt, erregte der Entwurf großes Interesse. 1989 bis 1996 dauerte die möglichst genaue, späte Realisierung durch John Kane, Graeme Robertson und Andrew MacMillan. Das Haus dient heute kulturellen und sozialen Veranstaltungen. (Konzerte, Kurse, Hochzeitsfeiern etc.)</value>
+</abstract>
+</XML_Serializer_Tag>
+</buildings>
+<books />
+</Person>

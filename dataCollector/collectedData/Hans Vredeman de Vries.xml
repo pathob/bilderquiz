@@ -55,8 +55,10 @@
 <XML_Serializer_Tag>Architekt</XML_Serializer_Tag>
 <XML_Serializer_Tag>Maler</XML_Serializer_Tag>
 </professionOrOccupation>
-<artworks />
 <dbpResource>http://dbpedia.org/resource/Hans_Vredeman_de_Vries</dbpResource>
 <abstract>Hans Vredeman de Vries (* 1527 in Leeuwarden; † 1609 vermutlich in Antwerpen) war ein niederländischer Maler der Renaissance, Theoretiker und (Garten-)Architekt.</abstract>
 <wikilink>http://en.wikipedia.org/wiki/Hans_Vredeman_de_Vries?oldid=605563345</wikilink>
+<artworks />
+<buildings />
+<books />
 </Person>

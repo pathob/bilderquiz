@@ -1,0 +1,30 @@
+<Person>
+<name>George Herbert Mead</name>
+<variantName>
+<XML_Serializer_Tag>G. H. Mead</XML_Serializer_Tag>
+<XML_Serializer_Tag>George H. Mead</XML_Serializer_Tag>
+</variantName>
+<thumbnail>https://commons.wikimedia.org/wiki/Special:FilePath/George_Herbert_Mead.jpg?width=270</thumbnail>
+<birthEN>February 27, 1863</birthEN>
+<birthDE>27. Februar 1863</birthDE>
+<deathEN>April 26, 1931</deathEN>
+<deathDE>26. April 1931</deathDE>
+<birthPlace>
+<XML_Serializer_Tag>South Hadley, Mass.</XML_Serializer_Tag>
+</birthPlace>
+<deathPlace>
+<XML_Serializer_Tag>Chicago, Ill.</XML_Serializer_Tag>
+</deathPlace>
+<professionOrOccupation>
+<XML_Serializer_Tag>Philosoph</XML_Serializer_Tag>
+<XML_Serializer_Tag>Soziologe</XML_Serializer_Tag>
+<XML_Serializer_Tag>Psychologe</XML_Serializer_Tag>
+<XML_Serializer_Tag>Hochschullehrer</XML_Serializer_Tag>
+</professionOrOccupation>
+<dbpResource>http://dbpedia.org/resource/George_Herbert_Mead</dbpResource>
+<abstract>George Herbert Mead (* 27. Februar 1863 in South Hadley, Massachusetts, USA; † 26. April 1931 in Chicago, USA) war ein US-amerikanischer Philosoph, Soziologe und Psychologe. Er studierte unter anderem in Leipzig und Berlin und war von 1894 bis zu seinem Tode Professor für Philosophie und Sozialpsychologie an der University of Chicago.</abstract>
+<wikilink>http://en.wikipedia.org/wiki/George_Herbert_Mead?oldid=605665634</wikilink>
+<artworks />
+<buildings />
+<books />
+</Person>

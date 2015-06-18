@@ -19,8 +19,10 @@
 <XML_Serializer_Tag>Maler</XML_Serializer_Tag>
 <XML_Serializer_Tag>Graphiker</XML_Serializer_Tag>
 </professionOrOccupation>
-<artworks />
 <dbpResource>http://dbpedia.org/resource/Richard_Hamilton_(actor)</dbpResource>
 <abstract>Richard Hamilton (* 31. Dezember 1920 in Chicago, Illinois; † 21. Dezember 2004 in New York) war ein US-amerikanischer Film- und Theaterschauspieler sowie Radiosprecher.</abstract>
 <wikilink>http://en.wikipedia.org/wiki/Richard_Hamilton_(actor)?oldid=606279396</wikilink>
+<artworks />
+<buildings />
+<books />
 </Person>

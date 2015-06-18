@@ -22,8 +22,10 @@
 <professionOrOccupation>
 <XML_Serializer_Tag>Maler</XML_Serializer_Tag>
 </professionOrOccupation>
-<artworks />
 <dbpResource>http://dbpedia.org/resource/Friedrich_Herlin</dbpResource>
 <abstract>Friedrich Herlin auch Friedrich Herlein (* um 1430 in Rothenburg ob der Tauber ?; † um 1500 in Nördlingen) war ein altdeutscher Maler.</abstract>
 <wikilink>http://en.wikipedia.org/wiki/Friedrich_Herlin?oldid=565430281</wikilink>
+<artworks />
+<buildings />
+<books />
 </Person>

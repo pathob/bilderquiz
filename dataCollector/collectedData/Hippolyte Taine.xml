@@ -1,0 +1,42 @@
+<Person>
+<name>Hippolyte Taine</name>
+<variantName>
+<XML_Serializer_Tag>Hipólito Taine</XML_Serializer_Tag>
+<XML_Serializer_Tag>Hipólito A. Taine</XML_Serializer_Tag>
+<XML_Serializer_Tag>Hippolyte Adolphe Taine</XML_Serializer_Tag>
+<XML_Serializer_Tag>Hippolyte-Adolphe Taine</XML_Serializer_Tag>
+<XML_Serializer_Tag>Hippolyte A. Taine</XML_Serializer_Tag>
+<XML_Serializer_Tag>Hippolite Taine</XML_Serializer_Tag>
+<XML_Serializer_Tag>Hyppolite Taine</XML_Serializer_Tag>
+<XML_Serializer_Tag>Hyppolyte Taine</XML_Serializer_Tag>
+<XML_Serializer_Tag>Henri Taine</XML_Serializer_Tag>
+<XML_Serializer_Tag>H. Taine</XML_Serializer_Tag>
+<XML_Serializer_Tag>Frédéric-Thomas Graindorge</XML_Serializer_Tag>
+<XML_Serializer_Tag>Frédéric T. Graindorge</XML_Serializer_Tag>
+<XML_Serializer_Tag>Hippolyte Adolphe Henri Taine</XML_Serializer_Tag>
+<XML_Serializer_Tag>Hippolyte-Adolphe-Henri Taine</XML_Serializer_Tag>
+<XML_Serializer_Tag>H. A. Taine</XML_Serializer_Tag>
+<XML_Serializer_Tag>Henricus Taine</XML_Serializer_Tag>
+</variantName>
+<thumbnail>https://commons.wikimedia.org/wiki/Special:FilePath/Hippolyte_Taine_with_cat.jpg?width=270</thumbnail>
+<birthEN>April 21, 1828</birthEN>
+<birthDE>21. April 1828</birthDE>
+<deathEN>March 5, 1893</deathEN>
+<deathDE>5. März 1893</deathDE>
+<birthPlace>
+<XML_Serializer_Tag>Vouziers</XML_Serializer_Tag>
+</birthPlace>
+<deathPlace>
+<XML_Serializer_Tag>Paris</XML_Serializer_Tag>
+</deathPlace>
+<professionOrOccupation>
+<XML_Serializer_Tag>Philosoph</XML_Serializer_Tag>
+<XML_Serializer_Tag>Historiker</XML_Serializer_Tag>
+</professionOrOccupation>
+<dbpResource>http://dbpedia.org/resource/Hippolyte_Taine</dbpResource>
+<abstract>Hippolyte Adolphe Taine (* 21. April 1828 in Vouziers; † 5. März 1893 in Paris) war ein französischer Philosoph, Historiker und Kritiker. Er lehrte an der École nationale supérieure des beaux-arts de Paris, der Militärschule Saint-Cyr und in Oxford und war Mitarbeiter der beiden damals bedeutendsten wissenschaftlichen Zeitschriften Frankreichs, der Revue des Deux Mondes und dem Journal des Débats. Er war Mitglied der Académie française (1878).</abstract>
+<wikilink>http://en.wikipedia.org/wiki/Hippolyte_Taine?oldid=606050999</wikilink>
+<artworks />
+<buildings />
+<books />
+</Person>

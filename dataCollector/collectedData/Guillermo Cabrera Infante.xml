@@ -1,0 +1,35 @@
+<Person>
+<name>Guillermo Cabrera Infante</name>
+<variantName>
+<XML_Serializer_Tag>G. Cabrera Infante</XML_Serializer_Tag>
+<XML_Serializer_Tag>Guillermo Cabrera-Infante</XML_Serializer_Tag>
+<XML_Serializer_Tag>G. Caín</XML_Serializer_Tag>
+<XML_Serializer_Tag>Guillermo Caín</XML_Serializer_Tag>
+<XML_Serializer_Tag>G. Cabrera Infante</XML_Serializer_Tag>
+<XML_Serializer_Tag>Guillermo Cabrera Infante</XML_Serializer_Tag>
+<XML_Serializer_Tag>Infante Cabrera</XML_Serializer_Tag>
+<XML_Serializer_Tag>Cabrera Infante</XML_Serializer_Tag>
+</variantName>
+<thumbnail>https://commons.wikimedia.org/wiki/Special:FilePath/Guillermo_Cabrera_Infante.jpg?width=270</thumbnail>
+<birthEN>April 22, 1929</birthEN>
+<birthDE>22. April 1929</birthDE>
+<deathEN>February 21, 2005</deathEN>
+<deathDE>21. Februar 2005</deathDE>
+<birthPlace>
+<XML_Serializer_Tag>Gibara, Prov. Oriente, Cuba</XML_Serializer_Tag>
+</birthPlace>
+<deathPlace>
+<XML_Serializer_Tag>London</XML_Serializer_Tag>
+</deathPlace>
+<professionOrOccupation>
+<XML_Serializer_Tag>Schriftsteller</XML_Serializer_Tag>
+<XML_Serializer_Tag>Kritiker</XML_Serializer_Tag>
+<XML_Serializer_Tag>Übersetzer</XML_Serializer_Tag>
+</professionOrOccupation>
+<dbpResource>http://dbpedia.org/resource/Guillermo_Cabrera_Infante</dbpResource>
+<abstract>Guillermo Cabrera Infante (* 22. April 1929 in Gibara, Kuba; † 21. Februar 2005 in London) war ein bedeutender spanischsprachiger Schriftsteller und Filmkritiker. Er galt als Symbolfigur im Widerstand gegen das Regime des kubanischen Machthabers Fidel Castro.</abstract>
+<wikilink>http://en.wikipedia.org/wiki/Guillermo_Cabrera_Infante?oldid=593693989</wikilink>
+<artworks />
+<buildings />
+<books />
+</Person>

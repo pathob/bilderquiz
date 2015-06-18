@@ -1,0 +1,84 @@
+<Person>
+<name>Eduardo Galeano</name>
+<variantName>
+<XML_Serializer_Tag>Eduardo Hughes Galeano</XML_Serializer_Tag>
+<XML_Serializer_Tag>Eduardo Germán María Hughes Galeano</XML_Serializer_Tag>
+<XML_Serializer_Tag>Alencastro</XML_Serializer_Tag>
+</variantName>
+<thumbnail>https://commons.wikimedia.org/wiki/Special:FilePath/Eduardo_Galeano_(Feria_del_Libro_de_Madrid,_31_de_mayo_de_2008).jpg?width=270</thumbnail>
+<birthEN>September 3, 1940</birthEN>
+<birthDE>3. September 1940</birthDE>
+<deathEN>April 13, 2015</deathEN>
+<deathDE>13. April 2015</deathDE>
+<birthPlace>
+<XML_Serializer_Tag>Montevideo</XML_Serializer_Tag>
+</birthPlace>
+<deathPlace>
+<XML_Serializer_Tag>Montevideo</XML_Serializer_Tag>
+</deathPlace>
+<professionOrOccupation>
+<XML_Serializer_Tag>Schriftsteller</XML_Serializer_Tag>
+<XML_Serializer_Tag>Journalist</XML_Serializer_Tag>
+<XML_Serializer_Tag>Essayist</XML_Serializer_Tag>
+<XML_Serializer_Tag>Kulturkritiker</XML_Serializer_Tag>
+</professionOrOccupation>
+<dbpResource>http://dbpedia.org/resource/Eduardo_Galeano</dbpResource>
+<abstract>Eduardo Hughes Galeano (* 3. September 1940 in Montevideo, Uruguay) ist ein uruguayischer Journalist, Essayist und Schriftsteller.</abstract>
+<wikilink>http://en.wikipedia.org/wiki/Eduardo_Galeano?oldid=594650144</wikilink>
+<artworks />
+<buildings />
+<books>
+<XML_Serializer_Tag>
+<book>
+<type>uri</type>
+<value>http://dbpedia.org/resource/Upside_Down_(book)</value>
+</book>
+<author>
+<type>uri</type>
+<value>http://dbpedia.org/resource/Eduardo_Galeano</value>
+</author>
+<released>
+<type>typed-literal</type>
+<datatype>http://www.w3.org/2001/XMLSchema#integer</datatype>
+<value>2001</value>
+</released>
+<wikilink>
+<type>uri</type>
+<value>http://en.wikipedia.org/wiki/Upside_Down_(book)?oldid=564215372</value>
+</wikilink>
+</XML_Serializer_Tag>
+<XML_Serializer_Tag>
+<book>
+<type>uri</type>
+<value>http://dbpedia.org/resource/Open_Veins_of_Latin_America</value>
+</book>
+<author>
+<type>uri</type>
+<value>http://dbpedia.org/resource/Eduardo_Galeano</value>
+</author>
+<wikilink>
+<type>uri</type>
+<value>http://en.wikipedia.org/wiki/Open_Veins_of_Latin_America?oldid=599436807</value>
+</wikilink>
+<abstract>
+<type>literal</type>
+<xml:lang>de</xml:lang>
+<value>Die offenen Adern Lateinamerikas ist das Hauptwerk des uruguayischen Journalisten, Essayisten und Schriftstellers Eduardo Galeano. Es erschien 1971 in spanischer Sprache unter dem Titel Las venas abiertas de América Latina, die erste deutsche Übersetzung trägt den Untertitel Die Geschichte eines Kontinents.</value>
+</abstract>
+</XML_Serializer_Tag>
+<XML_Serializer_Tag>
+<book>
+<type>uri</type>
+<value>http://dbpedia.org/resource/Days_and_Nights_of_Love_and_War</value>
+</book>
+<author>
+<type>uri</type>
+<value>http://dbpedia.org/resource/Eduardo_Galeano</value>
+</author>
+<wikilink>
+<type>uri</type>
+<value>http://en.wikipedia.org/wiki/Days_and_Nights_of_Love_and_War?oldid=592853730</value>
+</wikilink>
+</XML_Serializer_Tag>
+</books>
+</Person>

@@ -1,0 +1,25 @@
+<Person>
+<name>Erwin Heerich</name>
+<variantName />
+<thumbnail>https://commons.wikimedia.org/wiki/Special:FilePath/Heerich-1.JPG?width=270</thumbnail>
+<birthEN>November 29, 1922</birthEN>
+<birthDE>29. November 1922</birthDE>
+<deathEN>November 6, 2004</deathEN>
+<deathDE>6. November 2004</deathDE>
+<birthPlace>
+<XML_Serializer_Tag>Kassel</XML_Serializer_Tag>
+</birthPlace>
+<deathPlace>
+<XML_Serializer_Tag>Meerbusch</XML_Serializer_Tag>
+</deathPlace>
+<professionOrOccupation>
+<XML_Serializer_Tag>Bildhauer</XML_Serializer_Tag>
+<XML_Serializer_Tag>Graphiker</XML_Serializer_Tag>
+</professionOrOccupation>
+<dbpResource>http://dbpedia.org/resource/Erwin_Heerich</dbpResource>
+<abstract>Erwin Heerich (* 29. November 1922 in Kassel; † 6. November 2004 in Meerbusch-Osterath) war ein deutscher Künstler.</abstract>
+<wikilink>http://en.wikipedia.org/wiki/Erwin_Heerich?oldid=587354529</wikilink>
+<artworks />
+<buildings />
+<books />
+</Person>

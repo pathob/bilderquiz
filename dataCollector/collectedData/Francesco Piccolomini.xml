@@ -1,0 +1,31 @@
+<Person>
+<name>Francesco Piccolomini</name>
+<variantName>
+<XML_Serializer_Tag>Francesco Picolomini</XML_Serializer_Tag>
+<XML_Serializer_Tag>Franciscus Picolomini</XML_Serializer_Tag>
+<XML_Serializer_Tag>Francisco Picolomini</XML_Serializer_Tag>
+<XML_Serializer_Tag>Franciscus Piccolomineus</XML_Serializer_Tag>
+<XML_Serializer_Tag>Franc. Piccolomineus</XML_Serializer_Tag>
+</variantName>
+<thumbnail>https://commons.wikimedia.org/wiki/Special:FilePath/FrancisPiccolomini_2.gif?width=270</thumbnail>
+<birthEN>December 12, 1582</birthEN>
+<birthDE>12. Dezember 1582</birthDE>
+<deathEN>June 17, 1651</deathEN>
+<deathDE>17. Juni 1651</deathDE>
+<birthPlace>
+<XML_Serializer_Tag>Siena</XML_Serializer_Tag>
+</birthPlace>
+<deathPlace>
+<XML_Serializer_Tag>Rom</XML_Serializer_Tag>
+</deathPlace>
+<professionOrOccupation>
+<XML_Serializer_Tag>Philosoph</XML_Serializer_Tag>
+<XML_Serializer_Tag>Katholischer Theologe</XML_Serializer_Tag>
+</professionOrOccupation>
+<dbpResource>http://dbpedia.org/resource/Francesco_Piccolomini_(Jesuit)</dbpResource>
+<abstract>Francesco Piccolomini (* 12. Oktoberjul./ 22. Oktober 1582greg. in Siena; † 17. Juni 1651 in Rom) war der 8. General der Societas Jesu.</abstract>
+<wikilink>http://en.wikipedia.org/wiki/Francesco_Piccolomini_(Jesuit)?oldid=601521527</wikilink>
+<artworks />
+<buildings />
+<books />
+</Person>

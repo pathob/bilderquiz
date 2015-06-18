@@ -13,8 +13,10 @@
 <XML_Serializer_Tag>Kupferstecher</XML_Serializer_Tag>
 <XML_Serializer_Tag>Künstler</XML_Serializer_Tag>
 </professionOrOccupation>
-<artworks />
 <dbpResource>http://dbpedia.org/resource/William_Daniell</dbpResource>
 <abstract>William Daniell (* 1769 in Chertsey, Surrey; † 16. August 1837 in New Camden Town) war ein britischer Maler und Radierer.Daniell begleitete seinen Onkel Thomas Daniell nach Indien und wurde 1822 Mitglied der königlichen Akademie. Er hat eine Menge Zeichnungen und Stiche für Werke geliefert; so war er Mitarbeiter an den bei dem vorigen genannten.</abstract>
 <wikilink>http://en.wikipedia.org/wiki/William_Daniell?oldid=603562605</wikilink>
+<artworks />
+<buildings />
+<books />
 </Person>

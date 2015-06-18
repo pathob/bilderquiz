@@ -1,0 +1,37 @@
+<Person>
+<name>Hermann Samuel Reimarus</name>
+<variantName>
+<XML_Serializer_Tag>Hermannus Samuel Reimarus</XML_Serializer_Tag>
+<XML_Serializer_Tag>Hermann Samuel Reimar</XML_Serializer_Tag>
+<XML_Serializer_Tag>Herrmann Samuel Reimarus</XML_Serializer_Tag>
+<XML_Serializer_Tag>Herman Samuel Reimarus</XML_Serializer_Tag>
+<XML_Serializer_Tag>Herm. Sam. Reimarus</XML_Serializer_Tag>
+<XML_Serializer_Tag>Samuel Reimarus</XML_Serializer_Tag>
+<XML_Serializer_Tag>H. S. R. P. J. H.</XML_Serializer_Tag>
+<XML_Serializer_Tag>H. S. R.</XML_Serializer_Tag>
+</variantName>
+<thumbnail>https://commons.wikimedia.org/wiki/Special:FilePath/Hermann_Samuel_Reimarus.jpg?width=270</thumbnail>
+<birthEN>December 22, 1694</birthEN>
+<birthDE>22. Dezember 1694</birthDE>
+<deathEN>March 1, 1768</deathEN>
+<deathDE>1. März 1768</deathDE>
+<birthPlace>
+<XML_Serializer_Tag>Hamburg</XML_Serializer_Tag>
+</birthPlace>
+<deathPlace>
+<XML_Serializer_Tag>Hamburg</XML_Serializer_Tag>
+</deathPlace>
+<professionOrOccupation>
+<XML_Serializer_Tag>Philosoph</XML_Serializer_Tag>
+<XML_Serializer_Tag>Religionsphilosoph</XML_Serializer_Tag>
+<XML_Serializer_Tag>Philologe</XML_Serializer_Tag>
+<XML_Serializer_Tag>Gymnasiallehrer</XML_Serializer_Tag>
+<XML_Serializer_Tag>Schriftsteller</XML_Serializer_Tag>
+</professionOrOccupation>
+<dbpResource>http://dbpedia.org/resource/Hermann_Samuel_Reimarus</dbpResource>
+<abstract>Hermann Samuel Reimarus (* 22. Dezember 1694 in Hamburg; † 1. März 1768 ebd.) war Gymnasialprofessor für orientalische Sprachen in Hamburg, Vertreter des Deismus und Wegbereiter der Bibelkritik in der Frühzeit der Aufklärung.</abstract>
+<wikilink>http://en.wikipedia.org/wiki/Hermann_Samuel_Reimarus?oldid=602133020</wikilink>
+<artworks />
+<buildings />
+<books />
+</Person>

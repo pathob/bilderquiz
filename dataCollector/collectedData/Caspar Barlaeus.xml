@@ -1,0 +1,42 @@
+<Person>
+<name>Caspar Barlaeus</name>
+<variantName>
+<XML_Serializer_Tag>Kaspar van Baerle</XML_Serializer_Tag>
+<XML_Serializer_Tag>Caspar van Baarle</XML_Serializer_Tag>
+<XML_Serializer_Tag>Caspar van Baerle</XML_Serializer_Tag>
+<XML_Serializer_Tag>Kaspar van Baarle</XML_Serializer_Tag>
+<XML_Serializer_Tag>Gaspar Barlaeus</XML_Serializer_Tag>
+<XML_Serializer_Tag>Casparus Barlaeus</XML_Serializer_Tag>
+<XML_Serializer_Tag>Kaspar von Baerle</XML_Serializer_Tag>
+<XML_Serializer_Tag>Gaspar Barlée</XML_Serializer_Tag>
+<XML_Serializer_Tag>Caspar Barleus</XML_Serializer_Tag>
+<XML_Serializer_Tag>Gaspard van Baerle</XML_Serializer_Tag>
+<XML_Serializer_Tag>Kasper van Baerle</XML_Serializer_Tag>
+<XML_Serializer_Tag>Kaspar Van Baerle</XML_Serializer_Tag>
+<XML_Serializer_Tag>Kaspar VanBaerle</XML_Serializer_Tag>
+</variantName>
+<thumbnail>https://commons.wikimedia.org/wiki/Special:FilePath/Portrait_-_Caspar_Barlaeus_-_Jacob_Buys.jpg?width=270</thumbnail>
+<birthEN>1584</birthEN>
+<birthDE>1584</birthDE>
+<deathEN>1648</deathEN>
+<deathDE>1648</deathDE>
+<birthPlace>
+<XML_Serializer_Tag>Antwerpen</XML_Serializer_Tag>
+</birthPlace>
+<deathPlace>
+<XML_Serializer_Tag>Amsterdam</XML_Serializer_Tag>
+</deathPlace>
+<professionOrOccupation>
+<XML_Serializer_Tag>Philosoph</XML_Serializer_Tag>
+<XML_Serializer_Tag>Theologe</XML_Serializer_Tag>
+<XML_Serializer_Tag>Historiker</XML_Serializer_Tag>
+<XML_Serializer_Tag>Arzt</XML_Serializer_Tag>
+<XML_Serializer_Tag>Schriftsteller</XML_Serializer_Tag>
+</professionOrOccupation>
+<dbpResource>http://dbpedia.org/resource/Caspar_Barlaeus</dbpResource>
+<abstract>Caspar van Baerle (* 12. Februar 1584 in Antwerpen; † 14. Januar 1648 in Amsterdam) war ein bedeutender niederländischer Humanist, Autor, Theologe, Historiker und Dichter. Er latinisierte seinen niederländischen Namen in Casparus Barlaeus.</abstract>
+<wikilink>http://en.wikipedia.org/wiki/Caspar_Barlaeus?oldid=593401732</wikilink>
+<artworks />
+<buildings />
+<books />
+</Person>

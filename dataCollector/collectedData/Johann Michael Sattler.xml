@@ -15,8 +15,10 @@
 <XML_Serializer_Tag>Künstler</XML_Serializer_Tag>
 <XML_Serializer_Tag>Maler</XML_Serializer_Tag>
 </professionOrOccupation>
-<artworks />
 <dbpResource>http://dbpedia.org/resource/Johann_Michael_Sattler</dbpResource>
 <abstract>Johann Michael Sattler (* 28. September 1786 in Neuberg bei Herzogenburg, Niederösterreich; † 28. September 1847 in Mattsee, Land Salzburg) war ein österreichischer Porträt- und Landschaftsmaler des 19. Jahrhunderts und Schöpfer des weltbekannten Sattler-Panoramas.</abstract>
 <wikilink>http://en.wikipedia.org/wiki/Johann_Michael_Sattler?oldid=571321605</wikilink>
+<artworks />
+<buildings />
+<books />
 </Person>

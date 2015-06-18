@@ -1,0 +1,25 @@
+<Person>
+<name>Jakob Stutz</name>
+<variantName>
+<XML_Serializer_Tag>Jacob Stutz</XML_Serializer_Tag>
+<XML_Serializer_Tag>J. Stutz</XML_Serializer_Tag>
+</variantName>
+<thumbnail>https://commons.wikimedia.org/wiki/Special:FilePath/Jakob_Stutz.png?width=270</thumbnail>
+<birthEN>November 27, 1801</birthEN>
+<birthDE>27. November 1801</birthDE>
+<deathEN>May 14, 1877</deathEN>
+<deathDE>14. Mai 1877</deathDE>
+<birthPlace>
+<XML_Serializer_Tag>Isikon</XML_Serializer_Tag>
+</birthPlace>
+<deathPlace />
+<professionOrOccupation>
+<XML_Serializer_Tag>Schriftsteller</XML_Serializer_Tag>
+</professionOrOccupation>
+<dbpResource>http://dbpedia.org/resource/Jakob_Stutz</dbpResource>
+<abstract>Jakob Stutz (* 27. November 1801 in Isikon bei Hittnau, Kanton Zürich; † 14. Mai 1877 in Bettswil bei Bäretswil, Kanton Zürich) war ein Schweizer Schriftsteller und «Volksdichter». Sein Werk stellt die erste Quelle für Sozialgeschichte und Volkskunde des Zürcher Oberlandes dar.</abstract>
+<wikilink>http://en.wikipedia.org/wiki/Jakob_Stutz?oldid=595620104</wikilink>
+<artworks />
+<buildings />
+<books />
+</Person>

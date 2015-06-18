@@ -1,0 +1,28 @@
+<Person>
+<name>Helene Christaller</name>
+<variantName>
+<XML_Serializer_Tag>H. Christaller</XML_Serializer_Tag>
+<XML_Serializer_Tag>Helene Heyer</XML_Serializer_Tag>
+</variantName>
+<thumbnail>https://commons.wikimedia.org/wiki/Special:FilePath/Helene_Christaller.jpg?width=270</thumbnail>
+<birthEN>January 31, 1872</birthEN>
+<birthDE>31. Januar 1872</birthDE>
+<deathEN>April 24, 1953</deathEN>
+<deathDE>24. April 1953</deathDE>
+<birthPlace>
+<XML_Serializer_Tag>Darmstadt</XML_Serializer_Tag>
+</birthPlace>
+<deathPlace>
+<XML_Serializer_Tag>Jugenheim</XML_Serializer_Tag>
+</deathPlace>
+<professionOrOccupation>
+<XML_Serializer_Tag>Schriftstellerin</XML_Serializer_Tag>
+<XML_Serializer_Tag>Dichterin</XML_Serializer_Tag>
+</professionOrOccupation>
+<dbpResource>http://dbpedia.org/resource/Helene_Christaller</dbpResource>
+<abstract>Helene Christaller (geborene Heyer; * 31. Januar 1872 in Darmstadt; † 24. Mai 1953 in Jugenheim/Bergstraße) war eine der bekanntesten evangelischen Schriftstellerinnen ihrer Zeit.</abstract>
+<wikilink>http://en.wikipedia.org/wiki/Helene_Christaller?oldid=586963717</wikilink>
+<artworks />
+<buildings />
+<books />
+</Person>

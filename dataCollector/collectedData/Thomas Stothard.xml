@@ -14,8 +14,10 @@
 <XML_Serializer_Tag>Maler</XML_Serializer_Tag>
 <XML_Serializer_Tag>Kupferstecher</XML_Serializer_Tag>
 </professionOrOccupation>
-<artworks />
 <dbpResource>http://dbpedia.org/resource/Thomas_Stothard</dbpResource>
 <abstract>Thomas Stothard RA (* 17. August 1755 in London; † 27. April 1834 ebenda) war ein englischer Maler und Kupferstecher.</abstract>
 <wikilink>http://en.wikipedia.org/wiki/Thomas_Stothard?oldid=595340160</wikilink>
+<artworks />
+<buildings />
+<books />
 </Person>

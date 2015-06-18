@@ -14,8 +14,10 @@
 <XML_Serializer_Tag>Künstler</XML_Serializer_Tag>
 <XML_Serializer_Tag>Maler</XML_Serializer_Tag>
 </professionOrOccupation>
-<artworks />
 <dbpResource>http://dbpedia.org/resource/Ludwig_Dill</dbpResource>
 <abstract>Ludwig Dill (* 2. Februar 1848 in Gernsbach; † 24. Oktober 1940 in Karlsruhe) war ein deutscher Maler.</abstract>
 <wikilink>http://en.wikipedia.org/wiki/Ludwig_Dill?oldid=606803456</wikilink>
+<artworks />
+<buildings />
+<books />
 </Person>

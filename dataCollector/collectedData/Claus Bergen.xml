@@ -17,8 +17,10 @@
 <professionOrOccupation>
 <XML_Serializer_Tag>Maler</XML_Serializer_Tag>
 </professionOrOccupation>
-<artworks />
 <dbpResource>http://dbpedia.org/resource/Claus_Bergen</dbpResource>
 <abstract>Claus Friedrich Bergen (* 18. April 1885 in Stuttgart; † 4. Oktober 1964 in Lenggries, Oberbayern) war ein deutscher Marinemaler und Karl May-Illustrator.</abstract>
 <wikilink>http://en.wikipedia.org/wiki/Claus_Bergen?oldid=599452822</wikilink>
+<artworks />
+<buildings />
+<books />
 </Person>

@@ -1,0 +1,51 @@
+<Person>
+<name>Richard Harris Barham</name>
+<variantName>
+<XML_Serializer_Tag>Richard H. Barham</XML_Serializer_Tag>
+<XML_Serializer_Tag>Thomas Ingoldsby</XML_Serializer_Tag>
+<XML_Serializer_Tag>George Hector-Epaminondas</XML_Serializer_Tag>
+<XML_Serializer_Tag>R. H. Barham</XML_Serializer_Tag>
+<XML_Serializer_Tag>Richard Barham</XML_Serializer_Tag>
+</variantName>
+<thumbnail>https://commons.wikimedia.org/wiki/Special:FilePath/Richard_Harris_Barham_-_Project_Gutenberg_eText_13220.png?width=270</thumbnail>
+<birthEN>1788</birthEN>
+<birthDE>1788</birthDE>
+<deathEN>1845</deathEN>
+<deathDE>1845</deathDE>
+<birthPlace />
+<deathPlace />
+<professionOrOccupation>
+<XML_Serializer_Tag>Schriftsteller</XML_Serializer_Tag>
+<XML_Serializer_Tag>Humorist</XML_Serializer_Tag>
+</professionOrOccupation>
+<dbpResource>http://dbpedia.org/resource/Richard_Harris_Barham</dbpResource>
+<abstract>Richard Harris Barham (* 6. Dezember 1788 in Canterbury, England; † 17. Juni 1845 in London) war ein englischer Dichter.</abstract>
+<wikilink>http://en.wikipedia.org/wiki/Richard_Harris_Barham?oldid=604567282</wikilink>
+<artworks />
+<buildings />
+<books>
+<XML_Serializer_Tag>
+<book>
+<type>uri</type>
+<value>http://dbpedia.org/resource/The_Ingoldsby_Legends</value>
+</book>
+<author>
+<type>uri</type>
+<value>http://dbpedia.org/resource/Richard_Harris_Barham</value>
+</author>
+<thumbnail>
+<type>uri</type>
+<value>http://commons.wikimedia.org/wiki/Special:FilePath/Briton_Rivière_-_A_Saint,_from_the_&apos;Jackdaw_of_Rheims&apos;.jpg?width=300</value>
+</thumbnail>
+<released>
+<type>typed-literal</type>
+<datatype>http://www.w3.org/2001/XMLSchema#decimal</datatype>
+<value>184018421847</value>
+</released>
+<wikilink>
+<type>uri</type>
+<value>http://en.wikipedia.org/wiki/The_Ingoldsby_Legends?oldid=604782509</value>
+</wikilink>
+</XML_Serializer_Tag>
+</books>
+</Person>

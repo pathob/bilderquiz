@@ -1,0 +1,78 @@
+<Person>
+<name>T. S. Eliot</name>
+<variantName>
+<XML_Serializer_Tag>Thomas S. Eliot</XML_Serializer_Tag>
+<XML_Serializer_Tag>Thomas Stearns Eliot</XML_Serializer_Tag>
+<XML_Serializer_Tag>Th. S. Eliot</XML_Serializer_Tag>
+<XML_Serializer_Tag>Thomas Stearn Eliot</XML_Serializer_Tag>
+<XML_Serializer_Tag>Thomas Stearn Eliot</XML_Serializer_Tag>
+<XML_Serializer_Tag>Ṭī. Esa ̣ Eliyaṭa</XML_Serializer_Tag>
+<XML_Serializer_Tag>Ṭ. S. Ilyūt</XML_Serializer_Tag>
+<XML_Serializer_Tag>Ti. Es. Eliyat</XML_Serializer_Tag>
+</variantName>
+<thumbnail>https://commons.wikimedia.org/wiki/Special:FilePath/Thomas_Stearns_Eliot_by_Lady_Ottoline_Morrell_(1934).jpg?width=270</thumbnail>
+<birthEN>September 26, 1888</birthEN>
+<birthDE>26. September 1888</birthDE>
+<deathEN>January 4, 1965</deathEN>
+<deathDE>4. Januar 1965</deathDE>
+<birthPlace>
+<XML_Serializer_Tag>Saint Louis, Mo.</XML_Serializer_Tag>
+</birthPlace>
+<deathPlace>
+<XML_Serializer_Tag>London</XML_Serializer_Tag>
+</deathPlace>
+<professionOrOccupation>
+<XML_Serializer_Tag>Schriftsteller</XML_Serializer_Tag>
+<XML_Serializer_Tag>Lyriker</XML_Serializer_Tag>
+</professionOrOccupation>
+<dbpResource>http://dbpedia.org/resource/T._S._Eliot</dbpResource>
+<abstract>Thomas Stearns Eliot (* 26. September 1888 in St. Louis, Missouri; † 4. Januar 1965 in London, England) war ein englischsprachiger Lyriker, Dramatiker und Kritiker, der als einer der bedeutendsten Vertreter der literarischen Moderne gilt. Im Jahr 1948 wurde er mit dem Literaturnobelpreis ausgezeichnet.</abstract>
+<wikilink>http://en.wikipedia.org/wiki/T._S._Eliot?oldid=606791005</wikilink>
+<artworks />
+<buildings />
+<books>
+<XML_Serializer_Tag>
+<book>
+<type>uri</type>
+<value>http://dbpedia.org/resource/The_Waste_Land</value>
+</book>
+<author>
+<type>uri</type>
+<value>http://dbpedia.org/resource/T._S._Eliot</value>
+</author>
+<released>
+<type>typed-literal</type>
+<datatype>http://www.w3.org/2001/XMLSchema#integer</datatype>
+<value>1922</value>
+</released>
+<wikilink>
+<type>uri</type>
+<value>http://en.wikipedia.org/wiki/The_Waste_Land?oldid=604366665</value>
+</wikilink>
+<abstract>
+<type>literal</type>
+<xml:lang>de</xml:lang>
+<value>Das wüste Land (englischer Originaltitel: The Waste Land) ist ein 433 Zeilen langes Gedicht des anglo-amerikanischen Literaturnobelpreisträgers T. S. Eliot aus dem Jahr 1922.T.S. Eliot widmete es dem von ihm verehrten Ezra Pound. Auch die Überarbeitung des Textes für die Veröffentlichung, bei der Eliot das Manuskript fast auf die Hälfte kürzte, basierte zum großen Teil auf Vorschlägen Pounds. Eliot verarbeitete in dem Gedicht zahlreiche Texte aus verschiedenen poetischen und religiösen Quellen (u.a. die Bibel, William Shakespeare, Richard Wagner und verschiedene Formen der Artus-Epik). Auch Aspekte antiker Mythen wurden in diesem Gedicht rezipiert, wobei Eliot selbst sein Werk mit einer Vielzahl von erklärenden Fußnoten versah, welche es dem Leser erleichtern, die intertextuellen Anspielungen zu erkennen.</value>
+</abstract>
+</XML_Serializer_Tag>
+<XML_Serializer_Tag>
+<book>
+<type>uri</type>
+<value>http://dbpedia.org/resource/Four_Quartets</value>
+</book>
+<author>
+<type>uri</type>
+<value>http://dbpedia.org/resource/T._S._Eliot</value>
+</author>
+<released>
+<type>typed-literal</type>
+<datatype>http://www.w3.org/2001/XMLSchema#integer</datatype>
+<value>1943</value>
+</released>
+<wikilink>
+<type>uri</type>
+<value>http://en.wikipedia.org/wiki/Four_Quartets?oldid=590553666</value>
+</wikilink>
+</XML_Serializer_Tag>
+</books>
+</Person>

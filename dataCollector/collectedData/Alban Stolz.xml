@@ -1,0 +1,31 @@
+<Person>
+<name>Alban Stolz</name>
+<variantName>
+<XML_Serializer_Tag>Alban Isidor Stolz</XML_Serializer_Tag>
+<XML_Serializer_Tag>Aruban Shutorutsu</XML_Serializer_Tag>
+<XML_Serializer_Tag>Albano Stolz</XML_Serializer_Tag>
+<XML_Serializer_Tag>... Stolz-Telch</XML_Serializer_Tag>
+</variantName>
+<thumbnail>https://commons.wikimedia.org/wiki/Special:FilePath/Alban_Stolz_1.jpg?width=270</thumbnail>
+<birthEN>February 3, 1808</birthEN>
+<birthDE>3. Februar 1808</birthDE>
+<deathEN>October 16, 1883</deathEN>
+<deathDE>16. Oktober 1883</deathDE>
+<birthPlace>
+<XML_Serializer_Tag>Bühl (Baden)</XML_Serializer_Tag>
+</birthPlace>
+<deathPlace>
+<XML_Serializer_Tag>Freiburg im Breisgau</XML_Serializer_Tag>
+</deathPlace>
+<professionOrOccupation>
+<XML_Serializer_Tag>Christlicher Schriftsteller</XML_Serializer_Tag>
+<XML_Serializer_Tag>Katholischer Theologe</XML_Serializer_Tag>
+<XML_Serializer_Tag>Pädagoge</XML_Serializer_Tag>
+</professionOrOccupation>
+<dbpResource>http://dbpedia.org/resource/Alban_Stolz</dbpResource>
+<abstract>Alban Isidor Stolz (* 3. Februar 1808 in Bühl (Baden); † 16. Oktober 1883 in Freiburg im Breisgau) war ein katholischer Theologieprofessor, Volksschriftsteller und Erziehungswissenschaftler.</abstract>
+<wikilink>http://en.wikipedia.org/wiki/Alban_Stolz?oldid=605775376</wikilink>
+<artworks />
+<buildings />
+<books />
+</Person>

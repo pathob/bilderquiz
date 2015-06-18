@@ -1,0 +1,64 @@
+<Person>
+<name>Max Horkheimer</name>
+<variantName>
+<XML_Serializer_Tag>M. Hôrqheimer</XML_Serializer_Tag>
+<XML_Serializer_Tag>... Horkheimer-Adorno</XML_Serializer_Tag>
+<XML_Serializer_Tag>Maks Chorkchajmer</XML_Serializer_Tag>
+<XML_Serializer_Tag>Māks Hūrkhāymir</XML_Serializer_Tag>
+<XML_Serializer_Tag>Mak̕s Horkhaimeri</XML_Serializer_Tag>
+<XML_Serializer_Tag>Heinrich Regius</XML_Serializer_Tag>
+<XML_Serializer_Tag>Max Chorkchai͏̈mer</XML_Serializer_Tag>
+<XML_Serializer_Tag>Maks Horkhajmer</XML_Serializer_Tag>
+<XML_Serializer_Tag>M. Horkheimer</XML_Serializer_Tag>
+<XML_Serializer_Tag>Makesi Huokehaimo</XML_Serializer_Tag>
+<XML_Serializer_Tag>Makss Horkheimers</XML_Serializer_Tag>
+<XML_Serializer_Tag>Ma ke si Huo ke hai mo</XML_Serializer_Tag>
+<XML_Serializer_Tag>Makesi-Huokehaimo</XML_Serializer_Tag>
+<XML_Serializer_Tag>Makesi Huokehaimo</XML_Serializer_Tag>
+<XML_Serializer_Tag>马克斯・霍克海默</XML_Serializer_Tag>
+<XML_Serializer_Tag>马克斯 霍克海默</XML_Serializer_Tag>
+<XML_Serializer_Tag>מקס הורקהיימר</XML_Serializer_Tag>
+<XML_Serializer_Tag>ホルクハイマー・マックス</XML_Serializer_Tag>
+</variantName>
+<thumbnail>https://commons.wikimedia.org/wiki/Special:FilePath/AdornoHorkheimerHabermasbyJeremyJShapiro2.png?width=270</thumbnail>
+<birthEN>February 14, 1895</birthEN>
+<birthDE>14. Februar 1895</birthDE>
+<deathEN>July 7, 1973</deathEN>
+<deathDE>7. Juli 1973</deathDE>
+<birthPlace>
+<XML_Serializer_Tag>Stuttgart</XML_Serializer_Tag>
+</birthPlace>
+<deathPlace>
+<XML_Serializer_Tag>Nürnberg</XML_Serializer_Tag>
+</deathPlace>
+<professionOrOccupation>
+<XML_Serializer_Tag>Philosoph</XML_Serializer_Tag>
+<XML_Serializer_Tag>Soziologe</XML_Serializer_Tag>
+</professionOrOccupation>
+<dbpResource>http://dbpedia.org/resource/Max_Horkheimer</dbpResource>
+<abstract>Max Horkheimer (* 14. Februar 1895 in Zuffenhausen, heute zu Stuttgart; † 7. Juli 1973 in Nürnberg) war ein deutscher Sozialphilosoph und führender Kopf der Frankfurter Schule.</abstract>
+<wikilink>http://en.wikipedia.org/wiki/Max_Horkheimer?oldid=604883153</wikilink>
+<artworks />
+<buildings />
+<books>
+<XML_Serializer_Tag>
+<book>
+<type>uri</type>
+<value>http://dbpedia.org/resource/Dialectic_of_Enlightenment</value>
+</book>
+<author>
+<type>uri</type>
+<value>http://dbpedia.org/resource/Max_Horkheimer</value>
+</author>
+<wikilink>
+<type>uri</type>
+<value>http://en.wikipedia.org/wiki/Dialectic_of_Enlightenment?oldid=604790276</value>
+</wikilink>
+<abstract>
+<type>literal</type>
+<xml:lang>de</xml:lang>
+<value>Dialektik der Aufklärung ist eine im Untertitel als Philosophische Fragmente bezeichnete Sammlung von Essays von Max Horkheimer und Theodor W. Adorno und gilt als eines der grundlegenden Werke zur Kritischen Theorie der Frankfurter Schule.Angesichts des Triumphs von Faschismus und monopolistischem Kapitalismus als neuen Herrschaftsformen, denen die Gesellschaft keinen nennenswerten Widerstand entgegensetzt, unterziehen die Autoren den Vernunftbegriff der Aufklärung einer radikalen Kritik. Sie formulieren die These, dass sich bereits am Beginn der Menschheitsgeschichte mit der Selbstbehauptung des Subjekts gegenüber einer bedrohlichen Natur eine instrumentelle Vernunft durchgesetzt habe, die sich als Herrschaft über innere und äußere Natur befestigte. Aufgrund dieses „Herrschaftscharakters“ der Vernunft sei die Aufklärung in Mythologie zurückgeschlagen. Die „Verschlingung von Mythos und Aufklärung“ (Habermas) habe einen universellen Selbstzerstörungsprozess der Aufklärung in Gang gesetzt. Diesem Prozess durch „Selbstbesinnung“ und Selbstkritik der Aufklärung Einhalt zu gebieten, ist ein zentrales Motiv der Autoren.</value>
+</abstract>
+</XML_Serializer_Tag>
+</books>
+</Person>

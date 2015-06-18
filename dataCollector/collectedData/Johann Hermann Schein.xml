@@ -1,0 +1,39 @@
+<Person>
+<name>Johann Hermann Schein</name>
+<variantName>
+<XML_Serializer_Tag>... Schein</XML_Serializer_Tag>
+<XML_Serializer_Tag>Johann Hermannus Scheinius</XML_Serializer_Tag>
+<XML_Serializer_Tag>Joh. Herm. Schein</XML_Serializer_Tag>
+<XML_Serializer_Tag>Johann-Hermann Schein</XML_Serializer_Tag>
+<XML_Serializer_Tag>Hermann Schein</XML_Serializer_Tag>
+<XML_Serializer_Tag>Iohan-Hermanus Schein</XML_Serializer_Tag>
+<XML_Serializer_Tag>Johan-Hermanus Schein</XML_Serializer_Tag>
+<XML_Serializer_Tag>Johannes Hermann Schein</XML_Serializer_Tag>
+<XML_Serializer_Tag>Johann Herman Schein</XML_Serializer_Tag>
+<XML_Serializer_Tag>Johan Herman Schein</XML_Serializer_Tag>
+<XML_Serializer_Tag>Johan-Herman Schein</XML_Serializer_Tag>
+<XML_Serializer_Tag>J. H. Schein</XML_Serializer_Tag>
+<XML_Serializer_Tag>Johann H. Schein</XML_Serializer_Tag>
+</variantName>
+<thumbnail>https://commons.wikimedia.org/wiki/Special:FilePath/Johann_Hermann_Schein.png?width=270</thumbnail>
+<birthEN>January 20, 1586</birthEN>
+<birthDE>20. Januar 1586</birthDE>
+<deathEN>November 19, 1630</deathEN>
+<deathDE>19. November 1630</deathDE>
+<birthPlace>
+<XML_Serializer_Tag>Grünhain</XML_Serializer_Tag>
+</birthPlace>
+<deathPlace>
+<XML_Serializer_Tag>Leipzig</XML_Serializer_Tag>
+</deathPlace>
+<professionOrOccupation>
+<XML_Serializer_Tag>Komponist</XML_Serializer_Tag>
+<XML_Serializer_Tag>Schriftsteller</XML_Serializer_Tag>
+</professionOrOccupation>
+<dbpResource>http://dbpedia.org/resource/Johann_Schein</dbpResource>
+<abstract>Johann Hermann Schein (* 20. Januar 1586 in Grünhain; † 19. November 1630 in Leipzig) war ein deutscher Dichter und Komponist des Barock. Er war Thomaskantor von 1616 bis 1630.</abstract>
+<wikilink>http://en.wikipedia.org/wiki/Johann_Schein?oldid=597000515</wikilink>
+<artworks />
+<buildings />
+<books />
+</Person>

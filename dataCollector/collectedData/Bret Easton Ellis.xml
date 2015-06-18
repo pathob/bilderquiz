@@ -1,0 +1,133 @@
+<Person>
+<name>Bret Easton Ellis</name>
+<variantName>
+<XML_Serializer_Tag>Bret Easton Ellis</XML_Serializer_Tag>
+<XML_Serializer_Tag>Bret E. Ellis</XML_Serializer_Tag>
+<XML_Serializer_Tag>Bret Easton-Ellis</XML_Serializer_Tag>
+<XML_Serializer_Tag>Brett Easton Ellis</XML_Serializer_Tag>
+<XML_Serializer_Tag>Brett Easton Ellis</XML_Serializer_Tag>
+<XML_Serializer_Tag>Brett Easton-Ellis</XML_Serializer_Tag>
+</variantName>
+<thumbnail>https://commons.wikimedia.org/wiki/Special:FilePath/Bret_Easton_Ellis.jpg?width=270</thumbnail>
+<birthEN>1964</birthEN>
+<birthDE>1964</birthDE>
+<deathEN />
+<deathDE />
+<birthPlace />
+<deathPlace />
+<professionOrOccupation>
+<XML_Serializer_Tag>Schriftsteller</XML_Serializer_Tag>
+</professionOrOccupation>
+<dbpResource>http://dbpedia.org/resource/Bret_Easton_Ellis</dbpResource>
+<abstract>Bret Easton Ellis (* 7. März 1964 in Los Angeles) ist ein US-amerikanischer Schriftsteller.</abstract>
+<wikilink>http://en.wikipedia.org/wiki/Bret_Easton_Ellis?oldid=606393712</wikilink>
+<artworks />
+<buildings />
+<books>
+<XML_Serializer_Tag>
+<book>
+<type>uri</type>
+<value>http://dbpedia.org/resource/Lunar_Park</value>
+</book>
+<author>
+<type>uri</type>
+<value>http://dbpedia.org/resource/Bret_Easton_Ellis</value>
+</author>
+<released>
+<type>typed-literal</type>
+<datatype>http://www.w3.org/2001/XMLSchema#date</datatype>
+<value>2005-08-16+02:00</value>
+</released>
+<wikilink>
+<type>uri</type>
+<value>http://en.wikipedia.org/wiki/Lunar_Park?oldid=567975763</value>
+</wikilink>
+<abstract>
+<type>literal</type>
+<xml:lang>de</xml:lang>
+<value>Lunar Park ist ein Roman des US-amerikanischen Autors Bret Easton Ellis. In der deutschen Übersetzung erschien das Buch im Januar 2006. Die amerikanische Originalfassung kam am 16. August 2005 auf den Markt. Der Erzähler des Textes ist eine Figur namens Bret Easton Ellis und deckt sich an einigen Stellen mit der Biografie des gleichnamigen Autors.</value>
+</abstract>
+</XML_Serializer_Tag>
+<XML_Serializer_Tag>
+<book>
+<type>uri</type>
+<value>http://dbpedia.org/resource/Less_Than_Zero_(novel)</value>
+</book>
+<author>
+<type>uri</type>
+<value>http://dbpedia.org/resource/Bret_Easton_Ellis</value>
+</author>
+<released>
+<type>typed-literal</type>
+<datatype>http://www.w3.org/2001/XMLSchema#integer</datatype>
+<value>1985</value>
+</released>
+<wikilink>
+<type>uri</type>
+<value>http://en.wikipedia.org/wiki/Less_Than_Zero_(novel)?oldid=606359558</value>
+</wikilink>
+<abstract>
+<type>literal</type>
+<xml:lang>de</xml:lang>
+<value>Unter Null (Less Than Zero) ist der erste Roman von Bret Easton Ellis, welcher erstmals 1985 vom Penguin Verlag herausgebracht wurde. Ellis veröffentlichte ihn noch in seiner Studienzeit als 21-Jähriger. In seinem Erscheinungsjahr verkaufte es sich 50.000 mal.</value>
+</abstract>
+</XML_Serializer_Tag>
+<XML_Serializer_Tag>
+<book>
+<type>uri</type>
+<value>http://dbpedia.org/resource/Glamorama</value>
+</book>
+<author>
+<type>uri</type>
+<value>http://dbpedia.org/resource/Bret_Easton_Ellis</value>
+</author>
+<released>
+<type>typed-literal</type>
+<datatype>http://www.w3.org/2001/XMLSchema#date</datatype>
+<value>1998-12-29+02:00</value>
+</released>
+<wikilink>
+<type>uri</type>
+<value>http://en.wikipedia.org/wiki/Glamorama?oldid=604128120</value>
+</wikilink>
+</XML_Serializer_Tag>
+<XML_Serializer_Tag>
+<book>
+<type>uri</type>
+<value>http://dbpedia.org/resource/Imperial_Bedrooms</value>
+</book>
+<author>
+<type>uri</type>
+<value>http://dbpedia.org/resource/Bret_Easton_Ellis</value>
+</author>
+<released>
+<type>typed-literal</type>
+<datatype>http://www.w3.org/2001/XMLSchema#date</datatype>
+<value>2010-06-15+02:00</value>
+</released>
+<wikilink>
+<type>uri</type>
+<value>http://en.wikipedia.org/wiki/Imperial_Bedrooms?oldid=595673454</value>
+</wikilink>
+</XML_Serializer_Tag>
+<XML_Serializer_Tag>
+<book>
+<type>uri</type>
+<value>http://dbpedia.org/resource/The_Rules_of_Attraction</value>
+</book>
+<author>
+<type>uri</type>
+<value>http://dbpedia.org/resource/Bret_Easton_Ellis</value>
+</author>
+<wikilink>
+<type>uri</type>
+<value>http://en.wikipedia.org/wiki/The_Rules_of_Attraction?oldid=603225083</value>
+</wikilink>
+<abstract>
+<type>literal</type>
+<xml:lang>de</xml:lang>
+<value>Einfach unwiderstehlich (The Rules of Attraction) ist der zweite Roman des 1964 in Los Angeles geborenen Autors Bret Easton Ellis (American Psycho; Unter Null; Lunar Park). Er erschien im Jahre 1987, zwei Jahre nach Ellis’ Bestsellerdebüt Unter Null (Less Than Zero). Im Mittelpunkt stehen der Collegestudent Sean Bateman (der jüngere Bruder des Patrick Bateman aus Ellis’ Kultroman American Psycho) sowie seine beiden Kommilitonen Lauren Hynde und Paul Denton. Die Geschichte wird abwechselnd aus der Sicht eines der jeweiligen Protagonisten erzählt, sodass verschiedene Situationen zwei Mal aus unterschiedlicher Sicht gezeigt werden.</value>
+</abstract>
+</XML_Serializer_Tag>
+</books>
+</Person>

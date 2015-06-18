@@ -1,0 +1,31 @@
+<Person>
+<name>Ivan Olbracht</name>
+<variantName>
+<XML_Serializer_Tag>Iwan Olbracht</XML_Serializer_Tag>
+<XML_Serializer_Tag>Ivan Olbraht</XML_Serializer_Tag>
+<XML_Serializer_Tag>Kamil Zeman</XML_Serializer_Tag>
+<XML_Serializer_Tag>Zeman Kamil</XML_Serializer_Tag>
+</variantName>
+<thumbnail>https://commons.wikimedia.org/wiki/Special:FilePath/Ivan_Olbracht_1929.jpg?width=270</thumbnail>
+<birthEN>1882</birthEN>
+<birthDE>1882</birthDE>
+<deathEN>1952</deathEN>
+<deathDE>1952</deathDE>
+<birthPlace>
+<XML_Serializer_Tag>Semily</XML_Serializer_Tag>
+</birthPlace>
+<deathPlace>
+<XML_Serializer_Tag>Prag</XML_Serializer_Tag>
+</deathPlace>
+<professionOrOccupation>
+<XML_Serializer_Tag>Schriftsteller</XML_Serializer_Tag>
+<XML_Serializer_Tag>Journalist</XML_Serializer_Tag>
+<XML_Serializer_Tag>Übersetzer</XML_Serializer_Tag>
+</professionOrOccupation>
+<dbpResource>http://dbpedia.org/resource/Ivan_Olbracht</dbpResource>
+<abstract>Ivan Olbracht (eigentlich Kamil Zeman; * 6. Januar 1882 in Semily; † 20. Dezember 1952 in Prag) war ein tschechischer Schriftsteller, Publizist, Journalist und Übersetzer deutscher Prosa.</abstract>
+<wikilink>http://en.wikipedia.org/wiki/Ivan_Olbracht?oldid=601559062</wikilink>
+<artworks />
+<buildings />
+<books />
+</Person>

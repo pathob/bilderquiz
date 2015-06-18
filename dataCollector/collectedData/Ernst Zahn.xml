@@ -1,0 +1,28 @@
+<Person>
+<name>Ernst Zahn</name>
+<variantName>
+<XML_Serializer_Tag>Ernest Zahn</XML_Serializer_Tag>
+</variantName>
+<thumbnail>https://commons.wikimedia.org/wiki/Special:FilePath/WP_Ernst_Zahn.jpg?width=270</thumbnail>
+<birthEN>January 24, 1867</birthEN>
+<birthDE>24. Januar 1867</birthDE>
+<deathEN>February 12, 1952</deathEN>
+<deathDE>12. Februar 1952</deathDE>
+<birthPlace>
+<XML_Serializer_Tag>Zürich</XML_Serializer_Tag>
+</birthPlace>
+<deathPlace>
+<XML_Serializer_Tag>Meggen, Luzern, Schweiz</XML_Serializer_Tag>
+</deathPlace>
+<professionOrOccupation>
+<XML_Serializer_Tag>Restaurator</XML_Serializer_Tag>
+<XML_Serializer_Tag>Schriftsteller</XML_Serializer_Tag>
+<XML_Serializer_Tag>Novellist</XML_Serializer_Tag>
+</professionOrOccupation>
+<dbpResource>http://dbpedia.org/resource/Ernst_Zahn</dbpResource>
+<abstract>Ernst Zahn (* 24. Januar 1867 in Zürich; † 12. Februar 1952 in Meggen LU) war ein Schweizer Schriftsteller.</abstract>
+<wikilink>http://en.wikipedia.org/wiki/Ernst_Zahn?oldid=570901400</wikilink>
+<artworks />
+<buildings />
+<books />
+</Person>

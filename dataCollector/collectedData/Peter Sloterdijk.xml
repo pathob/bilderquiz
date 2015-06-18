@@ -1,0 +1,32 @@
+<Person>
+<name>Peter Sloterdijk</name>
+<variantName>
+<XML_Serializer_Tag>Peter Slöterdijk</XML_Serializer_Tag>
+<XML_Serializer_Tag>Peter Sloterdajk</XML_Serializer_Tag>
+<XML_Serializer_Tag>Pētā Surōtādaiku</XML_Serializer_Tag>
+<XML_Serializer_Tag>Petrus Sloterdijk</XML_Serializer_Tag>
+<XML_Serializer_Tag>Bītir Slūtirdāyīk</XML_Serializer_Tag>
+</variantName>
+<thumbnail>https://commons.wikimedia.org/wiki/Special:FilePath/Peter_Sloterdijk,_Karlsruhe_07-2009,_IMGP3019.jpg?width=270</thumbnail>
+<birthEN>1947</birthEN>
+<birthDE>1947</birthDE>
+<deathEN />
+<deathDE />
+<birthPlace>
+<XML_Serializer_Tag>Karlsruhe</XML_Serializer_Tag>
+</birthPlace>
+<deathPlace />
+<professionOrOccupation>
+<XML_Serializer_Tag>Philosoph</XML_Serializer_Tag>
+<XML_Serializer_Tag>Kulturwissenschaftler</XML_Serializer_Tag>
+<XML_Serializer_Tag>Rektor</XML_Serializer_Tag>
+<XML_Serializer_Tag>Schriftsteller</XML_Serializer_Tag>
+<XML_Serializer_Tag>Moderator</XML_Serializer_Tag>
+</professionOrOccupation>
+<dbpResource>http://dbpedia.org/resource/Peter_Sloterdijk</dbpResource>
+<abstract>Peter Sloterdijk [ˈsloːtɐˌdaɪk] (* 26. Juni 1947 in Karlsruhe) ist ein deutscher Philosoph, Kulturwissenschaftler und Buchautor, der mit seinen Beiträgen und Büchern in Deutschland zahlreiche Debatten ausgelöst hat.</abstract>
+<wikilink>http://en.wikipedia.org/wiki/Peter_Sloterdijk?oldid=605585981</wikilink>
+<artworks />
+<buildings />
+<books />
+</Person>

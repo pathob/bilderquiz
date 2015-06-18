@@ -1,0 +1,45 @@
+<Person>
+<name>Donald Barthelme</name>
+<variantName />
+<thumbnail>https://commons.wikimedia.org/wiki/Special:FilePath/Donald_Barthelme_(author).jpg?width=270</thumbnail>
+<birthEN>April 7, 1931</birthEN>
+<birthDE>7. April 1931</birthDE>
+<deathEN>July 23, 1989</deathEN>
+<deathDE>23. Juli 1989</deathDE>
+<birthPlace>
+<XML_Serializer_Tag>Philadelphia, Pa.</XML_Serializer_Tag>
+</birthPlace>
+<deathPlace>
+<XML_Serializer_Tag>Houston, Tex.</XML_Serializer_Tag>
+</deathPlace>
+<professionOrOccupation>
+<XML_Serializer_Tag>Schriftsteller</XML_Serializer_Tag>
+<XML_Serializer_Tag>Schriftsteller</XML_Serializer_Tag>
+</professionOrOccupation>
+<dbpResource>http://dbpedia.org/resource/Donald_Barthelme</dbpResource>
+<abstract>Donald Barthelme (* 7. April 1931 in Philadelphia; † 23. Juli 1989 in Houston, Texas) war ein amerikanischer Schriftsteller. Er gilt als einer der bedeutendsten Vertreter der „new fiction“ bzw. der amerikanischen Postmoderne.</abstract>
+<wikilink>http://en.wikipedia.org/wiki/Donald_Barthelme?oldid=605589179</wikilink>
+<artworks />
+<buildings />
+<books>
+<XML_Serializer_Tag>
+<book>
+<type>uri</type>
+<value>http://dbpedia.org/resource/The_Dead_Father</value>
+</book>
+<author>
+<type>uri</type>
+<value>http://dbpedia.org/resource/Donald_Barthelme</value>
+</author>
+<released>
+<type>typed-literal</type>
+<datatype>http://www.w3.org/2001/XMLSchema#integer</datatype>
+<value>1975</value>
+</released>
+<wikilink>
+<type>uri</type>
+<value>http://en.wikipedia.org/wiki/The_Dead_Father?oldid=584668451</value>
+</wikilink>
+</XML_Serializer_Tag>
+</books>
+</Person>

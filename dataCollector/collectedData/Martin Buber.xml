@@ -1,0 +1,39 @@
+<Person>
+<name>Martin Buber</name>
+<variantName>
+<XML_Serializer_Tag>Martin Mpumper</XML_Serializer_Tag>
+<XML_Serializer_Tag>Mordekay Martîn Bûber</XML_Serializer_Tag>
+<XML_Serializer_Tag>Mordekaj Marṭin Būber</XML_Serializer_Tag>
+<XML_Serializer_Tag>Marutin Būbā</XML_Serializer_Tag>
+<XML_Serializer_Tag>Mordehai Martin Buber</XML_Serializer_Tag>
+<XML_Serializer_Tag>Martin Mordehai Buber</XML_Serializer_Tag>
+<XML_Serializer_Tag>Marṭin Buber</XML_Serializer_Tag>
+<XML_Serializer_Tag>מרדכי מרטין בובר</XML_Serializer_Tag>
+<XML_Serializer_Tag>מרטין בובר</XML_Serializer_Tag>
+</variantName>
+<thumbnail>https://commons.wikimedia.org/wiki/Special:FilePath/Martin_Buber_portrait.jpg?width=270</thumbnail>
+<birthEN>February 8, 1878</birthEN>
+<birthDE>8. Februar 1878</birthDE>
+<deathEN>June 13, 1965</deathEN>
+<deathDE>13. Juni 1965</deathDE>
+<birthPlace>
+<XML_Serializer_Tag>Wien</XML_Serializer_Tag>
+</birthPlace>
+<deathPlace>
+<XML_Serializer_Tag>Jerusalem</XML_Serializer_Tag>
+</deathPlace>
+<professionOrOccupation>
+<XML_Serializer_Tag>Religionsphilosoph</XML_Serializer_Tag>
+<XML_Serializer_Tag>Philosoph</XML_Serializer_Tag>
+<XML_Serializer_Tag>Schriftsteller</XML_Serializer_Tag>
+<XML_Serializer_Tag>Pädagoge</XML_Serializer_Tag>
+<XML_Serializer_Tag>Theologe</XML_Serializer_Tag>
+<XML_Serializer_Tag>Übersetzer</XML_Serializer_Tag>
+</professionOrOccupation>
+<dbpResource>http://dbpedia.org/resource/Martin_Buber</dbpResource>
+<abstract>Martin Buber (* 8. Februar 1878 in Wien; † 13. Juni 1965 in Jerusalem) war ein österreichisch-israelischer jüdischer Religionsphilosoph.</abstract>
+<wikilink>http://en.wikipedia.org/wiki/Martin_Buber?oldid=603270958</wikilink>
+<artworks />
+<buildings />
+<books />
+</Person>

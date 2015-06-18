@@ -1,0 +1,32 @@
+<Person>
+<name>Joachim Lelewel</name>
+<variantName>
+<XML_Serializer_Tag>Joachim Józef Benedykt Lelewel</XML_Serializer_Tag>
+<XML_Serializer_Tag>Ignacy Lelewel</XML_Serializer_Tag>
+<XML_Serializer_Tag>Joachim Lelevel</XML_Serializer_Tag>
+<XML_Serializer_Tag>Joachim Lelevela</XML_Serializer_Tag>
+<XML_Serializer_Tag>Ioachim Lelevel&apos;</XML_Serializer_Tag>
+</variantName>
+<thumbnail>https://commons.wikimedia.org/wiki/Special:FilePath/Joachim_Lelewel_q.PNG?width=270</thumbnail>
+<birthEN>March 22, 1786</birthEN>
+<birthDE>22. März 1786</birthDE>
+<deathEN>May 29, 1861</deathEN>
+<deathDE>29. Mai 1861</deathDE>
+<birthPlace>
+<XML_Serializer_Tag>Warschau</XML_Serializer_Tag>
+</birthPlace>
+<deathPlace>
+<XML_Serializer_Tag>Paris</XML_Serializer_Tag>
+</deathPlace>
+<professionOrOccupation>
+<XML_Serializer_Tag>Historiker</XML_Serializer_Tag>
+<XML_Serializer_Tag>Archäologe</XML_Serializer_Tag>
+<XML_Serializer_Tag>Schriftsteller</XML_Serializer_Tag>
+</professionOrOccupation>
+<dbpResource>http://dbpedia.org/resource/Joachim_Lelewel</dbpResource>
+<abstract>Joachim Lelewel (* 22. März 1786 in Warschau; † 29. Mai 1861 in Paris) war ein polnischer Freiheitskämpfer und Historiker.</abstract>
+<wikilink>http://en.wikipedia.org/wiki/Joachim_Lelewel?oldid=598377701</wikilink>
+<artworks />
+<buildings />
+<books />
+</Person>

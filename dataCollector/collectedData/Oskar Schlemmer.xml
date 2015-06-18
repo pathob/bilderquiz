@@ -18,8 +18,10 @@
 <XML_Serializer_Tag>Bildhauer</XML_Serializer_Tag>
 <XML_Serializer_Tag>Bühnenbildner</XML_Serializer_Tag>
 </professionOrOccupation>
-<artworks />
 <dbpResource>http://dbpedia.org/resource/Oskar_Schlemmer</dbpResource>
 <abstract>Oskar Schlemmer (* 4. September 1888 in Stuttgart; † 13. April 1943 in Baden-Baden) war ein deutscher Maler, Bildhauer und Bühnenbildner.Schlemmer thematisierte in seinen Werken vornehmlich die Stellung der menschlichen Figur im Raum. In seiner Hauptschaffensperiode (1920–1932) entstanden zahlreiche Gemälde stereometrischer Figuren sowie ineinander greifender Figurengruppen, in deren geometrisch-choreographischer Ausgestaltung universelle Harmonisierungsbestrebungen anklingen.</abstract>
 <wikilink>http://en.wikipedia.org/wiki/Oskar_Schlemmer?oldid=606605649</wikilink>
+<artworks />
+<buildings />
+<books />
 </Person>

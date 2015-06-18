@@ -1,0 +1,45 @@
+<Person>
+<name>Jung Chang</name>
+<variantName>
+<XML_Serializer_Tag>Rong Zhang</XML_Serializer_Tag>
+<XML_Serializer_Tag>Jung Chan</XML_Serializer_Tag>
+<XML_Serializer_Tag>Chang Jung</XML_Serializer_Tag>
+<XML_Serializer_Tag>Jung Chang</XML_Serializer_Tag>
+</variantName>
+<thumbnail>https://commons.wikimedia.org/wiki/Special:FilePath/Jung_Chang_-London,_England-15Jan2010.jpg?width=270</thumbnail>
+<birthEN>1952</birthEN>
+<birthDE>1952</birthDE>
+<deathEN />
+<deathDE />
+<birthPlace />
+<deathPlace />
+<professionOrOccupation>
+<XML_Serializer_Tag>Schriftstellerin</XML_Serializer_Tag>
+</professionOrOccupation>
+<dbpResource>http://dbpedia.org/resource/Jung_Chang</dbpResource>
+<abstract>Jung Chang (chinesisch 張戎 / 张戎, Pinyin Zhāng Róng; * 25. März 1952 in Yibin) ist eine chinesischstämmige britische Schriftstellerin. Mit ihrer über 10 Millionen mal verkauften Autobiographie Wilde Schwäne erreichte sie weltweite Bekanntheit. Im Juni 2005 erschien eine bei Historikern und Sinologen heftig umstrittene Biographie zu Mao Zedong, die sie zusammen mit ihrem Ehemann Jon Halliday verfasst hatte. Ihre Werke sind in der Volksrepublik China verboten.</abstract>
+<wikilink>http://en.wikipedia.org/wiki/Jung_Chang?oldid=606782563</wikilink>
+<artworks />
+<buildings />
+<books>
+<XML_Serializer_Tag>
+<book>
+<type>uri</type>
+<value>http://dbpedia.org/resource/Mao:_The_Unknown_Story</value>
+</book>
+<author>
+<type>uri</type>
+<value>http://dbpedia.org/resource/Jung_Chang</value>
+</author>
+<released>
+<type>typed-literal</type>
+<datatype>http://www.w3.org/2001/XMLSchema#date</datatype>
+<value>2005-06-02+02:00</value>
+</released>
+<wikilink>
+<type>uri</type>
+<value>http://en.wikipedia.org/wiki/Mao:_The_Unknown_Story?oldid=606213208</value>
+</wikilink>
+</XML_Serializer_Tag>
+</books>
+</Person>

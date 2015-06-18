@@ -12,8 +12,10 @@
 <XML_Serializer_Tag>Künstler</XML_Serializer_Tag>
 <XML_Serializer_Tag>Maler</XML_Serializer_Tag>
 </professionOrOccupation>
-<artworks />
 <dbpResource>http://dbpedia.org/resource/Philipp_Hieronymus_Brinckmann</dbpResource>
 <abstract>Philipp Hieronymus Brinckmann (* 1709 in Speyer; † 21. Dezember 1760 in Mannheim) war ein deutscher Landschafts- und Historienmaler sowie Kupferstecher am Kurpfälzer Hof in Mannheim.</abstract>
 <wikilink>http://en.wikipedia.org/wiki/Philipp_Hieronymus_Brinckmann?oldid=590892914</wikilink>
+<artworks />
+<buildings />
+<books />
 </Person>

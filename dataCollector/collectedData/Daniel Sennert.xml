@@ -1,0 +1,29 @@
+<Person>
+<name>Daniel Sennert</name>
+<variantName>
+<XML_Serializer_Tag>Daniel Sennertus</XML_Serializer_Tag>
+<XML_Serializer_Tag>... Sennertus</XML_Serializer_Tag>
+<XML_Serializer_Tag>Daniel Sennert</XML_Serializer_Tag>
+</variantName>
+<thumbnail>https://commons.wikimedia.org/wiki/Special:FilePath/Daniel-Sennert.jpg?width=270</thumbnail>
+<birthEN>November 25, 1572</birthEN>
+<birthDE>25. November 1572</birthDE>
+<deathEN>July 21, 1637</deathEN>
+<deathDE>21. Juli 1637</deathDE>
+<birthPlace>
+<XML_Serializer_Tag>Breslau</XML_Serializer_Tag>
+</birthPlace>
+<deathPlace>
+<XML_Serializer_Tag>Wittenberg</XML_Serializer_Tag>
+</deathPlace>
+<professionOrOccupation>
+<XML_Serializer_Tag>Arzt</XML_Serializer_Tag>
+<XML_Serializer_Tag>Philosoph</XML_Serializer_Tag>
+</professionOrOccupation>
+<dbpResource>http://dbpedia.org/resource/Daniel_Sennert</dbpResource>
+<abstract>Daniel Sennert (* 25. November 1572 in Breslau; † 21. Juli 1637 in Wittenberg) war ein deutscher Arzt. Sennert setzte sich für die Einführung der Chemie in die Medizin (Iatrochemie) ein und genoss als Arzt hohes Ansehen. Er gehörte zu den Einern der verschiedenen Stofflehren im frühen 17. Jahrhundert und setzte sich – mit David van Goorle (David Gorlaeus; 1591–1612) – für die Verbreitung der Atomistik ein. Joachim Jungius und Robert Boyle entwickelten die von ihm publizierten Ideen weiter.</abstract>
+<wikilink>http://en.wikipedia.org/wiki/Daniel_Sennert?oldid=546864325</wikilink>
+<artworks />
+<buildings />
+<books />
+</Person>

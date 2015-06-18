@@ -1,0 +1,27 @@
+<Person>
+<name>Viktor Oskar Tilgner</name>
+<variantName>
+<XML_Serializer_Tag>Victor Oskar Tilgner</XML_Serializer_Tag>
+<XML_Serializer_Tag>Viktor Tilgner</XML_Serializer_Tag>
+</variantName>
+<thumbnail>https://commons.wikimedia.org/wiki/Special:FilePath/Viktor_Tilgnar_Litho.jpg?width=270</thumbnail>
+<birthEN>October 25, 1844</birthEN>
+<birthDE>25. Oktober 1844</birthDE>
+<deathEN>April 16, 1896</deathEN>
+<deathDE>16. April 1896</deathDE>
+<birthPlace>
+<XML_Serializer_Tag>Preßburg</XML_Serializer_Tag>
+</birthPlace>
+<deathPlace>
+<XML_Serializer_Tag>Wien</XML_Serializer_Tag>
+</deathPlace>
+<professionOrOccupation>
+<XML_Serializer_Tag>Bildhauer</XML_Serializer_Tag>
+</professionOrOccupation>
+<dbpResource>http://dbpedia.org/resource/Viktor_Oskar_Tilgner</dbpResource>
+<abstract>Viktor Oskar Tilgner (* 25. Oktober 1844 in Pressburg; † 16. April 1896 in Wien) war ein österreichischer Bildhauer und Porträtist. Er ist der Hauptvertreter des Neobarock innerhalb der Plastik der Wiener Ringstraße.</abstract>
+<wikilink>http://en.wikipedia.org/wiki/Viktor_Oskar_Tilgner?oldid=580760794</wikilink>
+<artworks />
+<buildings />
+<books />
+</Person>

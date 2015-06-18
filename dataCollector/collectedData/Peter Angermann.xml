@@ -11,8 +11,10 @@
 <professionOrOccupation>
 <XML_Serializer_Tag>Maler</XML_Serializer_Tag>
 </professionOrOccupation>
-<artworks />
 <dbpResource>http://dbpedia.org/resource/Peter_Angermann</dbpResource>
 <abstract>Peter Angermann (* 17. Februar 1945 in Rehau) ist ein zeitgenössischer deutscher Maler.</abstract>
 <wikilink>http://en.wikipedia.org/wiki/Peter_Angermann?oldid=581811083</wikilink>
+<artworks />
+<buildings />
+<books />
 </Person>

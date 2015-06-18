@@ -1,0 +1,29 @@
+<Person>
+<name>Ernst Eckstein</name>
+<variantName>
+<XML_Serializer_Tag>E. E.</XML_Serializer_Tag>
+<XML_Serializer_Tag>Friedrich Ludwig Adolf Ernst Eckstein</XML_Serializer_Tag>
+</variantName>
+<thumbnail>https://commons.wikimedia.org/wiki/Special:FilePath/Ernst_Eckstein.jpg?width=270</thumbnail>
+<birthEN>February 6, 1845</birthEN>
+<birthDE>6. Februar 1845</birthDE>
+<deathEN>November 18, 1900</deathEN>
+<deathDE>18. November 1900</deathDE>
+<birthPlace>
+<XML_Serializer_Tag>Gießen</XML_Serializer_Tag>
+</birthPlace>
+<deathPlace>
+<XML_Serializer_Tag>Dresden</XML_Serializer_Tag>
+</deathPlace>
+<professionOrOccupation>
+<XML_Serializer_Tag>Schriftsteller</XML_Serializer_Tag>
+<XML_Serializer_Tag>Journalist</XML_Serializer_Tag>
+<XML_Serializer_Tag>Publizist</XML_Serializer_Tag>
+</professionOrOccupation>
+<dbpResource>http://dbpedia.org/resource/Ernst_Eckstein</dbpResource>
+<abstract>Ernst Eckstein (* 6. Februar 1845 in Gießen; † 18. November 1900 in Dresden) war ein deutscher Schriftsteller.</abstract>
+<wikilink>http://en.wikipedia.org/wiki/Ernst_Eckstein?oldid=581165193</wikilink>
+<artworks />
+<buildings />
+<books />
+</Person>

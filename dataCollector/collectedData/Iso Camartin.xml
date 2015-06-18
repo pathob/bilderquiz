@@ -1,0 +1,27 @@
+<Person>
+<name>Iso Camartin</name>
+<variantName />
+<thumbnail>https://commons.wikimedia.org/wiki/Special:FilePath/Iso_Camartin_(1998)_by_Erling_Mandelmann_-_2.jpg?width=270</thumbnail>
+<birthEN>1944</birthEN>
+<birthDE>1944</birthDE>
+<deathEN />
+<deathDE />
+<birthPlace>
+<XML_Serializer_Tag>Chur</XML_Serializer_Tag>
+</birthPlace>
+<deathPlace />
+<professionOrOccupation>
+<XML_Serializer_Tag>Kulturwissenschaftler</XML_Serializer_Tag>
+<XML_Serializer_Tag>Literaturkritiker</XML_Serializer_Tag>
+<XML_Serializer_Tag>Literaturwissenschaftler</XML_Serializer_Tag>
+<XML_Serializer_Tag>Philosoph</XML_Serializer_Tag>
+<XML_Serializer_Tag>Essayist</XML_Serializer_Tag>
+<XML_Serializer_Tag>Schriftsteller</XML_Serializer_Tag>
+</professionOrOccupation>
+<dbpResource>http://dbpedia.org/resource/Iso_Camartin</dbpResource>
+<abstract>Iso Camartin (* 24. März 1944 in Chur) ist ein Schweizer Publizist, Schriftsteller und Fernsehmoderator.</abstract>
+<wikilink>http://en.wikipedia.org/wiki/Iso_Camartin?oldid=575500862</wikilink>
+<artworks />
+<buildings />
+<books />
+</Person>

@@ -1,0 +1,25 @@
+<Person>
+<name>Maria Callcott</name>
+<variantName>
+<XML_Serializer_Tag>Mary Callcott</XML_Serializer_Tag>
+<XML_Serializer_Tag>Mary Graham</XML_Serializer_Tag>
+<XML_Serializer_Tag>Mary Dundas</XML_Serializer_Tag>
+<XML_Serializer_Tag>Maria Graham</XML_Serializer_Tag>
+</variantName>
+<thumbnail>https://commons.wikimedia.org/wiki/Special:FilePath/MariaCallcott.jpg?width=270</thumbnail>
+<birthEN>1785</birthEN>
+<birthDE>1785</birthDE>
+<deathEN>1842</deathEN>
+<deathDE>1842</deathDE>
+<birthPlace />
+<deathPlace />
+<professionOrOccupation>
+<XML_Serializer_Tag>Schriftstellerin</XML_Serializer_Tag>
+</professionOrOccupation>
+<dbpResource>http://dbpedia.org/resource/Maria_Graham</dbpResource>
+<abstract>Lady Maria Callcott, verw. Graham, geb. Dundas (* 19. Juli 1785 in Papcastle bei Cockermouth; † 28. November 1842 in Kensington) war eine britische Botanikerin und Autorin. Sie unternahm zahlreiche Reisen und galt bei ihren Zeitgenossen als lebhafte und unkonventionelle Frau.</abstract>
+<wikilink>http://en.wikipedia.org/wiki/Maria_Graham?oldid=598896569</wikilink>
+<artworks />
+<buildings />
+<books />
+</Person>

@@ -1,0 +1,34 @@
+<Person>
+<name>Leo Baeck</name>
+<variantName>
+<XML_Serializer_Tag>Leo Israel Baeck</XML_Serializer_Tag>
+<XML_Serializer_Tag>Léo Baeck</XML_Serializer_Tag>
+<XML_Serializer_Tag>Leʾo Beḳ</XML_Serializer_Tag>
+<XML_Serializer_Tag>Leʾo Baḳ</XML_Serializer_Tag>
+<XML_Serializer_Tag>Leʾo Beq</XML_Serializer_Tag>
+<XML_Serializer_Tag>Leʾo Baq</XML_Serializer_Tag>
+</variantName>
+<thumbnail>https://commons.wikimedia.org/wiki/Special:FilePath/Leszno,_ul._Chrobrego_34_(dom_Leo_Baecka).jpg?width=270</thumbnail>
+<birthEN>May 23, 1873</birthEN>
+<birthDE>23. Mai 1873</birthDE>
+<deathEN>November 2, 1956</deathEN>
+<deathDE>2. November 1956</deathDE>
+<birthPlace>
+<XML_Serializer_Tag>Lissa</XML_Serializer_Tag>
+</birthPlace>
+<deathPlace>
+<XML_Serializer_Tag>London</XML_Serializer_Tag>
+</deathPlace>
+<professionOrOccupation>
+<XML_Serializer_Tag>Philosoph</XML_Serializer_Tag>
+<XML_Serializer_Tag>Religionswissenschaftler</XML_Serializer_Tag>
+<XML_Serializer_Tag>Rabbiner</XML_Serializer_Tag>
+<XML_Serializer_Tag>Hochschullehrer</XML_Serializer_Tag>
+</professionOrOccupation>
+<dbpResource>http://dbpedia.org/resource/Leo_Baeck</dbpResource>
+<abstract>Leo Baeck (* 23. Mai 1873 in Lissa, Provinz Posen, Königreich Preußen; † 2. November 1956 in London, Vereinigtes Königreich) war Rabbiner, zu seiner Zeit der bedeutendste Vertreter des deutschen liberalen Judentums sowie jahrelang unbestrittene Führungsfigur und Repräsentant der deutschen Judenheit.</abstract>
+<wikilink>http://en.wikipedia.org/wiki/Leo_Baeck?oldid=605442959</wikilink>
+<artworks />
+<buildings />
+<books />
+</Person>

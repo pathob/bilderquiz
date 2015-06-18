@@ -1,0 +1,24 @@
+<Person>
+<name>Angus Konstam</name>
+<variantName />
+<thumbnail>https://commons.wikimedia.org/wiki/Special:FilePath/Angus_Konstam1.jpg?width=270</thumbnail>
+<birthEN>1960</birthEN>
+<birthDE>1960</birthDE>
+<deathEN />
+<deathDE />
+<birthPlace>
+<XML_Serializer_Tag>Aberdeen</XML_Serializer_Tag>
+</birthPlace>
+<deathPlace />
+<professionOrOccupation>
+<XML_Serializer_Tag>Historiker</XML_Serializer_Tag>
+<XML_Serializer_Tag>Schriftsteller</XML_Serializer_Tag>
+<XML_Serializer_Tag>Museumskurator</XML_Serializer_Tag>
+</professionOrOccupation>
+<dbpResource>http://dbpedia.org/resource/Angus_Konstam</dbpResource>
+<abstract>Angus Konstam (* 2. Januar 1960 in Aberdeen) ist ein schottischer Autor und Historiker.</abstract>
+<wikilink>http://en.wikipedia.org/wiki/Angus_Konstam?oldid=601318378</wikilink>
+<artworks />
+<buildings />
+<books />
+</Person>

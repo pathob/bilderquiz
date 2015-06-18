@@ -19,8 +19,10 @@
 <professionOrOccupation>
 <XML_Serializer_Tag>Maler</XML_Serializer_Tag>
 </professionOrOccupation>
-<artworks />
 <dbpResource>http://dbpedia.org/resource/Carl_Rahl</dbpResource>
 <abstract>Carl Rahl (* 13. August 1812 zu Wien; † 9. Juli 1865) war Maler und Sohn des Kupferstechers Carl Heinrich Rahl (1779–1843).</abstract>
 <wikilink>http://en.wikipedia.org/wiki/Carl_Rahl?oldid=592454728</wikilink>
+<artworks />
+<buildings />
+<books />
 </Person>

@@ -1,0 +1,60 @@
+<Person>
+<name>Epictetus</name>
+<variantName>
+<XML_Serializer_Tag>Epiktet</XML_Serializer_Tag>
+<XML_Serializer_Tag>Epiktetos</XML_Serializer_Tag>
+<XML_Serializer_Tag>Epitteto</XML_Serializer_Tag>
+<XML_Serializer_Tag>Epictète</XML_Serializer_Tag>
+<XML_Serializer_Tag>Epictete</XML_Serializer_Tag>
+<XML_Serializer_Tag>Epicticus</XML_Serializer_Tag>
+<XML_Serializer_Tag>Epiktetos, von Hierapolis</XML_Serializer_Tag>
+<XML_Serializer_Tag>Epictetus, Philosophus</XML_Serializer_Tag>
+<XML_Serializer_Tag>Epictetus, Romanus</XML_Serializer_Tag>
+<XML_Serializer_Tag>Epiktetos, Stoischer Philosoph</XML_Serializer_Tag>
+<XML_Serializer_Tag>Epictetus, Hierapolitanus</XML_Serializer_Tag>
+<XML_Serializer_Tag>Epictète, de Hierapolis</XML_Serializer_Tag>
+<XML_Serializer_Tag>Epictetes</XML_Serializer_Tag>
+<XML_Serializer_Tag>Épictète</XML_Serializer_Tag>
+<XML_Serializer_Tag>Epiktetes</XML_Serializer_Tag>
+<XML_Serializer_Tag>Epiktētos</XML_Serializer_Tag>
+<XML_Serializer_Tag>Epictet</XML_Serializer_Tag>
+<XML_Serializer_Tag>Epicteto</XML_Serializer_Tag>
+<XML_Serializer_Tag>Epitecto</XML_Serializer_Tag>
+<XML_Serializer_Tag>Epiktet</XML_Serializer_Tag>
+</variantName>
+<thumbnail>https://commons.wikimedia.org/wiki/Special:FilePath/Codex_Bodleianus_(Cod._graec._Misc._251,_Auct._T._4._13)_retouched.jpg?width=270</thumbnail>
+<birthEN>50</birthEN>
+<birthDE>50</birthDE>
+<deathEN>130</deathEN>
+<deathDE>130</deathDE>
+<birthPlace />
+<deathPlace />
+<professionOrOccupation>
+<XML_Serializer_Tag>Philosoph</XML_Serializer_Tag>
+</professionOrOccupation>
+<dbpResource>http://dbpedia.org/resource/Epictetus</dbpResource>
+<abstract>Epiktet (Epik&apos;tet, griechisch Ἐπίκτητος Epíktētos, lateinisch Epic&apos;tetus; * um 50 in Hierapolis in Phrygien; † um 138 in Nikopolis in Epirus) war ein antiker Philosoph. Er zählt zu den einflussreichsten Vertretern der späten Stoa.Als Sklave gelangte Epiktet nach Rom, wo er in Kontakt mit stoischen Lehren kam und auch selbst zu unterrichten begann. Aus Rom vertrieben begründete er in Nikopolis eine Philosophenschule, an der er bis zu seinem Tod lehrte. Da Epiktet selbst keine Werke verfasste, ist seine Philosophie nur in den Schriften seines Schülers Arrian überliefert, der seine Vorlesungen aufzeichnete. Seine Lehre behandelt vor allem ethische Fragen und stellt die praktische Umsetzung philosophischer Überlegungen in den Vordergrund. Im Zentrum seiner Ethik stehen die innere Freiheit und moralische Autonomie eines jeden Menschen. Epiktet trennt strikt zwischen Dingen und Zuständen, die sich außerhalb der menschlichen Macht befinden und daher als gegeben angenommen werden müssen, und solchen, die das Innerste des Menschen betreffen und daher ausschließlich Gegenstand seines Einflusses sind. Außerdem entwickelt Epiktet ein Konzept der sittlichen Persönlichkeit, die nach seiner Ansicht das Wesen des Menschen darstellt. Menschliches Handeln wird für ihn aber stets auch von Gott bestimmt und gelenkt, der in jedem einzelnen Menschen, der Welt und dem eine Einheit bildenden Kosmos direkt anwesend ist. Da dieser göttliche Kern allen Menschen gleichermaßen innewohnt, muss die Menschenliebe unterschiedslos allen gelten.Die Rezeptionsgeschichte der Lehre Epiktets ist vielschichtig. Nach einer ersten kurzen Blüte im 2. Jahrhundert geriet er während des Mittelalters im Westen weitgehend in Vergessenheit. Auf indirektem Weg – über späteres Schrifttum und christianisierte Umformungen der ältesten Überlieferung – beeinflussten Konzepte Epiktets jedoch christliche Autoren von der Spätantike bis in die Neuzeit maßgeblich, auch wenn diese Schriften nur noch in loser Verbindung mit dem Namen Epiktets standen. Die Aufzeichnungen seines Unterrichts wurden in der Renaissance erneut bekannt und wirkmächtig.</abstract>
+<wikilink>http://en.wikipedia.org/wiki/Epictetus?oldid=606165419</wikilink>
+<artworks />
+<buildings />
+<books>
+<XML_Serializer_Tag>
+<book>
+<type>uri</type>
+<value>http://dbpedia.org/resource/Enchiridion_of_Epictetus</value>
+</book>
+<author>
+<type>uri</type>
+<value>http://dbpedia.org/resource/Epictetus</value>
+</author>
+<thumbnail>
+<type>uri</type>
+<value>http://commons.wikimedia.org/wiki/Special:FilePath/Epictetus_Enchiridion_1683_page1.jpg?width=300</value>
+</thumbnail>
+<wikilink>
+<type>uri</type>
+<value>http://en.wikipedia.org/wiki/Enchiridion_of_Epictetus?oldid=596843641</value>
+</wikilink>
+</XML_Serializer_Tag>
+</books>
+</Person>

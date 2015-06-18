@@ -1,0 +1,219 @@
+<Person>
+<name>Washington Irving</name>
+<variantName>
+<XML_Serializer_Tag>W. Irving</XML_Serializer_Tag>
+<XML_Serializer_Tag>V. Irving</XML_Serializer_Tag>
+<XML_Serializer_Tag>... Irving</XML_Serializer_Tag>
+<XML_Serializer_Tag>Vāṣiṅgtan Irviṅ</XML_Serializer_Tag>
+<XML_Serializer_Tag>Vašington Irving</XML_Serializer_Tag>
+<XML_Serializer_Tag>Washington Irwing</XML_Serializer_Tag>
+<XML_Serializer_Tag>Antonio Agapida</XML_Serializer_Tag>
+<XML_Serializer_Tag>Geoffrey Crayon</XML_Serializer_Tag>
+<XML_Serializer_Tag>Geoffroy Crayon</XML_Serializer_Tag>
+<XML_Serializer_Tag>Geoffrey Crayton</XML_Serializer_Tag>
+<XML_Serializer_Tag>Geoffroy Crayton</XML_Serializer_Tag>
+<XML_Serializer_Tag>Diedrich Knickerbocker</XML_Serializer_Tag>
+<XML_Serializer_Tag>Dietrich Knickerbocker</XML_Serializer_Tag>
+<XML_Serializer_Tag>Gottfried Crayon</XML_Serializer_Tag>
+<XML_Serializer_Tag>Irving Washington</XML_Serializer_Tag>
+<XML_Serializer_Tag>Fray A. Agapida</XML_Serializer_Tag>
+<XML_Serializer_Tag>Fray Antonio Agapida</XML_Serializer_Tag>
+<XML_Serializer_Tag>Āvingu</XML_Serializer_Tag>
+<XML_Serializer_Tag>Ouwen</XML_Serializer_Tag>
+<XML_Serializer_Tag>Ou wen</XML_Serializer_Tag>
+<XML_Serializer_Tag>Huashengdun Ouwen</XML_Serializer_Tag>
+<XML_Serializer_Tag>Hua sheng dun Ou wen</XML_Serializer_Tag>
+<XML_Serializer_Tag>華盛頓歐文</XML_Serializer_Tag>
+<XML_Serializer_Tag>华盛顿欧文</XML_Serializer_Tag>
+<XML_Serializer_Tag>歐文</XML_Serializer_Tag>
+<XML_Serializer_Tag>欧文</XML_Serializer_Tag>
+</variantName>
+<thumbnail>https://commons.wikimedia.org/wiki/Special:FilePath/Washington-irving.jpg?width=270</thumbnail>
+<birthEN>April 3, 1783</birthEN>
+<birthDE>3. April 1783</birthDE>
+<deathEN>November 28, 1859</deathEN>
+<deathDE>28. November 1859</deathDE>
+<birthPlace>
+<XML_Serializer_Tag>New York, NY</XML_Serializer_Tag>
+</birthPlace>
+<deathPlace />
+<professionOrOccupation>
+<XML_Serializer_Tag>Schriftsteller</XML_Serializer_Tag>
+<XML_Serializer_Tag>Botschafter</XML_Serializer_Tag>
+</professionOrOccupation>
+<dbpResource>http://dbpedia.org/resource/Washington_Irving</dbpResource>
+<abstract>Washington Irving (* 3. April 1783 in New York; † 28. November 1859 in Sunnyside, Tarrytown) war ein amerikanischer Schriftsteller. Mit an englischen Stilvorbildern geschulten Satiren über die Gesellschaft und Geschichte der Stadt New York wurde er im ersten Jahrzehnt des 19. Jahrhunderts zunächst in seiner Heimat bekannt. Mit seinem „Skizzenbuch“ (1819–20) wandte er sich zunehmend Einflüssen der europäischen Romantik zu und wurde so der erste amerikanische Schriftsteller, der auch in Europa Erfolge feiern konnte. Mit den in diesem Band enthaltenen Erzählungen Rip Van Winkle und Die Sage von der schläfrigen Schlucht begründete Irving die Gattung der Kurzgeschichte. In späteren Jahren verfasste Irving vor allem Biografien, unter anderem über Christoph Kolumbus und George Washington.</abstract>
+<wikilink>http://en.wikipedia.org/wiki/Washington_Irving?oldid=602593210</wikilink>
+<artworks />
+<buildings />
+<books>
+<XML_Serializer_Tag>
+<book>
+<type>uri</type>
+<value>http://dbpedia.org/resource/The_Sketch_Book_of_Geoffrey_Crayon,_Gent.</value>
+</book>
+<author>
+<type>uri</type>
+<value>http://dbpedia.org/resource/Washington_Irving</value>
+</author>
+<thumbnail>
+<type>uri</type>
+<value>http://commons.wikimedia.org/wiki/Special:FilePath/TheSketchbookTitlePage.jpg?width=300</value>
+</thumbnail>
+<released>
+<type>typed-literal</type>
+<datatype>http://www.w3.org/2001/XMLSchema#gMonthDay</datatype>
+<value>0001-06-23+02:00</value>
+</released>
+<wikilink>
+<type>uri</type>
+<value>http://en.wikipedia.org/wiki/The_Sketch_Book_of_Geoffrey_Crayon,_Gent.?oldid=600634365</value>
+</wikilink>
+<abstract>
+<type>literal</type>
+<xml:lang>de</xml:lang>
+<value>Das Skizzenbuch (englischer Originaltitel The Sketch Book of Geoffrey Crayon, Gent.) ist eine 1819−20 erschienene Sammlung von Kurzprosastücken (sketches, also „Skizzen“) des amerikanischen Schriftstellers Washington Irving. Besondere Bedeutung für die Literaturgeschichte hat das Skizzenbuch, da darin mit Rip Van Winkle, der Sage von der schläfrigen Schlucht und Der Geisterbräutigam drei Erzählungen enthalten sind, die gemeinhin als erste Kurzgeschichten der amerikanischen Literatur gelten.</value>
+</abstract>
+</XML_Serializer_Tag>
+<XML_Serializer_Tag>
+<book>
+<type>uri</type>
+<value>http://dbpedia.org/resource/Salmagundi_(periodical)</value>
+</book>
+<author>
+<type>uri</type>
+<value>http://dbpedia.org/resource/Washington_Irving</value>
+</author>
+<thumbnail>
+<type>uri</type>
+<value>http://commons.wikimedia.org/wiki/Special:FilePath/Salmagundi-title.jpg?width=300</value>
+</thumbnail>
+<released>
+<type>typed-literal</type>
+<datatype>http://www.w3.org/2001/XMLSchema#integer</datatype>
+<value>1807</value>
+</released>
+<wikilink>
+<type>uri</type>
+<value>http://en.wikipedia.org/wiki/Salmagundi_(periodical)?oldid=583795916</value>
+</wikilink>
+<abstract>
+<type>literal</type>
+<xml:lang>de</xml:lang>
+<value>Salmagundi; or The Whim-whams and Opinions of Launcelot Langstaff, Esq. &amp; Others war eine satirische Zeitschrift, die in den Jahren 1807/08 in New York erschien. Sie wurde von Washington Irving, seinem Bruder William Irving sowie James Kirke Paulding gegründet; die drei verfassten unter zahlreichen wechselnden Pseudonymen auch sämtliche Beiträge. Von dem Magazin erschienen zwischen dem 24. Januar 1807 und dem 15. Januar 1808 in unregelmäßigen Abständen insgesamt 20 Nummern.</value>
+</abstract>
+</XML_Serializer_Tag>
+<XML_Serializer_Tag>
+<book>
+<type>uri</type>
+<value>http://dbpedia.org/resource/A_History_of_the_Life_and_Voyages_of_Christopher_Columbus</value>
+</book>
+<author>
+<type>uri</type>
+<value>http://dbpedia.org/resource/Washington_Irving</value>
+</author>
+<thumbnail>
+<type>uri</type>
+<value>http://en.wikipedia.org/wiki/Special:FilePath/Irving&apos;s_Life_and_Voyages_of_Columbus_(Title_Page).jpg?width=300</value>
+</thumbnail>
+<released>
+<type>typed-literal</type>
+<datatype>http://www.w3.org/2001/XMLSchema#integer</datatype>
+<value>1828</value>
+</released>
+<wikilink>
+<type>uri</type>
+<value>http://en.wikipedia.org/wiki/A_History_of_the_Life_and_Voyages_of_Christopher_Columbus?oldid=596318788</value>
+</wikilink>
+</XML_Serializer_Tag>
+<XML_Serializer_Tag>
+<book>
+<type>uri</type>
+<value>http://dbpedia.org/resource/Tales_of_a_Traveller</value>
+</book>
+<author>
+<type>uri</type>
+<value>http://dbpedia.org/resource/Washington_Irving</value>
+</author>
+<thumbnail>
+<type>uri</type>
+<value>http://commons.wikimedia.org/wiki/Special:FilePath/Traveller1.jpg?width=300</value>
+</thumbnail>
+<released>
+<type>typed-literal</type>
+<datatype>http://www.w3.org/2001/XMLSchema#integer</datatype>
+<value>1824</value>
+</released>
+<wikilink>
+<type>uri</type>
+<value>http://en.wikipedia.org/wiki/Tales_of_a_Traveller?oldid=571444586</value>
+</wikilink>
+</XML_Serializer_Tag>
+<XML_Serializer_Tag>
+<book>
+<type>uri</type>
+<value>http://dbpedia.org/resource/Tales_of_the_Alhambra</value>
+</book>
+<author>
+<type>uri</type>
+<value>http://dbpedia.org/resource/Washington_Irving</value>
+</author>
+<thumbnail>
+<type>uri</type>
+<value>http://commons.wikimedia.org/wiki/Special:FilePath/Alhambradesdegeneralife.jpg?width=300</value>
+</thumbnail>
+<wikilink>
+<type>uri</type>
+<value>http://en.wikipedia.org/wiki/Tales_of_the_Alhambra?oldid=591665876</value>
+</wikilink>
+<abstract>
+<type>literal</type>
+<xml:lang>de</xml:lang>
+<value>Die Alhambra (meistverbreiteter englischer Titel: Tales of the Alhambra), in anderen deutschen Ausgaben auch unter den Titeln Erzählungen von der Alhambra, Geschichten von der Alhambra oder Sagen aus der Alhambra erschienen, ist eine Sammlung von Kurzprosastücken, die der US-amerikanische Schriftsteller Washington Irving 1829 verfasste.</value>
+</abstract>
+</XML_Serializer_Tag>
+<XML_Serializer_Tag>
+<book>
+<type>uri</type>
+<value>http://dbpedia.org/resource/Letters_of_Jonathan_Oldstyle,_Gent.</value>
+</book>
+<author>
+<type>uri</type>
+<value>http://dbpedia.org/resource/Washington_Irving</value>
+</author>
+<released>
+<type>typed-literal</type>
+<datatype>http://www.w3.org/2001/XMLSchema#integer</datatype>
+<value>1802</value>
+</released>
+<wikilink>
+<type>uri</type>
+<value>http://en.wikipedia.org/wiki/Letters_of_Jonathan_Oldstyle,_Gent.?oldid=591752790</value>
+</wikilink>
+<abstract>
+<type>literal</type>
+<xml:lang>de</xml:lang>
+<value>Die Letters of Jonathan Oldstyle, Gent. sind das literarische Erstlingswerk des amerikanischen Schriftstellers Washington Irving (1783–1859). Die neun humoristischen Essays, vorgeblich Leserbriefe eines „Jonathan Oldstyle“, erschienen zwischen dem 15. November 1802 und dem 23. April 1803 in der New Yorker Tageszeitung Morning Chronicle, die von Irvings Bruder Peter Irving herausgegeben wurde. Irving nahm darin die Moden seiner Zeit und insbesondere die New Yorker Theaterszene aufs Korn. „Jonathan Oldstyle“ ist das erste von vielen Pseudonymen, unter denen Irving im Laufe seiner Karriere publizieren sollte, und verweist als sprechender Name auf den Typus, den seine charakterlich ausgestaltete Erzählerfigur verkörpert: ein alternder Hagestolz, der mit Verwunderung die neumodischen Anwandlungen der Jugend beobachtet. Die bislang einzige deutsche Übersetzung erschien 1824 in Berlin unter dem Titel Jonathan Oldstyle&apos;s Briefe.</value>
+</abstract>
+</XML_Serializer_Tag>
+<XML_Serializer_Tag>
+<book>
+<type>uri</type>
+<value>http://dbpedia.org/resource/Bracebridge_Hall</value>
+</book>
+<author>
+<type>uri</type>
+<value>http://dbpedia.org/resource/Washington_Irving</value>
+</author>
+<released>
+<type>typed-literal</type>
+<datatype>http://www.w3.org/2001/XMLSchema#integer</datatype>
+<value>1822</value>
+</released>
+<wikilink>
+<type>uri</type>
+<value>http://en.wikipedia.org/wiki/Bracebridge_Hall?oldid=576850136</value>
+</wikilink>
+</XML_Serializer_Tag>
+</books>
+</Person>

@@ -1,0 +1,32 @@
+<Person>
+<name>Philippe Lacoue-Labarthe</name>
+<variantName>
+<XML_Serializer_Tag>Firippu Raku-Rabaruto</XML_Serializer_Tag>
+<XML_Serializer_Tag>Philippe Lacoue-Labarthe</XML_Serializer_Tag>
+<XML_Serializer_Tag>Philippe Lacoue Labarthe</XML_Serializer_Tag>
+<XML_Serializer_Tag>Philippe Lacou-Labarthe</XML_Serializer_Tag>
+<XML_Serializer_Tag>フィリップ ラクー＝ラバルト</XML_Serializer_Tag>
+</variantName>
+<thumbnail>https://commons.wikimedia.org/wiki/Special:FilePath/Pll_fl.jpg?width=270</thumbnail>
+<birthEN>March 6, 1940</birthEN>
+<birthDE>6. März 1940</birthDE>
+<deathEN>January 27, 2007</deathEN>
+<deathDE>27. Januar 2007</deathDE>
+<birthPlace>
+<XML_Serializer_Tag>Tours</XML_Serializer_Tag>
+</birthPlace>
+<deathPlace>
+<XML_Serializer_Tag>Paris</XML_Serializer_Tag>
+</deathPlace>
+<professionOrOccupation>
+<XML_Serializer_Tag>Philosoph</XML_Serializer_Tag>
+<XML_Serializer_Tag>Literaturkritiker</XML_Serializer_Tag>
+<XML_Serializer_Tag>Übersetzer</XML_Serializer_Tag>
+</professionOrOccupation>
+<dbpResource>http://dbpedia.org/resource/Philippe_Lacoue-Labarthe</dbpResource>
+<abstract>Philippe Lacoue-Labarthe (* 6. März 1940 in Tours; † 27. Januar 2007 in Paris) war französischer Philosoph, Literaturkritiker und Übersetzer.</abstract>
+<wikilink>http://en.wikipedia.org/wiki/Philippe_Lacoue-Labarthe?oldid=602326684</wikilink>
+<artworks />
+<buildings />
+<books />
+</Person>

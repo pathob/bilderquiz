@@ -1,0 +1,25 @@
+<Person>
+<name>Olympe de Gouges</name>
+<variantName>
+<XML_Serializer_Tag>Marie Olympe de Gouges</XML_Serializer_Tag>
+<XML_Serializer_Tag>Marie Gouze</XML_Serializer_Tag>
+<XML_Serializer_Tag>Marie Gouze Auby</XML_Serializer_Tag>
+<XML_Serializer_Tag>Marie O. de Gouges</XML_Serializer_Tag>
+</variantName>
+<thumbnail>https://commons.wikimedia.org/wiki/Special:FilePath/Marie-Olympe-de-Gouges.jpg?width=270</thumbnail>
+<birthEN>1748</birthEN>
+<birthDE>1748</birthDE>
+<deathEN>1793</deathEN>
+<deathDE>1793</deathDE>
+<birthPlace />
+<deathPlace />
+<professionOrOccupation>
+<XML_Serializer_Tag>Schriftstellerin</XML_Serializer_Tag>
+</professionOrOccupation>
+<dbpResource>http://dbpedia.org/resource/Olympe_de_Gouges</dbpResource>
+<abstract>Olympe de Gouges (eigentlich Marie Gouze; * 7. Mai 1748 in Montauban; † 3. November 1793 in Paris), war eine Revolutionärin, Frauenrechtlerin, Schriftstellerin und Autorin von Theaterstücken im Zeitalter der Aufklärung. Sie ist die Verfasserin der Erklärung der Rechte der Frau und Bürgerin von 1791.</abstract>
+<wikilink>http://en.wikipedia.org/wiki/Olympe_de_Gouges?oldid=606299000</wikilink>
+<artworks />
+<buildings />
+<books />
+</Person>

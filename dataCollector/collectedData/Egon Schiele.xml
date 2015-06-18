@@ -20,12 +20,15 @@
 <XML_Serializer_Tag>Künstler</XML_Serializer_Tag>
 <XML_Serializer_Tag>Maler</XML_Serializer_Tag>
 </professionOrOccupation>
+<dbpResource>http://dbpedia.org/resource/Egon_Schiele</dbpResource>
+<abstract>Egon Leo Adolf Ludwig Schiele (* 12. Juni 1890 in Tulln an der Donau, Niederösterreich; † 31. Oktober 1918 in Wien) war ein österreichischer Maler des Expressionismus. Neben Gustav Klimt und Oskar Kokoschka zählt er zu den bedeutendsten bildenden Künstlern der Wiener Moderne.</abstract>
+<wikilink>http://en.wikipedia.org/wiki/Egon_Schiele?oldid=606693453</wikilink>
 <artworks>
 <XML_Serializer_Tag>
-<painting>
+<artwork>
 <type>uri</type>
 <value>http://dbpedia.org/resource/Portrait_of_Wally</value>
-</painting>
+</artwork>
 <thumbnail>
 <type>uri</type>
 <value>http://en.wikipedia.org/wiki/Special:FilePath/Egon_Schiele_069.jpg?width=300</value>
@@ -49,9 +52,13 @@
 <type>uri</type>
 <value>http://en.wikipedia.org/wiki/Portrait_of_Wally?oldid=598720051</value>
 </wikilink>
+<type>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>Oil on panel</value>
+</type>
 </XML_Serializer_Tag>
 </artworks>
-<dbpResource>http://dbpedia.org/resource/Egon_Schiele</dbpResource>
-<abstract>Egon Leo Adolf Ludwig Schiele (* 12. Juni 1890 in Tulln an der Donau, Niederösterreich; † 31. Oktober 1918 in Wien) war ein österreichischer Maler des Expressionismus. Neben Gustav Klimt und Oskar Kokoschka zählt er zu den bedeutendsten bildenden Künstlern der Wiener Moderne.</abstract>
-<wikilink>http://en.wikipedia.org/wiki/Egon_Schiele?oldid=606693453</wikilink>
+<buildings />
+<books />
 </Person>

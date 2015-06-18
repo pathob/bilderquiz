@@ -1,0 +1,55 @@
+<Person>
+<name>Johann Albert Fabricius</name>
+<variantName>
+<XML_Serializer_Tag>Joannes Albertus Fabricius</XML_Serializer_Tag>
+<XML_Serializer_Tag>Ioannes Albertus Fabricius</XML_Serializer_Tag>
+<XML_Serializer_Tag>Johannes Albert Faber</XML_Serializer_Tag>
+<XML_Serializer_Tag>Johann Albert Faber</XML_Serializer_Tag>
+<XML_Serializer_Tag>Johann Albert Fabri</XML_Serializer_Tag>
+<XML_Serializer_Tag>Johannes Albert Fabri</XML_Serializer_Tag>
+<XML_Serializer_Tag>Albertus Fabricius</XML_Serializer_Tag>
+<XML_Serializer_Tag>Johannes Albert Fabricius</XML_Serializer_Tag>
+<XML_Serializer_Tag>Johannes Albertus Fabricius</XML_Serializer_Tag>
+<XML_Serializer_Tag>Johann Albrecht Fabri</XML_Serializer_Tag>
+<XML_Serializer_Tag>Johannes Albertus Fabri</XML_Serializer_Tag>
+<XML_Serializer_Tag>Jean Albert Fabricius</XML_Serializer_Tag>
+<XML_Serializer_Tag>Johannes Albertus Faber</XML_Serializer_Tag>
+<XML_Serializer_Tag>Jo. Alb. Fabricius</XML_Serializer_Tag>
+<XML_Serializer_Tag>Joh. Albertus Fabricius</XML_Serializer_Tag>
+<XML_Serializer_Tag>Io. Albertus Fabricius</XML_Serializer_Tag>
+<XML_Serializer_Tag>Io. Alb. Fabricius</XML_Serializer_Tag>
+<XML_Serializer_Tag>... Fabricius</XML_Serializer_Tag>
+<XML_Serializer_Tag>Johann Albrecht Faber</XML_Serializer_Tag>
+<XML_Serializer_Tag>Johann Albrecht Fabricius</XML_Serializer_Tag>
+<XML_Serializer_Tag>Sincerus Veridicus</XML_Serializer_Tag>
+<XML_Serializer_Tag>Sincerus, Veridicus</XML_Serializer_Tag>
+<XML_Serializer_Tag>Trajanus Bocalini</XML_Serializer_Tag>
+<XML_Serializer_Tag>Trajanus Boccalinus</XML_Serializer_Tag>
+</variantName>
+<thumbnail>https://commons.wikimedia.org/wiki/Special:FilePath/Johann_Albert_Fabricius.jpg?width=270</thumbnail>
+<birthEN>November 11, 1668</birthEN>
+<birthDE>11. November 1668</birthDE>
+<deathEN>April 30, 1736</deathEN>
+<deathDE>30. April 1736</deathDE>
+<birthPlace>
+<XML_Serializer_Tag>Leipzig</XML_Serializer_Tag>
+</birthPlace>
+<deathPlace>
+<XML_Serializer_Tag>Hamburg</XML_Serializer_Tag>
+</deathPlace>
+<professionOrOccupation>
+<XML_Serializer_Tag>Philologe</XML_Serializer_Tag>
+<XML_Serializer_Tag>Theologe</XML_Serializer_Tag>
+<XML_Serializer_Tag>Philosoph</XML_Serializer_Tag>
+<XML_Serializer_Tag>Bibliothekar</XML_Serializer_Tag>
+<XML_Serializer_Tag>Gymnasiallehrer</XML_Serializer_Tag>
+<XML_Serializer_Tag>Rektor</XML_Serializer_Tag>
+<XML_Serializer_Tag>Schriftsteller</XML_Serializer_Tag>
+</professionOrOccupation>
+<dbpResource>http://dbpedia.org/resource/Johann_Albert_Fabricius</dbpResource>
+<abstract>Johann Albert Fabricius (* 11. November 1668 in Leipzig; † 30. April 1736 in Hamburg) war ein deutscher klassischer Philologe und Bibliograph.</abstract>
+<wikilink>http://en.wikipedia.org/wiki/Johann_Albert_Fabricius?oldid=603239068</wikilink>
+<artworks />
+<buildings />
+<books />
+</Person>

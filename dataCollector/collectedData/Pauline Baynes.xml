@@ -1,0 +1,26 @@
+<Person>
+<name>Pauline Baynes</name>
+<variantName>
+<XML_Serializer_Tag>Pōrin Beinzu</XML_Serializer_Tag>
+<XML_Serializer_Tag>Pauline Diana Baynes</XML_Serializer_Tag>
+</variantName>
+<thumbnail>https://commons.wikimedia.org/wiki/Special:FilePath/Pauline_Baynes.png?width=270</thumbnail>
+<birthEN>September 9, 1922</birthEN>
+<birthDE>9. September 1922</birthDE>
+<deathEN>August 1, 2008</deathEN>
+<deathDE>1. August 2008</deathDE>
+<birthPlace>
+<XML_Serializer_Tag>Brighton</XML_Serializer_Tag>
+</birthPlace>
+<deathPlace />
+<professionOrOccupation>
+<XML_Serializer_Tag>Illustratorin</XML_Serializer_Tag>
+<XML_Serializer_Tag>Schriftstellerin</XML_Serializer_Tag>
+</professionOrOccupation>
+<dbpResource>http://dbpedia.org/resource/Pauline_Baynes</dbpResource>
+<abstract>Pauline Diana Baynes (* 9. September 1922 in Brighton; † 1. August 2008 in Surrey) war eine britische Illustratorin und Autorin.</abstract>
+<wikilink>http://en.wikipedia.org/wiki/Pauline_Baynes?oldid=594522179</wikilink>
+<artworks />
+<buildings />
+<books />
+</Person>

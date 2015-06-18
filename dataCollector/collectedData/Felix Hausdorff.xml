@@ -1,0 +1,32 @@
+<Person>
+<name>Felix Hausdorff</name>
+<variantName>
+<XML_Serializer_Tag>F. Hausdorff</XML_Serializer_Tag>
+<XML_Serializer_Tag>Paul Mongé</XML_Serializer_Tag>
+<XML_Serializer_Tag>Paul Mongré</XML_Serializer_Tag>
+<XML_Serializer_Tag>F. Hausdorff</XML_Serializer_Tag>
+<XML_Serializer_Tag>F. Chausdorf</XML_Serializer_Tag>
+</variantName>
+<thumbnail>https://commons.wikimedia.org/wiki/Special:FilePath/Hausdorff_1913-1921.jpg?width=270</thumbnail>
+<birthEN>November 8, 1868</birthEN>
+<birthDE>8. November 1868</birthDE>
+<deathEN>January 26, 1942</deathEN>
+<deathDE>26. Januar 1942</deathDE>
+<birthPlace>
+<XML_Serializer_Tag>Breslau</XML_Serializer_Tag>
+</birthPlace>
+<deathPlace>
+<XML_Serializer_Tag>Bonn</XML_Serializer_Tag>
+</deathPlace>
+<professionOrOccupation>
+<XML_Serializer_Tag>Mathematiker</XML_Serializer_Tag>
+<XML_Serializer_Tag>Schriftsteller</XML_Serializer_Tag>
+<XML_Serializer_Tag>Astronom</XML_Serializer_Tag>
+</professionOrOccupation>
+<dbpResource>http://dbpedia.org/resource/Felix_Hausdorff</dbpResource>
+<abstract>Felix Hausdorff (* 8. November 1868 in Breslau; † 26. Januar 1942 in Bonn) war ein deutscher Mathematiker. Er gilt als Mitbegründer der allgemeinen Topologie und lieferte wesentliche Beiträge zur allgemeinen und deskriptiven Mengenlehre, zur Maßtheorie, Funktionalanalysis und Algebra. Neben seinem Beruf wirkte er unter dem Pseudonym Paul Mongré auch als philosophischer Schriftsteller und Literat.</abstract>
+<wikilink>http://en.wikipedia.org/wiki/Felix_Hausdorff?oldid=596650900</wikilink>
+<artworks />
+<buildings />
+<books />
+</Person>

@@ -1,0 +1,36 @@
+<Person>
+<name>Gerhard Rohlfs</name>
+<variantName>
+<XML_Serializer_Tag>Friedrich Gerhard Rohlfs</XML_Serializer_Tag>
+<XML_Serializer_Tag>Mustafa Bey</XML_Serializer_Tag>
+<XML_Serializer_Tag>Mustafa Bey</XML_Serializer_Tag>
+<XML_Serializer_Tag>Mustafa Bei</XML_Serializer_Tag>
+<XML_Serializer_Tag>Mustafa Bei</XML_Serializer_Tag>
+</variantName>
+<thumbnail>https://commons.wikimedia.org/wiki/Special:FilePath/Friedrich_Gerhard_Rohlfs.jpg?width=270</thumbnail>
+<birthEN>April 14, 1831</birthEN>
+<birthDE>14. April 1831</birthDE>
+<deathEN>June 2, 1896</deathEN>
+<deathDE>2. Juni 1896</deathDE>
+<birthPlace>
+<XML_Serializer_Tag>Vegesack (Bremen)</XML_Serializer_Tag>
+</birthPlace>
+<deathPlace>
+<XML_Serializer_Tag>Rüngsdorf</XML_Serializer_Tag>
+</deathPlace>
+<professionOrOccupation>
+<XML_Serializer_Tag>Forschungsreisender</XML_Serializer_Tag>
+<XML_Serializer_Tag>Arzt</XML_Serializer_Tag>
+<XML_Serializer_Tag>Soldat</XML_Serializer_Tag>
+<XML_Serializer_Tag>Schriftsteller</XML_Serializer_Tag>
+<XML_Serializer_Tag>Generalkonsul</XML_Serializer_Tag>
+<XML_Serializer_Tag>Ethnologe</XML_Serializer_Tag>
+<XML_Serializer_Tag>Afrikanist</XML_Serializer_Tag>
+</professionOrOccupation>
+<dbpResource>http://dbpedia.org/resource/Gerhard_Rohlfs</dbpResource>
+<abstract>Gerhard Rohlfs (* 14. Juli 1892 in Berlin-Lichterfelde; † 12. September 1986 in Tübingen) war ein deutscher Romanist und Hochschullehrer an der Eberhard Karls Universität Tübingen und der Ludwig-Maximilians-Universität München.</abstract>
+<wikilink>http://en.wikipedia.org/wiki/Gerhard_Rohlfs?oldid=605150911</wikilink>
+<artworks />
+<buildings />
+<books />
+</Person>

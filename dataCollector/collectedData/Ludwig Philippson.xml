@@ -1,0 +1,34 @@
+<Person>
+<name>Ludwig Philippson</name>
+<variantName>
+<XML_Serializer_Tag>Ludw. Philippson</XML_Serializer_Tag>
+<XML_Serializer_Tag>Yehûda Ben-Mosheh</XML_Serializer_Tag>
+<XML_Serializer_Tag>Ludwig Schragge</XML_Serializer_Tag>
+<XML_Serializer_Tag>Ludwig M. Philippson</XML_Serializer_Tag>
+<XML_Serializer_Tag>Ludovicus Philippson</XML_Serializer_Tag>
+<XML_Serializer_Tag>Jehûdā Philippson</XML_Serializer_Tag>
+<XML_Serializer_Tag>Lúdvig Fílipśon</XML_Serializer_Tag>
+</variantName>
+<thumbnail>https://commons.wikimedia.org/wiki/Special:FilePath/Ludwig_Philippson.jpg?width=270</thumbnail>
+<birthEN>December 28, 1811</birthEN>
+<birthDE>28. Dezember 1811</birthDE>
+<deathEN>December 29, 1889</deathEN>
+<deathDE>29. Dezember 1889</deathDE>
+<birthPlace>
+<XML_Serializer_Tag>Dessau</XML_Serializer_Tag>
+</birthPlace>
+<deathPlace>
+<XML_Serializer_Tag>Bonn</XML_Serializer_Tag>
+</deathPlace>
+<professionOrOccupation>
+<XML_Serializer_Tag>Rabbiner</XML_Serializer_Tag>
+<XML_Serializer_Tag>Zeitungsverleger</XML_Serializer_Tag>
+<XML_Serializer_Tag>Autor</XML_Serializer_Tag>
+</professionOrOccupation>
+<dbpResource>http://dbpedia.org/resource/Ludwig_Philippson</dbpResource>
+<abstract>Ludwig Philippson (* 28. Dezember 1811 in Dessau; † 29. Dezember 1889 in Bonn) war ein deutscher Schriftsteller und Rabbiner.</abstract>
+<wikilink>http://en.wikipedia.org/wiki/Ludwig_Philippson?oldid=603705631</wikilink>
+<artworks />
+<buildings />
+<books />
+</Person>

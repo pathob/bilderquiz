@@ -13,8 +13,10 @@
 <XML_Serializer_Tag>Maler</XML_Serializer_Tag>
 <XML_Serializer_Tag>Installationskünstler</XML_Serializer_Tag>
 </professionOrOccupation>
-<artworks />
 <dbpResource>http://dbpedia.org/resource/Mark_Wallinger</dbpResource>
 <abstract>Mark Wallinger (* 1959 in Chigwell, Essex) ist ein britischer Künstler, der zur Gruppe der Young British Artists (YBA) gerechnet wird. Sein bekanntestes Werk ist State Britain (2007), in dem er eine ursprünglich vor Westminster aufgestellte Protestinstallation gegen den Irakkrieg rekonstruierte und in einer Einzelausstellung in der Tate Britain zeigte. Er wurde 1995 und 2007 für den Turner Prize nominiert, den er 2007 erhielt.</abstract>
 <wikilink>http://en.wikipedia.org/wiki/Mark_Wallinger?oldid=596326118</wikilink>
+<artworks />
+<buildings />
+<books />
 </Person>

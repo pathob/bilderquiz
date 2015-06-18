@@ -1,0 +1,27 @@
+<Person>
+<name>Fritz Schumacher</name>
+<variantName />
+<thumbnail>https://commons.wikimedia.org/wiki/Special:FilePath/Schumacher_Fritz_Radierung_Kalckreuth_1916.jpg?width=270</thumbnail>
+<birthEN>November 4, 1869</birthEN>
+<birthDE>4. November 1869</birthDE>
+<deathEN>November 5, 1947</deathEN>
+<deathDE>5. November 1947</deathDE>
+<birthPlace>
+<XML_Serializer_Tag>Bremen</XML_Serializer_Tag>
+</birthPlace>
+<deathPlace>
+<XML_Serializer_Tag>Hamburg</XML_Serializer_Tag>
+</deathPlace>
+<professionOrOccupation>
+<XML_Serializer_Tag>Oberbaudirektor</XML_Serializer_Tag>
+<XML_Serializer_Tag>Architekt</XML_Serializer_Tag>
+<XML_Serializer_Tag>Publizist</XML_Serializer_Tag>
+<XML_Serializer_Tag>Schriftsteller</XML_Serializer_Tag>
+</professionOrOccupation>
+<dbpResource>http://dbpedia.org/resource/Fritz_Schumacher_(architect)</dbpResource>
+<abstract>Fritz Schumacher (* 4. November 1869 in Bremen; † 5. November 1947 in Hamburg; vollständiger Name: Friedrich Wilhelm Schumacher) war ein deutscher Architekt, Stadtplaner, Baubeamter und Hochschullehrer, der viele Jahre als Oberbaudirektor in Hamburg wirkte. Er war Mitbegründer des Deutschen Werkbundes und Förderer der neuzeitlichen Backstein-Bauweise in Norddeutschland.</abstract>
+<wikilink>http://en.wikipedia.org/wiki/Fritz_Schumacher_(architect)?oldid=544221689</wikilink>
+<artworks />
+<buildings />
+<books />
+</Person>

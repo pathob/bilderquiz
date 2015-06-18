@@ -1,0 +1,225 @@
+<Person>
+<name>James Fenimore Cooper</name>
+<variantName>
+<XML_Serializer_Tag>James Fenimore Cooper</XML_Serializer_Tag>
+<XML_Serializer_Tag>C. F. Cooper</XML_Serializer_Tag>
+<XML_Serializer_Tag>F. Cooper</XML_Serializer_Tag>
+<XML_Serializer_Tag>F. Copper</XML_Serializer_Tag>
+<XML_Serializer_Tag>James Fennimore Cooper</XML_Serializer_Tag>
+<XML_Serializer_Tag>Fenimore Cooper</XML_Serializer_Tag>
+<XML_Serializer_Tag>J. F. Cooper</XML_Serializer_Tag>
+<XML_Serializer_Tag>J. Fenimore Cooper</XML_Serializer_Tag>
+<XML_Serializer_Tag>James Fenimore-Cooper</XML_Serializer_Tag>
+<XML_Serializer_Tag>Džejms Fenimor Kuper</XML_Serializer_Tag>
+<XML_Serializer_Tag>Fenimor Kuper</XML_Serializer_Tag>
+<XML_Serializer_Tag>Jam. Fenimore Cooper</XML_Serializer_Tag>
+<XML_Serializer_Tag>Jam. Fennimore Cooper</XML_Serializer_Tag>
+<XML_Serializer_Tag>James F. Cooper</XML_Serializer_Tag>
+</variantName>
+<thumbnail>https://commons.wikimedia.org/wiki/Special:FilePath/James_Fenimore_Cooper_by_Jarvis.jpg?width=270</thumbnail>
+<birthEN>September 15, 1789</birthEN>
+<birthDE>15. September 1789</birthDE>
+<deathEN>September 14, 1851</deathEN>
+<deathDE>14. September 1851</deathDE>
+<birthPlace>
+<XML_Serializer_Tag>Burlington, New Jersey, USA</XML_Serializer_Tag>
+</birthPlace>
+<deathPlace>
+<XML_Serializer_Tag>Cooperstown, New York, USA</XML_Serializer_Tag>
+</deathPlace>
+<professionOrOccupation>
+<XML_Serializer_Tag>Schriftsteller</XML_Serializer_Tag>
+</professionOrOccupation>
+<dbpResource>http://dbpedia.org/resource/James_Fenimore_Cooper</dbpResource>
+<abstract>James Fenimore Cooper (* 15. September 1789 in Burlington, New Jersey als James Cooper; † 14. September 1851 in Cooperstown, New York) war ein amerikanischer Schriftsteller der Romantik.Cooper ist in vielerlei Hinsicht eine Schlüsselfigur der amerikanischen Literatur. Neben Washington Irving war er der erste amerikanische Schriftsteller, der von seinen Büchern leben konnte. Er blieb bis weit in das 20. Jahrhundert hinein auch in Europa der wohl meistgelesene. Nach dem Vorbild Sir Walter Scotts schrieb er die ersten historischen Romane und die ersten Seefahrtsromane der amerikanischen Literatur. Sein umfangreiches Werk umfasst weiter zahlreiche historiografische Werke, Essays und Satiren über Amerika wie Europa. Besonders bekannt sind bis heute seine fünf „Lederstrumpf“-Romane, die die Erschließung des amerikanischen Westens durch weiße Scouts, Trapper und Siedler, aber auch die allmähliche Zurückdrängung und Vernichtung der indianischen Kultur thematisieren.</abstract>
+<wikilink>http://en.wikipedia.org/wiki/James_Fenimore_Cooper?oldid=604231287</wikilink>
+<artworks />
+<buildings />
+<books>
+<XML_Serializer_Tag>
+<book>
+<type>uri</type>
+<value>http://dbpedia.org/resource/The_Pioneers_(novel)</value>
+</book>
+<author>
+<type>uri</type>
+<value>http://dbpedia.org/resource/James_Fenimore_Cooper</value>
+</author>
+<thumbnail>
+<type>uri</type>
+<value>http://commons.wikimedia.org/wiki/Special:FilePath/The_Pioneers_1823.jpg?width=300</value>
+</thumbnail>
+<released>
+<type>typed-literal</type>
+<datatype>http://www.w3.org/2001/XMLSchema#integer</datatype>
+<value>1823</value>
+</released>
+<wikilink>
+<type>uri</type>
+<value>http://en.wikipedia.org/wiki/The_Pioneers_(novel)?oldid=602954266</value>
+</wikilink>
+<abstract>
+<type>literal</type>
+<xml:lang>de</xml:lang>
+<value>Die Ansiedler oder die Quellen des Susquehannah (engl.The Pioneers, or the Sources of the Susquehanna) ist ein 1823 veröffentlichter Gesellschaftsroman des amerikanischen Schriftstellers James Fenimore Cooper (1789−1851). Die erste deutschsprachige Übersetzung des Romans erschien im Jahr 1824.Die Ansiedler erschien als der erste Band im fünfteiligen Lederstrumpf-Zyklus um die Hauptfigur des Natty Bumppo, der als Jäger und Fallensteller an der Grenze zur Zivilisation lebt. Im chronologischen Handlungsablauf der Serie bildet der Roman den vierten Band.</value>
+</abstract>
+</XML_Serializer_Tag>
+<XML_Serializer_Tag>
+<book>
+<type>uri</type>
+<value>http://dbpedia.org/resource/The_Last_of_the_Mohicans</value>
+</book>
+<author>
+<type>uri</type>
+<value>http://dbpedia.org/resource/James_Fenimore_Cooper</value>
+</author>
+<thumbnail>
+<type>uri</type>
+<value>http://commons.wikimedia.org/wiki/Special:FilePath/Last_of_the_Mohicans,_Merrill_bear.jpg?width=300</value>
+</thumbnail>
+<released>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>February 1826</value>
+</released>
+<wikilink>
+<type>uri</type>
+<value>http://en.wikipedia.org/wiki/The_Last_of_the_Mohicans?oldid=606261720</value>
+</wikilink>
+<abstract>
+<type>literal</type>
+<xml:lang>de</xml:lang>
+<value>Der letzte Mohikaner ist ein 1826 erstmals erschienener historischer Roman des amerikanischen Schriftstellers James Fenimore Cooper (1789–1851), dessen Handlung zur Zeit des Siebenjährigen Krieges in Nordamerika angesiedelt ist. Er ist der zweite Roman aus der „Lederstrumpf“-Serie um den Trapper Natty Bumppo. Nicht nur im Titel thematisiert der Roman auch den Untergang nordamerikanischer Indianerstämme durch die vorrückenden europäischen Siedler. Schon im 19. Jahrhundert in Deutschland populär, wurde das geflügelte Wort „der letzte Mohikaner“ für viele letztüberlebende Zeitzeugen oder Anhänger einer Idee sprichwörtlich.</value>
+</abstract>
+</XML_Serializer_Tag>
+<XML_Serializer_Tag>
+<book>
+<type>uri</type>
+<value>http://dbpedia.org/resource/The_Prairie</value>
+</book>
+<author>
+<type>uri</type>
+<value>http://dbpedia.org/resource/James_Fenimore_Cooper</value>
+</author>
+<thumbnail>
+<type>uri</type>
+<value>http://commons.wikimedia.org/wiki/Special:FilePath/The_Prairie_1st.jpg?width=300</value>
+</thumbnail>
+<released>
+<type>typed-literal</type>
+<datatype>http://www.w3.org/2001/XMLSchema#integer</datatype>
+<value>1827</value>
+</released>
+<wikilink>
+<type>uri</type>
+<value>http://en.wikipedia.org/wiki/The_Prairie?oldid=598552407</value>
+</wikilink>
+<abstract>
+<type>literal</type>
+<xml:lang>de</xml:lang>
+<value>Die Prärie (engl.The Prairie: A Tale ) ist ein 1827 veröffentlichter Abenteuer und Gesellschaftsroman des amerikanischen Schriftstellers James Fenimore Cooper (1789–1851).Die Prärie erschien als der dritte Band des fünfteiligen Lederstrumpf-Zyklus. Im chronologischen Handlungsablauf der Serie bildet der Roman den fünften und letzten Band. Die deutschsprachige Übersetzung des Romans erschien 1828 zunächst unter dem Titel „Die Steppe“. Im Jahr 1845 folgte in der Übersetzung von Gottfried Friedenberg (1796–1874) erstmals eine Ausgabe mit dem heutigen Titel.</value>
+</abstract>
+</XML_Serializer_Tag>
+<XML_Serializer_Tag>
+<book>
+<type>uri</type>
+<value>http://dbpedia.org/resource/Lionel_Lincoln</value>
+</book>
+<author>
+<type>uri</type>
+<value>http://dbpedia.org/resource/James_Fenimore_Cooper</value>
+</author>
+<thumbnail>
+<type>uri</type>
+<value>http://commons.wikimedia.org/wiki/Special:FilePath/Lionel_Lincoln_1st.jpg?width=300</value>
+</thumbnail>
+<wikilink>
+<type>uri</type>
+<value>http://en.wikipedia.org/wiki/Lionel_Lincoln?oldid=604701364</value>
+</wikilink>
+</XML_Serializer_Tag>
+<XML_Serializer_Tag>
+<book>
+<type>uri</type>
+<value>http://dbpedia.org/resource/The_Bravo</value>
+</book>
+<author>
+<type>uri</type>
+<value>http://dbpedia.org/resource/James_Fenimore_Cooper</value>
+</author>
+<thumbnail>
+<type>uri</type>
+<value>http://commons.wikimedia.org/wiki/Special:FilePath/The_Bravo_1st.jpg?width=300</value>
+</thumbnail>
+<wikilink>
+<type>uri</type>
+<value>http://en.wikipedia.org/wiki/The_Bravo?oldid=596980296</value>
+</wikilink>
+</XML_Serializer_Tag>
+<XML_Serializer_Tag>
+<book>
+<type>uri</type>
+<value>http://dbpedia.org/resource/The_Heidenmauer</value>
+</book>
+<author>
+<type>uri</type>
+<value>http://dbpedia.org/resource/James_Fenimore_Cooper</value>
+</author>
+<thumbnail>
+<type>uri</type>
+<value>http://commons.wikimedia.org/wiki/Special:FilePath/The_Heidenmauer_1st.jpg?width=300</value>
+</thumbnail>
+<wikilink>
+<type>uri</type>
+<value>http://en.wikipedia.org/wiki/The_Heidenmauer?oldid=589921704</value>
+</wikilink>
+</XML_Serializer_Tag>
+<XML_Serializer_Tag>
+<book>
+<type>uri</type>
+<value>http://dbpedia.org/resource/Precaution_(novel)</value>
+</book>
+<author>
+<type>uri</type>
+<value>http://dbpedia.org/resource/James_Fenimore_Cooper</value>
+</author>
+<released>
+<type>typed-literal</type>
+<datatype>http://www.w3.org/2001/XMLSchema#integer</datatype>
+<value>1820</value>
+</released>
+<wikilink>
+<type>uri</type>
+<value>http://en.wikipedia.org/wiki/Precaution_(novel)?oldid=595267877</value>
+</wikilink>
+</XML_Serializer_Tag>
+<XML_Serializer_Tag>
+<book>
+<type>uri</type>
+<value>http://dbpedia.org/resource/The_American_Democrat</value>
+</book>
+<author>
+<type>uri</type>
+<value>http://dbpedia.org/resource/James_Fenimore_Cooper</value>
+</author>
+<wikilink>
+<type>uri</type>
+<value>http://en.wikipedia.org/wiki/The_American_Democrat?oldid=554315958</value>
+</wikilink>
+</XML_Serializer_Tag>
+<XML_Serializer_Tag>
+<book>
+<type>uri</type>
+<value>http://dbpedia.org/resource/The_Chainbearer</value>
+</book>
+<author>
+<type>uri</type>
+<value>http://dbpedia.org/resource/James_Fenimore_Cooper</value>
+</author>
+<wikilink>
+<type>uri</type>
+<value>http://en.wikipedia.org/wiki/The_Chainbearer?oldid=596980373</value>
+</wikilink>
+</XML_Serializer_Tag>
+</books>
+</Person>

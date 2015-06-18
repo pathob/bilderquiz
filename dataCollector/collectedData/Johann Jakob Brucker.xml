@@ -1,0 +1,37 @@
+<Person>
+<name>Johann Jakob Brucker</name>
+<variantName>
+<XML_Serializer_Tag>Jacob Brucker</XML_Serializer_Tag>
+<XML_Serializer_Tag>Jakob Brucker</XML_Serializer_Tag>
+<XML_Serializer_Tag>Jacobus Bruckerus</XML_Serializer_Tag>
+<XML_Serializer_Tag>Johannes Jacobus Bruckerus</XML_Serializer_Tag>
+<XML_Serializer_Tag>Iacobus Bruckerus</XML_Serializer_Tag>
+<XML_Serializer_Tag>Iacobvs Brvckervus</XML_Serializer_Tag>
+<XML_Serializer_Tag>Iacob Brucker</XML_Serializer_Tag>
+<XML_Serializer_Tag>Johann J. Brucker</XML_Serializer_Tag>
+<XML_Serializer_Tag>Johann Jacob Brucker</XML_Serializer_Tag>
+<XML_Serializer_Tag>Johannes J. Bruckerus</XML_Serializer_Tag>
+<XML_Serializer_Tag>Joh. Jac. Brucker</XML_Serializer_Tag>
+</variantName>
+<thumbnail>https://commons.wikimedia.org/wiki/Special:FilePath/Johann_Jakob_Brucker.jpg?width=270</thumbnail>
+<birthEN>1696</birthEN>
+<birthDE>1696</birthDE>
+<deathEN>1770</deathEN>
+<deathDE>1770</deathDE>
+<birthPlace>
+<XML_Serializer_Tag>Augsburg</XML_Serializer_Tag>
+</birthPlace>
+<deathPlace />
+<professionOrOccupation>
+<XML_Serializer_Tag>Theologe</XML_Serializer_Tag>
+<XML_Serializer_Tag>Philosoph</XML_Serializer_Tag>
+<XML_Serializer_Tag>Historiker</XML_Serializer_Tag>
+<XML_Serializer_Tag>Schriftsteller</XML_Serializer_Tag>
+</professionOrOccupation>
+<dbpResource>http://dbpedia.org/resource/Johann_Jakob_Brucker</dbpResource>
+<abstract>Johann Jakob Brucker (* 22. Januar 1696 in Augsburg; † 26. November 1770 ebenda) war ein deutscher evangelischer Theologe und Pfarrer, Schulrektor und Philosophiehistoriker.</abstract>
+<wikilink>http://en.wikipedia.org/wiki/Johann_Jakob_Brucker?oldid=601007353</wikilink>
+<artworks />
+<buildings />
+<books />
+</Person>

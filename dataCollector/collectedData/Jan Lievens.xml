@@ -21,8 +21,10 @@
 <XML_Serializer_Tag>Maler</XML_Serializer_Tag>
 <XML_Serializer_Tag>Radierer</XML_Serializer_Tag>
 </professionOrOccupation>
-<artworks />
 <dbpResource>http://dbpedia.org/resource/Jan_Lievens</dbpResource>
 <abstract>Jan Lievens auch Lievens de Oude, Livius Johanis le Vieux, oder Johannis Livens, andere Schreibweisen von Lievens Lieversz(oon), Lyrins, oder Leyrens (* 24. Oktober 1607 in Leiden; † 4. Juni 1674 in Amsterdam) war ein niederländischer Maler und ausnehmender Zeichner.</abstract>
 <wikilink>http://en.wikipedia.org/wiki/Jan_Lievens?oldid=603161052</wikilink>
+<artworks />
+<buildings />
+<books />
 </Person>

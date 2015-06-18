@@ -1,0 +1,53 @@
+<Person>
+<name>Berlie Doherty</name>
+<variantName>
+<XML_Serializer_Tag>Berlie Hollingsworth</XML_Serializer_Tag>
+</variantName>
+<thumbnail>https://commons.wikimedia.org/wiki/Special:FilePath/Ladybower_June2006.jpg?width=270</thumbnail>
+<birthEN>1943</birthEN>
+<birthDE>1943</birthDE>
+<deathEN />
+<deathDE />
+<birthPlace>
+<XML_Serializer_Tag>Liverpool</XML_Serializer_Tag>
+</birthPlace>
+<deathPlace />
+<professionOrOccupation>
+<XML_Serializer_Tag>Schriftstellerin</XML_Serializer_Tag>
+</professionOrOccupation>
+<dbpResource>http://dbpedia.org/resource/Berlie_Doherty</dbpResource>
+<abstract>Berlie Doherty (* 6. November 1943 in Knotty Ash, Liverpool als Berlie Hollingsworth) ist eine britische Kinder- und Jugendbuchautorin.Sie arbeitete als Sozialarbeiterin, Lehrerin und für das Radio, bevor sie im Jahr 1983 Schriftstellerin wurde. In England ist sie hauptsächlich als Kinder- und Jugendbuchautorin bekannt, hat aber auch schon zahlreiche Bücher für Erwachsene geschrieben.</abstract>
+<wikilink>http://en.wikipedia.org/wiki/Berlie_Doherty?oldid=597672249</wikilink>
+<artworks />
+<buildings />
+<books>
+<XML_Serializer_Tag>
+<book>
+<type>uri</type>
+<value>http://dbpedia.org/resource/Dear_Nobody</value>
+</book>
+<author>
+<type>uri</type>
+<value>http://dbpedia.org/resource/Berlie_Doherty</value>
+</author>
+<wikilink>
+<type>uri</type>
+<value>http://en.wikipedia.org/wiki/Dear_Nobody?oldid=565051442</value>
+</wikilink>
+</XML_Serializer_Tag>
+<XML_Serializer_Tag>
+<book>
+<type>uri</type>
+<value>http://dbpedia.org/resource/Granny_Was_a_Buffer_Girl</value>
+</book>
+<author>
+<type>uri</type>
+<value>http://dbpedia.org/resource/Berlie_Doherty</value>
+</author>
+<wikilink>
+<type>uri</type>
+<value>http://en.wikipedia.org/wiki/Granny_Was_a_Buffer_Girl?oldid=573859287</value>
+</wikilink>
+</XML_Serializer_Tag>
+</books>
+</Person>

@@ -1,0 +1,28 @@
+<Person>
+<name>Sarah Trimmer</name>
+<variantName>
+<XML_Serializer_Tag>Sarah Kirby</XML_Serializer_Tag>
+<XML_Serializer_Tag>Sarah Kirby Trimmer</XML_Serializer_Tag>
+<XML_Serializer_Tag>Sara Trimmer</XML_Serializer_Tag>
+<XML_Serializer_Tag>S. Trimmer</XML_Serializer_Tag>
+<XML_Serializer_Tag>Mrs. Trimmer</XML_Serializer_Tag>
+</variantName>
+<thumbnail>https://commons.wikimedia.org/wiki/Special:FilePath/Sarah_Trimmer_by_Henry_Howard.jpg?width=270</thumbnail>
+<birthEN>1741</birthEN>
+<birthDE>1741</birthDE>
+<deathEN>1810</deathEN>
+<deathDE>1810</deathDE>
+<birthPlace>
+<XML_Serializer_Tag>Ipswich</XML_Serializer_Tag>
+</birthPlace>
+<deathPlace />
+<professionOrOccupation>
+<XML_Serializer_Tag>Schriftstellerin</XML_Serializer_Tag>
+</professionOrOccupation>
+<dbpResource>http://dbpedia.org/resource/Sarah_Trimmer</dbpResource>
+<abstract>Sarah Trimmer (* 6. Januar 1741 in Ipswich, England; † 15. Dezember 1810 in Brentford) war eine englische Autorin.</abstract>
+<wikilink>http://en.wikipedia.org/wiki/Sarah_Trimmer?oldid=605975766</wikilink>
+<artworks />
+<buildings />
+<books />
+</Person>

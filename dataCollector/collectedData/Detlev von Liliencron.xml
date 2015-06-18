@@ -1,0 +1,35 @@
+<Person>
+<name>Detlev von Liliencron</name>
+<variantName>
+<XML_Serializer_Tag>Detlev Frh. von Liliencron</XML_Serializer_Tag>
+<XML_Serializer_Tag>Friedrich A. von Liliencron</XML_Serializer_Tag>
+<XML_Serializer_Tag>Detlef von Liliencron</XML_Serializer_Tag>
+<XML_Serializer_Tag>Friedrich Adolf Axel von Liliencron</XML_Serializer_Tag>
+<XML_Serializer_Tag>Fritz Adolf Axel von Liliencron</XML_Serializer_Tag>
+<XML_Serializer_Tag>Friedrich von Liliencron</XML_Serializer_Tag>
+<XML_Serializer_Tag>D. von Liliencron</XML_Serializer_Tag>
+<XML_Serializer_Tag>Detlev Liliencron</XML_Serializer_Tag>
+<XML_Serializer_Tag>Detlef fon Lilienkron</XML_Serializer_Tag>
+<XML_Serializer_Tag>Detlev v. Liliencron</XML_Serializer_Tag>
+</variantName>
+<thumbnail>https://commons.wikimedia.org/wiki/Special:FilePath/D_v_Lilienkron_1905.jpg?width=270</thumbnail>
+<birthEN>June 3, 1844</birthEN>
+<birthDE>3. Juni 1844</birthDE>
+<deathEN>July 22, 1909</deathEN>
+<deathDE>22. Juli 1909</deathDE>
+<birthPlace>
+<XML_Serializer_Tag>Kiel</XML_Serializer_Tag>
+</birthPlace>
+<deathPlace>
+<XML_Serializer_Tag>Hamburg-Rahlstedt</XML_Serializer_Tag>
+</deathPlace>
+<professionOrOccupation>
+<XML_Serializer_Tag>Schriftsteller</XML_Serializer_Tag>
+</professionOrOccupation>
+<dbpResource>http://dbpedia.org/resource/Detlev_von_Liliencron</dbpResource>
+<abstract>Detlev von Liliencron, eigentlich Friedrich Adolf Axel Freiherr von Liliencron, (* 3. Juni 1844 in Kiel; † 22. Juli 1909 in Alt-Rahlstedt) war ein deutscher Lyriker, Prosa- und Bühnenautor.</abstract>
+<wikilink>http://en.wikipedia.org/wiki/Detlev_von_Liliencron?oldid=592867883</wikilink>
+<artworks />
+<buildings />
+<books />
+</Person>

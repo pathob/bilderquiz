@@ -1,0 +1,57 @@
+<Person>
+<name>Ruth Prawer Jhabvala</name>
+<variantName>
+<XML_Serializer_Tag>Ruth Prawer</XML_Serializer_Tag>
+<XML_Serializer_Tag>R. Prawer Jhabvala</XML_Serializer_Tag>
+<XML_Serializer_Tag>Ruth Prawer Jhabvala</XML_Serializer_Tag>
+<XML_Serializer_Tag>Ruth Prawer-Jhabvala</XML_Serializer_Tag>
+<XML_Serializer_Tag>R. P. Jhabvala</XML_Serializer_Tag>
+<XML_Serializer_Tag>Ruth P. Jhabvala</XML_Serializer_Tag>
+<XML_Serializer_Tag>Ruth Jhabvala</XML_Serializer_Tag>
+<XML_Serializer_Tag>Ruth Prawer</XML_Serializer_Tag>
+</variantName>
+<thumbnail>https://commons.wikimedia.org/wiki/Special:FilePath/Ruth_Jhabvala_&amp;_Wm_Phillips,_New_Delhi_1962.jpg?width=270</thumbnail>
+<birthEN>May 7, 1927</birthEN>
+<birthDE>7. Mai 1927</birthDE>
+<deathEN>April 3, 2013</deathEN>
+<deathDE>3. April 2013</deathDE>
+<birthPlace>
+<XML_Serializer_Tag>Köln</XML_Serializer_Tag>
+</birthPlace>
+<deathPlace />
+<professionOrOccupation>
+<XML_Serializer_Tag>Schriftstellerin</XML_Serializer_Tag>
+<XML_Serializer_Tag>Drehbuchautorin</XML_Serializer_Tag>
+</professionOrOccupation>
+<dbpResource>http://dbpedia.org/resource/Ruth_Prawer_Jhabvala</dbpResource>
+<abstract>Ruth Prawer Jhabvala (* 7. Mai 1927 in Köln; † 3. April 2013 in New York City) war eine britische Schriftstellerin und Drehbuchautorin (zwei Oscars). Sie arbeitete mehr als vier Jahrzehnte eng mit dem Regie-Duo Ismail Merchant und James Ivory zusammen.</abstract>
+<wikilink>http://en.wikipedia.org/wiki/Ruth_Prawer_Jhabvala?oldid=606652978</wikilink>
+<artworks />
+<buildings />
+<books>
+<XML_Serializer_Tag>
+<book>
+<type>uri</type>
+<value>http://dbpedia.org/resource/Heat_and_Dust</value>
+</book>
+<author>
+<type>uri</type>
+<value>http://dbpedia.org/resource/Ruth_Prawer_Jhabvala</value>
+</author>
+<released>
+<type>typed-literal</type>
+<datatype>http://www.w3.org/2001/XMLSchema#date</datatype>
+<value>1975-10-30+02:00</value>
+</released>
+<wikilink>
+<type>uri</type>
+<value>http://en.wikipedia.org/wiki/Heat_and_Dust?oldid=601096670</value>
+</wikilink>
+<abstract>
+<type>literal</type>
+<xml:lang>de</xml:lang>
+<value>Hitze und Staub, englisch Heat and Dust, ist ein Roman von Ruth Prawer Jhabvala aus dem Jahr 1975. Er erhielt im selben Jahr den Booker Prize für Fiktion.Er beschäftigt sich mit der Kolonialgeschichte in Britisch-Indien und wird häufig im Sekundarstufenbereich II an deutschen Schulen verwendet.Der Roman wurde 1982 von James Ivory verfilmt.</value>
+</abstract>
+</XML_Serializer_Tag>
+</books>
+</Person>

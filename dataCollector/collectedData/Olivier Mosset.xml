@@ -11,8 +11,10 @@
 <professionOrOccupation>
 <XML_Serializer_Tag>Maler</XML_Serializer_Tag>
 </professionOrOccupation>
-<artworks />
 <dbpResource>http://dbpedia.org/resource/Olivier_Mosset</dbpResource>
 <abstract>Olivier Mosset (* 5. November 1944 in Bern) ist ein schweizerischer Maler monochromer und geometrischer Bilder.</abstract>
 <wikilink>http://en.wikipedia.org/wiki/Olivier_Mosset?oldid=600410269</wikilink>
+<artworks />
+<buildings />
+<books />
 </Person>

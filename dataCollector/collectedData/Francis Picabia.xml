@@ -20,8 +20,10 @@
 <XML_Serializer_Tag>Graphiker</XML_Serializer_Tag>
 <XML_Serializer_Tag>Schriftsteller</XML_Serializer_Tag>
 </professionOrOccupation>
-<artworks />
 <dbpResource>http://dbpedia.org/resource/Francis_Picabia</dbpResource>
 <abstract>Francis-Marie Martinez Picabia (* 22. Januar 1879 in Paris, Frankreich; † 30. November 1953 ebenda) war ein französischer Schriftsteller, Maler und Grafiker.</abstract>
 <wikilink>http://en.wikipedia.org/wiki/Francis_Picabia?oldid=599184446</wikilink>
+<artworks />
+<buildings />
+<books />
 </Person>

@@ -1,0 +1,54 @@
+<Person>
+<name>Hugo Claus</name>
+<variantName>
+<XML_Serializer_Tag>Hugo Maurice Julien Claus</XML_Serializer_Tag>
+<XML_Serializer_Tag>Ougko Klaous</XML_Serializer_Tag>
+<XML_Serializer_Tag>Chugo Klaus</XML_Serializer_Tag>
+<XML_Serializer_Tag>Hugo Klaus</XML_Serializer_Tag>
+<XML_Serializer_Tag>Hugo C. van Astene</XML_Serializer_Tag>
+<XML_Serializer_Tag>Anatole Ghekiere</XML_Serializer_Tag>
+<XML_Serializer_Tag>Jan Hyoens</XML_Serializer_Tag>
+<XML_Serializer_Tag>Dorothea van Male</XML_Serializer_Tag>
+<XML_Serializer_Tag>Thea Streiner</XML_Serializer_Tag>
+</variantName>
+<thumbnail>https://commons.wikimedia.org/wiki/Special:FilePath/Hugo_Claus.jpg?width=270</thumbnail>
+<birthEN>April 5, 1929</birthEN>
+<birthDE>5. April 1929</birthDE>
+<deathEN>March 19, 2008</deathEN>
+<deathDE>19. März 2008</deathDE>
+<birthPlace>
+<XML_Serializer_Tag>Brügge</XML_Serializer_Tag>
+</birthPlace>
+<deathPlace>
+<XML_Serializer_Tag>Antwerpen</XML_Serializer_Tag>
+</deathPlace>
+<professionOrOccupation>
+<XML_Serializer_Tag>Schriftsteller</XML_Serializer_Tag>
+</professionOrOccupation>
+<dbpResource>http://dbpedia.org/resource/Hugo_Claus</dbpResource>
+<abstract>Hugo Maurice Julien Claus (* 5. April 1929 in Brügge; † 19. März 2008 in Antwerpen) war ein belgischer Schriftsteller. Er trat auch als Maler, Dramatiker, Journalist, Lyriker, Librettist, Drehbuchautor, Übersetzer sowie als Film- und Fernsehregisseur hervor und gilt als der bedeutendste belgische Nachkriegsschriftsteller in niederländischer Sprache. Sein bekanntestes Werk ist der Bildungsroman Het verdriet van België (deutsch: Der Kummer von Flandern bzw. Der Kummer von Belgien).Sein Tod führte zu einer erneuten öffentlichen Diskussion über die in Belgien legalisierte Sterbehilfe, da der an Alzheimer erkrankte Claus den Zeitpunkt seines Todes selbst bestimmt hatte.</abstract>
+<wikilink>http://en.wikipedia.org/wiki/Hugo_Claus?oldid=589892802</wikilink>
+<artworks />
+<buildings />
+<books>
+<XML_Serializer_Tag>
+<book>
+<type>uri</type>
+<value>http://dbpedia.org/resource/The_Sorrow_of_Belgium</value>
+</book>
+<author>
+<type>uri</type>
+<value>http://dbpedia.org/resource/Hugo_Claus</value>
+</author>
+<released>
+<type>typed-literal</type>
+<datatype>http://www.w3.org/2001/XMLSchema#integer</datatype>
+<value>1983</value>
+</released>
+<wikilink>
+<type>uri</type>
+<value>http://en.wikipedia.org/wiki/The_Sorrow_of_Belgium?oldid=606223823</value>
+</wikilink>
+</XML_Serializer_Tag>
+</books>
+</Person>

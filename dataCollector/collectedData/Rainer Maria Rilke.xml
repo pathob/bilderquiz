@@ -1,0 +1,117 @@
+<Person>
+<name>Rainer Maria Rilke</name>
+<variantName>
+<XML_Serializer_Tag>Rainer-Maria Rilke</XML_Serializer_Tag>
+<XML_Serializer_Tag>Ra∞iner Maria Rilke</XML_Serializer_Tag>
+<XML_Serializer_Tag>Rainer M. Rilke</XML_Serializer_Tag>
+<XML_Serializer_Tag>Rainers Marija Rilke</XML_Serializer_Tag>
+<XML_Serializer_Tag>Rainŏ Maria Rilk&apos;e</XML_Serializer_Tag>
+<XML_Serializer_Tag>Rajner Maria Rilke</XML_Serializer_Tag>
+<XML_Serializer_Tag>Rajner Marija Rilke</XML_Serializer_Tag>
+<XML_Serializer_Tag>Rajner Marija Ril&apos;ke</XML_Serializer_Tag>
+<XML_Serializer_Tag>Rajner M. Ril&apos;ke</XML_Serializer_Tag>
+<XML_Serializer_Tag>Ṙayner Maria Ṙilke</XML_Serializer_Tag>
+<XML_Serializer_Tag>Reiner Maria Rilke</XML_Serializer_Tag>
+<XML_Serializer_Tag>Reiner Marie Rilke</XML_Serializer_Tag>
+<XML_Serializer_Tag>René Karl Wilhelm Johann Josef Maria Rilke</XML_Serializer_Tag>
+<XML_Serializer_Tag>René Maria Rilke</XML_Serializer_Tag>
+<XML_Serializer_Tag>René Rilke</XML_Serializer_Tag>
+<XML_Serializer_Tag>R. M. Rilke</XML_Serializer_Tag>
+<XML_Serializer_Tag>Maria Rilke</XML_Serializer_Tag>
+<XML_Serializer_Tag>... Rilke</XML_Serializer_Tag>
+<XML_Serializer_Tag>... Rilke-Balthus</XML_Serializer_Tag>
+<XML_Serializer_Tag>... Li&apos;erke</XML_Serializer_Tag>
+<XML_Serializer_Tag>Rainar Māriyā Rīlka</XML_Serializer_Tag>
+<XML_Serializer_Tag>Rāynir Mārīyā Rīlka</XML_Serializer_Tag>
+<XML_Serializer_Tag>... Rīlka</XML_Serializer_Tag>
+<XML_Serializer_Tag>Rainar Māriyā Rīlkah</XML_Serializer_Tag>
+<XML_Serializer_Tag>Rainer Mariyah Rilḳeh</XML_Serializer_Tag>
+<XML_Serializer_Tag>Rāynar Māriyā Rīlkih</XML_Serializer_Tag>
+<XML_Serializer_Tag>Rāynir Māriyā Rīlkih</XML_Serializer_Tag>
+<XML_Serializer_Tag>Rainer Maria Rilqe</XML_Serializer_Tag>
+<XML_Serializer_Tag>Rainer Mariyā Rîlqe</XML_Serializer_Tag>
+<XML_Serializer_Tag>Rayner Mariyā Rîlqe</XML_Serializer_Tag>
+<XML_Serializer_Tag>R. M. Rîlqē</XML_Serializer_Tag>
+<XML_Serializer_Tag>Raina Maria Riruke</XML_Serializer_Tag>
+<XML_Serializer_Tag>RMR</XML_Serializer_Tag>
+<XML_Serializer_Tag>Rajnėr Maryja Rylʹke</XML_Serializer_Tag>
+<XML_Serializer_Tag>Runa Māryā Rīlka</XML_Serializer_Tag>
+<XML_Serializer_Tag>Raineris Marija Rilke</XML_Serializer_Tag>
+<XML_Serializer_Tag>Raineris Marija Rilkė</XML_Serializer_Tag>
+<XML_Serializer_Tag>라이너 마리아 릴케</XML_Serializer_Tag>
+<XML_Serializer_Tag>ריינר מריה רילקה</XML_Serializer_Tag>
+<XML_Serializer_Tag>ريلكه، راينر ماريا</XML_Serializer_Tag>
+<XML_Serializer_Tag>ライナー・マリーア・リルケ</XML_Serializer_Tag>
+<XML_Serializer_Tag>ライナー・マリア リルケ</XML_Serializer_Tag>
+<XML_Serializer_Tag>里尔克</XML_Serializer_Tag>
+</variantName>
+<thumbnail>https://commons.wikimedia.org/wiki/Special:FilePath/Rainer_Maria_Rilke%2C_1900.jpg?width=270</thumbnail>
+<birthEN>December 4, 1875</birthEN>
+<birthDE>4. Dezember 1875</birthDE>
+<deathEN>December 29, 1926</deathEN>
+<deathDE>29. Dezember 1926</deathDE>
+<birthPlace>
+<XML_Serializer_Tag>Prag</XML_Serializer_Tag>
+</birthPlace>
+<deathPlace>
+<XML_Serializer_Tag>Valmont</XML_Serializer_Tag>
+</deathPlace>
+<professionOrOccupation>
+<XML_Serializer_Tag>Schriftsteller</XML_Serializer_Tag>
+<XML_Serializer_Tag>Lyriker</XML_Serializer_Tag>
+</professionOrOccupation>
+<dbpResource>http://dbpedia.org/resource/Rainer_Maria_Rilke</dbpResource>
+<abstract>Rainer Maria Rilke (* 4. Dezember 1875 in Prag; † 29. Dezember 1926 im Sanatorium Valmont bei Montreux, Schweiz; eigentlich René Karl Wilhelm Johann Josef Maria Rilke) war ein Lyriker deutscher Sprache. Mit seiner in den Neuen Gedichten vollendeten, von der bildenden Kunst beeinflussten Dinglyrik gilt er als einer der bedeutendsten Dichter der literarischen Moderne.Daneben verfasste er Erzählungen, einen Roman und Aufsätze zu Kunst und Kultur sowie zahlreiche Übersetzungen von Literatur und Lyrik unter anderem aus dem Französischen. Sein umfangreicher Briefwechsel bildet einen wichtigen Bestandteil seines literarischen Schaffens.</abstract>
+<wikilink>http://en.wikipedia.org/wiki/Rainer_Maria_Rilke?oldid=606126993</wikilink>
+<artworks />
+<buildings />
+<books>
+<XML_Serializer_Tag>
+<book>
+<type>uri</type>
+<value>http://dbpedia.org/resource/Duino_Elegies</value>
+</book>
+<author>
+<type>uri</type>
+<value>http://dbpedia.org/resource/Rainer_Maria_Rilke</value>
+</author>
+<thumbnail>
+<type>uri</type>
+<value>http://commons.wikimedia.org/wiki/Special:FilePath/Pasternak-rilke.jpeg?width=300</value>
+</thumbnail>
+<wikilink>
+<type>uri</type>
+<value>http://en.wikipedia.org/wiki/Duino_Elegies?oldid=601089050</value>
+</wikilink>
+<abstract>
+<type>literal</type>
+<xml:lang>de</xml:lang>
+<value>Duineser Elegien ist der Titel einer Sammlung von zehn Elegien des Dichters Rainer Maria Rilke, die 1912 begonnen und 1922 abgeschlossen wurden.Ihr Name leitet sich vom Schloss Duino bei Triest ab, wo Rilke 1912 als Gast der Gräfin Marie von Thurn und Taxis-Hohenlohe zu Besuch war. Dort war die erste Elegie entstanden.Die Duineser Elegien wechseln einerseits zwischen der Darstellung glücklicher Momente – wie beispielsweise in der Liebe –, und der Klage über allgemeine Probleme des menschlichen Bewusstseins andererseits. Rilkes ästhetischer Anspruch an die Elegien war die Zusammenführung der traditionellen Formen der Hymne und der Elegie. Mit dem Titel und der klagenden Haltung stellen sie sich in den Gattungszusammenhang der Elegie, wenn auch das formale Kriterium einer Elegie, in Distichen verfasst zu sein, nicht immer streng erfüllt wird, sondern das Versmaß des Distichons in Variationen und freirhythmischen Abweichungen umspielt wird, und die vierte und die achte Elegie sogar ganz in Blankversen geschrieben sind.</value>
+</abstract>
+</XML_Serializer_Tag>
+<XML_Serializer_Tag>
+<book>
+<type>uri</type>
+<value>http://dbpedia.org/resource/The_Notebooks_of_Malte_Laurids_Brigge</value>
+</book>
+<author>
+<type>uri</type>
+<value>http://dbpedia.org/resource/Rainer_Maria_Rilke</value>
+</author>
+<released>
+<type>typed-literal</type>
+<datatype>http://www.w3.org/2001/XMLSchema#integer</datatype>
+<value>1910</value>
+</released>
+<wikilink>
+<type>uri</type>
+<value>http://en.wikipedia.org/wiki/The_Notebooks_of_Malte_Laurids_Brigge?oldid=553754414</value>
+</wikilink>
+<abstract>
+<type>literal</type>
+<xml:lang>de</xml:lang>
+<value>Die Aufzeichnungen des Malte Laurids Brigge ist der Titel eines 1910 veröffentlichten Romans in Tagebuchform von Rainer Maria Rilke. Der Roman wurde 1904 in Rom begonnen und reflektiert unter anderem die ersten Eindrücke eines Paris-Aufenthaltes des Autors von 1902/03. Das 1908–1910 in Paris vollendete Werk erschien 1910 und blieb Rilkes einziger Roman.</value>
+</abstract>
+</XML_Serializer_Tag>
+</books>
+</Person>

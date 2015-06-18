@@ -1,0 +1,37 @@
+<Person>
+<name>Ferdinand von Schirach</name>
+<variantName>
+<XML_Serializer_Tag>Ferdinand fon Shirakh</XML_Serializer_Tag>
+<XML_Serializer_Tag>Ferdinand fun Shirakh</XML_Serializer_Tag>
+<XML_Serializer_Tag>Ferdinand fon Širach</XML_Serializer_Tag>
+<XML_Serializer_Tag>Fei di nan Feng Xi la he</XML_Serializer_Tag>
+<XML_Serializer_Tag>Feidinan-Feng-Xilahe</XML_Serializer_Tag>
+<XML_Serializer_Tag>Feidinan Feng Xilahe</XML_Serializer_Tag>
+<XML_Serializer_Tag>Fei di nan de Feng Xi la he</XML_Serializer_Tag>
+<XML_Serializer_Tag>Feidinande-Feng-Xilahe</XML_Serializer_Tag>
+<XML_Serializer_Tag>Feidinande Feng Xilahe</XML_Serializer_Tag>
+<XML_Serializer_Tag>フェルディナント・フォン シーラッハ</XML_Serializer_Tag>
+<XML_Serializer_Tag>페르디난트 폰 쉬라크</XML_Serializer_Tag>
+<XML_Serializer_Tag>פרדיננד פון שיראך</XML_Serializer_Tag>
+</variantName>
+<thumbnail>https://commons.wikimedia.org/wiki/Special:FilePath/Ferdinand_von_Schirach.jpg?width=270</thumbnail>
+<birthEN>1964</birthEN>
+<birthDE>1964</birthDE>
+<deathEN />
+<deathDE />
+<birthPlace>
+<XML_Serializer_Tag>München</XML_Serializer_Tag>
+</birthPlace>
+<deathPlace />
+<professionOrOccupation>
+<XML_Serializer_Tag>Jurist</XML_Serializer_Tag>
+<XML_Serializer_Tag>Strafverteidiger</XML_Serializer_Tag>
+<XML_Serializer_Tag>Schriftsteller</XML_Serializer_Tag>
+</professionOrOccupation>
+<dbpResource>http://dbpedia.org/resource/Ferdinand_von_Schirach</dbpResource>
+<abstract>Ferdinand von Schirach (* 1964 in München) ist ein deutscher Strafverteidiger und Schriftsteller.</abstract>
+<wikilink>http://en.wikipedia.org/wiki/Ferdinand_von_Schirach?oldid=602998987</wikilink>
+<artworks />
+<buildings />
+<books />
+</Person>

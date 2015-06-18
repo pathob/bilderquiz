@@ -1,0 +1,30 @@
+<Person>
+<name>Rut Brandt</name>
+<variantName>
+<XML_Serializer_Tag>Ruth Brandt</XML_Serializer_Tag>
+<XML_Serializer_Tag>Rut Hansen</XML_Serializer_Tag>
+<XML_Serializer_Tag>Rut Bergaust</XML_Serializer_Tag>
+<XML_Serializer_Tag>Rut Hansen</XML_Serializer_Tag>
+</variantName>
+<thumbnail>https://commons.wikimedia.org/wiki/Special:FilePath/Bundesarchiv_B_145_Bild-F032086-0003,_Kanzleramt,_Brandt_gibt_Sommerfest_cropped.jpg?width=270</thumbnail>
+<birthEN>January 10, 1920</birthEN>
+<birthDE>10. Januar 1920</birthDE>
+<deathEN>July 28, 2006</deathEN>
+<deathDE>28. Juli 2006</deathDE>
+<birthPlace>
+<XML_Serializer_Tag>Hamar &lt;Norwegen&gt;</XML_Serializer_Tag>
+</birthPlace>
+<deathPlace>
+<XML_Serializer_Tag>Berlin</XML_Serializer_Tag>
+</deathPlace>
+<professionOrOccupation>
+<XML_Serializer_Tag>Schriftstellerin</XML_Serializer_Tag>
+<XML_Serializer_Tag>Mitwirkung</XML_Serializer_Tag>
+</professionOrOccupation>
+<dbpResource>http://dbpedia.org/resource/Rut_Brandt</dbpResource>
+<abstract>Rut Brandt (* 10. Januar 1920 in Hamar, Norwegen; † 28. Juli 2006 in Berlin, geborene Rut Hansen, verwitwete Rut Bergaust) war eine norwegisch-deutsche Autorin und die zweite Ehefrau des deutschen Bundeskanzlers Willy Brandt.</abstract>
+<wikilink>http://en.wikipedia.org/wiki/Rut_Brandt?oldid=605187698</wikilink>
+<artworks />
+<buildings />
+<books />
+</Person>

@@ -14,8 +14,10 @@
 <XML_Serializer_Tag>Maler</XML_Serializer_Tag>
 <XML_Serializer_Tag>Graphiker</XML_Serializer_Tag>
 </professionOrOccupation>
-<artworks />
 <dbpResource>http://dbpedia.org/resource/Georg_Eisler</dbpResource>
 <abstract>Georg Eisler (* 20. April 1928 in Wien; † 15. Jänner 1998 ebenda) war ein österreichischer Maler und Grafiker.</abstract>
 <wikilink>http://en.wikipedia.org/wiki/Georg_Eisler?oldid=571319160</wikilink>
+<artworks />
+<buildings />
+<books />
 </Person>

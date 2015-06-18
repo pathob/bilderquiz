@@ -14,8 +14,10 @@
 <XML_Serializer_Tag>Maler</XML_Serializer_Tag>
 <XML_Serializer_Tag>Zeichner</XML_Serializer_Tag>
 </professionOrOccupation>
-<artworks />
 <dbpResource>http://dbpedia.org/resource/Egbert_van_Heemskerck</dbpResource>
 <abstract>Egbert van Heemskerk II, der Jüngere (auch Egbert Jaspersz. van Heemskerk; * um 1634/1635 oder 1645 in Haarlem; † 1704 in London) war ein niederländischer Bauernmaler, Genremaler und Zeichner. Er war Schüler von Pieter Fransz. de Grebber, malte jedoch in der Manier seines Vaters Egbert van Heemskerk I und Brouwers.Er siedelte frühzeitig nach London über, wo seine Kunst reiche Anerkennung fand, und wo er 1704 starb. In der Wahl seiner Stoffe schloss er sich ganz an Teniers an, indem er teils Wirtshausszenen und ländliche Vergnügungen, teils Versuchungen des heiligen Antonius, Hexenzusammenkünfte und ähnliche Spukszenen malte.</abstract>
 <wikilink>http://en.wikipedia.org/wiki/Egbert_van_Heemskerck?oldid=606391414</wikilink>
+<artworks />
+<buildings />
+<books />
 </Person>

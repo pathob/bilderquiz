@@ -1,0 +1,38 @@
+<Person>
+<name>Carl Arnold Kortum</name>
+<variantName>
+<XML_Serializer_Tag>Karl Arnold Kortum</XML_Serializer_Tag>
+<XML_Serializer_Tag>Carl Arnold Cortum</XML_Serializer_Tag>
+<XML_Serializer_Tag>Carl Arnold Cortüm</XML_Serializer_Tag>
+<XML_Serializer_Tag>K. A. Kortum</XML_Serializer_Tag>
+<XML_Serializer_Tag>C. A. Kortum</XML_Serializer_Tag>
+<XML_Serializer_Tag>C. A. Kortüm</XML_Serializer_Tag>
+<XML_Serializer_Tag>Carl Arnold Kortüm</XML_Serializer_Tag>
+<XML_Serializer_Tag>Karl Arnold Kortüm</XML_Serializer_Tag>
+<XML_Serializer_Tag>C. A. K.</XML_Serializer_Tag>
+<XML_Serializer_Tag>Carolus A. Korthum</XML_Serializer_Tag>
+<XML_Serializer_Tag>D. C. A. Kortüm</XML_Serializer_Tag>
+<XML_Serializer_Tag>Karl Arnold Cortüm</XML_Serializer_Tag>
+</variantName>
+<thumbnail>https://commons.wikimedia.org/wiki/Special:FilePath/Jobsiade.jpg?width=270</thumbnail>
+<birthEN>July 5, 1745</birthEN>
+<birthDE>5. Juli 1745</birthDE>
+<deathEN>August 15, 1824</deathEN>
+<deathDE>15. August 1824</deathDE>
+<birthPlace>
+<XML_Serializer_Tag>Mülheim an der Ruhr</XML_Serializer_Tag>
+</birthPlace>
+<deathPlace>
+<XML_Serializer_Tag>Bochum</XML_Serializer_Tag>
+</deathPlace>
+<professionOrOccupation>
+<XML_Serializer_Tag>Arzt</XML_Serializer_Tag>
+<XML_Serializer_Tag>Schriftsteller</XML_Serializer_Tag>
+</professionOrOccupation>
+<dbpResource>http://dbpedia.org/resource/Carl_Arnold_Kortum</dbpResource>
+<abstract>Carl Arnold Kortum (* 5. Juli 1745 in Mülheim an der Ruhr; † 15. August 1824 in Bochum) war ein deutscher Arzt, Schriftsteller und Heimatforscher.</abstract>
+<wikilink>http://en.wikipedia.org/wiki/Carl_Arnold_Kortum?oldid=603847066</wikilink>
+<artworks />
+<buildings />
+<books />
+</Person>

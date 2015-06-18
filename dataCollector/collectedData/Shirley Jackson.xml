@@ -1,0 +1,61 @@
+<Person>
+<name>Shirley Jackson</name>
+<variantName />
+<thumbnail>https://en.wikipedia.org/wiki/Special:FilePath/ShirleyJack.jpg?width=270</thumbnail>
+<birthEN>14.12.</birthEN>
+<birthDE>14.12.</birthDE>
+<deathEN>September 8, 1965</deathEN>
+<deathDE>8. September 1965</deathDE>
+<birthPlace>
+<XML_Serializer_Tag>San Francisco, Calif.</XML_Serializer_Tag>
+</birthPlace>
+<deathPlace />
+<professionOrOccupation>
+<XML_Serializer_Tag>Schriftstellerin</XML_Serializer_Tag>
+</professionOrOccupation>
+<dbpResource>http://dbpedia.org/resource/Shirley_Jackson</dbpResource>
+<abstract>Shirley Jackson (* 14. Dezember 1916 in San Francisco; † 8. August 1965 in North Bennington, Vermont) war eine US-amerikanische Schriftstellerin klassischer Horror- und Schauerliteratur, die vor allem durch die Kurzgeschichte The Lottery aus dem Jahr 1948 bekannt wurde.</abstract>
+<wikilink>http://en.wikipedia.org/wiki/Shirley_Jackson?oldid=606463720</wikilink>
+<artworks />
+<buildings />
+<books>
+<XML_Serializer_Tag>
+<book>
+<type>uri</type>
+<value>http://dbpedia.org/resource/The_Sundial</value>
+</book>
+<author>
+<type>uri</type>
+<value>http://dbpedia.org/resource/Shirley_Jackson</value>
+</author>
+<released>
+<type>typed-literal</type>
+<datatype>http://www.w3.org/2001/XMLSchema#integer</datatype>
+<value>1958</value>
+</released>
+<wikilink>
+<type>uri</type>
+<value>http://en.wikipedia.org/wiki/The_Sundial?oldid=601521419</value>
+</wikilink>
+</XML_Serializer_Tag>
+<XML_Serializer_Tag>
+<book>
+<type>uri</type>
+<value>http://dbpedia.org/resource/The_Haunting_of_Hill_House</value>
+</book>
+<author>
+<type>uri</type>
+<value>http://dbpedia.org/resource/Shirley_Jackson</value>
+</author>
+<released>
+<type>typed-literal</type>
+<datatype>http://www.w3.org/2001/XMLSchema#integer</datatype>
+<value>1959</value>
+</released>
+<wikilink>
+<type>uri</type>
+<value>http://en.wikipedia.org/wiki/The_Haunting_of_Hill_House?oldid=601146412</value>
+</wikilink>
+</XML_Serializer_Tag>
+</books>
+</Person>

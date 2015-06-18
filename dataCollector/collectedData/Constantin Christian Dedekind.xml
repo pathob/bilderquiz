@@ -1,0 +1,37 @@
+<Person>
+<name>Constantin Christian Dedekind</name>
+<variantName>
+<XML_Serializer_Tag>Christian Dedekind</XML_Serializer_Tag>
+<XML_Serializer_Tag>Constantinus Christianus Dedekind</XML_Serializer_Tag>
+<XML_Serializer_Tag>Konstantin Christian Dedekind</XML_Serializer_Tag>
+<XML_Serializer_Tag>Constantin-Christian Dedekind</XML_Serializer_Tag>
+<XML_Serializer_Tag>Konstantin C. Dedekind</XML_Serializer_Tag>
+<XML_Serializer_Tag>ConCorD</XML_Serializer_Tag>
+<XML_Serializer_Tag>ConCorDen</XML_Serializer_Tag>
+<XML_Serializer_Tag>ConCorDenS</XML_Serializer_Tag>
+<XML_Serializer_Tag>Concordin</XML_Serializer_Tag>
+<XML_Serializer_Tag>Constantin C. Dedekind</XML_Serializer_Tag>
+<XML_Serializer_Tag>C. Chr. Dedekind</XML_Serializer_Tag>
+</variantName>
+<thumbnail>https://commons.wikimedia.org/wiki/Special:FilePath/Constantin_Christian_Dedekind.jpg?width=270</thumbnail>
+<birthEN>April 2, 1628</birthEN>
+<birthDE>2. April 1628</birthDE>
+<deathEN>1715</deathEN>
+<deathDE>1715</deathDE>
+<birthPlace>
+<XML_Serializer_Tag>Reinsdorf</XML_Serializer_Tag>
+</birthPlace>
+<deathPlace>
+<XML_Serializer_Tag>Dresden</XML_Serializer_Tag>
+</deathPlace>
+<professionOrOccupation>
+<XML_Serializer_Tag>Komponist</XML_Serializer_Tag>
+<XML_Serializer_Tag>Schriftsteller</XML_Serializer_Tag>
+</professionOrOccupation>
+<dbpResource>http://dbpedia.org/resource/Constantin_Christian_Dedekind</dbpResource>
+<abstract>Constantin Christian Dedekind (* 2. April 1628 in Reinsdorf /Anhalt-Köthen † vor dem 2. September 1715 in Dresden) war ein deutscher Dichter und Komponist der Barockzeit.</abstract>
+<wikilink>http://en.wikipedia.org/wiki/Constantin_Christian_Dedekind?oldid=546304217</wikilink>
+<artworks />
+<buildings />
+<books />
+</Person>

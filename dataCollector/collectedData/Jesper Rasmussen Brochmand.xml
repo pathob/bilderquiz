@@ -1,0 +1,44 @@
+<Person>
+<name>Jesper Rasmussen Brochmand</name>
+<variantName>
+<XML_Serializer_Tag>Casparus Erasmus Brochman</XML_Serializer_Tag>
+<XML_Serializer_Tag>Jesper Rasmussen Brochman</XML_Serializer_Tag>
+<XML_Serializer_Tag>Casp. Erasmi Brochmand</XML_Serializer_Tag>
+<XML_Serializer_Tag>Caspar E. Brochmand</XML_Serializer_Tag>
+<XML_Serializer_Tag>Caspar Erasmus Brochmand</XML_Serializer_Tag>
+<XML_Serializer_Tag>Casparo Erasmo Brochmand</XML_Serializer_Tag>
+<XML_Serializer_Tag>Casparus Erasmus Brochmand</XML_Serializer_Tag>
+<XML_Serializer_Tag>Jesper Brochmand</XML_Serializer_Tag>
+<XML_Serializer_Tag>Kaspar Erasmus Brochmand</XML_Serializer_Tag>
+<XML_Serializer_Tag>Jesper Brochmann</XML_Serializer_Tag>
+<XML_Serializer_Tag>Casp. Erasmus Brochmannus</XML_Serializer_Tag>
+<XML_Serializer_Tag>Casparus Brochmannus</XML_Serializer_Tag>
+<XML_Serializer_Tag>Casparus Brochmannus</XML_Serializer_Tag>
+<XML_Serializer_Tag>Casparus Erasmus Brochmannus</XML_Serializer_Tag>
+<XML_Serializer_Tag>Jesper Brokman</XML_Serializer_Tag>
+<XML_Serializer_Tag>Casparus Erasmius Koagiensis</XML_Serializer_Tag>
+</variantName>
+<thumbnail>https://commons.wikimedia.org/wiki/Special:FilePath/Faroe_stamp_463_Brochmand.jpg?width=270</thumbnail>
+<birthEN>1585</birthEN>
+<birthDE>1585</birthDE>
+<deathEN>1652</deathEN>
+<deathDE>1652</deathDE>
+<birthPlace>
+<XML_Serializer_Tag>Køge</XML_Serializer_Tag>
+</birthPlace>
+<deathPlace>
+<XML_Serializer_Tag>Kopenhagen</XML_Serializer_Tag>
+</deathPlace>
+<professionOrOccupation>
+<XML_Serializer_Tag>Autor</XML_Serializer_Tag>
+<XML_Serializer_Tag>Bischof</XML_Serializer_Tag>
+<XML_Serializer_Tag>Professor</XML_Serializer_Tag>
+<XML_Serializer_Tag>Theologe</XML_Serializer_Tag>
+</professionOrOccupation>
+<dbpResource>http://dbpedia.org/resource/Jesper_Brochmand</dbpResource>
+<abstract>Jesper Rasmussen (auch Caspar Erasmus) Brochmand (* 5. August 1585 in Køge; † 19. April 1652 in Kopenhagen) war ein dänischer lutherischer Theologe.</abstract>
+<wikilink>http://en.wikipedia.org/wiki/Jesper_Brochmand?oldid=594269593</wikilink>
+<artworks />
+<buildings />
+<books />
+</Person>

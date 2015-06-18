@@ -16,8 +16,10 @@
 <professionOrOccupation>
 <XML_Serializer_Tag>Maler</XML_Serializer_Tag>
 </professionOrOccupation>
-<artworks />
 <dbpResource>http://dbpedia.org/resource/Yan_Pei-Ming</dbpResource>
 <abstract>Yan Pei-Ming (* 1. Dezember 1960 in Shanghai) ist ein chinesischer Maler.</abstract>
 <wikilink>http://en.wikipedia.org/wiki/Yan_Pei-Ming?oldid=592076294</wikilink>
+<artworks />
+<buildings />
+<books />
 </Person>

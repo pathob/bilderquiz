@@ -1,0 +1,26 @@
+<Person>
+<name>Henriette Paalzow</name>
+<variantName>
+<XML_Serializer_Tag>Henriette von Paalzow</XML_Serializer_Tag>
+<XML_Serializer_Tag>Henriette von Wach</XML_Serializer_Tag>
+<XML_Serializer_Tag>C. Friebe</XML_Serializer_Tag>
+<XML_Serializer_Tag>Henriette Johanna Paalzow</XML_Serializer_Tag>
+<XML_Serializer_Tag>... von Nottingham</XML_Serializer_Tag>
+</variantName>
+<thumbnail>https://commons.wikimedia.org/wiki/Special:FilePath/Henriette_Paalzow.jpg?width=270</thumbnail>
+<birthEN>1788</birthEN>
+<birthDE>1788</birthDE>
+<deathEN>1847</deathEN>
+<deathDE>1847</deathDE>
+<birthPlace />
+<deathPlace />
+<professionOrOccupation>
+<XML_Serializer_Tag>Schriftstellerin</XML_Serializer_Tag>
+</professionOrOccupation>
+<dbpResource>http://dbpedia.org/resource/Henriette_Paalzow</dbpResource>
+<abstract>Henriette von Paalzow (* 1788 in Berlin; † 30. Oktober 1847 ebenda) war eine deutsche Schriftstellerin.</abstract>
+<wikilink>http://en.wikipedia.org/wiki/Henriette_Paalzow?oldid=586663128</wikilink>
+<artworks />
+<buildings />
+<books />
+</Person>

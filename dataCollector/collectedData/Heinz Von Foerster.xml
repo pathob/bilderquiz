@@ -1,0 +1,32 @@
+<Person>
+<name>Heinz Von Foerster</name>
+<variantName>
+<XML_Serializer_Tag>Heinz M. Von Foerster</XML_Serializer_Tag>
+<XML_Serializer_Tag>Heinz von Foerster</XML_Serializer_Tag>
+<XML_Serializer_Tag>Heinz v. Foerster</XML_Serializer_Tag>
+<XML_Serializer_Tag>Heinz VonFoerster</XML_Serializer_Tag>
+<XML_Serializer_Tag>Heinz M. VonFoerster</XML_Serializer_Tag>
+</variantName>
+<thumbnail>https://commons.wikimedia.org/wiki/Special:FilePath/HvF_01.jpg?width=270</thumbnail>
+<birthEN>1911</birthEN>
+<birthDE>1911</birthDE>
+<deathEN>October 2, 2002</deathEN>
+<deathDE>2. Oktober 2002</deathDE>
+<birthPlace>
+<XML_Serializer_Tag>Wien</XML_Serializer_Tag>
+</birthPlace>
+<deathPlace>
+<XML_Serializer_Tag>Pescadero &lt;Calif.&gt;</XML_Serializer_Tag>
+</deathPlace>
+<professionOrOccupation>
+<XML_Serializer_Tag>Philosoph</XML_Serializer_Tag>
+<XML_Serializer_Tag>Mathematiker</XML_Serializer_Tag>
+<XML_Serializer_Tag>Physiker</XML_Serializer_Tag>
+</professionOrOccupation>
+<dbpResource>http://dbpedia.org/resource/Heinz_von_Foerster</dbpResource>
+<abstract>Heinz von Foerster (* 13. November 1911 als Heinz von Förster in Wien; † 2. Oktober 2002 in Pescadero, Kalifornien) war ein österreichischer Physiker, Professor für Biophysik und langjähriger Direktor des Biological Computer Laboratory in Illinois. Er gilt als Mitbegründer der kybernetischen Wissenschaft und ist philosophisch dem radikalen Konstruktivismus zuzuordnen.Zu seinen bekanntesten Wortschöpfungen gehören Kybernetik zweiter Ordnung, Lethologie, Neugierologie, KybernEthik. Er prägte auch den Begriff Ethischer Imperativ.</abstract>
+<wikilink>http://en.wikipedia.org/wiki/Heinz_von_Foerster?oldid=604784877</wikilink>
+<artworks />
+<buildings />
+<books />
+</Person>

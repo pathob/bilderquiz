@@ -14,8 +14,10 @@
 <professionOrOccupation>
 <XML_Serializer_Tag>Maler</XML_Serializer_Tag>
 </professionOrOccupation>
-<artworks />
 <dbpResource>http://dbpedia.org/resource/Marco_Benefial</dbpResource>
 <abstract>Marco Benefial (* 25. April 1684 in Rom; † 9. April 1764 ebenda) war ein italienischer Maler des frühen Klassizismus in Rom.</abstract>
 <wikilink>http://en.wikipedia.org/wiki/Marco_Benefial?oldid=605038424</wikilink>
+<artworks />
+<buildings />
+<books />
 </Person>

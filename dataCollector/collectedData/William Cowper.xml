@@ -1,0 +1,49 @@
+<Person>
+<name>William Cowper</name>
+<variantName />
+<thumbnail>https://commons.wikimedia.org/wiki/Special:FilePath/Cowper.jpg?width=270</thumbnail>
+<birthEN>November 26, 1731</birthEN>
+<birthDE>26. November 1731</birthDE>
+<deathEN>April 25, 1800</deathEN>
+<deathDE>25. April 1800</deathDE>
+<birthPlace>
+<XML_Serializer_Tag>Berkhamstead, Herford</XML_Serializer_Tag>
+</birthPlace>
+<deathPlace>
+<XML_Serializer_Tag>East Dereham, Norfolk</XML_Serializer_Tag>
+</deathPlace>
+<professionOrOccupation>
+<XML_Serializer_Tag>Schriftsteller</XML_Serializer_Tag>
+<XML_Serializer_Tag>Rechtsanwalt</XML_Serializer_Tag>
+</professionOrOccupation>
+<dbpResource>http://dbpedia.org/resource/William_Cowper</dbpResource>
+<abstract>William Cowper (* 26. November 1731 in Berkhamstead, Hertfordshire; † 25. April 1800 in East Dereham, Norfolk) war ein englischer Rechtsanwalt und Dichter.</abstract>
+<wikilink>http://en.wikipedia.org/wiki/William_Cowper?oldid=605197864</wikilink>
+<artworks />
+<buildings />
+<books>
+<XML_Serializer_Tag>
+<book>
+<type>uri</type>
+<value>http://dbpedia.org/resource/The_Task_(poem)</value>
+</book>
+<author>
+<type>uri</type>
+<value>http://dbpedia.org/resource/William_Cowper</value>
+</author>
+<thumbnail>
+<type>uri</type>
+<value>http://commons.wikimedia.org/wiki/Special:FilePath/William_Cowper_by_Lemuel_Francis_Abbott.jpg?width=300</value>
+</thumbnail>
+<released>
+<type>typed-literal</type>
+<datatype>http://www.w3.org/2001/XMLSchema#integer</datatype>
+<value>1785</value>
+</released>
+<wikilink>
+<type>uri</type>
+<value>http://en.wikipedia.org/wiki/The_Task_(poem)?oldid=560152477</value>
+</wikilink>
+</XML_Serializer_Tag>
+</books>
+</Person>

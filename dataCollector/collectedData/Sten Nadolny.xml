@@ -1,0 +1,60 @@
+<Person>
+<name>Sten Nadolny</name>
+<variantName>
+<XML_Serializer_Tag>Sten Nantolny</XML_Serializer_Tag>
+<XML_Serializer_Tag>Sŭt&apos;en Nadolli</XML_Serializer_Tag>
+<XML_Serializer_Tag>Sṭen Nādôlnî</XML_Serializer_Tag>
+<XML_Serializer_Tag>Syuten Nadorunī</XML_Serializer_Tag>
+<XML_Serializer_Tag>Sten Nadolʹnyj</XML_Serializer_Tag>
+<XML_Serializer_Tag>Shi deng Na duo ni</XML_Serializer_Tag>
+<XML_Serializer_Tag>Shideng-Naduoni</XML_Serializer_Tag>
+<XML_Serializer_Tag>Shideng Naduoni</XML_Serializer_Tag>
+<XML_Serializer_Tag>스텐 나돌니</XML_Serializer_Tag>
+<XML_Serializer_Tag>史登·拿多尼</XML_Serializer_Tag>
+<XML_Serializer_Tag>シュテン・ナドルニー</XML_Serializer_Tag>
+</variantName>
+<thumbnail>https://commons.wikimedia.org/wiki/Special:FilePath/Sten_Nadolny_und_Jens_Sparschuh.jpg?width=270</thumbnail>
+<birthEN>1942</birthEN>
+<birthDE>1942</birthDE>
+<deathEN />
+<deathDE />
+<birthPlace>
+<XML_Serializer_Tag>Zehdenick</XML_Serializer_Tag>
+</birthPlace>
+<deathPlace />
+<professionOrOccupation>
+<XML_Serializer_Tag>Schriftsteller</XML_Serializer_Tag>
+<XML_Serializer_Tag>Drehbuchautor</XML_Serializer_Tag>
+</professionOrOccupation>
+<dbpResource>http://dbpedia.org/resource/Sten_Nadolny</dbpResource>
+<abstract>Sten Nadolny [steːn naˈdɔlni] (* 29. Juli 1942 in Zehdenick, Landkreis Templin, Provinz Brandenburg) ist ein deutscher Schriftsteller. Er ist der Sohn des Schriftstellerpaares Burkhard und Isabella Nadolny. Sein größter Erfolg ist der Bestseller Die Entdeckung der Langsamkeit.</abstract>
+<wikilink>http://en.wikipedia.org/wiki/Sten_Nadolny?oldid=596204986</wikilink>
+<artworks />
+<buildings />
+<books>
+<XML_Serializer_Tag>
+<book>
+<type>uri</type>
+<value>http://dbpedia.org/resource/The_Discovery_of_Slowness</value>
+</book>
+<author>
+<type>uri</type>
+<value>http://dbpedia.org/resource/Sten_Nadolny</value>
+</author>
+<released>
+<type>typed-literal</type>
+<datatype>http://www.w3.org/2001/XMLSchema#integer</datatype>
+<value>1983</value>
+</released>
+<wikilink>
+<type>uri</type>
+<value>http://en.wikipedia.org/wiki/The_Discovery_of_Slowness?oldid=595699475</value>
+</wikilink>
+<abstract>
+<type>literal</type>
+<xml:lang>de</xml:lang>
+<value>Die Entdeckung der Langsamkeit ist ein 1983 erschienener Roman und preisgekrönter Bestseller des deutschen Schriftstellers Sten Nadolny. Sein Protagonist ist der englische Kapitän und Polarforscher John Franklin, der wegen seiner Langsamkeit immer wieder Schwierigkeiten hat, mit der Schnelllebigkeit seiner Zeit Schritt zu halten, aber schließlich doch aufgrund seiner Beharrlichkeit zu einem großen Entdecker wird.Der Roman ist bewusst nicht authentisch gehalten, denn die im Roman beschriebene Figur ist im Gegensatz zum realen Vorbild ein der Langsamkeit verpflichteter Mensch mit modernen Idealen.Der Roman ist Burkhard Nadolny, dem Vater des Autors, gewidmet.</value>
+</abstract>
+</XML_Serializer_Tag>
+</books>
+</Person>

@@ -1,0 +1,90 @@
+<Person>
+<name>Albert Speer</name>
+<variantName>
+<XML_Serializer_Tag>Al&apos;bert Špeer</XML_Serializer_Tag>
+</variantName>
+<thumbnail>https://commons.wikimedia.org/wiki/Special:FilePath/Bundesarchiv_Bild_146II-277,_Albert_Speer.jpg?width=270</thumbnail>
+<birthEN>March 19, 1905</birthEN>
+<birthDE>19. März 1905</birthDE>
+<deathEN>September 1, 1981</deathEN>
+<deathDE>1. September 1981</deathDE>
+<birthPlace>
+<XML_Serializer_Tag>Mannheim</XML_Serializer_Tag>
+</birthPlace>
+<deathPlace>
+<XML_Serializer_Tag>London</XML_Serializer_Tag>
+</deathPlace>
+<professionOrOccupation>
+<XML_Serializer_Tag>Architekt</XML_Serializer_Tag>
+<XML_Serializer_Tag>Politiker</XML_Serializer_Tag>
+<XML_Serializer_Tag>Generalbaumeister</XML_Serializer_Tag>
+</professionOrOccupation>
+<dbpResource>http://dbpedia.org/resource/Albert_Speer</dbpResource>
+<abstract>Berthold Konrad Hermann Albert Speer (* 19. März 1905 in Mannheim; † 1. September 1981 in London) war ein deutscher Architekt, Rüstungsorganisator in der Zeit des Nationalsozialismus und ab 1942 Reichsminister für Bewaffnung und Munition. Er wurde als Kriegsverbrecher beim Nürnberger Prozess zu 20 Jahren Haft verurteilt.Als Favorit Hitlers machte der Architekt Speer ab 1933 eine kometenhafte Karriere. Ab 1937 war er Generalbauinspektor für die Reichshauptstadt, plante und leitete zahlreiche Monumentalbauvorhaben Hitlers, die den NS-Herrschaftsanspruch unterstreichen sollten. Als Fritz Todt am 8. Februar 1942 bei einem Flugzeugabsturz starb, wurde Speer sein Nachfolger als Rüstungsminister. Es gelang ihm, trotz starker Bombardierungen die Gesamtproduktion bis zum Kriegsende jährlich immer weiter zu erhöhen. Als Rüstungsminister war er für die Beschäftigung von 700.000 Zwangsarbeitern mitverantwortlich; er nahm Einfluss auf Betrieb und Ausbau von Konzentrationslagern. Speer gehörte zu den 24 Angeklagten im Nürnberger Prozess gegen die Hauptkriegsverbrecher vor dem Internationalen Militärgerichtshof, dem aber ein erheblicher Teil von Speers Taten nicht vorlagen. 1946 wurde er wegen seiner Kriegsverbrechen und Verbrechen gegen die Menschlichkeit schuldig gesprochen und zu 20 Jahren Haft verurteilt. Diese saß er vollständig im Kriegsverbrechergefängnis Spandau ab.Vor allem wegen seiner nach der Haft publizierten Autobiografie und der darin enthaltenen Apologetik sowie nach seinem Tod bekannt gewordenen Beteiligungen am Bau von Konzentrations- und Massenvernichtungslagern sowie dem Erwerb aus jüdischen Notverkäufen (&quot;Arisierung&quot;) gilt er als ein umstrittener Autor über die Zeit des Nationalsozialismus.</abstract>
+<wikilink>http://en.wikipedia.org/wiki/Albert_Speer?oldid=605256616</wikilink>
+<artworks />
+<buildings>
+<XML_Serializer_Tag>
+<building>
+<type>uri</type>
+<value>http://dbpedia.org/resource/F%C3%BChrerbunker</value>
+</building>
+<name>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>Führer&apos;s bunker</value>
+</name>
+<architect>
+<type>uri</type>
+<value>http://dbpedia.org/resource/Albert_Speer</value>
+</architect>
+<thumbnail>
+<type>uri</type>
+<value>http://commons.wikimedia.org/wiki/Special:FilePath/Bundesarchiv_Bild_183-V04744,_Berlin,_Garten_der_zerstörte_Reichskanzlei.jpg?width=300</value>
+</thumbnail>
+<wikilink>
+<type>uri</type>
+<value>http://en.wikipedia.org/wiki/Führerbunker?oldid=604530882</value>
+</wikilink>
+<location>
+<type>uri</type>
+<value>http://dbpedia.org/resource/Berlin</value>
+</location>
+<abstract>
+<type>literal</type>
+<xml:lang>de</xml:lang>
+<value>Als Führerbunker bezeichnet man den Komplex der unterirdischen Luftschutzräume in Berlin, der Adolf Hitler in den letzten Wochen des nationalsozialistischen Regimes in Deutschland als Führerhauptquartier diente und in dem er Suizid beging.</value>
+</abstract>
+</XML_Serializer_Tag>
+</buildings>
+<books>
+<XML_Serializer_Tag>
+<book>
+<type>uri</type>
+<value>http://dbpedia.org/resource/Inside_the_Third_Reich</value>
+</book>
+<author>
+<type>uri</type>
+<value>http://dbpedia.org/resource/Albert_Speer</value>
+</author>
+<thumbnail>
+<type>uri</type>
+<value>http://commons.wikimedia.org/wiki/Special:FilePath/Inside_The_Third_Reich.jpg?width=300</value>
+</thumbnail>
+<released>
+<type>typed-literal</type>
+<datatype>http://www.w3.org/2001/XMLSchema#integer</datatype>
+<value>19701995</value>
+</released>
+<wikilink>
+<type>uri</type>
+<value>http://en.wikipedia.org/wiki/Inside_the_Third_Reich?oldid=602699232</value>
+</wikilink>
+<abstract>
+<type>literal</type>
+<xml:lang>de</xml:lang>
+<value>Erinnerungen nannte Albert Speer seine Autobiografie. Der Architekt war unter anderem Rüstungsminister des nationalsozialistischen Deutschlands gewesen. Das Werk wurde zwischen 1946 und 1966 geschrieben. Speer gelang es, die allgemeine Leserschaft und auch die Geschichtswissenschaft zu beeindrucken. Allerdings beurteilt man seine detaillierten Beschreibungen aus dem Führungszirkel kritisch, weil Speer viele Verbrechen des Dritten Reiches und seine Beteiligung daran verschweigt oder verfälscht darstellt.</value>
+</abstract>
+</XML_Serializer_Tag>
+</books>
+</Person>

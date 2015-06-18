@@ -12,8 +12,10 @@
 <XML_Serializer_Tag>Bildhauer</XML_Serializer_Tag>
 <XML_Serializer_Tag>Maler</XML_Serializer_Tag>
 </professionOrOccupation>
-<artworks />
 <dbpResource>http://dbpedia.org/resource/Charles_Despiau</dbpResource>
 <abstract>Charles Despiau (* 4. November 1874 in Mont-de-Marsan; † 28. Oktober 1946 in Paris) war ein französischer Bildhauer, der vor allem als Porträtbildhauer geschätzt war und neben Auguste Rodin, Aristide Maillol und Antoine Bourdelle zu den tonangebenden Bildhauern des frühen 20. Jahrhunderts wurde.</abstract>
 <wikilink>http://en.wikipedia.org/wiki/Charles_Despiau?oldid=540319570</wikilink>
+<artworks />
+<buildings />
+<books />
 </Person>

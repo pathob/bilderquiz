@@ -33,31 +33,41 @@ function getPersonMetaData($person)
    }
 }
 
+
 function getArtworks($personURI){
-   $format = 'json';
+$format = 'json';
  
    $query = 
    'PREFIX dbp: <http://dbpedia.org/resource/>
    PREFIX dbp2: <http://dbpedia.org/ontology/>
  
-   SELECT ?painting,?thumbnail,?name,?year,?abstract,?wikilink
+   SELECT ?artwork,?thumbnail,?name,?year,?abstract,?wikilink,?type
    WHERE {
-	 ?painting a dbpedia-owl:Artwork.
-	 ?painting dbpedia-owl:thumbnail ?thumbnail.
-	 ?painting foaf:name ?name.
-	 ?painting dbpedia-owl:author ?author. 
+	 ?artwork a dbpedia-owl:Artwork.
+	 ?artwork dbpedia-owl:thumbnail ?thumbnail.
+	 ?artwork foaf:name ?name.
+	 ?artwork dbpedia-owl:author ?author. 
 	 ?author prov:wasDerivedFrom ?id.
 	 OPTIONAL{
-		?painting dbpprop:year ?year
+		?artwork dbpprop:year ?year
 	 }
 	 
 	 OPTIONAL{
-		?painting dbpedia-owl:abstract ?abstract
+		?artwork dbpedia-owl:abstract ?abstract
 		FILTER(LANG(?abstract)="de")
 	 }
 	 
 	 OPTIONAL{
-		?painting prov:wasDerivedFrom ?wikilink
+		?artwork dbpedia-owl:abstract ?abstract
+		FILTER(LANG(?abstract)="de")
+	 }
+	 
+	 OPTIONAL{
+		?artwork prov:wasDerivedFrom ?wikilink
+	 }
+	 
+	 OPTIONAL{
+		?artwork dbpprop:type ?type
 	 }
 	 
 
@@ -73,9 +83,101 @@ function getArtworks($personURI){
  
    if(property_exists($jsonResult,"results") && property_exists($jsonResult->results,"bindings")
    &&count($jsonResult->results->bindings)>0){
-	return $jsonResult->results->bindings;
+	return removeDuplicates($jsonResult->results->bindings,"artwork");
    }else{
-	return null;
+	return array();
+   }
+}
+
+
+
+function getBuildings($dbpid)
+{
+   $format = 'json';
+ 
+   $query = 
+   'PREFIX dbp: <http://dbpedia.org/resource/>
+   PREFIX dbp2: <http://dbpedia.org/ontology/>
+ 
+   SELECT ?building,?name,?architect,?thumbnail,?wikilink,?location,?built,?abstract
+   WHERE {
+	 ?building a dbpedia-owl:ArchitecturalStructure.
+	 ?building dbpedia-owl:thumbnail ?thumbnail.
+	 ?building prov:wasDerivedFrom ?wikilink.
+	 ?building dbpedia-owl:architect ?architect.
+	 
+	 OPTIONAL{
+		?building foaf:name ?name.
+	 }
+	 OPTIONAL{
+		?building dbpedia-owl:location ?location.
+	 }
+	 
+	 OPTIONAL{
+		?building dbpprop:built ?built.
+	 }
+	 OPTIONAL{
+		?building dbpedia-owl:abstract ?abstract
+		FILTER(LANG(?abstract)="de")
+	 }
+	 
+	 FILTER( ?architect =<'.$dbpid.'>)
+   }
+   LIMIT 1000';
+   $searchUrl = 'http://dbpedia.org/sparql?'
+      .'query='.urlencode($query)
+      .'&format='.$format;
+   $dbPediaResult=DDPediaRequest($searchUrl);
+   $jsonResult = json_decode($dbPediaResult);
+ if(property_exists($jsonResult,"results") && property_exists($jsonResult->results,"bindings")
+   &&count($jsonResult->results->bindings)>0){
+	return removeDuplicates($jsonResult->results->bindings,"building");
+   }else{
+	return array();
+   }
+}
+
+function getBooks($dbpid)
+{
+   $format = 'json';
+ 
+   $query = 
+   'PREFIX dbp: <http://dbpedia.org/resource/>
+   PREFIX dbp2: <http://dbpedia.org/ontology/>
+ 
+   SELECT ?book,?author,?thumbnail,?published,?released,?wikilink,?abstract
+   WHERE {
+	 ?book a dbpedia-owl:Book.
+	 ?book dbpedia-owl:author ?author.
+	 ?book foaf:name ?name.
+	 ?book prov:wasDerivedFrom ?wikilink.
+	 OPTIONAL{
+		?book dbpprop:published ?published.
+	 }
+	 OPTIONAL{
+		?book dbpprop:releaseDate ?released.
+	 }
+	 OPTIONAL{
+		?book dbpedia-owl:thumbnail ?thumbnail.
+	 }
+	  OPTIONAL{
+		?book dbpedia-owl:abstract ?abstract
+		FILTER(LANG(?abstract)="de")
+	 }
+	 
+	 FILTER(?author=<'.$dbpid.'>)
+   }
+   LIMIT 100';
+   $searchUrl = 'http://dbpedia.org/sparql?'
+      .'query='.urlencode($query)
+      .'&format='.$format;
+   $dbPediaResult=DDPediaRequest($searchUrl);
+   $jsonResult = json_decode($dbPediaResult);
+ if(property_exists($jsonResult,"results") && property_exists($jsonResult->results,"bindings")
+   &&count($jsonResult->results->bindings)>0){
+	return removeDuplicates($jsonResult->results->bindings,"book");
+   }else{
+	return array();
    }
 }
 
@@ -107,8 +209,24 @@ function DDPediaRequest($url){
    return $response;
 }
 
+function removeDuplicates($duplArray,$keyName){
+	$duplicate_check =array();
+	$count = count($duplArray);
+	for($i=0;$i<$count;$i++){
+		$curKey =$duplArray[$i]->{$keyName}->value;
+		if(array_key_exists ( $curKey, $duplicate_check )){
+			unset($duplArray[$i]);
+		}else{
+			$duplicate_check[$curKey]=1;
+		}
+		
+		
+	}
+	
+	return array_values($duplArray);
+
+}
+
 
 ?>
- 
 
-</html>

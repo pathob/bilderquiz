@@ -1,0 +1,24 @@
+<Person>
+<name>Dieter Oesterlen</name>
+<variantName />
+<thumbnail>https://commons.wikimedia.org/wiki/Special:FilePath/Dieter_Oesterlen.jpg?width=270</thumbnail>
+<birthEN>1911</birthEN>
+<birthDE>1911</birthDE>
+<deathEN>1994</deathEN>
+<deathDE>1994</deathDE>
+<birthPlace>
+<XML_Serializer_Tag>Heidenheim an der Brenz</XML_Serializer_Tag>
+</birthPlace>
+<deathPlace>
+<XML_Serializer_Tag>Hannover</XML_Serializer_Tag>
+</deathPlace>
+<professionOrOccupation>
+<XML_Serializer_Tag>Architekt</XML_Serializer_Tag>
+</professionOrOccupation>
+<dbpResource>http://dbpedia.org/resource/Dieter_Oesterlen</dbpResource>
+<abstract>Dieter Oesterlen (* 5. April 1911 in Heidenheim an der Brenz; † 6. April 1994 in Hannover) war ein deutscher Architekt und Hochschullehrer.</abstract>
+<wikilink>http://en.wikipedia.org/wiki/Dieter_Oesterlen?oldid=601208732</wikilink>
+<artworks />
+<buildings />
+<books />
+</Person>

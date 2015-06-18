@@ -18,8 +18,10 @@
 <XML_Serializer_Tag>Bildhauer</XML_Serializer_Tag>
 <XML_Serializer_Tag>Photograph</XML_Serializer_Tag>
 </professionOrOccupation>
-<artworks />
 <dbpResource>http://dbpedia.org/resource/Hans_Bellmer</dbpResource>
 <abstract>Hans Bellmer (* 13. März 1902 in Kattowitz (heute Katowice, Polen); † 24. Februar 1975 in Paris) war ein deutscher Fotograf, Bildhauer, Maler und Autor.</abstract>
 <wikilink>http://en.wikipedia.org/wiki/Hans_Bellmer?oldid=606041115</wikilink>
+<artworks />
+<buildings />
+<books />
 </Person>

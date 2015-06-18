@@ -1,0 +1,33 @@
+<Person>
+<name>Pier Paolo Pasolini</name>
+<variantName>
+<XML_Serializer_Tag>Pierpaolo Pasolini</XML_Serializer_Tag>
+<XML_Serializer_Tag>Pier P. Pasolini</XML_Serializer_Tag>
+<XML_Serializer_Tag>Paolo Pasolini</XML_Serializer_Tag>
+</variantName>
+<thumbnail>https://en.wikipedia.org/wiki/Special:FilePath/P_p_pasolini.jpg?width=270</thumbnail>
+<birthEN>March 5, 1922</birthEN>
+<birthDE>5. März 1922</birthDE>
+<deathEN>November 2, 1975</deathEN>
+<deathDE>2. November 1975</deathDE>
+<birthPlace>
+<XML_Serializer_Tag>Bologna</XML_Serializer_Tag>
+</birthPlace>
+<deathPlace>
+<XML_Serializer_Tag>Ostia Antica</XML_Serializer_Tag>
+</deathPlace>
+<professionOrOccupation>
+<XML_Serializer_Tag>Schriftsteller</XML_Serializer_Tag>
+<XML_Serializer_Tag>Filmregisseur</XML_Serializer_Tag>
+<XML_Serializer_Tag>Publizist</XML_Serializer_Tag>
+<XML_Serializer_Tag>Philologe</XML_Serializer_Tag>
+<XML_Serializer_Tag>Dramaturg</XML_Serializer_Tag>
+<XML_Serializer_Tag>Regisseur</XML_Serializer_Tag>
+</professionOrOccupation>
+<dbpResource>http://dbpedia.org/resource/Pier_Paolo_Pasolini</dbpResource>
+<abstract>Pier Paolo Pasolini (* 5. März 1922 in Bologna; † 2. November 1975 in Ostia) war ein italienischer Filmregisseur, Dichter und Publizist.</abstract>
+<wikilink>http://en.wikipedia.org/wiki/Pier_Paolo_Pasolini?oldid=605564458</wikilink>
+<artworks />
+<buildings />
+<books />
+</Person>

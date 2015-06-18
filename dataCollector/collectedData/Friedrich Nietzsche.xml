@@ -1,0 +1,460 @@
+<Person>
+<name>Friedrich Nietzsche</name>
+<variantName>
+<XML_Serializer_Tag>Friedrich Wilhelm Nietzsche</XML_Serializer_Tag>
+<XML_Serializer_Tag>Friedrich W. Nietzsche</XML_Serializer_Tag>
+<XML_Serializer_Tag>Friedrich G. Nietzsche</XML_Serializer_Tag>
+<XML_Serializer_Tag>Federico Nietzsche</XML_Serializer_Tag>
+<XML_Serializer_Tag>Federico G. Nietzsche</XML_Serializer_Tag>
+<XML_Serializer_Tag>Frédéric Nietzsche</XML_Serializer_Tag>
+<XML_Serializer_Tag>Frederico Nietzsche</XML_Serializer_Tag>
+<XML_Serializer_Tag>Fryderyk Nietzsche</XML_Serializer_Tag>
+<XML_Serializer_Tag>Fridericus Nietzsche</XML_Serializer_Tag>
+<XML_Serializer_Tag>Nietzsche</XML_Serializer_Tag>
+<XML_Serializer_Tag>Fridirīk Nīča</XML_Serializer_Tag>
+<XML_Serializer_Tag>Frīdrīš Nīča</XML_Serializer_Tag>
+<XML_Serializer_Tag>Frīdrīš Wīlhilm Nīča</XML_Serializer_Tag>
+<XML_Serializer_Tag>Fridrih Niče</XML_Serializer_Tag>
+<XML_Serializer_Tag>Fridrich Niče</XML_Serializer_Tag>
+<XML_Serializer_Tag>P&apos;ŭridŭrihi Nich&apos;e</XML_Serializer_Tag>
+<XML_Serializer_Tag>Fridrix Nic&apos;še</XML_Serializer_Tag>
+<XML_Serializer_Tag>Frydrych Nicšė</XML_Serializer_Tag>
+<XML_Serializer_Tag>Friedrich Nicše</XML_Serializer_Tag>
+<XML_Serializer_Tag>Fridrich Nicše</XML_Serializer_Tag>
+<XML_Serializer_Tag>F. Nicše</XML_Serializer_Tag>
+<XML_Serializer_Tag>Nicše</XML_Serializer_Tag>
+<XML_Serializer_Tag>Frīdrīš Nītša</XML_Serializer_Tag>
+<XML_Serializer_Tag>Friedrich Nietszche</XML_Serializer_Tag>
+<XML_Serializer_Tag>Nietztsche</XML_Serializer_Tag>
+<XML_Serializer_Tag>F. Niezsche</XML_Serializer_Tag>
+<XML_Serializer_Tag>Nitče</XML_Serializer_Tag>
+<XML_Serializer_Tag>Phreideriku Nitse</XML_Serializer_Tag>
+<XML_Serializer_Tag>Phrēntrich Nitse</XML_Serializer_Tag>
+<XML_Serializer_Tag>Phrintrich Nitse</XML_Serializer_Tag>
+<XML_Serializer_Tag>Phr. Nitse</XML_Serializer_Tag>
+<XML_Serializer_Tag>Nitse</XML_Serializer_Tag>
+<XML_Serializer_Tag>F. Nitše</XML_Serializer_Tag>
+<XML_Serializer_Tag>Frīdrīk Nītših</XML_Serializer_Tag>
+<XML_Serializer_Tag>Frīdriš Nītših</XML_Serializer_Tag>
+<XML_Serializer_Tag>Fridrikh Niṭshah</XML_Serializer_Tag>
+<XML_Serializer_Tag>Frydrichas Nyčė</XML_Serializer_Tag>
+<XML_Serializer_Tag>Fridericus N.</XML_Serializer_Tag>
+<XML_Serializer_Tag>Fridrich Niče</XML_Serializer_Tag>
+<XML_Serializer_Tag>Frīdrihs Vilhelms Nīče</XML_Serializer_Tag>
+<XML_Serializer_Tag>Fridrihs Nīče</XML_Serializer_Tag>
+<XML_Serializer_Tag>Frīdrihs Nīče</XML_Serializer_Tag>
+<XML_Serializer_Tag>Vilhelms Nīče</XML_Serializer_Tag>
+<XML_Serializer_Tag>F. W. Nīche</XML_Serializer_Tag>
+<XML_Serializer_Tag>F. Nīche</XML_Serializer_Tag>
+<XML_Serializer_Tag>Nīche</XML_Serializer_Tag>
+<XML_Serializer_Tag>Frīdriš Nītše</XML_Serializer_Tag>
+<XML_Serializer_Tag>Fu li de li xi Ni cai</XML_Serializer_Tag>
+<XML_Serializer_Tag>Fulidelixi-Nicai</XML_Serializer_Tag>
+<XML_Serializer_Tag>Fulidlixi Nicai</XML_Serializer_Tag>
+<XML_Serializer_Tag>Ni cai</XML_Serializer_Tag>
+<XML_Serializer_Tag>Nicai</XML_Serializer_Tag>
+<XML_Serializer_Tag>פרידריך ניטשה</XML_Serializer_Tag>
+<XML_Serializer_Tag>フリードリヒ・ヴィルヘルム・ニーチェ</XML_Serializer_Tag>
+<XML_Serializer_Tag>フリードリヒ ニーチェ</XML_Serializer_Tag>
+<XML_Serializer_Tag>フリードリッヒ ニーチェ</XML_Serializer_Tag>
+<XML_Serializer_Tag>尼采</XML_Serializer_Tag>
+<XML_Serializer_Tag>弗里德里希 尼采</XML_Serializer_Tag>
+<XML_Serializer_Tag>弗里德里希・尼采</XML_Serializer_Tag>
+<XML_Serializer_Tag>Φρειδερίκος Νίτσε</XML_Serializer_Tag>
+</variantName>
+<thumbnail>https://commons.wikimedia.org/wiki/Special:FilePath/Nietzsche1882.jpg?width=270</thumbnail>
+<birthEN>October 15, 1844</birthEN>
+<birthDE>15. Oktober 1844</birthDE>
+<deathEN>August 25, 1900</deathEN>
+<deathDE>25. August 1900</deathDE>
+<birthPlace>
+<XML_Serializer_Tag>Lützen-Röcken</XML_Serializer_Tag>
+</birthPlace>
+<deathPlace>
+<XML_Serializer_Tag>Weimar</XML_Serializer_Tag>
+</deathPlace>
+<professionOrOccupation>
+<XML_Serializer_Tag>Philosoph</XML_Serializer_Tag>
+<XML_Serializer_Tag>Klassischer Philologe</XML_Serializer_Tag>
+<XML_Serializer_Tag>Schriftsteller</XML_Serializer_Tag>
+<XML_Serializer_Tag>Dramatiker</XML_Serializer_Tag>
+<XML_Serializer_Tag>Komponist</XML_Serializer_Tag>
+</professionOrOccupation>
+<dbpResource>http://dbpedia.org/resource/Friedrich_Nietzsche</dbpResource>
+<abstract>Friedrich Wilhelm Nietzsche (* 15. Oktober 1844 in Röcken; † 25. August 1900 in Weimar) war ein deutscher klassischer Philologe, der posthum als Philosoph zu Weltruhm kam. Als Nebenwerke schuf er Dichtungen und musikalische Kompositionen. Ursprünglich preußischer Staatsbürger, war er seit seiner Übersiedlung nach Basel 1869 staatenlos.Nietzsche wurde unmittelbar im Anschluss an sein Studium, mit 24 Jahren, Professor für klassische Philologie in Basel. Bereits zehn Jahre später legte er aus gesundheitlichen Gründen die Professur nieder. Von nun an bereiste er – auf der Suche nach Orten, deren Klima sich günstig auf seine Leiden auswirken sollte – Frankreich, Italien, Deutschland und die Schweiz. Ab seinem 45. Lebensjahr litt er unter einer schweren psychischen Krankheit, die ihn arbeits- und geschäftsunfähig machte. Als Pflegefall verbrachte er den Rest seines Lebens in der Obhut zunächst seiner Mutter, dann seiner Schwester. Er starb 1900 im Alter von 55 Jahren. Seine Anfang der 1890er Jahre rasch einsetzende Berühmtheit hat er selbst nicht mehr bewusst erlebt.Den jungen Nietzsche beeindruckte besonders die Philosophie Schopenhauers. Später wandte er sich von dessen Pessimismus ab und stellte eine radikale Lebensbejahung in den Mittelpunkt seiner Philosophie. Sein Werk enthält scharfe Kritiken an Moral, Religion, Philosophie, Wissenschaft und Formen der Kunst. Die zeitgenössische Kultur war in seinen Augen lebensschwächer als die des antiken Griechenlands. Wiederkehrendes Ziel von Nietzsches Angriffen ist vor allem die christliche Moral sowie die christliche und platonistische Metaphysik. Er stellte den Wert der Wahrheit überhaupt in Frage und wurde damit Wegbereiter postmoderner philosophischer Ansätze. Auch Nietzsches Konzepte des „Übermenschen“, des „Willens zur Macht“ oder der „ewigen Wiederkunft“ geben bis heute Anlass zu Deutungen und Diskussionen.Nietzsches Denken hat weit über die Philosophie hinaus gewirkt und bis heute unterschiedlichste Deutungen und Bewertungen erfahren. Nietzsche schuf keine systematische Philosophie. Oft wählte er den Aphorismus als Ausdrucksform seiner Gedanken. Seine Prosa, seine Gedichte und der pathetisch-lyrische Stil von Also sprach Zarathustra verschafften ihm auch Anerkennung als Schriftsteller.</abstract>
+<wikilink>http://en.wikipedia.org/wiki/Friedrich_Nietzsche?oldid=606678155</wikilink>
+<artworks />
+<buildings />
+<books>
+<XML_Serializer_Tag>
+<book>
+<type>uri</type>
+<value>http://dbpedia.org/resource/Twilight_of_the_Idols</value>
+</book>
+<author>
+<type>uri</type>
+<value>http://dbpedia.org/resource/Friedrich_Nietzsche</value>
+</author>
+<thumbnail>
+<type>uri</type>
+<value>http://commons.wikimedia.org/wiki/Special:FilePath/Gotzen-dammerung.gif?width=300</value>
+</thumbnail>
+<released>
+<type>typed-literal</type>
+<datatype>http://www.w3.org/2001/XMLSchema#integer</datatype>
+<value>1889</value>
+</released>
+<wikilink>
+<type>uri</type>
+<value>http://en.wikipedia.org/wiki/Twilight_of_the_Idols?oldid=602139383</value>
+</wikilink>
+<abstract>
+<type>literal</type>
+<xml:lang>de</xml:lang>
+<value>Götzen-Dämmerung oder Wie man mit dem Hammer philosophirt ist ein 1889 veröffentlichtes Spätwerk Friedrich Nietzsches, in dem er wesentliche Aspekte seines bisherigen Denkens zusammenfasste. Mit ihm setzte er den Weg der Umwertung aller Werte weiter fort und bezog sich auf die „Götzen“ seiner Zeit, deren Dämmerung er voraussah.Das heterogene Werk enthält viele metaphysikkritische, kunst- und sprachphilosophische Einsichten, die für das Verständnis der späten Philosophie Nietzsches von großer Bedeutung sind.</value>
+</abstract>
+</XML_Serializer_Tag>
+<XML_Serializer_Tag>
+<book>
+<type>uri</type>
+<value>http://dbpedia.org/resource/The_Dawn_(book)</value>
+</book>
+<author>
+<type>uri</type>
+<value>http://dbpedia.org/resource/Friedrich_Nietzsche</value>
+</author>
+<thumbnail>
+<type>uri</type>
+<value>http://commons.wikimedia.org/wiki/Special:FilePath/Morgenröthe.jpg?width=300</value>
+</thumbnail>
+<released>
+<type>typed-literal</type>
+<datatype>http://www.w3.org/2001/XMLSchema#integer</datatype>
+<value>1881</value>
+</released>
+<wikilink>
+<type>uri</type>
+<value>http://en.wikipedia.org/wiki/The_Dawn_(book)?oldid=587633549</value>
+</wikilink>
+<abstract>
+<type>literal</type>
+<xml:lang>de</xml:lang>
+<value>Morgenröte. Gedanken über die moralischen Vorurteile (Originaltitel: Morgenröthe. Gedanken über die moralischen Vorurtheile) ist ein Anfang Juli 1881 erschienenes philosophisches Werk Friedrich Nietzsches. In dem aus Aphorismen unterschiedlicher Länge bestehenden Buch hinterfragte Nietzsche die Entstehung und den Wahrheitsgehalt moralischer und religiöser Systeme. Dabei setzte er dem tragischen Pathos einer christlichen Existenz das kontemplative Glück eines Erkennenden gegenüber und interpretierte die Glaubensekstase als psychopathologisches Phänomen.In der Morgenröte skizzierte Nietzsche erstmals Umrisse der Formel vom Willen zur Macht, die später von Zarathustra in aller Deutlichkeit vorgetragen wurde.</value>
+</abstract>
+</XML_Serializer_Tag>
+<XML_Serializer_Tag>
+<book>
+<type>uri</type>
+<value>http://dbpedia.org/resource/The_Birth_of_Tragedy</value>
+</book>
+<author>
+<type>uri</type>
+<value>http://dbpedia.org/resource/Friedrich_Nietzsche</value>
+</author>
+<thumbnail>
+<type>uri</type>
+<value>http://commons.wikimedia.org/wiki/Special:FilePath/Friedrich_Nietzsche_1872.jpg?width=300</value>
+</thumbnail>
+<released>
+<type>typed-literal</type>
+<datatype>http://www.w3.org/2001/XMLSchema#integer</datatype>
+<value>1872</value>
+</released>
+<wikilink>
+<type>uri</type>
+<value>http://en.wikipedia.org/wiki/The_Birth_of_Tragedy?oldid=587632820</value>
+</wikilink>
+<abstract>
+<type>literal</type>
+<xml:lang>de</xml:lang>
+<value>Die Geburt der Tragödie aus dem Geiste der Musik ist ein Buch von Friedrich Nietzsche, das er Anfang 1872 veröffentlichte. Es war das erste bedeutende Werk Nietzsches, mit dem sich der damals 27-jährige Philologieprofessor zugleich von der wissenschaftlichen Philologie distanzierte. Auf etwa 100 Buchseiten und in 25 knappen Kapiteln entwickelt der Jungwissenschaftler aus seinen Studien des Griechentums, seiner Liebe zur Musik und der Wertschätzung Schopenhauers und Wagners sein kulturelles Weltbild. Er präsentiert seine Theorien von der Entstehung und dem Niedergang der griechischen Tragödie und darüber hinaus allgemeine kulturphilosophische und ästhetische Betrachtungen, die auch im 20. Jahrhundert rezipiert wurden. Es enthielt ein Vorwort an Richard Wagner, dem die Schrift auch gewidmet war und in dem Nietzsche damals den möglichen Neubegründer einer der griechischen vergleichbaren Kunst und Kultur sah.1886 ließ Nietzsche eine zweite Ausgabe unter dem Titel Die Geburt der Tragödie. Oder: Griechenthum und Pessimismus erscheinen, wobei dem Buch der „Versuch einer Selbstkritik“ vorangestellt wurde.Das in der Nietzscheforschung übliche Sigel des Buches ist GT.</value>
+</abstract>
+</XML_Serializer_Tag>
+<XML_Serializer_Tag>
+<book>
+<type>uri</type>
+<value>http://dbpedia.org/resource/Thus_Spoke_Zarathustra</value>
+</book>
+<author>
+<type>uri</type>
+<value>http://dbpedia.org/resource/Friedrich_Nietzsche</value>
+</author>
+<thumbnail>
+<type>uri</type>
+<value>http://commons.wikimedia.org/wiki/Special:FilePath/Also_sprach_Zarathustra.GIF?width=300</value>
+</thumbnail>
+<released>
+<type>typed-literal</type>
+<datatype>http://www.w3.org/2001/XMLSchema#integer</datatype>
+<value>1883</value>
+</released>
+<wikilink>
+<type>uri</type>
+<value>http://en.wikipedia.org/wiki/Thus_Spoke_Zarathustra?oldid=605014795</value>
+</wikilink>
+<abstract>
+<type>literal</type>
+<xml:lang>de</xml:lang>
+<value>Also sprach Zarathustra (Untertitel Ein Buch für Alle und Keinen, 1883–1885) ist ein dichterisch-philosophisches Werk des deutschen Philosophen Friedrich Nietzsche, das von vielen als sein Hauptwerk angesehen wird.</value>
+</abstract>
+</XML_Serializer_Tag>
+<XML_Serializer_Tag>
+<book>
+<type>uri</type>
+<value>http://dbpedia.org/resource/Ecce_Homo_(book)</value>
+</book>
+<author>
+<type>uri</type>
+<value>http://dbpedia.org/resource/Friedrich_Nietzsche</value>
+</author>
+<thumbnail>
+<type>uri</type>
+<value>http://en.wikipedia.org/wiki/Special:FilePath/Ecce_Homo_1908.jpg?width=300</value>
+</thumbnail>
+<released>
+<type>typed-literal</type>
+<datatype>http://www.w3.org/2001/XMLSchema#integer</datatype>
+<value>1888</value>
+</released>
+<wikilink>
+<type>uri</type>
+<value>http://en.wikipedia.org/wiki/Ecce_Homo_(book)?oldid=606609341</value>
+</wikilink>
+<abstract>
+<type>literal</type>
+<xml:lang>de</xml:lang>
+<value>Ecce homo. Wie man wird, was man ist ist eine autobiographische Schrift des Philosophen Friedrich Nietzsche. Nietzsche arbeitete von Oktober 1888 bis zu seinem Zusammenbruch Anfang 1889 an dem Werk, das zum ersten Mal 1908 im Auftrag des Nietzsche-Archivs veröffentlicht wurde. Es ist nicht vollständig überliefert und in seiner heute anerkannten Form erst seit den 1970ern bekannt.In Ecce homo gibt Nietzsche rückblickend Deutungen seiner philosophischen Schriften und präsentiert sich selbst und seine Erkenntnisse als schicksalhafte Ereignisse von weltbewegender Größe. Dabei stehen die Themen seines Spätwerks, besonders die Kritik am Christentum und die angekündigte „Umwertung aller Werte“, im Vordergrund.Es gibt unterschiedliche Ansichten darüber, wie glaubwürdig Nietzsches Darstellungen sind und wie sehr die Schrift bereits von seiner Geisteskrankheit beeinflusst ist. Dennoch sind Nietzsches Selbstdeutungen in Ecce homo oft als Ausgangspunkt für weitere biographische und philosophische Deutungen seines Werks genommen worden. Als letztes größeres Werk Nietzsches – die gleichzeitig entstandenen, kleineren Werke Nietzsche contra Wagner und Dionysos-Dithyramben sind im Wesentlichen aus älterem Material kompiliert – nimmt es in der Nietzsche-Rezeption eine Sonderstellung ein. Das übliche Sigel des Buchs ist EH.</value>
+</abstract>
+</XML_Serializer_Tag>
+<XML_Serializer_Tag>
+<book>
+<type>uri</type>
+<value>http://dbpedia.org/resource/Dionysian-Dithyrambs</value>
+</book>
+<author>
+<type>uri</type>
+<value>http://dbpedia.org/resource/Friedrich_Nietzsche</value>
+</author>
+<thumbnail>
+<type>uri</type>
+<value>http://commons.wikimedia.org/wiki/Special:FilePath/Dionysos_Louvre_Ma87_n2.jpg?width=300</value>
+</thumbnail>
+<released>
+<type>typed-literal</type>
+<datatype>http://www.w3.org/2001/XMLSchema#integer</datatype>
+<value>1891</value>
+</released>
+<wikilink>
+<type>uri</type>
+<value>http://en.wikipedia.org/wiki/Dionysian-Dithyrambs?oldid=578858428</value>
+</wikilink>
+<abstract>
+<type>literal</type>
+<xml:lang>de</xml:lang>
+<value>Die Dionysos-Dithyramben sind ein Gedichtzyklus von Friedrich Nietzsche und sein letztes, von ihm zum Druck bestimmtes Werk. Die 1889 vollendete Sammlung erschien 1892 als Anhang des vierten Teils seiner philosophischen Dichtung Also sprach Zarathustra.Mit dem erst später für die Sammlung gefundenen, nur scheinbar tautologischen Titel bezieht sich Nietzsche auf den Gott der Lebensbejahung und ewigen Wiederkunft Dionysos, der sich in diesen Liedern selbst feiert.Der Zyklus umfasst neun Dithyramben in freien Rhythmen, von denen drei bereits 1885 in der ersten Ausgabe des Zarathustra erschienen waren und für die Sammlung neu überarbeitet wurden.</value>
+</abstract>
+</XML_Serializer_Tag>
+<XML_Serializer_Tag>
+<book>
+<type>uri</type>
+<value>http://dbpedia.org/resource/Idylls_from_Messina</value>
+</book>
+<author>
+<type>uri</type>
+<value>http://dbpedia.org/resource/Friedrich_Nietzsche</value>
+</author>
+<thumbnail>
+<type>uri</type>
+<value>http://commons.wikimedia.org/wiki/Special:FilePath/Messina_Statua_di_Messina_(G._Prinzi).jpg?width=300</value>
+</thumbnail>
+<released>
+<type>typed-literal</type>
+<datatype>http://www.w3.org/2001/XMLSchema#integer</datatype>
+<value>1882</value>
+</released>
+<wikilink>
+<type>uri</type>
+<value>http://en.wikipedia.org/wiki/Idylls_from_Messina?oldid=580571189</value>
+</wikilink>
+</XML_Serializer_Tag>
+<XML_Serializer_Tag>
+<book>
+<type>uri</type>
+<value>http://dbpedia.org/resource/Beyond_Good_and_Evil</value>
+</book>
+<author>
+<type>uri</type>
+<value>http://dbpedia.org/resource/Friedrich_Nietzsche</value>
+</author>
+<thumbnail>
+<type>uri</type>
+<value>http://commons.wikimedia.org/wiki/Special:FilePath/Beyond_Good_And_Evil_first_edition.jpg?width=300</value>
+</thumbnail>
+<published>
+<type>typed-literal</type>
+<datatype>http://www.w3.org/2001/XMLSchema#integer</datatype>
+<value>1886</value>
+</published>
+<wikilink>
+<type>uri</type>
+<value>http://en.wikipedia.org/wiki/Beyond_Good_and_Evil?oldid=605625586</value>
+</wikilink>
+<abstract>
+<type>literal</type>
+<xml:lang>de</xml:lang>
+<value>Jenseits von Gut und Böse. Vorspiel einer Philosophie der Zukunft ist ein Werk Friedrich Nietzsches, das im Jahr 1886 erschien und auf eine Kritik überkommener Moralvorstellungen zielt. Das Werk bildet den Übergang von Nietzsches mittlerer, eher dichterisch, positiv geprägten Schaffensperiode zu seinem von philosophischem Denken dominierten späteren Werk. Dies kommt auch im Untertitel des Werks „Vorspiel einer Philosophie der Zukunft“ zum Ausdruck. Jenseits von Gut und Böse war das Denken in der prähistorischen Zeit, in der Handlungen nach ihrer Wirkung beurteilt wurden. Die Moral kam erst, als man Handlungen nach ihrer Absicht beurteilte. Nietzsches Forderung war, wieder zu der Perspektive der vormoralischen Zeit zurückzukehren. Er suchte eine Moral jenseits bestehender Normen und Werte, die nicht an die historische, von der Religion beeinflusste Tradition gebunden ist. Sein Gegenentwurf ist eine neuartige Philosophie der „Immoralität“, die an die jeweiligen Perspektiven des Menschen gebunden ist. (JGB 32) Diese verband er mit dem Konzept des Willens zur Macht, der das alle Menschen und die ganze Natur bestimmende Prinzip sei. Zugleich übte er eine grundlegende Kritik an der Gesellschaft seiner Zeit, aus der heraus Nietzsche eine Umwertung aller Werte forderte, die sich am Willen zur Macht und einem vornehmen Leben orientiert.Das heute in der Nietzsche-Forschung übliche Sigel des Buches ist JGB.</value>
+</abstract>
+</XML_Serializer_Tag>
+<XML_Serializer_Tag>
+<book>
+<type>uri</type>
+<value>http://dbpedia.org/resource/The_Gay_Science</value>
+</book>
+<author>
+<type>uri</type>
+<value>http://dbpedia.org/resource/Friedrich_Nietzsche</value>
+</author>
+<thumbnail>
+<type>uri</type>
+<value>http://commons.wikimedia.org/wiki/Special:FilePath/FW82.jpg?width=300</value>
+</thumbnail>
+<published>
+<type>typed-literal</type>
+<datatype>http://www.w3.org/2001/XMLSchema#integer</datatype>
+<value>1882</value>
+</published>
+<wikilink>
+<type>uri</type>
+<value>http://en.wikipedia.org/wiki/The_Gay_Science?oldid=602392474</value>
+</wikilink>
+<abstract>
+<type>literal</type>
+<xml:lang>de</xml:lang>
+<value>Die fröhliche Wissenschaft (später mit dem Untertitel „la gaya scienza“) ist ein zuerst 1882 erschienenes, 1887 ergänztes Werk Friedrich Nietzsches. Das Buch enthält Gedanken zu unterschiedlichsten Themen in fast 400 Aphorismen verschiedener Länge. Es gilt als abschließendes Werk der „freigeistigen“ Periode Nietzsches, das gleichzeitig die neue Stimmung des nachfolgenden Also sprach Zarathustra ankündigt. (Vergleiche Friedrich Nietzsche, Übersicht zum Werk.)Die heute in der Nietzsche-Forschung übliche Sigel des Buchs ist FW, außerhalb des deutschen Sprachraums ist auch GS (nach gaya scienza, gai savoir, gay science oder gai saber) verbreitet.</value>
+</abstract>
+</XML_Serializer_Tag>
+<XML_Serializer_Tag>
+<book>
+<type>uri</type>
+<value>http://dbpedia.org/resource/On_the_Genealogy_of_Morality</value>
+</book>
+<author>
+<type>uri</type>
+<value>http://dbpedia.org/resource/Friedrich_Nietzsche</value>
+</author>
+<thumbnail>
+<type>uri</type>
+<value>http://en.wikipedia.org/wiki/Special:FilePath/Genealogie_der_Moral_cover.gif?width=300</value>
+</thumbnail>
+<published>
+<type>typed-literal</type>
+<datatype>http://www.w3.org/2001/XMLSchema#integer</datatype>
+<value>1887</value>
+</published>
+<wikilink>
+<type>uri</type>
+<value>http://en.wikipedia.org/wiki/On_the_Genealogy_of_Morality?oldid=597214195</value>
+</wikilink>
+<abstract>
+<type>literal</type>
+<xml:lang>de</xml:lang>
+<value>Zur Genealogie der Moral. Eine Streitschrift ist ein philosophisches Werk von Friedrich Nietzsche aus dem Jahr 1887. Das Werk, das aus einer Vorrede und drei „Abhandlungen“ besteht, gehört zu den einflussreichsten Schriften Nietzsches. Er legte hier keine Aphorismen vor wie in den meisten anderen seiner Werke, sondern längere, systematische Texte mit durchaus wissenschaftlichem Anspruch: Er stellt darin soziologische, historische und psychologische Thesen auf. Nietzsche wollte anders als klassische Moralphilosophen keine Moral herleiten oder begründen, sondern die geschichtliche Entwicklung und die psychischen Voraussetzungen bestimmter moralischer Wertvorstellungen nachvollziehen. Er fragt also nicht, wie die Menschen handeln sollten, sondern warum Menschen (Einzelne oder Gruppen) glauben, sie sollten auf bestimmte Weise handeln, oder andere dazu bringen wollen, so oder so zu handeln.Der Gegensatz einer „Sklavenmoral“ und einer „Herrenmoral“ aus der ersten Abhandlung ist, zumindest schlagwortartig, recht bekannt geworden. Die dritte Abhandlung, in der Nietzsche die asketischen Ideale einer ausführlichen Kritik unterzieht, ist grundlegend für das Verständnis aller seiner Spätschriften.Die Genealogie beeinflusste zahlreiche Denker, unter anderem Sigmund Freud und Michel Foucault. Insbesondere in der französischen Nietzsche-Rezeption in der zweiten Hälfte des 20. Jahrhunderts war sie ein vielbesprochenes Werk.Das übliche Sigel der Schrift ist GM.</value>
+</abstract>
+</XML_Serializer_Tag>
+<XML_Serializer_Tag>
+<book>
+<type>uri</type>
+<value>http://dbpedia.org/resource/Human,_All_Too_Human</value>
+</book>
+<author>
+<type>uri</type>
+<value>http://dbpedia.org/resource/Friedrich_Nietzsche</value>
+</author>
+<thumbnail>
+<type>uri</type>
+<value>http://commons.wikimedia.org/wiki/Special:FilePath/Menschliches_Allzumenschliches_1878.gif?width=300</value>
+</thumbnail>
+<published>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>April 1878  1908</value>
+</published>
+<wikilink>
+<type>uri</type>
+<value>http://en.wikipedia.org/wiki/Human,_All_Too_Human?oldid=594471597</value>
+</wikilink>
+</XML_Serializer_Tag>
+<XML_Serializer_Tag>
+<book>
+<type>uri</type>
+<value>http://dbpedia.org/resource/The_Antichrist_(book)</value>
+</book>
+<author>
+<type>uri</type>
+<value>http://dbpedia.org/resource/Friedrich_Nietzsche</value>
+</author>
+<released>
+<type>typed-literal</type>
+<datatype>http://www.w3.org/2001/XMLSchema#integer</datatype>
+<value>1895</value>
+</released>
+<wikilink>
+<type>uri</type>
+<value>http://en.wikipedia.org/wiki/The_Antichrist_(book)?oldid=606273831</value>
+</wikilink>
+<abstract>
+<type>literal</type>
+<xml:lang>de</xml:lang>
+<value>Der Antichrist. Fluch auf das Christenthum ist eines der Spätwerke Friedrich Nietzsches. Er schrieb die polemische Abrechnung mit dem Christentum im Spätsommer und Herbst 1888. Da Nietzsche sich bis zu seinem geistigen Zusammenbruch wenige Monate später nicht konkret um eine Publikation bemüht hatte, wurde das Manuskript zunächst zurückgehalten und erst 1894 vom Nietzsche-Archiv herausgegeben, allerdings mit mehreren Mängeln. Streitigkeiten um eine korrekte Edition des Werks zogen sich – wie bei allen Spätwerken Nietzsches – bis in die zweite Hälfte des 20. Jahrhunderts hin.Wie in mehreren seiner letzten Werke philosophiert Nietzsche auch hier „mit dem Hammer“ und will alte Werte „umwerten“. Unter Rückgriff auf einige seiner früheren Schriften bündelt er seine Kritik am Christentum, der er eine bisher nicht gekannte Schärfe gibt. In oft prägnanten Sätzen kritisiert er das Christentum der Priester, das im Wesentlichen von Paulus begründet worden sei und das unter anderem das Erbe der griechischen und römischen Antike vernichtet habe. Des Weiteren gibt er eine originelle psychologische Deutung Jesu. Er spricht sich gegen die Mitleidsethik aus, attackiert die christliche Theologie und die aus seiner Sicht davon abhängige (deutsche) Philosophie sowie den jüdisch-christlichen Gottesbegriff, und stellt dem Christentum andere Religionen wie Buddhismus, Islam oder Brahmanismus als in unterschiedlicher Hinsicht überlegen gegenüber.Das Werk ist von zentraler Bedeutung in Nietzsches später Philosophie (siehe Friedrich Nietzsche: Übersicht zum Werk). Sein heute in der Nietzsche-Forschung übliches Sigel ist AC.</value>
+</abstract>
+</XML_Serializer_Tag>
+<XML_Serializer_Tag>
+<book>
+<type>uri</type>
+<value>http://dbpedia.org/resource/My_Sister_and_I_(Nietzsche)</value>
+</book>
+<author>
+<type>uri</type>
+<value>http://dbpedia.org/resource/Friedrich_Nietzsche</value>
+</author>
+<released>
+<type>typed-literal</type>
+<datatype>http://www.w3.org/2001/XMLSchema#integer</datatype>
+<value>1951</value>
+</released>
+<wikilink>
+<type>uri</type>
+<value>http://en.wikipedia.org/wiki/My_Sister_and_I_(Nietzsche)?oldid=593160665</value>
+</wikilink>
+<abstract>
+<type>literal</type>
+<xml:lang>de</xml:lang>
+<value>My Sister and I ist der Titel eines Buches, das erstmals 1951 in New York erschien. Auf der Titelseite wurden als Autor Friedrich Nietzsche und als Übersetzer und Verfasser der Einleitung der britische Nietzsche-Experte Oscar Levy genannt. Von dieser Schrift ist weder ein Originalmanuskript noch eine Version in deutscher Sprache überliefert. Das Buch hatte bisher zwei durch Jahrzehnte getrennte Rezeptionen. Bei der ersten Rezeption, kurz nach Erscheinen, waren sich alle Beteiligten schnell einig, dass es sich bei dem Text um eine Fälschung handelt: weder Nietzsche noch Levy seien an seiner Entstehung beteiligt gewesen. Die meisten Nietzscheforscher schlossen sich, in der Regel stillschweigend, dieser Auffassung an und ignorierten das Werk seither. Seit Mitte der 1980er Jahre gibt es jedoch eine zweite Rezeption des Textes, welche die Argumente der ersten zurückweist und es für wahrscheinlich hält, dass mehr oder weniger umfangreiche Passagen des Haupttextes authentisch sind.</value>
+</abstract>
+</XML_Serializer_Tag>
+<XML_Serializer_Tag>
+<book>
+<type>uri</type>
+<value>http://dbpedia.org/resource/Nietzsche_contra_Wagner</value>
+</book>
+<author>
+<type>uri</type>
+<value>http://dbpedia.org/resource/Friedrich_Nietzsche</value>
+</author>
+<released>
+<type>typed-literal</type>
+<datatype>http://www.w3.org/2001/XMLSchema#integer</datatype>
+<value>1895</value>
+</released>
+<wikilink>
+<type>uri</type>
+<value>http://en.wikipedia.org/wiki/Nietzsche_contra_Wagner?oldid=599088714</value>
+</wikilink>
+<abstract>
+<type>literal</type>
+<xml:lang>de</xml:lang>
+<value>Nietzsche contra Wagner ist Friedrich Nietzsches letzte Schrift, die er Ende 1888 zu Papier brachte ehe er am 3. Januar 1889 in Turin zusammenbrach. Bereits Monate zuvor hatte er dort mehrere Schriften verfasst, in denen es unter anderem um sein Verhältnis zu Richard Wagner ging: Der Fall Wagner, Götzen-Dämmerung und Ecce Homo. Mit dieser Auswahl mehr oder weniger überarbeiteter Texte wollte Nietzsche, Autor der Geburt der Tragödie, den Vorwurf entkräften, er sei erst mit dem Fall Wagner vom glühenden Verehrer zum erbitterten Gegner des Komponisten geworden.So stellte er „Aktenstücke“ früherer Schriften - etwa aus Menschliches, Allzumenschliches - zusammen, die belegen sollten, er habe bereits 1876, während der ersten Festspiele, bei sich Abschied von Wagner genommen. Die Zweifel des noch jungen Autors Nietzsche an der Sache Wagners sind von der Forschung anhand früher Schriften und Entwürfe eindeutig bestätigt worden.</value>
+</abstract>
+</XML_Serializer_Tag>
+</books>
+</Person>

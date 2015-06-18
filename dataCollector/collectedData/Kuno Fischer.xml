@@ -1,0 +1,31 @@
+<Person>
+<name>Kuno Fischer</name>
+<variantName>
+<XML_Serializer_Tag>Kuno Fišer</XML_Serializer_Tag>
+<XML_Serializer_Tag>Cuno Fischer</XML_Serializer_Tag>
+<XML_Serializer_Tag>Kuno Ernst Berthold Fischer</XML_Serializer_Tag>
+<XML_Serializer_Tag>Ernst Kuno Berthold Fischer</XML_Serializer_Tag>
+</variantName>
+<thumbnail>https://commons.wikimedia.org/wiki/Special:FilePath/Kuno_Fischer.jpg?width=270</thumbnail>
+<birthEN>July 23, 1824</birthEN>
+<birthDE>23. Juli 1824</birthDE>
+<deathEN>July 5, 1907</deathEN>
+<deathDE>5. Juli 1907</deathDE>
+<birthPlace>
+<XML_Serializer_Tag>Sandewalde bei Guhrau</XML_Serializer_Tag>
+</birthPlace>
+<deathPlace>
+<XML_Serializer_Tag>Heidelberg</XML_Serializer_Tag>
+</deathPlace>
+<professionOrOccupation>
+<XML_Serializer_Tag>Philosoph</XML_Serializer_Tag>
+<XML_Serializer_Tag>Schriftsteller</XML_Serializer_Tag>
+<XML_Serializer_Tag>Hochschullehrer</XML_Serializer_Tag>
+</professionOrOccupation>
+<dbpResource>http://dbpedia.org/resource/Kuno_Fischer</dbpResource>
+<abstract>Ernst Kuno Berthold Fischer (* 23. Juli 1824 in Sandewalde bei Guhrau (Schlesien); † 5. Juli 1907 in Heidelberg) war ein deutscher Philosoph und Anhänger des Neukantianismus, der auch als Philosophiehistoriker bekannt ist.</abstract>
+<wikilink>http://en.wikipedia.org/wiki/Kuno_Fischer?oldid=605997525</wikilink>
+<artworks />
+<buildings />
+<books />
+</Person>

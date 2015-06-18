@@ -1,0 +1,29 @@
+<Person>
+<name>Wilhelm Weber</name>
+<variantName>
+<XML_Serializer_Tag>Karl Wilhelm Weber</XML_Serializer_Tag>
+</variantName>
+<thumbnail>https://commons.wikimedia.org/wiki/Special:FilePath/Weber_Wilhelm.jpg?width=270</thumbnail>
+<birthEN>June 20, 1918</birthEN>
+<birthDE>20. Juni 1918</birthDE>
+<deathEN>December 30, 1999</deathEN>
+<deathDE>30. Dezember 1999</deathDE>
+<birthPlace>
+<XML_Serializer_Tag>Limbach (Homburg, Saar)</XML_Serializer_Tag>
+</birthPlace>
+<deathPlace>
+<XML_Serializer_Tag>Mainz</XML_Serializer_Tag>
+</deathPlace>
+<professionOrOccupation>
+<XML_Serializer_Tag>Künstler</XML_Serializer_Tag>
+<XML_Serializer_Tag>Kunsthistoriker</XML_Serializer_Tag>
+<XML_Serializer_Tag>Historiker</XML_Serializer_Tag>
+<XML_Serializer_Tag>Museumsdirektor</XML_Serializer_Tag>
+</professionOrOccupation>
+<dbpResource>http://dbpedia.org/resource/Wilhelm_Eduard_Weber</dbpResource>
+<abstract>Wilhelm Eduard Weber (* 24. Oktober 1804 in Wittenberg; † 23. Juni 1891 in Göttingen) war ein deutscher Physiker. Die SI-Einheit „Weber“ (abgekürzt Wb) des magnetischen Flusses ist nach ihm benannt.</abstract>
+<wikilink>http://en.wikipedia.org/wiki/Wilhelm_Eduard_Weber?oldid=600488064</wikilink>
+<artworks />
+<buildings />
+<books />
+</Person>

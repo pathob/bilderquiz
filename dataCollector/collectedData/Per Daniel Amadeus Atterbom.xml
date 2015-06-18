@@ -1,0 +1,30 @@
+<Person>
+<name>Per Daniel Amadeus Atterbom</name>
+<variantName>
+<XML_Serializer_Tag>Per D. A. Atterbom</XML_Serializer_Tag>
+<XML_Serializer_Tag>Daniel A. Atterbom</XML_Serializer_Tag>
+<XML_Serializer_Tag>Per D. Atterbom</XML_Serializer_Tag>
+<XML_Serializer_Tag>P. D. A. Atterbom</XML_Serializer_Tag>
+</variantName>
+<thumbnail>https://commons.wikimedia.org/wiki/Special:FilePath/Per_Daniel_Amadeus_Atterbom_-_lithograph.jpg?width=270</thumbnail>
+<birthEN>January 19, 1790</birthEN>
+<birthDE>19. Januar 1790</birthDE>
+<deathEN>July 21, 1855</deathEN>
+<deathDE>21. Juli 1855</deathDE>
+<birthPlace>
+<XML_Serializer_Tag>Åsbo</XML_Serializer_Tag>
+</birthPlace>
+<deathPlace>
+<XML_Serializer_Tag>Uppsala</XML_Serializer_Tag>
+</deathPlace>
+<professionOrOccupation>
+<XML_Serializer_Tag>Schriftsteller</XML_Serializer_Tag>
+<XML_Serializer_Tag>Philosoph</XML_Serializer_Tag>
+</professionOrOccupation>
+<dbpResource>http://dbpedia.org/resource/Per_Daniel_Amadeus_Atterbom</dbpResource>
+<abstract>Per Daniel Amadeus Atterbom (Aussprache: [ˌpæːɹ ˌdɑːniəl amaˌdeːɵs ˈatːəɹbʊm], * 19. Januar 1790 im Kirchspiel Åsbo; † 21. Juli 1855 in Uppsala) war schwedischer Dichter und Literaturhistoriker.</abstract>
+<wikilink>http://en.wikipedia.org/wiki/Per_Daniel_Amadeus_Atterbom?oldid=604992606</wikilink>
+<artworks />
+<buildings />
+<books />
+</Person>

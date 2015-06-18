@@ -1,0 +1,26 @@
+<Person>
+<name>Friedrich Ueberweg</name>
+<variantName>
+<XML_Serializer_Tag>Fridericus Ueberweg</XML_Serializer_Tag>
+</variantName>
+<thumbnail>https://commons.wikimedia.org/wiki/Special:FilePath/Leichlingen_-_Friedrich-Ueberweg-Platz_04_ies.jpg?width=270</thumbnail>
+<birthEN>January 22, 1826</birthEN>
+<birthDE>22. Januar 1826</birthDE>
+<deathEN>June 9, 1871</deathEN>
+<deathDE>9. Juni 1871</deathDE>
+<birthPlace>
+<XML_Serializer_Tag>Leichlingen (Rheinland)</XML_Serializer_Tag>
+</birthPlace>
+<deathPlace>
+<XML_Serializer_Tag>Königsberg</XML_Serializer_Tag>
+</deathPlace>
+<professionOrOccupation>
+<XML_Serializer_Tag>Philosoph</XML_Serializer_Tag>
+</professionOrOccupation>
+<dbpResource>http://dbpedia.org/resource/Friedrich_Ueberweg</dbpResource>
+<abstract>Friedrich Ueberweg (* 22. Januar 1826 in Leichlingen bei Solingen; † 9. Juni 1871 in Königsberg) war ein deutscher Philosoph.</abstract>
+<wikilink>http://en.wikipedia.org/wiki/Friedrich_Ueberweg?oldid=596433324</wikilink>
+<artworks />
+<buildings />
+<books />
+</Person>

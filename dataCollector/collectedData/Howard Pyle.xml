@@ -1,0 +1,66 @@
+<Person>
+<name>Howard Pyle</name>
+<variantName />
+<thumbnail>https://commons.wikimedia.org/wiki/Special:FilePath/Howard_Pyle.png?width=270</thumbnail>
+<birthEN>1853</birthEN>
+<birthDE>1853</birthDE>
+<deathEN>1911</deathEN>
+<deathDE>1911</deathDE>
+<birthPlace>
+<XML_Serializer_Tag>Wilmington, Del.</XML_Serializer_Tag>
+</birthPlace>
+<deathPlace />
+<professionOrOccupation>
+<XML_Serializer_Tag>Schriftsteller</XML_Serializer_Tag>
+<XML_Serializer_Tag>Künstler</XML_Serializer_Tag>
+</professionOrOccupation>
+<dbpResource>http://dbpedia.org/resource/Howard_Pyle</dbpResource>
+<abstract>Howard Pyle (* 5. März 1853 in Wilmington, USA; † 9. November 1911 in Florenz, Italien) war ein US-amerikanischer Illustrator und Autor.</abstract>
+<wikilink>http://en.wikipedia.org/wiki/Howard_Pyle?oldid=603776713</wikilink>
+<artworks />
+<buildings />
+<books>
+<XML_Serializer_Tag>
+<book>
+<type>uri</type>
+<value>http://dbpedia.org/resource/The_Merry_Adventures_of_Robin_Hood</value>
+</book>
+<author>
+<type>uri</type>
+<value>http://dbpedia.org/resource/Howard_Pyle</value>
+</author>
+<thumbnail>
+<type>uri</type>
+<value>http://commons.wikimedia.org/wiki/Special:FilePath/The_Merry_Adventures_of_Robin_Hood,_1_Title_page.png?width=300</value>
+</thumbnail>
+<published>
+<type>typed-literal</type>
+<datatype>http://www.w3.org/2001/XMLSchema#integer</datatype>
+<value>1883</value>
+</published>
+<wikilink>
+<type>uri</type>
+<value>http://en.wikipedia.org/wiki/The_Merry_Adventures_of_Robin_Hood?oldid=581653091</value>
+</wikilink>
+</XML_Serializer_Tag>
+<XML_Serializer_Tag>
+<book>
+<type>uri</type>
+<value>http://dbpedia.org/resource/Otto_of_the_Silver_Hand</value>
+</book>
+<author>
+<type>uri</type>
+<value>http://dbpedia.org/resource/Howard_Pyle</value>
+</author>
+<released>
+<type>typed-literal</type>
+<datatype>http://www.w3.org/2001/XMLSchema#integer</datatype>
+<value>1888</value>
+</released>
+<wikilink>
+<type>uri</type>
+<value>http://en.wikipedia.org/wiki/Otto_of_the_Silver_Hand?oldid=588318773</value>
+</wikilink>
+</XML_Serializer_Tag>
+</books>
+</Person>

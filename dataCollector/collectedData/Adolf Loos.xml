@@ -1,0 +1,83 @@
+<Person>
+<name>Adolf Loos</name>
+<variantName>
+<XML_Serializer_Tag>Adolf Los</XML_Serializer_Tag>
+</variantName>
+<thumbnail>https://commons.wikimedia.org/wiki/Special:FilePath/Adolfloos.2.jpg?width=270</thumbnail>
+<birthEN>1870</birthEN>
+<birthDE>1870</birthDE>
+<deathEN>1933</deathEN>
+<deathDE>1933</deathDE>
+<birthPlace />
+<deathPlace />
+<professionOrOccupation>
+<XML_Serializer_Tag>Architekt</XML_Serializer_Tag>
+<XML_Serializer_Tag>Designer</XML_Serializer_Tag>
+</professionOrOccupation>
+<dbpResource>http://dbpedia.org/resource/Adolf_Loos</dbpResource>
+<abstract>Adolf Loos (* 10. Dezember 1870 in Brünn; † 23. August 1933 in Kalksburg) war österreichischer Architekt, Architekturkritiker und Kulturpublizist. Er gilt als einer der Wegbereiter der modernen Architektur.</abstract>
+<wikilink>http://en.wikipedia.org/wiki/Adolf_Loos?oldid=604741280</wikilink>
+<artworks />
+<buildings>
+<XML_Serializer_Tag>
+<building>
+<type>uri</type>
+<value>http://dbpedia.org/resource/Villa_M%C3%BCller</value>
+</building>
+<name>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>Haus Müller</value>
+</name>
+<architect>
+<type>uri</type>
+<value>http://dbpedia.org/resource/Adolf_Loos</value>
+</architect>
+<thumbnail>
+<type>uri</type>
+<value>http://commons.wikimedia.org/wiki/Special:FilePath/Villa_Muller_065.jpg?width=300</value>
+</thumbnail>
+<wikilink>
+<type>uri</type>
+<value>http://en.wikipedia.org/wiki/Villa_Müller?oldid=603454745</value>
+</wikilink>
+<location>
+<type>uri</type>
+<value>http://dbpedia.org/resource/Czech_Republic</value>
+</location>
+<abstract>
+<type>literal</type>
+<xml:lang>de</xml:lang>
+<value>Die Villa Müller (Müllerova vila, Haus Müller) ist ein Gebäude von Adolf Loos in Prag, 6. Bezirk, Nad Hradním vodojemem 14, im Wohnviertel Střešovice im Westen der Stadt. Der Bauunternehmer František Müller, Hauptinhaber der renommierten Baufirma Kapsa &amp; Müller, ließ die luxuriöse Villa 1928–1930 für sich und seine Frau Milada erbauen, als er mit seiner Familie von Pilsen nach Prag ziehen wollte.Auf Empfehlung von Karel Lhota beauftragte er Adolf Loos mit der Planung. Beide Architekten arbeiteten auf Grund von Loos&apos; schlechtem Gesundheitszustand zusammen an der Villa. Ihr Bau fiel in die Zeit, als als Ludwig Mies van der Rohe in Brünn die Villa Tugendhat erbaute.Nach dem Tod von Müller im Jahre 1951 bewohnte die Witwe das Haus allein; in dieser Zeit des beginnenden Sozialismus verfiel die Villa weitestgehend, da nur zwei Räume im ursprünglichen Sinne genutzt wurden, während die anderen kommunistische Institutionen beherbergten.Nach der Samtenen Revolution kaufte die Stadt Prag das Haus und ließ es nach überlieferten Fotografien von 1998 bis 2000 rekonstruieren bzw. revitalisieren. Das Gebäude ist heute ein Museum und kann nach Voranmeldung besucht werden.</value>
+</abstract>
+</XML_Serializer_Tag>
+<XML_Serializer_Tag>
+<building>
+<type>uri</type>
+<value>http://dbpedia.org/resource/Rufer_House</value>
+</building>
+<name>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>Rufer House</value>
+</name>
+<architect>
+<type>uri</type>
+<value>http://dbpedia.org/resource/Adolf_Loos</value>
+</architect>
+<thumbnail>
+<type>uri</type>
+<value>http://commons.wikimedia.org/wiki/Special:FilePath/Adolf_Loos,_1922,_A1130_Wien,_Schließmanngasse_11,_Haus_Rufer,_p1.jpg?width=300</value>
+</thumbnail>
+<wikilink>
+<type>uri</type>
+<value>http://en.wikipedia.org/wiki/Rufer_House?oldid=549236962</value>
+</wikilink>
+<location>
+<type>uri</type>
+<value>http://dbpedia.org/resource/Vienna</value>
+</location>
+</XML_Serializer_Tag>
+</buildings>
+<books />
+</Person>

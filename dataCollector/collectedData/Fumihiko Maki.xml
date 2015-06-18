@@ -1,0 +1,56 @@
+<Person>
+<name>Fumihiko Maki</name>
+<variantName>
+<XML_Serializer_Tag>Maki Fumihiko</XML_Serializer_Tag>
+<XML_Serializer_Tag>槇文彦</XML_Serializer_Tag>
+</variantName>
+<thumbnail>https://commons.wikimedia.org/wiki/Special:FilePath/Fumihiko_Maki_2010_alt.jpg?width=270</thumbnail>
+<birthEN>1928</birthEN>
+<birthDE>1928</birthDE>
+<deathEN />
+<deathDE />
+<birthPlace />
+<deathPlace />
+<professionOrOccupation>
+<XML_Serializer_Tag>Architekt</XML_Serializer_Tag>
+</professionOrOccupation>
+<dbpResource>http://dbpedia.org/resource/Fumihiko_Maki</dbpResource>
+<abstract>Fumihiko Maki (jap. 槇 文彦, Maki Fumihiko; * 6. September 1928 in der Präfektur Tokio) ist ein japanischer Architekt und Träger des Pritzker-Preises (1993) und des Praemium Imperiale (1999).Maki studierte bis 1952 an der Universität Tokio, später an der Harvard Graduate School of Design. Er arbeitete für das Architekturbüro Skidmore, Owings and Merrill in New York City. Im Jahr 1956 wurde er für einige Jahre Professor an der Harvard-Universität. Im Jahr 1965 kehrte er nach Japan zurück und machte sich selbständig.In den Jahren 1979 bis 1989 war Maki Professor für Bauingenieurwesen an der Universität Tokio.1993 erhielt er für seine Arbeit am Tokyo Metropolitan Gymnasium den Pritzker-Preis. 1997 wurde Maki die Ehrenmitgliedschaft im Bund Deutscher Architekten BDA verliehen.</abstract>
+<wikilink>http://en.wikipedia.org/wiki/Fumihiko_Maki?oldid=605599237</wikilink>
+<artworks />
+<buildings>
+<XML_Serializer_Tag>
+<building>
+<type>uri</type>
+<value>http://dbpedia.org/resource/Four_World_Trade_Center</value>
+</building>
+<name>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>4 World Trade Center</value>
+</name>
+<architect>
+<type>uri</type>
+<value>http://dbpedia.org/resource/Fumihiko_Maki</value>
+</architect>
+<thumbnail>
+<type>uri</type>
+<value>http://commons.wikimedia.org/wiki/Special:FilePath/4_WTC_May_17_2013.jpg?width=300</value>
+</thumbnail>
+<wikilink>
+<type>uri</type>
+<value>http://en.wikipedia.org/wiki/Four_World_Trade_Center?oldid=606791944</value>
+</wikilink>
+<location>
+<type>uri</type>
+<value>http://dbpedia.org/resource/New_York</value>
+</location>
+<abstract>
+<type>literal</type>
+<xml:lang>de</xml:lang>
+<value>Das Four World Trade Center, auch unter dem Namen seiner Adresse 150 Greenwich Street bekannt, ist ein Wolkenkratzer in New York City, der im Rahmen des neuen World Trade Center Komplexes errichtet wurde. Am 25. Juni 2012 erreichte das Gebäude seine Endhöhe. Die feierliche Eröffnung des Wolkenkratzers war am 13. November 2013.</value>
+</abstract>
+</XML_Serializer_Tag>
+</buildings>
+<books />
+</Person>

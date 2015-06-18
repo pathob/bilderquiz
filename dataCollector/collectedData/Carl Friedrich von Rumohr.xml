@@ -1,0 +1,45 @@
+<Person>
+<name>Carl Friedrich von Rumohr</name>
+<variantName>
+<XML_Serializer_Tag>Carl Friedrich Ludwig Felix von Rumohr</XML_Serializer_Tag>
+<XML_Serializer_Tag>Karl Friedrich Ludwig Felix von Rumohr</XML_Serializer_Tag>
+<XML_Serializer_Tag>Karl Ludwig Felix von Rumohr</XML_Serializer_Tag>
+<XML_Serializer_Tag>Karl Friedrich von Rumohr</XML_Serializer_Tag>
+<XML_Serializer_Tag>Karl Friedrich Rumohr</XML_Serializer_Tag>
+<XML_Serializer_Tag>Carl Friedrich Rumohr</XML_Serializer_Tag>
+<XML_Serializer_Tag>Carl F. von Rumohr</XML_Serializer_Tag>
+<XML_Serializer_Tag>Carl F. Rumohr</XML_Serializer_Tag>
+<XML_Serializer_Tag>Friedrich C. Rumohr</XML_Serializer_Tag>
+<XML_Serializer_Tag>Karl F. von Rumohr</XML_Serializer_Tag>
+<XML_Serializer_Tag>C. F. von Rumohr</XML_Serializer_Tag>
+<XML_Serializer_Tag>C. F. Rumohr</XML_Serializer_Tag>
+<XML_Serializer_Tag>K. F. von Rumohr</XML_Serializer_Tag>
+<XML_Serializer_Tag>C. F. L. F. von Rumohr</XML_Serializer_Tag>
+<XML_Serializer_Tag>C. Fr. von Rumohr</XML_Serializer_Tag>
+<XML_Serializer_Tag>Joseph König</XML_Serializer_Tag>
+</variantName>
+<thumbnail>https://commons.wikimedia.org/wiki/Special:FilePath/Karl_Friedrich_von_Rumohr_by_Friedrich_Nerly.jpg?width=270</thumbnail>
+<birthEN>January 6, 1785</birthEN>
+<birthDE>6. Januar 1785</birthDE>
+<deathEN>July 25, 1843</deathEN>
+<deathDE>25. Juli 1843</deathDE>
+<birthPlace>
+<XML_Serializer_Tag>Reinhardtsgrimma</XML_Serializer_Tag>
+</birthPlace>
+<deathPlace>
+<XML_Serializer_Tag>Dresden</XML_Serializer_Tag>
+</deathPlace>
+<professionOrOccupation>
+<XML_Serializer_Tag>Kunsthistoriker</XML_Serializer_Tag>
+<XML_Serializer_Tag>Historiker</XML_Serializer_Tag>
+<XML_Serializer_Tag>Schriftsteller</XML_Serializer_Tag>
+<XML_Serializer_Tag>Kunsttheoretiker</XML_Serializer_Tag>
+<XML_Serializer_Tag>Gastrosoph</XML_Serializer_Tag>
+</professionOrOccupation>
+<dbpResource>http://dbpedia.org/resource/Carl_Friedrich_von_Rumohr</dbpResource>
+<abstract>Carl Friedrich Ludwig Felix von Rumohr (* 6. Januar 1785 in Reinhardtsgrimma bei Dresden; † 25. Juli 1843 in Dresden) war ein deutscher Kunsthistoriker, Schriftsteller, Zeichner und Maler, Agrarhistoriker, Gastrosoph, Kunstsammler und Mäzen.</abstract>
+<wikilink>http://en.wikipedia.org/wiki/Carl_Friedrich_von_Rumohr?oldid=597708373</wikilink>
+<artworks />
+<buildings />
+<books />
+</Person>

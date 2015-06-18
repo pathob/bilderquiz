@@ -1,0 +1,32 @@
+<Person>
+<name>Fritz Reuter</name>
+<variantName>
+<XML_Serializer_Tag>F. Reuter</XML_Serializer_Tag>
+<XML_Serializer_Tag>Fr. Reuter</XML_Serializer_Tag>
+<XML_Serializer_Tag>Fritzing Reuter</XML_Serializer_Tag>
+<XML_Serializer_Tag>Heinrich Ludwig Christian Friedrich Reuter</XML_Serializer_Tag>
+<XML_Serializer_Tag>Fritz Heinrich Ludwig Christian Reuter</XML_Serializer_Tag>
+<XML_Serializer_Tag>Fric Rojt&apos;r</XML_Serializer_Tag>
+</variantName>
+<thumbnail>https://commons.wikimedia.org/wiki/Special:FilePath/Fritz_Reuter_Kriehuber.jpg?width=270</thumbnail>
+<birthEN>November 7, 1810</birthEN>
+<birthDE>7. November 1810</birthDE>
+<deathEN>July 12, 1874</deathEN>
+<deathDE>12. Juli 1874</deathDE>
+<birthPlace>
+<XML_Serializer_Tag>Stavenhagen</XML_Serializer_Tag>
+</birthPlace>
+<deathPlace>
+<XML_Serializer_Tag>Eisenach</XML_Serializer_Tag>
+</deathPlace>
+<professionOrOccupation>
+<XML_Serializer_Tag>Mundartschriftsteller</XML_Serializer_Tag>
+<XML_Serializer_Tag>Schriftsteller</XML_Serializer_Tag>
+</professionOrOccupation>
+<dbpResource>http://dbpedia.org/resource/Fritz_Reuter</dbpResource>
+<abstract>Fritz Reuter (* 7. November 1810 in Stavenhagen; † 12. Juli 1874 in Eisenach; vollständiger Name: Heinrich Ludwig Christian Friedrich Reuter) gilt als einer der bedeutendsten Dichter und Schriftsteller der niederdeutschen Sprache.</abstract>
+<wikilink>http://en.wikipedia.org/wiki/Fritz_Reuter?oldid=602705088</wikilink>
+<artworks />
+<buildings />
+<books />
+</Person>

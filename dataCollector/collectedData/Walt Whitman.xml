@@ -1,0 +1,99 @@
+<Person>
+<name>Walt Whitman</name>
+<variantName>
+<XML_Serializer_Tag>Walter Whitman</XML_Serializer_Tag>
+<XML_Serializer_Tag>Uolt Uitmen</XML_Serializer_Tag>
+<XML_Serializer_Tag>Uot Uitmeni</XML_Serializer_Tag>
+<XML_Serializer_Tag>Wālt Wītmān</XML_Serializer_Tag>
+<XML_Serializer_Tag>... Veitman</XML_Serializer_Tag>
+<XML_Serializer_Tag>... Veyitman</XML_Serializer_Tag>
+<XML_Serializer_Tag>... Veeitman</XML_Serializer_Tag>
+<XML_Serializer_Tag>ホイットマン</XML_Serializer_Tag>
+</variantName>
+<thumbnail>https://commons.wikimedia.org/wiki/Special:FilePath/Walt_Whitman_edit_2.jpg?width=270</thumbnail>
+<birthEN>May 31, 1819</birthEN>
+<birthDE>31. Mai 1819</birthDE>
+<deathEN>March 26, 1892</deathEN>
+<deathDE>26. März 1892</deathDE>
+<birthPlace>
+<XML_Serializer_Tag>Long Island (Staat New York)</XML_Serializer_Tag>
+</birthPlace>
+<deathPlace>
+<XML_Serializer_Tag>Camden, NJ</XML_Serializer_Tag>
+</deathPlace>
+<professionOrOccupation>
+<XML_Serializer_Tag>Schriftsteller</XML_Serializer_Tag>
+</professionOrOccupation>
+<dbpResource>http://dbpedia.org/resource/Walt_Whitman</dbpResource>
+<abstract>Walter Whitman (* 31. Mai 1819 in West Hills, Long Island, New York; † 26. März 1892 in Camden, New Jersey) war ein US-amerikanischer Dichter. Er gilt als einer der Begründer der modernen amerikanischen Dichtung und daher als einer der einflussreichsten amerikanischen Lyriker des 19. Jahrhunderts, dessen Werk auch in der folgenden Zeit von großer literarischer Bedeutung ist. Sein berühmtestes Werk ist sein Lebenswerk Leaves of Grass (Grashalme).Seine Lyrik ist sehr volksverbunden und macht die Bedeutung der Masse, der Demokratie und der Natur deutlich und verherrlicht diese. In Gedichten wie Gesang von mir selbst wird eine Verherrlichung des Ichs als seelisch-sinnliche Ganzheit deutlich, die den demokratischen Mensch verkörpert. Andererseits ist er Dichtern wie Shakespeare, Macpherson, Homer, der Bibelsprache und orientalischer Literatur und Philosophie verpflichtet.Er ist ferner vom Pantheismus beeinflusst und von dem Gedankengut der Transzendentalisten geprägt. Seine Dichtung drückt eine Auffassung der „prophetischen Sendung des Dichters“ aus.Während die frühen Werke von unbrechbaren Optimismus strotzen, finden sich in späteren Werken auch triste Todeserfahrungen aus dem Sezessionskrieg. Whitman hat der Dynamik und dem expansiven Menschheitsglauben Amerikas einen gültigen Ausdruck verliehen. Seine Dichtung wirkte auch stark auf Europa und wies der Lyrik neue Aussage- und Ausdrücksmöglichkeiten.</abstract>
+<wikilink>http://en.wikipedia.org/wiki/Walt_Whitman?oldid=603128866</wikilink>
+<artworks />
+<buildings />
+<books>
+<XML_Serializer_Tag>
+<book>
+<type>uri</type>
+<value>http://dbpedia.org/resource/Leaves_of_Grass</value>
+</book>
+<author>
+<type>uri</type>
+<value>http://dbpedia.org/resource/Walt_Whitman</value>
+</author>
+<thumbnail>
+<type>uri</type>
+<value>http://commons.wikimedia.org/wiki/Special:FilePath/Whitman-leavesofgrass.gif?width=300</value>
+</thumbnail>
+<released>
+<type>typed-literal</type>
+<datatype>http://www.w3.org/2001/XMLSchema#date</datatype>
+<value>1855-07-04+02:00</value>
+</released>
+<wikilink>
+<type>uri</type>
+<value>http://en.wikipedia.org/wiki/Leaves_of_Grass?oldid=597100083</value>
+</wikilink>
+<abstract>
+<type>literal</type>
+<xml:lang>de</xml:lang>
+<value>Leaves of Grass (deutsch Grashalme) ist das Hauptwerk von Walt Whitman, einem der bedeutendsten US-amerikanischen Lyriker.</value>
+</abstract>
+</XML_Serializer_Tag>
+<XML_Serializer_Tag>
+<book>
+<type>uri</type>
+<value>http://dbpedia.org/resource/Drum-Taps</value>
+</book>
+<author>
+<type>uri</type>
+<value>http://dbpedia.org/resource/Walt_Whitman</value>
+</author>
+<thumbnail>
+<type>uri</type>
+<value>http://en.wikipedia.org/wiki/Special:FilePath/Drum-Taps.jpg?width=300</value>
+</thumbnail>
+<released>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>October, 1865</value>
+</released>
+<wikilink>
+<type>uri</type>
+<value>http://en.wikipedia.org/wiki/Drum-Taps?oldid=600038336</value>
+</wikilink>
+</XML_Serializer_Tag>
+<XML_Serializer_Tag>
+<book>
+<type>uri</type>
+<value>http://dbpedia.org/resource/Franklin_Evans</value>
+</book>
+<author>
+<type>uri</type>
+<value>http://dbpedia.org/resource/Walt_Whitman</value>
+</author>
+<wikilink>
+<type>uri</type>
+<value>http://en.wikipedia.org/wiki/Franklin_Evans?oldid=547384527</value>
+</wikilink>
+</XML_Serializer_Tag>
+</books>
+</Person>

@@ -16,8 +16,10 @@
 <XML_Serializer_Tag>Maler</XML_Serializer_Tag>
 <XML_Serializer_Tag>Bildhauer</XML_Serializer_Tag>
 </professionOrOccupation>
-<artworks />
 <dbpResource>http://dbpedia.org/resource/Eduard_Bitterlich</dbpResource>
 <abstract>Eduard Bitterlich (* 17. August 1833 in Dubljany (Galizien heute Ukraine); † 20. Mai 1872 in der Pfalzau (Gemeinde Pressbaum), Niederösterreich) war ein österreichischer Maler und Bildhauer.</abstract>
 <wikilink>http://en.wikipedia.org/wiki/Eduard_Bitterlich?oldid=581612931</wikilink>
+<artworks />
+<buildings />
+<books />
 </Person>

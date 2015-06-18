@@ -1,0 +1,64 @@
+<Person>
+<name>Edgar Wallace</name>
+<variantName>
+<XML_Serializer_Tag>Richard Horatio Edgar Wallace</XML_Serializer_Tag>
+<XML_Serializer_Tag>Edgar Uolles</XML_Serializer_Tag>
+<XML_Serializer_Tag>Edgar Volles</XML_Serializer_Tag>
+<XML_Serializer_Tag>Edgars Volless</XML_Serializer_Tag>
+<XML_Serializer_Tag>Richard Horatio Edgar Wallace</XML_Serializer_Tag>
+</variantName>
+<thumbnail>https://commons.wikimedia.org/wiki/Special:FilePath/Bundesarchiv_Bild_102-13109,_Edgar_Wallace.jpg?width=270</thumbnail>
+<birthEN>April 1, 1875</birthEN>
+<birthDE>1. April 1875</birthDE>
+<deathEN>October 10, 1932</deathEN>
+<deathDE>10. Oktober 1932</deathDE>
+<birthPlace>
+<XML_Serializer_Tag>Greenwich (London), England, Großbritannien</XML_Serializer_Tag>
+</birthPlace>
+<deathPlace>
+<XML_Serializer_Tag>Los Angeles- Hollywood</XML_Serializer_Tag>
+</deathPlace>
+<professionOrOccupation>
+<XML_Serializer_Tag>Schriftsteller</XML_Serializer_Tag>
+</professionOrOccupation>
+<dbpResource>http://dbpedia.org/resource/Edgar_Wallace</dbpResource>
+<abstract>Richard Horatio Edgar Wallace [ˈwɔlɪs] (* 1. April 1875 in Greenwich, London; † 10. Februar 1932 in Hollywood, Kalifornien) war ein englischer Schriftsteller, Drehbuchautor, Regisseur, Journalist und Dramatiker. Wallace gehört zu den erfolgreichsten englischsprachigen Kriminalschriftstellern.</abstract>
+<wikilink>http://en.wikipedia.org/wiki/Edgar_Wallace?oldid=606188259</wikilink>
+<artworks />
+<buildings />
+<books>
+<XML_Serializer_Tag>
+<book>
+<type>uri</type>
+<value>http://dbpedia.org/resource/Kate_Plus_Ten</value>
+</book>
+<author>
+<type>uri</type>
+<value>http://dbpedia.org/resource/Edgar_Wallace</value>
+</author>
+<released>
+<type>typed-literal</type>
+<datatype>http://www.w3.org/2001/XMLSchema#integer</datatype>
+<value>1917</value>
+</released>
+<wikilink>
+<type>uri</type>
+<value>http://en.wikipedia.org/wiki/Kate_Plus_Ten?oldid=551428738</value>
+</wikilink>
+</XML_Serializer_Tag>
+<XML_Serializer_Tag>
+<book>
+<type>uri</type>
+<value>http://dbpedia.org/resource/The_Big_Foot</value>
+</book>
+<author>
+<type>uri</type>
+<value>http://dbpedia.org/resource/Edgar_Wallace</value>
+</author>
+<wikilink>
+<type>uri</type>
+<value>http://en.wikipedia.org/wiki/The_Big_Foot?oldid=598700087</value>
+</wikilink>
+</XML_Serializer_Tag>
+</books>
+</Person>

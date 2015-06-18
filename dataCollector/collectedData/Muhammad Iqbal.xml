@@ -1,0 +1,64 @@
+<Person>
+<name>Muhammad Iqbal</name>
+<variantName>
+<XML_Serializer_Tag>Mohammed Iqbal</XML_Serializer_Tag>
+<XML_Serializer_Tag>Muhammad Ikbal</XML_Serializer_Tag>
+<XML_Serializer_Tag>Muhammed Ikbal</XML_Serializer_Tag>
+<XML_Serializer_Tag>Allama Muhammad Iqbal</XML_Serializer_Tag>
+<XML_Serializer_Tag>Muḥammad Iqbāl</XML_Serializer_Tag>
+<XML_Serializer_Tag>Iqbāl Lāhūrī</XML_Serializer_Tag>
+<XML_Serializer_Tag>Allameh Iqbal</XML_Serializer_Tag>
+<XML_Serializer_Tag>ʿAllāma Iqbāl</XML_Serializer_Tag>
+<XML_Serializer_Tag>Muhammed İkbal</XML_Serializer_Tag>
+<XML_Serializer_Tag>, Allama</XML_Serializer_Tag>
+<XML_Serializer_Tag>Mohammad Iqbal</XML_Serializer_Tag>
+<XML_Serializer_Tag>Muḥammad Iqbāl</XML_Serializer_Tag>
+<XML_Serializer_Tag>Mohammed Iqbal</XML_Serializer_Tag>
+<XML_Serializer_Tag>Muhammad Iḳbol</XML_Serializer_Tag>
+<XML_Serializer_Tag>Allama Muhammad Iqbal</XML_Serializer_Tag>
+<XML_Serializer_Tag>Allama Mohammad Iqbal</XML_Serializer_Tag>
+<XML_Serializer_Tag>Muḥammad Iqbāl Lāhūrī</XML_Serializer_Tag>
+<XML_Serializer_Tag>Muḥammad Iqbāl Lāhūrī</XML_Serializer_Tag>
+<XML_Serializer_Tag>Muḥammad Iqbāl Lāhūrī</XML_Serializer_Tag>
+<XML_Serializer_Tag>S. M. Iqbal</XML_Serializer_Tag>
+<XML_Serializer_Tag>Iqbal</XML_Serializer_Tag>
+<XML_Serializer_Tag>Šaiḫ Muḥammad Iqbāl</XML_Serializer_Tag>
+</variantName>
+<thumbnail>https://commons.wikimedia.org/wiki/Special:FilePath/Iqbal.jpg?width=270</thumbnail>
+<birthEN>November 9, 1877</birthEN>
+<birthDE>9. November 1877</birthDE>
+<deathEN>April 21, 1938</deathEN>
+<deathDE>21. April 1938</deathDE>
+<birthPlace />
+<deathPlace />
+<professionOrOccupation>
+<XML_Serializer_Tag>Schriftsteller</XML_Serializer_Tag>
+<XML_Serializer_Tag>Lyriker</XML_Serializer_Tag>
+<XML_Serializer_Tag>Jurist</XML_Serializer_Tag>
+</professionOrOccupation>
+<dbpResource>http://dbpedia.org/resource/Muhammad_Iqbal</dbpResource>
+<abstract>Sir Muhammad Iqbal (Urdu ‏محمد اقبال‎, DMG Muḥammad Iqbāl; * 9. November 1877 in Sialkot; † 21. April 1938 in Lahore, beides damals Britisch-Indien, heute Pakistan) war ein persischsprachiger muslimischer Dichter und Mystiker indischer Abstammung und gilt heute als Nationaldichter Pakistans. Muhammed Iqbal wird auch häufig Allama Iqbal genannt (‏علامہ اقبال‎, Iqbal der Hochgelehrte; ‏علّامة‎ / ʿallāma ist der Superlativ des arabischen Wortes ‏عالم‎ / ʿālim / ‚Wissender‘). Die meisten seiner Werke sind in persischer Sprache verfasst. Daneben schrieb er philosophische Poesie auf Urdu und einige philosophische Prosawerke auf Englisch.Iqbal machte in Lahore seinen Master of Arts in Philosophie. 1905–1907 studierte er in Cambridge, München und Heidelberg Rechtswissenschaften und Philosophie und promovierte an der Universität München bei Fritz Hommel. Es waren diese Lehrjahre, die den jungen Iqbal dazu führten, den Orient und seine Philosophien mit denen des Westens zu vergleichen. So entwickelte er ein ausgeprägtes Sendungsbewusstsein und forderte nach seiner Rückkehr in seine Heimat eine stärkere Solidarität zwischen den Muslimen, die ihnen ermöglichen sollte, nach Jahren des Verfalls wieder zu geistigem Aufstieg zu gelangen. Zu seinen wichtigsten Werken gehören Asrar-e-Khudi (dt. „Die Geheimnisse des Selbst“), 1915 sowie Payam-e-Mashriq (dt. „Die Botschaft des Ostens“) 1923, die als Antwort auf Goethes West-östlichen Diwan geschrieben ist.Allama Iqbal hinterließ jedoch nicht nur ein breit gefächertes dichterisches Vermächtnis, sondern beeinflusste darüber hinaus Politik und Philosophie in einer nachhaltigen Art und Weise – und stand somit ganz in der Tradition des Universalgenies Goethe, für den Iqbal selbst tiefe Verehrung und Bewunderung hegte.Engagiert setzte er sich – etwa 1930 als Präsident der All-India-Muslim League Konferenz – für einen separaten muslimischen Staat Pakistan ein, was später durch Muhammad Ali Jinnah auch als Zwei-Nationen-Theorie bekannt wurde.Iqbal verstarb 1938, so dass er die Gründung des Staates Pakistans 1947 nicht erlebte. Gleichwohl gilt er als geistiger Vater Pakistans und wird heute überwiegend als wichtigster islamischer Philosoph der Neuzeit betrachtet.Iqbals Werke wurden insbesondere von Annemarie Schimmel ins Deutsche übersetzt und kommentiert.In Heidelberg ist mit dem Iqbal-Ufer, einem etwa 1200 Meter langen Stück der B37 entlang des Südufers des Neckars, eine Straße nach dem Philosophen und Dichter benannt worden. In München steht am Habsburgerplatz ein Denkmal, das dem Dichter, Politiker und Philosophen gewidmet ist.</abstract>
+<wikilink>http://en.wikipedia.org/wiki/Muhammad_Iqbal?oldid=606770190</wikilink>
+<artworks />
+<buildings />
+<books>
+<XML_Serializer_Tag>
+<book>
+<type>uri</type>
+<value>http://dbpedia.org/resource/Gul_Afshaniyaat-e-Iqbal</value>
+</book>
+<author>
+<type>uri</type>
+<value>http://dbpedia.org/resource/Muhammad_Iqbal</value>
+</author>
+<thumbnail>
+<type>uri</type>
+<value>http://commons.wikimedia.org/wiki/Special:FilePath/Gulafshaniat-e-Iqbal.jpg?width=300</value>
+</thumbnail>
+<wikilink>
+<type>uri</type>
+<value>http://en.wikipedia.org/wiki/Gul_Afshaniyaat-e-Iqbal?oldid=544880256</value>
+</wikilink>
+</XML_Serializer_Tag>
+</books>
+</Person>

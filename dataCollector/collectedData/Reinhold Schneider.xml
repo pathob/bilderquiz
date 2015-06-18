@@ -1,0 +1,30 @@
+<Person>
+<name>Reinhold Schneider</name>
+<variantName>
+<XML_Serializer_Tag>R. Schneider</XML_Serializer_Tag>
+<XML_Serializer_Tag>Reinhold Schneider-Mesmer</XML_Serializer_Tag>
+<XML_Serializer_Tag>Reinhold Schneider-Mesmer</XML_Serializer_Tag>
+<XML_Serializer_Tag>Reinhold Schneider-Messmer</XML_Serializer_Tag>
+<XML_Serializer_Tag>Reinhold Schneider-Messmer</XML_Serializer_Tag>
+</variantName>
+<thumbnail>https://commons.wikimedia.org/wiki/Special:FilePath/Reinhold-Schneider-Briefmark.jpg?width=270</thumbnail>
+<birthEN>May 13, 1903</birthEN>
+<birthDE>13. Mai 1903</birthDE>
+<deathEN>April 6, 1958</deathEN>
+<deathDE>6. April 1958</deathDE>
+<birthPlace>
+<XML_Serializer_Tag>Baden-Baden</XML_Serializer_Tag>
+</birthPlace>
+<deathPlace>
+<XML_Serializer_Tag>Freiburg im Breisgau</XML_Serializer_Tag>
+</deathPlace>
+<professionOrOccupation>
+<XML_Serializer_Tag>Schriftsteller</XML_Serializer_Tag>
+</professionOrOccupation>
+<dbpResource>http://dbpedia.org/resource/Reinhold_Schneider</dbpResource>
+<abstract>Reinhold Schneider (* 13. Mai 1903 in Baden-Baden; † 6. April 1958 in Freiburg im Breisgau) war ein deutscher Schriftsteller.</abstract>
+<wikilink>http://en.wikipedia.org/wiki/Reinhold_Schneider?oldid=551966550</wikilink>
+<artworks />
+<buildings />
+<books />
+</Person>

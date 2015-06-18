@@ -29,8 +29,10 @@
 <XML_Serializer_Tag>Maler</XML_Serializer_Tag>
 <XML_Serializer_Tag>Tiermaler</XML_Serializer_Tag>
 </professionOrOccupation>
-<artworks />
 <dbpResource>http://dbpedia.org/resource/Johann_Elias_Ridinger</dbpResource>
 <abstract>Johann Elias Ridinger (* 15. Februar 1698 in Ulm; † 10. April 1767 in Augsburg) war ein deutscher Tiermaler, Kupferstecher, Radierer und Verleger.</abstract>
 <wikilink>http://en.wikipedia.org/wiki/Johann_Elias_Ridinger?oldid=584617691</wikilink>
+<artworks />
+<buildings />
+<books />
 </Person>

@@ -1,0 +1,30 @@
+<Person>
+<name>Henrik Steffens</name>
+<variantName>
+<XML_Serializer_Tag>H. Steffens</XML_Serializer_Tag>
+<XML_Serializer_Tag>Heinrich Steffens</XML_Serializer_Tag>
+<XML_Serializer_Tag>Henrich Steffens</XML_Serializer_Tag>
+<XML_Serializer_Tag>Hinrich Steffens</XML_Serializer_Tag>
+<XML_Serializer_Tag>Henricus Steffens</XML_Serializer_Tag>
+</variantName>
+<thumbnail>https://commons.wikimedia.org/wiki/Special:FilePath/Heinrich_Steffens_sshh_foto.jpg?width=270</thumbnail>
+<birthEN>May 2, 1773</birthEN>
+<birthDE>2. Mai 1773</birthDE>
+<deathEN>February 13, 1845</deathEN>
+<deathDE>13. Februar 1845</deathDE>
+<birthPlace>
+<XML_Serializer_Tag>Stavanger</XML_Serializer_Tag>
+</birthPlace>
+<deathPlace />
+<professionOrOccupation>
+<XML_Serializer_Tag>Naturwissenschaftler</XML_Serializer_Tag>
+<XML_Serializer_Tag>Philosoph</XML_Serializer_Tag>
+<XML_Serializer_Tag>Schriftsteller</XML_Serializer_Tag>
+</professionOrOccupation>
+<dbpResource>http://dbpedia.org/resource/Henrik_Steffens</dbpResource>
+<abstract>Henrich Steffens (auch Henrik) (* 2. Mai 1773 in Stavanger, Norwegen; † 13. Februar 1845 in Berlin) war ein Philosoph, Naturforscher, Hochschullehrer und Dichter.</abstract>
+<wikilink>http://en.wikipedia.org/wiki/Henrik_Steffens?oldid=600175743</wikilink>
+<artworks />
+<buildings />
+<books />
+</Person>

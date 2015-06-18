@@ -1,0 +1,27 @@
+<Person>
+<name>Bruce Nauman</name>
+<variantName>
+<XML_Serializer_Tag>Bruce Naumann</XML_Serializer_Tag>
+<XML_Serializer_Tag>... Nauman</XML_Serializer_Tag>
+</variantName>
+<thumbnail>https://commons.wikimedia.org/wiki/Special:FilePath/Truncated_Pyramid_Room.jpg?width=270</thumbnail>
+<birthEN>1941</birthEN>
+<birthDE>1941</birthDE>
+<deathEN />
+<deathDE />
+<birthPlace>
+<XML_Serializer_Tag>Fort Wayne, Ind.</XML_Serializer_Tag>
+</birthPlace>
+<deathPlace />
+<professionOrOccupation>
+<XML_Serializer_Tag>Konzeptkünstler</XML_Serializer_Tag>
+<XML_Serializer_Tag>Künstler</XML_Serializer_Tag>
+<XML_Serializer_Tag>Objektkünstler</XML_Serializer_Tag>
+</professionOrOccupation>
+<dbpResource>http://dbpedia.org/resource/Bruce_Nauman</dbpResource>
+<abstract>Bruce Nauman (* 6. Dezember 1941 in Fort Wayne, Indiana, USA) ist ein US-amerikanischer Konzeptkünstler.</abstract>
+<wikilink>http://en.wikipedia.org/wiki/Bruce_Nauman?oldid=606454187</wikilink>
+<artworks />
+<buildings />
+<books />
+</Person>

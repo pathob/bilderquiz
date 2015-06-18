@@ -1,0 +1,32 @@
+<Person>
+<name>Erich Loest</name>
+<variantName>
+<XML_Serializer_Tag>Hans Walldorf</XML_Serializer_Tag>
+<XML_Serializer_Tag>Waldemar Nass</XML_Serializer_Tag>
+<XML_Serializer_Tag>Waldemar Naß</XML_Serializer_Tag>
+<XML_Serializer_Tag>Erich Lʹost</XML_Serializer_Tag>
+<XML_Serializer_Tag>Bernd Diksen</XML_Serializer_Tag>
+</variantName>
+<thumbnail>https://commons.wikimedia.org/wiki/Special:FilePath/ErichLoestinHH02.jpg?width=270</thumbnail>
+<birthEN>February 24, 1926</birthEN>
+<birthDE>24. Februar 1926</birthDE>
+<deathEN>September 12, 2013</deathEN>
+<deathDE>12. September 2013</deathDE>
+<birthPlace>
+<XML_Serializer_Tag>Mittweida</XML_Serializer_Tag>
+</birthPlace>
+<deathPlace>
+<XML_Serializer_Tag>Leipzig</XML_Serializer_Tag>
+</deathPlace>
+<professionOrOccupation>
+<XML_Serializer_Tag>Journalist</XML_Serializer_Tag>
+<XML_Serializer_Tag>Schriftsteller</XML_Serializer_Tag>
+<XML_Serializer_Tag>Drehbuchautor</XML_Serializer_Tag>
+</professionOrOccupation>
+<dbpResource>http://dbpedia.org/resource/Erich_Loest</dbpResource>
+<abstract>Erich Loest [løːst] (* 24. Februar 1926 in Mittweida, Freistaat Sachsen; † 12. September 2013 in Leipzig) war ein deutscher Schriftsteller; er schrieb auch unter den Pseudonymen Hans Walldorf und Waldemar Naß.</abstract>
+<wikilink>http://en.wikipedia.org/wiki/Erich_Loest?oldid=601961839</wikilink>
+<artworks />
+<buildings />
+<books />
+</Person>

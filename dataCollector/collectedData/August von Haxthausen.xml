@@ -1,0 +1,38 @@
+<Person>
+<name>August von Haxthausen</name>
+<variantName>
+<XML_Serializer_Tag>A. de Haxthausen</XML_Serializer_Tag>
+<XML_Serializer_Tag>Auguste de Haxthausen</XML_Serializer_Tag>
+<XML_Serializer_Tag>August Franz Ludwig Maria von Haxthausen</XML_Serializer_Tag>
+<XML_Serializer_Tag>August von Harthausen</XML_Serializer_Tag>
+<XML_Serializer_Tag>A. v. Haxthausen</XML_Serializer_Tag>
+<XML_Serializer_Tag>Franz August Maria von Haxthausen</XML_Serializer_Tag>
+<XML_Serializer_Tag>August Franz von Haxthausen</XML_Serializer_Tag>
+<XML_Serializer_Tag>Avgust Gakstgauzen</XML_Serializer_Tag>
+</variantName>
+<thumbnail>https://commons.wikimedia.org/wiki/Special:FilePath/Haxthausen,_August_von.jpg?width=270</thumbnail>
+<birthEN>February 3, 1792</birthEN>
+<birthDE>3. Februar 1792</birthDE>
+<deathEN>December 31, 1866</deathEN>
+<deathDE>31. Dezember 1866</deathDE>
+<birthPlace>
+<XML_Serializer_Tag>Bökendorf</XML_Serializer_Tag>
+</birthPlace>
+<deathPlace>
+<XML_Serializer_Tag>Hannover</XML_Serializer_Tag>
+</deathPlace>
+<professionOrOccupation>
+<XML_Serializer_Tag>Agrarwissenschaftler</XML_Serializer_Tag>
+<XML_Serializer_Tag>Landwirt</XML_Serializer_Tag>
+<XML_Serializer_Tag>Volkswirt</XML_Serializer_Tag>
+<XML_Serializer_Tag>Jurist</XML_Serializer_Tag>
+<XML_Serializer_Tag>Schriftsteller</XML_Serializer_Tag>
+<XML_Serializer_Tag>Sammler</XML_Serializer_Tag>
+</professionOrOccupation>
+<dbpResource>http://dbpedia.org/resource/August_von_Haxthausen</dbpResource>
+<abstract>August Franz Ludwig Maria Freiherr von Haxthausen (* 3. Februar 1792 in Bökendorf im Fürstbistum Paderborn; † 31. Dezember 1866 in Hannover) war Agrarwissenschaftler, Nationalökonom, Jurist, Landwirt und Schriftsteller sowie Volksliedersammler.</abstract>
+<wikilink>http://en.wikipedia.org/wiki/August_von_Haxthausen?oldid=602403748</wikilink>
+<artworks />
+<buildings />
+<books />
+</Person>

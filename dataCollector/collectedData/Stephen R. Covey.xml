@@ -1,0 +1,88 @@
+<Person>
+<name>Stephen R. Covey</name>
+<variantName>
+<XML_Serializer_Tag>Stephen Covey</XML_Serializer_Tag>
+<XML_Serializer_Tag>Stephen Richards Covey</XML_Serializer_Tag>
+</variantName>
+<thumbnail>https://commons.wikimedia.org/wiki/Special:FilePath/Stephen_Covey_2010.jpg?width=270</thumbnail>
+<birthEN>October 24, 1932</birthEN>
+<birthDE>24. Oktober 1932</birthDE>
+<deathEN>July 16, 2012</deathEN>
+<deathDE>16. Juli 2012</deathDE>
+<birthPlace>
+<XML_Serializer_Tag>Salt Lake City, Utah</XML_Serializer_Tag>
+</birthPlace>
+<deathPlace />
+<professionOrOccupation>
+<XML_Serializer_Tag>Schriftsteller</XML_Serializer_Tag>
+<XML_Serializer_Tag>Hochschullehrer</XML_Serializer_Tag>
+</professionOrOccupation>
+<dbpResource>http://dbpedia.org/resource/Stephen_Covey</dbpResource>
+<abstract>Stephen R. Covey (* 24. Oktober 1932 in Salt Lake City, Utah; † 16. Juli 2012 in Idaho Falls, Idaho) war ein US-amerikanischer Bestseller-Autor von Selbsthilfe-Büchern und religiösen Traktaten und seit 2010 Hochschullehrer an der Jon M. Huntsman School of Business der Utah State University.</abstract>
+<wikilink>http://en.wikipedia.org/wiki/Stephen_Covey?oldid=605771544</wikilink>
+<artworks />
+<buildings />
+<books>
+<XML_Serializer_Tag>
+<book>
+<type>uri</type>
+<value>http://dbpedia.org/resource/The_8th_Habit</value>
+</book>
+<author>
+<type>uri</type>
+<value>http://dbpedia.org/resource/Stephen_Covey</value>
+</author>
+<thumbnail>
+<type>uri</type>
+<value>http://en.wikipedia.org/wiki/Special:FilePath/8thHabit.JPG?width=300</value>
+</thumbnail>
+<published>
+<type>typed-literal</type>
+<datatype>http://www.w3.org/2001/XMLSchema#integer</datatype>
+<value>2004</value>
+</published>
+<wikilink>
+<type>uri</type>
+<value>http://en.wikipedia.org/wiki/The_8th_Habit?oldid=604258375</value>
+</wikilink>
+</XML_Serializer_Tag>
+<XML_Serializer_Tag>
+<book>
+<type>uri</type>
+<value>http://dbpedia.org/resource/The_Seven_Habits_of_Highly_Effective_People</value>
+</book>
+<author>
+<type>uri</type>
+<value>http://dbpedia.org/resource/Stephen_Covey</value>
+</author>
+<released>
+<type>typed-literal</type>
+<datatype>http://www.w3.org/2001/XMLSchema#integer</datatype>
+<value>1989</value>
+</released>
+<wikilink>
+<type>uri</type>
+<value>http://en.wikipedia.org/wiki/The_Seven_Habits_of_Highly_Effective_People?oldid=605734856</value>
+</wikilink>
+</XML_Serializer_Tag>
+<XML_Serializer_Tag>
+<book>
+<type>uri</type>
+<value>http://dbpedia.org/resource/The_3rd_Alternative</value>
+</book>
+<author>
+<type>uri</type>
+<value>http://dbpedia.org/resource/Stephen_Covey</value>
+</author>
+<released>
+<type>typed-literal</type>
+<datatype>http://www.w3.org/2001/XMLSchema#integer</datatype>
+<value>2011</value>
+</released>
+<wikilink>
+<type>uri</type>
+<value>http://en.wikipedia.org/wiki/The_3rd_Alternative?oldid=550033235</value>
+</wikilink>
+</XML_Serializer_Tag>
+</books>
+</Person>

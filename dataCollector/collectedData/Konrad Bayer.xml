@@ -1,0 +1,26 @@
+<Person>
+<name>Konrad Bayer</name>
+<variantName />
+<thumbnail>https://commons.wikimedia.org/wiki/Special:FilePath/Konrad-Bayer-Grab.jpg?width=270</thumbnail>
+<birthEN>December 17, 1932</birthEN>
+<birthDE>17. Dezember 1932</birthDE>
+<deathEN>October 10, 1964</deathEN>
+<deathDE>10. Oktober 1964</deathDE>
+<birthPlace>
+<XML_Serializer_Tag>Wien</XML_Serializer_Tag>
+</birthPlace>
+<deathPlace>
+<XML_Serializer_Tag>Wien</XML_Serializer_Tag>
+</deathPlace>
+<professionOrOccupation>
+<XML_Serializer_Tag>Schriftsteller</XML_Serializer_Tag>
+<XML_Serializer_Tag>Bankangestellter</XML_Serializer_Tag>
+<XML_Serializer_Tag>Gallerist</XML_Serializer_Tag>
+</professionOrOccupation>
+<dbpResource>http://dbpedia.org/resource/Konrad_Bayer</dbpResource>
+<abstract>Konrad Bayer (* 17. Dezember 1932 in Wien; † 10. Oktober 1964 ebenda) war ein österreichischer Schriftsteller und Dandy.</abstract>
+<wikilink>http://en.wikipedia.org/wiki/Konrad_Bayer?oldid=593638733</wikilink>
+<artworks />
+<buildings />
+<books />
+</Person>

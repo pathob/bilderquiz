@@ -1,0 +1,69 @@
+<Person>
+<name>Aphra Behn</name>
+<variantName>
+<XML_Serializer_Tag>Aphra A. Behn</XML_Serializer_Tag>
+<XML_Serializer_Tag>Anne Behn</XML_Serializer_Tag>
+<XML_Serializer_Tag>... Behn</XML_Serializer_Tag>
+<XML_Serializer_Tag>Afra Behn</XML_Serializer_Tag>
+<XML_Serializer_Tag>Aphara Behn</XML_Serializer_Tag>
+<XML_Serializer_Tag>Aphra Johnson</XML_Serializer_Tag>
+<XML_Serializer_Tag>Astrea</XML_Serializer_Tag>
+<XML_Serializer_Tag>Aphra Amis Behn</XML_Serializer_Tag>
+<XML_Serializer_Tag>A. Behn</XML_Serializer_Tag>
+<XML_Serializer_Tag>Ann Behn</XML_Serializer_Tag>
+<XML_Serializer_Tag>Ayfara Behn</XML_Serializer_Tag>
+</variantName>
+<thumbnail>https://commons.wikimedia.org/wiki/Special:FilePath/Aphra_Behn.jpg?width=270</thumbnail>
+<birthEN>1640</birthEN>
+<birthDE>1640</birthDE>
+<deathEN>1689</deathEN>
+<deathDE>1689</deathDE>
+<birthPlace />
+<deathPlace />
+<professionOrOccupation>
+<XML_Serializer_Tag>Schriftstellerin</XML_Serializer_Tag>
+</professionOrOccupation>
+<dbpResource>http://dbpedia.org/resource/Aphra_Behn</dbpResource>
+<abstract>Aphra Behn (* 10. Juli 1640 in Wye, Kent, Großbritannien; † 16. April 1689 in London; gebürtige Aphra Johnson) war eine Schriftstellerin, Spionin und Feministin. In der englischen Literatur nimmt sie eine einmalige Stellung ein, denn sie war die erste öffentlich auftretende Berufsschriftstellerin Englands und spielte eine bedeutende Rolle bei der Entwicklung des neuzeitlichen Romans. Zu Lebzeiten und danach sehr populär, wurde sie 19. Jahrhundert mehr und mehr abgelehnt und gewann erst seit dem frühen 20. Jahrhundert wieder an Bedeutung.</abstract>
+<wikilink>http://en.wikipedia.org/wiki/Aphra_Behn?oldid=602054489</wikilink>
+<artworks />
+<buildings />
+<books>
+<XML_Serializer_Tag>
+<book>
+<type>uri</type>
+<value>http://dbpedia.org/resource/Oroonoko</value>
+</book>
+<author>
+<type>uri</type>
+<value>http://dbpedia.org/resource/Aphra_Behn</value>
+</author>
+<thumbnail>
+<type>uri</type>
+<value>http://commons.wikimedia.org/wiki/Special:FilePath/Behn_Oroonoko_title_page.1688.jpg?width=300</value>
+</thumbnail>
+<wikilink>
+<type>uri</type>
+<value>http://en.wikipedia.org/wiki/Oroonoko?oldid=604942925</value>
+</wikilink>
+</XML_Serializer_Tag>
+<XML_Serializer_Tag>
+<book>
+<type>uri</type>
+<value>http://dbpedia.org/resource/Love-Letters_Between_a_Nobleman_and_His_Sister</value>
+</book>
+<author>
+<type>uri</type>
+<value>http://dbpedia.org/resource/Aphra_Behn</value>
+</author>
+<thumbnail>
+<type>uri</type>
+<value>http://commons.wikimedia.org/wiki/Special:FilePath/Behn_Love-Letters_1684.jpg?width=300</value>
+</thumbnail>
+<wikilink>
+<type>uri</type>
+<value>http://en.wikipedia.org/wiki/Love-Letters_Between_a_Nobleman_and_His_Sister?oldid=604142499</value>
+</wikilink>
+</XML_Serializer_Tag>
+</books>
+</Person>

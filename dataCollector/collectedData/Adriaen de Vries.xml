@@ -25,8 +25,10 @@
 <XML_Serializer_Tag>Maler</XML_Serializer_Tag>
 <XML_Serializer_Tag>Ziseleur</XML_Serializer_Tag>
 </professionOrOccupation>
-<artworks />
 <dbpResource>http://dbpedia.org/resource/Adriaen_de_Vries</dbpResource>
 <abstract>Adriaen de Vries (* geb. um 1545 oder 1556 in Den Haag; † vor 15. Dezember 1626 in Prag) war ein niederländischer Bildhauer des Manierismus, der auf Bronzeskulpturen spezialisiert war.</abstract>
 <wikilink>http://en.wikipedia.org/wiki/Adriaen_de_Vries?oldid=567454418</wikilink>
+<artworks />
+<buildings />
+<books />
 </Person>

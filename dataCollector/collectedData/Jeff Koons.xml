@@ -18,12 +18,15 @@
 <XML_Serializer_Tag>Bildhauer</XML_Serializer_Tag>
 <XML_Serializer_Tag>Installationskünstler</XML_Serializer_Tag>
 </professionOrOccupation>
+<dbpResource>http://dbpedia.org/resource/Jeff_Koons</dbpResource>
+<abstract>Jeff Koons (* 21. Januar 1955 in York, Pennsylvania) ist ein US-amerikanischer Künstler.Koons verwendet Zeugnisse der Konsumkultur als Ausgangspunkte und verfremdet oder imitiert sie. Er bearbeitete so auch Objekte aus der Alltagskunst und der Werbung, greift wie letztere immer wieder auf sexuelle und andere Schlüsselreize zurück. Seine Kunstwerke wandeln aufgrund ihrer ironisierenden Wirkung zwischen Kitsch und Kunst.Koons gilt seit dem 12. November 2013 mit der Versteigerung eines Balloon Dogs (Orange) für 58,4 Millionen US-Dollar im New Yorker Auktionshaus Christie&apos;s als der teuerste lebende Künstler der Welt.</abstract>
+<wikilink>http://en.wikipedia.org/wiki/Jeff_Koons?oldid=605686636</wikilink>
 <artworks>
 <XML_Serializer_Tag>
-<painting>
+<artwork>
 <type>uri</type>
 <value>http://dbpedia.org/resource/Kiepenkerl</value>
-</painting>
+</artwork>
 <thumbnail>
 <type>uri</type>
 <value>http://commons.wikimedia.org/wiki/Special:FilePath/Kiepenkerl_-_Jeff_Koons.JPG?width=300</value>
@@ -42,9 +45,12 @@
 <type>uri</type>
 <value>http://en.wikipedia.org/wiki/Kiepenkerl?oldid=591046160</value>
 </wikilink>
+<type>
+<type>uri</type>
+<value>http://dbpedia.org/resource/Stainless_steel</value>
+</type>
 </XML_Serializer_Tag>
 </artworks>
-<dbpResource>http://dbpedia.org/resource/Jeff_Koons</dbpResource>
-<abstract>Jeff Koons (* 21. Januar 1955 in York, Pennsylvania) ist ein US-amerikanischer Künstler.Koons verwendet Zeugnisse der Konsumkultur als Ausgangspunkte und verfremdet oder imitiert sie. Er bearbeitete so auch Objekte aus der Alltagskunst und der Werbung, greift wie letztere immer wieder auf sexuelle und andere Schlüsselreize zurück. Seine Kunstwerke wandeln aufgrund ihrer ironisierenden Wirkung zwischen Kitsch und Kunst.Koons gilt seit dem 12. November 2013 mit der Versteigerung eines Balloon Dogs (Orange) für 58,4 Millionen US-Dollar im New Yorker Auktionshaus Christie&apos;s als der teuerste lebende Künstler der Welt.</abstract>
-<wikilink>http://en.wikipedia.org/wiki/Jeff_Koons?oldid=605686636</wikilink>
+<buildings />
+<books />
 </Person>

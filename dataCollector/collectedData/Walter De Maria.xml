@@ -1,0 +1,29 @@
+<Person>
+<name>Walter De Maria</name>
+<variantName>
+<XML_Serializer_Tag>Walter de Maria</XML_Serializer_Tag>
+<XML_Serializer_Tag>Walter DeMaria</XML_Serializer_Tag>
+<XML_Serializer_Tag>Walter Joseph De Maria</XML_Serializer_Tag>
+</variantName>
+<thumbnail>https://commons.wikimedia.org/wiki/Special:FilePath/Walter_de_Maria_Vertikaler_Erdkilometer.jpg?width=270</thumbnail>
+<birthEN>October 1, 1935</birthEN>
+<birthDE>1. Oktober 1935</birthDE>
+<deathEN>July 25, 2013</deathEN>
+<deathDE>25. Juli 2013</deathDE>
+<birthPlace>
+<XML_Serializer_Tag>Albany, Calif.</XML_Serializer_Tag>
+</birthPlace>
+<deathPlace>
+<XML_Serializer_Tag>Los Angeles, Calif.</XML_Serializer_Tag>
+</deathPlace>
+<professionOrOccupation>
+<XML_Serializer_Tag>Bildhauer</XML_Serializer_Tag>
+<XML_Serializer_Tag>Objektkünstler</XML_Serializer_Tag>
+</professionOrOccupation>
+<dbpResource>http://dbpedia.org/resource/Walter_De_Maria</dbpResource>
+<abstract>Walter De Maria (eigentlich Walter Joseph De Maria; * 1. Oktober 1935 in Albany, Kalifornien; † 25. Juli 2013 in Los Angeles) war ein US-amerikanischer Künstler, ein wichtiger Vertreter des Minimalismus, der Konzeptkunst und der Land Art.</abstract>
+<wikilink>http://en.wikipedia.org/wiki/Walter_De_Maria?oldid=605462921</wikilink>
+<artworks />
+<buildings />
+<books />
+</Person>

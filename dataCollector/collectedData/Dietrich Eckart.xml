@@ -1,0 +1,28 @@
+<Person>
+<name>Dietrich Eckart</name>
+<variantName>
+<XML_Serializer_Tag>Johann Dietrich Eckart</XML_Serializer_Tag>
+</variantName>
+<thumbnail>https://commons.wikimedia.org/wiki/Special:FilePath/Dietrich_Eckart_01.jpg?width=270</thumbnail>
+<birthEN>March 23, 1868</birthEN>
+<birthDE>23. März 1868</birthDE>
+<deathEN>December 26, 1923</deathEN>
+<deathDE>26. Dezember 1923</deathDE>
+<birthPlace>
+<XML_Serializer_Tag>Neumarkt i.d. OPf.</XML_Serializer_Tag>
+</birthPlace>
+<deathPlace>
+<XML_Serializer_Tag>Berchtesgaden</XML_Serializer_Tag>
+</deathPlace>
+<professionOrOccupation>
+<XML_Serializer_Tag>Dramatiker</XML_Serializer_Tag>
+<XML_Serializer_Tag>Schriftsteller</XML_Serializer_Tag>
+<XML_Serializer_Tag>Publizist</XML_Serializer_Tag>
+</professionOrOccupation>
+<dbpResource>http://dbpedia.org/resource/Dietrich_Eckart</dbpResource>
+<abstract>Dietrich Eckart (* 23. März 1868 in Neumarkt in der Oberpfalz; † 26. Dezember 1923 in Berchtesgaden) war ein Publizist, Verleger, früher Anhänger des Nationalsozialismus und Ideengeber Adolf Hitlers.Obwohl Eckart zu den frühesten Gestalten der Deutschen Arbeiterpartei bzw. Nationalsozialistischen Deutschen Arbeiterpartei gehörte, war er nie formales Parteimitglied.</abstract>
+<wikilink>http://en.wikipedia.org/wiki/Dietrich_Eckart?oldid=597057448</wikilink>
+<artworks />
+<buildings />
+<books />
+</Person>

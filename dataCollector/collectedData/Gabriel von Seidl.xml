@@ -1,0 +1,27 @@
+<Person>
+<name>Gabriel von Seidl</name>
+<variantName>
+<XML_Serializer_Tag>Gabriel Seidl</XML_Serializer_Tag>
+<XML_Serializer_Tag>Gabriel von Seidel</XML_Serializer_Tag>
+</variantName>
+<thumbnail>https://commons.wikimedia.org/wiki/Special:FilePath/Gabriel_von_Seidl.jpg?width=270</thumbnail>
+<birthEN>December 9, 1848</birthEN>
+<birthDE>9. Dezember 1848</birthDE>
+<deathEN>April 27, 1913</deathEN>
+<deathDE>27. April 1913</deathDE>
+<birthPlace>
+<XML_Serializer_Tag>München</XML_Serializer_Tag>
+</birthPlace>
+<deathPlace>
+<XML_Serializer_Tag>München</XML_Serializer_Tag>
+</deathPlace>
+<professionOrOccupation>
+<XML_Serializer_Tag>Architekt</XML_Serializer_Tag>
+</professionOrOccupation>
+<dbpResource>http://dbpedia.org/resource/Gabriel_von_Seidl</dbpResource>
+<abstract>Gabriel Seidl, seit 1900 Ritter von Seidl (* 9. Dezember 1848 in München; † 27. April 1913 in München) war ein deutscher Architekt und Vertreter des Historismus.</abstract>
+<wikilink>http://en.wikipedia.org/wiki/Gabriel_von_Seidl?oldid=606118132</wikilink>
+<artworks />
+<buildings />
+<books />
+</Person>

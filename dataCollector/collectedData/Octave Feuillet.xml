@@ -1,0 +1,29 @@
+<Person>
+<name>Octave Feuillet</name>
+<variantName>
+<XML_Serializer_Tag>... Feuillet</XML_Serializer_Tag>
+<XML_Serializer_Tag>Octave Feuillét</XML_Serializer_Tag>
+<XML_Serializer_Tag>Désiré Hazard</XML_Serializer_Tag>
+</variantName>
+<thumbnail>https://commons.wikimedia.org/wiki/Special:FilePath/Octave_Feuiller_(Harper&apos;s_engraving).png?width=270</thumbnail>
+<birthEN>August 11, 1821</birthEN>
+<birthDE>11. August 1821</birthDE>
+<deathEN>December 29, 1890</deathEN>
+<deathDE>29. Dezember 1890</deathDE>
+<birthPlace>
+<XML_Serializer_Tag>St. Lô, Frankreich</XML_Serializer_Tag>
+</birthPlace>
+<deathPlace>
+<XML_Serializer_Tag>Paris</XML_Serializer_Tag>
+</deathPlace>
+<professionOrOccupation>
+<XML_Serializer_Tag>Schriftsteller</XML_Serializer_Tag>
+<XML_Serializer_Tag>Drehbuchautor</XML_Serializer_Tag>
+</professionOrOccupation>
+<dbpResource>http://dbpedia.org/resource/Octave_Feuillet</dbpResource>
+<abstract>Octave Feuillet (* 10. August 1821 in Saint-Lô; † 28. Dezember 1890 in Paris) war ein französischer Schriftsteller. Er verfasste sowohl Romane als auch dramatische Stücke. 1845 hatte er mit dem Theaterstück Un bourgeois de Rome (ein Bürger Roms) seinen ersten Erfolg. 1855 wurde sein Theaterstück Péril en la demeure (Gefahr im Verzug) an der Comédie-Française vor Napoléon III. und seiner Familie gespielt. 1862 wurde er in die Académie française gewählt. 1868 wurde er zum Bibliothekar des Schloss Fontainebleau ernannt.</abstract>
+<wikilink>http://en.wikipedia.org/wiki/Octave_Feuillet?oldid=590250295</wikilink>
+<artworks />
+<buildings />
+<books />
+</Person>

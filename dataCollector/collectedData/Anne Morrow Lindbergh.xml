@@ -1,0 +1,25 @@
+<Person>
+<name>Anne Morrow Lindbergh</name>
+<variantName>
+<XML_Serializer_Tag>Anne Morrow Lindbergh</XML_Serializer_Tag>
+<XML_Serializer_Tag>Anne Lindbergh Morrow</XML_Serializer_Tag>
+<XML_Serializer_Tag>Anne Morrow Lindberg</XML_Serializer_Tag>
+<XML_Serializer_Tag>Anne Morrow-Lindbergh</XML_Serializer_Tag>
+</variantName>
+<thumbnail>https://commons.wikimedia.org/wiki/Special:FilePath/Hubbard_Gold_Medal,_Anne_Morrow_Lindbergh.JPG?width=270</thumbnail>
+<birthEN>June 22, 1906</birthEN>
+<birthDE>22. Juni 1906</birthDE>
+<deathEN>February 7, 2001</deathEN>
+<deathDE>7. Februar 2001</deathDE>
+<birthPlace />
+<deathPlace />
+<professionOrOccupation>
+<XML_Serializer_Tag>Schriftstellerin</XML_Serializer_Tag>
+</professionOrOccupation>
+<dbpResource>http://dbpedia.org/resource/Anne_Morrow_Lindbergh</dbpResource>
+<abstract>Anne Morrow Lindbergh (* 22. Juni 1906 in Englewood, New Jersey als Anne Spencer Morrow; † 7. Februar 2001 in Vermont) war die Ehefrau, Co-Pilotin und Navigatorin von Charles A. Lindbergh und Schriftstellerin. Sie ist die meistgeehrte der weiblichen Flugpioniere.</abstract>
+<wikilink>http://en.wikipedia.org/wiki/Anne_Morrow_Lindbergh?oldid=606650645</wikilink>
+<artworks />
+<buildings />
+<books />
+</Person>

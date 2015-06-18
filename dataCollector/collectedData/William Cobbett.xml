@@ -1,0 +1,51 @@
+<Person>
+<name>William Cobbett</name>
+<variantName>
+<XML_Serializer_Tag>William Cobett</XML_Serializer_Tag>
+<XML_Serializer_Tag>William Cobbet</XML_Serializer_Tag>
+<XML_Serializer_Tag>Peter Porcupine</XML_Serializer_Tag>
+<XML_Serializer_Tag>Dick Retort</XML_Serializer_Tag>
+</variantName>
+<thumbnail>https://commons.wikimedia.org/wiki/Special:FilePath/William_Cobbett.JPG?width=270</thumbnail>
+<birthEN>March 9, 1763</birthEN>
+<birthDE>9. März 1763</birthDE>
+<deathEN>June 18, 1835</deathEN>
+<deathDE>18. Juni 1835</deathDE>
+<birthPlace>
+<XML_Serializer_Tag>Farnham</XML_Serializer_Tag>
+</birthPlace>
+<deathPlace>
+<XML_Serializer_Tag>Normandy</XML_Serializer_Tag>
+</deathPlace>
+<professionOrOccupation>
+<XML_Serializer_Tag>Schriftsteller</XML_Serializer_Tag>
+<XML_Serializer_Tag>Publizist</XML_Serializer_Tag>
+<XML_Serializer_Tag>Politiker</XML_Serializer_Tag>
+</professionOrOccupation>
+<dbpResource>http://dbpedia.org/resource/William_Cobbett</dbpResource>
+<abstract>William Cobbett (* 9. März 1763 in Farnham, Surrey, England; † 18. Juni 1835 in Normandy, Surrey, England) war ein englischer Schriftsteller mit dem Pseudonym Peter Porcupine, Herausgeber der Wochenzeitung Political Register sowie Verleger verschiedener weiterer Zeitschriften, zunächst radikal konservativer Politiker, später populistischer Herausgeber einer Arbeiterzeitschrift.</abstract>
+<wikilink>http://en.wikipedia.org/wiki/William_Cobbett?oldid=601048712</wikilink>
+<artworks />
+<buildings />
+<books>
+<XML_Serializer_Tag>
+<book>
+<type>uri</type>
+<value>http://dbpedia.org/resource/Rural_Rides</value>
+</book>
+<author>
+<type>uri</type>
+<value>http://dbpedia.org/resource/William_Cobbett</value>
+</author>
+<wikilink>
+<type>uri</type>
+<value>http://en.wikipedia.org/wiki/Rural_Rides?oldid=602236567</value>
+</wikilink>
+<abstract>
+<type>literal</type>
+<xml:lang>de</xml:lang>
+<value>Rural Rides ist ein 1830 erschienenes Buch des englischen Schriftstellers William Cobbett.</value>
+</abstract>
+</XML_Serializer_Tag>
+</books>
+</Person>

@@ -1,0 +1,31 @@
+<Person>
+<name>Alexander Abusch</name>
+<variantName>
+<XML_Serializer_Tag>Aleksander Abusch</XML_Serializer_Tag>
+<XML_Serializer_Tag>Ernst Reinhardt</XML_Serializer_Tag>
+<XML_Serializer_Tag>Aleksandr Abuš</XML_Serializer_Tag>
+</variantName>
+<thumbnail>https://commons.wikimedia.org/wiki/Special:FilePath/Bundesarchiv_Bild_183-E1114-0201-004,_Berlin,_1._DSV-Jahreskonferenz,_Alexander_Abusch.jpg?width=270</thumbnail>
+<birthEN>February 14, 1902</birthEN>
+<birthDE>14. Februar 1902</birthDE>
+<deathEN>January 27, 1982</deathEN>
+<deathDE>27. Januar 1982</deathDE>
+<birthPlace>
+<XML_Serializer_Tag>Krakau</XML_Serializer_Tag>
+</birthPlace>
+<deathPlace>
+<XML_Serializer_Tag>Berlin</XML_Serializer_Tag>
+</deathPlace>
+<professionOrOccupation>
+<XML_Serializer_Tag>Schriftsteller</XML_Serializer_Tag>
+<XML_Serializer_Tag>Journalist</XML_Serializer_Tag>
+<XML_Serializer_Tag>Publizist</XML_Serializer_Tag>
+<XML_Serializer_Tag>Politiker</XML_Serializer_Tag>
+</professionOrOccupation>
+<dbpResource>http://dbpedia.org/resource/Alexander_Abusch</dbpResource>
+<abstract>Alexander Abusch (* 14. Februar 1902 in Krakau; † 27. Januar 1982 in Ost-Berlin) war Journalist, Schriftsteller und Politiker in der DDR.</abstract>
+<wikilink>http://en.wikipedia.org/wiki/Alexander_Abusch?oldid=603547792</wikilink>
+<artworks />
+<buildings />
+<books />
+</Person>

@@ -1,0 +1,53 @@
+<Person>
+<name>Germain Boffrand</name>
+<variantName />
+<thumbnail>https://commons.wikimedia.org/wiki/Special:FilePath/GermainBoffrandPortrait.jpg?width=270</thumbnail>
+<birthEN>1667</birthEN>
+<birthDE>1667</birthDE>
+<deathEN>1754</deathEN>
+<deathDE>1754</deathDE>
+<birthPlace />
+<deathPlace />
+<professionOrOccupation>
+<XML_Serializer_Tag>Architekt</XML_Serializer_Tag>
+</professionOrOccupation>
+<dbpResource>http://dbpedia.org/resource/Germain_Boffrand</dbpResource>
+<abstract>Germain Boffrand ([ʒɛʁmɛ̃ bɔf&apos;ʁɑ̃]; * 1667 in Nantes, Pays de la Loire; † 1754 in Paris) war ein französischer Baumeister und Innenarchitekt, der dem Rokoko zuzuordnen ist.</abstract>
+<wikilink>http://en.wikipedia.org/wiki/Germain_Boffrand?oldid=589922117</wikilink>
+<artworks />
+<buildings>
+<XML_Serializer_Tag>
+<building>
+<type>uri</type>
+<value>http://dbpedia.org/resource/Ch%C3%A2teau_de_Commercy</value>
+</building>
+<name>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>Château de Commercy</value>
+</name>
+<architect>
+<type>uri</type>
+<value>http://dbpedia.org/resource/Germain_Boffrand</value>
+</architect>
+<thumbnail>
+<type>uri</type>
+<value>http://commons.wikimedia.org/wiki/Special:FilePath/Chateau_commercy.jpg?width=300</value>
+</thumbnail>
+<wikilink>
+<type>uri</type>
+<value>http://en.wikipedia.org/wiki/Château_de_Commercy?oldid=542654182</value>
+</wikilink>
+<location>
+<type>uri</type>
+<value>http://dbpedia.org/resource/Commercy</value>
+</location>
+<abstract>
+<type>literal</type>
+<xml:lang>de</xml:lang>
+<value>Das Schloss Commercy ist ein Barockbau im gleichnamigen Ort des Lothringer Départements Meuse, der dort von Charles Henri de Lorraine-Vaudémont anstelle einer mittelalterlichen Burg erbaut wurde. Unter anderem zur Grafschaft Saarbrücken gehörig, kam es zu Beginn des 18. Jahrhunderts in den Besitz der Herzöge von Lothringen. Seine Fassadengestaltung zeigt Ähnlichkeiten zum Schloss Lunéville.</value>
+</abstract>
+</XML_Serializer_Tag>
+</buildings>
+<books />
+</Person>

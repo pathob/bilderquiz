@@ -1,0 +1,31 @@
+<Person>
+<name>Cordelia Edvardson</name>
+<variantName>
+<XML_Serializer_Tag>Cordelia Hoffmann</XML_Serializer_Tag>
+<XML_Serializer_Tag>Cordelia Garcia-Scouvart</XML_Serializer_Tag>
+<XML_Serializer_Tag>Cordelia Maria Edvardson</XML_Serializer_Tag>
+<XML_Serializer_Tag>Ḳordelyah Edṿardson</XML_Serializer_Tag>
+<XML_Serializer_Tag>Maria Heller</XML_Serializer_Tag>
+</variantName>
+<thumbnail>https://commons.wikimedia.org/wiki/Special:FilePath/Stolperstein_Eichkatzweg_33_(Weste)_Cordelia_Edvardson.jpg?width=270</thumbnail>
+<birthEN>January 1, 1929</birthEN>
+<birthDE>1. Januar 1929</birthDE>
+<deathEN>October 29, 2012</deathEN>
+<deathDE>29. Oktober 2012</deathDE>
+<birthPlace>
+<XML_Serializer_Tag>München</XML_Serializer_Tag>
+</birthPlace>
+<deathPlace>
+<XML_Serializer_Tag>Stockholm</XML_Serializer_Tag>
+</deathPlace>
+<professionOrOccupation>
+<XML_Serializer_Tag>Journalistin</XML_Serializer_Tag>
+<XML_Serializer_Tag>Schriftstellerin</XML_Serializer_Tag>
+</professionOrOccupation>
+<dbpResource>http://dbpedia.org/resource/Cordelia_Edvardson</dbpResource>
+<abstract>Cordelia Maria Edvardson (* 1. Januar 1929 in München; † 29. Oktober 2012 in Stockholm) war eine schwedisch-israelische Journalistin und Schriftstellerin.</abstract>
+<wikilink>http://en.wikipedia.org/wiki/Cordelia_Edvardson?oldid=582432680</wikilink>
+<artworks />
+<buildings />
+<books />
+</Person>

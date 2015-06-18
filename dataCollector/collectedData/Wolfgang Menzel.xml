@@ -1,0 +1,31 @@
+<Person>
+<name>Wolfgang Menzel</name>
+<variantName>
+<XML_Serializer_Tag>Wolfg. Menzel</XML_Serializer_Tag>
+<XML_Serializer_Tag>Wolfgang Menzl</XML_Serializer_Tag>
+</variantName>
+<thumbnail>https://commons.wikimedia.org/wiki/Special:FilePath/Wolfgang_Menzel_01.jpg?width=270</thumbnail>
+<birthEN>June 21, 1798</birthEN>
+<birthDE>21. Juni 1798</birthDE>
+<deathEN>April 23, 1873</deathEN>
+<deathDE>23. April 1873</deathDE>
+<birthPlace>
+<XML_Serializer_Tag>Waldenburg (Schlesien)</XML_Serializer_Tag>
+</birthPlace>
+<deathPlace>
+<XML_Serializer_Tag>Stuttgart</XML_Serializer_Tag>
+</deathPlace>
+<professionOrOccupation>
+<XML_Serializer_Tag>Schriftsteller</XML_Serializer_Tag>
+<XML_Serializer_Tag>Historiker</XML_Serializer_Tag>
+<XML_Serializer_Tag>Lehrer</XML_Serializer_Tag>
+<XML_Serializer_Tag>Abgeordneter</XML_Serializer_Tag>
+<XML_Serializer_Tag>Redakteur</XML_Serializer_Tag>
+</professionOrOccupation>
+<dbpResource>http://dbpedia.org/resource/Wolfgang_Menzel</dbpResource>
+<abstract>Wolfgang Menzel (* 21. Juni 1798 in Waldenburg (heute polnisch Wałbrzych), Schlesien; † 23. April 1873 in Stuttgart) war ein deutscher Literaturkritiker und Schriftsteller im Vormärz. Ihm wird der berühmte Spruch von den Dichtern und Denkern, den er 1828 veröffentlicht hat, zugeschrieben.</abstract>
+<wikilink>http://en.wikipedia.org/wiki/Wolfgang_Menzel?oldid=599653887</wikilink>
+<artworks />
+<buildings />
+<books />
+</Person>

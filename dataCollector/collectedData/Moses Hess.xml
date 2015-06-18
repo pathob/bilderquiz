@@ -1,0 +1,29 @@
+<Person>
+<name>Moses Hess</name>
+<variantName>
+<XML_Serializer_Tag>Moshé Hess</XML_Serializer_Tag>
+<XML_Serializer_Tag>Mosheh Hes</XML_Serializer_Tag>
+</variantName>
+<thumbnail>https://commons.wikimedia.org/wiki/Special:FilePath/Moses-Hess.jpg?width=270</thumbnail>
+<birthEN>January 21, 1812</birthEN>
+<birthDE>21. Januar 1812</birthDE>
+<deathEN>April 6, 1875</deathEN>
+<deathDE>6. April 1875</deathDE>
+<birthPlace>
+<XML_Serializer_Tag>Bonn</XML_Serializer_Tag>
+</birthPlace>
+<deathPlace>
+<XML_Serializer_Tag>Paris</XML_Serializer_Tag>
+</deathPlace>
+<professionOrOccupation>
+<XML_Serializer_Tag>Philosoph</XML_Serializer_Tag>
+<XML_Serializer_Tag>Schriftsteller</XML_Serializer_Tag>
+<XML_Serializer_Tag>Journalist</XML_Serializer_Tag>
+</professionOrOccupation>
+<dbpResource>http://dbpedia.org/resource/Moses_Hess</dbpResource>
+<abstract>Moses Hess (auch Moses Heß; * 21. Januar 1812 in Bonn; † 6. April 1875 in Paris) war ein deutsch-jüdischer Philosoph und Schriftsteller. Er gehörte zu den Frühsozialisten und war ein Vorläufer der Zionisten. Geburts- und Sterbedaten sind nach jüdischem Kalender der 4. Schewat 5572 und der Neumondstag Nisan 5635.</abstract>
+<wikilink>http://en.wikipedia.org/wiki/Moses_Hess?oldid=603573843</wikilink>
+<artworks />
+<buildings />
+<books />
+</Person>

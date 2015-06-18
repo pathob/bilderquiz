@@ -1,0 +1,229 @@
+<Person>
+<name>Mario Vargas Llosa</name>
+<variantName>
+<XML_Serializer_Tag>Mario Vargas-Llosa</XML_Serializer_Tag>
+<XML_Serializer_Tag>Mario Vargas Llosa</XML_Serializer_Tag>
+<XML_Serializer_Tag>Mario Vergas-Llosa</XML_Serializer_Tag>
+<XML_Serializer_Tag>Mario Llosa</XML_Serializer_Tag>
+<XML_Serializer_Tag>Jorge Mario Pedro Vargas Llosa</XML_Serializer_Tag>
+<XML_Serializer_Tag>Jorge Mario Pedro Vargas Llosa</XML_Serializer_Tag>
+<XML_Serializer_Tag>Marqués Vargas Llosa</XML_Serializer_Tag>
+</variantName>
+<thumbnail>https://commons.wikimedia.org/wiki/Special:FilePath/Vargas_lsosa_Göteborg_Book_Fair_2011c.jpg?width=270</thumbnail>
+<birthEN>1936</birthEN>
+<birthDE>1936</birthDE>
+<deathEN />
+<deathDE />
+<birthPlace>
+<XML_Serializer_Tag>Arequipa, Peru</XML_Serializer_Tag>
+</birthPlace>
+<deathPlace />
+<professionOrOccupation>
+<XML_Serializer_Tag>Essayist</XML_Serializer_Tag>
+<XML_Serializer_Tag>Politiker</XML_Serializer_Tag>
+<XML_Serializer_Tag>Journalist</XML_Serializer_Tag>
+<XML_Serializer_Tag>Schriftsteller</XML_Serializer_Tag>
+</professionOrOccupation>
+<dbpResource>http://dbpedia.org/resource/Mario_Vargas_Llosa</dbpResource>
+<abstract>Jorge Mario Pedro Vargas Llosa (* 28. März 1936 in Arequipa, Peru), seit 2011 Marqués de Vargas Llosa, ist ein peruanisch-spanischer Schriftsteller und Politiker. Er ist einer der führenden lateinamerikanischen Romanciers und Essayisten. Vargas Llosa bezeichnete sich im Jahr 2001 als „liberalen Demokraten“. Im Dezember 2010 wurde er mit dem Nobelpreis für Literatur ausgezeichnet.</abstract>
+<wikilink>http://en.wikipedia.org/wiki/Mario_Vargas_Llosa?oldid=605606264</wikilink>
+<artworks />
+<buildings />
+<books>
+<XML_Serializer_Tag>
+<book>
+<type>uri</type>
+<value>http://dbpedia.org/resource/Conversation_in_the_Cathedral</value>
+</book>
+<author>
+<type>uri</type>
+<value>http://dbpedia.org/resource/Mario_Vargas_Llosa</value>
+</author>
+<thumbnail>
+<type>uri</type>
+<value>http://commons.wikimedia.org/wiki/Special:FilePath/Universidad_mayor_de_san_marcos.jpg?width=300</value>
+</thumbnail>
+<released>
+<type>typed-literal</type>
+<datatype>http://www.w3.org/2001/XMLSchema#integer</datatype>
+<value>1969</value>
+</released>
+<wikilink>
+<type>uri</type>
+<value>http://en.wikipedia.org/wiki/Conversation_in_the_Cathedral?oldid=584236305</value>
+</wikilink>
+<abstract>
+<type>literal</type>
+<xml:lang>de</xml:lang>
+<value>Gespräch in der ›Kathedrale‹ (span. Conversación en La Catedral) ist der dritte Roman des peruanischen Literatur-Nobelpreisträgers Mario Vargas Llosa aus dem Jahr 1969. Er ist ein Porträt Perus unter der Diktatur Manuel A. Odrías in den 1950er Jahren und beschreibt das Leben in verschiedenen sozialen Schichten. Eines der großen Themen des Romans ist der Ekel des „jammervollen Bürgersöhnchens“ Santiago Zavala vor der korrupten Odría-Regierung (1948-1956). Erzählerisch werden über jene sieben Jahre hinaus reichlich vierzehn Jahre überspannt.</value>
+</abstract>
+</XML_Serializer_Tag>
+<XML_Serializer_Tag>
+<book>
+<type>uri</type>
+<value>http://dbpedia.org/resource/Death_in_the_Andes</value>
+</book>
+<author>
+<type>uri</type>
+<value>http://dbpedia.org/resource/Mario_Vargas_Llosa</value>
+</author>
+<released>
+<type>typed-literal</type>
+<datatype>http://www.w3.org/2001/XMLSchema#date</datatype>
+<value>1997-02-01+02:00</value>
+</released>
+<wikilink>
+<type>uri</type>
+<value>http://en.wikipedia.org/wiki/Death_in_the_Andes?oldid=597176614</value>
+</wikilink>
+<abstract>
+<type>literal</type>
+<xml:lang>de</xml:lang>
+<value>Tod in den Anden (span. Lituma en los Andes) ist ein Roman des peruanischen Literatur-Nobelpreisträgers Mario Vargas Llosa aus dem Jahr 1993.</value>
+</abstract>
+</XML_Serializer_Tag>
+<XML_Serializer_Tag>
+<book>
+<type>uri</type>
+<value>http://dbpedia.org/resource/The_Green_House</value>
+</book>
+<author>
+<type>uri</type>
+<value>http://dbpedia.org/resource/Mario_Vargas_Llosa</value>
+</author>
+<released>
+<type>typed-literal</type>
+<datatype>http://www.w3.org/2001/XMLSchema#integer</datatype>
+<value>1966</value>
+</released>
+<wikilink>
+<type>uri</type>
+<value>http://en.wikipedia.org/wiki/The_Green_House?oldid=591101632</value>
+</wikilink>
+<abstract>
+<type>literal</type>
+<xml:lang>de</xml:lang>
+<value>Das grüne Haus (span. La casa verde) ist der zweite Roman des peruanischen Literatur-Nobelpreisträgers Mario Vargas Llosa aus dem Jahr 1966. Das Werk wurde 1967 mit dem Internationalen Romanpreis „Rómulo Gallegos“ ausgezeichnet. Die Handlung auf zwei räumlich weit auseinanderliegenden Schauplätzen in Nordperu erstreckt sich über mehrere Jahrzehnte in der ersten Hälfte des 20. Jahrhunderts. Alles Wesentliche in dem Text, so auch das Titel gebende Domizil, hat dualen Charakter. Das grüne Haus ist sowohl ein gut besuchtes, grün gestrichenes Bordell in Pazifiknähe als auch die weite Selva.</value>
+</abstract>
+</XML_Serializer_Tag>
+<XML_Serializer_Tag>
+<book>
+<type>uri</type>
+<value>http://dbpedia.org/resource/In_Praise_of_the_Stepmother</value>
+</book>
+<author>
+<type>uri</type>
+<value>http://dbpedia.org/resource/Mario_Vargas_Llosa</value>
+</author>
+<released>
+<type>typed-literal</type>
+<datatype>http://www.w3.org/2001/XMLSchema#integer</datatype>
+<value>1988</value>
+</released>
+<wikilink>
+<type>uri</type>
+<value>http://en.wikipedia.org/wiki/In_Praise_of_the_Stepmother?oldid=592678904</value>
+</wikilink>
+<abstract>
+<type>literal</type>
+<xml:lang>de</xml:lang>
+<value>Lob der Stiefmutter (span. Elogio de la madrastra) ist ein kleiner erotischer Roman des peruanischen Literatur-Nobelpreisträgers Mario Vargas Llosa aus dem Jahr 1988. Neun Jahre darauf erschienen „Die geheimen Aufzeichnungen des Don Rigoberto“ gleichsam als Fortsetzung dieser Geschichte.</value>
+</abstract>
+</XML_Serializer_Tag>
+<XML_Serializer_Tag>
+<book>
+<type>uri</type>
+<value>http://dbpedia.org/resource/Who_Killed_Palomino_Molero%3F</value>
+</book>
+<author>
+<type>uri</type>
+<value>http://dbpedia.org/resource/Mario_Vargas_Llosa</value>
+</author>
+<released>
+<type>typed-literal</type>
+<datatype>http://www.w3.org/2001/XMLSchema#integer</datatype>
+<value>1986</value>
+</released>
+<wikilink>
+<type>uri</type>
+<value>http://en.wikipedia.org/wiki/Who_Killed_Palomino_Molero%3F?oldid=605444065</value>
+</wikilink>
+</XML_Serializer_Tag>
+<XML_Serializer_Tag>
+<book>
+<type>uri</type>
+<value>http://dbpedia.org/resource/The_Dream_of_the_Celt</value>
+</book>
+<author>
+<type>uri</type>
+<value>http://dbpedia.org/resource/Mario_Vargas_Llosa</value>
+</author>
+<wikilink>
+<type>uri</type>
+<value>http://en.wikipedia.org/wiki/The_Dream_of_the_Celt?oldid=604850572</value>
+</wikilink>
+<abstract>
+<type>literal</type>
+<xml:lang>de</xml:lang>
+<value>Der Traum des Kelten (spanischer Originaltitel: El sueño del celta) ist ein 2010 erschienener Roman des peruanischen Literatur-Nobelpreisträgers Mario Vargas Llosa über Roger Casement. Das Werk erschien 2011 in deutscher Sprache.</value>
+</abstract>
+</XML_Serializer_Tag>
+<XML_Serializer_Tag>
+<book>
+<type>uri</type>
+<value>http://dbpedia.org/resource/The_Storyteller_(novel)</value>
+</book>
+<author>
+<type>uri</type>
+<value>http://dbpedia.org/resource/Mario_Vargas_Llosa</value>
+</author>
+<wikilink>
+<type>uri</type>
+<value>http://en.wikipedia.org/wiki/The_Storyteller_(novel)?oldid=605451880</value>
+</wikilink>
+<abstract>
+<type>literal</type>
+<xml:lang>de</xml:lang>
+<value>Der Geschichtenerzähler (span. El hablador) ist ein Roman des peruanischen Literatur-Nobelpreisträgers Mario Vargas Llosa aus dem Jahr 1987.</value>
+</abstract>
+</XML_Serializer_Tag>
+<XML_Serializer_Tag>
+<book>
+<type>uri</type>
+<value>http://dbpedia.org/resource/The_Feast_of_the_Goat</value>
+</book>
+<author>
+<type>uri</type>
+<value>http://dbpedia.org/resource/Mario_Vargas_Llosa</value>
+</author>
+<wikilink>
+<type>uri</type>
+<value>http://en.wikipedia.org/wiki/The_Feast_of_the_Goat?oldid=594254344</value>
+</wikilink>
+<abstract>
+<type>literal</type>
+<xml:lang>de</xml:lang>
+<value>Das Fest des Ziegenbocks (spanischer Originaltitel: La fiesta del chivo) ist ein 2000 erschienener Roman des peruanischen Literatur-Nobelpreisträgers Mario Vargas Llosa. Das Werk erschien 2001 im Suhrkamp Verlag in einer Übersetzung von Elke Wehr und bekam meist positive Kritiken.</value>
+</abstract>
+</XML_Serializer_Tag>
+<XML_Serializer_Tag>
+<book>
+<type>uri</type>
+<value>http://dbpedia.org/resource/The_Way_to_Paradise</value>
+</book>
+<author>
+<type>uri</type>
+<value>http://dbpedia.org/resource/Mario_Vargas_Llosa</value>
+</author>
+<wikilink>
+<type>uri</type>
+<value>http://en.wikipedia.org/wiki/The_Way_to_Paradise?oldid=594987406</value>
+</wikilink>
+<abstract>
+<type>literal</type>
+<xml:lang>de</xml:lang>
+<value>Das Paradies ist anderswo (span. El paraíso en la otra esquina) ist ein außerordentlich detailreicher Roman des peruanischen Literatur-Nobelpreisträgers Mario Vargas Llosa aus dem Jahr 2003.Etliche der vorgetragenen Episoden aus dem Leben des Malers Paul Gauguin und seiner Großmutter mütterlicherseits, der Sozialistin Flora Tristan, lassen sich auf einen Nenner bringen: Auf der vergeblichen Suche nach dem Paradies innerhalb der kapitalistischen Welt des 19. Jahrhunderts entfliehen sowohl der Maler als auch dessen kämpferische Großmutter der jeweils mit mehreren Kindern gesegneten bürgerlichen Ehe. Während das Werk des großen Malers die Zeit bekanntlich überdauert, will der Erzähler die Sozialistin eine gescheiterte Revolutionärin nennen, nimmt die Verurteilung aber ein paar Zeilen später halb zurück.</value>
+</abstract>
+</XML_Serializer_Tag>
+</books>
+</Person>

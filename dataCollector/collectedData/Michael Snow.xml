@@ -1,0 +1,26 @@
+<Person>
+<name>Michael Snow</name>
+<variantName>
+<XML_Serializer_Tag>Michael J. Snow</XML_Serializer_Tag>
+<XML_Serializer_Tag>Mike Snow</XML_Serializer_Tag>
+</variantName>
+<thumbnail>https://commons.wikimedia.org/wiki/Special:FilePath/Michael_Snow.jpg?width=270</thumbnail>
+<birthEN>1929</birthEN>
+<birthDE>1929</birthDE>
+<deathEN />
+<deathDE />
+<birthPlace>
+<XML_Serializer_Tag>Toronto</XML_Serializer_Tag>
+</birthPlace>
+<deathPlace />
+<professionOrOccupation>
+<XML_Serializer_Tag>Künstler</XML_Serializer_Tag>
+<XML_Serializer_Tag>Musiker</XML_Serializer_Tag>
+</professionOrOccupation>
+<dbpResource>http://dbpedia.org/resource/Michael_Snow</dbpResource>
+<abstract>Michael James Aleck Snow, CC (* 10. Dezember 1929 in Toronto, Ontario) ist ein kanadischer avantgardistischer Filmregisseur, Experimental-Filmemacher, Maler, Bildhauer, Schriftsteller, Fotograf und Jazz-Musiker.</abstract>
+<wikilink>http://en.wikipedia.org/wiki/Michael_Snow?oldid=590597701</wikilink>
+<artworks />
+<buildings />
+<books />
+</Person>

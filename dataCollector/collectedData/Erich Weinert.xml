@@ -23,8 +23,10 @@
 <XML_Serializer_Tag>Drehbuchautor</XML_Serializer_Tag>
 <XML_Serializer_Tag>Mitwirkung</XML_Serializer_Tag>
 </professionOrOccupation>
-<artworks />
 <dbpResource>http://dbpedia.org/resource/Erich_Weinert</dbpResource>
 <abstract>Erich Bernhard Gustav Weinert (* 4. August 1890 in Magdeburg; † 20. April 1953 in Berlin) war ein deutscher Schriftsteller und ab 1943 Präsident des Nationalkomitees Freies Deutschland.</abstract>
 <wikilink>http://en.wikipedia.org/wiki/Erich_Weinert?oldid=605996196</wikilink>
+<artworks />
+<buildings />
+<books />
 </Person>

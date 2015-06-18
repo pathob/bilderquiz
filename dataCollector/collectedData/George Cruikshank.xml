@@ -1,0 +1,28 @@
+<Person>
+<name>George Cruikshank</name>
+<variantName>
+<XML_Serializer_Tag>Georges Cruishanck</XML_Serializer_Tag>
+<XML_Serializer_Tag>George Cruickshank</XML_Serializer_Tag>
+<XML_Serializer_Tag>G. Cruikshank</XML_Serializer_Tag>
+<XML_Serializer_Tag>... Cruikshank</XML_Serializer_Tag>
+<XML_Serializer_Tag>D. Krukšenk</XML_Serializer_Tag>
+</variantName>
+<thumbnail>https://commons.wikimedia.org/wiki/Special:FilePath/Cruikshank-Self-Portrait-1858.jpg?width=270</thumbnail>
+<birthEN>August 27, 1792</birthEN>
+<birthDE>27. August 1792</birthDE>
+<deathEN>February 1, 1878</deathEN>
+<deathDE>1. Februar 1878</deathDE>
+<birthPlace />
+<deathPlace />
+<professionOrOccupation>
+<XML_Serializer_Tag>Künstler</XML_Serializer_Tag>
+<XML_Serializer_Tag>Karikaturist</XML_Serializer_Tag>
+<XML_Serializer_Tag>Illustrator</XML_Serializer_Tag>
+</professionOrOccupation>
+<dbpResource>http://dbpedia.org/resource/George_Cruikshank</dbpResource>
+<abstract>George Cruikshank (* 27. September 1792 in London; † 1. Februar 1878 ebenda) war ein britischer Karikaturist und Illustrator. Er gilt als Nachfolger des 1815 verstorbenen James Gillray.</abstract>
+<wikilink>http://en.wikipedia.org/wiki/George_Cruikshank?oldid=595515296</wikilink>
+<artworks />
+<buildings />
+<books />
+</Person>

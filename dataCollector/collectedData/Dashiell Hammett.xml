@@ -1,0 +1,139 @@
+<Person>
+<name>Dashiell Hammett</name>
+<variantName>
+<XML_Serializer_Tag>Samuel D.-Hammett</XML_Serializer_Tag>
+<XML_Serializer_Tag>Samuel Dashiell Hammett</XML_Serializer_Tag>
+<XML_Serializer_Tag>Samuel D. Hammett</XML_Serializer_Tag>
+</variantName>
+<thumbnail>https://commons.wikimedia.org/wiki/Special:FilePath/Dashiellhammett.jpg?width=270</thumbnail>
+<birthEN>May 27, 1894</birthEN>
+<birthDE>27. Mai 1894</birthDE>
+<deathEN>January 10, 1961</deathEN>
+<deathDE>10. Januar 1961</deathDE>
+<birthPlace>
+<XML_Serializer_Tag>Saint Mary&apos;s County, Maryland, USA</XML_Serializer_Tag>
+</birthPlace>
+<deathPlace>
+<XML_Serializer_Tag>New York, NY</XML_Serializer_Tag>
+</deathPlace>
+<professionOrOccupation>
+<XML_Serializer_Tag>Schriftsteller</XML_Serializer_Tag>
+</professionOrOccupation>
+<dbpResource>http://dbpedia.org/resource/Dashiell_Hammett</dbpResource>
+<abstract>Samuel Dashiell Hammett (* 27. Mai 1894 in Maryland; † 10. Januar 1961 in New York) war ein US-amerikanischer Schriftsteller. Er veröffentlichte auch unter dem Pseudonym Peter Collinson. Hammett gilt noch vor Raymond Chandler als der Begründer des amerikanischen Kriminalromans (hardboiled novel).</abstract>
+<wikilink>http://en.wikipedia.org/wiki/Dashiell_Hammett?oldid=601736298</wikilink>
+<artworks />
+<buildings />
+<books>
+<XML_Serializer_Tag>
+<book>
+<type>uri</type>
+<value>http://dbpedia.org/resource/The_Maltese_Falcon_(novel)</value>
+</book>
+<author>
+<type>uri</type>
+<value>http://dbpedia.org/resource/Dashiell_Hammett</value>
+</author>
+<released>
+<type>typed-literal</type>
+<datatype>http://www.w3.org/2001/XMLSchema#integer</datatype>
+<value>1930</value>
+</released>
+<wikilink>
+<type>uri</type>
+<value>http://en.wikipedia.org/wiki/The_Maltese_Falcon_(novel)?oldid=605282052</value>
+</wikilink>
+<abstract>
+<type>literal</type>
+<xml:lang>de</xml:lang>
+<value>Der Malteser Falke (engl. Originaltitel: The Maltese Falcon) ist ein Roman von Dashiell Hammett aus dem Jahr 1930, der dreimal verfilmt wurde (1931, 1936 unter dem Titel Satan Met a Lady und 1941). Der Malteser Falke selbst ist dabei eine wertvolle, mit Edelsteinen besetzte Goldstatuette, die zum Zweck der Tarnung schwarz bemalt (möglicherweise emailliert) wurde.Dashiell Hammett kehrt in seinem Roman die klassische Rollenverteilung des Krimis von „Schurke“ und „Detektiv“ um.Im Verlauf des Romans wird es immer deutlicher, dass jeder Charakter in erster Linie seinen eigenen Vorteil sucht, ohne Moral oder Gesetze zu beachten.Der Leser wird darüber im Dunkeln gelassen, ob der Privatdetektiv Sam Spade in seinen Verhandlungen mit den Verbrechern ernsthaft an einer Zusammenarbeit interessiert ist oder dies nur vorgibt, um den Fall zu klären.Nur ganz zum Schluss, als sich herausstellt, dass der „Schatz“ nicht gehoben werden kann, werden die geschehenen Morde aufgeklärt.Im Gegensatz zu vielen anderen Krimis wird hier die Gesellschaft nicht in die „normalen“ Rechtschaffenen und die „unnormalen“ Verbrecher eingeteilt.Jeder erscheint als (potentiell) korrupt; Der Malteser Falke bricht mit traditionellen Klischees und gilt als einer der ersten Kriminalromane des Realismus.</value>
+</abstract>
+</XML_Serializer_Tag>
+<XML_Serializer_Tag>
+<book>
+<type>uri</type>
+<value>http://dbpedia.org/resource/The_Dain_Curse</value>
+</book>
+<author>
+<type>uri</type>
+<value>http://dbpedia.org/resource/Dashiell_Hammett</value>
+</author>
+<released>
+<type>typed-literal</type>
+<datatype>http://www.w3.org/2001/XMLSchema#integer</datatype>
+<value>1929</value>
+</released>
+<wikilink>
+<type>uri</type>
+<value>http://en.wikipedia.org/wiki/The_Dain_Curse?oldid=587957981</value>
+</wikilink>
+<abstract>
+<type>literal</type>
+<xml:lang>de</xml:lang>
+<value>Der Fluch des Hauses Dain (engl. The Dain Curse) ist ein amerikanischer Roman von Dashiell Hammett aus dem Jahr 1929. Es ist sein zweites Buch nach Rote Ernte, das im gleichen Jahr erschien. Die Geschichte gliedert sich in drei fast eigenständige Teile: Die Dains, Der Tempel und Quesada.</value>
+</abstract>
+</XML_Serializer_Tag>
+<XML_Serializer_Tag>
+<book>
+<type>uri</type>
+<value>http://dbpedia.org/resource/Red_Harvest</value>
+</book>
+<author>
+<type>uri</type>
+<value>http://dbpedia.org/resource/Dashiell_Hammett</value>
+</author>
+<released>
+<type>typed-literal</type>
+<datatype>http://www.w3.org/2001/XMLSchema#integer</datatype>
+<value>1929</value>
+</released>
+<wikilink>
+<type>uri</type>
+<value>http://en.wikipedia.org/wiki/Red_Harvest?oldid=598089212</value>
+</wikilink>
+<abstract>
+<type>literal</type>
+<xml:lang>de</xml:lang>
+<value>Rote Ernte (Originaltitel: Red Harvest) ist der erste Roman von Dashiell Hammett. Er wurde im deutschsprachigen Raum auch unter dem Titel Bluternte veröffentlicht. Er wurde zuerst im Black Mask Magazine als Serie, unter dem Titel The Cleansing of Poisonville von November 1927 bis Februar 1928 veröffentlicht.Im folgenden Jahr als Buch von Alfred A. Knopf herausgegeben, wurde er somit Hammetts erster hart realistischer Roman (hard-boiled novel).</value>
+</abstract>
+</XML_Serializer_Tag>
+<XML_Serializer_Tag>
+<book>
+<type>uri</type>
+<value>http://dbpedia.org/resource/The_Gutting_of_Couffignal</value>
+</book>
+<author>
+<type>uri</type>
+<value>http://dbpedia.org/resource/Dashiell_Hammett</value>
+</author>
+<released>
+<type>typed-literal</type>
+<datatype>http://www.w3.org/2001/XMLSchema#integer</datatype>
+<value>1925</value>
+</released>
+<wikilink>
+<type>uri</type>
+<value>http://en.wikipedia.org/wiki/The_Gutting_of_Couffignal?oldid=602530762</value>
+</wikilink>
+</XML_Serializer_Tag>
+<XML_Serializer_Tag>
+<book>
+<type>uri</type>
+<value>http://dbpedia.org/resource/The_Glass_Key</value>
+</book>
+<author>
+<type>uri</type>
+<value>http://dbpedia.org/resource/Dashiell_Hammett</value>
+</author>
+<wikilink>
+<type>uri</type>
+<value>http://en.wikipedia.org/wiki/The_Glass_Key?oldid=600800612</value>
+</wikilink>
+<abstract>
+<type>literal</type>
+<xml:lang>de</xml:lang>
+<value>Der gläserne Schlüssel (engl. The Glass Key 1931) ist ein Roman von Dashiell Hammett. Dieses Buch ist sein vierter &quot;harter (engl. &apos;hard boiled&apos;) Roman&quot; und sein politischster.</value>
+</abstract>
+</XML_Serializer_Tag>
+</books>
+</Person>

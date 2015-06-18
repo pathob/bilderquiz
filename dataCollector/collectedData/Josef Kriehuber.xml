@@ -18,8 +18,10 @@
 <XML_Serializer_Tag>Maler</XML_Serializer_Tag>
 <XML_Serializer_Tag>Lithograph</XML_Serializer_Tag>
 </professionOrOccupation>
-<artworks />
 <dbpResource>http://dbpedia.org/resource/Josef_Kriehuber</dbpResource>
 <abstract>Josef Kriehuber (* 15. Dezember 1800 in Wien; † 30. Mai 1876 ebenda) war ein österreichischer Lithograf und Maler.</abstract>
 <wikilink>http://en.wikipedia.org/wiki/Josef_Kriehuber?oldid=605220349</wikilink>
+<artworks />
+<buildings />
+<books />
 </Person>

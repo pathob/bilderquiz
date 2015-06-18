@@ -18,8 +18,10 @@
 <XML_Serializer_Tag>Komponist</XML_Serializer_Tag>
 <XML_Serializer_Tag>Musiker</XML_Serializer_Tag>
 </professionOrOccupation>
-<artworks />
 <dbpResource>http://dbpedia.org/resource/Arik_Brauer</dbpResource>
 <abstract>Arik Brauer (* 4. Jänner 1929 in Wien; eigentlich Erich Brauer) ist ein österreichischer Maler, Grafiker, Bühnenbildner, Sänger und Dichter, und einer der Hauptvertreter der Wiener Schule des Phantastischen Realismus.</abstract>
 <wikilink>http://en.wikipedia.org/wiki/Arik_Brauer?oldid=604748521</wikilink>
+<artworks />
+<buildings />
+<books />
 </Person>

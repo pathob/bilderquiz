@@ -1,0 +1,29 @@
+<Person>
+<name>Dolf Sternberger</name>
+<variantName>
+<XML_Serializer_Tag>Adolf Sternberger</XML_Serializer_Tag>
+</variantName>
+<thumbnail>https://commons.wikimedia.org/wiki/Special:FilePath/Bundesarchiv_Bild_183-R76032,_Hamburg,_Tagung_PEN-Zentrum.jpg?width=270</thumbnail>
+<birthEN>July 28, 1907</birthEN>
+<birthDE>28. Juli 1907</birthDE>
+<deathEN>July 27, 1989</deathEN>
+<deathDE>27. Juli 1989</deathDE>
+<birthPlace>
+<XML_Serializer_Tag>Wiesbaden</XML_Serializer_Tag>
+</birthPlace>
+<deathPlace>
+<XML_Serializer_Tag>Darmstadt</XML_Serializer_Tag>
+</deathPlace>
+<professionOrOccupation>
+<XML_Serializer_Tag>Schriftsteller</XML_Serializer_Tag>
+<XML_Serializer_Tag>Politologe</XML_Serializer_Tag>
+<XML_Serializer_Tag>Publizist</XML_Serializer_Tag>
+<XML_Serializer_Tag>Journalist</XML_Serializer_Tag>
+</professionOrOccupation>
+<dbpResource>http://dbpedia.org/resource/Dolf_Sternberger</dbpResource>
+<abstract>Dolf Sternberger (eigentlich Adolf Sternberger; * 28. Juli 1907 in Wiesbaden; † 27. Juli 1989 in Frankfurt am Main) war ein deutscher Politikwissenschaftler und Journalist.Sternberger gilt als einer der Begründer der deutschen Politikwissenschaft nach dem Zweiten Weltkrieg. Er zählt neben Hannah Arendt, Leo Strauss, Eric Voegelin und anderen Politikwissenschaftlern seiner Generation im weiteren Sinne zu den Vertretern des normativen Ansatzes in der Politikwissenschaft, die er zugleich auch als empirische Wissenschaft verstand (Vogel, 2008). Mit einem Beitrag zum 30. Jahrestag der Verabschiedung des Grundgesetzes (1979) prägte Sternberger den Begriff Verfassungspatriotismus.</abstract>
+<wikilink>http://en.wikipedia.org/wiki/Dolf_Sternberger?oldid=562247882</wikilink>
+<artworks />
+<buildings />
+<books />
+</Person>

@@ -1,0 +1,38 @@
+<Person>
+<name>Gottfried Wilhelm Fink</name>
+<variantName>
+<XML_Serializer_Tag>Gustav Edinhard</XML_Serializer_Tag>
+<XML_Serializer_Tag>Wilhelm Fink</XML_Serializer_Tag>
+<XML_Serializer_Tag>Christian Anton Wilhelm Fink</XML_Serializer_Tag>
+<XML_Serializer_Tag>Christian Gottfried Wilhelm Fink</XML_Serializer_Tag>
+<XML_Serializer_Tag>Gottfried Wilh. Fink</XML_Serializer_Tag>
+<XML_Serializer_Tag>Gottfried W. Fink</XML_Serializer_Tag>
+<XML_Serializer_Tag>Gottfr. Wilh. Fink</XML_Serializer_Tag>
+<XML_Serializer_Tag>G. W. Fink</XML_Serializer_Tag>
+<XML_Serializer_Tag>... Fink</XML_Serializer_Tag>
+<XML_Serializer_Tag>Gottfr. W. Fink</XML_Serializer_Tag>
+<XML_Serializer_Tag>W. Fink</XML_Serializer_Tag>
+</variantName>
+<thumbnail>https://commons.wikimedia.org/wiki/Special:FilePath/GW_Finck.jpg?width=270</thumbnail>
+<birthEN>1783</birthEN>
+<birthDE>1783</birthDE>
+<deathEN>1846</deathEN>
+<deathDE>1846</deathDE>
+<birthPlace />
+<deathPlace />
+<professionOrOccupation>
+<XML_Serializer_Tag>Komponist</XML_Serializer_Tag>
+<XML_Serializer_Tag>Universitätsmusikdirektor</XML_Serializer_Tag>
+<XML_Serializer_Tag>Theologe</XML_Serializer_Tag>
+<XML_Serializer_Tag>Musikkritiker</XML_Serializer_Tag>
+<XML_Serializer_Tag>Enzyklopädist</XML_Serializer_Tag>
+<XML_Serializer_Tag>Musikschriftsteller</XML_Serializer_Tag>
+<XML_Serializer_Tag>Schriftsteller</XML_Serializer_Tag>
+</professionOrOccupation>
+<dbpResource>http://dbpedia.org/resource/Gottfried_Wilhelm_Fink</dbpResource>
+<abstract>Gottfried Wilhelm Fink (* 8. März 1783 in Sulza (ehemals Stadtsulza); † 27. August 1846 in Leipzig) war ein deutscher Komponist, Musiktheoretiker, evangelischer Geistlicher und Dichter.</abstract>
+<wikilink>http://en.wikipedia.org/wiki/Gottfried_Wilhelm_Fink?oldid=591395176</wikilink>
+<artworks />
+<buildings />
+<books />
+</Person>

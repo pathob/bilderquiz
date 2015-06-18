@@ -1,0 +1,34 @@
+<Person>
+<name>Johann Eduard Erdmann</name>
+<variantName>
+<XML_Serializer_Tag>Johann E. Erdmann</XML_Serializer_Tag>
+<XML_Serializer_Tag>Joannes Eduardus Erdmann</XML_Serializer_Tag>
+<XML_Serializer_Tag>Johannes Eduardus Erdmann</XML_Serializer_Tag>
+<XML_Serializer_Tag>... Erdmann</XML_Serializer_Tag>
+<XML_Serializer_Tag>J. E. Erdmann</XML_Serializer_Tag>
+<XML_Serializer_Tag>, Doktor</XML_Serializer_Tag>
+</variantName>
+<thumbnail>https://de.wikipedia.org/wiki/Special:FilePath/Johann_Eduard_Erdmann.jpg?width=270</thumbnail>
+<birthEN>June 18, 1805</birthEN>
+<birthDE>18. Juni 1805</birthDE>
+<deathEN>June 12, 1892</deathEN>
+<deathDE>12. Juni 1892</deathDE>
+<birthPlace>
+<XML_Serializer_Tag>Valmiera</XML_Serializer_Tag>
+</birthPlace>
+<deathPlace>
+<XML_Serializer_Tag>Halle (Saale)</XML_Serializer_Tag>
+</deathPlace>
+<professionOrOccupation>
+<XML_Serializer_Tag>Philosoph</XML_Serializer_Tag>
+<XML_Serializer_Tag>Theologe</XML_Serializer_Tag>
+<XML_Serializer_Tag>Schriftsteller</XML_Serializer_Tag>
+<XML_Serializer_Tag>Hochschullehrer</XML_Serializer_Tag>
+</professionOrOccupation>
+<dbpResource>http://dbpedia.org/resource/Johann_Eduard_Erdmann</dbpResource>
+<abstract>Johann Eduard Erdmann (* 1. Junijul./ 13. Juni 1805greg. in Wolmar, Russisches Kaiserreich; † 12. Juni 1892 in Halle (Saale)) war ein deutscher Professor der Philosophie und Schriftsteller. Er wird zu den Althegelianern gezählt.</abstract>
+<wikilink>http://en.wikipedia.org/wiki/Johann_Eduard_Erdmann?oldid=605140247</wikilink>
+<artworks />
+<buildings />
+<books />
+</Person>

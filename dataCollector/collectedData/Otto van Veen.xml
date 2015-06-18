@@ -37,8 +37,10 @@
 <XML_Serializer_Tag>Künstler</XML_Serializer_Tag>
 <XML_Serializer_Tag>Maler</XML_Serializer_Tag>
 </professionOrOccupation>
-<artworks />
 <dbpResource>http://dbpedia.org/resource/Otto_van_Veen</dbpResource>
 <abstract>Otto van Veen (* 1556 in Leiden; † 1629 in Brüssel), genannt Otto Vaenius oder Venius, war ein flämischer Maler und Zeichner.</abstract>
 <wikilink>http://en.wikipedia.org/wiki/Otto_van_Veen?oldid=596387954</wikilink>
+<artworks />
+<buildings />
+<books />
 </Person>

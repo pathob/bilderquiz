@@ -16,8 +16,10 @@
 <XML_Serializer_Tag>Maler</XML_Serializer_Tag>
 <XML_Serializer_Tag>Radierer</XML_Serializer_Tag>
 </professionOrOccupation>
-<artworks />
 <dbpResource>http://dbpedia.org/resource/Martin_Johann_Schmidt</dbpResource>
 <abstract>Martin Johann Schmidt, genannt Kremser Schmidt, (* 25. September 1718 in Grafenwörth; † 28. Juni 1801 in Stein an der Donau) war neben Franz Anton Maulbertsch der herausragendste Maler des österreichischen Spätbarock/Rokoko. Gleichzeitig ist er wohl der einzige aus Niederösterreich stammende Barockmaler internationalen Formats.</abstract>
 <wikilink>http://en.wikipedia.org/wiki/Martin_Johann_Schmidt?oldid=567127789</wikilink>
+<artworks />
+<buildings />
+<books />
 </Person>

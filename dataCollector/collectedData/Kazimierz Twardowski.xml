@@ -1,0 +1,51 @@
+<Person>
+<name>Kazimierz Twardowski</name>
+<variantName>
+<XML_Serializer_Tag>Kazimierz Jerzy Adolf Twardowski</XML_Serializer_Tag>
+<XML_Serializer_Tag>Kasimierz Twardowski</XML_Serializer_Tag>
+<XML_Serializer_Tag>Kasimir Twardowski</XML_Serializer_Tag>
+<XML_Serializer_Tag>Casimir Twardowski</XML_Serializer_Tag>
+</variantName>
+<thumbnail>https://commons.wikimedia.org/wiki/Special:FilePath/Kazimierz_Twardowski_1933.jpg?width=270</thumbnail>
+<birthEN>October 20, 1866</birthEN>
+<birthDE>20. Oktober 1866</birthDE>
+<deathEN>February 11, 1938</deathEN>
+<deathDE>11. Februar 1938</deathDE>
+<birthPlace>
+<XML_Serializer_Tag>Wien</XML_Serializer_Tag>
+</birthPlace>
+<deathPlace>
+<XML_Serializer_Tag>Lemberg</XML_Serializer_Tag>
+</deathPlace>
+<professionOrOccupation>
+<XML_Serializer_Tag>Philosoph</XML_Serializer_Tag>
+<XML_Serializer_Tag>Hochschullehrer</XML_Serializer_Tag>
+<XML_Serializer_Tag>Rektor</XML_Serializer_Tag>
+</professionOrOccupation>
+<dbpResource>http://dbpedia.org/resource/Kazimierz_Twardowski</dbpResource>
+<abstract>Kazimierz Jerzy Skrzypna-Twardowski, Ritter von Ogończyk, (* 20. Oktober 1866 in Wien; † 11. Februar 1938 in Lemberg) war ein polnischer Philosoph und Logiker.</abstract>
+<wikilink>http://en.wikipedia.org/wiki/Kazimierz_Twardowski?oldid=579084102</wikilink>
+<artworks />
+<buildings />
+<books>
+<XML_Serializer_Tag>
+<book>
+<type>uri</type>
+<value>http://dbpedia.org/resource/On_the_Content_and_Object_of_Presentations</value>
+</book>
+<author>
+<type>uri</type>
+<value>http://dbpedia.org/resource/Kazimierz_Twardowski</value>
+</author>
+<published>
+<type>typed-literal</type>
+<datatype>http://www.w3.org/2001/XMLSchema#integer</datatype>
+<value>1894</value>
+</published>
+<wikilink>
+<type>uri</type>
+<value>http://en.wikipedia.org/wiki/On_the_Content_and_Object_of_Presentations?oldid=606094227</value>
+</wikilink>
+</XML_Serializer_Tag>
+</books>
+</Person>

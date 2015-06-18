@@ -1,0 +1,25 @@
+<Person>
+<name>Fatou Diome</name>
+<variantName>
+<XML_Serializer_Tag>Fatou Diome</XML_Serializer_Tag>
+</variantName>
+<thumbnail>https://commons.wikimedia.org/wiki/Special:FilePath/FatouDiome_FfmBuchmesse_171008.jpg?width=270</thumbnail>
+<birthEN>1968</birthEN>
+<birthDE>1968</birthDE>
+<deathEN />
+<deathDE />
+<birthPlace>
+<XML_Serializer_Tag>Niodior, Senegal</XML_Serializer_Tag>
+</birthPlace>
+<deathPlace />
+<professionOrOccupation>
+<XML_Serializer_Tag>Schriftstellerin</XML_Serializer_Tag>
+<XML_Serializer_Tag>Literaturwissenschaftlerin</XML_Serializer_Tag>
+</professionOrOccupation>
+<dbpResource>http://dbpedia.org/resource/Fatou_Diome</dbpResource>
+<abstract>Fatou Diome (* 1968 auf Niodior) ist eine senegalesische Schriftstellerin.</abstract>
+<wikilink>http://en.wikipedia.org/wiki/Fatou_Diome?oldid=575990877</wikilink>
+<artworks />
+<buildings />
+<books />
+</Person>

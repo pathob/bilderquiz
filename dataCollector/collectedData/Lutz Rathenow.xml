@@ -1,0 +1,27 @@
+<Person>
+<name>Lutz Rathenow</name>
+<variantName>
+<XML_Serializer_Tag>Lutz Rathenau</XML_Serializer_Tag>
+<XML_Serializer_Tag>Lutz Rathemow</XML_Serializer_Tag>
+</variantName>
+<thumbnail>https://commons.wikimedia.org/wiki/Special:FilePath/Lutz_Rathenow_(2005)_by_Guenter_Prust.jpg?width=270</thumbnail>
+<birthEN>1952</birthEN>
+<birthDE>1952</birthDE>
+<deathEN />
+<deathDE />
+<birthPlace>
+<XML_Serializer_Tag>Jena</XML_Serializer_Tag>
+</birthPlace>
+<deathPlace />
+<professionOrOccupation>
+<XML_Serializer_Tag>Schriftsteller</XML_Serializer_Tag>
+<XML_Serializer_Tag>Lyriker</XML_Serializer_Tag>
+<XML_Serializer_Tag>Kinderbuchautor</XML_Serializer_Tag>
+</professionOrOccupation>
+<dbpResource>http://dbpedia.org/resource/Lutz_Rathenow</dbpResource>
+<abstract>Lutz Rathenow (* 22. September 1952 in Jena) ist ein deutscher Lyriker und Prosaautor. Seit März 2011 ist er Sächsischer Landesbeauftragter für die Stasi-Unterlagen.</abstract>
+<wikilink>http://en.wikipedia.org/wiki/Lutz_Rathenow?oldid=595437627</wikilink>
+<artworks />
+<buildings />
+<books />
+</Person>

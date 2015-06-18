@@ -1,0 +1,28 @@
+<Person>
+<name>Wilhelm Gass</name>
+<variantName>
+<XML_Serializer_Tag>Friedrich Wilhelm Gass</XML_Serializer_Tag>
+<XML_Serializer_Tag>Friedrich Wilhelm Joachim Heinrich Gass</XML_Serializer_Tag>
+<XML_Serializer_Tag>W. Gass</XML_Serializer_Tag>
+<XML_Serializer_Tag>Wilhelm F. Gass</XML_Serializer_Tag>
+<XML_Serializer_Tag>Friedrich W. Gass</XML_Serializer_Tag>
+</variantName>
+<thumbnail>https://commons.wikimedia.org/wiki/Special:FilePath/Wilhelm_Gass-2.jpg?width=270</thumbnail>
+<birthEN>November 28, 1813</birthEN>
+<birthDE>28. November 1813</birthDE>
+<deathEN>February 21, 1889</deathEN>
+<deathDE>21. Februar 1889</deathDE>
+<birthPlace />
+<deathPlace />
+<professionOrOccupation>
+<XML_Serializer_Tag>Theologe</XML_Serializer_Tag>
+<XML_Serializer_Tag>Evangelischer Theologe</XML_Serializer_Tag>
+<XML_Serializer_Tag>Philosoph</XML_Serializer_Tag>
+</professionOrOccupation>
+<dbpResource>http://dbpedia.org/resource/Wilhelm_Gass</dbpResource>
+<abstract>Friedrich Wilhelm Joachim Heinrich Gaß (* 28. November 1813 in Breslau, Niederschlesien; † 21. Februar 1889 in Heidelberg) war protestantischer Theologe und Philosoph.</abstract>
+<wikilink>http://en.wikipedia.org/wiki/Wilhelm_Gass?oldid=580994256</wikilink>
+<artworks />
+<buildings />
+<books />
+</Person>

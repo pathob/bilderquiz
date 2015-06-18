@@ -19,8 +19,10 @@
 <professionOrOccupation>
 <XML_Serializer_Tag>Maler</XML_Serializer_Tag>
 </professionOrOccupation>
-<artworks />
 <dbpResource>http://dbpedia.org/resource/Jean-Baptiste_Greuze</dbpResource>
 <abstract>Jean-Baptiste Greuze (* 21. August 1725 in Tournus (Saône-et-Seine); † 21. März 1805 in Paris) war ein französischer Maler.</abstract>
 <wikilink>http://en.wikipedia.org/wiki/Jean-Baptiste_Greuze?oldid=602631535</wikilink>
+<artworks />
+<buildings />
+<books />
 </Person>

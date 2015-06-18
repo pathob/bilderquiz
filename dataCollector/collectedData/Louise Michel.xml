@@ -1,0 +1,24 @@
+<Person>
+<name>Louise Michel</name>
+<variantName>
+<XML_Serializer_Tag>Clémence Louise Michel</XML_Serializer_Tag>
+<XML_Serializer_Tag>&apos;Die Rote Jungfrau&apos;</XML_Serializer_Tag>
+</variantName>
+<thumbnail>https://commons.wikimedia.org/wiki/Special:FilePath/Louisemichel.jpg?width=270</thumbnail>
+<birthEN>1830</birthEN>
+<birthDE>1830</birthDE>
+<deathEN>1905</deathEN>
+<deathDE>1905</deathDE>
+<birthPlace />
+<deathPlace />
+<professionOrOccupation>
+<XML_Serializer_Tag>Schriftstellerin</XML_Serializer_Tag>
+<XML_Serializer_Tag>Pädagogin</XML_Serializer_Tag>
+</professionOrOccupation>
+<dbpResource>http://dbpedia.org/resource/Louise_Michel</dbpResource>
+<abstract>Louise Michel (* 29. Mai 1830 auf Schloss Vroncourt, Département Haute-Marne; † 9. Januar 1905 in Marseille) war eine französische Autorin und Anarchistin.</abstract>
+<wikilink>http://en.wikipedia.org/wiki/Louise_Michel?oldid=601114982</wikilink>
+<artworks />
+<buildings />
+<books />
+</Person>

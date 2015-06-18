@@ -1,0 +1,25 @@
+<Person>
+<name>Arthur Szyk</name>
+<variantName>
+<XML_Serializer_Tag>Artur Shik</XML_Serializer_Tag>
+<XML_Serializer_Tag>Artur Szyk</XML_Serializer_Tag>
+</variantName>
+<thumbnail>https://commons.wikimedia.org/wiki/Special:FilePath/Cmentarz_Zydowski_Lodz_dom.JPG?width=270</thumbnail>
+<birthEN>1894</birthEN>
+<birthDE>1894</birthDE>
+<deathEN>1951</deathEN>
+<deathDE>1951</deathDE>
+<birthPlace>
+<XML_Serializer_Tag>Łódż</XML_Serializer_Tag>
+</birthPlace>
+<deathPlace />
+<professionOrOccupation>
+<XML_Serializer_Tag>Künstler</XML_Serializer_Tag>
+</professionOrOccupation>
+<dbpResource>http://dbpedia.org/resource/Arthur_Szyk</dbpResource>
+<abstract>Arthur Szyk (* 3. Juni 1894 in Łódź, Polen; † 13. September 1951 in New Canaan, Connecticut) war ein US-amerikanisch-polnischer Künstler. Er gilt als einer der bedeutendsten Zeichner politischer Illustrationen und Karikaturen des 20. Jahrhunderts .</abstract>
+<wikilink>http://en.wikipedia.org/wiki/Arthur_Szyk?oldid=602462582</wikilink>
+<artworks />
+<buildings />
+<books />
+</Person>

@@ -1,0 +1,30 @@
+<Person>
+<name>Robert Koch</name>
+<variantName>
+<XML_Serializer_Tag>R. Koch</XML_Serializer_Tag>
+<XML_Serializer_Tag>Heinrich Hermann Robert Koch</XML_Serializer_Tag>
+</variantName>
+<thumbnail>https://commons.wikimedia.org/wiki/Special:FilePath/Robert_Koch.jpg?width=270</thumbnail>
+<birthEN>December 11, 1843</birthEN>
+<birthDE>11. Dezember 1843</birthDE>
+<deathEN>May 27, 1910</deathEN>
+<deathDE>27. Mai 1910</deathDE>
+<birthPlace>
+<XML_Serializer_Tag>Clausthal</XML_Serializer_Tag>
+</birthPlace>
+<deathPlace>
+<XML_Serializer_Tag>Baden-Baden</XML_Serializer_Tag>
+</deathPlace>
+<professionOrOccupation>
+<XML_Serializer_Tag>Arzt</XML_Serializer_Tag>
+<XML_Serializer_Tag>Bakteriologe</XML_Serializer_Tag>
+<XML_Serializer_Tag>Nobelpreisträger</XML_Serializer_Tag>
+<XML_Serializer_Tag>Autor</XML_Serializer_Tag>
+</professionOrOccupation>
+<dbpResource>http://dbpedia.org/resource/Robert_Koch</dbpResource>
+<abstract>Robert Koch (* 11. Dezember 1843 in Clausthal; † 27. Mai 1910 in Baden-Baden; vollständiger Name Heinrich Hermann Robert Koch) war ein deutscher Mediziner und Mikrobiologe. Koch gelang es 1876, den Erreger des Milzbrands (Bacillus anthracis) außerhalb des Organismus zu kultivieren und seinen Lebenszyklus zu beschreiben. Dadurch wurde zum ersten Mal lückenlos die Rolle eines Krankheitserregers beim Entstehen einer Krankheit beschrieben. 1882 entdeckte er den Erreger der Tuberkulose (Mycobacterium tuberculosis) und entwickelte später das vermeintliche Heilmittel Tuberkulin. 1905 erhielt er den Nobelpreis für Physiologie oder Medizin. Robert Koch ist damit – neben seinem Konkurrenten Louis Pasteur in Paris – zum Begründer der modernen Bakteriologie und Mikrobiologie geworden. Er hat grundlegende Beiträge zur Infektionslehre sowie zum Aufbau der Tropenmedizin in Deutschland geleistet.</abstract>
+<wikilink>http://en.wikipedia.org/wiki/Robert_Koch?oldid=606290748</wikilink>
+<artworks />
+<buildings />
+<books />
+</Person>

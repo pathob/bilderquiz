@@ -1,0 +1,24 @@
+<Person>
+<name>Gonzalo Torrente Ballester</name>
+<variantName>
+<XML_Serializer_Tag>Gonzalo Torrente Ballester</XML_Serializer_Tag>
+<XML_Serializer_Tag>Gonzalo Torrente-Ballester</XML_Serializer_Tag>
+</variantName>
+<thumbnail>https://commons.wikimedia.org/wiki/Special:FilePath/Gonzalo_Torrente_Ballester-ERREKA.jpg?width=270</thumbnail>
+<birthEN>1910</birthEN>
+<birthDE>1910</birthDE>
+<deathEN>1999</deathEN>
+<deathDE>1999</deathDE>
+<birthPlace />
+<deathPlace />
+<professionOrOccupation>
+<XML_Serializer_Tag>Schriftsteller</XML_Serializer_Tag>
+<XML_Serializer_Tag>Literaturkritiker</XML_Serializer_Tag>
+</professionOrOccupation>
+<dbpResource>http://dbpedia.org/resource/Gonzalo_Torrente_Ballester</dbpResource>
+<abstract>Gonzalo Torrente Ballester (* 13. Juni 1910 in Ferrol; † 27. Januar 1999 in Salamanca) war ein spanischer Schriftsteller.</abstract>
+<wikilink>http://en.wikipedia.org/wiki/Gonzalo_Torrente_Ballester?oldid=595069770</wikilink>
+<artworks />
+<buildings />
+<books />
+</Person>

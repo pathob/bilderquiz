@@ -1,0 +1,28 @@
+<Person>
+<name>Sibylle Berg</name>
+<variantName>
+<XML_Serializer_Tag>Sibil Berg</XML_Serializer_Tag>
+<XML_Serializer_Tag>Sibile Berg</XML_Serializer_Tag>
+<XML_Serializer_Tag>Zibile Berg</XML_Serializer_Tag>
+<XML_Serializer_Tag>Sibylle Bergová</XML_Serializer_Tag>
+<XML_Serializer_Tag>지빌레 베르크</XML_Serializer_Tag>
+</variantName>
+<thumbnail>https://commons.wikimedia.org/wiki/Special:FilePath/3783Sibylle_Berg.JPG?width=270</thumbnail>
+<birthEN>1962</birthEN>
+<birthDE>1962</birthDE>
+<deathEN />
+<deathDE />
+<birthPlace>
+<XML_Serializer_Tag>Weimar</XML_Serializer_Tag>
+</birthPlace>
+<deathPlace />
+<professionOrOccupation>
+<XML_Serializer_Tag>Schriftstellerin</XML_Serializer_Tag>
+</professionOrOccupation>
+<dbpResource>http://dbpedia.org/resource/Sibylle_Berg</dbpResource>
+<abstract>Sibylle Berg (* 2. Juni 1962 in Weimar) ist eine deutsch-schweizerische Schriftstellerin und Dramatikerin. Sie schreibt Romane, Essays, Kurzprosa und Theaterstücke.</abstract>
+<wikilink>http://en.wikipedia.org/wiki/Sibylle_Berg?oldid=590267830</wikilink>
+<artworks />
+<buildings />
+<books />
+</Person>

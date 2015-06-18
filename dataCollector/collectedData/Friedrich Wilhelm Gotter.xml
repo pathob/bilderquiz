@@ -1,0 +1,32 @@
+<Person>
+<name>Friedrich Wilhelm Gotter</name>
+<variantName>
+<XML_Serializer_Tag>... Gotter</XML_Serializer_Tag>
+<XML_Serializer_Tag>Friedrich W. Gotter</XML_Serializer_Tag>
+<XML_Serializer_Tag>F. W. Gotter</XML_Serializer_Tag>
+<XML_Serializer_Tag>Johann Friedrich Wilhelm Gotter</XML_Serializer_Tag>
+<XML_Serializer_Tag>J. F. Gotter</XML_Serializer_Tag>
+<XML_Serializer_Tag>Friedrich Wilh. Gotter</XML_Serializer_Tag>
+</variantName>
+<thumbnail>https://de.wikipedia.org/wiki/Special:FilePath/Gotter.jpg?width=270</thumbnail>
+<birthEN>September 3, 1746</birthEN>
+<birthDE>3. September 1746</birthDE>
+<deathEN>March 18, 1797</deathEN>
+<deathDE>18. März 1797</deathDE>
+<birthPlace>
+<XML_Serializer_Tag>Gotha</XML_Serializer_Tag>
+</birthPlace>
+<deathPlace>
+<XML_Serializer_Tag>Gotha</XML_Serializer_Tag>
+</deathPlace>
+<professionOrOccupation>
+<XML_Serializer_Tag>Schriftsteller</XML_Serializer_Tag>
+<XML_Serializer_Tag>Jurist</XML_Serializer_Tag>
+</professionOrOccupation>
+<dbpResource>http://dbpedia.org/resource/Friedrich_Wilhelm_Gotter</dbpResource>
+<abstract>Friedrich Wilhelm Gotter (* 3. September 1746 in Gotha; † 18. März 1797 ebenda) war ein deutscher Schriftsteller und Lyriker.</abstract>
+<wikilink>http://en.wikipedia.org/wiki/Friedrich_Wilhelm_Gotter?oldid=594421218</wikilink>
+<artworks />
+<buildings />
+<books />
+</Person>

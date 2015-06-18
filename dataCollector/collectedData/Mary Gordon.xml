@@ -1,0 +1,25 @@
+<Person>
+<name>Mary Gordon</name>
+<variantName>
+<XML_Serializer_Tag>Mary Brain</XML_Serializer_Tag>
+<XML_Serializer_Tag>Mary Cash</XML_Serializer_Tag>
+<XML_Serializer_Tag>Mary Catherine Gordon</XML_Serializer_Tag>
+<XML_Serializer_Tag>Mary C. Gordon</XML_Serializer_Tag>
+</variantName>
+<thumbnail>https://commons.wikimedia.org/wiki/Special:FilePath/Mary_Gordon_by_David_Shankbone.jpg?width=270</thumbnail>
+<birthEN>1949</birthEN>
+<birthDE>1949</birthDE>
+<deathEN />
+<deathDE />
+<birthPlace />
+<deathPlace />
+<professionOrOccupation>
+<XML_Serializer_Tag>Schriftstellerin</XML_Serializer_Tag>
+</professionOrOccupation>
+<dbpResource>http://dbpedia.org/resource/Mary_Gordon_(actress)</dbpResource>
+<abstract>Mary Gordon (* 16. Mai 1882 in Glasgow als Mary Gilmour; † 23. August 1963 in Pasadena) war eine schottische Schauspielerin.</abstract>
+<wikilink>http://en.wikipedia.org/wiki/Mary_Gordon_(actress)?oldid=604547533</wikilink>
+<artworks />
+<buildings />
+<books />
+</Person>

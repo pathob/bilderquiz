@@ -25,8 +25,10 @@
 <XML_Serializer_Tag>Bildhauer</XML_Serializer_Tag>
 <XML_Serializer_Tag>Hochschullehrer</XML_Serializer_Tag>
 </professionOrOccupation>
-<artworks />
 <dbpResource>http://dbpedia.org/resource/Wojciech_Weiss</dbpResource>
 <abstract>Wojciech Weiss (* 4. Mai 1875 in Leorda, Bukowina; † 7. Dezember 1950 in Krakau) war ein polnischer Maler und Zeichner.</abstract>
 <wikilink>http://en.wikipedia.org/wiki/Wojciech_Weiss?oldid=602080451</wikilink>
+<artworks />
+<buildings />
+<books />
 </Person>

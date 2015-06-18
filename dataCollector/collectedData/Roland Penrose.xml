@@ -1,0 +1,24 @@
+<Person>
+<name>Roland Penrose</name>
+<variantName />
+<thumbnail>https://en.wikipedia.org/wiki/Special:FilePath/Roland_Penrose_1900-1984.jpg?width=270</thumbnail>
+<birthEN>October 14, 1900</birthEN>
+<birthDE>14. Oktober 1900</birthDE>
+<deathEN>April 23, 1984</deathEN>
+<deathDE>23. April 1984</deathDE>
+<birthPlace>
+<XML_Serializer_Tag>London</XML_Serializer_Tag>
+</birthPlace>
+<deathPlace>
+<XML_Serializer_Tag>Chiddingly</XML_Serializer_Tag>
+</deathPlace>
+<professionOrOccupation>
+<XML_Serializer_Tag>Künstler</XML_Serializer_Tag>
+</professionOrOccupation>
+<dbpResource>http://dbpedia.org/resource/Roland_Penrose</dbpResource>
+<abstract>Roland Algernon Penrose CBE (* 14. Oktober 1900 in St. John’s Wood, London; † 23. April 1984 Farley Farm House, Chiddingly, East Sussex) war ein englischer Künstler, Kunsthistoriker und Autor. Darüber hinaus war er ein renommierter Galerist, Kunstsammler und Kurator sowie Mitbegründer der surrealistischen Bewegung in Großbritannien und Gründungsmitglied des Institute of Contemporary Arts (ICA) in London.</abstract>
+<wikilink>http://en.wikipedia.org/wiki/Roland_Penrose?oldid=595576280</wikilink>
+<artworks />
+<buildings />
+<books />
+</Person>

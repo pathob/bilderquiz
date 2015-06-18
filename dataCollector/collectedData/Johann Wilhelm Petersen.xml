@@ -1,0 +1,41 @@
+<Person>
+<name>Johann Wilhelm Petersen</name>
+<variantName>
+<XML_Serializer_Tag>Johann Wilhelm Peters</XML_Serializer_Tag>
+<XML_Serializer_Tag>Iohann Wilhelm Petersen</XML_Serializer_Tag>
+<XML_Serializer_Tag>Ioannes Wilhelmus Petersen</XML_Serializer_Tag>
+<XML_Serializer_Tag>Joannes Wilhelmus Petersen</XML_Serializer_Tag>
+<XML_Serializer_Tag>Johann-Wilhelm Petersen</XML_Serializer_Tag>
+<XML_Serializer_Tag>Johan-Wilhelm Petersen</XML_Serializer_Tag>
+<XML_Serializer_Tag>Johan Wilhelm Petersen</XML_Serializer_Tag>
+<XML_Serializer_Tag>Joh. Wilhelm Petersen</XML_Serializer_Tag>
+<XML_Serializer_Tag>Johannes Wilhelm Petersen</XML_Serializer_Tag>
+<XML_Serializer_Tag>Johannes Wilhelmus Petersen</XML_Serializer_Tag>
+<XML_Serializer_Tag>Joh. Wilhelmus Petersen</XML_Serializer_Tag>
+<XML_Serializer_Tag>Jo. Wilhelm Petersen</XML_Serializer_Tag>
+<XML_Serializer_Tag>Wilhelm Petersen</XML_Serializer_Tag>
+<XML_Serializer_Tag>Joannes Wilhelmus Petersenius</XML_Serializer_Tag>
+<XML_Serializer_Tag>Johannes Wilhelmus Petersenius</XML_Serializer_Tag>
+</variantName>
+<thumbnail>https://commons.wikimedia.org/wiki/Special:FilePath/PetersenJW.JPG?width=270</thumbnail>
+<birthEN>1649</birthEN>
+<birthDE>1649</birthDE>
+<deathEN>1727</deathEN>
+<deathDE>1727</deathDE>
+<birthPlace>
+<XML_Serializer_Tag>Osnabrück</XML_Serializer_Tag>
+</birthPlace>
+<deathPlace />
+<professionOrOccupation>
+<XML_Serializer_Tag>Theologe</XML_Serializer_Tag>
+<XML_Serializer_Tag>Evangelischer Theologe</XML_Serializer_Tag>
+<XML_Serializer_Tag>Superintendent</XML_Serializer_Tag>
+<XML_Serializer_Tag>Schriftsteller</XML_Serializer_Tag>
+</professionOrOccupation>
+<dbpResource>http://dbpedia.org/resource/Johann_Wilhelm_Petersen</dbpResource>
+<abstract>Johann Wilhelm Petersen (* 1. Juli 1649 in Osnabrück; † 31. Januar 1727 auf dem Gut Thymern (Thümern) bei Lübars (Möckern)) war ein deutscher Theologe, Mystiker und Chiliast. Er wird dem radikalen Pietismus zugerechnet.</abstract>
+<wikilink>http://en.wikipedia.org/wiki/Johann_Wilhelm_Petersen?oldid=601211005</wikilink>
+<artworks />
+<buildings />
+<books />
+</Person>

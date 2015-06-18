@@ -1,0 +1,85 @@
+<Person>
+<name>Matt Ridley</name>
+<variantName />
+<thumbnail>https://commons.wikimedia.org/wiki/Special:FilePath/Matt_Ridley_at_Thinking_Digital_2009_(cropped).jpg?width=270</thumbnail>
+<birthEN>1958</birthEN>
+<birthDE>1958</birthDE>
+<deathEN />
+<deathDE />
+<birthPlace />
+<deathPlace />
+<professionOrOccupation>
+<XML_Serializer_Tag>Journalist</XML_Serializer_Tag>
+<XML_Serializer_Tag>Autor</XML_Serializer_Tag>
+<XML_Serializer_Tag>Zoologe</XML_Serializer_Tag>
+<XML_Serializer_Tag>Soziobiologe</XML_Serializer_Tag>
+</professionOrOccupation>
+<dbpResource>http://dbpedia.org/resource/Matt_Ridley</dbpResource>
+<abstract>Matt (Matthew) White Ridley, 5. Viscount Ridley (* 7. Februar 1958 in Newcastle upon Tyne) ist ein britischer Peer, Politiker (Conservative Party), Zoologe und Autor populärwissenschaftlicher Bücher.</abstract>
+<wikilink>http://en.wikipedia.org/wiki/Matt_Ridley?oldid=605024344</wikilink>
+<artworks />
+<buildings />
+<books>
+<XML_Serializer_Tag>
+<book>
+<type>uri</type>
+<value>http://dbpedia.org/resource/Nature_via_Nurture:_Genes,_Experience,_&amp;_What_Makes_Us_Human</value>
+</book>
+<author>
+<type>uri</type>
+<value>http://dbpedia.org/resource/Matt_Ridley</value>
+</author>
+<released>
+<type>typed-literal</type>
+<datatype>http://www.w3.org/2001/XMLSchema#integer</datatype>
+<value>2003</value>
+</released>
+<wikilink>
+<type>uri</type>
+<value>http://en.wikipedia.org/wiki/Nature_via_Nurture:_Genes,_Experience,_&amp;_What_Makes_Us_Human?oldid=606006959</value>
+</wikilink>
+</XML_Serializer_Tag>
+<XML_Serializer_Tag>
+<book>
+<type>uri</type>
+<value>http://dbpedia.org/resource/The_Red_Queen:_Sex_and_the_Evolution_of_Human_Nature</value>
+</book>
+<author>
+<type>uri</type>
+<value>http://dbpedia.org/resource/Matt_Ridley</value>
+</author>
+<wikilink>
+<type>uri</type>
+<value>http://en.wikipedia.org/wiki/The_Red_Queen:_Sex_and_the_Evolution_of_Human_Nature?oldid=602962661</value>
+</wikilink>
+</XML_Serializer_Tag>
+<XML_Serializer_Tag>
+<book>
+<type>uri</type>
+<value>http://dbpedia.org/resource/The_Origins_of_Virtue</value>
+</book>
+<author>
+<type>uri</type>
+<value>http://dbpedia.org/resource/Matt_Ridley</value>
+</author>
+<wikilink>
+<type>uri</type>
+<value>http://en.wikipedia.org/wiki/The_Origins_of_Virtue?oldid=604762162</value>
+</wikilink>
+</XML_Serializer_Tag>
+<XML_Serializer_Tag>
+<book>
+<type>uri</type>
+<value>http://dbpedia.org/resource/Genome_(book)</value>
+</book>
+<author>
+<type>uri</type>
+<value>http://dbpedia.org/resource/Matt_Ridley</value>
+</author>
+<wikilink>
+<type>uri</type>
+<value>http://en.wikipedia.org/wiki/Genome_(book)?oldid=606334265</value>
+</wikilink>
+</XML_Serializer_Tag>
+</books>
+</Person>

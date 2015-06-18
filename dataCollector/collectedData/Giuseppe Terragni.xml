@@ -1,0 +1,24 @@
+<Person>
+<name>Giuseppe Terragni</name>
+<variantName>
+<XML_Serializer_Tag>Pepin</XML_Serializer_Tag>
+<XML_Serializer_Tag>Giuseppe Ercole Enea Terragni</XML_Serializer_Tag>
+</variantName>
+<thumbnail>https://commons.wikimedia.org/wiki/Special:FilePath/Asilosantelia.jpg?width=270</thumbnail>
+<birthEN>1904</birthEN>
+<birthDE>1904</birthDE>
+<deathEN>1943</deathEN>
+<deathDE>1943</deathDE>
+<birthPlace />
+<deathPlace />
+<professionOrOccupation>
+<XML_Serializer_Tag>Architekt</XML_Serializer_Tag>
+<XML_Serializer_Tag>Karikaturist</XML_Serializer_Tag>
+</professionOrOccupation>
+<dbpResource>http://dbpedia.org/resource/Giuseppe_Terragni</dbpResource>
+<abstract>Giuseppe Terragni (* 18. April 1904 in Meda, Italien; † 19. Juli 1943 in Como, Italien) war ein italienischer Architekt und zählt zu den bedeutendsten Vertretern des italienischen Rationalismus.</abstract>
+<wikilink>http://en.wikipedia.org/wiki/Giuseppe_Terragni?oldid=552909046</wikilink>
+<artworks />
+<buildings />
+<books />
+</Person>

@@ -1,0 +1,148 @@
+<Person>
+<name>Gustave Flaubert</name>
+<variantName>
+<XML_Serializer_Tag>Gustav Flaubert</XML_Serializer_Tag>
+<XML_Serializer_Tag>Gustaw Flaubert</XML_Serializer_Tag>
+<XML_Serializer_Tag>Gustavo Flaubert</XML_Serializer_Tag>
+<XML_Serializer_Tag>Giustav Flober</XML_Serializer_Tag>
+<XML_Serializer_Tag>Gjustav Flober</XML_Serializer_Tag>
+<XML_Serializer_Tag>Gûstav Flôber</XML_Serializer_Tag>
+<XML_Serializer_Tag>Gyowstav Flober</XML_Serializer_Tag>
+<XML_Serializer_Tag>Kiwst&apos;av Flôpêṙ</XML_Serializer_Tag>
+<XML_Serializer_Tag>Ǧūstāf Flūbair</XML_Serializer_Tag>
+<XML_Serializer_Tag>Gjustaw Flobjer</XML_Serializer_Tag>
+<XML_Serializer_Tag>Fuloubai</XML_Serializer_Tag>
+<XML_Serializer_Tag>Fu-lou-pai</XML_Serializer_Tag>
+<XML_Serializer_Tag>Flober</XML_Serializer_Tag>
+<XML_Serializer_Tag>Chü-ssu-ta fu Fu-lou-pai</XML_Serializer_Tag>
+<XML_Serializer_Tag>Goustauos Phlōmper</XML_Serializer_Tag>
+<XML_Serializer_Tag>Gustanos Phlōmper</XML_Serializer_Tag>
+<XML_Serializer_Tag>Gustauos Phlōmper</XML_Serializer_Tag>
+<XML_Serializer_Tag>Gkystav Phlōmper</XML_Serializer_Tag>
+<XML_Serializer_Tag>Ġūstāf Flūbīr</XML_Serializer_Tag>
+</variantName>
+<thumbnail>https://commons.wikimedia.org/wiki/Special:FilePath/Gustave_Flaubert.jpg?width=270</thumbnail>
+<birthEN>December 12, 1821</birthEN>
+<birthDE>12. Dezember 1821</birthDE>
+<deathEN>May 8, 1880</deathEN>
+<deathDE>8. Mai 1880</deathDE>
+<birthPlace>
+<XML_Serializer_Tag>Rouen</XML_Serializer_Tag>
+</birthPlace>
+<deathPlace>
+<XML_Serializer_Tag>Canteleu, Frankreich</XML_Serializer_Tag>
+</deathPlace>
+<professionOrOccupation>
+<XML_Serializer_Tag>Schriftsteller</XML_Serializer_Tag>
+</professionOrOccupation>
+<dbpResource>http://dbpedia.org/resource/Gustave_Flaubert</dbpResource>
+<abstract>Gustave Flaubert [flo&apos;bɛ:r] (* 12. Dezember 1821 in Rouen, Haute-Normandie; † 8. Mai 1880 in Canteleu, Haute-Normandie) war ein französischer Schriftsteller, der vor allem als Romancier bekannt ist.</abstract>
+<wikilink>http://en.wikipedia.org/wiki/Gustave_Flaubert?oldid=606536150</wikilink>
+<artworks />
+<buildings />
+<books>
+<XML_Serializer_Tag>
+<book>
+<type>uri</type>
+<value>http://dbpedia.org/resource/Madame_Bovary</value>
+</book>
+<author>
+<type>uri</type>
+<value>http://dbpedia.org/resource/Gustave_Flaubert</value>
+</author>
+<thumbnail>
+<type>uri</type>
+<value>http://commons.wikimedia.org/wiki/Special:FilePath/Madame_Bovary_1857_(hi-res).jpg?width=300</value>
+</thumbnail>
+<released>
+<type>typed-literal</type>
+<datatype>http://www.w3.org/2001/XMLSchema#integer</datatype>
+<value>1856</value>
+</released>
+<wikilink>
+<type>uri</type>
+<value>http://en.wikipedia.org/wiki/Madame_Bovary?oldid=606359555</value>
+</wikilink>
+<abstract>
+<type>literal</type>
+<xml:lang>de</xml:lang>
+<value>Madame Bovary, in älteren Übersetzungen auch Frau Bovary, ist ein Roman von Gustave Flaubert. Er gilt als eines der großen Werke der Weltliteratur aufgrund der seinerzeit neuartigen realitätsnahen Erzählweise. Die Handlung ist einem Zeitungsbericht von 1848 aus dem Journal de Rouen entnommen, der über den Selbstmord der Arztgattin Delphine Delamare aus Ry bei Rouen berichtete. Dieser veranlasste Flaubert zur Ausgestaltung seines Gesellschaftsromanes, der den Untertitel Ein Sittenbild aus der Provinz trägt.Der Roman wurde zunächst 1856 in der Zeitschrift La Revue de Paris zensiert veröffentlicht; daraufhin wurde Flaubert von der Zensurbehörde wegen „Verstoßes gegen die guten Sitten“ angeklagt; unter anderem wurde ihm „Verherrlichung des Ehebruchs“ vorgeworfen. In einem Prozess wurde Flaubert freigesprochen. 1857 erschien die vollständige Romanausgabe in Buchform.</value>
+</abstract>
+</XML_Serializer_Tag>
+<XML_Serializer_Tag>
+<book>
+<type>uri</type>
+<value>http://dbpedia.org/resource/The_Temptation_of_Saint_Anthony_(Flaubert)</value>
+</book>
+<author>
+<type>uri</type>
+<value>http://dbpedia.org/resource/Gustave_Flaubert</value>
+</author>
+<thumbnail>
+<type>uri</type>
+<value>http://commons.wikimedia.org/wiki/Special:FilePath/The_Temptation_cover_(1895).jpg?width=300</value>
+</thumbnail>
+<released>
+<type>typed-literal</type>
+<datatype>http://www.w3.org/2001/XMLSchema#integer</datatype>
+<value>1874</value>
+</released>
+<wikilink>
+<type>uri</type>
+<value>http://en.wikipedia.org/wiki/The_Temptation_of_Saint_Anthony_(Flaubert)?oldid=594131803</value>
+</wikilink>
+<abstract>
+<type>literal</type>
+<xml:lang>de</xml:lang>
+<value>Die Versuchung des heiligen Antonius (Originaltitel: La Tentation de saint Antoine) ist ein als Drama verfasstes Werk Gustave Flauberts, das in seiner endgültigen Version 1874 in Paris veröffentlicht wurde. Es behandelt eine Nacht im Leben des ägyptischen Eremiten Antonius, in der er verschiedenen Versuchungen ausgesetzt ist – ein seit dem Mittelalter oft verarbeitetes Thema in der europäischen Kunst und Literatur.</value>
+</abstract>
+</XML_Serializer_Tag>
+<XML_Serializer_Tag>
+<book>
+<type>uri</type>
+<value>http://dbpedia.org/resource/Sentimental_Education</value>
+</book>
+<author>
+<type>uri</type>
+<value>http://dbpedia.org/resource/Gustave_Flaubert</value>
+</author>
+<thumbnail>
+<type>uri</type>
+<value>http://commons.wikimedia.org/wiki/Special:FilePath/Education_sentimentale_flaubert.jpg?width=300</value>
+</thumbnail>
+<wikilink>
+<type>uri</type>
+<value>http://en.wikipedia.org/wiki/Sentimental_Education?oldid=590657188</value>
+</wikilink>
+<abstract>
+<type>literal</type>
+<xml:lang>de</xml:lang>
+<value>Die Erziehung der Gefühle (französischer Originaltitel:L&apos;Éducation sentimentale, in Übersetzung auch Die Schule der Empfindsamkeit, Die Erziehung des Herzens, Die Erziehung des Gefühls, Lehrjahre des Gefühls, Lehrjahre des Herzens) erschien 1869 und ist Gustave Flauberts letzter vollendeter Roman. Er gilt heute als einer der einflussreichsten Romane des 19. Jahrhunderts.</value>
+</abstract>
+</XML_Serializer_Tag>
+<XML_Serializer_Tag>
+<book>
+<type>uri</type>
+<value>http://dbpedia.org/resource/Bouvard_et_P%C3%A9cuchet</value>
+</book>
+<author>
+<type>uri</type>
+<value>http://dbpedia.org/resource/Gustave_Flaubert</value>
+</author>
+<released>
+<type>typed-literal</type>
+<datatype>http://www.w3.org/2001/XMLSchema#integer</datatype>
+<value>1881</value>
+</released>
+<wikilink>
+<type>uri</type>
+<value>http://en.wikipedia.org/wiki/Bouvard_et_Pécuchet?oldid=599770086</value>
+</wikilink>
+<abstract>
+<type>literal</type>
+<xml:lang>de</xml:lang>
+<value>Bouvard und Pécuchet (Originaltitel: Bouvard et Pécuchet) ist ein unvollendeter, satirischer Schelmenroman von Gustave Flaubert, posthum veröffentlicht im Jahr 1881, ein Jahr nach Flauberts Tod im Jahr 1880.Bereits im Jahr 1863 konzipiert als Les Deux Cloportes („Die zwei Asseln“), hat Flaubert erst im August 1874 mit den Arbeiten an dem Buch begonnen. Im Laufe der Zeit wurde er von der Arbeit an dem Buch so besessen, dass er behauptete, über 1500 Bücher zur Vorbereitung der Niederschrift gelesen zu haben. Er bezeichnete das Buch selbst als sein Meisterwerk, das alle seine anderen Werke übertreffe.</value>
+</abstract>
+</XML_Serializer_Tag>
+</books>
+</Person>

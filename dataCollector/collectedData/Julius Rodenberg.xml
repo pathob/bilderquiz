@@ -1,0 +1,32 @@
+<Person>
+<name>Julius Rodenberg</name>
+<variantName>
+<XML_Serializer_Tag>Jules Rodenberg</XML_Serializer_Tag>
+<XML_Serializer_Tag>Julius Levi</XML_Serializer_Tag>
+<XML_Serializer_Tag>Julius Levy</XML_Serializer_Tag>
+<XML_Serializer_Tag>J. Levy</XML_Serializer_Tag>
+</variantName>
+<thumbnail>https://commons.wikimedia.org/wiki/Special:FilePath/Julius-Rodenberg.jpg?width=270</thumbnail>
+<birthEN>June 26, 1831</birthEN>
+<birthDE>26. Juni 1831</birthDE>
+<deathEN>July 11, 1914</deathEN>
+<deathDE>11. Juli 1914</deathDE>
+<birthPlace>
+<XML_Serializer_Tag>Rodenberg</XML_Serializer_Tag>
+</birthPlace>
+<deathPlace>
+<XML_Serializer_Tag>Berlin</XML_Serializer_Tag>
+</deathPlace>
+<professionOrOccupation>
+<XML_Serializer_Tag>Schriftsteller</XML_Serializer_Tag>
+<XML_Serializer_Tag>Publizist</XML_Serializer_Tag>
+<XML_Serializer_Tag>Journalist</XML_Serializer_Tag>
+<XML_Serializer_Tag>Redakteur</XML_Serializer_Tag>
+</professionOrOccupation>
+<dbpResource>http://dbpedia.org/resource/Julius_Rodenberg</dbpResource>
+<abstract>Julius Rodenberg (* 26. Juni 1831 in dem damals zu Kurhessen gehörenden Rodenberg in der Nähe von Hannover; † 11. Juli 1914 in Berlin; eigentlich Julius Levy) war ein deutscher Journalist und Schriftsteller.</abstract>
+<wikilink>http://en.wikipedia.org/wiki/Julius_Rodenberg?oldid=584621210</wikilink>
+<artworks />
+<buildings />
+<books />
+</Person>

@@ -1,0 +1,26 @@
+<Person>
+<name>Johann Heinrich von Dannecker</name>
+<variantName>
+<XML_Serializer_Tag>Heinrich von Dannecker</XML_Serializer_Tag>
+<XML_Serializer_Tag>Heinrich Dannecker</XML_Serializer_Tag>
+<XML_Serializer_Tag>Johann H. Dannecker</XML_Serializer_Tag>
+<XML_Serializer_Tag>Johann Heinrich Dannecker</XML_Serializer_Tag>
+<XML_Serializer_Tag>Johann H. von Dannecker</XML_Serializer_Tag>
+</variantName>
+<thumbnail>https://commons.wikimedia.org/wiki/Special:FilePath/Johann_Heinrich_Dannecker_-_Bildhauer.jpg?width=270</thumbnail>
+<birthEN>1758</birthEN>
+<birthDE>1758</birthDE>
+<deathEN>1841</deathEN>
+<deathDE>1841</deathDE>
+<birthPlace />
+<deathPlace />
+<professionOrOccupation>
+<XML_Serializer_Tag>Bildhauer</XML_Serializer_Tag>
+</professionOrOccupation>
+<dbpResource>http://dbpedia.org/resource/Johann_Heinrich_von_Dannecker</dbpResource>
+<abstract>Johann Heinrich von Dannecker (* 16. Oktober 1758 in Stuttgart; † 8. Dezember 1841 in Stuttgart) war ein württembergischer Bildhauer des Klassizismus.</abstract>
+<wikilink>http://en.wikipedia.org/wiki/Johann_Heinrich_von_Dannecker?oldid=580133781</wikilink>
+<artworks />
+<buildings />
+<books />
+</Person>

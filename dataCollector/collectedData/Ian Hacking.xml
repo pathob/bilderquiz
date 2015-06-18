@@ -1,0 +1,80 @@
+<Person>
+<name>Ian Hacking</name>
+<variantName />
+<thumbnail>https://commons.wikimedia.org/wiki/Special:FilePath/Ian_Hacking.jpg?width=270</thumbnail>
+<birthEN>1936</birthEN>
+<birthDE>1936</birthDE>
+<deathEN />
+<deathDE />
+<birthPlace>
+<XML_Serializer_Tag>West Vancouver</XML_Serializer_Tag>
+</birthPlace>
+<deathPlace />
+<professionOrOccupation>
+<XML_Serializer_Tag>Philosoph</XML_Serializer_Tag>
+</professionOrOccupation>
+<dbpResource>http://dbpedia.org/resource/Ian_Hacking</dbpResource>
+<abstract>Ian Hacking, CC (* 18. Februar 1936 in Vancouver, British Columbia) ist ein kanadischer Wissenschaftstheoretiker und Sprachphilosoph, der vielrezipierte Beiträge zur Realismus-Debatte verfasst hat.</abstract>
+<wikilink>http://en.wikipedia.org/wiki/Ian_Hacking?oldid=602605845</wikilink>
+<artworks />
+<buildings />
+<books>
+<XML_Serializer_Tag>
+<book>
+<type>uri</type>
+<value>http://dbpedia.org/resource/The_Taming_of_Chance</value>
+</book>
+<author>
+<type>uri</type>
+<value>http://dbpedia.org/resource/Ian_Hacking</value>
+</author>
+<published>
+<type>typed-literal</type>
+<datatype>http://www.w3.org/2001/XMLSchema#integer</datatype>
+<value>1990</value>
+</published>
+<wikilink>
+<type>uri</type>
+<value>http://en.wikipedia.org/wiki/The_Taming_of_Chance?oldid=601318652</value>
+</wikilink>
+</XML_Serializer_Tag>
+<XML_Serializer_Tag>
+<book>
+<type>uri</type>
+<value>http://dbpedia.org/resource/Rewriting_the_Soul</value>
+</book>
+<author>
+<type>uri</type>
+<value>http://dbpedia.org/resource/Ian_Hacking</value>
+</author>
+<published>
+<type>typed-literal</type>
+<datatype>http://www.w3.org/2001/XMLSchema#integer</datatype>
+<value>1995</value>
+</published>
+<wikilink>
+<type>uri</type>
+<value>http://en.wikipedia.org/wiki/Rewriting_the_Soul?oldid=589011123</value>
+</wikilink>
+</XML_Serializer_Tag>
+<XML_Serializer_Tag>
+<book>
+<type>uri</type>
+<value>http://dbpedia.org/resource/The_Emergence_of_Probability</value>
+</book>
+<author>
+<type>uri</type>
+<value>http://dbpedia.org/resource/Ian_Hacking</value>
+</author>
+<published>
+<type>typed-literal</type>
+<datatype>http://www.w3.org/2001/XMLSchema#integer</datatype>
+<value>1975</value>
+</published>
+<wikilink>
+<type>uri</type>
+<value>http://en.wikipedia.org/wiki/The_Emergence_of_Probability?oldid=603150900</value>
+</wikilink>
+</XML_Serializer_Tag>
+</books>
+</Person>

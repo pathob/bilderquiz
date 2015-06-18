@@ -1,0 +1,29 @@
+<Person>
+<name>Onno Klopp</name>
+<variantName>
+<XML_Serializer_Tag>J. Vota</XML_Serializer_Tag>
+<XML_Serializer_Tag>O. Klopp</XML_Serializer_Tag>
+</variantName>
+<thumbnail>https://de.wikipedia.org/wiki/Special:FilePath/Onno_Klopp.jpg?width=270</thumbnail>
+<birthEN>October 9, 1822</birthEN>
+<birthDE>9. Oktober 1822</birthDE>
+<deathEN>August 9, 1903</deathEN>
+<deathDE>9. August 1903</deathDE>
+<birthPlace>
+<XML_Serializer_Tag>Leer (Ostfriesland)</XML_Serializer_Tag>
+</birthPlace>
+<deathPlace>
+<XML_Serializer_Tag>Penzing &lt;Wien&gt;</XML_Serializer_Tag>
+</deathPlace>
+<professionOrOccupation>
+<XML_Serializer_Tag>Historiker</XML_Serializer_Tag>
+<XML_Serializer_Tag>Lehrer</XML_Serializer_Tag>
+<XML_Serializer_Tag>Schriftsteller</XML_Serializer_Tag>
+</professionOrOccupation>
+<dbpResource>http://dbpedia.org/resource/Onno_Klopp</dbpResource>
+<abstract>Onno Klopp (* 9. Oktober 1822 in Leer/Ostfriesland; † 9. August 1903 in Wien) (Pseudonym: J. Vota) war ein deutsch-österreichischer Publizist und Historiker.</abstract>
+<wikilink>http://en.wikipedia.org/wiki/Onno_Klopp?oldid=590269748</wikilink>
+<artworks />
+<buildings />
+<books />
+</Person>

@@ -13,8 +13,10 @@
 <XML_Serializer_Tag>Maler</XML_Serializer_Tag>
 <XML_Serializer_Tag>Photograph</XML_Serializer_Tag>
 </professionOrOccupation>
-<artworks />
 <dbpResource>http://dbpedia.org/resource/Christopher_Wool</dbpResource>
 <abstract>Christopher Wool (* 1955 in Boston, Massachusetts), ist ein amerikanischer Maler und Grafiker.</abstract>
 <wikilink>http://en.wikipedia.org/wiki/Christopher_Wool?oldid=601701782</wikilink>
+<artworks />
+<buildings />
+<books />
 </Person>

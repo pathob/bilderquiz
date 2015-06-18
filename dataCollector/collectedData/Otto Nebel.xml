@@ -15,8 +15,10 @@
 <XML_Serializer_Tag>Maler</XML_Serializer_Tag>
 <XML_Serializer_Tag>Zeichner</XML_Serializer_Tag>
 </professionOrOccupation>
-<artworks />
 <dbpResource>http://dbpedia.org/resource/Otto_Nebel</dbpResource>
 <abstract>Otto Nebel (* 25. Dezember 1892 in Berlin; † 12. September 1973 in Bern) war ein deutscher Maler, Dichter und Schauspieler.</abstract>
 <wikilink>http://en.wikipedia.org/wiki/Otto_Nebel?oldid=606606865</wikilink>
+<artworks />
+<buildings />
+<books />
 </Person>

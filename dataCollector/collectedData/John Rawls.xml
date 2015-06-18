@@ -1,0 +1,71 @@
+<Person>
+<name>John Rawls</name>
+<variantName>
+<XML_Serializer_Tag>John Bordley Rawls</XML_Serializer_Tag>
+<XML_Serializer_Tag>John Bordley Rawls</XML_Serializer_Tag>
+<XML_Serializer_Tag>John Bordley-Rawls</XML_Serializer_Tag>
+<XML_Serializer_Tag>John B. Rawls</XML_Serializer_Tag>
+<XML_Serializer_Tag>J. Roljŭ</XML_Serializer_Tag>
+<XML_Serializer_Tag>Jon Rōruzu</XML_Serializer_Tag>
+</variantName>
+<thumbnail>https://en.wikipedia.org/wiki/Special:FilePath/John_Rawls.jpg?width=270</thumbnail>
+<birthEN>February 21, 1921</birthEN>
+<birthDE>21. Februar 1921</birthDE>
+<deathEN>November 24, 2002</deathEN>
+<deathDE>24. November 2002</deathDE>
+<birthPlace />
+<deathPlace />
+<professionOrOccupation>
+<XML_Serializer_Tag>Philosoph</XML_Serializer_Tag>
+</professionOrOccupation>
+<dbpResource>http://dbpedia.org/resource/John_Rawls</dbpResource>
+<abstract>John Rawls (* 21. Februar 1921 in Baltimore, Maryland; † 24. November 2002 in Lexington, Massachusetts) war ein US-amerikanischer Philosoph, der als Professor an der Harvard University lehrte. Sein Hauptwerk A Theory of Justice (1971) gilt als eines der einflussreichsten Werke der politischen Philosophie des 20. Jahrhunderts.</abstract>
+<wikilink>http://en.wikipedia.org/wiki/John_Rawls?oldid=606688710</wikilink>
+<artworks />
+<buildings />
+<books>
+<XML_Serializer_Tag>
+<book>
+<type>uri</type>
+<value>http://dbpedia.org/resource/Political_Liberalism</value>
+</book>
+<author>
+<type>uri</type>
+<value>http://dbpedia.org/resource/John_Rawls</value>
+</author>
+<released>
+<type>typed-literal</type>
+<datatype>http://www.w3.org/2001/XMLSchema#integer</datatype>
+<value>1993</value>
+</released>
+<wikilink>
+<type>uri</type>
+<value>http://en.wikipedia.org/wiki/Political_Liberalism?oldid=595507584</value>
+</wikilink>
+</XML_Serializer_Tag>
+<XML_Serializer_Tag>
+<book>
+<type>uri</type>
+<value>http://dbpedia.org/resource/A_Theory_of_Justice</value>
+</book>
+<author>
+<type>uri</type>
+<value>http://dbpedia.org/resource/John_Rawls</value>
+</author>
+<published>
+<type>typed-literal</type>
+<datatype>http://www.w3.org/2001/XMLSchema#integer</datatype>
+<value>1971</value>
+</published>
+<wikilink>
+<type>uri</type>
+<value>http://en.wikipedia.org/wiki/A_Theory_of_Justice?oldid=604905775</value>
+</wikilink>
+<abstract>
+<type>literal</type>
+<xml:lang>de</xml:lang>
+<value>A Theory of Justice (Eine Theorie der Gerechtigkeit) ist ein 1971 veröffentlichtes, vielbeachtetes Buch des US-amerikanischen Philosophen John Rawls.Rawls entwirft in seinem Werk die Konzeption einer sozial-politischen Grundordnung, welche auf dem Wert der Gleichheit beruht. Damit stellt er sich gegen den vor allem im angloamerikanischen Raum vorherrschenden Utilitarismus, der es prinzipiell erlaubt, Einzelne für das größere Gemeinwohl der Gesellschaft zu schädigen. Weiterhin setzt er sich auch kritisch mit anderen Alternativen zu seinem Konzept wie dem ethischen Skeptizismus, dem Egoismus oder dem Intuitionismus auseinander.Das Buch sorgte zusammen mit Robert Nozicks als Antwort darauf 1974 erschienenem Werk Anarchy, State and Utopia für eine Wiederbelebung der politischen Philosophie. Unmittelbar lösten die beiden Werke eine Debatte zwischen Libertarismus (Nozick) und Egalitarismus (Rawls) aus. Aus einer anderen Perspektive griffen darüber hinaus die Vertreter des Kommunitarismus in diese Diskussion ein.Rawls schließt mit seiner Theorie an die Tradition der Vertragstheorien von Locke, Rousseau und Kant an. Er demonstriert sein Konzept des Gesellschaftsvertrags mit einem inzwischen berühmten Gedankenexperiment: Die Vertragspartner befinden sich bei Rawls in einem hypothetischen „Urzustand“ (original position), der durch einen „Schleier des Nichtwissens“ (veil of ignorance) gekennzeichnet ist. In dieser angenommenen Situation wird über die Gerechtigkeitsprinzipien entschieden, die der realen Gesellschaftsordnung zugrunde liegen sollen. Die Entscheidungsträger wissen aber im Urzustand selbst nicht, an welcher Stelle dieser zu bestimmenden Ordnung sie sich befinden werden. Durch diese neutrale, anonymisierte Entscheidungssituation soll sichergestellt werden, dass die gewählten Gerechtigkeitsprinzipien in einem fairen Verfahren zustande kommen.Ausgehend von diesem Gedankenexperiment argumentiert Rawls für zwei Grundsätze der Gerechtigkeit. Jedermann soll gleiches Recht auf das umfangreichste System gleicher Grundfreiheiten haben, das mit dem gleichen System für alle anderen verträglich ist. Soziale und wirtschaftliche Ungleichheiten sind so zu gestalten, daß (a) vernünftigerweise zu erwarten ist, daß sie zu jedermanns Vorteil dienen, und (b) sie mit Positionen und Ämtern verbunden sind, die jedem offen stehen. (TG 2.11, 81)Dabei besteht ein Vorrang des ersten Prinzips vor dem zweiten sowie ein Vorrang des Prinzips fairer Chancengleichheit (b) vor dem Differenzprinzip (a).Rawls entwickelt anhand dieser Prinzipien ein Konzept der Verfahrensgerechtigkeit und wendet es unter anderem auf die Probleme der Toleranz gegenüber der Intoleranz, des zivilen Ungehorsams, auf Verteilungsfragen und die Generationengerechtigkeit (siehe auch Hartwick-Regel) an.Da Rawls ein realistisches Ideal einer „wohlgeordneten Gesellschaft“ als Maßstab konkreter demokratischer Gesellschaften vorschlug, wurde seine Gerechtigkeitstheorie zu einer unmittelbar wirksamen politischen Theorie und gewann eine erhebliche Bedeutung für die praktische Gerechtigkeitsdiskussion.</value>
+</abstract>
+</XML_Serializer_Tag>
+</books>
+</Person>

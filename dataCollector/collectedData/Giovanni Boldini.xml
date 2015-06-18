@@ -13,8 +13,10 @@
 <professionOrOccupation>
 <XML_Serializer_Tag>Maler</XML_Serializer_Tag>
 </professionOrOccupation>
-<artworks />
 <dbpResource>http://dbpedia.org/resource/Giovanni_Boldini</dbpResource>
 <abstract>Giovanni Boldini (* 31. Dezember 1842 in Ferrara; † 12. Januar 1931 in Paris) war ein italienisch-französischer Maler des Impressionismus. Er war einer der meist gefragten Porträtmaler in der Belle Époque.</abstract>
 <wikilink>http://en.wikipedia.org/wiki/Giovanni_Boldini?oldid=604999742</wikilink>
+<artworks />
+<buildings />
+<books />
 </Person>

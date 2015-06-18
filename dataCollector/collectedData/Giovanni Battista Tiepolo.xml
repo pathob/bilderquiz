@@ -24,12 +24,15 @@
 <professionOrOccupation>
 <XML_Serializer_Tag>Maler</XML_Serializer_Tag>
 </professionOrOccupation>
+<dbpResource>http://dbpedia.org/resource/Giovanni_Battista_Tiepolo</dbpResource>
+<abstract>Giovanni Battista Tiepolo (auch Giambattista Tiepolo; * 5. März 1696 in Venedig; † 27. März 1770 in Madrid) war einer der bedeutendsten venezianischen Maler des ausklingenden Barock und des Rokoko. Sein Werk umfasst Darstellungen von Heldenepen, Historien, Opernszenen, Götterfesten und auch Altäre, bei denen er eine Vielzahl dieser Gemälde mit Putten und Amoretten bereicherte.</abstract>
+<wikilink>http://en.wikipedia.org/wiki/Giovanni_Battista_Tiepolo?oldid=602737018</wikilink>
 <artworks>
 <XML_Serializer_Tag>
-<painting>
+<artwork>
 <type>uri</type>
 <value>http://dbpedia.org/resource/Scipio_Africanus_Freeing_Massiva_(painting)</value>
-</painting>
+</artwork>
 <thumbnail>
 <type>uri</type>
 <value>http://commons.wikimedia.org/wiki/Special:FilePath/Giovanni_Battista_Tiepolo_-_Scipio_Africanus_Freeing_Massiva_-_Walters_37657.jpg?width=300</value>
@@ -48,9 +51,13 @@
 <type>uri</type>
 <value>http://en.wikipedia.org/wiki/Scipio_Africanus_Freeing_Massiva_(painting)?oldid=596916481</value>
 </wikilink>
+<type>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>Oil on canvas</value>
+</type>
 </XML_Serializer_Tag>
 </artworks>
-<dbpResource>http://dbpedia.org/resource/Giovanni_Battista_Tiepolo</dbpResource>
-<abstract>Giovanni Battista Tiepolo (auch Giambattista Tiepolo; * 5. März 1696 in Venedig; † 27. März 1770 in Madrid) war einer der bedeutendsten venezianischen Maler des ausklingenden Barock und des Rokoko. Sein Werk umfasst Darstellungen von Heldenepen, Historien, Opernszenen, Götterfesten und auch Altäre, bei denen er eine Vielzahl dieser Gemälde mit Putten und Amoretten bereicherte.</abstract>
-<wikilink>http://en.wikipedia.org/wiki/Giovanni_Battista_Tiepolo?oldid=602737018</wikilink>
+<buildings />
+<books />
 </Person>

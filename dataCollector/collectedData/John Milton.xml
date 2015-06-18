@@ -1,0 +1,87 @@
+<Person>
+<name>John Milton</name>
+<variantName>
+<XML_Serializer_Tag>Johann Milton</XML_Serializer_Tag>
+<XML_Serializer_Tag>Joannes Milton</XML_Serializer_Tag>
+<XML_Serializer_Tag>Giovanni Milton</XML_Serializer_Tag>
+<XML_Serializer_Tag>... Milton</XML_Serializer_Tag>
+<XML_Serializer_Tag>Jan Milton</XML_Serializer_Tag>
+<XML_Serializer_Tag>J. Milton</XML_Serializer_Tag>
+<XML_Serializer_Tag>Joannis Miltonus</XML_Serializer_Tag>
+<XML_Serializer_Tag>Joannes Miltonus</XML_Serializer_Tag>
+<XML_Serializer_Tag>Johannes Miltonus</XML_Serializer_Tag>
+<XML_Serializer_Tag>Johannes Miltonius</XML_Serializer_Tag>
+<XML_Serializer_Tag>Joannes Miltonius</XML_Serializer_Tag>
+<XML_Serializer_Tag>Johannes Polypragmaticus</XML_Serializer_Tag>
+<XML_Serializer_Tag>Joseph Milton French</XML_Serializer_Tag>
+</variantName>
+<thumbnail>https://commons.wikimedia.org/wiki/Special:FilePath/John_Milton_-_Project_Gutenberg_eText_13619.jpg?width=270</thumbnail>
+<birthEN>December 9, 1608</birthEN>
+<birthDE>9. Dezember 1608</birthDE>
+<deathEN>November 8, 1674</deathEN>
+<deathDE>8. November 1674</deathDE>
+<birthPlace>
+<XML_Serializer_Tag>London</XML_Serializer_Tag>
+</birthPlace>
+<deathPlace>
+<XML_Serializer_Tag>Chalfont Saint Giles</XML_Serializer_Tag>
+</deathPlace>
+<professionOrOccupation>
+<XML_Serializer_Tag>Schriftsteller</XML_Serializer_Tag>
+<XML_Serializer_Tag>Philosoph</XML_Serializer_Tag>
+</professionOrOccupation>
+<dbpResource>http://dbpedia.org/resource/John_Milton</dbpResource>
+<abstract>John Milton (* 9. Dezember 1608 in London; † 8. November 1674 in Bunhill bei London) war ein englischer Dichter, politischer Denker und Staatsbediensteter unter Oliver Cromwell. Milton beschäftigte sich in seinen Gedichten und Prosawerken mit persönlicher Schuld, drückte sein Streben nach Freiheit und Selbstbestimmung aus und behandelte die dringenden Angelegenheiten und politischen Unruhen seiner Zeit. Er schrieb in englischer, lateinischer und italienischer Sprache und wurde schon zu Lebzeiten weltberühmt. Der frühe Aufklärer war einflussreich, aber vor allem wegen seines entschiedenen Eintretens für ein republikanisches Regierungssystem auch umstritten. Seine unter Vorzensur entstandene Areopagitica gehört zu den bedeutendsten Werken für Rede- und Pressefreiheit der Geschichte. Sein bekanntestes Werk ist das epische Gedicht Paradise Lost (Das verlorene Paradies). Bis heute ist sein Einfluss in der angelsächsischen Literatur und Kultur sichtbar.</abstract>
+<wikilink>http://en.wikipedia.org/wiki/John_Milton?oldid=605481935</wikilink>
+<artworks />
+<buildings />
+<books>
+<XML_Serializer_Tag>
+<book>
+<type>uri</type>
+<value>http://dbpedia.org/resource/Paradise_Lost</value>
+</book>
+<author>
+<type>uri</type>
+<value>http://dbpedia.org/resource/John_Milton</value>
+</author>
+<thumbnail>
+<type>uri</type>
+<value>http://commons.wikimedia.org/wiki/Special:FilePath/Milton_paradise.jpg?width=300</value>
+</thumbnail>
+<released>
+<type>typed-literal</type>
+<datatype>http://www.w3.org/2001/XMLSchema#integer</datatype>
+<value>1667</value>
+</released>
+<wikilink>
+<type>uri</type>
+<value>http://en.wikipedia.org/wiki/Paradise_Lost?oldid=605271337</value>
+</wikilink>
+<abstract>
+<type>literal</type>
+<xml:lang>de</xml:lang>
+<value>Paradise Lost (engl. ‚Das verlorene Paradies‘), veröffentlicht 1667, ist ein episches Gedicht in Blankversen des englischen Dichters John Milton. Es erzählt die Geschichte des Höllensturzes der gefallenen Engel, der Versuchung von Adam und Eva durch Satan, des Sündenfalls und der Vertreibung aus dem Garten Eden. Der Inhalt ist in zwölf Bücher gegliedert, die jeweils zwischen 640 und 1200 Zeilen umfassen.</value>
+</abstract>
+</XML_Serializer_Tag>
+<XML_Serializer_Tag>
+<book>
+<type>uri</type>
+<value>http://dbpedia.org/resource/Of_True_Religion</value>
+</book>
+<author>
+<type>uri</type>
+<value>http://dbpedia.org/resource/John_Milton</value>
+</author>
+<released>
+<type>typed-literal</type>
+<datatype>http://www.w3.org/2001/XMLSchema#integer</datatype>
+<value>1673</value>
+</released>
+<wikilink>
+<type>uri</type>
+<value>http://en.wikipedia.org/wiki/Of_True_Religion?oldid=581660739</value>
+</wikilink>
+</XML_Serializer_Tag>
+</books>
+</Person>

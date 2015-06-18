@@ -23,8 +23,10 @@
 <professionOrOccupation>
 <XML_Serializer_Tag>Maler</XML_Serializer_Tag>
 </professionOrOccupation>
-<artworks />
 <dbpResource>http://dbpedia.org/resource/Hans_Canon</dbpResource>
 <abstract>Hans Canon (* 15. März 1829 in Wien; † 12. September 1885 ebenda; eigentlich Johann Strašiřipka) war ein österreichischer Maler.</abstract>
 <wikilink>http://en.wikipedia.org/wiki/Hans_Canon?oldid=567467293</wikilink>
+<artworks />
+<buildings />
+<books />
 </Person>

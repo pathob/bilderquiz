@@ -16,8 +16,10 @@
 <professionOrOccupation>
 <XML_Serializer_Tag>Maler</XML_Serializer_Tag>
 </professionOrOccupation>
-<artworks />
 <dbpResource>http://dbpedia.org/resource/Pompeo_Batoni</dbpResource>
 <abstract>Pompeo Girolamo Batoni (auch: Battoni) (* 5. Februar 1708 in Lucca; † 4. Februar 1787 in Rom) war ein italienischer Maler. Batoni gilt als Erfinder des Touristenporträts. Er entwickelte diesen Porträttyp für englische Touristen in Rom.</abstract>
 <wikilink>http://en.wikipedia.org/wiki/Pompeo_Batoni?oldid=605037551</wikilink>
+<artworks />
+<buildings />
+<books />
 </Person>

@@ -1,0 +1,26 @@
+<Person>
+<name>Anne Birk</name>
+<variantName>
+<XML_Serializer_Tag>Rosemarie Tietz</XML_Serializer_Tag>
+<XML_Serializer_Tag>Rosemarie Schumacher</XML_Serializer_Tag>
+</variantName>
+<thumbnail>https://commons.wikimedia.org/wiki/Special:FilePath/Ro-Wiki.png?width=270</thumbnail>
+<birthEN>1942</birthEN>
+<birthDE>1942</birthDE>
+<deathEN>2009</deathEN>
+<deathDE>2009</deathDE>
+<birthPlace>
+<XML_Serializer_Tag>Trossingen/Baden-Württemberg</XML_Serializer_Tag>
+</birthPlace>
+<deathPlace />
+<professionOrOccupation>
+<XML_Serializer_Tag>Schriftstellerin</XML_Serializer_Tag>
+<XML_Serializer_Tag>Gymnasiallehrerin</XML_Serializer_Tag>
+</professionOrOccupation>
+<dbpResource>http://dbpedia.org/resource/Anne_Birk</dbpResource>
+<abstract>Anne Birk (eigentlich: Rosemarie Tietz, geb. Schumacher) (* 20. August 1942 in Trossingen; † 29. Juli 2009 in Esslingen) war eine deutsche Schriftstellerin.</abstract>
+<wikilink>http://en.wikipedia.org/wiki/Anne_Birk?oldid=597703168</wikilink>
+<artworks />
+<buildings />
+<books />
+</Person>

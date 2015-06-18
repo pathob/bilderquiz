@@ -1,0 +1,24 @@
+<Person>
+<name>Konrad Wachsmann</name>
+<variantName />
+<thumbnail>https://commons.wikimedia.org/wiki/Special:FilePath/Haus_Estrich_Jüterbog.jpg?width=270</thumbnail>
+<birthEN>May 16, 1901</birthEN>
+<birthDE>16. Mai 1901</birthDE>
+<deathEN>November 24, 1980</deathEN>
+<deathDE>24. November 1980</deathDE>
+<birthPlace>
+<XML_Serializer_Tag>Frankfurt (Oder)</XML_Serializer_Tag>
+</birthPlace>
+<deathPlace>
+<XML_Serializer_Tag>Los Angeles, Calif.</XML_Serializer_Tag>
+</deathPlace>
+<professionOrOccupation>
+<XML_Serializer_Tag>Architekt</XML_Serializer_Tag>
+</professionOrOccupation>
+<dbpResource>http://dbpedia.org/resource/Konrad_Wachsmann</dbpResource>
+<abstract>Konrad Wachsmann (* 16. Mai 1901 in Frankfurt (Oder); † 26. November 1980 in Los Angeles) war ein deutscher Architekt jüdischer Abstammung, der 1941 in die USA emigrierte. Sein bekanntestes Bauwerk ist das Einsteinhaus in Caputh bei Potsdam.</abstract>
+<wikilink>http://en.wikipedia.org/wiki/Konrad_Wachsmann?oldid=587206093</wikilink>
+<artworks />
+<buildings />
+<books />
+</Person>

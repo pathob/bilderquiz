@@ -1,0 +1,27 @@
+<Person>
+<name>Karl Heinrich Heydenreich</name>
+<variantName>
+<XML_Serializer_Tag>Karl H. Heydenreich</XML_Serializer_Tag>
+<XML_Serializer_Tag>Carl Heinrich Heydenreich</XML_Serializer_Tag>
+<XML_Serializer_Tag>Carolus Henricus Heydenreich</XML_Serializer_Tag>
+<XML_Serializer_Tag>K. H. Heydenreich</XML_Serializer_Tag>
+<XML_Serializer_Tag>Carl H. Heidenreich</XML_Serializer_Tag>
+</variantName>
+<thumbnail>https://commons.wikimedia.org/wiki/Special:FilePath/Heydenreich_1815_gottschik.jpg?width=270</thumbnail>
+<birthEN>February 18, 1764</birthEN>
+<birthDE>18. Februar 1764</birthDE>
+<deathEN>April 29, 1801</deathEN>
+<deathDE>29. April 1801</deathDE>
+<birthPlace />
+<deathPlace />
+<professionOrOccupation>
+<XML_Serializer_Tag>Philosoph</XML_Serializer_Tag>
+<XML_Serializer_Tag>Schriftsteller</XML_Serializer_Tag>
+</professionOrOccupation>
+<dbpResource>http://dbpedia.org/resource/Karl_Heinrich_Heydenreich</dbpResource>
+<abstract>Karl Heinrich Heydenreich, geboren als Carl Heinrich Heydenreich, (* 19. Februar 1764 in Stolpen; † 26. April 1801 in Burgwerben) war ein deutscher Schriftsteller und Philosoph.</abstract>
+<wikilink>http://en.wikipedia.org/wiki/Karl_Heinrich_Heydenreich?oldid=599964733</wikilink>
+<artworks />
+<buildings />
+<books />
+</Person>

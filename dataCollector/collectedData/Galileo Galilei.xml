@@ -1,0 +1,79 @@
+<Person>
+<name>Galileo Galilei</name>
+<variantName>
+<XML_Serializer_Tag>... Galilaeus</XML_Serializer_Tag>
+<XML_Serializer_Tag>Gal. Galilaeus</XML_Serializer_Tag>
+<XML_Serializer_Tag>Galilaeus Galilaeus</XML_Serializer_Tag>
+<XML_Serializer_Tag>Galileo Galilaeus</XML_Serializer_Tag>
+<XML_Serializer_Tag>Galileus Galilaeus</XML_Serializer_Tag>
+<XML_Serializer_Tag>Galileo Galilaei</XML_Serializer_Tag>
+<XML_Serializer_Tag>Galilaeus Galilaei</XML_Serializer_Tag>
+<XML_Serializer_Tag>Galileo Galilee</XML_Serializer_Tag>
+<XML_Serializer_Tag>G. Galilei</XML_Serializer_Tag>
+<XML_Serializer_Tag>Galileus Galilei</XML_Serializer_Tag>
+<XML_Serializer_Tag>Galileus Galileio</XML_Serializer_Tag>
+<XML_Serializer_Tag>Galileo Galilej</XML_Serializer_Tag>
+<XML_Serializer_Tag>Galileo Galileo</XML_Serializer_Tag>
+<XML_Serializer_Tag>Galileus Galileus</XML_Serializer_Tag>
+<XML_Serializer_Tag>Gallilaeus Gallilaeus</XML_Serializer_Tag>
+<XML_Serializer_Tag>... Galilei</XML_Serializer_Tag>
+<XML_Serializer_Tag>Galilei</XML_Serializer_Tag>
+<XML_Serializer_Tag>Galilée</XML_Serializer_Tag>
+<XML_Serializer_Tag>Galileo</XML_Serializer_Tag>
+<XML_Serializer_Tag>Galileo Galilei</XML_Serializer_Tag>
+<XML_Serializer_Tag>Galileus</XML_Serializer_Tag>
+<XML_Serializer_Tag>γalilei</XML_Serializer_Tag>
+<XML_Serializer_Tag>Cecco di Ronchitti</XML_Serializer_Tag>
+<XML_Serializer_Tag>Alimberto Mauri</XML_Serializer_Tag>
+<XML_Serializer_Tag>Ch&apos;ieh-li-lüeh</XML_Serializer_Tag>
+<XML_Serializer_Tag>Jialilüe</XML_Serializer_Tag>
+<XML_Serializer_Tag>Ch&apos;ieh-li-lüeh Chia-li-lai</XML_Serializer_Tag>
+</variantName>
+<thumbnail>https://commons.wikimedia.org/wiki/Special:FilePath/Galileo.arp.300pix.jpg?width=270</thumbnail>
+<birthEN>February 15, 1564</birthEN>
+<birthDE>15. Februar 1564</birthDE>
+<deathEN>January 8, 1642</deathEN>
+<deathDE>8. Januar 1642</deathDE>
+<birthPlace>
+<XML_Serializer_Tag>Pisa</XML_Serializer_Tag>
+</birthPlace>
+<deathPlace>
+<XML_Serializer_Tag>Florenz-Arcetri</XML_Serializer_Tag>
+</deathPlace>
+<professionOrOccupation>
+<XML_Serializer_Tag>Astronom</XML_Serializer_Tag>
+<XML_Serializer_Tag>Mathematiker</XML_Serializer_Tag>
+<XML_Serializer_Tag>Physiker</XML_Serializer_Tag>
+<XML_Serializer_Tag>Philosoph</XML_Serializer_Tag>
+</professionOrOccupation>
+<dbpResource>http://dbpedia.org/resource/Galileo_Galilei</dbpResource>
+<abstract>Galileo Galilei (* 15. Februar 1564 in Pisa; † 29. Dezember 1641jul./ 8. Januar 1642greg. in Arcetri bei Florenz) war ein italienischer Philosoph, Mathematiker, Physiker und Astronom, der bahnbrechende Entdeckungen auf mehreren Gebieten der Naturwissenschaften machte.</abstract>
+<wikilink>http://en.wikipedia.org/wiki/Galileo_Galilei?oldid=605421300</wikilink>
+<artworks />
+<buildings />
+<books>
+<XML_Serializer_Tag>
+<book>
+<type>uri</type>
+<value>http://dbpedia.org/resource/Sidereus_Nuncius</value>
+</book>
+<author>
+<type>uri</type>
+<value>http://dbpedia.org/resource/Galileo_Galilei</value>
+</author>
+<thumbnail>
+<type>uri</type>
+<value>http://commons.wikimedia.org/wiki/Special:FilePath/Sidereus_Nuncius_1610.Galileo.jpg?width=300</value>
+</thumbnail>
+<wikilink>
+<type>uri</type>
+<value>http://en.wikipedia.org/wiki/Sidereus_Nuncius?oldid=600501037</value>
+</wikilink>
+<abstract>
+<type>literal</type>
+<xml:lang>de</xml:lang>
+<value>Die Schrift mit dem Titel Sidereus Nuncius wurde von Galileo Galilei verfasst. Sie erschien 1610 in lateinischer Sprache in Venedig, gedruckt in 550 Exemplaren in der Offizin von Thomas Baglioni. Sie war die erste wissenschaftliche Abhandlung, die auf astronomischen Beobachtungen beruhte, die mit einem Teleskop gemacht wurden.</value>
+</abstract>
+</XML_Serializer_Tag>
+</books>
+</Person>

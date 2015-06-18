@@ -22,8 +22,10 @@
 <XML_Serializer_Tag>Graphiker</XML_Serializer_Tag>
 <XML_Serializer_Tag>Illustrator</XML_Serializer_Tag>
 </professionOrOccupation>
-<artworks />
 <dbpResource>http://dbpedia.org/resource/Henri_Laurens</dbpResource>
 <abstract>Henri Laurens (* 18. Februar 1885 in Paris; † 5. Mai 1954 Paris) war ein französischer Bildhauer und Zeichner des Kubismus.</abstract>
 <wikilink>http://en.wikipedia.org/wiki/Henri_Laurens?oldid=540425221</wikilink>
+<artworks />
+<buildings />
+<books />
 </Person>

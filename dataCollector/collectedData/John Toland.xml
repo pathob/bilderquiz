@@ -1,0 +1,52 @@
+<Person>
+<name>John Toland</name>
+<variantName>
+<XML_Serializer_Tag>Johannes Tolandus</XML_Serializer_Tag>
+<XML_Serializer_Tag>Joannes Tolandus</XML_Serializer_Tag>
+<XML_Serializer_Tag>Joannes Toland</XML_Serializer_Tag>
+<XML_Serializer_Tag>... Toland</XML_Serializer_Tag>
+<XML_Serializer_Tag>Patricola</XML_Serializer_Tag>
+<XML_Serializer_Tag>J. Tolandus</XML_Serializer_Tag>
+<XML_Serializer_Tag>J. T.</XML_Serializer_Tag>
+</variantName>
+<thumbnail>https://commons.wikimedia.org/wiki/Special:FilePath/John_Toland.jpg?width=270</thumbnail>
+<birthEN>November 30, 1670</birthEN>
+<birthDE>30. November 1670</birthDE>
+<deathEN>March 11, 1722</deathEN>
+<deathDE>11. März 1722</deathDE>
+<birthPlace>
+<XML_Serializer_Tag>Inishowen (Irland)</XML_Serializer_Tag>
+</birthPlace>
+<deathPlace>
+<XML_Serializer_Tag>London-Putney</XML_Serializer_Tag>
+</deathPlace>
+<professionOrOccupation>
+<XML_Serializer_Tag>Philosoph</XML_Serializer_Tag>
+</professionOrOccupation>
+<dbpResource>http://dbpedia.org/resource/John_Toland</dbpResource>
+<abstract>John Toland (* 30. November 1670 in Inishowen, Irland; † 11. März 1722 in Putney bei London) war ein irischer Freidenker der Aufklärung.</abstract>
+<wikilink>http://en.wikipedia.org/wiki/John_Toland?oldid=601040266</wikilink>
+<artworks />
+<buildings />
+<books>
+<XML_Serializer_Tag>
+<book>
+<type>uri</type>
+<value>http://dbpedia.org/resource/Christianity_not_Mysterious</value>
+</book>
+<author>
+<type>uri</type>
+<value>http://dbpedia.org/resource/John_Toland</value>
+</author>
+<published>
+<type>typed-literal</type>
+<datatype>http://www.w3.org/2001/XMLSchema#integer</datatype>
+<value>1696</value>
+</published>
+<wikilink>
+<type>uri</type>
+<value>http://en.wikipedia.org/wiki/Christianity_not_Mysterious?oldid=599059079</value>
+</wikilink>
+</XML_Serializer_Tag>
+</books>
+</Person>

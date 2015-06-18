@@ -1,0 +1,34 @@
+<Person>
+<name>Richard Brinsley Sheridan</name>
+<variantName>
+<XML_Serializer_Tag>Richard Brinsley Sheridan</XML_Serializer_Tag>
+<XML_Serializer_Tag>Richard Brinslei Sheridan</XML_Serializer_Tag>
+<XML_Serializer_Tag>Richard B. Sheridan</XML_Serializer_Tag>
+<XML_Serializer_Tag>Richard-Brinsley-Butter Sheridan</XML_Serializer_Tag>
+<XML_Serializer_Tag>Richard Sheridan</XML_Serializer_Tag>
+<XML_Serializer_Tag>R. B. Sheridan</XML_Serializer_Tag>
+<XML_Serializer_Tag>H. B. Sheridan</XML_Serializer_Tag>
+<XML_Serializer_Tag>Ričard Šeridan</XML_Serializer_Tag>
+</variantName>
+<thumbnail>https://commons.wikimedia.org/wiki/Special:FilePath/Richard_Sheridan.jpg?width=270</thumbnail>
+<birthEN>October 30, 1751</birthEN>
+<birthDE>30. Oktober 1751</birthDE>
+<deathEN>July 7, 1816</deathEN>
+<deathDE>7. Juli 1816</deathDE>
+<birthPlace>
+<XML_Serializer_Tag>Dublin</XML_Serializer_Tag>
+</birthPlace>
+<deathPlace>
+<XML_Serializer_Tag>London</XML_Serializer_Tag>
+</deathPlace>
+<professionOrOccupation>
+<XML_Serializer_Tag>Schriftsteller</XML_Serializer_Tag>
+<XML_Serializer_Tag>Politiker</XML_Serializer_Tag>
+</professionOrOccupation>
+<dbpResource>http://dbpedia.org/resource/Richard_Brinsley_Sheridan</dbpResource>
+<abstract>Richard Brinsley Sheridan (* 30. Oktober 1751 in Dublin; † 7. Juli 1816 in London) war ein irischer Dramatiker und Politiker.</abstract>
+<wikilink>http://en.wikipedia.org/wiki/Richard_Brinsley_Sheridan?oldid=606185263</wikilink>
+<artworks />
+<buildings />
+<books />
+</Person>

@@ -1,0 +1,389 @@
+<Person>
+<name>Ernest Hemingway</name>
+<variantName>
+<XML_Serializer_Tag>Ernest Miller Hemingway</XML_Serializer_Tag>
+<XML_Serializer_Tag>Ernest M. Hemingway</XML_Serializer_Tag>
+<XML_Serializer_Tag>E. Hemingway</XML_Serializer_Tag>
+<XML_Serializer_Tag>... Hemingway</XML_Serializer_Tag>
+<XML_Serializer_Tag>Ėrnest Kheminguėĭ</XML_Serializer_Tag>
+<XML_Serializer_Tag>... Hai-ming-wei</XML_Serializer_Tag>
+<XML_Serializer_Tag>Ernest Hemingvej</XML_Serializer_Tag>
+<XML_Serializer_Tag>... Hemingwei</XML_Serializer_Tag>
+<XML_Serializer_Tag>Arnist Hīminjwāy</XML_Serializer_Tag>
+<XML_Serializer_Tag>E. Heminguei</XML_Serializer_Tag>
+<XML_Serializer_Tag>Ernest Heminguei</XML_Serializer_Tag>
+<XML_Serializer_Tag>E. Heminguej</XML_Serializer_Tag>
+<XML_Serializer_Tag>Erneṣţ Hemingṿey</XML_Serializer_Tag>
+<XML_Serializer_Tag>Arnist Haminghwāy</XML_Serializer_Tag>
+<XML_Serializer_Tag>Arnist Hayminghwāy</XML_Serializer_Tag>
+<XML_Serializer_Tag>Arnist Himinghwāy</XML_Serializer_Tag>
+<XML_Serializer_Tag>Himinghwāy</XML_Serializer_Tag>
+<XML_Serializer_Tag>Ernests Hemingvejs</XML_Serializer_Tag>
+<XML_Serializer_Tag>Erneṣţ Hemingṿe</XML_Serializer_Tag>
+<XML_Serializer_Tag>Ernest Chemingouaiē</XML_Serializer_Tag>
+<XML_Serializer_Tag>Ernest Cheminhuej</XML_Serializer_Tag>
+<XML_Serializer_Tag>Ėrnest Cheminguėj</XML_Serializer_Tag>
+<XML_Serializer_Tag>Haiminġve</XML_Serializer_Tag>
+<XML_Serializer_Tag>Irnist Haminġwāy</XML_Serializer_Tag>
+<XML_Serializer_Tag>Arnist Haminġwāy</XML_Serializer_Tag>
+<XML_Serializer_Tag>海明威</XML_Serializer_Tag>
+</variantName>
+<thumbnail>https://commons.wikimedia.org/wiki/Special:FilePath/Ernest_Hemingway_in_Milan_1918_retouched_3.jpg?width=270</thumbnail>
+<birthEN>July 21, 1899</birthEN>
+<birthDE>21. Juli 1899</birthDE>
+<deathEN>July 2, 1961</deathEN>
+<deathDE>2. Juli 1961</deathDE>
+<birthPlace>
+<XML_Serializer_Tag>Oak Park, Ill.</XML_Serializer_Tag>
+</birthPlace>
+<deathPlace>
+<XML_Serializer_Tag>Ketchum, Idaho, USA</XML_Serializer_Tag>
+</deathPlace>
+<professionOrOccupation>
+<XML_Serializer_Tag>Journalist</XML_Serializer_Tag>
+<XML_Serializer_Tag>Reporter</XML_Serializer_Tag>
+<XML_Serializer_Tag>Kriegsberichterstatter</XML_Serializer_Tag>
+<XML_Serializer_Tag>Nobelpreisträger</XML_Serializer_Tag>
+<XML_Serializer_Tag>Schriftsteller</XML_Serializer_Tag>
+</professionOrOccupation>
+<dbpResource>http://dbpedia.org/resource/Ernest_Hemingway</dbpResource>
+<abstract>Ernest Miller Hemingway, [ˈɜːnɪst ˈmɪlə ˈhɛmɪŋwɛɪ] (BrE) oder [ˈɜrnɪst ˈmɪɫəʳ ˈhɛmɪŋweɪ] (AmE), (* 21. Juli 1899 in Oak Park, Illinois; † 2. Juli 1961 in Ketchum, Idaho) war einer der erfolgreichsten und bekanntesten US-amerikanischen Schriftsteller des 20. Jahrhunderts. 1953 erhielt Hemingway den Pulitzer-Preis für seine Novelle Der alte Mann und das Meer und 1954 den Literaturnobelpreis.Hemingway betätigte sich nicht nur als Schriftsteller, sondern war auch Reporter und Kriegsberichterstatter, zugleich Abenteurer, Hochseefischer und Großwildjäger, was sich in seinem Werk niederschlägt.Unter dem Vorbild von Mark Twain und Gertrude Stein entwickelte Hemingway einen modernen Klassizismus, dessen Markenzeichen eine besondere Kargheit des Stils ist. Hemingways Erzählverhalten ist lapidar. Er selbst begründete seinen Stil mit der von ihm genannten Eisberg-Theorie.</abstract>
+<wikilink>http://en.wikipedia.org/wiki/Ernest_Hemingway?oldid=606415562</wikilink>
+<artworks />
+<buildings />
+<books>
+<XML_Serializer_Tag>
+<book>
+<type>uri</type>
+<value>http://dbpedia.org/resource/Death_in_the_Afternoon</value>
+</book>
+<author>
+<type>uri</type>
+<value>http://dbpedia.org/resource/Ernest_Hemingway</value>
+</author>
+<thumbnail>
+<type>uri</type>
+<value>http://commons.wikimedia.org/wiki/Special:FilePath/Heming_Way.jpg?width=300</value>
+</thumbnail>
+<released>
+<type>typed-literal</type>
+<datatype>http://www.w3.org/2001/XMLSchema#integer</datatype>
+<value>1932</value>
+</released>
+<wikilink>
+<type>uri</type>
+<value>http://en.wikipedia.org/wiki/Death_in_the_Afternoon?oldid=551355594</value>
+</wikilink>
+<abstract>
+<type>literal</type>
+<xml:lang>de</xml:lang>
+<value>Tod am Nachmittag ist ein Essay von Ernest Hemingway, der am 26. September 1932 unter dem englischen Titel Death in the Afternoon erschien. Darin wird der Stierkampf und seine Geschichte in der Spanisch sprechenden Welt gründlich besprochen.</value>
+</abstract>
+</XML_Serializer_Tag>
+<XML_Serializer_Tag>
+<book>
+<type>uri</type>
+<value>http://dbpedia.org/resource/The_Dangerous_Summer</value>
+</book>
+<author>
+<type>uri</type>
+<value>http://dbpedia.org/resource/Ernest_Hemingway</value>
+</author>
+<thumbnail>
+<type>uri</type>
+<value>http://commons.wikimedia.org/wiki/Special:FilePath/Dasngersummer.jpg?width=300</value>
+</thumbnail>
+<wikilink>
+<type>uri</type>
+<value>http://en.wikipedia.org/wiki/The_Dangerous_Summer?oldid=584613013</value>
+</wikilink>
+<abstract>
+<type>literal</type>
+<xml:lang>de</xml:lang>
+<value>Gefährlicher Sommer ist ein Buch von Ernest Hemingway, das 1985 postum unter dem englischen Titel The Dangerous Summer erschien.Vom Frühjahr bis in den Herbst 1959 unternimmt Hemingway gemeinsam mit seiner Frau Mary eine Reise durch die Stierkampfarenen Spaniens. Spätestens seit 1926, dem Erscheinungsjahr von Hemingways Roman Fiesta, ist der Autor als Aficionado (Stierkampfliebhaber und -kenner) bekannt. Hemingway sucht und findet also 1959 Plätze seiner Jugend. Der scharfe Autorenblick fällt besonders auf die alten Gesichter unter den Passanten. Kein Mund darin ist verbittert. Ein solcher Mund zeigte nämlich Niederlagen an. Niederlagen gibt es nicht. Mit Tod am Nachmittag hatte der Autor 1932 der nichtspanischen Welt gewissermaßen ein umfassendes &quot;Lehrbuch&quot; über den spanischen Stierkampf vorgelegt. In „Gefährlicher Sommer“ wiederholen sich nun die Beschreibungen des Kampfs gegen den schweren „Stier, der den Tod in seinen Hörnern“ (S. 195) trägt. Hemingway legt nicht bloß einen simplen Reisebericht vor. Sogleich nach dem Einstieg in den Text bemerkt der Leser das Vorhandensein einer Fabel. Erzählt wird vom Kampf zweier konkurrierender Matadore - Antonio Ordóñez und Luis Miguel Dominguín. Die beiden Stierkämpfer sind verschwägert. Carmen ist Miguels Schwester und Antonios Ehefrau. Hemingway schlägt sich ins Lager Antonios und zieht mit ihm in jenem Sommer 1959 kreuz und quer durch Spanien von Arena zu Arena - nach Madrid, Málaga, Sevilla, Córdoba, Valencia, Barcelona, Saragossa, Bilbao und sonstwohin. Die Strecken lassen sich aus Termingründen nicht immer im PKW zurücklegen. Das Flugzeug wird benutzt. Während eines Fluges von Málaga nach Madrid sitzt Hemingway „wie auf glühenden Kohlen“ (S. 165), denn Pilot und Copilot haben Antonio und Miguel spaßeshalber einmal ihre Sitze überlassen. Man glaubt in Spanien wohl, Matadore seien Allrounder.In der Nähe von Málaga bewohnt Hemingway die komfortable Operationsbasis La Consula, &quot;ein bißchen kleiner als der Escorial &quot;. Von dort unternimmt er im PKW seine Exkursionen zu den Arenen Spaniens. In das Refugium La Consula zieht sich der Arbeiter am Text zurück. Dort richtet auch Mary am 21. Juli 1959 seinen 60. Geburtstag aus. Dorthin lädt er Antonio nach einer Hornverletzung zur Genesung ein. Beide baden im Meer und amüsieren sich – beurteilen Leute auf den ersten Blick, &quot;wie man es bei Stieren macht “ (S. 80). Überhaupt entspricht Hemingways Lebensstil dem American Way of Life: Ein Fahrer, der die Bergpässe erbärmlich nimmt und zum Überfluss in Madrid nicht mal richtig einparken kann, wird sofort nach Málaga entlassen. Don Ernesto und Gefolge dinieren standesgemäß an allen bedeutenderen Plätzen. Gastwirte kennen den Nobelpreisträger für Literatur und dienern; bieten frischen Spargel an. Auf der o.g. Geburtstagsparty schießt man sich die brennende Zigarette aus dem Mund. Der anwesende Arzt hat sich aus dem Spielchen herauszuhalten. Unterwegs zwischen zwei Corridas nimmt man junge Nichtspanierinnen „gefangen“. Die Ehefrauen müssen den reinen Übermut ertragen...Hemingway schildert Miguel in der Auseinandersetzung mit Antonio als den schwächeren. Und folgerichtig befindet sich Hemingway am Schluss des Buchs auf der Gewinnerseite. Trotzdem bewundert er Miguels „ehrfürchtige Konzentration bei der Arbeit “, die „alle großen Künstler auszeichnet “ (S. 82). Den Kampf gegen den Stier als Kunstwerk zelebrieren, das ist es. Hemingway wird nicht müde, jenen Vorgang zu beschreiben, bei dem der Stier immer verliert. Wenn der Matador dem Stier den Todesstoß versetzt, stellt das Hemingway mitunter als Freundestat hin. Dem kann der Leser nicht folgen. Zwiespältige Gefühle kommen beim Lesen auf, wenn der Matador den Stier unter Blasmusikbegleitung in die genehme Position manövriert oder wenn Hemingway wie ein ungezogener Junge trotzig gegen den Tod anschreibt (S. 123). Obwohl – das Buch handelt ja vom Tode, von der Verdrängung der Angst vor dem Aufgespießtwerden. Die Angst ist angebracht. Antonio hat mehr als 12 schwere Hornverletzungen hinter sich und betritt die Arena immer wieder, tritt in der ausverkauften Arena von Bilbao vor Doña Carmen Polo de Franco, die Frau des Staatsoberhauptes, vor Pablo Picasso und siegt. Es gibt auch halb leere Arenen. Die Manager treiben die Eintrittspreise hoch. Aber der Matador sieht darüber hinweg wie über seine Niederlagen. Auf die Ehrenrunde ist er aus, die er nach dem makellosen Töten läuft mit seiner Cuadrilla (Stierkämpfer-Truppe mit dem Matador als Haupt). Zigarren, „Damenhandtaschen, Schuhe, Blumen, Weinschläuche und Strohhüte “ (S. 128) werden zugeworfen. Die Cuadrilla wirft alles zurück – bis auf die Zigarren. Am schönsten für den siegreichen Matador ist die Ermüdung – jedoch nicht die vom Kampf, sondern vom Getragenwerden auf den Schultern des begeisterten Publikums. Aber die Todesangst bleibt. Antonio lässt im Hotelzimmer seinen tragbaren Altar aufstellen und betet zu Gott. Der Erzählton lässt mitunter aufhorchen: „...daß der Wolkenbruch ihm den Stier versaut hatte... “ (S. 109) oder „bei den schweinisch hohen Preisen“ (S. 47). Das schmale Buch ist – von den oben angeführten permanenten Wiederholungen der Stierkampfszenen abgesehen – durchweg lesbar und spannend. Gemeint ist zum Beispiel die Stelle am Romanschluss, wenn in der Arena Ruhe eintritt und „Papa“ Hemingway das Klicken eines Fächers hinter sich hören kann. Das Verständnis und den Überblick fördern die Kartenskizze auf S. 7 und das Verzeichnis der Fachausdrücke auf S. 203 bis 220. Zwischen den S. 96 und 97 sind Fotos gebunden, die den Text so eindrucksvoll illustrieren.</value>
+</abstract>
+</XML_Serializer_Tag>
+<XML_Serializer_Tag>
+<book>
+<type>uri</type>
+<value>http://dbpedia.org/resource/Islands_in_the_Stream_(novel)</value>
+</book>
+<author>
+<type>uri</type>
+<value>http://dbpedia.org/resource/Ernest_Hemingway</value>
+</author>
+<released>
+<type>typed-literal</type>
+<datatype>http://www.w3.org/2001/XMLSchema#integer</datatype>
+<value>1970</value>
+</released>
+<wikilink>
+<type>uri</type>
+<value>http://en.wikipedia.org/wiki/Islands_in_the_Stream_(novel)?oldid=604102710</value>
+</wikilink>
+<abstract>
+<type>literal</type>
+<xml:lang>de</xml:lang>
+<value>Inseln im Strom ist ein Roman von Ernest Hemingway, der im Jahre 1970 – neun Jahre nach seinem Suizid – unter dem englischen Titel Islands in the Stream von Mary Hemingway veröffentlicht wurde.</value>
+</abstract>
+</XML_Serializer_Tag>
+<XML_Serializer_Tag>
+<book>
+<type>uri</type>
+<value>http://dbpedia.org/resource/A_Moveable_Feast</value>
+</book>
+<author>
+<type>uri</type>
+<value>http://dbpedia.org/resource/Ernest_Hemingway</value>
+</author>
+<released>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>December 1964</value>
+</released>
+<wikilink>
+<type>uri</type>
+<value>http://en.wikipedia.org/wiki/A_Moveable_Feast?oldid=600034385</value>
+</wikilink>
+<abstract>
+<type>literal</type>
+<xml:lang>de</xml:lang>
+<value>Paris – Ein Fest fürs Leben sind Erinnerungen des amerikanischen Schriftstellers Ernest Hemingway, die postum 1964 unter dem englischen Titel A Moveable Feast erschienen. Hemingway beschreibt darin sein Leben zwischen 1921 und 1926 in Paris.</value>
+</abstract>
+</XML_Serializer_Tag>
+<XML_Serializer_Tag>
+<book>
+<type>uri</type>
+<value>http://dbpedia.org/resource/The_Old_Man_and_the_Sea</value>
+</book>
+<author>
+<type>uri</type>
+<value>http://dbpedia.org/resource/Ernest_Hemingway</value>
+</author>
+<released>
+<type>typed-literal</type>
+<datatype>http://www.w3.org/2001/XMLSchema#integer</datatype>
+<value>1952</value>
+</released>
+<wikilink>
+<type>uri</type>
+<value>http://en.wikipedia.org/wiki/The_Old_Man_and_the_Sea?oldid=606037871</value>
+</wikilink>
+<abstract>
+<type>literal</type>
+<xml:lang>de</xml:lang>
+<value>Der alte Mann und das Meer (The Old Man and the Sea) ist eine von Ernest Hemingway auf Kuba geschriebene Novelle, die 1952 erstmals veröffentlicht wurde. Sie war Hemingways letztes Werk, das zu seinen Lebzeiten erschien, und sie gilt als sein bekanntestes Werk überhaupt. Im Mittelpunkt der Handlung steht der kubanische Fischer Santiago, der mit einem riesigen Marlin ringt. Obwohl das Werk Gegenstand einer harten Kritik war, gilt es als eines der bedeutsamsten Werke in der Literatur des 20. Jahrhunderts. Der alte Mann und das Meer bestätigte noch einmal Hemingways Bedeutung für die Weltliteratur und trug dazu bei, dass ihm 1954 der Nobelpreis für Literatur verliehen wurde.</value>
+</abstract>
+</XML_Serializer_Tag>
+<XML_Serializer_Tag>
+<book>
+<type>uri</type>
+<value>http://dbpedia.org/resource/For_Whom_the_Bell_Tolls</value>
+</book>
+<author>
+<type>uri</type>
+<value>http://dbpedia.org/resource/Ernest_Hemingway</value>
+</author>
+<released>
+<type>typed-literal</type>
+<datatype>http://www.w3.org/2001/XMLSchema#date</datatype>
+<value>1940-10-21+02:00</value>
+</released>
+<wikilink>
+<type>uri</type>
+<value>http://en.wikipedia.org/wiki/For_Whom_the_Bell_Tolls?oldid=606424727</value>
+</wikilink>
+<abstract>
+<type>literal</type>
+<xml:lang>de</xml:lang>
+<value>Wem die Stunde schlägt (englisch For Whom the Bell Tolls) ist ein Roman von Ernest Hemingway aus dem Jahr 1940. Die deutsche Übersetzung stammt von Paul Baudisch und erschien 1941 im Verlag Bermann Fischer, Stockholm. Nach dem Zweiten Weltkrieg entwickelte sich das Buch auch im deutschsprachigen Raum zu einem Bestseller.</value>
+</abstract>
+</XML_Serializer_Tag>
+<XML_Serializer_Tag>
+<book>
+<type>uri</type>
+<value>http://dbpedia.org/resource/Green_Hills_of_Africa</value>
+</book>
+<author>
+<type>uri</type>
+<value>http://dbpedia.org/resource/Ernest_Hemingway</value>
+</author>
+<released>
+<type>typed-literal</type>
+<datatype>http://www.w3.org/2001/XMLSchema#date</datatype>
+<value>1935-10-25+02:00</value>
+</released>
+<wikilink>
+<type>uri</type>
+<value>http://en.wikipedia.org/wiki/Green_Hills_of_Africa?oldid=591101499</value>
+</wikilink>
+<abstract>
+<type>literal</type>
+<xml:lang>de</xml:lang>
+<value>Die grünen Hügel Afrikas ist eine Jagdgeschichte von Ernest Hemingway. Dieser Tatsachenbericht erschien im Oktober 1935 unter dem englischen Titel Green Hills of Africa.</value>
+</abstract>
+</XML_Serializer_Tag>
+<XML_Serializer_Tag>
+<book>
+<type>uri</type>
+<value>http://dbpedia.org/resource/Across_the_River_and_into_the_Trees</value>
+</book>
+<author>
+<type>uri</type>
+<value>http://dbpedia.org/resource/Ernest_Hemingway</value>
+</author>
+<released>
+<type>typed-literal</type>
+<datatype>http://www.w3.org/2001/XMLSchema#integer</datatype>
+<value>1950</value>
+</released>
+<wikilink>
+<type>uri</type>
+<value>http://en.wikipedia.org/wiki/Across_the_River_and_into_the_Trees?oldid=606723050</value>
+</wikilink>
+<abstract>
+<type>literal</type>
+<xml:lang>de</xml:lang>
+<value>Über den Fluss und in die Wälder ist ein Roman von Ernest Hemingway, der 1950 unter dem englischen Titel Across the River and into the Trees erschien. Die Übertragung ins Deutsche besorgte Annemarie Horschitz-Horst.Wir wollen über den Fluss setzen und im Schatten der Wälder ruhen soll der sterbende General Thomas J. Jackson gesagt haben. Der Held des Romans erwähnt diesen Schlüsselsatz, der dem Roman seinen Titel gegeben hat, erst ganz zuletzt im Gespräch mit seinem Chauffeur, der ebenfalls Jackson heißt.Erzählt wird vom Sterben des Weltkriegsveteranen Richard Cantwell, Infanterieoberst. Der Sterbende erzählt teilweise selbst und zwar seiner Geliebten, der wunderschönen Venezianerin Contessa Renata bzw., wenn sie nicht präsent ist, ihrem Abbild, einem Gemälde. Der Roman, streckenweise der Abgesang des verbitterten, kriegsmüden Soldaten, ist im Ganzen eine Huldigung an das Leben, dargebracht der Stadt Venedig und der Liebe zu der jungen Frau. Liebe wird verstanden als Gegenspielerin zum Tod. Der Colonel fürchtet die Hölle nicht, denn er kennt alle ihre Winkel aus zwei Weltkriegen.Cantwell ist nach dem Zweiten Weltkrieg bei den U.S.-Besatzungstruppen in Triest stationiert. Der 51-jährige, mehrfach verwundete, kranke Berufssoldat war 1944 an der Landung alliierter Truppen in der Normandie beteiligt, kämpfte bei der Befreiung von Paris und bei der Schlacht im Hürtgenwald erbittert mit und tötete mindestens 122 Feinde. Nun macht der Colonel im Winter von Triest aus einen Ausflug ins benachbarte Venetien. In jener Gegend hatte er 1918 als blutjunger Leutnant zusammen mit den Italienern gegen die Österreicher gekämpft. Namen von Kriegsschauplätzen des Ersten Weltkrieges fallen: die Piave, der Monte Grappa, der Isonzo. Besonders in Venedig hat der Colonel etliche Kriegskameraden. An die denkt er nun, als ihn ein Gondoliere auf dem Canal Grande zum Gritti Palace Hotel, dem Ort der Handlung, fährt. Im Hotel trifft sich Cantwell mit einer Handvoll überlebender Italiener aus dem Jahr 1918. Die erklärten Kriegsgegner haben einen Orden ins Leben gerufen - Die streitbare, edle und hochherzige Vereinigung der Brusadelli-Ritter. Der Namensgeber ist ironischerweise ein Mailänder Kriegsgewinnler. Die fünf Ordensmitglieder sind die wahren Verlierer. Cantwell äußert sich sarkastisch über sein elendes Leben. Obwohl der herannahende Tod den Colonel von Zeit zu Zeit mit stechendem Schmerz peinigt, nimmt der Gequälte das drohende Verhängnis mit soldatischem Humor. Der Barmixer, kein ordentliches Ordensmitglied, wird mit Herr Staatsrat angesprochen. Der Großmeister des Ordens, der Gran Maestro, ist Oberkellner im Gritti. Er hat Kreislaufbeschwerden, Schwären und Schulden. Als Cantwell und der Gran Maestro gemeinsam kämpften, hatten sie 1918 über 140.000 Tote. Deswegen vermeiden sie hohlen Pathos. Die Hotelbar wird zum Geheimkabinett erklärt. Der Colonel wird mit mein oberster Feldherr tituliert.Cantwell erhält Besuch im Hotel. Contessa Renata, venezianische Schönheit und dunkle Kindfrau zugleich, erscheint und gesteht dem kranken, durch den Krieg ramponierten Colonel mit tiefer, zarter Stimme in vorsichtigem Englisch ihre Liebe. Cantwell gibt zurück, die 18-Jährige sei schön, bezaubernd und er liebe sie. Über die Verkrüppelungen des Colonel wollen sie nicht länger sprechen. So sehen sie sich die Leute im Hotel an und reden über sie. Renata, schmiegsam und von vollkommener Form, weiß, dass sie einen alten Mann liebt, der nicht mehr lange leben wird. Und sie sagt ihm das. Renata meint auch noch, sein bevorstehender Tod habe den Vorteil, dass er sie nicht verlassen könne. Er nimmt ihr das überhaupt nicht übel. Es ist ja die Wahrheit. Renata will sogar ihr Venedig verlassen und mit ihm gehen. Er kann das nicht annehmen. Und sie sagen sich wieder und wieder, dass sie sich lieben, wie das Liebende eben tun. Renata will, er soll sie an sich pressen, sie eng umschließen. Cantwell macht es. Er will Renata heiraten. Der Gedanke an eine Hochzeit mit ihm schmerzt sie angenehm. Renata entschließt sich, ihn nicht zu ehelichen. Cantwell ist mit dem Entschluss nicht einverstanden, muss aber zugeben, dass er im Leben weit verhängnisvollere Fehlentschlüsse gefasst hat als Renata. Drei Bataillone und drei Frauen hat Cantwell durch eigene Dummheit verloren. Renata bleibt dabei, sie will seine Tochter sein und ihm aufs Erdenklichste entgegenkommen. Renata liebt Cantwell auch darum, weil er ihr Vater und Geliebter sein möchte. Die Liebenden wollen vergnügt sein und sich etwas Dauerhaftes schenken, an dem sie sich jeden Tag erfreuen können. Während Cantwell und Renata im Gritti dinieren, probieren die beiden Feinschmecker nur ausgesuchte Delikatessen. Der Gran Maestro serviert einen Hummer, den er wegen seines horrenden Preises selber bezahlen will. Ein Wochengehalt reicht. Der Colonel protestiert und will einen Tagessold aufwenden. Renata dankt dem Gran Maestro für das Diner in venezianischem Amerikanisch. Cantwell war General und Renata lässt nicht locker. Sie verlangt die Charakterisierung eines solchen. Cantwell entgegnet, ein General gönne sich nur eine kurze Nachtruhe und dürfe tagsüber keinen einzigen Denkfehler zulassen. Renata drängt sich dicht an ihn. Er bewundert ihren rundlich vollen Busen. In der Gondel und im Hotelzimmer liebt sich das Paar so, dass es der Colonel kaum aushalten kann. Renata will über die Kriegsereignisse in Frankreich hören, als Cantwell noch General war. Er soll alles artikulieren, damit sie die Last gemeinsam tragen können. Cantwell meint, ein Zivilist könne den Krieg nicht begreifen; nicht einmal Renata. Beim Erzählen kommt der über den Verlust seiner Bataillone Verzweifelte ins Fluchen. Während er das Grauen der Schlacht im Hürtgenwald schildert, sagt er nicht, wie die eigenen Toten ausgesehen haben. Renata dankt Cantwell, dass er so lange hintereinander freundlich gewesen ist, und horcht ihn über seine letzte Frau aus; sie möchte wissen, weshalb es auseinander ging. Er sei zu viel fort gewesen, entgegnet Cantwell. Aber der Colonel hat sein Grundsätze: Über Verluste wird hinweggegangen. Cantwell soll Renata festhalten und küssen.Bevor der Colonel abreist, ernennt der Gran Maestro Renata zur Außerordentlichen Ehrenamtlichen Sekretärin des Ordens, und der Colonel verrät ihr das Ordenshauptgeheimnis. Das hat es in sich. Der Abschied von Renata ist schlimm. Die Handlung ist eingerahmt von zwei Entenjagden am Romananfang und -ende. Nach der letzten Jagd tritt der Tod so forsch an Cantwell heran, dass er spürt, nun kann er nicht mehr weiterleben.</value>
+</abstract>
+</XML_Serializer_Tag>
+<XML_Serializer_Tag>
+<book>
+<type>uri</type>
+<value>http://dbpedia.org/resource/To_Have_and_Have_Not</value>
+</book>
+<author>
+<type>uri</type>
+<value>http://dbpedia.org/resource/Ernest_Hemingway</value>
+</author>
+<released>
+<type>typed-literal</type>
+<datatype>http://www.w3.org/2001/XMLSchema#integer</datatype>
+<value>1937</value>
+</released>
+<wikilink>
+<type>uri</type>
+<value>http://en.wikipedia.org/wiki/To_Have_and_Have_Not?oldid=573667960</value>
+</wikilink>
+<abstract>
+<type>literal</type>
+<xml:lang>de</xml:lang>
+<value>Haben und Nichthaben ist ein Roman von Ernest Hemingway, der 1937 unter dem Titel To Have and Have Not im Verlag Scribner&apos;s Sons, New York, erschien. Teile des Buches soll er im Compleat Angler Hotel auf Bimini, Bahamas geschrieben haben. Die einzig autorisierte Übertragung aus dem Amerikanischen stammt von Annemarie Horschitz-Horst und wurde im Rowohlt Taschenbuch Verlag GmbH veröffentlicht.</value>
+</abstract>
+</XML_Serializer_Tag>
+<XML_Serializer_Tag>
+<book>
+<type>uri</type>
+<value>http://dbpedia.org/resource/The_Complete_Short_Stories_of_Ernest_Hemingway</value>
+</book>
+<author>
+<type>uri</type>
+<value>http://dbpedia.org/resource/Ernest_Hemingway</value>
+</author>
+<released>
+<type>typed-literal</type>
+<datatype>http://www.w3.org/2001/XMLSchema#integer</datatype>
+<value>1987</value>
+</released>
+<wikilink>
+<type>uri</type>
+<value>http://en.wikipedia.org/wiki/The_Complete_Short_Stories_of_Ernest_Hemingway?oldid=593242361</value>
+</wikilink>
+</XML_Serializer_Tag>
+<XML_Serializer_Tag>
+<book>
+<type>uri</type>
+<value>http://dbpedia.org/resource/The_Fifth_Column_and_the_First_Forty-Nine_Stories</value>
+</book>
+<author>
+<type>uri</type>
+<value>http://dbpedia.org/resource/Ernest_Hemingway</value>
+</author>
+<released>
+<type>typed-literal</type>
+<datatype>http://www.w3.org/2001/XMLSchema#integer</datatype>
+<value>1938</value>
+</released>
+<wikilink>
+<type>uri</type>
+<value>http://en.wikipedia.org/wiki/The_Fifth_Column_and_the_First_Forty-Nine_Stories?oldid=585835998</value>
+</wikilink>
+</XML_Serializer_Tag>
+<XML_Serializer_Tag>
+<book>
+<type>uri</type>
+<value>http://dbpedia.org/resource/Dateline:_Toronto</value>
+</book>
+<author>
+<type>uri</type>
+<value>http://dbpedia.org/resource/Ernest_Hemingway</value>
+</author>
+<released>
+<type>typed-literal</type>
+<datatype>http://www.w3.org/2001/XMLSchema#integer</datatype>
+<value>1985</value>
+</released>
+<wikilink>
+<type>uri</type>
+<value>http://en.wikipedia.org/wiki/Dateline:_Toronto?oldid=593484592</value>
+</wikilink>
+</XML_Serializer_Tag>
+<XML_Serializer_Tag>
+<book>
+<type>uri</type>
+<value>http://dbpedia.org/resource/A_Farewell_to_Arms</value>
+</book>
+<author>
+<type>uri</type>
+<value>http://dbpedia.org/resource/Ernest_Hemingway</value>
+</author>
+<published>
+<type>typed-literal</type>
+<datatype>http://www.w3.org/2001/XMLSchema#integer</datatype>
+<value>1929</value>
+</published>
+<wikilink>
+<type>uri</type>
+<value>http://en.wikipedia.org/wiki/A_Farewell_to_Arms?oldid=604565432</value>
+</wikilink>
+<abstract>
+<type>literal</type>
+<xml:lang>de</xml:lang>
+<value>In einem andern Land ist ein Roman von Ernest Hemingway, der 1929 unter dem Titel A Farewell to Arms bei Charles Scribner&apos;s Sons in New York erschien. Die deutsche Erstausgabe brachte Rowohlt 1930 in der Übersetzung von Annemarie Horschitz-Horst heraus. Der deutsche Titel basiert auf der 1927 in Scribner&apos;s Magazine publizierten Kurzgeschichte In Another Country.Hemingway lässt seine Erlebnisse als Sanitäter an der italienischen Front im Ersten Weltkrieg einfließen, wenn er über die Liebe zwischen einem in der italienischen Armee dienenden Amerikaner und einer britischen Krankenschwester während dieses Krieges erzählt. Das Werk kam 1933 auf die Liste der zu verbrennenden Bücher.</value>
+</abstract>
+</XML_Serializer_Tag>
+<XML_Serializer_Tag>
+<book>
+<type>uri</type>
+<value>http://dbpedia.org/resource/The_Fifth_Column_and_Four_Stories_of_the_Spanish_Civil_War</value>
+</book>
+<author>
+<type>uri</type>
+<value>http://dbpedia.org/resource/Ernest_Hemingway</value>
+</author>
+<published>
+<type>typed-literal</type>
+<datatype>http://www.w3.org/2001/XMLSchema#integer</datatype>
+<value>1969</value>
+</published>
+<wikilink>
+<type>uri</type>
+<value>http://en.wikipedia.org/wiki/The_Fifth_Column_and_Four_Stories_of_the_Spanish_Civil_War?oldid=586371946</value>
+</wikilink>
+</XML_Serializer_Tag>
+<XML_Serializer_Tag>
+<book>
+<type>uri</type>
+<value>http://dbpedia.org/resource/The_Garden_of_Eden_(novel)</value>
+</book>
+<author>
+<type>uri</type>
+<value>http://dbpedia.org/resource/Ernest_Hemingway</value>
+</author>
+<wikilink>
+<type>uri</type>
+<value>http://en.wikipedia.org/wiki/The_Garden_of_Eden_(novel)?oldid=590485698</value>
+</wikilink>
+</XML_Serializer_Tag>
+</books>
+</Person>

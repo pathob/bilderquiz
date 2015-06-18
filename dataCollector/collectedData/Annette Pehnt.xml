@@ -1,0 +1,28 @@
+<Person>
+<name>Annette Pehnt</name>
+<variantName>
+<XML_Serializer_Tag>Anetta Pent</XML_Serializer_Tag>
+<XML_Serializer_Tag>아네테 펜트</XML_Serializer_Tag>
+<XML_Serializer_Tag>אנטה פנט</XML_Serializer_Tag>
+</variantName>
+<thumbnail>https://commons.wikimedia.org/wiki/Special:FilePath/Pehnt,_Annette.jpg?width=270</thumbnail>
+<birthEN>1967</birthEN>
+<birthDE>1967</birthDE>
+<deathEN />
+<deathDE />
+<birthPlace>
+<XML_Serializer_Tag>Köln</XML_Serializer_Tag>
+</birthPlace>
+<deathPlace />
+<professionOrOccupation>
+<XML_Serializer_Tag>Journalistin</XML_Serializer_Tag>
+<XML_Serializer_Tag>Literaturwissenschaftlerin</XML_Serializer_Tag>
+<XML_Serializer_Tag>Schriftstellerin</XML_Serializer_Tag>
+</professionOrOccupation>
+<dbpResource>http://dbpedia.org/resource/Annette_Pehnt</dbpResource>
+<abstract>Annette Pehnt (* 25. Juli 1967 in Köln) ist eine deutsche Schriftstellerin und Literaturwissenschaftlerin mit Wohnsitz in Freiburg im Breisgau.</abstract>
+<wikilink>http://en.wikipedia.org/wiki/Annette_Pehnt?oldid=565379931</wikilink>
+<artworks />
+<buildings />
+<books />
+</Person>

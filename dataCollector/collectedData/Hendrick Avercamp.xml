@@ -14,8 +14,10 @@
 <XML_Serializer_Tag>Künstler</XML_Serializer_Tag>
 <XML_Serializer_Tag>Maler</XML_Serializer_Tag>
 </professionOrOccupation>
-<artworks />
 <dbpResource>http://dbpedia.org/resource/Hendrick_Avercamp</dbpResource>
 <abstract>Hendrick Avercamp (* 1585 in Amsterdam; † 15. Mai 1634 in Kampen) war ein niederländischer Maler.</abstract>
 <wikilink>http://en.wikipedia.org/wiki/Hendrick_Avercamp?oldid=591186527</wikilink>
+<artworks />
+<buildings />
+<books />
 </Person>

@@ -1,0 +1,24 @@
+<Person>
+<name>Hans Hollein</name>
+<variantName />
+<thumbnail>https://commons.wikimedia.org/wiki/Special:FilePath/Hans_Hollein,_Architect,_Designer.jpg?width=270</thumbnail>
+<birthEN>March 30, 1934</birthEN>
+<birthDE>30. März 1934</birthDE>
+<deathEN>April 24, 2014</deathEN>
+<deathDE>24. April 2014</deathDE>
+<birthPlace>
+<XML_Serializer_Tag>Wien</XML_Serializer_Tag>
+</birthPlace>
+<deathPlace>
+<XML_Serializer_Tag>Wien</XML_Serializer_Tag>
+</deathPlace>
+<professionOrOccupation>
+<XML_Serializer_Tag>Architekt</XML_Serializer_Tag>
+</professionOrOccupation>
+<dbpResource>http://dbpedia.org/resource/Hans_Hollein</dbpResource>
+<abstract>Hans Hollein (* 30. März 1934 in Wien; † 24. April 2014 ebenda) war ein österreichischer Architekt und Designer, Bildhauer, Objektkünstler, Ausstellungsgestalter und Architekturtheoretiker.</abstract>
+<wikilink>http://en.wikipedia.org/wiki/Hans_Hollein?oldid=606101425</wikilink>
+<artworks />
+<buildings />
+<books />
+</Person>

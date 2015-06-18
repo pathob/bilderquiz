@@ -1,0 +1,26 @@
+<Person>
+<name>Diego Giacometti</name>
+<variantName />
+<thumbnail>https://commons.wikimedia.org/wiki/Special:FilePath/Gasthaus_Piz_Duan.jpg?width=270</thumbnail>
+<birthEN>November 15, 1902</birthEN>
+<birthDE>15. November 1902</birthDE>
+<deathEN>July 15, 1985</deathEN>
+<deathDE>15. Juli 1985</deathDE>
+<birthPlace>
+<XML_Serializer_Tag>Borgonovo (heute Ortsteil von Stampa)</XML_Serializer_Tag>
+</birthPlace>
+<deathPlace>
+<XML_Serializer_Tag>Neuilly-sur-Seine</XML_Serializer_Tag>
+</deathPlace>
+<professionOrOccupation>
+<XML_Serializer_Tag>Künstler</XML_Serializer_Tag>
+<XML_Serializer_Tag>Bildhauer</XML_Serializer_Tag>
+<XML_Serializer_Tag>Möbeldesigner</XML_Serializer_Tag>
+</professionOrOccupation>
+<dbpResource>http://dbpedia.org/resource/Diego_Giacometti</dbpResource>
+<abstract>Diego Giacometti (* 15. November 1902 in Borgonovo, Gemeinde Stampa, seit 2010 Gemeinde Bregaglia; † 15. Juli 1985 in Paris) war ein Schweizer Bildhauer und Designer. Er war der jüngere Bruder des Bildhauers Alberto Giacometti.</abstract>
+<wikilink>http://en.wikipedia.org/wiki/Diego_Giacometti?oldid=582799268</wikilink>
+<artworks />
+<buildings />
+<books />
+</Person>

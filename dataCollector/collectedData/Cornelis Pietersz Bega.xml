@@ -17,8 +17,10 @@
 <XML_Serializer_Tag>Künstler</XML_Serializer_Tag>
 <XML_Serializer_Tag>Maler</XML_Serializer_Tag>
 </professionOrOccupation>
-<artworks />
 <dbpResource>http://dbpedia.org/resource/Cornelis_Pietersz_Bega</dbpResource>
 <abstract>Cornelis Pietersz. Bega (* 1631 oder 1632 in Haarlem; † 27. August 1664 vermutlich an der Pest) war ein niederländischer Barock-Maler und Radierer.</abstract>
 <wikilink>http://en.wikipedia.org/wiki/Cornelis_Pietersz_Bega?oldid=606390007</wikilink>
+<artworks />
+<buildings />
+<books />
 </Person>

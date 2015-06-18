@@ -1,0 +1,28 @@
+<Person>
+<name>Ernst Penzoldt</name>
+<variantName>
+<XML_Serializer_Tag>Fritz Fliege</XML_Serializer_Tag>
+</variantName>
+<thumbnail>https://commons.wikimedia.org/wiki/Special:FilePath/Bundesarchiv_Bild_183-R76032,_Hamburg,_Tagung_PEN-Zentrum.jpg?width=270</thumbnail>
+<birthEN>June 14, 1892</birthEN>
+<birthDE>14. Juni 1892</birthDE>
+<deathEN>January 27, 1955</deathEN>
+<deathDE>27. Januar 1955</deathDE>
+<birthPlace>
+<XML_Serializer_Tag>Erlangen</XML_Serializer_Tag>
+</birthPlace>
+<deathPlace>
+<XML_Serializer_Tag>München</XML_Serializer_Tag>
+</deathPlace>
+<professionOrOccupation>
+<XML_Serializer_Tag>Schriftsteller</XML_Serializer_Tag>
+<XML_Serializer_Tag>Bildhauer</XML_Serializer_Tag>
+<XML_Serializer_Tag>Drehbuchautor</XML_Serializer_Tag>
+</professionOrOccupation>
+<dbpResource>http://dbpedia.org/resource/Ernst_Penzoldt</dbpResource>
+<abstract>Ernst Penzoldt (* 14. Juni 1892 in Erlangen; † 27. Januar 1955 in München) war ein deutscher Schriftsteller, unter dem Pseudonym „Fritz Fliege“ auch Bildhauer, Maler, Zeichner und Karikaturist.</abstract>
+<wikilink>http://en.wikipedia.org/wiki/Ernst_Penzoldt?oldid=563434969</wikilink>
+<artworks />
+<buildings />
+<books />
+</Person>

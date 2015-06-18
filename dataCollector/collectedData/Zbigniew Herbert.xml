@@ -1,0 +1,30 @@
+<Person>
+<name>Zbigniew Herbert</name>
+<variantName>
+<XML_Serializer_Tag>Zbigniyev Herberṭ</XML_Serializer_Tag>
+<XML_Serializer_Tag>Herbert Zbigniew</XML_Serializer_Tag>
+<XML_Serializer_Tag>Zbigniew Herbert</XML_Serializer_Tag>
+</variantName>
+<thumbnail>https://commons.wikimedia.org/wiki/Special:FilePath/Zbigniew_Herbert.jpg?width=270</thumbnail>
+<birthEN>October 29, 1924</birthEN>
+<birthDE>29. Oktober 1924</birthDE>
+<deathEN>July 28, 1998</deathEN>
+<deathDE>28. Juli 1998</deathDE>
+<birthPlace>
+<XML_Serializer_Tag>Lemberg</XML_Serializer_Tag>
+</birthPlace>
+<deathPlace>
+<XML_Serializer_Tag>Warschau</XML_Serializer_Tag>
+</deathPlace>
+<professionOrOccupation>
+<XML_Serializer_Tag>Dramatiker</XML_Serializer_Tag>
+<XML_Serializer_Tag>Lyriker</XML_Serializer_Tag>
+<XML_Serializer_Tag>Essayist</XML_Serializer_Tag>
+</professionOrOccupation>
+<dbpResource>http://dbpedia.org/resource/Zbigniew_Herbert</dbpResource>
+<abstract>Zbigniew Herbert (* 29. Oktober 1924 in Lemberg; † 28. Juli 1998 in Warschau) war polnischer Lyriker, Dramatiker und Essayist.</abstract>
+<wikilink>http://en.wikipedia.org/wiki/Zbigniew_Herbert?oldid=594110743</wikilink>
+<artworks />
+<buildings />
+<books />
+</Person>

@@ -15,12 +15,15 @@
 <XML_Serializer_Tag>Graphiker</XML_Serializer_Tag>
 <XML_Serializer_Tag>Zeichner</XML_Serializer_Tag>
 </professionOrOccupation>
+<dbpResource>http://dbpedia.org/resource/Thomas_Gainsborough</dbpResource>
+<abstract>Thomas Gainsborough, RA FRSA (* 14. Mai 1727 in Sudbury, Suffolk; † 2. August 1788 in London) war ein englischer Maler, der sich besonders der Porträt- und Landschaftsmalerei widmete. Er gilt neben William Hogarth und Joshua Reynolds als bedeutendster englischer Maler des 18. Jahrhunderts.</abstract>
+<wikilink>http://en.wikipedia.org/wiki/Thomas_Gainsborough?oldid=605306745</wikilink>
 <artworks>
 <XML_Serializer_Tag>
-<painting>
+<artwork>
 <type>uri</type>
 <value>http://dbpedia.org/resource/The_Blue_Boy</value>
-</painting>
+</artwork>
 <thumbnail>
 <type>uri</type>
 <value>http://commons.wikimedia.org/wiki/Special:FilePath/Thomas_Gainsborough_008.jpg?width=300</value>
@@ -44,12 +47,17 @@
 <type>uri</type>
 <value>http://en.wikipedia.org/wiki/The_Blue_Boy?oldid=606227789</value>
 </wikilink>
+<type>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>oil on canvas</value>
+</type>
 </XML_Serializer_Tag>
 <XML_Serializer_Tag>
-<painting>
+<artwork>
 <type>uri</type>
 <value>http://dbpedia.org/resource/Mr_and_Mrs_Andrews</value>
-</painting>
+</artwork>
 <thumbnail>
 <type>uri</type>
 <value>http://commons.wikimedia.org/wiki/Special:FilePath/Thomas_Gainsborough_-_Mr_and_Mrs_Andrews.jpg?width=300</value>
@@ -73,12 +81,17 @@
 <type>uri</type>
 <value>http://en.wikipedia.org/wiki/Mr_and_Mrs_Andrews?oldid=606739903</value>
 </wikilink>
+<type>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>oil on canvas</value>
+</type>
 </XML_Serializer_Tag>
 <XML_Serializer_Tag>
-<painting>
+<artwork>
 <type>uri</type>
 <value>http://dbpedia.org/resource/Mrs._Richard_Brinsley_Sheridan_(painting)</value>
-</painting>
+</artwork>
 <thumbnail>
 <type>uri</type>
 <value>http://commons.wikimedia.org/wiki/Special:FilePath/Thomas_Gainsborough_014.jpg?width=300</value>
@@ -97,12 +110,16 @@
 <type>uri</type>
 <value>http://en.wikipedia.org/wiki/Mrs._Richard_Brinsley_Sheridan_(painting)?oldid=590862761</value>
 </wikilink>
+<type>
+<type>uri</type>
+<value>http://dbpedia.org/resource/Oil_painting</value>
+</type>
 </XML_Serializer_Tag>
 <XML_Serializer_Tag>
-<painting>
+<artwork>
 <type>uri</type>
 <value>http://dbpedia.org/resource/The_Harvest_Wagon</value>
-</painting>
+</artwork>
 <thumbnail>
 <type>uri</type>
 <value>http://commons.wikimedia.org/wiki/Special:FilePath/Thomas_Gainsborough_001.jpg?width=300</value>
@@ -121,33 +138,12 @@
 <type>uri</type>
 <value>http://en.wikipedia.org/wiki/The_Harvest_Wagon?oldid=593148099</value>
 </wikilink>
-</XML_Serializer_Tag>
-<XML_Serializer_Tag>
-<painting>
+<type>
 <type>uri</type>
-<value>http://dbpedia.org/resource/The_Harvest_Wagon</value>
-</painting>
-<thumbnail>
-<type>uri</type>
-<value>http://commons.wikimedia.org/wiki/Special:FilePath/Thomas_Gainsborough_001.jpg?width=300</value>
-</thumbnail>
-<name>
-<type>literal</type>
-<xml:lang>en</xml:lang>
-<value>The Harvest Wagon</value>
-</name>
-<year>
-<type>literal</type>
-<xml:lang>en</xml:lang>
-<value>c. 1767</value>
-</year>
-<wikilink>
-<type>uri</type>
-<value>http://en.wikipedia.org/wiki/The_Harvest_Wagon?oldid=593148099</value>
-</wikilink>
+<value>http://dbpedia.org/resource/Oil_painting</value>
+</type>
 </XML_Serializer_Tag>
 </artworks>
-<dbpResource>http://dbpedia.org/resource/Thomas_Gainsborough</dbpResource>
-<abstract>Thomas Gainsborough, RA FRSA (* 14. Mai 1727 in Sudbury, Suffolk; † 2. August 1788 in London) war ein englischer Maler, der sich besonders der Porträt- und Landschaftsmalerei widmete. Er gilt neben William Hogarth und Joshua Reynolds als bedeutendster englischer Maler des 18. Jahrhunderts.</abstract>
-<wikilink>http://en.wikipedia.org/wiki/Thomas_Gainsborough?oldid=605306745</wikilink>
+<buildings />
+<books />
 </Person>

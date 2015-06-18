@@ -1,0 +1,31 @@
+<Person>
+<name>Rudolf Hans Bartsch</name>
+<variantName>
+<XML_Serializer_Tag>Rudolph Hans Bartsch</XML_Serializer_Tag>
+<XML_Serializer_Tag>Rudolf Bartsch</XML_Serializer_Tag>
+<XML_Serializer_Tag>Rudolf H. Bartsch</XML_Serializer_Tag>
+<XML_Serializer_Tag>Rud. Hans Bartsch</XML_Serializer_Tag>
+<XML_Serializer_Tag>Rolf Hans Bartsch</XML_Serializer_Tag>
+<XML_Serializer_Tag>Ernst Brandt</XML_Serializer_Tag>
+</variantName>
+<thumbnail>https://commons.wikimedia.org/wiki/Special:FilePath/WP_Rudolf_Hans_Bartsch.jpg?width=270</thumbnail>
+<birthEN>February 11, 1873</birthEN>
+<birthDE>11. Februar 1873</birthDE>
+<deathEN>February 7, 1952</deathEN>
+<deathDE>7. Februar 1952</deathDE>
+<birthPlace>
+<XML_Serializer_Tag>Graz</XML_Serializer_Tag>
+</birthPlace>
+<deathPlace>
+<XML_Serializer_Tag>Sankt Peter (Graz)</XML_Serializer_Tag>
+</deathPlace>
+<professionOrOccupation>
+<XML_Serializer_Tag>Schriftsteller</XML_Serializer_Tag>
+</professionOrOccupation>
+<dbpResource>http://dbpedia.org/resource/Rudolf_Hans_Bartsch</dbpResource>
+<abstract>Rudolf Hans Bartsch (* 11. Februar 1873 in Graz, Steiermark; † 7. Februar 1952 in St. Peter bei Graz) war österreichischer Offizier und Schriftsteller.</abstract>
+<wikilink>http://en.wikipedia.org/wiki/Rudolf_Hans_Bartsch?oldid=605476760</wikilink>
+<artworks />
+<buildings />
+<books />
+</Person>

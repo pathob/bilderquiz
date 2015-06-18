@@ -1,0 +1,29 @@
+<Person>
+<name>Gertrud Kolmar</name>
+<variantName>
+<XML_Serializer_Tag>Gertrud Chodziesner</XML_Serializer_Tag>
+<XML_Serializer_Tag>Gertrud Käthe Chodziesner</XML_Serializer_Tag>
+</variantName>
+<thumbnail>https://commons.wikimedia.org/wiki/Special:FilePath/Gedenktafel_Gertrud_Kolmar.jpg?width=270</thumbnail>
+<birthEN>December 10, 1894</birthEN>
+<birthDE>10. Dezember 1894</birthDE>
+<deathEN>1943</deathEN>
+<deathDE>1943</deathDE>
+<birthPlace>
+<XML_Serializer_Tag>Berlin</XML_Serializer_Tag>
+</birthPlace>
+<deathPlace>
+<XML_Serializer_Tag>Auschwitz</XML_Serializer_Tag>
+</deathPlace>
+<professionOrOccupation>
+<XML_Serializer_Tag>Schriftstellerin</XML_Serializer_Tag>
+<XML_Serializer_Tag>Lyrikerin</XML_Serializer_Tag>
+<XML_Serializer_Tag>Dramatikerin</XML_Serializer_Tag>
+</professionOrOccupation>
+<dbpResource>http://dbpedia.org/resource/Gertrud_Kolmar</dbpResource>
+<abstract>Gertrud Kolmar (Pseudonym für Gertrud Käthe Chodziesner, * 10. Dezember 1894 in Berlin; † vermutlich Anfang März 1943 in Auschwitz) war eine deutsche Lyrikerin und Schriftstellerin.</abstract>
+<wikilink>http://en.wikipedia.org/wiki/Gertrud_Kolmar?oldid=606350985</wikilink>
+<artworks />
+<buildings />
+<books />
+</Person>

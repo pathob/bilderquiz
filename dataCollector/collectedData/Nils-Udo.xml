@@ -19,8 +19,10 @@
 <XML_Serializer_Tag>Photograph</XML_Serializer_Tag>
 <XML_Serializer_Tag>Installationskünstler</XML_Serializer_Tag>
 </professionOrOccupation>
-<artworks />
 <dbpResource>http://dbpedia.org/resource/Nils-Udo</dbpResource>
 <abstract>Nils-Udo (* 1937 in Lauf an der Pegnitz, Mittelfranken), ist ein deutscher bildender Künstler, der insbesondere für seine Beiträge zur Land Art bekannt ist.</abstract>
 <wikilink>http://en.wikipedia.org/wiki/Nils-Udo?oldid=588961255</wikilink>
+<artworks />
+<buildings />
+<books />
 </Person>

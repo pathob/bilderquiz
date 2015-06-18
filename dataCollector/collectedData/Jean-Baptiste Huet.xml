@@ -15,8 +15,10 @@
 <XML_Serializer_Tag>Radierer</XML_Serializer_Tag>
 <XML_Serializer_Tag>Maler</XML_Serializer_Tag>
 </professionOrOccupation>
-<artworks />
 <dbpResource>http://dbpedia.org/resource/Jean-Baptiste_Huet</dbpResource>
 <abstract>Jean-Baptiste Marie Huet, Schreibweise teilweise Huët, auch Jean-Baptiste Huet I. oder Jean-Baptiste Huet der Ältere, (* 15. Oktober 1745 in Paris; † 27. August 1811 in Paris) war ein französischer Maler, Zeichner und Radierer.</abstract>
 <wikilink>http://en.wikipedia.org/wiki/Jean-Baptiste_Huet?oldid=554502603</wikilink>
+<artworks />
+<buildings />
+<books />
 </Person>

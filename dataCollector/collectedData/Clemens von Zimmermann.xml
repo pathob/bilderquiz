@@ -22,8 +22,10 @@
 <XML_Serializer_Tag>Lithograph</XML_Serializer_Tag>
 <XML_Serializer_Tag>Museumsdirektor</XML_Serializer_Tag>
 </professionOrOccupation>
-<artworks />
 <dbpResource>http://dbpedia.org/resource/Clemens_von_Zimmermann</dbpResource>
 <abstract>Clemens von Zimmermann (* 8. November 1788 in Düsseldorf; † 25. Januar 1869 in München) war ein deutscher Maler.</abstract>
 <wikilink>http://en.wikipedia.org/wiki/Clemens_von_Zimmermann?oldid=567722423</wikilink>
+<artworks />
+<buildings />
+<books />
 </Person>

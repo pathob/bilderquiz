@@ -1,0 +1,154 @@
+<Person>
+<name>Rudy Rucker</name>
+<variantName>
+<XML_Serializer_Tag>Rudolf von Bitter Rucker</XML_Serializer_Tag>
+<XML_Serializer_Tag>Rudy v. B. Rucker</XML_Serializer_Tag>
+<XML_Serializer_Tag>Rudolf v. B. Rucker</XML_Serializer_Tag>
+<XML_Serializer_Tag>Rudolf von Bitter Rucker</XML_Serializer_Tag>
+<XML_Serializer_Tag>Rubber Tire</XML_Serializer_Tag>
+</variantName>
+<thumbnail>https://commons.wikimedia.org/wiki/Special:FilePath/Rudyrucker.jpg?width=270</thumbnail>
+<birthEN>1946</birthEN>
+<birthDE>1946</birthDE>
+<deathEN />
+<deathDE />
+<birthPlace>
+<XML_Serializer_Tag>Louisville, Kentucky</XML_Serializer_Tag>
+</birthPlace>
+<deathPlace />
+<professionOrOccupation>
+<XML_Serializer_Tag>Mathematiker</XML_Serializer_Tag>
+<XML_Serializer_Tag>Schriftsteller</XML_Serializer_Tag>
+<XML_Serializer_Tag>Science-Fiction-Autor</XML_Serializer_Tag>
+</professionOrOccupation>
+<dbpResource>http://dbpedia.org/resource/Rudy_Rucker</dbpResource>
+<abstract>Rudy Rucker (eigentlich Rudolf von Bitter Rucker; * 22. März 1946 in Louisville, Kentucky) ist ein US-amerikanischer Mathematiker, Informatiker, Science-Fiction-Autor und Philosoph. Seine fiktionalen Werke werden zum Cyberpunk-Genre gerechnet. Er gilt als Mitbegründer dieser literarischen Bewegung. Die ersten beiden Romane seiner Ware-Romantetralogie, Software (1980) und Wetware machten ihn berühmt und gewannen Philip K. Dick Awards. Außerdem ist Rucker Verfasser zahlreicher populärer Sachbücher zu erkenntnistheoretischen Themen und Mitherausgeber des Science-Fiction-Magazins Flurb.</abstract>
+<wikilink>http://en.wikipedia.org/wiki/Rudy_Rucker?oldid=589906799</wikilink>
+<artworks />
+<buildings />
+<books>
+<XML_Serializer_Tag>
+<book>
+<type>uri</type>
+<value>http://dbpedia.org/resource/Postsingular</value>
+</book>
+<author>
+<type>uri</type>
+<value>http://dbpedia.org/resource/Rudy_Rucker</value>
+</author>
+<released>
+<type>typed-literal</type>
+<datatype>http://www.w3.org/2001/XMLSchema#gMonthDay</datatype>
+<value>0001-10-02+02:00</value>
+</released>
+<wikilink>
+<type>uri</type>
+<value>http://en.wikipedia.org/wiki/Postsingular?oldid=604960950</value>
+</wikilink>
+</XML_Serializer_Tag>
+<XML_Serializer_Tag>
+<book>
+<type>uri</type>
+<value>http://dbpedia.org/resource/White_Light_(novel)</value>
+</book>
+<author>
+<type>uri</type>
+<value>http://dbpedia.org/resource/Rudy_Rucker</value>
+</author>
+<released>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>Sep 1980</value>
+</released>
+<wikilink>
+<type>uri</type>
+<value>http://en.wikipedia.org/wiki/White_Light_(novel)?oldid=605434103</value>
+</wikilink>
+</XML_Serializer_Tag>
+<XML_Serializer_Tag>
+<book>
+<type>uri</type>
+<value>http://dbpedia.org/resource/Software_(novel)</value>
+</book>
+<author>
+<type>uri</type>
+<value>http://dbpedia.org/resource/Rudy_Rucker</value>
+</author>
+<released>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>January 1982</value>
+</released>
+<wikilink>
+<type>uri</type>
+<value>http://en.wikipedia.org/wiki/Software_(novel)?oldid=580333594</value>
+</wikilink>
+</XML_Serializer_Tag>
+<XML_Serializer_Tag>
+<book>
+<type>uri</type>
+<value>http://dbpedia.org/resource/The_Hacker_and_the_Ants</value>
+</book>
+<author>
+<type>uri</type>
+<value>http://dbpedia.org/resource/Rudy_Rucker</value>
+</author>
+<released>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>May 1994 ; May 1995</value>
+</released>
+<wikilink>
+<type>uri</type>
+<value>http://en.wikipedia.org/wiki/The_Hacker_and_the_Ants?oldid=488770394</value>
+</wikilink>
+</XML_Serializer_Tag>
+<XML_Serializer_Tag>
+<book>
+<type>uri</type>
+<value>http://dbpedia.org/resource/Wetware_(novel)</value>
+</book>
+<author>
+<type>uri</type>
+<value>http://dbpedia.org/resource/Rudy_Rucker</value>
+</author>
+<released>
+<type>typed-literal</type>
+<datatype>http://www.w3.org/2001/XMLSchema#integer</datatype>
+<value>1988</value>
+</released>
+<wikilink>
+<type>uri</type>
+<value>http://en.wikipedia.org/wiki/Wetware_(novel)?oldid=544945731</value>
+</wikilink>
+</XML_Serializer_Tag>
+<XML_Serializer_Tag>
+<book>
+<type>uri</type>
+<value>http://dbpedia.org/resource/Infinity_and_the_Mind</value>
+</book>
+<author>
+<type>uri</type>
+<value>http://dbpedia.org/resource/Rudy_Rucker</value>
+</author>
+<wikilink>
+<type>uri</type>
+<value>http://en.wikipedia.org/wiki/Infinity_and_the_Mind?oldid=596861360</value>
+</wikilink>
+</XML_Serializer_Tag>
+<XML_Serializer_Tag>
+<book>
+<type>uri</type>
+<value>http://dbpedia.org/resource/Mathematicians_in_Love</value>
+</book>
+<author>
+<type>uri</type>
+<value>http://dbpedia.org/resource/Rudy_Rucker</value>
+</author>
+<wikilink>
+<type>uri</type>
+<value>http://en.wikipedia.org/wiki/Mathematicians_in_Love?oldid=578672724</value>
+</wikilink>
+</XML_Serializer_Tag>
+</books>
+</Person>

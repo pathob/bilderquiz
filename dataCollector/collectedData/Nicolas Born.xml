@@ -1,0 +1,32 @@
+<Person>
+<name>Nicolas Born</name>
+<variantName>
+<XML_Serializer_Tag>Nīkūlās Būrn</XML_Serializer_Tag>
+<XML_Serializer_Tag>Nik&apos;ollasŭ Porŭn</XML_Serializer_Tag>
+<XML_Serializer_Tag>Nikolas Born</XML_Serializer_Tag>
+<XML_Serializer_Tag>니콜라스 보른</XML_Serializer_Tag>
+</variantName>
+<thumbnail>https://commons.wikimedia.org/wiki/Special:FilePath/SchriftstellerNicolasBorn1972.JPG?width=270</thumbnail>
+<birthEN>December 31, 1937</birthEN>
+<birthDE>31. Dezember 1937</birthDE>
+<deathEN>December 7, 1979</deathEN>
+<deathDE>7. Dezember 1979</deathDE>
+<birthPlace>
+<XML_Serializer_Tag>Duisburg</XML_Serializer_Tag>
+</birthPlace>
+<deathPlace>
+<XML_Serializer_Tag>Dannenberg</XML_Serializer_Tag>
+</deathPlace>
+<professionOrOccupation>
+<XML_Serializer_Tag>Lyriker</XML_Serializer_Tag>
+<XML_Serializer_Tag>Literaturkritiker</XML_Serializer_Tag>
+<XML_Serializer_Tag>Schriftsteller</XML_Serializer_Tag>
+<XML_Serializer_Tag>Chemiegraph</XML_Serializer_Tag>
+</professionOrOccupation>
+<dbpResource>http://dbpedia.org/resource/Nicolas_Born</dbpResource>
+<abstract>Nicolas Born (* 31. Dezember 1937 in Duisburg; † 7. Dezember 1979 in Breese in der Marsch bei Dannenberg im Landkreis Lüchow-Dannenberg; eigentlich Klaus Jürgen Born) war ein deutscher Schriftsteller.</abstract>
+<wikilink>http://en.wikipedia.org/wiki/Nicolas_Born?oldid=590267374</wikilink>
+<artworks />
+<buildings />
+<books />
+</Person>

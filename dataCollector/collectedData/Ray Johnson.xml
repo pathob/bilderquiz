@@ -1,0 +1,22 @@
+<Person>
+<name>Ray Johnson</name>
+<variantName>
+<XML_Serializer_Tag>Raymond Edward Johnson</XML_Serializer_Tag>
+</variantName>
+<thumbnail>https://en.wikipedia.org/wiki/Special:FilePath/Ray_Johnson.jpg?width=270</thumbnail>
+<birthEN>1927</birthEN>
+<birthDE>1927</birthDE>
+<deathEN>1995</deathEN>
+<deathDE>1995</deathDE>
+<birthPlace />
+<deathPlace />
+<professionOrOccupation>
+<XML_Serializer_Tag>Künstler</XML_Serializer_Tag>
+</professionOrOccupation>
+<dbpResource>http://dbpedia.org/resource/Ray_Johnson</dbpResource>
+<abstract>Ray Edward Johnson (* 16. Oktober 1927 in Detroit; † 13. Januar 1995 in New York City) war ein US-amerikanischer Künstler. Er gilt als Begründer der Mail Art.</abstract>
+<wikilink>http://en.wikipedia.org/wiki/Ray_Johnson?oldid=598941742</wikilink>
+<artworks />
+<buildings />
+<books />
+</Person>

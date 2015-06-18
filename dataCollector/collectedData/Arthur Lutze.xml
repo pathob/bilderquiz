@@ -1,0 +1,29 @@
+<Person>
+<name>Arthur Lutze</name>
+<variantName>
+<XML_Serializer_Tag>Artur Lutze</XML_Serializer_Tag>
+</variantName>
+<thumbnail>https://commons.wikimedia.org/wiki/Special:FilePath/Arthur_Lutze.jpg?width=270</thumbnail>
+<birthEN>June 1, 1813</birthEN>
+<birthDE>1. Juni 1813</birthDE>
+<deathEN>April 11, 1870</deathEN>
+<deathDE>11. April 1870</deathDE>
+<birthPlace>
+<XML_Serializer_Tag>Berlin</XML_Serializer_Tag>
+</birthPlace>
+<deathPlace>
+<XML_Serializer_Tag>Köthen (Anhalt)</XML_Serializer_Tag>
+</deathPlace>
+<professionOrOccupation>
+<XML_Serializer_Tag>Arzt</XML_Serializer_Tag>
+<XML_Serializer_Tag>Sanitätsrat</XML_Serializer_Tag>
+<XML_Serializer_Tag>Schriftsteller</XML_Serializer_Tag>
+<XML_Serializer_Tag>Homöopath</XML_Serializer_Tag>
+</professionOrOccupation>
+<dbpResource>http://dbpedia.org/resource/Arthur_Lutze</dbpResource>
+<abstract>Arthur Lutze (* 1. Juni 1813 in Berlin; † 11. April 1870 in Köthen) war ein Heilpraktiker, der sich zu seiner Zeit den Ruf eines Wunderheilers erwarb.</abstract>
+<wikilink>http://en.wikipedia.org/wiki/Arthur_Lutze?oldid=572187695</wikilink>
+<artworks />
+<buildings />
+<books />
+</Person>

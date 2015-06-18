@@ -1,0 +1,24 @@
+<Person>
+<name>Dan Graham</name>
+<variantName>
+<XML_Serializer_Tag>Dan H. Graham</XML_Serializer_Tag>
+</variantName>
+<thumbnail>https://commons.wikimedia.org/wiki/Special:FilePath/Pavillon_Dan-Graham.jpg?width=270</thumbnail>
+<birthEN>1942</birthEN>
+<birthDE>1942</birthDE>
+<deathEN />
+<deathDE />
+<birthPlace />
+<deathPlace />
+<professionOrOccupation>
+<XML_Serializer_Tag>Künstler</XML_Serializer_Tag>
+<XML_Serializer_Tag>Videokünstler</XML_Serializer_Tag>
+<XML_Serializer_Tag>Photograph</XML_Serializer_Tag>
+</professionOrOccupation>
+<dbpResource>http://dbpedia.org/resource/Dan_Graham</dbpResource>
+<abstract>Dan Graham (* 31. März 1942 in Urbana, Illinois) ist ein in New York lebender US-amerikanischer Bildhauer, Konzept- und Videokünstler.</abstract>
+<wikilink>http://en.wikipedia.org/wiki/Dan_Graham?oldid=606505194</wikilink>
+<artworks />
+<buildings />
+<books />
+</Person>

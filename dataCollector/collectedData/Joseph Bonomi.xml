@@ -1,0 +1,29 @@
+<Person>
+<name>Joseph Bonomi</name>
+<variantName>
+<XML_Serializer_Tag>, der Jüngere</XML_Serializer_Tag>
+</variantName>
+<thumbnail>https://commons.wikimedia.org/wiki/Special:FilePath/Joseph_Bonomi_the_Younger_by_Matilda_Sharpe.jpg?width=270</thumbnail>
+<birthEN>October 9, 1796</birthEN>
+<birthDE>9. Oktober 1796</birthDE>
+<deathEN>March 3, 1878</deathEN>
+<deathDE>3. März 1878</deathDE>
+<birthPlace>
+<XML_Serializer_Tag>Rom</XML_Serializer_Tag>
+</birthPlace>
+<deathPlace>
+<XML_Serializer_Tag>London</XML_Serializer_Tag>
+</deathPlace>
+<professionOrOccupation>
+<XML_Serializer_Tag>Künstler</XML_Serializer_Tag>
+<XML_Serializer_Tag>Bildhauer</XML_Serializer_Tag>
+<XML_Serializer_Tag>Ägyptologe</XML_Serializer_Tag>
+<XML_Serializer_Tag>Kurator (Museumskunde)</XML_Serializer_Tag>
+</professionOrOccupation>
+<dbpResource>http://dbpedia.org/resource/Joseph_Bonomi_the_Younger</dbpResource>
+<abstract>Joseph Bonomi, zur Unterscheidung von seinem gleichnamigen Vater der Jüngere genannt (* 9. Oktober 1796 in London; † 3. März 1878 in Wimbledon), war ein englischer Zeichner, Ägyptologe und Museumskurator.</abstract>
+<wikilink>http://en.wikipedia.org/wiki/Joseph_Bonomi_the_Younger?oldid=604772989</wikilink>
+<artworks />
+<buildings />
+<books />
+</Person>

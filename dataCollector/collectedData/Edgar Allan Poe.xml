@@ -1,0 +1,386 @@
+<Person>
+<name>Edgar Allan Poe</name>
+<variantName>
+<XML_Serializer_Tag>Edgar Poe</XML_Serializer_Tag>
+<XML_Serializer_Tag>Edg. Allan Poe</XML_Serializer_Tag>
+<XML_Serializer_Tag>Edgardo Poe</XML_Serializer_Tag>
+<XML_Serializer_Tag>Edkar Boj</XML_Serializer_Tag>
+<XML_Serializer_Tag>Edgar A. Poe</XML_Serializer_Tag>
+<XML_Serializer_Tag>Edgar Allen Poe</XML_Serializer_Tag>
+<XML_Serializer_Tag>Edgar Alan Poe</XML_Serializer_Tag>
+<XML_Serializer_Tag>Edjar Allan Poe</XML_Serializer_Tag>
+<XML_Serializer_Tag>Ėdgar Po</XML_Serializer_Tag>
+<XML_Serializer_Tag>Ėḍgār A. Po</XML_Serializer_Tag>
+<XML_Serializer_Tag>E. A. Poe</XML_Serializer_Tag>
+<XML_Serializer_Tag>Edgar Allan Poe</XML_Serializer_Tag>
+<XML_Serializer_Tag>Edgar Allan-Poe</XML_Serializer_Tag>
+<XML_Serializer_Tag>Edgar Allen Poe</XML_Serializer_Tag>
+<XML_Serializer_Tag>Edgar Po</XML_Serializer_Tag>
+<XML_Serializer_Tag>Ētkar Boy</XML_Serializer_Tag>
+<XML_Serializer_Tag>Edgard Poe͏̈</XML_Serializer_Tag>
+<XML_Serializer_Tag>&apos;Aggā &apos;Ayʿlan Pui</XML_Serializer_Tag>
+<XML_Serializer_Tag>Eḍgār Ālen Pō</XML_Serializer_Tag>
+<XML_Serializer_Tag>Edhar Po</XML_Serializer_Tag>
+<XML_Serializer_Tag>Ai de ge Ai lun Po</XML_Serializer_Tag>
+<XML_Serializer_Tag>Aidege-Ailun-Po</XML_Serializer_Tag>
+<XML_Serializer_Tag>Aidege Ailun Po</XML_Serializer_Tag>
+<XML_Serializer_Tag>Edgar Allen Po</XML_Serializer_Tag>
+<XML_Serializer_Tag>Edgar A. Perry</XML_Serializer_Tag>
+<XML_Serializer_Tag>Lavante</XML_Serializer_Tag>
+<XML_Serializer_Tag>Charles Quickens</XML_Serializer_Tag>
+</variantName>
+<thumbnail>https://commons.wikimedia.org/wiki/Special:FilePath/Edgar_Allan_Poe_1848.png?width=270</thumbnail>
+<birthEN>January 19, 1809</birthEN>
+<birthDE>19. Januar 1809</birthDE>
+<deathEN>October 7, 1849</deathEN>
+<deathDE>7. Oktober 1849</deathDE>
+<birthPlace>
+<XML_Serializer_Tag>Boston, Mass.</XML_Serializer_Tag>
+</birthPlace>
+<deathPlace>
+<XML_Serializer_Tag>Baltimore, Md.</XML_Serializer_Tag>
+</deathPlace>
+<professionOrOccupation>
+<XML_Serializer_Tag>Schriftsteller</XML_Serializer_Tag>
+<XML_Serializer_Tag>Lyriker</XML_Serializer_Tag>
+<XML_Serializer_Tag>Journalist</XML_Serializer_Tag>
+<XML_Serializer_Tag>Literaturkritiker</XML_Serializer_Tag>
+<XML_Serializer_Tag>Literaturwissenschaftler</XML_Serializer_Tag>
+</professionOrOccupation>
+<dbpResource>http://dbpedia.org/resource/Edgar_Allan_Poe</dbpResource>
+<abstract>Edgar Allan Poe (* 19. Januar 1809 in Boston, Massachusetts, USA; † 7. Oktober 1849 in Baltimore, Maryland) war ein US-amerikanischer Schriftsteller. Er prägte entscheidend die Genres der Kriminalliteratur, der Science-Fiction und der Horrorliteratur. Seine Poesie wurde zum Fundament des Symbolismus und damit der modernen Dichtung.</abstract>
+<wikilink>http://en.wikipedia.org/wiki/Edgar_Allan_Poe?oldid=605328916</wikilink>
+<artworks />
+<buildings />
+<books>
+<XML_Serializer_Tag>
+<book>
+<type>uri</type>
+<value>http://dbpedia.org/resource/Berenice_(short_story)</value>
+</book>
+<author>
+<type>uri</type>
+<value>http://dbpedia.org/resource/Edgar_Allan_Poe</value>
+</author>
+<thumbnail>
+<type>uri</type>
+<value>http://commons.wikimedia.org/wiki/Special:FilePath/Berenice(SLM).gif?width=300</value>
+</thumbnail>
+<released>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>March 1835</value>
+</released>
+<wikilink>
+<type>uri</type>
+<value>http://en.wikipedia.org/wiki/Berenice_(short_story)?oldid=585467439</value>
+</wikilink>
+<abstract>
+<type>literal</type>
+<xml:lang>de</xml:lang>
+<value>Berenice ist eine 1835 veröffentlichte Erzählung von Edgar Allan Poe. In ihr wird das Hinübergleiten des Ich-Erzählers in eine geistige Krankheit geschildert, die ihn schließlich eine grauenvolle Tat begehen lässt – ohne dass er sich dessen erinnern kann.</value>
+</abstract>
+</XML_Serializer_Tag>
+<XML_Serializer_Tag>
+<book>
+<type>uri</type>
+<value>http://dbpedia.org/resource/The_Narrative_of_Arthur_Gordon_Pym_of_Nantucket</value>
+</book>
+<author>
+<type>uri</type>
+<value>http://dbpedia.org/resource/Edgar_Allan_Poe</value>
+</author>
+<thumbnail>
+<type>uri</type>
+<value>http://en.wikipedia.org/wiki/Special:FilePath/Pym_1938_book_cover.jpg?width=300</value>
+</thumbnail>
+<released>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>July 1838</value>
+</released>
+<wikilink>
+<type>uri</type>
+<value>http://en.wikipedia.org/wiki/The_Narrative_of_Arthur_Gordon_Pym_of_Nantucket?oldid=606595081</value>
+</wikilink>
+<abstract>
+<type>literal</type>
+<xml:lang>de</xml:lang>
+<value>Der Bericht des Arthur Gordon Pym bzw. seltener auch Die denkwürdigen Erlebnisse des Arthur Gordon Pym oder Die Abenteuer des Arthur Gordon Pym (Originaltitel: The Narrative of Arthur Gordon Pym of Nantucket) ist der einzige Roman von Edgar Allan Poe, erstmals veröffentlicht im Jahre 1838. Er beschreibt das Leben des A. G. Pym, der von seiner Jugend an Abenteuer auf See sucht und überlebt, die allmählich seine Einstellung zum Leben verändern. Die Art der Abenteuer sind zum Teil realistisch (Schiffbruch und Meuterei), zum Teil phantastisch (heiße Strömungen und Stromschnellen im Ozean des Südens). Der Roman ist das längste Prosawerk Poes und gilt als eine seiner rätselhaftesten Arbeiten.</value>
+</abstract>
+</XML_Serializer_Tag>
+<XML_Serializer_Tag>
+<book>
+<type>uri</type>
+<value>http://dbpedia.org/resource/The_Purloined_Letter</value>
+</book>
+<author>
+<type>uri</type>
+<value>http://dbpedia.org/resource/Edgar_Allan_Poe</value>
+</author>
+<thumbnail>
+<type>uri</type>
+<value>http://commons.wikimedia.org/wiki/Special:FilePath/The_purloined_letter_the_gift_1845_2.jpg?width=300</value>
+</thumbnail>
+<released>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>December 1844</value>
+</released>
+<wikilink>
+<type>uri</type>
+<value>http://en.wikipedia.org/wiki/The_Purloined_Letter?oldid=603115659</value>
+</wikilink>
+<abstract>
+<type>literal</type>
+<xml:lang>de</xml:lang>
+<value>Der entwendete Brief (englischer Originaltitel The purloined letter) ist eine Detektivgeschichte von Edgar Allan Poe, die erstmals 1844 veröffentlicht wurde.</value>
+</abstract>
+</XML_Serializer_Tag>
+<XML_Serializer_Tag>
+<book>
+<type>uri</type>
+<value>http://dbpedia.org/resource/The_Mystery_of_Marie_Rog%C3%AAt</value>
+</book>
+<author>
+<type>uri</type>
+<value>http://dbpedia.org/resource/Edgar_Allan_Poe</value>
+</author>
+<thumbnail>
+<type>uri</type>
+<value>http://commons.wikimedia.org/wiki/Special:FilePath/Ladies&apos;_Companion_Nov_1842_Roget.jpg?width=300</value>
+</thumbnail>
+<released>
+<type>typed-literal</type>
+<datatype>http://www.w3.org/2001/XMLSchema#integer</datatype>
+<value>1842</value>
+</released>
+<wikilink>
+<type>uri</type>
+<value>http://en.wikipedia.org/wiki/The_Mystery_of_Marie_Rogêt?oldid=604602909</value>
+</wikilink>
+<abstract>
+<type>literal</type>
+<xml:lang>de</xml:lang>
+<value>Das Geheimnis der Marie Rogêt (englischer Originaltitel The Mystery of Marie Rogêt) ist eine Kurzgeschichte des US-amerikanischen Schriftstellers Edgar Allan Poe, die 1842 veröffentlicht wurde. Sie ist eine von Poes drei Detektivgeschichten um C. Auguste Dupin, zu denen auch Der Doppelmord in der Rue Morgue und Der entwendete Brief zählen.</value>
+</abstract>
+</XML_Serializer_Tag>
+<XML_Serializer_Tag>
+<book>
+<type>uri</type>
+<value>http://dbpedia.org/resource/Tamerlane_and_Other_Poems</value>
+</book>
+<author>
+<type>uri</type>
+<value>http://dbpedia.org/resource/Edgar_Allan_Poe</value>
+</author>
+<thumbnail>
+<type>uri</type>
+<value>http://commons.wikimedia.org/wiki/Special:FilePath/TamerlaneAndOtherPoems.jpg?width=300</value>
+</thumbnail>
+<released>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>July 1827</value>
+</released>
+<wikilink>
+<type>uri</type>
+<value>http://en.wikipedia.org/wiki/Tamerlane_and_Other_Poems?oldid=588547031</value>
+</wikilink>
+<abstract>
+<type>literal</type>
+<xml:lang>de</xml:lang>
+<value>Tamerlane and Other Poems ist das erste veröffentlichte Werk des US-amerikanischen Schriftstellers Edgar Allan Poe. Der nur 40 Seiten umfassende Gedichtband erschien 1827. Soweit bekannt, existieren heute nur noch zwölf Exemplare des Buchs.</value>
+</abstract>
+</XML_Serializer_Tag>
+<XML_Serializer_Tag>
+<book>
+<type>uri</type>
+<value>http://dbpedia.org/resource/The_Conchologist&apos;s_First_Book</value>
+</book>
+<author>
+<type>uri</type>
+<value>http://dbpedia.org/resource/Edgar_Allan_Poe</value>
+</author>
+<thumbnail>
+<type>uri</type>
+<value>http://commons.wikimedia.org/wiki/Special:FilePath/The_Conchologists_First_Book_Cover.jpg?width=300</value>
+</thumbnail>
+<released>
+<type>typed-literal</type>
+<datatype>http://www.w3.org/2001/XMLSchema#integer</datatype>
+<value>1839</value>
+</released>
+<wikilink>
+<type>uri</type>
+<value>http://en.wikipedia.org/wiki/The_Conchologist&apos;s_First_Book?oldid=602236627</value>
+</wikilink>
+</XML_Serializer_Tag>
+<XML_Serializer_Tag>
+<book>
+<type>uri</type>
+<value>http://dbpedia.org/resource/The_Journal_of_Julius_Rodman</value>
+</book>
+<author>
+<type>uri</type>
+<value>http://dbpedia.org/resource/Edgar_Allan_Poe</value>
+</author>
+<thumbnail>
+<type>uri</type>
+<value>http://commons.wikimedia.org/wiki/Special:FilePath/Rodman_cover_1947_colt.jpg?width=300</value>
+</thumbnail>
+<released>
+<type>typed-literal</type>
+<datatype>http://www.w3.org/2001/XMLSchema#integer</datatype>
+<value>1840</value>
+</released>
+<wikilink>
+<type>uri</type>
+<value>http://en.wikipedia.org/wiki/The_Journal_of_Julius_Rodman?oldid=512611524</value>
+</wikilink>
+</XML_Serializer_Tag>
+<XML_Serializer_Tag>
+<book>
+<type>uri</type>
+<value>http://dbpedia.org/resource/Tales_of_the_Grotesque_and_Arabesque</value>
+</book>
+<author>
+<type>uri</type>
+<value>http://dbpedia.org/resource/Edgar_Allan_Poe</value>
+</author>
+<thumbnail>
+<type>uri</type>
+<value>http://commons.wikimedia.org/wiki/Special:FilePath/GrotesqueAndArabesque.jpg?width=300</value>
+</thumbnail>
+<released>
+<type>typed-literal</type>
+<datatype>http://www.w3.org/2001/XMLSchema#integer</datatype>
+<value>1840</value>
+</released>
+<wikilink>
+<type>uri</type>
+<value>http://en.wikipedia.org/wiki/Tales_of_the_Grotesque_and_Arabesque?oldid=594271728</value>
+</wikilink>
+</XML_Serializer_Tag>
+<XML_Serializer_Tag>
+<book>
+<type>uri</type>
+<value>http://dbpedia.org/resource/A_Descent_into_the_Maelstr%C3%B6m</value>
+</book>
+<author>
+<type>uri</type>
+<value>http://dbpedia.org/resource/Edgar_Allan_Poe</value>
+</author>
+<thumbnail>
+<type>uri</type>
+<value>http://en.wikipedia.org/wiki/Special:FilePath/Maelstrom-Clarke.jpg?width=300</value>
+</thumbnail>
+<published>
+<type>typed-literal</type>
+<datatype>http://www.w3.org/2001/XMLSchema#integer</datatype>
+<value>1841</value>
+</published>
+<wikilink>
+<type>uri</type>
+<value>http://en.wikipedia.org/wiki/A_Descent_into_the_Maelström?oldid=600707991</value>
+</wikilink>
+<abstract>
+<type>literal</type>
+<xml:lang>de</xml:lang>
+<value>Hinab in den Maelström (im Englischen Original A Descent into the Maelström) ist eine Kurzgeschichte des amerikanischen Schriftstellers Edgar Allan Poe aus dem Jahre 1841 (erschienen im Graham’s Magazine), in der ein alter Mann wiedergibt, wie er aus einem Schiffswrack und einem Wasserstrudel entkam. Das Werk gilt als frühe Form des Science Fiction.</value>
+</abstract>
+</XML_Serializer_Tag>
+<XML_Serializer_Tag>
+<book>
+<type>uri</type>
+<value>http://dbpedia.org/resource/Ligeia</value>
+</book>
+<author>
+<type>uri</type>
+<value>http://dbpedia.org/resource/Edgar_Allan_Poe</value>
+</author>
+<thumbnail>
+<type>uri</type>
+<value>http://commons.wikimedia.org/wiki/Special:FilePath/Ligeia-Clarke.jpg?width=300</value>
+</thumbnail>
+<wikilink>
+<type>uri</type>
+<value>http://en.wikipedia.org/wiki/Ligeia?oldid=585235909</value>
+</wikilink>
+<abstract>
+<type>literal</type>
+<xml:lang>de</xml:lang>
+<value>Ligeia ist eine 1838 erschienene Erzählung von Edgar Allan Poe, in deren Mittelpunkt die Reinkarnation einer Person in einer anderen steht.</value>
+</abstract>
+</XML_Serializer_Tag>
+<XML_Serializer_Tag>
+<book>
+<type>uri</type>
+<value>http://dbpedia.org/resource/The_Murders_in_the_Rue_Morgue</value>
+</book>
+<author>
+<type>uri</type>
+<value>http://dbpedia.org/resource/Edgar_Allan_Poe</value>
+</author>
+<thumbnail>
+<type>uri</type>
+<value>http://commons.wikimedia.org/wiki/Special:FilePath/RueMorgueManuscript.jpg?width=300</value>
+</thumbnail>
+<wikilink>
+<type>uri</type>
+<value>http://en.wikipedia.org/wiki/The_Murders_in_the_Rue_Morgue?oldid=606670433</value>
+</wikilink>
+<abstract>
+<type>literal</type>
+<xml:lang>de</xml:lang>
+<value>Der Doppelmord in der Rue Morgue (The Murders in the Rue Morgue [ry: mɔrg]) ist eine Kurzgeschichte des US-amerikanischen Schriftstellers Edgar Allan Poe. Sie ist die erste von drei Kurzgeschichten, die sich um den deduktiv analysierenden Krimihelden C. Auguste Dupin drehen.</value>
+</abstract>
+</XML_Serializer_Tag>
+<XML_Serializer_Tag>
+<book>
+<type>uri</type>
+<value>http://dbpedia.org/resource/The_Cask_of_Amontillado</value>
+</book>
+<author>
+<type>uri</type>
+<value>http://dbpedia.org/resource/Edgar_Allan_Poe</value>
+</author>
+<thumbnail>
+<type>uri</type>
+<value>http://commons.wikimedia.org/wiki/Special:FilePath/CaskofAmontillado-Clarke.jpg?width=300</value>
+</thumbnail>
+<wikilink>
+<type>uri</type>
+<value>http://en.wikipedia.org/wiki/The_Cask_of_Amontillado?oldid=606410347</value>
+</wikilink>
+<abstract>
+<type>literal</type>
+<xml:lang>de</xml:lang>
+<value>Das Fass Amontillado, engl. „The Cask of Amontillado“, ist eine der berühmten späten Kurzgeschichten von Edgar Allan Poe.</value>
+</abstract>
+</XML_Serializer_Tag>
+<XML_Serializer_Tag>
+<book>
+<type>uri</type>
+<value>http://dbpedia.org/resource/The_Facts_in_the_Case_of_M._Valdemar</value>
+</book>
+<author>
+<type>uri</type>
+<value>http://dbpedia.org/resource/Edgar_Allan_Poe</value>
+</author>
+<thumbnail>
+<type>uri</type>
+<value>http://commons.wikimedia.org/wiki/Special:FilePath/Valdemar-Clarke.jpg?width=300</value>
+</thumbnail>
+<wikilink>
+<type>uri</type>
+<value>http://en.wikipedia.org/wiki/The_Facts_in_the_Case_of_M._Valdemar?oldid=590832419</value>
+</wikilink>
+<abstract>
+<type>literal</type>
+<xml:lang>de</xml:lang>
+<value>Die Tatsachen im Fall Waldemar (im englischen Original The Facts in the Case of M. Valdemar) ist eine Kurzgeschichte des US-amerikanischen Schriftstellers Edgar Allan Poe, veröffentlicht im Dezember 1845 als Hoax. Erst später gab der Autor bekannt, dass das als Artikel in einer Zeitschrift erschienene Schriftstück reine Fiktion sei.Das lyrische Ich der Kurzgeschichte hypnotisiert einen sterbenden Freund, um den Effekt des animalischen Magnetismus auf den sterbenden Körper eines Menschen beobachten zu können. Die Beschreibung dieser Effekte macht den Großteil der Kurzgeschichte aus.</value>
+</abstract>
+</XML_Serializer_Tag>
+</books>
+</Person>

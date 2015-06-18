@@ -13,8 +13,10 @@
 <XML_Serializer_Tag>Graphiker</XML_Serializer_Tag>
 <XML_Serializer_Tag>Bühnenbildner</XML_Serializer_Tag>
 </professionOrOccupation>
-<artworks />
 <dbpResource>http://dbpedia.org/resource/Bruno_Bischofberger</dbpResource>
 <abstract>Bruno Bischofberger (* 1940) ist ein Schweizer Kunsthändler und Galerist.</abstract>
 <wikilink>http://en.wikipedia.org/wiki/Bruno_Bischofberger?oldid=605200375</wikilink>
+<artworks />
+<buildings />
+<books />
 </Person>

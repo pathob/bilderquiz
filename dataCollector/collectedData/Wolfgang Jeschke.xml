@@ -1,0 +1,50 @@
+<Person>
+<name>Wolfgang Jeschke</name>
+<variantName>
+<XML_Serializer_Tag>Volfgang Ješke</XML_Serializer_Tag>
+</variantName>
+<thumbnail>https://commons.wikimedia.org/wiki/Special:FilePath/Wolfgang_Jeschke.jpg?width=270</thumbnail>
+<birthEN>1936</birthEN>
+<birthDE>1936</birthDE>
+<deathEN />
+<deathDE />
+<birthPlace>
+<XML_Serializer_Tag>Tetschen</XML_Serializer_Tag>
+</birthPlace>
+<deathPlace />
+<professionOrOccupation>
+<XML_Serializer_Tag>Schriftsteller</XML_Serializer_Tag>
+<XML_Serializer_Tag>Herausgeber</XML_Serializer_Tag>
+</professionOrOccupation>
+<dbpResource>http://dbpedia.org/resource/Wolfgang_Jeschke</dbpResource>
+<abstract>Wolfgang Jeschke (* 19. November 1936 in Tetschen, Tschechoslowakei) ist ein deutscher Schriftsteller und Science-Fiction-Herausgeber, etwa von Science-Fiction-Reihen im Heyne-Verlag (München). Neben zahlreichen Werken gab er über 100 für die deutsche SF mitbestimmende Anthologien heraus sowie die Science-Fiction-Jahrbücher, die neben literarischen Entdeckungen vor allem sekundärliterarische Beiträge wie Essays und Interviews zur Science-Fiction enthalten.</abstract>
+<wikilink>http://en.wikipedia.org/wiki/Wolfgang_Jeschke?oldid=599105518</wikilink>
+<artworks />
+<buildings />
+<books>
+<XML_Serializer_Tag>
+<book>
+<type>uri</type>
+<value>http://dbpedia.org/resource/The_Last_Day_of_Creation</value>
+</book>
+<author>
+<type>uri</type>
+<value>http://dbpedia.org/resource/Wolfgang_Jeschke</value>
+</author>
+<released>
+<type>typed-literal</type>
+<datatype>http://www.w3.org/2001/XMLSchema#integer</datatype>
+<value>1981</value>
+</released>
+<wikilink>
+<type>uri</type>
+<value>http://en.wikipedia.org/wiki/The_Last_Day_of_Creation?oldid=544781812</value>
+</wikilink>
+<abstract>
+<type>literal</type>
+<xml:lang>de</xml:lang>
+<value>Der letzte Tag der Schöpfung ist ein Science Fiction-Roman zum Thema Zeitreise in Verbindung mit der Peak Oil-Thematik des deutschen Schriftstellers Wolfgang Jeschke, der erstmals 1981 in Deutschland veröffentlicht wurde. Die englische Übersetzung ist erstmals im Jahre 1982 in den USA und Großbritannien erschienen.</value>
+</abstract>
+</XML_Serializer_Tag>
+</books>
+</Person>

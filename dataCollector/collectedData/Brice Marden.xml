@@ -1,0 +1,22 @@
+<Person>
+<name>Brice Marden</name>
+<variantName>
+<XML_Serializer_Tag>Nicholas Brice Marden</XML_Serializer_Tag>
+</variantName>
+<thumbnail>https://commons.wikimedia.org/wiki/Special:FilePath/The_Dylan_Painting.jpg?width=270</thumbnail>
+<birthEN>1938</birthEN>
+<birthDE>1938</birthDE>
+<deathEN />
+<deathDE />
+<birthPlace />
+<deathPlace />
+<professionOrOccupation>
+<XML_Serializer_Tag>Künstler</XML_Serializer_Tag>
+</professionOrOccupation>
+<dbpResource>http://dbpedia.org/resource/Brice_Marden</dbpResource>
+<abstract>Brice Marden (* 15. Oktober 1938 in Bronxville, New York) ist ein US-amerikanischer Künstler. Häufig wird er als Vertreter des Minimalismus eingeordnet, obwohl sein Werk nicht ausschließlich dieser Strömung zugerechnet werden kann.</abstract>
+<wikilink>http://en.wikipedia.org/wiki/Brice_Marden?oldid=605403827</wikilink>
+<artworks />
+<buildings />
+<books />
+</Person>

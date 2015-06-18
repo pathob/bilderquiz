@@ -1,0 +1,29 @@
+<Person>
+<name>Anna Freud</name>
+<variantName>
+<XML_Serializer_Tag>Anna Phroy͏̈nt</XML_Serializer_Tag>
+<XML_Serializer_Tag>Annā Frūīd</XML_Serializer_Tag>
+<XML_Serializer_Tag>Anna Freida</XML_Serializer_Tag>
+</variantName>
+<thumbnail>https://commons.wikimedia.org/wiki/Special:FilePath/Sigmund_en_Anna.jpg?width=270</thumbnail>
+<birthEN>December 3, 1895</birthEN>
+<birthDE>3. Dezember 1895</birthDE>
+<deathEN>October 8, 1982</deathEN>
+<deathDE>8. Oktober 1982</deathDE>
+<birthPlace>
+<XML_Serializer_Tag>Wien</XML_Serializer_Tag>
+</birthPlace>
+<deathPlace>
+<XML_Serializer_Tag>London</XML_Serializer_Tag>
+</deathPlace>
+<professionOrOccupation>
+<XML_Serializer_Tag>Psychoanalytikerin</XML_Serializer_Tag>
+<XML_Serializer_Tag>Schriftstellerin</XML_Serializer_Tag>
+</professionOrOccupation>
+<dbpResource>http://dbpedia.org/resource/Anna_Freud</dbpResource>
+<abstract>Anna Freud (* 3. Dezember 1895 in Wien; † 9. Oktober 1982 in London), Tochter Sigmund Freuds, war eine österreichisch-britische Psychoanalytikerin. Geboren im Vielvölkerstaat Österreich-Ungarn, emigrierte sie mit Eltern und Geschwistern 1938 von Wien aus nach Großbritannien und erwarb die britische Staatsbürgerschaft. Ihre Verdienste lagen vor allem im Bereich der Kinderanalyse.</abstract>
+<wikilink>http://en.wikipedia.org/wiki/Anna_Freud?oldid=606280025</wikilink>
+<artworks />
+<buildings />
+<books />
+</Person>

@@ -11,12 +11,15 @@
 <professionOrOccupation>
 <XML_Serializer_Tag>Maler</XML_Serializer_Tag>
 </professionOrOccupation>
+<dbpResource>http://dbpedia.org/resource/Alexandre_Cabanel</dbpResource>
+<abstract>Alexandre Cabanel (* 28. September 1823 in Montpellier; † 23. Januar 1889 in Paris) war ein akademischer französischer Historienmaler, Mitglied der Académie des Beaux-Arts und Professor an der École des beaux-arts in Paris.</abstract>
+<wikilink>http://en.wikipedia.org/wiki/Alexandre_Cabanel?oldid=600626929</wikilink>
 <artworks>
 <XML_Serializer_Tag>
-<painting>
+<artwork>
 <type>uri</type>
 <value>http://dbpedia.org/resource/The_Birth_of_Venus_(Cabanel)</value>
-</painting>
+</artwork>
 <thumbnail>
 <type>uri</type>
 <value>http://commons.wikimedia.org/wiki/Special:FilePath/Alexandre_Cabanel_-_The_Birth_of_Venus_-_Google_Art_Project_2.jpg?width=300</value>
@@ -40,12 +43,16 @@
 <type>uri</type>
 <value>http://en.wikipedia.org/wiki/The_Birth_of_Venus_(Cabanel)?oldid=586550711</value>
 </wikilink>
+<type>
+<type>uri</type>
+<value>http://dbpedia.org/resource/Oil_painting</value>
+</type>
 </XML_Serializer_Tag>
 <XML_Serializer_Tag>
-<painting>
+<artwork>
 <type>uri</type>
 <value>http://dbpedia.org/resource/Cleopatra_Testing_Poisons_on_Condemned_Prisoners</value>
-</painting>
+</artwork>
 <thumbnail>
 <type>uri</type>
 <value>http://commons.wikimedia.org/wiki/Special:FilePath/Alexandre_Cabanel_-_Cléopatre_essayant_des_poisons_sur_des_condamnés_à_mort.jpg?width=300</value>
@@ -64,9 +71,13 @@
 <type>uri</type>
 <value>http://en.wikipedia.org/wiki/Cleopatra_Testing_Poisons_on_Condemned_Prisoners?oldid=563575671</value>
 </wikilink>
+<type>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>oil on canvas</value>
+</type>
 </XML_Serializer_Tag>
 </artworks>
-<dbpResource>http://dbpedia.org/resource/Alexandre_Cabanel</dbpResource>
-<abstract>Alexandre Cabanel (* 28. September 1823 in Montpellier; † 23. Januar 1889 in Paris) war ein akademischer französischer Historienmaler, Mitglied der Académie des Beaux-Arts und Professor an der École des beaux-arts in Paris.</abstract>
-<wikilink>http://en.wikipedia.org/wiki/Alexandre_Cabanel?oldid=600626929</wikilink>
+<buildings />
+<books />
 </Person>

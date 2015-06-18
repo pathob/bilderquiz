@@ -1,0 +1,175 @@
+<Person>
+<name>Donatello</name>
+<variantName>
+<XML_Serializer_Tag>Donato, di Niccolò di Betto Bardi</XML_Serializer_Tag>
+<XML_Serializer_Tag>Donatello, di Niccolò di Betto Bardi</XML_Serializer_Tag>
+<XML_Serializer_Tag>Donatello, Sculptor</XML_Serializer_Tag>
+<XML_Serializer_Tag>Donatello, Florentine</XML_Serializer_Tag>
+<XML_Serializer_Tag>Donatelliano</XML_Serializer_Tag>
+<XML_Serializer_Tag>Donatello, al Santo</XML_Serializer_Tag>
+<XML_Serializer_Tag>Donatello, del Santo</XML_Serializer_Tag>
+</variantName>
+<thumbnail>https://commons.wikimedia.org/wiki/Special:FilePath/Sangiovannievangelista.jpg?width=270</thumbnail>
+<birthEN>1386</birthEN>
+<birthDE>1386</birthDE>
+<deathEN>1466</deathEN>
+<deathDE>1466</deathDE>
+<birthPlace />
+<deathPlace />
+<professionOrOccupation>
+<XML_Serializer_Tag>Künstler</XML_Serializer_Tag>
+</professionOrOccupation>
+<dbpResource>http://dbpedia.org/resource/Donatello</dbpResource>
+<abstract>Donatello, eigentlich Donato di Niccolò di Betto Bardi (* um 1386 in Florenz; † am 13. Dezember 1466 in Florenz) war ein italienischer Bildhauer.</abstract>
+<wikilink>http://en.wikipedia.org/wiki/Donatello?oldid=594960152</wikilink>
+<artworks>
+<XML_Serializer_Tag>
+<artwork>
+<type>uri</type>
+<value>http://dbpedia.org/resource/Judith_and_Holofernes_(Donatello)</value>
+</artwork>
+<thumbnail>
+<type>uri</type>
+<value>http://commons.wikimedia.org/wiki/Special:FilePath/Firenze.PalVecchio.Donatello.JPG?width=300</value>
+</thumbnail>
+<name>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>Judith and Holofernes</value>
+</name>
+<year>
+<type>typed-literal</type>
+<datatype>http://www.w3.org/2001/XMLSchema#integer</datatype>
+<value>1460</value>
+</year>
+<abstract>
+<type>literal</type>
+<xml:lang>de</xml:lang>
+<value>Judith und Holofernes ist eine Plastik aus Bronze, die der Florentiner Bildhauer Donatello zwischen 1453 und 1457 als Figur für einen Brunnen im Garten des Palazzo Medici in Florenz geschaffen hat. Heute wird das Original im Palazzo Vecchio in Florenz aufbewahrt. Dargestellt ist die Ermordung des Generals Holofernes durch Judith, die ihr Volk und ihr Land durch diese Tat vor der Eroberung durch die Assyrer retten kann. Die „Judith und Holofernes“-Gruppe und der damals ebenfalls im Medici-Garten stehende „David“ gelten als eine der ersten allansichtigen Plastiken der frühen Renaissance. Eine Kopie ist heute auf der Piazza della Signoria vor dem Palazzo Vecchio in Florenz „im Schatten“ von Michelangelos David aufgestellt.</value>
+</abstract>
+<wikilink>
+<type>uri</type>
+<value>http://en.wikipedia.org/wiki/Judith_and_Holofernes_(Donatello)?oldid=586388406</value>
+</wikilink>
+<type>
+<type>uri</type>
+<value>http://dbpedia.org/resource/Bronze</value>
+</type>
+</XML_Serializer_Tag>
+<XML_Serializer_Tag>
+<artwork>
+<type>uri</type>
+<value>http://dbpedia.org/resource/Penitent_Magdalene_(Donatello)</value>
+</artwork>
+<thumbnail>
+<type>uri</type>
+<value>http://commons.wikimedia.org/wiki/Special:FilePath/Donatello,_maria_maddalena_02.JPG?width=300</value>
+</thumbnail>
+<name>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>Magdalene Penitent</value>
+</name>
+<year>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>c. 1453-1455</value>
+</year>
+<wikilink>
+<type>uri</type>
+<value>http://en.wikipedia.org/wiki/Penitent_Magdalene_(Donatello)?oldid=582838493</value>
+</wikilink>
+<type>
+<type>uri</type>
+<value>http://dbpedia.org/resource/Wood</value>
+</type>
+</XML_Serializer_Tag>
+<XML_Serializer_Tag>
+<artwork>
+<type>uri</type>
+<value>http://dbpedia.org/resource/Saint_Mark_(Donatello)</value>
+</artwork>
+<thumbnail>
+<type>uri</type>
+<value>http://commons.wikimedia.org/wiki/Special:FilePath/Stmark.jpg?width=300</value>
+</thumbnail>
+<name>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>St. Mark</value>
+</name>
+<year>
+<type>typed-literal</type>
+<datatype>http://www.w3.org/2001/XMLSchema#integer</datatype>
+<value>1411</value>
+</year>
+<wikilink>
+<type>uri</type>
+<value>http://en.wikipedia.org/wiki/Saint_Mark_(Donatello)?oldid=590565142</value>
+</wikilink>
+<type>
+<type>uri</type>
+<value>http://dbpedia.org/resource/Marble</value>
+</type>
+</XML_Serializer_Tag>
+<XML_Serializer_Tag>
+<artwork>
+<type>uri</type>
+<value>http://dbpedia.org/resource/Equestrian_statue_of_Gattamelata</value>
+</artwork>
+<thumbnail>
+<type>uri</type>
+<value>http://commons.wikimedia.org/wiki/Special:FilePath/Gattamelata.jpg?width=300</value>
+</thumbnail>
+<name>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>Equestrian statue of Gattamelata</value>
+</name>
+<year>
+<type>typed-literal</type>
+<datatype>http://www.w3.org/2001/XMLSchema#integer</datatype>
+<value>1453</value>
+</year>
+<wikilink>
+<type>uri</type>
+<value>http://en.wikipedia.org/wiki/Equestrian_statue_of_Gattamelata?oldid=597733298</value>
+</wikilink>
+<type>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>Bronze</value>
+</type>
+</XML_Serializer_Tag>
+<XML_Serializer_Tag>
+<artwork>
+<type>uri</type>
+<value>http://dbpedia.org/resource/Zuccone</value>
+</artwork>
+<thumbnail>
+<type>uri</type>
+<value>http://commons.wikimedia.org/wiki/Special:FilePath/Zuccone_Donatello_OPA_Florence.jpg?width=300</value>
+</thumbnail>
+<name>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>Zuccone</value>
+</name>
+<year>
+<type>typed-literal</type>
+<datatype>http://www.w3.org/2001/XMLSchema#integer</datatype>
+<value>1423</value>
+</year>
+<wikilink>
+<type>uri</type>
+<value>http://en.wikipedia.org/wiki/Zuccone?oldid=599055780</value>
+</wikilink>
+<type>
+<type>uri</type>
+<value>http://dbpedia.org/resource/Marble</value>
+</type>
+</XML_Serializer_Tag>
+</artworks>
+<buildings />
+<books />
+</Person>

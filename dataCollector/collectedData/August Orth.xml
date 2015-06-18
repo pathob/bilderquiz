@@ -1,0 +1,23 @@
+<Person>
+<name>August Orth</name>
+<variantName>
+<XML_Serializer_Tag>August Friedrich Wilhelm Orth</XML_Serializer_Tag>
+<XML_Serializer_Tag>August Friedr. Wilh. Orth</XML_Serializer_Tag>
+</variantName>
+<thumbnail>https://commons.wikimedia.org/wiki/Special:FilePath/August_Orth.jpg?width=270</thumbnail>
+<birthEN>July 25, 1828</birthEN>
+<birthDE>25. Juli 1828</birthDE>
+<deathEN>May 12, 1901</deathEN>
+<deathDE>12. Mai 1901</deathDE>
+<birthPlace />
+<deathPlace />
+<professionOrOccupation>
+<XML_Serializer_Tag>Architekt</XML_Serializer_Tag>
+</professionOrOccupation>
+<dbpResource>http://dbpedia.org/resource/August_Orth</dbpResource>
+<abstract>August Orth (* 25. Juli 1828 in Windhausen bei Osterode am Harz; † 11. Mai 1901 in Berlin; vollständiger Name: August Friedrich Wilhelm Orth) war ein deutscher Architekt.</abstract>
+<wikilink>http://en.wikipedia.org/wiki/August_Orth?oldid=557007724</wikilink>
+<artworks />
+<buildings />
+<books />
+</Person>

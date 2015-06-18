@@ -1,0 +1,29 @@
+<Person>
+<name>Agnes Miegel</name>
+<variantName>
+<XML_Serializer_Tag>Agnes Migelʹ</XML_Serializer_Tag>
+<XML_Serializer_Tag>A. Migelʹ</XML_Serializer_Tag>
+</variantName>
+<thumbnail>https://commons.wikimedia.org/wiki/Special:FilePath/AgnesMiegelDenkmal.jpg?width=270</thumbnail>
+<birthEN>March 9, 1879</birthEN>
+<birthDE>9. März 1879</birthDE>
+<deathEN>October 27, 1964</deathEN>
+<deathDE>27. Oktober 1964</deathDE>
+<birthPlace>
+<XML_Serializer_Tag>Königsberg</XML_Serializer_Tag>
+</birthPlace>
+<deathPlace>
+<XML_Serializer_Tag>Bad Salzuflen</XML_Serializer_Tag>
+</deathPlace>
+<professionOrOccupation>
+<XML_Serializer_Tag>Schriftstellerin</XML_Serializer_Tag>
+<XML_Serializer_Tag>Journalistin</XML_Serializer_Tag>
+<XML_Serializer_Tag>Redakteurin</XML_Serializer_Tag>
+</professionOrOccupation>
+<dbpResource>http://dbpedia.org/resource/Agnes_Miegel</dbpResource>
+<abstract>Agnes Miegel (* 9. März 1879 in Königsberg; † 26. Oktober 1964 in Bad Salzuflen) war eine deutsche Schriftstellerin, Journalistin und Balladendichterin.</abstract>
+<wikilink>http://en.wikipedia.org/wiki/Agnes_Miegel?oldid=602550844</wikilink>
+<artworks />
+<buildings />
+<books />
+</Person>

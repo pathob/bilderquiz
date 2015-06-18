@@ -13,8 +13,38 @@
 <XML_Serializer_Tag>Maler</XML_Serializer_Tag>
 <XML_Serializer_Tag>Kunstschriftsteller</XML_Serializer_Tag>
 </professionOrOccupation>
-<artworks />
 <dbpResource>http://dbpedia.org/resource/James_Elmes</dbpResource>
 <abstract>James Elmes (* 15. Oktober 1782 in London; † 2. April 1862 in Greenwich) war ein englischer Architekt und Bauingenieur, außerdem Schriftsteller und Vater des Architekten Harvey Lonsdale Elmes. Er ging auf die Merchant-Taylors-Schule, lernte bei seinem Vater das Bauhandwerk, dann bei George Gibson Architektur. Später wurde er Student an der Royal Academy of Arts, wo er 1804 eine Silbermedaille gewann. Er entwarf eine große Zahl von Gebäuden in London und wurde schließlich Vermesser und Bauingenieur des Londoner Hafens. Am besten bekannt ist er heute aber als geisteswissenschaftlicher und künstlerischer Schriftsteller. 1809 wurde er Vizepräsident der Royal Architectural Society. Dieses Amt musste er wie das des Vermessers 1828 aufgeben, weil er sein Sehvermögen teilweise verloren hatte.</abstract>
 <wikilink>http://en.wikipedia.org/wiki/James_Elmes?oldid=604540061</wikilink>
+<artworks />
+<buildings>
+<XML_Serializer_Tag>
+<building>
+<type>uri</type>
+<value>http://dbpedia.org/resource/St_John_the_Evangelist&apos;s_Church,_Chichester</value>
+</building>
+<name>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>St John the Evangelist&apos;s Church</value>
+</name>
+<architect>
+<type>uri</type>
+<value>http://dbpedia.org/resource/James_Elmes</value>
+</architect>
+<thumbnail>
+<type>uri</type>
+<value>http://commons.wikimedia.org/wiki/Special:FilePath/Former_St_John_the_Evangelist&apos;s_Church,_St_John&apos;s_Street,_Chichester.JPG?width=300</value>
+</thumbnail>
+<wikilink>
+<type>uri</type>
+<value>http://en.wikipedia.org/wiki/St_John_the_Evangelist&apos;s_Church,_Chichester?oldid=586747865</value>
+</wikilink>
+<location>
+<type>uri</type>
+<value>http://dbpedia.org/resource/West_Sussex</value>
+</location>
+</XML_Serializer_Tag>
+</buildings>
+<books />
 </Person>

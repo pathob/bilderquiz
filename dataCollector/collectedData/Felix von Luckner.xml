@@ -1,0 +1,32 @@
+<Person>
+<name>Felix von Luckner</name>
+<variantName>
+<XML_Serializer_Tag>Felix Graf von Luckner</XML_Serializer_Tag>
+<XML_Serializer_Tag>Félix de Luckner</XML_Serializer_Tag>
+<XML_Serializer_Tag>Felix Luckner</XML_Serializer_Tag>
+<XML_Serializer_Tag>Felix Nikolaus Alexander Georg von Luckner</XML_Serializer_Tag>
+<XML_Serializer_Tag>Felix Alexander Nikolaus Georg von Luckner</XML_Serializer_Tag>
+<XML_Serializer_Tag>Félix de Luckner</XML_Serializer_Tag>
+</variantName>
+<thumbnail>https://commons.wikimedia.org/wiki/Special:FilePath/Luckner.png?width=270</thumbnail>
+<birthEN>June 9, 1881</birthEN>
+<birthDE>9. Juni 1881</birthDE>
+<deathEN>April 13, 1966</deathEN>
+<deathDE>13. April 1966</deathDE>
+<birthPlace>
+<XML_Serializer_Tag>Dresden</XML_Serializer_Tag>
+</birthPlace>
+<deathPlace>
+<XML_Serializer_Tag>Malmö</XML_Serializer_Tag>
+</deathPlace>
+<professionOrOccupation>
+<XML_Serializer_Tag>Marineoffizier</XML_Serializer_Tag>
+<XML_Serializer_Tag>Schriftsteller</XML_Serializer_Tag>
+</professionOrOccupation>
+<dbpResource>http://dbpedia.org/resource/Felix_von_Luckner</dbpResource>
+<abstract>Felix Nikolaus Alexander Georg Graf von Luckner (* 9. Juni 1881 in Dresden; † 13. April 1966 in Malmö) war ein deutscher Seeoffizier, Kapitän des Hilfskreuzers SMS Seeadler im Ersten Weltkrieg und Schriftsteller.</abstract>
+<wikilink>http://en.wikipedia.org/wiki/Felix_von_Luckner?oldid=604245240</wikilink>
+<artworks />
+<buildings />
+<books />
+</Person>

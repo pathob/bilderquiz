@@ -1,0 +1,26 @@
+<Person>
+<name>Julio Le Parc</name>
+<variantName>
+<XML_Serializer_Tag>Julio le Parc</XML_Serializer_Tag>
+<XML_Serializer_Tag>Julio LeParc</XML_Serializer_Tag>
+</variantName>
+<thumbnail>https://commons.wikimedia.org/wiki/Special:FilePath/Leparc_julio.png?width=270</thumbnail>
+<birthEN>1928</birthEN>
+<birthDE>1928</birthDE>
+<deathEN />
+<deathDE />
+<birthPlace>
+<XML_Serializer_Tag>Mendoza</XML_Serializer_Tag>
+</birthPlace>
+<deathPlace />
+<professionOrOccupation>
+<XML_Serializer_Tag>Künstler</XML_Serializer_Tag>
+<XML_Serializer_Tag>Installationskünstler</XML_Serializer_Tag>
+</professionOrOccupation>
+<dbpResource>http://dbpedia.org/resource/Julio_Le_Parc</dbpResource>
+<abstract>Julio Le Parc (* 23. September 1928 in Mendoza) ist ein argentinischer Kinetischer Künstler und Vertreter der Op-Art. Er gehört neben François Morellet, Horacio Garcia Rossi, Francisco Sobrino, Joël Stein und Yvaral im Jahr 1960 zu den Mitbegründern der Künstlergruppe Groupe de Recherche d’Art Visuel (GRAV). Le Parc lebt und arbeitet in Paris.</abstract>
+<wikilink>http://en.wikipedia.org/wiki/Julio_Le_Parc?oldid=606011245</wikilink>
+<artworks />
+<buildings />
+<books />
+</Person>

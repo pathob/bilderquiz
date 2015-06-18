@@ -1,0 +1,39 @@
+<Person>
+<name>Simon Reynolds</name>
+<variantName />
+<thumbnail>https://commons.wikimedia.org/wiki/Special:FilePath/Simon_Reynolds.jpg?width=270</thumbnail>
+<birthEN>1963</birthEN>
+<birthDE>1963</birthDE>
+<deathEN />
+<deathDE />
+<birthPlace>
+<XML_Serializer_Tag>London</XML_Serializer_Tag>
+</birthPlace>
+<deathPlace />
+<professionOrOccupation>
+<XML_Serializer_Tag>Journalist</XML_Serializer_Tag>
+<XML_Serializer_Tag>Redakteur</XML_Serializer_Tag>
+<XML_Serializer_Tag>Autor</XML_Serializer_Tag>
+</professionOrOccupation>
+<dbpResource>http://dbpedia.org/resource/Simon_Reynolds</dbpResource>
+<abstract>Simon Reynolds (* 1963 in London, Großbritannien) ist ein britischer Kulturjournalist und Sachbuchautor mit Wahlheimat in New York City. Er ist vor allem bekannt für sein von Rezensenten viel gelobtes 600 Seiten starkes Werk über die Post-Punk-Ära Rip It Up And Start Again.</abstract>
+<wikilink>http://en.wikipedia.org/wiki/Simon_Reynolds?oldid=578019325</wikilink>
+<artworks />
+<buildings />
+<books>
+<XML_Serializer_Tag>
+<book>
+<type>uri</type>
+<value>http://dbpedia.org/resource/Rip_It_Up_and_Start_Again</value>
+</book>
+<author>
+<type>uri</type>
+<value>http://dbpedia.org/resource/Simon_Reynolds</value>
+</author>
+<wikilink>
+<type>uri</type>
+<value>http://en.wikipedia.org/wiki/Rip_It_Up_and_Start_Again?oldid=603683846</value>
+</wikilink>
+</XML_Serializer_Tag>
+</books>
+</Person>

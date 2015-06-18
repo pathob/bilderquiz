@@ -11,8 +11,10 @@
 <professionOrOccupation>
 <XML_Serializer_Tag>Maler</XML_Serializer_Tag>
 </professionOrOccupation>
-<artworks />
 <dbpResource>http://dbpedia.org/resource/Cesare_Nebbia</dbpResource>
 <abstract>Cesare Nebbia (* 1536; † 1614) war ein italienischer Maler und Zeichner des römischen Manierismus.</abstract>
 <wikilink>http://en.wikipedia.org/wiki/Cesare_Nebbia?oldid=604696809</wikilink>
+<artworks />
+<buildings />
+<books />
 </Person>

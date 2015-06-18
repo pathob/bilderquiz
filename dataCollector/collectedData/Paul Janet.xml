@@ -1,0 +1,26 @@
+<Person>
+<name>Paul Janet</name>
+<variantName>
+<XML_Serializer_Tag>Paul Alexandre René Janet</XML_Serializer_Tag>
+</variantName>
+<thumbnail>https://commons.wikimedia.org/wiki/Special:FilePath/Paul_Janet.jpg?width=270</thumbnail>
+<birthEN>April 30, 1823</birthEN>
+<birthDE>30. April 1823</birthDE>
+<deathEN>October 4, 1899</deathEN>
+<deathDE>4. Oktober 1899</deathDE>
+<birthPlace>
+<XML_Serializer_Tag>Paris</XML_Serializer_Tag>
+</birthPlace>
+<deathPlace>
+<XML_Serializer_Tag>Paris</XML_Serializer_Tag>
+</deathPlace>
+<professionOrOccupation>
+<XML_Serializer_Tag>Philosoph</XML_Serializer_Tag>
+</professionOrOccupation>
+<dbpResource>http://dbpedia.org/resource/Paul_Janet</dbpResource>
+<abstract>Paul Alexandre René Janet (* 30. April 1823 in Paris; † 4. Oktober 1899 ebenda) war ein französischer Philosoph.Janet absolvierte seine Schulzeit am Lycée Saint-Louis und an der École normale supérieure. 1848 bekam er eine Anstellung als Dozent für Moralphilosophie an der Universität Bourges und drei Jahre später wechselte er in selber Funktion an die Universität Straßburg. 1857 nahm Janet einen Ruf an das Collège Louis le Grand in Paris an und wirkte dort als Dozent für Logik.1864 betraute man ihn mit einem Lehrauftrag als Prof. für Philosophie an der Sorbonne und im selben Jahr nahm ihn die Académie des sciences morales et politiques auch als Mitglied auf. Als Janet 1870 seine „Philosophie du bonheur“ veröffentlichte, wurde dieses Buch öffentlich gelobt und mit einer Medaille ausgezeichnet.1880 wurde er Mitglied der Accademia dei Lincei in Rom.</abstract>
+<wikilink>http://en.wikipedia.org/wiki/Paul_Janet?oldid=589581867</wikilink>
+<artworks />
+<buildings />
+<books />
+</Person>

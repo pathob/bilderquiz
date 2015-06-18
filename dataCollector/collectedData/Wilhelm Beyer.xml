@@ -1,0 +1,24 @@
+<Person>
+<name>Wilhelm Beyer</name>
+<variantName>
+<XML_Serializer_Tag>Christoph Friedrich Wilhelm Beyer</XML_Serializer_Tag>
+<XML_Serializer_Tag>Johann Christian Wilhelm Beyer</XML_Serializer_Tag>
+<XML_Serializer_Tag>Christian Friedrich Wilhelm Beyer</XML_Serializer_Tag>
+</variantName>
+<thumbnail>https://commons.wikimedia.org/wiki/Special:FilePath/Johann_Christian_Wilhelm_Beyer_(1725-1796)_portrayed_in_c.1775_by_his_wife_Gabrielle_née_Bertrand.jpg?width=270</thumbnail>
+<birthEN>1725</birthEN>
+<birthDE>1725</birthDE>
+<deathEN>1796</deathEN>
+<deathDE>1796</deathDE>
+<birthPlace />
+<deathPlace />
+<professionOrOccupation>
+<XML_Serializer_Tag>Künstler</XML_Serializer_Tag>
+</professionOrOccupation>
+<dbpResource>http://dbpedia.org/resource/Wilhelm_Beyer</dbpResource>
+<abstract>Wilhelm Beyer (* 22. März 1885 in Hohenmölsen; † 11. April 1945 in Schermcke) war ein deutscher Politiker und Funktionär der NSDAP.</abstract>
+<wikilink>http://en.wikipedia.org/wiki/Wilhelm_Beyer?oldid=575933098</wikilink>
+<artworks />
+<buildings />
+<books />
+</Person>

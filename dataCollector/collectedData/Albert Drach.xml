@@ -1,0 +1,25 @@
+<Person>
+<name>Albert Drach</name>
+<variantName />
+<thumbnail>https://commons.wikimedia.org/wiki/Special:FilePath/Gedenktafel_für_die_deutschen_u._österreichischen_Flüchtline_am_Fremdenverkehrsbüro_in_Sanary-sur-Mer1.JPG?width=270</thumbnail>
+<birthEN>December 17, 1902</birthEN>
+<birthDE>17. Dezember 1902</birthDE>
+<deathEN>March 27, 1995</deathEN>
+<deathDE>27. März 1995</deathDE>
+<birthPlace>
+<XML_Serializer_Tag>Wien</XML_Serializer_Tag>
+</birthPlace>
+<deathPlace>
+<XML_Serializer_Tag>Mödling</XML_Serializer_Tag>
+</deathPlace>
+<professionOrOccupation>
+<XML_Serializer_Tag>Rechtsanwalt</XML_Serializer_Tag>
+<XML_Serializer_Tag>Schriftsteller</XML_Serializer_Tag>
+</professionOrOccupation>
+<dbpResource>http://dbpedia.org/resource/Albert_Drach</dbpResource>
+<abstract>Albert Drach (* 17. Dezember 1902 in Wien; † 27. März 1995 in Mödling) war ein österreichischer jüdischer Schriftsteller und Jurist.</abstract>
+<wikilink>http://en.wikipedia.org/wiki/Albert_Drach?oldid=559286470</wikilink>
+<artworks />
+<buildings />
+<books />
+</Person>

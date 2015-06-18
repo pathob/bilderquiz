@@ -29,8 +29,10 @@
 <XML_Serializer_Tag>Regisseur</XML_Serializer_Tag>
 <XML_Serializer_Tag>Kameramann</XML_Serializer_Tag>
 </professionOrOccupation>
-<artworks />
 <dbpResource>http://dbpedia.org/resource/Man_Ray</dbpResource>
 <abstract>Man Ray [mæn reɪ] (* 27. August 1890 in Philadelphia, Pennsylvania; USA; † 18. November 1976 in Paris; eigentlich Emmanuel Rudnitzky oder Emmanuel Radnitzky) war ein US-amerikanischer Fotograf, Filmregisseur, Maler und Objektkünstler. Man Ray zählt zu den bedeutenden Künstlern des Dadaismus und Surrealismus, wird aber aufgrund der Vielschichtigkeit seines Werkes allgemein der Moderne zugeordnet und gilt als wichtiger Impulsgeber für die moderne Fotografie und Filmgeschichte bis hin zum Experimentalfilm. Seine zahlreichen Porträtfotografien zeitgenössischer Künstler dokumentieren die Hochphase des kulturellen Lebens im Paris der 1920er Jahre.</abstract>
 <wikilink>http://en.wikipedia.org/wiki/Man_Ray?oldid=603346548</wikilink>
+<artworks />
+<buildings />
+<books />
 </Person>

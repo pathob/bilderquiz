@@ -17,8 +17,10 @@
 <XML_Serializer_Tag>Maler</XML_Serializer_Tag>
 <XML_Serializer_Tag>Videokünstler</XML_Serializer_Tag>
 </professionOrOccupation>
-<artworks />
 <dbpResource>http://dbpedia.org/resource/Robert_Morris_(artist)</dbpResource>
 <abstract>Robert Morris (* 9. Februar 1931 in Kansas City, Missouri) ist ein US-amerikanischer Bildhauer, Konzeptkünstler und Schriftsteller.Er gilt zusammen mit Donald Judd als einer der wichtigsten Vertreter des Minimalismus und lieferte wichtige Beiträge zur Entwicklung der Performance, der Land Art, der prozesshaften Kunst und der Installation.</abstract>
 <wikilink>http://en.wikipedia.org/wiki/Robert_Morris_(artist)?oldid=599300847</wikilink>
+<artworks />
+<buildings />
+<books />
 </Person>

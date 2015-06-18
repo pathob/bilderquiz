@@ -26,12 +26,15 @@
 <XML_Serializer_Tag>Aktionskünstler</XML_Serializer_Tag>
 <XML_Serializer_Tag>Musiker</XML_Serializer_Tag>
 </professionOrOccupation>
+<dbpResource>http://dbpedia.org/resource/Joseph_Beuys</dbpResource>
+<abstract>Joseph Heinrich Beuys [ˈbɔe̯s] (* 12. Mai 1921 in Krefeld; † 23. Januar 1986 in Düsseldorf) war ein deutscher Aktionskünstler, Bildhauer, Zeichner, Kunsttheoretiker und Professor an der Kunstakademie Düsseldorf.Beuys setzte sich in seinem umfangreichen Werk mit Fragen des Humanismus, der Sozialphilosophie und Anthroposophie auseinander. Dies führte zu seiner spezifischen Definition eines „erweiterten Kunstbegriffs“ und zur Konzeption der Sozialen Plastik als Gesamtkunstwerk, in dem er Ende der 1970er Jahre ein kreatives Mitgestalten an der Gesellschaft und in der Politik forderte. Er gilt weltweit als einer der bedeutendsten Aktionskünstler des 20. Jahrhunderts und war ein „idealtypischer Gegenspieler“ zu Andy Warhol.</abstract>
+<wikilink>http://en.wikipedia.org/wiki/Joseph_Beuys?oldid=604079612</wikilink>
 <artworks>
 <XML_Serializer_Tag>
-<painting>
+<artwork>
 <type>uri</type>
 <value>http://dbpedia.org/resource/7000_Oaks</value>
-</painting>
+</artwork>
 <thumbnail>
 <type>uri</type>
 <value>http://commons.wikimedia.org/wiki/Special:FilePath/FridericianumBeuys_kasselgalerie_de.jpg?width=300</value>
@@ -50,9 +53,12 @@
 <type>uri</type>
 <value>http://en.wikipedia.org/wiki/7000_Oaks?oldid=584427756</value>
 </wikilink>
+<type>
+<type>uri</type>
+<value>http://dbpedia.org/resource/Land_art</value>
+</type>
 </XML_Serializer_Tag>
 </artworks>
-<dbpResource>http://dbpedia.org/resource/Joseph_Beuys</dbpResource>
-<abstract>Joseph Heinrich Beuys [ˈbɔe̯s] (* 12. Mai 1921 in Krefeld; † 23. Januar 1986 in Düsseldorf) war ein deutscher Aktionskünstler, Bildhauer, Zeichner, Kunsttheoretiker und Professor an der Kunstakademie Düsseldorf.Beuys setzte sich in seinem umfangreichen Werk mit Fragen des Humanismus, der Sozialphilosophie und Anthroposophie auseinander. Dies führte zu seiner spezifischen Definition eines „erweiterten Kunstbegriffs“ und zur Konzeption der Sozialen Plastik als Gesamtkunstwerk, in dem er Ende der 1970er Jahre ein kreatives Mitgestalten an der Gesellschaft und in der Politik forderte. Er gilt weltweit als einer der bedeutendsten Aktionskünstler des 20. Jahrhunderts und war ein „idealtypischer Gegenspieler“ zu Andy Warhol.</abstract>
-<wikilink>http://en.wikipedia.org/wiki/Joseph_Beuys?oldid=604079612</wikilink>
+<buildings />
+<books />
 </Person>

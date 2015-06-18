@@ -1,0 +1,26 @@
+<Person>
+<name>Carl Peters</name>
+<variantName>
+<XML_Serializer_Tag>Carl F. Peters</XML_Serializer_Tag>
+<XML_Serializer_Tag>Karl F. Peters</XML_Serializer_Tag>
+<XML_Serializer_Tag>Karl Peters</XML_Serializer_Tag>
+</variantName>
+<thumbnail>https://commons.wikimedia.org/wiki/Special:FilePath/Bundesarchiv_Bild_183-R30019,_Dr._Carl_Peters.jpg?width=270</thumbnail>
+<birthEN>September 27, 1856</birthEN>
+<birthDE>27. September 1856</birthDE>
+<deathEN>September 10, 1918</deathEN>
+<deathDE>10. September 1918</deathDE>
+<birthPlace />
+<deathPlace />
+<professionOrOccupation>
+<XML_Serializer_Tag>Politiker</XML_Serializer_Tag>
+<XML_Serializer_Tag>Schriftsteller</XML_Serializer_Tag>
+<XML_Serializer_Tag>Forschungsreisender</XML_Serializer_Tag>
+</professionOrOccupation>
+<dbpResource>http://dbpedia.org/resource/Carl_Peters</dbpResource>
+<abstract>Carl Peters (Vorname auch: Karl; * 27. September 1856 in Neuhaus/Elbe, Königreich Hannover; † 10. September 1918 in Bad Harzburg, Herzogtum Braunschweig, Deutsches Reich) war ein deutscher Politiker, Publizist, Kolonialist und Afrikaforscher mit stark ausgeprägter rassistischer Einstellung. Er gilt als Begründer der Kolonie Deutsch-Ostafrika.</abstract>
+<wikilink>http://en.wikipedia.org/wiki/Carl_Peters?oldid=594572467</wikilink>
+<artworks />
+<buildings />
+<books />
+</Person>

@@ -21,8 +21,10 @@
 <XML_Serializer_Tag>Maler</XML_Serializer_Tag>
 <XML_Serializer_Tag>Graphiker</XML_Serializer_Tag>
 </professionOrOccupation>
-<artworks />
 <dbpResource>http://dbpedia.org/resource/Tony_Johannot</dbpResource>
 <abstract>Tony Johannot (* 9. November 1803 in Offenbach am Main; † 4. August 1852 in Paris) war ein französischer Radierer, Holzschnittzeichner, Lithograf, Maler und Illustrator.</abstract>
 <wikilink>http://en.wikipedia.org/wiki/Tony_Johannot?oldid=593890596</wikilink>
+<artworks />
+<buildings />
+<books />
 </Person>

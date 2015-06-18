@@ -1,0 +1,28 @@
+<Person>
+<name>Antonio Gramsci</name>
+<variantName>
+<XML_Serializer_Tag>A. Gramsci</XML_Serializer_Tag>
+<XML_Serializer_Tag>Anṭūnyū Ǧrāmšī</XML_Serializer_Tag>
+<XML_Serializer_Tag>Āntunyū Girāmišī</XML_Serializer_Tag>
+</variantName>
+<thumbnail>https://commons.wikimedia.org/wiki/Special:FilePath/Gramsci.png?width=270</thumbnail>
+<birthEN>1891</birthEN>
+<birthDE>1891</birthDE>
+<deathEN>1937</deathEN>
+<deathDE>1937</deathDE>
+<birthPlace />
+<deathPlace />
+<professionOrOccupation>
+<XML_Serializer_Tag>Philosoph</XML_Serializer_Tag>
+<XML_Serializer_Tag>Sozialist</XML_Serializer_Tag>
+<XML_Serializer_Tag>Kommunist</XML_Serializer_Tag>
+<XML_Serializer_Tag>Wirtschaftswissenschaftler</XML_Serializer_Tag>
+<XML_Serializer_Tag>Übersetzer</XML_Serializer_Tag>
+</professionOrOccupation>
+<dbpResource>http://dbpedia.org/resource/Antonio_Gramsci</dbpResource>
+<abstract>Antonio Gramsci [anˈtɔːni̯o ˈgramʃi Antonio Gramsci?/i] (* 22. Januar 1891 in Ales auf Sardinien, Italien; † 27. April 1937 in Rom) war ein italienischer Schriftsteller, Journalist, Politiker und marxistischer Philosoph. Er gehört zu den Begründern der Kommunistischen Partei Italiens (Partito Comunista Italiano). Vom 6. April 1924 bis zu seiner Verhaftung durch Faschisten am 8. November 1926 war er Abgeordneter im italienischen Parlament. Während seiner Zeit im Gefängnis verfasste Gramsci Texte mit philosophischen, soziologischen und politischen Überlegungen, die 32 Hefte füllen. Sie sind als Gefängnishefte bekannt geworden und bilden ein bedeutendes Werk marxistischen Denkens.</abstract>
+<wikilink>http://en.wikipedia.org/wiki/Antonio_Gramsci?oldid=606376233</wikilink>
+<artworks />
+<buildings />
+<books />
+</Person>

@@ -22,8 +22,10 @@
 <XML_Serializer_Tag>Maler</XML_Serializer_Tag>
 <XML_Serializer_Tag>Illustrator</XML_Serializer_Tag>
 </professionOrOccupation>
-<artworks />
 <dbpResource>http://dbpedia.org/resource/Peter_Janssen</dbpResource>
 <abstract>Johann Peter Theodor Janssen, genannt Peter Janssen der Ältere (* 12. Dezember 1844 in Düsseldorf; † 19. Februar 1908 ebenda) war ein deutscher Maler.</abstract>
 <wikilink>http://en.wikipedia.org/wiki/Peter_Janssen?oldid=605336092</wikilink>
+<artworks />
+<buildings />
+<books />
 </Person>

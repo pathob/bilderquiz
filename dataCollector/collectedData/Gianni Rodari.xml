@@ -1,0 +1,33 @@
+<Person>
+<name>Gianni Rodari</name>
+<variantName>
+<XML_Serializer_Tag>Ǧanni Rodari</XML_Serializer_Tag>
+<XML_Serializer_Tag>Džanni Rodari</XML_Serializer_Tag>
+<XML_Serializer_Tag>Xhani Rodari</XML_Serializer_Tag>
+<XML_Serializer_Tag>Dzhanni Rodari</XML_Serializer_Tag>
+<XML_Serializer_Tag>Tzanni Rontari</XML_Serializer_Tag>
+<XML_Serializer_Tag>Janni Rodāri</XML_Serializer_Tag>
+<XML_Serializer_Tag>Dž. Rodari</XML_Serializer_Tag>
+<XML_Serializer_Tag>G. Rodari</XML_Serializer_Tag>
+</variantName>
+<thumbnail>https://commons.wikimedia.org/wiki/Special:FilePath/Russia_stamp_1992_No_16.jpg?width=270</thumbnail>
+<birthEN>October 23, 1920</birthEN>
+<birthDE>23. Oktober 1920</birthDE>
+<deathEN>April 14, 1980</deathEN>
+<deathDE>14. April 1980</deathDE>
+<birthPlace>
+<XML_Serializer_Tag>Omegna</XML_Serializer_Tag>
+</birthPlace>
+<deathPlace>
+<XML_Serializer_Tag>Rom</XML_Serializer_Tag>
+</deathPlace>
+<professionOrOccupation>
+<XML_Serializer_Tag>Schriftsteller</XML_Serializer_Tag>
+</professionOrOccupation>
+<dbpResource>http://dbpedia.org/resource/Gianni_Rodari</dbpResource>
+<abstract>Gianni Rodari (* 23. Oktober 1920 in Omegna (Novara); † 14. April 1980 in Rom) war ein italienischer Schriftsteller, der vor allem Kinderbücher schrieb.</abstract>
+<wikilink>http://en.wikipedia.org/wiki/Gianni_Rodari?oldid=594666947</wikilink>
+<artworks />
+<buildings />
+<books />
+</Person>

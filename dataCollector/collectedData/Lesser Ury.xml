@@ -14,8 +14,10 @@
 <XML_Serializer_Tag>Maler</XML_Serializer_Tag>
 <XML_Serializer_Tag>Graphiker</XML_Serializer_Tag>
 </professionOrOccupation>
-<artworks />
 <dbpResource>http://dbpedia.org/resource/Lesser_Ury</dbpResource>
 <abstract>Lesser Ury (* 7. November 1861 in Birnbaum, Provinz Posen; † 18. Oktober 1931 in Berlin) war ein deutscher Maler und Grafiker, der in seinen Landschaften, Großstadtbildern und Stillleben dem Impressionismus nahestand, in seiner Spätzeit schuf er daneben biblische Monumentalbilder.</abstract>
 <wikilink>http://en.wikipedia.org/wiki/Lesser_Ury?oldid=564733722</wikilink>
+<artworks />
+<buildings />
+<books />
 </Person>

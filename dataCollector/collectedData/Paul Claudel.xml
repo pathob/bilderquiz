@@ -1,0 +1,36 @@
+<Person>
+<name>Paul Claudel</name>
+<variantName>
+<XML_Serializer_Tag>Paul Louis Charles Marie Claudel</XML_Serializer_Tag>
+<XML_Serializer_Tag>Paul L. Claudel</XML_Serializer_Tag>
+<XML_Serializer_Tag>P. Claudel</XML_Serializer_Tag>
+<XML_Serializer_Tag>Claudel</XML_Serializer_Tag>
+<XML_Serializer_Tag>Pol Klodel</XML_Serializer_Tag>
+<XML_Serializer_Tag>Polʹ Klʹodelʹ</XML_Serializer_Tag>
+<XML_Serializer_Tag>Pōru Kurōderu</XML_Serializer_Tag>
+<XML_Serializer_Tag>Pōl Klōntel</XML_Serializer_Tag>
+</variantName>
+<thumbnail>https://commons.wikimedia.org/wiki/Special:FilePath/Paul_Claudel_01.jpg?width=270</thumbnail>
+<birthEN>August 6, 1868</birthEN>
+<birthDE>6. August 1868</birthDE>
+<deathEN>February 23, 1955</deathEN>
+<deathDE>23. Februar 1955</deathDE>
+<birthPlace>
+<XML_Serializer_Tag>Villeneuve-sur-Fère</XML_Serializer_Tag>
+</birthPlace>
+<deathPlace>
+<XML_Serializer_Tag>Paris</XML_Serializer_Tag>
+</deathPlace>
+<professionOrOccupation>
+<XML_Serializer_Tag>Schriftsteller</XML_Serializer_Tag>
+<XML_Serializer_Tag>Dramatiker</XML_Serializer_Tag>
+<XML_Serializer_Tag>Diplomat</XML_Serializer_Tag>
+<XML_Serializer_Tag>Librettist</XML_Serializer_Tag>
+</professionOrOccupation>
+<dbpResource>http://dbpedia.org/resource/Paul_Claudel</dbpResource>
+<abstract>Paul Claudel (* 6. August 1868 in Villeneuve-sur-Fère; † 23. Februar 1955 in Paris) war ein französischer Schriftsteller, Dichter und Diplomat.</abstract>
+<wikilink>http://en.wikipedia.org/wiki/Paul_Claudel?oldid=602716129</wikilink>
+<artworks />
+<buildings />
+<books />
+</Person>

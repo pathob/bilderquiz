@@ -1,0 +1,29 @@
+<Person>
+<name>Adolf von Hildebrand</name>
+<variantName>
+<XML_Serializer_Tag>Adolʹf Gilʹdebrand</XML_Serializer_Tag>
+<XML_Serializer_Tag>Ādorufu fon Hirudeburanto</XML_Serializer_Tag>
+<XML_Serializer_Tag>Adolf Hildebrand</XML_Serializer_Tag>
+</variantName>
+<thumbnail>https://commons.wikimedia.org/wiki/Special:FilePath/Marées_Adolf_von_Hildebrand_groß.jpg?width=270</thumbnail>
+<birthEN>October 6, 1847</birthEN>
+<birthDE>6. Oktober 1847</birthDE>
+<deathEN>January 17, 1921</deathEN>
+<deathDE>17. Januar 1921</deathDE>
+<birthPlace>
+<XML_Serializer_Tag>Marburg</XML_Serializer_Tag>
+</birthPlace>
+<deathPlace>
+<XML_Serializer_Tag>München</XML_Serializer_Tag>
+</deathPlace>
+<professionOrOccupation>
+<XML_Serializer_Tag>Architekt</XML_Serializer_Tag>
+<XML_Serializer_Tag>Bildhauer</XML_Serializer_Tag>
+</professionOrOccupation>
+<dbpResource>http://dbpedia.org/resource/Adolf_von_Hildebrand</dbpResource>
+<abstract>Adolf Ritter von Hildebrand (* 6. Oktober 1847 in Marburg; † 18. Januar 1921 in München) war einer der führenden deutschen Bildhauer seiner Zeit.</abstract>
+<wikilink>http://en.wikipedia.org/wiki/Adolf_von_Hildebrand?oldid=578629336</wikilink>
+<artworks />
+<buildings />
+<books />
+</Person>

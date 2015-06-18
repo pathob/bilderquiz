@@ -1,0 +1,30 @@
+<Person>
+<name>Arno Holz</name>
+<variantName>
+<XML_Serializer_Tag>Hermann Oscar Alfred Holz</XML_Serializer_Tag>
+<XML_Serializer_Tag>Arno Chol&apos;c</XML_Serializer_Tag>
+<XML_Serializer_Tag>Hans Holz</XML_Serializer_Tag>
+</variantName>
+<thumbnail>https://commons.wikimedia.org/wiki/Special:FilePath/Arno_holz.jpg?width=270</thumbnail>
+<birthEN>April 26, 1863</birthEN>
+<birthDE>26. April 1863</birthDE>
+<deathEN>October 26, 1929</deathEN>
+<deathDE>26. Oktober 1929</deathDE>
+<birthPlace>
+<XML_Serializer_Tag>Rastenburg</XML_Serializer_Tag>
+</birthPlace>
+<deathPlace>
+<XML_Serializer_Tag>Berlin</XML_Serializer_Tag>
+</deathPlace>
+<professionOrOccupation>
+<XML_Serializer_Tag>Schriftsteller</XML_Serializer_Tag>
+<XML_Serializer_Tag>Lyriker</XML_Serializer_Tag>
+<XML_Serializer_Tag>Dramatiker</XML_Serializer_Tag>
+</professionOrOccupation>
+<dbpResource>http://dbpedia.org/resource/Arno_Holz</dbpResource>
+<abstract>Arno Holz (* 26. April 1863 in Rastenburg, Ostpreußen; † 26. Oktober 1929 in Berlin) war ein deutscher Dichter und Dramatiker des Naturalismus und Impressionismus. Als sein Hauptwerk gilt der Gedichtband Phantasus (1898).</abstract>
+<wikilink>http://en.wikipedia.org/wiki/Arno_Holz?oldid=580895057</wikilink>
+<artworks />
+<buildings />
+<books />
+</Person>

@@ -1,0 +1,198 @@
+<Person>
+<name>Lewis Carroll</name>
+<variantName>
+<XML_Serializer_Tag>Charles L. Dodgson</XML_Serializer_Tag>
+<XML_Serializer_Tag>Ruisu Kyaroru</XML_Serializer_Tag>
+<XML_Serializer_Tag>Charles Dodgson</XML_Serializer_Tag>
+<XML_Serializer_Tag>Levis Carroll</XML_Serializer_Tag>
+<XML_Serializer_Tag>L. Carroll</XML_Serializer_Tag>
+<XML_Serializer_Tag>Lewis Carrol</XML_Serializer_Tag>
+<XML_Serializer_Tag>Lewis Caroll</XML_Serializer_Tag>
+<XML_Serializer_Tag>Luis Karol</XML_Serializer_Tag>
+<XML_Serializer_Tag>L. Karol</XML_Serializer_Tag>
+<XML_Serializer_Tag>Luis Kerol</XML_Serializer_Tag>
+<XML_Serializer_Tag>Charles Lutwidge Dodgson</XML_Serializer_Tag>
+<XML_Serializer_Tag>Lû&apos;îs Qārôl</XML_Serializer_Tag>
+<XML_Serializer_Tag>Charles Dodgson</XML_Serializer_Tag>
+<XML_Serializer_Tag>L&apos;juis Kėrroll</XML_Serializer_Tag>
+<XML_Serializer_Tag>L. Kėrroll</XML_Serializer_Tag>
+<XML_Serializer_Tag>L&apos;juis Kerrol</XML_Serializer_Tag>
+<XML_Serializer_Tag>Jiale&apos;er</XML_Serializer_Tag>
+<XML_Serializer_Tag>Luyisi Kaluo&apos;er</XML_Serializer_Tag>
+<XML_Serializer_Tag>Luyisi Kaluo&apos;er</XML_Serializer_Tag>
+<XML_Serializer_Tag>刘易丝・卡罗尔</XML_Serializer_Tag>
+<XML_Serializer_Tag>刘易丝 卡罗尔</XML_Serializer_Tag>
+</variantName>
+<thumbnail>https://commons.wikimedia.org/wiki/Special:FilePath/Lewis_Carroll_1863.jpg?width=270</thumbnail>
+<birthEN>January 27, 1832</birthEN>
+<birthDE>27. Januar 1832</birthDE>
+<deathEN>January 14, 1898</deathEN>
+<deathDE>14. Januar 1898</deathDE>
+<birthPlace>
+<XML_Serializer_Tag>Daresbury</XML_Serializer_Tag>
+</birthPlace>
+<deathPlace>
+<XML_Serializer_Tag>Guildford</XML_Serializer_Tag>
+</deathPlace>
+<professionOrOccupation>
+<XML_Serializer_Tag>Mathematiker</XML_Serializer_Tag>
+<XML_Serializer_Tag>Photograph</XML_Serializer_Tag>
+<XML_Serializer_Tag>Schriftsteller</XML_Serializer_Tag>
+</professionOrOccupation>
+<dbpResource>http://dbpedia.org/resource/Lewis_Carroll</dbpResource>
+<abstract>Lewis Carroll (* 27. Januar 1832 in Daresbury im County Cheshire; † 14. Januar 1898 in Guildford im County Surrey; eigentlich Charles Lutwidge Dodgson) war ein britischer Schriftsteller des viktorianischen Zeitalters, Fotograf, Mathematiker und Diakon.Er ist der Autor der berühmten Kinderbücher Alice im Wunderland, Alice hinter den Spiegeln (oder Alice im Spiegelland) und The Hunting of the Snark. Mit seiner Befähigung für Wortspiel, Logik und Fantasie schaffte er es, weite Leserkreise zu fesseln. Seine Werke, als sogenannte Nonsense-Literatur bezeichnet, sind bis heute populär geblieben und haben nicht nur die Kinderliteratur, sondern ebenso Schriftsteller wie James Joyce, die Surrealisten wie André Breton und den Maler und Bildhauer Max Ernst oder den Kognitionswissenschaftler Douglas R. Hofstadter beeinflusst. Bekannt wurde Carroll auch als Fotograf: Wie Julia Margaret Cameron und Oscar Gustave Rejlander betrieb er bereits ab der Mitte des 19. Jahrhunderts Fotografie als Kunst.</abstract>
+<wikilink>http://en.wikipedia.org/wiki/Lewis_Carroll?oldid=606779992</wikilink>
+<artworks />
+<buildings />
+<books>
+<XML_Serializer_Tag>
+<book>
+<type>uri</type>
+<value>http://dbpedia.org/resource/Alice&apos;s_Adventures_in_Wonderland</value>
+</book>
+<author>
+<type>uri</type>
+<value>http://dbpedia.org/resource/Lewis_Carroll</value>
+</author>
+<thumbnail>
+<type>uri</type>
+<value>http://commons.wikimedia.org/wiki/Special:FilePath/AlicesAdventuresInWonderlandTitlePage.jpg?width=300</value>
+</thumbnail>
+<released>
+<type>typed-literal</type>
+<datatype>http://www.w3.org/2001/XMLSchema#date</datatype>
+<value>1865-11-26+02:00</value>
+</released>
+<wikilink>
+<type>uri</type>
+<value>http://en.wikipedia.org/wiki/Alice&apos;s_Adventures_in_Wonderland?oldid=606479800</value>
+</wikilink>
+<abstract>
+<type>literal</type>
+<xml:lang>de</xml:lang>
+<value>Alice im Wunderland (ursprünglich Alices Abenteuer im Wunderland; englischer Originaltitel Alice’s Adventures in Wonderland) ist ein erstmals 1865 erschienenes Kinderbuch des britischen Schriftstellers Lewis Carroll.Die fiktive Welt, in der Alice im Wunderland angesiedelt ist, spielt in solch einer Weise mit Logik, dass sich die Erzählung unter Mathematikern und Kindern gleichermaßen großer Beliebtheit erfreut. Sie enthält zahlreiche satirische Anspielungen – nicht nur auf persönliche Freunde Carrolls, sondern auch auf die Schullektionen, die Kinder im England jener Zeit auswendig lernen mussten. Meistens werden die Geschichte und ihre Fortsetzung Alice hinter den Spiegeln (im Original: Through the Looking-Glass and What Alice Found There) als eine Einheit angesehen. Bekannt sind die Bücher auch durch die Illustrationen des britischen Zeichners John Tenniel in den ersten Ausgaben.Alice im Wunderland gilt als eines der hervorragenden Werke aus dem Genre des literarischen Nonsens. Gemeinsam mit der 1871 erschienen Fortsetzung Alice hinter den Spiegeln wird dieses Kinderbuch gewöhnlich zu den Klassikern der Weltliteratur gezählt. So ist die Erzählung heute beispielsweise Bestandteil der ZEIT-Bibliothek der 100 Bücher. Die britische Zeitung The Guardian nahm 2009 sowohl Alice im Wunderland als auch Alice hinter den Spiegeln in die Liste der 1000 Romane auf, die jeder gelesen haben muss. Seine Erzählweise und -struktur, seine Figuren und Metaphorik haben unverändert großen kulturellen Einfluss. Es wurde dutzende Male für die Bühne adaptiert und verfilmt und Figuren der Erzählung wie die Grinsekatze, der Jabberwocky, der Märzhase und der verrückte Hutmacher oder einzelne Episoden wie beispielsweise die der Teegesellschaft, in die Alice hineingerät, werden in der Popkultur immer wieder aufgegriffen und zitiert.</value>
+</abstract>
+</XML_Serializer_Tag>
+<XML_Serializer_Tag>
+<book>
+<type>uri</type>
+<value>http://dbpedia.org/resource/Through_the_Looking-Glass</value>
+</book>
+<author>
+<type>uri</type>
+<value>http://dbpedia.org/resource/Lewis_Carroll</value>
+</author>
+<thumbnail>
+<type>uri</type>
+<value>http://commons.wikimedia.org/wiki/Special:FilePath/Through_the_looking_glass.jpg?width=300</value>
+</thumbnail>
+<released>
+<type>typed-literal</type>
+<datatype>http://www.w3.org/2001/XMLSchema#integer</datatype>
+<value>1871</value>
+</released>
+<wikilink>
+<type>uri</type>
+<value>http://en.wikipedia.org/wiki/Through_the_Looking-Glass?oldid=604256376</value>
+</wikilink>
+<abstract>
+<type>literal</type>
+<xml:lang>de</xml:lang>
+<value>Alice hinter den Spiegeln (auch: Alice im Spiegelland sowie: Durch den Spiegel und was Alice dort fand; im Original: Through the Looking-Glass, and What Alice Found There) (1871) ist ein von Lewis Carroll verfasstes Kinderbuch und die Fortsetzung zu Alice im Wunderland (1865).</value>
+</abstract>
+</XML_Serializer_Tag>
+<XML_Serializer_Tag>
+<book>
+<type>uri</type>
+<value>http://dbpedia.org/resource/The_Nursery_%22Alice%22</value>
+</book>
+<author>
+<type>uri</type>
+<value>http://dbpedia.org/resource/Lewis_Carroll</value>
+</author>
+<thumbnail>
+<type>uri</type>
+<value>http://commons.wikimedia.org/wiki/Special:FilePath/Nursery-alice-1890.png?width=300</value>
+</thumbnail>
+<released>
+<type>typed-literal</type>
+<datatype>http://www.w3.org/2001/XMLSchema#integer</datatype>
+<value>1890</value>
+</released>
+<wikilink>
+<type>uri</type>
+<value>http://en.wikipedia.org/wiki/The_Nursery_%22Alice%22?oldid=603657666</value>
+</wikilink>
+</XML_Serializer_Tag>
+<XML_Serializer_Tag>
+<book>
+<type>uri</type>
+<value>http://dbpedia.org/resource/Alice&apos;s_Adventures_in_Wonderland_retold_in_words_of_one_syllable</value>
+</book>
+<author>
+<type>uri</type>
+<value>http://dbpedia.org/resource/Lewis_Carroll</value>
+</author>
+<thumbnail>
+<type>uri</type>
+<value>http://en.wikipedia.org/wiki/Special:FilePath/Alice-gorham-burt-1905.png?width=300</value>
+</thumbnail>
+<released>
+<type>typed-literal</type>
+<datatype>http://www.w3.org/2001/XMLSchema#integer</datatype>
+<value>1905</value>
+</released>
+<wikilink>
+<type>uri</type>
+<value>http://en.wikipedia.org/wiki/Alice&apos;s_Adventures_in_Wonderland_retold_in_words_of_one_syllable?oldid=603658219</value>
+</wikilink>
+</XML_Serializer_Tag>
+<XML_Serializer_Tag>
+<book>
+<type>uri</type>
+<value>http://dbpedia.org/resource/Sylvie_and_Bruno</value>
+</book>
+<author>
+<type>uri</type>
+<value>http://dbpedia.org/resource/Lewis_Carroll</value>
+</author>
+<thumbnail>
+<type>uri</type>
+<value>http://commons.wikimedia.org/wiki/Special:FilePath/Sylvie_and_Bruno.gif?width=300</value>
+</thumbnail>
+<wikilink>
+<type>uri</type>
+<value>http://en.wikipedia.org/wiki/Sylvie_and_Bruno?oldid=598800127</value>
+</wikilink>
+<abstract>
+<type>literal</type>
+<xml:lang>de</xml:lang>
+<value>Sylvie und Bruno (englische Originaltitel: Sylvie and Bruno und Sylvie and Bruno Concluded) ist ein zweibändiger Roman des Autors Lewis Carroll. Die Erstausgaben erschienen 1889 und 1893 bei Macmillan Publishers, illustriert wurden die beiden Bände von Harry Furniss. Die erste vollständige Übersetzung ins Deutsche erfolgte 1986 durch Dieter H. Stündel. Das Werk spielt in zwei Welten: In der realen Welt, dem England des viktorianischen Zeitalters, wird in Form eines Gesellschaftsromans von der Liebe Arthur Foresters zu Lady Muriel erzählt, die sich aber zunächst mit einem anderen Mann verlobt. Zum anderen Teil spielt die Erzählung in einer Traumwelt, in der der Gouverneur von Anderland und seine beiden Elben-Kinder Sylvie und Bruno Opfer einer Verschwörung werden. Der Ich-Erzähler wechselt zwischen diesen beiden Welten hin und her.</value>
+</abstract>
+</XML_Serializer_Tag>
+<XML_Serializer_Tag>
+<book>
+<type>uri</type>
+<value>http://dbpedia.org/resource/A_Tangled_Tale</value>
+</book>
+<author>
+<type>uri</type>
+<value>http://dbpedia.org/resource/Lewis_Carroll</value>
+</author>
+<released>
+<type>typed-literal</type>
+<datatype>http://www.w3.org/2001/XMLSchema#integer</datatype>
+<value>1885</value>
+</released>
+<wikilink>
+<type>uri</type>
+<value>http://en.wikipedia.org/wiki/A_Tangled_Tale?oldid=604852655</value>
+</wikilink>
+<abstract>
+<type>literal</type>
+<xml:lang>de</xml:lang>
+<value>Geschichten mit Knoten (englischer Originaltitel A Tangled Tale) ist eine Sammlung mathematischer Rätselgeschichten des Autors Lewis Carroll. Ursprünglich erschienen sie von April 1880 bis November 1884 in der Zeitschrift The Monthly Packet, 1886 dann überarbeitet und mit Illustrationen von Arthur Burdett Frost versehen als Buch bei Macmillan Publishers. Die deutsche Übersetzung durch Walter E. Richartz wurde 1978 veröffentlicht.</value>
+</abstract>
+</XML_Serializer_Tag>
+</books>
+</Person>

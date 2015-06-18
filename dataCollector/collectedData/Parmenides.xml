@@ -1,0 +1,35 @@
+<Person>
+<name>Parmenides</name>
+<variantName>
+<XML_Serializer_Tag>Parménides</XML_Serializer_Tag>
+<XML_Serializer_Tag>Parménide</XML_Serializer_Tag>
+<XML_Serializer_Tag>Parmenides, Eleaticus</XML_Serializer_Tag>
+<XML_Serializer_Tag>Parmenides&quot;, Eleatas</XML_Serializer_Tag>
+<XML_Serializer_Tag>Parmenidu&quot;, tu Eleatu</XML_Serializer_Tag>
+<XML_Serializer_Tag>Parmenides, von Elea</XML_Serializer_Tag>
+<XML_Serializer_Tag>Parmenide, di Elea</XML_Serializer_Tag>
+<XML_Serializer_Tag>Parmenides, of Elea</XML_Serializer_Tag>
+<XML_Serializer_Tag>Parmenide, d&apos;Elée</XML_Serializer_Tag>
+<XML_Serializer_Tag>Parmenides, Poeta</XML_Serializer_Tag>
+<XML_Serializer_Tag>Parmenides, Poeta Philosophus</XML_Serializer_Tag>
+<XML_Serializer_Tag>Parmenides, Philosophus</XML_Serializer_Tag>
+<XML_Serializer_Tag>Parmenides, Philosoph</XML_Serializer_Tag>
+<XML_Serializer_Tag>Eleates Parmenides</XML_Serializer_Tag>
+</variantName>
+<thumbnail>https://commons.wikimedia.org/wiki/Special:FilePath/Sanzio_01_Parmenides.jpg?width=270</thumbnail>
+<birthEN>v515</birthEN>
+<birthDE>v515</birthDE>
+<deathEN>v445</deathEN>
+<deathDE>v445</deathDE>
+<birthPlace />
+<deathPlace />
+<professionOrOccupation>
+<XML_Serializer_Tag>Philosoph</XML_Serializer_Tag>
+</professionOrOccupation>
+<dbpResource>http://dbpedia.org/resource/Parmenides</dbpResource>
+<abstract>Parmenides aus Elea (griechisch Παρμενίδης; * um 520/515 v. Chr.; † um 460/455 v. Chr.) war einer der bedeutendsten griechischen Philosophen. Er wird zu den Vorsokratikern gezählt und lebte in Elea, einer von Griechen gegründeten Stadt in Süditalien.</abstract>
+<wikilink>http://en.wikipedia.org/wiki/Parmenides?oldid=604939567</wikilink>
+<artworks />
+<buildings />
+<books />
+</Person>

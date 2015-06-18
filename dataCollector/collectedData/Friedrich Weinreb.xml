@@ -1,0 +1,34 @@
+<Person>
+<name>Friedrich Weinreb</name>
+<variantName>
+<XML_Serializer_Tag>F. Weinreb</XML_Serializer_Tag>
+<XML_Serializer_Tag>Efraim Fischl</XML_Serializer_Tag>
+<XML_Serializer_Tag>Freek Weinreb</XML_Serializer_Tag>
+<XML_Serializer_Tag>Frederik Weinreb</XML_Serializer_Tag>
+<XML_Serializer_Tag>Frydryk Weinreb</XML_Serializer_Tag>
+<XML_Serializer_Tag>Fryderyk Weinreb</XML_Serializer_Tag>
+</variantName>
+<thumbnail>https://commons.wikimedia.org/wiki/Special:FilePath/Friedrich_Weinreb_Portrait.jpg?width=270</thumbnail>
+<birthEN>November 18, 1910</birthEN>
+<birthDE>18. November 1910</birthDE>
+<deathEN>October 19, 1988</deathEN>
+<deathDE>19. Oktober 1988</deathDE>
+<birthPlace>
+<XML_Serializer_Tag>Lemberg</XML_Serializer_Tag>
+</birthPlace>
+<deathPlace>
+<XML_Serializer_Tag>Zürich</XML_Serializer_Tag>
+</deathPlace>
+<professionOrOccupation>
+<XML_Serializer_Tag>Schriftsteller</XML_Serializer_Tag>
+<XML_Serializer_Tag>Religionswissenschaftler</XML_Serializer_Tag>
+<XML_Serializer_Tag>Volkswirt</XML_Serializer_Tag>
+<XML_Serializer_Tag>Hochschullehrer</XML_Serializer_Tag>
+</professionOrOccupation>
+<dbpResource>http://dbpedia.org/resource/Friedrich_Weinreb</dbpResource>
+<abstract>Friedrich Weinreb (* 18. November 1910 in Lemberg, damals Galizien, heute Ukraine; † 19. Oktober 1988 in Zürich) war ein jüdisch-chassidischer Erzähler und Schriftsteller.</abstract>
+<wikilink>http://en.wikipedia.org/wiki/Friedrich_Weinreb?oldid=590069788</wikilink>
+<artworks />
+<buildings />
+<books />
+</Person>

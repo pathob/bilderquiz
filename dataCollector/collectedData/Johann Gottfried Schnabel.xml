@@ -1,0 +1,33 @@
+<Person>
+<name>Johann Gottfried Schnabel</name>
+<variantName>
+<XML_Serializer_Tag>Gisander</XML_Serializer_Tag>
+<XML_Serializer_Tag>Gysander</XML_Serializer_Tag>
+<XML_Serializer_Tag>J. G. Schnabel</XML_Serializer_Tag>
+<XML_Serializer_Tag>Johannes Gottfried Schnabel</XML_Serializer_Tag>
+<XML_Serializer_Tag>Johann G. Schnabel</XML_Serializer_Tag>
+<XML_Serializer_Tag>E. von H.</XML_Serializer_Tag>
+<XML_Serializer_Tag>Historiographus</XML_Serializer_Tag>
+<XML_Serializer_Tag>Eberhard Julius</XML_Serializer_Tag>
+<XML_Serializer_Tag>Eberhard Julio</XML_Serializer_Tag>
+<XML_Serializer_Tag>Gisander</XML_Serializer_Tag>
+</variantName>
+<thumbnail>https://commons.wikimedia.org/wiki/Special:FilePath/2007-04_Stolberg_(Harz)_09.jpg?width=270</thumbnail>
+<birthEN>1692</birthEN>
+<birthDE>1692</birthDE>
+<deathEN>1750</deathEN>
+<deathDE>1750</deathDE>
+<birthPlace />
+<deathPlace />
+<professionOrOccupation>
+<XML_Serializer_Tag>Schriftsteller</XML_Serializer_Tag>
+<XML_Serializer_Tag>Journalist</XML_Serializer_Tag>
+<XML_Serializer_Tag>Chirurg</XML_Serializer_Tag>
+</professionOrOccupation>
+<dbpResource>http://dbpedia.org/resource/Johann_Gottfried_Schnabel</dbpResource>
+<abstract>Johann Gottfried Schnabel (Pseudonym Gisander; * 7. November 1692 in Sandersdorf bei Bitterfeld; † zwischen April 1744 und April 1748) war ein deutscher Schriftsteller.</abstract>
+<wikilink>http://en.wikipedia.org/wiki/Johann_Gottfried_Schnabel?oldid=598470859</wikilink>
+<artworks />
+<buildings />
+<books />
+</Person>

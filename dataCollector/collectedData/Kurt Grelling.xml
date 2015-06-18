@@ -1,0 +1,25 @@
+<Person>
+<name>Kurt Grelling</name>
+<variantName />
+<thumbnail>https://commons.wikimedia.org/wiki/Special:FilePath/Stolperstein_Königsberger_Str_13_(Lichtf)_Kurt_Grelling.jpg?width=270</thumbnail>
+<birthEN>1886</birthEN>
+<birthDE>1886</birthDE>
+<deathEN>1942</deathEN>
+<deathDE>1942</deathDE>
+<birthPlace />
+<deathPlace>
+<XML_Serializer_Tag>Auschwitz</XML_Serializer_Tag>
+</deathPlace>
+<professionOrOccupation>
+<XML_Serializer_Tag>Mathematiker</XML_Serializer_Tag>
+<XML_Serializer_Tag>Logiker</XML_Serializer_Tag>
+<XML_Serializer_Tag>Philosoph</XML_Serializer_Tag>
+<XML_Serializer_Tag>Wissenschaftstheoretiker</XML_Serializer_Tag>
+</professionOrOccupation>
+<dbpResource>http://dbpedia.org/resource/Kurt_Grelling</dbpResource>
+<abstract>Kurt Grelling (* 2. März 1886 in Berlin; † vermutlich September 1942 im KZ Auschwitz) war ein deutscher Mathematiker, Logiker und Philosoph. Er war Mitglied des Berliner Gesellschaft für empirische Philosophie.</abstract>
+<wikilink>http://en.wikipedia.org/wiki/Kurt_Grelling?oldid=604812440</wikilink>
+<artworks />
+<buildings />
+<books />
+</Person>

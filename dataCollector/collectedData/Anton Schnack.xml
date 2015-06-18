@@ -1,0 +1,23 @@
+<Person>
+<name>Anton Schnack</name>
+<variantName>
+<XML_Serializer_Tag>안톤 슈낙</XML_Serializer_Tag>
+</variantName>
+<thumbnail>https://commons.wikimedia.org/wiki/Special:FilePath/Anton_Schnack_-_Begegnungen_am_Abend.jpg?width=270</thumbnail>
+<birthEN>July 21, 1892</birthEN>
+<birthDE>21. Juli 1892</birthDE>
+<deathEN>September 26, 1973</deathEN>
+<deathDE>26. September 1973</deathDE>
+<birthPlace />
+<deathPlace />
+<professionOrOccupation>
+<XML_Serializer_Tag>Journalist</XML_Serializer_Tag>
+<XML_Serializer_Tag>Schriftsteller</XML_Serializer_Tag>
+</professionOrOccupation>
+<dbpResource>http://dbpedia.org/resource/Anton_Schnack</dbpResource>
+<abstract>Anton Schnack (* 21. Juli 1892 in Rieneck, Unterfranken; † 26. September 1973 in Kahl am Main) war ein deutscher Schriftsteller.</abstract>
+<wikilink>http://en.wikipedia.org/wiki/Anton_Schnack?oldid=569083726</wikilink>
+<artworks />
+<buildings />
+<books />
+</Person>

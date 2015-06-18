@@ -11,8 +11,10 @@
 <professionOrOccupation>
 <XML_Serializer_Tag>Maler</XML_Serializer_Tag>
 </professionOrOccupation>
-<artworks />
 <dbpResource>http://dbpedia.org/resource/Johann_Sperl</dbpResource>
 <abstract>Johann Sperl (geb. Johann Spörl; * 3. November 1840 in Buch, heute zu Nürnberg; † 29. Juli 1914 in Bad Aibling, Oberbayern) war ein deutscher Maler.</abstract>
 <wikilink>http://en.wikipedia.org/wiki/Johann_Sperl?oldid=564744766</wikilink>
+<artworks />
+<buildings />
+<books />
 </Person>

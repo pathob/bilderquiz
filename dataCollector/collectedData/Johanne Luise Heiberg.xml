@@ -1,0 +1,30 @@
+<Person>
+<name>Johanne Luise Heiberg</name>
+<variantName>
+<XML_Serializer_Tag>Johanne L. Heiberg</XML_Serializer_Tag>
+<XML_Serializer_Tag>Johanne Luise Pätges</XML_Serializer_Tag>
+<XML_Serializer_Tag>Johanna Luise Heiberg</XML_Serializer_Tag>
+<XML_Serializer_Tag>Johanne Luise Pätges Heiberg</XML_Serializer_Tag>
+</variantName>
+<thumbnail>https://commons.wikimedia.org/wiki/Special:FilePath/Johanne_Luise_Heiberg.jpg?width=270</thumbnail>
+<birthEN>November 22, 1812</birthEN>
+<birthDE>22. November 1812</birthDE>
+<deathEN>December 21, 1890</deathEN>
+<deathDE>21. Dezember 1890</deathDE>
+<birthPlace>
+<XML_Serializer_Tag>Kopenhagen</XML_Serializer_Tag>
+</birthPlace>
+<deathPlace>
+<XML_Serializer_Tag>Kopenhagen</XML_Serializer_Tag>
+</deathPlace>
+<professionOrOccupation>
+<XML_Serializer_Tag>Schauspielerin</XML_Serializer_Tag>
+<XML_Serializer_Tag>Schriftstellerin</XML_Serializer_Tag>
+</professionOrOccupation>
+<dbpResource>http://dbpedia.org/resource/Johanne_Luise_Heiberg</dbpResource>
+<abstract>Johanne Luise Heiberg, geb. Pätges, (* 22. November 1812 in Kopenhagen, Dänemark; † 21. Dezember 1890 ebenda) war eine Schauspielerin in Kopenhagen während des Goldenen Zeitalters von Dänemark.</abstract>
+<wikilink>http://en.wikipedia.org/wiki/Johanne_Luise_Heiberg?oldid=573517171</wikilink>
+<artworks />
+<buildings />
+<books />
+</Person>

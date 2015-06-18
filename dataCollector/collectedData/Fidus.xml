@@ -1,0 +1,31 @@
+<Person>
+<name>Fidus</name>
+<variantName>
+<XML_Serializer_Tag>Hugo Höppener</XML_Serializer_Tag>
+<XML_Serializer_Tag>Hugo Reinhold Fidus</XML_Serializer_Tag>
+<XML_Serializer_Tag>Hugo Reinhold Karl Johann Höppener</XML_Serializer_Tag>
+<XML_Serializer_Tag>H. Höppener-Fidus</XML_Serializer_Tag>
+<XML_Serializer_Tag>Hugo Höppener-Fidus</XML_Serializer_Tag>
+<XML_Serializer_Tag>Hugo R. Höppener</XML_Serializer_Tag>
+</variantName>
+<thumbnail>https://commons.wikimedia.org/wiki/Special:FilePath/Fidushaus_Woltersdorf_2.JPG?width=270</thumbnail>
+<birthEN>October 8, 1868</birthEN>
+<birthDE>8. Oktober 1868</birthDE>
+<deathEN>February 23, 1948</deathEN>
+<deathDE>23. Februar 1948</deathDE>
+<birthPlace>
+<XML_Serializer_Tag>Lübeck</XML_Serializer_Tag>
+</birthPlace>
+<deathPlace>
+<XML_Serializer_Tag>Woltersdorf (Landkreis Oder-Spree)</XML_Serializer_Tag>
+</deathPlace>
+<professionOrOccupation>
+<XML_Serializer_Tag>Künstler</XML_Serializer_Tag>
+</professionOrOccupation>
+<dbpResource>http://dbpedia.org/resource/Fidus</dbpResource>
+<abstract>Fidus (bürgerlich Hugo Reinhold Karl Johann Höppener, * 8. Oktober 1868 in Lübeck; † 23. Februar 1948 in Woltersdorf) war ein deutscher Maler, Illustrator und bedeutender Vertreter der Lebensreform.</abstract>
+<wikilink>http://en.wikipedia.org/wiki/Fidus?oldid=601628869</wikilink>
+<artworks />
+<buildings />
+<books />
+</Person>

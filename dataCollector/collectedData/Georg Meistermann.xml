@@ -17,8 +17,10 @@
 <professionOrOccupation>
 <XML_Serializer_Tag>Maler</XML_Serializer_Tag>
 </professionOrOccupation>
-<artworks />
 <dbpResource>http://dbpedia.org/resource/Georg_Meistermann</dbpResource>
 <abstract>Georg Meistermann (* 16. Juni 1911 in Solingen; † 12. Juni 1990 in Köln) war ein deutscher Maler, Zeichner und Graphiker. Er schuf über eintausend Glasfenster an rund 250 Orten in Europa.Meistermann lehrte als Professor an der Frankfurter Städelschule, an der Akademie der Bildenden Künste München und an der Kunstakademie Düsseldorf und war von 1965 bis 1972 Präsident des Deutschen Künstlerbundes.</abstract>
 <wikilink>http://en.wikipedia.org/wiki/Georg_Meistermann?oldid=564843078</wikilink>
+<artworks />
+<buildings />
+<books />
 </Person>

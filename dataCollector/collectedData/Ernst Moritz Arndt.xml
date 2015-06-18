@@ -1,0 +1,39 @@
+<Person>
+<name>Ernst Moritz Arndt</name>
+<variantName>
+<XML_Serializer_Tag>Ernst M. Arndt</XML_Serializer_Tag>
+<XML_Serializer_Tag>Ernst Moriz Arndt</XML_Serializer_Tag>
+<XML_Serializer_Tag>E. M. Arndt</XML_Serializer_Tag>
+<XML_Serializer_Tag>F. Schaller</XML_Serializer_Tag>
+<XML_Serializer_Tag>X. Y. Z.</XML_Serializer_Tag>
+<XML_Serializer_Tag>E. M. A.</XML_Serializer_Tag>
+<XML_Serializer_Tag>E. M. A.</XML_Serializer_Tag>
+<XML_Serializer_Tag>X. Y Z.</XML_Serializer_Tag>
+<XML_Serializer_Tag>E. von S.</XML_Serializer_Tag>
+</variantName>
+<thumbnail>https://commons.wikimedia.org/wiki/Special:FilePath/Ernst_Moritz_Arndt.gif?width=270</thumbnail>
+<birthEN>December 26, 1769</birthEN>
+<birthDE>26. Dezember 1769</birthDE>
+<deathEN>January 29, 1860</deathEN>
+<deathDE>29. Januar 1860</deathDE>
+<birthPlace>
+<XML_Serializer_Tag>Garz- Groß Schoritz</XML_Serializer_Tag>
+</birthPlace>
+<deathPlace>
+<XML_Serializer_Tag>Bonn</XML_Serializer_Tag>
+</deathPlace>
+<professionOrOccupation>
+<XML_Serializer_Tag>Schriftsteller</XML_Serializer_Tag>
+<XML_Serializer_Tag>Publizist</XML_Serializer_Tag>
+<XML_Serializer_Tag>Historiker</XML_Serializer_Tag>
+<XML_Serializer_Tag>Politiker</XML_Serializer_Tag>
+<XML_Serializer_Tag>Komponist</XML_Serializer_Tag>
+<XML_Serializer_Tag>Theologe</XML_Serializer_Tag>
+</professionOrOccupation>
+<dbpResource>http://dbpedia.org/resource/Ernst_Moritz_Arndt</dbpResource>
+<abstract>Ernst Moritz Arndt (* 26. Dezember 1769 in Groß Schoritz auf Rügen (von 1648 bis 1815 Teil Schwedens); † 29. Januar 1860 in Bonn, Preußen) war ein deutscher Schriftsteller, Freiheitskämpfer und Abgeordneter der Frankfurter Nationalversammlung. Er widmete sich hauptsächlich der Mobilisierung gegen die Besatzung Deutschlands durch Napoleon. Er gilt als einer der bedeutendsten Lyriker der Epoche der Freiheitskriege und wird sehr unterschiedlich beurteilt: Einige betonen seine demokratischen Gedanken und sehen ihn als deutschen Patrioten in turbulenten Zeiten, andere wiederum charakterisieren ihn als Nationalisten und heben vorhandene antisemitische Tendenzen in seinen Schriften hervor.</abstract>
+<wikilink>http://en.wikipedia.org/wiki/Ernst_Moritz_Arndt?oldid=604155233</wikilink>
+<artworks />
+<buildings />
+<books />
+</Person>

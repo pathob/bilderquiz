@@ -1,0 +1,82 @@
+<Person>
+<name>John Vanbrugh</name>
+<variantName>
+<XML_Serializer_Tag>J. Vanbrugh</XML_Serializer_Tag>
+<XML_Serializer_Tag>John Vanburgh</XML_Serializer_Tag>
+<XML_Serializer_Tag>... Vanbrugh</XML_Serializer_Tag>
+<XML_Serializer_Tag>John van Brugh</XML_Serializer_Tag>
+<XML_Serializer_Tag>... Vanbrug</XML_Serializer_Tag>
+</variantName>
+<thumbnail>https://commons.wikimedia.org/wiki/Special:FilePath/John_Vanbrugh.jpg?width=270</thumbnail>
+<birthEN>1664</birthEN>
+<birthDE>1664</birthDE>
+<deathEN>1726</deathEN>
+<deathDE>1726</deathDE>
+<birthPlace />
+<deathPlace />
+<professionOrOccupation>
+<XML_Serializer_Tag>Dramatiker</XML_Serializer_Tag>
+<XML_Serializer_Tag>Architekt</XML_Serializer_Tag>
+</professionOrOccupation>
+<dbpResource>http://dbpedia.org/resource/John_Vanbrugh</dbpResource>
+<abstract>Sir John Vanbrugh [ˈvænbrə], auch [vənˈbruː] (getauft 24. Januar 1664 in London; † 26. März 1726 ebenda) war ein englischer Barock-Architekt und Dramatiker. Sein bekanntestes Bauwerk ist Blenheim Palace. Seine beiden provokanten Komödien The Relapse (Der Rückfall, 1696) und The Provoked Wife (Die provozierte Ehefrau, 1697) waren große Bühnenerfolge und wurden kontrovers diskutiert.Vanbrugh vertrat sein Leben lang radikale Ansichten. Als junger Mann war er ein überzeugter Anhänger der Whig-Partei und an der Glorious Revolution beteiligt, die den Sieg des Parlamentarismus in England besiegelte. In ihrem Verlauf wurde der absolutistisch gesinnte König Jakob II. durch Wilhelm von Oranien-Nassau ersetzt, der 1689 als William III. den englischen Thron bestieg. Vanbrughs Beteiligung an dem Umsturz führte dazu, dass er einige Zeit als politischer Gefangener in der Bastille von Paris verbringen musste. Mit seinen auch in sexueller Hinsicht unverblümten Bühnenstücken, in denen er die Rechte verheirateter Frauen verteidigte, verstieß er gegen die Regeln der englischen Gesellschaft des 18. Jahrhunderts. Er wurde deshalb immer wieder angegriffen und war das Haupt-Angriffsziel von Jeremy Colliers Schrift A Short View of the Immorality and Profaneness of the English Stage (Eine kurze Betrachtung über die Unsittlichkeit und Gottlosigkeit der englischen Bühne). Als Architekt schuf er Bauten, die später als englischer Barock bezeichnet wurden. Sein architektonisches Werk war nicht weniger kühn als seine frühen politischen Aktivitäten oder seine Bühnenstücke. Auch damit erregte er die Kritik Konservativer.Vanbrughs Londoner Karriere lässt sich nicht als geradlinig bezeichnen. Er versuchte, sein Leben als Dramatiker, Theaterintendant und Architekt in Einklang zu bringen und verfolgte häufig mehrere Tätigkeiten parallel.</abstract>
+<wikilink>http://en.wikipedia.org/wiki/John_Vanbrugh?oldid=601947174</wikilink>
+<artworks />
+<buildings>
+<XML_Serializer_Tag>
+<building>
+<type>uri</type>
+<value>http://dbpedia.org/resource/Kings_Weston_House</value>
+</building>
+<name>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>Kings Weston House</value>
+</name>
+<architect>
+<type>uri</type>
+<value>http://dbpedia.org/resource/John_Vanbrugh</value>
+</architect>
+<thumbnail>
+<type>uri</type>
+<value>http://commons.wikimedia.org/wiki/Special:FilePath/Kings_Weston_House_crop.jpg?width=300</value>
+</thumbnail>
+<wikilink>
+<type>uri</type>
+<value>http://en.wikipedia.org/wiki/Kings_Weston_House?oldid=595149877</value>
+</wikilink>
+<location>
+<type>uri</type>
+<value>http://dbpedia.org/resource/Bristol</value>
+</location>
+</XML_Serializer_Tag>
+<XML_Serializer_Tag>
+<building>
+<type>uri</type>
+<value>http://dbpedia.org/resource/St_Peter&apos;s_Church,_Aston-by-Sutton</value>
+</building>
+<name>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>St Peter&apos;s Church, Aston-by-Sutton</value>
+</name>
+<architect>
+<type>uri</type>
+<value>http://dbpedia.org/resource/John_Vanbrugh</value>
+</architect>
+<thumbnail>
+<type>uri</type>
+<value>http://commons.wikimedia.org/wiki/Special:FilePath/Aston_St_Peter_4.jpg?width=300</value>
+</thumbnail>
+<wikilink>
+<type>uri</type>
+<value>http://en.wikipedia.org/wiki/St_Peter&apos;s_Church,_Aston-by-Sutton?oldid=605284261</value>
+</wikilink>
+<location>
+<type>uri</type>
+<value>http://dbpedia.org/resource/Cheshire</value>
+</location>
+</XML_Serializer_Tag>
+</buildings>
+<books />
+</Person>

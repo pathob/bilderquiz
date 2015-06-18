@@ -23,12 +23,15 @@
 <XML_Serializer_Tag>Radierer</XML_Serializer_Tag>
 <XML_Serializer_Tag>Graphiker</XML_Serializer_Tag>
 </professionOrOccupation>
+<dbpResource>http://dbpedia.org/resource/James_Tissot</dbpResource>
+<abstract>James Tissot (eigentlich Jacques Joseph Tissot; * 15. Oktober 1836 in Nantes; † 8. August 1902 in Buillon) war ein französischer Maler und Grafiker. Der vor allem für seine Porträts im viktorianischen England der 1870er Jahre bekannte Künstler widmete sich in seinem Spätwerk überwiegend religiösen Themen.</abstract>
+<wikilink>http://en.wikipedia.org/wiki/James_Tissot?oldid=603227331</wikilink>
 <artworks>
 <XML_Serializer_Tag>
-<painting>
+<artwork>
 <type>uri</type>
 <value>http://dbpedia.org/resource/The_Shop_Girl_(Tissot)</value>
-</painting>
+</artwork>
 <thumbnail>
 <type>uri</type>
 <value>http://commons.wikimedia.org/wiki/Special:FilePath/James_Tissot_-_The_Shop_Girl.jpg?width=300</value>
@@ -47,9 +50,12 @@
 <type>uri</type>
 <value>http://en.wikipedia.org/wiki/The_Shop_Girl_(Tissot)?oldid=590862767</value>
 </wikilink>
+<type>
+<type>uri</type>
+<value>http://dbpedia.org/resource/Oil_painting</value>
+</type>
 </XML_Serializer_Tag>
 </artworks>
-<dbpResource>http://dbpedia.org/resource/James_Tissot</dbpResource>
-<abstract>James Tissot (eigentlich Jacques Joseph Tissot; * 15. Oktober 1836 in Nantes; † 8. August 1902 in Buillon) war ein französischer Maler und Grafiker. Der vor allem für seine Porträts im viktorianischen England der 1870er Jahre bekannte Künstler widmete sich in seinem Spätwerk überwiegend religiösen Themen.</abstract>
-<wikilink>http://en.wikipedia.org/wiki/James_Tissot?oldid=603227331</wikilink>
+<buildings />
+<books />
 </Person>

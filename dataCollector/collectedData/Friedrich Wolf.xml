@@ -1,0 +1,36 @@
+<Person>
+<name>Friedrich Wolf</name>
+<variantName>
+<XML_Serializer_Tag>Friedrich Wolff</XML_Serializer_Tag>
+<XML_Serializer_Tag>Furīdorihi Vorufu</XML_Serializer_Tag>
+<XML_Serializer_Tag>Fridrich Volʹf</XML_Serializer_Tag>
+<XML_Serializer_Tag>Fryderyk Wolf</XML_Serializer_Tag>
+<XML_Serializer_Tag>Fridrikh Volʹf</XML_Serializer_Tag>
+<XML_Serializer_Tag>Pʹridrix Volpʹi</XML_Serializer_Tag>
+<XML_Serializer_Tag>Fritz Wolf</XML_Serializer_Tag>
+<XML_Serializer_Tag>Fr. W.</XML_Serializer_Tag>
+</variantName>
+<thumbnail>https://commons.wikimedia.org/wiki/Special:FilePath/Bundesarchiv_Bild_183-14811-0013,_Berlin,_3._Deutscher_Schriftsteller-Kongress_cropped.jpg?width=270</thumbnail>
+<birthEN>December 23, 1888</birthEN>
+<birthDE>23. Dezember 1888</birthDE>
+<deathEN>October 5, 1953</deathEN>
+<deathDE>5. Oktober 1953</deathDE>
+<birthPlace>
+<XML_Serializer_Tag>Neuwied</XML_Serializer_Tag>
+</birthPlace>
+<deathPlace>
+<XML_Serializer_Tag>Oranienburg-Lehnitz</XML_Serializer_Tag>
+</deathPlace>
+<professionOrOccupation>
+<XML_Serializer_Tag>Dramatiker</XML_Serializer_Tag>
+<XML_Serializer_Tag>Arzt</XML_Serializer_Tag>
+<XML_Serializer_Tag>Schriftsteller</XML_Serializer_Tag>
+<XML_Serializer_Tag>Drehbuchautor</XML_Serializer_Tag>
+</professionOrOccupation>
+<dbpResource>http://dbpedia.org/resource/Friedrich_Wolf_(writer)</dbpResource>
+<abstract>Friedrich Wolf (* 23. Dezember 1888 in Neuwied; † 5. Oktober 1953 in Lehnitz bei Berlin) war ein deutscher Arzt, Schriftsteller und kommunistischer Politiker.</abstract>
+<wikilink>http://en.wikipedia.org/wiki/Friedrich_Wolf_(writer)?oldid=606135897</wikilink>
+<artworks />
+<buildings />
+<books />
+</Person>

@@ -1,0 +1,30 @@
+<Person>
+<name>Franz Hohler</name>
+<variantName>
+<XML_Serializer_Tag>Fu lan ci Hou le</XML_Serializer_Tag>
+<XML_Serializer_Tag>Fulanci-Houle</XML_Serializer_Tag>
+<XML_Serializer_Tag>Fulanci Houle</XML_Serializer_Tag>
+<XML_Serializer_Tag>פרנץ הולר</XML_Serializer_Tag>
+</variantName>
+<thumbnail>https://commons.wikimedia.org/wiki/Special:FilePath/Franz_Hohler_Sommer.jpg?width=270</thumbnail>
+<birthEN>1943</birthEN>
+<birthDE>1943</birthDE>
+<deathEN />
+<deathDE />
+<birthPlace>
+<XML_Serializer_Tag>Biel</XML_Serializer_Tag>
+</birthPlace>
+<deathPlace />
+<professionOrOccupation>
+<XML_Serializer_Tag>Schriftsteller</XML_Serializer_Tag>
+<XML_Serializer_Tag>Kabarettist</XML_Serializer_Tag>
+<XML_Serializer_Tag>Liedermacher</XML_Serializer_Tag>
+<XML_Serializer_Tag>Sprecher</XML_Serializer_Tag>
+</professionOrOccupation>
+<dbpResource>http://dbpedia.org/resource/Franz_Hohler</dbpResource>
+<abstract>Franz Hohler (* 1. März 1943 in Biel) ist ein Schweizer Schriftsteller, Kabarettist und Liedermacher.</abstract>
+<wikilink>http://en.wikipedia.org/wiki/Franz_Hohler?oldid=591443751</wikilink>
+<artworks />
+<buildings />
+<books />
+</Person>

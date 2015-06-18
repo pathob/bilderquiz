@@ -1,0 +1,29 @@
+<Person>
+<name>Filippo Tommaso Marinetti</name>
+<variantName>
+<XML_Serializer_Tag>Emilio Filippo Marinetti</XML_Serializer_Tag>
+<XML_Serializer_Tag>Emilio Filippo Tommaso Marinetti</XML_Serializer_Tag>
+<XML_Serializer_Tag>F.-T. Marinetti</XML_Serializer_Tag>
+<XML_Serializer_Tag>F. T. Marinetti</XML_Serializer_Tag>
+<XML_Serializer_Tag>Filippo Tommaso Marinetti</XML_Serializer_Tag>
+</variantName>
+<thumbnail>https://commons.wikimedia.org/wiki/Special:FilePath/FilippoTommasoMarinetti.jpg?width=270</thumbnail>
+<birthEN>December 22, 1876</birthEN>
+<birthDE>22. Dezember 1876</birthDE>
+<deathEN>December 2, 1944</deathEN>
+<deathDE>2. Dezember 1944</deathDE>
+<birthPlace>
+<XML_Serializer_Tag>Alexandria</XML_Serializer_Tag>
+</birthPlace>
+<deathPlace />
+<professionOrOccupation>
+<XML_Serializer_Tag>Schriftsteller</XML_Serializer_Tag>
+<XML_Serializer_Tag>Sprecher</XML_Serializer_Tag>
+</professionOrOccupation>
+<dbpResource>http://dbpedia.org/resource/Filippo_Tommaso_Marinetti</dbpResource>
+<abstract>Filippo Tommaso Marinetti (* 22. Dezember 1876 in Alexandria, Ägypten; † 2. Dezember 1944 in Bellagio, Italien) war ein italienischer Schriftsteller, faschistischer Politiker und Begründer des Futurismus.</abstract>
+<wikilink>http://en.wikipedia.org/wiki/Filippo_Tommaso_Marinetti?oldid=605183081</wikilink>
+<artworks />
+<buildings />
+<books />
+</Person>

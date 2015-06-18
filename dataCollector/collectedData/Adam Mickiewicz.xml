@@ -1,0 +1,66 @@
+<Person>
+<name>Adam Mickiewicz</name>
+<variantName>
+<XML_Serializer_Tag>Adam Bernard Mickiewicz</XML_Serializer_Tag>
+<XML_Serializer_Tag>Adam Mizkiewitsch</XML_Serializer_Tag>
+<XML_Serializer_Tag>Adam Mickiewitz</XML_Serializer_Tag>
+<XML_Serializer_Tag>Adam Bernhard Mickiewicz</XML_Serializer_Tag>
+<XML_Serializer_Tag>Adam Mickevičius</XML_Serializer_Tag>
+<XML_Serializer_Tag>Adam Mickevič</XML_Serializer_Tag>
+<XML_Serializer_Tag>Adam Mit︠s︡kevich</XML_Serializer_Tag>
+<XML_Serializer_Tag>Mi-tzʿŭ-kʿai-wei-chih</XML_Serializer_Tag>
+<XML_Serializer_Tag>Adam Mitski︠e︡vych</XML_Serializer_Tag>
+<XML_Serializer_Tag>Adomas Mickevičius</XML_Serializer_Tag>
+<XML_Serializer_Tag>Adam Mickewicz</XML_Serializer_Tag>
+<XML_Serializer_Tag>Adam Mickjevič</XML_Serializer_Tag>
+<XML_Serializer_Tag>Adam Mitsḳevits&apos;</XML_Serializer_Tag>
+<XML_Serializer_Tag>Adam Mit︠s︡kevych</XML_Serializer_Tag>
+<XML_Serializer_Tag>Adam Mickevyč</XML_Serializer_Tag>
+<XML_Serializer_Tag>Mickus</XML_Serializer_Tag>
+<XML_Serializer_Tag>Adam Mickevyc</XML_Serializer_Tag>
+<XML_Serializer_Tag>Adamo Mickiewicz</XML_Serializer_Tag>
+<XML_Serializer_Tag>A. Mickevičius</XML_Serializer_Tag>
+<XML_Serializer_Tag>A. Mickiewicz</XML_Serializer_Tag>
+<XML_Serializer_Tag>Ad. Mickiewicz</XML_Serializer_Tag>
+<XML_Serializer_Tag>Mizkiewcz</XML_Serializer_Tag>
+</variantName>
+<thumbnail>https://commons.wikimedia.org/wiki/Special:FilePath/Adam_mickiewicz_550.jpg?width=270</thumbnail>
+<birthEN>December 24, 1798</birthEN>
+<birthDE>24. Dezember 1798</birthDE>
+<deathEN>November 26, 1855</deathEN>
+<deathDE>26. November 1855</deathDE>
+<birthPlace>
+<XML_Serializer_Tag>Zaosie</XML_Serializer_Tag>
+</birthPlace>
+<deathPlace>
+<XML_Serializer_Tag>İstanbul</XML_Serializer_Tag>
+</deathPlace>
+<professionOrOccupation>
+<XML_Serializer_Tag>Schriftsteller</XML_Serializer_Tag>
+</professionOrOccupation>
+<dbpResource>http://dbpedia.org/resource/Adam_Mickiewicz</dbpResource>
+<abstract>Adam Bernard Mickiewicz ( audio?/i) (* 24. Dezember 1798 in Zaosie bei Nowogródek, Russisches Kaiserreich, heute Weißrussland; † 26. November 1855 in Konstantinopel, Osmanisches Reich, heute Istanbul, Türkei) gilt als der Nationaldichter Polens und wichtigster Vertreter der polnischen Romantik in einer Zeit der Nichtexistenz eines polnischen Nationalstaats.</abstract>
+<wikilink>http://en.wikipedia.org/wiki/Adam_Mickiewicz?oldid=602579734</wikilink>
+<artworks />
+<buildings />
+<books>
+<XML_Serializer_Tag>
+<book>
+<type>uri</type>
+<value>http://dbpedia.org/resource/Gra%C5%BCyna_(poem)</value>
+</book>
+<author>
+<type>uri</type>
+<value>http://dbpedia.org/resource/Adam_Mickiewicz</value>
+</author>
+<thumbnail>
+<type>uri</type>
+<value>http://commons.wikimedia.org/wiki/Special:FilePath/012Planty.JPG?width=300</value>
+</thumbnail>
+<wikilink>
+<type>uri</type>
+<value>http://en.wikipedia.org/wiki/Grażyna_(poem)?oldid=590648048</value>
+</wikilink>
+</XML_Serializer_Tag>
+</books>
+</Person>

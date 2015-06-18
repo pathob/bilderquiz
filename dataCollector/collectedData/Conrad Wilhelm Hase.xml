@@ -1,0 +1,31 @@
+<Person>
+<name>Conrad Wilhelm Hase</name>
+<variantName>
+<XML_Serializer_Tag>Konrad Wilhelm Hase</XML_Serializer_Tag>
+<XML_Serializer_Tag>... Hase</XML_Serializer_Tag>
+<XML_Serializer_Tag>Conrad W. Hase</XML_Serializer_Tag>
+<XML_Serializer_Tag>Konrad W. Hase</XML_Serializer_Tag>
+<XML_Serializer_Tag>C. W. Hase</XML_Serializer_Tag>
+<XML_Serializer_Tag>K. Wilhelm Hase</XML_Serializer_Tag>
+</variantName>
+<thumbnail>https://commons.wikimedia.org/wiki/Special:FilePath/C_W_Hase_1845.jpg?width=270</thumbnail>
+<birthEN>October 2, 1818</birthEN>
+<birthDE>2. Oktober 1818</birthDE>
+<deathEN>March 28, 1902</deathEN>
+<deathDE>28. März 1902</deathDE>
+<birthPlace>
+<XML_Serializer_Tag>Einbeck</XML_Serializer_Tag>
+</birthPlace>
+<deathPlace>
+<XML_Serializer_Tag>Hannover</XML_Serializer_Tag>
+</deathPlace>
+<professionOrOccupation>
+<XML_Serializer_Tag>Architekt</XML_Serializer_Tag>
+</professionOrOccupation>
+<dbpResource>http://dbpedia.org/resource/Conrad_Wilhelm_Hase</dbpResource>
+<abstract>Conrad Wilhelm Hase (* 2. Oktober 1818 in Einbeck; † 28. März 1902 in Hannover) war ein deutscher Architekt und Hochschullehrer.</abstract>
+<wikilink>http://en.wikipedia.org/wiki/Conrad_Wilhelm_Hase?oldid=594087506</wikilink>
+<artworks />
+<buildings />
+<books />
+</Person>

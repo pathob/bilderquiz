@@ -1,0 +1,208 @@
+<Person>
+<name>Albert Camus</name>
+<variantName>
+<XML_Serializer_Tag>... Camus</XML_Serializer_Tag>
+<XML_Serializer_Tag>Al&apos;ber Kamju</XML_Serializer_Tag>
+<XML_Serializer_Tag>Albīr Kām̄u</XML_Serializer_Tag>
+<XML_Serializer_Tag>... K&apos;amwi</XML_Serializer_Tag>
+<XML_Serializer_Tag>Alber Ḳami</XML_Serializer_Tag>
+<XML_Serializer_Tag>Al&apos;ber Kamje</XML_Serializer_Tag>
+<XML_Serializer_Tag>Alber Kami</XML_Serializer_Tag>
+<XML_Serializer_Tag>&apos;Ai-la-bhat Ka-mūḥ</XML_Serializer_Tag>
+<XML_Serializer_Tag>Alber Qāmî</XML_Serializer_Tag>
+</variantName>
+<thumbnail>https://commons.wikimedia.org/wiki/Special:FilePath/Albert_Camus,_gagnant_de_prix_Nobel,_portrait_en_buste,_posé_au_bureau,_faisant_face_à_gauche,_cigarette_de_tabagisme.jpg?width=270</thumbnail>
+<birthEN>November 7, 1913</birthEN>
+<birthDE>7. November 1913</birthDE>
+<deathEN>January 4, 1960</deathEN>
+<deathDE>4. Januar 1960</deathDE>
+<birthPlace>
+<XML_Serializer_Tag>Mondovi bei Annaba, Algerien</XML_Serializer_Tag>
+</birthPlace>
+<deathPlace>
+<XML_Serializer_Tag>Villeblevin</XML_Serializer_Tag>
+</deathPlace>
+<professionOrOccupation>
+<XML_Serializer_Tag>Philosoph</XML_Serializer_Tag>
+<XML_Serializer_Tag>Schauspieler</XML_Serializer_Tag>
+<XML_Serializer_Tag>Journalist</XML_Serializer_Tag>
+<XML_Serializer_Tag>Schriftsteller</XML_Serializer_Tag>
+</professionOrOccupation>
+<dbpResource>http://dbpedia.org/resource/Albert_Camus</dbpResource>
+<abstract>Albert Camus [alˈbɛːʀ kaˈmy] (* 7. November 1913 in Mondovi, Französisch-Nordafrika, heute Dréan, Algerien; † 4. Januar 1960 nahe Villeblevin, Frankreich) war ein französischer Schriftsteller und Philosoph. 1957 erhielt er für sein publizistisches Gesamtwerk den Nobelpreis für Literatur. Camus gilt als einer der bekanntesten und bedeutendsten französischen Autoren des 20. Jahrhunderts.</abstract>
+<wikilink>http://en.wikipedia.org/wiki/Albert_Camus?oldid=605625058</wikilink>
+<artworks />
+<buildings />
+<books>
+<XML_Serializer_Tag>
+<book>
+<type>uri</type>
+<value>http://dbpedia.org/resource/The_Fall_(Albert_Camus_novel)</value>
+</book>
+<author>
+<type>uri</type>
+<value>http://dbpedia.org/resource/Albert_Camus</value>
+</author>
+<thumbnail>
+<type>uri</type>
+<value>http://commons.wikimedia.org/wiki/Special:FilePath/Amsterdam_airphoto.jpg?width=300</value>
+</thumbnail>
+<released>
+<type>typed-literal</type>
+<datatype>http://www.w3.org/2001/XMLSchema#integer</datatype>
+<value>1956</value>
+</released>
+<wikilink>
+<type>uri</type>
+<value>http://en.wikipedia.org/wiki/The_Fall_(Albert_Camus_novel)?oldid=599735061</value>
+</wikilink>
+<abstract>
+<type>literal</type>
+<xml:lang>de</xml:lang>
+<value>Der Fall (franz. La Chute) ist ein Roman von Albert Camus. Er sollte eigentlich in Camus’ Novellen des Exils (Das Exil und das Reich) veröffentlicht werden, wurde dann aber zu umfangreich, und erschien bereits im Jahr 1956 als vorgeschobenes Einzelwerk. Er ist Camus’ letztes vollendetes Prosawerk. Die Geschichte ist in Amsterdam angesiedelt und wird als Monolog vom selbsternannten „Bußrichter“ Jean-Baptiste Clamence erzählt, der einem Fremden seine Vergangenheit als erfolgreicher Anwalt offenbart. In seiner Lebensbeichte berichtet er von seiner Krise und seinem Fall, der als individuelle säkulare Version des Sündenfalls gesehen werden kann. Das Werk erkundet Themen wie Bewusstsein, Freiheit und die Sinnlosigkeit des menschlichen Lebens. Clamence kann in der Tradition von Lermontows Ein Held unserer Zeit, Fjodor Dostojewskis Aufzeichnungen aus dem Kellerloch und Friedrich Nietzsches Also sprach Zarathustra gesehen werden.Die Besonderheit dieses Romans liegt darin, dass der Protagonist, der die Beichte ablegt, im ganzen Werk als Einziger zu Wort kommt. Der Verzicht auf einen allwissenden Erzähler, der auch Camus&apos; 14 Jahre zuvor erschienenen Roman Der Fremde prägt, nimmt dem Leser die Möglichkeit, das Geschehen zu objektivieren.</value>
+</abstract>
+</XML_Serializer_Tag>
+<XML_Serializer_Tag>
+<book>
+<type>uri</type>
+<value>http://dbpedia.org/resource/The_Plague</value>
+</book>
+<author>
+<type>uri</type>
+<value>http://dbpedia.org/resource/Albert_Camus</value>
+</author>
+<thumbnail>
+<type>uri</type>
+<value>http://commons.wikimedia.org/wiki/Special:FilePath/Library_Walk_5.JPG?width=300</value>
+</thumbnail>
+<wikilink>
+<type>uri</type>
+<value>http://en.wikipedia.org/wiki/The_Plague?oldid=602002876</value>
+</wikilink>
+<abstract>
+<type>literal</type>
+<xml:lang>de</xml:lang>
+<value>Die Pest (franz. La Peste) ist ein Roman von Albert Camus aus dem Jahr 1947.Nach fünfjähriger Arbeit stellte Albert Camus am Ende des ersten Nachkriegsjahres 1946 seinen Roman „Die Pest“ fertig. Bereits kurz nach der Veröffentlichung im Juni 1947 wurde das Werk ein großer Erfolg. Als einer der bedeutendsten Romane der Résistance und der französischen Nachkriegsliteratur ist die Chronik zum Allgemeingut der europäischen Kultur und damit weltberühmt geworden. Sie gehört insbesondere in Frankreich zur Pflichtlektüre an den Schulen.Werkhintergrund sind Camus’ persönliche Erfahrungen – insbesondere die des Zweiten Weltkriegs. Somit ist „Die Pest“ eine Reflexion aus distanziertem Blickwinkel über den Widerstand der Menschen gegen physische und moralische Zerstörung, bildet jedoch gleichzeitig einen wichtigen Bestandteil in Camus’ Philosophie, der Auseinandersetzung mit der Absurdität. Da die Handlungsgeschichte die Struktur eines Dramas mit fünf Akten aufweist, wurde das Werk in vielen Ländern auch als Theaterstück aufgeführt.</value>
+</abstract>
+</XML_Serializer_Tag>
+<XML_Serializer_Tag>
+<book>
+<type>uri</type>
+<value>http://dbpedia.org/resource/The_Stranger_(novel)</value>
+</book>
+<author>
+<type>uri</type>
+<value>http://dbpedia.org/resource/Albert_Camus</value>
+</author>
+<released>
+<type>typed-literal</type>
+<datatype>http://www.w3.org/2001/XMLSchema#integer</datatype>
+<value>1943</value>
+</released>
+<wikilink>
+<type>uri</type>
+<value>http://en.wikipedia.org/wiki/The_Stranger_(novel)?oldid=605938497</value>
+</wikilink>
+<abstract>
+<type>literal</type>
+<xml:lang>de</xml:lang>
+<value>Der Fremde (franz. L’Étranger) ist ein Roman des französischen Schriftstellers und Philosophen Albert Camus. Er erschien 1942 im Pariser Verlagshaus Gallimard. Der Text ist eines der Hauptwerke der Philosophie des Existentialismus.</value>
+</abstract>
+</XML_Serializer_Tag>
+<XML_Serializer_Tag>
+<book>
+<type>uri</type>
+<value>http://dbpedia.org/resource/The_First_Man</value>
+</book>
+<author>
+<type>uri</type>
+<value>http://dbpedia.org/resource/Albert_Camus</value>
+</author>
+<released>
+<type>typed-literal</type>
+<datatype>http://www.w3.org/2001/XMLSchema#integer</datatype>
+<value>1994</value>
+</released>
+<wikilink>
+<type>uri</type>
+<value>http://en.wikipedia.org/wiki/The_First_Man?oldid=586476939</value>
+</wikilink>
+<abstract>
+<type>literal</type>
+<xml:lang>de</xml:lang>
+<value>Der erste Mensch (französisch Le premier homme) ist ein 1994 postum veröffentlichter, unvollendeter Roman des algerisch-französischen Schriftstellers und Philosophen Albert Camus.</value>
+</abstract>
+</XML_Serializer_Tag>
+<XML_Serializer_Tag>
+<book>
+<type>uri</type>
+<value>http://dbpedia.org/resource/Resistance,_Rebellion,_and_Death</value>
+</book>
+<author>
+<type>uri</type>
+<value>http://dbpedia.org/resource/Albert_Camus</value>
+</author>
+<released>
+<type>typed-literal</type>
+<datatype>http://www.w3.org/2001/XMLSchema#integer</datatype>
+<value>1961</value>
+</released>
+<wikilink>
+<type>uri</type>
+<value>http://en.wikipedia.org/wiki/Resistance,_Rebellion,_and_Death?oldid=598095535</value>
+</wikilink>
+</XML_Serializer_Tag>
+<XML_Serializer_Tag>
+<book>
+<type>uri</type>
+<value>http://dbpedia.org/resource/The_Myth_of_Sisyphus</value>
+</book>
+<author>
+<type>uri</type>
+<value>http://dbpedia.org/resource/Albert_Camus</value>
+</author>
+<wikilink>
+<type>uri</type>
+<value>http://en.wikipedia.org/wiki/The_Myth_of_Sisyphus?oldid=606736569</value>
+</wikilink>
+<abstract>
+<type>literal</type>
+<xml:lang>de</xml:lang>
+<value>Der Mythos des Sisyphos (französischer Originaltitel: Le mythe de Sisyphe) ist ein philosophischer Essay von Albert Camus aus dem Jahr 1942, erschienen bei Gallimard in Paris. Die erste deutsche Übersetzung aus dem Jahr 1956 trägt den Titel Der Mythos von Sisyphos.</value>
+</abstract>
+</XML_Serializer_Tag>
+<XML_Serializer_Tag>
+<book>
+<type>uri</type>
+<value>http://dbpedia.org/resource/A_Happy_Death</value>
+</book>
+<author>
+<type>uri</type>
+<value>http://dbpedia.org/resource/Albert_Camus</value>
+</author>
+<wikilink>
+<type>uri</type>
+<value>http://en.wikipedia.org/wiki/A_Happy_Death?oldid=591544084</value>
+</wikilink>
+<abstract>
+<type>literal</type>
+<xml:lang>de</xml:lang>
+<value>Der glückliche Tod (franz. La mort heureuse) ist der erste Roman des französischen Schriftstellers und Philosophen Albert Camus. Das existentialistische Werk behandelt den menschlichen „Willen zum Glück“, das bewusste Streben nach dem eigenen Glück, das Geld und die Zeit, die dafür benötigt werden. Das Buch stützt sich auf Erinnerungen des Autors an seine eigene Lohnarbeit bei einer Hafenkommission in Algerien, sein Leiden an der Tuberkulose und seine Reisen in Europa. Camus stellte den Roman zwischen 1936 und 1938 zusammen und überarbeitete ihn, entschied sich aber nicht für eine Veröffentlichung. Er diente ihm jedoch als Steinbruch für den erfolgreichen Roman Der Fremde von 1942. Beispielsweise heißt die Hauptfigur in La mort heureuse „Patrice Mersault“, in L‘Étranger „Meursault“. La mort heureuse wurde schließlich 1971 veröffentlicht, über zehn Jahre nach Camus&apos; Tod.</value>
+</abstract>
+</XML_Serializer_Tag>
+<XML_Serializer_Tag>
+<book>
+<type>uri</type>
+<value>http://dbpedia.org/resource/Betwixt_and_Between</value>
+</book>
+<author>
+<type>uri</type>
+<value>http://dbpedia.org/resource/Albert_Camus</value>
+</author>
+<wikilink>
+<type>uri</type>
+<value>http://en.wikipedia.org/wiki/Betwixt_and_Between?oldid=606371096</value>
+</wikilink>
+</XML_Serializer_Tag>
+</books>
+</Person>

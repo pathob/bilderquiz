@@ -1,0 +1,32 @@
+<Person>
+<name>John Wolcot</name>
+<variantName>
+<XML_Serializer_Tag>Peter Pindar</XML_Serializer_Tag>
+<XML_Serializer_Tag>Peter Pindar</XML_Serializer_Tag>
+<XML_Serializer_Tag>John Wolcott</XML_Serializer_Tag>
+<XML_Serializer_Tag>John Walcot</XML_Serializer_Tag>
+<XML_Serializer_Tag>John Ploughshare</XML_Serializer_Tag>
+<XML_Serializer_Tag>Jan Ploughshare</XML_Serializer_Tag>
+</variantName>
+<thumbnail>https://commons.wikimedia.org/wiki/Special:FilePath/John_Wolcot_by_John_Opie_detail.jpg?width=270</thumbnail>
+<birthEN>May 9, 1738</birthEN>
+<birthDE>9. Mai 1738</birthDE>
+<deathEN>January 13, 1819</deathEN>
+<deathDE>13. Januar 1819</deathDE>
+<birthPlace>
+<XML_Serializer_Tag>Dodbrooke, Devonshire</XML_Serializer_Tag>
+</birthPlace>
+<deathPlace>
+<XML_Serializer_Tag>Somerstown</XML_Serializer_Tag>
+</deathPlace>
+<professionOrOccupation>
+<XML_Serializer_Tag>Schriftsteller</XML_Serializer_Tag>
+<XML_Serializer_Tag>Satiriker</XML_Serializer_Tag>
+</professionOrOccupation>
+<dbpResource>http://dbpedia.org/resource/John_Wolcot</dbpResource>
+<abstract>John Wolcot (* 9. Mai 1738 in Dodbrooke in Devonshire; † 13. Januar 1819 in Somerstown) war ein englischer Satiriker, der unter dem Pseudonym Peter Pindar auftrat.</abstract>
+<wikilink>http://en.wikipedia.org/wiki/John_Wolcot?oldid=585694452</wikilink>
+<artworks />
+<buildings />
+<books />
+</Person>

@@ -1,0 +1,60 @@
+<Person>
+<name>Frantz Fanon</name>
+<variantName />
+<thumbnail>https://en.wikipedia.org/wiki/Special:FilePath/Frantz_Fanon.jpg?width=270</thumbnail>
+<birthEN>1925</birthEN>
+<birthDE>1925</birthDE>
+<deathEN>1961</deathEN>
+<deathDE>1961</deathDE>
+<birthPlace />
+<deathPlace />
+<professionOrOccupation>
+<XML_Serializer_Tag>Schriftsteller</XML_Serializer_Tag>
+<XML_Serializer_Tag>Arzt</XML_Serializer_Tag>
+</professionOrOccupation>
+<dbpResource>http://dbpedia.org/resource/Frantz_Fanon</dbpResource>
+<abstract>Frantz Fanon (* 20. Juli 1925 in Fort-de-France, Martinique; † 6. Dezember 1961 in Bethesda, Maryland) war ein französischer Psychiater, Politiker, Schriftsteller und Vordenker der Entkolonialisierung.</abstract>
+<wikilink>http://en.wikipedia.org/wiki/Frantz_Fanon?oldid=605999394</wikilink>
+<artworks />
+<buildings />
+<books>
+<XML_Serializer_Tag>
+<book>
+<type>uri</type>
+<value>http://dbpedia.org/resource/The_Wretched_of_the_Earth</value>
+</book>
+<author>
+<type>uri</type>
+<value>http://dbpedia.org/resource/Frantz_Fanon</value>
+</author>
+<released>
+<type>typed-literal</type>
+<datatype>http://www.w3.org/2001/XMLSchema#integer</datatype>
+<value>1961</value>
+</released>
+<wikilink>
+<type>uri</type>
+<value>http://en.wikipedia.org/wiki/The_Wretched_of_the_Earth?oldid=606343549</value>
+</wikilink>
+</XML_Serializer_Tag>
+<XML_Serializer_Tag>
+<book>
+<type>uri</type>
+<value>http://dbpedia.org/resource/Black_Skin,_White_Masks</value>
+</book>
+<author>
+<type>uri</type>
+<value>http://dbpedia.org/resource/Frantz_Fanon</value>
+</author>
+<released>
+<type>typed-literal</type>
+<datatype>http://www.w3.org/2001/XMLSchema#integer</datatype>
+<value>1952</value>
+</released>
+<wikilink>
+<type>uri</type>
+<value>http://en.wikipedia.org/wiki/Black_Skin,_White_Masks?oldid=601876473</value>
+</wikilink>
+</XML_Serializer_Tag>
+</books>
+</Person>

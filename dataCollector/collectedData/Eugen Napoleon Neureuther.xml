@@ -23,8 +23,10 @@
 <XML_Serializer_Tag>Maler</XML_Serializer_Tag>
 <XML_Serializer_Tag>Zeichner</XML_Serializer_Tag>
 </professionOrOccupation>
-<artworks />
 <dbpResource>http://dbpedia.org/resource/Eugen_Napoleon_Neureuther</dbpResource>
 <abstract>Eugen Napoleon Neureuther (* 13. Januar 1806 in München; † 23. März 1882 ebenda) war ein deutscher Maler, Zeichner und Radierer. Er ist ein Sohn des Malers Ludwig Neureuther (1775–1830). Sein Urenkel ist der ehemalige Skirennfahrer Christian Neureuther (geb. 1949).</abstract>
 <wikilink>http://en.wikipedia.org/wiki/Eugen_Napoleon_Neureuther?oldid=571628601</wikilink>
+<artworks />
+<buildings />
+<books />
 </Person>

@@ -1,0 +1,40 @@
+<Person>
+<name>Jacques Ellul</name>
+<variantName />
+<thumbnail>https://en.wikipedia.org/wiki/Special:FilePath/Jacquesellul.jpg?width=270</thumbnail>
+<birthEN>1912</birthEN>
+<birthDE>1912</birthDE>
+<deathEN>1994</deathEN>
+<deathDE>1994</deathDE>
+<birthPlace />
+<deathPlace />
+<professionOrOccupation>
+<XML_Serializer_Tag>Philosoph</XML_Serializer_Tag>
+</professionOrOccupation>
+<dbpResource>http://dbpedia.org/resource/Jacques_Ellul</dbpResource>
+<abstract>Jacques Ellul (* 6. Januar 1912 in Bordeaux; † 19. Mai 1994 ebenda) war ein französischer Soziologe und Theologe.</abstract>
+<wikilink>http://en.wikipedia.org/wiki/Jacques_Ellul?oldid=602119625</wikilink>
+<artworks />
+<buildings />
+<books>
+<XML_Serializer_Tag>
+<book>
+<type>uri</type>
+<value>http://dbpedia.org/resource/Propaganda:_The_Formation_of_Men&apos;s_Attitudes</value>
+</book>
+<author>
+<type>uri</type>
+<value>http://dbpedia.org/resource/Jacques_Ellul</value>
+</author>
+<wikilink>
+<type>uri</type>
+<value>http://en.wikipedia.org/wiki/Propaganda:_The_Formation_of_Men&apos;s_Attitudes?oldid=589970806</value>
+</wikilink>
+<abstract>
+<type>literal</type>
+<xml:lang>de</xml:lang>
+<value>Propaganda ist ein 1962 erstmals erschienenes Buch des französischen Soziologen Jacques Ellul. In diesem Werk analysiert Ellul neben den inneren und äußeren Erscheinungsformen und Kategorien von Propaganda ihre soziologischen Bedingungen und Notwendigkeiten sowie ihre psychologischen und demokratiethereotischen Auswirkungen. 1965 erschien die englische Übersetzung des Buches.</value>
+</abstract>
+</XML_Serializer_Tag>
+</books>
+</Person>

@@ -1,0 +1,26 @@
+<Person>
+<name>Camillo Baldi</name>
+<variantName>
+<XML_Serializer_Tag>Camillus Baldus</XML_Serializer_Tag>
+<XML_Serializer_Tag>Cammillo Baldi</XML_Serializer_Tag>
+<XML_Serializer_Tag>Camille Bald</XML_Serializer_Tag>
+<XML_Serializer_Tag>Camillo Baldi</XML_Serializer_Tag>
+<XML_Serializer_Tag>Camillo Baldus</XML_Serializer_Tag>
+</variantName>
+<thumbnail>https://commons.wikimedia.org/wiki/Special:FilePath/Camillo_Baldi_monument.jpg?width=270</thumbnail>
+<birthEN>1547</birthEN>
+<birthDE>1547</birthDE>
+<deathEN>1634</deathEN>
+<deathDE>1634</deathDE>
+<birthPlace />
+<deathPlace />
+<professionOrOccupation>
+<XML_Serializer_Tag>Philosoph</XML_Serializer_Tag>
+</professionOrOccupation>
+<dbpResource>http://dbpedia.org/resource/Camillo_Baldi</dbpResource>
+<abstract>Camillo Baldi, auch Camillus Baldus und Camillo Baldo genannt, (* um 1550 in Bologna; † 24. März 1637 ebenda) war ein italienischer Philosoph und Arzt.</abstract>
+<wikilink>http://en.wikipedia.org/wiki/Camillo_Baldi?oldid=551470852</wikilink>
+<artworks />
+<buildings />
+<books />
+</Person>

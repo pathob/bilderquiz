@@ -15,8 +15,10 @@
 <professionOrOccupation>
 <XML_Serializer_Tag>Maler</XML_Serializer_Tag>
 </professionOrOccupation>
-<artworks />
 <dbpResource>http://dbpedia.org/resource/Hans_Makart</dbpResource>
 <abstract>Hans Makart (* 28. Mai 1840 in Salzburg; † 3. Oktober 1884 in Wien) war ein österreichischer Maler und Dekorationskünstler. Er gilt als der repräsentative Maler der Ringstraßenepoche.</abstract>
 <wikilink>http://en.wikipedia.org/wiki/Hans_Makart?oldid=594251497</wikilink>
+<artworks />
+<buildings />
+<books />
 </Person>

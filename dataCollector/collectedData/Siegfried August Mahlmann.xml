@@ -1,0 +1,34 @@
+<Person>
+<name>Siegfried August Mahlmann</name>
+<variantName>
+<XML_Serializer_Tag>Siegfried A. Mahlmann</XML_Serializer_Tag>
+<XML_Serializer_Tag>S. A. Mahlmann</XML_Serializer_Tag>
+<XML_Serializer_Tag>August Mahlmann</XML_Serializer_Tag>
+<XML_Serializer_Tag>A. Mahlmann</XML_Serializer_Tag>
+<XML_Serializer_Tag>... Mahlmann</XML_Serializer_Tag>
+<XML_Serializer_Tag>... Bittermann</XML_Serializer_Tag>
+<XML_Serializer_Tag>Julius Heiter</XML_Serializer_Tag>
+<XML_Serializer_Tag>Bittermann</XML_Serializer_Tag>
+</variantName>
+<thumbnail>https://de.wikipedia.org/wiki/Special:FilePath/Siegfried_August_Mahlmann.jpg?width=270</thumbnail>
+<birthEN>May 13, 1771</birthEN>
+<birthDE>13. Mai 1771</birthDE>
+<deathEN>December 16, 1826</deathEN>
+<deathDE>16. Dezember 1826</deathDE>
+<birthPlace>
+<XML_Serializer_Tag>Leipzig</XML_Serializer_Tag>
+</birthPlace>
+<deathPlace>
+<XML_Serializer_Tag>Leipzig</XML_Serializer_Tag>
+</deathPlace>
+<professionOrOccupation>
+<XML_Serializer_Tag>Schriftsteller</XML_Serializer_Tag>
+<XML_Serializer_Tag>Verleger</XML_Serializer_Tag>
+</professionOrOccupation>
+<dbpResource>http://dbpedia.org/resource/Siegfried_August_Mahlmann</dbpResource>
+<abstract>Siegfried August Mahlmann (* 13. Mai 1771 in Leipzig; † 16. Dezember 1826 ebendort) war ein deutscher Dichter, Schriftsteller und Verleger.</abstract>
+<wikilink>http://en.wikipedia.org/wiki/Siegfried_August_Mahlmann?oldid=600125793</wikilink>
+<artworks />
+<buildings />
+<books />
+</Person>

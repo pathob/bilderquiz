@@ -18,8 +18,10 @@
 <XML_Serializer_Tag>Künstler</XML_Serializer_Tag>
 <XML_Serializer_Tag>Maler</XML_Serializer_Tag>
 </professionOrOccupation>
-<artworks />
 <dbpResource>http://dbpedia.org/resource/Andreas_Achenbach</dbpResource>
 <abstract>Andreas Achenbach (* 29. September 1815 in Kassel; † 1. April 1910 in Düsseldorf) war ein deutscher Landschaftsmaler der Romantik. Er wird der Düsseldorfer Malerschule zugerechnet.Thema seiner Landschaftsmalereien waren vor allem Seestücke. Sein Bruder Oswald Achenbach dagegen konzentrierte sich auf die Darstellung der Landschaft Italiens. Die beiden Brüder wurden deshalb auch scherzhaft als das „A und O der Landschaftsmalerei“ bezeichnet.</abstract>
 <wikilink>http://en.wikipedia.org/wiki/Andreas_Achenbach?oldid=605342174</wikilink>
+<artworks />
+<buildings />
+<books />
 </Person>

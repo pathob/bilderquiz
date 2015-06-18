@@ -1,0 +1,25 @@
+<Person>
+<name>Richard Tuttle</name>
+<variantName />
+<thumbnail>https://en.wikipedia.org/wiki/Special:FilePath/&apos;Red_Canvas&apos;_by_Richard_Tuttle,_1967,_Corcoran_Gallery_of_Art.jpg?width=270</thumbnail>
+<birthEN>1941</birthEN>
+<birthDE>1941</birthDE>
+<deathEN />
+<deathDE />
+<birthPlace>
+<XML_Serializer_Tag>Rahway, NJ</XML_Serializer_Tag>
+</birthPlace>
+<deathPlace />
+<professionOrOccupation>
+<XML_Serializer_Tag>Künstler</XML_Serializer_Tag>
+<XML_Serializer_Tag>Bildhauer</XML_Serializer_Tag>
+<XML_Serializer_Tag>Zeichner</XML_Serializer_Tag>
+<XML_Serializer_Tag>Objektkünstler</XML_Serializer_Tag>
+</professionOrOccupation>
+<dbpResource>http://dbpedia.org/resource/Richard_Tuttle</dbpResource>
+<abstract>Richard Tuttle (* 12. Juli 1941 in Rahway New Jersey (USA)) ist ein amerikanischer Bildhauer, Zeichner und Objektkünstler.</abstract>
+<wikilink>http://en.wikipedia.org/wiki/Richard_Tuttle?oldid=605399616</wikilink>
+<artworks />
+<buildings />
+<books />
+</Person>

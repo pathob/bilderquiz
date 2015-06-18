@@ -1,0 +1,58 @@
+<Person>
+<name>Benvenuto Cellini</name>
+<variantName>
+<XML_Serializer_Tag>Benevenuto Cellini</XML_Serializer_Tag>
+</variantName>
+<thumbnail>https://commons.wikimedia.org/wiki/Special:FilePath/Cellini_Portrait.jpg?width=270</thumbnail>
+<birthEN>November 3, 1500</birthEN>
+<birthDE>3. November 1500</birthDE>
+<deathEN>February 13, 1571</deathEN>
+<deathDE>13. Februar 1571</deathDE>
+<birthPlace>
+<XML_Serializer_Tag>Florenz</XML_Serializer_Tag>
+</birthPlace>
+<deathPlace>
+<XML_Serializer_Tag>Florenz</XML_Serializer_Tag>
+</deathPlace>
+<professionOrOccupation>
+<XML_Serializer_Tag>Bildhauer</XML_Serializer_Tag>
+<XML_Serializer_Tag>Goldschmied</XML_Serializer_Tag>
+<XML_Serializer_Tag>Schriftsteller</XML_Serializer_Tag>
+</professionOrOccupation>
+<dbpResource>http://dbpedia.org/resource/Benvenuto_Cellini</dbpResource>
+<abstract>Benvenuto Cellini (* 3. November 1500 in Florenz; † 13. Februar 1571 ebenda) war als italienischer Goldschmied und Bildhauer ein berühmter Vertreter des Manierismus.Benvenuto Cellini gilt als einer der großen Bildhauer der Nachantike und als ein typischer „uomo universale“ der italienischen Renaissance. Nachdem sein Werk mehrere hundert Jahre nahezu vergessen war, wurde es zu Beginn des 19. Jahrhunderts neu entdeckt. Er wirkte an der Schwelle der Hochrenaissance zum Manierismus als Bildhauer, Goldschmied, Medailleur, aber auch als Schriftsteller und Musiker.</abstract>
+<wikilink>http://en.wikipedia.org/wiki/Benvenuto_Cellini?oldid=602498726</wikilink>
+<artworks>
+<XML_Serializer_Tag>
+<artwork>
+<type>uri</type>
+<value>http://dbpedia.org/resource/Cellini_Salt_Cellar</value>
+</artwork>
+<thumbnail>
+<type>uri</type>
+<value>http://commons.wikimedia.org/wiki/Special:FilePath/Saliera.png?width=300</value>
+</thumbnail>
+<name>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>Cellini Salt Cellar</value>
+</name>
+<abstract>
+<type>literal</type>
+<xml:lang>de</xml:lang>
+<value>Die Saliera (italienisch Salz- oder Pfefferfass, also der Vorgänger des heutigen Salzstreuers) ist ein vom italienischen Bildhauer und Goldschmied Benvenuto Cellini für Franz I. von Frankreich von 1540 bis 1543 angefertigtes Tafelgeschirr. Es wird in der permanenten Ausstellung in der Kunstkammer des Kunsthistorischen Museums in Wien aufbewahrt.</value>
+</abstract>
+<wikilink>
+<type>uri</type>
+<value>http://en.wikipedia.org/wiki/Cellini_Salt_Cellar?oldid=589473105</value>
+</wikilink>
+<type>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>Partly enameled gold sculpture</value>
+</type>
+</XML_Serializer_Tag>
+</artworks>
+<buildings />
+<books />
+</Person>

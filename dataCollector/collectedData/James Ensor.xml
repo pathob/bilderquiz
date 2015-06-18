@@ -21,12 +21,15 @@
 <XML_Serializer_Tag>Maler</XML_Serializer_Tag>
 <XML_Serializer_Tag>Radierer</XML_Serializer_Tag>
 </professionOrOccupation>
+<dbpResource>http://dbpedia.org/resource/James_Ensor</dbpResource>
+<abstract>James Sidney Ensor (* 13. April 1860 in Ostende; † 19. November 1949 ebenda) war ein belgischer Maler und Zeichner, der neben Gemälden auch eine Vielzahl von Radierungen und Kaltnadelarbeiten schuf. Ensor ist dem Symbolismus zuzuordnen und wird auch als Vorläufer des Expressionismus angesehen. Bekannt wurde er aber als der „Maler der Masken“.</abstract>
+<wikilink>http://en.wikipedia.org/wiki/James_Ensor?oldid=599648520</wikilink>
 <artworks>
 <XML_Serializer_Tag>
-<painting>
+<artwork>
 <type>uri</type>
 <value>http://dbpedia.org/resource/Christ&apos;s_Entry_Into_Brussels_in_1889</value>
-</painting>
+</artwork>
 <thumbnail>
 <type>uri</type>
 <value>http://commons.wikimedia.org/wiki/Special:FilePath/Christ&apos;s_Entry_Into_Brussels_in_1889.jpg?width=300</value>
@@ -45,9 +48,12 @@
 <type>uri</type>
 <value>http://en.wikipedia.org/wiki/Christ&apos;s_Entry_Into_Brussels_in_1889?oldid=599648100</value>
 </wikilink>
+<type>
+<type>uri</type>
+<value>http://dbpedia.org/resource/Oil_painting</value>
+</type>
 </XML_Serializer_Tag>
 </artworks>
-<dbpResource>http://dbpedia.org/resource/James_Ensor</dbpResource>
-<abstract>James Sidney Ensor (* 13. April 1860 in Ostende; † 19. November 1949 ebenda) war ein belgischer Maler und Zeichner, der neben Gemälden auch eine Vielzahl von Radierungen und Kaltnadelarbeiten schuf. Ensor ist dem Symbolismus zuzuordnen und wird auch als Vorläufer des Expressionismus angesehen. Bekannt wurde er aber als der „Maler der Masken“.</abstract>
-<wikilink>http://en.wikipedia.org/wiki/James_Ensor?oldid=599648520</wikilink>
+<buildings />
+<books />
 </Person>

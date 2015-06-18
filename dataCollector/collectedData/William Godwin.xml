@@ -1,0 +1,47 @@
+<Person>
+<name>William Godwin</name>
+<variantName>
+<XML_Serializer_Tag>Williams Godwin</XML_Serializer_Tag>
+<XML_Serializer_Tag>Edward Baldwin</XML_Serializer_Tag>
+<XML_Serializer_Tag>Lover of Order</XML_Serializer_Tag>
+<XML_Serializer_Tag>Theophilus Marcliffe</XML_Serializer_Tag>
+<XML_Serializer_Tag>Uil&apos;jam Godvin</XML_Serializer_Tag>
+<XML_Serializer_Tag>William Goodwin</XML_Serializer_Tag>
+</variantName>
+<thumbnail>https://commons.wikimedia.org/wiki/Special:FilePath/WilliamGodwin.jpg?width=270</thumbnail>
+<birthEN>1756</birthEN>
+<birthDE>1756</birthDE>
+<deathEN>1836</deathEN>
+<deathDE>1836</deathDE>
+<birthPlace />
+<deathPlace />
+<professionOrOccupation>
+<XML_Serializer_Tag>Schriftsteller</XML_Serializer_Tag>
+</professionOrOccupation>
+<dbpResource>http://dbpedia.org/resource/William_Godwin</dbpResource>
+<abstract>William Godwin (* 3. März 1756 in Wisbech, Cambridgeshire; † 7. April 1836) war ein englischer Schriftsteller und Sozialphilosoph. Auf Grund seines Hauptwerks Enquiry Concerning Political Justice, das 1792 erschien, gilt er als Begründer des Sozialismus und des politischen Anarchismus. In seinem Werk feierte er die französische Revolution und prangerte die Ehe als ein unsinniges Monopol an. In seinen späteren Ausgaben mäßigte er diese radikalfortschrittlichen Ansichten erheblich.</abstract>
+<wikilink>http://en.wikipedia.org/wiki/William_Godwin?oldid=603079957</wikilink>
+<artworks />
+<buildings />
+<books>
+<XML_Serializer_Tag>
+<book>
+<type>uri</type>
+<value>http://dbpedia.org/resource/Lives_of_the_Necromancers</value>
+</book>
+<author>
+<type>uri</type>
+<value>http://dbpedia.org/resource/William_Godwin</value>
+</author>
+<published>
+<type>typed-literal</type>
+<datatype>http://www.w3.org/2001/XMLSchema#integer</datatype>
+<value>1834</value>
+</published>
+<wikilink>
+<type>uri</type>
+<value>http://en.wikipedia.org/wiki/Lives_of_the_Necromancers?oldid=595095108</value>
+</wikilink>
+</XML_Serializer_Tag>
+</books>
+</Person>

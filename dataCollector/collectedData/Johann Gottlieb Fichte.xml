@@ -1,0 +1,71 @@
+<Person>
+<name>Johann Gottlieb Fichte</name>
+<variantName>
+<XML_Serializer_Tag>Johannes Gottlieb Fichte</XML_Serializer_Tag>
+<XML_Serializer_Tag>Iogann Gotlib Fichte</XML_Serializer_Tag>
+<XML_Serializer_Tag>J. G. Fichte</XML_Serializer_Tag>
+<XML_Serializer_Tag>J. G. Fichtė</XML_Serializer_Tag>
+<XML_Serializer_Tag>J.-G. Fichte</XML_Serializer_Tag>
+<XML_Serializer_Tag>I. G. Fichte</XML_Serializer_Tag>
+<XML_Serializer_Tag>Jochan Gotlib Fichte</XML_Serializer_Tag>
+<XML_Serializer_Tag>Johan Gottlieb Fichte</XML_Serializer_Tag>
+<XML_Serializer_Tag>Johann G. Fichte</XML_Serializer_Tag>
+<XML_Serializer_Tag>Johann Gottlob Fichte</XML_Serializer_Tag>
+<XML_Serializer_Tag>... Fichte-Schelling</XML_Serializer_Tag>
+<XML_Serializer_Tag>... Fihite</XML_Serializer_Tag>
+<XML_Serializer_Tag>Johans Gotlībs Fihte</XML_Serializer_Tag>
+<XML_Serializer_Tag>Johan Gotlib Fihte</XML_Serializer_Tag>
+<XML_Serializer_Tag>J. G. Fihte</XML_Serializer_Tag>
+<XML_Serializer_Tag>Joh. Gottlieb Fichte</XML_Serializer_Tag>
+<XML_Serializer_Tag>Iohann Gottlieb Fichte</XML_Serializer_Tag>
+<XML_Serializer_Tag>Iogann Gotlib Fichte</XML_Serializer_Tag>
+<XML_Serializer_Tag>ヨハン・ゴットリープ・フィヒテ</XML_Serializer_Tag>
+<XML_Serializer_Tag>フィヒテ, ヨハン・ゴットリープ</XML_Serializer_Tag>
+</variantName>
+<thumbnail>https://commons.wikimedia.org/wiki/Special:FilePath/Johann_Gottlieb_Fichte.jpg?width=270</thumbnail>
+<birthEN>May 19, 1762</birthEN>
+<birthDE>19. Mai 1762</birthDE>
+<deathEN>January 29, 1814</deathEN>
+<deathDE>29. Januar 1814</deathDE>
+<birthPlace>
+<XML_Serializer_Tag>Rammenau</XML_Serializer_Tag>
+</birthPlace>
+<deathPlace>
+<XML_Serializer_Tag>Berlin</XML_Serializer_Tag>
+</deathPlace>
+<professionOrOccupation>
+<XML_Serializer_Tag>Philosoph</XML_Serializer_Tag>
+<XML_Serializer_Tag>Schriftsteller</XML_Serializer_Tag>
+</professionOrOccupation>
+<dbpResource>http://dbpedia.org/resource/Johann_Gottlieb_Fichte</dbpResource>
+<abstract>Johann Gottlieb Fichte (* 19. Mai 1762 in Rammenau; † 29. Januar 1814 in Berlin) war ein deutscher Erzieher und Philosoph. Er gilt neben Friedrich Wilhelm Joseph Schelling und Georg Wilhelm Friedrich Hegel als wichtigster Vertreter des Deutschen Idealismus.</abstract>
+<wikilink>http://en.wikipedia.org/wiki/Johann_Gottlieb_Fichte?oldid=606121194</wikilink>
+<artworks />
+<buildings />
+<books>
+<XML_Serializer_Tag>
+<book>
+<type>uri</type>
+<value>http://dbpedia.org/resource/Foundations_of_the_Science_of_Knowledge</value>
+</book>
+<author>
+<type>uri</type>
+<value>http://dbpedia.org/resource/Johann_Gottlieb_Fichte</value>
+</author>
+<released>
+<type>typed-literal</type>
+<datatype>http://www.w3.org/2001/XMLSchema#integer</datatype>
+<value>1794</value>
+</released>
+<wikilink>
+<type>uri</type>
+<value>http://en.wikipedia.org/wiki/Foundations_of_the_Science_of_Knowledge?oldid=603949588</value>
+</wikilink>
+<abstract>
+<type>literal</type>
+<xml:lang>de</xml:lang>
+<value>Die Grundlage der gesamten Wissenschaftslehre von 1794/95 ist das systematische Hauptwerk des Philosophen Johann Gottlieb Fichte und eines der zentralen Werke im nachkantischen Idealismus.</value>
+</abstract>
+</XML_Serializer_Tag>
+</books>
+</Person>

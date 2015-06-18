@@ -1,0 +1,26 @@
+<Person>
+<name>Hermann Oppenheim</name>
+<variantName />
+<thumbnail>https://commons.wikimedia.org/wiki/Special:FilePath/Oppenheim.JPG?width=270</thumbnail>
+<birthEN>1858</birthEN>
+<birthDE>1858</birthDE>
+<deathEN>1919</deathEN>
+<deathDE>1919</deathDE>
+<birthPlace>
+<XML_Serializer_Tag>Warburg</XML_Serializer_Tag>
+</birthPlace>
+<deathPlace>
+<XML_Serializer_Tag>Berlin</XML_Serializer_Tag>
+</deathPlace>
+<professionOrOccupation>
+<XML_Serializer_Tag>Arzt</XML_Serializer_Tag>
+<XML_Serializer_Tag>Neurologe</XML_Serializer_Tag>
+<XML_Serializer_Tag>Autor</XML_Serializer_Tag>
+</professionOrOccupation>
+<dbpResource>http://dbpedia.org/resource/Hermann_Oppenheim</dbpResource>
+<abstract>Hermann Oppenheim (* 31. Dezember 1857 in Warburg, Westfalen; † 22. Mai 1919 in Berlin) (Familienname gelegentlich auch Oppenheimer geschrieben) war ein deutscher Neurologe.</abstract>
+<wikilink>http://en.wikipedia.org/wiki/Hermann_Oppenheim?oldid=606260177</wikilink>
+<artworks />
+<buildings />
+<books />
+</Person>

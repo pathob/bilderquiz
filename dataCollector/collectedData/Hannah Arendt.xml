@@ -1,0 +1,70 @@
+<Person>
+<name>Hannah Arendt</name>
+<variantName>
+<XML_Serializer_Tag>Hanna Arendt</XML_Serializer_Tag>
+<XML_Serializer_Tag>Johanna Arendt</XML_Serializer_Tag>
+<XML_Serializer_Tag>Channa Arendt</XML_Serializer_Tag>
+<XML_Serializer_Tag>Chana Arend</XML_Serializer_Tag>
+<XML_Serializer_Tag>Chana Arent</XML_Serializer_Tag>
+<XML_Serializer_Tag>Hānā Ārint</XML_Serializer_Tag>
+<XML_Serializer_Tag>Hana Arent</XML_Serializer_Tag>
+<XML_Serializer_Tag>Hanna Ārento</XML_Serializer_Tag>
+<XML_Serializer_Tag>Hanna Arento</XML_Serializer_Tag>
+<XML_Serializer_Tag>Ḥanah Arendṭ</XML_Serializer_Tag>
+<XML_Serializer_Tag>Hannah Arendt-Blücher</XML_Serializer_Tag>
+<XML_Serializer_Tag>Hannah Arendt Blücher</XML_Serializer_Tag>
+<XML_Serializer_Tag>Hannah Blücher</XML_Serializer_Tag>
+<XML_Serializer_Tag>Johanna Blücher</XML_Serializer_Tag>
+<XML_Serializer_Tag>Peter Schlemihl</XML_Serializer_Tag>
+<XML_Serializer_Tag>H. Arendt</XML_Serializer_Tag>
+<XML_Serializer_Tag>, Herr</XML_Serializer_Tag>
+<XML_Serializer_Tag>Heinrich Arendt</XML_Serializer_Tag>
+<XML_Serializer_Tag>חנה ארנדט</XML_Serializer_Tag>
+<XML_Serializer_Tag>ハナ アーレント</XML_Serializer_Tag>
+<XML_Serializer_Tag>ハンナ アーレント</XML_Serializer_Tag>
+</variantName>
+<thumbnail>https://commons.wikimedia.org/wiki/Special:FilePath/DPAG-20061007-HannahArendt.jpg?width=270</thumbnail>
+<birthEN>October 14, 1906</birthEN>
+<birthDE>14. Oktober 1906</birthDE>
+<deathEN>December 4, 1975</deathEN>
+<deathDE>4. Dezember 1975</deathDE>
+<birthPlace>
+<XML_Serializer_Tag>Linden (Hannover)</XML_Serializer_Tag>
+</birthPlace>
+<deathPlace>
+<XML_Serializer_Tag>New York, NY</XML_Serializer_Tag>
+</deathPlace>
+<professionOrOccupation>
+<XML_Serializer_Tag>Soziologin</XML_Serializer_Tag>
+<XML_Serializer_Tag>Politologin</XML_Serializer_Tag>
+<XML_Serializer_Tag>Philosophin</XML_Serializer_Tag>
+<XML_Serializer_Tag>Historikerin</XML_Serializer_Tag>
+<XML_Serializer_Tag>Schriftstellerin</XML_Serializer_Tag>
+</professionOrOccupation>
+<dbpResource>http://dbpedia.org/resource/Hannah_Arendt</dbpResource>
+<abstract>Hannah Arendt (* 14. Oktober 1906 in Linden, heute Stadtteil von Hannover; † 4. Dezember 1975 in New York; eigentlich Johanna Arendt) war eine jüdische deutsch-amerikanische politische Theoretikerin und Publizistin.Die Entrechtung und Verfolgung von Menschen jüdischer Abstammung seit 1933 sowie ihre eigene kurzzeitige Inhaftierung im selben Jahr veranlassten sie zur Emigration aus Deutschland. Vom nationalsozialistischen Regime 1937 ausgebürgert, war sie staatenlos, bis sie 1951 die US-amerikanische Staatsbürgerschaft erhielt. Sie war unter anderem als Journalistin und Hochschullehrerin tätig und veröffentlichte wichtige Beiträge zur politischen Philosophie. Gleichwohl lehnte sie es in ihren späten Jahren ab, als „Philosophin“ bezeichnet zu werden. Auch dem Begriff „Politische Philosophie“ stand sie eher distanziert gegenüber; sie bevorzugte für ihre entsprechenden Publikationen die Bezeichnung „Politische Theorie“.Arendt vertrat ein Konzept von „Pluralität“ im politischen Raum. Demnach besteht zwischen den Menschen eine potentielle Freiheit und Gleichheit in der Politik. Wichtig ist es, die Perspektive des anderen einzunehmen. An politischen Vereinbarungen, Verträgen und Verfassungen sollten auf möglichst konkreten Ebenen gewillte und geeignete Personen beteiligt sein. Aufgrund dieser Auffassung stand sie rein repräsentativen Demokratien kritisch gegenüber und bevorzugte Rätesysteme und Formen direkter Demokratie.Nicht zuletzt aufgrund ihrer zahlreichen theoretischen Auseinandersetzungen mit Philosophen wie Sokrates, Platon, Aristoteles, Immanuel Kant, Martin Heidegger und Karl Jaspers sowie mit den maßgeblichen Vertretern der neuzeitlichen politischen Philosophie wie Machiavelli, Montesquieu und Tocqueville wird sie dennoch häufig als Philosophin bezeichnet. Gerade wegen ihres eigenständigen Denkens, der Theorie der totalen Herrschaft, ihrer existenzphilosophischen Arbeiten und ihrer Forderung nach freien politischen Diskussionen nimmt sie in den Debatten der Gegenwart eine bedeutende Rolle ein.Als Quellen für ihre Überlegungen nutzte Arendt neben philosophischen, politischen und historischen Dokumenten unter anderem Biografien und literarische Werke. Diese Texte wertete sie wortgetreu aus und konfrontierte sie mit ihren Denkansätzen. Ihre – teilweise von Heidegger beeinflusste – Herangehensweise macht sie zu einer häufig mit eigensinnigen Ideen aufwartenden Denkerin zwischen den universitären Fachgebieten.</abstract>
+<wikilink>http://en.wikipedia.org/wiki/Hannah_Arendt?oldid=606528029</wikilink>
+<artworks />
+<buildings />
+<books>
+<XML_Serializer_Tag>
+<book>
+<type>uri</type>
+<value>http://dbpedia.org/resource/The_Origins_of_Totalitarianism</value>
+</book>
+<author>
+<type>uri</type>
+<value>http://dbpedia.org/resource/Hannah_Arendt</value>
+</author>
+<wikilink>
+<type>uri</type>
+<value>http://en.wikipedia.org/wiki/The_Origins_of_Totalitarianism?oldid=602700715</value>
+</wikilink>
+<abstract>
+<type>literal</type>
+<xml:lang>de</xml:lang>
+<value>Elemente und Ursprünge totaler Herrschaft (1955 auf Deutsch erschienen) ist das umfangreichste Buch der politischen Theoretikerin Hannah Arendt und wird vielfach als ihr Hauptwerk bezeichnet. Sie widmete es ihrem Ehemann Heinrich Blücher, dem sie viele Anregungen zu dieser Arbeit verdankte. Arendt untersucht darin die historische Entstehung und die gemeinsamen politischen Merkmale des Nationalsozialismus und des Stalinismus. Der Titel zählt zu einem der frühesten Standardwerke der Totalitarismusforschung.</value>
+</abstract>
+</XML_Serializer_Tag>
+</books>
+</Person>

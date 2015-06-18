@@ -1,0 +1,28 @@
+<Person>
+<name>Claudio Magris</name>
+<variantName>
+<XML_Serializer_Tag>C. Magris</XML_Serializer_Tag>
+</variantName>
+<thumbnail>https://commons.wikimedia.org/wiki/Special:FilePath/Friedenspreis-ffm-2009-magris-008.jpg?width=270</thumbnail>
+<birthEN>1939</birthEN>
+<birthDE>1939</birthDE>
+<deathEN />
+<deathDE />
+<birthPlace>
+<XML_Serializer_Tag>Triest</XML_Serializer_Tag>
+</birthPlace>
+<deathPlace />
+<professionOrOccupation>
+<XML_Serializer_Tag>Philologe</XML_Serializer_Tag>
+<XML_Serializer_Tag>Literaturwissenschaftler</XML_Serializer_Tag>
+<XML_Serializer_Tag>Schriftsteller</XML_Serializer_Tag>
+<XML_Serializer_Tag>Germanist</XML_Serializer_Tag>
+<XML_Serializer_Tag>Übersetzer</XML_Serializer_Tag>
+</professionOrOccupation>
+<dbpResource>http://dbpedia.org/resource/Claudio_Magris</dbpResource>
+<abstract>Claudio Magris (* 10. April 1939 in Triest) ist ein italienischer Schriftsteller, Germanist und Übersetzer. Von 1978 bis zu seiner Emeritierung 2006 war er Professor für moderne deutschsprachige Literatur an der Universität Triest.</abstract>
+<wikilink>http://en.wikipedia.org/wiki/Claudio_Magris?oldid=597568443</wikilink>
+<artworks />
+<buildings />
+<books />
+</Person>

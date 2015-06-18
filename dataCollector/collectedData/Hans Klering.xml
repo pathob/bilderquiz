@@ -1,0 +1,30 @@
+<Person>
+<name>Hans Klering</name>
+<variantName>
+<XML_Serializer_Tag>Hans Klering</XML_Serializer_Tag>
+<XML_Serializer_Tag>Hans Karl Klering</XML_Serializer_Tag>
+</variantName>
+<thumbnail>https://commons.wikimedia.org/wiki/Special:FilePath/Bundesarchiv_Bild_183-23760-0001,_Seelow,_&quot;Filmfesttage_auf_dem_Lande_Frühjahr_1954&quot;.jpg?width=270</thumbnail>
+<birthEN>November 8, 1906</birthEN>
+<birthDE>8. November 1906</birthDE>
+<deathEN>October 30, 1988</deathEN>
+<deathDE>30. Oktober 1988</deathDE>
+<birthPlace>
+<XML_Serializer_Tag>Berlin</XML_Serializer_Tag>
+</birthPlace>
+<deathPlace>
+<XML_Serializer_Tag>Berlin (Ost)</XML_Serializer_Tag>
+</deathPlace>
+<professionOrOccupation>
+<XML_Serializer_Tag>Regisseur</XML_Serializer_Tag>
+<XML_Serializer_Tag>Schauspieler</XML_Serializer_Tag>
+<XML_Serializer_Tag>Schriftsteller</XML_Serializer_Tag>
+<XML_Serializer_Tag>Grafiker</XML_Serializer_Tag>
+</professionOrOccupation>
+<dbpResource>http://dbpedia.org/resource/Hans_Klering</dbpResource>
+<abstract>Hans Karl Klering (geb. Scharnagl; * 8. November 1906 in Berlin; † 30. Oktober 1988 in Ost-Berlin) war ein deutscher Schauspieler, Regisseur, Sprecher, Grafiker und Autor. Er war Gründungsmitglied der DEFA, einer ihrer Direktoren und Vorstandsvorsitzender.</abstract>
+<wikilink>http://en.wikipedia.org/wiki/Hans_Klering?oldid=587374662</wikilink>
+<artworks />
+<buildings />
+<books />
+</Person>

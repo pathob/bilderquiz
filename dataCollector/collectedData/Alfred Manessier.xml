@@ -18,8 +18,10 @@
 <XML_Serializer_Tag>Glasmaler</XML_Serializer_Tag>
 <XML_Serializer_Tag>Zeichner</XML_Serializer_Tag>
 </professionOrOccupation>
-<artworks />
 <dbpResource>http://dbpedia.org/resource/Alfred_Manessier</dbpResource>
 <abstract>Alfred Manessier (* 5. Dezember 1911 in Saint-Ouen an der Somme; † 1. August 1993 in Orléans) war ein französischer Maler.</abstract>
 <wikilink>http://en.wikipedia.org/wiki/Alfred_Manessier?oldid=594186305</wikilink>
+<artworks />
+<buildings />
+<books />
 </Person>

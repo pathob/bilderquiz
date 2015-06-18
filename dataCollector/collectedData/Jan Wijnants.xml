@@ -17,8 +17,10 @@
 <XML_Serializer_Tag>Maler</XML_Serializer_Tag>
 <XML_Serializer_Tag>Landschaftsmaler</XML_Serializer_Tag>
 </professionOrOccupation>
-<artworks />
 <dbpResource>http://dbpedia.org/resource/Jan_Wijnants</dbpResource>
 <abstract>Jan Wijnants (* um 1632 vermutlich in Haarlem; † 23. Januar 1684 in Amsterdam) war ein niederländischer Maler.</abstract>
 <wikilink>http://en.wikipedia.org/wiki/Jan_Wijnants?oldid=606411081</wikilink>
+<artworks />
+<buildings />
+<books />
 </Person>

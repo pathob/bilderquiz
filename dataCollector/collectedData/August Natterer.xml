@@ -1,0 +1,27 @@
+<Person>
+<name>August Natterer</name>
+<variantName>
+<XML_Serializer_Tag>Neter</XML_Serializer_Tag>
+<XML_Serializer_Tag>August Neter</XML_Serializer_Tag>
+</variantName>
+<thumbnail>https://commons.wikimedia.org/wiki/Special:FilePath/August_Natterer_Hexenkopf_Vorder_und_Rückseite.jpg?width=270</thumbnail>
+<birthEN>August 3, 1868</birthEN>
+<birthDE>3. August 1868</birthDE>
+<deathEN>October 7, 1933</deathEN>
+<deathDE>7. Oktober 1933</deathDE>
+<birthPlace>
+<XML_Serializer_Tag>Ravensburg</XML_Serializer_Tag>
+</birthPlace>
+<deathPlace>
+<XML_Serializer_Tag>Rottenmünster</XML_Serializer_Tag>
+</deathPlace>
+<professionOrOccupation>
+<XML_Serializer_Tag>Künstler</XML_Serializer_Tag>
+</professionOrOccupation>
+<dbpResource>http://dbpedia.org/resource/August_Natterer</dbpResource>
+<abstract>August Natterer (* 1868 in Schornreute bei Ravensburg; † 1933 nahe Rottweil), Pseudonym: Neter, war ein deutscher Art Brut-Künstler.</abstract>
+<wikilink>http://en.wikipedia.org/wiki/August_Natterer?oldid=597143948</wikilink>
+<artworks />
+<buildings />
+<books />
+</Person>

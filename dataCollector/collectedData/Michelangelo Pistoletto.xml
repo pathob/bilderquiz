@@ -12,8 +12,10 @@
 <XML_Serializer_Tag>Künstler</XML_Serializer_Tag>
 <XML_Serializer_Tag>Maler</XML_Serializer_Tag>
 </professionOrOccupation>
-<artworks />
 <dbpResource>http://dbpedia.org/resource/Michelangelo_Pistoletto</dbpResource>
 <abstract>Michelangelo Pistoletto (* 23. Juni 1933 in Biella) ist ein italienischer Maler, Aktions- und Objektkünstler und Kunsttheoretiker. Pistoletto wird zu den Hauptvertretern der italienischen Arte Povera gezählt; sein Werk befasst sich überwiegend mit der Thematik der Reflexion und der Vereinigung von Kunst und Alltag im Sinne eines Gesamtkunstwerks.</abstract>
 <wikilink>http://en.wikipedia.org/wiki/Michelangelo_Pistoletto?oldid=602488083</wikilink>
+<artworks />
+<buildings />
+<books />
 </Person>

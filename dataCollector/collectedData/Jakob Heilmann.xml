@@ -1,0 +1,32 @@
+<Person>
+<name>Jakob Heilmann</name>
+<variantName>
+<XML_Serializer_Tag>Jacob Heilmann</XML_Serializer_Tag>
+<XML_Serializer_Tag>Jacob Haylmann</XML_Serializer_Tag>
+<XML_Serializer_Tag>Jakob Haylmann</XML_Serializer_Tag>
+<XML_Serializer_Tag>Jakob, von Schweinfurt</XML_Serializer_Tag>
+<XML_Serializer_Tag>Jacob, von Schweinfurt</XML_Serializer_Tag>
+<XML_Serializer_Tag>Jakob, Frank</XML_Serializer_Tag>
+<XML_Serializer_Tag>Jakob Hellwig</XML_Serializer_Tag>
+<XML_Serializer_Tag>Jakob, Meister</XML_Serializer_Tag>
+<XML_Serializer_Tag>Jacob Heylmann</XML_Serializer_Tag>
+<XML_Serializer_Tag>Jacoff Frangk</XML_Serializer_Tag>
+<XML_Serializer_Tag>Jakob Frangk</XML_Serializer_Tag>
+</variantName>
+<thumbnail>https://commons.wikimedia.org/wiki/Special:FilePath/AnnabergSachsen4.jpg?width=270</thumbnail>
+<birthEN>1475</birthEN>
+<birthDE>1475</birthDE>
+<deathEN>1523</deathEN>
+<deathDE>1523</deathDE>
+<birthPlace />
+<deathPlace />
+<professionOrOccupation>
+<XML_Serializer_Tag>Baumeister</XML_Serializer_Tag>
+</professionOrOccupation>
+<dbpResource>http://dbpedia.org/resource/Jakob_Heilmann</dbpResource>
+<abstract>Jakob Heilmann (* 21. August 1846 in Geiselbach (Unterfranken); † 15. Februar 1927 in München) war ein deutscher Bauunternehmer.</abstract>
+<wikilink>http://en.wikipedia.org/wiki/Jakob_Heilmann?oldid=557008853</wikilink>
+<artworks />
+<buildings />
+<books />
+</Person>

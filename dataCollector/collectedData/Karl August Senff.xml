@@ -20,8 +20,10 @@
 <XML_Serializer_Tag>Kupferstecher</XML_Serializer_Tag>
 <XML_Serializer_Tag>Kunsterzieher</XML_Serializer_Tag>
 </professionOrOccupation>
-<artworks />
 <dbpResource>http://dbpedia.org/resource/Karl_August_Senff</dbpResource>
 <abstract>Karl August Senff (* 24. März 1770 in Kreypau, heute Sachsen-Anhalt; † 2. Januarjul./ 14. Januar 1838greg. in Tartu, heute Estland) war ein Maler, Graphiker und Kupferstecher.</abstract>
 <wikilink>http://en.wikipedia.org/wiki/Karl_August_Senff?oldid=587849979</wikilink>
+<artworks />
+<buildings />
+<books />
 </Person>

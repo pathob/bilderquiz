@@ -22,8 +22,10 @@
 <XML_Serializer_Tag>Illustrator</XML_Serializer_Tag>
 <XML_Serializer_Tag>Bildhauer</XML_Serializer_Tag>
 </professionOrOccupation>
-<artworks />
 <dbpResource>http://dbpedia.org/resource/Juan_Gris</dbpResource>
 <abstract>Juan Gris (* 23. März 1887 in Madrid; † 11. Mai 1927 in Boulogne-sur-Seine, Frankreich; eigentlich José Victoriano Carmelo Carlos González-Pérez) war ein spanischer Maler. Neben Pablo Picasso und Georges Braque ist er der Hauptvertreter des synthetischen Kubismus. Gris malte vornehmlich Stillleben, in denen er Bildelemente als Collage neben- und übereinandersetzte. Gris fügte die neuen Gestaltungsprinzipien des Kubismus in ein rationales System ein und war zeit seines Schaffens bemüht, sein künstlerisches Vorgehen auch theoretisch zu vermitteln.</abstract>
 <wikilink>http://en.wikipedia.org/wiki/Juan_Gris?oldid=605601182</wikilink>
+<artworks />
+<buildings />
+<books />
 </Person>

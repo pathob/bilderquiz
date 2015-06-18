@@ -1,0 +1,44 @@
+<Person>
+<name>Johann Albert Heinrich Reimarus</name>
+<variantName>
+<XML_Serializer_Tag>... Reimarus</XML_Serializer_Tag>
+<XML_Serializer_Tag>Johannes Albert Heinrich Reimarus</XML_Serializer_Tag>
+<XML_Serializer_Tag>Johann Albert Hinrich Reimarus</XML_Serializer_Tag>
+<XML_Serializer_Tag>Johannes Albert Hinrich Reimarus</XML_Serializer_Tag>
+<XML_Serializer_Tag>Johann Albrecht Heinrich Reimarus</XML_Serializer_Tag>
+<XML_Serializer_Tag>Johannes Albrecht Heinrich Reimarus</XML_Serializer_Tag>
+<XML_Serializer_Tag>J. A. H. Reimarus</XML_Serializer_Tag>
+<XML_Serializer_Tag>Johann Albert Heinrich Reimar</XML_Serializer_Tag>
+<XML_Serializer_Tag>Johann Albrecht Heinrich Reimar</XML_Serializer_Tag>
+<XML_Serializer_Tag>Joh. Alb. Hinr. Reimarus</XML_Serializer_Tag>
+<XML_Serializer_Tag>Jo. Alb. Henr. Reimarus</XML_Serializer_Tag>
+<XML_Serializer_Tag>Johannes Albertus Henricus Reimarus</XML_Serializer_Tag>
+<XML_Serializer_Tag>Johannes Albertus Hinricus Reimarus</XML_Serializer_Tag>
+<XML_Serializer_Tag>Joannes Albertus Henricus Reimarus</XML_Serializer_Tag>
+<XML_Serializer_Tag>Joh. Albert Hinrich Reimarus</XML_Serializer_Tag>
+<XML_Serializer_Tag>Joh. Alb. Heinr. Reimarus</XML_Serializer_Tag>
+</variantName>
+<thumbnail>https://commons.wikimedia.org/wiki/Special:FilePath/Johann_Albert_Heinrich_Reimarus.jpg?width=270</thumbnail>
+<birthEN>November 11, 1729</birthEN>
+<birthDE>11. November 1729</birthDE>
+<deathEN>June 6, 1814</deathEN>
+<deathDE>6. Juni 1814</deathDE>
+<birthPlace>
+<XML_Serializer_Tag>Hamburg</XML_Serializer_Tag>
+</birthPlace>
+<deathPlace>
+<XML_Serializer_Tag>Grafschaft Rantzau</XML_Serializer_Tag>
+</deathPlace>
+<professionOrOccupation>
+<XML_Serializer_Tag>Arzt</XML_Serializer_Tag>
+<XML_Serializer_Tag>Philosoph</XML_Serializer_Tag>
+<XML_Serializer_Tag>Schriftsteller</XML_Serializer_Tag>
+<XML_Serializer_Tag>Naturwissenschaftler</XML_Serializer_Tag>
+</professionOrOccupation>
+<dbpResource>http://dbpedia.org/resource/Johann_Albert_Heinrich_Reimarus</dbpResource>
+<abstract>Johann Albert Heinrich Reimarus (* 11. November 1729 in Hamburg; † 6. Juni 1814 in Rantzau, Holstein) war ein Hamburger Arzt, Naturforscher und Nationalökonom. Zu seinen Verdiensten zählt die Einführung der Pockenimpfung in Hamburg und der „Import“ des Blitzableiters aus England auf den europäischen Kontinent.</abstract>
+<wikilink>http://en.wikipedia.org/wiki/Johann_Albert_Heinrich_Reimarus?oldid=600837731</wikilink>
+<artworks />
+<buildings />
+<books />
+</Person>

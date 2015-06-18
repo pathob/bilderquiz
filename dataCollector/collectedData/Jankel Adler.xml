@@ -1,0 +1,27 @@
+<Person>
+<name>Jankel Adler</name>
+<variantName>
+<XML_Serializer_Tag>Yankel Adler</XML_Serializer_Tag>
+<XML_Serializer_Tag>Jankiel Adler</XML_Serializer_Tag>
+</variantName>
+<thumbnail>https://commons.wikimedia.org/wiki/Special:FilePath/Jankel_Adler_(1895-1949).jpg?width=270</thumbnail>
+<birthEN>July 26, 1895</birthEN>
+<birthDE>26. Juli 1895</birthDE>
+<deathEN>April 25, 1949</deathEN>
+<deathDE>25. April 1949</deathDE>
+<birthPlace>
+<XML_Serializer_Tag>Tuszyn (Lodz)</XML_Serializer_Tag>
+</birthPlace>
+<deathPlace>
+<XML_Serializer_Tag>Aldbourne</XML_Serializer_Tag>
+</deathPlace>
+<professionOrOccupation>
+<XML_Serializer_Tag>Künstler</XML_Serializer_Tag>
+</professionOrOccupation>
+<dbpResource>http://dbpedia.org/resource/Jankel_Adler</dbpResource>
+<abstract>Jankel Adler (* 26. Juli 1895 in Tuszyn; † 25. April 1949 in Aldbourne bei London; eigentlich Jankiel Adler) war ein polnischer Maler und Graveur jüdischen Glaubens. Er gehörte zu den durch den Nationalsozialismus verfemten und verfolgten Künstlern.</abstract>
+<wikilink>http://en.wikipedia.org/wiki/Jankel_Adler?oldid=606336977</wikilink>
+<artworks />
+<buildings />
+<books />
+</Person>

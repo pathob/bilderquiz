@@ -1,0 +1,29 @@
+<Person>
+<name>Ehm Welk</name>
+<variantName>
+<XML_Serializer_Tag>Gustav Emil Welk</XML_Serializer_Tag>
+<XML_Serializer_Tag>Thomas Trimm</XML_Serializer_Tag>
+</variantName>
+<thumbnail>https://commons.wikimedia.org/wiki/Special:FilePath/Stamps_of_Germany_(DDR)_1974,_MiNr_1943.jpg?width=270</thumbnail>
+<birthEN>August 29, 1884</birthEN>
+<birthDE>29. August 1884</birthDE>
+<deathEN>December 19, 1966</deathEN>
+<deathDE>19. Dezember 1966</deathDE>
+<birthPlace>
+<XML_Serializer_Tag>Biesenbrow</XML_Serializer_Tag>
+</birthPlace>
+<deathPlace>
+<XML_Serializer_Tag>Bad Doberan</XML_Serializer_Tag>
+</deathPlace>
+<professionOrOccupation>
+<XML_Serializer_Tag>Journalist</XML_Serializer_Tag>
+<XML_Serializer_Tag>Schriftsteller</XML_Serializer_Tag>
+<XML_Serializer_Tag>Drehbuchautor</XML_Serializer_Tag>
+</professionOrOccupation>
+<dbpResource>http://dbpedia.org/resource/Ehm_Welk</dbpResource>
+<abstract>Ehm Welk, eigentlich: Emil Welk, Pseudonym: Thomas Trimm (* 29. August 1884 in Biesenbrow; † 19. Dezember 1966 in Bad Doberan), war ein deutscher Journalist, Schriftsteller, Volkshochschulgründer und Professor. Bekannt wurde er vor allem durch sein Werk Die Heiden von Kummerow.</abstract>
+<wikilink>http://en.wikipedia.org/wiki/Ehm_Welk?oldid=594153984</wikilink>
+<artworks />
+<buildings />
+<books />
+</Person>

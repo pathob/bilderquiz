@@ -1,0 +1,31 @@
+<Person>
+<name>Ivan Illich</name>
+<variantName>
+<XML_Serializer_Tag>Ivan D. Illich</XML_Serializer_Tag>
+<XML_Serializer_Tag>Ivan Ilić</XML_Serializer_Tag>
+<XML_Serializer_Tag>Ivan Ilič</XML_Serializer_Tag>
+</variantName>
+<thumbnail>https://commons.wikimedia.org/wiki/Special:FilePath/Ivan_Illich_artwork_1.jpg?width=270</thumbnail>
+<birthEN>1926</birthEN>
+<birthDE>1926</birthDE>
+<deathEN>2002</deathEN>
+<deathDE>2002</deathDE>
+<birthPlace>
+<XML_Serializer_Tag>Wien</XML_Serializer_Tag>
+</birthPlace>
+<deathPlace>
+<XML_Serializer_Tag>Bremen</XML_Serializer_Tag>
+</deathPlace>
+<professionOrOccupation>
+<XML_Serializer_Tag>Philosoph</XML_Serializer_Tag>
+<XML_Serializer_Tag>Theologe</XML_Serializer_Tag>
+<XML_Serializer_Tag>Soziologe</XML_Serializer_Tag>
+<XML_Serializer_Tag>Historiker</XML_Serializer_Tag>
+</professionOrOccupation>
+<dbpResource>http://dbpedia.org/resource/Ivan_Illich</dbpResource>
+<abstract>Ivan Illich (* 4. September 1926 in Wien; † 2. Dezember 2002 in Bremen) war ein österreichisch-amerikanischer Autor, Philosoph, Theologe und katholischer Priester.</abstract>
+<wikilink>http://en.wikipedia.org/wiki/Ivan_Illich?oldid=606439880</wikilink>
+<artworks />
+<buildings />
+<books />
+</Person>

@@ -1,0 +1,87 @@
+<Person>
+<name>Juan Goytisolo</name>
+<variantName>
+<XML_Serializer_Tag>Juan Goytisolo Gay</XML_Serializer_Tag>
+<XML_Serializer_Tag>Juan G. Gay</XML_Serializer_Tag>
+</variantName>
+<thumbnail>https://commons.wikimedia.org/wiki/Special:FilePath/Juan-goytisolo.jpg?width=270</thumbnail>
+<birthEN>1931</birthEN>
+<birthDE>1931</birthDE>
+<deathEN />
+<deathDE />
+<birthPlace>
+<XML_Serializer_Tag>Barcelona</XML_Serializer_Tag>
+</birthPlace>
+<deathPlace />
+<professionOrOccupation>
+<XML_Serializer_Tag>Schriftsteller</XML_Serializer_Tag>
+</professionOrOccupation>
+<dbpResource>http://dbpedia.org/resource/Juan_Goytisolo</dbpResource>
+<abstract>Juan Goytisolo [xu̯an gɔi̯tiˈsɔlɔ] (* 5. Januar 1931 in Barcelona) ist ein spanischer Journalist und Schriftsteller. Er ist der Bruder der Schriftsteller José Agustín und Luis Goytisolo.</abstract>
+<wikilink>http://en.wikipedia.org/wiki/Juan_Goytisolo?oldid=595072073</wikilink>
+<artworks />
+<buildings />
+<books>
+<XML_Serializer_Tag>
+<book>
+<type>uri</type>
+<value>http://dbpedia.org/resource/Marks_of_Identity</value>
+</book>
+<author>
+<type>uri</type>
+<value>http://dbpedia.org/resource/Juan_Goytisolo</value>
+</author>
+<wikilink>
+<type>uri</type>
+<value>http://en.wikipedia.org/wiki/Marks_of_Identity?oldid=587864103</value>
+</wikilink>
+<abstract>
+<type>literal</type>
+<xml:lang>de</xml:lang>
+<value>Señas de identidad (dt. Identitätszeichen) aus dem Jahr 1966 ist eines der berühmtesten und bedeutendsten Werke der spanischen Literatur und wurde von Juan Goytisolo verfasst. Die Veröffentlichung wurde allerdings aufgrund der spanischen Zensur verboten, da sich das Werk direkt auf die Situation der Menschen unter dem Regime General Francos bezog. So wurde der Roman zunächst in Mexiko veröffentlicht, erst zehn Jahre später (also nach dem Tod Francos) durfte er in Spanien erscheinen. In diesem Werk geht es um Álvaro Mendiola, einen Mann in den Mittdreißigern, der als Fotograf und Journalist arbeitet. 1963 kehrt dieser nach einem Zusammenbruch zur Genesung in seine Heimat (Spanien) zurück, nachdem er bereits elf Jahre im Exil in Frankreich gelebt hatte. In Spanien nutzt der Protagonist die Ruhe, um sein Leben zu ordnen. Dies führt ihn in ein Chaos von Bruchstücken vieler Geschichten. Ziel der Suche ist es, die eigene Identität (s. deutscher Titel: Identitätszeichen) herauszufinden. Ein Ziel, das zum Scheitern verurteilt ist.</value>
+</abstract>
+</XML_Serializer_Tag>
+<XML_Serializer_Tag>
+<book>
+<type>uri</type>
+<value>http://dbpedia.org/resource/Exiled_from_Almost_Everywhere</value>
+</book>
+<author>
+<type>uri</type>
+<value>http://dbpedia.org/resource/Juan_Goytisolo</value>
+</author>
+<wikilink>
+<type>uri</type>
+<value>http://en.wikipedia.org/wiki/Exiled_from_Almost_Everywhere?oldid=500233994</value>
+</wikilink>
+</XML_Serializer_Tag>
+<XML_Serializer_Tag>
+<book>
+<type>uri</type>
+<value>http://dbpedia.org/resource/Count_Julian_(novel)</value>
+</book>
+<author>
+<type>uri</type>
+<value>http://dbpedia.org/resource/Juan_Goytisolo</value>
+</author>
+<wikilink>
+<type>uri</type>
+<value>http://en.wikipedia.org/wiki/Count_Julian_(novel)?oldid=562243016</value>
+</wikilink>
+</XML_Serializer_Tag>
+<XML_Serializer_Tag>
+<book>
+<type>uri</type>
+<value>http://dbpedia.org/resource/Juan_the_Landless</value>
+</book>
+<author>
+<type>uri</type>
+<value>http://dbpedia.org/resource/Juan_Goytisolo</value>
+</author>
+<wikilink>
+<type>uri</type>
+<value>http://en.wikipedia.org/wiki/Juan_the_Landless?oldid=562305472</value>
+</wikilink>
+</XML_Serializer_Tag>
+</books>
+</Person>

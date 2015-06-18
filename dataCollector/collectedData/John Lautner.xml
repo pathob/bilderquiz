@@ -1,0 +1,49 @@
+<Person>
+<name>John Lautner</name>
+<variantName />
+<thumbnail>https://commons.wikimedia.org/wiki/Special:FilePath/Chemosphere.jpg?width=270</thumbnail>
+<birthEN>1911</birthEN>
+<birthDE>1911</birthDE>
+<deathEN>1994</deathEN>
+<deathDE>1994</deathDE>
+<birthPlace />
+<deathPlace />
+<professionOrOccupation>
+<XML_Serializer_Tag>Architekt</XML_Serializer_Tag>
+</professionOrOccupation>
+<dbpResource>http://dbpedia.org/resource/John_Lautner</dbpResource>
+<abstract>John Lautner (* 16. Juli 1911 in Marquette, Michigan; † 24. Oktober 1994 in Los Angeles, Kalifornien) war ein US-amerikanischer Architekt.</abstract>
+<wikilink>http://en.wikipedia.org/wiki/John_Lautner?oldid=603369207</wikilink>
+<artworks />
+<buildings>
+<XML_Serializer_Tag>
+<building>
+<type>uri</type>
+<value>http://dbpedia.org/resource/Sheats_Goldstein_Residence</value>
+</building>
+<name>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>Sheats Goldstein Residence</value>
+</name>
+<architect>
+<type>uri</type>
+<value>http://dbpedia.org/resource/John_Lautner</value>
+</architect>
+<thumbnail>
+<type>uri</type>
+<value>http://commons.wikimedia.org/wiki/Special:FilePath/Goldstein(from_terrace).JPG?width=300</value>
+</thumbnail>
+<wikilink>
+<type>uri</type>
+<value>http://en.wikipedia.org/wiki/Sheats_Goldstein_Residence?oldid=597714533</value>
+</wikilink>
+<abstract>
+<type>literal</type>
+<xml:lang>de</xml:lang>
+<value>Die Sheats-Goldstein-Residence ist ein unter Federführung des US-amerikanischen Architekten John Lautner von 1961 bis 1963 erbautes Wohnhaus in Beverly Hills, Kalifornien. Das Haus wird der organischen Architektur zugerechnet und war Schauplatz mehrerer Spielfilme.</value>
+</abstract>
+</XML_Serializer_Tag>
+</buildings>
+<books />
+</Person>

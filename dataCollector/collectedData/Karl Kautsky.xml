@@ -1,0 +1,61 @@
+<Person>
+<name>Karl Kautsky</name>
+<variantName>
+<XML_Serializer_Tag>Karl Kaucki</XML_Serializer_Tag>
+<XML_Serializer_Tag>Kārl Kāʾūtskī</XML_Serializer_Tag>
+<XML_Serializer_Tag>K. Kautskij</XML_Serializer_Tag>
+<XML_Serializer_Tag>Karl Kautskij</XML_Serializer_Tag>
+<XML_Serializer_Tag>Carl Kautsky</XML_Serializer_Tag>
+<XML_Serializer_Tag>Carlo Kautsky</XML_Serializer_Tag>
+<XML_Serializer_Tag>Carlos Kautsky</XML_Serializer_Tag>
+<XML_Serializer_Tag>Karel Kautsky</XML_Serializer_Tag>
+<XML_Serializer_Tag>Karol Kautsky</XML_Serializer_Tag>
+<XML_Serializer_Tag>考茨基</XML_Serializer_Tag>
+</variantName>
+<thumbnail>https://commons.wikimedia.org/wiki/Special:FilePath/Karl_Kautsky_01.jpg?width=270</thumbnail>
+<birthEN>October 16, 1854</birthEN>
+<birthDE>16. Oktober 1854</birthDE>
+<deathEN>October 17, 1938</deathEN>
+<deathDE>17. Oktober 1938</deathDE>
+<birthPlace>
+<XML_Serializer_Tag>Prag</XML_Serializer_Tag>
+</birthPlace>
+<deathPlace>
+<XML_Serializer_Tag>Amsterdam</XML_Serializer_Tag>
+</deathPlace>
+<professionOrOccupation>
+<XML_Serializer_Tag>Sozialist</XML_Serializer_Tag>
+<XML_Serializer_Tag>Schriftsteller</XML_Serializer_Tag>
+<XML_Serializer_Tag>Redakteur</XML_Serializer_Tag>
+</professionOrOccupation>
+<dbpResource>http://dbpedia.org/resource/Karl_Kautsky</dbpResource>
+<abstract>Karl Johann Kautsky (* 16. Oktober 1854 in Prag, Österreich-Ungarn; † 17. Oktober 1938 in Amsterdam) war ein deutsch-tschechischer Philosoph und sozialdemokratischer Politiker.</abstract>
+<wikilink>http://en.wikipedia.org/wiki/Karl_Kautsky?oldid=603411305</wikilink>
+<artworks />
+<buildings />
+<books>
+<XML_Serializer_Tag>
+<book>
+<type>uri</type>
+<value>http://dbpedia.org/resource/Foundations_of_Christianity</value>
+</book>
+<author>
+<type>uri</type>
+<value>http://dbpedia.org/resource/Karl_Kautsky</value>
+</author>
+<published>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>*1908 
+*1925 
+*1953 
+*1972 
+*2007</value>
+</published>
+<wikilink>
+<type>uri</type>
+<value>http://en.wikipedia.org/wiki/Foundations_of_Christianity?oldid=587787531</value>
+</wikilink>
+</XML_Serializer_Tag>
+</books>
+</Person>

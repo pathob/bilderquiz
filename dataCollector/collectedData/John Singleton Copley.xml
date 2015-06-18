@@ -14,12 +14,15 @@
 <professionOrOccupation>
 <XML_Serializer_Tag>Maler</XML_Serializer_Tag>
 </professionOrOccupation>
+<dbpResource>http://dbpedia.org/resource/John_Singleton_Copley</dbpResource>
+<abstract>John Singleton Copley (* 3. Juli 1738 in Boston; † 9. September 1815 in London) war ein amerikanisch-englischer Maler.</abstract>
+<wikilink>http://en.wikipedia.org/wiki/John_Singleton_Copley?oldid=605873049</wikilink>
 <artworks>
 <XML_Serializer_Tag>
-<painting>
+<artwork>
 <type>uri</type>
 <value>http://dbpedia.org/resource/Watson_and_the_Shark</value>
-</painting>
+</artwork>
 <thumbnail>
 <type>uri</type>
 <value>http://en.wikipedia.org/wiki/Special:FilePath/Watsonandtheshark-original.jpg?width=300</value>
@@ -43,12 +46,17 @@
 <type>uri</type>
 <value>http://en.wikipedia.org/wiki/Watson_and_the_Shark?oldid=602525951</value>
 </wikilink>
+<type>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>Oil on canvas</value>
+</type>
 </XML_Serializer_Tag>
 <XML_Serializer_Tag>
-<painting>
+<artwork>
 <type>uri</type>
 <value>http://dbpedia.org/resource/The_Death_of_the_Earl_of_Chatham</value>
-</painting>
+</artwork>
 <thumbnail>
 <type>uri</type>
 <value>http://commons.wikimedia.org/wiki/Special:FilePath/The_Death_of_the_Earl_of_Chatham_by_John_Singleton_Copley.jpg?width=300</value>
@@ -67,12 +75,17 @@
 <type>uri</type>
 <value>http://en.wikipedia.org/wiki/The_Death_of_the_Earl_of_Chatham?oldid=595590272</value>
 </wikilink>
+<type>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>Oil-on-canvas</value>
+</type>
 </XML_Serializer_Tag>
 <XML_Serializer_Tag>
-<painting>
+<artwork>
 <type>uri</type>
 <value>http://dbpedia.org/resource/The_Defeat_of_the_Floating_Batteries_at_Gibraltar,_September_1782</value>
-</painting>
+</artwork>
 <thumbnail>
 <type>uri</type>
 <value>http://commons.wikimedia.org/wiki/Special:FilePath/The_Siege_and_Relief_of_Gibraltar_(2).jpg?width=300</value>
@@ -91,12 +104,16 @@
 <type>uri</type>
 <value>http://en.wikipedia.org/wiki/The_Defeat_of_the_Floating_Batteries_at_Gibraltar,_September_1782?oldid=591219256</value>
 </wikilink>
+<type>
+<type>uri</type>
+<value>http://dbpedia.org/resource/Oil_painting</value>
+</type>
 </XML_Serializer_Tag>
 <XML_Serializer_Tag>
-<painting>
+<artwork>
 <type>uri</type>
 <value>http://dbpedia.org/resource/The_Death_of_Major_Peirson,_6_January_1781</value>
-</painting>
+</artwork>
 <thumbnail>
 <type>uri</type>
 <value>http://commons.wikimedia.org/wiki/Special:FilePath/John_Singleton_Copley_001.jpg?width=300</value>
@@ -115,9 +132,13 @@
 <type>uri</type>
 <value>http://en.wikipedia.org/wiki/The_Death_of_Major_Peirson,_6_January_1781?oldid=590100687</value>
 </wikilink>
+<type>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>Oil-on-canvas</value>
+</type>
 </XML_Serializer_Tag>
 </artworks>
-<dbpResource>http://dbpedia.org/resource/John_Singleton_Copley</dbpResource>
-<abstract>John Singleton Copley (* 3. Juli 1738 in Boston; † 9. September 1815 in London) war ein amerikanisch-englischer Maler.</abstract>
-<wikilink>http://en.wikipedia.org/wiki/John_Singleton_Copley?oldid=605873049</wikilink>
+<buildings />
+<books />
 </Person>

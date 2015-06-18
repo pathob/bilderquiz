@@ -1,0 +1,24 @@
+<Person>
+<name>Otto Roquette</name>
+<variantName />
+<thumbnail>https://commons.wikimedia.org/wiki/Special:FilePath/Otto_Roquette.jpg?width=270</thumbnail>
+<birthEN>April 19, 1824</birthEN>
+<birthDE>19. April 1824</birthDE>
+<deathEN>March 18, 1896</deathEN>
+<deathDE>18. März 1896</deathDE>
+<birthPlace>
+<XML_Serializer_Tag>Krotoschin</XML_Serializer_Tag>
+</birthPlace>
+<deathPlace>
+<XML_Serializer_Tag>Darmstadt</XML_Serializer_Tag>
+</deathPlace>
+<professionOrOccupation>
+<XML_Serializer_Tag>Schriftsteller</XML_Serializer_Tag>
+</professionOrOccupation>
+<dbpResource>http://dbpedia.org/resource/Otto_Roquette</dbpResource>
+<abstract>Otto Roquette (* 19. April 1824 in Krotoschin bei Posen; † 18. März 1896 in Darmstadt) war ein deutscher Schriftsteller.</abstract>
+<wikilink>http://en.wikipedia.org/wiki/Otto_Roquette?oldid=576553490</wikilink>
+<artworks />
+<buildings />
+<books />
+</Person>

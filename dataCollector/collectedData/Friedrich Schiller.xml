@@ -1,0 +1,113 @@
+<Person>
+<name>Friedrich Schiller</name>
+<variantName>
+<XML_Serializer_Tag>Friedrich Johann Christoph von Schiller</XML_Serializer_Tag>
+<XML_Serializer_Tag>Friedrich von Schiller</XML_Serializer_Tag>
+<XML_Serializer_Tag>Friedrich v. Schiller</XML_Serializer_Tag>
+<XML_Serializer_Tag>Friedr. von Schiller</XML_Serializer_Tag>
+<XML_Serializer_Tag>Fr. Schiller</XML_Serializer_Tag>
+<XML_Serializer_Tag>Johann Christoph Friedrich von Schiller</XML_Serializer_Tag>
+<XML_Serializer_Tag>Johann Christoph Friderich Schiller</XML_Serializer_Tag>
+<XML_Serializer_Tag>Johann Christoph Friedrich Schiller</XML_Serializer_Tag>
+<XML_Serializer_Tag>Joh. Christoph Frid. Schiller</XML_Serializer_Tag>
+<XML_Serializer_Tag>J. C. Friedrich von Schiller</XML_Serializer_Tag>
+<XML_Serializer_Tag>J. C. F. Schiller</XML_Serializer_Tag>
+<XML_Serializer_Tag>Johann Frederich Schiller</XML_Serializer_Tag>
+<XML_Serializer_Tag>Bedřich Schiller</XML_Serializer_Tag>
+<XML_Serializer_Tag>C. Friedrich von Schiller</XML_Serializer_Tag>
+<XML_Serializer_Tag>C. F. Schiller</XML_Serializer_Tag>
+<XML_Serializer_Tag>Federico Schiller</XML_Serializer_Tag>
+<XML_Serializer_Tag>Federico de Schiller</XML_Serializer_Tag>
+<XML_Serializer_Tag>Frederic Schiller</XML_Serializer_Tag>
+<XML_Serializer_Tag>Frédéric Schiller</XML_Serializer_Tag>
+<XML_Serializer_Tag>Frédéric von Schiller</XML_Serializer_Tag>
+<XML_Serializer_Tag>Frederick Schiller</XML_Serializer_Tag>
+<XML_Serializer_Tag>Frederico Schiller</XML_Serializer_Tag>
+<XML_Serializer_Tag>Friderico Schiller</XML_Serializer_Tag>
+<XML_Serializer_Tag>Fridrich von Schiller</XML_Serializer_Tag>
+<XML_Serializer_Tag>Fryderyk Schiller</XML_Serializer_Tag>
+<XML_Serializer_Tag>Fr. v. Schiller</XML_Serializer_Tag>
+<XML_Serializer_Tag>F. von Schiller</XML_Serializer_Tag>
+<XML_Serializer_Tag>F. Schiller</XML_Serializer_Tag>
+<XML_Serializer_Tag>... Schiller</XML_Serializer_Tag>
+<XML_Serializer_Tag>... Schüller</XML_Serializer_Tag>
+<XML_Serializer_Tag>... Hsilô</XML_Serializer_Tag>
+<XML_Serializer_Tag>Fridrih Shiler</XML_Serializer_Tag>
+<XML_Serializer_Tag>... Shirâ</XML_Serializer_Tag>
+<XML_Serializer_Tag>... Shirureru</XML_Serializer_Tag>
+<XML_Serializer_Tag>Fridrich Šiler</XML_Serializer_Tag>
+<XML_Serializer_Tag>Fridrih Šiler</XML_Serializer_Tag>
+<XML_Serializer_Tag>Fridrik Šiler</XML_Serializer_Tag>
+<XML_Serializer_Tag>... Šiler</XML_Serializer_Tag>
+<XML_Serializer_Tag>Phridrih Šileri</XML_Serializer_Tag>
+<XML_Serializer_Tag>Fridrichas Šileris</XML_Serializer_Tag>
+<XML_Serializer_Tag>Frydrichas Šileris</XML_Serializer_Tag>
+<XML_Serializer_Tag>Frydrychas Šileris</XML_Serializer_Tag>
+<XML_Serializer_Tag>Frīdrīš Šīlir</XML_Serializer_Tag>
+<XML_Serializer_Tag>Frederik fon Şiller</XML_Serializer_Tag>
+<XML_Serializer_Tag>Fridrich Šiller</XML_Serializer_Tag>
+<XML_Serializer_Tag>Fridricku Siller</XML_Serializer_Tag>
+<XML_Serializer_Tag>Fridrih Šiller</XML_Serializer_Tag>
+<XML_Serializer_Tag>Fr. Šiller</XML_Serializer_Tag>
+<XML_Serializer_Tag>F. Šiller</XML_Serializer_Tag>
+<XML_Serializer_Tag>Iogann Christof Fridrich Šiller</XML_Serializer_Tag>
+<XML_Serializer_Tag>Phrēntrich Siller</XML_Serializer_Tag>
+<XML_Serializer_Tag>Phriderikos Siller</XML_Serializer_Tag>
+<XML_Serializer_Tag>Fr. Šillers</XML_Serializer_Tag>
+<XML_Serializer_Tag>... Šīllir</XML_Serializer_Tag>
+<XML_Serializer_Tag>P&apos;ŭridŭrihi Sillŏ</XML_Serializer_Tag>
+<XML_Serializer_Tag>F. Sillr</XML_Serializer_Tag>
+<XML_Serializer_Tag>Fu li de li xi Xi le</XML_Serializer_Tag>
+<XML_Serializer_Tag>Fulidelixi-Xile</XML_Serializer_Tag>
+<XML_Serializer_Tag>Fulidelixi Xile</XML_Serializer_Tag>
+<XML_Serializer_Tag>프리드리히 실러</XML_Serializer_Tag>
+<XML_Serializer_Tag>弗里德里希·席勒</XML_Serializer_Tag>
+<XML_Serializer_Tag>弗里德里希 席勒</XML_Serializer_Tag>
+</variantName>
+<thumbnail>https://commons.wikimedia.org/wiki/Special:FilePath/Friedrich_schiller.jpg?width=270</thumbnail>
+<birthEN>November 10, 1759</birthEN>
+<birthDE>10. November 1759</birthDE>
+<deathEN>May 9, 1805</deathEN>
+<deathDE>9. Mai 1805</deathDE>
+<birthPlace>
+<XML_Serializer_Tag>Marbach am Neckar</XML_Serializer_Tag>
+</birthPlace>
+<deathPlace>
+<XML_Serializer_Tag>Weimar</XML_Serializer_Tag>
+</deathPlace>
+<professionOrOccupation>
+<XML_Serializer_Tag>Schriftsteller</XML_Serializer_Tag>
+<XML_Serializer_Tag>Dramatiker</XML_Serializer_Tag>
+<XML_Serializer_Tag>Historiker</XML_Serializer_Tag>
+</professionOrOccupation>
+<dbpResource>http://dbpedia.org/resource/Friedrich_Schiller</dbpResource>
+<abstract>Johann Christoph Friedrich von Schiller (* 10. November 1759 in Marbach am Neckar, Württemberg; † 9. Mai 1805 in Weimar, Sachsen-Weimar), 1802 geadelt, war ein deutscher Dichter, Philosoph und Historiker. Er gilt als einer der bedeutendsten deutschsprachigen Dramatiker und Lyriker. Viele seiner Theaterstücke gehören zum Standardrepertoire der deutschsprachigen Theater. Seine Balladen zählen zu den bekanntesten deutschen Gedichten.Schiller gehört mit Wieland, Goethe und Herder zum Viergestirn der Weimarer Klassik.Er war durch Geburt Württemberger, wurde später Staatsbürger von Sachsen-Weimar und erhielt 1792 zusätzlich die französische Staatsbürgerschaft verliehen, in Würdigung seines in Paris aufgeführten Dramas Die Räuber, das als Freiheitskampf gegen die Tyrannei verstanden wurde.</abstract>
+<wikilink>http://en.wikipedia.org/wiki/Friedrich_Schiller?oldid=605776436</wikilink>
+<artworks />
+<buildings />
+<books>
+<XML_Serializer_Tag>
+<book>
+<type>uri</type>
+<value>http://dbpedia.org/resource/The_Ghost-Seer</value>
+</book>
+<author>
+<type>uri</type>
+<value>http://dbpedia.org/resource/Friedrich_Schiller</value>
+</author>
+<thumbnail>
+<type>uri</type>
+<value>http://commons.wikimedia.org/wiki/Special:FilePath/Arthur_von_Ramberg_gez,_Schiller-Galerie,_Friedrich_von_Schiller,_Sammelbild,_Stahlstich_um_1859,_Der_Prinz_aus_Der_Geisterseher,_Konrad_Conrad_Geyer_gestochen.jpg?width=300</value>
+</thumbnail>
+<wikilink>
+<type>uri</type>
+<value>http://en.wikipedia.org/wiki/The_Ghost-Seer?oldid=604346387</value>
+</wikilink>
+<abstract>
+<type>literal</type>
+<xml:lang>de</xml:lang>
+<value>Der Geisterseher (Aus den Memoiren des Grafen von O**) ist ein Romanfragment Friedrich von Schillers, das in mehreren Fortsetzungen zwischen 1787 und 1789 in der Zeitschrift Thalia erschien und später in drei Buchausgaben veröffentlicht wurde. Obwohl unvollendet, brachte der Text Schiller zu Lebzeiten den größten Publikumserfolg ein. Die wirkungsvolle Verknüpfung zeittypischer Elemente wie Geisterbeschwörung, Spiritismus und Verschwörungen kam der Lesererwartung entgegen. Schiller beschreibt in seiner Erzählung die Intrige einer jesuitischen Geheimgesellschaft, die einen protestantischen Prinzen zum Katholizismus bekehren und ihm zugleich die Krone in seinem Stammland sichern will, um dort die eigene Machtbasis auszubauen. Am Schicksal des Prinzen verdeutlicht Schiller den für ihn zentralen Konflikt zwischen Leidenschaft und Sittlichkeit, Neigung und Pflicht. In den religions- und geschichtsphilosophischen Passagen des Werkes kommen seine Ideale der Aufklärung als Religions- und Gesellschaftskritik zum Vorschein, die auf seine spätere intensive Beschäftigung mit Immanuel Kant verweisen. Stil und Struktur des Werkes sind wegen der schleppenden Entstehung und Schillers Abneigung gegenüber dem Projekt nicht einheitlich und reichen von rhetorisch durchkomponierter Prosa, über dramatische, an Don Karlos erinnernde Dialoge bis zu Kolportageelementen der Schauerliteratur.</value>
+</abstract>
+</XML_Serializer_Tag>
+</books>
+</Person>

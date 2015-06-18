@@ -1,0 +1,55 @@
+<Person>
+<name>Charles Willard Moore</name>
+<variantName>
+<XML_Serializer_Tag>Charles Moore</XML_Serializer_Tag>
+<XML_Serializer_Tag>Charles W. Moore</XML_Serializer_Tag>
+</variantName>
+<thumbnail>https://commons.wikimedia.org/wiki/Special:FilePath/Charles_Moore_Piazza_d&apos;Italia.jpg?width=270</thumbnail>
+<birthEN>1925</birthEN>
+<birthDE>1925</birthDE>
+<deathEN>1993</deathEN>
+<deathDE>1993</deathDE>
+<birthPlace>
+<XML_Serializer_Tag>Benton Harbour, Michigan</XML_Serializer_Tag>
+</birthPlace>
+<deathPlace>
+<XML_Serializer_Tag>Austin, Texas</XML_Serializer_Tag>
+</deathPlace>
+<professionOrOccupation>
+<XML_Serializer_Tag>Architekt</XML_Serializer_Tag>
+</professionOrOccupation>
+<dbpResource>http://dbpedia.org/resource/Charles_Moore_(architect)</dbpResource>
+<abstract>Charles Willard Moore (* 31. Oktober 1925 in Benton Harbor, Michigan; † 16. Dezember 1993 in Austin, Texas) war ein US-amerikanischer Architekt. Er war einer der „Gründerväter“ und Theoretiker der Postmoderne. Bekannt als Architekt wurde Moore durch die Sea Ranch in Kalifornien.Moore studierte Architektur und Philosophie u. a. an der Princeton University in Princeton (New Jersey). Von 1962 bis 1975 war er als Professor an diversen Universitäten tätig, so auch der University of California in Berkeley. 1970 begründete er in Connecticut das Büro Charles W. Moore Associate, dem 1975 parallel laufende Arbeitsgemeinschaften u.a. mit William Grover und Robert Harper folgten. 1991 erhielt Moore die Goldmedaille des American Institute of Architects.Neben einer großen Anzahl an Einfamilienhäusern, konnte Moore auch schon früh einige Wohnsiedlungen für sozial schwache Schichten realisieren. Das zeigte, dass kostengünstige Massenwohnungsbauten nicht zwangsläufig gestaltlos und uniform sein müssen.</abstract>
+<wikilink>http://en.wikipedia.org/wiki/Charles_Moore_(architect)?oldid=593651076</wikilink>
+<artworks />
+<buildings>
+<XML_Serializer_Tag>
+<building>
+<type>uri</type>
+<value>http://dbpedia.org/resource/Fairmont_San_Jose</value>
+</building>
+<name>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>The Fairmont San Jose</value>
+</name>
+<architect>
+<type>uri</type>
+<value>http://dbpedia.org/resource/Charles_Moore_(architect)</value>
+</architect>
+<thumbnail>
+<type>uri</type>
+<value>http://commons.wikimedia.org/wiki/Special:FilePath/Fairmont_Logo.svg?width=300</value>
+</thumbnail>
+<wikilink>
+<type>uri</type>
+<value>http://en.wikipedia.org/wiki/Fairmont_San_Jose?oldid=557443143</value>
+</wikilink>
+<location>
+<type>uri</type>
+<value>http://dbpedia.org/resource/United_States</value>
+</location>
+</XML_Serializer_Tag>
+</buildings>
+<books />
+</Person>

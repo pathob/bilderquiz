@@ -1,0 +1,62 @@
+<Person>
+<name>Woody Allen</name>
+<variantName>
+<XML_Serializer_Tag>Allen S. Konigsberg</XML_Serializer_Tag>
+<XML_Serializer_Tag>Allan Stewart Konigsberg</XML_Serializer_Tag>
+<XML_Serializer_Tag>Allen Stewart Konigsberg</XML_Serializer_Tag>
+</variantName>
+<thumbnail>https://commons.wikimedia.org/wiki/Special:FilePath/Woody_Allen_portrait_2009.jpg?width=270</thumbnail>
+<birthEN>1935</birthEN>
+<birthDE>1935</birthDE>
+<deathEN />
+<deathDE />
+<birthPlace>
+<XML_Serializer_Tag>New York</XML_Serializer_Tag>
+</birthPlace>
+<deathPlace />
+<professionOrOccupation>
+<XML_Serializer_Tag>Regisseur</XML_Serializer_Tag>
+<XML_Serializer_Tag>Schauspieler</XML_Serializer_Tag>
+<XML_Serializer_Tag>Autor</XML_Serializer_Tag>
+</professionOrOccupation>
+<dbpResource>http://dbpedia.org/resource/Woody_Allen</dbpResource>
+<abstract>Woody Allen (* 1. Dezember 1935 in Brooklyn, New York; geboren als Allan Stewart Konigsberg, bürgerlicher Name seit 1952 Heywood Allen) ist ein US-amerikanischer Komiker, Filmregisseur, Autor, Schauspieler und Musiker. Neben den über 50 Filmen als Drehbuchschreiber und Regisseur hat Woody Allen zahlreiche Erzählungen, Theaterstücke und Kolumnen geschrieben. Darüber hinaus ist er passionierter Jazzmusiker.Er wurde 23 Mal für den Oscar nominiert und erhielt die Auszeichnung viermal: 1978 für Der Stadtneurotiker in den Sparten Bester Regisseur und Bestes Drehbuch, 1986 mit Hannah und ihre Schwestern und 2012 mit Midnight in Paris jeweils für das beste Drehbuch. Allen nahm die Auszeichnungen nie persönlich entgegen.</abstract>
+<wikilink>http://en.wikipedia.org/wiki/Woody_Allen?oldid=606525338</wikilink>
+<artworks />
+<buildings />
+<books>
+<XML_Serializer_Tag>
+<book>
+<type>uri</type>
+<value>http://dbpedia.org/resource/Without_Feathers</value>
+</book>
+<author>
+<type>uri</type>
+<value>http://dbpedia.org/resource/Woody_Allen</value>
+</author>
+<wikilink>
+<type>uri</type>
+<value>http://en.wikipedia.org/wiki/Without_Feathers?oldid=567342422</value>
+</wikilink>
+<abstract>
+<type>literal</type>
+<xml:lang>de</xml:lang>
+<value>Ohne Leit kein Freud ist eine Sammlung von Kurzgeschichten von Woody Allen. Enthalten sind neben den Kurzgeschichten die Theaterstücke Gott und Tod. Dieses Buch ist 1975 in Amerika und 1979 in Deutschland erschienen. Im Originaltitel heißt dieses Buch Without Feathers (dt. Ohne Federn). Dies liegt am Zitat von Emily Dickinson, welches am Anfang zu finden ist: Vorlage:&quot;</value>
+</abstract>
+</XML_Serializer_Tag>
+<XML_Serializer_Tag>
+<book>
+<type>uri</type>
+<value>http://dbpedia.org/resource/Getting_Even_(Woody_Allen)</value>
+</book>
+<author>
+<type>uri</type>
+<value>http://dbpedia.org/resource/Woody_Allen</value>
+</author>
+<wikilink>
+<type>uri</type>
+<value>http://en.wikipedia.org/wiki/Getting_Even_(Woody_Allen)?oldid=524119302</value>
+</wikilink>
+</XML_Serializer_Tag>
+</books>
+</Person>

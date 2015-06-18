@@ -1,0 +1,33 @@
+<Person>
+<name>Georg Ebers</name>
+<variantName>
+<XML_Serializer_Tag>Georg Moritz Ebers</XML_Serializer_Tag>
+<XML_Serializer_Tag>Georg Ėbers</XML_Serializer_Tag>
+<XML_Serializer_Tag>Georgius Ebers</XML_Serializer_Tag>
+<XML_Serializer_Tag>Georg M. Ebers</XML_Serializer_Tag>
+<XML_Serializer_Tag>Giorgio Ebers</XML_Serializer_Tag>
+<XML_Serializer_Tag>Georges Ebers</XML_Serializer_Tag>
+<XML_Serializer_Tag>G. Ebers</XML_Serializer_Tag>
+</variantName>
+<thumbnail>https://commons.wikimedia.org/wiki/Special:FilePath/Georg_Ebers.jpg?width=270</thumbnail>
+<birthEN>March 1, 1837</birthEN>
+<birthDE>1. März 1837</birthDE>
+<deathEN>August 7, 1898</deathEN>
+<deathDE>7. August 1898</deathDE>
+<birthPlace>
+<XML_Serializer_Tag>Berlin</XML_Serializer_Tag>
+</birthPlace>
+<deathPlace>
+<XML_Serializer_Tag>Tutzing</XML_Serializer_Tag>
+</deathPlace>
+<professionOrOccupation>
+<XML_Serializer_Tag>Schriftsteller</XML_Serializer_Tag>
+<XML_Serializer_Tag>Ägyptologe</XML_Serializer_Tag>
+</professionOrOccupation>
+<dbpResource>http://dbpedia.org/resource/Georg_Ebers</dbpResource>
+<abstract>Georg Moritz Ebers (* 1. März 1837 in Berlin; † 7. August 1898 in Tutzing) war ein deutscher Ägyptologe und Schriftsteller. Mit seinen historischen Romanen und populärwissenschaftlichen Büchern trug er zur großen Popularität der Ägyptologie im ausgehenden 19. Jahrhundert bei.</abstract>
+<wikilink>http://en.wikipedia.org/wiki/Georg_Ebers?oldid=581153861</wikilink>
+<artworks />
+<buildings />
+<books />
+</Person>

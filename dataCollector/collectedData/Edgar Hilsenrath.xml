@@ -1,0 +1,78 @@
+<Person>
+<name>Edgar Hilsenrath</name>
+<variantName>
+<XML_Serializer_Tag>Êdgar Hilzenrat&apos;</XML_Serializer_Tag>
+<XML_Serializer_Tag>Entnkar Chilzenrat</XML_Serializer_Tag>
+<XML_Serializer_Tag>Edgars Hilzenrāts</XML_Serializer_Tag>
+<XML_Serializer_Tag>Edgaras Hilzenratas</XML_Serializer_Tag>
+<XML_Serializer_Tag>Ėdgar Chil&apos;zenrat</XML_Serializer_Tag>
+<XML_Serializer_Tag>אדגר הילזנראט</XML_Serializer_Tag>
+</variantName>
+<thumbnail>https://commons.wikimedia.org/wiki/Special:FilePath/Edgar_Hilsenrath_20100329_Salon_du_livre_de_Paris_1.jpg?width=270</thumbnail>
+<birthEN>1926</birthEN>
+<birthDE>1926</birthDE>
+<deathEN />
+<deathDE />
+<birthPlace>
+<XML_Serializer_Tag>Leipzig</XML_Serializer_Tag>
+</birthPlace>
+<deathPlace />
+<professionOrOccupation>
+<XML_Serializer_Tag>Schriftsteller</XML_Serializer_Tag>
+</professionOrOccupation>
+<dbpResource>http://dbpedia.org/resource/Edgar_Hilsenrath</dbpResource>
+<abstract>Edgar Hilsenrath (* 2. April 1926 in Leipzig) ist ein deutscher Schriftsteller, der vor allem für seine vom eigenen Überleben der Shoa (Holocaust) geprägten Werke Nacht, Der Nazi &amp; der Friseur und Das Märchen vom letzten Gedanken bekannt ist und vielfach ausgezeichnet wurde.</abstract>
+<wikilink>http://en.wikipedia.org/wiki/Edgar_Hilsenrath?oldid=590266105</wikilink>
+<artworks />
+<buildings />
+<books>
+<XML_Serializer_Tag>
+<book>
+<type>uri</type>
+<value>http://dbpedia.org/resource/The_Nazi_and_the_Barber</value>
+</book>
+<author>
+<type>uri</type>
+<value>http://dbpedia.org/resource/Edgar_Hilsenrath</value>
+</author>
+<released>
+<type>typed-literal</type>
+<datatype>http://www.w3.org/2001/XMLSchema#integer</datatype>
+<value>1971</value>
+</released>
+<wikilink>
+<type>uri</type>
+<value>http://en.wikipedia.org/wiki/The_Nazi_and_the_Barber?oldid=585747187</value>
+</wikilink>
+<abstract>
+<type>literal</type>
+<xml:lang>de</xml:lang>
+<value>Das Werk Der Nazi &amp; der Friseur des deutsch-jüdischen Schriftstellers Edgar Hilsenrath ist eine Groteske über den Holocaust während der Zeit des NS-Faschismus. Das Werk schildert aus der Täterperspektive die Biografie des SS-Massenmörders und KZ-Aufsehers Max Schulz, der nach dem Zusammenbruch des Dritten Reichs eine jüdische Identität annimmt und schließlich nach Israel auswandert, um einer Verfolgung in Deutschland zu entgehen.Die Groteske zeichnet sich aus durch die konsequente Absage an die Erwartungshaltung des Lesers wie die Verkehrung aller gängigen Klischees, hier des Deutschen Max Schulz und seines jüdischen Freundes und Schulkameraden Itzig Finkelstein:Eine weitere Besonderheit stellt die Täterperspektive dar, für das deutsche Publikum damals ein Novum:</value>
+</abstract>
+</XML_Serializer_Tag>
+<XML_Serializer_Tag>
+<book>
+<type>uri</type>
+<value>http://dbpedia.org/resource/The_Story_of_the_Last_Thought</value>
+</book>
+<author>
+<type>uri</type>
+<value>http://dbpedia.org/resource/Edgar_Hilsenrath</value>
+</author>
+<released>
+<type>typed-literal</type>
+<datatype>http://www.w3.org/2001/XMLSchema#integer</datatype>
+<value>1989</value>
+</released>
+<wikilink>
+<type>uri</type>
+<value>http://en.wikipedia.org/wiki/The_Story_of_the_Last_Thought?oldid=544924900</value>
+</wikilink>
+<abstract>
+<type>literal</type>
+<xml:lang>de</xml:lang>
+<value>Das Werk Das Märchen vom letzten Gedanken des deutschen Schriftstellers Edgar Hilsenrath handelt vom Völkermord an den Armeniern im Jahre 1915. Das in Form eines Märchens verfasste und mit zahlreichen Preisen ausgezeichnete Epos gilt als eines der bedeutendsten literarischen Werke über dieses historische Ereignis. Im Jahr 2006 erhielt der Dichter für das Werk den Preis des Präsidenten der Republik Armenien.</value>
+</abstract>
+</XML_Serializer_Tag>
+</books>
+</Person>

@@ -19,8 +19,10 @@
 <XML_Serializer_Tag>Designer</XML_Serializer_Tag>
 <XML_Serializer_Tag>Kunsthistoriker</XML_Serializer_Tag>
 </professionOrOccupation>
-<artworks />
 <dbpResource>http://dbpedia.org/resource/Gabriele_Mucchi</dbpResource>
 <abstract>Gabriele Mucchi (* 25. Juni 1899 in Turin; † 10. Mai 2002 in Mailand) war ein italienischer Maler, Grafiker und Architekt. Er gilt als Mitbegründer des „Neuen Realismus“ (Nuovo Realismo).</abstract>
 <wikilink>http://en.wikipedia.org/wiki/Gabriele_Mucchi?oldid=604031582</wikilink>
+<artworks />
+<buildings />
+<books />
 </Person>

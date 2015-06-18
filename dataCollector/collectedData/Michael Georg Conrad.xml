@@ -1,0 +1,27 @@
+<Person>
+<name>Michael Georg Conrad</name>
+<variantName>
+<XML_Serializer_Tag>M. G. Conrad</XML_Serializer_Tag>
+<XML_Serializer_Tag>Michael G. Conrad</XML_Serializer_Tag>
+<XML_Serializer_Tag>Fritz Hammer</XML_Serializer_Tag>
+</variantName>
+<thumbnail>https://commons.wikimedia.org/wiki/Special:FilePath/Michael_Conrad.gif?width=270</thumbnail>
+<birthEN>April 5, 1846</birthEN>
+<birthDE>5. April 1846</birthDE>
+<deathEN>December 20, 1927</deathEN>
+<deathDE>20. Dezember 1927</deathDE>
+<birthPlace />
+<deathPlace />
+<professionOrOccupation>
+<XML_Serializer_Tag>Schriftsteller</XML_Serializer_Tag>
+<XML_Serializer_Tag>Journalist</XML_Serializer_Tag>
+<XML_Serializer_Tag>Redakteur</XML_Serializer_Tag>
+<XML_Serializer_Tag>Theaterkritiker</XML_Serializer_Tag>
+</professionOrOccupation>
+<dbpResource>http://dbpedia.org/resource/Michael_Georg_Conrad</dbpResource>
+<abstract>Michael Georg Conrad (* 5. April 1846 in Gnodstadt/Unterfranken; † 20. Dezember 1927 in München) war ein deutscher Schriftsteller des Naturalismus.</abstract>
+<wikilink>http://en.wikipedia.org/wiki/Michael_Georg_Conrad?oldid=601855513</wikilink>
+<artworks />
+<buildings />
+<books />
+</Person>

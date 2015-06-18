@@ -12,8 +12,10 @@
 <XML_Serializer_Tag>Künstler</XML_Serializer_Tag>
 <XML_Serializer_Tag>Maler</XML_Serializer_Tag>
 </professionOrOccupation>
-<artworks />
 <dbpResource>http://dbpedia.org/resource/Hans_Asper</dbpResource>
 <abstract>Hans Asper (* 1499 in Zürich; † 21. März 1571 ebd.) war ein Schweizer Maler, dessen Werke noch Züge der Spätgotik aufweisen.</abstract>
 <wikilink>http://en.wikipedia.org/wiki/Hans_Asper?oldid=603886066</wikilink>
+<artworks />
+<buildings />
+<books />
 </Person>

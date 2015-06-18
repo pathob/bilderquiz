@@ -1,0 +1,27 @@
+<Person>
+<name>Jesse Ventura</name>
+<variantName>
+<XML_Serializer_Tag>James George Janos</XML_Serializer_Tag>
+</variantName>
+<thumbnail>https://commons.wikimedia.org/wiki/Special:FilePath/Jesse_Ventura.jpg?width=270</thumbnail>
+<birthEN>1951</birthEN>
+<birthDE>1951</birthDE>
+<deathEN />
+<deathDE />
+<birthPlace>
+<XML_Serializer_Tag>Minneapolis, Minn.</XML_Serializer_Tag>
+</birthPlace>
+<deathPlace />
+<professionOrOccupation>
+<XML_Serializer_Tag>Gouverneur</XML_Serializer_Tag>
+<XML_Serializer_Tag>Autor</XML_Serializer_Tag>
+<XML_Serializer_Tag>Schauspieler</XML_Serializer_Tag>
+<XML_Serializer_Tag>Wrestler</XML_Serializer_Tag>
+</professionOrOccupation>
+<dbpResource>http://dbpedia.org/resource/Jesse_Ventura</dbpResource>
+<abstract>Jesse Ventura (* 15. Juli 1951 als James George Janos in Minneapolis, Minnesota) war von 1999 bis 2003 der 38. Gouverneur des US-Bundesstaates Minnesota. Zuvor war er als Soldat, Wrestler, Filmschauspieler und Radiomoderator tätig.</abstract>
+<wikilink>http://en.wikipedia.org/wiki/Jesse_Ventura?oldid=605967491</wikilink>
+<artworks />
+<buildings />
+<books />
+</Person>

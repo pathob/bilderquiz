@@ -1,0 +1,95 @@
+<Person>
+<name>Laurence Sterne</name>
+<variantName>
+<XML_Serializer_Tag>Lawrence Sterne</XML_Serializer_Tag>
+<XML_Serializer_Tag>Lorenz Sterne</XML_Serializer_Tag>
+<XML_Serializer_Tag>Lorenzo Sterne</XML_Serializer_Tag>
+<XML_Serializer_Tag>Lauwrence Sterne</XML_Serializer_Tag>
+<XML_Serializer_Tag>Laurenz Sterne</XML_Serializer_Tag>
+<XML_Serializer_Tag>... Yorick</XML_Serializer_Tag>
+<XML_Serializer_Tag>... Jorik</XML_Serializer_Tag>
+<XML_Serializer_Tag>Laurence Stern</XML_Serializer_Tag>
+<XML_Serializer_Tag>Wawrzynec Sterne</XML_Serializer_Tag>
+<XML_Serializer_Tag>Yorik</XML_Serializer_Tag>
+<XML_Serializer_Tag>Yorick</XML_Serializer_Tag>
+</variantName>
+<thumbnail>https://commons.wikimedia.org/wiki/Special:FilePath/Laurence_Sterne_by_Sir_Joshua_Reynolds.jpg?width=270</thumbnail>
+<birthEN>November 24, 1713</birthEN>
+<birthDE>24. November 1713</birthDE>
+<deathEN>March 18, 1768</deathEN>
+<deathDE>18. März 1768</deathDE>
+<birthPlace>
+<XML_Serializer_Tag>Clonmel</XML_Serializer_Tag>
+</birthPlace>
+<deathPlace>
+<XML_Serializer_Tag>London</XML_Serializer_Tag>
+</deathPlace>
+<professionOrOccupation>
+<XML_Serializer_Tag>Schriftsteller</XML_Serializer_Tag>
+<XML_Serializer_Tag>Journalist</XML_Serializer_Tag>
+<XML_Serializer_Tag>Pfarrer</XML_Serializer_Tag>
+</professionOrOccupation>
+<dbpResource>http://dbpedia.org/resource/Laurence_Sterne</dbpResource>
+<abstract>Laurence Sterne [stɜːɹn] (* 24. November 1713 in Clonmel, Irland; † 18. März 1768 in London) war ein englischer Schriftsteller in der Zeit der Aufklärung und Vicar (Pfarrer) der Anglikanischen Kirche.</abstract>
+<wikilink>http://en.wikipedia.org/wiki/Laurence_Sterne?oldid=605693014</wikilink>
+<artworks />
+<buildings />
+<books>
+<XML_Serializer_Tag>
+<book>
+<type>uri</type>
+<value>http://dbpedia.org/resource/The_Life_and_Opinions_of_Tristram_Shandy,_Gentleman</value>
+</book>
+<author>
+<type>uri</type>
+<value>http://dbpedia.org/resource/Laurence_Sterne</value>
+</author>
+<thumbnail>
+<type>uri</type>
+<value>http://en.wikipedia.org/wiki/Special:FilePath/George_Cruikshank_-_Tristram_Shandy,_Plate_VIII._The_Smoking_Batteries.jpg?width=300</value>
+</thumbnail>
+<released>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>December 1759  – January 1767</value>
+</released>
+<wikilink>
+<type>uri</type>
+<value>http://en.wikipedia.org/wiki/The_Life_and_Opinions_of_Tristram_Shandy,_Gentleman?oldid=606103012</value>
+</wikilink>
+<abstract>
+<type>literal</type>
+<xml:lang>de</xml:lang>
+<value>Leben und Ansichten von Tristram Shandy, Gentleman (englisch The Life and Opinions of Tristram Shandy, Gentleman; kurz Tristram Shandy) ist ein zwischen 1759 und 1767 erschienener Roman des englischen Schriftstellers Laurence Sterne (1713–1768).</value>
+</abstract>
+</XML_Serializer_Tag>
+<XML_Serializer_Tag>
+<book>
+<type>uri</type>
+<value>http://dbpedia.org/resource/A_Sentimental_Journey_Through_France_and_Italy</value>
+</book>
+<author>
+<type>uri</type>
+<value>http://dbpedia.org/resource/Laurence_Sterne</value>
+</author>
+<thumbnail>
+<type>uri</type>
+<value>http://commons.wikimedia.org/wiki/Special:FilePath/Angelica_Kauffmann_002.png?width=300</value>
+</thumbnail>
+<released>
+<type>typed-literal</type>
+<datatype>http://www.w3.org/2001/XMLSchema#integer</datatype>
+<value>1768</value>
+</released>
+<wikilink>
+<type>uri</type>
+<value>http://en.wikipedia.org/wiki/A_Sentimental_Journey_Through_France_and_Italy?oldid=605998004</value>
+</wikilink>
+<abstract>
+<type>literal</type>
+<xml:lang>de</xml:lang>
+<value>Yoricks empfindsame Reise durch Frankreich und Italien ist ein Roman des irisch-englischen Autors Laurence Sterne, der 1768 unter dem Titel A Sentimental Journey Through France and Italy in London erschienen ist. Der Roman blieb unvollendet, da der Autor wenige Tage nach der Veröffentlichung der ersten Kapitel starb, bevor er seinen Roman abschließen konnte. Sterne selbst hat mehrmals wegen seiner labilen Gesundheit Reisen nach Frankreich und Italien unternommen, die er durch den großen Erfolg des Tristram Shandy finanzieren konnte.</value>
+</abstract>
+</XML_Serializer_Tag>
+</books>
+</Person>

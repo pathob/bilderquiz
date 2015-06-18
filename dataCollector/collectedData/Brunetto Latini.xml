@@ -1,0 +1,35 @@
+<Person>
+<name>Brunetto Latini</name>
+<variantName>
+<XML_Serializer_Tag>Brunetus, Latinus</XML_Serializer_Tag>
+<XML_Serializer_Tag>Brunetus Latinus</XML_Serializer_Tag>
+<XML_Serializer_Tag>Brunectus, Bonacursi Latini</XML_Serializer_Tag>
+<XML_Serializer_Tag>Brunetto, Latini</XML_Serializer_Tag>
+<XML_Serializer_Tag>Brunettus, Latinus</XML_Serializer_Tag>
+<XML_Serializer_Tag>Brunettus Latinus</XML_Serializer_Tag>
+<XML_Serializer_Tag>Brunet Latin</XML_Serializer_Tag>
+<XML_Serializer_Tag>Brunet, Latin</XML_Serializer_Tag>
+<XML_Serializer_Tag>Brunetto, Latino</XML_Serializer_Tag>
+<XML_Serializer_Tag>Brunetto di Buonaccorso Latini</XML_Serializer_Tag>
+<XML_Serializer_Tag>Brunetto Latino</XML_Serializer_Tag>
+<XML_Serializer_Tag>Burnetto Latino</XML_Serializer_Tag>
+<XML_Serializer_Tag>Burnetto Latini</XML_Serializer_Tag>
+</variantName>
+<thumbnail>https://commons.wikimedia.org/wiki/Special:FilePath/Dante_sodom.jpg?width=270</thumbnail>
+<birthEN>1220</birthEN>
+<birthDE>1220</birthDE>
+<deathEN>1295</deathEN>
+<deathDE>1295</deathDE>
+<birthPlace />
+<deathPlace />
+<professionOrOccupation>
+<XML_Serializer_Tag>Gelehrter</XML_Serializer_Tag>
+<XML_Serializer_Tag>Schriftsteller</XML_Serializer_Tag>
+</professionOrOccupation>
+<dbpResource>http://dbpedia.org/resource/Brunetto_Latini</dbpResource>
+<abstract>Brunetto Latini (* um 1220 in Florenz; † 1294) war ein italienischer Staatsmann, Gelehrter und Schriftsteller, bekannt auch als Lehrer und väterlicher Freund Dantes.</abstract>
+<wikilink>http://en.wikipedia.org/wiki/Brunetto_Latini?oldid=598697744</wikilink>
+<artworks />
+<buildings />
+<books />
+</Person>

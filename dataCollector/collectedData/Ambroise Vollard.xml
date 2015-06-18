@@ -1,0 +1,24 @@
+<Person>
+<name>Ambroise Vollard</name>
+<variantName>
+<XML_Serializer_Tag>A. Vollard</XML_Serializer_Tag>
+</variantName>
+<thumbnail>https://commons.wikimedia.org/wiki/Special:FilePath/Pierre-Auguste_Renoir_-_Ambroise_Vollard.jpg?width=270</thumbnail>
+<birthEN>July 3, 1866</birthEN>
+<birthDE>3. Juli 1866</birthDE>
+<deathEN>July 22, 1939</deathEN>
+<deathDE>22. Juli 1939</deathDE>
+<birthPlace />
+<deathPlace />
+<professionOrOccupation>
+<XML_Serializer_Tag>Kunsthändler</XML_Serializer_Tag>
+<XML_Serializer_Tag>Verleger</XML_Serializer_Tag>
+<XML_Serializer_Tag>Schriftsteller</XML_Serializer_Tag>
+</professionOrOccupation>
+<dbpResource>http://dbpedia.org/resource/Ambroise_Vollard</dbpResource>
+<abstract>Ambroise Vollard (* 3. Juli 1865 in Saint-Denis auf der Insel Réunion; † 22. Juli 1939 in Versailles) war ein französischer Kunsthändler, Galerist und Verleger. Er zählt zu den wichtigsten Persönlichkeiten der Kunst des zwanzigsten Jahrhunderts.</abstract>
+<wikilink>http://en.wikipedia.org/wiki/Ambroise_Vollard?oldid=604586627</wikilink>
+<artworks />
+<buildings />
+<books />
+</Person>

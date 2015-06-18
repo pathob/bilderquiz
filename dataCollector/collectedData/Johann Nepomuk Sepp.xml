@@ -1,0 +1,36 @@
+<Person>
+<name>Johann Nepomuk Sepp</name>
+<variantName>
+<XML_Serializer_Tag>Johannes Sepp</XML_Serializer_Tag>
+<XML_Serializer_Tag>Johann N. Sepp</XML_Serializer_Tag>
+<XML_Serializer_Tag>Johann Sepp</XML_Serializer_Tag>
+<XML_Serializer_Tag>Joh. Sepp</XML_Serializer_Tag>
+<XML_Serializer_Tag>... Sepp</XML_Serializer_Tag>
+<XML_Serializer_Tag>Joh. Nepomuk Sepp</XML_Serializer_Tag>
+<XML_Serializer_Tag>Joh. N. Sepp</XML_Serializer_Tag>
+<XML_Serializer_Tag>J. N. Sepp</XML_Serializer_Tag>
+<XML_Serializer_Tag>Joh. Nep. Sepp</XML_Serializer_Tag>
+<XML_Serializer_Tag>Sepp von Laßberg</XML_Serializer_Tag>
+<XML_Serializer_Tag>Amort, der Jüngere</XML_Serializer_Tag>
+</variantName>
+<thumbnail>https://commons.wikimedia.org/wiki/Special:FilePath/Johann_Nepomuk_Sepp.jpg?width=270</thumbnail>
+<birthEN>August 7, 1816</birthEN>
+<birthDE>7. August 1816</birthDE>
+<deathEN>June 5, 1909</deathEN>
+<deathDE>5. Juni 1909</deathDE>
+<birthPlace />
+<deathPlace />
+<professionOrOccupation>
+<XML_Serializer_Tag>Historiker</XML_Serializer_Tag>
+<XML_Serializer_Tag>Kirchenhistoriker</XML_Serializer_Tag>
+<XML_Serializer_Tag>Kunsthistoriker</XML_Serializer_Tag>
+<XML_Serializer_Tag>Katholischer Theologe</XML_Serializer_Tag>
+<XML_Serializer_Tag>Schriftsteller</XML_Serializer_Tag>
+</professionOrOccupation>
+<dbpResource>http://dbpedia.org/resource/Johann_Nepomuk_Sepp</dbpResource>
+<abstract>Johann Nepomuk Sepp (* 7. August 1816 in Tölz in Oberbayern; † 5. Juni 1909 in München) war ein deutscher Historiker, Volkskundler, Kirchenhistoriker und Politiker.</abstract>
+<wikilink>http://en.wikipedia.org/wiki/Johann_Nepomuk_Sepp?oldid=551170033</wikilink>
+<artworks />
+<buildings />
+<books />
+</Person>

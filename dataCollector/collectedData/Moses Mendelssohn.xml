@@ -1,0 +1,83 @@
+<Person>
+<name>Moses Mendelssohn</name>
+<variantName>
+<XML_Serializer_Tag>Moses Ben-Menachem</XML_Serializer_Tag>
+<XML_Serializer_Tag>Moše Ben-Menaḥem</XML_Serializer_Tag>
+<XML_Serializer_Tag>Moses Ben-Menahem</XML_Serializer_Tag>
+<XML_Serializer_Tag>Moses Dessau</XML_Serializer_Tag>
+<XML_Serializer_Tag>Mosheh Desa</XML_Serializer_Tag>
+<XML_Serializer_Tag>Moise Fils de Mendel</XML_Serializer_Tag>
+<XML_Serializer_Tag>Mōše Ben-Menaḥēm</XML_Serializer_Tag>
+<XML_Serializer_Tag>Moise Fils de Mendel</XML_Serializer_Tag>
+<XML_Serializer_Tag>Mosis Mendelii Filii</XML_Serializer_Tag>
+<XML_Serializer_Tag>Moses Mendelsohn</XML_Serializer_Tag>
+<XML_Serializer_Tag>Moisei Mendel&apos;son</XML_Serializer_Tag>
+<XML_Serializer_Tag>Moses Mendelson</XML_Serializer_Tag>
+<XML_Serializer_Tag>Mosheh Mendelson</XML_Serializer_Tag>
+<XML_Serializer_Tag>... Mendelssohn</XML_Serializer_Tag>
+<XML_Serializer_Tag>M. Mendelssohn</XML_Serializer_Tag>
+<XML_Serializer_Tag>Mosis Mendelssohn</XML_Serializer_Tag>
+<XML_Serializer_Tag>Moisés Mendelssohn</XML_Serializer_Tag>
+<XML_Serializer_Tag>Mojžíš Mendelssohn</XML_Serializer_Tag>
+<XML_Serializer_Tag>Moše Ben-Menaḥēm Mendelssohn</XML_Serializer_Tag>
+<XML_Serializer_Tag>Moses von Mendelssohn</XML_Serializer_Tag>
+<XML_Serializer_Tag>Mosheh ben Menahem Mendelszohn</XML_Serializer_Tag>
+<XML_Serializer_Tag>Moses Mendelszoon</XML_Serializer_Tag>
+<XML_Serializer_Tag>Mozes Mendelszoon</XML_Serializer_Tag>
+<XML_Serializer_Tag>Mozes Mendelzohn</XML_Serializer_Tag>
+<XML_Serializer_Tag>Moše</XML_Serializer_Tag>
+<XML_Serializer_Tag>Moše Ben-Menaḥēm</XML_Serializer_Tag>
+<XML_Serializer_Tag>Moše mi-Desoi&apos;</XML_Serializer_Tag>
+<XML_Serializer_Tag>Mosheh mi-Desa</XML_Serializer_Tag>
+<XML_Serializer_Tag>Moses</XML_Serializer_Tag>
+<XML_Serializer_Tag>Moses, aus Dessau</XML_Serializer_Tag>
+<XML_Serializer_Tag>Moses ben Menahem</XML_Serializer_Tag>
+<XML_Serializer_Tag>Mosheh ben Menahem</XML_Serializer_Tag>
+<XML_Serializer_Tag>Moses Moyse</XML_Serializer_Tag>
+<XML_Serializer_Tag>Rambaman</XML_Serializer_Tag>
+<XML_Serializer_Tag>Remad</XML_Serializer_Tag>
+<XML_Serializer_Tag>Mošē MʿNDʿLSZʾHN</XML_Serializer_Tag>
+<XML_Serializer_Tag>רמבמ&quot;ן מדעסוי</XML_Serializer_Tag>
+</variantName>
+<thumbnail>https://commons.wikimedia.org/wiki/Special:FilePath/MendelssohnM.jpg?width=270</thumbnail>
+<birthEN>September 6, 1729</birthEN>
+<birthDE>6. September 1729</birthDE>
+<deathEN>January 4, 1786</deathEN>
+<deathDE>4. Januar 1786</deathDE>
+<birthPlace>
+<XML_Serializer_Tag>Dessau</XML_Serializer_Tag>
+</birthPlace>
+<deathPlace>
+<XML_Serializer_Tag>Berlin</XML_Serializer_Tag>
+</deathPlace>
+<professionOrOccupation>
+<XML_Serializer_Tag>Philosoph</XML_Serializer_Tag>
+<XML_Serializer_Tag>Literaturwissenschaftler</XML_Serializer_Tag>
+</professionOrOccupation>
+<dbpResource>http://dbpedia.org/resource/Moses_Mendelssohn</dbpResource>
+<abstract>Moses Mendelssohn (* 6. September 1729 in Dessau; † 4. Januar 1786 in Berlin) war ein deutscher Philosoph der Aufklärung und gilt als Wegbereiter der Haskala.</abstract>
+<wikilink>http://en.wikipedia.org/wiki/Moses_Mendelssohn?oldid=605321446</wikilink>
+<artworks />
+<buildings />
+<books>
+<XML_Serializer_Tag>
+<book>
+<type>uri</type>
+<value>http://dbpedia.org/resource/Phaedon</value>
+</book>
+<author>
+<type>uri</type>
+<value>http://dbpedia.org/resource/Moses_Mendelssohn</value>
+</author>
+<published>
+<type>typed-literal</type>
+<datatype>http://www.w3.org/2001/XMLSchema#integer</datatype>
+<value>1767</value>
+</published>
+<wikilink>
+<type>uri</type>
+<value>http://en.wikipedia.org/wiki/Phaedon?oldid=605370604</value>
+</wikilink>
+</XML_Serializer_Tag>
+</books>
+</Person>

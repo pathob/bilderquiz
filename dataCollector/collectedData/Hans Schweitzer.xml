@@ -1,0 +1,24 @@
+<Person>
+<name>Hans Schweitzer</name>
+<variantName>
+<XML_Serializer_Tag>Mjölnir</XML_Serializer_Tag>
+<XML_Serializer_Tag>Hans Herbert Schweitzer</XML_Serializer_Tag>
+</variantName>
+<thumbnail>https://commons.wikimedia.org/wiki/Special:FilePath/Bundesarchiv_Bild_183-1992-0421-500,_Berlin,_Olympische_Kunstausstellung,_Eröffnung.jpg?width=270</thumbnail>
+<birthEN>1901</birthEN>
+<birthDE>1901</birthDE>
+<deathEN>1980</deathEN>
+<deathDE>1980</deathDE>
+<birthPlace />
+<deathPlace />
+<professionOrOccupation>
+<XML_Serializer_Tag>Künstler</XML_Serializer_Tag>
+<XML_Serializer_Tag>Nationalsozialist</XML_Serializer_Tag>
+</professionOrOccupation>
+<dbpResource>http://dbpedia.org/resource/Hans_Schweitzer</dbpResource>
+<abstract>Hans Herbert Schweitzer, Pseudonym: Mjölnir bzw. Mjoelnir (* 25. Juli 1901 in Berlin; † 15. September 1980 in Landstuhl) war ein deutscher Grafiker. Er war einer der bekanntesten Werbezeichner und Karikaturisten im Dienst der NS-Propaganda.</abstract>
+<wikilink>http://en.wikipedia.org/wiki/Hans_Schweitzer?oldid=543790696</wikilink>
+<artworks />
+<buildings />
+<books />
+</Person>

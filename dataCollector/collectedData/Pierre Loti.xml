@@ -1,0 +1,29 @@
+<Person>
+<name>Pierre Loti</name>
+<variantName>
+<XML_Serializer_Tag>Julien Viaud</XML_Serializer_Tag>
+<XML_Serializer_Tag>Piyer Loti</XML_Serializer_Tag>
+<XML_Serializer_Tag>Piēru Rochi</XML_Serializer_Tag>
+<XML_Serializer_Tag>ロチ、ピエール</XML_Serializer_Tag>
+</variantName>
+<thumbnail>https://commons.wikimedia.org/wiki/Special:FilePath/Pierre_Loti.jpg?width=270</thumbnail>
+<birthEN>January 14, 1850</birthEN>
+<birthDE>14. Januar 1850</birthDE>
+<deathEN>June 10, 1923</deathEN>
+<deathDE>10. Juni 1923</deathDE>
+<birthPlace>
+<XML_Serializer_Tag>Rochefort (Charente-Maritime)</XML_Serializer_Tag>
+</birthPlace>
+<deathPlace>
+<XML_Serializer_Tag>Hendaye</XML_Serializer_Tag>
+</deathPlace>
+<professionOrOccupation>
+<XML_Serializer_Tag>Schriftsteller</XML_Serializer_Tag>
+</professionOrOccupation>
+<dbpResource>http://dbpedia.org/resource/Pierre_Loti</dbpResource>
+<abstract>Pierre Loti (* 14. Januar 1850 in Rochefort, Département Charente-Maritime; † 10. Juni 1923 in Hendaye, Département Pyrénées Atlantiques, eigentlich Louis Marie Julien Viaud) war ein französischer Marineoffizier und Schriftsteller. Zu seinen unzähligen Romanen gehören etliche Bestseller des ausgehenden 19. Jahrhunderts und beginnenden 20. Jahrhunderts.</abstract>
+<wikilink>http://en.wikipedia.org/wiki/Pierre_Loti?oldid=604605578</wikilink>
+<artworks />
+<buildings />
+<books />
+</Person>

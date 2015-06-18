@@ -1,0 +1,33 @@
+<Person>
+<name>Elizabeth Inchbald</name>
+<variantName>
+<XML_Serializer_Tag>Elizabeth Simpson Inchbald</XML_Serializer_Tag>
+<XML_Serializer_Tag>Elizabeth S. Inchbald</XML_Serializer_Tag>
+<XML_Serializer_Tag>Elisabeth Inchbald</XML_Serializer_Tag>
+<XML_Serializer_Tag>... Inchbald</XML_Serializer_Tag>
+<XML_Serializer_Tag>Elizabeth Simpson</XML_Serializer_Tag>
+<XML_Serializer_Tag>Eisabeth Inchbald</XML_Serializer_Tag>
+<XML_Serializer_Tag>Elizabeth Simpson</XML_Serializer_Tag>
+<XML_Serializer_Tag>Elizabeth Simpson Inchbald</XML_Serializer_Tag>
+</variantName>
+<thumbnail>https://commons.wikimedia.org/wiki/Special:FilePath/Elizabeth_Inchbald.jpg?width=270</thumbnail>
+<birthEN>1753</birthEN>
+<birthDE>1753</birthDE>
+<deathEN>1821</deathEN>
+<deathDE>1821</deathDE>
+<birthPlace>
+<XML_Serializer_Tag>Suffolk</XML_Serializer_Tag>
+</birthPlace>
+<deathPlace />
+<professionOrOccupation>
+<XML_Serializer_Tag>Schauspielerin</XML_Serializer_Tag>
+<XML_Serializer_Tag>Schriftstellerin</XML_Serializer_Tag>
+<XML_Serializer_Tag>Dramatikerin</XML_Serializer_Tag>
+</professionOrOccupation>
+<dbpResource>http://dbpedia.org/resource/Elizabeth_Inchbald</dbpResource>
+<abstract>Elizabeth Simpson (* 15. Oktober 1753 in Standingfield, Suffolk; † 1. August 1821 Kensington House, London) war eine englische Schauspielerin, Schriftstellerin und Dramatikerin.</abstract>
+<wikilink>http://en.wikipedia.org/wiki/Elizabeth_Inchbald?oldid=599736245</wikilink>
+<artworks />
+<buildings />
+<books />
+</Person>

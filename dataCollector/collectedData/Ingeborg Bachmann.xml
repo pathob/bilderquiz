@@ -1,0 +1,65 @@
+<Person>
+<name>Ingeborg Bachmann</name>
+<variantName>
+<XML_Serializer_Tag>Inheborh Bachman</XML_Serializer_Tag>
+<XML_Serializer_Tag>Ingeborg Bachman</XML_Serializer_Tag>
+<XML_Serializer_Tag>Ingeborg Bachmannová</XML_Serializer_Tag>
+<XML_Serializer_Tag>Innkempornk Mpachman</XML_Serializer_Tag>
+<XML_Serializer_Tag>Îngebôrg Baḵman</XML_Serializer_Tag>
+<XML_Serializer_Tag>Inġigūrġ Bāẖmān</XML_Serializer_Tag>
+<XML_Serializer_Tag>Inggeborŭk&apos;ŭ Pahaman</XML_Serializer_Tag>
+<XML_Serializer_Tag>Īngbūrg Bāẖman</XML_Serializer_Tag>
+<XML_Serializer_Tag>I. Bahhaman</XML_Serializer_Tag>
+<XML_Serializer_Tag>Ingeborg Bachman</XML_Serializer_Tag>
+<XML_Serializer_Tag>Ingeborg Baxmansa</XML_Serializer_Tag>
+<XML_Serializer_Tag>Ying ge bo ge Ba he man</XML_Serializer_Tag>
+<XML_Serializer_Tag>Yinggeboge-Baheman</XML_Serializer_Tag>
+<XML_Serializer_Tag>Yinggeboge Baheman</XML_Serializer_Tag>
+<XML_Serializer_Tag>잉게보르크 바흐만</XML_Serializer_Tag>
+<XML_Serializer_Tag>אינגבורג בכמן</XML_Serializer_Tag>
+</variantName>
+<thumbnail>https://commons.wikimedia.org/wiki/Special:FilePath/Klagenfurt_-_Musilhaus_-_Ingeborg_Bachmann.jpg?width=270</thumbnail>
+<birthEN>June 25, 1926</birthEN>
+<birthDE>25. Juni 1926</birthDE>
+<deathEN>October 17, 1973</deathEN>
+<deathDE>17. Oktober 1973</deathDE>
+<birthPlace>
+<XML_Serializer_Tag>Klagenfurt</XML_Serializer_Tag>
+</birthPlace>
+<deathPlace>
+<XML_Serializer_Tag>Rom</XML_Serializer_Tag>
+</deathPlace>
+<professionOrOccupation>
+<XML_Serializer_Tag>Schriftstellerin</XML_Serializer_Tag>
+</professionOrOccupation>
+<dbpResource>http://dbpedia.org/resource/Ingeborg_Bachmann</dbpResource>
+<abstract>Ingeborg Bachmann (* 25. Juni 1926 in Klagenfurt; † 17. Oktober 1973 in Rom; gelegentliches Pseudonym Ruth Keller) war eine österreichische Schriftstellerin. Sie gilt als eine der bedeutendsten deutschsprachigen Lyrikerinnen und Prosaschriftstellerinnen des 20. Jahrhunderts.</abstract>
+<wikilink>http://en.wikipedia.org/wiki/Ingeborg_Bachmann?oldid=605281967</wikilink>
+<artworks />
+<buildings />
+<books>
+<XML_Serializer_Tag>
+<book>
+<type>uri</type>
+<value>http://dbpedia.org/resource/Malina_(novel)</value>
+</book>
+<author>
+<type>uri</type>
+<value>http://dbpedia.org/resource/Ingeborg_Bachmann</value>
+</author>
+<thumbnail>
+<type>uri</type>
+<value>http://commons.wikimedia.org/wiki/Special:FilePath/Ingeborg_Bachmann,_Malina_1971_new.jpg?width=300</value>
+</thumbnail>
+<wikilink>
+<type>uri</type>
+<value>http://en.wikipedia.org/wiki/Malina_(novel)?oldid=546339862</value>
+</wikilink>
+<abstract>
+<type>literal</type>
+<xml:lang>de</xml:lang>
+<value>Malina ist ein 1971 herausgegebener Roman der österreichischen Schriftstellerin Ingeborg Bachmann.</value>
+</abstract>
+</XML_Serializer_Tag>
+</books>
+</Person>

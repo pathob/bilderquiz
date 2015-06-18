@@ -1,0 +1,27 @@
+<Person>
+<name>Isabelle Eberhardt</name>
+<variantName>
+<XML_Serializer_Tag>Isabelle Ehnni</XML_Serializer_Tag>
+<XML_Serializer_Tag>Mahmoud Saadi</XML_Serializer_Tag>
+</variantName>
+<thumbnail>https://commons.wikimedia.org/wiki/Special:FilePath/IsEberhardt.jpg?width=270</thumbnail>
+<birthEN>February 17, 1877</birthEN>
+<birthDE>17. Februar 1877</birthDE>
+<deathEN>October 21, 1904</deathEN>
+<deathDE>21. Oktober 1904</deathDE>
+<birthPlace>
+<XML_Serializer_Tag>Genf</XML_Serializer_Tag>
+</birthPlace>
+<deathPlace>
+<XML_Serializer_Tag>Ain Sefra</XML_Serializer_Tag>
+</deathPlace>
+<professionOrOccupation>
+<XML_Serializer_Tag>Schriftstellerin</XML_Serializer_Tag>
+</professionOrOccupation>
+<dbpResource>http://dbpedia.org/resource/Isabelle_Eberhardt</dbpResource>
+<abstract>Isabelle Eberhardt (* 17. Februar 1877 in Genf; † 21. Oktober 1904 in Aïn Sefra, Algerien) war eine schweizerische Weltenbummlerin und Reiseschriftstellerin. Durch Heirat erhielt sie später die französische Staatsbürgerschaft. Ihre Werke und besonders ihre Person wurden im Zuge der Frauenbewegung Anfang der 1970er Jahre wiederentdeckt. Sie faszinierte besonders durch ihren außergewöhnlichen Lebensstil: die junge Frau trug Männerkleidung, reiste allein durch die Sahara sowie durch das Atlasgebirge und verkehrte in Bars und Bordellen des Maghreb.</abstract>
+<wikilink>http://en.wikipedia.org/wiki/Isabelle_Eberhardt?oldid=606592089</wikilink>
+<artworks />
+<buildings />
+<books />
+</Person>

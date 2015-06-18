@@ -11,8 +11,10 @@
 <professionOrOccupation>
 <XML_Serializer_Tag>Maler</XML_Serializer_Tag>
 </professionOrOccupation>
-<artworks />
 <dbpResource>http://dbpedia.org/resource/Prospero_Fontana</dbpResource>
 <abstract>Prospero Fontana (* 1512 in Bologna; † 1597 in Rom) war ein italienischer Renaissance-Maler.</abstract>
 <wikilink>http://en.wikipedia.org/wiki/Prospero_Fontana?oldid=602499379</wikilink>
+<artworks />
+<buildings />
+<books />
 </Person>

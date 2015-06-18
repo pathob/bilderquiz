@@ -1,0 +1,28 @@
+<Person>
+<name>Enrico Zuccalli</name>
+<variantName>
+<XML_Serializer_Tag>Henrico Zuccalli</XML_Serializer_Tag>
+<XML_Serializer_Tag>Johann Heinrich Zuccalli</XML_Serializer_Tag>
+<XML_Serializer_Tag>Enrico Zugalli</XML_Serializer_Tag>
+</variantName>
+<thumbnail>https://commons.wikimedia.org/wiki/Special:FilePath/Palais_Porcia.jpg?width=270</thumbnail>
+<birthEN>1642</birthEN>
+<birthDE>1642</birthDE>
+<deathEN>March 8, 1724</deathEN>
+<deathDE>8. März 1724</deathDE>
+<birthPlace>
+<XML_Serializer_Tag>Roveredo (Graubünden)</XML_Serializer_Tag>
+</birthPlace>
+<deathPlace>
+<XML_Serializer_Tag>München</XML_Serializer_Tag>
+</deathPlace>
+<professionOrOccupation>
+<XML_Serializer_Tag>Baumeister</XML_Serializer_Tag>
+</professionOrOccupation>
+<dbpResource>http://dbpedia.org/resource/Enrico_Zuccalli</dbpResource>
+<abstract>Enrico Zuccalli, eigentlich Johann Heinrich Zuccalli (* um 1642 in Roveredo (Kanton Graubünden); † 8. März 1724 in München) war ein Schweizer Architekt und Baumeister.</abstract>
+<wikilink>http://en.wikipedia.org/wiki/Enrico_Zuccalli?oldid=541487281</wikilink>
+<artworks />
+<buildings />
+<books />
+</Person>

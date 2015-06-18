@@ -1,0 +1,85 @@
+<Person>
+<name>Michael Hardt</name>
+<variantName />
+<thumbnail>https://commons.wikimedia.org/wiki/Special:FilePath/MichaelHardt.jpg?width=270</thumbnail>
+<birthEN>1960</birthEN>
+<birthDE>1960</birthDE>
+<deathEN />
+<deathDE />
+<birthPlace />
+<deathPlace />
+<professionOrOccupation>
+<XML_Serializer_Tag>Philosoph</XML_Serializer_Tag>
+<XML_Serializer_Tag>Philologe</XML_Serializer_Tag>
+<XML_Serializer_Tag>Literaturwissenschaftler</XML_Serializer_Tag>
+</professionOrOccupation>
+<dbpResource>http://dbpedia.org/resource/Michael_Hardt</dbpResource>
+<abstract>Michael Hardt (* Januar 1960 in Washington, D.C.) ist ein US-amerikanischer Literaturtheoretiker der Duke University.Sein wohl bekanntestes Werk ist Empire, das er gemeinsam mit Antonio Negri geschrieben hat. Im Nachfolgeband Multitude, der im Original im August 2004 veröffentlicht wurde, legen Hardt und Negri die Idee der Multitude im Detail dar, die in Empire nur vage und in ihrer Richtung erörtert wurde; sie sehen sie als einen möglichen Katalysator für das Entstehen einer globalen Demokratie.Hardt ist Unterstützer der Kampagne für ein Parlament bei den Vereinten Nationen Hardt ist davon überzeugt, dass die Vorstellungen des Bildungsbürgertumes von einem fairem Zugang zu Bildung und Universitäten momentan Stück für Stück zurückgenommen werden - gerade der &quot;War on Terror&quot; hat in den Vereinigten Staaten von Amerika ein Klima geschaffen, in dem nur ein begrenztes technisches und militärisches Grundverständnis gefördert wird. Das für die sogenannte biopolitische Ökonomie notwendige Wissen, &quot;das Schaffen von Ideen, Bildern, Code, Neigungen und anderen immateriellen Gütern&quot;, wird in seiner Notwendigkeit noch nicht als existentielle Voraussetzung für die ökonomische Innovation erkannt.Im Jahr 2005 war Hardt Fellow des Kollegs Friedrich Nietzsche zum Thema »Democracy in the Age of Empire«.</abstract>
+<wikilink>http://en.wikipedia.org/wiki/Michael_Hardt?oldid=598824391</wikilink>
+<artworks />
+<buildings />
+<books>
+<XML_Serializer_Tag>
+<book>
+<type>uri</type>
+<value>http://dbpedia.org/resource/Multitude:_War_and_Democracy_in_the_Age_of_Empire</value>
+</book>
+<author>
+<type>uri</type>
+<value>http://dbpedia.org/resource/Michael_Hardt</value>
+</author>
+<released>
+<type>typed-literal</type>
+<datatype>http://www.w3.org/2001/XMLSchema#integer</datatype>
+<value>2004</value>
+</released>
+<wikilink>
+<type>uri</type>
+<value>http://en.wikipedia.org/wiki/Multitude:_War_and_Democracy_in_the_Age_of_Empire?oldid=606022352</value>
+</wikilink>
+</XML_Serializer_Tag>
+<XML_Serializer_Tag>
+<book>
+<type>uri</type>
+<value>http://dbpedia.org/resource/Commonwealth_(book)</value>
+</book>
+<author>
+<type>uri</type>
+<value>http://dbpedia.org/resource/Michael_Hardt</value>
+</author>
+<released>
+<type>typed-literal</type>
+<datatype>http://www.w3.org/2001/XMLSchema#integer</datatype>
+<value>2011</value>
+</released>
+<wikilink>
+<type>uri</type>
+<value>http://en.wikipedia.org/wiki/Commonwealth_(book)?oldid=598825785</value>
+</wikilink>
+</XML_Serializer_Tag>
+<XML_Serializer_Tag>
+<book>
+<type>uri</type>
+<value>http://dbpedia.org/resource/Empire_(Negri_and_Hardt_book)</value>
+</book>
+<author>
+<type>uri</type>
+<value>http://dbpedia.org/resource/Michael_Hardt</value>
+</author>
+<published>
+<type>typed-literal</type>
+<datatype>http://www.w3.org/2001/XMLSchema#integer</datatype>
+<value>2000</value>
+</published>
+<wikilink>
+<type>uri</type>
+<value>http://en.wikipedia.org/wiki/Empire_(Negri_and_Hardt_book)?oldid=601339348</value>
+</wikilink>
+<abstract>
+<type>literal</type>
+<xml:lang>de</xml:lang>
+<value>Empire – die neue Weltordnung ist ein Buch des US-amerikanischen Literaturwissenschaftlers Michael Hardt und des italienischen Philosophen Antonio Negri. Es wurde von Slavoj Žižek als Versuch eines „kommunistische[n] Manifest[s] des 21. Jahrhunderts“ bezeichnet und gilt als zentrales Werk des Postoperaismus. Die englischsprachige Originalausgabe (Empire. Globalization as a new Roman order, awaiting its early Christians) erschien 2000, die deutsche Übersetzung 2002.Inzwischen sind ein zweiter Band (Multitude – Krieg und Demokratie im Empire) und ein dritter Band (Common Wealth: Das Ende des Eigentums) erschienen.</value>
+</abstract>
+</XML_Serializer_Tag>
+</books>
+</Person>

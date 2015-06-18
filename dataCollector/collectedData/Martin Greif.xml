@@ -1,0 +1,31 @@
+<Person>
+<name>Martin Greif</name>
+<variantName>
+<XML_Serializer_Tag>Friedrich Herrmann Frey</XML_Serializer_Tag>
+<XML_Serializer_Tag>Friedrich Hermann Frey</XML_Serializer_Tag>
+<XML_Serializer_Tag>Friedrich H. Frey</XML_Serializer_Tag>
+<XML_Serializer_Tag>Hermann Frey</XML_Serializer_Tag>
+<XML_Serializer_Tag>Martin Graif</XML_Serializer_Tag>
+</variantName>
+<thumbnail>https://commons.wikimedia.org/wiki/Special:FilePath/Martin_Greif_1898.jpg?width=270</thumbnail>
+<birthEN>June 18, 1839</birthEN>
+<birthDE>18. Juni 1839</birthDE>
+<deathEN>April 1, 1911</deathEN>
+<deathDE>1. April 1911</deathDE>
+<birthPlace>
+<XML_Serializer_Tag>Speyer</XML_Serializer_Tag>
+</birthPlace>
+<deathPlace>
+<XML_Serializer_Tag>Kufstein</XML_Serializer_Tag>
+</deathPlace>
+<professionOrOccupation>
+<XML_Serializer_Tag>Schriftsteller</XML_Serializer_Tag>
+<XML_Serializer_Tag>Offizier</XML_Serializer_Tag>
+</professionOrOccupation>
+<dbpResource>http://dbpedia.org/resource/Martin_Greif</dbpResource>
+<abstract>Martin Greif (* 4. Februar 1938 in New York City; † 17. November 1996 in Irland) war ein US-amerikanischer Autor, Anglist und Hochschullehrer.</abstract>
+<wikilink>http://en.wikipedia.org/wiki/Martin_Greif?oldid=553059322</wikilink>
+<artworks />
+<buildings />
+<books />
+</Person>

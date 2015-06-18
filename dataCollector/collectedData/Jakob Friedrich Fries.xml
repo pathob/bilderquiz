@@ -1,0 +1,31 @@
+<Person>
+<name>Jakob Friedrich Fries</name>
+<variantName>
+<XML_Serializer_Tag>Jakob Fries</XML_Serializer_Tag>
+<XML_Serializer_Tag>Jacob Friedrich Fries</XML_Serializer_Tag>
+<XML_Serializer_Tag>Iacobus F. Fries</XML_Serializer_Tag>
+<XML_Serializer_Tag>J. F. Fries</XML_Serializer_Tag>
+<XML_Serializer_Tag>Jacobus Fridericus Fries</XML_Serializer_Tag>
+<XML_Serializer_Tag>Jakob F. Fries</XML_Serializer_Tag>
+<XML_Serializer_Tag>Iacobus Fridericus Fries</XML_Serializer_Tag>
+<XML_Serializer_Tag>Jacob Fries</XML_Serializer_Tag>
+<XML_Serializer_Tag>J. Fries</XML_Serializer_Tag>
+</variantName>
+<thumbnail>https://commons.wikimedia.org/wiki/Special:FilePath/Jakob_Friedrich_Fries_2.jpg?width=270</thumbnail>
+<birthEN>August 23, 1773</birthEN>
+<birthDE>23. August 1773</birthDE>
+<deathEN>August 10, 1843</deathEN>
+<deathDE>10. August 1843</deathDE>
+<birthPlace />
+<deathPlace />
+<professionOrOccupation>
+<XML_Serializer_Tag>Philosoph</XML_Serializer_Tag>
+<XML_Serializer_Tag>Mathematiker</XML_Serializer_Tag>
+</professionOrOccupation>
+<dbpResource>http://dbpedia.org/resource/Jakob_Friedrich_Fries</dbpResource>
+<abstract>Jakob Friedrich Fries (* 23. August 1773 in Barby; † 10. August 1843 in Jena) war ein deutscher Philosoph.</abstract>
+<wikilink>http://en.wikipedia.org/wiki/Jakob_Friedrich_Fries?oldid=605399638</wikilink>
+<artworks />
+<buildings />
+<books />
+</Person>

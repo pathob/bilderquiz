@@ -1,0 +1,139 @@
+<Person>
+<name>Frances Hodgson Burnett</name>
+<variantName>
+<XML_Serializer_Tag>Frances Eliza Burnett</XML_Serializer_Tag>
+<XML_Serializer_Tag>Frances Hodgsen Burnett</XML_Serializer_Tag>
+<XML_Serializer_Tag>Frances Hodgsons Burnett</XML_Serializer_Tag>
+<XML_Serializer_Tag>Frances H. Burnett</XML_Serializer_Tag>
+<XML_Serializer_Tag>Frances Burnett</XML_Serializer_Tag>
+<XML_Serializer_Tag>Francis Hodgson Burnett</XML_Serializer_Tag>
+<XML_Serializer_Tag>Francis Hogson Burnett</XML_Serializer_Tag>
+<XML_Serializer_Tag>F. H. Burnett</XML_Serializer_Tag>
+<XML_Serializer_Tag>Francis Hodgson Burnet</XML_Serializer_Tag>
+<XML_Serializer_Tag>Bānetto, Furanshisu Hojison</XML_Serializer_Tag>
+<XML_Serializer_Tag>Frances Eliza Hodgson</XML_Serializer_Tag>
+<XML_Serializer_Tag>Frances Hodgson</XML_Serializer_Tag>
+<XML_Serializer_Tag>Frances Hodgson Burnett</XML_Serializer_Tag>
+<XML_Serializer_Tag>Frances Eliza Hodgson Burnett Townesend</XML_Serializer_Tag>
+<XML_Serializer_Tag>Frances Eliza Townsend</XML_Serializer_Tag>
+<XML_Serializer_Tag>Frances Eliza Hodgson</XML_Serializer_Tag>
+</variantName>
+<thumbnail>https://commons.wikimedia.org/wiki/Special:FilePath/Frances_Burnett.jpg?width=270</thumbnail>
+<birthEN>November 24, 1849</birthEN>
+<birthDE>24. November 1849</birthDE>
+<deathEN>October 29, 1924</deathEN>
+<deathDE>29. Oktober 1924</deathDE>
+<birthPlace>
+<XML_Serializer_Tag>Manchester</XML_Serializer_Tag>
+</birthPlace>
+<deathPlace>
+<XML_Serializer_Tag>Plandome, New York, USA</XML_Serializer_Tag>
+</deathPlace>
+<professionOrOccupation>
+<XML_Serializer_Tag>Schriftstellerin</XML_Serializer_Tag>
+</professionOrOccupation>
+<dbpResource>http://dbpedia.org/resource/Frances_Hodgson_Burnett</dbpResource>
+<abstract>Frances Hodgson Burnett (* 24. November 1849 in Manchester, England; † 29. Oktober 1924 in Plandome, New York; gebürtig Frances Eliza Hodgson) war eine britische Schriftstellerin.</abstract>
+<wikilink>http://en.wikipedia.org/wiki/Frances_Hodgson_Burnett?oldid=601475295</wikilink>
+<artworks />
+<buildings />
+<books>
+<XML_Serializer_Tag>
+<book>
+<type>uri</type>
+<value>http://dbpedia.org/resource/A_Little_Princess</value>
+</book>
+<author>
+<type>uri</type>
+<value>http://dbpedia.org/resource/Frances_Hodgson_Burnett</value>
+</author>
+<thumbnail>
+<type>uri</type>
+<value>http://commons.wikimedia.org/wiki/Special:FilePath/A_Little_Princess_cover.jpg?width=300</value>
+</thumbnail>
+<released>
+<type>typed-literal</type>
+<datatype>http://www.w3.org/2001/XMLSchema#integer</datatype>
+<value>1905</value>
+</released>
+<wikilink>
+<type>uri</type>
+<value>http://en.wikipedia.org/wiki/A_Little_Princess?oldid=605929216</value>
+</wikilink>
+<abstract>
+<type>literal</type>
+<xml:lang>de</xml:lang>
+<value>Sara, die kleine Prinzessin ist ein Roman für Kinder von Frances Hodgson Burnett. 1888, zwei Jahre nach dem Buch Der kleine Lord, brachte sie in der Jugendzeitschrift Saint Nicholas den Fortsetzungsroman Sara Crewe oder Was geschah bei Miss Minchin heraus. Nach dem Erfolg der Serie veröffentlichte sie 1903 ein Theaterstück als Die kleine Prinzessin. 1905 folgte dann die Umsetzung zu einem erweiterten Roman A Little Princess (Die kleine Prinzessin. Die Geschichte von Sara Crewe), worin nun auch die Mitschülerinnen Lottie und Irmingard, das Dienstmädchen Becky und die Ratte Melchisedec auftauchen . Der Anime Die kleine Prinzessin Sara zum Roman wurde von Nippon Animation produziert und 1985 in Japan zum ersten Mal gezeigt. Eine US-amerikanische Verfilmung von 1995 lief unter dem deutschen Titel Little Princess.</value>
+</abstract>
+</XML_Serializer_Tag>
+<XML_Serializer_Tag>
+<book>
+<type>uri</type>
+<value>http://dbpedia.org/resource/The_Lost_Prince_(Burnett_novel)</value>
+</book>
+<author>
+<type>uri</type>
+<value>http://dbpedia.org/resource/Frances_Hodgson_Burnett</value>
+</author>
+<thumbnail>
+<type>uri</type>
+<value>http://commons.wikimedia.org/wiki/Special:FilePath/The_Lost_Prince_Century_Co.jpg?width=300</value>
+</thumbnail>
+<released>
+<type>typed-literal</type>
+<datatype>http://www.w3.org/2001/XMLSchema#integer</datatype>
+<value>1915</value>
+</released>
+<wikilink>
+<type>uri</type>
+<value>http://en.wikipedia.org/wiki/The_Lost_Prince_(Burnett_novel)?oldid=601216849</value>
+</wikilink>
+</XML_Serializer_Tag>
+<XML_Serializer_Tag>
+<book>
+<type>uri</type>
+<value>http://dbpedia.org/resource/The_Head_of_the_House_of_Coombe</value>
+</book>
+<author>
+<type>uri</type>
+<value>http://dbpedia.org/resource/Frances_Hodgson_Burnett</value>
+</author>
+<thumbnail>
+<type>uri</type>
+<value>http://commons.wikimedia.org/wiki/Special:FilePath/The_Head_of_the_House_of_Coombe.jpg?width=300</value>
+</thumbnail>
+<released>
+<type>typed-literal</type>
+<datatype>http://www.w3.org/2001/XMLSchema#integer</datatype>
+<value>1922</value>
+</released>
+<wikilink>
+<type>uri</type>
+<value>http://en.wikipedia.org/wiki/The_Head_of_the_House_of_Coombe?oldid=601217144</value>
+</wikilink>
+</XML_Serializer_Tag>
+<XML_Serializer_Tag>
+<book>
+<type>uri</type>
+<value>http://dbpedia.org/resource/Little_Lord_Fauntleroy</value>
+</book>
+<author>
+<type>uri</type>
+<value>http://dbpedia.org/resource/Frances_Hodgson_Burnett</value>
+</author>
+<thumbnail>
+<type>uri</type>
+<value>http://en.wikipedia.org/wiki/Special:FilePath/MaryPickford4.jpg?width=300</value>
+</thumbnail>
+<wikilink>
+<type>uri</type>
+<value>http://en.wikipedia.org/wiki/Little_Lord_Fauntleroy?oldid=595659522</value>
+</wikilink>
+<abstract>
+<type>literal</type>
+<xml:lang>de</xml:lang>
+<value>Der kleine Lord (englischer Originaltitel: Little Lord Fauntleroy) ist ein Roman von Frances Hodgson Burnett. Er wurde nach seinem Ersterscheinen 1886 als Kinderbuch in vielen Sprachen sehr erfolgreich und ist mehrfach verfilmt worden. Das Buch war auch für die Autorin ein Erfolg. Zudem schrieb sie Rechtsgeschichte, als sie 1888 die Aufführungsrechte für dieses Werk einklagte.</value>
+</abstract>
+</XML_Serializer_Tag>
+</books>
+</Person>

@@ -1,0 +1,50 @@
+<Person>
+<name>William McDonough</name>
+<variantName>
+<XML_Serializer_Tag>William Mc Donough</XML_Serializer_Tag>
+<XML_Serializer_Tag>William MacDonough</XML_Serializer_Tag>
+<XML_Serializer_Tag>William Mac Donough</XML_Serializer_Tag>
+<XML_Serializer_Tag>William A. McDonough</XML_Serializer_Tag>
+<XML_Serializer_Tag>William Andrew McDonough</XML_Serializer_Tag>
+<XML_Serializer_Tag>William A. MacDonough</XML_Serializer_Tag>
+<XML_Serializer_Tag>William Andrew MacDonough</XML_Serializer_Tag>
+<XML_Serializer_Tag>William A. Mc Donough</XML_Serializer_Tag>
+<XML_Serializer_Tag>William Andrew Mac Donough</XML_Serializer_Tag>
+</variantName>
+<thumbnail>https://commons.wikimedia.org/wiki/Special:FilePath/William_McDonough.jpg?width=270</thumbnail>
+<birthEN>1951</birthEN>
+<birthDE>1951</birthDE>
+<deathEN />
+<deathDE />
+<birthPlace />
+<deathPlace />
+<professionOrOccupation>
+<XML_Serializer_Tag>Architekt</XML_Serializer_Tag>
+</professionOrOccupation>
+<dbpResource>http://dbpedia.org/resource/William_McDonough</dbpResource>
+<abstract>William A. McDonough (* 1951 in Tokio, Japan) ist ein US-amerikanischer Architekt, Designer und Autor, der bekannt für seinen Einsatz zur Nachhaltigen Entwicklung und des Cradle-to-cradle-Konzeptes ist.McDonough ist Preisträger von drei Presidential Awards, dem Presidential Award for Sustainable Development (1996), dem National Design Award (2004) sowie dem Presidential Green Chemistry Challenge Award (2003). Er ist zusammen mit Prof. Dr. Michael Braungart Autor des Buches Cradle to Cradle: Remaking the Way We Make Things, in dem er ein radikales Umdenken des Herstellungsprozesses von Produkten fordert – von Ökoeffizienz zu Ökoeffektivität. 1992 gaben beide Autoren die Hannover Principles heraus, die ökologische Grundsätze für die EXPO 2000 in Hannover.Außerdem gründete er das Architekturbüro William McDonough + Partners und ist Leiter der Entwicklungsfirma McDonough Braungart Design Chemistry.Er ist u. a. als Consulting Professor für Civil and Environmental Engineering an der Stanford University tätig und sitzt im Leadership Council der Yale University.1999 wertete ihn das Time Magazine als &quot;Hero for the Planet&quot;.2013 erschien sein zweites Buch &quot;Intelligente Verschwendung - The Upcycle: Auf dem Weg in eine neue Überflussgesellschaft&quot;, in dem er und Braungart die bisherigen Ergebnisse des Cradle-to-crade-Konzeptes evaluieren und Wege zur kontinuierlichen Verbesserung der Wirtschaft hin zu echter Nachhaltigkeit (&quot;Upcycling&quot;) aufzeigen.</abstract>
+<wikilink>http://en.wikipedia.org/wiki/William_McDonough?oldid=606755136</wikilink>
+<artworks />
+<buildings />
+<books>
+<XML_Serializer_Tag>
+<book>
+<type>uri</type>
+<value>http://dbpedia.org/resource/Cradle_to_Cradle:_Remaking_the_Way_We_Make_Things</value>
+</book>
+<author>
+<type>uri</type>
+<value>http://dbpedia.org/resource/William_McDonough</value>
+</author>
+<wikilink>
+<type>uri</type>
+<value>http://en.wikipedia.org/wiki/Cradle_to_Cradle:_Remaking_the_Way_We_Make_Things?oldid=598884412</value>
+</wikilink>
+<abstract>
+<type>literal</type>
+<xml:lang>de</xml:lang>
+<value>Das Cradle to Cradle-Konzept (engl., dt. sinngemäß Von der Wiege zur Wiege) beschreibt eine Form zyklischer Ressourcennutzung, in der Produktionsweisen am Erhalt geschöpfter Werte ausgerichtet sind. Analog dem Nährstoffzyklus der Natur, in dem &quot;Abfälle&quot; eines Organismus von einem anderen genutzt werden, sollen in der Produktion Materialströme so geplant werden, dass Abfälle sowie eine ineffiziente Nutzung von Energie vermieden werden. Das Cradle to Cradle-Konzept wurde 2002 von Michael Braungart und William McDonough entwickelt. Das Konzept basiert auf einem Begriff, der in der 1970ern durch den Schweizer Architekten Walter R. Stahel eingeführt wurde.</value>
+</abstract>
+</XML_Serializer_Tag>
+</books>
+</Person>

@@ -1,0 +1,31 @@
+<Person>
+<name>Karl Leberecht Immermann</name>
+<variantName>
+<XML_Serializer_Tag>Carl Leberecht Immermann</XML_Serializer_Tag>
+<XML_Serializer_Tag>Karl Lebrecht Immermann</XML_Serializer_Tag>
+<XML_Serializer_Tag>Karl L. Immermann</XML_Serializer_Tag>
+<XML_Serializer_Tag>Karl Immermann</XML_Serializer_Tag>
+<XML_Serializer_Tag>Carl Immermann</XML_Serializer_Tag>
+</variantName>
+<thumbnail>https://commons.wikimedia.org/wiki/Special:FilePath/Karl_Leberecht_Immermann.jpg?width=270</thumbnail>
+<birthEN>April 24, 1796</birthEN>
+<birthDE>24. April 1796</birthDE>
+<deathEN>August 25, 1840</deathEN>
+<deathDE>25. August 1840</deathDE>
+<birthPlace>
+<XML_Serializer_Tag>Magdeburg</XML_Serializer_Tag>
+</birthPlace>
+<deathPlace>
+<XML_Serializer_Tag>Düsseldorf</XML_Serializer_Tag>
+</deathPlace>
+<professionOrOccupation>
+<XML_Serializer_Tag>Schriftsteller</XML_Serializer_Tag>
+<XML_Serializer_Tag>Theaterleiter</XML_Serializer_Tag>
+</professionOrOccupation>
+<dbpResource>http://dbpedia.org/resource/Karl_Leberecht_Immermann</dbpResource>
+<abstract>Karl Leberecht Immermann (* 24. April 1796 in Magdeburg; † 25. August 1840 in Düsseldorf) war ein deutscher Schriftsteller, Lyriker und Dramatiker.</abstract>
+<wikilink>http://en.wikipedia.org/wiki/Karl_Leberecht_Immermann?oldid=597638142</wikilink>
+<artworks />
+<buildings />
+<books />
+</Person>

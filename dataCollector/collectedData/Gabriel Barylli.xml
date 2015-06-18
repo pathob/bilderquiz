@@ -1,0 +1,28 @@
+<Person>
+<name>Gabriel Barylli</name>
+<variantName>
+<XML_Serializer_Tag>Gabriel Barili</XML_Serializer_Tag>
+<XML_Serializer_Tag>G. Barylli</XML_Serializer_Tag>
+</variantName>
+<thumbnail>https://commons.wikimedia.org/wiki/Special:FilePath/Barylli_stehend.jpg?width=270</thumbnail>
+<birthEN>1957</birthEN>
+<birthDE>1957</birthDE>
+<deathEN />
+<deathDE />
+<birthPlace>
+<XML_Serializer_Tag>Wien</XML_Serializer_Tag>
+</birthPlace>
+<deathPlace />
+<professionOrOccupation>
+<XML_Serializer_Tag>Künstler</XML_Serializer_Tag>
+<XML_Serializer_Tag>Schriftsteller</XML_Serializer_Tag>
+<XML_Serializer_Tag>Regisseur</XML_Serializer_Tag>
+<XML_Serializer_Tag>Schauspieler</XML_Serializer_Tag>
+</professionOrOccupation>
+<dbpResource>http://dbpedia.org/resource/Gabriel_Barylli</dbpResource>
+<abstract>Gabriel Barylli (* 31. Mai 1957 in Wien) ist ein österreichischer Schriftsteller, Schauspieler und Regisseur. Er ist der Sohn des Geigers Walter Barylli (* 16. Juni 1921), Mitglied des Wiener Staatsopernorchesters und der Wiener Philharmoniker.</abstract>
+<wikilink>http://en.wikipedia.org/wiki/Gabriel_Barylli?oldid=585564590</wikilink>
+<artworks />
+<buildings />
+<books />
+</Person>

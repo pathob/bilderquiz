@@ -1,0 +1,151 @@
+<Person>
+<name>F. Scott Fitzgerald</name>
+<variantName>
+<XML_Serializer_Tag>Francis Scott Fitzgerald</XML_Serializer_Tag>
+<XML_Serializer_Tag>Feicijielade</XML_Serializer_Tag>
+<XML_Serializer_Tag>Francis Scott Fitzgerald</XML_Serializer_Tag>
+<XML_Serializer_Tag>F. Scott Fitzgerald</XML_Serializer_Tag>
+<XML_Serializer_Tag>Francis S. Fitzgerald</XML_Serializer_Tag>
+<XML_Serializer_Tag>Scott Fitzgerald</XML_Serializer_Tag>
+<XML_Serializer_Tag>Francis Scott-Fitzgerald</XML_Serializer_Tag>
+<XML_Serializer_Tag>Francis Scott Key Fitzgerald</XML_Serializer_Tag>
+<XML_Serializer_Tag>F. S. Fitzgerald</XML_Serializer_Tag>
+<XML_Serializer_Tag>Skots Frānsiss Ficdžeralds</XML_Serializer_Tag>
+<XML_Serializer_Tag>Scott F. Fitzgerald</XML_Serializer_Tag>
+</variantName>
+<thumbnail>https://commons.wikimedia.org/wiki/Special:FilePath/Francis_Scott_Fitzgerald_1937_June_4_(1)_(photo_by_Carl_van_Vechten).jpg?width=270</thumbnail>
+<birthEN>September 24, 1896</birthEN>
+<birthDE>24. September 1896</birthDE>
+<deathEN>December 21, 1940</deathEN>
+<deathDE>21. Dezember 1940</deathDE>
+<birthPlace>
+<XML_Serializer_Tag>Saint Paul, Minn.</XML_Serializer_Tag>
+</birthPlace>
+<deathPlace>
+<XML_Serializer_Tag>Los Angeles- Hollywood</XML_Serializer_Tag>
+</deathPlace>
+<professionOrOccupation>
+<XML_Serializer_Tag>Schriftsteller</XML_Serializer_Tag>
+</professionOrOccupation>
+<dbpResource>http://dbpedia.org/resource/F._Scott_Fitzgerald</dbpResource>
+<abstract>Francis Scott Key Fitzgerald (* 24. September 1896 in St. Paul, Minnesota; † 21. Dezember 1940 in Hollywood, Los Angeles) war ein US-amerikanischer Schriftsteller. Sein erster Roman This Side of Paradise (Diesseits vom Paradies), den er als 23-Jähriger Ende März 1920 veröffentlichte, machte ihn in kurzer Zeit berühmt. Gemeinsam mit seiner Frau Zelda Sayre führte er in den 1920er Jahren ein exzessives Leben. Das Ehepaar wurde in der US-amerikanischen Öffentlichkeit als typische Vertreter ihrer Generation wahrgenommen. Bereits in den 1930er Jahren war F. Scott Fitzgerald jedoch weitgehend in Vergessenheit geraten. Dazu trugen auch sein Alkoholismus und die psychische Erkrankung seiner Frau bei. F. Scott Fitzgerald starb 1940 im Alter von nur 44 Jahren in der Überzeugung, sein Lebensziel verfehlt zu haben, sich als bedeutender Autor seiner Zeit zu beweisen. Fitzgerald wurde als Autor ab den 1940er Jahren wiederentdeckt und wird heute zu den wesentlichen US-amerikanischen Autoren des 20. Jahrhunderts gezählt. Als seine zwei wichtigsten Romane gelten The Great Gatsby (Der große Gatsby, 1925) und Tender is the Night (Zärtlich ist die Nacht, 1934). Der große Gatsby wird dabei als eines der bedeutendsten Werke der amerikanischen Moderne eingeordnet. T. S. Eliot bezeichnete diesen Roman als den ersten Entwicklungsschritt, den der Amerikanische Roman seit Henry James gemacht habe. Fitzgerald setzt sich darin mit Themen wie Dekadenz, Ausschweifungen, Idealismus, Widerstand gegen Veränderungen und sozialen Umbrüchen auseinander. Er schuf dabei ein treffendes Porträt der sogenannten „Roaring Twenties“, den von wirtschaftlichem Wachstum, Prohibition, Kriminalität, Jazz und Flappern geprägten 1920er Jahren in den Vereinigten Staaten.</abstract>
+<wikilink>http://en.wikipedia.org/wiki/F._Scott_Fitzgerald?oldid=606719745</wikilink>
+<artworks />
+<buildings />
+<books>
+<XML_Serializer_Tag>
+<book>
+<type>uri</type>
+<value>http://dbpedia.org/resource/This_Side_of_Paradise</value>
+</book>
+<author>
+<type>uri</type>
+<value>http://dbpedia.org/resource/F._Scott_Fitzgerald</value>
+</author>
+<thumbnail>
+<type>uri</type>
+<value>http://en.wikipedia.org/wiki/Special:FilePath/This_Side_of_Paradise_dust_jacket.gif?width=300</value>
+</thumbnail>
+<released>
+<type>typed-literal</type>
+<datatype>http://www.w3.org/2001/XMLSchema#integer</datatype>
+<value>1920</value>
+</released>
+<wikilink>
+<type>uri</type>
+<value>http://en.wikipedia.org/wiki/This_Side_of_Paradise?oldid=605360170</value>
+</wikilink>
+<abstract>
+<type>literal</type>
+<xml:lang>de</xml:lang>
+<value>Diesseits vom Paradies (engl. This Side of Paradise) ist der erste Roman, den der US-amerikanische Schriftstellers F. Scott Fitzgerald veröffentlichte. Er erschien am 26. März 1920 beim Verlag Scribner’s. Fitzgerald war zu diesem Zeitpunkt 23 Jahre alt, der Erfolg des Romans machte ihn in kurzer Zeit berühmt. Der Titel des Romans stammt aus dem Gedicht Tiare Tahiti des Engländers Rupert Brooke, der mehrfach im Buch erwähnt wird. Das Buch beschreibt am Beispiel des Princeton-Studenten Amory Blaine das Leben und die Moralvorstellungen der Mittzwanziger in der Zeit um den Ersten Weltkrieg.</value>
+</abstract>
+</XML_Serializer_Tag>
+<XML_Serializer_Tag>
+<book>
+<type>uri</type>
+<value>http://dbpedia.org/resource/The_Love_of_the_Last_Tycoon</value>
+</book>
+<author>
+<type>uri</type>
+<value>http://dbpedia.org/resource/F._Scott_Fitzgerald</value>
+</author>
+<released>
+<type>typed-literal</type>
+<datatype>http://www.w3.org/2001/XMLSchema#integer</datatype>
+<value>1941</value>
+</released>
+<wikilink>
+<type>uri</type>
+<value>http://en.wikipedia.org/wiki/The_Love_of_the_Last_Tycoon?oldid=603798137</value>
+</wikilink>
+<abstract>
+<type>literal</type>
+<xml:lang>de</xml:lang>
+<value>Die Liebe des letzten Tycoon (Originaltitel: The Love of the Last Tycoon: A Western) ist ein unvollendeter Roman von F. Scott Fitzgerald, der posthum im Jahr 1941 von Edmund Wilson unter dem Titel „The last Tycoon“ herausgegeben wurde. Die deutsche Erstausgabe erschien 1962 unter dem Titel &quot;Der letzte Taikun&quot;. Der Roman verfolgt das Leben des Hollywood-Studiomanagers Monroe Stahr, der deutlich erkennbar an Irving Thalberg angelehnt ist, dem Chef der Filmgesellschaft Metro-Goldwyn-Mayer, dem Fitzgerald mehrmals begegnet war. In einer Verfilmung unter der Regie von Elia Kazan mit einem Drehbuch von Harold Pinter spielte Robert De Niro die Rolle des Stahr; der Film kam 1976 in die Kinos (vgl. Der letzte Tycoon (Film)).</value>
+</abstract>
+</XML_Serializer_Tag>
+<XML_Serializer_Tag>
+<book>
+<type>uri</type>
+<value>http://dbpedia.org/resource/Tender_Is_the_Night</value>
+</book>
+<author>
+<type>uri</type>
+<value>http://dbpedia.org/resource/F._Scott_Fitzgerald</value>
+</author>
+<released>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>serial Jan-Apr 1934, book April 1934</value>
+</released>
+<wikilink>
+<type>uri</type>
+<value>http://en.wikipedia.org/wiki/Tender_Is_the_Night?oldid=606420113</value>
+</wikilink>
+<abstract>
+<type>literal</type>
+<xml:lang>de</xml:lang>
+<value>Zärtlich ist die Nacht, englischer Originaltitel Tender is the Night ist ein Roman des amerikanischen Schriftstellers F. Scott Fitzgerald, der zum ersten Mal 1934 veröffentlicht wurde. Der autobiographisch geprägte Roman kritisiert die Mitglieder der in Europa lebenden amerikanischen Finanzaristokratie. Der Titel ist ein Zitat aus John Keats&apos; „Ode an eine Nachtigall“ (Ode to a Nightingale), das dem Roman auch als Motto vorangestellt ist.</value>
+</abstract>
+</XML_Serializer_Tag>
+<XML_Serializer_Tag>
+<book>
+<type>uri</type>
+<value>http://dbpedia.org/resource/The_Crack-Up</value>
+</book>
+<author>
+<type>uri</type>
+<value>http://dbpedia.org/resource/F._Scott_Fitzgerald</value>
+</author>
+<released>
+<type>typed-literal</type>
+<datatype>http://www.w3.org/2001/XMLSchema#integer</datatype>
+<value>1945</value>
+</released>
+<wikilink>
+<type>uri</type>
+<value>http://en.wikipedia.org/wiki/The_Crack-Up?oldid=605330726</value>
+</wikilink>
+<abstract>
+<type>literal</type>
+<xml:lang>de</xml:lang>
+<value>The Crack-Up, auf deutsch erschienen unter dem Titel Der Knacks, ist ein autobiographischer Essay des amerikanischen Schriftstellers F. Scott Fitzgerald, der zwischen Februar und April in drei Tranchen 1936 in der Zeitschrift Esquire erschien. Er stellt das wichtigste Dokument der Lebenskrise Fitzgeralds dar, die schließlich zu seinem alkoholbedingten Tod im Alter von 44 Jahren führte. Zugleich ist The Crack-Up der Titel eines erstmals 1945 erschienenen Sammelwerks, das Edmund Wilson nach Fitzgeralds Tod 1940 zusammenstellte. Es umfasst weitere späte Essays wie Echoes of the Jazz Age, Fitzgeralds alphabetisch geordnetes Notizbuch, in dem er Aperçus, kurze Chrakterstudien und andere Beobachtungen sammelte, um sie später in seinen Werken zu verwenden, ferner Würdigungen von Fitzgeralds Lebenswerk verfasst von Glenway Wescott, John Dos Passos, John Peale Bishop und anderen.</value>
+</abstract>
+</XML_Serializer_Tag>
+<XML_Serializer_Tag>
+<book>
+<type>uri</type>
+<value>http://dbpedia.org/resource/The_Diamond_as_Big_as_the_Ritz</value>
+</book>
+<author>
+<type>uri</type>
+<value>http://dbpedia.org/resource/F._Scott_Fitzgerald</value>
+</author>
+<wikilink>
+<type>uri</type>
+<value>http://en.wikipedia.org/wiki/The_Diamond_as_Big_as_the_Ritz?oldid=602390323</value>
+</wikilink>
+</XML_Serializer_Tag>
+</books>
+</Person>
