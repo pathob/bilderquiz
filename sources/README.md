@@ -10,7 +10,7 @@ Das Basisverzeichnis wird durch die `.htaccess`-Datei auf den Ordner `frontend` 
 
 ## Backend
 
-## REST API
+### REST API
 
 Alles, was an `webserver/api/` gesendet wird, wird an die REST API übergeben. Unterstützt werden die üblichen Requests (`GET`, `PUT`, `POST`, `DELETE`).
 
