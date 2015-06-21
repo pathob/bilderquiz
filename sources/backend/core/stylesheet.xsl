@@ -4,7 +4,7 @@
     xmlns:xsl="http://www.w3.org/1999/XSL/Transform"
 >
 	
-	<xsl:template match="/">
+	<xsl:template match="/Persons">
 		<xsl:apply-templates select="Person"/>
 	</xsl:template>
     <xsl:template match="Person">
@@ -22,15 +22,9 @@
 			<thumbnail>
 				<xsl:value-of select="thumbnail" />
 			</thumbnail>
-			<birthEN>
-				<xsl:value-of select="birthEN" />
-			</birthEN>
 			<birthDE>
 				<xsl:value-of select="birthDE" />
 			</birthDE>
-			<deathEN>
-				<xsl:value-of select="deathEN" />
-			</deathEN>
 			<deathDE>
 				<xsl:value-of select="deathDE" />
 			</deathDE>
@@ -50,6 +44,27 @@
 			<abstract>
 				<xsl:value-of select="abstract" />
 			</abstract>
+			<artworks>
+				<xsl:for-each select="artworks/XML_Serializer_Tag" >	
+					<artwork>
+						<painting>
+							<xsl:value-of select="artwork/value" />
+						</painting>
+						<thumbnail>
+							<xsl:value-of select="thumbnail/value" />	
+						</thumbnail>
+						<name>
+							<xsl:value-of select="name/value" />
+						</name>
+						<year>
+							<xsl:value-of select="year/value" />
+						</year>
+						<abstract>
+							<xsl:value-of select="wikilink/value" />
+						</abstract>
+					</artwork>
+				</xsl:for-each>
+			</artworks>
 		</person>
     </xsl:template>
  
