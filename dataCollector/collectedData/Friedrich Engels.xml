@@ -90,6 +90,11 @@
 <type>uri</type>
 <value>http://dbpedia.org/resource/Friedrich_Engels</value>
 </author>
+<name>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>The Communist Manifesto</value>
+</name>
 <thumbnail>
 <type>uri</type>
 <value>http://commons.wikimedia.org/wiki/Special:FilePath/Communist-manifesto.png?width=300</value>
@@ -118,6 +123,11 @@
 <type>uri</type>
 <value>http://dbpedia.org/resource/Friedrich_Engels</value>
 </author>
+<name>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>The Condition of the Working Class in England</value>
+</name>
 <thumbnail>
 <type>uri</type>
 <value>http://commons.wikimedia.org/wiki/Special:FilePath/Die_Lage_der_arbeitenden_Klasse_in_England.gif?width=300</value>
@@ -146,6 +156,11 @@
 <type>uri</type>
 <value>http://dbpedia.org/resource/Friedrich_Engels</value>
 </author>
+<name>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>Der Ursprung der Familie, des Privateigenthums und des Staats</value>
+</name>
 <wikilink>
 <type>uri</type>
 <value>http://en.wikipedia.org/wiki/The_Origin_of_the_Family,_Private_Property_and_the_State?oldid=602400544</value>

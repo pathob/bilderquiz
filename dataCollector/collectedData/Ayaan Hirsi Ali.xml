@@ -35,6 +35,11 @@
 <type>uri</type>
 <value>http://dbpedia.org/resource/Ayaan_Hirsi_Ali</value>
 </author>
+<name>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>De maagdenkooi</value>
+</name>
 <wikilink>
 <type>uri</type>
 <value>http://en.wikipedia.org/wiki/The_Caged_Virgin?oldid=606216169</value>
@@ -49,6 +54,11 @@
 <type>uri</type>
 <value>http://dbpedia.org/resource/Ayaan_Hirsi_Ali</value>
 </author>
+<name>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>Mijn Vrijheid</value>
+</name>
 <wikilink>
 <type>uri</type>
 <value>http://en.wikipedia.org/wiki/Infidel:_My_Life?oldid=604610577</value>
@@ -63,6 +73,11 @@
 <type>uri</type>
 <value>http://dbpedia.org/resource/Ayaan_Hirsi_Ali</value>
 </author>
+<name>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>Nomad: From Islam to America</value>
+</name>
 <wikilink>
 <type>uri</type>
 <value>http://en.wikipedia.org/wiki/Nomad:_From_Islam_to_America?oldid=604066615</value>

@@ -29,6 +29,11 @@
 <type>uri</type>
 <value>http://dbpedia.org/resource/Tom_Reiss</value>
 </author>
+<name>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>Glory, Revolution, Betrayal,</value>
+</name>
 <released>
 <type>typed-literal</type>
 <datatype>http://www.w3.org/2001/XMLSchema#date</datatype>

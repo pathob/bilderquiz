@@ -50,6 +50,11 @@
 <type>uri</type>
 <value>http://dbpedia.org/resource/Rudyard_Kipling</value>
 </author>
+<name>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>The Jungle Book</value>
+</name>
 <thumbnail>
 <type>uri</type>
 <value>http://commons.wikimedia.org/wiki/Special:FilePath/JunglebookCover.jpg?width=300</value>
@@ -78,6 +83,11 @@
 <type>uri</type>
 <value>http://dbpedia.org/resource/Rudyard_Kipling</value>
 </author>
+<name>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>Plain Tales from the Hills</value>
+</name>
 <thumbnail>
 <type>uri</type>
 <value>http://commons.wikimedia.org/wiki/Special:FilePath/Plaintalesfromthehills1888.jpg?width=300</value>
@@ -101,6 +111,11 @@
 <type>uri</type>
 <value>http://dbpedia.org/resource/Rudyard_Kipling</value>
 </author>
+<name>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>The Second Jungle Book</value>
+</name>
 <thumbnail>
 <type>uri</type>
 <value>http://commons.wikimedia.org/wiki/Special:FilePath/SecondJungleBookCover1895.jpg?width=300</value>
@@ -124,6 +139,11 @@
 <type>uri</type>
 <value>http://dbpedia.org/resource/Rudyard_Kipling</value>
 </author>
+<name>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>The Story of the Gadsbys</value>
+</name>
 <thumbnail>
 <type>uri</type>
 <value>http://en.wikipedia.org/wiki/Special:FilePath/The_Gadsbys_Frontispiece.jpg?width=300</value>
@@ -142,6 +162,11 @@
 <type>uri</type>
 <value>http://dbpedia.org/resource/Rudyard_Kipling</value>
 </author>
+<name>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>Kim</value>
+</name>
 <released>
 <type>literal</type>
 <xml:lang>en</xml:lang>
@@ -166,6 +191,11 @@
 <type>uri</type>
 <value>http://dbpedia.org/resource/Rudyard_Kipling</value>
 </author>
+<name>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>Wee Willie Winkie and Other Child Stories</value>
+</name>
 <released>
 <type>typed-literal</type>
 <datatype>http://www.w3.org/2001/XMLSchema#integer</datatype>
@@ -185,6 +215,11 @@
 <type>uri</type>
 <value>http://dbpedia.org/resource/Rudyard_Kipling</value>
 </author>
+<name>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>Under the Deodars</value>
+</name>
 <released>
 <type>typed-literal</type>
 <datatype>http://www.w3.org/2001/XMLSchema#integer</datatype>
@@ -204,6 +239,11 @@
 <type>uri</type>
 <value>http://dbpedia.org/resource/Rudyard_Kipling</value>
 </author>
+<name>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>The Phantom &apos;Rickshaw and other Eerie Tales</value>
+</name>
 <released>
 <type>typed-literal</type>
 <datatype>http://www.w3.org/2001/XMLSchema#integer</datatype>

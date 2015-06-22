@@ -31,6 +31,11 @@
 <type>uri</type>
 <value>http://dbpedia.org/resource/Lawrence_Durrell</value>
 </author>
+<name>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>Bitter Lemons of Cyprus</value>
+</name>
 <released>
 <type>typed-literal</type>
 <datatype>http://www.w3.org/2001/XMLSchema#integer</datatype>
@@ -55,6 +60,11 @@
 <type>uri</type>
 <value>http://dbpedia.org/resource/Lawrence_Durrell</value>
 </author>
+<name>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>Constance</value>
+</name>
 <released>
 <type>typed-literal</type>
 <datatype>http://www.w3.org/2001/XMLSchema#integer</datatype>
@@ -74,6 +84,11 @@
 <type>uri</type>
 <value>http://dbpedia.org/resource/Lawrence_Durrell</value>
 </author>
+<name>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>Pied Piper of Lovers</value>
+</name>
 <released>
 <type>typed-literal</type>
 <datatype>http://www.w3.org/2001/XMLSchema#integer</datatype>
@@ -93,6 +108,11 @@
 <type>uri</type>
 <value>http://dbpedia.org/resource/Lawrence_Durrell</value>
 </author>
+<name>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>Justine</value>
+</name>
 <released>
 <type>typed-literal</type>
 <datatype>http://www.w3.org/2001/XMLSchema#integer</datatype>
@@ -112,6 +132,11 @@
 <type>uri</type>
 <value>http://dbpedia.org/resource/Lawrence_Durrell</value>
 </author>
+<name>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>Livia</value>
+</name>
 <released>
 <type>typed-literal</type>
 <datatype>http://www.w3.org/2001/XMLSchema#integer</datatype>
@@ -131,6 +156,11 @@
 <type>uri</type>
 <value>http://dbpedia.org/resource/Lawrence_Durrell</value>
 </author>
+<name>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>Balthazar</value>
+</name>
 <released>
 <type>typed-literal</type>
 <datatype>http://www.w3.org/2001/XMLSchema#integer</datatype>
@@ -150,6 +180,11 @@
 <type>uri</type>
 <value>http://dbpedia.org/resource/Lawrence_Durrell</value>
 </author>
+<name>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>Sebastian</value>
+</name>
 <released>
 <type>typed-literal</type>
 <datatype>http://www.w3.org/2001/XMLSchema#integer</datatype>
@@ -169,6 +204,11 @@
 <type>uri</type>
 <value>http://dbpedia.org/resource/Lawrence_Durrell</value>
 </author>
+<name>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>The Revolt of Aphrodite</value>
+</name>
 <released>
 <type>typed-literal</type>
 <datatype>http://www.w3.org/2001/XMLSchema#integer</datatype>
@@ -188,6 +228,11 @@
 <type>uri</type>
 <value>http://dbpedia.org/resource/Lawrence_Durrell</value>
 </author>
+<name>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>The Alexandria Quartet</value>
+</name>
 <released>
 <type>typed-literal</type>
 <datatype>http://www.w3.org/2001/XMLSchema#integer</datatype>
@@ -207,6 +252,11 @@
 <type>uri</type>
 <value>http://dbpedia.org/resource/Lawrence_Durrell</value>
 </author>
+<name>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>The Black Book</value>
+</name>
 <released>
 <type>typed-literal</type>
 <datatype>http://www.w3.org/2001/XMLSchema#integer</datatype>
@@ -226,6 +276,11 @@
 <type>uri</type>
 <value>http://dbpedia.org/resource/Lawrence_Durrell</value>
 </author>
+<name>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>Mountolive</value>
+</name>
 <released>
 <type>typed-literal</type>
 <datatype>http://www.w3.org/2001/XMLSchema#integer</datatype>
@@ -245,6 +300,11 @@
 <type>uri</type>
 <value>http://dbpedia.org/resource/Lawrence_Durrell</value>
 </author>
+<name>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>Panic Spring</value>
+</name>
 <released>
 <type>typed-literal</type>
 <datatype>http://www.w3.org/2001/XMLSchema#integer</datatype>
@@ -264,6 +324,11 @@
 <type>uri</type>
 <value>http://dbpedia.org/resource/Lawrence_Durrell</value>
 </author>
+<name>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>Monsieur</value>
+</name>
 <released>
 <type>typed-literal</type>
 <datatype>http://www.w3.org/2001/XMLSchema#integer</datatype>
@@ -283,6 +348,11 @@
 <type>uri</type>
 <value>http://dbpedia.org/resource/Lawrence_Durrell</value>
 </author>
+<name>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>Quinx</value>
+</name>
 <released>
 <type>typed-literal</type>
 <datatype>http://www.w3.org/2001/XMLSchema#integer</datatype>
@@ -302,6 +372,11 @@
 <type>uri</type>
 <value>http://dbpedia.org/resource/Lawrence_Durrell</value>
 </author>
+<name>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>Clea</value>
+</name>
 <released>
 <type>typed-literal</type>
 <datatype>http://www.w3.org/2001/XMLSchema#integer</datatype>
@@ -321,6 +396,11 @@
 <type>uri</type>
 <value>http://dbpedia.org/resource/Lawrence_Durrell</value>
 </author>
+<name>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>The Avignon Quintet</value>
+</name>
 <released>
 <type>typed-literal</type>
 <datatype>http://www.w3.org/2001/XMLSchema#integer</datatype>

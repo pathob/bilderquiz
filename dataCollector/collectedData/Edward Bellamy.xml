@@ -28,6 +28,11 @@
 <type>uri</type>
 <value>http://dbpedia.org/resource/Edward_Bellamy</value>
 </author>
+<name>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>Looking Backward: 2000-1887</value>
+</name>
 <thumbnail>
 <type>uri</type>
 <value>http://commons.wikimedia.org/wiki/Special:FilePath/Looking_Backward.jpg?width=300</value>
@@ -56,6 +61,11 @@
 <type>uri</type>
 <value>http://dbpedia.org/resource/Edward_Bellamy</value>
 </author>
+<name>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>Equality</value>
+</name>
 <released>
 <type>typed-literal</type>
 <datatype>http://www.w3.org/2001/XMLSchema#integer</datatype>
@@ -75,6 +85,11 @@
 <type>uri</type>
 <value>http://dbpedia.org/resource/Edward_Bellamy</value>
 </author>
+<name>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>Dr. Heidenhoff&apos;s Process</value>
+</name>
 <released>
 <type>typed-literal</type>
 <datatype>http://www.w3.org/2001/XMLSchema#integer</datatype>
@@ -94,6 +109,11 @@
 <type>uri</type>
 <value>http://dbpedia.org/resource/Edward_Bellamy</value>
 </author>
+<name>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>To Whom This May Come</value>
+</name>
 <released>
 <type>typed-literal</type>
 <datatype>http://www.w3.org/2001/XMLSchema#integer</datatype>

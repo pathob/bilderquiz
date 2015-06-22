@@ -34,6 +34,11 @@
 <type>uri</type>
 <value>http://dbpedia.org/resource/Philip_Larkin</value>
 </author>
+<name>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>Selected Letters of Philip Larkin, 1940–1985</value>
+</name>
 <released>
 <type>typed-literal</type>
 <datatype>http://www.w3.org/2001/XMLSchema#date</datatype>
@@ -53,6 +58,11 @@
 <type>uri</type>
 <value>http://dbpedia.org/resource/Philip_Larkin</value>
 </author>
+<name>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>The Oxford Book of Twentieth Century English Verse</value>
+</name>
 <released>
 <type>typed-literal</type>
 <datatype>http://www.w3.org/2001/XMLSchema#integer</datatype>
@@ -72,6 +82,11 @@
 <type>uri</type>
 <value>http://dbpedia.org/resource/Philip_Larkin</value>
 </author>
+<name>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>High Windows</value>
+</name>
 <published>
 <type>typed-literal</type>
 <datatype>http://www.w3.org/2001/XMLSchema#integer</datatype>
@@ -91,6 +106,11 @@
 <type>uri</type>
 <value>http://dbpedia.org/resource/Philip_Larkin</value>
 </author>
+<name>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>The North Ship</value>
+</name>
 <wikilink>
 <type>uri</type>
 <value>http://en.wikipedia.org/wiki/The_North_Ship?oldid=596060561</value>
@@ -105,6 +125,11 @@
 <type>uri</type>
 <value>http://dbpedia.org/resource/Philip_Larkin</value>
 </author>
+<name>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>Collected Poems</value>
+</name>
 <wikilink>
 <type>uri</type>
 <value>http://en.wikipedia.org/wiki/Collected_Poems_–_2003_edition_(Philip_Larkin)?oldid=599696490</value>

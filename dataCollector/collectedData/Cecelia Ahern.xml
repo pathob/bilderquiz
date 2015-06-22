@@ -30,6 +30,11 @@
 <type>uri</type>
 <value>http://dbpedia.org/resource/Cecelia_Ahern</value>
 </author>
+<name>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>Where Rainbows End</value>
+</name>
 <released>
 <type>typed-literal</type>
 <datatype>http://www.w3.org/2001/XMLSchema#integer</datatype>
@@ -54,6 +59,11 @@
 <type>uri</type>
 <value>http://dbpedia.org/resource/Cecelia_Ahern</value>
 </author>
+<name>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>PS, I Love You</value>
+</name>
 <released>
 <type>literal</type>
 <xml:lang>en</xml:lang>
@@ -78,6 +88,11 @@
 <type>uri</type>
 <value>http://dbpedia.org/resource/Cecelia_Ahern</value>
 </author>
+<name>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>If You Could See Me Now</value>
+</name>
 <released>
 <type>literal</type>
 <xml:lang>en</xml:lang>
@@ -97,6 +112,11 @@
 <type>uri</type>
 <value>http://dbpedia.org/resource/Cecelia_Ahern</value>
 </author>
+<name>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>A Place Called Here / No Place Like Here</value>
+</name>
 <released>
 <type>typed-literal</type>
 <datatype>http://www.w3.org/2001/XMLSchema#integer</datatype>

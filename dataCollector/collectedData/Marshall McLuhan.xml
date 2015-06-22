@@ -41,6 +41,11 @@
 <type>uri</type>
 <value>http://dbpedia.org/resource/Marshall_McLuhan</value>
 </author>
+<name>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>The Gutenberg Galaxy &quot;When Change Becomes the Fate of Man&quot;</value>
+</name>
 <thumbnail>
 <type>uri</type>
 <value>http://commons.wikimedia.org/wiki/Special:FilePath/MyGutenbergGalaxy_onBookchair.jpg?width=300</value>
@@ -69,6 +74,11 @@
 <type>uri</type>
 <value>http://dbpedia.org/resource/Marshall_McLuhan</value>
 </author>
+<name>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>The Mechanical Bride: Folklore of Industrial Man</value>
+</name>
 <released>
 <type>typed-literal</type>
 <datatype>http://www.w3.org/2001/XMLSchema#integer</datatype>
@@ -88,6 +98,11 @@
 <type>uri</type>
 <value>http://dbpedia.org/resource/Marshall_McLuhan</value>
 </author>
+<name>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>Understanding Media: The Extensions of Man</value>
+</name>
 <published>
 <type>typed-literal</type>
 <datatype>http://www.w3.org/2001/XMLSchema#integer</datatype>
@@ -112,6 +127,11 @@
 <type>uri</type>
 <value>http://dbpedia.org/resource/Marshall_McLuhan</value>
 </author>
+<name>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>The Medium is the Massage: An Inventory of Effects</value>
+</name>
 <wikilink>
 <type>uri</type>
 <value>http://en.wikipedia.org/wiki/The_Medium_Is_the_Massage?oldid=605050354</value>

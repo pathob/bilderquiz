@@ -29,6 +29,11 @@
 <type>uri</type>
 <value>http://dbpedia.org/resource/Michael_Ondaatje</value>
 </author>
+<name>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>The English Patient</value>
+</name>
 <released>
 <type>literal</type>
 <xml:lang>en</xml:lang>
@@ -53,6 +58,11 @@
 <type>uri</type>
 <value>http://dbpedia.org/resource/Michael_Ondaatje</value>
 </author>
+<name>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>Coming Through Slaughter</value>
+</name>
 <released>
 <type>typed-literal</type>
 <datatype>http://www.w3.org/2001/XMLSchema#integer</datatype>
@@ -72,6 +82,11 @@
 <type>uri</type>
 <value>http://dbpedia.org/resource/Michael_Ondaatje</value>
 </author>
+<name>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>The Cat&apos;s Table</value>
+</name>
 <wikilink>
 <type>uri</type>
 <value>http://en.wikipedia.org/wiki/The_Cat&apos;s_Table?oldid=598299650</value>
@@ -91,6 +106,11 @@
 <type>uri</type>
 <value>http://dbpedia.org/resource/Michael_Ondaatje</value>
 </author>
+<name>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>Anil’s Ghost</value>
+</name>
 <wikilink>
 <type>uri</type>
 <value>http://en.wikipedia.org/wiki/Anil&apos;s_Ghost?oldid=601286653</value>
@@ -105,6 +125,11 @@
 <type>uri</type>
 <value>http://dbpedia.org/resource/Michael_Ondaatje</value>
 </author>
+<name>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>Divisadero</value>
+</name>
 <wikilink>
 <type>uri</type>
 <value>http://en.wikipedia.org/wiki/Divisadero_(novel)?oldid=587959217</value>
@@ -119,6 +144,11 @@
 <type>uri</type>
 <value>http://dbpedia.org/resource/Michael_Ondaatje</value>
 </author>
+<name>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>The Collected Works of Billy the Kid: Left-Handed Poems</value>
+</name>
 <wikilink>
 <type>uri</type>
 <value>http://en.wikipedia.org/wiki/The_Collected_Works_of_Billy_the_Kid:_Left-Handed_Poems?oldid=593150110</value>

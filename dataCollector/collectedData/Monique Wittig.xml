@@ -27,6 +27,11 @@
 <type>uri</type>
 <value>http://dbpedia.org/resource/Monique_Wittig</value>
 </author>
+<name>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>The Straight Mind and Other Essays</value>
+</name>
 <released>
 <type>typed-literal</type>
 <datatype>http://www.w3.org/2001/XMLSchema#integer</datatype>
@@ -46,6 +51,11 @@
 <type>uri</type>
 <value>http://dbpedia.org/resource/Monique_Wittig</value>
 </author>
+<name>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>Les Guérillères</value>
+</name>
 <released>
 <type>typed-literal</type>
 <datatype>http://www.w3.org/2001/XMLSchema#integer</datatype>
@@ -65,6 +75,11 @@
 <type>uri</type>
 <value>http://dbpedia.org/resource/Monique_Wittig</value>
 </author>
+<name>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>L&apos;Opoponax</value>
+</name>
 <released>
 <type>typed-literal</type>
 <datatype>http://www.w3.org/2001/XMLSchema#integer</datatype>
@@ -84,6 +99,11 @@
 <type>uri</type>
 <value>http://dbpedia.org/resource/Monique_Wittig</value>
 </author>
+<name>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>Les Corps Lesbien</value>
+</name>
 <wikilink>
 <type>uri</type>
 <value>http://en.wikipedia.org/wiki/Le_Corps_Lesbien?oldid=544710076</value>

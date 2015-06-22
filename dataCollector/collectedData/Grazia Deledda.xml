@@ -29,6 +29,11 @@
 <type>uri</type>
 <value>http://dbpedia.org/resource/Grazia_Deledda</value>
 </author>
+<name>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>Dopo il divorzio</value>
+</name>
 <wikilink>
 <type>uri</type>
 <value>http://en.wikipedia.org/wiki/After_the_divorce?oldid=577457860</value>

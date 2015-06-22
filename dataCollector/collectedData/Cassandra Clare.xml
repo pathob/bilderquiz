@@ -31,6 +31,11 @@
 <type>uri</type>
 <value>http://dbpedia.org/resource/Cassandra_Clare</value>
 </author>
+<name>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>Clockwork Princess</value>
+</name>
 <released>
 <type>typed-literal</type>
 <datatype>http://www.w3.org/2001/XMLSchema#date</datatype>
@@ -50,6 +55,11 @@
 <type>uri</type>
 <value>http://dbpedia.org/resource/Cassandra_Clare</value>
 </author>
+<name>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>Clockwork Prince</value>
+</name>
 <released>
 <type>typed-literal</type>
 <datatype>http://www.w3.org/2001/XMLSchema#integer</datatype>
@@ -69,6 +79,11 @@
 <type>uri</type>
 <value>http://dbpedia.org/resource/Cassandra_Clare</value>
 </author>
+<name>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>Clockwork Angel</value>
+</name>
 <released>
 <type>typed-literal</type>
 <datatype>http://www.w3.org/2001/XMLSchema#integer</datatype>
@@ -88,6 +103,11 @@
 <type>uri</type>
 <value>http://dbpedia.org/resource/Cassandra_Clare</value>
 </author>
+<name>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>City of Bones</value>
+</name>
 <wikilink>
 <type>uri</type>
 <value>http://en.wikipedia.org/wiki/City_of_Bones_(Mortal_Instruments)?oldid=606562591</value>
@@ -107,6 +127,11 @@
 <type>uri</type>
 <value>http://dbpedia.org/resource/Cassandra_Clare</value>
 </author>
+<name>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>City of Lost Souls</value>
+</name>
 <wikilink>
 <type>uri</type>
 <value>http://en.wikipedia.org/wiki/City_of_Lost_Souls_(Mortal_Instruments)?oldid=601564839</value>
@@ -121,6 +146,11 @@
 <type>uri</type>
 <value>http://dbpedia.org/resource/Cassandra_Clare</value>
 </author>
+<name>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>City of Glass</value>
+</name>
 <wikilink>
 <type>uri</type>
 <value>http://en.wikipedia.org/wiki/City_of_Glass_(Mortal_Instruments)?oldid=606252992</value>
@@ -135,6 +165,11 @@
 <type>uri</type>
 <value>http://dbpedia.org/resource/Cassandra_Clare</value>
 </author>
+<name>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>City of Fallen Angels</value>
+</name>
 <wikilink>
 <type>uri</type>
 <value>http://en.wikipedia.org/wiki/City_of_Fallen_Angels?oldid=599354566</value>
@@ -149,6 +184,11 @@
 <type>uri</type>
 <value>http://dbpedia.org/resource/Cassandra_Clare</value>
 </author>
+<name>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>City of Ashes</value>
+</name>
 <wikilink>
 <type>uri</type>
 <value>http://en.wikipedia.org/wiki/City_of_Ashes?oldid=606403110</value>
@@ -163,6 +203,11 @@
 <type>uri</type>
 <value>http://dbpedia.org/resource/Cassandra_Clare</value>
 </author>
+<name>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>The Bane Chronicles</value>
+</name>
 <wikilink>
 <type>uri</type>
 <value>http://en.wikipedia.org/wiki/The_Bane_Chronicles?oldid=599554136</value>

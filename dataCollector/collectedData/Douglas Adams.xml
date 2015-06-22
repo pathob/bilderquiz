@@ -32,6 +32,11 @@
 <type>uri</type>
 <value>http://dbpedia.org/resource/Douglas_Adams</value>
 </author>
+<name>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>The Meaning of Liff</value>
+</name>
 <thumbnail>
 <type>uri</type>
 <value>http://commons.wikimedia.org/wiki/Special:FilePath/Meaningofliff1983sticker.jpg?width=300</value>
@@ -55,6 +60,11 @@
 <type>uri</type>
 <value>http://dbpedia.org/resource/Douglas_Adams</value>
 </author>
+<name>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>The Salmon of Doubt</value>
+</name>
 <released>
 <type>typed-literal</type>
 <datatype>http://www.w3.org/2001/XMLSchema#integer</datatype>
@@ -79,6 +89,11 @@
 <type>uri</type>
 <value>http://dbpedia.org/resource/Douglas_Adams</value>
 </author>
+<name>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>Dirk Gently&apos;s Holistic Detective Agency</value>
+</name>
 <released>
 <type>typed-literal</type>
 <datatype>http://www.w3.org/2001/XMLSchema#integer</datatype>
@@ -103,6 +118,11 @@
 <type>uri</type>
 <value>http://dbpedia.org/resource/Douglas_Adams</value>
 </author>
+<name>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>Life, the Universe and Everything</value>
+</name>
 <released>
 <type>typed-literal</type>
 <datatype>http://www.w3.org/2001/XMLSchema#integer</datatype>
@@ -127,6 +147,11 @@
 <type>uri</type>
 <value>http://dbpedia.org/resource/Douglas_Adams</value>
 </author>
+<name>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>Mostly Harmless</value>
+</name>
 <released>
 <type>typed-literal</type>
 <datatype>http://www.w3.org/2001/XMLSchema#integer</datatype>
@@ -151,6 +176,11 @@
 <type>uri</type>
 <value>http://dbpedia.org/resource/Douglas_Adams</value>
 </author>
+<name>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>So Long, and Thanks for All the Fish</value>
+</name>
 <released>
 <type>typed-literal</type>
 <datatype>http://www.w3.org/2001/XMLSchema#integer</datatype>
@@ -175,6 +205,11 @@
 <type>uri</type>
 <value>http://dbpedia.org/resource/Douglas_Adams</value>
 </author>
+<name>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>The Long Dark Tea-Time of the Soul</value>
+</name>
 <released>
 <type>typed-literal</type>
 <datatype>http://www.w3.org/2001/XMLSchema#date</datatype>
@@ -199,6 +234,11 @@
 <type>uri</type>
 <value>http://dbpedia.org/resource/Douglas_Adams</value>
 </author>
+<name>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>The Restaurant at the End of the Universe</value>
+</name>
 <released>
 <type>typed-literal</type>
 <datatype>http://www.w3.org/2001/XMLSchema#date</datatype>
@@ -223,6 +263,11 @@
 <type>uri</type>
 <value>http://dbpedia.org/resource/Douglas_Adams</value>
 </author>
+<name>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>The Hitchhiker&apos;s Guide to the Galaxy</value>
+</name>
 <released>
 <type>typed-literal</type>
 <datatype>http://www.w3.org/2001/XMLSchema#date</datatype>
@@ -247,6 +292,11 @@
 <type>uri</type>
 <value>http://dbpedia.org/resource/Douglas_Adams</value>
 </author>
+<name>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>Douglas Adams&apos;s Guide to The Hitch-Hiker&apos;s Guide to the Galaxy</value>
+</name>
 <released>
 <type>typed-literal</type>
 <datatype>http://www.w3.org/2001/XMLSchema#integer</datatype>

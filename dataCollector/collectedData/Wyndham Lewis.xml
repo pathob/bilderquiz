@@ -40,6 +40,11 @@
 <type>uri</type>
 <value>http://dbpedia.org/resource/Wyndham_Lewis</value>
 </author>
+<name>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>Tarr</value>
+</name>
 <thumbnail>
 <type>uri</type>
 <value>http://en.wikipedia.org/wiki/Special:FilePath/Tarr-1918-UK-Cover.jpg?width=300</value>
@@ -63,6 +68,11 @@
 <type>uri</type>
 <value>http://dbpedia.org/resource/Wyndham_Lewis</value>
 </author>
+<name>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>Blasting and Bombardiering</value>
+</name>
 <released>
 <type>typed-literal</type>
 <datatype>http://www.w3.org/2001/XMLSchema#integer</datatype>
@@ -82,6 +92,11 @@
 <type>uri</type>
 <value>http://dbpedia.org/resource/Wyndham_Lewis</value>
 </author>
+<name>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>The Apes of God</value>
+</name>
 <released>
 <type>typed-literal</type>
 <datatype>http://www.w3.org/2001/XMLSchema#integer</datatype>

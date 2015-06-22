@@ -71,6 +71,11 @@
 <type>uri</type>
 <value>http://dbpedia.org/resource/George_Sand</value>
 </author>
+<name>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>Consuelo</value>
+</name>
 <thumbnail>
 <type>uri</type>
 <value>http://en.wikipedia.org/wiki/Special:FilePath/Pauline_Viardot.JPG?width=300</value>
@@ -94,6 +99,11 @@
 <type>uri</type>
 <value>http://dbpedia.org/resource/George_Sand</value>
 </author>
+<name>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>Indiana</value>
+</name>
 <thumbnail>
 <type>uri</type>
 <value>http://commons.wikimedia.org/wiki/Special:FilePath/Indiana,_George_Sand_(1870).jpg?width=300</value>
@@ -117,6 +127,11 @@
 <type>uri</type>
 <value>http://dbpedia.org/resource/George_Sand</value>
 </author>
+<name>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>La Petite Fadette</value>
+</name>
 <released>
 <type>typed-literal</type>
 <datatype>http://www.w3.org/2001/XMLSchema#integer</datatype>
@@ -136,6 +151,11 @@
 <type>uri</type>
 <value>http://dbpedia.org/resource/George_Sand</value>
 </author>
+<name>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>Mauprat</value>
+</name>
 <released>
 <type>typed-literal</type>
 <datatype>http://www.w3.org/2001/XMLSchema#integer</datatype>

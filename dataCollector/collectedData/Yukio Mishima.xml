@@ -47,6 +47,11 @@
 <type>uri</type>
 <value>http://dbpedia.org/resource/Yukio_Mishima</value>
 </author>
+<name>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>Spring Snow</value>
+</name>
 <released>
 <type>typed-literal</type>
 <datatype>http://www.w3.org/2001/XMLSchema#integer</datatype>
@@ -71,6 +76,11 @@
 <type>uri</type>
 <value>http://dbpedia.org/resource/Yukio_Mishima</value>
 </author>
+<name>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>&apos;&apos;奔馬&apos;</value>
+</name>
 <released>
 <type>typed-literal</type>
 <datatype>http://www.w3.org/2001/XMLSchema#integer</datatype>
@@ -90,6 +100,11 @@
 <type>uri</type>
 <value>http://dbpedia.org/resource/Yukio_Mishima</value>
 </author>
+<name>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>(Five Death Omens of an Angel)</value>
+</name>
 <released>
 <type>typed-literal</type>
 <datatype>http://www.w3.org/2001/XMLSchema#date</datatype>
@@ -109,6 +124,11 @@
 <type>uri</type>
 <value>http://dbpedia.org/resource/Yukio_Mishima</value>
 </author>
+<name>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>Akatsuki no Tera</value>
+</name>
 <released>
 <type>typed-literal</type>
 <datatype>http://www.w3.org/2001/XMLSchema#integer</datatype>
@@ -128,6 +148,11 @@
 <type>uri</type>
 <value>http://dbpedia.org/resource/Yukio_Mishima</value>
 </author>
+<name>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>Kinkakuji &apos;&apos;金閣寺&apos;</value>
+</name>
 <released>
 <type>typed-literal</type>
 <datatype>http://www.w3.org/2001/XMLSchema#integer</datatype>
@@ -147,6 +172,11 @@
 <type>uri</type>
 <value>http://dbpedia.org/resource/Yukio_Mishima</value>
 </author>
+<name>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>The Sailor Who Fell From Grace with the Sea</value>
+</name>
 <released>
 <type>typed-literal</type>
 <datatype>http://www.w3.org/2001/XMLSchema#integer</datatype>
@@ -166,6 +196,11 @@
 <type>uri</type>
 <value>http://dbpedia.org/resource/Yukio_Mishima</value>
 </author>
+<name>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>Forbidden Colors</value>
+</name>
 <wikilink>
 <type>uri</type>
 <value>http://en.wikipedia.org/wiki/Forbidden_Colors?oldid=587918542</value>
@@ -180,6 +215,11 @@
 <type>uri</type>
 <value>http://dbpedia.org/resource/Yukio_Mishima</value>
 </author>
+<name>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>Shiosai</value>
+</name>
 <wikilink>
 <type>uri</type>
 <value>http://en.wikipedia.org/wiki/The_Sound_of_Waves?oldid=601013870</value>
@@ -194,6 +234,11 @@
 <type>uri</type>
 <value>http://dbpedia.org/resource/Yukio_Mishima</value>
 </author>
+<name>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>Confessions of a Mask</value>
+</name>
 <wikilink>
 <type>uri</type>
 <value>http://en.wikipedia.org/wiki/Confessions_of_a_Mask?oldid=584234205</value>

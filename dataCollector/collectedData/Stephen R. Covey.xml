@@ -32,6 +32,11 @@
 <type>uri</type>
 <value>http://dbpedia.org/resource/Stephen_Covey</value>
 </author>
+<name>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>The 8th Habit</value>
+</name>
 <thumbnail>
 <type>uri</type>
 <value>http://en.wikipedia.org/wiki/Special:FilePath/8thHabit.JPG?width=300</value>
@@ -55,6 +60,11 @@
 <type>uri</type>
 <value>http://dbpedia.org/resource/Stephen_Covey</value>
 </author>
+<name>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>The Seven Habits of Highly Effective People</value>
+</name>
 <released>
 <type>typed-literal</type>
 <datatype>http://www.w3.org/2001/XMLSchema#integer</datatype>
@@ -74,6 +84,11 @@
 <type>uri</type>
 <value>http://dbpedia.org/resource/Stephen_Covey</value>
 </author>
+<name>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>The 3rd Alternative</value>
+</name>
 <released>
 <type>typed-literal</type>
 <datatype>http://www.w3.org/2001/XMLSchema#integer</datatype>

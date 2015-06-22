@@ -34,6 +34,11 @@
 <type>uri</type>
 <value>http://dbpedia.org/resource/Leonard_Cohen</value>
 </author>
+<name>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>The Favourite Game</value>
+</name>
 <released>
 <type>typed-literal</type>
 <datatype>http://www.w3.org/2001/XMLSchema#integer</datatype>
@@ -53,6 +58,11 @@
 <type>uri</type>
 <value>http://dbpedia.org/resource/Leonard_Cohen</value>
 </author>
+<name>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>Beautiful Losers</value>
+</name>
 <released>
 <type>typed-literal</type>
 <datatype>http://www.w3.org/2001/XMLSchema#integer</datatype>
@@ -72,6 +82,11 @@
 <type>uri</type>
 <value>http://dbpedia.org/resource/Leonard_Cohen</value>
 </author>
+<name>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>Book of Longing</value>
+</name>
 <wikilink>
 <type>uri</type>
 <value>http://en.wikipedia.org/wiki/Book_of_Longing?oldid=575285375</value>
@@ -86,6 +101,11 @@
 <type>uri</type>
 <value>http://dbpedia.org/resource/Leonard_Cohen</value>
 </author>
+<name>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>Stranger Music</value>
+</name>
 <wikilink>
 <type>uri</type>
 <value>http://en.wikipedia.org/wiki/Stranger_Music?oldid=601490122</value>

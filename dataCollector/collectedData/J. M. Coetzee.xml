@@ -42,6 +42,11 @@
 <type>uri</type>
 <value>http://dbpedia.org/resource/J._M._Coetzee</value>
 </author>
+<name>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>Slow Man</value>
+</name>
 <thumbnail>
 <type>uri</type>
 <value>http://en.wikipedia.org/wiki/Special:FilePath/Slowman.jpg?width=300</value>
@@ -65,6 +70,11 @@
 <type>uri</type>
 <value>http://dbpedia.org/resource/J._M._Coetzee</value>
 </author>
+<name>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>The Lives of Animals</value>
+</name>
 <thumbnail>
 <type>uri</type>
 <value>http://commons.wikimedia.org/wiki/Special:FilePath/J.M._Coetzee.JPG?width=300</value>
@@ -83,6 +93,11 @@
 <type>uri</type>
 <value>http://dbpedia.org/resource/J._M._Coetzee</value>
 </author>
+<name>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>Disgrace</value>
+</name>
 <released>
 <type>typed-literal</type>
 <datatype>http://www.w3.org/2001/XMLSchema#date</datatype>
@@ -107,6 +122,11 @@
 <type>uri</type>
 <value>http://dbpedia.org/resource/J._M._Coetzee</value>
 </author>
+<name>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>Dusklands</value>
+</name>
 <released>
 <type>typed-literal</type>
 <datatype>http://www.w3.org/2001/XMLSchema#integer</datatype>
@@ -131,6 +151,11 @@
 <type>uri</type>
 <value>http://dbpedia.org/resource/J._M._Coetzee</value>
 </author>
+<name>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>Life &amp; Times of Michael K</value>
+</name>
 <released>
 <type>typed-literal</type>
 <datatype>http://www.w3.org/2001/XMLSchema#integer</datatype>
@@ -155,6 +180,11 @@
 <type>uri</type>
 <value>http://dbpedia.org/resource/J._M._Coetzee</value>
 </author>
+<name>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>Waiting for the Barbarians</value>
+</name>
 <released>
 <type>typed-literal</type>
 <datatype>http://www.w3.org/2001/XMLSchema#date</datatype>
@@ -179,6 +209,11 @@
 <type>uri</type>
 <value>http://dbpedia.org/resource/J._M._Coetzee</value>
 </author>
+<name>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>In the Heart of the Country</value>
+</name>
 <released>
 <type>typed-literal</type>
 <datatype>http://www.w3.org/2001/XMLSchema#integer</datatype>
@@ -198,6 +233,11 @@
 <type>uri</type>
 <value>http://dbpedia.org/resource/J._M._Coetzee</value>
 </author>
+<name>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>Foe</value>
+</name>
 <released>
 <type>typed-literal</type>
 <datatype>http://www.w3.org/2001/XMLSchema#integer</datatype>
@@ -217,6 +257,11 @@
 <type>uri</type>
 <value>http://dbpedia.org/resource/J._M._Coetzee</value>
 </author>
+<name>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>Elizabeth Costello</value>
+</name>
 <released>
 <type>typed-literal</type>
 <datatype>http://www.w3.org/2001/XMLSchema#date</datatype>
@@ -236,6 +281,11 @@
 <type>uri</type>
 <value>http://dbpedia.org/resource/J._M._Coetzee</value>
 </author>
+<name>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>Summertime</value>
+</name>
 <released>
 <type>typed-literal</type>
 <datatype>http://www.w3.org/2001/XMLSchema#date</datatype>
@@ -255,6 +305,11 @@
 <type>uri</type>
 <value>http://dbpedia.org/resource/J._M._Coetzee</value>
 </author>
+<name>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>Here and Now: Letters (2008-2011)</value>
+</name>
 <released>
 <type>literal</type>
 <xml:lang>en</xml:lang>
@@ -274,6 +329,11 @@
 <type>uri</type>
 <value>http://dbpedia.org/resource/J._M._Coetzee</value>
 </author>
+<name>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>The Master of Petersburg</value>
+</name>
 <released>
 <type>typed-literal</type>
 <datatype>http://www.w3.org/2001/XMLSchema#date</datatype>
@@ -293,6 +353,11 @@
 <type>uri</type>
 <value>http://dbpedia.org/resource/J._M._Coetzee</value>
 </author>
+<name>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>Diary of a Bad Year</value>
+</name>
 <released>
 <type>typed-literal</type>
 <datatype>http://www.w3.org/2001/XMLSchema#date</datatype>
@@ -312,6 +377,11 @@
 <type>uri</type>
 <value>http://dbpedia.org/resource/J._M._Coetzee</value>
 </author>
+<name>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>Boyhood</value>
+</name>
 <released>
 <type>literal</type>
 <xml:lang>en</xml:lang>
@@ -331,6 +401,11 @@
 <type>uri</type>
 <value>http://dbpedia.org/resource/J._M._Coetzee</value>
 </author>
+<name>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>Age Of Iron</value>
+</name>
 <released>
 <type>literal</type>
 <xml:lang>en</xml:lang>
@@ -350,6 +425,11 @@
 <type>uri</type>
 <value>http://dbpedia.org/resource/J._M._Coetzee</value>
 </author>
+<name>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>Youth: Scenes from Provincial Life II</value>
+</name>
 <published>
 <type>typed-literal</type>
 <datatype>http://www.w3.org/2001/XMLSchema#integer</datatype>
@@ -369,6 +449,11 @@
 <type>uri</type>
 <value>http://dbpedia.org/resource/J._M._Coetzee</value>
 </author>
+<name>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>The Childhood of Jesus</value>
+</name>
 <wikilink>
 <type>uri</type>
 <value>http://en.wikipedia.org/wiki/The_Childhood_of_Jesus?oldid=605710118</value>

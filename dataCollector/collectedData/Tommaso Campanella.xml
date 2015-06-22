@@ -38,6 +38,11 @@
 <type>uri</type>
 <value>http://dbpedia.org/resource/Tommaso_Campanella</value>
 </author>
+<name>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>Civitas Solis</value>
+</name>
 <thumbnail>
 <type>uri</type>
 <value>http://commons.wikimedia.org/wiki/Special:FilePath/Civitas_Soli.jpg?width=300</value>

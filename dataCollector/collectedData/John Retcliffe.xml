@@ -35,6 +35,11 @@
 <type>uri</type>
 <value>http://dbpedia.org/resource/Sir_John_Retcliffe</value>
 </author>
+<name>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>The Protocols of the Elders of Zion</value>
+</name>
 <thumbnail>
 <type>uri</type>
 <value>http://commons.wikimedia.org/wiki/Special:FilePath/1905_2fnl_Velikoe_v_malom_i_antikhrist.jpg?width=300</value>

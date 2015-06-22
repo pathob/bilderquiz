@@ -38,6 +38,11 @@
 <type>uri</type>
 <value>http://dbpedia.org/resource/Arundhati_Roy</value>
 </author>
+<name>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>The God of Small Things</value>
+</name>
 <thumbnail>
 <type>uri</type>
 <value>http://en.wikipedia.org/wiki/Special:FilePath/Arundhati_Roy_W.jpg?width=300</value>
@@ -66,6 +71,11 @@
 <type>uri</type>
 <value>http://dbpedia.org/resource/Arundhati_Roy</value>
 </author>
+<name>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>Kashmir: The Case for Freedom</value>
+</name>
 <wikilink>
 <type>uri</type>
 <value>http://en.wikipedia.org/wiki/Kashmir:_The_Case_for_Freedom?oldid=587570448</value>

@@ -33,6 +33,11 @@
 <type>uri</type>
 <value>http://dbpedia.org/resource/Bret_Easton_Ellis</value>
 </author>
+<name>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>Lunar Park</value>
+</name>
 <released>
 <type>typed-literal</type>
 <datatype>http://www.w3.org/2001/XMLSchema#date</datatype>
@@ -57,6 +62,11 @@
 <type>uri</type>
 <value>http://dbpedia.org/resource/Bret_Easton_Ellis</value>
 </author>
+<name>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>Less Than Zero</value>
+</name>
 <released>
 <type>typed-literal</type>
 <datatype>http://www.w3.org/2001/XMLSchema#integer</datatype>
@@ -81,6 +91,11 @@
 <type>uri</type>
 <value>http://dbpedia.org/resource/Bret_Easton_Ellis</value>
 </author>
+<name>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>Glamorama</value>
+</name>
 <released>
 <type>typed-literal</type>
 <datatype>http://www.w3.org/2001/XMLSchema#date</datatype>
@@ -100,6 +115,11 @@
 <type>uri</type>
 <value>http://dbpedia.org/resource/Bret_Easton_Ellis</value>
 </author>
+<name>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>Imperial Bedrooms</value>
+</name>
 <released>
 <type>typed-literal</type>
 <datatype>http://www.w3.org/2001/XMLSchema#date</datatype>
@@ -119,6 +139,11 @@
 <type>uri</type>
 <value>http://dbpedia.org/resource/Bret_Easton_Ellis</value>
 </author>
+<name>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>The Rules of Attraction</value>
+</name>
 <wikilink>
 <type>uri</type>
 <value>http://en.wikipedia.org/wiki/The_Rules_of_Attraction?oldid=603225083</value>

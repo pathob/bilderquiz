@@ -68,6 +68,11 @@
 <type>uri</type>
 <value>http://dbpedia.org/resource/Charles_Dickens</value>
 </author>
+<name>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>David Copperfield</value>
+</name>
 <thumbnail>
 <type>uri</type>
 <value>http://commons.wikimedia.org/wiki/Special:FilePath/Copperfield_cover_serial.jpg?width=300</value>
@@ -96,6 +101,11 @@
 <type>uri</type>
 <value>http://dbpedia.org/resource/Charles_Dickens</value>
 </author>
+<name>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>The Cricket on the Hearth</value>
+</name>
 <thumbnail>
 <type>uri</type>
 <value>http://commons.wikimedia.org/wiki/Special:FilePath/Cricketonthehearth_front.jpg?width=300</value>
@@ -124,6 +134,11 @@
 <type>uri</type>
 <value>http://dbpedia.org/resource/Charles_Dickens</value>
 </author>
+<name>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>The Mystery of Edwin Drood</value>
+</name>
 <thumbnail>
 <type>uri</type>
 <value>http://commons.wikimedia.org/wiki/Special:FilePath/Drood_serial_cover.jpg?width=300</value>
@@ -152,6 +167,11 @@
 <type>uri</type>
 <value>http://dbpedia.org/resource/Charles_Dickens</value>
 </author>
+<name>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>Oliver Twist</value>
+</name>
 <thumbnail>
 <type>uri</type>
 <value>http://commons.wikimedia.org/wiki/Special:FilePath/Olivertwist_front.jpg?width=300</value>
@@ -180,6 +200,11 @@
 <type>uri</type>
 <value>http://dbpedia.org/resource/Charles_Dickens</value>
 </author>
+<name>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>Martin Chuzzlewit</value>
+</name>
 <thumbnail>
 <type>uri</type>
 <value>http://commons.wikimedia.org/wiki/Special:FilePath/Chuzzlewitt_cover_serial.jpg?width=300</value>
@@ -208,6 +233,11 @@
 <type>uri</type>
 <value>http://dbpedia.org/resource/Charles_Dickens</value>
 </author>
+<name>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>Bleak House</value>
+</name>
 <thumbnail>
 <type>uri</type>
 <value>http://commons.wikimedia.org/wiki/Special:FilePath/Bleakhouse_serial_cover.jpg?width=300</value>
@@ -236,6 +266,11 @@
 <type>uri</type>
 <value>http://dbpedia.org/resource/Charles_Dickens</value>
 </author>
+<name>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>The Pickwick Papers</value>
+</name>
 <thumbnail>
 <type>uri</type>
 <value>http://commons.wikimedia.org/wiki/Special:FilePath/Pickwickclub_serial.jpg?width=300</value>
@@ -264,6 +299,11 @@
 <type>uri</type>
 <value>http://dbpedia.org/resource/Charles_Dickens</value>
 </author>
+<name>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>Nicholas Nickleby</value>
+</name>
 <thumbnail>
 <type>uri</type>
 <value>http://commons.wikimedia.org/wiki/Special:FilePath/Nickleby_serialcover.jpg?width=300</value>
@@ -292,6 +332,11 @@
 <type>uri</type>
 <value>http://dbpedia.org/resource/Charles_Dickens</value>
 </author>
+<name>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>The Haunted Man and the Ghost&apos;s Bargain</value>
+</name>
 <thumbnail>
 <type>uri</type>
 <value>http://commons.wikimedia.org/wiki/Special:FilePath/Hauntedman_front_1848.jpg?width=300</value>
@@ -315,6 +360,11 @@
 <type>uri</type>
 <value>http://dbpedia.org/resource/Charles_Dickens</value>
 </author>
+<name>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>The Frozen Deep</value>
+</name>
 <thumbnail>
 <type>uri</type>
 <value>http://commons.wikimedia.org/wiki/Special:FilePath/Frozendeep_cover.jpg?width=300</value>
@@ -338,6 +388,11 @@
 <type>uri</type>
 <value>http://dbpedia.org/resource/Charles_Dickens</value>
 </author>
+<name>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>The Old Curiosity Shop</value>
+</name>
 <thumbnail>
 <type>uri</type>
 <value>http://commons.wikimedia.org/wiki/Special:FilePath/Masterclock_serial_cover.jpg?width=300</value>
@@ -361,6 +416,11 @@
 <type>uri</type>
 <value>http://dbpedia.org/resource/Charles_Dickens</value>
 </author>
+<name>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>Pictures from Italy</value>
+</name>
 <thumbnail>
 <type>uri</type>
 <value>http://commons.wikimedia.org/wiki/Special:FilePath/Picturesfromitaly_titlepage.jpg?width=300</value>
@@ -384,6 +444,11 @@
 <type>uri</type>
 <value>http://dbpedia.org/resource/Charles_Dickens</value>
 </author>
+<name>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>Dealings with the Firm</value>
+</name>
 <thumbnail>
 <type>uri</type>
 <value>http://commons.wikimedia.org/wiki/Special:FilePath/Dombeyson_serial_cover.jpg?width=300</value>
@@ -407,6 +472,11 @@
 <type>uri</type>
 <value>http://dbpedia.org/resource/Charles_Dickens</value>
 </author>
+<name>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>Great Expectations</value>
+</name>
 <thumbnail>
 <type>uri</type>
 <value>http://commons.wikimedia.org/wiki/Special:FilePath/Greatexpectations_vol1.jpg?width=300</value>
@@ -430,6 +500,11 @@
 <type>uri</type>
 <value>http://dbpedia.org/resource/Charles_Dickens</value>
 </author>
+<name>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>Little Dorrit</value>
+</name>
 <thumbnail>
 <type>uri</type>
 <value>http://commons.wikimedia.org/wiki/Special:FilePath/Littledorrit_serial_cover.jpg?width=300</value>
@@ -453,6 +528,11 @@
 <type>uri</type>
 <value>http://dbpedia.org/resource/Charles_Dickens</value>
 </author>
+<name>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>The Chimes</value>
+</name>
 <thumbnail>
 <type>uri</type>
 <value>http://commons.wikimedia.org/wiki/Special:FilePath/Thechimes_titlepage_1ed.jpg?width=300</value>
@@ -476,6 +556,11 @@
 <type>uri</type>
 <value>http://dbpedia.org/resource/Charles_Dickens</value>
 </author>
+<name>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>Memoirs of Joseph Grimaldi</value>
+</name>
 <thumbnail>
 <type>uri</type>
 <value>http://commons.wikimedia.org/wiki/Special:FilePath/Grimaldimemoirs_front.jpg?width=300</value>
@@ -499,6 +584,11 @@
 <type>uri</type>
 <value>http://dbpedia.org/resource/Charles_Dickens</value>
 </author>
+<name>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>Barnaby Rudge</value>
+</name>
 <thumbnail>
 <type>uri</type>
 <value>http://commons.wikimedia.org/wiki/Special:FilePath/Masterclock_serial_cover.jpg?width=300</value>
@@ -522,6 +612,11 @@
 <type>uri</type>
 <value>http://dbpedia.org/resource/Charles_Dickens</value>
 </author>
+<name>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>Hard Times</value>
+</name>
 <thumbnail>
 <type>uri</type>
 <value>http://commons.wikimedia.org/wiki/Special:FilePath/Hardtimes_serial_cover.jpg?width=300</value>
@@ -545,6 +640,11 @@
 <type>uri</type>
 <value>http://dbpedia.org/resource/Charles_Dickens</value>
 </author>
+<name>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>All The Year Round</value>
+</name>
 <thumbnail>
 <type>uri</type>
 <value>http://commons.wikimedia.org/wiki/Special:FilePath/Alltheyearround_1891.jpg?width=300</value>
@@ -568,6 +668,11 @@
 <type>uri</type>
 <value>http://dbpedia.org/resource/Charles_Dickens</value>
 </author>
+<name>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>American Notes</value>
+</name>
 <thumbnail>
 <type>uri</type>
 <value>http://commons.wikimedia.org/wiki/Special:FilePath/Americannotes-title_page.jpg?width=300</value>
@@ -591,6 +696,11 @@
 <type>uri</type>
 <value>http://dbpedia.org/resource/Charles_Dickens</value>
 </author>
+<name>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>Master Humphrey&apos;s Clock</value>
+</name>
 <thumbnail>
 <type>uri</type>
 <value>http://commons.wikimedia.org/wiki/Special:FilePath/Masterclock_serial_cover.jpg?width=300</value>
@@ -614,6 +724,11 @@
 <type>uri</type>
 <value>http://dbpedia.org/resource/Charles_Dickens</value>
 </author>
+<name>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>A Christmas Carol</value>
+</name>
 <thumbnail>
 <type>uri</type>
 <value>http://commons.wikimedia.org/wiki/Special:FilePath/Charles_Dickens-A_Christmas_Carol-Title_page-First_edition_1843.jpg?width=300</value>
@@ -642,6 +757,11 @@
 <type>uri</type>
 <value>http://dbpedia.org/resource/Charles_Dickens</value>
 </author>
+<name>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>Household Words, A Weekly Journal conducted by Charles Dickens</value>
+</name>
 <thumbnail>
 <type>uri</type>
 <value>http://commons.wikimedia.org/wiki/Special:FilePath/Householdwordsvol2.jpg?width=300</value>
@@ -665,6 +785,11 @@
 <type>uri</type>
 <value>http://dbpedia.org/resource/Charles_Dickens</value>
 </author>
+<name>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>A Tale of Two Cities</value>
+</name>
 <thumbnail>
 <type>uri</type>
 <value>http://commons.wikimedia.org/wiki/Special:FilePath/Tales_serial.jpg?width=300</value>
@@ -688,6 +813,11 @@
 <type>uri</type>
 <value>http://dbpedia.org/resource/Charles_Dickens</value>
 </author>
+<name>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>Bentley&apos;s Miscellany</value>
+</name>
 <thumbnail>
 <type>uri</type>
 <value>http://commons.wikimedia.org/wiki/Special:FilePath/Bentley&apos;smisc_cover.jpg?width=300</value>
@@ -706,6 +836,11 @@
 <type>uri</type>
 <value>http://dbpedia.org/resource/Charles_Dickens</value>
 </author>
+<name>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>The Daily News</value>
+</name>
 <thumbnail>
 <type>uri</type>
 <value>http://commons.wikimedia.org/wiki/Special:FilePath/Dailynews-cover.jpg?width=300</value>
@@ -724,6 +859,11 @@
 <type>uri</type>
 <value>http://dbpedia.org/resource/Charles_Dickens</value>
 </author>
+<name>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>Sketches by &quot;Boz,&quot; Illustrative of Every-day Life and Every-day People</value>
+</name>
 <thumbnail>
 <type>uri</type>
 <value>http://commons.wikimedia.org/wiki/Special:FilePath/SketchesbyBoz_front.jpg?width=300</value>
@@ -742,6 +882,11 @@
 <type>uri</type>
 <value>http://dbpedia.org/resource/Charles_Dickens</value>
 </author>
+<name>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>Our Mutual Friend</value>
+</name>
 <released>
 <type>typed-literal</type>
 <datatype>http://www.w3.org/2001/XMLSchema#integer</datatype>
@@ -766,6 +911,11 @@
 <type>uri</type>
 <value>http://dbpedia.org/resource/Charles_Dickens</value>
 </author>
+<name>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>A Child&apos;s History of England</value>
+</name>
 <released>
 <type>typed-literal</type>
 <datatype>http://www.w3.org/2001/XMLSchema#integer</datatype>

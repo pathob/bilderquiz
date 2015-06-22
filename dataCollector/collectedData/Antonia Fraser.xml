@@ -37,6 +37,11 @@
 <type>uri</type>
 <value>http://dbpedia.org/resource/Antonia_Fraser</value>
 </author>
+<name>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>Oxford Blood</value>
+</name>
 <released>
 <type>typed-literal</type>
 <datatype>http://www.w3.org/2001/XMLSchema#date</datatype>

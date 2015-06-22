@@ -38,6 +38,11 @@
 <type>uri</type>
 <value>http://dbpedia.org/resource/Georges_Bataille</value>
 </author>
+<name>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>Inner Experience</value>
+</name>
 <published>
 <type>literal</type>
 <xml:lang>en</xml:lang>
@@ -58,6 +63,11 @@
 <type>uri</type>
 <value>http://dbpedia.org/resource/Georges_Bataille</value>
 </author>
+<name>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>L&apos;anus solaire</value>
+</name>
 <wikilink>
 <type>uri</type>
 <value>http://en.wikipedia.org/wiki/The_Solar_Anus?oldid=585308041</value>
@@ -72,6 +82,11 @@
 <type>uri</type>
 <value>http://dbpedia.org/resource/Georges_Bataille</value>
 </author>
+<name>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>Le Bleu du Ciel</value>
+</name>
 <wikilink>
 <type>uri</type>
 <value>http://en.wikipedia.org/wiki/Blue_of_Noon?oldid=565307980</value>

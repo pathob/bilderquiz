@@ -35,6 +35,11 @@
 <type>uri</type>
 <value>http://dbpedia.org/resource/Marguerite_Duras</value>
 </author>
+<name>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>Moderato Cantabile</value>
+</name>
 <released>
 <type>typed-literal</type>
 <datatype>http://www.w3.org/2001/XMLSchema#integer</datatype>
@@ -54,6 +59,11 @@
 <type>uri</type>
 <value>http://dbpedia.org/resource/Marguerite_Duras</value>
 </author>
+<name>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>L&apos;Amant</value>
+</name>
 <wikilink>
 <type>uri</type>
 <value>http://en.wikipedia.org/wiki/The_Lover_(1984_novel)?oldid=544884144</value>
@@ -73,6 +83,11 @@
 <type>uri</type>
 <value>http://dbpedia.org/resource/Marguerite_Duras</value>
 </author>
+<name>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>The Malady of Death</value>
+</name>
 <wikilink>
 <type>uri</type>
 <value>http://en.wikipedia.org/wiki/The_Malady_of_Death?oldid=583309508</value>
@@ -87,6 +102,11 @@
 <type>uri</type>
 <value>http://dbpedia.org/resource/Marguerite_Duras</value>
 </author>
+<name>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>The Sea Wall</value>
+</name>
 <wikilink>
 <type>uri</type>
 <value>http://en.wikipedia.org/wiki/The_Sea_Wall_(novel)?oldid=546331536</value>
@@ -101,6 +121,11 @@
 <type>uri</type>
 <value>http://dbpedia.org/resource/Marguerite_Duras</value>
 </author>
+<name>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>Blue Eyes, Black Hair</value>
+</name>
 <wikilink>
 <type>uri</type>
 <value>http://en.wikipedia.org/wiki/Blue_Eyes,_Black_Hair?oldid=605932142</value>
@@ -115,6 +140,11 @@
 <type>uri</type>
 <value>http://dbpedia.org/resource/Marguerite_Duras</value>
 </author>
+<name>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>Dix heures et demie du soir en été</value>
+</name>
 <wikilink>
 <type>uri</type>
 <value>http://en.wikipedia.org/wiki/Ten-Thirty_on_a_Summer_Night?oldid=534608196</value>

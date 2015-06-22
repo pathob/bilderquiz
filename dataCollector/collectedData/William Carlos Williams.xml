@@ -29,6 +29,11 @@
 <type>uri</type>
 <value>http://dbpedia.org/resource/William_Carlos_Williams</value>
 </author>
+<name>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>The Use of Force</value>
+</name>
 <released>
 <type>typed-literal</type>
 <datatype>http://www.w3.org/2001/XMLSchema#integer</datatype>

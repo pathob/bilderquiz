@@ -41,6 +41,11 @@
 <type>uri</type>
 <value>http://dbpedia.org/resource/Hendrik_Willem_van_Loon</value>
 </author>
+<name>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>The Story of Mankind</value>
+</name>
 <released>
 <type>typed-literal</type>
 <datatype>http://www.w3.org/2001/XMLSchema#integer</datatype>

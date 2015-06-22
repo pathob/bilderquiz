@@ -30,6 +30,11 @@
 <type>uri</type>
 <value>http://dbpedia.org/resource/William_Dean_Howells</value>
 </author>
+<name>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>A Traveler from Altruria</value>
+</name>
 <thumbnail>
 <type>uri</type>
 <value>http://commons.wikimedia.org/wiki/Special:FilePath/CosmopolitanMagazineMarch1894.jpg?width=300</value>
@@ -53,6 +58,11 @@
 <type>uri</type>
 <value>http://dbpedia.org/resource/William_Dean_Howells</value>
 </author>
+<name>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>The Sleeping Car</value>
+</name>
 <thumbnail>
 <type>uri</type>
 <value>http://commons.wikimedia.org/wiki/Special:FilePath/Sleeping-car.jpg?width=300</value>
@@ -76,6 +86,11 @@
 <type>uri</type>
 <value>http://dbpedia.org/resource/William_Dean_Howells</value>
 </author>
+<name>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>A Counterfeit Presentment</value>
+</name>
 <thumbnail>
 <type>uri</type>
 <value>http://commons.wikimedia.org/wiki/Special:FilePath/ACounterfeitPresentment.JPG?width=300</value>
@@ -94,6 +109,11 @@
 <type>uri</type>
 <value>http://dbpedia.org/resource/William_Dean_Howells</value>
 </author>
+<name>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>Stops of Various Quills</value>
+</name>
 <thumbnail>
 <type>uri</type>
 <value>http://commons.wikimedia.org/wiki/Special:FilePath/Howells,_Stops_of_Various_Quills,_1895_cover.jpg?width=300</value>
@@ -112,6 +132,11 @@
 <type>uri</type>
 <value>http://dbpedia.org/resource/William_Dean_Howells</value>
 </author>
+<name>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>An Imperative Duty: A Novel</value>
+</name>
 <released>
 <type>typed-literal</type>
 <datatype>http://www.w3.org/2001/XMLSchema#integer</datatype>
@@ -131,6 +156,11 @@
 <type>uri</type>
 <value>http://dbpedia.org/resource/William_Dean_Howells</value>
 </author>
+<name>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>The Rise of Silas Lapham</value>
+</name>
 <released>
 <type>typed-literal</type>
 <datatype>http://www.w3.org/2001/XMLSchema#integer</datatype>
@@ -150,6 +180,11 @@
 <type>uri</type>
 <value>http://dbpedia.org/resource/William_Dean_Howells</value>
 </author>
+<name>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>Through the Eye of the Needle</value>
+</name>
 <wikilink>
 <type>uri</type>
 <value>http://en.wikipedia.org/wiki/Through_the_Eye_of_the_Needle?oldid=603729212</value>
@@ -164,6 +199,11 @@
 <type>uri</type>
 <value>http://dbpedia.org/resource/William_Dean_Howells</value>
 </author>
+<name>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>A Modern Instance</value>
+</name>
 <wikilink>
 <type>uri</type>
 <value>http://en.wikipedia.org/wiki/A_Modern_Instance?oldid=595031329</value>
@@ -178,6 +218,11 @@
 <type>uri</type>
 <value>http://dbpedia.org/resource/William_Dean_Howells</value>
 </author>
+<name>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>The Lady of The Aroostook</value>
+</name>
 <wikilink>
 <type>uri</type>
 <value>http://en.wikipedia.org/wiki/The_Lady_of_The_Aroostook?oldid=595350567</value>
@@ -192,6 +237,11 @@
 <type>uri</type>
 <value>http://dbpedia.org/resource/William_Dean_Howells</value>
 </author>
+<name>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>A Hazard of New Fortunes</value>
+</name>
 <wikilink>
 <type>uri</type>
 <value>http://en.wikipedia.org/wiki/A_Hazard_of_New_Fortunes?oldid=587324944</value>

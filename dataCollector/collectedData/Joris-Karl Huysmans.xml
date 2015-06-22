@@ -40,6 +40,11 @@
 <type>uri</type>
 <value>http://dbpedia.org/resource/Joris-Karl_Huysmans</value>
 </author>
+<name>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>À vau-l&apos;eau</value>
+</name>
 <published>
 <type>typed-literal</type>
 <datatype>http://www.w3.org/2001/XMLSchema#gMonthDay</datatype>
@@ -59,6 +64,11 @@
 <type>uri</type>
 <value>http://dbpedia.org/resource/Joris-Karl_Huysmans</value>
 </author>
+<name>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>À rebours</value>
+</name>
 <wikilink>
 <type>uri</type>
 <value>http://en.wikipedia.org/wiki/À_rebours?oldid=596034849</value>

@@ -34,6 +34,11 @@
 <type>uri</type>
 <value>http://dbpedia.org/resource/Eva_Ibbotson</value>
 </author>
+<name>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>Dial-a-Ghost</value>
+</name>
 <released>
 <type>typed-literal</type>
 <datatype>http://www.w3.org/2001/XMLSchema#integer</datatype>
@@ -53,6 +58,11 @@
 <type>uri</type>
 <value>http://dbpedia.org/resource/Eva_Ibbotson</value>
 </author>
+<name>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>aka The Secret Countess</value>
+</name>
 <published>
 <type>typed-literal</type>
 <datatype>http://www.w3.org/2001/XMLSchema#integer</datatype>
@@ -72,6 +82,11 @@
 <type>uri</type>
 <value>http://dbpedia.org/resource/Eva_Ibbotson</value>
 </author>
+<name>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>A Company of Swans</value>
+</name>
 <published>
 <type>typed-literal</type>
 <datatype>http://www.w3.org/2001/XMLSchema#integer</datatype>
@@ -91,6 +106,11 @@
 <type>uri</type>
 <value>http://dbpedia.org/resource/Eva_Ibbotson</value>
 </author>
+<name>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>Journey to the River Sea</value>
+</name>
 <wikilink>
 <type>uri</type>
 <value>http://en.wikipedia.org/wiki/Journey_to_the_River_Sea?oldid=606658110</value>
@@ -110,6 +130,11 @@
 <type>uri</type>
 <value>http://dbpedia.org/resource/Eva_Ibbotson</value>
 </author>
+<name>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>The Haunting of Hiram C. Hopgood</value>
+</name>
 <wikilink>
 <type>uri</type>
 <value>http://en.wikipedia.org/wiki/The_Haunting_of_Hiram_C._Hopgood?oldid=561237015</value>
@@ -124,6 +149,11 @@
 <type>uri</type>
 <value>http://dbpedia.org/resource/Eva_Ibbotson</value>
 </author>
+<name>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>The Star of Kazan</value>
+</name>
 <wikilink>
 <type>uri</type>
 <value>http://en.wikipedia.org/wiki/The_Star_of_Kazan?oldid=604671379</value>
@@ -138,6 +168,11 @@
 <type>uri</type>
 <value>http://dbpedia.org/resource/Eva_Ibbotson</value>
 </author>
+<name>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>The Morning Gift</value>
+</name>
 <wikilink>
 <type>uri</type>
 <value>http://en.wikipedia.org/wiki/The_Morning_Gift?oldid=604318507</value>
@@ -152,6 +187,11 @@
 <type>uri</type>
 <value>http://dbpedia.org/resource/Eva_Ibbotson</value>
 </author>
+<name>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>Which Witch?</value>
+</name>
 <wikilink>
 <type>uri</type>
 <value>http://en.wikipedia.org/wiki/Which_Witch%3F_(novel)?oldid=561237111</value>
@@ -166,6 +206,11 @@
 <type>uri</type>
 <value>http://dbpedia.org/resource/Eva_Ibbotson</value>
 </author>
+<name>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>The Great Ghost Rescue</value>
+</name>
 <wikilink>
 <type>uri</type>
 <value>http://en.wikipedia.org/wiki/The_Great_Ghost_Rescue?oldid=565048783</value>
@@ -180,6 +225,11 @@
 <type>uri</type>
 <value>http://dbpedia.org/resource/Eva_Ibbotson</value>
 </author>
+<name>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>A Song for Summer</value>
+</name>
 <wikilink>
 <type>uri</type>
 <value>http://en.wikipedia.org/wiki/A_Song_for_Summer?oldid=544915222</value>
@@ -194,6 +244,11 @@
 <type>uri</type>
 <value>http://dbpedia.org/resource/Eva_Ibbotson</value>
 </author>
+<name>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>The Dragonfly Pool</value>
+</name>
 <wikilink>
 <type>uri</type>
 <value>http://en.wikipedia.org/wiki/The_Dragonfly_Pool?oldid=587263474</value>

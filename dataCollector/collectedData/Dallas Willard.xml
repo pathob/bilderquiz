@@ -31,6 +31,11 @@
 <type>uri</type>
 <value>http://dbpedia.org/resource/Dallas_Willard</value>
 </author>
+<name>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>Renovation of the Heart</value>
+</name>
 <released>
 <type>typed-literal</type>
 <datatype>http://www.w3.org/2001/XMLSchema#integer</datatype>

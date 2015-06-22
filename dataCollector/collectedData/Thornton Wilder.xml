@@ -35,6 +35,11 @@
 <type>uri</type>
 <value>http://dbpedia.org/resource/Thornton_Wilder</value>
 </author>
+<name>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>The Bridge of San Luis Rey</value>
+</name>
 <released>
 <type>typed-literal</type>
 <datatype>http://www.w3.org/2001/XMLSchema#integer</datatype>
@@ -59,6 +64,11 @@
 <type>uri</type>
 <value>http://dbpedia.org/resource/Thornton_Wilder</value>
 </author>
+<name>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>Theophilus North</value>
+</name>
 <released>
 <type>typed-literal</type>
 <datatype>http://www.w3.org/2001/XMLSchema#integer</datatype>
@@ -78,6 +88,11 @@
 <type>uri</type>
 <value>http://dbpedia.org/resource/Thornton_Wilder</value>
 </author>
+<name>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>The Ides of March</value>
+</name>
 <wikilink>
 <type>uri</type>
 <value>http://en.wikipedia.org/wiki/The_Ides_of_March_(novel)?oldid=592344472</value>

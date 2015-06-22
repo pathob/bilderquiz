@@ -45,6 +45,11 @@
 <type>uri</type>
 <value>http://dbpedia.org/resource/Dietrich_Bonhoeffer</value>
 </author>
+<name>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>The Cost of Discipleship</value>
+</name>
 <released>
 <type>typed-literal</type>
 <datatype>http://www.w3.org/2001/XMLSchema#integer</datatype>
@@ -64,6 +69,11 @@
 <type>uri</type>
 <value>http://dbpedia.org/resource/Dietrich_Bonhoeffer</value>
 </author>
+<name>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>Gemeinsames Leben</value>
+</name>
 <wikilink>
 <type>uri</type>
 <value>http://en.wikipedia.org/wiki/Life_Together?oldid=592982205</value>

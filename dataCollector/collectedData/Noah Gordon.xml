@@ -32,6 +32,11 @@
 <type>uri</type>
 <value>http://dbpedia.org/resource/Noah_Gordon_(novelist)</value>
 </author>
+<name>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>The Physician</value>
+</name>
 <wikilink>
 <type>uri</type>
 <value>http://en.wikipedia.org/wiki/The_Physician?oldid=606691697</value>

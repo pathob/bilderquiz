@@ -45,6 +45,11 @@
 <type>uri</type>
 <value>http://dbpedia.org/resource/Tahar_Ben_Jelloun</value>
 </author>
+<name>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>The Sand Child</value>
+</name>
 <released>
 <type>typed-literal</type>
 <datatype>http://www.w3.org/2001/XMLSchema#integer</datatype>
@@ -64,6 +69,11 @@
 <type>uri</type>
 <value>http://dbpedia.org/resource/Tahar_Ben_Jelloun</value>
 </author>
+<name>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>Racism Explained to My Daughter</value>
+</name>
 <published>
 <type>typed-literal</type>
 <datatype>http://www.w3.org/2001/XMLSchema#integer</datatype>
@@ -83,6 +93,11 @@
 <type>uri</type>
 <value>http://dbpedia.org/resource/Tahar_Ben_Jelloun</value>
 </author>
+<name>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>Cette aveuglante absence de lumière</value>
+</name>
 <wikilink>
 <type>uri</type>
 <value>http://en.wikipedia.org/wiki/This_Blinding_Absence_of_Light?oldid=542685481</value>

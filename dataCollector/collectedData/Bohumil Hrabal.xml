@@ -40,6 +40,11 @@
 <type>uri</type>
 <value>http://dbpedia.org/resource/Bohumil_Hrabal</value>
 </author>
+<name>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>Too Loud a Solitude</value>
+</name>
 <thumbnail>
 <type>uri</type>
 <value>http://commons.wikimedia.org/wiki/Special:FilePath/Library_Walk_38.JPG?width=300</value>
@@ -63,6 +68,11 @@
 <type>uri</type>
 <value>http://dbpedia.org/resource/Bohumil_Hrabal</value>
 </author>
+<name>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>Taneční hodiny pro starší a pokročilé</value>
+</name>
 <wikilink>
 <type>uri</type>
 <value>http://en.wikipedia.org/wiki/Dancing_Lessons_for_the_Advanced_in_Age?oldid=584518115</value>
@@ -77,6 +87,11 @@
 <type>uri</type>
 <value>http://dbpedia.org/resource/Bohumil_Hrabal</value>
 </author>
+<name>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>I Served the King of England</value>
+</name>
 <wikilink>
 <type>uri</type>
 <value>http://en.wikipedia.org/wiki/I_Served_the_King_of_England?oldid=592945434</value>

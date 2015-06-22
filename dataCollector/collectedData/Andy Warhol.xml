@@ -68,6 +68,11 @@
 <type>uri</type>
 <value>http://dbpedia.org/resource/Andy_Warhol</value>
 </author>
+<name>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>a, A Novel</value>
+</name>
 <wikilink>
 <type>uri</type>
 <value>http://en.wikipedia.org/wiki/A,_A_Novel?oldid=606462638</value>

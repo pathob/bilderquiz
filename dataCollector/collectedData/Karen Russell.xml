@@ -28,6 +28,11 @@
 <type>uri</type>
 <value>http://dbpedia.org/resource/Karen_Russell</value>
 </author>
+<name>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>Swamplandia!</value>
+</name>
 <wikilink>
 <type>uri</type>
 <value>http://en.wikipedia.org/wiki/Swamplandia!?oldid=602879145</value>

@@ -30,6 +30,11 @@
 <type>uri</type>
 <value>http://dbpedia.org/resource/Cees_Nooteboom</value>
 </author>
+<name>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>Lost Paradise</value>
+</name>
 <wikilink>
 <type>uri</type>
 <value>http://en.wikipedia.org/wiki/Lost_Paradise_(novel)?oldid=546323260</value>
@@ -49,6 +54,11 @@
 <type>uri</type>
 <value>http://dbpedia.org/resource/Cees_Nooteboom</value>
 </author>
+<name>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>Rituals</value>
+</name>
 <wikilink>
 <type>uri</type>
 <value>http://en.wikipedia.org/wiki/Rituals_(novel)?oldid=539191273</value>
@@ -68,6 +78,11 @@
 <type>uri</type>
 <value>http://dbpedia.org/resource/Cees_Nooteboom</value>
 </author>
+<name>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>Het volgende verhaal</value>
+</name>
 <wikilink>
 <type>uri</type>
 <value>http://en.wikipedia.org/wiki/The_Following_Story?oldid=564956715</value>
@@ -87,6 +102,11 @@
 <type>uri</type>
 <value>http://dbpedia.org/resource/Cees_Nooteboom</value>
 </author>
+<name>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>All Souls&apos; Day</value>
+</name>
 <wikilink>
 <type>uri</type>
 <value>http://en.wikipedia.org/wiki/All_Souls&apos;_Day_(novel)?oldid=546314916</value>
@@ -106,6 +126,11 @@
 <type>uri</type>
 <value>http://dbpedia.org/resource/Cees_Nooteboom</value>
 </author>
+<name>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>Philip and the Others</value>
+</name>
 <wikilink>
 <type>uri</type>
 <value>http://en.wikipedia.org/wiki/Philip_and_the_Others?oldid=594904959</value>
@@ -120,6 +145,11 @@
 <type>uri</type>
 <value>http://dbpedia.org/resource/Cees_Nooteboom</value>
 </author>
+<name>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>De omweg naar Santiago</value>
+</name>
 <wikilink>
 <type>uri</type>
 <value>http://en.wikipedia.org/wiki/Roads_to_Santiago?oldid=572468623</value>

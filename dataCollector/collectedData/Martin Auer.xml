@@ -40,6 +40,11 @@
 <type>uri</type>
 <value>http://dbpedia.org/resource/Martin_Auer</value>
 </author>
+<name>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>The Blue Boy</value>
+</name>
 <released>
 <type>typed-literal</type>
 <datatype>http://www.w3.org/2001/XMLSchema#integer</datatype>
@@ -59,6 +64,11 @@
 <type>uri</type>
 <value>http://dbpedia.org/resource/Martin_Auer</value>
 </author>
+<name>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>Bimbo und sein Vogel</value>
+</name>
 <released>
 <type>typed-literal</type>
 <datatype>http://www.w3.org/2001/XMLSchema#integer</datatype>

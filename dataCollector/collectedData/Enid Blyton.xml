@@ -42,6 +42,11 @@
 <type>uri</type>
 <value>http://dbpedia.org/resource/Enid_Blyton</value>
 </author>
+<name>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>The Naughtiest Girl in the School</value>
+</name>
 <published>
 <type>typed-literal</type>
 <datatype>http://www.w3.org/2001/XMLSchema#integer</datatype>
@@ -61,6 +66,11 @@
 <type>uri</type>
 <value>http://dbpedia.org/resource/Enid_Blyton</value>
 </author>
+<name>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>Five Get Into A Fix</value>
+</name>
 <wikilink>
 <type>uri</type>
 <value>http://en.wikipedia.org/wiki/Five_Get_into_a_Fix?oldid=586479395</value>
@@ -75,6 +85,11 @@
 <type>uri</type>
 <value>http://dbpedia.org/resource/Enid_Blyton</value>
 </author>
+<name>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>The Mystery of the Strange Messages</value>
+</name>
 <wikilink>
 <type>uri</type>
 <value>http://en.wikipedia.org/wiki/The_Mystery_of_the_Strange_Messages?oldid=599750565</value>
@@ -89,6 +104,11 @@
 <type>uri</type>
 <value>http://dbpedia.org/resource/Enid_Blyton</value>
 </author>
+<name>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>Five on a Treasure Island</value>
+</name>
 <wikilink>
 <type>uri</type>
 <value>http://en.wikipedia.org/wiki/Five_on_a_Treasure_Island?oldid=600600906</value>
@@ -103,6 +123,11 @@
 <type>uri</type>
 <value>http://dbpedia.org/resource/Enid_Blyton</value>
 </author>
+<name>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>The Second Form at St. Clare&apos;s</value>
+</name>
 <wikilink>
 <type>uri</type>
 <value>http://en.wikipedia.org/wiki/The_Second_Form_at_St._Clare&apos;s?oldid=596527806</value>
@@ -117,6 +142,11 @@
 <type>uri</type>
 <value>http://dbpedia.org/resource/Enid_Blyton</value>
 </author>
+<name>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>Five go Adventuring Again</value>
+</name>
 <wikilink>
 <type>uri</type>
 <value>http://en.wikipedia.org/wiki/Five_Go_Adventuring_Again?oldid=586479464</value>
@@ -131,6 +161,11 @@
 <type>uri</type>
 <value>http://dbpedia.org/resource/Enid_Blyton</value>
 </author>
+<name>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>Five Go Off in a Caravan</value>
+</name>
 <wikilink>
 <type>uri</type>
 <value>http://en.wikipedia.org/wiki/Five_Go_Off_in_a_Caravan?oldid=598179387</value>
@@ -145,6 +180,11 @@
 <type>uri</type>
 <value>http://dbpedia.org/resource/Enid_Blyton</value>
 </author>
+<name>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>Five Go to Smuggler&apos;s Top</value>
+</name>
 <wikilink>
 <type>uri</type>
 <value>http://en.wikipedia.org/wiki/Five_Go_to_Smuggler&apos;s_Top?oldid=586750430</value>
@@ -159,6 +199,11 @@
 <type>uri</type>
 <value>http://dbpedia.org/resource/Enid_Blyton</value>
 </author>
+<name>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>Five Run Away Together</value>
+</name>
 <wikilink>
 <type>uri</type>
 <value>http://en.wikipedia.org/wiki/Five_Run_Away_Together?oldid=586750425</value>
@@ -173,6 +218,11 @@
 <type>uri</type>
 <value>http://dbpedia.org/resource/Enid_Blyton</value>
 </author>
+<name>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>Claudine at St.Clare&apos;s</value>
+</name>
 <wikilink>
 <type>uri</type>
 <value>http://en.wikipedia.org/wiki/Claudine_at_St.Clare&apos;s?oldid=596527990</value>
@@ -187,6 +237,11 @@
 <type>uri</type>
 <value>http://dbpedia.org/resource/Enid_Blyton</value>
 </author>
+<name>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>The Castle of Adventure</value>
+</name>
 <wikilink>
 <type>uri</type>
 <value>http://en.wikipedia.org/wiki/The_Castle_of_Adventure?oldid=583677435</value>
@@ -201,6 +256,11 @@
 <type>uri</type>
 <value>http://dbpedia.org/resource/Enid_Blyton</value>
 </author>
+<name>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>Five Go Down To The Sea</value>
+</name>
 <wikilink>
 <type>uri</type>
 <value>http://en.wikipedia.org/wiki/Five_Go_Down_to_the_Sea?oldid=586479508</value>
@@ -215,6 +275,11 @@
 <type>uri</type>
 <value>http://dbpedia.org/resource/Enid_Blyton</value>
 </author>
+<name>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>The Valley of Adventure</value>
+</name>
 <wikilink>
 <type>uri</type>
 <value>http://en.wikipedia.org/wiki/The_Valley_of_Adventure?oldid=560067925</value>
@@ -229,6 +294,11 @@
 <type>uri</type>
 <value>http://dbpedia.org/resource/Enid_Blyton</value>
 </author>
+<name>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>Five Have A Wonderful Time</value>
+</name>
 <wikilink>
 <type>uri</type>
 <value>http://en.wikipedia.org/wiki/Five_Have_a_Wonderful_Time?oldid=586518878</value>
@@ -243,6 +313,11 @@
 <type>uri</type>
 <value>http://dbpedia.org/resource/Enid_Blyton</value>
 </author>
+<name>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>Five Go To Demon&amp;#39;s Rocks</value>
+</name>
 <wikilink>
 <type>uri</type>
 <value>http://en.wikipedia.org/wiki/Five_Go_to_Demon&apos;s_Rocks?oldid=586518200</value>
@@ -257,6 +332,11 @@
 <type>uri</type>
 <value>http://dbpedia.org/resource/Enid_Blyton</value>
 </author>
+<name>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>The Sixth Form at St. Clare&apos;s</value>
+</name>
 <wikilink>
 <type>uri</type>
 <value>http://en.wikipedia.org/wiki/The_Sixth_Form_at_St._Clare&apos;s?oldid=547391937</value>
@@ -271,6 +351,11 @@
 <type>uri</type>
 <value>http://dbpedia.org/resource/Enid_Blyton</value>
 </author>
+<name>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>Five On A Secret Trail</value>
+</name>
 <wikilink>
 <type>uri</type>
 <value>http://en.wikipedia.org/wiki/Five_on_a_Secret_Trail?oldid=582225459</value>
@@ -285,6 +370,11 @@
 <type>uri</type>
 <value>http://dbpedia.org/resource/Enid_Blyton</value>
 </author>
+<name>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>The Enchanted Wood</value>
+</name>
 <wikilink>
 <type>uri</type>
 <value>http://en.wikipedia.org/wiki/The_Enchanted_Wood_(novel)?oldid=600638041</value>
@@ -299,6 +389,11 @@
 <type>uri</type>
 <value>http://dbpedia.org/resource/Enid_Blyton</value>
 </author>
+<name>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>Five On Kirrin Island Again</value>
+</name>
 <wikilink>
 <type>uri</type>
 <value>http://en.wikipedia.org/wiki/Five_on_Kirrin_Island_Again?oldid=592724665</value>
@@ -313,6 +408,11 @@
 <type>uri</type>
 <value>http://dbpedia.org/resource/Enid_Blyton</value>
 </author>
+<name>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>The Magic Faraway Tree 23</value>
+</name>
 <wikilink>
 <type>uri</type>
 <value>http://en.wikipedia.org/wiki/The_Magic_Faraway_Tree_(novel)?oldid=594107141</value>
@@ -327,6 +427,11 @@
 <type>uri</type>
 <value>http://dbpedia.org/resource/Enid_Blyton</value>
 </author>
+<name>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>Five Get into Trouble</value>
+</name>
 <wikilink>
 <type>uri</type>
 <value>http://en.wikipedia.org/wiki/Five_Get_into_Trouble?oldid=600604904</value>
@@ -341,6 +446,11 @@
 <type>uri</type>
 <value>http://dbpedia.org/resource/Enid_Blyton</value>
 </author>
+<name>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>Five Have A Mystery To Solve</value>
+</name>
 <wikilink>
 <type>uri</type>
 <value>http://en.wikipedia.org/wiki/Five_Have_a_Mystery_to_Solve?oldid=586936748</value>
@@ -355,6 +465,11 @@
 <type>uri</type>
 <value>http://dbpedia.org/resource/Enid_Blyton</value>
 </author>
+<name>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>Five On A Hike Together</value>
+</name>
 <wikilink>
 <type>uri</type>
 <value>http://en.wikipedia.org/wiki/Five_on_a_Hike_Together?oldid=586519127</value>
@@ -369,6 +484,11 @@
 <type>uri</type>
 <value>http://dbpedia.org/resource/Enid_Blyton</value>
 </author>
+<name>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>The Mystery of the Disappearing Cat</value>
+</name>
 <wikilink>
 <type>uri</type>
 <value>http://en.wikipedia.org/wiki/The_Mystery_of_the_Disappearing_Cat?oldid=595640757</value>
@@ -383,6 +503,11 @@
 <type>uri</type>
 <value>http://dbpedia.org/resource/Enid_Blyton</value>
 </author>
+<name>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>Five Go To Billycock Hill</value>
+</name>
 <wikilink>
 <type>uri</type>
 <value>http://en.wikipedia.org/wiki/Five_Go_to_Billycock_Hill?oldid=586517975</value>
@@ -397,6 +522,11 @@
 <type>uri</type>
 <value>http://dbpedia.org/resource/Enid_Blyton</value>
 </author>
+<name>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>The Mystery of Holly Lane</value>
+</name>
 <wikilink>
 <type>uri</type>
 <value>http://en.wikipedia.org/wiki/The_Mystery_of_Holly_Lane?oldid=595471620</value>
@@ -411,6 +541,11 @@
 <type>uri</type>
 <value>http://dbpedia.org/resource/Enid_Blyton</value>
 </author>
+<name>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>Five Go Off To Camp</value>
+</name>
 <wikilink>
 <type>uri</type>
 <value>http://en.wikipedia.org/wiki/Five_Go_Off_to_Camp?oldid=600396326</value>
@@ -425,6 +560,11 @@
 <type>uri</type>
 <value>http://dbpedia.org/resource/Enid_Blyton</value>
 </author>
+<name>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>The Mystery of Banshee Towers</value>
+</name>
 <wikilink>
 <type>uri</type>
 <value>http://en.wikipedia.org/wiki/The_Mystery_of_Banshee_Towers?oldid=595471481</value>
@@ -439,6 +579,11 @@
 <type>uri</type>
 <value>http://dbpedia.org/resource/Enid_Blyton</value>
 </author>
+<name>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>Five Are Together Again</value>
+</name>
 <wikilink>
 <type>uri</type>
 <value>http://en.wikipedia.org/wiki/Five_Are_Together_Again?oldid=586477869</value>
@@ -453,6 +598,11 @@
 <type>uri</type>
 <value>http://dbpedia.org/resource/Enid_Blyton</value>
 </author>
+<name>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>The Island of Adventure</value>
+</name>
 <wikilink>
 <type>uri</type>
 <value>http://en.wikipedia.org/wiki/The_Island_of_Adventure?oldid=592952224</value>
@@ -467,6 +617,11 @@
 <type>uri</type>
 <value>http://dbpedia.org/resource/Enid_Blyton</value>
 </author>
+<name>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>Five On Finniston Farm</value>
+</name>
 <wikilink>
 <type>uri</type>
 <value>http://en.wikipedia.org/wiki/Five_on_Finniston_Farm?oldid=586519427</value>
@@ -481,6 +636,11 @@
 <type>uri</type>
 <value>http://dbpedia.org/resource/Enid_Blyton</value>
 </author>
+<name>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>The Naughtiest Girl Is a Monitor</value>
+</name>
 <wikilink>
 <type>uri</type>
 <value>http://en.wikipedia.org/wiki/The_Naughtiest_Girl_is_a_Monitor?oldid=603929089</value>
@@ -495,6 +655,11 @@
 <type>uri</type>
 <value>http://dbpedia.org/resource/Enid_Blyton</value>
 </author>
+<name>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>Five Go To Mystery Moor</value>
+</name>
 <wikilink>
 <type>uri</type>
 <value>http://en.wikipedia.org/wiki/Five_Go_to_Mystery_Moor?oldid=587900646</value>
@@ -509,6 +674,11 @@
 <type>uri</type>
 <value>http://dbpedia.org/resource/Enid_Blyton</value>
 </author>
+<name>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>Five Have Plenty Of Fun</value>
+</name>
 <wikilink>
 <type>uri</type>
 <value>http://en.wikipedia.org/wiki/Five_Have_Plenty_of_Fun?oldid=590691062</value>
@@ -523,6 +693,11 @@
 <type>uri</type>
 <value>http://dbpedia.org/resource/Enid_Blyton</value>
 </author>
+<name>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>Five Fall Into Adventure</value>
+</name>
 <wikilink>
 <type>uri</type>
 <value>http://en.wikipedia.org/wiki/Five_Fall_into_Adventure?oldid=600604734</value>
@@ -537,6 +712,11 @@
 <type>uri</type>
 <value>http://dbpedia.org/resource/Enid_Blyton</value>
 </author>
+<name>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>The Mystery of the Missing Man</value>
+</name>
 <wikilink>
 <type>uri</type>
 <value>http://en.wikipedia.org/wiki/The_Mystery_of_the_Missing_Man?oldid=595641245</value>
@@ -551,6 +731,11 @@
 <type>uri</type>
 <value>http://dbpedia.org/resource/Enid_Blyton</value>
 </author>
+<name>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>Summer Term at St. Clare&apos;s</value>
+</name>
 <wikilink>
 <type>uri</type>
 <value>http://en.wikipedia.org/wiki/Summer_Term_at_St._Clare&apos;s?oldid=604568930</value>
@@ -565,6 +750,11 @@
 <type>uri</type>
 <value>http://dbpedia.org/resource/Enid_Blyton</value>
 </author>
+<name>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>The O&apos;Sullivan Twins</value>
+</name>
 <wikilink>
 <type>uri</type>
 <value>http://en.wikipedia.org/wiki/The_O&apos;Sullivan_Twins?oldid=596527279</value>
@@ -579,6 +769,11 @@
 <type>uri</type>
 <value>http://dbpedia.org/resource/Enid_Blyton</value>
 </author>
+<name>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>The Twins at St. Clare&apos;s</value>
+</name>
 <wikilink>
 <type>uri</type>
 <value>http://en.wikipedia.org/wiki/The_Twins_at_St._Clare&apos;s?oldid=603723311</value>
@@ -593,6 +788,11 @@
 <type>uri</type>
 <value>http://dbpedia.org/resource/Enid_Blyton</value>
 </author>
+<name>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>The Naughtiest Girl Again</value>
+</name>
 <wikilink>
 <type>uri</type>
 <value>http://en.wikipedia.org/wiki/The_Naughtiest_Girl_Again?oldid=595780712</value>

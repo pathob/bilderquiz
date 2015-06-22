@@ -60,6 +60,11 @@
 <type>uri</type>
 <value>http://dbpedia.org/resource/Joseph_Brodsky</value>
 </author>
+<name>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>Less Than One</value>
+</name>
 <released>
 <type>typed-literal</type>
 <datatype>http://www.w3.org/2001/XMLSchema#integer</datatype>
@@ -79,6 +84,11 @@
 <type>uri</type>
 <value>http://dbpedia.org/resource/Joseph_Brodsky</value>
 </author>
+<name>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>Gorbunov i Gorchakov</value>
+</name>
 <wikilink>
 <type>uri</type>
 <value>http://en.wikipedia.org/wiki/Gorbunov_and_Gorchakov?oldid=594686403</value>

@@ -30,6 +30,11 @@
 <type>uri</type>
 <value>http://dbpedia.org/resource/Zadie_Smith</value>
 </author>
+<name>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>White Teeth</value>
+</name>
 <released>
 <type>typed-literal</type>
 <datatype>http://www.w3.org/2001/XMLSchema#date</datatype>
@@ -54,6 +59,11 @@
 <type>uri</type>
 <value>http://dbpedia.org/resource/Zadie_Smith</value>
 </author>
+<name>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>On Beauty</value>
+</name>
 <released>
 <type>typed-literal</type>
 <datatype>http://www.w3.org/2001/XMLSchema#integer</datatype>
@@ -73,6 +83,11 @@
 <type>uri</type>
 <value>http://dbpedia.org/resource/Zadie_Smith</value>
 </author>
+<name>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>NW</value>
+</name>
 <released>
 <type>typed-literal</type>
 <datatype>http://www.w3.org/2001/XMLSchema#date</datatype>
@@ -92,6 +107,11 @@
 <type>uri</type>
 <value>http://dbpedia.org/resource/Zadie_Smith</value>
 </author>
+<name>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>The Autograph Man</value>
+</name>
 <wikilink>
 <type>uri</type>
 <value>http://en.wikipedia.org/wiki/The_Autograph_Man?oldid=596653381</value>

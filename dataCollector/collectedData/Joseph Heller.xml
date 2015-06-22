@@ -33,6 +33,11 @@
 <type>uri</type>
 <value>http://dbpedia.org/resource/Joseph_Heller</value>
 </author>
+<name>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>Now and Then</value>
+</name>
 <published>
 <type>uri</type>
 <value>http://dbpedia.org/resource/Alfred_A._Knopf</value>
@@ -56,6 +61,11 @@
 <type>uri</type>
 <value>http://dbpedia.org/resource/Joseph_Heller</value>
 </author>
+<name>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>Catch-22</value>
+</name>
 <released>
 <type>typed-literal</type>
 <datatype>http://www.w3.org/2001/XMLSchema#date</datatype>
@@ -80,6 +90,11 @@
 <type>uri</type>
 <value>http://dbpedia.org/resource/Joseph_Heller</value>
 </author>
+<name>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>Picture This</value>
+</name>
 <released>
 <type>typed-literal</type>
 <datatype>http://www.w3.org/2001/XMLSchema#integer</datatype>
@@ -99,6 +114,11 @@
 <type>uri</type>
 <value>http://dbpedia.org/resource/Joseph_Heller</value>
 </author>
+<name>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>No Laughing Matter</value>
+</name>
 <released>
 <type>typed-literal</type>
 <datatype>http://www.w3.org/2001/XMLSchema#integer</datatype>
@@ -118,6 +138,11 @@
 <type>uri</type>
 <value>http://dbpedia.org/resource/Joseph_Heller</value>
 </author>
+<name>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>Good As Gold</value>
+</name>
 <released>
 <type>typed-literal</type>
 <datatype>http://www.w3.org/2001/XMLSchema#integer</datatype>
@@ -137,6 +162,11 @@
 <type>uri</type>
 <value>http://dbpedia.org/resource/Joseph_Heller</value>
 </author>
+<name>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>Closing Time</value>
+</name>
 <wikilink>
 <type>uri</type>
 <value>http://en.wikipedia.org/wiki/Closing_Time_(novel)?oldid=566033648</value>
@@ -151,6 +181,11 @@
 <type>uri</type>
 <value>http://dbpedia.org/resource/Joseph_Heller</value>
 </author>
+<name>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>Something Happened</value>
+</name>
 <wikilink>
 <type>uri</type>
 <value>http://en.wikipedia.org/wiki/Something_Happened?oldid=600478016</value>

@@ -38,6 +38,11 @@
 <type>uri</type>
 <value>http://dbpedia.org/resource/Aphra_Behn</value>
 </author>
+<name>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>Oroonoko: or, the Royal Slave. A True History.</value>
+</name>
 <thumbnail>
 <type>uri</type>
 <value>http://commons.wikimedia.org/wiki/Special:FilePath/Behn_Oroonoko_title_page.1688.jpg?width=300</value>
@@ -56,6 +61,11 @@
 <type>uri</type>
 <value>http://dbpedia.org/resource/Aphra_Behn</value>
 </author>
+<name>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>Love-Letters Between a Nobleman and His Sister</value>
+</name>
 <thumbnail>
 <type>uri</type>
 <value>http://commons.wikimedia.org/wiki/Special:FilePath/Behn_Love-Letters_1684.jpg?width=300</value>

@@ -37,6 +37,11 @@
 <type>uri</type>
 <value>http://dbpedia.org/resource/Stephen_King</value>
 </author>
+<name>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>Insomnia</value>
+</name>
 <thumbnail>
 <type>uri</type>
 <value>http://en.wikipedia.org/wiki/Special:FilePath/Insomniaking2.jpg?width=300</value>
@@ -65,6 +70,11 @@
 <type>uri</type>
 <value>http://dbpedia.org/resource/Stephen_King</value>
 </author>
+<name>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>The Bachman Books</value>
+</name>
 <thumbnail>
 <type>uri</type>
 <value>http://en.wikipedia.org/wiki/Special:FilePath/Bachmanbooks.JPG?width=300</value>
@@ -88,6 +98,11 @@
 <type>uri</type>
 <value>http://dbpedia.org/resource/Stephen_King</value>
 </author>
+<name>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>Blood and Smoke</value>
+</name>
 <released>
 <type>typed-literal</type>
 <datatype>http://www.w3.org/2001/XMLSchema#date</datatype>
@@ -112,6 +127,11 @@
 <type>uri</type>
 <value>http://dbpedia.org/resource/Stephen_King</value>
 </author>
+<name>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>Different Seasons</value>
+</name>
 <released>
 <type>typed-literal</type>
 <datatype>http://www.w3.org/2001/XMLSchema#date</datatype>
@@ -136,6 +156,11 @@
 <type>uri</type>
 <value>http://dbpedia.org/resource/Stephen_King</value>
 </author>
+<name>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>Dolores Claiborne</value>
+</name>
 <released>
 <type>literal</type>
 <xml:lang>en</xml:lang>
@@ -160,6 +185,11 @@
 <type>uri</type>
 <value>http://dbpedia.org/resource/Stephen_King</value>
 </author>
+<name>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>Nightmares &amp; Dreamscapes</value>
+</name>
 <released>
 <type>typed-literal</type>
 <datatype>http://www.w3.org/2001/XMLSchema#date</datatype>
@@ -184,6 +214,11 @@
 <type>uri</type>
 <value>http://dbpedia.org/resource/Stephen_King</value>
 </author>
+<name>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>On Writing</value>
+</name>
 <released>
 <type>typed-literal</type>
 <datatype>http://www.w3.org/2001/XMLSchema#date</datatype>
@@ -208,6 +243,11 @@
 <type>uri</type>
 <value>http://dbpedia.org/resource/Stephen_King</value>
 </author>
+<name>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>Six Stories</value>
+</name>
 <released>
 <type>typed-literal</type>
 <datatype>http://www.w3.org/2001/XMLSchema#integer</datatype>
@@ -232,6 +272,11 @@
 <type>uri</type>
 <value>http://dbpedia.org/resource/Stephen_King</value>
 </author>
+<name>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>The Body</value>
+</name>
 <released>
 <type>typed-literal</type>
 <datatype>http://www.w3.org/2001/XMLSchema#integer</datatype>
@@ -256,6 +301,11 @@
 <type>uri</type>
 <value>http://dbpedia.org/resource/Stephen_King</value>
 </author>
+<name>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>The Dark Tower:</value>
+</name>
 <released>
 <type>typed-literal</type>
 <datatype>http://www.w3.org/2001/XMLSchema#date</datatype>
@@ -280,6 +330,11 @@
 <type>uri</type>
 <value>http://dbpedia.org/resource/Stephen_King</value>
 </author>
+<name>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>The Dark Tower Book II:</value>
+</name>
 <released>
 <type>literal</type>
 <xml:lang>en</xml:lang>
@@ -304,6 +359,11 @@
 <type>uri</type>
 <value>http://dbpedia.org/resource/Stephen_King</value>
 </author>
+<name>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>The Dark Tower III:</value>
+</name>
 <released>
 <type>literal</type>
 <xml:lang>en</xml:lang>
@@ -328,6 +388,11 @@
 <type>uri</type>
 <value>http://dbpedia.org/resource/Stephen_King</value>
 </author>
+<name>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>The Dark Tower IV:</value>
+</name>
 <released>
 <type>typed-literal</type>
 <datatype>http://www.w3.org/2001/XMLSchema#date</datatype>
@@ -352,6 +417,11 @@
 <type>uri</type>
 <value>http://dbpedia.org/resource/Stephen_King</value>
 </author>
+<name>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>The Shining</value>
+</name>
 <released>
 <type>typed-literal</type>
 <datatype>http://www.w3.org/2001/XMLSchema#date</datatype>
@@ -376,6 +446,11 @@
 <type>uri</type>
 <value>http://dbpedia.org/resource/Stephen_King</value>
 </author>
+<name>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>Bag of Bones</value>
+</name>
 <released>
 <type>typed-literal</type>
 <datatype>http://www.w3.org/2001/XMLSchema#date</datatype>
@@ -400,6 +475,11 @@
 <type>uri</type>
 <value>http://dbpedia.org/resource/Stephen_King</value>
 </author>
+<name>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>Carrie</value>
+</name>
 <released>
 <type>typed-literal</type>
 <datatype>http://www.w3.org/2001/XMLSchema#date</datatype>
@@ -424,6 +504,11 @@
 <type>uri</type>
 <value>http://dbpedia.org/resource/Stephen_King</value>
 </author>
+<name>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>Cell</value>
+</name>
 <released>
 <type>typed-literal</type>
 <datatype>http://www.w3.org/2001/XMLSchema#date</datatype>
@@ -448,6 +533,11 @@
 <type>uri</type>
 <value>http://dbpedia.org/resource/Stephen_King</value>
 </author>
+<name>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>Cujo</value>
+</name>
 <released>
 <type>typed-literal</type>
 <datatype>http://www.w3.org/2001/XMLSchema#date</datatype>
@@ -472,6 +562,11 @@
 <type>uri</type>
 <value>http://dbpedia.org/resource/Stephen_King</value>
 </author>
+<name>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>Dreamcatcher</value>
+</name>
 <released>
 <type>typed-literal</type>
 <datatype>http://www.w3.org/2001/XMLSchema#date</datatype>
@@ -496,6 +591,11 @@
 <type>uri</type>
 <value>http://dbpedia.org/resource/Stephen_King</value>
 </author>
+<name>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>From a Buick 8</value>
+</name>
 <released>
 <type>typed-literal</type>
 <datatype>http://www.w3.org/2001/XMLSchema#date</datatype>
@@ -520,6 +620,11 @@
 <type>uri</type>
 <value>http://dbpedia.org/resource/Stephen_King</value>
 </author>
+<name>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>Gerald&apos;s Game</value>
+</name>
 <released>
 <type>literal</type>
 <xml:lang>en</xml:lang>
@@ -544,6 +649,11 @@
 <type>uri</type>
 <value>http://dbpedia.org/resource/Stephen_King</value>
 </author>
+<name>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>Hearts in Atlantis</value>
+</name>
 <released>
 <type>typed-literal</type>
 <datatype>http://www.w3.org/2001/XMLSchema#date</datatype>
@@ -568,6 +678,11 @@
 <type>uri</type>
 <value>http://dbpedia.org/resource/Stephen_King</value>
 </author>
+<name>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>It</value>
+</name>
 <released>
 <type>literal</type>
 <xml:lang>en</xml:lang>
@@ -592,6 +707,11 @@
 <type>uri</type>
 <value>http://dbpedia.org/resource/Stephen_King</value>
 </author>
+<name>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>Misery</value>
+</name>
 <released>
 <type>typed-literal</type>
 <datatype>http://www.w3.org/2001/XMLSchema#date</datatype>
@@ -616,6 +736,11 @@
 <type>uri</type>
 <value>http://dbpedia.org/resource/Stephen_King</value>
 </author>
+<name>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>Needful Things</value>
+</name>
 <released>
 <type>literal</type>
 <xml:lang>en</xml:lang>
@@ -640,6 +765,11 @@
 <type>uri</type>
 <value>http://dbpedia.org/resource/Stephen_King</value>
 </author>
+<name>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>Night Shift</value>
+</name>
 <released>
 <type>literal</type>
 <xml:lang>en</xml:lang>
@@ -664,6 +794,11 @@
 <type>uri</type>
 <value>http://dbpedia.org/resource/Stephen_King</value>
 </author>
+<name>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>Pet Sematary</value>
+</name>
 <released>
 <type>typed-literal</type>
 <datatype>http://www.w3.org/2001/XMLSchema#date</datatype>
@@ -688,6 +823,11 @@
 <type>uri</type>
 <value>http://dbpedia.org/resource/Stephen_King</value>
 </author>
+<name>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>The Colorado Kid</value>
+</name>
 <released>
 <type>typed-literal</type>
 <datatype>http://www.w3.org/2001/XMLSchema#date</datatype>
@@ -712,6 +852,11 @@
 <type>uri</type>
 <value>http://dbpedia.org/resource/Stephen_King</value>
 </author>
+<name>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>The Dark Half</value>
+</name>
 <released>
 <type>typed-literal</type>
 <datatype>http://www.w3.org/2001/XMLSchema#date</datatype>
@@ -736,6 +881,11 @@
 <type>uri</type>
 <value>http://dbpedia.org/resource/Stephen_King</value>
 </author>
+<name>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>The Eyes of the Dragon</value>
+</name>
 <released>
 <type>typed-literal</type>
 <datatype>http://www.w3.org/2001/XMLSchema#date</datatype>
@@ -760,6 +910,11 @@
 <type>uri</type>
 <value>http://dbpedia.org/resource/Stephen_King</value>
 </author>
+<name>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>The Long Walk</value>
+</name>
 <released>
 <type>literal</type>
 <xml:lang>en</xml:lang>
@@ -784,6 +939,11 @@
 <type>uri</type>
 <value>http://dbpedia.org/resource/Stephen_King</value>
 </author>
+<name>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>The Stand</value>
+</name>
 <released>
 <type>literal</type>
 <xml:lang>en</xml:lang>
@@ -808,6 +968,11 @@
 <type>uri</type>
 <value>http://dbpedia.org/resource/Stephen_King</value>
 </author>
+<name>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>Thinner</value>
+</name>
 <released>
 <type>typed-literal</type>
 <datatype>http://www.w3.org/2001/XMLSchema#date</datatype>
@@ -832,6 +997,11 @@
 <type>uri</type>
 <value>http://dbpedia.org/resource/Stephen_King</value>
 </author>
+<name>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>The Dark Tower V:</value>
+</name>
 <released>
 <type>typed-literal</type>
 <datatype>http://www.w3.org/2001/XMLSchema#date</datatype>
@@ -856,6 +1026,11 @@
 <type>uri</type>
 <value>http://dbpedia.org/resource/Stephen_King</value>
 </author>
+<name>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>Song of Susannah</value>
+</name>
 <released>
 <type>typed-literal</type>
 <datatype>http://www.w3.org/2001/XMLSchema#date</datatype>
@@ -880,6 +1055,11 @@
 <type>uri</type>
 <value>http://dbpedia.org/resource/Stephen_King</value>
 </author>
+<name>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>The Dark Tower</value>
+</name>
 <released>
 <type>typed-literal</type>
 <datatype>http://www.w3.org/2001/XMLSchema#date</datatype>
@@ -904,6 +1084,11 @@
 <type>uri</type>
 <value>http://dbpedia.org/resource/Stephen_King</value>
 </author>
+<name>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>Christine</value>
+</name>
 <released>
 <type>typed-literal</type>
 <datatype>http://www.w3.org/2001/XMLSchema#date</datatype>
@@ -928,6 +1113,11 @@
 <type>uri</type>
 <value>http://dbpedia.org/resource/Stephen_King</value>
 </author>
+<name>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>Everything&apos;s Eventual</value>
+</name>
 <released>
 <type>typed-literal</type>
 <datatype>http://www.w3.org/2001/XMLSchema#date</datatype>
@@ -952,6 +1142,11 @@
 <type>uri</type>
 <value>http://dbpedia.org/resource/Stephen_King</value>
 </author>
+<name>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>Danse Macabre</value>
+</name>
 <released>
 <type>typed-literal</type>
 <datatype>http://www.w3.org/2001/XMLSchema#date</datatype>
@@ -976,6 +1171,11 @@
 <type>uri</type>
 <value>http://dbpedia.org/resource/Stephen_King</value>
 </author>
+<name>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>Just After Sunset</value>
+</name>
 <released>
 <type>typed-literal</type>
 <datatype>http://www.w3.org/2001/XMLSchema#date</datatype>
@@ -1000,6 +1200,11 @@
 <type>uri</type>
 <value>http://dbpedia.org/resource/Stephen_King</value>
 </author>
+<name>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>Desperation</value>
+</name>
 <released>
 <type>typed-literal</type>
 <datatype>http://www.w3.org/2001/XMLSchema#date</datatype>
@@ -1024,6 +1229,11 @@
 <type>uri</type>
 <value>http://dbpedia.org/resource/Stephen_King</value>
 </author>
+<name>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>Rage</value>
+</name>
 <released>
 <type>typed-literal</type>
 <datatype>http://www.w3.org/2001/XMLSchema#date</datatype>
@@ -1048,6 +1258,11 @@
 <type>uri</type>
 <value>http://dbpedia.org/resource/Stephen_King</value>
 </author>
+<name>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>The Dead Zone</value>
+</name>
 <released>
 <type>literal</type>
 <xml:lang>en</xml:lang>
@@ -1072,6 +1287,11 @@
 <type>uri</type>
 <value>http://dbpedia.org/resource/Stephen_King</value>
 </author>
+<name>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>The Regulators</value>
+</name>
 <released>
 <type>typed-literal</type>
 <datatype>http://www.w3.org/2001/XMLSchema#date</datatype>
@@ -1096,6 +1316,11 @@
 <type>uri</type>
 <value>http://dbpedia.org/resource/Stephen_King</value>
 </author>
+<name>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>The Talisman</value>
+</name>
 <released>
 <type>typed-literal</type>
 <datatype>http://www.w3.org/2001/XMLSchema#date</datatype>
@@ -1120,6 +1345,11 @@
 <type>uri</type>
 <value>http://dbpedia.org/resource/Stephen_King</value>
 </author>
+<name>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>Full Dark, No Stars</value>
+</name>
 <released>
 <type>typed-literal</type>
 <datatype>http://www.w3.org/2001/XMLSchema#date</datatype>
@@ -1144,6 +1374,11 @@
 <type>uri</type>
 <value>http://dbpedia.org/resource/Stephen_King</value>
 </author>
+<name>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>Cycle of the Werewolf</value>
+</name>
 <released>
 <type>literal</type>
 <xml:lang>en</xml:lang>
@@ -1168,6 +1403,11 @@
 <type>uri</type>
 <value>http://dbpedia.org/resource/Stephen_King</value>
 </author>
+<name>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>Blaze</value>
+</name>
 <released>
 <type>typed-literal</type>
 <datatype>http://www.w3.org/2001/XMLSchema#date</datatype>
@@ -1192,6 +1432,11 @@
 <type>uri</type>
 <value>http://dbpedia.org/resource/Stephen_King</value>
 </author>
+<name>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>Rose Madder</value>
+</name>
 <released>
 <type>literal</type>
 <xml:lang>en</xml:lang>
@@ -1216,6 +1461,11 @@
 <type>uri</type>
 <value>http://dbpedia.org/resource/Stephen_King</value>
 </author>
+<name>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>Lisey&apos;s Story</value>
+</name>
 <released>
 <type>typed-literal</type>
 <datatype>http://www.w3.org/2001/XMLSchema#date</datatype>
@@ -1240,6 +1490,11 @@
 <type>uri</type>
 <value>http://dbpedia.org/resource/Stephen_King</value>
 </author>
+<name>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>Black House</value>
+</name>
 <released>
 <type>typed-literal</type>
 <datatype>http://www.w3.org/2001/XMLSchema#date</datatype>
@@ -1264,6 +1519,11 @@
 <type>uri</type>
 <value>http://dbpedia.org/resource/Stephen_King</value>
 </author>
+<name>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>The Plant</value>
+</name>
 <released>
 <type>typed-literal</type>
 <datatype>http://www.w3.org/2001/XMLSchema#integer</datatype>
@@ -1288,6 +1548,11 @@
 <type>uri</type>
 <value>http://dbpedia.org/resource/Stephen_King</value>
 </author>
+<name>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>Firestarter</value>
+</name>
 <released>
 <type>typed-literal</type>
 <datatype>http://www.w3.org/2001/XMLSchema#date</datatype>
@@ -1312,6 +1577,11 @@
 <type>uri</type>
 <value>http://dbpedia.org/resource/Stephen_King</value>
 </author>
+<name>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>Duma Key</value>
+</name>
 <released>
 <type>typed-literal</type>
 <datatype>http://www.w3.org/2001/XMLSchema#date</datatype>
@@ -1336,6 +1606,11 @@
 <type>uri</type>
 <value>http://dbpedia.org/resource/Stephen_King</value>
 </author>
+<name>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>Under the Dome</value>
+</name>
 <released>
 <type>typed-literal</type>
 <datatype>http://www.w3.org/2001/XMLSchema#date</datatype>
@@ -1360,6 +1635,11 @@
 <type>uri</type>
 <value>http://dbpedia.org/resource/Stephen_King</value>
 </author>
+<name>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>11/22/63</value>
+</name>
 <released>
 <type>typed-literal</type>
 <datatype>http://www.w3.org/2001/XMLSchema#date</datatype>
@@ -1384,6 +1664,11 @@
 <type>uri</type>
 <value>http://dbpedia.org/resource/Stephen_King</value>
 </author>
+<name>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>Four Past Midnight</value>
+</name>
 <released>
 <type>literal</type>
 <xml:lang>en</xml:lang>
@@ -1403,6 +1688,11 @@
 <type>uri</type>
 <value>http://dbpedia.org/resource/Stephen_King</value>
 </author>
+<name>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>Robert Bloch&apos;s Psychos</value>
+</name>
 <released>
 <type>typed-literal</type>
 <datatype>http://www.w3.org/2001/XMLSchema#integer</datatype>
@@ -1422,6 +1712,11 @@
 <type>uri</type>
 <value>http://dbpedia.org/resource/Stephen_King</value>
 </author>
+<name>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>The Girl Who Loved Tom Gordon</value>
+</name>
 <released>
 <type>typed-literal</type>
 <datatype>http://www.w3.org/2001/XMLSchema#date</datatype>
@@ -1441,6 +1736,11 @@
 <type>uri</type>
 <value>http://dbpedia.org/resource/Stephen_King</value>
 </author>
+<name>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>Stephen King Goes to the Movies</value>
+</name>
 <released>
 <type>typed-literal</type>
 <datatype>http://www.w3.org/2001/XMLSchema#date</datatype>
@@ -1460,6 +1760,11 @@
 <type>uri</type>
 <value>http://dbpedia.org/resource/Stephen_King</value>
 </author>
+<name>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>The Dark Tower:</value>
+</name>
 <released>
 <type>typed-literal</type>
 <datatype>http://www.w3.org/2001/XMLSchema#date</datatype>
@@ -1479,6 +1784,11 @@
 <type>uri</type>
 <value>http://dbpedia.org/resource/Stephen_King</value>
 </author>
+<name>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>Joyland</value>
+</name>
 <released>
 <type>typed-literal</type>
 <datatype>http://www.w3.org/2001/XMLSchema#date</datatype>
@@ -1498,6 +1808,11 @@
 <type>uri</type>
 <value>http://dbpedia.org/resource/Stephen_King</value>
 </author>
+<name>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>Night Visions 5</value>
+</name>
 <released>
 <type>typed-literal</type>
 <datatype>http://www.w3.org/2001/XMLSchema#date</datatype>
@@ -1517,6 +1832,11 @@
 <type>uri</type>
 <value>http://dbpedia.org/resource/Stephen_King</value>
 </author>
+<name>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>Blockade Billy</value>
+</name>
 <released>
 <type>typed-literal</type>
 <datatype>http://www.w3.org/2001/XMLSchema#date</datatype>
@@ -1536,6 +1856,11 @@
 <type>uri</type>
 <value>http://dbpedia.org/resource/Stephen_King</value>
 </author>
+<name>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>Secret Windows</value>
+</name>
 <released>
 <type>literal</type>
 <xml:lang>en</xml:lang>
@@ -1555,6 +1880,11 @@
 <type>uri</type>
 <value>http://dbpedia.org/resource/Stephen_King</value>
 </author>
+<name>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>Doctor Sleep</value>
+</name>
 <released>
 <type>typed-literal</type>
 <datatype>http://www.w3.org/2001/XMLSchema#date</datatype>
@@ -1574,6 +1904,11 @@
 <type>uri</type>
 <value>http://dbpedia.org/resource/Stephen_King</value>
 </author>
+<name>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>Faithful</value>
+</name>
 <released>
 <type>typed-literal</type>
 <datatype>http://www.w3.org/2001/XMLSchema#date</datatype>
@@ -1593,6 +1928,11 @@
 <type>uri</type>
 <value>http://dbpedia.org/resource/Stephen_King</value>
 </author>
+<name>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>The Tommyknockers</value>
+</name>
 <published>
 <type>typed-literal</type>
 <datatype>http://www.w3.org/2001/XMLSchema#date</datatype>
@@ -1617,6 +1957,11 @@
 <type>uri</type>
 <value>http://dbpedia.org/resource/Stephen_King</value>
 </author>
+<name>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>&apos;Salem&apos;s Lot</value>
+</name>
 <published>
 <type>typed-literal</type>
 <datatype>http://www.w3.org/2001/XMLSchema#date</datatype>
@@ -1641,6 +1986,11 @@
 <type>uri</type>
 <value>http://dbpedia.org/resource/Stephen_King</value>
 </author>
+<name>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>Mr. Mercedes</value>
+</name>
 <published>
 <type>typed-literal</type>
 <datatype>http://www.w3.org/2001/XMLSchema#date</datatype>
@@ -1660,6 +2010,11 @@
 <type>uri</type>
 <value>http://dbpedia.org/resource/Stephen_King</value>
 </author>
+<name>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>Revival</value>
+</name>
 <published>
 <type>typed-literal</type>
 <datatype>http://www.w3.org/2001/XMLSchema#date</datatype>
@@ -1679,6 +2034,11 @@
 <type>uri</type>
 <value>http://dbpedia.org/resource/Stephen_King</value>
 </author>
+<name>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>Nightmares in the Sky: Gargoyles and Grotesques</value>
+</name>
 <published>
 <type>typed-literal</type>
 <datatype>http://www.w3.org/2001/XMLSchema#integer</datatype>
@@ -1698,6 +2058,11 @@
 <type>uri</type>
 <value>http://dbpedia.org/resource/Stephen_King</value>
 </author>
+<name>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>The Running Man</value>
+</name>
 <wikilink>
 <type>uri</type>
 <value>http://en.wikipedia.org/wiki/The_Running_Man_(novel)?oldid=605553033</value>
@@ -1717,6 +2082,11 @@
 <type>uri</type>
 <value>http://dbpedia.org/resource/Stephen_King</value>
 </author>
+<name>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>The Green Mile</value>
+</name>
 <wikilink>
 <type>uri</type>
 <value>http://en.wikipedia.org/wiki/The_Green_Mile_(novel)?oldid=606252485</value>
@@ -1736,6 +2106,11 @@
 <type>uri</type>
 <value>http://dbpedia.org/resource/Stephen_King</value>
 </author>
+<name>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>Skeleton Crew</value>
+</name>
 <wikilink>
 <type>uri</type>
 <value>http://en.wikipedia.org/wiki/Skeleton_Crew?oldid=579649545</value>
@@ -1755,6 +2130,11 @@
 <type>uri</type>
 <value>http://dbpedia.org/resource/Stephen_King</value>
 </author>
+<name>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>A Face in the Crowd</value>
+</name>
 <wikilink>
 <type>uri</type>
 <value>http://en.wikipedia.org/wiki/A_Face_in_the_Crowd_(novella)?oldid=605836319</value>
@@ -1769,6 +2149,11 @@
 <type>uri</type>
 <value>http://dbpedia.org/resource/Stephen_King</value>
 </author>
+<name>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>The Mist</value>
+</name>
 <wikilink>
 <type>uri</type>
 <value>http://en.wikipedia.org/wiki/The_Mist?oldid=605392388</value>
@@ -1783,6 +2168,11 @@
 <type>uri</type>
 <value>http://dbpedia.org/resource/Stephen_King</value>
 </author>
+<name>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>Guns</value>
+</name>
 <wikilink>
 <type>uri</type>
 <value>http://en.wikipedia.org/wiki/Guns_(essay)?oldid=594044065</value>

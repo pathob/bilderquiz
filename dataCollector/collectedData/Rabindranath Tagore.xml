@@ -96,6 +96,11 @@
 <type>uri</type>
 <value>http://dbpedia.org/resource/Rabindranath_Tagore</value>
 </author>
+<name>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>Gitanjali, Song Offerings</value>
+</name>
 <thumbnail>
 <type>uri</type>
 <value>http://commons.wikimedia.org/wiki/Special:FilePath/Gitanjali_title_page_Rabindranath_Tagore.jpg?width=300</value>
@@ -114,6 +119,11 @@
 <type>uri</type>
 <value>http://dbpedia.org/resource/Rabindranath_Tagore</value>
 </author>
+<name>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>The Essential Tagore</value>
+</name>
 <released>
 <type>typed-literal</type>
 <datatype>http://www.w3.org/2001/XMLSchema#integer</datatype>
@@ -133,6 +143,11 @@
 <type>uri</type>
 <value>http://dbpedia.org/resource/Rabindranath_Tagore</value>
 </author>
+<name>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>The Home and the World</value>
+</name>
 <released>
 <type>typed-literal</type>
 <datatype>http://www.w3.org/2001/XMLSchema#integer</datatype>
@@ -152,6 +167,11 @@
 <type>uri</type>
 <value>http://dbpedia.org/resource/Rabindranath_Tagore</value>
 </author>
+<name>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>Nastanirh</value>
+</name>
 <released>
 <type>typed-literal</type>
 <datatype>http://www.w3.org/2001/XMLSchema#integer</datatype>
@@ -171,6 +191,11 @@
 <type>uri</type>
 <value>http://dbpedia.org/resource/Rabindranath_Tagore</value>
 </author>
+<name>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>শেষের কবিতা</value>
+</name>
 <wikilink>
 <type>uri</type>
 <value>http://en.wikipedia.org/wiki/Shesher_Kabita?oldid=585382253</value>

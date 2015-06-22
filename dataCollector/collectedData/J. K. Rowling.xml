@@ -36,6 +36,11 @@
 <type>uri</type>
 <value>http://dbpedia.org/resource/J._K._Rowling</value>
 </author>
+<name>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>The Casual Vacancy</value>
+</name>
 <thumbnail>
 <type>uri</type>
 <value>http://commons.wikimedia.org/wiki/Special:FilePath/Yate.church.view.arp.jpg?width=300</value>
@@ -59,6 +64,11 @@
 <type>uri</type>
 <value>http://dbpedia.org/resource/J._K._Rowling</value>
 </author>
+<name>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>The Cuckoo&apos;s Calling</value>
+</name>
 <wikilink>
 <type>uri</type>
 <value>http://en.wikipedia.org/wiki/The_Cuckoo&apos;s_Calling?oldid=605726902</value>

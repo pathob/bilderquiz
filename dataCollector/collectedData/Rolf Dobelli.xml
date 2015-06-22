@@ -38,6 +38,11 @@
 <type>uri</type>
 <value>http://dbpedia.org/resource/Rolf_Dobelli</value>
 </author>
+<name>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>The Art of Thinking Clearly</value>
+</name>
 <thumbnail>
 <type>uri</type>
 <value>http://en.wikipedia.org/wiki/Special:FilePath/Art_of_Thinking_Clearly_UK_cover.jpg?width=300</value>

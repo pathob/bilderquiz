@@ -37,6 +37,11 @@
 <type>uri</type>
 <value>http://dbpedia.org/resource/Alain_Robbe-Grillet</value>
 </author>
+<name>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>Djinn</value>
+</name>
 <wikilink>
 <type>uri</type>
 <value>http://en.wikipedia.org/wiki/Djinn_(novel)?oldid=545014256</value>

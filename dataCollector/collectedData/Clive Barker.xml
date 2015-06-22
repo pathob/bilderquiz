@@ -29,6 +29,11 @@
 <type>uri</type>
 <value>http://dbpedia.org/resource/Clive_Barker</value>
 </author>
+<name>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>Books of Blood</value>
+</name>
 <released>
 <type>typed-literal</type>
 <datatype>http://www.w3.org/2001/XMLSchema#integer</datatype>
@@ -53,6 +58,11 @@
 <type>uri</type>
 <value>http://dbpedia.org/resource/Clive_Barker</value>
 </author>
+<name>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>Sacrament</value>
+</name>
 <released>
 <type>typed-literal</type>
 <datatype>http://www.w3.org/2001/XMLSchema#integer</datatype>
@@ -72,6 +82,11 @@
 <type>uri</type>
 <value>http://dbpedia.org/resource/Clive_Barker</value>
 </author>
+<name>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>Everville</value>
+</name>
 <released>
 <type>typed-literal</type>
 <datatype>http://www.w3.org/2001/XMLSchema#integer</datatype>
@@ -91,6 +106,11 @@
 <type>uri</type>
 <value>http://dbpedia.org/resource/Clive_Barker</value>
 </author>
+<name>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>The Great and Secret Show</value>
+</name>
 <released>
 <type>literal</type>
 <xml:lang>en</xml:lang>
@@ -110,6 +130,11 @@
 <type>uri</type>
 <value>http://dbpedia.org/resource/Clive_Barker</value>
 </author>
+<name>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>Imajica</value>
+</name>
 <released>
 <type>typed-literal</type>
 <datatype>http://www.w3.org/2001/XMLSchema#integer</datatype>
@@ -129,6 +154,11 @@
 <type>uri</type>
 <value>http://dbpedia.org/resource/Clive_Barker</value>
 </author>
+<name>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>The Adventures of Mr. Maximillian Bacchus and His Travelling Circus</value>
+</name>
 <released>
 <type>literal</type>
 <xml:lang>en</xml:lang>
@@ -148,6 +178,11 @@
 <type>uri</type>
 <value>http://dbpedia.org/resource/Clive_Barker</value>
 </author>
+<name>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>The Hellbound Heart</value>
+</name>
 <released>
 <type>literal</type>
 <xml:lang>en</xml:lang>
@@ -167,6 +202,11 @@
 <type>uri</type>
 <value>http://dbpedia.org/resource/Clive_Barker</value>
 </author>
+<name>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>Weaveworld</value>
+</name>
 <released>
 <type>typed-literal</type>
 <datatype>http://www.w3.org/2001/XMLSchema#integer</datatype>
@@ -186,6 +226,11 @@
 <type>uri</type>
 <value>http://dbpedia.org/resource/Clive_Barker</value>
 </author>
+<name>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>Mister B. Gone</value>
+</name>
 <released>
 <type>literal</type>
 <xml:lang>en</xml:lang>
@@ -205,6 +250,11 @@
 <type>uri</type>
 <value>http://dbpedia.org/resource/Clive_Barker</value>
 </author>
+<name>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>Cabal</value>
+</name>
 <released>
 <type>typed-literal</type>
 <datatype>http://www.w3.org/2001/XMLSchema#integer</datatype>
@@ -224,6 +274,11 @@
 <type>uri</type>
 <value>http://dbpedia.org/resource/Clive_Barker</value>
 </author>
+<name>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>The Thief of Always</value>
+</name>
 <wikilink>
 <type>uri</type>
 <value>http://en.wikipedia.org/wiki/The_Thief_of_Always?oldid=603443061</value>
@@ -243,6 +298,11 @@
 <type>uri</type>
 <value>http://dbpedia.org/resource/Clive_Barker</value>
 </author>
+<name>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>Days of Magic, Nights of War</value>
+</name>
 <wikilink>
 <type>uri</type>
 <value>http://en.wikipedia.org/wiki/Days_of_Magic,_Nights_of_War?oldid=583576924</value>
@@ -257,6 +317,11 @@
 <type>uri</type>
 <value>http://dbpedia.org/resource/Clive_Barker</value>
 </author>
+<name>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>Clive Barker: Visions of Heaven and Hell</value>
+</name>
 <wikilink>
 <type>uri</type>
 <value>http://en.wikipedia.org/wiki/Clive_Barker:_Visions_of_Heaven_and_Hell?oldid=544747085</value>
@@ -271,6 +336,11 @@
 <type>uri</type>
 <value>http://dbpedia.org/resource/Clive_Barker</value>
 </author>
+<name>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>Absolute Midnight</value>
+</name>
 <wikilink>
 <type>uri</type>
 <value>http://en.wikipedia.org/wiki/Absolute_Midnight?oldid=589469171</value>
@@ -285,6 +355,11 @@
 <type>uri</type>
 <value>http://dbpedia.org/resource/Clive_Barker</value>
 </author>
+<name>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>Abarat</value>
+</name>
 <wikilink>
 <type>uri</type>
 <value>http://en.wikipedia.org/wiki/Abarat?oldid=594269480</value>

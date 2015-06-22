@@ -54,6 +54,11 @@
 <type>uri</type>
 <value>http://dbpedia.org/resource/Jules_Verne</value>
 </author>
+<name>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>Texar&apos;s Revenge, or, North Against South</value>
+</name>
 <thumbnail>
 <type>uri</type>
 <value>http://commons.wikimedia.org/wiki/Special:FilePath/North_Against_South.jpg?width=300</value>
@@ -82,6 +87,11 @@
 <type>uri</type>
 <value>http://dbpedia.org/resource/Jules_Verne</value>
 </author>
+<name>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>Around the World in Eighty Days</value>
+</name>
 <thumbnail>
 <type>uri</type>
 <value>http://commons.wikimedia.org/wiki/Special:FilePath/Verne_Tour_du_Monde.jpg?width=300</value>
@@ -110,6 +120,11 @@
 <type>uri</type>
 <value>http://dbpedia.org/resource/Jules_Verne</value>
 </author>
+<name>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>The Adventures of Three Russians and Three Englishmen in South Africa</value>
+</name>
 <thumbnail>
 <type>uri</type>
 <value>http://commons.wikimedia.org/wiki/Special:FilePath/&apos;The_Adventures_of_Three_Englishmen_and_Three_Russians_in_South_Africa&apos;_by_Jules_Férat_01.jpg?width=300</value>
@@ -138,6 +153,11 @@
 <type>uri</type>
 <value>http://dbpedia.org/resource/Jules_Verne</value>
 </author>
+<name>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>Eight Hundred Leagues on the Amazon</value>
+</name>
 <thumbnail>
 <type>uri</type>
 <value>http://commons.wikimedia.org/wiki/Special:FilePath/&apos;Eight_Hundred_Leagues_on_the_Amazon&apos;_by_Léon_Benett_01.jpg?width=300</value>
@@ -166,6 +186,11 @@
 <type>uri</type>
 <value>http://dbpedia.org/resource/Jules_Verne</value>
 </author>
+<name>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>Famille-sans-nom</value>
+</name>
 <thumbnail>
 <type>uri</type>
 <value>http://commons.wikimedia.org/wiki/Special:FilePath/&apos;Family_Without_a_Name&apos;_by_Georges_Tiret-Bognet_01.jpg?width=300</value>
@@ -194,6 +219,11 @@
 <type>uri</type>
 <value>http://dbpedia.org/resource/Jules_Verne</value>
 </author>
+<name>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>The Fur Country</value>
+</name>
 <thumbnail>
 <type>uri</type>
 <value>http://commons.wikimedia.org/wiki/Special:FilePath/Fur_Country_(title).jpg?width=300</value>
@@ -222,6 +252,11 @@
 <type>uri</type>
 <value>http://dbpedia.org/resource/Jules_Verne</value>
 </author>
+<name>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>Cinq semaines en ballon</value>
+</name>
 <thumbnail>
 <type>uri</type>
 <value>http://commons.wikimedia.org/wiki/Special:FilePath/Cinq_Semaines_en_ballon_001.png?width=300</value>
@@ -250,6 +285,11 @@
 <type>uri</type>
 <value>http://dbpedia.org/resource/Jules_Verne</value>
 </author>
+<name>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>Journey to the Center of the Earth</value>
+</name>
 <thumbnail>
 <type>uri</type>
 <value>http://commons.wikimedia.org/wiki/Special:FilePath/A_Journey_to_the_Centre_of_the_Earth-1874.jpg?width=300</value>
@@ -278,6 +318,11 @@
 <type>uri</type>
 <value>http://dbpedia.org/resource/Jules_Verne</value>
 </author>
+<name>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>Le Château des Carpathes</value>
+</name>
 <thumbnail>
 <type>uri</type>
 <value>http://commons.wikimedia.org/wiki/Special:FilePath/Chateaucarpathes.jpg?width=300</value>
@@ -306,6 +351,11 @@
 <type>uri</type>
 <value>http://dbpedia.org/resource/Jules_Verne</value>
 </author>
+<name>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>Deux ans de vacances</value>
+</name>
 <thumbnail>
 <type>uri</type>
 <value>http://commons.wikimedia.org/wiki/Special:FilePath/&apos;Two_Years&apos;_Vacation&apos;_by_Léon_Benett_01.jpg?width=300</value>
@@ -334,6 +384,11 @@
 <type>uri</type>
 <value>http://dbpedia.org/resource/Jules_Verne</value>
 </author>
+<name>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>The Green Ray</value>
+</name>
 <thumbnail>
 <type>uri</type>
 <value>http://commons.wikimedia.org/wiki/Special:FilePath/Verne-Paprsek-fronti.jpg?width=300</value>
@@ -362,6 +417,11 @@
 <type>uri</type>
 <value>http://dbpedia.org/resource/Jules_Verne</value>
 </author>
+<name>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>A Floating City</value>
+</name>
 <thumbnail>
 <type>uri</type>
 <value>http://commons.wikimedia.org/wiki/Special:FilePath/&apos;A_Floating_City&apos;_by_Jules_Férat_01.jpg?width=300</value>
@@ -390,6 +450,11 @@
 <type>uri</type>
 <value>http://dbpedia.org/resource/Jules_Verne</value>
 </author>
+<name>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>Off on a Comet</value>
+</name>
 <thumbnail>
 <type>uri</type>
 <value>http://commons.wikimedia.org/wiki/Special:FilePath/&apos;Off_on_a_Comet&apos;_by_Paul_Philippoteaux_001.jpg?width=300</value>
@@ -418,6 +483,11 @@
 <type>uri</type>
 <value>http://dbpedia.org/resource/Jules_Verne</value>
 </author>
+<name>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>The Village in the Treetops</value>
+</name>
 <thumbnail>
 <type>uri</type>
 <value>http://commons.wikimedia.org/wiki/Special:FilePath/&apos;The_Village_in_the_Treetops&apos;_by_George_Roux_01.jpg?width=300</value>
@@ -446,6 +516,11 @@
 <type>uri</type>
 <value>http://dbpedia.org/resource/Jules_Verne</value>
 </author>
+<name>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>The Adventures of Captain Hatteras</value>
+</name>
 <thumbnail>
 <type>uri</type>
 <value>http://commons.wikimedia.org/wiki/Special:FilePath/&apos;The_English_at_the_Noth_Pole&apos;_by_Riou_and_Montaut_002.jpg?width=300</value>
@@ -474,6 +549,11 @@
 <type>uri</type>
 <value>http://dbpedia.org/resource/Jules_Verne</value>
 </author>
+<name>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>In Search of the Castaways</value>
+</name>
 <thumbnail>
 <type>uri</type>
 <value>http://commons.wikimedia.org/wiki/Special:FilePath/&apos;The_Children_of_Captain_Grant&apos;_by_Édouard_Riou_001.jpg?width=300</value>
@@ -502,6 +582,11 @@
 <type>uri</type>
 <value>http://dbpedia.org/resource/Jules_Verne</value>
 </author>
+<name>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>De la terre à la lune</value>
+</name>
 <thumbnail>
 <type>uri</type>
 <value>http://commons.wikimedia.org/wiki/Special:FilePath/From_the_Earth_to_the_Moon_Jules_Verne.jpg?width=300</value>
@@ -530,6 +615,11 @@
 <type>uri</type>
 <value>http://dbpedia.org/resource/Jules_Verne</value>
 </author>
+<name>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>Around the Moon</value>
+</name>
 <thumbnail>
 <type>uri</type>
 <value>http://commons.wikimedia.org/wiki/Special:FilePath/&apos;Around_the_Moon&apos;_by_Bayard_and_Neuville_01.jpg?width=300</value>
@@ -558,6 +648,11 @@
 <type>uri</type>
 <value>http://dbpedia.org/resource/Jules_Verne</value>
 </author>
+<name>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>Facing the Flag</value>
+</name>
 <thumbnail>
 <type>uri</type>
 <value>http://commons.wikimedia.org/wiki/Special:FilePath/HetzelFaceAuDrapeau.jpg?width=300</value>
@@ -586,6 +681,11 @@
 <type>uri</type>
 <value>http://dbpedia.org/resource/Jules_Verne</value>
 </author>
+<name>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>Michael Strogoff</value>
+</name>
 <thumbnail>
 <type>uri</type>
 <value>http://commons.wikimedia.org/wiki/Special:FilePath/Jules_Verne_Michel_Strogoff_1876_cover.jpg?width=300</value>
@@ -614,6 +714,11 @@
 <type>uri</type>
 <value>http://dbpedia.org/resource/Jules_Verne</value>
 </author>
+<name>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>Mathias Sandorf</value>
+</name>
 <thumbnail>
 <type>uri</type>
 <value>http://commons.wikimedia.org/wiki/Special:FilePath/Sandorf_hetzel.jpg?width=300</value>
@@ -642,6 +747,11 @@
 <type>uri</type>
 <value>http://dbpedia.org/resource/Jules_Verne</value>
 </author>
+<name>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>Frritt-Flacc</value>
+</name>
 <thumbnail>
 <type>uri</type>
 <value>http://commons.wikimedia.org/wiki/Special:FilePath/Illustration_to_Frritt_Flacc_by_Jules_Verne.jpg?width=300</value>
@@ -670,6 +780,11 @@
 <type>uri</type>
 <value>http://dbpedia.org/resource/Jules_Verne</value>
 </author>
+<name>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>Gil Braltar</value>
+</name>
 <thumbnail>
 <type>uri</type>
 <value>http://commons.wikimedia.org/wiki/Special:FilePath/Gil_Braltar_by_Jules_Verne.jpg?width=300</value>
@@ -698,6 +813,11 @@
 <type>uri</type>
 <value>http://dbpedia.org/resource/Jules_Verne</value>
 </author>
+<name>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>&quot;Mutineers of the Bounty&quot;</value>
+</name>
 <thumbnail>
 <type>uri</type>
 <value>http://commons.wikimedia.org/wiki/Special:FilePath/Mutineers_of_the_Bounty_by_Jules_Verne,_illustration_by_Leon_Bennett.jpg?width=300</value>
@@ -726,6 +846,11 @@
 <type>uri</type>
 <value>http://dbpedia.org/resource/Jules_Verne</value>
 </author>
+<name>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>Invasion of the Sea</value>
+</name>
 <thumbnail>
 <type>uri</type>
 <value>http://commons.wikimedia.org/wiki/Special:FilePath/&apos;Invasion_of_the_Sea&apos;_by_Léon_Benett_01.jpg?width=300</value>
@@ -754,6 +879,11 @@
 <type>uri</type>
 <value>http://dbpedia.org/resource/Jules_Verne</value>
 </author>
+<name>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>The Secret of Wilhelm Storitz</value>
+</name>
 <thumbnail>
 <type>uri</type>
 <value>http://commons.wikimedia.org/wiki/Special:FilePath/&apos;The_Secret_of_William_Storitz&apos;_by_George_Roux_02.jpg?width=300</value>
@@ -782,6 +912,11 @@
 <type>uri</type>
 <value>http://dbpedia.org/resource/Jules_Verne</value>
 </author>
+<name>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>A Drama in Livonia</value>
+</name>
 <thumbnail>
 <type>uri</type>
 <value>http://commons.wikimedia.org/wiki/Special:FilePath/&apos;A_Drama_in_Livonia&apos;_by_Léon_Benett_01.jpg?width=300</value>
@@ -810,6 +945,11 @@
 <type>uri</type>
 <value>http://dbpedia.org/resource/Jules_Verne</value>
 </author>
+<name>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>Master of the World</value>
+</name>
 <thumbnail>
 <type>uri</type>
 <value>http://commons.wikimedia.org/wiki/Special:FilePath/&apos;Master_of_the_World&apos;_by_George_Roux_01.jpg?width=300</value>
@@ -838,6 +978,11 @@
 <type>uri</type>
 <value>http://dbpedia.org/resource/Jules_Verne</value>
 </author>
+<name>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>Robur the Conqueror</value>
+</name>
 <thumbnail>
 <type>uri</type>
 <value>http://commons.wikimedia.org/wiki/Special:FilePath/&apos;Robur_the_Conqueror&apos;_by_Léon_Benett_01.jpg?width=300</value>
@@ -866,6 +1011,11 @@
 <type>uri</type>
 <value>http://dbpedia.org/resource/Jules_Verne</value>
 </author>
+<name>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>The Child of the Cavern</value>
+</name>
 <thumbnail>
 <type>uri</type>
 <value>http://commons.wikimedia.org/wiki/Special:FilePath/&apos;The_Child_of_the_Cavern&apos;_by_Jules_Férat_01.jpg?width=300</value>
@@ -894,6 +1044,11 @@
 <type>uri</type>
 <value>http://dbpedia.org/resource/Jules_Verne</value>
 </author>
+<name>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>The Survivors of the Chancellor</value>
+</name>
 <thumbnail>
 <type>uri</type>
 <value>http://commons.wikimedia.org/wiki/Special:FilePath/&apos;The_Survivors_of_the_Chancellor&apos;_by_Édouard_Riou_01.jpg?width=300</value>
@@ -922,6 +1077,11 @@
 <type>uri</type>
 <value>http://dbpedia.org/resource/Jules_Verne</value>
 </author>
+<name>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>The Vanished Diamond</value>
+</name>
 <thumbnail>
 <type>uri</type>
 <value>http://commons.wikimedia.org/wiki/Special:FilePath/&apos;The_Vanished_Diamond&apos;_by_Léon_Benett_01.jpg?width=300</value>
@@ -950,6 +1110,11 @@
 <type>uri</type>
 <value>http://dbpedia.org/resource/Jules_Verne</value>
 </author>
+<name>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>L&apos;Île mystérieuse</value>
+</name>
 <thumbnail>
 <type>uri</type>
 <value>http://commons.wikimedia.org/wiki/Special:FilePath/Ile_Mysterieuse_02.jpg?width=300</value>
@@ -978,6 +1143,11 @@
 <type>uri</type>
 <value>http://dbpedia.org/resource/Jules_Verne</value>
 </author>
+<name>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>L&apos;École des Robinsons</value>
+</name>
 <thumbnail>
 <type>uri</type>
 <value>http://commons.wikimedia.org/wiki/Special:FilePath/Verne-Robinson-cover.jpg?width=300</value>
@@ -1006,6 +1176,11 @@
 <type>uri</type>
 <value>http://dbpedia.org/resource/Jules_Verne</value>
 </author>
+<name>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>The Lighthouse at the End of the World</value>
+</name>
 <thumbnail>
 <type>uri</type>
 <value>http://commons.wikimedia.org/wiki/Special:FilePath/&apos;The_Lighthouse_at_the_End_of_the_World&apos;_by_George_Roux_01.jpg?width=300</value>
@@ -1034,6 +1209,11 @@
 <type>uri</type>
 <value>http://dbpedia.org/resource/Jules_Verne</value>
 </author>
+<name>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>The Begum&apos;s Fortune</value>
+</name>
 <thumbnail>
 <type>uri</type>
 <value>http://commons.wikimedia.org/wiki/Special:FilePath/&apos;The_Begum&apos;s_Fortune&apos;_by_Léon_Benett_01.jpg?width=300</value>
@@ -1062,6 +1242,11 @@
 <type>uri</type>
 <value>http://dbpedia.org/resource/Jules_Verne</value>
 </author>
+<name>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>Dick Sand, A Captain at Fifteen</value>
+</name>
 <thumbnail>
 <type>uri</type>
 <value>http://commons.wikimedia.org/wiki/Special:FilePath/&apos;Dick_Sand,_A_Captain_at_Fifteen&apos;_by_Henri_Meyer_001.jpg?width=300</value>
@@ -1090,6 +1275,11 @@
 <type>uri</type>
 <value>http://dbpedia.org/resource/Jules_Verne</value>
 </author>
+<name>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>The Survivors of the &quot;Jonathan&quot;</value>
+</name>
 <thumbnail>
 <type>uri</type>
 <value>http://commons.wikimedia.org/wiki/Special:FilePath/Verne_-_Les_Naufragés_du_Jonathan,_Hetzel,_1909,_Ill._page_11.png?width=300</value>
@@ -1113,6 +1303,11 @@
 <type>uri</type>
 <value>http://dbpedia.org/resource/Jules_Verne</value>
 </author>
+<name>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>Doctor Ox</value>
+</name>
 <thumbnail>
 <type>uri</type>
 <value>http://commons.wikimedia.org/wiki/Special:FilePath/Jules_Verne_-_Le_Docteur_Ox_-_couverture.jpg?width=300</value>
@@ -1136,6 +1331,11 @@
 <type>uri</type>
 <value>http://dbpedia.org/resource/Jules_Verne</value>
 </author>
+<name>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>Vingt mille lieues sous les mers</value>
+</name>
 <thumbnail>
 <type>uri</type>
 <value>http://commons.wikimedia.org/wiki/Special:FilePath/20000_title_0a.jpg?width=300</value>
@@ -1159,6 +1359,11 @@
 <type>uri</type>
 <value>http://dbpedia.org/resource/Jules_Verne</value>
 </author>
+<name>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>L&apos;Île à hélice</value>
+</name>
 <thumbnail>
 <type>uri</type>
 <value>http://commons.wikimedia.org/wiki/Special:FilePath/&apos;Propeller_Island&apos;_by_Léon_Benett_01.jpg?width=300</value>
@@ -1182,6 +1387,11 @@
 <type>uri</type>
 <value>http://dbpedia.org/resource/Jules_Verne</value>
 </author>
+<name>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>Le Sphinx des glaces</value>
+</name>
 <thumbnail>
 <type>uri</type>
 <value>http://commons.wikimedia.org/wiki/Special:FilePath/La_esfinge_de_los_hielos.jpg?width=300</value>
@@ -1205,6 +1415,11 @@
 <type>uri</type>
 <value>http://dbpedia.org/resource/Jules_Verne</value>
 </author>
+<name>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>La Maison à vapeur</value>
+</name>
 <thumbnail>
 <type>uri</type>
 <value>http://commons.wikimedia.org/wiki/Special:FilePath/&apos;The_Steam_House&apos;_by_Léon_Benett_018.jpg?width=300</value>
@@ -1228,6 +1443,11 @@
 <type>uri</type>
 <value>http://dbpedia.org/resource/Jules_Verne</value>
 </author>
+<name>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>Mirifiques Aventures de Maître Antifer</value>
+</name>
 <thumbnail>
 <type>uri</type>
 <value>http://commons.wikimedia.org/wiki/Special:FilePath/HetzelMaitreAntifer.jpg?width=300</value>
@@ -1251,6 +1471,11 @@
 <type>uri</type>
 <value>http://dbpedia.org/resource/Jules_Verne</value>
 </author>
+<name>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>P&apos;tit-Bonhomme</value>
+</name>
 <thumbnail>
 <type>uri</type>
 <value>http://commons.wikimedia.org/wiki/Special:FilePath/&apos;Foundling_Mick&apos;_by_Léon_Benett_01.jpg?width=300</value>
@@ -1274,6 +1499,11 @@
 <type>uri</type>
 <value>http://dbpedia.org/resource/Jules_Verne</value>
 </author>
+<name>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>The Flight to France</value>
+</name>
 <thumbnail>
 <type>uri</type>
 <value>http://commons.wikimedia.org/wiki/Special:FilePath/&apos;The_Flight_to_France&apos;_by_George_Roux_01.jpg?width=300</value>
@@ -1297,6 +1527,11 @@
 <type>uri</type>
 <value>http://dbpedia.org/resource/Jules_Verne</value>
 </author>
+<name>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>The Purchase of the North Pole</value>
+</name>
 <thumbnail>
 <type>uri</type>
 <value>http://commons.wikimedia.org/wiki/Special:FilePath/&apos;The_Purchase_of_the_North_Pole&apos;_by_George_Roux_01.jpg?width=300</value>
@@ -1320,6 +1555,11 @@
 <type>uri</type>
 <value>http://dbpedia.org/resource/Jules_Verne</value>
 </author>
+<name>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>Clovis Dardentor</value>
+</name>
 <thumbnail>
 <type>uri</type>
 <value>http://commons.wikimedia.org/wiki/Special:FilePath/&apos;Clovis_Dardentor&apos;_by_Jules_Verne,_UK_edition_book_cover.jpg?width=300</value>
@@ -1343,6 +1583,11 @@
 <type>uri</type>
 <value>http://dbpedia.org/resource/Jules_Verne</value>
 </author>
+<name>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>The Castaways of the Flag</value>
+</name>
 <thumbnail>
 <type>uri</type>
 <value>http://commons.wikimedia.org/wiki/Special:FilePath/&apos;Second_Fatherland&apos;_by_George_Roux_01.jpg?width=300</value>
@@ -1366,6 +1611,11 @@
 <type>uri</type>
 <value>http://dbpedia.org/resource/Jules_Verne</value>
 </author>
+<name>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>The Golden Volcano</value>
+</name>
 <thumbnail>
 <type>uri</type>
 <value>http://commons.wikimedia.org/wiki/Special:FilePath/&apos;The_Golden_Volcano&apos;_by_George_Roux_01.jpg?width=300</value>
@@ -1389,6 +1639,11 @@
 <type>uri</type>
 <value>http://dbpedia.org/resource/Jules_Verne</value>
 </author>
+<name>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>The Sea Serpent</value>
+</name>
 <thumbnail>
 <type>uri</type>
 <value>http://commons.wikimedia.org/wiki/Special:FilePath/The_Sea_Serpent_(title).jpg?width=300</value>
@@ -1412,6 +1667,11 @@
 <type>uri</type>
 <value>http://dbpedia.org/resource/Jules_Verne</value>
 </author>
+<name>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>Les Frères Kip</value>
+</name>
 <thumbnail>
 <type>uri</type>
 <value>http://commons.wikimedia.org/wiki/Special:FilePath/&apos;The_Kip_Brothers&apos;_by_George_Roux_01.jpg?width=300</value>
@@ -1435,6 +1695,11 @@
 <type>uri</type>
 <value>http://dbpedia.org/resource/Jules_Verne</value>
 </author>
+<name>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>Travel Scholarships</value>
+</name>
 <thumbnail>
 <type>uri</type>
 <value>http://commons.wikimedia.org/wiki/Special:FilePath/Verne-stupendia.jpg?width=300</value>

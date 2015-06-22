@@ -39,6 +39,11 @@
 <type>uri</type>
 <value>http://dbpedia.org/resource/Thomas_Hardy</value>
 </author>
+<name>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>The Return of the Native</value>
+</name>
 <thumbnail>
 <type>uri</type>
 <value>http://en.wikipedia.org/wiki/Special:FilePath/Clymyeobright.jpg?width=300</value>
@@ -67,6 +72,11 @@
 <type>uri</type>
 <value>http://dbpedia.org/resource/Thomas_Hardy</value>
 </author>
+<name>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>Tess of the d&apos;Urbervilles:</value>
+</name>
 <thumbnail>
 <type>uri</type>
 <value>http://commons.wikimedia.org/wiki/Special:FilePath/Tess.jpg?width=300</value>
@@ -95,6 +105,11 @@
 <type>uri</type>
 <value>http://dbpedia.org/resource/Thomas_Hardy</value>
 </author>
+<name>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>Far From the Madding Crowd</value>
+</name>
 <thumbnail>
 <type>uri</type>
 <value>http://commons.wikimedia.org/wiki/Special:FilePath/Far-From-The-Madding-Crowd-1874-Title-Page.jpg?width=300</value>
@@ -123,6 +138,11 @@
 <type>uri</type>
 <value>http://dbpedia.org/resource/Thomas_Hardy</value>
 </author>
+<name>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>Two on a Tower</value>
+</name>
 <thumbnail>
 <type>uri</type>
 <value>http://commons.wikimedia.org/wiki/Special:FilePath/Two_on_a_Tower.jpg?width=300</value>
@@ -146,6 +166,11 @@
 <type>uri</type>
 <value>http://dbpedia.org/resource/Thomas_Hardy</value>
 </author>
+<name>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>A Pair of Blue Eyes</value>
+</name>
 <thumbnail>
 <type>uri</type>
 <value>http://commons.wikimedia.org/wiki/Special:FilePath/A_Pair_of_Blue_Eyes.jpg?width=300</value>
@@ -169,6 +194,11 @@
 <type>uri</type>
 <value>http://dbpedia.org/resource/Thomas_Hardy</value>
 </author>
+<name>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>Desperate Remedies</value>
+</name>
 <thumbnail>
 <type>uri</type>
 <value>http://commons.wikimedia.org/wiki/Special:FilePath/Desperate_Remedies_1871.jpg?width=300</value>
@@ -192,6 +222,11 @@
 <type>uri</type>
 <value>http://dbpedia.org/resource/Thomas_Hardy</value>
 </author>
+<name>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>Under the Greenwood Tree</value>
+</name>
 <thumbnail>
 <type>uri</type>
 <value>http://commons.wikimedia.org/wiki/Special:FilePath/Under_the_Greenwood_Tree.jpg?width=300</value>
@@ -215,6 +250,11 @@
 <type>uri</type>
 <value>http://dbpedia.org/resource/Thomas_Hardy</value>
 </author>
+<name>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>The Woodlanders</value>
+</name>
 <thumbnail>
 <type>uri</type>
 <value>http://commons.wikimedia.org/wiki/Special:FilePath/The_Woodlanders.jpg?width=300</value>
@@ -233,6 +273,11 @@
 <type>uri</type>
 <value>http://dbpedia.org/resource/Thomas_Hardy</value>
 </author>
+<name>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>Hearts Insurgent</value>
+</name>
 <thumbnail>
 <type>uri</type>
 <value>http://commons.wikimedia.org/wiki/Special:FilePath/Jude_the_Obscure_title_page.jpg?width=300</value>
@@ -251,6 +296,11 @@
 <type>uri</type>
 <value>http://dbpedia.org/resource/Thomas_Hardy</value>
 </author>
+<name>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>The Mayor of Casterbridge</value>
+</name>
 <thumbnail>
 <type>uri</type>
 <value>http://commons.wikimedia.org/wiki/Special:FilePath/TheMayorofCasterbridge1.png?width=300</value>

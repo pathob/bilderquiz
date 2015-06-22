@@ -67,6 +67,11 @@
 <type>uri</type>
 <value>http://dbpedia.org/resource/Jean-Jacques_Rousseau</value>
 </author>
+<name>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>Emile, Or On Education</value>
+</name>
 <thumbnail>
 <type>uri</type>
 <value>http://commons.wikimedia.org/wiki/Special:FilePath/EmileTitle.jpeg?width=300</value>
@@ -95,6 +100,11 @@
 <type>uri</type>
 <value>http://dbpedia.org/resource/Jean-Jacques_Rousseau</value>
 </author>
+<name>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>Julie, ou la nouvelle Héloïse</value>
+</name>
 <thumbnail>
 <type>uri</type>
 <value>http://commons.wikimedia.org/wiki/Special:FilePath/RousseauJulie.jpg?width=300</value>
@@ -123,6 +133,11 @@
 <type>uri</type>
 <value>http://dbpedia.org/resource/Jean-Jacques_Rousseau</value>
 </author>
+<name>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>Of The Social Contract, Or Principles of Political Right</value>
+</name>
 <thumbnail>
 <type>uri</type>
 <value>http://commons.wikimedia.org/wiki/Special:FilePath/Social_contract_rousseau_page.jpg?width=300</value>
@@ -146,6 +161,11 @@
 <type>uri</type>
 <value>http://dbpedia.org/resource/Jean-Jacques_Rousseau</value>
 </author>
+<name>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>Confessions</value>
+</name>
 <thumbnail>
 <type>uri</type>
 <value>http://commons.wikimedia.org/wiki/Special:FilePath/Confessions_Rousseau_Aldus_P028.jpg?width=300</value>
@@ -164,6 +184,11 @@
 <type>uri</type>
 <value>http://dbpedia.org/resource/Jean-Jacques_Rousseau</value>
 </author>
+<name>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>Discours sur les sciences et les arts</value>
+</name>
 <thumbnail>
 <type>uri</type>
 <value>http://commons.wikimedia.org/wiki/Special:FilePath/RousseauDiscourseSciencesArt.jpg?width=300</value>

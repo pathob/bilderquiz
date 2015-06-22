@@ -32,6 +32,11 @@
 <type>uri</type>
 <value>http://dbpedia.org/resource/Adam_Zagajewski</value>
 </author>
+<name>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>Unseen Hand</value>
+</name>
 <wikilink>
 <type>uri</type>
 <value>http://en.wikipedia.org/wiki/Unseen_Hand?oldid=539264865</value>
@@ -46,6 +51,11 @@
 <type>uri</type>
 <value>http://dbpedia.org/resource/Adam_Zagajewski</value>
 </author>
+<name>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>W cudzym pięknie</value>
+</name>
 <wikilink>
 <type>uri</type>
 <value>http://en.wikipedia.org/wiki/Another_Beauty?oldid=596175466</value>

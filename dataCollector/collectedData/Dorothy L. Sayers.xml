@@ -33,6 +33,11 @@
 <type>uri</type>
 <value>http://dbpedia.org/resource/Dorothy_L._Sayers</value>
 </author>
+<name>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>The Nine Tailors</value>
+</name>
 <thumbnail>
 <type>uri</type>
 <value>http://commons.wikimedia.org/wiki/Special:FilePath/Bells.devon.750pix.jpg?width=300</value>
@@ -56,6 +61,11 @@
 <type>uri</type>
 <value>http://dbpedia.org/resource/Dorothy_L._Sayers</value>
 </author>
+<name>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>Clouds of Witness</value>
+</name>
 <released>
 <type>literal</type>
 <xml:lang>en</xml:lang>
@@ -80,6 +90,11 @@
 <type>uri</type>
 <value>http://dbpedia.org/resource/Dorothy_L._Sayers</value>
 </author>
+<name>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>Unnatural Death</value>
+</name>
 <released>
 <type>typed-literal</type>
 <datatype>http://www.w3.org/2001/XMLSchema#integer</datatype>
@@ -104,6 +119,11 @@
 <type>uri</type>
 <value>http://dbpedia.org/resource/Dorothy_L._Sayers</value>
 </author>
+<name>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>Gaudy Night</value>
+</name>
 <released>
 <type>typed-literal</type>
 <datatype>http://www.w3.org/2001/XMLSchema#integer</datatype>
@@ -123,6 +143,11 @@
 <type>uri</type>
 <value>http://dbpedia.org/resource/Dorothy_L._Sayers</value>
 </author>
+<name>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>Whose Body?</value>
+</name>
 <released>
 <type>typed-literal</type>
 <datatype>http://www.w3.org/2001/XMLSchema#integer</datatype>
@@ -142,6 +167,11 @@
 <type>uri</type>
 <value>http://dbpedia.org/resource/Dorothy_L._Sayers</value>
 </author>
+<name>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>Murder Must Advertise</value>
+</name>
 <released>
 <type>typed-literal</type>
 <datatype>http://www.w3.org/2001/XMLSchema#integer</datatype>
@@ -161,6 +191,11 @@
 <type>uri</type>
 <value>http://dbpedia.org/resource/Dorothy_L._Sayers</value>
 </author>
+<name>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>Busman&apos;s Honeymoon</value>
+</name>
 <released>
 <type>typed-literal</type>
 <datatype>http://www.w3.org/2001/XMLSchema#integer</datatype>
@@ -180,6 +215,11 @@
 <type>uri</type>
 <value>http://dbpedia.org/resource/Dorothy_L._Sayers</value>
 </author>
+<name>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>Five Red Herrings</value>
+</name>
 <released>
 <type>typed-literal</type>
 <datatype>http://www.w3.org/2001/XMLSchema#integer</datatype>
@@ -199,6 +239,11 @@
 <type>uri</type>
 <value>http://dbpedia.org/resource/Dorothy_L._Sayers</value>
 </author>
+<name>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>Have His Carcase</value>
+</name>
 <released>
 <type>typed-literal</type>
 <datatype>http://www.w3.org/2001/XMLSchema#integer</datatype>
@@ -218,6 +263,11 @@
 <type>uri</type>
 <value>http://dbpedia.org/resource/Dorothy_L._Sayers</value>
 </author>
+<name>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>Strong Poison</value>
+</name>
 <released>
 <type>typed-literal</type>
 <datatype>http://www.w3.org/2001/XMLSchema#integer</datatype>
@@ -237,6 +287,11 @@
 <type>uri</type>
 <value>http://dbpedia.org/resource/Dorothy_L._Sayers</value>
 </author>
+<name>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>The Unpleasantness at the Bellona Club</value>
+</name>
 <released>
 <type>typed-literal</type>
 <datatype>http://www.w3.org/2001/XMLSchema#integer</datatype>
@@ -256,6 +311,11 @@
 <type>uri</type>
 <value>http://dbpedia.org/resource/Dorothy_L._Sayers</value>
 </author>
+<name>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>Thrones, Dominations</value>
+</name>
 <released>
 <type>typed-literal</type>
 <datatype>http://www.w3.org/2001/XMLSchema#integer</datatype>
@@ -275,6 +335,11 @@
 <type>uri</type>
 <value>http://dbpedia.org/resource/Dorothy_L._Sayers</value>
 </author>
+<name>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>The Documents in the Case</value>
+</name>
 <released>
 <type>typed-literal</type>
 <datatype>http://www.w3.org/2001/XMLSchema#integer</datatype>
@@ -294,6 +359,11 @@
 <type>uri</type>
 <value>http://dbpedia.org/resource/Dorothy_L._Sayers</value>
 </author>
+<name>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>The Floating Admiral</value>
+</name>
 <released>
 <type>literal</type>
 <xml:lang>en</xml:lang>
@@ -313,6 +383,11 @@
 <type>uri</type>
 <value>http://dbpedia.org/resource/Dorothy_L._Sayers</value>
 </author>
+<name>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>The Scoop and Behind the Screen</value>
+</name>
 <released>
 <type>typed-literal</type>
 <datatype>http://www.w3.org/2001/XMLSchema#integer</datatype>

@@ -35,6 +35,11 @@
 <type>uri</type>
 <value>http://dbpedia.org/resource/Carl_Gustav_Hempel</value>
 </author>
+<name>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>Philosophy of Natural Science</value>
+</name>
 <published>
 <type>typed-literal</type>
 <datatype>http://www.w3.org/2001/XMLSchema#integer</datatype>
@@ -54,6 +59,11 @@
 <type>uri</type>
 <value>http://dbpedia.org/resource/Carl_Gustav_Hempel</value>
 </author>
+<name>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>Aspects of Scientific Explanation and other Essays in the Philosophy of Science</value>
+</name>
 <published>
 <type>typed-literal</type>
 <datatype>http://www.w3.org/2001/XMLSchema#integer</datatype>

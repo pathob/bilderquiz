@@ -40,6 +40,11 @@
 <type>uri</type>
 <value>http://dbpedia.org/resource/Henri_Barbusse</value>
 </author>
+<name>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>Under Fire: The Story of a Squad</value>
+</name>
 <released>
 <type>literal</type>
 <xml:lang>en</xml:lang>

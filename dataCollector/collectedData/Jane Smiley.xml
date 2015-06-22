@@ -28,6 +28,11 @@
 <type>uri</type>
 <value>http://dbpedia.org/resource/Jane_Smiley</value>
 </author>
+<name>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>A Thousand Acres</value>
+</name>
 <released>
 <type>typed-literal</type>
 <datatype>http://www.w3.org/2001/XMLSchema#date</datatype>
@@ -47,6 +52,11 @@
 <type>uri</type>
 <value>http://dbpedia.org/resource/Jane_Smiley</value>
 </author>
+<name>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>Moo</value>
+</name>
 <released>
 <type>typed-literal</type>
 <datatype>http://www.w3.org/2001/XMLSchema#date</datatype>

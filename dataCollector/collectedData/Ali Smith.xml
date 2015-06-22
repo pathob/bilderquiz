@@ -28,6 +28,11 @@
 <type>uri</type>
 <value>http://dbpedia.org/resource/Ali_Smith</value>
 </author>
+<name>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>Like</value>
+</name>
 <released>
 <type>typed-literal</type>
 <datatype>http://www.w3.org/2001/XMLSchema#integer</datatype>
@@ -47,6 +52,11 @@
 <type>uri</type>
 <value>http://dbpedia.org/resource/Ali_Smith</value>
 </author>
+<name>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>Free Love and Other Stories</value>
+</name>
 <released>
 <type>typed-literal</type>
 <datatype>http://www.w3.org/2001/XMLSchema#integer</datatype>
@@ -66,6 +76,11 @@
 <type>uri</type>
 <value>http://dbpedia.org/resource/Ali_Smith</value>
 </author>
+<name>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>The Whole Story and Other Stories</value>
+</name>
 <released>
 <type>typed-literal</type>
 <datatype>http://www.w3.org/2001/XMLSchema#integer</datatype>
@@ -85,6 +100,11 @@
 <type>uri</type>
 <value>http://dbpedia.org/resource/Ali_Smith</value>
 </author>
+<name>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>The First Person and Other Stories</value>
+</name>
 <released>
 <type>typed-literal</type>
 <datatype>http://www.w3.org/2001/XMLSchema#integer</datatype>
@@ -104,6 +124,11 @@
 <type>uri</type>
 <value>http://dbpedia.org/resource/Ali_Smith</value>
 </author>
+<name>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>There But For The</value>
+</name>
 <released>
 <type>literal</type>
 <xml:lang>en</xml:lang>
@@ -123,6 +148,11 @@
 <type>uri</type>
 <value>http://dbpedia.org/resource/Ali_Smith</value>
 </author>
+<name>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>Hotel World</value>
+</name>
 <wikilink>
 <type>uri</type>
 <value>http://en.wikipedia.org/wiki/Hotel_World?oldid=602156012</value>
@@ -137,6 +167,11 @@
 <type>uri</type>
 <value>http://dbpedia.org/resource/Ali_Smith</value>
 </author>
+<name>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>Girl Meets Boy</value>
+</name>
 <wikilink>
 <type>uri</type>
 <value>http://en.wikipedia.org/wiki/Girl_Meets_Boy?oldid=590502022</value>
@@ -151,6 +186,11 @@
 <type>uri</type>
 <value>http://dbpedia.org/resource/Ali_Smith</value>
 </author>
+<name>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>The Accidental</value>
+</name>
 <wikilink>
 <type>uri</type>
 <value>http://en.wikipedia.org/wiki/The_Accidental?oldid=600005035</value>

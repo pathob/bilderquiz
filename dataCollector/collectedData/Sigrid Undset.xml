@@ -32,6 +32,11 @@
 <type>uri</type>
 <value>http://dbpedia.org/resource/Sigrid_Undset</value>
 </author>
+<name>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>Gunnar&apos;s Daughter</value>
+</name>
 <thumbnail>
 <type>uri</type>
 <value>http://en.wikipedia.org/wiki/Special:FilePath/Gunnarsdatter_Characters.jpg?width=300</value>
@@ -55,6 +60,11 @@
 <type>uri</type>
 <value>http://dbpedia.org/resource/Sigrid_Undset</value>
 </author>
+<name>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>The Master of Hestviken</value>
+</name>
 <released>
 <type>typed-literal</type>
 <datatype>http://www.w3.org/2001/XMLSchema#integer</datatype>
@@ -74,6 +84,11 @@
 <type>uri</type>
 <value>http://dbpedia.org/resource/Sigrid_Undset</value>
 </author>
+<name>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>Kristin Lavransdatter (Kransen, Husfrue, Korset)</value>
+</name>
 <released>
 <type>typed-literal</type>
 <datatype>http://www.w3.org/2001/XMLSchema#decimal</datatype>
@@ -93,6 +108,11 @@
 <type>uri</type>
 <value>http://dbpedia.org/resource/Sigrid_Undset</value>
 </author>
+<name>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>Jenny</value>
+</name>
 <released>
 <type>typed-literal</type>
 <datatype>http://www.w3.org/2001/XMLSchema#integer</datatype>
@@ -112,6 +132,11 @@
 <type>uri</type>
 <value>http://dbpedia.org/resource/Sigrid_Undset</value>
 </author>
+<name>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>Vaaren</value>
+</name>
 <released>
 <type>typed-literal</type>
 <datatype>http://www.w3.org/2001/XMLSchema#integer</datatype>

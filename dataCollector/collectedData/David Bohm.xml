@@ -27,6 +27,11 @@
 <type>uri</type>
 <value>http://dbpedia.org/resource/David_Bohm</value>
 </author>
+<name>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>Wholeness and the Implicate Order</value>
+</name>
 <released>
 <type>typed-literal</type>
 <datatype>http://www.w3.org/2001/XMLSchema#integer</datatype>
@@ -46,6 +51,11 @@
 <type>uri</type>
 <value>http://dbpedia.org/resource/David_Bohm</value>
 </author>
+<name>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>Science, Order, and Creativity</value>
+</name>
 <released>
 <type>typed-literal</type>
 <datatype>http://www.w3.org/2001/XMLSchema#integer</datatype>

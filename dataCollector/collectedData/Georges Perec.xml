@@ -31,6 +31,11 @@
 <type>uri</type>
 <value>http://dbpedia.org/resource/Georges_Perec</value>
 </author>
+<name>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>La Vie mode d&apos;emploi</value>
+</name>
 <wikilink>
 <type>uri</type>
 <value>http://en.wikipedia.org/wiki/Life_A_User&apos;s_Manual?oldid=591828184</value>
@@ -50,6 +55,11 @@
 <type>uri</type>
 <value>http://dbpedia.org/resource/Georges_Perec</value>
 </author>
+<name>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>A Void</value>
+</name>
 <wikilink>
 <type>uri</type>
 <value>http://en.wikipedia.org/wiki/A_Void?oldid=604874481</value>
@@ -69,6 +79,11 @@
 <type>uri</type>
 <value>http://dbpedia.org/resource/Georges_Perec</value>
 </author>
+<name>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>A Man Asleep</value>
+</name>
 <wikilink>
 <type>uri</type>
 <value>http://en.wikipedia.org/wiki/A_Man_Asleep?oldid=550033142</value>
@@ -88,6 +103,11 @@
 <type>uri</type>
 <value>http://dbpedia.org/resource/Georges_Perec</value>
 </author>
+<name>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>Which Moped with Chrome-plated Handlebars at the Back of the Yard?</value>
+</name>
 <wikilink>
 <type>uri</type>
 <value>http://en.wikipedia.org/wiki/Which_Moped_with_Chrome-plated_Handlebars_at_the_Back_of_the_Yard%3F?oldid=591407120</value>
@@ -102,6 +122,11 @@
 <type>uri</type>
 <value>http://dbpedia.org/resource/Georges_Perec</value>
 </author>
+<name>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>W, or the Memory of Childhood</value>
+</name>
 <wikilink>
 <type>uri</type>
 <value>http://en.wikipedia.org/wiki/W,_or_the_Memory_of_Childhood?oldid=605457453</value>

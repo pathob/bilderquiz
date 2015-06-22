@@ -32,6 +32,11 @@
 <type>uri</type>
 <value>http://dbpedia.org/resource/Idries_Shah</value>
 </author>
+<name>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>Special Illumination: The Sufi Use Of Humour</value>
+</name>
 <thumbnail>
 <type>uri</type>
 <value>http://commons.wikimedia.org/wiki/Special:FilePath/Idries_Shah.gif?width=300</value>
@@ -55,6 +60,11 @@
 <type>uri</type>
 <value>http://dbpedia.org/resource/Idries_Shah</value>
 </author>
+<name>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>Knowing How to Know</value>
+</name>
 <thumbnail>
 <type>uri</type>
 <value>http://commons.wikimedia.org/wiki/Special:FilePath/Idries_Shah.gif?width=300</value>
@@ -78,6 +88,11 @@
 <type>uri</type>
 <value>http://dbpedia.org/resource/Idries_Shah</value>
 </author>
+<name>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>Wisdom of the Idiots</value>
+</name>
 <thumbnail>
 <type>uri</type>
 <value>http://commons.wikimedia.org/wiki/Special:FilePath/Idries_Shah.gif?width=300</value>
@@ -101,6 +116,11 @@
 <type>uri</type>
 <value>http://dbpedia.org/resource/Idries_Shah</value>
 </author>
+<name>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>The Dermis Probe</value>
+</name>
 <thumbnail>
 <type>uri</type>
 <value>http://commons.wikimedia.org/wiki/Special:FilePath/Idries_Shah.gif?width=300</value>
@@ -124,6 +144,11 @@
 <type>uri</type>
 <value>http://dbpedia.org/resource/Idries_Shah</value>
 </author>
+<name>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>Neglected Aspects of Sufi Study</value>
+</name>
 <thumbnail>
 <type>uri</type>
 <value>http://commons.wikimedia.org/wiki/Special:FilePath/Idries_Shah.gif?width=300</value>
@@ -147,6 +172,11 @@
 <type>uri</type>
 <value>http://dbpedia.org/resource/Idries_Shah</value>
 </author>
+<name>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>Learning How to Learn: Psychology and Spirituality in the Sufi Way</value>
+</name>
 <thumbnail>
 <type>uri</type>
 <value>http://commons.wikimedia.org/wiki/Special:FilePath/Idries_Shah.gif?width=300</value>
@@ -170,6 +200,11 @@
 <type>uri</type>
 <value>http://dbpedia.org/resource/Idries_Shah</value>
 </author>
+<name>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>The Commanding Self</value>
+</name>
 <thumbnail>
 <type>uri</type>
 <value>http://commons.wikimedia.org/wiki/Special:FilePath/Idries_Shah.gif?width=300</value>
@@ -193,6 +228,11 @@
 <type>uri</type>
 <value>http://dbpedia.org/resource/Idries_Shah</value>
 </author>
+<name>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>Seeker After Truth: A Handbook</value>
+</name>
 <thumbnail>
 <type>uri</type>
 <value>http://commons.wikimedia.org/wiki/Special:FilePath/Idries_Shah.gif?width=300</value>
@@ -216,6 +256,11 @@
 <type>uri</type>
 <value>http://dbpedia.org/resource/Idries_Shah</value>
 </author>
+<name>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>Oriental Magic</value>
+</name>
 <thumbnail>
 <type>uri</type>
 <value>http://commons.wikimedia.org/wiki/Special:FilePath/Idries_Shah.gif?width=300</value>
@@ -239,6 +284,11 @@
 <type>uri</type>
 <value>http://dbpedia.org/resource/Idries_Shah</value>
 </author>
+<name>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>Destination Mecca</value>
+</name>
 <thumbnail>
 <type>uri</type>
 <value>http://commons.wikimedia.org/wiki/Special:FilePath/Idries_Shah.gif?width=300</value>
@@ -262,6 +312,11 @@
 <type>uri</type>
 <value>http://dbpedia.org/resource/Idries_Shah</value>
 </author>
+<name>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>The Secret Lore of Magic</value>
+</name>
 <thumbnail>
 <type>uri</type>
 <value>http://commons.wikimedia.org/wiki/Special:FilePath/Idries_Shah.gif?width=300</value>
@@ -280,6 +335,11 @@
 <type>uri</type>
 <value>http://dbpedia.org/resource/Idries_Shah</value>
 </author>
+<name>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>The Way of the Sufi</value>
+</name>
 <released>
 <type>typed-literal</type>
 <datatype>http://www.w3.org/2001/XMLSchema#integer</datatype>
@@ -299,6 +359,11 @@
 <type>uri</type>
 <value>http://dbpedia.org/resource/Idries_Shah</value>
 </author>
+<name>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>Tales of the Dervishes</value>
+</name>
 <released>
 <type>typed-literal</type>
 <datatype>http://www.w3.org/2001/XMLSchema#integer</datatype>
@@ -318,6 +383,11 @@
 <type>uri</type>
 <value>http://dbpedia.org/resource/Idries_Shah</value>
 </author>
+<name>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>World Tales</value>
+</name>
 <released>
 <type>typed-literal</type>
 <datatype>http://www.w3.org/2001/XMLSchema#integer</datatype>
@@ -337,6 +407,11 @@
 <type>uri</type>
 <value>http://dbpedia.org/resource/Idries_Shah</value>
 </author>
+<name>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>A Perfumed Scorpion</value>
+</name>
 <released>
 <type>typed-literal</type>
 <datatype>http://www.w3.org/2001/XMLSchema#integer</datatype>
@@ -356,6 +431,11 @@
 <type>uri</type>
 <value>http://dbpedia.org/resource/Idries_Shah</value>
 </author>
+<name>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>Thinkers of the East - Studies in Experientialism</value>
+</name>
 <released>
 <type>typed-literal</type>
 <datatype>http://www.w3.org/2001/XMLSchema#integer</datatype>
@@ -375,6 +455,11 @@
 <type>uri</type>
 <value>http://dbpedia.org/resource/Idries_Shah</value>
 </author>
+<name>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>Reflections</value>
+</name>
 <released>
 <type>typed-literal</type>
 <datatype>http://www.w3.org/2001/XMLSchema#integer</datatype>
@@ -394,6 +479,11 @@
 <type>uri</type>
 <value>http://dbpedia.org/resource/Idries_Shah</value>
 </author>
+<name>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>The Sufis</value>
+</name>
 <released>
 <type>typed-literal</type>
 <datatype>http://www.w3.org/2001/XMLSchema#integer</datatype>

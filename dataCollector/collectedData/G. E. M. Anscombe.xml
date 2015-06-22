@@ -40,6 +40,11 @@
 <type>uri</type>
 <value>http://dbpedia.org/resource/G._E._M._Anscombe</value>
 </author>
+<name>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>Intention</value>
+</name>
 <published>
 <type>typed-literal</type>
 <datatype>http://www.w3.org/2001/XMLSchema#integer</datatype>

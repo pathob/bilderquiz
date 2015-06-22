@@ -41,6 +41,11 @@
 <type>uri</type>
 <value>http://dbpedia.org/resource/Pablo_Neruda</value>
 </author>
+<name>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>Cien sonetos de amor</value>
+</name>
 <released>
 <type>typed-literal</type>
 <datatype>http://www.w3.org/2001/XMLSchema#integer</datatype>
@@ -60,6 +65,11 @@
 <type>uri</type>
 <value>http://dbpedia.org/resource/Pablo_Neruda</value>
 </author>
+<name>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>Canto General</value>
+</name>
 <wikilink>
 <type>uri</type>
 <value>http://en.wikipedia.org/wiki/Canto_General?oldid=602735824</value>

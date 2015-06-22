@@ -29,6 +29,11 @@
 <type>uri</type>
 <value>http://dbpedia.org/resource/Flannery_O&apos;Connor</value>
 </author>
+<name>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>Everything That Rises Must Converge</value>
+</name>
 <released>
 <type>literal</type>
 <xml:lang>en</xml:lang>
@@ -48,6 +53,11 @@
 <type>uri</type>
 <value>http://dbpedia.org/resource/Flannery_O&apos;Connor</value>
 </author>
+<name>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>The Violent Bear It Away</value>
+</name>
 <released>
 <type>typed-literal</type>
 <datatype>http://www.w3.org/2001/XMLSchema#integer</datatype>
@@ -67,6 +77,11 @@
 <type>uri</type>
 <value>http://dbpedia.org/resource/Flannery_O&apos;Connor</value>
 </author>
+<name>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>Wise Blood</value>
+</name>
 <released>
 <type>typed-literal</type>
 <datatype>http://www.w3.org/2001/XMLSchema#date</datatype>
@@ -86,6 +101,11 @@
 <type>uri</type>
 <value>http://dbpedia.org/resource/Flannery_O&apos;Connor</value>
 </author>
+<name>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>A Good Man Is Hard to Find</value>
+</name>
 <published>
 <type>typed-literal</type>
 <datatype>http://www.w3.org/2001/XMLSchema#integer</datatype>
@@ -105,6 +125,11 @@
 <type>uri</type>
 <value>http://dbpedia.org/resource/Flannery_O&apos;Connor</value>
 </author>
+<name>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>The Complete Stories</value>
+</name>
 <wikilink>
 <type>uri</type>
 <value>http://en.wikipedia.org/wiki/The_Complete_Stories_(O&apos;Connor)?oldid=584223465</value>

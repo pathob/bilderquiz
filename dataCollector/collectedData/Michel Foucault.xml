@@ -44,6 +44,11 @@
 <type>uri</type>
 <value>http://dbpedia.org/resource/Michel_Foucault</value>
 </author>
+<name>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>Discipline and Punish</value>
+</name>
 <published>
 <type>literal</type>
 <xml:lang>en</xml:lang>
@@ -69,6 +74,11 @@
 <type>uri</type>
 <value>http://dbpedia.org/resource/Michel_Foucault</value>
 </author>
+<name>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>Les Mots et les choses</value>
+</name>
 <published>
 <type>literal</type>
 <xml:lang>en</xml:lang>
@@ -94,6 +104,11 @@
 <type>uri</type>
 <value>http://dbpedia.org/resource/Michel_Foucault</value>
 </author>
+<name>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>Introduction to Kant&apos;s Anthropology</value>
+</name>
 <published>
 <type>typed-literal</type>
 <datatype>http://www.w3.org/2001/XMLSchema#integer</datatype>
@@ -113,6 +128,11 @@
 <type>uri</type>
 <value>http://dbpedia.org/resource/Michel_Foucault</value>
 </author>
+<name>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>Madness and Civilization: A History of Insanity in the Age of Reason</value>
+</name>
 <published>
 <type>typed-literal</type>
 <datatype>http://www.w3.org/2001/XMLSchema#integer</datatype>
@@ -132,6 +152,11 @@
 <type>uri</type>
 <value>http://dbpedia.org/resource/Michel_Foucault</value>
 </author>
+<name>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>The Birth of the Clinic</value>
+</name>
 <published>
 <type>literal</type>
 <xml:lang>en</xml:lang>
@@ -152,6 +177,11 @@
 <type>uri</type>
 <value>http://dbpedia.org/resource/Michel_Foucault</value>
 </author>
+<name>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>Herculine Barbin: Being the Recently Discovered Memoirs of a Nineteenth-century French Hermaphrodite</value>
+</name>
 <wikilink>
 <type>uri</type>
 <value>http://en.wikipedia.org/wiki/Herculine_Barbin:_Being_the_Recently_Discovered_Memoirs_of_a_Nineteenth-century_French_Hermaphrodite?oldid=593050103</value>
@@ -166,6 +196,11 @@
 <type>uri</type>
 <value>http://dbpedia.org/resource/Michel_Foucault</value>
 </author>
+<name>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>Histoire de la sexualité</value>
+</name>
 <wikilink>
 <type>uri</type>
 <value>http://en.wikipedia.org/wiki/The_History_of_Sexuality?oldid=601783957</value>
@@ -180,6 +215,11 @@
 <type>uri</type>
 <value>http://dbpedia.org/resource/Michel_Foucault</value>
 </author>
+<name>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>The Archaeology of Knowledge</value>
+</name>
 <wikilink>
 <type>uri</type>
 <value>http://en.wikipedia.org/wiki/The_Archaeology_of_Knowledge?oldid=590000566</value>

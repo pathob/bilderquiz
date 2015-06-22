@@ -32,6 +32,11 @@
 <type>uri</type>
 <value>http://dbpedia.org/resource/Michael_Lewis</value>
 </author>
+<name>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>(The Art of Winning an Unfair Game)</value>
+</name>
 <thumbnail>
 <type>uri</type>
 <value>http://commons.wikimedia.org/wiki/Special:FilePath/MONEYBALLchart.png?width=300</value>
@@ -55,6 +60,11 @@
 <type>uri</type>
 <value>http://dbpedia.org/resource/Michael_Lewis</value>
 </author>
+<name>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>Boomerang</value>
+</name>
 <released>
 <type>typed-literal</type>
 <datatype>http://www.w3.org/2001/XMLSchema#date</datatype>
@@ -74,6 +84,11 @@
 <type>uri</type>
 <value>http://dbpedia.org/resource/Michael_Lewis</value>
 </author>
+<name>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>The New New Thing</value>
+</name>
 <released>
 <type>typed-literal</type>
 <datatype>http://www.w3.org/2001/XMLSchema#date</datatype>
@@ -93,6 +108,11 @@
 <type>uri</type>
 <value>http://dbpedia.org/resource/Michael_Lewis</value>
 </author>
+<name>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>Next</value>
+</name>
 <released>
 <type>typed-literal</type>
 <datatype>http://www.w3.org/2001/XMLSchema#date</datatype>
@@ -112,6 +132,11 @@
 <type>uri</type>
 <value>http://dbpedia.org/resource/Michael_Lewis</value>
 </author>
+<name>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>The Big Short: Inside the Doomsday Machine</value>
+</name>
 <released>
 <type>typed-literal</type>
 <datatype>http://www.w3.org/2001/XMLSchema#date</datatype>
@@ -131,6 +156,11 @@
 <type>uri</type>
 <value>http://dbpedia.org/resource/Michael_Lewis</value>
 </author>
+<name>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>Panic: The Story of Modern Financial Insanity</value>
+</name>
 <released>
 <type>typed-literal</type>
 <datatype>http://www.w3.org/2001/XMLSchema#date</datatype>
@@ -150,6 +180,11 @@
 <type>uri</type>
 <value>http://dbpedia.org/resource/Michael_Lewis</value>
 </author>
+<name>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>(Evolution of a Game)</value>
+</name>
 <wikilink>
 <type>uri</type>
 <value>http://en.wikipedia.org/wiki/The_Blind_Side:_Evolution_of_a_Game?oldid=606215944</value>
@@ -164,6 +199,11 @@
 <type>uri</type>
 <value>http://dbpedia.org/resource/Michael_Lewis</value>
 </author>
+<name>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>(A Wall Street Revolt)</value>
+</name>
 <wikilink>
 <type>uri</type>
 <value>http://en.wikipedia.org/wiki/Flash_Boys?oldid=606656602</value>

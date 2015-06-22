@@ -31,6 +31,11 @@
 <type>uri</type>
 <value>http://dbpedia.org/resource/Evelyn_Waugh</value>
 </author>
+<name>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>Brideshead Revisited, The Sacred &amp; Profane Memories of Captain Charles Ryder</value>
+</name>
 <released>
 <type>typed-literal</type>
 <datatype>http://www.w3.org/2001/XMLSchema#integer</datatype>
@@ -55,6 +60,11 @@
 <type>uri</type>
 <value>http://dbpedia.org/resource/Evelyn_Waugh</value>
 </author>
+<name>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>Put Out More Flags</value>
+</name>
 <released>
 <type>typed-literal</type>
 <datatype>http://www.w3.org/2001/XMLSchema#integer</datatype>
@@ -74,6 +84,11 @@
 <type>uri</type>
 <value>http://dbpedia.org/resource/Evelyn_Waugh</value>
 </author>
+<name>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>A Handful of Dust</value>
+</name>
 <released>
 <type>typed-literal</type>
 <datatype>http://www.w3.org/2001/XMLSchema#integer</datatype>
@@ -93,6 +108,11 @@
 <type>uri</type>
 <value>http://dbpedia.org/resource/Evelyn_Waugh</value>
 </author>
+<name>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>Black Mischief</value>
+</name>
 <released>
 <type>typed-literal</type>
 <datatype>http://www.w3.org/2001/XMLSchema#integer</datatype>
@@ -112,6 +132,11 @@
 <type>uri</type>
 <value>http://dbpedia.org/resource/Evelyn_Waugh</value>
 </author>
+<name>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>Helena</value>
+</name>
 <released>
 <type>typed-literal</type>
 <datatype>http://www.w3.org/2001/XMLSchema#integer</datatype>
@@ -131,6 +156,11 @@
 <type>uri</type>
 <value>http://dbpedia.org/resource/Evelyn_Waugh</value>
 </author>
+<name>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>Scoop</value>
+</name>
 <released>
 <type>typed-literal</type>
 <datatype>http://www.w3.org/2001/XMLSchema#integer</datatype>
@@ -150,6 +180,11 @@
 <type>uri</type>
 <value>http://dbpedia.org/resource/Evelyn_Waugh</value>
 </author>
+<name>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>Love Among the Ruins: A Romance of the Near Future</value>
+</name>
 <released>
 <type>typed-literal</type>
 <datatype>http://www.w3.org/2001/XMLSchema#integer</datatype>
@@ -169,6 +204,11 @@
 <type>uri</type>
 <value>http://dbpedia.org/resource/Evelyn_Waugh</value>
 </author>
+<name>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>Decline and Fall</value>
+</name>
 <released>
 <type>typed-literal</type>
 <datatype>http://www.w3.org/2001/XMLSchema#integer</datatype>
@@ -188,6 +228,11 @@
 <type>uri</type>
 <value>http://dbpedia.org/resource/Evelyn_Waugh</value>
 </author>
+<name>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>The Loved One</value>
+</name>
 <released>
 <type>literal</type>
 <xml:lang>en</xml:lang>
@@ -207,6 +252,11 @@
 <type>uri</type>
 <value>http://dbpedia.org/resource/Evelyn_Waugh</value>
 </author>
+<name>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>Vile Bodies</value>
+</name>
 <released>
 <type>typed-literal</type>
 <datatype>http://www.w3.org/2001/XMLSchema#integer</datatype>
@@ -226,6 +276,11 @@
 <type>uri</type>
 <value>http://dbpedia.org/resource/Evelyn_Waugh</value>
 </author>
+<name>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>Scott-King&apos;s Modern Europe</value>
+</name>
 <released>
 <type>typed-literal</type>
 <datatype>http://www.w3.org/2001/XMLSchema#integer</datatype>
@@ -245,6 +300,11 @@
 <type>uri</type>
 <value>http://dbpedia.org/resource/Evelyn_Waugh</value>
 </author>
+<name>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>The Ordeal of Gilbert Pinfold</value>
+</name>
 <released>
 <type>typed-literal</type>
 <datatype>http://www.w3.org/2001/XMLSchema#integer</datatype>
@@ -264,6 +324,11 @@
 <type>uri</type>
 <value>http://dbpedia.org/resource/Evelyn_Waugh</value>
 </author>
+<name>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>When The Going Was Good</value>
+</name>
 <wikilink>
 <type>uri</type>
 <value>http://en.wikipedia.org/wiki/When_the_Going_Was_Good?oldid=605427940</value>

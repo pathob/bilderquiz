@@ -187,6 +187,11 @@
 <type>uri</type>
 <value>http://dbpedia.org/resource/Rem_Koolhaas</value>
 </author>
+<name>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>S,M,L,XL</value>
+</name>
 <wikilink>
 <type>uri</type>
 <value>http://en.wikipedia.org/wiki/S,M,L,XL?oldid=595859915</value>

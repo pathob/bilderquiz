@@ -34,6 +34,11 @@
 <type>uri</type>
 <value>http://dbpedia.org/resource/Ernst_Neufert</value>
 </author>
+<name>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>Architects&apos; Data</value>
+</name>
 <wikilink>
 <type>uri</type>
 <value>http://en.wikipedia.org/wiki/Architects&apos;_data?oldid=587930851</value>

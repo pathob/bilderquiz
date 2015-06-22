@@ -73,6 +73,11 @@
 <type>uri</type>
 <value>http://dbpedia.org/resource/Mao_Zedong</value>
 </author>
+<name>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>&apos;&apos;(&quot;Little Red Book&quot;)</value>
+</name>
 <thumbnail>
 <type>uri</type>
 <value>http://commons.wikimedia.org/wiki/Special:FilePath/Citations_du_President_Mao_Tsetoung_Livre_rouge-1966_photo_Mao.JPG?width=300</value>
@@ -101,6 +106,11 @@
 <type>uri</type>
 <value>http://dbpedia.org/resource/Mao_Zedong</value>
 </author>
+<name>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>论游击战</value>
+</name>
 <published>
 <type>typed-literal</type>
 <datatype>http://www.w3.org/2001/XMLSchema#integer</datatype>

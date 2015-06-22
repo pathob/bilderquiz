@@ -64,6 +64,11 @@
 <type>uri</type>
 <value>http://dbpedia.org/resource/B._Traven</value>
 </author>
+<name>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>Das Totenschiff</value>
+</name>
 <released>
 <type>typed-literal</type>
 <datatype>http://www.w3.org/2001/XMLSchema#integer</datatype>
@@ -88,6 +93,11 @@
 <type>uri</type>
 <value>http://dbpedia.org/resource/B._Traven</value>
 </author>
+<name>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>Der Schatz der Sierra Madre</value>
+</name>
 <released>
 <type>typed-literal</type>
 <datatype>http://www.w3.org/2001/XMLSchema#integer</datatype>

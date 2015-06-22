@@ -35,6 +35,11 @@
 <type>uri</type>
 <value>http://dbpedia.org/resource/Italo_Calvino</value>
 </author>
+<name>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>Le città invisibili</value>
+</name>
 <released>
 <type>typed-literal</type>
 <datatype>http://www.w3.org/2001/XMLSchema#integer</datatype>
@@ -59,6 +64,11 @@
 <type>uri</type>
 <value>http://dbpedia.org/resource/Italo_Calvino</value>
 </author>
+<name>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>Il sentiero dei nidi di ragno</value>
+</name>
 <released>
 <type>typed-literal</type>
 <datatype>http://www.w3.org/2001/XMLSchema#integer</datatype>
@@ -78,6 +88,11 @@
 <type>uri</type>
 <value>http://dbpedia.org/resource/Italo_Calvino</value>
 </author>
+<name>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>Ti con zero</value>
+</name>
 <released>
 <type>typed-literal</type>
 <datatype>http://www.w3.org/2001/XMLSchema#integer</datatype>
@@ -97,6 +112,11 @@
 <type>uri</type>
 <value>http://dbpedia.org/resource/Italo_Calvino</value>
 </author>
+<name>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>The Complete Cosmicomics</value>
+</name>
 <released>
 <type>literal</type>
 <xml:lang>en</xml:lang>
@@ -116,6 +136,11 @@
 <type>uri</type>
 <value>http://dbpedia.org/resource/Italo_Calvino</value>
 </author>
+<name>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>Difficult Loves</value>
+</name>
 <published>
 <type>typed-literal</type>
 <datatype>http://www.w3.org/2001/XMLSchema#integer</datatype>
@@ -135,6 +160,11 @@
 <type>uri</type>
 <value>http://dbpedia.org/resource/Italo_Calvino</value>
 </author>
+<name>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>Cosmicomics</value>
+</name>
 <wikilink>
 <type>uri</type>
 <value>http://en.wikipedia.org/wiki/Cosmicomics?oldid=584346094</value>
@@ -149,6 +179,11 @@
 <type>uri</type>
 <value>http://dbpedia.org/resource/Italo_Calvino</value>
 </author>
+<name>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>The Nonexistent Knight</value>
+</name>
 <wikilink>
 <type>uri</type>
 <value>http://en.wikipedia.org/wiki/The_Nonexistent_Knight?oldid=596050148</value>

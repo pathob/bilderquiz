@@ -44,6 +44,11 @@
 <type>uri</type>
 <value>http://dbpedia.org/resource/Noam_Chomsky</value>
 </author>
+<name>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>Hegemony or Survival: America&apos;s Quest for Global Dominance</value>
+</name>
 <thumbnail>
 <type>uri</type>
 <value>http://commons.wikimedia.org/wiki/Special:FilePath/Chomsky.jpg?width=300</value>
@@ -67,6 +72,11 @@
 <type>uri</type>
 <value>http://dbpedia.org/resource/Noam_Chomsky</value>
 </author>
+<name>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>Occupy</value>
+</name>
 <thumbnail>
 <type>uri</type>
 <value>http://commons.wikimedia.org/wiki/Special:FilePath/Chomsky.jpg?width=300</value>
@@ -90,6 +100,11 @@
 <type>uri</type>
 <value>http://dbpedia.org/resource/Noam_Chomsky</value>
 </author>
+<name>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>Failed States: The Abuse of Power and the Assault on Democracy</value>
+</name>
 <released>
 <type>literal</type>
 <xml:lang>en</xml:lang>
@@ -114,6 +129,11 @@
 <type>uri</type>
 <value>http://dbpedia.org/resource/Noam_Chomsky</value>
 </author>
+<name>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>Interventions</value>
+</name>
 <released>
 <type>literal</type>
 <xml:lang>en</xml:lang>
@@ -138,6 +158,11 @@
 <type>uri</type>
 <value>http://dbpedia.org/resource/Noam_Chomsky</value>
 </author>
+<name>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>The Prosperous Few and the Restless Many</value>
+</name>
 <released>
 <type>typed-literal</type>
 <datatype>http://www.w3.org/2001/XMLSchema#date</datatype>
@@ -157,6 +182,11 @@
 <type>uri</type>
 <value>http://dbpedia.org/resource/Noam_Chomsky</value>
 </author>
+<name>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>Making the Future</value>
+</name>
 <released>
 <type>literal</type>
 <xml:lang>en</xml:lang>
@@ -176,6 +206,11 @@
 <type>uri</type>
 <value>http://dbpedia.org/resource/Noam_Chomsky</value>
 </author>
+<name>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>The Fateful Triangle: The United States, Israel and the Palestinians</value>
+</name>
 <released>
 <type>typed-literal</type>
 <datatype>http://www.w3.org/2001/XMLSchema#integer</datatype>
@@ -195,6 +230,11 @@
 <type>uri</type>
 <value>http://dbpedia.org/resource/Noam_Chomsky</value>
 </author>
+<name>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>Class Warfare</value>
+</name>
 <released>
 <type>literal</type>
 <xml:lang>en</xml:lang>
@@ -214,6 +254,11 @@
 <type>uri</type>
 <value>http://dbpedia.org/resource/Noam_Chomsky</value>
 </author>
+<name>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>Gaza in Crisis</value>
+</name>
 <released>
 <type>typed-literal</type>
 <datatype>http://www.w3.org/2001/XMLSchema#date</datatype>
@@ -233,6 +278,11 @@
 <type>uri</type>
 <value>http://dbpedia.org/resource/Noam_Chomsky</value>
 </author>
+<name>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>Necessary Illusions: Thought Control in Democratic Societies</value>
+</name>
 <released>
 <type>literal</type>
 <xml:lang>en</xml:lang>
@@ -252,6 +302,11 @@
 <type>uri</type>
 <value>http://dbpedia.org/resource/Noam_Chomsky</value>
 </author>
+<name>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>Deterring Democracy</value>
+</name>
 <released>
 <type>typed-literal</type>
 <datatype>http://www.w3.org/2001/XMLSchema#integer</datatype>
@@ -271,6 +326,11 @@
 <type>uri</type>
 <value>http://dbpedia.org/resource/Noam_Chomsky</value>
 </author>
+<name>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>Profit Over People: Neoliberalism and Global Order</value>
+</name>
 <released>
 <type>literal</type>
 <xml:lang>en</xml:lang>
@@ -290,6 +350,11 @@
 <type>uri</type>
 <value>http://dbpedia.org/resource/Noam_Chomsky</value>
 </author>
+<name>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>American Power and the New Mandarins</value>
+</name>
 <released>
 <type>typed-literal</type>
 <datatype>http://www.w3.org/2001/XMLSchema#integer</datatype>
@@ -309,6 +374,11 @@
 <type>uri</type>
 <value>http://dbpedia.org/resource/Noam_Chomsky</value>
 </author>
+<name>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>Imperial Ambitions: Conversations with Noam Chomsky on the Post-9/11 World</value>
+</name>
 <released>
 <type>typed-literal</type>
 <datatype>http://www.w3.org/2001/XMLSchema#date</datatype>
@@ -328,6 +398,11 @@
 <type>uri</type>
 <value>http://dbpedia.org/resource/Noam_Chomsky</value>
 </author>
+<name>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>Objectivity and Liberal Scholarship</value>
+</name>
 <released>
 <type>typed-literal</type>
 <datatype>http://www.w3.org/2001/XMLSchema#integer</datatype>
@@ -347,6 +422,11 @@
 <type>uri</type>
 <value>http://dbpedia.org/resource/Noam_Chomsky</value>
 </author>
+<name>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>World Orders Old and New</value>
+</name>
 <released>
 <type>typed-literal</type>
 <datatype>http://www.w3.org/2001/XMLSchema#integer</datatype>
@@ -366,6 +446,11 @@
 <type>uri</type>
 <value>http://dbpedia.org/resource/Noam_Chomsky</value>
 </author>
+<name>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>Manufacturing Consent: The Political Economy of the Mass Media</value>
+</name>
 <published>
 <type>typed-literal</type>
 <datatype>http://www.w3.org/2001/XMLSchema#integer</datatype>
@@ -385,6 +470,11 @@
 <type>uri</type>
 <value>http://dbpedia.org/resource/Noam_Chomsky</value>
 </author>
+<name>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>Understanding Power: The Indespensible Chomsky</value>
+</name>
 <published>
 <type>typed-literal</type>
 <datatype>http://www.w3.org/2001/XMLSchema#integer</datatype>
@@ -404,6 +494,11 @@
 <type>uri</type>
 <value>http://dbpedia.org/resource/Noam_Chomsky</value>
 </author>
+<name>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>Syntactic Structures</value>
+</name>
 <wikilink>
 <type>uri</type>
 <value>http://en.wikipedia.org/wiki/Syntactic_Structures?oldid=601680570</value>
@@ -418,6 +513,11 @@
 <type>uri</type>
 <value>http://dbpedia.org/resource/Noam_Chomsky</value>
 </author>
+<name>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>Counter-Revolutionary Violence - Bloodbaths in Fact &amp; Propaganda</value>
+</name>
 <wikilink>
 <type>uri</type>
 <value>http://en.wikipedia.org/wiki/Counter-Revolutionary_Violence:_Bloodbaths_in_Fact_&amp;_Propaganda?oldid=605406600</value>

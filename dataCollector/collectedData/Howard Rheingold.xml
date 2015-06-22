@@ -27,6 +27,11 @@
 <type>uri</type>
 <value>http://dbpedia.org/resource/Howard_Rheingold</value>
 </author>
+<name>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>Smart Mobs: The Next Social Revolution</value>
+</name>
 <wikilink>
 <type>uri</type>
 <value>http://en.wikipedia.org/wiki/Smart_Mobs?oldid=606287330</value>

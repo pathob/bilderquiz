@@ -26,6 +26,11 @@
 <type>uri</type>
 <value>http://dbpedia.org/resource/Nalo_Hopkinson</value>
 </author>
+<name>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>Brown Girl in the Ring</value>
+</name>
 <released>
 <type>typed-literal</type>
 <datatype>http://www.w3.org/2001/XMLSchema#integer</datatype>
@@ -45,6 +50,11 @@
 <type>uri</type>
 <value>http://dbpedia.org/resource/Nalo_Hopkinson</value>
 </author>
+<name>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>So Long Been Dreaming</value>
+</name>
 <released>
 <type>typed-literal</type>
 <datatype>http://www.w3.org/2001/XMLSchema#integer</datatype>
@@ -64,6 +74,11 @@
 <type>uri</type>
 <value>http://dbpedia.org/resource/Nalo_Hopkinson</value>
 </author>
+<name>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>Mojo: Conjure Stories</value>
+</name>
 <released>
 <type>typed-literal</type>
 <datatype>http://www.w3.org/2001/XMLSchema#integer</datatype>
@@ -83,6 +98,11 @@
 <type>uri</type>
 <value>http://dbpedia.org/resource/Nalo_Hopkinson</value>
 </author>
+<name>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>The Salt Roads</value>
+</name>
 <wikilink>
 <type>uri</type>
 <value>http://en.wikipedia.org/wiki/The_Salt_Roads?oldid=598010446</value>
@@ -97,6 +117,11 @@
 <type>uri</type>
 <value>http://dbpedia.org/resource/Nalo_Hopkinson</value>
 </author>
+<name>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>Whispers from the Cotton Tree Root</value>
+</name>
 <wikilink>
 <type>uri</type>
 <value>http://en.wikipedia.org/wiki/Whispers_from_the_Cotton_Tree_Root?oldid=544933966</value>
@@ -111,6 +136,11 @@
 <type>uri</type>
 <value>http://dbpedia.org/resource/Nalo_Hopkinson</value>
 </author>
+<name>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>Skin Folk</value>
+</name>
 <wikilink>
 <type>uri</type>
 <value>http://en.wikipedia.org/wiki/Skin_Folk?oldid=578652890</value>

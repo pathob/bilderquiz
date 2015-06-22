@@ -35,6 +35,11 @@
 <type>uri</type>
 <value>http://dbpedia.org/resource/John_Locke</value>
 </author>
+<name>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>Two Treaties of Government</value>
+</name>
 <thumbnail>
 <type>uri</type>
 <value>http://commons.wikimedia.org/wiki/Special:FilePath/Locke_treatises_of_government_page.jpg?width=300</value>
@@ -63,6 +68,11 @@
 <type>uri</type>
 <value>http://dbpedia.org/resource/John_Locke</value>
 </author>
+<name>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>An Essay Concerning Human Understanding</value>
+</name>
 <thumbnail>
 <type>uri</type>
 <value>http://commons.wikimedia.org/wiki/Special:FilePath/Locke_Essay_1690.jpg?width=300</value>
@@ -91,6 +101,11 @@
 <type>uri</type>
 <value>http://dbpedia.org/resource/John_Locke</value>
 </author>
+<name>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>Of the Conduct of the Understanding</value>
+</name>
 <thumbnail>
 <type>uri</type>
 <value>http://commons.wikimedia.org/wiki/Special:FilePath/LockeConduct.png?width=300</value>

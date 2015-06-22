@@ -36,6 +36,11 @@
 <type>uri</type>
 <value>http://dbpedia.org/resource/Jack_London</value>
 </author>
+<name>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>White Fang</value>
+</name>
 <thumbnail>
 <type>uri</type>
 <value>http://commons.wikimedia.org/wiki/Special:FilePath/JackLondonwhitefang1.jpg?width=300</value>
@@ -64,6 +69,11 @@
 <type>uri</type>
 <value>http://dbpedia.org/resource/Jack_London</value>
 </author>
+<name>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>The Valley of the Moon</value>
+</name>
 <thumbnail>
 <type>uri</type>
 <value>http://commons.wikimedia.org/wiki/Special:FilePath/The_Valley_of_the_Moon_1913.jpg?width=300</value>
@@ -87,6 +97,11 @@
 <type>uri</type>
 <value>http://dbpedia.org/resource/Jack_London</value>
 </author>
+<name>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>The Kempton-Wace Letters</value>
+</name>
 <thumbnail>
 <type>uri</type>
 <value>http://commons.wikimedia.org/wiki/Special:FilePath/Kempton_Wace.jpg?width=300</value>
@@ -110,6 +125,11 @@
 <type>uri</type>
 <value>http://dbpedia.org/resource/Jack_London</value>
 </author>
+<name>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>The Iron Heel</value>
+</name>
 <thumbnail>
 <type>uri</type>
 <value>http://commons.wikimedia.org/wiki/Special:FilePath/The_Iron_Heel.jpg?width=300</value>
@@ -138,6 +158,11 @@
 <type>uri</type>
 <value>http://dbpedia.org/resource/Jack_London</value>
 </author>
+<name>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>The Call of the Wild</value>
+</name>
 <thumbnail>
 <type>uri</type>
 <value>http://commons.wikimedia.org/wiki/Special:FilePath/JackLondoncallwild.jpg?width=300</value>
@@ -161,6 +186,11 @@
 <type>uri</type>
 <value>http://dbpedia.org/resource/Jack_London</value>
 </author>
+<name>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>Lost Face</value>
+</name>
 <thumbnail>
 <type>uri</type>
 <value>http://en.wikipedia.org/wiki/Special:FilePath/LostFace.jpg?width=300</value>
@@ -179,6 +209,11 @@
 <type>uri</type>
 <value>http://dbpedia.org/resource/Jack_London</value>
 </author>
+<name>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>Martin Eden</value>
+</name>
 <released>
 <type>typed-literal</type>
 <datatype>http://www.w3.org/2001/XMLSchema#integer</datatype>
@@ -203,6 +238,11 @@
 <type>uri</type>
 <value>http://dbpedia.org/resource/Jack_London</value>
 </author>
+<name>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>The Little Lady of the Big House</value>
+</name>
 <released>
 <type>typed-literal</type>
 <datatype>http://www.w3.org/2001/XMLSchema#integer</datatype>
@@ -227,6 +267,11 @@
 <type>uri</type>
 <value>http://dbpedia.org/resource/Jack_London</value>
 </author>
+<name>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>The Scarlet Plague</value>
+</name>
 <released>
 <type>typed-literal</type>
 <datatype>http://www.w3.org/2001/XMLSchema#integer</datatype>
@@ -246,6 +291,11 @@
 <type>uri</type>
 <value>http://dbpedia.org/resource/Jack_London</value>
 </author>
+<name>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>Jack London&apos;s San Francisco Stories</value>
+</name>
 <released>
 <type>typed-literal</type>
 <datatype>http://www.w3.org/2001/XMLSchema#integer</datatype>
@@ -265,6 +315,11 @@
 <type>uri</type>
 <value>http://dbpedia.org/resource/Jack_London</value>
 </author>
+<name>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>The Star Rover</value>
+</name>
 <released>
 <type>typed-literal</type>
 <datatype>http://www.w3.org/2001/XMLSchema#integer</datatype>
@@ -284,6 +339,11 @@
 <type>uri</type>
 <value>http://dbpedia.org/resource/Jack_London</value>
 </author>
+<name>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>A Daughter of the Snows</value>
+</name>
 <published>
 <type>typed-literal</type>
 <datatype>http://www.w3.org/2001/XMLSchema#integer</datatype>
@@ -303,6 +363,11 @@
 <type>uri</type>
 <value>http://dbpedia.org/resource/Jack_London</value>
 </author>
+<name>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>South Sea Tales</value>
+</name>
 <wikilink>
 <type>uri</type>
 <value>http://en.wikipedia.org/wiki/South_Sea_Tales_(1911)?oldid=601032371</value>
@@ -317,6 +382,11 @@
 <type>uri</type>
 <value>http://dbpedia.org/resource/Jack_London</value>
 </author>
+<name>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>The Game</value>
+</name>
 <wikilink>
 <type>uri</type>
 <value>http://en.wikipedia.org/wiki/The_Game_(London_novel)?oldid=597862080</value>

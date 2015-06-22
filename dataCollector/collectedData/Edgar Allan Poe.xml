@@ -62,6 +62,11 @@
 <type>uri</type>
 <value>http://dbpedia.org/resource/Edgar_Allan_Poe</value>
 </author>
+<name>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>Berenice – A Tale</value>
+</name>
 <thumbnail>
 <type>uri</type>
 <value>http://commons.wikimedia.org/wiki/Special:FilePath/Berenice(SLM).gif?width=300</value>
@@ -90,6 +95,11 @@
 <type>uri</type>
 <value>http://dbpedia.org/resource/Edgar_Allan_Poe</value>
 </author>
+<name>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>The Narrative of Arthur Gordon Pym of Nantucket</value>
+</name>
 <thumbnail>
 <type>uri</type>
 <value>http://en.wikipedia.org/wiki/Special:FilePath/Pym_1938_book_cover.jpg?width=300</value>
@@ -118,6 +128,11 @@
 <type>uri</type>
 <value>http://dbpedia.org/resource/Edgar_Allan_Poe</value>
 </author>
+<name>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>The Stolen Letter</value>
+</name>
 <thumbnail>
 <type>uri</type>
 <value>http://commons.wikimedia.org/wiki/Special:FilePath/The_purloined_letter_the_gift_1845_2.jpg?width=300</value>
@@ -146,6 +161,11 @@
 <type>uri</type>
 <value>http://dbpedia.org/resource/Edgar_Allan_Poe</value>
 </author>
+<name>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>The Mystery of Marie Rogêt</value>
+</name>
 <thumbnail>
 <type>uri</type>
 <value>http://commons.wikimedia.org/wiki/Special:FilePath/Ladies&apos;_Companion_Nov_1842_Roget.jpg?width=300</value>
@@ -174,6 +194,11 @@
 <type>uri</type>
 <value>http://dbpedia.org/resource/Edgar_Allan_Poe</value>
 </author>
+<name>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>Tamerlane and Other Poems</value>
+</name>
 <thumbnail>
 <type>uri</type>
 <value>http://commons.wikimedia.org/wiki/Special:FilePath/TamerlaneAndOtherPoems.jpg?width=300</value>
@@ -202,6 +227,11 @@
 <type>uri</type>
 <value>http://dbpedia.org/resource/Edgar_Allan_Poe</value>
 </author>
+<name>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>The Conchologist&apos;s First Book</value>
+</name>
 <thumbnail>
 <type>uri</type>
 <value>http://commons.wikimedia.org/wiki/Special:FilePath/The_Conchologists_First_Book_Cover.jpg?width=300</value>
@@ -225,6 +255,11 @@
 <type>uri</type>
 <value>http://dbpedia.org/resource/Edgar_Allan_Poe</value>
 </author>
+<name>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>The Journal of Julius Rodman</value>
+</name>
 <thumbnail>
 <type>uri</type>
 <value>http://commons.wikimedia.org/wiki/Special:FilePath/Rodman_cover_1947_colt.jpg?width=300</value>
@@ -248,6 +283,11 @@
 <type>uri</type>
 <value>http://dbpedia.org/resource/Edgar_Allan_Poe</value>
 </author>
+<name>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>Tales of the Grotesque and Arabesque</value>
+</name>
 <thumbnail>
 <type>uri</type>
 <value>http://commons.wikimedia.org/wiki/Special:FilePath/GrotesqueAndArabesque.jpg?width=300</value>
@@ -271,6 +311,11 @@
 <type>uri</type>
 <value>http://dbpedia.org/resource/Edgar_Allan_Poe</value>
 </author>
+<name>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>A Descent into the Maelström</value>
+</name>
 <thumbnail>
 <type>uri</type>
 <value>http://en.wikipedia.org/wiki/Special:FilePath/Maelstrom-Clarke.jpg?width=300</value>
@@ -299,6 +344,11 @@
 <type>uri</type>
 <value>http://dbpedia.org/resource/Edgar_Allan_Poe</value>
 </author>
+<name>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>Ligeia</value>
+</name>
 <thumbnail>
 <type>uri</type>
 <value>http://commons.wikimedia.org/wiki/Special:FilePath/Ligeia-Clarke.jpg?width=300</value>
@@ -322,6 +372,11 @@
 <type>uri</type>
 <value>http://dbpedia.org/resource/Edgar_Allan_Poe</value>
 </author>
+<name>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>The Murders in the Rue Morgue</value>
+</name>
 <thumbnail>
 <type>uri</type>
 <value>http://commons.wikimedia.org/wiki/Special:FilePath/RueMorgueManuscript.jpg?width=300</value>
@@ -345,6 +400,11 @@
 <type>uri</type>
 <value>http://dbpedia.org/resource/Edgar_Allan_Poe</value>
 </author>
+<name>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>The Cask of Amontillado</value>
+</name>
 <thumbnail>
 <type>uri</type>
 <value>http://commons.wikimedia.org/wiki/Special:FilePath/CaskofAmontillado-Clarke.jpg?width=300</value>
@@ -368,6 +428,11 @@
 <type>uri</type>
 <value>http://dbpedia.org/resource/Edgar_Allan_Poe</value>
 </author>
+<name>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>The Facts in the Case of M. Valdemar</value>
+</name>
 <thumbnail>
 <type>uri</type>
 <value>http://commons.wikimedia.org/wiki/Special:FilePath/Valdemar-Clarke.jpg?width=300</value>

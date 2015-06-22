@@ -41,6 +41,11 @@
 <type>uri</type>
 <value>http://dbpedia.org/resource/Petrus_Camper</value>
 </author>
+<name>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>Facial Angles</value>
+</name>
 <thumbnail>
 <type>uri</type>
 <value>http://commons.wikimedia.org/wiki/Special:FilePath/Petrus_Camper_facial_angles_by_son_Adriaan_Gilles_-_first_page.jpg?width=300</value>

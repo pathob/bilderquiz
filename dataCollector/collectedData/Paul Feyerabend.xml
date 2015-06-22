@@ -39,6 +39,11 @@
 <type>uri</type>
 <value>http://dbpedia.org/resource/Paul_Feyerabend</value>
 </author>
+<name>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>Against Method: Outline of an Anarchist Theory of Knowledge</value>
+</name>
 <released>
 <type>typed-literal</type>
 <datatype>http://www.w3.org/2001/XMLSchema#integer</datatype>
@@ -58,6 +63,11 @@
 <type>uri</type>
 <value>http://dbpedia.org/resource/Paul_Feyerabend</value>
 </author>
+<name>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>Killing Time</value>
+</name>
 <wikilink>
 <type>uri</type>
 <value>http://en.wikipedia.org/wiki/Killing_Time_(book)?oldid=595562997</value>

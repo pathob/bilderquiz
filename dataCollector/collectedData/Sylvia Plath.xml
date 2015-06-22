@@ -30,6 +30,11 @@
 <type>uri</type>
 <value>http://dbpedia.org/resource/Sylvia_Plath</value>
 </author>
+<name>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>The Bell Jar</value>
+</name>
 <released>
 <type>typed-literal</type>
 <datatype>http://www.w3.org/2001/XMLSchema#date</datatype>

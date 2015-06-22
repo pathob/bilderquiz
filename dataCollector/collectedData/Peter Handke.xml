@@ -58,6 +58,11 @@
 <type>uri</type>
 <value>http://dbpedia.org/resource/Peter_Handke</value>
 </author>
+<name>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>A Sorrow Beyond Dreams</value>
+</name>
 <wikilink>
 <type>uri</type>
 <value>http://en.wikipedia.org/wiki/A_Sorrow_Beyond_Dreams?oldid=589694119</value>
@@ -77,6 +82,11 @@
 <type>uri</type>
 <value>http://dbpedia.org/resource/Peter_Handke</value>
 </author>
+<name>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>Short Letter, Long Farewell</value>
+</name>
 <wikilink>
 <type>uri</type>
 <value>http://en.wikipedia.org/wiki/Short_Letter,_Long_Farewell?oldid=572528428</value>
@@ -96,6 +106,11 @@
 <type>uri</type>
 <value>http://dbpedia.org/resource/Peter_Handke</value>
 </author>
+<name>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>The Goalie&apos;s Anxiety at the Penalty Kick</value>
+</name>
 <wikilink>
 <type>uri</type>
 <value>http://en.wikipedia.org/wiki/The_Goalie&apos;s_Anxiety_at_the_Penalty_Kick?oldid=544755543</value>
@@ -115,6 +130,11 @@
 <type>uri</type>
 <value>http://dbpedia.org/resource/Peter_Handke</value>
 </author>
+<name>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>Kaspar &amp; Other Plays</value>
+</name>
 <wikilink>
 <type>uri</type>
 <value>http://en.wikipedia.org/wiki/Kaspar?oldid=593040419</value>
@@ -129,6 +149,11 @@
 <type>uri</type>
 <value>http://dbpedia.org/resource/Peter_Handke</value>
 </author>
+<name>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>Repetition</value>
+</name>
 <wikilink>
 <type>uri</type>
 <value>http://en.wikipedia.org/wiki/Repetition_(novel)?oldid=520636388</value>

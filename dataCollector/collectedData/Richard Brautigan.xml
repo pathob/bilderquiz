@@ -26,6 +26,11 @@
 <type>uri</type>
 <value>http://dbpedia.org/resource/Richard_Brautigan</value>
 </author>
+<name>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>Loading Mercury with a Pitchfork</value>
+</name>
 <released>
 <type>typed-literal</type>
 <datatype>http://www.w3.org/2001/XMLSchema#integer</datatype>
@@ -45,6 +50,11 @@
 <type>uri</type>
 <value>http://dbpedia.org/resource/Richard_Brautigan</value>
 </author>
+<name>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>The Pill Versus the Springhill Mine Disaster</value>
+</name>
 <released>
 <type>typed-literal</type>
 <datatype>http://www.w3.org/2001/XMLSchema#integer</datatype>
@@ -64,6 +74,11 @@
 <type>uri</type>
 <value>http://dbpedia.org/resource/Richard_Brautigan</value>
 </author>
+<name>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>In Watermelon Sugar</value>
+</name>
 <released>
 <type>typed-literal</type>
 <datatype>http://www.w3.org/2001/XMLSchema#date</datatype>
@@ -83,6 +98,11 @@
 <type>uri</type>
 <value>http://dbpedia.org/resource/Richard_Brautigan</value>
 </author>
+<name>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>Revenge of the Lawn</value>
+</name>
 <released>
 <type>typed-literal</type>
 <datatype>http://www.w3.org/2001/XMLSchema#date</datatype>
@@ -102,6 +122,11 @@
 <type>uri</type>
 <value>http://dbpedia.org/resource/Richard_Brautigan</value>
 </author>
+<name>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>The Abortion: An Historical Romance 1966</value>
+</name>
 <released>
 <type>typed-literal</type>
 <datatype>http://www.w3.org/2001/XMLSchema#date</datatype>
@@ -121,6 +146,11 @@
 <type>uri</type>
 <value>http://dbpedia.org/resource/Richard_Brautigan</value>
 </author>
+<name>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>Trout Fishing in America</value>
+</name>
 <released>
 <type>typed-literal</type>
 <datatype>http://www.w3.org/2001/XMLSchema#date</datatype>
@@ -140,6 +170,11 @@
 <type>uri</type>
 <value>http://dbpedia.org/resource/Richard_Brautigan</value>
 </author>
+<name>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>Please Plant This Book</value>
+</name>
 <released>
 <type>typed-literal</type>
 <datatype>http://www.w3.org/2001/XMLSchema#integer</datatype>
@@ -159,6 +194,11 @@
 <type>uri</type>
 <value>http://dbpedia.org/resource/Richard_Brautigan</value>
 </author>
+<name>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>Dreaming of Babylon: A Private Eye Novel 1942</value>
+</name>
 <released>
 <type>typed-literal</type>
 <datatype>http://www.w3.org/2001/XMLSchema#integer</datatype>
@@ -178,6 +218,11 @@
 <type>uri</type>
 <value>http://dbpedia.org/resource/Richard_Brautigan</value>
 </author>
+<name>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>The Hawkline Monster: A Gothic Western</value>
+</name>
 <released>
 <type>literal</type>
 <xml:lang>en</xml:lang>
@@ -197,6 +242,11 @@
 <type>uri</type>
 <value>http://dbpedia.org/resource/Richard_Brautigan</value>
 </author>
+<name>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>The Tokyo-Montana Express</value>
+</name>
 <released>
 <type>typed-literal</type>
 <datatype>http://www.w3.org/2001/XMLSchema#integer</datatype>
@@ -216,6 +266,11 @@
 <type>uri</type>
 <value>http://dbpedia.org/resource/Richard_Brautigan</value>
 </author>
+<name>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>The Galilee Hitch-Hiker</value>
+</name>
 <released>
 <type>typed-literal</type>
 <datatype>http://www.w3.org/2001/XMLSchema#integer</datatype>
@@ -235,6 +290,11 @@
 <type>uri</type>
 <value>http://dbpedia.org/resource/Richard_Brautigan</value>
 </author>
+<name>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>An Unfortunate Woman: A Journey</value>
+</name>
 <released>
 <type>typed-literal</type>
 <datatype>http://www.w3.org/2001/XMLSchema#integer</datatype>
@@ -254,6 +314,11 @@
 <type>uri</type>
 <value>http://dbpedia.org/resource/Richard_Brautigan</value>
 </author>
+<name>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>Sombrero Fallout: A Japanese Novel</value>
+</name>
 <released>
 <type>typed-literal</type>
 <datatype>http://www.w3.org/2001/XMLSchema#integer</datatype>
@@ -273,6 +338,11 @@
 <type>uri</type>
 <value>http://dbpedia.org/resource/Richard_Brautigan</value>
 </author>
+<name>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>All Watched Over by Machines of Loving Grace</value>
+</name>
 <released>
 <type>typed-literal</type>
 <datatype>http://www.w3.org/2001/XMLSchema#integer</datatype>
@@ -292,6 +362,11 @@
 <type>uri</type>
 <value>http://dbpedia.org/resource/Richard_Brautigan</value>
 </author>
+<name>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>Willard and His Bowling Trophies: A Perverse Mystery</value>
+</name>
 <released>
 <type>typed-literal</type>
 <datatype>http://www.w3.org/2001/XMLSchema#date</datatype>
@@ -311,6 +386,11 @@
 <type>uri</type>
 <value>http://dbpedia.org/resource/Richard_Brautigan</value>
 </author>
+<name>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>So The Wind Won&apos;t Blow It All Away</value>
+</name>
 <released>
 <type>typed-literal</type>
 <datatype>http://www.w3.org/2001/XMLSchema#integer</datatype>
@@ -330,6 +410,11 @@
 <type>uri</type>
 <value>http://dbpedia.org/resource/Richard_Brautigan</value>
 </author>
+<name>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>Rommel Drives on Deep into Egypt</value>
+</name>
 <released>
 <type>typed-literal</type>
 <datatype>http://www.w3.org/2001/XMLSchema#integer</datatype>
@@ -349,6 +434,11 @@
 <type>uri</type>
 <value>http://dbpedia.org/resource/Richard_Brautigan</value>
 </author>
+<name>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>A Confederate General From Big Sur</value>
+</name>
 <published>
 <type>typed-literal</type>
 <datatype>http://www.w3.org/2001/XMLSchema#integer</datatype>

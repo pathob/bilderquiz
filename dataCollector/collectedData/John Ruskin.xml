@@ -30,6 +30,11 @@
 <type>uri</type>
 <value>http://dbpedia.org/resource/John_Ruskin</value>
 </author>
+<name>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>The King of the Golden River</value>
+</name>
 <thumbnail>
 <type>uri</type>
 <value>http://en.wikipedia.org/wiki/Special:FilePath/Gluck_and_KGR.jpg?width=300</value>
@@ -53,6 +58,11 @@
 <type>uri</type>
 <value>http://dbpedia.org/resource/John_Ruskin</value>
 </author>
+<name>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>The Stones of Venice</value>
+</name>
 <thumbnail>
 <type>uri</type>
 <value>http://commons.wikimedia.org/wiki/Special:FilePath/Kelmscott_Press_-_The_Nature_of_Gothic_by_John_Ruskin_(first_page).jpg?width=300</value>

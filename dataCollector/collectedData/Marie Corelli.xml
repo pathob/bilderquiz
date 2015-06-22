@@ -33,6 +33,11 @@
 <type>uri</type>
 <value>http://dbpedia.org/resource/Marie_Corelli</value>
 </author>
+<name>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>A Romance of Two Worlds</value>
+</name>
 <wikilink>
 <type>uri</type>
 <value>http://en.wikipedia.org/wiki/A_Romance_of_Two_Worlds?oldid=574372780</value>
@@ -47,6 +52,11 @@
 <type>uri</type>
 <value>http://dbpedia.org/resource/Marie_Corelli</value>
 </author>
+<name>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>Innocent: Her Fancy and His Fact</value>
+</name>
 <wikilink>
 <type>uri</type>
 <value>http://en.wikipedia.org/wiki/Innocent:_Her_Fancy_and_His_Fact?oldid=602551552</value>

@@ -39,6 +39,11 @@
 <type>uri</type>
 <value>http://dbpedia.org/resource/Klaus_Kinski</value>
 </author>
+<name>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>Kinski Uncut</value>
+</name>
 <wikilink>
 <type>uri</type>
 <value>http://en.wikipedia.org/wiki/All_I_Need_Is_Love?oldid=604530506</value>

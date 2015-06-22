@@ -42,6 +42,11 @@
 <type>uri</type>
 <value>http://dbpedia.org/resource/F._Scott_Fitzgerald</value>
 </author>
+<name>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>This Side of Paradise</value>
+</name>
 <thumbnail>
 <type>uri</type>
 <value>http://en.wikipedia.org/wiki/Special:FilePath/This_Side_of_Paradise_dust_jacket.gif?width=300</value>
@@ -70,6 +75,11 @@
 <type>uri</type>
 <value>http://dbpedia.org/resource/F._Scott_Fitzgerald</value>
 </author>
+<name>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>The Love of the Last Tycoon</value>
+</name>
 <released>
 <type>typed-literal</type>
 <datatype>http://www.w3.org/2001/XMLSchema#integer</datatype>
@@ -94,6 +104,11 @@
 <type>uri</type>
 <value>http://dbpedia.org/resource/F._Scott_Fitzgerald</value>
 </author>
+<name>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>Tender Is the Night</value>
+</name>
 <released>
 <type>literal</type>
 <xml:lang>en</xml:lang>
@@ -118,6 +133,11 @@
 <type>uri</type>
 <value>http://dbpedia.org/resource/F._Scott_Fitzgerald</value>
 </author>
+<name>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>The Crack-Up</value>
+</name>
 <released>
 <type>typed-literal</type>
 <datatype>http://www.w3.org/2001/XMLSchema#integer</datatype>
@@ -142,6 +162,11 @@
 <type>uri</type>
 <value>http://dbpedia.org/resource/F._Scott_Fitzgerald</value>
 </author>
+<name>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>&quot;The Diamond as Big as the Ritz&quot;</value>
+</name>
 <wikilink>
 <type>uri</type>
 <value>http://en.wikipedia.org/wiki/The_Diamond_as_Big_as_the_Ritz?oldid=602390323</value>

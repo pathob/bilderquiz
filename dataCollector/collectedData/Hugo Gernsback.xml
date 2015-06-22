@@ -32,6 +32,11 @@
 <type>uri</type>
 <value>http://dbpedia.org/resource/Hugo_Gernsback</value>
 </author>
+<name>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>The Master Mind of Mars</value>
+</name>
 <thumbnail>
 <type>uri</type>
 <value>http://en.wikipedia.org/wiki/Special:FilePath/Chessmen_of_Mars.jpg?width=300</value>
@@ -60,6 +65,11 @@
 <type>uri</type>
 <value>http://dbpedia.org/resource/Hugo_Gernsback</value>
 </author>
+<name>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>Ralph 124C 41+</value>
+</name>
 <thumbnail>
 <type>uri</type>
 <value>http://commons.wikimedia.org/wiki/Special:FilePath/ModernElectrics1912-02.jpg?width=300</value>

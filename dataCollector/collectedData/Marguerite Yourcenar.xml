@@ -38,6 +38,11 @@
 <type>uri</type>
 <value>http://dbpedia.org/resource/Marguerite_Yourcenar</value>
 </author>
+<name>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>Memoirs of Hadrian</value>
+</name>
 <released>
 <type>typed-literal</type>
 <datatype>http://www.w3.org/2001/XMLSchema#integer</datatype>
@@ -57,6 +62,11 @@
 <type>uri</type>
 <value>http://dbpedia.org/resource/Marguerite_Yourcenar</value>
 </author>
+<name>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>Coup de Grâce</value>
+</name>
 <wikilink>
 <type>uri</type>
 <value>http://en.wikipedia.org/wiki/Coup_de_Grâce_(novel)?oldid=582278840</value>
@@ -76,6 +86,11 @@
 <type>uri</type>
 <value>http://dbpedia.org/resource/Marguerite_Yourcenar</value>
 </author>
+<name>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>Fires</value>
+</name>
 <wikilink>
 <type>uri</type>
 <value>http://en.wikipedia.org/wiki/Fires_(book)?oldid=477198752</value>
@@ -90,6 +105,11 @@
 <type>uri</type>
 <value>http://dbpedia.org/resource/Marguerite_Yourcenar</value>
 </author>
+<name>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>L&apos;Œuvre au noir</value>
+</name>
 <wikilink>
 <type>uri</type>
 <value>http://en.wikipedia.org/wiki/The_Abyss_(Marguerite_Yourcenar_novel)?oldid=554004689</value>
@@ -104,6 +124,11 @@
 <type>uri</type>
 <value>http://dbpedia.org/resource/Marguerite_Yourcenar</value>
 </author>
+<name>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>A Coin in Nine Hands</value>
+</name>
 <wikilink>
 <type>uri</type>
 <value>http://en.wikipedia.org/wiki/A_Coin_in_Nine_Hands?oldid=546515997</value>
@@ -118,6 +143,11 @@
 <type>uri</type>
 <value>http://dbpedia.org/resource/Marguerite_Yourcenar</value>
 </author>
+<name>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>Nouvelles orientales</value>
+</name>
 <wikilink>
 <type>uri</type>
 <value>http://en.wikipedia.org/wiki/Oriental_Tales_(book)?oldid=567191348</value>

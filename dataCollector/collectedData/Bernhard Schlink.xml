@@ -61,6 +61,11 @@
 <type>uri</type>
 <value>http://dbpedia.org/resource/Bernhard_Schlink</value>
 </author>
+<name>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>The Reader</value>
+</name>
 <released>
 <type>typed-literal</type>
 <datatype>http://www.w3.org/2001/XMLSchema#integer</datatype>

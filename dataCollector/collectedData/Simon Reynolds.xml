@@ -30,6 +30,11 @@
 <type>uri</type>
 <value>http://dbpedia.org/resource/Simon_Reynolds</value>
 </author>
+<name>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>Rip It Up and Start Again: Postpunk 1978–1984</value>
+</name>
 <wikilink>
 <type>uri</type>
 <value>http://en.wikipedia.org/wiki/Rip_It_Up_and_Start_Again?oldid=603683846</value>

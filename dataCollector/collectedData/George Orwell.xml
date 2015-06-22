@@ -47,6 +47,11 @@
 <type>uri</type>
 <value>http://dbpedia.org/resource/George_Orwell</value>
 </author>
+<name>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>Keep the Aspidistra Flying</value>
+</name>
 <thumbnail>
 <type>uri</type>
 <value>http://commons.wikimedia.org/wiki/Special:FilePath/Aspidistra_elatior_-_01.jpg?width=300</value>
@@ -75,6 +80,11 @@
 <type>uri</type>
 <value>http://dbpedia.org/resource/George_Orwell</value>
 </author>
+<name>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>Homage to Catalonia</value>
+</name>
 <thumbnail>
 <type>uri</type>
 <value>http://commons.wikimedia.org/wiki/Special:FilePath/Guerra_Civil_Española.svg?width=300</value>
@@ -103,6 +113,11 @@
 <type>uri</type>
 <value>http://dbpedia.org/resource/George_Orwell</value>
 </author>
+<name>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>Animal Farm: A Fairy Story</value>
+</name>
 <thumbnail>
 <type>uri</type>
 <value>http://commons.wikimedia.org/wiki/Special:FilePath/AnimalFarm_1stEd.jpg?width=300</value>
@@ -131,6 +146,11 @@
 <type>uri</type>
 <value>http://dbpedia.org/resource/George_Orwell</value>
 </author>
+<name>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>Nineteen Eighty-Four</value>
+</name>
 <thumbnail>
 <type>uri</type>
 <value>http://en.wikipedia.org/wiki/Special:FilePath/1984first.jpg?width=300</value>
@@ -159,6 +179,11 @@
 <type>uri</type>
 <value>http://dbpedia.org/resource/George_Orwell</value>
 </author>
+<name>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>Down and Out in Paris and London</value>
+</name>
 <thumbnail>
 <type>uri</type>
 <value>http://commons.wikimedia.org/wiki/Special:FilePath/Rue_du_Pot-de-Fer.JPG?width=300</value>
@@ -182,6 +207,11 @@
 <type>uri</type>
 <value>http://dbpedia.org/resource/George_Orwell</value>
 </author>
+<name>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>Coming Up for Air</value>
+</name>
 <released>
 <type>typed-literal</type>
 <datatype>http://www.w3.org/2001/XMLSchema#date</datatype>
@@ -206,6 +236,11 @@
 <type>uri</type>
 <value>http://dbpedia.org/resource/George_Orwell</value>
 </author>
+<name>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>The Road to Wigan Pier</value>
+</name>
 <released>
 <type>typed-literal</type>
 <datatype>http://www.w3.org/2001/XMLSchema#gMonthDay</datatype>
@@ -230,6 +265,11 @@
 <type>uri</type>
 <value>http://dbpedia.org/resource/George_Orwell</value>
 </author>
+<name>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>Burmese Days</value>
+</name>
 <released>
 <type>literal</type>
 <xml:lang>en</xml:lang>
@@ -254,6 +294,11 @@
 <type>uri</type>
 <value>http://dbpedia.org/resource/George_Orwell</value>
 </author>
+<name>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>Inside the Whale</value>
+</name>
 <released>
 <type>typed-literal</type>
 <datatype>http://www.w3.org/2001/XMLSchema#date</datatype>
@@ -273,6 +318,11 @@
 <type>uri</type>
 <value>http://dbpedia.org/resource/George_Orwell</value>
 </author>
+<name>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>A Clergyman&apos;s Daughter</value>
+</name>
 <published>
 <type>typed-literal</type>
 <datatype>http://www.w3.org/2001/XMLSchema#integer</datatype>
@@ -292,6 +342,11 @@
 <type>uri</type>
 <value>http://dbpedia.org/resource/George_Orwell</value>
 </author>
+<name>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>Decline of the English Murder</value>
+</name>
 <wikilink>
 <type>uri</type>
 <value>http://en.wikipedia.org/wiki/Decline_of_the_English_Murder?oldid=602472436</value>

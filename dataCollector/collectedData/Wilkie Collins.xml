@@ -38,6 +38,11 @@
 <type>uri</type>
 <value>http://dbpedia.org/resource/Wilkie_Collins</value>
 </author>
+<name>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>The Black Robe</value>
+</name>
 <thumbnail>
 <type>uri</type>
 <value>http://commons.wikimedia.org/wiki/Special:FilePath/The_Black_Robe_-_Book_Cover.jpg?width=300</value>
@@ -61,6 +66,11 @@
 <type>uri</type>
 <value>http://dbpedia.org/resource/Wilkie_Collins</value>
 </author>
+<name>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>The Frozen Deep</value>
+</name>
 <thumbnail>
 <type>uri</type>
 <value>http://commons.wikimedia.org/wiki/Special:FilePath/Frozendeep_cover.jpg?width=300</value>
@@ -84,6 +94,11 @@
 <type>uri</type>
 <value>http://dbpedia.org/resource/Wilkie_Collins</value>
 </author>
+<name>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>Who Killed Zebedee?</value>
+</name>
 <thumbnail>
 <type>uri</type>
 <value>http://commons.wikimedia.org/wiki/Special:FilePath/Collins_Little_Novels_3.jpg?width=300</value>
@@ -107,6 +122,11 @@
 <type>uri</type>
 <value>http://dbpedia.org/resource/Wilkie_Collins</value>
 </author>
+<name>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>The Moonstone</value>
+</name>
 <thumbnail>
 <type>uri</type>
 <value>http://commons.wikimedia.org/wiki/Special:FilePath/The_Moonstone_1st_ed.jpg?width=300</value>
@@ -130,6 +150,11 @@
 <type>uri</type>
 <value>http://dbpedia.org/resource/Wilkie_Collins</value>
 </author>
+<name>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>No Name</value>
+</name>
 <thumbnail>
 <type>uri</type>
 <value>http://commons.wikimedia.org/wiki/Special:FilePath/No_Name_1862_1st_ed.jpg?width=300</value>
@@ -153,6 +178,11 @@
 <type>uri</type>
 <value>http://dbpedia.org/resource/Wilkie_Collins</value>
 </author>
+<name>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>Armadale</value>
+</name>
 <thumbnail>
 <type>uri</type>
 <value>http://commons.wikimedia.org/wiki/Special:FilePath/Armadale_1866_1st_ed.jpg?width=300</value>
@@ -176,6 +206,11 @@
 <type>uri</type>
 <value>http://dbpedia.org/resource/Wilkie_Collins</value>
 </author>
+<name>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>The Law and the Lady</value>
+</name>
 <thumbnail>
 <type>uri</type>
 <value>http://commons.wikimedia.org/wiki/Special:FilePath/The_Law_and_the_Lady_1st_ed.jpg?width=300</value>
@@ -199,6 +234,11 @@
 <type>uri</type>
 <value>http://dbpedia.org/resource/Wilkie_Collins</value>
 </author>
+<name>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>Poor Miss Finch</value>
+</name>
 <thumbnail>
 <type>uri</type>
 <value>http://commons.wikimedia.org/wiki/Special:FilePath/Poor_Miss_Finch_1872_1st_ed.jpg?width=300</value>

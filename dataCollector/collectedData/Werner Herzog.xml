@@ -42,6 +42,11 @@
 <type>uri</type>
 <value>http://dbpedia.org/resource/Werner_Herzog</value>
 </author>
+<name>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>Of Walking In Ice</value>
+</name>
 <released>
 <type>typed-literal</type>
 <datatype>http://www.w3.org/2001/XMLSchema#integer</datatype>

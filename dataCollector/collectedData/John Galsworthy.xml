@@ -44,6 +44,11 @@
 <type>uri</type>
 <value>http://dbpedia.org/resource/John_Galsworthy</value>
 </author>
+<name>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>The Forsyte Saga</value>
+</name>
 <released>
 <type>typed-literal</type>
 <datatype>http://www.w3.org/2001/XMLSchema#integer</datatype>
@@ -68,6 +73,11 @@
 <type>uri</type>
 <value>http://dbpedia.org/resource/John_Galsworthy</value>
 </author>
+<name>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>In Chancery</value>
+</name>
 <wikilink>
 <type>uri</type>
 <value>http://en.wikipedia.org/wiki/In_Chancery?oldid=546862422</value>

@@ -28,6 +28,11 @@
 <type>uri</type>
 <value>http://dbpedia.org/resource/Ted_Chiang</value>
 </author>
+<name>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>Stories of Your Life and Others</value>
+</name>
 <released>
 <type>typed-literal</type>
 <datatype>http://www.w3.org/2001/XMLSchema#integer</datatype>
@@ -47,6 +52,11 @@
 <type>uri</type>
 <value>http://dbpedia.org/resource/Ted_Chiang</value>
 </author>
+<name>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>The Lifecycle of Software Objects</value>
+</name>
 <released>
 <type>typed-literal</type>
 <datatype>http://www.w3.org/2001/XMLSchema#integer</datatype>

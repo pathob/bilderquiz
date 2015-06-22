@@ -39,6 +39,11 @@
 <type>uri</type>
 <value>http://dbpedia.org/resource/Ayn_Rand</value>
 </author>
+<name>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>Philosophy: Who Needs It</value>
+</name>
 <thumbnail>
 <type>uri</type>
 <value>http://commons.wikimedia.org/wiki/Special:FilePath/Philosophy_Who_Needs_It_(cover).jpg?width=300</value>
@@ -62,6 +67,11 @@
 <type>uri</type>
 <value>http://dbpedia.org/resource/Ayn_Rand</value>
 </author>
+<name>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>Atlas Shrugged</value>
+</name>
 <published>
 <type>typed-literal</type>
 <datatype>http://www.w3.org/2001/XMLSchema#integer</datatype>
@@ -86,6 +96,11 @@
 <type>uri</type>
 <value>http://dbpedia.org/resource/Ayn_Rand</value>
 </author>
+<name>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>The Fountainhead</value>
+</name>
 <published>
 <type>typed-literal</type>
 <datatype>http://www.w3.org/2001/XMLSchema#integer</datatype>
@@ -110,6 +125,11 @@
 <type>uri</type>
 <value>http://dbpedia.org/resource/Ayn_Rand</value>
 </author>
+<name>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>Anthem</value>
+</name>
 <published>
 <type>literal</type>
 <xml:lang>en</xml:lang>
@@ -130,6 +150,11 @@
 <type>uri</type>
 <value>http://dbpedia.org/resource/Ayn_Rand</value>
 </author>
+<name>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>The Virtue of Selfishness</value>
+</name>
 <published>
 <type>typed-literal</type>
 <datatype>http://www.w3.org/2001/XMLSchema#integer</datatype>
@@ -149,6 +174,11 @@
 <type>uri</type>
 <value>http://dbpedia.org/resource/Ayn_Rand</value>
 </author>
+<name>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>The New Left: The Anti-Industrial Revolution</value>
+</name>
 <published>
 <type>literal</type>
 <xml:lang>en</xml:lang>
@@ -170,6 +200,11 @@
 <type>uri</type>
 <value>http://dbpedia.org/resource/Ayn_Rand</value>
 </author>
+<name>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>Journals of Ayn Rand</value>
+</name>
 <published>
 <type>typed-literal</type>
 <datatype>http://www.w3.org/2001/XMLSchema#integer</datatype>
@@ -189,6 +224,11 @@
 <type>uri</type>
 <value>http://dbpedia.org/resource/Ayn_Rand</value>
 </author>
+<name>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>For the New Intellectual</value>
+</name>
 <published>
 <type>typed-literal</type>
 <datatype>http://www.w3.org/2001/XMLSchema#integer</datatype>
@@ -208,6 +248,11 @@
 <type>uri</type>
 <value>http://dbpedia.org/resource/Ayn_Rand</value>
 </author>
+<name>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>We the Living</value>
+</name>
 <published>
 <type>literal</type>
 <xml:lang>en</xml:lang>
@@ -228,6 +273,11 @@
 <type>uri</type>
 <value>http://dbpedia.org/resource/Ayn_Rand</value>
 </author>
+<name>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>The Early Ayn Rand</value>
+</name>
 <published>
 <type>literal</type>
 <xml:lang>en</xml:lang>
@@ -248,6 +298,11 @@
 <type>uri</type>
 <value>http://dbpedia.org/resource/Ayn_Rand</value>
 </author>
+<name>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>Letters of Ayn Rand</value>
+</name>
 <published>
 <type>typed-literal</type>
 <datatype>http://www.w3.org/2001/XMLSchema#integer</datatype>
@@ -267,6 +322,11 @@
 <type>uri</type>
 <value>http://dbpedia.org/resource/Ayn_Rand</value>
 </author>
+<name>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>The Romantic Manifesto</value>
+</name>
 <published>
 <type>literal</type>
 <xml:lang>en</xml:lang>
@@ -287,6 +347,11 @@
 <type>uri</type>
 <value>http://dbpedia.org/resource/Ayn_Rand</value>
 </author>
+<name>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>The Art of Fiction: A Guide for Writers and Readers</value>
+</name>
 <published>
 <type>typed-literal</type>
 <datatype>http://www.w3.org/2001/XMLSchema#integer</datatype>
@@ -306,6 +371,11 @@
 <type>uri</type>
 <value>http://dbpedia.org/resource/Ayn_Rand</value>
 </author>
+<name>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>Capitalism: The Unknown Ideal</value>
+</name>
 <published>
 <type>literal</type>
 <xml:lang>en</xml:lang>
@@ -326,6 +396,11 @@
 <type>uri</type>
 <value>http://dbpedia.org/resource/Ayn_Rand</value>
 </author>
+<name>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>Introduction to Objectivist Epistemology</value>
+</name>
 <published>
 <type>literal</type>
 <xml:lang>en</xml:lang>

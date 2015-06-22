@@ -61,6 +61,11 @@
 <type>uri</type>
 <value>http://dbpedia.org/resource/Galileo_Galilei</value>
 </author>
+<name>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>Sidereus Nuncius</value>
+</name>
 <thumbnail>
 <type>uri</type>
 <value>http://commons.wikimedia.org/wiki/Special:FilePath/Sidereus_Nuncius_1610.Galileo.jpg?width=300</value>

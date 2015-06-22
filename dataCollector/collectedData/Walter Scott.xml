@@ -47,6 +47,11 @@
 <type>uri</type>
 <value>http://dbpedia.org/resource/Walter_Scott</value>
 </author>
+<name>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>Ivanhoe</value>
+</name>
 <thumbnail>
 <type>uri</type>
 <value>http://en.wikipedia.org/wiki/Special:FilePath/Ivanhoe_(opera).jpg?width=300</value>
@@ -75,6 +80,11 @@
 <type>uri</type>
 <value>http://dbpedia.org/resource/Walter_Scott</value>
 </author>
+<name>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>Waverley; or, &apos;Tis Sixty Years Since</value>
+</name>
 <thumbnail>
 <type>uri</type>
 <value>http://commons.wikimedia.org/wiki/Special:FilePath/Walter_Scott_Waverley_illustration_(Pettie-Huth).jpg?width=300</value>
@@ -103,6 +113,11 @@
 <type>uri</type>
 <value>http://dbpedia.org/resource/Walter_Scott</value>
 </author>
+<name>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>Rob Roy</value>
+</name>
 <thumbnail>
 <type>uri</type>
 <value>http://en.wikipedia.org/wiki/Special:FilePath/Dalziel_Brothers_-_Sir_Walter_Scott_-_Rob_Roy_in_the_Crypt_of_Glasgow_Cathedral.jpg?width=300</value>
@@ -131,6 +146,11 @@
 <type>uri</type>
 <value>http://dbpedia.org/resource/Walter_Scott</value>
 </author>
+<name>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>Castle Dangerous</value>
+</name>
 <thumbnail>
 <type>uri</type>
 <value>http://commons.wikimedia.org/wiki/Special:FilePath/Tales_Volume_4.jpg?width=300</value>
@@ -154,6 +174,11 @@
 <type>uri</type>
 <value>http://dbpedia.org/resource/Walter_Scott</value>
 </author>
+<name>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>The Heart of Midlothian</value>
+</name>
 <thumbnail>
 <type>uri</type>
 <value>http://commons.wikimedia.org/wiki/Special:FilePath/Effie_Deans,_1877.jpg?width=300</value>
@@ -177,6 +202,11 @@
 <type>uri</type>
 <value>http://dbpedia.org/resource/Walter_Scott</value>
 </author>
+<name>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>The Pirate</value>
+</name>
 <thumbnail>
 <type>uri</type>
 <value>http://commons.wikimedia.org/wiki/Special:FilePath/Walter_Scott_Pirate_Illustration.jpg?width=300</value>
@@ -200,6 +230,11 @@
 <type>uri</type>
 <value>http://dbpedia.org/resource/Walter_Scott</value>
 </author>
+<name>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>The Fortunes of Nigel</value>
+</name>
 <thumbnail>
 <type>uri</type>
 <value>http://commons.wikimedia.org/wiki/Special:FilePath/Nigel_1822.jpg?width=300</value>
@@ -223,6 +258,11 @@
 <type>uri</type>
 <value>http://dbpedia.org/resource/Walter_Scott</value>
 </author>
+<name>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>Kenilworth</value>
+</name>
 <thumbnail>
 <type>uri</type>
 <value>http://commons.wikimedia.org/wiki/Special:FilePath/Kenilworth_1st_ed.jpg?width=300</value>
@@ -246,6 +286,11 @@
 <type>uri</type>
 <value>http://dbpedia.org/resource/Walter_Scott</value>
 </author>
+<name>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>The Abbot</value>
+</name>
 <thumbnail>
 <type>uri</type>
 <value>http://commons.wikimedia.org/wiki/Special:FilePath/The_Abbot_1820.jpg?width=300</value>
@@ -269,6 +314,11 @@
 <type>uri</type>
 <value>http://dbpedia.org/resource/Walter_Scott</value>
 </author>
+<name>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>The Black Dwarf</value>
+</name>
 <thumbnail>
 <type>uri</type>
 <value>http://commons.wikimedia.org/wiki/Special:FilePath/Sir_Walter_Scott_-_Elshie,_The_Black_Dwarf.jpg?width=300</value>
@@ -292,6 +342,11 @@
 <type>uri</type>
 <value>http://dbpedia.org/resource/Walter_Scott</value>
 </author>
+<name>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>Count Robert of Paris</value>
+</name>
 <thumbnail>
 <type>uri</type>
 <value>http://commons.wikimedia.org/wiki/Special:FilePath/Tales_Volume_4.jpg?width=300</value>
@@ -315,6 +370,11 @@
 <type>uri</type>
 <value>http://dbpedia.org/resource/Walter_Scott</value>
 </author>
+<name>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>Old Mortality</value>
+</name>
 <thumbnail>
 <type>uri</type>
 <value>http://commons.wikimedia.org/wiki/Special:FilePath/Tales_of_My_Landlord_1st_series_1st_edition.jpg?width=300</value>
@@ -338,6 +398,11 @@
 <type>uri</type>
 <value>http://dbpedia.org/resource/Walter_Scott</value>
 </author>
+<name>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>Redgauntlet</value>
+</name>
 <thumbnail>
 <type>uri</type>
 <value>http://commons.wikimedia.org/wiki/Special:FilePath/Redgauntlet_1st.jpg?width=300</value>
@@ -361,6 +426,11 @@
 <type>uri</type>
 <value>http://dbpedia.org/resource/Walter_Scott</value>
 </author>
+<name>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>Sir Walter Scott Bart of Abbotsford his Gurnal</value>
+</name>
 <thumbnail>
 <type>uri</type>
 <value>http://commons.wikimedia.org/wiki/Special:FilePath/The_Journal_of_Sir_Walter_Scott.jpg?width=300</value>
@@ -384,6 +454,11 @@
 <type>uri</type>
 <value>http://dbpedia.org/resource/Walter_Scott</value>
 </author>
+<name>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>Saint Ronan&apos;s Well</value>
+</name>
 <thumbnail>
 <type>uri</type>
 <value>http://commons.wikimedia.org/wiki/Special:FilePath/St_Ronan_1824.jpg?width=300</value>
@@ -407,6 +482,11 @@
 <type>uri</type>
 <value>http://dbpedia.org/resource/Walter_Scott</value>
 </author>
+<name>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>A Legend of Montrose</value>
+</name>
 <thumbnail>
 <type>uri</type>
 <value>http://commons.wikimedia.org/wiki/Special:FilePath/Walter_Scott_Legend_of_Montrose_Illustration.jpg?width=300</value>
@@ -430,6 +510,11 @@
 <type>uri</type>
 <value>http://dbpedia.org/resource/Walter_Scott</value>
 </author>
+<name>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>The Talisman</value>
+</name>
 <thumbnail>
 <type>uri</type>
 <value>http://commons.wikimedia.org/wiki/Special:FilePath/Talisman_1825.jpg?width=300</value>
@@ -453,6 +538,11 @@
 <type>uri</type>
 <value>http://dbpedia.org/resource/Walter_Scott</value>
 </author>
+<name>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>Woodstock</value>
+</name>
 <thumbnail>
 <type>uri</type>
 <value>http://commons.wikimedia.org/wiki/Special:FilePath/Frontispiece_1863_Woodstock-neat.png?width=300</value>
@@ -476,6 +566,11 @@
 <type>uri</type>
 <value>http://dbpedia.org/resource/Walter_Scott</value>
 </author>
+<name>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>The Monastery</value>
+</name>
 <thumbnail>
 <type>uri</type>
 <value>http://commons.wikimedia.org/wiki/Special:FilePath/The_Monastery_1820.jpg?width=300</value>
@@ -499,6 +594,11 @@
 <type>uri</type>
 <value>http://dbpedia.org/resource/Walter_Scott</value>
 </author>
+<name>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>The Antiquary</value>
+</name>
 <thumbnail>
 <type>uri</type>
 <value>http://commons.wikimedia.org/wiki/Special:FilePath/The_Antiquary_1st_ed.jpg?width=300</value>
@@ -522,6 +622,11 @@
 <type>uri</type>
 <value>http://dbpedia.org/resource/Walter_Scott</value>
 </author>
+<name>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>The Fair Maid of Perth</value>
+</name>
 <thumbnail>
 <type>uri</type>
 <value>http://en.wikipedia.org/wiki/Special:FilePath/Walter_Scott_Fair_Maid_of_Perth_Illustration_1859.jpg?width=300</value>
@@ -545,6 +650,11 @@
 <type>uri</type>
 <value>http://dbpedia.org/resource/Walter_Scott</value>
 </author>
+<name>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>Anne of Geierstein</value>
+</name>
 <thumbnail>
 <type>uri</type>
 <value>http://commons.wikimedia.org/wiki/Special:FilePath/Anne_of_G_1829.jpg?width=300</value>
@@ -568,6 +678,11 @@
 <type>uri</type>
 <value>http://dbpedia.org/resource/Walter_Scott</value>
 </author>
+<name>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>Guy Mannering or The Astrologer</value>
+</name>
 <thumbnail>
 <type>uri</type>
 <value>http://en.wikipedia.org/wiki/Special:FilePath/N._M._Price_-_Sir_Walter_Scott_-_Guy_Mannering_-_At_the_Kaim_of_Derncleugh.jpg?width=300</value>
@@ -591,6 +706,11 @@
 <type>uri</type>
 <value>http://dbpedia.org/resource/Walter_Scott</value>
 </author>
+<name>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>Quentin Durward</value>
+</name>
 <thumbnail>
 <type>uri</type>
 <value>http://commons.wikimedia.org/wiki/Special:FilePath/Quentin_Durward_1823.jpg?width=300</value>
@@ -614,6 +734,11 @@
 <type>uri</type>
 <value>http://dbpedia.org/resource/Walter_Scott</value>
 </author>
+<name>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>The Betrothed</value>
+</name>
 <thumbnail>
 <type>uri</type>
 <value>http://commons.wikimedia.org/wiki/Special:FilePath/Betrothed_1825.jpg?width=300</value>
@@ -637,6 +762,11 @@
 <type>uri</type>
 <value>http://dbpedia.org/resource/Walter_Scott</value>
 </author>
+<name>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>The Bride of Lammermoor</value>
+</name>
 <thumbnail>
 <type>uri</type>
 <value>http://en.wikipedia.org/wiki/Special:FilePath/Charles_Robert_Leslie_-_Sir_Walter_Scott_-_Ravenswood_and_Lucy_at_the_Mermaiden&apos;s_Well_-_Bride_of_Lammermoor.jpg?width=300</value>
@@ -660,6 +790,11 @@
 <type>uri</type>
 <value>http://dbpedia.org/resource/Walter_Scott</value>
 </author>
+<name>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>Peveril of the Peak</value>
+</name>
 <thumbnail>
 <type>uri</type>
 <value>http://commons.wikimedia.org/wiki/Special:FilePath/Peveril_of_the_Peak.jpg?width=300</value>
@@ -683,6 +818,11 @@
 <type>uri</type>
 <value>http://dbpedia.org/resource/Walter_Scott</value>
 </author>
+<name>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>Rokeby</value>
+</name>
 <thumbnail>
 <type>uri</type>
 <value>http://commons.wikimedia.org/wiki/Special:FilePath/Rokeby_first_edition.jpg?width=300</value>
@@ -701,6 +841,11 @@
 <type>uri</type>
 <value>http://dbpedia.org/resource/Walter_Scott</value>
 </author>
+<name>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>The Siege of Malta</value>
+</name>
 <released>
 <type>typed-literal</type>
 <datatype>http://www.w3.org/2001/XMLSchema#date</datatype>
@@ -720,6 +865,11 @@
 <type>uri</type>
 <value>http://dbpedia.org/resource/Walter_Scott</value>
 </author>
+<name>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>Bizarro</value>
+</name>
 <released>
 <type>typed-literal</type>
 <datatype>http://www.w3.org/2001/XMLSchema#date</datatype>

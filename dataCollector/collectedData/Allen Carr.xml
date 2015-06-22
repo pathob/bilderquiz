@@ -27,6 +27,11 @@
 <type>uri</type>
 <value>http://dbpedia.org/resource/Allen_Carr</value>
 </author>
+<name>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>The Easy Way to Stop Smoking</value>
+</name>
 <wikilink>
 <type>uri</type>
 <value>http://en.wikipedia.org/wiki/The_Easy_Way_to_Stop_Smoking?oldid=606217132</value>

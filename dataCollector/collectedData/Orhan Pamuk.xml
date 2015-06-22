@@ -34,6 +34,11 @@
 <type>uri</type>
 <value>http://dbpedia.org/resource/Orhan_Pamuk</value>
 </author>
+<name>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>The Museum of Innocence</value>
+</name>
 <thumbnail>
 <type>uri</type>
 <value>http://commons.wikimedia.org/wiki/Special:FilePath/Masumiyet_Müzesi&apos;nin_binası.JPG?width=300</value>
@@ -62,6 +67,11 @@
 <type>uri</type>
 <value>http://dbpedia.org/resource/Orhan_Pamuk</value>
 </author>
+<name>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>Yeni Hayat</value>
+</name>
 <released>
 <type>typed-literal</type>
 <datatype>http://www.w3.org/2001/XMLSchema#integer</datatype>
@@ -86,6 +96,11 @@
 <type>uri</type>
 <value>http://dbpedia.org/resource/Orhan_Pamuk</value>
 </author>
+<name>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>Beyaz Kale</value>
+</name>
 <released>
 <type>typed-literal</type>
 <datatype>http://www.w3.org/2001/XMLSchema#integer</datatype>
@@ -110,6 +125,11 @@
 <type>uri</type>
 <value>http://dbpedia.org/resource/Orhan_Pamuk</value>
 </author>
+<name>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>My Name Is Red</value>
+</name>
 <released>
 <type>typed-literal</type>
 <datatype>http://www.w3.org/2001/XMLSchema#integer</datatype>
@@ -134,6 +154,11 @@
 <type>uri</type>
 <value>http://dbpedia.org/resource/Orhan_Pamuk</value>
 </author>
+<name>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>The Black Book</value>
+</name>
 <released>
 <type>typed-literal</type>
 <datatype>http://www.w3.org/2001/XMLSchema#integer</datatype>
@@ -158,6 +183,11 @@
 <type>uri</type>
 <value>http://dbpedia.org/resource/Orhan_Pamuk</value>
 </author>
+<name>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>Snow</value>
+</name>
 <released>
 <type>typed-literal</type>
 <datatype>http://www.w3.org/2001/XMLSchema#integer</datatype>

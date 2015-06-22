@@ -28,6 +28,11 @@
 <type>uri</type>
 <value>http://dbpedia.org/resource/Gaston_Leroux</value>
 </author>
+<name>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>Le Fantôme de l&apos;Opéra</value>
+</name>
 <thumbnail>
 <type>uri</type>
 <value>http://en.wikipedia.org/wiki/Special:FilePath/Phantom_of_the_Opera_Cover.jpg?width=300</value>
@@ -56,6 +61,11 @@
 <type>uri</type>
 <value>http://dbpedia.org/resource/Gaston_Leroux</value>
 </author>
+<name>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>The Mystery of the Yellow Room</value>
+</name>
 <thumbnail>
 <type>uri</type>
 <value>http://en.wikipedia.org/wiki/Special:FilePath/Leroux_Chambre_Jaune.jpg?width=300</value>

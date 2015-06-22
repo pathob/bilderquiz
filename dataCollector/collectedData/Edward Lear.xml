@@ -39,6 +39,11 @@
 <type>uri</type>
 <value>http://dbpedia.org/resource/Edward_Lear</value>
 </author>
+<name>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>Illustrations of the Family of the Psittacidae, or Parrots</value>
+</name>
 <thumbnail>
 <type>uri</type>
 <value>http://commons.wikimedia.org/wiki/Special:FilePath/Illustrations_of_the_family_of_Psittacidae,_or_parrots_(1832)_-book_title_page_-by_Edward_Lear.jpg?width=300</value>

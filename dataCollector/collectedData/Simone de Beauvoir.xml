@@ -38,6 +38,11 @@
 <type>uri</type>
 <value>http://dbpedia.org/resource/Simone_de_Beauvoir</value>
 </author>
+<name>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>All Men are Mortal</value>
+</name>
 <released>
 <type>typed-literal</type>
 <datatype>http://www.w3.org/2001/XMLSchema#integer</datatype>
@@ -62,6 +67,11 @@
 <type>uri</type>
 <value>http://dbpedia.org/resource/Simone_de_Beauvoir</value>
 </author>
+<name>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>The Second Sex</value>
+</name>
 <published>
 <type>typed-literal</type>
 <datatype>http://www.w3.org/2001/XMLSchema#integer</datatype>
@@ -86,6 +96,11 @@
 <type>uri</type>
 <value>http://dbpedia.org/resource/Simone_de_Beauvoir</value>
 </author>
+<name>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>La Vieillesse</value>
+</name>
 <published>
 <type>typed-literal</type>
 <datatype>http://www.w3.org/2001/XMLSchema#date</datatype>
@@ -105,6 +120,11 @@
 <type>uri</type>
 <value>http://dbpedia.org/resource/Simone_de_Beauvoir</value>
 </author>
+<name>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>Le Sang des autres</value>
+</name>
 <wikilink>
 <type>uri</type>
 <value>http://en.wikipedia.org/wiki/The_Blood_of_Others?oldid=571137164</value>

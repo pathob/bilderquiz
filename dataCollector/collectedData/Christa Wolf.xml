@@ -57,6 +57,11 @@
 <type>uri</type>
 <value>http://dbpedia.org/resource/Christa_Wolf</value>
 </author>
+<name>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>The Quest for Christa T.</value>
+</name>
 <released>
 <type>typed-literal</type>
 <datatype>http://www.w3.org/2001/XMLSchema#integer</datatype>

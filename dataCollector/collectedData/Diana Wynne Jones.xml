@@ -29,6 +29,11 @@
 <type>uri</type>
 <value>http://dbpedia.org/resource/Diana_Wynne_Jones</value>
 </author>
+<name>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>The Magicians of Caprona</value>
+</name>
 <thumbnail>
 <type>uri</type>
 <value>http://commons.wikimedia.org/wiki/Special:FilePath/Estimated_location_of_fictional_city-state_of_Caprona.jpg?width=300</value>
@@ -47,6 +52,11 @@
 <type>uri</type>
 <value>http://dbpedia.org/resource/Diana_Wynne_Jones</value>
 </author>
+<name>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>House of Many Ways</value>
+</name>
 <released>
 <type>typed-literal</type>
 <datatype>http://www.w3.org/2001/XMLSchema#gMonthDay</datatype>
@@ -66,6 +76,11 @@
 <type>uri</type>
 <value>http://dbpedia.org/resource/Diana_Wynne_Jones</value>
 </author>
+<name>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>The Ogre Downstairs</value>
+</name>
 <released>
 <type>typed-literal</type>
 <datatype>http://www.w3.org/2001/XMLSchema#integer</datatype>
@@ -85,6 +100,11 @@
 <type>uri</type>
 <value>http://dbpedia.org/resource/Diana_Wynne_Jones</value>
 </author>
+<name>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>Deep Secret</value>
+</name>
 <released>
 <type>typed-literal</type>
 <datatype>http://www.w3.org/2001/XMLSchema#integer</datatype>
@@ -104,6 +124,11 @@
 <type>uri</type>
 <value>http://dbpedia.org/resource/Diana_Wynne_Jones</value>
 </author>
+<name>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>Drowned Ammet</value>
+</name>
 <released>
 <type>typed-literal</type>
 <datatype>http://www.w3.org/2001/XMLSchema#integer</datatype>
@@ -123,6 +148,11 @@
 <type>uri</type>
 <value>http://dbpedia.org/resource/Diana_Wynne_Jones</value>
 </author>
+<name>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>The Merlin Conspiracy</value>
+</name>
 <released>
 <type>typed-literal</type>
 <datatype>http://www.w3.org/2001/XMLSchema#integer</datatype>
@@ -142,6 +172,11 @@
 <type>uri</type>
 <value>http://dbpedia.org/resource/Diana_Wynne_Jones</value>
 </author>
+<name>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>A Tale of Time City</value>
+</name>
 <released>
 <type>typed-literal</type>
 <datatype>http://www.w3.org/2001/XMLSchema#integer</datatype>
@@ -161,6 +196,11 @@
 <type>uri</type>
 <value>http://dbpedia.org/resource/Diana_Wynne_Jones</value>
 </author>
+<name>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>Hexwood</value>
+</name>
 <released>
 <type>typed-literal</type>
 <datatype>http://www.w3.org/2001/XMLSchema#integer</datatype>
@@ -180,6 +220,11 @@
 <type>uri</type>
 <value>http://dbpedia.org/resource/Diana_Wynne_Jones</value>
 </author>
+<name>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>Fire and Hemlock</value>
+</name>
 <released>
 <type>typed-literal</type>
 <datatype>http://www.w3.org/2001/XMLSchema#integer</datatype>
@@ -199,6 +244,11 @@
 <type>uri</type>
 <value>http://dbpedia.org/resource/Diana_Wynne_Jones</value>
 </author>
+<name>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>The Spellcoats</value>
+</name>
 <released>
 <type>typed-literal</type>
 <datatype>http://www.w3.org/2001/XMLSchema#date</datatype>
@@ -218,6 +268,11 @@
 <type>uri</type>
 <value>http://dbpedia.org/resource/Diana_Wynne_Jones</value>
 </author>
+<name>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>Cart and Cwidder</value>
+</name>
 <released>
 <type>typed-literal</type>
 <datatype>http://www.w3.org/2001/XMLSchema#integer</datatype>
@@ -237,6 +292,11 @@
 <type>uri</type>
 <value>http://dbpedia.org/resource/Diana_Wynne_Jones</value>
 </author>
+<name>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>Archer&apos;s Goon</value>
+</name>
 <released>
 <type>typed-literal</type>
 <datatype>http://www.w3.org/2001/XMLSchema#integer</datatype>
@@ -256,6 +316,11 @@
 <type>uri</type>
 <value>http://dbpedia.org/resource/Diana_Wynne_Jones</value>
 </author>
+<name>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>Eight Days of Luke</value>
+</name>
 <released>
 <type>typed-literal</type>
 <datatype>http://www.w3.org/2001/XMLSchema#integer</datatype>
@@ -275,6 +340,11 @@
 <type>uri</type>
 <value>http://dbpedia.org/resource/Diana_Wynne_Jones</value>
 </author>
+<name>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>The Crown of Dalemark</value>
+</name>
 <released>
 <type>typed-literal</type>
 <datatype>http://www.w3.org/2001/XMLSchema#integer</datatype>
@@ -294,6 +364,11 @@
 <type>uri</type>
 <value>http://dbpedia.org/resource/Diana_Wynne_Jones</value>
 </author>
+<name>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>The Homeward Bounders</value>
+</name>
 <released>
 <type>typed-literal</type>
 <datatype>http://www.w3.org/2001/XMLSchema#integer</datatype>
@@ -313,6 +388,11 @@
 <type>uri</type>
 <value>http://dbpedia.org/resource/Diana_Wynne_Jones</value>
 </author>
+<name>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>Enchanted Glass</value>
+</name>
 <released>
 <type>typed-literal</type>
 <datatype>http://www.w3.org/2001/XMLSchema#integer</datatype>
@@ -332,6 +412,11 @@
 <type>uri</type>
 <value>http://dbpedia.org/resource/Diana_Wynne_Jones</value>
 </author>
+<name>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>The Game</value>
+</name>
 <released>
 <type>typed-literal</type>
 <datatype>http://www.w3.org/2001/XMLSchema#integer</datatype>
@@ -351,6 +436,11 @@
 <type>uri</type>
 <value>http://dbpedia.org/resource/Diana_Wynne_Jones</value>
 </author>
+<name>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>Year of the Griffin</value>
+</name>
 <published>
 <type>typed-literal</type>
 <datatype>http://www.w3.org/2001/XMLSchema#integer</datatype>
@@ -370,6 +460,11 @@
 <type>uri</type>
 <value>http://dbpedia.org/resource/Diana_Wynne_Jones</value>
 </author>
+<name>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>Howl&apos;s Moving Castle</value>
+</name>
 <wikilink>
 <type>uri</type>
 <value>http://en.wikipedia.org/wiki/Howl&apos;s_Moving_Castle?oldid=606225435</value>
@@ -389,6 +484,11 @@
 <type>uri</type>
 <value>http://dbpedia.org/resource/Diana_Wynne_Jones</value>
 </author>
+<name>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>The Tough Guide To Fantasyland</value>
+</name>
 <wikilink>
 <type>uri</type>
 <value>http://en.wikipedia.org/wiki/The_Tough_Guide_To_Fantasyland?oldid=604059135</value>
@@ -403,6 +503,11 @@
 <type>uri</type>
 <value>http://dbpedia.org/resource/Diana_Wynne_Jones</value>
 </author>
+<name>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>The Dark Lord of Derkholm</value>
+</name>
 <wikilink>
 <type>uri</type>
 <value>http://en.wikipedia.org/wiki/Dark_Lord_of_Derkholm?oldid=591195629</value>
@@ -417,6 +522,11 @@
 <type>uri</type>
 <value>http://dbpedia.org/resource/Diana_Wynne_Jones</value>
 </author>
+<name>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>Witch Week</value>
+</name>
 <wikilink>
 <type>uri</type>
 <value>http://en.wikipedia.org/wiki/Witch_Week?oldid=605613213</value>
@@ -431,6 +541,11 @@
 <type>uri</type>
 <value>http://dbpedia.org/resource/Diana_Wynne_Jones</value>
 </author>
+<name>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>The Time of the Ghost</value>
+</name>
 <wikilink>
 <type>uri</type>
 <value>http://en.wikipedia.org/wiki/The_Time_of_the_Ghost?oldid=603885260</value>
@@ -445,6 +560,11 @@
 <type>uri</type>
 <value>http://dbpedia.org/resource/Diana_Wynne_Jones</value>
 </author>
+<name>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>Conrad&apos;s Fate</value>
+</name>
 <wikilink>
 <type>uri</type>
 <value>http://en.wikipedia.org/wiki/Conrad&apos;s_Fate?oldid=584234991</value>
@@ -459,6 +579,11 @@
 <type>uri</type>
 <value>http://dbpedia.org/resource/Diana_Wynne_Jones</value>
 </author>
+<name>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>The Lives of Christopher Chant</value>
+</name>
 <wikilink>
 <type>uri</type>
 <value>http://en.wikipedia.org/wiki/The_Lives_of_Christopher_Chant?oldid=594035447</value>
@@ -473,6 +598,11 @@
 <type>uri</type>
 <value>http://dbpedia.org/resource/Diana_Wynne_Jones</value>
 </author>
+<name>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>Charmed Life</value>
+</name>
 <wikilink>
 <type>uri</type>
 <value>http://en.wikipedia.org/wiki/Charmed_Life_(novel)?oldid=591396547</value>
@@ -487,6 +617,11 @@
 <type>uri</type>
 <value>http://dbpedia.org/resource/Diana_Wynne_Jones</value>
 </author>
+<name>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>Dogsbody</value>
+</name>
 <wikilink>
 <type>uri</type>
 <value>http://en.wikipedia.org/wiki/Dogsbody_(novel)?oldid=585448360</value>
@@ -501,6 +636,11 @@
 <type>uri</type>
 <value>http://dbpedia.org/resource/Diana_Wynne_Jones</value>
 </author>
+<name>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>Mixed Magics: Four Tales of Chrestomanci</value>
+</name>
 <wikilink>
 <type>uri</type>
 <value>http://en.wikipedia.org/wiki/Mixed_Magics?oldid=595006915</value>
@@ -515,6 +655,11 @@
 <type>uri</type>
 <value>http://dbpedia.org/resource/Diana_Wynne_Jones</value>
 </author>
+<name>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>Castle in the Air</value>
+</name>
 <wikilink>
 <type>uri</type>
 <value>http://en.wikipedia.org/wiki/Castle_in_the_Air_(novel)?oldid=596241439</value>
@@ -529,6 +674,11 @@
 <type>uri</type>
 <value>http://dbpedia.org/resource/Diana_Wynne_Jones</value>
 </author>
+<name>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>Power of Three</value>
+</name>
 <wikilink>
 <type>uri</type>
 <value>http://en.wikipedia.org/wiki/Power_of_Three_(novel)?oldid=597500809</value>
@@ -543,6 +693,11 @@
 <type>uri</type>
 <value>http://dbpedia.org/resource/Diana_Wynne_Jones</value>
 </author>
+<name>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>The Pinhoe Egg</value>
+</name>
 <wikilink>
 <type>uri</type>
 <value>http://en.wikipedia.org/wiki/The_Pinhoe_Egg?oldid=597066648</value>

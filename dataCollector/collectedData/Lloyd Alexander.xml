@@ -31,6 +31,11 @@
 <type>uri</type>
 <value>http://dbpedia.org/resource/Lloyd_Alexander</value>
 </author>
+<name>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>The Iron Ring</value>
+</name>
 <published>
 <type>typed-literal</type>
 <datatype>http://www.w3.org/2001/XMLSchema#integer</datatype>
@@ -50,6 +55,11 @@
 <type>uri</type>
 <value>http://dbpedia.org/resource/Lloyd_Alexander</value>
 </author>
+<name>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>The First Two Lives of Lukas-Kasha</value>
+</name>
 <published>
 <type>typed-literal</type>
 <datatype>http://www.w3.org/2001/XMLSchema#integer</datatype>
@@ -69,6 +79,11 @@
 <type>uri</type>
 <value>http://dbpedia.org/resource/Lloyd_Alexander</value>
 </author>
+<name>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>Taran Wanderer</value>
+</name>
 <published>
 <type>typed-literal</type>
 <datatype>http://www.w3.org/2001/XMLSchema#integer</datatype>
@@ -88,6 +103,11 @@
 <type>uri</type>
 <value>http://dbpedia.org/resource/Lloyd_Alexander</value>
 </author>
+<name>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>The Black Cauldron</value>
+</name>
 <published>
 <type>typed-literal</type>
 <datatype>http://www.w3.org/2001/XMLSchema#integer</datatype>
@@ -107,6 +127,11 @@
 <type>uri</type>
 <value>http://dbpedia.org/resource/Lloyd_Alexander</value>
 </author>
+<name>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>The High King</value>
+</name>
 <published>
 <type>typed-literal</type>
 <datatype>http://www.w3.org/2001/XMLSchema#integer</datatype>
@@ -126,6 +151,11 @@
 <type>uri</type>
 <value>http://dbpedia.org/resource/Lloyd_Alexander</value>
 </author>
+<name>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>The Book of Three</value>
+</name>
 <published>
 <type>typed-literal</type>
 <datatype>http://www.w3.org/2001/XMLSchema#integer</datatype>
@@ -145,6 +175,11 @@
 <type>uri</type>
 <value>http://dbpedia.org/resource/Lloyd_Alexander</value>
 </author>
+<name>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>Gypsy Rizka</value>
+</name>
 <published>
 <type>typed-literal</type>
 <datatype>http://www.w3.org/2001/XMLSchema#integer</datatype>
@@ -164,6 +199,11 @@
 <type>uri</type>
 <value>http://dbpedia.org/resource/Lloyd_Alexander</value>
 </author>
+<name>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>The Kestrel</value>
+</name>
 <published>
 <type>typed-literal</type>
 <datatype>http://www.w3.org/2001/XMLSchema#integer</datatype>
@@ -183,6 +223,11 @@
 <type>uri</type>
 <value>http://dbpedia.org/resource/Lloyd_Alexander</value>
 </author>
+<name>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>The Cat Who Wished to Be a Man</value>
+</name>
 <published>
 <type>typed-literal</type>
 <datatype>http://www.w3.org/2001/XMLSchema#integer</datatype>
@@ -202,6 +247,11 @@
 <type>uri</type>
 <value>http://dbpedia.org/resource/Lloyd_Alexander</value>
 </author>
+<name>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>The Beggar Queen</value>
+</name>
 <published>
 <type>typed-literal</type>
 <datatype>http://www.w3.org/2001/XMLSchema#integer</datatype>
@@ -221,6 +271,11 @@
 <type>uri</type>
 <value>http://dbpedia.org/resource/Lloyd_Alexander</value>
 </author>
+<name>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>Time Cat</value>
+</name>
 <published>
 <type>typed-literal</type>
 <datatype>http://www.w3.org/2001/XMLSchema#integer</datatype>
@@ -240,6 +295,11 @@
 <type>uri</type>
 <value>http://dbpedia.org/resource/Lloyd_Alexander</value>
 </author>
+<name>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>The Castle of Llyr</value>
+</name>
 <wikilink>
 <type>uri</type>
 <value>http://en.wikipedia.org/wiki/The_Castle_of_Llyr?oldid=600695350</value>
@@ -254,6 +314,11 @@
 <type>uri</type>
 <value>http://dbpedia.org/resource/Lloyd_Alexander</value>
 </author>
+<name>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>Westmark</value>
+</name>
 <wikilink>
 <type>uri</type>
 <value>http://en.wikipedia.org/wiki/Westmark_(novel)?oldid=600275370</value>
@@ -268,6 +333,11 @@
 <type>uri</type>
 <value>http://dbpedia.org/resource/Lloyd_Alexander</value>
 </author>
+<name>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>The Foundling and Other Tales of Prydain</value>
+</name>
 <wikilink>
 <type>uri</type>
 <value>http://en.wikipedia.org/wiki/The_Foundling_and_Other_Tales_of_Prydain?oldid=599943477</value>

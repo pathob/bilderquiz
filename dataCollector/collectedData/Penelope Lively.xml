@@ -32,6 +32,11 @@
 <type>uri</type>
 <value>http://dbpedia.org/resource/Penelope_Lively</value>
 </author>
+<name>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>The Voyage of QV66</value>
+</name>
 <released>
 <type>typed-literal</type>
 <datatype>http://www.w3.org/2001/XMLSchema#integer</datatype>
@@ -51,6 +56,11 @@
 <type>uri</type>
 <value>http://dbpedia.org/resource/Penelope_Lively</value>
 </author>
+<name>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>According to Mark</value>
+</name>
 <released>
 <type>typed-literal</type>
 <datatype>http://www.w3.org/2001/XMLSchema#integer</datatype>
@@ -70,6 +80,11 @@
 <type>uri</type>
 <value>http://dbpedia.org/resource/Penelope_Lively</value>
 </author>
+<name>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>Moon Tiger</value>
+</name>
 <released>
 <type>typed-literal</type>
 <datatype>http://www.w3.org/2001/XMLSchema#integer</datatype>
@@ -89,6 +104,11 @@
 <type>uri</type>
 <value>http://dbpedia.org/resource/Penelope_Lively</value>
 </author>
+<name>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>The Ghost of Thomas Kempe</value>
+</name>
 <wikilink>
 <type>uri</type>
 <value>http://en.wikipedia.org/wiki/The_Ghost_of_Thomas_Kempe?oldid=596802475</value>

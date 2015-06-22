@@ -66,6 +66,11 @@
 <type>uri</type>
 <value>http://dbpedia.org/resource/Alexandre_Dumas</value>
 </author>
+<name>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>Les Trois Mousquetaires</value>
+</name>
 <thumbnail>
 <type>uri</type>
 <value>http://commons.wikimedia.org/wiki/Special:FilePath/Dartagnan-musketeers.jpg?width=300</value>
@@ -94,6 +99,11 @@
 <type>uri</type>
 <value>http://dbpedia.org/resource/Alexandre_Dumas</value>
 </author>
+<name>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>Twenty Years After</value>
+</name>
 <thumbnail>
 <type>uri</type>
 <value>http://commons.wikimedia.org/wiki/Special:FilePath/Leloir_Musketeers2.jpg?width=300</value>
@@ -117,6 +127,11 @@
 <type>uri</type>
 <value>http://dbpedia.org/resource/Alexandre_Dumas</value>
 </author>
+<name>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>Le Collier de la reine</value>
+</name>
 <thumbnail>
 <type>uri</type>
 <value>http://commons.wikimedia.org/wiki/Special:FilePath/Marie_Antoinette_Adult9.jpg?width=300</value>
@@ -140,6 +155,11 @@
 <type>uri</type>
 <value>http://dbpedia.org/resource/Alexandre_Dumas</value>
 </author>
+<name>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>The Count of Monte Cristo</value>
+</name>
 <thumbnail>
 <type>uri</type>
 <value>http://commons.wikimedia.org/wiki/Special:FilePath/Louis_Français-Dantès_sur_son_rocher.jpg?width=300</value>
@@ -163,6 +183,11 @@
 <type>uri</type>
 <value>http://dbpedia.org/resource/Alexandre_Dumas</value>
 </author>
+<name>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>La Reine Margot</value>
+</name>
 <thumbnail>
 <type>uri</type>
 <value>http://commons.wikimedia.org/wiki/Special:FilePath/SchlafzimmerBartholomaeusnacht.jpg?width=300</value>
@@ -181,6 +206,11 @@
 <type>uri</type>
 <value>http://dbpedia.org/resource/Alexandre_Dumas</value>
 </author>
+<name>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>La Tulipe Noire</value>
+</name>
 <released>
 <type>literal</type>
 <xml:lang>en</xml:lang>
@@ -205,6 +235,11 @@
 <type>uri</type>
 <value>http://dbpedia.org/resource/Alexandre_Dumas</value>
 </author>
+<name>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>Le Chevalier de Maison-Rouge</value>
+</name>
 <released>
 <type>literal</type>
 <xml:lang>en</xml:lang>
@@ -224,6 +259,11 @@
 <type>uri</type>
 <value>http://dbpedia.org/resource/Alexandre_Dumas</value>
 </author>
+<name>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>The Vicomte of Bragelonne: Ten Years Later</value>
+</name>
 <released>
 <type>literal</type>
 <xml:lang>en</xml:lang>
@@ -243,6 +283,11 @@
 <type>uri</type>
 <value>http://dbpedia.org/resource/Alexandre_Dumas</value>
 </author>
+<name>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>The Wolf Leader</value>
+</name>
 <released>
 <type>typed-literal</type>
 <datatype>http://www.w3.org/2001/XMLSchema#integer</datatype>
@@ -262,6 +307,11 @@
 <type>uri</type>
 <value>http://dbpedia.org/resource/Alexandre_Dumas</value>
 </author>
+<name>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>Georges</value>
+</name>
 <released>
 <type>typed-literal</type>
 <datatype>http://www.w3.org/2001/XMLSchema#integer</datatype>
@@ -281,6 +331,11 @@
 <type>uri</type>
 <value>http://dbpedia.org/resource/Alexandre_Dumas</value>
 </author>
+<name>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>Montevideo, or the new Troy</value>
+</name>
 <wikilink>
 <type>uri</type>
 <value>http://en.wikipedia.org/wiki/The_New_Troy?oldid=605970944</value>

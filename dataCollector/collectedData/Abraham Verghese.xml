@@ -29,6 +29,11 @@
 <type>uri</type>
 <value>http://dbpedia.org/resource/Abraham_Verghese</value>
 </author>
+<name>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>Cutting for Stone</value>
+</name>
 <released>
 <type>literal</type>
 <xml:lang>en</xml:lang>

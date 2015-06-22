@@ -39,6 +39,11 @@
 <type>uri</type>
 <value>http://dbpedia.org/resource/Maurice_Maeterlinck</value>
 </author>
+<name>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>Le Trésor des Humbles</value>
+</name>
 <thumbnail>
 <type>uri</type>
 <value>http://en.wikipedia.org/wiki/Special:FilePath/Treasure_humble_tp.jpg?width=300</value>
@@ -62,6 +67,11 @@
 <type>uri</type>
 <value>http://dbpedia.org/resource/Maurice_Maeterlinck</value>
 </author>
+<name>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>Serres chaudes</value>
+</name>
 <thumbnail>
 <type>uri</type>
 <value>http://commons.wikimedia.org/wiki/Special:FilePath/DSCN2652-brueghel-massacre_rot_crop_1400_1000.jpg?width=300</value>

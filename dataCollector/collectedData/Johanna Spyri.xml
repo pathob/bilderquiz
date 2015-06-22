@@ -58,6 +58,11 @@
 <type>uri</type>
 <value>http://dbpedia.org/resource/Johanna_Spyri</value>
 </author>
+<name>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>Heidi</value>
+</name>
 <thumbnail>
 <type>uri</type>
 <value>http://commons.wikimedia.org/wiki/Special:FilePath/Spyri_Heidi_Cover_1887.jpg?width=300</value>

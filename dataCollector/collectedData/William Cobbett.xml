@@ -37,6 +37,11 @@
 <type>uri</type>
 <value>http://dbpedia.org/resource/William_Cobbett</value>
 </author>
+<name>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>Rural Rides</value>
+</name>
 <wikilink>
 <type>uri</type>
 <value>http://en.wikipedia.org/wiki/Rural_Rides?oldid=602236567</value>

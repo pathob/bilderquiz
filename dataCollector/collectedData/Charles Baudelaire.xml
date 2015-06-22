@@ -50,6 +50,11 @@
 <type>uri</type>
 <value>http://dbpedia.org/resource/Charles_Baudelaire</value>
 </author>
+<name>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>Les Paradis Artificiels</value>
+</name>
 <thumbnail>
 <type>uri</type>
 <value>http://en.wikipedia.org/wiki/Special:FilePath/Les_Paradis_Artificiels_-_Title_Page.jpg?width=300</value>

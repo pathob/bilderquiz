@@ -45,6 +45,11 @@
 <type>uri</type>
 <value>http://dbpedia.org/resource/Virginia_Woolf</value>
 </author>
+<name>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>Orlando: A Biography</value>
+</name>
 <thumbnail>
 <type>uri</type>
 <value>http://commons.wikimedia.org/wiki/Special:FilePath/Portadaorlando.jpg?width=300</value>
@@ -73,6 +78,11 @@
 <type>uri</type>
 <value>http://dbpedia.org/resource/Virginia_Woolf</value>
 </author>
+<name>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>The Voyage Out</value>
+</name>
 <thumbnail>
 <type>uri</type>
 <value>http://en.wikipedia.org/wiki/Special:FilePath/The_Voyage_Out.jpg?width=300</value>
@@ -101,6 +111,11 @@
 <type>uri</type>
 <value>http://dbpedia.org/resource/Virginia_Woolf</value>
 </author>
+<name>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>To the Lighthouse</value>
+</name>
 <released>
 <type>typed-literal</type>
 <datatype>http://www.w3.org/2001/XMLSchema#date</datatype>
@@ -125,6 +140,11 @@
 <type>uri</type>
 <value>http://dbpedia.org/resource/Virginia_Woolf</value>
 </author>
+<name>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>The Waves</value>
+</name>
 <released>
 <type>typed-literal</type>
 <datatype>http://www.w3.org/2001/XMLSchema#date</datatype>
@@ -149,6 +169,11 @@
 <type>uri</type>
 <value>http://dbpedia.org/resource/Virginia_Woolf</value>
 </author>
+<name>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>Mrs Dalloway</value>
+</name>
 <released>
 <type>typed-literal</type>
 <datatype>http://www.w3.org/2001/XMLSchema#date</datatype>
@@ -173,6 +198,11 @@
 <type>uri</type>
 <value>http://dbpedia.org/resource/Virginia_Woolf</value>
 </author>
+<name>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>Jacob&apos;s Room</value>
+</name>
 <released>
 <type>typed-literal</type>
 <datatype>http://www.w3.org/2001/XMLSchema#date</datatype>
@@ -197,6 +227,11 @@
 <type>uri</type>
 <value>http://dbpedia.org/resource/Virginia_Woolf</value>
 </author>
+<name>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>Flush: A Biography</value>
+</name>
 <released>
 <type>typed-literal</type>
 <datatype>http://www.w3.org/2001/XMLSchema#integer</datatype>
@@ -216,6 +251,11 @@
 <type>uri</type>
 <value>http://dbpedia.org/resource/Virginia_Woolf</value>
 </author>
+<name>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>The Years</value>
+</name>
 <released>
 <type>typed-literal</type>
 <datatype>http://www.w3.org/2001/XMLSchema#integer</datatype>
@@ -235,6 +275,11 @@
 <type>uri</type>
 <value>http://dbpedia.org/resource/Virginia_Woolf</value>
 </author>
+<name>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>Moments of Being</value>
+</name>
 <released>
 <type>typed-literal</type>
 <datatype>http://www.w3.org/2001/XMLSchema#integer</datatype>
@@ -254,6 +299,11 @@
 <type>uri</type>
 <value>http://dbpedia.org/resource/Virginia_Woolf</value>
 </author>
+<name>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>Between the Acts</value>
+</name>
 <released>
 <type>typed-literal</type>
 <datatype>http://www.w3.org/2001/XMLSchema#integer</datatype>
@@ -273,6 +323,11 @@
 <type>uri</type>
 <value>http://dbpedia.org/resource/Virginia_Woolf</value>
 </author>
+<name>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>Night and Day</value>
+</name>
 <released>
 <type>typed-literal</type>
 <datatype>http://www.w3.org/2001/XMLSchema#date</datatype>
@@ -292,6 +347,11 @@
 <type>uri</type>
 <value>http://dbpedia.org/resource/Virginia_Woolf</value>
 </author>
+<name>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>Three Guineas</value>
+</name>
 <wikilink>
 <type>uri</type>
 <value>http://en.wikipedia.org/wiki/Three_Guineas?oldid=603725209</value>
@@ -311,6 +371,11 @@
 <type>uri</type>
 <value>http://dbpedia.org/resource/Virginia_Woolf</value>
 </author>
+<name>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>Roger Fry: A Biography</value>
+</name>
 <wikilink>
 <type>uri</type>
 <value>http://en.wikipedia.org/wiki/Roger_Fry:_A_Biography?oldid=603511691</value>
@@ -325,6 +390,11 @@
 <type>uri</type>
 <value>http://dbpedia.org/resource/Virginia_Woolf</value>
 </author>
+<name>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>A Haunted House</value>
+</name>
 <wikilink>
 <type>uri</type>
 <value>http://en.wikipedia.org/wiki/A_Haunted_House_and_Other_Short_Stories?oldid=591599819</value>
@@ -339,6 +409,11 @@
 <type>uri</type>
 <value>http://dbpedia.org/resource/Virginia_Woolf</value>
 </author>
+<name>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>Monday or Tuesday</value>
+</name>
 <wikilink>
 <type>uri</type>
 <value>http://en.wikipedia.org/wiki/Monday_or_Tuesday?oldid=544900744</value>

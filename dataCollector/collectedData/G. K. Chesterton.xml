@@ -44,6 +44,11 @@
 <type>uri</type>
 <value>http://dbpedia.org/resource/G._K._Chesterton</value>
 </author>
+<name>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>The Napoleon of Notting Hill</value>
+</name>
 <thumbnail>
 <type>uri</type>
 <value>http://commons.wikimedia.org/wiki/Special:FilePath/The_Napoleon_of_Notting_Hill_-_cover_-_Project_Gutenberg_eText_20058.jpg?width=300</value>
@@ -67,6 +72,11 @@
 <type>uri</type>
 <value>http://dbpedia.org/resource/G._K._Chesterton</value>
 </author>
+<name>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>Manalive</value>
+</name>
 <released>
 <type>typed-literal</type>
 <datatype>http://www.w3.org/2001/XMLSchema#integer</datatype>
@@ -86,6 +96,11 @@
 <type>uri</type>
 <value>http://dbpedia.org/resource/G._K._Chesterton</value>
 </author>
+<name>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>Orthodoxy</value>
+</name>
 <released>
 <type>typed-literal</type>
 <datatype>http://www.w3.org/2001/XMLSchema#integer</datatype>
@@ -105,6 +120,11 @@
 <type>uri</type>
 <value>http://dbpedia.org/resource/G._K._Chesterton</value>
 </author>
+<name>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>The Floating Admiral</value>
+</name>
 <released>
 <type>literal</type>
 <xml:lang>en</xml:lang>
@@ -124,6 +144,11 @@
 <type>uri</type>
 <value>http://dbpedia.org/resource/G._K._Chesterton</value>
 </author>
+<name>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>The Man Who Was Thursday: A Nightmare</value>
+</name>
 <released>
 <type>typed-literal</type>
 <datatype>http://www.w3.org/2001/XMLSchema#integer</datatype>
@@ -143,6 +168,11 @@
 <type>uri</type>
 <value>http://dbpedia.org/resource/G._K._Chesterton</value>
 </author>
+<name>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>The Incredulity of Father Brown</value>
+</name>
 <released>
 <type>typed-literal</type>
 <datatype>http://www.w3.org/2001/XMLSchema#integer</datatype>
@@ -162,6 +192,11 @@
 <type>uri</type>
 <value>http://dbpedia.org/resource/G._K._Chesterton</value>
 </author>
+<name>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>The Man Who Knew Too Much and other stories</value>
+</name>
 <released>
 <type>typed-literal</type>
 <datatype>http://www.w3.org/2001/XMLSchema#integer</datatype>
@@ -181,6 +216,11 @@
 <type>uri</type>
 <value>http://dbpedia.org/resource/G._K._Chesterton</value>
 </author>
+<name>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>The Flying Inn</value>
+</name>
 <released>
 <type>typed-literal</type>
 <datatype>http://www.w3.org/2001/XMLSchema#integer</datatype>
@@ -200,6 +240,11 @@
 <type>uri</type>
 <value>http://dbpedia.org/resource/G._K._Chesterton</value>
 </author>
+<name>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>The Paradoxes of Mr. Pond</value>
+</name>
 <released>
 <type>typed-literal</type>
 <datatype>http://www.w3.org/2001/XMLSchema#integer</datatype>
@@ -219,6 +264,11 @@
 <type>uri</type>
 <value>http://dbpedia.org/resource/G._K._Chesterton</value>
 </author>
+<name>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>The Club of Queer Trades</value>
+</name>
 <wikilink>
 <type>uri</type>
 <value>http://en.wikipedia.org/wiki/The_Club_of_Queer_Trades?oldid=588847198</value>
@@ -233,6 +283,11 @@
 <type>uri</type>
 <value>http://dbpedia.org/resource/G._K._Chesterton</value>
 </author>
+<name>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>The New Jerusalem</value>
+</name>
 <wikilink>
 <type>uri</type>
 <value>http://en.wikipedia.org/wiki/The_New_Jerusalem_(Chesterton_book)?oldid=555778242</value>

@@ -39,6 +39,11 @@
 <type>uri</type>
 <value>http://dbpedia.org/resource/Maurice_Merleau-Ponty</value>
 </author>
+<name>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>Phenomenology of Perception</value>
+</name>
 <published>
 <type>literal</type>
 <xml:lang>en</xml:lang>

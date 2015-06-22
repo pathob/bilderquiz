@@ -27,6 +27,11 @@
 <type>uri</type>
 <value>http://dbpedia.org/resource/Sara_Stridsberg</value>
 </author>
+<name>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>Drömfakulteten</value>
+</name>
 <wikilink>
 <type>uri</type>
 <value>http://en.wikipedia.org/wiki/Drömfakulteten?oldid=546252294</value>

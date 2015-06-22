@@ -34,6 +34,11 @@
 <type>uri</type>
 <value>http://dbpedia.org/resource/Agnes_Smedley</value>
 </author>
+<name>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>Battle Hymn of China (also published as China Correspondent)</value>
+</name>
 <thumbnail>
 <type>uri</type>
 <value>http://commons.wikimedia.org/wiki/Special:FilePath/Agnes_Smedley_Battle_Hymn.jpg?width=300</value>
@@ -57,6 +62,11 @@
 <type>uri</type>
 <value>http://dbpedia.org/resource/Agnes_Smedley</value>
 </author>
+<name>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>China&apos;s Red Army Marches</value>
+</name>
 <released>
 <type>typed-literal</type>
 <datatype>http://www.w3.org/2001/XMLSchema#integer</datatype>
@@ -76,6 +86,11 @@
 <type>uri</type>
 <value>http://dbpedia.org/resource/Agnes_Smedley</value>
 </author>
+<name>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>Daughter of Earth</value>
+</name>
 <wikilink>
 <type>uri</type>
 <value>http://en.wikipedia.org/wiki/Daughter_of_Earth?oldid=561902856</value>

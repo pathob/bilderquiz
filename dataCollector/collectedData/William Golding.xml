@@ -32,6 +32,11 @@
 <type>uri</type>
 <value>http://dbpedia.org/resource/William_Golding</value>
 </author>
+<name>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>The Inheritors</value>
+</name>
 <thumbnail>
 <type>uri</type>
 <value>http://commons.wikimedia.org/wiki/Special:FilePath/Le_Moustier.jpg?width=300</value>
@@ -55,6 +60,11 @@
 <type>uri</type>
 <value>http://dbpedia.org/resource/William_Golding</value>
 </author>
+<name>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>Lord of the Flies</value>
+</name>
 <released>
 <type>typed-literal</type>
 <datatype>http://www.w3.org/2001/XMLSchema#date</datatype>
@@ -79,6 +89,11 @@
 <type>uri</type>
 <value>http://dbpedia.org/resource/William_Golding</value>
 </author>
+<name>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>Darkness Visible</value>
+</name>
 <released>
 <type>typed-literal</type>
 <datatype>http://www.w3.org/2001/XMLSchema#integer</datatype>
@@ -98,6 +113,11 @@
 <type>uri</type>
 <value>http://dbpedia.org/resource/William_Golding</value>
 </author>
+<name>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>Envoy Extraordinary</value>
+</name>
 <released>
 <type>typed-literal</type>
 <datatype>http://www.w3.org/2001/XMLSchema#integer</datatype>
@@ -117,6 +137,11 @@
 <type>uri</type>
 <value>http://dbpedia.org/resource/William_Golding</value>
 </author>
+<name>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>The Spire</value>
+</name>
 <released>
 <type>literal</type>
 <xml:lang>en</xml:lang>
@@ -136,6 +161,11 @@
 <type>uri</type>
 <value>http://dbpedia.org/resource/William_Golding</value>
 </author>
+<name>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>Pincher Martin</value>
+</name>
 <released>
 <type>typed-literal</type>
 <datatype>http://www.w3.org/2001/XMLSchema#integer</datatype>
@@ -155,6 +185,11 @@
 <type>uri</type>
 <value>http://dbpedia.org/resource/William_Golding</value>
 </author>
+<name>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>Free Fall</value>
+</name>
 <released>
 <type>typed-literal</type>
 <datatype>http://www.w3.org/2001/XMLSchema#integer</datatype>
@@ -174,6 +209,11 @@
 <type>uri</type>
 <value>http://dbpedia.org/resource/William_Golding</value>
 </author>
+<name>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>The Pyramid</value>
+</name>
 <released>
 <type>typed-literal</type>
 <datatype>http://www.w3.org/2001/XMLSchema#integer</datatype>
@@ -193,6 +233,11 @@
 <type>uri</type>
 <value>http://dbpedia.org/resource/William_Golding</value>
 </author>
+<name>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>The Double Tongue</value>
+</name>
 <released>
 <type>typed-literal</type>
 <datatype>http://www.w3.org/2001/XMLSchema#integer</datatype>
@@ -212,6 +257,11 @@
 <type>uri</type>
 <value>http://dbpedia.org/resource/William_Golding</value>
 </author>
+<name>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>Clonk Clonk</value>
+</name>
 <released>
 <type>typed-literal</type>
 <datatype>http://www.w3.org/2001/XMLSchema#integer</datatype>
@@ -231,6 +281,11 @@
 <type>uri</type>
 <value>http://dbpedia.org/resource/William_Golding</value>
 </author>
+<name>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>The Scorpion God</value>
+</name>
 <released>
 <type>typed-literal</type>
 <datatype>http://www.w3.org/2001/XMLSchema#integer</datatype>
@@ -250,6 +305,11 @@
 <type>uri</type>
 <value>http://dbpedia.org/resource/William_Golding</value>
 </author>
+<name>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>The Paper Men</value>
+</name>
 <wikilink>
 <type>uri</type>
 <value>http://en.wikipedia.org/wiki/The_Paper_Men?oldid=596890687</value>

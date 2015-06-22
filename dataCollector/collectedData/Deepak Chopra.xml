@@ -30,6 +30,11 @@
 <type>uri</type>
 <value>http://dbpedia.org/resource/Deepak_Chopra</value>
 </author>
+<name>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>The Afterlife Experiments</value>
+</name>
 <released>
 <type>literal</type>
 <xml:lang>en</xml:lang>
@@ -49,6 +54,11 @@
 <type>uri</type>
 <value>http://dbpedia.org/resource/Deepak_Chopra</value>
 </author>
+<name>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>The Seven Spiritual Laws of Success – A Practical Guide to the Fulfillment of Your Dreams</value>
+</name>
 <published>
 <type>typed-literal</type>
 <datatype>http://www.w3.org/2001/XMLSchema#integer</datatype>
@@ -68,6 +78,11 @@
 <type>uri</type>
 <value>http://dbpedia.org/resource/Deepak_Chopra</value>
 </author>
+<name>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>War of the Worldviews</value>
+</name>
 <wikilink>
 <type>uri</type>
 <value>http://en.wikipedia.org/wiki/War_of_the_Worldviews?oldid=606528429</value>

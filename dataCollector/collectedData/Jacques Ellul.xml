@@ -26,6 +26,11 @@
 <type>uri</type>
 <value>http://dbpedia.org/resource/Jacques_Ellul</value>
 </author>
+<name>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>Propaganda: The Formation of Men&apos;s Attitudes</value>
+</name>
 <wikilink>
 <type>uri</type>
 <value>http://en.wikipedia.org/wiki/Propaganda:_The_Formation_of_Men&apos;s_Attitudes?oldid=589970806</value>

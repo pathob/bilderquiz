@@ -45,6 +45,11 @@
 <type>uri</type>
 <value>http://dbpedia.org/resource/Percy_Bysshe_Shelley</value>
 </author>
+<name>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>Zastrozzi</value>
+</name>
 <thumbnail>
 <type>uri</type>
 <value>http://commons.wikimedia.org/wiki/Special:FilePath/Zastrozzi.jpg?width=300</value>

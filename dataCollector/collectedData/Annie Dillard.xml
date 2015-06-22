@@ -26,6 +26,11 @@
 <type>uri</type>
 <value>http://dbpedia.org/resource/Annie_Dillard</value>
 </author>
+<name>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>The Maytrees</value>
+</name>
 <wikilink>
 <type>uri</type>
 <value>http://en.wikipedia.org/wiki/The_Maytrees?oldid=544894037</value>
@@ -40,6 +45,11 @@
 <type>uri</type>
 <value>http://dbpedia.org/resource/Annie_Dillard</value>
 </author>
+<name>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>The Living</value>
+</name>
 <wikilink>
 <type>uri</type>
 <value>http://en.wikipedia.org/wiki/The_Living_(novel)?oldid=534722905</value>

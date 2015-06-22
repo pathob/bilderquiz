@@ -32,6 +32,11 @@
 <type>uri</type>
 <value>http://dbpedia.org/resource/Alice_Walker</value>
 </author>
+<name>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>Meridian</value>
+</name>
 <thumbnail>
 <type>uri</type>
 <value>http://en.wikipedia.org/wiki/Special:FilePath/Meridian.jpg?width=300</value>
@@ -50,6 +55,11 @@
 <type>uri</type>
 <value>http://dbpedia.org/resource/Alice_Walker</value>
 </author>
+<name>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>In Search of Our Mothers&apos; Gardens: Womanist Prose</value>
+</name>
 <released>
 <type>typed-literal</type>
 <datatype>http://www.w3.org/2001/XMLSchema#integer</datatype>
@@ -69,6 +79,11 @@
 <type>uri</type>
 <value>http://dbpedia.org/resource/Alice_Walker</value>
 </author>
+<name>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>The Color Purple</value>
+</name>
 <wikilink>
 <type>uri</type>
 <value>http://en.wikipedia.org/wiki/The_Color_Purple?oldid=603230924</value>
@@ -88,6 +103,11 @@
 <type>uri</type>
 <value>http://dbpedia.org/resource/Alice_Walker</value>
 </author>
+<name>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>The Temple of My Familiar</value>
+</name>
 <wikilink>
 <type>uri</type>
 <value>http://en.wikipedia.org/wiki/The_Temple_of_My_Familiar?oldid=602103710</value>
@@ -102,6 +122,11 @@
 <type>uri</type>
 <value>http://dbpedia.org/resource/Alice_Walker</value>
 </author>
+<name>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>Against Sadomasochism: A Radical Feminist Analysis</value>
+</name>
 <wikilink>
 <type>uri</type>
 <value>http://en.wikipedia.org/wiki/Against_Sadomasochism?oldid=603939158</value>
@@ -116,6 +141,11 @@
 <type>uri</type>
 <value>http://dbpedia.org/resource/Alice_Walker</value>
 </author>
+<name>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>The Third Life of Grange Copeland</value>
+</name>
 <wikilink>
 <type>uri</type>
 <value>http://en.wikipedia.org/wiki/The_Third_Life_of_Grange_Copeland?oldid=603444610</value>
@@ -130,6 +160,11 @@
 <type>uri</type>
 <value>http://dbpedia.org/resource/Alice_Walker</value>
 </author>
+<name>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>Possessing the Secret of Joy</value>
+</name>
 <wikilink>
 <type>uri</type>
 <value>http://en.wikipedia.org/wiki/Possessing_the_Secret_of_Joy?oldid=597378747</value>
@@ -144,6 +179,11 @@
 <type>uri</type>
 <value>http://dbpedia.org/resource/Alice_Walker</value>
 </author>
+<name>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>Warrior Marks</value>
+</name>
 <wikilink>
 <type>uri</type>
 <value>http://en.wikipedia.org/wiki/Warrior_Marks?oldid=605173722</value>
@@ -158,6 +198,11 @@
 <type>uri</type>
 <value>http://dbpedia.org/resource/Alice_Walker</value>
 </author>
+<name>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>Everyday Use</value>
+</name>
 <wikilink>
 <type>uri</type>
 <value>http://en.wikipedia.org/wiki/Everyday_Use?oldid=606181198</value>

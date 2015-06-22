@@ -41,6 +41,11 @@
 <type>uri</type>
 <value>http://dbpedia.org/resource/Mircea_Eliade</value>
 </author>
+<name>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>Bengal Nights</value>
+</name>
 <thumbnail>
 <type>uri</type>
 <value>http://commons.wikimedia.org/wiki/Special:FilePath/Flag_of_Esperanto.svg?width=300</value>
@@ -64,6 +69,11 @@
 <type>uri</type>
 <value>http://dbpedia.org/resource/Mircea_Eliade</value>
 </author>
+<name>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>Secretul doctorului Honigberger</value>
+</name>
 <thumbnail>
 <type>uri</type>
 <value>http://commons.wikimedia.org/wiki/Special:FilePath/Johann_Martin_Honigberger.jpg?width=300</value>
@@ -82,6 +92,11 @@
 <type>uri</type>
 <value>http://dbpedia.org/resource/Mircea_Eliade</value>
 </author>
+<name>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>Tinereţe fără tinereţe</value>
+</name>
 <published>
 <type>typed-literal</type>
 <datatype>http://www.w3.org/2001/XMLSchema#integer</datatype>
@@ -101,6 +116,11 @@
 <type>uri</type>
 <value>http://dbpedia.org/resource/Mircea_Eliade</value>
 </author>
+<name>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>The Old Man and the Bureaucrats</value>
+</name>
 <wikilink>
 <type>uri</type>
 <value>http://en.wikipedia.org/wiki/The_Old_Man_and_the_Bureaucrats?oldid=576247680</value>
@@ -120,6 +140,11 @@
 <type>uri</type>
 <value>http://dbpedia.org/resource/Mircea_Eliade</value>
 </author>
+<name>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>Forêt interdite</value>
+</name>
 <wikilink>
 <type>uri</type>
 <value>http://en.wikipedia.org/wiki/The_Forbidden_Forest?oldid=568698075</value>
@@ -134,6 +159,11 @@
 <type>uri</type>
 <value>http://dbpedia.org/resource/Mircea_Eliade</value>
 </author>
+<name>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>Shamanism: Archaic Techniques of Ecstasy</value>
+</name>
 <wikilink>
 <type>uri</type>
 <value>http://en.wikipedia.org/wiki/Shamanism:_Archaic_Techniques_of_Ecstasy?oldid=589346447</value>

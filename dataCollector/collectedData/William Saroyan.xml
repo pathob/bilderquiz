@@ -34,6 +34,11 @@
 <type>uri</type>
 <value>http://dbpedia.org/resource/William_Saroyan</value>
 </author>
+<name>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>The Human Comedy</value>
+</name>
 <released>
 <type>typed-literal</type>
 <datatype>http://www.w3.org/2001/XMLSchema#date</datatype>
@@ -53,6 +58,11 @@
 <type>uri</type>
 <value>http://dbpedia.org/resource/William_Saroyan</value>
 </author>
+<name>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>My Heart&apos;s in the Highlands</value>
+</name>
 <wikilink>
 <type>uri</type>
 <value>http://en.wikipedia.org/wiki/My_Heart&apos;s_in_the_Highlands_(play)?oldid=600822090</value>

@@ -31,6 +31,11 @@
 <type>uri</type>
 <value>http://dbpedia.org/resource/Elizabeth_Gilbert</value>
 </author>
+<name>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>Pilgrims (short story collection)</value>
+</name>
 <released>
 <type>typed-literal</type>
 <datatype>http://www.w3.org/2001/XMLSchema#integer</datatype>
@@ -50,6 +55,11 @@
 <type>uri</type>
 <value>http://dbpedia.org/resource/Elizabeth_Gilbert</value>
 </author>
+<name>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>Eat, Pray, Love: One Woman&apos;s Search for Everything Across Italy, India, and Indonesia</value>
+</name>
 <wikilink>
 <type>uri</type>
 <value>http://en.wikipedia.org/wiki/Eat,_Pray,_Love?oldid=606292468</value>
@@ -64,6 +74,11 @@
 <type>uri</type>
 <value>http://dbpedia.org/resource/Elizabeth_Gilbert</value>
 </author>
+<name>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>Committed: A Skeptic Makes Peace with Marriage</value>
+</name>
 <wikilink>
 <type>uri</type>
 <value>http://en.wikipedia.org/wiki/Committed:_A_Skeptic_Makes_Peace_with_Marriage?oldid=600890591</value>

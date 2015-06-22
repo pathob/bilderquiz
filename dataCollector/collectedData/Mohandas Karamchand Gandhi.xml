@@ -51,6 +51,11 @@
 <type>uri</type>
 <value>http://dbpedia.org/resource/Mahatma_Gandhi</value>
 </author>
+<name>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>The Essential Gandhi</value>
+</name>
 <thumbnail>
 <type>uri</type>
 <value>http://commons.wikimedia.org/wiki/Special:FilePath/Gandhi_and_Kasturbhai_1902.jpg?width=300</value>
@@ -74,6 +79,11 @@
 <type>uri</type>
 <value>http://dbpedia.org/resource/Mahatma_Gandhi</value>
 </author>
+<name>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>The Story of My Experiments with Truth</value>
+</name>
 <wikilink>
 <type>uri</type>
 <value>http://en.wikipedia.org/wiki/The_Story_of_My_Experiments_with_Truth?oldid=606445616</value>

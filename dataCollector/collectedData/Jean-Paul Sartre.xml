@@ -43,6 +43,11 @@
 <type>uri</type>
 <value>http://dbpedia.org/resource/Jean-Paul_Sartre</value>
 </author>
+<name>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>The Words</value>
+</name>
 <released>
 <type>typed-literal</type>
 <datatype>http://www.w3.org/2001/XMLSchema#integer</datatype>
@@ -67,6 +72,11 @@
 <type>uri</type>
 <value>http://dbpedia.org/resource/Jean-Paul_Sartre</value>
 </author>
+<name>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>The Reprieve</value>
+</name>
 <released>
 <type>typed-literal</type>
 <datatype>http://www.w3.org/2001/XMLSchema#integer</datatype>
@@ -86,6 +96,11 @@
 <type>uri</type>
 <value>http://dbpedia.org/resource/Jean-Paul_Sartre</value>
 </author>
+<name>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>Troubled Sleep</value>
+</name>
 <released>
 <type>typed-literal</type>
 <datatype>http://www.w3.org/2001/XMLSchema#integer</datatype>
@@ -105,6 +120,11 @@
 <type>uri</type>
 <value>http://dbpedia.org/resource/Jean-Paul_Sartre</value>
 </author>
+<name>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>Saint Genet, Actor and Martyr</value>
+</name>
 <released>
 <type>typed-literal</type>
 <datatype>http://www.w3.org/2001/XMLSchema#integer</datatype>
@@ -124,6 +144,11 @@
 <type>uri</type>
 <value>http://dbpedia.org/resource/Jean-Paul_Sartre</value>
 </author>
+<name>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>Anti-Semite and Jew</value>
+</name>
 <released>
 <type>typed-literal</type>
 <datatype>http://www.w3.org/2001/XMLSchema#integer</datatype>
@@ -143,6 +168,11 @@
 <type>uri</type>
 <value>http://dbpedia.org/resource/Jean-Paul_Sartre</value>
 </author>
+<name>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>L&apos;âge de raison</value>
+</name>
 <released>
 <type>typed-literal</type>
 <datatype>http://www.w3.org/2001/XMLSchema#integer</datatype>
@@ -162,6 +192,11 @@
 <type>uri</type>
 <value>http://dbpedia.org/resource/Jean-Paul_Sartre</value>
 </author>
+<name>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>L&apos;Être et le néant</value>
+</name>
 <published>
 <type>literal</type>
 <xml:lang>en</xml:lang>
@@ -187,6 +222,11 @@
 <type>uri</type>
 <value>http://dbpedia.org/resource/Jean-Paul_Sartre</value>
 </author>
+<name>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>Nausea</value>
+</name>
 <published>
 <type>literal</type>
 <xml:lang>en</xml:lang>
@@ -212,6 +252,11 @@
 <type>uri</type>
 <value>http://dbpedia.org/resource/Jean-Paul_Sartre</value>
 </author>
+<name>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>Critique of Dialectical Reason</value>
+</name>
 <wikilink>
 <type>uri</type>
 <value>http://en.wikipedia.org/wiki/Critique_of_Dialectical_Reason?oldid=595365238</value>

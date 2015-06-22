@@ -30,6 +30,11 @@
 <type>uri</type>
 <value>http://dbpedia.org/resource/Joan_Didion</value>
 </author>
+<name>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>We Tell Ourselves Stories in Order to Live</value>
+</name>
 <released>
 <type>typed-literal</type>
 <datatype>http://www.w3.org/2001/XMLSchema#integer</datatype>
@@ -49,6 +54,11 @@
 <type>uri</type>
 <value>http://dbpedia.org/resource/Joan_Didion</value>
 </author>
+<name>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>A Book of Common Prayer</value>
+</name>
 <released>
 <type>typed-literal</type>
 <datatype>http://www.w3.org/2001/XMLSchema#integer</datatype>
@@ -68,6 +78,11 @@
 <type>uri</type>
 <value>http://dbpedia.org/resource/Joan_Didion</value>
 </author>
+<name>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>After Henry</value>
+</name>
 <released>
 <type>literal</type>
 <xml:lang>en</xml:lang>
@@ -87,6 +102,11 @@
 <type>uri</type>
 <value>http://dbpedia.org/resource/Joan_Didion</value>
 </author>
+<name>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>Democracy</value>
+</name>
 <released>
 <type>typed-literal</type>
 <datatype>http://www.w3.org/2001/XMLSchema#integer</datatype>
@@ -106,6 +126,11 @@
 <type>uri</type>
 <value>http://dbpedia.org/resource/Joan_Didion</value>
 </author>
+<name>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>Miami</value>
+</name>
 <released>
 <type>typed-literal</type>
 <datatype>http://www.w3.org/2001/XMLSchema#integer</datatype>
@@ -125,6 +150,11 @@
 <type>uri</type>
 <value>http://dbpedia.org/resource/Joan_Didion</value>
 </author>
+<name>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>Political Fictions</value>
+</name>
 <released>
 <type>typed-literal</type>
 <datatype>http://www.w3.org/2001/XMLSchema#integer</datatype>
@@ -144,6 +174,11 @@
 <type>uri</type>
 <value>http://dbpedia.org/resource/Joan_Didion</value>
 </author>
+<name>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>Salvador</value>
+</name>
 <released>
 <type>typed-literal</type>
 <datatype>http://www.w3.org/2001/XMLSchema#integer</datatype>
@@ -163,6 +198,11 @@
 <type>uri</type>
 <value>http://dbpedia.org/resource/Joan_Didion</value>
 </author>
+<name>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>Slouching Towards Bethlehem</value>
+</name>
 <released>
 <type>typed-literal</type>
 <datatype>http://www.w3.org/2001/XMLSchema#integer</datatype>
@@ -182,6 +222,11 @@
 <type>uri</type>
 <value>http://dbpedia.org/resource/Joan_Didion</value>
 </author>
+<name>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>The Last Thing He Wanted</value>
+</name>
 <released>
 <type>typed-literal</type>
 <datatype>http://www.w3.org/2001/XMLSchema#integer</datatype>
@@ -201,6 +246,11 @@
 <type>uri</type>
 <value>http://dbpedia.org/resource/Joan_Didion</value>
 </author>
+<name>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>The White Album</value>
+</name>
 <released>
 <type>typed-literal</type>
 <datatype>http://www.w3.org/2001/XMLSchema#integer</datatype>
@@ -220,6 +270,11 @@
 <type>uri</type>
 <value>http://dbpedia.org/resource/Joan_Didion</value>
 </author>
+<name>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>Where I Was From</value>
+</name>
 <released>
 <type>literal</type>
 <xml:lang>en</xml:lang>
@@ -239,6 +294,11 @@
 <type>uri</type>
 <value>http://dbpedia.org/resource/Joan_Didion</value>
 </author>
+<name>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>Play It as It Lays</value>
+</name>
 <released>
 <type>typed-literal</type>
 <datatype>http://www.w3.org/2001/XMLSchema#integer</datatype>
@@ -258,6 +318,11 @@
 <type>uri</type>
 <value>http://dbpedia.org/resource/Joan_Didion</value>
 </author>
+<name>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>The Year of Magical Thinking</value>
+</name>
 <wikilink>
 <type>uri</type>
 <value>http://en.wikipedia.org/wiki/The_Year_of_Magical_Thinking?oldid=605639136</value>

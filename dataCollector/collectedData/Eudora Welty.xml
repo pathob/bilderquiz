@@ -33,6 +33,11 @@
 <type>uri</type>
 <value>http://dbpedia.org/resource/Eudora_Welty</value>
 </author>
+<name>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>The Optimist&apos;s Daughter</value>
+</name>
 <released>
 <type>typed-literal</type>
 <datatype>http://www.w3.org/2001/XMLSchema#integer</datatype>
@@ -52,6 +57,11 @@
 <type>uri</type>
 <value>http://dbpedia.org/resource/Eudora_Welty</value>
 </author>
+<name>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>The Robber Bridegroom</value>
+</name>
 <released>
 <type>typed-literal</type>
 <datatype>http://www.w3.org/2001/XMLSchema#integer</datatype>
@@ -71,6 +81,11 @@
 <type>uri</type>
 <value>http://dbpedia.org/resource/Eudora_Welty</value>
 </author>
+<name>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>A Curtain of Green: And Other Stories</value>
+</name>
 <published>
 <type>typed-literal</type>
 <datatype>http://www.w3.org/2001/XMLSchema#integer</datatype>
@@ -90,6 +105,11 @@
 <type>uri</type>
 <value>http://dbpedia.org/resource/Eudora_Welty</value>
 </author>
+<name>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>The Ponder Heart</value>
+</name>
 <wikilink>
 <type>uri</type>
 <value>http://en.wikipedia.org/wiki/The_Ponder_Heart?oldid=581770300</value>

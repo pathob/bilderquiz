@@ -63,6 +63,11 @@
 <type>uri</type>
 <value>http://dbpedia.org/resource/Thomas_Mann</value>
 </author>
+<name>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>Tristan</value>
+</name>
 <thumbnail>
 <type>uri</type>
 <value>http://commons.wikimedia.org/wiki/Special:FilePath/Thomas_Mann_Tristan_1903.jpg?width=300</value>
@@ -91,6 +96,11 @@
 <type>uri</type>
 <value>http://dbpedia.org/resource/Thomas_Mann</value>
 </author>
+<name>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>Joseph und seine Brüder</value>
+</name>
 <thumbnail>
 <type>uri</type>
 <value>http://commons.wikimedia.org/wiki/Special:FilePath/Thomas_Mann_Joseph,_der_Ernährer_1943.jpg?width=300</value>
@@ -119,6 +129,11 @@
 <type>uri</type>
 <value>http://dbpedia.org/resource/Thomas_Mann</value>
 </author>
+<name>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>Buddenbrooks</value>
+</name>
 <thumbnail>
 <type>uri</type>
 <value>http://commons.wikimedia.org/wiki/Special:FilePath/1901_Thomas_Mann_Buddenbrooks.jpg?width=300</value>
@@ -147,6 +162,11 @@
 <type>uri</type>
 <value>http://dbpedia.org/resource/Thomas_Mann</value>
 </author>
+<name>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>Death in Venice</value>
+</name>
 <thumbnail>
 <type>uri</type>
 <value>http://commons.wikimedia.org/wiki/Special:FilePath/Der_Tod_in_Venedig_Hundertdruck_1912.JPG?width=300</value>
@@ -175,6 +195,11 @@
 <type>uri</type>
 <value>http://dbpedia.org/resource/Thomas_Mann</value>
 </author>
+<name>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>Der Zauberberg</value>
+</name>
 <thumbnail>
 <type>uri</type>
 <value>http://commons.wikimedia.org/wiki/Special:FilePath/1924_Der_Zauberberg_(1).jpg?width=300</value>
@@ -203,6 +228,11 @@
 <type>uri</type>
 <value>http://dbpedia.org/resource/Thomas_Mann</value>
 </author>
+<name>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>Tonio Kröger</value>
+</name>
 <thumbnail>
 <type>uri</type>
 <value>http://commons.wikimedia.org/wiki/Special:FilePath/(1903)_Tonio_Kröger_11.10.2007.jpg?width=300</value>
@@ -226,6 +256,11 @@
 <type>uri</type>
 <value>http://dbpedia.org/resource/Thomas_Mann</value>
 </author>
+<name>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>Listen, Germany!</value>
+</name>
 <released>
 <type>typed-literal</type>
 <datatype>http://www.w3.org/2001/XMLSchema#integer</datatype>
@@ -250,6 +285,11 @@
 <type>uri</type>
 <value>http://dbpedia.org/resource/Thomas_Mann</value>
 </author>
+<name>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>Lotte in Weimar: The Beloved Returns</value>
+</name>
 <released>
 <type>typed-literal</type>
 <datatype>http://www.w3.org/2001/XMLSchema#integer</datatype>
@@ -274,6 +314,11 @@
 <type>uri</type>
 <value>http://dbpedia.org/resource/Thomas_Mann</value>
 </author>
+<name>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>Confessions of Felix Krull, Confidence Man: The Early Years</value>
+</name>
 <released>
 <type>typed-literal</type>
 <datatype>http://www.w3.org/2001/XMLSchema#integer</datatype>
@@ -298,6 +343,11 @@
 <type>uri</type>
 <value>http://dbpedia.org/resource/Thomas_Mann</value>
 </author>
+<name>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>The Holy Sinner</value>
+</name>
 <released>
 <type>typed-literal</type>
 <datatype>http://www.w3.org/2001/XMLSchema#integer</datatype>
@@ -322,6 +372,11 @@
 <type>uri</type>
 <value>http://dbpedia.org/resource/Thomas_Mann</value>
 </author>
+<name>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>The Tables of the Law</value>
+</name>
 <released>
 <type>typed-literal</type>
 <datatype>http://www.w3.org/2001/XMLSchema#integer</datatype>

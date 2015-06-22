@@ -59,6 +59,11 @@
 <type>uri</type>
 <value>http://dbpedia.org/resource/Henryk_Sienkiewicz</value>
 </author>
+<name>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>Potop</value>
+</name>
 <thumbnail>
 <type>uri</type>
 <value>http://commons.wikimedia.org/wiki/Special:FilePath/Kmicicowa_kompania.jpg?width=300</value>
@@ -87,6 +92,11 @@
 <type>uri</type>
 <value>http://dbpedia.org/resource/Henryk_Sienkiewicz</value>
 </author>
+<name>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>Quo Vadis: A Narrative of the Time of Nero</value>
+</name>
 <thumbnail>
 <type>uri</type>
 <value>http://commons.wikimedia.org/wiki/Special:FilePath/Quo_Vadis_1897_Edition.jpg?width=300</value>
@@ -115,6 +125,11 @@
 <type>uri</type>
 <value>http://dbpedia.org/resource/Henryk_Sienkiewicz</value>
 </author>
+<name>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>Krzyżacy</value>
+</name>
 <thumbnail>
 <type>uri</type>
 <value>http://commons.wikimedia.org/wiki/Special:FilePath/PL_Henryk_Sienkiewicz-Krzyżacy_0005.jpeg?width=300</value>
@@ -143,6 +158,11 @@
 <type>uri</type>
 <value>http://dbpedia.org/resource/Henryk_Sienkiewicz</value>
 </author>
+<name>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>Fire in the Steppe</value>
+</name>
 <released>
 <type>typed-literal</type>
 <datatype>http://www.w3.org/2001/XMLSchema#integer</datatype>
@@ -167,6 +187,11 @@
 <type>uri</type>
 <value>http://dbpedia.org/resource/Henryk_Sienkiewicz</value>
 </author>
+<name>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>With Fire and Sword</value>
+</name>
 <released>
 <type>typed-literal</type>
 <datatype>http://www.w3.org/2001/XMLSchema#integer</datatype>
@@ -191,6 +216,11 @@
 <type>uri</type>
 <value>http://dbpedia.org/resource/Henryk_Sienkiewicz</value>
 </author>
+<name>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>In Desert and Wilderness</value>
+</name>
 <released>
 <type>typed-literal</type>
 <datatype>http://www.w3.org/2001/XMLSchema#integer</datatype>
@@ -210,6 +240,11 @@
 <type>uri</type>
 <value>http://dbpedia.org/resource/Henryk_Sienkiewicz</value>
 </author>
+<name>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>Na Polu Chwały</value>
+</name>
 <released>
 <type>typed-literal</type>
 <datatype>http://www.w3.org/2001/XMLSchema#integer</datatype>

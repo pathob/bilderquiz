@@ -30,6 +30,11 @@
 <type>uri</type>
 <value>http://dbpedia.org/resource/Herman_Wouk</value>
 </author>
+<name>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>Inside, Outside</value>
+</name>
 <released>
 <type>literal</type>
 <xml:lang>en</xml:lang>
@@ -54,6 +59,11 @@
 <type>uri</type>
 <value>http://dbpedia.org/resource/Herman_Wouk</value>
 </author>
+<name>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>The Winds of War</value>
+</name>
 <released>
 <type>typed-literal</type>
 <datatype>http://www.w3.org/2001/XMLSchema#date</datatype>
@@ -78,6 +88,11 @@
 <type>uri</type>
 <value>http://dbpedia.org/resource/Herman_Wouk</value>
 </author>
+<name>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>City Boy</value>
+</name>
 <released>
 <type>typed-literal</type>
 <datatype>http://www.w3.org/2001/XMLSchema#integer</datatype>
@@ -97,6 +112,11 @@
 <type>uri</type>
 <value>http://dbpedia.org/resource/Herman_Wouk</value>
 </author>
+<name>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>A Hole in Texas</value>
+</name>
 <released>
 <type>typed-literal</type>
 <datatype>http://www.w3.org/2001/XMLSchema#date</datatype>
@@ -116,6 +136,11 @@
 <type>uri</type>
 <value>http://dbpedia.org/resource/Herman_Wouk</value>
 </author>
+<name>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>The Caine Mutiny</value>
+</name>
 <released>
 <type>typed-literal</type>
 <datatype>http://www.w3.org/2001/XMLSchema#integer</datatype>
@@ -135,6 +160,11 @@
 <type>uri</type>
 <value>http://dbpedia.org/resource/Herman_Wouk</value>
 </author>
+<name>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>Don&apos;t Stop the Carnival</value>
+</name>
 <released>
 <type>typed-literal</type>
 <datatype>http://www.w3.org/2001/XMLSchema#integer</datatype>
@@ -154,6 +184,11 @@
 <type>uri</type>
 <value>http://dbpedia.org/resource/Herman_Wouk</value>
 </author>
+<name>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>Youngblood Hawke</value>
+</name>
 <published>
 <type>literal</type>
 <xml:lang>en</xml:lang>
@@ -173,6 +208,11 @@
 <type>uri</type>
 <value>http://dbpedia.org/resource/Herman_Wouk</value>
 </author>
+<name>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>War and Remembrance</value>
+</name>
 <wikilink>
 <type>uri</type>
 <value>http://en.wikipedia.org/wiki/War_and_Remembrance?oldid=605226890</value>
@@ -187,6 +227,11 @@
 <type>uri</type>
 <value>http://dbpedia.org/resource/Herman_Wouk</value>
 </author>
+<name>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>The Lawgiver</value>
+</name>
 <wikilink>
 <type>uri</type>
 <value>http://en.wikipedia.org/wiki/The_Lawgiver?oldid=598616705</value>
@@ -201,6 +246,11 @@
 <type>uri</type>
 <value>http://dbpedia.org/resource/Herman_Wouk</value>
 </author>
+<name>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>The Glory</value>
+</name>
 <wikilink>
 <type>uri</type>
 <value>http://en.wikipedia.org/wiki/The_Glory?oldid=590511092</value>

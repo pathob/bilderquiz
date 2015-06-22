@@ -60,6 +60,11 @@
 <type>uri</type>
 <value>http://dbpedia.org/resource/Elias_Canetti</value>
 </author>
+<name>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>Auto-da-Fé</value>
+</name>
 <published>
 <type>literal</type>
 <xml:lang>en</xml:lang>

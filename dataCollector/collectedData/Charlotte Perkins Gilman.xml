@@ -39,6 +39,11 @@
 <type>uri</type>
 <value>http://dbpedia.org/resource/Charlotte_Perkins_Gilman</value>
 </author>
+<name>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>The Yellow Wallpaper</value>
+</name>
 <thumbnail>
 <type>uri</type>
 <value>http://en.wikipedia.org/wiki/Special:FilePath/Yellowwp_med.jpg?width=300</value>
@@ -62,6 +67,11 @@
 <type>uri</type>
 <value>http://dbpedia.org/resource/Charlotte_Perkins_Gilman</value>
 </author>
+<name>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>Herland</value>
+</name>
 <released>
 <type>literal</type>
 <xml:lang>en</xml:lang>
@@ -81,6 +91,11 @@
 <type>uri</type>
 <value>http://dbpedia.org/resource/Charlotte_Perkins_Gilman</value>
 </author>
+<name>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>His Religion And Hers</value>
+</name>
 <released>
 <type>typed-literal</type>
 <datatype>http://www.w3.org/2001/XMLSchema#integer</datatype>
@@ -100,6 +115,11 @@
 <type>uri</type>
 <value>http://dbpedia.org/resource/Charlotte_Perkins_Gilman</value>
 </author>
+<name>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>Women and men - A Study of the Economic Relation Between Men and Women as a Factor in Social Evolution</value>
+</name>
 <released>
 <type>typed-literal</type>
 <datatype>http://www.w3.org/2001/XMLSchema#integer</datatype>
@@ -119,6 +139,11 @@
 <type>uri</type>
 <value>http://dbpedia.org/resource/Charlotte_Perkins_Gilman</value>
 </author>
+<name>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>Moving the Mountain</value>
+</name>
 <wikilink>
 <type>uri</type>
 <value>http://en.wikipedia.org/wiki/Moving_the_Mountain_(novel)?oldid=587974352</value>
@@ -133,6 +158,11 @@
 <type>uri</type>
 <value>http://dbpedia.org/resource/Charlotte_Perkins_Gilman</value>
 </author>
+<name>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>With Her in Ourland</value>
+</name>
 <wikilink>
 <type>uri</type>
 <value>http://en.wikipedia.org/wiki/With_Her_in_Ourland?oldid=516231257</value>

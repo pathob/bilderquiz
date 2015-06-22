@@ -34,6 +34,11 @@
 <type>uri</type>
 <value>http://dbpedia.org/resource/William_Harrison_Ainsworth</value>
 </author>
+<name>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>Auriol: or, The Elixir of Life</value>
+</name>
 <thumbnail>
 <type>uri</type>
 <value>http://commons.wikimedia.org/wiki/Special:FilePath/Phiz_Auriol.jpg?width=300</value>
@@ -57,6 +62,11 @@
 <type>uri</type>
 <value>http://dbpedia.org/resource/William_Harrison_Ainsworth</value>
 </author>
+<name>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>Rookwood</value>
+</name>
 <thumbnail>
 <type>uri</type>
 <value>http://commons.wikimedia.org/wiki/Special:FilePath/Rookwood_1st_ed_1834.jpg?width=300</value>
@@ -80,6 +90,11 @@
 <type>uri</type>
 <value>http://dbpedia.org/resource/William_Harrison_Ainsworth</value>
 </author>
+<name>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>The Tower of London</value>
+</name>
 <thumbnail>
 <type>uri</type>
 <value>http://commons.wikimedia.org/wiki/Special:FilePath/The_Tower_of_London.jpg?width=300</value>
@@ -103,6 +118,11 @@
 <type>uri</type>
 <value>http://dbpedia.org/resource/William_Harrison_Ainsworth</value>
 </author>
+<name>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>Bentley&apos;s Miscellany</value>
+</name>
 <thumbnail>
 <type>uri</type>
 <value>http://commons.wikimedia.org/wiki/Special:FilePath/Bentley&apos;smisc_cover.jpg?width=300</value>

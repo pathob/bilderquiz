@@ -31,6 +31,11 @@
 <type>uri</type>
 <value>http://dbpedia.org/resource/Ruth_Rendell</value>
 </author>
+<name>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>The Vault</value>
+</name>
 <released>
 <type>typed-literal</type>
 <datatype>http://www.w3.org/2001/XMLSchema#integer</datatype>
@@ -50,6 +55,11 @@
 <type>uri</type>
 <value>http://dbpedia.org/resource/Ruth_Rendell</value>
 </author>
+<name>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>The House of Stairs</value>
+</name>
 <released>
 <type>typed-literal</type>
 <datatype>http://www.w3.org/2001/XMLSchema#date</datatype>
@@ -69,6 +79,11 @@
 <type>uri</type>
 <value>http://dbpedia.org/resource/Ruth_Rendell</value>
 </author>
+<name>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>The Minotaur</value>
+</name>
 <released>
 <type>typed-literal</type>
 <datatype>http://www.w3.org/2001/XMLSchema#date</datatype>
@@ -88,6 +103,11 @@
 <type>uri</type>
 <value>http://dbpedia.org/resource/Ruth_Rendell</value>
 </author>
+<name>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>The Lake of Darkness</value>
+</name>
 <released>
 <type>literal</type>
 <xml:lang>en</xml:lang>
@@ -107,6 +127,11 @@
 <type>uri</type>
 <value>http://dbpedia.org/resource/Ruth_Rendell</value>
 </author>
+<name>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>The Monster in the Box</value>
+</name>
 <released>
 <type>typed-literal</type>
 <datatype>http://www.w3.org/2001/XMLSchema#integer</datatype>
@@ -126,6 +151,11 @@
 <type>uri</type>
 <value>http://dbpedia.org/resource/Ruth_Rendell</value>
 </author>
+<name>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>A Demon in my View</value>
+</name>
 <released>
 <type>typed-literal</type>
 <datatype>http://www.w3.org/2001/XMLSchema#date</datatype>
@@ -145,6 +175,11 @@
 <type>uri</type>
 <value>http://dbpedia.org/resource/Ruth_Rendell</value>
 </author>
+<name>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>A Guilty Thing Surprised</value>
+</name>
 <released>
 <type>typed-literal</type>
 <datatype>http://www.w3.org/2001/XMLSchema#date</datatype>
@@ -164,6 +199,11 @@
 <type>uri</type>
 <value>http://dbpedia.org/resource/Ruth_Rendell</value>
 </author>
+<name>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>A Sleeping Life</value>
+</name>
 <released>
 <type>typed-literal</type>
 <datatype>http://www.w3.org/2001/XMLSchema#date</datatype>
@@ -183,6 +223,11 @@
 <type>uri</type>
 <value>http://dbpedia.org/resource/Ruth_Rendell</value>
 </author>
+<name>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>Adam and Eve and Pinch Me</value>
+</name>
 <released>
 <type>typed-literal</type>
 <datatype>http://www.w3.org/2001/XMLSchema#date</datatype>
@@ -202,6 +247,11 @@
 <type>uri</type>
 <value>http://dbpedia.org/resource/Ruth_Rendell</value>
 </author>
+<name>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>An Unkindness of Ravens</value>
+</name>
 <released>
 <type>typed-literal</type>
 <datatype>http://www.w3.org/2001/XMLSchema#date</datatype>
@@ -221,6 +271,11 @@
 <type>uri</type>
 <value>http://dbpedia.org/resource/Ruth_Rendell</value>
 </author>
+<name>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>End in Tears</value>
+</name>
 <released>
 <type>typed-literal</type>
 <datatype>http://www.w3.org/2001/XMLSchema#integer</datatype>
@@ -240,6 +295,11 @@
 <type>uri</type>
 <value>http://dbpedia.org/resource/Ruth_Rendell</value>
 </author>
+<name>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>Going Wrong</value>
+</name>
 <released>
 <type>typed-literal</type>
 <datatype>http://www.w3.org/2001/XMLSchema#date</datatype>
@@ -259,6 +319,11 @@
 <type>uri</type>
 <value>http://dbpedia.org/resource/Ruth_Rendell</value>
 </author>
+<name>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>Grasshopper</value>
+</name>
 <released>
 <type>typed-literal</type>
 <datatype>http://www.w3.org/2001/XMLSchema#date</datatype>
@@ -278,6 +343,11 @@
 <type>uri</type>
 <value>http://dbpedia.org/resource/Ruth_Rendell</value>
 </author>
+<name>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>Harm Done</value>
+</name>
 <released>
 <type>literal</type>
 <xml:lang>en</xml:lang>
@@ -297,6 +367,11 @@
 <type>uri</type>
 <value>http://dbpedia.org/resource/Ruth_Rendell</value>
 </author>
+<name>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>Heartstones</value>
+</name>
 <released>
 <type>typed-literal</type>
 <datatype>http://www.w3.org/2001/XMLSchema#date</datatype>
@@ -316,6 +391,11 @@
 <type>uri</type>
 <value>http://dbpedia.org/resource/Ruth_Rendell</value>
 </author>
+<name>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>Kissing the Gunner&apos;s Daughter</value>
+</name>
 <released>
 <type>literal</type>
 <xml:lang>en</xml:lang>
@@ -335,6 +415,11 @@
 <type>uri</type>
 <value>http://dbpedia.org/resource/Ruth_Rendell</value>
 </author>
+<name>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>Live Flesh</value>
+</name>
 <released>
 <type>typed-literal</type>
 <datatype>http://www.w3.org/2001/XMLSchema#date</datatype>
@@ -354,6 +439,11 @@
 <type>uri</type>
 <value>http://dbpedia.org/resource/Ruth_Rendell</value>
 </author>
+<name>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>Make Death Love Me</value>
+</name>
 <released>
 <type>typed-literal</type>
 <datatype>http://www.w3.org/2001/XMLSchema#integer</datatype>
@@ -373,6 +463,11 @@
 <type>uri</type>
 <value>http://dbpedia.org/resource/Ruth_Rendell</value>
 </author>
+<name>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>Master of the Moor</value>
+</name>
 <released>
 <type>typed-literal</type>
 <datatype>http://www.w3.org/2001/XMLSchema#date</datatype>
@@ -392,6 +487,11 @@
 <type>uri</type>
 <value>http://dbpedia.org/resource/Ruth_Rendell</value>
 </author>
+<name>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>Means of Evil</value>
+</name>
 <released>
 <type>typed-literal</type>
 <datatype>http://www.w3.org/2001/XMLSchema#date</datatype>
@@ -411,6 +511,11 @@
 <type>uri</type>
 <value>http://dbpedia.org/resource/Ruth_Rendell</value>
 </author>
+<name>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>Murder Being Once Done</value>
+</name>
 <released>
 <type>typed-literal</type>
 <datatype>http://www.w3.org/2001/XMLSchema#date</datatype>
@@ -430,6 +535,11 @@
 <type>uri</type>
 <value>http://dbpedia.org/resource/Ruth_Rendell</value>
 </author>
+<name>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>No More Dying Then</value>
+</name>
 <released>
 <type>typed-literal</type>
 <datatype>http://www.w3.org/2001/XMLSchema#date</datatype>
@@ -449,6 +559,11 @@
 <type>uri</type>
 <value>http://dbpedia.org/resource/Ruth_Rendell</value>
 </author>
+<name>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>One Across, Two Down</value>
+</name>
 <released>
 <type>typed-literal</type>
 <datatype>http://www.w3.org/2001/XMLSchema#date</datatype>
@@ -468,6 +583,11 @@
 <type>uri</type>
 <value>http://dbpedia.org/resource/Ruth_Rendell</value>
 </author>
+<name>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>Put on By Cunning</value>
+</name>
 <released>
 <type>typed-literal</type>
 <datatype>http://www.w3.org/2001/XMLSchema#date</datatype>
@@ -487,6 +607,11 @@
 <type>uri</type>
 <value>http://dbpedia.org/resource/Ruth_Rendell</value>
 </author>
+<name>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>Road Rage</value>
+</name>
 <released>
 <type>typed-literal</type>
 <datatype>http://www.w3.org/2001/XMLSchema#date</datatype>
@@ -506,6 +631,11 @@
 <type>uri</type>
 <value>http://dbpedia.org/resource/Ruth_Rendell</value>
 </author>
+<name>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>Shake Hands Forever</value>
+</name>
 <released>
 <type>typed-literal</type>
 <datatype>http://www.w3.org/2001/XMLSchema#date</datatype>
@@ -525,6 +655,11 @@
 <type>uri</type>
 <value>http://dbpedia.org/resource/Ruth_Rendell</value>
 </author>
+<name>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>Simisola</value>
+</name>
 <released>
 <type>typed-literal</type>
 <datatype>http://www.w3.org/2001/XMLSchema#date</datatype>
@@ -544,6 +679,11 @@
 <type>uri</type>
 <value>http://dbpedia.org/resource/Ruth_Rendell</value>
 </author>
+<name>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>Talking to Strange Men</value>
+</name>
 <released>
 <type>typed-literal</type>
 <datatype>http://www.w3.org/2001/XMLSchema#date</datatype>
@@ -563,6 +703,11 @@
 <type>uri</type>
 <value>http://dbpedia.org/resource/Ruth_Rendell</value>
 </author>
+<name>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>The Blood Doctor</value>
+</name>
 <released>
 <type>typed-literal</type>
 <datatype>http://www.w3.org/2001/XMLSchema#date</datatype>
@@ -582,6 +727,11 @@
 <type>uri</type>
 <value>http://dbpedia.org/resource/Ruth_Rendell</value>
 </author>
+<name>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>The Chimney Sweeper&apos;s Boy</value>
+</name>
 <released>
 <type>typed-literal</type>
 <datatype>http://www.w3.org/2001/XMLSchema#date</datatype>
@@ -601,6 +751,11 @@
 <type>uri</type>
 <value>http://dbpedia.org/resource/Ruth_Rendell</value>
 </author>
+<name>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>The Speaker of Mandarin</value>
+</name>
 <released>
 <type>typed-literal</type>
 <datatype>http://www.w3.org/2001/XMLSchema#date</datatype>
@@ -620,6 +775,11 @@
 <type>uri</type>
 <value>http://dbpedia.org/resource/Ruth_Rendell</value>
 </author>
+<name>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>The Thief</value>
+</name>
 <released>
 <type>typed-literal</type>
 <datatype>http://www.w3.org/2001/XMLSchema#integer</datatype>
@@ -639,6 +799,11 @@
 <type>uri</type>
 <value>http://dbpedia.org/resource/Ruth_Rendell</value>
 </author>
+<name>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>The Water&apos;s Lovely</value>
+</name>
 <released>
 <type>typed-literal</type>
 <datatype>http://www.w3.org/2001/XMLSchema#integer</datatype>
@@ -658,6 +823,11 @@
 <type>uri</type>
 <value>http://dbpedia.org/resource/Ruth_Rendell</value>
 </author>
+<name>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>Wolf to the Slaughter</value>
+</name>
 <released>
 <type>typed-literal</type>
 <datatype>http://www.w3.org/2001/XMLSchema#integer</datatype>
@@ -677,6 +847,11 @@
 <type>uri</type>
 <value>http://dbpedia.org/resource/Ruth_Rendell</value>
 </author>
+<name>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>Some Lie And Some Die</value>
+</name>
 <released>
 <type>typed-literal</type>
 <datatype>http://www.w3.org/2001/XMLSchema#date</datatype>
@@ -696,6 +871,11 @@
 <type>uri</type>
 <value>http://dbpedia.org/resource/Ruth_Rendell</value>
 </author>
+<name>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>Portobello</value>
+</name>
 <released>
 <type>literal</type>
 <xml:lang>en</xml:lang>
@@ -715,6 +895,11 @@
 <type>uri</type>
 <value>http://dbpedia.org/resource/Ruth_Rendell</value>
 </author>
+<name>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>The Killing Doll</value>
+</name>
 <released>
 <type>typed-literal</type>
 <datatype>http://www.w3.org/2001/XMLSchema#date</datatype>
@@ -734,6 +919,11 @@
 <type>uri</type>
 <value>http://dbpedia.org/resource/Ruth_Rendell</value>
 </author>
+<name>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>No Night is Too Long</value>
+</name>
 <released>
 <type>typed-literal</type>
 <datatype>http://www.w3.org/2001/XMLSchema#date</datatype>
@@ -753,6 +943,11 @@
 <type>uri</type>
 <value>http://dbpedia.org/resource/Ruth_Rendell</value>
 </author>
+<name>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>King Solomon&apos;s Carpet</value>
+</name>
 <released>
 <type>typed-literal</type>
 <datatype>http://www.w3.org/2001/XMLSchema#date</datatype>
@@ -772,6 +967,11 @@
 <type>uri</type>
 <value>http://dbpedia.org/resource/Ruth_Rendell</value>
 </author>
+<name>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>Thirteen Steps Down</value>
+</name>
 <released>
 <type>typed-literal</type>
 <datatype>http://www.w3.org/2001/XMLSchema#integer</datatype>
@@ -791,6 +991,11 @@
 <type>uri</type>
 <value>http://dbpedia.org/resource/Ruth_Rendell</value>
 </author>
+<name>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>The Copper Peacock</value>
+</name>
 <released>
 <type>typed-literal</type>
 <datatype>http://www.w3.org/2001/XMLSchema#date</datatype>
@@ -810,6 +1015,11 @@
 <type>uri</type>
 <value>http://dbpedia.org/resource/Ruth_Rendell</value>
 </author>
+<name>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>The New Girlfriend</value>
+</name>
 <released>
 <type>typed-literal</type>
 <datatype>http://www.w3.org/2001/XMLSchema#date</datatype>
@@ -829,6 +1039,11 @@
 <type>uri</type>
 <value>http://dbpedia.org/resource/Ruth_Rendell</value>
 </author>
+<name>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>The Babes in the Wood</value>
+</name>
 <released>
 <type>typed-literal</type>
 <datatype>http://www.w3.org/2001/XMLSchema#integer</datatype>
@@ -848,6 +1063,11 @@
 <type>uri</type>
 <value>http://dbpedia.org/resource/Ruth_Rendell</value>
 </author>
+<name>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>The Rottweiler</value>
+</name>
 <released>
 <type>typed-literal</type>
 <datatype>http://www.w3.org/2001/XMLSchema#date</datatype>
@@ -867,6 +1087,11 @@
 <type>uri</type>
 <value>http://dbpedia.org/resource/Ruth_Rendell</value>
 </author>
+<name>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>The Best Man to Die</value>
+</name>
 <released>
 <type>literal</type>
 <xml:lang>en</xml:lang>
@@ -886,6 +1111,11 @@
 <type>uri</type>
 <value>http://dbpedia.org/resource/Ruth_Rendell</value>
 </author>
+<name>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>The Face of Trespass</value>
+</name>
 <released>
 <type>typed-literal</type>
 <datatype>http://www.w3.org/2001/XMLSchema#date</datatype>
@@ -905,6 +1135,11 @@
 <type>uri</type>
 <value>http://dbpedia.org/resource/Ruth_Rendell</value>
 </author>
+<name>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>The Fallen Curtain</value>
+</name>
 <released>
 <type>typed-literal</type>
 <datatype>http://www.w3.org/2001/XMLSchema#date</datatype>
@@ -924,6 +1159,11 @@
 <type>uri</type>
 <value>http://dbpedia.org/resource/Ruth_Rendell</value>
 </author>
+<name>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>The Secret House of Death</value>
+</name>
 <released>
 <type>typed-literal</type>
 <datatype>http://www.w3.org/2001/XMLSchema#integer</datatype>
@@ -943,6 +1183,11 @@
 <type>uri</type>
 <value>http://dbpedia.org/resource/Ruth_Rendell</value>
 </author>
+<name>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>Vanity Dies Hard</value>
+</name>
 <released>
 <type>typed-literal</type>
 <datatype>http://www.w3.org/2001/XMLSchema#integer</datatype>
@@ -962,6 +1207,11 @@
 <type>uri</type>
 <value>http://dbpedia.org/resource/Ruth_Rendell</value>
 </author>
+<name>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>Piranha to Scurfy</value>
+</name>
 <released>
 <type>typed-literal</type>
 <datatype>http://www.w3.org/2001/XMLSchema#date</datatype>
@@ -981,6 +1231,11 @@
 <type>uri</type>
 <value>http://dbpedia.org/resource/Ruth_Rendell</value>
 </author>
+<name>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>The Crocodile Bird</value>
+</name>
 <released>
 <type>typed-literal</type>
 <datatype>http://www.w3.org/2001/XMLSchema#date</datatype>
@@ -1000,6 +1255,11 @@
 <type>uri</type>
 <value>http://dbpedia.org/resource/Ruth_Rendell</value>
 </author>
+<name>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>The Veiled One</value>
+</name>
 <released>
 <type>typed-literal</type>
 <datatype>http://www.w3.org/2001/XMLSchema#integer</datatype>
@@ -1019,6 +1279,11 @@
 <type>uri</type>
 <value>http://dbpedia.org/resource/Ruth_Rendell</value>
 </author>
+<name>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>The Brimstone Wedding</value>
+</name>
 <released>
 <type>typed-literal</type>
 <datatype>http://www.w3.org/2001/XMLSchema#date</datatype>
@@ -1038,6 +1303,11 @@
 <type>uri</type>
 <value>http://dbpedia.org/resource/Ruth_Rendell</value>
 </author>
+<name>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>Not in the Flesh</value>
+</name>
 <released>
 <type>typed-literal</type>
 <datatype>http://www.w3.org/2001/XMLSchema#integer</datatype>
@@ -1057,6 +1327,11 @@
 <type>uri</type>
 <value>http://dbpedia.org/resource/Ruth_Rendell</value>
 </author>
+<name>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>No Man&apos;s Nightingale</value>
+</name>
 <released>
 <type>typed-literal</type>
 <datatype>http://www.w3.org/2001/XMLSchema#integer</datatype>
@@ -1076,6 +1351,11 @@
 <type>uri</type>
 <value>http://dbpedia.org/resource/Ruth_Rendell</value>
 </author>
+<name>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>The Bridesmaid</value>
+</name>
 <released>
 <type>typed-literal</type>
 <datatype>http://www.w3.org/2001/XMLSchema#date</datatype>
@@ -1095,6 +1375,11 @@
 <type>uri</type>
 <value>http://dbpedia.org/resource/Ruth_Rendell</value>
 </author>
+<name>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>The Keys to the Street</value>
+</name>
 <released>
 <type>typed-literal</type>
 <datatype>http://www.w3.org/2001/XMLSchema#integer</datatype>
@@ -1114,6 +1399,11 @@
 <type>uri</type>
 <value>http://dbpedia.org/resource/Ruth_Rendell</value>
 </author>
+<name>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>A Sight for Sore Eyes</value>
+</name>
 <released>
 <type>uri</type>
 <value>http://dbpedia.org/resource/1998_in_literature</value>
@@ -1132,6 +1422,11 @@
 <type>uri</type>
 <value>http://dbpedia.org/resource/Ruth_Rendell</value>
 </author>
+<name>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>The Birthday Present</value>
+</name>
 <released>
 <type>typed-literal</type>
 <datatype>http://www.w3.org/2001/XMLSchema#date</datatype>
@@ -1151,6 +1446,11 @@
 <type>uri</type>
 <value>http://dbpedia.org/resource/Ruth_Rendell</value>
 </author>
+<name>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>A Fatal Inversion</value>
+</name>
 <released>
 <type>literal</type>
 <xml:lang>en</xml:lang>
@@ -1170,6 +1470,11 @@
 <type>uri</type>
 <value>http://dbpedia.org/resource/Ruth_Rendell</value>
 </author>
+<name>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>Asta&apos;s Book</value>
+</name>
 <released>
 <type>typed-literal</type>
 <datatype>http://www.w3.org/2001/XMLSchema#date</datatype>
@@ -1189,6 +1494,11 @@
 <type>uri</type>
 <value>http://dbpedia.org/resource/Ruth_Rendell</value>
 </author>
+<name>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>To Fear a Painted Devil</value>
+</name>
 <released>
 <type>typed-literal</type>
 <datatype>http://www.w3.org/2001/XMLSchema#integer</datatype>
@@ -1208,6 +1518,11 @@
 <type>uri</type>
 <value>http://dbpedia.org/resource/Ruth_Rendell</value>
 </author>
+<name>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>The Tree of Hands</value>
+</name>
 <released>
 <type>typed-literal</type>
 <datatype>http://www.w3.org/2001/XMLSchema#date</datatype>
@@ -1227,6 +1542,11 @@
 <type>uri</type>
 <value>http://dbpedia.org/resource/Ruth_Rendell</value>
 </author>
+<name>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>From Doon With Death</value>
+</name>
 <released>
 <type>typed-literal</type>
 <datatype>http://www.w3.org/2001/XMLSchema#integer</datatype>
@@ -1246,6 +1566,11 @@
 <type>uri</type>
 <value>http://dbpedia.org/resource/Ruth_Rendell</value>
 </author>
+<name>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>A New Lease of Death</value>
+</name>
 <released>
 <type>typed-literal</type>
 <datatype>http://www.w3.org/2001/XMLSchema#integer</datatype>
@@ -1265,6 +1590,11 @@
 <type>uri</type>
 <value>http://dbpedia.org/resource/Ruth_Rendell</value>
 </author>
+<name>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>The Fever Tree</value>
+</name>
 <released>
 <type>typed-literal</type>
 <datatype>http://www.w3.org/2001/XMLSchema#date</datatype>
@@ -1284,6 +1614,11 @@
 <type>uri</type>
 <value>http://dbpedia.org/resource/Ruth_Rendell</value>
 </author>
+<name>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>Gallowglass</value>
+</name>
 <released>
 <type>typed-literal</type>
 <datatype>http://www.w3.org/2001/XMLSchema#date</datatype>
@@ -1303,6 +1638,11 @@
 <type>uri</type>
 <value>http://dbpedia.org/resource/Ruth_Rendell</value>
 </author>
+<name>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>Tigerlily&apos;s Orchids</value>
+</name>
 <released>
 <type>typed-literal</type>
 <datatype>http://www.w3.org/2001/XMLSchema#date</datatype>
@@ -1322,6 +1662,11 @@
 <type>uri</type>
 <value>http://dbpedia.org/resource/Ruth_Rendell</value>
 </author>
+<name>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>Blood Lines: Long and Short Stories</value>
+</name>
 <released>
 <type>typed-literal</type>
 <datatype>http://www.w3.org/2001/XMLSchema#integer</datatype>
@@ -1341,6 +1686,11 @@
 <type>uri</type>
 <value>http://dbpedia.org/resource/Ruth_Rendell</value>
 </author>
+<name>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>A Judgement In Stone</value>
+</name>
 <released>
 <type>typed-literal</type>
 <datatype>http://www.w3.org/2001/XMLSchema#date</datatype>
@@ -1360,6 +1710,11 @@
 <type>uri</type>
 <value>http://dbpedia.org/resource/Ruth_Rendell</value>
 </author>
+<name>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>A Dark-adapted Eye</value>
+</name>
 <published>
 <type>typed-literal</type>
 <datatype>http://www.w3.org/2001/XMLSchema#integer</datatype>

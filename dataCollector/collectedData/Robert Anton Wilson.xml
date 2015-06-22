@@ -34,6 +34,11 @@
 <type>uri</type>
 <value>http://dbpedia.org/resource/Robert_Anton_Wilson</value>
 </author>
+<name>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>The Illuminatus! Trilogy</value>
+</name>
 <released>
 <type>typed-literal</type>
 <datatype>http://www.w3.org/2001/XMLSchema#integer</datatype>
@@ -58,6 +63,11 @@
 <type>uri</type>
 <value>http://dbpedia.org/resource/Robert_Anton_Wilson</value>
 </author>
+<name>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>Prometheus Rising</value>
+</name>
 <released>
 <type>typed-literal</type>
 <datatype>http://www.w3.org/2001/XMLSchema#integer</datatype>
@@ -77,6 +87,11 @@
 <type>uri</type>
 <value>http://dbpedia.org/resource/Robert_Anton_Wilson</value>
 </author>
+<name>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>Coincidance: A Head Test</value>
+</name>
 <released>
 <type>typed-literal</type>
 <datatype>http://www.w3.org/2001/XMLSchema#integer</datatype>
@@ -96,6 +111,11 @@
 <type>uri</type>
 <value>http://dbpedia.org/resource/Robert_Anton_Wilson</value>
 </author>
+<name>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>Quantum Psychology</value>
+</name>
 <released>
 <type>typed-literal</type>
 <datatype>http://www.w3.org/2001/XMLSchema#integer</datatype>
@@ -115,6 +135,11 @@
 <type>uri</type>
 <value>http://dbpedia.org/resource/Robert_Anton_Wilson</value>
 </author>
+<name>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>Natural Law, or Don&apos;t Put a Rubber on Your Willy</value>
+</name>
 <released>
 <type>typed-literal</type>
 <datatype>http://www.w3.org/2001/XMLSchema#integer</datatype>
@@ -134,6 +159,11 @@
 <type>uri</type>
 <value>http://dbpedia.org/resource/Robert_Anton_Wilson</value>
 </author>
+<name>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>The New Inquisition</value>
+</name>
 <released>
 <type>typed-literal</type>
 <datatype>http://www.w3.org/2001/XMLSchema#integer</datatype>
@@ -153,6 +183,11 @@
 <type>uri</type>
 <value>http://dbpedia.org/resource/Robert_Anton_Wilson</value>
 </author>
+<name>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>Cosmic Trigger I: The Final Secret of the Illuminati</value>
+</name>
 <released>
 <type>typed-literal</type>
 <datatype>http://www.w3.org/2001/XMLSchema#integer</datatype>
@@ -172,6 +207,11 @@
 <type>uri</type>
 <value>http://dbpedia.org/resource/Robert_Anton_Wilson</value>
 </author>
+<name>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>Cosmic Trigger II: Down to Earth</value>
+</name>
 <released>
 <type>typed-literal</type>
 <datatype>http://www.w3.org/2001/XMLSchema#integer</datatype>
@@ -191,6 +231,11 @@
 <type>uri</type>
 <value>http://dbpedia.org/resource/Robert_Anton_Wilson</value>
 </author>
+<name>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>Right Where You Are Sitting Now</value>
+</name>
 <released>
 <type>typed-literal</type>
 <datatype>http://www.w3.org/2001/XMLSchema#integer</datatype>
@@ -210,6 +255,11 @@
 <type>uri</type>
 <value>http://dbpedia.org/resource/Robert_Anton_Wilson</value>
 </author>
+<name>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>The Illuminati Papers</value>
+</name>
 <released>
 <type>typed-literal</type>
 <datatype>http://www.w3.org/2001/XMLSchema#integer</datatype>
@@ -229,6 +279,11 @@
 <type>uri</type>
 <value>http://dbpedia.org/resource/Robert_Anton_Wilson</value>
 </author>
+<name>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>Wilhelm Reich in Hell</value>
+</name>
 <released>
 <type>typed-literal</type>
 <datatype>http://www.w3.org/2001/XMLSchema#integer</datatype>
@@ -248,6 +303,11 @@
 <type>uri</type>
 <value>http://dbpedia.org/resource/Robert_Anton_Wilson</value>
 </author>
+<name>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>Reality Is What You Can Get Away With</value>
+</name>
 <released>
 <type>typed-literal</type>
 <datatype>http://www.w3.org/2001/XMLSchema#integer</datatype>
@@ -267,6 +327,11 @@
 <type>uri</type>
 <value>http://dbpedia.org/resource/Robert_Anton_Wilson</value>
 </author>
+<name>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>The Walls Came Tumbling Down</value>
+</name>
 <released>
 <type>typed-literal</type>
 <datatype>http://www.w3.org/2001/XMLSchema#integer</datatype>
@@ -286,6 +351,11 @@
 <type>uri</type>
 <value>http://dbpedia.org/resource/Robert_Anton_Wilson</value>
 </author>
+<name>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>Ishtar Rising</value>
+</name>
 <released>
 <type>typed-literal</type>
 <datatype>http://www.w3.org/2001/XMLSchema#integer</datatype>
@@ -305,6 +375,11 @@
 <type>uri</type>
 <value>http://dbpedia.org/resource/Robert_Anton_Wilson</value>
 </author>
+<name>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>TSOG: The Thing That Ate the Constitution</value>
+</name>
 <released>
 <type>typed-literal</type>
 <datatype>http://www.w3.org/2001/XMLSchema#integer</datatype>
@@ -324,6 +399,11 @@
 <type>uri</type>
 <value>http://dbpedia.org/resource/Robert_Anton_Wilson</value>
 </author>
+<name>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>The Sex Magicians</value>
+</name>
 <released>
 <type>typed-literal</type>
 <datatype>http://www.w3.org/2001/XMLSchema#integer</datatype>
@@ -343,6 +423,11 @@
 <type>uri</type>
 <value>http://dbpedia.org/resource/Robert_Anton_Wilson</value>
 </author>
+<name>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>Email to the universe and other alterations of consciousness</value>
+</name>
 <released>
 <type>typed-literal</type>
 <datatype>http://www.w3.org/2001/XMLSchema#integer</datatype>
@@ -362,6 +447,11 @@
 <type>uri</type>
 <value>http://dbpedia.org/resource/Robert_Anton_Wilson</value>
 </author>
+<name>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>Sex, Drugs and Magick: A Journey Beyond Limits</value>
+</name>
 <released>
 <type>typed-literal</type>
 <datatype>http://www.w3.org/2001/XMLSchema#integer</datatype>
@@ -381,6 +471,11 @@
 <type>uri</type>
 <value>http://dbpedia.org/resource/Robert_Anton_Wilson</value>
 </author>
+<name>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>Cosmic Trigger III: My Life After Death</value>
+</name>
 <released>
 <type>typed-literal</type>
 <datatype>http://www.w3.org/2001/XMLSchema#integer</datatype>
@@ -400,6 +495,11 @@
 <type>uri</type>
 <value>http://dbpedia.org/resource/Robert_Anton_Wilson</value>
 </author>
+<name>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>Everything Is Under Control: Conspiracies, Cults and Cover-ups</value>
+</name>
 <released>
 <type>typed-literal</type>
 <datatype>http://www.w3.org/2001/XMLSchema#integer</datatype>
@@ -419,6 +519,11 @@
 <type>uri</type>
 <value>http://dbpedia.org/resource/Robert_Anton_Wilson</value>
 </author>
+<name>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>Schrödinger&apos;s Cat Trilogy</value>
+</name>
 <published>
 <type>typed-literal</type>
 <datatype>http://www.w3.org/2001/XMLSchema#integer</datatype>
@@ -443,6 +548,11 @@
 <type>uri</type>
 <value>http://dbpedia.org/resource/Robert_Anton_Wilson</value>
 </author>
+<name>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>Masks of the Illuminati</value>
+</name>
 <published>
 <type>typed-literal</type>
 <datatype>http://www.w3.org/2001/XMLSchema#integer</datatype>
@@ -462,6 +572,11 @@
 <type>uri</type>
 <value>http://dbpedia.org/resource/Robert_Anton_Wilson</value>
 </author>
+<name>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>Tale of the Tribe</value>
+</name>
 <wikilink>
 <type>uri</type>
 <value>http://en.wikipedia.org/wiki/Tale_of_the_Tribe?oldid=577591509</value>

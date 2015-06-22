@@ -30,6 +30,11 @@
 <type>uri</type>
 <value>http://dbpedia.org/resource/Poul_Anderson</value>
 </author>
+<name>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>Orion Shall Rise</value>
+</name>
 <thumbnail>
 <type>uri</type>
 <value>http://commons.wikimedia.org/wiki/Special:FilePath/Maurai.PNG?width=300</value>
@@ -53,6 +58,11 @@
 <type>uri</type>
 <value>http://dbpedia.org/resource/Poul_Anderson</value>
 </author>
+<name>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>Call Me Joe</value>
+</name>
 <thumbnail>
 <type>uri</type>
 <value>http://en.wikipedia.org/wiki/Special:FilePath/Jupiter.jpg?width=300</value>
@@ -71,6 +81,11 @@
 <type>uri</type>
 <value>http://dbpedia.org/resource/Poul_Anderson</value>
 </author>
+<name>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>Tau Zero</value>
+</name>
 <released>
 <type>typed-literal</type>
 <datatype>http://www.w3.org/2001/XMLSchema#integer</datatype>
@@ -90,6 +105,11 @@
 <type>uri</type>
 <value>http://dbpedia.org/resource/Poul_Anderson</value>
 </author>
+<name>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>Inconstant Star</value>
+</name>
 <released>
 <type>typed-literal</type>
 <datatype>http://www.w3.org/2001/XMLSchema#date</datatype>
@@ -109,6 +129,11 @@
 <type>uri</type>
 <value>http://dbpedia.org/resource/Poul_Anderson</value>
 </author>
+<name>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>The Boat of a Million Years</value>
+</name>
 <released>
 <type>literal</type>
 <xml:lang>en</xml:lang>
@@ -128,6 +153,11 @@
 <type>uri</type>
 <value>http://dbpedia.org/resource/Poul_Anderson</value>
 </author>
+<name>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>Hrolf Kraki&apos;s Saga</value>
+</name>
 <released>
 <type>typed-literal</type>
 <datatype>http://www.w3.org/2001/XMLSchema#integer</datatype>
@@ -147,6 +177,11 @@
 <type>uri</type>
 <value>http://dbpedia.org/resource/Poul_Anderson</value>
 </author>
+<name>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>There Will Be Time</value>
+</name>
 <released>
 <type>typed-literal</type>
 <datatype>http://www.w3.org/2001/XMLSchema#integer</datatype>
@@ -166,6 +201,11 @@
 <type>uri</type>
 <value>http://dbpedia.org/resource/Poul_Anderson</value>
 </author>
+<name>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>Fire Time</value>
+</name>
 <released>
 <type>typed-literal</type>
 <datatype>http://www.w3.org/2001/XMLSchema#integer</datatype>
@@ -185,6 +225,11 @@
 <type>uri</type>
 <value>http://dbpedia.org/resource/Poul_Anderson</value>
 </author>
+<name>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>The Merman&apos;s Children</value>
+</name>
 <released>
 <type>typed-literal</type>
 <datatype>http://www.w3.org/2001/XMLSchema#integer</datatype>
@@ -204,6 +249,11 @@
 <type>uri</type>
 <value>http://dbpedia.org/resource/Poul_Anderson</value>
 </author>
+<name>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>For Love and Glory</value>
+</name>
 <released>
 <type>literal</type>
 <xml:lang>en</xml:lang>
@@ -223,6 +273,11 @@
 <type>uri</type>
 <value>http://dbpedia.org/resource/Poul_Anderson</value>
 </author>
+<name>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>Conan the Rebel</value>
+</name>
 <released>
 <type>typed-literal</type>
 <datatype>http://www.w3.org/2001/XMLSchema#integer</datatype>
@@ -242,6 +297,11 @@
 <type>uri</type>
 <value>http://dbpedia.org/resource/Poul_Anderson</value>
 </author>
+<name>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>Earthman&apos;s Burden</value>
+</name>
 <released>
 <type>typed-literal</type>
 <datatype>http://www.w3.org/2001/XMLSchema#integer</datatype>
@@ -261,6 +321,11 @@
 <type>uri</type>
 <value>http://dbpedia.org/resource/Poul_Anderson</value>
 </author>
+<name>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>Hoka!</value>
+</name>
 <released>
 <type>typed-literal</type>
 <datatype>http://www.w3.org/2001/XMLSchema#integer</datatype>
@@ -280,6 +345,11 @@
 <type>uri</type>
 <value>http://dbpedia.org/resource/Poul_Anderson</value>
 </author>
+<name>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>Hoka! Hoka! Hoka!</value>
+</name>
 <released>
 <type>typed-literal</type>
 <datatype>http://www.w3.org/2001/XMLSchema#integer</datatype>
@@ -299,6 +369,11 @@
 <type>uri</type>
 <value>http://dbpedia.org/resource/Poul_Anderson</value>
 </author>
+<name>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>Hokas Pokas!</value>
+</name>
 <released>
 <type>typed-literal</type>
 <datatype>http://www.w3.org/2001/XMLSchema#integer</datatype>
@@ -318,6 +393,11 @@
 <type>uri</type>
 <value>http://dbpedia.org/resource/Poul_Anderson</value>
 </author>
+<name>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>The Broken Sword</value>
+</name>
 <released>
 <type>typed-literal</type>
 <datatype>http://www.w3.org/2001/XMLSchema#integer</datatype>
@@ -337,6 +417,11 @@
 <type>uri</type>
 <value>http://dbpedia.org/resource/Poul_Anderson</value>
 </author>
+<name>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>A Midsummer Tempest</value>
+</name>
 <released>
 <type>typed-literal</type>
 <datatype>http://www.w3.org/2001/XMLSchema#integer</datatype>
@@ -356,6 +441,11 @@
 <type>uri</type>
 <value>http://dbpedia.org/resource/Poul_Anderson</value>
 </author>
+<name>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>The Star Fox</value>
+</name>
 <released>
 <type>typed-literal</type>
 <datatype>http://www.w3.org/2001/XMLSchema#integer</datatype>
@@ -375,6 +465,11 @@
 <type>uri</type>
 <value>http://dbpedia.org/resource/Poul_Anderson</value>
 </author>
+<name>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>The High Crusade</value>
+</name>
 <released>
 <type>typed-literal</type>
 <datatype>http://www.w3.org/2001/XMLSchema#integer</datatype>
@@ -394,6 +489,11 @@
 <type>uri</type>
 <value>http://dbpedia.org/resource/Poul_Anderson</value>
 </author>
+<name>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>Operation Chaos</value>
+</name>
 <released>
 <type>typed-literal</type>
 <datatype>http://www.w3.org/2001/XMLSchema#integer</datatype>
@@ -413,6 +513,11 @@
 <type>uri</type>
 <value>http://dbpedia.org/resource/Poul_Anderson</value>
 </author>
+<name>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>After Doomsday</value>
+</name>
 <released>
 <type>typed-literal</type>
 <datatype>http://www.w3.org/2001/XMLSchema#integer</datatype>
@@ -432,6 +537,11 @@
 <type>uri</type>
 <value>http://dbpedia.org/resource/Poul_Anderson</value>
 </author>
+<name>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>Three Hearts and Three Lions</value>
+</name>
 <released>
 <type>typed-literal</type>
 <datatype>http://www.w3.org/2001/XMLSchema#integer</datatype>
@@ -451,6 +561,11 @@
 <type>uri</type>
 <value>http://dbpedia.org/resource/Poul_Anderson</value>
 </author>
+<name>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>Orbit Unlimited</value>
+</name>
 <published>
 <type>typed-literal</type>
 <datatype>http://www.w3.org/2001/XMLSchema#integer</datatype>
@@ -470,6 +585,11 @@
 <type>uri</type>
 <value>http://dbpedia.org/resource/Poul_Anderson</value>
 </author>
+<name>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>The Corridors of Time</value>
+</name>
 <published>
 <type>typed-literal</type>
 <datatype>http://www.w3.org/2001/XMLSchema#integer</datatype>
@@ -489,6 +609,11 @@
 <type>uri</type>
 <value>http://dbpedia.org/resource/Poul_Anderson</value>
 </author>
+<name>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>Operation Luna</value>
+</name>
 <wikilink>
 <type>uri</type>
 <value>http://en.wikipedia.org/wiki/Operation_Luna?oldid=578564940</value>
@@ -503,6 +628,11 @@
 <type>uri</type>
 <value>http://dbpedia.org/resource/Poul_Anderson</value>
 </author>
+<name>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>Brain Wave</value>
+</name>
 <wikilink>
 <type>uri</type>
 <value>http://en.wikipedia.org/wiki/Brain_Wave?oldid=602029856</value>
@@ -517,6 +647,11 @@
 <type>uri</type>
 <value>http://dbpedia.org/resource/Poul_Anderson</value>
 </author>
+<name>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>Time and Stars</value>
+</name>
 <wikilink>
 <type>uri</type>
 <value>http://en.wikipedia.org/wiki/Time_and_Stars?oldid=603975322</value>

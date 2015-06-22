@@ -33,6 +33,11 @@
 <type>uri</type>
 <value>http://dbpedia.org/resource/Robert_Greene_(American_author)</value>
 </author>
+<name>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>The 33 Strategies of War</value>
+</name>
 <thumbnail>
 <type>uri</type>
 <value>http://en.wikipedia.org/wiki/Special:FilePath/33StratagiesWar.jpg?width=300</value>
@@ -56,6 +61,11 @@
 <type>uri</type>
 <value>http://dbpedia.org/resource/Robert_Greene_(American_author)</value>
 </author>
+<name>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>The 48 Laws of Power</value>
+</name>
 <published>
 <type>typed-literal</type>
 <datatype>http://www.w3.org/2001/XMLSchema#integer</datatype>
@@ -80,6 +90,11 @@
 <type>uri</type>
 <value>http://dbpedia.org/resource/Robert_Greene_(American_author)</value>
 </author>
+<name>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>The 50th Law</value>
+</name>
 <published>
 <type>typed-literal</type>
 <datatype>http://www.w3.org/2001/XMLSchema#date</datatype>
@@ -99,6 +114,11 @@
 <type>uri</type>
 <value>http://dbpedia.org/resource/Robert_Greene_(American_author)</value>
 </author>
+<name>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>The Art of Seduction</value>
+</name>
 <wikilink>
 <type>uri</type>
 <value>http://en.wikipedia.org/wiki/The_Art_of_Seduction?oldid=581075911</value>
@@ -113,6 +133,11 @@
 <type>uri</type>
 <value>http://dbpedia.org/resource/Robert_Greene_(American_author)</value>
 </author>
+<name>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>Mastery</value>
+</name>
 <wikilink>
 <type>uri</type>
 <value>http://en.wikipedia.org/wiki/Mastery_(book)?oldid=604794732</value>

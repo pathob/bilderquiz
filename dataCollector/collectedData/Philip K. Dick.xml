@@ -36,6 +36,11 @@
 <type>uri</type>
 <value>http://dbpedia.org/resource/Philip_K._Dick</value>
 </author>
+<name>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>Flow My Tears, The Policeman Said</value>
+</name>
 <released>
 <type>typed-literal</type>
 <datatype>http://www.w3.org/2001/XMLSchema#integer</datatype>
@@ -60,6 +65,11 @@
 <type>uri</type>
 <value>http://dbpedia.org/resource/Philip_K._Dick</value>
 </author>
+<name>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>A Scanner Darkly</value>
+</name>
 <released>
 <type>typed-literal</type>
 <datatype>http://www.w3.org/2001/XMLSchema#integer</datatype>
@@ -84,6 +94,11 @@
 <type>uri</type>
 <value>http://dbpedia.org/resource/Philip_K._Dick</value>
 </author>
+<name>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>The Three Stigmata of Palmer Eldritch</value>
+</name>
 <released>
 <type>typed-literal</type>
 <datatype>http://www.w3.org/2001/XMLSchema#integer</datatype>
@@ -108,6 +123,11 @@
 <type>uri</type>
 <value>http://dbpedia.org/resource/Philip_K._Dick</value>
 </author>
+<name>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>Time Out of Joint</value>
+</name>
 <released>
 <type>typed-literal</type>
 <datatype>http://www.w3.org/2001/XMLSchema#integer</datatype>
@@ -132,6 +152,11 @@
 <type>uri</type>
 <value>http://dbpedia.org/resource/Philip_K._Dick</value>
 </author>
+<name>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>Ubik</value>
+</name>
 <released>
 <type>typed-literal</type>
 <datatype>http://www.w3.org/2001/XMLSchema#integer</datatype>
@@ -156,6 +181,11 @@
 <type>uri</type>
 <value>http://dbpedia.org/resource/Philip_K._Dick</value>
 </author>
+<name>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>The Man in the High Castle</value>
+</name>
 <released>
 <type>typed-literal</type>
 <datatype>http://www.w3.org/2001/XMLSchema#date</datatype>
@@ -180,6 +210,11 @@
 <type>uri</type>
 <value>http://dbpedia.org/resource/Philip_K._Dick</value>
 </author>
+<name>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>Martian Time Slip</value>
+</name>
 <released>
 <type>typed-literal</type>
 <datatype>http://www.w3.org/2001/XMLSchema#integer</datatype>
@@ -204,6 +239,11 @@
 <type>uri</type>
 <value>http://dbpedia.org/resource/Philip_K._Dick</value>
 </author>
+<name>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>Now Wait for Last Year</value>
+</name>
 <released>
 <type>typed-literal</type>
 <datatype>http://www.w3.org/2001/XMLSchema#integer</datatype>
@@ -223,6 +263,11 @@
 <type>uri</type>
 <value>http://dbpedia.org/resource/Philip_K._Dick</value>
 </author>
+<name>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>The Transmigration of Timothy Archer</value>
+</name>
 <released>
 <type>typed-literal</type>
 <datatype>http://www.w3.org/2001/XMLSchema#integer</datatype>
@@ -242,6 +287,11 @@
 <type>uri</type>
 <value>http://dbpedia.org/resource/Philip_K._Dick</value>
 </author>
+<name>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>Puttering About in a Small Land</value>
+</name>
 <released>
 <type>typed-literal</type>
 <datatype>http://www.w3.org/2001/XMLSchema#integer</datatype>
@@ -261,6 +311,11 @@
 <type>uri</type>
 <value>http://dbpedia.org/resource/Philip_K._Dick</value>
 </author>
+<name>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>Deus Irae</value>
+</name>
 <released>
 <type>typed-literal</type>
 <datatype>http://www.w3.org/2001/XMLSchema#integer</datatype>
@@ -280,6 +335,11 @@
 <type>uri</type>
 <value>http://dbpedia.org/resource/Philip_K._Dick</value>
 </author>
+<name>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>A Time for George Stavros</value>
+</name>
 <released>
 <type>literal</type>
 <xml:lang>en</xml:lang>
@@ -299,6 +359,11 @@
 <type>uri</type>
 <value>http://dbpedia.org/resource/Philip_K._Dick</value>
 </author>
+<name>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>Do Androids Dream of Electric Sheep?</value>
+</name>
 <released>
 <type>typed-literal</type>
 <datatype>http://www.w3.org/2001/XMLSchema#integer</datatype>
@@ -318,6 +383,11 @@
 <type>uri</type>
 <value>http://dbpedia.org/resource/Philip_K._Dick</value>
 </author>
+<name>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>Radio Free Albemuth</value>
+</name>
 <released>
 <type>typed-literal</type>
 <datatype>http://www.w3.org/2001/XMLSchema#integer</datatype>
@@ -337,6 +407,11 @@
 <type>uri</type>
 <value>http://dbpedia.org/resource/Philip_K._Dick</value>
 </author>
+<name>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>Beyond Lies the Wub</value>
+</name>
 <released>
 <type>typed-literal</type>
 <datatype>http://www.w3.org/2001/XMLSchema#integer</datatype>
@@ -356,6 +431,11 @@
 <type>uri</type>
 <value>http://dbpedia.org/resource/Philip_K._Dick</value>
 </author>
+<name>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>Voices From the Street</value>
+</name>
 <released>
 <type>typed-literal</type>
 <datatype>http://www.w3.org/2001/XMLSchema#integer</datatype>
@@ -375,6 +455,11 @@
 <type>uri</type>
 <value>http://dbpedia.org/resource/Philip_K._Dick</value>
 </author>
+<name>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>The Broken Bubble</value>
+</name>
 <released>
 <type>typed-literal</type>
 <datatype>http://www.w3.org/2001/XMLSchema#integer</datatype>
@@ -394,6 +479,11 @@
 <type>uri</type>
 <value>http://dbpedia.org/resource/Philip_K._Dick</value>
 </author>
+<name>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>Vintage PKD</value>
+</name>
 <released>
 <type>typed-literal</type>
 <datatype>http://www.w3.org/2001/XMLSchema#integer</datatype>
@@ -413,6 +503,11 @@
 <type>uri</type>
 <value>http://dbpedia.org/resource/Philip_K._Dick</value>
 </author>
+<name>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>A Maze of Death</value>
+</name>
 <released>
 <type>typed-literal</type>
 <datatype>http://www.w3.org/2001/XMLSchema#integer</datatype>
@@ -432,6 +527,11 @@
 <type>uri</type>
 <value>http://dbpedia.org/resource/Philip_K._Dick</value>
 </author>
+<name>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>The Zap Gun</value>
+</name>
 <released>
 <type>typed-literal</type>
 <datatype>http://www.w3.org/2001/XMLSchema#integer</datatype>
@@ -451,6 +551,11 @@
 <type>uri</type>
 <value>http://dbpedia.org/resource/Philip_K._Dick</value>
 </author>
+<name>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>The Penultimate Truth</value>
+</name>
 <released>
 <type>typed-literal</type>
 <datatype>http://www.w3.org/2001/XMLSchema#integer</datatype>
@@ -470,6 +575,11 @@
 <type>uri</type>
 <value>http://dbpedia.org/resource/Philip_K._Dick</value>
 </author>
+<name>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>Minority Report</value>
+</name>
 <released>
 <type>typed-literal</type>
 <datatype>http://www.w3.org/2001/XMLSchema#integer</datatype>
@@ -489,6 +599,11 @@
 <type>uri</type>
 <value>http://dbpedia.org/resource/Philip_K._Dick</value>
 </author>
+<name>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>The Minority Report</value>
+</name>
 <released>
 <type>typed-literal</type>
 <datatype>http://www.w3.org/2001/XMLSchema#integer</datatype>
@@ -508,6 +623,11 @@
 <type>uri</type>
 <value>http://dbpedia.org/resource/Philip_K._Dick</value>
 </author>
+<name>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>Galactic Pot-Healer</value>
+</name>
 <released>
 <type>typed-literal</type>
 <datatype>http://www.w3.org/2001/XMLSchema#integer</datatype>
@@ -527,6 +647,11 @@
 <type>uri</type>
 <value>http://dbpedia.org/resource/Philip_K._Dick</value>
 </author>
+<name>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>The Collected Stories of Philip K. Dick</value>
+</name>
 <released>
 <type>typed-literal</type>
 <datatype>http://www.w3.org/2001/XMLSchema#integer</datatype>
@@ -546,6 +671,11 @@
 <type>uri</type>
 <value>http://dbpedia.org/resource/Philip_K._Dick</value>
 </author>
+<name>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>Nick and the Glimmung</value>
+</name>
 <released>
 <type>typed-literal</type>
 <datatype>http://www.w3.org/2001/XMLSchema#integer</datatype>
@@ -565,6 +695,11 @@
 <type>uri</type>
 <value>http://dbpedia.org/resource/Philip_K._Dick</value>
 </author>
+<name>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>The Little Black Box</value>
+</name>
 <released>
 <type>typed-literal</type>
 <datatype>http://www.w3.org/2001/XMLSchema#integer</datatype>
@@ -584,6 +719,11 @@
 <type>uri</type>
 <value>http://dbpedia.org/resource/Philip_K._Dick</value>
 </author>
+<name>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>Solar Lottery</value>
+</name>
 <released>
 <type>literal</type>
 <xml:lang>en</xml:lang>
@@ -603,6 +743,11 @@
 <type>uri</type>
 <value>http://dbpedia.org/resource/Philip_K._Dick</value>
 </author>
+<name>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>Counter-Clock World</value>
+</name>
 <released>
 <type>typed-literal</type>
 <datatype>http://www.w3.org/2001/XMLSchema#integer</datatype>
@@ -622,6 +767,11 @@
 <type>uri</type>
 <value>http://dbpedia.org/resource/Philip_K._Dick</value>
 </author>
+<name>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>The Father-Thing</value>
+</name>
 <released>
 <type>typed-literal</type>
 <datatype>http://www.w3.org/2001/XMLSchema#integer</datatype>
@@ -641,6 +791,11 @@
 <type>uri</type>
 <value>http://dbpedia.org/resource/Philip_K._Dick</value>
 </author>
+<name>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>The Crack in Space</value>
+</name>
 <released>
 <type>typed-literal</type>
 <datatype>http://www.w3.org/2001/XMLSchema#integer</datatype>
@@ -660,6 +815,11 @@
 <type>uri</type>
 <value>http://dbpedia.org/resource/Philip_K._Dick</value>
 </author>
+<name>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>Humpty Dumpty in Oakland</value>
+</name>
 <released>
 <type>typed-literal</type>
 <datatype>http://www.w3.org/2001/XMLSchema#integer</datatype>
@@ -679,6 +839,11 @@
 <type>uri</type>
 <value>http://dbpedia.org/resource/Philip_K._Dick</value>
 </author>
+<name>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>In Milton Lumky Territory</value>
+</name>
 <released>
 <type>typed-literal</type>
 <datatype>http://www.w3.org/2001/XMLSchema#integer</datatype>
@@ -698,6 +863,11 @@
 <type>uri</type>
 <value>http://dbpedia.org/resource/Philip_K._Dick</value>
 </author>
+<name>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>Second Variety</value>
+</name>
 <released>
 <type>typed-literal</type>
 <datatype>http://www.w3.org/2001/XMLSchema#integer</datatype>
@@ -717,6 +887,11 @@
 <type>uri</type>
 <value>http://dbpedia.org/resource/Philip_K._Dick</value>
 </author>
+<name>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>The Best of Philip K. Dick</value>
+</name>
 <released>
 <type>typed-literal</type>
 <datatype>http://www.w3.org/2001/XMLSchema#integer</datatype>
@@ -736,6 +911,11 @@
 <type>uri</type>
 <value>http://dbpedia.org/resource/Philip_K._Dick</value>
 </author>
+<name>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>The Dark Haired Girl</value>
+</name>
 <released>
 <type>typed-literal</type>
 <datatype>http://www.w3.org/2001/XMLSchema#integer</datatype>
@@ -755,6 +935,11 @@
 <type>uri</type>
 <value>http://dbpedia.org/resource/Philip_K._Dick</value>
 </author>
+<name>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>The Days of Perky Pat</value>
+</name>
 <released>
 <type>typed-literal</type>
 <datatype>http://www.w3.org/2001/XMLSchema#integer</datatype>
@@ -774,6 +959,11 @@
 <type>uri</type>
 <value>http://dbpedia.org/resource/Philip_K._Dick</value>
 </author>
+<name>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>The Eye of the Sibyl</value>
+</name>
 <released>
 <type>typed-literal</type>
 <datatype>http://www.w3.org/2001/XMLSchema#integer</datatype>
@@ -793,6 +983,11 @@
 <type>uri</type>
 <value>http://dbpedia.org/resource/Philip_K._Dick</value>
 </author>
+<name>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>The Golden Man</value>
+</name>
 <released>
 <type>typed-literal</type>
 <datatype>http://www.w3.org/2001/XMLSchema#integer</datatype>
@@ -812,6 +1007,11 @@
 <type>uri</type>
 <value>http://dbpedia.org/resource/Philip_K._Dick</value>
 </author>
+<name>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>The Preserving Machine</value>
+</name>
 <released>
 <type>typed-literal</type>
 <datatype>http://www.w3.org/2001/XMLSchema#integer</datatype>
@@ -831,6 +1031,11 @@
 <type>uri</type>
 <value>http://dbpedia.org/resource/Philip_K._Dick</value>
 </author>
+<name>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>The Short Happy Life of the Brown Oxford</value>
+</name>
 <released>
 <type>typed-literal</type>
 <datatype>http://www.w3.org/2001/XMLSchema#integer</datatype>
@@ -850,6 +1055,11 @@
 <type>uri</type>
 <value>http://dbpedia.org/resource/Philip_K._Dick</value>
 </author>
+<name>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>The Variable Man</value>
+</name>
 <released>
 <type>typed-literal</type>
 <datatype>http://www.w3.org/2001/XMLSchema#integer</datatype>
@@ -869,6 +1079,11 @@
 <type>uri</type>
 <value>http://dbpedia.org/resource/Philip_K._Dick</value>
 </author>
+<name>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>Eye in the Sky</value>
+</name>
 <released>
 <type>typed-literal</type>
 <datatype>http://www.w3.org/2001/XMLSchema#integer</datatype>
@@ -888,6 +1103,11 @@
 <type>uri</type>
 <value>http://dbpedia.org/resource/Philip_K._Dick</value>
 </author>
+<name>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>The Man Who Japed</value>
+</name>
 <released>
 <type>typed-literal</type>
 <datatype>http://www.w3.org/2001/XMLSchema#integer</datatype>
@@ -907,6 +1127,11 @@
 <type>uri</type>
 <value>http://dbpedia.org/resource/Philip_K._Dick</value>
 </author>
+<name>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>Clans of the Alphane Moon</value>
+</name>
 <released>
 <type>typed-literal</type>
 <datatype>http://www.w3.org/2001/XMLSchema#integer</datatype>
@@ -926,6 +1151,11 @@
 <type>uri</type>
 <value>http://dbpedia.org/resource/Philip_K._Dick</value>
 </author>
+<name>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>Our Friends from Frolix 8</value>
+</name>
 <released>
 <type>typed-literal</type>
 <datatype>http://www.w3.org/2001/XMLSchema#integer</datatype>
@@ -945,6 +1175,11 @@
 <type>uri</type>
 <value>http://dbpedia.org/resource/Philip_K._Dick</value>
 </author>
+<name>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>The Game-Players of Titan</value>
+</name>
 <released>
 <type>typed-literal</type>
 <datatype>http://www.w3.org/2001/XMLSchema#integer</datatype>
@@ -964,6 +1199,11 @@
 <type>uri</type>
 <value>http://dbpedia.org/resource/Philip_K._Dick</value>
 </author>
+<name>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>The Unteleported Man</value>
+</name>
 <released>
 <type>typed-literal</type>
 <datatype>http://www.w3.org/2001/XMLSchema#integer</datatype>
@@ -983,6 +1223,11 @@
 <type>uri</type>
 <value>http://dbpedia.org/resource/Philip_K._Dick</value>
 </author>
+<name>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>The World Jones Made</value>
+</name>
 <released>
 <type>typed-literal</type>
 <datatype>http://www.w3.org/2001/XMLSchema#integer</datatype>
@@ -1002,6 +1247,11 @@
 <type>uri</type>
 <value>http://dbpedia.org/resource/Philip_K._Dick</value>
 </author>
+<name>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>Selected Stories of Philip K. Dick</value>
+</name>
 <released>
 <type>typed-literal</type>
 <datatype>http://www.w3.org/2001/XMLSchema#integer</datatype>
@@ -1021,6 +1271,11 @@
 <type>uri</type>
 <value>http://dbpedia.org/resource/Philip_K._Dick</value>
 </author>
+<name>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>The Man Whose Teeth Were All Exactly Alike</value>
+</name>
 <released>
 <type>typed-literal</type>
 <datatype>http://www.w3.org/2001/XMLSchema#integer</datatype>
@@ -1040,6 +1295,11 @@
 <type>uri</type>
 <value>http://dbpedia.org/resource/Philip_K._Dick</value>
 </author>
+<name>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>Robots, Androids, and Mechanical Oddities: The Science Fiction of Philip K. Dick</value>
+</name>
 <released>
 <type>typed-literal</type>
 <datatype>http://www.w3.org/2001/XMLSchema#integer</datatype>
@@ -1059,6 +1319,11 @@
 <type>uri</type>
 <value>http://dbpedia.org/resource/Philip_K._Dick</value>
 </author>
+<name>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>Dr. Futurity</value>
+</name>
 <released>
 <type>typed-literal</type>
 <datatype>http://www.w3.org/2001/XMLSchema#integer</datatype>
@@ -1078,6 +1343,11 @@
 <type>uri</type>
 <value>http://dbpedia.org/resource/Philip_K._Dick</value>
 </author>
+<name>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>The Cosmic Puppets</value>
+</name>
 <released>
 <type>typed-literal</type>
 <datatype>http://www.w3.org/2001/XMLSchema#integer</datatype>
@@ -1097,6 +1367,11 @@
 <type>uri</type>
 <value>http://dbpedia.org/resource/Philip_K._Dick</value>
 </author>
+<name>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>Dr. Bloodmoney, or How We Got Along After the Bomb</value>
+</name>
 <released>
 <type>typed-literal</type>
 <datatype>http://www.w3.org/2001/XMLSchema#integer</datatype>
@@ -1116,6 +1391,11 @@
 <type>uri</type>
 <value>http://dbpedia.org/resource/Philip_K._Dick</value>
 </author>
+<name>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>A Handful of Darkness</value>
+</name>
 <released>
 <type>typed-literal</type>
 <datatype>http://www.w3.org/2001/XMLSchema#integer</datatype>
@@ -1135,6 +1415,11 @@
 <type>uri</type>
 <value>http://dbpedia.org/resource/Philip_K._Dick</value>
 </author>
+<name>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>The Ganymede Takeover</value>
+</name>
 <released>
 <type>typed-literal</type>
 <datatype>http://www.w3.org/2001/XMLSchema#integer</datatype>
@@ -1154,6 +1439,11 @@
 <type>uri</type>
 <value>http://dbpedia.org/resource/Philip_K._Dick</value>
 </author>
+<name>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>The Simulacra</value>
+</name>
 <released>
 <type>typed-literal</type>
 <datatype>http://www.w3.org/2001/XMLSchema#integer</datatype>
@@ -1173,6 +1463,11 @@
 <type>uri</type>
 <value>http://dbpedia.org/resource/Philip_K._Dick</value>
 </author>
+<name>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>Paycheck</value>
+</name>
 <released>
 <type>typed-literal</type>
 <datatype>http://www.w3.org/2001/XMLSchema#integer</datatype>
@@ -1192,6 +1487,11 @@
 <type>uri</type>
 <value>http://dbpedia.org/resource/Philip_K._Dick</value>
 </author>
+<name>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>I Hope I Shall Arrive Soon</value>
+</name>
 <released>
 <type>typed-literal</type>
 <datatype>http://www.w3.org/2001/XMLSchema#integer</datatype>
@@ -1211,6 +1511,11 @@
 <type>uri</type>
 <value>http://dbpedia.org/resource/Philip_K._Dick</value>
 </author>
+<name>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>The Book of Philip K. Dick</value>
+</name>
 <released>
 <type>typed-literal</type>
 <datatype>http://www.w3.org/2001/XMLSchema#integer</datatype>
@@ -1230,6 +1535,11 @@
 <type>uri</type>
 <value>http://dbpedia.org/resource/Philip_K._Dick</value>
 </author>
+<name>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>Vulcan&apos;s Hammer</value>
+</name>
 <released>
 <type>typed-literal</type>
 <datatype>http://www.w3.org/2001/XMLSchema#integer</datatype>
@@ -1249,6 +1559,11 @@
 <type>uri</type>
 <value>http://dbpedia.org/resource/Philip_K._Dick</value>
 </author>
+<name>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>Confessions of a Crap Artist</value>
+</name>
 <released>
 <type>typed-literal</type>
 <datatype>http://www.w3.org/2001/XMLSchema#integer</datatype>
@@ -1268,6 +1583,11 @@
 <type>uri</type>
 <value>http://dbpedia.org/resource/Philip_K._Dick</value>
 </author>
+<name>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>Nicholas and the Higs</value>
+</name>
 <released>
 <type>literal</type>
 <xml:lang>en</xml:lang>
@@ -1287,6 +1607,11 @@
 <type>uri</type>
 <value>http://dbpedia.org/resource/Philip_K._Dick</value>
 </author>
+<name>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>We Can Build You</value>
+</name>
 <released>
 <type>typed-literal</type>
 <datatype>http://www.w3.org/2001/XMLSchema#integer</datatype>
@@ -1306,6 +1631,11 @@
 <type>uri</type>
 <value>http://dbpedia.org/resource/Philip_K._Dick</value>
 </author>
+<name>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>We Can Remember It for You Wholesale</value>
+</name>
 <released>
 <type>typed-literal</type>
 <datatype>http://www.w3.org/2001/XMLSchema#integer</datatype>
@@ -1325,6 +1655,11 @@
 <type>uri</type>
 <value>http://dbpedia.org/resource/Philip_K._Dick</value>
 </author>
+<name>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>Pilgrim on the Hill</value>
+</name>
 <released>
 <type>literal</type>
 <xml:lang>en</xml:lang>
@@ -1344,6 +1679,11 @@
 <type>uri</type>
 <value>http://dbpedia.org/resource/Philip_K._Dick</value>
 </author>
+<name>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>Second Variety</value>
+</name>
 <released>
 <type>typed-literal</type>
 <datatype>http://www.w3.org/2001/XMLSchema#integer</datatype>
@@ -1363,6 +1703,11 @@
 <type>uri</type>
 <value>http://dbpedia.org/resource/Philip_K._Dick</value>
 </author>
+<name>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>The Divine Invasion</value>
+</name>
 <released>
 <type>typed-literal</type>
 <datatype>http://www.w3.org/2001/XMLSchema#integer</datatype>
@@ -1382,6 +1727,11 @@
 <type>uri</type>
 <value>http://dbpedia.org/resource/Philip_K._Dick</value>
 </author>
+<name>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>Mary and the Giant</value>
+</name>
 <released>
 <type>typed-literal</type>
 <datatype>http://www.w3.org/2001/XMLSchema#integer</datatype>
@@ -1401,6 +1751,11 @@
 <type>uri</type>
 <value>http://dbpedia.org/resource/Philip_K._Dick</value>
 </author>
+<name>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>Gather Yourselves Together</value>
+</name>
 <released>
 <type>typed-literal</type>
 <datatype>http://www.w3.org/2001/XMLSchema#integer</datatype>
@@ -1420,6 +1775,11 @@
 <type>uri</type>
 <value>http://dbpedia.org/resource/Philip_K._Dick</value>
 </author>
+<name>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>VALIS</value>
+</name>
 <published>
 <type>typed-literal</type>
 <datatype>http://www.w3.org/2001/XMLSchema#integer</datatype>
@@ -1439,6 +1799,11 @@
 <type>uri</type>
 <value>http://dbpedia.org/resource/Philip_K._Dick</value>
 </author>
+<name>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>The Philip K. Dick Reader</value>
+</name>
 <published>
 <type>typed-literal</type>
 <datatype>http://www.w3.org/2001/XMLSchema#integer</datatype>
@@ -1458,6 +1823,11 @@
 <type>uri</type>
 <value>http://dbpedia.org/resource/Philip_K._Dick</value>
 </author>
+<name>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>The Exegesis of Philip K. Dick</value>
+</name>
 <wikilink>
 <type>uri</type>
 <value>http://en.wikipedia.org/wiki/The_Exegesis_of_Philip_K._Dick?oldid=606563014</value>

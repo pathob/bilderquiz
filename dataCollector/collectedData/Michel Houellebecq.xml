@@ -29,6 +29,11 @@
 <type>uri</type>
 <value>http://dbpedia.org/resource/Michel_Houellebecq</value>
 </author>
+<name>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>La carte et le territoire</value>
+</name>
 <wikilink>
 <type>uri</type>
 <value>http://en.wikipedia.org/wiki/The_Map_and_the_Territory?oldid=540841494</value>
@@ -48,6 +53,11 @@
 <type>uri</type>
 <value>http://dbpedia.org/resource/Michel_Houellebecq</value>
 </author>
+<name>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>H. P. Lovecraft : Contre le monde, contre la vie</value>
+</name>
 <wikilink>
 <type>uri</type>
 <value>http://en.wikipedia.org/wiki/H._P._Lovecraft:_Against_the_World,_Against_Life?oldid=595009239</value>

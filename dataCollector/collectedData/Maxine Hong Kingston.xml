@@ -29,6 +29,11 @@
 <type>uri</type>
 <value>http://dbpedia.org/resource/Maxine_Hong_Kingston</value>
 </author>
+<name>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>The Woman Warrior: Memoirs of a Girlhood among Ghosts</value>
+</name>
 <thumbnail>
 <type>uri</type>
 <value>http://commons.wikimedia.org/wiki/Special:FilePath/Maxine_Hong_Kingston_by_David_Shankbone.jpg?width=300</value>
@@ -52,6 +57,11 @@
 <type>uri</type>
 <value>http://dbpedia.org/resource/Maxine_Hong_Kingston</value>
 </author>
+<name>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>Tripmaster Monkey: His Fake Book</value>
+</name>
 <thumbnail>
 <type>uri</type>
 <value>http://commons.wikimedia.org/wiki/Special:FilePath/Xyj-sun_wukong.jpg?width=300</value>
@@ -70,6 +80,11 @@
 <type>uri</type>
 <value>http://dbpedia.org/resource/Maxine_Hong_Kingston</value>
 </author>
+<name>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>China Men</value>
+</name>
 <wikilink>
 <type>uri</type>
 <value>http://en.wikipedia.org/wiki/China_Men?oldid=597454138</value>

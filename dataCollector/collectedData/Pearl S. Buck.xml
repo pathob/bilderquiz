@@ -54,6 +54,11 @@
 <type>uri</type>
 <value>http://dbpedia.org/resource/Pearl_S._Buck</value>
 </author>
+<name>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>The Good Earth</value>
+</name>
 <released>
 <type>typed-literal</type>
 <datatype>http://www.w3.org/2001/XMLSchema#date</datatype>
@@ -78,6 +83,11 @@
 <type>uri</type>
 <value>http://dbpedia.org/resource/Pearl_S._Buck</value>
 </author>
+<name>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>Imperial Woman</value>
+</name>
 <released>
 <type>typed-literal</type>
 <datatype>http://www.w3.org/2001/XMLSchema#integer</datatype>
@@ -102,6 +112,11 @@
 <type>uri</type>
 <value>http://dbpedia.org/resource/Pearl_S._Buck</value>
 </author>
+<name>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>East Wind: West Wind</value>
+</name>
 <released>
 <type>typed-literal</type>
 <datatype>http://www.w3.org/2001/XMLSchema#integer</datatype>
@@ -121,6 +136,11 @@
 <type>uri</type>
 <value>http://dbpedia.org/resource/Pearl_S._Buck</value>
 </author>
+<name>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>Dragon Seed</value>
+</name>
 <released>
 <type>typed-literal</type>
 <datatype>http://www.w3.org/2001/XMLSchema#integer</datatype>
@@ -140,6 +160,11 @@
 <type>uri</type>
 <value>http://dbpedia.org/resource/Pearl_S._Buck</value>
 </author>
+<name>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>Letter from Peking</value>
+</name>
 <released>
 <type>typed-literal</type>
 <datatype>http://www.w3.org/2001/XMLSchema#integer</datatype>
@@ -159,6 +184,11 @@
 <type>uri</type>
 <value>http://dbpedia.org/resource/Pearl_S._Buck</value>
 </author>
+<name>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>China Sky</value>
+</name>
 <released>
 <type>typed-literal</type>
 <datatype>http://www.w3.org/2001/XMLSchema#integer</datatype>
@@ -178,6 +208,11 @@
 <type>uri</type>
 <value>http://dbpedia.org/resource/Pearl_S._Buck</value>
 </author>
+<name>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>the Living Reed</value>
+</name>
 <released>
 <type>typed-literal</type>
 <datatype>http://www.w3.org/2001/XMLSchema#integer</datatype>
@@ -197,6 +232,11 @@
 <type>uri</type>
 <value>http://dbpedia.org/resource/Pearl_S._Buck</value>
 </author>
+<name>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>The Story Bible</value>
+</name>
 <released>
 <type>typed-literal</type>
 <datatype>http://www.w3.org/2001/XMLSchema#integer</datatype>
@@ -216,6 +256,11 @@
 <type>uri</type>
 <value>http://dbpedia.org/resource/Pearl_S._Buck</value>
 </author>
+<name>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>Peony</value>
+</name>
 <released>
 <type>typed-literal</type>
 <datatype>http://www.w3.org/2001/XMLSchema#integer</datatype>
@@ -235,6 +280,11 @@
 <type>uri</type>
 <value>http://dbpedia.org/resource/Pearl_S._Buck</value>
 </author>
+<name>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>Sons</value>
+</name>
 <released>
 <type>literal</type>
 <xml:lang>en</xml:lang>
@@ -254,6 +304,11 @@
 <type>uri</type>
 <value>http://dbpedia.org/resource/Pearl_S._Buck</value>
 </author>
+<name>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>A House Divided</value>
+</name>
 <wikilink>
 <type>uri</type>
 <value>http://en.wikipedia.org/wiki/A_House_Divided_(novel)?oldid=592021126</value>

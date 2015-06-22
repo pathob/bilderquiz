@@ -36,6 +36,11 @@
 <type>uri</type>
 <value>http://dbpedia.org/resource/William_McDonough</value>
 </author>
+<name>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>Cradle to Cradle: Remaking the Way We Make Things</value>
+</name>
 <wikilink>
 <type>uri</type>
 <value>http://en.wikipedia.org/wiki/Cradle_to_Cradle:_Remaking_the_Way_We_Make_Things?oldid=598884412</value>

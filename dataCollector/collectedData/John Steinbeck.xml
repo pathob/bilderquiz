@@ -38,6 +38,11 @@
 <type>uri</type>
 <value>http://dbpedia.org/resource/John_Steinbeck</value>
 </author>
+<name>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>Travels with Charley: In Search of America</value>
+</name>
 <thumbnail>
 <type>uri</type>
 <value>http://commons.wikimedia.org/wiki/Special:FilePath/TravelswithCharlieVehicle.jpg?width=300</value>
@@ -66,6 +71,11 @@
 <type>uri</type>
 <value>http://dbpedia.org/resource/John_Steinbeck</value>
 </author>
+<name>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>The Grapes of Wrath</value>
+</name>
 <released>
 <type>typed-literal</type>
 <datatype>http://www.w3.org/2001/XMLSchema#date</datatype>
@@ -90,6 +100,11 @@
 <type>uri</type>
 <value>http://dbpedia.org/resource/John_Steinbeck</value>
 </author>
+<name>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>The Long Valley</value>
+</name>
 <released>
 <type>typed-literal</type>
 <datatype>http://www.w3.org/2001/XMLSchema#integer</datatype>
@@ -114,6 +129,11 @@
 <type>uri</type>
 <value>http://dbpedia.org/resource/John_Steinbeck</value>
 </author>
+<name>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>East of Eden</value>
+</name>
 <released>
 <type>literal</type>
 <xml:lang>en</xml:lang>
@@ -138,6 +158,11 @@
 <type>uri</type>
 <value>http://dbpedia.org/resource/John_Steinbeck</value>
 </author>
+<name>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>The Pearl</value>
+</name>
 <released>
 <type>typed-literal</type>
 <datatype>http://www.w3.org/2001/XMLSchema#integer</datatype>
@@ -162,6 +187,11 @@
 <type>uri</type>
 <value>http://dbpedia.org/resource/John_Steinbeck</value>
 </author>
+<name>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>Tortilla Flat</value>
+</name>
 <released>
 <type>typed-literal</type>
 <datatype>http://www.w3.org/2001/XMLSchema#integer</datatype>
@@ -186,6 +216,11 @@
 <type>uri</type>
 <value>http://dbpedia.org/resource/John_Steinbeck</value>
 </author>
+<name>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>In Dubious Battle</value>
+</name>
 <released>
 <type>typed-literal</type>
 <datatype>http://www.w3.org/2001/XMLSchema#integer</datatype>
@@ -205,6 +240,11 @@
 <type>uri</type>
 <value>http://dbpedia.org/resource/John_Steinbeck</value>
 </author>
+<name>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>Journal of a Novel: The East of Eden Letters</value>
+</name>
 <released>
 <type>typed-literal</type>
 <datatype>http://www.w3.org/2001/XMLSchema#integer</datatype>
@@ -224,6 +264,11 @@
 <type>uri</type>
 <value>http://dbpedia.org/resource/John_Steinbeck</value>
 </author>
+<name>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>To a God Unknown</value>
+</name>
 <released>
 <type>typed-literal</type>
 <datatype>http://www.w3.org/2001/XMLSchema#integer</datatype>
@@ -243,6 +288,11 @@
 <type>uri</type>
 <value>http://dbpedia.org/resource/John_Steinbeck</value>
 </author>
+<name>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>The Winter of Our Discontent</value>
+</name>
 <released>
 <type>typed-literal</type>
 <datatype>http://www.w3.org/2001/XMLSchema#integer</datatype>
@@ -262,6 +312,11 @@
 <type>uri</type>
 <value>http://dbpedia.org/resource/John_Steinbeck</value>
 </author>
+<name>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>Cup of Gold</value>
+</name>
 <released>
 <type>typed-literal</type>
 <datatype>http://www.w3.org/2001/XMLSchema#integer</datatype>
@@ -281,6 +336,11 @@
 <type>uri</type>
 <value>http://dbpedia.org/resource/John_Steinbeck</value>
 </author>
+<name>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>Burning Bright</value>
+</name>
 <released>
 <type>typed-literal</type>
 <datatype>http://www.w3.org/2001/XMLSchema#integer</datatype>
@@ -300,6 +360,11 @@
 <type>uri</type>
 <value>http://dbpedia.org/resource/John_Steinbeck</value>
 </author>
+<name>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>Bombs Away</value>
+</name>
 <released>
 <type>typed-literal</type>
 <datatype>http://www.w3.org/2001/XMLSchema#integer</datatype>
@@ -319,6 +384,11 @@
 <type>uri</type>
 <value>http://dbpedia.org/resource/John_Steinbeck</value>
 </author>
+<name>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>Of Mice and Men</value>
+</name>
 <wikilink>
 <type>uri</type>
 <value>http://en.wikipedia.org/wiki/Of_Mice_and_Men?oldid=604895623</value>
@@ -338,6 +408,11 @@
 <type>uri</type>
 <value>http://dbpedia.org/resource/John_Steinbeck</value>
 </author>
+<name>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>The Moon Is Down</value>
+</name>
 <wikilink>
 <type>uri</type>
 <value>http://en.wikipedia.org/wiki/The_Moon_Is_Down?oldid=604471991</value>
@@ -357,6 +432,11 @@
 <type>uri</type>
 <value>http://dbpedia.org/resource/John_Steinbeck</value>
 </author>
+<name>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>Sweet Thursday</value>
+</name>
 <wikilink>
 <type>uri</type>
 <value>http://en.wikipedia.org/wiki/Sweet_Thursday?oldid=601632804</value>
@@ -376,6 +456,11 @@
 <type>uri</type>
 <value>http://dbpedia.org/resource/John_Steinbeck</value>
 </author>
+<name>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>Cannery Row</value>
+</name>
 <wikilink>
 <type>uri</type>
 <value>http://en.wikipedia.org/wiki/Cannery_Row_(novel)?oldid=605227410</value>
@@ -395,6 +480,11 @@
 <type>uri</type>
 <value>http://dbpedia.org/resource/John_Steinbeck</value>
 </author>
+<name>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>The Short Reign of Pippin IV</value>
+</name>
 <wikilink>
 <type>uri</type>
 <value>http://en.wikipedia.org/wiki/The_Short_Reign_of_Pippin_IV?oldid=599437771</value>
@@ -409,6 +499,11 @@
 <type>uri</type>
 <value>http://dbpedia.org/resource/John_Steinbeck</value>
 </author>
+<name>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>The Log from the Sea of Cortez</value>
+</name>
 <wikilink>
 <type>uri</type>
 <value>http://en.wikipedia.org/wiki/The_Log_from_the_Sea_of_Cortez?oldid=594058844</value>
@@ -423,6 +518,11 @@
 <type>uri</type>
 <value>http://dbpedia.org/resource/John_Steinbeck</value>
 </author>
+<name>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>The Wayward Bus</value>
+</name>
 <wikilink>
 <type>uri</type>
 <value>http://en.wikipedia.org/wiki/The_Wayward_Bus?oldid=605183186</value>

@@ -32,6 +32,11 @@
 <type>uri</type>
 <value>http://dbpedia.org/resource/Elsa_Morante</value>
 </author>
+<name>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>L&apos;isola di Arturo</value>
+</name>
 <wikilink>
 <type>uri</type>
 <value>http://en.wikipedia.org/wiki/L&apos;isola_di_Arturo?oldid=598114598</value>
@@ -46,6 +51,11 @@
 <type>uri</type>
 <value>http://dbpedia.org/resource/Elsa_Morante</value>
 </author>
+<name>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>History: A Novel</value>
+</name>
 <wikilink>
 <type>uri</type>
 <value>http://en.wikipedia.org/wiki/History_(novel)?oldid=604592082</value>

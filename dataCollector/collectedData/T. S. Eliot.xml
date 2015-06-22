@@ -40,6 +40,11 @@
 <type>uri</type>
 <value>http://dbpedia.org/resource/T._S._Eliot</value>
 </author>
+<name>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>The Waste Land</value>
+</name>
 <released>
 <type>typed-literal</type>
 <datatype>http://www.w3.org/2001/XMLSchema#integer</datatype>
@@ -64,6 +69,11 @@
 <type>uri</type>
 <value>http://dbpedia.org/resource/T._S._Eliot</value>
 </author>
+<name>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>Four Quartets</value>
+</name>
 <released>
 <type>typed-literal</type>
 <datatype>http://www.w3.org/2001/XMLSchema#integer</datatype>

@@ -32,6 +32,11 @@
 <type>uri</type>
 <value>http://dbpedia.org/resource/Jonathan_Safran_Foer</value>
 </author>
+<name>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>Eating Animals</value>
+</name>
 <thumbnail>
 <type>uri</type>
 <value>http://commons.wikimedia.org/wiki/Special:FilePath/Jonathan_Safran_Foer_Shankbone_2009.jpg?width=300</value>
@@ -60,6 +65,11 @@
 <type>uri</type>
 <value>http://dbpedia.org/resource/Jonathan_Safran_Foer</value>
 </author>
+<name>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>Everything Is Illuminated</value>
+</name>
 <released>
 <type>typed-literal</type>
 <datatype>http://www.w3.org/2001/XMLSchema#date</datatype>
@@ -84,6 +94,11 @@
 <type>uri</type>
 <value>http://dbpedia.org/resource/Jonathan_Safran_Foer</value>
 </author>
+<name>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>Extremely Loud and Incredibly Close</value>
+</name>
 <released>
 <type>typed-literal</type>
 <datatype>http://www.w3.org/2001/XMLSchema#date</datatype>

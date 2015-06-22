@@ -28,6 +28,11 @@
 <type>uri</type>
 <value>http://dbpedia.org/resource/John_Ashbery</value>
 </author>
+<name>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>Hotel Lautréamont</value>
+</name>
 <wikilink>
 <type>uri</type>
 <value>http://en.wikipedia.org/wiki/Hotel_Lautréamont?oldid=569596213</value>
@@ -42,6 +47,11 @@
 <type>uri</type>
 <value>http://dbpedia.org/resource/John_Ashbery</value>
 </author>
+<name>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>Self-portrait in a Convex Mirror</value>
+</name>
 <wikilink>
 <type>uri</type>
 <value>http://en.wikipedia.org/wiki/Self-portrait_in_a_Convex_Mirror_(book)?oldid=482664117</value>
@@ -56,6 +66,11 @@
 <type>uri</type>
 <value>http://dbpedia.org/resource/John_Ashbery</value>
 </author>
+<name>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>Girls on the Run</value>
+</name>
 <wikilink>
 <type>uri</type>
 <value>http://en.wikipedia.org/wiki/Girls_on_the_Run_(poem)?oldid=481349907</value>
@@ -70,6 +85,11 @@
 <type>uri</type>
 <value>http://dbpedia.org/resource/John_Ashbery</value>
 </author>
+<name>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>Planisphere</value>
+</name>
 <wikilink>
 <type>uri</type>
 <value>http://en.wikipedia.org/wiki/Planisphere_(book)?oldid=536409789</value>
@@ -84,6 +104,11 @@
 <type>uri</type>
 <value>http://dbpedia.org/resource/John_Ashbery</value>
 </author>
+<name>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>Flow Chart</value>
+</name>
 <wikilink>
 <type>uri</type>
 <value>http://en.wikipedia.org/wiki/Flow_Chart?oldid=599019242</value>
@@ -98,6 +123,11 @@
 <type>uri</type>
 <value>http://dbpedia.org/resource/John_Ashbery</value>
 </author>
+<name>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>Where Shall I Wander</value>
+</name>
 <wikilink>
 <type>uri</type>
 <value>http://en.wikipedia.org/wiki/Where_Shall_I_Wander?oldid=482369435</value>
@@ -112,6 +142,11 @@
 <type>uri</type>
 <value>http://dbpedia.org/resource/John_Ashbery</value>
 </author>
+<name>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>Chinese Whispers</value>
+</name>
 <wikilink>
 <type>uri</type>
 <value>http://en.wikipedia.org/wiki/Chinese_Whispers_(Ashbery_book)?oldid=487545742</value>
@@ -126,6 +161,11 @@
 <type>uri</type>
 <value>http://dbpedia.org/resource/John_Ashbery</value>
 </author>
+<name>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>The Tennis Court Oath</value>
+</name>
 <wikilink>
 <type>uri</type>
 <value>http://en.wikipedia.org/wiki/The_Tennis_Court_Oath_(book)?oldid=521079139</value>

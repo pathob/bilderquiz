@@ -28,6 +28,11 @@
 <type>uri</type>
 <value>http://dbpedia.org/resource/Terry_Pratchett</value>
 </author>
+<name>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>The Colour of Magic</value>
+</name>
 <thumbnail>
 <type>uri</type>
 <value>http://en.wikipedia.org/wiki/Special:FilePath/TCoM.cover.jpg?width=300</value>
@@ -51,6 +56,11 @@
 <type>uri</type>
 <value>http://dbpedia.org/resource/Terry_Pratchett</value>
 </author>
+<name>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>Thief of Time</value>
+</name>
 <thumbnail>
 <type>uri</type>
 <value>http://commons.wikimedia.org/wiki/Special:FilePath/Week_z00.jpg?width=300</value>
@@ -74,6 +84,11 @@
 <type>uri</type>
 <value>http://dbpedia.org/resource/Terry_Pratchett</value>
 </author>
+<name>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>Good Omens</value>
+</name>
 <released>
 <type>typed-literal</type>
 <datatype>http://www.w3.org/2001/XMLSchema#date</datatype>
@@ -98,6 +113,11 @@
 <type>uri</type>
 <value>http://dbpedia.org/resource/Terry_Pratchett</value>
 </author>
+<name>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>The Long War</value>
+</name>
 <released>
 <type>typed-literal</type>
 <datatype>http://www.w3.org/2001/XMLSchema#date</datatype>
@@ -117,6 +137,11 @@
 <type>uri</type>
 <value>http://dbpedia.org/resource/Terry_Pratchett</value>
 </author>
+<name>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>The Long Earth</value>
+</name>
 <released>
 <type>typed-literal</type>
 <datatype>http://www.w3.org/2001/XMLSchema#date</datatype>
@@ -136,6 +161,11 @@
 <type>uri</type>
 <value>http://dbpedia.org/resource/Terry_Pratchett</value>
 </author>
+<name>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>Death&apos;s Domain</value>
+</name>
 <released>
 <type>typed-literal</type>
 <datatype>http://www.w3.org/2001/XMLSchema#integer</datatype>
@@ -155,6 +185,11 @@
 <type>uri</type>
 <value>http://dbpedia.org/resource/Terry_Pratchett</value>
 </author>
+<name>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>Wyrd Sisters</value>
+</name>
 <published>
 <type>typed-literal</type>
 <datatype>http://www.w3.org/2001/XMLSchema#integer</datatype>
@@ -179,6 +214,11 @@
 <type>uri</type>
 <value>http://dbpedia.org/resource/Terry_Pratchett</value>
 </author>
+<name>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>Unseen Academicals</value>
+</name>
 <wikilink>
 <type>uri</type>
 <value>http://en.wikipedia.org/wiki/Unseen_Academicals?oldid=586336560</value>
@@ -198,6 +238,11 @@
 <type>uri</type>
 <value>http://dbpedia.org/resource/Terry_Pratchett</value>
 </author>
+<name>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>Mort</value>
+</name>
 <wikilink>
 <type>uri</type>
 <value>http://en.wikipedia.org/wiki/Mort?oldid=602863813</value>
@@ -217,6 +262,11 @@
 <type>uri</type>
 <value>http://dbpedia.org/resource/Terry_Pratchett</value>
 </author>
+<name>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>The Truth</value>
+</name>
 <wikilink>
 <type>uri</type>
 <value>http://en.wikipedia.org/wiki/The_Truth_(novel)?oldid=587105301</value>
@@ -236,6 +286,11 @@
 <type>uri</type>
 <value>http://dbpedia.org/resource/Terry_Pratchett</value>
 </author>
+<name>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>A Hat Full of Sky</value>
+</name>
 <wikilink>
 <type>uri</type>
 <value>http://en.wikipedia.org/wiki/A_Hat_Full_of_Sky?oldid=586394863</value>
@@ -255,6 +310,11 @@
 <type>uri</type>
 <value>http://dbpedia.org/resource/Terry_Pratchett</value>
 </author>
+<name>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>Carpe Jugulum</value>
+</name>
 <wikilink>
 <type>uri</type>
 <value>http://en.wikipedia.org/wiki/Carpe_Jugulum?oldid=606602399</value>
@@ -274,6 +334,11 @@
 <type>uri</type>
 <value>http://dbpedia.org/resource/Terry_Pratchett</value>
 </author>
+<name>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>Jingo</value>
+</name>
 <wikilink>
 <type>uri</type>
 <value>http://en.wikipedia.org/wiki/Jingo_(novel)?oldid=602964606</value>
@@ -293,6 +358,11 @@
 <type>uri</type>
 <value>http://dbpedia.org/resource/Terry_Pratchett</value>
 </author>
+<name>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>Small Gods</value>
+</name>
 <wikilink>
 <type>uri</type>
 <value>http://en.wikipedia.org/wiki/Small_Gods?oldid=581687410</value>
@@ -312,6 +382,11 @@
 <type>uri</type>
 <value>http://dbpedia.org/resource/Terry_Pratchett</value>
 </author>
+<name>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>The Last Continent</value>
+</name>
 <wikilink>
 <type>uri</type>
 <value>http://en.wikipedia.org/wiki/The_Last_Continent?oldid=599340515</value>
@@ -331,6 +406,11 @@
 <type>uri</type>
 <value>http://dbpedia.org/resource/Terry_Pratchett</value>
 </author>
+<name>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>Equal Rites</value>
+</name>
 <wikilink>
 <type>uri</type>
 <value>http://en.wikipedia.org/wiki/Equal_Rites?oldid=577874411</value>
@@ -350,6 +430,11 @@
 <type>uri</type>
 <value>http://dbpedia.org/resource/Terry_Pratchett</value>
 </author>
+<name>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>Feet of Clay</value>
+</name>
 <wikilink>
 <type>uri</type>
 <value>http://en.wikipedia.org/wiki/Feet_of_Clay_(novel)?oldid=571719486</value>
@@ -369,6 +454,11 @@
 <type>uri</type>
 <value>http://dbpedia.org/resource/Terry_Pratchett</value>
 </author>
+<name>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>Guards! Guards!</value>
+</name>
 <wikilink>
 <type>uri</type>
 <value>http://en.wikipedia.org/wiki/Guards!_Guards!?oldid=601293792</value>
@@ -388,6 +478,11 @@
 <type>uri</type>
 <value>http://dbpedia.org/resource/Terry_Pratchett</value>
 </author>
+<name>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>Pyramids</value>
+</name>
 <wikilink>
 <type>uri</type>
 <value>http://en.wikipedia.org/wiki/Pyramids_(novel)?oldid=589754629</value>
@@ -407,6 +502,11 @@
 <type>uri</type>
 <value>http://dbpedia.org/resource/Terry_Pratchett</value>
 </author>
+<name>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>The Light Fantastic</value>
+</name>
 <wikilink>
 <type>uri</type>
 <value>http://en.wikipedia.org/wiki/The_Light_Fantastic?oldid=603975294</value>
@@ -426,6 +526,11 @@
 <type>uri</type>
 <value>http://dbpedia.org/resource/Terry_Pratchett</value>
 </author>
+<name>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>Sourcery</value>
+</name>
 <wikilink>
 <type>uri</type>
 <value>http://en.wikipedia.org/wiki/Sourcery?oldid=577005121</value>
@@ -445,6 +550,11 @@
 <type>uri</type>
 <value>http://dbpedia.org/resource/Terry_Pratchett</value>
 </author>
+<name>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>Lords and Ladies</value>
+</name>
 <wikilink>
 <type>uri</type>
 <value>http://en.wikipedia.org/wiki/Lords_and_Ladies_(novel)?oldid=606600781</value>
@@ -464,6 +574,11 @@
 <type>uri</type>
 <value>http://dbpedia.org/resource/Terry_Pratchett</value>
 </author>
+<name>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>The Fifth Elephant</value>
+</name>
 <wikilink>
 <type>uri</type>
 <value>http://en.wikipedia.org/wiki/The_Fifth_Elephant?oldid=606601926</value>
@@ -483,6 +598,11 @@
 <type>uri</type>
 <value>http://dbpedia.org/resource/Terry_Pratchett</value>
 </author>
+<name>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>Witches Abroad</value>
+</name>
 <wikilink>
 <type>uri</type>
 <value>http://en.wikipedia.org/wiki/Witches_Abroad?oldid=606601090</value>
@@ -502,6 +622,11 @@
 <type>uri</type>
 <value>http://dbpedia.org/resource/Terry_Pratchett</value>
 </author>
+<name>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>Thud!</value>
+</name>
 <wikilink>
 <type>uri</type>
 <value>http://en.wikipedia.org/wiki/Thud!?oldid=598525327</value>
@@ -521,6 +646,11 @@
 <type>uri</type>
 <value>http://dbpedia.org/resource/Terry_Pratchett</value>
 </author>
+<name>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>Soul Music</value>
+</name>
 <wikilink>
 <type>uri</type>
 <value>http://en.wikipedia.org/wiki/Soul_Music_(novel)?oldid=594564235</value>
@@ -540,6 +670,11 @@
 <type>uri</type>
 <value>http://dbpedia.org/resource/Terry_Pratchett</value>
 </author>
+<name>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>The Amazing Maurice and his Educated Rodents</value>
+</name>
 <wikilink>
 <type>uri</type>
 <value>http://en.wikipedia.org/wiki/The_Amazing_Maurice_and_his_Educated_Rodents?oldid=606601895</value>
@@ -559,6 +694,11 @@
 <type>uri</type>
 <value>http://dbpedia.org/resource/Terry_Pratchett</value>
 </author>
+<name>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>The Wee Free Men</value>
+</name>
 <wikilink>
 <type>uri</type>
 <value>http://en.wikipedia.org/wiki/The_Wee_Free_Men?oldid=605378523</value>
@@ -578,6 +718,11 @@
 <type>uri</type>
 <value>http://dbpedia.org/resource/Terry_Pratchett</value>
 </author>
+<name>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>Eric</value>
+</name>
 <wikilink>
 <type>uri</type>
 <value>http://en.wikipedia.org/wiki/Eric_(novel)?oldid=606602927</value>
@@ -597,6 +742,11 @@
 <type>uri</type>
 <value>http://dbpedia.org/resource/Terry_Pratchett</value>
 </author>
+<name>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>The Last Hero</value>
+</name>
 <wikilink>
 <type>uri</type>
 <value>http://en.wikipedia.org/wiki/The_Last_Hero?oldid=602122076</value>
@@ -616,6 +766,11 @@
 <type>uri</type>
 <value>http://dbpedia.org/resource/Terry_Pratchett</value>
 </author>
+<name>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>Snuff</value>
+</name>
 <wikilink>
 <type>uri</type>
 <value>http://en.wikipedia.org/wiki/Snuff_(Pratchett_novel)?oldid=591785645</value>
@@ -635,6 +790,11 @@
 <type>uri</type>
 <value>http://dbpedia.org/resource/Terry_Pratchett</value>
 </author>
+<name>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>I Shall Wear Midnight</value>
+</name>
 <wikilink>
 <type>uri</type>
 <value>http://en.wikipedia.org/wiki/I_Shall_Wear_Midnight?oldid=600203632</value>
@@ -654,6 +814,11 @@
 <type>uri</type>
 <value>http://dbpedia.org/resource/Terry_Pratchett</value>
 </author>
+<name>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>Wintersmith</value>
+</name>
 <wikilink>
 <type>uri</type>
 <value>http://en.wikipedia.org/wiki/Wintersmith?oldid=587195721</value>
@@ -673,6 +838,11 @@
 <type>uri</type>
 <value>http://dbpedia.org/resource/Terry_Pratchett</value>
 </author>
+<name>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>Monstrous Regiment</value>
+</name>
 <wikilink>
 <type>uri</type>
 <value>http://en.wikipedia.org/wiki/Monstrous_Regiment_(novel)?oldid=606284589</value>
@@ -692,6 +862,11 @@
 <type>uri</type>
 <value>http://dbpedia.org/resource/Terry_Pratchett</value>
 </author>
+<name>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>Moving Pictures</value>
+</name>
 <wikilink>
 <type>uri</type>
 <value>http://en.wikipedia.org/wiki/Moving_Pictures_(novel)?oldid=605660164</value>
@@ -711,6 +886,11 @@
 <type>uri</type>
 <value>http://dbpedia.org/resource/Terry_Pratchett</value>
 </author>
+<name>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>Night Watch</value>
+</name>
 <wikilink>
 <type>uri</type>
 <value>http://en.wikipedia.org/wiki/Night_Watch_(Discworld)?oldid=605787846</value>
@@ -730,6 +910,11 @@
 <type>uri</type>
 <value>http://dbpedia.org/resource/Terry_Pratchett</value>
 </author>
+<name>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>Interesting Times</value>
+</name>
 <wikilink>
 <type>uri</type>
 <value>http://en.wikipedia.org/wiki/Interesting_Times?oldid=599953986</value>
@@ -749,6 +934,11 @@
 <type>uri</type>
 <value>http://dbpedia.org/resource/Terry_Pratchett</value>
 </author>
+<name>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>Hogfather</value>
+</name>
 <wikilink>
 <type>uri</type>
 <value>http://en.wikipedia.org/wiki/Hogfather?oldid=582702525</value>
@@ -768,6 +958,11 @@
 <type>uri</type>
 <value>http://dbpedia.org/resource/Terry_Pratchett</value>
 </author>
+<name>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>Maskerade</value>
+</name>
 <wikilink>
 <type>uri</type>
 <value>http://en.wikipedia.org/wiki/Maskerade?oldid=599633530</value>
@@ -787,6 +982,11 @@
 <type>uri</type>
 <value>http://dbpedia.org/resource/Terry_Pratchett</value>
 </author>
+<name>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>Men at Arms</value>
+</name>
 <wikilink>
 <type>uri</type>
 <value>http://en.wikipedia.org/wiki/Men_at_Arms?oldid=605645371</value>
@@ -806,6 +1006,11 @@
 <type>uri</type>
 <value>http://dbpedia.org/resource/Terry_Pratchett</value>
 </author>
+<name>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>Reaper Man</value>
+</name>
 <wikilink>
 <type>uri</type>
 <value>http://en.wikipedia.org/wiki/Reaper_Man?oldid=568302188</value>
@@ -825,6 +1030,11 @@
 <type>uri</type>
 <value>http://dbpedia.org/resource/Terry_Pratchett</value>
 </author>
+<name>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>Going Postal</value>
+</name>
 <wikilink>
 <type>uri</type>
 <value>http://en.wikipedia.org/wiki/Going_Postal?oldid=591787899</value>
@@ -844,6 +1054,11 @@
 <type>uri</type>
 <value>http://dbpedia.org/resource/Terry_Pratchett</value>
 </author>
+<name>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>Making Money</value>
+</name>
 <wikilink>
 <type>uri</type>
 <value>http://en.wikipedia.org/wiki/Making_Money?oldid=606127655</value>
@@ -858,6 +1073,11 @@
 <type>uri</type>
 <value>http://dbpedia.org/resource/Terry_Pratchett</value>
 </author>
+<name>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>Johnny and the Bomb</value>
+</name>
 <wikilink>
 <type>uri</type>
 <value>http://en.wikipedia.org/wiki/Johnny_and_the_Bomb?oldid=605184786</value>
@@ -872,6 +1092,11 @@
 <type>uri</type>
 <value>http://dbpedia.org/resource/Terry_Pratchett</value>
 </author>
+<name>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>Johnny and the Dead</value>
+</name>
 <wikilink>
 <type>uri</type>
 <value>http://en.wikipedia.org/wiki/Johnny_and_the_Dead?oldid=582725026</value>
@@ -886,6 +1111,11 @@
 <type>uri</type>
 <value>http://dbpedia.org/resource/Terry_Pratchett</value>
 </author>
+<name>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>Only You Can Save Mankind</value>
+</name>
 <wikilink>
 <type>uri</type>
 <value>http://en.wikipedia.org/wiki/Only_You_Can_Save_Mankind?oldid=605525986</value>
@@ -900,6 +1130,11 @@
 <type>uri</type>
 <value>http://dbpedia.org/resource/Terry_Pratchett</value>
 </author>
+<name>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>The Science of Discworld</value>
+</name>
 <wikilink>
 <type>uri</type>
 <value>http://en.wikipedia.org/wiki/The_Science_of_Discworld?oldid=563417515</value>
@@ -914,6 +1149,11 @@
 <type>uri</type>
 <value>http://dbpedia.org/resource/Terry_Pratchett</value>
 </author>
+<name>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>The Science of Discworld II: The Globe</value>
+</name>
 <wikilink>
 <type>uri</type>
 <value>http://en.wikipedia.org/wiki/The_Science_of_Discworld_II:_The_Globe?oldid=584090474</value>
@@ -928,6 +1168,11 @@
 <type>uri</type>
 <value>http://dbpedia.org/resource/Terry_Pratchett</value>
 </author>
+<name>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>Dodger</value>
+</name>
 <wikilink>
 <type>uri</type>
 <value>http://en.wikipedia.org/wiki/Dodger_(novel)?oldid=599287590</value>
@@ -942,6 +1187,11 @@
 <type>uri</type>
 <value>http://dbpedia.org/resource/Terry_Pratchett</value>
 </author>
+<name>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>Strata</value>
+</name>
 <wikilink>
 <type>uri</type>
 <value>http://en.wikipedia.org/wiki/Strata_(novel)?oldid=583383286</value>
@@ -956,6 +1206,11 @@
 <type>uri</type>
 <value>http://dbpedia.org/resource/Terry_Pratchett</value>
 </author>
+<name>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>The Dark Side of the Sun</value>
+</name>
 <wikilink>
 <type>uri</type>
 <value>http://en.wikipedia.org/wiki/The_Dark_Side_of_the_Sun?oldid=588569958</value>
@@ -970,6 +1225,11 @@
 <type>uri</type>
 <value>http://dbpedia.org/resource/Terry_Pratchett</value>
 </author>
+<name>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>A Blink of the Screen</value>
+</name>
 <wikilink>
 <type>uri</type>
 <value>http://en.wikipedia.org/wiki/A_Blink_of_the_Screen?oldid=589282641</value>
@@ -984,6 +1244,11 @@
 <type>uri</type>
 <value>http://dbpedia.org/resource/Terry_Pratchett</value>
 </author>
+<name>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>The Art of Discworld</value>
+</name>
 <wikilink>
 <type>uri</type>
 <value>http://en.wikipedia.org/wiki/The_Art_of_Discworld?oldid=563417578</value>
@@ -998,6 +1263,11 @@
 <type>uri</type>
 <value>http://dbpedia.org/resource/Terry_Pratchett</value>
 </author>
+<name>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>The Discworld Mapp</value>
+</name>
 <wikilink>
 <type>uri</type>
 <value>http://en.wikipedia.org/wiki/The_Discworld_Mapp?oldid=563417698</value>
@@ -1012,6 +1282,11 @@
 <type>uri</type>
 <value>http://dbpedia.org/resource/Terry_Pratchett</value>
 </author>
+<name>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>The Unadulterated Cat</value>
+</name>
 <wikilink>
 <type>uri</type>
 <value>http://en.wikipedia.org/wiki/The_Unadulterated_Cat?oldid=594504115</value>
@@ -1026,6 +1301,11 @@
 <type>uri</type>
 <value>http://dbpedia.org/resource/Terry_Pratchett</value>
 </author>
+<name>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>Wit and Wisdom of Discworld</value>
+</name>
 <wikilink>
 <type>uri</type>
 <value>http://en.wikipedia.org/wiki/Wit_and_Wisdom_of_Discworld?oldid=573864713</value>
@@ -1040,6 +1320,11 @@
 <type>uri</type>
 <value>http://dbpedia.org/resource/Terry_Pratchett</value>
 </author>
+<name>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>The Science of Discworld III: Darwin&amp;#39;s Watch</value>
+</name>
 <wikilink>
 <type>uri</type>
 <value>http://en.wikipedia.org/wiki/The_Science_of_Discworld_III:_Darwin&apos;s_Watch?oldid=595806143</value>
@@ -1054,6 +1339,11 @@
 <type>uri</type>
 <value>http://dbpedia.org/resource/Terry_Pratchett</value>
 </author>
+<name>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>The Science of Discworld IV: Judgement Day</value>
+</name>
 <wikilink>
 <type>uri</type>
 <value>http://en.wikipedia.org/wiki/The_Science_of_Discworld_IV:_Judgement_Day?oldid=606214520</value>
@@ -1068,6 +1358,11 @@
 <type>uri</type>
 <value>http://dbpedia.org/resource/Terry_Pratchett</value>
 </author>
+<name>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>Where&apos;s My Cow?</value>
+</name>
 <wikilink>
 <type>uri</type>
 <value>http://en.wikipedia.org/wiki/Where&apos;s_My_Cow%3F?oldid=603042281</value>
@@ -1082,6 +1377,11 @@
 <type>uri</type>
 <value>http://dbpedia.org/resource/Terry_Pratchett</value>
 </author>
+<name>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>The Discworld Companion</value>
+</name>
 <wikilink>
 <type>uri</type>
 <value>http://en.wikipedia.org/wiki/The_Discworld_Companion?oldid=606402267</value>
@@ -1096,6 +1396,11 @@
 <type>uri</type>
 <value>http://dbpedia.org/resource/Terry_Pratchett</value>
 </author>
+<name>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>A Tourist Guide to Lancre</value>
+</name>
 <wikilink>
 <type>uri</type>
 <value>http://en.wikipedia.org/wiki/A_Tourist_Guide_to_Lancre?oldid=563417703</value>
@@ -1110,6 +1415,11 @@
 <type>uri</type>
 <value>http://dbpedia.org/resource/Terry_Pratchett</value>
 </author>
+<name>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>Nation</value>
+</name>
 <wikilink>
 <type>uri</type>
 <value>http://en.wikipedia.org/wiki/Nation_(novel)?oldid=591490315</value>
@@ -1124,6 +1434,11 @@
 <type>uri</type>
 <value>http://dbpedia.org/resource/Terry_Pratchett</value>
 </author>
+<name>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>The Carpet People</value>
+</name>
 <wikilink>
 <type>uri</type>
 <value>http://en.wikipedia.org/wiki/The_Carpet_People?oldid=563415132</value>
@@ -1138,6 +1453,11 @@
 <type>uri</type>
 <value>http://dbpedia.org/resource/Terry_Pratchett</value>
 </author>
+<name>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>Raising Steam</value>
+</name>
 <wikilink>
 <type>uri</type>
 <value>http://en.wikipedia.org/wiki/Raising_Steam?oldid=593854102</value>
@@ -1152,6 +1472,11 @@
 <type>uri</type>
 <value>http://dbpedia.org/resource/Terry_Pratchett</value>
 </author>
+<name>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>Raising Taxes</value>
+</name>
 <wikilink>
 <type>uri</type>
 <value>http://en.wikipedia.org/wiki/Raising_Taxes?oldid=595949744</value>

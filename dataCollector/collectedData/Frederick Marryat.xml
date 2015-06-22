@@ -40,6 +40,11 @@
 <type>uri</type>
 <value>http://dbpedia.org/resource/Frederick_Marryat</value>
 </author>
+<name>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>The Settlers in Canada</value>
+</name>
 <thumbnail>
 <type>uri</type>
 <value>http://commons.wikimedia.org/wiki/Special:FilePath/The_Settlers_in_Canada_-_1910_book_cover.jpg?width=300</value>
@@ -58,6 +63,11 @@
 <type>uri</type>
 <value>http://dbpedia.org/resource/Frederick_Marryat</value>
 </author>
+<name>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>The Children of the New Forest</value>
+</name>
 <thumbnail>
 <type>uri</type>
 <value>http://commons.wikimedia.org/wiki/Special:FilePath/The_Children_of_the_New_Forest_-_1911_book_cover.jpg?width=300</value>
@@ -76,6 +86,11 @@
 <type>uri</type>
 <value>http://dbpedia.org/resource/Frederick_Marryat</value>
 </author>
+<name>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>Masterman Ready, or the Wreck of the Pacific</value>
+</name>
 <thumbnail>
 <type>uri</type>
 <value>http://commons.wikimedia.org/wiki/Special:FilePath/Masterman_Ready_-_1886_book_cover.jpg?width=300</value>
@@ -94,6 +109,11 @@
 <type>uri</type>
 <value>http://dbpedia.org/resource/Frederick_Marryat</value>
 </author>
+<name>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>The Phantom Ship</value>
+</name>
 <thumbnail>
 <type>uri</type>
 <value>http://commons.wikimedia.org/wiki/Special:FilePath/The_Phantom_Ship_-_1847_frontispiece.jpeg?width=300</value>

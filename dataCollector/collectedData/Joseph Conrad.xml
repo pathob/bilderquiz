@@ -47,6 +47,11 @@
 <type>uri</type>
 <value>http://dbpedia.org/resource/Joseph_Conrad</value>
 </author>
+<name>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>Heart of Darkness</value>
+</name>
 <thumbnail>
 <type>uri</type>
 <value>http://commons.wikimedia.org/wiki/Special:FilePath/Blackwood&apos;s_Magazine_-_1899_cover.jpg?width=300</value>
@@ -75,6 +80,11 @@
 <type>uri</type>
 <value>http://dbpedia.org/resource/Joseph_Conrad</value>
 </author>
+<name>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>The Shadow Line</value>
+</name>
 <thumbnail>
 <type>uri</type>
 <value>http://en.wikipedia.org/wiki/Special:FilePath/Shadow_line.jpg?width=300</value>
@@ -98,6 +108,11 @@
 <type>uri</type>
 <value>http://dbpedia.org/resource/Joseph_Conrad</value>
 </author>
+<name>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>The Secret Sharer</value>
+</name>
 <released>
 <type>typed-literal</type>
 <datatype>http://www.w3.org/2001/XMLSchema#integer</datatype>
@@ -122,6 +137,11 @@
 <type>uri</type>
 <value>http://dbpedia.org/resource/Joseph_Conrad</value>
 </author>
+<name>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>Typhoon</value>
+</name>
 <released>
 <type>typed-literal</type>
 <datatype>http://www.w3.org/2001/XMLSchema#integer</datatype>
@@ -146,6 +166,11 @@
 <type>uri</type>
 <value>http://dbpedia.org/resource/Joseph_Conrad</value>
 </author>
+<name>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>Lord Jim</value>
+</name>
 <released>
 <type>typed-literal</type>
 <datatype>http://www.w3.org/2001/XMLSchema#integer</datatype>
@@ -170,6 +195,11 @@
 <type>uri</type>
 <value>http://dbpedia.org/resource/Joseph_Conrad</value>
 </author>
+<name>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>The Secret Agent</value>
+</name>
 <released>
 <type>literal</type>
 <xml:lang>en</xml:lang>
@@ -194,6 +224,11 @@
 <type>uri</type>
 <value>http://dbpedia.org/resource/Joseph_Conrad</value>
 </author>
+<name>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>Nostromo</value>
+</name>
 <released>
 <type>typed-literal</type>
 <datatype>http://www.w3.org/2001/XMLSchema#integer</datatype>
@@ -218,6 +253,11 @@
 <type>uri</type>
 <value>http://dbpedia.org/resource/Joseph_Conrad</value>
 </author>
+<name>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>Tales of Unrest</value>
+</name>
 <released>
 <type>typed-literal</type>
 <datatype>http://www.w3.org/2001/XMLSchema#integer</datatype>
@@ -237,6 +277,11 @@
 <type>uri</type>
 <value>http://dbpedia.org/resource/Joseph_Conrad</value>
 </author>
+<name>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>Under Western Eyes</value>
+</name>
 <released>
 <type>typed-literal</type>
 <datatype>http://www.w3.org/2001/XMLSchema#integer</datatype>
@@ -256,6 +301,11 @@
 <type>uri</type>
 <value>http://dbpedia.org/resource/Joseph_Conrad</value>
 </author>
+<name>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>The Inheritors: An Extravagant Story</value>
+</name>
 <released>
 <type>typed-literal</type>
 <datatype>http://www.w3.org/2001/XMLSchema#integer</datatype>
@@ -275,6 +325,11 @@
 <type>uri</type>
 <value>http://dbpedia.org/resource/Joseph_Conrad</value>
 </author>
+<name>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>Youth</value>
+</name>
 <published>
 <type>typed-literal</type>
 <datatype>http://www.w3.org/2001/XMLSchema#integer</datatype>
@@ -299,6 +354,11 @@
 <type>uri</type>
 <value>http://dbpedia.org/resource/Joseph_Conrad</value>
 </author>
+<name>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>Victory: An Island Tale</value>
+</name>
 <wikilink>
 <type>uri</type>
 <value>http://en.wikipedia.org/wiki/Victory_(novel)?oldid=604921383</value>
@@ -313,6 +373,11 @@
 <type>uri</type>
 <value>http://dbpedia.org/resource/Joseph_Conrad</value>
 </author>
+<name>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>The Rescue</value>
+</name>
 <wikilink>
 <type>uri</type>
 <value>http://en.wikipedia.org/wiki/The_Rescue_(Conrad_novel)?oldid=606590532</value>

@@ -38,6 +38,11 @@
 <type>uri</type>
 <value>http://dbpedia.org/resource/Aldous_Huxley</value>
 </author>
+<name>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>Ape and Essence</value>
+</name>
 <thumbnail>
 <type>uri</type>
 <value>http://en.wikipedia.org/wiki/Special:FilePath/Goya_etching_ape_and_essence.jpg?width=300</value>
@@ -56,6 +61,11 @@
 <type>uri</type>
 <value>http://dbpedia.org/resource/Aldous_Huxley</value>
 </author>
+<name>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>Time Must Have a Stop</value>
+</name>
 <released>
 <type>typed-literal</type>
 <datatype>http://www.w3.org/2001/XMLSchema#integer</datatype>
@@ -80,6 +90,11 @@
 <type>uri</type>
 <value>http://dbpedia.org/resource/Aldous_Huxley</value>
 </author>
+<name>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>After Many A Summer</value>
+</name>
 <released>
 <type>typed-literal</type>
 <datatype>http://www.w3.org/2001/XMLSchema#integer</datatype>
@@ -99,6 +114,11 @@
 <type>uri</type>
 <value>http://dbpedia.org/resource/Aldous_Huxley</value>
 </author>
+<name>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>The Genius and the Goddess</value>
+</name>
 <released>
 <type>literal</type>
 <xml:lang>en</xml:lang>
@@ -118,6 +138,11 @@
 <type>uri</type>
 <value>http://dbpedia.org/resource/Aldous_Huxley</value>
 </author>
+<name>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>Antic Hay</value>
+</name>
 <released>
 <type>typed-literal</type>
 <datatype>http://www.w3.org/2001/XMLSchema#integer</datatype>
@@ -137,6 +162,11 @@
 <type>uri</type>
 <value>http://dbpedia.org/resource/Aldous_Huxley</value>
 </author>
+<name>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>Crome Yellow</value>
+</name>
 <released>
 <type>typed-literal</type>
 <datatype>http://www.w3.org/2001/XMLSchema#integer</datatype>
@@ -156,6 +186,11 @@
 <type>uri</type>
 <value>http://dbpedia.org/resource/Aldous_Huxley</value>
 </author>
+<name>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>Eyeless in Gaza</value>
+</name>
 <released>
 <type>typed-literal</type>
 <datatype>http://www.w3.org/2001/XMLSchema#integer</datatype>
@@ -175,6 +210,11 @@
 <type>uri</type>
 <value>http://dbpedia.org/resource/Aldous_Huxley</value>
 </author>
+<name>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>Heaven and Hell</value>
+</name>
 <released>
 <type>typed-literal</type>
 <datatype>http://www.w3.org/2001/XMLSchema#integer</datatype>
@@ -194,6 +234,11 @@
 <type>uri</type>
 <value>http://dbpedia.org/resource/Aldous_Huxley</value>
 </author>
+<name>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>Island</value>
+</name>
 <released>
 <type>typed-literal</type>
 <datatype>http://www.w3.org/2001/XMLSchema#integer</datatype>
@@ -213,6 +258,11 @@
 <type>uri</type>
 <value>http://dbpedia.org/resource/Aldous_Huxley</value>
 </author>
+<name>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>Brave New World</value>
+</name>
 <published>
 <type>typed-literal</type>
 <datatype>http://www.w3.org/2001/XMLSchema#integer</datatype>
@@ -237,6 +287,11 @@
 <type>uri</type>
 <value>http://dbpedia.org/resource/Aldous_Huxley</value>
 </author>
+<name>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>The Devils of Loudun</value>
+</name>
 <published>
 <type>typed-literal</type>
 <datatype>http://www.w3.org/2001/XMLSchema#integer</datatype>
@@ -256,6 +311,11 @@
 <type>uri</type>
 <value>http://dbpedia.org/resource/Aldous_Huxley</value>
 </author>
+<name>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>Grey Eminence</value>
+</name>
 <wikilink>
 <type>uri</type>
 <value>http://en.wikipedia.org/wiki/Grey_Eminence?oldid=604731204</value>

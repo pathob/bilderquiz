@@ -115,6 +115,11 @@
 <type>uri</type>
 <value>http://dbpedia.org/resource/Stefan_Zweig</value>
 </author>
+<name>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>Confusion</value>
+</name>
 <thumbnail>
 <type>uri</type>
 <value>http://commons.wikimedia.org/wiki/Special:FilePath/(novella).jpg?width=300</value>
@@ -133,6 +138,11 @@
 <type>uri</type>
 <value>http://dbpedia.org/resource/Stefan_Zweig</value>
 </author>
+<name>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>Twenty-Four Hours in the Life of a Woman</value>
+</name>
 <wikilink>
 <type>uri</type>
 <value>http://en.wikipedia.org/wiki/Twenty-Four_Hours_in_the_Life_of_a_Woman?oldid=603261421</value>
@@ -152,6 +162,11 @@
 <type>uri</type>
 <value>http://dbpedia.org/resource/Stefan_Zweig</value>
 </author>
+<name>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>Beware of Pity</value>
+</name>
 <wikilink>
 <type>uri</type>
 <value>http://en.wikipedia.org/wiki/Beware_of_Pity_(novel)?oldid=587964609</value>
@@ -171,6 +186,11 @@
 <type>uri</type>
 <value>http://dbpedia.org/resource/Stefan_Zweig</value>
 </author>
+<name>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>Rausch der Verwandlung</value>
+</name>
 <wikilink>
 <type>uri</type>
 <value>http://en.wikipedia.org/wiki/The_Post_Office_Girl?oldid=603061447</value>
@@ -190,6 +210,11 @@
 <type>uri</type>
 <value>http://dbpedia.org/resource/Stefan_Zweig</value>
 </author>
+<name>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>Fear</value>
+</name>
 <wikilink>
 <type>uri</type>
 <value>http://en.wikipedia.org/wiki/Fear_(Zweig_novella)?oldid=541040068</value>
@@ -209,6 +234,11 @@
 <type>uri</type>
 <value>http://dbpedia.org/resource/Stefan_Zweig</value>
 </author>
+<name>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>Marie Antoinette. Bildnis eines mittleren Charakters</value>
+</name>
 <wikilink>
 <type>uri</type>
 <value>http://en.wikipedia.org/wiki/Marie_Antoinette:_The_Portrait_of_an_Average_Woman?oldid=603499836</value>

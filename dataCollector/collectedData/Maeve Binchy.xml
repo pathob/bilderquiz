@@ -34,6 +34,11 @@
 <type>uri</type>
 <value>http://dbpedia.org/resource/Maeve_Binchy</value>
 </author>
+<name>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>Tara Road</value>
+</name>
 <released>
 <type>typed-literal</type>
 <datatype>http://www.w3.org/2001/XMLSchema#date</datatype>
@@ -53,6 +58,11 @@
 <type>uri</type>
 <value>http://dbpedia.org/resource/Maeve_Binchy</value>
 </author>
+<name>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>The Glass Lake</value>
+</name>
 <released>
 <type>typed-literal</type>
 <datatype>http://www.w3.org/2001/XMLSchema#date</datatype>
@@ -72,6 +82,11 @@
 <type>uri</type>
 <value>http://dbpedia.org/resource/Maeve_Binchy</value>
 </author>
+<name>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>Heart and Soul</value>
+</name>
 <released>
 <type>typed-literal</type>
 <datatype>http://www.w3.org/2001/XMLSchema#integer</datatype>
@@ -91,6 +106,11 @@
 <type>uri</type>
 <value>http://dbpedia.org/resource/Maeve_Binchy</value>
 </author>
+<name>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>The Copper Beech</value>
+</name>
 <released>
 <type>typed-literal</type>
 <datatype>http://www.w3.org/2001/XMLSchema#integer</datatype>
@@ -110,6 +130,11 @@
 <type>uri</type>
 <value>http://dbpedia.org/resource/Maeve_Binchy</value>
 </author>
+<name>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>Evening Class</value>
+</name>
 <released>
 <type>typed-literal</type>
 <datatype>http://www.w3.org/2001/XMLSchema#date</datatype>
@@ -129,6 +154,11 @@
 <type>uri</type>
 <value>http://dbpedia.org/resource/Maeve_Binchy</value>
 </author>
+<name>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>Quentins</value>
+</name>
 <released>
 <type>typed-literal</type>
 <datatype>http://www.w3.org/2001/XMLSchema#integer</datatype>
@@ -148,6 +178,11 @@
 <type>uri</type>
 <value>http://dbpedia.org/resource/Maeve_Binchy</value>
 </author>
+<name>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>Light a Penny Candle</value>
+</name>
 <wikilink>
 <type>uri</type>
 <value>http://en.wikipedia.org/wiki/Light_a_Penny_Candle?oldid=589653338</value>
@@ -162,6 +197,11 @@
 <type>uri</type>
 <value>http://dbpedia.org/resource/Maeve_Binchy</value>
 </author>
+<name>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>Circle of Friends</value>
+</name>
 <wikilink>
 <type>uri</type>
 <value>http://en.wikipedia.org/wiki/Circle_of_Friends_(novel)?oldid=583145014</value>
@@ -176,6 +216,11 @@
 <type>uri</type>
 <value>http://dbpedia.org/resource/Maeve_Binchy</value>
 </author>
+<name>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>Nights of Rain and Stars</value>
+</name>
 <wikilink>
 <type>uri</type>
 <value>http://en.wikipedia.org/wiki/Nights_of_Rain_and_Stars?oldid=553315657</value>
@@ -190,6 +235,11 @@
 <type>uri</type>
 <value>http://dbpedia.org/resource/Maeve_Binchy</value>
 </author>
+<name>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>Scarlet Feather</value>
+</name>
 <wikilink>
 <type>uri</type>
 <value>http://en.wikipedia.org/wiki/Scarlet_Feather?oldid=544898209</value>

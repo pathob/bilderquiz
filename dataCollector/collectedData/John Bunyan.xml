@@ -41,6 +41,11 @@
 <type>uri</type>
 <value>http://dbpedia.org/resource/John_Bunyan</value>
 </author>
+<name>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>The Pilgrim&apos;s Progress</value>
+</name>
 <thumbnail>
 <type>uri</type>
 <value>http://commons.wikimedia.org/wiki/Special:FilePath/Pilgrim&apos;s_Progress_first_edition_1678.jpg?width=300</value>
@@ -64,6 +69,11 @@
 <type>uri</type>
 <value>http://dbpedia.org/resource/John_Bunyan</value>
 </author>
+<name>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>Grace Abounding to the Chief of Sinners</value>
+</name>
 <thumbnail>
 <type>uri</type>
 <value>http://commons.wikimedia.org/wiki/Special:FilePath/GraceAbounding.gif?width=300</value>
@@ -82,6 +92,11 @@
 <type>uri</type>
 <value>http://dbpedia.org/resource/John_Bunyan</value>
 </author>
+<name>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>The Holy War</value>
+</name>
 <wikilink>
 <type>uri</type>
 <value>http://en.wikipedia.org/wiki/The_Holy_War?oldid=594296879</value>

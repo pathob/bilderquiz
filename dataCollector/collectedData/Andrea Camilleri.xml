@@ -33,6 +33,11 @@
 <type>uri</type>
 <value>http://dbpedia.org/resource/Andrea_Camilleri</value>
 </author>
+<name>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>La pazienza del ragno</value>
+</name>
 <released>
 <type>typed-literal</type>
 <datatype>http://www.w3.org/2001/XMLSchema#integer</datatype>
@@ -57,6 +62,11 @@
 <type>uri</type>
 <value>http://dbpedia.org/resource/Andrea_Camilleri</value>
 </author>
+<name>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>The Shape of Water</value>
+</name>
 <released>
 <type>typed-literal</type>
 <datatype>http://www.w3.org/2001/XMLSchema#integer</datatype>
@@ -81,6 +91,11 @@
 <type>uri</type>
 <value>http://dbpedia.org/resource/Andrea_Camilleri</value>
 </author>
+<name>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>The Scent of the Night</value>
+</name>
 <released>
 <type>typed-literal</type>
 <datatype>http://www.w3.org/2001/XMLSchema#integer</datatype>
@@ -100,6 +115,11 @@
 <type>uri</type>
 <value>http://dbpedia.org/resource/Andrea_Camilleri</value>
 </author>
+<name>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>The Snack Thief</value>
+</name>
 <released>
 <type>typed-literal</type>
 <datatype>http://www.w3.org/2001/XMLSchema#integer</datatype>
@@ -119,6 +139,11 @@
 <type>uri</type>
 <value>http://dbpedia.org/resource/Andrea_Camilleri</value>
 </author>
+<name>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>The Track of Sand</value>
+</name>
 <released>
 <type>typed-literal</type>
 <datatype>http://www.w3.org/2001/XMLSchema#integer</datatype>
@@ -138,6 +163,11 @@
 <type>uri</type>
 <value>http://dbpedia.org/resource/Andrea_Camilleri</value>
 </author>
+<name>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>The Voice of the Violin</value>
+</name>
 <released>
 <type>typed-literal</type>
 <datatype>http://www.w3.org/2001/XMLSchema#integer</datatype>
@@ -157,6 +187,11 @@
 <type>uri</type>
 <value>http://dbpedia.org/resource/Andrea_Camilleri</value>
 </author>
+<name>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>Excursion to Tindari</value>
+</name>
 <released>
 <type>typed-literal</type>
 <datatype>http://www.w3.org/2001/XMLSchema#integer</datatype>
@@ -176,6 +211,11 @@
 <type>uri</type>
 <value>http://dbpedia.org/resource/Andrea_Camilleri</value>
 </author>
+<name>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>The Age of Doubt</value>
+</name>
 <released>
 <type>typed-literal</type>
 <datatype>http://www.w3.org/2001/XMLSchema#integer</datatype>
@@ -195,6 +235,11 @@
 <type>uri</type>
 <value>http://dbpedia.org/resource/Andrea_Camilleri</value>
 </author>
+<name>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>The Paper Moon</value>
+</name>
 <released>
 <type>typed-literal</type>
 <datatype>http://www.w3.org/2001/XMLSchema#integer</datatype>
@@ -214,6 +259,11 @@
 <type>uri</type>
 <value>http://dbpedia.org/resource/Andrea_Camilleri</value>
 </author>
+<name>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>The Terracotta Dog</value>
+</name>
 <released>
 <type>typed-literal</type>
 <datatype>http://www.w3.org/2001/XMLSchema#integer</datatype>
@@ -233,6 +283,11 @@
 <type>uri</type>
 <value>http://dbpedia.org/resource/Andrea_Camilleri</value>
 </author>
+<name>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>The Wings of the Sphinx</value>
+</name>
 <released>
 <type>typed-literal</type>
 <datatype>http://www.w3.org/2001/XMLSchema#integer</datatype>
@@ -252,6 +307,11 @@
 <type>uri</type>
 <value>http://dbpedia.org/resource/Andrea_Camilleri</value>
 </author>
+<name>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>Rounding the Mark</value>
+</name>
 <released>
 <type>typed-literal</type>
 <datatype>http://www.w3.org/2001/XMLSchema#integer</datatype>
@@ -271,6 +331,11 @@
 <type>uri</type>
 <value>http://dbpedia.org/resource/Andrea_Camilleri</value>
 </author>
+<name>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>The Potter&apos;s Field</value>
+</name>
 <released>
 <type>typed-literal</type>
 <datatype>http://www.w3.org/2001/XMLSchema#integer</datatype>
@@ -290,6 +355,11 @@
 <type>uri</type>
 <value>http://dbpedia.org/resource/Andrea_Camilleri</value>
 </author>
+<name>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>August Heat</value>
+</name>
 <released>
 <type>typed-literal</type>
 <datatype>http://www.w3.org/2001/XMLSchema#integer</datatype>

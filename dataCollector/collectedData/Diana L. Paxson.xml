@@ -26,6 +26,11 @@
 <type>uri</type>
 <value>http://dbpedia.org/resource/Diana_L._Paxson</value>
 </author>
+<name>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>Lady of Avalon</value>
+</name>
 <released>
 <type>typed-literal</type>
 <datatype>http://www.w3.org/2001/XMLSchema#date</datatype>

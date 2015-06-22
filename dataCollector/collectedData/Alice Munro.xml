@@ -31,6 +31,11 @@
 <type>uri</type>
 <value>http://dbpedia.org/resource/Alice_Munro</value>
 </author>
+<name>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>Too Much Happiness</value>
+</name>
 <released>
 <type>typed-literal</type>
 <datatype>http://www.w3.org/2001/XMLSchema#date</datatype>
@@ -55,6 +60,11 @@
 <type>uri</type>
 <value>http://dbpedia.org/resource/Alice_Munro</value>
 </author>
+<name>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>Runaway (the short stories book)</value>
+</name>
 <released>
 <type>typed-literal</type>
 <datatype>http://www.w3.org/2001/XMLSchema#integer</datatype>
@@ -79,6 +89,11 @@
 <type>uri</type>
 <value>http://dbpedia.org/resource/Alice_Munro</value>
 </author>
+<name>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>The Progress of Love</value>
+</name>
 <published>
 <type>literal</type>
 <xml:lang>en</xml:lang>
@@ -103,6 +118,11 @@
 <type>uri</type>
 <value>http://dbpedia.org/resource/Alice_Munro</value>
 </author>
+<name>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>Lives of Girls and Women</value>
+</name>
 <wikilink>
 <type>uri</type>
 <value>http://en.wikipedia.org/wiki/Lives_of_Girls_and_Women?oldid=588982295</value>
@@ -122,6 +142,11 @@
 <type>uri</type>
 <value>http://dbpedia.org/resource/Alice_Munro</value>
 </author>
+<name>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>Dear Life</value>
+</name>
 <wikilink>
 <type>uri</type>
 <value>http://en.wikipedia.org/wiki/Dear_Life?oldid=594451494</value>
@@ -141,6 +166,11 @@
 <type>uri</type>
 <value>http://dbpedia.org/resource/Alice_Munro</value>
 </author>
+<name>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>Who Do You Think You Are?</value>
+</name>
 <wikilink>
 <type>uri</type>
 <value>http://en.wikipedia.org/wiki/Who_Do_You_Think_You_Are%3F_(book)?oldid=605676727</value>

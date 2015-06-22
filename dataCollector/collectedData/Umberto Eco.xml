@@ -34,6 +34,11 @@
 <type>uri</type>
 <value>http://dbpedia.org/resource/Umberto_Eco</value>
 </author>
+<name>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>Baudolino</value>
+</name>
 <thumbnail>
 <type>uri</type>
 <value>http://commons.wikimedia.org/wiki/Special:FilePath/Nuremberg_chronicles_-_Strange_People_-_Umbrella_Foot_(XIIr).jpg?width=300</value>
@@ -57,6 +62,11 @@
 <type>uri</type>
 <value>http://dbpedia.org/resource/Umberto_Eco</value>
 </author>
+<name>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>Foucault&apos;s Pendulum</value>
+</name>
 <thumbnail>
 <type>uri</type>
 <value>http://commons.wikimedia.org/wiki/Special:FilePath/Pendule_de_Foucault_au_musee_des_arts_et_metiers.jpg?width=300</value>
@@ -80,6 +90,11 @@
 <type>uri</type>
 <value>http://dbpedia.org/resource/Umberto_Eco</value>
 </author>
+<name>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>Il Nome della Rosa</value>
+</name>
 <thumbnail>
 <type>uri</type>
 <value>http://commons.wikimedia.org/wiki/Special:FilePath/Aedificium_Labyrinth.jpg?width=300</value>
@@ -103,6 +118,11 @@
 <type>uri</type>
 <value>http://dbpedia.org/resource/Umberto_Eco</value>
 </author>
+<name>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>The Prague Cemetery</value>
+</name>
 <wikilink>
 <type>uri</type>
 <value>http://en.wikipedia.org/wiki/The_Prague_Cemetery?oldid=602209845</value>
@@ -122,6 +142,11 @@
 <type>uri</type>
 <value>http://dbpedia.org/resource/Umberto_Eco</value>
 </author>
+<name>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>The Island of the Day Before</value>
+</name>
 <wikilink>
 <type>uri</type>
 <value>http://en.wikipedia.org/wiki/The_Island_of_the_Day_Before?oldid=592960835</value>
@@ -141,6 +166,11 @@
 <type>uri</type>
 <value>http://dbpedia.org/resource/Umberto_Eco</value>
 </author>
+<name>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>The Mysterious Flame of Queen Loana</value>
+</name>
 <wikilink>
 <type>uri</type>
 <value>http://en.wikipedia.org/wiki/The_Mysterious_Flame_of_Queen_Loana?oldid=595465950</value>
@@ -160,6 +190,11 @@
 <type>uri</type>
 <value>http://dbpedia.org/resource/Umberto_Eco</value>
 </author>
+<name>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>Six Walks in the Fictional Woods</value>
+</name>
 <wikilink>
 <type>uri</type>
 <value>http://en.wikipedia.org/wiki/Six_Walks_in_the_Fictional_Woods?oldid=599992151</value>
@@ -174,6 +209,11 @@
 <type>uri</type>
 <value>http://dbpedia.org/resource/Umberto_Eco</value>
 </author>
+<name>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>Belief or Nonbelief?</value>
+</name>
 <wikilink>
 <type>uri</type>
 <value>http://en.wikipedia.org/wiki/Belief_or_Nonbelief%3F?oldid=589161679</value>

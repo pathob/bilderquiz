@@ -30,6 +30,11 @@
 <type>uri</type>
 <value>http://dbpedia.org/resource/Frederick_Forsyth</value>
 </author>
+<name>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>The Deceiver</value>
+</name>
 <released>
 <type>typed-literal</type>
 <datatype>http://www.w3.org/2001/XMLSchema#integer</datatype>
@@ -54,6 +59,11 @@
 <type>uri</type>
 <value>http://dbpedia.org/resource/Frederick_Forsyth</value>
 </author>
+<name>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>The Day of the Jackal</value>
+</name>
 <released>
 <type>typed-literal</type>
 <datatype>http://www.w3.org/2001/XMLSchema#date</datatype>
@@ -78,6 +88,11 @@
 <type>uri</type>
 <value>http://dbpedia.org/resource/Frederick_Forsyth</value>
 </author>
+<name>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>The Fourth Protocol</value>
+</name>
 <released>
 <type>literal</type>
 <xml:lang>en</xml:lang>
@@ -102,6 +117,11 @@
 <type>uri</type>
 <value>http://dbpedia.org/resource/Frederick_Forsyth</value>
 </author>
+<name>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>The Shepherd</value>
+</name>
 <released>
 <type>typed-literal</type>
 <datatype>http://www.w3.org/2001/XMLSchema#integer</datatype>
@@ -121,6 +141,11 @@
 <type>uri</type>
 <value>http://dbpedia.org/resource/Frederick_Forsyth</value>
 </author>
+<name>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>The Dogs of War</value>
+</name>
 <wikilink>
 <type>uri</type>
 <value>http://en.wikipedia.org/wiki/The_Dogs_of_War_(novel)?oldid=596177050</value>
@@ -140,6 +165,11 @@
 <type>uri</type>
 <value>http://dbpedia.org/resource/Frederick_Forsyth</value>
 </author>
+<name>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>The Negotiator</value>
+</name>
 <wikilink>
 <type>uri</type>
 <value>http://en.wikipedia.org/wiki/The_Negotiator_(novel)?oldid=604693207</value>
@@ -159,6 +189,11 @@
 <type>uri</type>
 <value>http://dbpedia.org/resource/Frederick_Forsyth</value>
 </author>
+<name>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>The Devil&apos;s Alternative</value>
+</name>
 <wikilink>
 <type>uri</type>
 <value>http://en.wikipedia.org/wiki/The_Devil&apos;s_Alternative?oldid=585261542</value>
@@ -178,6 +213,11 @@
 <type>uri</type>
 <value>http://dbpedia.org/resource/Frederick_Forsyth</value>
 </author>
+<name>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>The Phantom of Manhattan</value>
+</name>
 <wikilink>
 <type>uri</type>
 <value>http://en.wikipedia.org/wiki/The_Phantom_of_Manhattan?oldid=597051816</value>
@@ -197,6 +237,11 @@
 <type>uri</type>
 <value>http://dbpedia.org/resource/Frederick_Forsyth</value>
 </author>
+<name>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>Avenger</value>
+</name>
 <wikilink>
 <type>uri</type>
 <value>http://en.wikipedia.org/wiki/Avenger_(novel)?oldid=582816679</value>
@@ -216,6 +261,11 @@
 <type>uri</type>
 <value>http://dbpedia.org/resource/Frederick_Forsyth</value>
 </author>
+<name>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>The Odessa File</value>
+</name>
 <wikilink>
 <type>uri</type>
 <value>http://en.wikipedia.org/wiki/The_Odessa_File?oldid=596340212</value>
@@ -235,6 +285,11 @@
 <type>uri</type>
 <value>http://dbpedia.org/resource/Frederick_Forsyth</value>
 </author>
+<name>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>The Cobra</value>
+</name>
 <wikilink>
 <type>uri</type>
 <value>http://en.wikipedia.org/wiki/The_Cobra_(novel)?oldid=600019955</value>
@@ -254,6 +309,11 @@
 <type>uri</type>
 <value>http://dbpedia.org/resource/Frederick_Forsyth</value>
 </author>
+<name>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>The Fist of God</value>
+</name>
 <wikilink>
 <type>uri</type>
 <value>http://en.wikipedia.org/wiki/The_Fist_of_God?oldid=586477733</value>
@@ -273,6 +333,11 @@
 <type>uri</type>
 <value>http://dbpedia.org/resource/Frederick_Forsyth</value>
 </author>
+<name>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>Icon</value>
+</name>
 <wikilink>
 <type>uri</type>
 <value>http://en.wikipedia.org/wiki/Icon_(novel)?oldid=592482389</value>
@@ -292,6 +357,11 @@
 <type>uri</type>
 <value>http://dbpedia.org/resource/Frederick_Forsyth</value>
 </author>
+<name>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>The Afghan</value>
+</name>
 <wikilink>
 <type>uri</type>
 <value>http://en.wikipedia.org/wiki/The_Afghan?oldid=585432623</value>
@@ -311,6 +381,11 @@
 <type>uri</type>
 <value>http://dbpedia.org/resource/Frederick_Forsyth</value>
 </author>
+<name>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>No Comebacks</value>
+</name>
 <wikilink>
 <type>uri</type>
 <value>http://en.wikipedia.org/wiki/No_Comebacks?oldid=596012127</value>
@@ -325,6 +400,11 @@
 <type>uri</type>
 <value>http://dbpedia.org/resource/Frederick_Forsyth</value>
 </author>
+<name>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>Emeka</value>
+</name>
 <wikilink>
 <type>uri</type>
 <value>http://en.wikipedia.org/wiki/Emeka?oldid=603337280</value>

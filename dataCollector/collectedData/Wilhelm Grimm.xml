@@ -102,6 +102,11 @@
 <type>uri</type>
 <value>http://dbpedia.org/resource/Wilhelm_Grimm</value>
 </author>
+<name>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>or</value>
+</name>
 <thumbnail>
 <type>uri</type>
 <value>http://commons.wikimedia.org/wiki/Special:FilePath/Grimm&apos;s_Kinder-_und_Hausmärchen,_Erster_Theil_(1812).cover.jpg?width=300</value>

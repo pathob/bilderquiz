@@ -62,6 +62,11 @@
 <type>uri</type>
 <value>http://dbpedia.org/resource/Thomas_More</value>
 </author>
+<name>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>Utopia</value>
+</name>
 <thumbnail>
 <type>uri</type>
 <value>http://commons.wikimedia.org/wiki/Special:FilePath/Isola_di_Utopia_Moro.jpg?width=300</value>

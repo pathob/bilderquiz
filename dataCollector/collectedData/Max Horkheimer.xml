@@ -50,6 +50,11 @@
 <type>uri</type>
 <value>http://dbpedia.org/resource/Max_Horkheimer</value>
 </author>
+<name>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>Dialectic of Enlightenment</value>
+</name>
 <wikilink>
 <type>uri</type>
 <value>http://en.wikipedia.org/wiki/Dialectic_of_Enlightenment?oldid=604790276</value>

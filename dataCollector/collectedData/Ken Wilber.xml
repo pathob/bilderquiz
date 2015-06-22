@@ -29,6 +29,11 @@
 <type>uri</type>
 <value>http://dbpedia.org/resource/Ken_Wilber</value>
 </author>
+<name>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>A Theory of Everything</value>
+</name>
 <published>
 <type>typed-literal</type>
 <datatype>http://www.w3.org/2001/XMLSchema#integer</datatype>
@@ -48,6 +53,11 @@
 <type>uri</type>
 <value>http://dbpedia.org/resource/Ken_Wilber</value>
 </author>
+<name>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>The Marriage of Sense and Soul: Integrating Science and Religion</value>
+</name>
 <published>
 <type>typed-literal</type>
 <datatype>http://www.w3.org/2001/XMLSchema#integer</datatype>
@@ -67,6 +77,11 @@
 <type>uri</type>
 <value>http://dbpedia.org/resource/Ken_Wilber</value>
 </author>
+<name>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>Boomeritis: A Novel That Will Set You Free</value>
+</name>
 <published>
 <type>typed-literal</type>
 <datatype>http://www.w3.org/2001/XMLSchema#integer</datatype>
@@ -86,6 +101,11 @@
 <type>uri</type>
 <value>http://dbpedia.org/resource/Ken_Wilber</value>
 </author>
+<name>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>Sex, Ecology, Spirituality: The Spirit of Evolution</value>
+</name>
 <published>
 <type>typed-literal</type>
 <datatype>http://www.w3.org/2001/XMLSchema#integer</datatype>

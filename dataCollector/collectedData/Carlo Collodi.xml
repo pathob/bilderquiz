@@ -44,6 +44,11 @@
 <type>uri</type>
 <value>http://dbpedia.org/resource/Carlo_Collodi</value>
 </author>
+<name>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>The Adventures of Pinocchio</value>
+</name>
 <thumbnail>
 <type>uri</type>
 <value>http://en.wikipedia.org/wiki/Special:FilePath/AdvPinocchio.jpg?width=300</value>

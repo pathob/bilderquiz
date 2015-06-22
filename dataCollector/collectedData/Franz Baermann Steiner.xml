@@ -36,6 +36,11 @@
 <type>uri</type>
 <value>http://dbpedia.org/resource/Franz_Baermann_Steiner</value>
 </author>
+<name>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>Taboo</value>
+</name>
 <wikilink>
 <type>uri</type>
 <value>http://en.wikipedia.org/wiki/Taboo_(book)?oldid=593120743</value>

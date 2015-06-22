@@ -28,6 +28,11 @@
 <type>uri</type>
 <value>http://dbpedia.org/resource/Thomas_Nagel</value>
 </author>
+<name>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>Mind and Cosmos: Why the Materialist Neo-Darwinian Conception of Nature is Almost Certainly False</value>
+</name>
 <wikilink>
 <type>uri</type>
 <value>http://en.wikipedia.org/wiki/Mind_and_Cosmos?oldid=590416381</value>

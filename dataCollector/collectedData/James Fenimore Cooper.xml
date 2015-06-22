@@ -45,6 +45,11 @@
 <type>uri</type>
 <value>http://dbpedia.org/resource/James_Fenimore_Cooper</value>
 </author>
+<name>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>The Pioneers, or the Sources of the Susquehanna; a Descriptive Tale</value>
+</name>
 <thumbnail>
 <type>uri</type>
 <value>http://commons.wikimedia.org/wiki/Special:FilePath/The_Pioneers_1823.jpg?width=300</value>
@@ -73,6 +78,11 @@
 <type>uri</type>
 <value>http://dbpedia.org/resource/James_Fenimore_Cooper</value>
 </author>
+<name>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>The Last of the Mohicans</value>
+</name>
 <thumbnail>
 <type>uri</type>
 <value>http://commons.wikimedia.org/wiki/Special:FilePath/Last_of_the_Mohicans,_Merrill_bear.jpg?width=300</value>
@@ -101,6 +111,11 @@
 <type>uri</type>
 <value>http://dbpedia.org/resource/James_Fenimore_Cooper</value>
 </author>
+<name>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>The Prairie</value>
+</name>
 <thumbnail>
 <type>uri</type>
 <value>http://commons.wikimedia.org/wiki/Special:FilePath/The_Prairie_1st.jpg?width=300</value>
@@ -129,6 +144,11 @@
 <type>uri</type>
 <value>http://dbpedia.org/resource/James_Fenimore_Cooper</value>
 </author>
+<name>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>Lionel Lincoln</value>
+</name>
 <thumbnail>
 <type>uri</type>
 <value>http://commons.wikimedia.org/wiki/Special:FilePath/Lionel_Lincoln_1st.jpg?width=300</value>
@@ -147,6 +167,11 @@
 <type>uri</type>
 <value>http://dbpedia.org/resource/James_Fenimore_Cooper</value>
 </author>
+<name>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>The Bravo</value>
+</name>
 <thumbnail>
 <type>uri</type>
 <value>http://commons.wikimedia.org/wiki/Special:FilePath/The_Bravo_1st.jpg?width=300</value>
@@ -165,6 +190,11 @@
 <type>uri</type>
 <value>http://dbpedia.org/resource/James_Fenimore_Cooper</value>
 </author>
+<name>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>The Heidenmauer</value>
+</name>
 <thumbnail>
 <type>uri</type>
 <value>http://commons.wikimedia.org/wiki/Special:FilePath/The_Heidenmauer_1st.jpg?width=300</value>
@@ -183,6 +213,11 @@
 <type>uri</type>
 <value>http://dbpedia.org/resource/James_Fenimore_Cooper</value>
 </author>
+<name>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>Precaution</value>
+</name>
 <released>
 <type>typed-literal</type>
 <datatype>http://www.w3.org/2001/XMLSchema#integer</datatype>
@@ -202,6 +237,11 @@
 <type>uri</type>
 <value>http://dbpedia.org/resource/James_Fenimore_Cooper</value>
 </author>
+<name>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>The American Democrat: Or, Hints on the Social and Civic Relations of the United States of America</value>
+</name>
 <wikilink>
 <type>uri</type>
 <value>http://en.wikipedia.org/wiki/The_American_Democrat?oldid=554315958</value>
@@ -216,6 +256,11 @@
 <type>uri</type>
 <value>http://dbpedia.org/resource/James_Fenimore_Cooper</value>
 </author>
+<name>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>The Chainbearer</value>
+</name>
 <wikilink>
 <type>uri</type>
 <value>http://en.wikipedia.org/wiki/The_Chainbearer?oldid=596980373</value>

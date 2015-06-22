@@ -32,6 +32,11 @@
 <type>uri</type>
 <value>http://dbpedia.org/resource/Michael_Shermer</value>
 </author>
+<name>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>Why People Believe Weird Things: Pseudoscience, Superstition, and Other Confusions of Our Time</value>
+</name>
 <released>
 <type>typed-literal</type>
 <datatype>http://www.w3.org/2001/XMLSchema#integer</datatype>
@@ -51,6 +56,11 @@
 <type>uri</type>
 <value>http://dbpedia.org/resource/Michael_Shermer</value>
 </author>
+<name>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>The Science of Good and Evil: Why People Cheat, Gossip, Care, Share, and Follow the Golden Rule</value>
+</name>
 <released>
 <type>typed-literal</type>
 <datatype>http://www.w3.org/2001/XMLSchema#integer</datatype>
@@ -70,6 +80,11 @@
 <type>uri</type>
 <value>http://dbpedia.org/resource/Michael_Shermer</value>
 </author>
+<name>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>Science Friction: Where the Known Meets the Unknown</value>
+</name>
 <released>
 <type>typed-literal</type>
 <datatype>http://www.w3.org/2001/XMLSchema#date</datatype>
@@ -89,6 +104,11 @@
 <type>uri</type>
 <value>http://dbpedia.org/resource/Michael_Shermer</value>
 </author>
+<name>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>Denying History: Who Says the Holocaust Never Happened and Why Do They Say It?</value>
+</name>
 <released>
 <type>typed-literal</type>
 <datatype>http://www.w3.org/2001/XMLSchema#date</datatype>
@@ -108,6 +128,11 @@
 <type>uri</type>
 <value>http://dbpedia.org/resource/Michael_Shermer</value>
 </author>
+<name>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>Why Darwin Matters: The Case Against Intelligent Design</value>
+</name>
 <released>
 <type>typed-literal</type>
 <datatype>http://www.w3.org/2001/XMLSchema#date</datatype>
@@ -127,6 +152,11 @@
 <type>uri</type>
 <value>http://dbpedia.org/resource/Michael_Shermer</value>
 </author>
+<name>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>The Skeptic Encyclopedia of Pseudoscience</value>
+</name>
 <released>
 <type>typed-literal</type>
 <datatype>http://www.w3.org/2001/XMLSchema#date</datatype>

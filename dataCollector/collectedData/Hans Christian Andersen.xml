@@ -73,6 +73,11 @@
 <type>uri</type>
 <value>http://dbpedia.org/resource/Hans_Christian_Andersen</value>
 </author>
+<name>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>Nye Eventyr</value>
+</name>
 <thumbnail>
 <type>uri</type>
 <value>http://commons.wikimedia.org/wiki/Special:FilePath/HC_Andersen_Nye_Eventyr.jpg?width=300</value>
@@ -96,6 +101,11 @@
 <type>uri</type>
 <value>http://dbpedia.org/resource/Hans_Christian_Andersen</value>
 </author>
+<name>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>Fairy Tales Told for Children (1838)</value>
+</name>
 <thumbnail>
 <type>uri</type>
 <value>http://commons.wikimedia.org/wiki/Special:FilePath/Constantin_Hansen_1836_-_HC_Andersen.jpg?width=300</value>
@@ -119,6 +129,11 @@
 <type>uri</type>
 <value>http://dbpedia.org/resource/Hans_Christian_Andersen</value>
 </author>
+<name>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>The Improvisatore</value>
+</name>
 <thumbnail>
 <type>uri</type>
 <value>http://commons.wikimedia.org/wiki/Special:FilePath/The_improvisatore_cover.jpg?width=300</value>
@@ -142,6 +157,11 @@
 <type>uri</type>
 <value>http://dbpedia.org/resource/Hans_Christian_Andersen</value>
 </author>
+<name>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>Danish: Skyggen</value>
+</name>
 <thumbnail>
 <type>uri</type>
 <value>http://commons.wikimedia.org/wiki/Special:FilePath/Shadow_Pedersen.jpg?width=300</value>
@@ -165,6 +185,11 @@
 <type>uri</type>
 <value>http://dbpedia.org/resource/Hans_Christian_Andersen</value>
 </author>
+<name>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>Eventyr, fortalte for Børn. Ny Samling.</value>
+</name>
 <thumbnail>
 <type>uri</type>
 <value>http://commons.wikimedia.org/wiki/Special:FilePath/Hans_Christian_Andersen_(1834_painting).jpg?width=300</value>
@@ -183,6 +208,11 @@
 <type>uri</type>
 <value>http://dbpedia.org/resource/Hans_Christian_Andersen</value>
 </author>
+<name>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>The Flying Trunk</value>
+</name>
 <thumbnail>
 <type>uri</type>
 <value>http://en.wikipedia.org/wiki/Special:FilePath/Flying_Trunk_01.jpg?width=300</value>
@@ -201,6 +231,11 @@
 <type>uri</type>
 <value>http://dbpedia.org/resource/Hans_Christian_Andersen</value>
 </author>
+<name>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>De røde sko</value>
+</name>
 <wikilink>
 <type>uri</type>
 <value>http://en.wikipedia.org/wiki/The_Red_Shoes_(fairy_tale)?oldid=606698731</value>

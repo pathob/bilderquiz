@@ -37,6 +37,11 @@
 <type>uri</type>
 <value>http://dbpedia.org/resource/Guy_Debord</value>
 </author>
+<name>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>La société du spectacle</value>
+</name>
 <wikilink>
 <type>uri</type>
 <value>http://en.wikipedia.org/wiki/The_Society_of_the_Spectacle?oldid=602700844</value>

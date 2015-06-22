@@ -32,6 +32,11 @@
 <type>uri</type>
 <value>http://dbpedia.org/resource/William_Morris</value>
 </author>
+<name>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>The Sundering Flood</value>
+</name>
 <thumbnail>
 <type>uri</type>
 <value>http://commons.wikimedia.org/wiki/Special:FilePath/Sundering_Flood.jpg?width=300</value>
@@ -55,6 +60,11 @@
 <type>uri</type>
 <value>http://dbpedia.org/resource/William_Morris</value>
 </author>
+<name>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>The Story of Sigurd the Volsung and the Fall of the Niblungs</value>
+</name>
 <thumbnail>
 <type>uri</type>
 <value>http://commons.wikimedia.org/wiki/Special:FilePath/Sigurd_the_Volsung_by_William_Morris_title_page.jpg?width=300</value>
@@ -78,6 +88,11 @@
 <type>uri</type>
 <value>http://dbpedia.org/resource/William_Morris</value>
 </author>
+<name>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>The Roots of the Mountains</value>
+</name>
 <thumbnail>
 <type>uri</type>
 <value>http://en.wikipedia.org/wiki/Special:FilePath/Roots_of_the_Mountains.jpg?width=300</value>
@@ -101,6 +116,11 @@
 <type>uri</type>
 <value>http://dbpedia.org/resource/William_Morris</value>
 </author>
+<name>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>News from Nowhere (or An Epoch of Rest)</value>
+</name>
 <thumbnail>
 <type>uri</type>
 <value>http://commons.wikimedia.org/wiki/Special:FilePath/Kelmscott_Manor_News_from_Nowhere.jpg?width=300</value>
@@ -124,6 +144,11 @@
 <type>uri</type>
 <value>http://dbpedia.org/resource/William_Morris</value>
 </author>
+<name>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>The Wood Beyond the World</value>
+</name>
 <thumbnail>
 <type>uri</type>
 <value>http://commons.wikimedia.org/wiki/Special:FilePath/WoodBeyondWorld.png?width=300</value>
@@ -147,6 +172,11 @@
 <type>uri</type>
 <value>http://dbpedia.org/resource/William_Morris</value>
 </author>
+<name>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>The House of the Wolfings</value>
+</name>
 <thumbnail>
 <type>uri</type>
 <value>http://commons.wikimedia.org/wiki/Special:FilePath/House_of_the_Wolfings_Title_Page_First_Edition_1889.jpg?width=300</value>
@@ -170,6 +200,11 @@
 <type>uri</type>
 <value>http://dbpedia.org/resource/William_Morris</value>
 </author>
+<name>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>A Dream of John Ball</value>
+</name>
 <thumbnail>
 <type>uri</type>
 <value>http://commons.wikimedia.org/wiki/Special:FilePath/William.Morris.John.Ball.jpg?width=300</value>
@@ -193,6 +228,11 @@
 <type>uri</type>
 <value>http://dbpedia.org/resource/William_Morris</value>
 </author>
+<name>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>Child Christopher and Goldilind the Fair</value>
+</name>
 <released>
 <type>typed-literal</type>
 <datatype>http://www.w3.org/2001/XMLSchema#integer</datatype>
@@ -212,6 +252,11 @@
 <type>uri</type>
 <value>http://dbpedia.org/resource/William_Morris</value>
 </author>
+<name>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>The Story of the Glittering Plain</value>
+</name>
 <released>
 <type>typed-literal</type>
 <datatype>http://www.w3.org/2001/XMLSchema#integer</datatype>
@@ -231,6 +276,11 @@
 <type>uri</type>
 <value>http://dbpedia.org/resource/William_Morris</value>
 </author>
+<name>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>The Well at the World&apos;s End</value>
+</name>
 <released>
 <type>typed-literal</type>
 <datatype>http://www.w3.org/2001/XMLSchema#integer</datatype>
@@ -250,6 +300,11 @@
 <type>uri</type>
 <value>http://dbpedia.org/resource/William_Morris</value>
 </author>
+<name>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>Golden Wings and Other Stories</value>
+</name>
 <released>
 <type>typed-literal</type>
 <datatype>http://www.w3.org/2001/XMLSchema#integer</datatype>
@@ -269,6 +324,11 @@
 <type>uri</type>
 <value>http://dbpedia.org/resource/William_Morris</value>
 </author>
+<name>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>The Water of the Wondrous Isles</value>
+</name>
 <released>
 <type>typed-literal</type>
 <datatype>http://www.w3.org/2001/XMLSchema#integer</datatype>

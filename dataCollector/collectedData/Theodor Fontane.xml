@@ -56,6 +56,11 @@
 <type>uri</type>
 <value>http://dbpedia.org/resource/Theodor_Fontane</value>
 </author>
+<name>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>Effi Briest</value>
+</name>
 <thumbnail>
 <type>uri</type>
 <value>http://commons.wikimedia.org/wiki/Special:FilePath/Theodor_Fontane_Effi_Briest.jpg?width=300</value>
@@ -84,6 +89,11 @@
 <type>uri</type>
 <value>http://dbpedia.org/resource/Theodor_Fontane</value>
 </author>
+<name>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>Der Stechlin</value>
+</name>
 <thumbnail>
 <type>uri</type>
 <value>http://commons.wikimedia.org/wiki/Special:FilePath/Fontane_der_stechlin_titel.jpg?width=300</value>
@@ -107,6 +117,11 @@
 <type>uri</type>
 <value>http://dbpedia.org/resource/Theodor_Fontane</value>
 </author>
+<name>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>Unwiederbringlich</value>
+</name>
 <released>
 <type>typed-literal</type>
 <datatype>http://www.w3.org/2001/XMLSchema#integer</datatype>

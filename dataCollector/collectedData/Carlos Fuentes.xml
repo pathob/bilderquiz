@@ -37,6 +37,11 @@
 <type>uri</type>
 <value>http://dbpedia.org/resource/Carlos_Fuentes</value>
 </author>
+<name>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>The Crystal Frontier</value>
+</name>
 <released>
 <type>typed-literal</type>
 <datatype>http://www.w3.org/2001/XMLSchema#integer</datatype>
@@ -56,6 +61,11 @@
 <type>uri</type>
 <value>http://dbpedia.org/resource/Carlos_Fuentes</value>
 </author>
+<name>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>Terra Nostra</value>
+</name>
 <wikilink>
 <type>uri</type>
 <value>http://en.wikipedia.org/wiki/Terra_Nostra_(novel)?oldid=603512748</value>
@@ -70,6 +80,11 @@
 <type>uri</type>
 <value>http://dbpedia.org/resource/Carlos_Fuentes</value>
 </author>
+<name>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>Cristóbal Nonato</value>
+</name>
 <wikilink>
 <type>uri</type>
 <value>http://en.wikipedia.org/wiki/Christopher_Unborn?oldid=562508496</value>

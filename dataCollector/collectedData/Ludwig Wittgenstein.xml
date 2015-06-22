@@ -53,6 +53,11 @@
 <type>uri</type>
 <value>http://dbpedia.org/resource/Ludwig_Wittgenstein</value>
 </author>
+<name>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>Tractatus Logico-Philosophicus</value>
+</name>
 <thumbnail>
 <type>uri</type>
 <value>http://commons.wikimedia.org/wiki/Special:FilePath/Tractatus_title_page_1922_Harcourt.png?width=300</value>
@@ -76,6 +81,11 @@
 <type>uri</type>
 <value>http://dbpedia.org/resource/Ludwig_Wittgenstein</value>
 </author>
+<name>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>The Blue and Brown Books</value>
+</name>
 <released>
 <type>typed-literal</type>
 <datatype>http://www.w3.org/2001/XMLSchema#integer</datatype>
@@ -95,6 +105,11 @@
 <type>uri</type>
 <value>http://dbpedia.org/resource/Ludwig_Wittgenstein</value>
 </author>
+<name>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>Philosophical Investigations</value>
+</name>
 <published>
 <type>typed-literal</type>
 <datatype>http://www.w3.org/2001/XMLSchema#integer</datatype>

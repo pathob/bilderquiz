@@ -36,6 +36,11 @@
 <type>uri</type>
 <value>http://dbpedia.org/resource/Ronald_Dworkin</value>
 </author>
+<name>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>Taking Rights Seriously</value>
+</name>
 <wikilink>
 <type>uri</type>
 <value>http://en.wikipedia.org/wiki/Taking_Rights_Seriously?oldid=596286023</value>

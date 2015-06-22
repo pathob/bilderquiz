@@ -44,6 +44,11 @@
 <type>uri</type>
 <value>http://dbpedia.org/resource/Thomas_Hobbes</value>
 </author>
+<name>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>Leviathan</value>
+</name>
 <thumbnail>
 <type>uri</type>
 <value>http://commons.wikimedia.org/wiki/Special:FilePath/Leviathan_by_Thomas_Hobbes.jpg?width=300</value>
@@ -67,6 +72,11 @@
 <type>uri</type>
 <value>http://dbpedia.org/resource/Thomas_Hobbes</value>
 </author>
+<name>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>De Cive</value>
+</name>
 <thumbnail>
 <type>uri</type>
 <value>http://commons.wikimedia.org/wiki/Special:FilePath/Hobbes_de_cive.jpg?width=300</value>

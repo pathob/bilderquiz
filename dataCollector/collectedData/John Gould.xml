@@ -32,6 +32,11 @@
 <type>uri</type>
 <value>http://dbpedia.org/resource/John_Gould</value>
 </author>
+<name>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>Handbook to the Birds of Australia</value>
+</name>
 <wikilink>
 <type>uri</type>
 <value>http://en.wikipedia.org/wiki/Handbook_to_the_Birds_of_Australia?oldid=587632386</value>

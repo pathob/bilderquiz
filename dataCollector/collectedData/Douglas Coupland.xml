@@ -54,6 +54,11 @@
 <type>uri</type>
 <value>http://dbpedia.org/resource/Douglas_Coupland</value>
 </author>
+<name>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>Microserfs</value>
+</name>
 <released>
 <type>literal</type>
 <xml:lang>en</xml:lang>
@@ -78,6 +83,11 @@
 <type>uri</type>
 <value>http://dbpedia.org/resource/Douglas_Coupland</value>
 </author>
+<name>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>Generation X: Tales for an Accelerated Culture</value>
+</name>
 <released>
 <type>typed-literal</type>
 <datatype>http://www.w3.org/2001/XMLSchema#date</datatype>
@@ -102,6 +112,11 @@
 <type>uri</type>
 <value>http://dbpedia.org/resource/Douglas_Coupland</value>
 </author>
+<name>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>Hey Nostradamus!</value>
+</name>
 <released>
 <type>typed-literal</type>
 <datatype>http://www.w3.org/2001/XMLSchema#date</datatype>
@@ -121,6 +136,11 @@
 <type>uri</type>
 <value>http://dbpedia.org/resource/Douglas_Coupland</value>
 </author>
+<name>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>Generation A</value>
+</name>
 <released>
 <type>typed-literal</type>
 <datatype>http://www.w3.org/2001/XMLSchema#gMonthDay</datatype>
@@ -140,6 +160,11 @@
 <type>uri</type>
 <value>http://dbpedia.org/resource/Douglas_Coupland</value>
 </author>
+<name>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>All Families Are Psychotic</value>
+</name>
 <released>
 <type>typed-literal</type>
 <datatype>http://www.w3.org/2001/XMLSchema#integer</datatype>
@@ -159,6 +184,11 @@
 <type>uri</type>
 <value>http://dbpedia.org/resource/Douglas_Coupland</value>
 </author>
+<name>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>Girlfriend in a Coma</value>
+</name>
 <released>
 <type>typed-literal</type>
 <datatype>http://www.w3.org/2001/XMLSchema#integer</datatype>
@@ -178,6 +208,11 @@
 <type>uri</type>
 <value>http://dbpedia.org/resource/Douglas_Coupland</value>
 </author>
+<name>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>JPod</value>
+</name>
 <released>
 <type>typed-literal</type>
 <datatype>http://www.w3.org/2001/XMLSchema#date</datatype>
@@ -197,6 +232,11 @@
 <type>uri</type>
 <value>http://dbpedia.org/resource/Douglas_Coupland</value>
 </author>
+<name>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>Life After God</value>
+</name>
 <released>
 <type>literal</type>
 <xml:lang>en</xml:lang>
@@ -216,6 +256,11 @@
 <type>uri</type>
 <value>http://dbpedia.org/resource/Douglas_Coupland</value>
 </author>
+<name>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>Shampoo Planet</value>
+</name>
 <released>
 <type>typed-literal</type>
 <datatype>http://www.w3.org/2001/XMLSchema#integer</datatype>
@@ -235,6 +280,11 @@
 <type>uri</type>
 <value>http://dbpedia.org/resource/Douglas_Coupland</value>
 </author>
+<name>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>Polaroids from the Dead</value>
+</name>
 <released>
 <type>typed-literal</type>
 <datatype>http://www.w3.org/2001/XMLSchema#integer</datatype>
@@ -254,6 +304,11 @@
 <type>uri</type>
 <value>http://dbpedia.org/resource/Douglas_Coupland</value>
 </author>
+<name>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>Worst. Person. Ever.</value>
+</name>
 <released>
 <type>typed-literal</type>
 <datatype>http://www.w3.org/2001/XMLSchema#integer</datatype>
@@ -273,6 +328,11 @@
 <type>uri</type>
 <value>http://dbpedia.org/resource/Douglas_Coupland</value>
 </author>
+<name>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>Miss Wyoming</value>
+</name>
 <released>
 <type>typed-literal</type>
 <datatype>http://www.w3.org/2001/XMLSchema#integer</datatype>
@@ -292,6 +352,11 @@
 <type>uri</type>
 <value>http://dbpedia.org/resource/Douglas_Coupland</value>
 </author>
+<name>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>Extraordinary Canadians: Marshall McLuhan</value>
+</name>
 <released>
 <type>typed-literal</type>
 <datatype>http://www.w3.org/2001/XMLSchema#integer</datatype>
@@ -311,6 +376,11 @@
 <type>uri</type>
 <value>http://dbpedia.org/resource/Douglas_Coupland</value>
 </author>
+<name>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>City of Glass</value>
+</name>
 <wikilink>
 <type>uri</type>
 <value>http://en.wikipedia.org/wiki/City_of_Glass_(Douglas_Coupland_book)?oldid=598454187</value>
@@ -325,6 +395,11 @@
 <type>uri</type>
 <value>http://dbpedia.org/resource/Douglas_Coupland</value>
 </author>
+<name>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>Eleanor Rigby</value>
+</name>
 <wikilink>
 <type>uri</type>
 <value>http://en.wikipedia.org/wiki/Eleanor_Rigby_(novel)?oldid=544106726</value>
@@ -339,6 +414,11 @@
 <type>uri</type>
 <value>http://dbpedia.org/resource/Douglas_Coupland</value>
 </author>
+<name>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>Player One</value>
+</name>
 <wikilink>
 <type>uri</type>
 <value>http://en.wikipedia.org/wiki/Player_One?oldid=605911603</value>
@@ -353,6 +433,11 @@
 <type>uri</type>
 <value>http://dbpedia.org/resource/Douglas_Coupland</value>
 </author>
+<name>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>Terry</value>
+</name>
 <wikilink>
 <type>uri</type>
 <value>http://en.wikipedia.org/wiki/Terry_(book)?oldid=606214816</value>
@@ -367,6 +452,11 @@
 <type>uri</type>
 <value>http://dbpedia.org/resource/Douglas_Coupland</value>
 </author>
+<name>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>The Gum Thief</value>
+</name>
 <wikilink>
 <type>uri</type>
 <value>http://en.wikipedia.org/wiki/The_Gum_Thief?oldid=602348292</value>

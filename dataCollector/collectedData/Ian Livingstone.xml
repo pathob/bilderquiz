@@ -31,6 +31,11 @@
 <type>uri</type>
 <value>http://dbpedia.org/resource/Ian_Livingstone</value>
 </author>
+<name>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>The Warlock of Firetop Mountain</value>
+</name>
 <wikilink>
 <type>uri</type>
 <value>http://en.wikipedia.org/wiki/The_Warlock_of_Firetop_Mountain?oldid=600867147</value>
@@ -50,6 +55,11 @@
 <type>uri</type>
 <value>http://dbpedia.org/resource/Ian_Livingstone</value>
 </author>
+<name>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>Deathtrap Dungeon</value>
+</name>
 <wikilink>
 <type>uri</type>
 <value>http://en.wikipedia.org/wiki/Deathtrap_Dungeon?oldid=602770695</value>
@@ -64,6 +74,11 @@
 <type>uri</type>
 <value>http://dbpedia.org/resource/Ian_Livingstone</value>
 </author>
+<name>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>Island of the Lizard King</value>
+</name>
 <wikilink>
 <type>uri</type>
 <value>http://en.wikipedia.org/wiki/Island_of_the_Lizard_King?oldid=600869941</value>
@@ -78,6 +93,11 @@
 <type>uri</type>
 <value>http://dbpedia.org/resource/Ian_Livingstone</value>
 </author>
+<name>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>The Forest of Doom</value>
+</name>
 <wikilink>
 <type>uri</type>
 <value>http://en.wikipedia.org/wiki/The_Forest_of_Doom?oldid=600867265</value>
@@ -92,6 +112,11 @@
 <type>uri</type>
 <value>http://dbpedia.org/resource/Ian_Livingstone</value>
 </author>
+<name>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>City of Thieves</value>
+</name>
 <wikilink>
 <type>uri</type>
 <value>http://en.wikipedia.org/wiki/City_of_Thieves_(gamebook)?oldid=606288894</value>

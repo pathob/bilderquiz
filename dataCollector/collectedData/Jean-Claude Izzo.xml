@@ -27,6 +27,11 @@
 <type>uri</type>
 <value>http://dbpedia.org/resource/Jean-Claude_Izzo</value>
 </author>
+<name>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>Chourmo</value>
+</name>
 <wikilink>
 <type>uri</type>
 <value>http://en.wikipedia.org/wiki/Chourmo?oldid=572177294</value>
@@ -41,6 +46,11 @@
 <type>uri</type>
 <value>http://dbpedia.org/resource/Jean-Claude_Izzo</value>
 </author>
+<name>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>Solea</value>
+</name>
 <wikilink>
 <type>uri</type>
 <value>http://en.wikipedia.org/wiki/Solea_(novel)?oldid=572177391</value>
@@ -55,6 +65,11 @@
 <type>uri</type>
 <value>http://dbpedia.org/resource/Jean-Claude_Izzo</value>
 </author>
+<name>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>Total Khéops</value>
+</name>
 <wikilink>
 <type>uri</type>
 <value>http://en.wikipedia.org/wiki/Total_chaos_(novel)?oldid=572177324</value>

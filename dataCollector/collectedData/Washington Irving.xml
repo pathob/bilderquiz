@@ -56,6 +56,11 @@
 <type>uri</type>
 <value>http://dbpedia.org/resource/Washington_Irving</value>
 </author>
+<name>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>The Sketch Book of Geoffrey Crayon, Gent.</value>
+</name>
 <thumbnail>
 <type>uri</type>
 <value>http://commons.wikimedia.org/wiki/Special:FilePath/TheSketchbookTitlePage.jpg?width=300</value>
@@ -84,6 +89,11 @@
 <type>uri</type>
 <value>http://dbpedia.org/resource/Washington_Irving</value>
 </author>
+<name>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>Salmagundi; or The Whim-whams and Opinions of Launcelot Langstaff, Esq. &amp; Others</value>
+</name>
 <thumbnail>
 <type>uri</type>
 <value>http://commons.wikimedia.org/wiki/Special:FilePath/Salmagundi-title.jpg?width=300</value>
@@ -112,6 +122,11 @@
 <type>uri</type>
 <value>http://dbpedia.org/resource/Washington_Irving</value>
 </author>
+<name>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>A History of the Life and Voyages of Christopher Columbus</value>
+</name>
 <thumbnail>
 <type>uri</type>
 <value>http://en.wikipedia.org/wiki/Special:FilePath/Irving&apos;s_Life_and_Voyages_of_Columbus_(Title_Page).jpg?width=300</value>
@@ -135,6 +150,11 @@
 <type>uri</type>
 <value>http://dbpedia.org/resource/Washington_Irving</value>
 </author>
+<name>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>Tales of a Traveller, by Geoffrey Crayon, Gent.</value>
+</name>
 <thumbnail>
 <type>uri</type>
 <value>http://commons.wikimedia.org/wiki/Special:FilePath/Traveller1.jpg?width=300</value>
@@ -158,6 +178,11 @@
 <type>uri</type>
 <value>http://dbpedia.org/resource/Washington_Irving</value>
 </author>
+<name>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>Tales of the Alhambra</value>
+</name>
 <thumbnail>
 <type>uri</type>
 <value>http://commons.wikimedia.org/wiki/Special:FilePath/Alhambradesdegeneralife.jpg?width=300</value>
@@ -181,6 +206,11 @@
 <type>uri</type>
 <value>http://dbpedia.org/resource/Washington_Irving</value>
 </author>
+<name>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>The Letters of Jonathan Oldstyle, Gent.</value>
+</name>
 <released>
 <type>typed-literal</type>
 <datatype>http://www.w3.org/2001/XMLSchema#integer</datatype>
@@ -205,6 +235,11 @@
 <type>uri</type>
 <value>http://dbpedia.org/resource/Washington_Irving</value>
 </author>
+<name>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>Bracebridge Hall</value>
+</name>
 <released>
 <type>typed-literal</type>
 <datatype>http://www.w3.org/2001/XMLSchema#integer</datatype>

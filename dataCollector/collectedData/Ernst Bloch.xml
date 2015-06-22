@@ -41,6 +41,11 @@
 <type>uri</type>
 <value>http://dbpedia.org/resource/Ernst_Bloch</value>
 </author>
+<name>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>Atheism in Christianity</value>
+</name>
 <released>
 <type>typed-literal</type>
 <datatype>http://www.w3.org/2001/XMLSchema#integer</datatype>
@@ -60,6 +65,11 @@
 <type>uri</type>
 <value>http://dbpedia.org/resource/Ernst_Bloch</value>
 </author>
+<name>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>Das Prinzip Hoffnung</value>
+</name>
 <published>
 <type>literal</type>
 <xml:lang>en</xml:lang>

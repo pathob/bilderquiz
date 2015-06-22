@@ -56,6 +56,11 @@
 <type>uri</type>
 <value>http://dbpedia.org/resource/Albert_Schweitzer</value>
 </author>
+<name>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>The Quest of the Historical Jesus</value>
+</name>
 <wikilink>
 <type>uri</type>
 <value>http://en.wikipedia.org/wiki/The_Quest_of_the_Historical_Jesus?oldid=602696988</value>

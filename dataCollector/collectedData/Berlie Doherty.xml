@@ -30,6 +30,11 @@
 <type>uri</type>
 <value>http://dbpedia.org/resource/Berlie_Doherty</value>
 </author>
+<name>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>Dear Nobody</value>
+</name>
 <wikilink>
 <type>uri</type>
 <value>http://en.wikipedia.org/wiki/Dear_Nobody?oldid=565051442</value>
@@ -44,6 +49,11 @@
 <type>uri</type>
 <value>http://dbpedia.org/resource/Berlie_Doherty</value>
 </author>
+<name>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>Granny Was a Buffer Girl</value>
+</name>
 <wikilink>
 <type>uri</type>
 <value>http://en.wikipedia.org/wiki/Granny_Was_a_Buffer_Girl?oldid=573859287</value>

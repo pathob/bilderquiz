@@ -60,6 +60,11 @@
 <type>uri</type>
 <value>http://dbpedia.org/resource/Cao_Xueqin</value>
 </author>
+<name>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>Dream of the Red Chamber</value>
+</name>
 <thumbnail>
 <type>uri</type>
 <value>http://commons.wikimedia.org/wiki/Special:FilePath/Hongloumeng2.jpg?width=300</value>

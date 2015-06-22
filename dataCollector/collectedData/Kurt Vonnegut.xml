@@ -34,6 +34,11 @@
 <type>uri</type>
 <value>http://dbpedia.org/resource/Kurt_Vonnegut</value>
 </author>
+<name>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>Slaughterhouse-Five</value>
+</name>
 <released>
 <type>typed-literal</type>
 <datatype>http://www.w3.org/2001/XMLSchema#integer</datatype>
@@ -58,6 +63,11 @@
 <type>uri</type>
 <value>http://dbpedia.org/resource/Kurt_Vonnegut</value>
 </author>
+<name>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>Cat&apos;s Cradle</value>
+</name>
 <released>
 <type>typed-literal</type>
 <datatype>http://www.w3.org/2001/XMLSchema#integer</datatype>
@@ -77,6 +87,11 @@
 <type>uri</type>
 <value>http://dbpedia.org/resource/Kurt_Vonnegut</value>
 </author>
+<name>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>Fates Worse Than Death</value>
+</name>
 <released>
 <type>typed-literal</type>
 <datatype>http://www.w3.org/2001/XMLSchema#integer</datatype>
@@ -96,6 +111,11 @@
 <type>uri</type>
 <value>http://dbpedia.org/resource/Kurt_Vonnegut</value>
 </author>
+<name>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>Palm Sunday</value>
+</name>
 <released>
 <type>typed-literal</type>
 <datatype>http://www.w3.org/2001/XMLSchema#integer</datatype>
@@ -115,6 +135,11 @@
 <type>uri</type>
 <value>http://dbpedia.org/resource/Kurt_Vonnegut</value>
 </author>
+<name>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>God Bless You, Dr. Kevorkian</value>
+</name>
 <released>
 <type>typed-literal</type>
 <datatype>http://www.w3.org/2001/XMLSchema#integer</datatype>
@@ -134,6 +159,11 @@
 <type>uri</type>
 <value>http://dbpedia.org/resource/Kurt_Vonnegut</value>
 </author>
+<name>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>Galápagos</value>
+</name>
 <released>
 <type>typed-literal</type>
 <datatype>http://www.w3.org/2001/XMLSchema#integer</datatype>
@@ -153,6 +183,11 @@
 <type>uri</type>
 <value>http://dbpedia.org/resource/Kurt_Vonnegut</value>
 </author>
+<name>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>Jailbird</value>
+</name>
 <released>
 <type>typed-literal</type>
 <datatype>http://www.w3.org/2001/XMLSchema#integer</datatype>
@@ -172,6 +207,11 @@
 <type>uri</type>
 <value>http://dbpedia.org/resource/Kurt_Vonnegut</value>
 </author>
+<name>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>Wampeters, Foma and Granfalloons</value>
+</name>
 <released>
 <type>typed-literal</type>
 <datatype>http://www.w3.org/2001/XMLSchema#integer</datatype>
@@ -191,6 +231,11 @@
 <type>uri</type>
 <value>http://dbpedia.org/resource/Kurt_Vonnegut</value>
 </author>
+<name>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>Canary in a Cathouse</value>
+</name>
 <released>
 <type>typed-literal</type>
 <datatype>http://www.w3.org/2001/XMLSchema#integer</datatype>
@@ -210,6 +255,11 @@
 <type>uri</type>
 <value>http://dbpedia.org/resource/Kurt_Vonnegut</value>
 </author>
+<name>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>Look at the Birdie</value>
+</name>
 <released>
 <type>typed-literal</type>
 <datatype>http://www.w3.org/2001/XMLSchema#integer</datatype>
@@ -229,6 +279,11 @@
 <type>uri</type>
 <value>http://dbpedia.org/resource/Kurt_Vonnegut</value>
 </author>
+<name>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>The Sirens of Titan</value>
+</name>
 <released>
 <type>typed-literal</type>
 <datatype>http://www.w3.org/2001/XMLSchema#integer</datatype>
@@ -248,6 +303,11 @@
 <type>uri</type>
 <value>http://dbpedia.org/resource/Kurt_Vonnegut</value>
 </author>
+<name>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>Breakfast of Champions</value>
+</name>
 <released>
 <type>typed-literal</type>
 <datatype>http://www.w3.org/2001/XMLSchema#integer</datatype>
@@ -267,6 +327,11 @@
 <type>uri</type>
 <value>http://dbpedia.org/resource/Kurt_Vonnegut</value>
 </author>
+<name>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>Mother Night</value>
+</name>
 <released>
 <type>typed-literal</type>
 <datatype>http://www.w3.org/2001/XMLSchema#integer</datatype>
@@ -286,6 +351,11 @@
 <type>uri</type>
 <value>http://dbpedia.org/resource/Kurt_Vonnegut</value>
 </author>
+<name>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>Armageddon in Retrospect</value>
+</name>
 <released>
 <type>typed-literal</type>
 <datatype>http://www.w3.org/2001/XMLSchema#integer</datatype>
@@ -305,6 +375,11 @@
 <type>uri</type>
 <value>http://dbpedia.org/resource/Kurt_Vonnegut</value>
 </author>
+<name>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>(A Memoir Of Life In George W Bush&apos;s America)</value>
+</name>
 <released>
 <type>typed-literal</type>
 <datatype>http://www.w3.org/2001/XMLSchema#date</datatype>
@@ -324,6 +399,11 @@
 <type>uri</type>
 <value>http://dbpedia.org/resource/Kurt_Vonnegut</value>
 </author>
+<name>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>Slapstick</value>
+</name>
 <released>
 <type>typed-literal</type>
 <datatype>http://www.w3.org/2001/XMLSchema#integer</datatype>
@@ -343,6 +423,11 @@
 <type>uri</type>
 <value>http://dbpedia.org/resource/Kurt_Vonnegut</value>
 </author>
+<name>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>While Mortals Sleep</value>
+</name>
 <released>
 <type>typed-literal</type>
 <datatype>http://www.w3.org/2001/XMLSchema#integer</datatype>
@@ -362,6 +447,11 @@
 <type>uri</type>
 <value>http://dbpedia.org/resource/Kurt_Vonnegut</value>
 </author>
+<name>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>Bluebeard</value>
+</name>
 <released>
 <type>typed-literal</type>
 <datatype>http://www.w3.org/2001/XMLSchema#integer</datatype>
@@ -381,6 +471,11 @@
 <type>uri</type>
 <value>http://dbpedia.org/resource/Kurt_Vonnegut</value>
 </author>
+<name>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>God Bless You, Mr. Rosewater</value>
+</name>
 <released>
 <type>typed-literal</type>
 <datatype>http://www.w3.org/2001/XMLSchema#integer</datatype>
@@ -400,6 +495,11 @@
 <type>uri</type>
 <value>http://dbpedia.org/resource/Kurt_Vonnegut</value>
 </author>
+<name>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>Player Piano</value>
+</name>
 <released>
 <type>typed-literal</type>
 <datatype>http://www.w3.org/2001/XMLSchema#integer</datatype>
@@ -419,6 +519,11 @@
 <type>uri</type>
 <value>http://dbpedia.org/resource/Kurt_Vonnegut</value>
 </author>
+<name>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>Timequake</value>
+</name>
 <released>
 <type>typed-literal</type>
 <datatype>http://www.w3.org/2001/XMLSchema#date</datatype>
@@ -438,6 +543,11 @@
 <type>uri</type>
 <value>http://dbpedia.org/resource/Kurt_Vonnegut</value>
 </author>
+<name>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>Deadeye Dick</value>
+</name>
 <released>
 <type>typed-literal</type>
 <datatype>http://www.w3.org/2001/XMLSchema#integer</datatype>
@@ -457,6 +567,11 @@
 <type>uri</type>
 <value>http://dbpedia.org/resource/Kurt_Vonnegut</value>
 </author>
+<name>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>Bagombo Snuff Box</value>
+</name>
 <released>
 <type>typed-literal</type>
 <datatype>http://www.w3.org/2001/XMLSchema#integer</datatype>
@@ -476,6 +591,11 @@
 <type>uri</type>
 <value>http://dbpedia.org/resource/Kurt_Vonnegut</value>
 </author>
+<name>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>Welcome to the Monkey House</value>
+</name>
 <released>
 <type>typed-literal</type>
 <datatype>http://www.w3.org/2001/XMLSchema#integer</datatype>
@@ -495,6 +615,11 @@
 <type>uri</type>
 <value>http://dbpedia.org/resource/Kurt_Vonnegut</value>
 </author>
+<name>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>Hocus Pocus</value>
+</name>
 <released>
 <type>typed-literal</type>
 <datatype>http://www.w3.org/2001/XMLSchema#integer</datatype>
@@ -514,6 +639,11 @@
 <type>uri</type>
 <value>http://dbpedia.org/resource/Kurt_Vonnegut</value>
 </author>
+<name>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>Sucker&apos;s Portfolio</value>
+</name>
 <released>
 <type>typed-literal</type>
 <datatype>http://www.w3.org/2001/XMLSchema#date</datatype>

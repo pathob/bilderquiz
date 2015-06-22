@@ -39,6 +39,11 @@
 <type>uri</type>
 <value>http://dbpedia.org/resource/George_Eliot</value>
 </author>
+<name>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>Middlemarch: A Study of Provincial Life</value>
+</name>
 <thumbnail>
 <type>uri</type>
 <value>http://commons.wikimedia.org/wiki/Special:FilePath/Middlemarch_1.jpg?width=300</value>
@@ -67,6 +72,11 @@
 <type>uri</type>
 <value>http://dbpedia.org/resource/George_Eliot</value>
 </author>
+<name>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>The Mill on the Floss</value>
+</name>
 <thumbnail>
 <type>uri</type>
 <value>http://commons.wikimedia.org/wiki/Special:FilePath/The_Mill_on_the_Floss.jpg?width=300</value>
@@ -95,6 +105,11 @@
 <type>uri</type>
 <value>http://dbpedia.org/resource/George_Eliot</value>
 </author>
+<name>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>Romola</value>
+</name>
 <thumbnail>
 <type>uri</type>
 <value>http://commons.wikimedia.org/wiki/Special:FilePath/Romola_1863.jpg?width=300</value>
@@ -118,6 +133,11 @@
 <type>uri</type>
 <value>http://dbpedia.org/resource/George_Eliot</value>
 </author>
+<name>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>Scenes of Clerical Life</value>
+</name>
 <thumbnail>
 <type>uri</type>
 <value>http://commons.wikimedia.org/wiki/Special:FilePath/Scenes_Frontispiece.JPG?width=300</value>
@@ -141,6 +161,11 @@
 <type>uri</type>
 <value>http://dbpedia.org/resource/George_Eliot</value>
 </author>
+<name>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>Felix Holt, the Radical</value>
+</name>
 <thumbnail>
 <type>uri</type>
 <value>http://commons.wikimedia.org/wiki/Special:FilePath/Felix_Holt.jpg?width=300</value>
@@ -164,6 +189,11 @@
 <type>uri</type>
 <value>http://dbpedia.org/resource/George_Eliot</value>
 </author>
+<name>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>Adam Bede</value>
+</name>
 <thumbnail>
 <type>uri</type>
 <value>http://commons.wikimedia.org/wiki/Special:FilePath/Adam_Bede.jpg?width=300</value>
@@ -187,6 +217,11 @@
 <type>uri</type>
 <value>http://dbpedia.org/resource/George_Eliot</value>
 </author>
+<name>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>Daniel Deronda</value>
+</name>
 <thumbnail>
 <type>uri</type>
 <value>http://commons.wikimedia.org/wiki/Special:FilePath/Cover_First_Edition_Danial_Deronda.jpg?width=300</value>
@@ -210,6 +245,11 @@
 <type>uri</type>
 <value>http://dbpedia.org/resource/George_Eliot</value>
 </author>
+<name>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>Silas Marner</value>
+</name>
 <thumbnail>
 <type>uri</type>
 <value>http://commons.wikimedia.org/wiki/Special:FilePath/Silas_Marner_1.jpg?width=300</value>
@@ -233,6 +273,11 @@
 <type>uri</type>
 <value>http://dbpedia.org/resource/George_Eliot</value>
 </author>
+<name>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>The Lifted Veil</value>
+</name>
 <released>
 <type>literal</type>
 <xml:lang>en</xml:lang>
@@ -252,6 +297,11 @@
 <type>uri</type>
 <value>http://dbpedia.org/resource/George_Eliot</value>
 </author>
+<name>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>Impressions of Theophrastus Such</value>
+</name>
 <wikilink>
 <type>uri</type>
 <value>http://en.wikipedia.org/wiki/Impressions_of_Theophrastus_Such?oldid=549555823</value>

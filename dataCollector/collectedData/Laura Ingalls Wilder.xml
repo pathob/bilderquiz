@@ -31,6 +31,11 @@
 <type>uri</type>
 <value>http://dbpedia.org/resource/Laura_Ingalls_Wilder</value>
 </author>
+<name>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>The Long Winter</value>
+</name>
 <thumbnail>
 <type>uri</type>
 <value>http://commons.wikimedia.org/wiki/Special:FilePath/Train_stuck_in_snow.jpg?width=300</value>
@@ -54,6 +59,11 @@
 <type>uri</type>
 <value>http://dbpedia.org/resource/Laura_Ingalls_Wilder</value>
 </author>
+<name>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>Little House in the Big Woods</value>
+</name>
 <thumbnail>
 <type>uri</type>
 <value>http://en.wikipedia.org/wiki/Special:FilePath/Little_House_Wayside_replica.jpg?width=300</value>
@@ -77,6 +87,11 @@
 <type>uri</type>
 <value>http://dbpedia.org/resource/Laura_Ingalls_Wilder</value>
 </author>
+<name>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>By the Shores of Silver Lake</value>
+</name>
 <released>
 <type>typed-literal</type>
 <datatype>http://www.w3.org/2001/XMLSchema#integer</datatype>
@@ -96,6 +111,11 @@
 <type>uri</type>
 <value>http://dbpedia.org/resource/Laura_Ingalls_Wilder</value>
 </author>
+<name>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>Little Town on the Prairie</value>
+</name>
 <released>
 <type>typed-literal</type>
 <datatype>http://www.w3.org/2001/XMLSchema#integer</datatype>
@@ -115,6 +135,11 @@
 <type>uri</type>
 <value>http://dbpedia.org/resource/Laura_Ingalls_Wilder</value>
 </author>
+<name>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>On the Way Home</value>
+</name>
 <released>
 <type>typed-literal</type>
 <datatype>http://www.w3.org/2001/XMLSchema#integer</datatype>
@@ -134,6 +159,11 @@
 <type>uri</type>
 <value>http://dbpedia.org/resource/Laura_Ingalls_Wilder</value>
 </author>
+<name>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>Little House on the Prairie</value>
+</name>
 <released>
 <type>typed-literal</type>
 <datatype>http://www.w3.org/2001/XMLSchema#integer</datatype>
@@ -153,6 +183,11 @@
 <type>uri</type>
 <value>http://dbpedia.org/resource/Laura_Ingalls_Wilder</value>
 </author>
+<name>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>The First Four Years</value>
+</name>
 <released>
 <type>typed-literal</type>
 <datatype>http://www.w3.org/2001/XMLSchema#integer</datatype>
@@ -172,6 +207,11 @@
 <type>uri</type>
 <value>http://dbpedia.org/resource/Laura_Ingalls_Wilder</value>
 </author>
+<name>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>On the Banks of Plum Creek</value>
+</name>
 <released>
 <type>typed-literal</type>
 <datatype>http://www.w3.org/2001/XMLSchema#integer</datatype>
@@ -191,6 +231,11 @@
 <type>uri</type>
 <value>http://dbpedia.org/resource/Laura_Ingalls_Wilder</value>
 </author>
+<name>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>These Happy Golden Years</value>
+</name>
 <released>
 <type>typed-literal</type>
 <datatype>http://www.w3.org/2001/XMLSchema#integer</datatype>
@@ -210,6 +255,11 @@
 <type>uri</type>
 <value>http://dbpedia.org/resource/Laura_Ingalls_Wilder</value>
 </author>
+<name>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>Farmer Boy</value>
+</name>
 <released>
 <type>typed-literal</type>
 <datatype>http://www.w3.org/2001/XMLSchema#integer</datatype>
@@ -229,6 +279,11 @@
 <type>uri</type>
 <value>http://dbpedia.org/resource/Laura_Ingalls_Wilder</value>
 </author>
+<name>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>A Little House Traveler: Writings from Laura Ingalls Wilder’s Journeys Across America</value>
+</name>
 <wikilink>
 <type>uri</type>
 <value>http://en.wikipedia.org/wiki/A_Little_House_Traveler?oldid=545688241</value>
@@ -243,6 +298,11 @@
 <type>uri</type>
 <value>http://dbpedia.org/resource/Laura_Ingalls_Wilder</value>
 </author>
+<name>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>West From Home</value>
+</name>
 <wikilink>
 <type>uri</type>
 <value>http://en.wikipedia.org/wiki/West_from_Home?oldid=605348134</value>

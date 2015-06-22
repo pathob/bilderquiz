@@ -58,6 +58,11 @@
 <type>uri</type>
 <value>http://dbpedia.org/resource/Robert_Louis_Stevenson</value>
 </author>
+<name>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>Treasure Island</value>
+</name>
 <thumbnail>
 <type>uri</type>
 <value>http://commons.wikimedia.org/wiki/Special:FilePath/Treasure_Island-Scribner&apos;s-1911.jpg?width=300</value>
@@ -86,6 +91,11 @@
 <type>uri</type>
 <value>http://dbpedia.org/resource/Robert_Louis_Stevenson</value>
 </author>
+<name>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>and Mr. Hyde</value>
+</name>
 <thumbnail>
 <type>uri</type>
 <value>http://commons.wikimedia.org/wiki/Special:FilePath/Jekyll_and_Hyde_Title.jpg?width=300</value>
@@ -114,6 +124,11 @@
 <type>uri</type>
 <value>http://dbpedia.org/resource/Robert_Louis_Stevenson</value>
 </author>
+<name>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>Catriona</value>
+</name>
 <thumbnail>
 <type>uri</type>
 <value>http://commons.wikimedia.org/wiki/Special:FilePath/Catriona_(novel).jpg?width=300</value>
@@ -142,6 +157,11 @@
 <type>uri</type>
 <value>http://dbpedia.org/resource/Robert_Louis_Stevenson</value>
 </author>
+<name>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>The Master of Ballantrae: A Winter&apos;s Tale</value>
+</name>
 <thumbnail>
 <type>uri</type>
 <value>http://commons.wikimedia.org/wiki/Special:FilePath/Themasterofballantreacover.jpg?width=300</value>
@@ -170,6 +190,11 @@
 <type>uri</type>
 <value>http://dbpedia.org/resource/Robert_Louis_Stevenson</value>
 </author>
+<name>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>The Black Arrow: A Tale of the Two Roses</value>
+</name>
 <thumbnail>
 <type>uri</type>
 <value>http://commons.wikimedia.org/wiki/Special:FilePath/Blackarrowcover.jpg?width=300</value>
@@ -198,6 +223,11 @@
 <type>uri</type>
 <value>http://dbpedia.org/resource/Robert_Louis_Stevenson</value>
 </author>
+<name>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>The Wrecker</value>
+</name>
 <thumbnail>
 <type>uri</type>
 <value>http://commons.wikimedia.org/wiki/Special:FilePath/Rsl1.jpg?width=300</value>
@@ -221,6 +251,11 @@
 <type>uri</type>
 <value>http://dbpedia.org/resource/Robert_Louis_Stevenson</value>
 </author>
+<name>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>The Merry Men and Other Tales and Fables</value>
+</name>
 <thumbnail>
 <type>uri</type>
 <value>http://commons.wikimedia.org/wiki/Special:FilePath/Merrymencover.jpg?width=300</value>
@@ -244,6 +279,11 @@
 <type>uri</type>
 <value>http://dbpedia.org/resource/Robert_Louis_Stevenson</value>
 </author>
+<name>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>More New Arabian Nights</value>
+</name>
 <thumbnail>
 <type>uri</type>
 <value>http://en.wikipedia.org/wiki/Special:FilePath/More_New_Arabian_Nights.jpg?width=300</value>
@@ -267,6 +307,11 @@
 <type>uri</type>
 <value>http://dbpedia.org/resource/Robert_Louis_Stevenson</value>
 </author>
+<name>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>The Silverado Squatters</value>
+</name>
 <thumbnail>
 <type>uri</type>
 <value>http://commons.wikimedia.org/wiki/Special:FilePath/Silveradosquatters.jpg?width=300</value>
@@ -290,6 +335,11 @@
 <type>uri</type>
 <value>http://dbpedia.org/resource/Robert_Louis_Stevenson</value>
 </author>
+<name>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>The Wrong Box</value>
+</name>
 <thumbnail>
 <type>uri</type>
 <value>http://commons.wikimedia.org/wiki/Special:FilePath/Thewrongboxcover.jpg?width=300</value>
@@ -313,6 +363,11 @@
 <type>uri</type>
 <value>http://dbpedia.org/resource/Robert_Louis_Stevenson</value>
 </author>
+<name>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>The Rajah&apos;s Diamond</value>
+</name>
 <thumbnail>
 <type>uri</type>
 <value>http://commons.wikimedia.org/wiki/Special:FilePath/The_Rajah&apos;s_Diamond_Cover.png?width=300</value>
@@ -336,6 +391,11 @@
 <type>uri</type>
 <value>http://dbpedia.org/resource/Robert_Louis_Stevenson</value>
 </author>
+<name>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>Weir of Hermiston</value>
+</name>
 <released>
 <type>typed-literal</type>
 <datatype>http://www.w3.org/2001/XMLSchema#integer</datatype>
@@ -360,6 +420,11 @@
 <type>uri</type>
 <value>http://dbpedia.org/resource/Robert_Louis_Stevenson</value>
 </author>
+<name>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>The Ebb-Tide</value>
+</name>
 <released>
 <type>typed-literal</type>
 <datatype>http://www.w3.org/2001/XMLSchema#integer</datatype>
@@ -379,6 +444,11 @@
 <type>uri</type>
 <value>http://dbpedia.org/resource/Robert_Louis_Stevenson</value>
 </author>
+<name>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>Prince Otto</value>
+</name>
 <released>
 <type>typed-literal</type>
 <datatype>http://www.w3.org/2001/XMLSchema#date</datatype>
@@ -398,6 +468,11 @@
 <type>uri</type>
 <value>http://dbpedia.org/resource/Robert_Louis_Stevenson</value>
 </author>
+<name>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>New Arabian Nights</value>
+</name>
 <released>
 <type>typed-literal</type>
 <datatype>http://www.w3.org/2001/XMLSchema#integer</datatype>
@@ -417,6 +492,11 @@
 <type>uri</type>
 <value>http://dbpedia.org/resource/Robert_Louis_Stevenson</value>
 </author>
+<name>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>St. Ives</value>
+</name>
 <released>
 <type>typed-literal</type>
 <datatype>http://www.w3.org/2001/XMLSchema#integer</datatype>
@@ -436,6 +516,11 @@
 <type>uri</type>
 <value>http://dbpedia.org/resource/Robert_Louis_Stevenson</value>
 </author>
+<name>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>Memories and Portraits</value>
+</name>
 <released>
 <type>literal</type>
 <xml:lang>en</xml:lang>
@@ -455,6 +540,11 @@
 <type>uri</type>
 <value>http://dbpedia.org/resource/Robert_Louis_Stevenson</value>
 </author>
+<name>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>The Suicide Club</value>
+</name>
 <wikilink>
 <type>uri</type>
 <value>http://en.wikipedia.org/wiki/The_Suicide_Club_(Stevenson)?oldid=605734929</value>
@@ -474,6 +564,11 @@
 <type>uri</type>
 <value>http://dbpedia.org/resource/Robert_Louis_Stevenson</value>
 </author>
+<name>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>A Footnote to History: Eight Years of Trouble in Samoa</value>
+</name>
 <wikilink>
 <type>uri</type>
 <value>http://en.wikipedia.org/wiki/A_Footnote_to_History:_Eight_Years_of_Trouble_in_Samoa?oldid=606384971</value>

@@ -29,6 +29,11 @@
 <type>uri</type>
 <value>http://dbpedia.org/resource/Christopher_Alexander</value>
 </author>
+<name>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>Notes on the Synthesis of Form</value>
+</name>
 <wikilink>
 <type>uri</type>
 <value>http://en.wikipedia.org/wiki/Notes_on_the_Synthesis_of_Form?oldid=576513187</value>
@@ -43,6 +48,11 @@
 <type>uri</type>
 <value>http://dbpedia.org/resource/Christopher_Alexander</value>
 </author>
+<name>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>The Oregon Experiment</value>
+</name>
 <wikilink>
 <type>uri</type>
 <value>http://en.wikipedia.org/wiki/The_Oregon_Experiment?oldid=589818277</value>
@@ -57,6 +67,11 @@
 <type>uri</type>
 <value>http://dbpedia.org/resource/Christopher_Alexander</value>
 </author>
+<name>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>The Timeless Way of Building</value>
+</name>
 <wikilink>
 <type>uri</type>
 <value>http://en.wikipedia.org/wiki/The_Timeless_Way_of_Building?oldid=576440715</value>
@@ -71,6 +86,11 @@
 <type>uri</type>
 <value>http://dbpedia.org/resource/Christopher_Alexander</value>
 </author>
+<name>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>A Pattern Language: Towns, Buildings, Construction</value>
+</name>
 <wikilink>
 <type>uri</type>
 <value>http://en.wikipedia.org/wiki/A_Pattern_Language?oldid=605243489</value>

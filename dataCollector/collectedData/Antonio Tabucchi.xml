@@ -37,6 +37,11 @@
 <type>uri</type>
 <value>http://dbpedia.org/resource/Antonio_Tabucchi</value>
 </author>
+<name>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>Sostiene Pereira</value>
+</name>
 <wikilink>
 <type>uri</type>
 <value>http://en.wikipedia.org/wiki/Pereira_Maintains?oldid=602940957</value>
@@ -56,6 +61,11 @@
 <type>uri</type>
 <value>http://dbpedia.org/resource/Antonio_Tabucchi</value>
 </author>
+<name>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>Notturno indiano</value>
+</name>
 <wikilink>
 <type>uri</type>
 <value>http://en.wikipedia.org/wiki/Indian_Nocturne?oldid=564865459</value>
@@ -70,6 +80,11 @@
 <type>uri</type>
 <value>http://dbpedia.org/resource/Antonio_Tabucchi</value>
 </author>
+<name>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>The Missing Head of Damasceno Monteiro</value>
+</name>
 <wikilink>
 <type>uri</type>
 <value>http://en.wikipedia.org/wiki/The_Missing_Head_of_Damasceno_Monteiro?oldid=576844734</value>
@@ -84,6 +99,11 @@
 <type>uri</type>
 <value>http://dbpedia.org/resource/Antonio_Tabucchi</value>
 </author>
+<name>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>Requiem: uma alucinação</value>
+</name>
 <wikilink>
 <type>uri</type>
 <value>http://en.wikipedia.org/wiki/Requiem:_A_Hallucination?oldid=564865559</value>
@@ -98,6 +118,11 @@
 <type>uri</type>
 <value>http://dbpedia.org/resource/Antonio_Tabucchi</value>
 </author>
+<name>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>It&apos;s Getting Later All the Time</value>
+</name>
 <wikilink>
 <type>uri</type>
 <value>http://en.wikipedia.org/wiki/It&apos;s_Getting_Later_All_the_Time?oldid=546309439</value>
@@ -112,6 +137,11 @@
 <type>uri</type>
 <value>http://dbpedia.org/resource/Antonio_Tabucchi</value>
 </author>
+<name>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>Little Misunderstandings of No Importance</value>
+</name>
 <wikilink>
 <type>uri</type>
 <value>http://en.wikipedia.org/wiki/Little_Misunderstandings_of_No_Importance?oldid=546349510</value>

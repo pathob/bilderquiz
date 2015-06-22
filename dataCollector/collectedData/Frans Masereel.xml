@@ -36,6 +36,11 @@
 <type>uri</type>
 <value>http://dbpedia.org/resource/Frans_Masereel</value>
 </author>
+<name>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>The Idea</value>
+</name>
 <thumbnail>
 <type>uri</type>
 <value>http://en.wikipedia.org/wiki/Special:FilePath/Frans_Masereel_(1920)_The_Idea_-_woman_on_printing_press.jpg?width=300</value>
@@ -54,6 +59,11 @@
 <type>uri</type>
 <value>http://dbpedia.org/resource/Frans_Masereel</value>
 </author>
+<name>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>The Sun</value>
+</name>
 <thumbnail>
 <type>uri</type>
 <value>http://en.wikipedia.org/wiki/Special:FilePath/Frans_Masereel_(1919)_Die_Sonne_self-portrait.jpg?width=300</value>
@@ -72,6 +82,11 @@
 <type>uri</type>
 <value>http://dbpedia.org/resource/Frans_Masereel</value>
 </author>
+<name>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>25 Images of a Man&apos;s Passion</value>
+</name>
 <thumbnail>
 <type>uri</type>
 <value>http://en.wikipedia.org/wiki/Special:FilePath/Frans_Masereel_(1918)_25_umages_de_la_passion_d&apos;un_homme_-_title_page.png?width=300</value>
@@ -90,6 +105,11 @@
 <type>uri</type>
 <value>http://dbpedia.org/resource/Frans_Masereel</value>
 </author>
+<name>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>Mon livre d&apos;heures</value>
+</name>
 <thumbnail>
 <type>uri</type>
 <value>http://en.wikipedia.org/wiki/Special:FilePath/Frans_Masereel_(1919)_Passionate_Journey—arriving_on_the_train.jpg?width=300</value>
@@ -108,6 +128,11 @@
 <type>uri</type>
 <value>http://dbpedia.org/resource/Frans_Masereel</value>
 </author>
+<name>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>Passionate Journey</value>
+</name>
 <wikilink>
 <type>uri</type>
 <value>http://en.wikipedia.org/wiki/Story_Without_Words?oldid=604975315</value>
@@ -122,6 +147,11 @@
 <type>uri</type>
 <value>http://dbpedia.org/resource/Frans_Masereel</value>
 </author>
+<name>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>The City</value>
+</name>
 <wikilink>
 <type>uri</type>
 <value>http://en.wikipedia.org/wiki/The_City_(wordless_novel)?oldid=604966165</value>

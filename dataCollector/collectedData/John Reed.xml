@@ -37,6 +37,11 @@
 <type>uri</type>
 <value>http://dbpedia.org/resource/John_Reed_(journalist)</value>
 </author>
+<name>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>The War in Eastern Europe</value>
+</name>
 <released>
 <type>literal</type>
 <xml:lang>en</xml:lang>

@@ -90,6 +90,11 @@
 <type>uri</type>
 <value>http://dbpedia.org/resource/Michael_Ende</value>
 </author>
+<name>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>Jim Button and Luke the Engine Driver</value>
+</name>
 <thumbnail>
 <type>uri</type>
 <value>http://commons.wikimedia.org/wiki/Special:FilePath/Jim_Knopf_Marke.jpg?width=300</value>
@@ -113,6 +118,11 @@
 <type>uri</type>
 <value>http://dbpedia.org/resource/Michael_Ende</value>
 </author>
+<name>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>Momo</value>
+</name>
 <released>
 <type>literal</type>
 <xml:lang>en</xml:lang>
@@ -137,6 +147,11 @@
 <type>uri</type>
 <value>http://dbpedia.org/resource/Michael_Ende</value>
 </author>
+<name>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>The Neverending Story</value>
+</name>
 <released>
 <type>typed-literal</type>
 <datatype>http://www.w3.org/2001/XMLSchema#integer</datatype>

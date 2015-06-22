@@ -97,6 +97,11 @@
 <type>uri</type>
 <value>http://dbpedia.org/resource/Hermann_Hesse</value>
 </author>
+<name>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>Der Steppenwolf</value>
+</name>
 <thumbnail>
 <type>uri</type>
 <value>http://commons.wikimedia.org/wiki/Special:FilePath/Hermann_Hesse_Der_Steppenwolf_1927.jpg?width=300</value>
@@ -125,6 +130,11 @@
 <type>uri</type>
 <value>http://dbpedia.org/resource/Hermann_Hesse</value>
 </author>
+<name>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>Knulp</value>
+</name>
 <thumbnail>
 <type>uri</type>
 <value>http://commons.wikimedia.org/wiki/Special:FilePath/Hermann_Hesse_Knulp_1915.jpg?width=300</value>
@@ -153,6 +163,11 @@
 <type>uri</type>
 <value>http://dbpedia.org/resource/Hermann_Hesse</value>
 </author>
+<name>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>Demian: The Story of Emil Sinclair&apos;s Youth</value>
+</name>
 <thumbnail>
 <type>uri</type>
 <value>http://commons.wikimedia.org/wiki/Special:FilePath/Emil_Sinclair_Demian_1919.jpg?width=300</value>
@@ -181,6 +196,11 @@
 <type>uri</type>
 <value>http://dbpedia.org/resource/Hermann_Hesse</value>
 </author>
+<name>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>Siddhartha in Sanskrit</value>
+</name>
 <released>
 <type>typed-literal</type>
 <datatype>http://www.w3.org/2001/XMLSchema#integer</datatype>
@@ -205,6 +225,11 @@
 <type>uri</type>
 <value>http://dbpedia.org/resource/Hermann_Hesse</value>
 </author>
+<name>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>Journey to the East</value>
+</name>
 <released>
 <type>typed-literal</type>
 <datatype>http://www.w3.org/2001/XMLSchema#integer</datatype>
@@ -229,6 +254,11 @@
 <type>uri</type>
 <value>http://dbpedia.org/resource/Hermann_Hesse</value>
 </author>
+<name>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>Peter Camenzind</value>
+</name>
 <released>
 <type>typed-literal</type>
 <datatype>http://www.w3.org/2001/XMLSchema#integer</datatype>
@@ -253,6 +283,11 @@
 <type>uri</type>
 <value>http://dbpedia.org/resource/Hermann_Hesse</value>
 </author>
+<name>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>Narziß und Goldmund</value>
+</name>
 <released>
 <type>typed-literal</type>
 <datatype>http://www.w3.org/2001/XMLSchema#integer</datatype>
@@ -277,6 +312,11 @@
 <type>uri</type>
 <value>http://dbpedia.org/resource/Hermann_Hesse</value>
 </author>
+<name>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>Das Glasperlenspiel</value>
+</name>
 <released>
 <type>typed-literal</type>
 <datatype>http://www.w3.org/2001/XMLSchema#integer</datatype>
@@ -301,6 +341,11 @@
 <type>uri</type>
 <value>http://dbpedia.org/resource/Hermann_Hesse</value>
 </author>
+<name>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>Rosshalde</value>
+</name>
 <released>
 <type>typed-literal</type>
 <datatype>http://www.w3.org/2001/XMLSchema#integer</datatype>
@@ -325,6 +370,11 @@
 <type>uri</type>
 <value>http://dbpedia.org/resource/Hermann_Hesse</value>
 </author>
+<name>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>Klingsor&apos;s Last Summer</value>
+</name>
 <released>
 <type>typed-literal</type>
 <datatype>http://www.w3.org/2001/XMLSchema#integer</datatype>
@@ -349,6 +399,11 @@
 <type>uri</type>
 <value>http://dbpedia.org/resource/Hermann_Hesse</value>
 </author>
+<name>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>Unterm Rad</value>
+</name>
 <released>
 <type>typed-literal</type>
 <datatype>http://www.w3.org/2001/XMLSchema#integer</datatype>
@@ -373,6 +428,11 @@
 <type>uri</type>
 <value>http://dbpedia.org/resource/Hermann_Hesse</value>
 </author>
+<name>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>Gertrud</value>
+</name>
 <released>
 <type>typed-literal</type>
 <datatype>http://www.w3.org/2001/XMLSchema#integer</datatype>
@@ -397,6 +457,11 @@
 <type>uri</type>
 <value>http://dbpedia.org/resource/Hermann_Hesse</value>
 </author>
+<name>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>Strange News from Another Star</value>
+</name>
 <released>
 <type>typed-literal</type>
 <datatype>http://www.w3.org/2001/XMLSchema#integer</datatype>
@@ -416,6 +481,11 @@
 <type>uri</type>
 <value>http://dbpedia.org/resource/Hermann_Hesse</value>
 </author>
+<name>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>The Complete Fairy Tales of Hermann Hesse</value>
+</name>
 <released>
 <type>typed-literal</type>
 <datatype>http://www.w3.org/2001/XMLSchema#integer</datatype>
@@ -435,6 +505,11 @@
 <type>uri</type>
 <value>http://dbpedia.org/resource/Hermann_Hesse</value>
 </author>
+<name>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>My Belief: Essays on Life and Art</value>
+</name>
 <released>
 <type>typed-literal</type>
 <datatype>http://www.w3.org/2001/XMLSchema#integer</datatype>
@@ -454,6 +529,11 @@
 <type>uri</type>
 <value>http://dbpedia.org/resource/Hermann_Hesse</value>
 </author>
+<name>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>Poems</value>
+</name>
 <published>
 <type>typed-literal</type>
 <datatype>http://www.w3.org/2001/XMLSchema#integer</datatype>
@@ -473,6 +553,11 @@
 <type>uri</type>
 <value>http://dbpedia.org/resource/Hermann_Hesse</value>
 </author>
+<name>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>Kinderseele</value>
+</name>
 <wikilink>
 <type>uri</type>
 <value>http://en.wikipedia.org/wiki/Kinderseele?oldid=579880381</value>

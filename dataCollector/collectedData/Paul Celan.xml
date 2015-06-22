@@ -52,6 +52,11 @@
 <type>uri</type>
 <value>http://dbpedia.org/resource/Paul_Celan</value>
 </author>
+<name>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>Breathturn</value>
+</name>
 <wikilink>
 <type>uri</type>
 <value>http://en.wikipedia.org/wiki/Breathturn?oldid=488554593</value>
@@ -66,6 +71,11 @@
 <type>uri</type>
 <value>http://dbpedia.org/resource/Paul_Celan</value>
 </author>
+<name>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>Snow Part</value>
+</name>
 <wikilink>
 <type>uri</type>
 <value>http://en.wikipedia.org/wiki/Snow_Part?oldid=595642906</value>
@@ -80,6 +90,11 @@
 <type>uri</type>
 <value>http://dbpedia.org/resource/Paul_Celan</value>
 </author>
+<name>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>Poppy and Memory</value>
+</name>
 <wikilink>
 <type>uri</type>
 <value>http://en.wikipedia.org/wiki/Poppy_and_Memory?oldid=488551139</value>
@@ -94,6 +109,11 @@
 <type>uri</type>
 <value>http://dbpedia.org/resource/Paul_Celan</value>
 </author>
+<name>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>Sprachgitter</value>
+</name>
 <wikilink>
 <type>uri</type>
 <value>http://en.wikipedia.org/wiki/Language_Mesh?oldid=488553462</value>
@@ -108,6 +128,11 @@
 <type>uri</type>
 <value>http://dbpedia.org/resource/Paul_Celan</value>
 </author>
+<name>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>Lightduress</value>
+</name>
 <wikilink>
 <type>uri</type>
 <value>http://en.wikipedia.org/wiki/Lightduress?oldid=488554915</value>
@@ -122,6 +147,11 @@
 <type>uri</type>
 <value>http://dbpedia.org/resource/Paul_Celan</value>
 </author>
+<name>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>Threadsuns</value>
+</name>
 <wikilink>
 <type>uri</type>
 <value>http://en.wikipedia.org/wiki/Threadsuns?oldid=489679589</value>
@@ -136,6 +166,11 @@
 <type>uri</type>
 <value>http://dbpedia.org/resource/Paul_Celan</value>
 </author>
+<name>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>The Sand from the Urns</value>
+</name>
 <wikilink>
 <type>uri</type>
 <value>http://en.wikipedia.org/wiki/The_Sand_from_the_Urns?oldid=488552358</value>
@@ -150,6 +185,11 @@
 <type>uri</type>
 <value>http://dbpedia.org/resource/Paul_Celan</value>
 </author>
+<name>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>Die Niemandsrose</value>
+</name>
 <wikilink>
 <type>uri</type>
 <value>http://en.wikipedia.org/wiki/The_No-One&apos;s-Rose?oldid=488550128</value>
@@ -164,6 +204,11 @@
 <type>uri</type>
 <value>http://dbpedia.org/resource/Paul_Celan</value>
 </author>
+<name>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>Zeitgehöft</value>
+</name>
 <wikilink>
 <type>uri</type>
 <value>http://en.wikipedia.org/wiki/Timestead?oldid=488554294</value>
@@ -178,6 +223,11 @@
 <type>uri</type>
 <value>http://dbpedia.org/resource/Paul_Celan</value>
 </author>
+<name>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>Von Schwelle zu Schwelle</value>
+</name>
 <wikilink>
 <type>uri</type>
 <value>http://en.wikipedia.org/wiki/From_Threshold_to_Threshold?oldid=488552703</value>

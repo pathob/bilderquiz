@@ -39,6 +39,11 @@
 <type>uri</type>
 <value>http://dbpedia.org/resource/Mario_Vargas_Llosa</value>
 </author>
+<name>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>Conversation in the Cathedral</value>
+</name>
 <thumbnail>
 <type>uri</type>
 <value>http://commons.wikimedia.org/wiki/Special:FilePath/Universidad_mayor_de_san_marcos.jpg?width=300</value>
@@ -67,6 +72,11 @@
 <type>uri</type>
 <value>http://dbpedia.org/resource/Mario_Vargas_Llosa</value>
 </author>
+<name>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>Lituma en los Andes</value>
+</name>
 <released>
 <type>typed-literal</type>
 <datatype>http://www.w3.org/2001/XMLSchema#date</datatype>
@@ -91,6 +101,11 @@
 <type>uri</type>
 <value>http://dbpedia.org/resource/Mario_Vargas_Llosa</value>
 </author>
+<name>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>La casa verde</value>
+</name>
 <released>
 <type>typed-literal</type>
 <datatype>http://www.w3.org/2001/XMLSchema#integer</datatype>
@@ -115,6 +130,11 @@
 <type>uri</type>
 <value>http://dbpedia.org/resource/Mario_Vargas_Llosa</value>
 </author>
+<name>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>In Praise of the Stepmother</value>
+</name>
 <released>
 <type>typed-literal</type>
 <datatype>http://www.w3.org/2001/XMLSchema#integer</datatype>
@@ -139,6 +159,11 @@
 <type>uri</type>
 <value>http://dbpedia.org/resource/Mario_Vargas_Llosa</value>
 </author>
+<name>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>Who Killed Palomino Molero?</value>
+</name>
 <released>
 <type>typed-literal</type>
 <datatype>http://www.w3.org/2001/XMLSchema#integer</datatype>
@@ -158,6 +183,11 @@
 <type>uri</type>
 <value>http://dbpedia.org/resource/Mario_Vargas_Llosa</value>
 </author>
+<name>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>El sueño del celta</value>
+</name>
 <wikilink>
 <type>uri</type>
 <value>http://en.wikipedia.org/wiki/The_Dream_of_the_Celt?oldid=604850572</value>
@@ -177,6 +207,11 @@
 <type>uri</type>
 <value>http://dbpedia.org/resource/Mario_Vargas_Llosa</value>
 </author>
+<name>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>The Storyteller</value>
+</name>
 <wikilink>
 <type>uri</type>
 <value>http://en.wikipedia.org/wiki/The_Storyteller_(novel)?oldid=605451880</value>
@@ -196,6 +231,11 @@
 <type>uri</type>
 <value>http://dbpedia.org/resource/Mario_Vargas_Llosa</value>
 </author>
+<name>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>La fiesta del chivo</value>
+</name>
 <wikilink>
 <type>uri</type>
 <value>http://en.wikipedia.org/wiki/The_Feast_of_the_Goat?oldid=594254344</value>
@@ -215,6 +255,11 @@
 <type>uri</type>
 <value>http://dbpedia.org/resource/Mario_Vargas_Llosa</value>
 </author>
+<name>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>El paraíso en la otra esquina</value>
+</name>
 <wikilink>
 <type>uri</type>
 <value>http://en.wikipedia.org/wiki/The_Way_to_Paradise?oldid=594987406</value>

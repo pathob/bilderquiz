@@ -34,6 +34,11 @@
 <type>uri</type>
 <value>http://dbpedia.org/resource/Ian_McEwan</value>
 </author>
+<name>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>Saturday</value>
+</name>
 <thumbnail>
 <type>uri</type>
 <value>http://commons.wikimedia.org/wiki/Special:FilePath/Ianmcewan.jpg?width=300</value>
@@ -57,6 +62,11 @@
 <type>uri</type>
 <value>http://dbpedia.org/resource/Ian_McEwan</value>
 </author>
+<name>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>Atonement</value>
+</name>
 <released>
 <type>typed-literal</type>
 <datatype>http://www.w3.org/2001/XMLSchema#integer</datatype>
@@ -81,6 +91,11 @@
 <type>uri</type>
 <value>http://dbpedia.org/resource/Ian_McEwan</value>
 </author>
+<name>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>Solar</value>
+</name>
 <released>
 <type>typed-literal</type>
 <datatype>http://www.w3.org/2001/XMLSchema#date</datatype>
@@ -105,6 +120,11 @@
 <type>uri</type>
 <value>http://dbpedia.org/resource/Ian_McEwan</value>
 </author>
+<name>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>On Chesil Beach</value>
+</name>
 <released>
 <type>typed-literal</type>
 <datatype>http://www.w3.org/2001/XMLSchema#integer</datatype>
@@ -129,6 +149,11 @@
 <type>uri</type>
 <value>http://dbpedia.org/resource/Ian_McEwan</value>
 </author>
+<name>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>Amsterdam</value>
+</name>
 <released>
 <type>typed-literal</type>
 <datatype>http://www.w3.org/2001/XMLSchema#date</datatype>
@@ -153,6 +178,11 @@
 <type>uri</type>
 <value>http://dbpedia.org/resource/Ian_McEwan</value>
 </author>
+<name>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>The Cement Garden</value>
+</name>
 <released>
 <type>typed-literal</type>
 <datatype>http://www.w3.org/2001/XMLSchema#integer</datatype>
@@ -177,6 +207,11 @@
 <type>uri</type>
 <value>http://dbpedia.org/resource/Ian_McEwan</value>
 </author>
+<name>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>Enduring Love</value>
+</name>
 <released>
 <type>typed-literal</type>
 <datatype>http://www.w3.org/2001/XMLSchema#integer</datatype>
@@ -196,6 +231,11 @@
 <type>uri</type>
 <value>http://dbpedia.org/resource/Ian_McEwan</value>
 </author>
+<name>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>Black Dogs</value>
+</name>
 <released>
 <type>typed-literal</type>
 <datatype>http://www.w3.org/2001/XMLSchema#date</datatype>
@@ -215,6 +255,11 @@
 <type>uri</type>
 <value>http://dbpedia.org/resource/Ian_McEwan</value>
 </author>
+<name>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>First Love, Last Rites</value>
+</name>
 <released>
 <type>typed-literal</type>
 <datatype>http://www.w3.org/2001/XMLSchema#integer</datatype>
@@ -234,6 +279,11 @@
 <type>uri</type>
 <value>http://dbpedia.org/resource/Ian_McEwan</value>
 </author>
+<name>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>The Daydreamer</value>
+</name>
 <released>
 <type>typed-literal</type>
 <datatype>http://www.w3.org/2001/XMLSchema#integer</datatype>
@@ -253,6 +303,11 @@
 <type>uri</type>
 <value>http://dbpedia.org/resource/Ian_McEwan</value>
 </author>
+<name>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>Sweet Tooth</value>
+</name>
 <wikilink>
 <type>uri</type>
 <value>http://en.wikipedia.org/wiki/Sweet_Tooth_(novel)?oldid=601633202</value>
@@ -267,6 +322,11 @@
 <type>uri</type>
 <value>http://dbpedia.org/resource/Ian_McEwan</value>
 </author>
+<name>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>The Innocent</value>
+</name>
 <wikilink>
 <type>uri</type>
 <value>http://en.wikipedia.org/wiki/The_Innocent_(McEwan_novel)?oldid=592668449</value>

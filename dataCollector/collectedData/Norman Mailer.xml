@@ -45,6 +45,11 @@
 <type>uri</type>
 <value>http://dbpedia.org/resource/Norman_Mailer</value>
 </author>
+<name>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>The Castle in the Forest</value>
+</name>
 <thumbnail>
 <type>uri</type>
 <value>http://commons.wikimedia.org/wiki/Special:FilePath/Bundesarchiv_Bild_183-1989-0322-506,_Adolf_Hitler,_Kinderbild.jpg?width=300</value>
@@ -63,6 +68,11 @@
 <type>uri</type>
 <value>http://dbpedia.org/resource/Norman_Mailer</value>
 </author>
+<name>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>The Naked and the Dead</value>
+</name>
 <released>
 <type>typed-literal</type>
 <datatype>http://www.w3.org/2001/XMLSchema#integer</datatype>
@@ -87,6 +97,11 @@
 <type>uri</type>
 <value>http://dbpedia.org/resource/Norman_Mailer</value>
 </author>
+<name>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>The Executioner&apos;s Song</value>
+</name>
 <released>
 <type>typed-literal</type>
 <datatype>http://www.w3.org/2001/XMLSchema#integer</datatype>
@@ -106,6 +121,11 @@
 <type>uri</type>
 <value>http://dbpedia.org/resource/Norman_Mailer</value>
 </author>
+<name>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>Barbary Shore</value>
+</name>
 <released>
 <type>typed-literal</type>
 <datatype>http://www.w3.org/2001/XMLSchema#integer</datatype>
@@ -125,6 +145,11 @@
 <type>uri</type>
 <value>http://dbpedia.org/resource/Norman_Mailer</value>
 </author>
+<name>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>Ancient Evenings</value>
+</name>
 <released>
 <type>typed-literal</type>
 <datatype>http://www.w3.org/2001/XMLSchema#integer</datatype>
@@ -144,6 +169,11 @@
 <type>uri</type>
 <value>http://dbpedia.org/resource/Norman_Mailer</value>
 </author>
+<name>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>The Gospel According to the Son</value>
+</name>
 <released>
 <type>typed-literal</type>
 <datatype>http://www.w3.org/2001/XMLSchema#integer</datatype>
@@ -163,6 +193,11 @@
 <type>uri</type>
 <value>http://dbpedia.org/resource/Norman_Mailer</value>
 </author>
+<name>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>The Fight</value>
+</name>
 <released>
 <type>typed-literal</type>
 <datatype>http://www.w3.org/2001/XMLSchema#integer</datatype>
@@ -182,6 +217,11 @@
 <type>uri</type>
 <value>http://dbpedia.org/resource/Norman_Mailer</value>
 </author>
+<name>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>Marilyn: A Biography</value>
+</name>
 <released>
 <type>typed-literal</type>
 <datatype>http://www.w3.org/2001/XMLSchema#integer</datatype>
@@ -201,6 +241,11 @@
 <type>uri</type>
 <value>http://dbpedia.org/resource/Norman_Mailer</value>
 </author>
+<name>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>The Armies of the Night: History as a Novel/The Novel as History</value>
+</name>
 <wikilink>
 <type>uri</type>
 <value>http://en.wikipedia.org/wiki/The_Armies_of_the_Night?oldid=595656859</value>
@@ -215,6 +260,11 @@
 <type>uri</type>
 <value>http://dbpedia.org/resource/Norman_Mailer</value>
 </author>
+<name>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>An American Dream</value>
+</name>
 <wikilink>
 <type>uri</type>
 <value>http://en.wikipedia.org/wiki/An_American_Dream?oldid=582650620</value>
@@ -229,6 +279,11 @@
 <type>uri</type>
 <value>http://dbpedia.org/resource/Norman_Mailer</value>
 </author>
+<name>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>Why Are We In Vietnam?</value>
+</name>
 <wikilink>
 <type>uri</type>
 <value>http://en.wikipedia.org/wiki/Why_Are_We_in_Vietnam%3F?oldid=605448602</value>
@@ -243,6 +298,11 @@
 <type>uri</type>
 <value>http://dbpedia.org/resource/Norman_Mailer</value>
 </author>
+<name>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>The Deer Park</value>
+</name>
 <wikilink>
 <type>uri</type>
 <value>http://en.wikipedia.org/wiki/The_Deer_Park?oldid=584917947</value>

@@ -48,6 +48,11 @@
 <type>uri</type>
 <value>http://dbpedia.org/resource/Carl_Gustav_Carus</value>
 </author>
+<name>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>Psyche</value>
+</name>
 <published>
 <type>typed-literal</type>
 <datatype>http://www.w3.org/2001/XMLSchema#integer</datatype>

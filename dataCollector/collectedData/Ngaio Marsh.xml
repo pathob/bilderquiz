@@ -34,6 +34,11 @@
 <type>uri</type>
 <value>http://dbpedia.org/resource/Ngaio_Marsh</value>
 </author>
+<name>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>Scales of Justice</value>
+</name>
 <released>
 <type>typed-literal</type>
 <datatype>http://www.w3.org/2001/XMLSchema#integer</datatype>
@@ -53,6 +58,11 @@
 <type>uri</type>
 <value>http://dbpedia.org/resource/Ngaio_Marsh</value>
 </author>
+<name>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>Hand in Glove</value>
+</name>
 <released>
 <type>typed-literal</type>
 <datatype>http://www.w3.org/2001/XMLSchema#integer</datatype>
@@ -72,6 +82,11 @@
 <type>uri</type>
 <value>http://dbpedia.org/resource/Ngaio_Marsh</value>
 </author>
+<name>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>Tied Up in Tinsel</value>
+</name>
 <released>
 <type>typed-literal</type>
 <datatype>http://www.w3.org/2001/XMLSchema#integer</datatype>
@@ -91,6 +106,11 @@
 <type>uri</type>
 <value>http://dbpedia.org/resource/Ngaio_Marsh</value>
 </author>
+<name>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>Died in the Wool</value>
+</name>
 <released>
 <type>typed-literal</type>
 <datatype>http://www.w3.org/2001/XMLSchema#integer</datatype>
@@ -110,6 +130,11 @@
 <type>uri</type>
 <value>http://dbpedia.org/resource/Ngaio_Marsh</value>
 </author>
+<name>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>Death and the Dancing Footman</value>
+</name>
 <released>
 <type>typed-literal</type>
 <datatype>http://www.w3.org/2001/XMLSchema#integer</datatype>
@@ -129,6 +154,11 @@
 <type>uri</type>
 <value>http://dbpedia.org/resource/Ngaio_Marsh</value>
 </author>
+<name>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>A Man Lay Dead</value>
+</name>
 <released>
 <type>typed-literal</type>
 <datatype>http://www.w3.org/2001/XMLSchema#integer</datatype>
@@ -148,6 +178,11 @@
 <type>uri</type>
 <value>http://dbpedia.org/resource/Ngaio_Marsh</value>
 </author>
+<name>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>Spinsters in Jeopardy</value>
+</name>
 <released>
 <type>typed-literal</type>
 <datatype>http://www.w3.org/2001/XMLSchema#integer</datatype>
@@ -167,6 +202,11 @@
 <type>uri</type>
 <value>http://dbpedia.org/resource/Ngaio_Marsh</value>
 </author>
+<name>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>Death at the Bar</value>
+</name>
 <released>
 <type>typed-literal</type>
 <datatype>http://www.w3.org/2001/XMLSchema#integer</datatype>
@@ -186,6 +226,11 @@
 <type>uri</type>
 <value>http://dbpedia.org/resource/Ngaio_Marsh</value>
 </author>
+<name>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>Grave Mistake</value>
+</name>
 <released>
 <type>typed-literal</type>
 <datatype>http://www.w3.org/2001/XMLSchema#integer</datatype>
@@ -205,6 +250,11 @@
 <type>uri</type>
 <value>http://dbpedia.org/resource/Ngaio_Marsh</value>
 </author>
+<name>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>Overture to Death</value>
+</name>
 <released>
 <type>typed-literal</type>
 <datatype>http://www.w3.org/2001/XMLSchema#integer</datatype>
@@ -224,6 +274,11 @@
 <type>uri</type>
 <value>http://dbpedia.org/resource/Ngaio_Marsh</value>
 </author>
+<name>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>Vintage Murder</value>
+</name>
 <released>
 <type>typed-literal</type>
 <datatype>http://www.w3.org/2001/XMLSchema#integer</datatype>
@@ -243,6 +298,11 @@
 <type>uri</type>
 <value>http://dbpedia.org/resource/Ngaio_Marsh</value>
 </author>
+<name>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>Clutch of Constables</value>
+</name>
 <released>
 <type>typed-literal</type>
 <datatype>http://www.w3.org/2001/XMLSchema#integer</datatype>
@@ -262,6 +322,11 @@
 <type>uri</type>
 <value>http://dbpedia.org/resource/Ngaio_Marsh</value>
 </author>
+<name>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>Singing in the Shrouds</value>
+</name>
 <released>
 <type>typed-literal</type>
 <datatype>http://www.w3.org/2001/XMLSchema#integer</datatype>
@@ -281,6 +346,11 @@
 <type>uri</type>
 <value>http://dbpedia.org/resource/Ngaio_Marsh</value>
 </author>
+<name>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>Surfeit of Lampreys</value>
+</name>
 <released>
 <type>typed-literal</type>
 <datatype>http://www.w3.org/2001/XMLSchema#integer</datatype>
@@ -300,6 +370,11 @@
 <type>uri</type>
 <value>http://dbpedia.org/resource/Ngaio_Marsh</value>
 </author>
+<name>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>Artists in Crime</value>
+</name>
 <released>
 <type>typed-literal</type>
 <datatype>http://www.w3.org/2001/XMLSchema#integer</datatype>
@@ -319,6 +394,11 @@
 <type>uri</type>
 <value>http://dbpedia.org/resource/Ngaio_Marsh</value>
 </author>
+<name>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>Death at the Dolphin</value>
+</name>
 <released>
 <type>typed-literal</type>
 <datatype>http://www.w3.org/2001/XMLSchema#integer</datatype>
@@ -338,6 +418,11 @@
 <type>uri</type>
 <value>http://dbpedia.org/resource/Ngaio_Marsh</value>
 </author>
+<name>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>False Scent</value>
+</name>
 <released>
 <type>typed-literal</type>
 <datatype>http://www.w3.org/2001/XMLSchema#integer</datatype>
@@ -357,6 +442,11 @@
 <type>uri</type>
 <value>http://dbpedia.org/resource/Ngaio_Marsh</value>
 </author>
+<name>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>Light Thickens</value>
+</name>
 <released>
 <type>typed-literal</type>
 <datatype>http://www.w3.org/2001/XMLSchema#integer</datatype>
@@ -376,6 +466,11 @@
 <type>uri</type>
 <value>http://dbpedia.org/resource/Ngaio_Marsh</value>
 </author>
+<name>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>Opening Night</value>
+</name>
 <released>
 <type>typed-literal</type>
 <datatype>http://www.w3.org/2001/XMLSchema#integer</datatype>
@@ -395,6 +490,11 @@
 <type>uri</type>
 <value>http://dbpedia.org/resource/Ngaio_Marsh</value>
 </author>
+<name>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>The Nursing Home Murder</value>
+</name>
 <released>
 <type>typed-literal</type>
 <datatype>http://www.w3.org/2001/XMLSchema#integer</datatype>
@@ -414,6 +514,11 @@
 <type>uri</type>
 <value>http://dbpedia.org/resource/Ngaio_Marsh</value>
 </author>
+<name>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>Death in a White Tie</value>
+</name>
 <released>
 <type>typed-literal</type>
 <datatype>http://www.w3.org/2001/XMLSchema#integer</datatype>
@@ -433,6 +538,11 @@
 <type>uri</type>
 <value>http://dbpedia.org/resource/Ngaio_Marsh</value>
 </author>
+<name>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>Enter a Murderer</value>
+</name>
 <released>
 <type>typed-literal</type>
 <datatype>http://www.w3.org/2001/XMLSchema#integer</datatype>
@@ -452,6 +562,11 @@
 <type>uri</type>
 <value>http://dbpedia.org/resource/Ngaio_Marsh</value>
 </author>
+<name>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>Photo Finish</value>
+</name>
 <released>
 <type>typed-literal</type>
 <datatype>http://www.w3.org/2001/XMLSchema#integer</datatype>
@@ -471,6 +586,11 @@
 <type>uri</type>
 <value>http://dbpedia.org/resource/Ngaio_Marsh</value>
 </author>
+<name>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>Death in Ecstasy</value>
+</name>
 <released>
 <type>typed-literal</type>
 <datatype>http://www.w3.org/2001/XMLSchema#integer</datatype>
@@ -490,6 +610,11 @@
 <type>uri</type>
 <value>http://dbpedia.org/resource/Ngaio_Marsh</value>
 </author>
+<name>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>Colour Scheme</value>
+</name>
 <released>
 <type>typed-literal</type>
 <datatype>http://www.w3.org/2001/XMLSchema#integer</datatype>
@@ -509,6 +634,11 @@
 <type>uri</type>
 <value>http://dbpedia.org/resource/Ngaio_Marsh</value>
 </author>
+<name>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>Dead Water</value>
+</name>
 <released>
 <type>typed-literal</type>
 <datatype>http://www.w3.org/2001/XMLSchema#integer</datatype>
@@ -528,6 +658,11 @@
 <type>uri</type>
 <value>http://dbpedia.org/resource/Ngaio_Marsh</value>
 </author>
+<name>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>Final Curtain</value>
+</name>
 <released>
 <type>typed-literal</type>
 <datatype>http://www.w3.org/2001/XMLSchema#integer</datatype>
@@ -547,6 +682,11 @@
 <type>uri</type>
 <value>http://dbpedia.org/resource/Ngaio_Marsh</value>
 </author>
+<name>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>When in Rome</value>
+</name>
 <released>
 <type>typed-literal</type>
 <datatype>http://www.w3.org/2001/XMLSchema#integer</datatype>
@@ -566,6 +706,11 @@
 <type>uri</type>
 <value>http://dbpedia.org/resource/Ngaio_Marsh</value>
 </author>
+<name>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>Swing Brother Swing</value>
+</name>
 <released>
 <type>typed-literal</type>
 <datatype>http://www.w3.org/2001/XMLSchema#integer</datatype>
@@ -585,6 +730,11 @@
 <type>uri</type>
 <value>http://dbpedia.org/resource/Ngaio_Marsh</value>
 </author>
+<name>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>Black As He&apos;s Painted</value>
+</name>
 <released>
 <type>typed-literal</type>
 <datatype>http://www.w3.org/2001/XMLSchema#integer</datatype>
@@ -604,6 +754,11 @@
 <type>uri</type>
 <value>http://dbpedia.org/resource/Ngaio_Marsh</value>
 </author>
+<name>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>Off With His Head</value>
+</name>
 <released>
 <type>typed-literal</type>
 <datatype>http://www.w3.org/2001/XMLSchema#integer</datatype>
@@ -623,6 +778,11 @@
 <type>uri</type>
 <value>http://dbpedia.org/resource/Ngaio_Marsh</value>
 </author>
+<name>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>Last Ditch</value>
+</name>
 <released>
 <type>typed-literal</type>
 <datatype>http://www.w3.org/2001/XMLSchema#integer</datatype>

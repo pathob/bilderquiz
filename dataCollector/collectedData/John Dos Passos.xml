@@ -40,6 +40,11 @@
 <type>uri</type>
 <value>http://dbpedia.org/resource/John_Dos_Passos</value>
 </author>
+<name>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>U.S.A.</value>
+</name>
 <wikilink>
 <type>uri</type>
 <value>http://en.wikipedia.org/wiki/U.S.A._trilogy?oldid=580912607</value>

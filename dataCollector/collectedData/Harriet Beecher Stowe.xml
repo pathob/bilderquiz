@@ -49,6 +49,11 @@
 <type>uri</type>
 <value>http://dbpedia.org/resource/Harriet_Beecher_Stowe</value>
 </author>
+<name>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>Dred: A Tale of the Great Dismal Swamp</value>
+</name>
 <thumbnail>
 <type>uri</type>
 <value>http://commons.wikimedia.org/wiki/Special:FilePath/Stowe_Dred_first_edition.jpg?width=300</value>
@@ -72,6 +77,11 @@
 <type>uri</type>
 <value>http://dbpedia.org/resource/Harriet_Beecher_Stowe</value>
 </author>
+<name>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>Uncle Tom&apos;s Cabin</value>
+</name>
 <thumbnail>
 <type>uri</type>
 <value>http://commons.wikimedia.org/wiki/Special:FilePath/UncleTomsCabinCover.jpg?width=300</value>
@@ -100,6 +110,11 @@
 <type>uri</type>
 <value>http://dbpedia.org/resource/Harriet_Beecher_Stowe</value>
 </author>
+<name>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>The Minister&apos;s Wooing</value>
+</name>
 <released>
 <type>typed-literal</type>
 <datatype>http://www.w3.org/2001/XMLSchema#integer</datatype>

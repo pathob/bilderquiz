@@ -101,6 +101,11 @@
 <type>uri</type>
 <value>http://dbpedia.org/resource/William_Shakespeare</value>
 </author>
+<name>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>Mr. William Shakespeare&apos;s Comedies, Histories, &amp; Tragedies</value>
+</name>
 <thumbnail>
 <type>uri</type>
 <value>http://commons.wikimedia.org/wiki/Special:FilePath/Title_page_William_Shakespeare&apos;s_First_Folio_1623.jpg?width=300</value>
@@ -124,6 +129,11 @@
 <type>uri</type>
 <value>http://dbpedia.org/resource/William_Shakespeare</value>
 </author>
+<name>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>Shakespeare&apos;s Sonnets</value>
+</name>
 <thumbnail>
 <type>uri</type>
 <value>http://commons.wikimedia.org/wiki/Special:FilePath/Sonnets1609titlepage.jpg?width=300</value>
@@ -147,6 +157,11 @@
 <type>uri</type>
 <value>http://dbpedia.org/resource/William_Shakespeare</value>
 </author>
+<name>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>The Klingon Hamlet</value>
+</name>
 <released>
 <type>literal</type>
 <xml:lang>en</xml:lang>

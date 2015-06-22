@@ -50,6 +50,11 @@
 <type>uri</type>
 <value>http://dbpedia.org/resource/Robert_Graves</value>
 </author>
+<name>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>Good-Bye to All That</value>
+</name>
 <released>
 <type>typed-literal</type>
 <datatype>http://www.w3.org/2001/XMLSchema#integer</datatype>
@@ -74,6 +79,11 @@
 <type>uri</type>
 <value>http://dbpedia.org/resource/Robert_Graves</value>
 </author>
+<name>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>I, Claudius</value>
+</name>
 <released>
 <type>typed-literal</type>
 <datatype>http://www.w3.org/2001/XMLSchema#integer</datatype>
@@ -93,6 +103,11 @@
 <type>uri</type>
 <value>http://dbpedia.org/resource/Robert_Graves</value>
 </author>
+<name>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>The White Goddess</value>
+</name>
 <released>
 <type>typed-literal</type>
 <datatype>http://www.w3.org/2001/XMLSchema#integer</datatype>
@@ -112,6 +127,11 @@
 <type>uri</type>
 <value>http://dbpedia.org/resource/Robert_Graves</value>
 </author>
+<name>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>Count Belisarius</value>
+</name>
 <wikilink>
 <type>uri</type>
 <value>http://en.wikipedia.org/wiki/Count_Belisarius?oldid=604848601</value>
@@ -131,6 +151,11 @@
 <type>uri</type>
 <value>http://dbpedia.org/resource/Robert_Graves</value>
 </author>
+<name>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>Seven Days in New Crete</value>
+</name>
 <wikilink>
 <type>uri</type>
 <value>http://en.wikipedia.org/wiki/Seven_Days_in_New_Crete?oldid=599029475</value>
@@ -145,6 +170,11 @@
 <type>uri</type>
 <value>http://dbpedia.org/resource/Robert_Graves</value>
 </author>
+<name>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>The Islands of Unwisdom</value>
+</name>
 <wikilink>
 <type>uri</type>
 <value>http://en.wikipedia.org/wiki/The_Islands_of_Unwisdom?oldid=591163965</value>

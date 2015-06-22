@@ -28,6 +28,11 @@
 <type>uri</type>
 <value>http://dbpedia.org/resource/Ian_Rankin</value>
 </author>
+<name>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>Exit Music</value>
+</name>
 <thumbnail>
 <type>uri</type>
 <value>http://commons.wikimedia.org/wiki/Special:FilePath/IanRankin_ExitMusic.jpg?width=300</value>
@@ -51,6 +56,11 @@
 <type>uri</type>
 <value>http://dbpedia.org/resource/Ian_Rankin</value>
 </author>
+<name>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>Standing in Another Man&apos;s Grave</value>
+</name>
 <released>
 <type>typed-literal</type>
 <datatype>http://www.w3.org/2001/XMLSchema#integer</datatype>
@@ -70,6 +80,11 @@
 <type>uri</type>
 <value>http://dbpedia.org/resource/Ian_Rankin</value>
 </author>
+<name>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>A Question of Blood</value>
+</name>
 <released>
 <type>typed-literal</type>
 <datatype>http://www.w3.org/2001/XMLSchema#integer</datatype>
@@ -89,6 +104,11 @@
 <type>uri</type>
 <value>http://dbpedia.org/resource/Ian_Rankin</value>
 </author>
+<name>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>Bleeding Hearts</value>
+</name>
 <released>
 <type>typed-literal</type>
 <datatype>http://www.w3.org/2001/XMLSchema#integer</datatype>
@@ -108,6 +128,11 @@
 <type>uri</type>
 <value>http://dbpedia.org/resource/Ian_Rankin</value>
 </author>
+<name>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>Blood Hunt</value>
+</name>
 <released>
 <type>typed-literal</type>
 <datatype>http://www.w3.org/2001/XMLSchema#date</datatype>
@@ -127,6 +152,11 @@
 <type>uri</type>
 <value>http://dbpedia.org/resource/Ian_Rankin</value>
 </author>
+<name>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>Dead Souls</value>
+</name>
 <released>
 <type>typed-literal</type>
 <datatype>http://www.w3.org/2001/XMLSchema#integer</datatype>
@@ -146,6 +176,11 @@
 <type>uri</type>
 <value>http://dbpedia.org/resource/Ian_Rankin</value>
 </author>
+<name>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>Fleshmarket Close</value>
+</name>
 <released>
 <type>typed-literal</type>
 <datatype>http://www.w3.org/2001/XMLSchema#integer</datatype>
@@ -165,6 +200,11 @@
 <type>uri</type>
 <value>http://dbpedia.org/resource/Ian_Rankin</value>
 </author>
+<name>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>Hide and Seek</value>
+</name>
 <released>
 <type>typed-literal</type>
 <datatype>http://www.w3.org/2001/XMLSchema#integer</datatype>
@@ -184,6 +224,11 @@
 <type>uri</type>
 <value>http://dbpedia.org/resource/Ian_Rankin</value>
 </author>
+<name>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>Knots and Crosses</value>
+</name>
 <released>
 <type>typed-literal</type>
 <datatype>http://www.w3.org/2001/XMLSchema#integer</datatype>
@@ -203,6 +248,11 @@
 <type>uri</type>
 <value>http://dbpedia.org/resource/Ian_Rankin</value>
 </author>
+<name>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>Mortal Causes</value>
+</name>
 <released>
 <type>typed-literal</type>
 <datatype>http://www.w3.org/2001/XMLSchema#integer</datatype>
@@ -222,6 +272,11 @@
 <type>uri</type>
 <value>http://dbpedia.org/resource/Ian_Rankin</value>
 </author>
+<name>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>Resurrection Men</value>
+</name>
 <released>
 <type>typed-literal</type>
 <datatype>http://www.w3.org/2001/XMLSchema#integer</datatype>
@@ -241,6 +296,11 @@
 <type>uri</type>
 <value>http://dbpedia.org/resource/Ian_Rankin</value>
 </author>
+<name>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>Set in Darkness</value>
+</name>
 <released>
 <type>typed-literal</type>
 <datatype>http://www.w3.org/2001/XMLSchema#integer</datatype>
@@ -260,6 +320,11 @@
 <type>uri</type>
 <value>http://dbpedia.org/resource/Ian_Rankin</value>
 </author>
+<name>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>Strip Jack</value>
+</name>
 <released>
 <type>typed-literal</type>
 <datatype>http://www.w3.org/2001/XMLSchema#integer</datatype>
@@ -279,6 +344,11 @@
 <type>uri</type>
 <value>http://dbpedia.org/resource/Ian_Rankin</value>
 </author>
+<name>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>The Falls</value>
+</name>
 <released>
 <type>typed-literal</type>
 <datatype>http://www.w3.org/2001/XMLSchema#integer</datatype>
@@ -298,6 +368,11 @@
 <type>uri</type>
 <value>http://dbpedia.org/resource/Ian_Rankin</value>
 </author>
+<name>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>The Naming of the Dead</value>
+</name>
 <released>
 <type>typed-literal</type>
 <datatype>http://www.w3.org/2001/XMLSchema#integer</datatype>
@@ -317,6 +392,11 @@
 <type>uri</type>
 <value>http://dbpedia.org/resource/Ian_Rankin</value>
 </author>
+<name>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>Tooth and Nail</value>
+</name>
 <released>
 <type>typed-literal</type>
 <datatype>http://www.w3.org/2001/XMLSchema#integer</datatype>
@@ -336,6 +416,11 @@
 <type>uri</type>
 <value>http://dbpedia.org/resource/Ian_Rankin</value>
 </author>
+<name>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>Witch Hunt</value>
+</name>
 <released>
 <type>typed-literal</type>
 <datatype>http://www.w3.org/2001/XMLSchema#integer</datatype>
@@ -355,6 +440,11 @@
 <type>uri</type>
 <value>http://dbpedia.org/resource/Ian_Rankin</value>
 </author>
+<name>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>Watchman</value>
+</name>
 <released>
 <type>typed-literal</type>
 <datatype>http://www.w3.org/2001/XMLSchema#integer</datatype>
@@ -374,6 +464,11 @@
 <type>uri</type>
 <value>http://dbpedia.org/resource/Ian_Rankin</value>
 </author>
+<name>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>The Black Book</value>
+</name>
 <released>
 <type>typed-literal</type>
 <datatype>http://www.w3.org/2001/XMLSchema#integer</datatype>
@@ -393,6 +488,11 @@
 <type>uri</type>
 <value>http://dbpedia.org/resource/Ian_Rankin</value>
 </author>
+<name>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>Beggars Banquet</value>
+</name>
 <released>
 <type>typed-literal</type>
 <datatype>http://www.w3.org/2001/XMLSchema#integer</datatype>
@@ -412,6 +512,11 @@
 <type>uri</type>
 <value>http://dbpedia.org/resource/Ian_Rankin</value>
 </author>
+<name>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>The Hanging Garden</value>
+</name>
 <released>
 <type>typed-literal</type>
 <datatype>http://www.w3.org/2001/XMLSchema#integer</datatype>
@@ -431,6 +536,11 @@
 <type>uri</type>
 <value>http://dbpedia.org/resource/Ian_Rankin</value>
 </author>
+<name>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>Let it Bleed</value>
+</name>
 <released>
 <type>typed-literal</type>
 <datatype>http://www.w3.org/2001/XMLSchema#integer</datatype>
@@ -450,6 +560,11 @@
 <type>uri</type>
 <value>http://dbpedia.org/resource/Ian_Rankin</value>
 </author>
+<name>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>Westwind</value>
+</name>
 <released>
 <type>typed-literal</type>
 <datatype>http://www.w3.org/2001/XMLSchema#integer</datatype>
@@ -469,6 +584,11 @@
 <type>uri</type>
 <value>http://dbpedia.org/resource/Ian_Rankin</value>
 </author>
+<name>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>Black and Blue</value>
+</name>
 <released>
 <type>typed-literal</type>
 <datatype>http://www.w3.org/2001/XMLSchema#integer</datatype>
@@ -488,6 +608,11 @@
 <type>uri</type>
 <value>http://dbpedia.org/resource/Ian_Rankin</value>
 </author>
+<name>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>Saints of the Shadow Bible</value>
+</name>
 <released>
 <type>typed-literal</type>
 <datatype>http://www.w3.org/2001/XMLSchema#date</datatype>
@@ -507,6 +632,11 @@
 <type>uri</type>
 <value>http://dbpedia.org/resource/Ian_Rankin</value>
 </author>
+<name>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>Doors Open</value>
+</name>
 <released>
 <type>typed-literal</type>
 <datatype>http://www.w3.org/2001/XMLSchema#integer</datatype>
@@ -526,6 +656,11 @@
 <type>uri</type>
 <value>http://dbpedia.org/resource/Ian_Rankin</value>
 </author>
+<name>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>The Flood</value>
+</name>
 <released>
 <type>typed-literal</type>
 <datatype>http://www.w3.org/2001/XMLSchema#integer</datatype>
@@ -545,6 +680,11 @@
 <type>uri</type>
 <value>http://dbpedia.org/resource/Ian_Rankin</value>
 </author>
+<name>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>A Good Hanging and Other Stories</value>
+</name>
 <published>
 <type>typed-literal</type>
 <datatype>http://www.w3.org/2001/XMLSchema#integer</datatype>
@@ -564,6 +704,11 @@
 <type>uri</type>
 <value>http://dbpedia.org/resource/Ian_Rankin</value>
 </author>
+<name>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>A Cool Head</value>
+</name>
 <published>
 <type>typed-literal</type>
 <datatype>http://www.w3.org/2001/XMLSchema#integer</datatype>
@@ -583,6 +728,11 @@
 <type>uri</type>
 <value>http://dbpedia.org/resource/Ian_Rankin</value>
 </author>
+<name>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>The Impossible Dead</value>
+</name>
 <wikilink>
 <type>uri</type>
 <value>http://en.wikipedia.org/wiki/The_Impossible_Dead?oldid=547328646</value>
@@ -597,6 +747,11 @@
 <type>uri</type>
 <value>http://dbpedia.org/resource/Ian_Rankin</value>
 </author>
+<name>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>The Complaints</value>
+</name>
 <wikilink>
 <type>uri</type>
 <value>http://en.wikipedia.org/wiki/The_Complaints?oldid=584202886</value>

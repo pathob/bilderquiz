@@ -29,6 +29,11 @@
 <type>uri</type>
 <value>http://dbpedia.org/resource/Richelle_Mead</value>
 </author>
+<name>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>Vampire Academy</value>
+</name>
 <published>
 <type>typed-literal</type>
 <datatype>http://www.w3.org/2001/XMLSchema#integer</datatype>
@@ -53,6 +58,11 @@
 <type>uri</type>
 <value>http://dbpedia.org/resource/Richelle_Mead</value>
 </author>
+<name>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>Shadow Kiss</value>
+</name>
 <wikilink>
 <type>uri</type>
 <value>http://en.wikipedia.org/wiki/Shadow_Kiss?oldid=602867108</value>
@@ -72,6 +82,11 @@
 <type>uri</type>
 <value>http://dbpedia.org/resource/Richelle_Mead</value>
 </author>
+<name>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>The Golden Lily</value>
+</name>
 <wikilink>
 <type>uri</type>
 <value>http://en.wikipedia.org/wiki/The_Golden_Lily?oldid=596467730</value>
@@ -86,6 +101,11 @@
 <type>uri</type>
 <value>http://dbpedia.org/resource/Richelle_Mead</value>
 </author>
+<name>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>Bloodlines</value>
+</name>
 <wikilink>
 <type>uri</type>
 <value>http://en.wikipedia.org/wiki/Bloodlines_(Mead_novel)?oldid=596467389</value>
@@ -100,6 +120,11 @@
 <type>uri</type>
 <value>http://dbpedia.org/resource/Richelle_Mead</value>
 </author>
+<name>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>Spirit Bound</value>
+</name>
 <wikilink>
 <type>uri</type>
 <value>http://en.wikipedia.org/wiki/Spirit_Bound?oldid=606009182</value>
@@ -114,6 +139,11 @@
 <type>uri</type>
 <value>http://dbpedia.org/resource/Richelle_Mead</value>
 </author>
+<name>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>Blood Promise</value>
+</name>
 <wikilink>
 <type>uri</type>
 <value>http://en.wikipedia.org/wiki/Blood_Promise_(novel)?oldid=598723972</value>
@@ -128,6 +158,11 @@
 <type>uri</type>
 <value>http://dbpedia.org/resource/Richelle_Mead</value>
 </author>
+<name>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>Frostbite</value>
+</name>
 <wikilink>
 <type>uri</type>
 <value>http://en.wikipedia.org/wiki/Frostbite_(Richelle_Mead_novel)?oldid=596466511</value>
@@ -142,6 +177,11 @@
 <type>uri</type>
 <value>http://dbpedia.org/resource/Richelle_Mead</value>
 </author>
+<name>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>Last Sacrifice</value>
+</name>
 <wikilink>
 <type>uri</type>
 <value>http://en.wikipedia.org/wiki/Last_Sacrifice?oldid=602868254</value>
@@ -156,6 +196,11 @@
 <type>uri</type>
 <value>http://dbpedia.org/resource/Richelle_Mead</value>
 </author>
+<name>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>The Fiery Heart</value>
+</name>
 <wikilink>
 <type>uri</type>
 <value>http://en.wikipedia.org/wiki/The_Fiery_Heart?oldid=605015157</value>

@@ -71,6 +71,11 @@
 <type>uri</type>
 <value>http://dbpedia.org/resource/Georges_Simenon</value>
 </author>
+<name>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>The Cat</value>
+</name>
 <released>
 <type>typed-literal</type>
 <datatype>http://www.w3.org/2001/XMLSchema#integer</datatype>
@@ -95,6 +100,11 @@
 <type>uri</type>
 <value>http://dbpedia.org/resource/Georges_Simenon</value>
 </author>
+<name>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>The Strange Case of Peter the Lett</value>
+</name>
 <released>
 <type>typed-literal</type>
 <datatype>http://www.w3.org/2001/XMLSchema#integer</datatype>
@@ -119,6 +129,11 @@
 <type>uri</type>
 <value>http://dbpedia.org/resource/Georges_Simenon</value>
 </author>
+<name>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>Le Petit Homme d&apos;Arkhangelsk</value>
+</name>
 <released>
 <type>typed-literal</type>
 <datatype>http://www.w3.org/2001/XMLSchema#integer</datatype>
@@ -143,6 +158,11 @@
 <type>uri</type>
 <value>http://dbpedia.org/resource/Georges_Simenon</value>
 </author>
+<name>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>Les Fiançailles de M. Hire</value>
+</name>
 <released>
 <type>typed-literal</type>
 <datatype>http://www.w3.org/2001/XMLSchema#integer</datatype>
@@ -167,6 +187,11 @@
 <type>uri</type>
 <value>http://dbpedia.org/resource/Georges_Simenon</value>
 </author>
+<name>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>Maigret and the Yellow Dog</value>
+</name>
 <released>
 <type>typed-literal</type>
 <datatype>http://www.w3.org/2001/XMLSchema#integer</datatype>
@@ -191,6 +216,11 @@
 <type>uri</type>
 <value>http://dbpedia.org/resource/Georges_Simenon</value>
 </author>
+<name>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>L&apos;Homme qui regardait passer les trains</value>
+</name>
 <released>
 <type>typed-literal</type>
 <datatype>http://www.w3.org/2001/XMLSchema#integer</datatype>
@@ -215,6 +245,11 @@
 <type>uri</type>
 <value>http://dbpedia.org/resource/Georges_Simenon</value>
 </author>
+<name>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>Red Lights</value>
+</name>
 <released>
 <type>typed-literal</type>
 <datatype>http://www.w3.org/2001/XMLSchema#integer</datatype>
@@ -234,6 +269,11 @@
 <type>uri</type>
 <value>http://dbpedia.org/resource/Georges_Simenon</value>
 </author>
+<name>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>Pedigree</value>
+</name>
 <released>
 <type>typed-literal</type>
 <datatype>http://www.w3.org/2001/XMLSchema#integer</datatype>
@@ -253,6 +293,11 @@
 <type>uri</type>
 <value>http://dbpedia.org/resource/Georges_Simenon</value>
 </author>
+<name>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>Maigret and Monsieur Charles</value>
+</name>
 <wikilink>
 <type>uri</type>
 <value>http://en.wikipedia.org/wiki/Maigret_and_Monsieur_Charles?oldid=542603738</value>
@@ -272,6 +317,11 @@
 <type>uri</type>
 <value>http://dbpedia.org/resource/Georges_Simenon</value>
 </author>
+<name>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>Maigret Has Scruples</value>
+</name>
 <wikilink>
 <type>uri</type>
 <value>http://en.wikipedia.org/wiki/Maigret_Has_Scruples?oldid=564944030</value>
@@ -291,6 +341,11 @@
 <type>uri</type>
 <value>http://dbpedia.org/resource/Georges_Simenon</value>
 </author>
+<name>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>Maigret and the Dosser</value>
+</name>
 <wikilink>
 <type>uri</type>
 <value>http://en.wikipedia.org/wiki/Maigret_and_the_Dosser?oldid=542611990</value>
@@ -310,6 +365,11 @@
 <type>uri</type>
 <value>http://dbpedia.org/resource/Georges_Simenon</value>
 </author>
+<name>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>Tropic Moon</value>
+</name>
 <wikilink>
 <type>uri</type>
 <value>http://en.wikipedia.org/wiki/Tropic_Moon?oldid=587926413</value>

@@ -26,6 +26,11 @@
 <type>uri</type>
 <value>http://dbpedia.org/resource/Peter_F._Hamilton</value>
 </author>
+<name>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>A Quantum Murder</value>
+</name>
 <released>
 <type>literal</type>
 <xml:lang>en</xml:lang>
@@ -45,6 +50,11 @@
 <type>uri</type>
 <value>http://dbpedia.org/resource/Peter_F._Hamilton</value>
 </author>
+<name>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>Fallen Dragon</value>
+</name>
 <released>
 <type>typed-literal</type>
 <datatype>http://www.w3.org/2001/XMLSchema#integer</datatype>
@@ -64,6 +74,11 @@
 <type>uri</type>
 <value>http://dbpedia.org/resource/Peter_F._Hamilton</value>
 </author>
+<name>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>The Naked God</value>
+</name>
 <released>
 <type>typed-literal</type>
 <datatype>http://www.w3.org/2001/XMLSchema#date</datatype>
@@ -83,6 +98,11 @@
 <type>uri</type>
 <value>http://dbpedia.org/resource/Peter_F._Hamilton</value>
 </author>
+<name>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>The Neutronium Alchemist</value>
+</name>
 <released>
 <type>typed-literal</type>
 <datatype>http://www.w3.org/2001/XMLSchema#date</datatype>
@@ -102,6 +122,11 @@
 <type>uri</type>
 <value>http://dbpedia.org/resource/Peter_F._Hamilton</value>
 </author>
+<name>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>The Reality Dysfunction</value>
+</name>
 <released>
 <type>typed-literal</type>
 <datatype>http://www.w3.org/2001/XMLSchema#date</datatype>
@@ -121,6 +146,11 @@
 <type>uri</type>
 <value>http://dbpedia.org/resource/Peter_F._Hamilton</value>
 </author>
+<name>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>Mindstar Rising</value>
+</name>
 <released>
 <type>typed-literal</type>
 <datatype>http://www.w3.org/2001/XMLSchema#integer</datatype>
@@ -140,6 +170,11 @@
 <type>uri</type>
 <value>http://dbpedia.org/resource/Peter_F._Hamilton</value>
 </author>
+<name>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>The Nano Flower</value>
+</name>
 <released>
 <type>typed-literal</type>
 <datatype>http://www.w3.org/2001/XMLSchema#integer</datatype>
@@ -159,6 +194,11 @@
 <type>uri</type>
 <value>http://dbpedia.org/resource/Peter_F._Hamilton</value>
 </author>
+<name>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>The Evolutionary Void</value>
+</name>
 <released>
 <type>typed-literal</type>
 <datatype>http://www.w3.org/2001/XMLSchema#gMonthDay</datatype>
@@ -178,6 +218,11 @@
 <type>uri</type>
 <value>http://dbpedia.org/resource/Peter_F._Hamilton</value>
 </author>
+<name>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>The Temporal Void</value>
+</name>
 <released>
 <type>typed-literal</type>
 <datatype>http://www.w3.org/2001/XMLSchema#date</datatype>
@@ -197,6 +242,11 @@
 <type>uri</type>
 <value>http://dbpedia.org/resource/Peter_F._Hamilton</value>
 </author>
+<name>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>Great North Road</value>
+</name>
 <released>
 <type>typed-literal</type>
 <datatype>http://www.w3.org/2001/XMLSchema#integer</datatype>
@@ -216,6 +266,11 @@
 <type>uri</type>
 <value>http://dbpedia.org/resource/Peter_F._Hamilton</value>
 </author>
+<name>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>The Dreaming Void</value>
+</name>
 <released>
 <type>typed-literal</type>
 <datatype>http://www.w3.org/2001/XMLSchema#date</datatype>
@@ -235,6 +290,11 @@
 <type>uri</type>
 <value>http://dbpedia.org/resource/Peter_F._Hamilton</value>
 </author>
+<name>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>Pandora&apos;s Star</value>
+</name>
 <wikilink>
 <type>uri</type>
 <value>http://en.wikipedia.org/wiki/Commonwealth_Saga?oldid=596080882</value>

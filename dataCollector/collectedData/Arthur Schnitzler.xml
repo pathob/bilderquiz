@@ -51,6 +51,11 @@
 <type>uri</type>
 <value>http://dbpedia.org/resource/Arthur_Schnitzler</value>
 </author>
+<name>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>Traumnovelle</value>
+</name>
 <released>
 <type>typed-literal</type>
 <datatype>http://www.w3.org/2001/XMLSchema#integer</datatype>
@@ -75,6 +80,11 @@
 <type>uri</type>
 <value>http://dbpedia.org/resource/Arthur_Schnitzler</value>
 </author>
+<name>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>The Road into the Open</value>
+</name>
 <released>
 <type>typed-literal</type>
 <datatype>http://www.w3.org/2001/XMLSchema#integer</datatype>

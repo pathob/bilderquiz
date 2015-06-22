@@ -95,6 +95,11 @@
 <type>uri</type>
 <value>http://dbpedia.org/resource/Friedrich_Nietzsche</value>
 </author>
+<name>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>Götzen-Dämmerung</value>
+</name>
 <thumbnail>
 <type>uri</type>
 <value>http://commons.wikimedia.org/wiki/Special:FilePath/Gotzen-dammerung.gif?width=300</value>
@@ -123,6 +128,11 @@
 <type>uri</type>
 <value>http://dbpedia.org/resource/Friedrich_Nietzsche</value>
 </author>
+<name>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>The Dawn</value>
+</name>
 <thumbnail>
 <type>uri</type>
 <value>http://commons.wikimedia.org/wiki/Special:FilePath/Morgenröthe.jpg?width=300</value>
@@ -151,6 +161,11 @@
 <type>uri</type>
 <value>http://dbpedia.org/resource/Friedrich_Nietzsche</value>
 </author>
+<name>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>Die Geburt der Tragödie aus dem Geiste der Musik</value>
+</name>
 <thumbnail>
 <type>uri</type>
 <value>http://commons.wikimedia.org/wiki/Special:FilePath/Friedrich_Nietzsche_1872.jpg?width=300</value>
@@ -179,6 +194,11 @@
 <type>uri</type>
 <value>http://dbpedia.org/resource/Friedrich_Nietzsche</value>
 </author>
+<name>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>Also sprach Zarathustra: Ein Buch für Alle und Keinen</value>
+</name>
 <thumbnail>
 <type>uri</type>
 <value>http://commons.wikimedia.org/wiki/Special:FilePath/Also_sprach_Zarathustra.GIF?width=300</value>
@@ -207,6 +227,11 @@
 <type>uri</type>
 <value>http://dbpedia.org/resource/Friedrich_Nietzsche</value>
 </author>
+<name>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>Ecce Homo: How One Becomes What One Is</value>
+</name>
 <thumbnail>
 <type>uri</type>
 <value>http://en.wikipedia.org/wiki/Special:FilePath/Ecce_Homo_1908.jpg?width=300</value>
@@ -235,6 +260,11 @@
 <type>uri</type>
 <value>http://dbpedia.org/resource/Friedrich_Nietzsche</value>
 </author>
+<name>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>Dionysos-Dithyramben</value>
+</name>
 <thumbnail>
 <type>uri</type>
 <value>http://commons.wikimedia.org/wiki/Special:FilePath/Dionysos_Louvre_Ma87_n2.jpg?width=300</value>
@@ -263,6 +293,11 @@
 <type>uri</type>
 <value>http://dbpedia.org/resource/Friedrich_Nietzsche</value>
 </author>
+<name>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>Idyllen aus Messina</value>
+</name>
 <thumbnail>
 <type>uri</type>
 <value>http://commons.wikimedia.org/wiki/Special:FilePath/Messina_Statua_di_Messina_(G._Prinzi).jpg?width=300</value>
@@ -286,6 +321,11 @@
 <type>uri</type>
 <value>http://dbpedia.org/resource/Friedrich_Nietzsche</value>
 </author>
+<name>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>Beyond Good and Evil</value>
+</name>
 <thumbnail>
 <type>uri</type>
 <value>http://commons.wikimedia.org/wiki/Special:FilePath/Beyond_Good_And_Evil_first_edition.jpg?width=300</value>
@@ -314,6 +354,11 @@
 <type>uri</type>
 <value>http://dbpedia.org/resource/Friedrich_Nietzsche</value>
 </author>
+<name>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>Die fröhliche Wissenschaft</value>
+</name>
 <thumbnail>
 <type>uri</type>
 <value>http://commons.wikimedia.org/wiki/Special:FilePath/FW82.jpg?width=300</value>
@@ -342,6 +387,11 @@
 <type>uri</type>
 <value>http://dbpedia.org/resource/Friedrich_Nietzsche</value>
 </author>
+<name>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>Zur Genealogie der Moral</value>
+</name>
 <thumbnail>
 <type>uri</type>
 <value>http://en.wikipedia.org/wiki/Special:FilePath/Genealogie_der_Moral_cover.gif?width=300</value>
@@ -370,6 +420,11 @@
 <type>uri</type>
 <value>http://dbpedia.org/resource/Friedrich_Nietzsche</value>
 </author>
+<name>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>Human, All Too Human</value>
+</name>
 <thumbnail>
 <type>uri</type>
 <value>http://commons.wikimedia.org/wiki/Special:FilePath/Menschliches_Allzumenschliches_1878.gif?width=300</value>
@@ -393,6 +448,11 @@
 <type>uri</type>
 <value>http://dbpedia.org/resource/Friedrich_Nietzsche</value>
 </author>
+<name>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>Der Antichrist</value>
+</name>
 <released>
 <type>typed-literal</type>
 <datatype>http://www.w3.org/2001/XMLSchema#integer</datatype>
@@ -417,6 +477,11 @@
 <type>uri</type>
 <value>http://dbpedia.org/resource/Friedrich_Nietzsche</value>
 </author>
+<name>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>My Sister and I</value>
+</name>
 <released>
 <type>typed-literal</type>
 <datatype>http://www.w3.org/2001/XMLSchema#integer</datatype>
@@ -441,6 +506,11 @@
 <type>uri</type>
 <value>http://dbpedia.org/resource/Friedrich_Nietzsche</value>
 </author>
+<name>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>Nietzsche contra Wagner</value>
+</name>
 <released>
 <type>typed-literal</type>
 <datatype>http://www.w3.org/2001/XMLSchema#integer</datatype>

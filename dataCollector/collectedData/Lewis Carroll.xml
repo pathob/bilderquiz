@@ -54,6 +54,11 @@
 <type>uri</type>
 <value>http://dbpedia.org/resource/Lewis_Carroll</value>
 </author>
+<name>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>Alice&apos;s Adventures in Wonderland</value>
+</name>
 <thumbnail>
 <type>uri</type>
 <value>http://commons.wikimedia.org/wiki/Special:FilePath/AlicesAdventuresInWonderlandTitlePage.jpg?width=300</value>
@@ -82,6 +87,11 @@
 <type>uri</type>
 <value>http://dbpedia.org/resource/Lewis_Carroll</value>
 </author>
+<name>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>Through the Looking-Glass</value>
+</name>
 <thumbnail>
 <type>uri</type>
 <value>http://commons.wikimedia.org/wiki/Special:FilePath/Through_the_looking_glass.jpg?width=300</value>
@@ -110,6 +120,11 @@
 <type>uri</type>
 <value>http://dbpedia.org/resource/Lewis_Carroll</value>
 </author>
+<name>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>The Nursery “Alice”</value>
+</name>
 <thumbnail>
 <type>uri</type>
 <value>http://commons.wikimedia.org/wiki/Special:FilePath/Nursery-alice-1890.png?width=300</value>
@@ -133,6 +148,11 @@
 <type>uri</type>
 <value>http://dbpedia.org/resource/Lewis_Carroll</value>
 </author>
+<name>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>Alice&apos;s Adventures in Wonderland retold in words of one syllable</value>
+</name>
 <thumbnail>
 <type>uri</type>
 <value>http://en.wikipedia.org/wiki/Special:FilePath/Alice-gorham-burt-1905.png?width=300</value>
@@ -156,6 +176,11 @@
 <type>uri</type>
 <value>http://dbpedia.org/resource/Lewis_Carroll</value>
 </author>
+<name>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>Sylvie and Bruno</value>
+</name>
 <thumbnail>
 <type>uri</type>
 <value>http://commons.wikimedia.org/wiki/Special:FilePath/Sylvie_and_Bruno.gif?width=300</value>
@@ -179,6 +204,11 @@
 <type>uri</type>
 <value>http://dbpedia.org/resource/Lewis_Carroll</value>
 </author>
+<name>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>A Tangled Tale</value>
+</name>
 <released>
 <type>typed-literal</type>
 <datatype>http://www.w3.org/2001/XMLSchema#integer</datatype>

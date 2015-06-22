@@ -45,6 +45,11 @@
 <type>uri</type>
 <value>http://dbpedia.org/resource/Jacques_Derrida</value>
 </author>
+<name>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>Speech and Phenomena</value>
+</name>
 <released>
 <type>typed-literal</type>
 <datatype>http://www.w3.org/2001/XMLSchema#integer</datatype>
@@ -64,6 +69,11 @@
 <type>uri</type>
 <value>http://dbpedia.org/resource/Jacques_Derrida</value>
 </author>
+<name>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>Points de suspension. Entretiens</value>
+</name>
 <released>
 <type>typed-literal</type>
 <datatype>http://www.w3.org/2001/XMLSchema#integer</datatype>
@@ -83,6 +93,11 @@
 <type>uri</type>
 <value>http://dbpedia.org/resource/Jacques_Derrida</value>
 </author>
+<name>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>Of Grammatology</value>
+</name>
 <released>
 <type>typed-literal</type>
 <datatype>http://www.w3.org/2001/XMLSchema#integer</datatype>
@@ -102,6 +117,11 @@
 <type>uri</type>
 <value>http://dbpedia.org/resource/Jacques_Derrida</value>
 </author>
+<name>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>Writing and Difference</value>
+</name>
 <released>
 <type>typed-literal</type>
 <datatype>http://www.w3.org/2001/XMLSchema#integer</datatype>
@@ -121,6 +141,11 @@
 <type>uri</type>
 <value>http://dbpedia.org/resource/Jacques_Derrida</value>
 </author>
+<name>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>Glas</value>
+</name>
 <wikilink>
 <type>uri</type>
 <value>http://en.wikipedia.org/wiki/Glas_(book)?oldid=602688364</value>
@@ -135,6 +160,11 @@
 <type>uri</type>
 <value>http://dbpedia.org/resource/Jacques_Derrida</value>
 </author>
+<name>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>Spectres de Marx: l&apos;état de la dette, le travail du deuil et la nouvelle Internationale</value>
+</name>
 <wikilink>
 <type>uri</type>
 <value>http://en.wikipedia.org/wiki/Specters_of_Marx?oldid=595507858</value>
@@ -149,6 +179,11 @@
 <type>uri</type>
 <value>http://dbpedia.org/resource/Jacques_Derrida</value>
 </author>
+<name>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>La carte postale: De Socrate à Freud et au-delà</value>
+</name>
 <wikilink>
 <type>uri</type>
 <value>http://en.wikipedia.org/wiki/The_Post_Card:_From_Socrates_to_Freud_and_Beyond?oldid=606684313</value>

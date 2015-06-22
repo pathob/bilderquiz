@@ -32,6 +32,11 @@
 <type>uri</type>
 <value>http://dbpedia.org/resource/Nick_Hornby</value>
 </author>
+<name>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>Songbook</value>
+</name>
 <thumbnail>
 <type>uri</type>
 <value>http://en.wikipedia.org/wiki/Special:FilePath/31_Songs_(Nick_Hornby_book_-_cover_art).jpg?width=300</value>
@@ -50,6 +55,11 @@
 <type>uri</type>
 <value>http://dbpedia.org/resource/Nick_Hornby</value>
 </author>
+<name>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>High Fidelity</value>
+</name>
 <released>
 <type>typed-literal</type>
 <datatype>http://www.w3.org/2001/XMLSchema#integer</datatype>
@@ -74,6 +84,11 @@
 <type>uri</type>
 <value>http://dbpedia.org/resource/Nick_Hornby</value>
 </author>
+<name>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>About a Boy</value>
+</name>
 <released>
 <type>typed-literal</type>
 <datatype>http://www.w3.org/2001/XMLSchema#integer</datatype>
@@ -98,6 +113,11 @@
 <type>uri</type>
 <value>http://dbpedia.org/resource/Nick_Hornby</value>
 </author>
+<name>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>Slam</value>
+</name>
 <released>
 <type>typed-literal</type>
 <datatype>http://www.w3.org/2001/XMLSchema#integer</datatype>
@@ -122,6 +142,11 @@
 <type>uri</type>
 <value>http://dbpedia.org/resource/Nick_Hornby</value>
 </author>
+<name>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>A Long Way Down</value>
+</name>
 <released>
 <type>typed-literal</type>
 <datatype>http://www.w3.org/2001/XMLSchema#date</datatype>
@@ -146,6 +171,11 @@
 <type>uri</type>
 <value>http://dbpedia.org/resource/Nick_Hornby</value>
 </author>
+<name>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>How to Be Good</value>
+</name>
 <released>
 <type>typed-literal</type>
 <datatype>http://www.w3.org/2001/XMLSchema#date</datatype>
@@ -165,6 +195,11 @@
 <type>uri</type>
 <value>http://dbpedia.org/resource/Nick_Hornby</value>
 </author>
+<name>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>Fever Pitch</value>
+</name>
 <wikilink>
 <type>uri</type>
 <value>http://en.wikipedia.org/wiki/Fever_Pitch?oldid=595216907</value>
@@ -184,6 +219,11 @@
 <type>uri</type>
 <value>http://dbpedia.org/resource/Nick_Hornby</value>
 </author>
+<name>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>Juliet, Naked</value>
+</name>
 <wikilink>
 <type>uri</type>
 <value>http://en.wikipedia.org/wiki/Juliet,_Naked?oldid=595641630</value>
@@ -203,6 +243,11 @@
 <type>uri</type>
 <value>http://dbpedia.org/resource/Nick_Hornby</value>
 </author>
+<name>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>Shakespeare Wrote for Money</value>
+</name>
 <wikilink>
 <type>uri</type>
 <value>http://en.wikipedia.org/wiki/Shakespeare_Wrote_for_Money?oldid=599301760</value>
@@ -217,6 +262,11 @@
 <type>uri</type>
 <value>http://dbpedia.org/resource/Nick_Hornby</value>
 </author>
+<name>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>Click</value>
+</name>
 <wikilink>
 <type>uri</type>
 <value>http://en.wikipedia.org/wiki/Click_(novel)?oldid=606191435</value>
@@ -231,6 +281,11 @@
 <type>uri</type>
 <value>http://dbpedia.org/resource/Nick_Hornby</value>
 </author>
+<name>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>Housekeeping vs. The Dirt</value>
+</name>
 <wikilink>
 <type>uri</type>
 <value>http://en.wikipedia.org/wiki/Housekeeping_vs._The_Dirt?oldid=592084024</value>
@@ -245,6 +300,11 @@
 <type>uri</type>
 <value>http://dbpedia.org/resource/Nick_Hornby</value>
 </author>
+<name>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>The Polysyllabic Spree</value>
+</name>
 <wikilink>
 <type>uri</type>
 <value>http://en.wikipedia.org/wiki/The_Polysyllabic_Spree?oldid=597226600</value>

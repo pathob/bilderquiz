@@ -27,6 +27,11 @@
 <type>uri</type>
 <value>http://dbpedia.org/resource/Greil_Marcus</value>
 </author>
+<name>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>Lipstick Traces: A Secret History of the Twentieth Century</value>
+</name>
 <wikilink>
 <type>uri</type>
 <value>http://en.wikipedia.org/wiki/Lipstick_Traces:_A_Secret_History_of_the_20th_Century?oldid=594503600</value>

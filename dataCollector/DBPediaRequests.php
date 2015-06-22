@@ -58,11 +58,6 @@ $format = 'json';
 	 }
 	 
 	 OPTIONAL{
-		?artwork dbpedia-owl:abstract ?abstract
-		FILTER(LANG(?abstract)="de")
-	 }
-	 
-	 OPTIONAL{
 		?artwork prov:wasDerivedFrom ?wikilink
 	 }
 	 
@@ -145,7 +140,7 @@ function getBooks($dbpid)
    'PREFIX dbp: <http://dbpedia.org/resource/>
    PREFIX dbp2: <http://dbpedia.org/ontology/>
  
-   SELECT ?book,?author,?thumbnail,?published,?released,?wikilink,?abstract
+   SELECT ?book,?author,?name,?thumbnail,?published,?released,?wikilink,?abstract
    WHERE {
 	 ?book a dbpedia-owl:Book.
 	 ?book dbpedia-owl:author ?author.

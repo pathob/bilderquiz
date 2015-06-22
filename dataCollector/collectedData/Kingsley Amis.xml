@@ -28,6 +28,11 @@
 <type>uri</type>
 <value>http://dbpedia.org/resource/Kingsley_Amis</value>
 </author>
+<name>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>Colonel Sun</value>
+</name>
 <released>
 <type>typed-literal</type>
 <datatype>http://www.w3.org/2001/XMLSchema#date</datatype>
@@ -47,6 +52,11 @@
 <type>uri</type>
 <value>http://dbpedia.org/resource/Kingsley_Amis</value>
 </author>
+<name>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>Take a Girl Like You</value>
+</name>
 <released>
 <type>typed-literal</type>
 <datatype>http://www.w3.org/2001/XMLSchema#integer</datatype>
@@ -66,6 +76,11 @@
 <type>uri</type>
 <value>http://dbpedia.org/resource/Kingsley_Amis</value>
 </author>
+<name>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>The Book of Bond</value>
+</name>
 <released>
 <type>typed-literal</type>
 <datatype>http://www.w3.org/2001/XMLSchema#integer</datatype>
@@ -85,6 +100,11 @@
 <type>uri</type>
 <value>http://dbpedia.org/resource/Kingsley_Amis</value>
 </author>
+<name>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>The Alteration</value>
+</name>
 <released>
 <type>typed-literal</type>
 <datatype>http://www.w3.org/2001/XMLSchema#integer</datatype>
@@ -104,6 +124,11 @@
 <type>uri</type>
 <value>http://dbpedia.org/resource/Kingsley_Amis</value>
 </author>
+<name>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>The Letters of Kingsley Amis</value>
+</name>
 <released>
 <type>typed-literal</type>
 <datatype>http://www.w3.org/2001/XMLSchema#date</datatype>
@@ -123,6 +148,11 @@
 <type>uri</type>
 <value>http://dbpedia.org/resource/Kingsley_Amis</value>
 </author>
+<name>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>Lucky Jim</value>
+</name>
 <wikilink>
 <type>uri</type>
 <value>http://en.wikipedia.org/wiki/Lucky_Jim?oldid=597637252</value>
@@ -137,6 +167,11 @@
 <type>uri</type>
 <value>http://dbpedia.org/resource/Kingsley_Amis</value>
 </author>
+<name>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>The Golden Age of Science Fiction</value>
+</name>
 <wikilink>
 <type>uri</type>
 <value>http://en.wikipedia.org/wiki/The_Golden_Age_of_Science_Fiction_(anthology)?oldid=573860379</value>

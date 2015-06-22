@@ -27,6 +27,11 @@
 <type>uri</type>
 <value>http://dbpedia.org/resource/Jeff_Smith_(cartoonist)</value>
 </author>
+<name>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>Eyes of the Storm</value>
+</name>
 <released>
 <type>typed-literal</type>
 <datatype>http://www.w3.org/2001/XMLSchema#integer</datatype>
@@ -46,6 +51,11 @@
 <type>uri</type>
 <value>http://dbpedia.org/resource/Jeff_Smith_(cartoonist)</value>
 </author>
+<name>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>Ghost Circles</value>
+</name>
 <released>
 <type>typed-literal</type>
 <datatype>http://www.w3.org/2001/XMLSchema#date</datatype>
@@ -65,6 +75,11 @@
 <type>uri</type>
 <value>http://dbpedia.org/resource/Jeff_Smith_(cartoonist)</value>
 </author>
+<name>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>Old Man&apos;s Cave</value>
+</name>
 <released>
 <type>typed-literal</type>
 <datatype>http://www.w3.org/2001/XMLSchema#date</datatype>
@@ -84,6 +99,11 @@
 <type>uri</type>
 <value>http://dbpedia.org/resource/Jeff_Smith_(cartoonist)</value>
 </author>
+<name>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>Out from Boneville</value>
+</name>
 <released>
 <type>typed-literal</type>
 <datatype>http://www.w3.org/2001/XMLSchema#date</datatype>
@@ -103,6 +123,11 @@
 <type>uri</type>
 <value>http://dbpedia.org/resource/Jeff_Smith_(cartoonist)</value>
 </author>
+<name>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>(Master of the Eastern Border)</value>
+</name>
 <released>
 <type>typed-literal</type>
 <datatype>http://www.w3.org/2001/XMLSchema#date</datatype>
@@ -122,6 +147,11 @@
 <type>uri</type>
 <value>http://dbpedia.org/resource/Jeff_Smith_(cartoonist)</value>
 </author>
+<name>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>The Dragonslayer</value>
+</name>
 <released>
 <type>typed-literal</type>
 <datatype>http://www.w3.org/2001/XMLSchema#integer</datatype>
@@ -141,6 +171,11 @@
 <type>uri</type>
 <value>http://dbpedia.org/resource/Jeff_Smith_(cartoonist)</value>
 </author>
+<name>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>The Great Cow Race</value>
+</name>
 <released>
 <type>typed-literal</type>
 <datatype>http://www.w3.org/2001/XMLSchema#integer</datatype>
@@ -160,6 +195,11 @@
 <type>uri</type>
 <value>http://dbpedia.org/resource/Jeff_Smith_(cartoonist)</value>
 </author>
+<name>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>Treasure Hunters</value>
+</name>
 <released>
 <type>typed-literal</type>
 <datatype>http://www.w3.org/2001/XMLSchema#date</datatype>
@@ -179,6 +219,11 @@
 <type>uri</type>
 <value>http://dbpedia.org/resource/Jeff_Smith_(cartoonist)</value>
 </author>
+<name>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>Crown of Horns</value>
+</name>
 <released>
 <type>typed-literal</type>
 <datatype>http://www.w3.org/2001/XMLSchema#date</datatype>

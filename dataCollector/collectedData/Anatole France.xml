@@ -43,6 +43,11 @@
 <type>uri</type>
 <value>http://dbpedia.org/resource/Anatole_France</value>
 </author>
+<name>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>The Gods Are Athirst</value>
+</name>
 <thumbnail>
 <type>uri</type>
 <value>http://commons.wikimedia.org/wiki/Special:FilePath/FranceGodsAthirst.jpg?width=300</value>
@@ -66,6 +71,11 @@
 <type>uri</type>
 <value>http://dbpedia.org/resource/Anatole_France</value>
 </author>
+<name>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>Penguin Island</value>
+</name>
 <released>
 <type>typed-literal</type>
 <datatype>http://www.w3.org/2001/XMLSchema#integer</datatype>

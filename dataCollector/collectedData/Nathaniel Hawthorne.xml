@@ -36,6 +36,11 @@
 <type>uri</type>
 <value>http://dbpedia.org/resource/Nathaniel_Hawthorne</value>
 </author>
+<name>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>Twice-Told Tales</value>
+</name>
 <thumbnail>
 <type>uri</type>
 <value>http://en.wikipedia.org/wiki/Special:FilePath/Twice_told_tales.jpg?width=300</value>
@@ -64,6 +69,11 @@
 <type>uri</type>
 <value>http://dbpedia.org/resource/Nathaniel_Hawthorne</value>
 </author>
+<name>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>The House of the Seven Gables</value>
+</name>
 <thumbnail>
 <type>uri</type>
 <value>http://commons.wikimedia.org/wiki/Special:FilePath/7_Gables.jpg?width=300</value>
@@ -92,6 +102,11 @@
 <type>uri</type>
 <value>http://dbpedia.org/resource/Nathaniel_Hawthorne</value>
 </author>
+<name>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>Fanshawe</value>
+</name>
 <thumbnail>
 <type>uri</type>
 <value>http://commons.wikimedia.org/wiki/Special:FilePath/Nathaniel_Hawthorne.jpg?width=300</value>
@@ -115,6 +130,11 @@
 <type>uri</type>
 <value>http://dbpedia.org/resource/Nathaniel_Hawthorne</value>
 </author>
+<name>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>Mosses from an Old Manse</value>
+</name>
 <thumbnail>
 <type>uri</type>
 <value>http://commons.wikimedia.org/wiki/Special:FilePath/MossesFromAnOldManse-titlepage.jpg?width=300</value>
@@ -138,6 +158,11 @@
 <type>uri</type>
 <value>http://dbpedia.org/resource/Nathaniel_Hawthorne</value>
 </author>
+<name>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>The Marble Faun</value>
+</name>
 <thumbnail>
 <type>uri</type>
 <value>http://commons.wikimedia.org/wiki/Special:FilePath/The_Marble_Faun.jpg?width=300</value>
@@ -161,6 +186,11 @@
 <type>uri</type>
 <value>http://dbpedia.org/resource/Nathaniel_Hawthorne</value>
 </author>
+<name>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>The Scarlet Letter</value>
+</name>
 <thumbnail>
 <type>uri</type>
 <value>http://commons.wikimedia.org/wiki/Special:FilePath/Title_page_for_The_Scarlet_Letter.jpg?width=300</value>
@@ -184,6 +214,11 @@
 <type>uri</type>
 <value>http://dbpedia.org/resource/Nathaniel_Hawthorne</value>
 </author>
+<name>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>The Blithedale Romance</value>
+</name>
 <thumbnail>
 <type>uri</type>
 <value>http://commons.wikimedia.org/wiki/Special:FilePath/Blithedale_1st.jpg?width=300</value>
@@ -202,6 +237,11 @@
 <type>uri</type>
 <value>http://dbpedia.org/resource/Nathaniel_Hawthorne</value>
 </author>
+<name>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>The Snow-Image, and Other Twice-Told Tales</value>
+</name>
 <released>
 <type>typed-literal</type>
 <datatype>http://www.w3.org/2001/XMLSchema#integer</datatype>

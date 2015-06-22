@@ -47,6 +47,11 @@
 <type>uri</type>
 <value>http://dbpedia.org/resource/Vladimir_Nabokov</value>
 </author>
+<name>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>A Russian Beauty and Other Stories</value>
+</name>
 <thumbnail>
 <type>uri</type>
 <value>http://en.wikipedia.org/wiki/Special:FilePath/ARussianBeauty.jpg?width=300</value>
@@ -70,6 +75,11 @@
 <type>uri</type>
 <value>http://dbpedia.org/resource/Vladimir_Nabokov</value>
 </author>
+<name>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>Speak, Memory</value>
+</name>
 <thumbnail>
 <type>uri</type>
 <value>http://commons.wikimedia.org/wiki/Special:FilePath/Rozhdestveno.JPG?width=300</value>
@@ -88,6 +98,11 @@
 <type>uri</type>
 <value>http://dbpedia.org/resource/Vladimir_Nabokov</value>
 </author>
+<name>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>Pale Fire</value>
+</name>
 <released>
 <type>typed-literal</type>
 <datatype>http://www.w3.org/2001/XMLSchema#integer</datatype>
@@ -112,6 +127,11 @@
 <type>uri</type>
 <value>http://dbpedia.org/resource/Vladimir_Nabokov</value>
 </author>
+<name>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>Lolita</value>
+</name>
 <released>
 <type>typed-literal</type>
 <datatype>http://www.w3.org/2001/XMLSchema#integer</datatype>
@@ -136,6 +156,11 @@
 <type>uri</type>
 <value>http://dbpedia.org/resource/Vladimir_Nabokov</value>
 </author>
+<name>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>The Eye</value>
+</name>
 <released>
 <type>typed-literal</type>
 <datatype>http://www.w3.org/2001/XMLSchema#integer</datatype>
@@ -155,6 +180,11 @@
 <type>uri</type>
 <value>http://dbpedia.org/resource/Vladimir_Nabokov</value>
 </author>
+<name>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>The Defense</value>
+</name>
 <released>
 <type>typed-literal</type>
 <datatype>http://www.w3.org/2001/XMLSchema#integer</datatype>
@@ -174,6 +204,11 @@
 <type>uri</type>
 <value>http://dbpedia.org/resource/Vladimir_Nabokov</value>
 </author>
+<name>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>King, Queen, Knave</value>
+</name>
 <released>
 <type>literal</type>
 <xml:lang>en</xml:lang>
@@ -193,6 +228,11 @@
 <type>uri</type>
 <value>http://dbpedia.org/resource/Vladimir_Nabokov</value>
 </author>
+<name>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>Invitation to a Beheading</value>
+</name>
 <released>
 <type>typed-literal</type>
 <datatype>http://www.w3.org/2001/XMLSchema#integer</datatype>
@@ -212,6 +252,11 @@
 <type>uri</type>
 <value>http://dbpedia.org/resource/Vladimir_Nabokov</value>
 </author>
+<name>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>The Waltz Invention</value>
+</name>
 <released>
 <type>typed-literal</type>
 <datatype>http://www.w3.org/2001/XMLSchema#integer</datatype>
@@ -231,6 +276,11 @@
 <type>uri</type>
 <value>http://dbpedia.org/resource/Vladimir_Nabokov</value>
 </author>
+<name>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>The Enchanter</value>
+</name>
 <released>
 <type>typed-literal</type>
 <datatype>http://www.w3.org/2001/XMLSchema#integer</datatype>
@@ -250,6 +300,11 @@
 <type>uri</type>
 <value>http://dbpedia.org/resource/Vladimir_Nabokov</value>
 </author>
+<name>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>Машенька (Mashen&apos;ka)</value>
+</name>
 <released>
 <type>typed-literal</type>
 <datatype>http://www.w3.org/2001/XMLSchema#integer</datatype>
@@ -269,6 +324,11 @@
 <type>uri</type>
 <value>http://dbpedia.org/resource/Vladimir_Nabokov</value>
 </author>
+<name>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>Tyrants Destroyed and Other Stories</value>
+</name>
 <released>
 <type>typed-literal</type>
 <datatype>http://www.w3.org/2001/XMLSchema#integer</datatype>
@@ -288,6 +348,11 @@
 <type>uri</type>
 <value>http://dbpedia.org/resource/Vladimir_Nabokov</value>
 </author>
+<name>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>The Return of Chorb</value>
+</name>
 <released>
 <type>typed-literal</type>
 <datatype>http://www.w3.org/2001/XMLSchema#integer</datatype>
@@ -307,6 +372,11 @@
 <type>uri</type>
 <value>http://dbpedia.org/resource/Vladimir_Nabokov</value>
 </author>
+<name>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>Details of a Sunset and Other Stories</value>
+</name>
 <released>
 <type>typed-literal</type>
 <datatype>http://www.w3.org/2001/XMLSchema#integer</datatype>
@@ -326,6 +396,11 @@
 <type>uri</type>
 <value>http://dbpedia.org/resource/Vladimir_Nabokov</value>
 </author>
+<name>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>Podvig</value>
+</name>
 <released>
 <type>typed-literal</type>
 <datatype>http://www.w3.org/2001/XMLSchema#integer</datatype>
@@ -345,6 +420,11 @@
 <type>uri</type>
 <value>http://dbpedia.org/resource/Vladimir_Nabokov</value>
 </author>
+<name>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>Дар</value>
+</name>
 <released>
 <type>typed-literal</type>
 <datatype>http://www.w3.org/2001/XMLSchema#integer</datatype>
@@ -364,6 +444,11 @@
 <type>uri</type>
 <value>http://dbpedia.org/resource/Vladimir_Nabokov</value>
 </author>
+<name>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>Laughter in the Dark</value>
+</name>
 <released>
 <type>typed-literal</type>
 <datatype>http://www.w3.org/2001/XMLSchema#integer</datatype>
@@ -383,6 +468,11 @@
 <type>uri</type>
 <value>http://dbpedia.org/resource/Vladimir_Nabokov</value>
 </author>
+<name>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>Despair</value>
+</name>
 <released>
 <type>typed-literal</type>
 <datatype>http://www.w3.org/2001/XMLSchema#integer</datatype>
@@ -402,6 +492,11 @@
 <type>uri</type>
 <value>http://dbpedia.org/resource/Vladimir_Nabokov</value>
 </author>
+<name>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>A Matter of Chance</value>
+</name>
 <released>
 <type>typed-literal</type>
 <datatype>http://www.w3.org/2001/XMLSchema#integer</datatype>
@@ -421,6 +516,11 @@
 <type>uri</type>
 <value>http://dbpedia.org/resource/Vladimir_Nabokov</value>
 </author>
+<name>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>Details of a Sunset</value>
+</name>
 <released>
 <type>typed-literal</type>
 <datatype>http://www.w3.org/2001/XMLSchema#integer</datatype>
@@ -440,6 +540,11 @@
 <type>uri</type>
 <value>http://dbpedia.org/resource/Vladimir_Nabokov</value>
 </author>
+<name>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>Ada or Ardor</value>
+</name>
 <published>
 <type>typed-literal</type>
 <datatype>http://www.w3.org/2001/XMLSchema#integer</datatype>
@@ -464,6 +569,11 @@
 <type>uri</type>
 <value>http://dbpedia.org/resource/Vladimir_Nabokov</value>
 </author>
+<name>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>Bend Sinister</value>
+</name>
 <wikilink>
 <type>uri</type>
 <value>http://en.wikipedia.org/wiki/Bend_Sinister_(novel)?oldid=592411983</value>
@@ -478,6 +588,11 @@
 <type>uri</type>
 <value>http://dbpedia.org/resource/Vladimir_Nabokov</value>
 </author>
+<name>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>The Original of Laura</value>
+</name>
 <wikilink>
 <type>uri</type>
 <value>http://en.wikipedia.org/wiki/The_Original_of_Laura?oldid=605393717</value>
@@ -492,6 +607,11 @@
 <type>uri</type>
 <value>http://dbpedia.org/resource/Vladimir_Nabokov</value>
 </author>
+<name>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>The Tragedy of Mister Morn</value>
+</name>
 <wikilink>
 <type>uri</type>
 <value>http://en.wikipedia.org/wiki/The_Tragedy_of_Mister_Morn?oldid=604059422</value>
@@ -506,6 +626,11 @@
 <type>uri</type>
 <value>http://dbpedia.org/resource/Vladimir_Nabokov</value>
 </author>
+<name>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>The Man from the USSR and Other Plays</value>
+</name>
 <wikilink>
 <type>uri</type>
 <value>http://en.wikipedia.org/wiki/The_Man_from_the_USSR_and_Other_Plays?oldid=605843641</value>

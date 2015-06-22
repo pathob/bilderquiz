@@ -37,6 +37,11 @@
 <type>uri</type>
 <value>http://dbpedia.org/resource/Edith_Wharton</value>
 </author>
+<name>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>Ethan Frome</value>
+</name>
 <thumbnail>
 <type>uri</type>
 <value>http://en.wikipedia.org/wiki/Special:FilePath/Ethan_Frome_first_edition_cover.jpg?width=300</value>
@@ -60,6 +65,11 @@
 <type>uri</type>
 <value>http://dbpedia.org/resource/Edith_Wharton</value>
 </author>
+<name>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>The Decoration of Houses</value>
+</name>
 <thumbnail>
 <type>uri</type>
 <value>http://en.wikipedia.org/wiki/Special:FilePath/The_Decoration_of_Houses.jpg?width=300</value>
@@ -83,6 +93,11 @@
 <type>uri</type>
 <value>http://dbpedia.org/resource/Edith_Wharton</value>
 </author>
+<name>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>The House of Mirth</value>
+</name>
 <thumbnail>
 <type>uri</type>
 <value>http://commons.wikimedia.org/wiki/Special:FilePath/House_of_Mirth_1.jpg?width=300</value>
@@ -106,6 +121,11 @@
 <type>uri</type>
 <value>http://dbpedia.org/resource/Edith_Wharton</value>
 </author>
+<name>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>The Age of Innocence</value>
+</name>
 <thumbnail>
 <type>uri</type>
 <value>http://commons.wikimedia.org/wiki/Special:FilePath/The_Age_of_Innocence_-_Reynolds.jpg?width=300</value>
@@ -129,6 +149,11 @@
 <type>uri</type>
 <value>http://dbpedia.org/resource/Edith_Wharton</value>
 </author>
+<name>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>The Custom of the Country</value>
+</name>
 <released>
 <type>typed-literal</type>
 <datatype>http://www.w3.org/2001/XMLSchema#integer</datatype>
@@ -148,6 +173,11 @@
 <type>uri</type>
 <value>http://dbpedia.org/resource/Edith_Wharton</value>
 </author>
+<name>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>Summer</value>
+</name>
 <wikilink>
 <type>uri</type>
 <value>http://en.wikipedia.org/wiki/Summer_(novel)?oldid=604327449</value>

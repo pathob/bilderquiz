@@ -52,6 +52,11 @@
 <type>uri</type>
 <value>http://dbpedia.org/resource/Winston_Churchill</value>
 </author>
+<name>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>The River War: An Historical Account of the Reconquest of the Soudan</value>
+</name>
 <thumbnail>
 <type>uri</type>
 <value>http://en.wikipedia.org/wiki/Special:FilePath/RiverWarillustrationFieldTelegraph.jpg?width=300</value>
@@ -70,6 +75,11 @@
 <type>uri</type>
 <value>http://dbpedia.org/resource/Winston_Churchill</value>
 </author>
+<name>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>The story of the Malakand field force</value>
+</name>
 <released>
 <type>typed-literal</type>
 <datatype>http://www.w3.org/2001/XMLSchema#integer</datatype>
@@ -89,6 +99,11 @@
 <type>uri</type>
 <value>http://dbpedia.org/resource/Winston_Churchill</value>
 </author>
+<name>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>Great Contemporaries</value>
+</name>
 <wikilink>
 <type>uri</type>
 <value>http://en.wikipedia.org/wiki/Great_Contemporaries?oldid=598024103</value>

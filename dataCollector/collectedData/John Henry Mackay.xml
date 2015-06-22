@@ -33,6 +33,11 @@
 <type>uri</type>
 <value>http://dbpedia.org/resource/John_Henry_Mackay</value>
 </author>
+<name>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>The Anarchists</value>
+</name>
 <thumbnail>
 <type>uri</type>
 <value>http://commons.wikimedia.org/wiki/Special:FilePath/Die_Anarchisten.jpg?width=300</value>

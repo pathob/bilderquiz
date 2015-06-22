@@ -74,6 +74,11 @@
 <type>uri</type>
 <value>http://dbpedia.org/resource/Martin_Heidegger</value>
 </author>
+<name>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>Being and Time</value>
+</name>
 <published>
 <type>typed-literal</type>
 <datatype>http://www.w3.org/2001/XMLSchema#integer</datatype>
@@ -98,6 +103,11 @@
 <type>uri</type>
 <value>http://dbpedia.org/resource/Martin_Heidegger</value>
 </author>
+<name>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>Kant und das Problem der Metaphysik</value>
+</name>
 <wikilink>
 <type>uri</type>
 <value>http://en.wikipedia.org/wiki/Kant_and_the_Problem_of_Metaphysics?oldid=583233919</value>
@@ -112,6 +122,11 @@
 <type>uri</type>
 <value>http://dbpedia.org/resource/Martin_Heidegger</value>
 </author>
+<name>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>Einführung in die Metaphysik</value>
+</name>
 <wikilink>
 <type>uri</type>
 <value>http://en.wikipedia.org/wiki/An_Introduction_to_Metaphysics_(Heidegger)?oldid=606793708</value>

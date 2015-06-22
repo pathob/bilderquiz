@@ -27,6 +27,11 @@
 <type>uri</type>
 <value>http://dbpedia.org/resource/Andrea_Dworkin</value>
 </author>
+<name>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>Scapegoat: The Jews, Israel, and Women&apos;s Liberation</value>
+</name>
 <wikilink>
 <type>uri</type>
 <value>http://en.wikipedia.org/wiki/Scapegoat:_The_Jews,_Israel,_and_Women&apos;s_Liberation?oldid=594816543</value>
@@ -41,6 +46,11 @@
 <type>uri</type>
 <value>http://dbpedia.org/resource/Andrea_Dworkin</value>
 </author>
+<name>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>Intercourse</value>
+</name>
 <wikilink>
 <type>uri</type>
 <value>http://en.wikipedia.org/wiki/Intercourse_(book)?oldid=586654408</value>
@@ -55,6 +65,11 @@
 <type>uri</type>
 <value>http://dbpedia.org/resource/Andrea_Dworkin</value>
 </author>
+<name>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>Woman Hating: A Radical Look at Sexuality</value>
+</name>
 <wikilink>
 <type>uri</type>
 <value>http://en.wikipedia.org/wiki/Woman_Hating?oldid=592057686</value>
@@ -69,6 +84,11 @@
 <type>uri</type>
 <value>http://dbpedia.org/resource/Andrea_Dworkin</value>
 </author>
+<name>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>Pornography: Men Possessing Women</value>
+</name>
 <wikilink>
 <type>uri</type>
 <value>http://en.wikipedia.org/wiki/Pornography:_Men_Possessing_Women?oldid=604940260</value>

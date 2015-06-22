@@ -59,6 +59,11 @@
 <type>uri</type>
 <value>http://dbpedia.org/resource/Bayard_Taylor</value>
 </author>
+<name>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>Joseph and His Friend: A Story of Pennsylvania</value>
+</name>
 <thumbnail>
 <type>uri</type>
 <value>http://commons.wikimedia.org/wiki/Special:FilePath/Joseph_and_his_friend.jpg?width=300</value>

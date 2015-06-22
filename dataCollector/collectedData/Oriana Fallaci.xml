@@ -30,6 +30,11 @@
 <type>uri</type>
 <value>http://dbpedia.org/resource/Oriana_Fallaci</value>
 </author>
+<name>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>In sha Allah</value>
+</name>
 <released>
 <type>typed-literal</type>
 <datatype>http://www.w3.org/2001/XMLSchema#integer</datatype>
@@ -54,6 +59,11 @@
 <type>uri</type>
 <value>http://dbpedia.org/resource/Oriana_Fallaci</value>
 </author>
+<name>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>Un Uomo</value>
+</name>
 <wikilink>
 <type>uri</type>
 <value>http://en.wikipedia.org/wiki/A_Man?oldid=583380201</value>
@@ -73,6 +83,11 @@
 <type>uri</type>
 <value>http://dbpedia.org/resource/Oriana_Fallaci</value>
 </author>
+<name>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>Intervista con la storia</value>
+</name>
 <wikilink>
 <type>uri</type>
 <value>http://en.wikipedia.org/wiki/Interview_with_History?oldid=592059643</value>
@@ -87,6 +102,11 @@
 <type>uri</type>
 <value>http://dbpedia.org/resource/Oriana_Fallaci</value>
 </author>
+<name>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>Letter to a Child Never Born</value>
+</name>
 <wikilink>
 <type>uri</type>
 <value>http://en.wikipedia.org/wiki/Letter_to_a_Child_Never_Born?oldid=549119590</value>

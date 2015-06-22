@@ -35,6 +35,11 @@
 <type>uri</type>
 <value>http://dbpedia.org/resource/Christopher_Isherwood</value>
 </author>
+<name>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>Down There on a Visit</value>
+</name>
 <released>
 <type>typed-literal</type>
 <datatype>http://www.w3.org/2001/XMLSchema#integer</datatype>
@@ -54,6 +59,11 @@
 <type>uri</type>
 <value>http://dbpedia.org/resource/Christopher_Isherwood</value>
 </author>
+<name>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>The World in the Evening</value>
+</name>
 <released>
 <type>typed-literal</type>
 <datatype>http://www.w3.org/2001/XMLSchema#integer</datatype>
@@ -73,6 +83,11 @@
 <type>uri</type>
 <value>http://dbpedia.org/resource/Christopher_Isherwood</value>
 </author>
+<name>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>The Berlin Stories</value>
+</name>
 <released>
 <type>typed-literal</type>
 <datatype>http://www.w3.org/2001/XMLSchema#integer</datatype>
@@ -92,6 +107,11 @@
 <type>uri</type>
 <value>http://dbpedia.org/resource/Christopher_Isherwood</value>
 </author>
+<name>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>Prater Violet</value>
+</name>
 <released>
 <type>typed-literal</type>
 <datatype>http://www.w3.org/2001/XMLSchema#integer</datatype>
@@ -111,6 +131,11 @@
 <type>uri</type>
 <value>http://dbpedia.org/resource/Christopher_Isherwood</value>
 </author>
+<name>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>Goodbye to Berlin</value>
+</name>
 <wikilink>
 <type>uri</type>
 <value>http://en.wikipedia.org/wiki/Goodbye_to_Berlin?oldid=599032986</value>
@@ -130,6 +155,11 @@
 <type>uri</type>
 <value>http://dbpedia.org/resource/Christopher_Isherwood</value>
 </author>
+<name>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>Mr Norris Changes Trains</value>
+</name>
 <wikilink>
 <type>uri</type>
 <value>http://en.wikipedia.org/wiki/Mr_Norris_Changes_Trains?oldid=595202413</value>
@@ -149,6 +179,11 @@
 <type>uri</type>
 <value>http://dbpedia.org/resource/Christopher_Isherwood</value>
 </author>
+<name>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>Christopher and His Kind</value>
+</name>
 <wikilink>
 <type>uri</type>
 <value>http://en.wikipedia.org/wiki/Christopher_and_His_Kind?oldid=604247132</value>
@@ -163,6 +198,11 @@
 <type>uri</type>
 <value>http://dbpedia.org/resource/Christopher_Isherwood</value>
 </author>
+<name>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>A Single Man</value>
+</name>
 <wikilink>
 <type>uri</type>
 <value>http://en.wikipedia.org/wiki/A_Single_Man_(novel)?oldid=600690565</value>
@@ -177,6 +217,11 @@
 <type>uri</type>
 <value>http://dbpedia.org/resource/Christopher_Isherwood</value>
 </author>
+<name>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>The Memorial</value>
+</name>
 <wikilink>
 <type>uri</type>
 <value>http://en.wikipedia.org/wiki/The_Memorial?oldid=594823850</value>

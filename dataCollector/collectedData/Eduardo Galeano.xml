@@ -37,6 +37,11 @@
 <type>uri</type>
 <value>http://dbpedia.org/resource/Eduardo_Galeano</value>
 </author>
+<name>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>Upside Down</value>
+</name>
 <released>
 <type>typed-literal</type>
 <datatype>http://www.w3.org/2001/XMLSchema#integer</datatype>
@@ -56,6 +61,11 @@
 <type>uri</type>
 <value>http://dbpedia.org/resource/Eduardo_Galeano</value>
 </author>
+<name>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>Open Veins of Latin America: Five Centuries of the Pillage of a Continent</value>
+</name>
 <wikilink>
 <type>uri</type>
 <value>http://en.wikipedia.org/wiki/Open_Veins_of_Latin_America?oldid=599436807</value>
@@ -75,6 +85,11 @@
 <type>uri</type>
 <value>http://dbpedia.org/resource/Eduardo_Galeano</value>
 </author>
+<name>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>Days and Nights of Love and War</value>
+</name>
 <wikilink>
 <type>uri</type>
 <value>http://en.wikipedia.org/wiki/Days_and_Nights_of_Love_and_War?oldid=592853730</value>

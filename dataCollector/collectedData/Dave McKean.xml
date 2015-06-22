@@ -33,6 +33,11 @@
 <type>uri</type>
 <value>http://dbpedia.org/resource/Dave_McKean</value>
 </author>
+<name>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>Slow Chocolate Autopsy: Incidents from the Notorious Career of Norton, Prisoner of London</value>
+</name>
 <wikilink>
 <type>uri</type>
 <value>http://en.wikipedia.org/wiki/Slow_Chocolate_Autopsy?oldid=565686820</value>

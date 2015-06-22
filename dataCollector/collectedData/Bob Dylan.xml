@@ -47,6 +47,11 @@
 <type>uri</type>
 <value>http://dbpedia.org/resource/Bob_Dylan</value>
 </author>
+<name>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>Tarantula</value>
+</name>
 <released>
 <type>typed-literal</type>
 <datatype>http://www.w3.org/2001/XMLSchema#integer</datatype>
@@ -66,6 +71,11 @@
 <type>uri</type>
 <value>http://dbpedia.org/resource/Bob_Dylan</value>
 </author>
+<name>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>Chronicles, Volume One</value>
+</name>
 <released>
 <type>typed-literal</type>
 <datatype>http://www.w3.org/2001/XMLSchema#date</datatype>
@@ -85,6 +95,11 @@
 <type>uri</type>
 <value>http://dbpedia.org/resource/Bob_Dylan</value>
 </author>
+<name>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>Writings and Drawings</value>
+</name>
 <wikilink>
 <type>uri</type>
 <value>http://en.wikipedia.org/wiki/Writings_and_Drawings?oldid=591768921</value>

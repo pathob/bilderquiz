@@ -44,6 +44,11 @@
 <type>uri</type>
 <value>http://dbpedia.org/resource/Ursula_K._Le_Guin</value>
 </author>
+<name>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>Always Coming Home</value>
+</name>
 <thumbnail>
 <type>uri</type>
 <value>http://commons.wikimedia.org/wiki/Special:FilePath/Double_spirale.svg?width=300</value>
@@ -67,6 +72,11 @@
 <type>uri</type>
 <value>http://dbpedia.org/resource/Ursula_K._Le_Guin</value>
 </author>
+<name>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>The Eye of the Heron</value>
+</name>
 <released>
 <type>typed-literal</type>
 <datatype>http://www.w3.org/2001/XMLSchema#integer</datatype>
@@ -86,6 +96,11 @@
 <type>uri</type>
 <value>http://dbpedia.org/resource/Ursula_K._Le_Guin</value>
 </author>
+<name>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>Four Ways to Forgiveness</value>
+</name>
 <released>
 <type>typed-literal</type>
 <datatype>http://www.w3.org/2001/XMLSchema#integer</datatype>
@@ -105,6 +120,11 @@
 <type>uri</type>
 <value>http://dbpedia.org/resource/Ursula_K._Le_Guin</value>
 </author>
+<name>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>Orsinian Tales</value>
+</name>
 <released>
 <type>typed-literal</type>
 <datatype>http://www.w3.org/2001/XMLSchema#integer</datatype>
@@ -124,6 +144,11 @@
 <type>uri</type>
 <value>http://dbpedia.org/resource/Ursula_K._Le_Guin</value>
 </author>
+<name>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>City of Illusions</value>
+</name>
 <released>
 <type>typed-literal</type>
 <datatype>http://www.w3.org/2001/XMLSchema#integer</datatype>
@@ -143,6 +168,11 @@
 <type>uri</type>
 <value>http://dbpedia.org/resource/Ursula_K._Le_Guin</value>
 </author>
+<name>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>Planet of Exile</value>
+</name>
 <released>
 <type>typed-literal</type>
 <datatype>http://www.w3.org/2001/XMLSchema#integer</datatype>
@@ -162,6 +192,11 @@
 <type>uri</type>
 <value>http://dbpedia.org/resource/Ursula_K._Le_Guin</value>
 </author>
+<name>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>The Compass Rose</value>
+</name>
 <released>
 <type>literal</type>
 <xml:lang>en</xml:lang>
@@ -181,6 +216,11 @@
 <type>uri</type>
 <value>http://dbpedia.org/resource/Ursula_K._Le_Guin</value>
 </author>
+<name>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>Lavinia</value>
+</name>
 <released>
 <type>typed-literal</type>
 <datatype>http://www.w3.org/2001/XMLSchema#date</datatype>
@@ -200,6 +240,11 @@
 <type>uri</type>
 <value>http://dbpedia.org/resource/Ursula_K._Le_Guin</value>
 </author>
+<name>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>The Dispossessed</value>
+</name>
 <published>
 <type>typed-literal</type>
 <datatype>http://www.w3.org/2001/XMLSchema#integer</datatype>
@@ -224,6 +269,11 @@
 <type>uri</type>
 <value>http://dbpedia.org/resource/Ursula_K._Le_Guin</value>
 </author>
+<name>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>A Wizard of Earthsea</value>
+</name>
 <published>
 <type>typed-literal</type>
 <datatype>http://www.w3.org/2001/XMLSchema#integer</datatype>
@@ -243,6 +293,11 @@
 <type>uri</type>
 <value>http://dbpedia.org/resource/Ursula_K._Le_Guin</value>
 </author>
+<name>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>The Wind&apos;s Twelve Quarters</value>
+</name>
 <published>
 <type>typed-literal</type>
 <datatype>http://www.w3.org/2001/XMLSchema#integer</datatype>
@@ -262,6 +317,11 @@
 <type>uri</type>
 <value>http://dbpedia.org/resource/Ursula_K._Le_Guin</value>
 </author>
+<name>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>The Other Wind</value>
+</name>
 <published>
 <type>typed-literal</type>
 <datatype>http://www.w3.org/2001/XMLSchema#integer</datatype>
@@ -281,6 +341,11 @@
 <type>uri</type>
 <value>http://dbpedia.org/resource/Ursula_K._Le_Guin</value>
 </author>
+<name>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>Rocannon&apos;s World</value>
+</name>
 <published>
 <type>typed-literal</type>
 <datatype>http://www.w3.org/2001/XMLSchema#integer</datatype>
@@ -300,6 +365,11 @@
 <type>uri</type>
 <value>http://dbpedia.org/resource/Ursula_K._Le_Guin</value>
 </author>
+<name>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>Tales from Earthsea</value>
+</name>
 <published>
 <type>typed-literal</type>
 <datatype>http://www.w3.org/2001/XMLSchema#integer</datatype>
@@ -319,6 +389,11 @@
 <type>uri</type>
 <value>http://dbpedia.org/resource/Ursula_K._Le_Guin</value>
 </author>
+<name>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>Tehanu</value>
+</name>
 <published>
 <type>typed-literal</type>
 <datatype>http://www.w3.org/2001/XMLSchema#integer</datatype>
@@ -338,6 +413,11 @@
 <type>uri</type>
 <value>http://dbpedia.org/resource/Ursula_K._Le_Guin</value>
 </author>
+<name>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>The Word for World Is Forest</value>
+</name>
 <published>
 <type>typed-literal</type>
 <datatype>http://www.w3.org/2001/XMLSchema#integer</datatype>
@@ -357,6 +437,11 @@
 <type>uri</type>
 <value>http://dbpedia.org/resource/Ursula_K._Le_Guin</value>
 </author>
+<name>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>The Telling</value>
+</name>
 <published>
 <type>typed-literal</type>
 <datatype>http://www.w3.org/2001/XMLSchema#integer</datatype>
@@ -376,6 +461,11 @@
 <type>uri</type>
 <value>http://dbpedia.org/resource/Ursula_K._Le_Guin</value>
 </author>
+<name>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>The Left Hand of Darkness</value>
+</name>
 <published>
 <type>typed-literal</type>
 <datatype>http://www.w3.org/2001/XMLSchema#integer</datatype>
@@ -395,6 +485,11 @@
 <type>uri</type>
 <value>http://dbpedia.org/resource/Ursula_K._Le_Guin</value>
 </author>
+<name>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>A Fisherman of the Inland Sea</value>
+</name>
 <wikilink>
 <type>uri</type>
 <value>http://en.wikipedia.org/wiki/A_Fisherman_of_the_Inland_Sea?oldid=586477636</value>
@@ -409,6 +504,11 @@
 <type>uri</type>
 <value>http://dbpedia.org/resource/Ursula_K._Le_Guin</value>
 </author>
+<name>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>The Tombs of Atuan</value>
+</name>
 <wikilink>
 <type>uri</type>
 <value>http://en.wikipedia.org/wiki/The_Tombs_of_Atuan?oldid=570718999</value>
@@ -423,6 +523,11 @@
 <type>uri</type>
 <value>http://dbpedia.org/resource/Ursula_K._Le_Guin</value>
 </author>
+<name>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>The Farthest Shore</value>
+</name>
 <wikilink>
 <type>uri</type>
 <value>http://en.wikipedia.org/wiki/The_Farthest_Shore?oldid=544761800</value>
@@ -437,6 +542,11 @@
 <type>uri</type>
 <value>http://dbpedia.org/resource/Ursula_K._Le_Guin</value>
 </author>
+<name>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>The Beginning Place</value>
+</name>
 <wikilink>
 <type>uri</type>
 <value>http://en.wikipedia.org/wiki/The_Beginning_Place?oldid=563704550</value>
@@ -451,6 +561,11 @@
 <type>uri</type>
 <value>http://dbpedia.org/resource/Ursula_K._Le_Guin</value>
 </author>
+<name>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>Malafrena</value>
+</name>
 <wikilink>
 <type>uri</type>
 <value>http://en.wikipedia.org/wiki/Malafrena?oldid=585406686</value>
@@ -465,6 +580,11 @@
 <type>uri</type>
 <value>http://dbpedia.org/resource/Ursula_K._Le_Guin</value>
 </author>
+<name>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>Unlocking the Air and Other Stories</value>
+</name>
 <wikilink>
 <type>uri</type>
 <value>http://en.wikipedia.org/wiki/Unlocking_the_Air_and_Other_Stories?oldid=604645543</value>
@@ -479,6 +599,11 @@
 <type>uri</type>
 <value>http://dbpedia.org/resource/Ursula_K._Le_Guin</value>
 </author>
+<name>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>Steering the Craft: Exercises and Discussions on Story Writing for the Lone Mariner and the Mutinous Crew</value>
+</name>
 <wikilink>
 <type>uri</type>
 <value>http://en.wikipedia.org/wiki/Steering_the_Craft?oldid=601220104</value>
@@ -493,6 +618,11 @@
 <type>uri</type>
 <value>http://dbpedia.org/resource/Ursula_K._Le_Guin</value>
 </author>
+<name>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>The Birthday of the World</value>
+</name>
 <wikilink>
 <type>uri</type>
 <value>http://en.wikipedia.org/wiki/The_Birthday_of_the_World?oldid=591191490</value>
@@ -507,6 +637,11 @@
 <type>uri</type>
 <value>http://dbpedia.org/resource/Ursula_K._Le_Guin</value>
 </author>
+<name>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>Dancing at the Edge of the World</value>
+</name>
 <wikilink>
 <type>uri</type>
 <value>http://en.wikipedia.org/wiki/Dancing_at_the_Edge_of_the_World?oldid=584517890</value>

@@ -36,6 +36,11 @@
 <type>uri</type>
 <value>http://dbpedia.org/resource/Susan_Sontag</value>
 </author>
+<name>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>Illness as Metaphor</value>
+</name>
 <wikilink>
 <type>uri</type>
 <value>http://en.wikipedia.org/wiki/Illness_as_Metaphor?oldid=592854301</value>
@@ -55,6 +60,11 @@
 <type>uri</type>
 <value>http://dbpedia.org/resource/Susan_Sontag</value>
 </author>
+<name>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>AIDS and Its Metaphors</value>
+</name>
 <wikilink>
 <type>uri</type>
 <value>http://en.wikipedia.org/wiki/AIDS_and_Its_Metaphors?oldid=584228089</value>
@@ -69,6 +79,11 @@
 <type>uri</type>
 <value>http://dbpedia.org/resource/Susan_Sontag</value>
 </author>
+<name>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>In America</value>
+</name>
 <wikilink>
 <type>uri</type>
 <value>http://en.wikipedia.org/wiki/In_America_(novel)?oldid=544764616</value>
@@ -83,6 +98,11 @@
 <type>uri</type>
 <value>http://dbpedia.org/resource/Susan_Sontag</value>
 </author>
+<name>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>Against Interpretation</value>
+</name>
 <wikilink>
 <type>uri</type>
 <value>http://en.wikipedia.org/wiki/Against_Interpretation?oldid=590713660</value>
@@ -97,6 +117,11 @@
 <type>uri</type>
 <value>http://dbpedia.org/resource/Susan_Sontag</value>
 </author>
+<name>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>The Volcano Lover</value>
+</name>
 <wikilink>
 <type>uri</type>
 <value>http://en.wikipedia.org/wiki/The_Volcano_Lover?oldid=572047602</value>
@@ -111,6 +136,11 @@
 <type>uri</type>
 <value>http://dbpedia.org/resource/Susan_Sontag</value>
 </author>
+<name>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>Regarding the Pain of Others</value>
+</name>
 <wikilink>
 <type>uri</type>
 <value>http://en.wikipedia.org/wiki/Regarding_the_Pain_of_Others?oldid=597462431</value>

@@ -33,6 +33,11 @@
 <type>uri</type>
 <value>http://dbpedia.org/resource/Samuel_Johnson</value>
 </author>
+<name>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>A Dictionary of the English Language</value>
+</name>
 <thumbnail>
 <type>uri</type>
 <value>http://commons.wikimedia.org/wiki/Special:FilePath/JohnsonDictionary.png?width=300</value>
@@ -61,6 +66,11 @@
 <type>uri</type>
 <value>http://dbpedia.org/resource/Samuel_Johnson</value>
 </author>
+<name>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>Rasselas Prince of Abissinia</value>
+</name>
 <thumbnail>
 <type>uri</type>
 <value>http://commons.wikimedia.org/wiki/Special:FilePath/Rasselas_Cover.jpg?width=300</value>

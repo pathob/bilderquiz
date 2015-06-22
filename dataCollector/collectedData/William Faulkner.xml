@@ -51,6 +51,11 @@
 <type>uri</type>
 <value>http://dbpedia.org/resource/William_Faulkner</value>
 </author>
+<name>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>As I Lay Dying</value>
+</name>
 <thumbnail>
 <type>uri</type>
 <value>http://en.wikipedia.org/wiki/Special:FilePath/AsILayDying.jpg?width=300</value>
@@ -79,6 +84,11 @@
 <type>uri</type>
 <value>http://dbpedia.org/resource/William_Faulkner</value>
 </author>
+<name>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>Light in August</value>
+</name>
 <thumbnail>
 <type>uri</type>
 <value>http://commons.wikimedia.org/wiki/Special:FilePath/Photograph_of_F._H._Raisen_Sawmill_Planing_Mill_and_Machine_Shop_-_NARA_-_2127870.jpg?width=300</value>
@@ -102,6 +112,11 @@
 <type>uri</type>
 <value>http://dbpedia.org/resource/William_Faulkner</value>
 </author>
+<name>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>Absalom, Absalom!</value>
+</name>
 <released>
 <type>typed-literal</type>
 <datatype>http://www.w3.org/2001/XMLSchema#integer</datatype>
@@ -126,6 +141,11 @@
 <type>uri</type>
 <value>http://dbpedia.org/resource/William_Faulkner</value>
 </author>
+<name>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>The Sound and the Fury</value>
+</name>
 <released>
 <type>typed-literal</type>
 <datatype>http://www.w3.org/2001/XMLSchema#integer</datatype>
@@ -150,6 +170,11 @@
 <type>uri</type>
 <value>http://dbpedia.org/resource/William_Faulkner</value>
 </author>
+<name>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>Sartoris</value>
+</name>
 <released>
 <type>typed-literal</type>
 <datatype>http://www.w3.org/2001/XMLSchema#integer</datatype>
@@ -174,6 +199,11 @@
 <type>uri</type>
 <value>http://dbpedia.org/resource/William_Faulkner</value>
 </author>
+<name>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>Sanctuary</value>
+</name>
 <released>
 <type>typed-literal</type>
 <datatype>http://www.w3.org/2001/XMLSchema#integer</datatype>
@@ -198,6 +228,11 @@
 <type>uri</type>
 <value>http://dbpedia.org/resource/William_Faulkner</value>
 </author>
+<name>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>The Hamlet</value>
+</name>
 <released>
 <type>typed-literal</type>
 <datatype>http://www.w3.org/2001/XMLSchema#integer</datatype>
@@ -222,6 +257,11 @@
 <type>uri</type>
 <value>http://dbpedia.org/resource/William_Faulkner</value>
 </author>
+<name>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>Go Down, Moses</value>
+</name>
 <released>
 <type>typed-literal</type>
 <datatype>http://www.w3.org/2001/XMLSchema#integer</datatype>
@@ -241,6 +281,11 @@
 <type>uri</type>
 <value>http://dbpedia.org/resource/William_Faulkner</value>
 </author>
+<name>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>The Unvanquished</value>
+</name>
 <released>
 <type>typed-literal</type>
 <datatype>http://www.w3.org/2001/XMLSchema#integer</datatype>
@@ -260,6 +305,11 @@
 <type>uri</type>
 <value>http://dbpedia.org/resource/William_Faulkner</value>
 </author>
+<name>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>The Mansion</value>
+</name>
 <released>
 <type>typed-literal</type>
 <datatype>http://www.w3.org/2001/XMLSchema#integer</datatype>
@@ -279,6 +329,11 @@
 <type>uri</type>
 <value>http://dbpedia.org/resource/William_Faulkner</value>
 </author>
+<name>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>The Town</value>
+</name>
 <released>
 <type>typed-literal</type>
 <datatype>http://www.w3.org/2001/XMLSchema#integer</datatype>
@@ -298,6 +353,11 @@
 <type>uri</type>
 <value>http://dbpedia.org/resource/William_Faulkner</value>
 </author>
+<name>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>The Reivers</value>
+</name>
 <released>
 <type>typed-literal</type>
 <datatype>http://www.w3.org/2001/XMLSchema#integer</datatype>
@@ -317,6 +377,11 @@
 <type>uri</type>
 <value>http://dbpedia.org/resource/William_Faulkner</value>
 </author>
+<name>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>A Fable</value>
+</name>
 <published>
 <type>typed-literal</type>
 <datatype>http://www.w3.org/2001/XMLSchema#integer</datatype>
@@ -336,6 +401,11 @@
 <type>uri</type>
 <value>http://dbpedia.org/resource/William_Faulkner</value>
 </author>
+<name>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>Requiem for a Nun</value>
+</name>
 <wikilink>
 <type>uri</type>
 <value>http://en.wikipedia.org/wiki/Requiem_for_a_Nun?oldid=598094702</value>

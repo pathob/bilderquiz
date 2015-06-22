@@ -28,6 +28,11 @@
 <type>uri</type>
 <value>http://dbpedia.org/resource/Danielle_Steel</value>
 </author>
+<name>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>Jewels</value>
+</name>
 <released>
 <type>typed-literal</type>
 <datatype>http://www.w3.org/2001/XMLSchema#integer</datatype>
@@ -47,6 +52,11 @@
 <type>uri</type>
 <value>http://dbpedia.org/resource/Danielle_Steel</value>
 </author>
+<name>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>Kaleidoscope</value>
+</name>
 <released>
 <type>typed-literal</type>
 <datatype>http://www.w3.org/2001/XMLSchema#integer</datatype>
@@ -66,6 +76,11 @@
 <type>uri</type>
 <value>http://dbpedia.org/resource/Danielle_Steel</value>
 </author>
+<name>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>A Perfect Stranger</value>
+</name>
 <released>
 <type>typed-literal</type>
 <datatype>http://www.w3.org/2001/XMLSchema#integer</datatype>
@@ -85,6 +100,11 @@
 <type>uri</type>
 <value>http://dbpedia.org/resource/Danielle_Steel</value>
 </author>
+<name>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>Zoya</value>
+</name>
 <released>
 <type>typed-literal</type>
 <datatype>http://www.w3.org/2001/XMLSchema#integer</datatype>
@@ -104,6 +124,11 @@
 <type>uri</type>
 <value>http://dbpedia.org/resource/Danielle_Steel</value>
 </author>
+<name>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>The Wedding</value>
+</name>
 <released>
 <type>literal</type>
 <xml:lang>en</xml:lang>
@@ -123,6 +148,11 @@
 <type>uri</type>
 <value>http://dbpedia.org/resource/Danielle_Steel</value>
 </author>
+<name>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>The Gift</value>
+</name>
 <released>
 <type>literal</type>
 <xml:lang>en</xml:lang>
@@ -142,6 +172,11 @@
 <type>uri</type>
 <value>http://dbpedia.org/resource/Danielle_Steel</value>
 </author>
+<name>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>Accident</value>
+</name>
 <wikilink>
 <type>uri</type>
 <value>http://en.wikipedia.org/wiki/Accident_(novel)?oldid=604852459</value>
@@ -156,6 +191,11 @@
 <type>uri</type>
 <value>http://dbpedia.org/resource/Danielle_Steel</value>
 </author>
+<name>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>Family Album</value>
+</name>
 <wikilink>
 <type>uri</type>
 <value>http://en.wikipedia.org/wiki/Family_Album_(novel)?oldid=544760650</value>
@@ -170,6 +210,11 @@
 <type>uri</type>
 <value>http://dbpedia.org/resource/Danielle_Steel</value>
 </author>
+<name>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>Now and Forever</value>
+</name>
 <wikilink>
 <type>uri</type>
 <value>http://en.wikipedia.org/wiki/Now_and_Forever_(novel)?oldid=603171853</value>
@@ -184,6 +229,11 @@
 <type>uri</type>
 <value>http://dbpedia.org/resource/Danielle_Steel</value>
 </author>
+<name>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>Season Of Passion</value>
+</name>
 <wikilink>
 <type>uri</type>
 <value>http://en.wikipedia.org/wiki/Season_of_Passion?oldid=591881534</value>
@@ -198,6 +248,11 @@
 <type>uri</type>
 <value>http://dbpedia.org/resource/Danielle_Steel</value>
 </author>
+<name>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>Rogue</value>
+</name>
 <wikilink>
 <type>uri</type>
 <value>http://en.wikipedia.org/wiki/Rogue_(novel)?oldid=591853686</value>
@@ -212,6 +267,11 @@
 <type>uri</type>
 <value>http://dbpedia.org/resource/Danielle_Steel</value>
 </author>
+<name>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>Ransom</value>
+</name>
 <wikilink>
 <type>uri</type>
 <value>http://en.wikipedia.org/wiki/Ransom_(Steel_novel)?oldid=591853881</value>
@@ -226,6 +286,11 @@
 <type>uri</type>
 <value>http://dbpedia.org/resource/Danielle_Steel</value>
 </author>
+<name>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>Special Delivery</value>
+</name>
 <wikilink>
 <type>uri</type>
 <value>http://en.wikipedia.org/wiki/Special_Delivery_(novel)?oldid=545052330</value>
@@ -240,6 +305,11 @@
 <type>uri</type>
 <value>http://dbpedia.org/resource/Danielle_Steel</value>
 </author>
+<name>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>Passion&apos;s Promise/Golden Moments</value>
+</name>
 <wikilink>
 <type>uri</type>
 <value>http://en.wikipedia.org/wiki/Passion&apos;s_Promise?oldid=594790700</value>
@@ -254,6 +324,11 @@
 <type>uri</type>
 <value>http://dbpedia.org/resource/Danielle_Steel</value>
 </author>
+<name>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>Echoes</value>
+</name>
 <wikilink>
 <type>uri</type>
 <value>http://en.wikipedia.org/wiki/Echoes_(novel)?oldid=591854286</value>
@@ -268,6 +343,11 @@
 <type>uri</type>
 <value>http://dbpedia.org/resource/Danielle_Steel</value>
 </author>
+<name>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>Sisters</value>
+</name>
 <wikilink>
 <type>uri</type>
 <value>http://en.wikipedia.org/wiki/Sisters_(Steel_novel)?oldid=591853759</value>
@@ -282,6 +362,11 @@
 <type>uri</type>
 <value>http://dbpedia.org/resource/Danielle_Steel</value>
 </author>
+<name>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>Bungalow 2</value>
+</name>
 <wikilink>
 <type>uri</type>
 <value>http://en.wikipedia.org/wiki/Bungalow_2?oldid=591854118</value>
@@ -296,6 +381,11 @@
 <type>uri</type>
 <value>http://dbpedia.org/resource/Danielle_Steel</value>
 </author>
+<name>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>Five Days In Paris</value>
+</name>
 <wikilink>
 <type>uri</type>
 <value>http://en.wikipedia.org/wiki/Five_Days_in_Paris?oldid=591051139</value>
@@ -310,6 +400,11 @@
 <type>uri</type>
 <value>http://dbpedia.org/resource/Danielle_Steel</value>
 </author>
+<name>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>The House</value>
+</name>
 <wikilink>
 <type>uri</type>
 <value>http://en.wikipedia.org/wiki/The_House_(novel)?oldid=591049431</value>
@@ -324,6 +419,11 @@
 <type>uri</type>
 <value>http://dbpedia.org/resource/Danielle_Steel</value>
 </author>
+<name>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>Miracle</value>
+</name>
 <wikilink>
 <type>uri</type>
 <value>http://en.wikipedia.org/wiki/Miracle_(novel)?oldid=591050466</value>
@@ -338,6 +438,11 @@
 <type>uri</type>
 <value>http://dbpedia.org/resource/Danielle_Steel</value>
 </author>
+<name>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>Amazing Grace</value>
+</name>
 <wikilink>
 <type>uri</type>
 <value>http://en.wikipedia.org/wiki/Amazing_Grace_(novel)?oldid=591051663</value>
@@ -352,6 +457,11 @@
 <type>uri</type>
 <value>http://dbpedia.org/resource/Danielle_Steel</value>
 </author>
+<name>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>Betrayal</value>
+</name>
 <wikilink>
 <type>uri</type>
 <value>http://en.wikipedia.org/wiki/Betrayal_(Steel_novel)?oldid=601716445</value>
@@ -366,6 +476,11 @@
 <type>uri</type>
 <value>http://dbpedia.org/resource/Danielle_Steel</value>
 </author>
+<name>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>Crossings</value>
+</name>
 <wikilink>
 <type>uri</type>
 <value>http://en.wikipedia.org/wiki/Crossings_(Steel_novel)?oldid=544715944</value>
@@ -380,6 +495,11 @@
 <type>uri</type>
 <value>http://dbpedia.org/resource/Danielle_Steel</value>
 </author>
+<name>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>A Good Woman</value>
+</name>
 <wikilink>
 <type>uri</type>
 <value>http://en.wikipedia.org/wiki/A_Good_Woman_(novel)?oldid=591854447</value>
@@ -394,6 +514,11 @@
 <type>uri</type>
 <value>http://dbpedia.org/resource/Danielle_Steel</value>
 </author>
+<name>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>Wanderlust</value>
+</name>
 <wikilink>
 <type>uri</type>
 <value>http://en.wikipedia.org/wiki/Wanderlust_(Steel_novel)?oldid=591854575</value>
@@ -408,6 +533,11 @@
 <type>uri</type>
 <value>http://dbpedia.org/resource/Danielle_Steel</value>
 </author>
+<name>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>Fine Things</value>
+</name>
 <wikilink>
 <type>uri</type>
 <value>http://en.wikipedia.org/wiki/Fine_Things?oldid=594503437</value>
@@ -422,6 +552,11 @@
 <type>uri</type>
 <value>http://dbpedia.org/resource/Danielle_Steel</value>
 </author>
+<name>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>Safe Harbour</value>
+</name>
 <wikilink>
 <type>uri</type>
 <value>http://en.wikipedia.org/wiki/Safe_Harbour_(novel)?oldid=591050067</value>
@@ -436,6 +571,11 @@
 <type>uri</type>
 <value>http://dbpedia.org/resource/Danielle_Steel</value>
 </author>
+<name>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>Hotel Vendome</value>
+</name>
 <wikilink>
 <type>uri</type>
 <value>http://en.wikipedia.org/wiki/Hotel_Vendome_(novel)?oldid=591853940</value>
@@ -450,6 +590,11 @@
 <type>uri</type>
 <value>http://dbpedia.org/resource/Danielle_Steel</value>
 </author>
+<name>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>Silent Honor</value>
+</name>
 <wikilink>
 <type>uri</type>
 <value>http://en.wikipedia.org/wiki/Silent_Honor?oldid=591050268</value>
@@ -464,6 +609,11 @@
 <type>uri</type>
 <value>http://dbpedia.org/resource/Danielle_Steel</value>
 </author>
+<name>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>Coming Out</value>
+</name>
 <wikilink>
 <type>uri</type>
 <value>http://en.wikipedia.org/wiki/Coming_Out_(novel)?oldid=591854031</value>
@@ -478,6 +628,11 @@
 <type>uri</type>
 <value>http://dbpedia.org/resource/Danielle_Steel</value>
 </author>
+<name>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>Family Ties</value>
+</name>
 <wikilink>
 <type>uri</type>
 <value>http://en.wikipedia.org/wiki/Family_Ties_(novel)?oldid=591853972</value>
@@ -492,6 +647,11 @@
 <type>uri</type>
 <value>http://dbpedia.org/resource/Danielle_Steel</value>
 </author>
+<name>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>Friends Forever:A Novel</value>
+</name>
 <wikilink>
 <type>uri</type>
 <value>http://en.wikipedia.org/wiki/Friends_Forever_(novel)?oldid=596726186</value>
@@ -506,6 +666,11 @@
 <type>uri</type>
 <value>http://dbpedia.org/resource/Danielle_Steel</value>
 </author>
+<name>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>Mixed Blessings</value>
+</name>
 <wikilink>
 <type>uri</type>
 <value>http://en.wikipedia.org/wiki/Mixed_Blessings_(novel)?oldid=594790905</value>
@@ -520,6 +685,11 @@
 <type>uri</type>
 <value>http://dbpedia.org/resource/Danielle_Steel</value>
 </author>
+<name>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>Thurston House</value>
+</name>
 <wikilink>
 <type>uri</type>
 <value>http://en.wikipedia.org/wiki/Thurston_House_(novel)?oldid=591854388</value>
@@ -534,6 +704,11 @@
 <type>uri</type>
 <value>http://dbpedia.org/resource/Danielle_Steel</value>
 </author>
+<name>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>Message From Nam</value>
+</name>
 <wikilink>
 <type>uri</type>
 <value>http://en.wikipedia.org/wiki/Message_from_Nam?oldid=602871250</value>
@@ -548,6 +723,11 @@
 <type>uri</type>
 <value>http://dbpedia.org/resource/Danielle_Steel</value>
 </author>
+<name>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>Daddy</value>
+</name>
 <wikilink>
 <type>uri</type>
 <value>http://en.wikipedia.org/wiki/Daddy_(novel)?oldid=546562821</value>
@@ -562,6 +742,11 @@
 <type>uri</type>
 <value>http://dbpedia.org/resource/Danielle_Steel</value>
 </author>
+<name>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>Southern Lights</value>
+</name>
 <wikilink>
 <type>uri</type>
 <value>http://en.wikipedia.org/wiki/Southern_Lights_(novel)?oldid=591051332</value>
@@ -576,6 +761,11 @@
 <type>uri</type>
 <value>http://dbpedia.org/resource/Danielle_Steel</value>
 </author>
+<name>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>Impossible</value>
+</name>
 <wikilink>
 <type>uri</type>
 <value>http://en.wikipedia.org/wiki/Impossible_(novel)?oldid=591051265</value>
@@ -590,6 +780,11 @@
 <type>uri</type>
 <value>http://dbpedia.org/resource/Danielle_Steel</value>
 </author>
+<name>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>Big Girl</value>
+</name>
 <wikilink>
 <type>uri</type>
 <value>http://en.wikipedia.org/wiki/Big_Girl_(novel)?oldid=591854211</value>
@@ -604,6 +799,11 @@
 <type>uri</type>
 <value>http://dbpedia.org/resource/Danielle_Steel</value>
 </author>
+<name>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>One Day at a Time</value>
+</name>
 <wikilink>
 <type>uri</type>
 <value>http://en.wikipedia.org/wiki/One_Day_at_a_Time_(novel)?oldid=591051584</value>
@@ -618,6 +818,11 @@
 <type>uri</type>
 <value>http://dbpedia.org/resource/Danielle_Steel</value>
 </author>
+<name>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>H.R.H.</value>
+</name>
 <wikilink>
 <type>uri</type>
 <value>http://en.wikipedia.org/wiki/H.R.H._(novel)?oldid=596012730</value>
@@ -632,6 +837,11 @@
 <type>uri</type>
 <value>http://dbpedia.org/resource/Danielle_Steel</value>
 </author>
+<name>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>Toxic Bachelors</value>
+</name>
 <wikilink>
 <type>uri</type>
 <value>http://en.wikipedia.org/wiki/Toxic_Bachelors_(novel)?oldid=591853818</value>
@@ -646,6 +856,11 @@
 <type>uri</type>
 <value>http://dbpedia.org/resource/Danielle_Steel</value>
 </author>
+<name>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>Honor Thyself</value>
+</name>
 <wikilink>
 <type>uri</type>
 <value>http://en.wikipedia.org/wiki/Honor_Thyself?oldid=591049950</value>
@@ -660,6 +875,11 @@
 <type>uri</type>
 <value>http://dbpedia.org/resource/Danielle_Steel</value>
 </author>
+<name>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>Second Chance</value>
+</name>
 <wikilink>
 <type>uri</type>
 <value>http://en.wikipedia.org/wiki/Second_Chance_(novel)?oldid=591854495</value>
@@ -674,6 +894,11 @@
 <type>uri</type>
 <value>http://dbpedia.org/resource/Danielle_Steel</value>
 </author>
+<name>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>Matters Of The Heart</value>
+</name>
 <wikilink>
 <type>uri</type>
 <value>http://en.wikipedia.org/wiki/Matters_of_the_Heart_(novel)?oldid=591051403</value>
@@ -688,6 +913,11 @@
 <type>uri</type>
 <value>http://dbpedia.org/resource/Danielle_Steel</value>
 </author>
+<name>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>No Greater Love</value>
+</name>
 <wikilink>
 <type>uri</type>
 <value>http://en.wikipedia.org/wiki/No_Greater_Love_(novel)?oldid=597031133</value>
@@ -702,6 +932,11 @@
 <type>uri</type>
 <value>http://dbpedia.org/resource/Danielle_Steel</value>
 </author>
+<name>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>Sunset in St. Tropez</value>
+</name>
 <wikilink>
 <type>uri</type>
 <value>http://en.wikipedia.org/wiki/Sunset_in_St._Tropez?oldid=591853521</value>

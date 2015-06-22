@@ -50,6 +50,11 @@
 <type>uri</type>
 <value>http://dbpedia.org/resource/William_Makepeace_Thackeray</value>
 </author>
+<name>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>Vanity Fair</value>
+</name>
 <thumbnail>
 <type>uri</type>
 <value>http://commons.wikimedia.org/wiki/Special:FilePath/Vanity_Fair.jpg?width=300</value>
@@ -78,6 +83,11 @@
 <type>uri</type>
 <value>http://dbpedia.org/resource/William_Makepeace_Thackeray</value>
 </author>
+<name>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>The Adventures of Philip</value>
+</name>
 <thumbnail>
 <type>uri</type>
 <value>http://commons.wikimedia.org/wiki/Special:FilePath/1862_CorhillMagazine_January_p1.png?width=300</value>
@@ -101,6 +111,11 @@
 <type>uri</type>
 <value>http://dbpedia.org/resource/William_Makepeace_Thackeray</value>
 </author>
+<name>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>The Virginians</value>
+</name>
 <thumbnail>
 <type>uri</type>
 <value>http://commons.wikimedia.org/wiki/Special:FilePath/The_Virginians_Thackeray.jpg?width=300</value>
@@ -124,6 +139,11 @@
 <type>uri</type>
 <value>http://dbpedia.org/resource/William_Makepeace_Thackeray</value>
 </author>
+<name>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>The Book of Snobs</value>
+</name>
 <thumbnail>
 <type>uri</type>
 <value>http://commons.wikimedia.org/wiki/Special:FilePath/Book_of_Snobs-Première_de_couverture.jpg?width=300</value>
@@ -147,6 +167,11 @@
 <type>uri</type>
 <value>http://dbpedia.org/resource/William_Makepeace_Thackeray</value>
 </author>
+<name>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>The Newcomes</value>
+</name>
 <thumbnail>
 <type>uri</type>
 <value>http://commons.wikimedia.org/wiki/Special:FilePath/The_Newcomes.jpg?width=300</value>
@@ -165,6 +190,11 @@
 <type>uri</type>
 <value>http://dbpedia.org/resource/William_Makepeace_Thackeray</value>
 </author>
+<name>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>The History of Henry Esmond</value>
+</name>
 <thumbnail>
 <type>uri</type>
 <value>http://commons.wikimedia.org/wiki/Special:FilePath/The_History_of_Henry_Esmond_1st_ed.jpg?width=300</value>

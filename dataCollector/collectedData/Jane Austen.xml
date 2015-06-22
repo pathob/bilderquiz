@@ -39,6 +39,11 @@
 <type>uri</type>
 <value>http://dbpedia.org/resource/Jane_Austen</value>
 </author>
+<name>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>Pride and Prejudice</value>
+</name>
 <thumbnail>
 <type>uri</type>
 <value>http://commons.wikimedia.org/wiki/Special:FilePath/PrideAndPrejudiceTitlePage.jpg?width=300</value>
@@ -67,6 +72,11 @@
 <type>uri</type>
 <value>http://dbpedia.org/resource/Jane_Austen</value>
 </author>
+<name>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>Sense and Sensibility</value>
+</name>
 <thumbnail>
 <type>uri</type>
 <value>http://commons.wikimedia.org/wiki/Special:FilePath/SenseAndSensibilityTitlePage.jpg?width=300</value>
@@ -95,6 +105,11 @@
 <type>uri</type>
 <value>http://dbpedia.org/resource/Jane_Austen</value>
 </author>
+<name>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>Northanger Abbey</value>
+</name>
 <thumbnail>
 <type>uri</type>
 <value>http://commons.wikimedia.org/wiki/Special:FilePath/NorthangerPersuasionTitlePage.jpg?width=300</value>
@@ -123,6 +138,11 @@
 <type>uri</type>
 <value>http://dbpedia.org/resource/Jane_Austen</value>
 </author>
+<name>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>Mansfield Park</value>
+</name>
 <thumbnail>
 <type>uri</type>
 <value>http://commons.wikimedia.org/wiki/Special:FilePath/MansfieldParkTitlePage.jpg?width=300</value>
@@ -151,6 +171,11 @@
 <type>uri</type>
 <value>http://dbpedia.org/resource/Jane_Austen</value>
 </author>
+<name>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>Pride and Prejudice and Zombies</value>
+</name>
 <thumbnail>
 <type>uri</type>
 <value>http://commons.wikimedia.org/wiki/Special:FilePath/MarciaFox-portrait-WilliamBeechey.JPG?width=300</value>
@@ -174,6 +199,11 @@
 <type>uri</type>
 <value>http://dbpedia.org/resource/Jane_Austen</value>
 </author>
+<name>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>Persuasion</value>
+</name>
 <thumbnail>
 <type>uri</type>
 <value>http://commons.wikimedia.org/wiki/Special:FilePath/NorthangerPersuasionTitlePage.jpg?width=300</value>
@@ -197,6 +227,11 @@
 <type>uri</type>
 <value>http://dbpedia.org/resource/Jane_Austen</value>
 </author>
+<name>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>Sanditon</value>
+</name>
 <released>
 <type>typed-literal</type>
 <datatype>http://www.w3.org/2001/XMLSchema#integer</datatype>
@@ -216,6 +251,11 @@
 <type>uri</type>
 <value>http://dbpedia.org/resource/Jane_Austen</value>
 </author>
+<name>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>Sense and Sensibility and Sea Monsters</value>
+</name>
 <released>
 <type>typed-literal</type>
 <datatype>http://www.w3.org/2001/XMLSchema#date</datatype>
@@ -235,6 +275,11 @@
 <type>uri</type>
 <value>http://dbpedia.org/resource/Jane_Austen</value>
 </author>
+<name>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>Lady Susan</value>
+</name>
 <wikilink>
 <type>uri</type>
 <value>http://en.wikipedia.org/wiki/Lady_Susan?oldid=599950615</value>
@@ -249,6 +294,11 @@
 <type>uri</type>
 <value>http://dbpedia.org/resource/Jane_Austen</value>
 </author>
+<name>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>The Watsons</value>
+</name>
 <wikilink>
 <type>uri</type>
 <value>http://en.wikipedia.org/wiki/The_Watsons?oldid=596007732</value>

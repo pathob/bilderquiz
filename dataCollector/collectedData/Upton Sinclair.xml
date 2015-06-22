@@ -36,6 +36,11 @@
 <type>uri</type>
 <value>http://dbpedia.org/resource/Upton_Sinclair</value>
 </author>
+<name>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>The Jungle</value>
+</name>
 <thumbnail>
 <type>uri</type>
 <value>http://commons.wikimedia.org/wiki/Special:FilePath/TheJungleSinclair.jpg?width=300</value>
@@ -64,6 +69,11 @@
 <type>uri</type>
 <value>http://dbpedia.org/resource/Upton_Sinclair</value>
 </author>
+<name>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>The Journal of Arthur Stirling</value>
+</name>
 <thumbnail>
 <type>uri</type>
 <value>http://en.wikipedia.org/wiki/Special:FilePath/The_Journal_of_Arthur_Stirling.jpg?width=300</value>
@@ -87,6 +97,11 @@
 <type>uri</type>
 <value>http://dbpedia.org/resource/Upton_Sinclair</value>
 </author>
+<name>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>The Brass Check</value>
+</name>
 <released>
 <type>typed-literal</type>
 <datatype>http://www.w3.org/2001/XMLSchema#integer</datatype>
@@ -106,6 +121,11 @@
 <type>uri</type>
 <value>http://dbpedia.org/resource/Upton_Sinclair</value>
 </author>
+<name>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>Mental Radio</value>
+</name>
 <released>
 <type>typed-literal</type>
 <datatype>http://www.w3.org/2001/XMLSchema#integer</datatype>
@@ -125,6 +145,11 @@
 <type>uri</type>
 <value>http://dbpedia.org/resource/Upton_Sinclair</value>
 </author>
+<name>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>Oil!</value>
+</name>
 <released>
 <type>typed-literal</type>
 <datatype>http://www.w3.org/2001/XMLSchema#integer</datatype>
@@ -144,6 +169,11 @@
 <type>uri</type>
 <value>http://dbpedia.org/resource/Upton_Sinclair</value>
 </author>
+<name>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>The Flivver King: A Story of Ford-America</value>
+</name>
 <released>
 <type>typed-literal</type>
 <datatype>http://www.w3.org/2001/XMLSchema#integer</datatype>
@@ -163,6 +193,11 @@
 <type>uri</type>
 <value>http://dbpedia.org/resource/Upton_Sinclair</value>
 </author>
+<name>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>The Goose-step: A Study of American Education</value>
+</name>
 <released>
 <type>typed-literal</type>
 <datatype>http://www.w3.org/2001/XMLSchema#integer</datatype>
@@ -182,6 +217,11 @@
 <type>uri</type>
 <value>http://dbpedia.org/resource/Upton_Sinclair</value>
 </author>
+<name>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>Mammonart. An Essay on Economic Interpretation</value>
+</name>
 <released>
 <type>typed-literal</type>
 <datatype>http://www.w3.org/2001/XMLSchema#integer</datatype>
@@ -201,6 +241,11 @@
 <type>uri</type>
 <value>http://dbpedia.org/resource/Upton_Sinclair</value>
 </author>
+<name>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>The Profits of Religion: An Essay in Economic Interpretation</value>
+</name>
 <released>
 <type>typed-literal</type>
 <datatype>http://www.w3.org/2001/XMLSchema#integer</datatype>
@@ -220,6 +265,11 @@
 <type>uri</type>
 <value>http://dbpedia.org/resource/Upton_Sinclair</value>
 </author>
+<name>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>World&apos;s End</value>
+</name>
 <released>
 <type>typed-literal</type>
 <datatype>http://www.w3.org/2001/XMLSchema#integer</datatype>
@@ -239,6 +289,11 @@
 <type>uri</type>
 <value>http://dbpedia.org/resource/Upton_Sinclair</value>
 </author>
+<name>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>A Presidential Mission</value>
+</name>
 <wikilink>
 <type>uri</type>
 <value>http://en.wikipedia.org/wiki/Presidential_Mission?oldid=597502945</value>
@@ -253,6 +308,11 @@
 <type>uri</type>
 <value>http://dbpedia.org/resource/Upton_Sinclair</value>
 </author>
+<name>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>Wide is the Gate</value>
+</name>
 <wikilink>
 <type>uri</type>
 <value>http://en.wikipedia.org/wiki/Wide_Is_the_Gate?oldid=605457972</value>
@@ -267,6 +327,11 @@
 <type>uri</type>
 <value>http://dbpedia.org/resource/Upton_Sinclair</value>
 </author>
+<name>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>Dragon Harvest</value>
+</name>
 <wikilink>
 <type>uri</type>
 <value>http://en.wikipedia.org/wiki/Dragon_Harvest?oldid=585589086</value>
@@ -281,6 +346,11 @@
 <type>uri</type>
 <value>http://dbpedia.org/resource/Upton_Sinclair</value>
 </author>
+<name>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>Presidential Agent</value>
+</name>
 <wikilink>
 <type>uri</type>
 <value>http://en.wikipedia.org/wiki/Presidential_Agent?oldid=597502698</value>
@@ -295,6 +365,11 @@
 <type>uri</type>
 <value>http://dbpedia.org/resource/Upton_Sinclair</value>
 </author>
+<name>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>The Return of Lanny Budd</value>
+</name>
 <wikilink>
 <type>uri</type>
 <value>http://en.wikipedia.org/wiki/The_Return_of_Lanny_Budd?oldid=598098577</value>
@@ -309,6 +384,11 @@
 <type>uri</type>
 <value>http://dbpedia.org/resource/Upton_Sinclair</value>
 </author>
+<name>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>Between Two Worlds</value>
+</name>
 <wikilink>
 <type>uri</type>
 <value>http://en.wikipedia.org/wiki/Between_Two_Worlds_(novel)?oldid=594910697</value>
@@ -323,6 +403,11 @@
 <type>uri</type>
 <value>http://dbpedia.org/resource/Upton_Sinclair</value>
 </author>
+<name>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>Boston</value>
+</name>
 <wikilink>
 <type>uri</type>
 <value>http://en.wikipedia.org/wiki/Boston_(novel)?oldid=596774150</value>
@@ -337,6 +422,11 @@
 <type>uri</type>
 <value>http://dbpedia.org/resource/Upton_Sinclair</value>
 </author>
+<name>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>Dragon&apos;s Teeth</value>
+</name>
 <wikilink>
 <type>uri</type>
 <value>http://en.wikipedia.org/wiki/Dragon&apos;s_Teeth_(novel)?oldid=596467678</value>
@@ -351,6 +441,11 @@
 <type>uri</type>
 <value>http://dbpedia.org/resource/Upton_Sinclair</value>
 </author>
+<name>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>A World to Win</value>
+</name>
 <wikilink>
 <type>uri</type>
 <value>http://en.wikipedia.org/wiki/A_World_to_Win_(Sinclair_novel)?oldid=605636303</value>
@@ -365,6 +460,11 @@
 <type>uri</type>
 <value>http://dbpedia.org/resource/Upton_Sinclair</value>
 </author>
+<name>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>They Call Me Carpenter: A Tale of the Second Coming</value>
+</name>
 <wikilink>
 <type>uri</type>
 <value>http://en.wikipedia.org/wiki/They_Call_Me_Carpenter?oldid=603465515</value>
@@ -379,6 +479,11 @@
 <type>uri</type>
 <value>http://dbpedia.org/resource/Upton_Sinclair</value>
 </author>
+<name>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>Once Clear Call</value>
+</name>
 <wikilink>
 <type>uri</type>
 <value>http://en.wikipedia.org/wiki/One_Clear_Call?oldid=596465940</value>
@@ -393,6 +498,11 @@
 <type>uri</type>
 <value>http://dbpedia.org/resource/Upton_Sinclair</value>
 </author>
+<name>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>O Shepherd, Speak!</value>
+</name>
 <wikilink>
 <type>uri</type>
 <value>http://en.wikipedia.org/wiki/O_Shepherd,_Speak!?oldid=544918377</value>

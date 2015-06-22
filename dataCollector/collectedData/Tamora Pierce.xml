@@ -26,6 +26,11 @@
 <type>uri</type>
 <value>http://dbpedia.org/resource/Tamora_Pierce</value>
 </author>
+<name>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>Cold Fire</value>
+</name>
 <released>
 <type>literal</type>
 <xml:lang>en</xml:lang>
@@ -45,6 +50,11 @@
 <type>uri</type>
 <value>http://dbpedia.org/resource/Tamora_Pierce</value>
 </author>
+<name>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>Squire</value>
+</name>
 <released>
 <type>typed-literal</type>
 <datatype>http://www.w3.org/2001/XMLSchema#integer</datatype>
@@ -64,6 +74,11 @@
 <type>uri</type>
 <value>http://dbpedia.org/resource/Tamora_Pierce</value>
 </author>
+<name>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>The Realms of the Gods</value>
+</name>
 <released>
 <type>typed-literal</type>
 <datatype>http://www.w3.org/2001/XMLSchema#integer</datatype>
@@ -83,6 +98,11 @@
 <type>uri</type>
 <value>http://dbpedia.org/resource/Tamora_Pierce</value>
 </author>
+<name>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>Alanna: The First Adventure</value>
+</name>
 <released>
 <type>uri</type>
 <value>http://dbpedia.org/resource/1983_in_literature</value>
@@ -101,6 +121,11 @@
 <type>uri</type>
 <value>http://dbpedia.org/resource/Tamora_Pierce</value>
 </author>
+<name>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>Daja&apos;s Book</value>
+</name>
 <released>
 <type>literal</type>
 <xml:lang>en</xml:lang>
@@ -120,6 +145,11 @@
 <type>uri</type>
 <value>http://dbpedia.org/resource/Tamora_Pierce</value>
 </author>
+<name>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>Emperor Mage</value>
+</name>
 <released>
 <type>typed-literal</type>
 <datatype>http://www.w3.org/2001/XMLSchema#date</datatype>
@@ -139,6 +169,11 @@
 <type>uri</type>
 <value>http://dbpedia.org/resource/Tamora_Pierce</value>
 </author>
+<name>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>In the Hand of the Goddess</value>
+</name>
 <released>
 <type>typed-literal</type>
 <datatype>http://www.w3.org/2001/XMLSchema#integer</datatype>
@@ -158,6 +193,11 @@
 <type>uri</type>
 <value>http://dbpedia.org/resource/Tamora_Pierce</value>
 </author>
+<name>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>Lioness Rampant</value>
+</name>
 <released>
 <type>typed-literal</type>
 <datatype>http://www.w3.org/2001/XMLSchema#integer</datatype>
@@ -177,6 +217,11 @@
 <type>uri</type>
 <value>http://dbpedia.org/resource/Tamora_Pierce</value>
 </author>
+<name>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>Magic Steps</value>
+</name>
 <released>
 <type>literal</type>
 <xml:lang>en</xml:lang>
@@ -196,6 +241,11 @@
 <type>uri</type>
 <value>http://dbpedia.org/resource/Tamora_Pierce</value>
 </author>
+<name>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>Sandry&apos;s Book</value>
+</name>
 <released>
 <type>typed-literal</type>
 <datatype>http://www.w3.org/2001/XMLSchema#integer</datatype>
@@ -215,6 +265,11 @@
 <type>uri</type>
 <value>http://dbpedia.org/resource/Tamora_Pierce</value>
 </author>
+<name>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>Shatterglass</value>
+</name>
 <released>
 <type>literal</type>
 <xml:lang>en</xml:lang>
@@ -234,6 +289,11 @@
 <type>uri</type>
 <value>http://dbpedia.org/resource/Tamora_Pierce</value>
 </author>
+<name>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>Street Magic</value>
+</name>
 <released>
 <type>literal</type>
 <xml:lang>en</xml:lang>
@@ -253,6 +313,11 @@
 <type>uri</type>
 <value>http://dbpedia.org/resource/Tamora_Pierce</value>
 </author>
+<name>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>Wild Magic</value>
+</name>
 <released>
 <type>typed-literal</type>
 <datatype>http://www.w3.org/2001/XMLSchema#date</datatype>
@@ -272,6 +337,11 @@
 <type>uri</type>
 <value>http://dbpedia.org/resource/Tamora_Pierce</value>
 </author>
+<name>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>Wolf-Speaker</value>
+</name>
 <released>
 <type>typed-literal</type>
 <datatype>http://www.w3.org/2001/XMLSchema#date</datatype>
@@ -291,6 +361,11 @@
 <type>uri</type>
 <value>http://dbpedia.org/resource/Tamora_Pierce</value>
 </author>
+<name>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>Trickster&apos;s Choice</value>
+</name>
 <released>
 <type>typed-literal</type>
 <datatype>http://www.w3.org/2001/XMLSchema#integer</datatype>
@@ -310,6 +385,11 @@
 <type>uri</type>
 <value>http://dbpedia.org/resource/Tamora_Pierce</value>
 </author>
+<name>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>Page</value>
+</name>
 <released>
 <type>typed-literal</type>
 <datatype>http://www.w3.org/2001/XMLSchema#integer</datatype>
@@ -329,6 +409,11 @@
 <type>uri</type>
 <value>http://dbpedia.org/resource/Tamora_Pierce</value>
 </author>
+<name>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>Briar&apos;s Book</value>
+</name>
 <released>
 <type>typed-literal</type>
 <datatype>http://www.w3.org/2001/XMLSchema#integer</datatype>
@@ -348,6 +433,11 @@
 <type>uri</type>
 <value>http://dbpedia.org/resource/Tamora_Pierce</value>
 </author>
+<name>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>First Test</value>
+</name>
 <released>
 <type>typed-literal</type>
 <datatype>http://www.w3.org/2001/XMLSchema#integer</datatype>
@@ -367,6 +457,11 @@
 <type>uri</type>
 <value>http://dbpedia.org/resource/Tamora_Pierce</value>
 </author>
+<name>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>Lady Knight</value>
+</name>
 <released>
 <type>typed-literal</type>
 <datatype>http://www.w3.org/2001/XMLSchema#integer</datatype>
@@ -386,6 +481,11 @@
 <type>uri</type>
 <value>http://dbpedia.org/resource/Tamora_Pierce</value>
 </author>
+<name>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>Terrier</value>
+</name>
 <released>
 <type>literal</type>
 <xml:lang>en</xml:lang>
@@ -405,6 +505,11 @@
 <type>uri</type>
 <value>http://dbpedia.org/resource/Tamora_Pierce</value>
 </author>
+<name>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>The Woman Who Rides Like a Man</value>
+</name>
 <released>
 <type>typed-literal</type>
 <datatype>http://www.w3.org/2001/XMLSchema#integer</datatype>
@@ -424,6 +529,11 @@
 <type>uri</type>
 <value>http://dbpedia.org/resource/Tamora_Pierce</value>
 </author>
+<name>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>Tris&apos;s Book</value>
+</name>
 <released>
 <type>typed-literal</type>
 <datatype>http://www.w3.org/2001/XMLSchema#integer</datatype>
@@ -443,6 +553,11 @@
 <type>uri</type>
 <value>http://dbpedia.org/resource/Tamora_Pierce</value>
 </author>
+<name>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>The Will of the Empress</value>
+</name>
 <released>
 <type>literal</type>
 <xml:lang>en</xml:lang>
@@ -462,6 +577,11 @@
 <type>uri</type>
 <value>http://dbpedia.org/resource/Tamora_Pierce</value>
 </author>
+<name>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>Bloodhound</value>
+</name>
 <wikilink>
 <type>uri</type>
 <value>http://en.wikipedia.org/wiki/Bloodhound_(novel)?oldid=594444131</value>
@@ -476,6 +596,11 @@
 <type>uri</type>
 <value>http://dbpedia.org/resource/Tamora_Pierce</value>
 </author>
+<name>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>Battle Magic</value>
+</name>
 <wikilink>
 <type>uri</type>
 <value>http://en.wikipedia.org/wiki/Battle_Magic_(Tamora_Pierce_novel)?oldid=581879496</value>
@@ -490,6 +615,11 @@
 <type>uri</type>
 <value>http://dbpedia.org/resource/Tamora_Pierce</value>
 </author>
+<name>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>Tortall and Other Lands: A Collection of Tales</value>
+</name>
 <wikilink>
 <type>uri</type>
 <value>http://en.wikipedia.org/wiki/Tortall_and_Other_Lands?oldid=581743965</value>
@@ -504,6 +634,11 @@
 <type>uri</type>
 <value>http://dbpedia.org/resource/Tamora_Pierce</value>
 </author>
+<name>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>Mastiff</value>
+</name>
 <wikilink>
 <type>uri</type>
 <value>http://en.wikipedia.org/wiki/Mastiff_(novel)?oldid=581432661</value>
@@ -518,6 +653,11 @@
 <type>uri</type>
 <value>http://dbpedia.org/resource/Tamora_Pierce</value>
 </author>
+<name>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>Melting Stones</value>
+</name>
 <wikilink>
 <type>uri</type>
 <value>http://en.wikipedia.org/wiki/Melting_Stones?oldid=581554517</value>

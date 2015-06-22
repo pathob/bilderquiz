@@ -31,6 +31,11 @@
 <type>uri</type>
 <value>http://dbpedia.org/resource/Inger_Christensen</value>
 </author>
+<name>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>Det</value>
+</name>
 <wikilink>
 <type>uri</type>
 <value>http://en.wikipedia.org/wiki/It_(poetry)?oldid=559106215</value>
@@ -45,6 +50,11 @@
 <type>uri</type>
 <value>http://dbpedia.org/resource/Inger_Christensen</value>
 </author>
+<name>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>Alfabet</value>
+</name>
 <wikilink>
 <type>uri</type>
 <value>http://en.wikipedia.org/wiki/Alphabet_(book)?oldid=585227437</value>
@@ -59,6 +69,11 @@
 <type>uri</type>
 <value>http://dbpedia.org/resource/Inger_Christensen</value>
 </author>
+<name>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>Sommerfugledalen: Et requiem</value>
+</name>
 <wikilink>
 <type>uri</type>
 <value>http://en.wikipedia.org/wiki/Butterfly_Valley:_A_Requiem?oldid=588902590</value>

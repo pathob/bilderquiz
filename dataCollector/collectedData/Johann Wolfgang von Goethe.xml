@@ -126,6 +126,11 @@
 <type>uri</type>
 <value>http://dbpedia.org/resource/Johann_Wolfgang_von_Goethe</value>
 </author>
+<name>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>The Sorrows of Young Werther</value>
+</name>
 <thumbnail>
 <type>uri</type>
 <value>http://commons.wikimedia.org/wiki/Special:FilePath/Goethe_1774.JPG?width=300</value>
@@ -154,6 +159,11 @@
 <type>uri</type>
 <value>http://dbpedia.org/resource/Johann_Wolfgang_von_Goethe</value>
 </author>
+<name>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>Italian Journey</value>
+</name>
 <thumbnail>
 <type>uri</type>
 <value>http://commons.wikimedia.org/wiki/Special:FilePath/Johann_Heinrich_Wilhelm_Tischbein_007.jpg?width=300</value>
@@ -182,6 +192,11 @@
 <type>uri</type>
 <value>http://dbpedia.org/resource/Johann_Wolfgang_von_Goethe</value>
 </author>
+<name>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>and the Beautiful Lily</value>
+</name>
 <thumbnail>
 <type>uri</type>
 <value>http://commons.wikimedia.org/wiki/Special:FilePath/Opheodrys_aestivusPCCP20030524-0823B.jpg?width=300</value>
@@ -210,6 +225,11 @@
 <type>uri</type>
 <value>http://dbpedia.org/resource/Johann_Wolfgang_von_Goethe</value>
 </author>
+<name>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>Zur Farbenlehre</value>
+</name>
 <thumbnail>
 <type>uri</type>
 <value>http://commons.wikimedia.org/wiki/Special:FilePath/Goethe-LightSpectrum.svg?width=300</value>
@@ -233,6 +253,11 @@
 <type>uri</type>
 <value>http://dbpedia.org/resource/Johann_Wolfgang_von_Goethe</value>
 </author>
+<name>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>Wilhelm Meisters Lehrjahre</value>
+</name>
 <thumbnail>
 <type>uri</type>
 <value>http://commons.wikimedia.org/wiki/Special:FilePath/Wilhelm_Meisters_Lehrjahre_1795.jpg?width=300</value>
@@ -256,6 +281,11 @@
 <type>uri</type>
 <value>http://dbpedia.org/resource/Johann_Wolfgang_von_Goethe</value>
 </author>
+<name>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>Die Wahlverwandtschaften</value>
+</name>
 <thumbnail>
 <type>uri</type>
 <value>http://commons.wikimedia.org/wiki/Special:FilePath/Goethe_die_wahlverwandtschaften_erstausgabe_1809.jpg?width=300</value>

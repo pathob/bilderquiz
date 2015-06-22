@@ -47,6 +47,11 @@
 <type>uri</type>
 <value>http://dbpedia.org/resource/L._Frank_Baum</value>
 </author>
+<name>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>The Patchwork Girl of Oz</value>
+</name>
 <thumbnail>
 <type>uri</type>
 <value>http://en.wikipedia.org/wiki/Special:FilePath/ThePatchworkGirlOfOz.jpg?width=300</value>
@@ -75,6 +80,11 @@
 <type>uri</type>
 <value>http://dbpedia.org/resource/L._Frank_Baum</value>
 </author>
+<name>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>The Wonderful Wizard of Oz</value>
+</name>
 <thumbnail>
 <type>uri</type>
 <value>http://commons.wikimedia.org/wiki/Special:FilePath/Wizard_title_page.jpg?width=300</value>
@@ -103,6 +113,11 @@
 <type>uri</type>
 <value>http://dbpedia.org/resource/L._Frank_Baum</value>
 </author>
+<name>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>Dorothy and the Wizard in Oz</value>
+</name>
 <thumbnail>
 <type>uri</type>
 <value>http://commons.wikimedia.org/wiki/Special:FilePath/Ozbook04cover.jpeg?width=300</value>
@@ -131,6 +146,11 @@
 <type>uri</type>
 <value>http://dbpedia.org/resource/L._Frank_Baum</value>
 </author>
+<name>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>The Emerald City of Oz</value>
+</name>
 <thumbnail>
 <type>uri</type>
 <value>http://en.wikipedia.org/wiki/Special:FilePath/TheEmeraldCityOfOz.jpg?width=300</value>
@@ -159,6 +179,11 @@
 <type>uri</type>
 <value>http://dbpedia.org/resource/L._Frank_Baum</value>
 </author>
+<name>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>The Marvelous Land</value>
+</name>
 <thumbnail>
 <type>uri</type>
 <value>http://commons.wikimedia.org/wiki/Special:FilePath/Marvelous_land_of_oz.jpg?width=300</value>
@@ -187,6 +212,11 @@
 <type>uri</type>
 <value>http://dbpedia.org/resource/L._Frank_Baum</value>
 </author>
+<name>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>The Road to Oz</value>
+</name>
 <thumbnail>
 <type>uri</type>
 <value>http://en.wikipedia.org/wiki/Special:FilePath/TheRoadToOz.jpg?width=300</value>
@@ -215,6 +245,11 @@
 <type>uri</type>
 <value>http://dbpedia.org/resource/L._Frank_Baum</value>
 </author>
+<name>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>Ozma of Oz</value>
+</name>
 <thumbnail>
 <type>uri</type>
 <value>http://commons.wikimedia.org/wiki/Special:FilePath/Ozbook03cover.jpg?width=300</value>
@@ -243,6 +278,11 @@
 <type>uri</type>
 <value>http://dbpedia.org/resource/L._Frank_Baum</value>
 </author>
+<name>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>The Enchanted Island of Yew</value>
+</name>
 <thumbnail>
 <type>uri</type>
 <value>http://commons.wikimedia.org/wiki/Special:FilePath/Enchanted_Island_of_Yew_cover.jpg?width=300</value>
@@ -266,6 +306,11 @@
 <type>uri</type>
 <value>http://dbpedia.org/resource/L._Frank_Baum</value>
 </author>
+<name>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>Glinda of Oz</value>
+</name>
 <thumbnail>
 <type>uri</type>
 <value>http://commons.wikimedia.org/wiki/Special:FilePath/Glinda_cover.jpg?width=300</value>
@@ -289,6 +334,11 @@
 <type>uri</type>
 <value>http://dbpedia.org/resource/L._Frank_Baum</value>
 </author>
+<name>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>Rinkitink in Oz</value>
+</name>
 <thumbnail>
 <type>uri</type>
 <value>http://commons.wikimedia.org/wiki/Special:FilePath/Ozbook10cover.jpeg?width=300</value>
@@ -312,6 +362,11 @@
 <type>uri</type>
 <value>http://dbpedia.org/resource/L._Frank_Baum</value>
 </author>
+<name>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>The Lost Princess of Oz</value>
+</name>
 <thumbnail>
 <type>uri</type>
 <value>http://commons.wikimedia.org/wiki/Special:FilePath/Cover_~_The_Lost_Princess_of_Oz.jpg?width=300</value>
@@ -335,6 +390,11 @@
 <type>uri</type>
 <value>http://dbpedia.org/resource/L._Frank_Baum</value>
 </author>
+<name>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>The Magic of Oz</value>
+</name>
 <thumbnail>
 <type>uri</type>
 <value>http://commons.wikimedia.org/wiki/Special:FilePath/Magic_of_oz_cover.gif?width=300</value>
@@ -358,6 +418,11 @@
 <type>uri</type>
 <value>http://dbpedia.org/resource/L._Frank_Baum</value>
 </author>
+<name>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>The Scarecrow of Oz</value>
+</name>
 <thumbnail>
 <type>uri</type>
 <value>http://commons.wikimedia.org/wiki/Special:FilePath/Scarecrow_of_oz_cover.jpg?width=300</value>
@@ -381,6 +446,11 @@
 <type>uri</type>
 <value>http://dbpedia.org/resource/L._Frank_Baum</value>
 </author>
+<name>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>The Tin Woodman of Oz</value>
+</name>
 <thumbnail>
 <type>uri</type>
 <value>http://en.wikipedia.org/wiki/Special:FilePath/TheTinWoodmanOfOz.jpg?width=300</value>
@@ -404,6 +474,11 @@
 <type>uri</type>
 <value>http://dbpedia.org/resource/L._Frank_Baum</value>
 </author>
+<name>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>Tik-Tok of Oz</value>
+</name>
 <thumbnail>
 <type>uri</type>
 <value>http://commons.wikimedia.org/wiki/Special:FilePath/Tik_tok_cover.jpg?width=300</value>
@@ -427,6 +502,11 @@
 <type>uri</type>
 <value>http://dbpedia.org/resource/L._Frank_Baum</value>
 </author>
+<name>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>The Woggle-Bug Book</value>
+</name>
 <thumbnail>
 <type>uri</type>
 <value>http://commons.wikimedia.org/wiki/Special:FilePath/Woggle-Bug_Book.jpg?width=300</value>
@@ -445,6 +525,11 @@
 <type>uri</type>
 <value>http://dbpedia.org/resource/L._Frank_Baum</value>
 </author>
+<name>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>The Sea Fairies</value>
+</name>
 <released>
 <type>typed-literal</type>
 <datatype>http://www.w3.org/2001/XMLSchema#integer</datatype>
@@ -464,6 +549,11 @@
 <type>uri</type>
 <value>http://dbpedia.org/resource/L._Frank_Baum</value>
 </author>
+<name>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>The Life and Adventures</value>
+</name>
 <released>
 <type>typed-literal</type>
 <datatype>http://www.w3.org/2001/XMLSchema#date</datatype>
@@ -483,6 +573,11 @@
 <type>uri</type>
 <value>http://dbpedia.org/resource/L._Frank_Baum</value>
 </author>
+<name>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>Dot and Tot of Merryland</value>
+</name>
 <released>
 <type>typed-literal</type>
 <datatype>http://www.w3.org/2001/XMLSchema#integer</datatype>
@@ -502,6 +597,11 @@
 <type>uri</type>
 <value>http://dbpedia.org/resource/L._Frank_Baum</value>
 </author>
+<name>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>John Dough and the Cherub</value>
+</name>
 <released>
 <type>typed-literal</type>
 <datatype>http://www.w3.org/2001/XMLSchema#integer</datatype>
@@ -521,6 +621,11 @@
 <type>uri</type>
 <value>http://dbpedia.org/resource/L._Frank_Baum</value>
 </author>
+<name>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>Sky Island</value>
+</name>
 <released>
 <type>typed-literal</type>
 <datatype>http://www.w3.org/2001/XMLSchema#integer</datatype>
@@ -540,6 +645,11 @@
 <type>uri</type>
 <value>http://dbpedia.org/resource/L._Frank_Baum</value>
 </author>
+<name>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>Mother Goose in Prose</value>
+</name>
 <released>
 <type>typed-literal</type>
 <datatype>http://www.w3.org/2001/XMLSchema#integer</datatype>
@@ -559,6 +669,11 @@
 <type>uri</type>
 <value>http://dbpedia.org/resource/L._Frank_Baum</value>
 </author>
+<name>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>Queen Zixi of Ix, or The Story of the Magic Cloak</value>
+</name>
 <released>
 <type>literal</type>
 <xml:lang>en</xml:lang>
@@ -578,6 +693,11 @@
 <type>uri</type>
 <value>http://dbpedia.org/resource/L._Frank_Baum</value>
 </author>
+<name>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>Aunt Jane&apos;s Nieces at Work</value>
+</name>
 <wikilink>
 <type>uri</type>
 <value>http://en.wikipedia.org/wiki/Aunt_Jane&apos;s_Nieces_at_Work?oldid=582815147</value>
@@ -592,6 +712,11 @@
 <type>uri</type>
 <value>http://dbpedia.org/resource/L._Frank_Baum</value>
 </author>
+<name>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>Little Wizard Stories of Oz</value>
+</name>
 <wikilink>
 <type>uri</type>
 <value>http://en.wikipedia.org/wiki/Little_Wizard_Stories_of_Oz?oldid=594032811</value>
@@ -606,6 +731,11 @@
 <type>uri</type>
 <value>http://dbpedia.org/resource/L._Frank_Baum</value>
 </author>
+<name>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>Aunt Jane&apos;s Nieces Abroad</value>
+</name>
 <wikilink>
 <type>uri</type>
 <value>http://en.wikipedia.org/wiki/Aunt_Jane&apos;s_Nieces_Abroad?oldid=582814205</value>
@@ -620,6 +750,11 @@
 <type>uri</type>
 <value>http://dbpedia.org/resource/L._Frank_Baum</value>
 </author>
+<name>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>Aunt Jane&apos;s Nieces in Society</value>
+</name>
 <wikilink>
 <type>uri</type>
 <value>http://en.wikipedia.org/wiki/Aunt_Jane&apos;s_Nieces_in_Society?oldid=582815205</value>
@@ -634,6 +769,11 @@
 <type>uri</type>
 <value>http://dbpedia.org/resource/L._Frank_Baum</value>
 </author>
+<name>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>The Last Egyptian</value>
+</name>
 <wikilink>
 <type>uri</type>
 <value>http://en.wikipedia.org/wiki/The_Last_Egyptian?oldid=593869460</value>
@@ -648,6 +788,11 @@
 <type>uri</type>
 <value>http://dbpedia.org/resource/L._Frank_Baum</value>
 </author>
+<name>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>Phoebe Daring</value>
+</name>
 <wikilink>
 <type>uri</type>
 <value>http://en.wikipedia.org/wiki/Phoebe_Daring?oldid=597052539</value>
@@ -662,6 +807,11 @@
 <type>uri</type>
 <value>http://dbpedia.org/resource/L._Frank_Baum</value>
 </author>
+<name>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>By the Candelabra&apos;s Glare</value>
+</name>
 <wikilink>
 <type>uri</type>
 <value>http://en.wikipedia.org/wiki/By_the_Candelabra&apos;s_Glare?oldid=602391509</value>
@@ -676,6 +826,11 @@
 <type>uri</type>
 <value>http://dbpedia.org/resource/L._Frank_Baum</value>
 </author>
+<name>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>Aunt Jane&apos;s Nieces in the Red Cross</value>
+</name>
 <wikilink>
 <type>uri</type>
 <value>http://en.wikipedia.org/wiki/Aunt_Jane&apos;s_Nieces_in_the_Red_Cross?oldid=582815269</value>
@@ -690,6 +845,11 @@
 <type>uri</type>
 <value>http://dbpedia.org/resource/L._Frank_Baum</value>
 </author>
+<name>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>The Daring Twins</value>
+</name>
 <wikilink>
 <type>uri</type>
 <value>http://en.wikipedia.org/wiki/The_Daring_Twins?oldid=597052515</value>
@@ -704,6 +864,11 @@
 <type>uri</type>
 <value>http://dbpedia.org/resource/L._Frank_Baum</value>
 </author>
+<name>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>Father Goose: His Book</value>
+</name>
 <wikilink>
 <type>uri</type>
 <value>http://en.wikipedia.org/wiki/Father_Goose:_His_Book?oldid=602391707</value>
@@ -718,6 +883,11 @@
 <type>uri</type>
 <value>http://dbpedia.org/resource/L._Frank_Baum</value>
 </author>
+<name>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>Sam Steele&apos;s Adventures on Land and Sea</value>
+</name>
 <wikilink>
 <type>uri</type>
 <value>http://en.wikipedia.org/wiki/Sam_Steele&apos;s_Adventures_on_Land_and_Sea?oldid=598433348</value>
@@ -732,6 +902,11 @@
 <type>uri</type>
 <value>http://dbpedia.org/resource/L._Frank_Baum</value>
 </author>
+<name>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>Aunt Jane&apos;s Nieces at Millville</value>
+</name>
 <wikilink>
 <type>uri</type>
 <value>http://en.wikipedia.org/wiki/Aunt_Jane&apos;s_Nieces_at_Millville?oldid=582814916</value>
@@ -746,6 +921,11 @@
 <type>uri</type>
 <value>http://dbpedia.org/resource/L._Frank_Baum</value>
 </author>
+<name>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>Aunt Jane&apos;s Nieces and Uncle John</value>
+</name>
 <wikilink>
 <type>uri</type>
 <value>http://en.wikipedia.org/wiki/Aunt_Jane&apos;s_Nieces_and_Uncle_John?oldid=582814858</value>
@@ -760,6 +940,11 @@
 <type>uri</type>
 <value>http://dbpedia.org/resource/L._Frank_Baum</value>
 </author>
+<name>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>L. Frank Baum&apos;s Juvenile Speaker</value>
+</name>
 <wikilink>
 <type>uri</type>
 <value>http://en.wikipedia.org/wiki/L._Frank_Baum&apos;s_Juvenile_Speaker?oldid=593912136</value>
@@ -774,6 +959,11 @@
 <type>uri</type>
 <value>http://dbpedia.org/resource/L._Frank_Baum</value>
 </author>
+<name>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>Aunt Jane&apos;s Nieces on the Ranch</value>
+</name>
 <wikilink>
 <type>uri</type>
 <value>http://en.wikipedia.org/wiki/Aunt_Jane&apos;s_Nieces_on_the_Ranch?oldid=582815355</value>
@@ -788,6 +978,11 @@
 <type>uri</type>
 <value>http://dbpedia.org/resource/L._Frank_Baum</value>
 </author>
+<name>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>The Fate of a Crown</value>
+</name>
 <wikilink>
 <type>uri</type>
 <value>http://en.wikipedia.org/wiki/The_Fate_of_a_Crown?oldid=586357863</value>
@@ -802,6 +997,11 @@
 <type>uri</type>
 <value>http://dbpedia.org/resource/L._Frank_Baum</value>
 </author>
+<name>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>Annabel</value>
+</name>
 <wikilink>
 <type>uri</type>
 <value>http://en.wikipedia.org/wiki/Annabel_(novel)?oldid=582676831</value>
@@ -816,6 +1016,11 @@
 <type>uri</type>
 <value>http://dbpedia.org/resource/L._Frank_Baum</value>
 </author>
+<name>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>Father Goose&apos;s Year Book</value>
+</name>
 <wikilink>
 <type>uri</type>
 <value>http://en.wikipedia.org/wiki/Father_Goose&apos;s_Year_Book?oldid=602695636</value>
@@ -830,6 +1035,11 @@
 <type>uri</type>
 <value>http://dbpedia.org/resource/L._Frank_Baum</value>
 </author>
+<name>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>Animal Fairy Tales</value>
+</name>
 <wikilink>
 <type>uri</type>
 <value>http://en.wikipedia.org/wiki/Animal_Fairy_Tales?oldid=592715755</value>
@@ -844,6 +1054,11 @@
 <type>uri</type>
 <value>http://dbpedia.org/resource/L._Frank_Baum</value>
 </author>
+<name>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>American Fairy Tales</value>
+</name>
 <wikilink>
 <type>uri</type>
 <value>http://en.wikipedia.org/wiki/American_Fairy_Tales?oldid=604211231</value>
@@ -858,6 +1073,11 @@
 <type>uri</type>
 <value>http://dbpedia.org/resource/L._Frank_Baum</value>
 </author>
+<name>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>Daughters of Destiny</value>
+</name>
 <wikilink>
 <type>uri</type>
 <value>http://en.wikipedia.org/wiki/Daughters_of_Destiny_(novel)?oldid=584548884</value>
@@ -872,6 +1092,11 @@
 <type>uri</type>
 <value>http://dbpedia.org/resource/L._Frank_Baum</value>
 </author>
+<name>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>Aunt Jane&apos;s Nieces</value>
+</name>
 <wikilink>
 <type>uri</type>
 <value>http://en.wikipedia.org/wiki/Aunt_Jane&apos;s_Nieces?oldid=594800759</value>
@@ -886,6 +1111,11 @@
 <type>uri</type>
 <value>http://dbpedia.org/resource/L._Frank_Baum</value>
 </author>
+<name>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>Aunt Jane&apos;s Nieces on Vacation</value>
+</name>
 <wikilink>
 <type>uri</type>
 <value>http://en.wikipedia.org/wiki/Aunt_Jane&apos;s_Nieces_on_Vacation?oldid=582815419</value>
@@ -900,6 +1130,11 @@
 <type>uri</type>
 <value>http://dbpedia.org/resource/L._Frank_Baum</value>
 </author>
+<name>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>Aunt Jane&apos;s Nieces Out West</value>
+</name>
 <wikilink>
 <type>uri</type>
 <value>http://en.wikipedia.org/wiki/Aunt_Jane&apos;s_Nieces_Out_West?oldid=582815610</value>
@@ -914,6 +1149,11 @@
 <type>uri</type>
 <value>http://dbpedia.org/resource/L._Frank_Baum</value>
 </author>
+<name>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>The Flying Girl</value>
+</name>
 <wikilink>
 <type>uri</type>
 <value>http://en.wikipedia.org/wiki/The_Flying_Girl?oldid=587915566</value>
@@ -928,6 +1168,11 @@
 <type>uri</type>
 <value>http://dbpedia.org/resource/L._Frank_Baum</value>
 </author>
+<name>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>Policeman Bluejay</value>
+</name>
 <wikilink>
 <type>uri</type>
 <value>http://en.wikipedia.org/wiki/Policeman_Bluejay?oldid=606342024</value>

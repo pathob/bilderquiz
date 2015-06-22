@@ -45,6 +45,11 @@
 <type>uri</type>
 <value>http://dbpedia.org/resource/John_Milton</value>
 </author>
+<name>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>Paradise Lost</value>
+</name>
 <thumbnail>
 <type>uri</type>
 <value>http://commons.wikimedia.org/wiki/Special:FilePath/Milton_paradise.jpg?width=300</value>
@@ -73,6 +78,11 @@
 <type>uri</type>
 <value>http://dbpedia.org/resource/John_Milton</value>
 </author>
+<name>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>Of True Religion, Heresy, Schism, Toleration; and what best means may be used against the Growth of Popery</value>
+</name>
 <released>
 <type>typed-literal</type>
 <datatype>http://www.w3.org/2001/XMLSchema#integer</datatype>

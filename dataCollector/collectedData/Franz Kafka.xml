@@ -61,6 +61,11 @@
 <type>uri</type>
 <value>http://dbpedia.org/resource/Franz_Kafka</value>
 </author>
+<name>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>Metamorphosis</value>
+</name>
 <thumbnail>
 <type>uri</type>
 <value>http://commons.wikimedia.org/wiki/Special:FilePath/Metamorphosis.jpg?width=300</value>
@@ -89,6 +94,11 @@
 <type>uri</type>
 <value>http://dbpedia.org/resource/Franz_Kafka</value>
 </author>
+<name>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>Ein Landarzt</value>
+</name>
 <thumbnail>
 <type>uri</type>
 <value>http://commons.wikimedia.org/wiki/Special:FilePath/CountryDoctor.jpg?width=300</value>
@@ -112,6 +122,11 @@
 <type>uri</type>
 <value>http://dbpedia.org/resource/Franz_Kafka</value>
 </author>
+<name>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>Betrachtung</value>
+</name>
 <thumbnail>
 <type>uri</type>
 <value>http://commons.wikimedia.org/wiki/Special:FilePath/Kafka_Betrachtung_1912.jpg?width=300</value>
@@ -135,6 +150,11 @@
 <type>uri</type>
 <value>http://dbpedia.org/resource/Franz_Kafka</value>
 </author>
+<name>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>A Hunger Artist</value>
+</name>
 <thumbnail>
 <type>uri</type>
 <value>http://commons.wikimedia.org/wiki/Special:FilePath/Kafka_Ein_Hungerkünstler_1924.jpg?width=300</value>
@@ -153,6 +173,11 @@
 <type>uri</type>
 <value>http://dbpedia.org/resource/Franz_Kafka</value>
 </author>
+<name>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>The Trial</value>
+</name>
 <released>
 <type>typed-literal</type>
 <datatype>http://www.w3.org/2001/XMLSchema#integer</datatype>
@@ -177,6 +202,11 @@
 <type>uri</type>
 <value>http://dbpedia.org/resource/Franz_Kafka</value>
 </author>
+<name>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>The Zürau Aphorisms</value>
+</name>
 <released>
 <type>typed-literal</type>
 <datatype>http://www.w3.org/2001/XMLSchema#integer</datatype>
@@ -201,6 +231,11 @@
 <type>uri</type>
 <value>http://dbpedia.org/resource/Franz_Kafka</value>
 </author>
+<name>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>Das Schloß</value>
+</name>
 <released>
 <type>typed-literal</type>
 <datatype>http://www.w3.org/2001/XMLSchema#integer</datatype>
@@ -225,6 +260,11 @@
 <type>uri</type>
 <value>http://dbpedia.org/resource/Franz_Kafka</value>
 </author>
+<name>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>The Penal Colony</value>
+</name>
 <released>
 <type>typed-literal</type>
 <datatype>http://www.w3.org/2001/XMLSchema#integer</datatype>
@@ -244,6 +284,11 @@
 <type>uri</type>
 <value>http://dbpedia.org/resource/Franz_Kafka</value>
 </author>
+<name>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>Briefe an Ottla und die Familie</value>
+</name>
 <released>
 <type>typed-literal</type>
 <datatype>http://www.w3.org/2001/XMLSchema#integer</datatype>
@@ -263,6 +308,11 @@
 <type>uri</type>
 <value>http://dbpedia.org/resource/Franz_Kafka</value>
 </author>
+<name>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>Briefe an Felice</value>
+</name>
 <released>
 <type>typed-literal</type>
 <datatype>http://www.w3.org/2001/XMLSchema#integer</datatype>
@@ -282,6 +332,11 @@
 <type>uri</type>
 <value>http://dbpedia.org/resource/Franz_Kafka</value>
 </author>
+<name>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>Briefe 1902-1924</value>
+</name>
 <released>
 <type>typed-literal</type>
 <datatype>http://www.w3.org/2001/XMLSchema#integer</datatype>
@@ -301,6 +356,11 @@
 <type>uri</type>
 <value>http://dbpedia.org/resource/Franz_Kafka</value>
 </author>
+<name>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>The Complete Stories</value>
+</name>
 <released>
 <type>typed-literal</type>
 <datatype>http://www.w3.org/2001/XMLSchema#integer</datatype>
@@ -320,6 +380,11 @@
 <type>uri</type>
 <value>http://dbpedia.org/resource/Franz_Kafka</value>
 </author>
+<name>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>Parables and Paradoxes</value>
+</name>
 <released>
 <type>typed-literal</type>
 <datatype>http://www.w3.org/2001/XMLSchema#integer</datatype>
@@ -339,6 +404,11 @@
 <type>uri</type>
 <value>http://dbpedia.org/resource/Franz_Kafka</value>
 </author>
+<name>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>Letters to Milena</value>
+</name>
 <released>
 <type>typed-literal</type>
 <datatype>http://www.w3.org/2001/XMLSchema#integer</datatype>
@@ -358,6 +428,11 @@
 <type>uri</type>
 <value>http://dbpedia.org/resource/Franz_Kafka</value>
 </author>
+<name>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>Amerika</value>
+</name>
 <published>
 <type>literal</type>
 <xml:lang>en</xml:lang>
@@ -383,6 +458,11 @@
 <type>uri</type>
 <value>http://dbpedia.org/resource/Franz_Kafka</value>
 </author>
+<name>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>The Great Wall of China</value>
+</name>
 <wikilink>
 <type>uri</type>
 <value>http://en.wikipedia.org/wiki/The_Great_Wall_of_China_(collection)?oldid=592821517</value>
@@ -402,6 +482,11 @@
 <type>uri</type>
 <value>http://dbpedia.org/resource/Franz_Kafka</value>
 </author>
+<name>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>Description of a Struggle</value>
+</name>
 <wikilink>
 <type>uri</type>
 <value>http://en.wikipedia.org/wiki/Description_of_a_Struggle_(collection)?oldid=562675970</value>

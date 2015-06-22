@@ -42,6 +42,11 @@
 <type>uri</type>
 <value>http://dbpedia.org/resource/William_S._Burroughs</value>
 </author>
+<name>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>Ali&apos;s Smile: Naked Scientology</value>
+</name>
 <thumbnail>
 <type>uri</type>
 <value>http://commons.wikimedia.org/wiki/Special:FilePath/William_S._Burroughs_at_the_Gotham_Book_Mart.jpg?width=300</value>
@@ -60,6 +65,11 @@
 <type>uri</type>
 <value>http://dbpedia.org/resource/William_S._Burroughs</value>
 </author>
+<name>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>The Wild Boys: A Book of the Dead</value>
+</name>
 <released>
 <type>typed-literal</type>
 <datatype>http://www.w3.org/2001/XMLSchema#integer</datatype>
@@ -79,6 +89,11 @@
 <type>uri</type>
 <value>http://dbpedia.org/resource/William_S._Burroughs</value>
 </author>
+<name>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>Cities of the Red Night</value>
+</name>
 <released>
 <type>typed-literal</type>
 <datatype>http://www.w3.org/2001/XMLSchema#integer</datatype>
@@ -98,6 +113,11 @@
 <type>uri</type>
 <value>http://dbpedia.org/resource/William_S._Burroughs</value>
 </author>
+<name>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>Ghost of Chance</value>
+</name>
 <released>
 <type>typed-literal</type>
 <datatype>http://www.w3.org/2001/XMLSchema#integer</datatype>
@@ -117,6 +137,11 @@
 <type>uri</type>
 <value>http://dbpedia.org/resource/William_S._Burroughs</value>
 </author>
+<name>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>My Education: A Book of Dreams</value>
+</name>
 <released>
 <type>literal</type>
 <xml:lang>en</xml:lang>
@@ -136,6 +161,11 @@
 <type>uri</type>
 <value>http://dbpedia.org/resource/William_S._Burroughs</value>
 </author>
+<name>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>Port of Saints</value>
+</name>
 <released>
 <type>literal</type>
 <xml:lang>en</xml:lang>
@@ -155,6 +185,11 @@
 <type>uri</type>
 <value>http://dbpedia.org/resource/William_S._Burroughs</value>
 </author>
+<name>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>Queer</value>
+</name>
 <released>
 <type>literal</type>
 <xml:lang>en</xml:lang>
@@ -174,6 +209,11 @@
 <type>uri</type>
 <value>http://dbpedia.org/resource/William_S._Burroughs</value>
 </author>
+<name>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>The Cat Inside</value>
+</name>
 <released>
 <type>typed-literal</type>
 <datatype>http://www.w3.org/2001/XMLSchema#integer</datatype>
@@ -193,6 +233,11 @@
 <type>uri</type>
 <value>http://dbpedia.org/resource/William_S._Burroughs</value>
 </author>
+<name>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>The Third Mind</value>
+</name>
 <released>
 <type>typed-literal</type>
 <datatype>http://www.w3.org/2001/XMLSchema#integer</datatype>
@@ -212,6 +257,11 @@
 <type>uri</type>
 <value>http://dbpedia.org/resource/William_S._Burroughs</value>
 </author>
+<name>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>The Ticket That Exploded</value>
+</name>
 <released>
 <type>typed-literal</type>
 <datatype>http://www.w3.org/2001/XMLSchema#integer</datatype>
@@ -231,6 +281,11 @@
 <type>uri</type>
 <value>http://dbpedia.org/resource/William_S._Burroughs</value>
 </author>
+<name>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>The Place of Dead Roads</value>
+</name>
 <released>
 <type>typed-literal</type>
 <datatype>http://www.w3.org/2001/XMLSchema#integer</datatype>
@@ -250,6 +305,11 @@
 <type>uri</type>
 <value>http://dbpedia.org/resource/William_S._Burroughs</value>
 </author>
+<name>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>The Western Lands</value>
+</name>
 <released>
 <type>typed-literal</type>
 <datatype>http://www.w3.org/2001/XMLSchema#integer</datatype>
@@ -269,6 +329,11 @@
 <type>uri</type>
 <value>http://dbpedia.org/resource/William_S._Burroughs</value>
 </author>
+<name>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>Junkie</value>
+</name>
 <released>
 <type>typed-literal</type>
 <datatype>http://www.w3.org/2001/XMLSchema#integer</datatype>
@@ -288,6 +353,11 @@
 <type>uri</type>
 <value>http://dbpedia.org/resource/William_S._Burroughs</value>
 </author>
+<name>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>Nova Express</value>
+</name>
 <released>
 <type>typed-literal</type>
 <datatype>http://www.w3.org/2001/XMLSchema#integer</datatype>
@@ -307,6 +377,11 @@
 <type>uri</type>
 <value>http://dbpedia.org/resource/William_S._Burroughs</value>
 </author>
+<name>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>The Last Words of Dutch Schultz</value>
+</name>
 <released>
 <type>typed-literal</type>
 <datatype>http://www.w3.org/2001/XMLSchema#integer</datatype>
@@ -326,6 +401,11 @@
 <type>uri</type>
 <value>http://dbpedia.org/resource/William_S._Burroughs</value>
 </author>
+<name>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>Dead Fingers Talk</value>
+</name>
 <released>
 <type>typed-literal</type>
 <datatype>http://www.w3.org/2001/XMLSchema#integer</datatype>
@@ -345,6 +425,11 @@
 <type>uri</type>
 <value>http://dbpedia.org/resource/William_S._Burroughs</value>
 </author>
+<name>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>The Electronic Revolution</value>
+</name>
 <released>
 <type>typed-literal</type>
 <datatype>http://www.w3.org/2001/XMLSchema#integer</datatype>
@@ -364,6 +449,11 @@
 <type>uri</type>
 <value>http://dbpedia.org/resource/William_S._Burroughs</value>
 </author>
+<name>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>Last Words: The Final Journals of William S. Burroughs</value>
+</name>
 <released>
 <type>typed-literal</type>
 <datatype>http://www.w3.org/2001/XMLSchema#integer</datatype>
@@ -383,6 +473,11 @@
 <type>uri</type>
 <value>http://dbpedia.org/resource/William_S._Burroughs</value>
 </author>
+<name>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>Blade Runner (a movie)</value>
+</name>
 <released>
 <type>typed-literal</type>
 <datatype>http://www.w3.org/2001/XMLSchema#integer</datatype>
@@ -402,6 +497,11 @@
 <type>uri</type>
 <value>http://dbpedia.org/resource/William_S._Burroughs</value>
 </author>
+<name>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>And the Hippos Were Boiled in Their Tanks</value>
+</name>
 <released>
 <type>typed-literal</type>
 <datatype>http://www.w3.org/2001/XMLSchema#date</datatype>
@@ -421,6 +521,11 @@
 <type>uri</type>
 <value>http://dbpedia.org/resource/William_S._Burroughs</value>
 </author>
+<name>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>The Soft Machine</value>
+</name>
 <released>
 <type>typed-literal</type>
 <datatype>http://www.w3.org/2001/XMLSchema#integer</datatype>
@@ -440,6 +545,11 @@
 <type>uri</type>
 <value>http://dbpedia.org/resource/William_S._Burroughs</value>
 </author>
+<name>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>The Yage Letters</value>
+</name>
 <released>
 <type>typed-literal</type>
 <datatype>http://www.w3.org/2001/XMLSchema#integer</datatype>
@@ -459,6 +569,11 @@
 <type>uri</type>
 <value>http://dbpedia.org/resource/William_S._Burroughs</value>
 </author>
+<name>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>Tornado Alley</value>
+</name>
 <released>
 <type>typed-literal</type>
 <datatype>http://www.w3.org/2001/XMLSchema#integer</datatype>
@@ -478,6 +593,11 @@
 <type>uri</type>
 <value>http://dbpedia.org/resource/William_S._Burroughs</value>
 </author>
+<name>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>Exterminator!</value>
+</name>
 <released>
 <type>typed-literal</type>
 <datatype>http://www.w3.org/2001/XMLSchema#integer</datatype>
@@ -497,6 +617,11 @@
 <type>uri</type>
 <value>http://dbpedia.org/resource/William_S._Burroughs</value>
 </author>
+<name>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>Interzone</value>
+</name>
 <released>
 <type>typed-literal</type>
 <datatype>http://www.w3.org/2001/XMLSchema#integer</datatype>
@@ -516,6 +641,11 @@
 <type>uri</type>
 <value>http://dbpedia.org/resource/William_S._Burroughs</value>
 </author>
+<name>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>Naked Lunch</value>
+</name>
 <wikilink>
 <type>uri</type>
 <value>http://en.wikipedia.org/wiki/Naked_Lunch?oldid=599609140</value>
@@ -535,6 +665,11 @@
 <type>uri</type>
 <value>http://dbpedia.org/resource/William_S._Burroughs</value>
 </author>
+<name>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>The Adding Machine</value>
+</name>
 <wikilink>
 <type>uri</type>
 <value>http://en.wikipedia.org/wiki/The_Adding_Machine:_Collected_Essays?oldid=593484282</value>

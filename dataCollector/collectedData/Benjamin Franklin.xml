@@ -45,6 +45,11 @@
 <type>uri</type>
 <value>http://dbpedia.org/resource/Benjamin_Franklin</value>
 </author>
+<name>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>Mémoires de la vie privée de Benjamin Franklin</value>
+</name>
 <thumbnail>
 <type>uri</type>
 <value>http://commons.wikimedia.org/wiki/Special:FilePath/Memoirs_of_Franklin.jpg?width=300</value>
@@ -68,6 +73,11 @@
 <type>uri</type>
 <value>http://dbpedia.org/resource/Benjamin_Franklin</value>
 </author>
+<name>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>Observations concerning the Increase of Mankind, peopling of Countries, etc.</value>
+</name>
 <wikilink>
 <type>uri</type>
 <value>http://en.wikipedia.org/wiki/Observations_Concerning_the_Increase_of_Mankind,_Peopling_of_Countries,_etc.?oldid=602843841</value>

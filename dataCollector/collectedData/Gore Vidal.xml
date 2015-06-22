@@ -38,6 +38,11 @@
 <type>uri</type>
 <value>http://dbpedia.org/resource/Gore_Vidal</value>
 </author>
+<name>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>Lincoln</value>
+</name>
 <thumbnail>
 <type>uri</type>
 <value>http://en.wikipedia.org/wiki/Special:FilePath/LincolnNovel.jpg?width=300</value>
@@ -61,6 +66,11 @@
 <type>uri</type>
 <value>http://dbpedia.org/resource/Gore_Vidal</value>
 </author>
+<name>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>Burr</value>
+</name>
 <thumbnail>
 <type>uri</type>
 <value>http://commons.wikimedia.org/wiki/Special:FilePath/Burr_by_Gore_Vidal_-_first_edition_cover.jpg?width=300</value>
@@ -84,6 +94,11 @@
 <type>uri</type>
 <value>http://dbpedia.org/resource/Gore_Vidal</value>
 </author>
+<name>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>Julian</value>
+</name>
 <thumbnail>
 <type>uri</type>
 <value>http://en.wikipedia.org/wiki/Special:FilePath/JulianNovel.jpg?width=300</value>
@@ -107,6 +122,11 @@
 <type>uri</type>
 <value>http://dbpedia.org/resource/Gore_Vidal</value>
 </author>
+<name>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>Empire</value>
+</name>
 <thumbnail>
 <type>uri</type>
 <value>http://en.wikipedia.org/wiki/Special:FilePath/EmpireNovel.jpg?width=300</value>
@@ -130,6 +150,11 @@
 <type>uri</type>
 <value>http://dbpedia.org/resource/Gore_Vidal</value>
 </author>
+<name>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>1876</value>
+</name>
 <thumbnail>
 <type>uri</type>
 <value>http://en.wikipedia.org/wiki/Special:FilePath/1876Novel.jpg?width=300</value>
@@ -153,6 +178,11 @@
 <type>uri</type>
 <value>http://dbpedia.org/resource/Gore_Vidal</value>
 </author>
+<name>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>Creation</value>
+</name>
 <released>
 <type>typed-literal</type>
 <datatype>http://www.w3.org/2001/XMLSchema#date</datatype>
@@ -172,6 +202,11 @@
 <type>uri</type>
 <value>http://dbpedia.org/resource/Gore_Vidal</value>
 </author>
+<name>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>Myron</value>
+</name>
 <released>
 <type>typed-literal</type>
 <datatype>http://www.w3.org/2001/XMLSchema#integer</datatype>
@@ -191,6 +226,11 @@
 <type>uri</type>
 <value>http://dbpedia.org/resource/Gore_Vidal</value>
 </author>
+<name>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>The Golden Age</value>
+</name>
 <released>
 <type>literal</type>
 <xml:lang>en</xml:lang>
@@ -210,6 +250,11 @@
 <type>uri</type>
 <value>http://dbpedia.org/resource/Gore_Vidal</value>
 </author>
+<name>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>The Smithsonian Institution</value>
+</name>
 <released>
 <type>typed-literal</type>
 <datatype>http://www.w3.org/2001/XMLSchema#date</datatype>
@@ -229,6 +274,11 @@
 <type>uri</type>
 <value>http://dbpedia.org/resource/Gore_Vidal</value>
 </author>
+<name>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>Duluth</value>
+</name>
 <released>
 <type>typed-literal</type>
 <datatype>http://www.w3.org/2001/XMLSchema#integer</datatype>
@@ -248,6 +298,11 @@
 <type>uri</type>
 <value>http://dbpedia.org/resource/Gore_Vidal</value>
 </author>
+<name>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>Hollywood</value>
+</name>
 <released>
 <type>typed-literal</type>
 <datatype>http://www.w3.org/2001/XMLSchema#integer</datatype>
@@ -267,6 +322,11 @@
 <type>uri</type>
 <value>http://dbpedia.org/resource/Gore_Vidal</value>
 </author>
+<name>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>Washington, D.C.</value>
+</name>
 <released>
 <type>typed-literal</type>
 <datatype>http://www.w3.org/2001/XMLSchema#integer</datatype>
@@ -286,6 +346,11 @@
 <type>uri</type>
 <value>http://dbpedia.org/resource/Gore_Vidal</value>
 </author>
+<name>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>Myra Breckinridge</value>
+</name>
 <released>
 <type>literal</type>
 <xml:lang>en</xml:lang>
@@ -305,6 +370,11 @@
 <type>uri</type>
 <value>http://dbpedia.org/resource/Gore_Vidal</value>
 </author>
+<name>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>Kalki</value>
+</name>
 <released>
 <type>typed-literal</type>
 <datatype>http://www.w3.org/2001/XMLSchema#integer</datatype>
@@ -324,6 +394,11 @@
 <type>uri</type>
 <value>http://dbpedia.org/resource/Gore_Vidal</value>
 </author>
+<name>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>The City and the Pillar</value>
+</name>
 <released>
 <type>typed-literal</type>
 <datatype>http://www.w3.org/2001/XMLSchema#date</datatype>
@@ -343,6 +418,11 @@
 <type>uri</type>
 <value>http://dbpedia.org/resource/Gore_Vidal</value>
 </author>
+<name>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>Two Sisters (novel)</value>
+</name>
 <released>
 <type>typed-literal</type>
 <datatype>http://www.w3.org/2001/XMLSchema#integer</datatype>
@@ -362,6 +442,11 @@
 <type>uri</type>
 <value>http://dbpedia.org/resource/Gore_Vidal</value>
 </author>
+<name>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>Dark Green, Bright Red (novel)</value>
+</name>
 <released>
 <type>typed-literal</type>
 <datatype>http://www.w3.org/2001/XMLSchema#integer</datatype>
@@ -381,6 +466,11 @@
 <type>uri</type>
 <value>http://dbpedia.org/resource/Gore_Vidal</value>
 </author>
+<name>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>Messiah (1954 novel)</value>
+</name>
 <released>
 <type>typed-literal</type>
 <datatype>http://www.w3.org/2001/XMLSchema#integer</datatype>
@@ -400,6 +490,11 @@
 <type>uri</type>
 <value>http://dbpedia.org/resource/Gore_Vidal</value>
 </author>
+<name>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>Williwaw (1946 novel)</value>
+</name>
 <released>
 <type>typed-literal</type>
 <datatype>http://www.w3.org/2001/XMLSchema#integer</datatype>
@@ -419,6 +514,11 @@
 <type>uri</type>
 <value>http://dbpedia.org/resource/Gore_Vidal</value>
 </author>
+<name>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>Live from Golgotha</value>
+</name>
 <wikilink>
 <type>uri</type>
 <value>http://en.wikipedia.org/wiki/Live_from_Golgotha:_The_Gospel_according_to_Gore_Vidal?oldid=594035370</value>

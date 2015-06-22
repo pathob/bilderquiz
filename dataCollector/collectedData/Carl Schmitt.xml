@@ -56,6 +56,11 @@
 <type>uri</type>
 <value>http://dbpedia.org/resource/Carl_Schmitt</value>
 </author>
+<name>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>The Concept of the Political</value>
+</name>
 <released>
 <type>typed-literal</type>
 <datatype>http://www.w3.org/2001/XMLSchema#integer</datatype>

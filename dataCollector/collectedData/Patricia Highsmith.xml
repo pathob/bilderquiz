@@ -34,6 +34,11 @@
 <type>uri</type>
 <value>http://dbpedia.org/resource/Patricia_Highsmith</value>
 </author>
+<name>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>The Two Faces of January</value>
+</name>
 <released>
 <type>typed-literal</type>
 <datatype>http://www.w3.org/2001/XMLSchema#integer</datatype>
@@ -58,6 +63,11 @@
 <type>uri</type>
 <value>http://dbpedia.org/resource/Patricia_Highsmith</value>
 </author>
+<name>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>Ripley&apos;s Game</value>
+</name>
 <released>
 <type>typed-literal</type>
 <datatype>http://www.w3.org/2001/XMLSchema#date</datatype>
@@ -82,6 +92,11 @@
 <type>uri</type>
 <value>http://dbpedia.org/resource/Patricia_Highsmith</value>
 </author>
+<name>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>Ripley Under Ground</value>
+</name>
 <released>
 <type>literal</type>
 <xml:lang>en</xml:lang>
@@ -106,6 +121,11 @@
 <type>uri</type>
 <value>http://dbpedia.org/resource/Patricia_Highsmith</value>
 </author>
+<name>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>The Talented Mr. Ripley</value>
+</name>
 <released>
 <type>typed-literal</type>
 <datatype>http://www.w3.org/2001/XMLSchema#integer</datatype>
@@ -130,6 +150,11 @@
 <type>uri</type>
 <value>http://dbpedia.org/resource/Patricia_Highsmith</value>
 </author>
+<name>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>Ripley Under Water</value>
+</name>
 <released>
 <type>typed-literal</type>
 <datatype>http://www.w3.org/2001/XMLSchema#date</datatype>
@@ -149,6 +174,11 @@
 <type>uri</type>
 <value>http://dbpedia.org/resource/Patricia_Highsmith</value>
 </author>
+<name>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>The Blunderer</value>
+</name>
 <released>
 <type>typed-literal</type>
 <datatype>http://www.w3.org/2001/XMLSchema#integer</datatype>
@@ -168,6 +198,11 @@
 <type>uri</type>
 <value>http://dbpedia.org/resource/Patricia_Highsmith</value>
 </author>
+<name>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>The Boy Who Followed Ripley</value>
+</name>
 <released>
 <type>literal</type>
 <xml:lang>en</xml:lang>
@@ -187,6 +222,11 @@
 <type>uri</type>
 <value>http://dbpedia.org/resource/Patricia_Highsmith</value>
 </author>
+<name>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>The Price of Salt</value>
+</name>
 <released>
 <type>typed-literal</type>
 <datatype>http://www.w3.org/2001/XMLSchema#integer</datatype>
@@ -206,6 +246,11 @@
 <type>uri</type>
 <value>http://dbpedia.org/resource/Patricia_Highsmith</value>
 </author>
+<name>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>This Sweet Sickness</value>
+</name>
 <released>
 <type>typed-literal</type>
 <datatype>http://www.w3.org/2001/XMLSchema#integer</datatype>
@@ -225,6 +270,11 @@
 <type>uri</type>
 <value>http://dbpedia.org/resource/Patricia_Highsmith</value>
 </author>
+<name>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>Deep Water</value>
+</name>
 <released>
 <type>typed-literal</type>
 <datatype>http://www.w3.org/2001/XMLSchema#integer</datatype>
@@ -244,6 +294,11 @@
 <type>uri</type>
 <value>http://dbpedia.org/resource/Patricia_Highsmith</value>
 </author>
+<name>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>A Dog&apos;s Ransom</value>
+</name>
 <published>
 <type>typed-literal</type>
 <datatype>http://www.w3.org/2001/XMLSchema#integer</datatype>
@@ -263,6 +318,11 @@
 <type>uri</type>
 <value>http://dbpedia.org/resource/Patricia_Highsmith</value>
 </author>
+<name>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>A Game for the Living</value>
+</name>
 <published>
 <type>uri</type>
 <value>http://dbpedia.org/resource/Harper_(publisher)</value>
@@ -281,6 +341,11 @@
 <type>uri</type>
 <value>http://dbpedia.org/resource/Patricia_Highsmith</value>
 </author>
+<name>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>The Cry of the Owl</value>
+</name>
 <wikilink>
 <type>uri</type>
 <value>http://en.wikipedia.org/wiki/The_Cry_of_the_Owl?oldid=584363019</value>

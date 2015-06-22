@@ -42,6 +42,11 @@
 <type>uri</type>
 <value>http://dbpedia.org/resource/Denis_Diderot</value>
 </author>
+<name>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>Encyclopédie, ou dictionnaire raisonné des sciences, des arts et des métiers</value>
+</name>
 <thumbnail>
 <type>uri</type>
 <value>http://commons.wikimedia.org/wiki/Special:FilePath/Encyclopedie_de_D&apos;Alembert_et_Diderot_-_Premiere_Page_-_ENC_1-NA5.jpg?width=300</value>
@@ -70,6 +75,11 @@
 <type>uri</type>
 <value>http://dbpedia.org/resource/Denis_Diderot</value>
 </author>
+<name>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>Lettre sur les aveugles à l&apos;usage de ceux qui voient</value>
+</name>
 <thumbnail>
 <type>uri</type>
 <value>http://commons.wikimedia.org/wiki/Special:FilePath/DiderotLetterBlind.jpg?width=300</value>
@@ -98,6 +108,11 @@
 <type>uri</type>
 <value>http://dbpedia.org/resource/Denis_Diderot</value>
 </author>
+<name>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>or the Second Satire</value>
+</name>
 <thumbnail>
 <type>uri</type>
 <value>http://commons.wikimedia.org/wiki/Special:FilePath/DiderotRameauNephew.jpg?width=300</value>
@@ -126,6 +141,11 @@
 <type>uri</type>
 <value>http://dbpedia.org/resource/Denis_Diderot</value>
 </author>
+<name>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>Jacques le fataliste et son maître</value>
+</name>
 <thumbnail>
 <type>uri</type>
 <value>http://commons.wikimedia.org/wiki/Special:FilePath/DiderotJacquesFatalist01.jpg?width=300</value>
@@ -154,6 +174,11 @@
 <type>uri</type>
 <value>http://dbpedia.org/resource/Denis_Diderot</value>
 </author>
+<name>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>Le Rêve de d’Alembert</value>
+</name>
 <released>
 <type>typed-literal</type>
 <datatype>http://www.w3.org/2001/XMLSchema#integer</datatype>
@@ -178,6 +203,11 @@
 <type>uri</type>
 <value>http://dbpedia.org/resource/Denis_Diderot</value>
 </author>
+<name>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>Les bijoux indiscrets</value>
+</name>
 <released>
 <type>typed-literal</type>
 <datatype>http://www.w3.org/2001/XMLSchema#integer</datatype>
@@ -202,6 +232,11 @@
 <type>uri</type>
 <value>http://dbpedia.org/resource/Denis_Diderot</value>
 </author>
+<name>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>La Promenade du sceptique</value>
+</name>
 <released>
 <type>typed-literal</type>
 <datatype>http://www.w3.org/2001/XMLSchema#integer</datatype>

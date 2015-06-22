@@ -30,6 +30,11 @@
 <type>uri</type>
 <value>http://dbpedia.org/resource/George_MacDonald</value>
 </author>
+<name>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>Phantastes</value>
+</name>
 <thumbnail>
 <type>uri</type>
 <value>http://commons.wikimedia.org/wiki/Special:FilePath/George_MacDonald_by_Jeffrey_of_London_c1870.jpg?width=300</value>
@@ -53,6 +58,11 @@
 <type>uri</type>
 <value>http://dbpedia.org/resource/George_MacDonald</value>
 </author>
+<name>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>Ranald Bannerman&apos;s Boyhood</value>
+</name>
 <thumbnail>
 <type>uri</type>
 <value>http://en.wikipedia.org/wiki/Special:FilePath/RoundKirsty&apos;sFire.jpg?width=300</value>
@@ -76,6 +86,11 @@
 <type>uri</type>
 <value>http://dbpedia.org/resource/George_MacDonald</value>
 </author>
+<name>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>The Princess and the Goblin</value>
+</name>
 <thumbnail>
 <type>uri</type>
 <value>http://commons.wikimedia.org/wiki/Special:FilePath/Princess_and_the_Goblin.jpg?width=300</value>
@@ -99,6 +114,11 @@
 <type>uri</type>
 <value>http://dbpedia.org/resource/George_MacDonald</value>
 </author>
+<name>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>At the Back of the North Wind</value>
+</name>
 <released>
 <type>typed-literal</type>
 <datatype>http://www.w3.org/2001/XMLSchema#integer</datatype>
@@ -123,6 +143,11 @@
 <type>uri</type>
 <value>http://dbpedia.org/resource/George_MacDonald</value>
 </author>
+<name>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>Lilith</value>
+</name>
 <released>
 <type>typed-literal</type>
 <datatype>http://www.w3.org/2001/XMLSchema#integer</datatype>
@@ -142,6 +167,11 @@
 <type>uri</type>
 <value>http://dbpedia.org/resource/George_MacDonald</value>
 </author>
+<name>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>David Elginbrod</value>
+</name>
 <released>
 <type>typed-literal</type>
 <datatype>http://www.w3.org/2001/XMLSchema#integer</datatype>
@@ -161,6 +191,11 @@
 <type>uri</type>
 <value>http://dbpedia.org/resource/George_MacDonald</value>
 </author>
+<name>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>Evenor</value>
+</name>
 <released>
 <type>typed-literal</type>
 <datatype>http://www.w3.org/2001/XMLSchema#integer</datatype>
@@ -180,6 +215,11 @@
 <type>uri</type>
 <value>http://dbpedia.org/resource/George_MacDonald</value>
 </author>
+<name>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>The Wise Woman: A Parable</value>
+</name>
 <released>
 <type>typed-literal</type>
 <datatype>http://www.w3.org/2001/XMLSchema#integer</datatype>
@@ -199,6 +239,11 @@
 <type>uri</type>
 <value>http://dbpedia.org/resource/George_MacDonald</value>
 </author>
+<name>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>A Daughter&apos;s Devotion</value>
+</name>
 <released>
 <type>typed-literal</type>
 <datatype>http://www.w3.org/2001/XMLSchema#integer</datatype>
@@ -218,6 +263,11 @@
 <type>uri</type>
 <value>http://dbpedia.org/resource/George_MacDonald</value>
 </author>
+<name>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>The Gifts of the Child Christ; Fairy Tales and Stories for the Childlike in Two Volumes</value>
+</name>
 <released>
 <type>typed-literal</type>
 <datatype>http://www.w3.org/2001/XMLSchema#integer</datatype>

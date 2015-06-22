@@ -29,6 +29,11 @@
 <type>uri</type>
 <value>http://dbpedia.org/resource/Howard_Pyle</value>
 </author>
+<name>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>The Merry Adventures of Robin Hood of Great Renown in Nottinghamshire</value>
+</name>
 <thumbnail>
 <type>uri</type>
 <value>http://commons.wikimedia.org/wiki/Special:FilePath/The_Merry_Adventures_of_Robin_Hood,_1_Title_page.png?width=300</value>
@@ -52,6 +57,11 @@
 <type>uri</type>
 <value>http://dbpedia.org/resource/Howard_Pyle</value>
 </author>
+<name>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>Otto of the Silver Hand</value>
+</name>
 <released>
 <type>typed-literal</type>
 <datatype>http://www.w3.org/2001/XMLSchema#integer</datatype>

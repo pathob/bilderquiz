@@ -33,6 +33,11 @@
 <type>uri</type>
 <value>http://dbpedia.org/resource/Tom_Wolfe</value>
 </author>
+<name>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>The Right Stuff</value>
+</name>
 <thumbnail>
 <type>uri</type>
 <value>http://commons.wikimedia.org/wiki/Special:FilePath/Original_7_Astronauts_in_Spacesuits_-_GPN-2000-001293.jpg?width=300</value>
@@ -56,6 +61,11 @@
 <type>uri</type>
 <value>http://dbpedia.org/resource/Tom_Wolfe</value>
 </author>
+<name>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>From Bauhaus to Our House</value>
+</name>
 <thumbnail>
 <type>uri</type>
 <value>http://commons.wikimedia.org/wiki/Special:FilePath/SullivanNY1.jpg?width=300</value>
@@ -79,6 +89,11 @@
 <type>uri</type>
 <value>http://dbpedia.org/resource/Tom_Wolfe</value>
 </author>
+<name>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>Back to Blood</value>
+</name>
 <released>
 <type>typed-literal</type>
 <datatype>http://www.w3.org/2001/XMLSchema#integer</datatype>
@@ -103,6 +118,11 @@
 <type>uri</type>
 <value>http://dbpedia.org/resource/Tom_Wolfe</value>
 </author>
+<name>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>The Bonfire of the Vanities</value>
+</name>
 <released>
 <type>literal</type>
 <xml:lang>en</xml:lang>
@@ -127,6 +147,11 @@
 <type>uri</type>
 <value>http://dbpedia.org/resource/Tom_Wolfe</value>
 </author>
+<name>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>Mauve Gloves &amp; Madmen, Clutter &amp; Vine</value>
+</name>
 <released>
 <type>typed-literal</type>
 <datatype>http://www.w3.org/2001/XMLSchema#integer</datatype>
@@ -146,6 +171,11 @@
 <type>uri</type>
 <value>http://dbpedia.org/resource/Tom_Wolfe</value>
 </author>
+<name>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>A Man in Full</value>
+</name>
 <released>
 <type>typed-literal</type>
 <datatype>http://www.w3.org/2001/XMLSchema#date</datatype>
@@ -165,6 +195,11 @@
 <type>uri</type>
 <value>http://dbpedia.org/resource/Tom_Wolfe</value>
 </author>
+<name>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>The Purple Decades</value>
+</name>
 <released>
 <type>typed-literal</type>
 <datatype>http://www.w3.org/2001/XMLSchema#integer</datatype>
@@ -184,6 +219,11 @@
 <type>uri</type>
 <value>http://dbpedia.org/resource/Tom_Wolfe</value>
 </author>
+<name>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>The Painted Word</value>
+</name>
 <released>
 <type>typed-literal</type>
 <datatype>http://www.w3.org/2001/XMLSchema#integer</datatype>
@@ -203,6 +243,11 @@
 <type>uri</type>
 <value>http://dbpedia.org/resource/Tom_Wolfe</value>
 </author>
+<name>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>The Kandy-Kolored Tangerine-Flake Streamline Baby</value>
+</name>
 <released>
 <type>typed-literal</type>
 <datatype>http://www.w3.org/2001/XMLSchema#integer</datatype>
@@ -222,6 +267,11 @@
 <type>uri</type>
 <value>http://dbpedia.org/resource/Tom_Wolfe</value>
 </author>
+<name>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>Hooking Up</value>
+</name>
 <released>
 <type>typed-literal</type>
 <datatype>http://www.w3.org/2001/XMLSchema#integer</datatype>
@@ -241,6 +291,11 @@
 <type>uri</type>
 <value>http://dbpedia.org/resource/Tom_Wolfe</value>
 </author>
+<name>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>Radical Chic &amp; Mau-Mauing the Flak Catchers</value>
+</name>
 <released>
 <type>typed-literal</type>
 <datatype>http://www.w3.org/2001/XMLSchema#integer</datatype>
@@ -260,6 +315,11 @@
 <type>uri</type>
 <value>http://dbpedia.org/resource/Tom_Wolfe</value>
 </author>
+<name>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>In Our Time</value>
+</name>
 <released>
 <type>typed-literal</type>
 <datatype>http://www.w3.org/2001/XMLSchema#integer</datatype>
@@ -279,6 +339,11 @@
 <type>uri</type>
 <value>http://dbpedia.org/resource/Tom_Wolfe</value>
 </author>
+<name>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>The Pump House Gang</value>
+</name>
 <released>
 <type>literal</type>
 <xml:lang>en</xml:lang>
@@ -298,6 +363,11 @@
 <type>uri</type>
 <value>http://dbpedia.org/resource/Tom_Wolfe</value>
 </author>
+<name>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>The New Journalism</value>
+</name>
 <wikilink>
 <type>uri</type>
 <value>http://en.wikipedia.org/wiki/The_New_Journalism?oldid=605156230</value>
@@ -312,6 +382,11 @@
 <type>uri</type>
 <value>http://dbpedia.org/resource/Tom_Wolfe</value>
 </author>
+<name>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>The Electric Kool-Aid Acid Test</value>
+</name>
 <wikilink>
 <type>uri</type>
 <value>http://en.wikipedia.org/wiki/The_Electric_Kool-Aid_Acid_Test?oldid=595968833</value>
@@ -326,6 +401,11 @@
 <type>uri</type>
 <value>http://dbpedia.org/resource/Tom_Wolfe</value>
 </author>
+<name>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>I am Charlotte Simmons</value>
+</name>
 <wikilink>
 <type>uri</type>
 <value>http://en.wikipedia.org/wiki/I_Am_Charlotte_Simmons?oldid=602309785</value>

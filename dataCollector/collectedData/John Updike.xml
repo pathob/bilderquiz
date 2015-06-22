@@ -32,6 +32,11 @@
 <type>uri</type>
 <value>http://dbpedia.org/resource/John_Updike</value>
 </author>
+<name>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>Rabbit is Rich</value>
+</name>
 <released>
 <type>typed-literal</type>
 <datatype>http://www.w3.org/2001/XMLSchema#date</datatype>
@@ -56,6 +61,11 @@
 <type>uri</type>
 <value>http://dbpedia.org/resource/John_Updike</value>
 </author>
+<name>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>Rabbit At Rest</value>
+</name>
 <released>
 <type>typed-literal</type>
 <datatype>http://www.w3.org/2001/XMLSchema#integer</datatype>
@@ -80,6 +90,11 @@
 <type>uri</type>
 <value>http://dbpedia.org/resource/John_Updike</value>
 </author>
+<name>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>Rabbit, Run</value>
+</name>
 <released>
 <type>typed-literal</type>
 <datatype>http://www.w3.org/2001/XMLSchema#date</datatype>
@@ -104,6 +119,11 @@
 <type>uri</type>
 <value>http://dbpedia.org/resource/John_Updike</value>
 </author>
+<name>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>The Witches of Eastwick</value>
+</name>
 <released>
 <type>typed-literal</type>
 <datatype>http://www.w3.org/2001/XMLSchema#date</datatype>
@@ -128,6 +148,11 @@
 <type>uri</type>
 <value>http://dbpedia.org/resource/John_Updike</value>
 </author>
+<name>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>Rabbit Redux</value>
+</name>
 <released>
 <type>typed-literal</type>
 <datatype>http://www.w3.org/2001/XMLSchema#integer</datatype>
@@ -152,6 +177,11 @@
 <type>uri</type>
 <value>http://dbpedia.org/resource/John_Updike</value>
 </author>
+<name>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>Terrorist</value>
+</name>
 <released>
 <type>typed-literal</type>
 <datatype>http://www.w3.org/2001/XMLSchema#integer</datatype>
@@ -171,6 +201,11 @@
 <type>uri</type>
 <value>http://dbpedia.org/resource/John_Updike</value>
 </author>
+<name>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>The Poorhouse Fair</value>
+</name>
 <released>
 <type>typed-literal</type>
 <datatype>http://www.w3.org/2001/XMLSchema#integer</datatype>
@@ -190,6 +225,11 @@
 <type>uri</type>
 <value>http://dbpedia.org/resource/John_Updike</value>
 </author>
+<name>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>Memories of the Ford Administration</value>
+</name>
 <released>
 <type>typed-literal</type>
 <datatype>http://www.w3.org/2001/XMLSchema#integer</datatype>
@@ -209,6 +249,11 @@
 <type>uri</type>
 <value>http://dbpedia.org/resource/John_Updike</value>
 </author>
+<name>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>The Widows of Eastwick</value>
+</name>
 <released>
 <type>typed-literal</type>
 <datatype>http://www.w3.org/2001/XMLSchema#integer</datatype>
@@ -228,6 +273,11 @@
 <type>uri</type>
 <value>http://dbpedia.org/resource/John_Updike</value>
 </author>
+<name>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>The Early Stories: 1953–1975</value>
+</name>
 <released>
 <type>typed-literal</type>
 <datatype>http://www.w3.org/2001/XMLSchema#date</datatype>
@@ -247,6 +297,11 @@
 <type>uri</type>
 <value>http://dbpedia.org/resource/John_Updike</value>
 </author>
+<name>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>Gertrude and Claudius</value>
+</name>
 <released>
 <type>typed-literal</type>
 <datatype>http://www.w3.org/2001/XMLSchema#date</datatype>
@@ -266,6 +321,11 @@
 <type>uri</type>
 <value>http://dbpedia.org/resource/John_Updike</value>
 </author>
+<name>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>Couples</value>
+</name>
 <wikilink>
 <type>uri</type>
 <value>http://en.wikipedia.org/wiki/Couples_(novel)?oldid=596412924</value>
@@ -285,6 +345,11 @@
 <type>uri</type>
 <value>http://dbpedia.org/resource/John_Updike</value>
 </author>
+<name>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>Trust Me</value>
+</name>
 <wikilink>
 <type>uri</type>
 <value>http://en.wikipedia.org/wiki/Trust_Me_(book)?oldid=544935282</value>
@@ -299,6 +364,11 @@
 <type>uri</type>
 <value>http://dbpedia.org/resource/John_Updike</value>
 </author>
+<name>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>The Coup</value>
+</name>
 <wikilink>
 <type>uri</type>
 <value>http://en.wikipedia.org/wiki/The_Coup_(Updike_novel)?oldid=606788170</value>
@@ -313,6 +383,11 @@
 <type>uri</type>
 <value>http://dbpedia.org/resource/John_Updike</value>
 </author>
+<name>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>Too Far to Go</value>
+</name>
 <wikilink>
 <type>uri</type>
 <value>http://en.wikipedia.org/wiki/Too_Far_to_Go?oldid=604048318</value>
@@ -327,6 +402,11 @@
 <type>uri</type>
 <value>http://dbpedia.org/resource/John_Updike</value>
 </author>
+<name>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>Brazil</value>
+</name>
 <wikilink>
 <type>uri</type>
 <value>http://en.wikipedia.org/wiki/Brazil_(novel)?oldid=583515388</value>

@@ -28,6 +28,11 @@
 <type>uri</type>
 <value>http://dbpedia.org/resource/Farley_Mowat</value>
 </author>
+<name>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>Never Cry Wolf</value>
+</name>
 <released>
 <type>typed-literal</type>
 <datatype>http://www.w3.org/2001/XMLSchema#integer</datatype>
@@ -47,6 +52,11 @@
 <type>uri</type>
 <value>http://dbpedia.org/resource/Farley_Mowat</value>
 </author>
+<name>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>Woman in the Mists</value>
+</name>
 <wikilink>
 <type>uri</type>
 <value>http://en.wikipedia.org/wiki/Woman_in_the_Mists?oldid=599387280</value>
@@ -61,6 +71,11 @@
 <type>uri</type>
 <value>http://dbpedia.org/resource/Farley_Mowat</value>
 </author>
+<name>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>People of the Deer</value>
+</name>
 <wikilink>
 <type>uri</type>
 <value>http://en.wikipedia.org/wiki/People_of_the_Deer?oldid=602336818</value>
@@ -75,6 +90,11 @@
 <type>uri</type>
 <value>http://dbpedia.org/resource/Farley_Mowat</value>
 </author>
+<name>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>Curse of the Viking Grave</value>
+</name>
 <wikilink>
 <type>uri</type>
 <value>http://en.wikipedia.org/wiki/Curse_of_the_Viking_Grave?oldid=578622940</value>
@@ -89,6 +109,11 @@
 <type>uri</type>
 <value>http://dbpedia.org/resource/Farley_Mowat</value>
 </author>
+<name>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>Owls in the Family</value>
+</name>
 <wikilink>
 <type>uri</type>
 <value>http://en.wikipedia.org/wiki/Owls_in_the_Family?oldid=599899088</value>
@@ -103,6 +128,11 @@
 <type>uri</type>
 <value>http://dbpedia.org/resource/Farley_Mowat</value>
 </author>
+<name>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>Lost in the Barrens</value>
+</name>
 <wikilink>
 <type>uri</type>
 <value>http://en.wikipedia.org/wiki/Lost_in_the_Barrens?oldid=606547285</value>

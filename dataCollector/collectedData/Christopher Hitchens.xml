@@ -35,6 +35,11 @@
 <type>uri</type>
 <value>http://dbpedia.org/resource/Christopher_Hitchens</value>
 </author>
+<name>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>God Is Not Great</value>
+</name>
 <thumbnail>
 <type>uri</type>
 <value>http://commons.wikimedia.org/wiki/Special:FilePath/God_is_not_great.JPG?width=300</value>
@@ -63,6 +68,11 @@
 <type>uri</type>
 <value>http://dbpedia.org/resource/Christopher_Hitchens</value>
 </author>
+<name>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>The Trial of Henry Kissinger</value>
+</name>
 <released>
 <type>typed-literal</type>
 <datatype>http://www.w3.org/2001/XMLSchema#integer</datatype>
@@ -87,6 +97,11 @@
 <type>uri</type>
 <value>http://dbpedia.org/resource/Christopher_Hitchens</value>
 </author>
+<name>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>Letters to a Young Contrarian</value>
+</name>
 <released>
 <type>typed-literal</type>
 <datatype>http://www.w3.org/2001/XMLSchema#integer</datatype>
@@ -106,6 +121,11 @@
 <type>uri</type>
 <value>http://dbpedia.org/resource/Christopher_Hitchens</value>
 </author>
+<name>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>Unacknowledged Legislation: Writers in the Public Sphere</value>
+</name>
 <released>
 <type>typed-literal</type>
 <datatype>http://www.w3.org/2001/XMLSchema#integer</datatype>
@@ -125,6 +145,11 @@
 <type>uri</type>
 <value>http://dbpedia.org/resource/Christopher_Hitchens</value>
 </author>
+<name>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>Love, Poverty, and War: Journeys and Essays</value>
+</name>
 <released>
 <type>typed-literal</type>
 <datatype>http://www.w3.org/2001/XMLSchema#integer</datatype>
@@ -144,6 +169,11 @@
 <type>uri</type>
 <value>http://dbpedia.org/resource/Christopher_Hitchens</value>
 </author>
+<name>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>Why Orwell Matters</value>
+</name>
 <released>
 <type>typed-literal</type>
 <datatype>http://www.w3.org/2001/XMLSchema#integer</datatype>
@@ -163,6 +193,11 @@
 <type>uri</type>
 <value>http://dbpedia.org/resource/Christopher_Hitchens</value>
 </author>
+<name>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>Thomas Jefferson: Author of America</value>
+</name>
 <released>
 <type>typed-literal</type>
 <datatype>http://www.w3.org/2001/XMLSchema#integer</datatype>
@@ -182,6 +217,11 @@
 <type>uri</type>
 <value>http://dbpedia.org/resource/Christopher_Hitchens</value>
 </author>
+<name>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>A Long Short War</value>
+</name>
 <released>
 <type>typed-literal</type>
 <datatype>http://www.w3.org/2001/XMLSchema#integer</datatype>
@@ -201,6 +241,11 @@
 <type>uri</type>
 <value>http://dbpedia.org/resource/Christopher_Hitchens</value>
 </author>
+<name>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>Prepared for the Worst: Selected Essays and Minority Reports</value>
+</name>
 <released>
 <type>typed-literal</type>
 <datatype>http://www.w3.org/2001/XMLSchema#integer</datatype>
@@ -220,6 +265,11 @@
 <type>uri</type>
 <value>http://dbpedia.org/resource/Christopher_Hitchens</value>
 </author>
+<name>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>The Missionary Position: Mother Teresa in Theory and Practice</value>
+</name>
 <released>
 <type>typed-literal</type>
 <datatype>http://www.w3.org/2001/XMLSchema#integer</datatype>
@@ -239,6 +289,11 @@
 <type>uri</type>
 <value>http://dbpedia.org/resource/Christopher_Hitchens</value>
 </author>
+<name>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>The Portable Atheist: Essential Readings for the Non-Believer</value>
+</name>
 <released>
 <type>literal</type>
 <xml:lang>en</xml:lang>
@@ -258,6 +313,11 @@
 <type>uri</type>
 <value>http://dbpedia.org/resource/Christopher_Hitchens</value>
 </author>
+<name>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>Hitch-22</value>
+</name>
 <released>
 <type>typed-literal</type>
 <datatype>http://www.w3.org/2001/XMLSchema#gMonthDay</datatype>
@@ -277,6 +337,11 @@
 <type>uri</type>
 <value>http://dbpedia.org/resource/Christopher_Hitchens</value>
 </author>
+<name>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>Thomas Paine&apos;s &quot;Rights of Man&quot;: A Biography</value>
+</name>
 <released>
 <type>typed-literal</type>
 <datatype>http://www.w3.org/2001/XMLSchema#integer</datatype>
@@ -296,6 +361,11 @@
 <type>uri</type>
 <value>http://dbpedia.org/resource/Christopher_Hitchens</value>
 </author>
+<name>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>No One Left to Lie To: The Triangulations of William Jefferson Clinton</value>
+</name>
 <released>
 <type>typed-literal</type>
 <datatype>http://www.w3.org/2001/XMLSchema#integer</datatype>
@@ -315,6 +385,11 @@
 <type>uri</type>
 <value>http://dbpedia.org/resource/Christopher_Hitchens</value>
 </author>
+<name>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>Arguably: Essays</value>
+</name>
 <wikilink>
 <type>uri</type>
 <value>http://en.wikipedia.org/wiki/Arguably?oldid=604816119</value>
@@ -329,6 +404,11 @@
 <type>uri</type>
 <value>http://dbpedia.org/resource/Christopher_Hitchens</value>
 </author>
+<name>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>Mortality</value>
+</name>
 <wikilink>
 <type>uri</type>
 <value>http://en.wikipedia.org/wiki/Mortality_(book)?oldid=588737550</value>

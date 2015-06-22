@@ -31,6 +31,11 @@
 <type>uri</type>
 <value>http://dbpedia.org/resource/John_Irving</value>
 </author>
+<name>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>A Prayer for Owen Meany</value>
+</name>
 <released>
 <type>literal</type>
 <xml:lang>en</xml:lang>
@@ -55,6 +60,11 @@
 <type>uri</type>
 <value>http://dbpedia.org/resource/John_Irving</value>
 </author>
+<name>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>Setting Free the Bears</value>
+</name>
 <released>
 <type>typed-literal</type>
 <datatype>http://www.w3.org/2001/XMLSchema#integer</datatype>
@@ -79,6 +89,11 @@
 <type>uri</type>
 <value>http://dbpedia.org/resource/John_Irving</value>
 </author>
+<name>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>The 158-Pound Marriage</value>
+</name>
 <released>
 <type>typed-literal</type>
 <datatype>http://www.w3.org/2001/XMLSchema#date</datatype>
@@ -103,6 +118,11 @@
 <type>uri</type>
 <value>http://dbpedia.org/resource/John_Irving</value>
 </author>
+<name>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>The Hotel New Hampshire</value>
+</name>
 <released>
 <type>typed-literal</type>
 <datatype>http://www.w3.org/2001/XMLSchema#integer</datatype>
@@ -127,6 +147,11 @@
 <type>uri</type>
 <value>http://dbpedia.org/resource/John_Irving</value>
 </author>
+<name>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>The Water-Method Man</value>
+</name>
 <released>
 <type>literal</type>
 <xml:lang>en</xml:lang>
@@ -151,6 +176,11 @@
 <type>uri</type>
 <value>http://dbpedia.org/resource/John_Irving</value>
 </author>
+<name>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>The Fourth Hand</value>
+</name>
 <released>
 <type>typed-literal</type>
 <datatype>http://www.w3.org/2001/XMLSchema#date</datatype>
@@ -175,6 +205,11 @@
 <type>uri</type>
 <value>http://dbpedia.org/resource/John_Irving</value>
 </author>
+<name>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>Until I Find You</value>
+</name>
 <released>
 <type>typed-literal</type>
 <datatype>http://www.w3.org/2001/XMLSchema#date</datatype>
@@ -199,6 +234,11 @@
 <type>uri</type>
 <value>http://dbpedia.org/resource/John_Irving</value>
 </author>
+<name>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>A Son of the Circus</value>
+</name>
 <released>
 <type>literal</type>
 <xml:lang>en</xml:lang>
@@ -223,6 +263,11 @@
 <type>uri</type>
 <value>http://dbpedia.org/resource/John_Irving</value>
 </author>
+<name>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>The Cider House Rules</value>
+</name>
 <released>
 <type>typed-literal</type>
 <datatype>http://www.w3.org/2001/XMLSchema#integer</datatype>
@@ -247,6 +292,11 @@
 <type>uri</type>
 <value>http://dbpedia.org/resource/John_Irving</value>
 </author>
+<name>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>A Widow for One Year</value>
+</name>
 <released>
 <type>typed-literal</type>
 <datatype>http://www.w3.org/2001/XMLSchema#date</datatype>
@@ -271,6 +321,11 @@
 <type>uri</type>
 <value>http://dbpedia.org/resource/John_Irving</value>
 </author>
+<name>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>In One Person</value>
+</name>
 <released>
 <type>literal</type>
 <xml:lang>en</xml:lang>
@@ -290,6 +345,11 @@
 <type>uri</type>
 <value>http://dbpedia.org/resource/John_Irving</value>
 </author>
+<name>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>Trying to Save Piggy Sneed</value>
+</name>
 <released>
 <type>typed-literal</type>
 <datatype>http://www.w3.org/2001/XMLSchema#integer</datatype>
@@ -309,6 +369,11 @@
 <type>uri</type>
 <value>http://dbpedia.org/resource/John_Irving</value>
 </author>
+<name>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>Last Night in Twisted River</value>
+</name>
 <published>
 <type>literal</type>
 <xml:lang>en</xml:lang>
@@ -334,6 +399,11 @@
 <type>uri</type>
 <value>http://dbpedia.org/resource/John_Irving</value>
 </author>
+<name>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>The World According to Garp</value>
+</name>
 <wikilink>
 <type>uri</type>
 <value>http://en.wikipedia.org/wiki/The_World_According_to_Garp?oldid=605631011</value>
@@ -353,6 +423,11 @@
 <type>uri</type>
 <value>http://dbpedia.org/resource/John_Irving</value>
 </author>
+<name>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>A Sound Like Someone Trying Not to Make a Sound</value>
+</name>
 <wikilink>
 <type>uri</type>
 <value>http://en.wikipedia.org/wiki/A_Sound_Like_Someone_Trying_Not_to_Make_a_Sound?oldid=606023147</value>

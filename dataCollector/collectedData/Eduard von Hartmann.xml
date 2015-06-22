@@ -36,6 +36,11 @@
 <type>uri</type>
 <value>http://dbpedia.org/resource/Karl_Robert_Eduard_von_Hartmann</value>
 </author>
+<name>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>The Philosophy of the Unconscious</value>
+</name>
 <published>
 <type>literal</type>
 <xml:lang>en</xml:lang>

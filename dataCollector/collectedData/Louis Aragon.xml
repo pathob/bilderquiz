@@ -46,6 +46,11 @@
 <type>uri</type>
 <value>http://dbpedia.org/resource/Louis_Aragon</value>
 </author>
+<name>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>Le Paysan de Paris</value>
+</name>
 <wikilink>
 <type>uri</type>
 <value>http://en.wikipedia.org/wiki/Le_Paysan_de_Paris?oldid=598620186</value>
@@ -60,6 +65,11 @@
 <type>uri</type>
 <value>http://dbpedia.org/resource/Louis_Aragon</value>
 </author>
+<name>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>Holy Week</value>
+</name>
 <wikilink>
 <type>uri</type>
 <value>http://en.wikipedia.org/wiki/La_Semaine_Sainte?oldid=545137940</value>

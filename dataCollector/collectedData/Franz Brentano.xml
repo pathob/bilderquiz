@@ -40,6 +40,11 @@
 <type>uri</type>
 <value>http://dbpedia.org/resource/Franz_Brentano</value>
 </author>
+<name>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>Psychology from an Empirical Standpoint</value>
+</name>
 <published>
 <type>literal</type>
 <xml:lang>en</xml:lang>

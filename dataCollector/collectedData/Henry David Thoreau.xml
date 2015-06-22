@@ -42,6 +42,11 @@
 <type>uri</type>
 <value>http://dbpedia.org/resource/Henry_David_Thoreau</value>
 </author>
+<name>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>Walden</value>
+</name>
 <thumbnail>
 <type>uri</type>
 <value>http://commons.wikimedia.org/wiki/Special:FilePath/Walden_Thoreau.jpg?width=300</value>

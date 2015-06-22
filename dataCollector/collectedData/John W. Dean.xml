@@ -35,6 +35,11 @@
 <type>uri</type>
 <value>http://dbpedia.org/resource/John_Dean</value>
 </author>
+<name>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>Conservatives without Conscience</value>
+</name>
 <released>
 <type>literal</type>
 <xml:lang>en</xml:lang>

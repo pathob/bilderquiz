@@ -44,6 +44,11 @@
 <type>uri</type>
 <value>http://dbpedia.org/resource/Jorge_Luis_Borges</value>
 </author>
+<name>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>Tlön, Uqbar, Orbis Tertius</value>
+</name>
 <thumbnail>
 <type>uri</type>
 <value>http://en.wikipedia.org/wiki/Special:FilePath/Tlon_Uqbar_Orbis_Tertius_by_Rikki.jpg?width=300</value>
@@ -72,6 +77,11 @@
 <type>uri</type>
 <value>http://dbpedia.org/resource/Jorge_Luis_Borges</value>
 </author>
+<name>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>El Aleph</value>
+</name>
 <released>
 <type>typed-literal</type>
 <datatype>http://www.w3.org/2001/XMLSchema#integer</datatype>
@@ -91,6 +101,11 @@
 <type>uri</type>
 <value>http://dbpedia.org/resource/Jorge_Luis_Borges</value>
 </author>
+<name>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>Deutsches Requiem</value>
+</name>
 <released>
 <type>literal</type>
 <xml:lang>en</xml:lang>
@@ -110,6 +125,11 @@
 <type>uri</type>
 <value>http://dbpedia.org/resource/Jorge_Luis_Borges</value>
 </author>
+<name>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>Manual de zoología fantástica, later El libro de los seres imaginarios</value>
+</name>
 <released>
 <type>typed-literal</type>
 <datatype>http://www.w3.org/2001/XMLSchema#integer</datatype>
@@ -129,6 +149,11 @@
 <type>uri</type>
 <value>http://dbpedia.org/resource/Jorge_Luis_Borges</value>
 </author>
+<name>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>Fictions</value>
+</name>
 <wikilink>
 <type>uri</type>
 <value>http://en.wikipedia.org/wiki/Ficciones?oldid=592529117</value>
@@ -148,6 +173,11 @@
 <type>uri</type>
 <value>http://dbpedia.org/resource/Jorge_Luis_Borges</value>
 </author>
+<name>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>La memoria de Shakespeare</value>
+</name>
 <wikilink>
 <type>uri</type>
 <value>http://en.wikipedia.org/wiki/Shakespeare&apos;s_Memory_(book)?oldid=588334734</value>
@@ -162,6 +192,11 @@
 <type>uri</type>
 <value>http://dbpedia.org/resource/Jorge_Luis_Borges</value>
 </author>
+<name>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>A Universal History of Infamy</value>
+</name>
 <wikilink>
 <type>uri</type>
 <value>http://en.wikipedia.org/wiki/A_Universal_History_of_Infamy?oldid=604640847</value>
@@ -176,6 +211,11 @@
 <type>uri</type>
 <value>http://dbpedia.org/resource/Jorge_Luis_Borges</value>
 </author>
+<name>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>The Book of Sand</value>
+</name>
 <wikilink>
 <type>uri</type>
 <value>http://en.wikipedia.org/wiki/The_Book_of_Sand_(book)?oldid=593560139</value>
@@ -190,6 +230,11 @@
 <type>uri</type>
 <value>http://dbpedia.org/resource/Jorge_Luis_Borges</value>
 </author>
+<name>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>Labyrinths</value>
+</name>
 <wikilink>
 <type>uri</type>
 <value>http://en.wikipedia.org/wiki/Labyrinths?oldid=568571664</value>

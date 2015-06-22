@@ -35,6 +35,11 @@
 <type>uri</type>
 <value>http://dbpedia.org/resource/Willa_Cather</value>
 </author>
+<name>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>O Pioneers!</value>
+</name>
 <thumbnail>
 <type>uri</type>
 <value>http://commons.wikimedia.org/wiki/Special:FilePath/Library_Walk_3.JPG?width=300</value>
@@ -63,6 +68,11 @@
 <type>uri</type>
 <value>http://dbpedia.org/resource/Willa_Cather</value>
 </author>
+<name>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>My Ántonia</value>
+</name>
 <thumbnail>
 <type>uri</type>
 <value>http://commons.wikimedia.org/wiki/Special:FilePath/Antonia.gif?width=300</value>
@@ -91,6 +101,11 @@
 <type>uri</type>
 <value>http://dbpedia.org/resource/Willa_Cather</value>
 </author>
+<name>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>The Song of the Lark</value>
+</name>
 <thumbnail>
 <type>uri</type>
 <value>http://en.wikipedia.org/wiki/Special:FilePath/The_Song_of_the_Lark_(Jules_Breton,_1884).jpg?width=300</value>
@@ -114,6 +129,11 @@
 <type>uri</type>
 <value>http://dbpedia.org/resource/Willa_Cather</value>
 </author>
+<name>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>The Life of Mary Baker G. Eddy and the History of Christian Science</value>
+</name>
 <thumbnail>
 <type>uri</type>
 <value>http://commons.wikimedia.org/wiki/Special:FilePath/The_Life_of_Mary_Baker_G._Eddy_(1909_cover).jpg?width=300</value>
@@ -132,6 +152,11 @@
 <type>uri</type>
 <value>http://dbpedia.org/resource/Willa_Cather</value>
 </author>
+<name>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>Death Comes for the Archbishop</value>
+</name>
 <released>
 <type>typed-literal</type>
 <datatype>http://www.w3.org/2001/XMLSchema#integer</datatype>
@@ -156,6 +181,11 @@
 <type>uri</type>
 <value>http://dbpedia.org/resource/Willa_Cather</value>
 </author>
+<name>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>Lucy Gayheart</value>
+</name>
 <released>
 <type>typed-literal</type>
 <datatype>http://www.w3.org/2001/XMLSchema#integer</datatype>
@@ -175,6 +205,11 @@
 <type>uri</type>
 <value>http://dbpedia.org/resource/Willa_Cather</value>
 </author>
+<name>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>The Professor&apos;s House</value>
+</name>
 <released>
 <type>typed-literal</type>
 <datatype>http://www.w3.org/2001/XMLSchema#integer</datatype>
@@ -194,6 +229,11 @@
 <type>uri</type>
 <value>http://dbpedia.org/resource/Willa_Cather</value>
 </author>
+<name>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>April Twilights</value>
+</name>
 <released>
 <type>typed-literal</type>
 <datatype>http://www.w3.org/2001/XMLSchema#integer</datatype>
@@ -213,6 +253,11 @@
 <type>uri</type>
 <value>http://dbpedia.org/resource/Willa_Cather</value>
 </author>
+<name>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>Shadows on the Rock</value>
+</name>
 <released>
 <type>typed-literal</type>
 <datatype>http://www.w3.org/2001/XMLSchema#integer</datatype>
@@ -232,6 +277,11 @@
 <type>uri</type>
 <value>http://dbpedia.org/resource/Willa_Cather</value>
 </author>
+<name>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>My Mortal Enemy</value>
+</name>
 <released>
 <type>typed-literal</type>
 <datatype>http://www.w3.org/2001/XMLSchema#integer</datatype>
@@ -251,6 +301,11 @@
 <type>uri</type>
 <value>http://dbpedia.org/resource/Willa_Cather</value>
 </author>
+<name>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>Sapphira and the Slave Girl</value>
+</name>
 <released>
 <type>typed-literal</type>
 <datatype>http://www.w3.org/2001/XMLSchema#integer</datatype>
@@ -270,6 +325,11 @@
 <type>uri</type>
 <value>http://dbpedia.org/resource/Willa_Cather</value>
 </author>
+<name>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>Five Stories</value>
+</name>
 <released>
 <type>typed-literal</type>
 <datatype>http://www.w3.org/2001/XMLSchema#integer</datatype>
@@ -289,6 +349,11 @@
 <type>uri</type>
 <value>http://dbpedia.org/resource/Willa_Cather</value>
 </author>
+<name>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>One of Ours</value>
+</name>
 <released>
 <type>typed-literal</type>
 <datatype>http://www.w3.org/2001/XMLSchema#integer</datatype>
@@ -308,6 +373,11 @@
 <type>uri</type>
 <value>http://dbpedia.org/resource/Willa_Cather</value>
 </author>
+<name>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>Alexander&apos;s Bridge</value>
+</name>
 <released>
 <type>typed-literal</type>
 <datatype>http://www.w3.org/2001/XMLSchema#integer</datatype>
@@ -327,6 +397,11 @@
 <type>uri</type>
 <value>http://dbpedia.org/resource/Willa_Cather</value>
 </author>
+<name>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>A Lost Lady</value>
+</name>
 <released>
 <type>literal</type>
 <xml:lang>en</xml:lang>
@@ -346,6 +421,11 @@
 <type>uri</type>
 <value>http://dbpedia.org/resource/Willa_Cather</value>
 </author>
+<name>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>The Old Beauty and Others</value>
+</name>
 <released>
 <type>typed-literal</type>
 <datatype>http://www.w3.org/2001/XMLSchema#integer</datatype>
@@ -365,6 +445,11 @@
 <type>uri</type>
 <value>http://dbpedia.org/resource/Willa_Cather</value>
 </author>
+<name>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>A Gold Slipper</value>
+</name>
 <published>
 <type>literal</type>
 <xml:lang>en</xml:lang>
@@ -384,6 +469,11 @@
 <type>uri</type>
 <value>http://dbpedia.org/resource/Willa_Cather</value>
 </author>
+<name>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>A Singer&apos;s Romance</value>
+</name>
 <published>
 <type>literal</type>
 <xml:lang>en</xml:lang>

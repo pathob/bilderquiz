@@ -42,6 +42,11 @@
 <type>uri</type>
 <value>http://dbpedia.org/resource/Samuel_Beckett</value>
 </author>
+<name>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>Molloy</value>
+</name>
 <released>
 <type>literal</type>
 <xml:lang>en</xml:lang>
@@ -66,6 +71,11 @@
 <type>uri</type>
 <value>http://dbpedia.org/resource/Samuel_Beckett</value>
 </author>
+<name>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>Murphy</value>
+</name>
 <released>
 <type>typed-literal</type>
 <datatype>http://www.w3.org/2001/XMLSchema#integer</datatype>
@@ -90,6 +100,11 @@
 <type>uri</type>
 <value>http://dbpedia.org/resource/Samuel_Beckett</value>
 </author>
+<name>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>Malone Meurt</value>
+</name>
 <released>
 <type>typed-literal</type>
 <datatype>http://www.w3.org/2001/XMLSchema#integer</datatype>
@@ -114,6 +129,11 @@
 <type>uri</type>
 <value>http://dbpedia.org/resource/Samuel_Beckett</value>
 </author>
+<name>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>Watt</value>
+</name>
 <released>
 <type>typed-literal</type>
 <datatype>http://www.w3.org/2001/XMLSchema#integer</datatype>
@@ -133,6 +153,11 @@
 <type>uri</type>
 <value>http://dbpedia.org/resource/Samuel_Beckett</value>
 </author>
+<name>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>Dream of Fair to Middling Women</value>
+</name>
 <released>
 <type>typed-literal</type>
 <datatype>http://www.w3.org/2001/XMLSchema#integer</datatype>
@@ -152,6 +177,11 @@
 <type>uri</type>
 <value>http://dbpedia.org/resource/Samuel_Beckett</value>
 </author>
+<name>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>Mercier and Camier</value>
+</name>
 <released>
 <type>typed-literal</type>
 <datatype>http://www.w3.org/2001/XMLSchema#integer</datatype>
@@ -171,6 +201,11 @@
 <type>uri</type>
 <value>http://dbpedia.org/resource/Samuel_Beckett</value>
 </author>
+<name>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>The Unnamable</value>
+</name>
 <wikilink>
 <type>uri</type>
 <value>http://en.wikipedia.org/wiki/The_Unnamable_(novel)?oldid=592410075</value>
@@ -190,6 +225,11 @@
 <type>uri</type>
 <value>http://dbpedia.org/resource/Samuel_Beckett</value>
 </author>
+<name>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>Fizzles</value>
+</name>
 <wikilink>
 <type>uri</type>
 <value>http://en.wikipedia.org/wiki/Fizzles?oldid=603878916</value>

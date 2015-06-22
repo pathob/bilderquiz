@@ -32,6 +32,11 @@
 <type>uri</type>
 <value>http://dbpedia.org/resource/Paul_Ric%C5%93ur</value>
 </author>
+<name>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>De l&apos;interprétation. Essai sur Sigmund Freud</value>
+</name>
 <published>
 <type>literal</type>
 <xml:lang>en</xml:lang>

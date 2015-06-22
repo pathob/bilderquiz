@@ -67,6 +67,11 @@
 <type>uri</type>
 <value>http://dbpedia.org/resource/Albert_Speer</value>
 </author>
+<name>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>Inside the Third Reich</value>
+</name>
 <thumbnail>
 <type>uri</type>
 <value>http://commons.wikimedia.org/wiki/Special:FilePath/Inside_The_Third_Reich.jpg?width=300</value>

@@ -52,6 +52,11 @@
 <type>uri</type>
 <value>http://dbpedia.org/resource/Johann_Gottlieb_Fichte</value>
 </author>
+<name>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>Foundations of the Science of Knowledge</value>
+</name>
 <released>
 <type>typed-literal</type>
 <datatype>http://www.w3.org/2001/XMLSchema#integer</datatype>

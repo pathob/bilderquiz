@@ -54,6 +54,11 @@
 <type>uri</type>
 <value>http://dbpedia.org/resource/Arthur_Schopenhauer</value>
 </author>
+<name>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>The World as Will and Representation</value>
+</name>
 <thumbnail>
 <type>uri</type>
 <value>http://commons.wikimedia.org/wiki/Special:FilePath/Schop_welt_2ed.jpg?width=300</value>
@@ -83,6 +88,11 @@
 <type>uri</type>
 <value>http://dbpedia.org/resource/Arthur_Schopenhauer</value>
 </author>
+<name>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>Eristic Dialectics: The Art Of Being Right</value>
+</name>
 <thumbnail>
 <type>uri</type>
 <value>http://commons.wikimedia.org/wiki/Special:FilePath/Veronese,_Paolo_-_Arachne_or_Dialectics_-_1520.jpg?width=300</value>

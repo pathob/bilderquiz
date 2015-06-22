@@ -46,6 +46,11 @@
 <type>uri</type>
 <value>http://dbpedia.org/resource/Sheridan_Le_Fanu</value>
 </author>
+<name>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>Carmilla</value>
+</name>
 <thumbnail>
 <type>uri</type>
 <value>http://commons.wikimedia.org/wiki/Special:FilePath/Carmilla.jpg?width=300</value>
@@ -74,6 +79,11 @@
 <type>uri</type>
 <value>http://dbpedia.org/resource/Sheridan_Le_Fanu</value>
 </author>
+<name>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>In a Glass Darkly</value>
+</name>
 <thumbnail>
 <type>uri</type>
 <value>http://commons.wikimedia.org/wiki/Special:FilePath/Carmilla.jpg?width=300</value>
@@ -97,6 +107,11 @@
 <type>uri</type>
 <value>http://dbpedia.org/resource/Sheridan_Le_Fanu</value>
 </author>
+<name>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>The House by the Churchyard</value>
+</name>
 <thumbnail>
 <type>uri</type>
 <value>http://commons.wikimedia.org/wiki/Special:FilePath/The_House_by_the_Churchyard_1st_ed.png?width=300</value>
@@ -115,6 +130,11 @@
 <type>uri</type>
 <value>http://dbpedia.org/resource/Sheridan_Le_Fanu</value>
 </author>
+<name>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>Uncle Silas</value>
+</name>
 <thumbnail>
 <type>uri</type>
 <value>http://commons.wikimedia.org/wiki/Special:FilePath/Uncle_Silas_1864.jpg?width=300</value>
@@ -133,6 +153,11 @@
 <type>uri</type>
 <value>http://dbpedia.org/resource/Sheridan_Le_Fanu</value>
 </author>
+<name>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>The Purcell Papers</value>
+</name>
 <thumbnail>
 <type>uri</type>
 <value>http://commons.wikimedia.org/wiki/Special:FilePath/Purcell_Papers_1880.jpg?width=300</value>
@@ -151,6 +176,11 @@
 <type>uri</type>
 <value>http://dbpedia.org/resource/Sheridan_Le_Fanu</value>
 </author>
+<name>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>The Purcell Papers</value>
+</name>
 <released>
 <type>typed-literal</type>
 <datatype>http://www.w3.org/2001/XMLSchema#integer</datatype>
@@ -170,6 +200,11 @@
 <type>uri</type>
 <value>http://dbpedia.org/resource/Sheridan_Le_Fanu</value>
 </author>
+<name>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>Green Tea and Other Ghost Stories</value>
+</name>
 <released>
 <type>typed-literal</type>
 <datatype>http://www.w3.org/2001/XMLSchema#integer</datatype>

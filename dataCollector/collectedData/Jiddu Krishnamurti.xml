@@ -40,6 +40,11 @@
 <type>uri</type>
 <value>http://dbpedia.org/resource/Jiddu_Krishnamurti</value>
 </author>
+<name>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>At the Feet of the Master</value>
+</name>
 <thumbnail>
 <type>uri</type>
 <value>http://commons.wikimedia.org/wiki/Special:FilePath/At_the_feet_of_the_master_pg_2.jpg?width=300</value>
@@ -58,6 +63,11 @@
 <type>uri</type>
 <value>http://dbpedia.org/resource/Jiddu_Krishnamurti</value>
 </author>
+<name>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>Freedom from the Known</value>
+</name>
 <published>
 <type>typed-literal</type>
 <datatype>http://www.w3.org/2001/XMLSchema#integer</datatype>
@@ -77,6 +87,11 @@
 <type>uri</type>
 <value>http://dbpedia.org/resource/Jiddu_Krishnamurti</value>
 </author>
+<name>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>Krishnamurti to Himself</value>
+</name>
 <wikilink>
 <type>uri</type>
 <value>http://en.wikipedia.org/wiki/Krishnamurti_to_Himself?oldid=604416205</value>
@@ -91,6 +106,11 @@
 <type>uri</type>
 <value>http://dbpedia.org/resource/Jiddu_Krishnamurti</value>
 </author>
+<name>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>Krishnamurti&apos;s Journal</value>
+</name>
 <wikilink>
 <type>uri</type>
 <value>http://en.wikipedia.org/wiki/Krishnamurti&apos;s_Journal?oldid=603946763</value>
@@ -105,6 +125,11 @@
 <type>uri</type>
 <value>http://dbpedia.org/resource/Jiddu_Krishnamurti</value>
 </author>
+<name>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>Krishnamurti&apos;s Notebook</value>
+</name>
 <wikilink>
 <type>uri</type>
 <value>http://en.wikipedia.org/wiki/Krishnamurti&apos;s_Notebook?oldid=596252763</value>
@@ -119,6 +144,11 @@
 <type>uri</type>
 <value>http://dbpedia.org/resource/Jiddu_Krishnamurti</value>
 </author>
+<name>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>The First and Last Freedom</value>
+</name>
 <wikilink>
 <type>uri</type>
 <value>http://en.wikipedia.org/wiki/The_First_and_Last_Freedom?oldid=606476928</value>

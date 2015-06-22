@@ -86,6 +86,11 @@
 <type>uri</type>
 <value>http://dbpedia.org/resource/Immanuel_Kant</value>
 </author>
+<name>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>Critik&amp;thinsp; der reinen Vernunft</value>
+</name>
 <thumbnail>
 <type>uri</type>
 <value>http://commons.wikimedia.org/wiki/Special:FilePath/Kant-KdrV-1781.png?width=300</value>
@@ -114,6 +119,11 @@
 <type>uri</type>
 <value>http://dbpedia.org/resource/Immanuel_Kant</value>
 </author>
+<name>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>Critique of Practical Reason</value>
+</name>
 <thumbnail>
 <type>uri</type>
 <value>http://commons.wikimedia.org/wiki/Special:FilePath/0212_TP.jpg?width=300</value>
@@ -142,6 +152,11 @@
 <type>uri</type>
 <value>http://dbpedia.org/resource/Immanuel_Kant</value>
 </author>
+<name>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>Kritik der Urteilskraft</value>
+</name>
 <published>
 <type>typed-literal</type>
 <datatype>http://www.w3.org/2001/XMLSchema#integer</datatype>
@@ -166,6 +181,11 @@
 <type>uri</type>
 <value>http://dbpedia.org/resource/Immanuel_Kant</value>
 </author>
+<name>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>Die Metaphysik der Sitten</value>
+</name>
 <published>
 <type>typed-literal</type>
 <datatype>http://www.w3.org/2001/XMLSchema#integer</datatype>

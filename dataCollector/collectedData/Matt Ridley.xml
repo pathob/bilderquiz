@@ -29,6 +29,11 @@
 <type>uri</type>
 <value>http://dbpedia.org/resource/Matt_Ridley</value>
 </author>
+<name>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>Nature Via Nurture: Genes, Experience, and What Makes us Human</value>
+</name>
 <released>
 <type>typed-literal</type>
 <datatype>http://www.w3.org/2001/XMLSchema#integer</datatype>
@@ -48,6 +53,11 @@
 <type>uri</type>
 <value>http://dbpedia.org/resource/Matt_Ridley</value>
 </author>
+<name>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>The Red Queen: Sex and the Evolution of Human Nature</value>
+</name>
 <wikilink>
 <type>uri</type>
 <value>http://en.wikipedia.org/wiki/The_Red_Queen:_Sex_and_the_Evolution_of_Human_Nature?oldid=602962661</value>
@@ -62,6 +72,11 @@
 <type>uri</type>
 <value>http://dbpedia.org/resource/Matt_Ridley</value>
 </author>
+<name>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>The Origins of Virtue</value>
+</name>
 <wikilink>
 <type>uri</type>
 <value>http://en.wikipedia.org/wiki/The_Origins_of_Virtue?oldid=604762162</value>
@@ -76,6 +91,11 @@
 <type>uri</type>
 <value>http://dbpedia.org/resource/Matt_Ridley</value>
 </author>
+<name>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>Genome: The Autobiography of a Species in 23 Chapters</value>
+</name>
 <wikilink>
 <type>uri</type>
 <value>http://en.wikipedia.org/wiki/Genome_(book)?oldid=606334265</value>

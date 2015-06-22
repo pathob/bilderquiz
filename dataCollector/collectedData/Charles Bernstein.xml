@@ -29,6 +29,11 @@
 <type>uri</type>
 <value>http://dbpedia.org/resource/Charles_Bernstein</value>
 </author>
+<name>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>L=A=N=G=U=A=G=E</value>
+</name>
 <released>
 <type>literal</type>
 <xml:lang>en</xml:lang>

@@ -64,6 +64,11 @@
 <type>uri</type>
 <value>http://dbpedia.org/resource/Erich_Maria_Remarque</value>
 </author>
+<name>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>All Quiet on the Western Front</value>
+</name>
 <thumbnail>
 <type>uri</type>
 <value>http://commons.wikimedia.org/wiki/Special:FilePath/Remarque_Im_Westen_nichts_Neues_1929.jpg?width=300</value>
@@ -87,6 +92,11 @@
 <type>uri</type>
 <value>http://dbpedia.org/resource/Erich_Maria_Remarque</value>
 </author>
+<name>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>The Road Back</value>
+</name>
 <released>
 <type>literal</type>
 <xml:lang>en</xml:lang>
@@ -111,6 +121,11 @@
 <type>uri</type>
 <value>http://dbpedia.org/resource/Erich_Maria_Remarque</value>
 </author>
+<name>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>Arc de Triomphe</value>
+</name>
 <wikilink>
 <type>uri</type>
 <value>http://en.wikipedia.org/wiki/Arch_of_Triumph_(novel)?oldid=606616087</value>
@@ -130,6 +145,11 @@
 <type>uri</type>
 <value>http://dbpedia.org/resource/Erich_Maria_Remarque</value>
 </author>
+<name>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>Der Himmel kennt keine Günstlinge</value>
+</name>
 <wikilink>
 <type>uri</type>
 <value>http://en.wikipedia.org/wiki/Heaven_Has_No_Favorites?oldid=578919337</value>
@@ -149,6 +169,11 @@
 <type>uri</type>
 <value>http://dbpedia.org/resource/Erich_Maria_Remarque</value>
 </author>
+<name>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>Flotsam</value>
+</name>
 <wikilink>
 <type>uri</type>
 <value>http://en.wikipedia.org/wiki/Flotsam_(novel)?oldid=573176409</value>
@@ -168,6 +193,11 @@
 <type>uri</type>
 <value>http://dbpedia.org/resource/Erich_Maria_Remarque</value>
 </author>
+<name>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>Three Comrades</value>
+</name>
 <wikilink>
 <type>uri</type>
 <value>http://en.wikipedia.org/wiki/Three_Comrades_(novel)?oldid=603597290</value>
@@ -187,6 +217,11 @@
 <type>uri</type>
 <value>http://dbpedia.org/resource/Erich_Maria_Remarque</value>
 </author>
+<name>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>The Night in Lisbon</value>
+</name>
 <wikilink>
 <type>uri</type>
 <value>http://en.wikipedia.org/wiki/The_Night_in_Lisbon?oldid=544913785</value>
@@ -206,6 +241,11 @@
 <type>uri</type>
 <value>http://dbpedia.org/resource/Erich_Maria_Remarque</value>
 </author>
+<name>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>Station am Horizont</value>
+</name>
 <wikilink>
 <type>uri</type>
 <value>http://en.wikipedia.org/wiki/Station_at_the_Horizon?oldid=498359715</value>
@@ -220,6 +260,11 @@
 <type>uri</type>
 <value>http://dbpedia.org/resource/Erich_Maria_Remarque</value>
 </author>
+<name>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>Spark of Life</value>
+</name>
 <wikilink>
 <type>uri</type>
 <value>http://en.wikipedia.org/wiki/Spark_of_Life_(novel)?oldid=577908507</value>

@@ -37,6 +37,11 @@
 <type>uri</type>
 <value>http://dbpedia.org/resource/Doris_Lessing</value>
 </author>
+<name>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>Shikasta</value>
+</name>
 <thumbnail>
 <type>uri</type>
 <value>http://commons.wikimedia.org/wiki/Special:FilePath/Doris_lessing_20060312_(jha).jpg?width=300</value>
@@ -66,6 +71,11 @@
 <type>uri</type>
 <value>http://dbpedia.org/resource/Doris_Lessing</value>
 </author>
+<name>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>The Fifth Child</value>
+</name>
 <released>
 <type>typed-literal</type>
 <datatype>http://www.w3.org/2001/XMLSchema#integer</datatype>
@@ -90,6 +100,11 @@
 <type>uri</type>
 <value>http://dbpedia.org/resource/Doris_Lessing</value>
 </author>
+<name>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>The Cleft</value>
+</name>
 <released>
 <type>typed-literal</type>
 <datatype>http://www.w3.org/2001/XMLSchema#integer</datatype>
@@ -114,6 +129,11 @@
 <type>uri</type>
 <value>http://dbpedia.org/resource/Doris_Lessing</value>
 </author>
+<name>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>The Sweetest Dream</value>
+</name>
 <released>
 <type>typed-literal</type>
 <datatype>http://www.w3.org/2001/XMLSchema#integer</datatype>
@@ -133,6 +153,11 @@
 <type>uri</type>
 <value>http://dbpedia.org/resource/Doris_Lessing</value>
 </author>
+<name>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>Prisons We Choose to Live Inside</value>
+</name>
 <released>
 <type>typed-literal</type>
 <datatype>http://www.w3.org/2001/XMLSchema#integer</datatype>
@@ -152,6 +177,11 @@
 <type>uri</type>
 <value>http://dbpedia.org/resource/Doris_Lessing</value>
 </author>
+<name>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>The Four-Gated City</value>
+</name>
 <released>
 <type>typed-literal</type>
 <datatype>http://www.w3.org/2001/XMLSchema#integer</datatype>
@@ -171,6 +201,11 @@
 <type>uri</type>
 <value>http://dbpedia.org/resource/Doris_Lessing</value>
 </author>
+<name>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>Alfred and Emily</value>
+</name>
 <released>
 <type>typed-literal</type>
 <datatype>http://www.w3.org/2001/XMLSchema#integer</datatype>
@@ -190,6 +225,11 @@
 <type>uri</type>
 <value>http://dbpedia.org/resource/Doris_Lessing</value>
 </author>
+<name>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>The Good Terrorist</value>
+</name>
 <released>
 <type>typed-literal</type>
 <datatype>http://www.w3.org/2001/XMLSchema#integer</datatype>
@@ -209,6 +249,11 @@
 <type>uri</type>
 <value>http://dbpedia.org/resource/Doris_Lessing</value>
 </author>
+<name>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>The Grass Is Singing</value>
+</name>
 <released>
 <type>typed-literal</type>
 <datatype>http://www.w3.org/2001/XMLSchema#integer</datatype>
@@ -228,6 +273,11 @@
 <type>uri</type>
 <value>http://dbpedia.org/resource/Doris_Lessing</value>
 </author>
+<name>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>Martha Quest</value>
+</name>
 <released>
 <type>typed-literal</type>
 <datatype>http://www.w3.org/2001/XMLSchema#integer</datatype>
@@ -247,6 +297,11 @@
 <type>uri</type>
 <value>http://dbpedia.org/resource/Doris_Lessing</value>
 </author>
+<name>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>The Golden Notebook</value>
+</name>
 <released>
 <type>typed-literal</type>
 <datatype>http://www.w3.org/2001/XMLSchema#integer</datatype>
@@ -266,6 +321,11 @@
 <type>uri</type>
 <value>http://dbpedia.org/resource/Doris_Lessing</value>
 </author>
+<name>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>The Grandmothers: Four Short Novels</value>
+</name>
 <released>
 <type>typed-literal</type>
 <datatype>http://www.w3.org/2001/XMLSchema#integer</datatype>
@@ -285,6 +345,11 @@
 <type>uri</type>
 <value>http://dbpedia.org/resource/Doris_Lessing</value>
 </author>
+<name>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>The Sirian Experiments</value>
+</name>
 <published>
 <type>literal</type>
 <xml:lang>en</xml:lang>
@@ -305,6 +370,11 @@
 <type>uri</type>
 <value>http://dbpedia.org/resource/Doris_Lessing</value>
 </author>
+<name>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>The Making of the Representative for Planet 8</value>
+</name>
 <published>
 <type>literal</type>
 <xml:lang>en</xml:lang>
@@ -325,6 +395,11 @@
 <type>uri</type>
 <value>http://dbpedia.org/resource/Doris_Lessing</value>
 </author>
+<name>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>The Marriages Between Zones Three, Four and Five</value>
+</name>
 <published>
 <type>literal</type>
 <xml:lang>en</xml:lang>
@@ -345,6 +420,11 @@
 <type>uri</type>
 <value>http://dbpedia.org/resource/Doris_Lessing</value>
 </author>
+<name>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>The Sentimental Agents in the Volyen Empire</value>
+</name>
 <published>
 <type>literal</type>
 <xml:lang>en</xml:lang>
@@ -365,6 +445,11 @@
 <type>uri</type>
 <value>http://dbpedia.org/resource/Doris_Lessing</value>
 </author>
+<name>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>The Memoirs of a Survivor</value>
+</name>
 <wikilink>
 <type>uri</type>
 <value>http://en.wikipedia.org/wiki/Memoirs_of_a_Survivor?oldid=556703522</value>

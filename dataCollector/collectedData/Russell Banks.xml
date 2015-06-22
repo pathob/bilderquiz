@@ -28,6 +28,11 @@
 <type>uri</type>
 <value>http://dbpedia.org/resource/Russell_Banks</value>
 </author>
+<name>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>Cloudsplitter</value>
+</name>
 <released>
 <type>literal</type>
 <xml:lang>en</xml:lang>

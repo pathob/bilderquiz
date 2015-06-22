@@ -45,6 +45,11 @@
 <type>uri</type>
 <value>http://dbpedia.org/resource/Louisa_May_Alcott</value>
 </author>
+<name>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>Work: A Story of Experience</value>
+</name>
 <thumbnail>
 <type>uri</type>
 <value>http://commons.wikimedia.org/wiki/Special:FilePath/Work_1st_ed_title_pg.jpg?width=300</value>
@@ -68,6 +73,11 @@
 <type>uri</type>
 <value>http://dbpedia.org/resource/Louisa_May_Alcott</value>
 </author>
+<name>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>Little Men</value>
+</name>
 <thumbnail>
 <type>uri</type>
 <value>http://commons.wikimedia.org/wiki/Special:FilePath/Little_Men_1st_ed.jpg?width=300</value>
@@ -91,6 +101,11 @@
 <type>uri</type>
 <value>http://dbpedia.org/resource/Louisa_May_Alcott</value>
 </author>
+<name>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>An Old-Fashioned Girl</value>
+</name>
 <thumbnail>
 <type>uri</type>
 <value>http://commons.wikimedia.org/wiki/Special:FilePath/1870_Polly_OldFashionedGirl_byLMAlcott_RobertsBros.png?width=300</value>
@@ -109,6 +124,11 @@
 <type>uri</type>
 <value>http://dbpedia.org/resource/Louisa_May_Alcott</value>
 </author>
+<name>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>Under the Lilacs</value>
+</name>
 <thumbnail>
 <type>uri</type>
 <value>http://commons.wikimedia.org/wiki/Special:FilePath/Under_the_Lilacs_Illus.jpg?width=300</value>
@@ -127,6 +147,11 @@
 <type>uri</type>
 <value>http://dbpedia.org/resource/Louisa_May_Alcott</value>
 </author>
+<name>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>Jack and Jill: A Village Story</value>
+</name>
 <thumbnail>
 <type>uri</type>
 <value>http://commons.wikimedia.org/wiki/Special:FilePath/Jack_and_Jill_A_Village_Story.jpg?width=300</value>
@@ -145,6 +170,11 @@
 <type>uri</type>
 <value>http://dbpedia.org/resource/Louisa_May_Alcott</value>
 </author>
+<name>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>Little Women</value>
+</name>
 <released>
 <type>typed-literal</type>
 <datatype>http://www.w3.org/2001/XMLSchema#integer</datatype>
@@ -169,6 +199,11 @@
 <type>uri</type>
 <value>http://dbpedia.org/resource/Louisa_May_Alcott</value>
 </author>
+<name>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>A Long Fatal Love Chase</value>
+</name>
 <released>
 <type>typed-literal</type>
 <datatype>http://www.w3.org/2001/XMLSchema#integer</datatype>
@@ -188,6 +223,11 @@
 <type>uri</type>
 <value>http://dbpedia.org/resource/Louisa_May_Alcott</value>
 </author>
+<name>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>Jo&apos;s Boys</value>
+</name>
 <released>
 <type>typed-literal</type>
 <datatype>http://www.w3.org/2001/XMLSchema#integer</datatype>

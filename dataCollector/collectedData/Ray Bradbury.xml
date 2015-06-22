@@ -39,6 +39,11 @@
 <type>uri</type>
 <value>http://dbpedia.org/resource/Ray_Bradbury</value>
 </author>
+<name>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>The Martian Chronicles</value>
+</name>
 <released>
 <type>typed-literal</type>
 <datatype>http://www.w3.org/2001/XMLSchema#integer</datatype>
@@ -63,6 +68,11 @@
 <type>uri</type>
 <value>http://dbpedia.org/resource/Ray_Bradbury</value>
 </author>
+<name>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>Dandelion Wine</value>
+</name>
 <released>
 <type>typed-literal</type>
 <datatype>http://www.w3.org/2001/XMLSchema#integer</datatype>
@@ -87,6 +97,11 @@
 <type>uri</type>
 <value>http://dbpedia.org/resource/Ray_Bradbury</value>
 </author>
+<name>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>Something Wicked This Way Comes</value>
+</name>
 <released>
 <type>typed-literal</type>
 <datatype>http://www.w3.org/2001/XMLSchema#integer</datatype>
@@ -111,6 +126,11 @@
 <type>uri</type>
 <value>http://dbpedia.org/resource/Ray_Bradbury</value>
 </author>
+<name>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>A Medicine for Melancholy</value>
+</name>
 <released>
 <type>typed-literal</type>
 <datatype>http://www.w3.org/2001/XMLSchema#integer</datatype>
@@ -135,6 +155,11 @@
 <type>uri</type>
 <value>http://dbpedia.org/resource/Ray_Bradbury</value>
 </author>
+<name>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>The Golden Apples of the Sun</value>
+</name>
 <released>
 <type>typed-literal</type>
 <datatype>http://www.w3.org/2001/XMLSchema#integer</datatype>
@@ -159,6 +184,11 @@
 <type>uri</type>
 <value>http://dbpedia.org/resource/Ray_Bradbury</value>
 </author>
+<name>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>Death Is a Lonely Business</value>
+</name>
 <released>
 <type>literal</type>
 <xml:lang>en</xml:lang>
@@ -178,6 +208,11 @@
 <type>uri</type>
 <value>http://dbpedia.org/resource/Ray_Bradbury</value>
 </author>
+<name>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>Let&apos;s All Kill Constance</value>
+</name>
 <released>
 <type>literal</type>
 <xml:lang>en</xml:lang>
@@ -197,6 +232,11 @@
 <type>uri</type>
 <value>http://dbpedia.org/resource/Ray_Bradbury</value>
 </author>
+<name>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>The Halloween Tree</value>
+</name>
 <released>
 <type>typed-literal</type>
 <datatype>http://www.w3.org/2001/XMLSchema#integer</datatype>
@@ -216,6 +256,11 @@
 <type>uri</type>
 <value>http://dbpedia.org/resource/Ray_Bradbury</value>
 </author>
+<name>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>The Vintage Bradbury</value>
+</name>
 <released>
 <type>typed-literal</type>
 <datatype>http://www.w3.org/2001/XMLSchema#integer</datatype>
@@ -235,6 +280,11 @@
 <type>uri</type>
 <value>http://dbpedia.org/resource/Ray_Bradbury</value>
 </author>
+<name>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>Farewell Summer</value>
+</name>
 <released>
 <type>typed-literal</type>
 <datatype>http://www.w3.org/2001/XMLSchema#date</datatype>
@@ -254,6 +304,11 @@
 <type>uri</type>
 <value>http://dbpedia.org/resource/Ray_Bradbury</value>
 </author>
+<name>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>Classic Stories 2</value>
+</name>
 <released>
 <type>typed-literal</type>
 <datatype>http://www.w3.org/2001/XMLSchema#integer</datatype>
@@ -273,6 +328,11 @@
 <type>uri</type>
 <value>http://dbpedia.org/resource/Ray_Bradbury</value>
 </author>
+<name>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>Dinosaur Tales</value>
+</name>
 <released>
 <type>typed-literal</type>
 <datatype>http://www.w3.org/2001/XMLSchema#integer</datatype>
@@ -292,6 +352,11 @@
 <type>uri</type>
 <value>http://dbpedia.org/resource/Ray_Bradbury</value>
 </author>
+<name>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>Driving Blind</value>
+</name>
 <released>
 <type>typed-literal</type>
 <datatype>http://www.w3.org/2001/XMLSchema#integer</datatype>
@@ -311,6 +376,11 @@
 <type>uri</type>
 <value>http://dbpedia.org/resource/Ray_Bradbury</value>
 </author>
+<name>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>From the Dust Returned</value>
+</name>
 <released>
 <type>typed-literal</type>
 <datatype>http://www.w3.org/2001/XMLSchema#integer</datatype>
@@ -330,6 +400,11 @@
 <type>uri</type>
 <value>http://dbpedia.org/resource/Ray_Bradbury</value>
 </author>
+<name>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>Selected from Dark They Were, and Golden-Eyed</value>
+</name>
 <released>
 <type>typed-literal</type>
 <datatype>http://www.w3.org/2001/XMLSchema#integer</datatype>
@@ -349,6 +424,11 @@
 <type>uri</type>
 <value>http://dbpedia.org/resource/Ray_Bradbury</value>
 </author>
+<name>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>The Circus of Dr. Lao and Other Improbable Stories</value>
+</name>
 <released>
 <type>typed-literal</type>
 <datatype>http://www.w3.org/2001/XMLSchema#integer</datatype>
@@ -368,6 +448,11 @@
 <type>uri</type>
 <value>http://dbpedia.org/resource/Ray_Bradbury</value>
 </author>
+<name>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>The Fog Horn &amp; Other Stories</value>
+</name>
 <released>
 <type>typed-literal</type>
 <datatype>http://www.w3.org/2001/XMLSchema#integer</datatype>
@@ -387,6 +472,11 @@
 <type>uri</type>
 <value>http://dbpedia.org/resource/Ray_Bradbury</value>
 </author>
+<name>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>The Last Circus &amp; the Electrocution</value>
+</name>
 <released>
 <type>typed-literal</type>
 <datatype>http://www.w3.org/2001/XMLSchema#integer</datatype>
@@ -406,6 +496,11 @@
 <type>uri</type>
 <value>http://dbpedia.org/resource/Ray_Bradbury</value>
 </author>
+<name>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>The Toynbee Convector</value>
+</name>
 <released>
 <type>typed-literal</type>
 <datatype>http://www.w3.org/2001/XMLSchema#integer</datatype>
@@ -425,6 +520,11 @@
 <type>uri</type>
 <value>http://dbpedia.org/resource/Ray_Bradbury</value>
 </author>
+<name>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>Timeless Stories for Today and Tomorrow</value>
+</name>
 <released>
 <type>typed-literal</type>
 <datatype>http://www.w3.org/2001/XMLSchema#integer</datatype>
@@ -444,6 +544,11 @@
 <type>uri</type>
 <value>http://dbpedia.org/resource/Ray_Bradbury</value>
 </author>
+<name>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>Twice 22</value>
+</name>
 <released>
 <type>typed-literal</type>
 <datatype>http://www.w3.org/2001/XMLSchema#integer</datatype>
@@ -463,6 +568,11 @@
 <type>uri</type>
 <value>http://dbpedia.org/resource/Ray_Bradbury</value>
 </author>
+<name>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>A Memory of Murder</value>
+</name>
 <released>
 <type>typed-literal</type>
 <datatype>http://www.w3.org/2001/XMLSchema#integer</datatype>
@@ -482,6 +592,11 @@
 <type>uri</type>
 <value>http://dbpedia.org/resource/Ray_Bradbury</value>
 </author>
+<name>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>The Mummies of Guanajuato</value>
+</name>
 <released>
 <type>typed-literal</type>
 <datatype>http://www.w3.org/2001/XMLSchema#integer</datatype>
@@ -501,6 +616,11 @@
 <type>uri</type>
 <value>http://dbpedia.org/resource/Ray_Bradbury</value>
 </author>
+<name>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>Classic Stories 1</value>
+</name>
 <released>
 <type>typed-literal</type>
 <datatype>http://www.w3.org/2001/XMLSchema#integer</datatype>
@@ -520,6 +640,11 @@
 <type>uri</type>
 <value>http://dbpedia.org/resource/Ray_Bradbury</value>
 </author>
+<name>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>The Parrot Who Met Papa</value>
+</name>
 <released>
 <type>typed-literal</type>
 <datatype>http://www.w3.org/2001/XMLSchema#integer</datatype>
@@ -539,6 +664,11 @@
 <type>uri</type>
 <value>http://dbpedia.org/resource/Ray_Bradbury</value>
 </author>
+<name>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>The Cat&apos;s Pajamas</value>
+</name>
 <released>
 <type>literal</type>
 <xml:lang>en</xml:lang>
@@ -558,6 +688,11 @@
 <type>uri</type>
 <value>http://dbpedia.org/resource/Ray_Bradbury</value>
 </author>
+<name>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>Dark Carnival</value>
+</name>
 <released>
 <type>typed-literal</type>
 <datatype>http://www.w3.org/2001/XMLSchema#integer</datatype>
@@ -577,6 +712,11 @@
 <type>uri</type>
 <value>http://dbpedia.org/resource/Ray_Bradbury</value>
 </author>
+<name>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>S is for Space</value>
+</name>
 <released>
 <type>typed-literal</type>
 <datatype>http://www.w3.org/2001/XMLSchema#integer</datatype>
@@ -596,6 +736,11 @@
 <type>uri</type>
 <value>http://dbpedia.org/resource/Ray_Bradbury</value>
 </author>
+<name>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>The Fog Horn and Other Stories</value>
+</name>
 <released>
 <type>typed-literal</type>
 <datatype>http://www.w3.org/2001/XMLSchema#integer</datatype>
@@ -615,6 +760,11 @@
 <type>uri</type>
 <value>http://dbpedia.org/resource/Ray_Bradbury</value>
 </author>
+<name>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>Green Shadows, White Whale</value>
+</name>
 <released>
 <type>typed-literal</type>
 <datatype>http://www.w3.org/2001/XMLSchema#integer</datatype>
@@ -634,6 +784,11 @@
 <type>uri</type>
 <value>http://dbpedia.org/resource/Ray_Bradbury</value>
 </author>
+<name>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>Ray Bradbury</value>
+</name>
 <released>
 <type>typed-literal</type>
 <datatype>http://www.w3.org/2001/XMLSchema#integer</datatype>
@@ -653,6 +808,11 @@
 <type>uri</type>
 <value>http://dbpedia.org/resource/Ray_Bradbury</value>
 </author>
+<name>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>One More for the Road</value>
+</name>
 <released>
 <type>literal</type>
 <xml:lang>en</xml:lang>
@@ -672,6 +832,11 @@
 <type>uri</type>
 <value>http://dbpedia.org/resource/Ray_Bradbury</value>
 </author>
+<name>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>The October Country</value>
+</name>
 <released>
 <type>typed-literal</type>
 <datatype>http://www.w3.org/2001/XMLSchema#integer</datatype>
@@ -691,6 +856,11 @@
 <type>uri</type>
 <value>http://dbpedia.org/resource/Ray_Bradbury</value>
 </author>
+<name>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>R is for Rocket</value>
+</name>
 <released>
 <type>typed-literal</type>
 <datatype>http://www.w3.org/2001/XMLSchema#integer</datatype>
@@ -710,6 +880,11 @@
 <type>uri</type>
 <value>http://dbpedia.org/resource/Ray_Bradbury</value>
 </author>
+<name>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>I Sing the Body Electric!</value>
+</name>
 <released>
 <type>typed-literal</type>
 <datatype>http://www.w3.org/2001/XMLSchema#integer</datatype>
@@ -729,6 +904,11 @@
 <type>uri</type>
 <value>http://dbpedia.org/resource/Ray_Bradbury</value>
 </author>
+<name>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>Long After Midnight</value>
+</name>
 <released>
 <type>typed-literal</type>
 <datatype>http://www.w3.org/2001/XMLSchema#integer</datatype>
@@ -748,6 +928,11 @@
 <type>uri</type>
 <value>http://dbpedia.org/resource/Ray_Bradbury</value>
 </author>
+<name>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>The Small Assassin</value>
+</name>
 <released>
 <type>typed-literal</type>
 <datatype>http://www.w3.org/2001/XMLSchema#integer</datatype>
@@ -767,6 +952,11 @@
 <type>uri</type>
 <value>http://dbpedia.org/resource/Ray_Bradbury</value>
 </author>
+<name>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>The Machineries of Joy</value>
+</name>
 <released>
 <type>typed-literal</type>
 <datatype>http://www.w3.org/2001/XMLSchema#integer</datatype>
@@ -786,6 +976,11 @@
 <type>uri</type>
 <value>http://dbpedia.org/resource/Ray_Bradbury</value>
 </author>
+<name>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>Bradbury Stories</value>
+</name>
 <released>
 <type>literal</type>
 <xml:lang>en</xml:lang>
@@ -805,6 +1000,11 @@
 <type>uri</type>
 <value>http://dbpedia.org/resource/Ray_Bradbury</value>
 </author>
+<name>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>Ray Bradbury Collected Short Stories</value>
+</name>
 <released>
 <type>typed-literal</type>
 <datatype>http://www.w3.org/2001/XMLSchema#integer</datatype>
@@ -824,6 +1024,11 @@
 <type>uri</type>
 <value>http://dbpedia.org/resource/Ray_Bradbury</value>
 </author>
+<name>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>The Stories of Ray Bradbury</value>
+</name>
 <released>
 <type>typed-literal</type>
 <datatype>http://www.w3.org/2001/XMLSchema#integer</datatype>
@@ -843,6 +1048,11 @@
 <type>uri</type>
 <value>http://dbpedia.org/resource/Ray_Bradbury</value>
 </author>
+<name>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>The Dragon</value>
+</name>
 <released>
 <type>typed-literal</type>
 <datatype>http://www.w3.org/2001/XMLSchema#integer</datatype>
@@ -862,6 +1072,11 @@
 <type>uri</type>
 <value>http://dbpedia.org/resource/Ray_Bradbury</value>
 </author>
+<name>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>Quicker Than the Eye</value>
+</name>
 <released>
 <type>typed-literal</type>
 <datatype>http://www.w3.org/2001/XMLSchema#integer</datatype>
@@ -881,6 +1096,11 @@
 <type>uri</type>
 <value>http://dbpedia.org/resource/Ray_Bradbury</value>
 </author>
+<name>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>Is That You, Herb?</value>
+</name>
 <released>
 <type>typed-literal</type>
 <datatype>http://www.w3.org/2001/XMLSchema#integer</datatype>
@@ -900,6 +1120,11 @@
 <type>uri</type>
 <value>http://dbpedia.org/resource/Ray_Bradbury</value>
 </author>
+<name>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>Fahrenheit 451</value>
+</name>
 <published>
 <type>typed-literal</type>
 <datatype>http://www.w3.org/2001/XMLSchema#integer</datatype>
@@ -924,6 +1149,11 @@
 <type>uri</type>
 <value>http://dbpedia.org/resource/Ray_Bradbury</value>
 </author>
+<name>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>A Graveyard for Lunatics : Another tale of two cities.</value>
+</name>
 <published>
 <type>typed-literal</type>
 <datatype>http://www.w3.org/2001/XMLSchema#integer</datatype>
@@ -943,6 +1173,11 @@
 <type>uri</type>
 <value>http://dbpedia.org/resource/Ray_Bradbury</value>
 </author>
+<name>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>The Dragon Who Ate His Tail</value>
+</name>
 <published>
 <type>literal</type>
 <xml:lang>en</xml:lang>
@@ -962,6 +1197,11 @@
 <type>uri</type>
 <value>http://dbpedia.org/resource/Ray_Bradbury</value>
 </author>
+<name>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>A Pleasure to Burn</value>
+</name>
 <published>
 <type>literal</type>
 <xml:lang>en</xml:lang>

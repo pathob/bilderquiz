@@ -35,6 +35,11 @@
 <type>uri</type>
 <value>http://dbpedia.org/resource/Beatrix_Potter</value>
 </author>
+<name>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>The Tale of Mr. Jeremy Fisher</value>
+</name>
 <thumbnail>
 <type>uri</type>
 <value>http://en.wikipedia.org/wiki/Special:FilePath/Beatrix_Potter_Jeremy_Fisher_Cover2.jpg?width=300</value>
@@ -58,6 +63,11 @@
 <type>uri</type>
 <value>http://dbpedia.org/resource/Beatrix_Potter</value>
 </author>
+<name>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>The Tale of the Flopsy Bunnies</value>
+</name>
 <thumbnail>
 <type>uri</type>
 <value>http://en.wikipedia.org/wiki/Special:FilePath/The_Tale_of_the_Flopsy_Bunnies_cover.jpg?width=300</value>
@@ -81,6 +91,11 @@
 <type>uri</type>
 <value>http://dbpedia.org/resource/Beatrix_Potter</value>
 </author>
+<name>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>The Tale of Johnny Town-Mouse</value>
+</name>
 <thumbnail>
 <type>uri</type>
 <value>http://en.wikipedia.org/wiki/Special:FilePath/The_Tale_of_Johnny_Town-Mouse_first_edition_cover.jpg?width=300</value>
@@ -104,6 +119,11 @@
 <type>uri</type>
 <value>http://dbpedia.org/resource/Beatrix_Potter</value>
 </author>
+<name>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>The Tale of Squirrel Nutkin</value>
+</name>
 <thumbnail>
 <type>uri</type>
 <value>http://en.wikipedia.org/wiki/Special:FilePath/The_Tale_of_Squirrel_Nutkin_cover.jpg?width=300</value>
@@ -127,6 +147,11 @@
 <type>uri</type>
 <value>http://dbpedia.org/resource/Beatrix_Potter</value>
 </author>
+<name>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>The Tale of Pigling Bland</value>
+</name>
 <thumbnail>
 <type>uri</type>
 <value>http://en.wikipedia.org/wiki/Special:FilePath/Pigling_Bland_Cover.jpg?width=300</value>
@@ -150,6 +175,11 @@
 <type>uri</type>
 <value>http://dbpedia.org/resource/Beatrix_Potter</value>
 </author>
+<name>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>The Tailor of Gloucester</value>
+</name>
 <thumbnail>
 <type>uri</type>
 <value>http://en.wikipedia.org/wiki/Special:FilePath/The_Tailor_of_Gloucester_first_edition_cover.jpg?width=300</value>
@@ -173,6 +203,11 @@
 <type>uri</type>
 <value>http://dbpedia.org/resource/Beatrix_Potter</value>
 </author>
+<name>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>The Tale of Mrs. Tittlemouse</value>
+</name>
 <thumbnail>
 <type>uri</type>
 <value>http://en.wikipedia.org/wiki/Special:FilePath/The_Tale_of_Mrs_Tittlemouse_first_edition_cover.jpg?width=300</value>
@@ -196,6 +231,11 @@
 <type>uri</type>
 <value>http://dbpedia.org/resource/Beatrix_Potter</value>
 </author>
+<name>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>The Tale of Tom Kitten</value>
+</name>
 <thumbnail>
 <type>uri</type>
 <value>http://en.wikipedia.org/wiki/Special:FilePath/The_Tale_of_Tom_Kitten_cover.jpg?width=300</value>
@@ -219,6 +259,11 @@
 <type>uri</type>
 <value>http://dbpedia.org/resource/Beatrix_Potter</value>
 </author>
+<name>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>The Tale of Peter Rabbit</value>
+</name>
 <thumbnail>
 <type>uri</type>
 <value>http://en.wikipedia.org/wiki/Special:FilePath/Peter_Rabbit_first_edition_1902a.jpg?width=300</value>
@@ -242,6 +287,11 @@
 <type>uri</type>
 <value>http://dbpedia.org/resource/Beatrix_Potter</value>
 </author>
+<name>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>Nursery Rhymes</value>
+</name>
 <thumbnail>
 <type>uri</type>
 <value>http://en.wikipedia.org/wiki/Special:FilePath/Appley_Dapplys_Nursery_Rhymes_cover.jpg?width=300</value>
@@ -265,6 +315,11 @@
 <type>uri</type>
 <value>http://dbpedia.org/resource/Beatrix_Potter</value>
 </author>
+<name>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>Jemima Puddle-Duck</value>
+</name>
 <thumbnail>
 <type>uri</type>
 <value>http://en.wikipedia.org/wiki/Special:FilePath/The_Tale_of_Jemima_Puddle-Duck_cover.jpg?width=300</value>
@@ -288,6 +343,11 @@
 <type>uri</type>
 <value>http://dbpedia.org/resource/Beatrix_Potter</value>
 </author>
+<name>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>The Tale of Mrs. Tiggy-Winkle</value>
+</name>
 <thumbnail>
 <type>uri</type>
 <value>http://en.wikipedia.org/wiki/Special:FilePath/The_Tale_of_Mrs_Tiggy-Winkle_first_edition_cover.jpg?width=300</value>
@@ -311,6 +371,11 @@
 <type>uri</type>
 <value>http://dbpedia.org/resource/Beatrix_Potter</value>
 </author>
+<name>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>A Fierce Bad Rabbit</value>
+</name>
 <thumbnail>
 <type>uri</type>
 <value>http://en.wikipedia.org/wiki/Special:FilePath/The_Story_of_a_Fierce_Bad_Rabbit_cover.jpg?width=300</value>
@@ -334,6 +399,11 @@
 <type>uri</type>
 <value>http://dbpedia.org/resource/Beatrix_Potter</value>
 </author>
+<name>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>The Tale of Two Bad Mice</value>
+</name>
 <thumbnail>
 <type>uri</type>
 <value>http://en.wikipedia.org/wiki/Special:FilePath/The_Tale_of_Two_Bad_Mice_cover.jpg?width=300</value>
@@ -357,6 +427,11 @@
 <type>uri</type>
 <value>http://dbpedia.org/resource/Beatrix_Potter</value>
 </author>
+<name>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>The Tale of Samuel Whiskers or The Roly-Poly Pudding</value>
+</name>
 <thumbnail>
 <type>uri</type>
 <value>http://en.wikipedia.org/wiki/Special:FilePath/The_Roly-Poly_Pudding_first_edition_cover.jpg?width=300</value>
@@ -380,6 +455,11 @@
 <type>uri</type>
 <value>http://dbpedia.org/resource/Beatrix_Potter</value>
 </author>
+<name>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>The Tale of Timmy Tiptoes</value>
+</name>
 <thumbnail>
 <type>uri</type>
 <value>http://en.wikipedia.org/wiki/Special:FilePath/TaleOfTimmyTiptoes.jpg?width=300</value>
@@ -403,6 +483,11 @@
 <type>uri</type>
 <value>http://dbpedia.org/resource/Beatrix_Potter</value>
 </author>
+<name>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>The Tale of Mr. Tod</value>
+</name>
 <thumbnail>
 <type>uri</type>
 <value>http://en.wikipedia.org/wiki/Special:FilePath/The_Tale_of_Mr_Tod_cover.jpg?width=300</value>
@@ -426,6 +511,11 @@
 <type>uri</type>
 <value>http://dbpedia.org/resource/Beatrix_Potter</value>
 </author>
+<name>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>the Patty-Pan</value>
+</name>
 <thumbnail>
 <type>uri</type>
 <value>http://en.wikipedia.org/wiki/Special:FilePath/The_Tale_of_the_Pie_and_the_Patty-Pan_cover.jpg?width=300</value>
@@ -449,6 +539,11 @@
 <type>uri</type>
 <value>http://dbpedia.org/resource/Beatrix_Potter</value>
 </author>
+<name>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>The Tale of Ginger and Pickles</value>
+</name>
 <thumbnail>
 <type>uri</type>
 <value>http://en.wikipedia.org/wiki/Special:FilePath/The_Tale_of_Ginger_and_Pickles_first_edition_cover.jpg?width=300</value>
@@ -472,6 +567,11 @@
 <type>uri</type>
 <value>http://dbpedia.org/resource/Beatrix_Potter</value>
 </author>
+<name>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>Cecily Parsley&apos;s Nursery Rhymes</value>
+</name>
 <thumbnail>
 <type>uri</type>
 <value>http://en.wikipedia.org/wiki/Special:FilePath/Cecily_Parsleys_Nursery_Rhymes_cover.jpg?width=300</value>
@@ -495,6 +595,11 @@
 <type>uri</type>
 <value>http://dbpedia.org/resource/Beatrix_Potter</value>
 </author>
+<name>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>The Story of Miss Moppet</value>
+</name>
 <thumbnail>
 <type>uri</type>
 <value>http://en.wikipedia.org/wiki/Special:FilePath/The_Story_of_Miss_Moppet_cover.jpg?width=300</value>
@@ -518,6 +623,11 @@
 <type>uri</type>
 <value>http://dbpedia.org/resource/Beatrix_Potter</value>
 </author>
+<name>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>The Tale of Little Pig Robinson</value>
+</name>
 <released>
 <type>literal</type>
 <xml:lang>en</xml:lang>
@@ -537,6 +647,11 @@
 <type>uri</type>
 <value>http://dbpedia.org/resource/Beatrix_Potter</value>
 </author>
+<name>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>The Sly Old Cat</value>
+</name>
 <wikilink>
 <type>uri</type>
 <value>http://en.wikipedia.org/wiki/The_Sly_Old_Cat?oldid=600166243</value>
@@ -551,6 +666,11 @@
 <type>uri</type>
 <value>http://dbpedia.org/resource/Beatrix_Potter</value>
 </author>
+<name>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>The Fairy Caravan</value>
+</name>
 <wikilink>
 <type>uri</type>
 <value>http://en.wikipedia.org/wiki/The_Fairy_Caravan?oldid=544744907</value>

@@ -34,6 +34,11 @@
 <type>uri</type>
 <value>http://dbpedia.org/resource/Anthony_Trollope</value>
 </author>
+<name>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>The Vicar of Bullhampton</value>
+</name>
 <thumbnail>
 <type>uri</type>
 <value>http://commons.wikimedia.org/wiki/Special:FilePath/Carry_Brattle_by_Henry_Woods.jpg?width=300</value>
@@ -57,6 +62,11 @@
 <type>uri</type>
 <value>http://dbpedia.org/resource/Anthony_Trollope</value>
 </author>
+<name>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>Doctor Thorne</value>
+</name>
 <thumbnail>
 <type>uri</type>
 <value>http://commons.wikimedia.org/wiki/Special:FilePath/Dr_Thorne.jpg?width=300</value>
@@ -80,6 +90,11 @@
 <type>uri</type>
 <value>http://dbpedia.org/resource/Anthony_Trollope</value>
 </author>
+<name>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>Rachel Ray</value>
+</name>
 <thumbnail>
 <type>uri</type>
 <value>http://commons.wikimedia.org/wiki/Special:FilePath/Rachel_Ray_1863_title_page.jpg?width=300</value>
@@ -103,6 +118,11 @@
 <type>uri</type>
 <value>http://dbpedia.org/resource/Anthony_Trollope</value>
 </author>
+<name>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>Castle Richmond</value>
+</name>
 <thumbnail>
 <type>uri</type>
 <value>http://commons.wikimedia.org/wiki/Special:FilePath/Castle_Richmond.jpg?width=300</value>
@@ -126,6 +146,11 @@
 <type>uri</type>
 <value>http://dbpedia.org/resource/Anthony_Trollope</value>
 </author>
+<name>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>Barchester Towers</value>
+</name>
 <thumbnail>
 <type>uri</type>
 <value>http://commons.wikimedia.org/wiki/Special:FilePath/Mrs_Proudie_and_the_Archdeacon.jpg?width=300</value>
@@ -149,6 +174,11 @@
 <type>uri</type>
 <value>http://dbpedia.org/resource/Anthony_Trollope</value>
 </author>
+<name>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>The Warden</value>
+</name>
 <thumbnail>
 <type>uri</type>
 <value>http://commons.wikimedia.org/wiki/Special:FilePath/The_Warden.jpg?width=300</value>
@@ -172,6 +202,11 @@
 <type>uri</type>
 <value>http://dbpedia.org/resource/Anthony_Trollope</value>
 </author>
+<name>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>Sir Harry Hotspur of Humblethwaite</value>
+</name>
 <thumbnail>
 <type>uri</type>
 <value>http://commons.wikimedia.org/wiki/Special:FilePath/Emily_and_George_Hotspur.jpg?width=300</value>
@@ -195,6 +230,11 @@
 <type>uri</type>
 <value>http://dbpedia.org/resource/Anthony_Trollope</value>
 </author>
+<name>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>Framley Parsonage</value>
+</name>
 <thumbnail>
 <type>uri</type>
 <value>http://commons.wikimedia.org/wiki/Special:FilePath/Framley_Parsonage_serialized.jpg?width=300</value>
@@ -218,6 +258,11 @@
 <type>uri</type>
 <value>http://dbpedia.org/resource/Anthony_Trollope</value>
 </author>
+<name>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>The Small House at Allington</value>
+</name>
 <thumbnail>
 <type>uri</type>
 <value>http://commons.wikimedia.org/wiki/Special:FilePath/Allington.jpg?width=300</value>
@@ -241,6 +286,11 @@
 <type>uri</type>
 <value>http://dbpedia.org/resource/Anthony_Trollope</value>
 </author>
+<name>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>Cousin Henry</value>
+</name>
 <thumbnail>
 <type>uri</type>
 <value>http://commons.wikimedia.org/wiki/Special:FilePath/Cousin_Henry.jpg?width=300</value>
@@ -264,6 +314,11 @@
 <type>uri</type>
 <value>http://dbpedia.org/resource/Anthony_Trollope</value>
 </author>
+<name>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>The Belton Estate</value>
+</name>
 <thumbnail>
 <type>uri</type>
 <value>http://commons.wikimedia.org/wiki/Special:FilePath/Belton_Estate.jpg?width=300</value>
@@ -287,6 +342,11 @@
 <type>uri</type>
 <value>http://dbpedia.org/resource/Anthony_Trollope</value>
 </author>
+<name>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>The Macdermots of Ballycloran</value>
+</name>
 <thumbnail>
 <type>uri</type>
 <value>http://commons.wikimedia.org/wiki/Special:FilePath/The_Macdermots.jpg?width=300</value>
@@ -310,6 +370,11 @@
 <type>uri</type>
 <value>http://dbpedia.org/resource/Anthony_Trollope</value>
 </author>
+<name>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>Phineas Redux</value>
+</name>
 <thumbnail>
 <type>uri</type>
 <value>http://commons.wikimedia.org/wiki/Special:FilePath/Phineas_Redux.jpg?width=300</value>
@@ -333,6 +398,11 @@
 <type>uri</type>
 <value>http://dbpedia.org/resource/Anthony_Trollope</value>
 </author>
+<name>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>The Duke&apos;s Children</value>
+</name>
 <thumbnail>
 <type>uri</type>
 <value>http://commons.wikimedia.org/wiki/Special:FilePath/The_Duke&apos;s_Children.jpg?width=300</value>
@@ -356,6 +426,11 @@
 <type>uri</type>
 <value>http://dbpedia.org/resource/Anthony_Trollope</value>
 </author>
+<name>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>The Eustace Diamonds</value>
+</name>
 <thumbnail>
 <type>uri</type>
 <value>http://commons.wikimedia.org/wiki/Special:FilePath/Camperdown_and_Lizzie.jpg?width=300</value>
@@ -379,6 +454,11 @@
 <type>uri</type>
 <value>http://dbpedia.org/resource/Anthony_Trollope</value>
 </author>
+<name>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>The Claverings</value>
+</name>
 <thumbnail>
 <type>uri</type>
 <value>http://commons.wikimedia.org/wiki/Special:FilePath/Claverings_-_Lady_Ongar_and_Harry_Clavering.jpg?width=300</value>
@@ -402,6 +482,11 @@
 <type>uri</type>
 <value>http://dbpedia.org/resource/Anthony_Trollope</value>
 </author>
+<name>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>The Last Chronicle of Barset</value>
+</name>
 <thumbnail>
 <type>uri</type>
 <value>http://commons.wikimedia.org/wiki/Special:FilePath/Last_Chronicle.jpg?width=300</value>
@@ -425,6 +510,11 @@
 <type>uri</type>
 <value>http://dbpedia.org/resource/Anthony_Trollope</value>
 </author>
+<name>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>Ralph the Heir</value>
+</name>
 <thumbnail>
 <type>uri</type>
 <value>http://commons.wikimedia.org/wiki/Special:FilePath/Ralph_the_Heir_big_loaf.jpg?width=300</value>
@@ -443,6 +533,11 @@
 <type>uri</type>
 <value>http://dbpedia.org/resource/Anthony_Trollope</value>
 </author>
+<name>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>He Knew He Was Right</value>
+</name>
 <thumbnail>
 <type>uri</type>
 <value>http://commons.wikimedia.org/wiki/Special:FilePath/Trevelyan_at_Casalunga.jpg?width=300</value>
@@ -461,6 +556,11 @@
 <type>uri</type>
 <value>http://dbpedia.org/resource/Anthony_Trollope</value>
 </author>
+<name>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>The American Senator</value>
+</name>
 <thumbnail>
 <type>uri</type>
 <value>http://commons.wikimedia.org/wiki/Special:FilePath/The_American_Senator_1st_ed_1877.jpg?width=300</value>
@@ -479,6 +579,11 @@
 <type>uri</type>
 <value>http://dbpedia.org/resource/Anthony_Trollope</value>
 </author>
+<name>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>Phineas Finn, the Irish Member</value>
+</name>
 <thumbnail>
 <type>uri</type>
 <value>http://commons.wikimedia.org/wiki/Special:FilePath/Phineas_Finn.jpg?width=300</value>
@@ -497,6 +602,11 @@
 <type>uri</type>
 <value>http://dbpedia.org/resource/Anthony_Trollope</value>
 </author>
+<name>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>Can You Forgive Her?</value>
+</name>
 <thumbnail>
 <type>uri</type>
 <value>http://commons.wikimedia.org/wiki/Special:FilePath/Can_You_Forgive_Her.jpg?width=300</value>
@@ -515,6 +625,11 @@
 <type>uri</type>
 <value>http://dbpedia.org/resource/Anthony_Trollope</value>
 </author>
+<name>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>Lady Anna</value>
+</name>
 <thumbnail>
 <type>uri</type>
 <value>http://commons.wikimedia.org/wiki/Special:FilePath/Lady_Anna_1st.jpg?width=300</value>
@@ -533,6 +648,11 @@
 <type>uri</type>
 <value>http://dbpedia.org/resource/Anthony_Trollope</value>
 </author>
+<name>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>The Prime Minister</value>
+</name>
 <thumbnail>
 <type>uri</type>
 <value>http://commons.wikimedia.org/wiki/Special:FilePath/Trollope.prime_minister.jpg?width=300</value>
@@ -551,6 +671,11 @@
 <type>uri</type>
 <value>http://dbpedia.org/resource/Anthony_Trollope</value>
 </author>
+<name>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>The Way We Live Now</value>
+</name>
 <thumbnail>
 <type>uri</type>
 <value>http://commons.wikimedia.org/wiki/Special:FilePath/The_Way_We_Live_Now.jpg?width=300</value>
@@ -569,6 +694,11 @@
 <type>uri</type>
 <value>http://dbpedia.org/resource/Anthony_Trollope</value>
 </author>
+<name>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>The Kellys and the O&apos;Kellys</value>
+</name>
 <wikilink>
 <type>uri</type>
 <value>http://en.wikipedia.org/wiki/The_Kellys_and_the_O&apos;Kellys?oldid=557156659</value>

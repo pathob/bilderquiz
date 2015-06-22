@@ -49,6 +49,11 @@
 <type>uri</type>
 <value>http://dbpedia.org/resource/Thomas_Bernhard</value>
 </author>
+<name>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>Wittgenstein’s Nephew</value>
+</name>
 <released>
 <type>typed-literal</type>
 <datatype>http://www.w3.org/2001/XMLSchema#integer</datatype>
@@ -73,6 +78,11 @@
 <type>uri</type>
 <value>http://dbpedia.org/resource/Thomas_Bernhard</value>
 </author>
+<name>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>Das Kalkwerk</value>
+</name>
 <released>
 <type>typed-literal</type>
 <datatype>http://www.w3.org/2001/XMLSchema#integer</datatype>
@@ -97,6 +107,11 @@
 <type>uri</type>
 <value>http://dbpedia.org/resource/Thomas_Bernhard</value>
 </author>
+<name>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>Correction</value>
+</name>
 <released>
 <type>typed-literal</type>
 <datatype>http://www.w3.org/2001/XMLSchema#integer</datatype>
@@ -121,6 +136,11 @@
 <type>uri</type>
 <value>http://dbpedia.org/resource/Thomas_Bernhard</value>
 </author>
+<name>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>Alte Meister. Komödie</value>
+</name>
 <released>
 <type>typed-literal</type>
 <datatype>http://www.w3.org/2001/XMLSchema#integer</datatype>
@@ -145,6 +165,11 @@
 <type>uri</type>
 <value>http://dbpedia.org/resource/Thomas_Bernhard</value>
 </author>
+<name>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>On The Mountain</value>
+</name>
 <released>
 <type>typed-literal</type>
 <datatype>http://www.w3.org/2001/XMLSchema#integer</datatype>
@@ -164,6 +189,11 @@
 <type>uri</type>
 <value>http://dbpedia.org/resource/Thomas_Bernhard</value>
 </author>
+<name>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>Extinction</value>
+</name>
 <wikilink>
 <type>uri</type>
 <value>http://en.wikipedia.org/wiki/Extinction_(Bernhard_novel)?oldid=595642795</value>
@@ -183,6 +213,11 @@
 <type>uri</type>
 <value>http://dbpedia.org/resource/Thomas_Bernhard</value>
 </author>
+<name>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>Gargoyles</value>
+</name>
 <wikilink>
 <type>uri</type>
 <value>http://en.wikipedia.org/wiki/Gargoyles_(novel)?oldid=542836757</value>
@@ -202,6 +237,11 @@
 <type>uri</type>
 <value>http://dbpedia.org/resource/Thomas_Bernhard</value>
 </author>
+<name>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>Frost</value>
+</name>
 <wikilink>
 <type>uri</type>
 <value>http://en.wikipedia.org/wiki/Frost_(novel)?oldid=543213581</value>
@@ -221,6 +261,11 @@
 <type>uri</type>
 <value>http://dbpedia.org/resource/Thomas_Bernhard</value>
 </author>
+<name>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>Woodcutters</value>
+</name>
 <wikilink>
 <type>uri</type>
 <value>http://en.wikipedia.org/wiki/Woodcutters_(novel)?oldid=543217080</value>
@@ -240,6 +285,11 @@
 <type>uri</type>
 <value>http://dbpedia.org/resource/Thomas_Bernhard</value>
 </author>
+<name>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>The Loser</value>
+</name>
 <wikilink>
 <type>uri</type>
 <value>http://en.wikipedia.org/wiki/The_Loser?oldid=578282762</value>
@@ -259,6 +309,11 @@
 <type>uri</type>
 <value>http://dbpedia.org/resource/Thomas_Bernhard</value>
 </author>
+<name>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>Ja</value>
+</name>
 <wikilink>
 <type>uri</type>
 <value>http://en.wikipedia.org/wiki/Yes_(novel)?oldid=543217321</value>

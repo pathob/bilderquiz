@@ -36,6 +36,11 @@
 <type>uri</type>
 <value>http://dbpedia.org/resource/Truman_Capote</value>
 </author>
+<name>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>In Cold Blood</value>
+</name>
 <thumbnail>
 <type>uri</type>
 <value>http://commons.wikimedia.org/wiki/Special:FilePath/Clutter_home_Holcomb,_KS_March_2009.jpg?width=300</value>
@@ -64,6 +69,11 @@
 <type>uri</type>
 <value>http://dbpedia.org/resource/Truman_Capote</value>
 </author>
+<name>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>Breakfast at Tiffany&apos;s</value>
+</name>
 <released>
 <type>typed-literal</type>
 <datatype>http://www.w3.org/2001/XMLSchema#integer</datatype>
@@ -88,6 +98,11 @@
 <type>uri</type>
 <value>http://dbpedia.org/resource/Truman_Capote</value>
 </author>
+<name>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>Summer Crossing</value>
+</name>
 <released>
 <type>typed-literal</type>
 <datatype>http://www.w3.org/2001/XMLSchema#integer</datatype>
@@ -112,6 +127,11 @@
 <type>uri</type>
 <value>http://dbpedia.org/resource/Truman_Capote</value>
 </author>
+<name>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>Answered Prayers</value>
+</name>
 <released>
 <type>typed-literal</type>
 <datatype>http://www.w3.org/2001/XMLSchema#integer</datatype>
@@ -131,6 +151,11 @@
 <type>uri</type>
 <value>http://dbpedia.org/resource/Truman_Capote</value>
 </author>
+<name>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>The Muses Are Heard</value>
+</name>
 <released>
 <type>typed-literal</type>
 <datatype>http://www.w3.org/2001/XMLSchema#integer</datatype>
@@ -150,6 +175,11 @@
 <type>uri</type>
 <value>http://dbpedia.org/resource/Truman_Capote</value>
 </author>
+<name>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>The Dogs Bark(Anthology)</value>
+</name>
 <released>
 <type>typed-literal</type>
 <datatype>http://www.w3.org/2001/XMLSchema#integer</datatype>
@@ -169,6 +199,11 @@
 <type>uri</type>
 <value>http://dbpedia.org/resource/Truman_Capote</value>
 </author>
+<name>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>Other Voices, Other Rooms</value>
+</name>
 <released>
 <type>typed-literal</type>
 <datatype>http://www.w3.org/2001/XMLSchema#integer</datatype>
@@ -188,6 +223,11 @@
 <type>uri</type>
 <value>http://dbpedia.org/resource/Truman_Capote</value>
 </author>
+<name>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>Local Color</value>
+</name>
 <released>
 <type>typed-literal</type>
 <datatype>http://www.w3.org/2001/XMLSchema#integer</datatype>
@@ -207,6 +247,11 @@
 <type>uri</type>
 <value>http://dbpedia.org/resource/Truman_Capote</value>
 </author>
+<name>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>Music for Chameleons</value>
+</name>
 <released>
 <type>typed-literal</type>
 <datatype>http://www.w3.org/2001/XMLSchema#integer</datatype>
@@ -226,6 +271,11 @@
 <type>uri</type>
 <value>http://dbpedia.org/resource/Truman_Capote</value>
 </author>
+<name>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>The Grass Harp</value>
+</name>
 <released>
 <type>typed-literal</type>
 <datatype>http://www.w3.org/2001/XMLSchema#integer</datatype>
@@ -245,6 +295,11 @@
 <type>uri</type>
 <value>http://dbpedia.org/resource/Truman_Capote</value>
 </author>
+<name>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>A Tree of Night and Other Stories</value>
+</name>
 <released>
 <type>typed-literal</type>
 <datatype>http://www.w3.org/2001/XMLSchema#integer</datatype>
@@ -264,6 +319,11 @@
 <type>uri</type>
 <value>http://dbpedia.org/resource/Truman_Capote</value>
 </author>
+<name>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>A Christmas Memory</value>
+</name>
 <wikilink>
 <type>uri</type>
 <value>http://en.wikipedia.org/wiki/A_Christmas_Memory?oldid=586094517</value>
@@ -278,6 +338,11 @@
 <type>uri</type>
 <value>http://dbpedia.org/resource/Truman_Capote</value>
 </author>
+<name>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>The Thanksgiving Visitor</value>
+</name>
 <wikilink>
 <type>uri</type>
 <value>http://en.wikipedia.org/wiki/The_Thanksgiving_Visitor?oldid=589161375</value>
@@ -292,6 +357,11 @@
 <type>uri</type>
 <value>http://dbpedia.org/resource/Truman_Capote</value>
 </author>
+<name>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>Children on Their Birthdays</value>
+</name>
 <wikilink>
 <type>uri</type>
 <value>http://en.wikipedia.org/wiki/Children_on_Their_Birthdays_(short_story)?oldid=558518143</value>
@@ -306,6 +376,11 @@
 <type>uri</type>
 <value>http://dbpedia.org/resource/Truman_Capote</value>
 </author>
+<name>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>One Christmas</value>
+</name>
 <wikilink>
 <type>uri</type>
 <value>http://en.wikipedia.org/wiki/One_Christmas?oldid=589161440</value>
@@ -320,6 +395,11 @@
 <type>uri</type>
 <value>http://dbpedia.org/resource/Truman_Capote</value>
 </author>
+<name>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>Miriam</value>
+</name>
 <wikilink>
 <type>uri</type>
 <value>http://en.wikipedia.org/wiki/Miriam_(short_story)?oldid=583577752</value>

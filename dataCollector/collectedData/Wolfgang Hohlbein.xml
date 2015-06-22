@@ -65,6 +65,11 @@
 <type>uri</type>
 <value>http://dbpedia.org/resource/Wolfgang_Hohlbein</value>
 </author>
+<name>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>Märchenmond</value>
+</name>
 <released>
 <type>typed-literal</type>
 <datatype>http://www.w3.org/2001/XMLSchema#integer</datatype>
@@ -89,6 +94,11 @@
 <type>uri</type>
 <value>http://dbpedia.org/resource/Wolfgang_Hohlbein</value>
 </author>
+<name>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>Children of Magic Moon</value>
+</name>
 <released>
 <type>typed-literal</type>
 <datatype>http://www.w3.org/2001/XMLSchema#integer</datatype>

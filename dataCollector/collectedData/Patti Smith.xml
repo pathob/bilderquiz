@@ -33,6 +33,11 @@
 <type>uri</type>
 <value>http://dbpedia.org/resource/Patti_Smith</value>
 </author>
+<name>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>50 Photographs</value>
+</name>
 <thumbnail>
 <type>uri</type>
 <value>http://commons.wikimedia.org/wiki/Special:FilePath/Patti_Smith_performing_in_Finland,_2007.jpg?width=300</value>
@@ -56,6 +61,11 @@
 <type>uri</type>
 <value>http://dbpedia.org/resource/Patti_Smith</value>
 </author>
+<name>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>kodak</value>
+</name>
 <wikilink>
 <type>uri</type>
 <value>http://en.wikipedia.org/wiki/Kodak_(book)?oldid=591755999</value>
@@ -70,6 +80,11 @@
 <type>uri</type>
 <value>http://dbpedia.org/resource/Patti_Smith</value>
 </author>
+<name>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>Woolgathering</value>
+</name>
 <wikilink>
 <type>uri</type>
 <value>http://en.wikipedia.org/wiki/Woolgathering?oldid=595174704</value>
@@ -84,6 +99,11 @@
 <type>uri</type>
 <value>http://dbpedia.org/resource/Patti_Smith</value>
 </author>
+<name>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>Witt</value>
+</name>
 <wikilink>
 <type>uri</type>
 <value>http://en.wikipedia.org/wiki/Witt_(book)?oldid=591768896</value>
@@ -98,6 +118,11 @@
 <type>uri</type>
 <value>http://dbpedia.org/resource/Patti_Smith</value>
 </author>
+<name>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>Seventh Heaven</value>
+</name>
 <wikilink>
 <type>uri</type>
 <value>http://en.wikipedia.org/wiki/Seventh_Heaven_(book)?oldid=591756436</value>
@@ -112,6 +137,11 @@
 <type>uri</type>
 <value>http://dbpedia.org/resource/Patti_Smith</value>
 </author>
+<name>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>Just Kids</value>
+</name>
 <wikilink>
 <type>uri</type>
 <value>http://en.wikipedia.org/wiki/Just_Kids?oldid=602607258</value>
@@ -126,6 +156,11 @@
 <type>uri</type>
 <value>http://dbpedia.org/resource/Patti_Smith</value>
 </author>
+<name>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>Auguries of Innocence</value>
+</name>
 <wikilink>
 <type>uri</type>
 <value>http://en.wikipedia.org/wiki/Auguries_of_Innocence_(Patti_Smith_poems)?oldid=606027280</value>
@@ -140,6 +175,11 @@
 <type>uri</type>
 <value>http://dbpedia.org/resource/Patti_Smith</value>
 </author>
+<name>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>Early Work</value>
+</name>
 <wikilink>
 <type>uri</type>
 <value>http://en.wikipedia.org/wiki/Early_Work?oldid=595508620</value>
@@ -154,6 +194,11 @@
 <type>uri</type>
 <value>http://dbpedia.org/resource/Patti_Smith</value>
 </author>
+<name>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>The Coral Sea</value>
+</name>
 <wikilink>
 <type>uri</type>
 <value>http://en.wikipedia.org/wiki/The_Coral_Sea_(book)?oldid=595858888</value>
@@ -168,6 +213,11 @@
 <type>uri</type>
 <value>http://dbpedia.org/resource/Patti_Smith</value>
 </author>
+<name>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>Babel</value>
+</name>
 <wikilink>
 <type>uri</type>
 <value>http://en.wikipedia.org/wiki/Babel_(book)?oldid=592853467</value>
@@ -182,6 +232,11 @@
 <type>uri</type>
 <value>http://dbpedia.org/resource/Patti_Smith</value>
 </author>
+<name>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>Strange Messenger</value>
+</name>
 <wikilink>
 <type>uri</type>
 <value>http://en.wikipedia.org/wiki/Strange_Messenger?oldid=606007567</value>
@@ -196,6 +251,11 @@
 <type>uri</type>
 <value>http://dbpedia.org/resource/Patti_Smith</value>
 </author>
+<name>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>Ha! Ha! Houdini!</value>
+</name>
 <wikilink>
 <type>uri</type>
 <value>http://en.wikipedia.org/wiki/Ha!_Ha!_Houdini!?oldid=492158197</value>
@@ -210,6 +270,11 @@
 <type>uri</type>
 <value>http://dbpedia.org/resource/Patti_Smith</value>
 </author>
+<name>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>Patti Smith Complete</value>
+</name>
 <wikilink>
 <type>uri</type>
 <value>http://en.wikipedia.org/wiki/Patti_Smith_Complete?oldid=597570632</value>
@@ -224,6 +289,11 @@
 <type>uri</type>
 <value>http://dbpedia.org/resource/Patti_Smith</value>
 </author>
+<name>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>Early Morning Dream</value>
+</name>
 <wikilink>
 <type>uri</type>
 <value>http://en.wikipedia.org/wiki/Early_Morning_Dream?oldid=591755573</value>
@@ -238,6 +308,11 @@
 <type>uri</type>
 <value>http://dbpedia.org/resource/Patti_Smith</value>
 </author>
+<name>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>A Useless Death</value>
+</name>
 <wikilink>
 <type>uri</type>
 <value>http://en.wikipedia.org/wiki/A_Useless_Death?oldid=483270509</value>

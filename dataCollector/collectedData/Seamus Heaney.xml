@@ -39,6 +39,11 @@
 <type>uri</type>
 <value>http://dbpedia.org/resource/Seamus_Heaney</value>
 </author>
+<name>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>District and Circle</value>
+</name>
 <thumbnail>
 <type>uri</type>
 <value>http://en.wikipedia.org/wiki/Special:FilePath/HeaneyDistrict.jpg?width=300</value>
@@ -62,6 +67,11 @@
 <type>uri</type>
 <value>http://dbpedia.org/resource/Seamus_Heaney</value>
 </author>
+<name>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>Human Chain</value>
+</name>
 <released>
 <type>typed-literal</type>
 <datatype>http://www.w3.org/2001/XMLSchema#date</datatype>
@@ -81,6 +91,11 @@
 <type>uri</type>
 <value>http://dbpedia.org/resource/Seamus_Heaney</value>
 </author>
+<name>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>Electric Light</value>
+</name>
 <released>
 <type>typed-literal</type>
 <datatype>http://www.w3.org/2001/XMLSchema#integer</datatype>
@@ -100,6 +115,11 @@
 <type>uri</type>
 <value>http://dbpedia.org/resource/Seamus_Heaney</value>
 </author>
+<name>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>North</value>
+</name>
 <released>
 <type>typed-literal</type>
 <datatype>http://www.w3.org/2001/XMLSchema#integer</datatype>
@@ -119,6 +139,11 @@
 <type>uri</type>
 <value>http://dbpedia.org/resource/Seamus_Heaney</value>
 </author>
+<name>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>The Burial at Thebes</value>
+</name>
 <wikilink>
 <type>uri</type>
 <value>http://en.wikipedia.org/wiki/The_Burial_at_Thebes?oldid=590948294</value>
@@ -133,6 +158,11 @@
 <type>uri</type>
 <value>http://dbpedia.org/resource/Seamus_Heaney</value>
 </author>
+<name>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>Selected Poems 1965&amp;ndash;1975</value>
+</name>
 <wikilink>
 <type>uri</type>
 <value>http://en.wikipedia.org/wiki/Selected_Poems_1965–1975?oldid=599131990</value>
@@ -147,6 +177,11 @@
 <type>uri</type>
 <value>http://dbpedia.org/resource/Seamus_Heaney</value>
 </author>
+<name>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>Stations</value>
+</name>
 <wikilink>
 <type>uri</type>
 <value>http://en.wikipedia.org/wiki/Stations_(Heaney)?oldid=601217155</value>
@@ -161,6 +196,11 @@
 <type>uri</type>
 <value>http://dbpedia.org/resource/Seamus_Heaney</value>
 </author>
+<name>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>New Selected Poems 1966&amp;ndash;1987</value>
+</name>
 <wikilink>
 <type>uri</type>
 <value>http://en.wikipedia.org/wiki/New_Selected_Poems_1966–1987?oldid=595879368</value>
@@ -175,6 +215,11 @@
 <type>uri</type>
 <value>http://dbpedia.org/resource/Seamus_Heaney</value>
 </author>
+<name>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>Death of a Naturalist</value>
+</name>
 <wikilink>
 <type>uri</type>
 <value>http://en.wikipedia.org/wiki/Death_of_a_Naturalist?oldid=605572490</value>
@@ -189,6 +234,11 @@
 <type>uri</type>
 <value>http://dbpedia.org/resource/Seamus_Heaney</value>
 </author>
+<name>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>Sweeney Astray: A Version from the Irish</value>
+</name>
 <wikilink>
 <type>uri</type>
 <value>http://en.wikipedia.org/wiki/Sweeney_Astray?oldid=601630985</value>

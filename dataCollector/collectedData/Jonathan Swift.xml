@@ -50,6 +50,11 @@
 <type>uri</type>
 <value>http://dbpedia.org/resource/Jonathan_Swift</value>
 </author>
+<name>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>Travels into Several Remote Nations of the World. In Four Parts. By Lemuel Gulliver, First a Surgeon, and then a Captain of several Ships</value>
+</name>
 <thumbnail>
 <type>uri</type>
 <value>http://commons.wikimedia.org/wiki/Special:FilePath/Gullivers_travels.jpg?width=300</value>
@@ -78,6 +83,11 @@
 <type>uri</type>
 <value>http://dbpedia.org/resource/Jonathan_Swift</value>
 </author>
+<name>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>A Modest Proposal</value>
+</name>
 <thumbnail>
 <type>uri</type>
 <value>http://commons.wikimedia.org/wiki/Special:FilePath/A_Modest_Proposal_1729_Cover.jpg?width=300</value>

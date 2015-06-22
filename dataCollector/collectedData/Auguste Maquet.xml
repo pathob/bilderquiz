@@ -30,6 +30,11 @@
 <type>uri</type>
 <value>http://dbpedia.org/resource/Auguste_Maquet</value>
 </author>
+<name>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>Les Trois Mousquetaires</value>
+</name>
 <thumbnail>
 <type>uri</type>
 <value>http://commons.wikimedia.org/wiki/Special:FilePath/Dartagnan-musketeers.jpg?width=300</value>
@@ -58,6 +63,11 @@
 <type>uri</type>
 <value>http://dbpedia.org/resource/Auguste_Maquet</value>
 </author>
+<name>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>Twenty Years After</value>
+</name>
 <thumbnail>
 <type>uri</type>
 <value>http://commons.wikimedia.org/wiki/Special:FilePath/Leloir_Musketeers2.jpg?width=300</value>
@@ -81,6 +91,11 @@
 <type>uri</type>
 <value>http://dbpedia.org/resource/Auguste_Maquet</value>
 </author>
+<name>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>Le Collier de la reine</value>
+</name>
 <thumbnail>
 <type>uri</type>
 <value>http://commons.wikimedia.org/wiki/Special:FilePath/Marie_Antoinette_Adult9.jpg?width=300</value>
@@ -104,6 +119,11 @@
 <type>uri</type>
 <value>http://dbpedia.org/resource/Auguste_Maquet</value>
 </author>
+<name>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>The Count of Monte Cristo</value>
+</name>
 <thumbnail>
 <type>uri</type>
 <value>http://commons.wikimedia.org/wiki/Special:FilePath/Louis_Français-Dantès_sur_son_rocher.jpg?width=300</value>
@@ -127,6 +147,11 @@
 <type>uri</type>
 <value>http://dbpedia.org/resource/Auguste_Maquet</value>
 </author>
+<name>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>La Reine Margot</value>
+</name>
 <thumbnail>
 <type>uri</type>
 <value>http://commons.wikimedia.org/wiki/Special:FilePath/SchlafzimmerBartholomaeusnacht.jpg?width=300</value>
@@ -145,6 +170,11 @@
 <type>uri</type>
 <value>http://dbpedia.org/resource/Auguste_Maquet</value>
 </author>
+<name>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>Le Vicomte de Bragelonne ou Dix ans plus tard</value>
+</name>
 <released>
 <type>literal</type>
 <xml:lang>en</xml:lang>

@@ -52,6 +52,11 @@
 <type>uri</type>
 <value>http://dbpedia.org/resource/Heinrich_Clauren</value>
 </author>
+<name>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>Fantasmagoriana; ou Recueil d&apos;histoires, d&apos;apparitions, de spectres, revenans, fantômes, etc., traduit de l&apos;allemand, par un amateur</value>
+</name>
 <thumbnail>
 <type>uri</type>
 <value>http://commons.wikimedia.org/wiki/Special:FilePath/Fantasmagoriana_title_page.jpg?width=300</value>

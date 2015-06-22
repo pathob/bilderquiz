@@ -36,6 +36,11 @@
 <type>uri</type>
 <value>http://dbpedia.org/resource/Maya_Angelou</value>
 </author>
+<name>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>The Complete Collected Poems of Maya Angelou</value>
+</name>
 <thumbnail>
 <type>uri</type>
 <value>http://en.wikipedia.org/wiki/Special:FilePath/Angeloupoem.jpg?width=300</value>
@@ -59,6 +64,11 @@
 <type>uri</type>
 <value>http://dbpedia.org/resource/Maya_Angelou</value>
 </author>
+<name>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>Shaker, Why Don&apos;t You Sing</value>
+</name>
 <thumbnail>
 <type>uri</type>
 <value>http://en.wikipedia.org/wiki/Special:FilePath/Angeloupoem.jpg?width=300</value>
@@ -82,6 +92,11 @@
 <type>uri</type>
 <value>http://dbpedia.org/resource/Maya_Angelou</value>
 </author>
+<name>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>And Still I Rise</value>
+</name>
 <thumbnail>
 <type>uri</type>
 <value>http://en.wikipedia.org/wiki/Special:FilePath/Angeloupoem.jpg?width=300</value>
@@ -105,6 +120,11 @@
 <type>uri</type>
 <value>http://dbpedia.org/resource/Maya_Angelou</value>
 </author>
+<name>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>I Shall Not Be Moved</value>
+</name>
 <thumbnail>
 <type>uri</type>
 <value>http://en.wikipedia.org/wiki/Special:FilePath/Angeloupoem.jpg?width=300</value>
@@ -128,6 +148,11 @@
 <type>uri</type>
 <value>http://dbpedia.org/resource/Maya_Angelou</value>
 </author>
+<name>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>Wouldn&apos;t Take Nothing for My Journey Now</value>
+</name>
 <thumbnail>
 <type>uri</type>
 <value>http://en.wikipedia.org/wiki/Special:FilePath/Angeloupoem.jpg?width=300</value>
@@ -151,6 +176,11 @@
 <type>uri</type>
 <value>http://dbpedia.org/resource/Maya_Angelou</value>
 </author>
+<name>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>Singin&apos; and Swingin&apos; and Gettin&apos; Merry Like Christmas</value>
+</name>
 <thumbnail>
 <type>uri</type>
 <value>http://en.wikipedia.org/wiki/Special:FilePath/Angeloupoem.jpg?width=300</value>
@@ -174,6 +204,11 @@
 <type>uri</type>
 <value>http://dbpedia.org/resource/Maya_Angelou</value>
 </author>
+<name>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>A Song Flung Up to Heaven</value>
+</name>
 <thumbnail>
 <type>uri</type>
 <value>http://commons.wikimedia.org/wiki/Special:FilePath/Paul_Laurence_Dunbar.jpg?width=300</value>
@@ -197,6 +232,11 @@
 <type>uri</type>
 <value>http://dbpedia.org/resource/Maya_Angelou</value>
 </author>
+<name>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>Gather Together in My Name</value>
+</name>
 <thumbnail>
 <type>uri</type>
 <value>http://en.wikipedia.org/wiki/Special:FilePath/Angeloupoem.jpg?width=300</value>
@@ -220,6 +260,11 @@
 <type>uri</type>
 <value>http://dbpedia.org/resource/Maya_Angelou</value>
 </author>
+<name>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>All God&apos;s Children Need Traveling Shoes</value>
+</name>
 <thumbnail>
 <type>uri</type>
 <value>http://en.wikipedia.org/wiki/Special:FilePath/Angeloupoem.jpg?width=300</value>
@@ -243,6 +288,11 @@
 <type>uri</type>
 <value>http://dbpedia.org/resource/Maya_Angelou</value>
 </author>
+<name>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>Mom &amp; Me &amp; Mom</value>
+</name>
 <thumbnail>
 <type>uri</type>
 <value>http://en.wikipedia.org/wiki/Special:FilePath/Mom_&amp;_Me_&amp;_Mom_cover.jpg?width=300</value>
@@ -266,6 +316,11 @@
 <type>uri</type>
 <value>http://dbpedia.org/resource/Maya_Angelou</value>
 </author>
+<name>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>Even the Stars Look Lonesome</value>
+</name>
 <thumbnail>
 <type>uri</type>
 <value>http://en.wikipedia.org/wiki/Special:FilePath/Angeloupoem.jpg?width=300</value>
@@ -284,6 +339,11 @@
 <type>uri</type>
 <value>http://dbpedia.org/resource/Maya_Angelou</value>
 </author>
+<name>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>Oh Pray My Wings Are Gonna Fit Me Well</value>
+</name>
 <thumbnail>
 <type>uri</type>
 <value>http://en.wikipedia.org/wiki/Special:FilePath/Angeloupoem.jpg?width=300</value>
@@ -302,6 +362,11 @@
 <type>uri</type>
 <value>http://dbpedia.org/resource/Maya_Angelou</value>
 </author>
+<name>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>Just Give Me a Cool Drink of Water &apos;fore I Diiie</value>
+</name>
 <thumbnail>
 <type>uri</type>
 <value>http://en.wikipedia.org/wiki/Special:FilePath/Angeloupoem.jpg?width=300</value>
@@ -320,6 +385,11 @@
 <type>uri</type>
 <value>http://dbpedia.org/resource/Maya_Angelou</value>
 </author>
+<name>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>The Heart of a Woman</value>
+</name>
 <published>
 <type>typed-literal</type>
 <datatype>http://www.w3.org/2001/XMLSchema#integer</datatype>
@@ -339,6 +409,11 @@
 <type>uri</type>
 <value>http://dbpedia.org/resource/Maya_Angelou</value>
 </author>
+<name>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>Hallelujah! The Welcome Table: A Lifetime of Memories with Recipes</value>
+</name>
 <wikilink>
 <type>uri</type>
 <value>http://en.wikipedia.org/wiki/Hallelujah!_The_Welcome_Table?oldid=590145742</value>
@@ -353,6 +428,11 @@
 <type>uri</type>
 <value>http://dbpedia.org/resource/Maya_Angelou</value>
 </author>
+<name>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>Letter to My Daughter</value>
+</name>
 <wikilink>
 <type>uri</type>
 <value>http://en.wikipedia.org/wiki/Letter_to_My_Daughter?oldid=590007865</value>
@@ -367,6 +447,11 @@
 <type>uri</type>
 <value>http://dbpedia.org/resource/Maya_Angelou</value>
 </author>
+<name>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>Great Food, All Day Long: Cook Splendidly, Eat Smart</value>
+</name>
 <wikilink>
 <type>uri</type>
 <value>http://en.wikipedia.org/wiki/Great_Food,_All_Day_Long?oldid=588890123</value>

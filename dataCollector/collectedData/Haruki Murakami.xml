@@ -43,6 +43,11 @@
 <type>uri</type>
 <value>http://dbpedia.org/resource/Haruki_Murakami</value>
 </author>
+<name>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>1Q84</value>
+</name>
 <thumbnail>
 <type>uri</type>
 <value>http://en.wikipedia.org/wiki/Special:FilePath/1Q84bookcover.jpg?width=300</value>
@@ -71,6 +76,11 @@
 <type>uri</type>
 <value>http://dbpedia.org/resource/Haruki_Murakami</value>
 </author>
+<name>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>Uten Enten</value>
+</name>
 <thumbnail>
 <type>uri</type>
 <value>http://commons.wikimedia.org/wiki/Special:FilePath/Lit.jpg?width=300</value>
@@ -89,6 +99,11 @@
 <type>uri</type>
 <value>http://dbpedia.org/resource/Haruki_Murakami</value>
 </author>
+<name>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>Afutā Dāku</value>
+</name>
 <released>
 <type>typed-literal</type>
 <datatype>http://www.w3.org/2001/XMLSchema#integer</datatype>
@@ -108,6 +123,11 @@
 <type>uri</type>
 <value>http://dbpedia.org/resource/Haruki_Murakami</value>
 </author>
+<name>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>Underground: The Tokyo Gas Attack and the Japanese Psyche</value>
+</name>
 <published>
 <type>typed-literal</type>
 <datatype>http://www.w3.org/2001/XMLSchema#gMonthDay</datatype>
@@ -132,6 +152,11 @@
 <type>uri</type>
 <value>http://dbpedia.org/resource/Haruki_Murakami</value>
 </author>
+<name>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>after the quake</value>
+</name>
 <published>
 <type>typed-literal</type>
 <datatype>http://www.w3.org/2001/XMLSchema#gMonthDay</datatype>
@@ -151,6 +176,11 @@
 <type>uri</type>
 <value>http://dbpedia.org/resource/Haruki_Murakami</value>
 </author>
+<name>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>Mekurayanagi to nemuru onna</value>
+</name>
 <published>
 <type>typed-literal</type>
 <datatype>http://www.w3.org/2001/XMLSchema#integer</datatype>
@@ -170,6 +200,11 @@
 <type>uri</type>
 <value>http://dbpedia.org/resource/Haruki_Murakami</value>
 </author>
+<name>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>Zō no shōmetsu</value>
+</name>
 <published>
 <type>typed-literal</type>
 <datatype>http://www.w3.org/2001/XMLSchema#date</datatype>
@@ -189,6 +224,11 @@
 <type>uri</type>
 <value>http://dbpedia.org/resource/Haruki_Murakami</value>
 </author>
+<name>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>Dance Dance Dance</value>
+</name>
 <published>
 <type>literal</type>
 <xml:lang>en</xml:lang>
@@ -208,6 +248,11 @@
 <type>uri</type>
 <value>http://dbpedia.org/resource/Haruki_Murakami</value>
 </author>
+<name>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>Sekai no owari to Hādo-Boirudo Wandārando&apos;&apos;</value>
+</name>
 <wikilink>
 <type>uri</type>
 <value>http://en.wikipedia.org/wiki/Hard-Boiled_Wonderland_and_the_End_of_the_World?oldid=599780805</value>
@@ -227,6 +272,11 @@
 <type>uri</type>
 <value>http://dbpedia.org/resource/Haruki_Murakami</value>
 </author>
+<name>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>Kafka on the Shore</value>
+</name>
 <wikilink>
 <type>uri</type>
 <value>http://en.wikipedia.org/wiki/Kafka_on_the_Shore?oldid=598008558</value>
@@ -246,6 +296,11 @@
 <type>uri</type>
 <value>http://dbpedia.org/resource/Haruki_Murakami</value>
 </author>
+<name>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>Noruwei no Mori&apos;&apos;</value>
+</name>
 <wikilink>
 <type>uri</type>
 <value>http://en.wikipedia.org/wiki/Norwegian_Wood_(novel)?oldid=601310210</value>
@@ -265,6 +320,11 @@
 <type>uri</type>
 <value>http://dbpedia.org/resource/Haruki_Murakami</value>
 </author>
+<name>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>Kokkyō no Minami, Taiyō no Nishi</value>
+</name>
 <wikilink>
 <type>uri</type>
 <value>http://en.wikipedia.org/wiki/South_of_the_Border,_West_of_the_Sun?oldid=601032266</value>
@@ -284,6 +344,11 @@
 <type>uri</type>
 <value>http://dbpedia.org/resource/Haruki_Murakami</value>
 </author>
+<name>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>Supūtoniku no Koibito</value>
+</name>
 <wikilink>
 <type>uri</type>
 <value>http://en.wikipedia.org/wiki/Sputnik_Sweetheart?oldid=601061134</value>
@@ -303,6 +368,11 @@
 <type>uri</type>
 <value>http://dbpedia.org/resource/Haruki_Murakami</value>
 </author>
+<name>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>Hashiru Koto ni Tsuite Kataru Toki ni Boku no Kataru Koto</value>
+</name>
 <wikilink>
 <type>uri</type>
 <value>http://en.wikipedia.org/wiki/What_I_Talk_About_When_I_Talk_About_Running?oldid=605315381</value>
@@ -322,6 +392,11 @@
 <type>uri</type>
 <value>http://dbpedia.org/resource/Haruki_Murakami</value>
 </author>
+<name>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>Colorless Tsukuru Tazaki and His Years of Pilgrimage</value>
+</name>
 <wikilink>
 <type>uri</type>
 <value>http://en.wikipedia.org/wiki/Colorless_Tsukuru_Tazaki_and_His_Years_of_Pilgrimage?oldid=601350006</value>
@@ -341,6 +416,11 @@
 <type>uri</type>
 <value>http://dbpedia.org/resource/Haruki_Murakami</value>
 </author>
+<name>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>The Wind-Up Bird Chronicle</value>
+</name>
 <wikilink>
 <type>uri</type>
 <value>http://en.wikipedia.org/wiki/The_Wind-Up_Bird_Chronicle?oldid=598722196</value>
@@ -355,6 +435,11 @@
 <type>uri</type>
 <value>http://dbpedia.org/resource/Haruki_Murakami</value>
 </author>
+<name>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>Pinball, 1973</value>
+</name>
 <wikilink>
 <type>uri</type>
 <value>http://en.wikipedia.org/wiki/Pinball,_1973?oldid=592955704</value>
@@ -369,6 +454,11 @@
 <type>uri</type>
 <value>http://dbpedia.org/resource/Haruki_Murakami</value>
 </author>
+<name>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>Hitsuji o meguru bōken &apos;&apos;</value>
+</name>
 <wikilink>
 <type>uri</type>
 <value>http://en.wikipedia.org/wiki/A_Wild_Sheep_Chase?oldid=602428095</value>
@@ -383,6 +473,11 @@
 <type>uri</type>
 <value>http://dbpedia.org/resource/Haruki_Murakami</value>
 </author>
+<name>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>Kaze no Uta o Kike&apos;&apos;</value>
+</name>
 <wikilink>
 <type>uri</type>
 <value>http://en.wikipedia.org/wiki/Hear_the_Wind_Sing?oldid=561322605</value>

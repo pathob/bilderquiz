@@ -32,6 +32,11 @@
 <type>uri</type>
 <value>http://dbpedia.org/resource/Jean_Genet</value>
 </author>
+<name>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>Querelle de Brest</value>
+</name>
 <wikilink>
 <type>uri</type>
 <value>http://en.wikipedia.org/wiki/Querelle_of_Brest?oldid=572362501</value>
@@ -51,6 +56,11 @@
 <type>uri</type>
 <value>http://dbpedia.org/resource/Jean_Genet</value>
 </author>
+<name>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>The Thief&apos;s Journal</value>
+</name>
 <wikilink>
 <type>uri</type>
 <value>http://en.wikipedia.org/wiki/The_Thief&apos;s_Journal?oldid=547012020</value>
@@ -65,6 +75,11 @@
 <type>uri</type>
 <value>http://dbpedia.org/resource/Jean_Genet</value>
 </author>
+<name>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>Our Lady of the Flowers</value>
+</name>
 <wikilink>
 <type>uri</type>
 <value>http://en.wikipedia.org/wiki/Our_Lady_of_the_Flowers?oldid=592190435</value>
@@ -79,6 +94,11 @@
 <type>uri</type>
 <value>http://dbpedia.org/resource/Jean_Genet</value>
 </author>
+<name>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>Miracle de la rose</value>
+</name>
 <wikilink>
 <type>uri</type>
 <value>http://en.wikipedia.org/wiki/The_Miracle_of_the_Rose?oldid=604240488</value>
@@ -93,6 +113,11 @@
 <type>uri</type>
 <value>http://dbpedia.org/resource/Jean_Genet</value>
 </author>
+<name>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>Funeral Rites</value>
+</name>
 <wikilink>
 <type>uri</type>
 <value>http://en.wikipedia.org/wiki/Funeral_Rites_(novel)?oldid=491321718</value>

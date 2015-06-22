@@ -44,6 +44,11 @@
 <type>uri</type>
 <value>http://dbpedia.org/resource/Laurence_Sterne</value>
 </author>
+<name>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>The Life and Opinions of Tristram Shandy, Gentleman</value>
+</name>
 <thumbnail>
 <type>uri</type>
 <value>http://en.wikipedia.org/wiki/Special:FilePath/George_Cruikshank_-_Tristram_Shandy,_Plate_VIII._The_Smoking_Batteries.jpg?width=300</value>
@@ -72,6 +77,11 @@
 <type>uri</type>
 <value>http://dbpedia.org/resource/Laurence_Sterne</value>
 </author>
+<name>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>A Sentimental Journey through France and Italy</value>
+</name>
 <thumbnail>
 <type>uri</type>
 <value>http://commons.wikimedia.org/wiki/Special:FilePath/Angelica_Kauffmann_002.png?width=300</value>

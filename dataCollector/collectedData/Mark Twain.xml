@@ -71,6 +71,11 @@
 <type>uri</type>
 <value>http://dbpedia.org/resource/Mark_Twain</value>
 </author>
+<name>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>Adventures of Huckleberry Finn</value>
+</name>
 <thumbnail>
 <type>uri</type>
 <value>http://commons.wikimedia.org/wiki/Special:FilePath/Huckleberry_Finn_book.JPG?width=300</value>
@@ -99,6 +104,11 @@
 <type>uri</type>
 <value>http://dbpedia.org/resource/Mark_Twain</value>
 </author>
+<name>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>Life on the Mississippi</value>
+</name>
 <thumbnail>
 <type>uri</type>
 <value>http://commons.wikimedia.org/wiki/Special:FilePath/Life_on_the_Mississippi.jpg?width=300</value>
@@ -127,6 +137,11 @@
 <type>uri</type>
 <value>http://dbpedia.org/resource/Mark_Twain</value>
 </author>
+<name>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>The Adventures of Tom Sawyer</value>
+</name>
 <thumbnail>
 <type>uri</type>
 <value>http://commons.wikimedia.org/wiki/Special:FilePath/Tom_Sawyer_1876_frontispiece.jpg?width=300</value>
@@ -155,6 +170,11 @@
 <type>uri</type>
 <value>http://dbpedia.org/resource/Mark_Twain</value>
 </author>
+<name>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>The Innocents Abroad, or The New Pilgrims&apos; Progress</value>
+</name>
 <thumbnail>
 <type>uri</type>
 <value>http://commons.wikimedia.org/wiki/Special:FilePath/Mark_Twain_-_The_Innocents_Abroad.jpg?width=300</value>
@@ -183,6 +203,11 @@
 <type>uri</type>
 <value>http://dbpedia.org/resource/Mark_Twain</value>
 </author>
+<name>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>A Tramp Abroad</value>
+</name>
 <thumbnail>
 <type>uri</type>
 <value>http://commons.wikimedia.org/wiki/Special:FilePath/1880._A_Tramp_Abroad_0028.jpg?width=300</value>
@@ -211,6 +236,11 @@
 <type>uri</type>
 <value>http://dbpedia.org/resource/Mark_Twain</value>
 </author>
+<name>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>Roughing It</value>
+</name>
 <thumbnail>
 <type>uri</type>
 <value>http://en.wikipedia.org/wiki/Special:FilePath/Twain_RoughingIt.jpg?width=300</value>
@@ -234,6 +264,11 @@
 <type>uri</type>
 <value>http://dbpedia.org/resource/Mark_Twain</value>
 </author>
+<name>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>Tom Sawyer, Detective</value>
+</name>
 <thumbnail>
 <type>uri</type>
 <value>http://commons.wikimedia.org/wiki/Special:FilePath/Tom_Sawyer,_Detective_(novel).jpg?width=300</value>
@@ -257,6 +292,11 @@
 <type>uri</type>
 <value>http://dbpedia.org/resource/Mark_Twain</value>
 </author>
+<name>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>Mark Twain&apos;s (Burlesque) Autobiography and First Romance</value>
+</name>
 <thumbnail>
 <type>uri</type>
 <value>http://en.wikipedia.org/wiki/Special:FilePath/Mark_twain&apos;s_(burlesque)_autobiography_and_first_romance_cover.jpg?width=300</value>
@@ -280,6 +320,11 @@
 <type>uri</type>
 <value>http://dbpedia.org/resource/Mark_Twain</value>
 </author>
+<name>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>Eve&apos;s Diary</value>
+</name>
 <thumbnail>
 <type>uri</type>
 <value>http://en.wikipedia.org/wiki/Special:FilePath/Eves_Diary_cover.jpg?width=300</value>
@@ -303,6 +348,11 @@
 <type>uri</type>
 <value>http://dbpedia.org/resource/Mark_Twain</value>
 </author>
+<name>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>Is Shakespeare Dead?</value>
+</name>
 <thumbnail>
 <type>uri</type>
 <value>http://en.wikipedia.org/wiki/Special:FilePath/Is_Shakespeare_Dead_cover.jpg?width=300</value>
@@ -326,6 +376,11 @@
 <type>uri</type>
 <value>http://dbpedia.org/resource/Mark_Twain</value>
 </author>
+<name>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>Merry Tales</value>
+</name>
 <thumbnail>
 <type>uri</type>
 <value>http://en.wikipedia.org/wiki/Special:FilePath/Merry_Tales-27385364.jpg?width=300</value>
@@ -349,6 +404,11 @@
 <type>uri</type>
 <value>http://dbpedia.org/resource/Mark_Twain</value>
 </author>
+<name>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>A Connecticut Yankee in King Arthur&apos;s Court</value>
+</name>
 <thumbnail>
 <type>uri</type>
 <value>http://commons.wikimedia.org/wiki/Special:FilePath/Connecticut_Yankee4_new.jpg?width=300</value>
@@ -377,6 +437,11 @@
 <type>uri</type>
 <value>http://dbpedia.org/resource/Mark_Twain</value>
 </author>
+<name>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>A Double-Barreled Detective Story</value>
+</name>
 <thumbnail>
 <type>uri</type>
 <value>http://en.wikipedia.org/wiki/Special:FilePath/1902doublebarrel.jpg?width=300</value>
@@ -400,6 +465,11 @@
 <type>uri</type>
 <value>http://dbpedia.org/resource/Mark_Twain</value>
 </author>
+<name>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>King Leopold&apos;s Soliloquy</value>
+</name>
 <released>
 <type>typed-literal</type>
 <datatype>http://www.w3.org/2001/XMLSchema#integer</datatype>
@@ -424,6 +494,11 @@
 <type>uri</type>
 <value>http://dbpedia.org/resource/Mark_Twain</value>
 </author>
+<name>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>Pudd&apos;nhead Wilson</value>
+</name>
 <released>
 <type>typed-literal</type>
 <datatype>http://www.w3.org/2001/XMLSchema#integer</datatype>
@@ -448,6 +523,11 @@
 <type>uri</type>
 <value>http://dbpedia.org/resource/Mark_Twain</value>
 </author>
+<name>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>Joan of Arc</value>
+</name>
 <released>
 <type>typed-literal</type>
 <datatype>http://www.w3.org/2001/XMLSchema#integer</datatype>
@@ -472,6 +552,11 @@
 <type>uri</type>
 <value>http://dbpedia.org/resource/Mark_Twain</value>
 </author>
+<name>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>The Man That Corrupted Hadleyburg</value>
+</name>
 <released>
 <type>typed-literal</type>
 <datatype>http://www.w3.org/2001/XMLSchema#integer</datatype>
@@ -491,6 +576,11 @@
 <type>uri</type>
 <value>http://dbpedia.org/resource/Mark_Twain</value>
 </author>
+<name>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>The American Claimant</value>
+</name>
 <released>
 <type>typed-literal</type>
 <datatype>http://www.w3.org/2001/XMLSchema#integer</datatype>
@@ -510,6 +600,11 @@
 <type>uri</type>
 <value>http://dbpedia.org/resource/Mark_Twain</value>
 </author>
+<name>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>Following the Equator</value>
+</name>
 <released>
 <type>typed-literal</type>
 <datatype>http://www.w3.org/2001/XMLSchema#integer</datatype>
@@ -529,6 +624,11 @@
 <type>uri</type>
 <value>http://dbpedia.org/resource/Mark_Twain</value>
 </author>
+<name>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>Concerning the Jews</value>
+</name>
 <released>
 <type>typed-literal</type>
 <datatype>http://www.w3.org/2001/XMLSchema#integer</datatype>
@@ -548,6 +648,11 @@
 <type>uri</type>
 <value>http://dbpedia.org/resource/Mark_Twain</value>
 </author>
+<name>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>£1,000,000 Bank Note and Other New Stories</value>
+</name>
 <released>
 <type>typed-literal</type>
 <datatype>http://www.w3.org/2001/XMLSchema#integer</datatype>
@@ -567,6 +672,11 @@
 <type>uri</type>
 <value>http://dbpedia.org/resource/Mark_Twain</value>
 </author>
+<name>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>The Mysterious Stranger</value>
+</name>
 <released>
 <type>typed-literal</type>
 <datatype>http://www.w3.org/2001/XMLSchema#integer</datatype>
@@ -586,6 +696,11 @@
 <type>uri</type>
 <value>http://dbpedia.org/resource/Mark_Twain</value>
 </author>
+<name>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>A Horse&apos;s Tale</value>
+</name>
 <released>
 <type>typed-literal</type>
 <datatype>http://www.w3.org/2001/XMLSchema#integer</datatype>
@@ -605,6 +720,11 @@
 <type>uri</type>
 <value>http://dbpedia.org/resource/Mark_Twain</value>
 </author>
+<name>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>Extracts from Adam&apos;s Diary</value>
+</name>
 <released>
 <type>typed-literal</type>
 <datatype>http://www.w3.org/2001/XMLSchema#integer</datatype>
@@ -624,6 +744,11 @@
 <type>uri</type>
 <value>http://dbpedia.org/resource/Mark_Twain</value>
 </author>
+<name>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>Tom Sawyer Abroad</value>
+</name>
 <released>
 <type>typed-literal</type>
 <datatype>http://www.w3.org/2001/XMLSchema#integer</datatype>
@@ -643,6 +768,11 @@
 <type>uri</type>
 <value>http://dbpedia.org/resource/Mark_Twain</value>
 </author>
+<name>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>Captain Stormfield&apos;s Visit to Heaven</value>
+</name>
 <released>
 <type>typed-literal</type>
 <datatype>http://www.w3.org/2001/XMLSchema#integer</datatype>
@@ -662,6 +792,11 @@
 <type>uri</type>
 <value>http://dbpedia.org/resource/Mark_Twain</value>
 </author>
+<name>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>The Gilded Age: A Tale of Today</value>
+</name>
 <released>
 <type>typed-literal</type>
 <datatype>http://www.w3.org/2001/XMLSchema#integer</datatype>
@@ -681,6 +816,11 @@
 <type>uri</type>
 <value>http://dbpedia.org/resource/Mark_Twain</value>
 </author>
+<name>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>My Platonic Sweetheart</value>
+</name>
 <released>
 <type>typed-literal</type>
 <datatype>http://www.w3.org/2001/XMLSchema#integer</datatype>
@@ -700,6 +840,11 @@
 <type>uri</type>
 <value>http://dbpedia.org/resource/Mark_Twain</value>
 </author>
+<name>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>A Murder, a Mystery, and a Marriage</value>
+</name>
 <published>
 <type>literal</type>
 <xml:lang>en</xml:lang>
@@ -724,6 +869,11 @@
 <type>uri</type>
 <value>http://dbpedia.org/resource/Mark_Twain</value>
 </author>
+<name>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>The $30,000 Bequest and Other Stories</value>
+</name>
 <published>
 <type>typed-literal</type>
 <datatype>http://www.w3.org/2001/XMLSchema#integer</datatype>
@@ -743,6 +893,11 @@
 <type>uri</type>
 <value>http://dbpedia.org/resource/Mark_Twain</value>
 </author>
+<name>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>A Dog&apos;s Tale</value>
+</name>
 <published>
 <type>typed-literal</type>
 <datatype>http://www.w3.org/2001/XMLSchema#integer</datatype>
@@ -762,6 +917,11 @@
 <type>uri</type>
 <value>http://dbpedia.org/resource/Mark_Twain</value>
 </author>
+<name>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>The Prince and the Pauper</value>
+</name>
 <wikilink>
 <type>uri</type>
 <value>http://en.wikipedia.org/wiki/The_Prince_and_the_Pauper?oldid=604046886</value>
@@ -781,6 +941,11 @@
 <type>uri</type>
 <value>http://dbpedia.org/resource/Mark_Twain</value>
 </author>
+<name>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>The £ 1,000,000 bank note</value>
+</name>
 <wikilink>
 <type>uri</type>
 <value>http://en.wikipedia.org/wiki/The_Million_Pound_Bank_Note?oldid=594749893</value>
@@ -795,6 +960,11 @@
 <type>uri</type>
 <value>http://dbpedia.org/resource/Mark_Twain</value>
 </author>
+<name>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>Conversation, as it was by the Social Fireside, in the Time of the Tudors</value>
+</name>
 <wikilink>
 <type>uri</type>
 <value>http://en.wikipedia.org/wiki/1601_(Mark_Twain)?oldid=583237830</value>
@@ -809,6 +979,11 @@
 <type>uri</type>
 <value>http://dbpedia.org/resource/Mark_Twain</value>
 </author>
+<name>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>Letters from the Earth</value>
+</name>
 <wikilink>
 <type>uri</type>
 <value>http://en.wikipedia.org/wiki/Letters_from_the_Earth?oldid=593907355</value>

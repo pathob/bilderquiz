@@ -38,6 +38,11 @@
 <type>uri</type>
 <value>http://dbpedia.org/resource/John_Toland</value>
 </author>
+<name>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>Christianity not Mysterious</value>
+</name>
 <published>
 <type>typed-literal</type>
 <datatype>http://www.w3.org/2001/XMLSchema#integer</datatype>

@@ -28,6 +28,11 @@
 <type>uri</type>
 <value>http://dbpedia.org/resource/John_Keats</value>
 </author>
+<name>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>Ode to a Nightingale</value>
+</name>
 <thumbnail>
 <type>uri</type>
 <value>http://commons.wikimedia.org/wiki/Special:FilePath/W._J._Neatby_-_Keats_-_Nightingale.jpg?width=300</value>

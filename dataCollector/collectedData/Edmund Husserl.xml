@@ -56,6 +56,11 @@
 <type>uri</type>
 <value>http://dbpedia.org/resource/Edmund_Husserl</value>
 </author>
+<name>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>Philosophy of Arithmetic</value>
+</name>
 <released>
 <type>typed-literal</type>
 <datatype>http://www.w3.org/2001/XMLSchema#integer</datatype>
@@ -75,6 +80,11 @@
 <type>uri</type>
 <value>http://dbpedia.org/resource/Edmund_Husserl</value>
 </author>
+<name>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>Cartesian Meditations: An Introduction to Phenomenology</value>
+</name>
 <published>
 <type>typed-literal</type>
 <datatype>http://www.w3.org/2001/XMLSchema#integer</datatype>
@@ -94,6 +104,11 @@
 <type>uri</type>
 <value>http://dbpedia.org/resource/Edmund_Husserl</value>
 </author>
+<name>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>Logical Investigations</value>
+</name>
 <published>
 <type>literal</type>
 <xml:lang>en</xml:lang>
@@ -114,6 +129,11 @@
 <type>uri</type>
 <value>http://dbpedia.org/resource/Edmund_Husserl</value>
 </author>
+<name>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>The Crisis of European Sciences and Transcendental Phenomenology: An Introduction to Phenomenological Philosophy</value>
+</name>
 <published>
 <type>literal</type>
 <xml:lang>en</xml:lang>

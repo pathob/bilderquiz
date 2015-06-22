@@ -35,6 +35,11 @@
 <type>uri</type>
 <value>http://dbpedia.org/resource/David_Foster_Wallace</value>
 </author>
+<name>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>Girl with Curious Hair</value>
+</name>
 <released>
 <type>literal</type>
 <xml:lang>en</xml:lang>
@@ -54,6 +59,11 @@
 <type>uri</type>
 <value>http://dbpedia.org/resource/David_Foster_Wallace</value>
 </author>
+<name>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>Infinite Jest</value>
+</name>
 <wikilink>
 <type>uri</type>
 <value>http://en.wikipedia.org/wiki/Infinite_Jest?oldid=606147730</value>
@@ -73,6 +83,11 @@
 <type>uri</type>
 <value>http://dbpedia.org/resource/David_Foster_Wallace</value>
 </author>
+<name>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>This Is Water</value>
+</name>
 <wikilink>
 <type>uri</type>
 <value>http://en.wikipedia.org/wiki/This_Is_Water?oldid=605403166</value>
@@ -92,6 +107,11 @@
 <type>uri</type>
 <value>http://dbpedia.org/resource/David_Foster_Wallace</value>
 </author>
+<name>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>Everything and More: A Compact History of Infinity</value>
+</name>
 <wikilink>
 <type>uri</type>
 <value>http://en.wikipedia.org/wiki/Everything_and_More_(book)?oldid=605542662</value>
@@ -111,6 +131,11 @@
 <type>uri</type>
 <value>http://dbpedia.org/resource/David_Foster_Wallace</value>
 </author>
+<name>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>The Pale King</value>
+</name>
 <wikilink>
 <type>uri</type>
 <value>http://en.wikipedia.org/wiki/The_Pale_King?oldid=605091671</value>
@@ -130,6 +155,11 @@
 <type>uri</type>
 <value>http://dbpedia.org/resource/David_Foster_Wallace</value>
 </author>
+<name>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>Signifying Rappers: Rap and Race in the Urban Present</value>
+</name>
 <wikilink>
 <type>uri</type>
 <value>http://en.wikipedia.org/wiki/Signifying_Rappers?oldid=605401695</value>
@@ -144,6 +174,11 @@
 <type>uri</type>
 <value>http://dbpedia.org/resource/David_Foster_Wallace</value>
 </author>
+<name>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>The Broom of the System</value>
+</name>
 <wikilink>
 <type>uri</type>
 <value>http://en.wikipedia.org/wiki/The_Broom_of_the_System?oldid=605352617</value>
@@ -158,6 +193,11 @@
 <type>uri</type>
 <value>http://dbpedia.org/resource/David_Foster_Wallace</value>
 </author>
+<name>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>Both Flesh and Not: Essays</value>
+</name>
 <wikilink>
 <type>uri</type>
 <value>http://en.wikipedia.org/wiki/Both_Flesh_and_Not?oldid=606254009</value>
@@ -172,6 +212,11 @@
 <type>uri</type>
 <value>http://dbpedia.org/resource/David_Foster_Wallace</value>
 </author>
+<name>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>Oblivion: Stories</value>
+</name>
 <wikilink>
 <type>uri</type>
 <value>http://en.wikipedia.org/wiki/Oblivion:_Stories?oldid=601529780</value>
@@ -186,6 +231,11 @@
 <type>uri</type>
 <value>http://dbpedia.org/resource/David_Foster_Wallace</value>
 </author>
+<name>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>A Supposedly Fun Thing I&apos;ll Never Do Again</value>
+</name>
 <wikilink>
 <type>uri</type>
 <value>http://en.wikipedia.org/wiki/A_Supposedly_Fun_Thing_I&apos;ll_Never_Do_Again?oldid=583317794</value>
@@ -200,6 +250,11 @@
 <type>uri</type>
 <value>http://dbpedia.org/resource/David_Foster_Wallace</value>
 </author>
+<name>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>Consider the Lobster</value>
+</name>
 <wikilink>
 <type>uri</type>
 <value>http://en.wikipedia.org/wiki/Consider_the_Lobster?oldid=544708374</value>
@@ -214,6 +269,11 @@
 <type>uri</type>
 <value>http://dbpedia.org/resource/David_Foster_Wallace</value>
 </author>
+<name>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>Brief Interviews with Hideous Men</value>
+</name>
 <wikilink>
 <type>uri</type>
 <value>http://en.wikipedia.org/wiki/Brief_Interviews_with_Hideous_Men?oldid=544729855</value>

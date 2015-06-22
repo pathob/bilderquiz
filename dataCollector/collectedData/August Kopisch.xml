@@ -31,6 +31,11 @@
 <type>uri</type>
 <value>http://dbpedia.org/resource/August_Kopisch</value>
 </author>
+<name>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>Entdeckung der blauen Grotte auf der Insel Capri</value>
+</name>
 <thumbnail>
 <type>uri</type>
 <value>http://commons.wikimedia.org/wiki/Special:FilePath/Jakob_Alt_-_Die_Blaue_Grotte_auf_der_Insel_Capri_-_1835-36.jpeg?width=300</value>

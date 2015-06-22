@@ -47,6 +47,11 @@
 <type>uri</type>
 <value>http://dbpedia.org/resource/Arthur_C._Clarke</value>
 </author>
+<name>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>The Last Theorem</value>
+</name>
 <thumbnail>
 <type>uri</type>
 <value>http://commons.wikimedia.org/wiki/Special:FilePath/Clarke_sm.jpg?width=300</value>
@@ -70,6 +75,11 @@
 <type>uri</type>
 <value>http://dbpedia.org/resource/Arthur_C._Clarke</value>
 </author>
+<name>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>Childhood&apos;s End</value>
+</name>
 <released>
 <type>typed-literal</type>
 <datatype>http://www.w3.org/2001/XMLSchema#integer</datatype>
@@ -94,6 +104,11 @@
 <type>uri</type>
 <value>http://dbpedia.org/resource/Arthur_C._Clarke</value>
 </author>
+<name>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>Rendezvous with Rama</value>
+</name>
 <released>
 <type>literal</type>
 <xml:lang>en</xml:lang>
@@ -118,6 +133,11 @@
 <type>uri</type>
 <value>http://dbpedia.org/resource/Arthur_C._Clarke</value>
 </author>
+<name>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>2061: Odyssey Three</value>
+</name>
 <released>
 <type>typed-literal</type>
 <datatype>http://www.w3.org/2001/XMLSchema#integer</datatype>
@@ -142,6 +162,11 @@
 <type>uri</type>
 <value>http://dbpedia.org/resource/Arthur_C._Clarke</value>
 </author>
+<name>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>3001: The Final Odyssey</value>
+</name>
 <released>
 <type>typed-literal</type>
 <datatype>http://www.w3.org/2001/XMLSchema#integer</datatype>
@@ -166,6 +191,11 @@
 <type>uri</type>
 <value>http://dbpedia.org/resource/Arthur_C._Clarke</value>
 </author>
+<name>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>The Garden of Rama</value>
+</name>
 <released>
 <type>typed-literal</type>
 <datatype>http://www.w3.org/2001/XMLSchema#date</datatype>
@@ -190,6 +220,11 @@
 <type>uri</type>
 <value>http://dbpedia.org/resource/Arthur_C._Clarke</value>
 </author>
+<name>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>Imperial Earth</value>
+</name>
 <released>
 <type>typed-literal</type>
 <datatype>http://www.w3.org/2001/XMLSchema#integer</datatype>
@@ -214,6 +249,11 @@
 <type>uri</type>
 <value>http://dbpedia.org/resource/Arthur_C._Clarke</value>
 </author>
+<name>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>The City and the Stars</value>
+</name>
 <released>
 <type>literal</type>
 <xml:lang>en</xml:lang>
@@ -238,6 +278,11 @@
 <type>uri</type>
 <value>http://dbpedia.org/resource/Arthur_C._Clarke</value>
 </author>
+<name>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>The Songs of Distant Earth</value>
+</name>
 <released>
 <type>typed-literal</type>
 <datatype>http://www.w3.org/2001/XMLSchema#integer</datatype>
@@ -262,6 +307,11 @@
 <type>uri</type>
 <value>http://dbpedia.org/resource/Arthur_C._Clarke</value>
 </author>
+<name>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>Prelude to Space</value>
+</name>
 <released>
 <type>typed-literal</type>
 <datatype>http://www.w3.org/2001/XMLSchema#integer</datatype>
@@ -286,6 +336,11 @@
 <type>uri</type>
 <value>http://dbpedia.org/resource/Arthur_C._Clarke</value>
 </author>
+<name>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>The Other Side of the Sky</value>
+</name>
 <released>
 <type>typed-literal</type>
 <datatype>http://www.w3.org/2001/XMLSchema#integer</datatype>
@@ -310,6 +365,11 @@
 <type>uri</type>
 <value>http://dbpedia.org/resource/Arthur_C._Clarke</value>
 </author>
+<name>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>Expedition to Earth</value>
+</name>
 <released>
 <type>typed-literal</type>
 <datatype>http://www.w3.org/2001/XMLSchema#integer</datatype>
@@ -334,6 +394,11 @@
 <type>uri</type>
 <value>http://dbpedia.org/resource/Arthur_C._Clarke</value>
 </author>
+<name>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>The Deep Range</value>
+</name>
 <released>
 <type>typed-literal</type>
 <datatype>http://www.w3.org/2001/XMLSchema#integer</datatype>
@@ -358,6 +423,11 @@
 <type>uri</type>
 <value>http://dbpedia.org/resource/Arthur_C._Clarke</value>
 </author>
+<name>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>Of Time and Stars</value>
+</name>
 <released>
 <type>typed-literal</type>
 <datatype>http://www.w3.org/2001/XMLSchema#integer</datatype>
@@ -377,6 +447,11 @@
 <type>uri</type>
 <value>http://dbpedia.org/resource/Arthur_C._Clarke</value>
 </author>
+<name>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>2010: Odyssey Two</value>
+</name>
 <released>
 <type>literal</type>
 <xml:lang>en</xml:lang>
@@ -396,6 +471,11 @@
 <type>uri</type>
 <value>http://dbpedia.org/resource/Arthur_C._Clarke</value>
 </author>
+<name>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>Firstborn</value>
+</name>
 <released>
 <type>typed-literal</type>
 <datatype>http://www.w3.org/2001/XMLSchema#date</datatype>
@@ -415,6 +495,11 @@
 <type>uri</type>
 <value>http://dbpedia.org/resource/Arthur_C._Clarke</value>
 </author>
+<name>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>Tales of Ten Worlds</value>
+</name>
 <released>
 <type>typed-literal</type>
 <datatype>http://www.w3.org/2001/XMLSchema#integer</datatype>
@@ -434,6 +519,11 @@
 <type>uri</type>
 <value>http://dbpedia.org/resource/Arthur_C._Clarke</value>
 </author>
+<name>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>An Encyclopedia of Claims, Frauds, and Hoaxes of the Occult and Supernatural</value>
+</name>
 <released>
 <type>typed-literal</type>
 <datatype>http://www.w3.org/2001/XMLSchema#integer</datatype>
@@ -453,6 +543,11 @@
 <type>uri</type>
 <value>http://dbpedia.org/resource/Arthur_C._Clarke</value>
 </author>
+<name>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>2001: A Space Odyssey</value>
+</name>
 <released>
 <type>typed-literal</type>
 <datatype>http://www.w3.org/2001/XMLSchema#integer</datatype>
@@ -472,6 +567,11 @@
 <type>uri</type>
 <value>http://dbpedia.org/resource/Arthur_C._Clarke</value>
 </author>
+<name>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>A Fall of Moondust</value>
+</name>
 <released>
 <type>typed-literal</type>
 <datatype>http://www.w3.org/2001/XMLSchema#integer</datatype>
@@ -491,6 +591,11 @@
 <type>uri</type>
 <value>http://dbpedia.org/resource/Arthur_C._Clarke</value>
 </author>
+<name>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>Rama Revealed</value>
+</name>
 <released>
 <type>typed-literal</type>
 <datatype>http://www.w3.org/2001/XMLSchema#date</datatype>
@@ -510,6 +615,11 @@
 <type>uri</type>
 <value>http://dbpedia.org/resource/Arthur_C._Clarke</value>
 </author>
+<name>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>Sunstorm</value>
+</name>
 <released>
 <type>typed-literal</type>
 <datatype>http://www.w3.org/2001/XMLSchema#date</datatype>
@@ -529,6 +639,11 @@
 <type>uri</type>
 <value>http://dbpedia.org/resource/Arthur_C._Clarke</value>
 </author>
+<name>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>The Trigger</value>
+</name>
 <released>
 <type>typed-literal</type>
 <datatype>http://www.w3.org/2001/XMLSchema#integer</datatype>
@@ -548,6 +663,11 @@
 <type>uri</type>
 <value>http://dbpedia.org/resource/Arthur_C._Clarke</value>
 </author>
+<name>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>Time&apos;s Eye</value>
+</name>
 <released>
 <type>typed-literal</type>
 <datatype>http://www.w3.org/2001/XMLSchema#date</datatype>
@@ -567,6 +687,11 @@
 <type>uri</type>
 <value>http://dbpedia.org/resource/Arthur_C._Clarke</value>
 </author>
+<name>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>The Sentinel</value>
+</name>
 <released>
 <type>typed-literal</type>
 <datatype>http://www.w3.org/2001/XMLSchema#integer</datatype>
@@ -586,6 +711,11 @@
 <type>uri</type>
 <value>http://dbpedia.org/resource/Arthur_C._Clarke</value>
 </author>
+<name>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>Earthlight</value>
+</name>
 <released>
 <type>typed-literal</type>
 <datatype>http://www.w3.org/2001/XMLSchema#integer</datatype>
@@ -605,6 +735,11 @@
 <type>uri</type>
 <value>http://dbpedia.org/resource/Arthur_C._Clarke</value>
 </author>
+<name>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>More Than One Universe: The Collected Stories of Arthur C. Clarke</value>
+</name>
 <released>
 <type>typed-literal</type>
 <datatype>http://www.w3.org/2001/XMLSchema#integer</datatype>
@@ -624,6 +759,11 @@
 <type>uri</type>
 <value>http://dbpedia.org/resource/Arthur_C._Clarke</value>
 </author>
+<name>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>The Best of Arthur C. Clarke: 1937-1971</value>
+</name>
 <released>
 <type>typed-literal</type>
 <datatype>http://www.w3.org/2001/XMLSchema#integer</datatype>
@@ -643,6 +783,11 @@
 <type>uri</type>
 <value>http://dbpedia.org/resource/Arthur_C._Clarke</value>
 </author>
+<name>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>Tales From Planet Earth</value>
+</name>
 <released>
 <type>typed-literal</type>
 <datatype>http://www.w3.org/2001/XMLSchema#integer</datatype>
@@ -662,6 +807,11 @@
 <type>uri</type>
 <value>http://dbpedia.org/resource/Arthur_C._Clarke</value>
 </author>
+<name>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>Glide Path</value>
+</name>
 <released>
 <type>typed-literal</type>
 <datatype>http://www.w3.org/2001/XMLSchema#integer</datatype>
@@ -681,6 +831,11 @@
 <type>uri</type>
 <value>http://dbpedia.org/resource/Arthur_C._Clarke</value>
 </author>
+<name>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>The Collected Stories of Arthur C. Clarke</value>
+</name>
 <released>
 <type>literal</type>
 <xml:lang>en</xml:lang>
@@ -700,6 +855,11 @@
 <type>uri</type>
 <value>http://dbpedia.org/resource/Arthur_C._Clarke</value>
 </author>
+<name>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>The Sands of Mars</value>
+</name>
 <released>
 <type>typed-literal</type>
 <datatype>http://www.w3.org/2001/XMLSchema#integer</datatype>
@@ -719,6 +879,11 @@
 <type>uri</type>
 <value>http://dbpedia.org/resource/Arthur_C._Clarke</value>
 </author>
+<name>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>The Nine Billion Names of God</value>
+</name>
 <released>
 <type>typed-literal</type>
 <datatype>http://www.w3.org/2001/XMLSchema#integer</datatype>
@@ -738,6 +903,11 @@
 <type>uri</type>
 <value>http://dbpedia.org/resource/Arthur_C._Clarke</value>
 </author>
+<name>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>Beyond the Fall of Night</value>
+</name>
 <released>
 <type>typed-literal</type>
 <datatype>http://www.w3.org/2001/XMLSchema#date</datatype>
@@ -757,6 +927,11 @@
 <type>uri</type>
 <value>http://dbpedia.org/resource/Arthur_C._Clarke</value>
 </author>
+<name>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>Against the Fall of Night</value>
+</name>
 <released>
 <type>typed-literal</type>
 <datatype>http://www.w3.org/2001/XMLSchema#integer</datatype>
@@ -776,6 +951,11 @@
 <type>uri</type>
 <value>http://dbpedia.org/resource/Arthur_C._Clarke</value>
 </author>
+<name>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>Rama II</value>
+</name>
 <released>
 <type>typed-literal</type>
 <datatype>http://www.w3.org/2001/XMLSchema#integer</datatype>
@@ -795,6 +975,11 @@
 <type>uri</type>
 <value>http://dbpedia.org/resource/Arthur_C._Clarke</value>
 </author>
+<name>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>The Case for Mars: The Plan to Settle the Red Planet and Why We Must</value>
+</name>
 <released>
 <type>typed-literal</type>
 <datatype>http://www.w3.org/2001/XMLSchema#integer</datatype>
@@ -814,6 +999,11 @@
 <type>uri</type>
 <value>http://dbpedia.org/resource/Arthur_C._Clarke</value>
 </author>
+<name>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>Dolphin Island</value>
+</name>
 <released>
 <type>typed-literal</type>
 <datatype>http://www.w3.org/2001/XMLSchema#integer</datatype>
@@ -833,6 +1023,11 @@
 <type>uri</type>
 <value>http://dbpedia.org/resource/Arthur_C._Clarke</value>
 </author>
+<name>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>The Wind from the Sun</value>
+</name>
 <released>
 <type>typed-literal</type>
 <datatype>http://www.w3.org/2001/XMLSchema#integer</datatype>
@@ -852,6 +1047,11 @@
 <type>uri</type>
 <value>http://dbpedia.org/resource/Arthur_C._Clarke</value>
 </author>
+<name>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>Islands in the Sky</value>
+</name>
 <released>
 <type>typed-literal</type>
 <datatype>http://www.w3.org/2001/XMLSchema#integer</datatype>
@@ -871,6 +1071,11 @@
 <type>uri</type>
 <value>http://dbpedia.org/resource/Arthur_C._Clarke</value>
 </author>
+<name>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>Cradle</value>
+</name>
 <released>
 <type>typed-literal</type>
 <datatype>http://www.w3.org/2001/XMLSchema#integer</datatype>
@@ -890,6 +1095,11 @@
 <type>uri</type>
 <value>http://dbpedia.org/resource/Arthur_C._Clarke</value>
 </author>
+<name>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>The Light of Other Days</value>
+</name>
 <released>
 <type>typed-literal</type>
 <datatype>http://www.w3.org/2001/XMLSchema#date</datatype>
@@ -909,6 +1119,11 @@
 <type>uri</type>
 <value>http://dbpedia.org/resource/Arthur_C._Clarke</value>
 </author>
+<name>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>The Lion of Comarre &amp; Against the Fall of Night</value>
+</name>
 <released>
 <type>typed-literal</type>
 <datatype>http://www.w3.org/2001/XMLSchema#integer</datatype>
@@ -928,6 +1143,11 @@
 <type>uri</type>
 <value>http://dbpedia.org/resource/Arthur_C._Clarke</value>
 </author>
+<name>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>The Ghost from the Grand Banks</value>
+</name>
 <released>
 <type>typed-literal</type>
 <datatype>http://www.w3.org/2001/XMLSchema#integer</datatype>
@@ -947,6 +1167,11 @@
 <type>uri</type>
 <value>http://dbpedia.org/resource/Arthur_C._Clarke</value>
 </author>
+<name>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>Tales from the White Hart</value>
+</name>
 <released>
 <type>typed-literal</type>
 <datatype>http://www.w3.org/2001/XMLSchema#integer</datatype>
@@ -966,6 +1191,11 @@
 <type>uri</type>
 <value>http://dbpedia.org/resource/Arthur_C._Clarke</value>
 </author>
+<name>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>The Hammer of God</value>
+</name>
 <released>
 <type>typed-literal</type>
 <datatype>http://www.w3.org/2001/XMLSchema#integer</datatype>
@@ -985,6 +1215,11 @@
 <type>uri</type>
 <value>http://dbpedia.org/resource/Arthur_C._Clarke</value>
 </author>
+<name>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>Reach for Tomorrow</value>
+</name>
 <released>
 <type>typed-literal</type>
 <datatype>http://www.w3.org/2001/XMLSchema#integer</datatype>
@@ -1004,6 +1239,11 @@
 <type>uri</type>
 <value>http://dbpedia.org/resource/Arthur_C._Clarke</value>
 </author>
+<name>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>The Fountains of Paradise</value>
+</name>
 <wikilink>
 <type>uri</type>
 <value>http://en.wikipedia.org/wiki/The_Fountains_of_Paradise?oldid=578512364</value>
@@ -1023,6 +1263,11 @@
 <type>uri</type>
 <value>http://dbpedia.org/resource/Arthur_C._Clarke</value>
 </author>
+<name>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>Richter 10</value>
+</name>
 <wikilink>
 <type>uri</type>
 <value>http://en.wikipedia.org/wiki/Richter_10?oldid=573858871</value>
@@ -1037,6 +1282,11 @@
 <type>uri</type>
 <value>http://dbpedia.org/resource/Arthur_C._Clarke</value>
 </author>
+<name>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>Venture to the Moon</value>
+</name>
 <wikilink>
 <type>uri</type>
 <value>http://en.wikipedia.org/wiki/Venture_to_the_Moon?oldid=546118479</value>
@@ -1051,6 +1301,11 @@
 <type>uri</type>
 <value>http://dbpedia.org/resource/Arthur_C._Clarke</value>
 </author>
+<name>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>A Meeting with Medusa</value>
+</name>
 <wikilink>
 <type>uri</type>
 <value>http://en.wikipedia.org/wiki/A_Meeting_with_Medusa?oldid=605786938</value>

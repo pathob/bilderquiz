@@ -35,6 +35,11 @@
 <type>uri</type>
 <value>http://dbpedia.org/resource/Satyajit_Ray</value>
 </author>
+<name>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>Badshahi Angti</value>
+</name>
 <thumbnail>
 <type>uri</type>
 <value>http://en.wikipedia.org/wiki/Special:FilePath/Badshahi_Angti_Book_Ciover.jpg?width=300</value>
@@ -58,6 +63,11 @@
 <type>uri</type>
 <value>http://dbpedia.org/resource/Satyajit_Ray</value>
 </author>
+<name>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>Sonar Kella</value>
+</name>
 <released>
 <type>typed-literal</type>
 <datatype>http://www.w3.org/2001/XMLSchema#integer</datatype>
@@ -82,6 +92,11 @@
 <type>uri</type>
 <value>http://dbpedia.org/resource/Satyajit_Ray</value>
 </author>
+<name>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>Professor Shonku</value>
+</name>
 <released>
 <type>typed-literal</type>
 <datatype>http://www.w3.org/2001/XMLSchema#integer</datatype>
@@ -101,6 +116,11 @@
 <type>uri</type>
 <value>http://dbpedia.org/resource/Satyajit_Ray</value>
 </author>
+<name>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>Bhuswargo Bhayankar ( Peril in Paradise )</value>
+</name>
 <released>
 <type>typed-literal</type>
 <datatype>http://www.w3.org/2001/XMLSchema#integer</datatype>
@@ -120,6 +140,11 @@
 <type>uri</type>
 <value>http://dbpedia.org/resource/Satyajit_Ray</value>
 </author>
+<name>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>Gangtokey Gondogol</value>
+</name>
 <published>
 <type>typed-literal</type>
 <datatype>http://www.w3.org/2001/XMLSchema#integer</datatype>
@@ -139,6 +164,11 @@
 <type>uri</type>
 <value>http://dbpedia.org/resource/Satyajit_Ray</value>
 </author>
+<name>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>Kailashey Kelenkari</value>
+</name>
 <wikilink>
 <type>uri</type>
 <value>http://en.wikipedia.org/wiki/Kailashey_Kelenkari_(novel)?oldid=564932290</value>
@@ -153,6 +183,11 @@
 <type>uri</type>
 <value>http://dbpedia.org/resource/Satyajit_Ray</value>
 </author>
+<name>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>Selam Professor Shonku</value>
+</name>
 <wikilink>
 <type>uri</type>
 <value>http://en.wikipedia.org/wiki/Selam_Professor_Shonku?oldid=595667298</value>
@@ -167,6 +202,11 @@
 <type>uri</type>
 <value>http://dbpedia.org/resource/Satyajit_Ray</value>
 </author>
+<name>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>Tintorettor Jishu</value>
+</name>
 <wikilink>
 <type>uri</type>
 <value>http://en.wikipedia.org/wiki/Tintorettor_Jishu?oldid=564985837</value>
@@ -181,6 +221,11 @@
 <type>uri</type>
 <value>http://dbpedia.org/resource/Satyajit_Ray</value>
 </author>
+<name>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>Golokdham Rahasya</value>
+</name>
 <wikilink>
 <type>uri</type>
 <value>http://en.wikipedia.org/wiki/Golokdham_Rahasya?oldid=580036488</value>
@@ -195,6 +240,11 @@
 <type>uri</type>
 <value>http://dbpedia.org/resource/Satyajit_Ray</value>
 </author>
+<name>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>Shabash Professor Shonku</value>
+</name>
 <wikilink>
 <type>uri</type>
 <value>http://en.wikipedia.org/wiki/Shabash_Professor_Shonku?oldid=557205724</value>
@@ -209,6 +259,11 @@
 <type>uri</type>
 <value>http://dbpedia.org/resource/Satyajit_Ray</value>
 </author>
+<name>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>Mahasankatey Shonku</value>
+</name>
 <wikilink>
 <type>uri</type>
 <value>http://en.wikipedia.org/wiki/Mahasankatey_Shonku?oldid=548930733</value>
@@ -223,6 +278,11 @@
 <type>uri</type>
 <value>http://dbpedia.org/resource/Satyajit_Ray</value>
 </author>
+<name>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>Professor Shonkur Kandokarkhana</value>
+</name>
 <wikilink>
 <type>uri</type>
 <value>http://en.wikipedia.org/wiki/Professor_Shonkur_Kandokarkhana?oldid=559405355</value>
@@ -237,6 +297,11 @@
 <type>uri</type>
 <value>http://dbpedia.org/resource/Satyajit_Ray</value>
 </author>
+<name>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>Shonku Ekai Aksho</value>
+</name>
 <wikilink>
 <type>uri</type>
 <value>http://en.wikipedia.org/wiki/Shonku_Ekai_Aksho?oldid=593422431</value>
@@ -251,6 +316,11 @@
 <type>uri</type>
 <value>http://dbpedia.org/resource/Satyajit_Ray</value>
 </author>
+<name>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>Chhinnamastar Abhishap</value>
+</name>
 <wikilink>
 <type>uri</type>
 <value>http://en.wikipedia.org/wiki/Chhinnamastar_Abhishap?oldid=558292428</value>
@@ -265,6 +335,11 @@
 <type>uri</type>
 <value>http://dbpedia.org/resource/Satyajit_Ray</value>
 </author>
+<name>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>Swayang Professor Shonku</value>
+</name>
 <wikilink>
 <type>uri</type>
 <value>http://en.wikipedia.org/wiki/Swayang_Professor_Shonku?oldid=544930250</value>
@@ -279,6 +354,11 @@
 <type>uri</type>
 <value>http://dbpedia.org/resource/Satyajit_Ray</value>
 </author>
+<name>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>Punashcha Professor Shonku</value>
+</name>
 <wikilink>
 <type>uri</type>
 <value>http://en.wikipedia.org/wiki/Punashcha_Professor_Shonku?oldid=595507613</value>

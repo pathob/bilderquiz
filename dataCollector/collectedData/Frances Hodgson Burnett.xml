@@ -47,6 +47,11 @@
 <type>uri</type>
 <value>http://dbpedia.org/resource/Frances_Hodgson_Burnett</value>
 </author>
+<name>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>A Little Princess</value>
+</name>
 <thumbnail>
 <type>uri</type>
 <value>http://commons.wikimedia.org/wiki/Special:FilePath/A_Little_Princess_cover.jpg?width=300</value>
@@ -75,6 +80,11 @@
 <type>uri</type>
 <value>http://dbpedia.org/resource/Frances_Hodgson_Burnett</value>
 </author>
+<name>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>The Lost Prince</value>
+</name>
 <thumbnail>
 <type>uri</type>
 <value>http://commons.wikimedia.org/wiki/Special:FilePath/The_Lost_Prince_Century_Co.jpg?width=300</value>
@@ -98,6 +108,11 @@
 <type>uri</type>
 <value>http://dbpedia.org/resource/Frances_Hodgson_Burnett</value>
 </author>
+<name>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>The Head of the House of Coombe</value>
+</name>
 <thumbnail>
 <type>uri</type>
 <value>http://commons.wikimedia.org/wiki/Special:FilePath/The_Head_of_the_House_of_Coombe.jpg?width=300</value>
@@ -121,6 +136,11 @@
 <type>uri</type>
 <value>http://dbpedia.org/resource/Frances_Hodgson_Burnett</value>
 </author>
+<name>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>Little Lord Fauntleroy</value>
+</name>
 <thumbnail>
 <type>uri</type>
 <value>http://en.wikipedia.org/wiki/Special:FilePath/MaryPickford4.jpg?width=300</value>

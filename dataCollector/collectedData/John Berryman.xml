@@ -33,6 +33,11 @@
 <type>uri</type>
 <value>http://dbpedia.org/resource/John_Berryman</value>
 </author>
+<name>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>The Dream Songs</value>
+</name>
 <wikilink>
 <type>uri</type>
 <value>http://en.wikipedia.org/wiki/The_Dream_Songs?oldid=591459037</value>

@@ -34,6 +34,11 @@
 <type>uri</type>
 <value>http://dbpedia.org/resource/Roald_Dahl</value>
 </author>
+<name>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>The Gremlins</value>
+</name>
 <thumbnail>
 <type>uri</type>
 <value>http://commons.wikimedia.org/wiki/Special:FilePath/Roald_Dahl.jpg?width=300</value>
@@ -57,6 +62,11 @@
 <type>uri</type>
 <value>http://dbpedia.org/resource/Roald_Dahl</value>
 </author>
+<name>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>Charlie and the Chocolate Factory</value>
+</name>
 <released>
 <type>literal</type>
 <xml:lang>en</xml:lang>
@@ -82,6 +92,11 @@
 <type>uri</type>
 <value>http://dbpedia.org/resource/Roald_Dahl</value>
 </author>
+<name>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>Charlie and the Great Glass Elevator</value>
+</name>
 <released>
 <type>typed-literal</type>
 <datatype>http://www.w3.org/2001/XMLSchema#integer</datatype>
@@ -106,6 +121,11 @@
 <type>uri</type>
 <value>http://dbpedia.org/resource/Roald_Dahl</value>
 </author>
+<name>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>My Uncle Oswald</value>
+</name>
 <released>
 <type>literal</type>
 <xml:lang>en</xml:lang>
@@ -130,6 +150,11 @@
 <type>uri</type>
 <value>http://dbpedia.org/resource/Roald_Dahl</value>
 </author>
+<name>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>Fantastic Mr. Fox</value>
+</name>
 <released>
 <type>typed-literal</type>
 <datatype>http://www.w3.org/2001/XMLSchema#integer</datatype>
@@ -154,6 +179,11 @@
 <type>uri</type>
 <value>http://dbpedia.org/resource/Roald_Dahl</value>
 </author>
+<name>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>James and the Giant Peach</value>
+</name>
 <released>
 <type>typed-literal</type>
 <datatype>http://www.w3.org/2001/XMLSchema#integer</datatype>
@@ -178,6 +208,11 @@
 <type>uri</type>
 <value>http://dbpedia.org/resource/Roald_Dahl</value>
 </author>
+<name>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>The BFG</value>
+</name>
 <released>
 <type>typed-literal</type>
 <datatype>http://www.w3.org/2001/XMLSchema#integer</datatype>
@@ -202,6 +237,11 @@
 <type>uri</type>
 <value>http://dbpedia.org/resource/Roald_Dahl</value>
 </author>
+<name>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>Danny the Champion of the World</value>
+</name>
 <released>
 <type>typed-literal</type>
 <datatype>http://www.w3.org/2001/XMLSchema#integer</datatype>
@@ -226,6 +266,11 @@
 <type>uri</type>
 <value>http://dbpedia.org/resource/Roald_Dahl</value>
 </author>
+<name>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>Some Time Never: A Fable for Supermen</value>
+</name>
 <released>
 <type>typed-literal</type>
 <datatype>http://www.w3.org/2001/XMLSchema#integer</datatype>
@@ -245,6 +290,11 @@
 <type>uri</type>
 <value>http://dbpedia.org/resource/Roald_Dahl</value>
 </author>
+<name>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>My Year</value>
+</name>
 <released>
 <type>typed-literal</type>
 <datatype>http://www.w3.org/2001/XMLSchema#integer</datatype>
@@ -264,6 +314,11 @@
 <type>uri</type>
 <value>http://dbpedia.org/resource/Roald_Dahl</value>
 </author>
+<name>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>Roald Dahl: Collected Stories</value>
+</name>
 <released>
 <type>literal</type>
 <xml:lang>en</xml:lang>
@@ -283,6 +338,11 @@
 <type>uri</type>
 <value>http://dbpedia.org/resource/Roald_Dahl</value>
 </author>
+<name>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>Kiss Kiss</value>
+</name>
 <released>
 <type>typed-literal</type>
 <datatype>http://www.w3.org/2001/XMLSchema#integer</datatype>
@@ -302,6 +362,11 @@
 <type>uri</type>
 <value>http://dbpedia.org/resource/Roald_Dahl</value>
 </author>
+<name>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>Roald Dahl&apos;s Guide to Railway Safety</value>
+</name>
 <released>
 <type>typed-literal</type>
 <datatype>http://www.w3.org/2001/XMLSchema#integer</datatype>
@@ -321,6 +386,11 @@
 <type>uri</type>
 <value>http://dbpedia.org/resource/Roald_Dahl</value>
 </author>
+<name>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>The Minpins</value>
+</name>
 <released>
 <type>typed-literal</type>
 <datatype>http://www.w3.org/2001/XMLSchema#integer</datatype>
@@ -340,6 +410,11 @@
 <type>uri</type>
 <value>http://dbpedia.org/resource/Roald_Dahl</value>
 </author>
+<name>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>Esio Trot</value>
+</name>
 <released>
 <type>typed-literal</type>
 <datatype>http://www.w3.org/2001/XMLSchema#integer</datatype>
@@ -359,6 +434,11 @@
 <type>uri</type>
 <value>http://dbpedia.org/resource/Roald_Dahl</value>
 </author>
+<name>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>The Vicar of Nibbleswicke</value>
+</name>
 <released>
 <type>literal</type>
 <xml:lang>en</xml:lang>
@@ -378,6 +458,11 @@
 <type>uri</type>
 <value>http://dbpedia.org/resource/Roald_Dahl</value>
 </author>
+<name>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>Someone Like You</value>
+</name>
 <released>
 <type>typed-literal</type>
 <datatype>http://www.w3.org/2001/XMLSchema#integer</datatype>
@@ -397,6 +482,11 @@
 <type>uri</type>
 <value>http://dbpedia.org/resource/Roald_Dahl</value>
 </author>
+<name>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>Two Fables</value>
+</name>
 <released>
 <type>typed-literal</type>
 <datatype>http://www.w3.org/2001/XMLSchema#integer</datatype>
@@ -416,6 +506,11 @@
 <type>uri</type>
 <value>http://dbpedia.org/resource/Roald_Dahl</value>
 </author>
+<name>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>Rhyme Stew</value>
+</name>
 <released>
 <type>typed-literal</type>
 <datatype>http://www.w3.org/2001/XMLSchema#integer</datatype>
@@ -435,6 +530,11 @@
 <type>uri</type>
 <value>http://dbpedia.org/resource/Roald_Dahl</value>
 </author>
+<name>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>Memories with Food At Gipsy House</value>
+</name>
 <released>
 <type>typed-literal</type>
 <datatype>http://www.w3.org/2001/XMLSchema#integer</datatype>
@@ -454,6 +554,11 @@
 <type>uri</type>
 <value>http://dbpedia.org/resource/Roald_Dahl</value>
 </author>
+<name>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>Matilda</value>
+</name>
 <published>
 <type>typed-literal</type>
 <datatype>http://www.w3.org/2001/XMLSchema#date</datatype>
@@ -478,6 +583,11 @@
 <type>uri</type>
 <value>http://dbpedia.org/resource/Roald_Dahl</value>
 </author>
+<name>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>More Tales of the Unexpected</value>
+</name>
 <published>
 <type>uri</type>
 <value>http://dbpedia.org/resource/Penguin_Books</value>
@@ -496,6 +606,11 @@
 <type>uri</type>
 <value>http://dbpedia.org/resource/Roald_Dahl</value>
 </author>
+<name>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>The Witches</value>
+</name>
 <wikilink>
 <type>uri</type>
 <value>http://en.wikipedia.org/wiki/The_Witches_(book)?oldid=606650550</value>
@@ -515,6 +630,11 @@
 <type>uri</type>
 <value>http://dbpedia.org/resource/Roald_Dahl</value>
 </author>
+<name>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>The Enormous Crocodile</value>
+</name>
 <wikilink>
 <type>uri</type>
 <value>http://en.wikipedia.org/wiki/The_Enormous_Crocodile?oldid=592853939</value>
@@ -534,6 +654,11 @@
 <type>uri</type>
 <value>http://dbpedia.org/resource/Roald_Dahl</value>
 </author>
+<name>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>THE TWITS</value>
+</name>
 <wikilink>
 <type>uri</type>
 <value>http://en.wikipedia.org/wiki/The_Twits?oldid=606184842</value>
@@ -553,6 +678,11 @@
 <type>uri</type>
 <value>http://dbpedia.org/resource/Roald_Dahl</value>
 </author>
+<name>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>The Roald Dahl Omnibus</value>
+</name>
 <wikilink>
 <type>uri</type>
 <value>http://en.wikipedia.org/wiki/The_Roald_Dahl_Omnibus?oldid=432984449</value>
@@ -567,6 +697,11 @@
 <type>uri</type>
 <value>http://dbpedia.org/resource/Roald_Dahl</value>
 </author>
+<name>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>Roald Dahl&apos;s Book of Ghost Stories</value>
+</name>
 <wikilink>
 <type>uri</type>
 <value>http://en.wikipedia.org/wiki/Roald_Dahl&apos;s_Book_of_Ghost_Stories?oldid=572640173</value>
@@ -581,6 +716,11 @@
 <type>uri</type>
 <value>http://dbpedia.org/resource/Roald_Dahl</value>
 </author>
+<name>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>Tales of the Unexpected</value>
+</name>
 <wikilink>
 <type>uri</type>
 <value>http://en.wikipedia.org/wiki/Tales_of_the_Unexpected_(book)?oldid=601647251</value>
@@ -595,6 +735,11 @@
 <type>uri</type>
 <value>http://dbpedia.org/resource/Roald_Dahl</value>
 </author>
+<name>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>Twenty-Nine Kisses from Roald Dahl</value>
+</name>
 <wikilink>
 <type>uri</type>
 <value>http://en.wikipedia.org/wiki/Twenty-Nine_Kisses_from_Roald_Dahl?oldid=587748345</value>
@@ -609,6 +754,11 @@
 <type>uri</type>
 <value>http://dbpedia.org/resource/Roald_Dahl</value>
 </author>
+<name>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>Switch Bitch</value>
+</name>
 <wikilink>
 <type>uri</type>
 <value>http://en.wikipedia.org/wiki/Switch_Bitch?oldid=601634128</value>
@@ -623,6 +773,11 @@
 <type>uri</type>
 <value>http://dbpedia.org/resource/Roald_Dahl</value>
 </author>
+<name>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>George&apos;s Marvellous Medicine</value>
+</name>
 <wikilink>
 <type>uri</type>
 <value>http://en.wikipedia.org/wiki/George&apos;s_Marvellous_Medicine?oldid=589100771</value>
@@ -637,6 +792,11 @@
 <type>uri</type>
 <value>http://dbpedia.org/resource/Roald_Dahl</value>
 </author>
+<name>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>The Wonderful Story of Henry Sugar and Six More</value>
+</name>
 <wikilink>
 <type>uri</type>
 <value>http://en.wikipedia.org/wiki/The_Wonderful_Story_of_Henry_Sugar_and_Six_More?oldid=606228118</value>
@@ -651,6 +811,11 @@
 <type>uri</type>
 <value>http://dbpedia.org/resource/Roald_Dahl</value>
 </author>
+<name>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>The Collected Short Stories of Roald Dahl</value>
+</name>
 <wikilink>
 <type>uri</type>
 <value>http://en.wikipedia.org/wiki/The_Collected_Short_Stories_of_Roald_Dahl?oldid=561256509</value>
@@ -665,6 +830,11 @@
 <type>uri</type>
 <value>http://dbpedia.org/resource/Roald_Dahl</value>
 </author>
+<name>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>Ah, Sweet Mystery of Life: The Country Stories of Roald Dahl</value>
+</name>
 <wikilink>
 <type>uri</type>
 <value>http://en.wikipedia.org/wiki/Ah,_Sweet_Mystery_of_Life:_The_Country_Stories_of_Roald_Dahl?oldid=582518847</value>

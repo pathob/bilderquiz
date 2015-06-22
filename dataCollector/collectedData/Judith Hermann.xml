@@ -55,6 +55,11 @@
 <type>uri</type>
 <value>http://dbpedia.org/resource/Judith_Hermann</value>
 </author>
+<name>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>Alice</value>
+</name>
 <wikilink>
 <type>uri</type>
 <value>http://en.wikipedia.org/wiki/Alice_(Hermann_book)?oldid=566794253</value>

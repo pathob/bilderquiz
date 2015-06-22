@@ -50,6 +50,11 @@
 <type>uri</type>
 <value>http://dbpedia.org/resource/Gustave_Flaubert</value>
 </author>
+<name>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>Madame Bovary</value>
+</name>
 <thumbnail>
 <type>uri</type>
 <value>http://commons.wikimedia.org/wiki/Special:FilePath/Madame_Bovary_1857_(hi-res).jpg?width=300</value>
@@ -78,6 +83,11 @@
 <type>uri</type>
 <value>http://dbpedia.org/resource/Gustave_Flaubert</value>
 </author>
+<name>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>La Tentation de Saint Antoine</value>
+</name>
 <thumbnail>
 <type>uri</type>
 <value>http://commons.wikimedia.org/wiki/Special:FilePath/The_Temptation_cover_(1895).jpg?width=300</value>
@@ -106,6 +116,11 @@
 <type>uri</type>
 <value>http://dbpedia.org/resource/Gustave_Flaubert</value>
 </author>
+<name>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>L&apos;Education sentimentale</value>
+</name>
 <thumbnail>
 <type>uri</type>
 <value>http://commons.wikimedia.org/wiki/Special:FilePath/Education_sentimentale_flaubert.jpg?width=300</value>
@@ -129,6 +144,11 @@
 <type>uri</type>
 <value>http://dbpedia.org/resource/Gustave_Flaubert</value>
 </author>
+<name>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>Bouvard et Pécuchet</value>
+</name>
 <released>
 <type>typed-literal</type>
 <datatype>http://www.w3.org/2001/XMLSchema#integer</datatype>

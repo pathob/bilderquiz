@@ -36,6 +36,11 @@
 <type>uri</type>
 <value>http://dbpedia.org/resource/Thomas_Wolfe</value>
 </author>
+<name>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>You Can&apos;t Go Home Again</value>
+</name>
 <published>
 <type>literal</type>
 <xml:lang>en</xml:lang>

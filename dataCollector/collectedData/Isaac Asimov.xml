@@ -33,6 +33,11 @@
 <type>uri</type>
 <value>http://dbpedia.org/resource/Isaac_Asimov</value>
 </author>
+<name>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>I, Robot</value>
+</name>
 <released>
 <type>typed-literal</type>
 <datatype>http://www.w3.org/2001/XMLSchema#date</datatype>
@@ -57,6 +62,11 @@
 <type>uri</type>
 <value>http://dbpedia.org/resource/Isaac_Asimov</value>
 </author>
+<name>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>The Caves of Steel</value>
+</name>
 <released>
 <type>literal</type>
 <xml:lang>en</xml:lang>
@@ -81,6 +91,11 @@
 <type>uri</type>
 <value>http://dbpedia.org/resource/Isaac_Asimov</value>
 </author>
+<name>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>The Robots of Dawn</value>
+</name>
 <released>
 <type>typed-literal</type>
 <datatype>http://www.w3.org/2001/XMLSchema#integer</datatype>
@@ -105,6 +120,11 @@
 <type>uri</type>
 <value>http://dbpedia.org/resource/Isaac_Asimov</value>
 </author>
+<name>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>The Union Club Mysteries</value>
+</name>
 <released>
 <type>typed-literal</type>
 <datatype>http://www.w3.org/2001/XMLSchema#integer</datatype>
@@ -124,6 +144,11 @@
 <type>uri</type>
 <value>http://dbpedia.org/resource/Isaac_Asimov</value>
 </author>
+<name>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>The Edge of Tomorrow</value>
+</name>
 <released>
 <type>typed-literal</type>
 <datatype>http://www.w3.org/2001/XMLSchema#integer</datatype>
@@ -143,6 +168,11 @@
 <type>uri</type>
 <value>http://dbpedia.org/resource/Isaac_Asimov</value>
 </author>
+<name>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>The Best Mysteries of Isaac Asimov</value>
+</name>
 <released>
 <type>typed-literal</type>
 <datatype>http://www.w3.org/2001/XMLSchema#integer</datatype>
@@ -162,6 +192,11 @@
 <type>uri</type>
 <value>http://dbpedia.org/resource/Isaac_Asimov</value>
 </author>
+<name>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>Foundation and Earth</value>
+</name>
 <released>
 <type>typed-literal</type>
 <datatype>http://www.w3.org/2001/XMLSchema#integer</datatype>
@@ -181,6 +216,11 @@
 <type>uri</type>
 <value>http://dbpedia.org/resource/Isaac_Asimov</value>
 </author>
+<name>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>More Tales of the Black Widowers</value>
+</name>
 <released>
 <type>typed-literal</type>
 <datatype>http://www.w3.org/2001/XMLSchema#integer</datatype>
@@ -200,6 +240,11 @@
 <type>uri</type>
 <value>http://dbpedia.org/resource/Isaac_Asimov</value>
 </author>
+<name>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>Adding a Dimension</value>
+</name>
 <released>
 <type>typed-literal</type>
 <datatype>http://www.w3.org/2001/XMLSchema#date</datatype>
@@ -219,6 +264,11 @@
 <type>uri</type>
 <value>http://dbpedia.org/resource/Isaac_Asimov</value>
 </author>
+<name>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>Only a Trillion</value>
+</name>
 <released>
 <type>typed-literal</type>
 <datatype>http://www.w3.org/2001/XMLSchema#integer</datatype>
@@ -238,6 +288,11 @@
 <type>uri</type>
 <value>http://dbpedia.org/resource/Isaac_Asimov</value>
 </author>
+<name>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>Opus 100</value>
+</name>
 <released>
 <type>typed-literal</type>
 <datatype>http://www.w3.org/2001/XMLSchema#integer</datatype>
@@ -257,6 +312,11 @@
 <type>uri</type>
 <value>http://dbpedia.org/resource/Isaac_Asimov</value>
 </author>
+<name>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>Banquets of the Black Widowers</value>
+</name>
 <released>
 <type>typed-literal</type>
 <datatype>http://www.w3.org/2001/XMLSchema#integer</datatype>
@@ -276,6 +336,11 @@
 <type>uri</type>
 <value>http://dbpedia.org/resource/Isaac_Asimov</value>
 </author>
+<name>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>Casebook of the Black Widowers</value>
+</name>
 <released>
 <type>typed-literal</type>
 <datatype>http://www.w3.org/2001/XMLSchema#integer</datatype>
@@ -295,6 +360,11 @@
 <type>uri</type>
 <value>http://dbpedia.org/resource/Isaac_Asimov</value>
 </author>
+<name>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>The Return of the Black Widowers</value>
+</name>
 <released>
 <type>typed-literal</type>
 <datatype>http://www.w3.org/2001/XMLSchema#integer</datatype>
@@ -314,6 +384,11 @@
 <type>uri</type>
 <value>http://dbpedia.org/resource/Isaac_Asimov</value>
 </author>
+<name>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>Murder at the ABA</value>
+</name>
 <released>
 <type>typed-literal</type>
 <datatype>http://www.w3.org/2001/XMLSchema#integer</datatype>
@@ -333,6 +408,11 @@
 <type>uri</type>
 <value>http://dbpedia.org/resource/Isaac_Asimov</value>
 </author>
+<name>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>The Naked Sun</value>
+</name>
 <released>
 <type>literal</type>
 <xml:lang>en</xml:lang>
@@ -352,6 +432,11 @@
 <type>uri</type>
 <value>http://dbpedia.org/resource/Isaac_Asimov</value>
 </author>
+<name>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>Asimov&apos;s Biographical Encyclopedia of Science and Technology</value>
+</name>
 <released>
 <type>typed-literal</type>
 <datatype>http://www.w3.org/2001/XMLSchema#integer</datatype>
@@ -371,6 +456,11 @@
 <type>uri</type>
 <value>http://dbpedia.org/resource/Isaac_Asimov</value>
 </author>
+<name>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>Through a Glass, Clearly</value>
+</name>
 <released>
 <type>typed-literal</type>
 <datatype>http://www.w3.org/2001/XMLSchema#integer</datatype>
@@ -390,6 +480,11 @@
 <type>uri</type>
 <value>http://dbpedia.org/resource/Isaac_Asimov</value>
 </author>
+<name>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>The Stars in their Courses</value>
+</name>
 <released>
 <type>typed-literal</type>
 <datatype>http://www.w3.org/2001/XMLSchema#integer</datatype>
@@ -409,6 +504,11 @@
 <type>uri</type>
 <value>http://dbpedia.org/resource/Isaac_Asimov</value>
 </author>
+<name>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>Nine Tomorrows</value>
+</name>
 <released>
 <type>typed-literal</type>
 <datatype>http://www.w3.org/2001/XMLSchema#integer</datatype>
@@ -428,6 +528,11 @@
 <type>uri</type>
 <value>http://dbpedia.org/resource/Isaac_Asimov</value>
 </author>
+<name>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>Fact and Fancy</value>
+</name>
 <released>
 <type>literal</type>
 <xml:lang>en</xml:lang>
@@ -447,6 +552,11 @@
 <type>uri</type>
 <value>http://dbpedia.org/resource/Isaac_Asimov</value>
 </author>
+<name>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>The Martian Way and Other Stories</value>
+</name>
 <released>
 <type>typed-literal</type>
 <datatype>http://www.w3.org/2001/XMLSchema#integer</datatype>
@@ -466,6 +576,11 @@
 <type>uri</type>
 <value>http://dbpedia.org/resource/Isaac_Asimov</value>
 </author>
+<name>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>Foundation</value>
+</name>
 <released>
 <type>typed-literal</type>
 <datatype>http://www.w3.org/2001/XMLSchema#integer</datatype>
@@ -485,6 +600,11 @@
 <type>uri</type>
 <value>http://dbpedia.org/resource/Isaac_Asimov</value>
 </author>
+<name>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>Foundation and Empire</value>
+</name>
 <released>
 <type>typed-literal</type>
 <datatype>http://www.w3.org/2001/XMLSchema#integer</datatype>
@@ -504,6 +624,11 @@
 <type>uri</type>
 <value>http://dbpedia.org/resource/Isaac_Asimov</value>
 </author>
+<name>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>Robots and Empire</value>
+</name>
 <released>
 <type>typed-literal</type>
 <datatype>http://www.w3.org/2001/XMLSchema#date</datatype>
@@ -523,6 +648,11 @@
 <type>uri</type>
 <value>http://dbpedia.org/resource/Isaac_Asimov</value>
 </author>
+<name>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>Second Foundation</value>
+</name>
 <released>
 <type>typed-literal</type>
 <datatype>http://www.w3.org/2001/XMLSchema#integer</datatype>
@@ -542,6 +672,11 @@
 <type>uri</type>
 <value>http://dbpedia.org/resource/Isaac_Asimov</value>
 </author>
+<name>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>The Gods Themselves</value>
+</name>
 <released>
 <type>typed-literal</type>
 <datatype>http://www.w3.org/2001/XMLSchema#integer</datatype>
@@ -561,6 +696,11 @@
 <type>uri</type>
 <value>http://dbpedia.org/resource/Isaac_Asimov</value>
 </author>
+<name>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>Puzzles of the Black Widowers</value>
+</name>
 <released>
 <type>typed-literal</type>
 <datatype>http://www.w3.org/2001/XMLSchema#integer</datatype>
@@ -580,6 +720,11 @@
 <type>uri</type>
 <value>http://dbpedia.org/resource/Isaac_Asimov</value>
 </author>
+<name>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>Pebble in the Sky</value>
+</name>
 <released>
 <type>typed-literal</type>
 <datatype>http://www.w3.org/2001/XMLSchema#date</datatype>
@@ -599,6 +744,11 @@
 <type>uri</type>
 <value>http://dbpedia.org/resource/Isaac_Asimov</value>
 </author>
+<name>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>The Currents of Space</value>
+</name>
 <released>
 <type>typed-literal</type>
 <datatype>http://www.w3.org/2001/XMLSchema#integer</datatype>
@@ -618,6 +768,11 @@
 <type>uri</type>
 <value>http://dbpedia.org/resource/Isaac_Asimov</value>
 </author>
+<name>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>The Rest of the Robots</value>
+</name>
 <released>
 <type>typed-literal</type>
 <datatype>http://www.w3.org/2001/XMLSchema#integer</datatype>
@@ -637,6 +792,11 @@
 <type>uri</type>
 <value>http://dbpedia.org/resource/Isaac_Asimov</value>
 </author>
+<name>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>The Stars, Like Dust</value>
+</name>
 <released>
 <type>typed-literal</type>
 <datatype>http://www.w3.org/2001/XMLSchema#integer</datatype>
@@ -656,6 +816,11 @@
 <type>uri</type>
 <value>http://dbpedia.org/resource/Isaac_Asimov</value>
 </author>
+<name>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>Asimov&apos;s Mysteries</value>
+</name>
 <released>
 <type>typed-literal</type>
 <datatype>http://www.w3.org/2001/XMLSchema#integer</datatype>
@@ -675,6 +840,11 @@
 <type>uri</type>
 <value>http://dbpedia.org/resource/Isaac_Asimov</value>
 </author>
+<name>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>The Planet That Wasn&apos;t</value>
+</name>
 <released>
 <type>typed-literal</type>
 <datatype>http://www.w3.org/2001/XMLSchema#integer</datatype>
@@ -694,6 +864,11 @@
 <type>uri</type>
 <value>http://dbpedia.org/resource/Isaac_Asimov</value>
 </author>
+<name>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>The Bicentennial Man and Other Stories</value>
+</name>
 <released>
 <type>literal</type>
 <xml:lang>en</xml:lang>
@@ -713,6 +888,11 @@
 <type>uri</type>
 <value>http://dbpedia.org/resource/Isaac_Asimov</value>
 </author>
+<name>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>Speculations</value>
+</name>
 <released>
 <type>typed-literal</type>
 <datatype>http://www.w3.org/2001/XMLSchema#integer</datatype>
@@ -732,6 +912,11 @@
 <type>uri</type>
 <value>http://dbpedia.org/resource/Isaac_Asimov</value>
 </author>
+<name>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>The Death Dealers</value>
+</name>
 <released>
 <type>typed-literal</type>
 <datatype>http://www.w3.org/2001/XMLSchema#integer</datatype>
@@ -751,6 +936,11 @@
 <type>uri</type>
 <value>http://dbpedia.org/resource/Isaac_Asimov</value>
 </author>
+<name>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>The Tales of the Black Widowers</value>
+</name>
 <released>
 <type>typed-literal</type>
 <datatype>http://www.w3.org/2001/XMLSchema#integer</datatype>
@@ -770,6 +960,11 @@
 <type>uri</type>
 <value>http://dbpedia.org/resource/Isaac_Asimov</value>
 </author>
+<name>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>Earth Is Room Enough</value>
+</name>
 <released>
 <type>literal</type>
 <xml:lang>en</xml:lang>
@@ -789,6 +984,11 @@
 <type>uri</type>
 <value>http://dbpedia.org/resource/Isaac_Asimov</value>
 </author>
+<name>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>The Early Asimov</value>
+</name>
 <released>
 <type>literal</type>
 <xml:lang>en</xml:lang>
@@ -808,6 +1008,11 @@
 <type>uri</type>
 <value>http://dbpedia.org/resource/Isaac_Asimov</value>
 </author>
+<name>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>David Starr, Space Ranger</value>
+</name>
 <released>
 <type>literal</type>
 <xml:lang>en</xml:lang>
@@ -827,6 +1032,11 @@
 <type>uri</type>
 <value>http://dbpedia.org/resource/Isaac_Asimov</value>
 </author>
+<name>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>Lucky Starr and the Big Sun of Mercury</value>
+</name>
 <released>
 <type>literal</type>
 <xml:lang>en</xml:lang>
@@ -846,6 +1056,11 @@
 <type>uri</type>
 <value>http://dbpedia.org/resource/Isaac_Asimov</value>
 </author>
+<name>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>Lucky Starr and the Moons of Jupiter</value>
+</name>
 <released>
 <type>literal</type>
 <xml:lang>en</xml:lang>
@@ -865,6 +1080,11 @@
 <type>uri</type>
 <value>http://dbpedia.org/resource/Isaac_Asimov</value>
 </author>
+<name>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>Lucky Starr and the Oceans of Venus</value>
+</name>
 <released>
 <type>typed-literal</type>
 <datatype>http://www.w3.org/2001/XMLSchema#integer</datatype>
@@ -884,6 +1104,11 @@
 <type>uri</type>
 <value>http://dbpedia.org/resource/Isaac_Asimov</value>
 </author>
+<name>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>Lucky Starr and the Pirates of the Asteroids</value>
+</name>
 <released>
 <type>literal</type>
 <xml:lang>en</xml:lang>
@@ -903,6 +1128,11 @@
 <type>uri</type>
 <value>http://dbpedia.org/resource/Isaac_Asimov</value>
 </author>
+<name>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>Lucky Starr and the Rings of Saturn</value>
+</name>
 <released>
 <type>typed-literal</type>
 <datatype>http://www.w3.org/2001/XMLSchema#integer</datatype>
@@ -922,6 +1152,11 @@
 <type>uri</type>
 <value>http://dbpedia.org/resource/Isaac_Asimov</value>
 </author>
+<name>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>The Intelligent Man&apos;s Guide to Science</value>
+</name>
 <released>
 <type>literal</type>
 <xml:lang>en</xml:lang>
@@ -941,6 +1176,11 @@
 <type>uri</type>
 <value>http://dbpedia.org/resource/Isaac_Asimov</value>
 </author>
+<name>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>From Earth to Heaven</value>
+</name>
 <released>
 <type>typed-literal</type>
 <datatype>http://www.w3.org/2001/XMLSchema#integer</datatype>
@@ -960,6 +1200,11 @@
 <type>uri</type>
 <value>http://dbpedia.org/resource/Isaac_Asimov</value>
 </author>
+<name>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>Of Matters Great and Small</value>
+</name>
 <released>
 <type>typed-literal</type>
 <datatype>http://www.w3.org/2001/XMLSchema#integer</datatype>
@@ -979,6 +1224,11 @@
 <type>uri</type>
 <value>http://dbpedia.org/resource/Isaac_Asimov</value>
 </author>
+<name>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>Of Time and Space and Other Things</value>
+</name>
 <released>
 <type>typed-literal</type>
 <datatype>http://www.w3.org/2001/XMLSchema#integer</datatype>
@@ -998,6 +1248,11 @@
 <type>uri</type>
 <value>http://dbpedia.org/resource/Isaac_Asimov</value>
 </author>
+<name>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>Science, Numbers, and I</value>
+</name>
 <released>
 <type>typed-literal</type>
 <datatype>http://www.w3.org/2001/XMLSchema#integer</datatype>
@@ -1017,6 +1272,11 @@
 <type>uri</type>
 <value>http://dbpedia.org/resource/Isaac_Asimov</value>
 </author>
+<name>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>Nightfall</value>
+</name>
 <released>
 <type>typed-literal</type>
 <datatype>http://www.w3.org/2001/XMLSchema#integer</datatype>
@@ -1036,6 +1296,11 @@
 <type>uri</type>
 <value>http://dbpedia.org/resource/Isaac_Asimov</value>
 </author>
+<name>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>Extraterrestrial Civilizations</value>
+</name>
 <released>
 <type>typed-literal</type>
 <datatype>http://www.w3.org/2001/XMLSchema#integer</datatype>
@@ -1055,6 +1320,11 @@
 <type>uri</type>
 <value>http://dbpedia.org/resource/Isaac_Asimov</value>
 </author>
+<name>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>View from a Height</value>
+</name>
 <released>
 <type>typed-literal</type>
 <datatype>http://www.w3.org/2001/XMLSchema#date</datatype>
@@ -1074,6 +1344,11 @@
 <type>uri</type>
 <value>http://dbpedia.org/resource/Isaac_Asimov</value>
 </author>
+<name>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>The Key Word and Other Mysteries</value>
+</name>
 <released>
 <type>typed-literal</type>
 <datatype>http://www.w3.org/2001/XMLSchema#integer</datatype>
@@ -1093,6 +1368,11 @@
 <type>uri</type>
 <value>http://dbpedia.org/resource/Isaac_Asimov</value>
 </author>
+<name>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>The Hugo Winners</value>
+</name>
 <released>
 <type>typed-literal</type>
 <datatype>http://www.w3.org/2001/XMLSchema#integer</datatype>
@@ -1112,6 +1392,11 @@
 <type>uri</type>
 <value>http://dbpedia.org/resource/Isaac_Asimov</value>
 </author>
+<name>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>Before the Golden Age</value>
+</name>
 <released>
 <type>literal</type>
 <xml:lang>en</xml:lang>
@@ -1131,6 +1416,11 @@
 <type>uri</type>
 <value>http://dbpedia.org/resource/Isaac_Asimov</value>
 </author>
+<name>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>Asimov&apos;s Guide to Shakespeare</value>
+</name>
 <released>
 <type>typed-literal</type>
 <datatype>http://www.w3.org/2001/XMLSchema#integer</datatype>
@@ -1150,6 +1440,11 @@
 <type>uri</type>
 <value>http://dbpedia.org/resource/Isaac_Asimov</value>
 </author>
+<name>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>The Disappearing Man and Other Mysteries</value>
+</name>
 <released>
 <type>typed-literal</type>
 <datatype>http://www.w3.org/2001/XMLSchema#integer</datatype>
@@ -1169,6 +1464,11 @@
 <type>uri</type>
 <value>http://dbpedia.org/resource/Isaac_Asimov</value>
 </author>
+<name>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>The Asimov Chronicles: Fifty Years of Isaac Asimov</value>
+</name>
 <released>
 <type>literal</type>
 <xml:lang>en</xml:lang>
@@ -1188,6 +1488,11 @@
 <type>uri</type>
 <value>http://dbpedia.org/resource/Isaac_Asimov</value>
 </author>
+<name>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>Opus 200</value>
+</name>
 <released>
 <type>typed-literal</type>
 <datatype>http://www.w3.org/2001/XMLSchema#integer</datatype>
@@ -1207,6 +1512,11 @@
 <type>uri</type>
 <value>http://dbpedia.org/resource/Isaac_Asimov</value>
 </author>
+<name>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>&apos;X&apos; Stands for Unknown</value>
+</name>
 <published>
 <type>typed-literal</type>
 <datatype>http://www.w3.org/2001/XMLSchema#integer</datatype>
@@ -1226,6 +1536,11 @@
 <type>uri</type>
 <value>http://dbpedia.org/resource/Isaac_Asimov</value>
 </author>
+<name>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>Foundation&apos;s Edge</value>
+</name>
 <published>
 <type>typed-literal</type>
 <datatype>http://www.w3.org/2001/XMLSchema#integer</datatype>
@@ -1245,6 +1560,11 @@
 <type>uri</type>
 <value>http://dbpedia.org/resource/Isaac_Asimov</value>
 </author>
+<name>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>The End of Eternity</value>
+</name>
 <published>
 <type>typed-literal</type>
 <datatype>http://www.w3.org/2001/XMLSchema#integer</datatype>
@@ -1264,6 +1584,11 @@
 <type>uri</type>
 <value>http://dbpedia.org/resource/Isaac_Asimov</value>
 </author>
+<name>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>Prelude to Foundation</value>
+</name>
 <wikilink>
 <type>uri</type>
 <value>http://en.wikipedia.org/wiki/Prelude_to_Foundation?oldid=597502644</value>
@@ -1278,6 +1603,11 @@
 <type>uri</type>
 <value>http://dbpedia.org/resource/Isaac_Asimov</value>
 </author>
+<name>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>The Subatomic Monster</value>
+</name>
 <wikilink>
 <type>uri</type>
 <value>http://en.wikipedia.org/wiki/The_Subatomic_Monster?oldid=606420989</value>
@@ -1292,6 +1622,11 @@
 <type>uri</type>
 <value>http://dbpedia.org/resource/Isaac_Asimov</value>
 </author>
+<name>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>The Tragedy of the Moon</value>
+</name>
 <wikilink>
 <type>uri</type>
 <value>http://en.wikipedia.org/wiki/The_Tragedy_of_the_Moon?oldid=604059935</value>
@@ -1306,6 +1641,11 @@
 <type>uri</type>
 <value>http://dbpedia.org/resource/Isaac_Asimov</value>
 </author>
+<name>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>Out of the Everywhere</value>
+</name>
 <wikilink>
 <type>uri</type>
 <value>http://en.wikipedia.org/wiki/Out_of_the_Everywhere?oldid=606421433</value>
@@ -1320,6 +1660,11 @@
 <type>uri</type>
 <value>http://dbpedia.org/resource/Isaac_Asimov</value>
 </author>
+<name>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>The Left Hand of the Electron</value>
+</name>
 <wikilink>
 <type>uri</type>
 <value>http://en.wikipedia.org/wiki/The_Left_Hand_of_the_Electron?oldid=606420967</value>
@@ -1334,6 +1679,11 @@
 <type>uri</type>
 <value>http://dbpedia.org/resource/Isaac_Asimov</value>
 </author>
+<name>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>Counting the Eons</value>
+</name>
 <wikilink>
 <type>uri</type>
 <value>http://en.wikipedia.org/wiki/Counting_the_Eons?oldid=589815834</value>
@@ -1348,6 +1698,11 @@
 <type>uri</type>
 <value>http://dbpedia.org/resource/Isaac_Asimov</value>
 </author>
+<name>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>The Sun Shines Bright</value>
+</name>
 <wikilink>
 <type>uri</type>
 <value>http://en.wikipedia.org/wiki/The_Sun_Shines_Bright_(book)?oldid=601563247</value>
@@ -1362,6 +1717,11 @@
 <type>uri</type>
 <value>http://dbpedia.org/resource/Isaac_Asimov</value>
 </author>
+<name>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>Nemesis</value>
+</name>
 <wikilink>
 <type>uri</type>
 <value>http://en.wikipedia.org/wiki/Nemesis_(Isaac_Asimov_novel)?oldid=602297262</value>
@@ -1376,6 +1736,11 @@
 <type>uri</type>
 <value>http://dbpedia.org/resource/Isaac_Asimov</value>
 </author>
+<name>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>The Relativity of Wrong</value>
+</name>
 <wikilink>
 <type>uri</type>
 <value>http://en.wikipedia.org/wiki/The_Relativity_of_Wrong?oldid=598092382</value>
@@ -1390,6 +1755,11 @@
 <type>uri</type>
 <value>http://dbpedia.org/resource/Isaac_Asimov</value>
 </author>
+<name>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>Far as Human Eye Could See</value>
+</name>
 <wikilink>
 <type>uri</type>
 <value>http://en.wikipedia.org/wiki/Far_as_Human_Eye_Could_See?oldid=589815996</value>
@@ -1404,6 +1774,11 @@
 <type>uri</type>
 <value>http://dbpedia.org/resource/Isaac_Asimov</value>
 </author>
+<name>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>Robot Dreams</value>
+</name>
 <wikilink>
 <type>uri</type>
 <value>http://en.wikipedia.org/wiki/Robot_Dreams?oldid=598162713</value>
@@ -1418,6 +1793,11 @@
 <type>uri</type>
 <value>http://dbpedia.org/resource/Isaac_Asimov</value>
 </author>
+<name>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>The Complete Robot</value>
+</name>
 <wikilink>
 <type>uri</type>
 <value>http://en.wikipedia.org/wiki/The_Complete_Robot?oldid=589818930</value>
@@ -1432,6 +1812,11 @@
 <type>uri</type>
 <value>http://dbpedia.org/resource/Isaac_Asimov</value>
 </author>
+<name>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>The Positronic Man</value>
+</name>
 <wikilink>
 <type>uri</type>
 <value>http://en.wikipedia.org/wiki/The_Positronic_Man?oldid=599676507</value>
@@ -1446,6 +1831,11 @@
 <type>uri</type>
 <value>http://dbpedia.org/resource/Isaac_Asimov</value>
 </author>
+<name>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>Forward the Foundation</value>
+</name>
 <wikilink>
 <type>uri</type>
 <value>http://en.wikipedia.org/wiki/Forward_the_Foundation?oldid=602739223</value>
@@ -1460,6 +1850,11 @@
 <type>uri</type>
 <value>http://dbpedia.org/resource/Isaac_Asimov</value>
 </author>
+<name>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>The Secret of the Universe</value>
+</name>
 <wikilink>
 <type>uri</type>
 <value>http://en.wikipedia.org/wiki/The_Secret_of_the_Universe?oldid=601289799</value>
@@ -1474,6 +1869,11 @@
 <type>uri</type>
 <value>http://dbpedia.org/resource/Isaac_Asimov</value>
 </author>
+<name>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>The Solar System and Back</value>
+</name>
 <wikilink>
 <type>uri</type>
 <value>http://en.wikipedia.org/wiki/The_Solar_System_and_Back?oldid=601289433</value>
@@ -1488,6 +1888,11 @@
 <type>uri</type>
 <value>http://dbpedia.org/resource/Isaac_Asimov</value>
 </author>
+<name>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>Fantastic Voyage II: Destination Brain</value>
+</name>
 <wikilink>
 <type>uri</type>
 <value>http://en.wikipedia.org/wiki/Fantastic_Voyage_II:_Destination_Brain?oldid=546873027</value>
@@ -1502,6 +1907,11 @@
 <type>uri</type>
 <value>http://dbpedia.org/resource/Isaac_Asimov</value>
 </author>
+<name>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>The Road to Infinity</value>
+</name>
 <wikilink>
 <type>uri</type>
 <value>http://en.wikipedia.org/wiki/The_Road_to_Infinity?oldid=589816774</value>
@@ -1516,6 +1926,11 @@
 <type>uri</type>
 <value>http://dbpedia.org/resource/Isaac_Asimov</value>
 </author>
+<name>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>Lastborn</value>
+</name>
 <wikilink>
 <type>uri</type>
 <value>http://en.wikipedia.org/wiki/The_Ugly_Little_Boy?oldid=589820294</value>
@@ -1530,6 +1945,11 @@
 <type>uri</type>
 <value>http://dbpedia.org/resource/Isaac_Asimov</value>
 </author>
+<name>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>Robot Visions</value>
+</name>
 <wikilink>
 <type>uri</type>
 <value>http://en.wikipedia.org/wiki/Robot_Visions?oldid=598162813</value>
@@ -1544,6 +1964,11 @@
 <type>uri</type>
 <value>http://dbpedia.org/resource/Isaac_Asimov</value>
 </author>
+<name>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>Quasar, Quasar, Burning Bright</value>
+</name>
 <wikilink>
 <type>uri</type>
 <value>http://en.wikipedia.org/wiki/Quasar,_Quasar,_Burning_Bright?oldid=597532020</value>
@@ -1558,6 +1983,11 @@
 <type>uri</type>
 <value>http://dbpedia.org/resource/Isaac_Asimov</value>
 </author>
+<name>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>A Loint of Paw</value>
+</name>
 <wikilink>
 <type>uri</type>
 <value>http://en.wikipedia.org/wiki/A_Loint_of_Paw?oldid=606783481</value>

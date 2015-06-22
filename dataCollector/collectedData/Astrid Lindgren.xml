@@ -43,6 +43,11 @@
 <type>uri</type>
 <value>http://dbpedia.org/resource/Astrid_Lindgren</value>
 </author>
+<name>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>Mio, My Son</value>
+</name>
 <wikilink>
 <type>uri</type>
 <value>http://en.wikipedia.org/wiki/Mio,_My_Son?oldid=568288289</value>
@@ -62,6 +67,11 @@
 <type>uri</type>
 <value>http://dbpedia.org/resource/Astrid_Lindgren</value>
 </author>
+<name>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>Ronia, the Robber&apos;s Daughter</value>
+</name>
 <wikilink>
 <type>uri</type>
 <value>http://en.wikipedia.org/wiki/Ronia_the_Robber&apos;s_Daughter?oldid=604997933</value>
@@ -81,6 +91,11 @@
 <type>uri</type>
 <value>http://dbpedia.org/resource/Astrid_Lindgren</value>
 </author>
+<name>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>Bröderna Lejonhjärta</value>
+</name>
 <wikilink>
 <type>uri</type>
 <value>http://en.wikipedia.org/wiki/The_Brothers_Lionheart?oldid=604006212</value>
@@ -100,6 +115,11 @@
 <type>uri</type>
 <value>http://dbpedia.org/resource/Astrid_Lindgren</value>
 </author>
+<name>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>Sia bor på Kilimandjaro</value>
+</name>
 <wikilink>
 <type>uri</type>
 <value>http://en.wikipedia.org/wiki/Sia_lives_on_Kilimanjaro?oldid=583800056</value>
@@ -114,6 +134,11 @@
 <type>uri</type>
 <value>http://dbpedia.org/resource/Astrid_Lindgren</value>
 </author>
+<name>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>Kalle Blomkvist och Rasmus</value>
+</name>
 <wikilink>
 <type>uri</type>
 <value>http://en.wikipedia.org/wiki/Bill_Bergson_and_the_White_Rose_Rescue?oldid=568286892</value>
@@ -128,6 +153,11 @@
 <type>uri</type>
 <value>http://dbpedia.org/resource/Astrid_Lindgren</value>
 </author>
+<name>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>Pippi Långstrump går ombord</value>
+</name>
 <wikilink>
 <type>uri</type>
 <value>http://en.wikipedia.org/wiki/Pippi_Goes_on_Board_(book)?oldid=567991920</value>
@@ -142,6 +172,11 @@
 <type>uri</type>
 <value>http://dbpedia.org/resource/Astrid_Lindgren</value>
 </author>
+<name>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>Pippi Långstrump i Söderhavet</value>
+</name>
 <wikilink>
 <type>uri</type>
 <value>http://en.wikipedia.org/wiki/Pippi_in_the_South_Seas_(book)?oldid=576239610</value>
@@ -156,6 +191,11 @@
 <type>uri</type>
 <value>http://dbpedia.org/resource/Astrid_Lindgren</value>
 </author>
+<name>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>Pippi Långstrump</value>
+</name>
 <wikilink>
 <type>uri</type>
 <value>http://en.wikipedia.org/wiki/Pippi_Longstocking_(novel)?oldid=598231169</value>
@@ -170,6 +210,11 @@
 <type>uri</type>
 <value>http://dbpedia.org/resource/Astrid_Lindgren</value>
 </author>
+<name>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>Mästerdetektiven Blomkvist lever farligt</value>
+</name>
 <wikilink>
 <type>uri</type>
 <value>http://en.wikipedia.org/wiki/Bill_Bergson_Lives_Dangerously?oldid=598613471</value>

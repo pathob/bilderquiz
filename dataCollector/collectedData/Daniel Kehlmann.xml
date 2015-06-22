@@ -53,6 +53,11 @@
 <type>uri</type>
 <value>http://dbpedia.org/resource/Daniel_Kehlmann</value>
 </author>
+<name>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>Die Vermessung der Welt</value>
+</name>
 <released>
 <type>literal</type>
 <xml:lang>en</xml:lang>
@@ -77,6 +82,11 @@
 <type>uri</type>
 <value>http://dbpedia.org/resource/Daniel_Kehlmann</value>
 </author>
+<name>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>Ich und Kaminski</value>
+</name>
 <wikilink>
 <type>uri</type>
 <value>http://en.wikipedia.org/wiki/Me_and_Kaminski?oldid=546301209</value>
@@ -96,6 +106,11 @@
 <type>uri</type>
 <value>http://dbpedia.org/resource/Daniel_Kehlmann</value>
 </author>
+<name>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>Fame</value>
+</name>
 <wikilink>
 <type>uri</type>
 <value>http://en.wikipedia.org/wiki/Fame_(novel)?oldid=546262291</value>

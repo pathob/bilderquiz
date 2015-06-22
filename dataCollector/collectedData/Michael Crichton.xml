@@ -42,6 +42,11 @@
 <type>uri</type>
 <value>http://dbpedia.org/resource/Michael_Crichton</value>
 </author>
+<name>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>Jurassic Park</value>
+</name>
 <thumbnail>
 <type>uri</type>
 <value>http://commons.wikimedia.org/wiki/Special:FilePath/Curva_del_dragón.png?width=300</value>
@@ -70,6 +75,11 @@
 <type>uri</type>
 <value>http://dbpedia.org/resource/Michael_Crichton</value>
 </author>
+<name>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>Airframe</value>
+</name>
 <released>
 <type>typed-literal</type>
 <datatype>http://www.w3.org/2001/XMLSchema#integer</datatype>
@@ -94,6 +104,11 @@
 <type>uri</type>
 <value>http://dbpedia.org/resource/Michael_Crichton</value>
 </author>
+<name>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>Congo</value>
+</name>
 <released>
 <type>typed-literal</type>
 <datatype>http://www.w3.org/2001/XMLSchema#integer</datatype>
@@ -118,6 +133,11 @@
 <type>uri</type>
 <value>http://dbpedia.org/resource/Michael_Crichton</value>
 </author>
+<name>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>Eaters of the Dead</value>
+</name>
 <released>
 <type>literal</type>
 <xml:lang>en</xml:lang>
@@ -142,6 +162,11 @@
 <type>uri</type>
 <value>http://dbpedia.org/resource/Michael_Crichton</value>
 </author>
+<name>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>Next</value>
+</name>
 <released>
 <type>typed-literal</type>
 <datatype>http://www.w3.org/2001/XMLSchema#date</datatype>
@@ -166,6 +191,11 @@
 <type>uri</type>
 <value>http://dbpedia.org/resource/Michael_Crichton</value>
 </author>
+<name>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>Prey</value>
+</name>
 <released>
 <type>typed-literal</type>
 <datatype>http://www.w3.org/2001/XMLSchema#date</datatype>
@@ -190,6 +220,11 @@
 <type>uri</type>
 <value>http://dbpedia.org/resource/Michael_Crichton</value>
 </author>
+<name>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>Rising Sun</value>
+</name>
 <released>
 <type>typed-literal</type>
 <datatype>http://www.w3.org/2001/XMLSchema#date</datatype>
@@ -214,6 +249,11 @@
 <type>uri</type>
 <value>http://dbpedia.org/resource/Michael_Crichton</value>
 </author>
+<name>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>Sphere</value>
+</name>
 <released>
 <type>typed-literal</type>
 <datatype>http://www.w3.org/2001/XMLSchema#date</datatype>
@@ -238,6 +278,11 @@
 <type>uri</type>
 <value>http://dbpedia.org/resource/Michael_Crichton</value>
 </author>
+<name>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>State of Fear</value>
+</name>
 <released>
 <type>typed-literal</type>
 <datatype>http://www.w3.org/2001/XMLSchema#date</datatype>
@@ -262,6 +307,11 @@
 <type>uri</type>
 <value>http://dbpedia.org/resource/Michael_Crichton</value>
 </author>
+<name>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>The Andromeda Strain</value>
+</name>
 <released>
 <type>typed-literal</type>
 <datatype>http://www.w3.org/2001/XMLSchema#date</datatype>
@@ -286,6 +336,11 @@
 <type>uri</type>
 <value>http://dbpedia.org/resource/Michael_Crichton</value>
 </author>
+<name>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>The Great Train Robbery</value>
+</name>
 <released>
 <type>literal</type>
 <xml:lang>en</xml:lang>
@@ -310,6 +365,11 @@
 <type>uri</type>
 <value>http://dbpedia.org/resource/Michael_Crichton</value>
 </author>
+<name>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>Timeline</value>
+</name>
 <released>
 <type>literal</type>
 <xml:lang>en</xml:lang>
@@ -334,6 +394,11 @@
 <type>uri</type>
 <value>http://dbpedia.org/resource/Michael_Crichton</value>
 </author>
+<name>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>Easy Go</value>
+</name>
 <released>
 <type>typed-literal</type>
 <datatype>http://www.w3.org/2001/XMLSchema#integer</datatype>
@@ -358,6 +423,11 @@
 <type>uri</type>
 <value>http://dbpedia.org/resource/Michael_Crichton</value>
 </author>
+<name>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>The Lost World</value>
+</name>
 <released>
 <type>literal</type>
 <xml:lang>en</xml:lang>
@@ -382,6 +452,11 @@
 <type>uri</type>
 <value>http://dbpedia.org/resource/Michael_Crichton</value>
 </author>
+<name>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>Micro</value>
+</name>
 <released>
 <type>typed-literal</type>
 <datatype>http://www.w3.org/2001/XMLSchema#date</datatype>
@@ -406,6 +481,11 @@
 <type>uri</type>
 <value>http://dbpedia.org/resource/Michael_Crichton</value>
 </author>
+<name>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>Disclosure</value>
+</name>
 <released>
 <type>literal</type>
 <xml:lang>en</xml:lang>
@@ -425,6 +505,11 @@
 <type>uri</type>
 <value>http://dbpedia.org/resource/Michael_Crichton</value>
 </author>
+<name>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>The Terminal Man</value>
+</name>
 <released>
 <type>typed-literal</type>
 <datatype>http://www.w3.org/2001/XMLSchema#date</datatype>
@@ -444,6 +529,11 @@
 <type>uri</type>
 <value>http://dbpedia.org/resource/Michael_Crichton</value>
 </author>
+<name>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>Odds On</value>
+</name>
 <released>
 <type>typed-literal</type>
 <datatype>http://www.w3.org/2001/XMLSchema#integer</datatype>
@@ -463,6 +553,11 @@
 <type>uri</type>
 <value>http://dbpedia.org/resource/Michael_Crichton</value>
 </author>
+<name>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>Scratch One</value>
+</name>
 <released>
 <type>literal</type>
 <xml:lang>en</xml:lang>
@@ -482,6 +577,11 @@
 <type>uri</type>
 <value>http://dbpedia.org/resource/Michael_Crichton</value>
 </author>
+<name>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>Binary</value>
+</name>
 <released>
 <type>typed-literal</type>
 <datatype>http://www.w3.org/2001/XMLSchema#integer</datatype>
@@ -501,6 +601,11 @@
 <type>uri</type>
 <value>http://dbpedia.org/resource/Michael_Crichton</value>
 </author>
+<name>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>Travels</value>
+</name>
 <released>
 <type>typed-literal</type>
 <datatype>http://www.w3.org/2001/XMLSchema#integer</datatype>
@@ -520,6 +625,11 @@
 <type>uri</type>
 <value>http://dbpedia.org/resource/Michael_Crichton</value>
 </author>
+<name>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>Jasper Johns</value>
+</name>
 <released>
 <type>literal</type>
 <xml:lang>en</xml:lang>
@@ -539,6 +649,11 @@
 <type>uri</type>
 <value>http://dbpedia.org/resource/Michael_Crichton</value>
 </author>
+<name>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>Dealing: Or the Berkeley-to-Boston Forty-Brick Lost-Bag Blues</value>
+</name>
 <released>
 <type>typed-literal</type>
 <datatype>http://www.w3.org/2001/XMLSchema#integer</datatype>
@@ -558,6 +673,11 @@
 <type>uri</type>
 <value>http://dbpedia.org/resource/Michael_Crichton</value>
 </author>
+<name>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>Five Patients</value>
+</name>
 <released>
 <type>literal</type>
 <xml:lang>en</xml:lang>
@@ -577,6 +697,11 @@
 <type>uri</type>
 <value>http://dbpedia.org/resource/Michael_Crichton</value>
 </author>
+<name>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>Electronic Life</value>
+</name>
 <released>
 <type>typed-literal</type>
 <datatype>http://www.w3.org/2001/XMLSchema#date</datatype>
@@ -596,6 +721,11 @@
 <type>uri</type>
 <value>http://dbpedia.org/resource/Michael_Crichton</value>
 </author>
+<name>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>Grave Descend</value>
+</name>
 <released>
 <type>literal</type>
 <xml:lang>en</xml:lang>
@@ -615,6 +745,11 @@
 <type>uri</type>
 <value>http://dbpedia.org/resource/Michael_Crichton</value>
 </author>
+<name>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>The Venom Business</value>
+</name>
 <released>
 <type>typed-literal</type>
 <datatype>http://www.w3.org/2001/XMLSchema#integer</datatype>
@@ -634,6 +769,11 @@
 <type>uri</type>
 <value>http://dbpedia.org/resource/Michael_Crichton</value>
 </author>
+<name>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>Drug of Choice</value>
+</name>
 <released>
 <type>literal</type>
 <xml:lang>en</xml:lang>
@@ -653,6 +793,11 @@
 <type>uri</type>
 <value>http://dbpedia.org/resource/Michael_Crichton</value>
 </author>
+<name>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>Pirate Latitudes</value>
+</name>
 <released>
 <type>typed-literal</type>
 <datatype>http://www.w3.org/2001/XMLSchema#date</datatype>
@@ -672,6 +817,11 @@
 <type>uri</type>
 <value>http://dbpedia.org/resource/Michael_Crichton</value>
 </author>
+<name>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>A Case of Need</value>
+</name>
 <published>
 <type>typed-literal</type>
 <datatype>http://www.w3.org/2001/XMLSchema#integer</datatype>
@@ -691,6 +841,11 @@
 <type>uri</type>
 <value>http://dbpedia.org/resource/Michael_Crichton</value>
 </author>
+<name>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>Zero Cool</value>
+</name>
 <published>
 <type>typed-literal</type>
 <datatype>http://www.w3.org/2001/XMLSchema#integer</datatype>

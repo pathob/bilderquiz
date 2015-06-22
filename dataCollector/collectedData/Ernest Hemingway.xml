@@ -61,6 +61,11 @@
 <type>uri</type>
 <value>http://dbpedia.org/resource/Ernest_Hemingway</value>
 </author>
+<name>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>Death in the Afternoon</value>
+</name>
 <thumbnail>
 <type>uri</type>
 <value>http://commons.wikimedia.org/wiki/Special:FilePath/Heming_Way.jpg?width=300</value>
@@ -89,6 +94,11 @@
 <type>uri</type>
 <value>http://dbpedia.org/resource/Ernest_Hemingway</value>
 </author>
+<name>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>The Dangerous Summer</value>
+</name>
 <thumbnail>
 <type>uri</type>
 <value>http://commons.wikimedia.org/wiki/Special:FilePath/Dasngersummer.jpg?width=300</value>
@@ -112,6 +122,11 @@
 <type>uri</type>
 <value>http://dbpedia.org/resource/Ernest_Hemingway</value>
 </author>
+<name>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>Islands in the Stream</value>
+</name>
 <released>
 <type>typed-literal</type>
 <datatype>http://www.w3.org/2001/XMLSchema#integer</datatype>
@@ -136,6 +151,11 @@
 <type>uri</type>
 <value>http://dbpedia.org/resource/Ernest_Hemingway</value>
 </author>
+<name>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>A Moveable Feast</value>
+</name>
 <released>
 <type>literal</type>
 <xml:lang>en</xml:lang>
@@ -160,6 +180,11 @@
 <type>uri</type>
 <value>http://dbpedia.org/resource/Ernest_Hemingway</value>
 </author>
+<name>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>The Old Man and the Sea</value>
+</name>
 <released>
 <type>typed-literal</type>
 <datatype>http://www.w3.org/2001/XMLSchema#integer</datatype>
@@ -184,6 +209,11 @@
 <type>uri</type>
 <value>http://dbpedia.org/resource/Ernest_Hemingway</value>
 </author>
+<name>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>For Whom the Bell Tolls</value>
+</name>
 <released>
 <type>typed-literal</type>
 <datatype>http://www.w3.org/2001/XMLSchema#date</datatype>
@@ -208,6 +238,11 @@
 <type>uri</type>
 <value>http://dbpedia.org/resource/Ernest_Hemingway</value>
 </author>
+<name>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>Green Hills of Africa</value>
+</name>
 <released>
 <type>typed-literal</type>
 <datatype>http://www.w3.org/2001/XMLSchema#date</datatype>
@@ -232,6 +267,11 @@
 <type>uri</type>
 <value>http://dbpedia.org/resource/Ernest_Hemingway</value>
 </author>
+<name>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>Across the River and Into the Trees</value>
+</name>
 <released>
 <type>typed-literal</type>
 <datatype>http://www.w3.org/2001/XMLSchema#integer</datatype>
@@ -256,6 +296,11 @@
 <type>uri</type>
 <value>http://dbpedia.org/resource/Ernest_Hemingway</value>
 </author>
+<name>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>To Have and Have Not</value>
+</name>
 <released>
 <type>typed-literal</type>
 <datatype>http://www.w3.org/2001/XMLSchema#integer</datatype>
@@ -280,6 +325,11 @@
 <type>uri</type>
 <value>http://dbpedia.org/resource/Ernest_Hemingway</value>
 </author>
+<name>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>The Complete Short Stories of Ernest Hemingway: The Finca Vigía Edition</value>
+</name>
 <released>
 <type>typed-literal</type>
 <datatype>http://www.w3.org/2001/XMLSchema#integer</datatype>
@@ -299,6 +349,11 @@
 <type>uri</type>
 <value>http://dbpedia.org/resource/Ernest_Hemingway</value>
 </author>
+<name>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>The Fifth Column and the First Forty-Nine Stories</value>
+</name>
 <released>
 <type>typed-literal</type>
 <datatype>http://www.w3.org/2001/XMLSchema#integer</datatype>
@@ -318,6 +373,11 @@
 <type>uri</type>
 <value>http://dbpedia.org/resource/Ernest_Hemingway</value>
 </author>
+<name>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>Dateline: Toronto</value>
+</name>
 <released>
 <type>typed-literal</type>
 <datatype>http://www.w3.org/2001/XMLSchema#integer</datatype>
@@ -337,6 +397,11 @@
 <type>uri</type>
 <value>http://dbpedia.org/resource/Ernest_Hemingway</value>
 </author>
+<name>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>A Farewell to Arms</value>
+</name>
 <published>
 <type>typed-literal</type>
 <datatype>http://www.w3.org/2001/XMLSchema#integer</datatype>
@@ -361,6 +426,11 @@
 <type>uri</type>
 <value>http://dbpedia.org/resource/Ernest_Hemingway</value>
 </author>
+<name>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>The Fifth Column and Four Stories of the Spanish Civil War</value>
+</name>
 <published>
 <type>typed-literal</type>
 <datatype>http://www.w3.org/2001/XMLSchema#integer</datatype>
@@ -380,6 +450,11 @@
 <type>uri</type>
 <value>http://dbpedia.org/resource/Ernest_Hemingway</value>
 </author>
+<name>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>The Garden of Eden</value>
+</name>
 <wikilink>
 <type>uri</type>
 <value>http://en.wikipedia.org/wiki/The_Garden_of_Eden_(novel)?oldid=590485698</value>

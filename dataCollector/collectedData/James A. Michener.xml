@@ -29,6 +29,11 @@
 <type>uri</type>
 <value>http://dbpedia.org/resource/James_A._Michener</value>
 </author>
+<name>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>Caribbean</value>
+</name>
 <released>
 <type>typed-literal</type>
 <datatype>http://www.w3.org/2001/XMLSchema#integer</datatype>
@@ -53,6 +58,11 @@
 <type>uri</type>
 <value>http://dbpedia.org/resource/James_A._Michener</value>
 </author>
+<name>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>The Novel</value>
+</name>
 <released>
 <type>typed-literal</type>
 <datatype>http://www.w3.org/2001/XMLSchema#integer</datatype>
@@ -72,6 +82,11 @@
 <type>uri</type>
 <value>http://dbpedia.org/resource/James_A._Michener</value>
 </author>
+<name>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>Collectors, Forgers — And A Writer: A Memoir</value>
+</name>
 <released>
 <type>typed-literal</type>
 <datatype>http://www.w3.org/2001/XMLSchema#integer</datatype>
@@ -91,6 +106,11 @@
 <type>uri</type>
 <value>http://dbpedia.org/resource/James_A._Michener</value>
 </author>
+<name>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>Chesapeake</value>
+</name>
 <released>
 <type>typed-literal</type>
 <datatype>http://www.w3.org/2001/XMLSchema#date</datatype>
@@ -110,6 +130,11 @@
 <type>uri</type>
 <value>http://dbpedia.org/resource/James_A._Michener</value>
 </author>
+<name>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>My Lost Mexico</value>
+</name>
 <released>
 <type>typed-literal</type>
 <datatype>http://www.w3.org/2001/XMLSchema#integer</datatype>
@@ -129,6 +154,11 @@
 <type>uri</type>
 <value>http://dbpedia.org/resource/James_A._Michener</value>
 </author>
+<name>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>The Covenant</value>
+</name>
 <released>
 <type>typed-literal</type>
 <datatype>http://www.w3.org/2001/XMLSchema#integer</datatype>
@@ -148,6 +178,11 @@
 <type>uri</type>
 <value>http://dbpedia.org/resource/James_A._Michener</value>
 </author>
+<name>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>Journey</value>
+</name>
 <released>
 <type>typed-literal</type>
 <datatype>http://www.w3.org/2001/XMLSchema#integer</datatype>
@@ -167,6 +202,11 @@
 <type>uri</type>
 <value>http://dbpedia.org/resource/James_A._Michener</value>
 </author>
+<name>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>The World Is My Home: A Memoir</value>
+</name>
 <released>
 <type>typed-literal</type>
 <datatype>http://www.w3.org/2001/XMLSchema#integer</datatype>
@@ -186,6 +226,11 @@
 <type>uri</type>
 <value>http://dbpedia.org/resource/James_A._Michener</value>
 </author>
+<name>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>Tales of the South Pacific</value>
+</name>
 <released>
 <type>typed-literal</type>
 <datatype>http://www.w3.org/2001/XMLSchema#date</datatype>
@@ -205,6 +250,11 @@
 <type>uri</type>
 <value>http://dbpedia.org/resource/James_A._Michener</value>
 </author>
+<name>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>The Eagle And The Raven</value>
+</name>
 <released>
 <type>literal</type>
 <xml:lang>en</xml:lang>
@@ -224,6 +274,11 @@
 <type>uri</type>
 <value>http://dbpedia.org/resource/James_A._Michener</value>
 </author>
+<name>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>Matecumbe: A Lost Florida Novel</value>
+</name>
 <released>
 <type>typed-literal</type>
 <datatype>http://www.w3.org/2001/XMLSchema#integer</datatype>
@@ -243,6 +298,11 @@
 <type>uri</type>
 <value>http://dbpedia.org/resource/James_A._Michener</value>
 </author>
+<name>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>Mexico</value>
+</name>
 <released>
 <type>typed-literal</type>
 <datatype>http://www.w3.org/2001/XMLSchema#integer</datatype>
@@ -262,6 +322,11 @@
 <type>uri</type>
 <value>http://dbpedia.org/resource/James_A._Michener</value>
 </author>
+<name>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>Poland</value>
+</name>
 <released>
 <type>typed-literal</type>
 <datatype>http://www.w3.org/2001/XMLSchema#integer</datatype>
@@ -281,6 +346,11 @@
 <type>uri</type>
 <value>http://dbpedia.org/resource/James_A._Michener</value>
 </author>
+<name>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>Texas</value>
+</name>
 <released>
 <type>typed-literal</type>
 <datatype>http://www.w3.org/2001/XMLSchema#integer</datatype>
@@ -300,6 +370,11 @@
 <type>uri</type>
 <value>http://dbpedia.org/resource/James_A._Michener</value>
 </author>
+<name>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>The Source</value>
+</name>
 <released>
 <type>typed-literal</type>
 <datatype>http://www.w3.org/2001/XMLSchema#integer</datatype>
@@ -319,6 +394,11 @@
 <type>uri</type>
 <value>http://dbpedia.org/resource/James_A._Michener</value>
 </author>
+<name>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>The Novel</value>
+</name>
 <released>
 <type>typed-literal</type>
 <datatype>http://www.w3.org/2001/XMLSchema#integer</datatype>
@@ -338,6 +418,11 @@
 <type>uri</type>
 <value>http://dbpedia.org/resource/James_A._Michener</value>
 </author>
+<name>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>Literary Reflections</value>
+</name>
 <released>
 <type>typed-literal</type>
 <datatype>http://www.w3.org/2001/XMLSchema#integer</datatype>
@@ -357,6 +442,11 @@
 <type>uri</type>
 <value>http://dbpedia.org/resource/James_A._Michener</value>
 </author>
+<name>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>Legacy</value>
+</name>
 <released>
 <type>typed-literal</type>
 <datatype>http://www.w3.org/2001/XMLSchema#integer</datatype>
@@ -376,6 +466,11 @@
 <type>uri</type>
 <value>http://dbpedia.org/resource/James_A._Michener</value>
 </author>
+<name>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>Miracle In Seville</value>
+</name>
 <released>
 <type>typed-literal</type>
 <datatype>http://www.w3.org/2001/XMLSchema#integer</datatype>
@@ -395,6 +490,11 @@
 <type>uri</type>
 <value>http://dbpedia.org/resource/James_A._Michener</value>
 </author>
+<name>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>Sayonara</value>
+</name>
 <wikilink>
 <type>uri</type>
 <value>http://en.wikipedia.org/wiki/Sayonara_(novel)?oldid=598537762</value>
@@ -409,6 +509,11 @@
 <type>uri</type>
 <value>http://dbpedia.org/resource/James_A._Michener</value>
 </author>
+<name>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>The Drifters</value>
+</name>
 <wikilink>
 <type>uri</type>
 <value>http://en.wikipedia.org/wiki/The_Drifters_(novel)?oldid=585596692</value>
@@ -423,6 +528,11 @@
 <type>uri</type>
 <value>http://dbpedia.org/resource/James_A._Michener</value>
 </author>
+<name>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>Alaska</value>
+</name>
 <wikilink>
 <type>uri</type>
 <value>http://en.wikipedia.org/wiki/Alaska_(novel)?oldid=600742904</value>
@@ -437,6 +547,11 @@
 <type>uri</type>
 <value>http://dbpedia.org/resource/James_A._Michener</value>
 </author>
+<name>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>Centennial</value>
+</name>
 <wikilink>
 <type>uri</type>
 <value>http://en.wikipedia.org/wiki/Centennial_(novel)?oldid=583714164</value>
@@ -451,6 +566,11 @@
 <type>uri</type>
 <value>http://dbpedia.org/resource/James_A._Michener</value>
 </author>
+<name>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>Space</value>
+</name>
 <wikilink>
 <type>uri</type>
 <value>http://en.wikipedia.org/wiki/Space_(novel)?oldid=601032464</value>
@@ -465,6 +585,11 @@
 <type>uri</type>
 <value>http://dbpedia.org/resource/James_A._Michener</value>
 </author>
+<name>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>Iberia</value>
+</name>
 <wikilink>
 <type>uri</type>
 <value>http://en.wikipedia.org/wiki/Iberia_(book)?oldid=592303702</value>
@@ -479,6 +604,11 @@
 <type>uri</type>
 <value>http://dbpedia.org/resource/James_A._Michener</value>
 </author>
+<name>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>The Fires Of Spring</value>
+</name>
 <wikilink>
 <type>uri</type>
 <value>http://en.wikipedia.org/wiki/The_Fires_of_Spring?oldid=586469176</value>
@@ -493,6 +623,11 @@
 <type>uri</type>
 <value>http://dbpedia.org/resource/James_A._Michener</value>
 </author>
+<name>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>Return to Paradise</value>
+</name>
 <wikilink>
 <type>uri</type>
 <value>http://en.wikipedia.org/wiki/Return_to_Paradise_(novel)?oldid=598099702</value>
@@ -507,6 +642,11 @@
 <type>uri</type>
 <value>http://dbpedia.org/resource/James_A._Michener</value>
 </author>
+<name>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>The Bridge at Andau</value>
+</name>
 <wikilink>
 <type>uri</type>
 <value>http://en.wikipedia.org/wiki/The_Voice_of_Asia?oldid=604924393</value>
@@ -521,6 +661,11 @@
 <type>uri</type>
 <value>http://dbpedia.org/resource/James_A._Michener</value>
 </author>
+<name>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>Caravans</value>
+</name>
 <wikilink>
 <type>uri</type>
 <value>http://en.wikipedia.org/wiki/Caravans_(novel)?oldid=583655364</value>
@@ -535,6 +680,11 @@
 <type>uri</type>
 <value>http://dbpedia.org/resource/James_A._Michener</value>
 </author>
+<name>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>The Bridges at Toko-Ri</value>
+</name>
 <wikilink>
 <type>uri</type>
 <value>http://en.wikipedia.org/wiki/The_Bridges_at_Toko-Ri_(novel)?oldid=566064522</value>
@@ -549,6 +699,11 @@
 <type>uri</type>
 <value>http://dbpedia.org/resource/James_A._Michener</value>
 </author>
+<name>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>The Watermen</value>
+</name>
 <wikilink>
 <type>uri</type>
 <value>http://en.wikipedia.org/wiki/The_Watermen_(novel)?oldid=605178607</value>
@@ -563,6 +718,11 @@
 <type>uri</type>
 <value>http://dbpedia.org/resource/James_A._Michener</value>
 </author>
+<name>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>The Bridge at Andau</value>
+</name>
 <wikilink>
 <type>uri</type>
 <value>http://en.wikipedia.org/wiki/The_Bridge_at_Andau?oldid=604002431</value>
@@ -577,6 +737,11 @@
 <type>uri</type>
 <value>http://dbpedia.org/resource/James_A._Michener</value>
 </author>
+<name>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>Hawaii</value>
+</name>
 <wikilink>
 <type>uri</type>
 <value>http://en.wikipedia.org/wiki/Hawaii_(novel)?oldid=594443212</value>
@@ -591,6 +756,11 @@
 <type>uri</type>
 <value>http://dbpedia.org/resource/James_A._Michener</value>
 </author>
+<name>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>Recessional</value>
+</name>
 <wikilink>
 <type>uri</type>
 <value>http://en.wikipedia.org/wiki/Recessional_(novel)?oldid=598087966</value>

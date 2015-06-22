@@ -57,6 +57,11 @@
 <type>uri</type>
 <value>http://dbpedia.org/resource/Max_Frisch</value>
 </author>
+<name>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>Bluebeard</value>
+</name>
 <thumbnail>
 <type>uri</type>
 <value>http://commons.wikimedia.org/wiki/Special:FilePath/Cv-blaubart.jpg?width=300</value>
@@ -80,6 +85,11 @@
 <type>uri</type>
 <value>http://dbpedia.org/resource/Max_Frisch</value>
 </author>
+<name>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>Man in the Holocene</value>
+</name>
 <released>
 <type>typed-literal</type>
 <datatype>http://www.w3.org/2001/XMLSchema#integer</datatype>
@@ -104,6 +114,11 @@
 <type>uri</type>
 <value>http://dbpedia.org/resource/Max_Frisch</value>
 </author>
+<name>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>An Answer from the Silence</value>
+</name>
 <wikilink>
 <type>uri</type>
 <value>http://en.wikipedia.org/wiki/An_Answer_from_the_Silence?oldid=593956310</value>
@@ -123,6 +138,11 @@
 <type>uri</type>
 <value>http://dbpedia.org/resource/Max_Frisch</value>
 </author>
+<name>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>Gantenbein</value>
+</name>
 <wikilink>
 <type>uri</type>
 <value>http://en.wikipedia.org/wiki/Gantenbein?oldid=595758501</value>
@@ -142,6 +162,11 @@
 <type>uri</type>
 <value>http://dbpedia.org/resource/Max_Frisch</value>
 </author>
+<name>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>Homo faber. Ein Bericht</value>
+</name>
 <wikilink>
 <type>uri</type>
 <value>http://en.wikipedia.org/wiki/Homo_Faber_(novel)?oldid=604339255</value>

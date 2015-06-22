@@ -43,6 +43,11 @@
 <type>uri</type>
 <value>http://dbpedia.org/resource/Ouida</value>
 </author>
+<name>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>A Dog of Flanders</value>
+</name>
 <thumbnail>
 <type>uri</type>
 <value>http://en.wikipedia.org/wiki/Special:FilePath/NelloPatrache.jpg?width=300</value>

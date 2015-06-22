@@ -29,6 +29,11 @@
 <type>uri</type>
 <value>http://dbpedia.org/resource/Nora_Roberts</value>
 </author>
+<name>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>Remember When</value>
+</name>
 <released>
 <type>literal</type>
 <xml:lang>en</xml:lang>
@@ -48,6 +53,11 @@
 <type>uri</type>
 <value>http://dbpedia.org/resource/Nora_Roberts</value>
 </author>
+<name>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>Memory in Death</value>
+</name>
 <released>
 <type>literal</type>
 <xml:lang>en</xml:lang>
@@ -67,6 +77,11 @@
 <type>uri</type>
 <value>http://dbpedia.org/resource/Nora_Roberts</value>
 </author>
+<name>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>Conspiracy in Death</value>
+</name>
 <released>
 <type>literal</type>
 <xml:lang>en</xml:lang>
@@ -86,6 +101,11 @@
 <type>uri</type>
 <value>http://dbpedia.org/resource/Nora_Roberts</value>
 </author>
+<name>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>Midnight in Death</value>
+</name>
 <released>
 <type>literal</type>
 <xml:lang>en</xml:lang>
@@ -105,6 +125,11 @@
 <type>uri</type>
 <value>http://dbpedia.org/resource/Nora_Roberts</value>
 </author>
+<name>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>Portrait in Death</value>
+</name>
 <released>
 <type>typed-literal</type>
 <datatype>http://www.w3.org/2001/XMLSchema#integer</datatype>
@@ -124,6 +149,11 @@
 <type>uri</type>
 <value>http://dbpedia.org/resource/Nora_Roberts</value>
 </author>
+<name>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>Naked in Death</value>
+</name>
 <released>
 <type>typed-literal</type>
 <datatype>http://www.w3.org/2001/XMLSchema#date</datatype>
@@ -143,6 +173,11 @@
 <type>uri</type>
 <value>http://dbpedia.org/resource/Nora_Roberts</value>
 </author>
+<name>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>Origin in Death</value>
+</name>
 <released>
 <type>literal</type>
 <xml:lang>en</xml:lang>
@@ -162,6 +197,11 @@
 <type>uri</type>
 <value>http://dbpedia.org/resource/Nora_Roberts</value>
 </author>
+<name>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>Eternity in Death</value>
+</name>
 <released>
 <type>literal</type>
 <xml:lang>en</xml:lang>
@@ -181,6 +221,11 @@
 <type>uri</type>
 <value>http://dbpedia.org/resource/Nora_Roberts</value>
 </author>
+<name>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>Promises in Death</value>
+</name>
 <released>
 <type>literal</type>
 <xml:lang>en</xml:lang>
@@ -200,6 +245,11 @@
 <type>uri</type>
 <value>http://dbpedia.org/resource/Nora_Roberts</value>
 </author>
+<name>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>Purity in Death</value>
+</name>
 <released>
 <type>literal</type>
 <xml:lang>en</xml:lang>
@@ -219,6 +269,11 @@
 <type>uri</type>
 <value>http://dbpedia.org/resource/Nora_Roberts</value>
 </author>
+<name>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>Loyalty in Death</value>
+</name>
 <released>
 <type>literal</type>
 <xml:lang>en</xml:lang>
@@ -238,6 +293,11 @@
 <type>uri</type>
 <value>http://dbpedia.org/resource/Nora_Roberts</value>
 </author>
+<name>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>Irish Thoroughbred</value>
+</name>
 <published>
 <type>literal</type>
 <xml:lang>en</xml:lang>
@@ -257,6 +317,11 @@
 <type>uri</type>
 <value>http://dbpedia.org/resource/Nora_Roberts</value>
 </author>
+<name>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>Carolina Moon</value>
+</name>
 <wikilink>
 <type>uri</type>
 <value>http://en.wikipedia.org/wiki/Carolina_Moon_(novel)?oldid=604875909</value>
@@ -271,6 +336,11 @@
 <type>uri</type>
 <value>http://dbpedia.org/resource/Nora_Roberts</value>
 </author>
+<name>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>Vision in White</value>
+</name>
 <wikilink>
 <type>uri</type>
 <value>http://en.wikipedia.org/wiki/Vision_in_White?oldid=554574741</value>
@@ -285,6 +355,11 @@
 <type>uri</type>
 <value>http://dbpedia.org/resource/Nora_Roberts</value>
 </author>
+<name>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>Naked Came the Phoenix: A Serial Novel</value>
+</name>
 <wikilink>
 <type>uri</type>
 <value>http://en.wikipedia.org/wiki/Naked_Came_the_Phoenix?oldid=579583722</value>
@@ -299,6 +374,11 @@
 <type>uri</type>
 <value>http://dbpedia.org/resource/Nora_Roberts</value>
 </author>
+<name>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>Bed of Roses</value>
+</name>
 <wikilink>
 <type>uri</type>
 <value>http://en.wikipedia.org/wiki/Bed_of_Roses_(novel)?oldid=536509130</value>

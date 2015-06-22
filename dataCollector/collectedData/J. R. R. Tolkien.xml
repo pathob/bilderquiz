@@ -43,6 +43,11 @@
 <type>uri</type>
 <value>http://dbpedia.org/resource/J._R._R._Tolkien</value>
 </author>
+<name>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>Farmer Giles of Ham</value>
+</name>
 <released>
 <type>typed-literal</type>
 <datatype>http://www.w3.org/2001/XMLSchema#integer</datatype>
@@ -67,6 +72,11 @@
 <type>uri</type>
 <value>http://dbpedia.org/resource/J._R._R._Tolkien</value>
 </author>
+<name>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>The Hobbit, or</value>
+</name>
 <released>
 <type>typed-literal</type>
 <datatype>http://www.w3.org/2001/XMLSchema#date</datatype>
@@ -91,6 +101,11 @@
 <type>uri</type>
 <value>http://dbpedia.org/resource/J._R._R._Tolkien</value>
 </author>
+<name>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>The Tolkien Reader</value>
+</name>
 <released>
 <type>typed-literal</type>
 <datatype>http://www.w3.org/2001/XMLSchema#integer</datatype>
@@ -115,6 +130,11 @@
 <type>uri</type>
 <value>http://dbpedia.org/resource/J._R._R._Tolkien</value>
 </author>
+<name>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>Finn and Hengest: The Fragment and the Episode</value>
+</name>
 <released>
 <type>typed-literal</type>
 <datatype>http://www.w3.org/2001/XMLSchema#integer</datatype>
@@ -139,6 +159,11 @@
 <type>uri</type>
 <value>http://dbpedia.org/resource/J._R._R._Tolkien</value>
 </author>
+<name>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>Mr. Bliss</value>
+</name>
 <released>
 <type>typed-literal</type>
 <datatype>http://www.w3.org/2001/XMLSchema#integer</datatype>
@@ -163,6 +188,11 @@
 <type>uri</type>
 <value>http://dbpedia.org/resource/J._R._R._Tolkien</value>
 </author>
+<name>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>Tree and Leaf</value>
+</name>
 <released>
 <type>typed-literal</type>
 <datatype>http://www.w3.org/2001/XMLSchema#integer</datatype>
@@ -187,6 +217,11 @@
 <type>uri</type>
 <value>http://dbpedia.org/resource/J._R._R._Tolkien</value>
 </author>
+<name>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>Unfinished Tales</value>
+</name>
 <released>
 <type>typed-literal</type>
 <datatype>http://www.w3.org/2001/XMLSchema#integer</datatype>
@@ -211,6 +246,11 @@
 <type>uri</type>
 <value>http://dbpedia.org/resource/J._R._R._Tolkien</value>
 </author>
+<name>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>The Father Christmas Letters</value>
+</name>
 <released>
 <type>typed-literal</type>
 <datatype>http://www.w3.org/2001/XMLSchema#integer</datatype>
@@ -235,6 +275,11 @@
 <type>uri</type>
 <value>http://dbpedia.org/resource/J._R._R._Tolkien</value>
 </author>
+<name>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>Songs for the Philologists</value>
+</name>
 <released>
 <type>typed-literal</type>
 <datatype>http://www.w3.org/2001/XMLSchema#integer</datatype>
@@ -259,6 +304,11 @@
 <type>uri</type>
 <value>http://dbpedia.org/resource/J._R._R._Tolkien</value>
 </author>
+<name>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>The Lord of the Rings</value>
+</name>
 <released>
 <type>typed-literal</type>
 <datatype>http://www.w3.org/2001/XMLSchema#integer</datatype>
@@ -283,6 +333,11 @@
 <type>uri</type>
 <value>http://dbpedia.org/resource/J._R._R._Tolkien</value>
 </author>
+<name>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>The Silmarillion</value>
+</name>
 <released>
 <type>typed-literal</type>
 <datatype>http://www.w3.org/2001/XMLSchema#integer</datatype>
@@ -307,6 +362,11 @@
 <type>uri</type>
 <value>http://dbpedia.org/resource/J._R._R._Tolkien</value>
 </author>
+<name>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>The Children of Húrin</value>
+</name>
 <released>
 <type>typed-literal</type>
 <datatype>http://www.w3.org/2001/XMLSchema#date</datatype>
@@ -331,6 +391,11 @@
 <type>uri</type>
 <value>http://dbpedia.org/resource/J._R._R._Tolkien</value>
 </author>
+<name>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>The Return of the King</value>
+</name>
 <released>
 <type>typed-literal</type>
 <datatype>http://www.w3.org/2001/XMLSchema#date</datatype>
@@ -350,6 +415,11 @@
 <type>uri</type>
 <value>http://dbpedia.org/resource/J._R._R._Tolkien</value>
 </author>
+<name>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>The Two Towers</value>
+</name>
 <released>
 <type>typed-literal</type>
 <datatype>http://www.w3.org/2001/XMLSchema#date</datatype>
@@ -369,6 +439,11 @@
 <type>uri</type>
 <value>http://dbpedia.org/resource/J._R._R._Tolkien</value>
 </author>
+<name>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>Smith of Wootton Major</value>
+</name>
 <released>
 <type>typed-literal</type>
 <datatype>http://www.w3.org/2001/XMLSchema#integer</datatype>
@@ -388,6 +463,11 @@
 <type>uri</type>
 <value>http://dbpedia.org/resource/J._R._R._Tolkien</value>
 </author>
+<name>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>The Monsters and the Critics</value>
+</name>
 <released>
 <type>typed-literal</type>
 <datatype>http://www.w3.org/2001/XMLSchema#integer</datatype>
@@ -407,6 +487,11 @@
 <type>uri</type>
 <value>http://dbpedia.org/resource/J._R._R._Tolkien</value>
 </author>
+<name>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>The History of The Hobbit</value>
+</name>
 <released>
 <type>typed-literal</type>
 <datatype>http://www.w3.org/2001/XMLSchema#integer</datatype>
@@ -426,6 +511,11 @@
 <type>uri</type>
 <value>http://dbpedia.org/resource/J._R._R._Tolkien</value>
 </author>
+<name>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>Beowulf and the Critics</value>
+</name>
 <released>
 <type>typed-literal</type>
 <datatype>http://www.w3.org/2001/XMLSchema#integer</datatype>
@@ -445,6 +535,11 @@
 <type>uri</type>
 <value>http://dbpedia.org/resource/J._R._R._Tolkien</value>
 </author>
+<name>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>The Fellowship of the Ring</value>
+</name>
 <released>
 <type>typed-literal</type>
 <datatype>http://www.w3.org/2001/XMLSchema#date</datatype>
@@ -464,6 +559,11 @@
 <type>uri</type>
 <value>http://dbpedia.org/resource/J._R._R._Tolkien</value>
 </author>
+<name>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>The Book of Lost Tales</value>
+</name>
 <released>
 <type>typed-literal</type>
 <datatype>http://www.w3.org/2001/XMLSchema#date</datatype>
@@ -483,6 +583,11 @@
 <type>uri</type>
 <value>http://dbpedia.org/resource/J._R._R._Tolkien</value>
 </author>
+<name>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>The Adventures of Tom Bombadil</value>
+</name>
 <wikilink>
 <type>uri</type>
 <value>http://en.wikipedia.org/wiki/The_Adventures_of_Tom_Bombadil?oldid=574654676</value>
@@ -502,6 +607,11 @@
 <type>uri</type>
 <value>http://dbpedia.org/resource/J._R._R._Tolkien</value>
 </author>
+<name>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>The Legend of Sigurd and Gudrún</value>
+</name>
 <wikilink>
 <type>uri</type>
 <value>http://en.wikipedia.org/wiki/The_Legend_of_Sigurd_and_Gudrún?oldid=605587948</value>
@@ -521,6 +631,11 @@
 <type>uri</type>
 <value>http://dbpedia.org/resource/J._R._R._Tolkien</value>
 </author>
+<name>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>The Fall of Arthur</value>
+</name>
 <wikilink>
 <type>uri</type>
 <value>http://en.wikipedia.org/wiki/The_Fall_of_Arthur?oldid=572313209</value>
@@ -535,6 +650,11 @@
 <type>uri</type>
 <value>http://dbpedia.org/resource/J._R._R._Tolkien</value>
 </author>
+<name>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>Tales from the Perilous Realm</value>
+</name>
 <wikilink>
 <type>uri</type>
 <value>http://en.wikipedia.org/wiki/Tales_from_the_Perilous_Realm?oldid=554882387</value>
@@ -549,6 +669,11 @@
 <type>uri</type>
 <value>http://dbpedia.org/resource/J._R._R._Tolkien</value>
 </author>
+<name>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>Poems and Stories</value>
+</name>
 <wikilink>
 <type>uri</type>
 <value>http://en.wikipedia.org/wiki/Poems_and_Stories_(by_JRR_Tolkien)?oldid=573788519</value>
@@ -563,6 +688,11 @@
 <type>uri</type>
 <value>http://dbpedia.org/resource/J._R._R._Tolkien</value>
 </author>
+<name>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>The Hobbit, or There and Back Again</value>
+</name>
 <wikilink>
 <type>uri</type>
 <value>http://en.wikipedia.org/wiki/The_Annotated_Hobbit?oldid=603278041</value>

@@ -50,6 +50,11 @@
 <type>uri</type>
 <value>http://dbpedia.org/resource/Felix_Salten</value>
 </author>
+<name>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>Bambi, a Life in the Woods</value>
+</name>
 <wikilink>
 <type>uri</type>
 <value>http://en.wikipedia.org/wiki/Bambi,_a_Life_in_the_Woods?oldid=603259944</value>
@@ -69,6 +74,11 @@
 <type>uri</type>
 <value>http://dbpedia.org/resource/Felix_Salten</value>
 </author>
+<name>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>Die Jogend des Eichornchens Perri</value>
+</name>
 <wikilink>
 <type>uri</type>
 <value>http://en.wikipedia.org/wiki/Perri_(novel)?oldid=597047292</value>
@@ -83,6 +93,11 @@
 <type>uri</type>
 <value>http://dbpedia.org/resource/Felix_Salten</value>
 </author>
+<name>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>Bambis Kinder, eine Familie im Walde</value>
+</name>
 <wikilink>
 <type>uri</type>
 <value>http://en.wikipedia.org/wiki/Bambi&apos;s_Children?oldid=593308462</value>

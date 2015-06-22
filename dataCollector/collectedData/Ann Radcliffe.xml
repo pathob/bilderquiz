@@ -44,6 +44,11 @@
 <type>uri</type>
 <value>http://dbpedia.org/resource/Ann_Radcliffe</value>
 </author>
+<name>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>Gaston de Blondeville</value>
+</name>
 <thumbnail>
 <type>uri</type>
 <value>http://commons.wikimedia.org/wiki/Special:FilePath/Gaston_de_Blondeville_1826.jpg?width=300</value>
@@ -67,6 +72,11 @@
 <type>uri</type>
 <value>http://dbpedia.org/resource/Ann_Radcliffe</value>
 </author>
+<name>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>The Mysteries of Udolpho, A Romance; Interspersed with Some Pieces of Poetry</value>
+</name>
 <thumbnail>
 <type>uri</type>
 <value>http://commons.wikimedia.org/wiki/Special:FilePath/MysteriesOfUdolpho_cp.jpeg?width=300</value>
@@ -90,6 +100,11 @@
 <type>uri</type>
 <value>http://dbpedia.org/resource/Ann_Radcliffe</value>
 </author>
+<name>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>The Italian, or the Confessional of the Black Penitents</value>
+</name>
 <thumbnail>
 <type>uri</type>
 <value>http://commons.wikimedia.org/wiki/Special:FilePath/The_Italian_1st_ed.jpg?width=300</value>
@@ -113,6 +128,11 @@
 <type>uri</type>
 <value>http://dbpedia.org/resource/Ann_Radcliffe</value>
 </author>
+<name>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>The Castles of Athlin and Dunbayne</value>
+</name>
 <thumbnail>
 <type>uri</type>
 <value>http://commons.wikimedia.org/wiki/Special:FilePath/The_Castles_of_Athlin_and_Dunbayne.jpg?width=300</value>
@@ -136,6 +156,11 @@
 <type>uri</type>
 <value>http://dbpedia.org/resource/Ann_Radcliffe</value>
 </author>
+<name>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>A Sicilian Romance</value>
+</name>
 <thumbnail>
 <type>uri</type>
 <value>http://commons.wikimedia.org/wiki/Special:FilePath/A_Sicilian_Romance.jpg?width=300</value>
@@ -159,6 +184,11 @@
 <type>uri</type>
 <value>http://dbpedia.org/resource/Ann_Radcliffe</value>
 </author>
+<name>
+<type>literal</type>
+<xml:lang>en</xml:lang>
+<value>The Romance of the Forest</value>
+</name>
 <wikilink>
 <type>uri</type>
 <value>http://en.wikipedia.org/wiki/The_Romance_of_the_Forest?oldid=574781232</value>
