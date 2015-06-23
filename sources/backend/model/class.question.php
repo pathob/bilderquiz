@@ -15,12 +15,12 @@ class Question /* extends Base */ {
 
             $questions = array(
                 array(
-                    "key" => "value",
-                    "bla" => "blubb",
+                    'key' => 'value',
+                    'bla' => 'blubb',
                 ),
                 array(
-                    "key" => "othervalue",
-                    "bla" => "bulbb",
+                    'key' => 'othervalue',
+                    'bla' => 'bulbb',
                 ),
             );
 
