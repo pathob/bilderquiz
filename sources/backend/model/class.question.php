@@ -26,7 +26,7 @@ class Question /* extends Base */ {
 
             // JSON Objekt hier´zusammenbasteln
 
-            return json_encode($questions[rand(0, sizeof($questions)-1)]);
+            return $questions[rand(0, sizeof($questions)-1)];
         }
 
 		return;
