@@ -14,8 +14,14 @@ class Question /* extends Base */ {
         if ($verb == '') {
 
             $questions = array(
-                "key" => "value",
-                "bla" => "blubb",
+                array(
+                    "key" => "value",
+                    "bla" => "blubb",
+                ),
+                array(
+                    "key" => "othervalue",
+                    "bla" => "bulbb",
+                ),
             );
 
             // JSON Objekt hier´zusammenbasteln

@@ -81,7 +81,7 @@ class RestAPI {
 	
 	public function processRequest() {
         $file_name = realpath('model/class.'.$this->endpoint.'.php');
-        if (file_exists($file_name)) {
+        if (file_exists($file_name) && $this->endpoint != "base") {
             require_once($file_name);
             $class_name = ucfirst($this->endpoint);
             $entity = new $class_name;
