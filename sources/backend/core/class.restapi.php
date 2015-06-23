@@ -80,12 +80,15 @@ class RestAPI {
     }
 	
 	public function processRequest() {
-		require_once(realpath('model/class.'.$this->endpoint.'.php'));
-		$class_name = ucfirst($this->endpoint);
-		$entity = new $class_name;
-		
-        if (method_exists($entity, $this->method)) {
-            return $this->_response($entity->{$this->method}($this->verb, $this->args));
+        $file_name = realpath('model/class.'.$this->endpoint.'.php');
+        if (file_exists($file_name)) {
+            require_once($file_name);
+            $class_name = ucfirst($this->endpoint);
+            $entity = new $class_name;
+
+            if (method_exists($entity, $this->method)) {
+                return $this->_response($entity->{$this->method}($this->verb, $this->args));
+            }
         }
 		
         return $this->_response("No Endpoint: $this->endpoint", 404);
