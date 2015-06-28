@@ -1,0 +1,3 @@
+[submodule "docker/docker-apache-php-zorba"]
+	path = docker/docker-apache-php-zorba
+	url = git://github.com/pathob/docker-apache-php-zorba.git
