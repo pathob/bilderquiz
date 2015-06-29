@@ -17,5 +17,3 @@ class Person extends Base {
         return;
     }
 }
-
-?>

@@ -32,5 +32,3 @@ class Question /* extends Base */ {
 		return;
 	}
 }
-
-?>
