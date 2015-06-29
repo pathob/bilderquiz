@@ -5,6 +5,7 @@ require_once('class.base.php');
 class Artwork extends Base {
 
     public function __construct() {
+        echo "artwork __construct";
         parent::__construct('db/artwork_database.xml');
     }
 
@@ -37,7 +38,7 @@ END;
                     'bla' => 'bulbb',
                 ),
             );
-            
+
             return $questions[rand(0, sizeof($questions)-1)];
 
         }

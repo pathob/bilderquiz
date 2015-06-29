@@ -12,8 +12,10 @@ public abstract class Base {
         $this->_ms = InMemoryStore::getInstance();
         $this->_zorba = Zorba::getInstance($this->_ms);
         $this->_dm = $this->_zorba->getXmlDataManager();
+        echo "base __construct";
 
-        if ($database_name != '') {
+        if ($database_name != '' && file_exists($database_name)) {
+            echo "loadDocument";
             $this->_dm->loadDocument($database_name, file_get_contents($database_name));
         }
     }
