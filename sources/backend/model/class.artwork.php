@@ -11,6 +11,8 @@ class Artwork extends Base {
     public function GET($verb, $args) {
 
         if ($verb == '') {
+
+            /*
             $queryStr = <<< END
                 for \$artwork in doc('db/artwork_database.xml')//artwork
                 let \$name := \$artwork/name/text()
@@ -23,6 +25,21 @@ END;
             $result = $query->execute();
             echo $result;
             $query->destroy();
+            */
+
+            $questions = array(
+                array(
+                    'key' => 'value',
+                    'bla' => 'blubb',
+                ),
+                array(
+                    'key' => 'othervalue',
+                    'bla' => 'bulbb',
+                ),
+            );
+            
+            return $questions[rand(0, sizeof($questions)-1)];
+
         }
 
         return;
