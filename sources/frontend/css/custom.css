@@ -5,6 +5,21 @@ body{
 }
 .header{
 	background-color:#458b9b;
+	overflow: hidden;
+	padding:0 30px;
+}
+.footer{
+	background-color:#458b9b;
+	overflow: hidden;
+	padding:14px 30px;
+}
+@media (max-width: 768px){
+	.header{
+		padding:0 15px;
+	}
+	.footer{
+		padding:14px 15px;
+	}
 }
 .header h2{
 	font-family:'Oswald', sans-serif;
@@ -20,6 +35,9 @@ body{
 	width: calc(100% - 51px);
 	float:left;
 }
+.footer h4{
+	
+}
 nav{
 	margin-top: 6px;
 }
@@ -33,11 +51,25 @@ nav .glyphicon:hover{
 	cursor:pointer;
 }
 .quiz_image img{
-		width:100%;
+		width:auto;
+		max-width:100%;
+		max-height:430px;
 }
-.quiz_image{
-	margin-top:11px;
-	margin-bottom:11px;
+@media (min-width: 992px){
+	.header{
+		margin-bottom:15px;
+	}
+	.footer{
+		position:fixed;
+		bottom:0;
+		width:100%;
+	}
+}
+@media (max-width: 991px){
+	.quiz_image{
+		margin-top:11px;
+		margin-bottom:11px;
+	}
 }
 .quiz_question_container {
 	background-color:#458b9b;
@@ -71,6 +103,7 @@ nav .glyphicon:hover{
 }
 .submitButton{
 	float:right;
+	margin-top: 15px;
 }
 .submitButton:hover{
 	background-color:#327984;

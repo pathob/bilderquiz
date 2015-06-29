@@ -1,6 +1,6 @@
 # Sources
 
-Die Sources aus dem Master werden alle 5 Minuten auf dem Test-Webserver aktualisiert:
+Die Sources aus dem Master werden alle 2 Minuten auf dem Test-Webserver aktualisiert:
 
 URL: http://bilderquiz.hobusch.net/
 
