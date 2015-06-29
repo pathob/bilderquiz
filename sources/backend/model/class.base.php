@@ -1,8 +1,8 @@
 <?php
 
-require_once('zorba_api_wrapper.php');
+include('zorba_api_wrapper.php');
 
-public abstract class Base {
+class Base {
 
     protected $_ms;
     protected $_zorba;
@@ -16,7 +16,7 @@ public abstract class Base {
 
         if ($database_name != '' && file_exists($database_name)) {
             echo "loadDocument";
-            $this->_dm->loadDocument($database_name, file_get_contents($database_name));
+            $this->_dm->parseXml(elpath(database_name));
         }
     }
 

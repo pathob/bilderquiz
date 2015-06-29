@@ -6,7 +6,7 @@ class Artwork extends Base {
 
     public function __construct() {
         echo "artwork __construct";
-        parent::__construct('db/artwork_database.xml');
+        parent::__construct('artwork_database.xml');
     }
 
     public function GET($verb, $args) {
@@ -15,7 +15,7 @@ class Artwork extends Base {
 
             /*
             $queryStr = <<< END
-                for \$artwork in doc('db/artwork_database.xml')//artwork
+                for \$artwork in doc('artwork_database.xml')//artwork
                 let \$name := \$artwork/name/text()
                 let \$year := \$artwork/year/text()
                 return
