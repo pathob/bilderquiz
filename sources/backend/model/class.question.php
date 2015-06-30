@@ -79,7 +79,7 @@ class QuestionDao extends BaseDao {
                     'Spanien',
                     'Deutschland',
                     'Lettland',
-                    'Argentinien',
+                    'Argentinien'
                 ),
                 new Question(
                     'Welchen Titel hat dieses Bild?',
@@ -88,7 +88,7 @@ class QuestionDao extends BaseDao {
                     'Boy Leading a Horse',
                     'Femme aux Bras Croisés',
                     'Family of Saltimbanques',
-                    'oil on canvas',
+                    'oil on canvas'
                 ),
                 array(
                     'Aus welchem Jahr stammt dieses Bild?',
@@ -97,7 +97,7 @@ class QuestionDao extends BaseDao {
                     '1914',
                     '1925',
                     '1900',
-                    '1944',
+                    '1944'
                 ),
                 array(
                     'Welche Besonderheit hat dieses Bild?',
@@ -106,7 +106,7 @@ class QuestionDao extends BaseDao {
                     'Öl auf Leinwand',
                     'Öl auf Holz',
                     'Pastellkreiden auf Karton',
-                    'Wachsfarben auf Holz',
+                    'Wachsfarben auf Holz'
                 ),
             );
 
