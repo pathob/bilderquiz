@@ -30,6 +30,25 @@ class Question extends Base {
         $this->_wrongAnswer3 = $wrongAnswer3;
     }
     
+    public function getInstanceFromStringArray($stringArray) {
+        if (sizeof($stringArray == 7) {
+            return new self(
+                $stringArray[0],
+                $stringArray[0],
+                $stringArray[0],
+                $stringArray[0],
+                $stringArray[0],
+                $stringArray[0],
+                $stringArray[0]
+            );
+        }
+        return null;
+    }
+    
+    public function getInstanceFromString($string) {
+        return getInstanceFromStringArray(explode(";", $string));
+    }
+    
     public function asArray() {
         return array(
             'question' => $this->_question,
@@ -42,8 +61,7 @@ class Question extends Base {
                 'wrongAnswer3' => $this->_wrongAnswer3,
             ),
         );
-    }
-    
+    }   
 }
 
 class QuestionDao extends BaseDao {
@@ -54,53 +72,45 @@ class QuestionDao extends BaseDao {
         if ($verb == 'random') {
 
             $questions = array(
-                array(
-                    'question' => 'Aus welchem Land stammt dieses Bild?',
-                    'hint'     => 'Der Autor ist im jahre 1881 geboren.',
-                    'image'    => 'img/picasso_1.jpg',
-                    'answers'  => array(
-                        'rightAnswer'  => 'Spanien',
-                        'wrongAnswer1' => 'Deutschland',
-                        'wrongAnswer2' => 'Lettland',
-                        'wrongAnswer3' => 'Argentinien',
-                    ),
+                new Question(
+                    'Aus welchem Land stammt dieses Bild?',
+                    'Der Autor ist im jahre 1881 geboren.',
+                    'img/picasso_1.jpg',
+                    'Spanien',
+                    'Deutschland',
+                    'Lettland',
+                    'Argentinien',
+                ),
+                new Question(
+                    'Welchen Titel hat dieses Bild?',
+                    'Das Bild ist von Pablo Picasso.',
+                    'img/boy_leading_horse.jpg',
+                    'Boy Leading a Horse',
+                    'Femme aux Bras Croisés',
+                    'Family of Saltimbanques',
+                    'oil on canvas',
                 ),
                 array(
-                    'question' => 'Welchen Titel hat dieses Bild?',
-                    'hint'     => 'Das Bild ist von Pablo Picasso.',
-                    'image'    => 'img/boy_leading_horse.jpg',
-                    'answers'  => array(
-                        'rightAnswer'  => 'Boy Leading a Horse',
-                        'wrongAnswer1' => 'Femme aux Bras Croisés',
-                        'wrongAnswer2' => 'Family of Saltimbanques',
-                        'wrongAnswer3' => 'oil on canvas',
-                    ),
+                    'Aus welchem Jahr stammt dieses Bild?',
+                    'Das Bild ist von Pablo Picasso.',
+                    'img/ma_jolie.jpg',
+                    '1914',
+                    '1925',
+                    '1900',
+                    '1944',
                 ),
                 array(
-                    'question' => 'Aus welchem Jahr stammt dieses Bild?',
-                    'hint'     => 'Das Bild ist von Pablo Picasso.',
-                    'image'    => 'img/ma_jolie.jpg',
-                    'answers'  => array(
-                        'rightAnswer'  => '1914',
-                        'wrongAnswer1' => '1925',
-                        'wrongAnswer2' => '1900',
-                        'wrongAnswer3' => '1944',
-                    ),
-                ),
-                array(
-                    'question' => 'Welche Besonderheit hat dieses Bild?',
-                    'hint'     => 'Das Bild ist von Pablo Picasso.',
-                    'image'    => 'img/oil_painting.jpg',
-                    'answers'  => array(
-                        'rightAnswer'  => 'Öl auf Leinwand',
-                        'wrongAnswer1' => 'Öl auf Holz',
-                        'wrongAnswer2' => 'Pastellkreiden auf Karton',
-                        'wrongAnswer3' => 'Wachsfarben auf Holz',
-                    ),
+                    'Welche Besonderheit hat dieses Bild?',
+                    'Das Bild ist von Pablo Picasso.',
+                    'img/oil_painting.jpg',
+                    'Öl auf Leinwand',
+                    'Öl auf Holz',
+                    'Pastellkreiden auf Karton',
+                    'Wachsfarben auf Holz',
                 ),
             );
 
-            return $questions[rand(0, sizeof($questions)-1)];
+            return $questions[rand(0, sizeof($questions)-1)].asArray();
         }
 
 		return;
