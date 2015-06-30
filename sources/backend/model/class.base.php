@@ -2,7 +2,13 @@
 
 include('zorba_api_wrapper.php');
 
-class Base {
+abstract class Base {
+    
+    abstract public function asArray();
+    
+}
+
+abstract class BaseDao {
 
     protected $_ms;
     protected $_zorba;

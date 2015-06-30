@@ -3,6 +3,50 @@
 require_once('class.base.php');
 
 class Question extends Base {
+    
+    protected $_question;
+    protected $_hint;
+    protected $_image;
+    protected $_rightAnswer;
+    protected $_wrongAnswer1;
+    protected $_wrongAnswer2;
+    protected $_wrongAnswer3;
+    
+    public function __construct(
+            $question,
+            $hint,
+            $image,
+            $rightAnswer,
+            $wrongAnswer1,
+            $wrongAnswer2,
+            $wrongAnswer3) {
+                
+        $this->_question = $question;
+        $this->_hint     = $hint;
+        $this->_image    = $image;
+        $this->_rightAnswer  = $rightAnswer;
+        $this->_wrongAnswer1 = $wrongAnswer1;
+        $this->_wrongAnswer2 = $wrongAnswer2;
+        $this->_wrongAnswer3 = $wrongAnswer3;
+    }
+    
+    public public function asArray() {
+        return array(
+            'question' => $this->_question,
+            'hint'     => $this->_hint,
+            'image'    => $this->_image,
+            'answers'  => array(
+                'rightAnswer'  => $this->_rightAnswer,
+                'wrongAnswer1' => $this->_wrongAnswer1,
+                'wrongAnswer2' => $this->_wrongAnswer2,
+                'wrongAnswer3' => $this->_wrongAnswer3,
+            ),
+        );
+    }
+    
+}
+
+class QuestionDao extends BaseDao {
 
     public function GET($verb, $args) {
 

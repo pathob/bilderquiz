@@ -3,6 +3,12 @@
 require_once('class.base.php');
 
 class Person extends Base {
+    
+    // TODO
+    
+}
+
+class PersonDao extends BaseDao {
 
     public static $Database = '/var/www/backend/db/person_database.xml';
 

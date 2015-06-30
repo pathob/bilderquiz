@@ -3,6 +3,12 @@
 require_once('class.base.php');
 
 class Artwork extends Base {
+    
+    // TODO
+    
+}
+
+class ArtworkDao extends BaseDao {
 
     public static $Database = '/var/www/backend/db/artwork_database.xml';
 

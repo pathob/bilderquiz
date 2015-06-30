@@ -17,8 +17,9 @@ docker-compose build apache
 docker-compose up -d apache
 ```
 
-Fertig - nun könnt ihr den Quellcode aus `/sources/` über http://localhost:13370 aufrufen. Eure
-Änderungen am Code sind automatisch auch im Docker-Container vorhanden.
+Fertig - nun könnt ihr den Quellcode aus `/sources/` über
+[http://localhost:13370]()http://localhost:13370 ausführen. Eure Änderungen am Code sind automatisch
+auch im Docker-Container vorhanden.
 
 ## Technische Dokumentation
 
