@@ -30,7 +30,7 @@ class Question extends Base {
         $this->_wrongAnswer3 = $wrongAnswer3;
     }
     
-    public public function asArray() {
+    public function asArray() {
         return array(
             'question' => $this->_question,
             'hint'     => $this->_hint,
