@@ -31,7 +31,7 @@ class Question extends Base {
     }
     
     public function getInstanceFromStringArray($stringArray) {
-        if (sizeof($stringArray == 7) {
+        if (sizeof($stringArray == 7)) {
             return new self(
                 $stringArray[0],
                 $stringArray[0],
