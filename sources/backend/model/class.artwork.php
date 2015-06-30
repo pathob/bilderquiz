@@ -4,7 +4,9 @@ require_once('class.base.php');
 
 class Artwork extends Base {
     
-    // TODO
+    public function asArray() {
+
+    }
     
 }
 

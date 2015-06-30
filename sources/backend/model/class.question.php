@@ -90,7 +90,7 @@ class QuestionDao extends BaseDao {
                     'Family of Saltimbanques',
                     'oil on canvas'
                 ),
-                array(
+                new Question(
                     'Aus welchem Jahr stammt dieses Bild?',
                     'Das Bild ist von Pablo Picasso.',
                     'img/ma_jolie.jpg',
@@ -99,7 +99,7 @@ class QuestionDao extends BaseDao {
                     '1900',
                     '1944'
                 ),
-                array(
+                new Question(
                     'Welche Besonderheit hat dieses Bild?',
                     'Das Bild ist von Pablo Picasso.',
                     'img/oil_painting.jpg',
@@ -110,9 +110,9 @@ class QuestionDao extends BaseDao {
                 ),
             );
 
-            return $questions[rand(0, sizeof($questions)-1)].asArray();
+            return $questions[rand(0, sizeof($questions)-1)]->asArray();
         }
 
-		return;
-	}
+        return;
+    }
 }

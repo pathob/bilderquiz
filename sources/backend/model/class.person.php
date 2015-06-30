@@ -4,7 +4,9 @@ require_once('class.base.php');
 
 class Person extends Base {
     
-    // TODO
+    public function asArray() {
+
+    }
     
 }
 
