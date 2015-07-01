@@ -107,21 +107,16 @@ function getQuestion($SID){
 				'question' => $question,
 				'hint' => $hint,
 				'image' => $image,
-				'rightAnswer' => $rightAnswer,
+				'rightAnswer' => $rightAnswerPosition,
 				'answerButtons' => $answerButtons,
 				);
 }
-
-
-/* Program Flow  */
 session_start();
-$SID = SID;
-
-if(isset($_POST['selection'])){
-	if($_POST['selection'] =='0' || $_POST['selection'] =='1' || $_POST['selection'] =='2' || $_POST['selection'] =='3' || $_POST['selection'] =='4'){
-		$questionData = getQuestion($SID);
-	}
-}else{
-		$questionData = getQuestion($SID);
-	}
+$questionData = getQuestion($SID);
+$_SESSION['questionCounter'] = $_SESSION['questionCounter'] + 1;
+$_SESSION['questionData']=$questionData;
+if(isset($_POST['questionCount'])){
+	$_SESSION['questionCount'] = $_POST['questionCount'];
+}
+	
 ?>

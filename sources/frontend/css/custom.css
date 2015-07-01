@@ -64,11 +64,15 @@ nav .glyphicon:hover{
 		bottom:0;
 		width:100%;
 	}
+	.quiz_start .quiz_question_container{
+		margin-top:70px;
+	}
 }
 @media (max-width: 991px){
 	.quiz_image{
 		margin-top:11px;
 		margin-bottom:11px;
+		text-align:center;
 	}
 }
 .quiz_question_container {
@@ -87,7 +91,7 @@ nav .glyphicon:hover{
 	padding:11px;
 }
 
-.answerButton{
+.quiz_form .answerButton{
 	/* Firefox */
 	width: -moz-calc(100% - 56px);
 	/* WebKit */
@@ -96,20 +100,39 @@ nav .glyphicon:hover{
 	width: -o-calc(100% - 56px);
 	/* Standard */
 	width: calc(100% - 56px);
+}
+.answerButton{
 	margin-bottom:7px;
+	width:100%;
 }
 .answerButton:hover{
 	background-color:#dd9d2a;
 }
+.answered .answerButton:hover{
+	background-color:#358293;
+}
 .submitButton{
 	float:right;
 	margin-top: 15px;
+}
+.quiz_finish{
+	margin-top:33px;
+}
+.quiz_finish .submitButton{
+	margin-top: 33px;
+	float:none;
+}
+.quiz_finish .col-sm-12{
+	text-align:center;
 }
 .submitButton:hover{
 	background-color:#327984;
 }
 .answers{
 	margin-top:11px;
+}
+.quiz_finish .answers{
+	margin-top:33px;
 }
 .answerChar{
 	width:49px;
@@ -119,4 +142,64 @@ nav .glyphicon:hover{
 	background-color:#458b9b;
 	float:left;
 	margin-right:7px;
+}
+@keyframes blinkRed {  
+    0% { background-color: transparent; }
+    100% { background-color: #cb1919; }
+}
+@-webkit-keyframes blinkRed {
+    0% { background-color: transparent; }
+    100% { background-color: #cb1919; }
+}
+.wrongAnswer{ 
+	-webkit-animation: blinkRed 0.3s linear 4;
+  -moz-animation: blinkRed 0.3s linear 4;
+  animation: blinkRed 0.3s linear 4;
+	animation-fill-mode: forwards; 
+}
+@keyframes blinkGreen {  
+    0% { background-color: transparent; }
+    100% { background-color: #359c28; }
+}
+@-webkit-keyframes blinkGreen {
+    0% { background-color: transparent; }
+    100% { background-color: #359c28; }
+}
+.trueAnswer{ 
+	-webkit-animation: blinkGreen 0.3s linear 4;
+  -moz-animation: blinkGreen 0.3s linear 4;
+  animation: blinkGreen 0.3s linear 4;
+	animation-fill-mode: forwards; 
+}
+.visible{
+	display:block;
+}
+.footer .statTrue, .footer .statFalse{
+	border-radius:7px;
+	padding:9px 15px; 
+	font-weight:bold;
+	float:right;
+}
+.quiz_finish .statTrue, .quiz_finish .statFalse{
+	border-radius:10px;
+	padding:49px 63px; 
+	font-weight:bold;
+	font-size:41px;
+	float:right;
+}
+.statTrue{
+	background-color:#c3e9a4;
+	border: 3px solid #86b560;
+	color:#3b8300;
+	margin-left:33px;
+}
+.statFalse{
+	background-color:#f0c8c3;
+	border: 3px solid #d76253;
+	color:#a41300;
+	margin-left:21px;
+}
+.currentQuestion{
+	float:right;
+	line-height:40px;
 }

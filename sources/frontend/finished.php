@@ -1,8 +1,5 @@
 <?php
 session_start();
-$_SESSION = array();
-session_unset();
-session_destroy();
 ?>
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
 <html xmlns="http://www.w3.org/1999/xhtml">
@@ -32,27 +29,23 @@ session_destroy();
     	<div class="col-md-6 quiz_image">
             <img src="img/kunstquiz.jpg" alt="" />
       </div>
-      <div class="col-md-6 quiz_start">
+      <div class="col-md-6 quiz_finish">
         <section class="quiz_question_container">
-          <div class="quiz_question">Wähle die Anzahl der Fragen aus, die du spielen möchtest.</div>
+          <div class="quiz_question">Sie haben <?php echo $_SESSION['answeredTrue']; ?> von <?php echo $_SESSION['questionCount']; ?> Fragen richtig beantwortet.</div>
         </section>
         <section class="answers">
           <div class="row">
-            <div class="col-sm-12">
-              <form id="bilderquiz" action="quiz.php" method="post">
-                <button class="answerButton" id="questionCount" name="questionCount" value="10" type="submit">10</button>
-              </form>   
+            <div class="col-xs-4 col-xs-offset-2">
+      				<span class="statTrue"><?php echo $_SESSION['answeredTrue'];?></span>
             </div>
-            <div class="col-sm-12">
-              <form action="quiz.php" method="post">
-                <button class="answerButton" id="questionCount" name="questionCount" value="15" type="submit">15</button>
-              </form> 
+            <div class="col-xs-4">
+              <span class="statFalse"><?php echo $_SESSION['answeredFalse']; ?></span>
             </div>
           </div>
           <div class="row">
             <div class="col-sm-12">
-              <form action="quiz.php" method="post">
-                <button class="answerButton" id="questionCount" name="questionCount" value="20" type="submit">20</button>
+              <form action="index.php" method="post">
+                <button class="submitButton" value="20" type="submit">Nochmal spielen</button>
               </form> 
             </div>
           </div>
@@ -70,3 +63,9 @@ session_destroy();
 </article>
 </body>
 </html>
+<?php
+session_unset();
+$_SESSION = array();
+session_regenerate_id($delete_old_session = true);
+session_destroy();
+?>
