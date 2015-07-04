@@ -10,4 +10,6 @@
 		</xsl:copy> 
 	</xsl:template>
 	<xsl:template match="artworks" />
+	<xsl:template match="books" />
+	<xsl:template match="buildings" />
 </xsl:stylesheet>

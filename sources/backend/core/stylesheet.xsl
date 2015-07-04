@@ -65,6 +65,51 @@
 					</artwork>
 				</xsl:for-each>
 			</artworks>
+			<buildings>
+				<xsl:for-each select="buildings/XML_Serializer_Tag" >	
+					<building>
+						<ressource>
+							<xsl:value-of select="building/value" />
+						</ressource>
+						<thumbnail>
+							<xsl:value-of select="thumbnail/value" />	
+						</thumbnail>
+						<name>
+							<xsl:value-of select="name/value" />
+						</name>
+						<year>
+							<xsl:value-of select="built/value" />
+						</year>
+						<abstract>
+							<xsl:value-of select="wikilink/value" />
+						</abstract>
+						<location>
+							<xsl:value-of select="location/value" />
+						</location>
+					</building>
+				</xsl:for-each>
+			</buildings>
+			<books>
+				<xsl:for-each select="books/XML_Serializer_Tag" >	
+					<book>
+						<ressource>
+							<xsl:value-of select="book/value" />
+						</ressource>
+						<thumbnail>
+							<xsl:value-of select="thumbnail/value" />	
+						</thumbnail>
+						<name>
+							<xsl:value-of select="name/value" />
+						</name>
+						<year>
+							<xsl:value-of select="released/value" />
+						</year>
+						<abstract>
+							<xsl:value-of select="wikilink/value" />
+						</abstract>
+					</book>
+				</xsl:for-each>
+			</books>
 		</person>
     </xsl:template>
  
