@@ -28,7 +28,7 @@ class ArtworkDao extends BaseDao {
 				declare namespace ver = 'http://zorba.io/options/versioning';
 				declare option ver:module-version '1.0';
 
-				declare %private variable \$r:errNS as string := 'http://zorba.io/modules/random';
+				declare %private variable \$r:errNS  := 'http://zorba.io/modules/random';
 				declare %private variable \$r:INVALID_ARGUMENT as QName := fn:QName(\$r:errNS, 'r:INVALID_ARGUMENT');
 
 
