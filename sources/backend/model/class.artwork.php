@@ -100,8 +100,6 @@ class ArtworkDao extends BaseDao {
 				{
 				  r:random-between(\$lower, \$upper, 1)
 				};
-
-				declare %an:nondeterministic function r:uuid() as string external;
 				for \$artworks in doc(".ArtworkDao::$ArtworksDatabase.")/artworks,
 				  \$persons in doc(".ArtworkDao::$PersonsDatabase.")/persons
 				let \$artwork := \$artworks/artwork[matches(year/text(), '^[0-9][0-9][0-9][0-9]\$')]
