@@ -20,6 +20,7 @@ class ArtworkDao extends BaseDao {
         if ($verb == 'yearQuestion') {
 
             $queryStr = "
+				declare namespace r = 'http://zorba.io/modules/random';
 
 				declare namespace an = 'http://zorba.io/annotations';
 				declare namespace zerr = 'http://zorba.io/errors';
@@ -103,10 +104,10 @@ class ArtworkDao extends BaseDao {
 				  \$persons in doc(".ArtworkDao::$PersonsDatabase.")/persons
 				let \$artwork := \$artworks/artwork[matches(year/text(), '^[0-9][0-9][0-9][0-9]\$')]
 				let \$rows := count(\$artwork)
-				let \$rand0 := random-between(\$rows -1)+1
-				let \$rand1 := random-between(\$rows -1)+1
-				let \$rand2 := random-between(\$rows -1)+1
-				let \$rand3 := random-between(\$rows -1)+1
+				let \$rand0 := r:random-between(\$rows -1)+1
+				let \$rand1 := r:random-between(\$rows -1)+1
+				let \$rand2 := r:random-between(\$rows -1)+1
+				let \$rand3 := r:random-between(\$rows -1)+1
 				let \$id := \$artwork[\$rand0]/personID/@ID
 				let \$painter := \$persons/person[personID[@ID=\$id]]/name/text()
 
