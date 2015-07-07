@@ -46,30 +46,7 @@ class ArtworkDao extends BaseDao {
 				  r:random(1)
 				};
 
-				declare function r:seeded-random-between(
-				  \$seed ,
-				  \$lower ,
-				  \$upper ,
-				  \$num 
-				) 
-				{
-				  if ( \$lower eq \$upper ) then
-					\$lower
-				  else
-					if ( \$lower gt \$upper ) then
-					  fn:error(
-						\$r:INVALID_ARGUMENT,
-						'\$lower must be less than or equal to \$upper',
-						(\$lower, \$upper)
-					  )
-					else
-					  for \$i in r:seeded-random( \$seed, \$num )
-					  return
-						if ( ( \$upper - \$lower ) lt 10000 ) then
-						  integer( fn:round( double( \$i mod 10000 ) div 10000 * ( \$upper - \$lower) ) + \$lower )
-						else
-						  integer( fn:round( double( \$i ) mod ( \$upper - \$lower ) ) + \$lower )
-				};
+				
 				declare %an:nondeterministic function r:random-between(
 				  \$lower ,
 				  \$upper ,
