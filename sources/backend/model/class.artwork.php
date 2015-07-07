@@ -20,7 +20,88 @@ class ArtworkDao extends BaseDao {
         if ($verb == 'yearQuestion') {
 
             $queryStr = "
-				import module namespace r = 'http://zorba.io/modules/random';
+				module namespace r = 'http://zorba.io/modules/random';
+
+				declare namespace an = 'http://zorba.io/annotations';
+				declare namespace zerr = 'http://zorba.io/errors';
+
+				declare namespace ver = 'http://zorba.io/options/versioning';
+				declare option ver:module-version '1.0';
+
+				declare %private variable \$r:errNS as string := 'http://zorba.io/modules/random';
+				declare %private variable \$r:INVALID_ARGUMENT as QName := fn:QName(\$r:errNS, 'r:INVALID_ARGUMENT');
+
+
+				declare function r:seeded-random(
+				  \$seed as integer,
+				  \$num as integer
+				) as integer* external;
+
+				declare %an:nondeterministic function r:random(
+				  \$num as integer
+				) as integer* external;
+
+				declare %an:nondeterministic function r:random() as integer
+				{
+				  r:random(1)
+				};
+
+				declare function r:seeded-random-between(
+				  \$seed as integer,
+				  \$lower as integer,
+				  \$upper as integer,
+				  \$num as integer
+				) as integer*
+				{
+				  if ( \$lower eq \$upper ) then
+					\$lower
+				  else
+					if ( \$lower gt \$upper ) then
+					  fn:error(
+						\$r:INVALID_ARGUMENT,
+						'\$lower must be less than or equal to \$upper',
+						(\$lower, \$upper)
+					  )
+					else
+					  for \$i in r:seeded-random( \$seed, \$num )
+					  return
+						if ( ( \$upper - \$lower ) lt 10000 ) then
+						  integer( fn:round( double( \$i mod 10000 ) div 10000 * ( \$upper - \$lower) ) + \$lower )
+						else
+						  integer( fn:round( double( \$i ) mod ( \$upper - \$lower ) ) + \$lower )
+				};
+				declare %an:nondeterministic function r:random-between(
+				  \$lower as integer,
+				  \$upper as integer,
+				  \$num as integer) as integer*
+				{
+				  if ( \$lower eq \$upper ) then
+					\$lower
+				  else
+					if ( \$lower gt \$upper ) then
+					  fn:error(
+						\$r:INVALID_ARGUMENT,
+						'\$lower must be less than or equal to \$upper',
+						(\$lower, \$upper)
+					  )
+					else
+					  for \$i in r:random( \$num )
+					  return
+						if ( ( \$upper - \$lower ) lt 10000 ) then
+						  integer( fn:round( double( \$i mod 10000 ) div 10000 * ( \$upper - \$lower) ) + \$lower )
+						else
+						  integer( fn:round( double( \$i ) mod ( \$upper - \$lower ) ) + \$lower )
+				};
+
+				declare %an:nondeterministic function r:random-between(
+				  \$lower as integer,
+				  \$upper as integer
+				) as integer
+				{
+				  r:random-between(\$lower, \$upper, 1)
+				};
+
+				declare %an:nondeterministic function r:uuid() as string external;
 				for \$artworks in doc(".ArtworkDao::$ArtworksDatabase.")/artworks,
 				  \$persons in doc(".ArtworkDao::$PersonsDatabase.")/persons
 				let \$artwork := \$artworks/artwork[matches(year/text(), '^[0-9][0-9][0-9][0-9]\$')]
