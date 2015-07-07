@@ -77,7 +77,7 @@ class QuestionDao extends BaseDao {
                     'Das Bild ist von Pablo Picasso.',
                     'img/boy_leading_horse.jpg',
                     'Boy Leading a Horse',
-                    'Femme aux Bras Crois�s',
+                    'Femme aux Bras Croisés',
                     'Family of Saltimbanques',
                     'oil on canvas'
                 ),
