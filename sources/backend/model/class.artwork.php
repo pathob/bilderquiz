@@ -29,7 +29,7 @@ class ArtworkDao extends BaseDao {
 				declare option ver:module-version '1.0';
 
 				declare %private variable \$r:errNS  := 'http://zorba.io/modules/random';
-				declare %private variable \$r:INVALID_ARGUMENT as QName := fn:QName(\$r:errNS, 'r:INVALID_ARGUMENT');
+				declare %private variable \$r:INVALID_ARGUMENT := fn:QName(\$r:errNS, 'r:INVALID_ARGUMENT');
 
 
 				declare function r:seeded-random(
