@@ -51,7 +51,7 @@ class ArtworkDao extends BaseDao {
 				  \$lower ,
 				  \$upper ,
 				  \$num 
-				) *
+				) external *
 				{
 				  if ( \$lower eq \$upper ) then
 					\$lower
@@ -73,7 +73,7 @@ class ArtworkDao extends BaseDao {
 				declare %an:nondeterministic function r:random-between(
 				  \$lower ,
 				  \$upper ,
-				  \$num ) *
+				  \$num ) external *
 				{
 				  if ( \$lower eq \$upper ) then
 					\$lower
