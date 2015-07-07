@@ -20,8 +20,8 @@ class ArtworkDao extends BaseDao {
         if ($verb == 'yearQuestion') {
 
             $queryStr = "
-				for \$artworks in doc(".$ArtworksDatabase.")/artworks,
-				  \$persons in doc(".$PersonsDatabase.")/persons
+				for \$artworks in doc(".ArtworkDao::$ArtworksDatabase.")/artworks,
+				  \$persons in doc(".ArtworkDao::$PersonsDatabase.")/persons
 				let \$artwork := \$artworks/artwork[matches(year/text(), '^[0-9][0-9][0-9][0-9]\$')]
 				let \$rows := count(\$artwork)
 				let \$rand0 := random:integer(\$rows -1)+1
