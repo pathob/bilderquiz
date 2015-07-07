@@ -20,7 +20,7 @@ class ArtworkDao extends BaseDao {
         if ($verb == 'yearQuestion') {
 
             $queryStr = "
-				import module namespace r = \"http://zorba.io/modules/random\";
+				import module namespace r = 'http://zorba.io/modules/random';
 				for \$artworks in doc(".ArtworkDao::$ArtworksDatabase.")/artworks,
 				  \$persons in doc(".ArtworkDao::$PersonsDatabase.")/persons
 				let \$artwork := \$artworks/artwork[matches(year/text(), '^[0-9][0-9][0-9][0-9]\$')]
