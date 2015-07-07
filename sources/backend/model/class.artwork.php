@@ -20,7 +20,6 @@ class ArtworkDao extends BaseDao {
         if ($verb == 'yearQuestion') {
 
             $queryStr = "
-				module namespace r = 'http://zorba.io/modules/random';
 
 				declare namespace an = 'http://zorba.io/annotations';
 				declare namespace zerr = 'http://zorba.io/errors';
