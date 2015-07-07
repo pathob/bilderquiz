@@ -35,11 +35,11 @@ class ArtworkDao extends BaseDao {
 				declare function r:seeded-random(
 				  \$seed ,
 				  \$num 
-				) * external;
+				) external;
 
 				declare %an:nondeterministic function r:random(
 				  \$num 
-				) * external;
+				) external;
 
 				declare %an:nondeterministic function r:random() 
 				{
