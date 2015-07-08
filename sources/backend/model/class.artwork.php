@@ -24,10 +24,10 @@ class ArtworkDao extends BaseDao {
 				  \$persons in doc(".ArtworkDao::$PersonsDatabase.")/persons
 				let \$artwork := \$artworks/artwork[matches(year/text(), '^[0-9][0-9][0-9][0-9]\$')]
 				let \$rows := count(\$artwork)
-				let \$rand0 := ".(randint(400)+1)."
-				let \$rand1 := ".(randint(400)+1)."
-				let \$rand2 := ".(randint(400)+1)."
-				let \$rand3 := ".(randint(400)+1)."
+				let \$rand0 := ".randint(400)+1 ."
+				let \$rand1 := ".randint(400)+1 ."
+				let \$rand2 := ".randint(400)+1 ."
+				let \$rand3 := ".randint(400)+1 ."
 				let \$id := \$artwork[\$rand0]/personID/@ID
 				let \$painter := \$persons/person[personID[@ID=\$id]]/name/text()
 
