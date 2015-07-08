@@ -34,6 +34,8 @@ function getQuestion($SID){
 												$questionJSONObject['answers']['wrongAnswer2'], 
 												$questionJSONObject['answers']['wrongAnswer3']);
 												
+	$wikilink = $questionJSONObject['wikilink'];											
+												
 	$rightAnswerPosition = rand(0,3);
 	$answerButtons[$rightAnswerPosition] = $rightAnswer;
 	
@@ -51,6 +53,7 @@ function getQuestion($SID){
 				'image' => $image,
 				'rightAnswer' => $rightAnswerPosition,
 				'answerButtons' => $answerButtons,
+				'wikilink' => $wikilink,
 				);
 }
 session_start();
@@ -65,9 +68,6 @@ if(isset($_POST['questionCount'])){
 while(in_array($questionData['image'], $_SESSION['askedQuestions'])) {
     $questionData = getQuestion($SID);
 		$_SESSION['questionData']=$questionData;
-}
-if($questionData['hint'] == 'Das Bild ist von William Blake.'){
-	$questionData['image'] = "img/pity.jpeg";
 }
 array_push($_SESSION['askedQuestions'], $questionData['image']);	
 ?>
