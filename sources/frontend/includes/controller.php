@@ -66,5 +66,8 @@ while(in_array($questionData['image'], $_SESSION['askedQuestions'])) {
     $questionData = getQuestion($SID);
 		$_SESSION['questionData']=$questionData;
 }
+if($questionData['hint'] == 'Das Bild ist von William Blake.'){
+	$questionData['image'] = "img/pity.jpeg";
+}
 array_push($_SESSION['askedQuestions'], $questionData['image']);	
 ?>
