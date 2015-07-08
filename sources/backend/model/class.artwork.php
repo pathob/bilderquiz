@@ -20,20 +20,8 @@ class ArtworkDao extends BaseDao {
         if ($verb == 'year') {
 
             $queryStr = "
-				import module namespace r = \"http://www.zorba-xquery.com/modules/random\";
-				(:for \$artworks in doc(".ArtworkDao::$ArtworksDatabase.")/artworks,
-				  \$persons in doc(".ArtworkDao::$PersonsDatabase.")/persons
-				let \$artwork := \$artworks/artwork[matches(year/text(), '^[0-9][0-9][0-9][0-9]\$')]
-				let \$rows := count(\$artwork)
-				let \$rand0 := r:random-between(1, \$rows)
-				let \$rand1 := r:random-between(1, \$rows)
-				let \$rand2 := r:random-between(1, \$rows)
-				let \$rand3 := r:random-between(1, \$rows)
-				let \$id := \$artwork[\$rand0]/personID/@ID
-				let \$painter := \$persons/person[personID[@ID=\$id]]/name/text()
-				return ('{\"question\":\"Aus welchem Jahr stammt dieses Bild?\",\"hint\":\"Das Bild ist von ',\$painter,'.\",\"image\":\"',\$artwork[\$rand0]/thumbnail/text(),'\",\"answers\":{\"rightAnswer\":',\$artwork[\$rand0]/year/text(),',\"wrongAnswer1\":',\$artwork[\$rand1]/year/text(),',\"wrongAnswer2\":',\$artwork[\$rand2]/year/text(),',\"wrongAnswer3\":',\$artwork[\$rand3]/year/text(),'}}'):)
 				for \$artworks in doc(".ArtworkDao::$ArtworksDatabase.")/artworks
-				return r:random-between(1,10)
+				return \$artworks/text()
             ";
 
             $query = $this->_zorba->compileQuery($queryStr);
