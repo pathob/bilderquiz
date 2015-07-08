@@ -20,7 +20,7 @@ class PersonDao extends BaseDao {
 
             $queryStr = "
                 \n import module namespace r = \"http://www.zorba-xquery.com/modules/random\";
-                \n for \$person in doc('".Person::$Database."')//person
+                \n for \$person in doc('".PersonDao::$Database."')//person
                 \n let \$rows := count(\$person)
                 \n let \$rand := r:random-between(1, \$rows)
                 \n let \$name := \$person[\$rand]/name/text()
