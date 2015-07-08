@@ -21,7 +21,7 @@ class ArtworkDao extends BaseDao {
 
             $queryStr = "
 				for \$artworks in doc(\"/var/www/backend/db/artworks_database.xml\")/artworks
-				return \$artworks/text()
+				return \$artworks
             ";
 
             $query = $this->_zorba->compileQuery($queryStr);
