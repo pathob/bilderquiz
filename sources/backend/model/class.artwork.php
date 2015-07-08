@@ -36,7 +36,7 @@ class ArtworkDao extends BaseDao {
 				let \$rand3 := r:random-between(1, \$rows)
  				let \$id := \$artwork[\$rand0]/personID/@ID
  				let \$painter := \$persons/person[personID[@ID=\$id]]/name/text()
-				return ('{\"question\":\"Aus welchem Jahr stammt dieses Bild?\",\"hint\":\"Das Bild ist von ',\$painter,'.\",\"image\":\"',\$artwork[\$rand0]/thumbnail/text(),'\",\"answers\":{\"rightAnswer\":',\$artwork[\$rand0]/year/text(),',\"wrongAnswer1\":',\$artwork[\$rand1]/year/text(),',\"wrongAnswer2\":',\$artwork[\$rand2]/year/text(),',\"wrongAnswer3\":',\$artwork[\$rand3]/year/text(),'},\"wikilink\":\"',\$artwork[\$rand0]/wikilink/text(),'\"}')
+				return ('{\"question\":\"Aus welchem Jahr stammt dieses Bild?\",\"hint\":\"Das Bild ist von ',\$painter,'.\",\"image\":\"',\$artwork[\$rand0]/thumbnail/text(),'\",\"answers\":{\"rightAnswer\":',\$artwork[\$rand0]/year/text(),',\"wrongAnswer1\":',\$artwork[\$rand1]/year/text(),',\"wrongAnswer2\":',\$artwork[\$rand2]/year/text(),',\"wrongAnswer3\":',\$artwork[\$rand3]/year/text(),'},\"wikilink\":\"',\$artwork[\$rand0]/abstract/text(),'\"}')
          
             ";
 			
