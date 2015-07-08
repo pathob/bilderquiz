@@ -20,6 +20,7 @@ class ArtworkDao extends BaseDao {
         if ($verb == 'year') {
 
             $queryStr = "
+				declare option output:omit-xml-declaration \"yes\";
 				import module namespace r = \"http://www.zorba-xquery.com/modules/random\";
 				for \$artworks in doc('/var/www/backend/db/artworks_database.xml')/artworks,
 					\$persons in doc('/var/www/backend/db/persons_database.xml')/persons
