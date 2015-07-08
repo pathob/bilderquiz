@@ -21,7 +21,6 @@ class ArtworkDao extends BaseDao {
 
             $queryStr = "
 				import module namespace r = \"http://www.zorba-xquery.com/modules/random\";
-				declare option output:omit-xml-declaration \"yes\";
 				for \$artworks in doc('/var/www/backend/db/artworks_database.xml')/artworks,
 					\$persons in doc('/var/www/backend/db/persons_database.xml')/persons
  				let \$artwork := \$artworks/artwork[matches(year/text(), '^[0-9][0-9][0-9][0-9]\$')]
