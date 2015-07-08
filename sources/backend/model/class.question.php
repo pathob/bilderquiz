@@ -11,6 +11,7 @@ class Question extends Base {
     protected $_wrongAnswer1;
     protected $_wrongAnswer2;
     protected $_wrongAnswer3;
+		protected $_wikilink;
     
     public function __construct(
             $question,
@@ -19,7 +20,8 @@ class Question extends Base {
             $rightAnswer,
             $wrongAnswer1,
             $wrongAnswer2,
-            $wrongAnswer3) {
+            $wrongAnswer3,
+						$wikilink) {
                 
         $this->_question = $question;
         $this->_hint     = $hint;
@@ -28,6 +30,7 @@ class Question extends Base {
         $this->_wrongAnswer1 = $wrongAnswer1;
         $this->_wrongAnswer2 = $wrongAnswer2;
         $this->_wrongAnswer3 = $wrongAnswer3;
+				$this->_wikilink = $wikilink;
     }
     
     public function getInstanceFromStringArray($stringArray) {
@@ -39,7 +42,8 @@ class Question extends Base {
                 $stringArray[0],
                 $stringArray[0],
                 $stringArray[0],
-                $stringArray[0]
+                $stringArray[0],
+								$stringArray[0]
             );
         }
         return null;
@@ -58,8 +62,9 @@ class Question extends Base {
                 'rightAnswer'  => $this->_rightAnswer,
                 'wrongAnswer1' => $this->_wrongAnswer1,
                 'wrongAnswer2' => $this->_wrongAnswer2,
-                'wrongAnswer3' => $this->_wrongAnswer3,
+                'wrongAnswer3' => $this->_wrongAnswer3
             ),
+						'wikilink'    => $this->_wikilink,
         );
     }   
 }
@@ -79,7 +84,8 @@ class QuestionDao extends BaseDao {
                     'Boy Leading a Horse',
                     'Femme aux Bras Croisés',
                     'Family of Saltimbanques',
-                    'oil on canvas'
+                    'oil on canvas',
+										'http://en.wikipedia.org/wiki/Pablo_Picasso'
                 ),
                 new Question(
                     'Aus welchem Jahr stammt dieses Bild?',
@@ -88,7 +94,8 @@ class QuestionDao extends BaseDao {
                     '1914',
                     '1925',
                     '1900',
-                    '1944'
+                    '1944',
+										'http://en.wikipedia.org/wiki/Pablo_Picasso'
                 ),
                 new Question(
                     'Aus welchem Jahr stammt dieses Bild?',
@@ -97,7 +104,8 @@ class QuestionDao extends BaseDao {
                     '1609',
                     '1902',
                     '1822',
-                    '1855'
+                    '1855',
+										'http://en.wikipedia.org/wiki/Adam_Elsheimer'
                 ),
                 new Question(
                     'Aus welchem Jahr stammt dieses Bild?',
@@ -106,7 +114,8 @@ class QuestionDao extends BaseDao {
                     '1520',
                     '1944',
                     '1609',
-                    '1960'
+                    '1960',
+										'http://en.wikipedia.org/wiki/Albrecht_Altdorfer'
                 ),
                 new Question(
                     'Welchen Titel hat dieses Bild?',
@@ -115,7 +124,8 @@ class QuestionDao extends BaseDao {
                     'The Birth of Venus',
                     'San Zeno Altarpiece',
                     'Parnassus',
-                    'St. Bernardino of Siena between Two Angels'
+                    'St. Bernardino of Siena between Two Angels',
+										'http://en.wikipedia.org/wiki/Alexandre_Cabanel'
                 ),
                 new Question(
                     'Welchen Titel hat dieses Bild?',
@@ -124,7 +134,8 @@ class QuestionDao extends BaseDao {
                     'Portrait of Francesco Gonzaga',
                     'Presentation at the Temple',
                     'Triumph of the Virtues',
-                    'St. Bernardino of Siena between Two Angels'
+                    'St. Bernardino of Siena between Two Angels',
+										'http://en.wikipedia.org/wiki/Andrea_Mantegna'
                 ),
                 new Question(
                     'Welchen Titel hat dieses Bild?',
@@ -133,7 +144,8 @@ class QuestionDao extends BaseDao {
                     'The Madonna of the Cherubim',
                     'Christ as the Suffering Redeemer',
                     'Madonna della Vittoria',
-                    'Death of the Virgin'
+                    'Death of the Virgin',
+										'http://en.wikipedia.org/wiki/Andrea_Mantegna'
                 ),
                 new Question(
                     'Welchen Titel hat dieses Bild?',
@@ -142,7 +154,8 @@ class QuestionDao extends BaseDao {
                     'The Last Judgment',
                     'Coronation of the Virgin',
                     'Landscape with the Flight into Egypt',
-                    'Napoleon as Mars the Peacemaker'
+                    'Napoleon as Mars the Peacemaker',
+										'http://en.wikipedia.org/wiki/Fra_Angelico'
                 ),
                 new Question(
                     'Welchen Titel hat dieses Bild?',
@@ -151,7 +164,8 @@ class QuestionDao extends BaseDao {
                     'The House of the Deaf Woman and the Belfry at Eragny',
                     'Maestà',
                     'Lipstick (Ascending) on Caterpillar Tracks',
-                    'The Button'
+                    'The Button',
+										'http://en.wikipedia.org/wiki/Camille_Pissarro'
                 ),
                 new Question(
                     'Aus welchem Jahr stammt dieses Bild?',
@@ -160,7 +174,8 @@ class QuestionDao extends BaseDao {
                     '1635',
                     '1873',
                     '1732',
-                    '1868'
+                    '1868',
+										'http://en.wikipedia.org/wiki/Claude_Lorrain'
                 ),
                 new Question(
                     'Aus welchem Jahr stammt dieses Bild?',
@@ -169,7 +184,8 @@ class QuestionDao extends BaseDao {
                     '1912',
                     '1602',
                     '1966',
-                    '1598'
+                    '1598',
+										'http://en.wikipedia.org/wiki/Marcel_Duchamp'
                 ),
                 new Question(
                     'Aus welchem Jahr stammt dieses Bild?',
@@ -178,7 +194,8 @@ class QuestionDao extends BaseDao {
                     '1425',
                     '1872',
                     '1594',
-                    '1528'
+                    '1528',
+										'http://en.wikipedia.org/wiki/Masaccio'
                 ),
                 new Question(
                     'Aus welchem Jahr stammt dieses Bild?',
@@ -187,7 +204,8 @@ class QuestionDao extends BaseDao {
                     '1910',
                     '1571',
                     '1624',
-                    '1428'
+                    '1428',
+										'http://en.wikipedia.org/wiki/Umberto_Boccioni'
                 ),
                 new Question(
                     'Aus welchem Jahr stammt dieses Bild?',
@@ -196,7 +214,8 @@ class QuestionDao extends BaseDao {
                     '1890',
                     '1820',
                     '1624',
-                    '1902'
+                    '1902',
+										'http://en.wikipedia.org/wiki/Vincent_van_Gogh'
                 ),
                 new Question(
                     'Welchen Titel hat dieses Bild?',
@@ -205,7 +224,8 @@ class QuestionDao extends BaseDao {
                     'Pity',
                     'The Bench',
                     'The Distrest Poet',
-                    'Bulb Fields'
+                    'Bulb Fields',
+										'http://en.wikipedia.org/wiki/William_Blake'
                 ),
             );
 
