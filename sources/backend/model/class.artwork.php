@@ -23,7 +23,7 @@ class ArtworkDao extends BaseDao {
 				import module namespace r = \"http://www.zorba-xquery.com/modules/random\";
 				for \$artworks in doc(".ArtworkDao::$ArtworksDatabase.")/artworks,
 				  \$persons in doc(".ArtworkDao::$PersonsDatabase.")/persons
-				let \$artwork := \$artworks/artwork[matches(year/text(), '^[0-9][0-9][0-9][0-9]\$')]
+				let \$artwork := \$artworks/artwork(:[matches(year/text(), '^[0-9][0-9][0-9][0-9]\$')]:)
 				let \$rows := count(\$artwork)
 				let \$rand0 := r:random-between(1, \$rows)
 				let \$rand1 := r:random-between(1, \$rows)
