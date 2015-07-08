@@ -14,14 +14,14 @@ function requestQuestion($SID){
 			)
 	));
 	
-	$response = file_get_contents('http://localhost:8080', FALSE, $context);
+	$response = file_get_contents('http://bilderquiz.hobusch.net/api/question/random', FALSE, $context);
 	
-	/*
+	
 	if($response === FALSE){
 			die('Error');
 	}
-	*/
 	
+	/*
 	$response= array('{
     "request": {
         "question": "Aus welchem Land stammt dieses Bild?",
@@ -71,10 +71,12 @@ function requestQuestion($SID){
        	}
     }
 	}');
+	*/
 	
-	$random = rand(0,3);
+	//$random = rand(0,3);
 	
-	return $response[$random];
+	//return $response[$random];
+	return $response;
 }
 
 function getQuestion($SID){
