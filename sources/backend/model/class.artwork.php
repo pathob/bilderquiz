@@ -20,7 +20,7 @@ class ArtworkDao extends BaseDao {
         if ($verb == 'year') {
 
             $queryStr = "
-				for \$artworks in <html/>
+				for \$artworks in doc(\"/var/www/backend/db/artworks_database.xml\")/artworks
 				return \$artworks/text()
             ";
 
