@@ -20,7 +20,9 @@
   	<div class="container">
       <h2 class="page_title">FU KUNSTQUIZ</h2>
       <nav>
-        <span class="glyphicon glyphicon-menu-hamburger"></span>
+        <a href="<?php echo $questionData['wikilink'];?>" target="_blank">
+          <span class="glyphicon glyphicon-menu-hamburger"></span>
+        </a>
       </nav>
     </div>
   </section>
@@ -41,7 +43,7 @@
             <div class="col-sm-6">
               <div class="answerChar">A</div>
               <form class="capture-me" id="bilderquiz" action="includes/functions.php" method="post">
-                <button class="answerButton" id="selection" name="selection" value="0" type="submit" onclick="setClicked(this)">
+                <button class="answerButton" id="selection" name="selection" value="0" type="submit" onClick="setClicked(this)">
                   <?php echo $questionData['answerButtons'][0] ;?>
                 </button>
               </form>   
@@ -49,7 +51,7 @@
             <div class="col-sm-6">
               <div class="answerChar">B</div>
               <form class="capture-me" action="includes/functions.php" method="post">
-                <button class="answerButton" id="selection" name="selection" value="1" type="submit" onclick="setClicked(this)">
+                <button class="answerButton" id="selection" name="selection" value="1" type="submit" onClick="setClicked(this)">
                   <?php echo $questionData['answerButtons'][1];?>
                 </button>
               </form> 
@@ -59,7 +61,7 @@
             <div class="col-sm-6">
               <div class="answerChar">C</div>
               <form class="capture-me" action="includes/functions.php" method="post">
-                <button class="answerButton" id="selection" name="selection" value="2" type="submit" onclick="setClicked(this)">
+                <button class="answerButton" id="selection" name="selection" value="2" type="submit" onClick="setClicked(this)">
                   <?php echo $questionData['answerButtons'][2];?>
                 </button>
               </form> 
@@ -67,7 +69,7 @@
             <div class="col-sm-6">
               <div class="answerChar">D</div>
               <form class="capture-me" action="includes/functions.php" method="post">
-                <button class="answerButton" id="selection" name="selection" value="3" type="submit" onclick="setClicked(this)">
+                <button class="answerButton" id="selection" name="selection" value="3" type="submit" onClick="setClicked(this)">
                   <?php echo $questionData['answerButtons'][3];?>
                 </button>
               </form> 
@@ -76,7 +78,7 @@
           <div class="row nextQuestion hidden">
             <div class="col-sm-12">
             <form action="<?php echo ($_SESSION['questionCounter'] != $_SESSION['questionCount'])? htmlspecialchars($_SERVER["PHP_SELF"]):"finished.php"; ?>" method="post">
-              <button class="submitButton" name="nextQuestion" value="4" type="submit" onclick="setClicked(this)"><?php echo ($_SESSION['questionCounter'] != $_SESSION['questionCount'])? "Nächste Frage":"Weiter"; ?></button>
+              <button class="submitButton" name="nextQuestion" value="4" type="submit" onClick="setClicked(this)"><?php echo ($_SESSION['questionCounter'] != $_SESSION['questionCount'])? "Nächste Frage":"Weiter"; ?></button>
             </form> 
             </div>
           </div>
