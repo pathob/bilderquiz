@@ -34,7 +34,7 @@ class Question extends Base {
     }
     
     public function getInstanceFromStringArray($stringArray) {
-        if (sizeof($stringArray == 7)) {
+        if (sizeof($stringArray == 8)) {
             return new self(
                 $stringArray[0],
                 $stringArray[0],
@@ -43,7 +43,7 @@ class Question extends Base {
                 $stringArray[0],
                 $stringArray[0],
                 $stringArray[0],
-								$stringArray[0]
+                $stringArray[0]
             );
         }
         return null;
@@ -220,7 +220,7 @@ class QuestionDao extends BaseDao {
                 new Question(
                     'Welchen Titel hat dieses Bild?',
                     'Das Bild ist von William Blake.',
-                    'img/andrea.jpg',
+                    'img/pity.jpeg',
                     'Pity',
                     'The Bench',
                     'The Distrest Poet',
