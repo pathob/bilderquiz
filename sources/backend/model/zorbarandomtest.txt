@@ -1,0 +1,1 @@
+zorba --query "import module namespace r = 'http://zorba.io/modules/random';for $x in <html/> return r:random-between(0,10)"
