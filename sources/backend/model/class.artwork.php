@@ -47,6 +47,32 @@ class ArtworkDao extends BaseDao {
             return $this->stripFirstLine($result);
 
         }
+
+        if ($verb == 'name') {
+
+            $queryStr = "
+				import module namespace r = \"http://www.zorba-xquery.com/modules/random\";
+				for \$artworks in doc('/var/www/backend/db/artworks_database.xml')/artworks,
+					\$persons in doc('/var/www/backend/db/persons_database.xml')/persons
+ 				let \$artwork := \$artworks/artwork
+ 				let \$rows := count(\$artwork)
+				let \$rand0 := r:random-between(1, \$rows)
+				let \$rand1 := r:random-between(1, \$rows)
+				let \$rand2 := r:random-between(1, \$rows)
+				let \$rand3 := r:random-between(1, \$rows)
+ 				let \$id := \$artwork[\$rand0]/personID/@ID
+ 				let \$painter := \$persons/person[personID[@ID=\$id]]/name/text()
+				return ('{\"question\":\"Wie heißt dieses Bild?\",\"hint\":\"Das Bild ist von ',\$painter,'.\",\"image\":\"',\$artwork[\$rand0]/thumbnail/text(),'\",\"answers\":{\"rightAnswer\":',\$artwork[\$rand0]/name/text(),',\"wrongAnswer1\":',\$artwork[\$rand1]/name/text(),',\"wrongAnswer2\":',\$artwork[\$rand2]/name/text(),',\"wrongAnswer3\":',\$artwork[\$rand3]/name/text(),'},\"wikilink\":\"',\$artwork[\$rand0]/abstract/text(),'\"}')
+
+            ";
+
+            $query = $this->_zorba->compileQuery($queryStr);
+            $result = $query->execute();
+            $query->destroy();
+
+            return $this->stripFirstLine($result);
+
+        }
 		
 	
 
