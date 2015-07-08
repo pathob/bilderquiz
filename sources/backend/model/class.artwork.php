@@ -44,7 +44,7 @@ class ArtworkDao extends BaseDao {
             $result = $query->execute();
             $query->destroy();
 
-            return stripFirstLine($result);
+            return $this->stripFirstLine($result);
 
         }
 		
