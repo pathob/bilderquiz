@@ -35,14 +35,19 @@ class ArtworkDao extends BaseDao {
 				return ('{\"question\":\"Aus welchem Jahr stammt dieses Bild?\",\"hint\":\"Das Bild ist von ',\$painter,'.\",\"image\":\"',\$artwork[\$rand0]/thumbnail/text(),'\",\"answers\":{\"rightAnswer\":',\$artwork[\$rand0]/year/text(),',\"wrongAnswer1\":',\$artwork[\$rand1]/year/text(),',\"wrongAnswer2\":',\$artwork[\$rand2]/year/text(),',\"wrongAnswer3\":',\$artwork[\$rand3]/year/text(),'},\"wikilink\":\"',\$artwork[\$rand0]/wikilink/text(),'\"}')
          
             ";
-
+			
             $query = $this->_zorba->compileQuery($queryStr);
             $result = $query->execute();
             $query->destroy();
 
-            return $result;
+            return stripFirstLine($result);
 
         }
+		
+	function stripFirstLine($text)
+		{        
+		  return substr( $text, strpos($text, "\n")+1 );
+		}
 
         return;
     }
