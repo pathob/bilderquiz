@@ -59,6 +59,12 @@ $_SESSION['questionCounter'] = $_SESSION['questionCounter'] + 1;
 $_SESSION['questionData']=$questionData;
 if(isset($_POST['questionCount'])){
 	$_SESSION['questionCount'] = $_POST['questionCount'];
+	$_SESSION['askedQuestions'] = array();
 }
-	
+
+while(in_array($questionData['image'], $_SESSION['askedQuestions'])) {
+    $questionData = getQuestion($SID);
+		$_SESSION['questionData']=$questionData;
+}
+array_push($_SESSION['askedQuestions'], $questionData['image']);	
 ?>
