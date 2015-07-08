@@ -229,7 +229,7 @@ class QuestionDao extends BaseDao {
                 ),
             );
 
-            return $questions[rand(0, sizeof($questions)-1)]->asArray();
+            return json_encode($questions[rand(0, sizeof($questions)-1)]->asArray());
         } elseif ($verb == 'random') {
 				return ;
 		}
