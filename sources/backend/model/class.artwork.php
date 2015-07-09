@@ -15,34 +15,66 @@ class ArtworkDao extends BaseDao {
     public static $ArtworksDatabase = '/var/www/backend/db/artworks_database.xml';
     public static $PersonsDatabase = '/var/www/backend/db/persons_database.xml';
 
+	public function stripFirstLine($text)
+		{        
+		  return substr( $text, strpos($text, "\n")+1 );
+		}
+	
     public function GET($verb, $args) {
 
         if ($verb == 'year') {
 
             $queryStr = "
 				import module namespace r = \"http://www.zorba-xquery.com/modules/random\";
-				(:for \$artworks in doc(".ArtworkDao::$ArtworksDatabase.")/artworks,
-				  \$persons in doc(".ArtworkDao::$PersonsDatabase.")/persons
-				let \$artwork := \$artworks/artwork[matches(year/text(), '^[0-9][0-9][0-9][0-9]\$')]
-				let \$rows := count(\$artwork)
+				for \$artworks in doc('/var/www/backend/db/artworks_database.xml')/artworks,
+					\$persons in doc('/var/www/backend/db/persons_database.xml')/persons
+ 				let \$artwork := \$artworks/artwork[matches(year/text(), '^[0-9][0-9][0-9][0-9]\$')]
+ 				let \$rows := count(\$artwork)
 				let \$rand0 := r:random-between(1, \$rows)
 				let \$rand1 := r:random-between(1, \$rows)
 				let \$rand2 := r:random-between(1, \$rows)
 				let \$rand3 := r:random-between(1, \$rows)
-				let \$id := \$artwork[\$rand0]/personID/@ID
-				let \$painter := \$persons/person[personID[@ID=\$id]]/name/text()
-				return ('{\"question\":\"Aus welchem Jahr stammt dieses Bild?\",\"hint\":\"Das Bild ist von ',\$painter,'.\",\"image\":\"',\$artwork[\$rand0]/thumbnail/text(),'\",\"answers\":{\"rightAnswer\":',\$artwork[\$rand0]/year/text(),',\"wrongAnswer1\":',\$artwork[\$rand1]/year/text(),',\"wrongAnswer2\":',\$artwork[\$rand2]/year/text(),',\"wrongAnswer3\":',\$artwork[\$rand3]/year/text(),'}}'):)
-				for \$artworks in doc(".ArtworkDao::$ArtworksDatabase.")/artworks
-				return r:random-between(1,10)
+ 				let \$id := \$artwork[\$rand0]/personID/@ID
+ 				let \$painter := \$persons/person[personID[@ID=\$id]]/name/text()
+				return ('{\"question\":\"Aus welchem Jahr stammt dieses Bild?\",\"hint\":\"Das Bild ist von ',\$painter,'.\",\"image\":\"',\$artwork[\$rand0]/thumbnail/text(),'\",\"answers\":{\"rightAnswer\":',\$artwork[\$rand0]/year/text(),',\"wrongAnswer1\":',\$artwork[\$rand1]/year/text(),',\"wrongAnswer2\":',\$artwork[\$rand2]/year/text(),',\"wrongAnswer3\":',\$artwork[\$rand3]/year/text(),'},\"wikilink\":\"',\$artwork[\$rand0]/abstract/text(),'\"}')
+         
+            ";
+			
+            $query = $this->_zorba->compileQuery($queryStr);
+            $result = $query->execute();
+            $query->destroy();
+
+            return $this->stripFirstLine($result);
+
+        }
+
+        if ($verb == 'name') {
+
+            $queryStr = "
+				import module namespace r = \"http://www.zorba-xquery.com/modules/random\";
+				for \$artworks in doc('/var/www/backend/db/artworks_database.xml')/artworks,
+					\$persons in doc('/var/www/backend/db/persons_database.xml')/persons
+ 				let \$artwork := \$artworks/artwork
+ 				let \$rows := count(\$artwork)
+				let \$rand0 := r:random-between(1, \$rows)
+				let \$rand1 := r:random-between(1, \$rows)
+				let \$rand2 := r:random-between(1, \$rows)
+				let \$rand3 := r:random-between(1, \$rows)
+ 				let \$id := \$artwork[\$rand0]/personID/@ID
+ 				let \$painter := \$persons/person[personID[@ID=\$id]]/name/text()
+				return ('{\"question\":\"Wie heißt dieses Bild?\",\"hint\":\"Das Bild ist von ',\$painter,'.\",\"image\":\"',\$artwork[\$rand0]/thumbnail/text(),'\",\"answers\":{\"rightAnswer\":',\$artwork[\$rand0]/name/text(),',\"wrongAnswer1\":',\$artwork[\$rand1]/name/text(),',\"wrongAnswer2\":',\$artwork[\$rand2]/name/text(),',\"wrongAnswer3\":',\$artwork[\$rand3]/name/text(),'},\"wikilink\":\"',\$artwork[\$rand0]/abstract/text(),'\"}')
+
             ";
 
             $query = $this->_zorba->compileQuery($queryStr);
             $result = $query->execute();
             $query->destroy();
 
-            return $result;
+            return $this->stripFirstLine($result);
 
         }
+		
+	
 
         return;
     }
