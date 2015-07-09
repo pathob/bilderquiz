@@ -85,7 +85,7 @@ class QuestionDao extends BaseDao {
 
         }
 
-        // return dummy data querstion
+        // return dummy data question
         if ($verb == 'dummy') {
 
             $questions = array(
@@ -242,8 +242,7 @@ class QuestionDao extends BaseDao {
             );
 
             return json_encode($questions[rand(0, sizeof($questions)-1)]->asArray());
-        } elseif ($verb == 'random') {
-				return ;
+
 		}
 
         return;
