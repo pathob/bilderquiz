@@ -1,6 +1,7 @@
 <?php
 
 require_once('class.base.php');
+require_once('class.artwork.php');
 
 class Question extends Base {
     
@@ -73,8 +74,19 @@ class QuestionDao extends BaseDao {
 
     public function GET($verb, $args) {
 
-        // return random querstion
+        // return random question
         if ($verb == 'random') {
+            $artwork = new ArtworkDao();
+            $rand = rand(0, ArtworkDao::$NumberOfQuestions-1);
+            switch ($rand) {
+                case 0: return $artwork->GET("year", $args);
+                case 1: return $artwork->GET("name", $args);
+            }
+
+        }
+
+        // return dummy data querstion
+        if ($verb == 'dummy') {
 
             $questions = array(
                 new Question(
