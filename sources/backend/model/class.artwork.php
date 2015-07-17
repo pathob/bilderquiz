@@ -14,6 +14,7 @@ class ArtworkDao extends BaseDao {
 
     public static $ArtworksDatabase = '/var/www/backend/db/artworks_database.xml';
     public static $PersonsDatabase = '/var/www/backend/db/persons_database.xml';
+    public static $NumberOfQuestions = 2;
 
 	public function stripFirstLine($text)
 		{        
