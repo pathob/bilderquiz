@@ -26,17 +26,17 @@ TODO: Mirco
 
 TODO: Tom
 
-### XSLT
-
-TODO: Kim
-
-### XML-Datenbank
+### XSLT + XML-Datenbank
 
 TODO: Kim
 
 ### REST-API + JQuery
 
-TODO: Patrick + Kim
+Die Rest-API, welche in PHP entwickelt wurde, liefert über das URL-Muster `http://URL/api/entity/action/args/...` die entsprechenden Daten im JSON-Format.
+Dafür wird intern der HTTP Methodentyp (z.B. `GET`) ausgewertet und versucht, auf dem Objekt `Entity` die Funktion `GET` mit den Parameter `action` und weiteren optionalen Parametern `args` aufzurufen.
+In diesen Funktionen werden dann die JQuerys ausgeführt, welche ein XML-Ergebnis liefern, das dann in ein PHP-Objekt transformiert und in für die Rückgabe in JSON kodiert wird.
+
+So können dann im Frontend bspw. zufällige Fragen nach dem Muster `http://URL/question/random` abgerufen werden.
 
 ### Webinterface + semantische Daten
 
