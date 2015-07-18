@@ -20,7 +20,7 @@
   	<div class="container">
       <h2 class="page_title">FU KUNSTQUIZ</h2>
       <nav>
-        <a href="<?php echo $questionData['wikilink'];?>" target="_blank">
+        <a href="<?php echo $questionData['wikilink'];?>" target="_blank" rel="author">
           <span class="glyphicon glyphicon-menu-hamburger"></span>
         </a>
       </nav>
