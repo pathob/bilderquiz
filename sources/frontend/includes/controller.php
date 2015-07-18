@@ -1,28 +1,13 @@
 <?php
-function requestQuestion($SID){
-	$postData = array(
-			'request' => 'question',
-			'sessionID' => $SID,
-	);
-	
-	$context = stream_context_create(array(
-			'http' => array(
-					// http://www.php.net/manual/en/context.http.php
-					'method' => 'POST',
-					'header' => "Content-Type: application/json\r\n",
-					'content' => json_encode($postData)
-			)
-	));
-	
-	$response = file_get_contents('http://'.$_SERVER['HTTP_HOST'].'/api/question/random');
 
-	return $response;
+function requestQuestion($SID){
+	$context = stream_context_create(array('http' => array('header' => 'Connection: close\r\n')));
+	return file_get_contents("http://localhost/api/question/random/", false, $context);
 }
 
 function getQuestion($SID){
 	
 	$requestQuestion = requestQuestion($SID);
-
 	$questionJSONObject = json_decode($requestQuestion, TRUE);
 	
 	$question = $questionJSONObject['question'];
