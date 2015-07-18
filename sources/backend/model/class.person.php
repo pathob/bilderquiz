@@ -3,16 +3,8 @@
 require_once('class.base.php');
 
 class Person extends Base {
-    
-    public function asArray() {
 
-    }
-    
-}
-
-class PersonDao extends BaseDao {
-
-    public static $Database = '/var/www/backend/db/person_database.xml';
+    public static $Database = '/var/www/backend/db/persons_database.xml';
 
     public function GET($verb, $args) {
 
@@ -20,7 +12,7 @@ class PersonDao extends BaseDao {
 
             $queryStr = '
                 \n import module namespace r = "http://www.zorba-xquery.com/modules/random";
-                \n for \$person in doc("'.PersonDao::$Database.'")//person
+                \n for \$person in doc("'.Person::$Database.'")//person
                 \n let \$rows := count(\$person)
                 \n let \$rand := r:random-between(1, \$rows)
                 \n let \$name := \$person[\$rand]/name/text()

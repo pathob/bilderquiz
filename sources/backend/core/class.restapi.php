@@ -83,7 +83,7 @@ class RestAPI {
         $file_name = realpath('model/class.'.$this->endpoint.'.php');
         if (file_exists($file_name) && $this->endpoint != "base") {
             require_once($file_name);
-            $class_name = ucfirst($this->endpoint).'Dao';
+            $class_name = ucfirst($this->endpoint);
             $entity = new $class_name;
 
             if (method_exists($entity, $this->method)) {

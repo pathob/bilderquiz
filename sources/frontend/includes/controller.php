@@ -14,7 +14,7 @@ function requestQuestion($SID){
 			)
 	));
 	
-	$response = file_get_contents('http://bilderquiz.hobusch.net/api/question/random');
+	$response = file_get_contents('http://'.$_SERVER['HTTP_HOST'].'/api/question/random');
 
 	return $response;
 }
@@ -30,12 +30,14 @@ function getQuestion($SID){
 	$image = $questionJSONObject['image'];
 	
 	$rightAnswer = $questionJSONObject['answers']['rightAnswer'];
-	$wrongAnswers = array($questionJSONObject['answers']['wrongAnswer1'], 
-												$questionJSONObject['answers']['wrongAnswer2'], 
-												$questionJSONObject['answers']['wrongAnswer3']);
-												
-	$wikilink = $questionJSONObject['wikilink'];											
-												
+	$wrongAnswers = array(
+        $questionJSONObject['answers']['wrongAnswer1'],
+        $questionJSONObject['answers']['wrongAnswer2'],
+        $questionJSONObject['answers']['wrongAnswer3']
+    );
+
+	$wikilink = $questionJSONObject['wikilink'];
+
 	$rightAnswerPosition = rand(0,3);
 	$answerButtons[$rightAnswerPosition] = $rightAnswer;
 	
@@ -48,14 +50,15 @@ function getQuestion($SID){
 	}											
 		
 	return array(
-				'question' => $question,
-				'hint' => $hint,
-				'image' => $image,
-				'rightAnswer' => $rightAnswerPosition,
-				'answerButtons' => $answerButtons,
-				'wikilink' => $wikilink,
-				);
+        'question' => $question,
+        'hint' => $hint,
+        'image' => $image,
+        'rightAnswer' => $rightAnswerPosition,
+        'answerButtons' => $answerButtons,
+        'wikilink' => $wikilink,
+    );
 }
+
 session_start();
 $questionData = getQuestion($SID);
 $_SESSION['questionCounter'] = $_SESSION['questionCounter'] + 1;
@@ -65,9 +68,11 @@ if(isset($_POST['questionCount'])){
 	$_SESSION['askedQuestions'] = array();
 }
 
+/*
 while(in_array($questionData['image'], $_SESSION['askedQuestions'])) {
     $questionData = getQuestion($SID);
 		$_SESSION['questionData']=$questionData;
 }
-array_push($_SESSION['askedQuestions'], $questionData['image']);	
-?>
+*/
+
+array_push($_SESSION['askedQuestions'], $questionData['image']);
