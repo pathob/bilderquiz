@@ -50,8 +50,8 @@ Vor allem die Installation von Zorba ist sehr fehleranfällig, da das Zorba-Pake
 und da der enthaltene PHP-API-Wrapper PHP-Funktionen enthält, welche von Apache nicht mehr unterstützt werden.
 Diese Besonderheiten und weitere Konfigurationen werden durch den Docker-Container abgenommen.
 
-Um den Docker-Container zu erstellen und die Webanwendung automatisch in den Container einzubinden, werden [`docker`](https://www.docker.com/) und [`docker-compose`](https://docs.docker.com/compose/) benötigt.
-Wurden diese installiert, muss der Benutzer, der den Container starten möchte, außerdem der `doocker`-Gruppe hinzugefügt werden.
+Um den Docker-Container zu erstellen und die Webanwendung automatisch in den Container einzubinden, werden [Docker](https://www.docker.com/) und [Docker-Compose](https://docs.docker.com/compose/) benötigt.
+Wurden diese installiert, muss der Benutzer, der den Container starten möchte, außerdem der `docker`-Gruppe hinzugefügt werden.
 Außerdem muss mit diesem Repository das `docker-apache-php-zorba` Submodul ausgecheckt werden.
 Allgemein kann zum auszecken aller Submodule folgender Befehl verwendet werden.
 
@@ -68,7 +68,7 @@ docker-compose build
 docker-compose up -d
 ```
 
-Standardmäßig wird der Apache-Webserver aus dem Container an den Port 8081 gebunden.
+Standardmäßig wird der Apache-Webserver aus dem Container an den Port `8081` gebunden.
 Dies kann über die Änderung des Ports in der Konfigurationsdatei `docker-compose.yml` angepassst werden.
 
 ### Debian Jessie
