@@ -1,4 +1,0 @@
-zorba --query "import module namespace r = 'http://zorba.io/modules/random';for $x in <html/> return r:random-between(0,10)"
-
-So läufts unter Ubuntu mit Zorba 2.9.1:
-zorba --query 'import module namespace r = "http://www.zorba-xquery.com/modules/random";for $x in <html/> return r:random-between(0,10)'
