@@ -23,7 +23,7 @@ class Artwork extends Base {
 				let \$rand3 := r:random-between(1, \$rows)
  				let \$id := \$artwork[\$rand0]/personID/@ID
  				let \$painter := \$persons/person[personID[@ID=\$id]]/name/text()
-                return <q><question>Wie heiﬂt dieses Bild?</question><hint>Das Bild ist von {\$painter}.</hint><image>{\$artwork[\$rand0]/thumbnail/text()}</image><answers><rightAnswer>{\$artwork[\$rand0]/year/text()}</rightAnswer><wrongAnswer1>{\$artwork[\$rand1]/year/text()}</wrongAnswer1><wrongAnswer2>{\$artwork[\$rand2]/year/text()}</wrongAnswer2><wrongAnswer3>{\$artwork[\$rand3]/year/text()}</wrongAnswer3></answers><wikilink>{\$artwork[\$rand0]/abstract/text()}</wikilink></q>
+                return <q><question>Aus welchem Jahr stammt dieses Bild?</question><hint>Das Bild ist von {\$painter}.</hint><image>{\$artwork[\$rand0]/thumbnail/text()}</image><answers><rightAnswer>{\$artwork[\$rand0]/year/text()}</rightAnswer><wrongAnswer1>{\$artwork[\$rand1]/year/text()}</wrongAnswer1><wrongAnswer2>{\$artwork[\$rand2]/year/text()}</wrongAnswer2><wrongAnswer3>{\$artwork[\$rand3]/year/text()}</wrongAnswer3></answers><wikilink>{\$artwork[\$rand0]/abstract/text()}</wikilink></q>
             ";
 			
             $query = $this->_zorba->compileQuery($queryStr);
