@@ -2,24 +2,16 @@
 
 ## Zusammenfassung
 
-VL XML, Projekt, Coding Davinci, ...
-
-Im Rahmen der Veranstaltung "XML-Technologien" war ein Projekt anzufertigen, in dem durch die Anwendung verschiedener Technologien der Vorlesungsstoff gefestigt werden sollte. Für die Umsetzung des Projektes wurden ca. 1 Moante Zeit gewährt.
-Das Projekt sollte sich am Wettbewerb "Coding Davinci" orientieren, allerdings war eine offizielle Teilnahme nicht Pflicht.
+Im Rahmen der Veranstaltung "XML-Technologien" am Institut für Informatik der Freien Universität war ein Projekt anzufertigen, in dem durch die Anwendung verschiedener Technologien der Vorlesungsstoff gefestigt werden sollte. Für die Umsetzung des Projektes wurde etwa ein Monat Zeit gewährt.
+Das Projekt sollte sich am Wettbewerb [Coding Da Vinci](http://codingdavinci.de/) orientieren, allerdings war eine offizielle Teilnahme nicht Pflicht.
 
 
 ## Einleitung + Verwendete Daten
 
-Unsere Gruppe hat sich auf den Projektnamen "Bilderquiz" geeinigt. Durch das Projekt entstand eine Webbasierte Application, in dem der Nutzer zwischen 10, 15 oder 20 Fragen auswählen kann und diese dann lösen muss. Inhalt der Fragen sind Kunstwerke (Bilder) und der Benutzer soll zwischen vier Antwortmöglichkeiten den richtigen Künstler, der das Stück gemalt hat, bestimmen.
-Die Datenbasis für das Projekt sind die Deutsche Digitale Bibliothek und die dbpedia.
-Im Rahmen der Projektdurchführung sollten folgende Technologien zum Einsatz kommen:
+Unsere Gruppe hat sich auf den Projektnamen "Kunstquiz" geeinigt. Durch das Projekt entstand eine Webanwendung, in dem der Nutzer zwischen 10, 15 oder 20 Fragen auswählen kann und diese dann lösen muss. Inhalt der Fragen sind Kunstwerke. Der Benutzer soll zwischen vier Antwortmöglichkeiten den richtigen Künstler, der das Werk gemalt hat, bestimmen.
+Die Datenbasis für das Projekt sind die [Deutsche Digitale Bibliothek](https://www.deutsche-digitale-bibliothek.de/) und die [DBpedia](http://wiki.dbpedia.org/).
 
-- LOD-Endpoint + SPARQL
-- XML-Schema
-- XSLT
-- XML-Datenbank
-- REST-API + JQuery
-- Webinterface + semantische Daten
+Nachfolgend werden die eingesetzten Technologien genauer vorgestellt:
 
 ## Eingesetzte Technologien
 
