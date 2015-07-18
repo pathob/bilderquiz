@@ -72,7 +72,7 @@ Standardmäßig wird der Apache-Webserver aus dem Container an den Port `8081` g
 Dies kann über die Änderung des Ports in der Konfigurationsdatei `docker-compose.yml` angepassst werden.
 
 ### Debian Jessie
-Sollten Sie Debian Jessie verwenden, führen sie den gesamten Installationsprozess ganz einfach durch folgenden Aufruf auf.
+Sollten Sie Debian Jessie verwenden, führen sie den gesamten Installationsprozess ganz einfach durch folgenden Aufruf aus.
 Dafür muss der das Skript jedoch von einem Benutzer aus der `sudoer` Gruppe oder dem Superuser `root` aufgerufen werden.
 
 ```
