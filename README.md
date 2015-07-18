@@ -53,7 +53,7 @@ Diese Besonderheiten und weitere Konfigurationen werden durch den Docker-Contain
 Um den Docker-Container zu erstellen und die Webanwendung automatisch in den Container einzubinden, werden [Docker](https://www.docker.com/) und [Docker-Compose](https://docs.docker.com/compose/) benötigt.
 Wurden diese installiert, muss der Benutzer, der den Container starten möchte, außerdem der `docker`-Gruppe hinzugefügt werden.
 Außerdem muss mit diesem Repository das `docker-apache-php-zorba` Submodul ausgecheckt werden.
-Allgemein kann zum auszecken aller Submodule folgender Befehl verwendet werden.
+Allgemein kann zum auschecken aller Submodule folgender Befehl verwendet werden.
 
 ```
 git submodule update --init --recursive
