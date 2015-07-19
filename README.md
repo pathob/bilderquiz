@@ -27,7 +27,7 @@ Um die aus der Deutschen Digitalen Bibliothek extrahierten Personen mit Daten an
 Die Herausforderung hierbei war es, die Relation zwischen `DDB{Person}->DBpedia{Person->Kunstwerke}` herzustellen.
 Hier bot es sich an alle Daten in einer Ausführung auszulesen, sodass die dafür eingesetzten PHP-Skripte erst die Personen aus der DDB extrahieren und anhand dieser Personen die Relationen in der DBPedia ermittelten.
 Da die Personen aus der DDB nur als JSON verfügbar waren, wurden auch die Daten aus der DBPedia als JSON ausgelesen.
-Um die Daten am Ende als XML vorliegen zu haben wurde der [XML_Serializer](https://pear.php.net/package/XML_Serializer) von Pear verwendet.
+Um die Daten am Ende als XML vorliegen zu haben wurde der `[XML_Serializer](https://pear.php.net/package/XML_Serializer)` von Pear verwendet.
 
 Genaue Abfolge der Datensammlung:
 
@@ -36,7 +36,9 @@ Genaue Abfolge der Datensammlung:
 
       Query:
       
-      `https://api.deutsche-digitale-bibliothek.de/entities?rows=10000&query=professionOrOccupation:[Beruf(e)]`
+      ```
+      https://api.deutsche-digitale-bibliothek.de/entities?rows=10000&query=professionOrOccupation:[Beruf(e)]
+      ```
 
    2. Wichtigste Daten vom Personen-JSON in einem Personen-PHP-Objekt speichern.
 
@@ -51,7 +53,7 @@ Genaue Abfolge der Datensammlung:
          ?person dbpedia-owl:abstract ?abstract.
          ?person foaf:name ?name.
          ?person prov:wasDerivedFrom ?wikilink.
-	 FILTER (LANG(?abstract)="de" &&(?name = "'.$person.'"@en || ?name = "'.$person.'"@de)) 
+         FILTER (LANG(?abstract)="de" &&(?name = "'.$person.'"@en || ?name = "'.$person.'"@de)) 
       }
       ```
    4. Zusätzliche Metadaten im momentanen Personen-PHP-Objekt speichern.
@@ -63,12 +65,12 @@ Genaue Abfolge der Datensammlung:
       ```
       SELECT ?artwork,?thumbnail,?name,?year,?abstract,?wikilink,?type
       WHERE {
-	 ?artwork a dbpedia-owl:Artwork.
-	 /*hier gibt es im original noch mehr attribute*/
-	 ?artwork dbpedia-owl:author ?author. 
-	 ?author prov:wasDerivedFrom ?id.
-	/*im original beginnen hier optionale attribute*/
-	 FILTER (?id=<'.$personURI.'>)
+         ?artwork a dbpedia-owl:Artwork.
+         /* hier gibt es im Original noch mehr Attribute */
+         ?artwork dbpedia-owl:author ?author. 
+         ?author prov:wasDerivedFrom ?id.
+         /* im Original beginnen hier optionale Attribute */
+         FILTER (?id=<'.$personURI.'>)
       }
       LIMIT 1000
       ```
@@ -95,7 +97,7 @@ Genaue Abfolge der Datensammlung:
    
    8. XML Datei speichern.
 
-Zu jeder Person gab es am Ende eine eigene XML Datei. Das weitere Aufbereiten der Daten fand dann mit XSLT statt.
+Zu jeder Person gab es am Ende eine eigene XML-Datei. Die weitere Aufarbeitung der Daten wurde dann mit XSLT durchgeführt.
 
 ### XML-Schema
 
