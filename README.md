@@ -82,11 +82,40 @@ Zu jeder Person gab es am Ende eine eigene XML Datei. Das weitere Aufbereiten de
 
 ### XML-Schema
 
-TODO: Tom
+Das XML-Schema diente dazu den Aufbau der Datenbank auf eine effiziente Form festzulegen. Die hierfür vorhandenen Daten lassen sich in 2 Bereiche zusammenfassen. Zum einen in Künstler, Architekten und Autoren. Zum anderen in Kunstwerke, Bücher und Gebäude sowie deren zugehörige Details. Der ZUsammenhang zwischen Künstlern und ihren Werken stellt eine 1 zu N Beziehung dar. Daher werden die Beiden Breiche für effizienteren Zugriff in einzelne Dateien aufgeteilt und über generierte IDs eindeutig zugeordnet. Desweiteren wurden Datensätze wie z.B. der dbpResource Link einer Person, die in den Fragen keine Verwendung fanden, nicht übernommen.
 
-### XSLT + XML-Datenbank
+### XSLT + XQuery
 
-TODO: Kim
+#### XSLT
+Mittels XSLT wurden die Rohdaten transformiert, so dass sie dem erstellen XML-Schema entsprachen.
+
+Als Ausgangsdaten lagen zu jedem Künstler je eine einzelne XML-Datei vor, die auch deren Kunstwerke enthielt. Diese Datein wurden in einem Vorverarbeitungsschritt zu einer großen XML-Datei zusammengefasst. Nun wurde den Künstlern per XSLT eine eindeutige ID zugewiesen. Danach wurde für jede Tabelle (Personen, Bilder, Bücher, Architektur) eine XSLT-Transformation erstellt, die die Daten entsprechend der Schemata selektierte und die Kunstwerke über die Personen-ID mit dem entsprechenden Künstler verknüpfte.
+
+Somit entstanden vier XML-Dokumente, welche die XML-Datenbank darstellen.
+
+Beispiel buildings.xslt:
+```xml
+<?xml version="1.0"?>
+<xsl:stylesheet
+	version="2.0"
+	xmlns:xsl="http://www.w3.org/1999/XSL/Transform">
+	
+	<xsl:template match="/">
+		<buildings>
+			<xsl:apply-templates select="/persons/person/buildings/building"/>
+		</buildings>
+	</xsl:template>
+	<xsl:template match="building">
+		<building>
+			<xsl:copy-of select="../../personID"/>
+			<xsl:copy-of select="*"/>
+		</building>
+	</xsl:template>
+</xsl:stylesheet>
+```
+
+#### XQuery
+Über XQuery werden die Anfragen an die Datenbank formuliert. Jede Fragenart liefert ein XML-Dokument zurück, das die Frage, eine richtige und drei falsche Antworten, den Künstler und den Wikilink enthält. Über vier Zufallszahlen wurden dabei sowohl das abzufragende Kunstwerk als auch die drei falschen Antworten zufällig ausgewählt.
 
 ### REST-API + JQuery
 
