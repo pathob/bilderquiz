@@ -14,7 +14,9 @@ Durch das Projekt entstand eine Webanwendung, in dem der Nutzer zwischen 10, 15 
 Inhalt der Fragen sind Kunstwerke. Der Benutzer soll zwischen vier Antwortmöglichkeiten den richtigen Künstler, der das Werk gemalt hat, bestimmen.
 Die Datenbasis für das Projekt sind die [Deutsche Digitale Bibliothek](https://www.deutsche-digitale-bibliothek.de/) und die [DBpedia](http://wiki.dbpedia.org/).
 
-Nachfolgend werden die eingesetzten Technologien genauer vorgestellt.
+
+
+Nachfolgend werden die eingesetzten Technologien genauer vorgestellt
 
 ## Eingesetzte Technologien
 
@@ -59,7 +61,7 @@ Die Überprüfung der gewählten Antwort nach der Richtigkeit erfolgt dann über
 Am Ende des Quiz wird wieder die Statistik über richtige und falsche Antworten angezeigt.
 Der Benutzer kann hier ein neues Spiel starten und die Statistikdaten werden dann zurückgesetzt.
 
-![Screenshot des Quiz](raw/master/documents/screenshot.jpg "Screenshot des Quiz")
+![Screenshot des Quiz](documents/screenshot.jpg?raw=true "Screenshot des Quiz")
 
 ## Setup
 
