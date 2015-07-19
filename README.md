@@ -1,4 +1,4 @@
-# Kunstquiz der FU Berlin
+# Kunstquiz der Freien Universität Berlin
 
 ## Zusammenfassung
 
