@@ -84,9 +84,8 @@ Zu jeder Person gab es am Ende eine eigene XML Datei. Das weitere Aufbereiten de
 
 Das XML-Schema diente dazu den Aufbau der Datenbank auf eine effiziente Form festzulegen. Die hierfür vorhandenen Daten lassen sich in 2 Bereiche zusammenfassen. Zum einen in Künstler, Architekten und Autoren. Zum anderen in Kunstwerke, Bücher und Gebäude sowie deren zugehörige Details. Der ZUsammenhang zwischen Künstlern und ihren Werken stellt eine 1 zu N Beziehung dar. Daher werden die Beiden Breiche für effizienteren Zugriff in einzelne Dateien aufgeteilt und über generierte IDs eindeutig zugeordnet. Desweiteren wurden Datensätze wie z.B. der dbpResource Link einer Person, die in den Fragen keine Verwendung fanden, nicht übernommen.
 
-### XSLT + XQuery
+### XSLT + XML-Datenbank
 
-#### XSLT
 Mittels XSLT wurden die Rohdaten transformiert, so dass sie dem erstellen XML-Schema entsprachen.
 
 Als Ausgangsdaten lagen zu jedem Künstler je eine einzelne XML-Datei vor, die auch deren Kunstwerke enthielt. Diese Datein wurden in einem Vorverarbeitungsschritt zu einer großen XML-Datei zusammengefasst. Nun wurde den Künstlern per XSLT eine eindeutige ID zugewiesen. Danach wurde für jede Tabelle (Personen, Bilder, Bücher, Architektur) eine XSLT-Transformation erstellt, die die Daten entsprechend der Schemata selektierte und die Kunstwerke über die Personen-ID mit dem entsprechenden Künstler verknüpfte.
@@ -114,14 +113,11 @@ Beispiel buildings.xslt:
 </xsl:stylesheet>
 ```
 
-#### XQuery
-Über XQuery werden die Anfragen an die Datenbank formuliert. Jede Fragenart liefert ein XML-Dokument zurück, das die Frage, eine richtige und drei falsche Antworten, den Künstler und den Wikilink enthält. Über vier Zufallszahlen wurden dabei sowohl das abzufragende Kunstwerk als auch die drei falschen Antworten zufällig ausgewählt.
-
-### REST-API + JQuery
+### REST-API + XQuery
 
 Die Rest-API, welche in PHP entwickelt wurde, liefert über das URL-Muster `http://URL/api/entity/action/args/...` die entsprechenden Daten im JSON-Format.
 Dafür wird intern der HTTP Methodentyp (z.B. `GET`) ausgewertet und versucht, auf dem Objekt `Entity` die Funktion `GET` mit den Parameter `action` und weiteren optionalen Parametern `args` aufzurufen.
-In diesen Funktionen werden dann die JQuerys ausgeführt, welche ein XML-Ergebnis liefern, das dann in ein PHP-Objekt transformiert und in für die Rückgabe in JSON kodiert wird.
+In diesen Funktionen werden dann die Anfragen an die Datenbank mit XQuerys ausgeführt, welche ein XML-Ergebnis liefern, das dann in ein PHP-Objekt transformiert und in für die Rückgabe in JSON kodiert wird.
 
 ```php
 class Artwork extends Base {
@@ -169,7 +165,7 @@ class Artwork extends Base {
 }
 ```
 
-So können dann im Frontend bspw. zufällige Fragen nach dem Muster `http://URL/question/random` abgerufen werden.
+In obigen Beispiel wird eine Frage generiert, die eine richtige Antwort, drei falsche Antworten, den Künstler und den Wikilink enthält. Über vier Zufallszahlen wurden dabei sowohl das abzufragende Kunstwerk als auch die drei falschen Antworten zufällig ausgewählt. So können dann im Frontend zufällige Fragen nach dem Muster `http://URL/question/random` abgerufen werden.
 
 ### Webinterface + semantische Daten
 
