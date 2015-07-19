@@ -38,6 +38,52 @@ Die Rest-API, welche in PHP entwickelt wurde, liefert über das URL-Muster `http
 Dafür wird intern der HTTP Methodentyp (z.B. `GET`) ausgewertet und versucht, auf dem Objekt `Entity` die Funktion `GET` mit den Parameter `action` und weiteren optionalen Parametern `args` aufzurufen.
 In diesen Funktionen werden dann die JQuerys ausgeführt, welche ein XML-Ergebnis liefern, das dann in ein PHP-Objekt transformiert und in für die Rückgabe in JSON kodiert wird.
 
+```php
+class Artwork extends Base {
+
+    public static $Database = '/var/www/backend/db/artworks_database.xml';
+
+    public function GET($verb, $args) {
+
+        if ($verb == 'year') {
+            $queryStr = "
+                import module namespace r = \"http://www.zorba-xquery.com/modules/random\";
+                for \$artworks in doc('".Artwork::$Database."')/artworks,
+                    \$persons in doc('".Person::$Database."')/persons
+                let \$artwork := \$artworks/artwork[matches(year/text(), '^[0-9][0-9][0-9][0-9]\$')]
+                let \$rows := count(\$artwork)
+                let \$rand0 := r:random-between(1, \$rows)
+                let \$rand1 := r:random-between(1, \$rows)
+                let \$rand2 := r:random-between(1, \$rows)
+                let \$rand3 := r:random-between(1, \$rows)
+                let \$id := \$artwork[\$rand0]/personID/@ID
+                let \$painter := \$persons/person[personID[@ID=\$id]]/name/text()
+                return
+                <q>
+                    <question>Aus welchem Jahr stammt dieses Bild?</question>
+                    <hint>Das Bild ist von {\$painter}.</hint>
+                    <image>{\$artwork[\$rand0]/thumbnail/text()}</image>
+                    <answers>
+                        <rightAnswer>{\$artwork[\$rand0]/year/text()}</rightAnswer>
+                        <wrongAnswer1>{\$artwork[\$rand1]/year/text()}</wrongAnswer1>
+                        <wrongAnswer2>{\$artwork[\$rand2]/year/text()}</wrongAnswer2>
+                        <wrongAnswer3>{\$artwork[\$rand3]/year/text()}</wrongAnswer3>
+                    </answers>
+                    <wikilink>{\$artwork[\$rand0]/abstract/text()}</wikilink>
+                </q>
+            ";
+			
+            $query = $this->_zorba->compileQuery($queryStr);
+            $result = $query->execute();
+            $query->destroy();
+            return $this->jsonencode($result);
+        }
+    ...
+    }
+...
+}
+```
+
 So können dann im Frontend bspw. zufällige Fragen nach dem Muster `http://URL/question/random` abgerufen werden.
 
 ### Webinterface + semantische Daten
