@@ -22,7 +22,63 @@ Nachfolgend werden die eingesetzten Technologien genauer vorgestellt
 
 ### LOD-Endpoint + SPARQL
 
-TODO: Mirco
+Um die aus der Deutschen Digitalen Bibliothek extrahierten Personen mit Daten anzureichern zu denen man Fragen stellen kann, wurde als LOD-Endpoint
+die DBPedia ausgewält. Die Herausforderung hierbei war es die Relation zwischen DDB{Person}->DBpedia{Person->Kunstwerke} herzustellen. Hier bot es sich an
+alle Daten in einer Ausführung auszulesen, sodass die PHP-Skripte erst die Personen aus der DDB extrahieren und anhand dieser Personen die Relationen
+in der DBPedia ermittelten. Da die Personen aus der DDB nur als JSON verfügbar waren, wurden auch die Daten aus der DBPedia als JSON ausgelesen.
+Um die Daten am Ende als XML vorliegen zu haben wurde der XML_serializer von Pear verwendet(https://pear.php.net/package/XML_Serializer).
+
+Genaue Abfolge der Datensammlung:
+
+1. Personen aus der DDB anhand von ausgewählten Berufen extrahieren
+Um die DDB verwenden zu können benötig man einen API-key, den man im HTTP-Header angeben kann.
+query:
+https://api.deutsche-digitale-bibliothek.de/entities?rows=10000&query=professionOrOccupation:[Beruf(e)]
+
+2. Wichtigste Daten vom Personen-JSON in ein Personen-PHP-Objekt speichern.
+
+3. Finden der Person in der DBPedia:
+query:
+SELECT ?person,?abstract,?wikilink
+   WHERE {
+	 ?person a dbpedia-owl:Person.
+	 ?person dbpedia-owl:abstract ?abstract.
+	 ?person foaf:name ?name.
+	 ?person prov:wasDerivedFrom ?wikilink.
+	 FILTER (LANG(?abstract)="de" &&(?name = "'.$person.'"@en || ?name = "'.$person.'"@de)) 
+   }
+4. Zusätzliche Metadaten im momentanen Personen-PHP-Objekt speichern
+
+5. Anhand eines Unique-Identifier einer Person die Kunstwerke ermitteln.
+wichtigste teile der Artwork query:
+SELECT ?artwork,?thumbnail,?name,?year,?abstract,?wikilink,?type
+   WHERE {
+	 ?artwork a dbpedia-owl:Artwork.
+	 /*hier gibt es im original noch mehr attribute*/
+	 ?artwork dbpedia-owl:author ?author. 
+	 ?author prov:wasDerivedFrom ?id.
+	/*im original beginnen hier optionale attribute*/
+	 FILTER (?id=<'.$personURI.'>)
+   }
+   LIMIT 1000
+Es gibt noch eine Query für Gebäude und Bücher
+6. Extrahierte Daten der Kunstwerke im momentanen Personen-PHP-Objekt speichern
+
+7. Das Personen-PHP-Objekt in eine XML Datei transformieren
+code:
+function obj_to_xml($obj) {
+    $serializer = new XML_Serializer();
+
+    if ($serializer->serialize($obj)) {
+        return $serializer->getSerializedData();
+    }
+    else {
+        return null;
+    }
+}
+8. XML Datei speichern.
+
+Zu jeder Person gab es am Ende eine eigene XML Datei. Das weitere Aufbereiten der Daten fand dann mit XSLT statt.
 
 ### XML-Schema
 
