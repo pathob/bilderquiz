@@ -12,16 +12,16 @@ function getQuestion($SID){
 	
 	$question = $questionJSONObject['question'];
 	$hint = $questionJSONObject['hint'];
-	$image = $questionJSONObject['image'];
+	$image = mb_convert_encoding($questionJSONObject['image'], 'ISO-8859-1', 'UTF-8');
 	
-	$rightAnswer = $questionJSONObject['answers']['rightAnswer'];
+	$rightAnswer = mb_convert_encoding($questionJSONObject['answers']['rightAnswer'], 'ISO-8859-1', 'UTF-8');
 	$wrongAnswers = array(
-        $questionJSONObject['answers']['wrongAnswer1'],
-        $questionJSONObject['answers']['wrongAnswer2'],
-        $questionJSONObject['answers']['wrongAnswer3']
+        mb_convert_encoding($questionJSONObject['answers']['wrongAnswer1'], 'ISO-8859-1', 'UTF-8'),
+        mb_convert_encoding($questionJSONObject['answers']['wrongAnswer2'], 'ISO-8859-1', 'UTF-8'),
+        mb_convert_encoding($questionJSONObject['answers']['wrongAnswer3'], 'ISO-8859-1', 'UTF-8')
     );
 
-	$wikilink = $questionJSONObject['wikilink'];
+	$wikilink = mb_convert_encoding($questionJSONObject['wikilink'], 'ISO-8859-1', 'UTF-8');
 
 	$rightAnswerPosition = rand(0,3);
 	$answerButtons[$rightAnswerPosition] = $rightAnswer;
@@ -53,11 +53,11 @@ if(isset($_POST['questionCount'])){
 	$_SESSION['askedQuestions'] = array();
 }
 
-/*
+
 while(in_array($questionData['image'], $_SESSION['askedQuestions'])) {
     $questionData = getQuestion($SID);
 		$_SESSION['questionData']=$questionData;
 }
-*/
+
 
 array_push($_SESSION['askedQuestions'], $questionData['image']);
