@@ -40,7 +40,26 @@ So können dann im Frontend bspw. zufällige Fragen nach dem Muster `http://URL/
 
 ### Webinterface + semantische Daten
 
-TODO: Ömer
+Für die Entwicklung des Webinterfaces wurden PHP, HTML5, Javascript und CSS3 verwendet.
+Dabei wurde "Bootstrap 3" als CSS-Framework benutzt und das Webinterface dementsprechend responsive gestaltet.
+Beim Aufruf des Webinterfaces gelangt der Benutzer auf eine Startseite, in der er zwischen 10, 15 oder 20 Fragen auswählen kann.
+Die Fragen werden dann nacheinander angezeigt und dabei wird eine Statistik über richtige und falsche Antworten geführt und unten rechts angezeigt.
+Die Fragen werden über die REST-API einzeln vom Server abgerufen und enthalten jeweils immer folgende Felder:
+
+  * die Frage nach dem Titel des Werkes oder der Jahreszahl, aus der es stammt
+  * ein Hinweis über das Werk
+  * die URL des Bildes
+  * die richtige Antwort mit drei weiteren ähnlichen, falschen Antwortmöglichkeiten
+  * und der Wikipedia-Link zum Autor des Werkes
+	
+Der Wikipedia-Link zum Autor wurde in Microformats in das obere rechte Icon aus drei Balken eingebettet.
+Die richtige Antwort bleibt beim Server gespeichert und wird beim Client(Browser) nicht angezeigt.
+Die vier Antwortmöglichkeiten werden zufällig sortiert und in einem Formular angezeigt.
+Die Überprüfung der gewählten Antwort nach der Richtigkeit erfolgt dann über ein AJAX-Aufruf durch jQuery, sodass das Ergebnis sofort angezeigt wird und die Statistik-Anzeige sofort aktulisiert wird.
+Am Ende des Quiz wird wieder die Statistik über richtige und falsche Antworten angezeigt.
+Der Benutzer kann hier ein neues Spiel starten und die Statistikdaten werden dann zurückgesetzt.
+
+![Screenshot des Quiz](raw/master/documents/screenshot.jpg "Screenshot des Quiz")
 
 ## Setup
 
