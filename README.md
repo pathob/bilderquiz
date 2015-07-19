@@ -9,9 +9,10 @@ Das Projekt sollte sich am Wettbewerb [Coding Da Vinci](http://codingdavinci.de/
 
 ## Einleitung + Verwendete Daten
 
-Unsere Gruppe hat sich auf den Projektnamen "Kunstquiz" geeinigt.
-Durch das Projekt entstand eine Webanwendung, in dem der Nutzer zwischen 10, 15 oder 20 Fragen auswählen kann und diese dann lösen muss.
-Inhalt der Fragen sind Kunstwerke. Der Benutzer soll zwischen vier Antwortmöglichkeiten den richtigen Künstler, der das Werk gemalt hat, bestimmen.
+Unsere Gruppe hat sich auf die Projektidee "Kunstquiz" geeinigt.
+In diesem Projekt entstand eine Webanwendung, in dem der Nutzer zwischen 10, 15 oder 20 Fragen auswählen kann und diese dann lösen muss.
+Inhalt der Fragen sind Kunstwerke, die ursprünglich ebenfalls eingeplanten Bücher und Gebäude konnten aufgrund der kurzen Zeit leider nicht mehr integriert werden.
+Der Benutzer soll zwischen vier Antwortmöglichkeiten den richtigen Künstler, der das Werk gemalt hat, oder das Jahr, in dem es gemalt wurde, bestimmen.
 Die Datenbasis für das Projekt sind die [Deutsche Digitale Bibliothek](https://www.deutsche-digitale-bibliothek.de/) und die [DBpedia](http://wiki.dbpedia.org/).
 
 ![Schematische Darstellung der Technologien](documents/schema.png?raw=true "Schematische Darstellung der Technologien")
@@ -22,61 +23,77 @@ Nachfolgend werden die eingesetzten Technologien genauer vorgestellt
 
 ### LOD-Endpoint + SPARQL
 
-Um die aus der Deutschen Digitalen Bibliothek extrahierten Personen mit Daten anzureichern zu denen man Fragen stellen kann, wurde als LOD-Endpoint
-die DBPedia ausgewält. Die Herausforderung hierbei war es die Relation zwischen DDB{Person}->DBpedia{Person->Kunstwerke} herzustellen. Hier bot es sich an
-alle Daten in einer Ausführung auszulesen, sodass die PHP-Skripte erst die Personen aus der DDB extrahieren und anhand dieser Personen die Relationen
-in der DBPedia ermittelten. Da die Personen aus der DDB nur als JSON verfügbar waren, wurden auch die Daten aus der DBPedia als JSON ausgelesen.
-Um die Daten am Ende als XML vorliegen zu haben wurde der XML_serializer von Pear verwendet(https://pear.php.net/package/XML_Serializer).
+Um die aus der Deutschen Digitalen Bibliothek extrahierten Personen mit Daten anzureichern, zu denen man Fragen stellen kann, wurde als LOD-Endpoint die DBPedia ausgewält.
+Die Herausforderung hierbei war es, die Relation zwischen `DDB{Person}->DBpedia{Person->Kunstwerke}` herzustellen.
+Hier bot es sich an alle Daten in einer Ausführung auszulesen, sodass die dafür eingesetzten PHP-Skripte erst die Personen aus der DDB extrahieren und anhand dieser Personen die Relationen in der DBPedia ermittelten.
+Da die Personen aus der DDB nur als JSON verfügbar waren, wurden auch die Daten aus der DBPedia als JSON ausgelesen.
+Um die Daten am Ende als XML vorliegen zu haben wurde der [XML_Serializer](https://pear.php.net/package/XML_Serializer) von Pear verwendet.
 
 Genaue Abfolge der Datensammlung:
 
-1. Personen aus der DDB anhand von ausgewählten Berufen extrahieren
-Um die DDB verwenden zu können benötig man einen API-key, den man im HTTP-Header angeben kann.
-query:
-https://api.deutsche-digitale-bibliothek.de/entities?rows=10000&query=professionOrOccupation:[Beruf(e)]
+   1. Personen aus der DDB anhand von ausgewählten Berufen extrahieren
+      Um die DDB verwenden zu können benötig man einen API-key, den man im HTTP-Header angeben kann.
 
-2. Wichtigste Daten vom Personen-JSON in ein Personen-PHP-Objekt speichern.
+      Query:
+      
+      `https://api.deutsche-digitale-bibliothek.de/entities?rows=10000&query=professionOrOccupation:[Beruf(e)]`
 
-3. Finden der Person in der DBPedia:
-query:
-SELECT ?person,?abstract,?wikilink
-   WHERE {
-	 ?person a dbpedia-owl:Person.
-	 ?person dbpedia-owl:abstract ?abstract.
-	 ?person foaf:name ?name.
-	 ?person prov:wasDerivedFrom ?wikilink.
+   2. Wichtigste Daten vom Personen-JSON in einem Personen-PHP-Objekt speichern.
+
+   3. Finden der Person in der DBPedia.
+      
+      Query:
+      
+      ```
+      SELECT ?person,?abstract,?wikilink
+      WHERE {
+         ?person a dbpedia-owl:Person.
+         ?person dbpedia-owl:abstract ?abstract.
+         ?person foaf:name ?name.
+         ?person prov:wasDerivedFrom ?wikilink.
 	 FILTER (LANG(?abstract)="de" &&(?name = "'.$person.'"@en || ?name = "'.$person.'"@de)) 
-   }
-4. Zusätzliche Metadaten im momentanen Personen-PHP-Objekt speichern
+      }
+      ```
+   4. Zusätzliche Metadaten im momentanen Personen-PHP-Objekt speichern.
 
-5. Anhand eines Unique-Identifier einer Person die Kunstwerke ermitteln.
-wichtigste teile der Artwork query:
-SELECT ?artwork,?thumbnail,?name,?year,?abstract,?wikilink,?type
-   WHERE {
+   5. Anhand eines Unique-Identifier einer Person die Kunstwerke ermitteln.
+
+      Wichtigste teile der Artwork Query:
+      
+      ```
+      SELECT ?artwork,?thumbnail,?name,?year,?abstract,?wikilink,?type
+      WHERE {
 	 ?artwork a dbpedia-owl:Artwork.
 	 /*hier gibt es im original noch mehr attribute*/
 	 ?artwork dbpedia-owl:author ?author. 
 	 ?author prov:wasDerivedFrom ?id.
 	/*im original beginnen hier optionale attribute*/
 	 FILTER (?id=<'.$personURI.'>)
-   }
-   LIMIT 1000
-Es gibt noch eine Query für Gebäude und Bücher
-6. Extrahierte Daten der Kunstwerke im momentanen Personen-PHP-Objekt speichern
+      }
+      LIMIT 1000
+      ```
 
-7. Das Personen-PHP-Objekt in eine XML Datei transformieren
-code:
-function obj_to_xml($obj) {
-    $serializer = new XML_Serializer();
+      Es gibt noch Queries für Gebäude und Bücher
+      
+   6. Extrahierte Daten der Kunstwerke im momentanen Personen-PHP-Objekt speichern.
 
-    if ($serializer->serialize($obj)) {
-        return $serializer->getSerializedData();
-    }
-    else {
-        return null;
-    }
-}
-8. XML Datei speichern.
+   7. Das Personen-PHP-Objekt in eine XML Datei transformieren
+      
+      Code:
+      
+      ```php
+      function obj_to_xml($obj) {
+          $serializer = new XML_Serializer();
+
+          if ($serializer->serialize($obj)) {
+              return $serializer->getSerializedData();
+          } else {
+              return null;
+          }
+      }
+      ```
+   
+   8. XML Datei speichern.
 
 Zu jeder Person gab es am Ende eine eigene XML Datei. Das weitere Aufbereiten der Daten fand dann mit XSLT statt.
 
