@@ -37,7 +37,7 @@ Genaue Abfolge der Datensammlung:
       Query:
       
       ```
-      https://api.deutsche-digitale-bibliothek.de/entities?rows=10000&query=professionOrOccupation:[Beruf(e)]
+      api.deutsche-digitale-bibliothek.de/entities?rows=10000&query=professionOrOccupation:[Beruf(e)]
       ```
 
    2. Wichtigste Daten vom Personen-JSON in einem Personen-PHP-Objekt speichern.
