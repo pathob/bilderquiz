@@ -1,4 +1,4 @@
-apachetest:
+apachephpzorba:
     build: docker-apache-php-zorba
     ports:
         - "8081:80"
