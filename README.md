@@ -14,7 +14,7 @@ Durch das Projekt entstand eine Webanwendung, in dem der Nutzer zwischen 10, 15 
 Inhalt der Fragen sind Kunstwerke. Der Benutzer soll zwischen vier Antwortmöglichkeiten den richtigen Künstler, der das Werk gemalt hat, bestimmen.
 Die Datenbasis für das Projekt sind die [Deutsche Digitale Bibliothek](https://www.deutsche-digitale-bibliothek.de/) und die [DBpedia](http://wiki.dbpedia.org/).
 
-
+![Schematische Darstellung der Technologien](documents/screenshot.jpg?raw=true "Schematische Darstellung der Technologien")
 
 Nachfolgend werden die eingesetzten Technologien genauer vorgestellt
 
