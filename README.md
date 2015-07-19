@@ -10,10 +10,10 @@ Das Projekt sollte sich am Wettbewerb [Coding Da Vinci](http://codingdavinci.de/
 ## Einleitung + Verwendete Daten
 
 Unsere Gruppe hat sich auf die Projektidee "Kunstquiz" geeinigt.
-In diesem Projekt entstand eine Webanwendung, in dem der Nutzer zwischen 10, 15 oder 20 Fragen auswählen kann und diese dann lösen muss.
+In diesem Projekt entstand eine Webanwendung, in dem der Nutzer 10, 15 oder 20 Fragen auswählen kann und diese dann lösen muss.
 Inhalt der Fragen sind Kunstwerke, die ursprünglich ebenfalls eingeplanten Bücher und Gebäude konnten aufgrund der kurzen Zeit leider nicht mehr integriert werden.
-Der Benutzer soll zwischen vier Antwortmöglichkeiten den richtigen Künstler, der das Werk gemalt hat, oder das Jahr, in dem es gemalt wurde, bestimmen.
-Die Datenbasis für das Projekt sind die [Deutsche Digitale Bibliothek](https://www.deutsche-digitale-bibliothek.de/) und die [DBpedia](http://wiki.dbpedia.org/).
+Der Benutzer soll aus vier Antwortmöglichkeiten den richtigen Künstler, der das Werk gemalt hat, oder das Jahr, in dem es gemalt wurde, bestimmen.
+Die Daten, die wir für das Projekt benötigten, stammen von der [Deutsche Digitale Bibliothek](https://www.deutsche-digitale-bibliothek.de/) und der [DBpedia](http://wiki.dbpedia.org/).
 
 ![Schematische Darstellung der Technologien](documents/schema.png?raw=true "Schematische Darstellung der Technologien")
 
@@ -23,16 +23,17 @@ Nachfolgend werden die eingesetzten Technologien genauer vorgestellt
 
 ### LOD-Endpoint + SPARQL
 
-Um die aus der Deutschen Digitalen Bibliothek extrahierten Personen mit Daten anzureichern, zu denen man Fragen stellen kann, wurde als LOD-Endpoint die DBPedia ausgewält.
+Zunächst wurden von der Deutschen Digitalen Bibliothek geeignete Personen extrahiert.
+Um diese Personen mit Daten anzureichern, zu denen man Fragen stellen kann, wurde als LOD-Endpoint die DBpedia ausgewält.
 Die Herausforderung hierbei war es, die Relation zwischen `DDB{Person}->DBpedia{Person->Kunstwerke}` herzustellen.
-Hier bot es sich an alle Daten in einer Ausführung auszulesen, sodass die dafür eingesetzten PHP-Skripte erst die Personen aus der DDB extrahieren und anhand dieser Personen die Relationen in der DBPedia ermittelten.
+Hier bot es sich an, alle Daten in einer Ausführung auszulesen, sodass die dafür eingesetzten PHP-Skripte erst die Personen aus der DDB extrahieren und anhand dieser Personen die Relationen in der DBPedia ermittelten.
 Da die Personen aus der DDB nur als JSON verfügbar waren, wurden auch die Daten aus der DBPedia als JSON ausgelesen.
-Um die Daten am Ende als XML vorliegen zu haben wurde der `[XML_Serializer](https://pear.php.net/package/XML_Serializer)` von Pear verwendet.
+Um die Daten in XML zu transformieren, wurde der [`XML_Serializer`](https://pear.php.net/package/XML_Serializer) von Pear verwendet.
 
 Genaue Abfolge der Datensammlung:
 
-   1. Personen aus der DDB anhand von ausgewählten Berufen extrahieren
-      Um die DDB verwenden zu können benötig man einen API-key, den man im HTTP-Header angeben kann.
+   1. Personen aus der DDB anhand von ausgewählten Berufen extrahieren.
+      Um die DDB verwenden zu können benötig man einen API-Key, den man im HTTP-Header angeben kann.
 
       Query:
       
@@ -40,7 +41,7 @@ Genaue Abfolge der Datensammlung:
       api.deutsche-digitale-bibliothek.de/entities?rows=10000&query=professionOrOccupation:[Beruf(e)]
       ```
 
-   2. Wichtigste Daten vom Personen-JSON in einem Personen-PHP-Objekt speichern.
+   2. Die wichtigsten Daten des Personen-JSON-Objekts in einem Personen-PHP-Objekt speichern.
 
    3. Finden der Person in der DBPedia.
       
@@ -56,11 +57,11 @@ Genaue Abfolge der Datensammlung:
          FILTER (LANG(?abstract)="de" &&(?name = "'.$person.'"@en || ?name = "'.$person.'"@de)) 
       }
       ```
-   4. Zusätzliche Metadaten im momentanen Personen-PHP-Objekt speichern.
+   4. Zusätzliche Metadaten im entsprechenden Personen-PHP-Objekt speichern.
 
-   5. Anhand eines Unique-Identifier einer Person die Kunstwerke ermitteln.
+   5. Anhand des Unique-Identifiers einer Person die zugehörigen Kunstwerke ermitteln.
 
-      Wichtigste teile der Artwork Query:
+      Wichtigste Teile der Artwork-Query:
       
       ```
       SELECT ?artwork,?thumbnail,?name,?year,?abstract,?wikilink,?type
@@ -77,9 +78,9 @@ Genaue Abfolge der Datensammlung:
 
       Es gibt noch Queries für Gebäude und Bücher
       
-   6. Extrahierte Daten der Kunstwerke im momentanen Personen-PHP-Objekt speichern.
+   6. Extrahierte Daten der Kunstwerke im entsprechenden Personen-PHP-Objekt speichern.
 
-   7. Das Personen-PHP-Objekt in eine XML Datei transformieren
+   7. Das Personen-PHP-Objekt in XML transformieren.
       
       Code:
       
@@ -95,19 +96,28 @@ Genaue Abfolge der Datensammlung:
       }
       ```
    
-   8. XML Datei speichern.
+   8. XML-Datei speichern.
 
-Zu jeder Person gab es am Ende eine eigene XML-Datei. Die weitere Aufarbeitung der Daten wurde dann mit XSLT durchgeführt.
+Zu jeder Person gab es am Ende eine eigene XML-Datei.
+Die weitere Aufarbeitung der Daten wurde dann mit XSLT durchgeführt.
 
 ### XML-Schema
 
-Das XML-Schema diente dazu den Aufbau der Datenbank auf eine effiziente Form festzulegen. Die hierfür vorhandenen Daten lassen sich in 2 Bereiche zusammenfassen. Zum einen in Künstler, Architekten und Autoren. Zum anderen in Kunstwerke, Bücher und Gebäude sowie deren zugehörige Details. Der ZUsammenhang zwischen Künstlern und ihren Werken stellt eine 1 zu N Beziehung dar. Daher werden die Beiden Breiche für effizienteren Zugriff in einzelne Dateien aufgeteilt und über generierte IDs eindeutig zugeordnet. Desweiteren wurden Datensätze wie z.B. der dbpResource Link einer Person, die in den Fragen keine Verwendung fanden, nicht übernommen.
+Das XML-Schema diente dazu, den Aufbau der Datenbank auf eine einheitliche Form festzulegen.
+Die hierfür vorhandenen Daten lassen sich in zwei Gruppen zusammenfassen.
+Zum einen in Künstler, Architekten und Autoren, zum anderen in Kunstwerke, Bücher und Gebäude sowie deren zugehörige Details.
+Der Zusammenhang zwischen Künstlern und ihren Werken stellt eine 1:N-Beziehung dar.
+Daher werden die beiden Gruppen für einen effizienteren Zugriff in einzelne Dateien aufgeteilt und über generierte IDs eindeutig zugeordnet.
+Desweiteren wurden Datensätze wie z.B. der dbp-Resource-Link einer Person, die in den Fragen keine Verwendung fanden, nicht übernommen.
 
 ### XSLT + XML-Datenbank
 
 Mittels XSLT wurden die Rohdaten transformiert, so dass sie dem erstellen XML-Schema entsprachen.
 
-Als Ausgangsdaten lagen zu jedem Künstler je eine einzelne XML-Datei vor, die auch deren Kunstwerke enthielt. Diese Datein wurden in einem Vorverarbeitungsschritt zu einer großen XML-Datei zusammengefasst. Nun wurde den Künstlern per XSLT eine eindeutige ID zugewiesen. Danach wurde für jede Tabelle (Personen, Bilder, Bücher, Architektur) eine XSLT-Transformation erstellt, die die Daten entsprechend der Schemata selektierte und die Kunstwerke über die Personen-ID mit dem entsprechenden Künstler verknüpfte.
+Als Ausgangsdaten lag zu jedem Künstler je eine einzelne XML-Datei vor, die auch deren Kunstwerke enthielt.
+Diese Datein wurden in einem Vorverarbeitungsschritt zu einer großen XML-Datei zusammengefasst.
+Nun wurde den Künstlern per XSLT eine eindeutige ID zugewiesen.
+Danach wurde für jede Tabelle (Personen, Bilder, Bücher, Architektur) eine XSLT-Transformation erstellt, die die Daten entsprechend der Schemata selektierte und die Kunstwerke über die Personen-ID mit dem entsprechenden Künstler verknüpfte.
 
 Somit entstanden vier XML-Dokumente, welche die XML-Datenbank darstellen.
 
@@ -184,13 +194,16 @@ class Artwork extends Base {
 }
 ```
 
-In obigen Beispiel wird eine Frage generiert, die eine richtige Antwort, drei falsche Antworten, den Künstler und den Wikilink enthält. Über vier Zufallszahlen wurden dabei sowohl das abzufragende Kunstwerk als auch die drei falschen Antworten zufällig ausgewählt. So können dann im Frontend zufällige Fragen nach dem Muster `http://URL/question/random` abgerufen werden.
+In obigen Beispiel wird eine Frage generiert, die eine richtige Antwort, drei falsche Antworten, den Künstler und den Wikilink enthält.
+Über vier Zufallszahlen wurden dabei sowohl das abzufragende Kunstwerk als auch die drei falschen Antworten zufällig ausgewählt.
+So können dann im Frontend zufällige Fragen nach dem Muster `http://URL/question/random` abgerufen werden.
+Intern wird dafür zufällig entschieden, welcher Fragetyp ausgewählt wird und die Anfrage beispielsweise an `/antwort/year` weitergeleitet (s.o.).
 
 ### Webinterface + semantische Daten
 
 Für die Entwicklung des Webinterfaces wurden PHP, HTML5, Javascript und CSS3 verwendet.
-Dabei wurde "Bootstrap 3" als CSS-Framework benutzt und das Webinterface dementsprechend responsive gestaltet.
-Beim Aufruf des Webinterfaces gelangt der Benutzer auf eine Startseite, in der er zwischen 10, 15 oder 20 Fragen auswählen kann.
+Dabei wurde "Bootstrap 3" als CSS-Framework benutzt und das Webinterface dementsprechend responsiv gestaltet.
+Beim Aufruf des Webinterfaces gelangt der Benutzer auf eine Startseite, in der er aus 10, 15 oder 20 Fragen auswählen kann.
 Die Fragen werden dann nacheinander angezeigt und dabei wird eine Statistik über richtige und falsche Antworten geführt und unten rechts angezeigt.
 Die Fragen werden über die REST-API einzeln vom Server abgerufen und enthalten jeweils immer folgende Felder:
 
